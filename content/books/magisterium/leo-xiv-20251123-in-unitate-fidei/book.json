@@ -1,0 +1,104 @@
+{
+  "id": "leo-xiv-20251123-in-unitate-fidei",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter In Unitate Fidei on the 1700th Anniversary of the Council of Nicaea",
+    "pt-BR": "Carta Apostólica In unitate fidei no 1.700º aniversário do Concílio de Nicéia",
+    "ar": "Apostolic Letter In Unitate Fidei on the 1700th Anniversary of the Council of Nicaea, 23 November 2025",
+    "be": "ПАПА ЛЕЎ XIV АПОСТАЛЬСКІ ЛІСТ IN UNITATE FIDEI з нагоды 1700-й гадавіны Нікейскага Сабору",
+    "de": "Apostolisches Schreiben In unitate fidei zum 1700. Jahrestag des Konzils von Nizäa",
+    "es": "Carta Apostólica In unitate fidei en el 1700 aniversario del Concilio de Nicea",
+    "fr": "Lettre apostolique In unitate fidei à l'occasion du 1700e anniversaire du Concile de Nicée",
+    "it": "Lettera Apostolica \"In unitate fidei\" nel 1700° anniversario del Concilio di Nicea",
+    "pl": "List apostolski In unitate fidei z okazji 1700. rocznicy Soboru Nicejskiego"
+  },
+  "author": {
+    "en-US": "Pope Leo XIV",
+    "pt-BR": "Papa Leão XIV",
+    "la": "Leo PP. XIV"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIV · 2025-11-23",
+    "pt-BR": "Carta Apostólica · Papa Leão XIV · 2025-11-23"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20251123-in-unitate-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20251123-in-unitate-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/leo-xiv/ar/apost_letters/documents/20251123-in-unitate-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/leo-xiv/be/apost_letters/documents/20251123-in-unitate-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/leo-xiv/de/apost_letters/documents/20251123-in-unitate-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20251123-in-unitate-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiv/fr/apost_letters/documents/20251123-in-unitate-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiv/it/apost_letters/documents/20251123-in-unitate-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/leo-xiv/pl/apost_letters/documents/20251123-in-unitate-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter In Unitate Fidei on the 1700th Anniversary of the Council of Nicaea",
+        "pt-BR": "Carta Apostólica In unitate fidei no 1.700º aniversário do Concílio de Nicéia",
+        "ar": "Apostolic Letter In Unitate Fidei on the 1700th Anniversary of the Council of Nicaea, 23 November 2025",
+        "be": "ПАПА ЛЕЎ XIV АПОСТАЛЬСКІ ЛІСТ IN UNITATE FIDEI з нагоды 1700-й гадавіны Нікейскага Сабору",
+        "de": "Apostolisches Schreiben In unitate fidei zum 1700. Jahrestag des Konzils von Nizäa",
+        "es": "Carta Apostólica In unitate fidei en el 1700 aniversario del Concilio de Nicea",
+        "fr": "Lettre apostolique In unitate fidei à l'occasion du 1700e anniversaire du Concile de Nicée",
+        "it": "Lettera Apostolica \"In unitate fidei\" nel 1700° anniversario del Concilio di Nicea",
+        "pl": "List apostolski In unitate fidei z okazji 1700. rocznicy Soboru Nicejskiego"
+      }
+    }
+  ]
+}

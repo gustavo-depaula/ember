@@ -26,6 +26,4 @@ As We remember the long course of Our pontificate, We are conscious that We have
 
 **LEO XIII**
 
-© Copyright 1898 - Libreria Editrice Vaticana
-
 *     *

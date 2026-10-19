@@ -150,8 +150,6 @@ Damit das geschehe, erbitten wir die mütterliche Hilfe der allerseligsten Jungf
 
 37, PG 31, 1013 b — 1016 c.
 
-Copyright 1980 © Libreria Editrice Vaticana
-
 *   *
 
 * *

@@ -1,0 +1,104 @@
+{
+  "id": "francis-spiritus-domini",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio Datae Spiritus Domini quibus canonis 230 § 1 Codicis Iuris Canonici normae de aditu personarum feminini sexus ad institutum ministerium Lectoratus et Acolythatus mutantur (die X mensis Ianuarii, anno MMXXI)",
+    "en-US": "Apostolic Letter in the form of Motu Proprio Spiritus Domini, modifying Canon 230 §1 of the Code of Canon Law regarding access of women to the ministries of Lector and Acolyte",
+    "pt-BR": "Carta Apostólica sob forma de Motu Proprio, sobre a modificação do cân. 230 § 1 do Código de Direito Canônico sobre o acesso das pessoas de sexo feminino ao ministério do Leitorado e do Acolitado",
+    "ar": "Apostolic Letter in the form of Motu Proprio Spiritus Domini, modifying Canon 230 §1 of the Code of Canon Law regarding access of women to the ministries of Lector and Acolyte, 10 January 2021",
+    "es": "Carta apostólica en forma de Motu proprio Spiritus Domini, sobre la modificación del can. 230 § 1 del Código de Derecho Canónico acerca del acceso de las personas de sexo femenino al ministerio instituido del Lectorado y del Acolitado",
+    "fr": "Lettre apostolique sous forme de Motu Proprio sur la modification du can. 230 § 1 du Code de droit canonique en ce qui concerne l'accès des personnes de sexe féminin au ministère institué du lectorat et de l'acolytat",
+    "hr": "Apostolsko Pismo u obliku Motuproprija \"Spiritus Domini\" Vrhovnog Svećenika Franje",
+    "it": "Lettera Apostolica in forma di Motu proprio, sulla modifica del can. 230 § 1 del Codice di Diritto Canonico circa l’accesso delle persone di sesso femminile al ministero istituito del Lettorato e dell’Accolitato",
+    "pl": "List Apostolski w formie „Motu Proprio” „Spiritus Domini” Ojca Świętego Franciszka, o zmianie Kanonu 230 § 1 Kodeksu Prawa Kanonicznego na temat dopuszczenia osób płci żeńskiej do urzędowej Posługilektoratu i Akolitatu"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2021-01-10",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2021-01-10"
+  },
+  "composed": "2021",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/francesco/hr/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio Datae Spiritus Domini quibus canonis 230 § 1 Codicis Iuris Canonici normae de aditu personarum feminini sexus ad institutum ministerium Lectoratus et Acolythatus mutantur (die X mensis Ianuarii, anno MMXXI)",
+        "en-US": "Apostolic Letter in the form of Motu Proprio Spiritus Domini, modifying Canon 230 §1 of the Code of Canon Law regarding access of women to the ministries of Lector and Acolyte",
+        "pt-BR": "Carta Apostólica sob forma de Motu Proprio, sobre a modificação do cân. 230 § 1 do Código de Direito Canônico sobre o acesso das pessoas de sexo feminino ao ministério do Leitorado e do Acolitado",
+        "ar": "Apostolic Letter in the form of Motu Proprio Spiritus Domini, modifying Canon 230 §1 of the Code of Canon Law regarding access of women to the ministries of Lector and Acolyte, 10 January 2021",
+        "es": "Carta apostólica en forma de Motu proprio Spiritus Domini, sobre la modificación del can. 230 § 1 del Código de Derecho Canónico acerca del acceso de las personas de sexo femenino al ministerio instituido del Lectorado y del Acolitado",
+        "fr": "Lettre apostolique sous forme de Motu Proprio sur la modification du can. 230 § 1 du Code de droit canonique en ce qui concerne l'accès des personnes de sexe féminin au ministère institué du lectorat et de l'acolytat",
+        "hr": "Apostolsko Pismo u obliku Motuproprija \"Spiritus Domini\" Vrhovnog Svećenika Franje",
+        "it": "Lettera Apostolica in forma di Motu proprio, sulla modifica del can. 230 § 1 del Codice di Diritto Canonico circa l’accesso delle persone di sesso femminile al ministero istituito del Lettorato e dell’Accolitato",
+        "pl": "List Apostolski w formie „Motu Proprio” „Spiritus Domini” Ojca Świętego Franciszka, o zmianie Kanonu 230 § 1 Kodeksu Prawa Kanonicznego na temat dopuszczenia osób płci żeńskiej do urzędowej Posługilektoratu i Akolitatu"
+      }
+    }
+  ]
+}

@@ -59,5 +59,3 @@ Volumus demum ut haec Constitutio Nostra firma, valida et efficax et ab omnibus,
 *Datum Romae, apud Sanctum Petrum, die VII mensis Octobris, in memoria Beatae Mariae Virginis a Rosario, anno MCMLXXXII, Pontificatus Nostri quarto.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1982 - Libreria Editrice Vaticana

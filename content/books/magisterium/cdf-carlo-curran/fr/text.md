@@ -1,5 +1,40 @@
 # Lettre au Père Charles Curran, 25 juillet 1986 - Congrégation pour la Doctrine de la Foi
 
-[TABLE]
+[](/index.htm)
 
-[TABLE]
+[](javascript:history.go(-1)) [](javascript:up())
+
+CONGRÉGATION POUR LA DOCTRINE DE LA FOI 
+
+**Lettre AU P. CHARLES CURRAN**
+
+25 juillet 1986
+
+Notre Congrégation désire accuser réception de votre lettre du 1^(er) avril 1986, dans laquelle se trouve jointe votre réponse définitive à ses observations critiques sur diverses positions que vous avez prises dans les ouvrages publiés par vous. Vous notez que vous «restez convaincu jusqu’à présent de la justesse de ces positions». Vous renouvelez aussi une proposition que vous avez qualifiée de «compromis», selon laquelle vous continueriez à enseigner la théologie morale, mais non dans le domaine de l’éthique sexuelle.
+
+Le but de cette lettre est de vous informer que la Congréga tion a confirmé sa position, selon laquelle quelqu’un qui, comme vous, est en désaccord avec le magistère n’est ni apte ni éligible pour enseigner la théologie catholique. En conséquence, elle refuse votre solution de compromis, en raison de l’unité organique de la théologie catholique authentique, unité qui, dans son contenu et dans sa méthode, est intimement liée à la fidélité au magistère de l’Église.
+
+Les diverses positions de désaccord que cette Congrégation vous a reprochées, précisément celles qui portent sur le droit au désaccord public avec le magistère ordinaire, l’indissolubilité du mariage consommé, l’avortement, l’euthanasie, la masturbation, la contraception artificielle, les relations pré­matrimoniales et les actes d’homosexualité, ont été énumérées assez soigneusement dans les observations mentionnées ci-dessus en juillet 1983, et ont été publiées depuis. Il n’est donc pas besoin d’entrer dans les détails sur le fait que vous êtes effectivement en désaccord sur ces questions.
+
+Il y a toutefois un aspect qui doit être éclairci. Votre affirmation fondamentale a été que, puisque vos positions sont convaincantes pour vous et s’écartent seulement de l’enseignement «non infaillible» de l’Église, elles constituent un «désaccord responsable» et devraient par conséquent être permises par l’Église. À cet égard, les considérations suivantes semblent nécessaires.
+
+Tout d’abord, on doit rappeler l’enseignement du Concile Vatican II, qui, de façon claire, ne limite pas le magistère infaillible seulement aux questions de foi, ou aux définitions solennelles. *Lumen gentium*, n° 25, déclare: «Lorsque cependant, même dispersés à travers le monde, mais gardant entre eux et avec le successeur de Pierre le lien de la communion, ils (les évêques) s’accordent pour enseigner authentiquement qu’une doctrine concernant la foi et les mœurs s’impose de manière absolue, alors, c’est la doctrine du Christ qu’infailliblement ils enseignent». En outre, l’Église ne construit pas sa vie seulement sur son magistère infaillible, mais aussi sur l’enseignement de son magistère authentique ordinaire.
+
+À la lumière de ces considérations, il est clair que vous n’avez pas tenu compte adéquatement, par exemple, du fait que la position de l’Église sur l’indissolubilité du mariage sacramentel consommé, dont vous prétendez qu’elle devrait être changée, a été en fait définie par le Concile de Trente et appartient donc au patrimoine de la foi. De même, vous ne donnez pas un poids suffisant à l’enseignement du Concile Vatican II lorsque, en pleine continuité avec la tradition de l’Église, il condamne l’avortement, en le qualifiant de «crime abominable». En tout cas, les fidèles ne sont pas seulement tenus d’accepter le magistère infaillible. Ils sont appelés à donner le religieux assentiment de l’intelligence et de la volonté à l’enseignement que le Pontife suprême ou le collège des évêques énoncent en matière de foi ou de morale lorsqu’ils exercent le magistère authentique, même s’ils n’entendent pas le proclamer par un acte définitif. Cela, vous avez continuellement refusé de le faire.
+
+Il y a en outre deux questions connexes qui ont fait l’objet d’amples malentendus, spécialement ces derniers mois, dans le cours de l’enquête de la Congrégation sur votre œuvre, et qui doivent être précisées. Tout d’abord, vous avez publiquement protesté parce qu’on ne vous a jamais dit qui étaient vos «accusateurs». La Congrégation a fondé son enquête exclusivement sur vos ouvrages publiés et sur vos réponses personnelles à ses observations. Ainsi, de fait, vos propres œuvres ont été vos «accusateurs», et elles seulement.
+
+Vous avez encore protesté parce qu’on ne vous aurait jamais donné la possibilité d’avoir recours à un avocat-conseil. Mais étant donné que l’enquête a été conduite sur la base de documents écrits, vous aviez toute possibilité de recourir à toutes les formes de conseil que vous vouliez. Il est clair d’ailleurs que vous l’avez fait. Dans votre lettre du 24 août 1984, en réponse aux «observations» de la Congrégation , vous déclariez que vous aviez pris vos positions «après un grand nombre... de consultations...»; et dans la lettre de la Congrégation du 17 septembre 1985, vous étiez même pressé de continuer de recourir à ces mêmes moyens, de telle façon que l’on puisse arriver à une solution acceptable des divergences entre vos positions et l’enseignement de l’Église. Finalement, à votre demande, lorsque vous êtes venu pour notre rencontre, le 8 mars 1986, vous étiez accompagné par un théologien de votre choix ayant votre confiance.
+
+En conclusion, cette Congrégation attire l’attention sur le fait que vous avez pris vos positions de désaccord comme professeur de théologie dans une faculté ecclésiastique d’une Université pontificale. Dans la lettre du 17 septembre 1985, il était observé que «les autorités de l’Église ne peuvent permettre que continue la situation présente, dans laquelle se prolonge la contradiction inhérente au fait que quelqu’un qui enseigne au nom de l’Église dénie en fait son enseignement». Aussi, à la suite de votre refus réitéré d’accepter ce que l’Église enseigne, étant donné son mandat de promouvoir et sauvegarder l’enseignement de l’Église sur la foi et la morale dans tout le monde catholique, cette Congrégation, en accord avec la Congrégation pour l’Éducation Catholique, ne voit pas d’autre solution que d’aviser le très révérend Chancelier que vous ne pouvez plus être considéré ni apte ni éligible pour exercer la fonction d’un professeur de théologie catholique.
+
+Cette décision a été présentée au Saint-Père au cours d’une audience accordée au Préfet soussigné, le 10 juillet de cette année, et il a approuvé à la fois son contenu et la procédure suivie.
+
+Ce Dicastère désire aussi vous informer que cette décision sera rendue publique dès qu’elle vous aura été communiquée.
+
+Puis-je enfin exprimer mon sincère espoir que ce résultat de l’étude de la Congrégation , regrettable mais nécessaire, puisse vous pousser à reconsidérer vos positions de désaccord et à accepter pleinement l’enseignement de l’Église catholique.
+
+**Joseph Card. Ratzinger**  
+*Préfet*
+
+[](#top)

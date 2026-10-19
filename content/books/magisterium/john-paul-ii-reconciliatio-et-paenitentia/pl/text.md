@@ -1065,5 +1065,3 @@ Wam wszystkim, którzy w duchu kościelnej komunii, w posłuszeństwie i w wierz
 ²⁰⁶ Por. JAN PAWEŁ II, Przemówienie podczas Audiencji ogólnej, 4 stycznia 1984 r.: *Insegnamenti*, VII, 1 (1984), 16-18.
 
 ²⁰⁷ Por. Rz 1, 5; 16, 26.
-
-© Copyright 1984 - Libreria Editrice Vaticana

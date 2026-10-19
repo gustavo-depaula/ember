@@ -26,5 +26,3 @@ Quaecumque vero a Nobis, hisce Litteris motu proprio datis, statuta sunt, ea omn
 *Datum Romae, apud Sanctum Petrum, die XV mensis Ianuarii, anno MCMXCIII, Pontificatus Nostri quinto decimo.*  
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1993 Libreria Editrice Vaticana

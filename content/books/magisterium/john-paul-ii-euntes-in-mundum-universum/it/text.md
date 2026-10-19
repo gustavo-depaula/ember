@@ -168,6 +168,4 @@ Eleviamo per questo con tutto il cuore la nostra preghiera alla Santissima Trini
 
 *Dato a Roma, presso San Pietro, il 25 gennaio - nella festa della conversione di san Paolo - dell'anno 1988, decimo di Pontificato.*
 
-© Copyright 1988 - Libreria Editrice Vaticana
-
 * *

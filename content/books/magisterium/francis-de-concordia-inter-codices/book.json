@@ -1,0 +1,56 @@
+{
+  "id": "francis-de-concordia-inter-codices",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio datae \"De concordia inter Codices\" quibus nonnullae normae Codicis Iuris Canonici immutantur (die XXXI mensis Maii anno MMXVI)",
+    "es": "Carta apostólica “De concordia inter Codices” en forma de «Motu Proprio» con la que se modifican algunas normas del Código de Derecho Canónico",
+    "it": "Lettera Apostolica “De concordia inter Codices” in forma di 'Motu Proprio' con la quale vengono mutate alcune norme del Codice di Diritto Canonico"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2016-05-31",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2016-05-31"
+  },
+  "composed": "2016",
+  "languages": [
+    "la",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_letters/documents/papa-francesco-lettera-ap_20160531_de-concordia-inter-codices.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_letters/documents/papa-francesco-lettera-ap_20160531_de-concordia-inter-codices.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco-lettera-ap_20160531_de-concordia-inter-codices.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio datae \"De concordia inter Codices\" quibus nonnullae normae Codicis Iuris Canonici immutantur (die XXXI mensis Maii anno MMXVI)",
+        "es": "Carta apostólica “De concordia inter Codices” en forma de «Motu Proprio» con la que se modifican algunas normas del Código de Derecho Canónico",
+        "it": "Lettera Apostolica “De concordia inter Codices” in forma di 'Motu Proprio' con la quale vengono mutate alcune norme del Codice di Diritto Canonico"
+      }
+    }
+  ]
+}

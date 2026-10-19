@@ -108,8 +108,6 @@ Confortatrice delle Nostre speranze, e auspicio delle divine grazie, sia l'apost
 
 ------------------------------------------------------------------------
 
-© Copyright 1961 - Libreria Editrice Vaticana
-
 [^1]: (#fnref1)) IOANNES PP. XXIII, Litt. enc. Aeterna Dei sapientia de Sancto Leone I Magno, Pontifice Maximo et Ecclesiae Doctore, ab eius obitu anno millesimo quingentesimo exeunte, \[Ad venerabiles fratres Patriarchas, Primates, Archiepiscopos, Episcopos aliosque locorum Ordinarios pacem et communionem cum Apostolica Sede habentes\], 11 novembris 1961: AAS 53(1961), pp. 785-803. Versione italiana: L'Osservatore romano, 9-10 dic. 1961.  
 San Leone Magno pontefice, pastore e dottore: servitore fedele della sede apostolica; pastore della chiesa universale; luminare di dottrina. – Il XV centenario leoniano e il concilio Vaticano II: l'unità della chiesa nel pensiero del santo; il vescovo di Roma centro dell'unità visibile; prerogative del magistero di san Pietro e dei suoi successori; grandezza spirituale dell'Urbe; vasta risonanza di mirabile opera; voti per il ritorno dei fratelli separati. – Esortazione finale.
 

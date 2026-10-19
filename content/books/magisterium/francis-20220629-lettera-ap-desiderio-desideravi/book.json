@@ -1,0 +1,104 @@
+{
+  "id": "francis-20220629-lettera-ap-desiderio-desideravi",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae “Desiderio desideravi” (die XXIX mensis Iunii, anno Domini MMXXII)",
+    "en-US": "Apostolic Letter Desiderio desideravi, on the liturgical formation of the People of God",
+    "pt-BR": "Carta Apostólica Desiderio desideravi sobre a formação litúrgica do povo de Deus",
+    "be": "Апостальскі ліст DESIDERIO DESIDERAVI Святога Айца Францішка Да біскупаў, прэзбітэраў і дыяканаў, кансэкраваных асобаў і ўсіх свецкіх вернікаў Аб літургічнай фармацыі Божага народу",
+    "de": "Apostolisches Schreiben Desiderio desideravi über die liturgische Bildung des Volkes Gottes",
+    "es": "Carta apostólica Desiderio desideravi sobre la formación litúrgica del pueblo de Dios",
+    "fr": "Lettre apostolique Desiderio desideravi sur la formation liturgique du Peuple de Dieu",
+    "it": "Lettera Apostolica \"Desiderio desideravi\" sulla formazione liturgica del popolo di Dio",
+    "vi": "TÔNG THƯ DESIDERIO DESIDERAVI CỦA ĐỨC THÁNH CHA PHANXICÔ GỬI CÁC GIÁM MỤC, LINH MỤC VÀ PHÓ TẾ, NHỮNG NGƯỜI SỐNG ĐỜI THÁNH HIẾN VÀ GIÁO DÂN VỀ ĐÀO TẠO PHỤNG VỤ CHO DÂN THIÊN CHÚA"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2022-06-29",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2022-06-29"
+  },
+  "composed": "2022",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "vi"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/content/francesco/vi/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae “Desiderio desideravi” (die XXIX mensis Iunii, anno Domini MMXXII)",
+        "en-US": "Apostolic Letter Desiderio desideravi, on the liturgical formation of the People of God",
+        "pt-BR": "Carta Apostólica Desiderio desideravi sobre a formação litúrgica do povo de Deus",
+        "be": "Апостальскі ліст DESIDERIO DESIDERAVI Святога Айца Францішка Да біскупаў, прэзбітэраў і дыяканаў, кансэкраваных асобаў і ўсіх свецкіх вернікаў Аб літургічнай фармацыі Божага народу",
+        "de": "Apostolisches Schreiben Desiderio desideravi über die liturgische Bildung des Volkes Gottes",
+        "es": "Carta apostólica Desiderio desideravi sobre la formación litúrgica del pueblo de Dios",
+        "fr": "Lettre apostolique Desiderio desideravi sur la formation liturgique du Peuple de Dieu",
+        "it": "Lettera Apostolica \"Desiderio desideravi\" sulla formazione liturgica del popolo di Dio",
+        "vi": "TÔNG THƯ DESIDERIO DESIDERAVI CỦA ĐỨC THÁNH CHA PHANXICÔ GỬI CÁC GIÁM MỤC, LINH MỤC VÀ PHÓ TẾ, NHỮNG NGƯỜI SỐNG ĐỜI THÁNH HIẾN VÀ GIÁO DÂN VỀ ĐÀO TẠO PHỤNG VỤ CHO DÂN THIÊN CHÚA"
+      }
+    }
+  ]
+}

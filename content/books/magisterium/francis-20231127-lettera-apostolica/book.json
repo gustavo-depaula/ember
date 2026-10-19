@@ -1,0 +1,40 @@
+{
+  "id": "francis-20231127-lettera-apostolica",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Apostolica, in forma di Motu Proprio, con la quale vengono modificati e integrati il Motu Proprio \"sulla trasparenza, il controllo e la concorrenza nelle procedure di aggiudicazione dei contratti pubblici della Santa Sede e dello Stato della Città del Vaticano\", del 19 maggio 2020, e le relative \"Norme\" e \"Tutela giurisdizionale\""
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2023-11-27",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2023-11-27"
+  },
+  "composed": "2023",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/20231127-lettera-apostolica.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Apostolica, in forma di Motu Proprio, con la quale vengono modificati e integrati il Motu Proprio \"sulla trasparenza, il controllo e la concorrenza nelle procedure di aggiudicazione dei contratti pubblici della Santa Sede e dello Stato della Città del Vaticano\", del 19 maggio 2020, e le relative \"Norme\" e \"Tutela giurisdizionale\""
+      }
+    }
+  ]
+}

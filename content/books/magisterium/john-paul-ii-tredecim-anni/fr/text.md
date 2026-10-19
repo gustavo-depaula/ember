@@ -66,5 +66,3 @@ Toutes les choses qui ont été décrétées par nous dans ce motu proprio, nous
 *Donné à Rome, près de Saint-Pierre, le 6 août 1982, en la fête de la Transfiguration de Notre-Seigneur Jésus-Christ, quatrième année de notre pontificat.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1982 - Libreria Editrice Vaticana

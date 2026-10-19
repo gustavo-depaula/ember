@@ -99,5 +99,3 @@ Furthermore, this very civil activity of the Mexican Catholics, carried out with
 Given at St. Peter's in Rome on the Feast of the Resurrection, March 28, 1937, the fifteenth year of Our Pontificate.
 
 **PIUS XI**
-
-© Copyright - Libreria Editrice Vaticana

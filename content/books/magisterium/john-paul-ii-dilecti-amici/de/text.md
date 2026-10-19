@@ -349,6 +349,4 @@ Ich wiederhole diese Worte der Gottesmutter und richte sie an euch Jugendliche, 
 
 **JOHANNES PAUL II.**
 
-Copyright 1985 © Libreria Editrice Vaticana
-
 *  *

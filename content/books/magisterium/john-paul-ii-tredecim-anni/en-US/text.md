@@ -62,5 +62,3 @@ We decree that all that which is established by the present letter *motu proprio
 *Given in Rome, at Saint Peters, 6 August 1982, feast of the Transfiguration of our Lord Jesus Christ, fourth year of our pontificate.*
 
 **JOHN PAUL II**
-
-© Copyright 1982 - Libreria Editrice Vaticana

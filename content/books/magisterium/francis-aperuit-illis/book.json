@@ -1,0 +1,136 @@
+{
+  "id": "francis-aperuit-illis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter in the form of Motu Proprio of the Supreme Pontiff Francis \"Aperuit illis\"",
+    "pt-BR": "Carta Apostólica sob forma de Motu Proprio Aperuit illis pela qual se institui o Domingo da Palavra de Deus",
+    "ar": "Apostolic Letter in the form of Motu Proprio of the Supreme Pontiff Francis \"Aperuit illis\", 30 September 2019",
+    "be": "Апостальскі ліст у форме MOTU PROPRIO Святога Айца Францішка APERUIT ILLIS у якім ён устанаўлівае Нядзелю Божага слова, 30 верасня 2019 года",
+    "de": "Apostolisches Schreiben in Form eines Motu Proprio des Heiligen Vaters Papst Franziskus \"Aperuit illis\" zur Einführung des Sonntags des Wortes Gottes",
+    "es": "Carta apostólica en forma de Motu Proprio Aperuit illis con la que se instituye el Domingo de la Palabra de Dios",
+    "fr": "Lettre apostolique en forme de Motu proprio Aperuit illis par laquelle est institué le Dimanche de la Parole de Dieu",
+    "it": "Lettera Apostolica in forma di Motu proprio \"Aperuit illis\" con la quale viene istituita la \"Domenica della Parola di Dio\"",
+    "pl": "List Apostolski w formie Motu Proprio Ojca Świętego Franciszka Aperuit illis w którym ustanawia Niedzielę Słowa Bożego",
+    "sw": "Kiti Kitakatifu WARAKA WA KITUME KWA JINSI YA “MOTU PROPRIO” WA BABA MTAKATIFU FRANSISKO “ALIWAFUNULIA AKILI ZAO” AMBAO KWA NJIA YAKE INAANZISHWA DOMINIKA YA NENO LA MUNGU",
+    "vi": "TÔNG THƯ BAN HÀNH DƯỚI DẠNG TỰ SẮC CỦA ĐỨC GIÁO HOÀNG PHANXICÔ “APERUIT ILLIS” THIẾT LẬP NGÀY CHÚA NHẬT LỜI CHÚA",
+    "zh-CN": "教宗方济各宗座牧函 《开启他们的明悟》手谕 为设立天主圣言主日",
+    "zh-TW": "Apostolic Letter in the form of Motu Proprio of the Supreme Pontiff Francis \"Aperuit illis\""
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2019-09-30",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2019-09-30"
+  },
+  "composed": "2019",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "sw",
+    "vi",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/content/francesco/sw/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/content/francesco/vi/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter in the form of Motu Proprio of the Supreme Pontiff Francis \"Aperuit illis\"",
+        "pt-BR": "Carta Apostólica sob forma de Motu Proprio Aperuit illis pela qual se institui o Domingo da Palavra de Deus",
+        "ar": "Apostolic Letter in the form of Motu Proprio of the Supreme Pontiff Francis \"Aperuit illis\", 30 September 2019",
+        "be": "Апостальскі ліст у форме MOTU PROPRIO Святога Айца Францішка APERUIT ILLIS у якім ён устанаўлівае Нядзелю Божага слова, 30 верасня 2019 года",
+        "de": "Apostolisches Schreiben in Form eines Motu Proprio des Heiligen Vaters Papst Franziskus \"Aperuit illis\" zur Einführung des Sonntags des Wortes Gottes",
+        "es": "Carta apostólica en forma de Motu Proprio Aperuit illis con la que se instituye el Domingo de la Palabra de Dios",
+        "fr": "Lettre apostolique en forme de Motu proprio Aperuit illis par laquelle est institué le Dimanche de la Parole de Dieu",
+        "it": "Lettera Apostolica in forma di Motu proprio \"Aperuit illis\" con la quale viene istituita la \"Domenica della Parola di Dio\"",
+        "pl": "List Apostolski w formie Motu Proprio Ojca Świętego Franciszka Aperuit illis w którym ustanawia Niedzielę Słowa Bożego",
+        "sw": "Kiti Kitakatifu WARAKA WA KITUME KWA JINSI YA “MOTU PROPRIO” WA BABA MTAKATIFU FRANSISKO “ALIWAFUNULIA AKILI ZAO” AMBAO KWA NJIA YAKE INAANZISHWA DOMINIKA YA NENO LA MUNGU",
+        "vi": "TÔNG THƯ BAN HÀNH DƯỚI DẠNG TỰ SẮC CỦA ĐỨC GIÁO HOÀNG PHANXICÔ “APERUIT ILLIS” THIẾT LẬP NGÀY CHÚA NHẬT LỜI CHÚA",
+        "zh-CN": "教宗方济各宗座牧函 《开启他们的明悟》手谕 为设立天主圣言主日",
+        "zh-TW": "Apostolic Letter in the form of Motu Proprio of the Supreme Pontiff Francis \"Aperuit illis\""
+      }
+    }
+  ]
+}

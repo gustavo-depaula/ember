@@ -59,5 +59,3 @@ Quaecumque a Nobis hisce Litteris motu proprio datis decreta sunt, ea omnia firm
 *Datum Romae, apud Sanctum Petrum, die VI mensis Augusti, anno MCMLXXXII, in Festo Transfigurationis D. N. I. C., Pontificatus Nostri quarto.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1982 - Libreria Editrice Vaticana

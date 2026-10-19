@@ -1,0 +1,152 @@
+{
+  "id": "francis-20231004-laudate-deum",
+  "cover": "quarter",
+  "name": {
+    "la": "\"Laudate Deum\": Adhortatio Apostolica omnibus hominibus bonae voluntatis de caeli status discrimine (die quarto mensis Octobris, memoria S. Francisci Assisiensis, anno Domini bismillesimo vicesimo tertio)",
+    "en-US": "\"Laudate Deum\": Apostolic Exhortation to all people of good will on the climate crisis",
+    "pt-BR": "\"Laudate Deum\": Exortação Apostólica a todas as pessoas de boa vontade sobre a crise climática",
+    "ar": "\"Laudate Deum\": Apostolic Exhortation to all people of good will on the climate crisis, 4 October 2023",
+    "be": "АПОСТАЛЬСКАЯ АДГАРТАЦЫЯ LAUDATE DEUM СВЯТОГА АЙЦА ФРАНЦІШКА ДА ЎСІХ ЛЮДЗЕЙ ДОБРАЙ ВОЛІ АБ КЛІМАТЫЧНЫМ КРЫЗІСЕ",
+    "cs": "Apoštolská exhortace Svatého otce Františka Laudate Deum („Chvalte Boha“) všem lidem dobré vůle o klimatické krizi",
+    "de": "\"Laudate Deum\": Apostolisches Schreiben an alle Menschen guten Willens über die Klimakrise",
+    "es": "Laudate Deum: Exhortación Apostólica a todas las personas de buena voluntad, sobre la crisis climática",
+    "fr": "Laudate Deum : Exhortation apostolique à toutes les personnes de bonne volonté, sur la crise climatique",
+    "it": "\"Laudate Deum\": Esortazione Apostolica a tutte le persone di buona volontà sulla crisi climatica",
+    "pl": "\"Laudate Deum\": Adhortacja apostolska Ojca Świętego Franciszka do wszystkich ludzi dobrej woli o kryzysie klimatycznym",
+    "sl": "\"Laudate Deum\": Apostolska spodbuda Hvalite Boga vsem ljudem dobre volje o podnebni krizi",
+    "uk": "АПОСТОЛЬСЬКЕ ПОВЧАННЯ LAUDATE DEUM СВЯТІШОГО ОТЦЯ ФРАНЦИСКА УСІМ ЛЮДЯМ ДОБРОЇ ВОЛІ ПРО КЛІМАТИЧНУ КРИЗУ",
+    "zh-CN": "教宗方济各 《请赞颂天主》宗座劝谕 致心怀善念、关心气候危机的大众",
+    "zh-TW": "教宗方濟各 《請讚頌天主》宗座勸諭 致心懷善念、關心氣候危機的大眾"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Francis · 2023-10-04",
+    "pt-BR": "Exortação Apostólica · Papa Francisco · 2023-10-04"
+  },
+  "composed": "2023",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "sl",
+    "uk",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/content/francesco/cs/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sl",
+      "url": "https://www.vatican.va/content/francesco/sl/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "uk",
+      "url": "https://www.vatican.va/content/francesco/uk/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/apost_exhortations/documents/20231004-laudate-deum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "\"Laudate Deum\": Adhortatio Apostolica omnibus hominibus bonae voluntatis de caeli status discrimine (die quarto mensis Octobris, memoria S. Francisci Assisiensis, anno Domini bismillesimo vicesimo tertio)",
+        "en-US": "\"Laudate Deum\": Apostolic Exhortation to all people of good will on the climate crisis",
+        "pt-BR": "\"Laudate Deum\": Exortação Apostólica a todas as pessoas de boa vontade sobre a crise climática",
+        "ar": "\"Laudate Deum\": Apostolic Exhortation to all people of good will on the climate crisis, 4 October 2023",
+        "be": "АПОСТАЛЬСКАЯ АДГАРТАЦЫЯ LAUDATE DEUM СВЯТОГА АЙЦА ФРАНЦІШКА ДА ЎСІХ ЛЮДЗЕЙ ДОБРАЙ ВОЛІ АБ КЛІМАТЫЧНЫМ КРЫЗІСЕ",
+        "cs": "Apoštolská exhortace Svatého otce Františka Laudate Deum („Chvalte Boha“) všem lidem dobré vůle o klimatické krizi",
+        "de": "\"Laudate Deum\": Apostolisches Schreiben an alle Menschen guten Willens über die Klimakrise",
+        "es": "Laudate Deum: Exhortación Apostólica a todas las personas de buena voluntad, sobre la crisis climática",
+        "fr": "Laudate Deum : Exhortation apostolique à toutes les personnes de bonne volonté, sur la crise climatique",
+        "it": "\"Laudate Deum\": Esortazione Apostolica a tutte le persone di buona volontà sulla crisi climatica",
+        "pl": "\"Laudate Deum\": Adhortacja apostolska Ojca Świętego Franciszka do wszystkich ludzi dobrej woli o kryzysie klimatycznym",
+        "sl": "\"Laudate Deum\": Apostolska spodbuda Hvalite Boga vsem ljudem dobre volje o podnebni krizi",
+        "uk": "АПОСТОЛЬСЬКЕ ПОВЧАННЯ LAUDATE DEUM СВЯТІШОГО ОТЦЯ ФРАНЦИСКА УСІМ ЛЮДЯМ ДОБРОЇ ВОЛІ ПРО КЛІМАТИЧНУ КРИЗУ",
+        "zh-CN": "教宗方济各 《请赞颂天主》宗座劝谕 致心怀善念、关心气候危机的大众",
+        "zh-TW": "教宗方濟各 《請讚頌天主》宗座勸諭 致心懷善念、關心氣候危機的大眾"
+      }
+    }
+  ]
+}

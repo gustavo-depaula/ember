@@ -137,5 +137,3 @@ Nel presentarlo oggi in forma solenne alla Chiesa e al mondo, desidero invitare 
 Al nostro Redentore ed alla sua Santissima Madre raccomando le attività che durante questo anno giubilare avranno luogo per commemorare il transito alla gloria di San Giovanni della Croce, mentre imparto di cuore la mia Benedizione Apostolica.
 
 *Dato in Roma, presso San Pietro, il giorno 14 dicembre, festa di San Giovanni della Croce, Dottore della Chiesa, dell’anno 1990, decimoterzo del mio Pontificato.*
-
-© Copyright 1989 - Libreria Editrice Vaticana

@@ -30,8 +30,6 @@ Frattanto Noi non cesseremo d’invocare su voi tutti i doni della divina bontà
 
 ------------------------------------------------------------------------
 
-© Copyright - Libreria Editrice Vaticana
-
 [^1]: \[\] *I Tim*., VI, 17, 18.
 
 [^2]: \[\] *Sap*., VI, 8.

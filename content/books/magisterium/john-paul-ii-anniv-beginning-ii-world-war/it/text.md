@@ -174,6 +174,4 @@ Che la sua pace e la sua benedizione siano con tutti voi!
 
 \**Insegnamenti di Giovanni Paolo II*, vol. XII, 2 p. 381-390.
 
-© Copyright 1989 - Libreria Editrice Vaticana
-
 * *

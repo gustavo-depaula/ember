@@ -209,5 +209,3 @@ In spirito di carità fraterna, a voi e a tutti i confratelli nel sacerdozio, mi
 *Dal Vaticano, il 24 febbraio, prima domenica di quaresima, dell'anno 1980, secondo di Pontificato.*
 
 **GIOVANNI PAOLO II** *  *
-
-Copyright 1980 © Libreria Editrice Vaticana

@@ -41,5 +41,3 @@ Quaecumque a Nobis hisce Litteris Apostolicis Motu Proprio datis statuuntur, ea 
 *Datum Romae, apud Sanctum Petrum, die XXI mensis Novembris, anno MCMLXRXVII.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1987 Libreria Editrice Vaticana

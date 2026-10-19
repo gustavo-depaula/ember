@@ -425,6 +425,4 @@ Mit diesen Wünschen erteile ich allen Gläubigen und in besonderer Weise den Fr
 
 *  *  
 
-© Copyright 1988 - Libreria Editrice Vaticana
-
 *   *

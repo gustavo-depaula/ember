@@ -116,5 +116,3 @@ Nostra haec autem statuta et praescripta nunc et in posterum firma et efficacia 
 ------------------------------------------------------------------------
 
 \* A.A.S. LXI (1969), pp. 297-305
-
-© Copyright 1969 - Libreria Editrice Vaticana

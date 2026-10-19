@@ -37,5 +37,3 @@ REFERENCES:
 4\. Phil. ii, 2.
 
 5\. Antiph. Liturg. Arm.
-
-© Copyright 1888 - Libreria Editrice Vaticana

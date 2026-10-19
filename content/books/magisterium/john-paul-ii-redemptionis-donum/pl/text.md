@@ -483,5 +483,3 @@ W Rzymie, u św. Piotra, dnia 25 marca 1984, w Jubileuszowym Roku Odkupienia, w 
 ¹¹⁰ Ef 3, 17-19.
 
 ¹¹¹ 1 Kor 1, 9.
-
-© Copyright 1984 - Libreria Editrice Vaticana

@@ -1,0 +1,40 @@
+{
+  "id": "francis-20241001-lavera-bellezza",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Apostolica in forma di «Motu Proprio» La vera bellezza sulla ripartizione del territorio della diocesi di Roma"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2024-10-01",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2024-10-01"
+  },
+  "composed": "2024",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20241001-lavera-bellezza.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Apostolica in forma di «Motu Proprio» La vera bellezza sulla ripartizione del territorio della diocesi di Roma"
+      }
+    }
+  ]
+}

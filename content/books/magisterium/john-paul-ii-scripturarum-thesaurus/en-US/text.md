@@ -33,5 +33,3 @@ Finally we decree that this Constitution of ours be firm and forever efficacious
 *Given in Rome at St Peter's, 25 April, on the feast of Saint Mark the Evangelist, in the year 1979, the first of our Pontificate.*
 
 IOANNES PAULUS PP. II
-
-© Copyright 1979 Libreria Editrice Vaticana

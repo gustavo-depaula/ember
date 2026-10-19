@@ -183,5 +183,3 @@ Hoc omine, fiduciae pleno, quod in corde deprecatio fit, Benedictionem Apostolic
 *Ex Aedibus Vaticanis, die IV mensis Decembris, anno MCMLXXXVIII, Pontificatus Nostri undecimo.*  
 
 IOANNES PAULUS PP. II
-
-© Copyright 1988 - Libreria Editrice Vaticana

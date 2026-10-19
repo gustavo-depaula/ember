@@ -1437,5 +1437,3 @@ Amen!
 \(232\) G.B. Montini, Hirtenschreiben *Vom Sinn der Moral*, 1961.
 
 \(233\) Vgl. Propositio 40.
-
-© Copyright 1992 - Libreria Editrice Vaticana

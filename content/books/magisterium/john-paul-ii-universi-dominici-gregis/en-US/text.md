@@ -19,7 +19,10 @@ BY THE SUPREME PONTIFF BENEDICT XVI
 IN THE APOSTOLIC LETTER ISSUED MOTU PROPRIO  
 *[NORMAS NONNULLAS](https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html)* OF 22 FEBRUARY 2013
 
-[TABLE]
+**Original Version of 22 February 1996 **\[[**pdf**](https://www.vatican.va/content/dam/john-paul-ii/pdf/apost_constitutions/documents/universi-dominici-gregis-19960222_en.pdf)\]
+
+**Motu Proprio with which Pope Benedict XVI reinstates the traditional norms for the majority required to elect the Supreme Pontiff (11 June 2007)**  
+\[[French](https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [German](https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [Latin](https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html)\]  
 
 **Current Version as of 22 February 2013**
 

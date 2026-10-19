@@ -31,5 +31,3 @@ Nell’invocare la divina assistenza sull’attività della nuova Accademia, i c
 *Dal Vaticano, il 1° gennaio dell’anno 1994, sedicesimo di Pontificato.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1994 - Libreria Editrice Vaticana

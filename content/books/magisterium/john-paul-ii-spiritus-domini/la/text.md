@@ -91,5 +91,3 @@ Laeti profecto, quod per has apostolicas Litteras celebrationes tum Ecclesiae tu
 *Ex Aedibus Vaticanis, die I mensis Augusti, anno MDCCCCLXXXVII, Pontificatus Nostri nono*.
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1988 - Libreria Editrice Vaticana

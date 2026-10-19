@@ -236,5 +236,3 @@ Con questi voti di gran cuore vi benedico.
 *Dal Vaticano, il 25 marzo dell'Anno Giubilare della Redenzione 1984, sesto di Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-© Copyright 1984 - Libreria Editrice Vaticana

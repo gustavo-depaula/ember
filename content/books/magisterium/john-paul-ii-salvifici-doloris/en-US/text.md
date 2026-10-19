@@ -535,6 +535,4 @@ To all of you, dearest brothers and sisters, I send my Apostolic Blessing.
 
 \(103\) Cfr. *ibid*. 19, 25.
 
-© Copyright 1984 - Libreria Editrice Vaticana
-
 *  *

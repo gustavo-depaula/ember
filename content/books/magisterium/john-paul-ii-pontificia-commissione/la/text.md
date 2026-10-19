@@ -33,5 +33,3 @@ Quaecumque vero a Nobis hisce Litteris motu proprio datis decreta sunt, ea omnia
 *Datum Romae, apud Sanctum Petrum die altera mensis Ianuarii anno MDCCCCLXXXIV, Pontificatus Nostri sexto.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1984 - Libreria Editrice Vaticana

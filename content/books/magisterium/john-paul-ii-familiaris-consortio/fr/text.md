@@ -1440,5 +1440,3 @@ A tous et à chacun, en vous assurant de ma prière constante, j'accorde de gran
 182 Jean-Paul II, lettre Appropinquat iam, 15 août 1980, n. 1: AAS 72 (1980), p. 791.
 
 183 Préface de la messe de la solennité du Christ, Roi de l'univers.
-
-© Copyright 1981 - Libreria Editrice Vaticana

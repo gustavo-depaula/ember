@@ -1,0 +1,45 @@
+# Commento al Decreto sul Rito della "Lavanda dei Piedi" - Congregazione per il Culto Divino e la Disciplina dei Sacramenti
+
+[](/index.htm)
+
+[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
+
+[](javascript:history.go(-1))
+
+[](javascript:up())
+
+[](#)
+
+------------------------------------------------------------------------
+
+CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
+
+**DEKRET**
+
+***IN MISSA IN CENA DOMINI***
+
+**DAŁEM WAM PRZYKŁAD**
+
+Dekretem *In* *Missa in cena Domini* Kongregacja Kultu Bożego i Dyscypliny Sakramentów, z polecenia Ojca Świętego, wprowadziła zmianę do rubryki *Missale Romanum* dotyczącej obrzędu umywania nóg (s. 300, n. 11), związanego od wieków w różny sposób z Wielkim Czwartkiem, który od czasów reformy Wielkiego Tygodnia w 1955 r., może mieć również miejsce podczas Mszy Wieczerzy Pańskiej rozpoczynającej Święte Triduum Paschalne.
+
+Obrzęd ten, postrzegany w świetle Ewangelii według św. Jana, posiada tradycyjnie podwójne znaczenie, tzn. naśladuje gest Jezusa w Wieczerniku umywającego Apostołom nogi, i wyraża dar, ofiarowanie samego siebie, zawarte w tej posłudze. Nie przypadkiem więc nazywany został *Mandatum*, od *incipit* pierwszej antyfony, która mu towarzyszyła: «Mandatum novum do vobis, ut diligatis invicem, sicut dilexi vos, dicit Dominus» (J 13,14). Przykazanie wzajemnej miłości, rzeczywiście bowiem dotyczy wszystkich uczniów Chrystusa, bez wyróżniania czy wykluczania kogokolwiek.
+
+«Pontifex suis cubicularibus pedes lavat et unusquisque clericorum in domo sua» można przeczytać już w dawnym *ordo* z VII wieku. Stosowany w różny sposób w wielu diecezjach i opactwach, obecny jest również w Pontifikale Rzymskim z XII wieku, po Nieszporach Wielkiego Czwartku, oraz w praktyce Kurii Rzymskiej w wieku XIII («facit mandatum duodecim subdiaconos»). W *Missale Romanum* św. Piusa V (1570), obrzęd *Mandatum* opisany został następująco: «Post denudationem altarium, hora competenti, facto signo cum tabula, conveniunt clerici ad faciendum mandatum. Maior abluit pedes minoribus: tergit et osculatur». Wykonywało się go przy śpiewie antyfon, z których ostatnią była *Ubi caritas*: obrzęd kończył się *Pater noster* i modlitwą, która łączyła przykazanie służenia braciom z oczyszczeniem z grzechów: «Adesto Domine, quaesumus, officio servitutis nostrae: et quia tu discipulis tuis pedes lavare dignatus es, ne despicias opera manuum tuarum, quae nobis retinenda mandasti: ut sicut hic nobis, et a nobis exteriora abluuntur inquinamenta; sic a te omnium nostrum interiora laventur peccata. Quod ipse praestare digneris, qui vivis et regnas, Deus, per omnia saecula saeculorum». Obrzęd zarezerwowany był dla duchownych («conveniunt clerici»), i odczytywany w świetle Ewangelii z porannej Mszy świętej; brak wzmianki o “dwunastu” wydaje się sugerować, że ważne w nim było nie tyle naśladowanie samego gestu Jezusa w Wieczerniku, ile raczej Jego postawy, ciągle aktualnej dla Jego uczniów.
+
+Opis «De Mandato seu lotione pedum» w *Caeremoniale Episcoporum* z roku 1600 jest już bardziej szczegółowy. Mówi on o tym, że po Nieszporach albo przy obiedzie, w kościele, sali kapitularnej lub innym stosownym miejscu, biskup umywa, wyciera i całuje stopy “trzynastu” biednym, po wcześniejszym ich nakarmieniu, przebraniu i obdarowaniu jałmużną, lub całuje stopy „trzynastu” kanonikom, według miejscowego zwyczaju i woli samego biskupa, który może wybrać biednych także tam gdzie według zwyczaju byli to kanonicy: «videtur enim eo pacto maiorem humilitatem, et charitatem prae se ferre, quam lavare pedes Canonicis». Sam obrzęd dotyczył jednak głównie kleru, choć niektóre zwyczaje lokalne włączały do niego, jak wspomniano wyżej, biednych lub chłopców (por. np. *Missale Parisiense*). Obrzęd umywania nóg był więc gestem znaczącym, ale nie dla całego Ludu Bożego: *Caeremoniale Episcoporum* wyraźnie zezwalało nań tylko w katedrach i kolegiatach.
+
+Wraz z reformą papieża Piusa XII, która przesunęła *Missa in cena Domini* na porę wieczorną, obrzęd umywania nóg, ze względów pastoralnych, może mieć miejsce podczas samej Mszy świętej, po homilii, dla «duodecim viros selectos», znajdujacych się «in medio presbyterii vel in ipsa aula ecclesiae», którym celebrans umywa i wyciera stopy (nie wspomina się już o ich ucałowaniu). Obrzęd tym samym wyzbył się swego charakteru klerykalnego i zamkniętego, odbywa się bowiem na oczach całego zgromadzenia, a określenie «dwunastu mężczyzn» nadaje mu bardziej charakter znaku naśladującego, niemal świętego przedstawienia, które ułatwia zachowanie w pamięci tego, co Jezus uczynił podczas pierwszego Wielkiego Czwartku.
+
+*Missale Romanum* z roku 1970 przejął obrzęd niedawno zreformowany, upraszczając niektóre jego elementy: opuszcza liczbę «dwunastu», wskazuje, że odbywa się «w odpowiednim miejscu», pomija jedną antyfonę i upraszcza pozostałe, *Ubi caritas* przesuwa na procesję z darami i opuszcza całą część końcową (*Pater noster* i modlitwę), pozostałości odrębnego obrzędu, sprawowanego poza Mszą świętą. Pozostawał on jednak ciągle zarezerwowany tylko do “mężczyzn” ze względu na jego charakter naśladujący gest Jezusa.
+
+Obecna zmiana przewiduje udział w obrzędzie osób wybranych spośród wszystkich członków Ludu Bożego. Jego wartość polega więc już nie tyle na zewnętrznym naśladowaniu gestu, który uczynił Jezus, ile raczej na nadaniu mu pewnego ogólnego znaczenia polegającego na ofiarowaniu samego siebie «aż do końca» dla zabawienia rodzaju ludzkiego: naśladując przykład Jezusa, ogarniamy wszystkich Jego miłością i wszystkich czynimy braćmi. *Exemplum*, które nam dał byśmy czynili podobnie (por. J 13, 14-15) dotyczy więc nie tyle fizycznego umywania nóg drugiemu, ale sięga o wiele dalej, obejmując wszystko to, co w tym geście odnosi się namacalnej miłości względem drugiego człowieka. Wszystkie antyfony zawarte w *Missale* i wykonywane podczas obrzędu umywania nóg przypominają i ukazują takie właśnie znaczenie tego gestu, obojętnie czy ktoś go wykonuje czy przyjmuje, czy też śledzi go tylko oczyma a przeżywa w śpiewie.
+
+Obrzęd umywania nóg nie jest obowiązkowy podczas *Missa in cena Domini*. O jego zastosowaniu decydują sami pasterze, mając na uwadze okoliczności i racje pastorale, tak by nie stał się czynnością automatyczną i sztuczną, pozbawioną głębszego sensu i zredukowaną wyłącznie do odegrania sceny. Z drugiej strony nie powinno mu się też nadawać zbyt wielkiego znaczenia, tak by nie skupiał całej uwagi podczas Mszy Wieczerzy Pańskiej, sprawowanej w «święty dzień, w którym nasz Pan Jezus Chrystus został za nas wydany» (Kanon rzymski, *Communicantes*); we wskazaniach homiletycznych przypomina się wyjątkowość tej Mszy świętej, pamiątki ustanowienia Eucharystii, sakramentu kapłaństwa i nowego przykazania wzajemnej miłości, najwyższego prawa dla wszystkich i wobec wszystkich w Kościele.
+
+Zadaniem duszpasterzy jest wybrać małą grupę wiernych reprezentującą cały Lud Boży – świeckich, duchownych, żonatych, nieżonatych, zakonników, zdrowych i chorych, dzieci, młodzież, starszych, a nie tylko jedną grupę osób i jeden stan. Zadaniem wybranych jest z kolei ofiarować z prostotą swój udział w obrzędzie. Zadaniem odpowiedzialnych za celebrację liturgiczną jest natomiast przygotowanie i czuwanie nad całością tak aby wszystkim i każdemu z osobna pozwoliła ona owocnie przeżyć tę chwilę: *anamnesis* “nowego przykazania” usłyszanego w Ewangelii stanowi bowiem o życiu każdego ucznia Pana.
+
+\+ Arthur Roche
+
+Arcybiskup Sekretarz Kongregacji Kultu Bożego i Dyscypliny Sakramentów
+
+------------------------------------------------------------------------

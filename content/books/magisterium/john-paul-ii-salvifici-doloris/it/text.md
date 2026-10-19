@@ -535,6 +535,4 @@ A tutti, Fratelli e Sorelle carissimi, invio la mia Apostolica Benedizione.
 
 \(103\) Cfr. *ibid*. 19, 25.
 
-© Copyright 1984 - Libreria Editrice Vaticana
-
 *  *

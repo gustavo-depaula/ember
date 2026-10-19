@@ -25,5 +25,3 @@ Z serdecznym błogosławieństwem.
 ------------------------------------------------------------------------
 
 **\***(L’Oss. Rom., wyd. pol., 1 \[1997\] 14-15).
-
-© Copyright 1996 - Libreria Editrice Vaticana

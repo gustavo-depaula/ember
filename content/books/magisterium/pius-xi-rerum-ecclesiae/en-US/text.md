@@ -81,5 +81,3 @@ In the meantime, Venerable Brothers, as a pledge of heavenly favors to come and 
 Given at Rome, at St. Peter's, the twenty-eighth of February, in the year 1926, the fifth of Our Pontificate.
 
 **PIUS XI**
-
-© Copyright - Libreria Editrice Vaticana

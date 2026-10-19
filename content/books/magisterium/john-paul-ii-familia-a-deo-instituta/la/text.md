@@ -63,5 +63,3 @@ l\) provehit - per Legationes pontificias-memoriarum conquisitionem de humana, s
 *Datum Romae, apud Sanctum Petrum, die IX mensis Maii, anno MCMLXXXI, Pontificatus Nostri tertio.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1981 - Libreria Editrice Vaticana

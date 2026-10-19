@@ -283,5 +283,3 @@ Carissimi Fratres et Sorores, Nostrum hortamentum Nostraque fiducia vos prosequa
 *Datum Romae, apud Sanctum Petrum, die XV mensis Augusti, in sollemnitate Assumptionis Beatae Mariae Virginis in caelum, anno MCMXC, Pontificatus Nostri duodecimo.*  
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1990 - Libreria Editrice Vaticana

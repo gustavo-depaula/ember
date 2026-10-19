@@ -169,5 +169,3 @@ Benedictio Nostra Apostolica, caelestium munerum auspex et nuntia, caritatis Nos
 *Datum Romae, apud Sanctum Petrum, die XXXI mensis Ianuarii, in memoria Sancti Ioannis Bosco Presbyteri, anno MCMLXXXVIII, Pontificatus Nostri decimo.*  
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1988 - Libreria Editrice Vaticana

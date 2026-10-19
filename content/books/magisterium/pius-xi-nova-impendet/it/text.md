@@ -45,8 +45,6 @@ Inoltre, avvicinandosi ormai l’annuale festa di Gesù Cristo Re, il cui regno 
 
 ------------------------------------------------------------------------
 
-© Copyright - Libreria Editrice Vaticana
-
 [^1]: \[\] *Marc*. VIII, 2.
 
 [^2]: \[\] *Ier*., Thren., IV, 4.

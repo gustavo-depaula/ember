@@ -38,7 +38,11 @@ Quae autem hisce Apostolicis Litteris constituimus, eadem valida et firma perpet
 
 *Datum Romae apud Sanctum Petrum die X mensis Augusti anno MCMXV, Pontificatus Nostri primo.*
 
-[TABLE]
+P. CARD. GASPARRI  
+*a Secretis Status.*
+
+PH. CARD. GIUSTINI  
+*S. C. de Sacramenti Praefectus.*
 
 VISA  
 M. RIGHI, C. A., *Not.*

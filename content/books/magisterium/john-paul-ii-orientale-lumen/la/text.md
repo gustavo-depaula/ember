@@ -230,5 +230,3 @@ Haec ominati Nostram omnibus impertimur Apostolicam Benedictionem.
 *Datum Romae, apud S. Petrum, die II mensis Maii, in memoria sancti Athanasii, Episcopi et Ecclesiae Doctoris, anno MCMXCV, Pontificatus Nostri septimo decimo.*  
 
 IOANNES PAULUS PP. II
-
-© Copyright 1995 - Libreria Editrice Vaticana

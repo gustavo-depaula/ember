@@ -1,0 +1,40 @@
+{
+  "id": "francis-20240629-norme-fabbrica-san-pietro",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Apostolica in forma di Motu Proprio circa l'interpretazione delle norme applicabili alla Fabbrica di San Pietro"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2024-06-29",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2024-06-29"
+  },
+  "composed": "2024",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/20240629-norme-fabbrica-san-pietro.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Apostolica in forma di Motu Proprio circa l'interpretazione delle norme applicabili alla Fabbrica di San Pietro"
+      }
+    }
+  ]
+}

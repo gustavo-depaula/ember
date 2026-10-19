@@ -247,8 +247,6 @@ Affidiamo questo nostro messaggio in modo particolare ai numerosi ordini religio
 
 GIOVANNI PAOLO II
 
-Copyright 1980 © Libreria Editrice Vaticana
-
 *  *
 
 * *

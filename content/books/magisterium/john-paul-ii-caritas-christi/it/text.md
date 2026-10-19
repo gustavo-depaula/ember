@@ -42,5 +42,3 @@ Con grande affetto nel Signore vi imparto l’apostolica benedizione.
 *Dal Vaticano, il 6 gennaio 1982, Solennità dell’Epifania di nostro Signore, quarto anno di pontificato.*  
 
 **GIOVANNI PAOLO II**
-
-Copyright 1982 © Libreria Editrice Vaticana

@@ -1,0 +1,47 @@
+{
+  "id": "eugene-iv-cantate-domino",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla Cantate Domino (4 Febr. 1442), de unione Coptorum Aethiopumque",
+    "it": "Bolla Cantate Domino"
+  },
+  "author": {
+    "en-US": "Pope Eugene IV",
+    "pt-BR": "Papa Eugênio IV",
+    "la": "Eugenius PP. IV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Eugene IV",
+    "pt-BR": "Bula · Papa Eugênio IV"
+  },
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "eugene-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/eugenius-iv/la/documents/bulla-cantate-domino-4-febr-1442.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/eugenius-iv/it/documents/bulla-cantate-domino-4-febr-1442.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla Cantate Domino (4 Febr. 1442), de unione Coptorum Aethiopumque",
+        "it": "Bolla Cantate Domino"
+      }
+    }
+  ]
+}

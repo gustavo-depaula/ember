@@ -1,5 +1,41 @@
 # Schreiben an Prof. Charles Curran, 25. Juli 1986 - Kongregation für die Glaubenslehre
 
-[TABLE]
+[](/index.htm)
 
-[TABLE]
+[](javascript:history.go(-1)) [](javascript:up())
+
+KONGREGATION FÜR DIE GLAUBENSLEHRE
+
+**Schreiben an Prof. Charles Curran\***
+
+*25. Juli 1986*
+
+*Hochwürdiger Prof. Curran!*
+
+Die Kongregation möchte den Empfang Ihres Briefes vom 1. April 1986 bestätigen, dem Sie Ihre endgültige Antwort auf deren kritische Bemerkungen zu verschiedenen Positionen, die Sie in Ihrer publizistischen Arbeit eingenommen haben, beifügten. Sie schreiben, daß Sie von der „Authentizität dieser Positionen zur gegenwärtigen Zeit überzeugt bleiben...“. Sie wiederholen ebenso einen Vorschlag, den Sie einen „Kompromiß“ genannt haben, wonach Sie weiterhin Moraltheologie lehren würden mit Ausnahme des Bereichs der Sexualethik.
+
+Dieser Brief dient dem Zweck, Sie davon in Kenntnis zu setzen, daß die Kongregation ihre Position bekräftigt hat, daß als Lehrer der katholischen Theologie nicht geeignet und befähigt ist, wer, wie Sie, vom Lehramt abweichende Auffassungen vertritt. Folglich lehnt sie Ihre Kompromißlösung ab wegen der organischen Einheit authentischer katholischer Theologie, einer Einheit, die in ihren Inhalten und Methoden im Innersten verpflichtet ist zur Treue gegenüber dem Lehramt der Kirche.
+
+Die verschiedenen abweichenden Positionen, die die Kongregation nicht gelten läßt, nämlich betreffs des Rechtes auf öffentliche Abweichung vom Ordentlichen Lehramt, der Unauflöslichkeit der vollzogenen sakramentalen Ehe, Abtreibung, Euthanasie, Masturbation, künstlicher Empfängnisverhütung, vorehelichen Geschlechtsverkehrs und homosexueller Handlungen wurden sorgfältig genug in den oben angeführten Bemerkungen im Juli 1983 aufgelistet und sind seither veröffentlicht worden. Es hat keinen Sinn, auf Einzelheiten einzugehen auf Grund der Tatsache, daß Sie bei diesen Themen tatsächlich abweichende Auffassungen vertreten.
+
+Es gibt jedoch ein Problem, das aufgedeckt werden muß. Ihre Grundauffassung war, daß Ihre Positionen einen „verantwortbaren“ Dissens darstellen, da sie in Ihren Augen überzeugend sind und nur von der „nicht-unfehlbaren“ Lehre der Kirche abweichen und deshalb von der Kirche erlaubt werden sollten. Diesbezüglich scheinen die folgenden Überlegungen angebracht.
+
+Zunächst muß man sich der Lehre des [Zweiten Vatikanischen Konzils](/archive/hist_councils/ii_vatican_council/index_ge.htm) erinnern, das offenkundig das unfehlbare Lehramt nicht ausschließlich auf Inhalte des Glaubens noch auf feierliche Definitionen begrenzt. *[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ge.html)*, Nr. 25 sagt: „...wenn sie (die Bischöfe) aber in der Welt räumlich getrennt, jedoch in Wahrung des Gemeinschaftsbandes untereinander und mit dem Nachfolger Petri, authentisch in Glaubens- und Sittensachen lehren und eine bestimmte Lehre übereinstimmend als endgültig verpflichtend vortragen, so verkünden sie auf unfehlbare Weise die Lehre Christi.“ Außerdem baut die Kirche ihr Leben nicht allein auf das unfehlbare Lehramt, sondern ebenso auf die Lehre ihres authentischen, ordentlichen Lehramtes.
+
+Im Licht dieser Überlegungen ist es evident, daß Sie z.B. nicht angemessen berücksichtigt haben, daß die Position der Kirche im Hinblick auf die Unauflöslichkeit der sakramentalen und vollzogenen Ehe, deren Änderung Sie verlangen, in der Tat auf dem Konzil von Trient definiert wurde und deshalb zum Patrimonium des Glaubens gehört. Ebenso messen Sie dem Zweiten Vatikanum keine ausreichende Bedeutung zu, wenn es in voller Kontinuität mit der Tradition der Kirche die Abtreibung verurteilt und sie ein „verabscheuungswürdiges Verbrechen“ nennt. Jedenfalls muß der Gläubige nicht nur das unfehlbare Lehramt akzeptieren. Sie sollen Intellekt und Willen in religiöser Hinsicht der Lehre unterwerfen, die der Pontifex Maximus oder das Bischofskollegium in Fragen des Glaubens und der Moral verkünden, wenn immer Sie das authentische Lehramt ausüben, auch wenn Sie nicht beabsichtigen, die Lehre mit einem definitiven Akt zu proklamieren. Das haben Sie weiterhin abgelehnt zu tun.
+
+Es gibt überdies zwei verwandte Sachverhalte, die weithin mißverstanden wurden im Verlauf der Untersuchung Ihres Werkes seitens der Kongregation, insbesondere in den letzten Monaten, und die festgehalten werden sollten. Zunächst behaupten Sie öffentlich, daß Ihnen niemals mitgeteilt worden sei, wer Ihre „Ankläger“ wären. Die Kongregation stützte ihre Untersuchung ausschließlich auf Ihre veröffentlichten Arbeiten und auf Ihre persönlichen Antworten auf die Bemerkungen der Kongregation. In der Tat sind dann Ihre eigenen Arbeiten Ihre „Ankläger“ gewesen und sie allein. Sie behaupten weiter, daß Ihnen niemals die Gelegenheit gegeben wurde, sich beraten zu lassen. Seit die Untersuchung auf dokumentarischer Grundlage geführt wurde, hatten Sie jede Gelegenheit, nach Ihrem Wunsch Beistand jeder Art in Anspruch zu nehmen. Überdies ist es evident, daß Sie das auch taten. Als Sie auf die Anmerkungen der Kongregation mit Ihrem Brief vom 24. August 1984 antworteten, stellten Sie fest, daß Sie die Positionen, die Sie vertreten, eingenommen hätten „auf Grund umfangreicher Beratung“; und im Brief der Kongregation vom 17. September 1985 wurden Sie dringend gebeten, wirklich weiterhin von gerade diesem Mittel Gebrauch zu machen, um zu einer annehmbaren Lösung der Differenzen zwischen Ihnen und der Lehre der Kirche gelangen zu können. Auf Ihre eigene Bitte schließlich wurden Sie von einem Theologen Ihrer Wahl und Ihres Vertrauens begleitet, als Sie zu unserer Begegnung am 8. März 1986 kamen.
+
+Abschließend macht die Kongregation aufmerksam auf die Tatsache, daß Sie Ihre abweichenden Positionen als Professor der Theologie in einer kirchlichen Fakultät an einer Päpstlichen Universität vertreten. Im Brief der Kongregation vom 17. September 1985 an Sie wurde festgestellt, daß „...die Autoritäten der Kirche nicht zulassen können, daß die gegenwärtige Situation anhält, in der der innere Widerspruch aufrechterhalten wird, daß jemand, der im Namen der Kirche lehren soll, in Wirklichkeit ihre Lehre ablehnt“. Im Licht Ihrer wiederholten Weigerung, die Lehre der Kirche zu akzeptieren, und im Licht des Auftrags, in Glaubens- und Sittenfragen die Lehre der Kirche in der ganzen katholischen Welt zu fördern und zu schützen, sieht diese Kongregation, in Übereinstimmung mit der Kongregation für das katholische Bildungswesen keine andere Alternative, als dem hochwürdigsten Kanzler nahezulegen, daß Sie nicht mehr für geeignet und qualifiziert gehalten werden, die Funktion eines Professors der katholischen Theologie wahrzunehmen.
+
+Diese Entscheidung wurde Ihrer Heiligkeit in einer Audienz unterbreitet, die dem unterzeichneten Präfekten am 10 Juli d. J. gewährt wurde; der Papst billigte sowohl ihren Inhalt und das angewandte Verfahren.
+
+Dieses Dikasterium möchte Sie daher in Kenntnis setzen, daß diese Entscheidung veröffentlicht wird, sobald sie Ihnen mitgeteilt ist.
+
+Schließlich möchte ich meiner aufrichtigen Hoffnung Ausdruck geben, daß diese bedauerliche, aber notwendige Folge der Analyse der Kongregation Sie dazu veranlassen könnte, Ihre abweichenden Positionen zu überdenken und die Lehre der katholischen Kirche vollständig zu akzeptieren.
+
+**JOSEPH Kardinal RATZINGER** * Präfekt*
+
+\* *AAS* 79 (1987), 116-118.
+
+[](#top)

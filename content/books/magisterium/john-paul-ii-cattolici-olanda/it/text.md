@@ -27,5 +27,3 @@ In unione con i vostri due Cardinali e i vostri Vescovi, impartisco la mia bened
 *Dal Vaticano, 6 gennaio 1980*
 
 **GIOVANNI PAOLO II**
-
-© Copyright 1980 - Libreria Editrice Vaticana

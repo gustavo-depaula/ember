@@ -57,5 +57,3 @@ Mindarról, ami ebben a „motu proprio” levélben elrendeltetett, úgy rendel
 *Kiadva Rómában, Szent Péternél, 1982. augusztus 6-án, a mi Urunk Jézus Krisztus színeváltozásának ünnepén, pápaságom negyedik évében.*
 
 **II. János Pál pápa**
-
-© Copyright 1982 - Libreria Editrice Vaticana

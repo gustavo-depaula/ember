@@ -41,5 +41,3 @@ Sono molte le sfide che la Conferenza di Pechino dovrà affrontare. Dobbiamo spe
 ------------------------------------------------------------------------
 
 \**L'Osservatore Romano* 1.6.1995 p.5.
-
-© Copyright 1995 - Libreria Editrice Vaticana

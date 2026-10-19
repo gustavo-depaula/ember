@@ -73,8 +73,6 @@ Intanto, Venerabili Fratelli, in auspicio dei celesti doni e a testimonianza del
 
 ------------------------------------------------------------------------
 
-© Copyright - Libreria Editrice Vaticana
-
 [^1]: \[\] *Par*., XI.
 
 [^2]: \[\] *Leg*. I, n. 37.

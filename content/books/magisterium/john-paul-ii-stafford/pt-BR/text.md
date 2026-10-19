@@ -29,5 +29,3 @@ Para a renovação na sociedade e na Igreja, convido todos, particularmente os c
 *Vaticano, 30 de Maio de 1997*.
 
 **JOÃO PAULO II**
-
-© Copyright 1997 - Libreria Editrice Vaticana

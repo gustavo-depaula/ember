@@ -198,10 +198,17 @@ def notes_to_markdown(holders: list[str]) -> list[str]:
     return out
 
 
+# A copyright notice left inside a larger block (after a <br>) survives the
+# element-level cleanup; drop the line when it is nothing else.
+VATICAN_COPYRIGHT_LINE = re.compile(
+    r"^[*_ ]*(?:Copyright\s*©|©\s*Copyright)(?:\s*\d{4})?\s*[-–]?\s*Libreria Editrice Vaticana[*_ ]*$", re.M)
+
+
 def to_markdown(root: Tag, title: str, notes: dict[int, str] | None = None) -> str:
     unwrap_tables(root)
     body = pandoc(str(root))
     body = re.sub(r"\\?⟦(\d+)\\?⟧", r"[^\1]", body)
+    body = VATICAN_COPYRIGHT_LINE.sub("", body)
     body = re.sub(r"\n{3,}", "\n\n", body).strip()
     used = {int(n) for n in re.findall(r"\[\^(\d+)\]", body)}
     parts = [f"# {md_escape_inline(title)}", body]

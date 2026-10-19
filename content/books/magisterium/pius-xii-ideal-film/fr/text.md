@@ -268,5 +268,3 @@ Voici, Messieurs, ce que Nous voulions vous dire au sujet du cinéma, auquel vou
 C'est par ce souhait, qui veut être aussi une nouvelle assurance de l'estime et de l'intérêt que Nous portons à votre œuvre, que Nous invoquons sur vous les faveurs célestes, en gage desquelles Nous vous accordons de grand cœur Notre paternelle Bénédiction Apostolique.
 
 **PIUS PP. XII**
-
-  © Copyright - Libreria Editrice Vaticana

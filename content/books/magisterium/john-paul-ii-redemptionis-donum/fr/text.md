@@ -232,6 +232,4 @@ En exprimant ces souhaits, je vous bénis de grand cœur.
 
 *Du Vatican, le 25 mars de l'Année jubilaire de la Rédemption 1984, en la sixième année de mon pontificat.*
 
-© Copyright 1984 - Libreria Editrice Vaticana
-
 * *

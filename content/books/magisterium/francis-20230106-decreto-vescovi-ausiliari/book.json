@@ -1,0 +1,48 @@
+{
+  "id": "francis-20230106-decreto-vescovi-ausiliari",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Decree of the Holy Father Francis for the assignment of sectors, areas and pastoral services to the Auxiliary Bishops of the Diocese of Rome",
+    "it": "Decreto del Santo Padre Francesco per l’assegnazione dei settori, degli ambiti e servizi pastorali ai Vescovi Ausiliari della Diocesi di Roma"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2023-01-06",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2023-01-06"
+  },
+  "composed": "2023",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20230106-decreto-vescovi-ausiliari.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230106-decreto-vescovi-ausiliari.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Decree of the Holy Father Francis for the assignment of sectors, areas and pastoral services to the Auxiliary Bishops of the Diocese of Rome",
+        "it": "Decreto del Santo Padre Francesco per l’assegnazione dei settori, degli ambiti e servizi pastorali ai Vescovi Ausiliari della Diocesi di Roma"
+      }
+    }
+  ]
+}

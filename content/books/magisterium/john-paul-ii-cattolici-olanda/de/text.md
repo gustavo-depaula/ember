@@ -23,5 +23,3 @@ Zusammen mit euren beiden Kardinälen und euren Bischöfen erteile ich meinen be
 *Vatikanstadt, am Fest der Erscheinung des Herrn, 6. Januar 1980*
 
 **PAPST JOHANNES PAUL II.**
-
-© Copyright 1980 - Libreria Editrice Vaticana

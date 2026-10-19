@@ -436,5 +436,3 @@ Quae omnia vehementer Nos exoptantes fidelibus cunctis, praecipue vero mulieribu
 *Datum Romae, apud Sanctum Petrum, die XV mensis Augusti, sollemnitate Beatae Mariae Virginis in caelum Assumptae, anno MCMLXXXVIII Pontificatus Nostri decimo.*  
 
 IOANNES PAULUS PP. II
-
-© Copyright 1988 - Libreria Editrice Vaticana

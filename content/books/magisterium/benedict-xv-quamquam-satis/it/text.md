@@ -19,5 +19,3 @@ Quale auspicio e testimonianza della Nostra paterna benevolenza, a te, diletto f
 *Dato a Roma, presso San Pietro, il 2 aprile 1920, nel sesto anno del Nostro Pontificato.*
 
 **BENEDICTUS PP. XV**
-
-© Copyright - Libreria Editrice Vaticana

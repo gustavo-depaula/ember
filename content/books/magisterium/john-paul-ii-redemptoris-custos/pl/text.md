@@ -343,5 +343,3 @@ Niech św. Józef wyprasza Kościołowi i światu, każdemu z nas, błogosławie
 ⁴⁹ Por. LEON XIII, „Oratio ad Sanctum Josephum”, dołączona do tekstu Enc. *Quamquam pluries* (15 sierpnia 1889): *Leonis XIII P.M. Acta*, IX (1890), 183.
 
 ⁵⁰ ŚW. KONGREG. OBRZĘDÓW, Dekr. *Quemadmodum Deus* (8 grudnia 1870): *l.c.*, 282,
-
-© Copyright 1989 - Libreria Editrice Vaticana

@@ -1,0 +1,88 @@
+{
+  "id": "francis-maiorem-hac-dilectionem",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio datae Maiorem hac dilectionem, de oblatione vitae",
+    "en-US": "Apostolic Letter issued 'Motu Proprio' Maiorem hac dilectionem on the offer of life",
+    "pt-BR": "Carta Apostólica em forma de Motu Proprio «Maiorem hac dilectionem» sobre a oferta da vida",
+    "de": "Apostolisches Schreiben in Form eines Motu Proprio Maiorem hac dilectionem",
+    "es": "Carta apostólica en forma de Motu Proprio Maiorem hac dilectionem sobre el ofrecimiento de la vida",
+    "fr": "Lettre apostolique en forme de Motu Proprio Maiorem hac dilectionem sur l'offrande de la vie",
+    "it": "Lettera Apostolica in forma di Motu Proprio Maiorem hac dilectionem sull’offerta della vita"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2017-07-11",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2017-07-11"
+  },
+  "composed": "2017",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_letters/documents/papa-francesco-lettera-ap_20170711_maiorem-hac-dilectionem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20170711_maiorem-hac-dilectionem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco-lettera-ap_20170711_maiorem-hac-dilectionem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_letters/documents/papa-francesco-lettera-ap_20170711_maiorem-hac-dilectionem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20170711_maiorem-hac-dilectionem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/papa-francesco-lettera-ap_20170711_maiorem-hac-dilectionem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco-lettera-ap_20170711_maiorem-hac-dilectionem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio datae Maiorem hac dilectionem, de oblatione vitae",
+        "en-US": "Apostolic Letter issued 'Motu Proprio' Maiorem hac dilectionem on the offer of life",
+        "pt-BR": "Carta Apostólica em forma de Motu Proprio «Maiorem hac dilectionem» sobre a oferta da vida",
+        "de": "Apostolisches Schreiben in Form eines Motu Proprio Maiorem hac dilectionem",
+        "es": "Carta apostólica en forma de Motu Proprio Maiorem hac dilectionem sobre el ofrecimiento de la vida",
+        "fr": "Lettre apostolique en forme de Motu Proprio Maiorem hac dilectionem sur l'offrande de la vie",
+        "it": "Lettera Apostolica in forma di Motu Proprio Maiorem hac dilectionem sull’offerta della vita"
+      }
+    }
+  ]
+}

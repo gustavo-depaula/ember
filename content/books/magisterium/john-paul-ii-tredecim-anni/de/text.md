@@ -64,6 +64,4 @@ Hiermit ordnen wir an, dass alle Bestimmungen dieses *Motu proprio* in Kraft tre
 
 \* *AAS* 74 (1982), 1201-1205.
 
-© Copyright 1982 - Libreria Editrice Vaticana
-
 * *

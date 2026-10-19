@@ -1,0 +1,40 @@
+{
+  "id": "cdf-cti-white-dio-trinita-famigliaumana",
+  "cover": "quarter",
+  "name": {
+    "it": "Dio Trinità e l’unità della famiglia umana – P. Thomas Joseph White, O.P."
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2023-02-07",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2023-02-07"
+  },
+  "composed": "2023",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20230207_white-dio-trinita-famigliaumana_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Dio Trinità e l’unità della famiglia umana – P. Thomas Joseph White, O.P."
+      }
+    }
+  ]
+}

@@ -23,6 +23,4 @@ Last year, as each of you is aware, We decreed by an Encyclical Letter that, to 
 
 ** LEO XIII**
 
-© Copyright 1884 - Libreria Editrice Vaticana
-
 *     *

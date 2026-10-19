@@ -466,5 +466,3 @@ With these hopes I bless you with all my heart.
 110\. Eph. 3:17-19.
 
 111\. 1 Cor. 1:9.
-
-© Copyright 1984 - Libreria Editrice Vaticana

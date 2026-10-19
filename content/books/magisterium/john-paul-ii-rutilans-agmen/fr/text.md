@@ -49,6 +49,4 @@ Nous, Jean-Paul II, qui sommes originaire de la terre polonaise, nous nous assoc
 
 **IOANNES PAULUS PP II.**
 
-© Copyright 1979 - Libreria Editrice Vaticana
-
 *  *

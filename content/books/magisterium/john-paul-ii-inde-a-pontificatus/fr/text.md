@@ -59,5 +59,3 @@ J'ordonne que tout ce qui est établi par le présent *Motu Proprio* ait pleine 
 *Donné à Rome, près la Basilique Saint-Pierre, le 25 mars 1993, quinzième année de mon pontificat.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1993 - Libreria Editrice Vaticana

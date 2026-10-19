@@ -79,5 +79,3 @@ IN PEACE AND COMMUNION WITH THE APOSTOLIC SEE.
 Given at Castel Gandolfo, near Rome, on the 29th day of the month of September, on the Feast of the Dedication of St. Michael the Archangel, in the year 1937, the sixteenth of Our Pontificate.
 
 **PIUS XI**
-
-© Copyright - Libreria Editrice Vaticana

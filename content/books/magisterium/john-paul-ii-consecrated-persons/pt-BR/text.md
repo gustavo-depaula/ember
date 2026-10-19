@@ -113,5 +113,3 @@ Neste Ano Mariano, também eu confio a Nossa Senhora, de todo o coração, cada 
 *Dado em Roma, junto de São Pedro, no dia 22 de Maio — Solenidade do Pentecostes — do ano de 1988, décimo do meu Pontificado*.
 
 **JOÃO PAULO II**
-
- © Copyright 1988 - Libreria Editrice Vaticana

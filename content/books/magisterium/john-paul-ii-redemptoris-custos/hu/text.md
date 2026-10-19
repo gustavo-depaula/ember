@@ -321,6 +321,4 @@ Jegyzetek:
 [\[47\]](#JB47) VI. Pál, Párbeszéd (March 19, 1969): Insegnamenti, VII (1969) p. 1269.  
 [\[48\]](#JB48) vö. Római misekönyv, könyörgés, imádság  Szt. József, a Boldogságos Szűz Mária jegyese, ünnepének ajándékai; imádság és áldozás utámi könyörgés Szent József votív miséből.  
 [\[49\]](#JB49) vö. XIII. Leó, „Oratio ad Sanctum Iosephum,”  contained immediately after the text of the Quamquam pluries enciklika Szent Józsefről (1889. augusztus 15.)-Leonis XIII P.M. Acta, IX (1890), p. 183.  
-[\[50\]](#JB50) Szentszéki Rítuskongregáció, dekrétuma Quemadmodum Deus (1870. december 8.): idézet helye, p. 282.  
-
-© Copyright 1989 - Libreria Editrice Vaticana
+[\[50\]](#JB50) Szentszéki Rítuskongregáció, dekrétuma Quemadmodum Deus (1870. december 8.): idézet helye, p. 282.

@@ -25,5 +25,3 @@ Your proved fidelity and singular devotion to this Apostolic See are admirably s
 *Given at Rome, at St. Peter's, on the 27th day of November, in the year 1885,the eighth year of Our Pontificate.* 
 
 **LEO XIII**
-
-© Copyright 1885 - Libreria Editrice Vaticana

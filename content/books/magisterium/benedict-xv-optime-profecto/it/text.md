@@ -22,5 +22,3 @@ Dunque, quale auspicio dei doni divini che invochiamo, e a testimonianza della N
 *Dato a Roma, presso San Pietro, il giorno 25 del mese di luglio, 1920, festività di San Giacomo Apostolo, nel sesto anno del Nostro Pontificato*.
 
 **BENEDICTUS PP. XV**
-
-© Copyright - Libreria Editrice Vaticana

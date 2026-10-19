@@ -69,6 +69,4 @@ Given at Rome, at St. Peter's, on the third day of June, 1933, in the twelfth ye
 
 **PIUS X**
 
-© Copyright - Libreria Editrice Vaticana
-
       * *

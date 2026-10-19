@@ -1088,5 +1088,3 @@ Indem ich euch meines ständigen Gebetes versichere, erteile ich allen und jedem
 *Gegeben zu Rom bei Sankt Peter, am Christkönigsfest, dem 22. November 1981, im vierten Jahr meines Pontifikates.*
 
 **JOHANNES PAUL II.**
-
-© Copyright 1981 - Libreria Editrice Vaticana

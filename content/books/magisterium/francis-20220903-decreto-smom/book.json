@@ -1,0 +1,56 @@
+{
+  "id": "francis-20220903-decreto-smom",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Decree for the Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta (S.M.O.M.)",
+    "pt-BR": "Decreto para a Soberana Ordem Militar Hospitaleira de São João de Jerusalém, de Rodes e de Malta (S.M.O.M.)",
+    "it": "Decreto per il Sovrano Militare Ordine Ospedaliero di San Giovanni di Gerusalemme, di Rodi e di Malta (S.M.O.M.)"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2022-09-03",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2022-09-03"
+  },
+  "composed": "2022",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20220903-decreto-smom.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/20220903-decreto-smom.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20220903-decreto-smom.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Decree for the Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta (S.M.O.M.)",
+        "pt-BR": "Decreto para a Soberana Ordem Militar Hospitaleira de São João de Jerusalém, de Rodes e de Malta (S.M.O.M.)",
+        "it": "Decreto per il Sovrano Militare Ordine Ospedaliero di San Giovanni di Gerusalemme, di Rodi e di Malta (S.M.O.M.)"
+      }
+    }
+  ]
+}

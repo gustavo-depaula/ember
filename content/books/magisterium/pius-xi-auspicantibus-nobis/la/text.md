@@ -57,7 +57,10 @@ Ut autem Litterae hae Nostrae ad fidelium omnium notitiam facilius perveniant, v
 
 *Datum Romae apud S. Petrum, die VI mensis Ianuarii, in festo Epiphaniae Domini, anno millesimo nongentesimo vicesimo nono, Pontificatus Nostri septimo. *
 
-[TABLE]
+FR. ANDREAS Card. FRÜHWIRTH, *Cancellarius S. R. E.*  
+
+LAURENTIUS Card. LAURI,  
+*Poenitentiarius Maior.*
 
 Ioseph Wilpert, *Decanus Collegii Protonotariorum Apost.* Dominicus Jorio, *Protonotarius Apostolicus.*
 

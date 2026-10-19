@@ -116,6 +116,4 @@ Euch, verehrte liebe Mitbrüder, Euren Gläubigen, allen Litauern überall in de
 
 **IOANNES PAULUS PP. II**
 
- © Copyright 1987 - Libreria Editrice Vaticana
-
 * *

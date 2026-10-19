@@ -99,5 +99,3 @@ Dato a Roma, presso San Pietro, l'8 maggio dell'anno 1989, undicesimo di pontifi
 ------------------------------------------------------------------------
 
 \*A.A.S., vol. LXXXIII (1991), n. 1, pp. 8-12
-
-© Copyright 1989 - Libreria Editrice Vaticana

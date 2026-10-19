@@ -88,5 +88,3 @@ Sub fine huius documenti, quod Catholicae Ecclesiae Catechismum profert, Nos San
 *Datum die xi mensis Octobris, anno mcmxcii, triginta exactis annis ab inito Concilio Oecumenico Vaticano II, Pontificatus Nostri quarto decimo.*
 
 * *
-
-© Copyright 1992 - Libreria Editrice Vaticana

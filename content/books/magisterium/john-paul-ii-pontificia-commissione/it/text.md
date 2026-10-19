@@ -31,5 +31,3 @@ Tutto ciò che abbiamo deliberato con queste Lettere in forma di Motu proprio, v
 *Dato a Roma, presso S. Pietro, il 2 gennaio 1984 anno sesto del Nostro Pontificato.*
 
 * *
-
-© Copyright 1984 - Libreria Editrice Vaticana

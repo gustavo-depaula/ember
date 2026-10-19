@@ -63,5 +63,3 @@ To all those Catholic faithful who feel attached to some previous liturgical and
 \(8\) Cf. *Code of Canon Law*, can. 1364.
 
 \(9\) Cf. Congregation for Divine Worship, Letter *Quattuor abhinc annos*. 3 Oct. 1984: *AAS* 76 (1984) pp. 1088-1089.
-
-© Copyright 1988 - Libreria Editrice Vaticana

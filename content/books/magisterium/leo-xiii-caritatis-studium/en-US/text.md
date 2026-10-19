@@ -40,6 +40,4 @@ The ardent charity which renders Us solicitous of Our separated brethren, in now
 
 **LEO XIII**
 
-© Copyright 1898 - Libreria Editrice Vaticana
-
 *    *

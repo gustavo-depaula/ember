@@ -65,5 +65,3 @@ All jenen katholischen Gläubigen, die sich an einige frühere Formen der Liturg
 (8)Vgl. *Codex Iuris Canonici*, can 1364.
 
 (9)Vgl. Kongregation für den Gottesdienst, Schreiben *Quattuor abhinc annos*. 3 Oct. 1981: AAS 76 (1984) 1088-1089.
-
-© Copyright 1988 - Libreria Editrice Vaticana

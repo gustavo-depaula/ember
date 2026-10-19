@@ -1,0 +1,96 @@
+{
+  "id": "cdf-norme-fenomeni-soprannaturali",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Norms for proceeding in the Discernment of alleged Supernatural Phenomena",
+    "pt-BR": "Normas para proceder no discernimento de presumidos fenômenos sobrenaturais",
+    "de": "Normen für das Verfahren zur Beurteilung mutmasslicher übernatürlicher Phänomene",
+    "es": "Normas para proceder en el discernimiento de presuntos fenómenos sobrenaturales",
+    "fr": "Normes procédurales pour le discernement de phénomènes surnaturels présumés",
+    "hr": "NORME ZA POSTUPANJE U RAZLUČIVANJU NAVODNIH NADNARAVNIH FENOMENA",
+    "it": "Norme per procedere nel discernimento di presunti fenomeni soprannaturali",
+    "pl": "Normy postępowania w Rozeznawaniu Domniemanych Zjawisk Nadprzyrodzonych"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-05-17",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-05-17"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_hr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Norms for proceeding in the Discernment of alleged Supernatural Phenomena",
+        "pt-BR": "Normas para proceder no discernimento de presumidos fenômenos sobrenaturais",
+        "de": "Normen für das Verfahren zur Beurteilung mutmasslicher übernatürlicher Phänomene",
+        "es": "Normas para proceder en el discernimiento de presuntos fenómenos sobrenaturales",
+        "fr": "Normes procédurales pour le discernement de phénomènes surnaturels présumés",
+        "hr": "NORME ZA POSTUPANJE U RAZLUČIVANJU NAVODNIH NADNARAVNIH FENOMENA",
+        "it": "Norme per procedere nel discernimento di presunti fenomeni soprannaturali",
+        "pl": "Normy postępowania w Rozeznawaniu Domniemanych Zjawisk Nadprzyrodzonych"
+      }
+    }
+  ]
+}

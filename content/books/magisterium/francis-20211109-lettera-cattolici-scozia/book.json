@@ -1,0 +1,64 @@
+{
+  "id": "francis-20211109-lettera-cattolici-scozia",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter of the Holy Father to the Catholics of Scotland",
+    "pt-BR": "Carta do Santo Padre aos católicos da Escócia",
+    "fr": "Lettre du Saint-Père aux catholiques d'Ecosse",
+    "it": "Lettera del Santo Padre ai Cattolici di Scozia"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2021-11-09",
+    "pt-BR": "Carta · Papa Francisco · 2021-11-09"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/letters/2021/documents/20211109-lettera-cattolici-scozia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/letters/2021/documents/20211109-lettera-cattolici-scozia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/letters/2021/documents/20211109-lettera-cattolici-scozia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2021/documents/20211109-lettera-cattolici-scozia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter of the Holy Father to the Catholics of Scotland",
+        "pt-BR": "Carta do Santo Padre aos católicos da Escócia",
+        "fr": "Lettre du Saint-Père aux catholiques d'Ecosse",
+        "it": "Lettera del Santo Padre ai Cattolici di Scozia"
+      }
+    }
+  ]
+}

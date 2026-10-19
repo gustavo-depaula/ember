@@ -40,6 +40,4 @@ Vogliamo che le decisioni stabilite con questa lettera apostolica scritta «motu
 
 **GIOVANNI PAOLO II**
 
-© Copyright 1987 - Libreria Editrice Vaticana
-
 * *

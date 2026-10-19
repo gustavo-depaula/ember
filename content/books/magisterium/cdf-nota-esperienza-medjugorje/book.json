@@ -1,0 +1,96 @@
+{
+  "id": "cdf-nota-esperienza-medjugorje",
+  "cover": "quarter",
+  "name": {
+    "en-US": "“The Queen of Peace”: Note About the Spiritual Experience Connected with Medjugorje",
+    "pt-BR": "“A Rainha da Paz”. Nota sobre a experiência espiritual ligada a Medjugorje",
+    "de": "„Die Königin des Friedens”. Note über die geistliche Erfahrung im Zusammenhang mit Medjugorje",
+    "es": "“La Reina de la Paz”. Nota sobre la experiencia espiritual vinculada a Medjugorje",
+    "fr": "“La Reine de la Paix”. Note sur l’expérience spirituelle liée à Medjugorje",
+    "hr": "“Kraljica Mira”. Nota o duhovnom iskustvu vezanom za Međugorje",
+    "it": "“La Regina della Pace”. Nota circa l’esperienza spirituale legata a Medjugorje",
+    "pl": "„Królowa Pokoju”. Nota na temat doświadczenia duchowego związanego z Medziugorie"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-09-19",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-09-19"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_hr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "“The Queen of Peace”: Note About the Spiritual Experience Connected with Medjugorje",
+        "pt-BR": "“A Rainha da Paz”. Nota sobre a experiência espiritual ligada a Medjugorje",
+        "de": "„Die Königin des Friedens”. Note über die geistliche Erfahrung im Zusammenhang mit Medjugorje",
+        "es": "“La Reina de la Paz”. Nota sobre la experiencia espiritual vinculada a Medjugorje",
+        "fr": "“La Reine de la Paix”. Note sur l’expérience spirituelle liée à Medjugorje",
+        "hr": "“Kraljica Mira”. Nota o duhovnom iskustvu vezanom za Međugorje",
+        "it": "“La Regina della Pace”. Nota circa l’esperienza spirituale legata a Medjugorje",
+        "pl": "„Królowa Pokoju”. Nota na temat doświadczenia duchowego związanego z Medziugorie"
+      }
+    }
+  ]
+}

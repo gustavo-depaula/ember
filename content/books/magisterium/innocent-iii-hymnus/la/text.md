@@ -1,7 +1,5 @@
 # Hymnus
 
-917
-
 ORATIONESTRES ET IIVMNUS.
 
 ORATIOII. Auulienlur nobis, pie DomineJesu Christe, omnes passiones tuse, et defendant nos ab omni dolore et tristitia , ab omni periculo et miseria, ab omni peccato et cordis immundilia,"ab omni scandalo et infamia, a morhis inalis animaeel corporis, et a moite subitanea et improvisa, el ah omni persecutioneinimicorum visibiliumet invisibilium, scimus eniin quod in quacunque hora vel die passionis tuje memoriam habuerimus, salvi erimus : ideo de immensa lua pietate confisi te deprecamur, piissime Salvator, per lienignissimas sacralissimasque passiones luas, ut benigno nos protegas auxilio, et conlinua pielale ab omni malo nos conserves. Qui vivis, etc.

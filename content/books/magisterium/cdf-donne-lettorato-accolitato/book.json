@@ -1,0 +1,80 @@
+{
+  "id": "cdf-donne-lettorato-accolitato",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter of the Holy Father to the Prefect of the Congregation for the Doctrine of the Faith regarding access of women to the ministries of Lector and Acolyte (10 January 2021)",
+    "pt-BR": "Carta do Santo Padre ao Prefeito da Congregação para a Doutrina da Fé sobre o acesso das mulheres aos ministérios do leitorado e do acolitado",
+    "es": "Carta del Santo Padre Francisco al Prefecto de la Congregación para la Doctrina de la Fe sobre el acceso de las mujeres a los ministerios del lectorado y del acolitado",
+    "hr": "Pismo Svetoga Oca Franje Prefektu Kongregacije za Nauk Vjere o pristupanju žena službama lektorata i akolitata",
+    "it": "Lettera del Santo Padre Francesco al Prefetto della Congregazione per pa Dottrina della Fede circa l’accesso delle donne ai Ministeri del Lettorato e dell’Accolitato",
+    "pl": "List Ojca Świętego Franciszka do Prefekta Kongregacji Nauki Wiary na temat dopuszczenia kobiet do posług Lektoratu i Akolitatu"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2021-01-10",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2021-01-10"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "hr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_hr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20210110_lettera-donne-lettorato-accolitato_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter of the Holy Father to the Prefect of the Congregation for the Doctrine of the Faith regarding access of women to the ministries of Lector and Acolyte (10 January 2021)",
+        "pt-BR": "Carta do Santo Padre ao Prefeito da Congregação para a Doutrina da Fé sobre o acesso das mulheres aos ministérios do leitorado e do acolitado",
+        "es": "Carta del Santo Padre Francisco al Prefecto de la Congregación para la Doctrina de la Fe sobre el acceso de las mujeres a los ministerios del lectorado y del acolitado",
+        "hr": "Pismo Svetoga Oca Franje Prefektu Kongregacije za Nauk Vjere o pristupanju žena službama lektorata i akolitata",
+        "it": "Lettera del Santo Padre Francesco al Prefetto della Congregazione per pa Dottrina della Fede circa l’accesso delle donne ai Ministeri del Lettorato e dell’Accolitato",
+        "pl": "List Ojca Świętego Franciszka do Prefekta Kongregacji Nauki Wiary na temat dopuszczenia kobiet do posług Lektoratu i Akolitatu"
+      }
+    }
+  ]
+}

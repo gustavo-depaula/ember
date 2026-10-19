@@ -75,5 +75,3 @@ Al termine di questo messaggio e a conclusione della memorabile visita “ad lim
 *Dal Vaticano, 9 aprile 1986.*
 
 IOANNES PAULUS PP. II
-
-© Copyright 1986 - Libreria Editrice Vaticana

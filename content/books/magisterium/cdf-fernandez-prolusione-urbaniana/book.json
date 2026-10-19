@@ -1,0 +1,56 @@
+{
+  "id": "cdf-fernandez-prolusione-urbaniana",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Provocações sobre a teologia contextual. Conferência inaugural na Jornada de Estudo «Marcos da teologia contextual hoje», Pontifícia Universidade Urbaniana",
+    "es": "Provocaciones sobre la teología en contexto. Conferencia de apertura de la Jornada de estudio “Piedras miliares de la teología contextual hoy”, Pontificia Universidad Urbaniana",
+    "it": "Provocazioni sulla teologia contestuale. Prolusione nella Giornata di Studio \"Pietre miliari della teologia contestuale oggi\", Pontificia Università Urbaniana"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2026-05-12",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2026-05-12"
+  },
+  "composed": "2026",
+  "languages": [
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20260512_fernandez-prolusione-urbaniana_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20260512_fernandez-prolusione-urbaniana_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20260512_fernandez-prolusione-urbaniana_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Provocações sobre a teologia contextual. Conferência inaugural na Jornada de Estudo «Marcos da teologia contextual hoje», Pontifícia Universidade Urbaniana",
+        "es": "Provocaciones sobre la teología en contexto. Conferencia de apertura de la Jornada de estudio “Piedras miliares de la teología contextual hoy”, Pontificia Universidad Urbaniana",
+        "it": "Provocazioni sulla teologia contestuale. Prolusione nella Giornata di Studio \"Pietre miliari della teologia contestuale oggi\", Pontificia Università Urbaniana"
+      }
+    }
+  ]
+}

@@ -189,5 +189,3 @@ Haec animo agitantes, tibi, Venerabilis Frater Noster, Apostolicam Benedictionem
 ------------------------------------------------------------------------
 
 \*A.A.S., vol. LXIII (1971), n. 6, pp. 401-441
-
-© Copyright 1971 - Libreria Editrice Vaticana

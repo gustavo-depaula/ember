@@ -1,0 +1,49 @@
+# Affrontare collegialmente le sfide dottrinali. Sulla pubblicazione delle relazioni dell’incontro delle Commissioni Dottrinali europee
+
+[](/index.htm)
+
+[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
+
+[](javascript:history.go(-1))
+
+[](javascript:up())
+
+[](#)
+
+------------------------------------------------------------------------
+
+Luis F. Card. Ladaria, S.I. *Prefetto della Congregazione per la Dottrina della Fede*
+
+AFFRONTARE COLLEGIALMENTE LE SFIDE DOTTRINALI
+
+**SULLA PUBBLICAZIONE DELLE RELAZIONI DELL’INCONTRO DELLE COMMISSIONI DOTTRINALI EUROPEE**
+
+*Martedì, 13 gennaio 2015*
+
+In seguito alla costituzione delle Conferenze Episcopali dopo il [Concilio Vaticano II](/archive/hist_councils/ii_vatican_council/index_it.htm), con l’[*Istruzione* del 23 febbraio 1967](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670223_instructio_it.html), la Congregazione per la Dottrina della Fede chiedeva a dette Conferenze di istituire al loro interno, nella misura del possibile, una Commissione Dottrinale. Tale Commissione costituisce un organo consultivo di aiuto alle Conferenze Episcopali ed ai singoli Vescovi nella loro sollecitudine per la promozione e la custodia della dottrina. Sembra evidente l’utilità di una Commissione di questo genere per sostenere l’esercizio collegiale della responsabilità, propria dei Vescovi in quanto maestri della fede, in un tempo di cambiamenti rapidi e di una complessità crescente delle problematiche. Pare altresì chiara una certa connaturalitàfra il compito delle Commissione Dottrinali a livello degli Episcopati locali e la missione specifica della Congregazione per la Dottrina della Fede a livello della Chiesa universale, per quanto riguarda le loro finalità.
+
+In tal senso si capisce perché l’allora [Prefetto della Congregazione per la Dottrina della Fede, il Cardinale Joseph Ratzinger](/roman_curia/congregations/cfaith/doc_rat_index_it.htm), abbia preso l’iniziativa di organizzare regolarmente degli incontri a livello continentale con i Presidenti o i Rappresentanti delle Commissioni Dottrinali. Egli ha presieduto personalmente gli incontri svoltisi a Bogotá, (1984), a Kinshasa (1987), a Vienna (1989), a Hong-Kong (1993), a Guadalajara (1996) e a San Francisco (1999). Sotto la presidenza del Cardinale William Levada si è svolto un secondo incontro in Africa, a Dar es Salaam (2009).
+
+L’ultimo di questi meeting, il secondo a livello europeo, si è svolto dal 13 al 15 gennaio 2015 presso il Centro Sant’Adalberto a Esztergom, nel cuore religioso della terra magiara, organizzato in collaborazione con il Cardinale Péter Erdő, Arcivescovo di Esztergom-Budapest e Primate di Ungheria. Senza contare i Rappresentanti della Congregazione, erano presenti 33 fra Cardinali, Arcivescovi, Vescovi e Sacerdoti per un insieme di 26 Conferenze Episcopali.
+
+Nel suo [Messaggio ai partecipanti,](/content/francesco/it/messages/pont-messages/2015/documents/papa-francesco_20150109_messaggio-presidenti-comm-dottrinali.html) il Santo Padre Francesco ha parlato di una “opportuna iniziativa” per valorizzare gli Episcopati locali nella loro responsabilità per l’unità e l’integrità della fede, auspicando che l’incontro contribuisse “ad affrontare collegialmente alcune difficoltà dottrinali e pastorali che si pongono oggi nel continente europeo”.
+
+L’incontro si è strutturato attorno a 7 relazioni, seguite ciascuna da un intenso e costruttivo dibattito.
+
+Il Cardinale Gerhard Müller, Prefetto della Congregazione per la Dottrina della Fede, ha presentato una relazione introduttiva su “[*La natura teologica delle Commissioni Dottrinali e il compito dei Vescovi come maestri della fede*](/roman_curia/congregations/cfaith/incontri/rc_con_cfaith_20150113_esztergom-muller_it.html)”, mettendo in rilievo il nesso fra fondamento teologico del compito delle Commissioni Dottrinali, *munus docendi* dei Vescovi riuniti nelle Conferenze Episcopali, e missione specifica della Congregazione per la Dottrina della Fede. Per favorire una giusta decentralizzazione, nella dinamica dell’affetto collegiale si è sottolineato che la relazione reciproca fra i diversi livelli di autorità magisteriale deve essere caratterizzata dalla sinergia e dal principio di sussidiarietà.
+
+In seguito Mons. Luis F. Ladaria, S.I., ha parlato su “[*L’unicità di Cristo e della Chiesa*](/roman_curia/congregations/cfaith/incontri/rc_con_cfaith_20150113_esztergom-ladaria_it.html)”, illustrando i fondamenti scritturistici e patristici relativi all’unicità della mediazione di Cristo ed a quella analoga e partecipata della Chiesa, nel confronto con alcune nuove teorie teologiche, quali il “teocentrismo” e il “regnocentrismo”, e nel contesto del dialogo con le altre religioni. Nella verità di Cristo è radicato ogni sforzo di missione e di evangelizzazione della Chiesa, tanto importante anche per il vecchio continente europeo.
+
+La relazione di Mons. Guy Harpigny, Vescovo di Tournai (Belgio), su “*L’annuncio del Vangelo e la sfida dell’islam*”, ha offerto una visione sintetica dell’inserimento e dello studio dell’islam in Europa fino alla Dichiarazione conciliare *Nostra Aetate*, nonché dello sviluppo successivo delle comunità islamiche europee, delle sfide che esse pongono oggi agli Stati liberali occidentali e delle possibilità di annunciare loro il Vangelo.
+
+Il Cardinale Willem Eijk, Arcivescovo di Utrecht (Paesi Bassi), nella sua relazione su “[*L’antropologia cristiana e la teoria del genere*](/roman_curia/congregations/cfaith/incontri/rc_con_cfaith_20150114_esztergom-eijk_it.html)”, ha messo quindi in evidenza i punti fondamentali della cosiddetta teoria del gender. Davanti alla diffusione di tale teoria, promossa anche da vari organismi internazionali, e della sfida che essa rappresenta per il matrimonio, il diritto alla vita e l’annunzio stesso della fede cattolica, è stata proposta una critica a partire dell’antropologia cristiana. Molti partecipanti hanno fatto presente che il prossimo Sinodo dei Vescovi dovrebbe affrontare tale problematica e offrire ai fedeli aiuti precisi al riguardo.
+
+“[*Leggi ingiuste e libertà religiosa*](/roman_curia/congregations/cfaith/incontri/rc_con_cfaith_20150114_esztergom-erdo_it.html)”: è stato il tema su cui si è espresso il Cardinale Péter Erdő, Arcivescovo di Esztergom-Budapest (Ungheria), sottolineando la tradizione giuridica secondo cui la legge ha come scopo oggettivo il bene comune. Tale principio presuppone una visione antropologica condivisa e sulla conoscibilità e su che cosa sia il bene comune. Il consenso attorno all’esistenza di beni oggettivi si è perso progressivamente a partire dell’epoca tarda moderna, giungendo così a separare il giusto dal bene. È stato osservato che oggi la libertà religiosa, la quale presuppone un minimo di consenso circa il bene comune, è minacciata da una visione relativistica del mondo che esclude la questione della verità.
+
+Mons. Philip Tartaglia, Arcivescovo di Glasgow (Scozia), trattando il tema “*La nuova evangelizzazione e il sacramento della penitenza*”, ha evidenziato l’importanza della promozione del sacramento della penitenza, come luogo privilegiato dell’incontro personale in Cristo con la misericordia di Dio, proponendo al riguardo una serie di suggerimenti concreti. Sono state tematizzate anche alcune difficoltà legate all’abuso di alcuni riti per il sacramento della penitenza e sono state discusse diverse iniziative per riscoprire questo sacramento, fondamentale per la nuova evangelizzazione.
+
+“*Presentazione del funzionamento di una Commissione Dottrinale*”: con queste parole Mons. Adolfo González Montes, Vescovo di Almería (Spagna), ha intitolato il suo intervento esemplificando la costituzione di una Commissione Dottrinale e il suo modo concreto di aiutare i Vescovi nella loro responsabilità per la dottrina della fede. La relazione è stata seguita da uno scambio di esperienze relative al funzionamento delle Commissioni Dottrinali nei vari Paesi. Nel caso delle piccole Conferenze Episcopali, è stata ribadita l’utilità di affidare il compito della Commissione Dottrinale alla Sessione Plenaria della Conferenza dei Vescovi.
+
+Tenendo conto dell’auspicio manifestato da molti, la Congregazione ha deciso di pubblicare tutte le relazioni di cui sopra sul proprio sito [www.doctrinafidei.va](http://www.doctrinafidei.va/) nella rubrica “Incontri con le Commissioni Dottrinali”. Si spera che questi interventi possano orientare i Pastori e i fedeli in Europa nella ricerca di soluzioni adatte ad affrontare in modo sempre più efficace e collegiale le maggiori sfide dottrinali contemporanee.
+
+------------------------------------------------------------------------

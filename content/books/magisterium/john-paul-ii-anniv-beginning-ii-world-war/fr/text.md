@@ -175,5 +175,3 @@ OR 27.8.1989 p.1, 2, 3.
 *L'Osservatore Romano. Edition hebdomadaire en langue française* n.36 p. 4-6.
 
 *La Documentation Catholique* n.1991 p. 818-821.
-
-© Copyright 1989 - Libreria Editrice Vaticana

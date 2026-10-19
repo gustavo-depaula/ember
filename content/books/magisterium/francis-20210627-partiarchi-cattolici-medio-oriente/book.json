@@ -1,0 +1,72 @@
+{
+  "id": "francis-20210627-partiarchi-cattolici-medio-oriente",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter of His Holiness Pope Francis to the Catholic Patriarchs of the Middle East",
+    "ar": "Letter of His Holiness Pope Francis to the Catholic Patriarchs of the Middle East, 27 June 2021",
+    "es": "Carta del Santo Padre a los Patriarcas católicos de Oriente Medio",
+    "fr": "Lettre du Saint-Père aux Patriarches catholiques du Moyen-Orient",
+    "it": "Lettera del Santo Padre ai Patriarchi cattolici del Medio Oriente"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2021-06-27",
+    "pt-BR": "Carta · Papa Francisco · 2021-06-27"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "ar",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/letters/2021/documents/20210627-partiarchi-cattolici-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/letters/2021/documents/20210627-partiarchi-cattolici-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/letters/2021/documents/20210627-partiarchi-cattolici-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/letters/2021/documents/20210627-partiarchi-cattolici-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2021/documents/20210627-partiarchi-cattolici-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter of His Holiness Pope Francis to the Catholic Patriarchs of the Middle East",
+        "ar": "Letter of His Holiness Pope Francis to the Catholic Patriarchs of the Middle East, 27 June 2021",
+        "es": "Carta del Santo Padre a los Patriarcas católicos de Oriente Medio",
+        "fr": "Lettre du Saint-Père aux Patriarches catholiques du Moyen-Orient",
+        "it": "Lettera del Santo Padre ai Patriarchi cattolici del Medio Oriente"
+      }
+    }
+  ]
+}

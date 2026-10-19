@@ -160,8 +160,6 @@ Fiduciae autem pleni loquamini, dilecti Filii, pro certo habentes, Sanctum Dei S
 
 ------------------------------------------------------------------------
 
-© Copyright 1968 - Libreria Editrice Vaticana
-
 [^1]: ([1](#fnref1)) Cfr. Pii IX, Litt. Enc. *Qui pluribus : Pii* *IX P. M. Acta*, 1, pp. 9-10; S. Pii X, Litt. Enc. *[Singulari quadam](/content/pius-x/la/encyclicals/documents/hf_p-x_enc_24091912_singulari-quadam.html)*: *A.A.S.* IV (1912) p. 658; Pii XI, Litt. Enc. *[Casti Connubii](/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_31121930_casti-connubii.html)*: *A.A.S.* XXII (1930) pp. 579-581; Pii XII, Alloc. *Magnificate Dominum*, ad Episcopos totius catholici orbis: *A.A.S.* XLVI (1954) pp. 671-672; Ioannis XXIII, Litt Enc. *[Mater et Magistra](/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html)* : *A.A. S.* LIII (1961) p. 457.
 
 [^2]: ([2](#fnref2)) Cfr. *Matth*. 28, 18-19.

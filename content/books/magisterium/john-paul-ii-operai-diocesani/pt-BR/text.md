@@ -25,5 +25,3 @@ Encomendo estes meus sentidos desejos à Santíssima Virgem da Clemência, à qu
 *Vaticano, 25 de Janeiro de 1983*.
 
 **JOÃO PAULO PP. II**
-
-© Copyright 1983 - Libreria Editrice Vaticana

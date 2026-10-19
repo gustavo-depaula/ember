@@ -175,5 +175,3 @@ A lei io affido voi e insieme con voi affido tutto il mondo dei giovani, affinch
 Con la mia benedizione apostolica.
 
 *Data a Roma, presso san Pietro, il 31 gennaio, nella memoria di san Giovanni Bosco, nell’anno 1988, decimo del nostro pontificato.*
-
-© Copyright 1988 - Libreria Editrice Vaticana

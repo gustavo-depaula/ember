@@ -88,6 +88,4 @@ Jegyzetek:
 [\[14\]](#JB14) Lk 2,49.  
 [\[15\]](#JB15) Lk 2,14.  
 
-© Copyright 1994 -  Libreria Editrice Vaticana
-
 *   *

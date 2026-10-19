@@ -292,8 +292,6 @@ Non Ci resta, Venerabili Fratelli, che alzare le mani paterne e fare scendere so
 
 ------------------------------------------------------------------------
 
-© Copyright - Libreria Editrice Vaticana
-
 [^1]: \[\] *Gen*., III, 23.
 
 [^2]: \[\] *Galat*., IV, 4.

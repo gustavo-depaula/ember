@@ -1,0 +1,31 @@
+# Letter of His Holiness Pope Francis to the Catholic Patriarchs of the Middle East
+
+***LETTER OF HIS HOLINESS POPE FRANCIS TO THE CATHOLIC PATRIARCHS OF THE MIDDLE EAST***
+
+*Beatitudes,*
+
+*Dear brothers in Christ,*
+
+It is with joy that I have accepted your invitation to join you on this special day, when each of you celebrates with your faithful a Divine Liturgy to invoke from the Lord the gift of peace in the Middle East and to consecrate it to the Holy Family.
+
+From the beginning of my Pontificate I have sought to be close to your sufferings, first by making a pilgrimage to the [Holy Land](https://www.vatican.va/content/francesco/en/travels/2014/outside/documents/papa-francesco-terra-santa-2014.html), then to [Egypt](https://www.vatican.va/content/francesco/en/travels/2017/outside/documents/papa-francesco-egitto_2017.html), to the [United Arab Emirates](https://www.vatican.va/content/francesco/en/travels/2019/outside/documents/papa-francesco-emiratiarabiuniti-2019.html) and finally, a few months ago, to [Iraq](https://www.vatican.va/content/francesco/en/travels/2021/outside/documents/papa-francesco-iraq-2021.html), and by inviting the whole Church to pray and to show concrete solidarity with Syria and Lebanon, so tried by war and by social, political and economic instability. I also remember clearly the [meeting of 7 July 2018 in Bari](https://www.vatican.va/content/francesco/en/travels/2018/inside/documents/papa-francesco-bari_2018.html), and I thank you because with your gathering today you are preparing hearts for the [convocation of next 1 July in the Vatican](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2021/7/1/giornata-per-il-libano.html), together with all the Heads of Churches of the Land of the Cedars.
+
+The Holy Family of Jesus, Joseph and Mary, to whom you have chosen to consecrate the Middle East, well represents your identity and your mission. Above all, it enshrined the mystery of the Son of God incarnate, it was constituted around Jesus and because of him. It was given to us by Mary, through her “yes” to the angel’s announcement in Nazareth; it was received by Joseph, who even while he slept listened to God's voice and was ready to do His will once he awoke. A mystery of humility and spoliation, as in the birth in Bethlehem, recognised by the humble and the far away, but undermined by those who were too attached to earthly power to be able to wonder at the fulfilment of God’s promise. To guard the Word made flesh, Joseph and Mary set out on their journey to Egypt, combining the humility of the birth in Bethlehem with the poverty of people forced to emigrate. In this way, however, they remained faithful to their vocation and unknowingly anticipated the destiny of exclusion and persecution that would be that of the adult Jesus, who would reveal the Father's answer on Easter morning.
+
+Consecration to the Holy Family also calls each one of you to rediscover as individuals and as a community your vocation as Christians in the Middle East, not only by demanding due recognition of your rights as original citizens of those beloved lands, but also by living your mission as custodians and witnesses of the first apostolic origins. On two occasions during [my visit to Iraq](https://www.vatican.va/content/francesco/en/travels/2021/outside/documents/papa-francesco-iraq-2021.html) I used the image of the carpet, which the skilful hands of the men and women of the Middle East know how to weave into precise geometries and precious images, and which are the fruit of the interweaving of numerous threads that only by standing side by side become a masterpiece. If violence, envy, division can tear even one of these threads, the whole is lacerated and disfigured. At that moment, human plans and agreements can do little if we do not trust in God’s power to heal. Do not seek to quench your thirst at the poisoned springs of hatred, but let the field of your hearts be watered by the dew of the Spirit, like the great saints of your respective traditions: Coptic, Maronite, Melkite, Syriac, Armenian, Chaldean, Latin.
+
+How many civilisations and dominations have arisen, flourished and then fallen, with their admirable works and conquests on the ground: all have passed away. Beginning with our father Abraham, the Word of God has continued to remain a lamp that has enlightened, and continues to enlighten our steps.
+
+I leave you peace, I give you my peace, the Risen Lord said to the disciples who were still afraid in the Upper Room after Passover: I too, thanking you for your witness and your perseverance in the faith, invite you to live the prophecy of human brotherhood, which was at the heart of my meetings in [Abu Dhabi](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2019/2/4/incontro-interreligioso.html) and [Najaf](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2021/3/6/iraq-incontro-interreligioso.html), as well as of my Encyclical Letter *[Fratelli Tutti](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html)*.
+
+Truly be the salt of your lands, give flavour to social life, wishing to contribute to the building of the common good, according to those principles of the Social Doctrine of the Church which so urgently need to be known, as was indicated by the Post-Synodal Apostolic Exhortation *[Ecclesia in Medio Oriente](https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20120914_ecclesia-in-medio-oriente.html)* and as you wished to recall in commemorating the hundred and thirtieth anniversary of the Encyclical Letter *[Rerum Novarum](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html)*.
+
+As I heartily impart the Apostolic Blessing to all who have taken part in this celebration and to those who will follow it through the media, I ask you to pray for me.
+
+*Rome, Saint John Lateran, 27 June 2021*
+
+FRANCIS
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*[Bulletin of the Holy See Press Office](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2021/06/27/210627a.html)*, 27 June 2021

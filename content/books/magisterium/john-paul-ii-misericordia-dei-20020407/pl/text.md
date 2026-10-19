@@ -144,5 +144,3 @@ DRUKARNIA WATYKAŃSKA
 27 Por. kan. 964, § 3.
 
 28 Por. kan. 964, § 2; Papieska Rada ds. Interpretacji Tekstów Prawnych, Responsa ad propositum dubium: de loco excipiendi sacramentales confessiones (7 lipca 1998): AAS 90 (1998) 711.
-
-Copyright © Libreria Editrice Vaticana

@@ -166,6 +166,4 @@ Above all things, trusting in the mercy of God, who is able to move the hearts o
 
 **LEO XIII**
 
-© Copyright 1896 - Libreria Editrice Vaticana
-
 *  *

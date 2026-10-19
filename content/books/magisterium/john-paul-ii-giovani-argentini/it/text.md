@@ -35,5 +35,3 @@ Come segno del mio affetto per voi e per tutta la gioventù argentina, vi impart
 *Dal Vaticano, 8 settembre 1985, solennità della Natività della Beata Vergine Maria.*
 
 GIOVANNI PAOLO II
-
-© Copyright 1985 - Libreria Editrice Vaticana

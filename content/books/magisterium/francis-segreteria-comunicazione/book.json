@@ -1,0 +1,72 @@
+{
+  "id": "francis-segreteria-comunicazione",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued 'Motu Proprio' «The current context of communications» for the establishment of the Secretariat for Communication",
+    "pt-BR": "Carta Apostólica em forma de Motu Proprio «O atual contexto comunicativo» para a Instituição da Secretaria para a Comunicação",
+    "es": "Carta Apostólica en forma de 'Motu Proprio' «El actual contexto de la comunicación» para la institución de la Secretaría para la Comunicación",
+    "fr": "Lettre apostolique en forme de Motu Proprio « L’actuel contexte communicatif », pour l'institution du Secrétariat pour la Communication",
+    "it": "Lettera Apostolica in forma di 'Motu Proprio' «L'attuale contesto comunicativo», per l'Istituzione della Segreteria per la Comunicazione"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2015-06-27",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2015-06-27"
+  },
+  "composed": "2015",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20150627_segreteria-comunicazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20150627_segreteria-comunicazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20150627_segreteria-comunicazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20150627_segreteria-comunicazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20150627_segreteria-comunicazione.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued 'Motu Proprio' «The current context of communications» for the establishment of the Secretariat for Communication",
+        "pt-BR": "Carta Apostólica em forma de Motu Proprio «O atual contexto comunicativo» para a Instituição da Secretaria para a Comunicação",
+        "es": "Carta Apostólica en forma de 'Motu Proprio' «El actual contexto de la comunicación» para la institución de la Secretaría para la Comunicación",
+        "fr": "Lettre apostolique en forme de Motu Proprio « L’actuel contexte communicatif », pour l'institution du Secrétariat pour la Communication",
+        "it": "Lettera Apostolica in forma di 'Motu Proprio' «L'attuale contesto comunicativo», per l'Istituzione della Segreteria per la Comunicazione"
+      }
+    }
+  ]
+}

@@ -216,8 +216,6 @@ Em espírito de caridade fraterna, é-me grato dar-vos, a vós e a todos os irm�
 
 **Notas**
 
-© Copyright 1980 - Libreria Editrice Vaticana
-
 [^1]: (#fnref1)) Cfr. cap. 2: *AAS* 71 (1979), pp. 395 s.
 
 [^2]: (#fnref2)) Cfr. Conc. Ecum. Tridentino, sess. XXII, an. 2: *Conciliorum Oecumenicorum Decreta*, 3ª ed., Bologna 1973, p. 735.

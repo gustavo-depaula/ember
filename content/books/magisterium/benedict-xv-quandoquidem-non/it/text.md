@@ -18,5 +18,3 @@ Dal momento che avevamo offerto non poche testimonianze del Nostro affetto pater
 *Dato a Roma, presso San Pietro, il 3 gennaio 1920, nel sesto anno del Nostro Pontificato.*
 
 **BENEDICTUS PP. XV**
-
-© Copyright - Libreria Editrice Vaticana

@@ -890,5 +890,3 @@ NOTES
 \(133\) Cf. Concile Oecuménique Vatican II, Décret sur l'activité missionnaire de l'Eglise *Ad gentes*, n. 7 : AAS 58 (1966), p. 955.
 
 \(134\) Cf. *Rm* 1, 16.
-
-© Copyright - Libreria Editrice Vaticana

@@ -238,5 +238,3 @@ Che san Giuseppe ottenga alla Chiesa ed al mondo, come a ciascuno di noi, la ben
 *Dato a Roma, presso san Pietro, il 15 agosto - solennità dell'Assunzione della beata Vergine Maria - dell'anno 1989, undecimo di pontificato.*
 
 **GIOVANNI PAOLO II**
-
-© Copyright 1989 - Libreria Editrice Vaticana

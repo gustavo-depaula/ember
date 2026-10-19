@@ -152,5 +152,3 @@ Cuius rei gratia ex imo pectore preces fundimus ad Sanctissimam Trinitatem, Patr
 *Datum Romae, apud Sanctum Petrum, die XXV mensis Ianuarii, in festo Conversionis S. Pauli Apostoli, anno MCMLXXXVIII, Pontificatus Nostri decimo.*  
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1988 - Libreria Editrice Vaticana

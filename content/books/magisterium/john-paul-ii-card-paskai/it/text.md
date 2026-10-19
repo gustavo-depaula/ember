@@ -29,5 +29,3 @@ Anche noi ci uniremo spiritualmente con voi. E ci sarà assai grato non solo acc
 *Dal Vaticano, il giorno 16 del mese di agosto, nell’anno 1988, decimo del mio Pontificato.*
 
 IOANNIS PAULUS PP. II
-
-© Copyright 1988 - Libreria Editrice Vaticana

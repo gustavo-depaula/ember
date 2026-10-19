@@ -1,0 +1,80 @@
+{
+  "id": "worship-intempodicovid",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Decree - In time of Covid-19 (II)",
+    "pt-BR": "Decreto - Em tempos de covid-19 (II)",
+    "de": "Dekret - In der Zeit von Covid-19 (II)",
+    "es": "Decreto - En tiempo de Covid-19 (II)",
+    "fr": "Décret - En temps de Covid-19 (II)",
+    "it": "Decreto - In tempo di Covid-19 (II)"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2020-03-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2020-03-25"
+  },
+  "composed": "2020",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200325_decreto-intempodicovid_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200325_decreto-intempodicovid_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200325_decreto-intempodicovid_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200325_decreto-intempodicovid_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200325_decreto-intempodicovid_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20200325_decreto-intempodicovid_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Decree - In time of Covid-19 (II)",
+        "pt-BR": "Decreto - Em tempos de covid-19 (II)",
+        "de": "Dekret - In der Zeit von Covid-19 (II)",
+        "es": "Decreto - En tiempo de Covid-19 (II)",
+        "fr": "Décret - En temps de Covid-19 (II)",
+        "it": "Decreto - In tempo di Covid-19 (II)"
+      }
+    }
+  ]
+}

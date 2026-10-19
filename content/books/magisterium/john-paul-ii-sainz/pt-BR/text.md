@@ -45,5 +45,3 @@ Por fim, a Ti, dilecto Filho, aos Frades e às Monjas Carmelitas Descalços, com
 *Dado em Roma, junto de São Pedro, a 14 de Outubro de 1981, terceiro ano do Nosso Pontificado.*
 
 **JOANNES PAULUS PP. II**
-
-© Copyright 1981 - Libreria Editrice Vaticana

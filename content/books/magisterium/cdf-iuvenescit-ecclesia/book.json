@@ -1,0 +1,88 @@
+{
+  "id": "cdf-iuvenescit-ecclesia",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter Iuvenescit Ecclesia to the Bishops of the Catholic Church Regarding the Relationship Between Hierarchical and Charismatic Gifts in the Life and the Mission of the Church",
+    "de": "Schreiben <i>Iuvenescit Ecclesia</i> an die Bischöfe der katholischen Kirche über die Beziehung zwischen hierarchischen und charismatischen Gaben im Leben und in der Sendung der Kirche",
+    "es": "Carta <i>Iuvenescit Ecclesia</i> a los Obispos de la Iglesia Católica sobre la relación entre los dones jerárquicos y carismáticos para la vida y misión de la Iglesia",
+    "fr": "Lettre <i>Iuvenescit Ecclesia</i> aux évêques de l'Église catholique sur la relation entre dons hiérarchiques et charismatiques pour la vie et la mission de l'Église",
+    "it": "Lettera Iuvenescit Ecclesia ai Vescovi della Chiesa cattolica sulla relazione tra doni gerarchici e carismatici per la vita e la missione della Chiesa",
+    "sl": "Iuvenescit Ecclesia - Cerkev se pomlaja; Pismo škofom katoliške Cerkve o odnosu med hierarhičnimi in karizmatičnimi darovi v življenju in poslanstvu Cerkve",
+    "uk": "Лист Iuvenescit Ecclesia (Омолоджується Церква) до єпископів Католицької Церкви про співвідношення між ієрархічними і харизматичними дарами в житті та місії Церкви"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2016-05-16",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2016-05-16"
+  },
+  "composed": "2016",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "sl",
+    "uk"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "uk",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_uk.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter Iuvenescit Ecclesia to the Bishops of the Catholic Church Regarding the Relationship Between Hierarchical and Charismatic Gifts in the Life and the Mission of the Church",
+        "de": "Schreiben <i>Iuvenescit Ecclesia</i> an die Bischöfe der katholischen Kirche über die Beziehung zwischen hierarchischen und charismatischen Gaben im Leben und in der Sendung der Kirche",
+        "es": "Carta <i>Iuvenescit Ecclesia</i> a los Obispos de la Iglesia Católica sobre la relación entre los dones jerárquicos y carismáticos para la vida y misión de la Iglesia",
+        "fr": "Lettre <i>Iuvenescit Ecclesia</i> aux évêques de l'Église catholique sur la relation entre dons hiérarchiques et charismatiques pour la vie et la mission de l'Église",
+        "it": "Lettera Iuvenescit Ecclesia ai Vescovi della Chiesa cattolica sulla relazione tra doni gerarchici e carismatici per la vita e la missione della Chiesa",
+        "sl": "Iuvenescit Ecclesia - Cerkev se pomlaja; Pismo škofom katoliške Cerkve o odnosu med hierarhičnimi in karizmatičnimi darovi v življenju in poslanstvu Cerkve",
+        "uk": "Лист Iuvenescit Ecclesia (Омолоджується Церква) до єпископів Католицької Церкви про співвідношення між ієрархічними і харизматичними дарами в житті та місії Церкви"
+      }
+    }
+  ]
+}

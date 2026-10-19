@@ -58,5 +58,3 @@ Quae igitur a Nobis hisce Litteris motu proprio datis decreta sunt, ea omnia rat
 *Datum Romae, apud Sanctum Petrum, die XXV mensis Martii, anno MCMXCIII, Pontificatus Nostri quinto decimo.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1993 - Libreria Editrice Vaticana

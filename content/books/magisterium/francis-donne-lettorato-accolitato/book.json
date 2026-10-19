@@ -1,0 +1,80 @@
+{
+  "id": "francis-donne-lettorato-accolitato",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter of the Holy Father to the Prefect of the Congregation for the Doctrine of the Faith regarding access of women to the ministries of Lector and Acolyte",
+    "pt-BR": "Carta do Santo Padre ao Prefeito da Congregação para a Doutrina da Fé sobre o acesso das mulheres aos ministérios do leitorado e do acolitado",
+    "es": "Carta del Santo Padre al Prefecto de la Congregación para la Doctrina de la Fe sobre el acceso de las mujeres a los ministerios del lectorado y del acolitado",
+    "fr": "Lettre du Saint-Père au Préfet de la Congrégation pour la Doctrine de la Foi sur l’accès des femmes aux ministères de lecteur et d'acolyte",
+    "it": "Lettera del Santo Padre al Prefetto della Congregazione per la Dottrina della Fede circa l’accesso delle donne ai ministeri del Lettorato e dell’Accolitato",
+    "pl": "List Ojca Świętego Franciszka do Prefekta Kongregacji Nauki Wiary na temat dopuszczenia kobiet do posług Lektoratu i Akolitatu"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2021-01-10",
+    "pt-BR": "Carta · Papa Francisco · 2021-01-10"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/letters/2021/documents/papa-francesco_20210110_lettera-donne-lettorato-accolitato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/letters/2021/documents/papa-francesco_20210110_lettera-donne-lettorato-accolitato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/letters/2021/documents/papa-francesco_20210110_lettera-donne-lettorato-accolitato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/letters/2021/documents/papa-francesco_20210110_lettera-donne-lettorato-accolitato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2021/documents/papa-francesco_20210110_lettera-donne-lettorato-accolitato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/letters/2021/documents/papa-francesco_20210110_lettera-donne-lettorato-accolitato.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter of the Holy Father to the Prefect of the Congregation for the Doctrine of the Faith regarding access of women to the ministries of Lector and Acolyte",
+        "pt-BR": "Carta do Santo Padre ao Prefeito da Congregação para a Doutrina da Fé sobre o acesso das mulheres aos ministérios do leitorado e do acolitado",
+        "es": "Carta del Santo Padre al Prefecto de la Congregación para la Doctrina de la Fe sobre el acceso de las mujeres a los ministerios del lectorado y del acolitado",
+        "fr": "Lettre du Saint-Père au Préfet de la Congrégation pour la Doctrine de la Foi sur l’accès des femmes aux ministères de lecteur et d'acolyte",
+        "it": "Lettera del Santo Padre al Prefetto della Congregazione per la Dottrina della Fede circa l’accesso delle donne ai ministeri del Lettorato e dell’Accolitato",
+        "pl": "List Ojca Świętego Franciszka do Prefekta Kongregacji Nauki Wiary na temat dopuszczenia kobiet do posług Lektoratu i Akolitatu"
+      }
+    }
+  ]
+}

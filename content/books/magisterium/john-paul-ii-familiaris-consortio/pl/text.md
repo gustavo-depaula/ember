@@ -1458,5 +1458,3 @@ Zapewniając o mojej stałej modlitwie, wszystkim i każdemu z osobna udzielam z
 ^(182.) JAN PAWEŁ II, List *Appropinquat iam*, 1 (15 sierpnia 1980 r.): *AAS* 72 (1980), 791
 
 ^(183.) Prefacja z Mszy Św. na Uroczystość Chrystusa Króla.
-
-Copyright 1981 © Libreria Editrice Vaticana

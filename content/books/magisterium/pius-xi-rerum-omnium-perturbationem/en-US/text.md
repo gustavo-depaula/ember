@@ -88,6 +88,4 @@ Given at Rome, at St. Peter's, the twenty-sixth day of January, in the year 1923
 
 **PIUS XI**
 
-*© Copyright - Libreria Editrice Vaticana*
-
 * *

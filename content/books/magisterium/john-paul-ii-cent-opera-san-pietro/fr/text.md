@@ -59,5 +59,3 @@ Que la Bénédiction de Dieu soit la récompense de tous ceux qui s’associent 
 *Du Vatican, le 1^(er) octobre 1989, fête de sainte Thérèse de l’Enfant-Jésus et de la Sainte-Face, en la onzième année de mon pontificat.  *
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1989 - Libreria Editrice Vaticana

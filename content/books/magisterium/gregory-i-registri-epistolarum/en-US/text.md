@@ -16,8 +16,6 @@ Important MSS. 1. Cologne 92. of the 8th cent. Held by Ewald to be the best of a
 
 Editions. 1. Liber Ep’larum beati Gregorii Pape… (Augustæ Vindel., G. Zainer, c. 1472) fol. 2. Epiftole ex Regiftro: (cum vita Gregorii præfixa). Venetiis per Laz. Soardum, 1505, fol. 3. Do. Parisiis, 1508, 4°. 4. in Gregorii Magni opera, beneficio Bertholdi Renbolt. In edibus J. Parvi: Parrhisiis, 1518, fol. 5. Do. ed. Franc. Regnault. Rothomagi (Paris), 1521, fol. 6. …epiftole ex Regiftro fa’cti Gregorii pape; At fol. ccclvi. of Opera… Paris., ex officina Claudii Chevalon, 1523, fol. 7. Do. 1533, fol. 8. Registrum Epistolarum. Lugduni, 1539, 4°. 9. Do. ed. Guillart. Paris., 1542, fol.
 
-7
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 ix
@@ -34,11 +32,7 @@ Philip Schaff
 
 EWALD (P.), Studien zur Ausgabe des Registers Gregors I. (Neues Archiv, iii., 1878, pp. 433–625.) HARTMANN (L. M.), Ueber zwei Gregorbriefe. (Neues Archiv, xvii., 1892, p. 193.) ————Zur Chronologie der Briefe Gregors I. (————xv., 1890, p. 411.) ————Zur Orthographie Papst Gregors I. (————xv., 1890, p. 529.) JAFFé (Ph.) \[Editor\]. S. Gregorius I., ed. P. Ewald: pp. 143–219, of vol. I., and p. 738 of vol. II., of Regesta pontificum Romanorum, ed. P. Jaffé. Lipsiæ, 1885, 6, 4°. JAMES (Thomas), Vindiciæ Gregorianæ, seu restitutus innumeris pæne locis Gregorius ex variis MSS. vt magno labore, ita Singulari fide collatis. Genevæ, 1625, 4°. KELLET (F. W.), Pope Gregory the Great and his relations with Gaul. (Cambridge historical essays.) Lond. 1889, 8°. LAMPE (Fel.), Qui fuerint Gregorii Magni papæ temporibus in imperii Byzantini parte occidentali exarchi et qualia eorum iura atque officia. Diss.…Berlin. Berlin, 1892, la. 8°. MAASEN (F.), Ueber eine Sammlung von Schreiben Gregors I. u. Verordnungen der Kaiser u. Könige. Wien, 1877, 8°. MOMMSEN (Th.), Zu den Gregorienbriefen. (Neues Archiv, xvii., 1892, p. 189.) PFLUGK-HARTTUNG (J. v.), Papst Gregor d. Gr. (Münchener allgem. Zeitung, 1888. Beilage no. 209–215.) SAVINI (F.), Se il Castrum Aprutiense delle lettere di s. Gregorio Magno fu l’odierna Teramo e se la voce Aprutium servi nel primitivo medio evo a denominare la città di Teramo, ovvero solo il suo territorio. (Archivio storico Italiano Ser. v. tom. X. 1892, p. 3.) WISBAUM (W.), Die wichtigsten Richtungen und Ziele der Thätigkeit des Papstes Gregors des Grossen. Inaug. Diss.…Bonn. Koln (1884), 8°. WOLFSGRUBER (C.), Die vorpäpstliche Lebensperiode Gregors d. Gr. Nach seinen Briefen Dargestellt. Progr.…Schotten. Wien, 1886, 4°. ————Gregor der Grotze… Saulgau, 1890, 8°. WOLLSCHACK (Th.), Die Verhältnisse Italiens, insbesondere des Langobardenreichs, nach dem Briefwechseb Gregors I. Progr.…Horn. Horn, 1888, 4°.
 
-1
-
 Book IX. Epistle I. To Januarius, Bishop of Caralis (Cagliari). Gregory to Januarius, &c.
-
-9
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -52,8 +46,6 @@ Register of the Epistles of Saint Gregory the Great. 73b
 
 Book I. The Month of September, Indiction IX., Being the First Year of His Ordination. Epistle I. To all the Bishops of Sicily.
 
-529
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -62,11 +54,7 @@ Gregory, servant of the servants of God1297, to all the bishops constituted thro
 
 Epistle II. To Justinus, Prætor of Sicily. Gregory to Justinus, Prætor of Sicily. What my tongue speaks my conscience approves; since even before you had become engaged in the employments of any office of dignity, I have greatly loved and greatly respected you. For the very modesty of your deportment made certain incipient claims on affection even from one who had been loth. And, when I heard that you had come to administer the prætorship of Sicily, I greatly rejoiced. But, since I have discovered that a certain ill-feeling is creeping in between you and the ecclesiastics, I have been exceedingly distressed. But now that you are occupied with the charge of civil administration, and I with the care of this ecclesiastical government, we can properly
 
-1297
-
 “Sanctus Gregorius primus omnium se principio epistolarum suarum servum servorum. Dei satis humiliter definivit.” (Joan Diac. in Vit. S. Greg. l. ii. c. 1). The designation, however, had been used by others before him, as by Pope Damasus (Ep. IV. ad Stephanum et Africæ Episcopos), and Augustine (Ep. ad Vitalem). Gregory may have been the first to use it habitually. It is true that in the Registrum Epistolarum we find it four times only, viz., in the headings of Epistles I. 1, I. 36, VI. 51, XIII. 1. But it may have been omitted in the copies of his letters preserved at Rome. This is probable from the fact that it occurs in the letters relating to the English Mission as given by Bede, though absent from the same letters in the Registrum.
-
-530
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -78,11 +66,7 @@ love one another in particular so far as we do no harm to the general community.
 
 Epistle III. To Paul, Scholasticus. Gregory to Paul, &c. However strangers smile upon me on account of the dignity of my priestly office, this I take not much account of; but I do grieve not a little at your smiling upon me on this account, seeing that you know what I long for, and yet suppose me to have received advancement. For to me it would have been the highest advancement, if what I wished could have been fulfilled; if I could have accomplished my desire, which you have been long acquainted with, in the enjoyment of longed-for rest. Yet, since I am now detained in the city of Rome, tied by the chains of this dignity,
 
-1298
-
 The population of Rome had long been greatly dependent on Sicily for the supply of corn, which it was the duty of the prætor to purchase and transmit to Rome. Famine might result from failure of this supply. Hence what is said further on the subject in this Epistle. Cf. “Neminem vestrum præterit, judices omnem utilitatem opportunitatemque provinciæ Siciliæ quæ ad commoda populi Romani adjuncta sit consistere in re frumentaria maxime. Nam cæteris rebus adjuvamur ex illa provincia, hac vero alimur et sustinemur.” (Cicero in Verrem, Act II. lib. 3, c. 5.)
-
-531
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -94,11 +78,7 @@ Epistle IV. To John, Bishop of Constantinople1299. Gregory to John, Bishop of Co
 
 Epistle V. To Theoctista, Sister of the Emperor. Gregory to Theoctista, &c.
 
-1299
-
 For notice of him, see III. 53, note.
-
-532
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -110,11 +90,7 @@ With how great devotion my mind prostrates itself before your Venerableness I ca
 
 In English Bible, lxix. 2.
 
-1301
-
 Ibid. xl. 12.
-
-533
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -128,19 +104,11 @@ Epistle VI. To Narses, Patrician1305. Gregory to Narses, &c. 1302
 
 In English Bible, lxxiii. 18.
 
-1303
-
 Ibid. xxxvii. 20.
-
-1304
 
 Ibid. lxxxiii. 13.
 
-1305
-
 There are other letters from Gregory to this Narses, viz. iv. 32, vi. 14, and perhaps vii. 30. He may have been the same as the Narses who was a famous general of the Emperor Maurice, and who was eventually burnt alive by Phocas. (Theoph., Sim. V.)
-
-534
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -148,19 +116,11 @@ Philip Schaff
 
 In describing loftily the sweetness of contemplation, you have renewed the groans of my fallen state, since I hear what I have lost inwardly while mounting outwardly, though undeserving, to the topmost height of rule. Know then that I am stricken with so great sorrow that I can scarcely speak; for the dark shades of grief block up the eyes of my soul. Whatever is beheld is sad, whatever is thought delightful appears to my heart lamentable. For I reflect to what a dejected height of external advancement I have mounted in falling from the lofty height of my rest. And, being sent for my faults into the exile of employment from the face of my LORD, I say with the prophet, in the words, as it were of destroyed Jerusalem, He who should comfort me hath departed far from me (Lam. i. 16). But when, in seeking a similitude to express my condition and title, you frame periods and declamations in your letter, certainly, dearest brother, you call an ape a lion. Herein we see that you do as we often do, when we call mangy whelps pards or tigers. For I, my good man, have, as it were, lost my children, since through earthly cares I have lost works of righteousness. Therefore call me not Noemi, that is fair; but call me Mara, for I am full of bitterness (Ruth i. 20). But as to your saying that I ought not to have written, “That you should plough with bubali1306in the LORD’S field,” seeing that when in the sheet shewn to the blessed Peter both bubali and all wild beasts were presented to view; thou knowest thyself that it is subjoined, Slay and eat (Acts x. 13). Thou, then, who hadst not yet slain these beasts, why didst thou already wish to eat them through obedience? Or knowest thou not that the beast about which thou wrotest refused to be slain by the sword of thy mouth? Thou must needs, then, satisfy the hunger of thy desire with those whom thou hast been able to prick and slay (Lit., to slay through compunction)1307. Further, as to the case of our brethren, I think that, if GOD gives aid, it will be as thou hast written. It was not, however, by any means right for me to write about it at present to our most serene lords, since at the very outset one should not begin with complaints. But I have written to my well-beloved son, the deacon Honoratus1308, that he should mention the matter to them in a
 
-1306
-
 The animal called !"#!$%"& is described by Pliny (l. 8, c. 15) as “animal ferum in Africa, vitulo ac cervo simile.” The reference in the text is to Amos vi. 12, where the Vulgate has, “Numquid currere queunt in petris equi, aut arari potest in bubalis?” The clause in the epistle, “ut in agro Dominico cum bubalis arares,” appears to be a quotation from a previous letter of Gregory’s, in which he may have announced his election to Narses.
-
-1307
 
 The whole passage is rather obscure to us, not having before us the letter from Narses, which is replied to, or the previous ones from Gregory to which Narses had referred. The drift seems to be as follows. Gregory, in his former letter, had compared his being elected pope to a bubalis being set to plough in the Lord’s field. Narses had replied to the effect that even if he were a bubalus, he was not therefore unfit, since bubali, with other wild beasts, had been in St. Peter’s sheet, and pronounced clean. To this Gregory now rejoins, “Yes; but those beasts were to be slain before they might be eaten; and so you must first slay me, per compuctionem—i.e. by so pricking me with ‘the sword of your mouth’ as to induce me to comply—before you may eat me per obedientiam—i.e. make use of me in the way you wish through my obedience to your desire. Not being thus so far slain, I have a right to protest against being made pope against my will.”
 
-1308
-
 Honoratus was at this time Gregory’s apocrisiarius at Constantinople. We find several letters addressed to him in this capacity, but none throwing light on the case here referred to.
-
-535
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -176,19 +136,11 @@ Gregory to Anastasius, &c. I have found what your Blessedness has written to be 
 
 Theodorus was the court Physician at Constantinople, to whom Epistles III. 66, IV. 31, VII. 28, are addressed.
 
-1310
-
 Anastasius had been threatened with deposition and exile (A.D. 563) by the Emperor Justinian, and the sentence had been carried into effect (A.D. 570) by Justinian’s successor, Justin II. Notwithstanding this, Gregory after his own accession acknowledged him as the true patriarch of Antioch; and, probably owing to his intercession with the Emperor Maurice, Anastasius was restored to his patriarchal See on the death of Gregory, who had been intruded into it, A.D. 593. Other Epistles to, or concerning this Anastasius are I. 25, 26, 28; V. 39; VII. 27, 33; VIII. 2.
-
-1311
 
 In English Bible, cxix. 107.
 
-1312
-
 Ibid. lxix. 2.
-
-536
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -200,8 +152,6 @@ Epistle IX. To Peter the Subdeacon. Gregory to Peter, &c. Gregory, a servant of 
 
 Epistle X. To Bacauda and Agnellus, Bishops. Gregory to Bacauda, &c. The Hebrews dwelling in Terracina have petitioned us for licence to hold, under our authority, the site of their synagogue which they have held hitherto. But, inasmuch as we have been informed
 
-537
-
 NPNF212. Leo the Great, Gregory the Great
 
 78b
@@ -212,23 +162,13 @@ that the same site is so near to the church that even the sound of their psalmod
 
 Epistle XI. To Clementina, Patrician1314. Gregory to Clementina, &c. Having received your Glory’s letter speaking of the passing away of the late Eutherius of magnificent memory, we give you to understand that our mind no less than yours is disturbed by such a sorrow, in that we see how men of approved repute are by degrees removed from this world, whose ruin is already evidenced in the actual effects of the causes thereof. But it becomes us to withdraw ourselves from it by the wise precaution of conversion1315, lest it involve us too in its own ruin. And indeed our sorrow for the loss of friends ought to be the more tolerable as our condition of mortality requires from us that we should lose them. Nevertheless, for the loss of aid to our carnal life He Who granted permission for its removal is powerful to console, and to come Himself as a comforter into the vacant place. That we are unable to accede to your request that the deacon Anatholius should be sent to you is due to the circumstances of the case, and not to any rigorous austerity. For we have appointed him our steward1316, having committed our episcopal residence to his management.
 
-1313
-
 For the result of this order, see below, Ep. 35. For other instances of Gregory’s tolerant attitude towards Jews, and his deprecation of force being used for their conversion, see that Epistle, and also I. 47; IX. 6. But he is strict in prohibiting their possession of slaves who were already, or might become, Christians, and will allow them no compensation for the loss of such (cf. iii. 38; IV. 9, 21; IX. 109, 110).
-
-1314
 
 Another Epistle, X. 15, is addressed to the same lady.
 
-1315
-
 The word conversio commonly denotes entering a monastery.
 
-1316
-
 Vicedominum.
-
-538
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -238,11 +178,7 @@ Epistle XII. To John, Bishop of Urbs Vetus (Orvieto). Gregory to John, &c. Agapi
 
 Epistle XVI. To Severus, Bishop of Aquileia1317. Gregory to Severus, &c. As, when one who walks through devious ways takes anew the right path, the LORD embraces him with all eagerness, so afterwards, when one deserts the way of truth, He is more saddened with grief for him than He rejoiced over him with joy when he turned from error; since it is a less degree of sin not to know the truth than not to abide in it when known: and what is committed in error is one thing, but what is perpetrated knowingly is another. And we, from having formerly rejoiced in thy being incorporated in the unity of the Church, are now the more abundantly distressed for thy dissociation from the catholic society. Accordingly we desire thee, at the instance of the bearer of these presents, according to the command of the most Christian and most serene Emperor, to come with thy adherents to the threshold of the blessed Apostle Peter, that, a synod being assembled by the will of GOD, judgment may be passed concerning the doubt that is entertained among you.
 
-1317
-
 The bishops of Istria, of whom the bishop Aquilea was Metropolitan, still refused to accept the decree of the fifth Œcumenical Council, which had, under the dictation of the Emperor Justinian, condemned certain writings of three deceased prelates, Theodore of Mopsuesta, Theodoret and Ibas, called “the three chapters” (tria capitula). Severus the Metropolitan, summoned in this letter with his suffragans to Rome, disregarded the summons, going instead, at the instance of the Exarch Smaragdus, to Ravenna, where he remained a year. On his return to his See he still held out, though many of his bishops conformed. A schism hence ensued in Istria, which continued during the life of Gregory (Joan. Diac. Vit. S. Greg. iv. 37, 38). Other Epistles referring to the Istrian schism are II. 46, 51; V. 51; IX. 9, 10; XIII. 33.
-
-539
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -256,11 +192,7 @@ Gregory to all, &c. Inasmuch as the abominable Autharit1318 during this Easter s
 
 Epistle XVIII. To Peter the Subdeacon. Gregory to Peter, &c. We have been informed that Marcellus of the Barutanian Church, who has had penance assigned him in the monastery of Saint Adrian in the same city of Panormus, not only is in want of food, but also suffers inconvenience from scarcity of clothing. Therefore we hold it necessary to enjoin your Activity by this present order to appoint for him as much as you may see to be needful in the way of food, clothing and bedding for his own maintenance, and provision for his servant; so that his want and nakedness may be provided for with such timely care that what you assign to this same man may be reckoned afterwards to your own account. So act, therefore, that you may both fulfil our command, and also by ordering this very thing well you may be able yourself to partake
 
-1318
-
 Autharit (al. Autharith, called by Paul. Diac. Authari), who died at Pavia in this year (A.D. 591) had been king of the Lombards for six years, having effected extensive conquests in Italy. “Rex Authari apud Ticinum Nonas Septembris veneno, ut tradunt, accepto moritur, postquam sex regnaverat annos.” (Paul. Diac. de gestis Longob. iii. 36). It is he who is said to have advanced to Rhegium at the toe of Italy. and there, riding up to a pillar in the sea, to have touched it with the point of his spear, and said, “As far as this shall the boundaries of the Lombards extend.” (Paul. Diac. iii. 33.) He had been a determined Arian. He was succeeded by Agilulph, whom his widow Theodelinda, a Catholic Bavarian princess, selected as her consort. With her Gregory carried on a very friendly correspondence and probably through her influence, Agilulph himself, originally an Arian, is said to have been converted to Catholicity. Gregory’s letters to Theodelinda are IV. 4, 38; IX. 43; XIV. 12.
-
-540
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -270,11 +202,7 @@ of the profit of the same. Further, there is this other matter that we enjoin yo
 
 Epistle XIX. To Natalis, Bishop of Salona1319. Gregory to Natalis, &c. The acts of your synod which you have transmitted to us, in which the Archdeacon Honoratus is condemned, we perceive to be full of the seed of strifes, seeing that the same person is at one and the same time advanced to the dignity of the priesthood against his will, and removed from the office of the diaconate as though unworthy of it. And, as it is just that no one who is unwilling should be advanced by compulsion, so I think we must be of opinion that no one who is innocent should be deposed from the ministry of his order unjustly. Nevertheless, since discord hateful to GOD excuses thy part in the transaction, we admonish thee to restore his place and administration to the Archdeacon Honoratus, and agree to supply him with attendance sufficient for his divine
 
-1319
-
 Salona was the metropolis of the province of Dalmatia in Western Illyricum. The misdoings of its bishop, Natalis, gave rise to a lengthy correspondence. See, in addition to this letter, I. 20; II. 18, 19, 20, 52; III. 8, 32. He had, as appears from this letter and others, desired to get rid of his archdeacon Honoratus, having apparently some grudge against him, and with this a few would have ordained him priest against his will, none but deacons being then capable of holding the office of archdeacon. He was accused also of addiction to unbecoming conviviality, and of neglecting his episcopal duties. Eventually, after continued contumacy, he appears to have satisfied Gregory in the matter of Honoratus, and also to have reformed his own habits of life, after writing what appears from Gregory’s reply to it to have been a racy letter in defence of conviviality, which was taken in good part and replied to in a good-humoured vein (II. 52). Gregory subsequently said of him, “I was at one time much distressed concerning our brother and fellow bishop Natalis, having experienced proud behaviour from him. But since he has himself corrected his manners, he has overcome me, and comforted my sadness” (II. 46).
-
-541
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -290,15 +218,9 @@ Gregory to Honoratus, &c. Having read the contradictory letters which thou and t
 
 Epistle XXI. To Natalis, Bishop of Salona1321. Gregory to Natalis, &c. We have received at the hands of the deacon Stephen, whom you sent to us, the letters of thy Reverence, wherein you congratulate us on our promotion. And truly what has been offered in the kindness and earnestness of charity demands full credence, reason having prompted your pontifical
 
-1320
-
 Cimelia, from Gr. !"#$%&#'.
 
-1321
-
 This appears to have been the formal answer to the official letter sent by the bishop of Salona to Gregory, congratulating him on his accession to the popedom, having no connexion with, and perhaps written before, the preceding Epistle XIX.
-
-542
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -308,11 +230,7 @@ order to rejoice with us. We therefore, being cheered by your greeting, declare 
 
 Epistle XXV. To John, Bishop of Constantinople, and the Other Patriarchs. Gregory, to John of Constantinople, Eulogius of Alexandria, Gregory of Antioch, John of Jerusalem, and Anastasias, Ex-Patriarch of Antioch. A paribus1322. When I consider how, unworthy as I am, and resisting with my whole soul, I have been compelled to bear the burden of pastoral care, a darkness of sorrow comes over me, and my sad heart sees nothing else but the shadows which allow nothing to be seen. For to what end is a bishop chosen of the LORD but to be an intercessor for the offences of the people? With what confidence, then, can I come as an intercessor for the sins of others to Him before Whom I am not secure about my own? If perchance any one should ask me to become his intercessor with a great man who was incensed against him, and to myself unknown, I should at once reply, I cannot go to intercede for you, having no knowledge of that man from familiar acquaintance with him. If then, as man with man, I should properly blush to become an intercessor with one on whom I had no claim, how great is the audacity of my obtaining the place of intercessor for the people with GOD, whose friendship I am not assured of through the merit of my life! And in this matter I find a still more serious cause of alarm, since we all know well that, when one who is in disfavour is sent to intercede with an incensed person, the mind of the latter is provoked to still greater severity. And I am greatly afraid lest the community of believers, whose offences the LORD has so far indulgently borne with, should perish through the addition of my guilt to theirs. But, when in one way or another I suppress this fear, and with mind consoled give myself to the care of my pontifical office, I am deterred by consideration of the immensity of this very task. “For indeed I consider with myself what watchful care is needed that a ruler may be pure in thought, chief in action, discreet in keeping silence, profitable in speech, a near neighbour to every one in sympathy, exalted above all in contemplation, a companion of good livers through humility,
 
-1322
-
 A paribus denotes that the Epistle is a copy of an identical one that has been sent to more than one person, exemplis being perhaps understood. Cf. I. 80; VI. 52, 54, 58; IX. 60, 106.
-
-543
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -322,11 +240,7 @@ Philip Schaff
 
 unbending against the vices of evil-doers through zeal for righteousness1323.” All which things when I try to search out with subtle investigation, the very wideness of the consideration cramps me in the particulars. For, as I have already said, there is need of the greatest care that “the ruler be pure in thought, &c.” \[A long passage, thus beginning, and ending with “beyond the limit of order,” is found also in Regula Pastoralis, Pt. II. ch. 2, which see.\] Again, when I betake myself to consider the works required of the pastor, I weigh within myself what intent care is to be taken that he be “chief in action, to the end that by his living, he may point out the way of life to them that are put under him, &c.” \[See Reg. Past., Pt. II. ch. 3, to the end.\] Again, when I betake myself to consider the duty of the pastor as to speech and silence, I weigh within myself with trembling care how very necessary it is that he should be discreet in keeping silence and profitable in speech, “lest he either utter what ought to be suppressed or suppress what ought to be uttered, &c.” \[See Reg. Past., III., 4, down to “keep the unity of the faith.”\] Again, when I betake myself to consider what manner of man the ruler ought to be in sympathy, and what in contemplation, I weigh within myself that he “should be a near neighbour to every one in sympathy, and exalted above all in contemplation, to the end that through the bowels of loving-kindness, &c.” \[See Reg. Past, Pt. II. ch. 5, to the end.\] Again, when I betake myself to consider what manner of man the ruler ought to be in humility, and what in strictness, I weigh within myself how necessary it is that he “should be, through humility, a companion to good livers, and, through the zeal of righteousness rigid against the vices of evil-doers &c.” \[See Regula Pastoralis, Pt. II. ch. 6, down to “towards the perverse;” there being only a slight variation, not affecting the sense, in the wording of the concluding clause.\] For hence it is that “Peter who had received from GOD, &c.” \[See Reg. Past., Pt. II. ch. 6, down to “dominates over vices rather than over his brethren.”\] He orders well the authority he has received who has learnt both to maintain it and to keep it in check. He orders it well who knows how both through it to tower above sins, and with it to set himself on an equality with other men. Moreover, the virtue of humility ought to be so maintained that the rights of government be not relaxed; lest, when any prelate has lowered himself more than is becoming, he be unable to restrain the life of his subordinates under the bond of discipline; and the severity of discipline is to be so maintained that gentleness be not wholly lost through the over-kindling of zeal. For often vices shew themselves off as virtues, so that niggardliness would fain appear as frugality, extravagance as liberality, cruelty as righteous zeal, laxity as loving-kindness. Wherefore both discipline and mercy are far from what they should be, if one be maintained without the other. But there ought to be kept up with great skill of discernment both mercy justly considerate, and discipline smiting kindly. “For hence it is that, as the Truth teaches (Luke x. 34), the man is brought by the care of the Samaritan, &c.” \[See Reg. Past., Pt. II. ch. 6, down to “manna of sweetness.”\]
 
-1323
-
 What is here printed between inverted commas, with much of what has come before, occurs also in Regula Pastoralis, II. 1. So also long passages afterwards, as will be seen.
-
-544
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -336,8 +250,6 @@ Philip Schaff
 
 Thus, having undertaken the burden of pastoral care, when I consider all these things and many others of like kind, I seem to be what I cannot be, especially as in this place whosoever is called a Pastor is onerously occupied by external cares; so that it often becomes uncertain whether he exercises the function of a pastor or of an earthly noble. And indeed whosoever is set over his brethren to rule them cannot be entirely free from external cares; and yet there is need of exceeding care lest he be pressed down by them too much. “Whence it is rightly said to Ezekiel, The priests shall not shave their heads, &c.” \[See Reg. Past., Pt. II., ch. 7, to the end.\] But in this place I see that no such discreet management is possible, since cases of such importance hang over me daily as to overwhelm the mind, while they kill the bodily life. Wherefore, most holy brother, I beseech thee by the Judge who is to come, by the assembly of many thousand angels, by the Church of the firstborn who are written in heaven, help me, who am growing weary under this burden of pastoral care, with the intercession of thy prayer, lest its weight oppress me beyond my strength. But, being mindful of what is written, Pray for one another, that ye may be healed (James v. 16), I give also what I ask for. But I shall receive what I give. For, while we are joined to you through the aid of prayer, we hold as it were each other by the hand while walking through slippery places, and it comes to pass, through a great provision of charity, that the foot of each is the more firmly planted in that one leans upon the other. Besides, since with the heart man believeth unto righteousness, and with the mouth confession is made unto salvation, I confess that I receive and revere, as the four books of the Gospel so also the four Councils: to wit, the Nicene, in which the perverse doctrine of Arius is overthrown; the Constantinopolitan also, in which the error of Eunomius and Macedonius is refuted; further, the first Ephesine, in which the impiety of Nestorius is condemned; and the Chalcedonian, in which the pravity of Eutyches and Dioscorus is reprobated. These with full devotion I embrace, and adhere to with most entire approval; since on them, as on a four-square stone, rises the structure of the holy faith; and whosoever, of whatever life and behaviour he may be, holds not fast to their solidity, even though he is seen to be a stone, yet he lies outside the building. The fifth council also I equally venerate, in which the epistle which is called that of Ibas, full of error, is reprobated; Theodorus, who divides the Mediator between GOD and men into two subsistences, is convicted of having fallen into the perfidy of impiety; and the writings of Theodoritus, in which the faith of the blessed Cyril is impugned, are refuted as having been published with the daring of madness. But all persons whom the aforesaid venerable Councils repudiate I repudiate; those whom they venerate I embrace; since, they having been constituted by universal consent, he overthrows not them but himself, whosoever presumes either to loose those whom they bind, or to bind those whom they loose. Whosoever, therefore, thinks otherwise, let him be anathema. But whosoever holds the faith of the aforesaid synods, peace be to him from GOD the Father, through Jesus Christ His Son, Who lives and reigns consubstantially GOD with Him in the Unity of the Holy Spirit for ever and ever. Amen.
 
-545
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -346,19 +258,11 @@ Epistle XXVI. To Anastasius, Patriarch of Antioch. \[The beginning of this epist
 
 Epistle XXVII. To Anastasius, Archbishop of Corinth. Gregory to Anastasius, &c. In proportion as the judgments of GOD are unsearchable ought they to be an object of fear to human apprehension; so that mortal reason, being unable to comprehend them, may of necessity bow under them the neck of a humble heart, to the end that it may follow with the mind’s obedient steps where the will of the Ruler may lead. I, then, considering that my infirmity cannot reach to the height of the apostolic See, had rather have declined this burden, lest, having pastoral rule, I
 
-1324
-
 The Benedictine Editors adopt the reading patribus instead of fratribus. But the sense seems to require the latter.
-
-1325
 
 See Ep. 7, note 1.
 
-1326
-
 Keys of St. Peter’s sepulchre, in which had been inserted filings from his alleged chains preserved at Rome, were often sent by Gregory to distinguished friends (cf. III. 48; VI. 6; VII. 26; VIII. 35; IX. 122; XI. 66), to be hung round the neck (VI. 6) or deposited (XI. 66), or used for healing. For an account of how the filings were obtained, see IV. 30. In one instance the key is described as being of gold (VII. 26). To Eulogius of Alexandria is sent a small cross containing filings from the chains, to be applied to his sore eyes.
-
-546
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -370,11 +274,7 @@ should succumb in action through inadequate administration. But, since it is not
 
 Epistle XXVIII. To Sebastian, Bishop of Rhisinum \[in Dalmatia\]. Gregory to Sebastian, &c. Although I deserved to receive no letters from your Blessedness, yet I also do not forget my own forgetfulness; I blame my negligence, I stir up my sluggishness with goads of love, that one who will not pay what he owes of his own accord, may learn even under blows to render it. Furthermore, I inform you that I have prepared a full representation, with urgent prayers to our most pious lords, to the effect that they ought to have sent the most blessed LORD patriarch Anastasius, with the use of the pallium granted him, to the threshold of the blessed Peter, prince of the apostles, to celebrate with me the solemnities of Mass; to the end that, though he were not allowed to return to his See, he might at least live with me, retaining his dignity. But of the reason that has arisen for keeping back what I had thus written the bearer of these presents will inform you. Nevertheless, ascertain the mind of the said lord Anastasius, and inform me in your letters of whatever he may wish to be done in this business1327.
 
-1327
-
 See Ep. 7, note 1.
-
-547
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -384,19 +284,11 @@ Epistle XXIX. To Aristobulus, Ex-Prefect and Antigraphus1328. Gregory to Aristob
 
 Epistle XXXIII. To Romanus, Patrician, and Exarch of Italy. Gregory to Romanus, &c. Even though there were no immediate cause for writing to your Excellency, yet we ought to shew solicitude for your health and safety so as to learn through frequent intercommunication what we desire to hear about you. Besides, it has come to our knowledge that Blandus, bishop of the city of Hortanum1329, has been detained now for a long time by your Excellency in the city of Ravenna. And the result is that the Church decays, being without a ruler, and the people as being without a shepherd; and infants there, for their sins, die without baptism1330. And again, since we do not believe that your Excellency has detained him except on the ground of some probable
 
-1328
-
 I.e. Secretary. “Scriptor idem est et cancellarius…quod rescribit literis missis ad dominum suum.” Du Cange.
-
-1329
 
 Al. Orta, in Tuscia.
 
-1330
-
 This alleged consequence of the bishop’s absence from his See does not imply that he alone could administer baptism, but only that his authorization was required for its administration. See Bingham, Bk. II. ch. iii. Sect. 3, 4, and references there given: e.g. Ignat. Ep. ad Smyrn. n. viii., “It is not lawful either to baptize or celebrate the Eucharist without the bishop; but that which he allows is well-pleasing to God:” Hieron. Dialog. c. Lucifer, p. 139, “Thence it comes that, without the order of the bishop neither presbyter nor deacon has the right of baptizing;” Can. Apost. c. xxxviii., “Let the presbyters and deacons execute no office without the knowledge of the bishop; for it is to him that the Lord’s people are committed, and he must give an account of their souls.” It was usual in episcopal cities to have only one baptistery, connected with the bishop’s church; and these all would be baptized, if not by the bishop himself (who was accounted the chief minister of baptism), yet under his direction and superintendence. Cf. Bingham, Bk. VIII., ch. vii., Sect. 6; Bk. XI., ch. vii., Sect. 12, 13.
-
-548
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -410,8 +302,6 @@ To Venantius, Ex-Monk, Patrician of Syracuse1331. 1331
 
 The relations of Gregory to this Venantius are interesting; other letters throwing light on them being III. 60; VI. 43, 44; IX. 123; XI. 30, 35, 36, 78. Venantius was a patrician, resident in Sicily, who, having become a monk, had discovered that he had mistaken his vocation and returned to secular life. In the letter before us he is kindly, but very earnestly, written to, in the hope of inducing him to retrace a step which, from Gregory’s point of view, was so dangerous to his friend’s soul. But the remonstrance was in vain. Venantius appears, from an allusion in the letter, to have been associated with a literary set of friends who took a view of the purpose of life not in accordance with the monastic theory: and other motives may have disposed him to listen to their advice, since we find him afterwards married to a lady called Italica. She appears to have been, like Venantius of patrician rank, and resident in Sicily and to have possessed property there; for see III. 60, an epistle addressed to “Italica Patricia,” remonstrating with her for her alleged harsh treatment of certain poor people, who were under the protection of the Church. It appears from this letter that Gregory had known her previously, and it is observable that he makes allusion to her personal charms (pulchritudo in superficie corporis). There being no allusion in this letter to any husband, it cannot be concluded that she was, at the time when it was written, married to Venantius: but we may reasonably suppose her to have been the same Italica who was subsequently addressed as his wife, for see IX. 123, “Domno Venantio patricio et Italicæ jugalibus.” The marriage may possibly have taken place soon after Gregory’s first letter to Venantius, which, if the date assigned be correct, was written in the 9th Indiction (A.D. 590–l). It cannot well have been much later, since in the 4th Indiction, i.e. A.D. 600–1 (still supposing the assigned dates correct) there were two girls, the issue of the marriage, who were also written to by Gregory after their father’s death, and seem then to have been already old enough to be betrothed. See XI. 35, 36, 78. At some time subsequent to his marriage we find a letter of serious admonition addressed to Venantius (VI. 43), who had quarrelled with his bishop on some matters of business, and acted violently. But, notwithstanding all such causes for displeasure, Gregory continued on terms of cordial friendship with the married couple, and took a warm interest in their children. Having heard of Venantius being dangerously ill, he wrote a letter of sympathy, addressed to him and his wife jointly, and at the end sent greetings to his “most sweet daughters, the lady Barbara and the lady Antonina” (IX. 123). Subsequently, when Venantius was suffering from gout, he addressed him earnestly, but kindly; and, when he was on his death-bed, and the inheritance of the daughter was in jeopardy owing to certain claims made by certain persons on their father’s estate, he wrote a short kind letter to the little ladies, bidding them keep up their spirits so as to comfort their
 
-549
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -419,8 +309,6 @@ Philip Schaff
 Gregory to Venantius, &c. Many foolish men have supposed that, if I were advanced to the rank of the episcopate, I should decline to address thee, or to keep up communication with thee by letter. But this is not so; since I am compelled by the very necessity of my position not to hold my peace. For it is written, Cry aloud, spare not, lift up thy voice like a trumpet (Isai. lviii. 1). And again it is written, I have given thee for a watchman unto the house of Israel, thou shalt hear the word at my mouth, and declare it to them from me (Ezek. iii. 17). And what follows to the watchman or to the hearer from such declaration being kept back or uttered is forthwith intimated; If, when I say to the wicked, Thou shalt surely die, thou declare it not to him, nor speak to him, that he may turn from his wicked way and live, the wicked man himself shall die in his iniquity; but his blood will I require at thine hand. Yet if thou declare it to the wicked, and he turn not from his iniquity and from his wicked way, he himself indeed shall die in his iniquity, but thou hast delivered thy soul. Hence also Paul says to the Ephesians, My hands are pure this day from the blood of all of you. For I have not shunned to declare unto you all the counsel of GOD (Acts xx. 26, 27). He would not, then, have been pure from the blood of all, had he refused to declare unto them the counsel of GOD. For when the pastor refuses to rebuke those that sin, there is no doubt that in holding his peace he slays them. Compelled, therefore, by this consideration, I will speak whether you will or no; for with all my powers I desire either thee to be saved or myself to be rescued from thy death. For thou rememberest in what state of life thou wast, and knowest to what thou hast fallen without regard to the animadversion of supernal strictness. Consider, then, thy fault while there is time; dread, while thou canst, the severity of the future judge; lest thou then find it bitter, having shed no tears to avoid it now. Consider what is written; Pray that your flight be not in the winter, neither on the Sabbath day (Matth. xxiv. 20). For the numbness of cold impedes walking in the winter, and, according to the ordinance of the law, it is not lawful to walk on the Sabbath day. He, then, attempts to fly in the winter or on the Sabbath day, who then wishes to fly from the wrath of the strict Judge when it is no longer allowed him to walk. Wherefore, while there is time, while it is allowed, fly thou from the animadversion which is of so great dreadfulness: consider what is written; Whatsoever thine hand findeth to do,
 
 father, assuring them that he himself would protect them after their father’s death, and speaking of the debt of gratitude he owed for the goodness to himself of both their parents. The mother not being written to, or alluded to as alive, may be supposed to have died previously. At the same time he wrote to John, bishop of Syracuse (the same bishop with whom Venantius had been once for a time at variance), urging him to do what he could to induce Venantius, even in his last moments, to resume the monastic habit for the safety of his soul and no less urgently charging him to take up the cause of the orphan girls. Lastly (XI. 87), the girls are once more addressed by Gregory in a kind letter, from which it seems, that, young as they must have been, marriage was already in contemplation for them, and in which he expresses his hope of seeing them at Rome. The correspondence thus summarised is peculiarly interesting, as shewing both Gregory’s strong sense of the sin and danger to the soul of returning to the world from the monastic life, and also the continuance of his friendship and affection to one who had thus sinned, and the interest he could still take in his domestic happiness and the welfare of his family.
-
-550
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -431,8 +319,6 @@ Philip Schaff
 do it with thy might; for there is neither work, nor device, nor wisdom, in the grave whither thou hastenest (Eccles. ix. 10). By the witness of the Gospel thou knowest that divine severity accuses us for idle talk, and demands a strict account of an unprofitable word (Matth. xii. 36). Consider, then, what it will do for perverse doing, if in its judgment it reprobates some for talking. Ananias had vowed money to GOD (Acts v. 2 seq.), which, afterwards, overcome by diabolical persuasion, he withheld. But by what death he was mulcted thou knowest. If then he was deserving of the penalty of death who withdrew the money which he had given to GOD, consider of how great penalty thou wilt be deserving in the divine judgment, who hast withdrawn, not money, but thyself, from Almighty GOD, to whom thou hadst devoted thyself in the monastic state of life. Wherefore, if thou wilt hear the words of my rebuke so as to follow them, thou wilt come to know in the end how kind and sweet they are. Lo, I confess it, I speak mourning and constrained by sorrow for what thou hast done. I scarce can utter words; and yet thy mind, conscious of guilt, is hardly able to bear what it hears, blushes, is confounded, remonstrates. If, then, it cannot bear the words of dust, what will it do at the judgment of the Creator? And yet I acknowledge the exceeding mercy of heavenly grace, in that it beholds thee flying from life, and nevertheless still reserves thee for life; that it sees thee acting proudly, and still bears with thee; that through its unworthy servants it administers to thee words of rebuke and admonition. So great a thing is this that thou oughtest anxiously to ponder on what Paul says; We exhort you, brethren that ye receive not the grace of GOD in vain: for he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee. Behold now is the acceptable time, behold now is the day of salvation (2 Cor. vi. 1 seq.). But I know that, when my letter is received, forthwith friends come about thee, thy literary clients are called in, and advice about the purpose of life is sought from the promoters of death; who, loving not thee, but what belongs to thee, tell thee nothing but what may please thee at the time. For such, as thou thyself rememberest, were those thy former counsellors, who drew thee on to the perpetration of so great a sin. To quote to thee something from a secular author1332, “All things should be considered with friends, but the friends themselves should be considered first.” But, if in thy case thou seekest an adviser, take me, I pray thee, as thy adviser. For no one can be more to be relied on for advice than one who loves not what is thine, but thee. May Almighty GOD make known to thy heart with what love and with what charity my heart embraces thee, though so far only as not to offend against divine grace. For I so attack thy fault as to love thy person; I so love thy person as not to embrace the viciousness of thy fault. If, therefore, thou believest that I love thee, approach the threshold of the apostles, and use me as an adviser. But if perchance I am supposed to be too keen in the cause of GOD, and am suspected for the ardour of my zeal, I will call the whole Church together into counsel on this question, and whatever all are of opinion should be done for good, this I will in no wise contradict, but gladly fulfil and subscribe to what is decided in common. May Divine grace keep thee while accomplishing what I have warned thee to do. 1332
 
 Seneca, Epist. 3: “Tu omnia cum amico delibera, sed de ipso prius. Post amicitiam credendum est; ante amicitiam judicandum.”
-
-551
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -452,27 +338,15 @@ Philip Schaff
 
 away, knowing that thou bringest great gain to me, if thou gatherest \[heavenly\] reward rather than riches. But we have ascertained that what the greater part complain of is the loss of their slaves, saying that, if any man’s bondman, peradventure running away from his master, has declared himself to belong to the Church, the rectors1333 of the Church have at once kept him as a bondman belonging to the Church, without any trial of the case, but supporting with a high hand the word of the bondman. This displeases me as much as it is abhorrent from the judgment of truth. Wherefore I desire thy Experience to correct without delay whatever may be found to have been so done: and it is also fit that any such slaves as are now kept in ecclesiastical possession, as they were taken away without trial, should be restored before trial; so that, if holy Church has any legitimate claim to them, their possessors may then be dispossessed by regular process of law. Correct all these things irretractably, since thou wilt be truly a soldier of the blessed apostle Peter if in his causes thou keep guard over the truth, even without his receiving anything. But, if thou seest anything that may justly be claimed as belonging to the Church, beware lest thou ever try to assert such claim by force; especially as I have established a decree under pain of anathema, that tituli may not ever be put by our Church on any urban or rural farm1334; but whatever may in reason be claimed for the poor ought also to be defended by reason; lest, a good thing being done in a manner that is not good, we be convicted of injustice before Almighty GOD even in what we justly seek. Moreover, I pray thee, let noble laymen, and the glorious \[Prætor\]1335 love thee for thy humility, not dread thee for thy pride. And yet, if by any chance thou knowest them to be doing any injustice to the indigent, turn thy humility at once into exaltation, so as to be always submissive to them when they do well, and opposed to them when they do ill. But so behave that neither thy humility be remiss nor thy authority stiff, to the end that uprightness season humility, and humility render thy very uprightness gentle. Further, since it has been customary for bishops to assemble here for the anniversary1336 of the pontiff, forbid their coming for the day of my ordination, since foolish and vain superfluity delights me not. But if they must needs assemble, let them come for the anniversary1337 of Peter, the prince of the apostles, to render thanks to him by whose bounty they are pastors. Farewell. Given this XVII day of the Kalends of April, in the ninth year of the Emperor Mauricius.
 
-1333
-
 As to the rectores patrimonii, see Proleg. p. vii.
-
-1334
 
 Titulum imponere seems to have meant originally setting up a scroll or tablet on a property to assert a title to it; it might be in some cases with a view to sale, letting, or to confiscation.
 
-1335
-
 I.e. the Prætor of Sicily.
 
-1336
-
 Natalem, i.e. birthday; denoting usually, in the case of a dignitary, the day of his inauguration; and, in the case of a deceased saint, the day of his death.
 
-1337
-
 Natalem, i.e. birthday; denoting usually, in the case of a dignitary, the day of his inauguration; and, in the case of a deceased saint, the day of his death.
-
-553
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -486,11 +360,7 @@ To Peter, Subdeacon. Gregory to Peter, &c. The venerable Paulinus bishop of the 
 
 Epistle XLII.
 
-1338
-
 He was the subdeacon who had charge of the patrimony in Campania, as appears from other letters to him (see Index of Epistles).
-
-554
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -500,19 +370,11 @@ To Anthemius, Subdeacon1339. Gregory to Anthemius, &c. John, our brother and fel
 
 Epistle XLIII. To Leander Bishop of Hispalis (Seville)1341.
 
-1339
-
 Rector patrimonii and defensor in Campania. See above Ep. 39.
-
-1340
 
 In Compania, hodie Sorrento.
 
-1341
-
 Gregory made the acquaintance of Leander, bishop of the Metropolitan See of Hispalis (Seville) in Spain, during his residence at Constantinople. It was at the instigation of Leander together with the request of the monks who had followed him from his Roman Monastery to Constantinople, that he had begun when there, to expound the book of Job. The earlier part of his “Moralium libri, sive Expositio in librum B. Job,” had been delivered in oral discourses at Constantinople, but afterwards revised, arranged, and completed in thirty-five books. The whole, when finished, was addressed to Leander. All this appears from the “Epistola Missoria” prefixed to the completed treatise. Gregory evidently had a peculiar affection for Leander. Other epistles addressed to him are V. 49, and IX. 121. He is spoken of also in the Dialogues of Gregory, Lib. III. cap. 31, being there referred to as “dudum mihi in amicitiis familiariter junctus.”
-
-555
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -522,11 +384,7 @@ Philip Schaff
 
 Gregory to Leander, &c. I should have wished to reply to your letters with full application of mind, were I not so worn by the labour of my pastoral charge as to be more inclined to weep than to say anything. And this your Reverence will take care to understand and allow for in the very text of my letters, when I speak negligently to one whom I exceedingly love. For, indeed, I am in this place tossed by such billows of this world that I am in no wise able to steer into port the old and rotten ship of which, in the hidden dispensation of GOD, I have assumed the guidance. Now in front the billows rush in, now at the side heaps of foamy sea swell up, now from behind the storm follows on. And, disquieted in the midst of all this, I am compelled sometimes to steer in the very face of the opposing waters; sometimes, turning the ship aside, to avoid the threats of the billows slantwise. I groan, because I feel that through my negligence the bilgewater of vices increases, and, as the storm meets the vessel violently, the rotten planks already sound of shipwreck. With tears I remember how I have lost the placid shore of my rest, and with sighs I behold the land which still, with the winds of affairs blowing against me, I cannot reach. If, then, thou lovest me, dearest brother, stretch out to me in the midst of these billows the hand of thy prayer; that from helping me in my labours thou mayest, in very return for the benefit, be the stronger in thine own. I cannot, however, at all fully express in words my joy on having learnt that our common son, the most glorious King Rechared, has been converted with most entire devotion to the Catholic faith1342. In describing his character to me in thy letters thou hast made me love him, though I know him not. But, since you know the wiles of the ancient foe, how against conquerors he prepares all the fiercer war, let your Holiness keep watch the more warily over him, that he may accomplish what he has well begun, nor lift himself up for good works accomplished; that he may keep the faith which he has come to know by the merits also of his life, and shew by his works that he is a citizen of the eternal kingdom, to the end that after a course of many years he may pass from kingdom to kingdom. But with respect to trine immersion in baptism, no truer answer can be given than what you have yourself felt to be right; namely that, where there is one faith, a diversity of usage does no harm to holy Church. Now we, in immersing thrice, signify the sacraments of the three days’ sepulture; so that, when the infant is a third time lifted out of the water, the resurrection after a space of three days may be expressed. Or, if any one should perhaps think that this is done out of veneration for the supreme Trinity, neither so is there any objection to immersing the person to be baptized in the water once, since, there being one substance in three subsistences, it cannot be in any way reprehensible to immerse the infant in baptism either thrice or once, seeing that by three immersions the Trinity of persons, and in one the singleness of the Divinity may be denoted. But, inasmuch as up to this time it has been the custom of heretics to immerse infants in baptism thrice,
 
-1342
-
 Reccared, the Visigoth King in Spain, had declared himself a Catholic A.D. 587 and formally renounced Arianism and adopted the Catholic Creed at the Council of Toledo, A.D. 589. The date of the letter before us, if rightly placed, is A.D. 591.
-
-556
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -538,11 +396,7 @@ Epistle XLIV. To Peter, Subdeacon of Sicily. Gregory to Peter, &c. With regard t
 
 Rusticos ecclesiæ; i.e. the native cultivater of the land, called elsewhere coloni, and by Cicero (In Verrem), aratores. See Proleg.
 
-1344
-
 It appears from Cicero that, when the Romans annexed Sicily, they found the greater part of the land subject by ancient custom to a tithe of the corn and other produce, and that such tithe continued to be enacted by the Roman government, which derived thence its main revenue from the island: further, that the custom had grown up of allowing a pecuniary composition for the tithe, and that this custom, intended originally for the accommodation of the tithe payers, had been abused to their detriment by over valuation in years when corn was cheap. One of the charges against Verres was that this had been done under him as Prætor. When wheat was selling in Sicily for two or at the most three sesterces per modius, the peasants had been made to compound for their tithes at the rate of three denarii, i.e. twelve secterces. (Cic. in Verr. Divin. 10; Act II. Lib. iii. 6, 18). The Roman Church having succeeded the Roman Government in the lordship of the “Patrimony of St. Peter,” it appears that the
-
-557
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -556,19 +410,11 @@ Church officials had not been guiltless of similar unfair exactions. Hence the d
 
 This refers to the corn which was sent annually in large quantities to Rome, and on which the Romans were in a great measure dependent for their supply. Those in Sicily who furnished it were, it seems, responsible for its delivery, taking the risk of loss by sea. But it rested with the Church officials to provide for its being shipped; and, if any loss on the voyage ensued from their delay, the parties otherwise responsible were to be indemnified.
 
-1346
-
 Ex sextariaticis. This appears to have been a technical term, denoting unjust exaction of the following kind. The peasants (rustici) on an estate had to supply, let us say, so many modii of corn to be shipped for Rome. But the modius varied in capacity. It is said originally to have contained sixteen sextarii, a sextarius being between a pint and a quart. But it appears below that one of eighteen sextarii was in use in the time of Gregory, and by him allowed. This limit, however, seems to have been sometimes exceeded, and herein consisted the abuse complained of. In a subsequent epistle (XIII. 34) a modius of even twenty-five sextarii is spoken of as having been in one case used:—“We understand that the modius by which the husbandmen (coloni) were compelled to give their corn was one of twenty-five sextarii.”
-
-1347
 
 Massis. These massæ might include several farms (fundi, or prædia), and were let or leased to farmers (conductores), who made their profit out of them. Cf. xiv. 14, “Massam quæ Aquas Salvias nuncupatur cum omnibus fundis suis;” also v. 31, “Conductoribus massarum per Galliam.”
 
-1348
-
 Conductores. See last note.
-
-558
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -576,31 +422,17 @@ Philip Schaff
 
 let them make a payment in gross amounting to seventy-two1349: and let neither grains1350 beyond the pound, nor an excessive pound, nor any further imposts beyond the pound, be exacted; but, through thy valuation, according as there is ability to pay, let the payment be made up to a certain sum, that so there may be in no wise any shameful exaction. But, lest after my death these very imposts, which we have disallowed as extras but allowed in augmentation of the regular payments, should again in any way be put on additionally, and so the sum of the payment should be found to be increased and the peasants be compelled to pay additional charges over and above what is due, we desire thee to draw up charters of security, to be signed by thee, declaring that each person is to pay such an amount, to the exclusion of grains (siliquæ), imposts, or granary dues. Moreover, whatever out of these several items used to accrue to the rector \[sc. patrimonii\], we will that by virtue of this present order it shall accrue to thee out of the total sum paid. Before all things we desire thee carefully to attend to this; that no unjust weights be used in exacting payments. If thou shouldest find any, break them and cause true ones to be made. For my son the servant of GOD, Diaconus, has already found such as displeased him; but he had not liberty to change them. We will, then, that, saving excepted cibaria of small value1351, nothing else beyond the just weights be exacted from the husbandmen1352 of the Church. Further, we have ascertained that the first charge of burdatio1353 exceedingly cripples our peasants, in that before they can sell the produce of their labour they are compelled to pay taxes; and, not having of their own to pay with, they borrow from public pawnbrokers1354, and pay a heavy
 
-1349
-
 Pensantem ad septuagena bina. It would seem that, in addition to the abuse of using modii of too large capacity, there was the additional one of exacting more modii than were legally due, three and a half being added to every seventy; i.e. one to every twenty. Cf. Cicero in Verrem, “Ab Siculis aratoribus, præter decumam, ternæ quinquagesimæ (i.e. three for every fifty) exigebantur.” If the reading septuagena bina be correct, it would seem that Gregory allowed two to be added to every seventy perhaps on the ground of long-established custom. The readings, however, vary; and what was meant is uncertain.
-
-1350
 
 Siliquæ. In Roman weights the uncia contained 144 siliquæ, and the as or libra 12 unciæ. The reference seems to be to cases in which the grain or other produce was rendered by weight. The just pound was not to be exceeded.
 
-1351
-
 Præter excepta et vilia cibaria. Cibaria bears the general sense of victuals or provender; and specifically, “Cibarium, teste, Plin. I. 18, c. 9, ubi de siligine agit, dicitur farina quæ post pollinem seu florem excussum restat, postquam nihil aliud remanet nisi furfures: the second sort of flour. Eadem dicitur secundarium. Ex ea qui conficitur vocatur panis cibarius, quia solet esse communis vulgi cibus.” Facciolati. The adjective cibarius is applied to provisions generally, wine, oil, bread, &c., of a common and inferior kind, and consumed by the common people. The reference in the text may be to refuse and inferior grain or other breadstuff, of which an excessive weight might be exacted to make up for its inferior quality.
-
-1352
 
 Colonis, meaning the same as rustici. See note 1.
 
-1353
-
 Burdationis. This appears to have been a kind of land tax, payable in the first instance, before the peasants had been able to convert their produce into money. “Burdatio est pensio quæ a rusticis præstatur prædii nomine, quod Burdam vocant, nostri Borde.” Alteserra.
 
-1354
-
 Auctionariis. “Mercator qui res suas auget; et proprie dicitur ille qui hic vel illic res parvas et veteres et tritas eruit, ut postea carius vendat.” Du Cange.
-
-559
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -610,15 +442,9 @@ Philip Schaff
 
 consideration for the accommodation; whence it results that they are crippled by heavy expenses. Wherefore we enjoin by this present admonition that thy Experience advance to them from the public fund all that they might have borrowed from strangers, and that it be repaid by the peasants of the Church by degrees as they may have wherewith to pay, lest, while for a time in narrow circumstances, they should sell at too cheap a rate what might afterwards have sufficed for the payment of the due, and even so not have enough. It has come to our knowledge also that immoderate fees1355 are received on the marriages of peasants: concerning which we order that no marriage fees shall exceed the sum of one solidus. If any are poor, they should give even less; but if any are rich, let them by no means exceed the aforesaid sum of a solidus. And we desire no part of these marriage fees to be credited to our account, but that they should go to the benefit of the farmer (conductorem). We have also ascertained that when some farmers die their relatives are not allowed to succeed them, but that their goods are withdrawn to the uses of the Church: with regard to which thing we decree that the relatives of the deceased who live on the property of the Church shall succeed them as their heirs, and that nothing shall be withdrawn from the substance of the deceased. But, if any one should leave young children, let discreet persons be chosen to take charge of their parents’ goods, till they come to such an age as to be able to manage their own property. We have ascertained also that, if any one of a family has committed a fault, he is required to make amends, not in his own person, but in his substance: concerning which practice we order that, whosoever has committed a fault, he shall be punished in his own person as he deserves1356. Moreover, let no present (commodum) be received from him, unless perchance it be some trifle which may go to the profit of the officer who may have been sent to him. We have ascertained also that, as often as a farmer has taken away anything unjustly from his husbandman, it is indeed required from the farmer, but not restored to him from whom it was taken: concerning which thing we order that whatever may have been taken away by violence from any one of a family be restored to him from whom it was taken away, and not accrue to our profit, lest we ourselves should seem to be abettors of violence. Furthermore, we will that, if thy Experience should at any time despatch those who are under thy command in causes that arise beyond the limits of the patrimony, they may indeed receive small gratuities from those to whom they are sent; yet so that they themselves may have the advantage of them: for we would not have the treasury of the Church defiled by base gains. We also command thy Experience to see to this: that farmers never be appointed on the
 
-1355
-
 Commoda. The word commodum denotes properly a bounty (as to soldiers over and above their pay), a gratuity, a voluntary offering, though used also for a stipend, or payment generally. The peasants (rustici) might not marry without permission. Cf. xii. 25, “ut eum districte debeas commonere ne filios suos quolibet ingenio vel excusatione foris alicubi in conjugio, sociare præsumat, sed in ea massa cui lege et conditione ligati sunt socientur.” For such permission they were, it seems, accustomed to pay a fee, in theory perhaps voluntary, but virtually exacted as a due.
 
-1356
-
 Because a fine would have to be paid out of the common substance of the family, and so all would be punished for the offence of one.
-
-560
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -628,19 +454,11 @@ Philip Schaff
 
 estates of the Church for a consideration (commodum); lest, a consideration being looked for, the farmers should be frequently changed; of which changing what else is the result but that the Church farms are never cultivated? But lest also the leases \[i.e. by the Church to the farmers\] be adjusted according to the sum of the payments due. We desire thee to receive no more from the estates of the Church on account of the store-houses and stores beyond what is customary; but let thine own stores which we have ordered to be procured be procured from strangers. It has come to our ears that three pounds of gold have been unjustly taken away from Peter the farmer of Subpatriana; concerning which matter examine closely Fantinus the guardian (defensorem1357); and, if they have manifestly been unjustly and improperly taken, restore them without any delay. We have also ascertained that the peasants have paid a second time the burdation1358which Theodosius had exacted from them but had failed to pay over, so that they have been taxed twice. This was done because his substance was not sufficient for meeting his debt to the Church. But, since we are informed through our son, the servant of GOD Diaconus, that this deficiency can be made good out of his effects, we will that fifty-seven solidi be repaid to the peasants without any abatement, lest they should be found to have been taxed twice over. Moreover, if it is the case that forty solidi of his effects remain over and above what will indemnify the peasants (which sum thou art said also to have in thy hands), we will that they be given to his daughter, to enable her to recover her effects which she had pawned. We desire also her father’s goblet (batiolam) to be restored to her. The glorious magister militum Campanianus had left twelve solidi a year out of the Varronian estate to his notary John; and this we order thee to pay every year without any hesitation to the granddaughter of Euplus the farmer, although she may have received all the chattels of the said Euplus, except perhaps his cash; and we desire thee also to give her out of his cash five-and-twenty solidi. A silver saucer1359 is said to have been pawned for one solidus, and a cup for six solidi. After interrogating Dominicus the secretary, or others who may know, redeem the pledge, and restore the aforesaid little vessels. We thank thy Solicitude for that, after I had enjoined thee, in the business of my brother, to send him back his money, thou hast so consigned the matter to oblivion as if something had been said to thee by the last of thy slaves. But now let even thy Negligence—I cannot say thy Experience—study to get this done; and whatever of his thou mayest find to be in the hands of Antoninus send back to him with all speed. In the matter of Salpingus the Jew a letter has been found which we have caused to be forwarded to thee, in order that, after reading it and becoming fully acquainted with his case and that of a certain widow who is said to be implicated in the same business, thou mayest make answer as may
 
-1357
-
 On the office of defensores, see Proleg.
-
-1358
 
 See note 2.
 
-1359
-
 Suppositorium. The word itself might denote anything put under another, or supporting another. Here its being associated with a cup (calix), and both being called small vessels (vascula), suggests the translation in the text.
-
-561
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -648,15 +466,9 @@ Philip Schaff
 
 appear to thee just concerning the fifty-one solidi which are known to be returnable, so that the creditors may in no way be defrauded unjustly of the debts due to them. A moiety of his legacy has been given to Antoninus; a moiety will be redeemed: which moiety we desire to be made up to him out of the common substance; and not to him only, but also to the guardians (defensoribus) and strangers (pergrinis) to whom he \[the testator\] has left anything under the title of a legacy. To the family (familiæ) also we desire the legacy to be paid; which, however, is our concern. Having, then, made up the account for our part, that is for three-quarters, make the payment1360. We desire thee to give something out of the money of the Church of Canusium to the clergy of the same Church, to the end that they who now suffer from want may have some sustenance; and that, if it should please GOD that a bishop should be ordained, he may have a maintenance. As to lapsed1361 priests, or any others of the clergy, we desire thee in dealing with their property to keep free from any contamination. But seek out the poorest regular monasteries which know how to live according to GOD, and consign the lapsed to penance in these monasteries; and let the property of the lapsed go to the benefit of the place in which they are consigned to penance, to the end that those who have the care of their correction may have aid themselves from their means. But, if they have relations, let their property be given to their legitimate relations; yet so that an allowance for those to whom they have been consigned for penance be sufficiently provided. But, if any of an ecclesiastical community, whether priests, levites, or monks, or clerics, or any others, shall have lapsed, we will that they be consigned to penance, but that the Church shall retain its claim to their property. Yet let them receive for their own use enough to maintain them during their penance, lest, if left destitute, they should be burdensome to the places whereto they have been consigned. If any have relations on the ecclesiastical domain, let their property be delivered to them, that it may be preserved in their hands subject to the Church’s claim. Three years ago the subdeacons of all the churches in Sicily, in accordance with the custom of the Roman Church, were forbidden all conjugal intercourse with their wives. But it appears to me hard and improper that one who has not been accustomed to such continency, and has not previously promised chastity, should be compelled to separate himself from his wife, and thereby (which GOD forbid) fall into what is worse. Hence it seems good to me that from the present day all bishops should be told not to presume to make any one a subdeacon who does not promise to live chastely; that so what was not of set purpose desired in the past may not be forcibly required, but that cautious provision may be made for the future. But those who since the prohibition of three years ago have lived continently with their wives are to be praised and rewarded, and exhorted to continue in their good way. But, as for those who since the prohibition have been unwilling to abstain from intercourse with their wives, we desire them not to be advanced to a sacred order; since no one
 
-1360
-
 The meaning of these directions is obscure owing to our ignorance of the circumstances.
 
-1361
-
 The word lapsi was the regular one for denoting clergy or others, who had fallen into sin rendering them liable to excommunication.
-
-562
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -666,19 +478,11 @@ Philip Schaff
 
 ought to approach the ministry of the altar but one who has been of approved chastity before undertaking the ministry. For Liberatus the tradesman, who has commended himself to the Church, dwelling on the Cincian estate, we desire thee to make an annual provision; which provision do thou estimate thyself as to what it ought to be, that it may be reported to me and charged in thy accounts. With regard to the present indiction I have already got information from our son the servant of GOD Diaconus. One John, a monk, has died and left Fantinus the guardian (defensorem) his heir to the extent of one half. Hand over to the latter what has been left him, but charge him not to presume to do the like again. But appoint what he should receive for his work, so that it be not fruitless to him; and let him remember that one who lives on the pay of the Church should not pant after private gains. But, if anything should accrue to the Church, without sin and without the lust of concupiscence, through those who transact the business of the Church, it is right that these should not be without fruit of their labour. Still let it be reserved for our judgment how they should be remunerated1362. As to the money of Rusticianus, look thoroughly into the case, and carry out what appears to thee to be just. Admonish the magnificent Alexander1363 to conclude the cause between himself and holy Church; which if he peradventure shall neglect to do, do thou, in the fear of GOD and with honour preserved, bring this same cause to an issue as thou art able. We desire thee also to expend something in this business; and, if it can be done, let him be spared the cost of what has to be given to others, provided he terminates the cause which he has with us. Restore without any delay the donation of the handmaiden of God1364 who has lapsed and been sent into a monastery, to the end that (as I have said above) the same place that bears the toil of
 
-1362
-
 It was against monastic rule for monks or nuns to retain property of their own after profession, or the power of disposing of it by will. It became the common property of the monastery. Cf. Justinian, Novell. V. c. 38. See also what was said above about the goods of lapsed members of religious communities. In a subsequent Epistle (IX. 7), Gregory annulls a will that had been made by an abbess Sirica. The case of one Probus, an abbot (Appendix, Ep. IX.), who was allowed to make a will, is no real exception to the rule. For Gregory gave him special permission to do so on his own petition, on the equitable ground that at the time of his hasty ordination as abbot, not having been a monk previously, he had neglected to make provision for his son by will, as he had intended to do, and as he had then a right to do. In the case before us Gregory acts with lenient consideration. Though condemning the bequest of the monk John to the guardian Fantinus, he allows the latter to take it on the ground that he deserved, but had not so far received, a proper remuneration for his services.
-
-1363
 
 Magnificum virum. Who this Alexander was is not known. His designation implies a position of rank. An Alexander appears afterwards as Prætor of Sicily (VI. 8): but the Prætor of this year was Justinus (see above, Ep. II.), who was apparently succeeded by Libertinus (III. 38).
 
-1364
-
 Ancillæ Dei. So were called, not professed nuns only, but also others who devoted themselves to virginity and religious lives. Gregory’s own aunts, Tarsilla and Æmiliana, who lived as dedicated virgins in their own home, were instances. See Proleg. p. xiv.
-
-563
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -690,11 +494,7 @@ Epistle XLVI. 93b
 
 To Peter the Subdeacon. Gregory to Peter, &c.
 
-1365
-
 Amulas. “Amula, minor ama, vas vinarium, in quo sacra oblatio continetur.” Du Cange.
-
-564
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -704,11 +504,7 @@ The divine precepts admonish us to love our neighbours as ourselves; and, seeing
 
 Epistle XLVII. To Virgilius, Bishop of Arelate (Arles) and Theodorus, Bishop of Massilia (Marseilles). Gregory to Virgilius, Bishop of Arelate, and Theodorus, Bishop of Massilia, in Gaul. Though the opportunity of a suitable time and suitable persons has failed me so far for writing to your Fraternity and duly returning your salutation, the result has been that I can now at one and the same time acquit myself of what is due to love and fraternal relationship, and also touch on the complaint of certain persons which has reached us, with respect to the way in which the souls of the erring should be saved. Very many, though indeed of the Jewish religion, resident in this province, and from time to time travelling for various matters of business to the regions of Massilia, have apprized us, that many of the Jews settled in those parts have been brought to the font of baptism more by force than by preaching. Now, I consider the intention in such cases to be worthy of praise, and allow that it proceeds from the love of our LORD. But I fear lest this same intention, unless adequate enforcement from Holy Scripture accompany it, should either have no profitable result, or even (which GOD forbid) the loss of the souls which we wish to save should further ensue. For, when any one is brought to the font of baptism, not by the sweetness of preaching, but by compulsion, he returns to his former superstition, and dies the worse from having been born again. Let, therefore, your Fraternity stir up such men by frequent preaching, to the end that through the sweetness of their teacher they may desire the more to change their old life. For so our purpose is rightly accomplished, and the mind of the convert returns not again to his former vomit. Wherefore discourse must be addressed to them, such as may burn up the thorns of error in them, and illuminate what is dark in them by preaching, so that your Fraternity may through your frequent admonition
 
-1366
-
 “Decimatas vini duas pensantes per unamquamque decimatam libras 60 (Ap. Anastasium in Hadriano)…mensuræ vinariæ species videtur.” Du Cange.
-
-565
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -722,11 +518,7 @@ Epistle XLIX. 94b
 
 To Honoratus, Deacon1367. Gregory to Honoratus, &c. Since we have undertaken, however undeserving, a place of government, it is our duty to succour our brethren in need, so far as our power extends. Januarius, then, our brother and fellow-bishop of the metropolitan city of Caralis (Cagliari), has been here in the city of Rome, and informed us that the glorious magister militum, Theodorus, who is known to have received the dukedom of the island of Sardinia, is doing many things there contrary to the commands of our most pious lords,
 
-1367
-
 Honoratus was Gregory’s apocrisiarius at Constantinople.
-
-566
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -736,19 +528,11 @@ whereby with fitting clemency and gentleness they removed many hardships of prop
 
 Epistle L. To Anthemius the Subdeacon1368. Gregory to Anthemius, &c. Even as, through the ordering of GOD as it hath pleased Him, we have received the place of government, so ought we to be solicitous for the souls committed to us. Now we find that in the Eumorphian island1369, in which, as is well known, there is an oratory of the blessed Peter, Prince of the Apostles, a large number of men with their wives from various patrimonies have fled to it for refuge, through stress of barbarian ferocity.1370 This we consider inexpedient: for, there being other places of refuge near at hand, why should women have their abode there with monks? Wherefore we enjoin thy Experience by this present order from this time forward to allow no woman, whether she be under ecclesiastical jurisdiction or any other, to take up her abode or tarry there; but let them provide for themselves a place of refuge (there being, as has been said above, so many in the neighbourhood) wherever they may choose; so that all intercourse with women may henceforth be put an end to; lest, if we should desist from taking all the care we can, and guarding against the snares of the enemy, we henceforth (which GOD forbid) should be culpable in case of anything wrong taking place. Delay not, therefore, to give to the abbot Felix, the bearer of these presents, one thousand five hundred pounds of lead, which he is known to be in want of in the same island, which may be charged afterwards in thy accounts, when the whole quantity shall be known. So proceed, then, that thou mayest provide thyself with some, if any can be profitably used for the buildings of the same island. Moreover, since congregations of monks in the islands are exposed
 
-1368
-
 Anthemius was Defensor ecclesiæ in Campania.
-
-1369
 
 An island, as well as Palmaria mentioned afterwards, near the Campanian coast, and hence under the care of Anthemius.
 
-1370
-
 Alluding to the Lombards, who at this time were ravaging Italy.
-
-567
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -764,11 +548,7 @@ Gregory to Symmachus, &c. My son Boniface the deacon has told me that thy Experi
 
 I.e. of the Church in Corsica, as appears from the letter.
 
-1372
-
 The clergy who had been married before ordination were not required to put away their wives. Can. Apostol. V. expressly forbids their doing so under pain of excommunication. The 3rd Nicene Canon, which forbids any bishop, presbyter, or any of the clergy, to have a woman dwelling with him except a mother, or sister, or aunt, or such persons only as are above suspicion, does not touch the case of wives, being directed against the custom of the clergy having females who where neither wives nor of their own kindred, to live with them, who were called synesactæ, or agapetæ. Accordingly a law of Honorius and the younger Theodosius, made in pursuance of the Nicene Canon, adds to the above injunction, “That those who were married before their
-
-568
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -781,8 +561,6 @@ Epistle LVI. To Peter, Subdeacon. Gregory to Peter, &c. Being exceedingly desiro
 Epistle LVII. To Severus, Bishop. Gregory to Severus, &c. We learn from thy Fraternity’s epistle that, with regard to the choice of a bishop, some are agreed in favour of Ocleatinus, with whom, since we disallow him, they need not further concern
 
 husbands were ordained should not be relinquished upon pretence of chastity, it being reasonable that those should be joined to the clergy who by their conversation had made their husbands worthy of the priesthood.” (Cod. Theodor. lib. xvi. tit. ii. de Episc. l. xliv. Also Cod. Just. lib. i. tit. iii. leg. xix. See Bingham, Bk. vi. ch. ii. sect. 13). But in the West it was now the established rule that neither bishops, priests, nor deacons should have conjugal intercourse with their wives after ordination: and it has been seen under Ep. XLIV. how this rule had been extended to subdeacons. Gregory tells us in his Dialogues (Lib. iv. cap. 11) of a holy presbyter in the province of Nursia, who at the time of his ordination had a wife (presbyteram suam), whom he thenceforth loved as a sister, but avoided as an enemy, never suffering her to come near him for fear of temptation: and he adds, “For this is the way of holy men, that in order to keep far away from what is unlawful they cut themselves off even from what is lawful.” Cf. IX. 60. “Hoc tantummodo adjecto ut hi, sicut canonica decrevit auctoritas, uxores quas caste debent regere non relinquant.”
-
-569
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -798,11 +576,7 @@ Gregory to Arsicinus, &c. How ready is the devotion of your love in expectation 
 
 Epistle LXI. To Gennadius, Patrician and Exarch of Africa. Gregory to Gennadius, &c. That you have unceasingly the fear of GOD before your eyes, and pursue justice, the subdued necks of enemies testify; but, that the grace of Christ may keep your Glory in the same prosperity, restrain, as you have been wont, with speedy prohibition whatever things you discover to be committed wrongfully, so that, fortified with the arms of justice, you may overcome hostile attacks with the power of faith, which is the top of all virtue. Now Marinianus, our brother and fellow-bishop
 
-1373
-
 The vacant See referred to was that of Ariminum. See following epistle. Severus, who had been commisioned to act as visitor during the vacancy, was bishop of Ficulum, or Ficocle in the same province. See V. 25.
-
-570
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -814,19 +588,11 @@ Epistle LXII. To Januarius, Archbishop of Caralis (Cagliari) in Sardinia. Gregor
 
 Turritana civitas, a city in Sardinia, called by Pliny (lib. iii. c. 7) Turris Lybissonis, and by Ptolemy (lib. iii. c. 5) Turris Byssonis.
 
-1375
-
 Commodalibus dispendiis. The word commodum is used not only for a stipend, or a present or gratuity, but also for exacted payments, “Pro quavis pensitatione vel etiam exactione usurpat Gregor. M.” Du Cange.
-
-1376
 
 Religiosos ecclesiæ. By the terms religiosi and religiosæ were denoted not only monks, nuns, dedicated virgins, and clergy, but also other persons devoted to piety and good works in connection with the Church. Cf. xi. 54, “laico religioso.” See reff. in Index under Religiosus.
 
-1377
-
 Angariis seu commodis. Angarium, or angaria, denotes any forced service imposed on people, either rendered in person or in money payment. See also V. 8, note 4.
-
-571
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -842,11 +608,7 @@ Gregory to Januarius, &c. Though your Fraternity in the zeal of righteousness gi
 
 Epistle LXVI. To Felix, Bishop of Messana (Messene). Gregory to Felix, &c. Customs which are found to bring a burden upon churches it becomes us in our consideration to discontinue, lest any should be forced to contribute to quarters from which they ought rather to look for contributions. Accordingly, it is thy duty to preserve intact the custom of the clergy and others, and to transmit to them every year what has been accustomed: but for the future we forbid
 
-1378
-
 Other letters addressed to or relating to this bishop, who was an old man of very unsatisfactory character, are I. 63; II. 49; III. 36; IV. 8, 9, 15, 26, 27, 29; V. 2; IX. 1, 2, 3, 6, 7, 8, 25, 65; XIV. 2.
-
-572
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -858,19 +620,11 @@ Epistle LXVII. To Peter, Subdeacon. Gregory to Peter, &c. If with kind dispositi
 
 Epistle LXXII. To Peter, Subdeacon. Gregory to Peter, &c. Thou hast learnt from a former letter1381 that we have desired our brethren and fellow-bishops dwelling in the island of Sicily to assemble here for the anniversary of the blessed Peter the apostle.
 
-1379
-
 See II. 23, note 8.
-
-1380
 
 Probably vestes palmatæ, i.e. robes interwoven or embroidered with palm leaves.
 
-1381
-
 See Ep. XXXVI.
-
-573
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -882,23 +636,13 @@ But, seeing that their suit with the magnificent Justin the ex-prætor1382 has m
 
 Epistle LXXIV. To Gennadius, Patrician and Exarch of Africa. Gregory to Gennadius, &c. As the LORD hath made your Excellency to shine with the light of victories in the military wars of this life, so ought you to pose the enemies of the Church with all activity of mind and body, to the end that from both kinds of triumph your reputation may shine forth more and more, when in
 
-1382
-
 See Ep. II. If this Epistle is rightly assigned to the ninth Indiction, the title ex-prætor may possibly be an error in the text since Justin is still addressed as prætor in the following Indiction (II. 33). Libertinus appears to have succeeded him as Prætor of Sicily in the eleventh Indiction. See III. 38.
-
-1383
 
 Two of these bishops, Gregory and Leo, are referred to afterwards as having been at Rome to answer to certain charges. See II. 33, and III. 12.
 
-1384
-
 Extraneis, i.e. growers or vendors of corn outside the patrimony of the Church.
 
-1385
-
 See I. 44, note 1.
-
-574
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -908,15 +652,9 @@ forensic wars, too, you firmly resist the adversaries of the Catholic Church in 
 
 Epistle LXXV.
 
-1386
-
 The heretics (so called, though they were really rather schismatics than heretics) were the Donatists, who still lingered in Africa in spite of imperial edicts for their suppression. What Gregory here urges the Exarch to do is to put in force the existing laws against them. A series of imperial laws against the Donatists will be found in Cod. Theod. Bk. xvi. tit. 5, that of Honorius, A.D. 414, being especially severe.
 
-1387
-
 It was the immemorial custom in the provinces of Africa generally for the senior bishop of the province according to the date of his consecration to be appointed primate, instead of the bishop of the civil metropolis being such in virtue of his See, as was the rule elsewhere. (The province of Africa proper, or Africa Proconsularis, was however an exception; for in it the bishop of Carthage was always the primate.) Hence in Africa the designation Metropolitan was not used, but that of Primate or Senior (senex). Gregory here, though allowing the old custom of movable primacies, forbids the necessary election of the senior bishop: and this in order to guard against the appointment of unfit persons. His main motive, as appears from Epistle LXXVI., addressed to the bishops of the province of Numidia, was to preclude the elevation to the primacy of any bishop who had once been a Donatist. For in it he allows the retention of the old African custom in all respects, save only that no bishop who had been a Donatist was ever to be appointed primate.
-
-575
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -932,8 +670,6 @@ Epistle LXXVII. To All the Bishops of Numidia. Gregory to all the Bishops of Num
 
 See I. 77, note 2.
 
-576
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -942,15 +678,9 @@ our chartulary1389 from our predecessor of blessed memory that you might retain 
 
 Epistle LXXVIII. To Leo, Bishop in Corsica. Gregory to Leo, &c.
 
-1389
-
 “Chartularius. Qui chartas tractant, qui chartis deserviunt.…Dignitas ecclesiastica etiam fuit.” Du Cange. This Hilary is commended to Gennadius the Exarch of Africa, I. 75, and again mentioned as Gregory’s Chartulary in Africa, II. 48; X. 37; XII. 28, 29.
 
-1390
-
 See I. 74, note 9.
-
-577
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -962,15 +692,9 @@ Our pastoral charge constrains us to come with anxious consideration to the succ
 
 Epistle LXXIX. To Martinus, Bishop in Corsica. Gregory to Martinus, &c. To those who ask for what is just it behoves us to lend a kindly ear, to the end both that the petitioners may find the remedies they hope for, and that the anxious care of a shepherd be not wanting to the Church. And inasmuch as the church of Tanates, in which thy Fraternity was formerly adorned with sacerdotal dignity, has for its sins been so taken possession of and ruined by hostile savagery that no further hope remains of thy returning thither, we appoint thee, by authority of these presents, undisputed cardinal priest1392 in the Church of Saona, which has now been long
 
-1391
-
 Sacerdotis. The term includes bishops as well as presbyters, and is used in this and the two following Epistles, as usually elsewhere by Gregory, to denote the former in distinction from the latter. The occasion of this and the two following Epistles will be seen to be as follows. The See of Saona in Corsica had been for some time vacant. It rested with the clergy and nobles of the island (see above, Ep. LXXX.), to elect a new bishop; but they had failed to do so; and consequently Gregory remedied their neglect by himself filling up the vacancy. His right to do so would not be questioned there, Corsica as well as Sicily being among the Suburbicarian provinces which were under the acknowledged patriarchal jurisdiction of the See of Rome. Meanwhile he also commissioned Leo, the bishop of a neighbouring See (to whom this letter is addressed), to make a visitation of the Church of Saona, and exercise episcopal authority there, till the new bishop should take possession. There are several other Epistles, not included in this translation, appointing visitors of various churches.
 
-1392
-
 Cardinal bishops, presbyters, or deacons, meant formerly such as were regularly instituted and attached to some particular see, parish, or church, which constituted their title (titulas). They were then said to be incardinati, the act of so instituting them being called incardinatio. Cf. II. 37; XIV. 7.
-
-578
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -984,15 +708,9 @@ Book II. 101b
 
 Epistle III. To Velox, Magister Militium. Gregory to Velox, &c.
 
-1393
-
 See I, 25, note 8.
 
-1394
-
 See note under Ep. LXXIX.
-
-579
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1002,19 +720,11 @@ We informed your Glory some time ago that soldiers had been prepared to come to 
 
 Epistle VI. To the Neapolitans. Gregory to the clergy, nobles, gentry, and commonalty1397 dwelling at Naples. Although the sincere devotion of spiritual sons in behalf of their mother Church needs no exhortation, nevertheless, it ought to be stirred up by letter, lest it should suppose itself slighted. On this account I approach your love with an admonition of paternal charity, that with many tears
 
-1395
-
 Ariulph was the Lombard Duke of Spoletum, one of the principal cities in Italy occupied by the Lombards. For further reference to him cf. II. 29, 30, 46; IX. 98. He was at this time preparing, and suspected by Gregory of such intention, for an attack on Rome. Cf. Prologom. Velox (to whom this letter is addressed), and Maurilius and Vitalian (alluded to in it, and addressed in Epp. 29, 30), were Roman Generals (magistri militum) in command of imperial forces: but where they were is not apparent. From an allusion to Suana (or Soana) as within reach of the last two they may be supposed to have been somewhere in Tuscia.
-
-1396
 
 Apparently a familia of slaves belonging to Velox, but at this time with Maurilius.
 
-1397
-
 Clero, nobilibus, ordini et plebi. Ordo seems to denote persons of official or other rank, above the commonalty, but below the nobility. In some cases the corresponding address is to clero, ordini et plebi (as in I. 81; V. 26); in others to clero et nobilibus only. All such expressions shew that the election of bishops rested with the members, laity as well as clergy, of each church, though the bishop of Rome, wherever his jurisdiction extended reserved to himself the power of approving or disallowing the election. In the election at Naples, referred to in this Epistle, there appears to have been a difficulty in arriving at an unanimous choice. Other Epistles referring to the case are II. 9, 10, 15, 26; III. 35. From the last of these it appears how it was eventually settled. See especially note 6 under II. 9.
-
-580
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1026,15 +736,9 @@ Epistle VII. 102b
 
 To Maximianus, Bishop of Syracuse1399. Gregory to Maximianus, &c. We execute more efficiently our heavenly commission, if we share our burdens with our brethren. For this cause we appoint thee, our most reverend brother and fellow-bishop, to have administration over all the churches of Sicily in the name of the Apostolical See, so that whosoever there is reckoned as being in a condition of religion may by our authority be subject to thy Fraternity, to the end that it may not hereafter be necessary for them to make such long sea-voyages in resorting to us for slight causes. But if by any chance there are matters of difficulty which can by no means be settled by the judgment of thy Fraternity, in these only let our judgment be solicited, that so we may occupy ourselves more efficaciously in greater causes, being relieved from the least. And be
 
-1398
-
 Sacerdotii; meaning here episcopacy. See I. 78, note 2.
 
-1399
-
 Maximianus had been a monk, and for a time abbot, in Gregory’s monastery of St. Andrew at Rome, had accompanied him to Constantinople, and been recommended by him soon after his own accession, and elected Bishop of Syracuse (Joan. Diac. Vit. S. Greg. ii. 11, 12). He was highly esteemed by Gregory, and mentioned in his Dialogues as having been miraculously delivered from shipwreck on his return from Constantinople to Rome (Dialog. iii. 36. Cf. Hom. 34 in Evang.). His appointment now as delegate of the Roman See in Sicily would relieve Peter the subdeacon of his temporary jurisdiction over the ecclesiastics there. Maximianus died in November, A.D. 594. See V. 17, 22. It is to be observed that the general authority now given to Maximianus was granted to him personally, and not permanently to the See of Syracuse.
-
-581
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1044,15 +748,9 @@ it understood that we give this delegation of authority, not to thy place, but t
 
 Epistle IX. To the Neapolitans. Gregory to the gentry and commonalty (ordini et plebi) residing at Naples. The communication you have addressed to us has made manifest what your opinion is of our brother and fellow-bishop Paulus1400: and we congratulate you in that your experience of him for a few days has been such that you desire to have him as your cardinal bishop1401. But, since in matters of supreme importance there ought to be no hasty decision, so we, Christ helping us, will arrange after mature deliberation what is to be done hereafter, his character meanwhile, in course of time, having become better known to you. Wherefore, most beloved sons, obey ye the aforesaid man, if you truly love him, and with devoted minds meet his wishes in peaceful concurrence, to the end that the affection of your mutual charity may so bind you to each other, that the enemy who flies about you raging may find no way through any of you for creeping in to break up your unanimity. Further, when we shall have perceived the aforesaid bishop offering to GOD the fruit of souls which we long for, GOD Himself also approving, we will do afterwards whatever divine inspiration may suggest to our heart, with regard to his person and to your desire.
 
-1400
-
 He was bishop of Nepe, which as well as Naples, was in the urbicarian province of Rome. The filling up of the See of Naples appears to have been a cause of great anxiety to Gregory, probably because of the party feeling prevailing in the city. In his first letter to the Neapolitans (supra, Ep. 6), he had contemplated the speedy election of a new bishop in the usual way; but it appears from this Epistle that he had seen reason to defer such election, sending meanwhile Paulus of Nepe to administer the See. Some at least in Naples appear to have wished this Paulus to be elected soon after his arrival among them; but this Gregory would not allow till he could see better how things were going. Such provisional arrangement continued, it seems, for more than a year, another bishop having been commissioned to supply Paul’s place in his own Church of Nepe against the Easter festival (II. 26). That Gregory’s fear of opposition to Paul were justified appears from the subsequent mention of a violent attack made on him by a party opposed to him at Naples (III. 1). He meanwhile, not liking his position, had already been anxious to return to his own see (II. 15), but had not been allowed. When he went at last, it seems that an election had taken place, but had proved futile from the person chosen having refused to be ordained (III. 15). Eventually the election had taken place, by Gregory’s direction, not at Naples, but at Rome (III. 35), one Fortunatus being chosen (III. 61). The whole history of the case illustrates the troubles incident to popular election of bishops at that time, especially in great cities.
 
-1401
-
 See I. 79, note 5.
-
-582
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1066,11 +764,7 @@ Gregory to Paulus, &c. If we administer safely the priestly office which we have
 
 Epistle XII. To Castorius, Bishop of Ariminum. Gregory to Castorius, &c. The illustrious lady Timothea has intimated to us by a petitionary notification, as is set forth below, that she has founded an oratory within the city of Ariminum in a place belonging to her, which she desires to have consecrated in honour of the holy cross. And, accordingly, dearest brother, if the said construction is in the jurisdiction of thy city, and if it is known that no body has been buried there, then, after reception in the first place of a legitimate endowment, that is, of two-thirds of her whole property (excepting slaves), of her movables and fixtures and live stock, the usufract being reserved to her for her life, and such endowment having been secured by municipal deeds, thou wilt solemnly consecrate the aforesaid oratory without any public mass, on the condition that no baptistery shall be constructed in the same place in future times, and that thou appoint not
 
-1402
-
 Though called here Episcopus Neapolitanus, it is apparent from this and other Epistles that he was as yet only the episcopal visitor, not the regular, or cardinal, bishop of Naples.
-
-583
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1082,23 +776,13 @@ Epistle XV. To Paul, Bishop. Gregory to Paul, &c. I appointed thy Fraternity to 
 
 Epistle XVIII. To Natalis, Bishop of Salona1406. Gregory to Natalis, &c.
 
-1403
-
 See I. 79, note 5.
-
-1404
 
 Sanctuaria, meaning apparently relics, the deposition of which usually accompanied the consecration of holy places.
 
-1405
-
 For the occasion of this letter, see II. 9, note 6.
 
-1406
-
 Salona was the metropolis of the province of Dalmatia in the diocese of Illyricum Occidentale, and Natalis, in virtue of his occupancy of the See, the Ecclesiastical Metropolitan of the province. For Gregory’s subsequent dealings with this bishop see II. 19, 20, 52; III. 8, 32. For the occasion of this Epistle, see I. 19, note 5.
-
-584
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1118,23 +802,15 @@ Philip Schaff
 
 Gregory to all the bishops constituted throughout Dalmatia. Though desiring to visit your Fraternity frequently through the intercourse of letters, yet, when some special case demands our attention, we wish to take the opportunity of fulfilling two duties at once, so as both to refresh our brotherly souls in the way of visitation and to explain accurately matters that come up for notice, lest ignorance of them should leave the mind confused. Now when our brother Natalis, bishop of the city of Salona, wished to advance the archdeacon Honoratus to the order of the priesthood, who thereupon declined being advanced to a higher order, the latter demanded my predecessor of holy memory, in a petition that he sent, that he should not be so advanced against his will. For he alleged that the thing was attempted, not for the sake of promoting him, but in consequence of displeasure against him. Thereupon our predecessor of holy memory addressed letters to Natalis, our brother and fellow-bishop, interdicting him from promoting the archdeacon Honoratus against his will, or retaining in his heart the soreness of the displeasure which he had conceived against him. And when we too had laid the same interdiction on the said Natalis, he, not only disregarding the commands of GOD, but also setting at naught our letters, attempted, it is said, craftily to degrade the aforesaid archdeacon, in a way contrary to custom, under colour of promoting him to a higher dignity. Thus it was contrived that, having removed him from the archdeaconry, he might call in another person to minister in the place of the deposed archdeacon. Now we think that this Honoratus may have fallen under the displeasure of his bishop on account of having prevented him from giving sacred vessels to his relations: and both my predecessor of holy memory formerly and I now have wished to investigate the case accurately; but he, conscious of what he had done, has put off sending a representative with a view to its trial, lest the truth with respect to his doings might appear. We therefore, now that he has been already so often admonished by letter, and has so far been pertinaciously obstinate, have taken order for his being admonished once more in letters sent to him through the bearer of these presents, to the end that he may, immediately on the arrival of the bearer of these presents, receive the archdeacon Honoratus into his former place. And if, with heart still hardened, he should contumaciously defer restoring him to the said position, we order that for his contumacy so many times exhibited he be deprived of the use of the pallium granted to him by this See. But if, even after loss of the pallium, he should persevere in the same pertinacity, we order him to be debarred from participation in the body and blood of the LORD. For it is right that he should find those severe in justice whom he set at naught when they approached him in charity. Wherefore neither do we now deviate from the path of justice, which the aforesaid bishop has despised; but, when he whose guilt has by no means been made apparent to us has been restored to his place, we enjoin the bishop Natalis to send to us a person with instructions, who may be able by his allegations to prove to us the right intentions of the said bishop. For we have caused also the said archdeacon to come to us, that, having heard the assertions of both parties, we may decide whatever may be just, whatever may be well pleasing to Almighty GOD. For we defend no one on the ground of personal love, but, GOD helping us, keep the rule of justice without respect to any man’s person.
 
-586
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
 
 Epistle XX. To Antoninus, Subdeacon1407. Gregory to Antoninus, &c. Honoratus, archdeacon of the Church of Salona, had demanded from my predecessor of holy memory, in a petition that he sent, that he should by no means be forced by his bishop to be advanced against his will, in a way contrary to custom, to a higher order. \[Here follows an account of the subsequent proceedings, almost word for word the same as that given in Epistle XIX.\] Wherefore we have thought it right to support thy Experience by the authority of this present order, that thou mayest resort to Salona, and at least try by exhortation to induce Natalis, our brother and fellow-bishop, who has been admonished by so many letters, to restore the above-mentioned Honoratus to his place immediately. But if, as has been his wont, he should contumaciously delay doing this, forbid him by authority of the Apostolic See the use of the pallium which has been granted him by this See. But if, even after loss of the pallium, thou shouldest find him persevering in the same pertinacity, thou shalt deprive the said bishop of participation in holy communion. Moreover, him who, against the rule of justice, has consented to be promoted to another man’s place we order to be deposed from the dignity of the same archdeaconry. And, if he should presume to minister further in the same place, we deprive him of participation in holy communion. For it is right that he should find those severe in justice whom he sets at naught when approaching him in charity. Wherefore, when the archdeacon Honoratus has been restored to his place, let the aforesaid bishop, at thy instigation, send to us a person with instructions, who may be able by his allegations to prove to us that the bishop’s intention is or has been just. \[What follows corresponds exactly with the conclusion of Epistle XIX.\] As to our brother and fellow-bishop Malchus1408, thou wilt take care to make him find a surety, that he may come to us as soon as possible, to the end that, without any delay or loitering, he may render us an account of his proceedings, and so be able to return to his own with security.
 
-1407
-
 This Antoninus was rector patrimonii in Dalmatia (see III. 22), and, though but a subdeacon, appears to have had the same kind of jurisdiction over the clergy given him in the pope’s name even in ecclesiastical matters as had been committed to Peter the subdeacon in Sicily. (See I. 1.)
 
-1408
-
 This Malchus was a bishop in Dalmatia (cf. Lib. 1. Ep. 38, “Ad Malchum episcopum Dalmatia,”) and appears to have been in charge of some part of the patrimony there, for his administration of which he had been called to account, and was therefore summoned to Rome to clear himself. He died there suddenly after his case had been heard, and judgment had been given against him, Gregory being calumniously accused of having caused his death. His case is referred to II. 20, 46; III. 22, 47; IV. 47.
-
-587
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1146,15 +822,9 @@ Epistle XXIII. 106b
 
 To John, Bishop. Gregory to John, Bishop of Prima Justiniana in Illyricum.
 
-1409
-
 This Epistle, as appears from the following one, was on the occasion of the election of John to the See of Justiniana Prima in Eastern Illyricum, which, though annexed by the Emperor Gratian (379) to the Eastern Empire, had remained under the spiritual control of the Roman See. Accordingly Pope Damasus had assigned to the bishop of Thessalonica vicariate jurisdiction under Rome over the new præfecture: and this arrangement had continued to the time of Pope Vigilius, when the Emperor Justinian assigned to Achrida, called by him Justiniana Prima, Metropolitan jurisdiction over the five provinces of the Dacian civil diocese with the two Pannonias in the diocese of Illyricum Occidentale (Justin. Novell. cxxxi. c. iii.). Hence Justiniana Prima became the seat thenceforth of the ecclesiastical Vicariate also. The election to the See, being a metropolitan one, appears to have been made in this instance by the suffragan bishops with the concurrence of the Emperor; after which the Bishop of Rome was applied to for confirmation. In the case before us it was readily given, the pallium sent, and the vicariate jurisdiction renewed. A case will appear below in which such confirmation was refused, but dispensed with by the Emperor, who supported the elected bishop against the Pope. See III. 47, note 1.
 
-1410
-
 Sacerdotii, meaning here episcopacy. See I. 78, note 1.
-
-588
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1162,11 +832,7 @@ Philip Schaff
 
 It is clearly a manifest evidence of goodness that the consent of all should concur in the election of one person. Since, then, the account which we have received from our brethren and fellow-bishops declared that you are summoned to the position of priesthood by the unanimous consent of the whole council and the will of the most serene Prince, we have rendered thanks with great exultation to Almighty GOD our Creator, who has made your life and actions so commendable in the past as to bring about (what is exceedingly to your credit) your approving yourself to the judgment of all. With them we also fully agree with regard to the person of your Fraternity. And we implore Almighty GOD that, as His Grace has chosen your Charity, so He would keep you in all respects under His protection. We have sent you the pallium according to custom, and, renewing our commission, we appoint you to act as vicar of the Apostolic See, admonishing you that you so shew yourself gentle to your subjects that they may be provoked to love you rather than to fear you. And, if perchance any fault of theirs should require notice, you will be careful so to correct their transgressions as by no means to discard paternal affection from your mind. Be watchful and assiduous in the care of the flock committed to you, and strict in the zeal of discipline, so that the wolf lying in wait may not prevail to disturb the LORD’S sheepfold, or have opportunity for deceit, so as to hurt the sheep. Make haste with full purpose of heart to win souls to our GOD; and know that we have received the name of shepherd not for repose, but for labour. Let us, then, shew forth in our work what our name denotes. If we weigh with right consideration the prerogative of the priesthood, it will be to those who are diligent and do their duty well for honour, but to those who are negligent assuredly for a burden. For, as this name, in the sight of GOD, conducts those who labour and are assiduous for the salvation of souls to eternal glory, so in the case of the idle and sluggish it tends to punishment. Through our tongue let the people committed to us learn that there is another life. Let the teaching of your Fraternity be to them an acceptable spur to urge them on, and your life an example for imitation. For your Fraternity’s preaching should disclose to them what to love and what to fear, and your efficiency in this way should reap the fruit of eternal retribution. But let your deliberate care especially constrain you never to attempt to make any unlawful ordinations; but, whenever any are promoted to the clerical order, or, it may be, to some higher rank, let them be ordained, not for bribes or entreaties, but for merit. In no ordination let any consideration, in any way whatever, surreptitiously reach your Fraternity, lest you should be entangled (which GOD forbid) in the snares of simoniacal heresy. For what shall it profit a man, as the Truth says, if he shall gain the whole word, and lose his own soul (Mark viii. 36)? Hence it is necessary for us to look to GOD in all we do, to despise temporal and perishable things, and to direct the desire of our heart to the good things of eternity. Your Holiness’s present1411 I was
 
-1411
-
 Xenia. The term denotes, among other kinds of presents, such as were voluntarily offered to superiors, as by the people of a province to proconsuls. Those here referred to were such as it was the custom for bishops to send to the Pope after their ordination or from time to time. We find other instances of Gregory deprecating such presents. “The temporal Xenia which you have sent us, though we are in no need of such, we have nevertheless accepted with due charity.” (VI. 64, Ad Dominicam episcopum Carthaginensem.) The word is used also for presents of all kinds. Cf. e.g. the letter to Ethelbert (XI. 66).
-
-589
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1180,19 +846,11 @@ Epistle XXVII. 107b
 
 To Rusticiana, Patrician1414. Gregory to Rusticiana, &c. On receiving the epistle of your Excellency I was relieved by the welcome news of your welfare, hoping that the LORD in His mercy may protect and direct your life and doings. But I wondered
 
-1412
-
 Meaning St. Peter.
-
-1413
 
 See II. 9, note 6.
 
-1414
-
 Other letters addressed to this patrician lady are IV. 46; VIII. 22; XI. 44; XIII. 22. She appears to have been a widow, no husband being alluded to, who had migrated with her family from Rome to Constantinople (cf. VIII. 22, and XIII. 22). She is spoken of in subsequent letters as a person of slender frame and weak health, and subject to gout. Her family, to whom greetings are always sent, being her children either by birth or marriage, were Appio and Eusebia, Eudoxius and Gregoria, the former, and perhaps the latter also, being a married couple. Strategius also, a son of Appio and Eusebia, apparently a child, has afterwards greetings sent to him. They had daughters also, whose names are not given.
-
-590
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1204,15 +862,9 @@ Epistle XXIX. To Maurilius and Vitalianus1416. Gregory to Maurilius and Vitalian
 
 Epistle XXX.
 
-1415
-
 Two years later (see IV. 46, Indict. XII. i.e. A.D. 593–4) she appears to have made a pilgrimage to Mount Sinai.
 
-1416
-
 Cf. II. 3.
-
-591
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1226,31 +878,17 @@ Gregory to Maurilius and Vitalianus, magistris militum1417. We have entreated yo
 
 Epistle XXXII. To Peter, Subdeacon of Sicily. Gregory to Peter, &c. By information received from Romanus the guardian (defensore) I have learnt that the monastery of handmaidens of GOD which is on the farm of Monotheus has suffered wrong from our church of Villa Nova with respect to a farm belonging to the latter, which is said to have been leased to the said monastery. If this is so, let thy Experience restore to them the farm, and also the payments
 
-1417
-
 “Abest hæc Epist. a plerisque MSS.” (Benedict Ed.)
-
-1418
 
 In Collect. Pauli Diac., Junii. (Ibid.)
 
-1419
-
 Or Soana, a town in Tuscia.
-
-1420
 
 Perhaps Narnia, in Umbria.
 
-1421
-
 Sculcas. SCULCæ, excubiæ; pro exulcæ vocabulo truncato, ut cubiæ pro excubiæ. Du Cange.
 
-1422
-
 In Colbert. Vet. the date is added, “Die 14 Kal. Jan. Indict. 10.” The dates are evidently uncertain.
-
-592
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1258,15 +896,9 @@ Philip Schaff
 
 from the same farm for the two indictions during which thou hast exacted them. Moreover, since many of the Jews dwell on the estates of the Church, I desire that, if any of them should be willing to become Christians, some little of their dues be remitted to them, to the end that others also, incited by this benefit, may be moved to a like desire. Cows which are now barren from age, or bulls which appear to be quite useless, ought to be sold, so that at least some profit may accrue from their price. But as to the herds of mares which we keep very unprofitably, I wish them all to be dispersed, and four hundred only of the younger kept for breeding; which four hundred ought to be presented to the farmers1423—so many to each, to the end that they may make some return to us from them in successive years: for it is very hard for us to spend sixty solidi on the herdsmen, and not get sixty pence from these same herds. Let then thy Experience so proceed that some may be divided among all the farmers, and others dispersed and converted into money. But so arrange with the herdsmen themselves throughout our possessions that they may be able to make some profit by cultivation of the ground. All the implements which, either at Syracuse or at Panormus, can be claimed by the Church must be sold before they perish entirely from age. On the arrival of the servant of GOD, brother Cyriacus, at Rome I questioned him closely as to whether he had communicated with thee about the receiving of a bribe in the cause of a certain woman. And the same brother says that he had learnt the state of the case from thy telling him, for that he had been commissioned by thee to ascertain who was the person commissioned to pay the bribe. This I believed, and immediately received him familiarly into favour, introduced him to the people and clergy, increased his stipend1424, placed him in a superior rank among the guardians, praising his fidelity before all, in that he had acquitted himself so faithfully in thy service; and I have consequently sent him back to thee. But, inasmuch as thou art in great haste, and I, though sick, am desirous of seeing thee, do thou leave some one whom thou hast fully proved to take thy place in the Syracusan district, and thyself make haste to come to me, that, if it should please Almighty GOD, we may consult together as to whether thou thyself oughtest to return thither or another person should be appointed in thy place. At the same time I have sent Benenatus the notary to occupy thy place in the patrimony in the district of Panormus till such time as Almighty GOD may ordain what pleases Him. I have strongly rebuked Romanus for his levity, because in the Guest-house (xenodochium) which he kept, as I have now discovered, he has been taken up more with his own profits than with \[heavenly\] rewards. Him, therefore, if it should haply seem good to thee, leave in thy place. See
 
-1423
-
 Conductores. See I. 44, note 6.
 
-1424
-
 Presbyterium. The term, as here used, means apparently a pecuniary allowance to presbyters. Cf. V. 33, Ad Gaudentiam Episcopum; “Fraternitatem tuam præsentibus hortamur affatibus ut clericis Capuanæ Ecclesiæ quartam in presbyterium eorum de hoc quod ante dictæ ecclesiæ singulis annis accesserit juxta antiquam consuetudinem distribuere secundum personarum studeat qualitatem, quatenus aliquod stipendiorum habentes solatium, ministerium officiumque suum circa eamdem ecclesiam devotiore mente provocentur impendere.”
-
-593
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1276,27 +908,15 @@ Philip Schaff
 
 how thou mayest best fortify him, by alarming and admonishing him, that he may act kindly and carefully towards the peasants (rusticos1425); and shew himself towards strangers and townspeople changed and active. In saying this, however, I am not selecting any person, but leave this to thy judgment. It is enough for me to have selected an occupier of thy place in the district of Panormus; and I wish thee to see thyself to providing one for the Syracusan district. When thou comest, bring with thee the moneys and ornaments (ornamenta) on the part, or of the substance of Antoninus. Bring also the payments of the ninth and tenth indictions which thou hast exacted, and with them all thy accounts. Take care, if it should please GOD, to cross the sea for this city before the anniversary of Saint Cyprian, lest any danger should ensue (whichGOD forbid) from the constellation which always threatens the sea at that season. Furthermore, I would have thee know that I have no slight compunctions of mind for having been grievously set against the servant of GOD Pretiosus for no grievous fault of his, and driven him from me, sad and embittered. And I wrote to the LORD bishop1426 requesting him to send the man to me, if willing to do so; but he was altogether unwilling. Now him I ought not to distress, nor can I do so; since, occupied as he is in the causes of GOD, he ought to be supported by comfort, not depressed by bitterness. But the said Pretiosus, as I hear, is altogether distressed because he cannot return to me. I, however, as I have said, cannot distress the LORD bishop, who is not willing to send him, and I am doubtful between the two. Do thou then, if in thy little diminutive body thou hast the greater wisdom, manage the matter so that I may have my will, and the LORD bishop be not distressed. Yet, if thou see him to be at all distressed, say no more about it. I have, however, taken it amiss that he has excommunicated the LORD Eusebius1427, a man of so great age and in such bad health. Wherefore it is needful for thee to speak privately to the said LORD bishop, that he be not hasty in pronouncing sentences, since cases which are to be decided by sentences must needs be weighed beforehand with careful and very frequent consideration. When the recruiting officers1428 come, who, as I hear, are already raising recruits in Sicily, charge thy substitute to offer them some little present1429, so as to render them well-disposed towards him. But, before thou comest away, give also something, according to ancient custom, to the prætor’s officials; but do it by the hands of him thou leavest in thy place, so as to conciliate their favour towards him. Also, lest we should seem to them to be at all uncivil, direct thy substitutes to carry out in all respects the orders we have given to thy Experience as to what is to be given to any individuals or monasteries. But when thou comest, we will, with the help of GOD consider
 
-1425
-
 See I. 44, note 1.
-
-1426
 
 Maximianus (as appears from Epistle 34), whom Gregory had himself appointed bishop of Syracuse. Cf. II. 7, and note.
 
-1427
-
 This Eusebius was an abbot in Sicily. Letters follow about him to Maximianus (Ep. 34), and to him (Ep. 36).
-
-1428
 
 Scribonibus. The term denoted officers sent from the imperial court into the provinces for executing certain duties; in this case for raising recruits for the imperial army. Cf. V. 30, note 8.
 
-1429
-
 Parum aliquid xenii. On xenia, see II. 23, note 8.
-
-594
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1308,15 +928,9 @@ together how these things should be arranged. The three hundred solidi which I s
 
 We note here the sarcastic vein in which Gregory from time to time pleasantly stimulates Peter to activity.
 
-1431
-
 I.e. the rector patrimonii. The purport of this direction seems be that agents from the laity might be appointed with advantage to assist the rector patrimonii; and these must first be made clerici by receiving the tonsure, so as to be qualified to act for the Church. The rectors themselves were usually at least subdeacons.
 
-1432
-
 Scholastici. The designation appears to have been applied generally to scholarly and learned persons. Cf. Hieron. in Catal. Scriptor. Eccles., “Serapion ob elegantiam ingenii cognomen scholastici meruit.” In Gregory’s Epistles it seems to denote
-
-595
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1328,23 +942,13 @@ usually men learned in the law, who might advise on legal points or sit as asses
 
 See I. 46, note.
 
-1434
-
 See I. 61, note 7.
-
-1435
 
 Præpositi. The word, though used also in a more general sense, usually denotes the Prior of a monastery, appointed as the Abbot’s vice-gerent.
 
-1436
-
 Episcopi Laurinensis. If the reading is correct, the See intended is unknown. Holstein (Annot. in Geograph. Sacra, p. 21) suggests Carinensem, denoting the Sicilian See of Carine, or Camarina.
 
-1437
-
 I.e. the first seven books of the Bible.
-
-596
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1358,15 +962,9 @@ Epistle XXXIV. To Maximianus, Bishop of Syracuse.
 
 Gregory to Maximianus, &c. I remember to have often admonished you to be by no means hasty in passing sentence. And lo, I have now learnt that your Fraternity in a fit of anger has excommunicated the most reverend abbot Eusebius. Now I am much astonished that neither his former conversation, nor his advanced age, nor his long-continued sickness, could turn your mind from wrath. For, whatever his transgression may have been, the very affliction of sickness ought to have sufficed as a scourge for him. For to one crushed by divine discipline it was superfluous to add human scourges. But perhaps thou hast been allowed to exceed in the case of such a person, in order that thou mightest become more cautious in the case of others of less account, and ponder long when thou art disposed to smite any one through a sentence. Yet still comfort this same man with a sweetness proportionate to the fury with which thou hast exasperated him, since it is very unjust that the very persons who have loved thee most should find thee without cause most bitter against themselves.
 
-1438
-
 Now Prætor of Sicily. Cf. I. 2.
 
-1439
-
 Bishop of Catana in Sicily. Cf. I. 72.
-
-597
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1376,11 +974,7 @@ Epistle XXXVI. To the Abbot Eusebius. Gregory to Eusebius, &c. Let thy Charity b
 
 Epistle XXXVII. To John, Bishop of Squillacium (Squillace, in Calabria). Gregory to John, &c. The care of our pastoral office warns us to appoint for bereaved churches bishops of their own, who may govern the LORD’S flock with pastoral solicitude. Accordingly we have held it necessary to appoint thee, John, bishop of the civitas Lissitana (Lissus, hodie, Alessio?), which has been captured by the enemy, to be cardinal1440 in the Church of Squillacium, that thou mayest carry on the cure of souls once undertaken by thee, having regard to future retribution. And although, being driven from thine own Church by the invading enemy, thou must govern another Church which is now without a shepherd, yet it must be on condition that, in case of the former city being set free from the enemy, and under the protection of GOD restored to its former state, thou return to the
 
-1440
-
 See I. 79, note 5.
-
-598
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1394,11 +988,7 @@ Epistle XLI. To Castorius, Bishop.
 
 Gregory to Castorius, Bishop of Ariminum (Rimini). What lamentable supplications have been poured out to us by Luminosus, abbot of themonastery of St. Andrew and St. Thomas, in the city of Ariminum, appears from the text of the subjoined petition. With regard to this matter we exhort thy Fraternity that, on the death of the abbot of this same monastery, thy church shall under no pretext interfere in scheduling or taking charge of the property of the said monastery, acquired or to be acquired. And we desire thee to ordain as abbot of the same monastery none other but him whom the whole congregation may by common consent demand as being worthy in character and apt for monastic discipline. Moreover, we entirely forbid public masses to be celebrated there by the bishop, lest occasion be given for popular assemblies in the retreats of GOD’S servants, and also lest too frequent an entrance of women be a cause of scandal (which GOD forbid), especially to the simpler souls. Further, we ordain that this paper by us written shall be carefully held to, and kept in force and unadulterated in all future time by thee and the bishops that shall be ordained after thee; that so, with the help of GOD, both thy church may be content with its own rights and no more, and also the said monastery, being subject henceforth to none but general or canonical jurisdiction, and free from all annoyances and vexations, may accomplish its divine work with the utmost devotion of heart.
 
-1441
-
 See as above.
-
-599
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1418,15 +1008,9 @@ Epistle XLII. To Luminosus, Abbot. Gregory to Luminosus, abbot of the monastery 
 
 Epistle XLVI. To John, Bishop.
 
-1442
-
 The text here (“nullis canonicis juris deserviant”) appears to be corrupt, being unintelligible. The sense of the corresponding clause in the shorter Epistle has been given in the translation.
 
-1443
-
 Processio usually denotes the celebration of Mass.
-
-601
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1434,27 +1018,15 @@ Philip Schaff
 
 Gregory to John, Bishop of Ravenna1444. That I have not replied to the many letters of your Blessedness attribute not to sluggishness on my part, but to weakness, seeing that, on account of my sins, when Ariulph, coming to the Roman city, killed some and mutilated others, I was affected with such great sadness as to fall into a colic sickness. But I wondered much why it was that that well-known care of your Holiness for me was of no advantage to this city and to my needs. When, however, your letters reached me, I became aware that you are indeed taking pains to act, but yet have no one on whom you can bring your action to bear. I therefore attribute it to my sins that this man1445 with whom we are now concerned both evades fighting against our enemies and also forbids our making peace; though indeed at present, even if he wished us to make it, we are utterly unable, since Ariulph, having the army of Authar and Nordulf, desires their subsidies1446 to be given him ere he will deign to speak to us at all about peace. But, as to the case of the bishops of Istria1447, I have learnt the truth of all you had told me in your letters from the commands which have come to me from the most pious princes, bidding me abstain for the present from compelling them. I indeed feel with you, and rejoice greatly in your zeal and ardour, with regard to what you have written, and acknowledge myself to have become in many ways your debtor. Know nevertheless that I shall not cease to write with the greatest zeal and freedom on this same matter to the most serene lords. Moreover the animosity of the aforesaid most excellent Romanus Patricius ought not to move you, since, as we are above him in place and rank, we ought so much the more to tolerate with forbearance and dignity any light conduct on his part. If, however, there is any opportunity of prevailing with him, let your Fraternity work upon him, so that we may make peace with Ariulph, if to some small extent we may, since the soldiery have been removed from the city of Rome, as he himself knows. But the Theodosiacs1448, who have remained here, not having received their pay, are with difficulty induced to guard the walls; and how shall the city subsist, left destitute as it is by all, if it has not peace?
 
-1444
-
 For elucidation of the circumstances of this Epistle see above, Epistles 3, 29, 30.
-
-1445
 
 Viz. Romanus Patricius, mentioned below, the Exarch of Ravenna, and as such representing the Emperor in Italy. See I. 33, “Ad Romanum Patricium et Exarchum Italiæ.”
 
-1446
-
 Precaria; apparently subsidies demanded for the support of the invading army. Precarium (or Precarim), which has various applications, appears to be capable of this sense. See Du Cange.
-
-1447
 
 The Istrian bishops still held out in refusing to accept the condemnation of “The Three Chapters” passed in the fifth Œcumenical Council at the instance of the Emperor Justinian. Gregory, soon after his accession, had summoned Severus, Bishop of Aquileia and Metropolitan, with his suffragans, to Rome; and this, as he alleges, by command of the Emperor, though the latter had now, it appears, forbidden further proceedings. See I. 16, and note.
 
-1448
-
 I.e. the soldiers of the Theodosian Legion.
-
-602
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1464,23 +1036,13 @@ Philip Schaff
 
 Furthermore, as to the gift redeemed from captivity, about whom you have written to us asking us to enquire into her origin, we would have your Holiness know that an unknown person cannot easily be traced. But as to what you say about one who has been ordained being ordained again, it is exceedingly ridiculous, and outside the consideration of one disposed as you are, unless perchance some precedent is adduced which ought to be taken into account in judging him who is alleged to have done any such thing. But far be it from your Fraternity to entertain such a view. For, as one who has been once baptized ought not to be baptized again, so one who has been once consecrated cannot be consecrated again to the same order. But in case of any one’s attainment of the priesthood having been accompanied by slight misdemeanour, he ought to be adjudged to penance for the misdemeanour, and yet return his orders. With regard to the city of Naples1449, in view of the urgent insistance of the most excellent Exarch, we give you to understand that Arigis1450, as we have ascertained, has associated himself with Ariulph, and is breaking his faith to the republic, and plotting much against this same city; to which unless a duke be speedily sent, it may already be reckoned among the lost. As to what you say to the effect that alms should be sent to the city of the schismatic Severus which has been burnt1451, your Fraternity is of this opinion as being ignorant of the bribes that he sends to the Court in opposition to us. And, even though these were not sent, we should have to consider that compassion is to be shewn first to the faithful, and afterwards to the enemies of the Church. For indeed there is near at hand the city Fanum, in which many have been taken captive, and to which I have already in the past year desired to send alms, but did not venture to do so through the midst of the enemy. It therefore seems to me that you should send the Abbot Claudius thither with a certain amount of money, in order to redeem the freemen whom he may find there detained in slavery for ransom, or any who are still in captivity. But, as to the sum of money to be thus sent, be assured that whatever you determine will please me. If, moreover, you are treating with the most excellent Romanus Patricius for allowing us to make peace with Ariulph, I am prepared to send another person to you, with whom questions of ransom may be better arranged. Concerning our brother and fellow-bishop Natalis1452 I was at one time greatly distressed, in that I had found him acting haughtily in certain matters; but, since he has himself amended his
 
-1449
-
 With respect to Rome Gregory has already complained that the Exarch would neither send forces for its defence nor allow peace to be made with Ariulph. So also with regard to Naples, which Gregory understands to be now threatened by the Lombards. The Exarch, it appears, had been urgent in insisting that it should hold out against the enemy (“excellentissimo exarcho instanter imminente”), but without giving any help for the purpose. What Gregory here says is that without aid from the Exarch its defence was hopeless.
-
-1450
 
 Aragis was the Lombard duke of Beneventum.
 
-1451
-
 Viz. Aquileia, of which Severus was bishop and Metropolitan, called here schismaticus because of his holding out against Rome in the matter of the Three Chapters. The bribes he is said below to have sent to Constantinople would be for inducing the Emperor to take his part against Gregory.
 
-1452
-
 See above, Ep. 20, in this Book, and I. 19, note 5, where references to other Epistles are given.
-
-603
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1494,15 +1056,9 @@ Epistle XLVII. To Dominicus, Bishop.
 
 Gregory to Dominicus, Bishop of Carthage1454. We have received with the utmost gratification the letters of your Fraternity, which have reached us somewhat late by the hands of Donatus and Quodvultdeus, our most reverend brethren and fellow-bishops, and also Victor the deacon with Agilegius the notary. And though we thought that we had suffered loss from the tardiness of their coming, yet we find gain from their more abundant charity; seeing that from this delay in point of time there appears no interruption, but rather increase of the love which, by the mercy of GOD, through your contemplation of the priestly office, your practice of reading, and your maturity of age, we know to be already firmly planted in you. For it would not flow so largely from you, had it not very many most abundant veins in your heart. Let us, therefore, most holy brother, hold fast with unshaken firmness this mother and guard of virtues. Let not the tongues of the deceitful diminish it in us, or any snares of the ancient enemy corrupt it. For this joins what is divided, and keeps together what is joined. This lifts up what is lowly without tumour; this brings down what is lifted up without dejection. Through this the unity of the universal Church, which is the knitting together of the Body of Christ, rejoices in its several parts through the mind’s equalization of them, though having in it dissimilarity from the diversity of its members. Through this these members both exult in the joy of others, though in themselves afflicted, and also droop for the sorrows of others, though in themselves joyful. For seeing that, as the teacher of the Gentiles testifies, if one member suffers anything, the other members suffer with it, and if
 
-1453
-
 See II. 20, note 5.
 
-1454
-
 The bishop of Carthage was primate of the province of Africa Proconsularis in virtue of his See. For the custom with regard to primacy in other African provinces, see I. 74, note 2. The fact, apparent from this letter, that Dominicus had deemed sending to Gregory on his accession the congratulatory letter that had been expected, and Gregory’s carefulness to assure him, in the course of the studiously courteous letter, of his desire to respect the ancient privileges of Churches, may be among the symptoms, otherwise apparent, of the authoritative claims of the Roman See being still viewed with some jealousy in the African Church. Cf. in Book VIII. Epistle 33, to the same Dominicus, in which Gregory, in praising his reverence for the Apostolic See, attributes such reverence to his knowledge of the origin of the African episcopacy, refraining from asserting in this case any prerogative of divine right belonging to the See of S. Peter. Other letters to Dominicus are V. 5; VII. 35; XII. 1.
-
-604
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1512,11 +1068,7 @@ one member glories, all the members rejoice with it, I doubt not that you groan 
 
 Epistle XLVIII.
 
-1455
-
 In English Bible, cxxxix. 21.
-
-605
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1530,11 +1082,7 @@ Gregory to Columbus, &c. It is known, most dear brother in Christ, that the anci
 
 This Columbus was one of the bishops in Numidia, who seems to have enjoyed the peculiar confidence of Gregory, being written to on various questions concerning the Church there, and charged with seeing to the exercise of discipline over other bishops, though not himself the primate. He is addressed (III. 68; VIII. 13) as being himself especially devoted to the Roman See. Other letters addressed to him are III. 48; IV. 35; VI. 37; VII. 2; VIII. 28; XII. 8; XII. 28.
 
-1457
-
 The Donatists had formerly been allowed their own bishop, tolerated along with the Catholic ones. This liberty was now disallowed, probably in accordance with imperial edicts. See I. 74, note 8.
-
-606
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1543,8 +1091,6 @@ Philip Schaff
 tears the LORD’S flock, no longer stealthily in the night, but in the open light; and we see him advance in the slaughter of the sheep, and with no solicitude, with no darts of words, do we oppose him. What fruits, then, of a multiplied flock shall we shew to the LORD, if even that of which we have undertaken the feeding we see with easy mind mangled by the wild beast? Let us therefore study to inflame our hearts by imitation of earthly shepherds, who often keep watch through winter nights, pinched with showers and frost, lest even one sheep, and perchance not a profitable one, should perish. And, if the prowler should have bitten it with greedy mouth, how do they busy themselves, with what palpitations of heart do they pant, with what cries do they leap forward to rescue the captured sheep, stimulated by the pressing need, lest anything lost through their carelessness should be required of them by the LORD of the flock! Let us then watch, lest anything should perish: and, if anything should by chance have been seized, let us bring it back to the LORD’S flock by the cries of divine discourses, that He who is the Shepherd of shepherds may mercifully vouchsafe to approve us in His judgment as having kept watch over His sheepfold. This also it is needful for you to attend to wisely; that, if there should be any proper petition on the part of the same bishop against the bearers of these presents, it should be thoroughly enquired into; and, if haply they themselves also should rightly deserve to be smitten for their own fault, we pronounce that they should by no means be spared on the ground of their having had the toil of resorting to us. In the month of August, tenth indiction.
 
 Epistle XLIX. To Januarius, Archbishop. Gregory to Januarius, archbishop of Caralis (Cagliari). If with integrity of heart we consider the priestly office which we administer, the concord of personal charity ought so to unite us with our sons that, as we are fathers in name, so we should be proved by our affection to be so in deed. While, then, we ought to be such as has been said above, we wonder why such a mass of complaints has arisen against thy Fraternity. We still indeed hesitate to believe it: but, that we may be able to ascertain the truth, we have sent to your parts John the notary of our See, supported by our injunction, who may compel all parties to abide the judgment of chosen arbitrators, and by his own execution carry their judgments into effect. Wherefore we exhort thy Fraternity by this present writing to consider well with thyself beforehand the merits of the cases; and, if you find that you have taken or hold anything unjustly, in consideration of your priesthood to restore it before trial. Now, among numerous complaints, the most distinguished Isidore has complained of having been excommunicated and anathematised by thy Fraternity for invalid reasons. And, when we had wished to learn from one of thy clergy who was here for what cause this had been done, he gave us to understand that it had been done for no other cause than that the man had done thee an injury.
-
-607
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1556,15 +1102,9 @@ This distresses us exceedingly; since, if it is so, thou shewest that thou dost 
 
 Epistle LI. To All Bishops. Gregory to all bishops in the matter of the Three Chapters1458. I have received your letters with the utmost gratification: but I shall have far abundant joy, if it should be my lot to rejoice in your return from error. Now the forefront of your Epistle notifies that you suffer severe persecution. But persecution, if endured irrationally, is of no profit at all unto salvation. For it is impious in any one to expect a recompense of reward for sin. For you ought to know, as the blessed Cyprian says, that it is not the suffering that makes the martyr, but the cause for which he suffers. This being so, it is exceedingly incongruous for you to glory in the persecution whereof you speak, seeing that you are not thereby at all advanced towards eternal rewards. Let, then, purity of faith bring your Charity back to your mother church who bare you; let no bent of your mind dissociate you from the unity of concord; let no persuasion deter you from seeking again the right way. For in the synod which dealt with the three chapters it is distinctly evident that nothing pertaining to faith was subverted, or in the least degree changed; but, as you know, the proceedings had reference only to certain individuals; one of whom, whose writings evidently deviated from the rectitude of the Catholic Faith, was not unjustly condemned1459. Moreover, as to what you write about Italy among other provinces having been especially scourged since that time, you ought not to twist this into a reproach, since it is written, Whom the LORD loveth he chasteneth, and scourgeth every son whom he receiveth (Hebr. xii. 6). If, then, it is as you say, Italy has been since that time the more loved by GOD, and in all ways approved,
 
-1458
-
 This letter, being in reply to one from the bishops addressed who are spoken of as being at the time schismatics, cannot have been meant for the universal episcopate. They were probably those of Istria or elsewhere, who were out of communion with Rome because of their refusal to accept the condemnation of the “Three Chapters” by the fifth Council. See I. 16, note 3: IV. 1, 2, 3, 4, 38, 39.
 
-1459
-
 I.e. Theodorus of Mopsuestia, whose person, and not his writings only, was anathematized in the fifth Council. The sentence was; “Prædicta tria capitula anathematizamus, id est, Theodorum Mopsuestenum cum nefandis ejus scriptis, et quæ impie Theodoritus conscripsit, et impiam epistolam quæ dicitur Ibæ, et defensores eorum.”
-
-608
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1574,19 +1114,11 @@ Philip Schaff
 
 having been counted worthy of enduring the scourge of the LORD. But, since it is not as ye try to make out by way of insulting over her, attend ye to reason. After the Pope Vigilius of illustrious memory, having been appointed in the royal city1460, 1461 promulgated a sentence of condemnation against Theodora, then empress, or against the Acephali , the city of Rome was then attacked and captured by enemies. Does it follow from this that the Acephali had a good case, or that they were unjustly condemned, because such things happened after their condemnation? Away with the thought! For it is not fit that either any one of you, or any others who have been instituted in the mysteries of the Catholic Faith, should say or in any way acknowledge this. This then being recognized, retire ye even now at length from the determination you have come to. Wherefore, that full satisfaction may be infused into your minds, and all doubt removed, with respect to the three chapters, I have judged it of advantage to send you the book which my predecessor of holy memory, Pope Pelagius, had written on this subject1462. Which book if you should be willing to read again and again, putting aside the spirit of wilful self-defence, I have confidence that you will follow it in all respects, and, notwithstanding all, return to union with us. But if henceforth, after perusal of this book, you should decide to persist in your present determination, you will doubtless shew that you gave yourselves up not to reason but to obstinacy. Wherefore once more, in a spirit of compassion, I admonish your Charity, that, inasmuch as under GOD the purity of our faith has remained inviolate in the matter of the Three Chapters, ye put away from you all swelling of mind, and return to your mother the Church, who expects and invites her sons; and this all the more speedily as you know that she expects you daily.
 
-1460
-
 Vigilius, having gone to Constantinople with pope Agapetus, who died there, was selected by the Empress Theodora as his successor, and sent back to Italy with an order from her to Belisarius to bring about his election (Liberatus, Breviar. c. 22). Gregory seems to have been unaware of the fact stated by Liberatus, namely that Vigilius had come to a secret understanding with the Empress that he would support the Monophysite party and disallow the Council of Chalcedon, as there is good evidence that he did after his accession. It is true that he afterwards declared for orthodoxy, and condemned all abettors of the Eutychian heresy. But this appears to have been not till A.D. 540, in reply to a letter received from the Emperor Justinian and therefore subsequent to the occupation of Rome by the Gothic King Theodatus, which was in 536, and to its siege by Vitiges, who retired in 538. Thus what Gregory goes on to say about Rome having been attacked and captured by enemies after the condemnation of heresy by Vigilius must be due to serious ignorance of the facts of the case. Nor does he appear to have known—at any rate he does not intimate—that the condemnation of the Three Chapters, pressed upon the fifth Council by the Emperor Justinian, had been in spite of the opposition of Vigilius, though it is true that this sorry pope did afterwards assent to it.
-
-1461
 
 The Monophysites—or some of them—had come to be so called, as being without a head, after their leader, Peter Mongus, had accepted the See of Alexandria on the doctrinal basis of Zeno’s Henoticon.
 
-1462
-
 Pelagius I., who succeeded Vigilius, though he had formerly with him opposed the condemnation of the Three Chapters, upheld it after his accession to the popedom. The “book” sent by Gregory to the bishops may have been the Epistle given as Ep. VII., among those attributed to Pelagius, addressed to Helias and the bishops of Istria.
-
-609
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1594,11 +1126,7 @@ Philip Schaff
 
 Epistle LII. To Natalis, Bishop1463. Gregory to Natalis, Bishop of Salona. As though forgetting the tenour of former letters, I had determined to say nothing to your Blessedness but what should savour of sweetness: but, now that in your epistle you have recurred in the way of argumentation to preceding letters, I am once more compelled to say perhaps some things that I had rather not have said. For in defence of feasts your Fraternity mentions the feast of Abraham, in which by the testimony of Holy Scripture he is said to have entertained three angels (Gen. xviii.). In view of this example, neither will we blame your Blessedness for feasting, if we come to know that you entertain angels. Again you say that Isaac gave a blessing to his son when satiated (Gen. xxvii. 27). Now as to both these things in the Old Testament—since they were so done in the way of history as still to have a meaning in the way of allegory—would that we could so read through the accounts of the things done as to perceive and take thought for the things to be done. For indeed the one, in saluting one only of the three angels, declared the Persons of the Trinity to be of one Substance; the other blessed his son when satiated, because one who is filled with divine banquets has his senses extended into the power of prophecy. But the words of Holy Writ are divine banquets. If, then, you read diligently—if, drawing example from what is outward, you penetrate what is inward—you will be satiated, as it were, from hunting in the field, and fill the stomach of the soul, so as to be able to announce things to come to your son placed before you, to wit to the people you have taken in charge. But one who prophesies anything of GOD is already in the dark as to this world; for it is assuredly right and fit that he whose senses are bright inwardly through intelligence should see less through concupiscence here below. Take, therefore, these things to yourselves; and, if you know yourselves to be such as I have said, you need not at all doubt of our esteem. I also find your Blessedness rejoicing if you bear the name of “a gluttonous man” along with the world’s Creator. As to this I briefly comment thus; that, if you are called so falsely, you do truly bear this name along with the world’s Creator; but, if it is true of you, who can doubt that it was false of Him? A like name does not avail to acquit you, if the cause for it is unlike. For even the thief who was condemned to die endured the cross with Him; but a like crucifixion did not acquit him whom his own guilt bound. But now I beseech GOD with all the prayers I can offer that not the name only, but the cause for it, may join your most holy Fraternity to our Creator. Further, your Holiness in your letters rightly praises feasts which are made with the intention of bestowing charity. But yet you should know that they then truly proceed from charity, when at them the lives of the absent are not backbitten, no one is censured in derision, and no idle tales
 
-1463
-
 See I. 19, note 5, with reff.
-
-610
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1608,8 +1136,6 @@ Philip Schaff
 
 about secular affairs, but the words of sacred reading, are heard; when the body is not pampered more than is needful, but only its weakness refreshed, that it may be kept in health for the practice of virtue. If, then, you thus conduct yourselves in your feasts, I own that you are masters of abstinence. As to your alleging to me the testimony of the apostle Paul, where he says, Let not him that eateth not judge him that eateth (Rom. xiv. 3), I think that this was altogether out of place, seeing both that I am not one that eateth not, and also that Paul did not here mean to say that the members of Christ, who are mutually bound to each other in His body, that is to say in his Church, with the bond of charity, should have no care whatever for each other. If, indeed, I had nothing to do with thee, nor thou with me, I should rightly be compelled to hold my peace, lest I should blame one whom I could not mend. This precept, then, was given only with reference to persons who go about to judge those who have not been committed to their care. But now that we, by the ordering of GOD, are one, we should be much in fault were we to pass over in silence what calls for our correction. Lo, thy Fraternity has taken it amiss to have been blamed by me about feasts, while I, who surpass thee in my position, though not in my life, am ready to be found fault with by all, and by all to be amended. And him only do I esteem to be a friend to me, through whose tongue I wipe off the stains of my soul before the appearance of the strict judge. But as to what you say, most sweet brother, about your being unable to read because of the pressure of tribulations upon you, I think this avails little for your excuse, since Paul says, Whatsoever things are written are written for our instruction, that we through patience and comfort of the Scriptures might have hope (Rom. xv. 4). If, then, holy Scripture has been prepared for our comfort, we ought by so much the more to read it as we find ourselves the more wearied under the burden of tribulations. But if we are to rely only on that sentence which you quote in your letter, wherein the LORD says, When they deliver you up, take no thought how or what ye shall speak, for it shall be given you in that hour what ye shall speak; for it is not ye that speak, but the Spirit of your Father that speaketh in you (Matth. x. 19), I say that Holy Scriptures have been given us in vain, if, being filled with the Spirit, we have no need of external words. But, dearest brother, trusting in GOD without doubt, when we are straightened in a time of persecution, is one thing; what we ought to do when the Church is at peace is another. For it is our duty, through this same Spirit, to learn by reading now what we may be able to shew forth also in suffering, should cause arise. Now, I rejoice exceedingly that you declare in your letter that you are giving attention to exhortation. For thus I know that you are wisely fulfilling the duties of your position, if you take pains to draw others also to your Maker. But your saying in the same sentence that you are not like me saddens me at once, after I had begun to rejoice, since I think that it is in derision that you give me praises which in truth I do not recognize as due. However, I give thanks to Almighty GOD that through you heretics are being recalled to holy Church. But it is needful for you to have a care that those also who are contained in the bosom of holy Church live so that they be not her adversaries through their evil lives. For, if they give themselves not to heavenly desires, but to earthly lusts and pleasures, sons of strangers are being nourished in her bosom.
 
-611
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -1618,11 +1144,7 @@ Now as to your declaring that you cannot possibly be ignorant of the degrees of 
 
 Epistle LIV. Here follows the Epistle of Saint Licinianus, bishop, concerning the Book of Rules, addressed to Saint Gregory, pope of the city of Rome1464. To the most blessed LORD pope Gregory, Licinianus, bishop.
 
-1464
-
 Licinianus was bishop of Carthagena in Spain, a Latin ecclesiastical writer. Isidore (Lib. de illustribus Ecclesiæ scriptoribus, c. 29) says of him, “In scripturis doctus, cujus quidem nonnullas epistolas legimus. De sacramento denique baptismatis unam, et ad Eutropium abbatem postea Valentiæ episcopum plurimas; reliqua vero industriæ et laboris ejus ad nostram notitiam minime pervenerunt. Claruit temporibus Mauricii Augusti; occubuit Constantinopoli veneno ut ferunt, extinctus ab æmulis Sed, ut scriptum est, Justus quacunque morte præoccupatus fuerit, anima ejus in refrigerio est.” The “Book of Rules” which he had received, was Gregory’s Regula Pastoralis.
-
-612
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1632,11 +1154,7 @@ Philip Schaff
 
 The Book of Rules issued by Thy Holiness, and by the aid of divine grace conveyed to us, we have read with all the more pleasure for the spiritual rules which we find contained in it. Who can fail to read that with pleasure wherein by constant meditation he may find medicine for his soul; wherein, despising the fleeting things of this world which vary in their mutability, he may open the eyes of his soul to the settled estate of eternal life? This book of thine is a palace of all virtues. In it prudence fixes the boundary line between good and evil; justice gives each one his own, while it subjects the soul to GOD, and the body to the soul. In it fortitude also is found ever the same in adversity and in prosperity, being neither broken by opposition nor lifted up by success. In it temperance subdues the rage of lust, and discriminately imposes a limit upon pleasures. In it thou comprehendest all things that pertain to the partaking of eternal life: and not only for pastors layest down a rule of life, but also to those who have no office of government thou suppliest a rule of life. For pastors may learn in thy fourfold division what they should be in coming to this office; what life they should lead after coming to it; how and what they should teach, and what they should do to avoid being lifted up in so high a position as that of priesthood. This excellent teaching of thine is attested by the holy ancient fathers, doctors, and defenders of the Church; Hilary, Ambrose Augustin, Gregory Nazianzen: these all bear testimony to thee as did the prophets to the apostles. Saint Hilary says, in expounding the words of the Apostle who was the teacher of the Gentiles, “For so he signifies that the things belonging to discipline and morals serve to the good desert of the priesthood, if those things also which are necessary for the science of teaching and guarding the faith shall not be wanting among the rest; since it does not all at once constitute a good and useful priest only to act innocently, or only to preach knowingly, seeing that, though a man be innocent, he profits himself only unless he be learned, and that he that is learned is without the authority of a teacher unless he be innocent1465.” Saint Ambrose gives attestation to this book of thine in the books which he wrote about Duties (de officiis). Saint Augustin gives attestation, saying, “In action dignity should not be loved in this life, neither power; since all things under the sun are vain.” But the work itself which is done by means of this dignity or power, if it is rightly and profitably done, this is what avails for that weal of subjects which is according to GOD. Wherefore the Apostle says, “He that desireth the office of a bishop desireth a good work.” He wished to explain what episcopus means; that it is a title denoting work, not dignity. For it is a Greek word derived hence;—that he who is put over others overlooks those whom he is put over, to wit, as taking care of them; for episcopacy is overlooking. Therefore, if we choose, we may say in Latin that to exercise the office of a bishop is to overlook; so that one who delights to be over others and not to profit them may understand that he is no bishop. For so it is that no one is prohibited from longing to become acquainted with truth, for which purpose leisure is to be commended; but as to a position of superiority, without which the people cannot be governed, though it may be held and administered becomingly, it is unbecoming to covet it. Wherefore charity
 
-1465
-
 This and the succeeding quotations from the works of the Fathers are inaccurately given, and in places hardly intelligible. Where this is so, the original passages have been followed in the translations.
-
-613
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1645,8 +1163,6 @@ NPNF212. Leo the Great, Gregory the Great
 Philip Schaff
 
 seeks holy leisure, so as to have time for perceiving and defending the truth. But if \[the burden of government\] be imposed, it is to be undertaken on account of the obligation of charity. But not even so should delight in the truth be altogether forsaken, lest the former sweetness should be withdrawn, and the present obligation be oppressive (Lib. viii. de Trinit, num. 1). Saint Gregory attests, whose style thou followest, and after whose example thou didst desire to hide thyself in order to avoid the weight of priesthood; which weight, of what sort it is, is clearly declared in the whole of thy book: and yet thou bearest what thou wast afraid of. For thy burden is borne upwards, not downwards; not so as to sink thee to the depths, but to lift thee to the stars; whilst by the grace of GOD, and the merit of obedience, and the efficiency of good work, that is made sweet which seemed to have heaviness through human weakness. For thou sayest the things that are in agreement with the apostles and with apostolic men. For, being fair, thou hast said things fair, and in them hast shewn thyself fair. I would not have thee liken thyself to an ill-favoured painter painting fair things, seeing that spiritual teaching issues from a spiritual soul. The human painter is by most men esteemed more highly than the inanimate picture. But put not this down to flattery or adulation, but to truth: for it neither becomes me to lie, nor thee to commend what is false. I then, though plainly sincere, have seen thee and all that is thine to be fair, and have seen myself as ill-favoured enough in comparison with thee. Wherefore I thee pray by the grace of GOD which abounds in thee that thou reject not my prayer, but willingly teach me what I confess myself ignorant of. For we are compelled of necessity to do what thou teachest. For, when there is no skilled person found for the sacerdotal office, what is to be done but that an unskilled one such as I am, should be ordained? Thou orderest that no unskilled one should be ordained. But let thy prudence consider whether it may not suffice him for skill to know Jesus Christ and Him crucified: for, if this does not suffice, there will, according to this book, be no one who can be called skilled: and so no one will be a priest, if none, unless he be skilled, should be one. For with open front we resist bigamists, lest the sacrament should be thus corrupted. What if the husband of one wife should have touched a woman before his wife? What if he should not have had a wife, and yet should not have been without touch of a woman? Comfort us with thy pen, that we may not be punished either for our own sin or that of others. For we are exceedingly afraid lest we should be forced to do what we ought not to do. Lo, obedience must be paid to thy precepts, that such a one may be made a priest as apostolical authority approves; and such a one as is sought is not found. Thus faith will cease which cometh of hearing; baptism will cease, if there should be no one to baptize; those most holy mysteries will cease which are effected through priests and ministers. In either case danger remains: either such a one must be ordained as ought not to be, or there must be no one to celebrate or administer sacred mysteries. A few years ago Leander, Bishop of Hispalis, on his return from the royal city, saw us in passing, and told us that he had some homilies issued by your Blessedness on the Book of Job. And, as he passed by in haste, he did not shew them to us as we requested. But thou wrotest afterwards to him about trine immersion, and saidest in thy letter, as I am told, that thou wast dissatisfied with that
-
-614
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1658,15 +1174,9 @@ Book III. 122b
 
 Epistle I. To Peter, Subdeacon. Gregory to Peter, Subdeacon of Campania. What a crime has been committed in the Lucullan fort against our brother and fellow-bishop Paul1467 the account which has been sent to us has made manifest. And, inasmuch as the magnificent Scholasticus, judge of Campania, happens at the present time to be with us here, we have especially enjoined on him the duty of visiting the madness of so great perversity with strict correction. But, since the bearer of the aforesaid account has requested us to send some one to represent ourselves, we therefore send the subdeacon Epiphanius, who, together with the aforesaid judge, may be able to investigate and ascertain by whom the sedition was raised or investigated, and to visit it with suitable punishment. Let thy Experience then make haste to give aid in this case with all thy power, to the end both that the truth may be ascertained, and that vengeance may proceed against the guilty parties. Wherefore, since the slaves of the glorious Clementina are said to have had to do with this same crime, and to have used language calculated to stir up the sedition, do thou subject them
 
-1466
-
 See I. 43.
 
-1467
-
 The Castellum, or Castrum, Lucullanum was a small island adjoining Naples. Respecting Paul, bishop of Nepe, who had been sent as visitor to the See of Naples during a vacancy, and his difficulties there, cf. II. 9, 10, 15; III. 35.
-
-615
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1680,11 +1190,7 @@ Epistle II. To Paulus, Bishop1468.
 
 Gregory to Paulus, &c. Although it has distressed us in no slight degree to hear of the injury that thou hast suffered, yet we have matter of consolation in learning that the affair is to thy credit, in that, so far as the account sent to us has disclosed the facts, thou hast suffered in the cause of uprightness and equity. Wherefore, that it may redound to the greater glory of thy Fraternity, this occurrence ought neither to shake thy constancy nor turn thee aside from the way of truth. For it is to the greater reward of priests if they continue in the path of truth even after injuries. But, lest the madness of such great impiety should remain unpunished, and pernicious insubordination break out to a worse degree, we have enjoined the magnificent Scholasticus, judge of Campania, who is at present here, that he should avenge what has been done with the repression it deserves. But, inasmuch as thy men have requested us to commission some one to represent ourselves, know that we have for this reason sent to Naples the subdeacon Epiphanius, who may be able, with the judge above named, to investigate and ascertain the truth, to the end that by his instancy he may cause worthy vengeance to be executed on those who may be shewn to have instigated or perpetrated so great a crime.
 
-1468
-
 See preceding Epistle.
-
-616
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1694,17 +1200,11 @@ Epistle III. To John, Abbot1469. Gregory to John, &c. Thy Love has requested me 
 
 Probably John, abbot of the monastery of St. Lucia in Syracuse, referred to as engaged in a dispute about property in VII.
 
-1469
-
 39\. 1470
 
 See II. 32, note 5.
 
-1471
-
 This tunic is referred to by John the Deacon (Vit. S. Greg. iii. 57, 59), and supposed by him to have been that of St. John the Evangelist, and identical with one of the vestments afterwards preserved under the altar of St. John in the Basilica Constantiniana at Rome, fragments of which he says were given away as relics, and possessed of miraculous virtue.
-
-617
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1715,8 +1215,6 @@ Epistle V. To Peter, Subdeacon. Gregory to Peter, Subdeacon of Campania. As we h
 Epistle VI. To John, Bishop. Gregory to John, bishop of Prima Justiniana1472. 1472
 
 As to the See of Prima Justiniana, the Metropolitan jurisdiction assigned to it by the Emperor Justinian, and the vicariate jurisdiction that had been transferred to it from Thessalonica by the popes, see note on Lib. II., Ep. 22. The circumstances referred to in this and the following letter are interesting as shewing, among other things, the relations of the See of Rome to the Church in Illyricum, and the action of the Emperors with regard to it. They may be epitomized as follows. Thebæ Phthioticæ was a See in the province of Thessalia, of which Larissa was the Metropolis. But, as appears from what Gregory says in Epistle VII., Thebæ had been for some reason exempted from the metropolitan jurisdiction of the bishop of Larissa by pope Pelagius II. John and Cosmas, two deposed deacons of the Church of Thebæ, had sent a representation to the Emperor, accusing their bishop, Adrian, of defalcations in money matters, and also of certain misdemeanours; the latter being that he had retained in office one of his deacons, Stephen, whose shameful life was notorious, and that he had ordered baptism to be refused to certain infants, who had consequently died unbaptized. The Emperor (Mauricius) referred the matter to John, bishop of Larissa, as Metropolitan of Thessalia, who, notwithstanding the exemption of Thebæ from his jurisdiction by pope Pelagius II., took it up, and decided against Adrian, at any rate with respect to his alleged pecuniary defalcations. Adrian appealed against this decision to the Emperor, who thereupon deputed certain persons (not bishops) to enquire and report, and, on receiving their report, exempted Adrian from further proceedings, sending an order to that effect to the Bishop of Corinth, who was Metropolitan of the adjoining province of Achaia. Meanwhile John of Larissa had imprisoned Adrian, and elicited from him (under compulsion, it was said) an ambiguous confession of his guilt, and also obtained from the Emperor a second order committing the reinvestigation
-
-618
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1730,8 +1228,6 @@ and final adjudication of the case to John, bishop of Prima Justiniana, who conf
 
 Otherwise he could not have been examined by scourging, as it appears he was. For clerics were by law exempt from the question.
 
-619
-
 NPNF212. Leo the Great, Gregory the Great
 
 125b
@@ -1742,11 +1238,7 @@ in the proceedings themselves, whether in the depositions of witnesses or in the
 
 Epistle VII. To John, Bishop. Gregory to John, bishop of Larissa. Our brother Adrian, bishop of the city of Thebæ, has come to Rome, bitterly complaining of having been condemned, neither lawfully nor canonically, on certain charges by thy Fraternity, and also by John, bishop of Prima Justiniana. And, when for a long time we saw no representative of the opposite party arrive here who might have replied to his objections, we delivered for perusal1474, with a view to the necessary ascertainment of the truth, the proceedings which had taken place before you. From these we ascertained that John and Cosmas, deacons who had been deposed from
 
-1474
-
 “Relegenda tradidimus,” not “relegimus;” presumably because, the Acts being drawn up in Greek, Gregory was unable to read them himself.
-
-620
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1754,11 +1246,7 @@ Philip Schaff
 
 their office, one for frailty of the body and the other for fraudulent dealing with ecclesiastical property, had sent a representation to our most pious emperors against him, with respect to pecuniary matters and also criminal charges. They, in their commands sent to thee, desired thee (that is with strict observance of law and canons) to take cognizance of the matter so as to pass a sentence firm in law as to the pecuniary questions, but, as to the criminal charges, to report to their Clemency after a searching examination. Now if thy Fraternity had received in a right frame of mind these such right commands, you would never have accepted for a general accusation of their bishop men removed from their own office for their transgressions, and already hostilely disposed; especially as by their representation addressed to our most pious lords their untruthfulness is detected, in that they declared that they made it with the consent of all the clergy. Yet after this, to touch briefly and summarily on some of the proceedings before thee, the first head of accusation was concerning the Theban deacon Stephen, whom the bishop Adrian had failed to deprive of the dignity of his order, though supposed to have been aware of his most shameful life. As to this head, no witnesses were produced to show that bishop Adrian had any knowledge of the matter, except that Stephen alone, a man of shameful life and on his own confession to be condemned, is alleged to have said so. The second charge made against him appears to have been concerning infants having been debarred by his order from receiving holy baptism, and so having died with the filth of sin unwashed away. But none of the witnesses brought forward against him declared their knowledge of anything of the kind having come under the notice of bishop Adrian, but said that they had learnt it from the mothers of the infants, whose husbands, it is said, had been removed from the church for their crimes. But even so they did not declare that the hour of death had overtaken those infants while unbaptized, as was contained in the invidious representation of the accusers, it being evident that they had been baptized in the city of Demetrias. So much then for the criminal charges. But, as to the pecuniary matters, after what manner they were adjudged by thee is attested by the enquiry of the men deputed by the prince in pursuance of the most pious order of the most serene princes1475. For, when the oft-named Adrian had appealed against thy sentence, then, so far as we have ascertained from the depositions of four witnesses which were laid before John, bishop of Prima Justiniana, he was thrust into most close confinement, and forced by thy Fraternity to produce a document in which he confessed the charges brought against him. And it is true that in the document so produced by him he is found to have assented to thy sentence as to pecuniary matters. But the criminal charges he touched on in an indefinite and dubious sort of way, so that both thy purpose might be frustrated by the raising of certain clouds, and he might afterwards the better escape from his confession in the obscurity of a perplexed mode of speech. And when the appeal handed in by his people, and the rest of the proceedings under thy cognizance, had been
 
-1475
-
 The Emperor Mauricius had associated his son Theodosius, being four years of age, with himself in the empire. Hence “princibus.”
-
-621
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1768,11 +1256,7 @@ Philip Schaff
 
 reported to the most pious princes, and Honoratus, deacon of our See, with the glorious antigraphus1476 Sebastian having been deputed, as we have said, he was exempted by the most serene lords from all further orders. But, by what sought out contrivances I know not, another imperial order was again elicited, requiring John, bishop of Prima Justiniana, to enquire closely and pass judgment concerning all the aforesaid charges. In which trial all bishop Adrian’s clergy, and Demetrius the deacon, the latter in the midst of torments, declared that all this calumny against bishop Adrian had been got up by the contrivance of thy Fraternity. Nor were any of the criminal charges that had been made in thy audience against the bishop Adrian proved. But there came up, contrary to canons and laws, another cruel and crafty enquiry directed against his deacon Demetrius and other persons, in the course of which nothing was discovered for which the oft-mentioned Adrian could have been lawfully condemned, but rather ground for his acquittal. But with respect to John, prelate of the city of Prima Justiniana, and his most iniquitous and abominable judgment, we shall take further measures. As to bishop Adrian, we find both that he has laboured under thy enmity in a way ill-befitting thy priestly character, and that he has been condemned in pecuniary matters for no just cause by the sentence of thy Fraternity. Since then, having been deposed also by the above-said John bishop of Prima Justiniana in contravention of law and canons, he could not be left deprived of his rank and honour, we have decreed that he be reinstated in his church, and recalled to the order of his proper dignity. And, though thou oughtest to have been deprived of the communion of the LORD’S body, for that, setting at naught the admonition of my predecessor of holy memory, whereby he exempted him and his church from the jurisdiction of thy authority, thou hast again presumed to retain some jurisdiction over them, yet we, decreeing more humanely, and still allowing thee the sacrament of communion, decree that thy Fraternity shall abstain from all exercise of the jurisdiction formerly held by thee over him and his church; but that, according to the written instructions of our predecessor, if any case should possibly arise, whether touching the faith, or criminal, or pecuniary, against the aforesaid Adrian our fellow-priest, it be either taken cognizance of, if the question be a slight one, by those who are or may be our representatives in the royal city, or, if it be an arduous one, it be brought hither to the Apostolic See, to the end that it may be heard and decided before ourselves. But, if thou shouldest attempt at any time, on any pretext or by any surreptitious device, to contravene these our ordinances, know that we decree thee to be deprived of holy communion, and not to partake of it except at the close of thy life, unless upon leave granted by the Roman pontiff. For this we lay down as a rule, agreeably to the teaching of the holy fathers, that whosoever knows not how to obey the holy canons, neither is he worthy to minister or receive the communion at the holy altars. Moreover let thy Fraternity restore to him without any delay the sacred property, or any other, movable or immovable, which thou art said to retain so far; a specification whereof, that has been handed to us, we append to this letter. Concerning which if any question arises between you, we desire it to be considered by our representative in the royal city.
 
-1476
-
 See I. 39, note.
-
-622
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1782,19 +1266,11 @@ Epistle VIII. To Natalis, Archbishop. Gregory to Natalis, archbishop of Salona14
 
 Epistle IX. To Antoninus, Subdeacon1479.
 
-1477
-
 Natalis was Metropolitan of the province of Dalmatia. See note II. 18, note 3.
-
-1478
 
 I.e. episcopal rank. Here, as below in this Epistle and elsewhere, by sacerdotes are meant bishops.
 
-1479
-
 I.e. of Dalmatia. The case referred to in this and the preceding letter is interesting as illustrating canonical procedure against incriminated bishops. Natalis as Metropolitan, had entertained a charge against one of his suffragans and pronounced judgment against him on his own authority. Gregory insists that he had no right to do so except in a synod of bishops. It appears that Natalis (as to whose character and relations to Gregory, see II. 18, and reff. in note), paid no regard in this instance to the pope’s remonstrances, and the latter found no means of enforcing his orders. For, in a letter written five years later (A.D. 597), long after the death of Natalis, we find Gregory writing, “The inhabitants of the city of Epidaurus have most urgently demanded that Florentius, who they say is their bishop, should be restored to them by us, asserting that he had been driven into exile invalidly by the mere will of the bishop Natalis.” (Lib. viii. Indict. i. Ep. 11).
-
-623
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1804,11 +1280,7 @@ Gregory to Antoninus, &c. It has come to our ears that Florentius, bishop of the
 
 Epistle X. To Savinus, Subdeacon1480. Gregory to Savinus, &c. Bad men have gone forth and disturbed your minds, understanding neither what they say nor whereof they affirm, pretending that in the times of Justinian of pious memory something was detracted from the faith of the holy synod of Chalcedon, which with all faith and all devotion we venerate. And in like manner all the four synods of the holy universal Church we receive as we do the four books of the holy Gospel. But concerning the persons with respect to whom something had been done after the close of the synod, there was something ventilated in the times of Justinian of pious memory: yet so that neither was the faith in any respect violated, nor anything else done with regard to these same persons but what had been determined at the same holy synod of Chalcedon. Moreover, we anathematize any one who presumes to detract anything from the definition of the faith which was promulgated in the said synod, or, as though by amending it, to change its meaning: but, as it was there promulged, so in all respects we guard it. Thee, therefore, most dear son, it becomes to return to the unity of Holy Church, that thou mayest end thy days in peace; lest the malignant spirit, who cannot prevail against thee through thy other works, may from this cause find a way at the day of thy departure of barring thy entrance into the heavenly Kingdom.
 
-1480
-
 It does not appear who this Savinus was. The Epistle refers to the condemnation of the Three Chapters by the fifth General Council. See Proleg. p. xi.
-
-624
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1822,15 +1294,9 @@ Epistle XV. To Scholasticus, Judge.
 
 Gregory to Scholasticus, judge of Campania. While we were greatly distressed in our care for the city of Naples, bereaved of the solace of a priest1482, the arrival of the bearers of these presents with the decree for the election of our subdeacon Florentius, had afforded us some relief under so great a burden of thought. But, when it appeared that our said subdeacon, flying from the very city, had deprecated his ordination with tears, know ye that our sadness increased, as if from some heavier dispensation. Wherefore, greeting you well, we exhort your Greatness to assemble the chief men or the people of the city, so as to take thought for the election of another, who may be worthy to be promoted to the priesthood with the consolation of Christ. Then, the decree having been solemnly passed, and transmitted to this city, let the ordination proceed, with the help of Christ, among yourselves. But, should you not find a suitable person on whom you can agree, at any rate choose ye three upright and wise men, to be sent to this city as representing the community, and to whose judgment the whole population may assent. Perhaps, when they come hither, they will find such a one as may be ordained as your bishop without reproach, to the end that your bereaved city may neither within itself want an inspector of its deeds, nor, when the care of a priest is supplied to it, afford entrance to hostile snares from without.
 
-1481
-
 Cf. I. 72.
 
-1482
-
 For an account of the circumstances of the vacancy at Naples after the deposition of Demetrius, cf. II. 6, note 3; II. 9, note 6.
-
-625
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1838,11 +1304,7 @@ Philip Schaff
 
 Epistle XXII. To Antoninus, Subdeacon. Gregory to Antoninus, Subdeacon, Rector of the patrimony in Dalmatia. It is commonly reported in these parts that our brother and fellow-bishop, Natalis of the Church of Salona, is dead. If this is true, let thy Experience with all speed and all care hasten to admonish the clergy and people of that city that with one consent they elect a priest for ordination; and, when the nomination of the person who may be elected has been made, thou wilt take care to transmit it to us, that he may be ordained with our consent, as has been the case from ancient times. And this above all things thou must look to, that in this election neither any bribery in any way whatever come in, nor the patronage of any persons whatever prevail. For if one is elected through the patronage of certain persons, he is obliged out of deference to them to comply with their wishes after his ordination, and so it comes to pass that the possessions of that church are lessened, and ecclesiastical order is not maintained. They must, therefore, under thy superintendence, elect such a person as will not be unsuitably subservient to the will of any one, but one who in the adornment of his life and conversation may be found worthy of such a high degree. But of the possessions or ornaments of the same church cause an inventory to be faithfully written out in thy presence. And, lest any of the possessions themselves should be lost, admonish Respectus the deacon and Stephanus the chief notary (primicerium notariarum) to take sole charge of these possessions, warning them that they will have to make good out of their own substance any diminution of them that may have arisen from their negligence. Moreover, strictly charge Malchus1483, our brother and fellow-bishop, that he refrain entirely from intermeddling in this matter. For, should we learn that anything has been done or attempted by him against our will, let him know that he will incur no slight guilt and danger. But of this also take care to warn him, that he must be careful to set down and complete the accounts of our patrimony which he has had in charge; for doing which let him make haste, laying aside all excuses, to come to us from the Sicilian parts. Let him, then, in no wise presume to meddle with the affairs of the Church of Salona, lest he should be under further liability to it, and possibly found culpable. For he is said to have many things belonging to the aforesaid church; and report goes that he was well-nigh the prime mover in the sale of its possessions, and in other unlawful doings. And, should this be found in manifest truth to be as it is said to be, he may be certain that it will by no means remain unavenged. Let any necessary expenses be defrayed by the steward who was in office at the time of the aforesaid bishop’s death, that so he may explain his accounts to the future bishop as he knows them to be. All the things that we have enjoined on thee to be done it is certainly necessary that thou
 
-1483
-
 For an account of this Malchus and his doings, see II. 20, note 5.
-
-626
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1856,15 +1318,9 @@ Epistle XXIX. To the Presbyters and Clergy of Mediolanum (Milan)1485.
 
 Gregory to the presbyters, deacons, and clergy of the church of Mediolanum. We have received your Love’s epistle, which, though it bore no subscription, was accredited by the persons of the bearers, the presbyter Magnus and the cleric Hippolytus. Having read it, we find that you are all agreed in favour of our son Constantius, deacon of your church, who has been well known to me for long. And, when I represented the Apostolical See in the royal city, he stuck close to me for a long time; but I never found anything in him that could at all be found fault with. Nevertheless, since it has been for long my deliberate determination to interfere in no man’s favour with a view to his undertaking the burden of pastoral care, I can but follow up your election with my prayers that Almighty GOD, who is ever prescient of our future doings, may supply you with a pastor such that in his tongue and manners you may be able to find pastures of divine exhortation; one in whose disposition humility may shine forth together with rectitude, and severity with loving-kindness; one who may be able to shew you the way of life not in his speaking only but also in his living; that so from his example your love may learn to sigh with longing for the eternal country. Wherefore, most dear sons, we, warned by our sense of the censorship of our office, urge you in this matter of getting yourselves a bishop that none of you look to your own gain without regard to the common advantage, lest, if any one is eager after his own individual interest, he should be deceived by a frivolous estimate: for the mind that is bound by cupidity does not examine with
 
-1484
-
 Proconsul of Dalmatia: see IX. 5. For subsequent proceedings in connexion with the election of a successor to Natalis at Salona, see III. 47. It appears that the co-operation of the proconsul Marcellus, anticipated in this Epistle, was not in fact obtained, but that he acted independently, and in opposition to Gregory. Cf. IX. 5.
 
-1485
-
 As to the great Metropolitan See of Milan having been anciently independent of the See of Rome, cf. Bingham. Bk. IX., Ch. I., Sect. 10, 11. As to Pope Gregory’s attitude with regard to it, as shewn in this and the two following Epistles, we may remark as follows. (1) The electors addressed (Ep. 29) are the clergy only, not (as is usual in other cases) including the laity of the Church. This may be due to the ancient custom of that Church. (2) The electors, having already made their choice, seem to have sent messengers to announce it to the pope (Ep. 29). (3) Gregory disclaims all desire of interfering either in the election or in the consecration of the new Metropolitan, according to ancient custom by his own suffragans, or in any way infringing the prescriptive rights of the Church of Milan. But he sends his own subdeacon, both to assure himself of the unanimity of the election and to see to the consecration being effected according to precedent. He also intimates (Epp. 30, 31) the necessity of his own assent to the consecration.
-
-627
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1873,8 +1329,6 @@ Philip Schaff
 a free judgment a person’s claims to preference. Considering, therefore, what things are profitable for all, pay ye ever in all things most complete obedience to him whom Divine grace may put over you. For, when once put over you, he must not be further judged by you; though now he ought to be the more thoroughly judged as he may not be judged hereafter. But, when with GOD’S leave a pastor has been consecrated for you, commit ye yourselves to him with all your heart, and in him serve the LORD the Almighty, who has put him over you. But, inasmuch as supernal judgment is wont to provide pastors for peoples according to their deservings, do you seek spiritual things, love heavenly things, despise things temporal and fugitive; and hold it for most certain that you will have a pastor who shall please GOD, if you in your own doings please GOD. Lo, all the things of this world, which we used to hear from the sacred page were doomed to perish, we see already ruined. Cities are overthrown, camps uprooted, churches destroyed; and no tiller of the ground inhabits our land. Among ourselves who are left, very few in number, the sword of man incessantly rages along with calamities wherewith we are smitten from above. Thus we see before our eyes the evils which we long ago heard should come upon the world, and the very regions of the earth have become as pages of books to us. In the passing away, then, of all things, we ought to take thought how that all that we have loved was nothing. View, therefore, with anxious heart the approaching day of the eternal judge, and by repenting anticipate its terrors. Wash away with tears the status of all your transgressions. Allay by temporal lamentation the wrath that hangs over you eternally. For our loving Creator, when He shall come for judgment, will comfort us with all the greater favour as He sees now that we are punishing ourselves for our own transgressions. We are now sending to you, by the favour of GOD, John our subdeacon, the bearer of these presents, to this end;—that, with the help of Almighty GOD, he may see to your bishop-elect being consecrated after the manner of his predecessor. For, as we demand our rights from others, so we conserve their several rights to all.
 
 Epistle XXX. To John, Subdeacon. Gregory to John, &c. Inasmuch as it is manifest that the Apostolic See is, by the ordering of GOD, set over all Churches, there is, among our manifold cares, especial demand for our attention, when our decision is awaited with a view to the consecration of a bishop. Now on the death of Laurentius, bishop of the church of Mediolanum, the clergy reported to us that they had unanimously agreed in the election of our son Constantius, their deacon. But, their report not having been subscribed, it becomes necessary, that we may omit nothing in the way of caution, for thee to proceed to Genua (Genoa), supported
-
-628
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1888,15 +1342,9 @@ Epistle XXXI. To Romanus, Patrician. Gregory to Romanus, Patrician, and Exarch o
 
 Epistle XXXII. To Honoratus, Archdeacon. Gregory to Honoratus, Archdeacon of Salona1487.
 
-1486
-
 The reason of John the subdeacon being directed to go to Genoa rather than to Milan may have been danger from the Lombards in approaching the latter place, as well as the fact of many of the Milanese having, for the same reason, taken refuge in Genoa.
 
-1487
-
 See I. 19, note 5.
-
-629
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1906,11 +1354,7 @@ The mandates of ourselves and of our predecessor had reached thy Love not long a
 
 Epistle XXXIII. To Dynamius, Patrician. Gregory to Dynamius, Patrician of Gaul. He who administers faithfully what is other’s shews how well he dispenses what is his own. And this your Glory makes manifest to us in that, intent on your annual offering, you have rendered the blessed Peter, Prince of the apostles, the fruits of his revenues. In paying him what is his faithfully, you have made these gifts to him your own. For indeed it becomes the glorious people of this earth who think of eternal glory so to act that in virtue of their excelling in temporal power, they may procure for themselves a reward that is not temporal. Accordingly, addressing to you the greeting which we owe, we implore Almighty GOD both to replenish your life with present good, and to extend it to the lofty joys of eternity. For we have received through our son Hilarus (al Hilarius) of the aforesaid revenues of our Church four hundred Gallican solidi1488. We now send you as the benediction of the blessed apostle Peter a small cross, wherein are inserted benefits from
 
-1488
-
 As to Gallic money, cf. VI. 7, and note.
-
-630
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1924,15 +1368,9 @@ Epistle XXXV. To Peter, Subdeacon. Gregory to Peter, subdeacon of Campania1490. 
 
 Epistle XXXVI. To Sabinus, Guardian (Defensorem). Gregory to Sabinus, Guardian of Sardinia.
 
-1489
-
 Cf. I. 26, note 3.
 
-1490
-
 See II. 6, note 3.
-
-631
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1942,15 +1380,9 @@ Certain serious matters having come to our ears which require canonical correcti
 
 Epistle XXXVIII. To Libertinus, Præfect1491. Gregory to Libertinus, Præfect of Sicily. From the very beginning of your administration GOD has willed you to go forth to vindicate His cause, and of His mercy has reserved for you this reward, with praise attending it. For it is reported that one Nasas, a most wicked Jew, has with a temerity that calls for punishment erected an altar under the name of the blessed Elias, and by sacrilegious seduction has enticed many Christians to worship there; nay, has also, it is said, acquired Christian slaves, and devoted them to his own service and profit. Whilst, then, he ought to have been most severely punished for such great crimes, the glorious Justinus1492, soothed (as has been written to us) by the charm of avarice, put off avenging the injury done to GOD. But let your Glory institute a strict examination into all these things, and, if it should be found manifest that such things have been done, make haste to
 
-1491
-
 In some MSS. prætori, in others exprætori. It seems probable from the contents of this letter that Libertinus had succeeded Justinus (see I. 2) as prætor of Sicily.
 
-1492
-
 See I. 2.
-
-632
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1962,15 +1394,9 @@ visit them most strictly and corporally on this wicked Jew, in such sort that yo
 
 Epistle XLV. To Andrew, Bishop. Gregory to Andrew, Bishop of Tarentum \[Taranto, in Calabria\]. A man may look without alarm to the tribunal of the eternal Judge, if only, conscious of his own guilt, he strives to pacify Him by befitting penitence. Now that thou hadst a concubine we find to be manifestly true, with regard to whom also an adverse suspicion has arisen in the minds of some. But, since in doubtful cases judgment ought not to be absolute, we have chosen to leave the matter to thine own conscience. If, then, after being constituted in sacred orders thou rememberest having been defiled by carnal intercourse, thou must resign the dignity of priesthood, nor presume by any means to approach its ministration, knowing that thou wilt administer it to the peril of thy soul, and without doubt have to render an account to our GOD, if, being conscious of this crime, thou shouldest desire to continue in the order wherein thou art, concealing the truth. Wherefore we again exhort thee that, if thou knowest thyself to have been deceived by the craft of the ancient foe, thou hasten to overcome him, while thou mayest, by adequate penitence, lest, as we hope may not be, thou be reckoned as partner with him in the day of judgment. If, however, thou art not conscious of this guilt, thou must needs continue in the order wherein thou art. Furthermore, since, against due order, thou didst doom a woman on the Church-roll1494 to be cruelly beaten with cudgels, although we do not think that she died eight months afterwards, yet, because thou hast had no regard to thy order, we therefore sentence thee to abstain for two months from the administration of mass. Meanwhile, being suspended from thy office, it will become thee to weep for what thou hast done. For it is very right that, now that the examples of praiseworthy
 
-1493
-
 In Cod. lib. 1, tit. 10; “Judæus servum Christianum nec comparare debebit, nec largitatis aut alioquocunque titulo consequetur. Quod si aliquis Judæorum…, non solum mancipii damno multetur, verum etiam capitali sententia puniatur.” Eusebius also (De Vita Constantini, lib. iv. c. 27) speaks of a law passed by Constantine forbidding Jews to have Christian slaves, and ordering any that might be found to be set at liberty, and the Jew to be fined. Cf. II. 21.
 
-1494
-
 Mulierem de matriculis. Matricula was probably a list or roll of names of widows and other who were supported by the Church.
-
-633
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -1984,15 +1410,11 @@ Epistle XLVII. To the Clergy of the Church of Salona1495. 1495
 
 For notice of the Metropolitan See of Salona, and Gregory’s dealings with its former bishop Natalis, see II. 18, note 3. The appointment of a successor to Natalis engaged Gregory in a long struggle for maintenance of his authority over the Illyrican churches, which on this occasion seems to have been, for some time at least, slightly regarded. What took place, as gathered from his extant letters, may be thus summarised. Immediately on hearing of the death of Natalis he wrote to Antoninus, the rector patrimonii in Dalmatia, charging him to see to the canonical election of a successor and to its notification, when made, to himself, that it might be approved, as was customary, by the See of Rome (III. 22). This was in the 11th Indiction, i.e. between Sept. A.D. 592 and Sept. A.D. 593. Subsequently. having been informed that the clergy of Salona had elected their archdeacon Honoratus, he wrote to them in the letter before us approving their choice, and exhorting them to stick to it, being evidently
 
-634
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
 
 aware of a party opposed to it. This Honoratus was the man whom he had previously supported against Bishop Natalis, who had attempted to deprive him of his archdeaconry. See II. 18, 19, 20; III. 32. Hence it was not improbable that the election of Honoratus would be opposed by the partizans of the late bishop who, as appears from his correspondence with Gregory, had been a convivial man, with a pleasant vein of wit, and thus likely to be popular with many. But, whatever the cause, Gregory before long received the startling intelligence that not only had the election of Honoratus, confirmed by himself, been set aside, but that another candidate, one Maximus, had been actually ordained under the alleged authority of an order from the Emperor. This defiance of his authority was the more offensive as he had already, having apparently got wind of the candidature of Maximus, prohibited his ordination under pain of excommunication of both him and his ordainers (IV. 10). He accordingly wrote a strongly-worded letter (IV. 20), dated May, A.D. 594, prohibiting Maximus from undertaking any episcopal functions, and from officiating at the altar, till it should be ascertained whether the emperor had really ordered his consecration. But Maximus treated this prohibition with contempt and appealed against the Pope to the Emperor, who thereupon wrote to Gregory, requesting him to condone the fact of the ordination having taken place without his assent, and bidding him receive Maximus with honour if he should resort to Rome, as he was apparently desired to do. This was at the time when John Jejunator, the patriarch of Constantinople, had recently incensed Gregory by his assumption of the title of Universal Bishop, and when the latter was urging the Emperor to disallow the title. Writing on this subject to the Empress Constantina, he alludes also to the case of Maximus, hoping through her whose religious reverence for St. Peter he appeals to, to move the Emperor. In his letter to her (V. 72), written in the 13th Indiction (594–5), he consents, in deference to the Emperor’s wish, to look over the fact of Maximus having been ordained without his leave; but he insists on his appearing at Rome to answer to other charges, including especially that of simony, and his having disregarded the excommunication pronounced against him. He also protests strongly against his bishops being allowed to appeal to the secular power in ecclesiastical causes. But he did not thus move the Emperor, who appears from one of Gregory’s letters to Maximus (VI. 25) to have directed any charges against the latter to be entertained in his own locality rather than at Rome. Meanwhile Maximus continued to disregard Gregory’s repeated letters summoning him to Rome, being apparently supported by a majority of his own people and of his suffragan bishops. For in a letter to the Salonitans (VI. 26), written in the 14th Indiction (395–6), Gregory expresses his surprise that Honoratus alone among the clergy of Salona, and one only of the suffragan bishops, had refused to communicate with Maximus, notwithstanding his excommunication. However, as time went on, Gregory’s persistence seems to have had some effect. In the 15th Indiction (596–7) one of the suffragan bishops, Sabinianus of Jadera, who had previously communicated with Maximus, deserts him, and is invited by Gregory to come to Rome to be absolved, and to bring with him any other whom he could persuade to come (VII. 15). Sabinianus did not go, but retired for a time to a monastery by way of expressing penitence, after which Gregory in the following year granted him full absolution (VIII. 10, 24). Perhaps about a year later, in the 2nd Indiction (IX. 5), we find Gregory writing to Marcellus, the proconsul of Dalmatia, in reply to a letter from him in which he had expressed his regret for being apparently out of favour with the pope, and his wish to be reconciled. This Marcellus had been, according to what Gregory says in his reply, the prime and original abettor of Maximus; and it would seem that he had now become desirous of coming to terms with the pope. In the same year we find a letter to one Julianus, described as Scribo, at Salona, who had addressed Gregory with a view to peace, asserting that Maximus enjoyed both the affection of his people and the favour of the court (IX. 41). In replying to both these correspondents Gregory shews no signs of giving way: but in the same Indiction (588–9) he did give way to an extent that seems at first sight surprising, considering the resolute tone of his previous correspondence. He may have been partly moved to make some concession by such letters as those from Marcellus and Julianus, testifying to the character
-
-635
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2006,8 +1428,6 @@ of Maximus and to the support he continued to receive; but the intercessor who r
 
 See III. 22.
 
-636
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -2018,15 +1438,9 @@ Epistle XLVIII. 134b
 
 To Columbus, Bishop1497. Gregory to Columbus, &c. Even before receiving thy Fraternity’s letter, I knew thee from the report of thy deserved reputation to be a good servant of GOD. And now that I have received it, I understand more fully that what fame had already spread abroad was well founded; and I greatly rejoice in thy deserts, in that thou exhibitest manners and deeds that testify to a praiseworthy life. Since, then, I feel that these things are conferred on thee by the Supernal Majesty, I congratulate thee; and I bless GOD our Creditor, who denies not the gifts of His mercy to His humble servants. On this account I declare it to be true that thy Fraternity so kindles me with the flame of charity to love thee, and my spirit is so united to thee, that I both desire to see thee and am also with thee in heart, though absent. Thou perceivest in thine own thoughts that this is so. For in truth unity of minds in charity has power to unite more than bodily presence can. Furthermore, that with thy whole mind, thy whole heart, thy whole soul, thou cleavest and art devoted to the Apostolic See I am now assured, as, indeed before thy letter had borne testimony to the fact, I plainly knew. Wherefore, first addressing thee with the greeting of charity which is due, I exhort thee not to cease to be mindful of what thou hast promised to the blessed Peter, Prince of the apostles. Wherefore be thou urgent with the primate of thy synod1498, that boys be in no wise admitted to sacred orders, lest they fall by so much the more dangerously as they hasten more speedily to mount to higher places. Let there be no venality in ordination: let not the influence or entreaty of any persons obtain anything in contravention of these our prohibitions. For without doubt GOD is offended if any one is promoted to sacred orders, not for merit, but by favour (which GOD forbid) or venality. If, then, thou art aware of these things being done, keep not silence, but oppose them urgently; since, if perchance thou shouldest neglect them, or conceal them when known of, the chain of sin will bind not those alone who do such things, but no light guilt before GOD will touch thee also in the matter. If, then, anything of the kind is committed, it ought to be restrained by canonical punishment, lest so great a wickedness, with sin in others, acquire strength from connivance.
 
-1497
-
 See II. 48, note 8.
 
-1498
-
 With regard to Primates in Africa, see I. 74, note 9. The primate of Numidia at this time was Adeodatus. See below, Ep. 49.
-
-637
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2040,8 +1454,6 @@ Epistle XLIX. To Adeodatus, Bishop.
 
 Gregory to Adeodatus, Primate bishop of the province of Numidia. After what manner the charity of affection has bound your Fraternity to usward the tenour of your letters has evidently shewn; and they have afforded us great matter of rejoicing, in that we have found them to be composed in a spirit of loving-kindness, and to glow with affection well-pleasing to GOD. As, then, we have briefly said, the epistle which you have addressed to us has so laid open your mind that its author might be supposed not to be absent from us at all. For, indeed, persons are not to be accounted absent whose feelings are not at variance with mutual charity. And though, as you say in your letter, neither your strength nor your age allow you to come to us, that we might be gratified by the bodily presence of your Fraternity, yet, seeing that we are one with you and you with us in feeling, we are entirely present one to the other, while we see each other in a mind made one through love. Furthermore, greeting your Fraternity with the suitable affection of charity, we exhort you that you study with all your heart so to acquit yourself wisely in the office of primacy which under GOD you hold, that it may both profit your soul to have attained to this rank, and that you may stand out as a good example for imitation to others in the future. Be, then, especially careful with regard to ordination; and by no means admit any to aspire to sacred orders but such as are somewhat advanced in age and pure in deeds, lest perchance they cease for ever to be what they immaturely haste to be. For you must first examine the life and manners of those who are to be placed in any sacred order; and, that you may be able to admit such as are worthy to this office, let not the influence or the entreaty of any persons whatever inveigle you. But before all things it behoves you to be cautious that no venality may have place in ordination, lest (which GOD forbid) the greater danger hang over both the ordained and the ordainers. If ever, then, there is need for such things to be taken in hand, call grave and experienced men into your counsels, and consider the matter in common deliberation with them. And before all others it is fit that you should in all cases call in Columbus our brother and fellow-bishop. For we believe that, if you shall have done what is to be done with his advice, no one will find anything in any way to find fault with in you; and know ye that it will be as acceptable to us as if it had been done
 
-638
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -2054,23 +1466,13 @@ Epistle LIII. To John, Bishop. Gregory to John, Bishop of Constantinople1503. 14
 
 See II. 7, note 5.
 
-1500
-
 Domno. “Abbas autem, quia vices Christi agere creditur, Domnus et Abbas vocetur.” Regula S. Benedicti, c. 63.
 
-1501
-
 Domno. “Abbas autem, quia vices Christi agere creditur, Domnus et Abbas vocetur.” Regula S. Benedicti, c. 63.
-
-1502
 
 The miracles attributed to Nonnosus, which are here referred to, are told in Dialog. I. 7, as having been communicated to Gregory by Maximianus and an old monk called Laurio. Nonnosos, at the time when they were wrought, had been Prior under Anastasius of a monastery on the summit of Mount Soracte.
 
-1503
-
 John Jejunator (or the Faster), so called from his ascetic habits. Gregory had known and esteemed him during his residence at Constantinople. See above, III. 4. The occasion of the letter before us was as follows. Two presbyters, John of Chalcedon and Athanasius of Isauria (the latter being also a monk in the monastery of St. Mile in Isauria), had been accused of heresy at
-
-639
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2082,15 +1484,11 @@ Though consideration of the case moves me, yet charity also impels me to write, 
 
 Constantinople, found guilty, and one of them beaten with cudgels in the church. They had gone to Rome to lay their grievances before the pope, who had written to John Jejunator the Patriarch more than once to protest against so uncanonical a punishment. The Patriarch seems to have replied that he knew nothing about the matter: whereupon Gregory sent him this stinging letter. In the following year (593–4), it appears from a letter to Narses, a patrician at Constantinople, that the case was still pending. Narses had reported the Patriarch as wishing to act canonically; and Gregory, doubtfully hoping so, threatens strong measures if it should be otherwise (IV. 32). Afterwards (A.D. 594–5) it seems as if the Patriarch had written on the subject pleasantly: for at the end of a long letter to him protesting against his assumption of the title of “Œcumenical Bishop,” Gregory alludes to his “scripta dulcissima atque suavissima” in the matter of John and Athanasius, promising a reply (V. 18). In the following year (A.D. 595–6) we find that the charges of heresy against the two presbyters had been entertained before Gregory in a Roman synod; and this apparently with the assent of the Patriarch, who had transmitted a statement of the case. John of Chalcedon had been fully acquitted of heresy; but some doubt still remained as to the orthodoxy of Athanasius. Accordingly John was at once sent back to Constantinople with a letter from Gregory to the Patriarch, reversing the sentence against him which had been passed at Constantinople and demanding that he should be received with favour and reinstated. As though doubtful of the Patriarch’s compliance, Gregory addressed also the Emperor, and Theoctistus, a relation of the Emperor’s, requesting them to protect the acquitted appellant (VI. 14, 15, 16, 17). In the same year Athanasius, who had explained or retracted what had been objected to in his writings, was also declared orthodox, and sent back to Constantinople as acquitted. But this was after the death of John Jejunator; and accordingly the letter demanding the reinstatement of Athanasius was addressed to his successor Cyriacus (VI. 66; VII. 5). How John Jejunator would have acted at this stage of the proceedings, had he lived, we have no means of knowing; nor is there record of the action of Cyriacus. The only further reference to the subject in the epistles is in one to the two Patriarchs of Alexandria and Antioch (VII. 34), in writing to whom Gregory sets forth at some length the doctrinal questions that had been treated in the trial of Athanasius, as though desirous of having the assent of those apostolical and patriarchal sees, which (as we have seen) he elsewhere acknowledges as sharing with his own the authority of St. Peter, to the decision come to at Rome. The whole history of the case, which, as has been seen, was protracted through several years, is of some importance as illustrating Gregory’s claim to entertain appeals from Constantinople, and to reverse at Rome what had been decided there, though it is not equally clear, from what is before us in this particular case, how such claims were viewed at Constantinople. On the one hand we find no sign of the appeal of the two presbyters to Rome having been objected to; while on the other, Gregory evidently had his doubts as to whether the Roman decision would be acted on at Constantinople; and whether it was so or not we do not know. The letters about it, above referred to, are III. 53; IV. 32; V. 18; VI. 14, 15, 16, 17, 66; VII. 5, 34.
 
-640
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
 
 For what excuse can a shepherd have if the wolf devours the sheep and the shepherd knows it not? But, if your Holiness knew both what I referred to in my letter and what had been done, whether against John the presbyter or against Athanasius, monk of Isauria and presbyter, and wrote to me, I know not; what can I reply to this, since the Truth says through His Scripture, The mouth that lieth slayeth the soul (Wisd. i. 11)? I demand of thee, most holy brother; has that so great abstinence of thine come to this, that by denial thou wouldest hide from thy brother what thou knewest to have been done? Had it not been better that flesh should go into that mouth for food, than that falsehood should come out of it for deceiving a neighbour; especially when the Truth says, Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man (Matth. xv. 11)? But far be it from me to believe anything of the kind of your most holy heart. Those letters were headed with your name, but I do not think they were yours. I had written to the most blessed lord John; but I believe that that familiar of yours has replied,—that youngster, who as yet has learnt nothing about GOD; who knows not the bowels of charity; who in his wicked doings is accused by all; who daily lays snares against the deaths of divers people by means of concealed wills; who neither fears GOD nor regards men. Believe me, most holy brother, you must first correct this man, that from the example of those who are near to you those who are not near may be better amended. Do not give ear to his tongue: he ought to be directed after the counsel of your holiness; not your holiness swayed by his words. For, if you listen to him, I know that you cannot have peace with your brethren. For I, as my conscience bears me witness, wish to quarrel with no man; and with all my power I avoid it. And, though I desire exceedingly to be at peace with all mankind, it is especially so with you, whom I exceedingly love, if only you are yourself the person whom I knew. For, if you do not observe the canons, and wish to tear to pieces the statutes of the Fathers, I know not who you are. So act, then, most holy and most dear brother, that we may mutually recognize each other, lest, if the ancient foe should move us two to take offence, he slay many through his most atrocious victory. As for me, to shew that I seek to do nothing in a haughty spirit, if that youngster of whom I have before spoken did not hold the topmost place of evil doing with thy Fraternity, I could meanwhile have passed over in silence what is ready to my hand from the canons, and have sent back to thee with confidence the persons who came to me at the first, knowing that your Holiness would receive them with charity. But even now I say; Either receive these same persons, restoring them to their orders, and leaving them in quiet; or, if perchance thou art unwilling to do this, observe in their case the statutes of the Fathers and the definitions of the canons, putting aside all altercation with me. But, if thou shouldest do neither, we indeed are unwilling to bring on a quarrel, but still do not shun one if it comes from your side. Moreover your Fraternity knows well what the canons say about bishops who desire to inspire fear by blows. For we have been made shepherds, not persecutors. And the excellent preacher says, Argue, beseech, rebuke, with all longsuffering and doctrine (2 Tim. iv. 2). But new and unheard of is this preaching, which exacts faith by blows. But I need not speak at length by letter about these things, since I have sent my most beloved son, the deacon Sabinianus, as my representative in ecclesiastical matters, to the threshold of our lords; and he will speak with you about everything more particularly. Unless you
-
-641
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2104,15 +1502,9 @@ Epistle LVI. To John, Bishop.
 
 Gregory to John, Bishop of Ravenna1504. It is not long since certain things had been told us about thy Fraternity concerning which we remember having declared ourselves in full, when Castorius, notary of the holy church over which we preside, went into your parts. For it had come to our ears that some things were being done in your church contrary to custom and to the way of humility, which alone, as you well know, exalts the priestly office. Now, if your Wisdom had received our admonitions kindly or with episcopal seriousness, you ought not to have been incensed by them, but have corrected these same things with thanks to us. For it is contrary to ecclesiastical use, if even unjust correction (the which be far from us) is not most patiently borne. But your Fraternity has been too much moved; and when, in the swelling of thy heart, as if to justify thyself, thou wrotest that thou didst not use the pallium except after the sons of the Church had been dismissed from the sacristy1505, and at the time of mass, and in solemn litanies, thou madest acknowledgment in words with most manifest truth of having usurped something contrary to the usage of the Church in general. For how can it be that at a time of ashes and sackcloth, through the streets among the noises of the people thou couldest do lawfully what thou hast disclaimed the doing of as being unlawful in the assembly of the poor and nobles, and in the sacristy of the Church?
 
-1504
-
 This John, and apparently previous bishops of Ravenna, appear to have assumed a dignity not conceded to other metropolitans; perhaps on the ground of Ravenna being the seat of the Exarch, and having been once the imperial residence. The pallium usually granted to Metropolitans was allowed to be used by them only during the celebration of the Eucharist; and we find Gregory, in several epistles, restricting them to such use of it, when he sent it to them. John was reported to have worn it while receiving the laity in the sacristy before celebration; and he owned to having worn it in solemn processions through the city, alleging custom and peculiar privilege. Further, his clergy, when accompanying him in processions, had been accustomed to carry napkins (mappulæ), which appear to have been signs of dignity. It is for these assumptions that Gregory now remonstrates with him; but apparently in vain with regard to the use of the pallium in processions through the city: for Marinianus, the successor of John, continued the custom, though whether he finally persisted in it does not appear. Other letters referring to the subject are V. 15; VI. 34, 61.
 
-1505
-
 Secretarium, viz. the chamber adjoining the church in which the vestments and sacred utensils were kept, and the clergy vested for service; and in which also as appears from this and the following epistle, the bishop was accustomed to receive the laity before mass. From the custom of holding synods in the apartments so called, the sessions of synods were also themselves sometimes called secretaria.
-
-642
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2120,11 +1512,7 @@ Philip Schaff
 
 Yet this, dearest brother, is not, we think, unknown to thee; that it has hardly ever been heard of any metropolitan in any parts of the world that he has claimed to himself the use of the pallium except at the time of mass. And that you knew well this custom of the Church in general you have shewn most plainly by your epistles, in which you have sent to us appended the precept of our predecessor John of blessed memory, to the effect that all the customs conceded in the way of privilege to you and your church by our predecessors should be retained. You acknowledge, then, that the custom of the Church in general is different, seeing that you claim the right of doing what you do on the score of privilege. Thus, as we think, we can have no remaining doubtfulness in this matter. For either the usage of all metropolitans should be observed also by thy Fraternity, or, if thou sayest that something has been specially conceded to thy church, it is for your side to shew the precept of former pontiffs of the Roman City wherein these things have been conceded to the Church of Ravenna. But, if this is not shewn, it remains, seeing that you establish your claim to do such things on the score neither of general custom nor of privilege, that you prove yourself to have usurped in what you have done. And what shall we say to the future judge, most beloved brother, if we defend the use of that heavy yoke and chain on our neck with a view, I do not say to ecclesiastical, but to a certain secular dignity; judging ourselves to be lowered if we are without so great a weight even for a short space of time? We desire to be adorned with the pallium, being, it may be, unadorned in character; whereas nothing shines more splendidly on a bishop’s neck than humility. It is therefore the duty of thy Fraternity, if thou art firmly determined to defend thy honours with any kind of arguments, either to follow the use of the generality without written authority, or to defend thyself under privileges shewn in writing. Or, if lastly thou doest neither, we will not have thee set an example of presumption of this sort to other metropolitans. But, lest thou shouldest perchance think that we, in thus writing to you, have neglected what belongs to fraternal charity, know ye that careful search has been made in our archives for the privileges of thy Church. And indeed some things have been found, sufficient to obviate entirely the aims of thy Fraternity, but nothing to support the contentions of your Church on the points in question. For even concerning the very custom of thy Church which thou allegest against us, which custom we wrote before should be proved on your side, we would have you know that we have already taken thought sufficiently, having questioned our sons, Peter the deacon and Gaudiosus the primicerius1506, and also Michael the guardian (defensorem) of our see, or others who on various commissions have been sent by our predecessors to Ravenna; and they have most positively denied that thou hast done these things in their presence. It is therefore apparent that what was done in secret must have been an unlawful usurpation. Hence what has been latently introduced can have no firm ground to justify its continuance. What things, then, thou or thy predecessors have presumed to do superfluously do thou, having regard to charity, and with brotherly kindness, study to correct. To no degree attempt—I
 
-1506
-
 The term primiceriusis variously applied, denoting the chiefs of departments. In Ep. 22, supra, we find primicerium notariorum. In VII. 32, we find also the designation Secundi cerius.
-
-643
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2146,15 +1534,9 @@ From John, Bishop of Ravenna to Pope Gregory1507.
 
 My most reverend fellow-servant Castorius, notary of your Apostolical See, has delivered to me my LORD’S epistle, compounded of honey and of venom; which has yet so infixed its stings as still to leave place for healing appliances. For my LORD, while he reproves pride and speaks of divine judgment following it, in a certain way professes himself with reason to be mild and placid. You have alleged, then, that I, ambitious of novelty, have usurped the use of the pallium beyond what had been indulged to my predecessors. This let not the conscience of my own lord, which is governed by the divine right hand, in any way allow itself to believe; nor let him open his most sacred ears to the uncertainty of common report. First, because I, though a sinner, still know how grave a thing it is to transgress the limits assigned to us by the Fathers, and that all elation leads to nothing but a fall. For, if our ancestors did not tolerate pride in kings, how much more is it not to be endured in priests! Then, I remember how I was nourished in the lap and in the bosom of your most holy Roman Church, and therein by the aid of GOD advanced. And how should I be so daring as to presume to oppose that most holy see, which transmits its laws to the universal Church, for maintaining whose authority, as GOD knows, I have seriously excited the ill-will of many enemies against myself? But let not my most blessed lord suppose that I have attempted anything contrary to ancient custom, as is attested by many and nearly all the citizens of this city, and as the above-written most reverend notary, even though he had taken no part in the proceedings, might have testified, inasmuch as it was not till the sons of the Church were descending from the sacristy1508, and the deacons were coming in for proceeding immediately \[to the altar\] that the first deacon has been accustomed to invest the bishop of the Church of Ravenna with the pallium, which he has also been accustomed in like manner to use in solemn litanies. Wherefore let no one endeavour to insinuate anything against me to my lord, since if any one wishes to do so, he cannot prove that any novelty has been introduced by me. For in what manner I have obeyed your commands and served your interests when cause required, may Almighty GOD make manifest to your most sincere heart: and I attribute it to my sins that after so many labours and difficulties which I endure within and without I should deserve to experience such a change. But again this among other things consoles me, that most holy fathers sometimes chastise their sons for the purpose only of advancing them the more, and that, after this devotion and satisfaction,
 
-1507
-
 See Ep. 56. John of Ravenna, notwithstanding his obsequious language in this letter, appears to have been by no means disposed to give way. For see Gregory’s subsequent letter to him (V. 15), in which he is sharply accused of duplicity. And not only he, but his successor in the see also, appear to have continued the practice of wearing the pallium in public processions. What he says in the letter before us of his having incurred odium by his defence of the authority of the Roman See may be noted as significant of some jealousy of such authority at Ravenna.
 
-1508
-
 Ut mox procedatur. The word procedere is used here, and elsewhere, for approaching the altar for celebration. Cf. below, and VII. 34.
-
-645
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2164,19 +1546,11 @@ you will not only conserve to the holy Church of Ravenna her ancient privileges,
 
 Epistle LIX. To Secundinus, Bishop. Gregory to Secundinus, Bishop of Tauromenium. \[In Sicily.\] Some time ago we ordered that the baptistery1511 should be removed from the monastery of Saint Andrew, which is above Mascalæ, because of inconvenience to the monks, and that an altar
 
-1509
-
 Procedebant. See last note.
 
-1510
-
 Procedebant. See last note.
-
-1511
 
 Baptisteries (baptisteria) were anciently separate buildings adjoining churches (cf. VI. 22), the fontes being the pools of water (called also piscinæ and !"#$%&'()\*) therein contained. (See Bingham, B. VIII. C. VII. Sect. 1, 4.) The inconvenience to the monks of having a baptistery at their monastery would be from the concourse of people resorting to it, which would interfere with monastic seclusion. For a similar reason Gregory more than once forbids public masses in monasteries. Cf. e.g. II. 41; VI. 46.
-
-646
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2190,15 +1564,9 @@ Epistle LX. To Italica, Patrician1513.
 
 Gregory to Italica, &c. We have received your letter, which is fullof sweetness, and rejoice to hear that your Excellency is well. Such is the sincerity of our own mind with regard to it that paternal affection does not allow us to suspect any latent ill-feeling concealed under its calmness. But may Almighty GOD bring it to pass, that, as we think what is good of you, so your mind may respond with good towards us, and that you may exhibit in your deeds the sweetness which you express in words. For the most glorious health and beauty on the surface of the body profit nothing if there is a hidden sore within. And that discord is the more to be guarded against to which exterior peace affords a bodyguard. But as to what your Excellency in your aforesaid epistle takes pains to recall to our recollection, remember that you have been told in writing that we would not settle anything with you concerning
 
-1512
-
 Fonts were anciently sunken pools. “In medio habet fontem in terra excavatam ad quinque ulnas…tribus gradibus in id descensus est.” Onuphrius, de baptisterio Lateran.
 
-1513
-
 Possibly the same lady whom the ex-monk Venantius married. See I. 34, note 8, and IX. 123. The correspondence that took place at this time between her and Gregory seems to have arisen from some question of legal right, in which she appeared to the latter to be dealing harshly with some poor persons, perhaps peasants (rustici) on an estate of the Church (hujus Ecclesiæ pauperibus). The passing tribute paid in this letter to the lady’s personal charms is characteristic of Gregory’s complimentary style, and (supposing her to have been the same Italica who became the bride of Venantius) suggests one attraction which may have drawn the latter away from his intended monastic life. Further on the same supposition, we may perhaps read with interest between the lines of this letter something of the feeling subsisting at the time of writing between the correspondents. She, being a well-bred patrician lady, had evidently written to him with gentle courtesy. But he detected, or thought he detected, something wanting in the tone of her letter. Nor was she likely to feel warmly towards him who now called her to account, if it were he whom she knew to have done all he could to alienate Venantius from her. He, on the other hand while addressing her in return with all the courtesy due to her rank and character, and evidently anxious to avoid unpleasantness, shews signs of not being entirely satisfied as to her feelings towards himself, or her readiness to follow his admonitions. It is interesting to observe that, judging from the tone of subsequent Epistles, we may conclude very friendly relations to have been afterwards maintained between Gregory and the wedded pair.
-
-647
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2208,11 +1576,7 @@ the causes of the poor so as to cause offence, or with public clamour. We rememb
 
 Epistle LXV. To Mauricius Augustus1514. Gregory to Mauricius, &c. He is guilty before Almighty GOD who is not pure of offence towards our most serene lords in all he does and says. I, however, unworthy servant of your Piety, speak in this my representation neither as a bishop, nor as your servant in right of the republic, but as of private right, since, most serene LORD, you have been mine since the time when you were not yet lord of all. On the arrival here of the most illustrious Longinus, the equerry (stratore), I received the law of my lords, to which, being at the time worn out by bodily sickness, I was unable to make any reply. In it the piety of my lords has ordained that it shall not be lawful for any one who is engaged in any public administration to enter on an ecclesiastical office. And this I greatly commended, knowing by most evident proof that one who is in haste to desert a secular condition and enter on an ecclesiastical office is not wishing to relinquish secular affairs, but to change them. But, at its being said in the same law that it should not be lawful for him to become a monk, I was altogether
 
-1514
-
 This letter is supposed to have been written in the third Indiction (A.D. 592–3); the law complained of having been issued in the previous year. The epistle, which follows, to the Emperor’s physician on the same subject, shews how much Gregory had it at heart. Some five years later it appears from a letter to divers metropolitans, dated December, A.D. 597 (VIII. 5), that an amicable agreement had meanwhile been come to, both the Emperor and the Pope having made some concessions. Cf. also the end of Ep. 24 in Book X.
-
-648
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2222,11 +1586,7 @@ Philip Schaff
 
 surprised, seeing that his accounts can be rendered through a monastery, and it can be arranged for his debts also to be recovered from the place into which he is received. For with whatever devout intention a person may have wished to become a monk, he should first restore what he has wrongly gotten, and take thought for his soul all the more truly as he is the more disencumbered. It is added in the same law that no one who has been marked on the hand1515 may become a monk. This ordinance, I confess to my lords, has alarmed me greatly, since by it the way to heaven is closed against many, and what has been lawful until now is made unlawful. For there are many who are able to live a religious life even in a secular condition: but there are very many who cannot in any wise be saved with GOD unless they give up all things. But what am I, in speaking thus to my lords, but dust and a worm? Yet still, feeling that this ordinance makes against GOD, who is the Author of all, I cannot keep silence to my lords. For power over all men has been given from heaven to the piety of my lords to this end, that they who aspire to what is good may be helped, and that the way to heaven may be more widely open, so that an earthly kingdom may wait upon the heavenly kingdom. And lo, it is said in plain words that one who has once been marked to serve as an earthly soldier may not, unless he has either completed his service or been rejected for weakness of body, serve as the soldier of our LORD Jesus Christ. To this, behold, Christ through me the last of His servants and of yours will answer, saying; From a notary I made thee a Count of the bodyguard; from Count of the bodyguard I made thee a Cæsar; from a Cæsar I made thee Emperor; and not only so, but also a father of emperors. I have committed my priests into thy hand; and dost thou withdraw thy soldiers from my service? Answer thy servant, most pious lord, I beseech thee; what wilt thou answer to thy LORD when He comes and thus speaks? But peradventure it is believed that no one among them turns monk with a pure motive. I, your unworthy servant, know how many soldiers who have become monks in my own days have done miracles, have wrought signs and mighty deeds. But by this law it is forbidden that even one of such as these should become a monk. Let my LORD enquire, I beg, what former emperor ever enacted such a law, and consider more thoroughly whether it ought to have been enacted. And indeed it is a very serious consideration, that now at this time any are forbidden to leave the world; a time when the end of the world is drawing nigh. For lo! there will be no delay: the heavens on fire, the earth on fire, the elements blazing, with angels and archangels, thrones and dominions, principalities and powers, the tremendous Judge will appear. Should He remit all sins, and say only that this law has been promulged against Himself, what excuse, pray, will there be? Wherefore by the same tremendous Judge I beseech you, that all those tears, all those prayers, all those fasts, all those alms of my LORD, may not on any ground lose their lustre before the eyes of Almighty GOD: but let your Piety, either
 
-1515
-
 Cf. below, “in terrena militia signatus.” It appears that not slaves only, but soldiers also, were sometime marked on the hand. Cf. Cyprian, Ad Donatum, “Te quem jam spiritualibus castris militia signavit.”
-
-649
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2242,8 +1602,6 @@ Gregory to Theodorus, &c. What benefits I enjoy from Almighty GOD and my most se
 
 Nullus qui optio.—“Optiones: Militaris annonæ eragatores: distribiteurs des vivres aux soldats” (Cod. Th.) D’Arnis Lexicon Manuale.
 
-650
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -2252,11 +1610,7 @@ many things, and it is not easy to find his mind free from greater cares. Do tho
 
 Epistle LXVII. To Domitian, Metropolitan1517. Gregory to Domitian, &c. On receiving the letters of your most sweet Blessedness I greatly rejoiced, since they spoke much to me of sacred Scripture. And, finding in them the dainties that I love, I greedily devoured them. Therein also were many things intermingled about external and necessary affairs. And you have acted as though preparing a banquet for the mind so that the offered dainties might please the more from their diversity. And if indeed external affairs, like inferior and ordinary kinds of food, are less savoury, yet they have been treated by you so skilfully as to be taken gladly, since even contemptible kinds of food are usually made sweet by the sauce of one who cooks well. Now, while the truth of the History is kept to, what I had said some time ago about its divine meaning ought not to be rejected. For, although, since you will have it so, its meaning may not suit my case, yet, from its very context, what was said as being drawn from it may be held without hesitation. For her violator (i.e. Dinah’s) is called the prince of the country (Genes. xxxiv. 2), by whom the
 
-1517
-
 This Domitian, Bishop of Melitene and Metropolitan of Roman Armenia, was a kinsman of the Emperor Maurice, and had lately been successfully employed by him in coming to terms with the Persian king, Chosroes II., as is related in the histories of Evagrius and Theophylact. The latter describes him as “holy in life, sweet in speech, ready in action, most prudent in council” (Hist. iv. 14). He also gives at length an eloquent sermon of his, delivered after the cession, through his mediation, of the city Martyropolis in Mesopotamia to the Roman Emperor (IV. 16). Chosroes II., who is said to have had a strong regard for Domitian, appears to have had some leanings towards Christianity. We are told that, when flying from his enemies in Persia, and in doubt whether to seek refuge with the Romans or the Turks, he had let his horse take its own course, calling on the God of the Christians for guidance, and thus found his way to Circesium, where he was received by Probus the Governor (Theophyl. IV. 10; Evagr. H. E. VI. 16). Further, it is related that, on one occasion, when Probus, bishop of Chalcedon, had been sent to him as ambassador by the Emperor, he requested to be shewn a portrait of the Blessed Virgin, which he adored when he saw it, saying that he had seen the original in a vision (Theophyl. V. 15); and also that he attributed his own success in arms, and the pregnancy of his favourite wife Syra (Shirin), who was herself a Christian, to the intercession of S. Sergius, whom he had invoked, and that he sent a cross of pure gold, adorned with jewels, which he had vowed with other presents, to the shrine of the saint, together with a letter of acknowledgment addressed to him (Theophyl. V. 13, 14; Evagr. H. E. VI. 20). But he certainly never became a Christian, though it appears from the letter before us that Domitian had done his best to convert him. The earlier part of this epistle refers evidently to some allegorical interpretation of Scripture by Gregory after his usual manner, to which Domitian had taken objection.
-
-651
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2265,8 +1619,6 @@ NPNF212. Leo the Great, Gregory the Great
 Philip Schaff
 
 devil is plainly denoted, seeing that our Redeemer says, Now shall the prince of this world be cast out (John xii. 31). And he also seeks her for his wife, because the evil spirit hastens to possess lawfully the soul which he has first corrupted by hidden seduction. Wherefore the sons of Jacob, being very wroth, take their swords against the whole house of Sichem and his country (Genes. xxxiv. 25), because by all who have zeal those also are to be attacked who become abettors of the evil spirit. And they first enjoin on them circumcision, and afterwards, while they are sore, slay them. For severe teachers, if they know not how to moderate their zeal, though cutting off the bias of corruption by preaching, nevertheless, when delinquents already mourn for the evil they had done, are frequently still savage in roughness of discipline, and harder than they should be. For those who had already cut off their foreskins ought not to have died, since such as lament the sin of lechery, and turn the pleasure of the flesh into sorrow, ought not to experience from their teachers roughness of discipline, lest the Redeemer of the human race be Himself loved less, if in His behalf the soul is afflicted more than it should be. Hence also to these his sons Jacob says, Ye have troubled me, and made me odious to the Canaanites (Ibid. v. 30). For, when teachers still cruelly attack what the delinquents already mourn for, the weak mind’s very love for its Redeemer grows cold, because it feels itself to be afflicted in that wherein of itself it does not spare itself. So much therefore I would say in order to shew that the sense which I set forth is not improbable in connexion with the context. But what has been inferred from the same passage by your Holiness for my comfort I gladly accept, since in the understanding of sacred Scripture whatever is not opposed to a sound faith ought not to be rejected. For, even as from the same gold some make necklaces, some rings, and some bracelets, for ornament, so from the same knowledge of sacred Scripture different expositors, through innumerable ways of understanding it, compose as it were various ornaments, which nevertheless all serve for the adornment of the heavenly bride. Further, I rejoice exceedingly that your most sweet Blessedness, even though occupied with secular affairs, still brings back its genius vigilantly to the understanding of Holy Writ. For so indeed it is needful that, if the former cannot be altogether avoided, the latter should not be altogether put aside. But I beseech you by Almighty GOD, stretch out the hand of prayer to me who am labouring in so great billows of tribulation, that by your intercession I may be lifted up to the heights, who am pressed down to the depths by the weight of my sins. Moreover, though I grieve that the Emperor of the Persians has not been converted, yet I altogether rejoice for that you have preached to him the Christian faith; since, though he has not been counted worthy to come to the light, yet your Holiness will have the reward of your preaching. For the Ethiopian, too, goes black into the bath, and comes out black; but still the keeper of the bath receives his pay. Further, of Mauricius you say well, that from the shadow I may know the statue; that is, that in small things I may perpend greater things. In this matter, however, we trust him, since oaths and hostages bind his soul to us.
-
-652
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2278,8 +1630,6 @@ Epistle I. To Constantius, Bishop. Gregory to Constantius, Bishop of Mediolanum 
 
 Epistle II. To Constantius, Bishop. Gregory to Constantius, Bishop of Mediolanum. My most beloved son, the deacon Boniface, has conveyed to me certain private information through thy Fraternity’s letter; namely that three bishops, having sought out rather than found an occasion, have separated themselves from the pious communion of your Fraternity, saying that you
 
-653
-
 NPNF212. Leo the Great, Gregory the Great
 
 145b
@@ -2290,23 +1640,13 @@ have assented to the condemnation of the Three Chapters1518, and have given a se
 
 As to the schism from Rome in the province of Istria consequent on the condemnation of “The Three Chapters” by the fifth General Council, see I. 16, note 3. It appears that in the adjacent province of Liguria, of which Mediolanum (Milan) was the metropolis, there was a like rejection of the fifth council on the part at least of some bishops, who had consequently declined communion with their newly-appointed Metropolitan Constantius, who was believed to have agreed formally to the condemnation of The Three Chapters.
 
-1519
-
 Cautionem fecisse: i.e. had pledged himself to the pope by a formal document to uphold the fifth council in its condemnation of the said Chapters.
-
-1520
 
 Theodelinda, the Lombard queen, was a catholic Christian, though her husband Agilulph was still an Arian. Ticinum (or Pavia), which was the residence of the Lombard Kings, was under the Metropolitan jurisdiction of Milan; and it appears that, under the influence of the dissentient bishops of the province, she too had refused to communicate with the new Metropolitan. Gregory’s anticipation, expressed in what follows, that she would easily be brought round, was premature: for ten years later (A.D. 603–4) we find Gregory still taking pains to overcome her scruples with regard to the fifth council. See XIV. 12.
 
-1521
-
 Viz. Epistle 4 below. This letter, however, was not delivered to the queen by the bishop Constantius, to whom it had been sent, because of the allusion contained in it to the fifth council, which she appears to have been resolute in rejecting. The new bishop thought she would be more likely to accept him as orthodox, if it were only said that he adhered in all respects to the faith of the four previous councils, including that of Chalcedon. See below, Ep. 39. Accordingly another letter (Ep. 38), in which allusion to the fifth council was omitted, was prepared and sent in accordance with the advice of Constantius. See further, note 8, under Epistle 3.
 
-1522
-
 I.e. Agilulph the Lombard King. The time (Indict. XII., i.e. A.D. 593–4) was after he had invested Rome and returned to Pavia, and when Gregory had in vain urged Romanus Patricius, the Exarch at Ravenna, to come to terms with him. Gregory appears prepared to approach him now with a view to a separate peace with himself, which he says afterwards (see V. 36, 40)
-
-654
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2320,15 +1660,9 @@ he could have made if he had been so minded. Letters bearing on the subject are 
 
 I.e. Romanus Patricius, the Exarch.
 
-1524
-
 Cautionem fecisse. See Ep. 2, note 2.
 
-1525
-
 The contention of those who disapproved of the condemnation of “The Three Chapters” by the fifth council was not only that the condemnation of deceased persons was wrong as well as useless, but also that it impugned the faith of the Council of Chalcedon. For that Council had not condemned the writers who were now condemned; and two of them, Theodoret of Cyrus and Ibas of Edessa, had even appeared before it, and been accepted as orthodox. Further, the condemnation was regarded as a concession to the Monophysites who had been condemned at Chalcedon, the writers in question having been peculiarly obnoxious to the Monophysite party. And it does appear to be the case that a main motive of the Emperor Justinian in forcing the condemnation of The Three Chapters on the Church had been to conciliate the Monophysites, and to induce them to conform. Hence Gregory’s anxiety to shew that what had been done at the fifth did not touch the faith as previously defined.
-
-655
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2346,8 +1680,6 @@ Epistle V. To Boniface, Bishop. 1526
 
 This letter was not delivered to Theodelinda, Epistle XXXVIII. having been afterwards substituted for it. See note 4 under Ep. 2.
 
-656
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -2356,15 +1688,9 @@ Gregory to Boniface, Bishop of Regium (Reii). It is a shame for priests to be ad
 
 Epistle VI. To Cyprian, Deacon. Gregory to Cyprian, Deacon and Rector of Sicily. It has been reported to us that a native of the province of Lucania, Petronilla by name, was converted1528 through the exhortation of the bishop Agnellus, and that all her property, though she had it in her own power, she nevertheless bestowed on the monastery which she entered even by a special deed of gift: also that the aforesaid bishop died leaving half of his substance to one Agnellus, his son, who is said to be a notary of our Church, and half to the said monastery. But, when they had fled for refuge to Sicily because of the calamity impending on Italy, the above-named Agnellus is said to have corrupted her morals and defiled her, and, finding her with child, to have seduced her from the monastery, and to have taken away with her all her belongings, both those that had been her own and such as she might have had given her by his own father, and that, after perpetrating such and so great a crime, he claims these things as his own. We therefore exhort thy Love to cause the aforesaid man, and the above-named woman, to be summarily brought before thee, and to institute a most thorough enquiry into the case. And, if thou shouldest find it to be as reported to us, determine an affair defiled by so many iniquities with the utmost severity of
 
-1527
-
 See I. 44, p. 91; also below, Ep. 36.
 
-1528
-
 Conversam, with the usual sense of monastic profession.
-
-657
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2380,11 +1706,7 @@ Gregory to Gennadius, Patrician and Exarch of Africa. We are well assured that t
 
 Epistle VIII. To Januarius, Bishop. Gregory to Januarius, Bishop of Caralis (Cagliari). We think indeed that thy position may in itself be enough to compel thee to be instant in the fulfilment of pious duties. But, lest remissness of any kind should intervene to abate thy zeal, we have thought it right to exhort thee especially with regard to them. Now it has come to our
 
-1529
-
 See II. 48, note 1.
-
-658
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2394,11 +1716,7 @@ knowledge that your Stephen, when departing this life, by his last will and test
 
 Epistle IX. To Januarius, Bishop. Gregory to Januarius, Bishop of Caralis (Cagliari). Pastoral zeal ought indeed in itself to have sufficiently instigated thee, even without our aid, to protect profitably and providently the flock of which thou hast taken charge, and to preserve it with diligent circumspection from the cunning devices of enemies. But, since we have found that thy Charity needs also the written word of our authority for the augmentation of thy firmness, it is necessary for us, by the exhortation of brotherly love, to strengthen thy faltering disposition towards the earnestness of religious activity. Now it has come to our knowledge that thou art remiss in thy guardianship of the monasteries of the handmaidens of GOD situated in Sardinia; and, though it had been prudently arranged by thy predecessors that certain approved men of the clergy should have the charge of attending to their needs, this has now been so entirely neglected that women specially dedicated to GOD are compelled to go in person among public functionaries about tributes and other liabilities, and are under the necessity of running to and fro through villages and farms for making up their taxes, and of mixing themselves unsuitably in business which belongs to men. This evil let thy Fraternity remove by an easy correction; that is, by carefully deputing one man of approved life and manners, and of such age and position as to give rise to no evil suspicion of him, who may, with the fear of GOD, so assist the inmates of these monasteries that they may no longer be allowed to wander, against rule, for any cause whatever, private or public, beyond their venerable precincts; but that whatever
 
-1530
-
 For subsequent proceedings with regard to this intended monastery, see IV. 15; V. 2.
-
-659
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2408,15 +1726,9 @@ Philip Schaff
 
 has to be done in their behalf may be transacted reasonably by him whom you shall depute. But let the nuns themselves, rendering praises to GOD and confining themselves to their monasteries, no longer suggest any evil suspicion to the minds of the faithful. But if any one of them, either through former license, or through an evil custom of impunity, has been seduced, or should in future be led, into the gulph of adulterous lapse, we will that, after enduring the severity of adequate punishment, she be consigned for penance to some other stricter monastery of virgins, that she may there give herself to prayers and fastings, and profit herself by penitence, and afford an example of the more rigorous kind of discipline, such as may inspire fear in others. Further, let any one who may be detected in any iniquity with women of this class be deprived of communion, if he be a layman; but, if he be a cleric, let him also be removed from his office, and thrust into a monastery for his ever to be deplored excesses. We also desire thee to hold councils of bishops twice in the year, as is said to have been the custom of thy province, as well as being ordered by the authority of the sacred canons; that, if any among them be of moral character inconsistent with his profession, he may be convicted by the friendly rebuke of his brethren, and also that measures may be taken with paternal circumspection for the security of the flock committed to him, and for the well-being of souls. It has come to our knowledge also that male and female slaves of Jews, who have fled for refuge to the Church on account of their faith, are either restored to their unbelieving masters, or paid for according to their value in lieu of being restored. We exhort therefore that thou by no means allow so bad a custom to continue; but that whosoever being a slave to Jews, shall have fled for refuge to venerable places, thou suffer him not in any degree to sustain prejudice. But, whether he had been a Christian before, or been baptized now, let him be supported in his claim for freedom, without any loss to the poor, by the patronage of ecclesiastical compassion. Let not bishops presume to sign baptized infants a second time on the forehead with chrism; but let the presbyters anoint those who are to be baptized on the breast, that the bishops may afterwards anoint them on the forehead1531. With regard also to founding monasteries, which divers persons have ordered to be built, if thou perceivest that any persons to whom the charge has been assigned put it off on unjust pretexts, we desire thee to insist sagaciously according to what the laws enjoin, lest (as GOD forbid should be the case) the pious retentions of the departed should be frustrated through thy neglect. Further, as to the monastery which Peter is said to have formerly ordered to be constructed in his house, we have seen fit that thy Fraternity should make accurate enquiry into the amount of the revenues there. And in case of there being a suitable provision, when all diminutions of the property and what is said to have been dispersed have been recovered, let the monastery with all diligence and without any delay be founded. But, if the means are insufficient or detrimental1532, we desire thee, after closely investigating everything as has been commanded, to send a report to us, that we may
 
-1531
-
 For the meaning of this order, and its subsequent modification, see note to IV. 26.
 
-1532
-
 The word damnosa, meaning perhaps injuriously excessive.
-
-660
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2430,11 +1742,7 @@ Epistle X. To All the Bishops of Dalmatia.
 
 Gregory to all the bishops through Dalmatia1533. It behoved your Fraternity, having the eyes of the flesh closed out of regard to Divine judgment, to have omitted nothing that appertains to GOD and to a right inclination of mind, nor to have preferred the countenance of any man whatever to the uprightness of justice. But now that your manners have been so perverted by secular concerns, that, forgetting the whole path of the sacerdotal dignity that is yours, and all sense of heavenly fear, you study to accomplish what may please yourselves and not GOD, we have held it necessary to send you these specially strict written orders, whereby, with the authority of the blessed Peter, Prince of the apostles, we enjoin that you presume not to lay hands on any one whatever in the city of Salona, so far as regards ordination to episcopacy, without our consent and permission; nor to ordain any one in the same city otherwise than as we have said. But if, either of your own accord, or under compulsion from any one whatever, you should presume or attempt to do anything contrary to this injunction, we shall decree you to be deprived of participation of the LORD’S body and blood, that so your very handling of the business, or your very inclination to transgress our order, may cut you off from the sacred mysteries, and no one may be accounted a bishop whom you may ordain. For we wish no one to be rashly ordained whose life can be found fault with. And so, if the deacon Honoratus is shewn to be unworthy, we desire that a report may be sent us of the life and manners of him who may be elected, that whatever is to be done in this matter we may allow to be carried out salubriously with our consent. For we trust in Almighty GOD that, as far as in us lies, we may never suffer to be done what may damage our soul; never what may damage your Church. But, if the voluntary consent of all should so fix on one person that by the favour of GOD he may be proved worthy, and there should be no one to dissent from his being ordained, we wish him to be consecrated by you in this same church of Salona under the license granted in this present epistle; excepting notwithstanding the person of Maximus, about whom many evil reports have reached us: and, unless he desists from coveting the higher order, it remains, as I think, that after full enquiry, he should be deprived also of the very office which he now holds.
 
-1533
-
 On the occasion of this Epistle, see III. 47, note 2.
-
-661
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2442,15 +1750,9 @@ Philip Schaff
 
 Epistle XI. To Maximianus, Bishop. Gregory to Maximianus, Bishop of Syracuse. It had indeed been committed to thy Fraternity long ago by our authority to correct in our stead any excesses or unseemly proceedings that there might be in the Church and other venerable places of Sicily1534. But, seeing that a complaint has reached us of some things having been so far neglected, we have thought it fit that thy Fraternity should again be specially stirred up to correct them. For we learn that in the case of revenues of Churches that have been newly acquired the canonical disposition of their fourth parts does not prevail1535, but that the bishops of the several places distribute a fourth part of the ancient revenues only, retaining for their own use those that have been recently acquired. Wherefore let thy Fraternity make haste actively to correct this evil custom that has crept in, so that, whether in the case of former revenues or of such as have accrued now or may accrue, the fourth parts may be dispensed according to the canonical distribution of them. For it is unseemly that one and the same substance of the Church should be rated, as it were, under two different laws, namely, that of usurpation and that of the canons. Permit not presbyters, deacons, and other clerks of whatever order, who serve churches, to be abbots of monasteries; but let them either, giving up clerical duties, be advanced to the monastic order, or, if they should decide to remain in the position of abbot, let them by no means be allowed to have clerical employment. For it is very unsuitable that, if one cannot fulfil the duties of either of these positions with diligence proportional to its importance, any one should be judged fit for both, and that so the ecclesiastical order should impede the monastic life, and in turn the rule of monasticism impede ecclesiastical utility. Of this thing also we have taken thought to warn thy Charity; that, if any one of the bishops should depart this life, or (which GOD forbid) should be removed for his transgressions, the hierarchs and all the chief of the clergy being assembled, and in thy presence making an inventory of the property of the Church, all that is found should be accurately described, and nothing should be taken away in kind, or in any other way whatever, from the property of the Church, as is said to have been done formerly, as though in return for the trouble of making the inventories. For we desire all that pertains to the protection of what belongs to the poor to be so executed that in their affairs no opportunity may be left for the venality of self-interested men. Let visitors of churches, and their clerks who with them are at trouble in parishes that are not of their own city, receive according to thy appointment some subsidy for their labour. For it is just that they should get payment in the places where they are found to lend their services.
 
-1534
-
 See II. 7.
 
-1535
-
 For the canonical rule as to the fourfold division of the Church funds, cf. Gregory’s letter to Augustine, XI. 64 Responsio prima.
-
-662
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2464,15 +1766,9 @@ Epistle XV. To Januarius, Bishop.
 
 Gregory to Januarius, Bishop of Caralis (Cagliari). Theodosia, a religious lady, being desirous of carrying out the intention of her late husband Stephen by the building of a monastery1536, has begged us to transmit our letters to your Fraternity, whereby, through our commendation, she may the more readily be counted worthy of your aid. She asserts that her husband had given directions for the monastery to be constructed on the farm called Piscenas, which has come into the possession of the guest-house (Xenodochii) of the late bishop Thomas. Now, though the possessor of the property would allow her to found it on land that is not her own, yet seeing that the LORD with reason objects1537, we have thought it right to agree to her petition; which is that she should, with the LORD’S help, construct a monastery for handmaidens of GOD in a house belonging to herself, which she asserts that she has at Caralis. But, since she says that the aforesaid house is burdened by guests and visitors, we exhort thy Fraternity to take pains to assist her in all ways, and lend the aid of thy protection to her devotion, so that thy assistance and assiduity may make thee partaker of the reward of her departed husband’s earnestness and her own. As to the relics which she requests may be placed there, we desire that they be deposited with due reverence by thy Fraternity.
 
-1536
-
 See also IV. 8, and V. 2.
 
-1537
-
 The farm Piscenas appears to have been held by the tenure called Emphyteusis, according to which the possessor of the land (called also Emphyteuta) was not its real owner, though on condition of his cultivating it properly and paying certain fixed dues to the owner (dominus), he had a perpetual right of possession (jus in re), which passed to his heirs, and could be sold by him to others. In the latter case, however, the dominus had the option of himself buying up the possessor’s right at the price offered by the proposed purchaser, and he could object to the transference of possessio to persons unable to maintain the property in good condition. In all cases of transference, other than devolution to heirs, a fiftieth part of the purchase money, or of the value of the property, was also payable to the dominus. (Article on Emphyteusis in Smith’s Dictionary of Greek and Roman Antiquities.) In the case before us the lord of the property seems to have refused his consent to any part of it being alienated in Mortmain to a monastery. It may be supposed that the possession of the farm Piscenas had been in Stephen the testator himself when he directed a monastery to be founded on it, and that it had passed after his death into other hands.
-
-663
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2482,15 +1778,9 @@ Epistle XVIII. To Maurus, Abbot. Gregory to Maurus, &c. The care of churches whi
 
 Epistle XX. To Maximus, Pretender (Præsumptorem)1539. Gregory to Maximus, Pretender in Salona.
 
-1538
-
 Peregrinum presbyterum; meaning apparently one not belonging to the house as a member of it, though living and maintained there.
 
-1539
-
 See III. 47, note 2.
-
-664
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2502,15 +1792,9 @@ Though the merits of any one’s life were in other respects such as to offer no
 
 Epistle XXI. To Venantius, Bishop. Gregory to Venantius, Bishop of Luna (in Etruria). It has reached us by the report of many that Christian slaves are detained in servitude by Jews living in the city of Luna1541; which thing has seemed to us by so much the more offensive as the sufferance of it by thy Fraternity annoys us. For it was thy duty, in respect of thy place, and in thy regard for the Christian religion, to leave no occasion for simple souls to serve Jewish superstition not through persuasion, but, in a manner, by right of authority. Wherefore we exhort thy Fraternity that, according to the course laid down by the most pious laws, no Jew be allowed to retain a Christian slave in his possession. But, if any are found in their power, let liberty be secured to them by protection under the sanction of law. But as to any that are on the property of Jews, though they
 
-1540
-
 Sacerdotii ordinem, meaning here, as elsewhere, the order of episcopacy.
 
-1541
-
 On the holding of Christian slaves by Jews, and the treatment of Jews generally, cf. Proleg. p. xxi.
-
-665
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2520,19 +1804,11 @@ be themselves free from legal obligation, yet, since they have long been attache
 
 Epistle XXIII. To Hospito, Duke of the Barbaricini1542. Gregory to Hospito, &c. Since no one of thy race is a Christian, I hereby know that thou art better than all thy race, in that thou in it art found to be a Christian. For, while all the Barbaricini live as senseless animals, know not the true GOD, but adore stocks and stones, in the very fact that thou worshippest the true GOD thou shewest how much thou excellest them all. But carry thou out the faith which thou hast received in good deeds and words, and offer what is in thy power to Christ in whom thou believest, so as to bring to Him as many as thou canst, and cause them to be baptized, and admonish them to set their affection on eternal life. And if perchance thou canst not do this thyself, being otherwise occupied, I beg thee, with my greeting, to succour in all ways our men whom we have sent to your parts, to wit my fellow-bishop Felix, and my son, the servant of GOD, Cyriacus1543, so that in aiding their labours thou mayest shew thy devotion to Almighty GOD, and that He whose servants thou succourest in their good work may be a helper to thee in all good deeds. We have sent you through them a blessing1544 of St. Peter the apostle, which I beg you to receive, as you ought to do, kindly. The month of June, Indiction 12.
 
-1542
-
 The Barbaricini appear to have been a native tribe in Sardinia, having its own duke, Zabardas (see Ep. 24) being the duke of the island.
-
-1543
 
 These two ecclesiastics had been sent into Sardinia to promote the conversion of the natives, which seems to have been remissly attended to, not only by the Christian lay proprietors, but also by the bishops of the island. See below, Epp. 25, 26. The bishop Felix was not commissioned to supercede the ordinary episcopal jurisdiction, but to act as a missionary bishop in aid. Cf. V. 41.
 
-1544
-
 Benedictio, here as elsewhere, means a present;—in this case, being said to be from St. Peter, containing doubtless something that had acquired sanctity from him; probably, as in other cases, filings from his chains. Cf. I. 26, note 3.
-
-666
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2544,19 +1820,11 @@ To Zabardas, Duke of Sardinia. Gregory to Zabardas, &c. From the letters of my b
 
 Epistle XXV. To the Nobles and Proprietors in Sardinia. Gregory to the Nobles, &c. I have learnt from the report of my brother and fellow-bishop Felix, and my son the servant of GOD, Cyriacus1546, that nearly all of you have peasants (rusticos1547) on your estates given to idolatry. And this has made me very sorry, since I know that the guilt of subjects weighs down the life of their superiors, and that, when sin in a subject is not corrected, sentence is flung back on those who are over them. Wherefore, magnificent sons, I exhort that with all care and all solicitude ye be zealous for your souls, and see what account you will render to Almighty GOD for your subjects. For indeed they have been committed to you for this end, that both they may serve for your advantage in earthly things, and you, through your care for them, may provide for their souls in the things that are eternal. If, then, they pay what they owe you, why pay you not them what you owe them? That is to say, your Greatness should assiduously admonish them, and restrain them from the error of idolatry, to the end that by their being drawn to the faith you may make Almighty GOD propitious to yourselves. For, lo, you observe how the end of this world is close at hand; you see that now a
 
-1545
-
 See preceding Epistle.
-
-1546
 
 See above, Ep. 23.
 
-1547
-
 As to rustici, or coloni, see I. 44, note 1.
-
-667
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2572,11 +1840,7 @@ Gregory to Januarius, Bishop of Caralis (Cagliari). We have ascertained from the
 
 Cf. IV. 23, note 8.
 
-1549
-
 The rustici, or coloni, who cultivated the land, made their living out of it, having to pay dues in money or in kind (see I. 44). Gregory’s suggestion is that such dues should be made so heavy in the case of natives who refused to be converted as to starve them into compliance. Elsewhere we find him deprecating compulsion, or any kind of persecution, for the conversion of
-
-668
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2585,8 +1849,6 @@ Philip Schaff
 It has also come to our knowledge that some in sacred orders who have lapsed, either after doing penance or before, are recalled to the office of their ministry; which is a thing that we have altogether forbidden and the most sacred canons also declare against it. Whoso, then, after having received any sacred order, shall have lapsed into sin of the flesh, let him so forfeit his sacred order as not to approach any more the ministry of the altar. But, lest those who have been ordained should ever perish, previous care should be taken as to what kind of people are ordained, so that it be first seen to whether they have been continent in life for many years, and whether they have had a care for reading and a love of almsgiving. It should be enquired also whether a man has perchance been twice married. It should also be seen to that he be not illiterate, or under liability to the state, so as to be compelled after assuming a sacred order to return to public employment. All these things therefore let your Fraternity diligently enquire into, that, every one having been ordained after diligent examination, none may be easily liable to be deposed after ordination. These things which we have written to your Fraternity do you make known to all the bishops under you, since I myself have been unwilling to write to them, lest I might seem to lessen your dignity. It has also come to our ears that some have been offended by our having forbidden presbyters to touch with chrism those who are to be baptized. And we indeed acted according to the ancient use of our Church: but, if any are in fact hereby distressed, we allow that, where there is a lack of bishops, presbyters may touch with chrism, even on their foreheads, those who are to be baptized1550. Jews and heretics, on the ground that forced conversions were unreal. But he appears to have had no such compunctions in the case of these illiterate pagans. This is not the only instance of religious zeal betraying him into a certain human inconsistency. Cf. IX. 65. 1550
 
 See above, IV. 9. There is some doubt as to what the practice was which Gregory had forbidden in his former epistle but now allows. In Ep. IX. he had said, “Episcopi baptizatos infantes signare bis in fronte chrismate non præsumant; sed presbyteri baptizandos ungant in pectore, ut episcopi postmodum ungere debeant in fronte.” There is obvious reference here to the two unctions, before and after baptism. The first, in preparation for baptism, was with simple oil, on the breast and other parts of the body, and was administered by presbyters both in the East and West: the second for confirmation after baptism, was with chrism (a mixture of oil and balsam), on the forehead, and in the Eastern Churches might be, as it still is, administered immediately after baptism by the baptizing presbyter, but in the West was usually reserved for the bishop in person. It would seem that in Sardinia the Eastern usage had been followed with regard to the presbyter signing the baptized child on the forehead with chrism immediately after baptism, but that it had been also customary for the bishop afterward to repeat the rite (“signare bis in fronte chrismate”). Such repetition Gregory, in Ep. IX., appears to forbid in cases where the presbyter had already administered the rite; but, in the second clause of the sentence, he directs that the Western usage should thenceforth be observed: the presbyter who baptized was to anoint on the breast before the baptism; but the bishop, and he alone, on the forehead with chrism afterwards. Such being the most obvious meaning of what is said in Ep. IX. the equally obvious meaning of the concession in Ep. XXVI. would be allowance for presbyters in the absence of bishops, to confirm with chrism after baptism, according to the Eastern usage, but for the fact that the expression now used is not baptizatos, but baptizandos. Hence one opinion is that all that is here allowed to presbyters is the anointing of the forehead with chrism, as well as the breast with oil, previously to baptism; in which case of course it would not be confirmation. But it seems more likely that the intention was to allow presbyters to administer
-
-669
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2602,8 +1864,6 @@ confirmation in the absence of bishops, the term baptizandos being used loosely 
 
 For what was meant by religiosi and religiosæ, see I. 61, note 7. It appears from what is said here that persons recognized as such were ordinarily exempt from certain claims upon them by the state to which others might be liable.
 
-670
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -2612,11 +1872,7 @@ wish thee to take the greatest care, so that they be given away to no one withou
 
 Epistle XXIX. To Januarius, Bishop. Gregory to Januarius, Bishop of Caralis (Cagliari). It has come to our knowledge that in the place within the province of Sardinia called Phausiana it is said to have been once the custom to ordain a bishop; but that, through stress of circumstances,
 
-1552
-
 For the meaning of religiosi, see I. 61, n. 7. They were not of necessity clerici. In X. 54, we find religioso laico.
-
-671
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2630,11 +1886,7 @@ Epistle XXX. To Constantina Augusta.
 
 Gregory to Constantina, &c. The Serenity of your Piety, conspicuous for religious zeal and love of holiness, has charged me with your commands to send to you the head of Saint Paul, or some other part of his body, for the church which is being built in honour of the same Saint Paul in the palace. And, being desirous of receiving commands from you, by exhibiting the most ready obedience to which I might the more provoke your favour towards me, I am all the more distressed that I neither can nor dare do what you enjoin. For the bodies of the apostles Saint Peter and Saint Paul glitter with so great miracles and terrors in their churches that one cannot even go to pray there without great fear. In short, when my predecessor, of blessed memory, was desirous of changing the silver which was over the most sacred body of the blessed apostle Peter, though at a distance of almost fifteen feet from the same body, a sign of no small dreadfulness appeared to him. Nay, I too wished in like manner to amend something not far from the most sacred body of Saint Paul the apostle; and, it being necessary to dig to some depth near his sepulchre, the superintendent of that place found some bones, which were not indeed connected with the same sepulchre; but, inasmuch as he presumed to lift them and transfer them to another place, certain awful signs appeared, and he died suddenly. Besides all this, when my predecessor, of holy memory, was desiring in like manner to make some improvements not far from the body of Saint Laurence the martyr, it not being known where the venerable body was laid, diggings were made in the course of search, and suddenly his sepulchre was unawares disclosed; and those who were present and working, monks and mansionarii1553, who saw the body of the same martyr, which they did not indeed presume to touch, all died within ten days, so that none might survive who had seen the holy body of that righteous man. Moreover, let my most tranquil lady know that it is not the custom of the Romans, when they give relics of saints, to presume to touch any part of the body; but only a cloth (brandeum) is put
 
-1553
-
 “Mansionarius. Sacristain d’une église, chargé de la garder, de sonner les cloches pour l’office divin, de préparer les reliquaires, etc.” D’Arnis.
-
-672
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2644,8 +1896,6 @@ Philip Schaff
 
 into a box (pyxide), and placed near the most sacred bodies of the saints: and when it is taken up it is deposited with due reverence in the Church that is to be dedicated, and such powerful effects are thereby produced there as might have been if their bodies had been brought to that special place. Whence it came to pass in the times of Pope Leo, of blessed memory, as has been handed down from our forefathers, that, certain Greeks being in doubt about such relics, the aforesaid pontiff took scissors and cut this same cloth (brandeum), and from the very incision blood flowed. For in the Roman and all the Western parts it is unendurable and sacrilegious for any one by any chance to desire to touch the bodies of saints: and, if one should presume to do this, it is certain that this temerity will by no means remain unpunished. For this reason we greatly wonder at the custom of the Greeks, who say that they take up the bones of saints; and we scarcely believe it. For certain Greek monks who came here more than two years ago dug up in the silence of night near the church of Saint Paul, bodies of dead men lying in the open field, and laid up their bones to be kept in their own possession till their departure. And, when they were taken and diligently examined as to why they did this, they confessed that they were going to carry those bones to Greece to pass for relics of saints. From this instance, as has been already said, the greater doubt has been engendered in us whether it be true that they really take up the bones of saints, as they are said to do. But what shall I say of the bodies of the blessed apostles, when it is well known that, at the time when they suffered, believers came from the East to recover their bodies as being those of their own countrymen? And, having been taken as far as the second milestone from the city, they were deposited in the place which is called Catacumbas. But, when the whole multitude came together and endeavoured to remove them thence, such violence of thunder and lightning terrified and dispersed them that they on no account presumed to attempt such a thing again. And then the Romans, who of the LORD’S loving-kindness were counted worthy to do this, went out and took up their bodies, and laid them in the places where they are now deposited. Who then, most serene lady, can there be so venturesome as, knowing these things, to presume, I do not say to touch their bodies, but even at all to look at them? Such orders therefore having been given me by you, which I could by no means have obeyed, it has not, so far as I find, been of your own motion; but certain men have wished to stir up your Piety against me, so as to withdraw from me (which GOD forbid) the favour of your good will, and have therefore sought out a point in which I might be found as if disobedient to you. But I trust in Almighty GOD that your most kind good will is in no way being stolen away from me, and that you will always have with you the power of the holy apostles, whom with all your heart and mind you love, not from their bodily presence, but from their protection. Moreover, the napkin, which you have likewise ordered to be sent you, is with his body, and so cannot be touched, as his body cannot be approached. But since so religious a desire of my most serene lady ought not to be wholly unsatisfied, I will make haste to transmit to you some portion of the chains which Saint Peter the apostle himself bore on his neck and his hands, from which many miracles are displayed among the people; if at least I should succeed in removing it by filing. For, while many come frequently to seek a blessing from these same chains, in the hope of receiving
 
-673
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -2653,8 +1903,6 @@ Philip Schaff
 a little part of the filings, a priest attends with a file, and in the case of some seekers a portion comes off so quickly from these chains that there is no delay: but in the case of other seekers the file is drawn for long over the chains, and yet nothing can be got from them. In the month of June, Indiction 12.
 
 Epistle XXXI. To Theodorus, Physician. Gregory to Theodorus, Physician to the Emperor. I myself give thanks to Almighty GOD, that distance does not separate the hearts of those who truly love each other mutually. For lo, most sweet and glorious son, we are far apart in body, and yet are present with each other in charity. This your works, this your letters testify, this I experienced in you when present, this I recognize in your Glory when absent. May this make you both beloved of men and worthy for ever before Almighty GOD. For, charity being the mother of virtues, you bring forth the fruits of good works for this reason that you keep in your soul the very root of those fruits. Now what you have sent me, GOD inspiring you, for the redemption of captives, I confess that I have received both with joy and with sorrow. With joy, that is, for you, whom I thus perceive to be preparing a mansion in the heavenly country; but with exceeding sorrow for myself, who, over and above my care of the property of the holy apostle Peter, must now also give an account of the property of my most sweet son, the LORD Theodorus, and be held responsible for having spent it carefully or negligently. But may Almighty GOD, who has poured into your mind the bowels of His own mercy, who has granted to you to take anxious thought for what is said of our Saviour by the excellent preacher—That, though he was rich, yet for us he became poor(2 Cor. viii. 9)—may He, at the coming of the same Saviour, shew you to be rich in virtues, cause you to stand free from all fault, and grant to you heavenly for earthly joys, abiding joys for transitory. As to what you say you desire to be done for you near the most sacred body of the holy apostle Peter, be assured that, though your tongue were silent, your charity bids the doing of it. Would indeed that we were worthy to pray for you: but that I am not worthy I have no doubt. Still, however, there are here many worthy folk, who are being redeemed from the enemy by your offering, and serve our Creator faithfully, with regard to whom you have done what is written; Lay up alms in the bosom of the poor, and it shall pray for thee (Ecclus. xxix. 15). But, since he loves the more who presumes the more, I have some complaint against the most sweet disposition of my most glorious son the LORD Theodorus; namely that he has received from the holy Trinity the gift of genius, the gift of wealth, the gift of mercy and charity, and yet is unceasingly bound up in secular causes, is occupied in continual processions, and neglects to read daily the words of his Redeemer. For what is sacred Scripture but a kind of epistle of Almighty GOD to His creature? And surely, if your Glory were resident in any other place, and were to receive
-
-674
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2664,15 +1912,9 @@ letters from an earthly emperor, you would not loiter, you would not rest, you w
 
 Epistle XXXII. To Narses the Patrician. Gregory to Narses, &c. Your most sweet Charity has said much to me in your letters in praise of my good deeds, to all which I briefly reply, Call me not Noemi, that is beautiful; but call me Mara, that is bitter; for I am full of bitterness (Ruth i. 20). But as to the cause of the presbyters1555, which is pending with my brother and fellow-bishop, the most reverend Patriarch John, we have, as I think, for our adversary the very man whom you assert to be desirous of observing the canons. Further, I declare to thy Charity that I am prepared, with the help of Almighty GOD, to prosecute this same cause with all my power and influence. And, should I see that in it the canons of the Apostolic See are not observed, Almighty GOD will give unto me what I may do against the contemners of the same.
 
-1554
-
 Benedictionem in the sense of a present, as elsewhere in the epistles. Cf. Gen. xxxiii. 11; 2 Kings v. 14.
 
-1555
-
 Probably Athanasius and John. See III. 53.
-
-675
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2684,15 +1926,9 @@ Epistle XXXIII. To Anthemius, Subdeacon. Gregory to Anthemius, &c. Those whom ou
 
 Epistle XXXIV. To Pantaleo, Præfect. Gregory to Pantaleo, Præfect of Africa. How the law urgently prosecutes the most abominable pravity of heretics is not unknown to your Excellency1557. It is therefore no light sin if these, whom both the integrity of our faith and the strictness of the laws condemn, should find licence to creep up again in your times. Now in those parts, so far as we have learnt, the audacity of the Donatists has so increased that not only do they with pestiferous assumption of authority cast out of their churches priests of the catholic faith, but fear not even to rebaptize those whom the water of regeneration had cleansed on a true
 
-1556
-
 In English Bible, cii. 4.
 
-1557
-
 As to imperial edicts against the African Donatists, see I. 74, note 8. It would seem from this and the following letter that enforcement of the laws for their repression had been relaxed of late. It will be observed from this and other instances that Gregory, though often in general terms deprecating the use of force in matters of faith, did not scruple, when occasion arose, to call in the aid of the secular arm; and in this case with some heat and acrimony. Cf. IV. 35, below.
-
-676
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2704,15 +1940,9 @@ confession. And we are much surprised, if indeed it is so, that, while you are p
 
 Epistle XXXV. To Victor and Columbus, Bishops1559. Gregory to Victor and Columbus, Bishops of Africa. After what manner a disease, if neglected in its beginning, acquires strength we have proved from our own necessities, whosoever of us have had our lot in this life. If, then, it were met by the foresight of skilful physicians at its birth, we know that it would cease before doing very much
 
-1558
-
 This Paul was one of the bishops of Numidia, against whom some charges of misconduct, not specified, had been brought. His case has some significance as shewing that, though the spiritual authority of the bishop of Rome over the Church in Africa had now come to be acknowledged in a way that it had not been in the age of Cyprian, yet there seems to have been still some resistance to its exercise. This appears also from the fact that it was not the primate of Numidia, but Columbus, a bishop notable for his devotion to the Roman See, that Gregory mainly and most confidentially corresponded with in relation to ecclesiastical affairs (see II. 48, note 1), and that this Columbus complained of being in disfavour with many on the ground of the frequent communications he received from Rome (VII. 2). In the case before us Gregory’s desire (urgently expressed in this letter to Pantaleo, and in that which follows to the primate and Columbus, jointly), that Paul should at once be sent to Rome for trial was not complied with. For two years later (VI. 63) Gregory complains of this, and also expresses surprize that the accused bishop should have been excommunicated by the African authorities, and no news sent thereof to himself by the primate. Then, in the following year (VII. 2), writing to Columbus, he finds himself unable to refuse his assent to Paul’s resorting to Constantinople to lay his case before the Emperor. However in the year after this it seems that he did go at length to Rome, but not so as to have his case decided there: for Gregory sends him back to Africa to have his case inquired into, only enjoining Columbus, to whom he writes, to do his utmost to see justice done, he himself believing the accused to be innocent, and attributing the charges against him to odium incurred by his measures against the Donatists. The final issue does not appear. See also XII. 8.
 
-1559
-
 Victor was now primate of Numidia, having succeeded Adeodatus (see III. 49). As to the African custom with respect to primates, see I. 74, note 9. For notice of Columbus, see II. 48, note 7.
-
-677
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2722,15 +1952,9 @@ harm from being attended to too late. On this consideration, then, reason ought 
 
 Epistle XXXVI. To Leo, Bishop. Gregory to Leo, Bishop of Catana1561.
 
-1560
-
 See Last Epistle, note 4.
 
-1561
-
 Catana was one of the sees in Sicily.
-
-678
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2744,15 +1968,9 @@ Epistle XXXVIII. To Queen Theodelinda. Gregory to Theodelinda, Queen of the Lomb
 
 This order had been given by pope Pelagius II. A.D. 588. In I. 44 Gregory had seen fit to relax the stringency of this order
 
-1562
-
 in the case of existing subdeacons who had not on their ordination pledged themselves to chastity. This letter was substituted for Ep. IV. which had been previously written, but not delivered. See note 4 under Epistle II.
 
-1563
-
 above.
-
-679
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2764,11 +1982,7 @@ Epistle XXXIX. To Constantius, Bishop. Gregory to Constantius, Bishop of Mediola
 
 See above, Epistle II., note 1.
 
-1565
-
 Cautionis suæ, as to the meaning of which expression, see above, Epistle II., note 2. It appears certain from what Gregory says, here and in Epistle II., that Laurentius, the predecessor of Constantius, had pledged himself by oath to the bishop of Rome to uphold the condemnation of “The Three Chapters.” But it seems that some of his suffragans now asserted that he had sworn to them that he had not assented to such condemnation, and that on this understanding they had remained in his communion.
-
-680
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2782,11 +1996,7 @@ Gregory does not seem certain how the matter stood: but he goes on the suppositi
 
 See above, Ep. II., note 4.
 
-1567
-
 Here Gregory is in error, for in the eighth, ninth, and tenth sessions of the council of Chalcedon Theodoret and Ibas, whose writings were anathematized in that fifth council, were heard in their own defence, and definitely acquitted of heresy. It is true that there is no mention of them in the Definition of faith, agreed upon in the fifth session of Chalcedon, or in the Canons which were perhaps all that Gregory had before him. It is true also that there was no reference at Chalcedon to Theodore of Mopsuestia, who was especially and personally anathematized at the fifth council, he having died many years before the council of Chalcedon was held. But the cases of Theodoret and Ibas had been prominently before the synod; and this not, as Gregory here goes on to intimate, in a supplementary sort of way at the end of the main proceedings: for the eighth, ninth, and tenth sessions had been occupied with them, after which there had been other sessions. For similar inaccuracy on Gregory’s part in referring to past events, see II. 51, note 2; and for an instance of his imperfect acquaintance with the history of past controversies, see VII. 4.
-
-681
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2800,15 +2010,9 @@ Epistle XLVI. To Rusticiana, Patrician.
 
 Gregory to Rusticiana, &c. On receiving your Excellency’s letters I was glad to hear that you had reached Mount Sinai. But believe me, I too should have liked to go with you, but by no means to return with you. And yet I find it very difficult to believe that you have been at the holy places and seen many Fathers. For I believe that, if you had seen them, you would by no means have been able to return so speedily to the city of Constantinople. But now that the love of such a city has in no wise departed from your heart, I suspect that your Excellency did not from the heart devote yourself to the holy things which you saw with the bodily eye. But may Almighty GOD illuminate your mind by the grace of His lovingkindness and give unto you to be wise, and to consider how fugitive are all temporal things, since, while we are thus speaking, both time runs on and the Judge approaches, and lo the moment is even now near when against our will we must give up the world which of our own accord we will not. I beg that the lord Apio and the lady Eusebia, and their daughters, be greeted in my behalf. As to that lady my nurse, whom you commend to me by letter, I have the greatest regard for her, and desire that she should be in no way incommoded. But we are pressed by such great straits that we cannot excuse even ourselves from exactions (angariis)1569 and burdens at this present time.
 
-1568
-
 Concerning this Fortunatus, see also V. 4.
 
-1569
-
 The word angaria, which is of frequent occurrence, denotes exactions and forced services of various kinds.
-
-682
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2816,27 +2020,15 @@ Philip Schaff
 
 Epistle XLVII. To Sabinianus, Deacon1570. Gregory to Sabinianus, &c. Thou knowest what has been done in the case of the prevaricator Maximus1571. For after the most serene LORD the Emperor had sent orders that he should not be ordained1572, then he broke out into a higher pitch of pride. For the men of the glorious patrician Romanus1573 received bribes from him, and caused him to be ordained in such a manner that they would have killed Antoninus, the sub-deacon and rector of the patrimony, if he had not fled. But I despatched letters to him, after I had learnt that he had been ordained against reason and custom, telling him not to presume to celebrate the solemnities of mass unless I should first ascertain from our most serene lords what they had ordered with regard to him. And these my letters, having been publicly promulged or posted in the city, he caused to be publicly torn, and thus bounced forth more openly into contempt of the Apostolic See. How I was likely to endure this thou knowest, seeing that I was before prepared rather to die than that the Church of the blessed apostle Peter should degenerate in my days. Moreover thou art well acquainted with my ways, that I bear long; but if once I have determined not to bear, I go gladly in the face of all dangers. Whence it is necessary with the help of GOD to meet danger, lest he be driven to sin to excess. Look to what I say, and consider what great grief inspires it. But it has come to my ears that he has sent \[to Constantinople\] a cleric, I know not whom, to say that the bishop Malchus1574 was put to death in prison for money. Now as to this there is one thing that thou mayest shortly suggest to our most serene lords;—that, if I their servant had been willing to have anything to do with the death of Lombards, the nation of the Lombards at this day would have had neither king nor dukes nor counts, and would have been divided in the utmost confusion. But, since I fear GOD, I shrink from having anything to do with the death of any one. Now the bishop Malchus was neither in prison nor in any distress; but on the day when he pleaded his cause and was sentenced he was taken without my knowledge by Boniface the notary to his house, where a dinner was prepared for him, and there he dined, and was treated with honour by the said Boniface, and in the night suddenly died, as I think you have already been informed.
 
-1570
-
 He was the pope’s apocrisiarius at Constantinople.
-
-1571
 
 See III. 47, note 2.
 
-1572
-
 In his letter to Maximus (IV. 20), Gregory had only expressed a suspicion that the alleged order of the Emperor for his consecration had been fictitious. He now seems to have satisfied himself that it was so. For a review of the whole case, see III. 47, note 2.
-
-1573
 
 Romanus Patricius was the Exarch of Italy. See I. 33; II. 46; III. 31; V. 24.
 
-1574
-
 See II. 20, note 5.
-
-683
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2850,15 +2042,9 @@ Epistle II. To Felix, Bishop, and Cyriacus, Abbot1575. Gregory to Felix, &c. The
 
 Epistle IV. To Constantius, Bishop.
 
-1575
-
 They had been sent by Gregory into Sardinia with the special purpose of promoting the conversion of the natives, which had been neglected by the bishops and clergy of the island. See V. 41, and IV. 23, note 8.
 
-1576
-
 Apparently the designation of the monastery which had been now at length founded by Theodosia in execution of her late husband’s will. See above, IV. 8, 15. In IV. 15, Gregory had acceded to her desire in view of certain difficulties in carrying out her husband’s intention, to found a nunnery in a house of her own at Cagliari. But it seems that a monastery of monks had in the end been founded.
-
-684
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2868,11 +2054,7 @@ Philip Schaff
 
 Gregory to Constantius, Bishop of Mediolanum (Milan). If licence to be restored to their rank be granted to the lapsed, the force of ecclesiastical discipline is undoubtedly broken, while in the hope of restoration each person fears not to give way to his evil inclinations. Your Fraternity, for instance, has consulted us as to whether Amandinus, ex-presbyter and ex-abbot, who was deposed by your predecessor for fault requiring it, should be called back to his rank; which thing is not allowable; and we decree that it cannot on any account be done. Yet, if it should be the case that his manner of life deserves it, seeing that he has been deprived altogether of his sacred office, assign him a place in a monastery, as you may see fit, before other monks. Above all things, then, take care that no one’s supplication persuade you in any way to restore the lapsed to their sacred orders, lest such punishment should be supposed not to be definitely ordained for them, but only a temporary expedient. As to Vitalianus the ex-presbyter, about whom you write that he should be strictly guarded, we will cause him to be sent into Sicily, that, being deprived of all hope of departure thence, he may then at least constrain himself to penitential bewailing. Jobinus also, of Portus Veneris, once deacon and abbot, we have decreed to be deprived of his office, and written that another should be ordained in his place. In like manner also we decree that the three subdeacons, whom your Fraternity has notified to us as having lapsed, shall ever cease from and stand deprived of their office, and that nothing beyond lay communion be allowed them. Further, we have adjudged the ex-presbyter Saturninus to give security that he will not ever presume to approach the ministry of his sacred order. And we desire him to remain, with deprivation of his sacred order, in the same island in which he was, permitting him to have and exercise care and solicitude with respect to monasteries; for we believe that, his lapse having made him more wary, he will now the more carefully keep guard over those who are committed to him. Further, concerning John, notary of your church, the charity wherewith we love you and have long loved you warns us to write, lest you should order anything with regard to him while you are still provoked by his fault. Guarding, then, against this, enquire fully by all means in your power into the possessions of your church; by which means neither may you offend GOD, nor may he be able to find a ground for accusing you before men. For we write, not as defending John or commending him personally without reason, but lest your soul should be in any way burdened with sin under the incitement of anger. Whence it is needful, as we have before said, that you should by no means neglect to enquire, in the fear of GOD, with a full investigation into the possessions of your church. Furthermore, the epistle of your most dear Fraternity has caused us to wonder much with respect to the person of Fortunatus1577. But either that letter was not dictated by you, or certainly, if it is yours, we by no means recognize in it our brother the lord Constantius. For you ought to have paid, and still ought to pay, attention to the fact that it is in behalf of your reputation that we write.
 
-1577
-
 See IV. 39.
-
-685
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2882,11 +2064,7 @@ For, when he asserts that he suffers wrong among you, and has been unable to pro
 
 Epistle V. To Dominicus, Bishop. Gregory to Dominicus, Bishop of Carthage. Prosper your delegate (responsalis), the bearer of these presents, has been with us, and after other expressions of your charity handed us your second letters with an allegation of the imperial commands, and a paper giving an account of the synod that has been held among you1578. Having read all, we rejoiced for your pastoral zeal, and that our most pious lords had given no ear to the calumnies of venal persons brought against you on the plea of religion; but especially that your Fraternity has so taken pains to preserve the African province as in no wise to neglect to restrain with priestly fervour the devious sects of heretics; concerning the quieting of whom we remember having laid down the law so fully, even before consulting the letters of your Charity, that we do not believe that anything needs to be said again in reply to you about them. Although, however, this is so, and though we desire all heretics to be repressed always with vigour and reason by catholic priests, yet, on looking thoroughly into what has been done among you, we are in fact apprehensive lest offence should thereby be caused (which thing may the LORD avert) to the primates of other councils. For at the conclusion of your acts you have promulged a sentence, in which, while ordering the searching out of those heretics, you have brought in that those who neglect the duty are to be punished by forfeiture of their possessions and dignities. It is therefore best, most dear brother,
 
-1578
-
 This had been a synod held at Carthage for the suppression of the Donatists. Cf. I. 74, note 8. Gregory, while fully approving, as he shows elsewhere, of strict enforcement of the imperial laws against them, expresses fear in this epistle lest the council lately held might have gone too far, so as to endanger the unity of the African Church, in exceeding the decrees of synods that had been held elsewhere, and especially in ordering severe measures against bishops or others who might be remiss in the work of suppressing heresy.
-
-686
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2900,11 +2078,7 @@ Epistle VIII. To Cyprian, Deacon.
 
 Gregory to Cyprian, deacon and rector of the patrimony of Sicily. Concerning the Manicheans who are on our possessions I have frequently admonished thy Love to press them with the utmost diligence, and recall them to the Catholic faith. If, then, the time requires it, make enquiries in person, or, if other business does not allow this, through others. Further, it has come to my ears that there are Hebrews on our possessions who will not by any means be converted to GOD. But it seems to me that thou shouldest send letters through all our possessions on which these Hebrews are known to be, promising them particularly from me that whosoever of them shall have been converted to our true LORD GOD Jesus Christ shall have the burdens of his holding lightened. And this I wish to have done in such sort that, if one has a payment to make of one solidus, a third should be remitted him; if of three or four, that one solidus should be remitted; if of any more, the remission should still be made in the same proportion, or at any rate according as thy Love sees fit, so that one who is converted may have some relief of his burden, and the Church may not be put to heavy expense. Nor shall we do this unprofitably, if by lightening the burdens of their payments we bring them to the grace of Christ, since, though they themselves came with little faith, yet those who may be born of them will now be baptized with more faith: thus we gain either them or their children. And whatever amount of payment we let them off for the sake of Christ is nothing serious. Furthermore, some time ago, when John the deacon came, thy Love wrote something to me, the whole of which I read at the time, but let many days intervene before replying; and then, after such delay, replied to all particulars as I recollected them. But now I think that one point escaped my memory, and suspect that I gave no reply about it. For thou hadst written that loans were being advanced to peasants (rusticis) through certain undertakers for their debt1579, lest in borrowing from others they should be burdened either by exactions or by the prices
 
-1579
-
 Per manus quorundam debiti conductorum. If the word debiti(absent from some MSS.) is read here, the meaning may be that certain persons, called debiti conductores, undertook the recovery of the arrears of the rustici, and that through them easy loans were advanced to such as were unable to pay at the proper time. Cf. I. 44, p. 89. For the ordinary meaning of conductores (without debiti), in connexion with the Church estates, see I. 44, p, 89, note 5.
-
-687
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2916,11 +2090,7 @@ Epistle XI. To John, Bishop. Gregory to John, Bishop of Ravenna. I find that you
 
 Epistle XV.
 
-1580
-
 Aut in angariis aut in rerum pretio. The word angaria is applicable to any kind of vexatious exaction, either in the way of forced labour or in other ways. “Per angarias intelliguntur vexationes et injuriæ quælibet.” Du Cange. It may be used here for exorbitant interest on loans obtained from usurers. As to rerum pretio, cf. I. 44, p. 89, about burdatio, and note 2.
-
-688
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2932,15 +2102,9 @@ To John, Bishop.
 
 Gregory to John, Bishop of Ravenna. In the first place this makes me sad; that thy Fraternity writes to me with a double heart, exhibiting one sort of blandishment in letters, but another sort with the tongue in secular intercourse. In the next place, it grieves me that my brother John even to this day retains on his tongue those gibes which notaries while still boys are wont to indulge in. He speaks bitingly, and seems to delight in such pleasantry. He flatters his friends in their presence, and maligns them in their absence. Thirdly, it is to me grievous and altogether execrable, that he imputes shameful crimes to his servants1581, whatever the hour may be, calling them “effeminate;” and, what is still more grievous, this is done openly. Then there is this in addition that there is no discipline for keeping guard over the life of the clergy, but that he exhibits himself only as their lord. The last thing, but first in importance as evidence of elation, is about his use of the pallium outside the church, which is a thing he never presumed to do in the times of my predecessors, and what none of his predecessors ever presumed to do, as our delegates testify (except it might be when relics were deposited, though with regard to relics one person only could be found to say that it was so); yet this in my days, in contempt of me, with extreme audacity, he not only did, but even made a habit of doing. From all these things I find that the dignity of the Episcopacy is with him all in outside show, not in his mind. And indeed I return thanks to Almighty GOD that at the time when this came to my knowledge, which had never reached the ears of my predecessors, the Lombards were posted between me and the city of Ravenna. For perchance I had it in my mind to shew to men how severe I can be1582. Lest, however, thou shouldest suppose that I wish thy church to be depressed or lessened in dignity, remember where the deacon of Ravenna used to stand in solemnization of mass at Rome, and enquire where he stands now; and thou wilt recognize the fact that I desire to honour the church of Ravenna. But that any one whatever should snatch at anything out of pride, this I cannot tolerate. Nevertheless I have already written on this matter to our deacon at Constantinople, that he should enquire of all who have under them even thirty or forty bishops. And if there is anywhere this custom of their walking in litanies wearing the pallium, GOD forbid that through me the dignity of the church of Ravenna should seem to be in any way lessened. Reflect, therefore, dearest brother, on all that I have said above: think of the day of thy call: consider what account thou wilt render of the burden of episcopacy. Amend those manners of a notary. See what becomes a bishop in tongue and in deed. Be entirely sincere to thy brethren. Do “Servis tuis turpia crimina imponis,”—apparently meaning that at all hours he was accustomed to call them by opprobrious
 
-1581
-
 names. The meaning may be, “I am thankful now that the fact of communication between Rome and Ravenna being blocked by
 
-1582
-
 the Lombards when the matter first reached my ears prevented my acting so peremptorily as I might then have been disposed to do.”
-
-689
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2954,19 +2118,11 @@ Epistle XVII. To Cyprian, Deacon1583.
 
 Gregory to Cyprian, &c. I received your letters of most bitter import about the death of the LORD Maximianus1584 in the month of November. And he indeed has reached the rewards he longed for, but the unhappy people of the city of Syracuse is to be commiserated as not having been counted worthy to have such a pastor long. Accordingly let thy Love take anxious heed that such a one may be chosen for ordination in the same church as may not seem to obtain undeservedly the same place of rule after the lord Maximianus. And indeed I believe that the majority would choose the presbyter Trajan, who, as is said, is of a good disposition, but, as I suspect, not fit for ruling in that place. Yet, if a better cannot be found, and if there are no charges against him, he may be condescended to under stress of very great necessity. But, if my wishes are asked with regard to this election, I inform thee privately of what I do wish: for no one in this same church appears to me so worthy after the lord Maximianus as John the archdeacon of the church of Catana. And, if his election can be brought about, I believe that he will be found an exceedingly fit person. But he too must first be enquired about by thee privately as to any charges against him that may stand in the way. If he should be found free from any, he may be rightly chosen. Should this be done, our brother and fellow-bishop Leo1585 will also have to give him leave to go, that he may be found free to be ordained. These things, then, I have taken care to intimate to thy Love; and it will now be thy concern to look round thee on all sides carefully, and arrange what is pleasing to GOD.
 
-1583
-
 The deacon Cyprian had succeeded the sub-deacon Peter as rector patrimonii in Sicily, and Gregory’s general agent there, through whom he acted in ecclesiastical as well as temporal matters, at any rate now, after the death of Maximianus of Syracuse.
-
-1584
 
 See II. 7, note 5.
 
-1585
-
 Bishop of Catana where this John was archdeacon.
-
-690
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2974,11 +2130,7 @@ Philip Schaff
 
 Epistle XVIII. To John, Bishop. Gregory to John, Bishop of Constantinople1586. At the time when your Fraternity was advanced to Sacerdotal dignity, you remember what peace and concord of the churches you found. But, with what daring or with what swelling of pride I know not, you have attempted to seize upon a new name, whereby the hearts of all your brethren might have come to take offence. I wonder exceedingly at this, since I remember how thou wouldest fain have fled from the episcopal office rather than attain it. And yet, now that thou hast got it, thou desirest so to exercise it as if thou hadst run to it with ambitious intent. For, having confessed thyself unworthy to be called a bishop, thou hast at length been brought to such a pass as, despising thy brethren, to covet to be named the only bishop. And indeed with regard to this matter, weighty letters were addressed to your Holiness by my predecessor Pelagius of holy memory; in which he annulled the acts of the synod, which had been assembled among you in the case of our once brother and fellow-bishop Gregory, because of that execrable title of pride, and forbade the archdeacon whom he had sent according to custom to the threshold of our lord, to celebrate the solemnities of mass with you. But after his death, when I, unworthy, succeeded to the government of the Church, both through my other representatives and also through our common son the deacon Sabinianus, I have taken care to address your Fraternity, not indeed in writing, but by word of mouth, desiring you to restrain yourself from such presumption. And, in case of your refusing to amend, I forbade his celebrating the solemnities of mass with you; that so I might first appeal to your Holiness through a certain sense of shame, to the end that, if the execrable and profane assumption could not be corrected through shame, strict canonical measures might be then resorted to. And, since sores that are to be cut away should first be stroked with a gentle hand, I beg you, I beseech you, and with all the sweetness in my power demand of you, that your Fraternity gainsay all who flatter you and offer you this name of error, nor foolishly consent to be called by the proud title. For truly I say it weeping, and out of inmost sorrow of heart attribute it to my sins, that this my brother, who has been constituted in the grade of episcopacy for the very end of bringing back the souls of others to humility, has up to the present time been incapable of being brought back to humility; that he who teaches truth to others has not consented to teach himself, even when I implore him. Consider, I pray thee, that in this rash presumption the peace of the whole Church is disturbed, and that it is in contradiction to the grace that is poured out on all in common; in which grace doubtless thou thyself wilt have power to grow so far as thou determinest with thyself to do so. And thou wilt become by so much the greater as thou restrainest thyself from the usurpation of a proud and foolish title: and thou wilt make advance in proportion as thou art not bent on arrogation by derogation of thy brethren. Wherefore, dearest brother, with all thy heart love humility, through
 
-1586
-
 On the same occasion of this letter and subsequent correspondence on the same subject, see Prolegomena, pp. xiv., xxii.
-
-691
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -2988,19 +2140,13 @@ Philip Schaff
 
 which the concord of all the brethren and the unity of the holy universal Church may be preserved. Certainly the apostle Paul, when he heard some say, I am of Paul, I of Apollos, but I of Christ (1 Cor. i. 13), regarded with the utmost horror such dilaceration of the LORD’S body, whereby they were joining themselves, as it were, to other heads, and exclaimed, saying, Was Paul crucified for you? or were ye baptized in the name of Paul(ib.)? If then he shunned the subjecting of the members of Christ partially to certain heads, as if beside Christ, though this were to the apostles themselves, what wilt thou say to Christ, who is the Head of the universal Church, in the scrutiny of the last judgment, having attempted to put all his members under thyself by the appellation of Universal? Who, I ask, is proposed for imitation in this wrongful title but he who, despising the legions of angels constituted socially with himself, attempted to start up to an eminence of singularity, that he might seem to be under none and to be alone above all? Who even said, I will ascend into heaven, I will exalt my throne above the stars of heaven: I will sit upon the mount of the testament, in the sides of the North: I will ascend above the heights of the clouds; I will be like the most High (Isai. xiv. 13). For what are all thy brethren, the bishops of the universal Church, but stars of heaven, whose life and discourse shine together amid the sins and errors of men, as if amid the shades of night? And when thou desirest to put thyself above them by this proud title, and to tread down their name in comparison with thine, what else dost thou say but I will ascend into heaven; I will exalt my throne above the stars of heaven? Are not all the bishops together clouds, who both rain in the words of preaching, and glitter in the light of good works? And when your Fraternity despises them, and you would fain press them down under yourself, what else say you but what is said by the ancient foe, I will ascend above the heights of the clouds? All these things when I behold with tears, and tremble at the hidden judgments of GOD, my fears are increased, and my heart cannot contain its groans, for that this most holy man the lord John, of so great abstinence and humility, has, through the seduction of familiar tongues, broken out into such a pitch of pride as to attempt, in his coveting of that wrongful name, to be like him who, while proudly wishing to be like GOD, lost even the grace of the likeness granted him, and because he sought false glory, thereby forfeited true blessedness. Certainly Peter, the first of the apostles, himself a member of the holy and universal Church, Paul, Andrew, John,—what were they but heads of particular communities? And yet all were members under one Head. And (to bind all together in a short girth of speech) the saints before the law, the saints under the law, the saints under grace, all these making up the LORD’S Body, were constituted as members of the Church, and not one of them has wished himself to be called universal. Now let your Holiness acknowledge to what extent you swell within yourself in desiring to be called by that name by which no one presumed to be called who was truly holy. Was it not the case, as your Fraternity knows, that the prelates of this Apostolic See which by the providence of GOD I serve, had the honour offered them of being called universal by the venerable
 
-692
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
 
 Council of Chalcedon1587. But yet not one of them has ever wished to be called by such a title, or seized upon this ill-advised name, lest if, in virtue of the rank of the pontificate, he took to himself the glory of singularity, he might seem to have denied it to all his brethren. But I know that all arises from those who serve your Holiness on terms of deceitful familiarity; against whom I beseech your Fraternity to be prudently on your guard, and not to lay yourself open to be deceived by their words. For they are to be accounted the greater enemies the more they flatter you with praises. Forsake such; and, if they must needs deceive, let them at any rate deceive the hearts of worldly men, and not of priests. Let the dead bury their dead (Luke ix. 60). But say ye with the prophet, Let them be turned back and put to shame that say unto me, Aha, Aha (Ps. lxix. 4). And again, But let not the oil of the sinner lard my head (Ps. cxl. 5). Whence also the wise man admonishes well,Be in peace with many: but have but one counsellor of a thousand (Ecclus. vi. 6). For Evil communications corrupt good manners (1 Cor. xv. 33). For the ancient foe, when unable to break into strong hearts, looks out for weak persons who are associated with them, and, as it were, scales lofty walls by ladders set against them. So he deceived Adam through the woman who was associated with him. So, when he slew the sons of the blessed Job, he left the weak woman, that, being unable of himself to penetrate his heart, he might at any rate be able to do so through the woman’s words. Whatever weak and secular persons, then, are near you, let them be shattered in their own persuasive words and flattery, since they procure to themselves the eternal enmity of GOD from their very frowardness in being seeming lovers. Of a truth it was proclaimed of old through the Apostle John, Little children, it is the last hour (1 John ii. 18), according as the Truth foretold. And now pestilence and sword rage through the world, nations rise against nations, the globe of the earth is shaken, the gaping earth with its inhabitants is dissolved. For all that was foretold is come to pass. The king of pride is near, and (awful to be said!) there is an army of priests in course of preparation for him, inasmuch as they who had been appointed to be leaders in humility enlist themselves under the neck of pride. But in this matter, even though our tongue protested not at all, the power of Him who in His own person peculiarly opposes the vice of pride is lifted up for vengeance against elation. For hence it is written, GOD resisteth the proud, but giveth grace unto the humble (Jam. iv. 6). Hence, again, it is said, Whoso exalteth his heart is unclean before GOD (Prov. xvi. 5). Hence, against the man that is proud
 
-1587
-
-As to this assertion (repeated in V. 20, 43, and in VIII. 30), Giesler says, “Gregory was mistaken in believing that at the Council of Chalcedon the nameUniversalis Episcopuswas given to the bishop of Rome. He is styled !"#!$%&'(#)\* +,-(&./0#!.!\* (Mansi VI. 1006, 1012), as other patriarchs also. But in another place the title was surreptitiously introduced into the Latin acts by the Romish legates. In the sentence passed on Dioscurus, actio iii (Mansi VI. 1048), the Council say, 1 23(4565!\* #67 %6#6,(4565!\* +,-(&./0#!.!\* 58\* %&39:;\* #67 .,&0<$5=,6\* >?4%;\* @=A': on the contrary, in the Latin acts which Leo sent to the Gallic bishops (Leonis, Ep. 103, al. 82), we read; ‘Sanctus ac beatissimus Papa, caput universalis Ecclesiæ, Leo.’ In the older editions the beginning of Leo’s Epist. 97 (ap. Quesn. 134, Baller. 165), runs thus: ‘Leo Romæ et universalis catholicæque Ecclesiæ Episcopus Leoni semper Augusto salutem.’ Quesnel and the Ballerini, however, found in all the Codices only, ‘Leo Episcopus Leoni Augusto.’” (Giesler’s Eccl. Hist., 2nd Period, 1st Division, ch. iii. § 94, note 72).
-
-693
+As to this assertion (repeated in V. 20, 43, and in VIII. 30), Giesler says, “Gregory was mistaken in believing that at the Council of Chalcedon the nameUniversalis Episcopuswas given to the bishop of Rome. He is styled !"#!$%&'(#)\* +,-(&./0#!.!\* (Mansi VI. 1006, 1012), as other patriarchs also. But in another place the title was surreptitiously introduced into the Latin acts by the Romish legates. In the sentence passed on Dioscurus, actio iii (Mansi VI. 1048), the Council say, 1 23(4565!\* #67 %6#6,(4565!\* +,-(&./0#!.!\* 58\* %&39:;\* #67 .,&0\<$5=,6\* >?4%;\* @=A': on the contrary, in the Latin acts which Leo sent to the Gallic bishops (Leonis, Ep. 103, al. 82), we read; ‘Sanctus ac beatissimus Papa, caput universalis Ecclesiæ, Leo.’ In the older editions the beginning of Leo’s Epist. 97 (ap. Quesn. 134, Baller. 165), runs thus: ‘Leo Romæ et universalis catholicæque Ecclesiæ Episcopus Leoni semper Augusto salutem.’ Quesnel and the Ballerini, however, found in all the Codices only, ‘Leo Episcopus Leoni Augusto.’” (Giesler’s Eccl. Hist., 2nd Period, 1st Division, ch. iii. § 94, note 72).
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3020,15 +2166,9 @@ the brethren are provoked to offence. What! Has it escaped your memory how the T
 
 Epistle XIX. To Sabinianus, Deacon1589.
 
-1588
-
 Cf. III. 53, and reff.
 
-1589
-
 Sabinianus was at this time the pope’s apocrisiarius, or responsalis, at Constantinople.
-
-695
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3038,11 +2178,7 @@ Gregory to Sabinianus, &c. In the cause of our brother the most reverend John, b
 
 Epistle XX. To Mauricius Augustus. Gregory to Mauricius, &c. Our most pious and God-appointed lord, among his other august cares and burdens, watches also in the uprightness of spiritual zeal over the preservation of peace among the priesthood,
 
-1590
-
 Cum eo procedere, i.e. in effect, to communicate with him. Procedere means to approach the altar for celebration. Cf. III. 57, “ingredientibus diaconibus ut mox procedatur.”
-
-696
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3054,8 +2190,6 @@ inasmuch as he piously and truly considers that no one can govern earthly things
 
 The ironical allusion here to John the Faster is evident.
 
-697
-
 NPNF212. Leo the Great, Gregory the Great
 
 171b
@@ -3065,8 +2199,6 @@ Philip Schaff
 universal apostle; while the most holy man, my fellow-priest John, attempts to be called universal bishop. I am compelled to cry out and say, O tempora, O mores! Lo, all things in the regions of Europe are given up into the power of barbarians, cities are destroyed, camps overthrown, provinces depopulated, no cultivator inhabits the land, worshippers of idols rage and dominate daily for the slaughter of the faithful, and yet priests, who ought to lie weeping on the ground and in ashes, seek for themselves names of vanity, and glory in new and profane titles. Do I in this matter, most pious lord, defend my own cause? Do I resent my own special wrong? Nay, the cause of Almighty GOD, the cause of the Universal Church. Who is this that, against the evangelical ordinances, against the decrees of canons, presumes to usurp to himself a new name? Would indeed that one by himself he were, if he could be without any lessening of others,—he that covets to be universal. And certainly we know that many priests of the Constantinopolitan Church have fallen into the whirlpool of heresy, and have become not only heretics, but even heresiarchs. For thence came Nestorius, who, thinking Jesus Christ, the Mediator of GOD and men, to be two persons, because he did not believe that GOD could be made man, broke out even into Jewish perfidy. Thence came Macedonius, who denied that GOD the Holy Spirit was consubstantial with the Father and the Son. If then any one in that Church takes to himself that name, whereby he makes himself the head of all the good, it follows that the Universal Church falls from its standing (which GOD forbid), when he who is called Universal falls. But far from Christian hearts be that name of blasphemy, in which the honour of all priests is taken away, while it is madly arrogated to himself by one. Certainly, in honour of Peter, Prince of the apostles, it was offered by the venerable synod of Chalcedon to the Roman pontiff1592. But none of them has ever consented to use this name of singularity, lest, by something being given peculiarly to one, priests in general should be deprived of the honour due to them. How is it then that we do not seek the glory of this title even when offered, and another presumes to seize it for himself though not offered? He, then, is rather to be bent by the mandate of our most pious Lords, who scorns to render obedience to canonical injunctions. He is to be coerced, who does wrong to the holy Universal Church, who swells in heart, who covets rejoicing in a name of singularity, who also puts himself above the dignity of your Empire through a title peculiar to himself. Behold, we all suffer offence for this thing. Let then the author of the offence be brought back to a right way of life; and all quarrels of priests will cease. For I for my part am the servant of all priests, so long as they live as becomes priests. For whosoever, through the swelling of vain glory, lifts up his neck against Almighty GOD and against the statutes of the Fathers, I trust in Almighty GOD that he will not bend my neck to himself, not even with swords. Moreover what has been done in this city on our hearing of this title, I have indicated in full to my deacon and responsalis Sabinianus. Let then the piety of my lords think of me as their own, 1592
 
 Cf. V. 18, and note 5.
-
-698
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3078,11 +2210,7 @@ Epistle XXI. To Constantina Augusta1593. Gregory to Constantina, &c. Almighty GO
 
 The main purport of this letter to the Empress is to induce her to move the Emperor to disallow the title of Universal
 
-1593
-
 Bishop assumed by the patriarch of Constantinople; but at the end of the letter he takes occasion to solicit her good offices also in the case of Maximus, bishop of Salona for an account of which, with references to other letters on the subject, cf. III. 47, note 2.
-
-699
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3110,19 +2238,11 @@ Gregory to Castorius, &c. Our hearing of the death of our brother and fellow-bis
 
 Epistle XXV. To Severus, Bishop. Gregory to Severus, Bishop of Ficulum. The report that has been sent to us has informed us of the death of the bishop John1596. Wherefore we solemnly delegate to thy Fraternity the work of the visitation of the bereaved Church: which work it becomes thee so to execute that no one may presume to interfere with respect to the promotions of the clergy, the revenues, ornaments, ministrations, or whatever else belongs to the patrimony of the same Church. According to custom.
 
-1594
-
 Viz. John bishop of Ravenna, as to whom see III. 56, 57; V. 11, 15. Marinianus was elected in his place. See VI. 34, 61.
-
-1595
 
 De præcedentibus. Al. de præcedentibus diaconibus.
 
-1596
-
 Viz. John, bishop of Ravenna. See Ep. 23.
-
-702
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3136,15 +2256,9 @@ Epistle XXX. 174b
 
 To Mauricius Augustus. Gregory to Mauricius, &c.
 
-1597
-
 Cf. II. 6, note 3.
 
-1598
-
 We have in this epistle the form of appointment to the office of Defensor Ecclesiæ. Cf. XI. 38. From IX. 62 it appears that the functions of the office had in some cases been usurped by persons not duly authorized, as it is there ordered that none should be recognized but such as possessed letters of appointment. The only duties of the office specified in this form of appointment have reference to the poor—“pro pauperum commodis;” but it is evident from the many epistles addressed to defensores, that they had a much wider scope. See Prolegomena, p. vii.
-
-703
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3156,17 +2270,11 @@ Epistle XXXVI. To Severus, Scholasticus Gregory to Severus, Scholasticus to the 
 
 Or Scribo may be the official designation of the officer commissioned to distribute the imperial bounty. Cf. II. 32, note
 
-1599
-
 7\. Or Scribo may be the official designation of the officer commissioned to distribute the imperial bounty. Cf. II. 32, note
-
-1600
 
 7\. 1601
 
 “SCHOLASTICUS—Quivis eloquens, disertus, oratoriæ facultatis et politiaris literaturæ studiis eruditus.—Advocatus, patronus, qui causam in foro agit; sed proprie peritus, eloquens, disertus patronus (Cod. Theod).” \[D’Arnis’ Lexicon Manuale.\] Severus may be concluded to have been the Exarch’s legal adviser.
-
-704
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3180,11 +2288,7 @@ Epistle XXXIX. To Anastasius, Bishop1602.
 
 Gregory to Anastasius, Bishop of Antioch. Glory to GOD in the highest and on earth peace to men of good will (Luke ii. 14), because that great river which once had left the rocks of Antioch dry has returned at length to its proper channel, and waters the subject valleys that are near, so as also to bring forth fruit, some thirty-fold, some sixty-fold, and some an hundred-fold. For now there is no doubt that many flowers of souls are growing up in its valleys, and that they will come even to ripe fruit through the streams of your tongue. Wherefore with voice of heart and mouth from our inmost soul we render due praise to Almighty GOD, and rejoice in your Blessedness, not with you only, but with all who are subject to you. I have received the letters of your Holiness, to me most sweet and pleasant, while we ourselves, if I may so speak, are sweating under the same toil with you. And indeed I know how heavy must be to thee the burden of external cares after those heights of rest, wherein with the hand of the heart thou wert touching heavenly secrets. But remember that thou rulest an Apostolic See, and assuagest sorrow the more readily from being made all things to all men. In the Books of Kings, as your accomplished Holiness knows, a certain man is described who used either hand for the right hand (1 Chron. xii. 2). And, with regard to this, I am not doubtful about the lord Anastasius, of old my most sweet and most holy patron, that, while he draws earthly works to heavenly profit, he turns
 
-1602
-
 See I. 7, note 5. Anastasius had now been recently restored to his patriarchal see.
-
-705
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3194,19 +2298,11 @@ the left hand to the right hand’s use; so that his heavenly intentness may acc
 
 Epistle XL. To Mauricius Augustus.
 
-1603
-
 The expression is found in the spurious, but not in what are held to be the genuine, epistles of St. Ignatius.
-
-1604
 
 For Gregory’s view of Antioch having been St. Peter’s see previously to his presiding over that of Rome, and of the sees of Rome, Alexandria, and Antioch jointly representing the see of the Prince of the Apostle’s, see especially VII. 40. Cf. also VI. 60; VIII. 2; X. 35.
 
-1605
-
 Benedictio, meaning a present. See IV. 31, note 9.
-
-706
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3216,11 +2312,7 @@ Philip Schaff
 
 Gregory to Mauricius, &c. The Piety of my Lords in their most serene commands, while set on refuting me on certain matters, in sparing me has by no means spared me. For by the use therein of the term simplicity they politely call me silly. It is true indeed that in Holy Scripture, when simplicity is spoken of in a good sense, it is often carefully associated with prudence and uprightness. Hence it is written of the blessed Job, The man was simple and upright (Job i. 1). And the blessed Apostle Paul admonishes saying Be ye simple in evil and prudent in good (Rom. xvi. 19). And the Truth in person admonishes saying, Be ye prudent as serpents, and simple as doves (Matth. x. 16); thus shewing it to be very unprofitable if either prudence should be wanting to simplicity, or simplicity to prudence. In order, then, to make His servants instructed for all things He desired them to be both simple as doves, and prudent as serpents, that so both the cunning of the serpent might sharpen in them the simplicity of the dove, and the simplicity of the dove temper the cunning of the serpent. I therefore, who am denounced in the most serene commands of my Lords as simple without the addition of prudence, as having been deceived by the cunning of Ariulph, am plainly and undoubtedly called silly; which I also myself acknowledge to be the case. For, though your Piety were silent, the facts cry out. For, if I had not been silly, I should by no means have come to endure what I suffer in this place among the swords of the Lombards. Moreover, in what I stated about Ariulph, that he was prepared with all his heart to come to terms with the republic, seeing that I am not believed, I am reproved also as having lied. But, although I am not a priest1606, I know it to be a grave injury to a priest that, being a servant of the truth, he should be believed to be deceitful. And I have been for some time aware that Nordulph is believed before me, and Leo before me, and that now easy credence is given to those who seem to be in your confidence more than to my assertions. And indeed if the captivity of my land were not increasing day by day, I would gladly pass over in silence contempt and ridicule of myself. But this does afflict me exceedingly, that from my bearing the charge of falsehood it ensues also that Italy is daily led captive under the yoke of the Lombards. And, while my representations are in no wise believed, the strength of the enemy is increasing hugely. This however I suggest to my most pious lord, that he would think anything that is bad of me, but, with regard to the advantage of the republic and the cause of the rescue of Italy, not easily lend his pious ears to any one, but believe facts rather than words. Moreover, let not our lord, in virtue of his earthly power, too hastily disdain priests, but with excellent consideration, on account of Him whose servants they are, so rule over them as also to pay the reverence that is due to them. For in Holy Writ priests are sometimes called gods, and sometimes angels. For even through Moses it is said of him who is to be put upon his oath, Bring him unto the gods (Exod. xxii. 8); that is unto the priests. And again it is written, Thou shalt not revile the gods (Ib. 28), to wit, the priests. And the prophet says, The priest’s lips shall keep knowledge, and
 
-1606
-
 This may be an ironical allusion to something the Emperor had said in his letter to Gregory.
-
-707
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3240,11 +2332,7 @@ Epistle XLI. To Constantina Augusta. Gregory to Constantina, &c. Knowing how my 
 
 For the circumstances referred to in this epistle, see Proleg., p. xix. It shews how outspoken Gregory could be, when greatly moved, in addressing the Emperor, notwithstanding his accustomed deference.
 
-1608
-
 i.e. the payment to the imperial government required from judges or other functionaries in consideration of their appointment. “SUFFRAGIUM. Pecuniæ quæ suffragii titulo ab Imperatoribus accipiebantur cum honores deferebant, quæ !"#$%&'(); vocantur in formula jurisjurandi.—Novellæ Justiniani 8, cujus titulus est, ut judices sine suffragio fiant.” Du Cange.
-
-709
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3256,11 +2344,7 @@ harder or more cruel than being so straitened and squeezed as to be compelled to
 
 Epistle XLII. To Sebastian, Bishop. Gregory to Sebastian, Bishop of Sirmium. I have received the most sweet and pleasant letter of thy Fraternity, which, though you are never absent from my heart, has nevertheless made your Holiness as it were present with me bodily. But I beseech Almighty GOD to protect you with His right hand, and to grant you a tranquil life here, and, when it shall please Him, eternal rewards. But I beg you, if you love me with that love wherewith you always loved me when we were together, to pray for me more earnestly, that so Almighty GOD may loose me from the bands of my sins, and make me to stand free in His sight, released from the burden of this corruption. For, however inestimable be the sweetness of the heavenly country for drawing one towards it, yet there are many sorrows in this life to impel us
 
-1609
-
 Titulos, i.e. notices put upon properties, asserting claim, or announcing sale, &c.
-
-710
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3270,15 +2354,9 @@ daily to the love of heavenly things. And these only please me exceedingly from 
 
 Epistle XLIII. To Eulogius and Anastasius, Bishops. Gregory to Eulogius, Bishop of Alexandria, and Anastasius, Bishop of Antioch. When the excellent preacher says, As long as I am the apostle of the Gentiles I will honour my ministry (Rom. xi. 13); saying again in another place, We became as babes among you (1 Thess. ii. 7), he undoubtedly shews an example to us who come after him, that we should retain humility in our minds, and yet keep in honour the dignity of our order, so that neither should our humility be timid nor our elevation proud. Now eight years ago, in the time of my predecessor of holy
 
-1610
-
 Romanus Patricius, the Exarch.
 
-1611
-
 Viz. of Antioch.
-
-711
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3288,11 +2366,7 @@ Philip Schaff
 
 memory Pelagius, our brother and fellow-bishop John in the city of Constantinople, seeking occasion from another cause, held a synod in which he attempted to call himself Universal Bishop. Which as soon as my said predecessor knew, he despatched letters annulling by the authority of the holy apostle Peter the acts of the said synod; of which letters I have taken care to send copies to your Holiness. Moreover he forbade the deacon who attended us the most pious Lords for the business of the Church to celebrate the solemnities of mass with our aforesaid fellow-priest. I also, being of the same mind with him, have sent similar letters to our aforesaid fellow-priest, copies of which I have thought it right to send to your Blessedness, with this especial purpose, that we may first assail with moderate force the mind of our before-named brother concerning this matter, wherein by a new act of pride, all the bowels of the Universal Church are disturbed. But, if he should altogether refuse to be bent from the stiffness of his elation, then, with the succour of Almighty GOD, we may consider more particularly what ought to be done. For, as your venerable Holiness knows, this name of Universality was offered by the holy synod of Chalcedon to the pontiff of the Apostolic See which by the providence of GOD I serve1612. But no one of my predecessors has ever consented to use this so profane a title; since, forsooth, if one Patriarch is called Universal, the name of Patriarch in the case of the rest is derogated. But far be this, far be it from the mind of a Christian, that any one should wish to seize for himself that whereby he might seem in the least degree to lessen the honour of his brethren. While, then, we are unwilling to receive this honour when offered to us, think how disgraceful it is for any one to have wished to usurp it to himself perforce. Wherefore let not your Holiness in your epistles ever call any one Universal, lest you detract from the honour due to yourself in offering to another what is not due. Nor let any sinister suspicion make your mind uneasy with regard to our most serene lords, inasmuch as he fears Almighty GOD, and will in no way consent to do anything against the evangelical ordinances, against the most sacred canons. As for me, though separated from you by long spaces of land and sea, I am nevertheless entirely conjoined with you in heart. And I trust that it is so in all respects with your Blessedness towards me; since, when you love me in return, you are not far from me. Hence we give thanks the more to that grain of mustard seed (Matth. xiii. 31, 32), for that from what appeared a small and despicable seed it has been so spread abroad everywhere by branches rising and extending themselves from the same root that all the birds of heaven may make their nests in them. And thanks be to that leaven which, in three measures of meal, has leavened in unity the mass of the whole human race (Matth. xiii. 33); and to the little stone, which, cut out of the mountain without hands, has occupied the whole face of the earth (Dan. ii. 35), and which to this end everywhere distends itself, that from the human race reduced to unity the body of the whole Church might be perfected, and so this distinction between the several members might serve for the benefit of the compacted whole.
 
-1612
-
 Cf. V. 18, and note.
-
-712
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3310,11 +2384,7 @@ elation of a pompous expression to aim at subjugating to himself all the members
 
 Epistle XLVIII. To Andrew, Scholasticus1613. Gregory to Andrew, &c.
 
-1613
-
 On the term “Scholasticus,” see V. 36, note 9. It appears from this and other epistles that persons thus designated were addressed as “Gloria vestra.” The “Patrician” mentioned in this letter as having recommended the Archdeacon Donatus to succeed John as Archbishop of Ravenna, was Romanus Patricius, Exarch of Italy, who died A.D. 598. He is often addressed or referred to in the Epistles. See Index.
-
-714
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3326,15 +2396,9 @@ We have been desirous of carrying out the wish of the most excellent the lord Pa
 
 Epistle XLIX. To Leander, Bishop. Gregory to Leander, Bishop of Hispalis (Seville). With what ardour I am athirst to see thee thou readest in the tables of thine own heart, since thou lovest me exceedingly. But since I cannot see thee, separated as thou art from me by long tracts of country, I have done what charity towards thee dictated, namely to transmit to thy Holiness, on the arrival here of our common son Probinus the presbyter, the book of Pastoral Rule, which I wrote at the commencement of my episcopate, and the books which thou knewest I had already composed on the exposition of the blessed Job. Some sheets indeed of the third and fourth parts
 
-1614
-
 See above V. 23.
 
-1615
-
 For subsequent notices of Marinianus, see Index.
-
-715
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3344,11 +2408,7 @@ of that work I have not sent to thy Charity, having already given those sheets o
 
 Epistle LII. To John, Archbishop. Gregory to John, Archbishop of the Corinthians. The equity and solicitude of Secundinus our brother and fellow-bishop, which had been well known to us of old, is shewn also by the tenor of your letters. In this matter he has greatly pleased us, and made us glad, in that in the cause of Anastasius1616, once bishop, which we charged him to enquire into, he has both exercised his vigilance diligently and judged the crimes that were discovered as justice required, and as was right. But in all these things we return thanks to Almighty GOD for that, when certain accusers held back, He brought the truth to his knowledge, lest the originator of such great crimes should escape detection. But seeing that, in the sentence wherein it is evident that the above-named Anastasius has been justly condemned and deposed, our above-named brother and fellow-bishop has visited the offence of certain persons in such a manner as to reserve them for our judgment, we therefore have seen fit to signify by this present epistle what is to be held to and observed concerning them. As to Paul the deacon then, the bearer of these presents, although his fault is exceedingly to his shame and discredit—namely, that deluded by promises, he held back from accusation of his late bishop who has been lately deposed, and that, in the eagerness of cupidity, he consented, against his own soul, to keep silence rather than declare the truth—yet, since it befits us to be more kind than strict, we pardon him this fault, and decide that he is to be received again into his rank and position. For we believe that the affliction which he has endured since the time of the sentence being pronounced may suffice for the punishment of this fault. But as to Euphemius and Thomas, who received sacred orders for relinquishing their accusation, it is our will that they be deprived of these sacred orders, and, having been deposed from them, so continue; and we decree that they shall never, under any pretext or excuse, be restored to sacred orders. For it is in the highest degree improper, and contrary to the rule of ecclesiastical discipline, that they should enjoy the dignity which they have received, not for their merits, but as the reward of wickedness. Yet, inasmuch as
 
-1616
-
 Anastasius, bishop of the Metropolitan See of Corinth, had been deposed for some serious crime, the nature of which is not mentioned, Secundinus, bishop of some other see, having apparently been commissioned by Gregory to investigate the charges against him. John, to whom this letter is addressed had now succeeded him. See also Epp. LVII., LVIII.
-
-716
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3360,8 +2420,6 @@ it is fit for us to incline to mercy more than to strict justice, it is our will
 
 Epistle LIII. To Virgilius, Bishop. Gregory to Virgilius, Bishop of Arelate (Arles). O how good is charity, which through an image in the mind exhibits what is absent as present to ourselves, through love unites what is divided, settles what is confused, associates things that are unequal, completes things that are imperfect! Rightly does the excellent preacher call it the bond of perfectness; since, though the other virtues indeed produce perfectness, yet still charity binds them together so that they can no longer be loosened from the heart of one who loves. Of this virtue, then, most dear brother, I find thee to be full, as both those who came from the Gallican parts and the words also of thy letter addressed to me testify to me of thee. Now as to thy having asked therein, according to ancient custom, for the use of the pallium and the vicariate of the Apostolic See, far be it from me to suspect that thou hast sought eminence of transitory power, or the adornment of external worship, in our vicariate and in the pallium. But, since it is well known to all whence the holy faith proceeded in the regions of Gaul, when your Fraternity asks for a repetition of the old custom of the Apostolic See, what is it but that a good
 
-717
-
 NPNF212. Leo the Great, Gregory the Great
 
 183b
@@ -3370,11 +2428,7 @@ Philip Schaff
 
 offspring reverts to the bosom of its mother?1617 With willing mind therefore we grant what has been asked for, lest we should seem either to withdraw from you anything of the honour due to you, or to have despised the petition of our most excellent son king Childebert. But the present state of things requires the greater earnestness, that with increase of dignity solicitude also may advance, and watchfulness in the custody of others may grow, and the merits of your life may serve as an example to your subjects, and that your Fraternity may never seek your own through the dignity accorded you, but the gains of the heavenly country. For you know what the blessed apostle says, groaning, For all seek their own, not the things which are Jesus Christ’s (Philip. ii. 21). For I have learnt from information given me by certain persons that in the parts of Gaul and Germany no one attains to holy orders except for a consideration given. If this is so, I say it with tears, I declare it with groans, that, when the priestly order has fallen inwardly, neither will it be able to stand outwardly for long. For we know from the Gospel what our Redeemer in person did; how He went into the temple, and overthrew the seats of them that sold doves (Matth. xxi. 12). For to sell doves is to receive a temporal consideration for the Holy Spirit, whom, being consubstantial with Himself, GOD Almighty gives to men through the imposition of hands. From which evil what follows is already intimated. For of those who presumed to sell doves in the temple of GOD the seats fell by GOD’S judgment. And in truth this transgression is propagated with increase among subordinates. For he who is promoted to any sacred order for a price, being already corrupted in the very root of his advancement, is the more ready to sell to others what he has bought. And where is that which is written, Freely ye have received, freely give (Matth. x. 8)? And, seeing that the simoniacal heresy was the first to arise against the holy Church, why is it not considered, why is it not seen, that whoso ordains any one for money, causes him in advancing him, to become a heretic? Another very detestable thing has also been reported to us; that some persons, being laymen, through desire of temporal glory, are tonsured on the death of bishops, and all at once are made priests. In such cases it is already known what manner of man he is who attains to priesthood, passing suddenly from a lay estate to sacred leadership. And one who has never served as a soldier
 
-1617
-
 Gregory here asserts the view of his day, which after his manner he takes for granted that Gaul had derived its Christianity from Rome. Similarly, long before him, pope Zosimus (417–418), writing to the bishops of Gaul in support of the jurisdiction over them of Patroclus of Arles, speaks of such jurisdiction being of ancient right, derived from Trophimus having been sent from Rome as first bishop of Arles, and all Gaul having received the stream of faith from that fountain. Gregory of Tours (Hist. Franc. i. 28), referring to Passio S. Saturnini Episc. Solos., speaks of seven missionary bishops having been sent from Rome to Gaul “Decio et Grato consulibus,” i.e. A.D. 250, including Trophimus, who is said to have founded the see of Arles. But the see of Arles must have existed before the date assigned, since it appears from Cyprian (Ep. VI. 7), that in 254 Marcian had long been its bishop. And generally, the well-known differences of the Gallican liturgy and usages from the Roman, to which pope Gregory himself alludes in his letter to Augustine (XI. 64), as well as Irenæus of Lyons, in the second century, being said to have been a disciple of Polycarp points to an Asiatic rather than Roman origin of the Church in Gaul.
-
-718
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3384,15 +2438,9 @@ fears not to become a leader of the religious1618. How is that man to preach who
 
 Epistle LIV.
 
-1618
-
 Religiosorum. The appellation is applied to persons generally who gave themselves to a religious life, including monks, nuns, dedicated virgins, and the like. It must be here taken to include the clergy.
 
-1619
-
 Childebert II., the son of Sigebert I. and Brunechild, was at this time the ruler of nearly all the dominions of the Franks in Gaul. Having been proclaimed by the Austrasian nobles king of Austrasia on the death of his father, A.D. 575, he acquired also Burgundy on the death of his uncle Guntramn in 593. These kingdoms at this time comprised by far the greatest part of Gaul, the kingdom of what was called Neustria under Clotaire II. including only a small territory on the north-west coast.
-
-719
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3404,11 +2452,7 @@ To all the Bishops of the Kingdom of Childebert.
 
 Gregory to all the Bishops of Gaul who are under the kingdom of Childebert1620. To this end has the provision of the divine dispensation appointed that there should be diverse degrees and distinct orders, that, while the inferiors shew reverence to the more powerful and the more powerful bestow love on the inferiors, one contexture of concord may ensue of diversity, and the administration of all several offices may be properly borne. Nor indeed could the whole otherwise subsist; unless, that is, a great order of differences of this kind kept it together. Further, that creation cannot be governed, or live, in a state of absolute equality we are taught by the example of the heavenly hosts, since, there being angels and also archangels, it is manifest that they are not equal; but in power and rank, as you know, one differs from another. If then among these who are without sin there is evidently this distinction, who of men can refuse to submit himself willingly to this order of things which he knows that even angels obey? For hence peace and charity embrace each other mutually, and the sincerity of concord remains firm in the reciprocal love which is well pleasing to GOD. Since, then, each single duty is then salubriously fulfilled when there is one president who may be referred to, we have therefore perceived it to be opportune, in the Churches that are under the dominion of our most excellent son king Childebert, to give our vicariate jurisdiction, according to ancient custom, to our brother Virgilius, bishop of the city of Arelate, to the end that the integrity of the catholic faith, that is of the four holy synods, may be preserved under the protection of GOD with attentive devotion, and that, if any contention should by chance arise among our brethren and fellow-priests, he may allay it by the rigour of his authority with discreet moderation, as representing the Apostolic See. We have also charged him that, if such a dispute should arise in any cases as to require the presence of others, he should assemble our brethren and fellow-bishops in competent number, and discuss the matter salubriously with due regard to equity, and decide it with canonical integrity. But if a contention (which may the Divine power avert) should happen to arise on matters of faith, or any business come up about which there may perchance be serious doubt, and he should be in need of the judgment of the Apostolic See in place of his own greatness, we have directed him that, having diligently enquired into the truth, he should take care to bring the question under our cognizance by a report from himself, to the end that it may be terminated by a suitable sentence so as to remove all doubt. And, since it is necessary that the bishops should assemble at suitable times for conference before him to whom we have granted our vicariate jurisdiction as often as he may think it, we exhort that none of you presume to be disobedient to his orders, or defer attending the general conclave, unless perchance bodily infirmity should prevent any one, or a just excuse in any case should allow his absence. Yet let such as are unavoidably prevented from attending the synod send a presbyter or a deacon in their stead, to the end that the things that, with the help of GOD, may be decided by
 
-1620
-
 See preceding Epistle, note 9.
-
-720
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3418,11 +2462,7 @@ our vicar, may come to the knowledge of him who is absent by a faithful report t
 
 Epistle LV. To King Childebert. Gregory to Childebert, king of the Franks1621. The letter of your Excellency has made us exceedingly glad, testifying as it does that you are careful, with pious affection, of the honour and reverence due to priests. For you thus shew to all that you are faithful worshippers of GOD, while you love His priests with the acceptable veneration that is due to them, and hasten with Christian devotion to do whatever may advance their position. Whence also we have received with pleasure what you have written, and grant what you desire with willing mind; and accordingly we have committed, with the favour of GOD, our vicariate jurisdiction to our brother Virgilius, bishop of the city of Arelate, according to ancient custom and your Excellency’s desire; and have also granted him the use of the pallium, as has been the custom of old. But, inasmuch as some things have been reported to us which greatly offend Almighty GOD, and confound the honour and reverence due to the priesthood, we beg that they may be in every way amended with the support of the censure of your power, lest, while headstrong and perverse
 
-1621
-
 See Ep. LIII., note 9.
-
-721
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3431,8 +2471,6 @@ NPNF212. Leo the Great, Gregory the Great
 Philip Schaff
 
 doings run counter to your devotion, your kingdom, or your soul (which GOD forbid) be burdened by the guilt of others. Further, it has come to our knowledge that on the death of bishops some persons from being laymen are tonsured, and mount to the episcopate by a sudden leap. And thus one who has not been a disciple is in his inconsiderate ambition made a master. And, since he has not learned what to teach, he bears the office of priesthood only in name; for he continues to be a layman in speech and action as before. How, then, is he to intercede for the sins of others, not having in the first place bewailed his own? For such a shepherd does not defend, but deceives, the flock; since, while he cannot for very shame try to persuade others to do what he does not do himself, what else is it but that the LORD’S people remains a prey to robbers, and catches destruction from the source whence it ought to have had a great support of wholesome protection? How bad and how perverse a proceeding this is let your Excellency’s Highness consider even from your own administration of things. For it is certain that you do not put a leader over an army unless his work and his fidelity have first been apparent; unless the virtue and industry of his previous life have shewn him to be a fit person. But, if the command of an army is not committed to any but men of this kind, it is easily gathered from this comparison of what sort a leader of souls ought to be. But it is a reproach to us, and we are ashamed to say it, that priests snatch at leadership who have not seen the very beginning of religious warfare. But this also, a thing most execrable, has been reported to us as well: that sacred orders are conferred through simoniacal heresy, that is for bribes received. And, seeing that it is exceedingly pestiferous, and contrary to the Universal Church, that one be promoted to any sacred order not for merit but for a price, we exhort your Excellency to order so detestable a wickedness to be banished from your kingdom. For that man shows himself to be thoroughly unworthy of this office, who fears not to buy the gift of GOD with money, and presumes to try to get by payment what he deserves not to have through grace. These things, then, most excellent son, I admonish you about for this reason, that I desire your soul to be saved. And I should have written about them before now, had not innumerable occupations stood in the way of my will. But now that a suitable time for answering your letter has offered itself, I have not omitted what it was my duty to do. Wherefore, greeting your Excellency with the affection of paternal charity, we beg that all things which we have enjoined on our above-named brother and fellow-bishop to be done and observed, may be carried out under the protection of your favour, and that you allow them not to be in any way upset by the elation or pride of any one. But, as they were observed by his predecessor under the reign of your glorious father, so let them be observed now also, by your aid, with zealous devotion. It is right, then, that we should thus have a return made to us; and that, as we have not deferred fulfilling your will, so you too, for the sake of GOD and the blessed Peter, Prince of the apostles, should cause our ordinances to be observed in all respects; that so your Excellency’s reputation, praiseworthy and well-pleasing to GOD, may extend itself all around. Given the 12th day of August, Indiction 13.
-
-722
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3446,27 +2484,17 @@ Epistle LVII. To John, Bishop.
 
 Gregory to John, Bishop of the Corinthians Now that our GOD, from whom nothing is hidden, having cast out an atrocious plague of pollution from the government of His Church1624, has been pleased to advance you to the rule thereof, there is need of anxious precaution on your part that the LORD’S flock, after the wounds and various evils inflicted by its former shepherd, may find consolation and wholesome medicine in your Fraternity. Thus, then, let the hand of your action wipe away the stain of the previous contagion, so as to suffer no traces even to remain of that execrable wickedness. Let, therefore, your solicitude towards your subjects be worthy of praise. Let discipline be exhibited with gentleness. Let rebuke be with discernment. Let kindness mitigate wrath; let zeal
 
-1622
-
 With regard to the use of the pallium claimed by, and allowed to, John, the preceding bishop of Ravenna, see III. 56, 57; V. 11, 15. For further contentions with Marinianus on the subject, see VI. 34, 61.
-
-1623
 
 Salutatario: called in previous letters to Archbishop John, secretarium. See III. 56, note 2.
 
-1624
-
 See above, V. 52, and Ep. LVIII., below.
-
-723
 
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
 
 sharpen kindness: and let one be so seasoned with the other that neither immoderate punishment afflict more than it ought, nor again laxity impair the rectitude of discipline. Let the conduct of your Fraternity be a lesson to the people committed to you. Let them see in you what to love, and perceive what to make haste to imitate. Let them be taught how to live by your example. Let them not deviate from the straight course through your leading; let them find their way to GOD by following you; that so thou mayest receive as many rewards from the Saviour of the human race as thou shalt have won souls for Him. Labour therefore, most dear brother, and so direct the whole activity of thy heart and soul, that thou mayest hereafter be counted worthy to hear, Well done, thou good and faithful servant: enter thou into the joy of thy LORD (Matth. xxv. 21). As you requested in your letter which we received through our brother and fellow-bishop Andrew, we have sent you the pallium, which it is necessary that you should so use as your predecessors, by the allowance of our predecessors, are proved to have used it. Furthermore, it has come to our ears that in those parts no one attains to any sacred order without the giving of a consideration. If this, is so, I say with tears, I declare with groans, that, when the priestly order has fallen inwardly, neither will it stand long outwardly. For we know from the Gospel what our Redeemer in person did; how He went into the temple, and overthrew the seats of them that sold doves (Matth. xxi. 12). For to sell doves is to receive a temporal consideration for the Holy Spirit, whom, being consubstantial with Himself, Almighty GOD gives to men through imposition of hands. And what follows from this evil, as I have said before, is intimated; for the seats of those who presumed to sell doves in the temple of GOD fell by the judgment of GOD. And in truth this transgression is propagated with increase among subordinates. For one who attains to a sacred dignity tainted in the very root of his promotion is himself the more prepared to sell to others what he has bought. And where then is that which is written, Freely ye have received; freely give (Matth. x. 8)? And, since the simoniacal heresy was the first to arise against holy Church, why is it not considered, why is it not seen, that whosoever ordains any one for a price in promoting him causes him to become a heretic? Seeing, then, that the holy universal Church utterly condemns this most atrocious wickedness, we exhort your Fraternity in all ways to repress, with all the urgency of your solicitude, this so detestable and so huge a sin in all places that are under you. For, if we shall perceive anything of the kind to be done henceforth, we will correct it, not with words, but with canonical punishment; and we shall begin to have a different opinion of you; which ought not so to be. Further, your Fraternity knows that formerly the pallium was not given except for a consideration received. But, since this was incongruous, we held a council before the body of the blessed Peter, Prince of the apostles, and forbade under a strict interdiction the receiving of anything, as well for this as for ordinations. It is your duty then, that neither for a consideration, nor for favour or the solicitation of certain persons, you consent to any persons being advanced to sacred orders. For it is a grave sin, as we have said, and we cannot suffer it to continue without reproof.
-
-724
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3480,19 +2508,11 @@ Epistle LVIII. To all the Bishops throughout Helladia1626.
 
 Gregory to all bishops constituted in the province of Helladia. I return thanks with you, dearest brethren, to Almighty GOD, who has caused the hidden sore which the ancient enemy had introduced to come to the knowledge of all, and has cut it away by a wholesome incision from the body of His Church. Herein we have cause both to rejoice and to mourn; to rejoice, that is, for the correction of a crime, but to mourn for the fall of a brother. But, since for the most part the fall of one is wont to be the safeguard of another, whosoever fears to fall, let him give heed to this, that he afford no way of approach to the enemy, nor think that deeds done lie hidden. For the Truth proclaims, There is nothing hidden that shall not be revealed(Matth. x. 26). For this voice is already the herald of our doings, and He himself, being witness, brings in all ways to public view what is done in secret. And who may strive to hide his deeds before Him Who is both their witness and their judge? But, since sometimes, when one thing is attended to, another is not guarded against, it behoves every one to be watchful against all the snares of the enemy, lest, while he conquers in one point he be vanquished in another. For an earthly enemy too, when he desires to invade fortified places, thus employs the art of warfare. For indeed he lays ambushes latently; but shews himself as though entirely bent on the storming of one place, so that, while there is a running together for defence of that place where the danger is imminent, other places about which there is no suspicion may be taken. And the result is, that he who, when perceived, was repulsed by the valour of his opponent, obtains by stealth what he could not obtain by fighting. But, since in all these things there is need of the aid of divine protection, let every one of us cry to the LORD with the voice of the heart, saying, LORD, remove not Thy help far from me; Look Thou to my defence (Ps. xxi. 20)1627. For it is manifest that, unless He Himself should help, and defend those who cry to Him, our enemy cannot be vanquished. Furthermore, know ye that, having received the letter of your Charity through Andrew our brother and fellow-bishop, we have transmitted the pallium to John our brother, the bishop of the
 
-1625
-
 See III. 6, 7.
-
-1626
 
 Meaning, we may suppose, the province of Achaia, of which Corinth was the metropolis.
 
-1627
-
 In English Bible, xxii.
-
-725
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3512,15 +2532,9 @@ wished or directed anything to be done with regard to his private property which
 
 Epistle II. To the Clergy and People of Ravenna. Gregory to the clergy and people of the Church of Ravenna. We have been informed that certain men, instigated by the malignant spirit, have wished to corrupt your minds by false speech with regard to the reputation of our brother and fellow-bishop Marinianus1628; saying that this our brother venerates the holy synod of Chalcedon less than becomes him1629. On this head both he himself in person will satisfy you all of the integrity of his faith, and we fully testify that, having been nursed from his cradle in the bosom of the holy Universal Church, he has held the right preaching of the faith with the attestation of his life. For he venerates the holy Nicene synod in which Arius, the Constantinopolitan, in which Macedonius, the first Ephesine, in which Nestorius, and the holy Chalcedonian, in which Dioscorus and Eutyches were condemned. And if any one presumes ever to speak anything against the faith of these four synods and against the tome and definition of pope Leo of holy memory, let him be anathema. Accordingly, receiving the fullest satisfaction, love ye your pastor in entire charity with a pure heart, that the intercession of the same your pastor, poured out purely before GOD, may avail to your profit.
 
-1628
-
 See above, V. 48, note 3.
 
-1629
-
 The ground of this charge against Marinianus was doubtless his acceptance of the condemnation of the “Three Chapters” by the fifth council, which condemnation, notwithstanding Rome’s approval of it, was still objected to in many quarters as contravening the council of Chalcedon. See I. 16, note 3; IV. 2, note 1; IV. 38, 39; XIV. 12.
-
-727
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3534,11 +2548,7 @@ Epistle V. To Queen Brunichild. Gregory to Brunichild, Queen of the Franks1631. 
 
 Cf. III. 47, note 2. As is there stated, Maximus does not seem to have paid the slightest attention to this letter.
 
-1631
-
 This is the first of the ten letters of Gregory to the notorious Brunechild. A daughter of Athanagild, king of the Visigoths in Spain, she had married Sigebert I., one of the grandsons of Clovis, who reigned over that part of the dominion of the Franks which was called Austrasia, having on her marriage renounced Arianism for Catholicity. Sigebert having been assassinated A.D. 575, his son Childebert II., then only five years old, was proclaimed King of Austrasia; whereupon Brunechild herself became the virtual ruler of the kingdom. So she was again after the death of Childebert, A.D. 596, as guardian of Theodebert II., his illegitimate son, who succeeded him at the age of ten years. See Pedigree of Kings of Gaul, p. xxx. The praises lavished on her by Gregory in this and his other epistles to her appear strangely inconsistent with the character given her by the historians of the time. It has been suggested in explanation; 1. That the historians may have maligned her, attributing to her crimes that were not her own; 2. That, whatever her misdemeanours, Gregory might not have heard of them, knowing of her only as a faithful Catholic, and a supporter of the Church; 3. That no such misdemeanours had become notorious when Gregory wrote to her in such flattering terms, the worst doings imputed to her having in fact been after his death. She
-
-728
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3550,15 +2560,9 @@ survived him some nine years. Still, when we consider Gregory’s diplomatic tur
 
 Childebert II. (see last note), who had been a minor when he came to the throne. He would now, if the epistle was written, as supposed, in the 14th Indiction (595–6), be about 25 years old.
 
-1633
-
 Since the death of his uncle Guntramn, A.D. 593, he had become King of Burgundy as well as of Austrasia.
 
-1634
-
 It was the sending of Candidus, a presbyter from Rome, to take charge of the patrimony in Gaul in place of Dynamius, a patrician, who had previously managed it (see Ep. 6), that offered occasion for this and the following letter.
-
-729
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3568,19 +2572,11 @@ Epistle VI. To King Childebert. Gregory to Childebert, King of the Franks1635. A
 
 Epistle VII. To Candidus, Presbyter.
 
-1635
-
 Cf. last Epistle, notes 5, 6, 7.
-
-1636
 
 See last Epistle note 8.
 
-1637
-
 See IV. 30.
-
-730
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3594,15 +2590,9 @@ Epistle VIII. To the Bishops of Epirus.
 
 Gregory to Theodorus, Demetrius, Philip, Zeno, and Alcissonus, Bishops of Epirus. The notification of your letters, most dear brethren, has made known to us that our brother Andrew has, by the favour of GOD, been solemnly ordained bishop of the city of Nicopolis. And, since you signify that his consecration has taken place with the assent of the clergy and provincials, we rejoice; and we pray that the good which you testify of him may remain in him, and by the co-operation of GOD’S grace receive increase, since the goodness of prelates is the safety of their subordinates. It is your duty then to make haste studiously to imitate what you show by your praises to be pleasing to you in his person. For it is faulty before men and penal before GOD for any one to be unwilling to imitate the good that pleases him. Wherefore let your obedience supply credit to your testimony. Let no one gainsay him in what, with preservation of integrity, he may enjoin for the common profit of the Church. Let each one of you willingly exhibit his devotion that, while there is among you priestly concord pleasing to GOD and constant, no ill feeling may avail to loose you from the bond of mutual charity, or difference disturb you. For neither will there be access to your hearts for the crafty foe, since he knows that he can in no degree be admitted or received, where sincere charity finds place.
 
-1638
-
 Probably because of the inferior value in Italy of Gallic gold. “Nullus solidum integri ponderis calumniosæ approbationis obtentu recuset exactor, excepto eo Gallico cujus aurum minore æstimatione taxatur.” Novella Majoriani.
 
-1639
-
 Some kind of due, so-called. See Du Cange under ABLATA:—“Ablatio, Exactio, Tolta…‘Liberos deinceps esse constituimus ab omni tallia, ablatione et exactione, et questu.’ (A. 1173).’
-
-731
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3612,11 +2602,7 @@ Moreover be ye attentive, most dear brethren, and bestow on the flock committed 
 
 Epistle IX. To Donus, Bishop. Gregory to Donus, Bishop of Messana (Messene). Moved by the benevolence of the Apostolic See, and by the order of ancient custom, we have thought fit to grant to thee, who art known to have undertaken the office of government in the Church of Messana, the use of the pallium; to wit, at such times and in such manner as we dispute not that thy predecessor used it; at the same time warning thee that, as thou rejoicest in having received from us a decoration of this kind to the honour of thy priestly office, so also thou strive, by probity of manners and deeds, to adorn, to the glory of Christ, the office which thou hast undertaken under our authority. For so wilt thou be conspicuous for decorations mutually answering to each other, if with such an habiliment of the body as this all good qualities of thy soul also agree. For all the privileges which are known to have been granted of old to thy Church we confirm by our authority, and decree that they shall continue inviolate.
 
-1640
-
 This form of protest against simony is found, in the same words, in several other letters.
-
-732
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3628,11 +2614,7 @@ Epistle XII. To Montana and Thomas.
 
 Gregory to Montana, &c. Since our Redeemer, the Maker of every creature, vouchsafed to assume human flesh for this end, that, the chain of slavery wherewith we were held being broken by the grace of His Divinity, He might restore us to pristine liberty, it is a salutary deed if men whom nature originally produced free, and whom the law of nations has subjected to the yoke of slavery, be restored by the benefit of manumission to the liberty in which they were born. And so, moved by loving-kindness and by consideration of this case, we make you, Montana and Thomas, servants of the holy Roman Church which with the help of GOD we serve, free from this day, and Roman citizens, and we release to you all your private property. And, inasmuch as thou, Montana, declarest that thou hast applied thy mind to monastic profession, we therefore this day give and grant to thee two unciæ, which the presbyter Gaudiosus by the disposition of his last will is known to have left to thee in the way of institution1641, provided that all go in all respects to the advantage of the monastery of Saint Laurence, over which the abbess Constantina presides, and in which by the mercy of GOD thou art about to make profession. But, if it should appear that thou hast in any way concealed any part of the property left by the above-written Gaudiosus, the whole of this must undoubtedly be transferred to the possession of our Church. Moreover to thee, Thomas above-written, whom for enhancement of thy freedom we desire also to serve among the notaries, we in like manner this day give and grant by this writ of manumission the five unciæ which the aforesaid presbyter Gaudiosus by his last will left to thee under the title of inheritance, together with the dowry which he had bestowed upon thy mother; to wit with this annexed law and condition, that, in case of thy dying without legitimate children, that is children born in lawful wedlock, all that we have granted thee shall revert without any diminution to the possession of the holy Roman Church. But, if thou shouldest have children both in wedlock, as we have said, and recognized by the law, and shouldest leave them surviving thee, then we appoint thee to remain master of this same property without any condition, and give thee full power to make a will with respect to it. These things, then, which we have appointed and granted by this charter of manumission, know ye that we and our successors will observe without any demur. For the rule of justice and reason suggests that one who desires his own orders to be observed by his successors should undoubtedly keep to the will and ordinances of his predecessor. This writ of manumission we have dictated to the notary Paterius to be put in writing, and for the fullest security have subscribed it with our own hand, together with three chief presbyters and three deacons, and have delivered it to you.
 
-1641
-
 Institutionis; a legal term, denoting apparently the constituting of a person as an inheriter.
-
-733
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3642,17 +2624,11 @@ Done in the city of Rome.
 
 Epistle XIV. To the Count Narses1642. Gregory to Narses, &c. Your Charity, being anxious to learn our opinion, has been at the pains of writing to us to ask what we think of the book against the presbyter Athanasius which was sent to us. Having thoroughly perused some parts of it, we find that he has fallen into the dogma of Manichæus. But he who has noted some places as heretical by a mark set against them slips also himself into Pelagian heresy; for he has marked certain places as heretical which are catholicly expressed and entirely orthodox. For when this is written; that when Adam sinned his soul died, the writer shews afterwards how it is said to have died, namely that it lost the blessedness of its condition. Whosoever denies this is not a Catholic. For GOD had said, In the hour ye eat thereof, in death ye shall die (Gen. ii. 17). When, therefore, Adam ate of the forbidden tree, we know that he did not die in the body, seeing that after this he begat children and lived many years. If, then, he did not die in the soul, the impious conclusion follows that He himself lied who foretold that in the day that he sinned he should die. But it is to be understood that death takes place in two ways; either from ceasing to live, or with respect to the mode of living. When, then, man’s soul is said to have died in the eating of the forbidden thing, it is meant, not in the sense of ceasing to live, but with regard to the mode of living;—that he should live afterwards in pain who had been created to live happily in joy1643. He, then, who has marked this passage in the book sent to me by my brother the bishop John as heretical is a Pelagian; for his view is evidently that of Pelagius, which the apostle Paul plainly confutes in his epistles. The particular passages in his epistle I need not quote, as I write to one who knows. But Pelagius, who was condemned in the Ephesine synod, maintained this view with the intention of shewing that we were redeemed by Christ unreally. For, if we did not through Adam die in the soul, we were redeemed unreally, which it were impious to say. Further, having examined the acts of the synod of Ephesus, we find nothing at all about Adelphius and Sava, and the others who are said to have been condemned there, and we think that, as the synod of Chalcedon was in one place falsified by the Constantinopolitan Church,1644 so something of the kind has been done with regard On the case of John of Chalcedon and Athanasius of Isaura, referred to in this and the three following letters, see III. 53,
 
-1642
-
 note 9. 1643
 
 Cf. VII. 34 and IX. 49, where the same argument, in nearly the same words, is set forth.
 
-1644
-
 The reference may be to Canon xxviii. of the Council of Chalcedon, assigning rank and jurisdiction to the patriarchs of Constantinople, which was protested against by the Roman legates at the Council and afterwards disallowed by Pope Leo. It is omitted in the Latin version of the canons published by Dionysius Exiguus about the beginning of the sixth century, though it
-
-734
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3666,8 +2642,6 @@ Epistle XV. To John, Bishop. Gregory to John, Bishop of Constantinople. As the p
 
 had been in the Prisca Versio which he amended. It appears as if Gregory, not finding it in the Latin version before him, supposed it to have been interpolated at Constantinople; the fact being that it had been purposely omitted at Rome, as not having the Pope’s sanction. If such is the allusion, it may seem strange that Gregory did not know the circumstances better. But this is not the only instance of his imperfect knowledge of past events, even in ecclesiastical matters. Cf. II. 51, note 2.
 
-735
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -3675,8 +2649,6 @@ Philip Schaff
 souls, they were desirous only of injuring him personally of their own mere will. We therefore, after Council held (as the tenor of the proceedings before us shews), having thoroughly examined and considered all that was necessary. inasmuch as we have been unable to find the aforesaid presbyter in any respect guilty, and especially as the plea which he delivered to the judges delegated by you is in entire accordance with the integrity of a right faith, we I say on this account, disapproving the sentence of the said judges, through the revealing grace of Christ our GOD and Redeemer, pronounce him by our definite sentence catholic and free from all charge of heresy. Seeing, then, that we have sent him back to your Holiness, it is for you to receive him with the kindness which you shew to all, and bestow on him your priestly charity, and defend him from all molestation, nor allow any one to busy himself in causing him trouble: but, as you defend others from oppression, so from him ought you not to withhold your succour.
 
 Epistle XVI. To Mauricius, Augustus. Gregory to Mauricius, &c. Seeing that in you, most Christian of princes, uncorrupt soundness of faith shines as a beam sent down from heaven, and that it is known to all that your Serenity embraces fervently and loves with entire devotion of heart the pure profession in which by GOD’S favour you are powerful, we have perceived it to be very necessary to make request for those whom one and the same faith enlightens, to the end that the Piety of our lords may protect them with its favour, and defend them from all molestation. When certain men scorn the confession of faith of such persons they are shewn to contradict the true faith. For, since the Apostle declares that confession of the mouth is made unto salvation, he who will not consent to believe a right profession accuses himself in rejecting others (Rom. x. 10). Now all the proceedings against John, presbyter of the church of Chalcedon, having been read in council and considered in order, we have found that he has suffered the greater injustice in that, when he declared and shewed himself to be a Catholic, it was not his guilt, but an uncertain accusation of long standing, that crushed him; and this to such an extent that his accusers declared in their open reply that they did not know the heresy of the Marcionists which they referred to. And, whereas they ought therefore to have been rejected from the very beginning of the trial, they were allowed, vague as they were, to remain in court for his accusation. But, lest at any rate alleged report might injure him, he produced a written confession of his faith with the purpose of shewing evidently that he was a professor and follower of the right faith. But this the judges deputed by the most holy John, our brother and fellow-bishop, unjustly and unreasonably disregarded; and so, in doing all they could to put him down, shewed themselves more to blame than he. For no one doubts
-
-736
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3688,8 +2660,6 @@ that it is unfaithfulness not to have faith in the faithful. Seeing then that, e
 
 Epistle XVII. To Theotistus. Gregory to Theotistus, kinsman of the Emperor. We know that the Christianity of your Excellency is always intent on good works and therefore we provide for you occasions for reaping reward, which you are certain to be glad of, so that we by so providing may have a share in your merits. We therefore inform you that John the presbyter, the bearer of these presents, has come out free from those by whom he had been accused. For having, according to his request held a council, and subjected his faith to a subtle scrutiny, we found him guiltless of any wrong confession. And, inasmuch as he appeared to be, by the mercy of GOD, a professor and follower of the right faith, we absolved him by our definite sentence; especially as his accusers professed that they did not know what the heresy of the Marcionists, which they spoke of, was. On this account, saluting you with paternal affection, we request you to protect him with the grace of your favour. And, lest any one hereafter should be disposed to afflict him to no purpose, or in any way to cause him annoyance in this matter, let the advocacy of your Excellency so protest and defend him—and this the more instantly in consideration of your own reward—that no unjust affliction may any more consume him, and that the Creator and Redeemer of the human race, whom you worship with a sincere confession, may recompense your action in this behalf among your many good works. The month of October. Indiction 14.
 
-737
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -3700,11 +2670,7 @@ Epistle XXII. To Peter, Bishop. Gregory to Peter, Bishop of Aleria in Corsica. I
 
 Epistle XXIV. To Marinianus, Bishop. Gregory to Marinianus, Bishop of Ravenna.
 
-1645
-
 Baptisteries were anciently buildings contiguous to but apart from the churches. Cf. III. 59, note 7.
-
-738
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3716,19 +2682,11 @@ We have received by the deacon Virgilius the letter of your Fraternity, in which
 
 Epistle XXV. To Maximus of Salona. Gregory to Maximus, intruder in the Church of Salona1648. While, seeking this or that excuse, thou deferrest obedience to our letters, while thou puttest off coming to us for ascertainment of the truth after being so often admonished, thou lendest credibility all the more to what is alleged against thee; and, even though there had been nothing else to go against thee and do thee harm, thy delay alone would render thee culpable and accuse
 
-1646
-
 See III. 53, note 9, and reff there. It seems from what Gregory here says, that it was not in the East only, but also in Italy, at Ravenna, that the authority of the Roman See met with opposition, perhaps mainly on the ground of Ravenna having been an Imperial city, and being still the seat of the Exarch of Italy. Cf. III. 57, note 4.
-
-1647
 
 Spatam. Cf. VI. 61, note 8.
 
-1648
-
 See III. 47, note 2.
-
-739
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3738,8 +2696,6 @@ Philip Schaff
 
 thee. Humble thyself at length, and submit thyself to obedience, and make haste to come to us without any excuses, that, the truth being investigated and ascertained, in the fear of GOD, whatever may be fair and canonical may be decided. For be assured that we will observe towards thee justice and the ordinances of the canons, and, by the revelation of GOD, who is the Author of truth, will terminate thy cause agreeably to justice. For, as to thy demand that we should send some one to your city, in whose presence there might be proof of the things alleged, this would be in some degree excusable, if reason ever imposed on the accused the necessity of proof. But, inasmuch as this burden lies not on thee but on thine accusers, do not thou hesitate to come to us, as we have before said, putting it off no longer; and either thine accuser will be present without delay to support with suitable proof what has been alleged as to simoniacal heresy or other things; or certainly, as far as regards a sound settlement of this business, a just dealing with it will, through the intervention of Peter, Prince of the apostles, ensue; that so no guiltiness may confound us before GOD for any connivance, now that these things have come to our knowledge. But, as to thy allegation that our most serene lords have ordered cognizance of the matter to be taken in your city, we indeed have received no other commands of theirs on the subject except that thou wert to come to us. But, even if by chance, occupied as they are by many thoughts and anxieties for the good of their republic which by the divine bounty has been granted to them, this has been suggested to them, and a command has been surreptitiously elicited from them, yet, inasmuch as it is known to us and to all how our most pious lords love discipline, observe degrees, venerate the canons, and refrain from mixing themselves up in the causes of priests, we will still execute with instancy what is for the good both of their souls and of the republic, and what we are driven to by regard to the terrible and tremendous judgment. Cease then from all excuses, and delay not to appear here, that, fortified by investigation of the truth, we may at length bring thy cause to a termination. But, whereas we have been informed that thou art greatly afraid and altogether in trepidation lest we should avenge on thee the known fact of thy having forced thy way irregularly into the order of priesthood without our consent, this was indeed an intolerable misdemeanour: but, in accordance with the commands of our most serene lord the Emperor, we forgive thee this, provided that thou in no wise persist any longer in the error of thy contumacy; and we are by no means moved against thee on this account. But other things that have been reported to us we cannot suffer to pass without enquiry. Now inasmuch as we long ago sent thee a letter warning thee by no means to dare to celebrate the solemnities of mass till we should ascertain the will of the said our most serene lord, and as thou hast cunningly contrived that this letter should not come into thy hands, though thou nevertheless knewest in one way or another what its purport was, but hast refused to comply with it;—we therefore confirm what was before sent thee in writing, that thou must not dare to celebrate the solemnities of mass until all that has been alleged against thee has been thoroughly enquired into and sifted. And, if, with perverse daring, thou shouldest presume to celebrate, know that thou art not free from the former threat of interdiction from communion. For, even though there were no other transgressions, we deprive thee of the communion of the body and blood of the LORD for this
 
-740
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -3748,15 +2704,9 @@ sin of pride alone. Wherefore, shewing the obedience that becomes thee, make has
 
 Epistle XXVI. To the Salonitans. Gregory to his most beloved sons, the clergy and nobles dwelling at Salona1650. It has come to my ears, that certain men of perverse disposition, in order to poison your minds, beloved, have tried to insinuate to you that I am moved by some grudge against Maximus, and that I am desiring to carry out not so much what is canonical as what anger dictates. But far, far be it from the priestly mind to be moved in any cause by private feeling. It is on the contrary as taking thought for you, beloved, and as fearing the judgment of Almighty GOD on my own soul, that I desire the case of this same Maximus to be thoroughly investigated, as to whether he is burdened by no such crimes as are a bar to ordination, and makes no attempt to attain to the priestly office through simoniacal heresy; that is by giving bribes to some of his electors. He will then be a free intercessor for you before the LORD, if he shall come to the place of intercession bound by no sins of his own. And yet his sin of pride is already manifestly shewn, in that, having been summoned to come to us, he resists under various excuses, shuns coming, is afraid to come. What then is he afraid of, if his conscience does not accuse him with respect to the things he is charged with? Lo, beloved,
 
-1649
-
 In the letter to the Salonitans, which follows, it appears that Honoratus only among the clergy of Salona (having been the rival candidate for the bishopric and supported by the Pope), and Paulinus only among the suffragan bishops, had refused to communicate with Maximus.
 
-1650
-
 See III. 47, note 2.
-
-741
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3768,11 +2718,7 @@ ye have now been long without a pastor, and may Almighty GOD make known to you h
 
 Epistle XXVII. To the Clergy and People of Jadera1651. Gregory to the presbyters, deacons, and clergy, nobles and people, dwelling at Jadera, and who have communicated with the prevaricator Maximus. It has come to my knowledge that some of you, deceived by ignorance or under compulsion, have communicated with those who, their fault as you know requiring it, have been deprived of communion by the Apostolic See, but that others, with wholesome discretion, have under the LORD’S protection abstained; and as much as I rejoice in those that have been constant so much do I groan for those who have gone astray, since they have partaken of the mysteries of holy communion,
 
-1651
-
 See III. 47, note 2. Jadera was one of the sees in the province of Dalmatia of which Salona was the Metropolis. The bishop of Jadera, Sabinianus, had communicated with Maximus, and probably assisted in ordaining him, but afterwards repented. See below, VII. 17; VIII. l0, 24. It may have been because Gregory had heard that there was already a party in Jadera prepared to renounce Maximus that he wrote this letter to strengthen it.
-
-742
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3784,8 +2730,6 @@ Epistle XXIX. 198b
 
 To Marinianus, Bishop.
 
-743
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -3794,11 +2738,7 @@ Gregory to Marinianus, Bishop of Ravenna1652. We wonder why the discernment of t
 
 Epistle XXX. To Secundus.
 
-1652
-
 Cf. above, VI. 1.
-
-744
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3810,19 +2750,11 @@ Gregory to Secundus, servant of GOD at Ravenna1653. Now that Castorius1654 has r
 
 Epistle XXXII.
 
-1653
-
 Gregory appears to have communicated with this Secundus, rather than with the bishop of Ravenna, for reasons which appear below, and to have employed him in negotiations with the Exarch for peace with the Lombards.
-
-1654
 
 A Castorius is mentioned in Gregory’s letter to the Emperor as having been the magister militum in command at Rome during its siege by Agilulph. This may be the same person.
 
-1655
-
 For his appointment to the see of Ravenna, cf. V. 48.
-
-745
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3832,15 +2764,9 @@ To Fortunatus, Bishop. Gregory to Fortunatus, Bishop of Neapolis (Naples). We ha
 
 Epistle XXXIV. To Castorius, Notary. Gregory to Castorius, our notary at Ravenna. When Florentinus, deacon of the Church of Ravenna, treated with us in behalf of our most reverend brother and fellow-bishop Marinianus concerning the use of the pallium, on our asking him what was the ancient custom, he replied that the bishop of the Church of Ravenna used the pallium in all litanies1657. But that this was not so we both learnt from others, and it appeared
 
-1656
-
 As to ownership by Jews of converted slaves, see Prolegom., p. xxi., and other Epistles there referred to.
 
-1657
-
 Marinianus had succeeded John as bishop of Ravenna. For Gregory’s dispute with John concerning the use of the pallium, see above, III. 56, 57; V. 11, 15, and below, VI. 61.
-
-746
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3852,11 +2778,7 @@ evidently from the letters of the former bishop John, which we shewed to him. Bu
 
 Epistle XXXV. To Anthemius, Subdeacon. Gregory to Anthemius, our Neapolitan Sub-deacon1658. How great is our grief, and how great the affliction of our heart, from what has taken place in the regions of Campania we cannot express; but thou mayest thyself gather it from the greatness of the calamity. With regard to this state of things, we send thy Experience by the magnificent Stephen, bearer of these presents, money for the succour of the captives who have been taken, admonishing thee that thou give thy whole attention to the business, and carry it out strenuously; and, in the case of freemen whom thou knowest to have no sufficient means for their own redemption, that thou make haste to redeem them. But, should there be any slaves, and thou findest that their masters are so poor that they cannot come forward to redeem them, hesitate not to recover them also. In like manner also thou wilt take care to redeem the slaves of the Church who have been lost by thy neglect. Further, whomsoever thou shalt have redeemed, thou wilt by all means be at
 
-1658
-
 The occasion of this letter seems to have been some recent aggression of the Lombards in the Neopolitan district, resulting in the capture of many prisoners of war.
-
-747
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3866,11 +2788,7 @@ pains to make out a list, containing their names, and a statement of where each 
 
 Epistle XXXVII. To Columbus, Bishop. Gregory to Columbus, Bishop of Numidia.1659 The letters of your Fraternity, full of priestly sweetness, we have received at the hands of Rogatianus the deacon, the bearer of these presents. And their kind expressions rejoiced us much, especially as we were informed through them of what we long to hear of, your welfare. But the devotion of your Holiness we have both known of old; and as you now write, so we hold it to be. For of what kind the sincerity of your Fraternity towards us is we need nothing to satisfy us, since we know it from the love of our own heart which encircles you. We have given to the above-named hearer, whom you commended to us by letter, writings addressed to the Rector of the patrimony of Sicily, bidding him urge the opposite party to do what is just, to the end that, idle excuses being put aside, the whole case in dispute may be speedily brought to an end. We now inform your Holiness that a certain man has come to us, Peter by name, who asserted that he was a bishop, and requested from us a remedy of his complaint. And at first indeed he related things that might have been deserving of pity; but on enquiry we found things to be very different from what he told us, and his behaviour has exceedingly distressed us. But, inasmuch as, separated as we are by so great a distance, we could by no means learn thoroughly the gist of his case, we have been unable to determine it, being in doubt. But now, seeing that the aforesaid deacon, who is returning to you, has asked that this person should be allowed to go with him, and he himself has requested to be sent to you, both of them knowing that your Holiness has, as becomes you, zeal for the faith and a love of justice, the proposal has been acceptable to us, and we have granted what they asked. Since, then, you being on the spot can ascertain the merits of the case more thoroughly, we exhort you so to observe what is just and canonical towards the same Peter that both the requirements of rectitude may be fulfilled by you in all respects, and his case may be seen to have been judged after the fear of GOD and the rules of the Church. But, if any one is said to have been privy to, or a partaker in, the things which the aforesaid Peter is accused of, accurate
 
-1659
-
 See II. 48, note 7.
-
-748
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3882,15 +2800,9 @@ enquiry must be made, and, when the truth is known, judgment in like manner pron
 
 Epistle XLIII. To Venantius, Patrician. Gregory to Venantius, Patrician, and Ex-monk1661. Your communication to us has found us much distressed from having become aware that offence has arisen between you and John our brother and fellow-bishop, in whose agreement with you we were desirous of rejoicing. For, whatever the cause may have been, rage ought not to have broken out to such a pitch that your armed men, as we have heard, should have burst into the episcopal palace, and committed divers evil deeds in a hostile manner, and that this affair should meanwhile separate you from his paternal charity. Could not the dispute, whatever it may have been, have been quietly arranged, so that neither party might suffer disadvantage, nor good feeling be disturbed? Now it is not unknown to us of what gravity, of what holiness, of what gentleness our above-named brother is. Whence we gather that, unless excessive force of vexation had compelled him, his Fraternity would by no means have resorted to the measure by which you say that you are aggrieved. We, however, on hearing of it by letter from him, at once wrote to him, admonishing him to receive your offerings as before, and not only to allow masses to be celebrated in your house, but, if you wish it, even to officiate himself, and that he ought to have prosecuted his cause without breach of charity. And, inasmuch as we wish none to come or continue to be at variance, we have taken care to renew this same admonition. Hence it is necessary, dearest son, that you, as becomes sons, should shew him the reverence due to a priest, and not provoke his spirit to anger. For with whom
 
-1660
-
 Religiosi. See I. 61, note 7.
 
-1661
-
 Cf. I. 34, note 8.
-
-749
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3902,11 +2814,7 @@ Epistle XLIV. To John, Bishop. Gregory to John, Bishop of Syracuse1662. Although
 
 Epistle XLVI. To Felix, Bishop of Pisaurum (Pesaro). Gregory to Felix, Bishop, &c. We wonder at your Fraternity, that, disregarding the tenor of the precept given you by our predecessor of holy memory, you should consecrate the monastery constructed by John, the bearer of these presents, otherwise than as ancient use demands. For, while it is ordered among other things in the said precept that you should dedicate the place itself without a public mass, still, as we have heard, your chair has been placed there, and the sacred solemnities of mass are there
 
-1662
-
 Cf. preceding Epistle. John, previously archdeacon of Catana, had been elected in the previous year (594) with Gregory’s approval as the successor of Maximianus of Syracuse (V. 17), and had recently had the pallium sent him. (VI. 18.).
-
-750
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3920,19 +2828,11 @@ Epistle XLVIII. To Urbicus, Abbot. Gregory to Urbicus, Abbot of Saint Hermes, wh
 
 Epistle XLIX. To Palladius, Bishop. Gregory to Palladius, Bishop of Santones in Gaul (Saintes).
 
-1663
-
 Cf. II. 41.
-
-1664
 
 Conversion has its usual sense of embracing monastic life.
 
-1665
-
 See also on this subject, XI. 45, XI. 50.
-
-751
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3946,8 +2846,6 @@ Epistle LI. To the Brethren going to England (Angliam)1666. 1666
 
 This, with the eight following letters (51–59), were committed to Augustine, who is spoken of in several of them as the bearer, when he was sent back from Rome to rejoin his companions. Bede (H. E. I. 23), and John the deacon (Vit. S. Greg. II.
 
-752
-
 NPNF212. Leo the Great, Gregory the Great
 
 203b
@@ -3960,8 +2858,6 @@ Epistle LII. To Pelagius and Serenus, Bishops.
 
 33), say that the missionaries—“cum aliquantulum itinerus confecissent” (Bede)—“post dies aliquot” (John Diac.)—were deterred by what they had heard of the difficulties of their undertaking, and sent Augustine to Rome to request leave to give it up and that Gregory sent him back to them with letters of admonition and of commendation. No commendatory letters seem to have been given them when they first set out. Those now sent are addressed to the bishops of Turni (al. Turon), Marseilles, Arles, Vienne, Autun, and Aix in Provenee, to the abbot of Lerins, to Arigius, Patrician of Gaul, to Theodoric and Theodebert, the two boy-kings of Burgundy and Austrasia, and to queen Brunechild their grandmother, who at this time ruled Austrasia as Theodebert’s guardian. See Pedigree of Kings of Gaul, p. xxx. The letters which come first in order, 51 and 52, being dated 22 July A.D. 596, we may conclude that the missionaries had been originally despatched in the spring of the same year. They appear to have got as far as the southern coast of Provence, since the letters to the bishop of Aix and the Abbot of Lerins shew that Augustine had already visited them, though not, apparently, any others to whom letters are now addressed. The mission was accompanied by Candidus, sent out as Rector of the patrimony in Gaul (cf. Ep. VII.), who is also commended in the letter. The patrimony appears to have been attended to previously in a way not satisfactory to Gregory by the bishops of Arles (see below, Epp. LIII., LV.). This letter is not found in the Registrum Epistolorum; but given by Bede (I. 23), and by John the Deacon (Vit. S. Greg. lib. ii. c. 34).
 
-753
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -3970,15 +2866,9 @@ Gregory to Pelagius of Turni1667 and Serenus of Masilia (Marseilles) Bishops of 
 
 Epistle LIII. To Virgilius, Bishop. Gregory to Virgilius, Bishop of Arelate (Arles), Metropolitan. Although we are confident that your Fraternity is intent on good works, and that you come forward of your own accord in causes well-pleasing to GOD, we nevertheless deem it advantageous to address you with fraternal charity, that, being provoked also by our letters, you may increase the solace which it becomes you voluntarily to bestow. And accordingly we inform your Holiness that we have sent Augustine, the servant of GOD, the bearer of these presents, with other servants of GOD, for the winning of souls in the parts whither he is going, as he will be able himself to inform you face to face. In these circumstances you must needs aid him with prayer and assistance, and, where need may require, afford him the support of your succour, and refresh him, as is fit, with fatherly and priestly consolation, to the end that, when he shall have obtained the succour of your Holiness, if he should succeed in winning any gain for GOD, as we hope he may, you too may be able to gain a reward along with him, having devoutly administered to his good works the abundance of your support. Moreover, as to Candidus the presbyter, our common son, and the little patrimony
 
-1667
-
 De Turnis; in Colbert. Turonis. The latter name itself would seem to denote Tours. But it is not easy to see why a common letter should have been addressed to the Bishops of Tours and Marseilles. And, further, would Tours on the Loire be likely to lie on the route which the missionaries would take to Britain?
 
-1668
-
 See I. 25, note 8.
-
-754
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -3992,11 +2882,7 @@ Epistle LIV. To Desiderius and Syagrius, Bishops. Gregory to Desiderius of Vienn
 
 Epistle LV. To Protasius, Bishop. Gregory to Protasius, Bishop of Aquæ in Gaul (Aix). How great love of the blessed Peter, Prince of the apostles, distinguishes you is evident, not only from the prerogative of your office, but also from the devotion you bestow on what is to the advantage of his Church. And having learnt that this is the case from the relation of Augustine,
 
-1669
-
 See I. 25, note 8.
-
-755
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4006,11 +2892,7 @@ servant of GOD, the bearer of these presents, we rejoice exceedingly for the aff
 
 Epistle LVI. To Stephen, Abbot1670. Gregory to Stephen, &c. The account given us by Augustine, servant of GOD, the bearer of these presents, has made us joyful, in that he has told us that your Love is vigilant as you ought to be; and he further affirms that the presbyters and deacons and the whole congregation live in unanimity and concord. And, since the goodness of presidents is the salutary rule of their subjects, we implore Almighty GOD to enkindle thee always in good works by the grace of His loving-kindness, and to keep those who are committed to thee from all temptation of diabolical deceit, and grant to them to live with thee in charity and in the manner of life that pleases Him. But, since the enemy of the human race never rests from plotting against our doings, so as to deceive in some part souls that are serving GOD, therefore, most beloved son, we exhort thee to exercise vigilantly thy anxious care, and so to keep those who are committed to thee by prayer and heedfulness that the prowling wolf may find no opportunity for tearing the flock: to the end that, when thou shalt have rendered to our GOD unharmed those of whom thou hast undertaken the charge, He may both of His grace repay thee with rewards for thy labour and multiply in thee longings for eternal life.
 
-1670
-
 In Cod. Colbert. Stephen is described as “abbati de monasterio quod est Lirino;” i.e. the famous monastery on the island of that name (Lerins) now known as L’ile de St. Honorat. This was probably Stephen’s monastery.
-
-756
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4026,11 +2908,7 @@ Epistle LVIII. To Theodoric and Theodebert1672. 1671
 
 The term Patricius was used to designate governors of provinces under the Frank kings. Cf. III. 33, “Dynamio patricio Galliarum,” and Greg. Turon. (IV. 24), "Guntramnus rex, amoto Agricola patricio, Celsum patriciatus honore donavit. There were at this time two Burgundian Patricii, one called the Patricius absolutely, residing at Arles, the other at Marseilles (Greg. Turon).
 
-1672
-
 Childebert II. son of Sigebert I. and Brunechild, who had reigned over nearly all the dominions of the Franks in Gaul (see VI. 5, note 5), died in this year, A.D. 596, and was succeeded by his illegitimate son Theodebert II. as king of Austrasia, and by his second son Theoderic II. as king of Burgundy. These two kings were only ten and seven years of age respectively when
-
-757
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4044,8 +2922,6 @@ their father died, and their grandmother Brunechild was appointed guardian of th
 
 See I. 25, note 8.
 
-758
-
 NPNF212. Leo the Great, Gregory the Great
 
 206b
@@ -4055,8 +2931,6 @@ Philip Schaff
 inform you that it has come to our knowledge how that the nation of the Angli, by GOD’S permission, is desirous of becoming Christian, but that the priests who are in their neighbourhood have no pastoral solicitude with regard to them. And lest their souls should haply perish in eternal damnation, it has been our care to send to them the bearer of these presents, Augustine the servant of GOD, whose zeal and earnestness are well known to us, with other servants of GOD; that through them we might be able to learn their wishes, and, as far as is possible, you also striving with us, to take thought for their conversion. We have also charged them that for carrying out this design they should take with them presbyters from the neighbouring regions. Let, then, your Excellency, habitually prone to good works, on account as well of our request as of regard to the fear of GOD, deign to hold him as in all ways commended to you, and earnestly bestow on him the favour of your protection, and lend the aid of your patronage to his labour and, that he may have the fullest fruit thereof, provide for his going secure under your protection to the above-written nation of the Angli, to the end that our GOD, who has adorned you in this world with good qualities well-pleasing to Him, may cause you to give thanks here and in eternal rest with His saints. Furthermore, commending to your Christianity our beloved son Candidus, presbyter and rector of the patrimony of our Church which is situated in your parts, we beg that he may in all things obtain the favour of your protection.
 
 Epistle LX. To Eulogius, Bishop. Gregory to Eulogius, Bishop of Alexandria. Charity, the mother and guardian of all that is good, which binds together in union the hearts of many, regards not as absent him whom it has present in the mind’s eye. Since then, dearest brother, we are held together by the root of charity, neither will bodily absence nor distance of places have power to assert any claim over us, inasmuch as we who are one are surely not far from each other. Now we wish to have always this common charity with the rest of our brethren. Yet there is something that binds us in a certain peculiar way to the Church of Alexandria, and compels us, as it were by a special law, to be the more prone to love it. For, as it is known to all that the blessed evangelist Mark was sent by Saint Peter the apostle, his master, to Alexandria, so we are bound together in the unity of this master and his disciple, so that I seem to preside over the see of the disciple because of the master, and you over the see of the master because of the disciple. Moreover to this unity of hearts we are bound also by the merits of your Holiness, since we know that you follow profitably the ordinances of your founder, and feel how you betake yourself with entire devotion to the bosom of your master, whence sprung the preaching of salvation in your parts. And so, when we received the letters of your Holiness, as much as our heart rejoiced in your brotherly visitation, so much is it oppressed with sadness for the untold burdens which you refer
-
-759
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4068,23 +2942,13 @@ to, and we groan with you in brotherly sympathy for your grief. But, since a sha
 
 Epistle LXI. To Castorius, Notary1677. Gregory to Castorius, &c. The magnificent lord Andreas presses me continually about restoring the use of the pallium in the Church of Ravenna according to ancient custom. And thou knowest that the bishop John wrote
 
-1674
-
 See V. 43, which is probably the letter here referred to, being one sent to the two patriarchs of Alexandria and Antioch, urging them to join in resisting the assumption of the title of universal Bishop by the patriarch of Constantinople.
-
-1675
 
 Benedictionem, with reference to the present of sweet wood that had been sent. Cf. 2 Kings v. 15, “Take a blessing of thy servant.”
 
-1676
-
 Cf. VII. 40; IX. 78.
 
-1677
-
 On the subject of this Epistle, cf. above, Ep. XXXIV., with references in note.
-
-760
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4094,15 +2958,9 @@ to me that it had been the custom for the bishops of the said Church to use the 
 
 Epistle LXIII.
 
-1678
-
 Cf. V. 11; VI. 34.
 
-1679
-
 Spatam, a word usually signifying a kind of sword. Cf. VI. 24, where this same spata is referred to.
-
-761
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4116,11 +2974,7 @@ Gregory to Gennadius, Patrician of Africa. We doubt not that your Excellency rem
 
 Epistle LXV. To Mauricius, Emperor. Gregory to Mauricius Augustus. Amidst the cares of warfare and innumerable anxieties which you sustain in your unwearied zeal for the government of the Christian republic, it is a great cause of joy to me along with the
 
-1680
-
 On the subject of this letter, see IV. 34, 35.
-
-762
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4130,11 +2984,7 @@ whole world that your Piety ever watches over custody of the faith whereby the e
 
 Epistle LXVI. To Athanasius, Presbyter. Gregory to Athanasius, Presbyter of Isauria. As we are afflicted and mourn for those whom the error of heretical pravity has cut off from the unity of the Church, so we rejoice with those whom their profession of the catholic faith retains within her bosom. And, as it is our duty to oppose the impiety of the former with pastoral solicitude, so it is fitting for us to bestow favour on the pious professions of the latter, and to declare their views to be sound. And accordingly, a suspicion of unsoundness in the faith having arisen against thee, Athanasius, presbyter of the monastery of Saint Mile, called Tamnacus, which is established
 
-1681
-
 Gennadius was the Exarch of Africa.
-
-763
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4144,11 +2994,7 @@ Philip Schaff
 
 in the province of Lycaonia, thou, in order that the integrity of the profession of faith might appear, didst elect to have recourse to the Apostolical See over which we preside, asserting also that, having been corporally chastised, thou hadst done some things unjustly and impetuously. And, although things done under compulsion by no means fall under the censure of the canons, and they are rightly accounted to be of no weight (since he himself invalidates them who compels what is unjust to be confessed and done), and though that confession is rather to be received and embraced which is shewn to proceed from the spontaneous will, as is known to be the case in that which thou madest before us;—yet still, to avoid the possibility of uncertainty, we took the precaution of writing about thee to our brother and fellow-bishop, the prelate of the city of Constantinople, that he might inform us by letter of what had been done. He, after being often admonished by us, wrote in reply to the effect that a volume had been found in thy possession, which contained many heretical statements, and that on this account he had been incensed against thee. He having lent this to us in his desire to satisfy us, we read the earlier portions of it attentively: and inasmuch as we found in it manifest poison of heretical pravity, we forbade its being read any more. But, since thou hast assured us that thou hadst read it in simplicity, and, in order to cut off all ground for uncertain suspicion, hast handed to us a paper in thine own handwriting in which expounding thy faith, thou hast most plainly condemned all heresies in general, or whatever is opposed to the integrity of the Catholic faith or profession, and hast declared that thou hadst always received and didst still receive all that the four holy Ecumenical synods receive, and hadst condemned and didst still condemn what they condemn, and hast promised also to accept and hold to that synod which was held in the times of the emperor Justinian concerning the Three Chapters, and, being forbidden by us to read that same volume in which the poison of pestiferous error is interwoven, rejecting also and condemning all that in it is said or latently implied against the integrity of the Catholic faith, thou hast promised that thou wilt not read it again;—we, moved by these reasons (thy faith also having clearly appeared to us from the paper under thine own hand, GOD guarding thee, to be catholic), decree thee to be, according to thy profession, free from all stain of heretical perversity, and catholic; and we pronounce that thou hast proved thyself, by the grace of Christ Jesus our Saviour to be in all things a professor and follower of the unadulterated faith: and we give thee free licence, notwithstanding all, to return to thy monastery, resuming thy place and rank. We wish to write also on this matter to our most beloved brother, the prelate of the city of Constantinople, who has been ordained in the place of the aforesaid holy John1682. But, since it is the custom that we should not write before his synodical epistle has reached us, we have therefore delayed. But, after it has reached us, we will inform him of these things when we find a convenient opportunity.
 
-1682
-
 Cyriacus (A.D. 595) succeeded John the Faster as patriarch of Constantinople. For the letter written afterwards written to him with reference to Athanasius, cf. VII. 5.
-
-764
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4160,11 +3006,7 @@ Epistle II. To Columbus, Bishop. Gregory to Columbus, Bishop of Numidia1683. We 
 
 Epistle IV. To Cyriacus, Bishop.
 
-1683
-
 On the subject of this letter, see IV. 34, 35: also VI. 63.
-
-765
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4174,19 +3016,13 @@ Philip Schaff
 
 Gregory to Cyriacus, Bishop of Constantinople. We have received with becoming charity our common sons, George the presbyter and Theodore your deacon; and we rejoice that you have passed from the care of ecclesiastical business to the government of souls, since, according to the voice of the Truth, He that is faithful in a little will be faithful also in much (Luke xvi. 10). And to the servant who administers well it is said, Because thou hast been faithful over a few things, I will make thee ruler over many things (Matth. xxv. 23); to whom also it is presently said further with respect to eternal retribution, Enter thou into the joy of thy LORD. Now you say in your letter that you had exceedingly wished for rest. But in this you shew that you have fitly assumed pastoral responsibility, since, as a place of rule should be denied to those who covet it, so it should be offered to those who fly from it. And no man taketh this honour unto himself, but he that is called of GOD, as was Aaron (Hebr. v. 4). And again the same excellent preacher says, If one died far all, then all died; and Christ died for all. It remaineth that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again (2 Cor. v. 14, 15). And to the shepherd of holy Church it is said, Simon, son of Jonas, lovest thou me? Feed My sheep (John xxi. 17). From which words it appears that, if one who is able refuses to feed the sheep of Almighty GOD, he shews that he does not love the chief Shepherd. For if the Only-begotten of the Father, for accomplishing the good of all, came forth from the secrecy of the Father into the midst of us, what shall we say, if we prefer our secrecy to the good of our neighbours? Thus rest is to be desired by us with all our heart; and yet for the advantage of many it should sometimes be laid aside. For, as we ought with full desire to fly from occupation, so, if there should be a want of some one to preach, we must needs put a willing shoulder under the burden of occupation. And this we are taught by the conduct of two prophets1684, one of whom attempted to shun the office of preaching, while the other desired it. For to the LORD who sent him Jeremias replied saying, Ah, LORD GOD, I cannot speak; for I am a child (Jer. i. 6). And when Almighty GOD sought for some one to preach, saying, Whom shall I send, and who will go for us? Isaias offered himself of his own accord, saying, Here am I, send me (Isai. vi. 8). Lo, different voices proceeded outwardly from the two, but they flowed from the same fountain of love. For indeed there are two precepts of charity; to wit, the love of GOD and of one’s neighbour. Wherefore Isaias, wishing to profit his neighbours by an active life, desires the office of preaching; but Jeremias, longing to cling assiduously to the love of his Maker by a contemplative life, protests against being sent to preach. What, then, one laudably desired the other laudably shrunk from: the latter lest by speaking he should lose the gains of silent contemplation; the former lest by keeping silence he should feel the loss of diligent work. But this is nicely to be observed in both, that he who refused did not resist finally, and he who wished to be sent saw himself previously purged by a coal from the altar; that so no one who has not been purged should dare to approach sacred ministries, nor any one whom heavenly grace chooses refuse proudly under a show of humility.
 
-1684
-
 What follows about Isaiah and Jeremiah occurs also in the Pastoralis Cura, I. 7.
-
-766
 
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
 
 Moreover I find you in your epistles seeking with great longing after serenity of mind, and panting for tranquillity of thought apart from perturbation. But I know not in what manner your Fraternity can attain to this. For one who has undertaken the pilotage of a ship must needs watch all the more as he further recedes from shore, so as sometimes to foresee from signs the coming storms; sometimes, when they come, either, if they are small, to ride over them in a straight course, or, if they swell violently, to avoid them as they rush on by steering sideways; and often to watch alone when all who are without charge of the ship are at rest. How, moreover, having undertaken the burden of pastoral charge, can you have serenity of thought, seeing that it is written, Behold giants groan under the waters (Job xxvi. 5)? For, according to the words of John, The waters are peoples (Rev. xvii. 15). And the groaning of giants under the waters means that whoso in this world has increased in degree of power, as though in a sort of massive size of body, feels the load of greater tribulation by so much the more as he has taken on himself the care of ruling peoples. But, if the power of the Holy Spirit breathes upon the afflicted mind, forthwith what was done bodily for the people of Israel takes place with us spiritually. For it is written, But the children of Israel walked upon dry land in the midst of the sea (Exod. xiv. 29). And through the prophet the LORD promises saying, When thou passest through the waters, I will be with thee, and the rivers shall not overflow thee (Isai. xliii. 2). For the rivers overflow those whom the active business of this world confounds with perturbation of mind. But he who is sustained in mind by the grace of the Holy Spirit passes through the waters, and yet is not overflowed by the rivers, because in the midst of crowds of peoples he so proceeds along his way as not to sink the head of his mind beneath the active business of the world. I also, who, unworthy as I am, have come to a place of rule, had sometimes determined to seek some place of retirement: but, seeing the Divine counsels to be opposed to me, I submitted the neck of my heart to my Maker’s yoke; especially reflecting on this, that no hidden places whatever can save the soul without the grace of GOD; and this we observe sometimes, when even saints go astray. For Lot was righteous in the depraved city itself, and sinned on the mountain (Gen. xix.). But why speak of these instances, when we know of greater ones? For what is pleasanter than Paradise? What safer than Heaven? And yet man out of Paradise, and the angel from heaven, by sinning fell. His power, then, should be sought, His grace implored, without whom we are nowhere without fault, with whom we are nowhere without righteousness. We should, then, take care that perturbation of thought get not the better of our minds; for it can by no means be entirely got rid of. For whosoever is in a place of rule must needs have to think sometimes even of earthly things, and to have a care also of external things, that the flock committed to him may be able to subsist for accomplishing what it has to do. But it should be most carefully seen to, that this same care pass not due measure, and that, when lawfully admitted into the heart, it be not allowed to become
-
-767
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4196,11 +3032,7 @@ Philip Schaff
 
 excessive. Whence it is rightly said through Ezekiel1685, Let not the priests shave their heads, nor suffer their locks to grow long; but polling let them poll their heads (Ezek. xliv. 20). For what are hairs in the head by signification but thoughts in the mind? For, rising above the brain insensibly, they denote cares of the present life, which from negligent perception, since they come on sometimes importunely, advance as it were without our feeling them. Since, then, all who are over others ought indeed to have outward anxieties, and yet not to devote themselves to them exceedingly, the priests are rightly forbidden either to shave the head or to let their locks grow long, so that they may neither entirely cut off from themselves carnal thoughts for the life of their subjects, nor again allow them to grow too much. And it is also there well said, Polling let them poll their heads; meaning that the anxieties of a temporal charge should both proceed as far as is needful, and yet should be soon cut short, lest they grow to an immoderate length. While therefore both, through external provision administered, the life of bodies is protected, and again intentness of heart is not hindered through the same being immoderate, the hairs on the head of the priest are kept to cover the skin, and cut short so as not to veil the eyes. Furthermore, we have received in full faith your letters addressed to us, and give thanks to Almighty GOD, who, by the mutual confession of the faithful, guards the coat that is without seam woven from the top throughout, that is to say His Church, in the unity of grace, from all rent of error; and against the deluge (so to speak) of so many sins of the perishing world constructs an ark of many planks in which the elect of Almighty GOD may be preserved unto life. For, when we in our turn send the confession of our faith to you, and you shew your charity towards us, what are we doing in holy Church but smearing the ark with pitch; lest any wave of error enter, and kill all the spiritual as being men, and the carnal as being beasts. But, when you have wisely professed a right faith, it remains doubtless that you should keep the more warily the peace of hearts, because of what the Truth says, Have salt in yourselves, and have peace one with another (Mark ix. 50). And Paul the apostle admonishes, saying, Endeavouring to keep the unity of the Spirit in the bond of peace (Ephes. iv. 3). And again he says, Follow peace with all men, and holiness, without which no man shall see GOD (Hebr. xii. 14). Which peace indeed you will then truly have with us, if you turn away from the pride of a profane name, according to what the same teacher of the Gentiles says, O Timothy, keep that which is committed to thy trust, avoiding profane novelties of words (1 Tim. vi. 20). For indeed it is too bad, if these who have been made preachers of humility should glory in the elation of a vain name, when the true preacher says, But GOD forbid that I should glory, save in the cross of our LORD Jesus Christ (Gal. vi. 14.). He then is truly glorious who glories not in temporal power, but, for the name of Christ, glories in His passion. Herein therefore we embrace you from the bottom of our heart, herein we recognize you as priests, if, rejecting the vanity of words, you occupy the place of holiness with holy humility. For behold, we have been scandalized by this impious appellation, and retain in our mind and
 
-1685
-
 The following fanciful interpretation of Ezekiel’s direction to priests is found also, almost word for word, in thePastoralis Cura, II. 7. See note there.
-
-768
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4212,11 +3044,7 @@ express in words by no means slight complaints. But your Fraternity knows how th
 
 Epistle V.
 
-1686
-
 It is a sign of Gregory’s scanty knowledge of the history of controversies that so far he seems never to have heard of so noted an Arian leader as Eudoxius, whose followers, under the name of Eudoxians, had been specifically condemned in the 1st Canon of the first general Council of Constantinople. But it appears from a subsequent letter (VII. 34), that there was no copy at Rome of the canons of that Council, which had not in fact been accepted there, probably because of the 3rd Canon, which assigned a primacy of honour after Rome to the See of Constantinople as being new Rome. When he wrote this subsequent letter, he had become aware that the Eudoxians had been so condemned, but still had no idea who Eudoxius had been. The fact was that he was not well versed in past ecclesiastical history and, being totally ignorant of Greek, could only consult such Latin writings as were within his reach; and in these he had failed to find Eudoxius mentioned. He applied, however, to the patriarchs of Alexandria and Antioch for further information on the subject (see VII. 34, and VIII. 30), and was at length satisfied that Eudoxius had been a veritable heretic, having been condemned by many Greek Fathers of repute, and concluded that he was “manifestly slain, against whom our heroes have cast so many darts” (VIII. 30).
-
-769
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4225,8 +3053,6 @@ Philip Schaff
 To Cyriacus, Bishop. Gregory to Cyriacus, Bishop of Constantinople. When in time past I represented the Apostolic See in the royal city, I became acquainted with the good qualities of your Holiness. And I greatly rejoice that the care of souls has been committed to you. And though unworthy, I beseech Almighty GOD with all the prayers in my power that He would even increase His grace in you, and cause you to gather gain of souls for the eternal country. But, whereas you say that you are weak for this work that has been put upon you, we know that the first virtue is acknowledgment of infirmity; and from this we gather that you can fulfil well the ministry you have undertaken, that we see how, out of humility, you acknowledge your own infirmity. For we are all infirm; but he is more infirm who has not strength to consider his infirmity. But you, most blessed brethren, are for this reason strong, that, distrusting your own strength, you trust in the power of Almighty GOD. I cannot, however, express by the words of a letter how much my heart is bound to your Charity. But I pray that Almighty GOD may by the gift of His grace multiply the same charity that is between us, and may take away all occasion of offence, lest the holy Church, united by the profession of the true faith, and compacted by conjunction of the hearts of the faithful, should suffer any damage from priests disputing with each other, which GOD forbid. I at any rate, in all that I speak, in all that I say, against the proud conduct of certain persons, still, through the bounty of Almighty GOD, never relinquish custody of inward charity; but so execute outwardly what belongs to justice as by no means to disregard inwardly what belongs to love and kindness. And do you also ever return my love, and guard what belongs to peace and kindness; that, remaining of one mind, so as to allow no dissension to come in between us, we may be better able from the very unity of our hearts to obtain what we seek from the LORD. Furthermore, I commend to your Holiness John, presbyter of Chalcedon, and Athanasius of Isauria, that no one may set you against them by underhand misrepresentations; for I have thoroughly examined their faith, and have found them sound in their confessions, which have also been given in writing. Now may the Holy Trinity protect you with His hand, and render you always vigilant and careful in the custody of souls, to the end that in the eternal retribution you may be counted worthy to be crowned, not only for your own work, but also for the amelioration of your subjects.
 
 Epistle VI. To Mauricius Augustus. Gregory to Mauricius Augustus.
-
-770
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4238,15 +3064,9 @@ Almighty GOD, who has made your Piety to be the guardian of ecclesiastical peace
 
 Epistle VII. To Peter, Domitian, and Elpidius. Gregory to Peter, Domitian, and Elpidius, Bishops1688. I rejoice exceedingly that you welcomed with great joy the ordination of the most holy Cyriacus, my brother and fellow-priest. And since we have learnt from the preaching of Paul the apostle that
 
-1687
-
 What is said here shews that the appointment of the Patriarchs of Constantinople rested in fact entirely with the Emperor.
 
-1688
-
 Who these bishops were, who had assisted at the ordination of Cyriacus and sent a report of it to Gregory, does not appear. In the objection taken by the latter to the language of laudation with which the new patriarch had been hailed at Constantinople we may perhaps detect something of his habitual jealousy of the assumptions of the Constantinopolitan See. Of Cyriacus himself he appears to have had a high opinion and to have welcomed his accession, hoping at first that he would renounce the offensive title of œcumenical bishop which had been assumed by John Jejunatur. In this, however, he was disappointed, and afterwards inveighed against the new patriarch for proud presumption no less than against the old one.
-
-771
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4254,19 +3074,11 @@ Philip Schaff
 
 If one member rejoice, all the members rejoice with it (1 Cor. xii. 26), you must needs consider with how great exultation I rejoice with you in this thing, wherein not one member, but many members of Christ have rejoiced. Nevertheless, so far as I have been able to consider your Fraternity’s letters on a cursory perusal, great joy has carried you away into immoderate praise of this my brother. For you say that he has appeared in the Church like the sun, so that you all cried out, This is the day which the LORD hath made; let us rejoice and be glad in it (Ps. cxvii. 24)1689. Yet surely this is a promise of the life to come, seeing that it is said, The righteous shall shine forth as the sun (Matth. xiii. 43; Wisd. iii. 7). For, in whatsoever virtue any one may excel, how can he shine forth as the sun while still in the present life, wherein The corruptible body presseth down the soul, and the earthly tabernacle weigheth down the mind that museth upon many things (Wisd. ix. 15); wherein We see another law in our members warring against the law of our mind, and bringing us into captivity by the law of sin which is in our members (Rom. vii. 23); wherein Even in ourselves we have the answer of death, that we should not trust in ourselves (2 Cor. i. 9); wherein also the Prophet cries aloud, Fear and trembling are come upon me, and darkness hath covered me (Ps. liv. 6)1690? For it is written also, A wise man abideth as the sun; a fool changeth as the moon (Ecclus. xxvii. 12); where the comparison of the sun is not applied to the splendour of his brightness, but to perseverance in well-doing. But the good beginning of his ordination could not as yet be praised by you with regard to perseverance. And as to your saying that you cried out, This is the day which the LORD hath made, you ought to have considered of whom this is said. For what comes before is this; The stone which the builders refused, the same is made the head-stone of the corner. This is the LORD’S doing, and it is marvellous in our eyes (Ps. cxvii. 22)1691. And with regard to this same stone it is forthwith added, This is the day which the LORD hath made. For He who for strength of building is said to be a stone, for the grace of illumination is called the Day, being also made, because He became incarnate. In Him we are enjoined to rejoice and be glad, because He has overcome in us the darkness of our error by the light of His excellence. In praise of a creature, then, that expression ought not to have been used which is suitable to the Creator alone. But why should I find fault with these things, knowing as I do how joy carries away the mind? For your charity engendered in you great gladness, which gladness of heart the tongue applauding followed. This being so, the praise which charity found to hand cannot now be called a fault. But to me concerning my most holy brother there should have been briefly said what I might accept with satisfaction, seeing that I knew him to be one who has long given to me especially this proof of his greatness; that, having been occupied in so many affairs of ecclesiastical administration, he has kept a tranquil heart in the midst of turbulent throngs, and always restrained himself with a gentle bearing. And this indeed is no small commendation of a great and unshaken mind, not to have been perturbed among the perturbations of business.
 
-1689
-
 cxviii. 24.
-
-1690
 
 lv. 5.
 
-1691
-
 cxviii. 22.
-
-772
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4277,8 +3089,6 @@ Philip Schaff
 Furthermore, your Fraternity should be instant in continual prayers, that Almighty GOD may guard in our aforesaid brother and fellow-priest what has been well begun, and ever lead him on to what is better still. This should ever be the prayer of you, most holy ones, and of the people subject to him. For the deserts of rulers and peoples are so connected with each other that often the lives of subjects are made worse from the fault of those who are over them, and often the lives of pastors fall off from the ill desert of peoples. For that the evil doings of one who is over others does very great harm to those who are under him the Pharisees are evidence, of whom it is written, Ye shut up the kingdom of heaven against men. For ye neither go in yourselves, neither suffer ye them that are entering to go in (Matth. xxiii. 13). And that the fault of peoples does much harm to the life of pastors we perceive in what David did (2 Kings ii. 24). For he, praised by the testimony of GOD, he, conscious of heavenly mysteries, being inflated by the tumour of hidden elation, sinned in numbering the people; and yet the punishment fell upon the people for David’s sin. Why was this? Because in truth according to the desert of subject peoples are the hearts of rulers disposed. Now the righteous Judge rebuked the fault of the sinner by visitation on those on account of whom he sinned. But, because he himself, waxing proud of his own will, was not free from fault, he himself also received punishment of his fault. For the fierce wrath, which smote the people bodily, prostrated also the ruler of the people with inmost sorrow of heart. Consider therefore these things mutually; and, even as he who is put over you and over the people should intercede for all, so should all of you pray for his conversation and manners, that before Almighty GOD both you may profit by imitation of him, and he may be aided by your deserts. Further, let us all with one accord pray continually with great weeping to the utmost of our powers for our most serene lords and their pious offspring, that protecting heavenly grace may guard their lives, and subdue the necks of the nations to the Christian empire.
 
 Epistle XI. To Rufinus, Bishop of Ephesus. Gregory to Rufinus, &c. The charity of your acts of friendship in the past has moved us to visit your Fraternity with the present letter. For we have been refreshed with great joy by learning from reports given us of your health that all is well with you. But, while this is so, we implore Almighty GOD, that as in the present life, which is as it were a shadow of the future one, He has granted you to rejoice in the transitory welfare of your body, so in that heavenly country wherein is true life He may cause us to give thanks and rejoice with a common exultation for the perfected salvation of your soul. Now the bearer of this, desiring to be commended to you by a letter from us, having been asked by us whether he had learnt letters as becomes a clerk, replied that he was ignorant of them. What further commendation, then, with regard to him I should give to your Fraternity I know not; except that
-
-773
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4292,8 +3102,6 @@ Epistle XII. To Respecta, Abbess.
 
 Gregory to Respecta, Abbess of Massilia (Marseilles) in Gaul. The demand of a pious wish ought to be accomplished by a consequent result, that so the benefit demanded may be validly attained, and sincerity of devotion may laudably shine forth. Accordingly to the monastery consecrated to the honour of Saint Cassian wherein you are selected to preside—in accordance with the petition of our children Dynamius and Aureliana, who are shewn, in their religious devotion, to have united it to the house in their possession by connecting the buildings—we have seen fit to allow these privileges:—We appoint that on the death of the abbess of the aforesaid monastery, not a stranger, but one whom the congregation may choose for itself from among its own members, shall be ordained; whom (provided however that she be judged worthy of this ministry) the bishops of the same place shall ordain. Further, with regard to the property and management of the same monastery, we decree that neither bishop nor any ecclesiastic shall have any power; but appoint that these things shall in all respects pertain to the charge of thy Solicitude, or of her who may be abbess in the same place after thee. If on the day of the Saint’s anniversary, or of the dedication, of the aforesaid monastery the bishop should resort thither for celebrating the sacred solemnities of mass, still his office must be so executed that his chair be not placed there, except on the aforesaid days while he is celebrating there the solemnities of mass. And when he departs, let his chair be at the same time removed from the same oratory. But on all other days let the offices of mass be performed by the presbyter whom the same bishop may appoint Furthermore, with regard to the life and deeds of the handmaidens of GOD, or of the abbess who may be constituted in the above-written monastery, we enjoin on the bishop, in the fear of GOD, to devote careful attention to them; so that, if any of those who dwell there, her fault demanding it, ought to be subjected to punishment, he may himself visit the offence according to the vigour of the sacred canons. These things, then, being by us ordained and granted, do thou, in the ordering of thy congregation, study to shew thyself so earnestly attentive in all respects that the malice of the malignant foe may find nothing there that can be contaminated. All these things, therefore, embraced in this paper of injunctions, we ordain to be observed, under Christ’s protection, in all
 
-774
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -4304,11 +3112,7 @@ Epistle XIII. To Fortunatus, Bishop. Gregory to Fortunatus, Bishop of Fanum1692.
 
 Epistle XV. To George, Presbyter. Gregory to George, Presbyter, and to Theodore, deacon, of the Church of Constantinople. Mindful of your goodness and charity, I greatly blame myself, that I gave you leave to return so soon: but, since I saw you pressing me importunately once and again for leave to go, I considered that it might be a serious matter for your Love to tarry with us longer. But, after I had learnt that you had lingered so long on your journey owing to the winter season, I confess that I was sorry that you had been sent away so soon. For, if your Love was unable to accomplish your intended journey, it had been better that you had lingered with me than away from me. Moreover, after your departure I learnt from information given me by my most beloved sons the deacons that your Love had said that our Almighty LORD and Saviour Jesus Christ, when He descended into hell, saved all who there acknowledged Him as GOD, and delivered them from the
 
-1692
-
 Fanum Fortunæ in Picenum (Fano).
-
-775
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4322,8 +3126,6 @@ Epistle XVII. To Sabinianus, Bishop. Gregory to Sabinianus, Bishop of Jadera1693
 
 See VI. 27, note 6.
 
-776
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -4332,15 +3134,9 @@ is no doubt that thou wast aware how that, certain things having come to our ear
 
 Epistle XIX. To Marinianus, Archbishop. Gregory to Marinianus, Archbishop of Ravenna1694. Your Fraternity has been long aware after what manner the Church of Ariminum has been hitherto deprived of pastoral government by reason of the known bodily affliction of the priest who was ordained by us1695. Now we, moved by the prayers of the inhabitants of that place, having frequently exhorted him to return with the help of the LORD to his Church, if he should feel himself
 
-1694
-
 Concerning the election of Marinianus, see V. 48.
 
-1695
-
 Viz. Castorius. See II. 41.
-
-777
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4352,19 +3148,11 @@ relieved from this affliction of the head whereby he was kept away, he has been 
 
 Epistle XX. To the Clergy and People Ariminum1698. Gregory to the Clergy, &c. Our pastoral charge constrains us to succour with anxious consideration any Churches that are deprived of the government of a priest. Accordingly, inasmuch as your Church has long been deprived of pastoral rule from the malady, as you know, of its own priest, we, moved by your entreaties, have not failed to admonish the said bishop, that, if he should feel himself recovered from that malady, he should resume the ministry of the priesthood undertaken by him. And he, having been again and again warned by us, has now under the pressure of the same malady intimated by a supplication addressed to us in writing that by reason of this malady he can by no means rise to the government of the said Church or to the office undertaken by him. We therefore, compelled by the hopeless condition of this same person, have held it necessary to take thought for the setting
 
-1696
-
 Cf. XI. 47 as to the supersession of a bishop incapacitated by illness, except at his own written request, being uncanonical.
-
-1697
 
 See Ep. XX., which follows.
 
-1698
-
 See preceding Epistle.
-
-778
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4378,23 +3166,13 @@ Epistle XXIII. To Fortunatus and Anthemius1701.
 
 Gregory to Fortunatus, bishop, and Anthemius, guardian (defensori). Catellus, the bearer of these presents, has informed us that his sister, who had been betrothed to one Stephen, has, through divine mercy moving her, been converted1702 in a monastery at Naples, and that the same Stephen improperly detains a house and some other things belonging to her. And, inasmuch as legal decrees (Caus. 17, q. 2, c. 28) have appointed that a betrothed woman, should she wish to be converted, shall suffer no loss whatever, let thy Fraternity, together with Anthemius the subdeacon, endeavour by diligent enquiry to investigate the truth. And if, as we have been informed, you find that the Stephen above-named is keeping a house or anything else unjustly, let him be urgently warned by your exhortation to restore without any delay or altercation what he unduly detains, and not to defer under any kind of excuse the restitution of what is not his own. And if perchance you find him neglect your exhortation, notify this to us, giving also an accurate account of the facts of the case, to the end that, when the merits of the case are known, he may be forced by other means, in accordance with equity, to make the restitution which he scorns to make of his own accord out of regard to honesty. Commending the bearer of these presents to thy Fraternity, we exhort thee to allow him no longer to suffer from delay on this account.
 
-1699
-
 Viz. a bishop Sebastian, who had been commissioned, as was usual in such cases, to visit the church of Ariminum during the incapacity of its proper bishop. The Epistle which follows this (Ep. XXI., which, as not throwing further light on the proceedings, has not been translated) is addressed to him, directing him to see to the due election, &c., of a successor to Castorius.
-
-1700
 
 As Metropolitan. See preceding Epistle.
 
-1701
-
 Fortunatis was bishop of Naples, and Anthemius a subdeacon, and Defensor of Campania.
 
-1702
-
 Conversam fuisse; the usual phrase for taking to monastic life.
-
-779
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4402,11 +3180,7 @@ Philip Schaff
 
 Epistle XXV. To Gregoria. Gregory to Gregoria, Lady of the Bed-chamber (cubiculariæ) to Augusta. I have received the longed for letters of your Sweetness, in which you have been at pains all through to accuse yourself of a multitude of sins: but I know that you fervently love the Almighty LORD, and I trust in His mercy that the sentence which was pronounced with regard to a certain holy woman proceeds from the mouth of the Truth with regard to you: Her sins, which are many, are forgiven her, for she loved much (Luke vii. 47). And how they were forgiven is shewn also by what follows afterwards; that she sat at the LORD’S feet, and heard the word from His mouth (Luke x. 39)1703. For, being rapt in the contemplative, she had transcended the active life, which Martha her sister still pursued (Ib. 40). She also sought earnestly her buried LORD, and, stooping over the sepulchre, found not His body. But, even when the disciples went away, she remained standing before the door of the sepulchre, and whom she sought as dead, Him she was counted worthy to see alive, and announced to the disciples that He had risen again. And this was by the wonderful dispensation of the loving-kindness of GOD, that life should be announced by a woman’s mouth, because by a woman’s mouth had been the first taste of death in Paradise. And at another time also, with another Mary, she saw the LORD after His resurrection, and held His feet. Bring before your eyes, I pray you, what hands held whose feet. That woman who had been a sinner in the city, those hands which had been polluted with iniquity, touched the feet of Him who sits at the right hand of the Father above all the angels. Let us estimate, if we can, what those bowels of heavenly loving-kindness are, that a woman who had been plunged through sin into the whirlpool’s depth should be thus lifted high on the wing of love through grace. It is fulfilled, sweet daughter, it is fulfilled, what was promised to us by the prophetic voice concerning this time of the holy Church: And in that day the house of David shall be an open fountain for ablution of the sinner and of her that is unclean (Zach. xiii. 1). For the house of David is an open fountain for ablution to us sinners, because we are washed from the filth of our iniquities by mercy now disclosed through the son of David our Saviour. But as to what thy Sweetness has added in thy letters, namely that thou wilt continue to be urgent with me till I write that it has been revealed to me that thy sins are forgiven, thou hast demanded a difficult, nay even an unprofitable thing; difficult indeed, because I am unworthy of having a revelation made to me; but unprofitable, because thou oughtest not to become secure about thy sins, except when in the last day of thy life thou shalt be able no longer to bewail them. But, until that day comes, thou oughtest, ever suspicious and ever fearful, to be afraid of faults, and wash them with daily tears. Assuredly the apostle Paul had already ascended into the third heaven,
 
-1703
-
 It will be observed that Gregory identifies the woman who had been a sinner in the city with the sister of Martha, and also with the Magdalene.
-
-780
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4420,15 +3194,9 @@ Epistle XXVI. To Theoctista, Patrician1704
 
 Gregory to Theoctista, &c. That your Excellency, though placed in so great a tumult of affairs, is full of the fruitfulness of the sacred word, and incessantly pants after eternal joys, for this I give great thanks to Almighty GOD, in that in you I see fulfilled what is written of the elect fathers, But the children of Israel walked on dry land through the midst of the sea (Exod. xv. 19). But on the other hand, I am come into the depth of the sea, and the storm hath overwhelmed me (Ps. lxviii. 3)1705. But you, as I see, walk with dry feet through the waves of secular affairs to the country of promise. Let us give thanks, then, to that Spirit who lifts up the hearts which He fills; who amid the tumults of men makes a solitude in the soul; and in whose presence there is no place, wherein a soul moved by compunction can be, which is not a secret one. For you inhale the odour of eternal sweetness, and so ardently love the bridegroom of your soul as to be able to say with the heavenly bride, Draw me after thee; we run in the odour of thine ointments (Cant. i. 3). But in the letters of your Excellency I find this deficiency; that you have been unwilling to tell me about your most serene mistress, how
 
-1704
-
 This patrician lady was sister of the Emperor Mauricius (see I. 5), and appears from what is said in this letter to have been governess of the imperial children, and in close attendance on the Empress Constantina. The letter is in many respects interesting and characteristic. In it may be noted Gregory’s way of retaining influence over devout ladies in high circles, and through them hoping to influence others; his favourite method of allegorizing the Old Testament Scriptures; his tendency to regard remarkable incidents as miraculous; and his allusion to the very large number of females at that time leading a monastic life in Rome. Cf. XI. 45, addressed to the same lady.
 
-1705
-
 Ps. lxix. 2.
-
-781
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4436,15 +3204,9 @@ Philip Schaff
 
 studiously she reads, or how she is moved by compunction in her reading. For your presence ought to be of great advantage to her, that amid the billows of affairs under which she continually suffers and by which, whether she will or no, she is drawn abroad, she may be recalled inwardly to the love of the heavenly country. And this also you ought to investigate, as often as tears are given her for her soul, whether her compunction arises still from fear, or whether now from love1706. For there are two kinds of compunction, as you know: one that is afraid of eternal pains, the other that sighs for heavenly rewards; since the soul that is athirst for GOD is first moved to compunction by fear, and afterwards by love. For in the first place it is affected to tears because, while recollecting its evil doings, it fears to suffer for them eternal punishments. But, when fear has died away in the anxiety of a long sorrow, a certain security has birth from a sense of pardon; and the mind is enflamed with love of heavenly joys. And one who previously wept for fear of punishment begins afterwards to weep most bitterly for being kept back from the kingdom. For the soul contemplates what are those choirs of angels, what is the very society of blessed spirits, what the vision of the inward brightness of GOD; and laments more for the lack of unending good than it wept before when it feared eternal evil; and thus it comes to pass that the compunction of fear, when perfected, draws the mind to the compunction of love. All this is well described in the sacred and true history, understood figuratively, which says, Axa the daughter of Caleph sighed sitting on an ass. And her father said to her, What wouldest thou? Who answered, Give me a blessing, Thou hast given me a South and dry land; give me also a watered land. And her father gave her the upper springs, and the nether springs (Josh. xv. 18)1707. For indeed Axa sits on an ass, when the soul presides over the irrational motions of the flesh. And sighing she seeks a watered land from her father, because the grace of tears is to be sought with great longing from our Creator. For there are some who have already freely received the gift of speaking in behalf of justice, of protecting the oppressed, of giving of their own to the needy, of having ardour of faith, but have not yet the grace of tears. These, that is to say, have a South and dry land, but still need springs of water; because, while they are occupied in good works, wherein they are great and fervent, they have still sore need (either from fear of punishment, or from love of the heavenly kingdom) to lament the sins which they cannot be without while they live. But since, as I have said, there are two kinds of compunction, her father gave her the upper springs and the nether springs. For the soul receives the upper springs, when she afflicts herself in tears for desire of the heavenly kingdom; but she receives the nether springs, when she shudders with weeping at the punishments of hell. And indeed the nether springs are given first, and the upper springs afterwards. But, because the compunction of love is far above the other indignity, there was need for the upper springs to be mentioned first, and the nether springs afterwards. You then, who through the operation of the
 
-1706
-
 The whole passage which follows about two kinds of compunction, with the allegorical interpretation of the story of Achsah, is found, word for word, in the Dialogues Lib. III. cap. 34.
 
-1707
-
 In Joshua xv. 18, instead of “and she lighted off her ass,” as in the English Version, the Vulgate has “suspiravitque ut sedebat in asino.”
-
-782
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4454,11 +3216,7 @@ Philip Schaff
 
 Almighty LORD know by experience both kinds of compunction, ought anxiously to try to discover day by day how much you are profiting your most serene mistress by your words. Further, I beg you to take especial care to instruct in good morals the little lords whom you are bringing up, and to admonish the glorious eunuchs who are appointed to attend them that they should speak to them such things as may move their minds to mutual charity between themselves and to gentleness towards subjects; lest, if they should conceive now any grudge against each other, it should break out openly hereafter. For in truth the words of those who bring up children will be either milk, if they are good, or poison if they are evil. Let them therefore so speak now to the little ones that the latter may shew hereafter what good words they had sucked from the mouths of those who nursed them. Furthermore, my beloved son, Sabinianus the deacon, has brought thirty pounds of gold, sent by your Excellency to be given for the redemption of captives and for distribution to the poor; with regard to which I rejoice, but tremble for myself, seeing that I shall have to render an account before the tremendous Judge, not only of the substance of Saint Peter, Prince of the apostles, but also of your possessions. But to you may Almighty GOD return heavenly things for earthly, and eternal for temporal. I have now to inform you that from the city of Crotona, which, lying on the Adriatic Sea in the land of Italy, was taken last year by the Lombards, many noble men and many noble women were led away captive, and children were parted from their parents, parents from their children, husbands from their wives, and wives from their husbands; of whom some have already been redeemed. But, because of the heavy prices put upon them, many have remained so far in the hands of those most abominable Lombards. But I sent at once for their redemption a moiety of the money sent by you. Out of the other moiety I have arranged for the purchase of bed-clothes for the handmaidens of GOD whom you in Greek language call monastriæ; seeing that they suffer from grievous bareness in their beds during the very severe cold of this winter; there being many of them in this city. For, according to the official list of them, they are found to be three thousand in number. They do indeed receive fourscore pounds a year from the possessions of Saint Peter, Prince of the apostles. But what is this for so great a multitude, especially in this city, where everything is so dear? Their life, moreover, is such, and strict to such a degree in tears and abstinence, that we believe that, but for them, not one of us could have subsisted for so many years in this place among the swords of the Lombards. Furthermore, I send you, as a blessing from Saint Peter the apostle, a key from his most sacred body; with respect to which key the miracle has been wrought which I now relate. A certain Lombard, having found it on his entrance into a city in the parts beyond the Po, and, paying no regard to it as Saint Peter’s key, but wishing to make something of it for himself in that he saw it to be of gold, took out a knife to cut it. But presently seized by a spirit, he plunged the knife wherewith he had thought to cut it into his own throat, and in the same hour fell down dead. And when Autharith, king of the Lombards1708, and many others belonging to him came to the place,
 
-1708
-
 See I. 17, note 4.
-
-783
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4472,8 +3230,6 @@ Epistle XXVII. To Anastasius, Bishop.
 
 Gregory to Anastasius, Bishop of Antioch. I have received through the hands of our common son the deacon Sabinianus the longed for letter of your most sweet Holiness, in which the words have flowed not from your tongue but from your soul. And it is not surprising that one speaks well who lives perfectly. And, since you have learnt, through the Spirit teaching you in the school of the heart, the precepts of life—to despise all earthly things and to speed to the heavenly country,—in proportion as you have advanced in good you think what is good of others. But, when I heard many things said in the letters of your Blessedness in praise of me, I understood your intention; how that you wished to describe not what I am, but what I ought to be. But as to your saying that I ought to remember my manner of life, and on no account give place to the malignant spirit who seeks to sift souls, I indeed recollect myself to have been always of bad manner of life, and hasten to overcome and put an end to this my manner of life, if I can. If however, as you believe, I have had anything good in me, I trust in the help of Almighty GOD that I have not forgotten it. But your Holiness, as I see, by the words of sweetness at the beginning and the words that follow, has wished your letter to be like a bee, which carries both honey and a sting, satiating me with the honey and piercing me with the sting. But meanwhile I return to meditation on the words of Solomon, That better are the wounds of one that loves than the kisses of a flattering foe (Prov. xxvii. 6). Thus, as to your saying that we ought not to give occasion of offence for no cause at all, this is what your son, our most pious lord (for whose life we ought continually to pray) has already written repeatedly; and what he says out of power I know that you say out of love. Nor do I wonder that you have made use of imperial language in your letters, since there is a very close relationship between love and power. For both presume in a princely way; both ever speak with authority. And indeed on the receipt of the synodical epistle of our brother and fellow-bishop Cyriacus it was not worth my while to make a difficulty on account of the profane title at the risk of disturbing the unity of holy Church: but nevertheless I took care to admonish him with respect to this same
 
-784
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -4482,11 +3238,7 @@ superstitious and proud title, saying that he could not have peace with us unles
 
 Epistle XXVIII. To Theodore, Physician. Gregory to Theodore, Physician at Constantinople. My most beloved son the deacon Sabinianus1709, on his return to me, brought me no letter from your Glory; but he conveyed hither what had been sent for the poor and captives; whence I understood the reason. It was that you would not speak by letters to a man, having by a good deed made your address to Almighty GOD. For this same deed of yours has a voice of its own, which calls to the secret ears of GOD, as it is written, Hide thy alms in the bosom of the poor, and it shall entreat for thee (Ecclus. xxix. 15). And indeed to me, I confess, it is sad to expend what is not my own, and to add to the accounts which I keep of the substance of the Church those also of the property of my most sweet son the lord Theodore. And yet I rejoice with your benignity that you carefully attend to and observe what the Truth says; Give alms, and behold, all things are clean unto you (Luke xi. 41); and this which is written, Even as water quencheth fire, so alms quench sin (Ecclus. iii. 33). Paul the apostle also says, Let your abundance supply their want, that their abundance also may be a supply to your want (2 Cor. viii. 14). Tobias admonishes his son, saying, If thou hast much, give abundantly; but if thou hast little, of that little impart willingly (Tob. iv. 9). You therefore observe all these precepts: but we beg you to pray for us, lest we should dispense the fruits of your labours indiscreetly, and not as need requires; lest from that whereby you diminish sins we should heap up sins. Now may Almighty GOD keep you under His protection, and so grant
 
-1709
-
 Gregory’s apocrisiarius at Constantinople, and eventually his successor in the See of Rome. See III. 53.
-
-785
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4500,15 +3252,9 @@ Epistle XXX. To Narses, the Religious (Narsæ Relegioso)1710.
 
 Gregory to Narses, &c. When I was sending Romanus the guardian (defensorem) to the royal city, he sought long your letters, but they could not be found: but afterwards they were found among many letters from other persons, your Sweetness, therein telling me of your afflictions and tribulations of spirit, and making known the oppositions to you of bad men. But, I pray you, in all this recall to your mind what I believe too that you never forget, That all who will live godly in Christ suffer persecution. (2 Tim. iii. 12). And with regard to this I confidently say that you would live less godly if you suffered persecution less. For let us hear what else the same teacher of the Gentiles says to his disciples; Yourselves know, brethren, our entrance in unto you, that it was not in vain; for we had before suffered and been shamefully entreated (1 Thess. ii. 1). Lo, most sweet son, the holy preacher declared that his entrance would have been of no effect, if he had not been shamefully entreated; and thy Charity wishes to say good things, but refuses to endure evil things. Wherefore thou must needs gird thyself up more tightly in the midst of adverse circumstances, that adversity itself may the more increase thy desire for the love of GOD and thy earnestness in good works. So the seeds of harvests germinate the more fruitfully for being covered over with frost; so fire is kept down by a blast, that it may grow greater. I know indeed that from the perverse speeches of so many evil tongues thou endurest a violent storm, and bearest in thy soul billows of contradictions. But remember what the LORD says by the Psalmist, I heard thee in the secret place of storm; I proved thee at the waters of contradiction (Psal. lxxx. 8)1711. For, if in the midst of them that contradict thou doest the things that are of GOD, then thou art proved a true worker. Further, your most sweet Charity has written to me that I should write something in the way of admonition to the monasteries which, through your prayers and influence, have been instituted by
 
-1710
-
 On the designation Religiosus, cf. I. 61, note 7. The Narses here addressed as “Religiosus” was probably the same as the “Narses Comes” of I. 6, and VI. 14, and the “Narses Patricius” of IV. 32 (see note to I. 6). For it is evident from the letters that he was of high rank at Constantinople, and greetings are sent through him to the same persons as in the other letters. He had now, we may suppose, devoted himself to the service of the Church in some capacity.
 
-1711
-
 Ps. lxxxi. 7.
-
-786
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4516,15 +3262,9 @@ Philip Schaff
 
 our son the lord Paul. But, if they are vessels of GOD, I know that they have through the grace of compunction a fountain of wisdom within, and ought not to take in the little drops of my dryness. Further, your perfect wisdom recollects that in Paradise there was no rain, but a fountain ascended from the midst of Paradise to water the face of the ground. Those souls, then, that through the grace of compunction have a fountain in themselves have no need of rain from another’s tongue. Further, you inform me in your letter of the passing away of the lady Esychia1712; and I rejoiced with great exultation that that good soul, which laboured in a foreign country, has arrived happily at its own. Further, greet in my behalf my glorious daughters, the lady Dominica and the lady Eudochia. But, inasmuch as I hear that it is now a long time since the aforesaid lady Dominica was made a prioress, let your Charity watch over her in this regard; that, as she is no longer compelled to serve in the toil of an earthy court, she may fly perfectly from all noises of this world, devote herself entirely to GOD, and leave no part of herself outside herself; but that she also gather together as many souls as she can to the service of her Creator, that their minds through her word may receive the grace of compunction, and that she herself may so much the more speedily be absolved from all her sins as, through her life and her tongue, the souls of others also shall have broken loose from the bands of sins. Moreover, since no one among men in this world is without sin (and what else is sinning but flying from GOD?), I say confidently that this my daughter also has some sins. Wherefore, that she may perfectly satisfy her mistress, that is eternal Wisdom, let her, who fled alone, return with many. For the guilt of turning away will be imputed to no one who in returning brings back gain. Further, I beg you to greet in my behalf the lord Alexander and the lord Theodorus. But with respect to your saying in your letter that I ought to write to my most excellent daughter the lady Gurdia, and her most holy daughter the lady Theoctista1713, and their magnificent husbands, the lord Marinus and the lord Christidorus, and to give them some admonition about their souls, your most sweet Greatness well knows that there are none at present in the city of Constantinople who can translate well into Greek what has been dictated in Latin. For keeping to the words, but attending little to the sense, they both fail to make the words understood and also mangle the sense. On this account I have written shortly to my aforesaid daughter the lady Gurdia; but have not addressed
 
-1712
-
 Cf. I. 6, where greetings were sent to this lady, there also designated as Domna.
 
-1713
-
 The Emperor Maurice is said to have had a sister called Gordia, who may have been the lady here referred to. Her daughter Theoctista may be concluded from the epithet “sanctissima” to have been piously disposed; and it may have been a fear lest her piety should suffer through the temptations of fashionable life that had led Narses, who was himself religious, to suggest to Gregory that he should write letters of admonition to the husbands of these ladies, as well as to themselves. Gregory’s reluctance to do so may have arisen from a fear of giving offence to such distinguished people from the purport of what he could only write in Latin being misunderstood. Elsewhere apparent are his caution and delicacy in dealing with great people.
-
-787
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4548,11 +3288,7 @@ Epistle XXXII. To Anastasius, Presbyter1714.
 
 Gregory to Anastasius, &c. That a good man out of the good treasure of his heart bringeth forth good things (Matth. xii. 35; Luke vi. 45), this thy Charity has shewn, both in thy habitual life and lately also in thy epistle; wherein I find two persons at issue with regard to virtues; that is to say, thyself contending for charity, and another for fear and humility. And, though occupied with many things, though ignorant of the Greek language, I have nevertheless sat as judge of your contention. But, in very truth, thou hast, in my judgment, thyself conquered thy opponent by the apostolical sentence, which I proffered to you during your contention, That there is no fear in charity,, but perfect charity casteth out fear; because fear hath torment. He that feareth is not made perfect in charity. I know then how much thy Fraternity is made perfect in charity. And, since thou lovest Almighty GOD much, thou oughtest to presume on thy neighbour much. For it is not places or ranks that make us neighbours to our Creator; but either our good deserts join us to Him, or our bad deserts separate us from Him. Since, then, it is still uncertain what any one is inwardly, how was it that thou wast afraid to write, ignorant as thou art as to which of us two is the superior? And indeed that thou livest well I know, but I am conscious myself of being burdened by many sins. And though thou art thyself a sinner, still thou art much better than I, since thou bearest thine own sins only, but I those also of the persons committed to me. In this, then, I look upon thee as lofty, in this I look upon thee as great, that in a great place and lofty before human eyes thou hast not felt thyself advanced at all. For therein, while honour is paid thee by men outwardly, thy mind is sunk into depths, because burdened by distracting cares. But to thee Almighty GOD has done as it is written; He hath laid down ascents in the heart, in the valley of tears (Ps. lxxxiii. 6). To me, however, thou mightest have appeared far loftier, far more sublime, hadst thou never undertaken the leadership of the monastery which is called Neas, seeing that in that monastery, as I hear, there is indeed an appearance of monks kept
 
-1714
-
 This epistle appears to have been in reply to one from a presbyter. Anastasius (al. Athanasius), of Jerusalem announcing his promotion to the abbacy of a monastery there. There had been, it seems, a standing feud between the abbots of this monastery and the bishops of Jerusalem, the continuance of which Gregory gracefully deprecates in the course of his letter.
-
-789
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4562,11 +3298,7 @@ up, but many secular things are done under the garb of sanctity. But even to thi
 
 Epistle XXXIII. To Mauricius Augustus. Gregory to Mauricius Augustus. The provident piety of my lords, lest perchance any scandal might be engendered in the unity of Holy Church by the dissension of priests, has once and again deigned to admonish me to receive kindly the representatives of my brother and fellow-priest Cyriacus, and to give them liberty to return soon. And although, most pious lord, all your injunctions are suitable and provident, yet I find that by such an admonition I am reproved as being in your judgment indiscreet. But, even though my mind has been wounded in no slight degree by a proud and profane title, could I possibly be guilty of so great indiscretion as not to know what I owed to the unity of the faith and to
 
-1715
-
 See III. 56, note 3.
-
-790
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4578,11 +3310,7 @@ ecclesiastical concord, and to refuse to receive the representatives and the syn
 
 Epistle XXXIV.
 
-1716
-
 So literally;—“Ne prædicti fratri mei ex quolibet articulo novitas turbaretur.” The meaning seems to be, Lest Cyriacus should be troubled immediately on his accession. He was to be remonstrated with in due time; but rejection at once of his synodical letter and of his emissaries would have been premature.
-
-791
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4596,15 +3324,9 @@ Gregory to Eulogius, Bishop of Alexandria, and Anastasius, Bishop of Antioch1717
 
 As to the first subject of this epistle, with references to others on the same subject, see Prolegom., p. xxii.
 
-1718
-
 Procedit, the usual term for proceeding to the Holy Table for celebration. See III. 57, note 5.
 
-1719
-
 Cf. VII. 4.
-
-792
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4612,15 +3334,9 @@ Philip Schaff
 
 contradict this synod must needs reject that history. Moreover in the Latin language we have so far found nothing about this Eudoxius, either in Philaster or in the blessed Augustine, who wrote much about heresies. Let therefore your Charity inform me in your letters if any one of the approved Fathers among the Greeks has made mention of him. Furthermore three years ago, with reference to the case of the monks of Isauria, who were accused as being heretics1720, my brother and fellow-bishop the lord John once sent me letters for my satisfaction, in which he attempted to shew that they had contradicted the definitions of the synod of Ephesus; and he forwarded to me certain chapters, purporting to be those of the same synod, which they were said to oppose1721. Now among other things it was in these chapters asserted concerning the soul of Adam, that by sin it did not die, in that the devil does not enter into the heart of man; and that whoso said it was so was anathema. When this was read to me I was much grieved. For if the soul of Adam, who was the first to sin, did not die by sin, how was it said to him concerning the forbidden tree, In the day that ye eat thereof ye shall surely die (Gen. ii. 17)? And certainly Adam and Eve ate of the forbidden tree, and yet in their flesh they lived afterwards more than nine hundred years. It is therefore evident that in his flesh he did not die. If then he did not die in his soul, the impious conclusion follows that GOD pronounced a false sentence concerning him, when He said that in the day that he ate he should die. But far be this error, far be it from the true faith. For what we say is, that the first man died in soul in the day that he sinned, and that through him the whole human race is condemned in this penalty of death and corruption. But through the second man we trust that we can be freed, both now from the death of the soul, and hereafter from all corruption of the flesh in the eternal resurrection:—as moreover we said to the aforesaid representatives; ‘We say that the soul of Adam died by sin, not from the substance of living, but from the quality of living. For, inasmuch as substance is one thing, and quality another, his soul did not so die as not to be, but so died as not to be blessed. Yet this same Adam returned afterwards to life through penitence.’ But that the devil enters into the heart of man cannot be denied, if the Gospel is believed. For it is there written, And after the sop Satan entered into him (John xiii. 27). And again it is therein also said, When the devil had now put himself into the heart of Judas, that Judas should betray Him (Ibid. 2). He that denies this falls into Pelagian heresy. Seeing then that, having examined the Ephesine synod, we found nothing of the kind to be contained therein, we caused to be brought to us also a very old Codex of the same synod from the Church of Ravenna, and we found it to agree with the report of the synod which we have so as to differ in no respect, and to contain nothing else in its decree of anathema and rejection, except that they reject the twelve chapters of Cyril of blessed memory. But this whole argument we set forth much more fully and particularly to his representatives when they were with us, and most fully satisfied them. Wherefore lest either these or any like things should creep in yonder, so as to cause offence to holy Church, it is necessary for
 
-1720
-
 See III. 53, note 9.
 
-1721
-
 Cf. VI. 14, where the same doctrinal questions are similarly discussed in the same connexion.
-
-793
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4635,8 +3351,6 @@ Epistle XXXV. To Dominicus, Bishop.
 Gregory to Dominicus, Bishop of Carthage. Though we believe that thy Fraternity gives attention with pastoral vigilance to the care of monasteries, yet we think it necessary to inform you of what we have learnt about a monastery in the African province. Now the abbot Cumquodeus, the bearer of these presents, complaints that, if at any time he wishes to restrain under regular discipline the monks over whom he presides, they at once leave the monastery, and are allowed to wander wherever they will. Seeing, then, that this is both altogether pernicious to themselves and also sets an example of perdition to others, we exhort your Fraternity that, if it is so, you should bring ecclesiastical censure to bear upon them, and withhold them by suitable punishment from such undoubted presumption; and that you should so bring them to obedience by salubrious provision, subduing their proud minds to the yoke of discipline, that correction may recall from guilt others whom their example might have provoked to similar transgression, and teach them to obey their superiors, as is fit. But, since he tells us that stray monks are defended by some bishops, let your Fraternity give careful attention to this, and restrain them by your menaces in all ways from such defence. The month of July, Indiction 15.
 
 Epistle XXXVIII. To Donus, Bishop. Gregory to Donus, Bishop of Messana (Messene). The ordinances both of the sacred canons and of the laws allow the utensils of the Church to be sold for the redemption of captives. And so, seeing that Faustinus, the bearer of these presents, is proved to have contracted a debt of three hundred and thirty solidi for the purpose of redeeming his daughters from the yoke of captivity, and that, thirty thereof having been repaid, it is certain that he has not sufficient means for the repayment of the remaining sum, we exhort thy Fraternity by this communication that thou by all means give him fifteen pounds, taking his receipt for the
-
-794
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4656,11 +3370,7 @@ Philip Schaff
 
 Gregory to Eulogius, Bishop of Alexandria. Your most sweet Holiness has spoken much in your letter to me about the chair of Saint Peter, Prince of the apostles, saying that he himself now sits on it in the persons of his successors. And indeed I acknowledge myself to be unworthy, not only in the dignity of such as preside, but even in the number of such as stand. But I gladly accepted all that has been said, in that he has spoken to me about Peter’s chair who occupies Peter’s chair. And, though special honour to myself in no wise delights me, yet I greatly rejoiced because you, most holy ones, have given to yourselves what you have bestowed upon me. For who can be ignorant that holy Church has been made firm in the solidity of the Prince of the apostles, who derived his name from the firmness of his mind, so as to be called Petrus from petra. And to him it is said by the voice of the Truth, To thee I will give the keys of the kingdom of heaven (Matth. xvi. 19). And again it is said to him, And when thou art converted, strengthen thy brethren (xxii. 32). And once more, Simon, son of Jonas, lovest thou Me? Feed my sheep (Joh. xxi. 17). Wherefore though there are many apostles, yet with regard to the principality itself the See of the Prince of the apostles alone has grown strong in authority, which in three places is the See of one1722. For he himself exalted the See in which he deigned even to rest and end the present life. He himself adorned the See to which he sent his disciple as evangelist. He himself stablished the See in which, though he was to leave it, he sat for seven years. Since then it is the See of one, and one See, over which by Divine authority three bishops now preside, whatever good I hear of you, this I impute to myself. If you believe anything good of me, impute this to your merits, since we are one in Him Who says, That they all may be one, as Thou, Father, art in me, and I in thee that they also may be one in us (Joh. xvii. 21). Moreover, in paying you the debt of salutation which is due to you, I declare to you that I exult with great joy from knowing that you labour assiduously against the barkings of heretics; and I implore Almighty GOD that He would aid your Blessedness with His protection, so as through your tongue to uproot every root of bitterness from the bosom of holy Church, lest it should germinate again to the hindrance of many, and through it many should be defiled. For having received your talent you think on the injunction, Trade till I come (Luke xix. 13). I therefore, though unable to trade at all nevertheless rejoice with you in the gains of your trade, inasmuch as I know this, that if operation does not make me partaker, yet charity does make me a partaker in your labour. For I reckon that the good of a neighbour is common to one that stands idle, if he knows how to rejoice in common in the doings of the other. Furthermore, I have wished to send you some timber: but your Blessedness has not indicated whether you are in need of it: and we can send some of much larger size, but no ship is sent hither capable of containing it: and I think shame to send the smaller sort. Nevertheless let your Blessedness inform me by letter what I should do.
 
-1722
-
 As to the view here expressed of the unity of the three Sees of Rome, Antioch, and Alexandria, see Prolegom., p. xii.
-
-796
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4672,19 +3382,11 @@ Epistle XLII. To Marinianus, Bishop. Gregory to Marinianus, Bishop of Ravenna. W
 
 Epistle XLIII.
 
-1723
-
 “COLATICUS. Lapides quoque medicinalium, mortariarum, et pigmentariarum usibus apti (Isid. Lib. 16. Orig. cap. 4).” Du Cange. But colatum here appears to have been some drink.
-
-1724
 
 Genus potionis, Papiæ, Ægyptios vel Alexandrinos—Illud forte de quo S. Hieronymus de Vita Clericorum cumpalmarum fructus exprimuntur in liquorem, coatisque frugibus aqua pinguior coloratur. Du Cange.
 
-1725
-
 “Potionis species apud Ægyptianos, vel saltem Alexandrinos.” Du Cange.
-
-797
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4700,8 +3402,6 @@ Book VIII. 231b
 
 Epistle I. To Peter, Bishop.
 
-798
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -4710,15 +3410,9 @@ Gregory to Peter, Bishop of Corsica1726. On receiving the letters of your Frater
 
 Epistle II. To Anastasius, Bishop of Antioch. Gregory to Anastasius, Patriarch of Antioch. I have received the letters of your most sweet Blessedness, which flowed with tears for words. For I saw in them a cloud flying aloft as clouds do; but, though it carried with it a darkness of
 
-1726
-
 Bishop of Aleria in Corsica. Cf. VI. 22.
 
-1727
-
 A basilica, with a baptistry attached, had been built on this Mount Negeugnus (or Nigeunus), on land belonging to the Roman See, for the purpose of “winning souls.” Cf. VI. 22.
-
-799
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4728,15 +3422,9 @@ Philip Schaff
 
 sorrow, I could not easily discover at its commencement whence it came or whither it was going, since by reason of the darkness I speak of I did not fully understand its origin. Yet it becomes you, most holy ones, ever to recall to mind what the preacher to the Gentiles says; In the last times perilous times shall be at hand, and there shall be men loving themselves, covetous, lifted up (1 Tim. iv. 1); and what follows, which it would be a trouble for me to speak, and which is not necessary for you to hear. Lo, in your holy old age, your Blessedness labours under many tribulations; but consider in whose seat you sit1728. Is it not in his to whom it was said by the voice of the truth, When thou shalt be old, another shall gird thee and carry thee whether thou wouldest not (Joh. xxi. 18)? But in saying this I recollect that your Holiness even from your youth has toiled under many adversities. Say then with the good king, I will think again over all my years in the bitterness of my soul (Isai. xxxviii. 15). For there are many who, as you say in your letter, make to themselves pastime over our wounds: but we know who said, Ye shall lament and weep, but the world shall rejoice; and ye shall be sorrowful (Joh. xvi. 20): where also he forthwith adds, But your sorrow shall be turned into joy. But, since we already suffer what was foretold, it remains that we should also hope for what was promised. For as to these of whom you say that they themselves lay on the burdens which they ought to have lightened, I know that they are those who come in sheep’s clothing, and inwardly are ravening wolves (Matth. vii.). But they are so much the more to be endured as they persecute us not only with a malicious mind, but also in religious guise. And in that they desire to have to themselves above others what it were not fit that they should have even with their brethren, we are in no wise disturbed at this, since we trust in Almighty GOD that those who desire what belongs to others will be the sooner deprived even of what is their own. For we know who said, That every one that exalteth himself shall be abased (Luke xiv. 11). And again it is written, Before a fall the heart is exalted (Prov. xvi. 18). But in these days, as I find, new wars of heretics are arising, about whom I have before now written to your Blessedness, in such sort that they attempt to invalidate the prophets, the Gospels, and all the sayings of the Fathers. But, while the life of your Holiness endures, we trust in the favour of our Protector that their mouths which have been opened against the solidity of the truth may be the sooner stopped, inasmuch as, however sharp may be the swords that are employed, they recoil broken when they strike the rock. Moreover there is this by the great favour of Almighty GOD; that among those who are divided from the doctrine of Holy Church there is no unity, since every kingdom divided against itself shall not stand (Luke xi.). And holy Church is always more thoroughly equipped in her teaching when assaulted by the questionings of heretics; so that what was said by the Psalmist concerning GOD against heretics is fulfilled, They are divided from the wrath of his countenance, and his heart hath drawn nigh (Ps. liv. 221729). For while they are divided in their wicked error, GOD brings His heart near to us, because, being taught by contradictions, we more thoroughly learn to understand Him.
 
-1728
-
 Cf. V. 39, note 3.
 
-1729
-
 In English Bible, lv. 21 (differently rendered from the Hebrew).
-
-800
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4746,15 +3434,9 @@ Further, what ills we suffer from the swords of barbarians, and what from the pe
 
 Epistle III. To Donus, Bishop of Messana (in Sicily). Gregory to Donus, &c. The most eloquent man, our son Faustinus, has come to us and complained that his late father Peltrasius left some things which were not his own to your Church for his burial. And indeed he
 
-1730
-
 In English Bible, xlix. 14.
 
-1731
-
 See IV. 31, note 9.
-
-801
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4766,15 +3448,9 @@ knows himself, and we have heard, what the secular law is in such a case; namely
 
 Epistle V. To various Metropolitans and Bishops1733. Gregory to Eusebius of Thessalonica, Urbitius of Dyracchium, Constantius ofMediolanum (Milan), Andrew of Nicopolis, John of Corinth, John of Prima Justiniana, John Cretensi Scoritano, John of Larissa, Marinianus of Ravenna, Januarius of Caralis (Cagliari) in Sardinia, and all the bishops of Sicily. I have taken care to transmit to your Fraternity the law which the most pious Emperor has issued, to the effect that such as are bound by engagements of military service or public liabilities,
 
-1732
-
 For similar disapproval of burial fees, cf. IX. 3.
 
-1733
-
 On the subject of this Epistle, see III. 65, 66.
-
-802
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4790,23 +3466,15 @@ Gregory to Amos, Bishop of Jerusalem. Being confident that your Fraternity pays 
 
 Epistle X.
 
-803
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
 
 To Sabinianus, Bishop of Jadera1734. Gregory to Sabinianus, &c. As to one who perseveres in a fault punishment is rightly due, so pardon should be granted to those who return to a better mind. For, as in the former case anger against the culprit is deservedly provoked, so in the latter good-will displayed is wont to promote concord. And so, inasmuch as a recollection of the gravity of the priestly office has now withdrawn thy Fraternity from fellowship and communion with Maximus, into which thoughtlessness had before betrayed thee; and this to such an extent that thou couldest by no means allow thyself to be content with mere separation from him without also bewailing thy past transgression by betaking thyself to the retirement of a monastery, therefore doubt not that thou art received again into our favour and communion: for, as much as thy fault had before offended us, so much has thy penitence appeased us. We exhort thee, therefore, most beloved brother, that thou be instant in bestowing pastoral solicitude on the LORD’S flock, and be diligently on the watch to make profit of the sheep committed to thy charge; that so the retribution of a copious reward may abound to thee in proportion as thou shalt offer multiplied fruits of thy labour at the coming of the eternal Judge. Strive then to rescue those who have fallen into sin; strive to shew the way of retracing their steps to those that go astray; strive to recall salubriously to the grace of communion those who have been deprived of communion. Let the coming back of your Charity lay on you the duty of rescuing others, and be an example of salvation; to the end that, while your anxious care shall direct the wandering steps of sheep to the folds of the chief shepherd, both they themselves may not be left exposed to the teeth of wolves, and (what is above all things to be desired) that the compensation of condign retribution may await thee in the life eternal. As to the cause about which you wrote to us, requesting us to guard against any clandestine proceedings against you in the royal city, let not this matter disturb your mind. For we have with all possible care given orders to our responsalis to shew himself solicitous and on his guard. And we trust in the power of our GOD that things are being so conducted that the opposition of no one shall avail against reason, so as in any way to trouble you or to bear hard upon you. Furthermore, the inhabitants of the city of Epidaurus have most urgently requested us to restore to them Florentius, whom they allege to be their bishop, asserting that he was driven into exile invalidly by the mere will of the bishop Natalis1735. And so, if your Fraternity has any knowledge of his case, please to inform us accurately by letter. But, if so far you have no knowledge of it, make enquiry, and report to us, that we may be able, with the LORD’S help, to deliberate with full knowledge before us as to what should be determined concerning him. In the month of February, first Indiction.
 
-1734
-
 See VII. 17, and note on VI. 27.
 
-1735
-
 See III. 8, and III. 9, note 2.
-
-804
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4820,19 +3488,11 @@ Gregory to Columbus, Bishop of Numidia1736. How we may presume on your Charity w
 
 Epistle XIV. To Boniface, First Guardian (Defensorem). Gregory to Boniface concerning the privileges of Guardians1738. Those who labour faithfully in the interests of the Church should receive the benefit of suitable remuneration, so that both we may be seen to have made a worthy return for their services, and they may shew themselves the more useful for the favour of the solace granted them. Seeing, then, that those who hold the office of Guardians are known to labour in the causes of the Church and
 
-1736
-
 See II. 48, note 8.
-
-1737
 
 See IV. 34, note 4.
 
-1738
-
 See Prolegom., p. vii.
-
-805
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4842,11 +3502,7 @@ in the service of the pontiffs, we have thought fit that they should enjoy the f
 
 Epistle XV. To Marinianus, Bishop of Ravenna. Gregory to Marinianus, &c. How necessary it is to provide for the quiet of monasteries1739, and to take measures for their perpetual security, you are aware from the office you formerly filled in government of a monastery. And so, seeing that we have learnt how the monastery of the blessed John and Stephen in the city of Classis, over which our common son, the abbot Claudius, is known to preside, has suffered many prejudices and grievances from your predecessors, it is right that the provision of your Fraternity should make salutary arrangements for the quiet of its inmates in future; to the end that living there in the service of GOD, His grace also assisting them, they may persevere with free mind. But lest, owing to the custom which ought rather to be amended, any one at any time should presume to cause any annoyance there, it is necessary that the points which we have taken care to enumerate below be so guarded by the careful attention of your Fraternity that no occasion of causing them disquiet may possibly be found in future. Let no one, then, any more dare, by any kind of inquisition
 
-1739
-
 For other Epistles in which bishops are forbidden to interfere, except in the case of need, with monasteries, see Index under monasteries. Also Prolegom., p. xx.
-
-806
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4856,11 +3512,7 @@ Philip Schaff
 
 whatever, to diminish anything from the revenues or charters of the aforesaid monastery, or of any place that in any manner whatever pertains to it, or to attempt any kind of usurpations or stratagems. But if perchance any matter of dispute should arise between the Church of Ravenna and the aforesaid monastery, and it cannot be settled amicably, let it be concluded without voluntary delay before men who fear GOD chosen by the parties, oath being made upon the most holy Gospels. Further, on the death of an abbot, let not a stranger be ordained, but one whom the congregation may choose of its own free will for itself from the same congregation, and who shall have been chosen without any fraud or venality. But, if they should be unable to find a suitable person among themselves, let them in like manner wisely choose for themselves for ordination one from some other monastery. And, when an abbot comes, let no person whatever on any occasion whatever be put over him in his own monastery, unless perchance in the case (which GOD forbid) of crimes which are shewn to be punishable by the sacred canons. This rule also must be no less carefully observed; that against the will of the abbot of such monastery monks be not removed thence for furnishing other monasteries, or for sacred orders, or for any clerical office. But in cases of there being monks in abundance, sufficient for celebrating praises to GOD and for satisfying the requirements of monasteries, let the abbot offer with devotion of those who are to spare, such as he may be able to find worthy in the sight of GOD. But if, while having a sufficient number he should refuse to give any, then let the bishop of Ravenna take of such as are to spare for furnishing other monasteries. Nevertheless, let no one be taken out thence for an ecclesiastical office, except such as the abbot of the place, on having notice given him, may offer of his own accord. Whosoever also from the aforesaid monastery shall have attained to any ecclesiastical order, let him thenceforth have neither any power there nor leave to dwell there1740. It is to be observed also that no schedule of the property and charters of this monastery must be made by ecclesiastics, if ever circumstances require one: but let the abbot of the place with other abbots make an inventory of the property. Further, as often as the abbot may perchance wish to go or send to the Roman pontiff in the interest of his monastery, let him have entire liberty to do so. Furthermore, though the visits of bishops should be looked for with desire by monasteries, yet, seeing that it has been reported to us that the aforesaid monastery in the times of your predecessor was burdened by occasion of entertainment, it is right that your Holiness should regulate this in a becoming manner, so that the prelate of the city may have access to the monastery as often as he pleases for the sake of visiting and exhorting. But let the bishop so fulfil the office of charity there that the monastery incur not any burden. Now the aforesaid abbot not only does not fear your Fraternity’s frequent access to the monastery, but even longingly desires it, knowing that it is quite impossible that the substance of the monastery should be burdened through you. Given in the month of April, first Indiction.
 
-1740
-
 This is among the many evidences found in Gregory’s Epistles that monks in his day were essentially laymen. The active duties incumbent on the clergy were held to be inconsistent with monastic life.
-
-807
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4870,11 +3522,7 @@ Epistle XVII. To Maurentius. Gregory to Maurentius, magister militum1741. My mos
 
 Epistle XVIII. To Agnellus, Bishop of Terracina. Gregory to Agnellus, &c. It has come to our ears—a thing shocking to be told—that some in your parts worship trees, and perpetrate many other unlawful things contrary to the Christian faith. And we wonder why your Fraternity has delayed correcting this by strict punishment. On this account we exhort you by this present writing to cause these persons to be sought out by diligent enquiry, and such vengeance to be executed on them that both GOD may be pacified and their punishment may be an example of rebuke to others.
 
-1741
-
 This letter is interesting as one of those which shew Gregory’s carefulness to retain influence over pious lay friends of position, and his uniform tone of courtesy in addressing them. Maurentius appears to have been a military officer of studious habits in Sicily.
-
-808
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4888,15 +3536,9 @@ Epistle XX. To Marinianus, Bishop of Ravenna. Gregory to Marinianus, &c. John, t
 
 Epistle XXI. To John, Bishop of Syracuse. Gregory to John, &c.
 
-1742
-
 The woman had fled to the precincts of some church for protection from one George, who apparently claimed her as his slave. The right of temporary asylum in sacred precincts, from which refugees could not be taken without the bishop’s assent, rested on imperial edicts. “Vide lib. I. Cod., tit. 12, cap. 3, ubi imperatores Theodosius et Valentianus plurima de septis ecclesiasticis statuunt.…Vocantur etiam claustra dominica, et continent atria et porticus ecclesiæ, domum episcopi, xxx vel xl passus in circuitu, et domus quæ iu eis fuerint. Tandem cessavit ista immunitas ob abusus.” (Note to I. 37 in Migne’s Patrilogia). Cf. X. 37, where directions are given to Januarius, bishop of Cagliari, for his course of action in such cases.
 
-1743
-
 I.e. as to whether she was a free-woman or a slave.
-
-809
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4906,15 +3548,9 @@ Felix, the bearer of these presents, has complained to us that, being born of Ch
 
 Epistle XXII. To Rusticiana, Patrician1745. Gregory to Rusticiana, &c. I remember having before now written to your Excellency, and repeatedly urged you to lose no time in revisiting the thresholds of the blessed Peter, Prince of the apostles. And what means your so great delight in the city of Constantinople, and your oblivion of the city of Rome, I know not. I have not so far been thought worthy of getting any information from you on this head. For how far it might be of advantage to your soul for reaping the rewards of eternal life, and how far it would suit also in all respects your glorious daughter, the lady Eusebia, this we fully give our attention to, and you may no less fully consider. But, if you enquire of my son Peter, your servant, whom I have found to be wise beyond his age and to be studying to attain ripeness, you will find how great is the love towards your Excellency of all who dwell here, and how great their desire to
 
-1744
-
 Samaræo, meaning apparently a Samaritan, and as such incapable, as Jews were, of holding Christian slaves. See Prolegom., p. xxi., and references there. In the case before us here the Samaritan claimant had himself become a Christian; and an attempt had been made on this plea to recover for him the Christian slave who had been emancipated from his father. But this Gregory will by no means allow.
 
-1745
-
 See II. 27, note 2.
-
-810
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4928,8 +3564,6 @@ Epistle XXIII. To Fantinus, Guardian (Defensorem). Gregory to Fantinus, &c. From
 
 A grandchild of Rusticiana. See as above.
 
-811
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -4942,11 +3576,7 @@ Epistle XXIV. To Sabinianus, Bishop of Jadera1747.
 
 Gregory to Sabinianus, &c. I am well delighted in thy sincerity, dearest brother, knowing how, with the discrimination of a careful judgment, it both obeys where obedience is due and resists where resistance is due with priestly zeal. For with what alacrity of devotion thou hast submitted to what we enjoined for the fault of thy past transgression is disclosed to us by the contents of the letters which thou hast sent to us by the bearer of these presents. For indeed my beloved brother could not take it otherwise than as it was enjoined by one who loves him. Hence I trust in the compassion of Almighty GOD that His grace so protects thee that, having been thus absolved also from other sins, thou mayest rejoice in having wholesomely obeyed. But as to what thy Charity has signified about being distressed by the jealousy of the excommunicated prevaricator Maximus, thou oughtest not to be disturbed; but it becomes thee by patiently enduring to bear up against the billows that swell vainly to some small degree, and by the virtue of perseverence to subdue the foaming of the waves. For patience knows how to smooth what is rough, and constancy to overcome fierceness. Let not, then, adversity deject your spirits, but inflame them. Let priestly vigour shew thee in all things the more bold. For this is a true evidence of truth, for one to exhibit himself as all the readier in hard circumstances, and all the braver in such as are adverse. Wherefore, that no blow may avail to upset the firmness of thy rectitude from its good determination, plant, as thou hast begun to do, the steps of thy soul on the solidity of that rock on which thou knowest that our Redeemer has founded the Church throughout the world, that so the right footsteps of a sincere heart may not stumble on a devious way.
 
-1747
-
 See VI. 27, VII. 17, VIII. 10, and III. 47, note 2.
-
-812
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4956,19 +3586,11 @@ As to the things about which thou hast written, or which the bearer of these pre
 
 Epistle XXIX. To Eulogius, Bishop of Alexandria. Gregory to Eulogius, &c. An address from a learned man is always profitable, because the hearer either learns what he had known himself to be ignorant of, or, what is more, comes to know what he did not know he
 
-1748
-
 At this time Gregory’s apocrisiarius at Constantinople. Cf. VII. 31, IX. 82.
-
-1749
 
 Callinicus, who at this time was Exarch of Italy at Ravenna. See IX. 9, with note, and III. 47, note 2.
 
-1750
-
 Proconsul of Dalmatia. Cf. IX. 5, and III. 47, note 2.
-
-813
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4980,11 +3602,7 @@ had been ignorant of. A hearer of the latter kind I have now become, your most h
 
 Epistle XXX. To Eulogius, Bishop of Alexandria. Gregory to Eulogius, &c. Our common son, the bearer of these presents, when he brought the letters of your Holiness found me sick, and has left me sick; whence it has ensued that the scanty water of my brief epistle
 
-1751
-
 Cf. VII. 40, for Gregory’s view of the sees of Rome, Alexandria, and Antioch, jointly representing the see of St. Peter.
-
-814
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -4992,11 +3610,7 @@ Philip Schaff
 
 has been hardly able to exude to the large fountain of your Blessedness. But it was a heavenly boon that, while in a state of bodily pain, I received the letter of your Holiness to lift me up with joy for the instruction of the heretics of the city of Alexandria, and the concord of the faithful, to such an extent that the very joy of my mind moderated the severity of my suffering. And indeed we rejoice with new exultation to hear of your good doings, though at the same time we by no means suppose that it is a new thing for you to act thus perfectly. For that the people of holy Church increases, that spiritual crops of corn for the heavenly garner are multiplied, we never doubted that this was from the grace of Almighty GOD which flowed largely to you, most blessed ones. We therefore render thanks to Almighty GOD, that we see fulfilled in you what is written, Where there is much increase, there the strength of the oxen is manifest (Prov. xiv. 4). For, if a strong ox had not drawn the plough of the tongue over the ground of the hearts of hearers, so great an increase of the faithful would by no means have sprung up. But, since in the good things you do I know that you also rejoice with others, I make you a return for your favour, and announce things not unlike yours; for while the nation of the Angli, placed in a corner of the world, remained up to this time misbelieving in the worship of stocks and stones, I determined, through the aid of your prayers for me, to send to it, GOD granting it, a monk of my monastery for the purpose of preaching. And he, having with my leave been made bishop by the bishops of Germany, proceeded, with their aid also, to the end of the world to the aforesaid nation; and already letters have reached us telling us of his safety and his work; to the effect that he and those that have been sent with him are resplendent with such great miracles in the said nation that they seem to imitate the powers of the apostles in the signs which they display. Moreover, at the solemnity of the LORD’S Nativity which occurred in this first indiction, more than ten thousand Angli are reported to have been baptized by the same our brother and fellow-bishop. This have I told you, that you may know what you are effecting among the people of Alexandria by speaking, and what in the ends of the world by praying. For your prayers are in the place where you are not, while your holy operations are shewn in the place where you are. In the next place, as to the person of Eudoxius the heretic1752, about whose error I have discovered nothing in the Latin language, I rejoice that I have been most abundantly satisfied by your Blessedness. For you have adduced the testimonies of the strong men, Basil, Gregory, and Epiphanius; and we acknowledge him to be manifestly slain, at whom our heroes have cast so many darts. But with regard to these errors which are proved to have arisen in the Church of Constantinople, you have replied on all heads most learnedly, and as it became you to utter the judgment of so great a see. Whence we give thanks to Almighty GOD, that the tables of the covenant are still in the ark of GOD. For what is the priestly heart but the ark of the covenant? And since spiritual doctrine retains its vigour therein, without doubt the tables of the law are lying in it.
 
-1752
-
 Cf. VII. 4, and 34.
-
-815
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -5008,11 +3622,7 @@ Your Blessedness has also been careful to declare that you do not now make use o
 
 Epistle XXXIII. To Dominicus. Gregory to Dominicus, Bishop of Carthage. The letter of your Holiness, which we received at the hands of the bearer of these presents, so expressed priestly moderation as to soothe us, in a manner, with the bodily presence of its author. Nor indeed does infrequency of communication cause any harm where the affection of love remains uninterrupted in one’s mind. Great, moreover, is the power of charity, beloved brother, which binds hearts one to another in mutual affection with the chain of its sincerity, and suffers them not to be loosened from the cohesion of grace, which conjoins things disjoined, keeps together things united, and causes persons who are unknown by sight to be known through love. Whosoever therefore fixes his heart on the hinge of charity, him no impulse of any adversity whatever tears
 
-1753
-
 Cf. V. 18, note 5.
-
-816
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -5028,19 +3638,11 @@ Gregory to John, &c. It is evidently a very serious thing, and contrary to what 
 
 “Dominicam sacerdotam,” perhaps with allusion to the name of Dominicus.
 
-1755
-
 See II. 47, note 6.
-
-1756
 
 The date varies in some few MSS.
 
-1757
-
 The address in the text is “Episcopo Scillitano.” That the see was that of Scyllacium in Brutia appears from the contents of the epistle. Syllacium itself appears to have been a Castrum, which had been erected on land belonging to a monastery. The epistle is illustrative of Gregory’s anxiety to protect the property and privileges of monasteries against bishops. See Prolegom., p. xx., and references in Index under Monasteries.
-
-817
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -5050,19 +3652,11 @@ that, if this is so, you refrain from troubling this monastery under any excuse,
 
 Epistle XXXV.
 
-1758
-
 Sub xenii quasi specie. For the meaning of the word xenium, see II. 23, note 8.
-
-1759
 
 Libellis factis; meaning apparently that there had been written memoranda of agreement.
 
-1760
-
 The word solatium is variously used, sometimes for any kind of aid or succour; sometimes for remuneration for services done, or grants in aid; here apparently for payment in the way of rent for the land occupied.
-
-818
 
 NPNF212. Leo the Great, Gregory the Great
 
@@ -5076,8 +3670,6 @@ Gregory to Leontius, &c. Since in a great house there are not only vessels of go
 
 “Oil of the cross” is spoken of not infrequently from the 6th century downward as efficient for healing. In the Itinerarium attributed to Antoninus of Placentia in that century mention is made of ampullæ of onyx stone containing oil being brought into contact with the wood of the true cross which was supposed to be preserved in Constantine’s Church on Golgotha, and the oil thereupon at once boiling over. It may have been oil which was believed to have thus acquired healing virtue that was originally meant by “oil of the cross.” But in the following century we find notice of a belief that oil flowed miraculously from the wood of the cross itself. For Adamnan, in his book De locis sanctis (which is mentioned by Bede, H. E. V. 15, as presented by him
 
-819
-
 NPNF212. Leo the Great, Gregory the Great
 
 Philip Schaff
@@ -5088,19 +3680,13 @@ to King Aldfrid of Northumbria, and published by Mabillon, de S. Adamn. Act. Ben
 
 Filings from the supposed chains of St. Peter, preserved at Rome, were inserted in keys for his sepulchre (cf. IV. 30), and these keys were sent by Gregory to various persons as valuable charms. Cf. I. 26, note 3.
 
-820
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
 
 EWALD (P.), Studien zur Ausgabe des Registers Gregors I. (Neues Archiv, iii., 1878, pp. 433–625.) HARTMANN (L. M.), Ueber zwei Gregorbriefe. (Neues Archiv, xvii., 1892, p. 193.) ————Zur Chronologie der Briefe Gregors I. (————xv., 1890, p. 411.) ————Zur Orthographie Papst Gregors I. (————xv., 1890, p. 529.) JAFFé (Ph.) \[Editor\]. S. Gregorius I., ed. P. Ewald: pp. 143–219, of vol. I., and p. 738 of vol. II., of Regesta pontificum Romanorum, ed. P. Jaffé. Lipsiæ, 1885, 6, 4°. JAMES (Thomas), Vindiciæ Gregorianæ, seu restitutus innumeris pæne locis Gregorius ex variis MSS. vt magno labore, ita Singulari fide collatis. Genevæ, 1625, 4°. KELLET (F. W.), Pope Gregory the Great and his relations with Gaul. (Cambridge historical essays.) Lond. 1889, 8°. LAMPE (Fel.), Qui fuerint Gregorii Magni papæ temporibus in imperii Byzantini parte occidentali exarchi et qualia eorum iura atque officia. Diss.…Berlin. Berlin, 1892, la. 8°. MAASEN (F.), Ueber eine Sammlung von Schreiben Gregors I. u. Verordnungen der Kaiser u. Könige. Wien, 1877, 8°. MOMMSEN (Th.), Zu den Gregorienbriefen. (Neues Archiv, xvii., 1892, p. 189.) PFLUGK-HARTTUNG (J. v.), Papst Gregor d. Gr. (Münchener allgem. Zeitung, 1888. Beilage no. 209–215.) SAVINI (F.), Se il Castrum Aprutiense delle lettere di s. Gregorio Magno fu l’odierna Teramo e se la voce Aprutium servi nel primitivo medio evo a denominare la città di Teramo, ovvero solo il suo territorio. (Archivio storico Italiano Ser. v. tom. X. 1892, p. 3.) WISBAUM (W.), Die wichtigsten Richtungen und Ziele der Thätigkeit des Papstes Gregors des Grossen. Inaug. Diss.…Bonn. Koln (1884), 8°. WOLFSGRUBER (C.), Die vorpäpstliche Lebensperiode Gregors d. Gr. Nach seinen Briefen Dargestellt. Progr.…Schotten. Wien, 1886, 4°. ————Gregor der Grotze… Saulgau, 1890, 8°. WOLLSCHACK (Th.), Die Verhältnisse Italiens, insbesondere des Langobardenreichs, nach dem Briefwechseb Gregors I. Progr.…Horn. Horn, 1888, 4°.
 
-1
-
 Book IX. Epistle I. To Januarius, Bishop of Caralis (Cagliari). Gregory to Januarius, &c.
-
-9
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5110,15 +3696,9 @@ The preacher of Almighty God, Paul the apostle, says, Rebuke not an elder (1 Tim
 
 Epistle II. To Vitalis, Guardian (Defensorem) of Sardinia. Gregory to Vitalis, &c. What we have learnt about our brother the bishop Januarius the bearers of these presents, as well as the copies of our letters, will sufficiently inform you; and so let thy Experience judiciously carry into effect the excommunication which we have decreed to be pronounced on his perverse counsellors, that they may learn by falling not to walk unwarily. Moreover, we have sent back by Redemptus the guardian (defensorem), the bearer of these presents, the wheat which had been sent to us under the name of a present. Let thy experience see that neither thou nor he who brought it presume to partake of anything out of it as a bounty2, but
 
-1
-
 See V. 2, note 1.
 
-2
-
 In pretio commodi. Oncommodum, see I. 44, p. 90, note 4.
-
-10
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5128,13 +3708,9 @@ restore the whole of it without abatement to the several persons, or to all of t
 
 Epistle III. To Januarius, Bishop of Caralis (Cagliari).
 
-2
-
 Gregory to Januarius, &c. The most distinguished lady Nereida has complained to us that your Fraternity does not blush to exact from her a hundred solidi for the burial of her daughter, and would bring upon her the additional vexation of expense over and above her groans of sorrow. Now, if the truth is so, it being a very serious thing and far from a priest’s office to require a price for earth that is granted to rottenness, and to wish to make profit out of another’s grief, let your Fraternity refrain from this demand, and be no more troublesome to her, especially as she tells us that Hortulanus, to whom she asserts she bore this daughter, had formerly been munificent to your Church in no small degree. Now as to this abuse, we ourselves, after we had by God’s permission acceded to the dignity of the episcopate, forbade it entirely in our Church, and by no means permitted the evil custom to be taken up anew, remembering that, when Abraham demanded for a price a sepulchre for the burial of his wife’s body from the sons of Emor, that is from Ephron the son of Seor, the latter refused to accept a price, lest he should appear to have made profit out of a corpse (Gen. xxiii.). If then a man that was a pagan showed such great consideration, how much more ought we, who are called priests, not to do this thing? Wherefore I admonish you that this abuse, which comes of avarice, be not ventured on any more, even in the case of strangers. But, if at any time you allow any one to be buried in your Church, and the parents, relations, or heirs of such person should of their own accord wish to offer something for lights, we do not forbid it to be accepted. But we altogether forbid anything to be asked for or exacted, this being a very irreligious proceeding, lest (which God forbid) the Church should haply be spoken of as venal, or you should seem to take joy in men’s deaths, if you endeavour in any way whatever to seek profit out of their corpses. With regard to other cases included in the petition of the aforesaid Nereida, we exhort thee, if possible, to settle them by an amicable arrangement, or certainly not to omit sending an instructed person to the court, deputed by us, for which purpose we have sent to your parts Redemptus our guardian (defensorem), the bearer of these presents, that he may compel the parties to appear for trial, and carry out with summary execution what may be adjudged.
 
 Epistle IV.
-
-11
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5142,23 +3718,13 @@ Philip Schaff
 
 To Januarius, Bishop of Caralis (Cagliari). Gregory to Januarius, a Bishop of Sardinia. We knew before the letter of your Fraternity reached us what our enemies had effected in Sardinia. And, having for some time feared that this would be so, we now groan with you on what we foresaw having come to pass. But, if attention had been paid to what we wrote to our most excellent son Gennadius3, as well as to yourself, telling you that this would be so, the enemy would either not have come into your regions, or, when they came, they would have incurred the danger which they have caused. Even now, then, let what has happened sharpen your vigilance for the future. For we, too, by no means omit whatever we are able to do for good, the Lord helping us. Know, moreover, that the abbot4 whom, now a considerable time ago, we sent to Agilulph, has by the mercy of God arranged a peace with him, so far as was directed in writing by the most excellent Exarch. And so, till such time as the agreements for the confirmation of this peace shall be drawn up, lest perchance our enemies during the present delay should be inclined to come again into those parts, do you cause watches of the walls to be kept up, and careful attention given in all places. And we trust in the power of our Redeemer that the incursions or plots of our adversaries will not injure you anew. As to your saying in your letter that many persons lay complaints against you before us, this is true; but among various things nothing has distressed us so much as what our most beloved son, the abbot Cyriacus, has reported to us; namely, that on the Lord’s day before mass you caused a crop of corn to be ploughed up in the field which is in the possession of Donatus, and, as if that were not enough, went, after the sacrifice was finished, in person to the place, and dug up the boundaries5. For this reason I exhort thee to consider with anxious attention the office which thou bearest, and to avoid entirely whatever may injure thy reputation or thy soul, and let no one persuade thee to do the like again. For know that thou hast not undertaken the care of earthly things, but the leadership of souls. On this, therefore, thou oughtest to fix thy heart, thy anxiety, thy entire devotion., and to give thy diligent thought to the winning of souls, that when thou shalt render to the Lord at His coming the talents that He has delivered to thee multiplied, thou mayest be counted worthy to receive from Him the fruit of retribution, and to be exalted among His faithful servants in eternal glory. Know, however, that what I now say in the way of reproach or blame comes not from asperity, but from brotherly love, since I desire thee to be found a priest before Almighty God, not in name only, which tends only to punishment, but also in desert, which looks to recompense. For, we being one member in the body of our Redeemer, as I am rent asunder in thy fault, so also am I rejoiced in thy good conduct.
 
-3
-
 Gennadius was Exarch of Africa.
-
-4
 
 Probably the Abbot Probos. See IX. 43, 9.
 
-5
-
 See also IX. 1.
 
-12
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-3
 
 Philip Schaff
 
@@ -5168,19 +3734,11 @@ Epistle V. To Marcellus, Pro-Consul of Dalmatia7. Gregory to Marcellus, &c. We h
 
 Epistle VI. To Januarius, Bishop of Caralis (Cagliari). Gregory to Januarius, &c.
 
-6
-
 A bishop in Sardinia, see I. 61. What his case was does not appear.
-
-7
 
 See III. 47, note 2.
 
-13
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-4
 
 Philip Schaff
 
@@ -5188,27 +3746,15 @@ The Jews who have come hither from your city have complained to us that Peter, w
 
 For references to the truce now in course of negotiation (A.D. 598–9), with the Lombard King Agilulph, cf. IX. 4, 42, 43,
 
-8
-
-98.
-
-14
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
 
 Epistle VII. To Januarius, Bishop of Caralis (Cagliari). Gregory to Januarius, &c. It has been laid down by the plain definition of the law that those who go into a monastery for the purpose of entering on monastic life are no longer at liberty to make wills, but that their property passes into possession of the same monastery9. This being known to almost all, we have been greatly surprised by the notification of Gavinia, abbess of the monastery of Saints Gavinus and Luxorius, to the effect that Sirica, abbess of her monastery, after receiving the office of government, had made a will leaving certain legacies. And when we enquired of the Solicitude of your Holiness why you endured that property belonging to the monastery should be detained by others, our common son Epiphanius, your archpresbyter, being present before us, replied that the said abbess had up to the day of her death refused to wear the monastic dress, but had continued in the use of such dresses as are used by the presbyteresses10 of that place. To this the aforesaid Gavinia replied that the practice had come to be almost lawful from custom, alleging that the abbess who had been before the above-written Sirica had used such dresses. When, then, we had begun to feel no small doubt with regard to the character of the dresses, it appeared necessary for us to consider with our legal advisers, as well as with other learned men of this city, what was to be done with regard to law. And they, having considered the matter, answered that, after an abbess had been solemnly ordained by the bishop, and had presided in the government of a monastery for many years until the end of her life, the character of her dress might attach blame to the bishop for having allowed it so to be, but still could not prejudice the monastery, but that her property of manifest right belongs to the same place from the time of her entering it and being constituted abbess. And so since she \[i.e. the abbess Gavinia\] asserts that a guest-house (xenodochium) retains possession unduly of the property unlawfully devised, we hereby exhort you, both the monastery and the guest-house itself being situate in your city, to make provision with all care and diligence, to the end that, if this possession is derived from no previous contract, but from the bequest of the said Sirica, it be restored to the said monastery without dispute or evasion. But, if by any chance it is said to have accrued from another contract, either let your Fraternity, having ascertained the truth between the parties, determine as legal order may seem to demand, or let them by mutual consent choose arbitrators, who may be able to decide between their allegations. And whatever be appointed by them, let it be so observed under your care that no grudge may remain between the venerable places, which
 
-9
-
 Cf. I. 44, p. 92, note 2.
 
-10
-
 Presbyteræ. So the wives of presbyters who had been married before their ordination were called. So in Canon XIX. of the second council of Tours, “Si inventus fuerit presbyter cum sua presbytera,” and Canon XXI. of Council of Auxerre, “Non licet presbytero, post acceptam benedictionem, in uno lecto cum presbytera sua dormire.” Or deaconesses may possibly be meant, one designation of whom in Greek was !"#$%&'()#\*.
-
-15
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5218,17 +3764,11 @@ ought by all means to be cherished in mutual peace and concord. Wherefore all ot
 
 Epistle VIII. To the Bishops of Sardinia.
 
-5
-
 Gregory to Vincentius, Innocentius, Marinianus, Libertinus, Agatho, and Victor, Bishops of Sardinia. We have learnt that it is the custom of your island after the paschal festival, for you to go, or to send your representatives to your Metropolitan, and for him, whether you know the time or not, to give you directions by a written announcement concerning the following Easter. And, as report goes, some of you, neglecting to do this according to custom, pervert the hearts of others also to disobedience. It is added also that some of you, when seeking parts beyond sea in cases that arise touching their churches, venture to travel without the knowledge of their aforesaid metropolitan, or letters from him, such as canonical order prescribes. We therefore exhort your Fraternity that, conforming to the custom of your churches, as well with respect to the announcement of Easter, as also if need should compel any of you to travel anywhere for business of your own, you should ask leave of your said metropolitan according to the rule imposed upon you; except that, if (as we hope will not be the case) you should happen to have a case against your said Metropolitan, then those who are in haste on this account to seek the judgment of the Apostolic See have licence to do so, as you know is allowed in the canons by the institution even of the ancient Fathers.
 
 Epistle IX. To Callinicus, Exarch of Italy11.
 
-11
-
 Callinicus had recently succeeded Romanus at Ravenna as Exarch of Italy. The main purport of this letter to him is to secure his hoped-for co-operation in bringing back the Istrian and Venetian schismatics to Catholic communion. See I. 16, note 3; also II. 46, 51. The predecessor of Callinicus, viz. Romanus, had given great dissatisfaction to Gregory by his conduct with regard to the schismatics (see II. 46); but better things are expected from the new Exarch. See also below, Ep. XCIII., &c. As to the case of Maximus of Salona, briefly referred to at the end of the letter, see III. 47, note 2.
-
-16
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5236,19 +3776,11 @@ Philip Schaff
 
 Gregory to Callinicus, &c. In the midst of what you have announced to me of your victories over the Sclaves, know that I have been refreshed with great joy that the bearers of these presents, hastening to be joined to the unity of holy Church from the island of Capritana12, have been sent by your Excellency to the blessed Peter, Prince of the Apostles. For hereby you will the more prevail over your enemies, if you recall under the yoke of the true Lord those whom you know to be the enemies of God; and you will prosecute your causes among men with all the more effect as with sincere and devout mind you maintain the causes of God. Now as to your having desired that a copy should be shewn me of the order13 that has been sent to you for the defence of the schismatic, your to me most sweet Excellency ought to have considered carefully how that, although that order has been elicited, you are still not therein enjoined to repel those who come to the unity of the Church, but only, at this unsettled time, not to compel those who are unwilling to come. Whence it is necessary for you with all speed to inform our most pious Emperors of these things, to the end that they may be aware how that in their times, through the succour of Almighty God and your exertions, schismatics are hastening to return of their own accord. What I have decided as to the ordering of things in the island of Caritana, your Excellency will learn through our most reverend brother and fellow-bishop Marinianus14. But I would have you know that this has caused me no slight distress; that your Majordomo, who took charge of the petition of the bishop who was wishing to return, declared that he had lost it, and that afterwards he was got hold of by the adversaries of the Church: which proceeding, in my opinion, was due not to his neglect but to his venality. Wherefore I wonder that your Excellency has not in any way visited his fault in him. And yet I soon blamed myself for wondering at this, for where the lord Justinus gives advice, there heretics cannot be arraigned. Moreover you tell us that you wish to keep the anniversary of Peter, Prince of the apostles, in the city of Rome. And we pray Almighty God to protect you with His mercy, and grant you a fulfilment of your desires. But I beg that the aforesaid most eloquent man may come with you, or that, if he does not come, he may retire from attendance on you. Or certainly, if your Excellency should be unable to come owing to business that may arise, let him either communicate with the unity of holy Church, or I beg that he may not be a sharer of your counsels. For I hear of him as a good man, were he not in most mischievous error. As to the cause of Maximus, inasmuch as we
 
-12
-
 Capritana was a small island in the Adriatic, not far from the shore of Venetia, containing the episcopal see of Capsula, or Cahorla. More about the desire of the church of this island to return to communion with Rome will be found in the letter which follows to Marinianus, bishop of Ravenna.
-
-13
 
 Mention of a previous order from the emperors, during the exarchate of Romanus, to Gregory himself, bidding him refrain from compelling the Istrians to return to communion, will be found in II. 46.
 
-14
-
 See the letter following.
-
-17
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5258,19 +3790,11 @@ can no longer stand against the importunity of your Sweetness, you will learn fr
 
 Epistle X. To Marinianus, Bishop of Ravenna.
 
-6
-
 Gregory to Marinianus, &c. The bearers of these presents, the most distinguished men, Vicedominus and Defensor15, came to us asserting that a certain bishop, by name John, coming from Pannonia, had been constituted in the castle which is called Novæ, to which castle their island, which is called Capritana, had been appended as a diocese16. They add that, the bishop having been violently withdrawn and expelled from this same castle, another had been ordained there; concerning whom, however, they allege that it has been resolved that he ought not to have lived in the aforesaid castle, but in his own island. They say further that, while he abode with them there, he was unwilling to remain in schismatical error, and together with all his people presented a petition to our most excellent son Callinicus the Exarch, desiring to be united, with all those that were with him, to the Catholic Church, as we have already said. But they say that, being persuaded by the schismatics, he afterwards recanted, and that now all the population of the aforesaid island are deprived of the protection of a Bishop, since, while desiring to be united to holy Church, they cannot now receive him who has turned to the error of the schismatics; and they desire to have another ordained for them. But we, inasmuch as it is necessary to investigate all things strictly and thoroughly, have taken the precaution of ordering as follows; namely that thy Fraternity should send to the said Bishop, and admonish him to return to the unity of the Catholic Church and to his own people. If, after admonition, he should scorn to return, the flock of God ought not to be deluded in the error of its pastor; and therefore let thy Holiness in that case ordain a Bishop there, and let him have the said island for his diocese, till such time as the Histrian Bishops shall return to the Catholic Faith; so that each Church may have the rights of its own diocese preserved to it, and that a population destitute of a pastor may not be without the protection and oversight of government. In all these things, however, it becomes thy Fraternity to take vigilant heed that this same people which comes back to the Church be very studiously admonished, to the end that it may be firmly fixed in its return, lest through wavering thoughts it fall back into the pit of error. But take care to request the most excellent Exarch, in his despatches, to notify these same things to the most pious ears of the Emperors, since, although the
-
-15
 
 So, with initial capitals as proper names, in the Benedictine Edition. Perhaps rather, “the steward (vicedominus) and the guardian (defensor).”
 
-16
-
 Erat quasi per diocesim conjuncta. The meaning is, that the castellum Novæ on the main land had been made the episcopal see of a diocese of the island of Capritana, though not properly within its limits. Cf. IX. 9, note 3.
-
-18
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5282,19 +3806,11 @@ Epistle XI. To Brunichild, Queen. Gregory to Brunichild, Queen of the Franks19. 
 
 At this time Gregory’s apocrisiarius at Constantinople. Cf. VII. 30.
 
-18
-
 See III. 47, note 2.
-
-19
 
 Four Vatican MSS. and Cod. Colbert give a date to this epistle, viz. “mense Octobris, indictione prima,” i.e. Oct. A.D. 597. The Benedictine editors assign it, from certain internal evidence to the following year, and have therefore placed it in this ninth Book of the Epistles. There is this additional reason for placing it later than A.D. 597. Its first purpose is to reply to a request from queen Brunechild that a pallium should be sent to Syagrius, bishop of Augustodunum (Autun). Now Autun was in the kingdom of Burgundy, which was reigned over at that time by Brunechild’s younger grandson Theoderic II. But it was not till the year 599, according to Gregory of Tours (Hist. Franc. xi. 19), that she had been expelled from the kingdom of Austrasia, and taken up her residence with Theoderic. She had previously been guardian of her elder grandson Theodebert II., who reigned over Austrasia, having his capital at Metz, and she was more likely to have sought the pall for the bishop Autun after she had become the virtual potentate of the Burgundian kingdom than previously; and indeed she seems to be evidently addressed as
 
-19
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-7
 
 Philip Schaff
 
@@ -5302,29 +3818,17 @@ With what firmness the mind of your Excellency is settled in the fear of Almight
 
 Bishop of Augustodunum (Autun), one of the bishops to whom Augustine had carried commendatory letters from Gregory on his progress to England (VI. 54). The see of Augustodunum was under the metropolitan jurisdiction of Lugdunum (Lyons); and Brunechild, for some reason, appears to have desired to have it invested with peculiar dignity. She afterwards founded a church, a nunnery, and a hospital there (see XIII. 6). It is to be observed that the sending of the pallium to a bishop did not in all cases imply metropolitan jurisdiction. It did not in this case. See Epistle CVIII. to Syagrius, in which he is told that the Metropolitan of Lyons was to retain his position unimpaired; only that the bishop of Autun was thenceforth to be next to him in place and dignity.
 
-21
-
 We observe here the requirement of the Emperor’s consent for sending the Pallium to a see not previously thus dignified.
-
-22
 
 It seems not to be known with any certainty what the title Regionarius, thus used absolutely, implies, though no doubt some honourable function. John the Deacon (Vit. S. Gregor.) speaks of Gregory’s father Gordianus, a layman, as having been a Regionarius. As to Notarii regionarii, Sub-diaconi regionarii, Defensores regionarii, cf. VIII. 14.
 
-23
-
 Meaning those who were out of communion with Rome with regard to “The Three Chapters,” see I. 16, note 3. There were some in Gaul, as well as in Istria and elsewhere, who long refused assent to the condemnation of the Chapters by the fifth Council. Cf. IV. 2, 3, 4, 38, 39; XVI. 12.
 
-20
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-8
 
 Philip Schaff
 
 so great a matter without his request; especially as an ancient custom has obtained, that the dignity of the pallium shall not be given except when the merits of a case demand it, and to one who urgently requests it. Still, lest we should seem perchance to wish, under pretext of any excuse, to put off the desire of your Excellency, we have provided for the pallium being sent to our most beloved son Candidus the presbyter, charging him, with befitting precaution, to deliver it in our stead. Hence it is requisite that our above-written brother and fellow-bishop Syagrius must hope for it, when he has of his own motion drawn up a petition with some of his bishops; and this he must give to the aforesaid presbyter, to the end that he may be in a position to obtain properly the use of the same pallium with the favour of God. In order, then, that the charge you bear may be of fruit to you before the eyes of our Creator, let the solicitude of your Christianity be diligently on the watch, and suffer no one who is under your dominion to attain to holy orders by the giving of money, or the patronage of any persons whatever, or by right of relationship; but let such a one be elected to the episcopate, or to the office of any other sacred order, as his life and manners have shewn to be worthy; lest if, as we do not expect, the dignity of the priesthood should be venal, simoniacal heresy, which was the first to come up in the Church, and has been condemned by the sentence of the Fathers, should arise in your parts, and (which God forbid) should weaken the powers of your kingdom. For it is a serious matter, and a wickedness beyond what can be told, to sell the Holy Spirit, who redeemed all things. But let this also be your care, that, since, as you know, the excellent preacher entirely forbids a novice to accede to the ruling position of priesthood, you suffer no one to be consecrated bishop from being a layman. For what sort of master will he be who has not been a disciple? Or what kind of leadership can he supply to the Lord’s flock who has not been previously subjected to a shepherd’s discipline? If, then, any one’s life should be such as to shew him worthy of being promoted to this order, he ought first to serve in the ministry of the Church, to the end that by the experience of long practice he may see what to imitate, and learn what to teach; lest perchance the newness of his charge bear not the burden of government, and occasion of ruin arise from the immaturity of his promotion. Moreover, how your Excellency conducted yourself towards our brother and fellow-bishop Augustine, and how great charity, through the inspiration of God, you bestowed upon him, we have learnt from the relation of divers of the faithful; for which we return thanks, and implore the mercy of Divine Power to keep you here under its protection, and cause you to reign, as among men, so also after a course of many years in life eternal. Furthermore, those whom the error of the schismatics severs from the unity of the Church, strive ye, for your own reward, to recall to the unity of concord. For on no other ground are they enveloped so far in the blindness of their ignorance but that they may escape ecclesiastical discipline, and have licence to live perversely as they please, since they understand neither what they defend nor what they follow. But as for us, we venerate and follow in all respects the synod of Chalcedon, from which they take to themselves the clouds of a pestiferous excuse; and, if any one should presume to diminish or add anything with regard to the faith thereof, we anathematize him. But
-
-21
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5334,15 +3838,9 @@ they are so impregnated with the taint of error that, giving credence to their o
 
 Epistle XII. To John, Bishop of Syracuse. Gregory to John, &c. One coming from Sicily has told me that some friends of his, whether Greeks or Latins I know not, as though moved by zeal for the holy Roman Church, murmur about my arrangements \[i.e. of divine service\], saying, How can he be arranging so as to keep the Constantinopolitan Church in check, when in all respects he follows her usage? And, when I said to him, What usages of hers
 
-24
-
 See note 1.
 
-22
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-9
 
 Philip Schaff
 
@@ -5350,19 +3848,11 @@ do we follow? he replied; you have caused Alleluia to be said at mass out of the
 
 I.e. the fifty days between Easter and Whitsuntide. It appears from St. Augustine (see Migne, Patrolog. note in loc.) that it was the custom everywhere to sing the Alleluia between Easter and Pentecost, but that its use at other times varied. The point of what Gregory here says seems to be that the Roman custom of saying it at other times had not been derived from the Greeks; but that, on the contrary, it was said at other times less frequently at Rome than among the Greeks.
 
-26
-
 Procedere spoliatos: i.e. to proceed to the altar for celebration without linen tunics on. The verb procedere and the noun processio are commonly used by Gregory and others in the special sense of approaching the altar for mass. It would seem from what is here said that the subdeacons at mass had not been originally distinguished by a vestment, and that some pope before Gregory had first vested them at Rome. He, as further appears, had disrobed the subdeacons; and his point here is, that his doing so was not an imitation of the Greeks, but a return to ancient usage.
-
-27
 
 The word found here is traditionem: but, because of the undoubted reference to the Lord’s Prayer (dominica oratio), and of the verb composuit, it is conjectured that the reading ought to be orationem.
 
-28
-
 This whole passage in the original is;—“Orationem vero Dominicam idcirco mox post precem dicimus, quia mos apostolorum fuit ut ad ipsam solummodo orationem oblationis hostiam consecrarent. Et valde mihi inconveniens visum est ut precem quam scholasticus composuerat super oblationem diceremus, et ipsam traditionem (Qy. for orationem?) quam Redemptor noster composuit super ejus corpus et sanguinem non diceremus.” It is to be observed that, for lack of suitable words in English,
-
-23
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5374,8 +3864,6 @@ Epistle XVII. To Demetrian and Valerian. Gregory to Demetrian and Valerian, cler
 
 the translation does not retain the distinction in the original between precem and orationem, the former denoting the prayer of consecration in the Canon, exclusive of the Lord’s Prayer, the latter the Lord’s Prayer itself, which Gregory appended to it. By the scholasticus, to whom he assigns the composition of the former, is meant apparently the liturgist, whoever he might be, who had compiled the Canon of the Mass. It would thus seem that, according to the Roman use before the time of Gregory, the Lord’s Prayer did not occur at all “over the oblation,” or “over the Body and Blood,” i.e. (as the expression must be taken to mean) between consecration and distribution, though, of course, it may have been used before or after. Such omission was undoubtedly peculiar. Among other authorities for the general usage, S. Augustine (Ep. CXLIX. ad Paulin.) affirms that nearly every Church concludes the whole petition (i.e. the prayer of consecration of which he has been speaking) with the Lord’s Prayer:—“Quam totam petitionem fere omnis Ecclesia Oratione Dominica concludit.” In saying “fere omnis,” he may possibly have had the Roman Church in view. As to what is said by S. Gregory of the custom of the Apostles, the most obvious meaning of which is, that they used no prayer of consecration but the Lord’s Prayer, we have no means of ascertaining whence he derived this tradition, or what the value of it might be. It does not, of course, imply that the words of institution were not said over the elements by the Apostles, but only that they used no other prayer for the purpose of consecration. Ways have been suggested, though not satisfactory, for evading the apparent meaning of the statement.
 
-24
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
@@ -5384,21 +3872,13 @@ and that you have some fear on this account, lest what was given should at any t
 
 Epistle XVIII. To Romanus, Guardian (Defensorem).
 
-10
-
 Gregory to Romanus, &c. Our care for the purpose before us prompts us to commit the looking after ecclesiastical interests to active persons. And so, since we have found thee, Romanus, to have been a trusty and diligent guardian, we have thought fit to commit to thy government from this present second indiction the patrimony of the holy Roman Church, which by the mercy of God we serve, lying in the parts about Syracuse, Catana, Agrigentum, and Mile (partibus Milensibus). Hence it is needful that thou go thither immediately, that, in consideration of the divine judgment, and in memory also of our admonition, thou mayest study to acquit thyself so efficiently and faithfully that thou mayest be found to incur no risk for negligence or fraud, which God forbid should be the case. But act thus all the more in order that thou mayest be commended to divine grace for thy faithfulness and industry. Moreover, we have sent orders according to custom to the familia of the same patrimony29, that there may be nothing to hinder thy carrying out what has been enjoined thee.
 
 Epistle XIX. To the Husbandmen (Colonos) of the Syracusan Patrimony30. Gregory to the Coloni, &c.
 
-29
-
 See the following Epistle XIX. For the meaning of familiahere see note 3 to the same epistle. Gregory sent at the same time letters (which have not been translated) to three influential laymen in Sicily, desiring them to assist and support Romanus in the exercise of his authority. Four other letters (23, 24, 26, 27) are translated, as intimating the kind of duties devolving on Romanus in connexion with his government of the Patrimony.
 
-30
-
 For the meaning of Coloni, see I. 44. The body of them is called the familia of the patrimony in the preceding epistle to Romanus (Ep. XVIII.).
-
-25
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5410,23 +3890,15 @@ Epistle XXIII. To John, Bishop of Syracuse. Gregory to John, &c. Our son the glo
 
 Epistle XXIV. To Romanus, Guardian (Defensorem). Gregory to Romanus, &c.
 
-31
-
 This Domitian was bishop of Melitina and Metropolitan of Armenia, being a relation of the Emperors, see III. 67. The physician Archelaus is commended in an epistle not translated (V. 32) to Cyprian, the previous rector patrimonii in Sicily, for protection in some question about property.
 
-26
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-11
 
 Philip Schaff
 
 Our son Theodosius, abbot of the Monastery founded by the late Patrician Liberius in Campania, is known to have intimated to us that the late illustrious lady Rustica about one and twenty years ago, in the will that she made, appointed in the first place Felix, her husband, to be her heir, and delegated to him the foundation of a Monastery in Sicily; but on this condition,—that if he should not within the space of one year pay all the legacies bequeathed to her freedmen, or establish the aforesaid Monastery as she desired, then the holy Roman Church should have undisputed claim to the portion which she was understood to have in the farm of Cumas, and that it should lend aid for paying the above legacies, and for the construction of the said monastery. Hence, seeing that, as is said, the bequeathed property has not so far been made over in full to this same monastery, and some part of the possession is up to this time detained by her heirs, let thy Experience thoroughly enquire into and examine the case. And in the first place indeed, if under the conditions of the will any heirship comes in wherein our Church may have a plea, we desire thee to investigate and clearly ascertain it, and act for the advantage of the poor, as the order of the business may require; and then to be instantly solicitous for the due establishment of that cell, and the recovery of the bequeathed property, to the end that the pious desire of the testatrix may be fulfilled in both respects, and the unjust detainers of the property may learn from just loss the guilt of their undue retention. With all vivacity, then, we desire thee both to enquire into this case and, with the help of the Lord, to bring it to an issue, that the pious devotion of the ordainer may at length take effect. But we desire thee also, as far as justice allows, to succour this monastery in all ways, that lay persons who ought to have rendered the succour of their assistance may not, as is asserted, have power of doing hurt in the name of the founder.
 
 Epistle XXVI. To Romanus, Guardian (Defensorem). Gregory to Romanus, &c. Although the law with reason allows not things that come into possession of the Church to be alienated, yet sometimes the strictness of the rule should be moderated, where regard to mercy invites to it, especially when there is so great a quantity that the giver is not burdened, and the poverty of the receiver is considerably relieved. And so, inasmuch as Stephania, the bearer of these presents, having come hither with her little son Calixenus (whom she asserts that she bare to her late husband Peter, saying also that she has laboured under extreme poverty), demanded of us with supplication and tears that we should cause to be restored to the same Calixenus the possession of a house in the city of Catana, which Ammonia, her late mother-in-law, the grandmother of Calixenus, had offered by title of gift to our Church; asserting that the said Ammonia had not power to alienate it, and that it belonged altogether to the aforesaid Calixenus, her son; which assertion our most beloved son Cyprian, the deacon, who was acquainted with the case, contradicted, saying that the
-
-27
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5438,23 +3910,15 @@ Epistle XXVII. To Romanus, Guardian (Defensorem). Gregory to Romanus, &c. It has
 
 Epistle XXXIII. To Andrew32. Gregory to Andrew. On hearing that your Glory had been severely afflicted with grief and sickness, I condoled with you exceedingly. But learning presently that the malady had entirely left you, I soon turned my sorrow into joy, and returned great thanks to Almighty God for that He smote that He might heal,
 
-32
-
 Andreas Scholasticus, so addressed V. 48.
 
-28
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-12
 
 Philip Schaff
 
 afflicted that He might lead to true joys. For hence it is written, Whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth (Heb. xii. 6). Hence the Truth in person says, My Father is the husbandman, and every branch in me that beareth not fruit, he will take away; but every branch that beareth fruit, he will purge it, that it may bring forth more fruit (John xv. 1, 2). For the unfruitful branch is taken away, because a sinner is utterly rooted up. But the fruitful branch is said to be purged, because it is cut down by discipline that it may be brought to more abundant grace. For so the grain of the ears of corn, beaten with the threshing instrument, is stript of its awn and chaff. So the olives, pressed in the oil-press, flow forth into the fatness of oil. So the bunches of grapes pounded with the heels, liquify into wine. Rejoice, therefore, good man, for that in this thy scourge and this thy advancement thou seest that thou art loved by the Eternal Judge. Furthermore, I beg that my daughter Gloriosa, your wife, be greeted in my name. Now may Almighty God keep you under heavenly protection, and comfort you both now with abundance of gifts and hereafter with the retribution of reward.
 
 Epistle XXXVI. To Fortunatus, Bishop of Neapolis (Naples). Gregory to Fortunatus, &c. Having learnt what zeal inflames your Fraternity in behalf of Christian slaves whom Jews buy from the territories of Gaul, we apprize you that your solicitude has so pleased us that it is also our own deliberate judgment that they should be inhibited from traffic of this kind. But we find from Basilius, the Hebrew, who has come here with other Jews, that such purchase is enjoined on them by divers judges of the republic, and that Christians along with pagans come to be thus procured. Hence it has been necessary for the business to be adjusted with such cautious arrangement that neither they who give such orders should be thwarted, nor those who say they obey them against their will should bear any expense unjustly. Accordingly, let your Fraternity with watchful care provide for this being observed and kept to; that, when they \[i.e. the Jewish dealers\] return from the aforesaid province, Christian slaves who may happen to be brought by them be either handed over to those who gave the order, or at all events sold to Christian purchasers within forty days. And after the completion of this number of days let none of them in any way whatever remain in the hands of the Jews. But, should any of these slaves perchance fall into such sickness that they cannot be sold within the appointed days, care is to be taken that, when they are restored to their former health, they be by all means disposed of as aforesaid. For it is not fit that any should incur loss for a transaction that is free from blame. But since, as often as anything new is ordained, it is usual so to lay down the rule for the future as not to condemn the past in large costs, if any slaves have remained in their hands from the purchase of the previous year, or have been recently taken away from them by you, let them have liberty to dispose of them while they are with you. So may
-
-29
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5464,15 +3928,9 @@ there be no possibility of their incurring loss for what they did in ignorance b
 
 Epistle XLI. To Julianus, Scribo33.
 
-13
-
 Gregory to Julianus, &c. If in secular offices order and the discipline handed down by our ancestors is observed, who may bear to see ecclesiastical order confounded, to disregard such things when heard of, and postpone their amendment by improperly condoning them? And indeed you do well to love charity and to persuade to concord. But, since we are compelled by consideration of our position, and for God’s sake, by no means to leave uninvestigated the things that have come to our knowledge, we shall take care, when Maximus comes, to require a strict account from him of the things that have been said about him. And we trust in the guardianship of our Creator, that we shall not be turned aside by either the favour or the fault of any man from maintenance of the canons and the straight path of equity, but willingly observe what is agreeable to reason. For if (which God forbid) we neglect ecclesiastical solicitude and vigour, indolence destroys discipline, and certainly harm will be done to the souls of the faithful, while they see such examples set them by their pastors. But with regard to your saying in your letter that the good will of the palace and the love of the people are not alienated from him, this circumstance does not recall us from our zeal for justice, nor shall it cause our determination to enquire into the truth to fail through sin of ours. Every one, then, should strive, magnificent son, to conciliate to himself the love of God. For without divine favour what can I say that human love will do for us hereafter, when even among ourselves it harms us the more?
 
-33
-
 Cf. II. 32, note 7; V. 30, note 8. On the subject of the epistle, see III. 47, note 2.
-
-30
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5482,11 +3940,7 @@ Epistle XLII. To Agilulph, King of the Lombards. Gregory to Agilulph, &c. We ret
 
 Epistle XLIII. To Theodelinda, Queen of the Lombards. Gregory to Theodelinda, &c. How your Excellency has laboured earnestly and kindly, as is your wont, for the conclusion of peace we have learnt from the report of our son, the abbot Probus. Nor indeed was it otherwise to be expected of your Christianity than that you would in all ways skew your assiduity and goodness in the cause of peace. Wherefore we give thanks to Almighty God, who so rules your heart with His loving-kindness that, as He has given you a right faith, so He also grants you to work always what is pleasing in His sight. For you may be assured, most excellent daughter, that for the saving of so much bloodshed on both sides you have acquired no small reward. On this account, returning thanks for your goodwill, we implore the mercy of our God to repay you with good in body and soul here and in the world to come. Moreover, greeting you with fatherly affection, we exhort you so to deal with your most excellent consort that he may not reject the alliance of the Christian republic. For, as I believe you know
 
-34
-
 Rusticorum. Cf. I. 44, p. 88, note 1, and Prolegom., p. viii.
-
-31
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5496,15 +3950,9 @@ yourself, it is in many ways profitable that he should be inclined to betake him
 
 Epistle XLIX. To Anastasius, Bishop of Antioch35.
 
-14
-
 Gregory to Anastasius, &c. I received the letters of thy Fraternity, rightly holding fast the profession of the faith; and I returned great thanks to Almighty God, who, when the shepherds of His flock are changed, still, even after such change, guards the faith which He once delivered to the holy Fathers. Now the excellent preacher says, Other foundation can no man lay than that is laid, which is Christ Jesus (1 Cor. iii. 2). Whosoever, then, with love of God and his neighbour, holds firmly the faith that is in Christ, he has laid for himself the same Jesus Christ, the Son of God and man, as a foundation. It is to be hoped therefore that, where Christ is the foundation, the edifice also of good works may follow. The Truth also in person says, He that entereth not by the door into the sheep-fold, but climbeth up some other way, the same is a thief and a robber; but he that entereth in by the door is the shepherd of the sheep (Joh. x. 1). And a little after He adds, I am the door. He, then, enters into the sheep-fold through the door who enters through Christ. And he enters through Christ who thinks and preaches what is true concerning the same Creator and Redeemer of the human race, and holds fast what he preaches; who takes upon him the topmost place of rule for the office of carrying a burden, not for the desire of the glory of transitory dignity. He also watches wisely over the sheep-fold of which he has taken charge, lest either perverse men tear the sheep of God by speaking froward things, or malignant spirits ravage them by persuading to vicious delights. Of a truth we remember how the blessed Jacob, who had served long for his wives, said, This twenty years have I been with thee; thy ewes and thy she goats have not been barren. The rams of thy flock have I not eaten, nor shewn unto thee that which had been seized by a beast. I made good every loss; whatever had been lost by theft, from me didst thou require it. By day and night I was consumed by drought and frost; sleep fled from mine eyes (Gen. xxxi. 38). If, then, he who feeds the sheep of Laban labours and watches thus, on what labour, on what watches, should he be intent who feeds the sheep of God? But in all this let Him instruct us who for our sake became a man, who vouchsafed to become what he had made. May He pour both into my weakness and into thy charity the spirit of His own love, and in all carefulness and watchfulness of circumspection open the eye of our heart.
 
-35
-
 This was the younger Anastasius, who succeeded the patriarch of the same name to whom previous epistles are addressed.
-
-32
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5514,11 +3962,7 @@ But for men of a right faith being advanced to sacred orders thanks are to be pa
 
 Epistle LV. To Fantinus, Guardian (Defensorem), of Panormus (Palermo). Gregory to Fantinus, &c. A little time ago we wrote to Victor, our brother and fellow-bishop, that—inasmuch as certain of the Jews have complained in a petition presented to us that synagogues with their guest-chambers, situated in the city of Panormus, had by him been unreasonably taken possession of—he should keep aloof from their congregation until it could be ascertained whether this thing had been justly done, lest perchance injury should appear to have been alleged by them of their own mere will.
 
-36
-
 Cf. VI. 14.
-
-33
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5528,11 +3972,7 @@ And indeed, having regard to his priestly office, we could not easily believe th
 
 Epistle LVIII. To Martin, Scholasticus37. Gregory to Martin, &c. Seeing that questions arising in civil affairs need, as is known to thy Greatness, very full enquiry, let thy wisdom consider with what care and vigilance the causes of bishops should be investigated. But, in the letter which thou hast sent us by the bearer of these presents on the questions with respect to which thou wert sent to us by our brother and fellow-bishop Crementius, thou hast given only a superficial account of them, and hast been entirely silent about their root. But, had their origin and intrinsic character been manifest to us, we should have known what should be decided about them,
 
-37
-
 On the designation Scholasticus, see II. 32, note 2; V. 36, note 9. The occasion of this and the following epistle appears to have been as follows. Crementius, who was at that time primate of the province of Bizacia in Africa, had been accused by other African bishops. The Emperor, appealed to by them, had desired Gregory to take cognizance of the case; but his interference had been objected to in Africa, where, as appears elsewhere, there was still jealousy of the claims of the Roman See. Gregory had commissioned John, Bishop of Syracuse, to investigate the matter, and to him Crementius (who now professed—though Gregory doubted his sincerity—to defer to the Roman bishop) had sent the lawyer Martin to state his case. The latter seems to have been directed to go on to Rome too, but had not done so. Both Martin and John had subsequently written to Gregory on the subject, and to them he now replies. Some three years seem to have afterwards elapsed without anything more being done: see XII. 32, where Gregory urges the bishops of the province to investigate the old charges against their primate in synod: but with what result does not further appear.
-
-34
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5542,19 +3982,11 @@ and would then settle the mind of our aforesaid brother by a plain and suitable 
 
 Epistle LIX. To John, Bishop of Syracuse39. Gregory to John, &c. I have received your Fraternity’s letter, wherein you inform me that the most eloquent Martin has come from the African province and communicated something to you privately. And indeed your Fraternity, as often as you find occasion, ceases not to shew your love towards the blessed apostle Peter. Wherefore we give thanks to Almighty God, that where you are, there we are not found absent. Nevertheless, your Holiness is not yet fully cognizant of the case in hand. For the Byzacene primate40 had been accused on some charge, and the most pious Emperor wished him to be judged by us according to canonical ordinance. But then, on the receipt of ten pounds of gold, Theodorus the magister militum opposed this being done. Yet the most pious Emperor admonished us to commission some one, and do whatever was canonical. But, seeing the contrarieties of men, we have been unwilling to decide this case. Now, moreover, this same primate says something about his own intention. And it is exceedingly doubtful whether he says such things to us sincerely, or in fact because he is being attacked by his fellow-bishops: for, as to his saying that he is subject to the Apostolic See, if any fault is found in bishops, I know not what bishop is not subject to it. But when no fault requires it to be otherwise, all according to the principle of humility are equal.
 
-38
-
 Ad comitatum; referring to the suffragans of Crementius having complained to the Emperor against their primate.
-
-39
 
 See preceding epistle, note 1. On this John’s election to the See of Syracuse on Gregory’s strong recommendation after the death of Maximianus, see V. 17.
 
-40
-
 Viz. Crementius. See preceding epistle.
-
-35
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5564,15 +3996,9 @@ Nevertheless, do you speak with the aforesaid most eloquent Martin as seems good
 
 Epistle LX. To Romanus and other Guardians (defensores) of the Ecclesiastical Patrimony.
 
-16
-
 Gregory to Romanus the guardian, Fantinus the guardian, Sabinus the sub-deacon, Sergius the guardian, Boniface the guardian (a paribus41), and the six patroni. Since, even as cautious foresight knows how to block the way against faults, and to avoid what is hurtful, so neglect opens the way to excesses, and is wont to incur what ought to be guarded against, we ought to bestow very careful attention, and see alike to the reputation and to the safeguard of our brethren and priests. Now it has come to our ears that certain of the bishops, under pretext, as it were, of help, associate themselves in one house with women. And so, lest hereby just occasion of detraction should be given to scoffers, or the ancient enemy of the human race should take advantage of an easy matter of deceit, we enjoin thee by the tenor of this mandate that thou study to shew thyself strenuous and solicitous. And, if any of the bishops included within the limits of the patrimony committed to thee are living with women, do thou entirely put a stop to this, and for the future by no means suffer any women to reside with them, except such as the censorship of the sacred canons allows, that is a mother, an aunt, a sister, and others of this sort, concerning whom there can be no ill suspicion. Yet they do better, if they refrain from living together even with such as these. For we read that the blessed Augustine refused to live even with his sister, saying, Those who are with my sister are not my sisters. The caution, then, of a learned man ought to be a great instruction to us. For it is a mark of uncautious presumption for one that is less firm not to fear what a strong man is afraid of. For he wisely overcomes what is unlawful who has learnt not to use even what is allowed him: and indeed we bind none in this matter against their will, but, as physicians are accustomed to do, we prescribe carefulness for health’s sake, even though it be for the time distressful. And therefore we impose no necessary obligation; but, if any should choose to imitate a learned and holy man, we leave it to their own will. Let, then, thy Experience act with zeal and solicitude for the observance of what we have ordered to be prohibited. For, if hereafter it should chance to be found otherwise, know that thou wilt incur no slight risk with us. Furthermore, let it be thy care to exhort these same
 
-41
-
 See I. 25, note 8.
-
-36
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5582,13 +4008,9 @@ bishops, our brethren, that they admonish those who are subject to them, to wit 
 
 Epistle LXI.
 
-17
-
 Here begins the epistle of Rechared, King of the Goths, addressed to the blessed Gregory, Bishop of Rome42. Rechared to the holy lord and most blessed pope, the bishop Gregory. At the time when the Lord in His compassion caused us to be dissociated from the impious Arian heresy, and the holy Catholic Church gathered us into her bosom ameliorated in the path of faith, it was then the desire of our mind to seek with delight and with the whole bent of our mind so very reverend a man; thee who art powerful above all other bishops, that he might commend in all ways a thing so worthy and acceptable to God for us men. But, whereas we are engaged in many cares of government, being occupied by divers occasions, three years passed without the desire of our mind being satisfied. And after this we chose, for the purpose of sending them to thee, some abbots of monasteries, who should proceed to thy presence, and offer gifts sent by us to Saint Peter, and bring us word more distinctly of thy holy reverence’s health. But, as they hastened on their way, and were almost in sight of the shores of Italy, it befell them that they struck on certain rocks near Marseilles, and were scarcely able to deliver their own souls. And now we have entreated a presbyter whom thy Glory had sent as far as the city of Malaca (civitatem Malicitanam) to come into our sight. But he, detained by bodily infirmity, has in no wise been able to reach the soil of our kingdom. But, as we know most certainly that he was sent by thy Holiness, we have sent a golden cup ornamented on the outside with gems for thy Holiness (as I trust thou wilt vouchsafe to do) to offer as worthy of the apostle who shines the first in dignity. For I also beg thy Highness, when an opportunity is found, to seek us out by thy sacred golden letters. For how much I truly love thee I believe is not hidden, the Lord inspiring thee, from the fecundity of thine own breast. It is sometimes the case that those whom tracts of land or sea divide the grace of Christ glues together as if visibly. For to those who do not see thee at all in person fame discloses thy goodness. Further, I commend with all veneration to thy Holiness in Christ, Leander, the priest of the church of Hispalis, since through him thy benevolence has been made clearly manifest to us; and when we talk of thy life with this same bishop, we reckon ourselves as your inferiors in regard to 42
 
 The genuineness of this letter is considered doubtful. It may have been a forgery founded on Epistle CXXII. in this book from Gregory to Reccared. The Latin in the original is in many parts incorrect and ungrammatical; being such indeed Reccared’s was not unlikely to be. Other letters relating to the conversion of Reccared are I. 43; IX. 121, 122.
-
-37
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5598,27 +4020,17 @@ your good deeds. I am delighted to hear of thy health, most reverend and most ho
 
 Epistle LXII. To Romanus, Guardian (Defensorem). Gregory to Romanus, &c. It has come to our ears that the tonsuratores43 in Sicily, with wicked presumption, take to themselves the name of defensores, and that they not only are of no utility for the interests of the Church, but also take occasion hence to commit many irregularities. Consequently we enjoin thy Experience by this present authority to enquire diligently into this. And, if thou findest any, besides those who have letters to empower them in such business44, usurping henceforth this title, put a stop to this thing by strict correction. If, however, thou shouldest discover any who have proved themselves active and faithful in ecclesiastical affairs, thou must send us a full and particular report of them, that we may judge whether they are worthy of a letter45. Furthermore, we desire thee to make a thorough examination of the accounts of Fortunatus; and, when he has satisfied all the debts that appear against him, allow him no longer to have to do with the patrimony, or with any action of our Church, seeing that, as we have heard, he has conducted himself in such a manner that he ought not henceforth to have any communication with our people. Furthermore, it has been reported to us that one Martianus, who has assumed to himself the name of a defensor, has declined to pay obedience to our brother and fellow-bishop John, to whom we had committed the charge of our patrimony. Inquire therefore; and, if it is true, let him be sent into exile, that his disobedience to him from whose Church he has seized for himself a false title of honour, and who is promoting the interests of the same, may not go unpunished. But, if there are also any others disobedient to the orders of our said brother, thou wilt by all means visit them with strict punishment.
 
-43
-
 “Tonsuratores dici potuere qui erant præpositi colonis seu possesseribus prædiorum Ecclesiæ Romanæ, qui erant tonsurati in signum subjectionis, more Romanorum.” Alteserra.
-
-44
 
 i.e. letters of appointment under the hand of the bishop of Rome. See V. 29, XI. 38, for the form of such letters.
 
-45
-
 See note above.
-
-38
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
 
 Epistle LXV. To Januarius, Bishop of Caralis (Cagliari).
-
-18
 
 Gregory to Januarius, Bishop of Sardinia. It has come to our ears that some of your clerics, inflated with a spirit of elation (which is a serious thing to be said), neglect obedience to the commands of your Fraternity, and occupying themselves rather in the services and labours of others, desert the business of their own Church in which they are needed. For this reason we greatly wonder why you do not keep up the rule of discipline, and restrain them, when wandering dissolutely at large, with a rein of strict control to the requirements of the office they have undertaken. It is said also that some of these contumacious clerks, in order to obtain support against you, resort to the patronage of our guardian (defensoris) Vitalis. Wherefore we have sent a letter to him, telling him not to dare henceforth to support any one of your clerks against you unreasonably; but, if any case of fault should arise which is not a serious one but merits pardon, to approach you rather as an intercessor than as a supporter of the culprit. Be on your guard, then, that no such report shall hereafter reach us of your subjects despising you. We have learnt also that a certain widow left her substance to the monastery of St. Julian, and that this substance has been plundered by one of your clerks who used to direct the actions of the deceased woman while she lived, and that he now evades making restitution. We therefore exhort thee that, if what is said should prove to be true, you cause him to be constrained by strict proceedings, to the end that he may make haste to restore without diminution the property left to the monastery, and be compelled to give up, even with the loss of his reputation, that which, preserving the purity of his honour, he ought not to have dared to take. But what a cause for shame it is that we should appear as admonishing your Fraternity to restrain your clerk under the vigour of discipline, this I believe that you yourself feel in your own heart. Also against worshippers of idols, and soothsayers, and diviners, we very earnestly exhort your Fraternity to be on the watch with pastoral vigilance, and publicly among the people hold forth against the men who do such things, and recall them by persuasive hortation from the contagion of so great sacrilege, and such temptation of divine judgment, and peril in the present life. If, however, thou shouldest find them unwilling to amend and correct themselves from such doings, we desire thee to lay hold of them with fervent zeal, and, in case of their being slaves, to chastise them with blows and torments, whereby they may be brought to amendment. But, if they are freemen, they should be directed to penitence by suitable and strict confinement; so that they who scorn to listen to salutary words reclaiming them from peril of death may at any rate be brought back by bodily torments to the desired sanity of mind. We have also been informed that, you having committed the care of your patrimony to certain laymen, they, after having been detected in depredations on your peasants and flight in consequence, both refuse to restore the property which, as not being subject to your control, they indecently retain as though it were in their own power, and also scorn to render you an account of their doings. If this be so, it is fitting that the matter be 39
 
@@ -5632,25 +4044,15 @@ Epistle LXVII. To Constantius, Bishop of Milan46. Gregory to Constantius, &c. Ma
 
 Epistle LXVIII. To Eusebius of Thessalonica. Gregory to Eusebius of Thessalonica, Urbicus of Dyrrachium, Andrew of Nicopolis, John of Corinth, John of Prima Justiniana, John of Crete, John of Larissa and Scodra, and many other bishops.
 
-46
-
 See III. 47, note 2.
 
-40
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-19
 
 Philip Schaff
 
 We are constrained by the care of government which we have undertaken to extend vigilantly the solicitude of our office, and to instruct the minds of our brethren by addresses of admonition, that no wrongful presumption may avail to deceive the ignorant, nor any dissimulation to excuse those who know. Be it known then to your Fraternity that John, formerly bishop of the city of Constantinople, against God, against the peace of the Church, to the contempt and injury of all priests, exceeded the bounds of modesty and of his own measure, and unlawfully usurped in synod the proud and pestiferous title of œcumenical, that is to say, universal. When our predecessor Pelagius of blessed memory became aware of this, he annulled by a fully valid censure all the proceedings of that same synod, except what had therein been done in the cause of Gregory, bishop of Antioch, of venerable memory; taking him to task with most severe rebuke, and warning him to abstain from that new and temerarious name of superstition; even so as to forbid his deacon to go in procession47 with him, unless he should amend so great a wickedness. And we, adhering in all respects to the zeal of his rectitude, observe his ordinances, under the protection of God, irrefragably, since it is fitting that he should walk without stumbling along the straight way of his predecessor, whom the tribunal of the eternal Judge awaits for rendering an account of the same place of government. In which matter, lest we should seem to omit anything that pertains to the peace of the Church, we once and again addressed the same most holy John by letter, bidding him relinquish that name of pride, and incline the elation of his heart to the humility which our Master and Lord has taught us. And having found that he paid no regard, we have not desisted, in our desire of concord, from addressing the like admonitions to our most blessed brother and fellow-priest Cyriacus, his successor. But since it is the case, as we see, now that the end of this world is near at hand, that the enemy of the human race has already appeared in his harbingers, so as to have as his precursors, through this title of pride, the very priests who ought to have opposed him by living well and humbly, I exhort and entreat that not one of you ever accept this name, that not one consent to it, that not one write it, that not one admit it wherever it may have been written, or add his subscription to it; but, as becomes ministers of Almighty God, that each keep himself from this kind of poisoned infection, and give no place to the cunning lier-in-wait, since this thing is being done to the injury and rendering asunder of the whole Church, and, as we have said, to the contemning of all of you. For if one, as he supposes, is universal bishop, it remains that you are not bishops. Furthermore, it has come to our knowledge that your Fraternity has been convened to Constantinople. And although our most pious Emperor allows nothing unlawful to be done there, yet, lest perverse men, taking occasion of your assembly, should seek opportunity of cajoling you in favouring this name of superstition, or should think of holding a synod about some other matter, with the view of introducing it therein by cunning contrivances,—though without the authority and consent of the Apostolic See nothing that might be passed would have any force, nevertheless, before Almighty God I conjure and warn you, that the assent of none of you be obtained by any blandishments, any bribes, any threats whatever; but, having regard to the eternal judgment, acquit
 
-47
-
 Procedere; i.e. proceed to the Holy Table for celebration. Cf. VII. 34, note 7.
-
-41
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5660,11 +4062,7 @@ ye yourselves salubriously and unanimously in opposition to wrongful aims; and, 
 
 Epistle LXXVIII. To Eulogius, Patriarch of Alexandria.
 
-20
-
 Gregory to Eulogius, &c. I have received at the hands of the bearer of these presents the letter of your most sweet Holiness, speaking to me about your cause being terminated speedily. But, as soon as he had come, he learnt how the possession which he sought from our Church was held, and soon satisfied himself about it. The business he had with others he settled without contention. But concerning the matter which ought by all means to have been written about to me, your Holiness has written nothing, considering me also to be tardy therein. And indeed, for fear of its breaking out into the scandal of division, I have been unwilling to be the author of such division. For I have chosen that whatever may follow should ensue through others. But in time to come, God granting it, you will have proof that in a cause wherein I desire to please God I am not afraid of men. Concerning this I took care to write to you before now, even when you went to Constantinople. As to the timber, I had prepared pieces of a larger size, as your Blessedness had requested in your letter; but so small a ship has been sent here that it could not carry them, unless they had been cut. But I was unwilling to have them cut, and have reserved for your judgment what should be done about them. If you do not require them, we will adapt them for other uses here. Moreover, I beg of your Holiness to pray for me earnestly, since I am incessantly pressed down by pains of
-
-42
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5676,15 +4074,9 @@ Epistle LXXIX. To Marinianus, Bishop of Ravenna48. Gregory to Marinianus, &c. Wh
 
 Epistle LXXX. To Castorius, Notary49. Gregory to Castorius, &c. The more thou seest thyself to be trusted by us, and charged with the conduct of cases when need arises, the more oughtest thou to shew thyself energetic and solicitous. Accordingly, if Maximus of Salona, having taken oath, shall affirm that he is not guilty of simoniacal heresy, and, as to other matters, when merely questioned before the body of Saint Apollinaris, shall reply that
 
-48
-
 See III. 47, note 2.
 
-49
-
 See below, Ep. LXXIX., and III. 47, note 2.
-
-43
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5694,31 +4086,17 @@ he is innocent, and shall have done penance, as we have directed, for his disobe
 
 Epistle LXXXI. To Maximus, Bishop of Salona53.
 
-21
-
 Gregory to Maximus, &c. Although to what was faulty in thy ordination at the first thou hast added serious evil through the fault of disobedience, yet we, tempering with becoming moderation the authority of the Apostolic See, have never been incensed against thee to the extent that the case demanded. But our displeasure which thou hadst excited against thyself continued the longer in that a sense of the responsibility entrusted to us tormented us exceedingly, lest we might seem to be passing over without attention certain unlawful doings of thine that we had heard of. And, if thou considerest well, thou wilt see that thou thyself, by deferring to satisfy us, didst confirm these reports, and thereby didst exasperate us the more against thee. But now that, following wholesome counsel, thou hast submitted thyself humbly to the yoke of obedience, and that thy love, in doing penance54, has purged itself, as we directed, by fitting satisfaction, understand thou that the favour of brotherly charity is restored to thee, and give thanks that thou art received into our fellowship: for, as it becomes us to be strict with those who persevere in a fault, so does it to be kind in pardoning those who return to a better mind. Now, therefore, that thy Fraternity knows that he has recovered the communion of the Apostolic See, let him send some one to us, according to custom, to receive and convey to him the pallium. For, whilst we do not suffer unlawful things to be perpetrated, we no less refuse not what
-
-50
 
 See below, Ep. LXXXI.
 
-51
-
 See VII. 15, VIII. 10.
-
-52
 
 See VI. 25, and note there.
 
-53
-
 See above, Ep. LXXX. and III. 47, note 2.
 
-54
-
 According to a narrative found in some few codices of the Registrum Epistolarum, and printed in an appendix by the Benedictine Editors, the penance done by Maximus at Ravenna consisted in his prostrating himself on the pavement of the city for three hours and exclaiming, “Peccavi Deo, et beatissimo papæ Gregorio.”
-
-44
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5728,15 +4106,9 @@ is customary. Further, though the discharge of the duties of our position might 
 
 Epistle LXXXII. To Anatolius, Constantinopolitan Deacon55. Gregory to Anatolius, &c. To good and devoted sons it is worth our labour so to respond as to double, because we are paying a debt, what it would befit us of our own mere motion to bestow upon them. Seeing, then, that the bearer of these presents, our son the magnificent Marcellinus56, has demeaned himself as he has in the cause of our brother and fellow-bishop Maximus and in that of the Istrians, and is anxious to employ himself for the advantage of our Church, therefore, that he may be able more and more to shew his sincere affection not only in words but also in deeds, we hereby exhort thy Love to co-operate with him when he comes to the royal city with entire zeal and earnestness, and to be at pains so to assist him with all the succour in thy power, that, supported by the aid of Almighty God and thine, he may have the less difficulty to contend with there. Thou wilt also study so to attend to him as to one who is in very truth our own, and so to bestow on him the efficiency of thy charity, that he may both recognise a return made to him for the past, and also be able to entertain a great hope of retribution in the future for his devotion which he promises to exhibit in the service of the Church. But inasmuch as, so far as we have learnt, the most serene lord the Emperor had commanded our aforesaid magnificent son to hasten to wait upon him immediately, it is fitting for thee to seek an opportunity of intimating that it was no faulty disobedience, but the cause of our brother and fellow-bishop Maximus, that has detained him: which cause, though late, has nevertheless through his exertions been brought to a conclusion. But this we desire thy Love to attend to carefully; not to allow thyself to be mixed up in any cause whatever where there is oppression of the poor; lest haply, under pressure to some extent from persons in power, thou shouldest be driven to do what could not be of advantage to thy soul. Dealing, then, with all matters in the fear of God, consider especially the eternal reward.
 
-55
-
 Gregory’s apocrisiarius at Constantinople.
 
-56
-
 Supposed to be identical with Marcellus, Proconsul of Dalmatia, who, having originally and for some time afterwards supported Maximus as bishop of Salona against Gregory, had apparently made overtures for reconciliation with the latter. See IX. 5, and on the whole subject III. 47, note 2. He seems to have now fully satisfied Gregory, whose laudation of him in this letter is in marked contrast to the tone of IX. 5, addressed to Marcellus himself previously.
-
-45
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5746,19 +4118,11 @@ Epistle XCI. To Fortunatus, Bishop of Neapolis (Naples). Gregory to Fortunatus, 
 
 Epistle XCIII. To Gulfaris, Magister Militum58.
 
-22
-
 Gregory to Gulfaris, &c. The bearers of these presents, who come to us from the Istrian parts, have reported such good things of your Glory as to inflame us ardently to return you thanks. For we learn that, among the cares of the government of those parts which has been committed to you, you are especially anxious to win souls, and that you so take pains to recall the hearts of wanderers to the unity of the Church that, as far as your desire goes, you would have no one there separated from the Apostolic Church; and that so great love of Peter, the Prince of the Apostles, inflames you that you long with all your heart to restore the sheepfold of him to whom the keys were delivered by the Lord the Creator of all. Have, glorious son, from such and so great a work, a confident anticipation of divine retribution, wherein not only our admonition but also the words of the apostle confirm thee, since he who shall have caused a sinner to be converted from the error of his way shall save his soul from death, and cover a multitude of sins (James v.). For, however great be temporal affluence, or at any rate
-
-57
 
 See X. 24.
 
-58
-
 As to Gregory’s renewed efforts, now with better hope after the accession of Callinicus as Exarch of Italy to recover the Istrian schismatics in the matter of “the Three Chapters,” see above, IX. 9, 10. Gulfaris, addressed in this epistle, was in military command in Istria, and appears to have exerted himself to further the aims of Gregory, who ever gladly availed himself of the aid of the secular arm. Other letters on the same subject follow.
-
-46
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5770,35 +4134,21 @@ Epistle XCIV. To Romanus the Guardian (Defensorem). Gregory to Romanus, &c. The 
 
 Epistle XCVIII.
 
-47
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
 
 To Theodore, Curator59 of Ravenna.
 
-23
-
 Gregory to Theodore, &c. Although from the report of our responsalis we have long heard many things of you to rejoice our heart, yet now our son the abbot Probus, who has returned to us, has reported still further such things of the charity of your Glory as it is becoming should be told of a really good and most Christian son. And, since he has told us of such kind feeling on your part, and such earnestness in arranging the peace as has not appeared even in our own citizens who have previously been in your parts, we beg the mercy of heavenly protection to recompense you for this in body and in soul both here and in the world to come, seeing that you have not ceased to act advantageously for the weal of many. We inform you therefore that Ariulf60 has sworn to the observance of the peace, not as his King swore61, but under the condition that no excess should in any way be committed against himself, and that no one should march against the army of Aroges62. This being altogether unfair and crafty, we take it as if he had not sworn,—since to some extent he will easily find for himself an occasion of exceeding, and will deceive us the more if we are not on our guard against him. But Warnilfrid, according to whose advice this same Ariulf acts in all respects, has scorned to swear at all. And so it has come to pass that from the peace which we so much desired, we in these parts can have hardly any remedy, since we must still, and for the future, be on our guard against the same enemies that we have been on our guard against so far. Furthermore, be it known to your Glory that the King’s men who have been sent hither press us to subscribe to the compact. But remembering the insults which, to the injury through us of the blessed Peter, Agilulph is said to have addressed to the most illustrious Basilius, though Agilulph himself has entirely denied this, we have still thought it prudent to abstain from subscription, lest we, who are petitioners and mediators between him and our most excellent son the lord Exarch, should find ourselves deceived in any respect, in case of anything being perchance secretly withdrawn (i.e. from the compact), and he should find an occasion of not assenting to our petition. And so we beg, as we have requested also of our aforesaid most excellent son, that your Glory, with the charity whereby you are united to us, would take measures to the end that, before these men return from Arogis, the king may send them letters posthaste, to be, however, handed on to us, ordering them not to call on us to subscribe. But, if it serves the purpose, we will cause our glorious brother, or one of the bishops, or at any rate an archdeacon, to subscribe.
-
-59
 
 “Erat forte magistratus municipalis, qui annonæ civitatis curam gerit.” Note to Benedictine Edition.
 
-60
-
 The Lombard duke of Spoletum, who had besieged Rome, A.D. 592, previously to the invasion of King Agilulph in person. Cf. II. 3, 29, 30, 46, and Prolegom., p. xix.
-
-61
 
 For notice of the peace concluded with the Lombard King Agilulph, cf. IX. 4, 42, 43; and Prolegom., p. xx.
 
-62
-
 Arogis (or Arigis) was the Lombard duke of Beneventum. Cf. II. 46.
-
-48
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5808,15 +4158,9 @@ With regard to Augustus we thank you, and are giving attention to his settling h
 
 Epistle CV. To Serenus Bishop of Massilia (Marseilles). Gregory to Serenus, &c. That we have been so long in sending a letter to your Fraternity attribute not to sluggishness, but to press of business. We now commend to you in all respects the bearer of these presents, our most beloved son Cyriacus, the Father of our Monastery, that no delay may detain him in the city of Massilia, but that he may proceed under God’s protection to our brother and fellow-bishop Syagrius63 with the succour of your Holiness. Furthermore we notify to you that it has come to our ears that your Fraternity, seeing certain adorers of images, broke and threw down these same images in Churches. And we commend you indeed for your zeal against anything made with hands being an object of adoration; but we signify to you that you ought not to have broken these images. For pictorial representation is made use of in Churches for this reason; that such as are ignorant of letters may at least read by looking at the walls what they cannot read in books. Your Fraternity therefore should have both preserved the images and prohibited the people from adoration of them, to the end that both those who are ignorant of letters might have wherewith to gather a knowledge of the history, and that the people might by no means sin by adoration of a pictorial representation64.
 
-63
-
 It appears from Epistle CIX. below that Cyriacus was being now sent to the bishop of Autun with the special view of getting a synod called by queen Brunechild for restraining the simony and other ecclesiastical irregularities which were prevalent in Gaul. Cf. also above, IX. II, to Brunechild.
 
-64
-
 Cf. XI. 13.
-
-49
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5824,25 +4168,15 @@ Philip Schaff
 
 Epistle CVI. To Syagrius, Ætherius, Virgilius, and Desiderius, Bishops65.
 
-24
-
 Gregory to Syagrius of Augustodunum (Autun), Etherius of Lugdunum (Lyons), Virgilius of Aretale (Arles), and Desiderius of Vienna (Vienne), bishops of Gaul. A paribus. Our Head, which is Christ, has to this end willed us to be His members, that through the bond of charity and faith He might make us one body in Himself. And to Him it befits us so to adhere in heart, that, since without Him we can be nothing, through Him we may be able to be what we are called. Let nothing divide us from the citadel of our Head, lest, if we refuse to be His members, we be left apart from Him, and wither like branches cast off from the vine. Wherefore, that we may be counted worthy to be the dwelling-place of our Redeemer, let us abide in His love with entire earnestness of mind. For He Himself says, He that loveth me will keep my word, and my Father will love him, and we will come unto him, and make our abode with him (Joh. xiv. 23). But, since we cannot keep close to the author of all good, unless we cut away from us covetousness, which is the root of all evil, we therefore by these present writings (which associate us together mutually as in the alternate discourse of a wished for visitation) approach your Fraternity in accordance with apostolic institutes, that, leaning on the rules of the Fathers and the Lord’s commands, we may banish from the temple of faith avarice, which is the service of idols, so as to suffer nothing hurtful, and nothing disorderly, to be in the house of the Lord. I apprize you to wit, that we have long heard it currently reported how that in the regions of Gaul sacred orders are conferred through simoniacal heresy. And we are affected with sorrowful disgust, if money has any place in ecclesiastical offices, and that which is sacred is made secular. Whosoever, then, sets himself to buy this thing by the giving of a price, having regard not to the office but to the title, covets not to be a priest, but only to be called one. What forsooth? What comes of this but that there is no trial of a man’s conduct, no carefulness about his moral character, no enquiry into his life, but that he only is counted worthy who has the means to give a price? Hence it ensues, if the matter be weighed in a true balance, that, while one wickedly makes haste to snatch a place of utility with a view to vain glory, he is all the more unworthy from the very fact of his seeking dignity. Moreover, as one who refuses when invited and flies when sought should be brought up to the sacred altar, so one that sues of his own accord and pushes himself forward importunately should without doubt be repelled. For whoever thus strives to climb to higher places, what does he but decrease in increasing, and in rising outwardly sink low inwardly? Wherefore, dearest brethren, in ordaining priests let sincerity prevail, let there be simple consent without venality, let a pure election be preferred, so that advancement to the highest place of the priesthood
-
-65
 
 This is a circular letter to the metropolitan bishops to prepare them for the general synod which Gregory was anxious should be held in Gaul for checking the simony, and other abuses, continually referred to by him as prevalent there. Cf. in this book, Epistles XI., CVII., CVIII., CIX., CX. On a paribus, see I. 25, note 8.
 
-50
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-25
 
 Philip Schaff
 
 may be believed to be due, not to the suffrage of sellers, but to the judgment of God. For that it is a grievous crime to wish to procure or to sell the gift of God for a price evangelical authority is witness (Matth. xxi.). For, when our Lord and Redeemer went into the temple, He overthrew the seats of them that sold doves. What else is it to sell doves but to receive a price for the laying on of hands, and to put to sale the Holy Spirit whom Almighty God gives to men? And that the priesthood of such as do so falls before the eyes of God is plainly signified by the overthrowing of the seats. And yet the perverseness of this iniquity still puts forth its strength. For it drives those to sell whom it deceives into buying. And, while attention is not paid to what is enjoined by the divine voice, Freely ye have received, freely give (Matth. x. 8), it is brought to pass that it increases, and becomes doubled in one and the same contagion of sin, to wit of the buyer and of the seller. And, it being well known that this heresy crept into the Church with a pestiferous root before all others, and was condemned in its very origin by apostolic detestation, why is it not guarded against? Why is it not considered that blessing is turned into a curse to him who is promoted to the end that he may become a heretic? For the most part, then, the adversary of souls, when unable to insinuate into them what is wrong on the face of it, endeavours to supplant them by throwing over it as it were a show of piety, and persuades them, perhaps, that money ought to be received from those who have it, so that there may be wherewith to give to those who have it not, if only he may even so infuse mortal poisons concealed under the appearance of almsgiving. For neither would the hunter deceive the wild beast, nor the fowler the bird, nor the fisherman catch the fish, if the former were to set their snares in open view, or if the latter had not his hook hidden by the bait. By all means, then, the cunning of the enemy is to be feared and guarded against, lest those whom he cannot subvert by open temptation he should succeed in slaying more cruelly by a hidden weapon. For indeed it is not to be accounted almsgiving if that be dispensed to the poor which is got by unlawful dealings, since he who with this intention receives amiss as though with the view of dispensing well is the worse for it rather than the better. The alms that please the eyes of our Redeemer are not those that are gathered together in unlawful ways and from iniquity, but such as are bestowed out of what has been granted to us and well acquired. Hence this also is certain, that, though monasteries or hospitals or aught else be built with the money given for sacred orders, it profits not for reward; since, when one that is perverse and a buyer of dignity is transferred to a holy place, and constitutes others after the likeness of himself for a consideration given, he destroys more by his evil administration than he who has received money from him for ordination can build up. That we should not, then, try to get anything with sin under pretence of almsgiving we are plainly warned by Holy Scripture, which says, The sacrifices of the impious are abominable which are offered of wickedness (Prov. xxi. 27). For whatever in God’s sacrifice is offered of wickedness appeases not, but provokes, the anger of Almighty God. Hence again it is written, Honour the Lord from thy just labours (Prov. iii. 9). Whoso, then, takes evilly that he may, as he supposes, give well, it is evident without doubt that he honours not the Lord. Hence also it is said through Solomon, Whoso offers a sacrifice of the substance of the poor is as though he slew a son in his father’s sight (Ecclus. xxxiv. 24). Now let
-
-51
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5850,17 +4184,11 @@ Philip Schaff
 
 us consider how great is a father’s grief if his son be killed in his sight: and hence we easily understand how much God is grieved when a sacrifice is given Him out of pillage. Exceedingly to be shunned then, most beloved brethren, is the perpetration of the sins of simoniacal heresy under pretence of almsgiving. For it is one thing to do alms on account of sins, but another to commit sins on account of alms. This also, which has reached our ears, we include as worthy of no dissimilar detestation; that some persons, inflated with desire of dignity, are tonsured on the death of bishops, and from being laymen are suddenly made priests, and shamelessly snatch at the leadership of religious life, not having as yet even learnt to be soldiers. What good do we suppose these will do their subjects, who, before touching the threshold of discipleship, fear not to occupy the place of mastership? In such a case it is needful that, even though any one were of unquestioned merit, he should be exercised in ecclesiastical offices by passing through distinct orders. He should see what he is to imitate, he should be formed into the shape he is to retain, so that afterwards he may not err, when chosen for shewing the way of life to the erring. He should, then, be polished long by religious meditation, that he may be well-pleasing, and so shine as a candle placed on a candlestick that the adverse force of winds driving against the kindled flame of erudition may not extinguish it, but increase it. For, since it is written, That one should first be proved, and so minister (1 Tim. iii. 10), much more ought he first to be proved who is taken as an intercessor for the people, lest bad priests should become the cause of the people’s ruin. There can therefore be no excuse, no defence against this, since it is clearly known to all how solicitous about diligent attention to this matter is the holy and excellent teacher, who forbids that a novice should accede to sacred orders (1 Tim. iii.). But, as then one was called a novice who had been newly planted in the conversation of the holy faith, so one is now to be held to be a novice who, having been suddenly planted in the habit of religion, creeps on to canvass for sacred dignities. Orders, then, should be risen to in an orderly way: for he courts a fall who seeks to rise to the topmost heights of a place by steep ascents, disregarding the steps that lead to it. And, seeing that the same apostle teaches his disciple, among other directions with regard to sacred orders, that hands are to be laid hastily on no man (1 Tim. v.), what can be more hasty or what more headlong than to begin at the top, and that a man should commence by being a bishop before he has been a minister? Whosoever, then, desires to obtain priesthood, not for the pomp of elation but for doing good, let him first measure his own strength with the burden he is to undergo, that, if unequal to it, he may abstain, and also approach it with fear, even if he thinks himself sufficient for it. Further, it will not be beside the mark, if, in addition to the argument from rational beings we draw one from our use of irrational things. For timber suitable for buildings is cut from forests, and yet the weight of the building is not imposed on them while they are yet green, or till a delay of many days has dried their greenness, and rendered them fit for necessary use. And, if by any chance this precaution is neglected, they are soon broken by the mass imposed upon them, and the material provided for support begets ruin.
 
-52
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-26
 
 Philip Schaff
 
 For hence also medical men, whose care is for the body, do not offer certain remedies to him that needs them while recently concocted, but leave them to be macerated for some time. For, should any one give them immaturely, there is no doubt that the means of health become a cause of danger. Let them learn, therefore, let priests in their office learn, those namely to whom the cure of souls is entrusted, to observe what men of various arts under the teaching of reason attend to, and restrain themselves from ambition, if not of fear, yet at any rate of very shame. But, lest perchance any one should still wish to defend himself on the pretext of an evil custom, let the discretion of your Fraternity restrain them with the rein of reason, and not allow them to lapse into unlawful doings, since whatever is deserving of punishment ought not to be adduced as an example for imitation, but for correction. Nor, further, can we suffer you to pass over neglectfully this other matter, which alike requires correction. For of what profit is it to have guarded all besides if through one place pernicious access be afforded to the enemy? Therefore let women be prohibited from living with those who are constituted in any sacred order. With regard to them, lest the old enemy of the human race should exult, it must be laid down by the consent of all that they may have no other women with them but those whom the sacred canons include. And, though this interdiction is perhaps bitter for the time to some, there is no doubt that it will afterwards grow sweet from its very benefit to their souls, if the enemy be overcome in that whereby he might have overcome them. In this part of our solicitude also we must not leave unnoticed what has been ordained by the provision of the Fathers, for the sake of advantage, concerning the holding of councils throughout dioceses. Wherefore, lest there should be any dissension among brethren, or any fomentation of discord between superiors and subordinates, it is necessary that priests should assemble together, so that there may be discussion about cases that arise, and salutary conference about ecclesiastical observances; to the end that, while things past are corrected and things future regulated, the Almighty Lord may be praised on all sides in one accord by brethren. Know ye whose presence will be with you, seeing that it is written, Where two or three are gathered together in My name, there am I in the midst of them (Matth. xviii. 20). If, then, He will vouchsafe to be present where there are two or three, how much more will He not be wanting where many priests have come together? And indeed it is not unknown what is appointed by the rules of the Fathers as to the holding of a council twice in the year. But, lest haply any necessity should not allow this rule to be carried out, we decree that still one shall meet, without any excuse allowed, once; so that nothing wrong, nothing unlawful, may be ventured on while a council is being expected. For commonly, though not from love of justice, yet from fear of enquiry, people abstain from that which it is known may displease the judgment of all. Let us, most beloved brethren, keep this observance to be left to our posterity; and let us meditate on all that is written in the sacred writings for our instruction, and incite all we can to follow it. For it is certain that, if with all our heart we attend to these salutary precepts, we escape all taint of vices, since, while we lean on these whereby we are built up, we shut out, no doubt, all place for deception.
-
-53
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5870,19 +4198,11 @@ Therefore for the purposes mentioned above, we desire your Fraternity, God willi
 
 Epistle CVII. To Aregius, Bishop of Vapincum67.
 
-27
-
 Gregory to Aregius, Bishop in Gaul. The affliction of your Fraternity, which we have learnt that you have had for the loss of your people, has given us such cause of grief that, since charity makes us two one, we feel our heart to be especially in your tribulations. But in the midst of this we have been much consoled by your having brought your mind to discern how it becomes you to bear sorrow patiently, and, in the hope of another life, not to have long continued grief for death. Still, lest some tribulation should still maintain itself in your soul, I exhort you to rest from sorrow, to cease to be sad. For it is unseemly to addict oneself to wearisomeness of affliction for those of whom it is to be believed that they have attained to true life by dying. Those have perhaps just excuse for long continued grief who know not of another life, and have no trust that there is a passing from this world to a better. We, however, who know this, who believe it and teach it, ought not to be too much distressed for them that depart, lest what in others has a show of affection, be to us rather a matter of blame. For it is, as it were, a kind of distrust to be tormented by sadness in opposition to what everyone preaches,
-
-66
 
 Perhaps an error for Syagrius, bishop of Augustodunum (Autun), to whom the use of the pallium had been recently conceded on certain conditions, and to whom the assembling of the synod was committed, though he was not thus authorized to take precedence of his metropolitan, the bishop of Lyons. See Ep. CVIII. and Ep. XI. note 2. Cyriacus, mentioned below, had been sent specially from Rome to forward and regulate the proceedings (see Ep. CIX., note 2), Aregius of Vapincum being also directed to send Gregory a full report of the proceedings (see Ep. CVII.). If the intended synod was held at all, it appears to have failed to put a stop to the abuses complained of. For a year or two later we find Gregory still referring to them, and pressing for a synod to suppress them. See XI. 55, 56, 57, 59, 60, 63.
 
-67
-
 A see in Narbonensis Secunda under the Metropolis of Aquæ (Aix); the modern Gap.
-
-54
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5890,11 +4210,7 @@ Philip Schaff
 
 as the Apostle says, But we would not have you to be ignorant, brethren, concerning them that are asleep, that ye sorrow not even as others which have no hope (1 Thess. iv. 12). Having, therefore, this reason before us, dearest brother, we should try, as we have said, not to afflict ourselves about the dead, but bestow affection on the living, to whom pity may be of advantage and love bear fruit. Let us henceforth hasten, by reproving, exhorting, persuading, soothing, comforting, to profit all we can. Let our tongue be an encouragement to the good, a goad to the bad; let it beat down the puffed up, appease the angry, stir up the slow, kindle the idle by exhortation, persuade the shrinkers back, soothe the rough, comfort the despairing; that, as we are called leaders, we may shew the way of salvation to them that are advancing forward. Let us be vigilant in keeping guard, let us defend all approaches against the snares of the enemy. And, if ever error should have drawn aside a sheep of the flocks committed to us through devious ways, let us strive with all our endeavours to recall it to the Lord’s sheepfolds, so that from the name of shepherd which we bear we may reap not punishment, but a reward. Seeing, then, that in all this there is need of the help of divine grace, let us implore the clemency of Almighty God with continual prayers, to the end that for doing these things He may give us the will and grant us the power, and, with the fruit of good work, direct us in that way in which He has declared Himself to be the Shepherd of shepherds; that so, through Him, without whom we cannot rise to the doing of anything, we may be able to accomplish all Furthermore, our common son, Peter the deacon, has given us to understand that your Fraternity at the time when you were here requested that we would grant to yourself and your archdeacon license to use dalmatics68. But, because compelled by the sickness of your people, you departed in such haste that the very grief that weighed upon you did not suffer you to press the matter any longer, as was fit and as the nature of your request required; and because we had many engagements, and consideration of ecclesiastical propriety did not allow us to concede a new thing inconsiderately and suddenly; for these reasons the carrying into effect of the thing demanded has been long postponed. Now, however, recalling to mind your Charity’s good deservings, by the tenor of this our authority we grant you your request, and have granted to thee or to thy archdeacon to be decorated by the use of dalmatics; and we have sent the same dalmatics by the hands of our most beloved son, the abbot Cyriacus. Furthermore, at the synod which we have decreed should be assembled through our brother and fellow-bishop Syagrius against simoniacal heresy, we desire thee to be present; and we have ordered the pallium which we have sent for our said brother to be accordingly given him, on condition of his promising to remove from holy Church, by a definition of the synod, the unlawful things which we have prohibited. Concerning which synod we desire thy Fraternity to report to us fully by letter all its proceedings, that thou thyself, whose holiness we are well acquainted with, mayest inform us about everything.
 
-68
-
 For the use of Dalmatics, see Dict. of Christ. Ant. (Smith and Cheetham, 1875), under DALMATIC.
-
-55
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5902,15 +4218,9 @@ Philip Schaff
 
 Epistle CVIII. To Syagrius, Bishop.
 
-28
-
 Gregory to Syagrius, Bishop of Augustodunum (Autun). Mistress of all good things is charity, which savours of nothing extraneous, nothing rough, nothing confused; which so exercises and strengthens hearts that nothing is heavy, nothing difficult, but all that is done becomes sweet. Since, then, it is its peculiar quality to foster things that are concordant, to preserve things that are united, to join together things that are dissociated, to set right things that are wrong, and to consolidate all other virtues by the bulwark of its own perfection, whosoever grafts himself into its roots neither falls away from greenness, nor becomes empty of fruits, because effective work loses not the moisture of fecundity. And so I am much delighted with thee, and rejoice with thee in the Lord, most beloved brother, for that I find thee, by the testimony of many, so endowed with this same charity that thou both thyself becomingly exhibitest what befits a priest, and laudably shewest an example for imitation to others. Inasmuch, then, as in the work of preaching (which after long thought I have taken care to supply to the nation of the Angli through Augustine, then provost (præpositum) of my monastery, and now our brother and fellow-bishop), I have found thee to be, as was right, so solicitous, devoted, and in all ways helpful, as to lay me under a great debt to thee in this matter, therefore moved by the consideration of so great an obligation, I cannot bear to put aside thy Fraternity’s petition, lest I should appear towards thee unprofitable. Consequently, according to the tenor of thy request, we have provided under God for thy being dignified by the use of the pallium69, to be worn within thy church, in the celebration of mass only. Nevertheless we have decided that it should be given thee only on condition of thy first promising to amend by the definition of a synod the things that we have ordered to be corrected; for we certainly deem it fit that, with the gravity of mind in which by the mercy of God we have learnt that thou excellest, a more distinguished adornment of outward apparel should accrue to thee; especially as we think that thou hast asked for it, not with a view to the pomp of needless elation but with regard to the character and dignity of thy Church. And, lest in this vestment we should seem to be bestowing as it were a bare bounty, we have taken thought at the same time for the granting of this also;—that, while the Metropolitan has in all respects his place and dignity preserved to him, the Church of Augustodunum should be next after the Church of Lugdunum (Lyons), and should claim to itself this place and rank by the indulgence of our authority. But as to the other bishops, we decree that they shall take their places according to the date of their ordination, whether for sitting in council, or for subscribing, or in any other matter, and shall claim to themselves the prerogative of their several ranks: for it seems to us consonant to reason that with the use of the pallium we should together with it, as we have said, bestow some privileges.
 
-69
-
 Cf. IX. 11, 109.
-
-56
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5920,15 +4230,9 @@ But, since with augmentation of dignity the sense of responsibility ought also t
 
 Epistle CIX. To Brunichild, Queen of the Franks.
 
-29
-
 Gregory to Brunichild, &c. Now that your Excellency’s royal solicitude is in all matters of government praiseworthy, you ought, for the increase of your glory, to show yourself more watchful, and careful not to allow those whom you rule with counsel outwardly to perish inwardly among themselves. So may you, through the fruit of your pious solicitude, after occupying this topmost height of a temporal kingdom, attain under God to kingdoms and joys that are eternal. And this we trust you will be able after the following manner to succeed in; if, among other good deeds, you pay attention to the ordination of priests70; whose office, as we have learnt, has come in your parts to be such an object of ambition that priests are ordained all at once from being laymen. This is a very serious matter. For what can they effect, what good can they do the people, who covet being made bishops, not for doing good, but for distinction? These, then, who have not yet learnt what they have to teach—what do they effect, but that the unlawful advancement of a few becomes the ruin of many, and that the observance of ecclesiastical government is brought into confusion, seeing that no regular order is observed? For whoso comes to the control thereof inconsiderately and hurriedly, with what admonition can he edify those who are put under him, his example having taught them, not reason, but error? It is a shame in truth, it is a shame, for one to command others what he knows not how to observe himself. Nor do we pass over that other thing which in like manner requires amendment, but detest it as utterly execrable and a most serious matter; that in your parts sacred orders are conferred through simoniacal heresy, which was the first to arise against the Church, and was condemned with a rigorous malediction. Hence, therefore, it is brought about that the dignity of the priesthood comes into contempt, and holy honour under condemnation. And so reverence perishes, discipline is destroyed, since he who ought to have corrected faults committed them; and by nefarious ambition
 
-70
-
 Sacerdotibus, in the usual sense of bishops.
-
-57
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5938,11 +4242,7 @@ the honourable priesthood is brought under censure and disparagement. For who wi
 
 Epistle CX.
 
-71
-
 Cyriacus, abbot of St. Andrew’s monastery at Rome, had been sent, for the purpose indicated, to Syagrius, bishop of Autun. Cf. IX. 105.
-
-58
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5950,15 +4250,9 @@ Philip Schaff
 
 To Theoderic and Theodebert, Kings of the Franks72.
 
-30
-
 Gregory to Theoderic, &c. Since the renown of your kingdom has been resplendent of old among all others by the grace of the Christian religion, great pains should be taken that, wherein you stand out more glorious than other nations, you should therein please more perfectly the Almighty Lord who gives health and wealth to kings, and have the faith which you observe in all ways helpful to you. We had wished indeed, most excellent sons, to address to you a discourse of friendly greeting only, so as to shew our fatherly affection in offices of charity. But, seeing that an unlawful proceeding distresses us exceedingly, it befits us so to exhibit one thing as by no means to pass over in silence the other which needs amendment. If you give diligent attention, you will find that we speak entirely for the security of your well-being. Now it is said that simoniacal heresy (which was the first to creep in by the devil’s planting against the Church of God, and was at its very rise smitten and condemned by the weapon of apostolical vengeance) prevails within the limits of your kingdom, though faith together with good life ought to be chosen in priests. If good life is wanting, faith has no merit, as the blessed James attests, who says, Faith without works is dead (Jam. ii. 18). But what can be the works of a priest who is convicted of obtaining the dignity of so great a sacrament by a bribe? Thus it is brought about that even the very persons who are desiring sacred orders take no pains to amend their lives or order their conduct, but busy themselves in amassing wealth wherewith to buy sacred dignity. Hence also it comes to pass that the innocent and poor recoil from sacred orders, being debarred and looked down upon. And while the innocence of the poor man displeases, there is no doubt that the bribe in the other case commends delinquencies; for, where gold pleases, so does vice. Hence, therefore, not only is a deadly wound inflicted on the souls of the ordainer and of the ordained, but also the Kingdom of your Excellence is weighed down by the fault of your bishops, by whose intercessions it ought rather to have been aided. For, if he is thought worthy of the priesthood who is supported, not by the merits of his doings, but by the abundance of his bribes, it remains that neither gravity nor industry can put in any claim for ecclesiastical dignities, but that the profane love of gold obtains all. And, while vices are remunerated with dignity, he is promoted to the place of the avenger who perhaps ought to have vengeance executed on himself; and hence priests are shewn not to profit others, but rather themselves to perish. For, when the shepherd is wounded, who may apply medicine for healing the sheep? Or how shall he protect the people with the shield of prayer who exposes himself to be stricken by hostile darts? Or what kind of fruit shall he produce out of himself, whose root is infected by sore disease? Greater calamity, then, is to be apprehended in those places where such intercessors are promoted to places of rule, being such as to provoke the more the anger of God against themselves which they ought, through themselves, to have appeased in behalf of the people.
 
-72
-
 See VI. 58, note 1.
-
-59
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5966,11 +4260,7 @@ Philip Schaff
 
 Moreover, we have heard that the farms of the Churches do not pay tribute; and we are consequently lost in great surprise, if unlawful payments be sought from those to whom even lawful ones are remitted73. Nor does our solicitude allow us to pass over this evil also; that some, lured by the instigation of vain glory, snatch all at once, from a lay condition of life, at the dignity of priesthood, and (what it shames one to say, though it is too serious a matter to pass over in silence) those who require to be ruled neither blush nor fear to appear as rulers, and those that require to be taught as teachers. Persons assume shamelessly the leadership of souls to whom the whole way to be taken by the leader is unknown, and who know not whither even they themselves are walking. How bad and how venturesome this is, is shewn even by secular order and discipline. For, seeing that a leader of an army is not chosen unless he has been tried in labour and carefulness, let those who desire with immature haste to mount to the height of episcopacy consider, at any rate by the aid of this comparison, of what sort leaders of souls should be; and let them abstain from attempting suddenly untried labours, lest a blind ambition for dignity both be to their own penalty and also sow seeds of pestiferous error to others, they themselves not having learnt what they have to teach. Accordingly, greeting you with fatherly affection, we beg, most excellent sons, that you would be at pains to banish this so detestable an evil from the limits of your kingdom, and that no excuse, no suggestion against your soul, find place with you; since he who neglects to amend what he is able to correct, undoubtedly has the guilt of the doer. Wherefore, that you may be able to offer a great gift to Almighty God, order a synod to be assembled, in which (as we have enjoined our brethren and fellow-bishops), in the presence of our most beloved son the abbot Cyriacus, it may be ordained under the obligation of anathema that no one may ever give and no one ever receive anything for an ecclesiastical order, nor any one of the laity pass all at once to the priesthood; that so our Redeemer, whose priests you suffer not to be ruined among themselves by the enemy, may recompense you for this service both here and in the life to come. Furthermore, we are altogether astonished that in your kingdom you allow Jews to possess Christian slaves. For what are all Christians but members of Christ? The Head of these members we all know that you honour faithfully: but let your Excellency consider how inconsistent it is to honour the Head and to allow His members to be trodden on by His enemies. And so, we beg that an ordinance of your Excellency may remove the evil of this wrong-doing from your kingdom, that you may thus shew yourselves the more to be worthy worshippers of Almighty God, in that you set free His faithful servants from His enemies.
 
-73
-
 The majority of MSS. have been nunc præbeantinstead of non tribuant: but the reading adopted in the text has good support, and seems to give more intelligible meaning. The drift seems to be that, while it was the custom in Gaul to relieve Church property even from tribute that might have been exacted lawfully, it was monstrously inconsistent to burden it unlawfully by the exaction of bribes for promotion.
-
-60
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -5978,23 +4268,17 @@ Philip Schaff
 
 Epistle CXI. To Virgilius, Bishop of Arelate (Arles).
 
-31
-
 Gregory to Virgilius, &c. Inasmuch as the desire of a pious purpose and the bent of a laudable devotion ought always to be aided by the earnest endeavours of priests, anxious care should be taken that neither remissness, neglect nor presumption disturb whatever has been ordained for the quiet of monks and of religious conversation. But, as it was right that what reason required should be profitably prescribed, so what has been prescribed ought not to be violated. Now Childebert of glorious memory, King of the Franks, inflamed by love of the Catholic religion, in founding for his own reward a monastery for men within the walls of the city of Arelate, as we find set down in writing, granted certain things there for the sustentation of its inmates. And, lest his purpose should ever be frustrated, and what had been arranged for the quiet of the monks be disturbed, he prayed in his letters that whatever rights he conceded to the said monastery might be confirmed by apostolical authority; adding this also to his petition, that certain privileges might at the same time be accorded to the same monastery, as well in the management of its affairs as in the ordination of its abbot. This he did as knowing such reverence to be paid by the faithful to the Apostolic See that what had been settled by its decree no molestation of unlawful usurpation would thereafter shake. Hence, since the royal purpose as well as the thing desired, urgently demanded effect to be given to it, letters were sent by our predecessor Vigilius, bishop of the Roman See, to your predecessor Aurelius, wherein all things that a desire to embrace that purpose demanded were willingly confirmed by the support of apostolical authority, inasmuch as a thing of this kind, when requested, could not be allowed to encounter difficulty. But, that your Fraternity may know what was decreed at that time, we have seen to the written orders of our aforesaid predecessor being added to this letter. These having been perused, we exhort thee to keep them all inviolate with priestly earnestness, as becomes thee, and to allow nothing undue or unlawful to be imposed on that monastery, or the said orders to be infringed by any usurpation. For, though what has once been sanctioned by the authority of the Apostolic See has no lack of validity, yet we do, over and above, once more corroborate by our authority in all respects all things that were ordained by our predecessor for quiet in this matter. Let your Fraternity, then, so acquit yourself in observing them as both to shut out all occasion of disturbance, and also to persuade others to carry these things out, while you shew yourself careful and devoted, as becomes you, in observing the most pious will of the departed one.
 
 Epistle CXIV. To Virgilius and Syagrius, Bishops. Gregory to Virgilius, Bishop of Arelate (Arles), and Syagrius, Bishop of Augustodunum (Autun). 61
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
-32
-
 Philip Schaff
 
 The nature of the office committed to me, dearest brethren, drives me to break out into a cry of grief, and to sharpen your love with the anxiety of charity, for that it is said that you in your parts have been too negligent and remiss, where the rectitude of justice and zeal for chastity ought to have inflamed your earnestness. Now it has come to our ears that a certain Syagria had entered on a religious life, having even changed her dress, and was afterwards united by force to a husband (a thing iniquitous to be told), and that you have been moved by no sorrow to interfere in her defence. If this is so, I groan for it the more heavily for fear lest with the Almighty Lord (which God forbid) you should have the office of hirelings, and not the merit of shepherds, as having left without a struggle a sheep in the mouth of the wolf to be torn. For what will ye say, or what account will ye give of yourselves to the future judge; you whom the lewdness of ravishment has not moved, whom regard to the religious habit has in no wise excited to stand up in defence, whom priestly consideration has not roused to protect the purity of virgin modesty? Even now, then, let your neglect return to your memory; let remembrance of this fault stir you, and consideration of your office impel you to exhortation of the aforesaid woman. And, lest haply in course of time constraint should have passed into willing consent, let your tongue be her cure, and through your exhortations let her give herself diligently to prayer; let not the lamentations of penitence depart from her memory; let her exhibit a penitent heart to our Redeemer; and let her make amends with weeping for the loss of chastity, which in her body it was not allowed her to preserve. Wherefore, inasmuch as the aforesaid woman desires, as it is said, even now to devote her property to pious uses, we exhort you that she experience the favour and enjoy the support of your Fraternity in this thing, and that it be lawful for her, a competent portion being reserved for her children, to decide as she will about her substance. For without doubt you do good yourselves, if you render aid to those who wish to do good. Consider, therefore, most beloved brethren, from how great love these things which we speak proceed, and take them all in the same spirit of charity that inspires them. For, we being one body in Christ, I burn with you in this which I feel to be to your hurt. And with what earnestness, and what affection I send you this epistle, may the Author of truth disclose to your hearts. And so let not this brotherly admonition distress you, since even a bitter cup is taken gladly, when offered with a view to health. Finally, dearest brethren, let us with united prayers implore the mercy of our God, that He would favourably order our life in His fear, to the end that we may both serve Him here as priests should do, and be able to stand in His sight hereafter secure and without fear.
 
 Epistle CXV. To Syagrius, Bishop of Augustodunum (Autun). Gregory to Syagrius, &c.
-
-62
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6004,31 +4288,19 @@ If in secular affairs every man should have his right and his proper rank preser
 
 Epistle CXVI. To Theoderic and Theodebert, Kings of the Franks. Gregory to Theoderic, &c.
 
-74
-
 Augusta Taurinarum, the modern Turin.
-
-75
 
 In parochiis suis Though the term !"#$%&'" meant originally what we should now call a bishop’s whole diocese, it came after the third century to be applied to parishes within such diocese. Hence here parochiis in the plural. Cf. Bingham, Bk. IX., ch. ii., sect. 1; Ch. viii., Sect. 1.
 
-76
-
 Viz. Theoderic and Theodebert (see VI. 58, note 1), to whom a letter on the same subject was sent at the same time, viz., Ep. CXVI., which follows. The former would be in this year (A.D. 598–9) about ten, and the latter about thirteen years of age.
 
-63
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-33
 
 Philip Schaff
 
 It is the chief good in kings to cultivate justice, and to preserve to every man his rights, and not to suffer subjects to have done to them what there is power to do, but what is equitable. Our trust that you both love and altogether aim at this invites us to indicate to your Excellency things that call for amendment, that so we may be able by our letters both to succour the oppressed and to acquire reward for you. Now they say that our brother and fellow-bishop Ursicinus, bishop of the city of Taurini (Turin), suffers very serious prejudice in his parishes that are within the limits of your kingdom, in such sort that, contrary to ecclesiastical observance, contrary to priestly gravity, and contrary to the definitions of the sacred canons, no crime of his requiring it, another has not feared to be ordained bishop there. And, it being thought not enough unless unlawfulness were added to unlawfulness, even the property of his church, as is said, has been taken away. If the truth is so, it being exceedingly intolerable that one should be oppressed by force whom guilt has not harmed, we beg of you, addressing you in the first place with a greeting of paternal charity, that what out of reverence for the Church and regard to equity your Excellency might of your own accord bestow, you would study to grant all the more kindly on our intercession, and would cause justice to be observed towards him in all respects according to the trust we have in the goodness of your equity; and that, having ascertained the truth, you would order what has been unlawfully done to be corrected, and the property that has been wrongfully taken from him to be equitably restored to him. Nor should the fact of his church being detained for the present by his enemies be at all to his disadvantage: but this ought to move more and more the disposition of your Christianity to succour him, that, being consoled by the gifts of your bounty, he may not feel the loss arising from the captivity which he has endured. For the good, then, of your soul let this our exhortation find place with you, that to your own reward you may lift up again his dejection with the outstretched hand of justice, to the end that from your observance of equity towards priests you may ever flourish through their prayers before the eyes of God.
 
 Epistle CXVII. To Brunichild, Queen of the Franks. Gregory to Brunichild, &c. Whereas for the government of a kingdom valour stands in need of justice, and power of equity, nor for this purpose can one suffice without the other, with what great love your care for these things is resplendent is shewn plainly enough by the fact of your governing crowds of nations so laudably. Who then, considering this, can distrust the goodness of your Excellency, or be doubtful of obtaining his request, when he thinks it right to ask for what he knows you would willingly
-
-64
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6038,15 +4310,9 @@ bestow upon your subjects? The bearer, then, of these presents, Hilarius77, a se
 
 Epistle CXX. To Claudius in Spain78. Gregory to Claudius, &c. The renown of good deeds being fragrant after the manner of ointment, the odour of your glory has extended from the Western parts as far as here. Besprinkled by the sweetness of which breath of air, I declare that I greatly loved one whom I knew not, and within the bosom of my heart seized thee with the hand of love; nor did I love without already knowing him to be one whose good qualities I had learnt. For of him who is known to me by great intenseness of feeling, but remains unknown by bodily vision, I undoubtedly can say truly that I know his person, though I know not his home. Now herein is a great assertion of your good repute, that your Glory is said to cleave sedulously to the excellent king of the Goths; since, while good men always displease bad ones, it is certain that you are good, who have pleased one that is good. For this reason, addressing you with the greeting that is due to you, I hope that you are being exercised in these things which you have begun, so that that true sentence of Solomon may be fulfilled in you—The path of the just is as a shining light, and groweth unto the perfect day (Prov. iv. 18). For, now that the light of truth shines upon us, and the sweetness of the heavenly kingdom discloses itself to our minds, it is indeed already day, but not yet perfect day. But it will then be perfect day, when there shall be no longer
 
-77
-
 Who this Hilarius was, and what were his grievances, does not appear.
 
-78
-
 This Claudius appears to have been a person of influence in the court of King Reccared, and no doubt a good Catholic, of whose virtues Gregory may have heard from his friend Leander of Seville. The object of this very complimentary letter to him was to commend to his favour the abbot Cyriacus, who, as appears from preceding epistles, had been sent into Gaul to bring about the assembling of a synod there, and who appears from this epistle to have been sent on into Spain, though for what particular purpose does not appear. Cf. Proleg., p. xi.
-
-65
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6056,15 +4322,9 @@ anything of the night of sin in our souls. But do you grow unto the perfect day,
 
 Epistle CXXI. To Leander, Bishop of Hispalis (Seville). Gregory to Leander, Bishop of Spain. I have the epistle of thy Holiness, written with the pen of charity alone. For what the tongue transferred to the paper had got its tincture from the heart. Good and wise men were present when it was read, and at once their bowels were stirred with emotion. Everyone began to seize thee in his heart with the hand of love, for that in that epistle the sweetness of thy disposition was not to be heard, but seen. All severally were inflamed, and all admired, and the very fire of the hearers shewed what had been the ardour of the speaker. For, unless torches burn themselves, they will not kindle others. We saw, then, with how great charity thy mind was aflame, seeing that it so kindled others also. Your life indeed, which I always remember with great reverence, they did not know; but the loftiness of your heart was manifest to them from the lowliness of your language. As to my life, this your epistle speaks of it as worthy of imitation by all: but may that which is not as it is said to be become so because it is said to be so, lest one should lie who is not wont to lie. In reply to this, however, I speak shortly the words of a certain good woman, Call me not Noemi, that is, fair; but call me Mara, for I am full of bitterness (Ruth i. 20). For indeed, good man, I am not to-day the man you knew. For I confess that in advancing outwardly I have fallen much inwardly, and I fear that I am of the number of those of whom it is written, Thou didst cast them down while they were lifted up (Ps. lxxii. 1879). For he is cast down when he is lifted up who advances in honours, and falls in manners. For I, following the ways of my Head, had determined to be the scorn of men and the outcast of the people, and to run in the lot of him of whom again it is said by the Psalmist, The ascents in his heart he hath disposed in the valley of tears (Ps. lxxxiii. 780); that is, that I should ascend inwardly all the more truly as I lay outwardly the more humbly in the valley of tears. But now burdensome honour much depresses me, innumerable cares din me, and, when
 
-79
-
 In English Bible, lxxiii. 18.
 
-80
-
 In English Bible, lxxiv. 5, 6, differently.
-
-66
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6078,11 +4338,7 @@ To Rechared, King of the Visigoths82. 81
 
 li. 14, in English Bible.
 
-82
-
 Reccared, the Visigoth king of Spain, previously an Arian, had declared himself a Catholic A.D. 587, and had formally adopted Catholicism as the creed of the Spanish Church at the council of Toledo, A.D. 589. See I. 43, note 9. This is the only
-
-67
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6094,21 +4350,13 @@ extant letter addressed to the king himself by Gregory, its date, if rightly pla
 
 In English Bible, lxxvii. 10, differently.
 
-68
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-36
 
 Philip Schaff
 
 the offerer. You shew, therefore, how acceptable your offering is, seeing that, being about to give gold, you have first given gifts of souls by the conversion of the nation subject to you. With regard to your telling us that the abbots who were sent to us to bring your offering to the blessed Apostle Peter had been wearied by the violence of the sea and returned to Spain without accomplishing their voyage84, your gifts were not kept back, for they reached us afterwards; but the constancy of those who had been sent has been tried, as to whether they knew how with holy desire to overcome dangers in their way, and, though fatigued in body, by no means to be wearied in mind. For adversity which comes in the way of good purposes is a trial of virtue, not a judgment of reprobation. For who can be ignorant how prosperous an event it was that the blessed Apostle Paul came to Italy to preach, and yet in coming suffered shipwreck? But the ship of the heart stood unharmed among the billows of the sea. Furthermore, I must tell you that I have been led to praise God the more for your work by what I have learnt from the report of my most beloved son Probinus the presbyter; namely that, your Excellency having issued a certain ordinance against the perfidy of the Jews, those to whom it related attempted to bend the rectitude of your mind by offering a sum of money; which your Excellency scorned, and, seeking to satisfy the judgment of Almighty God, preferred innocence to gold. With regard to this what was done by King David recurs to my mind, who, when the longed for water from the cistern of Bethlehem, which was wedged in by the enemy, had been brought him by obedient soldiers, said, God forbid that I should drink the blood of righteous men (1 Chron. xi. 19). And, because he poured it out and would not drink it, it is written, He offered it a libation to the Lord. If, then, water was scorned by the armed king, and turned into a sacrifice to God, we may estimate what manner of sacrifice to Almighty God has been offered by the king who for His love has scorned to receive, not water, but gold. Wherefore, most excellent son, I will confidently say that thou hast offered as a libation to the Lord the gold which thou wouldest not have in opposition to Him. These are great things, and redound to the praise of Almighty God. But in the midst of all these things we must guard with vigilant attention against the snares of the ancient foe, who, the greater gifts he sees among men, with the more subtle snares seeks to take them away. For robbers too do not look out for empty travellers to seize them on their road, but such as carry vessels of gold and silver. For indeed the present life is a road. And every one must needs be the more on his guard against ambushed spirits in proportion as the gifts are greater which he carries. It is the duty, then, of your Excellency, with regard to this so great gift which you have received in the conversion of the nation subject to you, to keep with all your might, first humility of heart, and secondly cleanness of body. For where it is written, Every one that exalteth himself shall be humbled, and he that humbleth himself shall be exalted (Luke xiv. 11; xviii. 14), it is assuredly evident that he truly loves what is lofty who does not cut off his soul from the root of humility. For often the malignant spirit, in order to destroy the good that previously he had not power to oppose, comes into the mind of the worker after accomplishment of his work, and agitates
 
-84
-
 See IX. 61.
-
-69
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6116,11 +4364,7 @@ Philip Schaff
 
 it with silent thoughts of self-praise, so that the deluded mind admires itself for the great things that it has done. And, being exalted in its own sight through hidden tumour, it is deprived of the grace of Him Who bestowed the gift. For hence it is that it is said through the voice of the prophet to the soul that waxes proud, Having trust in thy beauty thou playedst the harlot because of thy renown (Ezek. xvi. 15). For indeed a soul’s having trust in its beauty is its presuming within itself on its righteous doings. And it plays the harlot because of its renown, when in what it has done aright it desires not the praise of its Maker to be spread abroad, but seeks the glory of its own reputation. Hence again it is written through the prophet, In that thou art more beautiful, go down (Ezek. xxxii. 19). For the soul goes down because of being more beautiful when, owing to the comeliness of virtue whereby it ought to have been exalted before God, it falls from His grace through elation. What then is to be done in this case but that, when the malignant spirit employs the good things that we have done to exalt the mind, we should ever recall to memory our evil deeds, to the end that we may acknowledge that what we have done sinfully is our own, but that it is of the gift of Almighty God alone when we avoid sins. Cleanness also of body is to be guarded in our strivings after well-doing, since, according to the voice of the apostolic preacher, The temple of God is holy, which temple ye are (1 Cor. iii. 17). And again he says, For this is the will of God, even your sanctification (1 Thess. iv. 3). As to which sanctification, what he means by it he shews by straightway adding, That ye should abstain from fornication, that every one of you should know how to possess his vessel in sanctification and honour, not in the lusts of concupiscence. The very government also of your kingdom in relation to your subjects ought to be tempered with moderation, lest power steal upon your mind. For a kingdom is ruled well when the glory of reigning does not dominate the disposition. Care also is to be taken that wrath creep not in, lest whatever is lawful to be done be done too hastily. For wrath, even when it prosecutes the faults of delinquents, ought not to go before the mind as a mistress, but attend as a handmaid behind the back of reason, that it may come to the front when bidden. For, if once it begins to have possession of the mind, it accounts as just what it does cruelly. For hence it is written, The wrath of man worketh not the righteousness of God (Jam. i. 20). Hence again it is said, Let every man be swift to hear, but slow to speak, and slow to wrath (Ib. 19). However I doubt not that under the guidance of God you observe all these things. Still, now that an opportunity of admonition has arisen, I join myself furtively to your good deeds, so that what you do though not admonished you may not do alone, having an admonisher to boot. Now may Almighty God protect you in all your doings by the stretching out of His heavenly arm, and grant you prosperity in the present life, and after a course of many years eternal joys. We have sent you a small key from the most sacred body of the blessed apostle Peter to convey his blessing, containing iron from his chains, that what had bound his neck for martyrdom may loose yours from all sins. We have given also to the bearer of these presents, to be offered to you, a cross in which there is some of the wood of the Lord’s cross, and hairs of the blessed John the
 
-70
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-37
 
 Philip Schaff
 
@@ -6128,15 +4372,9 @@ Baptist, from which you may ever have the succour of our Saviour through the int
 
 Epistle CXXIII. To Venantius and Italica86.
 
-85
-
 What follows is preceded by “Item in anagnostico.” (The word is thus explained in D’Arnis’ Lexicon Manuale; “Græcis id omne est quod legitur aut recitatur. Unde Gregorius Magnus pro epistola aut quovis scripto vocem hanc usurpat.”) The whole is absent from many MSS., and in one of those preserved in Bibliotheca Colbertina it is given, without the heading Item in anognostico, as a separate epistle, entitled “Secunda ad Recharedum,” and concludes thus: “Furthermore we have received the gifts of your Excellency, which have been sent for the poor of the blessed apostle Peter, namely three hundred cocullæ (cowls): and, as much as we can, we earnestly pray that you may have as your protector in the tremendous day of judgment Him whose poor you have protected by abundance of clothes. Our not sending at once a man of ours to your Excellency has been owing to the want of a ship: for none can be found that can proceed from these parts to the shores of Spain.” The fact of a second key containing filings of St. Peter’s chains being referred to as sent to Reccared in this concluding portion of the epistle confirms the probability of its having been part of a subsequent letter. For two such keys were not likely to be sent at the same time.
 
-86
-
 See I. 34, note 8.
-
-71
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6146,15 +4384,9 @@ Gregory to the lord Venantius, Patrician, and Italica his wife. I have taken car
 
 Epistle CXXV. To Maximus, Bishop of Salona87.
 
-38
-
 Gregory to Maximus, &c. Having received the letters of our brother and fellow-bishop Marinianus, and Castorius, our chartularius, having also returned, we learn that your Fraternity have made most full satisfaction with regard to the matters about which there had been uncertainty; and we return great thanks to Almighty God that from our inmost heart all rancour of sinister suspicion has been eradicated. On this account I have been desirous of dismissing with the utmost speed our common son, your deacon Stephen. But the frequent pains of my sicknesses have compelled me to retain him with me for a
 
-87
-
 See III. 47, note 2, and IX. 81.
-
-72
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6166,19 +4398,13 @@ Epistle CXXVII. From S. Columbanus to Pope Gregory89. 88 89
 
 See IX. 80, VI. 27, note 6; VII. 17, IX. 80. This epistle of the Irish saint Columbanus to Gregory was added to the Registrum Epistolarum by the Benedictine editors, having been first published, with other writings of S. Columban, by Patrick Fleming in Collectanea sacra; Lovan. A.D. 1667.
 
-73
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
 
 (See Galland. Bibliotheca veterum patrum. Sæc. VI. circ. A.D. 589.) It is assigned by the Benedictines to A.D. 598–9, and hence placed at the end of Book IX. of Gregory’s Epistles. At this time St. Columban was at the monastery founded by him at Luxovium (Luxueil) among the Vosges mountains in Burgundy over which country Theoderic II. was now king. He had already given offence in Gaul, not only by his protest in life and teaching against prevalent laxity, but also by his continuing to observe and uphold the custom of his own Celtic Church with regard to the time for keeping Easter, which differed from what had now been adopted by Rome and prevailed in the West generally. The main purpose of this epistle is to plead with pope Gregory for approval of the Celtic tradition. Subsequently, a synod being held in Gaul for considering the question, he addressed the bishops there assembled in a letter which is also extant, defending, as in this epistle, the Celtic usage, and pleading for being allowed at any rate to follow it himself in peace (S. Columbani, Ep. II. in Collectan. sacr.) It may be observed in the epistle before us, as also in a subsequent one to pope Boniface IV. with reference to the same subject (S. Columbani, Ep. V.; Collectan. sacr), that, though addressing the bishop of Rome in language of the utmost deference, and recognizing his high position, he shews no disposition to submit to his authority; telling him on the contrary that should he declare himself so as to contradict the supposed teaching of St. Jerome, he would be rejected as heretical by all the Celtic churches. And throughout the letter there runs a vein of sarcasm. There is no extant reply from Gregory to the letter. Probably none was sent. Possibly the letter never reached its destination: for in the subsequent letter, above referred to, to Boniface IV. Columban says, “Once and again Satan hindered the bearers of our letters written formerly to pope Gregory of good memory, which are subjoined below.” The point at issue, and Columban’s argument, as it appears in this letter, may be briefly stated thus. Apart from any differences in the cycles for calculating the true day of the Paschal full moon in successive years, there was this difference between the Celtic and Roman usages. While all agreed in keeping Easter on a Sunday, the Celtic use was to keep it on the day of the Paschal full moon itself (i.e. the calculated 14th day of the moon falling on, or next after, the Vernal Equinox), in case of such a day falling on a Sunday; whereas the Roman was, in such a case, to defer their Easter celebration till the following Sunday, so as to avoid coincidence with the actual day of the Jewish Passover. Hence, in Bede’s account of the controversy on the subject between the British and Scottish (i.e. Irish) Churches on the one hand and the Roman on the other, he speaks of the former keeping their Easter between the 14th and the 20th days of the moon inclusive, but the latter between the 15th and the 21st (Bede, H. E. II. 2; III. 25). In Gaul however, as appears from the letter before us, it was the rule to defer Easter for a week in case of the day of the Paschal full moon (i.e. the 14th) falling on a Saturday, so as to avoid coincidence even with the 15th day of the moon. Hence, agreeing with Bede as to the Celtic usage being to keep Easter between the 14th and 20th days, he speaks not of the 15th and 21st, but of the 16th and the 22nd being the extreme limits according to the Gallic usage. The reason of this difference was, that it had once been the Latin use, as against the Alexandrian, to keep Easter from the 16th to the 22nd days, thus avoiding the 15th; and this rule had been retained in the cycle of Victorius (as to whom see below, note 7), which was still received in Gaul. The arguments of St. Columban in defence of the Celtic usage may be thus summarized. 1. It had been sanctioned by Anatolius (see below, note 5), whose view had been approved by St. Jerome. 2. To defer Easter to the 22nd, or even the 21st day was incongruous, seeing that the moon then entered her last quarter, rising so late as to give darkness preponderance over light; and the solemnity of light should not be celebrated under the domination of darkness. He quotes Anatolius as having insisted on this principle, of which (we may here observe) we find an intimation in Philo with reference to the Jewish
 
-74
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-39
 
 Philip Schaff
 
@@ -6188,15 +4414,9 @@ Passover:—“That not only by day but also by night the world may be full of a
 
 Theoria utpote divina castulitatis potito. The wordcastulitas may possibly have been in use among the Irish monks as an endearing diminutive of castitas(i.e. chastity or purity), regarded as the object of their affections in the contemplative life. Their writers appear to have been given to the use of such diminutives, not only of the names of people, but of other words also.—“In the following pages (sc. in Adamnan’s Life of St. Columba) the reader will observe the liberal employment of diminutives, so characteristic of Irish composition; and he will find them, in many cases, used without any grammatical force, and commutable, in the same chapters, with their primitives.” (Reeve’s Adamnan. Appendix to Preface, Ed., 1857, p. lxi.).
 
-91
-
 Perhaps an error for Barjona, meaning ‘son of a dove,’ in allusion to his name, Columba, or Columbanus. He afterwards calls himself “vilis columba.” Cf. “Pauperculus præpotenti (mirum dictu! nova res!) rara avis scribere audet Bonifacio patri Palumbus:” “Sed talia suadenti, utpote torpenti actu, ac dicenti potius quam facienti mihi, Jonæ Hebraice, Peristeræ Græce, Columbæ Latine, potius tantum \[al. tamen\] vestræ idiomate linguæ nancto \[al. nuncupato\], (S. Columbani Ep. V. ad Bonifacium papam IV. Collectan. sacr. Patr. Fleming. Galland. sæc. VI. c. A.D. 598). Cf. “Vir erat vitæ venerabilis et beatæ memoriæ, monasteriorum pater et fundator, cum Jona propheta homonymum sortitus nomen; nam licet diverso trium diversarum sono linguarum, unam tamen eandemque rem significat hoc quod Hebraice dicitur Jona, Græcitas vero !"#$%&"#' vocitat, et Latina lingua Columba nuncupatur.” (Adamnan’s Life of S. Columba; Secunda Præfatio.) Du Cange suggests a corruption of Barginna, said to be a low Latin word, equivalent to peregrinus.
 
-92
-
 The meaning of this word is obscure. Patrick Fleming (Collect. Sacr.) suggests an error for compte pictam: Du Cange for comptam, or acu comptam, some artificial arrangement of the hair being supposed to be referred to. The intended point of the comparison seems to be, that Gregory will still be admirable, though the writer may set him off unskilfully.
-
-75
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6204,59 +4424,33 @@ Philip Schaff
 
 to thee, and impose on thee the matter of my grief. For writing is not in vain, when necessity compels one to write, though it be to one’s betters. What, then, dost thou say concerning Easter on the 21st or 22nd day of the moon, which (with thy peace be it said) is proved by many calculators not to be Easter, but in truth a time of darkness? For it is not unknown, as I believe, to thy Efficiency, how Anatolius93 (a man of wonderful learning, as says Saint Hieronymus, extracts from whose writings Eusebius, bishop of Cæsarea, inserted in his Ecclesiastical History, and Saint Hieronymus praised this same work about Easter in his catalogue) disputes with strong disapprobation about this age of the moon. For against the Gallican Rimarii94, who erred, as he says, about Easter, he introduced an awful sentence, saying, Certainly, if the rising of the moon be delayed till the end of two watches, which indicates midnight, light does not overcome darkness, but darkness light; which thing is certainly not allowable in the Easter Festival, namely, that any part of the darkness should dominate over the light, since the solemnity of the Lord’s Resurrection is light, and there is no communion of light with darkness. And, if the moon has not shone forth till the third watch, there is no doubt that the moon has risen on its 21st or 22nd day, in which it is not possible for a true Paschal offering to be made. For those who lay down that it is possible for a true Easter to be celebrated at this age of the moon, not only are unable to affirm this by authority of divine Scripture, but also incur the guilt of sacrilege and contumacy and peril of their souls, while affirming that the true Light, which dominates over all darkness, can be offered while there is any domination of darkness. Also in the book of holy dogma we read, Easter, that is, the solemnity of the Lord’s Resurrection, cannot be celebrated before the beginning of the vernal equinox is past, to wit, that it may not come before the vernal equinox95:
 
-93
-
 Anatolius, an Alexandrian by birth and bishop of Laodicea, A.D. 269, is referred to by Eusebius (H. E. VII. 32) as distinguished for learning, and the writer of a work on the Paschal question, which he quotes. A “Canon Paschalis,” purporting to be this work, was published by Bucherius in a Latin Version (Doct. Temp. Antv. 1634); but its genuineness is doubted. Anatolius was adduced by Colman at the Synod of Whitby (Bede, H. E. III. 25), as an authority for the 14th and 20th days of the moon being the limits for Easter. But Wilfrid replied that Anatolius had been misunderstood; for that, having in view the Egyptian mode of reckoning days from sunset to sunset, he had meant the day which began after sunset on the 14th day, i.e. really the 15th. And so also with regard to the 20th day. His language, as quoted by Eusebius, supports this explanation of his meaning:—“Given that the day of the Passover is on the fourteenth of the moon after evening (!"#$ %&'()\*+).” See above, end of note 1.
-
-94
 
 “Forte sic dictos, quod obscura et difficilia rimarentur.” Benedictine edit. Migne.—“Nostri rimeurs vocant poetastras, sed an ea sit hic notio non definio.” Du Cange.
 
-95
-
 The original here, being probably an incorrect citation, is obscure. It is “Pascha, ed est solemnitas dominicæ Resurrectionis, ante transgressum vernalis æquinoctii 16 initiam non potest celebrari, ut scilicet æquinoctium non antecedat.”
 
-76
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-40
 
 Philip Schaff
 
 which rule assuredly Victorius96 has gone beyond in his cycle, and hereby has already introduced error into Gaul, or to speak less boldly, has confirmed one of old standing. For indeed how can either of these things stand with reason; either that the Lord’s Resurrection should be celebrated before His Passion (the thought of which is absurd), or that the seven days sanctioned by the Lord’s command in the Law, during which only it is enjoined that the Lord’s Passover could lawfully be eaten (which are to be numbered from the 14th day of the moon to the 20th), should against law and right be exceeded? For a moon in its 21st or 22nd day is out of the dominion of light, as having risen at that time after midnight; and, when darkness overcomes light, it is said to be impious to keep the solemnity of light. Why then dost thou, who art so wise, the brilliant lights indeed of whose sacred genius are diffused, as in ancient times, through the world,—why dost thou keep a dark Easter? I wonder, I confess, that this error of Gaul, ac si Schynteneum97, has not long ago been swept away by thee; unless I should perchance suppose, what I can hardly believe, that, as it is evident that thou hast not corrected it, it has thy approval. In another way, however, may thy Expertness be more honourably excused, if, fearing to subject thyself to the mark of Hermagoric98 novelty, thou art content with the authority of thy predecessors, and especially of pope Leo. Do not, I pray thee, in such a question trust to humility only or to gravity, which are often deceived, Better by far is a living dog in this problem than a dead lion (Eccles. ix. 4). For a living saint may correct what had not been corrected by another who came before him. For know thou that by our masters and the Irish ancients, who were philosophers and most wise computists in constructing calculations, Victorius was not received, but held rather worthy of ridicule or of excuse than as carrying authority. Wherefore to me, as a timid stranger rather than as a sciolist, afford the support of thy judgment, and disdain not to send us speedily the suffrage of thy Placability for assuaging this tempest which surrounds us; since, after so many authors whom I have read, I am not satisfied with that one sentence of those bishops who say only, We ought not to keep the Passover
 
-96
-
 Pope Leo I. referred the question between the Roman and Alexandrian Churches as to the computation of Easter to his archdeacon (afterwards pope) Hilarius for investigation; and he referred it to Victorius of Aquitaine, who consequently (A.D. 457) drew up a cycle, which was accepted first in the Gallican Churches (Concil. Aurel. IV., an. 541), and continued to be observed there after it had been superseded in Italy by that of Dionysius Exiguus (A.D. 527). See above, note 1.
-
-97
 
 “Schynteneum Græcam vocem !"#$%#&'%() putat Editor, id est, tanquam si rectum et legitimum esset.” Du Cange. This interpretation appears probable from the fact that the Irish writers of the period were given to air their Greek learning by the rise of such words.—“He (Adamnan) occasionally employs Greek or Græco-Latin words” (Reeves’s Adamnan. p. lxi. See also p. 158, note, for other evidence of this Irish tendency). The meaning in the text would thus be, “I wonder that this error should be tolerated by thee as though it were right and legitimate.”
 
-98
-
 Hermagoricæ novitatis; the epithet being apparently formed from the name of Hermagoras of Temnos, a distinguished Greek rhetorician of the time of Pompey and Cicero. He devoted peculiar attention to what is called the invention. Quintilian refers to him and approves his system: Cicero (De Invent. i. 6) was opposed to it. The use of a word like this is again characteristic of the Irish writers.
 
-77
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-41
 
 Philip Schaff
 
 with the Jews. For this is what the bishop Victor formerly said; but none of the Easterns accepted his figment99. But this the benumbing (numb?) backbone of Dagon; this the dotage of error drinks in100. Of what worth, I ask, is this sentence, so frivolous and so rude and resting, as it does, on no testimonies of sacred Scripture; We ought not to keep the Passover with the Jews? What has it to do with the question? Are the reprobate Jews to be supposed to keep the Passover now, seeing that they are without a temple, outside Jerusalem, and Christ, who was formerly prefigured, having been crucified by them? Or, can it be rightly supposed that the 14th day of the moon for the Passover was of their own appointment, and is it not rather to be acknowledged to be of God’s, who alone knew clearly with what mysterious meaning the 14th day of the moon was chosen for the passage \[out of Egypt\]. Perhaps to wise men and the like of thee this may be in some degree clearer than to others. As to those who make this objection, although without authority, let them upbraid God for that He did not then beforehand guard against the contumacy of the Jews by enjoining on them in the Law nine days of unleavened bread, if He would not have us keep the Passover with them, so that the beginning of our solemnity should not exceed the end of theirs. For, if Easter is to be celebrated on the 21st or 22nd day, from the 14th to the 22nd nine days will be reckoned, that is, seven ordered by God, and two added by men. But, if it is allowed for men to add anything of their own accord to divine decree, I ask whether this may not seem opposed to that sentence of Deuteronomy, Lo (he saith), the word which I give unto thee, thou shalt not add unto it nor take from it (Deut. iv. 2). But in writing all this more forwardly than humbly, I know that I have involved myself in an Euripus of presumption attended with great difficulty, being perchance unskilled to steer out of it. Nor does it befit our place or rank that anything should be suggested in the way of discussion to thy great authority, and that my Western letters should ridiculously solicit thee, who sittest
 
-99
-
 i.e. pope Victor in his opposition towards the end of the second century to the Asiatic Quarto-decimans who kept their Pasch on the day of the Paschal full moon, whatever the day of the week might be. Colman at the synod of Whitby had alleged St. John, to whom the Asiatics had traced their tradition, as an authority for the Scottish usage. But Wilfrid truly alleged in reply that the question at issue between the Scots and Romans at that time was a different one, since both parties agreed in keeping Easter on a Sunday only. Still, Columban’s argument here is to the point as shewing that the Easterns had not objected to keeping Easter on the actual day of the Jewish Passover. It may be noted here how the authority of Victor, as well as of other popes, is set at naught by S. Columbanus.
 
-100
-
 Sed hoc soporans spina Dagonis, hoc imbibit bubum erroris. On these obscure expressions it may be observed that spina Dagonis evidently means what was left to the fish-god (!"#$% in LXX.), after his head and hands had been severed. Gregory, in his comment on 1 Sam. v., interprets it as denoting heathenism prostrate, and at length deprived of even the semblance of rationality, in the presence of the Gospel, which was represented by the ark. Columban may possibly have got the idea from Gregory’s own interpretation of the incident, and been pleased to use it against him. Bubum,according to Du Cange, is a late Latin word denoting senium, or languor, the noun bubulaalso being used in the sense of fabula. The idea seems to be that pope Victor’s view was a figment, worthy only to be received (or, as we might now say, swallowed) by senseless heathenism or wandering dotage.
-
-78
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6264,33 +4458,19 @@ Philip Schaff
 
 legitimately on the seat of the apostle and key-bearer Peter, on the subject of Easter. But thou oughtest to consider not so much worthless me in this matter as many masters, both departed and now living, who confirm what I have pointed out, and suppose thyself to be holding a colloquy with them: for know that I open my thick-lipped month dutifully though it may be incoherently and extravagantly. It is for thee, therefore, either to excuse or to condemn Victorius, knowing that, if thou approvest him, it will be a question of faith between thee and the aforesaid Hieronymus, seeing that he approved Anatolius, who is opposed to Victorius; so that whoso follows the one cannot receive the other. Let, then, thy Vigilance take thought that, in approving the faith of one of the two authors aforesaid who are mutually opposed to each other, there be no dissonance, when thou pronouncest thy opinion, between thee and Hieronymus, lest we should be on all sides in a strait, as to whether we should agree with thee or with him. Spare the weak in this matter, lest thou exhibit the scandal of diversity. For I frankly acknowledge to thee that any one who goes against the authority of Saint Hieronymus will be one to be repudiated as a heretic among the churches of the West: for they accommodate their faith in all respects unhesitatingly to him with regard to the Divine Scriptures. But let this suffice with respect to Easter. But I ask what thy judgment is about those bishops whom thou hast written of as simoniacal, and whom the writer Giltas101 calls pests. Should communion be had with them? For there are known to be many such in this province, whereby the matter is made more serious. Or as to others, who having been polluted in their diaconate, are afterwards elected to the rank of bishops? For there are some whom we know to have conscientious scruples on these grounds; and in conferring with our littleness about them, they wished to know for certain whether they may minister without peril after such transgressions; that is, either after having bought their rank for money, or after adultery in their diaconate. I mean, however, concealed adultery with their dependents102, which with our teachers is accounted as no less criminal. As to a third head of enquiry, say in reply, I pray thee, if it is not troublesome, what should be done in the case of those monks who for a closer sight of God, or inflamed by a longing for a more perfect life, going against their vows, leave the places of their first conversion, and, against the will of their abbots, the fervour of monks compelling them, either go free or fly to deserts. The author Vennianus enquired about these of Giltas, who replied to him most elegantly: yet still to one who is anxious to learn there is ever an increase of greater fear. These things, and much more which epistolary brevity does not admit of, might well have been enquired about more humbly and more clearly in a personal interview, but that weakness of body and the care of my fellow-pilgrims keeps me bound at home, though desirous of going to thee, so as to draw from that spiritual vein of a living well and from the living water of knowledge flowing from heaven and springing up unto eternal life. And, if my body were to follow my mind, Rome would once more be in danger of
 
-101
-
 Meaning Gildas.
-
-102
 
 Cum clientelis: meaning perhaps living with females of their own households as concubines, in distinction from open transgression. The word can hardly denote, as suggested by the Benedictine Editors, wives lawfully married before ordination.
 
-79
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-42
 
 Philip Schaff
 
 being itself despised; seeing that—even as we read in the narration of the learned Hieronymus how certain persons once came to Rome from the utmost boundaries of the Heuline coast103; and then (wonderful to be told) sought something else outside of Rome—so I too, saving reverence for the ashes of the saints should seek out longingly, not Rome but thee: for, though I confess myself not to be wise, but athirst, I should do this same thing if I had time and opportunity. I have read thy book containing the Pastoral Rule, short in style, lengthy in teaching, full of mysteries; and acknowledge it to be a work sweeter than honey to one that is in need. Wherefore bestow, I pray thee, on me who am athirst for what is thine, the works on Ezekiel, which, as I have heard, thou hast elaborated with wonderful genius. I have read the six books of Hieronymus on that prophet; but he has not expounded the middle part. But, if thou wilt do me the favour, send for me to the city some of thy remaining writings; to wit, the concluding expositions of one book, and (? namely) the Song of Songs from that place where it is said, I will go to the mountain of myrrh and the hill of frankincense, to the end, treated with short comments, either of others, or thine own: and I beg that thou wouldest expound the whole obscurity of Zachariah, and make manifest its hidden meaning, that Western blindness may give thee thanks for this. I make unreasonable demands, and ask to have great things told me: who can fail to see this? But it is true also that thou hast great things, and knowest well that from a little less, and from much more should be put out to use. Let charity induce thee to write in reply; let not the roughness of my letter hinder thee from expounding, seeing that it is my mode of expression that has been in fault, and I have it in my heart to pay thee due honour. It was for me to provoke, to interrogate, to request: it is for thee not to refuse what thou hast received freely, to put thy talent out to use, to give to him that asks the bread of doctrine, as Christ enjoins. Peace be to thee and thine; pardon my forwardness, blessed pope, in that I have written so boldly; and I pray thee in thy holy prayers to our common Lord to pray for me, a most vile sinner. I think it quite superfluous to commend to thee my people, whom the Saviour judges fit to be received, as walking in His name; and if, as I have heard from thy holy Candidus104, thou shouldest be disposed to say in reply that things confirmed by ancient usage cannot be changed, error is manifestly ancient; but truth which reproves it is ever more ancient still.
 
-103
-
 De ultimis Heulini, litoris finibus.— “Loco Heulini esse legendum Hualini, vel Huelini constat ex contextu Hieronymiano. Est vox Græca, a rad. !"#$%, sive !&#$%, vitrum, crystallus. Sic mare vocatur (Apocal. iv.) '(#"))" \*"#+,-. In Hieronymo hic legimus; De ultimis Hispaniæ Galliarumque finibus” (note in Benedictine Edition). See above, note 8, as to the fondness of the old Irish writers for the use of Greek words.
 
-104
-
 Candidus had been sent by Gregory to Gaul as rector patrimonii there. See previous Epistles.
-
-80
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6302,11 +4482,7 @@ Epistle X. To Romanus, Guardian (Defensorem). Gregory to Romanus, our guardian i
 
 Epistle XV. To Clementina, Patrician105. Gregory to Clementina, &c. It has reached us by the report of a certain Abbot that your Glory has been told by certain evil-speakers that we have a pique against you. If this is so, whosoever have made up this story have been double towards you under a shew of sincerity, so as to shew themselves off as faithful, and wickedly cause you to doubt us. But I, glorious daughter, knowing thy good qualities of old, and especially the chastity which has been thy companion from youth, have ever regarded thee with great respect and affection. But, lest even now your Glory should suspect that my heart is changed, I declare that there is not in me a scruple of ill-feeling or anger towards you; but be assured that I evince paternal affection for you. One thing, however, that has been told me I ought not to pass over in silence, lest there should begin to be a diminution of charity, if what needs to be said for amendment were suppressed. For indeed it has been reported to me that, when any one has offended you, you retain soreness unremittingly. Now, if this is true, since the more I love you the more grieved I am, I beg that you would nobly rid yourself of this fault, and not suffer the seed of the enemy to grow to the detriment of your crop of well-doing. Let the words of the Lord’s Prayer be brought back to your memory,
 
-105
-
 Clementina was one of the ladies of rank whose acquaintance Gregory had made at Constantinople, and with whom he continued to keep up affectionate fatherly intercourse. Cf. I. 11, and the epistle which follows this.
-
-81
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6316,15 +4492,9 @@ and let not blame prevail with you over pardon. Let the goodness of your Glory g
 
 Epistle XVIII. To Clementina, Patrician106.
 
-44
-
 Gregory to Clementina, &c. Know, glorious daughter, that the presbyter Amandus has been elected to the episcopate by the people of Surrentum. And, we having written for him to be sent hither, you ought not to be saddened for his absence, seeing that one who is with you in heart should not even be believed to be departing from you. And, since he who once pleased you is acceptable to those who want a bishop, bless Almighty God for this, and with Christian devotion rejoice the more; and gladly do your best to further his coming to us for the advantage of others speedily, since it is the part of sincere charity to exult when one who is loved is called that he may grow.
 
-106
-
 It is a sign of Gregory’s habitual courtesy to ladies of rank, as well as of their influential position, that he is moved to send her a kind of apology for removing from Constantinople a priest whom she valued, and who may have been her spiritual adviser. See also the epistle which follows, in which the subdeacon in charge of the proceedings is directed to resort to her in person to solicit her consent. Amandus was after his death venerated as a Saint at Surrentum. In the Church of SS. Felix and Baculus there is this epitaph;—“Hic requiescit sacerdos Dei Amandus episcopus sanctæ ecclesiæ Surrentinæ, qui sedit annos xvii. dies xxi. Depositus est die 13, mense Aprilis, indict. 5, imperante D.N. Heraclio R. Aug. anno 7. Orate pro me, sancte Pater,” (Migne, Patrilog., in loc.)
-
-82
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6334,19 +4504,11 @@ Epistle XIX. To Anthemius, Subdeacon. Gregory to Anthemius, Subdeacon of Campani
 
 Epistle XXIII. To Adrian, Notary of Sicily108. Gregory to Adrian, &c. A thing to us altogether detestable and infamous has come to our ears, and we wonder why, if it is true, thou hast not taken notice of it. For Martianus, a monk of the monastery of Saint Vitus, situate on Mount Ætna, has come to us, and presented a petition, complaining among other things that the monks of this monastery live so perversely and wickedly as to dare to have women living with them, which is a thing atrocious to be spoken of. And, seeing that we have written on this matter to our brother and fellow-bishop Leo109, in order that, having enquired into the truth, he may, if he should find it to be so, be at pains to correct it with the strictest severity, it is necessary for thy Experience also to shew thyself in all respects solicitous for investigation of the truth, and punishment of so great a wickedness; so that nothing may be found to be done remissly or
 
-107
-
 Bishop of Naples.
-
-108
 
 As to the employment of notaries, see Prolegomena, p. viii.
 
-109
-
 Bishop of Catana in Sicily, to whom a previous epistle (Ep. XXII., not here translated) on the same subject is addressed. Several years previously he had been summoned to Rome to answer certain charges against him, but had been honourably acquitted. Cf. I. 72; II. 33.
-
-83
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6356,17 +4518,11 @@ negligently. Further, for the interests in other respects of the same monastery,
 
 Epistle XXIV. To Fortunatus, Bishop of Neapolis (Naples).
 
-45
-
 Gregory to Fortunatus, &c. When your Fraternity pays too little attention to the monasteries that are under you, you both lay yourself open to reproof, and make us sorry for your laxity. Now it has come to our ears that one Mauricius, who lately became a monk in the monastery of Barbacianus, has fled from the same monastery, taking other monks with him. In this case the hastiness of the aforesaid Barbacianus inculpates him exceedingly in our sight, in that he rashly tonsured a secular person without even previous probation. Did we not write to you that you should prove him first, and then, if he were fit, should make him abbot? Even now, then, look well after him whom you chose. For you are delinquent in his delinquency, if he has begun so to demean himself as to shew himself unfit to have the government of brethren. Further, let your Fraternity more strictly interdict all monasteries from venturing by any means to tonsure those whom they may have received for monastic profession before they have completed two years in monastic life. But in this space of time let their life and manners be carefully proved, lest any one of them should either not be content with what he had desired or not keep firm to what he had chosen. For, it being a serious matter that untried men should be associated under obedience to any master, how much more serious is it that any who have not been proved should be attached to the service of God? Further, if a soldier should wish to become a monk, let no one for any cause whatever presume to receive him110 without our consent, or before it has been reported to us. If this rule is not diligently observed, know that all the guilt of those that are under thee redounds on thyself, seeing that thou provest thyself by the very facts of the case to be too little anxious about them.
 
 Epistle XXXI. To Libertinus, Ex-Prætor.
 
-110
-
 See III. 65, note 1.
-
-84
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6376,11 +4532,7 @@ Gregory to Libertinus, &c. What straits you are in with regard to the things of 
 
 Epistle XXXV. To Eulogius, Patriarch of Alexandria. Gregory to Eulogius, &c. In the past year I received the letters of your most sweet Holiness; but on account of the extreme severity of my sickness have been unable to reply to them until now. For lo, it is now almost full two years that I have been confined to my bed, afflicted with such pains of gout that I have hardly been able to rise on feast-days for as much as three hours space to solemnize mass. And I am soon compelled by severe pain to lie down, that I may be able to bear my torment with intervening groans. This pain of mine is sometimes moderate, and sometimes excessive: but neither so moderate as to depart, nor so excessive as to kill me. Hence it comes to pass that, being daily in death, I am daily debarred from death. Nor it is surprising that, grievous sinner as I am, I am long kept confined in the prison of such corruption. Whence I am compelled to exclaim, Bring my soul out of prison, that I may confess thy name (Ps. cxli. 8). But, since I am not yet worthy to obtain this by my prayers, I beg that the prayer of your Holiness may afford me the aid of its intercession, and deliver me from the weight of sin and corruption into that liberty, which you know well, of the glory of the children of God.
 
-85
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-46
 
 Philip Schaff
 
@@ -6388,15 +4540,9 @@ Your to me most sweet and ever to be honoured Blessedness has informed me in you
 
 Epistle XXXVI.
 
-111
-
 The Agnoetæ or Themistiani arose in connexion with the Monophysite controversy in the sixth century, being led by Themistius, a deacon of Alexandria, who taught the limitation of the human knowledge of Christ, referring especially to Mark xiii. 32, and John xi. 34. The majority of the Monophysites rejected his view, which was condemned also by the orthodox. Eulogius of Alexandria, to whom the letter before us is addressed, wrote a treatise against the Agnoetæ, from which extracts are given by Photius. Sophronius, patriarch of Jerusalem, pronounced the anathema against Themistius. On the same subject, cf. Ep. XXXIX. below. Gregory’s arguments in Ep. XXXIX. against the views of the Agnoetæ are interesting to English readers at the present day, when similar views have been lately put forward and discussed.
 
-112
-
 See Lib. VII. 40.
-
-86
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6404,23 +4550,13 @@ Philip Schaff
 
 To Maximus, Bishop of Salona113. Gregory to Maximus, &c. When our common son the presbyter Veteranus came to the Roman city, he found me so weak from the pains of gout as to be quite unable to answer thy Fraternity’s letters myself. And indeed with regard to the nation of the Sclaves114, from which you are in great danger, I am exceedingly afflicted and disturbed. I am afflicted as suffering already in your suffering: I am disturbed, because they have already begun to enter Italy by way of Istria. Further, of Julian the scribo115, what shall I say, seeing that I see everywhere how our sins find us out, so as to cause us to be disturbed by the nations from without and by judges from within? But be not at all saddened by such things, since those who shall live after us will see worse times; so much so, that they will regard us as having had happy days in comparison with their own. But, so far as thy Fraternity has power, thou oughtest to oppose thyself in behalf of the poor, in behalf of the oppressed. And, even if thou shouldest be unable to do any good, the very devotion of thy heart, which Almighty God has given, is enough for Him. For it is written, Rescue them that are drawn unto death, and forbear not to deliver them that are ready to be slain (Prov. xxiv. 11). But if thou shouldest say, My powers are insufficient, He who sees into the heart understands. In all that thou doest, then, desire to have Him Who sees into the heart well-pleased with thee. But whatever there is whereby He may be pleased omit not thou to do. For human terrors and favours are like smoke, which is snatched by a light breeze and vanishes away. Know this most assuredly, that no one can please God and bad men. Let, therefore, thy Fraternity esteem thyself to have pleased Almighty God in such degree as thou knowest thyself to have displeased froward men. Yet let thy defence of the poor itself be moderate and grave, lest, if anything be done too rigidly, men should think you actuated by the pride of youth. But our defence of the poor must needs be found of such sort that both the humble may feel protection and oppressors may not easily find what out of a malevolent disposition they may blame. Attend, then, to what is said to Ezekiel, Son of man, unbelievers and destroyers are with thee, and thou dost dwell among scorpions (Ezek. ii. 6). And the blessed Job says, I have been a brother of dragons, and a companion of owls (Job xxx. 29). And Paul says to his disciples, In the midst of a crooked and perverse nation, among whom ye shine as lights in the world (Philip. ii. 15). We ought, then, to walk all the more cautiously as we know that we are living among the enemies of God. Further, with regard to the Photinianists, let thy Fraternity pay the utmost attention; and, as thou hast begun, study how to recall them to the bosom of holy Church. But, if any should wish to come to me, and to receive an explanation, let them first make oath that they will not permit
 
-113
-
 For a summary of previous dealings with Maximus of Salona, and his long defiance of the authority of Rome, see III. 47, note 2. It appears from this epistle that all former insubordination, which had called forth such fulminations, was now fully condoned.
-
-114
 
 Cf. IX. 9.
 
-115
-
 As to the designation Scribo, see II. 32, note 7; V. 30, note 8. As to this Julian, so described, cf. IX. 41.
 
-87
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-47
 
 Philip Schaff
 
@@ -6428,19 +4564,11 @@ their followers to persist in their error even after an explanation has been rec
 
 Epistle XXXVII. To Innocent, Præfect of Africa. Gregory to Innocent, &c. The lucid eloquence of your Eminence, seasoned with the honey of the heart, has so infused its savour into our inmost soul, and ravished us with love of it, that both what you write sounds sweet, and what you do has a pleasant savour; nor this without good cause, since one who is accomplished in good studies is great in the eye of judgment, and not of partiality. Further, as we understand that you have taken upon you the belts116 of the prefecture, sadness is mingled with our joy. For on the one hand we are rejoiced for the promotion of our most sweet son, but are saddened on the other, because we feel in fact from our own sorrow how heavy a burden it is in times of confusion to be advanced to high positions. Wherefore all pains ought to be taken that troublesome circumstances may become an occasion of reward. For, as you know, corn springs from land that is full of thistles, and the rose is produced from thorns. While, then, you have a time given you meet for sowing, delay not to sow the seed of good works, that in the day of harvest you may carry home the greater armfuls of joy, and from good service in a transitory dignity may come to eternal glory. Knowing, then, of the pains you have taken in the preparation of swift-sailing vessels117, we relieve your anxiety by wished for news, informing you that, by the mercy of God, we have come to terms about peace with the king of the Lombards until the month of March in the coming fourth Indiction. Whether it will hold or not we know not, since the said king is reported to have died since, though the fact so far is held to be uncertain118. We have done what you wrote to ask us to do about Anamundarus, and would that the result might answer to our wish; for, as far as we are concerned, we do not deny the succour of our intercession to the afflicted.
 
-116
-
 Cingula. “Speciatim cingulum adhibetur in re militari. Est enim militiæ insigne; et metonymice pro ipsa militia ponitur.” (Facciolati.)
-
-117
 
 Dromonibus. “Est etiam hoc nomine genus navis longæ, transvectionibus aptæ, a celeritate dictæ (!"#$%&), a brigantine, cutter, yacht, carvel: cujus mentio fit in Cod. lib. 1, tit. 27, leg. 2, et apud Cassiod. l. 5, Ep. XVII.” (Facciolati.)
 
-118
-
 It was not the fact. The Lombard King Agilulph lived till A.D. 616.
-
-88
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6450,19 +4578,11 @@ As to your wishing the book on the exposition of holy Job to be sent to you, we 
 
 Epistle XXXIX. To Eulogius, Patriarch of Alexandria.
 
-48
-
 Gregory to Eulogius, &c. As cold water to a thirsty soul, so is good news from a far country (Prov. xxv. 25). But what can be good news to me, so far as concerns the behoof of holy Church, but to hear of the health and safety of your to me most sweet Holiness, who, from your perception of the light of truth, both illuminate the same Church with the word of preaching, and mould it to a better way by the example of your manners? As often, too, as I recall in my heart your oneness of mind with me, and feel that I remain fixed in your heart, I give thanks to Almighty God that charity cannot be divided by distance of place. For, though in body we are far disjoined, yet in soul we are indivisible. Our common son Anatolius the deacon119 has notified to me in his letters that in the royal city nothing ecclesiastical has at any time been disturbed from earthly causes. But I believe that he had before announced to me how your Blessedness had spoken in the cause of the Church and I rejoice to think that, where you chanced to be present, I do not consider that there was any want of me. For I know that you, as a minister of the truth, a follower of Peter, and a preacher of Holy Church, would speak what ought to have been heard through the mouth of a teacher from the Apostle Peter’s See120. Moreover, before these days, when Abramius of Alexandria came to me, I had written in reply to your Holiness both what I thought of your writings which you issued against the Agnoite
-
-119
 
 At this time Gregory’s apocrisiarius at Constantinople.
 
-120
-
 Cf. VII. 40.
-
-89
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6470,21 +4590,13 @@ Philip Schaff
 
 heretics121, and why I had been so late in replying. But the said Abramius, compelled by difficulties of navigation, is reported to have delayed long in the city of Naples; and so I write again in the same sense in which I had formerly written, since in your teaching against the heretics that are called Agnoitæ there was much for us to admire; but to displease us there was nothing. And in the same sense I had already written at length to our son Anatolius the deacon. Moreover, your doctrine so agreed in all respects with the Latin Fathers that I find, not to my surprise, that in diverse languages the Spirit has not been diverse. For, as to what you have said about the fig-tree, Augustine speaks aptly in the same sense; for, when the evangelist subjoined, For the time of figs was not yet (Mark xi. 13), it is plainly shown that the figs which the Lord had sought were fruit in the synagogue, which had the leaves of the Law, but not the fruit of works. For the Creator of all things could not be ignorant that the fig-tree had no fruit; which was a thing that all might know, since it was not the time of figs. But concerning what is written, That the day and hour neither the Son nor the angels know (Mark xiii. 32), your Holiness has quite rightly perceived that this is most certainly to be referred, not to the said Son with respect to His being the Head, but with respect to His body, which we are. With regard to which matter, the same blessed Augustine in many places adopts this sense (Quæst. lib. lxxxiii. q. 60; lib. 1 de Trinit., c. 12; in psalm vi., init.; in ps. xxxiv. serm. 2). He mentions also another thing that may be understood of the same Son, namely that Almighty God sometimes speaks in a human manner, even as He says to Abraham, Now I know that thou fearest God (Genes. xxii. 12). It was not that God then came to know that He was feared, but that He then made Abraham know that he feared God. For, as we speak of a glad day, not meaning that the day itself is glad, but that it makes us glad, so also the Almighty Son says that He does not know the day which He causes not to be known; not that He Himself does not know it, but that He does not allow it to be known. Whence also the Father alone is said to know it, because the Son Who is consubstantial with Him has His knowledge of what the angels are ignorant of from His divine nature, whereby He is above the angels. Whence also it may be more nicely understood thus; that the Only-begotten, being incarnate and made for us a perfect man, knew indeed in the nature of His humanity the day and hour of the judgment, but still it was not from the nature of His humanity that He knew it. What then He knew in it He knew not from it, because God, made man, knew the day and hour of the judgment through the power of His Deity: as also at the marriage, when the Virgin Mother said that wine was wanting, He replied, Woman, what have I to do with thee? Mine hour is not yet come (Joh. ii. 4). For it was not that the Lord of the angels was subject to the hour, having, among all things which He had created, made hours and times; but, because the Virgin Mother, when wine was wanting, wished a miracle to be done by Him, it was at once answered her, Woman, what have I to do with thee? As if to say plainly, That I can do a miracle comes to me of my Father, not of my Mother. For He who of the nature of His Father did miracles had it of His mother that He could die. Whence also, when He was on the cross, in dying He acknowledged His mother, whom He commended to the
 
-121
-
 See X. 35, note 7.
 
-90
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-49
 
 Philip Schaff
 
 disciple, saying, Behold thy mother (Joh. xix. 27). He says, then, Woman, what have I to do with thee? Mine hour is not yet come.—That is, “In the miracle, which I have not of thy nature, I do not acknowledge thee. When the hour of death shall come, I shall acknowledge thee as my mother, since I have it of thee that I can die.” And thus the knowledge, which He had not of the nature of humanity whereby He was with the angels a creature, this He denied that He had with the angels, who are creatures. The day, then, and the hour of the judgment He knows as God and man, but for this reason, that God is man. It is moreover a thing quite manifest, that whoso is not a Nestorian cannot in any wise be an Agnoite. For with what meaning can one that confesses that the very Wisdom of God was incarnate say that there is anything that the Wisdom of God is ignorant of? It is written, In the beginning was the Word, and the Word was with God, and the Word was God. All things were made by him (Joh. i. 1). If all things, then without doubt the day and hour of the judgment. Who then can be so senseless as to presume to say that the Word of the Father made what He is ignorant of? It is written also, Jesus knowing that the Father had given all things into his hands (Job xxii. 3). If all things, certainly both the day and the hour of the judgment. Who, then, is so foolish as to say that the Son received into His hands what He knows not? But, with respect to the passage in which He says to the women about Lazarus, Where have ye laid him (Joh. xi. 34), I felt exactly as you felt, that, if they say that the Lord did not know where Lazarus had been buried, and for that reason enquired, they will undoubtedly be compelled to acknowledge that the Lord did not know in what places Adam and Eve had hidden themselves after their sin, when He said in Paradise, Adam, where art thou (Gen. iii. 9)? or when He chides Cain saying, Where is Abel thy brother (Gen. iv. 9)? But, if He did not know, why did He forthwith add, Thy brother’s blood crieth unto me from the ground? However, on this passage Severianus Gabalensis speaks differently, saying that the Lord spoke thus to the women as it were in the way of rebuke, in that He enquired where they had laid the dead Lazarus; as if with plain reference to the sin of Eve He had said, I placed the man in Paradise, whom you have placed in the sepulchre. But to these things our said common son Anatolius the deacon has replied by putting another question:—What if it should be objected to me that, even as He who is immortal vouchsafed to die that He might deliver us from death, and He who is eternal before all time willed to become subject to time, so the Wisdom of God vouchsafed to take upon Himself our ignorance that He might deliver us from ignorance? But I have not yet given him any reply to this, having been confined until now by grievous sickness. Now, however, through your prayers I have already begun to recover; and, if I should so recover as to be able to dictate, with the help of the Lord I will reply to him. To you it is not for me to say anything on this subject, lest I should seem to teach you what you know, seeing that even medicines lose their power of healing, if applied to sound and strong members. Furthermore, we apprize you that in this place we suffer from serious difficulty for want of good interpreters. For there are none who can express the sense, while all ever try to translate the words exactly: and so they confuse the whole sense of what has been said. Whence it comes to pass that we are by no means able without severe labour to understand what has been translated.
-
-91
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6494,15 +4606,9 @@ I have received the blessing of Saint Mark the Evangelist and of your Blessednes
 
 Epistle XLII. To Eusebius, Archbishop of Thessalonica.
 
-50
-
 Gregory to Eusebius, &c. If, most dear brother, we consider attentively how great is the excellence of peace, we shall recognize with what earnestness it should be cultivated by us. For indeed our Lord and Redeemer vouchsafed to leave and give it as a great boon to His disciples, that He might thereby make those who were united to Him in firmness of faith His associates in loving participation with Himself. For it is written, Blessed are the peacemakers, for they shall be called the children of God (Matth. v. 9). Whosoever, then, desires to be the father’s heir, let him, by keeping peace, not refuse to be his child. For he who gives place to discord surely makes himself to be without lot in so great a gift. Seeing then that by the mercy of God the purity of thy faith has been declared to us, as was meet, with catholic rectitude, we are taken up with great surprise that thou shouldest suffer those whom thou knowest to believe well and to think aright to be needlessly scandalised by the fault of certain persons, so that the reputation of thy Fraternity is clouded by the guilt of others. For how can one avoid suspicion of error who extends sufferance to them that are in error? Or what estimate of himself can he expect, if he provides not for purging by open satisfaction what fervour of faith requires to be purged? For indeed it is said that Luke thy presbyter and Peter refuse to receive the Chalcedonian synod, and that on this account the hearts of thy orthodox children are perturbed with no slight offence122. And, since their zeal is not only to be praised but also to be altogether cherished, we exhort that the care of thy Fraternity hesitate not to investigate the matter with all activity and solicitude. And, if those persons should be found innocent of that pravity, remove offence from the minds of thy
 
-122
-
 Those who refused to accept the condemnation of “The Three Chapters” by the fifth council alleged that it contravened the Council of Chalcedon. It may be that the persons referred to here, in their defence of what had been decreed in the fifth council, had seemed to admit that it did contravene the fourth, which they consequently were supposed to reject.
-
-92
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6512,19 +4618,13 @@ children by giving them satisfaction, and among all heresies anathematise especi
 
 Epistle LXII. To the Neapolitans. Gregory to the clergy and noble citizens of Naples. It is not a new thing, nor is it reprehensible, that in the election of a bishop the votes of the people should be divided between two parties: but it is a serious matter when in cases of this kind the election goes not by judgment, but by favour only. For before your letter reached us we had learnt from the report of certain persons that the deacon John, who has been elected by the other party, has a little daughter. Hence, if they had had a mind to attend to reason, neither would others
 
-93
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-51
 
 Philip Schaff
 
 have elected him nor would he have consented. For what presumption must his be who dares to approach the episcopate while convicted by the evidence of the little girl, of not having had long control over his own body! Moreover, Peter the deacon, who you say has been elected by you, is, according to what is said, quite without astuteness. And you know that at the present time the person to be constituted in the highest place of government, should be one who knows how to be careful, not only for the salvation of souls, but also with regard to the external advantage and safeguard of his subjects. But know ye further that it has come to our ears concerning him, that he has given money on usury; which thing you ought to enquire into thoroughly, and, if it is so, elect another, and without delay hold yourselves aloof from a person of this kind. For we will on no account lay hands on lovers of usury. If, however, after accurate enquiry made, this should prove to be false (since his person is unknown to us, and we know not whether what has been reported to us of his simplicity be true), he must needs come to us with your decree in his favour, that, having made careful enquiry into his life and manners, we may at the same time become acquainted with his intelligence; and thus, in case of his satisfying this enquiry, we may in him, with the Lord’s help, fulfil your desires. Further, let it be your care to look out also for another person who may be suitable, so that, if this one should by any chance appear unfit for appointment to this order, there may be some one else to whom you may transfer your choice. For it will be a serious disgrace to your clergy, in case of this man by any chance not being approved, if they should say that they have no one else fit to be elected.
 
 Epistle LXIII. To Dominicus, Bishop of Carthage. Gregory to Dominicus, &c. We have already learnt what great pestilence has invaded the African parts; and, inasmuch as neither is Italy free from such affliction, doubled are the groans of our sorrows. But amid these evils and other innumerable calamities our heart, dearest brother, would fail from desperate distress, had not the Lord’s voice fortified our weakness beforehand. For long ago to the faithful the trumpet of the Gospel lesson sounded, warning them that at the approach of the end of the world wars and many other things, which, as you know, are now feared, would come to pass (Matth. xxiv; Luke xxi.). We ought not, then, to be too much afflicted in suffering things that we knew of beforehand, as though they had been unknown. Frequently also, in our consideration of another’s death, the kind of death may be an alleviation. For what manglings, what cruelties have we seen, where death was the only remedy, and life was a torment! Did not David, when a choice of deaths was offered him, refuse famine or the sword, and choose that his people should fall under the hand of God? Gather ye from this how great favour is granted to such as perish under Divine smiting, since they die by the call that was offered to the holy prophet for a boon. Wherefore let us return thanks to
-
-94
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6538,8 +4638,6 @@ Epistle I. To John, Abbot. Gregory to John, Abbot of Mount Sina123. 123
 
 No doubt the John called Climacus, Scholasticus, and Sinaita, commemorated as a saint on 30 March. Having entered the monastery of Mount Sinai at the age of 16, he is said to have retired thence to live the life of an anchoret, to have been elected abbot at the age of 75, to have again after a time retired into solitude, and to have died early in the 7th century. While abbot, he
 
-95
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
@@ -6552,23 +4650,13 @@ wrote a work called Scala (!"#$%&) Paradisi, whence his name of Climacus. The mo
 
 Properly a hospital for aged persons.
 
-125
-
 The meaning of the word rachana, racana, or racahina, is uncertain. It occurs again in XI. 78, where Barbara and Antonina, two young ladies at Constantinople, are thanked for a present of two racanæ, which they had alleged to be of their own workmanship. It is usually supposed to mean some wooller article of dress, worn by monks. Others understand blankets.
-
-126
 
 See VI. 56, note 7. The abbot Stephen, addressed in that letter, was probably the predecessor of Conon.
 
-127
-
 He was bishop of Telona (Toulon). See XI. 58.
 
-96
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-53
 
 Philip Schaff
 
@@ -6576,11 +4664,7 @@ remissness of thy predecessor often saddened us, so the carefulness of thy fores
 
 Epistle XIII. To Serenus, Bishop of Massilia (Marseilles)128. Gregory to Serenus, &c.
 
-128
-
 Other epistles to Serenus of Marseilles are VI. 52, IX. 105, XI. 58. In IX. 105 he had already been reproved for his inconsiderate zeal in breaking pictures of saints, which is the main subject of the present letter. His reply to the former letter, of which he had affected to suspect the genuineness, seems to have called forth this longer and severer admonition.
-
-97
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6588,33 +4672,19 @@ Philip Schaff
 
 The beginning of thy letter so showed thee to have in thee the good will that befits a priest as to cause us increased joy in thy Fraternity. But its conclusion was so at variance with its commencement that such an epistle might be attributed, not to one, but to different, minds. Nay, from thy very doubts about the epistle which we sent to thee it appears how inconsiderate thou art. For, hadst thou paid diligent attention to the admonition which in brotherly love we gave thee, not only wouldest thou not have doubted, but have perceived what in priestly seriousness it was thy duty to do. For Cyriacus129 formerly abbot, who was the bearer of our letter, was not a man of such training and erudition as to dare, as thou supposest, to make up another, nor for thee to entertain this suspicion of falseness against his character. But, while putting aside consideration of our wholesome admonitions, thou hast come to be culpable, not only in thy deeds, but in thy questionings also. For indeed it had been reported to us that, inflamed with inconsiderate zeal, thou hadst broken images of saints, as though under the plea that they ought not to be adored130. And indeed in that thou forbadest them to be adored, we altogether praise thee; but we blame thee for having broken them. Say, brother, what priest has ever been heard of as doing what thou hast done? If nothing else, should not even this thought have restrained thee, so as not to despise other brethren, supposing thyself only to be holy and wise? For to adore a picture is one thing, but to learn through the story of a picture what is to be adored is another. For what writing presents to readers, this a picture presents to the unlearned who behold, since in it even the ignorant see what they ought to follow; in it the illiterate read. Hence, and chiefly to the nations131, a picture is instead of reading. And this ought to have been attended to especially by thee who livest among the nations, lest, while inflamed inconsiderately by a right zeal, thou shouldest breed offence to savage minds. And, seeing that antiquity has not without reason admitted the histories of saints to be painted in venerable places, if thou hadst seasoned zeal with discretion, thou mightest undoubtedly have obtained what thou wert aiming at, and not scattered the collected flock, but rather gathered together a scattered one; that so the deserved renown of a shepherd might have distinguished thee, instead of the blame of being a scatterer lying upon thee. But from having acted inconsiderately on the impulse of thy feelings thou art said to have so offended thy children that the greatest part of them have suspended themselves from thy communion. When, then, wilt thou bring wandering sheep to the Lord’s fold, not being able to retain those thou hast? Henceforth we exhort thee that thou study even now to be careful, and restrain thyself from this presumption, and make haste, with fatherly sweetness, with all endeavour, with all earnestness, to recall to thyself the minds of those whom thou findest to be disjoined from thee.
 
-129
-
 Cyriacus, once abbot of Gregory’s own monastery of St. Andrew on the Cœlian at Rome, is named in the former epistle to Serenus (IX. 105) as its bearer. As to the cause of his being sent at that time into Gaul, see notes to IX. 105, and IX. 109.
-
-130
 
 See IX. 105.
 
-131
-
 Gentibus. The term gentes was used not only to denote Gentiles as usually understood, and pagan races as distinct from Christians, but also nations outside the Roman republic.
 
-98
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-54
 
 Philip Schaff
 
 For the dispersed children of the Church must be called together, and it must be shewn then by testimonies of sacred Scripture that it is not lawful for anything made with hands to be adored, since it is written, Thou shalt adore the Lord thy God, and him only shalt serve (Luke iv. 8). And then, with regard to the pictorial representations which had been made for the edification of an unlearned people in order that, though ignorant of letters, they might by turning their eyes to the story itself learn what had been done, it must be added that, because thou hadst seen these come to be adored, thou hadst been so moved as to order them to be broken. And it must be said to them, If for this instruction for which images were anciently made you wish to have them in the church, I permit them by all means both to be made and to be had. And explain to them that it was not the sight itself of the story which the picture was hanging to attest that displeased thee, but the adoration which had been improperly paid to the pictures. And with such words appease thou their minds; recall them to agreement with thee. And if any one should wish to make images, by no means prohibit him, but by all means forbid the adoration of images. But let thy Fraternity carefully admonish them that from the sight of the event portrayed they should catch the ardour of compunction, and bow themselves down in adoration of the One Almighty Holy Trinity. Now we say all this in our love of Holy Church, and of thy Fraternity. Be not then shaken, in consequence of my rebuke, in the zeal of uprightness, but rather be helped in the earnestness of thy pious administration. Furthermore, it has come to our ears that thy Love gladly receives bad men into its society; so much so as to have as a familiar friend a certain presbyter who, after having fallen, is said to live still in the pollution of his iniquity132. This indeed we do not entirely believe, since he that receives such a one does not correct wickedness, but rather appears to give licence to others to perpetrate the like things. But, lest haply by any subornation or dissimulation he should prevail on thee to receive him and keep him still in favour, it becomes thee not only to drive him further from thee, but also in all ways to cut away his excesses with priestly zeal. But as to others who are reported to be bad, study to restrain them from their badness by fatherly exhortation, and to recall them to the way of rectitude. But, if (which God forbid) you seem not to profit them at all by salutary admonition, these also thou wilt take care to cast off far from thee, lest, from their being received, their evil doings should seem not at all to displease thee, and lest not only they themselves should remain unamended, but others also should be corrupted in consequence of thy reception of them. And consider how execrable it is before men, and how perilous before the eyes of God, if vices should seem to be nurtured through him whose duty it is to punish crimes. Attend therefore to these things diligently, most beloved brother; and study so to act as both wholesomely to correct the bad and to avoid breeding offence in the minds of thy children by associating with evil men.
 
-132
-
 Cf. Ep. LV. in this book to Virgilius of Arles, the metropolitan of Serenus, in which this laxity on the part of the latter is alluded to.
-
-99
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6622,23 +4692,13 @@ Philip Schaff
 
 Epistle XXV. To Januarius, Bishop of Caralis (Cagliari133).
 
-55
-
 Gregory to Januarius, &c. Know ye that your Fraternity’s solicitude has pleased us, in that you have evinced, as was right, pastoral vigilance for the guardianship of souls. For indeed it has been reported to us that you have forbidden a monastery to be founded in the house of the late Epiphanius, a reader of your Church, in accordance with his will, for this reason; lest, seeing that this house was adjacent to a monastery of hand-maidens of God134, deception of souls should thence ensue. And we praised you greatly for guarding, as became you, by suitable foresight against the snares of the ancient foe. But, since we have been informed that the religious lady Pompeiana is desirous of taking away the handmaidens of God from this same monastery, and restoring them to their own monasteries whence they had been taken, and establishing there a congregation of monks, it is necessary that if this be accomplished, the disposition of the deceased should in all respects be adhered to. But, if this should not be done, that the will of the testator may not seem to be entirely frustrated, we will that—inasmuch as the monastery of the late abbot Urban, situated outside the city of Caralis, is said to be left so destitute that not even one monk remains there—we will, I say, that John, whom the said Epiphanius appointed to be abbot in the monastery which, as has been said, he had determined should be founded in his house, be ordained abbot (i.e. of the late Urban’s monastery), provided only that there be no impediment against him. And let the relics which were to have been deposited in the house of the aforesaid Epiphanius be deposited there, and let whatever the same Epiphanius had contributed for the intended monastery in his own house be in all ways applied to the other; that so, even though for safeguard, as above written, his will is not carried out with regard to the place, the benefit intended may nevertheless be preserved inviolate. And indeed let your Fraternity, together with the guardian (defensore) Vitalis, arrange all this, and endeavour to order it so advantageously that you may have your reward, as for your praiseworthy prohibition, so also for your good settlement of the case. Lastly, though it may be superfluous to commend this monastery to your Fraternity, yet we abundantly exhort you that, as becomes you, with due regard to justice, you hold it as commended to you135.
-
-133
 
 See I. 62, and reff.
 
-134
-
 See I. 48.
 
-135
-
 For further reference to the subject of this letter, see XIV. 2. It appears there that Epiphanius, mentioned in this letter, had been a son-in-law of Pompeiana. It appears further that this lady afterwards accused both the bishop Januarius and the defensor Vitalis of having unjustly withheld her son-in-law’s pious bequest, notwithstanding the admonition contained in this letter.
-
-100
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6646,21 +4706,13 @@ Philip Schaff
 
 Epistle XXVIII. To Augustine, Bishop of the Angli136. Gregory to Augustine, &c. Glory to God in the highest, and on earth peace to men of good will (Luke ii. 14); because a grain of wheat, falling into the earth, has died, that it might not reign in heaven alone; even He by whose death we live, by whose weakness we are made strong, by whose suffering we are rescued from suffering, through whose love we seek in Britain for brethren whom we knew not, by whose gift we find those whom without knowing them we sought. But who can describe what great joy sprung up here in the hearts of all the faithful, for that the nation of the Angli through the operation of the grace of Almighty God and the labour of thy Fraternity has cast away the darkness of error, and been suffused with the light of holy faith; that with most sound mind it now tramples on the idols which it formerly crouched before in insane fear; that it falls down with pure heart before Almighty God; that it is restrained by the rules of holy preaching from the lapses of wrong doing; that it bows down in heart to divine precepts, that in understanding it may be exalted; that it humbles itself even to the earth in prayer, lest in mind and soul it should lie upon the earth. Whose is this work but His who says, My Father worketh hitherto, and I work (John v. 17)? who, to shew that He converts the world, not by men’s wisdom, but by His own power, chose unlettered men as His preachers whom He sent into the world? And He does the same even now, having deigned to work mighty works in the nation of the Angli through weak men. But in this heavenly gift, dearest brother, there is ground, along with great joy, for most serious fear. For I know that Almighty God has displayed great miracles through thy Love in the nation which He has willed to be chosen. Wherefore thou must needs rejoice with fear for this same heavenly gift, and tremble in rejoicing:—rejoice, that is, because the souls of the Angli are drawn by outward miracles to inward grace; but tremble, lest among the signs that are done the infirm mind lift itself up to presumption about itself, and from being exalted in honour outwardly, fall inwardly through vain glory. For we ought to remember how, when the disciples returned with joy from preaching, and said to their heavenly Master, Lord, in thy name even the devils are subject unto us(Luke x. 17), they straightway heard, In this rejoice not; but rather rejoice because your names are written in heaven (Ib. v. 20). For they had set their minds on private and temporal gladness, when they rejoiced in the miracles. But they are recalled from private to common, from temporal to eternal gladness, when it is said to them, In this rejoice ye, because your names are written in heaven. For not all the elect work miracles; and yet the names of all of them are kept enrolled in heaven. For to the disciples of the
 
-136
-
 For reasons for supposing this letter to Augustine to have been written earlier than the 4th Indiction (A.D. 600–1), to which it is assigned by the Benedictine Editors, and for a summary of the whole series of letters relating to the English mission, see Prolegom., p. xxv.
 
-101
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-56
 
 Philip Schaff
 
 Truth there should not be joy, save for that good which they have in common with all, and in which they have no end to their gladness. It remains, therefore, dearest brother, that in the midst of the things which through the operation of God thou doest outwardly, thou shouldest ever nicely judge thyself within, and nicely understand both what thou art thyself and how great is the grace in the midst of that same nation for the conversion of which thou hast received even the gift of doing signs. And if at any time thou shouldest remember having offended against our Creator, whether in tongue or in deed, ever recall these things to thy memory, that memory of guilt may keep down the rising glory of the heart. And whatsoever thou mayest receive, or hast received, in the way of doing signs, regard these powers as not granted to thyself, but to those for whose salvation they have been conferred upon thee. Further, there occurs to my mind, while I think on these things, what took place with one servant of God, even one eminently chosen. Certainly Moses, when he led God’s people out of Egypt, as thy Fraternity knows, wrought wonderful miracles. Fasting forty days and nights in Mount Sina, he received the tables of the law; among lightnings and thunders, while all the people trembled, he was attached to the service of Almighty God, being alone with Him even in familiar colloquy (Exod. xxx., xxxi.); he opened a way through the Red Sea; he had a pillar of a cloud to lead him on his journey; to the people when an hungered he gave manna from heaven; flesh to those who longed for it he supplied in the wilderness by a miracle, even unto overmuch satiety (Exod. xiii., xiv., xvi.). But, when in a time of drought they had come to the rock, he was distrustful, and doubted being able to draw water from the same, which still at the Lord’s command he opened without fail in copious streams. But how many and great miracles after these he did during eight and thirty years in the desert who can count or search out (Exod. xvii.; Num. xx.)? As often as a doubtful matter had troubled his mind, he resorted to the tabernacle, and enquired of the Lord in secret, and was forthwith taught concerning it, God speaking to him (Exod. xxxiii. seq.). When the Lord was wrath with the people, he appeased Him by the intervention of his prayer; those who rose in pride and dissented in discord he engulphed in the jaws of the gaping earth; he bore down his enemies with victories, and shewed signs to his own people. But, when the land of promise had at length been reached, he was called into the mountain, and heard of the fault which he had committed eight and thirty years before, as I have said, in that he had doubted about drawing water from the rock. And for this reason he was told that he might not enter the land of promise (Num. xxvii.). Herein it is for us to consider how formidable is the judgment of Almighty God, who did so many signs through that servant of His whose fault He still bare in remembrance for so long a time. Wherefore, dearest brother, if we find that even he whom we know to have been especially chosen by Almighty God died for a fault after so many signs, with what fear ought we to tremble, who do not yet know whether we are chosen? But what should I say of the miracles of the reprobate, when thy Fraternity well knows what the Truth says in the Gospel; Many shall come in that day saying to me, Lord in thy name we have prophesied, and in thy name have cast out devils, and in thy name have done many wonderful works. But I will say unto them, I know not who ye are: depart from me all ye workers of iniquity
-
-102
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6670,15 +4722,9 @@ Philip Schaff
 
 Epistle XXIX. To Bertha, Queen of the Angli137.
 
-57
-
 Gregory to Bertha, &c. They who desire, after earthly dominion, to obtain the glory of a heavenly kingdom ought to labour earnestly to bring in gain to their Creator, that they may be able to rise by the steps of their operation to the things they long for; as we are glad to know you do. For indeed our most beloved son Laurentius the presbyter, and Peter the monk, have brought us word on their return to us how your Glory has exhibited itself towards our most reverend brother and fellow-bishop Augustine, and how great succour and what charity you have bestowed upon him. And we bless Almighty God, who has been mercifully pleased to reserve the conversion of the nation of the Angli for your reward. For, as through Helena of illustrious memory, the mother of the most pious Emperor
 
-137
-
 As to the apparent inference from this letter that King Ethelbert of Kent had not been converted when it was written, and as to when it may have been sent to queen Bertha, see Prolegom., p. xxvi., note 2.
-
-103
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6688,23 +4734,15 @@ Constantine, He kindled the hearts of the Romans into Christian faith, so we tru
 
 Epistle XXX. To Venantius, Ex-Monk, Patrician of Syracuse138. Gregory to Venantius, &c. In addressing to you the greeting which is due I was intending to speak of what I suffer. But I think I need not relate to you what you know. For I am tormented by pains of gout, which, afflicting not dissimilarly both me and you, while they increase upon us exceedingly, have caused our life to decrease. In the midst of them what else should we do but recall our faults to mind, and give
 
-138
-
 See I. 34, note 8. It is significant of Gregory’s delicate tact, that he does not in this letter, when his friend was suffering, allude to his past renunciation of monastic life as among the sins to be repented of, or urge him to return to it, though that the subject was still on his mind appears from his letter about the same time to the Bishop of Syracuse (XI. 36).
 
-104
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-58
 
 Philip Schaff
 
 thanks to Almighty God? For we who have sinned in many things from the pampering of the flesh are purged by the affliction of the flesh. We are to know also that present pain, if it converts the mind of the afflicted one, is the end of preceding guilt; but, if it does not convert to the fear of the Lord, is the beginning of pain to follow. We must therefore take care, and in entire conversion of heart watch to the utmost of our power with tears, lest we pass from torment to torments. We are also to consider by how great a dispensation of loving kindness our Maker deals with us, in that He continually smites us, who are worthy of death, and still slays us not. For He threatens what He will do, and yet does it not, that pains sent in advance may alarm us, and, when we are converted to the fear of the strict Judge, may shield us from His animadversion when life is over. For who may tell, who may count, how many, sunk in their lechery, running headlong also in blasphemies and pride, continuing in robberies and iniquities even to the day of their death, have so lived in this world as never to suffer even a headache, but by a sudden stroke have been delivered to the fires of hell? We, then, have a token that we are not forsaken, in that we are continually scourged, according to the testimony of Scripture, which says, Whom the Lord loveth He chasteneth, and scourgeth every son whom He receiveth (Heb. xii. 6). Wherefore under the very stripes of God let us recall to mind both His gifts and the losses of our guilt. Let us consider what good things He has showered upon our ill-doing, and what ill things we have committed under His goodness. Let us fulfil what the Lord says through the prophet, Put me in remembrance, that we may plead together (Isai. xliii. 26). Let us plead now in our thought with God, that we be not hereafter strictly judged by God. For what says Paul? If we would judge ourselves, we should not be judged of the Lord (1 Cor. xi. 31). Whosoever, then, would make haste to escape the strictness of the sentence of the judgment to come, let him, through the bitterness of penitence, cut off for himself all the sweetness of the present life. Moreover, whatever gifts of this kind there are, whose gifts are they but our Maker’s? But that should not be accounted a gift of God fully to us which separates us through delight in itself from the love of God; lest we should prefer the things given to the Giver, and while receiving good things, though ourselves evil, we should be disjoined from His fear by that whereby we ought to have grown in His fear. Now may the Creator of all things, that is Almighty God, pour into your heart by the inspiration of His Spirit what we speak to you of by letter, and cleanse you from all defilements of sin, and grant you the joy of His comfort here, and hereafter eternal rewards with Himself. I beg that my most sweet daughters, the lady Barbara and the lady Antonina, be greeted in my name.
 
 Epistle XXXII. To Marinianus, Bishop of Ravenna. Gregory to Marinianus, &c.
-
-105
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6714,11 +4752,7 @@ When the bearer of these presents, Candidus the abbot, came hither to ask for re
 
 Epistle XXXIII. To Marinianus, Bishop of Ravenna. Gregory to Marinianus, &c. On the arrival here of a certain man of Ravenna, I was smitten by most grievous sorrow for that he told me of thy Fraternity being sick from vomiting of blood. On this account we have caused enquiry to be made carefully and severally of those here whom we know to be well-read physicians, and have sent in writing to your Holiness their several opinions and prescriptions. All, however, prescribe before all else quiet and silence, which I greatly doubt whether thy Fraternity can have in thine own Church. And accordingly it seems good to me that, when the Church there has been provided for—whether with such as may accomplish the solemnities of mass, or with such as may take charge of the episcopate, and may be able to shew hospitality and hold receptions, or such as may superintend the guardianship of monasteries—thy Fraternity should come to me before the summer season, that I may, as far as I can, take special charge of thy sickness, and keep thee from being disturbed, since the physicians say that the summer season is exceedingly dangerous for this kind of sickness. And I greatly fear lest, if thou shouldest have any cares together with the unfavourableness of the season, there might be further risk to thee from this disorder. I too myself am very weak, and it is in all respects advantageous that thou shouldest, with the favour of God, return to thy Church in health; or certainly, if thou art to be called, that thou shouldest be called in the hands of thy friends; and that I, who see myself to be very near death, if Almighty God should be pleased to call me before thee, should pass away in thy hands. But if the circumstances of the
 
-106
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-59
 
 Philip Schaff
 
@@ -6726,19 +4760,11 @@ present time stand in the way of thy coming, Ago139 may be treated with, some sm
 
 Epistle XXXV. To Barbara and Antonina140. Gregory to Barbara, &c. Having received your Glory’s letters, which spoke with tears for words, we, most beloved daughters, are affected by no less sorrow than yourselves for your father’s sickness. For we cannot account that sadness as extraneous which is made our own by the law of charity. But, since in no state of despair ought there to be distrust in the mercy of our Redeemer, raise your spirits for the comforting of your father, place your hope in the hand of Almighty God, and by His protection we trust that He will guard you from all adversity, and cheer your tribulation, and grant you to be favourably disposed of according to your father’s desires. But should He pay the debt of our human lot, even then let not any despair crush you, nor the words of any persons cause you alarm. For after God, Who is the governor and protector of orphans, we will be so solicitous in behalf of your most sweet Glory, and will so make haste, with the Lord’s help, to provide as we can for your advantage, that no rough handling of unjust men may perturb you141, and that we may repay in all ways the debt we have contracted from the goodness of your parents. And so may heavenly grace
 
-139
-
 i.e. Agilulph, the Lombard king, referred to as Ago also in IV. 11. It was the Lombard occupation of a great part of Italy at that time that was apprehended as likely to impede a journey from Ravenna to Rome.
-
-140
 
 Cf. I. 34, note 8.
 
-141
-
 The reason why trouble to the orphans of Venantius was apprehended appears further in the letter that follows to the bishop of Syracuse.
-
-107
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6748,23 +4774,13 @@ nurture you with its favour and defend you by its protection from all evils, tha
 
 Epistle XXXVI. To John, Bishop of Syracuse142. Gregory to John, &c. I have received your Fraternity’s letters telling me of the sickness of my most sweet son the lord Venantius, and relating how all things are going on about him. But when I heard at one and the same time that he was desperately and grievously sick, and that unfair men were laying claim to the property of the orphans, the sorrow in my heart could scarce contain itself. But in this there was comfort, in that tears relieved my groans. Your Holiness therefore ought not to neglect, what should be your first care, to take thought for his soul, by exhorting him, beseeching him, putting before him God’s terrible judgment, and promising His ineffable mercy, so as to induce him to return even at his last moments to his former state of life143, lest the guilt of so great a fault should stand against him in the eternal judgment. And then it is your duty to take thought how his daughters, the ladies Barbara and Antonina, may be disposed of, so that no opportunity be afforded to bad men. For after he had conjured me to take anxious care for them, adding that I should see to the disposal of them, he went on in his letter to mention a thing which, when I consider the matter, I have no doubt might stand in the way. For he says that I should repeatedly petition the most pious lord Emperor, that he should himself cause provision to be made for the disposal of them. You observe how different this is from his former wish. And I fear lest an apt opportunity might hence be given to men in Sicily who are seeking all opportunity for interfering in his affairs. For, when this is known, what will those men do who have already, as report goes, been attempting to put a seal on his effects144? Would not reason seem to be on their side, and to afford them as it were a just ground for this proceeding? If they should say, the girls have been commended to the lord Emperor; we cannot neglect the matter; it is at our peril if we do; we make the property safe till such time as the lord Emperor may order them to be taken to Constantinople;—tell me, I pray thee,
 
-142
-
 Cf. I. 34, note 8.
-
-143
 
 Viz. Monasticism, which Venantius had renounced in spite of the earnest remonstrance of Gregory ten years previously.
 
-144
-
 It may have been that Venantius had filled some public office, in connexion with which it was alleged that his estate was liable to seizure by the government officials. Gregory evidently believes that there is not such liability; but, in view of the attempt to assert it, he is anxious that no pretext should be afforded to the authorities for taking charge of the property of the deceased, such as they might have had if the orphans had been made wards of the Emperor.
 
-108
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-60
 
 Philip Schaff
 
@@ -6772,15 +4788,9 @@ what I could do in such a case, wherein the father’s commendation seems to sup
 
 Epistle XXXVII. To Romanus, Guardian (Defensorem). Gregory to Romanus, Guardian of Sicily146. It has come to our knowledge that, if any one has a suit against any clerics, thou causest these clerics to be brought before thee for judgment, setting at nought their bishops. If this be so, seeing that it is evidently very unsuitable, we order thee by this our authority that thou presume not to do it any more. But, if any one should have a suit against any cleric, let him go to his bishop, that either he may take cognizance himself, or at any rate that judges may be deputed by him; or, if it should be a case for arbitration, let the executive authority deputed by him compel the parties to choose a judge. But, if any cleric or lay person should have a suit against a bishop, then thou oughtest to interpose, so that either thou thyself mayest take cognizance of the matter between them or that on thy admonition they may choose for themselves judges. For, if each single bishop has
 
-145
-
 See II. 27, note 2.
 
-146
-
 For the appointment of Romanus, cf. IX. 18.
-
-109
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6792,19 +4802,11 @@ Epistle XXXVIII. To Vitus, Guardian (Defensorem147). Gregory to Vitus, &c. If th
 
 Epistle XL. To Marinianus, Bishop of Ravenna.
 
-61
-
 Gregory to Marinianus, &c. Great infirmity constrains us, dearest brother, from which if we were free, we should seem justly blamable. But since, while we are in this fragile body, we cannot subsist but by subservience to its weaknesses, we ought not to blush for what necessity imposes on us. And so, since physicians all say that to those who suffer from eruption of blood fasts are injurious, we exhort thy Fraternity by this present address that, recalling to mind what thou hast been accustomed to endure from
-
-147
 
 Cf. V. 29.
 
-148
-
 Primicerius notariarum occ. III. 22. “Primicerius, Primus cujusque ordinis.—Secundicerius, Qui post primicerium est in schola qualibet.” D’Arnis’ Lexicon.
-
-110
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6814,29 +4816,17 @@ sickness, thou by no means impose on thyself the labour of fasting149. If, howev
 
 Epistle XLIV. To Rusticiana, Patrician150. Gregory to Rusticiana, &c. I have received the letters of your Excellency, which altogether relieved me, while I was in a state of most grievous sickness, with regard to your health, your devotion, and your sweetness. One thing however I took amiss, namely that in the same epistles to me what might have been said once was said repeatedly; “Your handmaiden,” and “your handmaiden.” For, I having been made the servant of all through the burdens of episcopacy, with what reason does she call herself my handmaid whose own I was before I undertook the episcopate? And so I beseech you by Almighty God, that I may never find this word in what you write to me. Further, the gifts which out of a most pure and sincere heart you sent to the blessed Peter, Prince of the apostles, have been received and hung up there151 in the presence of all the clergy. But my son, the magnificent lord Symmachus, finding me ill from pains of gout and almost despaired of, deferred giving me your letters, and gave them long after the veils had been received: and I found afterwards in your Excellence’s letters that they were to have been borne to the Church of the blessed Peter with a litany. And so this was not done, because, as I have already said, we received the veils before the letters. Nevertheless the aforesaid Symmachus did with your whole household what you wished us to do with the clergy. But, even if the voices of men were wanting, your offering itself has its own voice before Almighty God. In His loving-kindness I trust that the intercession of him whose body you have covered on earth may protect you in heaven from all sins, and in his provision rule your house, and in his watchfulness guard it. With regard to the affliction of gout which you signify to us has come upon you, I am both distressed and rejoiced exceedingly: rejoiced, because the noxious humour, attacking the lower parts of your body, has entirely left the higher ones; but distressed, because I fear you suffer excessive
 
-149
-
 Cf. Ep. XXXIII., supra.
-
-150
 
 See II. 27, note 2.
 
-151
-
 The gifts that had been sent were, as appears below, veils or hangings (vela) for the shrine of St. Peter in the Vatican basilica.
 
-111
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-62
 
 Philip Schaff
 
 pain in so very slender a body. For where there is a deficiency of flesh, what strength can there be to resist pain? For as to myself, you know what I used to be: but now bitterness of soul and continual exasperation, and besides this the affliction of gout so affects me that my body is dried up even as if in burial. Hence it comes to pass that I can rarely now rise from bed. If, then, the pain of gout has reduced the mass of my body to such dryness, what must I think of your body, which was too dry before the pains came on? As to the alms which you have bestowed on the monastery of the blessed Apostle Andrew, there is no need for me to say anything, since it is written, Hide thine alms in the bosom of a poor man, and it shall pray for thee (Ecclus. xxix. 15). If then the good deed itself has its voice in the secret ears of God, whether we cry aloud or keep silence, this very thing which you have well done cries aloud. Moreover I declare that there are so great miracles, there is so great care and custody of the monks in this same monastery of the said apostle that it is as if he himself were specially the abbot of the monastery. For, to speak of a few things out of many which I have learnt from the narration of the abbot and the prior of the monastery, two brethren were one day sent out thence to buy something for the use of the monastery, one a junior who seemed to be distinguished for prudence, the other a senior, sent to be the guardian of the junior. Both went forth, and from the money they received as the price of what they were to purchase, he who had been sent as the guardian of the junior purloined something without the knowledge of the other. Having both of them presently returned to the monastery, and come to the threshold of the oratory, he who had committed the theft fell down seized by a demon, and began to be vexed. And, when the demon had let him go, he was asked by the monks who came round him whether perchance he had purloined anything from what he had received: he denied, and was a second time vexed. Eight times he denied, and eight times was vexed. But after his eighth denial he confessed how much money he had purloined. And repenting he acknowledged, prostrate on the earth, that he had sinned, and when he had undergone penance, the demon came to him no more. At another time also, on the anniversary of the same apostle, while the brethren were resting during the mid-day hours, suddenly a certain brother, having become blind with his eyes open, began to tremble, to utter loud cries, testifying by these cries that he could not bear what he was suffering. The brethren ran together to him, saw him blind with his eyes open, trembling, and crying out, abstracted from the scene around him, and having no sense of anything that could be done externally. They lifted him in their hands, and cast him before the altar of Saint Andrew the Apostle, prostrating themselves also in prayer for him. And he at once, coming to himself again, declared what he had suffered; namely that a certain old man appeared to him, and set a black dog at him to tear him, saying, Why wouldest thou flee from this monastery? And, when I could by no means have escaped (said he) from the bites of the dog, certain monks came, and besought that old man for me, who straightway bade the dog depart, and then I came to myself. And he often afterwards confessed, saying, On the day on which I suffered these things I had had a design of flying from this same monastery.
-
-112
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6846,11 +4836,7 @@ Another monk also secretly desired to depart from the same monastery. And, havin
 
 Epistle XLV.
 
-152
-
 Strategius (as appears from other letters) was the young grandson of Rusticiana, being the child of Appio and Eusebia. See II. 27, note 2.
-
-113
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6858,25 +4844,15 @@ Philip Schaff
 
 To Theoctista, Patrician153.
 
-63
-
 Gregory to Theoctista, &c. We ought to give great thanks to Almighty God, that our most pious and most benignant Emperors have near them kinsfolk of their race, whose life and conversation is such as to give us all great joy. Hence too we should continually pray for these our lords, that their life, with that of all who belong to them, may by the protection of heavenly grace be preserved through long and tranquil times. I have to inform you, however, that I have learnt from the report of certain persons how that, owing to the levity of the people, a tumult of detraction has arisen against you. And I hear that your Excellency has consequently been distressed with no slight vexation. If this is so, I wonder much why the words of men on earth should agitate you, who have fixed your heart on heaven. For the blessed Job, when his friends who had come to console him had broken out into rebuke, said, For behold my witness is in heaven, and he that knows me is on high (Job xvi. 20). For one who has the witness of his life in heaven ought not to be afraid of the judgments of men on earth. Paul also, a leader of good men, says, Our glory is this, the testimony of our conscience (2 Cor. i. 12). And he says again, Let every man prove his own work, and so shall he have glory in himself, and not in another (Gal. vi. 4). For, if we are rejoiced by praises and broken down by detractions, we have set our glory not in ourselves, but in the mouth of others. And indeed the foolish virgins took no oil in their vessels, but the wise ones took oil in their vessels with their lamps (Matth. xxv.). Now our lamps are good works; of which it is written, Let your light shine before men, that they may see your good works, and glorify your Father which is in heaven (Matth. v. 16). And we then take oil in our vessels with our lamps, when we seek not the splendour of glory for our good deeds from the adulation of our neighbours, but preserve it in the testimony of our conscience. And in regard to all that is said of us outwardly we ought to recur to the secrets of our soul. Although all should revile us, yet he is free whom conscience accuses not, while, even though all should praise, one cannot be free, if conscience accuses him. Whence the Truth says concerning John, What went ye out into the wilderness to see? A reed shaken with the wind? (Matth. xi. 7). And this in truth is said in the way of negation, not of assertion, since it is added, But what went ye out for to see? A man clothed in soft raiment? Behold, they that wear soft clothing are in kings’ houses (Ibid. 8). For although, according to the truth of the Gospel, John was clothed in rough raiment, yet the signification is that they wear soft clothing who are delighted by adulations and praises. And it is
-
-153
 
 Sister of the emperor Mauricius, and governess of the imperial children. See also I. 5, VII. 26. This long letter to her was called forth by her having complained to Gregory of erroneous views in matters of religion being imputed to her at Constantinople, for which she seems to have been maligned in certain quarters. In his reply, with his habitual courtesy, he takes for granted that such imputations were unfounded, though the pains he takes to combat the errors with which she was charged may perhaps suggest the idea of his not being in his heart quite assured of her soundness. The whole letter, both for its tone and for its style of argumentation, is very characteristic of the writer.
 
-114
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-64
 
 Philip Schaff
 
 denied that John was a reed shaken with the wind, inasmuch as no breath from any human mouth bent the fortitude of his mind. For we, if we are lifted up by praises, or cast down by revilings, are a reed shaken with the wind. But far be this, far be it from the heart of your Excellency. I know that you read studiously the teacher of the Gentiles, who says, I, if I yet pleased men, should not be the servant of Christ (Gal. i. 10). If, however, any even slight sadness has arisen in your mind from this cause, I believe that Almighty God has kindly allowed this to be the case. For not even to His elect in this life has He promised the joys of delight, but the bitternesses of tribulation; so that, after the manner of medicine, they may be restored through a bitter cup to the sweetness of eternal salvation. For what says He? The world shall rejoice and ye shall lament (Joh. xvi. 20). With what hope? With what promise? A little afterwards it is added, I will see you again, and your heart shall rejoice, and your joy no man shall take from you (Ibid. 22). Hence again He says to His disciples, In your patience shall ye possess your souls (Luke xxi. 19). Consider, I pray you, where patience would be, if there were nothing to be endured. I suspect that there is no Abel without having a Cain for his brother. For if the good were without the bad, they could not be perfectly good, since they would not be purged: and the very society of the bad is the purgation of the good. There were three sons of Noe in the ark, one of whom was a derider of his father, who, though in himself he was blessed, still received a sentence of condemnation in his son. Abraham had two sons before he took Cethura to wife; and yet his carnal son persecuted the son of promise (Genes. ix.). This the great teacher expounds, saying, As he who is after the flesh persecuted him that is after the Spirit, even so it is now (Gal. iv. 29). Isaac had two sons; but one, who was spiritual, fled before the threats of his carnal brother. Jacob had twelve sons, but one, who lived uprightly, was sold by ten into Egypt. In the case of the prophet David, because there was in him what should have been purged, it was brought to pass that he suffered under a son’s persecution. The blessed Job says of the society of the reprobate, I have been a brother to dragons, and a companion to owls (Job xxx. 29). To Ezekiel the Lord says, Son of man, unbelievers and destroyers are with thee, and thou dost dwell among scorpions (Ezek. ii. 6). Among the twelve apostles there was one reprobate, that there might be one by whose persecution the eleven might be tried. The Prince of the apostles speaks thus to his disciples, He delivered just Lot, oppressed by the injury and conversation of the wicked. For in seeing and hearing he was just, dwelling among those who from day to day vexed the soul of the just one with their unrighteous deeds (2 Pet. ii. 7, 8). Paul also the apostle writes to his disciples, saying, In the midst of a crooked and perverse nation, among whom ye shine as luminaries in the world, holding fast the word of life (Philip. ii. 15). Seeing then that we know from the witness of Scripture that in this life the good cannot be without the bad, your Excellency ought by no means to be disturbed by the voices of fools, especially as there is then sure confidence in Almighty God, when for well-doing any adversity is given us in this world in order that a full reward may be reserved for us in the eternal retribution. Whence also in the holy Gospel the Truth says, Blessed shall ye be when men shall say all manner of evil
-
-115
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6884,39 +4860,23 @@ Philip Schaff
 
 against you falsely for my name’s sake (Matth. v. 11). And for our consolation He deigned to adduce as an example His own reproaches, saying, If they have called the master of the house Beelzebub, how much more them of his household (Ibid. x. 25). But there are many who perhaps praise the life of the good more than they ought; and, lest any elation should creep in from praise, Almighty God allows bad men to break out into slander and objurgation, in order that, if any sin springs up in the heart from the mouth of them that praise, it may be choked by the mouth of them that revile. Hence it is, then, that the teacher of the Gentiles testifies that he continues in his preaching through evil report and good report (2 Cor. vi. 8); saying also, As deceivers and yet true. If then there were such as laid an evil report on Paul, and called him a deceiver, what Christian now should account it a hard thing in behalf of Christ to hear injurious words? Moreover we know of how great virtue was the precursor of our Redeemer, who in Holy Writ is called not only more than a prophet, but even an angel: and yet, as the history of his death testifies, after his death his body was burnt by his persecutors154. But why say we these things of holy men? Let us speak of the Holy of holies Himself, that is of God Who was made man for us, Who before His death heard the injurious charge that He had a devil, and after His death was called a deceiver by His persecutors, when one said, We know that that deceiver said, After three days I will rise again (Matth. xxvii. 63). How much, then, must we sinners needs bear from the tongues and hands of wicked men, we who are to be judged at the coming of the eternal Judge, if He Who will even come as Judge endured so much both before and after His death? These things, most sweet and excellent daughter, I have briefly said, lest, as often as thou hearest of foolish men speaking in derogation of thee, thou shouldest be touched by even the least sadness of heart. But, seeing that this very murmuring of foolish men cannot be allayed by quiet reason, I hold it to be sin if the doing of what can be done is neglected. For, when we appease insane minds, and bring them back to a healthy state, we ought by no means to cause them offence. For there are some offences that are to be altogether despised; but there are some which, when they can be avoided without guilt, are not to be despised, lest there be guilt in keeping them alive. We learn this from the preaching of the sacred Gospel; since, when the Truth said, Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man (Matth. xv. 11), and the disciples replied saying, Knowest thou that the Pharisees were offended after they heard this saying? (Ibid. 12), straightway He replied, Every plant which my heavenly Father hath not planted shall be rooted up. Let them alone; they be blind, and leaders of the blind (Ibid. 13). And yet, when tribute was demanded, He first gave a reason why tribute should not be paid, and forthwith subjoined, Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a stater. That take, and give unto them for me and for thee (Matth. xvii. 26). Why is it that of some who were offended it is said, Let them alone; they are blind, and leaders of the blind; and
 
-154
-
 Cf. Theodoret, Eccles. Hist. lib. ii. c. 6, where this is told: “asseruerunt arcam Joannis Baptistæ, et ossibus combustis dissiparunt cinerem.”
 
-116
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-65
 
 Philip Schaff
 
 that to others, lest they should be offended, tribute is paid by the Lord, even though not due? Why is it that He allowed one offence to remain, but forbade another to be caused to others? Why, but that He might teach us on the one hand to despise offences which implicate us in sin, but on the other to mitigate in all ways those which we can appease without sin? Wherefore your Excellency, God protecting you, may, with great quietness, turn aside the offences of bad men. For the chief of them you should of your own accord call to you privately and give them reasons, and anathematize certain wrong points which they suppose to be held by you. And if too, as it is said may be the case, they suspect such anathema to be insincere, you should confirm it even by an oath, averring that you do not hold, and never have held, those points. Nor let it seem beneath you to satisfy them in such a way; nor let there be in your mind any feeling of disdain against them on account of your imperial race. For we are all brethren created by the power of one Emperor, and redeemed by His blood. And so we ought not in anything to despise our brethren, however poor and abject. For certainly Peter had received power in the heavenly kingdom, so that whatever he should bind or loose on earth should be bound or loosed in heaven; he walked on the sea, he healed the sick with his shadow, he slew sinners with his word, he raised the dead by his prayer. And because by the admonition of the Spirit he had gone in to Cornelius the Gentile, a question was raised against him by the believers as to why he had gone in among Gentiles and eaten with them, and why he had received them in baptism. And yet this first of the apostles, filled with such gifts of grace, supported by such power of miracles, replied to the complaint of the believers, not by power but by reason, and explained the case to them in order; how he saw a certain vessel, as it had been a sheet, in which were four-footed beasts of the earth, and wild beasts, and creeping things, and fowls of the air, let down from heaven, and heard a voice saying, Arise, Peter; kill and eat (Acts xi. 5 seq.); how three men came to him calling him to Cornelius; how the Holy Spirit bade him go with them; how the same Holy Spirit who had been wont to come on those baptized in Judea after baptism, came on the Gentiles before baptism. For if, when he was blamed by the believers, he had paid regard to the authority which he had received in Holy Church, he might have replied that the sheep should not dare to find fault with the shepherd to whom they had been committed. But, had he said anything of his own power in answer to the complaint of the believers, he would not have been truly a teacher of gentleness. He pacified them, therefore, by giving a reason humbly, and even produced witnesses to defend him from blame, saying, Moreover these six brethren accompanied me (Acts xi. 12). If, then, the pastor of the Church, the Prince of the Apostles, who singularly did signs and miracles, disdained not, in defending himself from blame, humbly to give a reason, how much more ought we sinners, when we are blamed for anything, to pacify those who blame us by giving a reason humbly! For to me, as you know, when I was resident at the footsteps of my lords in the royal city, many used to come of those who were accused with respect to the aforesaid points. But I declare, my conscience bearing me witness, that I never found in them any error, any pravity, or anything of what was said against them. Whence also I took care, despising report, to receive them familiarly,
 
-117
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-66
 
 Philip Schaff
 
 and rather to defend them from their accusers. For it used to be said against them that under pretext of religion they dissolved marriages; and that they said that baptism did not entirely take away sins; and that, if any one did penance for three years for his iniquities, he might afterwards live perversely; and that, if they said under compulsion that they anathematized anything for which they were blamed, they were by no means holden by the bond of anathema. Now if there are any who undoubtedly hold and maintain such views, there is no doubt that they are not Christians. And such both I, and all catholic bishops, and the universal Church, anathematize, because they think what is contrary to the truth, and speak what is contrary. For, if they say that marriages should be dissolved for the sake of religion155, be it known that, though human law has conceded this, yet divine law has forbidden it. For the Truth in person says, What God hath joined together let not man put asunder (Matth. xix. 6). He says also, It is not lawful for a man to put away his wife saving for the cause of fornication (Ibid. 9). Who then may contradict this heavenly legislator? We know how it is written, Two shall be one flesh (Matth. xix. 5; 1 Cor. vi. 16; Gen. ii. 24). If, then, a man and wife are one flesh, and a man puts away his wife for the sake of religion, or a woman her husband while he remains in this world, even though perchance he turns aside to unlawful deeds, what is this conversion156, in which one and the same flesh on the one part passes to continence and on the other part remains in pollution? If, however, it should suit both to lead a continent life, who may dare to accuse them, since it is certain that Almighty God, who has granted what is less, has not forbidden what is greater? And indeed we know of many holy persons who have both previously led continent lives with their consorts, and have afterwards passed over to the rules of holy Church. For in two ways holy men are accustomed to abstain even from lawful things. Sometimes that they may increase their merits before Almighty God; but sometimes that they may wipe away the sins of their former life. For when the three children who were brought under obedience to the Babylonian King, asked for pulse for food, being unwilling to make use of the king’s meat, it was not because it would have been sin in them to eat what God had created. They were unwilling, then, to take what it was lawful for them to take, that their virtue might increase through continence. But David, who had taken to himself another man’s wife, and had been sorely scourged for his fault, desired long afterwards to drink water from the cistern of Bethlehem; which when his bravest soldiers had brought to him, he refused to drink it, and poured it out as a libation to the Lord. For it was lawful for him to drink it, had he been so minded; but, because he remembered having done what was unlawful, he laudably abstained even from what was lawful. And he, who to his guilt previously feared not that the blood of dying soldiers should be shed, afterwards considered that, were he to drink the water, he would have shed the blood of living soldiers, saying, Shall I drink the blood of these men who have put their lives in jeopardy (1 Chron. xi. 19)? Accordingly, when good husbands and wives desire either to increase merit or to do away with the faults of previous life, it is lawful for them to bind themselves to continence and to aspire to a better life. But, if the
 
-155
-
 Religionis, in the sense of monastic life.
 
-156
-
 Conversio, in the usual sense of embracing monastic life.
-
-118
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6924,15 +4884,9 @@ Philip Schaff
 
 wife does not follow after the continence which the husband aspires to, or the husband refuses that which the wife aspires to, it is not lawful for wedlock to be cut asunder, seeing that it is written, The wife hath not power of her own body, but the husband; and the husband hath not power of his own body, but the wife (1 Cor. vii. 4). But, if there are any who say that sins are only superficially put away in baptism, what can be more against the faith than such preaching, whereby they would fain undo the very sacrament of faith, wherein principally the soul is bound to the mystery of heavenly cleanness, that, being completely absolved from all sins, it may cleave to Him alone of Whom the Prophet says, But it is good for me to cleave to God (Ps. lxxii. 28157)? For certainly the passage of the Red Sea was a figure of holy baptism, in which the enemies behind died, but others were found in front in the wilderness. And so to all who are bathed in holy baptism all their past sins are remitted, since their sins die behind them even as did the Egyptian enemies. But in the wilderness we find other enemies, since, while we live in this life, before reaching the country of promise, many temptations harass us, and hasten to bar our way as we are wending to the land of the living. Whosoever says, then, that sins are not entirely put away in baptism, let him say that the Egyptians did not really die in the Red Sea. But, if he acknowledges that the Egyptians really died, he must needs acknowledge that sins die entirely in baptism, since surely the truth avails more in our absolution than the shadow of the truth. In the Gospel the Lord says, He that is washed needeth not to wash, but is clean every whit (Joh. xiii. 10). If, therefore, sins are not entirely put away in baptism, how is he that is washed clean every whit? For he cannot be said to be clean every whit, if he has any sin remaining. But no one can resist the voice of the Truth, He that is washed is clean every whit. Nothing, then, of the contagion of sin remains to him whom He Himself who redeemed him declares to be clean every whit. But, if there are any who say that penance is to be done for sin during any three years, and that after the three years one may live in pleasures, these know neither the preaching of the true faith nor the precepts of sacred Scripture. Against these the excellent preacher says, He that soweth in his flesh shall of the flesh also reap corruption (Galat. vi. 8). Against these he says again, They that are in the flesh cannot please God (Rom. viii. 8); where he subjoins to his disciples, But ye are not in the flesh, but in the Spirit. Now they are in the flesh who live in carnal pleasures. Against them it is said, Neither shall corruption possess incorruption (1 Cor. xv. 50). But, if they say that a short season of penitence may suffice against sin, so that one may be allowed to return again to sin, rightly does the sentence of the first pastor hit them, when he says, It is happened unto them according to the true proverb; The dog is turned to his own vomit again, and the sow that was washed to her wallowing in the mire (2 Pet. ii. 22). For great is the efficacy of penitence against sin; but only if one persevere in this penitence. For it is written, He that shall persevere unto the end, the same shall be saved (Matth. x. 22: xxiv. 13). Hence again it is written, He that is baptized from a dead body, and
 
-157
-
 In English Bible, lxxiii. 28.
 
-119
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-67
 
 Philip Schaff
 
@@ -6942,21 +4896,13 @@ Epistle XLVI. To Isacius, Bishop of Jerusalem159. 158
 
 In English Bible, xxxiv. 25.
 
-159
-
 Written in reply to a letter received from the new patriarch of Jerusalem, announcing, as was usual, his election, and containing his confession of faith.
 
-120
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-68
 
 Philip Schaff
 
 Gregory to Isacius, &c. In keeping with the truth of history, what means the fact that at the time of the flood the human race outside the ark dies, but within the ark is preserved unto life, but what we see plainly now, namely that all the unfaithful perish under the wave of their sin, while the unity of holy Church, like the compactness of the ark, keeps her faithful ones in faith and in charity? And this ark in truth is compacted of incorruptible timber, since it is built of strong souls, and such as persevere in good. And, when any single person is converted from a secular life, timber is, as it were, still cut down from the mountains. But when, according to the order of holy Church, one is assigned to have custody of others, it is as though the ark were built of timber sawn and put together for preserving the life of men. And in truth that ark, when the flood was over, rested on a mountain, because when the corruption of this life is over, when the billows of evil works have passed away, holy Church will rest in the heavenly country, as on a high mountain. To the building, therefore, of this ark we rejoice to find, after reading your Fraternity’s epistle, that in the compactness of a right faith you lend your aid; and we render great thanks to Almighty God, who, though the pastors of His flock are changed, keeps the faith which He once delivered to the holy Fathers, even after them unchangeable. Now the excellent preacher says, Other foundation can no man lay than that is laid, which is Christ Jesus (1 Cor. iii. 11). Whosoever, then, with love of God and his neighbour, holds firmly the faith which is in Christ, he has laid the same Jesus Christ, Son of God and man, as a foundation for himself from the Father. It is to be hoped, then, that, where Christ is the foundation, the building also of good works may follow. The Truth itself also in person says, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber. But he that entereth in by the door is the shepherd of the sheep (Joh. x. 1). And a little afterwards He adds, I am the door. He, then, enters into the sheepfold by the door who enters by Christ. And he enters by Christ who thinks and preaches what is true concerning the same Creator and Redeemer of the human race, keeps what he preaches, and undertakes the topmost place of government with a view to a burdensome office, not in desire of the glory of transitory dignity. He watches also wisely over the charge of the sheepfold which he has taken in hand, lest either perverse men speaking forwardly tear the sheep of God, or malignant spirits waste them by persuading them to vicious delights. But in all these things may He instruct us Who for our sake was made man. May He Who vouchsafed to become what He made Himself infuse the spirit of His love both into my infirmity and thy charity, and open the eye of our heart in all carefulness and watchful circumspection. But that men of a right faith are advanced to sacred orders, thanks should be given without cease to the same Almighty God, and prayer should ever be made for the life of our most pious and Christian lord the Emperor, and for his most tranquil spouse, and his most gentle offspring, in whose times the mouths of heretics are silent, since, though their hearts seethe in the madness of perverse opinion, yet in the time of the orthodox Emperor they presume not to speak out the wrong opinions which they hold; so that we plainly see fulfilled what is written, Gathering the waters of
-
-121
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6964,15 +4910,9 @@ Philip Schaff
 
 the sea together as in a bottle (Ps. xxxii. 7160). For the water of the sea is gathered together as in a bottle, because whatever wrong opinions the bitter science of heretics entertains at the present day it keeps within the breast, and presumes not to express them openly. But thy Fraternity, spiritually taught, has set forth in all respects the right faith, and has thoroughly declared the things that should be sought after. Your faith, therefore, is ours. We hold what you say, and say what you hold. But, inasmuch as it has come to our ears that in the Churches of the East no one attains to sacred orders but by giving of bribes, if your Fraternity finds that this is the case, you should offer as your first oblation to Almighty God the restraining of the error of simoniacal heresy in the Churches subject to you. For, not to speak of other things, what sort of men can they be when in sacred orders who are advanced to them not by merit but by bribes? Now we know with what animadversion the Prince of the apostles attacked this heresy, having pronounced the first sentence of condemnation against Simon, when he said, Thy money be with thee unto perdition, because thou hast thought that the gift of God may be purchased with money (Acts viii. 20). Our Lord God Himself also, the Creator and Redeemer of the human race, having made a scourge of small cords, overthrew and cast out of the temple the seats of them that sold doves (Matth. xxi.). For to sell doves in the temple, what else is it but to give for a price in holy Church that imposition of hands whereby the Holy Spirit is given? But the seats of them that sold doves were overthrown, because the priesthood of such is not accounted as priesthood. Moreover, I have been informed that in the Church which is called Neas, strifes often arise with your Church in the city of Jerusalem. Wherefore your Holiness ought carefully to consider all things, and to correct some things gently, but bear others that cannot be corrected with equanimity. For we see plainly what is said by holy Church through the voice of the Psalmist, Sinners have built upon my back (Ps. cxxviii. 3)161. For on the back burdens are borne. Sinners, then, build upon our back, when we bear with sufferance those whom we cannot correct. For the steersman of a ship, when he considers that the wind is against him, surmounts some billows by steering right over them, but some which he foresees cannot be surmounted he prudently avoids by turning his course aside. So, therefore, let your Holiness mitigate some evils by repressing them, and others by bearing them, so as in all respects to conserve the peace of them that dwell together in the holy Church of Jerusalem. For it is written, Follow peace with all men, and holiness, without which no man shall see God (Hebr. xii. 14). For in quarrels the very light of the soul, the light of good intent, is blocked. Whence the Psalmist says, Mine eye is troubled because of anger (Ps. vi. 8). And what remains in us of well-doing, if we lose peace from the heart, without which we cannot see the Lord? Do you therefore so act as to gather the gain of your reward even from those who through strife might have caused it to perish. May Almighty God guard your Love with heavenly grace, and grant you to carry with you from those who are committed to you manifold fruit and measure running over to eternal joys.
 
-160
-
 In A.V. xxxiii. 7.
 
-161
-
 In A.V. cxxix. 3.
-
-122
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -6980,17 +4920,11 @@ Philip Schaff
 
 Epistle XLVII. To Anatolius, Deacon at Constantinople.
 
-69
-
 Gregory to Anatolius, &c. Thy Love has written to me that our most pious lord orders a successor to be appointed to my most reverend brother John, bishop of Prima Justiniana, on account of the ailment of the head from which he suffers, lest perchance that city, while without the jurisdiction of a bishop, should be ruined by its enemies, which God forbid. And yet the canons nowhere enjoin that a bishop should be superseded on account of sickness. And it is altogether unjust that, if bodily ailments come on, the sick person should be deprived of his dignity162. Accordingly this thing can by no means be done through us, lest sin should come upon my soul from his deposition. But it is to be suggested that, if he who bears rule is sick, an administrator may be found, to undertake all his charge, and maintain and fill his place, without his being deposed, in the government of the Church and custody of the city; so that neither may Almighty God be offended nor the city be found to be neglected. If, however, the same most reverend John should haply on account of his ailments request to be relieved from the dignity of the episcopate, it should be conceded on his presenting a petition in writing. But otherwise we are altogether unable, with due regard to the fear of Almighty God, to do this thing. But, if he should be unwilling thus to make petition, what pleases the most pious Emperor, whatever he commands to be done, is in his power. As he determines, so let him provide. Only let him not cause us to be mixed up in the deposition of one so situated. Still, what he does, if it is canonical, we will follow. But, if it is not canonical, we will bear it, so far as we can without sin of our own.
 
 Epistle L. To Adrian, Notary. Gregory to Adrian, Notary of Panormus.
 
-162
-
 Cf. XIII. 5 for a similar assertion of the unlawfulness of superseding a bishop, except at his own request, when incapacitated by illness. See also VII. 19. In this epistle may be observed Gregory’s habitual deference to the Emperors, whose subject he ever declared himself to be, even in matters of ecclesiastical import, together with his avoidance of giving his own sanction to anything he regarded as irreligious or uncanonical. Similarly in the case of an imperial prohibition of soldiers becoming monks. See III. 65; VIII. 5; X. 24. Cf. also IV. 47, in the case of Maximus of Salona. We find him, however, in a letter to the empress, in which this case of Maximus is referred to (V. 21), making a respectful protest against imperial interference in matters of ecclesiastical cognizance.
-
-123
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7000,23 +4934,13 @@ Agathosa, the bearer of these presents, complains that her husband has, against 
 
 Epistle LIV. To Desiderius, Bishop of Gaul165. Gregory to Desiderius, &c. Many good things having been reported to us with regard to your pursuits, such joy arose in our heart that we could not bear to refuse what your Fraternity had requested to have granted to you. But it afterwards came to our ears, what we cannot mention without shame, that thy Fraternity is in the habit of expounding grammar to certain persons. This thing we took so much amiss, and so strongly disapproved it, that we changed what had been said before into groaning and sadness, since the praises of Christ cannot find room in one mouth with the praises of Jupiter. And consider thyself what a grave and heinous offence it is for bishops to sing what is not becoming even for a religious layman. And, though our most beloved son Candidus the presbyter, having been, when he came to us, strictly examined on this matter, denied it, and endeavoured to excuse you, yet still
 
-163
-
 Conversum, in the usual sense of adopting monastic life.
-
-164
 
 Cf. VI. 48, and XI. 45.
 
-165
-
 Desiderius was bishop of Vienne, cf. VI. 54. This letter, with others that follow (Epp. LV., LVI., LVII., LVIII, LIX., LX., LXI., LXII., LXIV., LXV., LXVI., and possibly also the preceding Epistle, XXIX.) were carried, as appears from its conclusion, by Mellitus and his companions, who, in answer to Augustine’s request, were sent by Gregory from Rome to reinforce the mission to Britain (Bede, H. E. I. 27, 29). See Prolegomena, p. xxvi. It is notable as shewing Gregory’s views with regard to the study of secular literature.
 
-124
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-70
 
 Philip Schaff
 
@@ -7024,11 +4948,7 @@ the thought has not departed from our mind, that in proportion as it is execrabl
 
 Epistle LV. To Virgilius, Bishop of Arelate (Arles)166. Gregory to Virgilius, &c. Since by the testimony of Holy Writ avarice is called the service of idols, with what earnestness it ought to be banished from the temple of God is acknowledged; and yet (we say it with groaning) by some priests this is not regarded. For fierce cupidity holds the heart captive, and persuades one that what it commands is lawful, and so proceeds as to slay with the same sword both the giver and the receiver. What safe place, then, can hereafter be of avail against avarice, if the Church of God is opened to it by bad priests? How can he keep the sheepfolds inviolate who invites the wolf to enter? Alas for shame! He pollutes his hands by an unlawful bribe, and thinks to lift up others by his benediction, while himself prostrate under his own iniquity, and captive notwithstanding to his own ambition. Since then this evil of rapacity has never entered the citadel of your mind, and you say that you have your hands unpolluted in the matter of ordinations, give thanks to Almighty God, and acknowledge yourselves to be His debtors in that under His protection you have remained unharmed by the contagion of this disease. But this good in you will profit you less than it might have done if you have not carefully forbidden this thing in others also. As in thyself this evil had displeased thee, thou oughtest to have been zealous against it in thy brother also. For, seeing that the divine precepts admonish us to love our neighbours as ourselves, it is no small fault to disregard them, and not to fear for others what for ourselves we shrink from. Even now, therefore, most beloved brother, give thy mind to repairing what thou hast lost in others through thy negligence in correction, and restrain whomsoever thou canst from this wickedness, and insist on a synod being assembled for rooting out this same heresy, to the end that, with reward to thy Love, what shall
 
-166
-
 The bishop of Arles had vicariate jurisdiction committed to him under Rome. Cf. V. 53.
-
-125
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7038,11 +4958,7 @@ have been condemned, God granting it, by the ordinance of all may be better guar
 
 Epistle LVI. To Ætherius, Bishop of Lugdunum (Lyons.)
 
-71
-
 Gregory to Ætherius, Bishop of Gaul. The language of your epistles, full of venerable gravity, has so engaged our heart’s affection that it would please us to be ever mingling mutual discourse, to the end that, if we cannot enjoy your bodily presence, absence may make no difference with us while this intercourse goes on between us. For how great love of ecclesiastical order shines forth in you, and how great is your regard for discipline, and how great your earnestness in the observance of wholesome ordinances you shew in that you receive our exhortation submissively and altogether willingly, and declare that you will inviolably observe it. Since then you bear a heart prompt for the amendment of others, and condemn with a free voice, as becomes you, an evil of old standing, and seeing that our other brethren and fellow-bishops also are similarly disposed, it is your duty to rise unanimously against the Lord’s enemies, and cast avarice out of the house of God by a synodical definition. In the giving of ecclesiastical orders let not fierce hunger for gold find any satisfaction; let not flatteries filch any advantage; let not favour confer anything: let a man’s life have the reward of honour, his modesty promote his advancement; that, while this kind of observance obtains, both he that seeks to rise by bribes may be judged unworthy, and he to whom his conduct bears good testimony may be worthily honoured. Let this be your care, most beloved brother, let this anxiety ever keep guard over your thoughts, so that you may prove by action that the zeal which you shew in your letters is the witness of your heart. Wherefore continually and instantly press for the assembling of a synod; and so earnestly acquit yourself as to act up to the dignity of your title in the administration of your office.
-
-126
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7052,15 +4968,9 @@ With regard to what you request to have granted to your Church on the ground of 
 
 Epistle LVII. To Aregius, Bishop of Vapincum168. Gregory to Aregius, Bishop of Gaul. There being in brotherly love one heart and one soul, as the mind rejoices in the prosperity of another, so is it afflicted in his adversity, since in both it is bound to be partaker by the law of charity. And so the greater sorrow had come upon us for your sadness, lest perchance the affliction of a prolonged grief might batter your heart with continual pain, and burden your life with groans. But, having received the letters of your Charity, we have been consoled with the joy we hoped for, and we give thanks to Almighty God, for that we now know that your equanimity is unimpaired, and that your mind has been restored to comfort. Nor indeed was it otherwise to be expected of you than that you would undoubtedly overcome with priestly patience whatever adversity there might be. Further, we well recollect how the zeal of your Fraternity flamed up of old in uprooting simoniacal heresy. Wherefore we exhort that you give your earnest attention to this, and that, among other things that we wrote of, it be condemned by the strict definition of a council; that so, the bent of our desire being fulfilled by the help of your solicitude, you may both offer to Almighty God a most acceptable oblation in the correction of vices, and also shew, for the edification of others, how the care of the pastoral office shines forth in you. Moreover our experience of your life, which we have known to be much superior to that of many, moves us to presume on great
 
-167
-
 In two MSS. (Teller.) “die decimo Kalendas Julii, indict. 4,” i.e. 22 June, A.D. 601. This may be taken as correct, agreeing with other dated epistles sent through Mellitus and his companions.
 
-168
-
 Cf. IX. 107, to the same Aregius.
-
-127
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7070,17 +4980,11 @@ assistance from you in this matter. And so complete ye your kindness as under Go
 
 Epistle LVIII. To Divers Bishops of Gaul.
 
-72
-
 Gregory to Mennas of Telona (Toulon), Serenus of Massilia (Marseilles), Lupus of Cabillonum (Châlons-sur-Saône), Aigulfus of Mettæ (Metz), Simplicius of Parisii (Paris), Melantius of Rotonius (Rouen), and Licinius169, bishops of the Franks. A paribus. Though the care of the office you have undertaken reminds your Fraternity how you ought to assist with all your endeavours religious men, and especially those who labour in behalf of souls, yet it is not beside the purpose that an address by letter from us should stimulate your assiduity, since, as a fire becomes larger from a blast of air, so the purposes of a good disposition are advanced by commendation. Inasmuch, then, as through the co-operating, grace of our Redeemer so great a multitude of the nation of the Angli is being converted to the grace of Christian faith that our most reverend common brother and fellow-bishop Augustine asserts that those who are with him cannot suffice for carrying out this work in divers places, we have made provision by sending to him a few monks with our most beloved common sons Laurentius the presbyter and Mellitus the abbot. And so let your Fraternity shew them the charity that becomes you, and so make haste to aid them wherever there may be need, that through your assistance they may have no cause for delay in your parts, and that both they themselves may rejoice with you in being relieved by your consolation, and you, by affording them your succour, may be found partakers in the cause in furtherance of which they have been sent.
 
 Epistle LIX.
 
-169
-
 Licinius (afterwards canonized) was bishop of Andegavum (Angers).
-
-128
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7090,19 +4994,11 @@ To Theoderic, King of the Franks170. Gregory to Theoderic, &c. The letter of you
 
 Epistle LX. To Theodebert, King of the Franks171. Gregory to Theodebert, &c. One who receives with willing mind and embraces in the bosom of his heart words of fatherly admonition declares himself without doubt to be one who would be an amender of faults. On which account the absolute promise of your Excellence assures us sufficiently. For we hold in place of a pledge the words of one who is good for payment. Therefore let your Excellency vouchsafe,
 
-170
-
 Cf. VI. 58, note 1.
 
-171
-
 Cf. VI. 58, note 1.
-
-129
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-73
 
 Philip Schaff
 
@@ -7110,11 +5006,7 @@ adhering to the commands of our God, to give zealous attention to the assembling
 
 Epistle LXI. To Clotaire, King of the Franks172. Gregory to Clotaire, &c. Among so many cares and anxieties which you sustain for the government of the peoples under your sway, it is to your exceeding praise and great reward that you are helpers of those who labour in the cause of God. And, since you have shewn yourselves by the good things you have already done to be such that we may presume still better things of you, we are moved most gladly to request of you what will be to your own reward. Now certain monks, who had proceeded with our most reverend brother and fellow-bishop Augustine to the nation of the Angli, have returned and told us with what great charity your Excellence refreshed this our brother when he was present with you, and with what supports you aided him on his departure. But, since the works of those who do not recede from the good they have begun are acceptable to our God, we beg of you, greeting you with fatherly affection, to hold as peculiarly commended to you the monks, bearers of these presents, whom we have sent to our aforesaid brother together with our most beloved sons, the presbyter Laurentius and the abbot Mellitus. And whatever kindness you before shewed to him bestow ye
 
-172
-
 Clotaire II., at this time king of Neustria, his capital being Soissons. There is no letter to him among those which had been carried by Augustine. But it appears from this epistle that the missionaries had passed through his dominions and had been well received.
-
-130
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7124,15 +5016,9 @@ on them also to the richer increase of your praise, to the end that, when throug
 
 Epistle LXII. To Brunichild, Queen of the Franks173. Gregory to Brunichild, &c. We render thanks to Almighty God, Who, among all the other gifts of His loving-kindness that He has bestowed upon your Excellency, has so filled you with a love of the Christian religion that whatever you know to pertain to the gain of souls, whatever to the propagation of the faith, you cease not to carry into effect with devout mind and pious zeal. As to the great favour and assistance wherewith your Excellence aided our most reverend brother and fellow-bishop Augustine on his progress to the nation of the Angli, fame had already not been silent; and afterwards certain monks, returning to us from him, gave us a particular account thereof. And indeed, let others to whom your benefactions are less known wonder at these evidences of your Christianity; for to us who know them by experience they are not a subject of wonder, but of rejoicing, because through what you bestow upon others you delight yourself. Now of what sort and how great are the miracles which our Redeemer has wrought in the conversion of the above-written nation is already known to your Excellency. On which account you ought to have great joy, since the succours afforded by you claim to themselves the larger share herein, it having been through your aid, after God, that the word of preaching became widely known in those parts. For one who aids the good work of another makes it his own. But, that the fruit of your reward may be richer more and more, we beg of you kindly to afford the support of your patronage to the
 
-173
-
 Brunechild was at this time with her grandson Theoderic in the kingdom of Burgundy, having been expelled from Austrasia, according to Greg. Turon, A.D. 599.
 
-131
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-74
 
 Philip Schaff
 
@@ -7140,23 +5026,15 @@ monks, the bearers of these presents, whom we have sent with our most beloved so
 
 Epistle LXIII. To Brunichild, Queen of the Franks. Gregory to Brunichild, &c. What good gifts have been conferred on you from above, and with what piety heavenly grace has filled you, this, among all the other proofs of your merits, intimates evidently to all that you both govern the savage hearts of barbarians with the skill of prudent counsel, and (what is still more to your praise), adorn your royal power with wisdom. And since, as you are above many nations in both these respects, so also you excel them in the purity of your faith, we have great confidence in your amending what is unlawful. For the contents of the letters you have already sent us are witness how your Excellency has embraced our exhortation, and with what devotion you long to fulfil the same. But, since He Who is the giver of good dispositions is wont to be their helper also, we trust that He may direct your causes in His loving-kindness all the more favourably as He sees you to be assiduous in His cause. Do you God’s work, and God will do yours. Wherefore order a synod to be assembled, and, among other things, as we have before written, studiously prohibit by the definition of a council the sin of simoniacal heresy in your kingdom. Offer a sacrifice to God by conquering the enemy that is within, that by His help you may conquer the enemies that are without; and that, according to the zeal you evince against His foes, such you may feel Him to be in aiding you. Believe me, moreover, that, as we have learnt from the experience of many, whatever is gathered together with sin is spent with loss. If, then, you wish to lose nothing unjustly, endeavour to the utmost to have nothing got by injustice. For in earthly matters loss has always its origin in sin. You, therefore, if you wish to stand above adverse nations, if you would speedily, with God’s leave, be victorious over them, receive with trembling the commandments of the same Almighty God, that He Himself may fight for you against your adversaries, Who has promised in Holy Writ, saying, The Lord shall fight for you, and ye shall hold your peace (Exod. xiv. 14). \[In Collect. Pauli Diac.: Data die decima Kalend., Indict. 4. In Remigiano: Data die x Kalendas Julii, Indict. 4.\]
 
-132
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
 
 Epistle LXIV. To Augustine, Bishop of the Angli174. Here begins the epistle of the blessed Gregory pope of the city of Rome, in exposition of various matters, which he sent into transmarine Saxony to Augustine, whom he had himself sent in his own stead to preach. PREFACE.—Through my most beloved son Laurentius, the presbyter, and Peter the monk, I received thy Fraternity’s letter, in which thou hast been at pains to question me on many points. But, inasmuch as my aforesaid sons found me afflicted with the pains of gout, and on their urging me to dismiss them speedily were allowed to go, leaving me under the same painful affliction; I have not been able to reply, as I ought to have done, at greater length on every single point. Augustine’s first question. I ask, most blessed father, concerning bishops, how they should live with their clergy: And concerning the offerings of the faithful which are received at the altars, both into what portions they should be divided, and how the bishop ought to deal with them in the Church. Answer of Saint Gregory, pope of the city of Rome.
 
-75
-
 Holy Scripture, which no doubt thou knowest well, bears witness, and especially the epistles of the blessed Paul to Timothy, in which he studied to instruct him how he ought to behave himself in the house of God. Now it is the custom of the Apostolic See to deliver an injunction to bishops when ordained, that of all emoluments that come in four divisions should be made: to wit, one for the bishop and his household on account of hospitality and entertainment; another for the clergy; a third for the poor; and a fourth for the reparation of Churches. But, inasmuch as thy Fraternity, having been trained in the rules of a monastery, ought not to live apart from thy clergy in the Church
 
-174
-
 This important epistle is given below as published in the Benedictine edition, with notes pointing out its main variations from Bede (H. E. i. 27), and with addition of the Preface, first published by Mansi (Supplem. ad Concil. tom. vi., p. 385) from a MS. Codex of the eighth century (Cod. Lucen.). Bede’s copy may be regarded as the most authentic, having been brought to him from Rome by Nothelm, A.D. 715–731 (Bede H. E. Præf.). However, he does not give the Preface, which has internal evidence of authenticity. Subsequently to Nothelm’s visit to Rome, it would seem that the whole epistle had been mislaid there, not having been kept among the rest of Gregory’s letters. For St. Boniface, A.D. 736 (Epist. XL. ad Nothelm. Episc Cantuar.) requests Nothelm to send him a copy of these Questions and Answers from England, saying that no copy of them could at that time be found at Rome. They were, we may conclude, discovered subsequently. Internal evidence, as well as historic probability, supports the superior genuineness of Bede’s copy (Cf. Councils, &c., relating to Great Britain and Ireland, Oxf., 1871. Vol. III., p. 32.) The edition of the Epistle (Cod. Lucen.) above referred to as published by Mansi, though containing several variations, agrees in many respects with that of Bede, and especially in the absence of “the request of Augustine” (obsecratio Augustini) and “the grant of Gregory” (Concessio Gregorii) after the answer to the ninth question. See note there.
-
-133
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7164,11 +5042,7 @@ Philip Schaff
 
 of the Angli, which by the guidance of God has lately been brought to the faith, it will be right to institute that manner of life which in the beginning of the infant Church was that of our Fathers, among whom none said that aught of the things which he possessed was his own, but they had all things common (Acts iv.). Augustine’s second question175. I wish to be taught whether clerics who cannot contain may marry; and, if they marry, whether they should return to the world. Answer of the blessed pope Gregory. If, however, there are any clerics, not in sacred orders, who cannot contain themselves, they ought to take to themselves wives, and receive their stipends separately, since we know that it is written of those same Fathers whom we have before mentioned, that distribution was made unto every man according as he had need. Wherefore thought should be taken and provision made for their stipends, and they should be kept under ecclesiastical rule, that they may lead good lives, and give attention to the singing of psalms, and by the help of God preserve their heart and tongue and body from all that is unlawful. But as to those who live in community, what is there more for us to say with regard to assigning portions, or shewing hospitality, or executing mercy, seeing that what remains over and above their needs is to be expended for pious and religious uses, as the Lord and Master of us all says, Of what is over give alms, and behold all things are clean unto you (Luke xi. 41)? Augustine’s third question. Since there is but one faith, why are the uses of Churches so different, one use of Mass being observed in the Roman Church, and another in the Churches of Gaul? Answer of the blessed pope Gregory. Thy Fraternity knows the use of the Roman Church, in which thou hast been nurtured. But I approve of thy selecting carefully anything thou hast found that may be more pleasing to Almighty God, whether in the Roman Church or that of Gaul, or in any Church whatever, and introducing in the Church of the Angli, which is as yet new in the faith, by a special institution, what thou hast been able to collect from many Churches. For we ought not to love things for places, but places for things. Wherefore choose from each several Church such things as are pious, religious, and right, and, collecting them as it were into a bundle, plant them in the minds of the Angli for their use.
 
-175
-
 In Bede, and Cod. Luc , this question does not appear, what follows as a reply to it being in continuation of the answer to Question I. The form of the beginning of the reply, “Si qui vero sunt clerici,” favors it having been so.
-
-134
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7178,23 +5052,15 @@ Augustine’s fourth question. Pray tell me what any one ought to suffer who may
 
 As far as what generation believers ought to be joined in marriage with their kin, and whether it is lawful to be joined in marriage with stepmothers and brothers’ wives? Answer of the blessed pope Gregory. A certain earthly law in the Roman republic allows the son and daughter, whether of a brother and sister, or of two brothers, or of two sisters, to marry together. But we have learnt by experience that progeny cannot ensue from such marriages. And the sacred law forbids to uncover the nakedness of kindred. Whence it follows that only the third or fourth generations of believers may be lawfully
 
-135
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
 
 joined together176. For the second which we have spoken of, ought by all means to abstain from each other. But to have intercourse with a stepmother is a grave offence, seeing that is also written in the law, thou shalt not uncover the nakedness of thy father (Lev. xviii. 7). Not indeed that a son can uncover his father’s nakedness; but, since it is written in the law, They too shall be one flesh (Gen. ii. 24), he who has presumed to uncover the nakedness of his stepmother, who has been one flesh with his father, has in truth uncovered his father’s nakedness. It is also forbidden to have intercourse with a brother’s wife, who, through her former conjunction, has become the flesh of the brother. For which thing also John the Baptist was beheaded, and crowned with holy martyrdom. He was not bidden to deny Christ; and yet for confessing Christ he was slain; because the same our Lord Jesus Christ had said, I am the truth (John xiv. 6); and because John was slain for the truth, he shed his blood for Christ. Augustine’s seventh question177. I request to have it declared whether to such as are thus foully joined together separation should be enjoined, and the oblation of sacred communion denied them? Answer of the blessed pope Gregory. But, since there are many in the nation of the Angli who while they were yet in unbelief are said to have been associated in such unholy marriages, they should be admonished, when they come to the faith, to abstain from each other, and be made to understand that this is a grievous sin. Let them fear God’s tremendous judgment, lest for carnal delight they incur the pains of eternal torment. Yet they should not on this account be deprived of the communion of the Lord’s body and blood, lest we should seem to punish them for what they had bound themselves in through ignorance before the laver of baptism. For at this time holy Church corrects some things with fervour, tolerates some things with gentleness, connives at and bears some things with consideration, so as often to repress what she opposes by bearing and conniving. But all who come to the faith are to be warned not to dare to perpetrate any such thing: and if any should perpetrate it, they must be deprived of the communion of the Lord’s body and blood, since, as in those who have done it in ignorance the fault should be to a certain extent tolerated, so it should be severely visited in those who are not afraid to sin in spite of knowledge.
 
-176
-
 This allowance of marriage between second cousins seems to have caused surprise in some quarters. Cf. Epistle of Felix of Messana to Gregory (XIV. 16). The motive of St. Boniface in his letter to Nothelm, referred to above under note 1, in which he asked for a copy of these Questions and Answers, seems to have been a desire to ascertain whether Gregory had really allowed such marriages. He writes, “in qua inter cætera capitula continetur quod in tertia generatione propinquitatis fidelibus liceat matrimonia copulare.”
 
-177
-
 This question is not in Bede, or in Cod. Lucens., what follows being given as a continuation of the preceding answer. It begins with “Quia vero.” Cf. note 2.
-
-136
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7202,15 +5068,9 @@ Philip Schaff
 
 Augustine’s eighth question. I ask whether, if length of way intervenes, and bishops are not able to assemble easily, a bishop should be ordained without the presence of other bishops. Answer of the blessed pope Gregory.
 
-77
-
 Indeed in the Church of the Angli, wherein thou art so far the only bishop, thou canst not ordain a bishop otherwise than without bishops. For, when bishops shall come from Gaul they will attend thee as witnesses for the ordination of a bishop178. But we desire thy Fraternity so to ordain bishops in England that the bishops themselves be not separated from one another by long distances, to the end that there be no necessary cause why they should not come together in the case of the ordination of any bishop. For the presence of some other pastors also is exceedingly advantageous; and hence they ought to be able to come together as easily as possible. When therefore, God granting it, bishops shall have been ordained in places not far from each other, an ordination of bishops should in no case take place without three or four bishops being assembled. For in spiritual things themselves, that they may be ordered wisely and maturely, we may draw an example even from carnal things. For assuredly, when marriages are celebrated in the world, some married persons are called together, that those who have gone before in the way of marriage may be associated also in the ensuing joy. Why then, in this spiritual ordination too, wherein man is joined to God through a sacred mystery, should not such come together as may both rejoice in the advancement of him who is ordained bishop and pour forth prayers to the Almighty Lord for His protection? Augustine’s ninth question. I ask also how we should deal with the bishops of Gaul and of the Britons. Answer of the blessed pope Gregory. Over the bishops of Gaul we give thee no authority, since from the ancient times of my predecessors the bishop of Arelate (Arles) has received the pallium, and we ought by no means to deprive him of the authority that he has acquired. If therefore it should happen that thy Fraternity should pass into the provinces of Gaul, thou shouldest act with the same bishop of Arelate in such a way that vices in bishops, if any, may be corrected. And, if he should by chance be lukewarm in the vigour of discipline, he must be stirred up by the zeal of thy Fraternity. To him we have also
 
-178
-
 It is to be observed that Gregory, though aware of the existence of British bishops, as his answer to the following questions shews, does not contemplate their taking part in ordinations. He may have been unwilling to invite their co-operation till assured of their orthodoxy and submission to the Roman See. The failure of Augustine’s negotiations with them has been attributed to his own imperious attitude towards them. But it is at least a question whether his instructions did not justify the position he assumed (see Bede, H. E. II. 2.).
-
-137
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7218,15 +5078,9 @@ Philip Schaff
 
 written letters179, bidding him aid thee with his whole soul, whenever thy Holiness may be present in Gaul, that you may together repress in the manners of bishops all that is contrary to the command of our Creator. But thou thyself wilt not have power to judge the bishops of Gaul by authority of thine own; but by persuading, alluring, and also exhibiting thine own good works for their imitation, and so moulding the dispositions of the vicious to concern for holiness; seeing that it is written in the law, One passing through the standing corn of another must not put in a sickle, but rub the ears with his hand and eat (Deut. xxxii. 25). Thou canst not, then, put in the sickle of judgment into the crop that is seen to be committed to another; but by kindly good offices thou canst strip the corn of the Lord from the chaff of its defects, and by admonishing and persuading, convert it, as it were by chewing, into the body of the Church. But whatever is to be done authoritatively, let it be done with the aforesaid bishop of Arelate, lest there should be any disregard of what the ancient institution of the Fathers has provided. But of all British bishops we commit the charge to thy Fraternity, that the unlearned may be taught, the weak strengthened by persuasion, the perverse corrected by authority. Augustine’s request. I request that the relics of Saint Sixtus the martyr may be sent to us180. The grant of Gregory. We have done what thou hast requested, to the end that the people who formerly said that they venerated in a certain place the body of Saint Sixtus the martyr, which seems to thy Fraternity to be neither the true body nor truly holy, may receive certain benefits from the most holy and approved martyr, and not reverence what is uncertain. Yet it seems to me that, if the body which is believed by the people to be that of some martyr is distinguished among them by no miracles, and if further there are none of the more aged who declare that they had heard the order of his passion from progenitors, the relics which thou hast asked for should be so deposited apart that the place in which the aforesaid body lies, be entirely blocked up, and that the people be not allowed to desert what is certain, and venerate what is uncertain. Augustine’s tenth question. Whether a pregnant woman should be baptized, or, when she has brought forth, after what length of time she should be allowed to enter the church. Or, to guard also against her issue being surprised by death, after how many days it may receive the sacrament of holy baptism. Or after what length of time her husband may have carnal intercourse with her. Or, if she is in her sickness after the manner of women, whether she may enter the church, or receive the sacrament of sacred
 
-179
-
 Cf. XI. 68.
 
-180
-
 This question, with the answer to it, is absent from Bede, and Cod. Lucens , and may be regarded as an interpolation.
-
-138
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7234,19 +5088,13 @@ Philip Schaff
 
 communion. Or whether a man after intercourse with his wife, before he has been washed with water, may enter the church, or even go to the ministry (ministerium: in Bede, mysterium) of sacred communion. All these things it is right we should have made known to us for the rude nation of the Angli. Answer of the blessed pope Gregory.
 
-78
-
 I doubt not that thy Fraternity has been asked these questions, and I think that I have supplied thee with answers to them. But I believe that thou wishest what thou art able of thyself to say and think to be confirmed by my reply. For why should not a pregnant woman be baptized, fecundity of the flesh being no fault before the eyes of Almighty God? For, when our first parents had transgressed in Paradise, they lost by the just judgment of God the immortality which they had received. Therefore, because Almighty God would not utterly extinguish the human race for their fault, He took away immortality from man for his sin, and yet, in the kindness of His pity, reserved to him fruitfulness in offspring. With what reason then can what has been preserved to the human race by the gift of Almighty God be debarred from the grace of holy baptism? For indeed it is very foolish to suppose that a gift of grace can possibly be inconsistent with that mystery wherein all human sin is entirely extinguished. But as to how many days after her delivery a woman may enter the church, thou hast learnt that by the direction of the Old Testament she ought to keep away xxxiii. days for a male child, but lxvi. for a female. It should be known, however, that this is understood mystically. For, if in the same hour in which she has been delivered she enters the church, she subjects herself to no burden of sin. For it is the pleasure of the flesh, not the pain, that is in fault. But it is in the carnal intercourse that the pleasure lies; for in bringing forth of offspring there is pain and groaning. Whence even to the first mother of all it is said, In sorrow thou shalt bring forth children (Gen. iii. 16). If, therefore, we forbid a woman after her delivery to enter the church, we reckon her very penalty to her for a fault. Moreover, it is by no means forbidden that either a woman after delivery or that which she has brought forth should be baptized without delay, if in peril of death; she even in the same hour in which she is delivered, or it in the same hour in which it is born. For, as in the case of those who live and have discretion the grace of the holy mystery should be seen to with great discernment, so to those who are in imminent danger of death it should be offered without any delay, lest, while time is being sought for administering the mystery of redemption, death should shortly intervene, and no way be found of redeeming the time that has been lost. Further, her husband ought not to cohabit with her till that which is brought forth be weaned. But an evil custom has arisen in the ways of married persons, that women scorn to nurse the children whom they bring forth, and deliver them to other women to be nursed. Which custom appears to have been devised for the sole cause of incontinency, in that, being unwilling to contain themselves, they think scorn to suckle their offspring. Those women therefore who, after an evil custom, deliver their children to others to be nursed ought not to have intercourse with their husbands unless the time of their purification has passed, seeing that, even without the reason of childbirth, they are 139
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
-79
-
 Philip Schaff
 
 forbidden to have intercourse with their husbands while held of their accustomed sicknesses; so much so that the sacred law smites with death any man who shall go into a woman having her sickness (Lev. xx. 18). Yet still a woman, while suffering from her accustomed sickness, ought not to be prohibited from entering the church, since the superfluity of nature cannot be imputed to her for guilt, and it is not just that she should be deprived of entrance into the church on account of what she suffers unwillingly. For we know that the woman who suffered from an issue of blood, coming humbly behind the Lord, touched the hem of his garment, and immediately her infirmity departed from her (Luke viii.). If then one who had an issue of blood could laudably touch the Lord’s garment, why should it be unlawful for one who suffers from a menstruum of blood to enter in the Lord’s Church? But that woman, thou wilt say, was compelled by infirmity; but these are held of their accustomed sicknesses. Yet consider, dearest brother, how all that we suffer in this mortal flesh is of infirmity of nature, ordained after guilt by the fitting judgment of God. For to hunger and to thirst, to be hot, to be cold, to be weary, is of infirmity of nature. And to seek food against hunger, and drink against thirst, and cool air against heat, and clothing against cold, and rest against weariness, what is it but to search out certain healing appliances against sicknesses? For in females also the menstruous flow of their blood is a sickness. If therefore she presumed well who in her state of feebleness touched the Lord’s garment, why should not what is granted to one person in infirmity be granted to all women who through defect of their nature are in infirmity? Further, she ought not to be prohibited during these same days from receiving the mystery of holy communion. If, however, out of great reverence, she does not presume to receive, she is to be commended; but, if she should receive, she is not to be judged. For it is the part of good dispositions in some way to acknowledge their sins, even where there is no sin, since often without sin a thing is done which comes of sin. Whence also, when we hunger, we eat without sin, though it has come of the sin of the first man that we do hunger. For the menstruous habit in women is no sin, seeing that it occurs naturally; yet still that nature itself has been so vitiated as to be seen to be polluted even without the intention of the will is a defect that comes of sin, whereby human nature may perceive what through judgment it has come to be, so that man who voluntarily committed sin may bear the guilt of sin involuntarily. And so females, when they consider themselves as being in their habit of sickness, if they presume not to approach the sacrament of the body and blood of the Lord, are to be commended for their right consideration. But when, out of the habit of a religious life, they are seized with a love of the same mystery, they are not to be restrained, as we have said. For, as in the old Testament outward acts were attended to, so in the New Testament it is not so much what is done outwardly as what is thought inwardly that is regarded with close attention, that it may be punished with searching judgment. For while the law forbids the eating of many things as being unclean, the Lord nevertheless says in the Gospel, Not that which goeth into the mouth defileth a man, but the things which come forth from the heart, these are they which defile a man (Matth. xv. 11). And soon after He added in explanation, Out of the heart proceed evil thoughts (Ib. 19). Hence it is abundantly indicated that what is shewn by Almighty God to be polluted in
-
-140
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7254,21 +5102,13 @@ Philip Schaff
 
 act is that which is engendered of the root of polluted thought. Whence also Paul the Apostle says, All things are pure to the pure; but unto them that are defiled and unbelieving is nothing pure (Tit. i. 15). And immediately, to declare the cause of this defilement, he subjoins, For their mind and conscience is defiled. If, then, food is not impure to one whose mind is not impure, why should what with a pure mind a woman suffers from nature be reckoned to her for impurity? Further, a man after sleeping with his own wife ought not to enter the church unless washed with water, nor, even when washed, enter immediately. Now the law enjoined on the ancient people that a man after intercourse with a woman should both be washed with water and not enter the church before sunset. Which may be understood spiritually as meaning that a man has intercourse with a woman when his mind is joined with delight in thought to illicit concupiscence, and that, unless the fire of concupiscence in his mind should cool, he ought not to think himself worthy of the congregation of his brethren, seeing himself to be burdened with by lewdness of wrong desire. For, although in this matter different nations of men have different notions, and some are seen to observe one practice and some another, yet the usage of the Romans from ancient times has always been for a man after intercourse with his own wife both to seek the purification of the bath and to refrain reverently for a while from entering the church. Nor do we, in saying these things, account wedlock as sin. But, since even the lawful intercourse of the wedded cannot take place without pleasure of the flesh, entrance into a sacred place should be abstained from, because the pleasure itself can by no means be without sin. For he had not been born of adultery or fornication, but of lawful wedlock, who said, Behold I was conceived in iniquities, and in sin my mother brought me forth (Ps. l. 7). For, knowing himself to have been conceived in iniquities, he groaned for having been born in sin, because the tree bears in its branch the vicious humour which it has drawn from its root. Yet in these words he does not call the intercourse of the wedded iniquity in itself, but in truth only the pleasure of the intercourse. For there are many things which are allowed and legitimate, and yet we are to some extent defiled in the doing of them; as often we attack faults with anger, and disturb the tranquillity of our own mind. And, though what is done is right, yet it is not to be approved that the mind is therein disturbed. For instance, he had been angry against the vices of transgressors who said, Mine eye is disturbed because of anger (Ps. vi. 8). For, since the mind cannot, unless it be tranquil, lift itself up to the light of contemplation, he grieved that his eye was disturbed in anger, because, though assailing evil doings from above, he still could not help being confused and disturbed from contemplation of the highest things. And therefore his anger against vice is laudable, and yet it troubles him, because he felt that he had incurred some guilt in being disturbed. Lawful copulation of the flesh ought therefore to be for the purpose of offspring, not of pleasure; and intercourse of the flesh should be for the sake of producing children, and not a satisfaction of frailties. If, then, any one makes use of his wife not as seized by the desire of pleasure, but only for the sake of producing children, he certainly, with regard to entering the church or taking the mystery of the body and blood of the Lord, is to be left to his own judgment, since by us he ought not to be prohibited from receiving it who knows no burning though in the midst of fire. But, when not the love of producing offspring but pleasure
 
-141
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-80
 
 Philip Schaff
 
 dominates in the act of intercourse, married persons have something to mourn over in their intercourse. For holy preaching concedes them this, and yet in the very concession shakes the mind with fear. For, when the Apostle Paul said, Who cannot contain let him have his own wife, he straightway took care to add, But I speak this by way of indulgence, not by way of command (1 Cor. vii. 7). For what is just and right is not indulged: what he spoke of as indulged he shewed to be a fault. Furthermore it is to be attentively considered that the Lord in mount Sinai, when about to speak to the people, first charged the same people to abstain from women. And if there, where the Lord spoke to men through a subject creature, purity of body was required with such careful provision that they who were to hear the words of God might not have intercourse with women, how much more ought those who receive the Body of the Almighty Lord to keep purity of the flesh in themselves, lest they be weighed down by the greatness of the inestimable mystery! Hence also it is said through the priest to David concerning his servants, that if they were pure from women they might eat the shew bread; which they might not receive at all unless David first declared them to be pure from women. Still a man who after intercourse with his wife has been washed with water may receive even the mystery of sacred communion, since according to the opinion above expressed it was allowable for him to enter the church. Augustine’s eleventh question. I ask also whether after an illusion, such is accustomed to occur in dreams, any one may receive the body of the Lord, or, if he be a priest, celebrate the sacred mysteries? Answer of the blessed Pope Gregory. Such a one the Testament of the old law, as we have already said in the last section, declares indeed to be polluted, and does not allow to enter the church until the evening, or without being washed with water. But one who understands this not only with special reference to that people at that time, but also spiritually, will regard it under the same intellectual conception that we have spoken of before; namely, that he has, as it were, an illusion in a dream who, being tempted by uncleanness, is defiled in thought by true images. But he is to be washed with water in the sense of washing away the sins of thought with tears. And, unless the fire of temptation has passed away, he should feel himself to be guilty, as it were, until the evening. But in this same illusion discrimination is very necessary, since it ought to be nicely considered from what cause it occurs to the mind of the sleeper. For sometimes it happens from surfeit, sometimes from superfluity or infirmity of nature, sometimes from cogitation. And indeed when it has come to pass from superfluity or infirmity of nature, it is by no means to be viewed with alarm, since the mind is to be commiserated as having endured it unwittingly rather than as having done it. But when the appetite of gluttony in taking food is carried beyond measure, and consequently the receptacles of the humours are loaded, the mind has therefore some guilt, yet not to the extent of prohibition from receiving the sacred mystery, or celebrating the solemnities of
 
-142
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-81
 
 Philip Schaff
 
@@ -7276,19 +5116,13 @@ mass, when perchance a festival day demands it, or necessity itself requires the
 
 Epistle LXV.
 
-143
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
 
 To Augustine, Bishop of the Angli181. Gregory to Augustine, &c. Though it is certain that for those who labour for Almighty God ineffable rewards of an eternal kingdom are reserved, yet we must needs bestow honours upon them, that by reason of remuneration they may apply themselves the more manifoldly in devotion to spiritual work. And, since the new Church of the Angli has been brought to the grace of Almighty God through the bountifulness of the same Lord and thy labours, we grant to thee the use of the pallium therein for the solemnization of mass only, so that thou mayest ordain bishops in twelve several places, to be subject to thy jurisdiction, with the view of a bishop of the city of London being always consecrated in future by his own synod, and receiving the dignity of the pallium from this holy and Apostolical See which by the grace of God I serve. Further, to the city of York we desire thee to send a bishop whom thou mayest judge fit to be ordained; so that, if this same city with the neighbouring places should receive the word of God, he also may ordain twelve bishops, so as to enjoy the dignity of a metropolitan: for to him also, if our life is continued, we propose, with the favour of God, to send a pallium; but yet we desire to subject him to the control of thy Fraternity. But after thy death let him be over the bishops whom he shall have ordained, so as to be in no wise subject to the jurisdiction of the bishop of London. Further, between the bishops of London and York in the future let there be this distinction of dignity, that he be accounted first who has been first ordained. But let them arrange by council in common, and with concordant action, whatever things may have to be done in zeal for Christ; let them be of one mind in what is right, and accomplish what they are minded to do without disagreement with each other. But let thy Fraternity have subject to thyself under our God not only those bishops whom thou shalt ordain, and those whom the bishop of York may ordain, but also all the priests of Britain, to the end that they may learn the form of right belief and good living from the tongue and life of thy Holiness, and, executing their office well in their faith and manners, may attain to heavenly kingdoms when it may please the Lord. God keep thee safe, most reverend brother. Given on the tenth day of the Kalends of July, in the 19th year of the empire of our lord Mauricius Tiberius, the 18th year after the consulship of the same lord, Indiction 4.
 
-181
-
 In the scheme, sketched in this letter, for the constitution of the Church in England which Gregory seems to have contemplated being carried out in Augustine’s own day, he shews serious ignorance of the state of things in England at the time, and consequently of possibilities. Among other things he appears to have known little of the ancient British Church or of the independent position which its bishops would be likely to assume. Still it is interesting to observe that the scheme in its main features—that of two independent Metropolitans in the North and in the South, each with his suffragan bishops under them—was after all eventually realized, and that the present constitution of the English Church may be traced to this letter; only that Canterbury never yielded its primitive dignity, as had been proposed, to London.
-
-144
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7296,15 +5130,9 @@ Philip Schaff
 
 Epistle LXVI. To Edilbert, King of the Angli.
 
-82
-
 Gregory to Edilbert, &c. On this account Almighty God advances good men to the government of peoples, that through them He may bestow the gifts of His loving-kindness on all over whom they are preferred. This we have found to be the case in the nation of the Angli, which your Glory has been put over to the intent that through the good things granted to you, heavenly benefits might be conferred on the nation subject to you. And so, glorious son, keep guard with anxious mind over the grace which thou hast received from above. Make haste to extend the Christian faith among the peoples under thy sway, redouble the zeal of thy rectitude in their conversion, put down the worship of idols, overturn the edifices of their temples182, build up the manners of thy subjects in great purity of life by exhorting, by terrifying, by enticing, by correcting, by shewing examples of well-doing; that so you may find Him your recompenser in heaven Whose name and knowledge you shall have spread abroad on earth. For He Himself will make the name of your glory even more glorious to posterity, if you seek and maintain His honour among the nations. For so Constantine, the once most pious Emperor, recalling the Roman republic from perverse worshippings of idols, subjected it with himself to our Almighty Lord God Jesus Christ, and turned himself with his subject peoples with all his heart to Him. Hence it came to pass that that man surpassed in praise the name of ancient princes, and excelled his predecessors as much in renown as in well-doing. And now, therefore, let your Glory make haste to infuse into the kings and peoples subject to you the knowledge of God, Father, Son and Holy Spirit, that you may both surpass the ancient kings of your race in renown and in deserts, and the more you shall have wiped away the sins of others among your subjects, the more secure you may become with regard to your own sins before the terrible scrutiny of Almighty God. Moreover, you have with you our most reverend brother, Augustine the bishop, learned in monastic rule, replete with knowledge of holy Scripture, endowed by the grace of God with good works. Listen gladly to his admonitions, follow them devoutly, keep them studiously in remembrance: for, if you listen to him in what he speaks in behalf of Almighty God, the same Almighty God will the sooner listen to him when he prays for you. For, if (which God forbid) you disregard his words, when will it be possible for Almighty God to hear him for you, whom you neglect to hear for God? With all your heart, therefore, bind ye yourselves in fervour of faith to him, and aid his endeavours by the power which he gives you from above, that He Whose faith you cause to be received and kept in your kingdom may Himself make you partakers of His own Kingdom.
 
-182
-
 This direction was modified in a subsequent letter to Mellitus (XI. 76).
-
-145
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7314,25 +5142,15 @@ Furthermore, we would have your Glory know that, as we learn from the words of t
 
 Epistle LXVII. To Quiricus, Bishop, &c. Gregory to Quiricus, Bishop, and the other catholic bishops in Hiberia183. Since to charity nothing is afar off, let those who are divided in place be joined by letter. The bearer of these presents, coming to the Church of the blessed Peter, Prince of the apostles, asserted that he had received letters for us from your Fraternity, and had lost them, with other things also, in the city of Jerusalem. In them, as he says, you were desirous of enquiring with regard to priests and people who have been bewildered in the error of Nestorian heresy, when they return to the
 
-183
-
 Or Iberia, corrected from Hibernia by the Benedictine Editors, with the support of some few MSS. That the letter was addressed to the bishops of Hibernia (i.e. Ireland) is highly improbable. Not only is it unlikely that the Eastern heresy of Nestorianism would have infected Ireland, but the fact also, mentioned in the beginning of the letter, that the messenger from the bishops addressed had passed through Jerusalem on his way to Rome evidently points to some Eastern locality. For similar reasons it cannot well be supposed that Iberia here denotes Spain. It may have been the territory so-called in the neighbourhood of Armenia, between Cholchis on the West, and Albania on the East, now Gurgistan.
 
-146
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-83
 
 Philip Schaff
 
 Catholic Church which is the mother of all the elect, whether they should be baptized, or joined to the bowels of the same mother Church by confession only of the one true faith. And indeed we have learnt from the ancient institution of the Fathers that whosoever among heretics are baptized in the name of the Trinity, when they return to holy Church, may be recalled to the bosom of mother Church either by unction of chrism, or by imposition of hands, or by profession of the faith only. Hence the West reconciles Arians to the holy Catholic Church by imposition of hands, but the East by the unction of holy chrism. But Monophysites and others are received by a true confession only, because holy baptism, which they have received among heretics, then acquires in them the power of cleansing, when either the former receive the Holy Spirit by imposition of hands, or the latter are united to the bowels of the holy and universal Church by reason of their confession of the true faith. Those heretics, however, who are not baptized in the name of the Trinity, such as the Bonosiaci and the Cataphrygæ, because the former do not believe in Christ the Lord, and the latter with a perverse understanding believe a certain bad man, Montanus, to be the Holy Spirit, like unto whom are many others;—these, when they come to holy Church, are baptized, because what they received while in their error, not being in the name of the Holy Trinity, was not baptism. Nor can this be called an iteration of baptism, which, as has been said, had not been given in the name of the Trinity. But the Nestorians, since they are baptized in the name of the Holy Trinity—though darkened by the error of their heresy in that, after the manner of Jewish unbelief, they believe not the Incarnation of the Only-begotten—when they come to the Holy Catholic Church, are to be taught, by firm holding and profession of the true faith, to believe in one and the same Son of God and man, our Lord God Jesus Christ, the same existing in Divinity before the ages, and the same made man in the end of the ages, because The Word was made flesh and dwelt among us (Joh. i. 14). But we say that the Word was made flesh not by losing what He was, but by taking what He was not. For in the mystery of His Incarnation the Only-begotten of the Father increased what was ours, but diminished not what was His. Therefore the Word and the flesh is one Person, as He says Himself, No man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven (Joh. iii. 14). He Who is the Son of God in heaven was the Son of man who spoke on earth. Hence John says, We know that the Son of God is come, and hath given us an understanding (1 Joh. v. 20). And as to what understanding He has given us, he straightway added, That we may know the true God. Whom in this place does he mean as the true God but the Father Almighty? But, as to what he conceives also of the Almighty Son, he added, And that we may be in his true Son Jesus Christ. Lo, he says that the Father is the true God, and that Jesus Christ is His true Son. And what he conceives this true Son to be he shews more plainly; This is the true God, and eternal life. If, then, according to the error of Nestorius the Word were one and the man Jesus Christ were another, he who is true man would not be the true God and eternal life. But the Only-begotten Son, the Word before the Ages, was made man. He is, then, the true God and eternal life. Certainly, when the holy Virgin was about to conceive Him, and heard the angel speaking to her, she said, Behold the hand-maid of the Lord; be it unto me according to thy word (Luke i. 38).
 
-147
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-84
 
 Philip Schaff
 
@@ -7342,8 +5160,6 @@ Epistle LXVIII. (To Virgilius, Bishop of Arelate (Arles).) 184
 
 xlv. 7.
 
-148
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
@@ -7351,8 +5167,6 @@ Philip Schaff
 Gregory to Virgilius, &c. What affection should be bestowed on brethren who come to us of their own accord is apparent from the fact that they are usually invited to visit us for the sake of charity. And so, if our common brother the bishop Augustine should chance to come to you, let your Love, as is fit, so affectionately and sweetly receive him as both to refresh him with the boon of your consolation and teach others also how fraternal charity should be cultivated. And, since it often happens that those who are placed at a distance learn first from others of things that require amendment, if he should perchance intimate to your Fraternity any faults in priests or others, do you, in concert with him, enquire into them with all subtle investigation. And do you both shew yourselves so strict and solicitous against things that offend God and provoke Him to wrath that, for the amendment of others, both vengeance may smite the guilty and false report not afflict the innocent. God keep thee safe, most reverend brother. Given the 10th day of the Kalends of July, the 19th year of the empire of our most pious lord Mauricius Tiberius Augustus, the 18th year after the same our lord’s consulship, Indiction 4.
 
 Epistle LXIX. To Brunichild, Queen of the Franks. Gregory to Brunichild, &c. Since it is written, Righteousness exalteth a nation; but sin maketh peoples miserable (Prov. xiv. 34), a kingdom is then believed to be stable when a fault that is known of is quickly amended. Now it has come to our ears by the report of many, what we cannot mention without exceeding affliction of heart, that certain priests in those parts live so immodestly and wickedly that it is a shame for us to hear of it and lamentable to tell it. Lest, then, now that the rumour of this iniquity has extended as far as here, the wrong doing of others should smite either our soul or your kingdom with the dart of its sin, we ought to arise with ardour to avenge these things, lest the wickedness of a few should be the perdition of many. For bad priests are the cause of the ruin of a people. For who may offer himself as an intercessor for a people’s sins, if the priest who ought to have prayed for it commits more grievous offences? But, since those whose place it is to prosecute these things are stirred neither by care to enquire into them nor by zeal to punish them, let letters from you be addressed to us, and let us send over, if you order it, a person with the assent of your authority, who together with other priests may search into these things thoroughly, and amend them according to the will of God. For indeed what we speak of is not a thing to be winked at, since one who can amend a fault and neglects to do so without doubt makes himself partaker in it. See therefore to your own soul, see to your grandsons, whom you wish to reign happily, see to the provinces; and, before our Creator stretches out His hand to smite, take most earnest thought for the correction of this wickedness, lest He afterwards smite by so much the more sharply as He now waits longer and
-
-149
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7362,15 +5176,9 @@ more mercifully. Know moreover that you will offer a great sacrifice of expiatio
 
 Epistle LXXVI. To Mellitus, Abbot.
 
-85
-
 Gregory to Mellitus, Abbot in France185. Since the departure of our congregation, which is with thee, we have been in a state of great suspense from having heard nothing of the success of your journey. But when Almighty God shall have brought you to our most reverend brother the bishop Augustine, tell him that I have long been considering with myself about the case of the Angli; to wit, that the temples of idols in that nation should not be destroyed, but that the idols themselves that are in them should be. Let blessed water be prepared, and sprinkled in these temples, and altars constructed, and relics deposited, since, if these same temples are well built, it is needful that they should be transferred from the worship of idols to the service of the true God; that, when the people themselves see that these temples are not destroyed, they may put away error from their heart, and, knowing and adoring the true God, may have recourse with the more familiarity to the places they have been accustomed to. And, since they are wont to kill many oxen in sacrifice to demons, they should have also some solemnity of this kind in a changed form, so that on the day of dedication, or on the anniversaries of the holy martyrs whose relics are deposited there, they may make for themselves tents of the branches of trees around these temples that have been changed into churches, and celebrate the solemnity with religious feasts. Nor let them any longer sacrifice animals to the devil, but slay animals to the praise of God for their own eating, and return thanks to the Giver of all for their fulness, so that, while some joys are reserved to them outwardly, they may be able the more easily to incline their minds to inward joys. For it is undoubtedly impossible to cut away everything at once from hard hearts, since one who strives to ascend to the highest place must needs rise by steps or paces, and not by leaps. Thus to the people of Israel in Egypt the Lord did indeed make Himself known; but still He reserved to them in His own worship the use of the sacrifices which they were accustomed to offer to the devil, enjoining them to immolate animals in sacrifice to Himself; to the end that, their hearts being changed, they should omit some things in the sacrifice and retain others, so that, though the animals were the same as what they had been accustomed to offer, nevertheless, as they
 
-185
-
 This letter was sent after the departure of Mellitus with the band of new missionaries from Rome to Britain (see Prolegomena, p. xxvi.), being intended to reach him while still in France. In the date given at the end there is evidently an error with regard to the day of the month. For several of the letters sent by Mellitus being dated 10 Kal. Jul. (i.e. June 22), this, which was subsequent, cannot have been originally dated xv Kal. Jul. (i.e. June 17). The Indiction is given correctly. Gregory had directed King Ethelbert (XI. 66) to destroy the heathen temples. He now sees reason to modify any such orders.
-
-150
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7382,35 +5190,21 @@ Epistle LXXVII. To Boniface, Guardian (Defensorem), in Corsica. Gregory to Bonif
 
 Epistle LXXVIII.
 
-151
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
 
 To Barbara and Antonina186. Gregory to Barbara, &c. On receiving your epistles, I was in all manner of ways delighted to hear of your well being, and I entreat Almighty God that He would guard you by His protection from malignant spirits in thought, and from perverse men, and from all contrariety; and that He would, with the grace of His fear, settle you in unions worthy of you, and cause us all to rejoice in your settlement187. But do you, most sweet daughters, rest your hope on His help, and, being always under the shadow of His defence, both by praying and by well doing, escape the plots of bad men. For, whatever human comforts or adversities there may be, there are none, unless either His grace protects or His displeasure troubles you. Rest therefore your hope on no one among men, but bind your whole soul to trust in Almighty God. While we sleep, then, He will protect you, of whom it is written, Behold he that keepeth Israel shall neither slumber nor sleep (Ps. cxx. 4)188. As to your saying that you are in haste to approach the threshhold of the blessed Peter, Prince of the apostles, I wish exceedingly, and wait with fervent desire, to see you in his church united to husbands well worthy of you; that so both you may obtain some little comfort from me, and I no little joy from your presence. I have also commended your causes to thy most reverend brother the bishop John189, and to Romanus the guardian (defensori), that under God they may accomplish what they have begun. Your present of two racanæ190, which you sent me word were your work, I accepted gladly. But yet know ye that I did not believe the word you sent me. For you are seeking praise from the work of others, seeing that you have perhaps never yet put hand to spindle. Nor yet does this circumstance distress me, since I wish you to love the reading of Holy Scripture, that, so long as Almighty God shall unite you to husbands, you may know how you should live and how you should manage your houses.
 
-186
-
 See above, Epp. XXXV., XXXVI., in this book, and I. 34, note 8, there referred to.
-
-187
 
 If the marriage of the parents, Venantius and Italica, took place, as conjectured in the note to I. 34, in the eleventh Indiction (A.D. 592–3), and this letter was written in the fourth (A.D. 600–1), the daughters would not be more than seven or eight years of age. Still, even at this early age, their betrothal may have been contemplated with a view to their settlement in life. But Venantius may have married earlier than 592–3, soon after his return to a secular life, and so the girls may have been a little older. Neither, however, if our dates are right, could be more than ten years old.
 
-188
-
 In English Bible, cxxi. 4.
-
-189
 
 Viz. John, bishop of Syracuse. See above, Ep. XXXVI.
 
-190
-
 On the meaning of this word, see XII., note 3.
-
-152
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7420,33 +5214,21 @@ Book XII. 87
 
 Epistle I. To Dominicus, Bishop of Carthage. Gregory to Dominicus, &c. How abundant is the charity of your heart you shew by its interpreter—your tongue, while so seasoning the words of your epistles with its sweetness that all you write is pleasant and delightful. Hence it comes that we embrace your Fraternity in the arms of love, though unable to do so in the body. For it is the office of charity to supply to souls that are in concord what distance of place denies. And since the sickness of our most loving brethren saddens us even as their health refreshes us, we give thanks to Almighty God, who has solaced our sadness by good news. For, having heard that you had contracted a very severe illness, before the receipt of your letter we were in a state of great distress. But since, when we are snatched from peril of death, it is uncertain, dearest brother, for what we are reserved, let us turn the time of respite to the profit of our souls, and, having to render our accounts to the coming Judge, let us fortify our cause before Him with tears and good works, that we may be counted worthy to have security given us with regard to the things that we have done. For in secular causes also a kind judge frequently grants a respite to this end, that one who had not been prepared before may afterwards come to his trial prepared. And what a thing it would be, were we to neglect for the salvation of the soul what we carefully attend to in matters of earthly concern! And so, since, according to the words of the Apostle John, no one is without sin, let us call to mind enticements of thought, incontinence of tongue, deeds of transgression; and let us, while we may, with great knocking, do away with the stains of our iniquities, that our just and loving Redeemer may not execute vengeance according to our deservings, but according to His mercy be bent to pardon. And, since we do not sufficiently fulfil our office by weeping for our own sins only, let us the more earnestly devote ourselves to the custody of the flock committed to us, and by persuading, by exhorting, by alarming, by preaching, so far as heavenly clemency gives us power, let us hasten to fulfil our office in very deed, that, through the bounty of our Creator, we may look for the longed for reward. But, since we cannot do anything that is good without divine aid, let us implore Almighty God, most beloved brother, with united prayers, that He would direct us, with the flock committed to us, into the way of His commandments by the leading of His grace, and Himself, who by the gift of His mercy has willed us to have the name of shepherds, grant to us to understand and do what is well pleasing to Him. Moreover, we have received with the charity wherewith you sent it the blessing of the blessed martyr Agileus, transmitted to us by your Holiness. In the month of September, Indiction 5.
 
-153
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
 Philip Schaff
 
 Epistle VIII. To Columbus, Bishop of Numidia191.
 
-88
-
 Gregory to Columbus, &c. How serious, and intolerable even to be heard of, is the complaint of Donadeus, the bearer of these presents, who describes himself as having been a deacon, will be made manifest to your Fraternity by the petition presented by him, which is contained in what is subjoined below. But, since it has come to our ears that he had been deposed for bodily sin, let your Love make full enquiry into this, and, if it is so, let him be consigned to penance, that he may free himself by tears from the bond of the profligacy of which he has been guilty. If, however, he should be proved innocent of any such transgression, all that his petition contains must be enquired into with diligent examination by you, together with the primate of the council, and others our brethren and fellow-bishops. And, if his complaint is supported by the truth, let both such strictness of canonical discipline be brought to bear on his bishop Victor192, who has not lighted to commit so great a wickedness against God and his own priestly profession, that he may understand the wickedness of what he has done; and let the man himself be restored to his order: for it is indeed preposterous, and confessedly against ecclesiastical order, that any one whom his own fault or crime does not depose from the rank of the office which he fills should be deprived invalidly at the will of this or that person.
 
 Epistle XXIV. To John, Subdeacon of Ravenna193. Gregory to John, &c. Some monks who came to me from the monastery of the late abbot Claudius have petitioned me that the monk Constantius should be constituted their abbot. But I was exceedingly set against them as touching their petition, because they appeared to me to be altogether of a worldly mind in seeking to have a very worldly man for their abbot. For I have learnt how this same Constantius studies to possess property of his own: and this is the strongest evidence that he has not the heart of a monk. And I have learnt further that he presumed to go alone, without any one of his brethren with him, to a monastery that is situate in the province of Picenum. From this proceeding of his
 
-191
-
 Cf. II. 48, note 8.
-
-192
 
 Victor was Primate of Numidia. See IV. 34, note 4.
 
-193
-
 This subdeacon John appears to have been at this time the pope’s representative to Ravenna, the seat of the exarch of Italy.
-
-154
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7454,11 +5236,7 @@ Philip Schaff
 
 we know that he who walks without a witness lives not aright: and how can he maintain the rule for others who knows not how to maintain it for himself? Giving him up, therefore, they asked to have a certain cellarer, Maurus by name, to whose life and industry there are many testimonies, the late abbot Claudius also with certain others having spoken in his praise. Let thy Experience therefore make careful enquiry; and, if his life should be such as fit him for a place of government, cause him to be ordained abbot by our brother and fellow-bishop Marinianus. But, if there is anything decidedly against him, and they cannot find any suitable person in their own congregation, let them choose some one from elsewhere, and let him whom they may choose be made abbot. Further, take care by all means to tell our aforesaid brother and fellow-bishop to put down with the utmost earnestness the possession of property of their own by four or five of the monks of the monastery, which it has been found so far impossible to correct, and to make haste to cleanse this same monastery from such a pest; since, if private property is held there by monks, it will not be possible for either concord or charity to continue in this same congregation. What, indeed, is a monk’s state of life but a despising of the world? How, then, do they despise the world who while placed in a monastery seek gold? Wherefore let thy Experience so proceed that neither the ordering of the place be deferred, nor any complaint reach us any more on this subject. Furthermore, forasmuch as my late most dear son Claudius had heard me speak something about the Proverbs, the Song of Songs, the Prophets, and also about the Books of Kings and the Heptateuch, which on account of my infirmity I was unable to commit to writing, and he himself had dictated them for transcription according to his own understanding of their meaning, lest they should be forgotten, and in order that he might bring them to me at a suitable time, so that they might be more correctly dictated (for, when he read to me what he had written, I found the sense of what I had said had been altered very disadvantageously), it is hence necessary that thy Experience, avoiding all excuse or delay, should go to his monastery, and assemble the brethren, and that they should produce fully and truly whatsoever papers on divers Scriptures he had brought thither; which do thou take, and transmit them to me with all possible speed. Further, about thy return, having learnt that thou hast incurred serious trouble, we will consider by and by. Further, I have not been pleased to hear what has been told me by certain persons; namely that our most reverend brother and fellow-bishop Marinianus causes my comments on the blessed Job to be read publicly at vigils; seeing that this is not a popular work, and engenders hindrance rather than advancement to rude hearers. But tell him to cause the comments on the Psalms to be read at vigils, which mould the minds of secular persons to good manners. For indeed I do not wish, while I am in this flesh, that what I may have said should be readily made known to men. For I took it amiss that Anatolius the deacon of most beloved memory gave to the lord Emperor, at his request and command, the book of Pastoral Rule, which my most holy brother and fellow-bishop Anastasius of Antioch translated into the Greek tongue. And, as I was informed by letter, it pleased him much; but it much displeased me that those who have what is better should be occupied in what is least.
 
-155
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-89
 
 Philip Schaff
 
@@ -7466,15 +5244,9 @@ Further, in the third part of the blessed Job, in the verse wherein it is writte
 
 Epistle XXV. To Romanus, Guardian (Defensorem)195. Gregory to Romanus, &c. It is well known to thy Experience that Peter, whom we have made a guardian (defensorem), is sprung from the estate belonging to our Church which is called Vitelas. And so, since we ought to shew kindness towards him in such a way that nevertheless the Church may suffer no disadvantage, we command thee by this order to charge him strictly not to presume, under any pretext or excuse, to marry his children anywhere but in that estate to which they are bound by law and their
 
-194
-
 The reference is to the conduits or aqueducts for supplying water to Rome, which it was the duty of the officer called “præfectus,” who appears to have been at this time resident at Ravenna, to keep in order.
 
-195
-
 Romanus had been appointed guardian (defensor) of the patrimony in Sicily. See IX. 18.
-
-156
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7484,27 +5256,15 @@ condition196. In this matter, too, it is necessary for thy Experience to be very
 
 Epistle XXVIII. To Columbus, Bishop of Numidia198. Gregory to Columbus, &c. Inasmuch as it has long been known to us how thy Fraternity is distinguished for priestly gravity and ecclesiastical zeal, we have seen sufficient reason for thy taking part in the cognizance of things that require rebuke, lest, if they should be put off through connivance, every one should suppose that what he is able to do is allowed him. Now after what manner our brother Paulinus, bishop of the city of Tegessis is alleged by his clerics and by those who are constituted in sacred orders, to have been excessive towards them in corporal correction, thou needest not to be told, seeing that, before this complaint reached us, the matter, as we have learnt from their statement, had already been made known to thee. And, since superiors ought not to have the right of punishing their subordinates savagely, we have taken care to write to Victor our brother and fellow-bishop, who holds the primacy among you199, that, together with thy Fraternity, or with others our brethren and fellow bishops whom you may think fit to call in, he may take cognizance of and thoroughly investigate the case between our aforesaid brother priest and his clergy. And let thy Love so give the matter thy close and careful attention, that the things that have been reported to us may not pass without a hearing, lest discord should be fomented in the Church, whence it ought by all means to be banished. And, if indeed the complaint of his clergy against him is well founded, so take
 
-196
-
 This was a case of a native of Sicily, who had been ascriptus glebæ, having been appointed a Defensor Ecclesiæ. The purpose of the epistle is to guard against his supposing that such appointment exempted his children from the restrictions imposed by their birth.
-
-197
 
 Sed et superscribi terram eorum. The meaning may be that notices should be put on the land to which such defaulters were attached, declaring that such and such persons belonged to it and were bound to remain on it. Cf. V. 41, note 3, on the phrase titulos imponere.
 
-198
-
 See II. 48. note 1.
-
-199
 
 For the custom in Africa with regard to the primacy, see I. 74, note 9.
 
-157
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-90
 
 Philip Schaff
 
@@ -7512,11 +5272,7 @@ cognizance of his fault, which he has scorned of his own accord to correct, with
 
 Epistle XXIX. To Victor, Bishop200. Gregory to Victor, &c. While on the one hand it is a joy to us to learn that our brethren are solicitous about their children in fatherly charity, on the other we count it no less a matter for sadness when neither regard for other brethren nor consideration of their priestly office avails to restrain them from unlawful doings. How serious, then, and how harsh is the complaint against our brother Paulinus, bishop of the city of Tegessis, made by his clerics and by those who are in sacred orders, I have no doubt is well known to thy Fraternity, since what has reached us from a distance cannot have been hidden from thee who art near at hand. And, since there is need of great caution lest this bodily injury which they complain of at his hands in excess of his powers should be ventured on with allowance, or should grow worse by being connived at, manifest excesses should ever be so suppressed by canonical control that one proceeding may serve as a reproof of what is past and a rule for the
 
-200
-
 At this time primate of Numidia. See preceding epistle.
-
-158
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7526,11 +5282,7 @@ future. Accordingly it becomes thee, together with our most beloved common broth
 
 Epistle XXXII. To all the Bishops of the Council of Bizacium201. Gregory to all, &c. As it is laudable and discreet to shew due reverence and honour to superiors, so it belongs to rectitude and the fear of God, if anything in them needs correction, not to put it off by any connivance, lest disease should begin to invade the whole body (which God forbid), sickness not being cured in the head. Now a considerable time ago certain things were reported to us about our brother Crementius, your primate, such as to pierce our heart with no slight sorrow. But through
 
-201
-
 Cf. IX. 58, note 1 and IX. 59.
-
-159
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7552,19 +5304,13 @@ Gregory, servant of the servants of God, to his most beloved sons the Roman citi
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
-93
-
 Philip Schaff
 
 These things, most dear sons, being endowed with sure constancy and right faith, observe; despise the words of foolish men, and give not easy belief to all that you hear of having been said by them; but weigh it in the scale of reason, so that, while in firm stability you resist the wind of error you may be able to attain to the solid joys of the heavenly kingdom. \[In two MSS., one Colbert, and Vatic. F., “mense Septembri, indict. 6.”\]
 
 Epistle V. To Etherius, Bishop of Lugdunum (Lyons). Gregory to Etherius, Bishop. Although what we say is very distressing to us, and fraternal compassion rather moves us to weep than allows us to lay down anything concerning the things we have heard of, yet solicitude for the government undertaken by us pricks our heart with an urgent spur to see with great care to the good of churches, and to arrange what should be done before their interests might possibly suffer irretrievably. It has come, then, to our ears from the report of certain persons that an affection of the head has so befallen a certain bishop that it is a matter of groaning and weeping to hear of what he is wont to do under alienation of mind. Lest, therefore, while the shepherd is sick, the flock should be exposed to be torn by the teeth of the lyer-in-wait (which God forbid), or the interests of the Church itself should suffer irretrievably, it is necessary for us to treat the case with cautious provision. And so, since during the life of a bishop, whom unavoidable infirmity and not crime withdraws from his office, no reason allows another to be ordained in his place except on his resignation202, let him, if he is accustomed to have intervals of sanity, himself make petition, declaring that he is no longer equal to this ministry owing to subversion of his intellectual faculties by infirmity, and let him request that another be ordained in his place. Which being done, let another who may be worthy be solemnly consecrated bishop in his place, by the election of all; yet so that, as long as life shall retain the said bishop in this world, his due expenses be supplied to him by the same Church. If, however, he at no time recovers the faculties of a sound mind, a trustworthy person of approved life must be chosen, who may be fit for the government of the Church, take thought for the benefit of souls, restrain the unquiet under the bond of discipline, take care of ecclesiastical property, and exhibit himself in all respects ripe and efficient. And also, should he survive the bishop who is now sick, he should be consecrated in his place. But as to ordinations of presbyters or deacons, or of any other order, if cause requires any to be made in that Church, know that this is to be reserved to thy Fraternity, to the end that, it being in thy diocese, thou mayest enquire concerning the life, manners, and conduct of him who is chosen to such office. And if thou shouldest be satisfied, and there is nothing in him liable to the censure
 
-202
-
 On this head, see also XI. 48.
-
-162
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7574,15 +5320,9 @@ of canonical strictness, let him attain to his destined order not otherwise than
 
 Epistle VI. To Brunichild, Queen of the Franks203.
 
-94
-
 Gregory to Brunichild, &c. Among other excellencies in you this holds the chief place beyond the rest, that in the midst of the waves of this world, which are wont with turbulent vexation to confound the minds of rulers, you so bring back your heart to the love of divine worship and to providing for the quiet of venerable places as if no other care troubled you. Whence, since conduct of this kind on the part of potentates is wont to be a great defence to subjects, we declare the nation of the Franks happy beyond other nations, having been accounted worthy to have a queen thus endowed with all good qualities. On learning from the information contained in your letters that you have built the Church of Saint Martin in the suburbs of Augustodunum (Autun), and a monastery for hand-maidens of God, and also a hospital in the same city, we rejoiced greatly, and returned thanks to Almighty God, who stimulates the sincerity of your heart to the doing of these things. In this case, that we may be held to some degree sharers in your good deeds, we have granted privileges according to your wish, to those places for the quiet and protection of those who live in them; nor have we borne to defer even in the least degree our embracing of your Excellency’s desires. Furthermore, addressing you in the first place with the greeting of paternal charity, we inform you that to our illustrious sons, but your servants and legates, Burgoaldus and Varmaricarius, we have granted a private interview in accordance with what you wrote to us; and they have disclosed to us in detail all that they said they had been charged with. It will be our care in time to come to inform your Excellency of whatever is done with regard to these things. For, as for us, whatever is possible, whatever is profitable, and tends to the settlement of peace between you and the republic, we desire, under God, with the utmost devotion, that it should be accomplished. As to Mennas, our most reverend brother and fellow-bishop, after we had enquired into what had been said about him, and found him in no way culpable, and he having made satisfaction under
 
-203
-
 On Brunechild, see VI. 5, note 4. Having after the death of her son Childebert II. acted as guardian of his son Theodebert II., who had received the kingdom of Austrasia with his Capital at Metz, she had been expelled by the Austrasians in the year 599, and been received by her other grandson, Theoderic II., who reigned over Burgundy with his Capital at Orleans. When this letter was sent (A.D. 602) Theoderic would be about fifteen years of age, and, as appears from the letter to himself which follows, under the management of his grandmother.
-
-163
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7590,15 +5330,9 @@ Philip Schaff
 
 oath before the most sacred body of the blessed apostle Peter, and so proved himself to be unaffected by what had been objected against his reputation, we have allowed him to return to his post purged and acquitted, since, as it was right, if he were in any respect guilty, that we should punish his fault canonically, so it was not right when he had the support of innocence, that we should detain him longer, or any way distress him. Moreover, with respect to a certain bishop who, as the aforesaid magnificent men have told us, is prevented by infirmity of the head from administering his office, we have written to our brother and fellow-bishop Etherius204, that if he should have intervals of freedom from this infirmity, he should make petition, declaring that he is not competent to fill his own place, and requesting that another be ordained to his Church. For during the life of a bishop, whom not his own fault but sickness, withdraws from the administration of his office, the sacred canons by no means allow another to be ordained in his place. But, if he at no time recovers the exercise of a sound mind, a person should be sought adorned with good life and conversation, who may be able both to take charge of souls, and look with salutary control after the causes and interests of the same church; and he should be such as may succeed to the bishop’s place in case of his surviving him. But, if there are any to be promoted to a sacred order, or to any clerical ministry, we have ordained that the matter is to be reserved and announced to our aforesaid most reverend brother Etherius, provided it belong to his diocese205, so that, enquiry having then been made, if the persons are subject to no fault which the sacred canons denounce, he himself may ordain them. Let, then, the care of your Excellency conjoin itself with our ordering, to the end that the interests of the Church, which you have exceedingly at heart, may not suffer damage, and that increase of reward may accrue to the good deeds of your Excellency. Having been asked likewise concerning a certain bigamist whether he might be admitted to a sacred order, we have, according to canonical rule, altogether forbidden it. For God forbid that in your times, in which you do so many pious and religious things, you should allow anything to be done contrary to ecclesiastical ordinance. Moreover the aforesaid magnificent men, our sons, having delivered us a schedule, have requested among other things, what they said had been enjoined on them by your order, that such a person may be sent from us into Gaul as may, on the assembling of a synod, correct under the guidance of Almighty God whatever has been perpetrated against the most sacred canons. Herein we recognize the care of your Glory, how you take thought for the life of the soul and the stability of your kingdom, seeing that, fearing our Redeemer, and observing His precepts in all ways, you act in this case also so that the government of your kingdom may long subsist, and that after long courses of years you also may pass from an earthly to a heavenly kingdom. At a fitting time, if what we have said should be pleasing to God, we will take care to fulfil the venerable desires of your Excellency.
 
-204
-
 See preceding epistle.
 
-205
-
 i.e. his metropolitan province, Lyons being a metropolitan See.
-
-164
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7608,19 +5342,11 @@ We, then, for the defence of the places about which your Excellency has written 
 
 Epistle VII. To Theoderic, King of the Franks206.
 
-95
-
 Gregory to Theoderic, &c. We have received with joy your written address to us indicating your health and safety, and we thereby perceive that you so transcend your age in prudence as to make it evident that it is for the happiness of the nation of the Franks that the government of royal dominion has been committed by the favour of heavenly grace to your Excellency. And this in you among other things is enough to call for praise and admiration, that in such things as you know that our daughter your most excellent grandmother desires for the love of Almighty God, in these you make haste most earnestly to lend your aid, so that thereby you may reign both happily here, and in a future life with the angels207. Seeing, then, that this comes, by the gift of God, from great discreetness of judgment, we have so speedily and gladly fulfilled what your Excellency desires as to show by the celerity of our execution how much your good deeds have pleased us. Furthermore, greeting you with paternal sweetness, we inform you that all the matters which you enjoined on the illustrious men your servants Burgoaldus and Varmaricarius, our sons, to be transacted with us have been disclosed to us in a private interview. And we praised you greatly, that you both attend wisely, as becomes you, to the present, and also make haste so to provide for security in the future by means of a lasting peace between you and the Republic that, being made one, you may extend the stability of your kingdom salutarily to all time. With regard to this we will announce to you in time to come what it may please God to order. For, as to us, whatever is
-
-206
 
 See preceding epistle, note 2.
 
-207
-
 If the accounts given by the Frankish historians be true, Brunechild’s influence over her grandson was not in all respects such as to prepare him for life with the angels. She is said to have encouraged him in licentious living for fear of her own power being undermined by the introduction into his court of a lawful queen. (Greg. Turon., Hist. Franc. XI. 36; Fredegar. XXX., XXXVII.).
-
-165
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7632,17 +5358,11 @@ Epistle VIII. To Senator, Abbot. Gregory to Senator, presbyter and abbot of a ho
 
 Epistle IX. To Thalassia, Abbess. Gregory to Thalassia, &c. When the hearts of catholic kings are so inflamed with ardent desire, by divine grace preventing them, as of their own accord to demand the things that pontifical admonitions should provoke them to, such things are to be granted with cheerful and joyful mind all the more as the very things which they desire ought to have been demanded of them, had they been unwilling to do them. Accordingly, in accordance with the letters of our most Excellent royal children, Brunichild and her grandson
 
-166
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-96
 
 Philip Schaff
 
 Theoderic, to the monastery of Saint Mary, where there is constituted a congregation of handmaidens of God, founded in the city of Augustodunum by the bishop Siagrius of reverend memory, over which you preside, we indulge, grant and confirm by the decree of our present authority privileges as follows;—Ordaining that no king, no bishop, no one endowed with any dignity whatsoever, or any one else whatsoever, shall have power, under show of any cause or occasion whatsoever, to diminish or take away, or apply to his own uses, or grant as if to other pious uses for excuse of his own avarice, anything of what has been given to the same monastery by the above-written king’s own children, or of what shall in future be bestowed on it by any others whatever of their own possessions. But all things that have been there offered, or may come to be offered, we will to be possessed by thee, as well as by those who shall succeed thee in thy office and place, from the present time inviolate and without disturbance, provided thou apply them in all ways to the uses of those for whose sustentation and government they have been granted. We also appoint that on the death of an abbess of the aforesaid monastery no other shall be ordained by means of any kind of craftiness of secret scheming, but such a one as the king of the same province, with the consent of the nuns, shall have chosen in the fear of God, and provided for the ordination of. Under this head we also add, in order that we may exclude all place for avarice, that no one of the kings, no one of the priests, or any one else in person or by proxy, shall dare to accept anything in gold, or in any kind of consideration whatever, for the ordination of such abbess, or for any causes whatever pertaining to this monastery, and that the same abbess presume not to give anything on account of her ordination, lest by such occasion what is offered or has been offered to places of piety should be consumed. And, inasmuch as many occasions for the deception of religious women are sought out, as is said, in your parts by bad men, we ordain that an abbess of this same monastery shall in no wise be deprived or deposed unless in case of criminality requiring it. Hence it is necessary that if any complaint of this kind should arise against her, not only the bishop of the city of Augustodunum should examine the case, but that he should call to his assistance six other of his fellow-bishops, and so fully investigate the matter, to the end that, all judging with one accord, a strict canonical decision may either smite her if guilty, or absolve her if innocent. All these things, therefore, which the paper of this our precept and decree contains we decree to be observed in perpetuity for thee as well as for all who may succeed thee in the same rank and place, and for all whom they may concern. Moreover, if any one, whether king, priest, judge, or secular person, being aware of this our written constitution, should attempt to contravene it, let him be deprived of the dignity of his power and honour, and know that he stands guilty before divine judgment for the iniquity that he has perpetrated. And, unless he either restore what he has wrongfully taken away, or lament what he has done unlawfully with fit penitence, let him be debarred from the most sacred body and blood of our God and Lord, the Redeemer Jesus Christ, and be subject to strict vengeance in the eternal judgment. But the peace of our Lord Jesus Christ be to all who observe what is just to this same place, to the end that they may both receive here the fruit of their well-doing, and find the rewards of eternal peace at the hands of the strict Judge.
-
-167
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7652,15 +5372,9 @@ Epistle X. To Lupo, Abbot. Gregory to Lupo, Presbyter and Abbot. When the hearts
 
 Epistle XII. To Paschasius, Bishop of Neapolis (Naples). Gregory to Paschasius, &c. Those who with pure intent desire to bring to the true faith aliens from the Christian religion should study kindness, and not asperity; lest such as reason rendered with smoothness might have appealed to should be driven far off by opposition. For whosoever act otherwise, and under cover of such intention would suspend people from their accustomed observance of their own rites, are proved to be intent on their own cause rather than on God’s. To wit, the Jews dwelling in Naples have complained to us, asserting that certain persons are endeavouring unreasonably to drive them from certain solemnities of their holidays, so that it may not be lawful for them to observe the
 
-208
-
 For the rest of this epistle see preceding Epistle IX., with which, mutatis mutandis, it is identical, as was Epistle VIII., save for an additional paragraph given under Epistle VIII. See what has been said with regard to that Epistle. The genuineness, or at any rate the freedom from interpolation, of all these three Epistles is disputed. The Benedictine Editors of Gregory’s works defend their authenticity. See their note (b) to Ep. VIII (Patrologiæ Tomus LXVII. Sancti Gregorii Magni tomus tertius). The purport of all three letters is to confer privileges on, and provide for the future security and regulation of, three recent foundations of Queen Brunechild at Augustodunum (Autun); viz. 1. A hospital, or guest-house (xenodochium) in Autun, over which a Senator, described as “presbyter and abbot,” had been appointed to preside; 2. A monastery for women, of which Thalassia had been appointed Abbess; 3. The Church of St. Martin in the suburbs, over which Lupo, “presbyter and abbot,” presided. These foundations are referred to, though not described, in Epistle VI. to Brunechild herself, where Gregory speaks of having issued decrees for their protection in the future, which he desires should be kept among the royal archives. In those times of continual conflict among the Frank potentates royal founders might naturally wish to protect their foundations from disturbance by means of spiritual fulminations; and the queen’s desire in this respect might account for the anathemas in these epistles, which have been said to be characteristic of a later age than that of Gregory. It may be observed further that the appointment of the heads of these religious institutions is, in the letters before us, reserved to “the kings of the province” instead of free election, subject to episcopal approval, being left to the inmates, as was usual in other cases. This might be due, if the letters are genuine, to the request of Brunechild, whom, as a staunch Catholic and a supporter of the Church, Gregory ever shews himself anxious to conciliate. With regard to his politic flattery of her, or of others similarly situated, cf. VI. 5, note 4.
 
-168
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-97
 
 Philip Schaff
 
@@ -7668,11 +5382,7 @@ solemnities of their festivals, as up to this time since long ago it has been la
 
 Epistle XVIII. To certain Bishops of Sicily. Gregory to Leo, Secundinus, John, Donus, Lucidus, Trajan, bishops of Sicily. Even as we are admonished through the speech of the apostles to impart one to another spiritual aids,—so, in matters that by God’s ordering we may have to settle in virtue of the government imposed on us for administration of the affairs of the poor, it is fit that priestly succour be not wanting. Accordingly in sending the bearer of these presents, Adrian our Chartularius209, to govern the patrimony of our Church, to wit in the Syracusan district, we have thought it necessary to commend him to your Fraternity, that, wherein custom may demand it, you may afford him your succour, to the end that, while he is supported by you with bodily aid for doing his work, and with the spiritual aid of your prayers for carrying out with facility whatever he may undertake, he may be able, God also working with him, to accomplish prosperously what has been by us enjoined on him. But, as for yourselves, you should so acquit yourselves in good works before the face of Almighty God that there be not found in your doings anything that may be smitten by the judgment of God, or for which you may be accused by any man whatever lying in wait against you. For we have charged our aforesaid Chartularius that, if he should come to know of any inordinate doings on the part of our most reverend brethren the bishops, he should first himself take them to task by private and modest admonition; and, that, if such things are not amended, he should inform us of them speedily.
 
-209
-
 Adrian, who had already been commissioned as notarius Siciliæ (X. 23), had now been made rector patrimonii, being succeeded as notary by Pantaleo (XIII. 34).
-
-169
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7682,23 +5392,13 @@ Furthermore, it has been reported to us that in the times of our predecessor of 
 
 Epistle XXII. To Rusticiana, Patrician Lady.
 
-98
-
 Gregory to Rusticiana, &c. As often as any one comes to us from the royal city, we take care to enquire of your bodily health; but, my sins being the cause, I always hear what I am sorry to hear, since, frail and weak as you already are, it is reported that the pains of gout still grow upon you. But I pray the Almighty Lord that whatever befalls your body may be ordered to the health of your soul, and that temporal scourges may prepare for you eternal rest, and that through the pains which have an end He may grant you joys without end. As for me, I live in such a state of groaning and in the midst of such occupations that it irks me to have arrived at these days which now I spend, and my only consolation is the expectation of death. Wherefore I beg you to pray for me, to the end that I may be soon released from this prison of the flesh, so as to be no longer tormented by such great pains. Furthermore, I have to inform you that a certain person has come here, Beator by name, who gives himself out as comes privatarum212, and is doing many things against all, but principally against your Excellency’s people, or those of your most noble granddaughters, as though he were making enquiry into matters of public import. And we indeed will not permit him to act wrongfully, but neither can we stand in the way of public interests. Do you therefore treat as you can with the most pious princes, that they may countermand any wrongful proceeding on his part. For neither
-
-210
 
 Sacerdotes, meaning here apparently parish priests, though more commonly, in Gregory’s epistles, denoting bishops. The abuse complained of seems to have been that of charging priests of parishes unreasonably for the remuneration of the clerici who attended the bishops on their confirmation progresses.
 
-211
-
 Ad consignandos infantes; i.e. for confirmation, cf. IV. 26, note 6.
 
-212
-
 This designation may mean a kind of private secretary to the Emperor, or one to whom the secret service of the government was committed.
-
-170
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7708,19 +5408,11 @@ is the public interest served by any kind of turmoil, nor does he appear to recl
 
 Epistle XXVI. To Anthemius, Subdeacon. Gregory to Anthemius, Subdeacon of Campania. It has reached our ears that our brother and fellow-bishop Paschasius214 is so idle and negligent in all ways that he is in no respect recognised as bishop; and that so neither his own Church, nor the monasteries, nor any, whether the sons of the Church215, or the oppressed poor, are conscious of any earnestness of love on his part towards them; nor does he afford any help in what is just to those who supplicate him, and (what is a still more serious thing to say) he cannot bear on any account to receive the counsels of the wise and of such as admire what is right, so that he might at any rate learn from another what he cannot attend to of himself; but, passing over the things that pertain to a pastor’s charge, he occupies himself with his whole attention unprofitably in the building of ships. Whence, as is reported, it has come to pass that he has already lost four hundred solidi, or more. This also is added to his faults, that he is said to go down daily to the sea with one or two clerics in so mean a guise as to be the talk among his own people, and to scent to strangers so vile and despicable that he is judged to have nothing in him of the character or venerableness of a bishop. If this be so, know that it is not without fault of thine, who hast delayed to rebuke and restrain him, as is fit. Seeing, then, that all this not only discredits him, but also evidently brings reproach on the office of the priesthood, we desire thee to summon him for this thing before other
 
-213
-
 See II. 27, note 2.
-
-214
 
 Bishop of Naples. A few epistles not included in this translation are addressed to him as such.
 
-215
-
 Filii ecclesiæ, or, according to the authority of MSS., simply filii. Cf. III. 56, where the expression occurs. It is understood to denote the lay members of any Church, among whom those of the highest social position were called nobiles (see below), and others plebs. Mandates for the election of bishops are addressed to clero, nobilibus, ordini, et plebi (as in II. 6), or to clero ordini, et plebi (as in I. 58), or occasionally clero et nobilibus (as in I. 80); ordo being understood to denote persons of position, though not ranking as nobles.
-
-171
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7730,23 +5422,15 @@ priests216, or some of his noble sons217, and exhort him that, shaking off the v
 
 Epistle XXVII. To Anthemius, Subdeacon.
 
-99
-
 Gregory to Anthemius, Subdeacon of Campania. As often as we hear things of our brethren and fellow-bishops that shew them to be to blame and cause us sadness, necessity compels us in no slight degree to take thought for their amendment. Seeing, then, that it has been reported to us that the bishops of Campania are so negligent that, unmindful of the dignity and character of their office, neither towards their Churches nor towards their sons do they shew the care of paternal vigilance, nor concern themselves about monasteries, nor bestow their protection on the oppressed and the poor, we therefore enjoin thee and hereby give thee authority to call them together, and strictly admonish them in virtue of our mandate, that they be not any longer idle, but so evince their priestly zeal and solicitude, and be so vigilant in what it becomes them justly and according unto God to do, that no murmur concerning them may exasperate us any more. If, however, thou shouldest find any one of them to be negligent after this being done, send him to us without allowing any excuse, that by regular exercise of discipline they may be made to feel how serious a matter it is to refuse to be corrected in things that are reprehensible and exceedingly to be condemned.
 
 Epistle XXXI. To Phocas, Emperor218. 216
 
 i.e. bishops, as commonly meant by sacerdotos.
 
-217
-
 See above, note 5.
 
-218
-
 Phocas succeeded Mauricius as Emperor in November, A.D. 602. With regard to Gregory’s adulatory tone towards this sanguinary usurper and his consort Leontia, see Prolegomena, p. xxvii.
-
-172
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7758,43 +5442,25 @@ Epistle XXXIV. To Pantaleo, Notary. Gregory to Pantaleo, &c. Thy Experience reme
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
-100
-
 Philip Schaff
 
 with men in this present life nor with Almighty God in the last judgment thou mayest be open to blame. Now from the report of Salerius our chartularius we have learnt that thou hast found the modius in which the husbandmen (coloni)219 of the Church have been compelled to give their corn to be one of twenty-five sextarii220. This we altogether execrated, and were sorry thou hadst been late in making it a subject of enquiry. We rejoice, therefore, at thy telling us that thou hast broken the said modius and made a just one. But, inasmuch as the aforesaid chartularius has taken care to mention also what has already been collected under thy Experience by the fraudulent dealings of the farmers (conductores)221 from two territories, therefore, even as with a view to the future, we rejoice that thou hast acted zealously in breaking the unjust modius, so also we think of sins in the past; lest, if what the farmers have fraudulently taken away from the peasants (rusticis)222 accrues to us, we should be implicated in their sins. And accordingly we desire thy Experience, with all faithfulness, with all integrity—having regard to the fear of Almighty God, and recalling to mind the strictness of the blessed apostle Peter—to make a list throughout each several estate (massam)223 of poor and indigent husbandmen, and with the money found to have been got by fraud to procure cows, sheep, and swine, and distribute them among the several poor husbandmen. And this we desire thee to do with the advice of the most reverend lord bishop John224, and Adrian our chartularius and rector225. If, moreover, it should be necessary for the sake of consultation, our son also the lord Julian should be called in, so that no one else may know, but all be kept quite secret. Do you therefore consult among yourselves whether this same assistance should be given to the said poor husbandmen in money or in kind. But, whatever be the common fund, first, as I have said, make a list, and afterwards take pains to distribute to each according to the degree of his poverty. For I, as the teacher of the Gentiles testifies, have all and abound; nor do I seek money, but reward (Phil. iv.). So act therefore that in the day of judgment thou mayest shew me fruit of thy labour from the service that has been committed to thy Experience. If thou do this purely, faithfully, and strenuously, thou wilt both receive it back here in thy children, and hereafter wilt have plenary retribution in the scrutiny of the Eternal Judge.
 
 Epistle XXXVIII.
 
-219
-
 Cf. I. 44, note 1.
-
-220
 
 Cf. ib., note 4.
 
-221
-
 Cf. ib., note 5.
-
-222
 
 Cf. ib., note 1.
 
-223
-
 Cf. ib., note 5.
-
-224
 
 Bishop of Syracuse. Cf. V. 17.
 
-225
-
 Adrian, previously addressed as notarius Siciliæ (X. 23), had been succeeded by Pantaleo and made rector patrimonii (XIII. 18).
-
-174
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7804,23 +5470,15 @@ To Phocas, Emperor. Gregory to Phocas Augustus. It pleases us to consider, with 
 
 Epistle XXXIX. To Leontia, Empress. Gregory to Leontia Augusta. What tongue may suffice to speak, what mind to think, what great thanks we owe to Almighty God for the serenity of your empire, in that such hard burdens of long duration have been removed from our necks, and the gentle yoke of imperial supremacy has returned, which subjects are glad
 
-226
-
 The person thus sent was Boniface (see below, Ep. XL., and XIV. 8), who afterwards became pope.
 
-175
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-101
 
 Philip Schaff
 
 to bear? Glory, then, be given to the Creator of all by the hymning choirs of angels, thanksgiving be paid by men on earth, for that the whole republic, which has endured many wounds of sorrow, has now at length found the balm of your consolation. Hence we must needs implore the more earnestly the mercy of Almighty God, that He would keep the heart of your Piety ever in His right hand, and dispose your thoughts by the aid of heavenly grace, to the end that your Tranquillity may be able to rule those who serve you the more righteously as you know more truly how to serve the Sovereign of all. May He make you His champions in love of the catholic faith, having, of His benign dealing, made you our emperors. May He infuse into your minds zeal together with gentleness, that you may always be able with pious fervour not to leave unavenged whatever is done amiss with regard to God, and in case of any delinquency against yourselves to bear and spare. May He give us in your Piety the clemency of Pulcheria Augusta, who for her zeal for the catholic faith was called in the holy synod the new Helena (Act. 1 synodi Chalcedonensis). May the Almighty mercy of God grant to you fuller length of days to live with our most pious lord, that the longer your life is extended, the more strongly may the consolation of your subjects be confirmed. I ought perhaps to have requested that your Tranquillity should hold as especially commended to you the Church of the blessed apostle Peter, which up to this time has laboured under grievous plots against it. But, knowing that you love Almighty God, I ought not to ask what you will exhibit of your own accord out of the benignity of your piety. For the more you fear the Creator of all, the more fully may you love the Church of him to whom it was said, Thou art Peter, and upon this rock I will build my Church, and the gates of hell shall not prevail against it; and to whom it is said, To thee I will give the keys of the kingdom of heaven; and whatsoever thou shalt bind on earth shall be bound in heaven; and whatsoever thou shalt loose on earth shall be loosed in heaven (Matth. xv. 18). Whence it is not doubtful to us with what strong love you will bind yourself to him through whom you earnestly desire to be loosed from all sins. May he, then, be the guardian of your empire, may he be your protector on earth, may he be an intercessor for you in heaven: that through your relieving your subjects from hard burdens, and causing them to rejoice in your empire, you may, after many years, rejoice in the heavenly kingdom.
 
 Epistle XL. To Cyriacus, Patriarch of Constantinople. Gregory to Cyriacus, &c. Observing diligently, most dear brother, how great is the virtue of peace from the Lord’s voice, which says, My peace I give unto you (Joh. xiv. 27), it becomes us so to abide in the love thereof as in no wise to give place to discord. But, since we cannot otherwise live in its root except by retaining in mind and in deed the humility which the very author of peace has taught, we entreat you with befitting charity, that, treading down with the foot of your heart the profane elation which
-
-176
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7830,15 +5488,9 @@ is always hostile to souls, you make haste to remove from the midst of the Churc
 
 Epistle XLI. To Eulogius, Patriarch of Alexandria.
 
-102
-
 Gregory to Eulogius, Bishop of Alexandria. A conversation having arisen one day between me and my familiar friends about the customs of churches, one who had studied the art of medicine in the great city of Alexandria told us that he had a fellow-student attending the same lectures, a boy of extreme depravity, who, he said, had been suddenly ordained a deacon. And he added that he had procured ordination by bribes and gifts; for he acknowledged that this custom had prevailed in the holy Alexandrine Church. On hearing this I was amazed, and exceedingly surprised that the tongue of the most holy and blessed man the lord Eulogius, which recalls so many heretics to the catholic faith, has not extirpated simoniacal heresy from the holy Alexandrine Church. And who will there be whose exhortation or correction will be able to amend this, if his great and admirable teaching shall have left it without amendment? Wherefore, for the absolution of your soul, for the increase of your reward, that your works may be in all respects perfect before the eyes of the tremendous Judge, you ought to make haste utterly to pull up and eradicate simoniacal heresy, which was the first to arise in the Church, from your most holy See, which is ours227. For on this account it comes to pass that the holiness of ecclesiastical orders falls away from very many, because persons are promoted to these orders, not for their life and deeds, but for bribes. But if meritorious character, and not bribes, be sought after, unworthy persons will not come to
 
-227
-
 See VII. 40, for Gregory’s view of the three sees of Rome, Antioch, Alexandria, all representing the see of St. Peter.
-
-177
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7847,8 +5499,6 @@ Philip Schaff
 ordination. And by so much the more will reward begin to accrue to you as any good men who have been promoted to sacred orders shall have devoted themselves to the care of winning souls.
 
 Epistle XLII. To Eulogius, Patriarch of Alexandria. Gregory to Eulogius, &c. We return great thanks to Almighty God, that in the mouth of the heart a sweet savour of charity is experienced, when that which is written is fulfilled, As cold water to a thirsty soul, so is good news from a far country (Prov. xxv. 25). For I had previously been greatly disturbed by a letter from Boniface the Chartularius, my responsalis, who dwells in the royal city, saying that your to me most sweet and pleasant Holiness had suffered from failure of bodily sight. From this letter I was smitten by heavy sorrow. But suddenly, by the prospering grace of our Creator and Redeemer, I received the epistle of your Blessedness, and, learning that the bodily trouble of which I had heard was cured, I rejoiced exceedingly, since gladness of heart succeeded which was as great as the bitterness of the sadness which had come before. For we know that, with the help of Almighty God, your life is the health of many. For sailors sail secure through the waves when an instructed and skilful steersman sits at the helm. Moreover in my joy for your health I have this additional cause for exultation, that I have learnt how through your mouth the enemies of the Church are decreased in number, and the flocks of the Lord multiplied. For through the ploughshare of your tongue heavenly corn increases daily, and is multiplied in the garners on high; so that in you we rejoice that what is written is fulfilled, Where there is much increase, there is manifest the strength of the oxen (Prov. xiv. 4). Whence we gather plainly that the more you bring back fugitives to the service of Almighty God, the more merit you have with Him. And by how much the more merit you receive, the more fully can you obtain what you ask for. I beseech you therefore to pray the more earnestly for me a sinner, since both pain of body, and bitterness of heart, and immense ravages of mortality among the swords of so many barbarians, afflict me exceedingly. In the midst of all these things it is not temporal but eternal consolation that I require, which of myself I am not able to win by prayer, but which I trust that I shall obtain by the intercessions of your Blessedness. Last year I received no letters from your Holiness, and I was much distressed. It is true that your blessing, which you sent without a letter, was both given and received. But, since your tongue delights me more than your gifts, I was less gratified than I might have been by what was given. But I directed our common son, the deacon Epiphanius, to write to Alexander and Isidore, deacons of your most holy Church, to acknowledge the receipt of what had been sent. I wrote to you, further, that I had got ready large pieces of timber for making masts and rudders, but that the small ship which had come could not carry them; and you have since written nothing
-
-178
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7860,33 +5510,19 @@ Book XIV. 103
 
 Epistle II. To Vitalis, Guardian (Defensorem) of Sardinia. Gregory to Vitalis, &c. From the information given us by thy Experience we find that the hospitals \[or guest-houses, xenodochia\] founded in Sardinia are suffering from grievous neglect. Hence our most reverend brother and fellow-bishop Januarius229 would have had to be most strongly reprehended, did not his old age and simplicity, and the sickness which thou hast told us of coming on besides, keep us in check. Seeing, then, that he is so situated that he cannot be fit to order anything, do thou warn the steward of that Church, and Epiphanius the archpresbyter, under our strict authority, that they themselves at their own peril endeavour themselves carefully and profitably to set those same hospitals (xenodochia) in order. For, if there should be any neglect there hereafter, let them know that they will not be able in any manner, or to any extent, to excuse themselves before us. Further, since the proprietors of Sardinia have petitioned us that, seeing that they are afflicted by diverse burdens, thou mightest go to Constantinople for their redress, we grant thee leave to go.
 
-228
-
 Eulogias, apparently in the same sense as benedictiones, used elsewhere as denoting presents.
-
-229
 
 See I. 62, note 9.
 
-179
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-104
 
 Philip Schaff
 
 And we have also written to our most beloved son Boniface, desiring him to do his best to lend thee his aid in obtaining redress for that province. Moreover, with regard to the Churches which thou hast informed us are without priests230, we have written to our aforesaid most reverend brother and fellow-bishop Januarius, that he should supply them; yet so that all be not chosen for the episcopate from his own Church. For it becomes him so to supply other Churches as not to cause want in his own of persons who may be of advantage to it. As to what thou hast told us of persons having been preferred to the government of certain monasteries who, while they were in a lower monastic order, had fallen into sin, they ought not indeed to have undertaken the office of abbot except after entire reformation of life and after due preceding penance. But since, as thou sayest, they have undertaken the office of abbots, heed must be given to their life, manners, and attention to duty. And, if their conduct should not be found inconsistent with their office, let them persevere in the order in which they are. Otherwise let them be removed, and others ordained who may profit the souls committed to them. Furthermore, in the case of the monastery of Saint Hermas, which was founded by our brother in the house of the religious lady Pomponiana, inasmuch as it should be treated with tenderness rather than with strictness, let thy Experience endeavour to deal sweetly with the said lady, to the end that neither may she, to her own sin, disregard the will of the founder, nor thou fail to provide salubriously for the advantage of the monastery. Further, as to the girls of whom the aforesaid Pomponiana had formerly changed the religious dress, and converted them in the monastery231, thou must by no means suffer them to be withdrawn from her, or disquieted; but let them continue, God protecting them, in the state of life in which they are. With regard to the recovery of the property of Churches, or of monasteries, or any other devoted to pious uses, about which thou hast written, those who are interested must be admonished that it is for them to seek in all ways to recover it with thy support and aid. But, if they should haply prove negligent, or in any case if such as ought to recover it should not be found, then do thou search it all out and so get it back, when discovered, as not to appear to take legal action against any one with a high hand. As to what thou hast told us with respect to the hospitals (xenodochia) of Hortulanus and Thomas, we so far have no knowledge. Wherefore let thy Experience look diligently into the order of the Emperor so far given, and arrange all according to its tenour, and make known to us whatever thou hast done. Concerning what thou hast written about our brother and fellow-bishop Januarius at the time when he celebrates the sacrifice often suffering such distress that he can hardly after long intervals return to the place in the canon where he has left off, and as to many doubting whether they should receive the Communion from his consecration, they are to be admonished to be in no alarm at all, but communicate with full faith and security, since a person’s sickness neither alters nor defiles
 
-230
-
 Sacerdotes, here as elsewhere meaning bishops.
 
-231
-
 “Convertit in monasterio.” Conversio, as usually, means here monastic profession.
-
-180
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7896,15 +5532,9 @@ the benediction of the sacred mystery. Nevertheless our said brother should by a
 
 Epistle IV. To Fantinus, Guardian (Defensorem) of Panormus. Gregory to Fantinus, &c Such things about our brother and fellow-bishop Exhilaratus, as thou thyself also knowest, have come to our ears as ought by all means to be visited with severe punishment. But, since it has been smoothed over by our most reverend brother and fellow-bishop Leo233, who has also declared that he was judge in that case, we have thought it fit that he \[i.e. Exhilaratus\] should be sent back to his Church, considering that what we have inflicted on him by keeping him here so long may be enough for him. Therefore we enjoin thy Experience to pay attention to his manners and deeds, and to admonish him frequently, to the end that he may shew himself solicitous in extending kind charity to his clerks (clericis), and, should need require, in correcting faults. But we desire thee also to admonish his clergy that they exhibit humility towards him, and the obedience which the Lord commands, nor in any respect presume to behave proudly with regard to him. And if any one of them, that is, either bishop or clerk, should disregard thy admonition, do thou, under this authority from us, either correct the sin of disobedience by canonical coercion, as thou seest fit, or make haste to send a report to us, that we may be able to arrange how the rein of discipline may keep from going off their road those whom the goad of evil inclination provokes to transgression.
 
-232
-
 As to this Pomponiana (al. Pompeiana), cf. I. 48; XI. 25.
 
-233
-
 Bishop of Catana in Sicily. Cf. IV. 36.
-
-181
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7912,19 +5542,11 @@ Philip Schaff
 
 Epistle VII. To Alcyson, Bishop of Corcyra.
 
-105
-
 Gregory to Alcyson, &c. Not undeservedly does the ambition of an elated heart require to be quelled, when, disregarding the force of the sacred canons, the excess of rash presumption in coveting unlawfully what belongs to others is shewn to be not only harmful in causing expense, but also opposed to the peace of the Church. Having, then, perused thy Fraternity’s epistles, we have learnt what has been done formerly or of late by the bishop of the City of Euria with regard to the camp of Cassiopus234, which is situated in thy diocese, and we are distressed that those who should have been debtors to thy Church for charity bestowed upon them, should rather become its enemies, no shame restraining them; and at last that, in a way contrary to ecclesiastical arrangement, contrary to priestly moderation, contrary to the ordinances of the sacred canons, they should attempt to withdraw the aforesaid camp from thy jurisdiction and subject it to their own power, so as to become as it were masters where they had before been received as strangers. Concerning which matter, seeing that Andrew, our brother of venerable memory, Metropolitan of Nicopolis, with the support also of an imperial order whereby the cognizance of this case had been enjoined on him, is known to have determined in a sentence promulged by him, as has been made manifest to us, that the aforesaid camp of Cassiopus should remain under the jurisdiction of thy Church as it always has been, we, approving of the form of that sentence, confirm it, as justice approves, by the authority of the Apostolic See, and decree that it remain firm in all respects. For no reason of equity, no canonical order, sanctions that one person should in any way occupy the parish235 of another. Wherefore, though the guilt of this contentiousness seems to require no slight strictness of treatment, in that they have returned evil for good, nevertheless care should be taken that kindness be not overcome by excess, nor that what is due to strange brethren, when they are suffering constraint too, be denied them, lest charity should be judged to have no operation in the minds of bishops, if those to whom great compassion is due should be left without the remedy of consolation. It is right, then, that the priests and clergy of the city of Euria be not repelled from habitation of the aforesaid camp of Cassiopus, but that they should have leave also to deposit with due reverence the holy and venerable body of the blessed Donatus, which they have brought with them, in one of the churches of the aforesaid place such as they may choose. Yet so that protection be procured for thy Love, in whose diocese this camp is situate, by the issue of a security whereby the bishop of Euria shall promise not to claim for himself any power
-
-234
 
 Castrum Cassiopi, which appears to have been a fortress in the isle of Corcyra, to which refugees from the mainland of Epirus had resorted in time of war. Euria was one of the sees in Epirus Vetus under the jurisdiction of which these refugees had been; and it seems that the bishop of Euria had been complained of by Alcyson, bishop of Corcyra, for asserting jurisdiction over them in their new abode. See also Ep. VIII., which follows, and Ep. XIII.
 
-235
-
 Parochiam, in the then usual sense of what is now called a diocese.
-
-182
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7934,19 +5556,11 @@ therein, or any privilege, or any jurisdiction, or any authority in future, as t
 
 Epistle VIII. To Boniface, Deacon. Gregory to Boniface, Deacon at Constantinople236. As often as the discord of those who ought to have been preachers of peace makes us sad, we should study with great solicitude that cause of contention may be removed, and that those who differ among themselves may return to concord. Now what has been done with respect to the camp of Cassiopus, which is situate in the island of Corcyra, and how the bishop of Euria is endeavouring to withdraw it from the jurisdiction of the bishop of Corcyra, and iniquitously to subject it to his own jurisdiction, it would be very tedious to tell237. But, that your Love may understand all things fully, we have sent to you the letters of our brother Alcyson, the bishop of Corcyra, and have caused his man to go to you to inform you of everything more particularly by word of mouth. This, however, we briefly mention, that an order having been surreptitiously obtained from the late Emperor Mauricius, which order, having been given in opposition to the laws and sacred canons, had no effect, and the dispute between the parties remaining undecided, he gave another order to our late brother Andrew, then Metropolitan of Nicopolis, to the effect that, as both parties were subject to his jurisdiction, he should take cognizance of the case and terminate it canonically. The said Metropolitan, having taken cognizance of the case and pronounced sentence, of which we send you a copy, decided the aforesaid camp of Cassiopus to be under the power and jurisdiction of the bishop of Corcyra, in whose diocese it always was; and we, approving his sentence, have thought fit to confirm it by the authority of the Apostolic See. And, lest what we decreed should be so strict as to seem to have no admixture of benignity, we took care so to order the matter for the time being (as the text of our sentence which we send to thee shews) that neither should the bishop or clergy of the city of Euria incur the necessity of residence, nor the privileges of the Church of Corcyra be in any way disturbed. But inasmuch as at the very beginning of proceedings an order was surreptitiously got from the most serene lord the Emperor, and (contrary to the judgment of the Metropolitan of Nicopolis, which rested on ecclesiastical propriety and canonical reason) the
 
-236
-
 See XIII. 38, note 1.
-
-237
 
 Cf. preceding epistle.
 
-183
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-106
 
 Philip Schaff
 
@@ -7954,11 +5568,7 @@ aforesaid camp of Cassiopus is said to have been handed over to the bishop of Eu
 
 Epistle XII. To Theodelinda, Queen of the Lombards. Gregory to Queen Theodelinda.
 
-184
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-107
 
 Philip Schaff
 
@@ -7966,17 +5576,11 @@ The letters which you sent us a little time ago from the Genoese parts have made
 
 i.e. the child had been baptized a catholic. It would seem from Gregory’s way of speaking, and the absence of allusion
 
-238
-
 to the conversion of the father, that king Agilulph had not yet announced his Arianism. Paul Diaconus alleges that he did so eventually through the influence of Theodelinda. The child who had been baptized (al. Adaloaldus, or Adoaldus). He succeeded his father as king of the Lombards, A.D.
-
-239
 
 616, being still a boy, reigning under his mother’s guardianship. According to Paul Diaconus, Gregory’s hopes were for a short time fulfilled:—“Under them Churches were restored, and many endowments were bestowed on venerable places;”—but before long he became insane, and after ten years (A.D. 626) was deposed, Arioald being appointed to succeed him (Hist. Longob. iv. 43). 240
 
 On the subject of the “Three Chapters,” as appears from what follows. It is evident that the able and conscientious queen Theodelinda never found herself able to accept the ruling of the See of Rome on this question (cf. IV. 2, note 3); and she seems now to have employed the abbot Secundis to draw up a statement of the arguments on her side, inviting Gregory to reply to them. He did not, however, on this account cease to address her cordially as a good catholic. He seems to have condoned in her what he so strongly condemned in others as involving them in schism. On the schism arising from the matter of the “Three Chapters,” see I. 16, note 3; and Prolegom., p. x.
-
-185
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -7986,15 +5590,9 @@ Further, to our son the King Adolouvald we have taken thought to send some phyla
 
 Epistle XIII. To Alcyson, Bishop of Corcyra242. Gregory to Alcyson, &c. To brethren who bethink themselves and return to wholesome counsels kindness is not to be denied, lest a fault seem to weigh more in the minds of bishops than charity. We have therefore received, in the presence of thy Love’s responsales, Peter, reader of the Church of Euria, who came to us with letters from our brother and fellow-bishop John, and, when the letters which he had brought had been read, we took care to ask him if he had anything to say against the allegation of those thy responsales. And on his stating that he had been charged with nothing, and had no answer to make, beyond what the epistle of his bishop contained, we decreed without tardiness, under God, what was agreeable to the canons. After a long time, however, the above-written Peter produced a document which he asserted had been given him by his bishop; and so the case underwent delay. But inasmuch as in this document the above-mentioned bishop was found to say that he had hoped to have leave to deposit the holy and venerable body of the blessed Donatus in the church of the blessed John which is within the camp called that of Cassiopus, saying that he is prepared, on account of its being proved to be in thy diocese, to give thy Love a security that no prejudice to thee should thence arise, we thought it right that his petition should not be left without effect, now that in a time of necessity he desires provision to be made for him in such a way as to secure his acknowledgment in all respects of the jurisdiction of thy Church. Moved therefore by this reason, we exhort thy Fraternity by this present letter, that, without any delay or excuse thou afford opportunity for depositing the venerable body of the above-written Saint in the aforenamed Church of the blessed John; on condition only that he previously protect thee by a security in writing that
 
-241
-
 Some precious stone, probably of a white colour.
 
-242
-
 See XIV. 7.
-
-186
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -8004,19 +5602,11 @@ he will never on any plea whatever claim to himself any jurisdiction or privileg
 
 Epistle XVI. From Felix Bishop of Messana243 to St. Gregory.
 
-108
-
 To the most blessed and honourable lord, the holy father Pope Gregory, Felix lover of your Weal and Holiness. The claims under God of your most blessed Weal and Holiness are manifest. For, though the whole earth was filled with observance of the true faith by the preaching and doctrine of the apostles, yet the orthodox Church of Christ, having been founded by apostolical institution and most firmly established by the faithful fathers, is further built up through the teaching of divine discourses, while instructed by your hortatory admonition. To it did all the most blessed apostles, endowed with an equal participation of dignity and authority244, convert hosts of peoples; and by salutary precepts and admonitions, piously and holily, brought such as were foreknown in the grace of divine predestination from darkness to light, from error to the true faith, from death to life. Following the
-
-243
 
 Messina in Sicily. This Felix cannot be identified with Felix, bishop of the same See, to whom previous letters (viz. I. 66, together with two others, I. 40, and II. 5, which have not been translated) had been addressed. For he had been succeeded in the see by Donus, probably in the 14th Indiction, i.e. A.D. 595–6, (see VI. 9), when Gregory’s reply to Augustine’s interrogatories, which is the main subject of the epistle before us, had not yet been sent. Augustine does not appear to have even arrived in Britain till A.D. 597. But there seems to be no reason against the supposition that a second Felix had succeeded Donus at Messina before the death of Gregory, the last mention of Donus being in the superscription of Ep. XVIII. in Book XIII., assigned to the 16th Indiction, i.e. A.D. 602–3.
 
-244
-
 See also below—“the apostles in the first place who were prelates of the Apostolic See.” It would seem from these expressions that the Sicilian bishops went on the tradition of St. Paul and St. Peter having been joint founders of the Roman Church and throughout the epistle, though the supremacy of the See of Rome is acknowledged, it is not spoken of as derived especially from St. Peter.
-
-187
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -8024,15 +5614,9 @@ Philip Schaff
 
 merits of these holy apostles, and perfectly acting up to their example, your honoured Paternity adorns with them the Church of God by probity of manners and holiness of deeds; and, strong in sacred faith and Christian manners, enjoins what should be done to please God, and unceasingly follows and fulfils pontifical duties, thus observing the precepts of divine law; since (as says the Apostle) Not the hearers of the law are just before God, but the doers of the law shall be justified (Rom. ii. 13). As we were meditating on these things, news was brought us by certain who came from Rome that you had written to our comrade Augustine (afterwards ordained Bishop for the nation of the Angli, and thither sent by your venerable Holiness), and to the Angli (whom we have long known to have been converted to the faith through you), that persons related in the fourth degree of descent, if married, should not be separated245. Now this was not formerly the custom either in those or in these parts, when I was brought up and taught together with you from infancy; nor have I read of it in any decrees of your predecessors, or in the institutes of other Fathers generally or specially, or learnt that it had been allowed hitherto by any of the wise. But I have found from your holy predecessors, and from the rest of the holy Fathers, assembled as well in the Nicene synod as in other holy councils, that this \[i.e. this prohibition of marriage\] should be observed down to the seventh degree of descent; and I know that this is carefully seen to by men who live aright and fear the Lord. While these things were being discussed among us, other things also supervened, concerning which it seems necessary for us to consult your authority. For there came to us both Benedict, bishop of the Syracusan Church, and also others of our brethren, being bishops, weeping, and saying that they were greatly disturbed and afflicted in mind on account of the immoderate proceedings of secular and lay persons, in consequence of which some unjust things were also being said against them. There are also some churches in our province about the consecration of which doubt is felt; and, because both of their antiquity and of the carelessness of their custodians, it is unknown whether they have been dedicated by bishops or not. As to all these things we beg to be instructed by your Holiness, and by the authority of your holy see; and we ask to be informed by your letters whether what, as we have before said, we have heard that you had written to our aforesaid comrade Augustine and to the nation of the Angli was written specially to them or generally to all; and we desire to be fully informed both on this matter and on the others above written. For we do not signify to you what we have read, and what we know to be observed by the faithful, by way of finding fault (which be far from us); but we seek to know what we may reasonably and faithfully observe in this matter. And, since no slight murmuring is going on among us on this question, we seek an answer from you, as from the head, as to what we should reply to our brethren and fellow bishops; lest we should remain doubtful in the matter, and lest this murmuring should remain among us both in your times and in times to come, and your reputation, which has always been good and excellent, should be lacerated or disparaged through detractions, or your name
 
-245
-
 See XI., 64 (Responsio ad Interrog. vi.).
 
-188
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-109
 
 Philip Schaff
 
@@ -8040,21 +5624,13 @@ Philip Schaff
 
 Epistle XVII. To Felix, Bishop of Messana. To our most reverend brother, the Bishop Felix, Gregory, servant of the servants of God246.
 
-246
-
 The genuineness of this epistle is, to say the least, open to grave suspicion. Jaffé (Regesta Pont. Lit. Spur.) rejects it as spurious. Its style in some parts reminds us of Gregory, and it contains passages identical with what he had written elsewhere: but its prolixity, bad composition, and repetitions are unworthy of his pen. It reads like an unskilful imitation of his style. Nor is it difficult to understand why such a letter may have been forged. If, as supposed in our note to Ep. XVI., a letter from Sicily had been addressed to Gregory not long before his death with reference to his answers to Augustine’s questions, to which letter he had been unable to reply, it was not unlikely that such a letter as the one before us would afterwards be composed in his name. For anxiety might naturally be felt to vindicate from inconsistency the teaching of the Roman See on the subject of marriages of consanguinity. Such a letter, too, if forged, would be likely to attempt an imitation of Gregory’s style, and to bring in (as this does) extracts from his previous writings. It may be observed that the plea set forth of the directions to Augustine having been meant only as temporary concessions is not borne out by the actual language of those directions. See XI. 64.
 
-189
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-110
 
 Philip Schaff
 
 Our Head, which is Christ, to this end has willed us to be His members, that through His large charity and faithfulness He might make us one body in Himself, to whom it befits us so to cling that, since without Him we can do nothing, through Him we may be enabled to be what we are called. From the citadel of the Head let nothing divide us, lest, if we refuse to be His members, we be deserted of Him, and wither as branches cast off from the vine. That we may be counted worthy, then, to be the habitation of our Redeemer, let us abide with the whole desire of our heart in His love. For he says, He that loveth me will keep my word, and my Father will love him, and we will make our abode with him (Joh. xiv. 23). Now thy Love, most dear brother, has demanded of us that we should reply to thy enquiries with the authority of the Apostolic See. And, though we make haste to do this, not at length but succinctly (because of certain pressing cares that have come upon us, through the hindrance of our sins), yet we commit what follows to thy attention for wider enquiry, and investigation of other institutes of holy fathers. For a mind worn and weighed down with burdens and pressing cares cannot effect so much good, or speak of these things so freely, as can one that is joyful and free from depression. We have not therefore given the preference to such cares as wishing to deny to thy Holiness this and such other information. as we might find to be needful, but in order that what is here found deficient may be more fully enquired into. For, following the examples of thy predecessors, thou hast thought it right to consult the Apostolic See, in which thou hast been brought up and educated, on three points; that is on marriages of consanguinity, on vexation of bishops by subordinates, and on doubt with respect to the consecration of churches. Know then that what I wrote to Augustine, bishop of the nation of the Angli (who was, as thou rememberest, thy pupil), about marriages of consanguinity was written specially to him and to the nation of the Angli which had recently come to the faith, lest from alarm at anything too austere they should recede from their good beginning; but it was not written generally to others. Of this the whole Roman city is my witness. Nor did I thus order in those writings with the intention that, after they had been settled in the faith with a firm root, they should not be separated, if found to be below the proper degree of consanguinity, or should be united, if below the proper line of affinity, that is as far as the seventh generation. But for those who are still neophytes it is very often right in the first place to teach them, and by word and example to instruct them, to avoid unlawful things, and then afterwards, reasonably and faithfully, to shut out things that they may have done in matters of this kind. For according to the Apostle who says, I have fed you with milk, not with meat (1 Cor. iii. 2), we have allowed these indulgences for them only, and not (as has been said above) for future times, lest the good which had been planted so far with a weak root should be rooted up, but that what had been begun should rather be made firm, and guarded till it reach perfection. Certainly, if in these things we have done anything otherwise than as we ought to have done, know that it has been done, not of wantonness, but in commiseration. Wherefore, too, I invoke God as my witness, who knows the thoughts of all men, and to whom all things are naked and open. For, if I were to destroy what those who came before me established, I should be justly convicted of being not a builder but an over-thrower, as testifies the voice of the Truth, who says, Every kingdom divided against itself shall not stand (Luke xi. 17); and every
-
-190
 
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
 
@@ -8062,22 +5638,12 @@ Philip Schaff
 
 science and law divided against itself shall be destroyed. And so it is needful for us all with one accord to hold to the appointments of our holy Fathers, doing nothing in contention, but, unanimous in every aim of good devotion, to obey, the Lord helping us, the divine and apostolical constitutions. O how good is charity, which through love exhibits absent things in an image to one’s self as though they were present, unites things divided, sets in order things confused, associates things unequal, consummates things imperfect! How rightly the excellent preacher calls it the bond of perfectness, since the other virtues indeed produce perfectness, but yet charity so binds them that they cannot now be unloosed from the mind of him that loves. This being duly considered, in what has been already spoken of I indulged charitably; nor did I give a command, but advice; nor did I deliver a rule to be held to by any who should come after, but shewed of two dangers which might be more easily avoided. If, then, in secular affairs every one should have his own right and his proper rank preserved to him, how much more in ecclesiastical arrangements ought no confusion to be induced, lest discord should find place there whence the blessings of peace ought to proceed. And this will be thus secured, if nothing is yielded to power, but all to equity. On this account our heart rejoices greatly with your greatness, because we find you so earnest in your doings as to have a care for us, and at pains to enquire about such things by questioning us, to the end that such things may acquire for you not only glory with men, but also rewards of recompense with the Almighty Lord. But with regard to vexation of bishops, about which you wish to consult us, we know that the life of prelates ought to be perturbed by no excesses, since it is very unfit that those who are called thrones of God should be disturbed by any motion from kings or subjects. For, if David who was the most righteous of kings presumed not to lay his hand on Saul who was evidently already rejected of God, how much more should heed be taken that none lay the hand of detraction or vituperation or indiscreetness or dishonour on the Lord’s Anointed, or on the preachers of holy Church, since vexation or detraction of them touches Christ, in whose stead they fill the office of legates in the Church! Hence all the faithful should be exceedingly cautious not either secretly or publicly, by detractions or vituperations rend their bishop, that is, the Lord’s Anointed, considering that example of Mary \[i.e. Miriam\], who for speaking against Moses the servant of God because of the Ethiopian woman was punished with the uncleanness of leprosy (Num. xiii.); and that of the Psalmist, Touch not mine anointed, and do my prophets no harm (Ps. civ. 15)247. And in the divine law we read, Thou shalt not revile the gods, nor curse the ruler of thy people (Ex. xxii. 28). Hence great care should be taken by subordinates, whether clerical or lay, that they dare not to blame rashly the lives of their bishops or superiors, if perchance they see them do anything blameable, lest from their position of reproving evil they be sunk into greater depths through the impulse of elation. They are to be admonished also that, when they consider the faults of their superiors, they grow not too bold against them. But let them so consider with themselves the things that are bad that, constrained by divine fear, they refuse not to carry the yoke of reverence, seeing that the things done by bishops
 
-247
-
 Ps. cv. 15.
 
-191
-
 NPNF213. Gregory the Great (II), Ephraim Syrus, Aphrahat
-
-111
 
 Philip Schaff
 
 and superiors are not to be smitten with the sword of the mouth, even when they may seem to be such as may be properly blamed; since we are aware that it has been laid down by our predecessors and by many other holy bishops that sheep should not readily blame their shepherds, or presume to criminate or accuse them, because, when we sin against our superiors, we go against His ordinance Who gave them to us. Hence Moses, when he had learnt that the people complained against himself and Aaron, said, For what are we? Not against us is your murmuring but against God (Ex. xvi. 8). Wherefore subordinates of either order are to be admonished that, when they observe the deeds of their masters, they return to their own heart, and presume not in upbraidings of them, since The disciple is not above his master, nor the servant above his lord (Matth. x. 24). Concerning doubt as to the dedications of churches, about which among other things you have wished to consult us, you ought duly to hold to this which we have received as handed down to us from those who have gone before us; namely, that, as often as doubt is entertained as to the baptism or confirmation of any persons, as well as the consecration of churches, and there is no certain account to be given, either from writings or witnesses, as to whether persons have been baptized or confirmed, or whether churches have been consecrated, that such persons should be baptized and confirmed, and that such churches should be canonically dedicated, lest such doubt should become ruin to the faithful; inasmuch as what does not appear by certain proofs to have been duly done is not in such case done a second time. This, divine grace supporting us, we desire so to hold; and we enjoin it on you, as you have requested, to hold and teach; and we wish not wantonly to break through, but faithfully to observe, what has been determined by holy Fathers before us. Wherefore we implore the mercy of our Redeemer to assist you with His grace, and give unto you to carry into effect what He has granted you to will, since in this matter the good gifts of retribution by so much the more accrue to us as the zeal of labour is increased. But we decree that every one of those who have been faithfully taught, and already stand ineradicably planted with a firm root, shall observe his descent even to the seventh generation. And as long as they know themselves to be related to each other by affinity, let them not presume to approach the association of this union; nor is it lawful, or shall be lawfully for any Christian to marry a woman of his own kindred whom he has lived with as a wife, or whom he has stained by any unlawful pollution; since such intercourse is incestuous and abominable to God and to all good men. But we read that it has long been determined by holy Fathers that incestuous persons are not to be reckoned under any title of wedlock. And so we desire not to be blamed by you or any other of the faithful in this matter, seeing that in our indulgence herein to the nation of the Angli we have acted, not as laying down a rule, but as taking thought lest they should leave imperfect the good which they had begun, &c.248
 
-248
-
 The rest of this long prolix epistle, not being of any peculiar interest, has not been translated.
-
-192

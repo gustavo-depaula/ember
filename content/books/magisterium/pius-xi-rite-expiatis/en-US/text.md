@@ -107,5 +107,3 @@ IN PEACE AND COMMUNION WITH THE APOSTOLIC SEE.
 Given at Rome, at St. Peter's, on the thirtieth day of April, in the year 1926, the fifth of Our Pontificate.
 
 **PIUS XI**
-
-© Copyright - Libreria Editrice Vaticana

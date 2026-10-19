@@ -58,6 +58,4 @@ Tutto quanto è stato da noi decretato motu proprio con questa lettera apostolic
 
 **GIOVANNI PAOLO II**
 
-© Copyright 1987 - Libreria Editrice Vaticana
-
 * *

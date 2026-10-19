@@ -21,7 +21,10 @@ EN FORME DE MOTU PROPRIO *[NORMAS NONNULAS](https://www.vatican.va/content/bene
 
 ------------------------------------------------------------------------
 
-[TABLE]
+**Version originelle du 22 février 1996** \[[**pdf**](https://www.vatican.va/content/dam/john-paul-ii/pdf/apost_constitutions/documents/universi-dominici-gregis-19960222_fr.pdf)\]
+
+[**Lettre apostolique en forme de Motu Proprio du Pape Benoît XVI sur quelques changements dans les normes pour l’élection du Pontife Romain (11 juin 2007)**  
+](https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html)\[[Allemand](https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [Français](https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [Latin](https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html)\]  
 
 **Version en vigueur depuis le 22 février 2013**
 

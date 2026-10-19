@@ -23,5 +23,3 @@ Com os vossos dois Cardeais e os vossos Bispos, concedo a minha bênção pastor
 *Do Vaticano, na festa da manifestação do Senhor, 6 de Janeiro de 1980*
 
 JOÃO PAULO II
-
-© Copyright 1980 - Libreria Editrice Vaticana

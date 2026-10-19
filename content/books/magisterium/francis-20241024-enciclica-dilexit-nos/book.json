@@ -1,0 +1,128 @@
+{
+  "id": "francis-20241024-enciclica-dilexit-nos",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Encyclicae Dilexit nos de humano et divino amore Iesu Christi cordis (die XXIV mensis Octobris, anno MMXXIV)",
+    "en-US": "Dilexit nos",
+    "pt-BR": "Dilexit nos",
+    "ar": "Dilexit nos, 24 October 2024",
+    "be": "Dilexit nos",
+    "de": "Dilexit nos",
+    "es": "Dilexit nos",
+    "fr": "Dilexit nos",
+    "it": "Dilexit nos",
+    "pl": "Dilexit nos",
+    "zh-CN": "教宗方济各 《祂爱了我们》通谕 论耶稣基督圣心其 人性及天主性的爱",
+    "zh-TW": "教宗方濟各 《祂愛了我們》通諭 論耶穌基督聖心其 人性及天主性的愛"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Francis · 2024-10-24",
+    "pt-BR": "Encíclica · Papa Francisco · 2024-10-24"
+  },
+  "composed": "2024",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/20241024-enciclica-dilexit-nos.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Encyclicae Dilexit nos de humano et divino amore Iesu Christi cordis (die XXIV mensis Octobris, anno MMXXIV)",
+        "en-US": "Dilexit nos",
+        "pt-BR": "Dilexit nos",
+        "ar": "Dilexit nos, 24 October 2024",
+        "be": "Dilexit nos",
+        "de": "Dilexit nos",
+        "es": "Dilexit nos",
+        "fr": "Dilexit nos",
+        "it": "Dilexit nos",
+        "pl": "Dilexit nos",
+        "zh-CN": "教宗方济各 《祂爱了我们》通谕 论耶稣基督圣心其 人性及天主性的爱",
+        "zh-TW": "教宗方濟各 《祂愛了我們》通諭 論耶穌基督聖心其 人性及天主性的愛"
+      }
+    }
+  ]
+}

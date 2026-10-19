@@ -450,6 +450,4 @@ Con questi sentimenti benedico ogni famiglia nel nome della Santissima Trinità:
 
 **GIOVANNI PAOLO II**
 
-© Copyright 1994 - Libreria Editrice Vaticana
-
 *  *

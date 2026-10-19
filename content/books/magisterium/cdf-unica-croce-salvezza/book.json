@@ -1,0 +1,72 @@
+{
+  "id": "cdf-unica-croce-salvezza",
+  "cover": "quarter",
+  "name": {
+    "en-US": "\"The Only Cross of Salvation\". Letter to the Bishop of Bayeux- Lisieux (France) Regarding the Alleged Apparitions of Our Lord Jesus Christ in Dozulé",
+    "pt-BR": "\"A única Cruz da salvação\". Carta ao Bispo de Bayeux-Lisieux (França) sobre as supostas aparições de Nosso Senhor Jesus Cristo em Dozulé",
+    "es": "\"La única Cruz de la salvación\". Carta al obispo de Bayeux-Lisieux (Francia) sobre las presuntas apariciones de Nuestro Señor Jesucristo en Dozulé",
+    "fr": "\"L’unique Croix du salut\". Lettre à l’Évêque de Bayeux-Lisieux à propos des apparitions présumées de Notre Seigneur Jésus-Christ à Dozulé",
+    "it": "\"L'unica Croce della salvezza\". Lettera al Vescovo di Bayeux-Lisieux (Francia) circa le presunte apparizioni di Nostro Signore Gesù Cristo a Dozulé"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2025-11-03",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2025-11-03"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251103_unica-croce-salvezza_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "\"The Only Cross of Salvation\". Letter to the Bishop of Bayeux- Lisieux (France) Regarding the Alleged Apparitions of Our Lord Jesus Christ in Dozulé",
+        "pt-BR": "\"A única Cruz da salvação\". Carta ao Bispo de Bayeux-Lisieux (França) sobre as supostas aparições de Nosso Senhor Jesus Cristo em Dozulé",
+        "es": "\"La única Cruz de la salvación\". Carta al obispo de Bayeux-Lisieux (Francia) sobre las presuntas apariciones de Nuestro Señor Jesucristo en Dozulé",
+        "fr": "\"L’unique Croix du salut\". Lettre à l’Évêque de Bayeux-Lisieux à propos des apparitions présumées de Notre Seigneur Jésus-Christ à Dozulé",
+        "it": "\"L'unica Croce della salvezza\". Lettera al Vescovo di Bayeux-Lisieux (Francia) circa le presunte apparizioni di Nostro Signore Gesù Cristo a Dozulé"
+      }
+    }
+  ]
+}

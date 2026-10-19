@@ -1,0 +1,40 @@
+{
+  "id": "francis-20230106-in-ecclesiarum-communione",
+  "cover": "quarter",
+  "name": {
+    "it": "Costituzione Apostolica In Ecclesiarum Communione circa l’ordinamento del Vicariato di Roma"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Francis · 2023-01-06",
+    "pt-BR": "Constituição Apostólica · Papa Francisco · 2023-01-06"
+  },
+  "composed": "2023",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_constitutions/documents/20230106-in-ecclesiarum-communione.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Costituzione Apostolica In Ecclesiarum Communione circa l’ordinamento del Vicariato di Roma"
+      }
+    }
+  ]
+}

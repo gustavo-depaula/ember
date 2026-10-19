@@ -17,5 +17,3 @@ Anche la *[Lettera ai sacerdoti](/content/john-paul-ii/it/letters/documents/hf_j
 *Dal Vaticano, il 31 marzo, domenica delle Palme “de Passione Domini”, dell’anno 1985, settimo del pontificato.*
 
 GIOVANNI PAOLO II
-
-© Copyright 1985 - Libreria Editrice Vaticana

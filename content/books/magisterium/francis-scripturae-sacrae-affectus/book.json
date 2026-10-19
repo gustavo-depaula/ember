@@ -1,0 +1,128 @@
+{
+  "id": "francis-scripturae-sacrae-affectus",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Apostolica Scripturae Sacrae affectus XVI saeculis elapsis ab obitu sancti Hieronymi (die XXX mensis Septembris, anno MMXX)",
+    "en-US": "Apostolic Letter \"Scripturae Sacrae affectus\" on the sixteen hundredth Anniversary of the death of Saint Jerome",
+    "pt-BR": "Carta Apostólica Scripturæ Sacræ affectus no XVI centenário da morte de São Jerónimo",
+    "ar": "Apostolic Letter Scripturae Sacrae affectus on the Sixteen Hundredth Anniversary of the Death of Saint Jerome, 30 September 2020",
+    "be": "АПОСТАЛЬСКІ ЛІСТ SCRIPTURAE SACRAE AFFECTUS СВЯТОГА АЙЦА ФРАНЦІШКА у тысяча шасцісотую гадавіну смерці св. Гераніма, 30 верасня 2020 года",
+    "de": "Apostolisches Schreiben Scripturae Sacrae affectus anlässlich des 1600. Todestages des heiligen Hieronymus",
+    "es": "Carta Apostólica Scripturae Sacrae affectus en el XVI centenario de la muerte de san Jerónimo",
+    "fr": "Lettre Apostolique Scripturae Sacrae affectus à l'occassion du XVIème centenaire de la mort de Saint Jêrôme",
+    "hr": "Apostolsko pismo Scripturae Sacrae Affectus Svetoga Oca Franje o 1600. godišnjici smrti Svetoga Jeronima",
+    "it": "Lettera Apostolica Scripturae Sacrae affectus nel XVI centenario della morte di San Girolamo",
+    "pl": "List Apostolski Scripturae Sacrae affectus w XVI stulecie śmierci św. Hieronima",
+    "vi": "TÔNG THƯ SCRIPTURAE SACRAE AFFECTUS CỦA ĐỨC THÁNH CHA PHANXICÔ NHÂN DỊP KỶ NIỆM 1600 NĂM NGÀY MẤT CỦA THÁNH GIÊRÔNIMÔ"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2020-09-30",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2020-09-30"
+  },
+  "composed": "2020",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "pl",
+    "vi"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/francesco/hr/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/content/francesco/vi/apost_letters/documents/papa-francesco-lettera-ap_20200930_scripturae-sacrae-affectus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Apostolica Scripturae Sacrae affectus XVI saeculis elapsis ab obitu sancti Hieronymi (die XXX mensis Septembris, anno MMXX)",
+        "en-US": "Apostolic Letter \"Scripturae Sacrae affectus\" on the sixteen hundredth Anniversary of the death of Saint Jerome",
+        "pt-BR": "Carta Apostólica Scripturæ Sacræ affectus no XVI centenário da morte de São Jerónimo",
+        "ar": "Apostolic Letter Scripturae Sacrae affectus on the Sixteen Hundredth Anniversary of the Death of Saint Jerome, 30 September 2020",
+        "be": "АПОСТАЛЬСКІ ЛІСТ SCRIPTURAE SACRAE AFFECTUS СВЯТОГА АЙЦА ФРАНЦІШКА у тысяча шасцісотую гадавіну смерці св. Гераніма, 30 верасня 2020 года",
+        "de": "Apostolisches Schreiben Scripturae Sacrae affectus anlässlich des 1600. Todestages des heiligen Hieronymus",
+        "es": "Carta Apostólica Scripturae Sacrae affectus en el XVI centenario de la muerte de san Jerónimo",
+        "fr": "Lettre Apostolique Scripturae Sacrae affectus à l'occassion du XVIème centenaire de la mort de Saint Jêrôme",
+        "hr": "Apostolsko pismo Scripturae Sacrae Affectus Svetoga Oca Franje o 1600. godišnjici smrti Svetoga Jeronima",
+        "it": "Lettera Apostolica Scripturae Sacrae affectus nel XVI centenario della morte di San Girolamo",
+        "pl": "List Apostolski Scripturae Sacrae affectus w XVI stulecie śmierci św. Hieronima",
+        "vi": "TÔNG THƯ SCRIPTURAE SACRAE AFFECTUS CỦA ĐỨC THÁNH CHA PHANXICÔ NHÂN DỊP KỶ NIỆM 1600 NĂM NGÀY MẤT CỦA THÁNH GIÊRÔNIMÔ"
+      }
+    }
+  ]
+}

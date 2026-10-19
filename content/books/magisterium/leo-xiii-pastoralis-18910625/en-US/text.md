@@ -37,5 +37,3 @@ The noble Congress lately held at Braga, the news of which a very welcome letter
 *Given at Rome, at St. Peter's, June 25, 1891, in the 14th year of Our Pontificate.*
 
 **LEO XIII**
-
-© Copyright 1891 - Libreria Editrice Vaticana

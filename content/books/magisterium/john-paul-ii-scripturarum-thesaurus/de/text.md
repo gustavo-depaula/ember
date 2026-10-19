@@ -51,5 +51,3 @@ Anmerkungen:
 6\) Vgl. *Ansprache* Pauls VI. am 23.12.1966, in: *AAS* 59 (1967) 53 f.
 
 7\) Vgl. Paul VI., *Ansprache* am 22.12.1977, in: *L´Osservatore Romano*, 23.12.1977, S.1.
-
-© Copyright 1979 Libreria Editrice Vaticana

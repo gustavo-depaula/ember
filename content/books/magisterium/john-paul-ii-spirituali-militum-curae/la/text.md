@@ -121,5 +121,3 @@ Nostra haec autem statuta et praescripta nunc et in posterum firma et efficacia 
 *Datum Romae, apud Sanctum Petrum, die XXI mensis Aprilis, anno MCMLXXXVI, Pontificatus Nostri octavo.*  
 
 IOANNES PAULUS PP. II
-
-© Copyright 1986 - Libreria Editrice Vaticana

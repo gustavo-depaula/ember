@@ -94,6 +94,4 @@ Unter Abschaffung aller diesbezüglichen Gesetze jedweder Art legen Wir fest, da
 
 **JOHANNES PAUL II., PAPST**
 
-© Copyright 1983 - Libreria Editrice Vaticana
-
 * *

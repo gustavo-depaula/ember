@@ -36,8 +36,6 @@ Invocando su di voi, venerabili Fratelli, e sull'intero popolo cristiano il cost
 
 ------------------------------------------------------------------------
 
-© Copyright 1994 - Libreria Editrice Vaticana
-
 *  *
 
 * *

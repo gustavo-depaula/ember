@@ -2,11 +2,7 @@
 
 REGULA SANCTAE CLARAE
 
-1
-
 Innocentius episcopus, servus servorum Dei, 2dilectis in Christo filiabus, Clarae abbatissae aliisque sororibus monasterii Sancti Damiani Assisinatis, salutem et apostolicam benedictionem.
-
-3
 
 Solet annuere Sedes Apostolica piis votis et honestis petentium precibus favorem benevolum impertiri. 4Ex parte siquidem vestra nobis exstitit humiliter supplicatum, ut cum vitae formulam, iuxta quam communiter in spirituum unitate ac voto altissimae paupertatis vivere debetis (cfr. 2 Cor 8,2), 5vobis a beato Francisco traditam et a vobis sponte susceptam, 6venerabilis frater noster Ostiensis et Velletrensis episcopus duxerit approbandam, secundum quod in ipsius episcopi litteris confectis exinde plenius continetur, 7nos id curaremus apostolico munimine roborari. 8Devotionis igitur vestrae precibus inclinati, quod ab eodem episcopo super hoc factum est ratum habentes et gratum, illud auctoritate apostolica confirmamus et praesentis scripti patrocinio communimus, 9 tenorem litterarum ipsarum de verbo ad verbum praesentibus inseri facientes, qui talis est: 10
 
@@ -24,8 +20,6 @@ Forma vitae Ordinis Sororum Pauperum, quam beatus Franciscus instituit, haec est
 
 Si qua divina inspiratione venerit ad nos volens vitam istam accipere, abbatissa sororum omnium consensum requirere teneatur; 2et si maior pars consenserit, habita licentia domini cardinalis protectoris nostri, possit eam recipere. 3Et si recipiendam viderit, diligenter examinet eam vel examinari faciat de fide catholica et ecclesiasticis sacramentis. 4Et si haec omnia credat et velit ea fideliter confiteri et usque in finem firmiter observare 5et virum non habet vel, si habet, et iam religionem intravit auctoritate dioecesani episcopi, voto continentiae iam emisso, 6aetate etiam longaeva vel infirmitate aliqua seu fatuitate ad huius vitae observantiam non impediente, 7diligenter exponatur ei tenor vitae nostrae.
 
-8
-
 Et si idonea fuerit, dicatur ei verbum sancti Evangelii, quod vadat et vendat omnia sua et ea studeat pauperibus erogare (cfr. Mt 19,21 par.). 9Quod si facere non potuerit, sufficit ei bona voluntas. 10Et caveat abbatissa et eius sorores, ne sollicitae sint de rebus suis temporalibus, ut libere faciat de rebus suis, quicquid Dominus inspiraverit ei. 11Si tamen consilium requiratur, mittant eam ad aliquos discretos et Deum timentes, quorum consilio bona sua pauperibus erogentur. 12Postea, capillis tonsis in rotundum et deposito habitu saeculari, concedat ei tres tunicas et mantellum. 13Deinceps extra monasterium, sine utili, rationabili, manifesta et probabili causa, eidem exire non liceat. 14Finito vero anno probationis, recipiatur ad obedientiam promittens vitam et formam paupertatis nostrae in perpetuum observare. 15
 
 Nulla infra tempus probationis veletur. 16Mantellulas etiam possint sorores habere pro alleviatione et honestate servitii et laboris. 17Abbatissa vero de vestimentis discrete eisdem provideat secundum qualitates personarum et loca et tempora et frigidas regiones, sicut necessitati viderit expedire. 18Iuvenculae in monasterio receptae infra tempus aetatis legitimae tondeantur in rotundum; 19et deposito habitu saeculari, induantur panno religioso, sicut visum fuerit abbatissae. 20Cum vero ad aetatem legitimam venerint, indutae iuxta formam aliarum faciant professionem suam. 21Et tam ipsis quam aliis novitiis abbatissa sollicite magistram provideat de discretioribus totius monasterii, 22quae in sancta conversatione et honestis moribus iuxta formam professionis nostrae eas diligenter informet. 23
@@ -37,8 +31,6 @@ In examinatione et receptione sororum servientium extra monasterium servetur for
 Sorores litteratae faciant divinum officium secundum consuetudinem Fratrum Minorum, ex quo habere poterunt breviaria, legendo sine cantu. 2Et quae occasione rationabili non possent aliquando legendo dicere horas suas, liceat eis sicut aliae sorores dicere Pater noster. 3Quae vero litteras nesciunt dicant viginti quatuor Pater noster pro matutino, pro laude quinque, 4pro prima vero, tertia, sexta, nona, pro qualibet istarum horarum septem, pro vesperis autem duodecim, pro completorio septem. 5Pro defunctis etiam dicant in vesperis septem Pater noster cum Requiem aeternam, pro matutino duodecim, 6cum sorores litteratae teneantur facere officium mortuorum. 7 Quando vero soror monasterii nostri migraverit, dicant quinquaginta Pater noster. 8
 
 Omni tempore sorores ieiunent. 9In Nativitate vero Domini, quocumque die venerit, bis refici possint. 10Cum adolescentulis, debilibus et servientibus extra monasterium, sicut videbitur abbatissae, misericorditer dispensetur. 11Tempore vero manifestae necessitatis non teneantur sorores ieiunio corporali.
-
-12
 
 Duodecim vicibus ad minus de abbatissae licentia confiteantur in anno. 13Et cavere debent ne alia verba tunc inserant, nisi quae ad confessionem et salutem pertinent animarum. 14Septem vicibus communicent, videlicet: in Nativitate Domini, in quinta feria maioris hebdomadae, in Resurrectione Domini, in Pentecoste, in Assumptione beatae Virginis, in festo sancti Francisci et in festo omnium sanctorum. 15Pro communicandis sanis sororibus vel infirmis capellano intus liceat celebrare.
 
@@ -58,8 +50,6 @@ Ad conservandam unitatem mutuae dilectionis et pacis, de communi consensu omnium
 
 Ab hora completorii usque ad tertiam sorores silentium teneant, exceptis servientibus extra monasterium. Sileant etiam continue in ecclesia, dormitorio, in refectorio tantum dum comedunt; 3praeterquam in infirmaria, in qua pro recreatione et servitio infirmarum loqui discrete semper sororibus liceat. 4Possint tamen semper et ubique breviter submissa voce quod necesse fuerit insinuare. 2
 
-5
-
 Non liceat sororibus loqui ad locutorium vel ad cratem sine licentia abbatissae vel eius vicariae. 6Et licentiatae ad locutorium loqui non audeant, nisi praesentibus et audientibus duabus sororibus. 7Ad cratem vero accedere non praesumant, nisi praesentibus tribus ad minus per abbatissam vel eius vicariam assignatis de illis octo discretis, quae sunt electae ab omnibus sororibus pro consilio abbatissae. 8Hanc formam loquendi teneantur pro se abbatissa et eius vicaria observare. 9Et hoc de crate rarissime. Ad portam vero nullatenus fiat. 10
 
 Ad quam cratem pannus interius apponatur, qui non removeatur nisi cum proponitur verbum Dei vel aliqua alicui loqueretur. 11Habeat etiam ostium ligneum duabus diversis seris ferreis, valvis et vectibus optime communitum, 12ut in nocte maxime duabus clavibus obseretur, quarum unam habeat abbatissa, aliam vero sacrista; 13et maneat semper obseratum, nisi cum auditur divinum officium et pro causis superius memoratis. 14
@@ -69,8 +59,6 @@ Nulla ante solis ortum vel post solis occasum loqui ad cratem alicui ullatenus d
 \[CAPUT VI De non habendis possessionibus\] 1
 
 Postquam altissimus Pater caelestis per gratiam suam cor meum dignatus est illustrare, ut exemplo et doctrina beatissimi patris nostri sancti Francisci poenitentiam facerem, paulo post conversionem ipsius, una cum sororibus meis obedientiam voluntarie sibi promisi.
-
-2
 
 Attendens autem beatus pater quod nullam paupertatem, laborem, tribulationem, vilitatem et contemptum saeculi timeremus, immo pro magnis deliciis haberemus, pietate motus scripsit nobis formam vivendi in hunc modum: 3«Quia divina inspiratione fecistis vos filias et ancillas altissimi summi Regis Patris caelestis, et Spiritui Sancto vos desponsastis eligendo vivere secundum perfectionem sancti Evangelii, 4volo et promitto per me et fratres meos semper habere de vobis tanquam de ipsis curam diligentem et sollicitudinem specialem.» 5Quod dum vixit diligenter implevit, et a fratribus voluit semper implendum. 6
 
@@ -89,8 +77,6 @@ Sorores, quibus dedit Dominus gratiam laborandi, post horam tertiae laborent et 
 Sorores nihil sibi approprient nec domum nec locum nec aliquam rem. 2Et tanquam peregrinae et advenae (cfr. 1 Petr 2,11) in hoc saeculo in paupertate et humilitate Domino famulantes mittant pro eleemosyna confidenter, 3 nec oportet eas verecundari, quia Dominus pro nobis se fecit pauperem in hoc mundo (cfr. 2 Cor 8,9). 4Haec est illa celsitudo altissimae paupertatis, quae vos, carissimas sorores meas, haeredes et reginas regni caelorum instituit, pauperes rebus fecit, virtutibus sublimavit (cfr. Jac 2,5). 5Haec sit portio vestra, quae perducit in terram viventium (cfr. Ps 141,6). 6Cui, dilectissimae sorores, totaliter inhaerentes nihil aliud pro nomine Domini nostri Jesu Christi et eius sanctissimae Matris in perpetuum sub caelo habere velitis. 7
 
 Non liceat alicui sorori litteras mittere vel aliquid recipere aut extra monasterium dare sine licentia abbatissae. Nec quicquam liceat habere quod abbatissa non dederit aut permiserit. 9Quod si a parentibus suis vel ab aliis ei aliquid mitteretur, abbatissa faciat illi dari. 10Ipsa autem si indiget uti possit, sin autem sorori indigenti caritative communicet. 11Si vero ei aliqua pecunia transmissa fuerit, abbatissa de consilio discretarum in his quae indiget illi faciat provideri. 8
-
-12
 
 De infirmis sororibus, tam in consiliis quam in cibariis et aliis necessariis quae earum requirit infirmitas, teneatur firmiter abbatissa sollicite per se et alias sorores inquirere, 13et iuxta possibilitatem loci caritative et misericorditer providere. 14Quia omnes tenentur providere et servire sororibus suis infirmis, sicut vellent sibi serviri (cfr. Mt 7,12) si ab infirmitate aliqua tenerentur. 15Secure manifestet una alteri necessitatem suam. 16Et si mater diligit et nutrit filiam suam (cfr. 1 Thess 2,7) carnalem, quanto diligentius debet soror diligere et nutrire sororem suam spiritualem? 17
 
@@ -112,15 +98,11 @@ Abbatissa moneat et visitet sorores suas et humiliter et caritative corrigat eas
 
 Moneo vero et exhortor in Domino Jesu Christo, ut caveant sorores ab omni superbia, vana gloria, invidia, avaritia (cfr. Lc 12,15), cura et sollicitudine huius saeculi (cfr. Mt 13,22), detractione et murmuratione, dissensione et divisione; 7sint vero sollicitae semper invicem servare mutuae dilectionis unitatem, quae est vinculum perfectionis (cfr. Col 3,14).
 
-8
-
 Et nescientes litteras non curent litteras discere; 9sed attendant, quod super omnia desiderare debent habere Spiritum Domini et sanctam eius operationem, 10orare semper ad eum puro corde et habere humilitatem, patientiam in tribulatione et infirmitate, 11et diligere eos qui nos persequuntur, reprehendunt et arguunt, 12quia dicit Dominus: Beati qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est regnum caelorum (Mt 5,10). 13Qui autem perseveraverit usque in finem, hic salvus erit (Mt 10,22).
 
 \[CAPUT XI De clausurae custodia\] 1
 
 Ostiaria sit matura moribus et discreta, sitque convenientis aetatis, quae ibidem in cellula aperta sine ostio in die resideat. 2Sit ei et aliqua socia idonea assignata, quae cum necesse fuerit, eius vicem in omnibus exsequatur.
-
-3
 
 Sit autem ostium diversis duabus seris ferreis, valvis et vectibus optime communitum, 4ut in nocte maxime duabus clavibus obseretur, quarum unam habeat portaria, aliam abbatissa. 5Et in die sine custodia minime dimittatur, et una clavi firmiter obseretur. 6
 
@@ -133,8 +115,6 @@ statuat tunc sollicite abbatissa personam convenientem ad portam, 11quae tantum 
 \[CAPUT XII De visitatore, capellano et cardinali protectore\] 1
 
 Visitator noster sit semper de Ordine Fratrum Minorum secundum voluntatem et mandatum nostri cardinalis. Et sit talis de cuius honestate et moribus plena notitia habeatur. 3Cuius officium erit, tam in capite quam in membris, corrigere excessus commissos contra formam professionis nostrae. 4Qui stans in loco publico, ut videri ab aliis possit, cum pluribus et singulis loqui liceat quae ad visitationis officium pertinent, secundum quod melius viderit expedire. 2
-
-5
 
 Capellanum etiam cum uno socio clerico bonae famae, discretionis providae, et duos fratres laicos sanctae conversationis et honestatis amatores, 6in subsidium paupertatis nostrae, sicut misericorditer a praedicto Ordine Fratrum Minorum semper habuimus, 7intuitu pietatis Dei et beati Francisci, ab eodem Ordine de gratia postulamus. 8Non liceat capellano sine socio monasterium ingredi. 9Et intrantes in loco sint publico, ut se possint alterutrum semper et ab aliis intueri. 10Pro confessione infirmarum quae ad locutorium ire non possent, pro communicandis eisdem, pro extrema unctione, pro animae commendatione, liceat eisdem intrare. 11Pro exequiis vero et missarum sollemniis defunctorum, et ad fodiendam vel aperiendam sepulturam, seu etiam coaptandam, possint sufficientes et idonei de abbatissae providentia introire. 12
 

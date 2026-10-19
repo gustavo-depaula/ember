@@ -325,5 +325,3 @@ Iteramus nos has voces Matris Dei ad vosque dirigimus, iuvenes, et ad vestrum un
 *Datum Romae, apud Sanctum Petrum, die XXXI mensis Martii, Dominica in Palmis de Passione Domini, anno MCMLXXXV, Pontificatus Nostri septimo.*
 
 IOANNES PAULUS PP. II
-
-© Copyright 1985 - Libreria Editrice Vaticana

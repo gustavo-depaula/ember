@@ -1,0 +1,112 @@
+{
+  "id": "leo-xiv-20251004-dilexi-te",
+  "cover": "quarter",
+  "name": {
+    "la": "Adhortatio Apostolica Dilexi Te de dilectione pauperum (die IV mensis Octobris, in memoria s. Francisci Assisiensis, Anno Sancto MMXXV)",
+    "en-US": "Apostolic Exhortation Dilexi te of the Holy Father Leo XIV on Love for the Poor",
+    "pt-BR": "Exortação Apostólica Dilexi Te do Santo Padre Leão XIV sobre o amor para com os pobres",
+    "ar": "Apostolic Exhortation Dilexi Te of the Holy Father Leo XIV to all Christians on Love for the Poor, 4 October 2025",
+    "be": "АПОСТАЛЬСКАЯ АДГАРТАЦЫЯ DILEXI TE СВЯТОГА АЙЦА ЛЬВА XIV ПРА ЛЮБОЎ ДА БЕДНЫХ",
+    "de": "Apostolische Exhortation Dilexi te von Papst Leo XIV. über die Liebe zu den Armen",
+    "es": "Exhortación Apostólica Dilexi te del Santo Padre León XIV sobre el amor hacia los pobres",
+    "fr": "Exhortation Apostolique Dilexi Te du Saint-Père Léon XIV sur l’amour envers les pauvres",
+    "it": "Esortazione Apostolica Dilexi te del Santo Padre Leone XIV, sull’amore verso i poveri",
+    "pl": "Adhortacja apostolska Dilexi te Ojca Świętego Leona XIV o miłości do ubogich"
+  },
+  "author": {
+    "en-US": "Pope Leo XIV",
+    "pt-BR": "Papa Leão XIV",
+    "la": "Leo PP. XIV"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Leo XIV · 2025-10-04",
+    "pt-BR": "Exortação Apostólica · Papa Leão XIV · 2025-10-04"
+  },
+  "composed": "2025",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "leo-xiv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiv/la/apost_exhortations/documents/20251004-dilexi-te.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiv/en/apost_exhortations/documents/20251004-dilexi-te.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiv/pt/apost_exhortations/documents/20251004-dilexi-te.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/leo-xiv/ar/apost_exhortations/documents/20251004-dilexi-te.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/leo-xiv/be/apost_exhortations/documents/20251004-dilexi-te.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/leo-xiv/de/apost_exhortations/documents/20251004-dilexi-te.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiv/es/apost_exhortations/documents/20251004-dilexi-te.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiv/fr/apost_exhortations/documents/20251004-dilexi-te.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiv/it/apost_exhortations/documents/20251004-dilexi-te.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/leo-xiv/pl/apost_exhortations/documents/20251004-dilexi-te.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Adhortatio Apostolica Dilexi Te de dilectione pauperum (die IV mensis Octobris, in memoria s. Francisci Assisiensis, Anno Sancto MMXXV)",
+        "en-US": "Apostolic Exhortation Dilexi te of the Holy Father Leo XIV on Love for the Poor",
+        "pt-BR": "Exortação Apostólica Dilexi Te do Santo Padre Leão XIV sobre o amor para com os pobres",
+        "ar": "Apostolic Exhortation Dilexi Te of the Holy Father Leo XIV to all Christians on Love for the Poor, 4 October 2025",
+        "be": "АПОСТАЛЬСКАЯ АДГАРТАЦЫЯ DILEXI TE СВЯТОГА АЙЦА ЛЬВА XIV ПРА ЛЮБОЎ ДА БЕДНЫХ",
+        "de": "Apostolische Exhortation Dilexi te von Papst Leo XIV. über die Liebe zu den Armen",
+        "es": "Exhortación Apostólica Dilexi te del Santo Padre León XIV sobre el amor hacia los pobres",
+        "fr": "Exhortation Apostolique Dilexi Te du Saint-Père Léon XIV sur l’amour envers les pauvres",
+        "it": "Esortazione Apostolica Dilexi te del Santo Padre Leone XIV, sull’amore verso i poveri",
+        "pl": "Adhortacja apostolska Dilexi te Ojca Świętego Leona XIV o miłości do ubogich"
+      }
+    }
+  ]
+}

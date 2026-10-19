@@ -1493,5 +1493,3 @@ Amen.
 232\. G.B. Moneini, Pastorl Letter on the Moral Sense. 1961.
 
 233\. Cf. Proposition 40.
-
-© Copyright 1992 - Libreria Editrice Vaticana

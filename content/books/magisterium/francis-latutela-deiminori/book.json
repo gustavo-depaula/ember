@@ -1,0 +1,56 @@
+{
+  "id": "francis-latutela-deiminori",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued 'Motu Proprio' on the protection of minors and vulnerable persons",
+    "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" sobre a proteção dos menores e das pessoas vulneráveis",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» sulla protezione dei minori e delle persone vulnerabili"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2019-03-26",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2019-03-26"
+  },
+  "composed": "2019",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20190326_latutela-deiminori.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20190326_latutela-deiminori.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20190326_latutela-deiminori.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued 'Motu Proprio' on the protection of minors and vulnerable persons",
+        "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" sobre a proteção dos menores e das pessoas vulneráveis",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» sulla protezione dei minori e delle persone vulnerabili"
+      }
+    }
+  ]
+}

@@ -31,5 +31,3 @@ Participes insuper etiam per epistularum commercium praevideri poterunt.
 *Ex Aedibus Vaticanis, die XI mensis februarii, anno MCMXCIV, Pontificatus Nostri sexto decimo*.
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1994 - Libreria Editrice Vaticana

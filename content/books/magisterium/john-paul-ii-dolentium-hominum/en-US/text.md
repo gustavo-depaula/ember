@@ -61,6 +61,4 @@ In fulfilling its mission, the Pontifical Commission may seek the collaboration 
 
 **JOHN PAUL II**
 
-© Copyright 1985 - Libreria Editrice Vaticana
-
 * *

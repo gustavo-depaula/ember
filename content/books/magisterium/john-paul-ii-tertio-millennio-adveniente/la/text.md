@@ -279,5 +279,3 @@ His animi permoti sensibus Benedictionem Apostolicam universis singulisque elarg
 *Datum Romae, apud Sanctum Petrum, die X mensis Novembris, anno MCMXCIV, Pontificatus Nostri septimo decimo*.
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1994 - Libreria Editrice Vaticana

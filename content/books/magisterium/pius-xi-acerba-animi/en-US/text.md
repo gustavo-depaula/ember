@@ -59,5 +59,3 @@ The concern and sorrow which We feel at the present sad plight of human society 
 Given at Rome, at Saint Peter's, on the feast of the Dedication of Saint Michael the Archangel, the twenty-ninth day of September in the year 1932, the eleventh of Our Pontificate.
 
 **PIUS XI**
-
-© Copyright - Libreria Editrice Vaticana

@@ -53,6 +53,4 @@ Given at Rome, at St. Peter's, on the feast of the Chair of St. Peter in Rome, t
 
 **PIUS XI**
 
-© Copyright - Libreria Editrice Vaticana
-
      * *

@@ -108,8 +108,6 @@ Nous voulons que ces dispositions et normes soient valables et efficaces mainten
 
 ------------------------------------------------------------------------
 
-© Copyright 1986 - Libreria Editrice Vaticana
-
 [^1]: \[\] Concile Vatican II, [*Christus Dominus*, 43](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_fr.html#43.).
 
 [^2]: \[\] Cf. Concile Vatican II, Const. dogm. [*Lumen gentium*, 24](http://localhost/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#24.).

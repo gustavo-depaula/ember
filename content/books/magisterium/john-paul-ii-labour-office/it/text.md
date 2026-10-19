@@ -361,5 +361,3 @@ La sentenza, motivata in diritto e in fatto, dovrà essere depositata dal Giudic
 A cura della Cancelleria si provvederà alla tempestiva notifica alle parti in causa e al Promotore di Giustizia, con contestuale comunicazione alla Presidenza dell'ULSA, della decisione con copia della sentenza.
 
 **GIOVANNI PAOLO II**
-
-© Copyright 1994 - Libreria Editrice Vaticana

@@ -77,5 +77,3 @@ Papal Decree
 *Given in Rome, at St. Peter's, on September 30, 1880, in the third year of Our Pontificate*.
 
 **LEO XIII**
-
-© Copyright 1880 - Libreria Editrice Vaticana

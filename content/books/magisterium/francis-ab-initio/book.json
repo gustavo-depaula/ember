@@ -1,0 +1,56 @@
+{
+  "id": "francis-ab-initio",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter in the form of a “Motu Proprio” \"Ab initio\", of the Supreme Pontiff Francis on the amendment of cannons 435 §1 and 506 §1 of the Code of Canons of the Oriental Churches",
+    "es": "Carta apostólica en forma de Motu proprio Ab initio, sobre la modificación de los cann. 435 §1 e 506 §1 del Código de los Cánones de las Iglesias Orientales",
+    "it": "Lettera Apostolica in forma di Motu proprio \"Ab initio\", sulla modifica dei cann. 435 §1 e 506 §1 del Codice dei Canoni delle Chiese Orientali"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2020-11-21",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2020-11-21"
+  },
+  "composed": "2020",
+  "languages": [
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20201121_ab-initio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20201121_ab-initio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20201121_ab-initio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter in the form of a “Motu Proprio” \"Ab initio\", of the Supreme Pontiff Francis on the amendment of cannons 435 §1 and 506 §1 of the Code of Canons of the Oriental Churches",
+        "es": "Carta apostólica en forma de Motu proprio Ab initio, sobre la modificación de los cann. 435 §1 e 506 §1 del Código de los Cánones de las Iglesias Orientales",
+        "it": "Lettera Apostolica in forma di Motu proprio \"Ab initio\", sulla modifica dei cann. 435 §1 e 506 §1 del Codice dei Canoni delle Chiese Orientali"
+      }
+    }
+  ]
+}

@@ -31,5 +31,3 @@ Dum divinum auxilium in Academiae operam invocamus, cuius labores studiose perse
 *Ex Aedibus Vaticanis, diet mensis Ianuarii, anno MCMXCIV, Pontificatus Nostri sexto decimo.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1994 - Libreria Editrice Vaticana

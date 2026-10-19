@@ -31,5 +31,3 @@ Etiam Nos vobiscum cogitatione et animo erimus. Atque pergratum habebimus vos co
 *Ex Aedibus Vaticanis, die XVI mensis Augusti, anno MCMLXXXVIII, Pontificatus Nostri decimo.*  
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1988 - Libreria Editrice Vaticana

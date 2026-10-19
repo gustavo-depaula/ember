@@ -57,5 +57,3 @@ Ai santi Martiri, in questo anno giubilare, affidiamo la realizzazione dei Nostr
 *Dato dal Nostro Palazzo Apostolico al Vaticano nel giorno natalizio di san Damaso Papa, 11 dicembre di quest’anno giubilare 1925, del Pontificato Nostro anno quarto.*
 
 **PIUS PP. XI**
-
-© Copyright - Libreria Editrice Vaticana

@@ -44,6 +44,4 @@ Comandiamo che tutto ciò che da Noi è stato stabilito con questa lettera motu 
 
 ------------------------------------------------------------------------
 
-© Copyright - Libreria Editrice Vaticana
-
 [^1]: \[\] Sess. III, cap. IV.

@@ -86,8 +86,6 @@ Sorretti da questa speranza, impartiamo di tutto cuore a voi, venerabili fratell
 
 .
 
-© Copyright 1962 - Libreria Editrice Vaticana
-
 [^1]: (#fnref1)) IOANNES PP. XXIII, Litt. enc. *[Paenitentiam agere](/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html)* quibus, adventante Concilio Oecumenico Vaticano II, invitamentum ad paenitentiam inculcatur, \[Ad venerabiles fratres Patriarchas, Primates, Archiepiscopos, Episcopos aliosque locorum Ordinarios, pacem et communionem cum Apostolica Sede habentes\], 1 iulii 1962: AAS 54(1962), pp. 481-491. – Versione italiana: *L’Osservatore romano*, 6 luglio 1962.  
 Pressante invito al mondo cattolico con esortazione a più intensa preghiera e a penitenza propiziatrice di grazie sul concilio imminente. Richiami alla penitenza nell’Antico Testamento e nell’insegnamento di Gesù e degli apostoli. Il pensiero e la prassi della chiesa come pure l’esempio dei precedenti concili. Opportuni suggerimenti in preparazione prossima al Concilio Ecumenico Vaticano II: necessità della penitenza interna ed esterna; cooperare alla divina redenzione; inviti conclusivi.
 

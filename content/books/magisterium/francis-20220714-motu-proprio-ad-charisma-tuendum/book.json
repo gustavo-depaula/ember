@@ -1,0 +1,48 @@
+{
+  "id": "francis-20220714-motu-proprio-ad-charisma-tuendum",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued “Motu proprio” Ad charisma tuendum",
+    "it": "Lettera Apostolica in forma di “Motu proprio” Ad charisma tuendum"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2022-07-14",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2022-07-14"
+  },
+  "composed": "2022",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20220714-motu-proprio-ad-charisma-tuendum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20220714-motu-proprio-ad-charisma-tuendum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued “Motu proprio” Ad charisma tuendum",
+        "it": "Lettera Apostolica in forma di “Motu proprio” Ad charisma tuendum"
+      }
+    }
+  ]
+}

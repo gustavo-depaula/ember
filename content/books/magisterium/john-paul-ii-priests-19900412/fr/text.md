@@ -45,5 +45,3 @@ A tous mes frères dans le sacerdoce du Christ, j'exprime mon estime et mon affe
 *Du Vatican, le 12 avril 1990 – jeudi saint –, en la douzième année de mon pontificat.*
 
 **IOANNES PAULUS P.P.II**
-
-© Copyright 1990 - Libreria Editrice Vaticana

@@ -1,0 +1,64 @@
+{
+  "id": "cdf-faguette",
+  "cover": "quarter",
+  "name": {
+    "en-US": "“Our Lady of Mercy Leads us to the Heart of Christ.” Letter to the Archbishop of Bourges (France) on the Spiritual Experience of Estelle Faguette",
+    "es": "“Nuestra Señora de Misericordia nos lleva al Corazón de Cristo”. Carta al Arzobispo de Bourges (Francia) sobre la experiencia espiritual de Estelle Faguette",
+    "fr": "« Notre Dame de la Miséricorde conduis-nous au Cœur du Christ ». Lettre à l’Archevêque de Bourges (France) à propos de l’expérience spirituelle d’Estelle Faguette",
+    "it": "“Nostra Signora della Misericordia ci porta al Cuore di Cristo”. Lettera all’Arcivescovo di Bourges (Francia) sull’esperienza spirituale di Estelle Faguette"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-08-22",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-08-22"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-faguette_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-faguette_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-faguette_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-faguette_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "“Our Lady of Mercy Leads us to the Heart of Christ.” Letter to the Archbishop of Bourges (France) on the Spiritual Experience of Estelle Faguette",
+        "es": "“Nuestra Señora de Misericordia nos lleva al Corazón de Cristo”. Carta al Arzobispo de Bourges (Francia) sobre la experiencia espiritual de Estelle Faguette",
+        "fr": "« Notre Dame de la Miséricorde conduis-nous au Cœur du Christ ». Lettre à l’Archevêque de Bourges (France) à propos de l’expérience spirituelle d’Estelle Faguette",
+        "it": "“Nostra Signora della Misericordia ci porta al Cuore di Cristo”. Lettera all’Arcivescovo di Bourges (Francia) sull’esperienza spirituale di Estelle Faguette"
+      }
+    }
+  ]
+}

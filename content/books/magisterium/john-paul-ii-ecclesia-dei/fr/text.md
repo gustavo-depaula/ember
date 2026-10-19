@@ -61,5 +61,3 @@ A tous ces fidèles catholiques qui se sentent attachés à certaines formes lit
 (8)Cf. Code de droit canon, can. 1364.
 
 (9)Cf. Congrégation pour le Culte divin, Lettre *Quattuor abhinc annos*, 3 octobre 1984: *AAS* 76 (1984), p. 1088-1089.
-
-© Copyright 1988 - Libreria Editrice Vaticana

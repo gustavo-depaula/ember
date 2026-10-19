@@ -21,5 +21,3 @@ Avec mon affectueuse Bénédiction.
 *Du Vatican, le 4 octobre 1996*
 
 **JEAN-PAUL II**
-
-© Copyright 1996 - Libreria Editrice Vaticana

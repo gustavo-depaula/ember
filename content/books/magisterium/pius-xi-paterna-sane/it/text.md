@@ -33,5 +33,3 @@ Intanto, quale auspicio dei celesti favori e quale testimonianza della Nostra pa
 *Dato a Roma, presso San Pietro, il 2 febbraio 1926, anno quarto del Nostro Pontificato*.
 
 **PIUS PP. XI**
-
-© Copyright - Libreria Editrice Vaticana

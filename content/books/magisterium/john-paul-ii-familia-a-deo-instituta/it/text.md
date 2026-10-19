@@ -56,6 +56,4 @@ VI\. Un «regolamento» sperimentale, redatto in applicazione del presente motup
 
 **GIOVANNI PAOLO II**
 
-© Copyright 1981 - Libreria Editrice Vaticana
-
 * *

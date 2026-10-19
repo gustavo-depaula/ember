@@ -61,5 +61,3 @@ Quaecumque postremo a Nobis hisce Litteris Apostolicis motu proprio datis statuu
 *Datum Romae, apud Sanctum Petrum, die xi mensis Februarii, anno MCMLXXXV, Pontificatus Nostri septimo.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1985 - Libreria Editrice Vaticana

@@ -257,5 +257,3 @@ Ezeket óhajtva adjuk rátok szívünk mélyéből apostoli áldásunkat.
 *Kelt Rómában, Szent Péternél, 1984. március 25-én, Megváltásunk Jubileumi évében, pápaságunk hatodik esztendejében.*
 
 ***II. János Pál pápa*  **
-
-© Copyright 1984 - Libreria Editrice Vaticana

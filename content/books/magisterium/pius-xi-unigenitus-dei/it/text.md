@@ -56,8 +56,6 @@ A questo punto, diletti figli, non possiamo astenerCi dal farvi una raccomandazi
 
 ------------------------------------------------------------------------
 
-© Copyright - Libreria Editrice Vaticana
-
 [^1]: \[\] *Sess*. XXV, cap. 1, *de Regni*.
 
 [^2]: \[\] *C.I.C*., can. 487, 488.

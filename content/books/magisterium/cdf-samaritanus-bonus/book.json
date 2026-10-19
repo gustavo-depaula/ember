@@ -1,0 +1,88 @@
+{
+  "id": "cdf-samaritanus-bonus",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter <i>Samaritanus bonus</i> on the care of persons in the critical and terminal phases of life",
+    "pt-BR": "Carta Samaritanus Bonus sobre o cuidado das pessoas nas fases críticas e terminais da vida",
+    "de": "Samaritanus Bonus, Schreiben über die Sorge an Personen in kritischen Phasen und in der Endphase des Lebens",
+    "es": "Carta <i>Samaritanus bonus</i> sobre el cuidado de las personas en las fases críticas y terminales de la vida",
+    "fr": "Lette <i>Samaritanus bonus</i> sur le soin des personnes en phases critiques et terminales de la vie",
+    "it": "Lettera <i>Samaritanus bonus</i> sulla cura delle persone nelle fasi critiche e terminali della vita",
+    "pl": "List Samaritanus Bonus, o opiece nad osobami w krytycznych i końcowych FAZAch życia"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2020-07-14",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2020-07-14"
+  },
+  "composed": "2020",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200714_samaritanus-bonus_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter <i>Samaritanus bonus</i> on the care of persons in the critical and terminal phases of life",
+        "pt-BR": "Carta Samaritanus Bonus sobre o cuidado das pessoas nas fases críticas e terminais da vida",
+        "de": "Samaritanus Bonus, Schreiben über die Sorge an Personen in kritischen Phasen und in der Endphase des Lebens",
+        "es": "Carta <i>Samaritanus bonus</i> sobre el cuidado de las personas en las fases críticas y terminales de la vida",
+        "fr": "Lette <i>Samaritanus bonus</i> sur le soin des personnes en phases critiques et terminales de la vie",
+        "it": "Lettera <i>Samaritanus bonus</i> sulla cura delle persone nelle fasi critiche e terminali della vita",
+        "pl": "List Samaritanus Bonus, o opiece nad osobami w krytycznych i końcowych FAZAch życia"
+      }
+    }
+  ]
+}

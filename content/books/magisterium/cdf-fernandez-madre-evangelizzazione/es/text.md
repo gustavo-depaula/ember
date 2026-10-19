@@ -1,0 +1,125 @@
+# La Madre de la evangelización. ¿Por qué María es la primera evangelizadora? Conferencia en el Encuentro con sacerdotes, religiosas y seminaristas latinoamericanos que estudian en Roma
+
+[](http://www.vatican.va/index.htm)
+
+[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
+
+[](javascript:history.go(-1))
+
+[](#)
+
+------------------------------------------------------------------------
+
+Card. Víctor Manuel Fernández *Prefecto del Dicasterio para la Doctrina della Fe*
+
+**La Madre de la evangelización ¿Por qué María es la primera evangelizadora?**
+
+*Conferencia en el Encuentro con sacerdotes, religiosas y seminaristas latinoamericanos que estudian en Roma (12 de diciembre de 2025).*
+
+María es la Estrella de la evangelización porque hoy ella es la primera evangelizadora. Pero digamos más: es la **Madre** de la evangelización. Trataremos de fundamentar esta afirmación a través de algunos preciosos textos de la Biblia y del Magisterio.
+
+**Con ella vienen Cristo y el Espíritu**
+
+Comencemos con *Lc* 1, 39-45, donde se narra la visita de María a Isabel. Allí se muestra la actitud de Isabel ante María cuando la recibe. Esta actitud es importante porque es efecto de la acción del Espíritu Santo que movió a Isabel en ese momento: «Se llenó Isabel de Espíritu Santo y, levantando la voz, exclamó» (*Lc* 1,41-42a). Y así llena de la luz y del fuego del Espíritu dice tres frases. Movida por el Espíritu Santo, Isabel llama a María con el mismo elogio que usa para Cristo: «¡**Bendita** tú entre las mujeres, y **bendito** el fruto de tu vientre!» (*Lc* 1,42). Los reconoce como inseparables. Pero inmediatamente, también movida por el Espíritu agrega: «¿Quién soy yo para que me visite la *madre* de mi Señor?» (*Lc* 1,43). ¿Quién soy yo? Esta actitud de humildad y de veneración ante María también es efecto de la acción del Espíritu. Y la tercera frase es: «Feliz, la que ha creído, porque lo que le ha dicho el Señor se cumplirá» (*Lc* 1,45). Elogia a María por su fe, y por eso la llama “feliz”. En el Evangelio de Lucas esa palabra no expresa un estado de ánimo, expresa la santidad, los felices son los bienaventurados, los que ya tienen un lugar en el cielo (cf. *Lc* 6, 20-22; *Mt* 5, 2-12). Pero ¿qué tiene que ver esto con la evangelización?
+
+Advirtamos que todo esto ocurre en Isabel porque a ella se acercó a Jesús y la llenó del Espíritu Santo. Pero Jesús llego a Isabel **porque lo llevo María**, inseparable de Cristo: «Bendita..., bendito» (*Lc* 1,42). Eso sucede también hoy, y ocurre frecuentemente en la piedad popular latinoamericana, cuando una imagen de María visita un hogar, o se acerca a un enfermo en un hospital, o cuando un muchacho invita a un amigo a ir caminando hacia un santuario mariano. Ella como madre entrega a Cristo y de Él mana para nosotros el Espíritu Santo.
+
+**Llena del Evangelio**
+
+María evangeliza también por otra razón. Porque ella conserva en su corazón todo el Evangelio. Recordemos que dos veces el Evangelio de Lucas dice que María contemplaba cuidadosamente todo y lo conservaba en su corazón (cf. *Lc* 2, 19.51). Fíjense, dos verbos: las guardaba, las metía en su corazón como si fuera el arcón de los tesoros. También las contemplaba, es decir, gustaba el significado, la grandeza, el valor de todo lo que hacía y decía Jesús. ¡Qué hermoso que María sea ese libro viviente y luminoso, donde podemos encontrarlo todo, toda la historia de Jesús y su más hondo significado! Entonces, en ese corazón de la Madre está Jesús, toda su historia, está el Evangelio entero, porque María fue testigo de todo, desde la encarnación y el nacimiento hasta la muerte en la cruz y la resurrección pasando por toda la vida. A ella no se le escapó nada, como buena Madre, no se le escapaba detalle. Después de treinta años juntos en la casa de Nazaret, cuántas cosas sabe María que no están siquiera en los evangelios escritos, porque en realidad **el Evangelio más completo, el único íntegro, está en el corazón de María.**
+
+**María conecta el Evangelio con nuestra vida**
+
+Pero ella no tiene en su interior sólo la historia de Jesús. Tiene también la tuya. En Apocalipsis 12, donde aparece la figura de María en el cielo, dice que ella dio a luz a Jesús (*Ap* 12, 5), y al final la menciona como madre del «resto de sus hijos» (*Ap* 12, 17). Es decir, para ella son inseparables Jesús y nosotros, que somos el resto de sus hijos. Y por eso, ella también contempla toda tu historia, desde que te formaste en el vientre de tu madre, mientras crecías en tu niñez y adolescencia, cada una de tus alegrías y tus sufrimientos, todo, desde el primer al último instante de tu vida, todo se está guardando en su corazón de Madre, que te dice como le dijo a Juan Diego: «¿No estoy yo aquí, yo que tengo el honor de ser tu madre? \[…\]. ¿Que no estás en mi regazo, en el cruce de mis brazos?»[^1] Por eso María, que ha contemplado el Evangelio, también guarda en su corazón tu vida muy concreta. Así, puede unir las dos cosas: puede poner en contacto el Evangelio con tu vida, puede hacer que el Evangelio toque tu existencia concreta. ¿Y no es eso evangelizar?
+
+Ustedes podrán preguntarse qué importancia tiene esto, y yo les pido que presten atención porque es sumamente bello. Es importante que haya alguien que recuerde tu historia. A veces puedes pensar que quien conoce todo es tu esposa, tu esposo, tu hermana, tu amigo. Aunque ¿cuántas cosas habrá que esa persona no sabe, de tu historia, de tus dudas, de tus sufrimientos? María sí conoce y guarda todo eso. Tú mismo te olvidas de muchas cosas, o quedan en una especie de penumbra interior, o tú mismo prefieres olvidarlas. Parece que al final toda tu historia se esfumara en el olvido. Pero ella, la Madre, sí que guarda todo en su corazón, ella tiene allí bien guardado, todo lo que has vivido, y sabe bien el significado de cada cosa y de cada momento. Ella no se olvida. Y por eso, cada vez que vayas a orar, a conversar con ella, ella podrá entender más que nadie lo que le dices y también lo que no le dices, a la luz del Evangelio. Porque ella lo puede leer en el contexto de todo lo que has vivido. Por eso, conectándote con María, tu vida recibe del Evangelio esa luz que necesitas para tu camino personal.
+
+**Evangelizados por el rostro de la Madre**
+
+De un modo misterioso, sin palabras, gracias a la acción secreta del Espíritu Santo, sin que les enseñen o les expliquen, muchas personas simples reciben en su interior el mensaje del Evangelio mirando a María. Así son evangelizados. Por eso decimos que el Pueblo fiel no se separa de Cristo, ni del Evangelio, cuando está frente a ella, sino que llega a leer «en esa imagen materna **todos los misterios del Evangelio**».[^2]
+
+El Documento de *Aparecida* lo expresaba así, cuando se refería al peregrino que llega ante una imagen de María:
+
+*«La llegada es un encuentro de amor. La mirada del peregrino se deposita sobre una imagen que simboliza la ternura y la cercanía de Dios. El amor se detiene, contempla el misterio, lo disfruta en silencio. \[...\] Un breve instante condensa una viva experiencia espiritual».*[^3]
+
+«Contempla el misterio». Veamos cómo lo explica *[Mater populi fidelis](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html)* ofreciendo varios ejemplos concretos de lo que vive un fiel sencillo y sufriente cuando encuentra en María **el Evangelio**:
+
+«Porque en ese rostro materno ve reflejado al Señor que nos busca (cf. *Lc* 15,4-8), que viene a nuestro encuentro con los brazos abiertos (cf. *Lc* 15,20), que se detiene frente a nosotros (cf. *Lc* 18,40), que se inclina y nos levanta contra su mejilla (cf. *Os *11,4), que nos mira con amor (cf. *Mc* 10,21) y que no nos condena (cf *Jn* 8, 11; *Os* 11,9). En su rostro materno muchos pobres reconocen al Señor que «derriba del trono a los poderosos y enaltece a los humildes» (*Lc* 1,52). Ese rostro de mujer canta el misterio de la Encarnación. En ese rostro de la Madre, traspasada por la espada (cf. *Lc *2,35), el Pueblo de Dios reconoce el misterio de la cruz, y en ese mismo rostro, bañado por la luz pascual, percibe que Cristo está vivo. Y ella, la que recibió el Espíritu Santo en plenitud, es quien sostiene a los apóstoles en oración en el cenáculo (cf. *Hch* 1,14)». (*MPF* [77](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html#_Toc203121431)).
+
+Es decir, sin que lean o estudien el texto de Lucas 15, en el rostro de María reconocen la misericordia y la ternura del Padre Dios. Sin leer el texto de Oseas 11, mirando a María sienten que ese Padre los levanta contra su mejilla. Sin leer el relato de la Pasión, en María traspasada por la espada leen el misterio de la Cruz redentora. Sin leer las narraciones de la resurrección ni hacer cursos sobre el Misterio pascual, en el rostro de María descubren que Cristo está vivo y que hay esperanza. Muchos intelectuales no comprenden esto, porque esto tiene otra lógica: es algo que ocurre de una forma secreta, misteriosa, **mistagógica**, simbólica, que a veces la persona misma que lo vive no sabe explicar, pero en el encuentro con María, ha sido iluminada por el Evangelio. También por esto María es evangelizadora.
+
+Entonces, nos encontramos frente a una aclaración sumamente importante, **clave para una Mariología sana**: no es que Dios es lejano y María nos da esa cercanía que Dios no tiene. Por favor, no digamos esto. Es todo lo contrario: **es imposible que María sea más cercana a nosotros que el Padre, que Cristo, que el Espíritu Santo**. De ninguna manera. Lo que ocurre es que en ella, en su rostro de Madre, podemos descubrir fácilmente la cercanía de Dios que es quien llega a la intimidad profunda de nuestro corazón. En ella reconocemos ese amor del Padre del cual nos habla el Evangelio, la ternura de Cristo y la fuerza del Espíritu que leemos en los textos del Evangelio. **Ella es transparencia de nuestro Dios** cercano, misericordioso, compasivo, tal como lo presenta el Evangelio.
+
+**Madre de la gracia**
+
+Pero María no es evangelizadora solamente porque en ella recibimos el mensaje del Evangelio, sino también porque con su auxilio materno, nos ayuda a acogerlo de corazón y a vivirlo. Eso en realidad es obra de la misma gracia divina, y nos preguntamos qué tiene que ver María con esto. Ella no puede merecer para nosotros la gracia santificante, porque «sólo Cristo puede merecer para otro la gracia primera».[^4] Ella misma ha recibido la gracia «en atención a los méritos de Jesucristo Salvador del género humano».[^5] Sin embargo, muchos doctores han explicado que es razonable (congruo) que Dios escuche una intercesión[^6] y haga algo escuchándola, porque él lo quiere así. Por esta razón puede querer libremente derramar su gracia **cumpliendo el deseo de la Madre que pide por sus hijos**. De este modo la Madre es incorporada en su obra, en lo que suele llamarse «mediación participada»[^7]. Este deseo del amor materno tenía una fuerza **peculiar** cuando ella ofrecía su sufrimiento junto a la Cruz del único Redentor (cf. *MPF* [32](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html#_Toc203121418)).
+
+Por otra parte, veamos lo que explica así *[Mater populi fidelis](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html)*:
+
+«Ella, con su intercesión, puede implorar para nosotros los impulsos internos del Espíritu Santo que llamamos “gracias actuales”. Se trata de aquellos auxilios del Espíritu Santo que operan también en los pecadores para disponerlos a la justificación, y también en los ya justificados por la gracia santificante, para estimularlos al crecimiento. En este sentido preciso debe interpretarse el título de “Madre de la gracia”. Ella humildemente colabora **para que abramos el corazón al Señor**, que es el único que puede justificarnos con la acción de la gracia santificante, \[...\] Esto es exclusivamente obra del mismo Señor, pero no excluye que, a través de la acción materna de María, puedan llegar a los fieles aquellas palabras, imágenes y estímulos diversos que les ayuden a seguir adelante en la vida, a disponer el corazón para la gracia que el Señor infunde o a crecer en la vida de la gracia, recibida gratuitamente» (*MPF* [69](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html#_Toc203121427)).
+
+«María desarrolla así una acción singular para ayudarnos a abrir el corazón a Cristo y a su gracia santificante que eleva y sana. Cuando ella se comunica haciendo llegar diversas “mociones”, estas deben entenderse siempre como estímulos para abrir nuestras vidas al Único que obra en lo más íntimo de nuestro ser» (*MPF* [70](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html#_Toc203121427)).
+
+Por esto la vemos firme en Pentecostés, acompañando la oración de los apóstoles para que se abrieran a la llegada del Espíritu Santo (cf. *Hch* 1,14). Lo mismo hace ahora, no solamente a través de su ejemplo y su intercesión sino también a través de “palabras, imágenes y estímulos” que ella **como Madre sabe cómo hacernos llegar**. Lo hemos visto a lo largo de toda la historia de la evangelización.
+
+**La Madre encarnada en nuestras vidas**
+
+Además María es evangelizadora por otra razón. Porque los débiles, sufrientes, pobres y heridos, reconocen en María a una de ellos, y por eso no le tienen miedo, confían en ella dócilmente, se dejan evangelizar por ella. Recordemos que los Obispos latinoamericanos decían en Aparecida que los pobres «encuentran la ternura y el amor de Dios en el rostro de María».[^8] Veamos como lo explica *[Mater populi fidelis](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html)*:
+
+«El Pueblo simple y pobre no separa a la Madre gloriosa de la María de Nazaret, que encontramos en los Evangelios. Al contrario, reconoce **la sencillez detrás de la gloria**, y sabe que María no ha dejado de ser **una de ellos**. Es la que, como cualquier madre, llevó en el vientre a su hijo, le dio de mamar, lo crio con cariño con la ayuda de san José, y no le faltaron los sobresaltos y las dudas de la maternidad (cf. *Lc* 2,48-50). Es la que canta al Dios que «a los hambrientos los colma de bienes y a los ricos los despide vacíos» (*Lc *1,53), que sufre con los novios que se quedan sin vino para su fiesta (cf. *Jn* 2,3), que sabe correr para dar una mano a su prima que la necesita (cf. *Lc* 1,39-40 ), que se deja lastimar, como atravesada por una espada, a causa de la historia de su pueblo, donde su hijo es «signo de contradicción» (*Lc* 2,34), que comprende lo que es ser migrante o exiliado (cf. *Mt* 2,13-15), que en su pobreza sólo puede ofrecer dos pichones de paloma (cf. *Lc* 2,24) y que sabe lo que es ser despreciada por ser de la familia del pobre carpintero (cf. *Mc* 6,3-4). Los pueblos sufrientes reconocen a María caminando codo a codo con ellos y por eso buscan a su Madre para implorar su ayuda» (*MPF* [78](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html#_Toc203121431)).
+
+Ella no solo intercede por nosotros, para que podamos abrir el corazón a Cristo, sino que es un signo potente y bello de la cercanía de Dios que realmente es Dios con nosotros. Ella permite que dejemos de sentir a Dios como alguien lejano, incapaz de comprender y de compartir nuestras vidas, y de ese modo ablanda nuestros corazones para que el Señor pueda hacer su obra en nosotros.
+
+**Primera y máxima colaboradora de la obra de la Redención**
+
+Por todas estas razones, María evangeliza, aunque no redime. La Biblia dice con extrema claridad: «no hay salvación en ningún otro, pues bajo el cielo no se ha dado a los hombres otro nombre por el que debamos salvarnos» (*Hch* 4, 12). El único Redentor es Cristo y usar esa palabra para referirse a María puede complicar demasiado las cosas. Si hablamos de palabras, títulos o expresiones que usa el Pueblo de Dios, es importante distinguir bien a qué llamamos «piedad popular»: algunos grupos desarrollan toda una argumentación para defender algunas expresiones, y estan en su derecho, pero eso **no es la piedad popular**, no se trata de expresiones que use la gran mayoría del Pueblo de Dios. Los fieles sencillos no utilizan un tenguaje técnico de titulos y dogmas, sino que manifiestan su aprecio a María de otro modo, como cuando en la peregrinación del Rocío en Andalucía dicen: «¡qué bella eres!», o especialmente cuando en América Latina le dicen: «Mamita», o «Mamacita». No tenemos una palabra mas bella para María: Madre de Dios, Madre de la Iglesia, Madre de la gracia, Madre de la evangelización: **Madre...**
+
+Sin embargo, recordamos lo que afirma el documento *[Mater populi fidelis](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html)* cuando sostiene que si para cualquier creyente, su «cooperación con Cristo se vuelve cada vez más fecunda cuanto más se deja transformar por la gracia, con mayor razón debe afirmarse de María, **de un modo único y supremo** \[…\]. Ella es la Madre que dio al mundo al Autor de la Redención y de la gracia, que se mantuvo firme junto a la cruz (cf. *Jn* 19,25), sufriendo junto al Hijo, **ofreciendo el dolor de su corazón materno** atravesado por la espada (cf. *Lc *2,35). Ella estuvo unida a Cristo desde la Encarnación hasta la cruz y la Resurrección **de un modo exclusivo y superior** a cuánto podría ocurrir con cualquier creyente» (*MPF* [32](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html#_Toc203121417)).
+
+De ahí que ese mismo documento sostiene textualmente que María es la «**primera y** **máxima** colaboradora de la obra de la Redención y de la gracia» (*MPF* [22](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html#_Toc203121414)) y que «existe una colaboración **única** de María en la obra salvífica que Cristo realiza en su Iglesia» (*MPF* [42](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html#_Toc203121420)). Por eso decimos que es Madre de la evangelización.
+
+**Evangelización integral**
+
+Pero si hablamos de María y la evangelización, no podemos olvidar que la Iglesia propone una evangelización integral, que **no separa la fe de la vida concreta y de la dignidad de las personas**. En María lo vemos cuando, aunque había recibido el tremendo anuncio del ángel, sin embargo, corrió sin demora para ayudar a su prima Isabel (cf. *Lc* 1,39-40). Ese es su corazón evangelizador, que no se conforma con darnos lo máximo, que es Jesucristo. Como verdadera Madre llena de amor le preocupa toda nuestra vida, en el cuerpo y en el alma, y no separa la fe de la promoción de las personas.
+
+Así lo vemos también en la actitud de servicio y compasión que mostraba en las bodas de Caná (cf. *Jn* 2,1-11) y hoy sigue dirigiéndose a Jesús para decirle: «No tienen vino» (*Jn* 2,3). Este texto nos muestra a María como intercesora, pero no solo por nuestras necesidades espirituales, sino también frente a las más variadas necesidades de nuestras familias.
+
+Ella, solidaria con los sufrimientos de los pobres, alaba a Dios porque «enaltece a los humildes, a los hambrientos los colma de bienes» (*Lc* 1,52-53).
+
+**Algunas perlas de Francisco**
+
+En esta última parte vamos a rescatar brevemente algunos párrafos marianos de tres documentos del Papa Francisco.
+
+En *[Christus vivit](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20190325_christus-vivit.html)* hace una descripción de la María del Evangelio, como Madre preocupada por la evangelización. Dice así:
+
+«María era la chica de alma grande que se estremecía de alegría (cf. *Lc* 1,47), era la jovencita con los ojos iluminados por el Espíritu Santo que contemplaba la vida con fe y guardaba todo en su corazón de muchacha (cf. *Lc* 2, 19.51). Ella era la inquieta, la que se pone continuamente en camino \[...\]. Con su presencia, nació una Iglesia joven, con sus Apóstoles en salida para hacer nacer un mundo nuevo (cf. *Hch* 2, 4-11)» (*ChV* [46-47](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20190325_christus-vivit.html#46)).
+
+En *[Evangelii gaudium](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* el Papa Francisco da vueltas la expresión “María nos lleva a Cristo” y dice algo llamativo: «Al pie de la cruz, en la hora suprema de la nueva creación, *Cristo nos lleva a María*. Él **nos lleva a ella**, porque no quiere que caminemos sin una madre» (*EG* [285](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#El_regalo_de_Jesús_a_su_pueblo)).
+
+Es decir, Cristo quiso que toda su obra salvadora tuviera una Madre, una presencia y un rostro materno, y por eso Cristo nos lleva a ella que «camina con nosotros, lucha con nosotros, y derrama incesantemente la cercanía del amor de Dios» (*EG* [286](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#El_regalo_de_Jesús_a_su_pueblo)).
+
+Finalmente, en *[Gaudete et exsultate](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html)* nos invita a acercarnos a ella sin temor para volver a empezar siempre: «ella no acepta que nos quedemos caídos y a veces **nos lleva en sus brazos sin juzgarnos**» (*GE* [176](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html#176)).  
+
+Por eso, continua, «la Madre no necesita de muchas palabras, no le hace falta que nos esforcemos demasiado para explicarle lo que nos pasa» (*[ibid](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html#176)*).  Basta repetir una y otra vez **aquellas palabras que aprendimos desde niños**. Digámoslas ahora juntos: “Dios te salve María…”.
+
+*Victor Manuel Card. Fernandez*
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+[^1]: J.L. Guerrero Rosado, *Nican Mopohua: Aquí se cuenta… el gran acontecimiento*, Cuautitlán 2003, nn. 23, 119.
+
+[^2]: Francisco, Exhort. ap. *[Evangelii gaudium](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24 noviembre 2013), n. [285](https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#El_regalo_de_Jesús_a_su_pueblo): *AAS* 105 (2013), 1135.
+
+[^3]: Consejo Episcopal Latinoamericano, *V Conferencia General del Episcopado Latinoamericano y del Caribe* (Aparecida, 13-31 de mayo de 2007), n. 259.
+
+[^4]: Sto. Tomás de Aquino,* Summa Theologiae*, I-II, q. 114, a. 6, co.
+
+[^5]: Cf. Pío IX, Const. ap. *Ineffabilis Deus *(8 diciembre 1854):* Pontificis Maximi Acta. Pars prima*, Roma 1854, 616: (DH 2803): «la beatísima Virgen María fue preservada inmune de toda la mancha de culpa original en el primer instante de su concepción por singular gracia y privilegio de Dios omnipotente, en atención a los méritos de Jesucristo Salvador del género humano»; Conc. Ecum. Vat. II, Const. dogm. [*Lumen gentium*](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html), n. 53:* AAS *57 (1965), 58: «Redimida de la manera más sublime en atención a los méritos de su Hijo».
+
+[^6]: Por ejemplo Sto. Tomás de Aquino,* Summa Theologiae*, I-II, q. 114   a. 6, ad 3.
+
+[^7]: S. Juan Pablo II,* *Carta enc. *[Redemptoris Mater](https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html)* (25 marzo 1987), n. 38:* AAS *79 (1987), 411-412; cf. Conc. Ecum. Vat. II, Const. dogm. [*Lumen gentium*](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html), n. 62:* AAS *57 (1965), 63.
+
+[^8]: Consejo Episcopal Latinoamericano, *V Conferencia General del Episcopado Latinoamericano y delCaribe* (Aparecida, 13-31 de mayo de 2007), n. 265.

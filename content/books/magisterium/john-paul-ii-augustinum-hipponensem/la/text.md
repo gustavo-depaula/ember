@@ -206,5 +206,3 @@ Variis quidem coeptis ac sollemnibus hanc ob causam passim institutis animo grat
 *Datum Romae, apud Sanctum Petrum, die XXVIII mensis Augusti, in memoria Sancti Augustini, episcopi et Ecclesiae doctoris, anno MCMLXXXVI, Pontificatus Nostri octavo.*  
 
 IOANNES PAULUS PP. II
-
-© Copyright 1986 - Libreria Editrice Vaticana

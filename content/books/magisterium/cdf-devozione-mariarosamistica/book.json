@@ -1,0 +1,88 @@
+{
+  "id": "cdf-devozione-mariarosamistica",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Bishop of Brescia Regarding Devotion to \"Maria Rosa Mistica\" (Montichiari, Italy)",
+    "pt-BR": "Carta ao Bispo de Brescia sobre a devoção a Nossa Senhora Rosa Mística (Montichiari)",
+    "de": "Schreiben an den Bischof von Brescia über die Verehrung von Maria Rosa Mistica (Montichiari)",
+    "es": "Carta al Obispo de Brescia sobre la devoción a María Rosa Mística (Montichiari)",
+    "fr": "Lettre à l’Évêque de Brescia sur la dévotion à Marie Rose Mystique (Montichiari)",
+    "it": "Lettera al Vescovo di Brescia sulla devozione a Maria Rosa Mistica (Montichiari)",
+    "pl": "List do biskupa Brescii na temat nabożeństwa do Maryi Róży Mistycznej (Montichiari)"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-07-05",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-07-05"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-devozione-mariarosamistica_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Bishop of Brescia Regarding Devotion to \"Maria Rosa Mistica\" (Montichiari, Italy)",
+        "pt-BR": "Carta ao Bispo de Brescia sobre a devoção a Nossa Senhora Rosa Mística (Montichiari)",
+        "de": "Schreiben an den Bischof von Brescia über die Verehrung von Maria Rosa Mistica (Montichiari)",
+        "es": "Carta al Obispo de Brescia sobre la devoción a María Rosa Mística (Montichiari)",
+        "fr": "Lettre à l’Évêque de Brescia sur la dévotion à Marie Rose Mystique (Montichiari)",
+        "it": "Lettera al Vescovo di Brescia sulla devozione a Maria Rosa Mistica (Montichiari)",
+        "pl": "List do biskupa Brescii na temat nabożeństwa do Maryi Róży Mistycznej (Montichiari)"
+      }
+    }
+  ]
+}

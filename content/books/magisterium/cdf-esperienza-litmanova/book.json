@@ -1,0 +1,80 @@
+{
+  "id": "cdf-esperienza-litmanova",
+  "cover": "quarter",
+  "name": {
+    "en-US": "“Let Jesus set you free.” Letter to the Archbishop of Prešov about the Spiritual Experience on Mount Zvir (Litmanová, Slovakia)",
+    "es": "\"Deja que Jesús te haga libre\". Carta al Arzobispo de Prešov sobre la experiencia espiritual en el monte Zvir (Litmanová, Eslovaquia)",
+    "fr": "« Laisse Jésus te libérer ». Lettre à l'Archevêque de Prešov sur l'expérience spirituelle sur le mont Zvir (Litmanová, Slovaquie)",
+    "it": "“Lascia che Gesù ti renda libero”. Lettera all'Arcieparca di Prešov circa l’esperienza spirituale sul monte Zvir (Litmanová, Slovacchia)",
+    "pl": "Refleksje o duchowym doświadczeniu na górze Zvir (Litmanová) “Pozwól, by Jezus cię wyzwolił”",
+    "sk": "Pripomienky ohľadom duchovnej skúsenosti na hore Zvir (Litmanová) „Nechaj sa oslobodiť Ježišom“"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2025-07-04",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2025-07-04"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "sk"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sk",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250704_lettera-esperienza-litmanova_sk.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "“Let Jesus set you free.” Letter to the Archbishop of Prešov about the Spiritual Experience on Mount Zvir (Litmanová, Slovakia)",
+        "es": "\"Deja que Jesús te haga libre\". Carta al Arzobispo de Prešov sobre la experiencia espiritual en el monte Zvir (Litmanová, Eslovaquia)",
+        "fr": "« Laisse Jésus te libérer ». Lettre à l'Archevêque de Prešov sur l'expérience spirituelle sur le mont Zvir (Litmanová, Slovaquie)",
+        "it": "“Lascia che Gesù ti renda libero”. Lettera all'Arcieparca di Prešov circa l’esperienza spirituale sul monte Zvir (Litmanová, Slovacchia)",
+        "pl": "Refleksje o duchowym doświadczeniu na górze Zvir (Litmanová) “Pozwól, by Jezus cię wyzwolił”",
+        "sk": "Pripomienky ohľadom duchovnej skúsenosti na hore Zvir (Litmanová) „Nechaj sa oslobodiť Ježišom“"
+      }
+    }
+  ]
+}

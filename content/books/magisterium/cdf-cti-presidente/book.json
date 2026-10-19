@@ -1,0 +1,40 @@
+{
+  "id": "cdf-cti-presidente",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera di saluto del Cardinale Presidente della Commissione Teologica Internazionale"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2023-10-02",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2023-10-02"
+  },
+  "composed": "2023",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20231002_lettera-presidente_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera di saluto del Cardinale Presidente della Commissione Teologica Internazionale"
+      }
+    }
+  ]
+}

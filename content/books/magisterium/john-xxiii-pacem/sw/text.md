@@ -512,8 +512,6 @@ Ndugu (Maaskofu) Waheshimiwa, nina furaha ya kuwapa ninyi na Mapadre wa Majimbo 
 
 **Tanbihi**
 
-© Copyright 1963 - Libreria Editrice Vaticana
-
 [^1]: \[\] LATIN TEXT: *Acta Apostolicae Sedis*, 55 (1963), 257-304.  
 ENGLISH TRANSLATION: *The Pope Speaks*, 9 (1963), 13-48.  
 ITALIAN TRANSLATION: L’Osservatore romano, 11 aprile 1963; La Civiltà cattolica, 114(1963), II, 105ss.

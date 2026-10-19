@@ -1,0 +1,19 @@
+# Brief an die Familien
+
+***BRIEF VON PAPST FRANZISKUS AN DIE FAMILIEN***
+
+*** ***
+
+*Liebe Familien,*
+
+ich komme an eure Haustür, um über ein Ereignis mit euch zu sprechen, das bekanntlich im kommenden Oktober im Vatikan stattfinden wird. Es geht um die außerordentliche Vollversammlung der Bischofssynode, die einberufen wurde, um über das Thema „Die pastoralen Herausforderungen der Familie im Kontext der Evangelisierung“ zu diskutieren. Heute ist die Kirche nämlich aufgerufen, sich bei der Verkündigung des Evangeliums auch den neuen pastoralen Dringlichkeiten zu stellen, die die Familie betreffen.
+
+Diese wichtige Begegnung bezieht das gesamte Volk Gottes der Teilkirchen aus der ganzen Welt ein – Bischöfe, Priester, Personen gottgeweihten Lebens und gläubige Laien –, die sich aktiv an ihrer Vorbereitung beteiligen mit konkreten Vorschlägen und mit dem unverzichtbaren Beitrag des Gebetes. Die Unterstützung des Gebets ist äußerst notwendig und bedeutungsvoll, besonders durch euch, liebe Familien. Diese Synodenversammlung ist ja in besonderer Weise euch gewidmet, eurer Berufung und Sendung in der Kirche und in der Gesellschaft, den Fragen der Ehe, des Familienlebens, der Erziehung der Kinder und der Rolle der Familien in der Sendung der Kirche. Daher bitte ich euch, inständig zum Heiligen Geist zu beten, dass er die Synodenväter erleuchte und sie in ihrer wichtigen Aufgabe leite. Wie ihr wisst, wird dieser außerordentlichen Synodenversammlung ein Jahr später die ordentliche Vollversammlung folgen, die dasselbe Thema Familie weiterführen wird. Und in diesem Zusammenhang wird im September 2015 auch das Welttreffen der Familien in Philadelphia stattfinden. Beten wir also alle gemeinsam, dass die Kirche durch diese Ereignisse einen wirklichen Weg der Unterscheidung zurücklege und geeignete pastorale Mittel ergreife, um den Familien zu helfen, die heutigen Herausforderungen mit dem Licht und der Kraft zu bewältigen, die aus dem Evangelium kommen.
+
+Ich schreibe euch diesen Brief an dem Tag, an dem das Fest der Darstellung Jesu im Tempel gefeiert wird. Der Evangelist Lukas erzählt, dass die Muttergottes und der heilige Josef den Knaben gemäß dem Gesetz des Mose zum Tempel brachten, um ihn dem Herrn darzubringen, und dass zwei alte Menschen, Simeon und Hanna, vom Heiligen Geist geführt, ihnen entgegengingen und in Jesus den Messias erkannten (vgl. *Lk* 2,22-38). Simeon nahm ihn in die Arme und dankte Gott, weil er endlich das Heil „geschaut“ hatte; Hanna fand trotz ihres hohen Alters neue Kraft und sprach zu allen über das Kind. Das ist ein schönes Bild: zwei junge Eltern und zwei alte Menschen von Jesus zusammengeführt. Wirklich, Jesus lässt die Generationen einander begegnen und vereint sie! Er ist die unerschöpfliche Quelle jener Liebe, die alle Verschlossenheit, alle Einsamkeit, alle Traurigkeit überwindet. Auf eurem Weg als Familie teilt ihr viele schöne Momente miteinander: die Mahlzeiten, die Ruhe, die Arbeit im Hause, die Vergnügungen, das Gebet, die Reisen und die Wallfahrten, die Taten der Solidarität… Doch wenn die Liebe fehlt, fehlt die Freude, und die echte Liebe wird uns von Jesus geschenkt: Er bietet uns sein Wort an, das unseren Weg erleuchtet; er gibt uns das Brot des Lebens, das die tägliche Mühe unseres Weges unterstützt.
+
+Liebe Familien, euer Gebet für die Bischofssynode wird ein kostbarer Schatz sein, der die Kirche bereichert. Ich danke euch, und ich bitte euch, auch für mich zu beten, dass ich dem Volk Gottes in Wahrheit und in Liebe dienen kann. Der Schutz der seligen Jungfrau Maria und des heiligen Josef begleite stets euch alle und helfe euch, in der Liebe vereint und im gegenseitigen Dienst voranzugehen. Von Herzen rufe ich auf jede Familie den Segen des Herrn herab.
+
+*Aus dem Vatikan, am 2. Februar 2014, dem Fest der Darstellung des Herrn*
+
+**FRANZISKUS**

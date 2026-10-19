@@ -916,6 +916,4 @@ Bologna 1973 671, 680 old.; DS 1573, 1575, 1577.
 [\[204\]](#JB204 "J204") Jézus Szíve litánia; lásd 1Jn 2,2; Ef 2,14; Róm 3,25; 5,11.  
 [\[205\]](#JB205 "J205") II. János Pál 1983. dec. 7-i beszéde az általános kihallgatáson: Insegnamenti, VI. 2 (1983) 1264.  
 [\[206\]](#JB206 "J206") II. János Pál 1984. jan. 4-én tartott általános kihallgatási beszéde: Insegnamenti, VII. 1 (1984) 16-18.  
-[\[207\]](#JB207 "J207") Vö. Róm 1,5; 16,26.  
-
-© Copyright 1984 - Libreria Editrice Vaticana
+[\[207\]](#JB207 "J207") Vö. Róm 1,5; 16,26.

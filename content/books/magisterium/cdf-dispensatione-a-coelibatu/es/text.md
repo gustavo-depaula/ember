@@ -1,3 +1,46 @@
 # Carta a los ordinarios del lugar y superiores generales sobre el procedimiento para el examen y resolución de las peticiones referentes a la dispensa del celibato, 14 octubre 1980
 
-[TABLE]
+[](http://www.vatican.va/index.htm)
+
+[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
+
+[](javascript:history.go(-1))
+
+[](#)
+
+------------------------------------------------------------------------
+
+SAGRADA CONGREGACIÓN PARA LA DOCTRINA DE LA FE
+
+**CARTA A LOS ORDINARIOS DEL LUGAR Y SUPERIORES GENERALES SOBRE EL PROCEDIMIENTO PARA EL EXAMEN Y RESOLUCIÓN DE LAS PETICIONES REFERENTES A LA DISPENSA DEL CELIBATO**
+
+1\. Mediante la *[Carta dirigida a todos los sacerdotes de la Iglesia el día de Jueves Santo de 1979](/holy_father/john_paul_ii/letters/1979/documents/hf_jp-ii_let_19790409_sacerdoti-giovedi-santo_sp.html)*, el Sumo Pontífice Juan Pablo II, remitiéndose —como él mismo manifestaba— a la doctrina propuesta por el Concilio Vaticano II, luego por Pablo VI en su Encíclica *[Sacerdotalis coelibatus](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis_sp.html)* y, posteriormente, por el Sínodo de los Obispos del año 1971, puso una vez más de manifiesto el aprecio en que hay que tener el celibato sacerdotal en la Iglesia latina.
+
+Se trata de un asunto de gran importancia —como lo recuerda el mismo Santo Padre— especialmente vinculado con la enseñanza evangélica. Siguiendo el ejemplo Cristo el Señor y en consonancia con su propia doctrina y tradición apostólicas, la Iglesia latina quiso, y también quiere hoy, que todos los que reciban el sacramento del Orden abracen también esta renuncia no sólo como signo escatológico, sino también como «señal de libertad para la realización del propio ministerio».
+
+En este sentido, enseña el Sumo Pontífice: «El cristiano que ha de recibir el sacramento del Orden se compromete con plena conciencia y libertad a la obligación del celibato tras una preparación de muchos años y después de una reflexión cuidadosa y de haber orado abundantemente. Solamente entonces se decide a vivir en celibato cuando está persuadido de que es Cristo quien le concede semejante "don" para provecho de toda la Iglesia y servicio de los demás... Resulta claro que una tal determinación obliga no tanto en virtud de una ley promulgada por la Iglesia cuanto en razón de la misma conciencia de las obligaciones asumidas por el hombre. Es preciso, pues, que se mantenga la fidelidad a las promesas hechas a Cristo y a la Iglesia». Finalmente, los fieles que se unen en matrimonio esperan con todo derecho — añade Su Santidad — «el buen ejemplo y el testimonio de la fidelidad hasta la muerte a la propia vocación».
+
+2\. Pero las dificultades que, sobre todo en los últimos años, han experimentado los sacerdotes han determinado que un no pequeño número de entre ellos pidiese la dispensa de las obligaciones que dimanan de su ordenación sacerdotal y especialmente la dispensa del celibato. Debido a la amplia difusión de este hecho —que ha ocasionado una grave herida a la Iglesia, afectada así en la fuente de su propia vida, y que aflige por igual a los Pastores y a toda la comunidad cristiana—, el Sumo Pontífice Juan Pablo II, ya desde el principio de su supremo ministerio apostólico, estuvo persuadido de la necesidad de ordenar una investigación sobre la situación de este asunto y de sus causas, así como de arbitrar los remedios oportunos.
+
+3\. Hay que procurar con esmero que una cuestión tan seria como es la dispensa del celibato no se interprete como un derecho que la Iglesia tendría que reconocer indiscriminadamente a todos sus sacerdotes; por el contrario, lo que hay que considerar como un verdadero derecho es la oblación de sí mismo que el sacerdote hace a Cristo y a todo el pueblo de Dios, quienes, por tanto, esperan de él la observancia de la fidelidad prometida aun a pesar de las graves dificultades que pueden surgir en esta vida. Hay que cuidar también que con el paso del tiempo la dispensa del celibato no pueda interpretarse como el resultado casi automático de un proceso administrativo sumario (cf. Juan Pablo II, *[Carta a todos los sacerdotes de la Iglesia con ocasión del Jueves Santo](/holy_father/john_paul_ii/letters/1979/documents/hf_jp-ii_let_19790409_sacerdoti-giovedi-santo_sp.html)*, n. 9). Son bienes muy grandes los que entran aquí en cuestión: el bien, en primer lugar, del sacerdote que hace la petición, estimando que tal es ya la única solución a su problema existencial, cuyo peso cree no poder aguantar más; luego, el bien general de la Iglesia, que no puede asistir impasible a la disolución paulatina del orden sacerdotal, absolutamente necesario para el cumplimiento de su misión; finalmente, el bien particular de las Iglesias locales, es decir, de los Obispos con su presbiterio, que se afanan por mantener, en la medida de lo posible, las fuerzas apostólicas precisas, y del conjunto de los fieles que tienen como un derecho y una necesidad del servicio que presta el sacerdocio ministerial. Hay que considerar, pues, los muy diversos aspectos del asunto, y hay que coordinarlos entre sí, salvando la justicia y la caridad; ninguno de ellos puede ser olvidado ni mucho menos rechazado.
+
+4\. Consciente, pues, de los muchos y complejos aspectos de este asunto, a los que acompañan tristes situaciones personales, y advirtiendo a la vez la necesidad de ponderarlo todo según el espíritu de Cristo, el Santo Padre — al que han informado y aconsejado muchos Obispos — determinó tomarse el tiempo preciso para llegar, con la ayuda de sus colaboradores, a una prudente y bien razonada decisión acerca de la aceptación, examen y resolución de las peticiones de dispensa del celibato. Fruto de tan madura consideración es lo que aquí se expone brevemente. El cuidadoso esmero en ponderar todos los aspectos que concurren en este asunto sugirió e inspiró las normas según las cuales habrá que tramitar desde ahora el examen de las peticiones que han de ser enviadas a la Santa Sede. Es claro que tales normas de ningún modo pueden desligarse del espíritu pastoral en que están inspiradas.
+
+5\. Al examinar las peticiones enviadas a la Santa Sede, además de los casos de los sacerdotes que han abandonado hace tiempo la vida sacerdotal y desean arreglar una situación irreversible, la Sagrada Congregación para la Doctrina de la Fe tomará en consideración los casos de aquellos que no debieron recibir la ordenación sacerdotal, bien porque les faltó la debida libertad o responsabilidad, bien porque los superiores competentes no pudieron juzgar de forma prudente y oportuna sobre la capacidad real del candidato para llevar una vida en celibato perpetuo consagrado a Dios.
+
+Hay que evitar, por otra parte, la más mínima ligereza en este asunto, pues si se minusvalora la significación del sacerdocio, la índole sagrada de la ordenación y la gravedad de las obligaciones antes asumidas, semejante ligereza puede acarrear un grave daño y producir en muchos de los fieles desagradable sorpresa y escándalo. Por tanto, la causa de la dispensa habrá que probarla con argumentos suficientes en número y en solidez. En razón de esta misma ponderación, para que las cosas se lleven con seriedad y quede a salvo el bien de los fieles, no se admitirán las peticiones que no se presenten con la debida humildad de ánimo.
+
+6\. Para cumplir una tarea tan difícil como la que le encomienda el Romano Pontífice, la Sagrada Congregación para la Doctrina de la Fe sabe que puede confiar en la plena y fiel colaboración de todos los Ordinarios interesados. Ella está dispuesta a facilitar todas las ayudas que le soliciten. Asimismo confía en que los Ordinarios cumplirán prudentemente las normas dictadas, ya que le consta de su interés pastoral por crear en este campo las condiciones precisas para servir a la Iglesia y al bien del sacerdocio, así como para mirar por la vida espiritual, tanto de los presbíteros como de las comunidades cristianas. Por último, este Dicasterio sabe que los Ordinarios en modo alguno pueden olvidar los deberes de su paternidad espiritual hacia todos sus sacerdotes, y en especial hacia los que se encuentran en grave crisis, para poder ofrecerles su firme y necesaria ayuda, de modo que con más facilidad y mayor gozo puedan cumplir los compromisos adquiridos el día de la ordenación para con el Señor Jesucristo y su Santa Iglesia, haciendo ante el Señor cuanto puedan por llevar al hermano vacilante a la paz interior, a la confianza, a la penitencia y a la recuperación de la primitiva alegría con la ayuda, según cada caso, de los compañeros, de los amigos, de los familiares, de los médicos y de los psicólogos (cf. Carta Enc. *[Sacerdotalis coelibatus](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis_sp.html)*, n. 87 y 91).
+
+7\. Se adjuntan a esta carta las [normas de procedimiento](rc_con_cfaith_doc_19801014_dispensa-celibato_sp.html) que han de observarse en la tramitación de las peticiones de dispensa del celibato.
+
+Al comunicarles todo esto según nuestro deber, les manifestamos nuestros mejores sentimientos y nos ratificamos afectísimos en el Señor.
+
+*Roma, en la sede de la S. Congregación para la Doctrina de la Fe, 14 de octubre de 1980.*
+
+**FRANJO Card. ŠEPER** *Prefecto*
+
+**JÉRÔME HAMER, O.P.** *Arzobispo titular de Lorium*  
+*Secretario*
+
+------------------------------------------------------------------------

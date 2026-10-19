@@ -25,5 +25,3 @@ Affidando questi miei sentiti desideri alla santissima Vergine della Clemenza, a
 *Dal Vaticano, 25 gennaio 1983.*
 
 IOANNES PAULUS PP. II
-
-© Copyright 1983 - Libreria Editrice Vaticana

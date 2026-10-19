@@ -90,5 +90,3 @@ At the conclusion of this document presenting the *Catechism of the Catholic Chu
 4 Final Report of the Extraordinary Synod, 7 December 1985, II, B, a, n. 4: *Enchiridion Vaticanum,* vol. 9, p. 1758, n. 1797.
 
 5 John Paul II, Address at the closing of the Extraordinary Synod, 7 December 1985, n. 6: *AAS* 78 (1986), p. 435.
-
-© Copyright 1992 - Libreria Editrice Vaticana

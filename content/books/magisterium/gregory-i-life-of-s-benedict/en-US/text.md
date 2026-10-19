@@ -60,8 +60,6 @@ Gregory the Great
 
 POPE LEO XIII. This Edition of the Life and rule of Saint Benedict is respectfully, gratefully and affectionately dedicated by His English Daughters in Rome who owe to His Eminence more graces and blessings than words can convey. The Latin of this edition of the life of St. Benedict by St. Gregory the Great, is from that used by dom. Edmund Martàne, the English is almost exactly that of the quaint translation published in 1638. The test used for the Holy Rule is that of an ancient MS. existing at Monte Cassino, first published in 1659 by Dom, Paul de Ferrariis, a monk of that Abbey. The English is, as far as is consistent with the original, from the time honoured translation of 1638, as edited in 1875 by “one of the Benedictine Fathers of St. Michael’s, neat Hereford.”
 
-2
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -72,15 +70,11 @@ INTRODUCTION. THERE was a man of venerable life, Benedict by name and grace, who
 
 CHAPTER I. BENEDICT having now left the schools resolved to betake himself to the desert, accompanied only by his nurse who most tenderly loved him. Coming therefore to a place called Affile, and remaining for some time in the Church of St. Peter by the charitable Invitement of many virtuous people who lived there for devotion, so it chanced that his nurse borrowed of a neighbour a sieve to cleanse wheat, which being left carelessly upon the table was found broken in two pieces. Therefore on her return finding it broke, she began to weep bitterly because it was only lent her. But the religious and pious boy, Benedict, seeing his nurse lament was moved with compassion, and taking with him the two pieces of the broken sieve, with tears he gave himself to prayer, which no sooner ended, but he found the sieve whole, and found not any sign that it had been broken. Them presently he restored the sieve which had been broken, whole to his nurse, to her exceeding comfort. This matter was divulged unto all that lived thereabout, and so much admired by all, that the inhabitants of that
 
-3
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
 
 place caused the sieve to be hanged up in the Church porch, that not only those present, but all posterity might know with how great gifts of grace Benedict had been endowed from the beginning of his conversion. The sieve remained to be seen for many years after, and hung over the Church door even until the times of the Longobards But Benedict more desirous to suffer afflictions than covetous of praise; and rather willing to undergo labours for the honour of God, than to be extolled with the favours of this world, fled secretly from his nurse to a remote place in the desert called Subiaco, distant about forty miles from Rome, in which a fountain springing with cool and crystal waters, extendeth itself at first into a broad lake, and running farther with increase of waters becometh at the last a river. As he was travelling to this place, a certain monk called Romanus met him and asked whither he was going. Having understood his intention, he both kept it secret and afforded him help, moreover he gave him a religious habit and assisted him in all things. The man of God being come to this place lived for the space of three years in an obscure cave, unknown to any man except Romanus the Monk, who lived not far off in a Monastery governed by Father Deodatus. But he would piously steal forth, and on certain days bring to Benedict a loaf of bread which he had spared from his own allowance. But there being no way to the cave from Romanus his cell by reason of a steep and high rock which hung over it, Romanus used to let down the loaf by a long cord to which also he fastened a little bell, that by the sound of it, the man of God might know when Romanus brought him the bread, and going out may receive it. But the old enemy, envying the charity of the one and the reflection of the other, when on a certain day he beheld the bread let down in this manner, threw a stone and brake the bell. Notwithstanding, Romanus afterwards failed not to assist him in the best manner he was able. Now when it pleased Almighty God that Romanus should rest from his labours, and that the life of Benedict should be manifest to the world for an example to all men, that the candle wet upon a candlestick might shine and give light to the whole Church of God, our Lord vouchsafed to appear to a certain Priest living far off, who had make ready his dinner for Easter Day, saying to him: “Thou hast prepared good cheer for thyself, and My servant in such a place is famished for hunger.” Who presently rose up, and on the solemn day of Easter went towards the place with such meat as he had provided for himself, where seeking the man of God, amongst craggy rocks, winding valleys and hollow pits he found him hid in a cave. Then after prayers, and blessing the Almighty Lord, they sat down, and after some spiritual discourse the Priest said: “Rise, and let us take our reflection, for this is Easter Day.” To whom the man of God answered: “I know it is Easter, because I have found so much favour as to see thee.” (For not having a long time conversed with men, he did not know it was Easter Day.) The good Priest did therefore again affirm it, saying: “Truly this is the day of our Lord’s Resurrection, and therefore it is not fit that you should keep abstinence, and for this cause I am sent that we may eat together that which Almighty God hath bestowed on us.” Whereupon blessing God, they fell to their meat. Their discourse and dinner ended, the Priest returned to his Church. About the same time certain shepherds found him hid in a cave; who, at the first, spying him among the bushes, clothed in the skins of beasts, took him for some wild beast, but afterwards knowing him to be a servant of god, many of them were converted from their savage life to virtue. By this means his name began to be famous in the country, and many did resort unto him, bringing with them necessaries for his body, while they received from his lips the food of life.
-
-4
 
 The Life of Our most Holy Father S. Benedict
 
@@ -89,8 +83,6 @@ Gregory the Great
 CHAPTER II. How he overcame a temptation of the flesh. THE holy man being on a certain day alone, the tempter was at hand; for a little black bird, commonly called an ousel, began to fly about his face, and that so near as the holy man, if he would. might have taken it with his hand; but no sooner had he made the sign of the cross than the bird vanished. When presently so great a carnal temptation assailed him, that before the holy man had never felt the like. for the remembrance of a woman which some time he had seen, was so lively represented to his fancy by the wicked spirit, and so vehemently did her image inflame his breast with lustful desires, that almost overcome by pleasure, he was determining to leave the wilderness. But suddenly assisted with divine grace he came to himself, and, seeing near him a thicket full of nettles and briars, he threw off his garments and cast himself naked into the midst of those sharp thorns and nettles, where he rolled himself so long, that, when he rose up, all his body was pitifully rent; thus by the wounds of his flesh he cured those of his soul, by turning pleasure into pain; and by the vehemence of outward torments he extinguished the unlawful flame which burnt within overcoming sin by changing the fire. After which time, as he himself related to his disciples, he was so free from the like temptation, that he never felt any such motion. Many after this began to forsake the world and to hasten to put themselves under his government. Being now altogether free from vice, he worthily deserved to be made a master of virtue. As it is commanded by Moses that the Levites should serve from five and twenty years and upward, and after fifty years they should be appointed to keep the holy vessels. PETER. I have already understood something of this testimony alleged, yet I pray make it more plain unto me. GREGORY. It is manifest, Peter, that in youth the temptations of the flesh are great, but after fifty natural heat waxeth cold: now the souls of good men are the holy vessels. Therefore while the elect are in temptation, it is necessary that they live under obedience, and be wearied with labours, but when, by reason of their age, the fervour of temptations is assuaged, they are ordained keepers of holy vessels, that is become instructors of souls. PETER. I confess what you say has given me full satisfaction, and therefore this place of Scripture being clearly expounded, I pray you hasten on with the holy man’s life which you have begun.
 
 CHAPTER III.
-
-5
 
 The Life of Our most Holy Father S. Benedict
 
@@ -104,8 +96,6 @@ Gregory the Great
 
 I may well say, therefore, that his holy man lived with himself, because he never turned the eye of his soul from himself, but standing always on his guard with great circumspection, he kept himself continually in the all-seeing eye of his Creator. PETER. How is it then to be understood, which is written of the Apostle Peter, when he was led by the Angel out of the prison? Who returning to himself said: “Now I know assuredly that the Lord hath sent his Angel, and hath delivered me out of the hands of Herod, and from all the expectation of the people of the Jews.” GREGORY. Two ways, Peter, we are carried out of ourselves: for either by sinfulness of thought we fall beneath ourselves, or by the grace of contemplation we are raised above ourselves. He therefore, that kept the hogs, by his inconstancy of mind and uncleanness, fell beneath himself: but he, whom the Angel loosed and ravished into an ecstasy, was indeed out of himself, but yet above himself. But both of them returned to themselves, the one when, reclaiming his lewd life, he was converted at heart, the other when from the height of contemplation, he returned to his natural and ordinary understanding. Thus venerable Benedict in that solitude dwelt with himself, for as much as he kept himself within his thoughts: for as often as by the fervour of contemplation he was elevated, without doubt he left himself as it were beneath himself. PETER. I like well this you say but resolve me, I pray you, should he have left those Monks of whom he had once taken charge? GREGORY. In my opinion, Peter, a bad community may be tolerated where there are found at least some good which may be helped. But where there is no benefit to be expected of any good, labour is many times lost upon the bad. Especially if there be any present occasions wherein we may do God better service. Now whom was there whom the holy man should have stayed to govern, when they had all conspired against him? And many things are considered by the soul of the perfect which ought not to be passed in silence, for they, perceiving their endeavours to be without effect, depart to some other place, there to employ themselves more profitably. Wherefore that famous preacher who desired to be dissolved and to be with Christ, unto whom to live is Christ, and to die is gain, did not only desire himself to suffer, but did also animate others to do the like. He being persecuted at Damascus, caused himself to be let down from the wall by a cord and basket whereby he escaped privately. Shall we say then that Paul feared death which he earnestly desired for the love of Christ, as appeareth by his own testimony? But as he foresaw that his endeavours there would profit little, with much difficulty he reserved himself to labour in another place with better success. For this valiant champion of God would not be confined to so narrow limits, but sought battles in the open field. So you may observe that the venerable Benedict, left not so many incorrigible in that place as he converted to a spiritual life elsewhere.
 
-7
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -113,8 +103,6 @@ Gregory the Great
 PETER. You say true, as both reason and the example alleged prove, but I pray return to prosecute the life of this holy Father. GREGORY. The holy man for many years in that desert increased wonderfully in virtues and miracles, whereby a great number in those parts were gathered together in the service of Almighty God: so that, by the assistance of our Lord Jesus Christ, he built there twelve monasteries, in each of which he put twelve Monks with their superiors, and retained a few with himself whom he thought to instruct further. Now began divers noble and devout personages from Rome to resort to him, and commended their children to be brought up by him in the service of Almighty God. At the same time, Equitius brought unto him Maurus, and Tertullus a Senator his son Placidus, both very hopeful children, of which two, Maurus, although young, yet by reason of his forwardness in the school of virtue, began to assist his master, but Placidus was as yet a child of tender years.
 
 CHAPTER IV. How he reclaimed an indevout Monk. IN one of those Monasteries which he had built thereabout, was a certain Monk that could not stay at his prayers, but, so soon as he saw his brethren kneel and dispose themselves for their mental prayer, he would go out, and there spend his wandering thoughts upon worldly and transitory things. For which, having been often admonished by his Abbot, he was brought before the man of God, who also sharply reprehended him for his folly; but, returning to his Monastery, he scarce remembered two days what the man of God had said to him, for the third day he fell to his old custom, and at the time of prayer went out again: whereof when the servant of God was informed by the Abbot the second time, he said: “I will come myself and reform him.” And when he was come to the same Monastery, and the Brethren after the Psalms ended, at the accustomed time betook themselves to prayer, he perceived a little black boy, who pulled this Monk (who could not remain at his prayers) out by the hem of his garment. This he insinuated secretly to Pompeianus Abbot of the Monastery, and to Maurus: “See you hot there who it is that draweth this Monk out?” Who answered, “No.” “Let us pray”, replied he, “that you may likewise see whom this Monk followeth.” After prayer continued for two days, Maurus the monk saw, but Pompeianus the Abbot of the Monastery could not perceive anything. The next day when the man of God had finished his prayer he went out of the Oratory, and found the Monk standing without, whom he forthwith strake with a wand, and from that time ever after the Monk was free form the wicked suggestion of the black boy, and remained constant at his prayers. For the old enemy, as if himself had been beaten with the whip, dared o more to take command of his thoughts.
-
-8
 
 The Life of Our most Holy Father S. Benedict
 
@@ -125,8 +113,6 @@ CHAPTER V. How by the prayer of the man of God a spring issued from the top of a
 CHAPTER VI. How the iron head of a bill from the bottom of the water returned to the handle again. AT another time, a certain Goth poor of spirit, desirous to lead a religious life, repaired to the man of god, Benedict, who most willingly received him. One day he ordered a bill to be given to him to cut up brambles in a place which he intended for a garden. This place, which the Goth had undertaken to accommodate, was over the lake’s side. While the Goth laboured amain in the cutting up the thick briars, the iron, slipping out of the handle, fell into the lake in a place so deep, that there was no hope to recover it. The Goth, having lost his bill, ran trembling to the Monk Maurus, and told him the mischance, confessing his fault penitently, who presently advertised Benedict the servant of God thereof. Immediately the man of God came himself to the lake, took the haft out of the Goth’s hand, and case it into the lake, when, behold, the iron rose up from the bottom and entered into the haft as before. Which he there rendered to the Goth saying: “Behold! work on and be not discomforted.”
 
 CHAPTER VII. How his disciple Maurus walked on the water.
-
-9
 
 The Life of Our most Holy Father S. Benedict
 
@@ -142,8 +128,6 @@ Gregory the Great
 
 command, but I am not able. The man of God commanded again saying: “Take it up, take it up, and cast it where no man may find it.” So at length the crow took it up in her beak and flew away with it and three hours after returned again to receive from his hand her ordinary allowance. But the venerable Father, seeing the Priest so perversely bent to seek his life, was more sorry for him than grieved for himself. When the aforesaid Florentius saw that he could not kill the body of his master, he attempted what he could against the souls of his disciples, in so much that he sent seven naked girls into the garden of the Cloister where Benedict lived, that so playing for a long time hand in hand, they might entice their souls to naughtiness, which when the holy man espied out of his cell, to prevent the fall of his younger disciples, and considering that all this was done only for the persecuting of himself, he gave place to envy, and after he had disposed of the Oratories and other buildings, leaving in them a competent number of Brethren with Superiors, he took with him a few monks and removed to another place. Thus the man of God with humility avoided his hatred, whom Almighty God struck with a terrible judgment: for when the aforesaid Priest, standing in his summer house, heard to his great joy, that Benedict was gone, the room wherein he was fell down and crushed and killed the enemy of Benedict, al the rest of the house remaining immovable. This Maurus, the disciple of the man of God, thought fit to signify forthwith to the venerable Father Benedict, who was yet scarce gone ten miles saying: “Return for the Priest that did persecute you is slain.” Which the man of God hearing took very heavily, both because his enemy was dead and because his disciple rejoiced thereat. Whereupon he enjoined him a penance for presuming in a joyful manner to bring such news to him. PETER. These are wonderful strange things which thou sayest. For in the drawing water our of a rock methinks I behold in him Moses; in raising the iron from the bottom of the water he representeth Eslieus; in walking on the water Peter; in the obedience of the crow I conceive him another Elias; in bewailing his enemy’s death I see David. In my opinion, this man was filled with the spirit of all the just. GREGORY. The man of God, Benedict, had in him, Peter, the spirit of god alone, which by the grace of free redemption replenished the hearts of all the elect, of which St. John saith: “There was true light which Illuminateth every man that cometh into this world.” Of which again it is written: “Of his plentitude and fulness we have all received.” For the holy ones of God could indeed receive graces from God, but they could not impart them to others. He then gave signs of power to the lowly, who promised that He would shew the miracle of Jonas to His enemies, deigning in their sight to die, and in the sight of the humble to arise. So that the one should have what they would contemn, and the other what reverence and love. By which mystery it came to pass, that while the proud were spectators of His ignominious death, the humble contrariwise, against death, lay hold of the power of His glory. PETER. But declare, I pray, whither the holy man removed or if he wrought miracles in any other place?
 
-11
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -153,8 +137,6 @@ GREGORY. The holy man by removing changed his habitation, but nor his adversary.
 CHAPTER IX. How the man of God by his prayer, removed a huge stone. ONE day, as the brethren were building the cells of the Cloister, there lay a stone in the midst which they determined to lift up and put into the building. When tow or three were not able to move it, they set more to it, but it remained as immoveable as if it had been held by roots to the ground, so that it was easy to conceive that the old enemy sat upon it, since that so many men were not able to lift it. After much labour in vain, they sent to the man of God to help them with his prayers to drive away the enemy, who presently came, and having first prayed, he gave his blessing, when behold the stone was as easily lifted as if it had not weight at all.
 
 CHAPTER X. Of the fantastical fire which burned the kitchen.
-
-12
 
 The Life of Our most Holy Father S. Benedict
 
@@ -176,8 +158,6 @@ CHAPTER XIII. How he reproved the brother of Valentinian the Monk for eating by 
 
 CHAPTER XIV.
 
-14
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -186,8 +166,6 @@ How he discovered the dissimulation of King Totila. GREGORY. YOU must, Peter, fo
 
 CHAPTER XV. How he prophesied to king Totila and to the Bishop of Canosa. THEN Totila came himself to the man of God, whom as soon as he saw sitting afar off, he durst not come nigh, but fell prostrate to the ground. The holy man twice of three bade him rise, but he durst not get up, then Benedict, the servant of Jesus Christ our Lord, deigned himself to come to the prostrate king, whom, raising from the ground, he rebuked for his deeds, and foretold in a few words all that should befall him saying: “Much evil dost thou do, and much wickedness hast thou done, as least now give over thy iniquity. Into Rome shalt thou enter, thou wilt cross over the sea, nine years shalt thou reign, and die the tenth,” At the hearing whereof, the king sore appalled, craved his prayers and departed, but from that time he was less cruel. Not long after he went to Rome, sailed thence to Sicily, and in the tenth year of his reign, by the judgment of Almighty God, lost both crown and life, Moreover, the Bishop of the Church of Canosa used to come to the servant of God, who much loved him for his virtuous life. He, therefore, conferring with him concerning the coming of king Totila and the taking of the City of Tome, said; “The city doubtless will be destroyed by this king, so that it will never more be inhabited.” To whom the man of God replied: “Rome shall never be destroyed by the Pagans, but shall be so shaken by tempests, lightnings and earthquakes that it will decay of itself.” The mysteries of which prophecy we now behold as clear as day, for, in this city, we see the walls ruined, houses overturned, churches destroyed by tempuesuous winds, and building
 
-15
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -195,8 +173,6 @@ Gregory the Great
 rotten with old age decay and falling into ruins, Although Honoratus, his disciple, from whose relation I had it told me he heard it not himself from his own mouth by was told it by the Brethren.
 
 CHAPTER XVI. HOW venerable Benedict dispossessed a certain clerk from the Devil. AT that time one of the clergy of the church of Aquin was molested with an evil spirit, whom the venerable man, Constantius, Bishop of that Diocese, had sent to divers martyrs’ shrines to be cured; but the holy martyrs would not cure him, that the gifts of grace in Benedict might be mad manifest. He was therefore brought to he servant of Almighty God, Benedict, who, by pouring forth prayers to our Lord Jesus Christ, presently drove out the enemy. Having cured him, he commanded him, saying: “Go! And hereafter never eat flesh, and presume not to take Holy Orders, for what time soever you shall presume to take Holy Orders, you shall again become a slave to the devil.” The Clerk therefore went his way healed, and as present punishments make deep impressions, he carefully for a while observed the man of God’s command. But when, after many years, all his seniors were dead and he saw his juniors preferred before him in Holy Orders, he neglected the words of the man of God, as though forgotten through length of time, and took upon him Holy Orders; whereupon, presently, the devil, who before had left him, took power of him, and never ceased to torment him till he severed his soul from his body. PETER. This holy man, I perceive, understood the secret decrees of God, in that he knew this Clerk to be delivered to the power of the devil, lest he should presume to receive Holy Orders. GREGORY. Why should not he know the secret decrees of Divine Providence, who dept the commandments of god, wince it is written that “he who adhereth to God is one spirit with Him.” PETER. If he who adhereth to our Lord become one spirit with Him, how comes the same excellent Preacher to say: “Who hath known the mind of the Lord, or who has been His counsellor?” For it seem altogether unlikely that he, who is made one with another, should not know his mind. GREGORY. Holy men, so far as they are united with God, are not ignorant of His meaning, for the same Apostle saith; “For what man knoweth the tings of a man, but the spirit of a man that is in him? So the things also, that are of God, no man knoweth but the spirit of God.” And to shew that he knew things of God, he addeth; “But we have not received the spirit of this world, but the spirit which is of God.” And again: “That eye hath not seen, nor ear heard, neither hath it ascended into the heart
-
-16
 
 The Life of Our most Holy Father S. Benedict
 
@@ -216,8 +192,6 @@ CHAPTER XVIII. How St. Benedict discovered the hiding of a flagon of wine. OUR m
 
 CHAPTER XIX. How the man of god reproved a Monk for receiving certain napkins. NOT far distant from the monastery was a certain town in which no small number of people, by the exhortations of Benedict, were converted form the worship of idols to the faith of God. In that place were certain religious women, and the servant of God, Benedict, used to send often some of his Brethren thither to instruct and edify their souls. One day, as his custom was, he appointed one to go; but the Monk who was sent, after his exhortation, by the entreaty of the Nuns, took some small napkins and hid them in his bosom, As soon as he came back, the man of God began very sharply to rebuke him, saying; “How hath iniquity entered thy breast?” The Monk was amazed, and because he had forgotten what he had done, he wondered why he was so reprehended. To whom the holy Father said: “What! Was not I present when thou tookest the napkins of the handmaids of God and
 
-18
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -228,8 +202,6 @@ CHAPTER XX. How the man of God understood the proud thought of one of his Monks.
 
 CHAPTER XXI. Of two hundred measured of meal found before the man of God’s cell. AT another time also in the country of Campania began a great famine, and all people suffered from great scarcity of food, so that all the wheat in Benedict his Monastery was spent, and likewise almost all the bread, so that but five loaves remained for the Brethren’s refection. When the venerable Father perceived them sad, he endeavoured by a mild and gentle reproach to reprehend their pusillanimity, and with fair promises to comfort them, saying: "“Why is your soul sad for want of bread? To day you are in want but to-morrow you shall have plenty.” The next day there were found two hundred sacks of meal before the Monastery gates, by whom God Almighty sent it as yet no man knoweth. Which when the Monks beheld, they gave thanks to God, and by this were taught in their greatest want to hope for plenty. PETER. Tell me, I pray you, is it to be thought that this servant of God had continually the spirit of prophecy, when himself pleased, or only at certain times with some discontinuance. GREGORY.
 
-19
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -237,8 +209,6 @@ Gregory the Great
 The spirit of prophecy, Peter, doth not always cast his beams upon the understanding of the Prophets, for as it is written of the Holy Ghost: “He breatheth where He will.” So likewise must we conceive, also, when He pleaseth. And, therefore, Nathan being asked by the king if he might build the Temple, first allowed him to do it, and afterwards forbade him. This was the reason that Eliseus knew not the cause why the woman wept but said to his servant who did oppose her: “Let her alone for her soul is in anguish, and the Lord hath concealed it from me and hath not made it known.” Thus Almighty God of His great mercy so disposeth in His providence, tot he end that by giving the spirit of prophecy sometimes, and at other times withdrawing it, the minds of the Prophets be both humility, for by receiving the spirit they may know they are inspired by God, and again they receive it not, they may consider what they are of themselves. PETER. It standeth with good reason what you have said. But, I beseech you, prosecute what else you remember of the venerable Father Benedict.
 
 CHAPTER XXII. How by a vision, he gave order to construct The Monastery of Terracina. At another time, he was requested by a certain devout man to send some of his disciples to build a Monastery on his estate near the city of Terracina. To which request he consented, and sent some Monks, appointing an Abbot and Prior over them. As they were setting forward, he promised, saying: “Go, and upon such a day I will come and shew you where to build the Oratory, where the Refectory and lodging for the guests, or what else shall be necessary.” So they received his blessing and departed, in hope to see him at the appointed day, for which they prepared all tings they thought fit and necessary for their Gather and his company. The night before the appointed day the man of God appeared in sleep to him whom, he had constituted Abbot and to his Prior, and described to them most exactly how he would have the building ordered. When they awaked, they related to each other what they had seen, yet not altogether relying upon that vision, they expected the man of God according to his promise, but seeing he came not at his appointed time, they returned to him very pensive, saying: “We have expected, Father, your coming, as you promised, but you came not to shew us where and what we should build.” To whom he said: “Why, Brethren, why do you say so? Did not I come according to my promise?” And when they said: “When came you?” he replied: “Did I not appear to each of you in your sleep and describe every place? Go, and according to the direction given you in that vision construct the Monastery.” Hearing this they were much astonished, and so, returning to the manor, they erected the whole building according to the revelation. PETER.
-
-20
 
 The Life of Our most Holy Father S. Benedict
 
@@ -255,8 +225,6 @@ Gregory the Great
 observed, that, when the Deacon cried in that manner, they went out, not able to remain in the Church, and, calling to mind what the man of God had said to them whilst they were living, (for he excluded them from communion unless they amended their language and manners) she, with great sorrow, informed the servant of god what she had seen. He presently with his own hands gave the offering saying: “Go and cause this oblation to be offered to out Lord, and they shall be no longer excommunicated.” When therefore, this offering was made, and the Deacon, according to custom, cried out that such as did not communicate should go out of the Church, they were not seen to go forth any more. Whereby it was apparent that, whereas they went not forth with the excommunicated, they were admitted by out Lord to communion. PETER. It is marvellous strange that this man, although venerable and most holy, as yet living in the mortal body, should be able to release those who were standing at the invisible tribunal. GREGORY. And was not he, Peter, yet in this flesh who heard; “Whatsoever thou shalt bind upon earth shall be bound also in Heave, and whatsoever thou shalt loose on earth shall be loosed also in Heaven.” Whose place and authority in binding and loosing they possess, who, by faith and virtuous life, obtain the dignity of holy government. And that man, and earthly creature, might receive this power, the Creator of Heaven and earth came down from Heaven to earth and that flesh might judge of spiritual things He became man for the redemption of mankind. For god thus condescending beneath Himself raised our weakness above itself. PETER. For the virtue of his miracles your words do yield a very good reason.
 
 CHAPTER XXIV. Of a boy who was cast out of his grave. GREGORY. UPON a certain day, a young Monk of his, who was over-much affected towards his parents, went from the Monastery to their abode without his benediction, and the very same day, as soon a he was come to them he died. The day following his burial they found his body cast up, which they inferred the second time, and the next day after it was found in like manner lying above ground as before. Hereupon they ran straight way and fell at the feet of the most mild Father Benedict imploring his aid, to whom the man of God with his own hand gave the communion of the Lord’s Body saying: “Go, and lay the Body of the Lord upon his breast and so bury him.” This done, the earth dept his body, and never after cast it up. You perceive, Peter, of what merit this man was with our Lord
-
-22
 
 The Life of Our most Holy Father S. Benedict
 
@@ -280,8 +248,6 @@ CHAPTER XXVIII. How a bottle was cast down upon the Stones and not broken. AT su
 
 CHAPTER XXIX. How an empty barrel was filled with oil.
 
-24
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -289,8 +255,6 @@ Gregory the Great
 HAVING ended the Chapter, he and all the Brethren fell to their prayers. In the place where they prayed was an empty oil-barrel close covered. As the holy man continued his prayer, the cover of the said tun began to be heaved up by the oil increasing under it, which ran over the brim of the vessel upon the floor in great abundance. Which so soon as the servant of God, Benedict, beheld, he forthwith ended his prayer, and the oil ceased to run over. Then he admonished the distrustful and disobedient brother to have confidence and learn humility. So the brother thus reprehended was much ashamed, because the venerable Father had by his admonition and by his miracle shewn the power of Almighty God, nor could anyone afterwards doubt of what he promised, since, as it were in a moment, for a glass bottle almost empty, he had restored a tun full of oil.
 
 CHAPTER XXX. How he delivered a Monk from the devil. ONE day as he was going to St. John’s Oratory, which stands upon the very top of the mountain, he met the old enemy upon a mule, in the habit and comportment of a physician, carrying a horn and a mortar; who, being demanded whither he went, answered he was going to the monks to minister a potion. So the venerable Father Benedict went forward to the chapel to pray, and, having finished, returned back in great haste, for the wicked spirit found one of the ancient Monks drawing water, and presently he entered into him, threw him on to the ground and tortured him pitifully. As soon as the man of god, returning from prayer, found him thus cruelly tormented, he only gave him a blow on the cheek with his hand, and immediately drave the wicked spirit out of him, so that he durst never after return. PETER. I would know whether he obtained these great miracles always by prayer, or did them some times only by the intimation of his will? GREGORY. They who are perfectly united with God, when necessity requireth, work miracles both ways, sometimes they do wonders by prayer, sometimes by power. For since St. John saith: “As many as received Him, to them He gave power to become sons of God.” What wonder is it if they have the privilege and power to work miracles who are exalted to the dignity of children of God. And that they work miracles in both ways is manifest in St. Peter, who by prayer, raised Tabitha from death, and punished with death Ananias and Sapphira for their falsehood. For we do not read that he prayed when they fell down dead, but only that he rebuked them for their fault committed. It is evident therefore that these things are done sometimes by power, sometimes by petition; since that by reproof he deprived these of their life, and by prayer revived the other. But now I will produce two other acts of the faithful servant of God, Benedict, in which it shall clearly appear that some things he could do by power received from Heaven, and others by prayer.
-
-25
 
 The Life of Our most Holy Father S. Benedict
 
@@ -300,8 +264,6 @@ CHAPTER XXXI. How a country man was loosed by only the sight of the man of God. 
 
 CHAPTER XXXII. How he raised a child from the dead. AS he was one day in the field labouring with his Brethren, a certain peasant came to the Monastery, carrying in his arms the dead body of his son, and pitifully lamenting his loss, asked for the holy Father Benedict. When they said that he was in the field, he presently laid down the dead body of
 
-26
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -309,8 +271,6 @@ Gregory the Great
 his son at the Monastery gate, and, as one distracted with grief, began running to find out the venerable father. At the same time the man of God was coming home with his Brethren from labouring in the field, whom, when the distressed countryman espied, he began to cry out: Restore me my son, restore me my son.” But the man of God amazed at this voice said: “What! have I taken you son from you?” To whom the man replied: “He is dead, come and raise him.” When the servant of God heard this he was much grieved, and said: “Go, Brethren, go! This is not a work for us, but such as were the holy Apostles. Why will you impose burdens upon us which we cannot bear?” Notwithstanding, the man enforced with excessive grief, persisted in his petition, swearing that he would not depart unless he raised his son to life. Then the servant of God enquired, saying: “Where is he?” He answered: “Lo! his body lieth at the Monastery Gate.” Whither, when the man of God with his Brethren was come, he knelt down and laid himself on the body of the child; then, raising himself and with his hands held up towards Heaven, he prayed: “O Lord, regard not my sins, but the faith of this man who craveth to have his son restored to life, and restore again to this body the soul which thou hast taken from it.” Scarce had he finished these words, but all the body of the boy began to tremble at the re-entry of the soul, so that in the sight of all who were present he was seen with wonderful quaking to pant and breathe. Whom he presently took by the hand and delivered alive and sound to his father. It seemth to me, Peter, he had not this miracle actually in his power, which he prostrated himself to obtain by prayer. PETER. What you have said is undoubtedly true, because you prove by deeds what was said in words. But I pray, certify me, whether holy men can effect and obtain whatsoever they will or desire?
 
 CHAPTER XXXIII. Of the miracle wrought by his sister Scholastica. GREGORY. WHO was ever, Peter, in this life more sublime than St. Paul, who, notwithstanding, three times craved of our Lord to be free from the pricks of the flesh, yet could not obtain it? To this purpose, I must tell you a passage concerning the venerable Father Benedict, that there was something he desired and was not able to accomplish. His sister Scholastica, who was consecrated to God from her very childhood, used to come once a year to see him; unto whom the man of god was wont to go to a house not far from the gate, within the possession of the Monastery. Thither she came one day according to her custom, and her venerable brother likewise with his disciples: where, after they had spent the whole day in the praise of God and pious discourses, the night drawing on, they took their reflection together. As they were yet sitting at table, and protracting the time with holy conference, the religious woman, his sister, entreated him saying: “I beseech you, leave me not this night, that we may talk until
-
-27
 
 The Life of Our most Holy Father S. Benedict
 
@@ -320,8 +280,6 @@ morning of the joys of the heavenly life.” To whom he answered: “What is thi
 
 CHAPTER XXXIV. In what manner St. Benedict saw the soul Of his sister go forth from her body. GREGORY. THE next day, the venerable woman returned to her Cloister and the man of God to his Monastery. When, behold, three days after, while standing in his cell, he saw the soul of his sister depart out of her body, and, in the form of a dove, ascend and enter into the celestial mansions. Who rejoicing much to see her great glory, gave thanks to God Almighty in hymns and praises, and announced her death to the Brethren. Whom he forthwith sent to bring her body to the Monastery, and caused
 
-28
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -329,8 +287,6 @@ Gregory the Great
 it to be buried in the same tomb that he had prepared for himself. By means of which it fell out, that as their minds were always one in God, so also their bodies were not separated in their burial.
 
 CHAPTER XXXV. How the whole world was repesented before his Eyes: and the soul of Germanus, Bishop of Capua. ANOTHER time, Servandus, Deacon and Abbot of that Monastery which was built by Liberius, sometime a senator, in the Campania, used often to visit him, for being also illuminated with grace and heavenly doctrine, he repaired divers times to the Monastery that they might mutually communicate one to another, and, at least with sighs and longing desires, taste of that sweet food of the celestial country whose perfect fruition they were not as yet permitted to enjoy. When it was time to go to rest, venerable Benedict went up to the top of the tower in the lower part of which servandus the Deacon had his lodging, and from which there was an open passage to ascend to the higher. Over against the said tower was a large building in which the disciples of both reposed. While as yet the Monks were at rest, the man of God, Benedict, being diligent in watching, rose up before the night office and stood at the window making his prayer to Almighty God about midnight, when suddenly, looking forth, he was a light glancing from above, so bright and resplendent that it not only dispersed the darkness of the night, but shined more clear than the day itself. Upon this sight a marvellous strange thing followed, for, as he afterwards related, the whole world, compacted as it were together, was represented to his eyes in one ray of light. As the venerable Father had his eyes fixed upon this glorious lustre, he beheld the soul of Germanus, Bishop of Capua, carried by angels to Heaven in a fiery globe. Then, for the testimony of so great a miracle, with a loud voice he called upon Servandus the Deacon, twice or thrice by his name, who, troubled at such an unusual crying out of the man of God, came up, looked forth, and saw a little stream of light then disappearing, and wondered greatly at this miracle. Whereupon the man of God told him in order all that he had seen, and sent presently to Theoprobus, a Religious man in the town of Casino, ordering him to go the same night to Capua, and learn what had happened to Germanus the Bishop. It fell out so, that he who was sent found the most reverend Bishop Germanus dead, and on enquiring more exactly, he learned that his departure was the very same moment in which the ma of God has seen him ascend. PETER. A wonderful thing and much to be admired, but, whereas you said that the whole world, as it were, under one sunbeam, was represented to his sight, as I never experienced the like, so I cannot imagine how or in what manner this was possible that the whole world should be seen of any one man. GREGORY.
-
-29
 
 The Life of Our most Holy Father S. Benedict
 
@@ -350,15 +306,11 @@ what sign they should know when his soul departed out of his body. Six days befo
 
 CHAPTER XXXVIII. How a mad woman was cured in his cave. IN the cave in which he formerly lived in Subiaco, even to this day, miracles are wrought upon such as repair thither with true faith. For very lately happened that which I now relate. A certain woman bereft of reason, and altogether distracted in her senses, roamed over mountains and valleys, through woods and fields by day and night, never resting, except when forced from weariness to lie down. One day, as she raged thus madly up and down, she lighted upon the cave of blessed Benedict, and by chance entered and remained there. The next morning she came out as sound and perfect in her senses as if she had never been out of them, and from that time remained all her life in the health which she had there recovered. PETER. What should be the reason that we experience, even in the patronage of martyrs, that they do not bestow so great favours by their bodies as by their relics: yea, and do greater miracles where themselves be not? GREGORY. Where the bodies of holy martyrs lie, no doubt, Peter, but there they are able to shew many miracles, as they do; for to such as have recourse unto them, with pure mind, they shew many marvellous favours. But forasmuch as weak souls might doubt whether they be present to hear them or no in those places where their bodies be not, it is necessary to shew more miracles where weak souls may doubt of their presence. For they whose minds are fixed in God have so much the greater merit of faith, that though their bodies lie not there, yet they be there present to hear our prayers. Wherefore Truth Itself to increase the faith of His disciples said: “If I go not away the Paraclete
 
-31
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
 
 will not come unto you.” For whereas it is certain, that the Holy Ghost, the Comforter, always proceedeth from the Father and the Son; why doth the Son say that He will go from them that the Paraclete may come, who never departeth from the Son? But because the Disciples beholding our Lord in the flesh, did desire always to behold Him with their corporeal eyes, it was rightly said unto them: “Unless I go away the Paraclete will not come.” As if He had said plainly: If I withdraw not My bodily presence, I do not shew you the love of the Spirit; and, unless you cease to see Me carnally, you will never learn to love spiritually. PETER. What you say pleaseth me. GREGORY. Let us now for a while cease our discourse, that by silence we may be the better enabled to prosecute the miracles of other saints. THE END.
-
-32
 
 The Life of Our most Holy Father S. Benedict
 
@@ -370,15 +322,11 @@ LIFE OF THE MOST HOLY PATRIARCH SAINT BENEDICT (from Haften’s Disgnis. Monast.
 
 “His memory shall not depart away; and his Name shall be in request from generation to generation.” (Ecclus. 39) (The figures in parenthesis denote the age of St. Benedict.) YEAR. 480. (—) St. Benedict and his twin-sister St. Scholastica are born in Nursia, a town in the south of Italy: their Father, Anicius Eupropius: their Mother, Abundantia. 487. (7.) St; Benedict is sent to tome to study, his nurse Cyrilla accompanies him. 493. (13.) God, calling him to higher things, and the dangers of the world prompting him to leave it, he quits Rome to seek salvation and perfection in solitude. On their way in a little village, 30 miles from Rome, he works a miracle to console Cyrilla. 494. (14.) He leaves Cyrilla and goes alone to Subiaco, a mountainous district, 40 miles distant from Rome: meets a holy Hermit named Romanus, from whom he asks and receives the Religious Habit: then going into a little Cave amidst the rocks, dwells there in union with his God in prayer, unknown to all, excepting St. Romanus who brought him food. 497. (17.) On the Easter Sunday of this year, a Priest receives a command from God to visit this Cave, and honour the youthful hermit. Some neighbouring Shepherds discover the Saint. He gains the noble victory over the spirit of impurity and placing the lily of his Chastity amidst thorns and nettles, he secures it against every temptation for the remainder of his life. 509. (29.) His sanctity becoming noised abroad many men leave the world, and put themselves under his spiritual guidance.
 
-33
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
 
 510\. (30.) After frequent refusals he, at last, yields to the request of the Monks of Vico-Varro, who besought him to become their Abbot. As he had foretold them they grew angry at his corrections; they seek to poison him: he returns to his dear solitude of Subiaco. St. Maurus is born. 511. (31.) During the next 19 years St. Benedict builds 12 monasteries on the Subiaco mountains. 515. (35.) St Placid is born. 522. (42.) Sts. Maurus and Placid are brought to Subiaco by their Parents, and receive from St. Benedict the Monastic Habit. 523. (43.) St. Maurus in obedience to St. Benedict walks on the waters of the lake, into which St. Placid had fallen, and saves him from being drowned. 529. (49.) St. Benedict leaves Subiaco, and goes to Mount Cassino (about 50 miles south of Subiaco). 530. (50.) He begins to build the Monastery of Mount Cassino. 536. (56.) He sends St. Placid into Sicily. St. Benedict has the mysterious vision, in which God grants him the sight of the whole world, brought together in one ray of the sun. 537. (57.) St. Placid begins the Monastery at Messina in Sicily: he finishes it in 4 years. 539. (59.) During a famine St. Benedict distributes to the poor all the corn of the Monastery: on the following day he receives from Heaven, in return, 200 bushels of flour. In hatred of Disobedience and out of love for Charity he works the miracle of the glass oil-jar. Whilst he is at prayer with some of his Brethren, an empty vessel which was in the room is miraculously filled with oil, even to over-flowing. 541. (61.) St. Placid is martyred (probably in this year). 543. (63.) King Totila the Barbarian visits St. Benedict: receives his paternal reproach and prophecy. th On the 10 of January, St. Benedict sends St. Maurus into France. th On the 6 of February, he sees the soul of his Sister, St. Scholastica, ascending to heaven under the form of a Dove. th On the 16 of March, knowing that the hour of his Death is near he orders his grave to be opened. st On the 21 of March at 3 o’clock in the morning, standing in the chapel of his Monastery of rd Mount Cassino, supported by his Religious, he dies, in the 63 year of his age.
-
-34
 
 The Life of Our most Holy Father S. Benedict
 
@@ -402,8 +350,6 @@ While the bless’d crowd sing angel strains to angel voices given. From here, O
 
 THE PROLOGUE
 
-36
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -416,19 +362,13 @@ MOST HOLY FATHER SAINT BENEDICT TO HIS RULE HEARKEN, my son, to the precepts of 
 
 Rom. xiii. 1 Ps. xciv. 8. Apoc. ii. 7. Ps. xxxiii. 12. Joan. xii. 35. Ps. xxxiii. 13 Ibid. 14, 15. Isai. lxv. 24. Ephes. vi. 14, 15.
 
-37
-
 The Life of Our most Holy Father S. Benedict
-
-1
 
 Gregory the Great
 
 If we desire to dwell in the tabernacle of this kingdom, it can only be by running the way of good works, whereby alone it can be reached. But let us ask our Lord with the Prophet saying to Him: “Lord, who shall dwell in Thy tabernacle, or who shall rest on Thy holy hill?”10 After this question, Brethren, let us hear out Lord answering and showing us the way to His tabernacle, saying: “He that walketh without spot and worketh justice. He that speaketh truth in his heart, that hath not forged guile with his tongue. He that hath not forged guile with his tongue. He that hath not done evil to his neighbour and hath not received reproach against him.”11 He that rejecting out of his mind the malignant devil with his suggestions, hath brought them all to nought, and taking his thoughts while they are still young, hath dashed them against the rock of Christ.12 All they who fearing the Lord, take not pride in their good observance, but knowing that all the goods they have, or can do, proceedeth not from themselves, but from the Lord, magnify Him, thus working in them, and say with the Prophet: “Not to us O Lord, not to us, but to Thy Name give glory.”13 Thus the Apostle Paul imputed not anything of his preaching to himself, saying: “By the grace of God I am what I am.”14 And again he saith: “He that glorieth, let him glory in the Lord.”15 Hence also our Lord saith in the Gospel: “He that heareth these My words and doth them,—I will liken him to a wise man that hath built his house upon a rock. The floods came, the winds blew, and beat against that house, and it fell not: because it was founded upon a rock.”16 Our Lord fulfilling these things, daily waiteth for us to answer by our deeds, these His holy admonitions. Therefore the days of our life are prolonged for the amendment of our evil deeds, according to those words of the Apostle: “Knowest thou not that the patience of God leadeth thee to repentance?”17 For our loving Lord saith: “I will not the death of the sinner, but that he be converted and live.”18 Having therefore, my Brethren, enquired of our Lord who shall be the dweller in this tabernacle, we have heard the precept to the one dwelling, and if we fulfil the functions of this habitation we shall become heirs of the kingdom of heaven. Therefore our hearts and bodies must be prepared to fight under the holy obedience of His commands, and we must beg our Lord to supply that, by the assistance of His grace, which our nature is unable to perform. And if flying the pains of hell we will to attain to everlasting life, we must, while yet time serves, and we live in this flesh, perform all these things by the light of faith, and haste to do that now which will be expedient for us for ever hereafter. We are therefore now about to institute a school of the service of God; in which we hope nothing will be ordained rigorous or burdensome. Bur if in some things we proceed with a little severity, sound reason so advising, for the amendment of vices or preserving of charity; do not straightway for fear thereof, flee from the way of salvation which is always strait and difficult in the beginning.19 But in process of time and growth of faith, when the heart has once been enlarged, the way of God’s 10
 
 Ps. xiv. 4. Ps. xiv. 2, 3. 12 Ps. cxxxvi. 9. 13 Ps. cxiii. 1. 14 I. Cor. xv. 10. 15 II. Cor. x. 47. 16 Matth. vii. 24, seq. 17 Rom. ii. 4. 18 Ezech. xviii. 23. 19 Matth. vii. 13. 11
-
-38
 
 The Life of Our most Holy Father S. Benedict
 
@@ -442,19 +382,13 @@ CHAPTER II. What kind of man the Abbot ought to be. AN Abbot who is worthy to ha
 
 II Cor. i. 7. Rom. viii. 15.
 
-39
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
 
 commands of our Lord: but let his commands and doctrine be mingled in the minds of his disciples with the leaven of diving justice. Let the Abbot always be mindful that, in the dreadful judgment of God, he must five an account both of his doctrine and of the obedience of his disciples, and let the Abbot know that any lack of profit which the Master of the family shall find in his sheep, will be laid to the shepherd’s fault. But if he have bestowed all diligence on his unquiet and disobedient flock, and employed the utmost care to cure their corrupt manners, he shall then be acquitted in the judgment of the Lord, and may say with the Prophet: “I have not hidden thy justice in my heart, I have told thy truth and thy salvation,22 but they contemned and despised me.”23 And then finally, death shall be inflicted as a just punishment upon the disobedient sheep. When, therefore, anyone receives the name of Abbot, he ought to govern his disciples with a twofold doctrine; that is, he ought first to show them all virtue and sanctity, more by deeds than by words: hence, to such as are intelligent, he may declare the commandments of God by words; but to the hard-hearted, and to those of the ruder sort, he must make the divine precepts manifest by his actions. In the next place, let him show by his own deeds, that they ought not to do anything which he has taught them to be unfitting, lest, having preached well to others, “he himself become a castaway,”24 and God say unto him thus sinning: “Why dost thou declare My justices, and take My testament in thy mouth? Thou hast hated discipline, and cast My speeches behind thee,25 And,—“Thou, who didst see the mote in thy brother’s eye, hast thou not seen the beam that is in thine own?”26 Let him make no distinction of persons in the Monastery. Let not one be loved more than another, except he be found to surpass the rest in good works and in obedience. Let not one of noble parentage, on coming to Religion, be put before him who is of servile extraction, except there by some other reasonable cause for it. If, upon just consideration, the Abbot shall think there is such a just cause, let him put him in any rank he shall please, but otherwise, let every one keep his own place; because “whether bondman or freeman, we are all one in Christ”27, and bear an equal burthen of servitude under one Lord: “for with God there is no accepting of persons.”28 On one condition only are we preferred by Him, and that is, if in good works and in humility we are found better than others. Therefore let the Abbot bear equal love to all; and let all be subject to the same discipline, according to their deserts. For the Abbot ought always, in his doctrine, to observe that apostolic form wherein it is said; “Reprove, entreat, rebuke.”29 That is to say, he ought, as occasions require, to temper fair speeches with threats: let him show the severity of a master and the loving affection of a father: those who are undisciplined and restless he must reprove sternly, but with such as are obedient, mild and patient, he should deal by entreaty, exhorting them to go forward in virtue. But the stubborn and negligent we charge him to severely reprove and chastise. Let him not shut his eyes to the sins of
 
-22
-
 Ps. xxxix. ii. Is. I. 2. 24 I Cor. ix, 27. 25 Ps. xlix. 16, 17. 26 Matth. vii. 3. 27 I. Cor. xii. 13; Rom. ii. ii.. 28 Ephes. vi. 9. 29 II Tim. iv. 2. 23
-
-40
 
 The Life of Our most Holy Father S. Benedict
 
@@ -464,11 +398,7 @@ offenders, but, as soon as they show themselves, use all possible endeavours utt
 
 CHAPTER III. Of calling the brethren to council. AS often as any weighty matters have to be debated in the monastery, let the Abbot call together all the Brethren, and himself declare what is the point under deliberation. Having heard their counsel, let him prudently weigh it with himself, and then do what he shall judge most expedient. The reason why we ordain that all be called to Council, is because the Lord often revealeth to the younger what is best. And let the Brethren give their advice with all subjection and humility, and presume not stiffly to defend their own opinion, but rather leave it to the discretion of the Abbot; and what he
 
-30
-
 I. Reg. ii, 12 seq.. Prov. xxiii. 13. 32 Ibid. 14. 33 Matth. vi. 33. 34 Ps. xxxiii. 19. 31
-
-41
 
 The Life of Our most Holy Father S. Benedict
 
@@ -478,11 +408,7 @@ shall think more expedient, to that, let them all submit; for, as it becometh th
 
 CHAPTER IV. What are the instruments of good works. FIRST of all, to love the Lord God with all our heart, with all our soul, with all our strength.36 2. Then our neighbour as ourself.37 3. Then not to kill.38 4. Not to commit adultery.39 5. Not to steal.40 6. Not to covet.41 7. Not to bear false witness.42 8. To honour all men.43 9. Not to do to another what we would not have done to ourselves.44 10. To deny ourselves, in order to follow Christ.45 11. To chastise the body.46 12. Not seek after delights.47 13. To love fasting.48 14. To relieve the poor.49
 
-35
-
 Eccli. xxxii. 24.. Deut. vi. 5. 37 Luc. x. 27. 38 Luc. xviii. 20. 39 Matth. xix. 18. 40 Exod. xx. 15. 41 Deut. vi. 21. 42 Marc. x. 19. 43 I. Petr. ii. 17. 44 Tob. iv. 16. 45 Luc. ix. 23. 46 I Cor. ix. 27. 47 II. Petr. ii. 13. 48 Joel i. 14; ii, 12, 15. 49 Tob. iv. 7.. 36
-
-42
 
 The Life of Our most Holy Father S. Benedict
 
@@ -490,11 +416,7 @@ Gregory the Great
 
 15\. To clothe the naked.50 16. To visit the sick.51 17. To bury the dead.52 18. To help those that are in tribulation.53 19. To comfort the sad.54 20. To withdraw ourselves from worldly ways.55 21. To prefer nothing to the love of Christ.56 22. Not to give way to anger.57 23. Not to harbour revenge in our mind.58 24. Not to foster guile or deceit in our heart.59 25. Not to make a feigned peace.60 26. Not to forsake charity.61 27. Not to swear at all, lest we forswear ourselves.62 28. To speak the truth with heart and mouth.63 29. Not to render evil for evil.64 30. Not to do any injury; yea, and patiently to bear an injury done to us.65 31. To love our enemies.66 32. Not to speak ill of such as speak ill of us, but rather to speak well of them.67 33. To suffer persecution for justice sake.68 34. Not to be proud.69 35. Not given to wine.70 36. Not a great eater.71 37. Not drowsy.72 38. Not slothful.73
 
-50
-
 Is. lviii. 7. Matth. xxv. 36. 52 Tob. i. 21, ii. 4, 7–9. 53 Is. i. 17. 54 I. Thes. v. 14. 55 Jac. i. 27. 56 Matth. x. 37, 38. 57 Matth. v. 22. 58 Ephes. iv. 26. 59 Ps. xiv. 3. 60 Rom. xii. 18. 61 I. Petr. iv. 8. 62 Matth. v. 33–37. 63 Ps. xiv. 3. 64 I. Thes. v. 15. 65 I. Cor. vi. 7. 66 Luc. vi. 27–55. 67 I. Petr. iii. 9. 68 Matth. v. 10. 69 Tob. iv. 14. 70 I. Tim. iii. 3. 71 Eccli. xxxi. 17. 72 Prov. xx. 13. 73 Rom. xii. 11. 51
-
-43
 
 The Life of Our most Holy Father S. Benedict
 
@@ -504,8 +426,6 @@ Gregory the Great
 
 I Cor. x. 10. Sap. i. 11. 76 Ps. lxxii. 28. 77 I Cor. iv. 7. 78 Ose. xii. 9. 79 Job. xxxi. 14. 80 Matth. x. 28. 81 Phil. i. 23. 82 Matth. xxiv. 42 et seq.. 83 Deut. iv. 9. 84 Prov. v. 21. 85 Ps. cxxxvi. 9. 86 Eccli. viii. ii. 87 Ps. xxxiii. 13, 14. 88 Prov. x. 19. 89 Matth. xii. 35. 90 Eccli. xxi. 23. 91 Luc. xi. 28. 92 Col. iv. 2. 93 Ps. vi. 7. 94 Gal. v. 16. 95 Eccli. xviii. 30. 75
 
-44
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -514,11 +434,7 @@ Gregory the Great
 
 CHAPTER V. Of the obedience of disciples. THE first degree of humility is obedience without delay. This beseemeth those who, either on account of the holy servitude they have professed, through fear of hell or for the glory of life everlasting, count nothing more dear to them than Christ. These, presently, as soon as anything is commanded them by the Superior, make o delay in doing it, just as if the command had come from God. Of such, our Lord saith: “At the hearing of the ear he hath obeyed me.”109 And to teachers He saith:
 
-96
-
 Matth. xxiii. 3. Matth. vi. i. 98 Eccli. vi. 37. 99 I. Tim. v. 22. 100 Levit. xix. 17. 101 Jacob. iii. 14, 16. 102 II. Tim. ii. 24. 103 Ps. cxxx. 1. 104 Levit. xix. 32. 105 I Tim. v. i.. 106 Matth. v. 44. 107 Ephes. iv. 26. 108 Ps. li. 10. 109 I Cor. ii. 9. 97
-
-45
 
 The Life of Our most Holy Father S. Benedict
 
@@ -530,8 +446,6 @@ CHAPTER VI. Of Silence. LET us act in accordance with that saying of the Prophet
 
 110 Ps. xvii. 45. 111 Matth. vii. 14. 112 Joan. v. 30. 113 Luc. x. 16. 114 II Cor. ix. 7. 115 Ps. xxxviii. 2. 3. 116 Prov. x. 19. 117 Prov. xviii. 21.
 
-46
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -542,15 +456,11 @@ CHAPTER VII. Of Humility. THE Holy Scripture crieth to us, Brethren, saying: “
 
 118 Luc. liv. 11. 119 Ps. cxxx. 1. 2. 120 Ps. vii. 10.. 121 Ps. xciii. 11. 122 Ps. cxxxviii. 3. 123 Ps. lxxv. 11. 124 Ps. xvii. 24.
 
-47
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
 
 The Scripture also forbiddeth us to do our own will, saying: “Leave thy own will and desire.”125 And again: “We beg of God in prayer, that His Will may be done in us.”126 With good reason, therefore, are we taught to beware of doing our own will, when we keep in mind that which the Scripture saith: “There are ways which to men seem right, and end whereof plungeth even into the deep pit of hell.”127 And again when we fear that which is said of the negligent: “They are corrupted, and made abominable in their pleasures.”128 But in the desires of the flesh, we ought to believe God to be always present with us, according to that saying of the Prophet, speaking to the Lord: “O Lord, all my desire is before Thee.”129 Let us then take heed of evil desires, because death sitteth close to the entrance of delight. Wherefore the Scripture commandeth us: “Follow not thy concupiscences.”130 If then the eyes of the Lord behold both good and bad; if He ever looketh down from heaven upon the sons of men to see who is understanding or seeking God: if our works are told to Him day and night by our Angels; we must always take heed, Brethren, lest, as the Prophet saith in the Psalm, “God behold us some time declining to evil, and become unprofitable;”131 and though He spare us for the present, because He is merciful, and expecteth our conversion, He may yet say to us hereafter: “These things thou hast done, and I have held My peace.”132 The second degree of humility is, if anyone, not wedded to his own will, seeks not to satisfy his desires, but carries out that saying of our Lord: “I came not to do My own Will, but the Will of Him Who sent Me.”133 The scripture likewise saith: “Self-will engendereth punishment, and necessity purchaseth a crown.” The third degree of humility is, that a man submit himself for the love of God, with all obedience to his superior, imitating thereby our Lord, of Whom the Apostle saith: “He was made obedient even unto death.”134 The fourth degree of humility is, that if, in obedience, things that are hard, contrary, and even unjust be done to him, he embrace them with a quiet conscience, and in suffering them, grow not weary, nor give over, since the Scripture saith: “He only that persevereth to the end shall be saved.”135 And again, “Let thy heart be comforted, and expect the Lord.”136 And showing that the faithful man ought to bear all things for our Lord, be they never so contrary, it saith in the person of the sufferers: “For Thee we suffer death all the day long; we are esteemed as sheep for the slaughter.”137 And being assured by hope of a reward from God’s Hands they go on rejoicing and saying: “But in all things we overcome by the help of Him Who hath loved us.”138 Likewise in another place the Scripture saith: “Thou hast proved us, O Lord, Thou hast tried us, as silver is tried, with fire. Thou 125 Eccli. xviii. 30. 126 Matth. vi. 10. 127 Prov. xvi. 25. 128 Ps. lii. 24. 129 Ps. xxxvi. 10. 130 Eccli. xviii. 30. 131 Ps. lii. 4. 132 Ps. xlix. 21. 133 Joan. vi. 38. 134 Phil. ii. 8. 135 Matth. xxiv. 13. 136 Ps. xxvi. 14.. 137 Ps. xliii. 22. 138 Rom. viii. 37.
-
-48
 
 The Life of Our most Holy Father S. Benedict
 
@@ -559,8 +469,6 @@ Gregory the Great
 hast brought us into the snare; Thou hast laid tribulation upon our backs.”139 And to shew that we ought to be under a Prior it goes on to say: “Thou hast placed men over our heads.”140 Moreover, in order to fulfil the precepts of the Lord by patience in adversities and injuries: “When struck on one cheek, they offer the other; to him who taketh away their coat, they leave their cloak also; and being constrained to carry a burthen one mile, they go two.”141 With Paul the Apostle they suffer false Brethren and persecutions, and bless those who speak ill of them.142 The fifth degree of humility is to manifest to the Abbot, by humble confession, all the evil thoughts of his heart, and the secret faults committed by him. The Scripture exhorteth us thereunto, saying: “Reveal thy way to the Lord, and hope in Him.”143 And again: “Confess thy way to the Lord because He is good, because His mercy endureth for ever.”144 Furthermore the Prophet saith: “I have made known unto Thee mine offence, and mine injustices I have not hidden. I have said, I will declare openly against myself mine injustices to the Lord; and Thou hast pardoned the wickedness of my heart.”145 The sixth degree of humility is, if a Monk be content with all that is meanest and poorest, and in everything enjoined him, think himself an evil and worthless servant, saying with the Prophet: “I have been brought to nothing, and knew it not. I have become as a beast before Thee, and I am always with Thee.”146 The seventh degree of humility is, not only to pronounce with his tongue, but also in his very heart to believe himself to be the most abject, and inferior to all; and humbling himself, to say with the Prophet: “I am a worm and no man, the reproach of men and the outcast of the people.147 I have been exalted, humbled, and confounded.”148 And again: “It is good for me that Thou hast humbled me, that I may learn thy commandments.”149 The eighth degree of humility is, that a Monk do nothing but what the common rule of the Monastery, or the examples of his seniors, exhort him to do. The ninth degree of humility is, for a Monk to refrain his tongue from speaking, and be silent till a question be asked him, remembering the saying of the Scripture: “In many words thou shalt not avoid sin,”150 and “a talkative man shall not be directed upon the earth.”151 The tenth degree of humility is, not to be easily moved and prompt to laugh, for it is written: “The fool exalteth his voice to laughter.”152
 
 139 Ps. lxv. 10. 11. 140 Ibid. 12. 141 Matth. v. 39–41. 142 II. Cor. xi. 26. 143 Ps. xxxvi. 5. 144 Ps. cv. 1. 145 Ps. xxxi. 5. 146 Ps. lxxii. 22. 23. 147 Ps. xxi. 7. 148 Ps. lxxxvii. 16.. 149 Ps. cxviii. 71. 150 Prov. x, 10. 151 Ps. cxviii. 12. 152 Eccli. xxi. 23.
-
-49
 
 The Life of Our most Holy Father S. Benedict
 
@@ -571,8 +479,6 @@ The eleventh degree of humility is that when a Monk speaketh, he do so, gently a
 CHAPTER VIII. Of the Divine Office at night-time. IN winter, that is from the first of November till Easter, they shall rise at that time which reasonable calculation shall indicate as the eighth hour of the night, in order that having rested till a little after midnight, they may rise refreshed. As for the time that remains after Matins, let it be employed in study, by those Brethren who are somewhat behind-hand in the psalter and lessons. But from Easter till the first of November, let the hour for Matins be so arranged, that after a short interval during which they may go forth for the necessities of nature, Lauds may presently follow about the break of day.
 
 CHAPTER IX. How many psalms are to be said in the night-hours. IN winter, having first said the verse, “O God incline unto mine aid, O Lord make haste to help me,”156 the words, “O Lord open my lips, and my mouth shall declare Thy praise,”157 are next to be 153 Eccles. x. 154 Luc. xviii. 13. 155 Ps. cxviii. 107. 156 Ps. lxix. 2. 157 Ps. l. 17.
-
-50
 
 The Life of Our most Holy Father S. Benedict
 
@@ -594,8 +500,6 @@ CHAPTER XII. How the solemnity of Lauds is to be performed. FOR Sunday’s Lauds
 
 CHAPTER XIII. How Lauds are to celebrated on ferial or week days. ON ferial days, let Lauds be celebrated thus: Let the sixty-sixth Psalm be said as on Sunday, plainly and without an antiphon, and also somewhat more slowly, in order that all may be in their places for the fiftieth, which must be said with an antiphon. After which, let two other psalms be said according to custom; that is, on Monday, the fifth and thirty-fifth. On Tuesday, the forty-second and fifty-sixth. On Wednesday, the sixty-third and sixty-fourth. On Thursday, the eighty-seventy and eighty-ninth. On Friday, the seventy-fifth and ninety-first. On Saturday, the hundred-and-forty-second and the Canticle of Deuteronomy, which must be divided into two “Glorias.” But on other days, let the Canticle our of the Prophets be said, each on its own day, according to the practice of the Roman Church. After these, let the Praises follow; then a lesson from the Apostles, to be said by heart, a responsory, hymn, and versicle, a Canticle out of the Gospel, the Litanies, and so conclude. Let not the celebration of Lauds, or Evensong, ever terminate, unless at the end, the Lord’s prayer be said by the Prior, in the hearing of all, because of the thorns of scandal which are wont to arise; that the Brethren, being reminded by the covenant of this prayer, in which they say: “Forgive us our trespasses as we forgive them the trespass against us”, may purge themselves from these faults. But in celebrating the other hours let the last part only be said aloud, that all may answer: “But deliver us from evil.” 158 The Cant. Of the Three Children. “the Benedicite.” 159 Pss. cxlviii. cxlix, cl. of which almost every verse begins by the word “Laudate,” were called “Laudes”.
 
-52
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -606,15 +510,11 @@ CHAPTER XV. At what seasons “Alleluia” must be said. From the holy feast of 
 
 CHAPTER XVI. In what manner the Work of God is to be done in the day time.
 
-S
-
 “ EVEN times a day”, saith the Prophet. “have I sung praises unto Thee.”160 This sacred number of seven shall be accomplished by us if at the times of Lauds, Prime, Tierce, Sext, None, Even-song, and Complin, we perform the duties of our service. It was of these hours the Prophet said: “Seven times in the day I have sung praise to Thee.” For of the Night-watches, the same Prophet says: “At midnight I did arise to confess to Thee.”161 At these times therefore, let us give praise to our Creator for the judgments of His justice; that is at Lauds, Prime, Tierce, Sext, None, Even-song, and Complin; and in the night let us rise to confess unto Him.
 
 CHAPTER XVIII.
 
 160 Ps. cxviii. 164. 161 Ibid. 62.
-
-53
 
 The Life of Our most Holy Father S. Benedict
 
@@ -638,8 +538,6 @@ CHAPTER XX. Of reverence at prayer. IF, when we wish to make some suggestion to 
 
 162 Ps. ii. 11. 163 Ps. xliv. 8. 164 Ps. cxxxviii. 1.
 
-55
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -654,8 +552,6 @@ CHAPTER XXIII.
 
 165 Matth. vi. 7.
 
-56
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -668,8 +564,6 @@ CHAPTER XXV. Of more grievous faults. LET that Brother who is guilty of more gri
 
 166 I. Cor. v. 5.
 
-57
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -681,8 +575,6 @@ Of those who keep company with the excommunicated without the command of the Abb
 CHAPTER XXVII. How the Abbot ought to care for the excommunicated. LET the Abbot have a special care of the offending Brethren, for, “They that are well need not the physician, but they that are sick.”167 He ought, therefore, like a wise physician, to use every means in their regard, and covertly send them as comforters, some elderly and discreet Brothers to console, as it were secretly, the wavering one, and win him to make humble satisfaction. Let them comfort him, that he be not swallowed up by overmuch sorrow, but as the Apostle saith: “Let charity be confirmed towards him, and let all pray for him.”168 The Abbot ought especially to have care, and with all prudence and industry, to see that he lose none of the sheep committed to his charge. Let him know that he hath undertaken the care of sick souls, and not a tyrannical authority over such as are well. Let hi fear the threat of the Prophet, by whom God saith; “What ye saw to be fat, that ye took to yourselves, and what was diseased, that ye threw away.”169 Let him imitate the loving kindness of the “Good Shepherd,” Who “leaving ninety-nine sheep in the mountains, went to seek one that had gone astray, on whose infirmity He took such compassion, that He vouchsafed to lay it on His own sacred shoulder, and thus carry it back to the flock.”170
 
 CHAPTER XXVIII. Of those who, being often corrected, do not amend. IF any Brother after being corrected, or even excommunicated for any fault, doth not amend, let a sharper correction be administered to him: that is to say, let him be punished with stripes. But if for all that he do not correct himself, or being puffed up with pride (which God forbid) shall also defend his doings; then let the Abbot act like a wise physician, and after applying the fomentations 167 Matth. ix. 12. 168 I Cor. ii. 8. 169 Ezech. xxxiv. 3. 170 Luc. xv. 4.
-
-58
 
 The Life of Our most Holy Father S. Benedict
 
@@ -698,8 +590,6 @@ CHAPTER XXX. How children are to be corrected. EVERY age and understanding ought
 
 CHAPTER XXXI. What kind of man the Cellarer of the monastery ought to be. LET there be chosen out of the Community as Cellarer of the Monastery, a man who is wise, ripe in manners, and sober; not a great eater, not haughty, nor hasty, nor insulting; not slow, nor wasteful, but fearing God, and acting as a father to the whole Brotherhood. Let him have care of all things, and without the command of the Abbot do nothing. Let him take heed of all that is ordered, and not sadden his Brethren. But if any Brother shall perchance ask anything of him that is not reasonable, 171 I. Cor. v. 13. 172 I. Cor. vii. 15.
 
-59
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -712,8 +602,6 @@ CHAPTER XXXIII. Whether monks ought to have anything of their own. ESPECIALLY le
 
 173 I Tim. iii. 13.. 174 Eccli. xviii. 17. 175 Matth. xviii. 6.
 
-60
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -723,8 +611,6 @@ book, or tablets, or pen, or anything at all; because they are men whose very bo
 CHAPTER XXXIV. Whether all ought equally to receive what is needful. As it is written: “Distribution was made to every one, according as he had need.”177 By this, we do not say that there should be accepting of persons, which God forbid, but that due consideration should be shown to each one’s infirmities. Therefore, let him who needeth less, give God thanks, and be not grieved; and let him who needeth more, be humbled for his infirmity, and not lifted up for the mercy that is shown him; and thus all the members shall be in peace. Above all things, take heed there be no murmuring, by word or sign, upon any occasion whatsoever, If any one shall be found faulty in this respect, let him be subjected to most severe discipline.
 
 CHAPTER XXXV. Of the weekly servers in the kitchen. THE Brethren are so to serve each other, that no one be excused from the office of the kitchen, unless he be hindered by sickness or other business of more profit; because a greater reward is gotten thence. But let the weaker Brethren have help, that they may do their work without sadness; and let all generally have help according as the number of the Community, and the situation of the place, shall require. If the Community be great, let the Cellarer be excused from the kitchen, and as we have said before, such as are employed in matters of greater profit. Let the rest serve each other in charity. On Saturday, let him who endeth his week in the kitchen make all things clean. Let him wash the towels wherewith the Brethren wipe their hands and feet, and let both him who goeth our and him who cometh in, wash the feet of all. He shall hand over to the Cellarer, clean and whole, all the vessels of his office, and the Cellarer shall deliver them to him who entereth upon his office, that he may know what he giveth and what he receiveth. Let these weekly Officers, one hour before refection, take each a draught of drink and a piece of bread over and above the appointed allowance, that at the hour of refection they may serve their Brethren without murmuring or great labour. Nevertheless, on solemn days let all forbear till after Mass. On Sunday, immediately 176 Acts. iv. 32. 177 Acts. iv. 35.
-
-61
 
 The Life of Our most Holy Father S. Benedict
 
@@ -738,8 +624,6 @@ CHAPTER XXXVII. Of old men and children. ALTHOUGH man’s nature is of itself dr
 
 178 Ps. lxxxv. 17. 179 Ps. lxix. 2. 180 Matth. xxv. 26. 181 Ibid. 40.
 
-62
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -752,8 +636,6 @@ CHAPTER XXIX Of the measure or quantity of meat. WE think it sufficient for dail
 
 182 Ps. l. 17. 183 Luc. xxxi. 34..
 
-63
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -765,8 +647,6 @@ CHAPTER XLI. At what hours the Brethren are to take their Refections. FROM the h
 CHAPTER XLII. That no one may speak after Complin.
 
 184 I Cor. vii. 7. 185 In Vitis Patrum. Verba Senior: v. 4. 31. 186 Eccli. xix. 2.
-
-64
 
 The Life of Our most Holy Father S. Benedict
 
@@ -810,8 +690,6 @@ CHAPTER XLIX. Of the observance of Lent. ALTHOUGH a Monk’s life ought at all t
 
 CHAPTER L. Of the Brethren who work at a great distance from the Oratory, or are on a journey. THE Brethren who work at a great distance; and, in the Abbot’s judgment, are unable to come to the Oratory in due time, shall fall upon their knees in the place where they are labouring, and there perform the Work of God with divine fear. Also, those who are sent on a journey shall not allow the appointed hours to pass by, but perform them on the way as they are best able, and omit not to accomplish their task of Divine Service.
 
-68
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -823,8 +701,6 @@ CHAPTER LII. Of the Oratory of the Monastery. LET the Oratory be what its name s
 CHAPTER LIII. Of the manner of entertaining guests. LET all guests who come to the Monastery be entertained like Christ Himself, because He will say: “I was a stranger and ye took Me in.”187 Let due honour be paid to all, especially to those who are of the household of the Faith, and to travellers. As soon, therefore, as a guest is announced, let the Prior or the Brethren go to meet him with all show of charity. First let them pray together, and so be associated to each other in peace. The kiss of peace shall not be offered till after prayer, because of the illusions of the devil. And in the salutation itself let all humility be shewn. By bowing the head or prostrating on the ground before all the guests who come or go, let Christ Who is received in their persons be also adored in them. When the guests have been received, let them be brought to prayer, and after that, the Prior, or any one whom he shall order, shall sit with them. Let the Divine Law be read before the guest, that he may be edified, and afterwards let all courtesy be shown hem. For his sake, the Prior shall break the fast ordained by the Rule, unless perchance it be one of those special days, on which it cannot be broken. The Brethren, however, shall keep their accustomed fast. Let the Abbot pour water on
 
 187 Matth. xxv. 35.
-
-69
 
 The Life of Our most Holy Father S. Benedict
 
@@ -838,8 +714,6 @@ CHAPTER LV. Of the clothes and shoes of the Brethren. LET clothing be given to t
 
 188 Ps. xlviii. 10.
 
-70
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -850,8 +724,6 @@ CHAPTER LVI. Of the Abbot’s Table. THE Abbot shall always take his meals with 
 
 CHAPTER LVII. Of the artificers of the Monastery. IF there be Artificers in the Monastery, let them exercise their crafts with all humility, provided the Abbot shall have ordered them. But if any of them be proud of the skill he hath in his craft, because he thereby seemeth to gain something for the Monastery, let him be removed from it, and not exercise it again, unless, after humbling himself, the Abbot shall permit him. 189 Acts. iv. 35.
 
-71
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -861,8 +733,6 @@ But if any of their work is to be sold, let those who make the bargain take heed
 CHAPTER LVIII. Of the manner of receiving Brothers to Religion. LET not an easy entrance be granted to one who cometh newly to Religious life, but, as the Apostle saith: “Try the Spirits if they be of God.”191 If, therefore, the newcomer persevere knocking, and continue for four or five days patiently to endure both the injuries offered to him and the difficulty made about his entrance, and persist in his petition; leave to enter shall be granted him, and he shall be in the guest Hall for a few days. Afterwards he shall be in the Novitiate, where he shall meditate, and eat, and sleep. Let a Senior who has the address of winning souls, be appointed to watch over him narrowly and carefully, to discover whether he truly seeks God, and is eager for the Work of God, for obedience and for humiliation. Let all the rigour and austerity by which we tend towards God be laid before him. And if he promise stability and perseverance, at the end of two months, let the whole Rule be read to him, with the addition of these words: “Behold the law under which thou desirest to fight; if thou canst observe it, enter in; if thou canst not, freely depart.” If he shall still persevere, let him then be brought back to the aforesaid cell of the Novices, and be again tried in all patience. After the lapse of six months, let the Rule be read to him again, that he may know unto what he has come. If he still persevere, after four months, let the same Rule be read to him once more. If he shall then promise, after due deliberation, to observe all things and to do everything commanded him, let him be received into the Community, knowing tha the is from that time forward under the law of the Rule, so that he can neither leave the Monastery nor shake off the yoke of the Rule, which, after so long a deliberation, he might have accepted or refused. And when they admit him to profession, he shall, in the presence of all, make a promise before God and His saints, of stability, amendment of manners, and obedience, in order that if at any time he shall act contrariwise he may know that he shall be condemned by Him Whom he mocketh. He shall draw up the form of this promise in the name of the Saints whose relics are on the Altar, and of the Abbot there present. With his own hand shall he write it, or if he knoweth not how, another at his request shall write it for him, and the Novice shall put his mark to it, and lay it with his own hand upon the Altar. After doing this, let him presently begin the verse: “Uphold me O lord according to Thy Word, and I shall live, and let me not be confounded in my expectation.”192 Let the whole Community
 
 190 Acts. v. 10. 191 I Joan. iv. 1. 192 Ps. cxviii. 116.
-
-72
 
 The Life of Our most Holy Father S. Benedict
 
@@ -878,8 +748,6 @@ CHAPTER LX. Of priests who desire to dwell in the Monastery. IF any one of the p
 
 Constit: Lanfranci. Cap. xviii. 194 Matth. xxvi. 50..
 
-73
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -892,8 +760,6 @@ CHAPTER LXII. Of the priests of the Monastery.
 
 195 Matth. vii. 12.
 
-74
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -903,8 +769,6 @@ IF any Abbot desire to have a Priest or Deacon promoted to Holy Orders, let him 
 CHAPTER LXIII. Of the order of the Community. THE Brethren shall hold that rank in the Monastery which is fixed for them by the time of their conversion, by the merit of their life, or by the appointment of the Abbot. And let not the Abbot disquiet the flock committed to him, not, as it were by an arbitrary use of power, arrange anything unjustly; but let him always consider that he is to give an account to God of all his judgments and of all his works. Therefore, let the Brethren receive the Pax, approach to Communion, intone a psalm, and stand in choir, according to that order which he shall appoint, or which they hold among themselves. In all places without exception, let not order be decided by age, neither let it be a prejudice to any man; for Samuel and Daniel, though mere youths, sat in judgment upon the elders.196 With the exception, therefore, of those whom for special reasons the Abbot shall advance or loser, let all the rest keep the order of the conversion. For example: He who cometh to the Monastery at the second hour of the day must know that he is lower than the man who came at the first hour, no matter what his age or dignity may be. But with regard to children, let them be kept under discipline on all occasions, by al indiscriminately. Let the Juniors, therefore, honour their Seniors, and the Seniors love the Juniors. But in addressing each other by name, no one shall call another by his simple name; let the Seniors call the Juniors Brothers, and let the Juniors call the Seniors Fathers out of reverence. But because the Abbot representeth the person of Christ, he shall be called “Domnus,” and “Abbot,” not as if he took this title upon himself, but out of honour and love of Christ. Let him remember to conduct himself in such a way, as to be worthy of so great honour. Wheresoever the Brethren meet each other, let the Junior ask a blessing from the Senior. When the Senior passeth by, let the Junior rise, and give place to him to sit down. Nor shall the Junior 196 I. Reg. vii. 15;
 
 Daniel. xiii. 51, et seq..
-
-75
 
 The Life of Our most Holy Father S. Benedict
 
@@ -916,8 +780,6 @@ CHAPTER LXIV. Of the election of the Abbot. IN the election of an Abbot let the 
 
 197 Rom. xii. 10. 198 Matt. xiii. 52. 199 Isai. xlii. 3.. 200 Genesis. xxxiii. 13.
 
-76
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -925,8 +787,6 @@ Gregory the Great
 after, and the weak, nought from which they may flee away. Especially let him observe this present Rule in all things, that after having ministered well, he may hear from the Lord what the good servant heard, who gave corn to his fellow servants in due time; “Amen, I say unto you, over all his goods will he place him.”201
 
 CHAPTER LXV. Of the Provost of the Monastery. IT often happens that by the appointment of a Provost202 great scandals arise in Monasteries; because some, so appointed, being puffed up with the malignant spirit of pride, and esteeming themselves to be second Abbots, take upon themselves to tyrannise over others, to foster scandals, and to promote dissensions in the Community; and especially in those places where the Provost is instituted by the same Bishops of Abbots as the Abbot himself. How foolish this custom is, may easily be perceived; for a handle for pride is given to the Provost from the very beginning of his appointment, because his thoughts suggest to him that hie is now released from the power of his Abbot, since he is instituted by the very persons by whom the Abbot himself is instituted. Hence arise envy, quarrels, detractions, rivalries, dissensions, and disorders; and while the Abbot and Provost are at variance with each other, it must of necessity follow, that their souls are imperilled during this dissension; those also who are under their charge run to destruction by adhering, some to one side, and some to the other. The sin of this danger lieth principally upon those who were the authors of such an appointment. Therefore, we foresee that it is expedient for the preservation of peace and charity, that the entire government of the Monastery depend upon the will of the Abbot. As we have before arranged, let all the business of the Monastery be transacted, if possible, by the Deans, according as the Abbot shall have determined, in order that, many being sharers in the same office, no one may become proud. But if either the circumstances of the place require a Provost, or the Community with reason and humility ask for one, and the Abbot think it expedient, he shall with the advice of such of the Brethren as have the fear of God before them, nominate and appoint one himself. Let the Provost do with reverence what shall be enjoined him by the Abbot, in no way going against his will or ordinance; because the higher he is advanced above the rest, the more carefully ought he to observe all the precepts of the Rule. If the Provost be found viciously inclined, or deceived by the haughtiness of pride, or a contemner of the Holy Rule, let him be warned by word of mouth four times; if he do not amend, let the correction of regular discipline be applied to him. If with this he do not grow better, he shall be deposed from the dignity of the Provostship, and a worthier man put in his place. If after this he be not quiet and obedient in the Community, let him be expelled from the Monastery. The Abbot shall nevertheless bear in mind, that for all his judgments he shall have to give an account to God, lest perchance his soul burn with the flame of envy and jealousy. 201 Matth. xxiv. 47. 202 This corresponds to our Prior. St. Benedict uses Preaepositus and Prior synonymously..
-
-77
 
 The Life of Our most Holy Father S. Benedict
 
@@ -937,8 +797,6 @@ CHAPTER LXVI. Of the porter of the Monastery. AT the gate of the Monastery, let 
 CHAPTER LXVII. Of brethren who are sent on a journey. LET those who are to be sent on a journey commend themselves to the prayers of all the Brethren and of the Abbot, and always at the last prayer of the Work of God let a commemoration be made of all the absent. When they come back, they shall, on the very day of their return, lie prostrate on the ground of the Oratory during all the Canonical Hours, while the Work of God is being fulfilled, and beg the prayers of all, on account of the faults they may have committed on the way, by sight or hearing of evil things, or by idle discourse. Let no one presume to relate unto others what he has seen or heard outside the Monastery; because this is a fruitful source of evil. If any one shall presume to do so, let him be liable to the penalty prescribed by the Rule. In like manner shall he be punished who shall presume to break the enclosure of the Monastery, or go anywhere, or do anything, how trifling soever without leave of the Abbot.
 
 CHAPTER LXVIII. If a Brother be ordered to do impossibilities. IF any hard or impossible commands be enjoined a Brother, let him receive the injunctions of him who biddeth him with all mildness and obedience. But if he shall see that the burthen altogether exceedeth the measure of his strength, let him patiently and in due season state the cause of this
-
-78
 
 The Life of Our most Holy Father S. Benedict
 
@@ -954,8 +812,6 @@ CHAPTER LXXI. That the brethren be obedient to each other. THE service of obedie
 
 203 Tob. iv. 16.
 
-79
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -968,8 +824,6 @@ CHAPTER LXXIII. That the whole observance of perfection is not contained in this
 
 204 Rom. xii. 10.
 
-80
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -978,8 +832,6 @@ THE END. Whosoever shall follow this Rule, Peace on them.205
 
 205 Gal. vi. 16.
 
-81
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
@@ -987,8 +839,6 @@ Gregory the Great
 INDEX 7
 
 Page The Life of our most Holy Father St. Benedict
-
-4
 
 The Prologue of our most Holy father Saint Benedict to 33 His Rule CHAPTER I.
 
@@ -1006,21 +856,15 @@ IV.
 
 What are the instruments of 37 good works
 
-V.
-
 Of the obedience of disciples 40
 
 VI.
 
 Of Silence
 
-40
-
 VII.
 
 Of Humility
-
-41
 
 VIII.
 
@@ -1029,8 +873,6 @@ Of the Divine Office at 44 Night-time
 IX.
 
 How many psalms are to be 44 said in the Night-hours
-
-X.
 
 How Matins, or Night-office, 44 is to be celebrated in Summer
 
@@ -1057,8 +899,6 @@ At what season “Alleluia” must 46 be said
 XVI.
 
 In what manner the Work of 46 God is to be done in the day-time
-
-82
 
 The Life of Our most Holy Father S. Benedict
 
@@ -1144,23 +984,13 @@ XXXVI.
 
 Of the sick Brethren
 
-83
-
 are
-
-48
 
 to
 
-48
-
 for 49
 
-49
-
 be 51
-
-53
 
 The Life of Our most Holy Father S. Benedict
 
@@ -1170,13 +1000,9 @@ XXXVII.
 
 Of old men and children
 
-53
-
 XXXVIII.
 
 Of the weekly reader
-
-54
 
 XXXIX.
 
@@ -1218,15 +1044,9 @@ XLVIII.
 
 Of daily manual labour
 
-57
-
 XLIX.
 
 Of the observance of Lent
-
-58
-
-L.
 
 Of the Brethren who work at a 58 great distance from the Oratory, or are on a journey
 
@@ -1254,15 +1074,9 @@ LVI.
 
 Of the Abbot's table
 
-84
-
 of
 
-54
-
 the 59
-
-60
 
 The Life of Our most Holy Father S. Benedict
 
@@ -1336,15 +1150,11 @@ LXXIII.
 
 That the whole observance of 67 perfection is not contained in this Rule
 
-85
-
 of
 
 of
 
 the 61
-
-64
 
 the 65
 
@@ -1354,20 +1164,14 @@ Gregory the Great
 
 Indexes Index of Scripture References Genesis 33:13 Exodus 20:15 Leviticus 19:17 19:32 Deuteronomy 4:9 6:5 6:21 1 Kings 2:12 7:15 Job 31:14 Psalms 2:11 6:7 7:10 14:2 14:3 14:3 14:3 14:4 17:24 17:45 21:7 26:14 31:5 33:12 33:13 33:13 33:14 33:14 33:15 33:19 36:5 36:10 38:2 38:3 39:2 43:22 44:8 48:10 49:16 49:17 49:21 50:17 50:17 51:10 52:4 52:24 65:10 65:11 65:12 69:2 69:2 72:22 72:23 72:28 75:11 85:17 87:16 93:11 94:8 105:1 113:1 118:12 118:62 118:71 118:107 118:116 118:164 130:1 130:1 130:2 136:9 136:9 138:1 138:3 Proverbs 5:21 10:10 10:19 10:19 16:25 18:21 20:13 23:13 23:14 Ecclesiastes 10:1 Isaiah 1:2 1:17 42:3 58:7 65:24 Ezekiel 18:23 34:3 Daniel 13:51 Hosea 12:9 Joel 1:14 2:12 2:15 Matthew 5:22 5:33-37 5:39-41 5:44 6:1 6:7 6:10 6:33 7:3 7:12 7:13 7:14 7:24 9:12 10:28 10:37 10:38 12:35 13:52 18:6 19:18 23:3 24:13 24:42 24:47 25:26 25:35 25:36 25:40 26:50 Mark
 
-86
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
 
 10:19 Luke 6:27-55 9:23 10:16 10:27 11:28 18:13 18:20 31:34 54:11 John 5:30 6:38 12:35 Acts 4:32 4:35 4:35 5:10 Romans 2:2 2:4 8:15 8:37 12:10 12:10 12:11 12:18 13:11 1 Corinthians 2:8 2:9 4:7 5:5 5:13 6:7 7:7 7:15 9:27 9:27 10:10 12:13 15:10 2 Corinthians 1:7 10:47 11:26 Galatians 5:16 6:16 Ephesians 4:26 4:26 6:9 6:14 6:15 Philippians 1:23 2:8 Colossians 4:2 1 Thessalonians 5:14 5:15 1 Timothy 3:3 3:13 5:1 5:22 2 Timothy 2:24 4:2 James 1:27 3:14 3:16 1 Peter 2:17 4:8 2 Peter 2:13 3:9 1 John 4:1 Revelation 2:7 Tobit 1:21 2:4 2:7-9 4:7 4:14 4:16 4:16 Wisdom of Solomon 1:11 Sirach 6:37 8:2 18:17 18:30 18:30 18:30 19:2 21:23 21:23 31:17 32:24 39
 
-87
-
 The Life of Our most Holy Father S. Benedict
 
 Gregory the Great
 
 Index of Pages of the Print Edition 1 2 3 4 5 6 7
-
-88

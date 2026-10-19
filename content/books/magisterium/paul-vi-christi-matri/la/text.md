@@ -38,5 +38,3 @@ Bona spe ducti praecelsam Dei Genetricem hanc humilem precationem Nostram benign
 ------------------------------------------------------------------------
 
 \* *AAS* 58 (1966), pp. 745-749
-
-© Copyright 1966 - Libreria Editrice Vaticana

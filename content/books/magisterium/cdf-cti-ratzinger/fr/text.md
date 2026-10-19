@@ -1,5 +1,29 @@
 # Discours du Cardinal Joseph Ratzinger pour le XXVe anniversaire de la Commission Théologique Internationale, 4 décembre 1994
 
-[TABLE]
+[](/index.htm)
 
-[TABLE]
+[](javascript:history.go(-1)) [](javascript:up())
+
+**Discours du cardinal Joseph Ratzinger, président de la Commission théologique internationale pour le XXV**^(**e**) **anniversaire de sa création**
+
+Salle du Consistoire, 2 décembre 1994
+
+Très Saint Père,
+
+C’est avec un sentiment de profonde gratitude que le président, les membres et collaborateurs de la Commission théologique internationale se présentent devant vous ce matin, en ce vingt-cinquième anniversaire de son institution.
+
+Sans doute, on peut considérer que sa première ébauche remonte à 1967, puisque c’est au cours du premier Synode des évêques que l’idée en avait été proposée. Mais enfin, en cette année 1994, vingt-cinq ans se sont écoulés depuis que, lors du Consistoire du 28 avril 1969, Votre prédécesseur [Paul VI](/holy_father/paul_vi/index_fr.htm) annonçait la création de cet organisme, désormais connu sous le nom de « Commission théologique internationale », lui assignant une fonction de recherche pour les questions nouvelles et pour les manières les plus appropriées d’exposer au monde moderne la doctrine du Christ et de l’Église. Ainsi, disait-il, « le Saint-Siège pourra bénéficier du concours spécial de théologiens experts, choisis dans les diverses parties du monde, et profiter ainsi d’échanges plus larges et d’expériences plus variées, toujours pour l’approfondissement et la garde de la véritable vérité révélée, et donc aussi de la vie spirituelle de tous les ordres de la Sainte Église ».
+
+Le 11 avril suivant, [Paul VI](/holy_father/paul_vi/index_fr.htm) recevait en audience le cardinal Šeper et approuvait les statuts *ad experimentum* de la Commission théologique internationale. Suivirent le I^(er) mai la nomination des 30 premiers membres, qui pour la plupart s’étaient illustrés comme experts au Concile, et la première réunion de là Commission, du 6 au 8 octobre 1969. Vous-même enfin lui avez donné, après un temps d’expérience convenable, des statuts définitifs par la promulgation de la Lettre apostolique *[Tredecim anni](/holy_father/john_paul_ii/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni_fr.html)* le 9 août 1982, et n’avez jamais manqué ni de vous tenir au courant de ses travaux, ni de prodiguer à ses membres vos encouragements à l’occasion de leurs réunions annuelles, ce dont nous vous sommes profondément reconnaissants.
+
+Durant ces vingt-cinq années, quatre quinquennats complets se sont donc écoulés, et le cinquième, celui qui nous voit aujourd’hui rassemblés, est en cours. Se sont aussi succédé dans les rangs de la Commission bien des membres, dont beaucoup déjà ont été rappelés à lui par le Seigneur. Parmi les personnes ayant illustré à divers titres notre Commission, beaucoup mériteraient d’être ici mentionnées, en particulier les cardinaux et les évêques choisis parmi ses membres. Par devoir de fidélité, et à cause du rôle particulièrement déterminant qui fut le leur dans l’organisation et la « mise en route » de la Commission, je me limiterai à en mentionner trois, rappelés à lui par le Seigneur : son premier président, le cardinal Franjo Šeper, et ses deux premiers secrétaires généraux, Mgr Gérard Philips et Mgr Philippe Delhaye,
+
+Vingt-cinq années d’existence : voilà bien l’occasion de tenter un bilan, plus encore pour les institutions que pour les personnes. Si l’on considère celui de la Commission théologique internationale, une constatation s’impose : la Commission a beaucoup travaillé ; la Commission, c’est-à-dire concrètement tous ses membres. Individuellement, ils n’ont jamais manqué d’apporter la contribution de leur science, de leur réflexion, de leurs talents, aux divers dicastères du Saint-Siège qui ont fait appel à eux. En groupes restreints, répartis en sous-commissions, ils ont préparé, puis mis au point avec soin, les textes soumis à l’étude collective et autorisée des Assemblées plénières.
+
+C’est ainsi qu’ont vu le jour, entre 1970 et 1991, [seize documents](/roman_curia/congregations/cfaith/cti_documents/rc_cti_index-doc-pubbl_fr.html) consacrés aux secteurs les plus divers, mais toujours actuels, de l’enseignement de l’Église, et dont la simple énumération des titres permet de pressentir l’intérêt : depuis les problèmes de théologie fondamentale ([*Unité de la foi et pluralisme théologique*](/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_fr.html), *[Magistère et théologie](/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_fr.html)*, *Interprétation des dogmes*, *Foi et inculturation*), jusqu’aux questions plus proprement dogmatiques (Christologie, Ecclésiologie, Théologie sacramentaire, Eschatologie), en passant par des réflexions générales ou particulières sur la morale, plus déterminées par les requêtes de l’actualité (Normes de l’éthique chrétienne, *[Promotion de l’homme et salut chrétien](/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_fr.html)*, *[Dignité et droits de la personne humaine](/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_fr.html)*).
+
+Ces documents, comme j’ai cru pouvoir l’écrire en présentant le premier volume qui les rassemble, « constituent une tranche d’histoire de la théologie post-conciliaire, dont l’importance n’a pas encore été reconnue », malgré tant d’efforts pour les faire connaître dans des conditions techniquement ardues, et parfois même peu favorables. Considérant ce Corpus déjà réalisé, pensant aussi aux travaux de ce quinquennat déjà en cours de réalisation sur la théologie de la Rédemption et les rapports entre le christianisme et les religions non chrétiennes, on ne peut que souhaiter que les textes de la Commission connaissent une plus large diffusion. Ce vingt-cinquième anniversaire constitue une occasion favorable pour appeler fortement sur eux l’attention des théologiens et des pasteurs.
+
+Très Saint Père, merci de votre accueil. En vous assurant de notre communion dans la prière et le service de l’Église, nous sollicitons de Votre Sainteté le précieux encouragement de Votre paternelle bénédiction apostolique.
+
+[](#top)

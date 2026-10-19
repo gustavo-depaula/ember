@@ -21,5 +21,3 @@ Occorre dunque che il popolo polacco, nel rendere incessanti grazie a Dio per ta
 *Dato a Roma, presso San Pietro, l’8 settembre, festa della Natività della Beata Vergine Maria, del 1920, anno settimo del Nostro Pontificato*.
 
 **BENEDICTUS PP. XV**
-
-© Copyright - Libreria Editrice Vaticana

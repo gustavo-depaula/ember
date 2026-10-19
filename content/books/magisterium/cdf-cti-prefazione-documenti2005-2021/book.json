@@ -1,0 +1,40 @@
+{
+  "id": "cdf-cti-prefazione-documenti2005-2021",
+  "cover": "quarter",
+  "name": {
+    "it": "Prefazione al II volume di raccolta Documenti 2005-2021"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2022-01-28",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2022-01-28"
+  },
+  "composed": "2022",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20220128_prefazione-documenti2005-2021_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Prefazione al II volume di raccolta Documenti 2005-2021"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cdf-itinerario-antropologia-biblica",
+  "cover": "quarter",
+  "name": {
+    "it": "Presentazione al documento. Che cosa è l’uomo? Un itinerario di antropologia biblica"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2019-09-30",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2019-09-30"
+  },
+  "composed": "2019",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/ladaria-ferrer/documents/rc_con_cfaith_doc_20190930_itinerario-antropologia-biblica_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Presentazione al documento. Che cosa è l’uomo? Un itinerario di antropologia biblica"
+      }
+    }
+  ]
+}

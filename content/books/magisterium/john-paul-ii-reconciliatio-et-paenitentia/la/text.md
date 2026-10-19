@@ -1048,5 +1048,3 @@ in quo de hoc loco paucis exposuimus: *1nsegnamenti* VII, 1 (1984), 683.
 \(206\) Cfr. IOANNES PAULUS PP. II, Sermo habitus in Admissione Generali die 4 Ianuarii 1984: *Insegnamenti*, VII, 1 (1984), 16-18.
 
 \(207\) Cfr. *Rom* 1, 3; 16, 26.
-
-© Copyright 1984 - Libreria Editrice Vaticana

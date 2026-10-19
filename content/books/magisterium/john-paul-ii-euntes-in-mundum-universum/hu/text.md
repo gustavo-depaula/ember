@@ -189,6 +189,4 @@ Jegyzetek
 [\[24\]](#JB24) Redemptoris Mater enc. 50: AAS 79 (1987) 429. old.  
 [\[25\]](#JB25) Uo., 30: AAS 79 (1987), 402. old.  
 
-© Copyright 1988 - Libreria Editrice Vaticana
-
 * *

@@ -51,5 +51,3 @@ Avec ma Bénédiction Apostolique.
 ------------------------------------------------------------------------
 
 \*A.A.S., vol. LXXXII (1990), n. 1, pp. 60-63
-
-© Copyright 1989 - Libreria Editrice Vaticana

@@ -45,5 +45,3 @@ Spiritualmente presente, assicuro la mia preghiera per un fruttuoso svolgimento 
 *Dal Vaticano, 21 settembre 1993.  *
 
 IOANNES PAULUS PP. II
-
-© Copyright 1993 - Libreria Editrice Vaticana

@@ -1,0 +1,48 @@
+{
+  "id": "francis-20220426-motu-proprio-recognitum-librum-vi",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio datae Recognitum Librum VI quibus can. 695 §1, Codicis Iuris Canonici immutatur (die vicesimo sexto mensis Aprilis, anno MMXXII)",
+    "it": "Lettera Apostolica in forma di \"Motu Proprio\" Recognitum Librum VI con la quale si modifica il can. 695 §1, del Codice di Diritto Canonico"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2022-04-26",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2022-04-26"
+  },
+  "composed": "2022",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/20220426-motu-proprio-recognitum-librum-vi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20220426-motu-proprio-recognitum-librum-vi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio datae Recognitum Librum VI quibus can. 695 §1, Codicis Iuris Canonici immutatur (die vicesimo sexto mensis Aprilis, anno MMXXII)",
+        "it": "Lettera Apostolica in forma di \"Motu Proprio\" Recognitum Librum VI con la quale si modifica il can. 695 §1, del Codice di Diritto Canonico"
+      }
+    }
+  ]
+}

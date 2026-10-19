@@ -35,5 +35,3 @@ Lo Spirito Santo, “che è Signore e dà la vita”, ci colmi dei suoi doni e s
 *Dal Vaticano, 19 maggio  - Solennità di Pntecoste -  dell'anno 1991*.
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1991 - Libreria Editrice Vaticana

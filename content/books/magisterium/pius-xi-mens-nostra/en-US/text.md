@@ -138,5 +138,3 @@ Given at St. Peter's Rome, on the twentieth day of December, 1929, the eighth ye
 41\. Luc. II, 14.
 
 42\. Io XIV, 27.
-
-© Copyright - Libreria Editrice Vaticana

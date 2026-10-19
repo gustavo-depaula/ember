@@ -107,5 +107,3 @@ Jegyzetek:
 [\[10\]](#JB10) Vö. [Mulieris dignitatem](/content/john-paul-ii/hu/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html) 29.  
 [\[11\]](#JB11) Vö. ua. 27.  
 [\[12\]](#JB12) 7.p.
-
-© Copyright 1995 - Libreria Editrice Vaticana

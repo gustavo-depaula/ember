@@ -39,5 +39,3 @@ Possa l’esempio, pur lontano nel tempo, del grande Pontefice sostenere i nostr
 *Dal Vaticano, il 29 giugno - solennità dei santi Pietro e Paolo - dell’anno 1990, dodicesimo di pontificato.*
 
 GIOVANNI PAOLO II
-
-© Copyright 1989 - Libreria Editrice Vaticana

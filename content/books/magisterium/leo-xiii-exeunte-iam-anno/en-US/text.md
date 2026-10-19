@@ -91,5 +91,3 @@ REFERENCES:
 21\. I Cor. iii, 22-23.
 
 22\. Cf. S. Aug. in *Ps* 32.
-
-© Copyright 1888 - Libreria Editrice Vaticana

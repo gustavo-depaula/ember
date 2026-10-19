@@ -465,5 +465,3 @@ Vobis omnibus, Fratres ac dilecti Filii, Apostolicam nostram Benedictionem imper
 \(102\) Cfr. *Io*. 17, 11. 21-22.
 
 \(103\) Cfr. *ibid*. 19, 25.
-
-© Copyright 1984 - Libreria Editrice Vaticana

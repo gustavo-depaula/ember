@@ -91,5 +91,3 @@ Ao termo desta mensagem e em conclusão da memorável Visita *ad limina,* resta-
 *Vaticano, 9 de abril de 1986.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1986 - Libreria Editrice Vaticana

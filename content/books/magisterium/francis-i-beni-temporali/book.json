@@ -1,0 +1,56 @@
+{
+  "id": "francis-i-beni-temporali",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued Motu Proprio I beni temporali regarding certain competencies in economic-financial matters",
+    "pt-BR": "Carta Apostólica em forma de Motu Proprio Os bens temporais, sobre as competências em matéria econômico-financeira",
+    "it": "Lettera Apostolica in forma di 'Motu Proprio' I beni temporali, circa alcune competenze in materia economica-finanziaria"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2016-07-04",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2016-07-04"
+  },
+  "composed": "2016",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20160704_i-beni-temporali.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20160704_i-beni-temporali.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20160704_i-beni-temporali.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued Motu Proprio I beni temporali regarding certain competencies in economic-financial matters",
+        "pt-BR": "Carta Apostólica em forma de Motu Proprio Os bens temporais, sobre as competências em matéria econômico-financeira",
+        "it": "Lettera Apostolica in forma di 'Motu Proprio' I beni temporali, circa alcune competenze in materia economica-finanziaria"
+      }
+    }
+  ]
+}

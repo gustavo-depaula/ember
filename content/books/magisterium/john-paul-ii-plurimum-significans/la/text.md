@@ -45,5 +45,3 @@ Longo quamvis tempore remoti exemplar insignis Pontificis nisus nostros conatusq
 *Ex Aedibus Vaticanis die xxix mensis Iunii, in Sollemnitate Sanctorum Petri et Pauli, anno mcmxc, Pontificatus Nostri duodecimo.*  
 
 IOANNES PAULUS PP. II
-
-© Copyright 1989 - Libreria Editrice Vaticana

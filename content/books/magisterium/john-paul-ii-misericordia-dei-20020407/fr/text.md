@@ -142,5 +142,3 @@ JEAN-PAUL II
 (27)Cf. canon 964, § 3.
 
 (28)Cf. canon 964, §2; Conseil pontifical pour l'interprétation des Textes législatifs, Responsa ad propositum dubium: de loco excipiendi sacramentales confessiones (7juillet 1998): AAS 90 (1998), p.711; La Documentation catholique 95 (1998), p.799.
-
-Copyright © Libreria Editrice Vaticana

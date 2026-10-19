@@ -49,5 +49,3 @@ Ugo Card. Poletti
 *Viceregente*
 
 \+ Fiorenzo Angelini, *Ausiliare* + Remigio Ragonesi, *Ausiliare* + Giulio Salimei, *Ausiliare* + Clemente Riva, *Ausiliare* + Filippo Giannini, *Ausiliare* + Alessandro Plotti, *Ausiliare* + Pietro Rossano, *Ausiliare*
-
-© Copyright 1984 -  Libreria Editrice Vaticana

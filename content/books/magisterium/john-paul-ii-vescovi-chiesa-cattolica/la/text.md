@@ -17,5 +17,3 @@ Ceterum vobiscum, Venerabiles ac dilecti Fratres, Quadragesimae coniunctus labor
 *Ex Aedibus Vaticanis, die XXXI mensis Martii, Dominica in Palmis de Passione Domini, anno MDCCCCLXXXV, Pontificatus septimo.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1985 - Libreria Editrice Vaticana

@@ -53,5 +53,3 @@ Denique Benedictionem Apstolicam, caelestium munerum auspicem, tibi, dilecte Fil
 *Datum Romae, apud Sanctum Petrum, die XIV mensis Octobris, anno MCMLXXXI, Pontificatus Nostri tertio.*  
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1981 - Libreria Editrice Vaticana

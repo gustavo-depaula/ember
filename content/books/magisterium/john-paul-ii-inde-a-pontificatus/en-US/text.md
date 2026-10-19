@@ -54,5 +54,3 @@ I hereby ordain that everything established with the present *Motu* *Proprio* sh
 *Given at Rome, at St Peter's Basilica, 25 March 1993, the fifteenth year of my Pontificate.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1993 - Libreria Editrice Vaticana

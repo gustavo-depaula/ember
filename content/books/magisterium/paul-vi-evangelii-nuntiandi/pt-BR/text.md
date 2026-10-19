@@ -894,5 +894,3 @@ Deus me é testemunha de que eu vos amo a todos, com a ternura de Cristo Jesus".
 134\. Cf. Rm 1,16.
 
 135\. Fl 1,3-4.7-8.
-
-© Copyright - Libreria Editrice Vaticana

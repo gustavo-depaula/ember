@@ -98,6 +98,4 @@ In tale fiducia, anche per propiziare su voi, Venerabili Fratelli e Diletti Figl
 
 ------------------------------------------------------------------------
 
-© Copyright 1933 - Libreria Editrice Vaticana
-
 [^1]: \[\] Cfr. *Ioan*., VI, 69.

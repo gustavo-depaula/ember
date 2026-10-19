@@ -83,6 +83,4 @@ Al termine di questo documento che presenta il « [Catechismo della Chiesa Catto
 
 *Dato il giorno 11 ottobre 1992, trentesimo anniversario dell'apertura del Concilio Ecumenico Vaticano II, quattordicesimo anno del mio pontificato.*
 
-© Copyright 1992 - Libreria Editrice Vaticana
-
 * *

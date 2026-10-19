@@ -135,5 +135,3 @@ REFERENCES: 
 33\. Ps. 152:11.
 
 34\. Isa. 37:18.
-
-© Copyright 1881 - Libreria Editrice Vaticana

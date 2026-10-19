@@ -830,6 +830,4 @@ Mit meinem apostolischen Segen!
 
 \[138\] *Mt* 28, 19.
 
-© Copyright 1979 - Libreria Editrice Vaticana
-
 * *

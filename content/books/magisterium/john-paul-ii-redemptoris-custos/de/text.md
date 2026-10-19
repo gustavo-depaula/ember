@@ -338,5 +338,3 @@ Der hl. Josef erwirke für die Kirche und für die Welt sowie für jeden von uns
 \(49\) Vgl. LEO XII., »Oratio ad Sanctum Iosephum«, unmittelbar nach dem Text der Enzyklika *Quamquam pluries* (15. August 1889): *Leonis XIII P.M. Acta,* IX (1890), S. 183.
 
 \(50\) RITENKONGREGATION, Dekret *Quemadmodum Deus* (8. Dezember 1870): *a.a.O.,* S. 282.
-
-© Copyright 1989 - Libreria Editrice Vaticana

@@ -1,0 +1,48 @@
+{
+  "id": "cdf-fernandez-madre-evangelizzazione",
+  "cover": "quarter",
+  "name": {
+    "es": "La Madre de la evangelización. ¿Por qué María es la primera evangelizadora? Conferencia en el Encuentro con sacerdotes, religiosas y seminaristas latinoamericanos que estudian en Roma",
+    "it": "La Madre dell’evangelizzazione. Perché Maria è la prima evangelizzatrice? Conferenza per l’incontro con sacerdoti, religiose e seminaristi latinoamericani che studiano a Roma"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2025-12-12",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2025-12-12"
+  },
+  "composed": "2025",
+  "languages": [
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20251212_fernandez-madre-evangelizzazione_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20251212_fernandez-madre-evangelizzazione_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "La Madre de la evangelización. ¿Por qué María es la primera evangelizadora? Conferencia en el Encuentro con sacerdotes, religiosas y seminaristas latinoamericanos que estudian en Roma",
+        "it": "La Madre dell’evangelizzazione. Perché Maria è la prima evangelizzatrice? Conferenza per l’incontro con sacerdoti, religiose e seminaristi latinoamericani che studiano a Roma"
+      }
+    }
+  ]
+}

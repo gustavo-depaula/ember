@@ -120,5 +120,3 @@ His ergo animi Nostri sensibus patefactis, vobis, Venerabiles Fratres ac dilecti
 *Datum Romae, apud Sanctum Petrum, die XXIX mensis Aprilis, in memoria Sanctae Catharinae Senensis, Virginis et Ecclesiae Doctoris, anno MCMLXXX, Pontificatus Nostri secundo.*
 
 IOANNES PAULUS PP. II
-
-Copyright 1980 © Libreria Editrice Vaticana

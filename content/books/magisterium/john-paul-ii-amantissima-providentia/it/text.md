@@ -113,6 +113,4 @@ Con tali sentimenti nostro animo, a voi, venerabili fratelli e figli diletti d'I
 
 GIOVANNI PAOLO II
 
-Copyright 1980 © Libreria Editrice Vaticana
-
 * *

@@ -77,5 +77,3 @@ Omnes ergo filios dilectos hortamur, ut significata praecepta animo sincero ac p
 **IOANNES PAULUS PP. II**
 
 **   **
-
-© Copyright 1983 - Libreria Editrice Vaticana

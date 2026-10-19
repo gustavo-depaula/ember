@@ -42,5 +42,3 @@ But a short time ago, as you well know, We, by letters apostolic, and following 
 *Given in Rome at St. Peter's on the 25th day of May, 1899, the twenty-second year of Our Pontificate.*
 
 **LEO XIII**
-
-© Copyright 1899 - Libreria Editrice Vaticana

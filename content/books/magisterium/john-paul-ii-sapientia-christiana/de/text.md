@@ -991,5 +991,3 @@ Zur Beachtung - Den einzelnen Studiensektoren, die hier in alphabetischer Reihen
 26\. Studium der Spiritualität (Sektion für Spezialisierung an der theologischen Fakultät).
 
 27\. Studium der Theologie des Ordenslebens (Sektion für Spezialisierung an der theologischen Fakultät).
-
-© Copyright 1979 - Libreria Editrice Vaticana

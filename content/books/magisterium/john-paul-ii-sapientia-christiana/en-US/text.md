@@ -948,5 +948,3 @@ Note: These individual study Sectors are listed alphabetically (according to the
 
 1.  See the Ecumenical Directory, Second Part: AAS 62 (1970), pp. 705ff.
 2.  The Second Vatican Ecumenical Council, Decree on Priestly Formation Optatam Totius, 13: AAS 58 (1966), p. 721 and the Chirograph of Pope **Paul** VI Romani Sermonis: AAS 68 (1976), pp. 481ff.
-
-© Copyright 1979 - Libreria Editrice Vaticana

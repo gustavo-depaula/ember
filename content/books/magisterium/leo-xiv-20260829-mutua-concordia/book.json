@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiv-20260829-mutua-concordia",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio datae Mutua Concordia Summi Pontificis Leonis PP. XIV quibus canones 106 et 126 Codicis Canonum Ecclesiarum Orientalium immutantur (die XXIX mensis Augusti, anno MMXXVI)",
+    "it": "Lettera Apostolica in forma di “Motu Proprio” Mutua Concordia del Sommo Pontefice Leone XIV con la quale vengono modificati i Canoni 106 e 126 del Codex Canonum Ecclesiarum Orientalium"
+  },
+  "author": {
+    "en-US": "Pope Leo XIV",
+    "pt-BR": "Papa Leão XIV",
+    "la": "Leo PP. XIV"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIV · 2026-08-29",
+    "pt-BR": "Carta Apostólica · Papa Leão XIV · 2026-08-29"
+  },
+  "composed": "2026",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiv/la/apost_letters/documents/20260829-mutua-concordia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiv/it/apost_letters/documents/20260829-mutua-concordia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio datae Mutua Concordia Summi Pontificis Leonis PP. XIV quibus canones 106 et 126 Codicis Canonum Ecclesiarum Orientalium immutantur (die XXIX mensis Augusti, anno MMXXVI)",
+        "it": "Lettera Apostolica in forma di “Motu Proprio” Mutua Concordia del Sommo Pontefice Leone XIV con la quale vengono modificati i Canoni 106 e 126 del Codex Canonum Ecclesiarum Orientalium"
+      }
+    }
+  ]
+}

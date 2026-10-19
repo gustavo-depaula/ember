@@ -1,0 +1,96 @@
+{
+  "id": "cdf-cti-sinodalita",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Synodality in the life and mission of the Church",
+    "pt-BR": "A sinodalidade na vida e na missão da Igreja",
+    "de": "Die Synodalität in Leben und Sendung der Kirche",
+    "es": "La sinodalidad en la vida y en la misión de la Iglesia",
+    "fr": "La synodalité dans la vie et dans la mission de l’Église",
+    "it": "La sinodalità nella vita e nella missione della Chiesa",
+    "ko": "Sinodality in \n\t\t\tthe life and mission of the Church",
+    "ru": "Sinodality in \n\t\t\tthe life and mission of the Church"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2018-03-02",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2018-03-02"
+  },
+  "composed": "2018",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "ko",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20180302_sinodalita_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20180302_sinodalita_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20180302_sinodalita_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20180302_sinodalita_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20180302_sinodalita_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20180302_sinodalita_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ko",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20180302_sinodalita_ko.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20180302_sinodalita_ru.pdf",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Synodality in the life and mission of the Church",
+        "pt-BR": "A sinodalidade na vida e na missão da Igreja",
+        "de": "Die Synodalität in Leben und Sendung der Kirche",
+        "es": "La sinodalidad en la vida y en la misión de la Iglesia",
+        "fr": "La synodalité dans la vie et dans la mission de l’Église",
+        "it": "La sinodalità nella vita e nella missione della Chiesa",
+        "ko": "Sinodality in \n\t\t\tthe life and mission of the Church",
+        "ru": "Sinodality in \n\t\t\tthe life and mission of the Church"
+      }
+    }
+  ]
+}

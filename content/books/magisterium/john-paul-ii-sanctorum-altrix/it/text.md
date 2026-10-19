@@ -144,6 +144,4 @@ A voi infine, diletti figli, e alle famiglie monastiche che sono in qualunque mo
 
 GIOVANNI PAOLO II  
 
-Copyright 1980 © Libreria Editrice Vaticana
-
    * *

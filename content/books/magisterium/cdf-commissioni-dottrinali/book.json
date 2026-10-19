@@ -1,0 +1,48 @@
+{
+  "id": "cdf-commissioni-dottrinali",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Role and Functions of Doctrinal Commissions - Card. Luis F. Ladaria, S.J., Prefect of the Congregation for the Doctrine of the Faith",
+    "it": "Il ruolo e le funzioni delle Commissioni dottrinali"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2019-01-15",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2019-01-15"
+  },
+  "composed": "2019",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/ladaria-ferrer/documents/rc_con_cfaith_doc_20190115_commissioni-dottrinali_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/ladaria-ferrer/documents/rc_con_cfaith_doc_20190115_commissioni-dottrinali_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Role and Functions of Doctrinal Commissions - Card. Luis F. Ladaria, S.J., Prefect of the Congregation for the Doctrine of the Faith",
+        "it": "Il ruolo e le funzioni delle Commissioni dottrinali"
+      }
+    }
+  ]
+}

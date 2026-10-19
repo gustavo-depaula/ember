@@ -847,5 +847,3 @@ Tekst zatwierdzony przez 172 Konferencję Episkopatu dnia 28 lutego 1980 roku w 
 ^(137.) Por. *Sermo* 25, 7: PL. 46, 937-938.
 
 ^(138.) Mt 28, 19.
-
-© Copyright 1979 - Libreria Editrice Vaticana

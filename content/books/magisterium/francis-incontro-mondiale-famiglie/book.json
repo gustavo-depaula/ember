@@ -1,0 +1,80 @@
+{
+  "id": "francis-incontro-mondiale-famiglie",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter of the Holy Father for the 8th World Meeting of Families [Philadelphia, 22-27 September 2015]",
+    "pt-BR": "Carta do Santo Padre para o VIII Encontro Mundial das Famílias [Filadélfia, 22-27 de setembro de 2015]",
+    "es": "Carta del Santo Padre para el VIII Encuentro Mundial de las Familias [Filadelfia, 22-27 de septiembre de 2015]",
+    "fr": "Lettre du Saint-Père au Prédient du Conseil pontifical pour la famille pour la VIIIe Rencontre mondiale des familles [Philadelphia, 22-27 septembre 2015]",
+    "it": "Lettera del Santo Padre al Presidente del Pontificio Consiglio per la Famiglia per l'VIII Incontro Mondiale delle Famiglie [Philadelphia, 22-27 settembre 2015]",
+    "pl": "Przesłanie Papieża Franciszka na VIII Światowe Spotkanie Rodzin w Filadelfii w Stanach Zjednoczonych Ameryki w dniach 22-27 września 2015 r."
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2014-12-10",
+    "pt-BR": "Carta · Papa Francisco · 2014-12-10"
+  },
+  "composed": "2014",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/letters/2014/documents/papa-francesco_20141210_lettera-incontro-mondiale-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/letters/2014/documents/papa-francesco_20141210_lettera-incontro-mondiale-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/letters/2014/documents/papa-francesco_20141210_lettera-incontro-mondiale-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/letters/2014/documents/papa-francesco_20141210_lettera-incontro-mondiale-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2014/documents/papa-francesco_20141210_lettera-incontro-mondiale-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/letters/2014/documents/papa-francesco_20141210_lettera-incontro-mondiale-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter of the Holy Father for the 8th World Meeting of Families [Philadelphia, 22-27 September 2015]",
+        "pt-BR": "Carta do Santo Padre para o VIII Encontro Mundial das Famílias [Filadélfia, 22-27 de setembro de 2015]",
+        "es": "Carta del Santo Padre para el VIII Encuentro Mundial de las Familias [Filadelfia, 22-27 de septiembre de 2015]",
+        "fr": "Lettre du Saint-Père au Prédient du Conseil pontifical pour la famille pour la VIIIe Rencontre mondiale des familles [Philadelphia, 22-27 septembre 2015]",
+        "it": "Lettera del Santo Padre al Presidente del Pontificio Consiglio per la Famiglia per l'VIII Incontro Mondiale delle Famiglie [Philadelphia, 22-27 settembre 2015]",
+        "pl": "Przesłanie Papieża Franciszka na VIII Światowe Spotkanie Rodzin w Filadelfii w Stanach Zjednoczonych Ameryki w dniach 22-27 września 2015 r."
+      }
+    }
+  ]
+}

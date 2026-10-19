@@ -23,5 +23,3 @@ Junto con vuestros dos cardenales y vuestros obispos imparto mi bendición pasto
 *Vaticano, en la fiesta de la Manifestación del Señor, 6 de enero de 1980.*
 
 **IOANNES PAULUS PP. II**
-
- © Copyright 1980 - Libreria Editrice Vaticana

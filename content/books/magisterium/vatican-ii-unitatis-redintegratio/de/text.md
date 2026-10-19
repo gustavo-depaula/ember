@@ -1,3 +1,239 @@
 # Unitatis redintegratio
 
-[TABLE]
+[](/index.htm)
+
+[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
+
+[](javascript:history.go(-1))
+
+[](javascript:up())
+
+[](#)
+
+------------------------------------------------------------------------
+
+DEKRET  
+***UNITATIS REDINTEGRATIO***  
+ÜBER DEN ÖKUMENISMUS
+
+**VORWORT**
+
+1\. Die Einheit aller Christen wiederherstellen zu helfen ist eine der Hauptaufgaben des Heiligen Ökumenischen Zweiten Vatikanischen Konzils. Denn Christus der Herr hat eine einige und einzige Kirche gegründet, und doch erheben mehrere christliche Gemeinschaften vor den Menschen den Anspruch, das wahre Erbe Jesu Christi darzustellen; sie alle bekennen sich als Jünger des Herrn, aber sie weichen in ihrem Denken voneinander ab und gehen verschiedene Wege, als ob Christus selber geteilt wäre (1). Eine solche Spaltung widerspricht aber ganz offenbar dem Willen Christi, sie ist ein Ärgernis für die Welt und ein Schaden für die heilige Sache der Verkündigung des Evangeliums vor allen Geschöpfen.
+
+Der Herr der Geschichte aber, der seinen Gnadenplan mit uns Sündern in Weisheit und Langmut verfolgt, hat in jüngster Zeit begonnen, über die gespaltene Christenheit ernste Reue und Sehnsucht nach Einheit reichlicher auszugießen. Von dieser Gnade sind heute überall sehr viele Menschen ergriffen, und auch unter unsern getrennten Brüdern ist unter der Einwirkung der Gnade des Heiligen Geistes eine sich von Tag zu Tag ausbreitende Bewegung zur Wiederherstellung der Einheit aller Christen entstanden. Diese Einheitsbewegung, die man als ökumenische Bewegung bezeichnet, wird von Menschen getragen, die den dreieinigen Gott anrufen und Jesus als Herrn und Erlöser bekennen, und zwar nicht nur einzeln für sich, sondern auch in ihren Gemeinschaften, in denen sie die frohe Botschaft vernommen haben und die sie ihre Kirche und Gottes Kirche nennen. Fast alle streben, wenn auch auf verschiedene Weise, zu einer einen, sichtbaren Kirche Gottes hin, die in Wahrheit allumfassend und zur ganzen Welt gesandt ist, damit sich die Welt zum Evangelium bekehre und so ihr Heil finde zur Ehre Gottes.
+
+Dies alles erwägt die Heilige Synode freudigen Herzens und, nachdem sie die Lehre von der Kirche dargestellt hat, möchte sie, bewegt von dem Wunsch nach der Wiederherstellung der Einheit unter allen Jüngern Christi, allen Katholiken die Mittel und Wege nennen und die Weise aufzeigen, wie sie selber diesem göttlichen Ruf und dieser Gnade Gottes entsprechen können.
+
+**I. KAPITEL**
+
+**DIE KATHOLISCHEN PRINZIPIEN DES ÖKUMENISMUS**
+
+2\. Darin ist unter uns die Liebe Gottes erschienen, daß der eingeborene Sohn Gottes vom Vater in die Welt gesandt wurde, damit er, Mensch geworden, das ganze Menschengeschlecht durch die Erlösung zur Wiedergeburt führe und in eins versammle (2). Bevor er sich selbst auf dem Altar des Kreuzes als makellose Opfergabe darbrachte, hat er für alle, die an ihn glauben, zum Vater gebetet, "daß alle eins seien, wie Du, Vater, in mir, und ich in Dir, daß auch sie in uns eins seien: damit die Welt glaubt, daß Du mich gesandt hast" (*Joh* 17,21), und er hat in seiner Kirche das wunderbare Sakrament der Eucharistie gestiftet, durch das die Einheit der Kirche bezeichnet und bewirkt wird. Seinen Jüngern hat er das neue Gebot der gegenseitigen Liebe gegeben (3) und den Geist, den Beistand, verheißen (4), der als Herr und Lebensspender in Ewigkeit bei ihnen bleiben sollte.
+
+Nachdem der Herr Jesus am Kreuze erhöht und verherrlicht war, hat er den verheißenen Geist ausgegossen, durch den er das Volk des Neuen Bundes, das die Kirche ist, zur Einheit des Glaubens, der Hoffnung und der Liebe berufen und versammelt, wie uns der Apostel lehrt: "Ein Leib und ein Geist, wie ihr berufen seid in einer Hoffnung eurer Berufung. Ein Herr, ein Glaube, eine Taufe" (*Eph* 4,4-5). Denn "ihr alle, die ihr auf Christus getauft seid, habt Christus angezogen ... Ihr alle seid ja einer in Christus Jesus" (*Gal* 3,27-28). Der Heilige Geist, der in den Gläubigen wohnt und die ganze Kirche leitet und regiert, schafft diese wunderbare Gemeinschaft der Gläubigen und verbindet sie in Christus so innig, daß er das Prinzip der Einheit der Kirche ist. Er selbst wirkt die Verschiedenheit der Gaben und Dienste (5), indem er die Kirche Jesu Christi mit mannigfaltigen Gaben bereichert "zur Vollendung der Heiligen im Werk des Dienstes, zum Aufbau des Leibes Christi" (*Eph* 4,12).
+
+Um nun diese seine heilige Kirche überall auf Erden bis zum Ende der Zeiten fest zu begründen, hat Christus das Amt der Lehre, der Leitung und der Heiligung dem Kollegium der Zwölf anvertraut (6). Unter ihnen hat er den Petrus ausgewählt, auf dem er nach dem Bekenntnis des Glaubens seine Kirche zu bauen beschlossen hat; ihm hat er die Schlüssel des Himmelreiches verheißen (7) und nach dessen Liebesbekenntnis alle Schafe anvertraut, damit er sie im Glauben stärken (8) und in vollkommener Einheit weiden solle (9), wobei Christus Jesus selbst der höchste Eckstein (10) und der Hirt unserer Seelen (11) in Ewigkeit bleibt.
+
+Jesus Christus will, daß sein Volk durch die gläubige Predigt des Evangeliums und die Verwaltung der Sakramente durch die Apostel und durch ihre Nachfolger, die Bischöfe mit dem Nachfolger Petri als Haupt, sowie durch ihre Leitung in Liebe unter der Wirksamkeit des Heiligen Geistes wachse, und er vollendet seine Gemeinschaft in der Einheit: im Bekenntnis des einen Glaubens, in der gemeinsamen Feier des Gottesdienstes und in der brüderlichen Eintracht der Familie Gottes. So ist die Kirche, Gottes alleinige Herde, wie ein unter den Völkern erhobenes Zeichen (12). Indem sie dem ganzen Menschengeschlecht den Dienst des Evangeliums des Friedens leistet (13), pilgert sie in Hoffnung dem Ziel des ewigen Vaterlandes entgegen (14).
+
+Dies ist das heilige Geheimnis der Einheit der Kirche in Christus und durch Christus, indes der Heilige Geist die Mannigfaltigkeit der Gaben schafft. Höchstes Vorbild und Urbild dieses Geheimnisses ist die Einheit des einen Gottes, des Vaters und des Sohnes im Heiligen Geist in der Dreiheit der Personen.
+
+3\. In dieser einen und einzigen Kirche Gottes sind schon von den ersten Zeiten an Spaltungen entstanden (15), die der Apostel aufs schwerste tadelt und verurteilt (16); in den späteren Jahrhunderten aber sind ausgedehntere Verfeindungen entstanden, und es kam zur Trennung recht großer Gemeinschaften von der vollen Gemeinschaft der katholischen Kirche, oft nicht ohne Schuld der Menschen auf beiden Seiten. Den Menschen jedoch, die jetzt in solchen Gemeinschaften geboren sind und in ihnen den Glauben an Christus erlangen, darf die Schuld der Trennung nicht zur Last gelegt werden - die katholische Kirche betrachtet sie als Brüder, in Verehrung und Liebe. Denn wer an Christus glaubt und in der rechten Weise die Taufe empfangen hat, steht dadurch in einer gewissen, wenn auch nicht vollkommenen Gemeinschaft mit der katholischen Kirche. Da es zwischen ihnen und der katholischen Kirche sowohl in der Lehre und bisweilen auch in der Disziplin wie auch bezüglich der Struktur der Kirche Diskrepanzen verschiedener Art gibt, so stehen sicherlich nicht wenige Hindernisse der vollen kirchlichen Gemeinschaft entgegen, bisweilen recht schwerwiegende, um deren Überwindung die ökumenische Bewegung bemüht ist. Nichtsdestoweniger sind sie durch den Glauben in der Taufe gerechtfertigt und Christus eingegliedert (17), darum gebührt ihnen der Ehrenname des Christen, und mit Recht werden sie von den Söhnen der katholischen Kirche als Brüder im Herrn anerkannt (18).
+
+Hinzu kommt, daß einige, ja sogar viele und bedeutende Elemente oder Güter, aus denen insgesamt die Kirche erbaut wird und ihr Leben gewinnt, auch außerhalb der sichtbaren Grenzen der katholischen Kirche existieren können: das geschriebene Wort Gottes, das Leben der Gnade, Glaube, Hoffnung und Liebe und andere innere Gaben des Heiligen Geistes und sichtbare Elemente: all dieses, das von Christus ausgeht und zu ihm hinführt, gehört rechtens zu der einzigen Kirche Christi.
+
+Auch zahlreiche liturgische Handlungen der christlichen Religion werden bei den von uns getrennten Brüdern vollzogen, die auf verschiedene Weise je nach der verschiedenen Verfaßtheit einer jeden Kirche und Gemeinschaft ohne Zweifel tatsächlich das Leben der Gnade zeugen können und als geeignete Mittel für den Zutritt zur Gemeinschaft des Heiles angesehen werden müssen.
+
+Ebenso sind diese getrennten Kirchen (19) und Gemeinschaften trotz der Mängel, die ihnen nach unserem Glauben anhaften, nicht ohne Bedeutung und Gewicht im Geheimnis des Heiles. Denn der Geist Christi hat sich gewürdigt, sie als Mittel des Heiles zu gebrauchen, deren Wirksamkeit sich von der der katholischen Kirche anvertrauten Fülle der Gnade und Wahrheit herleitet.
+
+Dennoch erfreuen sich die von uns getrennten Brüder, sowohl als einzelne wie auch als Gemeinschaften und Kirchen betrachtet, nicht jener Einheit, die Jesus Christus all denen schenken wollte, die er zu einem Leibe und zur Neuheit des Lebens wiedergeboren und lebendig gemacht hat, jener Einheit, die die Heilige Schrift und die verehrungswürdige Tradition der Kirche bekennt. Denn nur durch die katholische Kirche Christi, die das allgemeine Hilfsmittel des Heiles ist, kann man Zutritt zu der ganzen Fülle der Heilsmittel haben. Denn einzig dem Apostelkollegium, an dessen Spitze Petrus steht, hat der Herr, so glauben wir, alle Güter des Neuen Bundes anvertraut, um den einen Leib Christi auf Erden zu konstituieren, welchem alle völlig eingegliedert werden müssen, die schon auf irgendeine Weise zum Volke Gottes gehören. Dieses Volk Gottes bleibt zwar während seiner irdischen Pilgerschaft in seinen Gliedern der Sünde ausgesetzt, aber es wächst in Christus und wird von Gott nach seinem geheimnisvollen Ratschluß sanft geleitet, bis es zur ganzen Fülle der ewigen Herrlichkeit im himmlischen Jerusalem freudig gelangt.
+
+4\. Unter dem Wehen der Gnade des Heiligen Geistes gibt es heute in vielen Ländern auf Erden Bestrebungen, durch Gebet, Wort und Werk zu jener Fülle der Einheit zu gelangen, die Jesus Christus will. Daher mahnt dieses Heilige Konzil alle katholischen Gläubigen, daß sie, die Zeichen der Zeit erkennend, mit Eifer an dem ökumenischen Werk teilnehmen.
+
+Unter der "Ökumenischen Bewegung'' versteht man Tätigkeiten und Unternehmungen, die je nach den verschiedenartigen Bedürfnissen der Kirche und nach Möglichkeit der Zeitverhältnisse zur Förderung der Einheit der Christen ins Leben gerufen und auf dieses Ziel ausgerichtet sind. Dazu gehört: Zunächst alles Bemühen zur Ausmerzung aller Worte, Urteile und Taten, die der Lage der getrennten Brüder nach Gerechtigkeit und Wahrheit nicht entsprechen und dadurch die gegenseitigen Beziehungen mit ihnen erschweren; ferner der "Dialog", der bei Zusammenkünften der Christen aus verschiedenen Kirchen oder Gemeinschaften, die vom Geist der Frömmigkeit bestimmt sind, von wohlunterrichteten Sachverständigen geführt wird, wobei ein jeder die Lehre seiner Gemeinschaft tiefer und genauer erklärt, so daß das Charakteristische daran deutlich hervortritt. Durch diesen Dialog erwerben alle eine bessere Kenntnis der Lehre und des Lebens jeder von beiden Gemeinschaften und eine gerechtere Würdigung derselben. Von hier aus gelangen diese Gemeinschaften auch zu einer stärkeren Zusammenarbeit in den Aufgaben des Gemeinwohls, die jedes christliche Gewissen fordert, und sie kommen, wo es erlaubt ist, zum gemeinsamen Gebet zusammen. Schließlich prüfen hierbei alle ihre Treue gegenüber dem Willen Christi hinsichtlich der Kirche und gehen tatkräftig ans Werk der notwendigen Erneuerung und Reform.
+
+Wenn dies alles von den Gläubigen der katholischen Kirche unter der Aufsicht ihrer Hirten mit Klugheit und Geduld vollzogen wird, trägt es zur Verwirklichung der Gerechtigkeit und Wahrheit, Eintracht und Zusammenarbeit, der brüderlichen Liebe und Einheit bei, so daß dadurch allmählich die Hindernisse, die sich der völligen kirchlichen Gemeinschaft entgegenstellen, überwunden und alle Christen zur selben Eucharistiefeier, zur Einheit der einen und einzigen Kirche versammelt werden, die Christus seiner Kirche von Anfang an geschenkt hat, eine Einheit, die nach unserem Glauben unverlierbar in der katholischen Kirche besteht, und die, wie wir hoffen, immer mehr wachsen wird bis zur Vollendung der Zeiten.
+
+Es ist klar, daß die Vorbereitung und die Wiederaufnahme solcher Einzelner, die die volle katholische Gemeinschaft wünschen, ihrer Natur nach etwas von dem ökumenischen Werk Verschiedenes ist; es besteht jedoch kein Gegensatz zwischen ihnen, da beides aus dem wunderbaren Ratschluß Gottes hervorgeht.
+
+Ohne Zweifel müssen die katholischen Gläubigen bei ihrer ökumenischen Aktion um die getrennten Christen besorgt sein, indem sie für sie beten, sich über kirchliche Angelegenheiten mit ihnen austauschen, den ersten Schritt zu ihnen tun. Aber in erster Linie sollen sie doch ehrlich und eifrig ihr Nachdenken darauf richten, was in der eigenen katholischen Familie zu erneuern und was zu tun ist, damit ihr Leben mit mehr Treue und Klarheit für die Lehre und die Einrichtungen Zeugnis gebe, die ihnen von Christus her durch die Apostel überkommen sind.
+
+Obgleich nämlich die katholische Kirche mit dem ganzen Reichtum der von Gott geoffenbarten Wahrheit und der Gnadenmittel beschenkt ist, ist es doch Tatsache, daß ihre Glieder nicht mit der entsprechenden Glut daraus leben, so daß das Antlitz der Kirche den von uns getrennten Brüdern und der ganzen Welt nicht recht aufleuchtet und das Wachstum des Reiches Gottes verzögert wird. Deshalb müssen alle Katholiken zur christlichen Vollkommenheit streben (20) und, ihrer jeweiligen Stellung entsprechend, bemüht sein, daß die Kirche, die die Niedrigkeit und das Todesleiden Christi an ihrem Leibe trägt (21), von Tag zu Tag geläutert und erneuert werde, bis Christus sie sich dereinst glorreich darstellt, ohne Makel und Runzeln (22).
+
+Alle in der Kirche sollen unter Wahrung der Einheit im Notwendigen je nach der Aufgabe eines jeden in den verschiedenen Formen des geistlichen Lebens und der äußeren Lebensgestaltung, in der Verschiedenheit der liturgischen Riten sowie der theologischen Ausarbeitung der Offenbarungswahrheit die gebührende Freiheit walten lassen, in allem aber die Liebe üben. Auf diese Weise werden sie die wahre Katholizität und Apostolizität der Kirche immer vollständiger zum Ausdruck bringen.
+
+Auf der anderen Seite ist es notwendig, daß die Katholiken die wahrhaft christlichen Güter aus dem gemeinsamen Erbe mit Freude anerkennen und hochschätzen, die sich bei den von uns getrennten Brüdern finden. Es ist billig und heilsam, die Reichtümer Christi und das Wirken der Geisteskräfte im Leben der anderen anzuerkennen, die für Christus Zeugnis geben, manchmal bis zur Hingabe des Lebens: Denn Gott ist immer wunderbar und bewunderungswürdig in seinen Werken.
+
+Man darf auch nicht übergehen, daß alles, was von der Gnade des Heiligen Geistes in den Herzen der getrennten Brüder gewirkt wird, auch zu unserer eigenen Auferbauung beitragen kann. Denn was wahrhaft christlich ist, steht niemals im Gegensatz zu den echten Gütern des Glaubens, sondern kann immer dazu helfen, daß das Geheimnis Christi und der Kirche vollkommener erfaßt werde.
+
+Aber gerade die Spaltungen der Christen sind für die Kirche ein Hindernis, daß sie die ihr eigene Fülle der Katholizität in jenen Söhnen wirksam werden läßt, die ihr zwar durch die Taufe zugehören, aber von ihrer völligen Gemeinschaft getrennt sind. Ja, es wird dadurch auch für die Kirche selber schwieriger, die Fülle der Katholizität unter jedem Aspekt in der Wirklichkeit des Lebens auszuprägen.
+
+Mit Freude bemerkt das Heilige Konzil, daß die Teilnahme der katholischen Gläubigen am ökumenischen Werk von Tag zu Tag wächst, und empfiehlt sie den Bischöfen auf dem ganzen Erdkreis, daß sie von ihnen eifrig gefördert und mit Klugheit geleitet werde.
+
+**II. KAPITEL**
+
+**DIE PRAKTISCHE VERWIRKLICHUNG DES ÖKUMENISMUS**
+
+5\. Die Sorge um die Wiederherstellung der Einheit ist Sache der ganzen Kirche, sowohl der Gläubigen wie auch der Hirten, und geht einen jeden an, je nach seiner Fähigkeit, sowohl in seinem täglichen christlichen Leben wie auch bei theologischen und historischen Untersuchungen. Diese Sorge macht schon einigermaßen deutlich, daß eine brüderliche Verbindung zwischen allen Christen schon vorhanden ist; sie ist es, die schließlich nach dem gnädigen Willen Gottes zur vollen und vollkommenen Einheit hinführt.
+
+6\. Jede Erneuerung der Kirche (23) besteht wesentlich im Wachstum der Treue gegenüber ihrer eigenen Berufung, und so ist ohne Zweifel hierin der Sinn der Bewegung in Richtung auf die Einheit zu sehen. Die Kirche wird auf dem Wege ihrer Pilgerschaft von Christus zu dieser dauernden Reform gerufen, deren sie allzeit bedarf, soweit sie menschliche und irdische Einrichtung ist; was also etwa je nach den Umständen und Zeitverhältnissen im sittlichen Leben, in der Kirchenzucht oder auch in der Art der Lehrverkündigung - die von dem Glaubensschatz selbst genau unterschieden werden muß - nicht genau genug bewahrt worden ist, muß deshalb zu gegebener Zeit sachgerecht und pflichtgemäß erneuert werden. Dieser Erneuerung kommt also eine besondere ökumenische Bedeutung zu. Und so sind die verschiedenen Lebensäußerungen der Kirche, in denen diese Erneuerung sich schon verwirklicht - wie etwa die biblische und die liturgische Bewegung, die Predigt des Wortes Gottes und die Katechese, das Laienapostolat, neue Formen des gottgeweihten Lebens, die Spiritualität der Ehe, die Lehre und Wirksamkeit der Kirche im sozialen Bereich - als Unterpfand und als gute Vorbedeutung zu sehen, die den künftigen Fortschritt des Ökumenismus schon verheißungsvoll ankündigen.
+
+7\. Es gibt keinen echten Ökumenismus ohne innere Bekehrung. Denn aus dem Neuwerden des Geistes (24), aus der Selbstverleugnung und aus dem freien Strömen der Liebe erwächst und reift das Verlangen nach der Einheit. Deshalb müssen wir vom göttlichen Geiste die Gnade aufrichtiger Selbstverleugnung, der Demut und des geduldigen Dienstes sowie der brüderlichen Herzensgüte zueinander erflehen. Der Völkerapostel sagt: "So ermahne ich euch denn, ich der Gefangene im Herrn, wandelt würdig der Berufung, zu der ihr berufen seid, mit aller Demut und Sanftmut, ertraget einander geduldig in Liebe; bestrebt euch, die Einheit des Geistes zu bewahren durch das Band des Friedens" (*Eph* 4,1-3). Diese Mahnung gilt besonders denen, die die heiligen Weihen empfangen haben, damit die Sendung Christi, der zu uns kam, "nicht um bedient zu werden. sondern um zu dienen" (*Mt* 20,28), ihre Fortsetzung finde.
+
+Auch von den Sünden gegen die Einheit gilt das Zeugnis des heiligen Johannes: "Wenn wir sagen, wir hätten nicht gesündigt. so machen wir ihn zum Lügner, und sein Wort ist nicht in uns" (1 *Joh* 1,10). In Demut bitten wir also Gott und die getrennten Brüder um Verzeihung, wie auch wir unseren Schuldigern vergeben.
+
+Alle Christgläubigen sollen sich bewußt sein, daß sie die Einheit der Christen um so besser fördern, ja sogar einüben, je mehr sie nach einem reinen Leben gemäß dem Evangelium streben. Je inniger die Gemeinschaft ist, die sie mit dem Vater, dem Wort und dem Geist vereint, um so inniger und leichter werden sie imstande sein, die gegenseitige Brüderlichkeit zu vertiefen.
+
+8\. Diese Bekehrung des Herzens und die Heiligkeit des Lebens ist in Verbindung mit dem privaten und öffentlichen Gebet für die Einheit der Christen als die Seele der ganzen ökumenischen Bewegung anzusehen; sie kann mit Recht geistlicher Ökumenismus genannt werden.
+
+Es ist unter Katholiken schon üblich geworden, daß sie häufig zu diesem Gebet für die Einheit der Kirche zusammenkommen, die der Heiland selbst am Vorabend seines Todes vom Vater inständig erfleht hat: "Daß alle eins seien" (*Joh* 17,21).
+
+Bei besonderen Anlässen, zum Beispiel bei Gebeten, die "für die Einheit" verrichtet werden, und bei ökumenischen Versammlungen, ist es erlaubt und auch erwünscht, daß sich die Katholiken mit den getrennten Brüdern im Gebet zusammenfinden. Solche gemeinsamen Gebete sind ein höchst wirksames Mittel, um die Gnade der Einheit zu erflehen, und ein echter Ausdruck der Gemeinsamkeit, in der die Katholiken mit den getrennten Brüdern immer noch verbunden sind: "Denn wo zwei oder drei versammelt sind in meinem Namen, da bin ich mitten unter ihnen" (*Mt* 18,20).
+
+Man darf jedoch die Gemeinschaft beim Gottesdienst (communicatio in sacris) nicht als ein allgemein und ohne Unterscheidung gültiges Mittel zur Wiederherstellung der Einheit der Christen ansehen. Hier sind hauptsächlich zwei Prinzipien maßgebend: die Bezeugung der Einheit der Kirche und die Teilnahme an den Mitteln der Gnade. Die Bezeugung der Einheit verbietet in den meisten Fällen die Gottesdienstgemeinschaft, die Sorge um die Gnade empfiehlt sie indessen in manchen Fällen. Wie man sich hier konkret zu verhalten hat, soll unter Berücksichtigung aller Umstände der Zeit, des Ortes und der Personen die örtliche bischöfliche Autorität in klugem Ermessen entscheiden, soweit nicht etwas anderes von der Bischofskonferenz nach Maßgabe ihrer eigenen Statuten oder vom Heiligen Stuhl bestimmt ist.
+
+9\. Man muß den Geist und die Sinnesart der getrennten Brüder kennen. Dazu bedarf es notwendig des Studiums, das der Wahrheit gemäß und in wohlwollender Gesinnung durchzuführen ist. Katholiken, die dazu gebührend gerüstet sind, sollen sich eine bessere Kenntnis der Lehre und der Geschichte, des geistlichen und liturgischen Lebens, der religiösen Psychologie und Kultur, die den Brüdern eigen ist, erwerben. Dazu sind gemeinsame Zusammenkünfte, besonders zur Behandlung theologischer Fragen, sehr dienlich, bei denen ein jeder mit dem anderen auf der Ebene der Gleichheit spricht ("par cum pari agat"), vorausgesetzt, daß die, die unter der Aufsicht ihrer Oberen daran teilnehmen, wirklich sachverständig sind. Aus einem solchen Dialog kann auch klarer zutage treten, was die wirkliche Situation der katholischen Kirche ist. Auf diesem Wege wird auch die Denkweise der getrennten Brüder besser erkannt und ihnen unser Glaube in geeigneterer Weise auseinandergesetzt.
+
+10\. Die Unterweisung in der heiligen Theologie und in anderen, besonders den historischen Fächern muß auch unter ökumenischem Gesichtspunkt geschehen, damit sie um so genauer der Wahrheit und Wirklichkeit entspricht. Denn es liegt viel daran, daß die zukünftigen Hirten und Priester über eine Theologie verfügen, die ganz in diesem Sinne und nicht polemisch erarbeitet wurde, besonders bei jenen Gegenständen, die die Beziehungen der getrennten Brüder zur katholischen Kirche betreffen. Von der Ausbildung der Priester hängt ja die notwendige Unterweisung und geistliche Bildung der Gläubigen und der Ordensleute ganz besonders ab. Auch die Katholiken, die in denselben Ländern wie andere Christen im Dienst der Mission stehen, müssen gerade heute erkennen, welche Fragen sich hier ergeben und welche Früchte für ihr Apostolat der Ökumenismus heranreifen läßt.
+
+11\. Die Art und Weise der Formulierung des katholischen Glaubens darf keinerlei Hindernis bilden für den Dialog mit den Brüdern. Die gesamte Lehre muß klar vorgelegt werden. Nichts ist dem ökumenischen Geist so fern wie jener falsche Irenismus, durch den die Reinheit der katholischen Lehre Schaden leidet und ihr ursprünglicher und sicherer Sinn verdunkelt wird.
+
+Zugleich muß aber der katholische Glaube tiefer und richtiger ausgedrückt werden auf eine Weise und in einer Sprache, die auch von den getrennten Brüdern wirklich verstanden werden kann. Darüber hinaus müssen beim ökumenischen Dialog die katholischen Theologen, wenn sie in Treue zur Lehre der Kirche in gemeinsamer Forschungsarbeit mit den getrennten Brüdern die göttlichen Geheimnisse zu ergründen suchen, mit Wahrheitsliebe, mit Liebe und Demut vorgehen. Beim Vergleich der Lehren miteinander soll man nicht vergessen, daß es eine Rangordnung oder "Hierarchie" der Wahrheiten innerhalb der katholischen Lehre gibt, je nach der verschiedenen Art ihres Zusammenhangs mit dem Fundament des christlichen Glaubens. So wird der Weg bereitet werden, auf dem alle in diesem brüderlichen Wettbewerb zur tieferen Erkenntnis und deutlicheren Darstellung der unerforschlichen Reichtümer Christi angeregt werden (25).
+
+12\. Vor der ganzen Welt sollen alle Christen ihren Glauben an den einen, dreifaltigen Gott, an den menschgewordenen Sohn Gottes, unsern Erlöser und Herrn, bekennen und in gemeinsamem Bemühen in gegenseitiger Achtung Zeugnis geben für unsere Hoffnung, die nicht zuschanden wird. Da in heutiger Zeit die Zusammenarbeit im sozialen Bereich sehr weit verbreitet ist, sind alle Menschen ohne Ausnahme zu gemeinsamem Dienst gerufen, erst recht diejenigen, die an Gott glauben, am meisten aber alle Christen, die ja mit dem Namen Christi ausgezeichnet sind. Durch die Zusammenarbeit der Christen kommt die Verbundenheit, in der sie schon untereinander vereinigt sind, lebendig zum Ausdruck, und das Antlitz Christi, des Gottesknechtes, tritt in hellerem Licht zutage. Diese Zusammenarbeit, die bei vielen Völkern schon besteht, muß mehr und mehr vervollkommnet werden, besonders in jenen Ländern, wo die soziale und technische Entwicklung erst im Werden ist. Das gilt sowohl für die Aufgabe, der menschlichen Person zu ihrer wahren Würde zu verhelfen, für die Förderung des Friedens, für die Anwendung des Evangeliums auf die sozialen Fragen, für die Pflege von Wissenschaft und Kunst aus christlichem Geiste, wie auch für die Bereitstellung von Heilmitteln aller Art gegen die Nöte unserer Zeit, wie gegen Hunger und Katastrophen, gegen den Analphabetismus und die Armut, gegen die Wohnungsnot und die ungerechte Verteilung der Güter. Bei dieser Zusammenarbeit können alle, die an Christus glauben, unschwer lernen, wie sie einander besser kennen und höher achten können und wie der Weg zur Einheit der Christen bereitet wird.
+
+**III. KAPITEL**
+
+**DIE VOM RÖMISCHEN APOSTOLISCHEN STUHL GETRENNTEN KIRCHEN UND KIRCHLICHEN GEMEINSCHAFTEN**
+
+13\. Zwei besondere Kategorien von Spaltungen, durch die der nahtlose Leibrock Christi getroffen wurde, wollen wir nun näher ins Auge fassen.
+
+Die erste dieser Spaltungen geschah im Orient, und zwar entweder aufgrund einer dogmatischen Bestreitung von Glaubensformeln der Konzilien von Ephesus und Chalcedon oder, in späterer Zeit, durch die Aufhebung der kirchlichen Gemeinschaft zwischen den Patriarchaten des Orients und dem Römischen Stuhl.
+
+Andere Spaltungen entstanden sodann mehr als vier Jahrhunderte später im Abendland aufgrund von Ereignissen, die man die Reformation nennt. Seither sind mehrere nationale oder konfessionelle Gemeinschaften vom Römischen Stuhl getrennt. Unter denjenigen von ihnen, bei denen katholische Traditionen und Strukturen zum Teil fortbestehen, nimmt die Anglikanische Gemeinschaft einen besonderen Platz ein. Indessen sind diese einzelnen Trennungen untereinander sehr verschieden, nicht allein bedingt durch ihre Entstehung und durch die Umstände von Ort und Zeit, sondern vor allem nach Art und Bedeutsamkeit der Probleme, die sich auf den Glauben und die kirchliche Struktur beziehen. Deshalb hat das Heilige Konzil, das weder die andersartige Situation der verschiedenen Gemeinschaften der Christen geringachtet noch die trotz der Spaltung unter ihnen bestehenden Bande übergehen will, beschlossen, folgende Erwägungen zur Verwirklichung einer besonnenen ökumenischen Arbeit vorzulegen.
+
+**I. Die Orientalischen Kirchen**
+
+14\. Die Kirchen des Orients und des Abendlandes sind Jahrhunderte hindurch je ihren besonderen Weg gegangen, jedoch miteinander verbunden in brüderlicher Gemeinschaft des Glaubens und des sakramentalen Lebens, wobei dem Römischen Stuhl mit allgemeiner Zustimmung eine Führungsrolle zukam, wenn Streitigkeiten über Glaube oder Disziplin unter ihnen entstanden. Mit Freude möchte die Heilige Synode neben anderen sehr bedeutsamen Dingen allen die Tatsache in Erinnerung rufen, daß im Orient viele Teilkirchen oder Ortskirchen bestehen, unter denen die Patriarchalkirchen den ersten Rang einnehmen und von denen nicht wenige sich ihres apostolischen Ursprungs rühmen. Deshalb steht bei den Orientalen bis auf den heutigen Tag der Eifer und die Sorge im Vordergrund, jene brüderlichen Bande der Gemeinschaft im Glauben und in der Liebe zu bewahren, die zwischen Lokalkirchen als Schwesterkirchen bestehen müssen.
+
+Es darf ebenfalls nicht unerwähnt bleiben, daß die Kirchen des Orients von Anfang an einen Schatz besitzen, aus dem die Kirche des Abendlandes in den Dingen der Liturgie, in ihrer geistlichen Tradition und in der rechtlichen Ordnung vielfach geschöpft hat. Auch das darf in seiner Bedeutung nicht unterschätzt werden, daß die Grunddogmen des christlichen Glaubens von der Dreifaltigkeit und von dem Wort Gottes, das aus der Jungfrau Maria Fleisch angenommen hat, auf ökumenischen Konzilien definiert worden sind, die im Orient stattgefunden haben. Jene Kirchen haben für die Bewahrung dieses Glaubens viel gelitten und leiden noch heute. Das von den Aposteln überkommene Erbe aber ist in verschiedenen Formen und auf verschiedene Weise übernommen, und daher schon von Anfang an in der Kirche hier und dort verschieden ausgelegt worden, wobei auch die Verschiedenheit der Mentalität und der Lebensverhältnisse eine Rolle spielten. Dies alles hat, neben äußeren Gründen, auch infolge des Mangels an Verständnis und Liebe füreinander zu der Trennung Anlaß geboten.
+
+Deshalb ermahnt das Heilige Konzil alle, besonders diejenigen, die sich um die so erwünschte Wiederherstellung der vollen Gemeinschaft zwischen den orientalischen Kirchen und der katholischen Kirche bemühen wollen, daß sie diese besonderen Umstände der Entstehung und des Wachstums der Kirchen des Orients sowie die Art der vor der Trennung zwischen ihnen und dem Römischen Stuhl bestehenden Beziehungen gebührend berücksichtigen und sich über dies alles ein rechtes Urteil bilden. Die genaue Beachtung dieser Frage wird zu dem beabsichtigten Dialog im höchsten Maße beitragen.
+
+15\. Es ist allgemein bekannt, mit welcher Liebe die orientalischen Christen die liturgischen Feiern begehen, besonders die Eucharistiefeier, die Quelle des Lebens der Kirche und das Unterpfand der kommenden Herrlichkeit, bei der die Gläubigen, mit ihrem Bischof geeint, Zutritt zu Gott dem Vater haben durch den Sohn, das fleischgewordene Wort, der gelitten hat und verherrlicht wurde, in der Ausgießung des Heiligen Geistes, und so die Gemeinschaft mit der allerheiligsten Dreifaltigkeit erlangen, indem sie, der göttlichen Natur teilhaftig" (2 *Petr* 1,4) geworden sind. So baut sich auf und wächst26 durch die Feier der Eucharistie des Herrn in diesen Einzelkirchen die Kirche Gottes, und durch die Konzelebration wird ihre Gemeinschaft offenbar.
+
+Bei diesem liturgischen Kult preisen die Orientalen mit herrlichen Hymnen Maria, die allzeit Jungfräuliche, die das Ökumenische Konzil von Ephesus feierlich als heilige Gottesgebärerin verkündet hat, damit dadurch wahrhaft und eigentlich Christus als Gottes- und Menschensohn gemäß der Schrift anerkannt werde. Ebenso verehren sie viele Heilige, unter ihnen Väter der gesamten Kirche.
+
+Da nun diese Kirchen trotz ihrer Trennung wahre Sakramente besitzen, vor allem aber in der Kraft der apostolischen Sukzession das Priestertum und die Eucharistie, wodurch sie in ganz enger Verwandtschaft bis heute mit uns verbunden sind, so ist eine gewisse Gottesdienstgemeinschaft unter gegebenen geeigneten Umständen mit Billigung der kirchlichen Autorität nicht nur möglich, sondern auch ratsam.
+
+Im Orient finden sich auch die Reichtümer jener geistlichen Traditionen, die besonders im Mönchtum ihre Ausprägung gefunden haben. Denn seit den glorreichen Zeiten der heiligen Väter blühte dort jene monastische Spiritualität, die sich von dorther auch in den Gegenden des Abendlandes ausbreitete und aus der das Ordenswesen der Lateiner als aus seiner Quelle seinen Ursprung nahm und immer wieder neue Kraft erhielt. Deshalb wird mit Nachdruck empfohlen, daß die Katholiken sich mehr mit diesen geistlichen Reichtümern der orientalischen Väter vertraut machen, die den Menschen in seiner Ganzheit zur Betrachtung der göttlichen Dinge emporführen.
+
+Alle sollen um die große Bedeutung wissen, die der Kenntnis, Verehrung, Erhaltung und Pflege des überreichen liturgischen und geistlichen Erbes der Orientalen zukommt, damit die Fülle der christlichen Tradition in Treue gewahrt und die völlige Wiederversöhnung der orientalischen und der abendländischen Christen herbeigeführt werde.
+
+16\. Schon von den ältesten Zeiten her hatten die Kirchen des Orients ihre eigenen Kirchenordnungen, die von den heiligen Vätern und Synoden, auch von ökumenischen, sanktioniert worden sind. Da nun eine gewisse Verschiedenheit der Sitten und Gebräuche, wie sie oben erwähnt wurde, nicht im geringsten der Einheit der Kirche entgegensteht, sondern vielmehr ihre Zierde und Schönheit vermehrt und zur Erfüllung ihrer Sendung nicht wenig beiträgt, so erklärt das Heilige Konzil feierlich, um jeden Zweifel auszuschließen, daß die Kirchen des Orients, im Bewußtsein der notwendigen Einheit der ganzen Kirche, die Fähigkeit haben, sich nach ihren eigenen Ordnungen zu regieren, wie sie der Geistesart ihrer Gläubigen am meisten entsprechen und dem Heil der Seelen am besten dienlich sind. Die vollkommene Beobachtung dieses Prinzips, das in der Tradition vorhanden, aber nicht immer beachtet worden ist, gehört zu den Dingen, die zur Wiederherstellung der Einheit als notwendige Vorbedingung durchaus erforderlich sind.
+
+17\. Was oben von der legitimen Verschiedenheit gesagt wurde, dasselbe soll nun auch von der verschiedenen Art der theologischen Lehrverkündigung gesagt werden. Denn auch bei der Erklärung der Offenbarungswahrheit sind im Orient und im Abendland verschiedene Methoden und Arten des Vorgehens zur Erkenntnis und zum Bekenntnis der göttlichen Dinge angewendet worden. Daher darf es nicht wundernehmen, daß von der einen und von der anderen Seite bestimmte Aspekte des offenbarten Mysteriums manchmal besser verstanden und deutlicher ins Licht gestellt wurden, und zwar so, daß man bei jenen verschiedenartigen theologischen Formeln oft mehr von einer gegenseitigen Ergänzung als von einer Gegensätzlichkeit sprechen muß. Gerade gegenüber den authentischen theologischen Traditionen der Orientalen muß anerkannt werden, daß sie in ganz besonderer Weise in der Heiligen Schrift verwurzelt sind, daß sie durch das liturgische Leben gefördert und zur Darstellung gebracht werden, daß sie genährt sind von der lebendigen apostolischen Tradition und von den Schriften der Väter und geistlichen Schriftsteller des Orients und daß sie zur rechten Gestaltung des Lebens, überhaupt zur vollständigen Betrachtung der christlichen Wahrheit hinführen.
+
+Dieses Heilige Konzil erklärt, daß dies ganze geistliche und liturgische, disziplinäre und theologische Erbe mit seinen verschiedenen Traditionen zur vollen Katholizität und Apostolizität der Kirche gehört; und sie sagt Gott dafür Dank, daß viele orientalische Söhne der katholischen Kirche, die dieses Erbe bewahren und den Wunsch haben, es reiner und vollständiger zu leben, schon jetzt mit den Brüdern, die die abendländische Tradition pflegen, in voller Gemeinschaft leben.
+
+18\. Im Hinblick auf all dies erneuert das Heilige Konzil feierlich, was in der Vergangenheit von Heiligen Konzilien und von römischen Päpsten erklärt wurde, daß es nämlich zur Wiederherstellung oder Erhaltung der Gemeinschaft und Einheit notwendig sei, "keine Lasten aufzuerlegen, die über das Notwendige hinausgehen" (*Apg* 15,28). Es spricht den dringenden Wunsch aus, daß von nun an alle ihr Bestreben darauf richten, diese Einheit allmählich zu erlangen in den verschiedenen Einrichtungen und Lebensformen der Kirche, besonders durch das Gebet und den brüderlichen Dialog über die Lehre und über die drängenden Notwendigkeiten der Seelsorgsaufgaben in unserer Zeit. In gleicher Weise empfiehlt das Heilige Konzil den Hirten und den Gläubigen der katholischen Kirche eine enge Verbundenheit mit denen, die nicht mehr im Orient, sondern fern von ihrer Heimat leben, damit die brüderliche Zusammenarbeit mit ihnen im Geist der Liebe und unter Ausschluß jeglichen Geistes streitsüchtiger Eifersucht wachse. Wenn dieses Werk mit ganzer Seele in Angriff genommen wird, so hofft das Heilige Konzil, daß die Wand, die die abendländische und die orientalische Kirche trennt, einmal hinweggenommen werde und schließlich nur eine einzige Wohnung sei, deren fester Eckstein Jesus Christus ist, der aus beidem eines machen wird (27).
+
+**II. Die getrennten Kirchen und Kirchlichen Gemeinschaften im Abendland**
+
+19\. Die Kirchen und Kirchlichen Gemeinschaften, die in der schweren Krise, die im Abendland schon vom Ende des Mittelalters ihren Ausgang genommen hat, oder auch in späterer Zeit vom Römischen Apostolischen Stuhl getrennt wurden, sind mit der katholischen Kirche durch das Band besonderer Verwandtschaft verbunden, da ja das christliche Volk in den Jahrhunderten der Vergangenheit so lange Zeit sein Leben in kirchlicher Gemeinschaft geführt hat.
+
+Da jedoch diese Kirchen und Kirchlichen Gemeinschaften wegen ihrer Verschiedenheit nach Ursprung, Lehre und geistlichem Leben nicht nur uns gegenüber, sondern auch untereinander nicht wenige Unterschiede aufweisen, so wäre es eine überaus schwierige Aufgabe, sie recht zu beschreiben, was wir hier zu unternehmen nicht beabsichtigen.
+
+Obgleich die ökumenische Bewegung und der Wunsch nach Frieden mit der katholischen Kirche sich noch nicht überall durchgesetzt hat, so hegen wir doch die Hoffnung, daß bei allen ökumenischer Sinn und gegenseitige Achtung allmählich wachsen.
+
+Dabei muß jedoch anerkannt werden, daß es zwischen diesen Kirchen und Gemeinschaften und der katholischen Kirche Unterschiede von großem Gewicht gibt, nicht nur in historischer, soziologischer, psychologischer und kultureller Beziehung, sondern vor allem in der Interpretation der offenbarten Wahrheit. Damit jedoch trotz dieser Unterschiede der ökumenische Dialog erleichtert werde, wollen wir im folgenden einige Gesichtspunkte hervorheben, die das Fundament und ein Anstoß zu diesem Dialog sein können und sollen.
+
+20\. Unser Geist wendet sich zuerst den Christen zu, die Jesus Christus als Gott und Herrn und einzigen Mittler zwischen Gott und den Menschen offen bekennen zur Ehre des einen Gottes, des Vaters und des Sohnes und des Heiligen Geistes. Wir wissen zwar, daß nicht geringe Unterschiede gegenüber der Lehre der katholischen Kirche bestehen, insbesondere über Christus als das fleischgewordene Wort Gottes und über das Werk der Erlösung, sodann über das Geheimnis und den Dienst der Kirche und über die Aufgabe Mariens im Heilswerk. Dennoch freuen wir uns, wenn wir sehen, wie die getrennten Brüder zu Christus als Quelle und Mittelpunkt der kirchlichen Gemeinschaft streben. Aus dem Wunsch zur Vereinigung mit Christus werden sie notwendig dazu geführt, die Einheit mehr und mehr zu suchen und für ihren Glauben überall vor allen Völkern Zeugnis zu geben.
+
+21\. Die Liebe und Hochschätzung, ja fast kultische Verehrung der Heiligen Schrift führen unsere Brüder zu einem unablässigen und beharrlichen Studium dieses heiligen Buches: Das Evangelium ist ja "eine Kraft Gottes zum Heile für jeden, der glaubt, für den Juden zuerst, aber auch für den Griechen" (*Röm* 1,16).
+
+Unter Anrufung des Heiligen Geistes suchen sie in der Heiligen Schrift Gott, wie er zu ihnen spricht in Christus, der von den Propheten vorherverkündigt wurde und der das für uns fleischgewordene Wort Gottes ist. In der Heiligen Schrift betrachten sie das Leben Christi und was der göttliche Meister zum Heil der Menschen gelehrt und getan hat, insbesondere die Geheimnisse seines Todes und seiner Auferstehung.
+
+Während die von uns getrennten Christen die göttliche Autorität der Heiligen Schrift bejahen, haben sie jedoch, jeder wieder auf andere Art, eine von uns verschiedene Auffassung von dem Verhältnis zwischen der Schrift und der Kirche, wobei nach dem katholischen Glauben das authentische Lehramt bei der Erklärung und Verkündigung des geschriebenen Wortes Gottes einen besonderen Platz einnimmt.
+
+Nichtsdestoweniger ist die Heilige Schrift gerade beim Dialog ein ausgezeichnetes Werkzeug in der mächtigen Hand Gottes, um jene Einheit zu erreichen, die der Erlöser allen Menschen anbietet.
+
+22\. Der Mensch wird durch das Sakrament der Taufe, wenn es gemäß der Einsetzung des Herrn recht gespendet und in der gebührenden Geistesverfassung empfangen wird, in Wahrheit dem gekreuzigten und verherrlichten Christus eingegliedert und wiedergeboren zur Teilhabe am göttlichen Leben nach jenem Wort des Apostels: "Ihr seid in der Taufe mit ihm begraben, in ihm auch auferstanden durch den Glauben an das Wirken Gottes, der ihn von den Toten auferweckt hat" (*Kol* 2,12) (28).
+
+Die Taufe begründet also ein sakramentales Band der Einheit zwischen allen, die durch sie wiedergeboren sind. Dennoch ist die Taufe nur ein Anfang und Ausgangspunkt, da sie ihrem ganzen Wesen nach hinzielt auf die Erlangung der Fülle des Lebens in Christus. Daher ist die Taufe hingeordnet auf das vollständige Bekenntnis des Glaubens, auf die völlige Eingliederung in die Heilsveranstaltung, wie Christus sie gewollt hat, schließlich auf die vollständige Einfügung in die eucharistische Gemeinschaft.
+
+Obgleich bei den von uns getrennten Kirchlichen Gemeinschaften die aus der Taufe hervorgehende volle Einheit mit uns fehlt und obgleich sie nach unserem Glauben vor allem wegen des Fehlens des Weihesakramentes die ursprüngliche und vollständige Wirklichkeit (substantia) des eucharistischen Mysteriums nicht bewahrt haben, bekennen sie doch bei der Gedächtnisfeier des Todes und der Auferstehung des Herrn im Heiligen Abendmahl, daß hier die lebendige Gemeinschaft mit Christus bezeichnet werde, und sie erwarten seine glorreiche Wiederkunft. Deshalb sind die Lehre vom Abendmahl des Herrn, von den übrigen Sakramenten, von der Liturgie und von den Dienstämtern der Kirche notwendig Gegenstand des Dialogs.
+
+23\. Das christliche Leben dieser Brüder wird genährt durch den Glauben an Christus, gefördert durch die Gnade der Taufe und das Hören des Wortes Gottes. Dies zeigt sich im privaten Gebet, in der biblischen Betrachtung, im christlichen Familienleben und im Gottesdienst der zum Lob Gottes versammelten Gemeinde. Übrigens enthält ihr Gottesdienst nicht selten deutlich hervortretende Elemente der alten gemeinsamen Liturgie.
+
+Der Christusglaube zeitigt seine Früchte in Lobpreis und Danksagung für die von Gott empfangenen Wohltaten; hinzu kommt ein lebendiges Gerechtigkeitsgefühl und eine aufrichtige Nächstenliebe. Dieser werktätige Glaube hat auch viele Einrichtungen zur Behebung der geistlichen und leiblichen Not, zur Förderung der Jugenderziehung, zur Schaffung menschenwürdiger Verhältnisse im sozialen Leben und zur allgemeinen Festigung des Friedens hervorgebracht.
+
+Wenn auch viele Christen das Evangelium auf dem Gebiet der Moral weder stets in der gleichen Weise auslegen wie die Katholiken noch in den sehr schwierigen Fragen der heutigen Gesellschaft zu denselben Lösungen wie sie gelangen, so wollen sie doch ebenso wie wir an dem Worte Christi als der Quelle christlicher Tugend festhalten und dem Gebot des Apostels folgen, der da sagt: "Alles, was immer ihr tut in Wort oder Werk, tut alles im Namen unseres Herrn Jesus Christus, und danket durch ihn Gott dem Vater" (*Kol* 3,17). Von da her kann der ökumenische Dialog über die Anwendung des Evangeliums auf dem Bereich der Sittlichkeit seinen Ausgang nehmen.
+
+24\. Nach dieser kurzen Darlegung der Bedingungen für die praktische Durchführung der ökumenischen Arbeit und der Prinzipien, nach denen sie auszurichten ist, richten wir unsern Blick vertrauensvoll auf die Zukunft. Das Heilige Konzil mahnt die Gläubigen, jede Leichtfertigkeit wie auch jeden unklugen Eifer zu meiden, die dem wahren Fortschritt der Einheit nur schaden können, Ihre ökumenische Betätigung muß ganz und echt katholisch sein, das heißt in Treue zur Wahrheit, die wir von den Aposteln und den Vätern empfangen haben, und in Übereinstimmung mit dem Glauben, den die katholische Kirche immer bekannt hat, zugleich aber auch im Streben nach jener Fülle, die sein Leib nach dem Willen des Herrn im Ablauf der Zeit gewinnen soll.
+
+Das Heilige Konzil wünscht dringend, daß alles, was die Söhne der katholischen Kirche ins Werk setzen, in Verbindung mit den Unternehmungen der getrennten Brüder fortschreitet, ohne den Wegen der Vorsehung irgendein Hindernis in den Weg zu legen und ohne den künftigen Anregungen des Heiligen Geistes vorzugreifen. Darüber hinaus erklärt es seine Überzeugung, daß dieses heilige Anliegen der Wiederversöhnung aller Christen in der Einheit der einen und einzigen Kirche Christi die menschlichen Kräfte und Fähigkeiten übersteigt. Darum setzt es seine Hoffnung gänzlich auf das Gebet Christi für die Kirche, auf die Liebe des Vaters zu uns und auf die Kraft des Heiligen Geistes. "Die Hoffnung aber wird nicht zuschanden: Denn die Liebe Gottes ist ausgegossen in unseren Herzen durch den Heiligen Geist, der uns geschenkt ist" (*Röm* 5,5).
+
+*21. November 1964*
+
+------------------------------------------------------------------------
+
+**Anmerkungen**:
+
+1\) Vgl. 1 *Kor* 1,13.
+
+2\) Vgl. 1 *Joh* 4,9; *Kol* 1,18-20; *Joh* 11,52.
+
+3\) Vgl. *Joh* 13,34.
+
+4\) Vgl. *Joh* 16,7.
+
+5\) Vgl. 1 *Kor* 12,4-11.
+
+6\) Vgl. *Mt* 28,18-20 in Verbindung mit *Joh* 20,21-23.
+
+7\) Vgl. *Mt* 16,19 in Verbindung mit *Mt* 18,18.
+
+8\) Vgl. *Lk* 22,32.
+
+9\) Vgl. *Joh* 21,15-17.
+
+10\) Vgl. *Eph* 2,20.
+
+11\) Vgl. 1 *Petr* 2,25; I. Vatikanisches Konzil, Sessio IV (1870), Constitutio *Pastor Æternus*: Coll. Lac. 7, 482a.
+
+12\) Vgl. *Jes* 11,10-12.
+
+13\) Vgl. *Eph* 2,17-18, in Verbindung mit *Mk* 16,15.
+
+14\) Vgl. 1 *Petr* 1,3-9.
+
+15\) Vgl. 1 *Kor* 11,18-19; *Gal* 1,6-9; 1 *Joh* 2,18-19.
+
+16\) Vgl. 1 *Kor* 1,11ff; 11,22.
+
+17\) Vgl. Konzil v. Florenz, Sess. VIII (1439), Dekret *Exsultate Deo*: Mansi 31, 1055 A.
+
+18\) Vgl. Augustinus, In Ps. 32, *Enarratio II*, 29: PL 36, 299.
+
+19\) Vgl. IV. Laterankonzil (1215), Constitutio IV: Mansi 22, 990; II. Konzil v. Lyon (1274), Professio Fidei *Michælis Palæologi*: Mansi 24, 71 E; Konzil v. Florenz, Sessio VI (1439), Definitio *Lætentur cæli*: Mansi 31, 1026 E.
+
+20\) Vgl. *Jak* 1,4; *Röm* 12,1-2.
+
+21\) Vgl. 2 *Kor* 4,10; *Phil* 2,5-8.
+
+22\) Vgl. *Eph* 5,27.
+
+23\) Vgl. V. Laterankonzil, Sessio XII (1517), Constitutio Constituti: Mansi 32,988 B-C.
+
+24\) Vgl. *Eph* 4,23.
+
+25\) Vgl. *Eph* 3,8.
+
+26\) Vgl. Johannes Chrysostomus, *In Ioannem Homelia* XLVI: *PG* 59,260-262.
+
+27\) Vgl. Konzil v. Florenz, Sessio VI (1439), Definitio *Lætentur cæli*: Mansi 31,1026 E.
+
+28\) Vgl. *Röm* 6,4.
+
+------------------------------------------------------------------------

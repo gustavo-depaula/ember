@@ -1243,5 +1243,3 @@ Universis denique et singulis, dum preces nos fusuros pollicemur, Benedictionem 
 \(182\) Ioannes Paulus PP. II, Epistula *Appropinquat iam*, 1 (15 Aug. 1980): AAS 72 (1980), 791.
 
 \(183\) *Praefatio*, Missae Sollemnitatis Domini Nostri Iesu Christi universorum Regis.
-
-Copyright 1981 © Libreria Editrice Vaticana

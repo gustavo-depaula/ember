@@ -113,5 +113,3 @@ Vobis tandem, Venerabiles et Carissimi Fratres, vestrisque fidelibus, immo unive
 *Ex Aedibus Vaticanis, die v mensis Iunii, anno Domini MCMLXXXVII, Pontificatus Nostri nono*.
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1988 - Libreria Editrice Vaticana

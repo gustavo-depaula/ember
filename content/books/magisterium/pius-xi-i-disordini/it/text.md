@@ -23,5 +23,3 @@ Di questa riconciliazione degli animi sia intanto pegno ed auspicio l’Apostoli
 *Dal Vaticano, li 6 agosto 1922*.
 
 **PIUS PP. XI**
-
-© Copyright - Libreria Editrice Vaticana

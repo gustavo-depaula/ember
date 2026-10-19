@@ -38,5 +38,3 @@ III\. Affinché la nuova Sezione possa debitamente soddisfare al suo compito:
 8\) Per evidenti ragioni di utilità la Sezione storica dovrà essere consultata per le riforme, emendazioni e nuove edizioni di testi e di libri liturgici.
 
 *Dal Vaticano, 6 Febbraio 1930.*
-
-© Copyright - Libreria Editrice Vaticana

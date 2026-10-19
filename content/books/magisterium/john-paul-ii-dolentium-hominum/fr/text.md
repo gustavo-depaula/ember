@@ -59,5 +59,3 @@ d\) Le Laïcat (représentants des OIC et d'autres groupes et associations qui o
 Dans l'accomplissement de sa mission, la Commission Pontificale pourra demander la collaboration d'experts et constituer des Groupes de travail ad hoc sur des questions déterminées.
 
 *Donné à Rome, auprès de Saint-Pierre, le 11 février 1985, septième de Notre Pontificat.*
-
-© Copyright 1985 - Libreria Editrice Vaticana

@@ -36,5 +36,3 @@ Nous voulons enfin que cette Constitution demeure toujours ferme et efficace et 
 *Donné à Rome, près de Saint-Pierre, en la fête de saint Marc l’évangéliste, le 25 avril 1979, première année de notre pontificat.*
 
 **IOANNES PAULUS PP. II.**
-
-© Copyright 1979- Libreria Editrice Vaticana

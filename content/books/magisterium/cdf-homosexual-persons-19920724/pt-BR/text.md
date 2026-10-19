@@ -1,5 +1,69 @@
 # Algumas reflexões acerca da resposta a propostas legislativas sobre a não-discriminação das pessoas homossexuais
 
-[TABLE]
+[](.http://www.vatican.va/index.htm)
 
-[TABLE]
+[](javascript:history.go(-1)) [](javascript:up())
+
+CONGREGAÇÃO PARA A DOUTRINA DA FÉ
+
+**Algumas reflexões acerca da resposta a propostas legislativas sobre a não-discriminação das pessoas homossexuais**\*
+
+INTRODUÇÃO
+
+Recentemente, foi proposta uma legislação em vários lugares, que tornaria ilegal uma discriminação baseada num orientamento sexual. Nalgumas cidades, as Autoridades municipais puseram habitações públicas à disposição de casais homossexuais (e heterossexuais solteiros) – normalmente reservadas a famílias. Estas iniciativas, mesmo onde parecem mais dirigidas a defender os direitos civis básicos do que a tolerar a actividade homossexual ou um estilo de vida homossexual, podem, com efeito, ter um impacto negativo na família e na sociedade. Os casos, por exemplo, da adopção de crianças, dó trabalho dos professores, das necessidades habitacionais de famílias verdadeiras, das legítimas preocupações do proprietário, no que se refere aos eventuais inquilinos, são com frequência postos em discussão.
+
+Ao mesmo tempo que seria impossível prever todas as eventualidades, em relação às propostas legislativas neste sector, tais observações procurarão identificar alguns princípios e distinções de natureza geral, os quais deveriam ser tomados em consideração pelo legislador, eleitor ou Autoridade eclesiástica consciente, no momento de enfrentar estes problemas.
+
+A primeira secção recordará as passagens relevantes da «*[Carta aos Bispos da Igreja Católica sobre o Atendimento Pastoral das Pessoas Homossexuais](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_po.html)*», da Congregação para a Doutrina de Fé, de 1986. A segunda secção tratará a sua aplicação.
+
+**I.**
+
+**PASSAGENS RELEVANTES DA «CARTA» DA CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
+
+1\. A Carta recorda a «*[Declaração sobre alguns Pontos de Ética Sexual](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_po.html)*», da Congregação para a Doutrina da Fé, de 1975, a qual «levava em consideração a distinção feita comummente entre a condição ou tendência homossexual, de um lado, e, do outro, os actos homossexuais»; os últimos são «intrinsecamente desordenados» e «não podem ser aprovados em caso algum» (n. 3).
+
+2\. Todavia, «na discussão que se seguiu à publicação da Declaração, foram propostas interpretações excessivamente benévolas da condição homossexual, tanto que houve quem chegasse a defini-la indiferente ou até mesmo boa». A Carta continua e esclarece: «... a particular inclinação da pessoa homossexual, embora não seja em si mesma um pecado, constitui, no entanto, uma tendência, mais ou menos acentuada, para um comportamento intrinsecamente mau do ponto de vista moral. Por este motivo, a própria inclinação deve ser considerada objectivamente desordenada. Aqueles que se encontram em tal condição deveriam, portanto, ser objecto de uma particular solicitude pastoral, para não serem levados a crer que a realização concreta desta tendência nas relações homossexuais seja uma opção meramente aceitável» (n. 3). Não o é!
+
+3\. «Como acontece com qualquer outra desordem moral, a actividade homossexual impede a auto-realização e a felicidade, porque é contrária à sabedoria criadora de Deus. Refutando as doutrinas erróneas acerca do homossexualismo, a Igreja não limita, antes, pelo contrário, defende a liberdade e a dignidade da pessoa, compreendidas de um modo realista e autêntico» (n. 7).
+
+4. No que se refere à tendência homossexual, a Carta afirma: «uma das tácticas usadas é a de afirmar, em tom de protesto, que qualquer crítica ou reserva às pessoas homossexuais, à sua atitude ou ao seu estilo de vida, é simplesmente uma forma de injusta discriminação» (n. 9).
+
+5\. «Em algumas Nações funciona, como consequência, uma tentativa de pura e simples manipulação da Igreja, conquistando-se o apoio dos Pastores, frequentemente em boa fé, no esforço que visa mudar as normas da legislação civil. Finalidade de tal acção é ajustar esta legislação à concepção própria destes grupos de pressão, para a qual o homossexualismo é, pelo menos, uma realidade perfeitamente inócua, quando não totalmente boa.
+
+Embora a prática do homossexualismo esteja ameaçando seriamente a vida e o bem-estar de um grande número de pessoas, os fautores desta corrente não desistem da sua acção e recusam levar em consideração as proporções do risco que ela implica» (n. 9).
+
+6. «Ela (a Igreja) é consciente de que a opinião, segundo a qual a actividade homossexual seria equivalente à expressão sexual do amor conjugal ou, pelo menos, igualmente aceitável, incide directamente sobre a concepção que a sociedade tem da natureza e dos direitos da família, pondo-os seriamente em perigo» (n. 9).
+
+7. «É de se deplorar firmemente que as pessoas homossexuais tenham sido e sejam ainda hoje objecto de expressões malévolas e de acções violentas. Semelhantes comportamentos merecem a condenação dos Pastores da Igreja, onde quer que aconteçam. Eles revelam uma falta de respeito pelos outros, que fere os princípios elementares sobre os quais se alicerça uma sadia convivência civil. A dignidade própria de cada pessoa deve ser respeitada sempre, nas palavras, nas acções e nas legislações.
+
+Todavia, a necessária reacção diante das injustiças cometidas contra as pessoas homossexuais não pode levar, de forma alguma, à afirmação de que a condição homossexual não seja desordenada. Quando tal afirmação é aceita e, por conseguinte, a actividade homossexual é considerada boa, ou quando se adopta uma legislação civil para tutelar um comportamento, ao qual ninguém pode reivindicar direito algum, nem a Igreja nem a sociedade no seu conjunto deveriam surpreender-se se depois também outras opiniões e práticas distorcidas ganharem terreno e se aumentarem os comportamentos irracionais e violentos» (n. 10).
+
+8\. «Em todo o caso, deve-se evitar a presunção infundada e humilhante de que o comportamento homossexual das pessoas homossexuais esteja sempre e totalmente submetido à coacção e, portanto, seja sem culpa. Na realidade, também às pessoas com tendência homossexual deve ser reconhecida aquela liberdade fundamental, que caracteriza a pessoa humana e lhe confere a sua particular dignidade» (n. 11).
+
+9\. «Ao avaliar eventuais projectos legislativos, (os Bispos) deverão pôr em primeiro plano o empenho na defesa e na promoção da vida familiar» (n. 17).
+
+**II.**
+
+**APLICAÇÕES**
+
+10\. «A tendência sexual» não constitui uma qualidade comparável à raça, à origem étnica, etc. no que se refere à não-discriminação. Diferentemente destas, a tendência homossexual é uma desordem objectiva (cf. *[Carta](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_po.html)*, 3) e requer solicitude moral.
+
+11\. Existem sectores onde não se trata de discriminação injusta tomar em consideração a tendência sexual, por exemplo, na adopção ou no cuidado das crianças, nó trabalho dos professores ou dos treinadores atléticos e no recrutamento militar.
+
+12\. As pessoas homossexuais, como seres humanos, têm os mesmos direitos de todas as pessoas, inclusivamente o direito de não serem tratadas de maneira que ofenda a sua dignidade pessoal (cf. *[Ibid](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_po.html).*, 10). Entre outros direitos, todas as pessoas têm o direito de trabalhar, de ter uma habitação, etc. Todavia, estes direitos não são absolutos. Podem ser legitimamente limitados por motivos de conduta externa desordenada. Isto, às vezes, é não só lícito, mas obrigatório. Além disso, não se trata apenas de casos de comportamento culpável, mas até mesmo de casos de acções de pessoas física ou mentalmente doentes. Assim, aceita-se que o Estado limite o exercício dos direitos, por exemplo, no caso de pessoas contagiadas ou mentalmente deficientes, para proteger o bem comum.
+
+13\. Incluir a «tendência homossexual» entre as reflexões, na base das quais é ilegal discriminar, pode facilmente levar a afirmar que a homossexualidade é uma fonte positiva de direitos humanos, por exemplo, no que se refere aos chamados direitos de acção afirmativa ou ao tratamento preferencial no que se refere à admissão ao trabalho. Isto é ainda mais deletério se considerarmos que não existe um direito à homossexualidade (cf. *[Ibid](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_po.html).*, 10), o que não deveria, portanto, constituir a base para reivindicações jurídicas. A passagem do reconhecimento da homossexualidade como factor, na base do qual é ilegal discriminar, pode facilmente levar, se não de modo automático, à protecção legislativa e à promoção da homossexualidade. A homossexualidade de uma pessoa seria invocada em oposição a uma discriminação declarada e, assim, o exercício dos direitos seria defendido exactamente mediante a afirmação da condição homossexual, em vez de em termos de uma violação dos direitos humanos básicos.
+
+14. A «tendência homossexual» de uma pessoa não pode ser comparada com a raça, o sexo, a idade, etc., também por outro motivo, além do supracitado, que merece atenção. A tendência sexual de uma pessoa individualmente não é, de modo geral, conhecida pelos outros, a não ser que ela se identifique em público como alguém que tem esta tendência ou com a manifestação de comportamento exterior. Geralmente, a maioria das pessoas com tendências homossexuais, que procuram viver uma vida casta, não tornam pública a sua tendência sexual. Por conseguinte, o problema da discriminação, em termos de trabalho, de habitação, etc., normalmente não se apresenta.
+
+As pessoas homossexuais que manifestam a própria homossexualidade, tendem a considerar o comportamento ou o estilo de vida homossexual «indiferente ou até mesmo bom» (cf. n. 3) e, portanto, digno de aprovação pública. Muito provavelmente, é no âmbito destas pessoas que se encontram aqueles que tentam «manipular a Igreja, conquistando-se o apoio dos Pastores, frequentemente em boa fé, no esforço que visa mudar as normas da legislação civil» (cf. n. 9), aqueles que usam a táctica de afirmar, em tom de protesto, «que qualquer crítica ou reserva às pessoas homossexuais... é simplesmente uma forma de injusta discriminação» (cf. n. 9).
+
+Além disso, existe o perigo de a legislação, que faz da homossexualidade uma base para certos direitos, encorajar deveras uma pessoa tendencialmente homossexual a declarar a sua homossexualidade ou até mesmo a procurar um parceiro, aproveitando-se assim das disposições da lei.
+
+15\. Já que na avaliação de uma proposta legislativa deve ser dada a máxima importância à responsabilidade da defesa e da promoção da vida familiar (cf. *[Ibid](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_po.html).*, n. 17), é fundamental prestar atenção a cada uma das intervenções propostas separadamente. Como é que terão influência na adopção das crianças e no acto de as confiar à sua responsabilidade? Constituirão uma defesa dos actos homossexuais, públicos e privados? Conferirão às uniões homossexuais uma condição equivalente à da família, por exemplo, no que se refere à habitação, ou concedendo ao parceiro homossexual os privilégios que derivam do trabalho e que incluem, entre outras coisas, a participação «familiar» nos benefícios hospitalares concedidos aos trabalhadores? (cf. *[Ibid](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_po.html).*, n. 9).
+
+16\. Por fim, quando a questão do bem comum entra em jogo, não é conveniente que as Autoridades eclesiásticas apoiem, nem que permaneçam neutrais perante legislações adversas, mesmo que elas admitam excepções às Organizações e Instituições da Igreja. A Igreja tem a responsabilidade de promover a vida familiar e a moralidade pública da sociedade civil inteira, com base nos valores morais fundamentais, e não unicamente de se defender a si mesma das aplicações de leis nocivas (cf. *[Ibid](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_po.html).*, n. 17).
+
+\* *L’Osservatore Romano*, Edição semanal, N. 32, 9 de Agosto de 1992, Pág. 6 (418).
+
+[](#top)

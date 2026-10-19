@@ -163,6 +163,4 @@ Questo Statuto è approvato per tre anni e «ad experimentum». Superato tale pe
 
 **GIOVANNI PAOLO II**
 
-© Copyright 1994 - Libreria Editrice Vaticana
-
 *** ***

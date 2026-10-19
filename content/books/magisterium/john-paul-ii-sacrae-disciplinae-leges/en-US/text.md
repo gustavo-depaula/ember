@@ -78,5 +78,3 @@ I therefore exhort all the faithful to observe the proposed legislation with a s
 *Given at Rome, from the Apostolic Palace, January 25, 1983, the fifth year of our Pontificate.*
 
 * *
-
-© Copyright 1983 - Libreria Editrice Vaticana

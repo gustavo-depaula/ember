@@ -60,6 +60,4 @@ Tutto ciò che è stabilito con la presente Lettera «motu proprio» ordiniamo c
 
 **IOANNES PAULUS PP. II**
 
-© Copyright 1982 - Libreria Editrice Vaticana
-
 * *

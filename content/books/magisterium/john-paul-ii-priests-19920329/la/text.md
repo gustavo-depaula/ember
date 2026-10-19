@@ -25,5 +25,3 @@ Hoc ominantes, omnes benigne salutamus iisque Apostolicam impertimur Benediction
 IOANNES PAULUS PP. II
 
 .
-
-© Copyright 1992 - Libreria Editrice Vaticana

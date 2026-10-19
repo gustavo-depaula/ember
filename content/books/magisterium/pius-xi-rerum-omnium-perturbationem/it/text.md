@@ -99,5 +99,3 @@ E voi, Venerabili Fratelli, esortate vivamente i fedeli che avete in cura, affin
 11 *Ibidem*.
 
 12 *Proverb*., V, 15, 16.
-
-© Copyright - Libreria Editrice Vaticana

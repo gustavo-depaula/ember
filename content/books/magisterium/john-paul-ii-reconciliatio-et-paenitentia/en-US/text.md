@@ -1063,5 +1063,3 @@ To all of you who in a spirit of ecclesial communion in obedience and faith(207)
 206\. Ibid., General Audience Address of January 4, 1984:Insegnamenti, VII, 1 (1984), 16-18.
 
 207\. Cf Rom 1:5; 16:26.
-
-© Copyright 1984 - Libreria Editrice Vaticana

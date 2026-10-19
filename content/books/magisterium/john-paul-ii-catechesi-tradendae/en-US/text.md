@@ -834,5 +834,3 @@ With my apostolic blessing.
 137\. Cf. Sermo 25, 7: PL 46, 937-938.
 
 138\. Mt. 28:19.
-
-© Copyright 1979 - Libreria Editrice Vaticana

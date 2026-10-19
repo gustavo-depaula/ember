@@ -402,61 +402,226 @@ From St Peter's, Rome, the eighth day of September, the feast of Our Lady's Nati
 
 **NOTES**
 
-|  |  |
-|----|----|
-| ¹ | S. IOAN. CHRYS., *De consubstantiali, contra Anomoeos*: P.G., 48, 810. |
-| ² | *Ephes.* III,8-9 |
-| ³ | *I Petr*. I, 18-19. |
-| ⁴ | Radiophonicum nuntium *Qui arcano*, d. 12 Februarii, a. 1931: A. A. S., vol. XXIII, 1931, pag. 65. |
-| ⁵ | Epist. Enc. *Vigilanti cura*, d. 29 Iunii, a. 1936: A. A. S., vol. XXVIII, 1936, pag. 249 sq. |
-| ⁶ | *Ibid.* pag. 251. |
-| ⁷ | Cfr. A. A. S., d. 16 Decembris, a. 1954, vol. XLVI, 1964, pag. 783-784. |
-| ⁸ | Cfr. Sermo ad catholicos Hollandiae, d. 19 Maii, a. 1950 habitus: *Discorsi e Radiomessaggi di S. S. Pio XII*, vol. XII, pag. 75. |
-| ⁹ | *Rom.* X, 16. |
-| ¹⁰ | Matth. XXII, 16. |
-| ¹¹ | Cfr. Sermo ad cultores cinematographicae artis ex Italia Romae congregatos, d. 21 Iunii, a. 1955: A. A S., vol. XLVII, 1955, pag 504. |
-| ¹² | Cfr. Matth., XI, 30. |
-| ¹³ | Cfr. Sermo ad radiophonicae artis cultorum coetum, d. 5 Maii, a. 1950 ex omnibus Nationibus Romae habitum: *Discorsi e Radiomessaggi* di S. S. Pio XII, vol. XII, pag. 54. |
-| ¹⁴ | *Rom.* V, 5. |
-| ¹⁵ | Cfr. Matth. V, 48. |
-| ¹⁶ | Litt. Apost. d. 12 Ianuarii, a. 1951: A. A. S., vol XLV, 1952, pag. 216-217. |
-| ¹⁷ | *Ibid.* pag. 216. |
-| ¹⁸ | Matth. XIII, 27. |
-| ¹⁹ | Matth. XIII, 28. |
-| ²⁰ | I *Thess*. V, 21-22. |
-| ²¹ | Cfr. Sermo, quinto exeunte saeculo ab Angelici obitu, in Aedibus Vaticanis habitus d. 20 Aprilis, a. 1955: A. A. S., vol. XLVII, 1955, pag. 291-292; Litt. Enc. *Musicae Sacrae*, d. 25 Decembris, a 1955: A. A. S., vol. XLVIII, 1956, pag. 10. |
-| ²² | Cfr. Rom. 11, 15. |
-| ²³ | Sermo ad cultores artis cinematographicae ex Italia Romae congregatos, d. 21 Iunii, a. l955: A. A. S., vol. XLVII, 1955, pag. 505. |
-| ²⁴ | S. THOM., *Summ. Theol.*, I. q. 1, a. 9. |
-| ²⁵ | Cfr. *Ibid.* I, q. 67, a. 1. |
-| ²⁶ | Sermo ad sodales Radiophonicae Societatis Italiae, d. 3 Decembris, a. 1944 habitus: *Discorsi e Radiomessaggi* di S. S. Pio Xll, vol. VI, pag. 209. |
-| ²⁷ | Sermo ad Nationum Societatis Consilium publicis ordinandis nuntiis, d. 24 Aprilis, a. 1956 habitus: *Discorsi e Radiomessaggi* di S. S. Pio Xll, vol. XVIII, pag. 137. |
-| ²⁸ | Cfr. Ioan. VIII, 32 |
-| ²⁹ | Cfr. Nuntius radiophonicus ad christifideles Columbianae Reipublicae, d. 11 Aprilis, a. 1953 habitus, cum Statio Radiophonica Sutacentiae inaugurabatur: A. A. S., vol. XLV, 1953, pag. 294. |
-| ³⁰ | Ep Enc. *Vigilanti cura*, d. 29 Iunii, a. 1936: A. A. S., vol. XXVIII, 1936, pag. 255. |
-| ³¹ | Ep. Enc. *Vigilanti cura*: ibid. pag. 254. |
-| ³² | Cfr. Adhortatio de televisione, d. 1 Ianuarii, a. 1954: A. A. S., vol. XLIV, a. 1964, pag. 21. |
-| ³³ | Cfr. Sermo ad moderatores, docentes, et cultores Consociationis ex omnibus Nationibus Institutorum Archaeologiae, Historiae, et Artis Historiae, d. 9 Martii, a. 1956, habita: A. A. S., vol XLVIII, 1966, pag. 212. |
-| ³⁴ | Ep. Enc. *Vigilanti cura*, d. 29 Iunii, a. 1936: A. A. S., vol. XXVIII, 1936, pag. 261. |
-| ³⁵ | Cfr. Sermo ad cinematographicae artis cultores ex Italia Romae congregatos, d. 21 Iunii, a. 1955, A. A. S., vol. XLVII, 1955, pag. 501-502. |
-| ³⁶ | Cfr. Sermo ad cinematographicae artis cultores, d. 28 Octobris, a. 1955, Romae congregatos: A. A. S., vol. XLVII, 1955, pag. 817. |
-| ³⁷ | Cfr. Sermones d. 21 Iunii et 28 Octobris, a. 1955 habiti: *ibid.*, pag. 502, 505 et 816 sq. |
-| ³⁸ | Ep. Enc. *Vigilanti cura*, d. 29 Iunii, a. 1936: A. A. S., vol. XXVIII, 1936, pag. 260-261. |
-| ³⁹ | Cfr. Sermo ad cultores cinematographicae artis ex Italia Romae congregatos, d. 21 Iunii, a. 1955: A. A. S., vol. XLVII, 1955, pag. 512. |
-| ⁴⁰ | Ep. Enc. *Vigilanti cura*, d. 29 Iunii a. l936: A. A. S., vol. XXVIII, 1936, pag. 260. |
-| ⁴¹ | Cfr. Pii XII sermo ad Urbis Parochos sacrosque per Quadragesimae tempus Oratores die 5 Martii 1957 habitus: vide diarium *L'Osservatore Romano*, 6 Martii 1957. |
-| ⁴² | Cfr. Sermo de arte scaenica d. 26 Augusti, a. 1945 habitus: *Discorsi e Radiomessaggi* *di S. S. Pio XII*, vol. VII, pag. 157. |
-| ⁴³ | Matth. V, 16. |
-| ⁴⁴ | Cfr. Epist. Pii XII ad christifideles Germaniae, ob conventum a "Katholikentag" appellatum, Berolinum congregatos die 10 Augusti, a. 1952: A. A. S., vol. XLIV, 1952, pag. 725. |
-| ⁴⁵ | Cfr. Sermo d. 3 Decembris, a. 1944 habitus: *Discorsi e Radiomessaggi* di S. S. Pio XII, vol. VI, pag. 209. |
-| ⁴⁶ | Cfr. Nuntius radiophonicus ad eos qui interfuerunt tertio generali conventui de communicationibus inter cives et nationes, sexagesimo volvente anno a radiotelegraphia inventa, Genuae habito: A. A. S. vol. XLVII, 1955, pag.736. |
-| ⁴⁷ | Iac. III, 9-10. |
-| ⁴⁸ | Cfr. Sermo Pii XII d. 3 Octobris, a. 1917 quinquagesimo expleto anno ab arte radiophonica inventa habitus: *Discorsi e Radiomessaggi di S. S. Pio* XII, vol. IX, pag. 267. |
-| ⁴⁹ | Marc. XVI, l5 |
-| ⁵⁰ | Cfr. Sermo ad Hollandiae catholicos, d. 19 Maii, a. 195O habitus: *Discorsi e Radiomessaggi di S. S. Pio XII*, vol. XII, pag. 75. |
-| ⁵¹ | Matth. X, 41. |
-| ⁵² | Cfr. Sermo ad radiophonicae artis cultores conventum ex omnibus Nationibus participantes: d. 5 Maii, a. 1950; *Discorsi e Radiomessaggi di S S. Pio* XII, vol. XII, pag. 75. |
-| ⁵⁴ | *Gal*. V, 9. |
-| ⁵⁴ | Cfr. Adhortatio Apostolica, de televisione, d. 1 Ianuarii. a. 1954: A.A.S., vol. XLVI, 1954, pag. 23. |
-| ⁵⁵ | Cfr. Sermo de gravi televisionis momento, d. 21 Octobris, a. 1955: A. A. S., vol. XLVII, 1955, pag. 777 |
-| ⁵⁶ | Cfr. Sermo d. 14 Septembris, a. I956 habitus: A. A. S. vol. XLVIII, 1956, pag. 707. |
+¹
+
+S. IOAN. CHRYS., *De consubstantiali, contra Anomoeos*: P.G., 48, 810.
+
+²
+
+*Ephes.* III,8-9
+
+³
+
+*I Petr*. I, 18-19.
+
+⁴
+
+Radiophonicum nuntium *Qui arcano*, d. 12 Februarii, a. 1931: A. A. S., vol. XXIII, 1931, pag. 65.
+
+⁵
+
+Epist. Enc. *Vigilanti cura*, d. 29 Iunii, a. 1936: A. A. S., vol. XXVIII, 1936, pag. 249 sq.
+
+⁶
+
+*Ibid.* pag. 251.
+
+⁷
+
+Cfr. A. A. S., d. 16 Decembris, a. 1954, vol. XLVI, 1964, pag. 783-784.
+
+⁸
+
+Cfr. Sermo ad catholicos Hollandiae, d. 19 Maii, a. 1950 habitus: *Discorsi e Radiomessaggi di S. S. Pio XII*, vol. XII, pag. 75.
+
+⁹
+
+*Rom.* X, 16.
+
+¹⁰
+
+Matth. XXII, 16.
+
+¹¹
+
+Cfr. Sermo ad cultores cinematographicae artis ex Italia Romae congregatos, d. 21 Iunii, a. 1955: A. A S., vol. XLVII, 1955, pag 504.
+
+¹²
+
+Cfr. Matth., XI, 30.
+
+¹³
+
+Cfr. Sermo ad radiophonicae artis cultorum coetum, d. 5 Maii, a. 1950 ex omnibus Nationibus Romae habitum: *Discorsi e Radiomessaggi* di S. S. Pio XII, vol. XII, pag. 54.
+
+¹⁴
+
+*Rom.* V, 5.
+
+¹⁵
+
+Cfr. Matth. V, 48.
+
+¹⁶
+
+Litt. Apost. d. 12 Ianuarii, a. 1951: A. A. S., vol XLV, 1952, pag. 216-217.
+
+¹⁷
+
+*Ibid.* pag. 216.
+
+¹⁸
+
+Matth. XIII, 27.
+
+¹⁹
+
+Matth. XIII, 28.
+
+²⁰
+
+I *Thess*. V, 21-22.
+
+²¹
+
+Cfr. Sermo, quinto exeunte saeculo ab Angelici obitu, in Aedibus Vaticanis habitus d. 20 Aprilis, a. 1955: A. A. S., vol. XLVII, 1955, pag. 291-292; Litt. Enc. *Musicae Sacrae*, d. 25 Decembris, a 1955: A. A. S., vol. XLVIII, 1956, pag. 10.
+
+²²
+
+Cfr. Rom. 11, 15.
+
+²³
+
+Sermo ad cultores artis cinematographicae ex Italia Romae congregatos, d. 21 Iunii, a. l955: A. A. S., vol. XLVII, 1955, pag. 505.
+
+²⁴
+
+S. THOM., *Summ. Theol.*, I. q. 1, a. 9.
+
+²⁵
+
+Cfr. *Ibid.* I, q. 67, a. 1.
+
+²⁶
+
+Sermo ad sodales Radiophonicae Societatis Italiae, d. 3 Decembris, a. 1944 habitus: *Discorsi e Radiomessaggi* di S. S. Pio Xll, vol. VI, pag. 209.
+
+²⁷
+
+Sermo ad Nationum Societatis Consilium publicis ordinandis nuntiis, d. 24 Aprilis, a. 1956 habitus: *Discorsi e Radiomessaggi* di S. S. Pio Xll, vol. XVIII, pag. 137.
+
+²⁸
+
+Cfr. Ioan. VIII, 32
+
+²⁹
+
+Cfr. Nuntius radiophonicus ad christifideles Columbianae Reipublicae, d. 11 Aprilis, a. 1953 habitus, cum Statio Radiophonica Sutacentiae inaugurabatur: A. A. S., vol. XLV, 1953, pag. 294.
+
+³⁰
+
+Ep Enc. *Vigilanti cura*, d. 29 Iunii, a. 1936: A. A. S., vol. XXVIII, 1936, pag. 255.
+
+³¹
+
+Ep. Enc. *Vigilanti cura*: ibid. pag. 254.
+
+³²
+
+Cfr. Adhortatio de televisione, d. 1 Ianuarii, a. 1954: A. A. S., vol. XLIV, a. 1964, pag. 21.
+
+³³
+
+Cfr. Sermo ad moderatores, docentes, et cultores Consociationis ex omnibus Nationibus Institutorum Archaeologiae, Historiae, et Artis Historiae, d. 9 Martii, a. 1956, habita: A. A. S., vol XLVIII, 1966, pag. 212.
+
+³⁴
+
+Ep. Enc. *Vigilanti cura*, d. 29 Iunii, a. 1936: A. A. S., vol. XXVIII, 1936, pag. 261.
+
+³⁵
+
+Cfr. Sermo ad cinematographicae artis cultores ex Italia Romae congregatos, d. 21 Iunii, a. 1955, A. A. S., vol. XLVII, 1955, pag. 501-502.
+
+³⁶
+
+Cfr. Sermo ad cinematographicae artis cultores, d. 28 Octobris, a. 1955, Romae congregatos: A. A. S., vol. XLVII, 1955, pag. 817.
+
+³⁷
+
+Cfr. Sermones d. 21 Iunii et 28 Octobris, a. 1955 habiti: *ibid.*, pag. 502, 505 et 816 sq.
+
+³⁸
+
+Ep. Enc. *Vigilanti cura*, d. 29 Iunii, a. 1936: A. A. S., vol. XXVIII, 1936, pag. 260-261.
+
+³⁹
+
+Cfr. Sermo ad cultores cinematographicae artis ex Italia Romae congregatos, d. 21 Iunii, a. 1955: A. A. S., vol. XLVII, 1955, pag. 512.
+
+⁴⁰
+
+Ep. Enc. *Vigilanti cura*, d. 29 Iunii a. l936: A. A. S., vol. XXVIII, 1936, pag. 260.
+
+⁴¹
+
+Cfr. Pii XII sermo ad Urbis Parochos sacrosque per Quadragesimae tempus Oratores die 5 Martii 1957 habitus: vide diarium *L'Osservatore Romano*, 6 Martii 1957.
+
+⁴²
+
+Cfr. Sermo de arte scaenica d. 26 Augusti, a. 1945 habitus: *Discorsi e Radiomessaggi* *di S. S. Pio XII*, vol. VII, pag. 157.
+
+⁴³
+
+Matth. V, 16.
+
+⁴⁴
+
+Cfr. Epist. Pii XII ad christifideles Germaniae, ob conventum a "Katholikentag" appellatum, Berolinum congregatos die 10 Augusti, a. 1952: A. A. S., vol. XLIV, 1952, pag. 725.
+
+⁴⁵
+
+Cfr. Sermo d. 3 Decembris, a. 1944 habitus: *Discorsi e Radiomessaggi* di S. S. Pio XII, vol. VI, pag. 209.
+
+⁴⁶
+
+Cfr. Nuntius radiophonicus ad eos qui interfuerunt tertio generali conventui de communicationibus inter cives et nationes, sexagesimo volvente anno a radiotelegraphia inventa, Genuae habito: A. A. S. vol. XLVII, 1955, pag.736.
+
+⁴⁷
+
+Iac. III, 9-10.
+
+⁴⁸
+
+Cfr. Sermo Pii XII d. 3 Octobris, a. 1917 quinquagesimo expleto anno ab arte radiophonica inventa habitus: *Discorsi e Radiomessaggi di S. S. Pio* XII, vol. IX, pag. 267.
+
+⁴⁹
+
+Marc. XVI, l5
+
+⁵⁰
+
+Cfr. Sermo ad Hollandiae catholicos, d. 19 Maii, a. 195O habitus: *Discorsi e Radiomessaggi di S. S. Pio XII*, vol. XII, pag. 75.
+
+⁵¹
+
+Matth. X, 41.
+
+⁵²
+
+Cfr. Sermo ad radiophonicae artis cultores conventum ex omnibus Nationibus participantes: d. 5 Maii, a. 1950; *Discorsi e Radiomessaggi di S S. Pio* XII, vol. XII, pag. 75.
+
+⁵⁴
+
+*Gal*. V, 9.
+
+⁵⁴
+
+Cfr. Adhortatio Apostolica, de televisione, d. 1 Ianuarii. a. 1954: A.A.S., vol. XLVI, 1954, pag. 23.
+
+⁵⁵
+
+Cfr. Sermo de gravi televisionis momento, d. 21 Octobris, a. 1955: A. A. S., vol. XLVII, 1955, pag. 777
+
+⁵⁶
+
+Cfr. Sermo d. 14 Septembris, a. I956 habitus: A. A. S. vol. XLVIII, 1956, pag. 707.

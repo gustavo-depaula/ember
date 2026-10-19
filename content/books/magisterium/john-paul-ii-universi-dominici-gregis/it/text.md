@@ -44,7 +44,10 @@ Cap. VII - [Accettazione, proclamazione e inizio del Ministero del nuovo Pontef
 
 ------------------------------------------------------------------------
 
-[TABLE]
+**Versione originale del 22 febbraio 1996** \[[**pdf**](https://www.vatican.va/content/dam/john-paul-ii/pdf/apost_constitutions/documents/universi-dominici-gregis-19960222_it.pdf)\]
+
+**Motu Proprio con cui il Santo Padre Benedetto XVI ripristina la norma tradizionale circa la maggioranza richiesta nell’elezione del Sommo Pontefice (11 giugno 2007)**  
+\[[Francese](https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [Latino](https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [Tedesco](https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html)\]
 
 **Versione vigente dal 22 febbraio 2013**
 

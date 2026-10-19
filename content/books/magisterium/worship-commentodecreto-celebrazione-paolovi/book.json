@@ -1,0 +1,64 @@
+{
+  "id": "worship-commentodecreto-celebrazione-paolovi",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Commentary of His Eminence Cardinal Robert Sarah, prefect of the Congregation for Divine Worship and the Discipline of the Sacraments: A couragious Apostle of the Gospel",
+    "es": "Apóstol valiente del Evangelio: Comentario del Prefcto de la Congregación para el Culto Divino y la Disciplina de los Sacramentos alde inscripción de la celebración de san Pablo VI, Papa, en el Calendario Romano General",
+    "fr": "Courageux Apôtre de l'Évangile : Commentaire du Préfet de la Congrégation du Préfet de la Congrégation pour le Culte divin et la discipline des sacrements au Décret d'inscription de la célébration de saint Paul VI, Pape, dans le calendrier romain général",
+    "it": "Coraggioso Apostolo del Vangelo: Commento del Prefetto della Congregazione per il Culto Divino e la Disciplina dei Sacramenti al Decreto sull’iscrizione della Celebrazione di San Paolo VI, Papa, nel Calendario Romano Generale"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2019-01-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2019-01-25"
+  },
+  "composed": "2019",
+  "languages": [
+    "en-US",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_commentodecreto-celebrazione-paolovi_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_commentodecreto-celebrazione-paolovi_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_commentodecreto-celebrazione-paolovi_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20190125_commentodecreto-celebrazione-paolovi_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Commentary of His Eminence Cardinal Robert Sarah, prefect of the Congregation for Divine Worship and the Discipline of the Sacraments: A couragious Apostle of the Gospel",
+        "es": "Apóstol valiente del Evangelio: Comentario del Prefcto de la Congregación para el Culto Divino y la Disciplina de los Sacramentos alde inscripción de la celebración de san Pablo VI, Papa, en el Calendario Romano General",
+        "fr": "Courageux Apôtre de l'Évangile : Commentaire du Préfet de la Congrégation du Préfet de la Congrégation pour le Culte divin et la discipline des sacrements au Décret d'inscription de la célébration de saint Paul VI, Pape, dans le calendrier romain général",
+        "it": "Coraggioso Apostolo del Vangelo: Commento del Prefetto della Congregazione per il Culto Divino e la Disciplina dei Sacramenti al Decreto sull’iscrizione della Celebrazione di San Paolo VI, Papa, nel Calendario Romano Generale"
+      }
+    }
+  ]
+}

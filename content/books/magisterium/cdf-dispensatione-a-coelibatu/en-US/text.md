@@ -1,3 +1,51 @@
 # Letter to all local Ordinaries and General Moderators of clerical religious communities regarding the dispensation of priests from celibacy, 14 October 1980
 
-[TABLE]
+[](http://www.vatican.va/index.htm)
+
+[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
+
+[](javascript:history.go(-1))
+
+[](#)
+
+------------------------------------------------------------------------
+
+SACRED CONGREGATION FOR THE DOCTRINE OF THE FAITH
+
+***Letter to all local Ordinaries and General Moderators of clerical religious communities regarding the dispensation of priests from celibacy***
+
+1\. In his [1979 Holy Thursday letter to all the priests of the Church](https://www.vatican.va/content/john-paul-ii/en/letters/1979/documents/hf_jp-ii_let_19790409_sacerdoti-giovedi-santo.html) the Supreme Pontiff, [Pope John Paul II](/holy_father/john_paul_ii/index.htm), once again placed in clear light just how great a value is to be set on priestly celibacy in the Latin Church. In doing this he made reference, as he himself admits, to the well-thought-out teaching of the Second Vatican Council, of Pope Paul VI in his encyclical *[Sacerdotalis Caelibatus](https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html)*, and finally of the 1971 Synod of Bishops.
+
+The Holy Father reminded us that this is a matter of great importance, one which is connected by a special link to the message of the Gospel. Following the example of Christ our Lord and in accord with the apostolic teaching and tradition which is proper to it, the Latin Church wished, and even now wishes, that all who receive the sacrament of orders embrace this renunciation not only as an eschatological sign but also as "a sign of the person's freedom, a freedom which in turn is tied to ministry."
+
+The Supreme Pontiff observed: "Any Christian about to receive the sacrament of orders binds himself to the obligation of celibacy with full awareness and freedom. He does this after having spent many years in preparation and after having given careful deliberation to and much prayer over this matter. Since he has firmly persuaded himself that Christ grants him that 'gift' for the benefit of the entire Church and for the service of others, only then does he enter upon the plan to lead a life of celibacy... And thus it is clear that this plan, so undertaken, now obliges, not only due to some law passed by the Church, but also due to the very awareness that duties are expressly undertaken by a person. It is for this reason that it is of importance that promises made to Christ and to the Church be honored." Finally, the Christian faithful who are married have a perfect right to expect from their priests, as His Holiness adds, "good example and a witness to fidelity in their vocation even until death."
+
+2 It is true that in recent years priests have experienced difficulties. These difficulties have resulted in a somewhat large number of priests requesting a dispensation from the obligations which arise from their priestly ordination, especially a dispensation from celibacy. The widespread attention given to this fact has inflicted a serious wound on the Church. The Church has been deeply stricken at the very source of its life. With equal sorrow this wound affects pastors and the entire Christian community. Because of this the Supreme Pontiff, Pope John Paul II, from the very beginning of his Supreme Apostolic Ministry came to the conclusion that it is necessary to initiate an investigation concerning this situation, concerning its causes and concerning suitable remedies to be employed for it.
+
+3\. But real care is to be taken so that a process of such serious importance, as is a dispensation from celibacy, not be considered as a right which the Church must recognize indiscriminately as belonging to all its priests. On the other hand, what is to be considered as being a true right is that one which a priest through his oblation has conferred upon Christ and upon all the people of God. Despite the serious difficulties which stand in his way and which can happen to him in this life, Christ and the people of God expect the priest to observe the fidelity which he had promised them. Equally to be avoided is the notion that a dispensation from celibacy in recent times can be considered to be the result of some quasi-automatic, summary administrative process (cf. Pope John Paul II, ["Letter to All the Priests of the Church on the Occasion of Holy Thursday"](https://www.vatican.va/content/john-paul-ii/en/letters/1979/documents/hf_jp-ii_let_19790409_sacerdoti-giovedi-santo.html), n. 9).
+
+Exceedingly great benefits are derived from making such a distinction: particular benefit to the priest who is requesting the dispensation and who judges that this is the only solution to his existential problem, the weight of which he thinks he can no longer bear; general benefit to the Church which in an equal manner cannot bear having its priestly structure slowly eroded since it is so necessary for the accomplishment of its office; finally, particular benefit to the local Churches, that is, to the Bishops with their presbyterate since both groups are moved by an eagerness to maintain – as much as is possible – necessary apostolic resources, and to all groups of the Christian faithful for whom the service of the priestly ministry is to be considered as being a right and a necessity. While observing justice and charity, the multiple aspects of this question are to be given consideration: None of them can be neglected, let alone rejected.
+
+4\. Aware then of the many and likewise complex aspects of this issue which include sad personal situations and at the same time realizing the necessity to consider everything according to the spirit of Christ, the Holy Father – to whom a good number of Bishops have supplied advice along with their ideas on the issue – had decided to spend a suitable period of time in order that with the assistance of his co-workers he might arrive at a prudent conclusion, based on strong arguments, concerning the acceptance, the examination and the resolution of petitions concerning a dispensation from celibacy. The results of this mature deliberation are here briefly explained. This studied concern to weigh all the aspects raised in this matter suggests and inspires norms which will govern the future examination of petitions sent to the Apostolic See. As is obvious, it is thoroughly necessary that norms of this type in no way be separated from the pastoral spirit which animates them.
+
+5\. With the exception of cases dealing with priests who have left the priestly life for a long period of time and who hope to remedy a state of affairs which they are not able to quit, the Sacred Congregation for the Doctrine of the Faith shall in processing the examination of petitions sent to the Apostolic See accept for consideration the cases of those who should not have received priestly ordination because the necessary aspect of freedom of responsibility was lacking or because the competent superiors were not able within an appropriate time to judge in a prudent and sufficiently fitting way whether the candidate really was suited for continuously leading a life of celibacy dedicated to God.
+
+Since it would lessen the significance of the priesthood, the sacred character of ordination and the seriousness of obligations previously undertaken, also to be avoided in this process is any levity in procedure which can reasonably afford detriment, sorrowful astonishment or scandal to a good number of the Christian faithful. Therefore a case in favor of dispensation is to be demonstrated by the force of the number of its arguments and by their preponderance. In order that the matter proceed in a serious manner and that the good of the Christian faithful be protected, provision will be made with equal care that those petitions presented in a spirit other than one reflecting humility will not be admitted.
+
+6\. In discharging this difficult duty entrusted to it by the Roman Pontiff, the Sacred Congregation for the Doctrine of the Faith is well aware that it can place its hope in the full and trusted cooperation of all the Ordinaries concerned. This Congregation stands ready to furnish all the assistance which the ordinaries should desire.
+
+Since it is also well aware of their pastoral zeal, this Congregation is likewise thoroughly confident that the Ordinaries will give prudent observance to the proposed norms. Such zeal in this area will generate the conditions necessary to serve the good of the Church and of the priesthood and to provide for the spiritual life of both priests and Christian communities.
+
+Finally, this Dicastery knows that the Ordinaries can in no way forget their duties of spiritual fatherhood toward all their priests, especially toward those who are now in a serious spiritual crisis. It knows that these ordinaries will furnish these priests with strong, straightforward and necessary assistance so that they may more easily and joyfully safeguard the duties undertaken on the day of ordination toward the Lord Jesus Christ and his holy Church. In doing this the Ordinaries will make use of all those things in the Lord which can call back a wavering brother to peace of mind, to confidence, to renewal and to quick resumption of his former state. In this the Ordinaries should also employ, depending on the circumstances of the individual case, the help of his priestly brothers, friends, relatives, physicians and psychologists (cf. *[Sacerdotalis Caelibatus](https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html)*, nn. 87 and 91).
+
+7\. Attached to this letter are procedural norms which are to be observed in preparing the documents relating to a petition for a dispensation from celibacy.
+
+While we communicate these matters to you as part of our duty, we are at your service and confess ourselves yours in the Lord.
+
+*Rome, from the Seat of the Sacred Congregation of the Doctrine of the Faith, October 14, 1980.*
+
+**Cardinal Franjo Šeper** *Prefect*
+
+\+ **Fr. Jérôme Hamer, O.P.** *Titular Archbishop of Lorium Secretary*
+
+------------------------------------------------------------------------

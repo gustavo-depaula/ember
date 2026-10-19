@@ -51,5 +51,3 @@ Affinché corrispondiate pienamente a questa Nostra aspettazione e perché ogni 
 4 *S. Carolus Borr*., in *Syn*. I, Concio I.
 
 5 *M*. *L*., IV, 336.
-
-© Copyright - Libreria Editrice Vaticana

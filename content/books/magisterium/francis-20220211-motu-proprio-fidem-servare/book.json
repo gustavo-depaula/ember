@@ -1,0 +1,56 @@
+{
+  "id": "francis-20220211-motu-proprio-fidem-servare",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued “Motu proprio” Fidem servare, modifying the internal structure of the Congregation for the Doctrine of the Faith",
+    "pt-BR": "Carta Apostólica sob forma de «Motu Proprio» Fidem servare, com a qual é modificada a estrutura interna da Congregação para a Doutrina da Fé",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» Fidem servare, con la quale viene modificata la struttura interna della Congregazione per la Dottrina della Fede"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2022-02-11",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2022-02-11"
+  },
+  "composed": "2022",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20220211-motu-proprio-fidem-servare.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/20220211-motu-proprio-fidem-servare.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20220211-motu-proprio-fidem-servare.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued “Motu proprio” Fidem servare, modifying the internal structure of the Congregation for the Doctrine of the Faith",
+        "pt-BR": "Carta Apostólica sob forma de «Motu Proprio» Fidem servare, com a qual é modificada a estrutura interna da Congregação para a Doutrina da Fé",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» Fidem servare, con la quale viene modificata la struttura interna della Congregazione per la Dottrina della Fede"
+      }
+    }
+  ]
+}

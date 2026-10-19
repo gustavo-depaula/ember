@@ -81,5 +81,3 @@ REFERENCES:
 19\. Isa. 59:1.
 
 20\. Titus 3:4.
-
-© Copyright 1878 - Libreria Editrice Vaticana

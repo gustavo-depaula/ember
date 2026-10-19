@@ -1,0 +1,197 @@
+# Il flusso reciproco tra teologia e vita alla luce di San Bonaventura e di altri maestri. Conferenza per il Simposio monastico “Sapienza. Forma di vita e di pensiero” presso il Pontificio Ateneo Sant’Anselmo
+
+[](http://www.vatican.va/index.htm)
+
+[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
+
+[](javascript:history.go(-1))
+
+[](#)
+
+------------------------------------------------------------------------
+
+Card. Victor Manuel Fernández *Prefetto del Dicastero per la Dottrina della Fede  *
+
+**Il flusso reciproco tra teologia e vita alla luce di San Bonaventura e di altri maestri**
+
+*Conferenza per il Simposio monastico “Sapienza. Forma di vita e di pensiero” Pontificio Ateneo Sant’Anselmo, Roma, 9 aprile 2025        *
+
+I rapporti fra teologia e vita rappresentano una questione cruciale. Per “vita” si intende sia l’esperienza spirituale che i comportamenti.
+
+**1.** Con il termine “esperienza spirituale” intendo più precisamente “il Vangelo vissuto” ovvero il Vangelo fatto proprio, assaporato, ringraziato, goduto, ricevuto felicemente come dono per me, fino al punto che diventa rapporto personale col Cristo che si rivela e rapporto con la Trinità che penetra il cuore.
+
+**2.** In secondo luogo, e come conseguenza di quanto sopra, parlo di “vita” nel senso dell’esistenza concreta con i suoi comportamenti: non certo come il compimento di un codice di leggi; sì, invece, come sentiva san Carlo di Foucauld: agire come Cristo, domandarmi sempre cosa farebbe Cristo al mio posto, e lasciarlo agire attraverso di me, permettere che sia Cristo ad esprimersi attraverso il mio modo di vivere, di reagire, di comportarmi. In tutto ciò non va poi dimenticato che in questo mondo dell’agire si deve sempre includere la vita fraterna e comunitaria, il compromesso sociale e la missione.
+
+Che rapporti ha la teologia con la “vita” intesa in questo duplice modo?
+
+***Diventare più buoni***
+
+Spicca nella storia della teologia un grande teologo che si caratterizza precisamente per essere riuscito a unire saldamente teologia e vita: mi riferisco a san Bonaventura. Quando si interrogava circa il servizio che la teologia è chiamata a compiere, san Bonaventura lo faceva da discepolo di san Francesco d’Assisi. Si chiedeva dunque che avrebbe detto al riguardo san Francesco. E la risposta era facile da conoscere, perché sant’Antonio da Padova aveva posto a san Francesco proprio la seguente domanda: “Lei che ne pensa? Io prima di diventare un suo discepolo studiavo ed insegnavo teologia, vale la pena che continui a farlo?”. Ed è a tutti noi che san Francesco ha risposto con una letterina in cui utilizza le parole indispensabili: “A frate Antonio… Ho piacere che tu insegni la sacra teologia ai frati, purché in questa occupazione, tu non estingua lo spirito dell’orazione e della devozione”.
+
+Conoscendo questa lettera, il grande teologo Bonaventura, quando si pose la domanda: “a che serve la teologia?”, rispose senza dubbi: “per diventare più buoni” (*Brevil*, prol, 5, 2). Se veramente la teologia è un approfondimento del Vangelo, la stessa teologia ci motiverà all’ incontro d’amore col Signore nella preghiera e a cambiare i comportamenti, a agire sempre di più come Cristo. Studiare la Trinità, ad esempio, ci illumina per capire l’importanza della vita in comunità. Aver capito che è Dio colui che ha voluto la diversità che esiste nel mondo, deve servirci quando guardiamo le cose e la storia. Aver compreso l'infinita dignità che ogni essere umano ha, dovrebbe provocare in noi gli atteggiamenti giusti ogni volta che incontriamo un’altra persona. Avere inteso che Dio è veramente il senso ultimo dell'esistenza deve orientarci quando pianifichiamo la nostra vita in mezzo a tante incertezze e dubbi del nostro cammino.
+
+Se lo studio non arricchisce la vita, diventa solo un cumulo di idee, un esercizio di logica, una costruzione mentale, una dimostrazione di capacità sistematiche, una vanagloria intellettuale che ci pone sopra gli altri che non hanno queste abilità speculative.
+
+Invece, in una teologia collegata alla vita esiste un circolo virtuoso. Infatti, nella misura in cui tentiamo di vivere meglio, la nostra mente si apre per capire più profondamente i misteri del Vangelo. L’amore vissuto provoca un contatto con le realtà soprannaturali, e questo “contatto” trabocca e scende come un fiume sulla mente, ed è così che l’intelletto si illumina e vede meglio.
+
+Il fatto è, come afferma chiaramente la Parola rivelata: “Amiamoci gli uni gli altri, perché l’amore è da Dio: chiunque ama è stato generato da Dio e conosce Dio. Chi non ama non ha conosciuto Dio, perché Dio è amore” (1 Gv 4, 7-8). Qui è tutto chiaro, eppure quanta fatica facciamo a trarre le conseguenze di questo testo della Parola rivelata! Non riusciamo a intuire che è un chiarimento essenziale sulla nostra ricerca della conoscenza di Dio.
+
+Questo testo biblico ha dietro di sé una storia che lo collega molto strettamente col tema che stiamo approfondendo. Se leggiamo, infatti, il Vangelo di Giovanni e poi la prima lettera di Giovanni, troviamo un’evoluzione che si evidenzia in alcuni testi di questi due scritti. Nei tempi in cui vide la luce la prima lettera a Giovanni erano apparsi alcuni gruppi di profilo pre-gnostico, che proponevano una visione di Dio come luce che può essere raggiunta attraverso la conoscenza. La vita rimaneva fuori. Allora la comunità giovannea ha fatto lo sforzo di rileggere il Vangelo per eliminare questo rischio. Vediamo tre esempi.
+
+Il Vangelo di Giovanni dice: “se avete conosciuto me conoscerete anche il Padre mio, fin da ora lo conoscete” (Gv 14, 7).   La prima Lettera dice: “Chi non ama *non ha conosciuto Dio*” (1 Gv 4, 8).
+
+Il Vangelo dice: “chi ascolta la mia parola *e* crede nel Padre che mi ha mandato \[…\] è già *passato dalla morte alla vita” (Gv 5, 24)*.  La prima Lettera dice: “noi sappiamo che siamo *passati dalla morte alla vita* perché amiamo i fratelli. Chi non ama rimane nella morte” (1 Gv 3, 14).
+
+Dove il Vangelo dice: “chi *cammina nelle tenebre non sa dove va*, mentre avete la luce camminate nella luce” (Gv 3, 16)   La prima Lettera dice: “chi ama suo fratello, dimora nella luce e non v'è in lui occasione di inciampo. Ma chi odia suo fratello è nelle tenebre, *cammina nelle tenebre e non sa dove va*” (1 Gv 2, 10-11).
+
+Si vede bene l’operazione fatta con questi testi. La prima Lettera afferma all’inizio che “Dio è luce e in lui non c’è tenebra alcuna” (1 Gv 1, 5), ma poi sottolinea che, senza una vita di amore fraterno, non c’è luce: c’è soltanto una finta saggezza.
+
+Tutto ciò è stato fortemente accolto nel pensiero di Bonaventura, che arriva infine a identificare la sapienza con l'esercizio della carità: *“Maior sapientia quae possit ese, est quod dispensator fructuose expendat quae habet dispensare \[…\] Misericordia amica est sapientiae”* (*De septem Donis 9, 15*).  
+
+***Un pensiero che cambia la vita?***
+
+Molte volte sorge una domanda: “se riusciamo ad approfondire una verità, ad accettarla con convinzione, questo produce di per sé un cambiamento nella nostra vita personale?” Verrebbe spontaneo rispondere di sì. Ma guardiamo semplicemente alla storia. Non dobbiamo forse riconoscere che sono stati tanti i pensatori che hanno espresso certe idee con grande convinzione, ma poi, nelle situazioni concrete, si sono mossi esattamente in direzione contraria. Succede anche con alcuni politici che sono di sinistra con ferma convinzione ma che poi, quando governano, prendono decisioni tipiche della destra, e così via.
+
+La stessa cosa accade con la teologia? L'approfondimento teologico diventa una convinzione che automaticamente cambia la vita? Cominciamo col riconoscere che non pochi che si sono macchiati del terribile delitto di pedofilia sono persone con un pensiero molto classico, una morale piuttosto rigida e convinzioni molto ferme sul sesto comandamento che impongono agli altri come uno che lancia mattoni. E lo stesso si potrebbe dire di coloro che difendono con forza un'opzione per i poveri e la argomentano magnificamente e anche con passione, ma poi preferiscono non essere molto vicini ai poveri. Allo stesso modo, tante belle riflessioni sulla Trinità come comunione, che inviterebbero pure a riprodurre questo dinamismo nelle relazioni tra gli esseri umani, non necessariamente producono, in chi le propone con molta bellezza, una vita comunitaria intensa e generosa.
+
+Si deve pertanto affermare che un pensiero, anche se è carico di riflessione, di argomenti belli, di convinzione, non cambia spontaneamente la vita, non produce un tale effetto da solo. Cosa direbbe un maestro come San Bonaventura, che aveva un pensiero mistico ed evangelico, fortemente ispirato dalla spiritualità di San Francesco, con una teologia piena di poesia e di espressioni di amore per Gesù Cristo? Cosa direbbe su questo punto? Non c'è bisogno di immaginarlo perché egli dice esplicitamente al riguardo: “*Non est securus transitus a scientia ad sapientiam*” (*In Hexaem*. 19, 3). La conoscenza teologica, per quanto bella possa essere, non ci assicura l'accesso alla sapienza, che è una conoscenza già resa viva dalla carità. Ma questa verità non sempre ci è chiara e facilmente si può credere che il fatto di aver capito qualcosa implichi il fatto di viverla già.
+
+E se questo passaggio non è garantito, automatico, immediato, allora come avviene il passaggio dalla conoscenza alla vita? Bonaventura risponde senza esitazione: “*Oportet medium ponere*” (*ib*). E spiega pure quale sia questo “medium”: “*Transitus autem est exercititum*”: Il passaggio dalla conoscenza alla vita è un “esercizio” (*ib*).  E continua: “*exercitatio a studio sapientiae ad studio sanctitatis*”. Vale a dire: anche se non possediamo una scienza superficiale, perché c'è già una vita di grazia che ci fa entrare nell'ambito della sapienza, lo studio ha sempre bisogno del nostro impegno per “esercitare” il Vangelo, perché soltanto così il Vangelo potrà avere qualche conseguenza nella nostra crescita vitale. Ecco cos'è quello che Bonaventura chiama “*sapientialia exercitia*” (*De Regno Dei*, 34), riferendosi in particolare alle opere di misericordia.
+
+***Le scelte necessarie***
+
+A questo pensiero san Bonaventura aggiunge che un'*opzione preferenziale* è indispensabile nel nostro percorso intellettuale: la conoscenza e la vita sono due aspetti complementari, belli e necessari, ma non hanno lo stesso valore. Per raggiungere la propria pienezza umana, la cosa più importante, la cosa indispensabile, è la vita. Ecco perché conclude: “*Qui enim praefet scientiam sanctitati nunquam prosperabitur*” (*ib*). Se in fondo, dunque, abbiamo optato per la scienza, sia per curiosità, sia anche per impressionare gli altri o per qualsiasi altro motivo, in verità abbiamo scelto una strada infruttuosa.
+
+Tuttavia, Bonaventura riconosce che alcuni temi della teologia possono aiutarci più di altri a favorire una maturazione nella nostra vita ed una maggiore fedeltà al Vangelo. Ecco perché suggerisce che, se siamo chiari sul significato della nostra esistenza, c'è un secondo livello di scelta a cui dobbiamo prestare attenzione. È necessario, infatti, stabilire un certo ordine tra i temi che affrontiamo nello studio: “*Quo ordine, ut id prius addiscat quod maturius est ad salutem*”, invitandoci pure a preferire “*quod vehementius trahit ad amorem Dei*” (*De septem Donis* 4, 23).
+
+Bisogna ricordare che si tratta di un invito alla sintesi, a penetrare il cuore del Vangelo piuttosto che i suoi aspetti secondari. In questo senso Papa Francesco elogia santa Teresa de Lisieux come “dottore della sintesi”, perché “il suo genio consiste nel portarci al centro, a ciò che è essenziale, a ciò che è indispensabile”, e come teologi “abbiamo ancora bisogno di recepire questa intuizione geniale di Teresina e di trarne le conseguenze teoriche e pratiche” (*[C’est la Confiance](https://www.vatican.va/content/francesco/it/apost_exhortations/documents/20231015-santateresa-delbambinogesu.html)*, 49-50).
+
+Allo stesso tempo, Bonaventura sottolinea la necessità di stabilire delle priorità negli obiettivi che ci poniamo quando studiamo: “*non propter inanem gloriam aut curiositatem, sed propter aedificationem suam et proximi addiscat*” (*ib*). In questo testo è importante notare che san Bonaventura non chiama in causa solo a ciò che può edificare noi stessi, ma anche ciò che può edificare di più il prossimo. In una tale ricerca, allora, non c’è soltanto scienza, ma si esercita proprio la virtù della carità. Questo ci porta al prossimo argomento.
+
+***Aliis tradere***
+
+La “vita” include pure la comunicazione di quello che abbiamo vissuto. Anche se siete monaci, la conoscenza teologica diventa piena nella comunicazione, almeno tra voi. La comprensione, infatti, raggiunge il suo apice e mostra la sua autenticità quando può essere espressa nella lingua dell'altro. Se il teologo non lo fa, è perché la verità su cui ha riflettuto non è stata da lui sufficientemente penetrata e proprio per questo non può portare frutto. L'esperienza teologica è comunicativa *per sua stessa natura*. Un'autentica comprensione produce da sé il bisogno imperativo di essere comunicata, come un fuoco interiore impossibile da spegnere: "Guai a me se non predicassi il Vangelo!" (1 Cor 9,16).
+
+E la teologia si fa anche attraverso metafore, come insegnava san Tommaso (cfr. *ST* I, 1, 9). Già la *[Evangelii Nuntiandi](https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html)* aveva chiarito che si tratta di una questione molto più profonda e ampia delle parole che usiamo. Si tratta di linguaggio in senso antropologico.[^1] Allora il compito di cercare le espressioni metaforiche giuste presuppone che uno abbia prima fatto un grande sforzo per penetrare nelle categorie dell'altro, nella sua sensibilità, nelle passioni che lo muovono, nel suo modo di guardare e di vivere il mondo, tenendo altresì conto di quello che Dio stesso sta tentando di dire attraverso queste circostanze storiche. Presuppone, in sintesi, una lettura della realtà che ci permetta di penetrarla. In questo senso, Papa Francesco sottolineava che è necessario che i teologi “abbiano a cuore la finalità evangelizzatrice della Chiesa e non si accontentino con una teologia da tavolino” ([EG](https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Cultura,_pensiero_ed_educazione) 133).
+
+Questo sforzo, allora, può essere fatto anche da un monaco e non l’allontana affatto dalla contemplazione. In che modo? Approfittando soprattutto della vita comunitaria, nella quale è possibile avere momenti di condivisione di quello che ciascuno scopre nella sua ricerca ed esperienza personale. Questo lo facevano i nostri grandi santi e maestri come san Benedetto, sant’Agostino, san Bernardo ed altri. Si tratta, in un incontro fraterno, di tentare di esprimere all’altro quello che ci ha illuminato e cercare le parole e le metafore perché quest’esperienza sia utile anche per lui. Allo stesso tempo, è importante e molto fruttuoso recepire la visione dei nostri interlocutori per poter ripensare le nostre idee. Questo ci ricorda, infine, che c’è una costruzione comunitaria della teologia, e la teologia ha oggi scoperto meglio il valore del “noi” nel metodo teologico.
+
+Ma su questo punto possiamo andare oltre. Trovare, infatti, un modo di dire la verità al mondo attuale non è finalizzato necessariamente solo per svolgere un’attività missionaria o per arricchirci a vicenda nell’incontro con gli altri. Quell’operazione è preziosa prima di tutto proprio per *capire* aspetti della verità che lo Spirito sta tentando di trasmettere nel mondo di oggi. Le metafore non si usano solo per trasmettere vecchie idee al mondo d’oggi, ma anche per poter capire attraverso la metafora, o la poesia, o la pittura, o la musica, quello che con altri linguaggi non si coglie del tutto. E questo è prezioso anche per un monaco che non per caso è nato in questo secolo. C’è una contemplazione della verità che, essendo eterna, presenta diversi aspetti nei diversi luoghi e nei diversi momenti storici, e anche la contemplazione si incarna e si arricchisce nell’oggi. Se Dio ci ha regalato il dono di nascere in questo tempo storico, dobbiamo incarnarci in questo momento storico e cogliere quello che offre per la nostra comprensione della verità. È lo stesso Spirito Santo chi ci parla nella storia, e noi cogliamo la Sua voce anche attraverso il dialogo con le filosofie, con le scienze, così come attraverso il dialogo con i più poveri e i più semplici del Popolo di Dio, perché loro guardano la realtà da un altro punto di vista. Grazie a questa incarnazione nel nostro oggi accade poi che, anche quando studiamo san Bernardo o san Bonaventura, troviamo nei loro testi delle luci che nel nostro contesto attuale dicono qualcosa di nuovo, che di fatto è “nuovo” anche per loro che hanno vissuto in un altro ben diverso contesto storico.
+
+***La comprensione dietro la comunicazione***
+
+Detto tutto questo, guardiamo ora anche l'altra faccia della realtà. Chi non legge, non studia, non riflette, finisce per ripetere le stesse cose e tutto diventa noioso. La verità del Vangelo non cambia, è la stessa di sempre, ma non possiamo ripeterla, neanche a noi stessi, sempre allo stesso modo, perché così stanca, perde fascino, ci porta a una triste mediocrità.
+
+Siamo chiamati a comunicare una comprensione profonda delle verità della fede, non solo una certezza interiore. Per comunicare una certezza interiore, basta provocare nell’altro una certa esperienza di fede attraverso una testimonianza di vita, che non ha neppure bisogno di parole. Ma la fede porta in sé anche la chiamata a utilizzare al meglio la nostra capacità di pensare, per poter comunicare una verità sulla quale abbiamo riflettuto.
+
+È vero che la comprensione può essere semplicemente la connaturalità, l'abbraccio che produce l'esperienza dell'amore teologale, la luce della sapienza soprannaturale. Si tratta di un vero contatto con la verità del Vangelo prodotto dalla grazia stessa (cfr. *ST* II-II, 45, 2). Questo vale non solo per il mistero della Trinità, ma per tutti i temi della teologia. In questo senso, una persona molto semplice che vive la verginità con gioia sa quale sia l’essenza della virginità molto meglio di un teologo che la spiega. Bonaventura lo esprime in questo modo: “*Nobilior est modus aprehendi per tactus et amplexus quam per modum visus*” (*III* *Sent* 27, 2, 1, ad 6).
+
+Questa è una conoscenza accessibile a tutti, senza esigenze accademiche. È vero. Ma tutto questo non esclude un altro cammino: quello dello sforzo e della gioia costanti della teologia. Non tutti scriveranno articoli di teologia o terranno conferenze, ma tutti in certa misura *devono essere teologi* e fare un uso eccellente della loro intelligenza per la gloria di Dio.
+
+Quando Dio ti chiama all'incontro con Lui e alla missione, non ti strappa la testa, non mutila il tuo cervello, non deturpa la tua capacità di riflessione, non distrugge la facoltà di pensiero che Lui stesso ha creato in te con amore infinito. Al contrario, promuove la nostra intelligenza perché si sviluppi più che mai al servizio del Vangelo. Così l’evangelizzazione diventa, come spiegava san Tommaso d’Aquino, "*comunicare ciò che è stato contemplato*" (*ST* II-II, 188, 6); essa suppone cioè l'aver contemplato, richiede l'aver dedicato un prolungato spazio di solitudine e di ricerca allo studio orante, e l'aver perseverato in questa dedizione.
+
+Questa fondamentale esperienza sapienziale, tanto ardua quanto confortante, si traduce in ciò che san Paolo VI ha splendidamente espresso come "culto della verità”:
+
+*"Il Vangelo che ci è stato affidato è anche parola di verità. Una verità che libera \[...\] Una verità profonda che cerchiamo nella Parola di Dio e di cui non siamo né i proprietari, né gli arbitri, ma i depositari, gli eredi, i servi. Ci si aspetta che ogni evangelizzatore possieda il culto della verità \[...\] Il predicatore del Vangelo sarà colui che, anche a costo della rinuncia e del sacrificio, cercherà sempre la verità che deve trasmettere agli altri. Non vende né maschera mai la verità per il desiderio di piacere agli altri, per suscitare stupore, o per originalità o per desiderio di apparire. Non rifiuta mai la verità. Non la oscura per pigrizia nel cercarla, per comodità, per paura. Non smette di studiarla" ([EN](https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html) 78).*
+
+Se uno non dedica tempo alla lettura, alla riflessione, a porsi delle domande e cercare le risposte oltre quanto si è sempre detto, si diventa facilmente fondamentalisti, che ripetono due o tre frasi come se fossero assolute, e le buttano addosso agli altri con violenza ed arroganza come sassi. Quello non è amore alla verità. Chi ama la verità si sente sempre superato, immerso in un mare inesauribile, e continua a cercare una comprensione più profonda. Per questa ragione Papa Francesco ci invitava ad evitare l’atteggiamento di coloro che si sentono padroni della loro verità perché rimangono chiusi in un unico approccio ad essa, incapaci di fare lo sforzo di capire le ragioni di altri pensieri: “A quanti sognano una dottrina monolitica difesa da tutti senza sfumature, ciò può sembrare un’imperfetta dispersione. Ma la realtà è che tale varietà aiuta a manifestare e a sviluppare meglio i diversi aspetti dell’inesauribile ricchezza del Vangelo” (*[EG](https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#IV.%E2%80%82La_missione_che_si_incarna_nei_limiti_umani)* 40).
+
+L'opposto del fondamentalismo è una santa insoddisfazione che San Giovanni della Croce esprime così bene:
+
+*“Questo spessore di saggezza e conoscenza di Dio è così profondo e immenso che, sebbene l'anima ne sappia di più, può sempre entrare più in profondità. Perché è immenso e le sue ricchezze sono incomprensibili \[...\] L'anima desidera entrare in questa boscaglia e incomprensibilità dei giudizi e dei sentieri, perché muore nel desiderio di giungere alla conoscenza di essi nel profondo. Perché conoscere, in essi, è una delizia inestimabile che supera ogni senso”(Cant 36, 10-11).*[^2]
+
+***Buio, contatto e ricerca***
+
+I grandi mistici hanno sempre insegnato che, più si sale in alto, maggiore è la sensazione di oscurità nella mente ed ogni pretesa di abbracciare la verità con le proprie capacità scompare, fino a quando si diventa pienamente ricettivi, lasciandosi afferrare dalla luce di Dio. Allora prende forma e vita una nuova specie di saggezza. Vediamo come si sono espressi alcuni maestri:
+
+*“È necessario che tutte le operazioni intellettuali siano abbandonate, e che l’apice dell'affetto sia trasferito interamente a Dio e tutto sia trasformato in Dio. E questa è l'esperienza mistica più segreta, che nessuno conosce se non chi la riceve, e nessuno la riceve se non chi la desidera, e nessuno la desidera se lo Spirito Santo non lo infiamma fino al midollo... Se volete sapere come si fanno queste cose, chiedete la grazia, non la conoscenza umana; chiedete il desiderio, non la comprensione; chiedete il gemito espresso nella preghiera, non lo studio e la lettura; chiedete allo Sposo, non al Maestro; chiedete a Dio, non all'uomo; chiedete le tenebre, non la luce; non la luce, ma al fuoco...”* (S. Bonav. *Itiner.* VII, 4-6).
+
+*“Non di conoscenza, ma di godimento; non di ammirazione, ma di affetto; non della scienza, ma dell'esperienza; non di vista, ma di gusto e di sapore”* (S. Francesco di Sales, *Trat. amore Dio*, V, 3).[^3]
+
+*“Dio prende la volontà, ma mi sembra che prenda anche l'intelletto, perché non ragiona, ma è occupato a godere di Dio come uno che guarda, e vede così tanto che non sa dove guardare”* (S. Teresa d’Avila, *Vida,* XII).[^4]
+
+ *“Per venire a sapere tutto, non devi voler sapere qualcosa di niente... Per arrivare a ciò che non sai, devi andare attraverso dove non sai”* (S. Giovanni della Croce, *Subida,* I, 13, 11).[^5]
+
+Paradossalmente, però, c’è da riconoscere che le considerazioni sin qui riportate non diminuiscono l'importanza della teologia; soltanto la collocano propriamente, come umile serva, in un contesto che la supera e al tempo stesso la stimola provocando il "culto della verità". Le altezze non ci portano fuori dalla terra, al contrario, ci permettono di entrare nelle profondità di questo mondo. Vedete che qualcuno raggiunge quelle vette in una pienezza di sapienza, nel luminoso non sapere, e nello stesso tempo forse è maestro dei novizi e deve esporre un tema, o deve predicare a Messa, o deve tenere una lezione, e per questo ha ancora bisogno di studiare e prepararsi. Quella conoscenza mistica, infatti, così profonda e personale, non è comunicabile: "Il mio segreto è per me", diceva Angela de Foligno, e non lo ha nemmeno comunicato al suo direttore spirituale. Per questa ragione vi è il bisogno di dare forma ad un altro modo di sapere che sia comunicabile.
+
+D'altra parte, resta vero che, se portato avanti nel modo giusto, un approfondimento teologico può sempre continuare a stimolare una nuova crescita nella vita di carità. Si danno, dunque, due livelli, due modi di conoscere, due percorsi diversi che convivono e si completano a vicenda.
+
+***Attività piena***
+
+La nostra ricerca della verità, intesa in questo senso così ricco, permette poi che l'azione pastorale possa essere al tempo stesso contemplazione, cioè "comunicazione di ciò che *si sta* contemplando" e non solo di quello che si è contemplato. Per san Tommaso, questa è la cosa più perfetta che possiamo vivere su questa terra, poiché combina la perfezione della contemplazione con la perfezione del dono di sé nell'azione (cf. *ST* II-II, 188, 6-7; 181, 3). Quando questo accade, l'azione acquista una qualità interiore tale che il teologo non fa fatica quando comunica, non si angoscia di uscire dalla sua solitudine riflessiva se deve predicare o insegnare, perché nella comunicazione contemplativa il suo carisma teologico diventa pieno. L'azione comunicativa a sua volta, come esercizio della carità, predispone a una migliore contemplazione (cf. *ST* II-II, 182, 4, ad 3).
+
+Questo richiamo alla comunicazione contemplativa presuppone un tempo di studio svolto con grande adesione interiore. Non possiamo più intendere lo studio come un momento di sonno, in cui si rinuncia alla vita per entrare in una sorta di inutile letargo. La ricerca della verità è piena attività. È una ricettività ed un invito ad aprirsi alla verità, ma con piena consapevolezza e donazione di sé, con la massima attenzione, come chi ascolta il proprio amico con totale interesse. Si tratta di un’esperienza che possiamo accostare a quella della vita eterna, dove non fabbricheremo né costruiremo nulla: sarà solo atto pieno, vita piena. Proprio per questo Bonaventura esortava: “Non spingerti oltre le tue capacità, *ma non rimanere in basso*” (*In Hexaem.* 19,19).
+
+***L’importanza dell’inizio***
+
+Abbiamo ricordato con san Bonaventura che è importante custodire la finalità per la quale studiamo, lo sforzo di collegare lo studio all’impegno a vivere meglio, e che bisogna stare attenti anche alle scelte che facciamo e all’ordine delle cose da studiare, in modo tale che si studi in via prioritaria quello che possa meglio arricchire la vita.
+
+Possiamo immaginare ancora qualcosa d’altro che possa dare allo studio quella qualità che lo fa diventare veramente fecondo? La risposta a questo interrogativo è positiva: diventa veramente fecondo quello studio che si svolge nel contesto di un intenso desiderio che va alimentato dalla preghiera:
+
+*“Non est enim anima contemplativa sine desiderio vivaci” (In Hexaem. 22, 29).*
+
+*“Nullus habet, nisi vir desiderium, nec potest \[hanc visionem\] habere nisi per magnum desiderium” (In Hexaem. 20, 1).*
+
+*“Nunquam venit in contemplatione radius spendoris quin etiam sit inflammans” (In Hexaem. 20, 12).*
+
+La preghiera che esprime e alimenta questo desiderio deve essere un autentico "gemito"; è una preghiera che "rugire facit a gemitu cordis" (*Itin*., prol, 3). Questo gemito orante è ciò che ci tiene al riparo da uno studio senza uno scopo adeguato e ci porta a riconoscere la necessità della grazia anche nel lavoro teologico: *“Igitur ad gemitum orationis per Christum crucifixum \[...\] primus quidem lectorem invito, ne forte credat quod sibi sufficiat lectio sine unctione, speculatio sine devotione, investigatio sine ammirazione...” (ib, 4a).*
+
+Se si inizia a studiare con un tale spirito di preghiera, allora è possibile sviluppare una teologia che nutre veramente la vita: *“Prevenitus igitur divina gratia, humilibus et pius, compunctis et devotis, unctis oleo laetitiae, et amatoribus divinae sapientiae et eius desiderius inflammatis, vacare volentibus ad Deum magnificandum, admirandum et etiam degustandum, speculationes subiectas propono” (ib, 4b).*
+
+***Dall'amore all'amore***
+
+Non ci resta da ricordare che il nostro sforzo di penetrare la verità e lo sforzo di comunicarla sono uniti da una sola cosa: *sono uniti dall'amore*. Non dal desiderio di farsi notare né dall’ossessione di accumulare dati e conoscenze: *“…ad amorem Dei, quo fine, ut non propter inanem gloriam aut curiositatem, sed propter aedificationem suam et proximi addiscat*” (*De septem Donis* 4, 23).
+
+Sia la scienza che la profezia, senza amore, “non ci servono a nulla” (cfr. 1 Cor 13,1-3). L'amore ha molto a che fare con la migliore conoscenza teologica. Quando lo studio è condotto in modo tale da infiammare l'affetto e la carità, la stessa intelligenza viene illuminata e rettificata: "*Debent ergo istae illustrationes intrare in affectum, ut intellectus rectificetur*" (*In Hexaem.* 18:3). La stessa conoscenza della verità si arricchisce: “*Cognitio experimentalis de divina suavitate amplificat cognitionem speculativam de divina veritate*” (*III Sent*, 34, I, 2, 2, ad 2). C’è una “redundantia” dall’esperienza d’amore all’intelligenza che fiorisce con una nuova luce, in modo tale che chi sa meglio è quello che ama di più.
+
+A sua volta, lo sforzo speculativo mosso dal dinamismo dell'amore aggiunge nuove ragioni all'amore. Perché tutta la realtà scaturisce dall'amore di Dio, è attraversata da quell'amore, e tutto è orientato all'amore. È il motore che muove l'universo e gli dà significato. Ecco perché Bonaventura diceva che *il frutto più grande di tutte le scienze è la carità* *("fructus omnium scientiarum":* *De red art.* 26). Il fine di tutte le conoscenze, e in particolare di tutta la Scrittura, è quello di stimolare un atto d'amore: *“…per caritatem, ad quam terminatur tota intentio sacrae Scripturae, et per consequens omni illuminatio desursum descendens, et sine qua omnis cognitio vana est” (ib).*
+
+E’ lì che si trova la pienezza umana e soprannaturale. Come abbiamo già detto, tutto ciò presuppone un cammino, poiché nessuna conoscenza, nemmeno quella teologica, produce di per sé una crescita nell'amore. Quest’ultima accade solo quando ad ogni progresso della conoscenza speculativa si unisce un nuovo tentativo di amare di più, un nuovo esercizio di autotrascendenza che ci apre e ci avvicina agli altri. Per questo, ogni dono di sé che il teologo fa, ogni rinuncia per il bene degli altri, lo orienterà verso il fine ultimo della teologia: crescere nell'amore e, in definitiva, essere più buono. A motivo di questo circolo virtuoso, nel riconoscimento gratuito dell'altro si produce la disposizione migliore per giungere a un nuovo approfondimento teologico, si aprono maggiormente gli occhi perché la speculazione giunga a una nuova penetrazione del Mistero. Infatti, ci sono delle opere che non impediscono la contemplazione, ma la facilitano (“*faciliorem facit*”), come le opere di misericordia (*IV Sent* 37, 1, 3, ad 6). Perché finalmente la perfezione della contemplazione si raggiunge solo quando, oltre a contemplare Dio nell'intimità, riusciamo a scoprirlo negli altri (cf. *II Sent* 23, 2, 3).
+
+Notiamo che ci troviamo di fronte a una concezione della teologia che presuppone una visione *unitaria* *ed armonica* di tutto il reale, naturale e soprannaturale, dell'intimità e del mondo esterno, della conoscenza e della vita. Non ci sono contraddizioni perché tutto scaturisce dall'unico Dio che è amore. In questo contesto unitario e integrale, è possibile comprendere una procedura metodologica proposta da Bonaventura, che al di fuori di questo quadro non sarebbe accettabile. Questo è ciò che viene chiamato argomento “*ex pietate*". Consiste in quanto segue: quando di fronte a due opinioni diverse non è facile concludere, perché nessuna di esse ha un fondamento molto solido nella Scrittura (*II Sent* 26, 1, 2) o perché non presentano argomenti decisivi a loro favore (*II Sent* 13, 2, 2), si deve scegliere quella che muove più alla pietà verso Dio e verso il prossimo: *"A pietati \[...\] magis est consona, et propterea est magis secura"* (*II Sent* 26, 1, 2). Non per pragmatismo, ma perché sicuramente questa è la verità. Data l'unità che esiste tra tutto ciò che è reale, la verità tende all'amore, verità e amore sono due aspetti della stessa medaglia.
+
+***Il dolore e la pazzia***
+
+In questo modo capiamo finalmente le ragioni per cui un buon teologo è qualcuno che si preoccupa sempre delle persone, qualcuno che è capace di soffrire per e con gli altri. È difficile pensare oggi che una teologia autentica e solida possa scaturire da una comodità individualista, indifferente e apatica. In tal senso possiamo ripetere san Giovanni della Croce: “Non si può giungere al spessore e alla sapienza delle ricchezze di Dio senza entrare in molti modi nella selva della sofferenza” (*Cant*. 36,13). In un siffatto cammino teologico, l’offerta che facciamo a Dio del nostro pensiero integra tutto: le fatiche di ogni giorno, le difficoltà del lavoro, i problemi della famiglia e della comunità, le stanchezze nel servizio, i dolori della comunione ecclesiale. Tutto questo, se non si traduce in un mero lamento egocentrico e diventa un dolore d'amore, feconda il nostro pensiero, riempie la nostra vita di significato e ci dona qualcosa di reale da comunicare agli altri.
+
+Guardiamo all'esempio di san Paolo, che è stato il più teologico degli autori biblici, ma allo stesso tempo è stato il più missionario, capace di soffrire con il suo popolo. Ecco alcuni passaggi dalle sue lettere:
+
+*"Sono diventato debole con i deboli per guadagnare i deboli. Mi sono fatto tutto in tutti per salvare alcuni ad ogni costo» (1 Cor 9,22).*
+
+*"Chi sviene senza che io svenga? Chi soffre lo scandalo senza che io bruci dentro?" (2 Cor 11,29).*
+
+*"Figli miei, per i quali soffro di nuovo le doglie del parto!" (Gal 4,19).*
+
+Paolo non conosceva una vita tranquilla né riusciva a capire l’ossessione di molti per il piacere, per il comfort o per il riposo. Anche quando riceveva un po' di conforto da Dio, pensava che si trattava di un dono da trasmettere agli altri: *“Dio ci consola in tutte le nostre sofferenze, perché diamo a coloro che soffrono la stessa consolazione che noi riceviamo da Dio” (2 Cor 1,4).*
+
+Come diceva san Giovanni della Croce, “la sofferenza è un mezzo per entrare più a fondo nella giungla della deliziosa sapienza di Dio, perché la sofferenza più pura porta la comprensione più intima e pura, e di conseguenza la gioia più pura e più alta” (*Cant,* 36, 12).[^6]
+
+Il cardinale Martini ha espresso questa medesima verità utilizzando categorie esistenziali, riferendosi alla necessità di passare attraverso una prova limite, come chi si trova sull'orlo dell'abisso, nella solitudine più radicale, per potersi aprire veramente al mistero di Dio che si rivela*.*[^7]
+
+Certamente, la contemplazione di Cristo sulla Croce, che ama sino alla fine, può propiziare una teologia che ci fa più ricettivi di fronte a questo mistero. Così ci permette di accettare nell’amore la croce di ogni giorno che poi alimenta la sapienza. A questo punto ci è di aiuto un racconto -che se non è vero e ben trovato e che stato immortalato sulla tela da Zurbaran- circa una riunione tra san Bonaventura e san Tommaso d’Aquino. Quest’ultimo, dopo aver ascoltato una bella argomentazione di Bonaventura, gli avrebbe domandato: qual è la fonte da dove hai preso questi argomenti? A quel punto Bonaventura si sarebbe messo in piedi, tolto un velo da un muro e, mostrandogli il Crocifisso, gli avrebbe risposto: "Questa è la fonte".
+
+Il racconto è coerente con il pensiero di Bonaventura perché è sua l’insistenza sul fatto che "la Croce è il libro della sapienza" (*In Parasceve*, sermo 2) e che "tutto si manifesta nella Croce" (*Tripl. Via* 3, 3). Allo stesso tempo egli spiega pure che l'amore e la bellezza che si manifestano nella Croce sono qualcosa di "sopraeccedente" (*III Sent* 1, 2, 4, ad 1),[^8] "smodato" (*III Sent*, 1, 2, 1, ad 2. 2), "stolto" (*Vitis Myst*, 3, 5-6) e "pazzo" (*II Sent* 16, 2, 1)[^9]. Ed in modo quasi spontaneo, proprio parlando sulla Croce, conclude il suo ragionamento lanciando come una provocazione ai saggi di questo mondo: *"Haec est logica nostra"* (*In Hexaem*, 1, 30), "questa è la nostra logica".
+
+*Víctor Manuel Card. Fernández*
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+[^1]: "Il linguaggio deve essere compreso qui non tanto a livello semantico o letterario, ma a quello che si potrebbe definire antropologico o culturale \[...\] tenendo conto delle persone concrete con i loro segni e simboli, e *rispondendo alle domande che suscitano*" ([EN](https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html) 63).
+
+[^2]: “*Esta espesura de sabiduría y ciencia de Dios es tan profunda e inmensa, que, aunque más el alma sepa de ella, siempre puede entrar más adentro. Porque es inmensa y sus riquezas son incomprensibles… El alma desea entrar en esta espesura e incomprensibilidad de juicios y vías, porque muere en deseos de llegar en el conocimiento de ellos muy adentro. Porque el conocer en ellos es un deleite inestimable que excede todo sentido”.*
+
+[^3]: *“...un ravissement non de connoissance mais de jouissance, non d'admiration mais d'affection, non de science mais d'expérience, non de veue mais de goust et de savourement”.*
+
+[^4]: *“Dios toma la voluntad, pero me parece que toma también el entendimiento, porque no discurre, sino que está ocupado gozando de Dios como quien está mirando, y ve tanto que no sabe hacia dónde mirar”.*
+
+[^5]: *“Para venir a saberlo todo, no quieras saber algo en nada… Para venir a lo que no sabes, has de ir por donde no sabes”.*
+
+[^6]: *“El padecer es un medio para entrar más adentro en la espesura de la deleitable sabiduría de Dios, porque el más puro padecer trae el más íntimo y puro entender, y por consiguiente el más puro y subido gozar”.*
+
+[^7]: Cf. C. M. MARTINI, *Las confesiones de Pedro*, Estella, 1994, 72.76.
+
+[^8]: *"Consummatio omnem consumationem superexcedens".*
+
+[^9]: *"Propter nimiam caritatem":* *De septem Donis* 1, 6.

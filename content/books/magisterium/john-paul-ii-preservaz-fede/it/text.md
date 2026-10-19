@@ -23,5 +23,3 @@ Tutto quanto è stabilito con il presente Motu Proprio, ordino che abbia pieno e
 *Dato a Roma, dal Palazzo Apostolico Vaticano, il 1° luglio dell'anno 1989, undecimo di Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-© Copyright 1989 - Libreria Editrice Vaticana

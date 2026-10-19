@@ -1359,5 +1359,3 @@ Au seuil du troisième millénaire, j’appelle instamment les fidèles de l’�
 \(335\) [Discours au Corps diplomatique accrédité près le Saint-Siège (12 janvier 1991)](/content/john-paul-ii/fr/speeches/1991/january/documents/hf_jp-ii_spe_19910112_corpo-diplomatico.html), n. 7 : La Documentation catholique 88 (1991), pp. 196-197.
 
 \(336\) Jean-Paul II, [Homélie de la messe de clôture de l’Assemblée spéciale pour le Liban (14 décembre 1995)](/content/john-paul-ii/fr/homilies/1995/documents/hf_jp-ii_hom_19951214_chiusura-sinodo.html), n. 2 : La Documentation catholique 93 (1996), pp. 34-35. 337) Cf. Assemblée spéciale pour le Liban du Synode des Évêques, Rapport avant la discussion, n. 14 : La Documentation catholique 93 (1996), p. 28. 338) Jean-Paul II, Exhort. apost. postsynodale [*Vita consecrata*](/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata.html), n. 75 : AAS 88 (1996), p. 451.
-
-© Copyright 1997 - Libreria Editrice Vaticana

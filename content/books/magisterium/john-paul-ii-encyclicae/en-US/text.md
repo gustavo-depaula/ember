@@ -100,8 +100,6 @@ During this Marian Year, I too with all my heart entrust each one of you and you
 
 ------------------------------------------------------------------------
 
-© Copyright 1988 - Libreria Editrice Vaticana
-
 [^1]: () Cf. Dogmatic Constitution *Lumen Gentium*, 58, 63.
 
 [^2]: () Cf. *I Religiosi sulle orme di Maria*, Ed. Vaticana, 1987.

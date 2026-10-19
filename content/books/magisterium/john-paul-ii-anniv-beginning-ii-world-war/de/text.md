@@ -170,6 +170,4 @@ Sein Friede und sein Segen seien mit euch allen!
 
 **JOHANNES PAUL II.**
 
-© Copyright 1989 - Libreria Editrice Vaticana
-
 * *

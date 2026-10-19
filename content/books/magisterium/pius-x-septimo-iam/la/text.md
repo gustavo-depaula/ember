@@ -10,10 +10,6 @@ LITTERAE APOSTOLICAE
 
 Apostolic Letter
 
-I
-
-I
-
 Septimo iam
 
 Septimo iam
@@ -283,8 +279,6 @@ Septimo iam -- PP. S. Pius X
 PIUS PP. X
 
 Pope Pius X
-
-1
 
 1 The Letter Recolentes, Apr. 29, 1228.
 

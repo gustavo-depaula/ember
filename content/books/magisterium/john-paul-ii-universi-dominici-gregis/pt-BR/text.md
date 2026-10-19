@@ -9,7 +9,11 @@ JOÃO PAULO
 BISPO SERVO DOS SERVOS DE DEUS  
 PARA PERPÉTUA MEMÓRIA
 
-[TABLE]
+**[Carta Apostólica dada "Motu Proprio" sobre algumas modificações relativas à eleição do Romano Pontífice (22 de fevereiro de 2013)](https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html)**  
+\[[Alemão](https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Espanhol](https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Francês](https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Inglês](https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Italiano](https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Latim](https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Português](https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html)\]
+
+**Motu Proprio com o qual o Santo Padre retoma a norma tradicional sobre a maioria necessária na eleição do Sumo Pontífice (11 de junho de 2007)**  
+\[[Alemão](https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [Francês](https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [Latim](https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html)\]
 
 TODO O REBANHO DO SENHOR tem como Pastor o Bispo da Igreja de Roma, onde, por soberana disposição da Providência divina, o bem-aventurado Apóstolo Pedro, pelo martírio, prestou a Cristo o supremo testemunho do sangue. Assim, é bem compreensível que tenha sido sempre objecto de particular atenção a legítima sucessão apostólica nesta Sede, com a qual, por ser «mais excelente por causa da sua origem, deve necessariamente estar de acordo toda a Igreja» [^1].
 

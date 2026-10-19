@@ -1,0 +1,64 @@
+{
+  "id": "cdf-fernandez-omaggio-a-papa-francesco",
+  "cover": "quarter",
+  "name": {
+    "en-US": "A Tribute to Pope Francis: In the Footsteps of a Father. Cardinal Víctor Manuel Fernández in Dialogue with the Doctrinal Section of the Dicastery",
+    "pt-BR": "Homenagem ao Papa Francisco: Na sequela de um Pai. O Cardeal Víctor Manuel Fernández em diálogo com a Secção Doutrinal do Dicastério",
+    "es": "Homenaje al Papa Francisco: En el seguimiento de un Padre. El cardenal Víctor Manuel Fernández en diálogo con la Sección Doctrinal del Dicasterio",
+    "it": "Omaggio a Papa Francesco: Nella sequela di un Padre. Il Card. Víctor Manuel Fernández in dialogo con la Sezione Dottrinale del Dicastero"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2025-06-11",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2025-06-11"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20250611_fernandez-omaggio-a-papa-francesco_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20250611_fernandez-omaggio-a-papa-francesco_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20250611_fernandez-omaggio-a-papa-francesco_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20250611_fernandez-omaggio-a-papa-francesco_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "A Tribute to Pope Francis: In the Footsteps of a Father. Cardinal Víctor Manuel Fernández in Dialogue with the Doctrinal Section of the Dicastery",
+        "pt-BR": "Homenagem ao Papa Francisco: Na sequela de um Pai. O Cardeal Víctor Manuel Fernández em diálogo com a Secção Doutrinal do Dicastério",
+        "es": "Homenaje al Papa Francisco: En el seguimiento de un Padre. El cardenal Víctor Manuel Fernández en diálogo con la Sección Doctrinal del Dicasterio",
+        "it": "Omaggio a Papa Francesco: Nella sequela di un Padre. Il Card. Víctor Manuel Fernández in dialogo con la Sezione Dottrinale del Dicastero"
+      }
+    }
+  ]
+}

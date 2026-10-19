@@ -18,8 +18,6 @@ Di questa tanto desiderata riconciliazione sia intanto pegno ed auspicio l’Apo
 
 ------------------------------------------------------------------------
 
-© Copyright - Libreria Editrice Vaticana
-
 [^1]: \[\] *Act*., VII, 26.
 
 [^2]: \[\] *Eph*., II, 14.

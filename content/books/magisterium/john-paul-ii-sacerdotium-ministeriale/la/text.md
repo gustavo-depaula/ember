@@ -71,5 +71,3 @@ JOSEPH Card. RATZINGER
 
 FR. HIERONYMUS HAMER, O.P.  
 *Archiepiscopus tit. Loriensis Secretarius*
-
-© Copyright 1983 - Libreria Editrice Vaticana

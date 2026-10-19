@@ -555,6 +555,4 @@ spes”, 24.
 [\[102\]](#JB102) Vö. Jn 17,11.21-22  
 [\[103\]](#JB103) Vö. In 19,25  
 
-© Copyright 1984 - Libreria Editrice Vaticana
-
 *  *

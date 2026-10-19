@@ -27,5 +27,3 @@ Avec vos deux cardinaux et vos Évêques j’accorde ma bénédiction pastorale 
 *Du Vatican, en la fête de la manifestation du Seigneur, le 6 janvier 1980.*
 
 **JEAN-PAUL II**
-
-© Copyright 1980 - Libreria Editrice Vaticana

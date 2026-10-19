@@ -354,8 +354,6 @@ Je vous redis ces paroles de la Mère de Dieu et je les adresse à vous, les jeu
 
 ------------------------------------------------------------------------
 
-© Copyright 1985 - Libreria Editrice Vaticana
-
 [^1]: *1 P* 3, 15.  
 [\[2\]](#_ftnref2)Cf. Jean-Paul II, Encyclique *[Redemptor hominis](/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html)*, n.14: AAS 71 (1979), pp. 284-285.  
 [\[3\]](#_ftnref3) Cf. *Rm* 8, 19-21; *Ep* 4, 4; *Ph* 3, 10-11; *Tt* 3, 7; *He* 7, 19; *1 P* 1, 13.  

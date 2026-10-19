@@ -354,5 +354,3 @@ Geliebte Brüder und Schwestern, meine Ermutigung und mein Vertrauen begleiten E
 \(53\) Vgl. *CIC, can*. 820; vgl. JOHANNES PAUL II., Apostolische Konstitution *[Sapientia Christiana](https://w2.vatican.va/content/john-paul-ii/de/apost_constitutions/documents/hf_jp-ii_apc_15041979_sapientia-christiana.html)* über die Kirchlichen Universitäten und Fakultäten vom 15. April 1979, *Verordnungen* Art. 49: *AAS* 71 (1979), S. 512.
 
 \(54\) JOHANNES PAUI. II., *Ansprache an den Päpstlichen Rat für die Kultur* vom 13. Januar 1989, 2: *L'Osservatore Romano* vom 14. Januar 1989; *\[Oss. Rom. dt.* 19 (1989), Nr. 5 vom 3. Februar 1989, S. 9, Nr. 2 Abs. 1\].
-
-© Copyright 1990 - Libreria Editrice Vaticana

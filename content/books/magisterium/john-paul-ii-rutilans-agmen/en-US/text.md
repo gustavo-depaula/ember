@@ -45,5 +45,3 @@ We, John Paul II, of Polish nationality, are heartily in agreement with these lo
 *Given at Saint Peter's, Rome, on the eighth day of May in the year 1979, the first of our Pontificate.*
 
 **JOANNES PAULUS PP. II**
-
-© Copyright 1985 - Libreria Editrice Vaticana

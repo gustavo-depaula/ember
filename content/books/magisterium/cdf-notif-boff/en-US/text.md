@@ -1,5 +1,79 @@
 # Notification on the book "Church: Charism and Power" by Father Leonardo Boff O.F.M.
 
-[TABLE]
+[](/index.htm)
 
-[TABLE]
+[](javascript:history.go(-1)) [](javascript:up())
+
+CONGREGATION FOR THE DOCTRINE OF THE FAITH
+
+***Notification on the book “Church: Charism and Power” by Father Leonardo Boff O.F.M.***\*
+
+On Feb. 12, 1982, Leonardo Boff, OFM, took the initiative of sending the Congregation for the Doctrine of the Faith his answer to the Archdiocesan Commission for the Doctrine of the Faith at Rio de Janeiro, which had criticized his book *Church: Charism and Power*. He declared that the criticism contained grave errors of reading and of interpretation.
+
+The Congregation studied the text of the book under its doctrinal and pastoral aspects, and expressed a number of reservations to the author in a letter of May 15, 1984, which invited him to accept them and at the same time offered him the possibility of a dialogue for the sake of clarification.
+
+However, considering the influence which the book was having on the faithful, the Congregation informed L. Boff that the letter would be made public in any case, account being eventually taken of the position which he might assume during the dialogue.
+
+On Sept. 7, L. Boff was received by the Cardinal-Prefect of the Congregation, who was assisted by Msgr. Jorge Mejia (as notary). Included in the conversation were a number of ecclesiological problems, arising from a reading of the book *Church: Charism and Power*, which were pointed out in the letter of May 15, 1984. The conversation was carried on in a fraternal atmosphere and offered the author the opportunity to present his clarifications, which were also conveyed by him in writing. All of that was noted in a final communique issued and drawn up in accord with L. Boff. At the end of the talk, the eminent Cardinals Aloisio Lorscheider and Paulo Evaristo Arns, who were in Rome for the occasion, were received by the Cardinal Prefect in another place.
+
+According to its practice, the Congregation examined the oral and written clarifications furnished by L. Boff; while it noted the good intentions and repeated testimonies of fidelity to the Church and the Magisterium he expressed, it stated however that the reservations raised in regard to the volume and indicated in the letter could not be considered substantially overcome. It therefore considers it necessary, as was provided, to make the doctrinal content of the aforesaid letter public in its essential parts.
+
+**Doctrinal Premise**
+
+The ecclesiology of the book *Church: Charism and Power* is intended to meet the problems of Latin America, particularly Brazil (cf. p. 1), through a series of studies and views. Such an intention demands on the one hand serious and thorough attention to the concrete situations to which the book refers; on the other hand – in order really to achieve its purpose – it requires a concern to enter into the universal Church’s great task, which is aimed at interpreting, developing and applying under the guidance of the Holy Spirit the common inheritance of the unique Gospel, entrusted once and for all by the Lord to our fidelity. In such fashion the one single faith in the Gospel creates and builds up the Catholic Church over the centuries, and the Church remains one throughout the diversities of times and the differences of situations proper to the many particular Churches. The universal Church develops and lives in the particular Churches, and these form a Church, while remaining expressions and realizations of the universal Church in a determined time and place so that the universal Church grows and progresses in the growth and development of the particular Churches; whereas the particular Church would diminish and decay if unity diminished. Therefore, true theological reasoning ought never to be content only to interpret and animate the reality of a particular Church, but rather should try to penetrate the contents of the sacred deposit of God’s word entrusted to the Church and authentically interpreted by the Magisterium. Praxis and experience always rise out of determined and limited historical situations; they aid the theologian and oblige him to make the Gospel accessible in his time. However, praxis neither replaces nor produces the truth, but remains at the service of the truth consigned to us by the Lord. The theologian has therefore to decipher the language of the various situations – the signs of the times – and to open this language up to the understanding of the faith (cf. [*Redemptor hominis*, 19](/edocs/ENG0218/__PK.HTM)).
+
+When examined in the light of the criteria of an authentic theological method – which has just been briefly outlined – certain options in L. Boff’s book appear to be unsustainable. Without claiming to analyze all of them, here are the ecclesiological options which seem decisive: the structure of the church, the concept of dogma, the exercise of sacred power and the prophetic role.
+
+**The Structure of the Church**
+
+L. Boff, according to his own words, sets himself inside an orientation where it is affirmed that the “Jesus did not have in mind the Church as institution but rather that it evolved after the resurrection, particularly as part of the process of de-eschatologization” (p. 74). Consequently, for him the hierarchy is “a result,” of “the powerful need to organize” and the “assuming of societal characteristics” in “the Roman and feudal style” (p. 40). Hence the necessity arises for permanent “change in the church” (p. 64); today a “new church” must arise (p. 62 and *passim*), which will be “an alternative for the incarnation of new ecclesial institutions whose power will be pure service” (p. 63).
+
+It is in the logic of these affirmations that he also explains his interpretation of the relations between Catholicism and Protestantism: “It would appear that Roman Christianity (Catholicism) is distinguished by its valiant affirmation of sacramental identity while Protestant Christianity has fearlessly affirmed non-identity” (p. 80; cf. pp. 84ff).
+
+In this view, both confessions would be incomplete mediations, pertaining to a dialectical process of affirmation and negation. In this dialectic “Christianity is manifested...What is Christianity? We do not know. We only know what is shown in the historical process” (p. 79).
+
+This relativizing concept of the Church stands at the basis of the radical criticisms directed at the hierarchic structure of the Catholic Church. In order to justify it, L. Boff appeals to the constitution *[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)* (No. 8) of the [Second Vatican Council](/archive/hist_councils/ii_vatican_council/index.htm). From the Council’s famous statement, “*Haec ecclesia (sc. unica Christi Ecclesia)...subsistit in Ecclesia Catholica*” (“this Church (that is, the sole Church of Christ)...subsists in the Catholic Church”), he derives a thesis which is exactly the contrary to the authentic meaning of the Council text, for he affirms: “In fact it (sc. the sole Church of Christ) may also be present in other Christian Churches” (p. 75). But the Council had chosen the word *subsistit* – subsists – exactly in order to make clear that one sole “subsistence” of the true Church exists, whereas outside her visible structure only *elementa Ecclesiae* – elements of Church – exist; these – being elements of the same Church – tend and conduct toward the Catholic Church (*[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 8). The decree on ecumenism expresses the same doctrine (*[Unitatis Redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)*, 3-4), and it was restated precisely in the declaration *[Mysterium Ecclesiae](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_en.html)* (No. 1, AAS LXV \[1973\], pp. 396-398).
+
+Turning upside down the meaning of the Council text on the Church’s subsistence lies at the base of L. Boff’s ecclesiological relativism, which is outlined above; a profound misunderstanding of the Catholic faith on the Church of God in the world is developed and made explicit.
+
+**Dogmas and Revelation**
+
+The same relativizing logic is found again in the conception of doctrine and dogma expressed by L. Boff. The author criticizes in a very severe way the “doctrinal” understanding of revelation (p. 42). It is true that L. Boff distinguishes between dogmatism and dogma (cf. p. 85), admitting the latter and rejecting the former. However, according to him, dogma in its formulation holds good only “for a specific time and specific circumstances” (p. 76). “In the later stages of the process, the text must be able to give way to a new text of faith proper to today’s world” (p. 77). The relativism resulting from such affirmations becomes explicit when L. Boff speaks of mutually contradictory doctrinal positions contained in the New Testament (cf. p. 77). Consequently, “the truly Catholic attitude” would be “to be fundamentally open to everything without exception” (p. 77). In L. Boff’s perspective, the sole authentic Catholic conception of dogma falls under the verdict “dogmatism.” “As long as this type of dogmatic and doctrinaire understanding of revelation and salvation continues, there inevitably will be repression of the freedom of thought within the church” (p. 42).
+
+In this regard it must be pointed out that the contrary of relativism is not literalism or immobility. The ultimate content of revelation is God himself, Father, Son and Holy Spirit, who invites us to communion with him; all the words refer to the word or – as St. John of the Cross says: “In his Son...he told everything to all of us and at one time in that sole word, and he has no more to say” (“Ascent of Mount Carmel,” II, 22). But the truth on God and man is expressed in a way deserving belief in the always analogical and limited word of Scripture and the authentic belief of the church, based on Scripture. The permanent necessity of interpreting the language of the past, far from sacrificing this truth, renders it accessible and develops the richness of the authentic texts. Walking under the guidance of the Lord, who is the way and the truth (Jn. 14:6), the Church, teaching and believing, is sure that the truth expressed in the words of faith not only does not oppress man, but liberates him (Jn. 8:32) and is the sole instrument of real communion among people of various classes and opinions, whereas a dialectical and relativistic conception exposes man to arbitrary decision making.
+
+Already in the past this Congregation has had to point out that the sense of the dogmatic formulas always remains true and coherent, determined and unalterable, although it may be further clarified and better understood (cf. *[Mysterium Ecclesiae](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_en.html)*, pp. 403-404).
+
+In order to go on with its function of being the salt of the earth which never loses its savor, the *depositum fidei* (the deposit of faith) must be loyally preserved in its purity, without falling along the line of a dialectical process of history and in the direction of the primacy of praxis.
+
+**Exercise of Sacred Power**
+
+A “grave pathology” from which, according to L. Boff, the Roman Church ought to liberate itself is constituted by the hegemonic exercise of the sacred power which, besides making the Roman Church an asymmetrical society, has also deformed it.
+
+L. Boff takes it for granted that the organizational axis of a society coincides with the specific mode of production proper to it, and he applies this principle to the Church. Thus he affirms that there has been a historical process of expropriation of the means of religious production on the part of the clergy and to the detriment of the Christian people; the latter would then have seen itself deprived of its capacity to decide, to teach (cf. pp. 43; 133ff; 138-143). Moreover, after having suffered this expropriation, the sacred power would also have been gravely deformed, thereby falling into the same defects as profane power in terms of domination, centralization, triumphalism (cf. pp. 72, 56, 60ff). In order to remedy these unbefitting features, a new model of the Church is proposed in which power is conceived without theological privileges, as pure service, articulated according to the community’s needs (cf. pp. 161, 63).
+
+One ought not impoverish the reality of the sacraments and the word of God by reducing them to the “production and consumption” pattern, thus reducing the communion of faith to a mere sociological phenomenon. The sacraments are not “symbolic material,” their administration is not production, their reception is not consumption. The sacraments are gifts of God, no one “produces” them, all receive the grace of God in them, which are the signs of the eternal love. All that lies beyond any production, beyond every human doing and fabrication. The sole measure corresponding to the greatness of the gift is utmost fidelity to the will of the Lord, according to which all – priests and laity – will be judged, all of them being “useless servants” (Lk. 17:10). Certainly the danger of abuses always exists. The problem is always present of how access by all the faithful to full participation in the Church’s life and its sources, the Lord’s life, can be guaranteed. But interpreting the reality of the sacraments, of the hierarchy, of the word and the whole life of the Church in terms of production and consumption, of monopoly, expropriation, conflict with the hegemonic bloc, rupture and the occasion for an asymmetrical method of production is equivalent to subverting religious reality, and that, far from contributing to solution of various problems, leads rather to the destruction of the authentic meaning of the sacraments and of the word of faith.
+
+**Prophetic Role in the Church**
+
+The book *Church: Charism and Power* denounces the Church’s hierarchy and institutions (cf. pp. 33-34; 57; 154-156). By way of explanation and justification of this attitude, it makes claim to the role of the charisms, particularly of prophecy (cf. pp. 154-156, 162). The hierarchy would have the mere function of ‘‘coordinating,” of “making way for unity and harmony among the various services,” and keeping things flowing and impeding all division and impositions, therefore eliminating from the prophetic function “immediate subordination of the members to those in the hierarchy” (p. 164).
+
+There is no doubt that the whole people of God takes part in the prophetic office of Christ (cf. *[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 12). Christ fulfills his prophetic office not only by means of the hierarchy but also by means of the laity (cf. *ibid.*, 35). But it is equally clear that, in order to be legitimate, prophetic denunciation in the church must always remain at the service of the Church itself. Not only must it accept the hierarchy and the institutions, but it must also cooperate positively in the consolidation of the Church’s internal communion; furthermore, the supreme criterion for judging not only its ordinary exercise but also its genuineness pertains to the hierarchy (cf. *ibid.*, 12).
+
+**Conclusion**
+
+In making the above publicly known, the Congregation also feels obliged to declare that the options of L. Boff analyzed here endanger the sound doctrine of the faith, which this Congregation has the task of promoting and safeguarding.
+
+*The Supreme Pontiff John Paul II, in the course of the Audience granted to the undersigned Prefect, approved the present Notification, decided upon in the Ordinary Meeting of this Congregation, and ordered its publication.*
+
+Rome, from the Seat of the Congregation of the Doctrine of the Faith, March 11 1985.
+
+**Cardinal Joseph Ratzinger** *Prefect*
+
+**Archbishop Albert Bovone** *Secretary*
+
+------------------------------------------------------------------------
+
+\* *AAS* 77 (1985), 756-762.
+
+[](#top)

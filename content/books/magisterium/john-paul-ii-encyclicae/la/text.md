@@ -109,5 +109,3 @@ Hoc Mariali Anno Nos quoque ipsi Ei quemque vestrum concredimus intimo ex animo,
 *Datum Romae, apud S. Petrum, die XXII mensis Maii, in Pentecostes sollemnitate, anno MCMLXXXVIII, Pontificatus Nostri decimo.*  
 
 IOANNES PAULUS PP. II
-
-© Copyright 1988 - Libreria Editrice Vaticana

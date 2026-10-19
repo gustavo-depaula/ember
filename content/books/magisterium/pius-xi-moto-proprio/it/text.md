@@ -96,5 +96,3 @@ Chiavi decussate sormontate del Triregno in campo rosso.
 ALL. *C*
 
 **SIGILLO UFFICIALE DELLO STATO DELLA CITTÀ DEL VATICANO** Tondo: Campo centrale con le Chiavi decussate e sormontate del Triregno, corniciato di quattro giri concentrici, di cui l’esterno perlato, a due a due, racchiudenti l’epigrafe: ***STATO DELLA CITTÀ DEL VATICANO*** con l’inizio e la fine al basso, disgiunti da stella centrata a otto punte
-
-© Copyright - Libreria Editrice Vaticana

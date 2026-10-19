@@ -29,5 +29,3 @@ For renewal in society and in the Church, I especially invite husbands and wives
 From the Vatican, 30 May 1997.
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1997 - Libreria Editrice Vaticana

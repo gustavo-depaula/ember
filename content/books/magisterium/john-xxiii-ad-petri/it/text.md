@@ -187,8 +187,6 @@ Sia conciliatrice e auspice delle celesti grazie l’apostolica benedizione, che
 
 ------------------------------------------------------------------------
 
-© Copyright 1959 - Libreria Editrice Vaticana
-
 [^1]: (#fnref1)) IOANNES PP. XXIII, Litt. enc. *Ad Petri cathedram* de veritate, unitate et pace caritatis afflatu provehendis, \[Ad venerabiles fratres Patriarchas, Primates, Archiepiscopos, Episcopos aliosque locorum Ordinarios, pacem et communionem cum Apostolica Sede habentes, itemque ad universum Clerum et christifideles catholici orbis\], 29 iunii 1959: AAS 51(1959), pp. 497-531. - Versione italiana: L’Osservatore Romano, 3 luglio 1959; La Civiltà cattolica, 110(1959), III, pp. 113-139.  
 Prologo: Perenne giovinezza della chiesa e motivi di consolazione e di speranza. - I. La verità, con particolare riferimento a quella rivelata; I doveri della stampa (e della radio, del cinema, della televisione) in ordine alla verità; L’indifferentismo religioso. – II. Vantaggi recati dalla verità alla causa della pace; La concordia fra le classi sociali; Riflessioni circa importanti problemi nel campo del lavoro; La concordia e l’unione in seno alle famiglie. – III. L’unità della chiesa, nell’unità della fede, di regime, di culto; Invito all’unione rivolto ai fratelli separati; Esortazione alla preghiera in unione di spirito. – IV. Paterne esortazioni ai vescovi, al clero, ai fedeli, ai sofferenti, ai poveri, agli emigrati e alla chiesa perseguitata.
 

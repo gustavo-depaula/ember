@@ -238,5 +238,3 @@ Qui totum in se patrimonium gerebat Foederis Antiqui, vir iustus ad “primordia
 *Datum Romae apud Sanctum Petrum, die XV mensis Augusti sollemnitate in Assumptione Mariae Sanctissimae, anno MCMLXXXIX Pontificatus Nostri undecimo.*  
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1989 - Libreria Editrice Vaticana

@@ -195,8 +195,6 @@ SALUTEM ET APOSTOLICAM BENEDICTIONEM
 
 \* AAS 59 (1967), pp. 257-299
 
-© Copyright 1967 - Libreria Editrice Vaticana
-
 [^1]: ([1](#fnref1)) Acta Leonis XIII, 1892, pp. 97-148
 
 [^2]: ([2](#fnref2)) Cf AAS, XXIII, 1931, pp. 177-228

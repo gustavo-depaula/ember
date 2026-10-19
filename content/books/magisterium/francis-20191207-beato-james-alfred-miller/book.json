@@ -1,0 +1,40 @@
+{
+  "id": "francis-20191207-beato-james-alfred-miller",
+  "cover": "quarter",
+  "name": {
+    "la": "Littera Apostolicae: Venerabili Dei Servo Iacobo Alfredo Miller caelitum Beatorum tribuitur dignitas (die VII mensis Decembris, anno MMXIX)"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2019-12-07",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2019-12-07"
+  },
+  "composed": "2019",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_letters/documents/20191207-beato-james-alfred-miller.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Littera Apostolicae: Venerabili Dei Servo Iacobo Alfredo Miller caelitum Beatorum tribuitur dignitas (die VII mensis Decembris, anno MMXIX)"
+      }
+    }
+  ]
+}

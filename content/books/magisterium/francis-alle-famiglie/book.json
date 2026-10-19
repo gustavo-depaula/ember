@@ -1,0 +1,96 @@
+{
+  "id": "francis-alle-famiglie",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to Families",
+    "pt-BR": "Carta às famílias",
+    "ar": "رسالة البابا فرنسيس إلى العائلات 2014 - 2 فبراير / شباط 2014",
+    "de": "Brief an die Familien",
+    "es": "Carta a las familias",
+    "fr": "Lettre aux familles",
+    "it": "Lettera alle Famiglie",
+    "pl": "Lettera alle Famiglie"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2014-02-02",
+    "pt-BR": "Carta · Papa Francisco · 2014-02-02"
+  },
+  "composed": "2014",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/letters/2014/documents/papa-francesco_20140202_lettera-alle-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/letters/2014/documents/papa-francesco_20140202_lettera-alle-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/letters/2014/documents/papa-francesco_20140202_lettera-alle-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/letters/2014/documents/papa-francesco_20140202_lettera-alle-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/letters/2014/documents/papa-francesco_20140202_lettera-alle-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/letters/2014/documents/papa-francesco_20140202_lettera-alle-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2014/documents/papa-francesco_20140202_lettera-alle-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/letters/2014/documents/papa-francesco_20140202_lettera-alle-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to Families",
+        "pt-BR": "Carta às famílias",
+        "ar": "رسالة البابا فرنسيس إلى العائلات 2014 - 2 فبراير / شباط 2014",
+        "de": "Brief an die Familien",
+        "es": "Carta a las familias",
+        "fr": "Lettre aux familles",
+        "it": "Lettera alle Famiglie",
+        "pl": "Lettera alle Famiglie"
+      }
+    }
+  ]
+}

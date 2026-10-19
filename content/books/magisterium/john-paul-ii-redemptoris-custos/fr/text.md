@@ -238,5 +238,3 @@ Donné à Rome, près de Saint-Pierre, le 15 août 1989, solennité de l'Assompt
 \(50\) S. CONGRÉGATION DES RITES, Décret Quemadmodum Deus (8 décembre 1870): 1. c., p. 282.
 
 **IOANNES PAULUS II**
-
-© Copyright 1989 - Libreria Editrice Vaticana

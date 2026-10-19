@@ -26,5 +26,3 @@ Tutta la faccenda, dunque, è affidata, oltre che a Dio, alla vostra abilità e 
 *Dato a Roma, presso San Pietro, il 25 agosto 1920, nell’anno sesto del Nostro Pontificato.*
 
 **BENEDICTUS PP. XV**
-
-© Copyright - Libreria Editrice Vaticana

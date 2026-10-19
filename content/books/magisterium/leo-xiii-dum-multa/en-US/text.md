@@ -20,6 +20,4 @@ While We are burdened with much sadness in knowing to what a sorrowful state the
 
 **LEO XIII**
 
-© Copyright 1902 - Libreria Editrice Vaticana
-
 *   *

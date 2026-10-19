@@ -162,5 +162,3 @@ The message asserts that Catholic Action was organized in a political way, and t
 Rome, from the Vatican, on the Solemnity of the Holy Apostles Peter and Paul, June 29, 1931.
 
 **PIUS XI**
-
-© Copyright - Libreria Editrice Vaticana

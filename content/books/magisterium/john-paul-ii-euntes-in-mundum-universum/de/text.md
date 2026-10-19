@@ -218,6 +218,4 @@ Richten wir hierfür unser Gebet mit ganzem Herzen an die Heiligste Dreifaltigke
 
 \[25\] *Ebd*., 30: *AAS* 79 (1987) 402.
 
-© Copyright 1988 - Libreria Editrice Vaticana
-
 * *

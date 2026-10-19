@@ -17,7 +17,14 @@ PER APOSTOLICAS LITTERAS
 *[NORMAS NONNULLAS](https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html)* MOTU PROPRIO DATAS  
 DIE XXII MENSIS FEBRUARII ANNO MMXIII
 
-[TABLE]
+**Ioannes Paulus PP. II - Constitutio Apostolica:**
+
+- **[*Universi Dominici Gregis,* die XXII m. Februarii, A.D. MCMXCVI](https://www.vatican.va/content/dam/john-paul-ii/pdf/apost_constitutions/documents/universi-dominici-gregis-19960222_la.pdf) **\[[**pdf**](https://www.vatican.va/content/dam/john-paul-ii/pdf/apost_constitutions/documents/universi-dominici-gregis-19960222_la.pdf)\]
+
+**Benedictus PP. XVI - Litterae Apostolicae Motu Proprio datae:**
+
+- **[De aliquibus mutationibus in normis de Electione Romani Pontificis (die 11 m. Iunii, A.D. 2007)](https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html)**
+- **[*Normas nonnullas*, de nonnullis mutationibus in normis ad electionem Romani Pontificis attinentibus (die XXII m. Februarii, A.D. MMXIII)](https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html)**
 
 **NOTA**. Per Litteras Apostolicas *Normas nonnullas* Motu Proprio datas die XXII mensis Februarii anno MMXIII sequentes numeri Constitutionis Apostolicae *Universi Dominici gregis* sunt mutati: 35; 37; 43; 46, § 1°; 47; 48; 49; 50; 51, § 2; 55, § 3; 62; 64; 70, § 2; 75; 87.
 

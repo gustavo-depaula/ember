@@ -15,5 +15,3 @@ With great joy you now announce that the object of the wishes of your predecesso
 *Given in Rome at St. Peter's, 30 April 1902, in the 25th year of OurPontificate.*
 
 **LEO XIII**
-
-© Copyright 1902 - Libreria Editrice Vaticana

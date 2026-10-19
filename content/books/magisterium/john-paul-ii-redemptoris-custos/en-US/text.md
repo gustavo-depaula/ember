@@ -337,5 +337,3 @@ May St. Joseph obtain for the Church and for the world, as well as for each of u
 49\. Cf. Leo XIII, "Oratio ad Sanctum Iosephum," contained immediately after the text of the Encyclical Epistle Quamquam pluries (August 15, 1889)-Leonis XIII P.M. Acta, IX (1890), p. 183.
 
 50\. Sacror Rituum Congreg., Decr. Quemadmodum Deus (December 8 1870): loc. cit., p. 282.
-
-© Copyright 1989 - Libreria Editrice Vaticana

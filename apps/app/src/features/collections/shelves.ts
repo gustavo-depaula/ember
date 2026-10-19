@@ -75,7 +75,11 @@ export const collectionShelves: { key: string; ids: string[] }[] = [
   },
   {
     key: 'reference',
-    ids: ['collection/papal-magisterium', 'collection/catholic-encyclopedia'],
+    ids: [
+      'collection/magisterium',
+      'collection/papal-magisterium',
+      'collection/catholic-encyclopedia',
+    ],
   },
 ]
 

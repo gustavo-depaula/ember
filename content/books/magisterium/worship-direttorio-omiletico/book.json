@@ -1,0 +1,48 @@
+{
+  "id": "worship-direttorio-omiletico",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Homiletic Directory, Congregation for Divine Worship and the Discipline of the Sacraments",
+    "it": "Direttorio Omiletico"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2014-06-29",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2014-06-29"
+  },
+  "composed": "2014",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20140629_direttorio-omiletico_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20140629_direttorio-omiletico_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Homiletic Directory, Congregation for Divine Worship and the Discipline of the Sacraments",
+        "it": "Direttorio Omiletico"
+      }
+    }
+  ]
+}

@@ -1068,5 +1068,3 @@ A tutti e a ciascuno, assicurando la mia costante preghiera, imparto di cuore l'
 *Dato a Roma, presso san Pietro, il 22 novembre, Solennità di N. S. Gesù Cristo Re dell'universo, dell'anno 1981, quarto del Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-© Copyright 1981 - Libreria Editrice Vaticana

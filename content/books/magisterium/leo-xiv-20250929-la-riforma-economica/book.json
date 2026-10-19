@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiv-20250929-la-riforma-economica",
+  "cover": "quarter",
+  "name": {
+    "it": "Norme applicabili alla Fabbrica di San Pietro e al Capitolo della Basilica Papale di Santa Maria Maggiore"
+  },
+  "author": {
+    "en-US": "Pope Leo XIV",
+    "pt-BR": "Papa Leão XIV",
+    "la": "Leo PP. XIV"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIV · 2025-09-29",
+    "pt-BR": "Carta Apostólica · Papa Leão XIV · 2025-09-29"
+  },
+  "composed": "2025",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiv/it/apost_letters/documents/20250929-la-riforma-economica.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Norme applicabili alla Fabbrica di San Pietro e al Capitolo della Basilica Papale di Santa Maria Maggiore"
+      }
+    }
+  ]
+}

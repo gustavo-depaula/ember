@@ -1,5 +1,78 @@
 # Notificación sobre el volumen del P. Leonardo Boff, O.F.M. «Iglesia: carisma y poder. Ensayo de eclesiología militante», 11 marzo 1985
 
-[TABLE]
+[](/index.htm)
 
-[TABLE]
+[](javascript:history.go(-1)) [](javascript:up())
+
+CONGREGACIÓN PARA LA DOCTRINA DE LA FE
+
+**NOTIFICACIÓN SOBRE EL VOLUMEN DEL P. LEONARDO BOFF, O.F.M., «IGLESIA: CARISMA Y PODER. ENSAYO DE ECLESIOLOGÍA MILITANTE»**
+
+**Introducción**
+
+El 12 de febrero de 1982 Leonardo Boff, O.F.M., tomaba la iniciativa de enviar a la Congregación para la Doctrina de la Fe la respuesta que había dado a la Comisión archidiocesana para la Doctrina de la Fe de Río de Janeiro, la cual había criticado su libro *Iglesia: carisma y poder*. El autor declaraba que tal crítica contenía graves errores de lectura y de interpretación.
+
+La Congregación, después de haber estudiado el escrito en sus aspectos doctrinales y pastorales, exponía al autor, en carta del 15 de mayo de 1984, algunas reservas, invitándolo a acogerlas y ofreciéndole al mismo tiempo la posibilidad de un diálogo para aclarar la cuestión.
+
+Pero, teniendo en cuenta la influencia que el libro ejercía en los fieles, la Congregación informaba a L. Boff que la carta se haría pública en todo caso, teniendo eventualmente en consideración la posición que él adoptara en el coloquio.
+
+El 7 de septiembre de 1984, L. Boff era recibido por el Cardenal Prefecto de la Congregación, asistido por Mons. Jorge Mejía en calidad de actuario. El contenido de la conversación eran algunos problemas eclesiológicos que surgían de la lectura del libro *Iglesia: carisma y poder* ya señalados en la carta del 15 de mayo 1984. La conversación, desarrollada en un clima fraterno, brindó al autor la ocasión de exponer sus aclaraciones, que entregó también él por escrito. Todo ello quedaba puntualizado en un comunicado final emitido y redactado de acuerdo con L. Boff. Al término de la conversación, en otro lugar, fueron recibidos por el Cardenal Prefecto los Eminentísimos Cardenales Aloisio Lorscheider y Paulo Evaristo Arns, que se hallaban en Roma con este motivo.
+
+La Congregación examinó, según la propia praxis, las clarificaciones orales y escritas facilitadas por L. Boff y, aun habiendo tenido en cuenta las buenas intenciones y los repetidos testimonios de fidelidad a la Iglesia y al Magisterio manifestados por él, sin embargo ha tenido que poner de relieve que las reservas suscitadas a propósito del libro y señaladas en la carta no podían considerarse sustancialmente superadas. Juzga necesario, pues, tal como estaba previsto, hacer ahora público, en sus partes esenciales, el contenido doctrinal de dicha carta.
+
+**Premisa doctrinal**
+
+La eclesiología del libro *Iglesia: carisma y poder*, con una serie de estudios y de perspectivas, trata de salir al paso a los problemas de América Latina y en particular de Brasil (cf. p. 3). Esta intención, por una parte, exige una atención seria y profunda a las situaciones concretas a las que se refiere el libro, y, por otra —para responder realmente a su finalidad—, la preocupación de insertarse en la gran misión de la Iglesia universal, orientada a interpretar, desarrollar y aplicar, bajo la guía del Espíritu Santo, la herencia común del único Evangelio confiado por el Señor, una vez para siempre, a nuestra fidelidad. De este modo la única fe del Evangelio crea y edifica, a través de los siglos, la Iglesia Católica, que permanece una en la diversidad de los tiempos y la diferencia de las situaciones propias en las múltiples Iglesias particulares. La Iglesia universal se realiza y vive en las Iglesias particulares y éstas son Iglesia, permaneciendo precisamente como expresiones y actualizaciones de la Iglesia universal en un determinado tiempo y lugar. Así, con el crecimiento y progreso de las Iglesias particulares crece y progresa la Iglesia universal; mientras que con la atenuación de la unidad disminuiría y haría decaer también la Iglesia particular. Por esto la verdadera reflexión teológica nunca debe contentarse sólo con interpretar y animar la realidad de una Iglesia particular, sino que debe más bien tratar de penetrar los contenidos del sagrado depósito de la Palabra de Dios, confiado a la Iglesia y auténticamente interpretado por el Magisterio. La praxis y las experiencias, que surgen siempre de una situación histórica determinada y limitada, ayudan al teólogo y le obligan a hacer accesible el Evangelio a su tiempo. Sin embargo, la praxis no sustituye a la verdad ni la produce, sino que está al servicio de la verdad que nos ha entregado el Señor. Por tanto, el teólogo está llamado a descifrar el lenguaje de las diversas situaciones —los signos de los tiempos— y abrir este lenguaje al entendimiento de la fe (cf. Enc. *[Redemptor hominis](/edocs/ESL0038/__PK.HTM)*, 19).
+
+Examinadas a la luz de los criterios de un auténtico método teológico —al que aquí sólo hemos aludido brevemente— determinadas opciones del libro de L. Boff, resultan insostenibles. Sin pretender analizarlas todas, se ponen aquí en evidencia las opciones eclesiológicas que parecen decisivas: la estructura de la Iglesia, la concepción del dogma, el ejercicio del poder sagrado, el profetismo.
+
+**La estructura de la Iglesia**
+
+L. Boff se sitúa, según sus palabras, dentro de una orientación en la que se afirma «que la Iglesia como institución no estaba en el pensamiento del Jesús histórico, sino que surgió como evolución posterior a la resurrección, especialmente con el progresivo proceso de desescatologización» (p. 129). Por consiguiente, la jerarquía es para él «un resultado» de la «terrena necesidad de institucionalizarse», «una mundanización» al «estilo romano y feudal» (p. 70). De aquí se deriva la necesidad de un «cambio permanente de la Iglesia» (p. 112); hoy debe surgir una «Iglesia nueva» (p. 110 y *passim*), que será «una nueva encarnación de las instituciones eclesiales en la sociedad, cuyo poder será simple función de servicio» (p. 111).
+
+En la lógica de estas afirmaciones se explica también su interpretación de las relaciones entre catolicismo y protestantismo: «Nos parece que el cristianismo romano (catolicismo) se distingue por la afirmación valiente de la identidad sacramental y el cristianismo protestante por una afirmación intrépida de la no-identidad» (p. 130; cf. p. l32ss, 149);
+
+En esta visión, ambas confesiones serían mediaciones incompletas, pertenecientes a un proceso dialéctico de afirmación y negación. En esta dialéctica «aparece qué es el cristianismo. ¿Qué es el cristianismo? No lo sabemos. Sólo sabemos lo que se manifiesta en el proceso histórico» (p. 138).
+
+Para justificar esta concepción relativizante de la Iglesia —que está en el fundamento de las críticas radicales dirigidas a la estructura jerárquica de la Iglesia Católica—, L. Boff apela a la constitución *[Lumen gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)* (n. 8) del Concilio Vaticano II. De la famosa expresión del Concilio: «Haec Ecclesia (sc. única Christi Ecclesia)... subsistit in Ecclesia catholica», él deduce una tesis exactamente contraria al significado auténtico del texto conciliar, cuando afirma: «De hecho, ella (es decir, la única Iglesia de Cristo) puede subsistir también en otras Iglesias cristianas» (p. 131). En cambio, el Concilio eligió la palabra «subsistit» precisamente para aclarar que existe una sola «subsistencia» de la verdadera Iglesia, mientras que fuera de su trabazón visible sólo existen «elementa Ecclesiae» que — siendo elementos de la misma Iglesia — tienden y conducen hacia la Iglesia Católica (LG 8). El Decreto sobre el ecumenismo expresa la misma doctrina ([UR](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html) 3-4), la cual se precisó de nuevo en la declaración *Mysterium Ecclesiae*, n. l: AAS 65 (1973) 396-398.
+
+La subversión del significado del texto conciliar sobre la subsistencia de la Iglesia está en la raíz del relativismo eclesiológico de L. Boff antes señalado, en el cual se desarrolla y se explícita un profundo malentendido de la fe católica sobre la Iglesia de Dios en el mundo.
+
+**Dogma y revelación**
+
+La misma lógica relativizante se vuelve a encontrar en la concepción de la doctrina y del dogma expresada por L. Boff. El autor critica de manera muy severa «la comprensión "doctrinal" de la revelación» (p. 73). Es cierto que L. Boff distingue entre dogmatismo y dogma (cf. p. 147), admitiendo el segundo y rechazando el primero. Sin embargo, según él, el dogma en su formulación es válido solamente «para un determinado tiempo y circunstancias» (p. 134). «En un segundo momento del mismo proceso dialéctico el texto debe poder ser superado, para dar lugar a otro texto del hoy de la fe» (p. 135). El relativismo resultante de estas afirmaciones se hace explícito cuando L. Boff habla de posiciones doctrinales contradictorias entre sí, contenidas en el Nuevo Testamento (cf. p. 135). Por consiguiente, «la actitud verdaderamente católica» sería «la de estar fundamentalmente abiertos en todas direcciones» (p. 135). En la perspectiva de L. Boff, la auténtica concepción católica del dogma cae bajo el veredicto de «dogmatismo»: «Mientras dure este tipo de comprensión dogmática y doctrinal de la revelación y de la salvación de Jesucristo, habrá que contar irremediablemente con la represión de la libertad del pensamiento divergente dentro de la Iglesia» (p. 74).
+
+En este sentido hay que poner de relieve que lo contrario del relativismo no es el verbalismo o el inmovilismo. El contenido último de la revelación es Dios mismo, Padre, Hijo y Espíritu Santo, que nos invitó a la comunión con El; todas las palabras se refieren a la Palabra, o, como dice san Juan de la Cruz: «...a su Hijo... todo nos lo habló junto y de una vez en esta sola Palabra y no tiene más que hablar» (*Subida al Monte Carmelo* II 22, 3). Pero en las palabras, siempre analógicas y limitadas, de la Escritura y de la fe auténtica de la Iglesia, basada en la Escritura, se expresa de manera digna de fe la verdad sobre Dios y sobre el hombre. La necesidad permanente de interpretar el lenguaje del pasado, lejos de sacrificar esa verdad, más bien la hace accesible y desarrolla la riqueza de los textos auténticos. Caminando bajo la guía del Señor, que es el camino y la verdad (Jn 14,6), la Iglesia, docente y creyente, está segura de que la verdad expresada en las palabras de la fe no sólo no oprime al hombre, sino que lo libera (Jn 8,32) y es el único instrumento de verdadera comunión entre hombres de diversas clases y opiniones, mientras que una concepción dialéctica y relativista lo expone a un voluntarismo arbitrario.
+
+Ya en el pasado, esta Congregación tuvo que precisar que el sentido de las fórmulas dogmáticas permanece siempre verdadero y coherente, determinado e irreformable, aun cuando pueda ser ulteriormente esclarecido y mejor comprendido (cf. *Mysterium Ecclesiae*, 5: AAS 65 (1973) 403-404).
+
+El *depositum fidei*, para continuar siendo sal de la tierra que nunca pierde su sabor, debe ser fielmente conservado en su pureza, sin que su comprensión caiga en un proceso dialéctico de la historia y en la orientación del primado de la praxis.
+
+**Ejercicio del poder sacro**
+
+Una «grave patología» de la que, según L. Boff, debería liberarse la Iglesia romana viene del ejercicio hegemónico del poder sacro que, además de hacer de ella una sociedad asimétrica, lo habría deformado en sí mismo.
+
+Dando por descontado que el eje organizador de una sociedad coincide con el modo específico de producción que le es propio y aplicando este principio a la Iglesia, L. Boff afirma que ha habido un proceso histórico de expropiación de los medios de producción religiosa por parte del clero en perjuicio del pueblo cristiano, el cual se habría visto así privado de su capacidad de decidir, de enseñar, etc. (cf. p. 75, 222ss, 259s). Además, después de haber sufrido esta expropiación, el poder sacro habría sido también gravemente deformado, cayendo así en los mismos defectos del poder profano en términos de dominación, centralización, triunfalismo (cf. p. 100, 85, 92ss), Para remediar estos inconvenientes, se propone un nuevo modelo de Iglesia, en la que el poder se entienda sin privilegios teológicos, como puro servicio articulado según las necesidades de la comunidad (cf. p. 224, 111).
+
+No se puede empobrecer la realidad de los sacramentos y de la palabra de Dios, encuadrándola en el esquema de «producción y consumo», reduciendo así la comunión de la fe a un mero fenómeno sociológico. Los sacramentos no son «material simbólico», su administración no es producción, su recepción no es consumo. Los sacramentos son dones de Dios, nadie los «produce», todos recibimos en ellos la gracia de Dios, los signos del amor eterno. Todo esto está por encima de cualquier producción, por encima de todo hacer y fabricar humano. La única medida correspondiente a la grandeza del don es la máxima fidelidad a la voluntad del Señor, según la cual seremos juzgados todos —sacerdotes y laicos— siendo todos «siervos inútiles» (Lc 17,10). Es cierto que siempre existe el peligro de abusos; el problema de cómo pueda garantizarse el acceso de todos los fieles a la plena participación en la vida de la Iglesia y en su fuente, esto es, en la vida del Señor, siempre se plantea. Pero interpretar la realidad de los sacramentos, de la jerarquía, de la palabra y de toda la vida de la Iglesia en términos de producción y de consumo, de monopolio, expropiación, conflicto con el bloque hegemónico, ruptura y ocasión para un modo asimétrico de producción, equivale a subvertir la realidad religiosa, lo que, lejos de contribuir a la solución de los verdaderos problemas, lleva más bien a la destrucción del sentido auténtico de los sacramentos y de la palabra de la fe.
+
+**El profetismo en la Iglesia**
+
+El libro *Iglesia: carisma y poder* denuncia a la jerarquía y a las instituciones de la Iglesia (cf. p. 63s, 89, 259s). Como explicación y justificación de tal actitud reivindica el papel de los carismas y en particular del profetismo (cf. p. 258-261, 268). La jerarquía tendría la simple función de «coordinar», de «favorecer la unidad y la armonía entre los varios servicios», de «mantener la circularidad e impedir toda división y superposición», descartando, pues, de esta función «la subordinación inmediata de todos a los jerarcas» (cf. p. 270).
+
+No cabe duda de que el Pueblo de Dios participa en la misión profética de Cristo (cf. [LG](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html) 12); Cristo realiza su misión profética no sólo por medio de la jerarquía, sino también por medio de los laicos (cf. [LG](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html) 35). Pero es igualmente claro que la denuncia profética en la Iglesia, para ser legítima, debe estar siempre al servicio de la edificación de la Iglesia misma. No sólo debe aceptar la jerarquía y las instituciones, sino también cooperar positivamente a la consolidación de su comunión interna; además, el criterio supremo para juzgar no sólo su ejercicio ordenado, sino también su autenticidad, pertenece a la jerarquía (cf. [LG](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html) 12).
+
+**Conclusión**
+
+Al hacer público todo lo anterior, la Congregación se siente también obligada a declarar que las opciones de L. Boff aquí analizadas son tales que ponen en peligro la sana doctrina de la fe, que esta misma Congregación tiene el deber de promover y tutelar.
+
+*El Sumo Pontífice Juan Pablo II, durante la Audiencia concedida al infrascrito Prefecto, aprobó la presente Notificación, decidida en la Reunión ordinaria de esta Congregación, y ordenó su publicación.*
+
+*Roma, en la sede de la Congregación para la Doctrina de la Fe, 11 de marzo de 1985.*
+
+**JOSEPH Card. RATZINGER** *Prefecto*
+
+**ALBERTO BOVONE**  
+*Arzobispo titular de Cesarea de Numidia Secretario*
+
+[](#top)

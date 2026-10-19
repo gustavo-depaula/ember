@@ -64,5 +64,3 @@ Quaecumque vero a Nobis hisce Litteris motu proprio datis decreta sunt, ea omnia
 *Datum Romae, apud Sanctum Petrum die XXVI mensis decembris anno MCMLXXXVII, Pontificatus Nostri decimo*.
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1987 - Libreria Editrice Vaticana

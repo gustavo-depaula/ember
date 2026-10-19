@@ -62,8 +62,6 @@ Con questa lietissima speranza e con grande affetto impartiamo a voi, venerabili
 
 ------------------------------------------------------------------------
 
-© Copyright 1959 - Libreria Editrice Vaticana
-
 [^1]: (#fnref1)) IOANNES PP. XXIII, Epist. enc. Grata recordatio de Mariali Rosario per Octobrem praesertim mensem pie recitando, \[Ad venerabiles fratres Patriarchas, Primates, Archiepiscopos, Episcopos aliosque locorum Ordinarios pacem et communionem cum Apostolica Sede habentes\], 26 septembris 1959: AAS 51 (1959), pp. 673-678. – Ai nn. 151 e 166 è detta «Encyclicae Litterae» – Versione italiana: *L'Osservatore Romano*, 30 sett. 1959; *La Civiltà cattolica*, 110(1959), IV, pp. 191-194.  
 Sintetico richiamo delle encicliche mariane di Leone XIII; efficacia della preghiera del santo rosario. Ricordo di Pio XII e continuità del pontificato romano nel susseguirsi delle vicende umane. Decisa riaffermazione della soprannaturalità dell'azione della chiesa, diretta al mutuo rispetto, alla fraternità e alla pace fra i popoli. Invito a rivolgere suppliche alla Vergine, affinché i capi dei popoli non ripongano le loro speranze nei conflitti armati, ma promuovano il bene civile e sociale degli uomini in vista di quello eterno. Inconciliabilità di certi principi filosofi ci e atteggiamenti pratici con la fede cristiana. Auspicio di opportuni e saggi rimedi. Esortazione a pregare la Vergine santa per l'avvento di tempi migliori e per la buona riuscita del sinodo diocesano romano e del concilio ecumenico.
 

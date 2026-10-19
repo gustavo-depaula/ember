@@ -91,5 +91,3 @@ Ut vero divinae gratiae auxilium vobis semper adsit, vosque divina misericordia 
 \(1\) Act., XX, 28.
 
 \(2\) Cfr. etiam Epist. Apost. « *[Paterna sane sollicitudo](/content/pius-xi/la/apost_letters/documents/hf_p-xi_apl_19260202_paterna-sane-sollicitudo.html)* », d. II Febr., a. MDCCCCXXVI.
-
-© Copyright - Libreria Editrice Vaticana

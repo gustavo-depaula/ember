@@ -1,0 +1,104 @@
+{
+  "id": "francis-20230619-sublimitas-et-miseria-hominis",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae “Sublimitas et miseria hominis” IV centesima occurrente memoria ab ortu Blasii Pascal (die XIX mensis Iunii, anno MMXXIII)",
+    "en-US": "Apostolic Letter “Sublimitas et Miseria Hominis” of the Holy Father Francis on the Fourth Centenary of the Birth of Blaise Pascal",
+    "pt-BR": "Carta Apostólica Sublimitas et miseria hominis do Santo Padre no IV centenário do nascimento de Blaise Pascal",
+    "ar": "Apostolic Letter “Sublimitas et Miseria Hominis” of the Holy Father Francis on the Fourth Centenary of the Birth of Blaise Pascal, 19 June 2023",
+    "de": "Apostolisches Schreiben »Sublimitas et miseria hominis« zum vierhundertsten Jahrestag der Geburt von Blaise Pascal",
+    "es": "Carta Apostólica \"Sublimitas et miseria hominis\" en el cuarto centenario del nacimiento de Blaise Pascal",
+    "fr": "Lettre apostolique Sublimitas et miseria hominis pour le quatrième centenaire de la naissance de Blaise Pascal",
+    "it": "Lettera Apostolica \"Sublimitas et miseria hominis\" nel IV centenario della nascita di Blaise Pascal",
+    "pl": "List Apostolski Sublimitas et Miseria Hominis Ojca Świętego Franciszka w Czterechsetną Rocznicę Urodzin Blaise’a Pascala"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2023-06-19",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2023-06-19"
+  },
+  "composed": "2023",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_letters/documents/20230619-sublimitas-et-miseria-hominis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_letters/documents/20230619-sublimitas-et-miseria-hominis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/20230619-sublimitas-et-miseria-hominis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/apost_letters/documents/20230619-sublimitas-et-miseria-hominis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_letters/documents/20230619-sublimitas-et-miseria-hominis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_letters/documents/20230619-sublimitas-et-miseria-hominis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/20230619-sublimitas-et-miseria-hominis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/20230619-sublimitas-et-miseria-hominis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_letters/documents/20230619-sublimitas-et-miseria-hominis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae “Sublimitas et miseria hominis” IV centesima occurrente memoria ab ortu Blasii Pascal (die XIX mensis Iunii, anno MMXXIII)",
+        "en-US": "Apostolic Letter “Sublimitas et Miseria Hominis” of the Holy Father Francis on the Fourth Centenary of the Birth of Blaise Pascal",
+        "pt-BR": "Carta Apostólica Sublimitas et miseria hominis do Santo Padre no IV centenário do nascimento de Blaise Pascal",
+        "ar": "Apostolic Letter “Sublimitas et Miseria Hominis” of the Holy Father Francis on the Fourth Centenary of the Birth of Blaise Pascal, 19 June 2023",
+        "de": "Apostolisches Schreiben »Sublimitas et miseria hominis« zum vierhundertsten Jahrestag der Geburt von Blaise Pascal",
+        "es": "Carta Apostólica \"Sublimitas et miseria hominis\" en el cuarto centenario del nacimiento de Blaise Pascal",
+        "fr": "Lettre apostolique Sublimitas et miseria hominis pour le quatrième centenaire de la naissance de Blaise Pascal",
+        "it": "Lettera Apostolica \"Sublimitas et miseria hominis\" nel IV centenario della nascita di Blaise Pascal",
+        "pl": "List Apostolski Sublimitas et Miseria Hominis Ojca Świętego Franciszka w Czterechsetną Rocznicę Urodzin Blaise’a Pascala"
+      }
+    }
+  ]
+}

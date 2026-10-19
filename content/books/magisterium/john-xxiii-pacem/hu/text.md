@@ -547,6 +547,4 @@ Jegyzetek
 [\[70\]](#JB70) Vö. Iz 9,6  
 [\[71\]](#JB71) Ef 2, 14-17  
 [\[72\]](#JB72) Resp. ad Mat., húsvét nyolcada alatti péntek.  
-[\[73\]](#JB73) Jn 14,27  
-
-© Copyright 1963 - Libreria Editrice Vaticana
+[\[73\]](#JB73) Jn 14,27

@@ -575,5 +575,3 @@ PAULUS PP. VI
 \(134\) Cfr. *Rom*. 1, 16
 
 \(135\) *Phil*. 1, 3-4. 7-8
-
-© Copyright - Libreria Editrice Vaticana

@@ -1,0 +1,96 @@
+{
+  "id": "cdf-gestis-verbisque",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Note Gestis Verbisque on the Validity of the Sacraments",
+    "pt-BR": "Nota Gestis Verbisque sobre a validade dos sacramentos",
+    "de": "Note Gestis verbisque über die Gültigkeit der Sakramente",
+    "es": "Nota Gestis Verbisque sobre la validez de los sacramentos",
+    "fr": "Note Gestis Verbisque sur la validité des sacrements",
+    "hr": "Nota Gestis Verbisque o valjanosti sakramenata",
+    "it": "Nota Gestis Verbisque, sulla validità dei Sacramenti",
+    "pl": "Nota Gestis Verbisque"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-02-02",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-02-02"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_hr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240202_gestis-verbisque_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Note Gestis Verbisque on the Validity of the Sacraments",
+        "pt-BR": "Nota Gestis Verbisque sobre a validade dos sacramentos",
+        "de": "Note Gestis verbisque über die Gültigkeit der Sakramente",
+        "es": "Nota Gestis Verbisque sobre la validez de los sacramentos",
+        "fr": "Note Gestis Verbisque sur la validité des sacrements",
+        "hr": "Nota Gestis Verbisque o valjanosti sakramenata",
+        "it": "Nota Gestis Verbisque, sulla validità dei Sacramenti",
+        "pl": "Nota Gestis Verbisque"
+      }
+    }
+  ]
+}

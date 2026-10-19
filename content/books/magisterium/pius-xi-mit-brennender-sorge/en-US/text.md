@@ -103,6 +103,4 @@ Given at the Vatican on Passion Sunday, March 14, 1937.
 
 **PIUS XI**
 
-© Copyright - Libreria Editrice Vaticana
-
   * *

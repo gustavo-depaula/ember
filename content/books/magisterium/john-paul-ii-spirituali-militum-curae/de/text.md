@@ -69,5 +69,3 @@ Es ist unser Wunsch, daß diese unsere Verfügungen und Vorschriften jetzt und i
 *Gegeben zu Rom, bei St. Peter, am 21. April 1986, im achten Jahr unseres Pontifikates.*
 
 **JOHANNES PAUL II.**
-
-© Copyright 1986 - Libreria Editrice Vaticana

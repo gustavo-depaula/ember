@@ -1,3 +1,347 @@
 # POJEDNANIE I POKUTA, 1982
 
-[TABLE]
+[](/index.htm)
+
+[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
+
+[](javascript:history.go(-1))
+
+[](#)
+
+------------------------------------------------------------------------
+
+Międzynarodowa Komisja Teologiczna
+
+**POJEDNANIE I POKUTA**\*
+
+\(1982\)
+
+**Wprowadzenie**
+
+W przepowiadaniu Jezusa wezwanie do nawrócenia jest związane w sposób bezpośredni z Ewangelią o królestwie Bożym (por. Mk 1,14). Kiedy więc Kościół, idąc śladami Jezusa i na mocy otrzymanego od Niego posłania, wzywa do nawrócenia i głosi pojednanie świata dokonane przez Boga za pośrednictwem śmierci i zmartwychwstania Jezusa Chrystusa (por. 2 Kor 5,18-20), głosi Boga bogatego w miłosierdzie (por. Ef 2,4) i nie gardzącego tym, by być nazywanym Bogiem ludzi (por. Hbr 11,16).
+
+Dlatego orędzie, które głosi, że Bóg jest Bogiem i że przychodzi Jego królestwo, ma równocześnie za przedmiot zbawienie ludzi i pojednanie świata. Grzech natomiast nie uznaje Boga za Boga i odrzuca komunię z Nim, do której od początku stworzenia powołuje On ludzi. Grzech wyraża równocześnie oddalenie człowieka od sensu i celu jego ziemskiej egzystencji, jak również oddalenie ludzi między sobą. Jednak, nawet jeśli my nie jesteśmy wierni, to Bóg ze swej strony pozostaje wierny. Dlatego zawarł przymierze, najpierw z wybranym przez siebie narodem; potem, w pełni czasu, odnowił to przymierze, ustanawiając Jezusa Chrystusa jedynym Pośrednikiem między Bogiem i ludźmi (1 Tm 2,5). To nowe i wieczne przymierze przypieczętował swoją krwią przelaną przez Jezusa Chrystusa za wielu na odpuszczenie grzechów (por. Mt 26,28).
+
+Jeśli rzeczywiście takie jest centrum orędzia chrześcijańskiego, to wtedy temat pokuty i pojednania dotyczy Kościoła. On jest dla świata sakramentem pojednania w całości swego istnienia, w swoim nauczaniu, jak również w swoim życiu. Z drugiej strony utrata zmysłu grzechu, jaką stwierdzamy dzisiaj w wielu częściach świata, ma swoje źródło w utracie zmysłu Boga, a w konsekwencji prowadzi do utraty zmysłu człowieka. W ten sposób, przepowiadając nawrócenie i pojednanie, Kościół pokazuje, że równocześnie jest wierny Bogu i ludziom; jako administrator i szafarz misteriów Bożych (por. 1 Kor 4,1), dokonuje równocześnie zbawienia człowieka.
+
+W tym kontekście, który „bez rozdzielenia ani pomieszania” jest równocześnie teologalny i antropologiczny, Międzynarodowa Komisja Teologiczna przedstawia wkład, o jaki została poproszona w ramach przygotowań do Synodu Biskupów w 1983 roku. Nie ma zamiaru powiedzieć wszystkiego ani nie chce powtórzyć tego, co jest powszechnie znane i uznane; uważa jednak, pragnąc pozostać wierną swojej misji, że nie musi ograniczać się do rozstrzygania jedynie problemów teologicznych i pastoralnych obecnej chwili. Jest bowiem przekonana, że pokuta i pojednanie posiada szczególne znaczenie dla spotkania z mentalnościami kulturowymi ludzi; jest ponadto świadoma bezdyskusyjnego związku, jaki łączy ze sobą doktrynę Kościoła i jej praktyczne przeżywanie. Pragnie więc zaproponować swoją refleksję w trzech aspektach. Oto one:
+
+1\) analiza sytuacji antropologicznej pokuty dzisiaj, w relacji z aktualnym kryzysem człowieka;
+
+2\) podstawy biblijne, historyczne i dogmatyczne doktryny o pokucie;
+
+3\) rozważania dotyczące niektórych ważnych problemów odnośnie do doktryny i praktyki pokuty.
+
+**A. Kontekst antropologiczny pokuty**
+
+**I. Istota pokuty w aspekcie antropologicznym**
+
+1\. Wina i grzech, pokuta i nawrócenie to powszechne zjawiska dotyczące natury człowieka, w różnych formach historycznych spotykane w każdej religii i kulturze, chociaż często są zaciemnione, lub nawet wynaturzone. Wezwanie do pokuty oraz orędzie, jakie w Starym i Nowym Testamencie głosi pojednanie udzielane przez Boga, zakładają oczyszczają i przekraczają powszechne zjawisko ludzkiego grzechu. Według koncepcji Pisma świętego nawrócenie człowieka i pokuta są odpowiedzią człowieka, umożliwianą i dokonywaną przez łaskę, na propozycję pojednania ofiarowaną mu przez Boga. Pokuta jest więc zarazem darem łaski oraz wolnym i moralnie odpowiedzialnym czynem człowieka (*actus humanus*), czynem, przez który ludzki podmiot uznaje odpowiedzialność za swoje złe działania, a równocześnie przez osobistą decyzję zmienia własne życie, nadając mu nowe ukierunkowanie, zwracając się do Boga. Taka jedność, naznaczona głębokim napięciem, działania Bożego i działania ludzkiego w akcie pokuty będzie miała ogromne konsekwencje - troska duszpasterska o odnowę postawy i sakramentu pokuty będzie obejmować, wychodząc z natury rzeczy, zwrócenie uwagi na antropologiczne założenia pokuty, to znaczy na jej warunki ekonomiczne, socjologiczne, psychologiczne i duchowe.
+
+2\. Kryzys, dotykający obecnie zrozumienie i praktykę pokuty, nie zależy ani wyłącznie, ani na pierwszym miejscu od poszczególnych problemów porządku dogmatycznego, dyscyplinarnego lub duszpasterskiego. Na szerokich obszarach dzisiejszego świata doszło do utraty zmysłu grzechu, a w konsekwencji zmysłu pokuty. Taka sytuacja jest spowodowana rozmaitymi przyczynami, przede wszystkim wewnętrznymi w samym Kościele. Pokuta, tak jak była często praktykowana w Kościele aż do niedawnej przeszłości, jest dzisiaj uważana przez wielu chrześcijan za nieskuteczną z ludzkiego punktu widzenia. W wielu przypadkach konkretna praktyka pokuty w ogóle nie wpływa na życie jednostek i na dramatyczną sytuację dzisiejszego świata. Należy do tego dodać aspekt bardziej zewnętrzny w stosunku do Kościoła – aktualny kryzys pokuty opiera się ostatecznie na kryzysie człowieka współczesnego, przede wszystkim człowieka naznaczonego przez cywilizację zachodnią, kryzysie zrozumienia siebie samego. Na ogół ten człowiek współczesny już nie zna i nie chce już uznać ani grzechu, ani nawrócenia. W naszych czasach zdarza się bardzo często, że wina i grzech nie są już rozumiane jako pierwotny element osobistej odpowiedzialności człowieka, ale jako drugorzędna manifestacja wynikająca z natury, kultury, społeczeństwa, historii, relacji, nieświadomości itd., sytuując je na polu ideologii lub iluzji. W ten sposób doszło do osłabienia sumienia osobistego na rzecz wpływu, najczęściej nieświadomego, norm społecznych świata silnie zdechrystianizowanego.
+
+3\. Odnowa antropologicznych założeń pokuty powinna więc rozpocząć się od odnowy koncepcji człowieka jako osoby moralnie i religijnie odpowiedzialnej. Należy ukazać na nowo, że możliwość stania się winnym jest dawana wraz z wolnością ludzką, na której konkretnie polega wolność osobowa człowieka. Jest własnością podmiotu ludzkiego, że jest odpowiedzialny za własną realizację. Prymat osoby nad rzeczami stoi u podstaw faktu, że człowiek nie jest prostym przedmiotem rzuconym w wir anonimowych sił (fizjologicznych, ekonomicznych, społecznych i kulturowych), ale jest także wolnym i odpowiedzialnym podmiotem oraz bezpośrednią przyczyną napięć, rozdźwięków, alienacji, jakie spotyka siew świecie. Dlatego tam, gdzie znika podstawowe uznanie grzechu i winy, tam zostaje narażone na niebezpieczeństwo to, co ludzkie w człowieku.
+
+4\. Bezwarunkowa godność człowieka jako osoby ostatecznie opiera się na jego relacji z Bogiem, na jego podobieństwie do Boga oraz na darmowym powołaniu, które zaprasza go do komunii z Bogiem. Dlatego człowiek pozostaje dla siebie samego pytaniem, na które tylko Bóg może udzielić adekwatnej i całkowicie pewnej odpowiedzi. Tak, sam Bóg i komunia z Nim są rzeczywiście rozwiązaniem problemu, jaki nie tylko staje przed człowiekiem, ale jakim on sam jest dla siebie w głębi własnego bytu \[1\]. Odnowa człowieka i świadomości własnej osobistej godności powinna więc zacząć się od nawrócenia do Boga i od powrotu do komunii z Nim. Z drugiej strony Kościół, kiedy wzywa człowieka do nawrócenia się do Boga, stanowi „znak i ochronę transcendentnego charakteru osoby ludzkiej” \[2\].
+
+**II. Wymiary antropologiczne pokuty**
+
+1\. Osoba ludzka jest w sposób istotny ukonstytuowana cieleśnie. W swojej realizacji konkretnej zależy ona na wiele sposobów od warunków fizjologicznych, ekonomicznych, socjologicznych, kulturowych i psychologicznych. Z drugiej strony wina i grzech urzeczywistniają się także w organizacjach i strukturach wytworzonych przez ludzi i społeczność ludzką; takie organizacje i struktury są z kolei przejmowane przez ludzi, którzy żyją w ich ramach oraz mogą obciążać wolność ludzką i prowadzić do grzechu. Struktury tak obciążone i naznaczone przez grzech mogą wywierać na człowieka działanie alienujące i niszczące. Jednak, mimo całego ciężaru ich wpływu na postawę osobistą jednostek, można mówić o „strukturach grzechu” lub „grzechach strukturalnych” co najwyżej w sensie analogicznym. W sensie właściwym tego słowa - tylko człowiek jest zdolny do grzechu. Jednak, właśnie ponieważ takie struktury wynikają z grzechu i mogą ze swej strony być okazją do grzechu lub zmuszać do niego, nawrócenie i pokuta powinny rozciągnąć swój wpływ - tam gdzie to jest możliwe - aż na zmianę struktur. Owe zmiany zakładają nawrócenie osobiste; należy więc popierać je przy pomocy takich środków, które byłyby w relacji z pojednaniem i do niego prowadziły.
+
+Konkretna możliwość w tej dziedzinie zależy także od sytuacji i zasobów, którymi dysponuje konkretna osoba w określonym społeczeństwie. Dzisiaj szerokie warstwy ludzkości są zmuszane do znoszenia, cierpiąc i w duchu pokuty, złych struktur na polu ekonomicznym, społecznym lub politycznym. Dla wielu próba ucieczki od współpracy z takimi strukturami zakłada wyrzeczenie się pewnych dóbr i pewnych sytuacji, które może być także formą nałożonej siłą pokuty. Wysiłek zmierzający do wyeliminowania szkodliwości pewnych struktur lub chęć ich wyeliminowania narazić może na poważne niebezpieczeństwo, nawet na prześladowania, które trzeba będzie znosić w duchu pokuty.
+
+Te różne perspektywy pozwalają dzisiaj po nowemu zrozumieć, w jaki sposób nawrócenie i pokuta nabierają koniecznego wymiaru cielesnego i kosmicznego oraz w jaki sposób powinny więc przynieść owoce pokuty cielesnej. Przez nawrócenie człowieka do Boga, który tak rozumie całą osobę, dokonuje się powrót do Boga i reintegracja każdej rzeczywistości ze Stwórcą.
+
+2\. Osoba ludzka jest nie tylko istotą cielesną, lecz także społeczną. Z tego powodu nawrócenie do Boga jest nierozerwalnie związane z nawróceniem do braci. Bóg jest rzeczywiście Ojcem wszystkich; za Jego pośrednictwem i poddana Mu ludzkość stanowi jedną rodzinę. Z tego powodu nie ma prawdziwego nawrócenia, jak tylko wtedy, gdy weryfikują się warunki sprawiedliwości, z zaangażowaniem na rzecz słusznego porządku, pokoju i wolności wszystkich. Pojednanie z Bogiem powinno prowadzić do pojednania z braćmi i przyczyniać się do rozwoju cywilizacji miłości, której Kościół jest sakramentem, to znaczy znakiem i narzędziem. Jednak nawrócenie do Boga pociąga za sobą nie tylko konsekwencje społeczne, lecz zakłada również pewne warunki społeczne. Tylko osoba, która doświadcza miłości, może otworzyć się przez miłość na Boga i innych. Pokuta nie może być więc rozumiana jako czysta kwestia wewnętrzna i prywatna. Przez fakt, że jest (a nie, chociaż jest) aktem osobistym, przyjmuje również wymiar społeczny. Chodzi o punkt widzenia, który ma swoje znaczenie dla uzasadnienia zarówno aspektu eklezjalnego, jak również sakramentalnego pokuty.
+
+3\. Będąc istotą, która żyje w czasie i historii, człowiek odnajduje własną tożsamość tylko wtedy, gdy uznaje swoją przeszłość jako grzesznika i otwiera się na nową przyszłość. Grzech może być oczywiście rozumiany jako *incurvatio hominis* lub jako *amor curvus*. Nawrócenie polega na tym, że człowiek kończy z takim egoistycznym załamaniem się oraz na nowo otwiera się na miłość do Boga i do bliźniego. Ten podwójny ruch urzeczywistnia się w wyznaniu winy. Człowiek uznaje w nim swoją przeszłość jako grzesznika, podczas gdy otwiera się i zajmuje pozycję wobec Boga i ludzi, by zacząć nową przyszłość w komunii z Bogiem i własnymi braćmi. Z samego względu antropologicznego takie wyznanie jest już elementem pokuty, ponieważ wywołuje na planie psychologicznym i społecznym wyzwalający i pojednujący skutek. Odnowa sakramentu pokuty może oprzeć się na takiej wizji antropologicznej, a wychodząc z niej może na nowo umożliwić zrozumienie osobistego wyznania grzechów. Wychodząc z perspektywy antropologicznej ta odnowa może i niewątpliwie powinna równocześnie wypracować jaśniejsze *zrozumienie i praktykowanie sakramentu pokuty jako sakramentu dialogu oraz prowadzić do takiego jego rozumienia i praktykowania.*
+
+4\. Gdziekolwiek ludzie nawracają się w taki sposób, pokutują i uznają swoją winę, czerpią z najgłębszego misterium osoby, które ze swej strony prowadzi do misterium Boga. Gdziekolwiek ma to miejsce, tam widzimy realizowanie się w sposób antycypujący nadziei sensu ostatecznego i eschatologicznego pojednania świata, jaka została nam objawiona i ukazana w swojej pełni tylko przez Jezusa Chrystusa. Ponieważ pokuta, rozważana w samym aspekcie uniwersalnie ludzkim i religijnym, antycypuje, w sposób zaczątkowy i fragmentaryczny, to, co zostaje dane w pełni przez Jezusa Chrystusa, dlatego może być zakwalifikowana jako *sacramentum legis naturae* \[3\]*.*
+
+**B. Podstawy teologiczne pokuty**
+
+**I. Podstawy teologalne**
+
+1\. Orędzie Starego i Nowego Testamentu, które zdecydowanie przekracza wszelkie oczekiwanie człowieka, ma przede wszystkim charakter teocentryczny. Chodzi w nim o objawienie, że Bóg jest Bogiem, oraz Jego chwały, że przyjdzie Jego królestwo, że ma spełniać się Jego wola i że ma być uwielbione Jego imię (por. Mt 6,9n; Łk 11,2). Odpowiada temu początek Dekalogu: „Ja jestem Pan, twój Bóg (...)” (Wj 20,2; Pwt 5,6). Wymaganie całkowitego daru z siebie dla Boga i bliźniego osiąga w Jezusie wzniosłość i głębię treści, a także moc, które przekraczają Stary Testament (por. Mk 12,29-31). Grzech, przeciwnie, jest postawą i działaniem człowieka, które nie uznają Boga i Jego królestwa. Dlatego w Piśmie świętym jest on określony jako nieposłuszeństwo, bałwochwalstwo i absolutyzowanie autonomii człowieka w jego nastawieniu na samowystarczalność. W ten sposób oddalając się od Boga i w sposób nie uporządkowany zwracając się do wartości stworzonych, człowiek nie dochodzi do prawdy o sobie jako bycie stworzonym; alienuje siebie samego (por. Rz 1,2In). Zwracając się na nowo, przez nawrócenie, do Boga jako swojej zasady i swojego celu, człowiek odnajduje sens swojej egzystencji.
+
+2\. W Starym Testamencie idea Boga jest zdeterminowana przez ideę przymierza. Bóg jest w niej opisany jako miłujący oblubieniec, Ojciec pełen dobroci; jest *dives in misericordia* (bogaty w miłosierdzie), zawsze dysponowany do przebaczenia i pojednania, zawsze gotowy do odnowienia swojego przymierza. Oczywiście także gniew Boży jest rzeczywistością; pokazuje on, że Bóg czuje się zaangażowany w swojej miłości przez zło, jakie jest w świecie, oraz reaguje przeciw niesprawiedliwości i kłamstwu. W tej perspektywie grzech jest opisany jako zerwanie przymierza i zostaje porównany do cudzołóstwa. U proroków doświadczenie łaski i wierności Boga stanowią pierwsze i ostatnie słowo przymierza. Co więcej, u Jezusa radykalizm wymagań i wezwania do nawrócenia wpisuje się w Jego orędzie zbawcze (por. Łk 6,35). Jezus przyznaje Ewangelii absolutne pierwszeństwo w stosunku do prawa. To nie oznacza, że dla Jezusa nie istniałoby już żadne wymaganie moralne, ale - co więcej - Jego wymagania moralne i Jego wezwanie do nawrócenia są nieporównywalne i nierealizowalne inaczej, jak tylko w ramach Jego Dobrej Nowiny. Miłujące zaangażowanie Ojca i Jego uprzedzająca wola przebaczenia jako pierwsze wyzwalają człowieka, zachęcają go do nawrócenia, umożliwiają człowiekowi powrót do Boga i całkowite oddanie się Jemu. Nawrócenie i pokuta nie są więc aktami czysto ludzkimi, ale darem łaski. Rzeczywiście, zredukowany do swoich własnych dążeń do nawrócenia człowiek, pozostaje zawsze wystawiony na warunki grzechu, niesprawiedliwości, braku pokoju, niewoli i tego wszystkiego, co uniemożliwia pojednanie. Tylko Bóg może uzdrowić człowieka w jego najgłębszych pokładach i zapoczątkować w nim nową jakość, dając mu nowe serce (por. Jr 31,33; Ez 36,26). To nie my pojednujemy się z Bogiem, ale to Bóg przez Jezusa Chrystusa pojednuje nas ze sobą (por. 2 Kor 5,18).
+
+3\. W Starym i Nowym Testamencie zarówno grzech, jak i nawrócenie człowieka nie są rozumiane w sposób czysto indywidualistyczny. Przeciwnie, właśnie u proroków Starego Testamentu Bóg w imię przymierza potępia grzechy przeciw sprawiedliwości społecznej. Stary i Nowy Testament rozważają człowieka jako włączonego w solidarność narodu i całej ludzkości (por. Rdz 3; Rz 5), to znaczy w solidarność nowego ludu Bożego. Z drugiej strony, już prorocy VII i VI wieku prz. Chr. odkryli odpowiedzialność osobistą każdego człowieka. W końcu nawrócenie do Chrystusa wzywa jednostkę do wyzwolenia się z własnych uczuć narodowych i wprowadza do nowego ludu Bożego, który obejmuje wszystkie narody. W sposób bardziej specyficzny łaska nawrócenia domaga się od człowieka potrójnej odpowiedzi. Najpierw jest konieczna rzeczywista zmiana serca; są konieczne nowy duch i nowe uczucie. Nawrócenie i pokuta stanowią opcję podstawową (por. niżej, C, III, 3-4) osoby skierowanej do Boga, jak również całkowite wyrzeczenie się grzechu. Po drugie, już u Jeremiasza widzimy oczekiwanie od grzesznika publicznego nawrócenia z własnej winy oraz obietnicę stanięcia „przed obliczem Pana” (por. Jr 36,5-7). Tak samo dla Jezusa wiara, która jest połączona z głęboką ufnością (por. Mk 1,15), obfite wyznanie żalu i prośba o przebaczenie (por. Łk 11,4; 18,10-14) wprowadzają na drogę nawrócenia i zapoczątkowują przełom życiowy. W końcu pokuta powinna wyrazić się w radykalnej zmianie życia w jego całości i we wszystkich jego dziedzinach. Takie wymaganie zakłada przede wszystkim praktykowanie sprawiedliwości oraz gotowość do przebaczenia bliźniemu (por. Mt 18,21.23-35; Łk 17,4).
+
+**II. Podstawy chrystologiczne**
+
+1\. Już Stary Testament utrwala swoje spojrzenie na nowe przymierze, przez które Bóg obdarza człowieka nowym sercem i nowym duchem (Jr 31,31 -33; Ez 36,26n). Izajasz oczekuje „Sługi Jahwe” (por. Iz 53), a Malachiasz „Anioła przymierza” (Ml 3,1). Jezus wie, że zbawienie przekazywane przez przychodzące królestwo Boże (por. Łk 10,23n) uobecnia się już w Jego własnej egzystencji. Dla Niego więc centrum wymogu nawrócenia stanowi przyjęcie z wiarą, jak dziecko, obiecanego już zbawienia (por. Mk 10,15), w pełnym przylgnięciu wiary do Jego osoby (por. Łk 12,8n), w słuchaniu Jego słowa i jego wiernym zachowywaniu (por. Łk 10,38-42; 1 l,27n); innymi słowy, w pójściu za Nim (por. Mt 8,19n; 8,2 In). Nawrócenie polega więc na decyzji podjętej na rzecz Jezusa, za pośrednictwem której dokonuje się równocześnie przyjście królestwa Bożego. Jednak Jezus od początku dobrze wiedział, że Jego wymagania są zbyt duże, że za wiele żąda od swoich uczniów i swoich słuchaczy oraz, na równi z prorokami i Janem Chrzcicielem, widział, że Jego przedsięwzięcie, biorąc po ludzku, pozostaje bez wyników. Jednak w swojej ufności pokładanej w Bogu, swoim Ojcu, umiał kontynuować głoszenie swojego orędzia i szybko połączyć je z myślą o cierpieniu (por. Mk 12,1-12). Powoli jak zbliżał się koniec Jego życia, ewentualność męczeństwa stawała się dla Niego przedmiotem coraz silniejszej pewności (por. Mk 14,25). Zaangażowanie Jego „pro-egzystencji” na rzecz ludzi niezdolnych do pokuty i grzeszników, „służba Jego śmierci” (Łk 22,27) stały się w Jego męce i śmierci „służbą Jego śmierci” za drugich (por. Mt 20,28). Dlatego obowiązek pójścia za krzyżem Jezusa, oparty na naszym chrzcie (por. Rz 6,3n), nadaje pokucie jej podstawową formę.
+
+2\. Nowy Testament wskazuje na krzyż Jezusa Chrystusa za pomocą pojęć zastępstwa, ofiary, wynagrodzenia. Dzisiaj dla wielu osób te pojęcia są trudne do zrozumienia; należy więc wyjaśniać je i dokładnie interpretować. Istnieje sposób, by wprowadzić i przygotować do tego umysły, nawiązując do opartej na solidarności strukturze życia ludzkiego - byt i postawa innych determinują jednostkę w jej własnym bycie i jej działaniu. Możemy w ten sposób umożliwić ponowne zrozumienie, jak - przez swoje posłuszeństwo i wydanie „za wielu” - Jezus Chrystus wprowadził nową determinację w sytuację egzystencjalną każdej istoty ludzkiej. Stwierdzenia dotyczące zastępczego charakteru odkupieńczego czynu Jezusa Chrystusa są w pełni zrozumiałe tylko wtedy, jeśli rozważa się, że w Jezusie Chrystusie Bóg zaangażował się w *conditio humana*, tak że w osobie Boga-Człowieka, Jezusa Chrystusa, Bóg pojednał świat ze sobą (por. 2 Kor 5,19). Wtedy można z całą słusznością powiedzieć: „Skoro Jeden umarł za wszystkich, to wszyscy pomarli (...). Jeśli więc ktoś pozostaje w Chrystusie, jest nowym stworzeniem” (2 Kor 5,14.17). Odkupienie od grzechu - innymi słowy przebaczenie grzechów - dokonuje się zatem poprzez „przedziwną wymianę” (*admirabile commercium*). „On to dla nas grzechem uczynił Tego, który nie znał grzechu, abyśmy się stali w Nim sprawiedliwością Bożą” (2 Kor 5,21; por. Rz 8,3n; Ga 3,13; 1 P 2,24). „Syn Boży, w ludzkiej naturze, którą zjednoczył ze sobą, zwyciężając śmierć przez swoją śmierć i zmartwychwstanie, odkupił człowieka i przemienił w nowe stworzenie” \[4\]. „Skoro w Nim przybrana natura nie ulega zniszczeniu, tym samym została ona wyniesiona również w nas do wysokiej godności. Albowiem On, Syn Boży, przez wcielenie swoje zjednoczył się jakoś z każdym człowiekiem” \[5\].
+
+3\. Pokuta chrześcijańska jest uczestniczeniem w życiu, cierpieniu i śmierci Jezusa Chrystusa. Dokonuje się to „przez wiarę, przez miłość i przez sakramenty wiary” \[6\]. Pokuta chrześcijańska znajduje swoją podstawę w chrzcie, sakramencie nawrócenia na odpuszczenie grzechów (por. Dz 2,38) i sakramencie wiary; powinna ona określać całe życie chrześcijanina (por. Rz 6,3n). Dlatego pokuta chrześcijańska nie może być rozumiana przede wszystkim jedynie pod względem etycznym i ascetycznym, ale powinna być rozumiana według koncepcji zasadniczo sakramentalnej, jako dar uczyniony przez Boga z nowego bytu, który w konsekwencji skłania do działania etycznego i ascetycznego. Pokuta nie może być wypełniana tylko w wyizolowanych i pojedynczych czynach, ale powinna naznaczyć swoim charakterem całe życie chrześcijańskie. W tym stwierdzeniu wyraża się to, co jest uzasadnione w podstawowej trosce pierwszej z tez Lutra przeciw odpustom, ogłoszonych 31 października 1517 roku \[7\]. Nie można, w końcu, pomniejszać pokuty, rozumiejąc ją w sposób indywidualistyczny; należy raczej rozumieć ją w ramach pójścia za Chrystusem, zarówno jako posłuszeństwo Ojcu, jak też jako „służbę” polegającą na reprezentowaniu innych i świata.
+
+**III. Podstawy eklezjalne**
+
+1\. Przez działanie Ducha Świętego Boskie dzieło pojednania dokonane w Jezusie Chrystusie przedłuża Jego żywą obecność oraz staje się dla wspólnoty wierzących rzeczywistością, która ją całkowicie obejmuje. To nie wyklucza tego, że przez działanie Ducha pojednanie dokonuje się także poza granicami Kościoła. Kościół nie przestaje z tego powodu być w Jezusie Chrystusie dla całego świata sakramentalnym znakiem przebaczenia i pojednania. Dokonuje się to na trzy sposoby: a) jest nim Kościół dla ubogich, starając się ulżyć ich nędzy oraz służąc w nich Jezusowi Chrystusowi; b) jest nim Kościół grzeszników, który - mimo iż jest święty - powinien zawsze postępować drogą nawrócenia i odnowy; c) jest nim Kościół prześladowany, który „idzie naprzód, pielgrzymując wśród prześladowań świata i pociech Bożych” \[8\]. W ten sposób Kościół żyje w oparciu o Boże przebaczenie w Jezusie Chrystusie. Jednak nie tylko jest znakiem takiego pojednania, lecz także jego narzędziem skutecznym w świecie \[9\]; jest nim, głosząc i komunikując pojednanie udzielone nam przez Boga w Jezusie Chrystusie; czyni to przez słowo pokuty i pojednania, przez sakrament pokuty i przez całość swojej posługi pojednania.
+
+2\. Kościół nie może być znakiem sakramentalnym pojednania dla świata inaczej, jak tylko i w takiej mierze, w jakiej żyją w jego łonie słowo i służba pojednania. Idąc za przykładem Boga, który pojednuje, wspólnota braterska Kościoła zakłada u chrześcijan gotowość do przebaczenia (por. Ef 4,32; Kol 3,13; Łk 17,3n; Mt 18,21n). Przebaczenie otrzymane od Boga zmierza do tego, abyśmy praktykowali pokutę wobec braci (por. Mt 5,23n; 6,12.14n; Mk ll,25n). W przebaczeniu wspólnoty dochodzi do brata grzesznika pojednująca miłość Jezusa Chrystusa. Zwrócenie uwagi i upomnienie (por. Mt 18,15n) oznacza ocalenie brata, którego zbawienie jest zagrożone. Troska o zagubionego brata powinna być wytrwała, a gotowość do przebaczenia nieograniczona (por. Mt 18,2 In).
+
+Powaga orędzia zbawienia dawanego przez Boga zwraca jeszcze uwagę na inny aspekt - grzech rani sam Kościół, właśnie o ile jest on znakiem pojednania Boga z człowiekiem i ludzi miedzy sobą. Dlatego zachodzi w nim ścisły związek między obrazami przeciw szacunkowi należnemu Bogu i obrazami przeciw miłości bliźniego. Sąd koncentruje się na dwóch aspektach, jak szczególnie pokazuje utożsamienie Jezusa z najmniejszym z Jego braci (por. Mt 25,40-45). Kościół więc stale potrzebuje oczyszczenia od zła i podjęcia wędrówki nawrócenia i odnowy \[10\]. W taki sposób nawrócenie do Boga jest zarazem powrotem do braci i pojednaniem ze wspólnotą eklezjalną. Nawracający się powinien przebyć wędrówkę, przez którą pojednanie wcześniej doszło do niego. *Ecclesiae caritas quae per Spiritum Sanctum diffundit in cordibus nostris participium suorum peccata dimittil* \[11\]. Nie ma więc przebaczenia win bez Kościoła; pojednania z Kościołem i pojednania z Bogiem nie można od siebie oddzielić.
+
+3\. Mimo wszystkich napomnień zachęcających do bezgranicznego odpuszczenia win Nowy Testament wie, że musi uwzględnić poważne występki przeciw miłości chrześcijańskiej do Boga i do bliźniego. Należy w tym względzie dostrzec stopniowanie w procesie pojednania: zauważenie brata, zwrócenie uwagi, korekta, upomnienie, wykluczenie (por. Mt 18,15-20; 1 Kor 5,1 -3; 2 Kor 2,5-11; 7,10-13). Z tego punktu widzenia upór i zatwardziałość w określonym złym przyzwyczajeniu dostarcza szczególnie ważnego elementu do oceny ciężaru grzechu. W taki sposób postępowanie wykluczające może okazać się nieodzowne dla dobra wspólnoty.
+
+4\. Władza odpuszczania grzechów, jaka należy do Jezusa (por. Mk 2,1-12), zostaje dana także „ludziom”. Według niektórych tekstów Nowego Testamentu (por. szczególnie Mt 18,17) przysługuje ona przede wszystkim Kościołowi w jego całości, pełniącemu oczywiście posługi i zadania. Chociaż w niektórych stwierdzeniach grupa zakwalifikowanych osób nie jest określona w sposób całkowicie jasny (por. Mt 18,15-20; J 20,22n), to jednak na ogół zadanie pojednania (por. Mt 5,23n) jest jakościowo różne od urzędowej władzy odpuszczania lub zatrzymywania grzechów. Rzeczywiście, słowo i posługa pojednania są powierzone w sposób szczególny posłudze apostolskiej w Kościele. Ta posługa apostolska zajmuje miejsce Chrystusa i poprzez nią upomina nas sam Bóg (por. 2 Kor 5,20; 1 Kor 5,1-13; 2 Kor 2,5-11; 7,10-13). W tym punkcie więź z ogólną władzą nauczania i przewodniczenia przekazaną apostołowi Piotrowi (por. Mt 16,18n) nabiera swojego znaczenia. Dlatego w tym, co dotyczy win, które wykluczają z królestwa Bożego (por. 1 Kor 6,9n; Ga 5,20n; Ef 5,5; Ap 21,8; 22,15; Hbr 6,4-6; 10,26n; 1 J 5,16; Mt 12,3 In), jest konieczne, aby władza odpuszczania lub zatrzymywania grzechów była powierzona temu, kto otrzymał klucze królestwa niebieskiego. Wina, która w sposób podstawowy dotyczy Boga, nie może zostać zneutralizowana przez Kościół inaczej, jak przez autentyczne i jednoznaczne słowo przebaczenia, wypowiedziane w imię Chrystusa i na mocy Jego władzy (*auctoritas*). Specyficzna władza wymagana w tym względzie została przez Jezusa Chrystusa złączona z konieczną do tego posługą, która jako posługa władzy zajmuje kluczowe miejsce w Kościele i zapewnia służbę jedności.
+
+Przez tę posługę władzy, ustanowioną przez Jezusa Chrystusa, sam Bóg dokonuje odpuszczenia grzechów (por. Mt 16,19; 18,18; J 20,23). Zgodnie z tym, co zostało ustanowione przez Jezusa Chrystusa, Bóg przebacza za pośrednictwem Ducha Świętego, gdy Kościół, przez działanie swoich urzędowych przedstawicieli, zwalnia penitenta z więzów jego win. Kościół w ciągu wieków dochodził do coraz lepszego zrozumienia takiej struktury sakramentu pokuty na podstawie stopniowej refleksji nad sensem Pisma świętego \[12\], a Sobór Trydencki zadeklarował jej obowiązujący charakter \[13\]. II Sobór Watykański jeszcze raz jasno podkreślił aspekt eklezjalny przebaczenia udzielanego w sakramencie pokuty \[14\].
+
+Możemy więc krótko powiedzieć: wykluczenie (*excommunicato* = wiązać) z pełnej komunii z Kościołem, który jest *universale salutis sacramentum*, ma wartość w niebie (= wobec Boga) oraz oznacza wykluczenie od sakramentów zbawienia, a w szczególności od Eucharystii. Reintegracja (*reconciliatio* = rozwiązać) w pełnej komunii eklezjalnej (= wspólnota eucharystyczna) jest równocześnie pojednaniem z Bogiem (odpuszczenie grzechów). W ten sposób, w pokucie sakramentalnej, reintegracja w pełnej komunii sakramentalnej Kościoła jest znakiem (*res et sacramentum*) odnowionej komunii z Bogiem (*res sacramenti*). Ta koncepcja starożytnego Kościoła odnośnie do sakramentu pokuty powinna zostać na nowo wdrożona w świadomość Kościoła przez przepowiadanie i katechezę.
+
+Należy rozważać pokutę w jej organicznym związku z innymi sakramentami. Przede wszystkim, jako słowo pojednania, jest ona dostępna dla wszystkich w ogólnym przepowiadaniu Kościoła. Znajdujemy w tym względzie świadectwo o kapitalnym znaczeniu w artykule symbolu wiary: „Wierzę (...) w odpuszczenie grzechów”. Przebaczenie przejawia się potem w nawróceniu, przez które wierzący porzuca prowadzoną dotąd grzeszną drogę i zwraca się całym sercem do Boga, który odpuszczając mu jego grzechy, wyzwala go z jego nieszczęśliwej sytuacji oraz w Duchu otwiera przed nim nowe życie. Takie nawrócenie urzeczywistnia się przede wszystkim przez wiarę i chrzest. Chrzest pieczętuje udzielanie Ducha; wierzący staje się członkiem Ciała Chrystusa, Kościoła. W ten sposób równocześnie chrzest pozostaje podstawą przebaczenia później popełnionych grzechów. Pokuta wierzących często była uważana za całkowicie niemożliwą w osobach odrodzonych z wody i Ducha; w praktyce pokutnej starożytnego Kościoła wydawało się, że takie odrodzenie może dokonać się tylko jeden raz. Rzeczywiście, taka pokuta wymaga nie tylko -jak w przypadku chrztu - szczerego żalu jako dyspozycji do przebaczenia, lecz także stałej woli poprawy i zadośćuczynienia, jak również wyznania dokonanego wobec Kościoła i jego urzędowych reprezentantów. Pokuta, chociaż odniesiona do chrztu, jest osobnym sakramentem, z własnym znakiem i szczególnym skutkiem. Ze względu na swoją formę wewnętrzną jest dopełnieniem chrztu \[15\].
+
+Jako drugi chrzest, sakrament pokuty jest również podstawą do przyjęcia czterech innych sakramentów \[16\]. Odnosi się to szczególnie do Eucharystii, szczytu życia duchowego Kościoła i każdego wiernego \[17\]. Namaszczenie chorych zawiera od początku (por. Jk 5,15) \[18\] relację z odpuszczeniem grzechów. „*Hoc sacramentum* (...) *praebet etiam, si necesse est, veniam peccatorum et consummationem paenitentiae christianae*” \[19\]. Gdy zbliża się kres ziemskiego pielgrzymowania lub przynajmniej gdy życie ludzie jest poważnie zagrożone pod względem fizycznym, namaszczenie chorych jest specyficzną formą odnowy chrztu. Wszystko to pokazuje ścisłą więź, jaka łączy chrzest, pokutę i namaszczenie chorych, jak również ich relację z Eucharystią, ośrodkiem sakramentalnego życia Kościoła.
+
+**IV. Podstawy w historii dogmatów i teologii**
+
+*a. Stałe elementy ewolucji historycznej*
+
+1\. Istotna struktura sakramentu pokuty jest już poświadczana w Kościele pierwotnym, począwszy od epoki apostolskiej i poapostolskiej. Szczególne znaczenie, chociaż nie wyłączne, zostaje nadane wyrażeniu „wiązać i rozwiązywać” z Ewangelii św. Mateusza (16,19 i 18,18), jak również jego wariantowi znajdującemu się w Ewangelii św. Jana (20,23) (por. wyżej B, III, 4). Istota tego sakramentu polega więc na tym, że pojednanie grzesznika z Bogiem dokonuje się w pojednaniu z Kościołem. W konsekwencji znak sakramentu pokuty dokonuje się dwuetapowo. Z jednej strony są nim ludzkie akty nawrócenia (*conversio*) przez żal z bólu, jaki wzbudza miłość (*contritio*), wyznania zewnętrznego (*confessio*) i zadośćuczynienia (*satisfactio*) (jest to wymiar antropologiczny). Z drugiej strony, wspólnota eklezjalna, prowadzona przez biskupa i kapłanów, ofiaruje w imieniu Chrystusa przebaczenie grzechów, ustala konieczne formy zadośćuczynienia, modli się za grzesznika i solidarnie pokutuje z nim, aby w końcu zagwarantować mu pełną komunię eklezjalną i przebaczenie jego grzechów (jest to wymiar eklezjalny).
+
+2\. W ewolucji historycznej sakramentu pokuty decydujący fakt polega na tym, że charakter osobowy tego sakramentu został coraz pełniej uznany i wyjaśniony. W takim procesie personalizacji żywa Tradycja Kościoła kontynuowała i dopełniła ewolucję, jaka wyłoniła się zarówno w ramach Starego Testamentu, jak też w przejściu od Starego do Nowego Testamentu, czyniąc ją własną w najgłębszy sposób (por. wyżej B, I, 3). Taki proces personalizacji jest nieodwracalny, ponieważ podstawowa tendencja świadectwa biblijnego objawiła się i wyraziła w powszechnej zgodzie (*consensus*) Kościoła. Nie ulega ponadto wątpliwości, że miała również jako wynik związanie na drugim miejscu w sumieniu, w raczej długim okresie czasu, wymiaru eklezjalnego sakramentu pokuty. W naszym wieku został na nowo odkryty aspekt wspólnotowy pokuty. Ten sposób widzenia został potem zaakcentowany zarówno przez II Sobór Watykański, jak i przez nowe *Ordo paenitentiae*. Jest jednak konieczne wprowadzenie tego aspektu wspólnotowego jeszcze głębiej w świadomość wiernych oraz osiągnięcie właściwej równowagi między dwoma wymiarami sakramentu pokuty. Jest potem nieodzowne głębsze poznanie historii sakramentu pokuty, aby dzisiaj uzasadnić takie wymaganie duszpasterskie. Ta historia ukazuje, przy trwaniu elementów stałych, zmienność, która nie może dziwić, a która pokazuje równocześnie przestrzeń wolności, jaką dysponuje dzisiaj Kościół - *salva eorum substantia* \[20\] - w celu odnowy sakramentu pokuty.
+
+b\. *Elementy zmienne w ewolucji historycznej*
+
+1\. Pojednanie w Kościele zawsze wyrażało dwie różne sytuacje chrześcijańskie. Z jednej strony, jest ona praktykowaniem życia zapoczątkowanego przez chrzest, które zakłada ciągłą walkę z „grzechami powszednimi”; z drugiej strony, praktyka pokuty powinna przywracać do życia łaski i przywracać w prawach ochrzczonego tych, którzy złamali pieczęć przez grzechy, prowadzące do śmierci i nie dające się pogodzić z życiem chrześcijańskim. W Kościele pierwotnym grzechy codzienne były odpuszczane przez modlitwy liturgiczne, w których uczestniczyła cała wspólnota, szczególnie w czasie niedzielnej celebracji eucharystycznej. Wraz z tym można było liczyć na inne różne formy pokuty nie pozbawione znaczenia (por. wyżej, C, I, 3). W Kościele pierwotnym dyscyplina pokutna w sensie ścisłym dotyczyła tylko drugiej ze wspomnianych sytuacji. W przejściu od pokuty publicznej do pokuty prywatnej sakrament pokuty, który był już sprawowany w formie powtarzanej, był coraz bardziej poszerzony - od przypadku grzechów śmiertelnych do grzechów powszednich. Od tego czasu jedyna forma odpowiedziała na dwie różne sytuacje chrześcijańskie.
+
+2\. Wyznanie grzechów, związane z rozmową duchową w kierownictwie duchowym, jest dobrem bardzo starożytnym w Kościele. Z jednej strony należy do procesu pojednania, a więc także do podstawowej struktury sakramentu ustanowionego przez Jezusa Chrystusa; z drugiej strony, według świadectwa tradycji monastycznej i duchowej, ma ono również miejsce poza sakramentem. Rozwój dokonał się w oparciu o te dwa bieguny i był prowadzony przez duchowe doświadczenie Kościoła, którego wynikiem - od końca okresu pierwotnego Kościoła do początku i w czasie średniowiecza -jest wzrost pragnienia prywatnego wyznania grzechów; kierownictwo duchowe i pokuta sakramentalna były coraz bardziej powiązane ze sobą.
+
+3\. W dyscyplinie i duszpasterstwie pojednania Kościół wykazał się wielką wolnością, starając się dostosować dyscyplinę swoich sakramentów - których podstawowa struktura oczywiście nie podlega zmianom - ze względu na potrzeby ludu chrześcijańskiego i lepszą służbę wiernym. Najbardziej istot na zmiana polegała na przejściu od przewagi pokuty publicznej do pokuty opartej na prywatnej praktyce pokutnej. Z powodu trudności i zniechęcenia, jakie uderzyły w praktykę wcześniejszą, Kościół znalazł - poprzez wiekową ewolucję, jaka nastąpiła nie bez braków i konfliktów - odnowioną dyscyplinę, która wzbudzała większe pragnienie i większą owocność sakramentu. Ta nowa konfiguracja sakramentu zakładała również zmianę w porządku aktów penitenta: pierwotnie pojednanie było udzielane tylko po wypełnieniu wyznaczonego zadośćuczynienia; później rozgrzeszenie było udzielane bezpośrednio po wyznaniu grzechów.
+
+4\. Kościół ponadto przeszedł od dyscypliny, która znała pewne przypadki grzechów nieodpuszczalnych (co oznaczało pokutę dożywotnią), w kierunku dyscypliny, w której wszystkie grzechy były przebaczane. Kościół przeszedł także od praktyki pokuty udzielanej jeden raz do zastosowania pokuty ponawianej; od karalności ciężkiej i długiej do kar lżejszych; od pokuty, która na początku była przede wszystkim publiczna, do pokuty prywatnej; od pojednania zarezerwowanego dla biskupa do rozgrzeszenia udzielanego przez kapłana; od formuły deprekatywnej do formuły indykatywnej rozgrzeszenia.
+
+5\. W taki sam sposób przeszła znaczące zmiany forma aktów penitenta. Nierzadko zdarzało się, iż jeden z nich został zaakcentowany z taką mocą, że inne zeszły na drugi plan. W Kościele starożytnym pokuta publiczna uwypukliła znaczenie zadośćuczynienia trwającego przez określony czas; prywatna pokuta w okresie średniowiecza i w czasach nowożytnych podkreśliła znaczenie żalu, podczas gdy dzisiaj akcentuje się wyznanie grzechów. Jednak ponieważ oskarżenie dotyczy grzechów o niewielkim ciężarze egzystencjalnym, w wielu przypadkach sakrament pokuty przyjmuje formę „sakramentu zredukowanego”. Należałoby na nowo lepiej ująć wyznanie, żal i zadośćuczynienie w ich wzajemnej i wewnętrznej łączności.
+
+*c. Nauczanie Soboru Trydenckiego*
+
+1\. Wypowiedzi doktrynalne Soboru Trydenckiego na temat sakramentu pokuty \[21\] należy rozumieć jako odpowiedź na dość konkretne pytania postawione w tamtym czasie w kontrowersji z reformatorami. Taki kontekst i taka intencja nabierają wielkiego znaczenia dla interpretacji dekretu trydenckiego o sakramencie pokuty.
+
+Problemy, jakie w XVI wieku były przedmiotem debaty między katolikami i reforamatorami odnośnie do pojednania i sakramentu pokuty, miały za przedmiot przede wszystkim:
+
+*a)* ustanowienie pokuty przez Jezusa Chrystusa jako sakramentu różnego od chrztu;
+
+*b)* relacje, wiary, która usprawiedliwia, z żalem, wyznaniem grzechów, zadośćuczynieniem i rozgrzeszeniem sakramentalnym;
+
+*c)* obowiązek wyznawania wszystkich grzechów ciężkich, a konkretniej chodziło o to, czy takie wyznanie jest możliwe, czy jest wymagane przez Boga czy przez Kościół, czy jest sprzeczne z usprawiedliwieniem przez wiarę, czy udziela pokoju czy niepokoju sumieniu;
+
+*d)* funkcję spowiednika; pytano się szczególnie, czy spowiednik może być określony jako głosiciel bezwarunkowej obietnicy odpuszczenia grzechów przez Boga w imię Chrystusa, bądź czy należy go uważać także za lekarza, kierownika dusz, odnowiciela porządku stworzenia naruszonego przez grzech i jako sędziego.
+
+2\. Odpowiadając na te pytania Sobór Trydencki pouczył w odniesieniu do spowiedzi sakramentalnej:
+
+*a)* spowiedź sakramentalna służy dobru duchowemu i zbawieniu człowieka, niekoniecznie wywołując niepokój sumienia; co więcej, owocem tego sakramentu często jest pokój i radość sumienia oraz pocieszenie duszy \[22\];
+
+*b)* wyznanie grzechów jest konieczną częścią sakramentu pokuty; błędnie redukuje się ten sakrament do głoszenia obietnicy bezwarunkowego przebaczenia Bożego w imię zasług Chrystusa \[23\];
+
+*c)* wyznanie powinno być jasne i jednoznaczne, jeśli chodzi o grzechy śmiertelne; taki obowiązek nie istnieje w przypadku, w którym jest niemożliwe przypomnienie sobie grzechów \[24\];
+
+*d)* integralne wyznanie grzechów śmiertelnych jest wymagane przez zbawczą wolę Boga (*iure divino*) aby Kościół, przez wyświęconych szafarzy, mógł pełnić funkcję sędziego, lekarza, przewodnika dusz, odnowiciela porządku stworzenia naruszonego przez grzech \[25\].
+
+3\. Mimo różnic, dotyczących konieczności wyznania wszystkich grzechów śmiertelnych, między Soborem Trydenckim \[26\] i luterańskimi pismami wyznaniowymi \[27\] zachodzi daleko idąca zgodność odnośnie do korzyści duchowych płynących z wyznania grzechów i rozgrzeszenia. Taka zgodność jest ważna dla dialogu ekumenicznego i może stanowić punkt wyjścia w ustosunkowaniu się do istniejących jeszcze różnic.
+
+4\. Dzisiejszy pluralizm kulturowy nie przeszkadza w tym, aby istniały trwałe rzeczywiste potrzeby wspólne całej ludzkości, a na które jeszcze dzisiaj w wyjątkowy sposób odpowiadają środki, jakie na mocy miłosierdzia Bożego wynikają z sakramentu pokuty. Są to:
+
+*a)* uzdrowienie z chorób duchowych;
+
+*b)* wzrost osobistego życia duchowego;
+
+*c)* pouczenie o życiu, które prowadzi do przywrócenia porządku naruszonego przez grzech i promocji sprawiedliwości, jakiej wymaga społeczna natura grzechu i społeczna natura przebaczenia;
+
+*d)* skuteczne udzielenie przebaczenia grzechów przez Boga i przez Kościół w czasie, w którym wrogość często panuje między jednostkami i narodami;
+
+*e)* poddanie się sądowi Kościoła, który przez swoich szafarzy poważnie ocenia nawrócenie do Boga i Kościoła.
+
+5\. Biorąc pod uwagę rzeczywistość tych wymagań ludzkich i duchowych oraz to, że w sakramencie pokuty Bóg daje nam środki do ich zbawiennej realizacji, wyznanie grzechów ciężkich, jakie grzesznik przypomina sobie po uważnym rachunku sumienia, powinno, na mocy zbawczej woli Boga (*iure divino*), zachować swoją nieodzowną pozycję, aby otrzymać rozgrzeszenie. W przeciwnym wypadku Kościół nie może wypełnić zadań, jakie Jezus Chrystus, jego Pan, powierzył mu w Duchu Świętym (*iure divino*). Chodzi o posługi lekarza, przewodnika dusz, rzecznika sprawiedliwości i miłości w życiu osobistym i społecznym, herolda, który głosi Bożą obietnicę przebaczenia i pokoju, a w końcu sędziego autentyczności nawrócenia do Boga i Kościoła.
+
+6\. Integralne wyznanie grzechów ciężkich należy w sposób konieczny, *iure divino*, do sakramentu pokuty; nie jest więc zostawione ocenie penitenta ani decyzji Kościoła. Jednak Sobór Trydencki zna pojęcie sakramentalnego wyznania grzechów *in voto* \[28\]. Dlatego Kościół może w sytuacjach nadzwyczajnych konieczności, w jakich takie wyznanie nie jest możliwe, upoważnić do odłożenia wyznania grzechów i udzielić rozgrzeszenia indywidualnego lub zbiorowego (rozgrzeszenia ogólnego), bez wcześniejszego wyznania grzechów. W tym przypadku, uwzględniając oczywiście możliwości i sytuację duchową penitenta, Kościół powinien czuwać nad zapewnieniem późniejszego wyznania grzechów śmiertelnych oraz zatroszczyć się o pouczenie wiernych, przy pomocy odpowiednich środków, odnośnie do ich obowiązku w tym względzie. Jeśli chodzi o naturę i zasięg podobnej sytuacji konieczności Sobór Trydencki nie formułuje bezpośrednio żadnego wskazania. Aby rozwiązać trudne przypadki duszpasterskie, to zakres obejmujący pewne przypadki, o których mówią *Normy duszpasterskie odnośnie do sposobu udzielania sakramentalnego rozgrzeszenia ogólnego* z 1972 roku przygotowane przez Kongregację Nauki Wiary i *Ordo paenitentiae*, nie stanowi oczywiście jedynego rozwiązania. W przypadkach, w których brakuje *copia confessorum* \[29\], sobór odsyła raczej do skutku pojednującego wywoływanego przez doskonały żal z miłości (*contritio*). Ten żal doskonały zapewnia pojednanie z Bogiem, jeśli obejmuje *votum sacramenti*, a więc i *votum confessionis* \[30\]. W jaki sposób Kościół, na podstawie nauczania Soboru Trydenckiego, powinien konkretnie działać w dzisiejszej sytuacji? Jest to pytanie, przed którym staje roztropność i miłość duszpasterska (por. niżej, C, II, 4).
+
+**C. Refleksje dotyczące niektórych ważnych zagadnień o charakterze praktycznym**
+
+**1. Jedność i różnorodność form pokuty**
+
+1\. Formy pokuty istnieją nawet w religiach przedbiblijnych i pozabiblijnych. Świadczą one o istnieniu w ludzkości pierwotnej świadomości winy i potrzeby odkupienia. Źródłem chrześcijańskiego orędzia pokuty i pojednania jest fakt, że raz na zawsze została wypełniona pokuta i pełne zadośćuczynienie za sprawą Jezusa Chrystusa w posłusznej służbie Jego życia i Jego śmierci na krzyżu. Pokuta chrześcijańska różni się od praktyk pokutnych innych religii przede wszystkim tym, że jest zdeterminowana przez Ducha Jezusa Chrystusa, i że wyraża go w sposób znaczący w osobistej dyspozycji pokuty, jak również w jej praktykach cielesnych. Dlatego formy chrześcijańskie pokuty powinny być ożywiane, przynajmniej w sposób zaczątkowy i zarodkowy przez wiarę, nadzieję i miłość. Przede wszystkim wiara w Boga stanowi podstawę, stałe centrum i żywotną zasadę pokuty chrześcijańskiej. Nadzieja zapewnia nawróconemu pewność, że z pomocą Bożą będzie postępował drogą nawrócenia i osiągnie zbawienie eschatologiczne. Odpowiada temu wymiar wędrówki, jaki charakteryzuje pokutę. Może ona zacząć się od „niższych” motywacji: bojaźni przed karą, bojaźni przed sądem Bożym itd. \[31\], a potem od nich podnieść się do motywacji „wznioślejszych”. W ochrzczonym miłość Boga i bliźniego jest najgłębszym motywem pokuty, jak również nawrócenia i przejścia do nowego życia \[32\]. Wynika z tego nowa forma komunii Boga z ludźmi i ludzi między sobą (por. wyżej, A, II, 2n; B, III, 2.4).
+
+2\. W licznych formach pokuty chrześcijańskiej i przebaczenia grzechów, mimo wielości form, istnieje jedność strukturalna procesu całości: percepcja winy indywidualnej lub zbiorowej; ubolewanie nad tym, co zostało popełnione lub opuszczone; wyznanie winy; gotowość do zmiany życia (łącznie z wynagrodzeniem za spowodowane szkody; wynagrodzenie proporcjonalne do ewentualnych możliwości, ale konieczne jako zasada); prośba o przebaczenie; przyjęcie daru pojednania (rozgrzeszenie); podziękowanie za otrzymane przebaczenie; życie prowadzone w nowym posłuszeństwie. Praktyka pokuty jest więc, w każdej ze swych form, procesem dynamicznym, mającym spójną strukturę. Duszpasterstwo i katecheza pojednania powinny mieć na względzie całość i równowagę jej poszczególnych elementów.
+
+Jedyna pokuta rozwija się w różnorodności sposobów jej praktykowania. Pismo święte i Ojcowie Kościoła podkreślają więź, jaka łączy trzy podstawowe formy pokuty: post, modlitwę i jałmużnę \[33\]. Orygenes \[34\] i św. Jan Kasjan \[35\] podają dłuższe listy form przebaczenia grzechów. Oprócz podstawowych skutków łaski chrzcielnej i cierpienia męczeńskiego wspominają na przykład pojednanie z bratem, łzy pokuty, gorliwość o zbawienie bliźniego, wstawiennictwo świętych i miłość. Do tego należy dodać, w żywej Tradycji Kościoła, przede wszystkim czytanie Pisma świętego i odmawianie modlitwy Ojcze nasz. Jednak trzeba jeszcze wspomnieć natchnione przez wiarę sposoby konkretyzowania nawrócenia w ramach życia codziennego, na przykład zmianę naszych dyspozycji, wspólnotowe refleksje o winie i grzechu we wspólnocie, gesty pojednania, upomnienie braterskie, wyznanie pojednania. Niektóre formy życia duchowego posiadają charakter wynagrodzenia za grzechy, jak na przykład rewizja życia, „kapituła win”, niektóre rozmowy z kierownikiem duchowym, wyznanie grzechów starcom w łączności ze spowiedzią monastyczną. Nie należy zapominać o konsekwencjach etycznych nowego kierunku życia, takich jak: zmiana stylu życia, asceza i wyrzeczenie w różnych formach, czyny miłości, dzieła miłosierdzia, pojednanie i wynagrodzenie za innych.
+
+Formy liturgiczne przebaczenia grzechów nie polegają tylko na celebracjach pokutnych, lecz także na medytacji i modlitwie, wstawiennictwie Kościoła i jego „liturgii godzin”, lekturze i medytacji Pisma świętego, jak również na celebracji Eucharystii (por. niżej, C, IV, l) \[36\]. Obok form specyficznie sakramentalnych przebaczenia grzechów \[37\] należy także przypomnieć różne praktyki aktualnej dyscypliny pokutnej \[38\]. Okresy i dni pokuty Kościoła w ciągu roku liturgicznego są centralnymi momentami praktyki pokutnej Kościoła.
+
+**II. Spowiedź indywidualna, celebracje pokutne, rozgrzeszenie ogólne**
+
+1\. Świadomość bogactwa i różnorodności form pokuty jest często zapominana; trzeba więc ją ożywić i dowartościować, zarówno w przepowiadaniu dotyczącym pojednania, jak i w duszpasterstwie pokutnym. Wyizolowanie sakramentu pokuty z całości życia chrześcijańskiego, które od początku do końca jest inspirowane przez pojednanie, prowadzi do zaniku samego sakramentu. Zredukowanie dzieła pojednania tylko do niektórych form może być uważane za przyczynę kryzysu sakramentu pokuty i znanych niebezpieczeństw rytualizmu i prywatyzacji. Nie należy więc przedstawiać różnych dróg pojednania jako konkurujących między sobą, ale wyjaśniać i pokazać jedność i dynamikę, jakie łączą różne formy. Wyżej wymienione formy (por. wyżej, C, I, 3) są użyteczne przede wszystkim ze względu na przebaczenie „grzechów powszednich”. Przebaczenie grzechów może być bowiem otrzymane w różny sposób; przebaczenie grzechów powszednich jest zapewniane zawsze, gdy pojawia się żal ożywiany przez miłość (*contritio*) \[39\].
+
+2\. Gdy wspomniane formy i wymiary pokuty będą aktualizowane w sposób jaśniejszy i bardziej przekonywający, będzie także wzrastało pragnienie indywidualnej spowiedzi sakramentalnej. Przede wszystkim w spowiedzi indywidualnej i jak najdoskonalszej powinny być wyznane wobec Kościoła, w osobach jego szafarzy, grzechy ciężkie i własne winy. Ogólne wyznanie grzechów jest niewystarczające, zarówno dlatego, że grzesznik powinien, w miarę możliwości, konkretnie wyrazić prawdę o własnej winie i naturze swoich grzechów, jak i dlatego, z drugiej strony, iż takie wyznanie indywidualne i rzeczywiście osobowe winy umacnia i pogłębia żal. Tezę tę potwierdzają niektóre rozważania antropologiczne (por. wyżej, A, II, 3), jak i, przede wszystkim, niektóre refleksje teologiczne (por. wyżej, B, III, 4; B, IV, c, 2.5n). Do przebaczenia tych grzechów jest konieczna władza sakramentalna. Niewątpliwie autentyczna forma wyznania indywidualnego domaga się dzisiaj głębokiej odnowy duchowej, w odniesieniu do *Ordo paenitentiae*. Bez odnowy tego rodzaju będzie niemożliwe przezwyciężenie kryzysu sakramentu pokuty. W tym celu jest konieczne przede wszystkim, aby kapłani mieli głębszą formację duchową i teologiczną, by odpowiedzieć na dzisiejsze wymagania posługi spowiedzi. Ta ostatnia powinna bowiem obejmować więcej elementów kierownictwa duchowego i braterskiego dialogu. Właśnie pod takim aspektem tak zwana spowiedź „z pobożności” również zachowuje swoje znaczenie.
+
+3\. Pod mianem „celebracje pokutne” często rozumie się bardzo różne praktyki. W tym kontekście należy uwzględnić przede wszystkim celebracje liturgiczne zebranej wspólnoty, w której głosi się wezwanie do pokuty i obietnicę pojednania, oraz w której ma miejsce wspólnotowe i ogólne wyznanie grzechów, ale bez wyznania indywidualnego grzechów czy też rozgrzeszenia indywidualnego lub ogólnego. Ten typ celebracji pokutnych może uwypuklić aspekt wspólnotowy grzechu i przebaczenia; może obudzić i pogłębić ducha pokuty i pojednania, ale nie może zająć miejsca na tym samym poziomie co sakrament, a tym bardziej zastąpić go. Ze swej celowości wewnętrznej celebracje tego typu są oczywiście ukierunkowane na indywidualną spowiedź sakramentalną. Jednak nie służą one tylko do zaproszenia do nawrócenia i przygotowania do sakramentu pokuty. Mogą-jeśli chodzi o grzechy powszednie - stać się prawdziwym miejscem przebaczenia, rozwijając autentycznego ducha nawrócenia i pełnego żalu (*contritio*). W ten sposób celebracje pokutne mogą nabrać charakteru zbawczego, mimo iż nie stanowią formy sakramentu pokuty.
+
+4\. *Ordo paenitentiae* przewiduje jeszcze wspólnotową celebrację pojednania z ogólnym wyznaniem grzechów i rozgrzeszeniem ogólnym. Zakłada ona jednoznaczne normy o charakterze etycznym i prawnym, na które musi być wrażliwe duszpasterstwo \[40\].
+
+Wynika z tego, że ta forma pojednania sakramentalnego odnosi się do nadzwyczajnych potrzeb. Jak ostatnio pokazało doświadczenie, rozgrzeszenie ogólne udzielane poza takimi nadzwyczajnymi sytuacjami może łatwo prowadzić do dużych nieporozumień odnośnie do istoty sakramentu pokuty - w szczególności w tym, co dotyczy podstawowej konieczności osobistego wyznania grzechów, i w tym, co dotyczy skutku rozgrzeszenia sakramentalnego - który zakłada żal i przynajmniej *votum confessionis*. Takie nieporozumienia oraz nadużycia, jakie z nich wynikają, są szkodliwe dla ducha pojednania i sakramentu.
+
+Jako łatwy skutek trudnych sytuacji duszpasterskich, a w niektórych przypadkach nawet dramatycznych, jakie pojawiają się w wielu miejscach w Kościele, wielu wiernych nie ma właściwie możliwości korzystania z sakramentu pokuty. W podobnych pilnych sytuacjach jest nieodzowne wskazanie zainteresowanym wiernym pewnych dróg, które pozwalają im dostąpić przebaczenia grzechów i przyjąć Eucharystię. Tradycja kościelna zna możliwość - potwierdzoną przez Sobór Trydencki - otrzymania w takim przypadku odpuszczenia grzechów ciężkich za pośrednictwem żalu doskonałego. Zakłada on, zgodnie z tą samą tradycją, pragnienie (*votum*) przyjęcia, skoro to tylko będzie możliwe, sakramentu pokuty \[41\]. Gdy brakuje *copia confessorum*, tak rozumiany żal doskonały, według nauczania Soboru Trydenckiego, mógłby być wystarczającą dyspozycją do przyjęcia Eucharystii (por. wyżej, B, IV, c, 6) \[42\]. W większości pilnych sytuacji duszpasterskich, o których mowa, lepiej jest odwołać się do takiej możliwości niż do rozgrzeszenia ogólnego, ponieważ w ten sposób z psychologicznego punktu widzenia będzie łatwiejsze dla większości wiernych zrozumienie obowiązku późniejszego sakramentalnego wyznania grzechów. Wymiar eklezjalny żalu doskonałego może wyrazić się w którejś z wyżej przypomnianych celebracji sakramentalnych.
+
+5\. Aktualny kryzys spowiedzi i sakramentu pokuty nie może zostać przezwyciężony zaakcentowaniem jedynej formy pokuty, ale tylko przez koncepcję integrującą, która uwzględnia różne relacje istniejące między różnymi formami pokuty i ich wzajemną współzależność. Należy więc w szerszym stopniu łączyć różne formy pokuty w akcie, w którym urzeczywistnia się sakrament, aby w ten sposób nadać większe znaczenie egzystencjalnej pokucie sakramentalnej w świadomości wiernych.
+
+**III. Grzechy, grzechy ciężkie, grzechy lekkie**
+
+1\. Nawrócenie jako oddalenie od grzechu i powrót do Boga zakłada świadomość, że grzech przyczynia się do utraty zbawienia. Aktualny kryzys sakramentu pokuty jest ściśle związany z kryzysem zrozumienia grzechu i świadomości grzechu. Można to zauważyć w wielu częściach świata. Wchodzi tutaj w grę także inny czynnik, a mianowicie wielu ludzi naszej epoki odnosi wrażenie, że wysiłki duszpasterskie Kościoła (przepowiadanie, katecheza, rozmowy osobiste itd.) pozostały, pod wieloma względami, poniżej ich możliwości (por. wyżej, A, 1,2). Należy więc w odnowiony sposób przedstawić prawdziwe chrześcijańskie zrozumienie grzechu.
+
+2\. Pismo święte, chociaż nie podaje specyficznej definicji grzechu, zawiera jednak niezliczone wyrażenia, które dostarczają wielu danych odnośnie do znaczenia grzechu i jego różnych aspektów. Są to:
+
+*a)* odmowa zbawienia (*hamartia*): bezbożność, odrzucenie uznania Boga (por. Rz 1,18n), zerwanie przymierza z Bogiem;
+
+*b)* przeciwstawienie się woli objawionej przez Boga (*anomia*): zwrócenie się przeciw prawu Bożemu i jego przykazaniom;
+
+c\) niesprawiedliwość i wina (*adikia*): odrzucenie życia według sprawiedliwości udzielonej przez Boga;
+
+*d)* kłamstwa i ciemności (*pseudos*, *skotos*): przeciwstawienie się prawdzie Bożej, Jezusowi Chrystusowi, który jest drogą, prawdą i życiem (por. J 14,6), bliźniemu i prawdzie samego człowieka. Kto grzeszy nie idzie do światła, ale pozostaje w ciemnościach (por. także wyżej, B, I, 1-3).
+
+Na tej podstawie wydaje się jasne, że każdy grzech jest w relacji z Bogiem; jest oddaleniem się od Boga i Jego woli oraz absolutyzowaniem dóbr stworzonych. Świadomość i zrozumienie grzechu mogą więc być otrzymane jedynie przez głoszenie Boga i Jego orędzia zbawienia, przez przebudzenie odnowionego i pogłębionego zmysłu Boga. Tylko gdy rozumie się jasno, że grzech jest w relacji z Bogiem, można także zrozumieć, w jaki sposób przebaczenie grzechu może pochodzić tylko od Boga.
+
+3\. Już w parenezie i praktyce pierwotnych wspólnot chrześcijańskich wyłoniły się zróżnicowania odnośnie do natury grzechu:
+
+*a)* niektóre grzechy, takie jak rozwiązłość, cudzołóstwo, pederastia, chciwość itd. (por. 1 Kor 6,9n), wykluczają z królestwa Bożego oraz prowadzą równocześnie do wyłączenia ze wspólnoty (por. 1 Kor 5,1-13) (por. wyżej, B, III, 4);
+
+*b)* inne grzechy są nazywane grzechami powszednimi (*peccata quotidiana*).
+
+Rozróżnienie między grzechami ciężkimi i grzechami nieciężkimi jest nauczane przez całą Tradycję Kościoła, chociaż ze znaczącymi różnicami w terminologii i ocenie różnych grzechów.
+
+Często dąży się do zastąpienia lub uzupełnienia dwupodziału między grzechami ciężkimi i nieciężkimi za pomocą trójpodziału na *crimina* (*peccata capitalia*), *peccata gravia* i *peccata venialia.* Taki trójpodział jest uzasadniony na poziomie fenomenologicznym i opisowym, ale na poziomie teologicznym nie można wyeliminować podstawowej różnicy, oddzielającej „tak” od „nie” mówionego Bogu; stan łaski, życie w komunii i przyjaźni z Bogiem, z jednej strony, a z drugiej stan grzechu, oddalenia od Boga, który prowadzi do utraty życia wiecznego. Między tymi dwoma stanami nie może zostać wpisany w istotny sposób jakiś trzeci stan. Tradycyjne rozróżnienie dwóch kategorii wyraża więc powagę decyzji moralnej człowieka.
+
+4\. Przez takie rozróżnienie, począwszy od pierwszych wieków, a potem przez sposoby myślenia i wyrażania się każdej epoki, Kościół wziął pod uwagę to, co dzisiaj - wśród sposobów widzenia i w aktualnych okolicznościach - ma wielkie znaczenie w wypowiedziach doktrynalnych Kościoła i w refleksjach teologicznych o rozróżnieniu i o relacji między grzechami ciężkimi i nieciężkimi:
+
+*a)* z subiektywnego punktu widzenia—wolność osoby ludzkiej powinna być rozważana z punktu widzenia jej relacji z Bogiem. Dlatego człowiek ma możliwość powiedzieć „nie” Bogu we wnętrzu swojej osoby (*aversio a Deo*) i w ten sposób podjąć podstawową decyzję dotyczącą sensu własnej egzystencji. Taka opcja podstawowa dokonuje się w „sercu” człowieka, we wnętrzu jego osoby. Jednak, z powodu czaso-przestrzenności naszego życia, wyraża się ona w konkretnych czynach, w których podstawowa decyzja człowieka ukazuje się w sposób bardziej lub mniej kompletny. Łączy się z tym fakt, że na mocy podstawowego rozbicia wywołanego przez grzech pierworodny, także wtedy gdy człowiek szanuje swe podstawowe „tak” w stosunku do Boga, ma „serce podzielone”, to znaczy nie jest w stanie żyć i zaangażować się na rzecz Boga w sposób całkowity i definitywny.
+
+*b)* z obiektywnego punktu widzenia - z jednej strony jest przykazanie, które wiąże w sposób poważny, wymagając czynu całkowicie dobrowolnego, a z drugiej strony przykazanie, które zobowiązuje w sposób lżejszy; zazwyczaj naruszenie tego ostatniego może być zakwalifikowane jako grzech tylko w sposób analogiczny, co nie oznacza, że z tego powodu powinno być traktowane lekkomyślnie. Podobna postawa wpływa bowiem na wybór wolności oraz może być lub stać się wyrażeniem decyzji podstawowej.
+
+5\. Takiego rozumienia grzechu ciężkiego uczy Kościół, gdy mówi o nim jako o wyborze przeciw Bogu lub jako odrzuceniu Boga i pierwszeństwie danym stworzeniom. To samo ma miejsce wtedy, gdy Kościół widzi ciężką obrazę Boga w każdym ważnym czynie przeciwnym miłości chrześcijańskiej, w postawie, która w materii ciężkiej narusza porządek ustalony przez Boga dla stworzenia, a przede wszystkim w zamachu na godność osoby ludzkiej. Święta Kongregacja Nauki Wiary podkreśla ten drugi aspekt, gdy akcentuje odpowiedź Jezusa daną młodzieńcowi, który Go pyta: „Nauczycielu, co dobrego mam czynić, aby otrzymać życie wieczne?” Jezus mu odpowiada: „A jeśli chcesz osiągnąć życie, zachowaj przykazania. (...) Nie zabijaj, nie cudzołóż, nie kradnij, nie zeznawaj fałszywie, czcij ojca i matkę oraz miłuj swego bliźniego, jak siebie samego!” (Mt 19,16-19) \[43\].
+
+Według tego nauczania Kościoła, w ostatecznej analizie decyzja podstawowa określa sytuację moralną człowieka. Jednak pojęcie decyzji podstawowej nie dostarcza kryterium zdolnego do konkretnego rozróżnienia między grzechem ciężkim i nieciężkim; takie pojęcie służy raczej do teologicznego wyjaśnienia tego, czym jest grzech ciężki. Chociaż zasadniczo człowiek może wyrazić lub zmienić własną decyzję jednym czynem - co ma miejsce wtedy, gdy czyn jest dokonany z pełną świadomością i pełną wolnością - to jednak , cała decyzja podstawowa nie jest w sposób konieczny poddana dyskusji w każdym poszczególnym czynie. W ten sposób nie każdy rodzaj grzechu stanowi koniecznie (*ipso facto*) zrewidowanie decyzji podstawowej (bezpośredniej lub pośredniej). Według Tradycji eklezjalnej i teologicznej, dla chrześcijanina, który znajduje się w stanie łaski i normalnie uczestniczy w życiu sakramentalnym Kościoła, „ciężar” łaski sprawia, że nie jest on łatwo wystawiony na grzech ciężki, nie będący przecież czymś normalnym w życiu chrześcijańskim \[44\].
+
+**IV. Pokuta i Eucharystia**
+
+1\. Problem relacji między pokutą i Eucharystią stawia nas wobec dwóch danych tradycji Kościoła, tylko pozornie sprzecznych ze sobą, ponieważ w gruncie rzeczy napięcie, jaki istnieje między nimi, jest bardzo owocne.
+
+*a)* Z jednej strony Eucharystia jest sakramentem jedności i miłości dla chrześcijan, którzy żyją w łasce Bożej. Starożytny Kościół dopuszczał do Komunii, wśród ochrzczonych, tylko tych, którzy po popełnieniu grzechu, prowadzącego do śmierci, zostali pojednani na końcu pokuty publicznej. W ten sam sposób Sobór Trydencki domaga się, aby ten, kto ma na sumieniu grzech ciężki, nie przyjmował Komunii ani nie celebrował Mszy świętej, aż przystąpi do sakramentu pokuty \[45\]. Jednak nie mówi o tym jako o obowiązku *iure divino*, ale wyjaśnia na poziomie dyscypliny zobowiązującej do zbadania siebie przed spożywaniem Chleba i piciem Kielicha (por. 1 Kor 11,28). Ten obowiązek może więc dopuszczać wyjątki, jak w przypadku, gdy brakuje *copia confessorum*; jednak wówczas żal powinien obejmować *votum sacramenti* (por. wyżej, B, IV, c, 6; C, II, 4). Sobór wyklucza jednak szerszą tezę Kajetana \[46\]. Eucharystia nie stanowi więc dla Kościoła alternatywy w stosunku do sakramentu pokuty.
+
+*b)* Z drugiej strony, Eucharystia odpuszcza niektóre grzechy. Starożytny Kościół jest przekonany, że Eucharystia odpuszcza grzechy powszednie \[47\]. Sobór Trydencki mówi również o Eucharystii jako „lekarstwie, przez które zostajemy wyzwoleni od win powszednich i zachowani od grzechów ciężkich” \[48\]. Jeśli chodzi o grzechy ciężkie, to Eucharystia zapewnia ich przebaczenie przez łaskę i dar pokuty \[49\], który - według nauczania soboru - obejmuje przynajmniej *in voto* sakramentalne wyznanie grzechów (por. wyżej, B, IV, c, 6). Ta moc, jaką posiada Eucharystia w stosunku do odpuszczenia grzechów powszednich, opiera się na fakcie, że jest pamiątką, czyli sakramentalnym uobecnieniem (*repraesentatio*) ofiary złożonej raz na zawsze przez Jezusa Chrystusa, którego Krew została wylana na odpuszczenie grzechów (por. Mt 26,28) \[50\].
+
+*Spowiedź i Komunia dzieci.* W przypadku dzieci formacja sumienia do zrozumienia grzechu i pokuty powinna uwzględniać wiek i doświadczenie formowanych. Nie można do dzieci zastosować po prostu świadomości i doświadczenia dorosłych. Dlatego spowiedź dzieci, jako sakrament nawrócenia (*metanoia*), nie powinna być rozważana jako kres ich wychowania religijnego; właśnie przez praktykę sakramentu dziecko będzie wzrastało w zrozumieniu pokuty.
+
+**Zakończenie**
+
+Odnowa wewnętrznej postawy człowieka oraz sakramentu nawrócenia i pojednania jest ściśle związana z odżyciem orędzia Boga, który jest bogaty w miłosierdzie (por. Ef 2,4), przede wszystkim orędzia pojednania, którego udzielił ludziom raz na zawsze przez śmierć i zmartwychwstanie Jezusa Chrystusa, i które obecnie stale realizuje za pośrednictwem Ducha Świętego w Kościele. Odnowa nawrócenia i pojednania jest więc możliwa, jeśli dojdzie się do posiadania żywego zmysłu Boga, jeśli pogłębi się w Kościele ducha na śladowania Jezusa oraz postaw wiary, nadziei i miłości. Odnowa sakramentu pokuty jest możliwa tylko w ramach całościowej wizji wszystkich sakramentów i wszystkich form pokuty.
+
+Ta nasza odnowa, która rodzi się z samej istoty orędzia chrześcijańskiego, wymaga pogłębienia zmysłu osobistej godności człowieka powołanego przez łaskę do komunii i przyjaźni z Bogiem. Tylko nawracając się, uznając, że Bóg jest Bogiem, i żyjąc w komunii z Nim, człowiek odkrywa prawdziwe znaczenie swojej egzystencji. Jest więc ważne, aby w realizacji odnowy sakramentu pokuty uwzględniono jego wymiary antropologiczne oraz uwypuklono nierozdzielny związek pojednania z Bogiem z pojednaniem z Kościołem i braćmi. Stanie się w taki sposób możliwe nadanie sakramentowi pokuty - przez twórczą wierność Tradycji Kościoła i według wskazań nowego *Ordo paenitentiae* - formy odpowiadającej aspiracjom i potrzebom duchowym ludzi.
+
+Trzeba w końcu - i nie jest to rzecz mniej ważna - aby cały Kościół, w swoim świadectwie (*martyria*), swojej liturgii (*leiturgia*) i swojej służbie (*diaconia*), był dla świata sakramentem, to znaczy znakiem i narzędziem pojednania, i aby, przez to wszystko, czym jest i w co wierzy, świadczył i urzeczywistniał w Duchu Świętym orędzie pojednania, jakie Bóg dał nam w Jezusie Chrystusie.
+
+------------------------------------------------------------------------
+
+\* *Relacja końcowa zatwierdzona* in forma specifica *przez Międzynarodową Komisją Teologiczną*
+
+\[1\] Por. II Sobór Watykański, Konst. *Gaudium et spes*, 21.
+
+\[2\] Tamże, 76.
+
+\[3\] Por. św. Tomasz z Akwinu, *In IV Sententiarum* 22, 2, 3.
+
+\[4\] II Sobór Watykański, Konst. *Lumen gentium*, 7.
+
+\[5\] II Sobór Watykański, Konst. *Gaudium et spes*, 22; por. Międzynarodowa Komisja Teologiczna, *Wybrane zagadnienia z chrystologii* (1979).
+
+\[6\] Św. Tomasz z Akwinu, *Summa Theologiae* III q. 43 a. 3 ad 1 i a. 5.
+
+\[7\] *Martin Luters Werke. Kritische Ausgabe*, Weimar 1883, s. 233: *Dominus et Magister noster Iesus Christus dicendo: „Paenitentiam agite, etc.“ (Mt 4,7) omnem vitam fideliom paenitentiam esse voluit.*
+
+\[8\] II Sobór Watykański, Konst. *Lumen gentium*, 8.
+
+\[9\] Por. tamże 1, 11 i *passim.*
+
+\[10\] Por. tamże, 8.
+
+\[11\] Św. Augustyn, *In Iohannis Evangelium Tractatus* 121, 4.
+
+\[12\] Por. Interpretację Mt 16,19 w: Tertulian, *De pudicitia* 21, i J 20, 23 w: Orygenes, *De oratione*, 28.
+
+\[13\] Por. odniesienie do J 20,23 w: DS 1670, 1679, 1684, 1692, 1703.
+
+\[14\] Por. II Sobór Watykański, Konst. *Lumen gentium*, 11; por. odnowione *Ordo paenitentiae.*
+
+\[15\] Por. klasyczne wyrażenia, jak na przykład *paenitentia secunda*: Tertulian, *De paenitentia* 7, 10; *secunda planca salutis*, tamże, 4, 2 i 12, 9 (DS 1552); św. Grzegorz z Nazjanzu, *Oratio* 39, 17 (DS 1672): *laboriosus quidam baptismus.*
+
+\[16\] Por. Ryszard z opactwa Św. Wiktora, *De potestate ligandi et solvendi*, 21.
+
+\[17\] Por. II Sobór Watykański, Konst. *Lumen gentium*, 11.
+
+\[18\] Por. DS 1695n, 1699n, 1716.
+
+\[19\] *Ordo unctionis infirmorum*, Praenotanda 6, z odniesieniem do DS 1694 i 1696.
+
+\[20\] DS 1728; por. 3857.
+
+\[21\] Por. DS 1667-1693, 1701-1715.
+
+\[22\] Por. DS 1674, 1682.
+
+\[23\] Por. DS 1679, 1706, 1709.
+
+\[24\] Por. DS 1682, 1707.
+
+\[25\] Por. DS 1679, 1680, 1685, 1692, 1707.
+
+\[26\] Por. DS 1680, 1682.
+
+\[27\] Por. *Confessio Augustana* 12; 25; *Apologia Confessionis Augustanae* 12, 99, 110.
+
+\[28\] DS 1543.
+
+\[29\] Por. DS 1661.
+
+\[30\] Por. DS 1677.
+
+\[31\] Por. DS 1526, 1678.
+
+\[32\] Por. DS 1526, 1676.
+
+\[33\] Por. Tb 12, 8, cytowany w DS 1543.
+
+\[34\] Por. Orygenes, *Hom. In Leviticum* 2, 4.
+
+\[35\] Por. św. Jan Kasjan, *Collationes patrum* 20, 8.
+
+\[36\] Por. DS 1743.
+
+\[37\] Por. trzy formy celebracji w *Ordo paenitentiae.*
+
+\[38\] Por. „rozgrzeszenie z cenzur” i „dyspensowanie od nieregularności” w *Ordo paenitentiae*, Appendix I.
+
+\[39\] Por. DS 1677.
+
+\[40\] Por. Kongregacja Nauki Wiary, *Normy duszpasterskie odnośnie do sposobu udzielania* *sakramentalnego rozgrzeszenia ogólnego* (1972); *Ordo paenitentiae*, Wprowadzenie duszpasterskie, 35; KPK, kan. 960-963.
+
+\[41\] Por. DS 1677.
+
+\[42\] Por. DS 1661.
+
+\[43\] Por. Kongregacja Nauki Wiary, Dekl. *Persona humana* (1975), 10: AAS 68 (1976) s. 88-90.
+
+\[44\] Por. św. Tomasz z Akwinu, *De veritate* q. 27, a. 1 ad 9.
+
+\[45\] Por. DS 1647, 1661.
+
+\[46\] Por. DS 1661.
+
+\[47\] Por. świadectwa liturgiczne.
+
+\[48\] DS 1638; por. 1740.
+
+\[49\] Por. DS 1743.
+
+\[50\] Por. DS 1743.
+
+------------------------------------------------------------------------

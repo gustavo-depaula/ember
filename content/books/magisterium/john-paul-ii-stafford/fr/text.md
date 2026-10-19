@@ -32,8 +32,6 @@ Pour le renouveau dans la société et dans l'Église, j'invite tout particuliè
 
 ------------------------------------------------------------------------
 
-© Copyright 1997 - Libreria Editrice Vaticana
-
 [^1]: \[\] *Rom*. 12, 12.
 
 [^2]: \[\] Cfr. *Act*. 11, 28.

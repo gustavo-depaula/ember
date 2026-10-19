@@ -1,0 +1,40 @@
+{
+  "id": "cdf-cti-coda-impegno-cti-or",
+  "cover": "quarter",
+  "name": {
+    "it": "Sempre di più e sempre oltre. L’impegno della Commissione Teologica Internazionale – Piero Coda"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2022-12-01",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2022-12-01"
+  },
+  "composed": "2022",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20221201_coda-impegno-cti-or_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Sempre di più e sempre oltre. L’impegno della Commissione Teologica Internazionale – Piero Coda"
+      }
+    }
+  ]
+}

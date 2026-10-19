@@ -275,5 +275,3 @@ That, Gentlemen, is what We wished to say to you about the cinema, to which you 
 With this wish, which is also a new proof of the esteem and interest We have in your work, We call down on you the blessings of heaven, and as their pledge We give you, from the depths of Our heart, Our Paternal Apostolic Blessing.
 
 **PIUS PP. XII**
-
-  © Copyright - Libreria Editrice Vaticana

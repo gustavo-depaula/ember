@@ -1,0 +1,80 @@
+{
+  "id": "francis-sacerdoti",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter of the Holy Father to the Priests of the Diocese of Rome",
+    "pt-BR": "Carta do Santo Padre aos sacerdotes da Diocese de Roma",
+    "de": "Brief von Papst Franziskus an die Priester der Diözese Rom",
+    "es": "Carta a los sacerdotes de la diócesis de Roma",
+    "fr": "Lettre du Saint-Père aux prêtres du diocèse de Rome",
+    "it": "Lettera del Santo Padre ai sacerdoti della Diocesi di Roma"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2020-05-31",
+    "pt-BR": "Carta · Papa Francisco · 2020-05-31"
+  },
+  "composed": "2020",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/letters/2020/documents/papa-francesco_20200531_lettera-sacerdoti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/letters/2020/documents/papa-francesco_20200531_lettera-sacerdoti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/letters/2020/documents/papa-francesco_20200531_lettera-sacerdoti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/letters/2020/documents/papa-francesco_20200531_lettera-sacerdoti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/letters/2020/documents/papa-francesco_20200531_lettera-sacerdoti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2020/documents/papa-francesco_20200531_lettera-sacerdoti.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter of the Holy Father to the Priests of the Diocese of Rome",
+        "pt-BR": "Carta do Santo Padre aos sacerdotes da Diocese de Roma",
+        "de": "Brief von Papst Franziskus an die Priester der Diözese Rom",
+        "es": "Carta a los sacerdotes de la diócesis de Roma",
+        "fr": "Lettre du Saint-Père aux prêtres du diocèse de Rome",
+        "it": "Lettera del Santo Padre ai sacerdoti della Diocesi di Roma"
+      }
+    }
+  ]
+}

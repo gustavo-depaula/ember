@@ -196,6 +196,4 @@ Given at Rome, at St. Peter's, the twentieth day of December, 1935, in the fifty
 
 **PIUS XI**
 
-© Copyright - Libreria Editrice Vaticana
-
    * *

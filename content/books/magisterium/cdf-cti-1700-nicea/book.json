@@ -1,0 +1,88 @@
+{
+  "id": "cdf-cti-1700-nicea",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Jesus Christ, Son of God, Savior: 1700th Anniversary of the Ecumenical Council of Nicaea",
+    "pt-BR": "Jesus Cristo, Filho de Deus, Salvador - 1700° aniversário do Concílio Ecumênico de Niceia",
+    "ar": "Jesus Christ, Son of God, Savior: 1700th Anniversary of the Ecumenical Council of Nicaea",
+    "de": "Jesus Christus, Sohn Gottes, Erlöser - 1700. Jahrestag des ökumenischen Konzils von Nizäa 325–2025",
+    "es": "Jesucristo, Hijo de Dios, Salvador. 1700° aniversario del Concilio Ecuménico de Nicea",
+    "fr": "Jésus-Christ, Fils de Dieu, Sauveur. 1700e anniversaire du concile œcuménique de Nicée",
+    "it": "Gesù Cristo, Figlio di Dio, Salvatore - 1700° anniversario del Concilio Ecumenico di Nicea"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2025-04-03",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2025-04-03"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20250403_1700-nicea_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20250403_1700-nicea_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20250403_1700-nicea_ar.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20250403_1700-nicea_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20250403_1700-nicea_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20250403_1700-nicea_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20250403_1700-nicea_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Jesus Christ, Son of God, Savior: 1700th Anniversary of the Ecumenical Council of Nicaea",
+        "pt-BR": "Jesus Cristo, Filho de Deus, Salvador - 1700° aniversário do Concílio Ecumênico de Niceia",
+        "ar": "Jesus Christ, Son of God, Savior: 1700th Anniversary of the Ecumenical Council of Nicaea",
+        "de": "Jesus Christus, Sohn Gottes, Erlöser - 1700. Jahrestag des ökumenischen Konzils von Nizäa 325–2025",
+        "es": "Jesucristo, Hijo de Dios, Salvador. 1700° aniversario del Concilio Ecuménico de Nicea",
+        "fr": "Jésus-Christ, Fils de Dieu, Sauveur. 1700e anniversaire du concile œcuménique de Nicée",
+        "it": "Gesù Cristo, Figlio di Dio, Salvatore - 1700° anniversario del Concilio Ecumenico di Nicea"
+      }
+    }
+  ]
+}

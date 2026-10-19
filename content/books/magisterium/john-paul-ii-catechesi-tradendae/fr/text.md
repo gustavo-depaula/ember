@@ -547,5 +547,3 @@ J'invoque ici sur l'Eglise catéchisante cet Esprit du Père et du Fils, et je l
 Puisse donc l'Esprit Saint, par les prières de Marie, accorder à l'Eglise un élan sans précédent dans l'œuvre catéchétique qui lui est essentielle! Alors l'Eglise accomplira avec efficacité, en ce temps de grâce, la mission inaliénable et universelle recue de son Maître: «Allez, de toutes les nations faites des disciples»(138).
 
 *Donné à Rome, près de Saint-Pierre, le 16 octobre 1979, en la seconde année de mon pontificat.*
-
-© Copyright 1979 - Libreria Editrice Vaticana

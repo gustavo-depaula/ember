@@ -76,6 +76,4 @@ Given at Rome, at St. Peter's, on the eighteenth day of November, in the year 19
 
 ** PIUS XI**
 
-© Copyright - Libreria Editrice Vaticana
-
         * *

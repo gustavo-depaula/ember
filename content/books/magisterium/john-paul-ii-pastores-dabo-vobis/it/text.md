@@ -1902,5 +1902,3 @@ Amen!
 \(467\) Cf 2 *Tm* 1, 6.
 
 \(468\) Cf *Fil* 1, 6.
-
-© Copyright 1992 - Libreria Editrice Vaticana

@@ -374,6 +374,4 @@ Given at Rome, at St. Peter's, the thirty-first day of December, in the year 192
 
 69\. Cfr. I *Petr*., II, 25: *ad Pastorem et Episcopum animarum vrotrarum.*
 
-© Copyright - Libreria Editrice Vaticana
-
 * *

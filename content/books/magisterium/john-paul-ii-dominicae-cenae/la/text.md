@@ -255,5 +255,3 @@ Caritate demum fratema Nos impulsos vobis cunctisque in sacerdotio fratribus Ben
 *Ex Aedibus Vaticanis, die XXIV mensis Februarii, Dominica I in Quadragesima, anno MCMLXXX, Pontificatus Nostri secundo.*
 
 **IOANNES PAULUS PP. II**
-
-Copyright 1980 © Libreria Editrice Vaticana

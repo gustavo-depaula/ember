@@ -44,5 +44,3 @@ Com grande afecto no Senhor concedo-vos a Bênção Apostólica.
 *Do Vaticano, 6 de Janeiro de 1982, Solenidade da Epifania de Nosso Senhor, quarto ano do meu Pontificado.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1982 - Libreria Editrice Vaticana

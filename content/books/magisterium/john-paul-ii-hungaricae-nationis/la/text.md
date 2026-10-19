@@ -35,5 +35,3 @@ Una vobiscum, dilecti Fratres, huius rei felicem exitum Mariae “Magnae Dominae
 *Datum Romae, apud S. Petrum, die XXX mensis Maii, in sollemnitate Pentecostes, anno MCMXCIII, Pontificatus Nostri quinto decimo.*
 
 IOANNES PAULUS PP. II
-
-© Copyright 1993 - Libreria Editrice Vaticana

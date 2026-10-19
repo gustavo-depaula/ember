@@ -129,5 +129,3 @@ Haec ut feliciter eveniant, beatissimae etiam Virginis Mariae maternum auxilium 
 *Datum Romae, apud Sanctum Petrum, die II mensis Ianuarii, in memoria Ss. Basilii Magni et Gregorii Nazianzeni, episcoporum et Ecclesiae doctorum, anno MCMLXXX, Pontificatus Nostri secundo.*
 
 IOANNES PAULUS PP. II
-
-Copyright 1980 © Libreria Editrice Vaticana

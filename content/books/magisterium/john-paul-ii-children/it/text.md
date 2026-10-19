@@ -76,6 +76,4 @@ Vi auguro che esse siano gioiose e serene; vi auguro di fare in esse una più in
 
 **GIOVANNI PAOLO II**
 
-© Copyright 1994 -  Libreria Editrice Vaticana
-
 *   *

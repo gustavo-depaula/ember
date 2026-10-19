@@ -40,8 +40,6 @@ E perché tutto riesca a maggior gloria di Dio, a bene della Chiesa e a salvezza
 
 ------------------------------------------------------------------------
 
-© Copyright - Libreria Editrice Vaticana
-
 [^1]: \[\] *I Cor*., XVI, 9.
 
 [^2]: \[\] *I Cor*., XV, 41.

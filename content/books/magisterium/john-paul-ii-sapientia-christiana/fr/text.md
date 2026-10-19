@@ -894,8 +894,6 @@ Compte tenu de ce qui est dit dans la [Constitution](#CONSTITUTION_APOSTOLIQUE) 
 
 ------------------------------------------------------------------------
 
-© Copyright 1979 - Libreria Editrice Vaticana
-
 [^1]: \[\] Cf. Concile œcuménique Vatican II, Constitution pastorale sur l’Église dans le monde de ce temps
 
 [^2]: \[\] Cf. Paul VI, Exhortation apostolique *[Evangelii nuntiandi](http://www.vatican.va/holy_father/paul_vi/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi_fr.html)*, nn. 19- 20 : *AAS* 68 (1976), pp. 18 s.

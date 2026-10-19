@@ -1,0 +1,88 @@
+{
+  "id": "cdf-su-fiducia-supplicans",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Excerpt from the Address of His Holiness Pope Francis during the Audience with Participants in the Plenary Session of the Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Trecho do Discurso do Papa Francisco durante a Audiência aos Participantes na Assembleia Plenária do Dicastério para a Doutrina da Fé",
+    "de": "Auszug aus der Ansprache von Papst Franziskus während der Audienz für die Teilnehmer der Vollsversammlung des Dikasteriums für die Glaubenslehre",
+    "es": "Extracto del discurso del Santo Padre Francisco durante la Audiencia a los Participantes en la Sesión Plenaria del Dicasterio para la Doctrina de la Fe",
+    "fr": "Extrait du Discourse du Pape François lors de l’Audience aux Participants à l’Assemblée Plénière du Dicastère pour la Doctrine de la Foi",
+    "it": "Estratto dal discorso del Santo Padre Francesco durante l'Udienza ai Partecipanti alla Plenaria del Dicastero per la Dottrina della Fede",
+    "pl": "Fragment Przemówienia Ojca Świętego Franciszka podczas Audiencji dla Uczestników Zgromadzenia Plenarnego Dykasterii Nauki Wiary"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-01-26",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-01-26"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240126_francesco-su-fiducia-supplicans_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240126_francesco-su-fiducia-supplicans_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240126_francesco-su-fiducia-supplicans_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240126_francesco-su-fiducia-supplicans_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240126_francesco-su-fiducia-supplicans_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240126_francesco-su-fiducia-supplicans_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240126_francesco-su-fiducia-supplicans_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Excerpt from the Address of His Holiness Pope Francis during the Audience with Participants in the Plenary Session of the Dicastery for the Doctrine of the Faith",
+        "pt-BR": "Trecho do Discurso do Papa Francisco durante a Audiência aos Participantes na Assembleia Plenária do Dicastério para a Doutrina da Fé",
+        "de": "Auszug aus der Ansprache von Papst Franziskus während der Audienz für die Teilnehmer der Vollsversammlung des Dikasteriums für die Glaubenslehre",
+        "es": "Extracto del discurso del Santo Padre Francisco durante la Audiencia a los Participantes en la Sesión Plenaria del Dicasterio para la Doctrina de la Fe",
+        "fr": "Extrait du Discourse du Pape François lors de l’Audience aux Participants à l’Assemblée Plénière du Dicastère pour la Doctrine de la Foi",
+        "it": "Estratto dal discorso del Santo Padre Francesco durante l'Udienza ai Partecipanti alla Plenaria del Dicastero per la Dottrina della Fede",
+        "pl": "Fragment Przemówienia Ojca Świętego Franciszka podczas Audiencji dla Uczestników Zgromadzenia Plenarnego Dykasterii Nauki Wiary"
+      }
+    }
+  ]
+}

@@ -25,6 +25,4 @@ Pertanto, ordiniamo che ciò che abbiamo stabilito con questa lettera in forma d
 
 **GIOVANNI PAOLO II**
 
-© Copyright 1993 - Libreria Editrice Vaticana
-
 * *

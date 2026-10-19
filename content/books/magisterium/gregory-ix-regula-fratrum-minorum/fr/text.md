@@ -14,6 +14,4 @@ Que ceux d’entre les Frères, qui, par inspiration divine, voudraient aller ch
 
 Fin de la Règle des Frères Mineurs Ensuite la confirmation de la dite Règle. Qu’il ne soit donc permis à aucun homme absolument, d’enfreindre cet acte de notre confirmation, ou de s’y opposer par une tentative téméraire. Mais si quelqu’un ose l’entreprendre, qu’il sache qu’il encourra l’indignation de Dieu Tout-puissant et des bienheureux Pierre et Paul, ses Apôtres. Donné au Latran, le vingt-neuvième jour de novembre, l’an huitième de notre Pontificat. (i.e. 1226 A.D.)
 
-\------------------1
-
 Editio originalis legit «les mutandes» pour «bracchae». Editio orginalis legit «commande» pour «precipio». 3 Editio originalis legit «malades» pour «infirmis». 4 Editio originalis legit «malades» pour «infirmis». 5 Editio originalis legit «en maladie» pour «in infirmitatem». 6 Editio originalis legit «Custode» pour «custode». 7 Editio originalis legit «Custodies» pour «custodiis». 8 Editio orginalis legit «commande» pour «precipio». 2

@@ -49,5 +49,3 @@ d\) il laicato (rappresentanti delle O.I.C. ed altri gruppi e associazioni che o
 Nell'adempimento della sua missione, la Pontificia Commissione potrà domandare la collaborazione di esperti e costituire gruppi di lavoro «ad hoc» su questioni determinate.
 
 **GIOVANNI PAOLO II**
-
-© Copyright 1985 - Libreria Editrice Vaticana

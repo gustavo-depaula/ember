@@ -555,5 +555,3 @@ Iam nihil aliud restat, Venerabiles Fratres, quam ut Apostolicam. ac paternam Be
 \(170\) Cfr. *Io*., XVII, 3.
 
 \(171\) Cfr. Pont. Rom., de ordinat. presbyt.
-
-© Copyright 1935 - Libreria Editrice Vaticana

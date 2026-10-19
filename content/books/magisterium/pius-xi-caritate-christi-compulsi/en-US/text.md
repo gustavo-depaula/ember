@@ -84,5 +84,3 @@ Given at Rome, at St. Peter's, on the feast of the Invention of the Holy Cross, 
 **PIUS XI**
 
    * *
-
-© Copyright - Libreria Editrice Vaticana

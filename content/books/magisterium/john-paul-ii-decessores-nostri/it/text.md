@@ -52,5 +52,3 @@ Quanto stabilito da noi in questa lettera “Motu Proprio” comandiamo essere t
 *Dato a Roma, presso San Pietro, il giorno 18 del mese di giugno dell’anno 1988, decimo del nostro Pontificato.*
 
 **GIOVANNNI PAOLO II**
-
-© Copyright 1988 - Libreria Editrice Vaticana

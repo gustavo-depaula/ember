@@ -405,8 +405,6 @@ Mit diesen Wünschen erteile ich allen meinen Segen.
 
 69\) Horologion, *Komplet vom Sonntag* (1. Ton) in der byzantinischen Liturgie.
 
-©  Copyright 1995 - Libreria Editrice Vaticana
-
 *  *
 
 * *

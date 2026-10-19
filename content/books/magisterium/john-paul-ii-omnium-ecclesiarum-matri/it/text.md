@@ -41,5 +41,3 @@ Perché tutto questo avvenga felicemente, innalziamo fervide preghiere a Dio, me
 *Dato a Roma, in San Pietro, il giorno 7 marzo 1987, anno nono del nostro Pontificato*.
 
 **GIOVANNI PAOLO PP. II**
-
-© Copyright 1986 - Libreria Editrice Vaticana

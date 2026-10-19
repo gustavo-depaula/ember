@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiv-20251111-immota-manet",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter in the form of a Motu Proprio Immota manet, on the central sector of the Diocese of Rome",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» Immota manet, sul Settore Centro della Diocesi di Roma"
+  },
+  "author": {
+    "en-US": "Pope Leo XIV",
+    "pt-BR": "Papa Leão XIV",
+    "la": "Leo PP. XIV"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIV · 2025-11-11",
+    "pt-BR": "Carta Apostólica · Papa Leão XIV · 2025-11-11"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20251111-immota-manet.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiv/it/apost_letters/documents/20251111-immota-manet.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter in the form of a Motu Proprio Immota manet, on the central sector of the Diocese of Rome",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» Immota manet, sul Settore Centro della Diocesi di Roma"
+      }
+    }
+  ]
+}

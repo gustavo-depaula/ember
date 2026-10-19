@@ -1052,5 +1052,3 @@ Eucharisticum mysterium (25 mai 1967), n. 35: AAS 59 (1967), PP. 560-561.
 206 Cf JEAN-PAUL II, Discours à l'audience générale du 4 janvier 1984 : Insegnamenti VII, 1 (1984), 16-18.
 
 207 Cf. Rm 1, 5; 16, 26
-
-© Copyright 1984 - Libreria Editrice Vaticana

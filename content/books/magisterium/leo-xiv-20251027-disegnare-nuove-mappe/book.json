@@ -1,0 +1,80 @@
+{
+  "id": "leo-xiv-20251027-disegnare-nuove-mappe",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter ‘Drawing New Maps of Hope’ of Pope Leo XIV on the occasion of the 60th anniversary of the Conciliar Declaration \"Gravissimum educationis\"",
+    "pt-BR": "Carta Apostólica \"Traçar Novos Mapas de Esperança\" por ocasião do LX aniversário da Declaração Conciliar \"Gravissimum Educationis\"",
+    "be": "АПОСТАЛЬСКІ ЛІСТ МАЛЯВАННЕ НОВЫХ МАП НАДЗЕІ ПАПЫ ЛЬВА XIV З НАГОДЫ 60-ГОДДЗЯ САБОРНАЙ ДЭКЛАРАЦЫІ GRAVISSIMUM EDUCATIONIS",
+    "es": "Carta Apostólica «Diseñar nuevos mapas de esperanza» con motivo del 60.º aniversario de la Declaración conciliar «Gravissimum educationis»",
+    "it": "Lettera Apostolica \"Disegnare nuove mappe di speranza\" in occasione del LX anniversario della Dichiarazione conciliare \"Gravissimum educationis\"",
+    "pl": "List apostolski Kreślić nowe mapy nadziei z okazji LX rocznicy Deklaracji soborowej Gravissimum educationis"
+  },
+  "author": {
+    "en-US": "Pope Leo XIV",
+    "pt-BR": "Papa Leão XIV",
+    "la": "Leo PP. XIV"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIV · 2025-10-27",
+    "pt-BR": "Carta Apostólica · Papa Leão XIV · 2025-10-27"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "be",
+    "es",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20251027-disegnare-nuove-mappe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20251027-disegnare-nuove-mappe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/leo-xiv/be/apost_letters/documents/20251027-disegnare-nuove-mappe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20251027-disegnare-nuove-mappe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiv/it/apost_letters/documents/20251027-disegnare-nuove-mappe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/leo-xiv/pl/apost_letters/documents/20251027-disegnare-nuove-mappe.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter ‘Drawing New Maps of Hope’ of Pope Leo XIV on the occasion of the 60th anniversary of the Conciliar Declaration \"Gravissimum educationis\"",
+        "pt-BR": "Carta Apostólica \"Traçar Novos Mapas de Esperança\" por ocasião do LX aniversário da Declaração Conciliar \"Gravissimum Educationis\"",
+        "be": "АПОСТАЛЬСКІ ЛІСТ МАЛЯВАННЕ НОВЫХ МАП НАДЗЕІ ПАПЫ ЛЬВА XIV З НАГОДЫ 60-ГОДДЗЯ САБОРНАЙ ДЭКЛАРАЦЫІ GRAVISSIMUM EDUCATIONIS",
+        "es": "Carta Apostólica «Diseñar nuevos mapas de esperanza» con motivo del 60.º aniversario de la Declaración conciliar «Gravissimum educationis»",
+        "it": "Lettera Apostolica \"Disegnare nuove mappe di speranza\" in occasione del LX anniversario della Dichiarazione conciliare \"Gravissimum educationis\"",
+        "pl": "List apostolski Kreślić nowe mapy nadziei z okazji LX rocznicy Deklaracji soborowej Gravissimum educationis"
+      }
+    }
+  ]
+}

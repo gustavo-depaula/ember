@@ -1,0 +1,40 @@
+{
+  "id": "worship-celebrazione-verginediloreto-adnexus",
+  "cover": "quarter",
+  "name": {
+    "la": "Additiones in Libris liturgicis Ritus Romani de memoria ad libitum B. Mariae Virginis de Loreto"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2019-10-07",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2019-10-07"
+  },
+  "composed": "2019",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20191007_decreto-celebrazione-verginediloreto-adnexus_la.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Additiones in Libris liturgicis Ritus Romani de memoria ad libitum B. Mariae Virginis de Loreto"
+      }
+    }
+  ]
+}

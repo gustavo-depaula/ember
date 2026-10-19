@@ -58,5 +58,3 @@ Tutto quanto è stabilito con il presente *Motu Proprio,* ordino che abbia pieno
 *Dato a Roma, presso la Basilica di San Pietro, il 25 marzo 1993, decimoquinto di Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-© Copyright 1993 - Libreria Editrice Vaticana

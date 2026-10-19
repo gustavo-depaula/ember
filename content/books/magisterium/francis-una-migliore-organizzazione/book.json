@@ -1,0 +1,64 @@
+{
+  "id": "francis-una-migliore-organizzazione",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter in the form of Motu Proprio regarding certain competencies in economic and financial matters",
+    "pt-BR": "Carta Apostólica sob forma de Motu Proprio do Papa Francisco sobre algumas competências em matéria econômico-financeira",
+    "es": "Carta apostólica en forma de Motu proprio sobre algunas competencias en materia económico-financiera",
+    "it": "Lettera Apostolica in forma di “Motu Proprio” del Sommo Pontefice Francesco circa alcune competenze in materia economico-finanziaria"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2020-12-26",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2020-12-26"
+  },
+  "composed": "2020",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20201226_una-migliore-organizzazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20201226_una-migliore-organizzazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20201226_una-migliore-organizzazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20201226_una-migliore-organizzazione.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter in the form of Motu Proprio regarding certain competencies in economic and financial matters",
+        "pt-BR": "Carta Apostólica sob forma de Motu Proprio do Papa Francisco sobre algumas competências em matéria econômico-financeira",
+        "es": "Carta apostólica en forma de Motu proprio sobre algunas competencias en materia económico-financiera",
+        "it": "Lettera Apostolica in forma di “Motu Proprio” del Sommo Pontefice Francesco circa alcune competenze in materia economico-finanziaria"
+      }
+    }
+  ]
+}

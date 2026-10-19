@@ -714,6 +714,4 @@ Jegyzetek:
 [\[216\]](#JB216) Jn 8,44.  
 [\[217\]](#JB217) Jn 14,6.
 
-© Copyright 1994 - Libreria Editrice Vaticana
-
 *  *

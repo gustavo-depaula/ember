@@ -1,0 +1,96 @@
+{
+  "id": "francis-authenticum-charismatis",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio Datae \"Authenticum charismatis\" quibus can. 579 Codicis Iuris Canonici mutatur (die I mensis Novembris, anno Domini MMXX)",
+    "en-US": "Apostolic Letter in the form of 'Motu Proprio' Authenticum charismatis, amending Canon 579 of the Code of Canon Law",
+    "pt-BR": "Carta Apostólica sob forma de Motu proprio \"Authenticum charismatis\" com a qual se modifica o cân. 579 do Código de Direito Canônico",
+    "de": "Apostolisches Schreiben in Form eines Motu Proprio “Authenticum charismatis” mit dem can. 579 des Codex Iuris Canonici abgeändert wird",
+    "es": "Carta apostólica en forma de Motu proprio Authenticum charismatis con la cual se modifica el can. 579 del Código de Derecho Canónico",
+    "fr": "Lettre apostolique sous forme de Motu proprio \"Authenticum charismatis\" modifiant le can. 579 du Code de Droit Canonique",
+    "hr": "Apostolsko Pismo u obliku Motuproprija Vrhovnog Svećenika Franje \"Authenticum charismatis\"",
+    "it": "Lettera Apostolica in forma di Motu proprio \"Authenticum charismatis\" con la quale si modifica il can. 579 del Codice di Diritto Canonico"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2020-11-01",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2020-11-01"
+  },
+  "composed": "2020",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/papa-francesco-motu-proprio-20201101_authenticum-charismatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20201101_authenticum-charismatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20201101_authenticum-charismatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio-20201101_authenticum-charismatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20201101_authenticum-charismatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio-20201101_authenticum-charismatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/francesco/hr/motu_proprio/documents/papa-francesco-motu-proprio-20201101_authenticum-charismatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20201101_authenticum-charismatis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio Datae \"Authenticum charismatis\" quibus can. 579 Codicis Iuris Canonici mutatur (die I mensis Novembris, anno Domini MMXX)",
+        "en-US": "Apostolic Letter in the form of 'Motu Proprio' Authenticum charismatis, amending Canon 579 of the Code of Canon Law",
+        "pt-BR": "Carta Apostólica sob forma de Motu proprio \"Authenticum charismatis\" com a qual se modifica o cân. 579 do Código de Direito Canônico",
+        "de": "Apostolisches Schreiben in Form eines Motu Proprio “Authenticum charismatis” mit dem can. 579 des Codex Iuris Canonici abgeändert wird",
+        "es": "Carta apostólica en forma de Motu proprio Authenticum charismatis con la cual se modifica el can. 579 del Código de Derecho Canónico",
+        "fr": "Lettre apostolique sous forme de Motu proprio \"Authenticum charismatis\" modifiant le can. 579 du Code de Droit Canonique",
+        "hr": "Apostolsko Pismo u obliku Motuproprija Vrhovnog Svećenika Franje \"Authenticum charismatis\"",
+        "it": "Lettera Apostolica in forma di Motu proprio \"Authenticum charismatis\" con la quale si modifica il can. 579 del Codice di Diritto Canonico"
+      }
+    }
+  ]
+}

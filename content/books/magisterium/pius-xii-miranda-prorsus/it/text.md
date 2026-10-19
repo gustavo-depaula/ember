@@ -409,4 +409,150 @@ Con questa speranza, che è avvalorata dal vostro, a noi ben noto, zelo pastoral
 
 ------------------------------------------------------------------------
 
-[TABLE]
+¹
+
+S. GIOVANNI CRISOSTOMO, *De Consubstantiali, contra Anomoeos*: PG 48, 810.
+
+²
+
+*Radiomessaggio [Qui arcano](/content/pius-xi/it/speeches/documents/hf_p-xi_spe_19310212_radiomessage.html)*, 12 febbraio 1931.
+
+³
+
+*AAS* 28 (1936), p. 249-ss.
+
+⁴
+
+Cf *AAS* 46 (1954), pp. 783-784.
+
+⁵
+
+*Discorso del 19 maggio 1950 ai cattolici di Olanda: Discorsi e Radiomessaggi di Pio XII*, vol. XII, p. 75.
+
+⁶
+
+*[Discorso del 21 giugno 1955 ai rappresentanti dell'industria cinematografica italiana](/content/pius-xii/it/speeches/1955/documents/hf_p-xii_spe_19550621_torna-sommamente.html): AAS* 47 (1955), p. 504.
+
+⁷
+
+*Discorso del 5 maggio 1950 ai delegati della Conferenza internazionale di Radiodiffusione: Discorsi e Radiomessaggi di Pio XII*, vol. XII, p. 51.
+
+⁸
+
+*AAS* 45 (1952), PP. 216-217.
+
+⁹
+
+*Ibidem*, p. 216.
+
+¹⁰
+
+*[Discorso del 20 aprile 1955 nel quinto centenario della morte del Beato Angelico](/content/pius-xii/it/speeches/1955/documents/hf_p-xii_spe_19550420_centenario-angelico.html): AAS* 47 (1955), pp. 291-292; *Lettera Enciclica Musicae Sacrae: AAS* 48 (1956), p. 10.
+
+¹¹
+
+*[Discorso del 21 giugno 1955 ai rappresentanti dell'industria cinematografica italiana](/content/pius-xii/it/speeches/1955/documents/hf_p-xii_spe_19550621_torna-sommamente.html), citato*.
+
+¹²
+
+S. Tommaso, *Summa theologiae*, I, q. 1, a. 9.
+
+¹³
+
+Cf *ibidem*, I, q. 67, a. 1.
+
+¹⁴
+
+[Discorso del 3 dicembre 1944 al personale della R.A.I. (Radio Audizioni Italia)](/content/pius-xii/it/speeches/1944/documents/hf_p-xii_spe_19441203_lavoratori-rai.html): Discorsi e Radiomessaggi di Pio XII, vol. VI, p. 209.
+
+¹⁵
+
+*Discorso del 21 aprile 1956 ai membri del Comitato di Coordinamento per l'Informazione pubblica dell'O.N.U.: Discorsi e Radiomessaggi di Pio XII*, vol. XVIII, p. 137.
+
+¹⁶
+
+*Radiomessaggio al popolo della Colombia nella solenne inaugurazione dei nuovi impianti della Stazione Radio di Sutatenza: AAS* 45 (1953), p. 294.
+
+¹⁷
+
+*Lettera Enciclica [Vigilanti cura](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html): AAS* 28 (1936), p. 255.
+
+¹⁸
+
+*Ibidem*, p. 254.
+
+¹⁹
+
+Cf *AAS* 46 (1954), P. 21.
+
+²⁰
+
+*Discorso del 9 marzo 1956 a dirigenti e studiosi degli organismi che fanno parte della "Umone Internazionale degli Istituti di Archeologia, Storia e Storia dell'Arte": AAS* 48 (1956),
+
+²¹
+
+*Lettera Enciclica* *[Vigilanti cura](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html): AAS* 28 (1936), P. 261.
+
+²²
+
+*[Discorso del 21 giugno 1955 ai rappresentanti dell'industria cinematografica italiana](/content/pius-xii/it/speeches/1955/documents/hf_p-xii_spe_19550621_torna-sommamente.html), citato.*
+
+²³
+
+*[Discorso del 28 ottobre 1955 in occasione della Assemblea dell'Unione Internazionale esercenti Cinema](/content/pius-xii/it/speeches/1955/documents/hf_p-xii_spe_19551028_nel-dare.html): AAS* 47 (1955), P. 817.
+
+²⁴
+
+Cf *Discorsi citati del [21 giugno](/content/pius-xii/it/speeches/1955/documents/hf_p-xii_spe_19550621_torna-sommamente.html) e [28 ottobre](/content/pius-xii/it/speeches/1955/documents/hf_p-xii_spe_19551028_nel-dare.html) 1955*.
+
+²⁵
+
+*Lettera Enciclica* *[Vigilanti cura](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html): AAS* 28 (1936), PP. 260-261.
+
+²⁶
+
+Cf *[Discorso de1 21 giugno 1955](/content/pius-xii/it/speeches/1955/documents/hf_p-xii_spe_19550621_torna-sommamente.html), Citato: AAS* 47 (1955), P. 512.
+
+²⁷
+
+*AAS* 28 (1936), P. 260.
+
+²⁸
+
+*[Esortazione ai parroci e ai predicatori quaresimalisti di Roma](/content/pius-xii/it/speeches/1957/documents/hf_p-xii_spe_19570305_predicatori-quares.html): AAS 49* (1957), p. 208.
+
+²⁹
+
+*Discorso del 26 agosto 1945 su l'essenza, la missione e i pericoli dell'arte drammatica: Discorsi e Radiomessaggi di Pio XII*, vol. VII, p. 157.
+
+³⁰
+
+*Lettera di Pio XII ai cattolici della Germania: AAS* 44 (1952), p. 725.
+
+³¹
+
+*[Discorso del 3 dicembre 1944](/content/pius-xii/it/speeches/1944/documents/hf_p-xii_spe_19441203_lavoratori-rai.html): Discorsi e Radiomessaggi di Pio XII*, vol. VI, p. 209.
+
+³²
+
+*[Radiomessaggio dell'11 ottobre 1955 per le celebrazioni in onore di Cristoforo Colombo e di Guglielmo Marconi](/content/pius-xii/it/speeches/1955/documents/hf_p-xii_spe_19551011_piu-viva.html): AAS* 47 (1955), p. 736.
+
+³³
+
+Cf *[Discorso del 3 ottobre 1947 nel cinquantenario della invenzione della radio](/content/pius-xii/it/speeches/1947/documents/hf_p-xii_spe_19471003_cinquantenario-radio.html): Discorsi e Radiomessaggi di Pio XII*, vol. XI, p. 267.
+
+³⁴
+
+*Discorso del 19 maggio 1950 ai cattolici di Olanda: Discorsi e Radiomessaggi di Pio XII*, vol. XII, p. 75.
+
+³⁵
+
+Cf *Discorso alla conferenza internazionale della radiodiffusione ad alte frequenze*, del 5 maggio 1950: *Discorsi e Radiomessaggi di Pio XII*, vol. XII, p. 55.
+
+³⁶
+
+Cf *[Discorso sull'importanza della televisione](/content/pius-xii/it/speeches/1955/documents/hf_p-xii_spe_19551021_vous-souhaitant.html)*, del 21 ottobre 1955: *AAS* 47 (1955), p. 777.
+
+³⁷
+
+Cf *[Discorso del 14 settembre 1956](/content/pius-xii/it/speeches/1956/documents/hf_p-xii_spe_19560914_aggiornamento-pastorale.html)*: AAS 48 (1956), p. 707.

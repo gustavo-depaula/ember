@@ -1,0 +1,56 @@
+{
+  "id": "cdf-fernandez-meditazione-plenaria",
+  "cover": "quarter",
+  "name": {
+    "en-US": "“Do Not Ask the Light, but the Fire”. Opening Meditation of the Plenary Session of the Dicastery for the Doctrine of the Faith",
+    "es": "“No preguntes a la luz, sino al fuego”. Meditación en la apertura de la Sesión Plenaria del Dicasterio para la Doctrina de la Fe",
+    "it": "“Non domandare alla luce, ma al fuoco”. Meditazione di apertura della Sessione Plenaria del Dicastero per la Dottrina della Fede"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2026-01-27",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2026-01-27"
+  },
+  "composed": "2026",
+  "languages": [
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20260127_fernandez-meditazione-plenaria_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20260127_fernandez-meditazione-plenaria_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20260127_fernandez-meditazione-plenaria_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "“Do Not Ask the Light, but the Fire”. Opening Meditation of the Plenary Session of the Dicastery for the Doctrine of the Faith",
+        "es": "“No preguntes a la luz, sino al fuego”. Meditación en la apertura de la Sesión Plenaria del Dicasterio para la Doctrina de la Fe",
+        "it": "“Non domandare alla luce, ma al fuoco”. Meditazione di apertura della Sessione Plenaria del Dicastero per la Dottrina della Fede"
+      }
+    }
+  ]
+}

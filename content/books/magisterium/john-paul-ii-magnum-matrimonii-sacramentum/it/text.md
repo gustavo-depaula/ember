@@ -58,6 +58,4 @@ Vogliamo infine che questa Nostra Costituzione sia stabile, valida ed efficace e
 
 **GIOVANNI PAOLO II**
 
-© Copyright 1982 - Libreria Editrice Vaticana
-
 * *

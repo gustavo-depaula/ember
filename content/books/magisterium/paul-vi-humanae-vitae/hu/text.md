@@ -274,5 +274,3 @@ Erre a műre, mindnyájatokra, s különösen a hitvesekre a szent és irgalmas 
 *Kelt Rómában Szent Péternél, 1968. júl. 25-én, Szent Jakab apostol ünnepén, pápaságunk hatodik évében*  
 
 ***VI Pál pápa  ***
-
-© Copyright 1968 - Libreria Editrice Vaticana

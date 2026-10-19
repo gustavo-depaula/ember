@@ -16,5 +16,3 @@ La notizia che ella ci ha dato del prossimo ottavo Congresso Internazionale dei 
 *Dal Vaticano, li 15 maggio 1920.*
 
 **BENEDICTUS PP. XV**
-
-© Copyright - Libreria Editrice Vaticana

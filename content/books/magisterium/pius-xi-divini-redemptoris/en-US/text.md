@@ -284,5 +284,3 @@ Given at Rome, at St. Peter's, on the feast of St. Joseph, patron of the univers
 49\. II Epist. St. Peter, III, 13; cf. Isaias, LXV, 17 and LXVI, 22; Apoc., XXI, 1.
 
 50\. Apoc. XXI, 5.
-
-© Copyright - Libreria Editrice Vaticana

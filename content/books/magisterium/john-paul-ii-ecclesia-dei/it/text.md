@@ -59,5 +59,3 @@ A tutti questi fedeli cattolici, che si sentono vincolati ad alcune precedenti f
 (8)Cfr. *Codex Iuris Coninici*, can. 1364.
 
 (9)Cfr. CONGREGAZIONE PER IL CULTO DIVINE, ep. *Quattuor abhinc annos*, 3-X-1984: *AAS* 76 (1984) pp. 1088-1089.
-
-© Copyright 1988 - Libreria Editrice Vaticana

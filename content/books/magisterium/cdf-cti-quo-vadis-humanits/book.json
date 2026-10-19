@@ -1,0 +1,72 @@
+{
+  "id": "cdf-cti-quo-vadis-humanits",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Quo vadis, humanitas? Thinking through Christian Anthropology in the Face of Certain Scenarios for the Future of Humanity",
+    "pt-BR": "Quo vadis, humanitas? Reflexão sobre a antropologia cristã perante alguns cenários sobre o futuro do ser humano",
+    "es": "Quo vadis, humanitas? Pensar la antropología cristiana ante algunos escenarios futuros de la humanidad",
+    "fr": "Quo vadis, humanitas? Réfléchir à l’anthropologie chrétienne face à certains scénarios sur l’avenir de l’humanité",
+    "it": "Quo vadis, humanitas? Pensare l’antropologia cristiana di fronte ad alcuni scenari sul futuro dell’umano"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2026-03-04",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2026-03-04"
+  },
+  "composed": "2026",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20260304_quo-vadis-humanits_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20260304_quo-vadis-humanits_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20260304_quo-vadis-humanits_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20260304_quo-vadis-humanits_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20260304_quo-vadis-humanits_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Quo vadis, humanitas? Thinking through Christian Anthropology in the Face of Certain Scenarios for the Future of Humanity",
+        "pt-BR": "Quo vadis, humanitas? Reflexão sobre a antropologia cristã perante alguns cenários sobre o futuro do ser humano",
+        "es": "Quo vadis, humanitas? Pensar la antropología cristiana ante algunos escenarios futuros de la humanidad",
+        "fr": "Quo vadis, humanitas? Réfléchir à l’anthropologie chrétienne face à certains scénarios sur l’avenir de l’humanité",
+        "it": "Quo vadis, humanitas? Pensare l’antropologia cristiana di fronte ad alcuni scenari sul futuro dell’umano"
+      }
+    }
+  ]
+}

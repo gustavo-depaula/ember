@@ -14,5 +14,3 @@ con vivo compiacimento abbiamo appreso che Ella, seguendo il Nostro suggerimento
 *Dal Vaticano, li 5 agosto 1920.*
 
 **BENEDICTUS PP. XV**
-
-© Copyright - Libreria Editrice Vaticana

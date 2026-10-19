@@ -1,0 +1,48 @@
+{
+  "id": "cdf-fernandez-ordinazione-kennedy-curbelie",
+  "cover": "quarter",
+  "name": {
+    "fr": "Homélie de Son Éminence le Cardinal Víctor Fernández pour l’Ordination Épiscopale de l’Archevêque John Kennedy et l’Archevêque Philippe Curbelié",
+    "it": "Omelia di Sua Eminenza, Víctor M. Card. Fernández, in occasione dell’Ordinazione Episcopale di S.E. Mons. John Kennedy e S.E. Mons. Philippe Curbelié"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-09-28",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-09-28"
+  },
+  "composed": "2024",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20240928_fernandez-ordinazione-kennedy-curbelie_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20240928_fernandez-ordinazione-kennedy-curbelie_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Homélie de Son Éminence le Cardinal Víctor Fernández pour l’Ordination Épiscopale de l’Archevêque John Kennedy et l’Archevêque Philippe Curbelié",
+        "it": "Omelia di Sua Eminenza, Víctor M. Card. Fernández, in occasione dell’Ordinazione Episcopale di S.E. Mons. John Kennedy e S.E. Mons. Philippe Curbelié"
+      }
+    }
+  ]
+}

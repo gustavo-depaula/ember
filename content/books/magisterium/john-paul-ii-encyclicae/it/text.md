@@ -105,5 +105,3 @@ In quest’anno mariano anch’io affido a lei con tutto il cuore ciascuno e cia
 *Dato a Roma, presso San Pietro, il 22 maggio, solennità di Pentecoste, dell’anno 1988, decimo di Pontificato.*
 
 GIOVANNI PAOLO II
-
-© Copyright 1988 - Libreria Editrice Vaticana

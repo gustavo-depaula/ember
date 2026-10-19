@@ -1,0 +1,88 @@
+{
+  "id": "francis-episcopalis-communio",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Episcopalis communio",
+    "pt-BR": "Episcopalis communio, sobre o Sínodo dos Bispos",
+    "de": "Apostolische Konstitution Episcopalis communio",
+    "es": "Episcopalis communio, sobre el Sínodo de los Obispos",
+    "fr": "Episcopalis communio, sur le Synode des évêques",
+    "it": "Episcopalis communio, sul Sinodo dei Vescovi",
+    "pl": "Episcopalis communio, o Synodzie Biskupów"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Francis · 2018-09-15",
+    "pt-BR": "Constituição Apostólica · Papa Francisco · 2018-09-15"
+  },
+  "composed": "2018",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_constitutions/documents/papa-francesco_costituzione-ap_20180915_episcopalis-communio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_constitutions/documents/papa-francesco_costituzione-ap_20180915_episcopalis-communio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_constitutions/documents/papa-francesco_costituzione-ap_20180915_episcopalis-communio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_constitutions/documents/papa-francesco_costituzione-ap_20180915_episcopalis-communio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_constitutions/documents/papa-francesco_costituzione-ap_20180915_episcopalis-communio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_constitutions/documents/papa-francesco_costituzione-ap_20180915_episcopalis-communio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_constitutions/documents/papa-francesco_costituzione-ap_20180915_episcopalis-communio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Episcopalis communio",
+        "pt-BR": "Episcopalis communio, sobre o Sínodo dos Bispos",
+        "de": "Apostolische Konstitution Episcopalis communio",
+        "es": "Episcopalis communio, sobre el Sínodo de los Obispos",
+        "fr": "Episcopalis communio, sur le Synode des évêques",
+        "it": "Episcopalis communio, sul Sinodo dei Vescovi",
+        "pl": "Episcopalis communio, o Synodzie Biskupów"
+      }
+    }
+  ]
+}

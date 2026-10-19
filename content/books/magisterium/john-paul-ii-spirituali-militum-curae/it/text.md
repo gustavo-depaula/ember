@@ -69,5 +69,3 @@ Quanto è prescritto in questa nostra costituzione entrerà in vigore in data 21
 Vogliamo poi che queste nostre disposizioni e norme siano valide ed efficaci ora e in futuro, nonostante, se fosse necessario, le Costituzioni e le Ordinanze apostoliche emanate dai nostri predecessori, e ogni altra prescrizione anche degna di particolare menzione o deroga.
 
 *Dato a Roma, presso San Pietro, il giorno 24 aprile dell'anno 1986.*
-
-© Copyright 1986 - Libreria Editrice Vaticana

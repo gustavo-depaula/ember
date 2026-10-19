@@ -357,6 +357,4 @@ meg kell őrizni az egyén és a közösség jogait a közjó és az igazság ha
 [\[51\]](#JB51) CIC, 811. k 2. §.  
 [\[52\]](#JB52) Az olyan egyetemek számára, melyekre a 3. cikkely 1. és 2. §. vonatkozik, ezeket az eljárásokat az egyházi hatóság által jóváhagyott szabályzatnak kell tartalmaznia. Más katolikus egyetemek részére a Püspöki Konferencia vagy a katolikus hierarchia egyéb gyűlése határozza meg az eljárási szabályokat.  
 [\[53\]](#JB53) CIC, 820. k; és Sapientia Christiana, Ordinationes, 49. cikkely: AAS 71 (1979) 512.  
-[\[54\]](#JB54) II. János Pál, A Pápai Kulturális Tanácshoz, 1989. január 13., n. 2: AAS 81 (1989) 857-858.  
-
-© Copyright 1990- Libreria Editrice Vaticana
+[\[54\]](#JB54) II. János Pál, A Pápai Kulturális Tanácshoz, 1989. január 13., n. 2: AAS 81 (1989) 857-858.

@@ -101,5 +101,3 @@ Given at Rome, at Saint Peter's, on the 6th day of January, on the Feast of the 
 29\. I *Tim*. ii, 4.
 
 30\. *Eph*. iv, 3.
-
-© Copyright - Libreria Editrice Vaticana

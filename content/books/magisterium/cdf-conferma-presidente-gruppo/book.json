@@ -1,0 +1,80 @@
+{
+  "id": "cdf-conferma-presidente-gruppo",
+  "cover": "quarter",
+  "name": {
+    "en-US": "\"Foglio\" for the Audience with the Holy Father: Confirmation of the President for the Working Group on Spiritual Abuse",
+    "pt-BR": "Folha para Audiência: Confirmação do Presidente para o Grupo de Trabalho sobre Abuso Espiritual",
+    "de": "„Foglio per l‘Udienza“: Bestätigung des Vorsitzenden für die Arbeitsgruppe zum Thema geistlicher Missbrauch",
+    "es": "Folio para la Audiencia con el Santo Padre: Confirmación del Presidente del Grupo de Trabajo sobre Abuso Espiritual",
+    "fr": "Feuille d'audience: Confirmation du Président du Groupe de travail sur les abus spirituels",
+    "it": "Foglio per l'Udienza: Conferma del Presidente del Gruppo di lavoro sull’abuso spirituale"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2025-10-10",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2025-10-10"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251010_conferma-presidente-gruppo_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "\"Foglio\" for the Audience with the Holy Father: Confirmation of the President for the Working Group on Spiritual Abuse",
+        "pt-BR": "Folha para Audiência: Confirmação do Presidente para o Grupo de Trabalho sobre Abuso Espiritual",
+        "de": "„Foglio per l‘Udienza“: Bestätigung des Vorsitzenden für die Arbeitsgruppe zum Thema geistlicher Missbrauch",
+        "es": "Folio para la Audiencia con el Santo Padre: Confirmación del Presidente del Grupo de Trabajo sobre Abuso Espiritual",
+        "fr": "Feuille d'audience: Confirmation du Président du Groupe de travail sur les abus spirituels",
+        "it": "Foglio per l'Udienza: Conferma del Presidente del Gruppo di lavoro sull’abuso spirituale"
+      }
+    }
+  ]
+}

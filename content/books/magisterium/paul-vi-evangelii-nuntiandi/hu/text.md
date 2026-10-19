@@ -553,6 +553,4 @@ Jegyzetek:
 [\[132\]](#JB132) DH 9-14.  
 [\[133\]](#JB133) AG 7.  
 [\[134\]](#JB134) Vö. Róm 1,16  
-[\[135\]](#JB135) Fil 1,3-4.7-8  
-
-© Copyright 1975 - Libreria Editrice Vaticana
+[\[135\]](#JB135) Fil 1,3-4.7-8

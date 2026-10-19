@@ -713,5 +713,3 @@ In the name of Christ we bless you, your communities, your families, all those w
 134\. Cf. *Rom* 1:16.
 
 135\. *Phil* 1:3-4, 7-8.
-
-© Copyright - Libreria Editrice Vaticana

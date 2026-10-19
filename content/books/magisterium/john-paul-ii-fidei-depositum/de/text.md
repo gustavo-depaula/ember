@@ -81,6 +81,4 @@ Am Ende dieses Dokumentes, das den „[Katechismus der katholischen Kirche](http
 
 *Gegeben am 11. Oktober 1992, dem dreißigsten Jahrestag der Eröffnung des Zweiten Ökumenischen Vatikanischen Konzils, im vierzehnten Jahr meines Pontifikates.*
 
-© Copyright 1992 - Libreria Editrice Vaticana
-
 * *

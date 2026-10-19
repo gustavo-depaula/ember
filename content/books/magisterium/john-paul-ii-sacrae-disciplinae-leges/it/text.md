@@ -75,6 +75,4 @@ Esorto, quindi, tutti i fedeli a voler osservare le norme proposte con animo sin
 
 **GIOVANNI PAOLO II**
 
-© Copyright 1983 - Libreria Editrice Vaticana
-
 * *

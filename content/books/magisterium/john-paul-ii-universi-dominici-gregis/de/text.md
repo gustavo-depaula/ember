@@ -13,7 +13,11 @@ JOHANNES PAUL, BISCHOF
 DIENER DER DIENER GOTTES  
 ZUR BLEIBENDEN ERINNERUNG
 
-[TABLE]
+**[Apostolisches Schreiben in Form eines Motu Proprio über einige Änderungen der Normen bezüglich der Wahl des Römischen Papstes (22. Februar 2013)](https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html)**  
+\[[Deutsch](https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Englisch](https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Französisch](https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Italienisch](https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Lateinisch](https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Portugiesisch](https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html), [Spanisch](https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html)\]
+
+**[Motu Proprio über einige Änderungen in den Normen bezüglich der Wahl des Papstes (11. Juni 2007)](https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html)**  
+\[[Deutsch](https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [Französisch](https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [Lateinisch](https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html)\]
 
 Hirte der gesamten Herde des Herrn ist der Bischof der Kirche von Rom, in der der heilige Apostel Petrus durch höchste Verfügung der göttlichen Vorsehung Christus im Martyrium das höchste Blutzeugnis gegeben hat. Daher ist es leicht verständlich, daß die rechtmäßige apostolische Sukzession auf diesem Stuhl, mit dem sich »wegen des außerordentlichen Vorranges jede andere Kirche in Einheit befinden muß«,(1) schon immer ein besonderes Anliegen gewesen ist.
 
@@ -440,5 +444,3 @@ Gleichermaßen setze ich, wie oben festgelegt, alle Konstitutionen und Bestimmun
 \(22\) Vgl. Apost. Konst. *Romani Pontifici eligendo* (1. Oktober 1975), 74: *AAS* 67 (1975), 639.
 
 \(23\) Vgl. Hl. Pius X., Apost. Konst. *Vacante Sede Apostolica* (25. Dezember 1904), 79: *Pii X Pontificis Maximi Acta,* III (1908), 282; Pius XII., Apost. Konst. *Vacantis Apostolicae Sedis* (8. Dezember 1945), 92: *AAS* 38 (1946), 94; Paul VI., Apost. Konst. *Romano Pontifici eligendo* (1. Oktober 1975), 79: *AAS* 67 (1975), 641.
-
-© Copyright 1996 - Libreria Editrice Vaticana

@@ -222,5 +222,3 @@ Atque his sensibus, erecto in spem laetam firmamque animo, auspicem divinorum mu
 \(42\) *Luc*., II, 14.
 
 \(43\) *Ioann*., XIV, 27.
-
-© Copyright 1929 - Libreria Editrice Vaticana

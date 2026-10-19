@@ -1,0 +1,144 @@
+{
+  "id": "francis-evangelii-gaudium",
+  "cover": "quarter",
+  "name": {
+    "en-US": "\"Evangelii Gaudium\": Apostolic Exhortation on the Proclamation of the Gospel in Today's World",
+    "pt-BR": "\"Evangelii Gaudium\": Exortação Apostólica sobre o anúncio do Evangelho no mundo atual",
+    "be": "Evangelii Gaudium: Esortazione Apostolica sull'annuncio del Vangelo nel mondo attuale",
+    "de": "\"Evangelii Gaudium\": Apostolisches Schreiben über die Verkündigung des Evangeliums in der Welt von heute",
+    "es": "Evangelii Gaudium: Exhortación Apostólica sobre el anuncio del Evangelio en el mundo actual",
+    "fr": "Evangelii Gaudium",
+    "hu": "Evangelii Gaudium, 2013. november 24.",
+    "it": "\"Evangelii gaudium\": Esortazione Apostolica sull'annuncio del Vangelo nel mondo attuale",
+    "nl": "Evangelii Gaudium",
+    "pl": "\"Evangelii Gaudium\": Adhortacja Apostolska o głoszeniu Ewangelii w dzisiejsym świecie",
+    "ru": "Апостольское обращение Evangelii gaudium Святейшего Отца Франциска",
+    "sl": "Apostolska spodbuda VESELJE EVANGELIJA EVANGELII GAUDIUM, 24. novembra 2013",
+    "zh-CN": "Evangelii Gaudium: Esortazione Apostolica sull'annuncio del Vangelo nel mondo attuale",
+    "zh-TW": "Evangelii Gaudium: Esortazione Apostolica sull'annuncio del Vangelo nel mondo attuale"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Francis · 2013-11-24",
+    "pt-BR": "Exortação Apostólica · Papa Francisco · 2013-11-24"
+  },
+  "composed": "2013",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "nl",
+    "pl",
+    "ru",
+    "sl",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/francesco/hu/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/content/francesco/nl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/content/francesco/ru/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sl",
+      "url": "https://www.vatican.va/content/francesco/sl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "\"Evangelii Gaudium\": Apostolic Exhortation on the Proclamation of the Gospel in Today's World",
+        "pt-BR": "\"Evangelii Gaudium\": Exortação Apostólica sobre o anúncio do Evangelho no mundo atual",
+        "be": "Evangelii Gaudium: Esortazione Apostolica sull'annuncio del Vangelo nel mondo attuale",
+        "de": "\"Evangelii Gaudium\": Apostolisches Schreiben über die Verkündigung des Evangeliums in der Welt von heute",
+        "es": "Evangelii Gaudium: Exhortación Apostólica sobre el anuncio del Evangelio en el mundo actual",
+        "fr": "Evangelii Gaudium",
+        "hu": "Evangelii Gaudium, 2013. november 24.",
+        "it": "\"Evangelii gaudium\": Esortazione Apostolica sull'annuncio del Vangelo nel mondo attuale",
+        "nl": "Evangelii Gaudium",
+        "pl": "\"Evangelii Gaudium\": Adhortacja Apostolska o głoszeniu Ewangelii w dzisiejsym świecie",
+        "ru": "Апостольское обращение Evangelii gaudium Святейшего Отца Франциска",
+        "sl": "Apostolska spodbuda VESELJE EVANGELIJA EVANGELII GAUDIUM, 24. novembra 2013",
+        "zh-CN": "Evangelii Gaudium: Esortazione Apostolica sull'annuncio del Vangelo nel mondo attuale",
+        "zh-TW": "Evangelii Gaudium: Esortazione Apostolica sull'annuncio del Vangelo nel mondo attuale"
+      }
+    }
+  ]
+}

@@ -62,6 +62,4 @@ To examine into the nature and to promote the effects of those manifestations of
 
 **LEO XIII**
 
-© Copyright 1902 - Libreria Editrice Vaticana
-
 *      *

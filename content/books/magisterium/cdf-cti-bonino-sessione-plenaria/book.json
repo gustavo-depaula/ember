@@ -1,0 +1,48 @@
+{
+  "id": "cdf-cti-bonino-sessione-plenaria",
+  "cover": "quarter",
+  "name": {
+    "fr": "« La session plénière de la Commission théologique internationale » du Fr. Serge-Thomas Bonino, o.p., Secrétaire général de la CTI",
+    "it": "« La session plénière de la Commission théologique internationale » du Fr. Serge-Thomas Bonino, o.p., Secrétaire général de la CTI"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2014-12-17",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2014-12-17"
+  },
+  "composed": "2014",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20141217_bonino-sessione-plenaria_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20141217_bonino-sessione-plenaria_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "« La session plénière de la Commission théologique internationale » du Fr. Serge-Thomas Bonino, o.p., Secrétaire général de la CTI",
+        "it": "« La session plénière de la Commission théologique internationale » du Fr. Serge-Thomas Bonino, o.p., Secrétaire général de la CTI"
+      }
+    }
+  ]
+}

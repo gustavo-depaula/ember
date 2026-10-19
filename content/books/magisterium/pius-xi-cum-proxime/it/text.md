@@ -31,5 +31,3 @@ Ordiniamo che questo Nostro documento, redatto Motu proprio, sia letto a tutti i
 *Dato a Roma, presso San Pietro, l’1 marzo 1922, anno primo del Nostro Pontificato*.
 
 **PIUS PP. XI**
-
-© Copyright - Libreria Editrice Vaticana

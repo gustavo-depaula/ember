@@ -354,8 +354,6 @@ Io ripeto queste parole della Madre di Dio e le rivolgo a voi, giovani, a ciascu
 
 ------------------------------------------------------------------------
 
-© Copyright 1985 - Libreria Editrice Vaticana
-
 [^1]: *1Pt* 3,15.
 
 [^2]: Cfr. Giovanni Paolo II, Lettera Enciclica *[Redemptor hominis](/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html)*, n.14.

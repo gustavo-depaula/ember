@@ -155,5 +155,3 @@ Moreover, we wish that these Our statutes and rules should be, now and hereafter
 \(8\) Ibid., nn. 3-4.
 
 \(9\) AAS 61 (1969), pp. 297-305.
-
-© Copyright 1983 - Libreria Editrice Vaticana

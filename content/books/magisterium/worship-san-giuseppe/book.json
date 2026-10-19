@@ -1,0 +1,96 @@
+{
+  "id": "worship-san-giuseppe",
+  "cover": "quarter",
+  "name": {
+    "la": "Decretum, die 1 mensis Maii anno 2013",
+    "en-US": "Decree regarding the mention of the divine name of St. Joseph in the Eucharistic Prayers II, III, and IV of the Roman Missal, 1st May 2013",
+    "pt-BR": "Decreto com o qual se acrescenta o nome de São José nas Orações Eucarísticas II, III e IV do Missal Romano, 1º de maio de 2013",
+    "de": "Dekret über die Hinzufügung des Namens des hl. Josef in den eucharistischen Gebeten II, III, IV des Missale Romanum",
+    "es": "Decreto con el que se añade el nombre de san José en las Plegarias Eucarísticas II, III y IV del Misal Romano, 1 de mayo de 2013",
+    "fr": "Décret pour la mention du nom divin de saint Joseph dans les prières eucharistiques II, III, IV du Missel Romain, 1er mai 2013",
+    "it": "Decreto per la menzione del nome divino di San Giuseppe nelle Preghiere Eucaristiche II, III, IV del Messale Romano, 1° maggio 2013",
+    "pl": "Dekret, 1 maja 2013"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2013-05-01",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2013-05-01"
+  },
+  "composed": "2013",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20130501_san-giuseppe_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20130501_san-giuseppe_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20130501_san-giuseppe_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20130501_san-giuseppe_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20130501_san-giuseppe_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20130501_san-giuseppe_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20130501_san-giuseppe_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20130501_san-giuseppe_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decretum, die 1 mensis Maii anno 2013",
+        "en-US": "Decree regarding the mention of the divine name of St. Joseph in the Eucharistic Prayers II, III, and IV of the Roman Missal, 1st May 2013",
+        "pt-BR": "Decreto com o qual se acrescenta o nome de São José nas Orações Eucarísticas II, III e IV do Missal Romano, 1º de maio de 2013",
+        "de": "Dekret über die Hinzufügung des Namens des hl. Josef in den eucharistischen Gebeten II, III, IV des Missale Romanum",
+        "es": "Decreto con el que se añade el nombre de san José en las Plegarias Eucarísticas II, III y IV del Misal Romano, 1 de mayo de 2013",
+        "fr": "Décret pour la mention du nom divin de saint Joseph dans les prières eucharistiques II, III, IV du Missel Romain, 1er mai 2013",
+        "it": "Decreto per la menzione del nome divino di San Giuseppe nelle Preghiere Eucaristiche II, III, IV del Messale Romano, 1° maggio 2013",
+        "pl": "Dekret, 1 maja 2013"
+      }
+    }
+  ]
+}

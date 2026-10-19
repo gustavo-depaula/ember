@@ -43,5 +43,3 @@ Vobis demum Benedictionem Apostolicam amantissime in Domino impertimus.
 *Ex Aedibus Vaticanis, die VI mensis Ianuarii, in Sollemnitate Epiphaniae Domini, anno MCMLXXXII, Pontificatus nostri quarto.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1982 - Libreria Editrice Vaticana

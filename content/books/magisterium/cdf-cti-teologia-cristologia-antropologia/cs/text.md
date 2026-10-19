@@ -1,7 +1,241 @@
 # Teologie – Christologie – Antropologie, 1982
 
-[TABLE]
+[](/index.htm)
 
-1. V EV 8 nacházíme následující sdělení: Závěrečná relace: plenární zasedání 1981, říjen 1982; *Gregorianum* 64, 1983, s. 5–24. Italský překlad s úpravami in *Civiltà Cattolica* 1. 1. 1983, s. 50–65.
+[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
 
-2. Nemohli jsme dostatečně pojednat o třetím tématu, jímž je lidské vědění a vědomí Ježíše Krista. Doufáme, že toto téma bude napříště předmětem dalšího studia.
+[](javascript:history.go(-1))
+
+[](#)
+
+------------------------------------------------------------------------
+
+MEZINÁRODNÍ TEOLOGICKÁ KOMISE
+
+**TEOLOGIE – CHRISTOLOGIE – ANTROPOLOGIE**
+
+\(1982\)
+
+** **
+
+[Úvod](#Úvod)
+
+I. [Základ a kontext christologie](#Základ_a_kontext_christologie)
+
+[I.A. Ekonomie Ježíše Krista a zjevení Boha](#I.A._Ekonomie_Ježíše_Krista_a_zjevení_Boha)
+
+[I.B. Poměr mezi teocentrismem a christocentrismem](#I.B._Poměr_mezi_teocentrismem_a_christocentrismem)
+
+[I.C. Christologie a zjevení Trojice](#I.C._Christologie_a_zjevení_Trojice)
+
+[I.D. Poměr mezi christologií a antropologií](#I.D._Poměr_mezi_christologií_a_antropologií)
+
+[I.E. Boží obraz v člověku čili křesťanský smysl „divinizace" člověka](#I.E._Boží_obraz_v_člověku_čili_křesťanský_smysl_„zbožštění_člověka)
+
+II\. [Některé důležitější body v aktuální christologické reflexi](#Některé_důležitější_body_v_aktuální_christologické_reflexi)
+
+[II.A. Problém preexistence Ježíše Krista](#II.A._Problém_preexistence_Ježíše_Krista)
+
+[II.B. Trinitární aspekt kříže Ježíše Krista neboli problém „Božího utrpení](#II.B._Trinitární_aspekt_kříže_Ježíše_Krista_neboli_problém_„Božího_utrpení)"
+
+[Závěr](#Závěr)
+
+Teologie – Christologie – Antropologie
+
+(Desiderium et cognitio Dei)
+
+\(1981\) [^1]
+
+Úvod
+
+\(404\) Mezinárodní teologická komise již od prvního plenárního zasedání v roce 1979 zaměřila svou práci na christologii a následně v roce 1980 publikovala závěrečný dokument (srov. latinský text *Quaestiones selectae de christologia*, in *Gregorianum* 61, 1980, s. 609–632; EV 7, čl. 631–694; řada překladů do národních jazyků). Po vypršení druhého pětiletého období činnosti MTK (1974–1979) došlo v říjnu 1980 k částečné obměně jejích členů. Většina, což platí především o nově zvolených členech, rozhodla pokračovat ve studiu christologie. MTK měla sice naprostou volnost diskutovat jakoukoli otázku z oblasti christologie, nicméně z opatrnosti a kvůli tomu, aby se nemrhalo časem a energií, nakonec dospěla k rozhodnutí, že nebude pouze znovu promýšlet obsah již publikovaného dokumentu.
+
+\(405\) Úkolem plenárního zasedání v roce 1981 bylo hledání dalších záměrů a doplňujících aspektů. Pročež bude především vyložena otázka sepětí mezi christologií a celkem našeho vypovídání o Bohu spolu s křesťanskou vírou v trojičního Boha. Po ozřejmení těchto základních bodů bude vymezen poměr mezi christologií a antropologií. Dále pak se zaměříme na dvě otázky, které jsou těsně spjaty se základy christologie, jež si však vyžadují, aby byly pojednány specifickým způsobem. Jedná se o Kristovu preexistenci a o dnes diskutovanou otázku „utrpení Boha.“ Dvě zmíněné tématiky skýtají příklad toho, jak se aktuální problémy a klasické odpovědi mohou vzájemně osvětlovat v rámci plodného dialogu.
+
+V této perspektivě by dva dokumenty věnované christologii jakožto plody prvního respektive druhého zasedání mohly být bezesporu vnímány jako jeden celek, což bude moci posoudit sám shovívavý čtenář.
+
+I. Základ a kontext christologie
+
+\(406\) Ten, kdo provádí reflexi v oblasti christologie, musí brát na zřetel její kontext, tedy touhu po Bohu a poznání Boha ze strany člověka, zjevení trojičního Boha a obraz člověka, který vyplývá jak ze současných antropologických koncepci, tak ze samotného vtělení Ježíše Krista. Bez odpovídající přípravy věnované těmto základním prvkům je samotná stavba christologie vystavena určitému riziku.
+
+Kromě toho se zatemňuje jasnost důsledků, které z toho mají vyplývat pro vypracování nauky o člověku. Z uvedených důvodů je třeba vrhnout nové světlo na komplexní horizont, do něhož je situována každá christologie.
+
+I.A. Ekonomie Ježíše Krista a zjevení Boha
+
+\(407\) 1. Jaký poměr existuje mezi christologií a problematikou zjevení Boha? Abychom vyloučili při výkladu této látky jakékoli *směšování* a *oddělování*, budeme se držet dvou vzájemně se doplňujících cest, jedná se o cestu, která sestupuje od Boha k Ježíšovi, a o cestu, která vystupuje od Ježíše k Bohu.
+
+\(408\) 1.1. Vytváří se *směšování* mezi christologií a vnímáním Boha, když se předpokládá, že mimo Ježíše Krista jméno Boží nemá žádný smysl a že neexistuje jiná teologie mimo té, která pramení z křesťanského zjevení. Postupuje-li se tímto způsobem, nerespektuje se tajemství stvořeného člověka, v němž se v průběhu celých jeho dějin rodí přirozená touha po Bohu a v jehož duši rozličná náboženství a filosofické nauky odhalují určité předběžné poznání Boha. Zároveň se v takovém případě opomíjí důležitost Božích stop přítomných ve stvoření (srov. Řím 1, 20). Současně se takto vedená reflexe dostává do rozporu: s ekonomií, podle níž zjevení jediného Boha bylo dáno Izraeli, vyvolenému národu, tedy s ekonomií, kterou církev uznávala již od svého počátku a napořád; s Ježíšovým teocentrickým postojem, podle něhož Bůh Abrahámův, Izákův Jákobův je jeho Otcem. Konečně vzniká velká dvojznačnost v tom, jak se má vnímat vyznání víry: „Ježíš Kristus je Boží Syn.“ Tato dvojznačnost by nakonec mohla vést k ateistické christologii.
+
+\(409\) 1.2. Pokud se jedná o *oddělování* mezi christologií a vnímáním zjeveného Boha, pak platí, že všude tam, kde se zmíněné oddělování projevuje v celku teologie, což často vede k mínění, podle něhož představa Boha vypracovaná filosofickou moudrostí sama stačí k reflexi o zjevené víře. Tímto způsobem se zneuznávají jak originalita zjevení, jímž byl obdařen izraelský národ, tak ještě zásadnější novost, jíž se vyznačuje křesťanská víra, čímž se umenšuje význam události Ježíše Krista. Tato separace paradoxně může člověka uvádět do přesvědčení, že christologické bádání si stačí samo pro sebe, aniž by bylo třeba činit jakoukoli zmínku o Bohu.
+
+\(410\) 2. Zdá se, že zde můžeme s příslušnými přizpůsobeními uplatňovat kritérium vyjádřeným v chalkedonské definici: Mezi christologií a problémem Boha je třeba rozlišovat, a to bez směšování a oddělování. Zároveň shledáváme rozlišení mezi dvěma epochami zjevení, které spolu vzájemně korespondují. První spočívá v univerzálním zjevování, které Bůh o sobě dává v prvopočátečním stvoření. Druhá tkví v osobnějším zjevení, které postupuje v dějinách spásy od povolání Abraháma až k události Ježíše Krista, Syna Božího.
+
+\(411\) 3. Z uvedeného důvodu platí, že cesta, která směřuje k chápání Ježíše ve světle představy Boha, a cesta, která v Ježíšovi odhaluje Boha, se vzájemně implikují.
+
+\(412\) 3.1. Na jedné straně platí, že věřící by nemohl v Ježíšovi rozpoznat plné zjevení Boha jinak nežli ve světle předběžného poznání Boha a touhy po něm, jež jsou přítomny v srdci člověka. Odedávna toto světlo září, i když není prosto omylů, v náboženstvích různých národů a v bádání filosofů. Toto světlo se projevuje již prostřednictvím zjevení jediného Boha ve Starém zákoně a je i dnes přítomno v povědomí současných lidí, a to navzdory nakažlivosti ateismu. S tímto světlem se setkáváme v touze po absolutních hodnotách, jako je spravedlnost nebo solidarita. Kromě toho se toto světlo předpokládá ve vyznání víry: „Ježíš Kristus je Syn Boží.“
+
+\(413\) 3.2.Na druhé straně je třeba jít ještě dál. Zároveň je totiž nutno s plnou pokorou přiznat jednak to, že víra a život křesťanů není dostatečně v souladu s tímto absolutně zdarma darovaným zjevením, jež nachází své naplnění v Ježíši Kristu, jednak to, že zjevené tajemství překračuje všechny druhy teologických výpovědí. Tajemství Boha, jak bylo definitivně zjeveno v Ježíši Kristu, zahrnuje nezměrné bohatství (srov. Ef 3, 8), jež přesahuje, ba transcenduje myšlenky a touhy filosofického ducha a náboženského ducha, když jsou ponecháni svým vlastním silám. Všechno to pravdivé, co může obsahovat filosofický duch a náboženský duch, toto zjevené tajemství v sobě zahrnuje, potvrzuje a přivádí to k naplnění, před nejvznešenějšími lidskými intuicemi toto naplnění otvírá cestu k Bohu, jenž je vždy větší. Toto zjevené tajemství napravuje omyly a scestnosti, s nimiž se ve zmíněných intuicích setkáváme, a tak přivádí člověka na přímé a široké cesty, po nichž člověk v touze pátrá. Tak tedy tajemství víry, do něhož lidská inteligence může vždy pronikat ještě hlouběji, zahrnuje a propojuje náboženské intuice a zkušenosti lidstva, a to takovým způsobem, aby se stále lépe realizoval katolický ráz víry.
+
+\(414\) 3.3. Ježíš Kristus, v němž vrcholí zjevení probíhající v celých dějinách spásy, totiž vyjevuje tajemství Boha, jehož trojiční život je pramenem sdílení, jež je plně láskou, jak v něm samotném, tak vůči nám. Tento Bůh, již zjevený ve Starém zákoně a definitivně hlásaný Ježíšem Kristem, se připodobnil člověku (srov. Dt 4, 7; KLEMENT ALEXANDRIJSKÝ, *Strom.* II, 5, 4).
+
+V určitých náboženstvích lidstva je to spíše člověk, kdo hledá Boha, zatímco ve zjevení je to především Bůh, kdo hledá člověka a miluje ho z hloubi srdce. Takovéto zjištění, které překračuje jakékoli předběžné poznání Boha, a tak představuje jeho naplnění překračující všechny lidské schopnosti, je implicitně přítomno ve vyznání víry: „Ježíš Kristus je Syn Boží.“
+
+I.B. Poměr mezi teocentrismem a christocentrismem
+
+\(415\) 1. V současné západní teologii (na tomto místě odhlížíme od středověké teologie) se otázkou, o níž pojednáváme, zabývá také diskuse vedená v jiných termínech, jedná se o „teocentrismus“ a „christocentrismus“. Uvedené výrazy umožňují formulovat otázku následujícím způsobem: Vlastním a bezprostředním předmětem teologie je Bůh, anebo Ježíš Kristus? K tomuto problému přistoupíme tak, že formálně a logicky vymezíme poměr mezi teocentrismem a christocentrismem. Materiálně odpovídáme na položenou otázku prostřednictvím jak předchozích, tak následujících úvah.
+
+\(416\) 1.1. Ve skutečnosti daná otázka spočívá na falešném základě, jestliže se v teocentrismu postaveném do protikladu k christocentrismu skrývá teismus, jenž zpochybňuje možnost nebo skutečnost zjevení, anebo nebere na zřetel záležitost tohoto druhu. K tomu je třeba říci z jedné strany, že v opravdu přirozeném teismu není nic, co by bylo v rozporu s christocentrismem; z druhé strany, že křesťanský teocentrimus (zjevený, trinitární) a christocentrimus jsou ve skutečnosti naprostou jednotou.
+
+\(417\) 1.2. Křesťanský teocentrismus spočívá právě ve vyznání trojičního Boha, jehož jsme mohli poznat jedině prostřednictvím zjevení Ježíše Krista. Takže na jedné straně nás poznání Ježíše Krista přivádí k poznání Trojice a dosahuje tak svého naplnění, na druhé straně není dáno poznání trojičního Boha jinak nežli v samotném poznání Ježíše Krista. Z toho vyplývá, že se nesmí dělat žádné rozlišování mezi teocentrismem a christocentrismem, neboť oba termíny označují identickou skutečnost.
+
+\(418\) 1.3. Když ponecháme stranou méně adekvátní výrazové formy, pak christocentrismus je vlastním znakem christologie, předmětem jejíhož zájmu je Ježíš z Nazareta, christologie, jejímž nejhlubším záměrem je vyjadřovat Ježíšovu „jedinečnost“. Tato Ježíšova jedinečnost je přímo v souladu se zjevením Trojice, neboť ona se na jedné straně definuje prostřednictvím specifického vztahu samotného Ježíše k Otci a k Duchu svatému a následně na straně druhé prostřednictvím specifického stavu, v němž Ježíš existuje *s* lidmi a *pro* lidi.
+
+\(419\) 2. Křesťanský teismus nevylučuje přirozený teismus, ba v jistém slova smyslu ho předpokládá, neboť jeho pramen se nachází v Bohu, jenž se zjevil díky absolutně svobodnému rozhodnutí své vůle. Přirozený teismus tedy niterně závisí na lidském rozumu, jak tomu učí I. vatikánský konci (srov. DSH 3004, 3026).
+
+\(420\) 3. Přirozený teismus nesmí být směšován se starozákon-ním teismem/monoteismem ani s různými historickými formami teismu, které vyznávají nekřesťané ve svých náboženstvích. Starozákonní monoteismus vděčí za svůj původ nadpřirozenému zjevení, a tak se nachází v niterném poměru s trojičním zjevením.
+
+Historické formy teismu se zrodily nikoli z „čiré přirozenosti“, nýbrž z přirozenosti zatížené hříchem, kterou Ježíš Kristus objektivně vykoupil a povznesl k nadpřirozenému údělu.
+
+I.C. Christologie a zjevení Trojice
+
+\(421\) 1. Ekonomie Ježíše Krista zjevuje trojičního Boha, jenomže Ježíše Krista můžeme poznat v jeho poslání jedině do té míry, v jaké rozumíme dobře specifickému charakteru přítomnosti Boha v něm. Proto teocentrismus a christocentrismus se osvětlují a implikují navzájem. Zbývá však ještě otázka poměru mezi christologií a zjevením trojičního Boha.
+
+\(422\) 1.1. Podle svědectví Nového zákona tradice starověké církve vždy považovala za jisté to, že prostřednictvím příchodu Ježíše Krista a prostřednictvím daru Ducha svatého se nám Bůh zjevil takový, jaký je. On je sám v sobě takový, jaký se nám zjevil: „Filipe ... kdo vidí mne, vidí Otce“ (Jan 14, 9).
+
+\(423\) 1.2. V důsledku toho platí, že jaká jsou tři jména Boží, která se projevují v ekonomii spásy, taková jsou rovněž v „teologii“, tedy podle pojetí řeckých církevních otců ve vědění, jež máme ohledně věčného Božího života. Pro nás je tato ekonomie spásy jediným a definitivním zdrojem veškerého poznání ohledně tajemství Trojice. Vypracování trinitární nauky vychází z ekonomie spásy.
+
+Věčná a imanentní Trojice je ze své strany nutným předpokladem ekonomické Trojice. Teologie i katecheze musejí učinit zadost tomuto údaji prvotní víry.
+
+\(424\) 2. Nuže tedy základní axiom dnešní teologie se vyjadřuje velmi korektně v následujícím tvrzení: Trojice, která se zjevuje v ekonomii spásy, je imanentní Trojice. Je to imanentní Trojice, která se sděluje svobodně a milostivě v ekonomii spásy.
+
+\(425\) 2.1. V důsledku toho se v teologii a v katechezi vyloučí každý druh *oddělování* mezi christologií a trinitární teologií. Tajemství Ježíše Krista se nachází v trinitární struktuře. Oddělování, které pranýřujeme, může nabývat jak neoscholastické, tak i moderní podoby. Určití představitelé tak zvané neoscholastiky dospěli k tomu, že izolují nahlížení Trojice od celku křesťanského tajemství a že na tajemství Trojice neberou zřetel ve svém pojímání vtělení a zbožštění člověka. Někdy se zcela opomíjel důraz na důležitost Trojice, a to jak v celku pravd víry, tak v křesťanském životě.
+
+Ve své moderní podobě toto oddělování představuje určitou oponu mezi lidmi a věčnou Trojicí, jako kdyby křesťanské zjevení nevybízelo člověka k poznání trojičního Boha a k účasti na jeho životě. Tato forma smýšlení vede k určitému druhu nepřijatelného „agnosticismu“ vzhledem k tomu, co se týká věčné Trojice. Jestliže Bůh je větší než všechno, co o něm můžeme vědět, pak nás křesťanské zjevení ujišťuje, že toto „víc“ je vždy trinitární.
+
+\(426\) 2.2. Stejně tak je ale třeba se varovat každého bezprostředního směšování mezi událostí Ježíše Krista a Trojicí. Není pravda, že Trojice by se ustavila jedině v dějinách spásy skrze vtělení, kříž a vzkříšení Ježíše Krista téměř tak, jako kdyby Bůh měl zapotřebí určitého dějinného procesu k tomu, aby se stal trojičním. Je tudíž třeba zachovávat rozlišení na jedné straně mezi imanentní Trojicí, kde je svoboda identická s nezbytností ve věčné Boží esenci, a na straně druhé trojiční ekonomií, kde Bůh uplatňuje absolutním způsobem svou svobodu, aniž by byl vystaven jakékoli nezbytnosti ze strany přirozenosti.
+
+\(427\) 3. Rozlišování mezi imanentní Trojicí a ekonomickou Trojicí je v souladu se skutečnou identitou mezi nimi. Zmíněné distinkce se tedy nebude používat k tomu, aby se ospravedlňovaly nové typy oddělování, ale bude se vnímat podle trojího kroku tvrzení, popření a nejvyšší míry. Ekonomie spásy ukazuje, že věčný Syn přijímá do svého vlastního života „kenotickou“ událost narození, lidského života a smrti na kříži. Tato událost, v níž se Bůh zjevuje a sdílí absolutním a definitivním způsobem, se určitým způsobem týká i vlastního bytí Boha Otce, neboť on je Bohem, jenž uskutečňuje tato tajemství a prožívá je jako své vlastní v jednotě se Synem a s Duchem svatým. V tajemství Ježíše Krista se nám totiž Bůh Otec nejenom svobodně a milostivě zjevuje a sdílí skrze Syna a v Duchu svatém, ale Otec rovněž vede se Synem a Duchem svatým – alespoň podle způsobu našeho myšlení – trojiční život hluboce a taktéž do jisté míry novým způsobem, neboť vztah Otce k vtělenému Synovi v naplnění daru Ducha svatého je tentýž konstitutivní vztah Trojice. Ve vnitřním životě trojičního Boha existuje předpoklad možnosti těchto událostí, které nám nepochopitelná Boží svoboda nabízí v dějinách spásy díky Pánu Ježíši Kristu.
+
+Velké události Ježíšova života tedy pro nás zřetelně překládají a o novou působnost v náš prospěch obohacují dialog věčného plození, v němž Otec říká Synovi: „Ty jsi můj Syn, já jsem tě dnes zplodil“ (srov. Žl 2, 7; Sk 13, 33; Žid 1, 5; 5, 5 a rovněž Lk 3, 22).
+
+I.D. Poměr mezi christologií a antropologií
+
+\(428\) 1. Moderní christologie se často zakládala a strukturovala nikoli tolik v teologii trojičního Boha, jako spíše v antropologii, která představovala nový princip chápání, což platí především na poli soteriologie. Za cíl vykoupení se považovala spíše humanizace člověka nežli jeho zbožštění. Prostřednictvím zmíněného vývoje krize metafyziky, která se již projevovala na poli filosofie, zasáhla samotné srdce teologie. Právě z toho vzchází velmi závažný důsledek, který se zřetelně projevuje v moderní teologii, totiž značná nevyváženost mezi „ontologickým“ přístupem a čistě „funkcionálním“ přístupem (podle mínění některých by měla být bližší biblickému způsobu myšlení). V dané situaci před námi leží úkol vymezit novým způsobem poměr mezi antropologií a christologií na základě jejich vzájemné analogičnosti. Kromě toho budeme muset věnovat samostatný bod problému zbožštění člověka (viz níže oddíl E), k němuž je třeba přistupovat z hlediska, který dané tematice odpovídá.
+
+\(429\) Zvěst, jejímž předmětem je Ježíš Kristus, Syn Boží, se v Bibli předkládá ve formě „pro vás“, pročež platí, že celou christologii je třeba pojímat z hlediska soteriologie. V určitém slova smyslu je tudíž oprávněné, že se někteří moderní autoři pokusili vypracovat „funkcionální“ christologii. Z druhé strany viděno je však zase třeba přiznat, že Ježíšovu „existenci pro druhé“ nelze oddělovat od jeho vztahu k Otci, ani od jeho niterného společenství s ním, v důsledku čehož se proto musí zakládat na jeho věčném synovství. „Pro-existence“ Ježíše Krista, jejímž prostřednictvím se sám Bůh sděluje lidem, předpokládá jeho preexistenci. V opačném případě by se zvěst o Ježíši Kristu jako o Spasiteli stala čirou fikcí a iluzí a nemohla by se ubránit proti moderní námitce, že se jedná pouze o určitou ideologii. Klást si otázku, zda christologie má být ontologická, nebo funkcionální, znamená vytvářet klamné dilema.
+
+\(430\) 2. Antropologický aspekt christologie může být vnímán na základě biblické typologie „Adam – Kristus“ (srov. Řím 5, 12–21; 1 Kor 15, 45–49) trojím způsobem:
+
+2.1. Člověk je od Boha, svého stvořitele, obdařen svobodou. Víra tudíž předpokládá, že člověk má schopnost, aby odpověděl Bohu a aby se mu otevřel. Proto christologie vyžaduje antropologii. Z uvedených důvodů teologie podle nauky II. vatikánského koncilu musí přiznávat člověku a světu relativní autonomii, která odpovídá statutu druhé příčiny a která se zakládá na vztahu tvora k Bohu stvořiteli. Teologie tudíž musí nejen přiznávat vědám spravedlivou autonomii (srov. GS čl. 36; 41; 56; LG čl. 36; AA čl. 7), ba musí v pozitivním slova smyslu přijmout důraz kladený v naší epoše na antropologii. Křesťanská víra musí projevovat svůj vlastní charakter tím, že bude bránit a vysoce hodnotit transcendenci, což je charakteristika vlastní lidské osobě (srov. LG čl. 76).
+
+\(431\) 2.2. Evangelium Ježíše Krista se neomezuje pouze na to, že by předpokládalo existenci a esenci člověka, nýbrž přináší člověku jeho plné dovršení. To, co všichni lidé hledají, po čem touží a več přinejmenším implicitně doufají, má natolik transcendentní povahu a je natolik nekonečné, že to lze nalézt jedině v Bohu. Pravá humanizace člověka nachází svůj vrchol v jeho divinizaci na základě milosti, tedy v přátelství a společenství s Bohem, které činí z člověka Boží chrám, neboť v něm přebývají Otec, Syn a Duch svatý. Klanění Bohu a jeho uctívání, zejména pak eucharistická úcta, činí člověka opravdu lidským. Proto také v Ježíši Kristu, jenž je zároveň Bůh i člověk, člověk dosahuje své eschatologické plnosti. Výlučně v Ježíši Kristu dospíváme k měřítku plnosti zralého lidství (srov. Ef 4, 13). Jedině v Ježíši Kristu se konkrétně nachází neomezená otevřenost člověka, především pak platí, že v něm je nám plně zjeveno tajemství člověka a vznešenost jeho povolání (srov. GS čl. 22). Milost Ježíše Krista bohatě naplňuje hluboké touhy člověka, ba dokonce i ty touhy, které překračují meze lidských sil.
+
+Dějiny spásy prožívané izraelským národem představují typ lidské naděje, již Bůh nezklame, i když věrné a nesmírně štědré naplnění Božích přislíbení postupuje po nových a leckdy nepředvídatelných cestách.
+
+\(432\) 2.3. Christologická vymezení a christologické dokonalosti člověka kladou otazník za absolutní autonomií, kterou si pro sebe zvolil hříšník. Proto také platí, že zvěstování evangelia nelze oddělovat od zvěstování soudu a od výzvy k obrácení. Sám kříž, skrze nějž jsme byli spaseni, vyjadřuje Boží soud nad každým hříchem. Kráčet po cestě kříže a žít ve společenství s ukřižovaným Ježíšem Kristem, neznamená zničení člověka, může však znamenat likvidaci mnoha forem odcizení, které je vposledku důsledkem moci hříchu, otroctví zákona a smrti. Kříž je znamením svobody, k níž nás Ježíš Kristus povolal (srov. Gal 5, 1.13), a také nám tuto svobodu přináší. Z uvedeného důvodu Pánova pascha, tedy naše účast na kříži a vzkříšení Ježíš Krista, představuje tu pravou cestu, která přivádí člověka k jeho dokonalosti.
+
+\(433\) 3. V těchto třech pohledech na člověka, které nám christologie nabízí, se tajemství Boha a člověka projevuje ve světě jako tajemství lásky. Ve světle křesťanské víry je možno z toho vyvodit novou globální vizi universa. Ačkoli tato vize podrobuje kritickému zkoumání přání dnešního člověka, přece však stvrzuje jeho důležitost, očišťuje ho a překračuje ho.
+
+V jádru takovéto „metafyziky lásky“ už nenacházíme především podstatu jako v antické filosofii, nýbrž osobu, jejíž nejdokonalejším a úkonem je láska, která je také s to přivádět osobu k dokonalosti.
+
+\(434\) Podobná prorocká nebo christologická interpretace skutečnosti dále nabývá zásadního významu při aplikaci osobních i sociálních morálních přikázání. Zvěstování víry musí předpokládat určitou relativní autonomii lidského chování (srov. Řím 2, 14nn.), nicméně zároveň se k nim musí stavět kriticky a aplikovat na ně měřítko, jímž je sám Ježíš Kristus, aby tak toto zvěstování sloužilo lidské důstojnosti a současně také spravedlnosti v lidské společnosti. Konečně toto zvěstování musí překonávat spravedlnost křesťanskou láskou, která je duší pravé spravedlnosti. Tímto způsobem se pokřesťanšťuje étos, jenž může nabývat mnoha výrazů. Ze samotného evangelia Ježíše Krista proto oprávněně vyplývá právo budovat v dějinách světa „civilizaci lásky“.
+
+I.E. Boží obraz v člověku čili křesťanský smysl „zbožštění" člověka
+
+\(435\) 1. „Slovo se učinilo tělem, aby se člověk mohl stát Bohem“ (ATHANASIOS, *De incarnatione* 54, 3). Tento axiom soteriologie církevních otců, zejména těch řeckých, bývá dnes z řady důvodů popírán. Někteří zastávají mínění, že „divinizace“ představuje typicky helénistický koncept spásy, který by mohl vést k úniku z lidské reality a směřovat k popírání člověka. V očích těchto lidí zbožštění odstraňuje distanci mezi Bohem a člověkem a vede k jejich smíšení a nerozlišování. Někdy se proti výroku církevních otců staví jiný výrok, který je považován za vhodnější pro naši dobu: „Bůh se učinil člověkem, aby se člověk stal humánnějším.“ Je nesporné že výrazy: *deificatio, theósis, theopoiésis, homoiósis theó* atd. v sobě skrývají určitou dvojznačnost. Proto je vhodné krátce vysvětlit autenticky křesťanský význam „zbožštění“ a osvětlit při tom jeho hlavní aspekty.
+
+\(436\) 2. Je skutečností, že řecká filosofie a řecké náboženství uznávaly „přirozenou“ příbuznost mezi lidským duchem a božským duchem, zatímco biblické zjevení pojednává o člověku jasně jako tvorovi, který směřuje k Bohu prostřednictvím kontemplace a lásky. Člověk se stává spřízněn s Bohem ne tolik na základě svých intelektuálních schopností, jako spíše kvůli obrácení srdce, kvůli nové poslušnosti v oblasti mravního jednání, což člověk dostává na základě Boží milosti. Jedině prostřednictvím milosti člověk, který je předmětem Božího povolání, může dospět k tomu, čím je Bůh na základě přirozenosti.
+
+\(437\) 3. K těmto základním myšlenkovým liniím se připojují argumenty z oblasti křesťanského hlásání. Jakožto stvořený k obrazu a podobě Boží je člověk pozván ke společenství života s Bohem, jenž je jediný, kdo může uspokojit ty nejhlubší lidské aspirace. Myšlenka zbožštění dosahuje svého vrcholného uskutečnění ve vtělení Ježíše Krista. Slovo přijímá naše smrtelné tělo proto, abychom osvobozeni z hříchu a smrti měli účast na božském životě. Díky Ježíši Kristu a v Duchu svatém jsme syny, a proto také spoludědicové (srov. Řím 8, 17) a máme účast na Boží přirozenosti (2 Petr 1, 4). Zbožštění spočívá právě v této milosti, která nás osvobozuje ze smrti hříchu a daruje nám božský život. Jsme totiž synové a dcery v Synu.
+
+\(438\) 4. Opravdu křesťanský význam tohoto tvrzení se stává ještě hlubším ve světle tajemství Ježíše Krista. Jako totiž vtělení neproměňuje, ani neničí božskou přirozenost Slova, tak také božství neproměňuje, ani neničí lidskou přirozenost Ježíše Krista. Ve skutečnosti tuto lidskou přirozenost posiluje a přivádí k dokonalosti v jejím původním stavu stvořenosti. Vykoupení neznamená proměnu lidské přirozenosti v něco božského, nýbrž ji pozvedá podle měřítka, jímž je sám Ježíš Kristus.
+
+V myšlení Maxima Vyznavače je tato idea poznamenána svrchovanou zkušenosti Ježíše Krista, tedy jeho utrpením a jeho opuštěností, již zakusil ze strany Boha. Čím hlubší účast chtěl mít Ježíš Kristus na lidské bídě, tím více se člověk povznáší k účasti na božském životě.
+
+Když je tedy zbožštění takto správně pojímáno, pak činí člověka dokonale lidským. Zbožštění je pravou a nejvyšší „humanizací“ člověka.
+
+\(439\) 5. Spodobení, které člověka zbožšťuje, se neodehrává bez milosti Ježíše Krista. Ta se uděluje přednostně prostřednictvím svátostí církve. Tyto svátosti nás účinně sjednocují se Spasitelovou bohoformní milostí, a to viditelným způsobem a pomocí symbolů vzatých z našeho pozemského života (srov. LG čl. 7). Dodáváme, že zbožštění se dává nikoli jednotlivci jako takovému, nýbrž jakožto příslušníku společenství svatých, v Duchu svatém se dokonce pozvání milosti Boží rozšiřuje na celý lidský rod. Je tedy na křesťanech, aby svým životem potvrzovali a rozvíjeli posvěcení, které přijali (srov. LG čl. 39–42). Zbožštění dosahuje své dokonalosti jedině v patření na trojičního Boha, které s sebou nese blaženost ve společenství svatých.
+
+II\. Některé důležitější body v aktuální christologické reflexi
+
+\(440\) Na předešlých stránkách jsme vyložili základ christologie z hlediska jejích trinitárních a antropologických rozměrů. Zůstávají však některé další problémy, o nichž je třeba pojednat méně obšírně, ovšem konkrétně a jasně. Vybíráme z nich dva, v první případě se jedná o „preexistenci“ Ježíše Krista, což je otázka nacházející se na pomezí mezi christologií a trinitární teologií, ve druhém případě se jedná o neměnnost Boží a o jeho „utrpení.“ To jsou také problémy, které v současných debatách hrají velmi důležitou roli. [^2]
+
+II.A. Problém preexistence Ježíše Krista
+
+\(441\) 1. Dokud se klasická christologie mohla opírat o trinitární teologii, preexistence Ježíšovy božské přirozenosti nepředstavovala velké problémy. Jenomže současné bádání si bere jako výchozí bod a měřítko zejména Ježíšův pozemský život, který pak nahlíží pod zorným úhlem kritické metody (srov. *Vybrané otázky z christologie* I.A. a B). Z uvedeného důvodu se v této preexistenci často spatřuje koncepce, která je cizorodá vzhledem k biblické a náboženské víře, hodnotí se jako „pořečtění“ nebo jako spekulace, jako mýtus, tedy jako znehodnocení opravdové Ježíšovy lidské přirozenosti. Někteří proto tvrdí, že tuto myšlenku není třeba přijímat doslovně a že postačuje chápat ji prostě jako symbolické vyjádření. Ve výpovědi o Kristově preexistenci by tito lidé spatřovali pouze vyjádření či „přetlumočení“ Ježíšova absolutně jedinečného charakteru, jeho nezaměnitelné originality, jeho transcendence vzhledem ke světu a dějinám, neboť Ježíš by pak podle nich neměl vnitrosvětský původ. Zdá se, že v těchto současných teoriích je myšlenka preexistence zbavována významu a rozmělňována.
+
+\(442\) 2. Pokusy vysvětlovat biblická tvrzení o preexistenci Ježíše Krista, které vycházely z mytologických, helénistických a gnostických pramenů, se ukázaly být marné. Naproti tomu dnes vystupují do popředí analogie, které se nacházejí v intertestamentární literatuře (srov. *Aeth. Hen.* 48, 3.6; *Esd* 13) a především stimuly, které pocházejí ze starozákonní mudroslovné teologie (srov. Přís 8, 22nn.; Sir 24). Kromě toho se přisuzuje velká důležitost vnitřním důvodům, které podpořily rozvoj biblické christologie, jedná se o jedinečný a specifický Ježíšův vztah k Otci (*Abba*, jak říká Ježíš), jedinečné poslání Syna a jeho slavné vzkříšení. Ve světle povýšení Ježíše Krista se jasně a definitivním způsobem chápe jeho původ. Jelikož sedí po pravici Boha, tedy ve stavu post-existence (= po pozemské existenci), preexistuje „již od počátku“ u Boha a před svým příchodem do světa. Od eschatologické události Ježíše Krista se přechází protologickému významu, a naopak. Synovo jedinečné poslání (srov. Mk 12, 1–12) je neoddělitelné od osoby Ježíše Krista, jenž od Otce přijal nejen časový a vymezený prorocký úkol, nýbrž také svůj s Otcem souvěčný původ. Boží Syn přijal všechno věčně od Boha Otce. Konečně je třeba vzít v potaz eschatologicko–soteriologickou perspektivu. Ježíš Kristus by nás nemohl uvést do věčného života, pokud by on sám nebyl „věčný“. Eschatologická zvěst a eschatologická nauka předpokládají preexistenci Ježíše Krista i božskou preexistenci.
+
+\(443\) To, že Ježíš má původ v Otci, není nějaká dedukce, která by vyplývala z pozdější reflexe křesťanů. Ježíšova slova, jeho modlitba a jeho chování jasně dokládají, že on se v celé své existenci bez váhání nahlíží jako poslaný Otcem. Tak se přinejmenším implicitně projevuje vědomí, která má Ježíš Kristus ohledně své věčné existence jakožto Syn Boha Otce, jenž „musí“ usmířit s Bohem celý svět. (Jako první a základní prvky je třeba zmínit: »Já« Ježíše Krista v synoptických evangeliích \[»Já však vám pravím«\], slova »Já jsem« ve čtvrtém evangeliu a Ježíšovo »poslání« v četných novozákonních spisech).
+
+3\. Biblické bádání ozřejmilo, jak byl tento původní údaj rozličnými způsoby v novozákonní oblasti postupně rozvíjen. Tak došlo k tomu, že autentický význam Ježíšovy preexistence byl jasně vyjádřen prostřednictvím následujících výroků:
+
+– vyvolení a věčná predestinace Ježíše Krista (srov. Žid 1, 3–7.10n.; 1 Petr 1, 20);
+
+– poslání Božího Syna na svět v těle (srov. Gal 4, 4; Řím 8, 3n.; 1 Tim 3, 16; Jan 3, 16n.);
+
+– kenóze, vtělení, smrt a slavné povýšení Ježíše Krista pojímané jako etapy jeho sestupu od Otce; všechny tyto výroky poukazují na soteriologický a spasitelský význam události Ježíše Krista (srov. také Flp 2, 6–11);
+
+– Ježíš Kristus byl přítomen a působil skrytě již v dějinách izraelského národa (srov. 1 Kor 10, 1–4; Jan 1, 30; 8, 14.58);
+
+– Ježíš Kristus jakožto prostředník stvoření je rovněž tím, kdo uchovává svět v existenci; zároveň je Hlava těla církve a ten, kdo usmiřuje všechno (srov. 1 Kor 8, 6; Kol 1, 15nn.; Jan 1, 1–3; Žid 1, 2n.). Všichni prostředníci, kteří vzbuzovali dojem, že mají spasitelský význam, jsou buď eliminováni, nebo jsou myslitelní jedině jako podřízení Kristu; Ježíš Kristus má absolutní převahu nad všemi ostatními mediacemi a svými dílem i svou osobou představuje eschatologickou událost;
+
+– Ježíš Kristus vykonává vládu nad celým kosmem a všem uděluje vykoupení; toto vykoupení je vnímáno jako nové stvoření (srov. 1 Kol 1, 15nn.; 1 Kor 8, 6; Žid 1, 2n.; Jan 1, 2);
+
+– svým povýšením si Ježíš Kristus začíná podmaňovat mocnosti zla (srov. Flp 2, 10; Kol 1, 16.20).
+
+\(445\) 4. Postbiblický pojem „preexistence“ v sobě tudíž zahrnuje mnoho christologických prvků. Ačkoli se tento pojem jakožto skutečnost zakládá na Písmu svatém, „preexistence“ zde není zmíněna izolovaně a nepředstavuje tudíž jediný účel novozákonních výroků. Jedná se o systematický pojem, který shrnuje různé teologické významy. V mnoha výrocích „preexistence“ představuje spíše pozadí, předpoklad a důvod dalších úvah. Jelikož se tedy nemůžeme spokojit s čistě formálním používáním daného termínu, tak ho nesmíme také aplikovat jednoznačným způsobem, nýbrž analogicky a s opatrností v závislosti na kontextu a s ohledem na rozličnost výše zmíněného obsahového bohatství. Ačkoli je vystaven mnoha různým způsobům pojímání, obsah pojmu „preexistence“ má význam nikoli pouhé „interpretace“, která by byla v posledním důsledku subjektivní, nýbrž rovněž skutečného ontologického původu Ježíše Krista, nečasového původu, který se projevuje v Ježíšově vědomí, jak již bylo řečeno výše. „Preexistence“ chápaná biblicky neznamená pouze to, že Kristus je souvěčný s Bohem, neboť tento termín se vztahuje k celému christologickému tajemství a pohybu, které vycházejí z bytí s Otcem, pojímá do sebe *kenózi* a vtělení, potupnou smrt na kříži a slavné povýšení, konečně se vztahuje k vykoupení všech lidí, ke \[Kristovu\] primátu nad církví, k univerzálnímu a kosmickému smíření. To všechno se předkládá z univerzálního soteriologického a rovněž staurologického hlediska. V zásadě všechny výpovědi o preexistenci Ježíše Krista se vyskytují v hymnickém kontextu, pročež nesou pečeť vyznání a chvály, které se zrodily ze zkušenosti, již církev činí z přítomnosti Boha. Tento soteriologický a doxologický charakter, jenž nevylučuje opravdový ontologický význam, však klade jasné meze oněm formám spekulace ohledně preexistence, které nerespektují zmíněné charakteristiky.
+
+\(446\) 5. Pojem „preexistence“ Ježíše Krista získal větší jasnost díky rozvoji christologické reflexe. Na určitých místech předpona *„pre"* (například „dříve než všechno“, „dříve než Abrahám“) nabývá časového zabarvení, které si uchovává, což odpovídá dějinnému charakteru křesťanské spásy, v posledním důsledku však znamená absolutní a nečasový primát nad veškerým stvořením. Na christologické rovině tato preexistence v Nikajském symbolu (srov. DH č. 125), po ariánské krizi, nabývá definitivní zřejmosti: Boží Syn zplozený Otcem není stvořený, neboť je soupodstatný s Otcem.
+
+\(447\) Tímto způsobem je myšlenka „preexistence“ Ježíše Krista vynikajícím spojujícím bodem mezi christologií a trinitární teologií, jak jsme o tom hovořili výše (srov. I.C. a D). Pravá christologie je nezbytně trinitární. Z druhé strany zase platí, že trinitární teologii je třeba vnímat v sepětí s christologií. Mezi Synem ve věčném životě Božím a Synem v Ježíšově pozemském životě shledáváme velmi těsnou vazbu, ba reálnou identitu, která stojí na jednotě a synovském společenství Ježíše Krista s Bohem Otcem. Preexistenci Ježíše Krista je třeba chápat rovněž z hlediska příběhu Ježíše Krista, především pak z hlediska jeho naplnění ve velikonoční události. Od počátku christologické reflexe preexistence Ježíše Krista, který je souvěčný s Otcem, pokud se nahlíží na základě sestupného pohybu, tedy jakoby shora, byla chápána rovněž v souvislosti se sdílením se Ježíše Krista a s jeho sebedarováním za život světa. Tato souvislost je zakotvena ve věčném synovství Ježíše Krista vzhledem k Otci, díky kterémuž synovství je plozen Otcem, a ustavuje se prostřednictvím biblického pojmu „poslání“. Sebedarování Ježíše Krista za nás a za všechny lidi má spásonosnou hodnotu jedině proto, že se rodí v Bohu, tedy v preexistujícím Otcově Synu. To opětně dokládá soteriologický charakter „preexistence“.
+
+II.B. Trinitární aspekt kříže Ježíše Krista neboli problém „Božího utrpení"
+
+\(448\) V dnešní teologii často dochází k tomu, že se z historických či systematických důvodů zpochybňuje neměnnost Boha a jeho nevystavenost utrpení, což platí především v kontextu teologie kříže. Tak se zrodila různá pojetí „Božího utrpení,“ mezi nimiž je třeba rozlišovat nepřiměřené koncepce od těch prvků, které jsou ve shodě s biblickým zjevením. Jelikož debata o daném problému je ještě v běhu, omezíme se jen na první přístup, který však chce otevřít cestu k řešení této otázky.
+
+\(449\) 1. Zastánci této teologie tvrdí, že jejich myšlenky se nacházejí ve Starém i Novém zákoně i u některých církevních otců. Je však zřejmé, že větší váhu zde má moderní filosofie, tedy přinejmenším ve výstavbě této teorie.
+
+\(450\) 1.1. Hegel byl první, kdo postuloval, že idea Boha, má-li mít svůj plný obsah, musí zahrnovat „utrpení zapříčiněné tím negativním“, čili „tvrdost opuštěnosti“ (*die Härte der Gottlosigkeit*). V Hegelově myšlení tkví základní dvojznačnost: Bůh má, nebo nemá zapotřebí soužení spjatého s vývojem světa? Po Hegelovi protestantští teologové, zastánci tak zvané kenotické myšlenkové linie, a mnozí anglikáni rozvinuli „staurocentrické“ systémy, podle nichž se Synovo utrpení rozličnými způsoby týká celé Trojice a vyjevuje především utrpení Otce, jenž opouští Syna, vždyť „on neušetřil svého vlastního Syna, ale za nás za všecky je vydal“ (Řím 8, 32; srov. Jan 3, 16) a také utrpení Ducha svatého, jenž v Synově umučení na sebe bere „distanci“ mezi Otcem a Synem.
+
+\(451\) 1.2. Podle mnoha našich současníků má toto trojiční utrpení svůj základ v samotné Boží esenci. Podle jiných se ale zakládá na kenózi Boha, který tvoří, a tak se určitým způsobem váže na svobodu tvora, konečně podle dalších se toto trojiční utrpení zakládá na smlouvě, již Bůh uzavřel a jejímž prostřednictvím se svobodně zavazuje vydat svého Syna. Zastánci tohoto mínění mají za to, že toto „vydání vlastního Syna“ způsobuje Bohu Otci hlubší utrpení než je jakékoli jiné utrpení v oboru stvoření.
+
+V těchto posledních letech mnozí katoličtí autoři převzali podobné teze a domnívají se, že hlavním úkolem Ukřižovaného je zjevovat Otcovo utrpení.
+
+\(452\) 2. Starý zákon nám navzdory Boží transcendenci (srov. Jer 7, 16–19) často dává na srozuměnou, že Bůh je zarmoucen kvůli hříchům lidí. Všechny tyto výroky se zřejmě nedají vysvětlovat jako prosté antropomorfismy (srov. například: Bůh „litoval, že na zemi učinil člověka, a trápil se ve svém srdci“ Gn 6, 6; srov. Dt 4, 25; Žl 78, 41; Iz 7, 13; 63, 10; Jer 12, 7; 31, 20; Oz 4, 6; 6, 4; 11, 8n.). Rabínská teologie jde v této věci ještě dále a hovoří kupříkladu o Bohu, jenž si naříká buď kvůli tmu, že uzavřel smlouvu, která ho zavazuje, nebo kvůli zničení chrámu. Rabínská teologie současně hovoří o slabosti Boha vůči mocnostem zla (viz texty v P. KUHN – E. J. BRILL (ed.), *Gottes Trauer und Klage in der rabbinischen Überlieferung*, Leiden 1978, s. 17nn., s. 275nn.).
+
+V Novém zákoně se setkáváme s Ježíšovými slzami (srov. Lk 19, 41), s jeho hněvem (srov. Mk 3, 5) a se smutkem, které Ježíš zakouší (srov. Mt 17, 17), představují rovněž projevy určitého způsobu Božího jednání. Na jiných místech se výslovně tvrdí, že Bůh se hněvá (srov. Řím 1, 18; 3, 5; 9, 22; Jan 3, 36; Zj 15, 1).
+
+\(453\) 3. Není pochyb o tom, že církevní otcové proti pohanským mytologiím podtrhují Boží *apatheia*, aniž by zároveň popírali jeho soucítění s utrpením světa. Pro církevní otce termín *apatheia* znamená opak vůči *pathos*, což je slovo, jímž se označuje nedobrovolné utrpení, které přichází zvenku, nebo utrpení jako důsledek padlé lidské přirozenosti. Když připouštějí přirozené a nevinné pocity (jako je hlad nebo ospalost) pak je přisuzují Ježíši Kristu nebo Bohu natolik, nakolik pociťuje soucítění s lidskými strázněmi (srov. ORIGENES, *Hom. in Ez.* VI, 6; *Comm. Math.* XVII, 20; *Sel. in Ez.* 16; *Comm. in Rom.* VII, 9; *De princ.* IV, 4, 4). Někdy se dokonce otcové vyjadřují dialekticky: Bůh v Ježíši Kristu trpěl netrpným způsobem, protože to učinil v síle svobodného rozhodnutí (srov. ŘEHOŘ DIVOTVŮRCE, *Ad Theopompum* IV–VIII).
+
+\(454\) Podle Efezského koncilu (srov. *Cyrilův list Nestoriovi:* COD 42), si Syn přivlastňuje bolesti uštědřené jeho lidské přirozenosti (*oikeiósis*). Pokusy vykládat tuto myšlenkovou pozici (a jiné podobné, které se nacházejí v tradici) jako prosté *„communicatio idiomatum"*, nejsou s to učinit zadost jejímu hlubšímu smyslu. Jenomže christologie církve neumožňuje, aby se formálně tvrdilo, že Ježíš Kristus je vystaven utrpení podle své božské přirozenosti (srov. DSH 16, 166, 196n., 284, 293n., 300, 318, 358, 504, 635, 801, 852).
+
+\(455\) 4. Navzdory tomu, co bylo až doposud řečeno, výše citovaní otcové jasně učí neproměnnost Boha a jeho nevystavenost utrpení (srov. například ORIGENES, *Contra Celsum*, IV, 14). Tímto způsobem absolutně vylučují, že by v Boží esenci byla proměnlivost a ona vydanost utrpení, která by znamenala přechod z možnosti do uskutečnění (srov. TOMÁŠ AKVINSKÝ, *S.Th.* I, q. 9, a. 1, ad c). Konečně, když se v tradici víry církve objasňoval daný problém, tak se používaly následující úvahy:
+
+\(456\) 4.1. Pokud se jedná o neměnnost Boží, je vhodné říci, že Boží život je nevyčerpatelný a nesmírný, pročež Bůh nemá v žádném ohledu zapotřebí stvoření (srov. DSH 3002). Žádná stvořená událost mu nemůže přinést něco nového nebo v něm přivést k uskutečnění jakoukoli potencialitu. Bůh tudíž nemůže být vystaven jakékoli změně ani ve formě umenšení, ani ve formě pokroku. „Nuže tedy, jelikož Bůh nemůže být vystaven jakékoli proměně v jakémkoli z těchto smyslů, jeho charakteristikou je být absolutně neměnný“ (TOMÁŠ AKVINSKÝ, S. Th. I, q. 9, a. 2, ad c). Totéž tvrzení se nachází v Písmu svatém vztaženo na Boha Otce: „U něho není proměny ani střídání světla a stínu“ (Jak 1, 17). Tato neproměnnost živého Boha se však nestaví do protikladu k jeho svrchované svobodě, jak to jasně dokládá událost vtělení.
+
+\(457\) 4.2. Tvrzení ohledně nevystavenosti Boha utrpení předpokládá a zároveň implikuje takovýto způsob chápání neproměnnosti, která však nesmí být pojímána tak, jako by Bůh zůstával lhostejný vůči událostem lidského života. Bůh nás miluje přátelskou láskou a přeje si být milován z naší strany. Když je jeho láska urážena, Písmo svatého hovoří o Božím utrpení. V Písmu svatém se ale mluví také o jeho radosti, když se hříšník obrátí (srov. Lk 15, 7). „Zdravá reakce na utrpení je bližší nesmrtelnosti než ztuhlost necitlivého subjektu“ (AUGUSTIN, *En. in Ps.* 55, 6).
+
+Oba zmíněné aspekty se vzájemně doplňují. Když se opomíjí jeden, nebo druhý, pak se nerespektuje to pojetí Boha, které nám on zjevuje.
+
+\(458\) 5. Teologická tradice středověku a moderních dob podtrhovala více první ze zmíněných aspektů (srov. výše 4.1.). Katolická víra ve skutečnost i dnes v tomto smyslu obhajuje Boží esenci a svobodu (staví se tak do opozice vůči přemrštěným teoriím, srov. výše B.1.), jenomže také druhý zmíněný aspekt (srov. výše 4.2.) si zasluhuje větší pozornost.
+
+\(459\) 5.1. V našich dnech člověk v touze hledá takové božství, které by bylo všemohoucí, které by však určitě nepůsobilo jako lhostejné, ba které by bylo plné milosrdenství vůči lidem a které by v tomto smyslu s nimi „soucítilo“. Křesťanská zbožnost vždycky odmítala představu božství, které by bylo lhostejné vůči údělu tvora, ba dokonce má sklon připouštět, že stejně, jako „soucítění“ je jednou z nejvznešenějších dokonalostí člověka, tak také v Bohu, ovšem bez jakékoli nedokonalosti a v absolutní míře, se nachází „sklon k sou-strasti ... nikoli nedostatek moci“ (LEV I. DH č. 293), a že toto soucítění může koexistovat se samotnou věčnou blažeností. Církevní otcové nazývají toto bezvýhradné milosrdenství vzhledem k lidským strázním a utrpením „utrpením lásky“, lásky, která v utrpení Ježíše Krista překonala strázně i vášně (*passiones*) a přivedla je k dokonalosti (srov. ŘEHOŘ DIVOTVŮRCE, *Ad Theopompum*; JAN PAVEL II., *Dives in misericordia*, 7).
+
+\(460\) 5.2. Ve výrocích Písma svatého a církevních otců stejně jako v současných snahách se bezesporu nachází něco, co je třeba brát v úvahu, i když to vyžaduje projasnění v tom smyslu, jak jsme to předložili výše. Totéž je zřejmě třeba říci ohledně trojičního aspektu kříže Ježíše Krista. Podle Písma svatého byl svět stvořen svobodně, když Bůh ve věčné přítomnosti věděl, a to nikoli méně v uskutečnění než to platí pro věčné plození, že Ježíš Kristus, Beránek bez poskvrny, prolije svou převzácnou krev (srov. 1 Petr 1, 19n.; Ef 1, 7). V tomto smyslu existuje úzká souvislost mezi darem božství, který Otec uděluje Synovi, a darem, jehož prostřednictvím Otec vydává svého Syna opuštěnosti kříže.
+
+Jelikož však také vzkříšení je rovněž přítomno ve věčném Božím záměru, utrpení „oddělení“ (srov. B.1.1.) je vždy překonáváno radostí sjednocení. Soucítění trojičního Boha v utrpení Slova je chápáno právě jako dílo nejdokonalejší lásky, která je normálně pramenem radosti. Hegeliánské pojetí „negativity“ je nutno radikálně vyloučit z naší představy o Bohu.
+
+V pokusu o vytvoření této reflexe a ve zkušenosti, která ji provází, lidský a teologický rozum stojí bezesporu před těmi nejsvízelnějšími problematikami (například problematika „antropomorfismu“), zároveň se ale jedinečným způsobem setkává s nevýslovným tajemstvím živého Boha a pociťuje omezenost svých vlastních pojmů.
+
+Závěr
+
+Rámec vytýčený naším bádáním závisí na současné vědecké teologii, což nemůžeme a ani nechceme popírat. Nicméně skutečnost, jíž se zabýváme, tedy živá víra celé církve v osobu Pána Ježíše Krista překračuje hranice partikulárních kultur a směřuje k uskutečňování stále větší univerzality v poznání tajemství Ježíše Krista a v lásce k němu. Jako apoštol Pavel se stal všem vším (srov. 1 Kor 9, 22), tak také my musíme hlouběji včleňovat evangelijní zvěst o Ježíši Kristu do všech jazyků a do všech výrazových prostředků kultur různých národů. Jedná se o jeden z nejsvízelnějších úkolů! To můžeme docílit jedině tehdy, když budeme v ustavičném dialogu s Písmem svatým, s vírou a s učitelským úřadem církve, ovšem také s bohatstvím tradic všech partikulárních církví a s lidskými zkušenostmi, jak jsou prožívány ve všech kulturách všude tam, kde mohou být přítomny působení a milost Ducha svatého (srov. *Gaudium et spes*, čl. 44; *Ad gentes*, čl. 15 a 22; Pavel VI., *Evangelii nuntiandi*, čl. 64; Jan Pavel II., *Familiaris consortio*, čl. 10). Povzbuzením v úsilí o dosažení tohoto síle je připomínka slov, která byla řečena apoštolům: „A budete mi svědky v Jeruzalémě a v celém Judsku, Samařsku a až na konec země“ (Sk 1, 8).
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+[^1]: V EV 8 nacházíme následující sdělení: Závěrečná relace: plenární zasedání 1981, říjen 1982; *Gregorianum* 64, 1983, s. 5–24. Italský překlad s úpravami in *Civiltà Cattolica* 1. 1. 1983, s. 50–65.
+
+[^2]: Nemohli jsme dostatečně pojednat o třetím tématu, jímž je lidské vědění a vědomí Ježíše Krista. Doufáme, že toto téma bude napříště předmětem dalšího studia.

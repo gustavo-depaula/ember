@@ -20,7 +20,10 @@ CON LA CARTA APOSTÓLICA
 EN FORMA DE MOTU PROPRIO  
 *[NORMAS NONNULLAS](https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html)*, DEL 22 DE FEBRERO DE 2013
 
-[TABLE]
+**Versión original del 22 de febrero de 1996 \[[pdf](https://www.vatican.va/content/dam/john-paul-ii/pdf/apost_constitutions/documents/universi-dominici-gregis-19960222_es.pdf)\]**
+
+**Motu Proprio con el que el Santo Padre Benedicto XVI restablece la norma tradicional acerca de la mayoría requerida para la elección del Sumo Pontífice (11 de junio de 2007)**  
+\[[Alemán](https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [Francés](https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html), [Latín](https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070611_de-electione.html)\]
 
 **Versión válida a partir del 22 de febrero de 2013**
 

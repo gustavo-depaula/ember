@@ -389,5 +389,3 @@ Hisce egomet permotus sensibus ac sententiis unicuique benedico domui ac familia
 *Datum Romae, apud Sanctum Petrum, die altero mensis Februarii, Domini nostri Praesentationis festo, anno MCMXCIV, Pontificatus Nostri sexto decimo.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1994 - Libreria Editrice Vaticana

@@ -10,8 +10,6 @@ IV
 
 II — In Festis sollemnibus 1
 
-I
-
 3⁄4+ h 5gf f f g h+ g mµ7jh h  + Glo-ri- a in ecxélsis De- o.
 
 ±
@@ -23,8 +21,6 @@ VIII
 ±
 
 3⁄4+ g 5gf µg h g kµk+ g j7µHG g + Glo-ri- a in ecxél- sis De-
-
-o.
 
 IV — In Festis duplicibus 1
 
@@ -60,8 +56,6 @@ Cantus ad Libitum
 
 VII — In Festis duplicibus 4
 
-V
-
 ±
 
 1⁄2+ h h f d s d +f d µs + + Glo-ri- a in ecxél-sis De- o.
@@ -86,17 +80,11 @@ IV
 
 in ecxél-sis De-
 
-o.
-
 X — In Festis semiduplicibus 2
-
-I
 
 ±
 
 3⁄4+ h 5gf g g d f + s f4µDS s + Glo- ri- a in ecxél-sis De-
-
-o.
 
 XI — Infra Octavas, quæ non sunt de B.M.V.
 
@@ -126,8 +114,6 @@ sis De- o.
 
 °+ a d f g 4fd t + g fgf f + Glo-ri- a in ecxél-sis De-
 
-o.
-
 VI
 
 Cantus ad Libitum
@@ -142,8 +128,6 @@ XIV — Ad Libitum 3
 
 II Tonus Credo
 
-V
-
 1⁄2+ +h f s bµg f µf4µDS + s + + Credo in unum De-
 
 ±
@@ -154,11 +138,11 @@ III Præfationes in Tono sollemniori Sequentes tonos numquam adhibere licet in M
 
 Præfatio de Nativitate Domini
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -202,15 +186,13 @@ cumque omni mi- lí- ti- a cœ-lé-stis ex- ér-ci-tus hym-num
 
 gló-ri- æ tu- æ cá-ni-mus, si- ne fi- ne di- cén- tes. Præfatio de Epiphania Domini
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
 Cantus ad Libitum
 
-V
+1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ 5gf µf g  f h + h h µh µh h h + h h æ h h h µh h ±i 1⁄2+ h h h h h +h g 5gf f µg g + µf g g g g g g µg ±i 1⁄2+ h gh g h g5µFD +d µh 5Z f Æ+ fj7 +j7µHG µf g æ f h µ µh ±i 1⁄2+ h h 5gf f µ g g +  f µh h µh + h h h 5gf f g g µ  ±z bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ 5gf µf g  f h + h h µh µh h h + h h æ h h h µh h ±i 1⁄2+ h h h h h +h g 5gf f µg g + µf g g g g g g µg ±i 1⁄2+ h gh g h g5µFD +d µh 5Z f Æ+ fj7 +j7µHG µf g æ f h µ µh ±i 1⁄2+ h h 5gf f µ g g +  f µh h µh + h h h 5gf f g g µ  ±z bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
-
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -254,11 +236,11 @@ gló-ri- æ tu- æ cá-ni-mus, si- ne fi- ne di- cén- tes.
 
 Præfatio de Quadragesima
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µ d ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ 5gf µf g  f h + µh µh h h h + h +h h + g 5gf f g g  ±i Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µ d ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ 5gf µf g  f h + µh µh h h h + h +h h + g 5gf f g g  ±i Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -308,15 +290,15 @@ cá-mur, súp-pli- ci con-fes-si- ó- ne di- cén-tes:
 
 Præfatio de sancta Cruce
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
 VIII
 
 Cantus ad Libitum
 
-1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ 5gf µf g  f + h h h h h h + µh + h h æ h h h h µh ±i 1⁄2+ h g 5gf f g  +f µh h h h g + 5gf f g  fj7 g g5µFD d ±i 1⁄2+ h 5Z f µf Æ f + h h µh g 5gf +f g  f h h h h ±i 1⁄2+ h 5gf f g  h + gh g g5µFD d +h 5Z f Æ f ±i 1⁄2+ h h h h h + h h æ h 5gf µ f+ µg g  f h µh h ±i bémus ad Dóminum. <. Grá-ti-
+1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ 5gf µf g  f + h h h h h h + µh + h h æ h h h h µh ±i 1⁄2+ h g 5gf f g  +f µh h h h g + 5gf f g  fj7 g g5µFD d ±i 1⁄2+ h 5Z f µf Æ f + h h µh g 5gf +f g  f h h h h ±i 1⁄2+ h 5gf f g  h + gh g g5µFD d +h 5Z f Æ f ±i 1⁄2+ h h h h h + h h æ h 5gf µ f+ µg g  f h µh h ±i bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -374,11 +356,11 @@ jú-be-as, depre- cámur, súppli-ci con-fes-si- ó- ne di- cén- tes:
 
 Præfatio Paschalis
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ f µ+h h h µh h h 5gf ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ f µ+h h h µh h h 5gf ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -389,8 +371,6 @@ est æquum et sa- lu-tá- re,
 dignum et ju- stum
 
 Te quidem, Dómi-ne, omni
-
-X
 
 Cantus ad Libitum
 
@@ -426,11 +406,11 @@ XI
 
 Præfatio de Ascensione Domini
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ µ5gf f g µ  µh +gh g g5µFD d +h + 5Z f Æ µf h µh ±i 1⁄2+ h h h h µh µ+h h æ h h h h +h h h h h æ h h ±i 1⁄2+ h g 5gf µf µg g +µ µf h h µh h h +h æ h h h h g 5gf f ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ µ5gf f g µ  µh +gh g g5µFD d +h + 5Z f Æ µf h µh ±i 1⁄2+ h h h h µh µ+h h æ h h h h +h h h h h æ h h ±i 1⁄2+ h g 5gf µf µg g +µ µf h h µh h h +h æ h h h h g 5gf f ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -478,11 +458,11 @@ ne di- cén-tes:
 
 Præfatio de Sacratissimo Corde Jesu
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -522,8 +502,6 @@ et
 
 pœ-ni-ténti-bus pa-ter et sa-lú- tis re-fú-µgi- um. Et
 
-e-
-
 íd-
 
 o cum Ange-lis et Archánge-lis, cum Thronis et Domi-na-ti-
@@ -540,11 +518,11 @@ ne di- cén- tes:
 
 Præfatio de D.N.J.C. Rege
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f+ h h µh h h µh µh ±u 1⁄2+ 5gf µf µgµ  µf µh +h h µh h µh h + h +h+ h æ h µh µh ±i Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f+ h h µh h h µh µh ±u 1⁄2+ 5gf µf µgµ  µf µh +h h µh h µh h + h +h+ h æ h µh µh ±i Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -616,11 +594,11 @@ si- ne fi- ne di- cén-tes:
 
 Præfatio de sanctissima Trinitate
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h µh µh ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h µh µh ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -684,11 +662,11 @@ u- na vo- ce di- cén- tes:
 
 Præfatio de beata Maria Virgine
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ 5gf f g  f h +µh µh µh µh µh µ h µh + h h h h h h µh ±i Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ 5gf f g  f h +µh µh µh µh µh µ h µh + h h h h h h µh ±i Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -748,11 +726,11 @@ cén-tes:
 
 Præfatio de sancto Joseph, Sponso B.M.V.
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ 5gf f g  f h+ h µh h h h +h h+ h +h h h h æ µh µh h ±i Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f Æ g h +g5µFD d f f h 6hg µg æ ±u 1⁄2+ g g 5gf h 4fd µd +  g f µ 4fd d f +f h h µh h h h h ±u 1⁄2+ 5gf f g  f h+ h µh h h h +h h+ h +h h h h æ µh µh h ±i Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -812,11 +790,11 @@ Præfatio de Apostolis
 
 ±µ
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f + Æ f h+ µh + h h µ h h h µh µ ±u 1⁄2+ µ 5gf µf g  f h+ h h h + h µh h + µh g 5gf µf g g µ  ±z 1⁄2+ f g g +g g µg µg g g µg + g æ + h +gh g g g g h g5µFD d ±i 1⁄2+ h 5Z f+ f µ Æ µf h h h+ h h +h +h + h 5gf f g  f µ h ±i Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u 1⁄2+ µg æ f g 4fd µd + h µ 5Z f + Æ f h+ µh + h h µ h h h µh µ ±u 1⁄2+ µ 5gf µf g  f h+ h h h + h µh h + µh g 5gf µf g g µ  ±z 1⁄2+ f g g +g g µg µg g g µg + g æ + h +gh g g g g h g5µFD d ±i 1⁄2+ h 5Z f+ f µ Æ µf h h h+ h h +h +h + h 5gf f g  f µ h ±i Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -860,11 +838,11 @@ ne fi- ne di- cén- tes:
 
 Præfatio communis
 
-1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. <. Dó-minus vo-
+1⁄2+ a d f f g f + f µd f 4fd µd µ+ d + d µ  µd f 5gf µd ±u 1⁄2+ 5gf µf  d µf+ g d d 5gf µf + d 5gf µf 4fd  µd ±t 1⁄2+ d g µ5g µ f µf+ 4fd  µh g5µFD f + f + 6hg g æ f g 4fd d h ±u 1⁄2+ 5Z µf +  f µg µ5g µf µ+f µ4fd + h +g5µFD d f f j7µHG µf ±u Per omni- a sǽcu-la sæ-culó- rum. >. Amen. \<. Dó-minus vo-
 
-bíscum. >. Et cum Spí- ri-tu tu- o. <. Sursum corda. >. Ha-
+bíscum. >. Et cum Spí- ri-tu tu- o. \<. Sursum corda. >. Ha-
 
-bémus ad Dóminum. <. Grá-ti-
+bémus ad Dóminum. \<. Grá-ti-
 
 as a-gámus Dómino De- o
 
@@ -926,8 +904,6 @@ III
 
 3⁄4+ gh j7µiµJHG hµh6µGFDS +æ ëµ6hgµiµJHGF + ghg + +g µd  ± 3⁄4+ µk j g h g + dg5µg5µ sµSA æ +k8µJµGµ6hg +dg5µg5µ+sµSA æ asµ4fd 2sa a  ± I- te,
 
-V
-
 Mis- sa est
 
 Bene-di-cámus Dó-
@@ -964,8 +940,6 @@ Missa est
 
 VI — In Festis duplibus 4
 
-V
-
 1⁄2+ bsfg hµj7µHGµhµl9µJHGµhjh+ æµbµg5µFDSµ5gf d +µd+ s  I- te,
 
 Missa est
@@ -973,8 +947,6 @@ Missa est
 ±
 
 XXVI
-
-V
 
 Cantus ad Libitum
 
@@ -996,11 +968,7 @@ Mis- sa est
 
 VIII — In Festis semiduplicibus 2
 
-I
-
 I- te,
-
-I
 
 ±
 
@@ -1051,8 +1019,6 @@ Cantus ad Libitum
 XXVII
 
 IN SABBATO SANCTO AD PROPHETIAM XII
-
-I
 
 3⁄4+ s ë mµKJHGFDSA + +sµ5gfµ4fd+ sf4µDSµd 3ds µ ±r N di- é-
 
@@ -1266,8 +1232,6 @@ ardéntis; et quis est De- us, qui e- rí-pi- et vos de ma- nu
 
 me-
 
-a?
-
 Respondéntes Si- drach, Mi-sach, et Ab-
 
 dénago, di- xé- runt re-gi Nabuchodó- no-sor: Non opór-tet
@@ -1347,8 +1311,6 @@ mis.
 Porro vi-ros il-
 
 mí-se-rant Sidrach, Mi-sach et Abdénago,
-
-i-
 
 gnis.
 

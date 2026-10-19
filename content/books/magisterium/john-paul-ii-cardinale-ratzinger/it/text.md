@@ -19,5 +19,3 @@ Di tutto questo sono sinceramente grato ai membri della Commissione e, mentre as
 *Dal Vaticano, 4 Ottobre 1996*.
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1996 - Libreria Editrice Vaticana

@@ -103,5 +103,3 @@ Tutto quanto da noi stabilito in questa lettera in forma di “Motu Proprio”, 
 *Dato a Roma, presso San Pietro, il giorno 28 del mese di giugno dell’anno 1988, decimo del nostro Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-© Copyright 1988 Libreria Editrice Vaticana

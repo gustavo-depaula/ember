@@ -237,8 +237,6 @@ Denique vobis, dilectissimi Fratres, Benedictionem Apostolicam ex animo impertim
 
 ------------------------------------------------------------------------
 
-© Copyright 1985 - Libreria Editrice Vaticana
-
 [^1]: \[\] IOANNES PAULI PP. II *Egregiae Virtutis*, die 31 dec. 1980: AAS 73 (1981), pp. 258-262
 
 [^2]: \[\] LEO PP. XIII, Epist. Enc. *Grande Munus*, (30 Septembris 1880): Leonis XIII *Pont. Max. Acta*, II, 125-137; cfr. etiam PIUS PP. XI Epist. *Quod S. Cyrillum*, (13 Februarii 1927), ad Achiepiscopos et Episcopos tum Regni Serborum - Croatarum - Slovenorum tum Reipublicae Cecho-Slovachae: *AAS* 19 (1927) 93-96; IOANNES PP. XXIII, Epist. Apost. *Magnifici Eventus*, (11 Maii 1963), ad Slavicarum Nationum Antistites: *AAS* 55 (1963) 434-439; PAULUS PP. VI *[Antiquae Nobilitatis](http://mastersite.vatican.va/holy_father/paul_vi/apost_letters/documents/hf_p-vi_apl_19690214_antiquae-nobilitatis_lt.html)*, (2 Februarii 1969), undecimo exeunte speculo ab excessu e terrestri via S. Cyrilli: AAS 61 (1969), pp. 137-149.

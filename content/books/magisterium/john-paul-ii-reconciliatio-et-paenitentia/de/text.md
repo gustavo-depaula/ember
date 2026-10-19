@@ -1042,5 +1042,3 @@ Euch allen, die ihr im Geist kirchlicher Gemeinschaft in Gehorsam und Glauben(20
 206 JOHANENS PAUL II., *Ansprache zur Generalaudienz* vom 4. Januar 1984: *Insegnamenti*, VII, 1 (1984) 16-18.
 
 207 Vgl. *Röm* 1, 5; 16, 26.
-
-© Copyright 1984 - Libreria Editrice Vaticana

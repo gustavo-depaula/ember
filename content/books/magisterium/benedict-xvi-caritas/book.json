@@ -1,0 +1,96 @@
+{
+  "id": "benedict-xvi-caritas",
+  "cover": "quarter",
+  "name": {
+    "la": "Intima Ecclesiae natura, De Caritate Ministranda - die XI mensis Novembris, anno Domini bis millesimo duodecimo - Benedictus PP XVI",
+    "en-US": "Apostolic Letter issued \"Motu Proprio\" Intima Ecclesiae natura on the Service of Charity",
+    "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" Intima Ecclesiae natura sobre o serviço da caridade",
+    "de": "Motu Proprio Intima Ecclesiae natura über den Dienst der Liebe",
+    "es": "Carta Apostólica en forma de Motu proprio Intima Ecclesiae natura sobre el servicio de la caridad",
+    "fr": "Lettre apostolique en forme de « Motu Proprio » Intima Ecclesiae natura sur le service de la charité",
+    "it": "Lettera Apostolica in forma di \"Motu Proprio\" Intima Ecclesiae natura sul servizio della carità",
+    "pl": "O posłudze miłości - Motu Proprio, Benedykt XVI, 11 listopada 2012 r."
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XVI · 2012-11-11",
+    "pt-BR": "Motu Proprio · Papa Bento XVI · 2012-11-11"
+  },
+  "composed": "2012",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20121111_caritas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20121111_caritas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20121111_caritas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20121111_caritas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20121111_caritas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20121111_caritas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20121111_caritas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/benedict-xvi/pl/motu_proprio/documents/hf_ben-xvi_motu-proprio_20121111_caritas.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Intima Ecclesiae natura, De Caritate Ministranda - die XI mensis Novembris, anno Domini bis millesimo duodecimo - Benedictus PP XVI",
+        "en-US": "Apostolic Letter issued \"Motu Proprio\" Intima Ecclesiae natura on the Service of Charity",
+        "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" Intima Ecclesiae natura sobre o serviço da caridade",
+        "de": "Motu Proprio Intima Ecclesiae natura über den Dienst der Liebe",
+        "es": "Carta Apostólica en forma de Motu proprio Intima Ecclesiae natura sobre el servicio de la caridad",
+        "fr": "Lettre apostolique en forme de « Motu Proprio » Intima Ecclesiae natura sur le service de la charité",
+        "it": "Lettera Apostolica in forma di \"Motu Proprio\" Intima Ecclesiae natura sul servizio della carità",
+        "pl": "O posłudze miłości - Motu Proprio, Benedykt XVI, 11 listopada 2012 r."
+      }
+    }
+  ]
+}

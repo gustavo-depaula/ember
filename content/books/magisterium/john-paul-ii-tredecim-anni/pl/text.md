@@ -67,5 +67,3 @@ Zarządzamy, by to wszystko, co przez nas zostało postanowionetym listem wydany
 ------------------------------------------------------------------------
 
 \* *L’Osservatore Romano*, wyd. polskie, 10 (1982) 15.
-
-© Copyright 1982 - Libreria Editrice Vaticana

@@ -1,0 +1,56 @@
+{
+  "id": "francis-competenza-organigiudiziari",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued “Motu Proprio” by the Supreme Pontiff Francis amending the jurisdiction of the judicial bodies of Vatican City State",
+    "es": "Carta apostólica en forma de Motu proprio que establece modificaciones en materia de competencia de los órganos judiciales del Estado de la Ciudad del Vaticano",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» del Sommo Pontefice Francesco recante modifiche in tema di competenza degli organi giudiziari dello Stato della Città del Vaticano"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2021-04-30",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2021-04-30"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20210430_competenza-organigiudiziari.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20210430_competenza-organigiudiziari.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20210430_competenza-organigiudiziari.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued “Motu Proprio” by the Supreme Pontiff Francis amending the jurisdiction of the judicial bodies of Vatican City State",
+        "es": "Carta apostólica en forma de Motu proprio que establece modificaciones en materia de competencia de los órganos judiciales del Estado de la Ciudad del Vaticano",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» del Sommo Pontefice Francesco recante modifiche in tema di competenza degli organi giudiziari dello Stato della Città del Vaticano"
+      }
+    }
+  ]
+}

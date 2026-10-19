@@ -33,5 +33,3 @@ Siano essi occasione di rinnovato impegno in quella nuova evangelizzazione del P
 Insieme a tutti voi, diletti fratelli, ne affido la felice realizzazione a Maria “Magna Domina Hungarorum”, presente tra gli Apostoli in preghiera nella Pentecoste. Ottenga essa per la Chiesa in codesta nazione l’abbondanza dei doni dello Spirito Santo!
 
 *Dato a Roma, presso San Pietro, nella solennità di Pentecoste, il 30 maggio 1993.*
-
-© Copyright 1993 - Libreria Editrice Vaticana

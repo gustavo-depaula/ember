@@ -38,6 +38,4 @@ REFERENCES:
 
 1\. Alexander VI in the bull *Inter cetera*, April 13, 1499.* *
 
-© Copyright 1893 - Libreria Editrice Vaticana
-
 *         *

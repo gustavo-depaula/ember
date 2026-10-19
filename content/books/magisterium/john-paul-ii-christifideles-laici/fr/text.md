@@ -1064,5 +1064,3 @@ et pour sa gloire.
 Amen.
 
 *Donné à Rome, près de Saint-Pierre, le 30 Décembre, fête de la Sainte Famille de Jésus, Marie et Joseph, de l'an 1988, onzième de mon Pontificat.*
-
-© Copyright 1998 - Libreria Editrice Vaticana

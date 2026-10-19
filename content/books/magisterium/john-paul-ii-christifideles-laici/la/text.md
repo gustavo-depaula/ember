@@ -880,6 +880,4 @@ Amen.
 
 *Datum Romae, apud Sanctum Petrum, die XXX mensis Decembris, festo Sanctae Familiae Iesu, Mariae et Ioseph, anno MCMLXXXVIII, Pontificatus Nostri decimo primo.*
 
-**IOANNES PAULUS PP. II**  
-
-© Copyright 1998 - Libreria Editrice Vaticana
+**IOANNES PAULUS PP. II**

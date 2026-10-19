@@ -1532,5 +1532,3 @@ W Rzymie, u Św. Piotra, dnia 25 marca 1992, w Uroczystość Zwiastowania Pańsk
 ²³² G.B. MONTINI, *Lettera pastorale sul senso morale*, 1961 r.
 
 ²³³ Por. *Propositio* 40.
-
-© Copyright 1992 - Libreria Editrice Vaticana

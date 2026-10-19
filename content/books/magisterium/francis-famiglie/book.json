@@ -1,0 +1,40 @@
+{
+  "id": "francis-famiglie",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera del Santo Padre, a firma del Segretario di Stato, ai partecipanti al XII Pellegrinaggio Nazionale delle Famiglie per la Famiglia a Pompei"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2019-09-11",
+    "pt-BR": "Carta · Papa Francisco · 2019-09-11"
+  },
+  "composed": "2019",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2019/documents/papa-francesco_20190911_lettera-famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera del Santo Padre, a firma del Segretario di Stato, ai partecipanti al XII Pellegrinaggio Nazionale delle Famiglie per la Famiglia a Pompei"
+      }
+    }
+  ]
+}

@@ -632,5 +632,3 @@ potrà condurla alla piena riconciliazione.
 A tutti voi, che con spirito di ecclesiale comunione nell'obbedienza e nella fede, vorrete accogliere le indicazioni, i suggerimenti e le direttive contenute in questo documento, studiandovi di tradurle in vitale prassi pastorale, imparto ben volentieri la confortatrice benedizione apostolica.
 
 *Dato a Roma, presso San Pietro, il 2 dicembre, I domenica di avvento, dell'anno 1984, settimo del mio Pontificato.*
-
-© Copyright 1984 - Libreria Editrice Vaticana

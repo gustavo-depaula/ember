@@ -153,5 +153,3 @@ Given at St. Peter's Rome, on the eleventh day of the month of December, in the 
 34\. Sermo 47 *de Sanctis*.
 
 35\. Rom. vi, 13.
-
-© Copyright - Libreria Editrice Vaticana

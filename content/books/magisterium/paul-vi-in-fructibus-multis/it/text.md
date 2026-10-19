@@ -43,4 +43,34 @@ PER LE COMUNICAZIONI SOCIALI
 
 **NOTE**
 
-[TABLE]
+¹
+
+*Allocuzione di Sua Santità Paolo VI ai Padri Conciliari*, del 4 dicembre 1963.
+
+²
+
+A.A.S., LI, 1959, pp. 183-187.
+
+³
+
+Cfr. *Ibid.*, p. 185.
+
+⁴
+
+Cfr. *Ibid.*, 187.
+
+⁵
+
+*Decreto sugli Strumenti di Comunicazione Sociale*, art. 19.
+
+⁶
+
+Cfr. *Ibid.*, artt. 20-21.
+
+⁷
+
+A.A.S., LI, 1959, pp. 185-186.
+
+⁸
+
+Cfr. *Allocuzione del Santo Padre Giovanni XXIII ai Membri della "Association de la Presse Etrangère en Italie"*, 24 ottobre 1961, A.A.S., LIII, 1961, p. 723.

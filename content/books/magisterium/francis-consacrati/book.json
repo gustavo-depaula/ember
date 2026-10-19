@@ -1,0 +1,88 @@
+{
+  "id": "francis-consacrati",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter to all Consecrated people on the occasion of the Year of Consecrated Life",
+    "pt-BR": "Carta Apostólica a todos os consagrados por ocasião do Ano da Vida Consagrada",
+    "de": "Apostolisches Schreiben an alle Personen des geweihten Lebens aus Anlass des Jahrs des Geweihten Lebens",
+    "fr": "Lettre apostolique à tous les consacrés à l'occasion de l'Année de la vie consacrée",
+    "it": "Lettera Apostolica a tutti i consacrati in occasione dell'Anno della Vita Consacrata",
+    "pl": "Świadkowie radości - List apostolski Papieża Franciszka do zakonnic i zakonników na rozpoczęcie Roku Życia Konsekrowanego",
+    "zh-TW": "Apostolic Letter to all Consecrated people on the occasion of the Year of Consecrated Life"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2014-11-21",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2014-11-21"
+  },
+  "composed": "2014",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "fr",
+    "it",
+    "pl",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco_lettera-ap_20141121_lettera-consacrati.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco_lettera-ap_20141121_lettera-consacrati.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_letters/documents/papa-francesco_lettera-ap_20141121_lettera-consacrati.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/papa-francesco_lettera-ap_20141121_lettera-consacrati.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco_lettera-ap_20141121_lettera-consacrati.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_letters/documents/papa-francesco_lettera-ap_20141121_lettera-consacrati.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/apost_letters/documents/papa-francesco_lettera-ap_20141121_lettera-consacrati.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter to all Consecrated people on the occasion of the Year of Consecrated Life",
+        "pt-BR": "Carta Apostólica a todos os consagrados por ocasião do Ano da Vida Consagrada",
+        "de": "Apostolisches Schreiben an alle Personen des geweihten Lebens aus Anlass des Jahrs des Geweihten Lebens",
+        "fr": "Lettre apostolique à tous les consacrés à l'occasion de l'Année de la vie consacrée",
+        "it": "Lettera Apostolica a tutti i consacrati in occasione dell'Anno della Vita Consacrata",
+        "pl": "Świadkowie radości - List apostolski Papieża Franciszka do zakonnic i zakonników na rozpoczęcie Roku Życia Konsekrowanego",
+        "zh-TW": "Apostolic Letter to all Consecrated people on the occasion of the Year of Consecrated Life"
+      }
+    }
+  ]
+}

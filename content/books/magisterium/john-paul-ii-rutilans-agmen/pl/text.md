@@ -53,5 +53,3 @@ Z tymi pragnieniami, z tymi żarliwymi wołaniami serc, jakie docho­dzą do mni
 *W Rzymie, u św. Piotra, dnia 8 maja 1979 r., w pierwszym roku mojego Pontyfikatu.*
 
 JAN PAWEŁ PP. II
-
-Copyright 1979 © Libreria Editrice Vaticana

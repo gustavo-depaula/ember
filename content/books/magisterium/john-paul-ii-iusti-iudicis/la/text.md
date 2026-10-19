@@ -95,5 +95,3 @@ Quaecumque demum a Nobis hisce ipsis Motu Proprio editis Litteris statuuntur, cu
 *Datum Romae, apud Sanctum Petrum, die XXVIII mensis Iunii, anno MCMLXXXVIII, Pontificatus Nostri decimo.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1988 Libreria Editrice Vaticana

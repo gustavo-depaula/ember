@@ -37,5 +37,3 @@ Atque interea Pontificiis Academicis cunctisque Sociis, iisque omnibus, qui suam
 \*A.A.S., vol. XXVIII (1936), n. 13, pp. 421-424
 
 \[[1](#_ftnref1#_ftnref1)\] Sess. III, cap. IV.
-
-© Copyright 1936 - Libreria Editrice Vaticana

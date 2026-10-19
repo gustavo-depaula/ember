@@ -43,5 +43,3 @@ fitting that Europeans make some financial contribution, especially because We a
 *Given at Rome, at St. Peter's, on the 24th day of June, in the year 1893, the sixteenth year of Our pontificate.*
 
 **LEO XIII**
-
-© Copyright 1893 - Libreria Editrice Vaticana

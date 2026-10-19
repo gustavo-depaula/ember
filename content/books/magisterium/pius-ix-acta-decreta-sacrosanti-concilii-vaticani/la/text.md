@@ -20,19 +20,11 @@ Epistola Encyclica SS. D. N. PII PP. IX. episcopos et Episcopos universos
 
 habentes II.
 
-d.
-
-d.
-
-8.
-
 ad Patriarchas, Primates, Archi-
 
 gratiam et communionem Apostolicae Sedis
 
 Decembris 1864
-
-3
 
 Syllabus complectens praecipuos nostrae a tatis errores
 
@@ -52,10 +44,6 @@ IV.
 
 ...
 
-11
-
-13
-
 Indiiferentismus, Latitudinarismus
 
 Socialismus,
@@ -63,8 +51,6 @@ Socialismus,
 Communismus,
 
 Societatis clandestinae , Societates bi-
-
-13
 
 blicae, Societates clerico-liberales §.
 
@@ -90,8 +76,6 @@ Errores de societate
 
 civili
 
-13
-
 tum in se, tum in suis ad ecclesiam re16
 
 lationibus spectata
@@ -100,15 +84,11 @@ Romani Pontificis principatu
 
 Errores qui ad liberalismum hodiernum referuntur §. X. III.
 
-18
-
 Errores de ethica naturali et christiana
 
 civili
 
 10 10
-
-19
 
 ....
 
@@ -117,10 +97,6 @@ Epistola Encyclica Eminentissimi Card. Caterini, Praefecti Congreg. Concilii, ju
 Quaestiones, quae ab Apostolica Sede Episcopis proponuntur
 
 ...
-
-21
-
-21
 
 22 23
 
@@ -148,8 +124,6 @@ Responsum SS. D. N. Pii PP. IX. ad Litteras Episcoporum, 1867
 
 .
 
-46
-
 Index.
 
 jy
@@ -170,11 +144,7 @@ Papae IX. Litterae Apostolicae quibus indicitur Oecumenicum Concilium Romae habe
 
 (Emissae die 29 Junii a. 1868)
 
-48
-
 VIII. Sanctissimi Domini Nostri Pi; Divina Providentia Papae IX. Litterae Apostolicae ad omnes Episcopos Ecclesiarum Ritus orientalis communionem cum Apostolica Sede non habentes
-
-54
 
 IX. Sanctissimi Domini Nostri Pii Divina Providentia Papae IX. Litterae Apostolicae
 
@@ -186,21 +156,13 @@ et
 
 Commissiones
 
-56
-
 quae materias in Concilio examinandas prae-
 
 ,
 
-59
-
 paraverunt Congregatio Cardinalicia directrix
 
-59
-
 Commissio caerimoniarum
-
-59
 
 Commissio politico-ecclesiastica
 
@@ -210,23 +172,13 @@ Commissio politico-ecclesiastica
 
 .
 
-59
-
 .
-
-60
 
 Commissio pro ecclesiis et missionibus Orientis Commissio pro regularibus
 
-60
-
 Commissio theologico-dogmatica
 
-60
-
 Commissio pro disciplina ecclesiastica
-
-61
 
 XI. Litterae Apostolicae SS. D. N. Pii PP. IX., quibus ob futurum Concilium indulgentia plenaria in forma jubilaei omnibus fidelibus conceditur. d. 11. Apr. 1869 XII. Litterae Apostolicae SS. D. N. Pii PP. IX., quibus ordo generalis statuitur in SS. Oec. Concilio Vaticano observandus. d. 27. Nov. 1869
 
@@ -234,29 +186,19 @@ XI. Litterae Apostolicae SS. D. N. Pii PP. IX., quibus ob futurum Concilium indu
 
 De modo vivendi in Concilio II. De jure et modo proponendi III. De secreto servando in Concilio IV. De ordine sedendi, et de non inferendo alicui praejudicio V. De Judicibus excusationum et querelarum VI. De Olficialibus Concilii VII. De Congregationibus Generalibus Patrum VIII. De Sessionibus publicis IX. De non discedendo a Concilio
 
-68
-
 ...
 
 ......
 
 68 69
 
-69
-
 70 71
 
-73
-
 »
-
-73
 
 X. Indultum Apostolicum de non-residentia pro iis qui Concilio intersunt
 
 .
-
-74
 
 Duo Brevia a SS. D. N. Pio PP. IX. data Archiepiscopo Westmonasteriensi
 
@@ -268,29 +210,13 @@ A. Datum 4. Sept. 1869 B. Datum 30. Oct. 1869
 
 XIV.
 
-66
-
-67
-
-I.
-
 XIII.
-
-62
 
 Constitutio SS. D. N. Pii
 
 tiae restringitur. d. 12. Oct.
 
-75
-
-75
-
-76
-
 PP. IX., qua numerus censurarum latae senten1869
-
-77
 
 .............
 
@@ -312,15 +238,11 @@ Interdicta latae sententiae reservata
 
 78 80 81
 
-81 .
-
 .
 
-. <•
+. \<•
 
 82 83
-
-m
 
 Index.
 
@@ -328,25 +250,17 @@ y Pag.
 
 XV. Responsa aliqua Congregationum Romanarum ad jubilaeum et preces indictas ob futurum Concilium pertinentia
 
-85
-
 A. Responsum S. Poenitentiariae de dubiis circa jubilaeum. B.
 
 Responsum S. Congregationis SS. Rituum de missa S.
-
-C.
 
 ex occasione Concilii injunctis.
 
 Responsum
 
-S.
-
 Congregationis
 
 3\. Julii
-
-d.
 
 d. 1.
 
@@ -356,23 +270,15 @@ SS. Reliquiarum
 
 et
 
-85
-
 et collecta Spiritus
-
-1869
 
 Indulgentiarum
 
 Junii 1869
 
-89
-
 de
 
 quibusdam dubiis circa jubilaeum. d- 10. Jul. 1869 D. Responsum S. Congregationis SS. Rituum quo conceditur Episcopis ut in et missa et breviario sequi consultoribus capellanis eorumque
-
-91
 
 ,
 
@@ -402,8 +308,6 @@ Romam
 
 ,
 
-93
-
 quae Reverendissimi DD. pro Oecumenico
 
 advenientes
@@ -414,21 +318,15 @@ XVII. Sanctissimi Domini Nostri de electione Romani Pontificis,
 
 Pii Divina si
 
-94
-
 Providentia Papae IX. Constitutio
 
 contingat Sedem Apostolicam vacare durante
 
 Concilio Oecumenico. d. 4. Dec. 1869
 
-95
-
 Caeremoniale in electione Summi Romani Pontificis observandum
 
 .
-
-98
 
 .
 
@@ -448,8 +346,6 @@ Concilii
 
 .
 
-110
-
 .
 
 Oecumenici
@@ -457,8 +353,6 @@ Oecumenici
 celebrandi in Sacrosancta Basilica Vaticana jussu SS. Domini Nostri Pii IX.
 
 Catholicae Ecclesiae Episcopi
-
-120
 
 .
 
@@ -486,8 +380,6 @@ Generali
 
 ante
 
-2.
-
 Dec. 1869.
 
 primam Sessionem
@@ -500,8 +392,6 @@ primam Sessionem
 
 .
 
-130
-
 — Allocutio habita in Congre-
 
 Concilii Vaticani
@@ -512,11 +402,7 @@ Nostro Pio Divina Providentia PP. IX. ad Episcopos Catholici Orbis, qui ad idem 
 
 ....
 
-133
-
 XXIV. Formula jurisjurandi ab Officialibus SS. Concilii praestiti die 2. Dec. 1869
-
-136
 
 XXV. Nomina Stenographorum SS. Concilii Vaticani, qui die 2. Dec. 1869 juramentum in manus Rev. Secretarii Concilii Vaticani praestiterunt
 
@@ -534,8 +420,6 @@ Novae nominationes
 
 .
 
-137
-
 .
 
 138 140
@@ -547,10 +431,6 @@ VI
 PARS II. ACTA PUBLICA ET DECRETA IPSIUS SS. OECUMENICI CONCILII VATICANL Sessio
 
 Habita die
-
-8.
-
-I.
 
 Dec. 1869. Tag.
 
@@ -590,17 +470,11 @@ Decreta duo, in prima Sessione per acclamationem facta
 
 .
 
-153
-
-154
-
 Deputationes speciales
 
 Sessio II.
 
 Habita die 6. Jan. '1870. Professio Fidei Tridentina, facta a SS. D. N. P. Pio IX. et omnibus PP. Concilii
-
-160
 
 Vaticani
 
@@ -622,8 +496,6 @@ Monitum de infallibilitate Romani Pontificis
 
 Monitum
 
-166
-
 •
 
 Monitum quo indicantur Patribus Concilii ritus sacri, qui tempore quadragesimali Basilica Vaticana habebuntur
@@ -631,8 +503,6 @@ Monitum quo indicantur Patribus Concilii ritus sacri, qui tempore quadragesimali
 Decretum quo providetur
 
 illis
-
-167
 
 dioecesibus,
 
@@ -648,23 +518,15 @@ modus
 
 suffragii dandi
 
-169
-
 Sessio III.
 
 Habita die 24. Aprilis 1870. Constitutio dogmatica de Fide Catholica
 
-170
-
 Canones
-
-177
 
 Sessio IY.
 
 Habita die 18. Julii 1870. Prooemium
-
-130
 
 Constitutio dogmatica prima de Ecclesia Christi
 
@@ -690,8 +552,6 @@ libellos
 
 a Cardinalibus
 
-181
-
 Congregationum Generalium
 
 cum Patribus Concilii communicata in Congr. Gen.
@@ -701,10 +561,6 @@ cum Patribus Concilii communicata in Congr. Gen.
 die
 
 16\. Julii
-
-188 .
-
-189
 
 Index.
 
@@ -720,15 +576,11 @@ Deputationem pro rebus disciplinae ecclesiasticae
 
 ,
 
-13.
-
 Au-
 
 loco absentium,
 
 majori suffragiorum numero electi sunt \[Suspensio Concilii.\] cilium
-
-189
 
 Litterae Apostolicae SS. D. N. Pii
 
@@ -739,8 +591,6 @@ PP. IX.
 quibus Con-
 
 Oecumenicum suspenditur
-
-190
 
 LEXICON GEOGRAPHICUM, DIOECESEON RESIDENTIALIUM ET ABBATIARUM NULLIUS. A. Sedes Archiepiscopales B.
 
@@ -820,19 +670,13 @@ ACTA PUBLICA, QUIBUS
 
 CONCILIUM VATICANUM PKAEPAEATUM EST.
 
-I.
-
 EPISTOLA ENCYCLICA SS.
-
-D.
 
 N. PII
 
 PP. IX.
 
 PATRIARCHAS, PRIMATES, ARCHIEPISCOPOS ET EPISCOPOS UNIYERSOS GRATIAM ET COMMUNIONEM APOSTOLICAE SEDIS HABEOTES D. D.
-
-8.
 
 DECEMBRIS 1864.
 
@@ -898,8 +742,6 @@ menta convellere, omnemque virtutem ac justitiam de medio tollere, omniumque ani
 
 Epistola Encyclica SS. D. N. Pii PP. IX.
 
-4
-
 juventutem a recta morum disciplina avertere, eamque miserabiliter corrumpere in erroris laqueos inducere ac tandem ab Ecclesiae catholicae ,
 
 ,
@@ -958,8 +800,6 @@ Gregor.
 
 XVI. Epist. Encycl. Mirari 15. aug.
 
-1832.
-
 °
 
 Epistola Encyclica SS. D. N. Pii PP. IX.
@@ -1003,8 +843,6 @@ civili ,
 manifestare ac declarare valeant."
 
 Dum vero id timere affirmant, haud cogitant et considerant, libertatem
-
-2
 
 et
 
@@ -1054,21 +892,11 @@ lcclesia
 
 commendatam tamquam Apostolicae doctrinae consentaneam
 
-1
-
 Eadem Encycl. Mirari.
-
-2
-
-S.
 
 Aug. Epist. 105.
 
-S.
-
 Leo Epist. 164.
-
-f
 
 al. al.
 
@@ -1081,8 +909,6 @@ edit. Ball.
 lae-
 
 Epistola Encyclica SS. D. N. Pii PP. IX.
-
-6
 
 dit ipsos insignes fundatores,
 
@@ -1192,12 +1018,6 @@ civilis;
 
 damnantur clandestinae societates,
 
-1
-
-2
-
-t
-
 constitutiones
 
 sive in eis exigatur sive
@@ -1214,8 +1034,6 @@ approbatione
 
 vel
 
-2 ,
-
 quibus
 
 non exigatur
@@ -1229,8 +1047,6 @@ VIL.
 •Epistola Encyclica SS. D. N. Pii
 
 PP. IX.
-
-7
 
 juramentum de secreto servando, earumque asseclae et fautores anathemate mulctantur, nullam habere vim in illis orbis regionibus, ubi ejusmodi aga Concilio gregationes tolerantur a civili gubernio; excommunicationem latam in Tridentino et Komanis Pontificibus eos, qui jura possessionesque Ecclesiae invadunt et usurpant, niti confusione ordinis spiritualis ordinisque civilis ac politici ad mundanum dumtaxat bonum prosequendum ; Ec-
 
@@ -1332,8 +1148,6 @@ Dominatorem Dominum Nostrum Jesum Chriatum negare, ejusque Divinitatem scelerata
 
 Epistola Encyclica SS. D. N. Pii PP. IX.
 
-8
-
 qui episcopalem vestram
 
 tres,
@@ -1412,11 +1226,7 @@ catholicam, et hanc Apostolicam Sedem conspiratione tantaque errorum congerie, n
 
 cum Vobisque clementissimum luminum et misericordiarum Patrem ferven-
 
-1
-
 S. Ignatius
-
-2
 
 Psalm. 143.
 
@@ -1428,15 +1238,11 @@ Caelest. epist. .22. ad Synod. Ephes. apud Coust. p. 1200. I. epist. 29. ad Epis
 
 4 S. 5
 
-6
-
 Innocent
 
 Pius VII. Epist. Encycl. Diu satis. 15. maji 1800.
 
 Epistola Encyclica BS. D. N. Pii PP. IX.
-
-9
 
 tissimis humillimisque precibus sine intermissione orent,
 
@@ -1548,15 +1354,13 @@ Eum
 
 depreca-
 
-adhibeamns Immaculatam sanctissimamque Deiparam apud Yirginem Mariam, quae cunctas haereses interemit in universo mundo, ac plena quaeque omnium nostrum amantissima Mater „tota suavis est misericordiae omnibus sese exorabilem, <\*mnibus clementissimam prae.,
+adhibeamns Immaculatam sanctissimamque Deiparam apud Yirginem Mariam, quae cunctas haereses interemit in universo mundo, ac plena quaeque omnium nostrum amantissima Mater „tota suavis est misericordiae omnibus sese exorabilem, \<\*mnibus clementissimam prae.,
 
 tricem
 
 .
 
 .
-
-1
 
 .
 
@@ -1565,8 +1369,6 @@ S. Cyprian. Epist. II.
 .
 
 .
-
-10
 
 bet
 
@@ -1632,8 +1434,6 @@ Deusque reapse fit in homine et mundo, atque omnia Deus sunt et ipsissimam Dei h
 
 Serm. de duodecim praerogativis B. V. M. ex verbis Apoealyp.
 
-11
-
 Syllabus.
 
 cum mundo, et proinde spiritus cum materia, necessitas cum liberbonum cum malo, et justum cum injusto. tate, verum cum falso, Alloc. II.
@@ -1662,8 +1462,6 @@ omnium cujuscumque generis veritatum assequi possit ac debeat. Epist. encycl. Qu
 
 Maxima quidem 9. junii 1862.
 
-Y.
-
 Divina revelatio est imperfecta et iccirco subjecta continuo et indefinito progressui, qui humanae'rationis progressioni respondeat. Qui pluribus
 
 Epist. encycl. Alloc.
@@ -1671,8 +1469,6 @@ Epist. encycl. Alloc.
 VI. latio
 
 novembris 1846.
-
-9.
 
 Maxima quidem 9. junii 1862.
 
@@ -1706,8 +1502,6 @@ Epist. encycl. Qui pluribus 9. novembris 1846. Alloc. Maxima quidem 9. junii 186
 
 §•
 
-2.
-
 Rationalismus moderatus. VIII.
 
 Quum ratio humana ipsi religioni
@@ -1719,8 +1513,6 @@ iccirco
 \* eologicae disciplinae perinde ac philosophicae tractandae sunt. Alloc. Singulari
 
 quadam perfusi 9. decembris 1854.
-
-12
 
 Syllabus.
 
@@ -1741,8 +1533,6 @@ modo haec dogmata ipsi rationi tamquam objectum pro-
 pervenire,
 
 posita fuerint. Epist. ad Archiep. Frising. Gravissimas 11. decembris 1862. Epist. ad eundem Tuas libenter 21. decembris 1863.
-
-X.
 
 Quum aliud sit philosophus, aliud philosophia, ille jus et quam veram
 
@@ -1775,8 +1565,6 @@ eique relinquere, ut ipsa se corrigat. Epist.
 ad Archiep. Frising. Gravissimas
 
 11.. decembris
-
-1862.
 
 XII. Apostolicae Sedis Romanarumque Congregationum decreta liberum scientiae progressum impediunt. Epist.
 
@@ -1822,15 +1610,11 @@ systemate
 
 cohaerent
 
-1863.
-
 maximam partem
 
 qui damnantur in Epist. ad Card. Archiep.
 
 Coloniensem Eximiam tuam 15. junii 1857., et in Epist. ad Episc. Wratislaviensem Dolore haud mediocri 30. aprilis 1860.
-
-13
 
 Syllabus.
 
@@ -1900,8 +1684,6 @@ Nobiscum
 
 20\. april.
 
-1849.;
-
 in
 
 Epist.
@@ -1915,8 +1697,6 @@ et
 1849.; in Alloc. Singidari quadam 9. dec. 1854.; in Epist. encycl. Quanto conficiamur moerore 10. augusti 1863. 8. dec.
 
 §•
-
-v.
 
 Errores de Ecclesia ejusque juribus.
 
@@ -1947,8 +1727,6 @@ quae
 sint Eccle-
 
 eadem jura exercere queat.
-
-14
 
 Syllabus.
 
@@ -2080,8 +1858,6 @@ Nunquam fore 15. decembris 1856.
 
 non est vel ipsas
 
-15
-
 Syllabus.
 
 XXIX. Gratiae a Eomano Pontifice concessae existimari debent Nunquam fore 15. decembris 1856.
@@ -2112,8 +1888,6 @@ Litt.
 
 10\. junii
 
-1851.
-
 XXXI.
 
 sis
@@ -2127,8 +1901,6 @@ et
 reclamante Apostolica Sede.
 
 Alloc. Acerbissimum 27. septembris 1852. Alloc. Nunquam fore 15. decembris 1856.
-
-k
 
 XXXII. Absque
 
@@ -2243,8 +2015,6 @@ Jamdudum cernimus 18. martii 1861.
 ab
 
 auctoritate
-
-16
 
 Syllabus.
 
@@ -2362,8 +2132,6 @@ Laica potestas auctoritatem habet rescindendi, declarandi ac faciendi irritas so
 
 Sede Apostolica initas, sine hujus consensu, Alloc. In consistoriali
 
-1.
-
 immo et ea reclamante.
 
 novembris 1850.
@@ -2392,13 +2160,9 @@ necessariis decernere. Alloc. In consistoriali
 
 Alloc.
 
-1.
-
 novembris 1850.
 
 Maxima quidem 9. junii 1862.
-
-17
 
 Syllabus.
 
@@ -2413,8 +2177,6 @@ in dilectu aut approbatione
 ma-
 
 gistrorum. Alloc. In consistoriali
-
-1.
 
 novembris 1850.
 
@@ -2435,8 +2197,6 @@ subjicitur.
 Nunquam fore
 
 decembris 1856:
-
-15.
 
 Postulat optima
 
@@ -2511,10 +2271,6 @@ Conc. Vatic.
 '
 
 |
-
-o
-
-18
 
 tifici
 
@@ -2600,8 +2356,6 @@ LYII. Philosophicarum rerum morumque scientia, itemque civiles leges possuht et 
 
 Maxima quidem 9. junii 1862.
 
-19
-
 Syllabus.
 
 Aliae vires non sunt agnoscendae
@@ -2684,8 +2438,6 @@ Qui pluribus 9. novembris 1846.
 
 Quisque vestrum
 
-4.
-
 .
 
 octobris 1847.
@@ -2737,8 +2489,6 @@ im ad dignitatem sacramenti. Litt.
 Apost.
 
 Ad apostolicae 22. augusti 1851. 2\*
-
-20
 
 Syllabus.
 
@@ -2894,11 +2644,7 @@ sacramentum excludatur.
 
 Apost. Ad apostolicae 22. augusti 1851. Lettera di S. S. PIO IX. al. Be di Sardegna, Litt.
 
-9.
-
 settembre 1852.
-
-21
 
 Syllabus.
 
@@ -2934,15 +2680,11 @@ prior
 
 epist.
 
-1846,
-
 §•
 
 Errores de
 
 civili
-
-9.
 
 Qui pluribus
 
@@ -2955,8 +2697,6 @@ posterior in litteris apost. Midtiplices inter
 novembris
 
 10\. junii
-
-1851.)
 
 ix.
 
@@ -3024,8 +2764,6 @@ Novos 28.
 
 sept.
 
-1860;
-
 in
 
 Alloc.
@@ -3034,13 +2772,9 @@ Alloc.
 
 Jamdudum
 
-18.
-
 mart.
 
 1861; in
-
-x.
 
 Errores qui ad liberalismum hodiernum referuntur.
 
@@ -3051,8 +2785,6 @@ Aetate hac nostra non amplius expedit, religionem catholicam haberi tamquam unic
 Rmque
 
 cultibus exclusis.
-
-22
 
 Epistola Encyclica
 
@@ -3128,8 +2860,6 @@ rerumque acerbitate nonnisi singudatum judicans, quod in proxima festiva celebri
 
 Epistola encyclica Em. Card. Caterini.
 
-23
-
 centenariae memoriae de glorioso SS. Apostolorum Petri et Pauli martyrio, Christianae religionis heroum, amplissimam pulcherri-
 
 et canonizationis tot
@@ -3192,8 +2922,6 @@ quominus haeretici vel schismatici in administratione baptismi munere patrini fu
 
 interdicitur,
 
-2.
-
 Quanam forma et quibusnam cautelis probetur
 
 contrahendis matrimoniis:
@@ -3210,15 +2938,9 @@ episcopali reservetur judicium super status cujuscumque contrahentis libertate. 
 
 instructione die 21. augusti 1670.
 
-s.
-
 prae m. Clementis X. auctoritate edita?
 
-24
-
 Epistola Encyclica
-
-3.
 
 Em. Card. Caterini.
 
@@ -3253,8 +2975,6 @@ verbo Dei re ipsa contineatur,, idepque ex scriptura et traditioni-
 libus, in
 
 bus, sicut depet, hauriatur?
-
-i
 
 6\. Dolehdum summopere est, ut populares scholae,' quae patent omnibus cujusque e populo classis pueris, ac publica universim instituta, quae
 
@@ -3306,8 +3026,6 @@ seruerit,
 
 neque ubique et
 
-25
-
 quod si locum incohsulto Episcopo desacrorum exercitium interdicitur. Hae praescriptiones nec plene
 
 ribus riec incertis vagetur sedibus ei
@@ -3324,11 +3042,7 @@ quid statui posset, ut clerici propriae dioecesi servitium et suo Praesuli
 
 et obedientiam continuo praestent? Plures prodierunt et in dies prddeunt congregationes et instituta irorum et mulierum, qui vOtis simplicibus obstricti piis muneribus obeun-
 
-10.
-
 is se addicunt. Isverentiam Expeditne, ut potius congregationes ab Apostolica Sede probatae augeantnr latius et crescant, quam ut novae eumdem prope finem habentes constituantur et efformentur?
-
-11.
 
 Utrum sede episcopali ob mortem
 
@@ -3339,8 +3053,6 @@ lationem Episcopi vacante, capitulum Ecclesia cathedralis in vicario capitulari 
 Quanam forma indicatur et fiat concursus, qui in provisione eccle-
 
 siarum parochialium peragi debet, juxta decretum Concilii Tridentini (Sess. 24. de Reform. c 18») et constitutionem s. m. Bened. XIY. quae die \*
-
-14.
 
 Dec. 1742. data, incipit: 13.
 
@@ -3376,10 +3088,6 @@ Et circa hujus decreti sensum Reform.). animadvertendum ?
 
 et
 
-(c.
-
-1..
-
 Sess. 14.
 
 de
@@ -3397,8 +3105,6 @@ pollent,
 ,
 
 catholicis praestant persohae vel sectis proscriptis vel haeresi addictae vel etiam non baptizatae: et quodnam hisce malis posset opportune remedium afferri?
-
-17.
 
 Quidnam
 
@@ -3419,8 +3125,6 @@ possint?
 '
 
 Allocutio SS. D. N. Pii
-
-26
 
 PP. IX.
 
@@ -3494,8 +3198,6 @@ Allocutio
 
 SS. D. N. Pii PP. IX.
 
-27
-
 versantur ante oculos, de catholicae Eccleagendis, in quibus omnia, quae siae unitate,
 
 de immobili unitatis fundamento, ac gloria loquuntur.
@@ -3551,8 +3253,6 @@ est, ibi solum animos arctissima inter se conjunctione contineri posse, ubi unus
 auctoritate contempta, homines felicitatis ejus, quam per scelera quaerunt, expertes, in turbulentissimis tempestatibus misere dissidiisque jactari.
 
 Allocutio SS. D. N. Pii PP. IX."
-
-28
 
 Sed Fratres
 
@@ -3672,15 +3372,9 @@ in acie contra callidos et infestos hostes
 
 sione versamur.
 
-1
-
 Luc.
 
-2
-
 Ser. 3. in
-
-c.
 
 ,
 
@@ -3703,8 +3397,6 @@ Tam diuturna, tam ingens dimicatio geritur, ut omnium,
 anniv. Ass. suae.
 
 Alloctitio SS.
-
-29
 
 D. N. Pii PP. IX.
 
@@ -3822,8 +3514,6 @@ tot
 
 Allocutio SS. D. N. Pii
 
-30
-
 PP. IX.
 
 jam pignoribus vestrae fidei eoncordiaeque acceptis, certum omnino ac exSpondet id Nobis spectata vestra integritas ac praesemper ubique sui similis, et omni periculo major effulspondet illud ingens studium et ardor, qui vos ad aeternam hominum
@@ -3926,11 +3616,7 @@ Nominis gloriam provehendam addat, ut illo igne, quem venit mittere 1 S.
 
 Joan.
 
-c.
-
 17\. v. 21.
-
-31
 
 Litterae Episeoporum quingentorum.
 
@@ -3970,8 +3656,6 @@ Apostolicam Nostram Benedictionem cum omni felicitatis voto conjunctam,
 
 ex intimo corde amantissime impertimur.
 
-v.
-
 LITTERAE EPISCOPORUM QUINGENTORUM, QUI AD 18.
 
 CENTENARIUM S. -PETRI APOSTOLI ROMAE A. 1867. CONGREGATI
@@ -3993,8 +3677,6 @@ novum
 triumphum, sanctorum caelitum gloria refulgentem, et urbis Beatorum Apostolorum Petri et Pauli sanguine aeternae, itiquum msecratae decus, quorum martyrii memoria saecularis rediens totum hodie
 
 leternae veritatis
-
-32
 
 Litterae Episcoporum quingentorum.
 
@@ -4098,8 +3780,6 @@ immotam contemplamur petrae illius firmitatem, super quam Dominus ac Redemptor n
 
 organum veritatis,
 
-33
-
 Litterae Episcoporum quingentorum.
 
 centrum, fundamentum et propugnaculum libertatis Ecclesiae, tot rerum adversitates et non intermissa hostium molimina, octodecim
@@ -4200,8 +3880,6 @@ et ipsi.in beato Petro pascendi,
 
 Ecclesiam
 
-a
-
 Domino
 
 Nostro
@@ -4216,11 +3894,7 @@ imi sensus
 
 m illam virtutem, qua perniciosis saeculi machinationibus obsistendo, Conc. Vatic.
 
-3
-
 Litterae Episcoporum quingentorum.
-
-34
 
 dominicum gregem in via salutis servare, contra seductiones erroris munire, contra vim potentium et falsorum sapientum astutiam tueri adnisus es. Admiramur studium illud fatigari nescium, quo emolumenta universae Ecclesiae,
 
@@ -4306,8 +3980,6 @@ constituerit.
 
 Haec concupisce, haec
 
-35
-
 Litterae Episcoporum quingentorum.
 
 romana gens;
@@ -4333,8 +4005,6 @@ quam Christianus Orbis caeterarum principem sit caelestibus gratiis
 •noscit, caeteris
 
 donisque florens, exemplo praelucens, tutibus opibusque beata. Pontificatus splendor effecit, quo non Urbs Id, Beatissime Pater! Tui orbis »lum Tua, sed universus illustratur, cujusque admiratio ita nos mout ex
-
-\>t,
 
 illo
 
@@ -4452,8 +4122,6 @@ tHaec
 
 Litterae Episcoporum quingentorum.
 
-36
-
 Macte ergo animo, Beatissime Pater! perge navem Ecclesiae inter medias procellas secura, ut suevisti, manu ad portum adducere. Mater divinae gratiae, quam Tu pulcherrimo honoris titulo salutasti, intercessionis suae auxilio tutabitur semitam Tuam. Erit Tibi in stellam maris, quam invicta, uti soles, fiducia suspiciens,
 
 qui per eam ad nos venire voluit.
@@ -4502,8 +4170,6 @@ Veliternen.
 
 et
 
-S.
-
 Collegii
 
 Decanus.
@@ -4536,8 +4202,6 @@ Raphael Ferrigno, Archiep. Brundusin. Salvatur Nobili Vitelleschi, Archiep. Epis
 
 f Alexander Franchi, Archiep. Thessalonicen. f Petrus Bostani, Archiep. Tyren. et Sydonien. Maronit. f Patritius Leahy, Archiep. Casselien. f Josephus Hippolytus Gmbert, Archiep. Turonen. f Marinus Marini, Archiep. Epis. Urbevetan. f Georgius Claudius Chalandon, Archiep\*. Aquen. f Gregorius Szymonowicz, Archiep. Leopolien. Armen. rit. f Joachim Limberti, Archiep. Florentin.
 
-37
-
 Litterae Episcoporum quingentorum.
 
 f Antonius Salomone, Archiep. Salernitan. f Philippus Gallo, Archiep. Patraeen.
@@ -4564,10 +4228,6 @@ f Antonius Ranza, Episc. Placentin. f Dionysius Gauthier, Episc. Emausen. f Geor
 
 f Henricus Rossi, Episc. Casertan. f Joannes Baptista Pellei, Episc. Aquaepeiiden. f Franciscus Mazzuoli, Episc. S. Severim. f Flavianus Abel Hugonin, Episc. Bajocen. f Philippus Mincione, Episc. Mileten.
 
-39
-
-40
-
 Litterae Episcoporum quingentorum.
 
 f Amadeus Rappe, Episc. Clevelanden. f Joannes Corti, Episc. Mantuanus. f Aloisius Ricci, Episc. Signin. f Jacobus Alypius Goold, Episc. Melbournen. f Eugenius Bruno Guigues, Episc. Utovien.
@@ -4585,8 +4245,6 @@ Gallesin.
 f Joannes Petrus Mabile, Episc. Versalien. f Cajetanus Brinciotti, Episc. Balneoregien. f Colinus Mac Kinnon, Episc. Arichaten. f Bernardus Pinol, Episc. de Nicaragua. f Ludovicus Eugenius Regnault, Episc. Carnuten. f Joannes Jacobus Guerrin, Episc. Lingonen. f Aloisius Sodo, Episc. Thelesin. seu Cerretan. f Bartholomaeus D'Avanzo, Episc. Calven. et Theanen. f Joannes Joseph Longobardi, Episc. Andrien. f Joannes Petrus Bravard, Episc. Constantien.
 
 et
-
-41
 
 Litterae Episcoporum quingentorum.
 
@@ -4608,8 +4266,6 @@ Vincentius Zubranich, Episc. Ragusin. Benedictus de Riccabona, Episc. Tridentin.
 
 Ludovicus Forwerk, Episc. Leontopolitan. Franciscus Antonius Majorsini. Episc. Laquedonien. Innocentius Sannibale, Episc. Eugubin. Nicolaus Renatus Sergent, Episcop. Corisopiten. f Joannes Rosati, Episc. Tuclertin.
 
-•f-
-
 f Dominicus Zelo, Episc. Aversan. f Cajetanus Rodilossi, Episc. Alatrin. T Franciscus Gallo, Episc. Abellinen. f Petrus Rota, Episc. Guastallen. f Joannes Joseph Vitezich, Episc. Veglen. f Franciscus Gianpaolo, Episc. Larinen. f Franciscus Roullet de La Bouillerie, Episc. Carcassonen. f Franciscus Paulus, Episc. S. Agathae Gothorum. f Alexius Joseph Wicart, Episc. Vallis Vidonis. f Guillelmus Vaughan, Episc. Plymuten. f Nicolaus Pace, Episc. Amerin. f Joannes Benini, Episc. Piscien. f Joseph Del Prete, Episc. Thyatiren. f Joseph Formisano, Episc. Nolan. f Claudius Henricus Plantier, Episc. Nemausen. f Ludovicus Augustus Delalle, Epise. Ruthenen. f Vincentius Moretti, Episc. Imolen. Antonius Joseph Jordany, Episc. Forojulien. Joannes Renier, Episc. Feltr. et Bellunensis. Patritius Moran, Episc. Dardanen.
 
 et
@@ -4622,21 +4278,15 @@ Joannes Farrel, Episc. Hamiltonen.
 
 f Elias Ant. Alberani, Episc. Ascul. in Piceno. f Joannes Ghiureghian, Episc. Trapezuntin. Arm. rit. f Adrianus Lanquillat, Episc. Sergiopolitan.
 
-42
-
 Litterae Episcoporum quingentorum.
 
 f Stephanus Semeria, Episc. Olympen. 7 Jacobus Bernardi, Episc. Massan. f Thomas Passero, Episc. Troian. f Claudius Jacobus Boudinet, Episc. Ambianen. 7 Conradus Martin, Episc. Paderbornen. 7 Joseph Emanuel Arroyo, Episc. de Guayana.
-
-1
 
 7 Joseph Romero, Episc. Dibonen. 7 VinCentius Cina, Episc. Adramytten. 7 Henricus, Episc. Casertanus. 7 Dalmatius Di Andrea, Episc. Boven. f Vincentius Gasser, Episc. Brixinen. 7 Philippus Vespasiani, Episc. Fanen. 7 Clemens Fares, Episc. Pisauren. 7 Franciscus Marinelli, Episc. Porphyrien. f Henricus Junker, Episc. Altonen. 7 Joannes Mac-Evilly, Episc. Galvien. f Guillelmus Clifford, Episc. Cliftonien. f Petrus Geraud De Langalerie, Episc. Bellicen. f Petrus Maria Ferre, Episc. Casalen.
 
 f Ludovicus Delcusy, Episc. Vivarien. 7 Petrus Buffetti, Episc. Brictinorien. 7 Joseph Stephanus Godelle, Episc. Thermopylen. f Jacobus Fridericus Wood, Episc. Philadelphien. f Joannes Baptista Scandella, Episc. Antinoen. f Joseph Targioni, Episc. Volaterran. f Aloisius Maria Paoletti, Episc. Montis Politiani. f Joseph De Los Rios, Episc. Lucen. f Michael 0'Hea, Episc. Rossen. f Patritius Lynch, Episc. Carolopolitan. f Joseph Maria Papardo, Episc. Sinopen. f Vitalis Justinus Grandin, Episc. Satalen. f Guillelmus Henricus Elder, Episc. Nacthezensis. f Clemens Pagliari, Episc. Anagnin. f Fortunatus Maurizi, Episc. Verulan. f Petrus Sola, Episc. Nicien. f Ferdinandus Blanco, Episc. Abulen. f Paulus Benignus Carrion, Episc. De Portorico. f Jacobus Jeancard, Episc. Ceramen. f Carolus Joannes Fillion, Episc. Cenomanen. f Joannes Sebastianus Devoucoux, Episc. Ebroicen. f Ignatius Senestrey, Episc. Ratisbonen. f Riccardus Roskell, Episc. Nottinghamen. f Pascalis Vuicic, Episc. Antiphellen. f Ludovicus Ideo, Episc. Liparen. f Michael Paya y Rico, Episc. Conchen. f Jacobus Etheridge, Episc. Toronen. f Petrus Cubero y Lopez de Padilla, Episc. Oriolen. f Dominicus Fanelli, Episc. Dianen. f Joachin Lluch, Episc. Canarien. et S. Christophori in Laguna. f Ignatius Papardo, Episc. Mynden. f Joannes Antonius Augustus, Episc. Apamien. f Petrus Tilkian, Episc. Brusen. Arm. rit.
 
 Litterae Episcoporum quingentorum.
-
-43
 
 7 Antonius Maria Valenziani, Episc. Fabrianen. et Mathelicen. f Hyacintlms Luzi, Episc. Narnien. f Thomas Grace, Episc. 8. Pauli de Minnesota. f Antonius Halagi, Episc. Artuinien. Arm. rit.
 
@@ -4647,8 +4297,6 @@ f Julius Ravinet, Episc. Trecen. f Antonius de Trinitate de Vasconcellos Pereira
 f Callistus Castillo y Orriedo, Episc. Legionen. f Silvester Horton Rosecrans, Episc. Pompejopolitan. f Victor Felix Bernardon, Episc. Vapincen.
 
 f Augustinus David, Episc. Briocen. f Ludovicus Nogret, Episc. S. Claudii. f Antonius Boutonnet, Episc. Guadalupen. f Pantaleo Monserrat y Navarro, Episc. Barcinonen. f Joseph Fessler, Episc. St. Hippolyti. f Marianus Puigllat y Amigo, Episc. Illerden. f Constantinus Bonet, Episc. Gerunden.
-
-44
 
 Litterae Episcoporum quingentorum.
 
@@ -4662,21 +4310,13 @@ f Nicolaus Power, Episc. Sareptan. f Laurentius Bonaventura Shiel, Episc. Adelai
 
 Eleclus.
 
-45
-
 Litterae Episcoporum quingentorum.
 
 f Antonius Jorda' y Soler, Episc. Vicen. f Agapius Bsciai, Episc. Cariopolitan. f Stephanus Melchisedechian, Episc. Erzerumien. Armen. rit. f Carolus Philippus Place, Episc. Marsilien. Joannes Baptista Lequette, Episc. Atrebaten. Alfredus Grimardias, Episc. Cadurcen. Petrus f Joannes Maria Becel, Episc. Veneten. -J\*
 
-\-j-
-
-\-J-
-
 Georgius Dubocowich, Episc. Pharen.
 
 f Jacobus Lyngh, Episc. Arcadiopolitan. f Joseph de la Cuesta y Maroto, Episc. Aurien. Jacobus Chadwick, Episc. Hagulstaden. et Novo Castren.
-
-\-J-
 
 f Angelus di Pietro, Episc. Nyssen. f Joseph Aggarbati, Episc. Senogallien. f Joseph Bovieri, Episc. Montis Falisci. f Julius Lenti, Episc. Sutrin. et Nepesin. f Thomas Gallucci, Episc. Recineten. et Lauretan. f Joannes Baptista Cerruti, Episc. Savonen. et Naulen. f Salvator Angelus Demartis, Episc. Galtellirren. Noren. f Philippus Manetti, Episc. Tripolitan. f Conceptus Focaccetti, Episc. Lystren. f Franciscus Fauli, Episc. Grossetan. f Joseph Rosati, Episc. Lunen.-Sarzanen. f Josephus Giusti, Episc. Aretinus. f Carolus Macchi, Episc. Regien. f Joannes Zalka, Episc. Jaurinensis. f Cajetanus Franceschini, Episc. Maceraten. et Tolentin. f Antonius Fania, Episc. Marsicen. et Potentinen. f Andreas Formica, Episc. Cuneen. f Carolus Savio, Episc. Asten. f Laurentius Gastaldi, Episc. Salutiar. f Eugenius Galletti, Episc. Alba Pompejen.
 
@@ -4690,15 +4330,11 @@ f Franciscus Gros, Episc. Tarantasiensis. f Joannes Chrysostomus Kruesz, Archiab
 
 Responsum SS. D. N. Pii PP. IX.
 
-46
-
 VI.
 
 RESPONSUM SS. D. N. PII PP. IX. AD
 
 LITTERAS EPISCOPORUM.
-
-1867.
 
 Yenerabiles Fratres!
 
@@ -4785,8 +4421,6 @@ Dilectum vero
 obsequii in Nos et di-
 
 prosequenda duxistis; quo et alacriores animos et eum vindicaretis a conflatis in ipsum calumniis, ipsi adjiceretis et foedam illis sacrilegae proditionis notam inureretis, qui, felicitatis populi ,
-
-47
 
 Responsum SS. D. N. Pii PP. IX. obtentu,
 
@@ -4882,10 +4516,6 @@ firmamentum veritatis, ac caelestibus ditata thesauris tutum salutis iter,
 
 ac verae doctrinae lucem omnibus populis ostendit, et instar navis in altum saeculi hujus ita natat, ut, pereunte mundo, omnes, quos suscipit, servet illaesos \*.
 
-1
-
-S.
-
 Ut autem ejusdem Ecclesiae regimen
 
 Max. Serm.
@@ -4901,8 +4531,6 @@ atque
 ex
 
 Bulla Convocationis.
-
-49
 
 ordine procederet, et omnis christianus populus in una semper fide, doctrina, caritate et communione persisteret, tum semetipsum perpetuo affuturum usque ad consummationem saeculi promisit, tum etiam ex omnibus unum selegit Petrum, quem Apostolorum Principem, suumque hic in terris Yi-
 
@@ -4998,15 +4626,11 @@ despecta, spectatissimi viri
 
 divino ministerio addicti, hominesque catholici» sensibus praestantes modis 1
 
-S.
-
 Leo Serm. II.
 
 Conc. Vatic.
 
 Bulla Convocationis.
-
-50
 
 omnibus divexati, et Religiosae Familiae extinctae, et impii omnis generis ac pestiferae ephemerides, et multiformes perniciosissimae sectae undi-
 
@@ -5095,8 +4719,6 @@ gloriam, et fidei integritatem, divinique cultus
 decorem, sempiternamque hominum salutem, et utriusque Cleri disciplinam, ejusque salutarem solidamque culturam, atque ecclesiasticarum legum observantiam morumque emendationem, et christianam juventutis institutionem,
 
 communem omnium pacem et concordiam in primis respiciunt. Atque etiam intentissimo studio curandum est, ut, Deo bene juvante, omnia ab Ecclesia et civili societate amoveantur mala, ut miseri errantes ad rectum et
-
-51
 
 Bulla Convocationis.
 
@@ -5188,21 +4810,13 @@ edimento, quod tamen per legitimos procuratores Synodo probare debebunt, icro hu
 
 gratia efficiat, ut
 
-1
-
 Matth.
-
-c.
 
 omnes supremi omnium «populorum Principes, et Mo\*
 
 XVIII, v.
 
-20.
-
 Bulla Convocationis.
-
-52
 
 deratores praesertim catholici quotidie magis noscentes maxima bona in humanam societatem ex catholica Ecclesia redundare, ipsamque firmissimum
 
@@ -5290,8 +4904,6 @@ Datarius.
 
 t Ego Constantinus Episc. Portuen. et S. Rufinae Card. Patrizi. t Ego Aloysius Episc. Praenestinus Card. Amat S. R. E. Vice-Cancellarius.
 
-53
-
 Bulla Convocationis.
 
 f Ego Nicolaus
@@ -5303,8 +4915,6 @@ Tusculanus Card.
 Paracciani
 
 Clarelli
-
-a
 
 Secretis
 
@@ -5334,8 +4944,6 @@ f Ego Gustavus Tit. S. Mariae in Transpontina Presb. Card. de Hohenlohe. f Ego A
 
 Loco
 
-\-f
-
 Plumbi
 
 Reg. in Secretaria Brevium.
@@ -5347,8 +4955,6 @@ Clarelli.
 Yisa de Curia: D. Bruti. J. Cugnionius.
 
 Lltterae Apostolicae SS. D. N. Pii
-
-54
 
 PP. IX.
 
@@ -5369,8 +4975,6 @@ meritis Nostris y
 hac sublimi Cathedra haeredes Beatissimi Apostolorum Principis conqui juxta praerogativam sibi a Deo concessam firma et solidissima
 
 stituti ,
-
-4
 
 , impositi Nobis oneris ad eos omnes in qualibet terrarum Orbis regione degentes, qui christiano nomine censentur, curas Nostras extendere, omnesque ad paternae caritatis amplexus excitare vehementissime cupimus et conamur. Nec vero absque gravi animae Nostrae periculo partem ullam christiani populi negligere possumus, qui pretiosissimo Salvatoris Nostri San-
 
@@ -5412,19 +5016,11 @@ nationes qui
 
 Yobis pacis caritatisque verba toto cordis affectu loquuti sumus 2 Etsi vero haec Nostra verba optatissimum minime obtinuerint exitum, tamen nunquam Nos deseruit spes, fore ut humiles aeque ac ferventes Nostras preces propitius exaudire dignetur clementissimus ac benignissimus salutis .
 
-1
-
-2
-
 Greg. Nyss. Laudatio altera S. Steph. Protomart. apud Galland. VI, 600. Epist ad Orient. In suprema, die 6. januarii, an. 1848.
-
-S.
 
 PP. IX.
 
 Litterae Apostolicae SS. D. N. Pii
-
-55
 
 pacisque Auctor, qui operatus est in medio terrae salutem, quique oriens ex alto pacem sibi acceptam et ab omnibus acceptandam evidenter osten-
 
@@ -5512,8 +5108,6 @@ in dies
 
 Datum Romae apud S. Petrum, die 8. septembris anno 1868. Pontificatus Nostri anno vigesimotertio.
 
-1
-
 Epist. B. Gregorii
 
 X. ad Michaelem Palaeologum
@@ -5527,8 +5121,6 @@ Graec. Imper., die 24. octohris
 Epist. LXX., al. CCXX. S. Basilii Magni ad S. Damasum Papam. Defin. S. oecum. Synodi Florent. in Bulla Eugejjii IV. Laetentur coek.
 
 Litterae Apostolicae SS. D. N. Pii PP. IX.
-
-56
 
 IX.
 
@@ -5611,8 +5203,6 @@ num
 PP. IX.
 
 Litterae Apostolicae SS. D. N. Pii
-
-57
 
 mino praescriptam sectentur, quae ad aeternam perducit salutem. Et quidem nemo inficiari ac dubitare potest, ipsum Christum Jesum, ut humanis omnibus generationibus redemptionis suae fructus applicaret suam hic in supra Petrum unicam aedificasse Ecclesiam, id est unam, sanctam, ,
 
@@ -5786,8 +5376,6 @@ hos infelicissimos rerum ac
 
 Litterae Apostolicae SS. D. N. Pii
 
-58
-
 temporum motus et perturbationes in
 
 ,
@@ -5838,10 +5426,6 @@ potest, nisi fiat
 
 Nostri anno vigesimotertio.
 
-1
-
-S.
-
 August. Ep. LXL,
 
 al.
@@ -5851,10 +5435,6 @@ CCXXIII.
 Pontificatus
 
 Congregationes et Commissiones.
-
-59
-
-X.
 
 CONGKEGATIONES ET COMMISSIONES, QUAE
 
@@ -5898,8 +5478,6 @@ Lovan.
 
 Car. Jos. Hefele, prof. hist.
 
-e.
-
 Tubing.
 
 Commissio caerimoniarum. Praeses
@@ -5911,8 +5489,6 @@ Card. Patrizi.
 Consultores:
 
 Dominic. Bartolini, Secr.
-
-S.
 
 C. Rit.
 
@@ -5935,8 +5511,6 @@ Marinus Marini, A. E. Urbis Veteris (Orvieto). Jos. Papardo del Parco, Ep. Sinop
 Ludov. Jacobini, canon. bas. Lateran.
 
 Congregationes et Commissiones.
-
-60
 
 Consultores:
 
@@ -6000,8 +5574,6 @@ P. Carol. Capelli, Proc. gen. PP. Barnabit. P. M. Fr. Raym. Bianchi 0. Praed. P.
 
 P. Firminus Costa S.
 
-J.
-
 Victorian. Guisasola, Proton. ap. Franc. Stoppani, can. S. Mar. Transtib.
 
 Commissio Praeses
@@ -6028,8 +5600,6 @@ et
 
 Commissiones.
 
-61
-
 Spada 0. Praed.
 
 P. M. Hyae. de? Ferrari 0. Praed. P. Jo. Perrone S. J. Jo. Schwetz, Prael.
@@ -6043,8 +5613,6 @@ Rom.
 Jos. Pecci, prof. philos. in univ.
 
 P. Jo. B. Franzelin S. J. P. Clem. Schrader S.
-
-J.
 
 Camill. Santori, can. S. Mar. ad Mart. Placid. Petacci, benef. Bas. SS. Laur. et
 
@@ -6072,15 +5640,11 @@ Ludov. Jacobini. Venant. Mobili, can. Bas. Liber. Angel. Lucidi. Phil. de Angeli
 
 hist.
 
-e.
-
 Wirceburg.
 
 Henr. Sauve, can. Lavaliens. Jos. Giese, can. Monast. Casp. Heuser, prof. Colon. Jos. de Torres Padilla, prof. Hispal.
 
 Litterae Apostolicae SS. D. N, Pii
-
-62
 
 PP. IX.
 
@@ -6094,10 +5658,6 @@ OB FUTURUM CONCILIUM INDULGENTIA PLENARIA IN FORMA JUBILAEI OMNIBUS FIDELIBUS CO
 
 APR.
 
-11.
-
-1869.
-
 Omnibus Christifidelibus, praesentes litteras inspecturis, PIUS PP. IX. salutem
 
 et
@@ -6105,8 +5665,6 @@ et
 apostolicam benedictionem.
 
 Nemo certe ignorat, Oecumenicum Concilium a Nobis fuisse indictum in Basilica Nostra Yaticana, die
-
-"8.
 
 futuri mensis
 
@@ -6182,27 +5740,13 @@ S. Jac.
 
 quam Nobis Dominus, licet indignis, contulit, universis ac
 
-1.
-
-v.
-
-17.
-
 Sapient. cap.
-
-9.
 
 v. 4.
 
-c.
-
 ex illa ligandi ac sol-
 
-10.
-
 Litterae Apostolicae SS. D. N. Pii PP. IX.
-
-63
 
 Christifidelibus in alma Urbe Nostra degentibus, singulis utriusque sexus ad eam advenientibus , qui a die primo futuri mensis Junii usque ad
 
@@ -6306,8 +5850,6 @@ sit
 
 Litterae Apostolicae SS. D. N. Pii PP. IX.
 
-64
-
 aliisque ecclesiasticis sententiis, et censuris a jure vel ab homine quavis de causa latis vel inflictis, praeter infra exceptas, necnon ab omnibus peccatis,
 
 excessibus, criminibus et delictis quantumvis gravibus et enormibus, etiam
@@ -6395,8 +5937,6 @@ Non obstantibus Constitutionibus
 et
 
 sertim quibus facultas absolvendi in certis
-
-65
 
 Ordinationibus Apostolicis, praetunc expressis casibus ita ro-
 
@@ -6510,8 +6050,6 @@ die
 
 Litterae Apostolicae SS. D. N. Pii
 
-66
-
 PP. IX.
 
 '
@@ -6531,8 +6069,6 @@ maxime excitamur, qua propitiante illud celeriter Nobis continget, ut sacrosanct
 in quo omnium Pastorum
 
 custodia perseverat
-
-2 .
 
 sollicitudo
 
@@ -6562,21 +6098,11 @@ in
 
 quae sequuntur decernimus, atque ab omnibus hoc Yaticano Concilio servanda esse praecipimus.
 
-1
-
 2 Corinth. 1, 4.
-
-2
-
-S.
 
 Leo P., Serm. 2. in Annivers. Assumptionis.
 
 Litterae Apostolicae SS. D. N. Pii PP. IX.
-
-67
-
-I.
 
 De modo vivendi in
 
@@ -6652,31 +6178,17 @@ fratres
 
 domesticorum suorum cura
 
-1
-
 Jacob.
-
-2
 
 Luc. 11, 13.
 
-3
-
 Litt. Nostr.
-
-1,
-
-17.
-
-4
 
 11\. aprilis 1869.
 
 Ep. ad Hebr. 9, 14. 5 Ep. ad Tit 2, 7. 6
 
 Ps. 132,
-
-1.
 
 in
 
@@ -6695,8 +6207,6 @@ eis
 sanctaeque vitae dis-
 
 Litterae Apostolicae SS. D. N. Pii
-
-68
 
 ciplina exigenda,
 
@@ -6760,19 +6270,11 @@ quaecumque,
 
 pandant; praecipimus pariter, ut Officiales Concilii, qui episcopali dignitate 1
 
-1
-
 Timoth.
-
-3,
-
-4.
 
 Litterae Apostolicae SS. D. N. Pii
 
 PP. IX.
-
-69
 
 praediti non "sunt , aliique omnes , qui ratione cujusvis deraandati a Nobis ministerii Conciliaribus disceptationibus inservire debent, juramentum emittere teneantur de munere fideliter obeundp, et de secreti fide servanda circa ea omnia,
 
@@ -6816,15 +6318,11 @@ novum jus acquiratur \*. Y.
 
 De Judicibus excusationum et querelarum. Quo graviorum rerum pertractatio quae in hac Sacrosancta Synodo retardetur ob gerive debent, minus quam fieri possit, impediatur aut ,
 
-;i
-
 )gnitionem causarum, quae singulos respiciunt statuimus, ut ipsa Synodus schedulas secretas quinque ex Concilii Patribus eligat in Judices ex:
 
 \>er
 
 quorum erit procurationes mtium, necnon eorum postulata, qui, isationum,
-
-1
 
 Conc. Trid. Sess.
 
@@ -6849,8 +6347,6 @@ ab-
 justam
 
 Litterae Apostolicae SS. D. N. Pii PP. IX.
-
-70
 
 discedendi causam se habere putaverint, excipere, atque ad normam condisciplinae et SS. Canonum expendere: quod cum fecerint, non
 
@@ -6930,8 +6426,6 @@ Yenerabilem Fratrem Josephum Episcopum
 
 Secretarium,
 
-S.
-
 ministri
 
 omnibus in hac
@@ -6997,8 +6491,6 @@ Tosti, et
 Philippum Ralli S. Consistorii Advocatos.
 
 Litterae Apostolicae SS. D. N. Pii PP. IX.
-
-71
 
 Magistros Caeremoniarum Concilii, Dilectos Filios Aloysium Ferrari Antistitem Nostrum domesticum Praefectum, et Pium Martinucci, Camillum Balestra, Remigium Ricci, Josephum Romagnoli, Petrum Josephum Rinaldi6.
 
@@ -7073,8 +6565,6 @@ vavimus, iisdem Patribus in Congregationem Generalem collectis ad examen Itaque,
 " judicium subjiciantur.
 
 Litterae Apostolicae SS. D. N. Pii PP. IX.
-
-72
 
 ante dies
 
@@ -7188,8 +6678,6 @@ pronuntiare.
 
 Litterae Apostolicae SS. D. N. Pii PP. IX.
 
-73
-
 YHI.
 
 De Sessionibus publicis. Publicarum nunc Sessionum celebratio exigit, ut rebus et actionibus dirigendis congrua ratione consulamus. Itaque in unaquaque considentibus suo loco et ordine Patribus, servatisque ad publica Sessione, amussim caeremoniis, quae in rituali instructione iisdem Patribus de man-
@@ -7251,8 +6739,6 @@ praecipimus sub poenis per SS. Canones indictis, ut ne quis eorum, antequam Sacr
 ac impetrata
 
 Duo Brevia
-
-74
 
 a SS. D. N. Pio PP. IX.
 
@@ -7326,15 +6812,11 @@ III.
 
 Brev.
 
-1.
-
 januarii 1546.
 
 Pius IV. Brev. 25. nov. 1561.
 
 Duo Brevia a SS. D. N. Pio PP. IX.
-
-75
 
 XIII.
 
@@ -7343,8 +6825,6 @@ DITO
 BREVIA A SS. D. K PIO PP. IX. DATA
 
 tCHIEPISCOPO WESTMONASTERIENSI DE INVITATIS CONCILIUM ACATHOLICIS.
-
-A.
 
 AD
 
@@ -7456,8 +6936,6 @@ interrogavit
 
 Duo Brevia a SS. D. N. Pio PP. IX.
 
-76
-
 quam de infallibilitate judicii
 
 sententiairi consideret,
@@ -7524,8 +7002,6 @@ PIUS PP. IX. B.
 
 Datum 30. Oct.
 
-1869.
-
 VENERABILI FRATRI HENRICO EDUARDO Archiepiscopo Westmonasteriensi.
 
 Yenerabilis Frater! litteris
@@ -7541,8 +7017,6 @@ et
 Apostolicam Benedictionem.
 
 Yenerabilis Frater, datis die
-
-4.
 
 •
 
@@ -7575,8 +7049,6 @@ quae propterea a sapientibus prudentibusque
 Constitutio SS. D. N. Pii
 
 PP. IX.
-
-77
 
 Licet enim id fieri nequeat in Concilio viri serio expendi desiderent. tamen divinarum rerum periti a Nobis designandi ipsis non deerunt quibus mentem suam aperire possint omniaque rationum momenta sententiae ,
 
@@ -7634,8 +7106,6 @@ die
 
 30\. octobris
 
-1869.
-
 Pontificatus
 
 Nostri anno
@@ -7663,8 +7133,6 @@ providentiam impendat.
 Quamobrem cum animo nostro jampridem revol-
 
 Constitutio SS. D. N. Pii
-
-78
 
 PP. IX.
 
@@ -7762,8 +7230,6 @@ ab ordinationibus seu mandatis Romanorum Pontificum pro tempore
 
 Constitutio SS. D. N. Pii PP. IX.
 
-79
-
 existentium ad universale futurum Concilium appellantes, necnon eos, quo-
 
 rum auxilio, consilio vel favore appellatum fuerit. 5. Omnes interficientes, mutilantes, percutientes, capientes, carcerantes, detinentes, vel hostiliter insequentes S. R. E. Cardinales, Patriarchas, Archiepiscopos, Episcopos, Sedisque Apostolicae Legatos, vel Nuncios, aut eos
@@ -7771,8 +7237,6 @@ rum auxilio, consilio vel favore appellatum fuerit. 5. Omnes interficientes, mut
 a suis Dioecesibus, Territoriis, Terris, seu Dominiis ejicientes, necnon ea mandantes, vel rata habentes, seu praestantes in eis auxilium, consilium vel favorem.
 
 Impedientes directe vel indirecte exercitium jurisdictionis ecclesiaet ad hoc recurrentes ad forum sae-
-
-6.
 
 sticae sive interni sive externi fori,
 
@@ -7789,8 +7253,6 @@ item edentes leges vel decreta contra libertatem aut jura Ecclesiae. 8. Recurren
 eorum causa sive ipsas partes, sive alios laeden-
 
 Omnes falsarios litterarum Apostolicarum
-
-9.
 
 ,
 
@@ -7811,8 +7273,6 @@ Absolventes complicem in peccato turpi etiam in mortis articulo, Sacerdos licet 
 si
 
 alius
-
-11.
 
 sonas
 
@@ -7841,8 +7301,6 @@ cujuscumque Ordinis, Congregationis
 Societatis et Instituti, etiam speciali
 
 Constitutio SS. D. N. Pii
-
-80
 
 PP. IX.
 
@@ -7892,11 +7350,7 @@ primum
 
 2\. junii
 
-1746;
-
 Ad eradicandum
-
-28.
 
 septembris 1746. 2. Yiolentas manus, suadente diabolo, injicientes in Clericos, vel utriusque sexus Monachos, exceptis quoad reservationem casibus et personis, de
 
@@ -7940,8 +7394,6 @@ grediendo; pariterque eos introducentes vel admittentes; itemque Moniales ab ill
 
 Reos simoniae
 
-8.
-
 realis in beneficiis
 
 clausuram,
@@ -7976,11 +7428,7 @@ censura spiritualibus excommunicationis
 
 Quam plenum
 
-2.
-
 PP. IX.
-
-81
 
 plectuntur Constitutione S. Pii V.
 
@@ -8030,8 +7478,6 @@ sumentes.
 
 Procurantes abortum, effectu sequuto.
 
-2.
-
 3\. Litteris apostolicis falsis scienter utentes,
 
 vel crimini ea in re co-
@@ -8039,8 +7485,6 @@ vel crimini ea in re co-
 operantes.
 
 Excommunicationes latae sententiae nemini reservatae. Excommunicationi latae sententiae nemini reservatae subjacere declaramus 1. Mandantes seu cogentes tradi ecclesiasticae sepulturae haereticos notorios aut nominatim excommunicatos vel inierdictos. :
-
-2.
 
 aliosve
 
@@ -8060,8 +7504,6 @@ diripientes,
 
 Constitutio SS. D. N. Pii
 
-82
-
 aut comburentes,
 
 PP. IX.
@@ -8076,15 +7518,11 @@ praestantes.
 
 Alienantes et recipere praesumentes bona ecclesiastica
 
-3.
-
 neplacito Apostolico, non alienandis.
 
 absque bead formam Extravagantis Ambitiosae, De Reb. Ecc.
 
 Negligentes sive
-
-4.
 
 culpabiliter
 
@@ -8168,8 +7606,6 @@ qui bona fide a quopiam
 
 PP. IX.
 
-83
-
 eorum est ordinatus, exercitium non
 
 habere ordinis sic suscepti, donec dispensetur, declaramus. 7. Clerici saeculares exteri ultra quatuor menses in Urbe commorantes, suo Ordinario absque licentia Card. Urbis coram eodem peracto vel etiam a examine Yicarii, vel absque praevio in praedicto examine rejecti fuerint; necproprio Ordinario, posteaquam non clerici pertinentes ad aliquem e sex Episcopatibus suburbicariis si ordinentur extra suam dioecesim, dimissorialibus sui Ordinarii ad alium directis quam ad Card. Urbis Yicarium; vel non praemissis ante ordinem ordinati ab alio
@@ -8183,8 +7619,6 @@ ipso
 sacrum suscipiendum exercitiis spiritualibus per decem dies in domo urbana Sacerdotum a Missione nuncupatorum, suspensionem ab ordinibus sic susceptis ad beneplacitum S. Sedis ipso jure incurrunt, Episcopi vero ordinantes ab usu Pontificalium per annum.
 
 Interdicta latae sententiae reservata.
-
-1.
 
 Interdictum Iiomano Pontifici speciali
 
@@ -8250,13 +7684,9 @@ ratione
 
 vilegia aut facultates, sive a Praedecessoribus Nostris, sive etiam a
 
-6\*
-
 Nobis
 
 Constitutio SS. D. N. Pii
-
-84
 
 PP. IX.
 
@@ -8444,8 +7874,6 @@ et Pauli,
 
 Dominicae mille-
 
-85
-
 Responsa aliqua Congregationum Romanarum.
 
 simo octingentesimo sexagesimo nono nostri anno vigesimo quarto.
@@ -8455,8 +7883,6 @@ simo octingentesimo sexagesimo nono nostri anno vigesimo quarto.
 Marius Card. Mattei, Pro-Datarius.
 
 Loco
-
-\-I-
 
 quarto idus octobris,
 
@@ -8477,8 +7903,6 @@ xv.
 RESPONSA ALIQUA CONaREOATIONUM ROMANARUM AD
 
 JUBILAEUM ET PRECES INDICTAS OB FUTURUM CONCILIUM PERTINENTIA.
-
-A.
 
 RESPONSUM S. POENITENTIARIAE de dubiis circa Jubilaeum. D.-l. junii 1869.
 
@@ -8518,8 +7942,6 @@ delle
 
 della S.
 
-i
-
 Isolvere
 
 Sede,
@@ -8535,8 +7957,6 @@ loro mandanti, aderenti, e cooperatori,
 e coloro,
 
 Responsa aliqua Congregatioimm Romanarum.
-
-e
 
 che promossero leggi inique, delle
 
@@ -8578,17 +7998,11 @@ dum est. 2.
 
 Se
 
-e
-
 come possano
 
 dai Confessori assolversi quegli Ecclesiastici, quali formarono o sottos.crissero indirizzi contro il temporale dominio della S. Sede? 2 ,
 
-i
-
 R. Affirmative, facta prius ac sufficienter publicata retractatione juxta Litteras 3.
-
-s.
 
 Poenitentiariae diei 28. maji 1863.
 
@@ -8622,8 +8036,6 @@ et successores
 
 :
 
-1
-
 Latine:
 
 An virtute facultatum Litteris Apostolicis d. d. 11. apr. datarum Confes-
@@ -8641,8 +8053,6 @@ An possint a Confessariis absolvi violatores immunitatis ecclesiasticae perso-
 nalis et localis, atque clausurae? \* Lat.: An et quomodo possint absolvi qui alienata coemerunt vel possident?
 
 bona immobilia Ecclesiae per fiscum ab»
-
-87
 
 Responsa aliqua Congregatiomim Romanarum,\*
 
@@ -8670,8 +8080,6 @@ et
 
 ,
 
-5.
-
 locis
 
 ,
@@ -8679,8 +8087,6 @@ locis
 Se possano assolversi, e sotto quali condizioni coloro, che acqiiistarono beni ecclesiastici immobili, e poi li vendettero ad altri, e che cooperarono
 
 E. Affirmative,
-
-a'
 
 contratti sopra
 
@@ -8691,8 +8097,6 @@ deposito
 Ordinarii, ad effectum
 
 illud
-
-i
 
 medesimi beni? \*
 
@@ -8716,13 +8120,9 @@ aut de suppellectilibus et vasis sacris , imobligatio quamprimum recurrendi ad L
 
 ponatur poenitentibus Ordinarium ad hoc, ut super iisdem rebus provideat juxta Indultum ipsi Ordinario jam a s. Poenitentiaria concessum. .
 
-7.
-
 Se
 
 ,
-
-e
 
 come possano assolversi coloro che presero od alienati dal Demanio? 3 ,
 
@@ -8731,8 +8131,6 @@ in affitto beni
 ecclesiastici occupati,
 
 R. Affirmative, imposita Poenitentibus obligatione quamprimum recurrendi ad Loci Ordinarium, ad hoc, ut super bonis conductis provideat juxta Indultum concessum. 8.
-
-1
 
 ipsi Ordinario
 
@@ -8806,13 +8204,9 @@ tus fuerit.
 
 6a. Monendi heredes
 
-9.
-
 et successores de hujusmodi obligationibus per syngrapham, ut et ipsi sciant ad quid teneantur. Se, e come possano assolversi coloro, che non solo presero dal Groverno in enfiteusi beni ecclesiastici ma ancora gli affrancarono ? \* ,
 
 R. Hujusmodi Poenitentibus providendum prout in superiori responso ad dubium sub n. 4. 10. Se,
-
-e
 
 come possano assolversi coloro, che hanno redento censi e
 
@@ -8864,19 +8258,13 @@ quae natura sua redimi non possunt, affrancaverunt ?
 
 Responsa aliqua Congregationum Romanarum.
 
-89
-
 3a. Servandi indemnia quocumque tempore loca pia super integra perceptione canonis, livelli, ac praestationis ac super quibusvis juribus, quae ad ipsa loca pia exinde spectabant; necnon adimplendi prout de jure pia onera fundis adnexa, quatenus aliis
 
 4 a.
 
 aliunde non adimpleantur. Monendi heredes et successores per syngrapham subscriptam de hujusmodi obligationibus ut et ipsi sciant, ad quid teneantur. ,
 
-12.
-
 Se nelle facolta del Giubileo vere
-
-i
 
 sia
 
@@ -8898,15 +8286,11 @@ e cen-
 
 sure riservate possa essere assoluto per la seconda volta ripetendo le
 
-2
-
 opere ingiunte?
 
 R. Negative.
 
 Se chi ha conseguito gia una volta 1'indulgenza del Giubileo possa 3 conseguirla di nuovo, purche ripeta le opere ingiunte? R. Affirmative. 14.
-
-15.
 
 Se i Confessori possano usare delle facolta straordinarie con chi dimandasse bensi di essere assoluto e dispensato; ma non avesse ,
 
@@ -8917,8 +8301,6 @@ R. Negative.
 Datum Romae in s. Poenitentiaria die 1. junii 1869. Antonius Maria Card. Fanebianco, Poenitentiarius major. L.
 
 Can. Peirano, S. P. Secretarius.
-
-B.
 
 RESPONSUM S. CONGREGATIONIS SS. RITUUM de missa
 
@@ -8954,8 +8336,6 @@ Lat.:
 
 An quis tempore Jubilaei virtute ejusdem
 
-a
-
 casibus
 
 et
@@ -8971,8 +8351,6 @@ qui absolvi
 quidem et dispensationem recipere volunt, nec vero voluntatem habent faciendi bona opera injuncta et lucrandi Jubilaei?
 
 Responsa aliqua Congregationum Romanarum.
-
-90
 
 omnibus Ecclesiis Capitularibus et Conventualibus Urbis praeter consuetam Conventualem celebrandam qualibet feria Y. 1869,
 
@@ -9082,8 +8460,6 @@ At-
 
 Responsa aliqua Congregationum Romanarum.
 
-91
-
 Facta autem per me infrascriptum Secretarium de praemissis Sanctissimo Domino Nostro Pio Papae IX. relatione, Sanctitas Sua sacrae Congregationis responsa approbavit, iisdem mense et anno.
 
 Die 8.
@@ -9096,11 +8472,7 @@ C. Epis.
 
 Loco f Signi. D. Bartolini,
 
-S.
-
 R. C. Secretarius.
-
-c.
 
 RESPONSUM S. CONGREGATIONIS INDULGENTIARUM ET SS. RELIQUIARUM de quibusdam dubiis circa Jubilaeum. D.
 
@@ -9108,13 +8480,9 @@ bus
 
 10\. jul.
 
-1869.
-
 Editis Litteris Apostolicis in forma Brevis die 11. aprilis 1869, quiSS mus D. N. Pius PP. IX. omnibus Christifidelibus indulgentiam
 
 plenariam in forma Jubilaei occasione Oecumenici Concilii concessit, huic S. Congregationi Indulgentiarum et SS. Reliquiarum infrascripta proposita sunt dubia praesertim circa jejunia, quae Christifideles servare debent, ut Quibus sedulo perpensis indulgentiam hujus Jubilaei lucrari valeant.
-
-S.
 
 Congregatio
 
@@ -9176,8 +8544,6 @@ Cum Religiosi S. Francisci teneantur jejunare a secunda
 
 Responsa aliqua Congregationum Romanarum.
 
-92
-
 die novembris usque ad Nativitatem Domini, quaeritur, utrum hoc decurtempore ipsi possint unico jejunio tribus praescriptis diebus facto
 
 rente
@@ -9230,8 +8596,6 @@ Quod si judicio Confessarii id praestare nequiverint, Confessarius ipse poterit 
 
 continuis.
 
-u
-
 Quaeritur an in hoc Jubilaeo ob
 
 junii in diversas
@@ -9278,25 +8642,17 @@ servata in ceteris jejunii ecclesiastici forma.
 
 Responsa aliqua Congregationum Romanarum.
 
-93
-
 Datum Romae e Sacra Congregatione Indulgentiarum et SS. Reliquiadie 10. julii 1869. A.
 
 Card. Bizzarri, Praefectus.
 
 Pro R. P. D. Secretario Dominicus Sarra, Pro-Substitutus.
 
-D.
-
 RESPONSUM S. CONGREGATIONIS SS. RITUUM, 10
 
 conceditur Episcopis eorumque consultoribus et capellanis, ut in Missa Breviario sequi possint Calendarium Romanum.
 
-D.
-
 SS. D. N. Pius
-
-19.
 
 et
 
@@ -9326,8 +8682,6 @@ Pro R. P. D. Bartolini secretario Josephus Ciccolini Substit.
 
 Eesponsa aliqua Congregationum Romanarum.
 
-94
-
 XVI ELENCHUS VBSTIUM ET SACRORUM PARAMENTORUM, QUAE
 
 REVERENDISSIMI DD. ARCHIEPISCOPI ET EPISCOPI LATINI RITUS ROMAM ADVENIENTES PRO OECUMENICO CONCILIO VATICANO CELEBRANDO SECUM DEFERRI CURABUNT.
@@ -9339,8 +8693,6 @@ Vestes Praelaticias ea forma, quae praescripta est in Caeremoniali Romano lib. I
 vero regulari promoti 2.
 
 §.
-
-3,
 
 et
 
@@ -9365,8 +8717,6 @@ Caerem. Praef.
 Constitutio SS. D. N. Pii
 
 PP. IX.
-
-95
 
 XVII. CTISSIMI DOMINI NOSTRI PII DIVINA PROVIDENTIA
 
@@ -9404,31 +8754,19 @@ ratim et absque ulla exceptione declaratur ac decernitur, electionem Summi Ponti
 
 Haec Nos animo recolentes, cum oecumenicum et generale Concilium Yaticanum per Apostolicas Litteras, quae incipiunt Aeterni Patris III. kal. julias anno 1868, a Nobis indictum, in eo.iam sit, ut solemniter initietur, 1
 
-2
-
-8
-
 \*
 
 Cap. Licet de Electione. Cap. Ubi de Electione in
 
-6.
-
 Clement., 2, de Electione. Constit. Decet Romanum Pontificem.
 
-5
-
 Constit.
-
-6
 
 Constit. Apostolatus, IV. nonas octobris 1732.
 
 Ad Romani Ponlificis, V. kal. februarii 1628.
 
 Constitutio SS. D. N. Pii
-
-96
 
 PP. IX.
 
@@ -9470,8 +8808,6 @@ Synodi participatione bilibus Fratribus Nostris :
 
 ejusdem
 
-S.
-
 R. E. Cardinalibus matura delibe-
 
 ratione et diligenti examine, ex certa scientia Nostra, motu proprio ac de Apostolicae potestatis plenitudine declaramus, decerniraus atque statuimus: si placuerit Deo , mortali Nostrae peregrinationi praedicto generali , Concilio Yaticano perdurante, finem imponere electio novi Summi Ponti-
@@ -9481,8 +8817,6 @@ quod
 quibuscumque statu et terminis Concilium ipsum subsistat, nonnisi fieri debeat, minime vero per ipsum Concilium, per omnino exclusis ab eadem etiam electione peragenda quibuscumque atque in
 
 ficis,
-
-S.
 
 R. E. Cardinales
 
@@ -9524,8 +8858,6 @@ reassumptionem et prosequutionem
 
 duxerit intimandam.
 
-1
-
 Raynald, Annal. Eccles. ad
 
 annum 1513. N. VII.
@@ -9543,8 +8875,6 @@ ut quae
 censentes,
 
 ordinavimus tum
-
-97
 
 occasione
 
@@ -9593,8 +8923,6 @@ tali, quae ad effectum validitatis praemissorum necessario
 foret, notari, impugnari, redargui, invalidari, retractari, in jus vel controversiam revocari posse; neque easdem praesentes sub quibusvis aimilium vel dissimilium dispositionum revocationibus, limitationibus, modificationibus , derogationibus , sub verborum tenoribus et
 
 exprimenda
-
-i
 
 quibuscumque
 
@@ -9660,11 +8988,7 @@ pariter opus sit, |
 
 Conc. Vatic.
 
-7
-
 Constitutio SS. D. N. Pii
-
-98
 
 PP. IX.
 
@@ -9697,8 +9021,6 @@ ausu temerario contraire.
 dignationem Omnipotentis Dei ac Beatorum Petri et Pauli Apostolorum ejus se noverit incursurum.
 
 Datum Romae apud
-
-S.
 
 Petrum Anno Incarnationis Dominicae mille-
 
@@ -9744,11 +9066,7 @@ transscribere
 
 juvabit.
 
-V.
-
 Bullar.
-
-M.
 
 Aug.
 
@@ -9785,8 +9103,6 @@ et
 fuerit,
 
 PP. XV.
-
-99
 
 a nobis approbatum, ut illud cum omnibus et singulis in eo contentis ex nostri pastoralis officii debito providendum censuimus.
 
@@ -9870,8 +9186,6 @@ XV.
 
 Constitutio Gregorii PP.
 
-100
-
 non debent, intus et extra claudatur, et claves S. R. E. camerario ac magistro caeremoniarum et praelatis custodibus conclavis juxta solitum assignentur. Deinde accensis funalibus, tres cardinales capita ordinum et camerarius una cum magistro caeremoniarum latebras et angulos omnes conclavis diligenter perex iis, qui esse in conclavi prohibentur, intus remanserit. In quirunt, ne quis conelavi autem esse possunt familiares cardinalium, et alii officiales et ministri conclavis, qui in constitutione Pii IV. recensentur, quibus adduntur duo alii,
 
 unus famulus pro magistris caeremoniarum, et alius pro secretario sacri collegii; hac tamen conditione adjecta, ut famulus magistrorum caeremoniarum actu uni ex illis inserviat, et per sex menses ante fuerit ejus continuus commensalis, quae conditio in famulo secretarii similiter exigitur: omnium autem istorum conclavistarum post prandium diei sequentis fit recognitio, ne quis inter illos forte esset ex iis, qui in conclavi esse non possunt, quae recognitio ut certius fiat, jubentur conclavistae omnes intrare cappellam, et postea singillatim recensentur. et
@@ -9950,8 +9264,6 @@ Constitutio Gregorii PP.
 
 XV.
 
-101
-
 panulae sonum, conveniunt cardinales in eo praesentes, qui infirmitate non sunt impediti, ad cappellam Paulinam, et ibi celebrata consueta missa, et facta cardinalium communione, statim ad negotium electionis procedere debent, quod quidem hodie ex Gregorii Constitutione uno tantum ex tribus modis sive formis
 
 peragendum est, alioquin electio nullitatis vitio subjacet. Primus modus est, qui quasi per inspirationem vocatur: quando scilicet omnes cardinales quasi afflati Spiritu Sancto aliquem unanimiter et viva voce
@@ -9981,8 +9293,6 @@ voce prolatum aut scripto expressum, si voce non possit proferri. Exemplum autem
 :
 
 clavi, nullo, ut praefertur, praecedente speciali tractatu, diceret: Reverendissimi judico illum eligendum domini, perspecta singulari virtute et probitate R. D.
-
-N,
 
 esse in
 
@@ -10016,13 +9326,9 @@ compromissi, sarios N.,
 
 et
 
-N,
-
 unanimiter et concorditer, nemine discrepante, eligimus compromisetc cardinales quibus damus plenariam facultatem ^t po-
 
 et
-
-N
 
 ,
 
@@ -10041,8 +9347,6 @@ personam, an vero sufficiat, quod duo in unam concordent, et an debeant nominare
 quod usque volunt cardinales potestatem compromissarios habere eligendi et postea subjunguntur haec verba: Et promittimus, ms illum pro Romano Pontifice habituros, quem DD. compromissarii secundum formam praedictam duxerint eli,
 
 gendum; vel alia ad formam compromissariis praescriptam accommodata.
-
-102
 
 Constitutio Gregorii
 
@@ -10132,8 +9436,6 @@ Constitutio Gregorii
 
 PP. XV.
 
-103
-
 ad loca sigillorum inet paulo inferius duos circulos parvos possit dicanda: secundo, in medio continere debet haec verba: Eligo in Summum PonD. Cardinalem: tertio, in parte inferiori tificem reverendissimum dominum meum alios duos parvos circulos, ad loca sigillorum similiter demonstranda. tis scribi
 
 ,
@@ -10179,8 +9481,6 @@ medium
 continet hoc
 
 sum secundum longitudinem ipsius limbi: alterum vero continet hoc verbum Signa , similiter impressum ut praecedens. Hi autem limbi excogitati sunt
-
-g
 
 Nomm. q % 9 © 'GQ9Q9QQQGQQQQG
 
@@ -10244,8 +9544,6 @@ hoc modo
 
 ,
 
-104
-
 Constitutio Gregorii
 
 PP. XV.
@@ -10267,8 +9565,6 @@ Exemplum schedulae scrutinii scriptae.
 Constitutio Gregorii PP.
 
 XV.
-
-105
 
 schedulae in calicem, schedularum mixtio, earum numeratio, scrutinii publicatio, schedularum in filum insertio, earumque depositio seorsum. Delatio schedulae et duo sequentes actus
 
@@ -10381,8 +9677,6 @@ si
 numerus schedula-
 
 Constitutio Gregorii
-
-106
 
 PP. XV.
 
@@ -10507,8 +9801,6 @@ ad eum
 fieret
 
 accessus,
-
-107
 
 scribere
 
@@ -10662,8 +9954,6 @@ et
 
 voluerint, in simili folio
 
-108
-
 •
 
 Constitutio Gregorii
@@ -10770,8 +10060,6 @@ Constitutio Gregorii
 
 PP. XV.
 
-109
-
 rum, quae semper et palam per scrutatores fiet, ac statim post recognitionem, Et haec omnia, quae de scrutinii ritibus sunt sive electio sit sequuta sive non. exposita,
 
 servanda erunt diligenter a cardinalibus in omnibus
@@ -10832,8 +10120,6 @@ turum, omnino obseKvari praecipimus et mandamus; ac caeremoniale hujusmodi totum
 
 in
 
-§. 3.
-
 cardinales
 
 Decernentes
@@ -10874,8 +10160,6 @@ ejus se noverit incursurum.
 
 Datum Romae, apud
 
-S.
-
 Petrum, anno incarnationis Dominicae mdcxxii.,
 
 quarto idus martii, pontificatus nostri anno n.
@@ -10892,11 +10176,7 @@ tum demum fieri poterit, cum synodus absoluta erit.
 
 Methodus servanda in prima sessione sacri Concilii oecumenici.
 
-110
-
 xvm. METHODUS SERVANDA IN PRIMA SESSIONE SACRI CONCLLII OECUMENICI, QUOD IN PATRIARCHALI BASILICA S. PETRI IN VATICANO CELEBRABITUR.
-
-1.
 
 Clerus universus Urbis per
 
@@ -10982,8 +10262,6 @@ Aderunt quoque duo Reverendissimi Episcopi pro libro et candela. 8. Summus Ponti
 
 assistente.
 
-111
-
 Methodus servanda in prima sessione sacri Concilii oecumenici.
 
 et
@@ -11011,8 +10289,6 @@ re-
 praecinet hymnum Veni creator Spiritus, sequentur, omnibus interim genua flectentibus. sibi oblato,
 
 Post primum versum omnes surgent, sede gestatoria.
-
-11.
 
 et
 
@@ -11042,11 +10318,7 @@ Subdiaconus Apostolicus sacris vestibus indutus deferens Crucem Papalem inter du
 
 Abbates generales parati. Abbates nullius dioecesis parati. Episcopi i
 
-l
-
 .
-
-) f
 
 .
 
@@ -11059,8 +10331,6 @@ ordinem suae promotionis in-
 parati, juxta
 
 cedentes.
-
-( j
 
 Patriarchae parati.
 
@@ -11094,8 +10364,6 @@ et
 
 alii
 
-a
-
 dextris
 
 nuncupati.
@@ -11113,8 +10381,6 @@ solii
 custodis
 
 Methodus servanda in prima sessione sacri Concilii oecumenici.
-
-112
 
 Duo protonotarii de numero participantium notarii Concilii pro veste Papae. Cardinalis Diaconus evangelium in actione synodali cantaturus medius
 
@@ -11168,7 +10434,7 @@ generales Congregationum regularium. Ordinum seu Congregationum monasti-
 
 carum mitrae usum non habentium. Generales et Yicarii generales Ordinum mendicantium.
 
-Omnes cum habitu sui instituti, <
+Omnes cum habitu sui instituti, \<
 
 et qui clerici regulares sunt
 
@@ -11238,8 +10504,6 @@ praedictum.
 
 Methodus servanda in prima sessione sacri Concilii oecumenici. 18.
 
-113
-
 Summus Pontifex in ingressu basilicae e sede descendet, mitram
 
 deponet, accedet ad altare papale et super faldistorium procumbet. 19. Cantores postremum hymni versum concinent.
@@ -11293,8 +10557,6 @@ tum
 signabit librum et 3
 
 Methodus servanda in prima sessione sacri Concilii oecumenici.
-
-114
 
 seipsum, ac recitans Evangelium S. Ioannis revertetur cum suis ministris ad sacrarium, sacras vestes deponet, et pluviali indutus ad aulam redibit inter alios Eminentissimos Cardinales. 38.
 
@@ -11362,8 +10624,6 @@ dalmatica, chirothecis et planeta, adjuvantibus quoque Cardinalibus diaconis ass
 
 solium.
 
-48.
-
 Cardinalis
 
 Diaconus praefatus sacrum Pallium
@@ -11373,8 +10633,6 @@ imponet
 Summo
 
 Pontifici.
-
-49.
 
 Idem Cardinalis mitram reponet Summo Pontifici et ad suum locum
 
@@ -11406,8 +10664,6 @@ locum sibi inter Offi-
 
 assignatum occupabit.
 
-53.
-
 plano
 
 praestita obedientia,
@@ -11434,8 +10690,6 @@ Amen.
 
 Adsumus, Bomine, etc.} in cujus
 
-115
-
 Methodus servanda in prima sessione sacri Concilii oecumenici. 58. Cardinalis
 
 secundus Diaconus assistens primus
@@ -11447,8 +10701,6 @@ alta voce: Erigite vos.
 iet
 
 Omnes surgent et stabunt.
-
-59.
 
 antiphonam: Exaudi nos, Domine, etc. Orate. Diaconus iterum dicet alta voce primus
 
@@ -11464,11 +10716,7 @@ Erigite vos.
 
 Omnes surgent et stabunt, ut prius. 65. Summus Pontifex canet in tono feriali orationem: Mentes no-
 
-64.
-
 as, etc.
-
-66.
 
 Completa oratione, omnes iterum procumbent sine mitra, excepto
 
@@ -11499,8 +10747,6 @@ ctent praeter
 Sumnium Pontificem.
 
 73\. Cardinalis
-
-74.
 
 secundus Diaconus dicet: Levate, et omnes surgent. recitabit in tono feriali orationem: Da quae-
 
@@ -11574,8 +10820,6 @@ deposito
 
 Methodus servanda in prima sessione sacri Concilii oecumenici.
 
-116
-
 86\. Cantato
 
 Evangelio
@@ -11611,8 +10855,6 @@ Reponetur per clericos Capellae faldistorium in plano. solii. ad assistentiam in
 91\. Cardinalis presbyter 92.
 
 Duo Episcopi cum libro et candela. 94. Summus Pontifex ex libro sibi oblato a Cardinali presbytero as-
-
-93.
 
 tistente praecinet
 
@@ -11762,7 +11004,7 @@ suffragia exquirant juxta
 
 porum, Episcoporum aliorumque Concilii Patrum singulorum suffragia rogabunt pariter juxta ordinem sedendi, stantes in plano aulae Conciliisingulorum autem suffragia accurate describent. 116. Cardinales et Patres suffragium proferent elata voce per verbum Abbates et alii, quibus ex Flacetj aut Non placet, sedentes cum mitris. datur detecto suffragium proferre, assurgent privilegio capite et facta versus
 
-Summum Pontificem genuflexione, verbum Vlacet, velNonplacetrjr<m\\mciah\\mL 117. Cum in una ex praedictis aulae partibus suffragia omnia collecta duo isti scrutatores cum notario, qui suffragia in ea parte collegerunt, accedent ad tabulam secretarii in medio positam, ibi suffragia collecta
+Summum Pontificem genuflexione, verbum Vlacet, velNonplacetrjr\<m\\mciah\\mL 117. Cum in una ex praedictis aulae partibus suffragia omnia collecta duo isti scrutatores cum notario, qui suffragia in ea parte collegerunt, accedent ad tabulam secretarii in medio positam, ibi suffragia collecta
 
 fuerint,
 
@@ -11783,8 +11025,6 @@ ea,
 consignet.
 
 Methodus servanda in prima sessione sacri Concilii oecumenici.
-
-118
 
 119\. Tum Scrutatores cum Secretario ad solium accedentes suffragiorum summam rite consignatam Summo Pontifici subministrabunt ut per supremam ejus auctoritatem accedat confirmatio et habeatur promulgatio. 120. Summus Pontifex alta voce decreta confirmabit praescriptam pronuntians solemnem formulam, nempe „Decreta modo lecta placuerunt ,
 
@@ -11890,8 +11130,6 @@ Methodus servanda in prima sessione sacri Concilii oecumenici. 139. Acolythi sig
 
 ad
 
-119
-
 referent sacra paramenta ad altare,
 
 Summus Pontifex induet mozzettam et stolam.
@@ -11926,15 +11164,9 @@ opportune dispositis sacras vestes deponent et resumptis vestibus ordinariis dis
 
 Ordo celebrandi in Sacrosancta Basilica Vaticana.
 
-120
-
 XX
 
 ORDO EX CAEREMONIALI PRAESERTIM S.
-
-R.
-
-E.
 
 EXCERPTUS
 
@@ -12004,8 +11236,6 @@ domui praepositus , Protonotarii apostolici e collegio participantium , Generale
 
 cum opus fuerit, hymnus repetatur, omisso primo versu et conclusione,
 
-121
-
 Ordo celebrandi in Sacrosancta Basilica Vaticana. quae tantum canetur,
 
 cum Summus Pontifex ad altare princeps, ubi sanctissimum
@@ -12016,13 +11246,9 @@ Protector noster aspice, Deus. Et respice in faciem Christi tui.
 
 Emitte Spiritum tuum, et creabuntur. Et renovabis faciem terrae. iy.
 
-f.
-
 IV-
 
 Mitte nobis, Domine, auxilium de sancto. Et de Sion tuere nos.
-
-f.
 
 Ora pro nobis, Sancta Dei Grenitrix Immaculata.
 
@@ -12030,13 +11256,9 @@ IV.
 
 Ut digni efficiamur promissionibus Christi.
 
-f.
-
 »
 
 Domine, exaudi orationem meam. IV- Et clamor meus ad te veniat.
-
-f.
 
 Surget : f. IV.
 
@@ -12104,7 +11326,7 @@ confessionem cum
 
 Em m
 
-<>
+\<>
 
 et
 
@@ -12113,8 +11335,6 @@ in proprio sub-
 Revno J), Cardi-
 
 Ordo celebrandi in Sacrosancta Basilica Vaticana.
-
-122
 
 nali S. Collegii Decano Missam cantaturo de B. Mariae Virginis Conceptione Immaculata, cui addetur oratio de Spiritu Sancto. In solemni Sacro, obedientia Sanctissimo Patri praestanda, sermone post Evangelium circulisque omissis, omnia more solito peragentur ; sed dicta in Jine Missae
 
@@ -12318,8 +11538,6 @@ qui mox ponet incensum, ministrante^naviculam Cardinali Presbytero indnto
 
 Ordo celebrandi in Sacrosancta Basilica Vaticana.
 
-124
-
 cum pluviali. luminaribus
 
 et
@@ -12390,8 +11608,6 @@ hac adhibita solemni formula: „Decreta modo lecta placuerunt omnibus Patribus,
 
 que promulgare mandabit,
 
-a
-
 tuimus, atque safcimus ut lecta sunt. Hisce autem omnibus expletis erit Promotorum Concilii rogare Protonotarios apostolicos praesentes, ut de omnibus et singulis in Sessione peractis unum vel plura,
 
 instrumentum vel instrumenta conficiantur, adhibitis testibus rogatis. Denique,
@@ -12426,13 +11642,9 @@ cum
 
 Clero prosequentur.
 
-125
-
 Hymno Jinito Pontifex
 
 iuc stans dicet:
-
-f.
 
 Dominus vobiscum.
 
@@ -12474,15 +11686,11 @@ Aloysius Ferrariy Protonot. Apostolic. Caerem. Praefectus.
 
 Intimatio.
 
-126
-
 XXI.
 
 INTIMATIO per Cursores facienda, domi quoque dimisso exemplari.
 
 decembris anni 1869., hora decima antemeridiana in Sacello Sixtino Palatii Apostolici Yaticani coram SS. D. N. Pio PP. IX. haFeria V. die
-
-2.
 
 bebitur Congregatio prosynodalis dinales ac Rev mi Patres.
 
@@ -12516,8 +11724,6 @@ INTIMATIO per Cursores facienda, domi quoque dimisso exemplari.
 
 Feria IY. die
 
-8.
-
 decembris anni 1869., festo Conceptionis Immaculatae
 
 Beatae Mariae Virginis
@@ -12535,8 +11741,6 @@ omnes ad Palatium apostolicum vaticanum convenient.
 Em mi et Rev mi DD. Cardinales, et Rev mi DD. Patriarchae in aulis mi DD. Primates, Archiepiscopi Episcopi et Abbates, paramentorum Rev in locum Concilio ex qui privilegio habent, ritus tam latini quam orien;
 
 ,
-
-127
 
 Intimatio.
 
@@ -12692,8 +11896,6 @@ Episcopi,
 
 necnon Abbates, et supremi moderatores Congregationum et Ordinum Regularium ex apostolica concessione locum in Concilio Yaticano habentes.
 
-C.
-
 Insuper intimentur Yice-Camerarius, Prinqeps Solii Concilii Custos, R. A. Auditor et Thesaurarius, Antistes Pontificiae domui praepositus,
 
 Senator et Conservatores urbis
@@ -12707,8 +11909,6 @@ Magister S. Hospitii
 Protonotarii apostolici
 
 Intimatio.
-
-128
 
 de numero participantium quinque, Auditores Rotae quatuor, Clerici Camerae apostolicae duo, Yotantes Signaturae omnes,. Abbreviatores de Parco majori duo, Officiales Concilii. Aloysius Ferrari, Proton. Apost. Caerem. Praefectus.
 
@@ -12764,8 +11964,6 @@ zetta coloris habitus suae religionis.
 
 R,ev mi Patres ritus Orientalis induent
 
-129
-
 Monitum. vestes
 
 ordinarias juxta
@@ -12800,8 +11998,6 @@ MONITUM. In Methodo servanda in proximo sacro oecumenico Concilio, praescribitur
 
 §.
 
-148.
-
 sacellis
 
 aulae conciliari proximis , scilicet Gregoriano B. Mariae Y. et S. Petronillae. Ob causas, quae, dum praedicta Methodus exarata fuit, adhuc non innomi Patres tuerant, Rev nequaquam in dictis sacellis pluviale exuent, sed extra aulam praedictam, ac proinde, si eis libuerit, id praestare poterunt in sacello transfixionis B. M. V.
@@ -12811,8 +12007,6 @@ opportune disposito , quod est prope januam lariam Basilicae a dextris ingredien
 Conc. Vatic.
 
 Sermo imminente Oecumenico Concilio Vaticano.
-
-130
 
 xxn.
 
@@ -12825,8 +12019,6 @@ IMMINENTE OECUMENICO CONCILIO VATICANO A. PR.
 RAIMUNDO BIANCHI
 
 PROCURATORE GENERALI ORDINIS PRAEDICATORFM. D.
-
-28.
 
 Nov. 1869.
 
@@ -12872,27 +12064,17 @@ quolibet et quocumque
 
 judicabit orbem terrae in veritate est istud et est mirabile in oculis ,
 
-5
-
 sapientiae et scientiae Dei , qui ut- aevo in discrimine justos in fide firmaret et consolaretur,
 
 impios autem terreret ad poenitentiam , sicut Christum in potestate judicandi Deum esse prodit ita Ecclesiam eadem potestate donatam, non ho,
 
 ,
 
-1
-
 Luc. 21, 25.
-
-3
 
 Ps. 95, 13.
 
-5
-
 Rom. 11, 33.
-
-2
 
 \*
 
@@ -12909,8 +12091,6 @@ minis, sed
 fremere ac insurgere inferorum portas
 
 eam
-
-131
 
 ;
 
@@ -12948,11 +12128,7 @@ honorificant
 
 ,
 
-7
-
 tenebrarum
-
-9
 
 omnem
 
@@ -13024,53 +12200,23 @@ sime credimus in Yaticano. 1
 
 Matth. 16, 18.
 
-2
-
 Joan.
 
-3,
-
-4
-
 Matth. 28, 13.
-
-5
 
 Joan.
 
 1\. 3.
 
-7
-
-10
-
 Eph. 1, 13 I. Tim. 16 19
-
-8
 
 Ps. 9, 17. 10. 3,
 
 Ps. 49, » Ose. 14
 
-15.
-
 Ps. 44, 10. Matth. 28, 20.
 
-17
-
-6
-
-9
-
-6.
-
-I.
-
 2, 20.
-
-3,
-
-7.
 
 Matth. 16, 19.
 
@@ -13078,19 +12224,9 @@ Joan. Joan.
 
 Cor. 4,
 
-5,
-
-5,
-
 22\. 23.
 
-5.
-
-12
-
 Joan. 14, 6. 15 Matth. 26. 64.
-
-18
 
 Matth. 16, 19. 21 Matth. 24, 25.
 
@@ -13098,13 +12234,7 @@ Joan. 14, 26.
 
 Apoc. 20
 
-3
-
-17.
-
 Sermo imminente Oecumenico Concilio Vaticano.
-
-132
 
 jam dies magni judicii appropinquat et videbunt omnes gentes sponsam Ecclesiam innixam super dilectum suum in humilitate
 
@@ -13133,10 +12263,6 @@ sicut in Christi judicio ,
 dum cernimus alios gestire laetitia, quia prope credunt redemp-
 
 motione, tionem \*,
-
-2
-
-3
 
 timore et infernum quia judicium est mundi rabie fremere et contremiscere , quia princeps hujus mundi, cui nomen ipsum alios arescere prae
 
@@ -13171,8 +12297,6 @@ Judicabunt
 manu ipsorum 8
 
 cujus ventilabrum in et
-
-7
 
 est
 
@@ -13224,13 +12348,7 @@ Judex vivorum et mortuorum\*\*, Yos quoque
 
 constitutus
 
-I
-
 Luc. 21, 28.
-
-2
-
-3
 
 Joan. 12, 31.
 
@@ -13238,29 +12356,13 @@ Joan. 12, 31.
 
 Joan. 12, 31.
 
-8.
-
-G
-
 Dan.
 
-7,
-
-10.
-
 Matth.
-
-3,
-
-12.
 
 5 7 9
 
 Agg.
-
-2,
-
-7,
 
 Ps. 109, 6. Act. 15, 28.
 
@@ -13268,21 +12370,13 @@ II
 
 Joan. 10, 16.
 
-13
-
 Luc. 21,
-
-28.
-
-8
 
 Luc. 21, 26.
 
 io
 
 Ps 12
-
-1
 
 \*
 
@@ -13296,8 +12390,6 @@ Allocutio habita a SS.
 
 Domino Nostro Pio divina providentia PP. IX.
 
-133
-
 domo sua, omne judicium et potestatem Yobis relinProcul, procul absit a Yobis omnis errandi vel a vero deflectendi
 
 judices constituit ln
@@ -13309,8 +12401,6 @@ formido, cum medius Yestrum stet Ille, cui dictum est: Petre, rogavi pro Pasce a
 fratres tuos.
 
 wnfirma
-
-3
 
 xxni. CONGREGATIO PROSYNODALIS2.
 
@@ -13342,11 +12432,7 @@ possemus. remediis comparandis agitur tot malis quae christianam et civilem soci
 
 dignum esse, et tantae rei magnitudini consentaneum 1
 
-3
-
 Luc. 22, 32. Luc. 22, 32
-
-2
 
 Joan. 21, 15. 17.
 
@@ -13357,8 +12443,6 @@ ut,
 antequam con-
 
 Allocutio liabita a
-
-134
 
 ciliarium
 
@@ -13512,27 +12596,13 @@ estis
 
 pariter Nostri
 
-1
-
 Luc.
-
-3
 
 Luc. 22,
 
-8,
-
 memores esse debebimus, omnique studio curare, ut incon1.
 
-28.
-
-2
-
 Joan.
-
-6,
-
-67.
 
 Allocutio habita a SS.
 
@@ -13541,8 +12611,6 @@ Domino Nostro Pio divina providentia PP. IX.
 cussa fide ac firmitate Christum sequamur,
 
 Illique
-
-135
 
 omni tempore concor-
 
@@ -13640,11 +12708,7 @@ alacriterque ferre valeatis; animos vero, ut caelestibus auxiliis abunde repleti
 
 gregis salutem praeluceatis. Hujus autem benedictionis gratia Yobis continenter adsit , atque omnibus vitae "vestrae diebus clementer adspiret , ut dies pleni inveniantur in Yobis;
 
-1
-
 Joan. 17, 11.
-
-2
 
 Joan.
 
@@ -13659,8 +12723,6 @@ et justitiae,
 pleni sanc-
 
 Formula jurisjurandi ab officialibus SS. Concilii praestatum.
-
-136
 
 torum operum fructibus, in quibus verae nobis divitiae et gloria continetur. Atque ita Nobis continget feliciter ut expleto mortalis peregrinationis cursu, in novissimo illo vitae die dicere cum Propheta Rege non vereamur: „Laetatus sum in his, quae dicta sunt mihi, in domum Domini ibimus" atque aditum Nobis patere plane confidamus in montem sanctum ,
 
@@ -13710,8 +12772,6 @@ servaturos.
 
 Nomina Stenographorum SS. Concilii Vaticani.
 
-137
-
 XXV.
 
 NOMIM STENOGRAPHOEUM SS.
@@ -13745,8 +12805,6 @@ fRomanus.
 Orsini, Tudertinus.
 
 Cavi,
-
-e
 
 castello
 
@@ -13790,8 +12848,6 @@ Sac. Dionys.
 
 Delama,
 
-e
-
 Spormaggiore
 
 (dioec. Trident.). Sac. Paulus Gierich, e Rybnik (dioec. Yratislav.).
@@ -13819,8 +12875,6 @@ E collegio Americano-septentrionali: Sac. Theodorus Metcalf, Bostoniensis. Acol.
 Dayton (dioec. Cincinnat.).
 
 Inscriptiones Aulae Conciliaris.
-
-138
 
 XXVI.
 
@@ -13952,8 +13006,6 @@ MAX
 
 DIVINITVS
 
-S .
-
 .
 
 INTERPRETANDIS AGNOVIT
@@ -13963,8 +13015,6 @@ DATVM
 .
 
 Inscriptiones Aulae Conciliaris.
-
-139
 
 SANCTI JOANNIS CHRYSOSTOMI:
 
@@ -14039,8 +13089,6 @@ INGENIO DOCTRINA DISCEPTATIONE CATHOLICI NOMINIS AMPLITUDINI PAR QVI QVO PLVS CH
 .
 
 Novae nominationes.
-
-140
 
 NOTA. Quia nostrum est acta publica quam possumus fidelissime reddere secundum exemplaria ab ipsis collegiis ecclesiasticis edita, hoc loco tandem adjungimus novas nominationes
 
@@ -14170,10 +13218,6 @@ bonum disposituram.
 
 Sermo habitus ab Archiep. Iconiensi i. p.
 
-144
-
-i.
-
 Puecher-Passavalli.
 
 Quibus omnibus ego ipse non minimum relevatus animum sumo, ac officium, quod mihi obedientia, nedum providens Dei consilium imposuit, alacriter aggredior, atque hanc universalis Ecclesiae Synodum auspicor ab Davidicis verbis: Euntes ibant et flebant mittentes semina sua: venientes autem venient cum exultatione portantes manipulos suos. (Ps. CXXY, 7 His enim quum lacrimabilis hodierna nostra conditio tum etiam et 8.) laetus rerum futurarum eventus summis quasi lineis pingi ac veluti sub illis
@@ -14253,8 +13297,6 @@ menta sustinuistis ? Quot maledicta toleraslis ? Quomodo Christum portastis ?
 Quomodo praedicatione Ecclesias laetificastis? (Serm. apud. Metaphras.) Yere itaque, vere, inquam, de Apostolis regius Psaltes cecinerat, quod euntes ibant et flebant mittentes semina sua.
 
 Sed videte, Yenerabiles Patres,
-
-145
 
 Sermo habitus ab Archiep. Iconiensi i. p. i. Puecher-Passavalli.
 
@@ -14357,8 +13399,6 @@ ipsa divina luce resplendeat, 10
 qua primum
 
 Sermo habitus ab Archiep. Iconiensi i. p. i. Puecher-Passavalli.
-
-146
 
 in terris visa
 
@@ -14506,8 +13546,6 @@ sit.
 
 Sermo habitus ab Archiep. Iconiensi i. p. i. Puecher-Passavalli.
 
-147
-
 didicisse, quid missio Christi si-
 
 Namque revera opus esset aut numquam
@@ -14530,10 +13568,6 @@ ejus, quod est Ecclesia. (Coloss.
 
 ISed Dei
 
-1,
-
-24.)
-
 Patres amplissimi, animo forti magnoque sitis. Si enim arcanum est consilium ut mysticum evangelicae doctrinae
 
 facite,
@@ -14551,8 +13585,6 @@ gent,
 ipsi
 
 consolabuntur ! (Matth. Y,
-
-5.)
 
 Nam si de Christi di-
 
@@ -14579,8 +13611,6 @@ sicuf
 solatio nostra (II. Cor. 1,
 
 patet,
-
-5.),
 
 et
 
@@ -14642,11 +13672,7 @@ arbitrabamur, nos quoque, confractis templi exhalaturos esse ea lamentabili
 
 spiritum jamjam
 
-10\*
-
 Sermo habitus ab Archiep. Iconiensi i. p. i. Puecher-Passavalli.
-
-148
 
 amatoris fratrum voce
 
@@ -14820,8 +13846,6 @@ contristabimini; sed
 
 vos,
 
-i.
-
 Puecher-Passavalli.
 
 mundus autem gaudebit, vos autem
@@ -14829,8 +13853,6 @@ mundus autem gaudebit, vos autem
 vestra vertetur in gaudium. j(Jo.
 
 tristitia
-
-149
 
 XYI, 20.)
 
@@ -14924,11 +13946,7 @@ perpetuas aeternitates.
 
 len.
 
-4
-
 Allocutio SS. D. N. P. Pii IX.
-
-150
 
 ALLOCUTIO SS. D. N. P. PII IX.
 
@@ -14953,8 +13971,6 @@ ceptioni sacro, Yos, qui in partem sollicitudinis Nostrae vocati estis, iterum m
 intuemur, aspectuque Yestro perfruimur jucundissimo. Yos autem nunc, Yenerabiles Fratres, in nomine Christi congregati \* adestis, ut Nobiscum testimonium perhibeatis Yerbo Dei et testimonium
 
 Jesu Christi 2 viamque Dei in veritate omnes homines Nobiscum doceatis 3 , 4 et de oppositionibus falsi nominis scientiae Nobiscum, Spiritu Sancto duce, ,
-
-5 .
 
 judicetis Si enim
 
@@ -14982,17 +13998,9 @@ quae conjunctione fortis, opibus potens, munita institutis, et velamen habens ma
 
 '
 
-3
-
 Matth. 18, 20. Matth. 22, 16.
 
-2
-
 Apoc. 1, 2. Tim. 6, 20.
-
-I.
-
-5
 
 Act. Apost. 15, 19.
 
@@ -15000,25 +14008,17 @@ Act. Apost. 15, 19.
 
 Isai.
 
-7
-
 Psalm. 47, 13, 14.
-
-8
 
 L Petr> 2
 
 24, 4, 5. ,
-
-16.
 
 Allocutio SS. D. N. P.
 
 arma, progressus, consilia non ignoratis. oculos
 
 Pii IX.
-
-151
 
 Yersatur Vobis continenter ante
 
@@ -15041,8 +14041,6 @@ Joannes Chrysostomus
 Ecclesia est ipso caelo
 
 Caelum et terra transibunt; verba autem mea non transibunt. Quae verba? Tu es fetrus, et super hanc Petram aedificabo Ecclesiam meam, et portae inferi non praevalebunt adversus eam Quamquam vero Civitas Domini virtutum, Civitas Dei Nostri inexpugnabili fundamento nitatur, tamen agnoscentes ac intimo corde dolentes tantam malorum congeriem animarumque ruinam, ad quam avertendam vel fortior.
-
-1
 
 .
 
@@ -15102,25 +14100,13 @@ citatis decepti
 
 aberrant, eorumque saluti opem afferre desiderio desideramemores Divini Eedemptoris et Magistri«tNostri Jesu, qui venit quaemus, Horail. ante exil. n.
 
-1.
-
-2
-
 Is.
 
 XVI. 3.
 
-3
-
 I Petr.
 
-1,
-
-7.
-
 Ailocutio SS. D. N. P. Pii IX.
-
-152
 
 rere et salvum facere quod perierat.
 
@@ -15236,17 +14222,11 @@ promoveantur, salubriter perficiantur. Tu vero Mater pulchrae dilectionis, agnit
 
 Regina
 
-1
-
 et
 
 .Toann. 17.
 
 propugnatrix
-
-19.
-
-2
 
 ,
 
@@ -15258,21 +14238,11 @@ consultationes
 
 S. Bern. de Cons.
 
-1.
-
-4.
-
-c.
-
-4.
-
 ,
 
 labores
 
 nostros in
-
-153
 
 Decreta duo in prima sessione per acelamationem facta.
 
@@ -15307,8 +14277,6 @@ Apertum esse SS. oecumenicum Concilium Yaticanum.
 II.
 
 niae Domini.
-
-154
 
 Deputationes speciales.
 
@@ -15358,8 +14326,6 @@ Franc. Xav. Apuzzo, Archiep. Surrentinus.
 
 Alexander Franchi, Archiep. Thessalonicensis. Petrus Giannelli, Archiep. Sardianus. Henr. Eduardus Manning, Archiep. Westmonasteriensis. Yictor Augustus Dechamps, Archiep. Mechliniensis.
 
-155
-
 Deputationes speciales.
 
 Conradus Martin, Episc. Paderbornensis. Petrus Hieremias M. Celesia, Episc. Pactensis.
@@ -15378,8 +14344,6 @@ Joachim Limberti, Archiep. Florentinus. Jo. B. Landriot, Archiep. Rhemensis.
 
 Franciscus Pedicini, Archiep. Barensis.
 
-C.
-
 Judices querelarum et controversiarum.
 
 NOMINA Reverendissimorum Patrum, qui in Judices querelarum et controversiarum majori suffragiorum numero electi sunt.
@@ -15390,13 +14354,9 @@ Caspar Mermillod, Episc. Hebronensis. Innocentius Sannibale, Episc. Eugubinus. J
 
 Antonius Canzi, Episc. Cyrenensis.
 
-D,
-
 Deputatio pro rebus ad Pidem pertinentibus.
 
 Peracto scrutinio schedularum, Generali habita feria
-
-3.,
 
 quae exhibitae sunt in Congregatione
 
@@ -15406,43 +14366,25 @@ giorum numero inventi sunt electi:
 
 majori suffra-
 
-156
-
 Deputationes speciale\*.
 
 Reverendissimi Patres : 1.
 
 Emmanuel Garcia Gril, Arcliiep. Caesaraugustanus.
 
-2.
-
 Ludov. Franc. Pie, Episc. Pictaviensis.
-
-3.
 
 Patritius Leahy, Archiep. Casseliensis.
 
-4.
-
 Renatus Franc. Regnier, Archiep. Cameracensis.
-
-5.
 
 Jo. Simor, Archiep. Strigoniensis.
 
-6.
-
 Andreas Ignatius Schaepmann, Archiep.
-
-7.
 
 Antonius Hassun, Patriarcha Ciliciae Armenorum.
 
-8.
-
 Barthol. D'Avanzo, Episc, Calvensis et Theanensis. Miecislaus Ledochowsky, Archiep. Gnesnensis et Posnaniensis.
-
-9.
 
 10\. Franc.
 
@@ -15456,15 +14398,9 @@ densis Australis. 12. Ignatius Senestrey, Episc. Eatisbonensis. 13. Victor Augus
 
 Dechamps, Archiep.
 
-14.
-
 Joannes Martinus Spalding, Archiep. Baltimorensis.
 
-15.
-
 Antonius Monescillo, Episc. Giennensis. Petrus Jos. De Preux, Episc. Sedunensis.
-
-16.
 
 17\. Yincentius Gasser, Episc. Brixinensis.
 
@@ -15482,10 +14418,6 @@ E Secretaria Concilii Yaticani die 17. Dec. 1869. Josephus,
 
 Ep. Per Breve
 
-d.
-
-d.
-
 29\. Dec. Praeses
 
 S. Hippolyti, Secretar.
@@ -15497,8 +14429,6 @@ creatus est
 Em. Car-
 
 dinalis Bilio.
-
-E.
 
 Deputatio pro rebus disciplinae ecclesiasticae.
 
@@ -15512,21 +14442,15 @@ quae exhibitae sunt in Congregatione
 
 prima vertentis mensis, majori suffra-
 
-157
-
 Deputationes speciales.
 
 hecerendissimi Patres: 1.
 
 Jo. Mac-Closkey, Archiep. Neo-Eboracensis.
 
-2.
-
 Guillelmus Ullathorne, Episc. Birminghamiensis.
 
 Jo. Mac-Hale, Archiep. Tuamensis. Mexicanus. Pelagius De Lavastida y Davalos, Archiep. 5. Pantaleon Monserrat y Navarro, Episc. Barcinonensis. 3.
-
-4.
 
 6\. 7.
 
@@ -15536,25 +14460,17 @@ Anast. Yusto, Archiep. Burgensis. Julius Arrigoni, Archiep. Luccanus. Franc. Bai
 
 Claudius Plantier, Episc. Nemausensis. 11. Theodorus de Montpellier, Episc. Leodiensis. 12. Stephanus Marilley, Episc. Lausannensis et Genevensis. 10.
 
-13.
-
 Franc. Xav. Wierzchleyski, Episc. Leopoliensis
-
-14.
 
 Georgius Stahl, Episc. Herbipolensis.
 
 15\. Jo.
-
-18.
 
 Lat.
 
 Ambrosius Huerta, Episc. Puniensis.
 
 16\. Carolus Fillion, Episc. 17. Jo.
-
-r.
 
 Cenomanensis.
 
@@ -15564,13 +14480,9 @@ Mcolaus Sergent, Episc. Corisopitensis.
 
 Michael Heiss, Episc. Crossensis. 20. Marianus Kicciardi, Archiep. Reginensis. 19.
 
-21.
-
 Leo Meurin, Episc. Ascalonensis. Guttadauro di Reburdone, Episc. Calatanisiadensis. Marinus Marini, Archiep. Episc. Urbevetanus.
 
 22\. Jo.
-
-23.
 
 24\. Josephus Aggarbati, Episc. Senogalliensis.
 
@@ -15579,8 +14491,6 @@ E Secretaria Concilii Yaticani die 23. Dec. 1869. Josephus,
 Ep.
 
 Per Breve d. jialis
-
-d.
 
 S. Hippolyti, Secretar.
 
@@ -15592,19 +14502,13 @@ Em. Cardi-
 
 Caterini.
 
-F.
-
 Deputatio pro rebus ordinum regularium.
 
 Peracto scrutinio schedularum, jquae exhibitae sunt in Congregatione Generali habita feria 3., die vigesima octava vertentis mensis, majori suffragiorum numero inventi sunt electi:
 
-158
-
 Deputationes speeialee.
 
 Reverendissimi Patres 1.
-
-2.
 
 3\. 4.
 
@@ -15620,25 +14524,15 @@ Bened. Dusmet, Archiep. Cataniensis. Felix Cantimorri, Episc. Parmensis.
 
 6\. Jos. 7.
 
-8.
-
-9.
-
 Jos. Ign. Checa, Archiep. Quitensis. Fridericus de Furstenberg, Archiep. Olomucensis.
 
 10\. Carolus Pooten, Archiep. Antibarensis et Scodrensis.
 
-11.
-
 Paulus Micaleff, Episc. Typhernatensis.
-
-12.
 
 Stephanus Yincentius Ryan, Episc. Buffalensis.
 
 Simon Spilotros, Episc. Tricaricensis. Alexander Angeloni, Archiep. Urbinatensis. 15. Ignatius Moraes Cardoso, Episc. Pharannensis. 13.
-
-14.
 
 16\. Franc.
 
@@ -15649,8 +14543,6 @@ de Leonrod, Episc. Eystetensis.
 Thomas Mich. Salzano, Episc. Tanensis.
 
 19\. Jo. Jos. Faiet, Episc. Brugensis.
-
-20.
 
 Maria Ephraem Garrelon, Episc. Nemesinus.
 
@@ -15666,15 +14558,7 @@ E Secretaria Concilii Yaticani die 31. Dec. 186$. Josephus.
 
 Ep. Per Breve
 
-d.
-
-d.
-
-4.
-
 Jan.
-
-S.
 
 Praeses Deputationis
 
@@ -15694,21 +14578,15 @@ apostolicis missionibus.
 
 Peracto scrutinio schedularum, quae exhibitae sunt in Congregatione Generali habita feria
 
-6.,
-
 die decima quarta vertentis mensis, majori suffra-
 
 giorum numero inventi sunt electi:
-
-159
 
 Deputationes speciales.
 
 Reverendissimi Patres : 1.
 
 Petrus
-
-2.
 
 Yincentius Spaccapietra, Archiep. Smyrnensis. Carolus Lavigerie, Archiep. Algerianus.
 
@@ -15728,15 +14606,9 @@ Ma-
 
 ronit.
 
-3.
-
 Behnam Benni, Episc. Mausiliensis rit. Syr.
 
-4.
-
 Cyrillus
-
-5.
 
 Ambrosius Basilius
 
@@ -15758,17 +14630,11 @@ Graeco-
 
 Melchit. -
 
-6.
-
 Jos.
-
-7.
 
 Aloysius Ciurcia, Archiep. Irenopolitanus. Aloysius Gabriel de la Place, Episc. Hadrianopolitanus.
 
 8\. 9.
-
-10.
 
 Papp Rumaen.
 
@@ -15785,10 +14651,6 @@ Daniel Mac-Gettingan, Episc. Rapotensis.
 13\. Jos.
 
 Pluym, Episc. Mcopolitanus. Melchior Nasarian, Archiep. Mardensis rit. Armen. 15. Stephanus Melchisedechian, Episc. Erzerumiensis rit. Armen.
-
-14.
-
-16.
 
 Augustinus
 
@@ -15820,13 +14682,7 @@ Ep. Per Breve aalis
 
 Barnabo.
 
-d.
-
-d.
-
 17\. Jan.
-
-S.
 
 Hippolyti, Secretar.
 
@@ -15911,8 +14767,6 @@ Et vitam venturi
 Amen.
 
 Apostolicas et ecclesiasticas traditiones reliquasque ejusdem Ecclesiae
-
-161
 
 Professio fidei Tridentina.
 
@@ -16066,11 +14920,7 @@ teneri et doceri et praedicari, Conc. Vatic.
 
 quantum in me erit, curaturum, ego idem
 
-n
-
 Monitum Eminentissimorum Praesidum Congregationum generalium.
-
-162
 
 N. spondeo, voveo ac juro;
 
@@ -16142,13 +14992,9 @@ licet.
 
 E Secretaria Concilii Yaticani, die 14. Januarii 1870. Ep.
 
-S.
-
 Josephus, Hippolyti, Secretar.
 
 Monitum Eminentissimorum Praesidum Congregationum generalium.
-
-163
 
 MONITUM EMINENTISSIMORUM PRAESIDUM CONGREGATIONUM GENERALIUM
 
@@ -16171,8 +15017,6 @@ rem non pertinent, neque ex integro repetendo, quae fortasse ab aliis Patribus j
 E Secretaria Concilii Yaticani, die 14. Januarii 1870. Jasephus ,
 
 Ep.
-
-S.
 
 Hippolyti, Secretar.
 
@@ -16222,8 +15066,6 @@ idem
 
 Decretum novam normam pro Congregationibus Generalibus statuens.
 
-164
-
 Sanctissimus Dominus Noster sequentes ordinationes edendas servandasque
 
 mandavit
@@ -16232,8 +15074,6 @@ mandavit
 
 Distributo schemate Concilii
 
-1.
-
 Cardinales Praesides
 
 Patribus,
@@ -16241,8 +15081,6 @@ Patribus,
 Con-
 
 gregationum generalium congruum tempus praefigent, quod Patres in schemate animadvertenda ea censuerint, ipsi, qui aliqua scripto tradere debeant. intra
-
-2.
 
 Animadversiones hoc ordine exarandae erunt ut primum illae scripto ,
 
@@ -16318,8 +15156,6 @@ extra metas
 
 Decretum novam normam pro Congregationibus Generalibus statuens.
 
-165
-
 minimum Patribus, Congregationem generalem percontari poterunt, an velit, disceptationem diutius continuari; et, exquisitis per actum assurgendi vel sedendi suffragiis, finem discussioni imponent, si id majori Patrum prae-
 
 sentium numero visum fuerit. 12.
@@ -16359,8 +15195,6 @@ Antonius Card. de Luca, Praeses. Andreas Card. Bizzarri, Praeses. Aloysius Card.
 Josephus, Ep. Sancti Hippolyti, Secretarius.
 
 Monitum de infallibilitate Romani Pontificis.
-
-166
 
 MONITUM DE INPALLIBILITATE ROMANI PONTIFICIS.
 
@@ -16402,8 +15236,6 @@ proxima Congregatio generalis,
 
 20\. Februarii a.
 
-c.
-
 fiet
 
 discussio
@@ -16415,8 +15247,6 @@ qua juxta num. 7. schematis reformati.
 hujus Reverendissimi Patres, qui de eodem schemate loquendi veniam rogare declaravoluerint, dabunt Secretario nomina sua in scripto, cum expressa an de in quibusdam ejus partibus genere, tione, utrum de toto schemate Initium fiet a discussiono generali, et, cum haec terminata velint. loqui
 
 Monitum de solemnitatibus quadragesimae.
-
-167
 
 agetur de Prooemio seorsim, et pariter seorsim de quovis capite una cum canonibus, qui ad singula capita referuntur, juxta ordinem pro-
 
@@ -16444,13 +15274,9 @@ sanctissimum Sacramentum adorabunt et in sacello
 
 Sebastiani,
 
-S.
-
 disponente summo Pontifice ob peculiares
 
 sumptis cappis mis Patriarchis circumstantias) , exceptis , eorum ritum, statim omnes se conferent ad (ita
-
-E
 
 qui sacras vestes induent juxta
 
@@ -16472,8 +15298,6 @@ E mis Cardinalibus et Rmis
 
 Patriarchis tantum, peragetur benedictio et impositio Cinerum, qua absoluta, mi et mi omnes, qui sacras vestes induti fuerint, eas deponent, scilicet E
 
-R
-
 DD. Cardinales in propriis subselliis,
 
 et
@@ -16494,11 +15318,7 @@ ceteri in
 
 Decretum de sacris oleis.
 
-168
-
 Praeterea die Feria 6.; die
-
-4.
 
 Martii 1870.,
 
@@ -16508,11 +15328,7 @@ Feria
 
 die 11.,
 
-6.;
-
 Feria
-
-6.;
 
 die 18.,
 
@@ -16521,8 +15337,6 @@ Aprilis, Feria 6.; die 8., Feria 6.; die hebdomadae Feria 3. hora decima cum dim
 3.; die
 
 E mi ac Kmi DD. Cardinales
-
-1.
 
 cappas induent violacei coloris,
 
@@ -16586,8 +15400,6 @@ in
 
 Oleis benedictis.
 
-169
-
 Sanctionibns quibuscumque ac
 
 decretis
@@ -16648,15 +15460,13 @@ Non Placet,
 
 Dies autem proximae Congregationis generalis post Sessionem publicam habendae significabitur Patribus per Monitum typis impressum una
 
-<cum argumento, quod in ea tractandum
+\<cum argumento, quod in ea tractandum
 
 erit.
 
 E Secretaria Concilii Vaticani, d. 18. Aprilis 1870. Josephus,
 
 Episcopus
-
-S.
 
 Hippolyti, Secretar.
 
@@ -16727,8 +15537,6 @@ late per
 orbem propagando.
 
 Constitutio dogmatica de Fide Catholica.
-
-171
 
 Yerumtamen haec aliaque insignia emolumenta, quae per ultimam maxime oecumenicam Synodum divina clementia Ecclesiae largita est, dum grato, quo par est,
 
@@ -16808,8 +15616,6 @@ LIX, 21.
 
 Constitutio dogmatica de Fide Catholica.
 
-172
-
 premo Nostro Apostolico munere veritatem catholicam docere ac
 
 tueri,
@@ -16860,17 +15666,9 @@ diebus
 
 .
 
-1
-
-2
-
 Conc. Later. IV. Sap. VIII,
 
-1.
-
 c. 3
-
-1.
 
 Firmiter.
 
@@ -16886,15 +15684,11 @@ H e br. I, 1—2.
 
 istis
 
-173
-
 Constitutio dogmatica de Fide Catholica.
 
 Huic divinae revelationi tribuendum quidem est, ut ea, quae in rebus ivinis humanae rationi per se impervia non sunt, in praesenti quoque •eneris humani conditione ab omnibus expedite\*, firma certitudine et nullo dmixto errore cognosci possint. Non hac tamen de causa revelatio abolute necessaria dicenda est, sed quia Deus ex infinita bonitate sua orinavit hominem ad finem supernaturalem, ad participanda scilicet bona ivina, quae humanae mentis intelligentiam omnino superant; siquidem culus non vidit, nec auris audivit, nec in cor hominis ascendit, quae a -raeparavit Deus iis, qui diligunt illum Haec porro supernaturalis revelatio, secundum universalis Ecclesiae .
 
 dem, a sancta Tridentina Synodo declaratam, continetur in libris scriptis sine scripto traditionibus, quae ipsius Christi ore ab Apostolis acceptae,
-
-t
 
 ab ipsis Apostolis Spiritu Sancto dictante quasi per manus traditae, d nos usque pervenerunt 2 Qui quidem veteris et novi Testamenti libri
 
@@ -16968,11 +15762,7 @@ praestare tenemur.
 
 evelata vera esse credimus, tirali
 
-1
-
 rationis
-
-1.
 
 non propter intrinsecam rerum veritatem na-
 
@@ -16980,15 +15770,9 @@ lumine perspectam, sed propter auctoritatem ipsius Dei re-
 
 Cor. II,
 
-9.
-
-2
-
 Conc. Trid. sess. IV. Decr. de Can. Script.
 
 Constitutio dogmatica de Fide Catholica.
-
-174
 
 velantis, qui nec falli
 
@@ -17076,17 +15860,7 @@ XI,
 
 \*
 
-12.
-
-2.
-
 Petr.
-
-I,
-
-19.
-
-175
 
 Constitutio dogmatica de Fide Catholica.
 
@@ -17162,29 +15936,13 @@ idonea redditur ad ea perspicienda instar veritatum, quae proprium ipsius :>bjec
 
 quamdiu in hac mortali vita peregrinamur a Domino 4 bulamus, et non per speciem .
 
-1
-
 Ioan.
-
-3
 
 Matth. XI, 25.
 
-I,
-
-17.
-
-2
-
-4
-
 7—9.
 
-1.
-
 Cor. II,
-
-2.
 
 Cor. V, 7.
 
@@ -17193,8 +15951,6 @@ Cor. V, 7.
 per fidem enim am-
 
 Constitutio dogmatica de Fide Catholica.
-
-176
 
 et
 
@@ -17274,10 +16030,6 @@ multum vehementerque proficiat, tam singulorum,\* quam omnium, tam
 
 unius hominis, intelligentia , scilicet
 
-1
-
-2
-
 quam
 
 scientia,
@@ -17292,8 +16044,6 @@ Conc. Lat. V. Bulla Aposlolici regiminis. 3 Yinc. Lir. Common. n. 28. Coloss. II
 
 .
 
-177
-
 Constitutio dogmatica de Fide Catholica.
 
 CANONES. i.
@@ -17303,8 +16053,6 @@ De Deo rerum omnium Creatore.
 unum verum Deum visibilium et invisibilium Creatorem et Dominum negaverit; anathema sit. 1.
 
 Si quis
-
-2.
 
 Si quis praeter
 
@@ -17408,11 +16156,7 @@ anathema sit. 12
 
 Constitutio dogmatica de Fide Catholica.
 
-178
-
 Si quis sacrae Scripturae libros
-
-4.
 
 partibus, prout illos sancta Tridentina
 
@@ -17442,13 +16186,9 @@ III.
 
 De Fide. Si quis dixerit, rationem
 
-1.
-
 ut fides ei a
 
 Si quis dixerit,
-
-2.
 
 humanam ita independentem esse,
 
@@ -17470,11 +16210,7 @@ revelationem divinam externis signis credi-
 
 Si quis dixerit,
 
-3.
-
 bilem fieri non posse, ideoque sola interna cujusque experientia aut inspiratione privata homines ad fidem moveri debere; anathema sitSi quis dixerit, miracula nulla
-
-4.
 
 de
 
@@ -17554,8 +16290,6 @@ Constitutio dogmatica de Fide Catholica.
 
 nem rite excultam e
 
-179
-
 naturalibus principiis intelligi
 
 demonstrari
@@ -17566,15 +16300,11 @@ et
 
 anathema sit. Si quis dixerit, disciplinas humanas ea
 
-2.
-
 cum libertate tractan-
 
 das esse, ut earum assertiones, etsi doctrinae revelatae adversentur, tanquam verae retineri, neque ab Ecclesia proscribi possint; ana-
 
 thema sit. Si quis dixerit, fieri posse,
-
-3.
 
 ut dogmatibus ab Ecclesia pro-
 
@@ -17616,8 +16346,6 @@ IJosephus, Suffragiis
 
 a Patribus Concilii datis,
 
-S.
-
 D. N. Papa Pius IX. haec
 
 verba ex tempore locutus est: „ yi&elis, fratres charissimi,
@@ -17643,8 +16371,6 @@ gaudium sempiternum
 sit ista
 
 in coelisf"
-
-12
 
 pax
 
@@ -17712,13 +16438,9 @@ Infrascripti Patres Vestram Sanctitatem humillime et instantissime obsecrant, Be
 
 solum efficax remedium tantis malis adhibere dignetur, jubendo scilicet, ut schema de infallibilitate Summi Pontificis sine ulla mora Concilii deliberationibus proponi jubeat.
 
-\*# 3.
-
 Beatissime Pater.
 
 Quanta fuit vis doloris , quo affecti ad Tuam Sanctitatem supplices accedere nuper coacti sumus, tanto nunc gaudio impellimur ad gratias Ipsi humillime agen-
-
-181
 
 Constitutio dogmatica prima de Ecclesia Christi.
 
@@ -17824,7 +16546,7 @@ CAPUT I. De Apostolici Primatus in beato Petro institutione.
 
 Docemus itaque et declaramus, juxta Evangelii testimonia primatun jurisdictionis in
 
-universam Dei Ecclesiam immediate et directe beato Petr<
+universam Dei Ecclesiam immediate et directe beato Petr\<
 
 Apostolo promissum atque collatum a Christo Domino
 
@@ -17844,8 +16566,6 @@ quodcumque ligaveris super terram, erit ligatum et ii quodcumque solveris super 
 
 et
 
-8
-
 et
 
 :
@@ -17864,19 +16584,7 @@ ut ipsius Ecclesiae ministro delatum fuisse.
 
 Leo M. serm. IV.
 
-1
-
-S.
-
-2
-
 Ioan.
-
-I,
-
-42.
-
-3
 
 (al.
 
@@ -17897,8 +16605,6 @@ XXI, 15—17.
 Constitutio dogmatica prima dc Ecclesia Cliristi.
 
 Si quis igitur dixerit,
-
-183
 
 beatum Petrum Apostolum non esse a Christo
 
@@ -17950,8 +16656,6 @@ ut in ea
 
 Sede,
 
-e
-
 qua venerandae communionis jura
 
 in
@@ -17961,8 +16665,6 @@ omnes
 dimanant, tamquam membra in capite consociata, in unam corporis com-
 
 pagem coalescerent
-
-3 .
 
 non esse ex ipsius Christi Domini institutione, seu jure divino, ut beatus Petrus in primatu super universam Ecclesiam habeat perpetuos successores; aut Romanum Pontificem non esse beati Petri in Si quis ergo dixerit,
 
@@ -17978,29 +16680,19 @@ et
 
 ipsum Pontificem Romanum successorem esse beati
 
-1
-
 Cf. Ephesini Conc. Act. III.
-
-3
 
 S. Iren.
 
 Adv. haer. 1. III. c. 3.
 
-2
-
 et
-
-S.
 
 Leo M. Serm. III. (al. II.) cap. 3.
 
 Conc. Aquil. a. 381. inter ep. S. Amhros. ep. XI
 
 Constitutio dogmatica priraa de Ecclesia Christi.
-
-184
 
 Petri, principis Apostolorum, et verum Christi Yicarium, totiusque Ecclesiae
 
@@ -18056,23 +16748,13 @@ Quare a recto veritatis tramite aberrant, qui
 
 XXX.
 
-1
-
 Ep. ad Eulog. Alexandrin. 1. VIII. ep.
 
-2
-
 Pii P. VI. Breve, Super soliditate d. 28. Nov. 1786. Concil. Oecum. Lugdun. II.
-
-3
-
-4
 
 Ep. Nicolai I. ad Michaelem Imperatorem.
 
 Constitutio dogmatica prima de Ecclesia Christi.
-
-185
 
 ab judiciis Romanorum Pontificum ad oecumenicum Con-
 
@@ -18134,15 +16816,11 @@ quae de fide subortae fuerint quaestiones, suo debent judicio definiri. Florenli
 
 Ticarium, totiusque Ecclesiae caput et omnium Christianorum patrem ac doctorem existere; et ipsi in beato Petro pascendi, regendi ac gubernandi universalem Ecclesiam a Domino nostro Jesu Christo plenam potestatem traditam esse.
 
-1
-
 VIII.,
 
 Ex formula S. Hormisdae Papae, prout ab Hadriano II. Patribus Concilii Oecumenici Constantinopolitani IV. proposita et ab iisdem subscripta
 
 est.
-
-186
 
 Constitutio dogmatica
 
@@ -18193,8 +16871,6 @@ Epist.
 CXC.
 
 Constitutio dogmatica prima de Ecclesia Christi.
-
-187
 
 instructam esse voluit; ideoque ejusmodi Romani Pontificis definitiones ex sese, non autem ex consensu Ecclesiae, irreformabiles esse. Si quis autem huic Nostrae definitioni contradicere,
 
@@ -18278,11 +16954,7 @@ tuum,
 
 et ecce video.
 
-u
-
 Protestatio contra infames libellos.
-
-188
 
 PEOTESTATIO CONTEA INFAMES LIBELLOS A CARDINALIBUS CONGREGATIONUM GENERALIUM PRAESIDIBUS CUM PATRIBUS CONCILII COMMUNICATA IN CONGR. GEN. DIE 16. JULII 1870.
 
@@ -18342,8 +17014,6 @@ que obtrectationes vocem extollere cogimur, atque in conspectu omnium vestrum R 
 
 niosa quaecumque in praedictis ephemeridibus et libellis effutiuntur, sive ni Nostri et in spretum et contumeliam SS mi Apostolicae Sedis, sive in
 
-D
-
 dedecus hujus Sacrosanctae Synodi,
 
 et
@@ -18364,8 +17034,6 @@ Praeses.
 
 Hannibal Card. Capalti, Praeses. Josephus, Ep.
 
-S.
-
 Hippolyti,
 
 Secretarius.
@@ -18373,8 +17041,6 @@ Secretarius.
 Monitum.
 
 Nomina RR. Patrum etc.
-
-189
 
 MONITUM. Cum ex Patribus,
 
@@ -18408,8 +17074,6 @@ GENERALI DIEI 13. AITGUSTI
 
 AD DEPUTATIONEM PRO REBUS DISCIPLINAE ECCLESIASTICAE, LOCO ABSENTIUM,
 
-1.
-
 2\. 3. 4. 5. 6.
 
 MAIORI
@@ -18424,15 +17088,9 @@ Yincentius Jekelfalusy, Episcopus. Albaregalensis. Michael Paya y Rico, Episcopu
 
 Benvenutus Monzon y Martins, Archiepiscopus Granatensis. Jacobus Quinn, Episcopus Brisbanensis. Josephus Targioni, Episcopus Yolaterranus. Franciscus Robertus Blanchet, Archiep. Oregonopolitanus.
 
-7.
-
 Petrus Paulus Trucchi, Episcopus Foroliviensis.
 
-8.
-
 Alexander Franchi, Archiepiscopus Thessalonicensis.
-
-9.
 
 Jacobus Bailles, Episcopus jam Lucionensis.
 
@@ -18445,8 +17103,6 @@ Secretaria Concilii Yaticani die 16. Augusti 1870.
 Ludovicus Jacobini, Subsecretarlus Concilii Yaticani.
 
 Litterae Apostolicae SS. D. N. Pii PP. IX.
-
-190
 
 (SUSPENSIO CONCILII.)
 
@@ -18532,8 +17188,6 @@ idcirco Nos, eo res ad haud patiantur; ductas magno cum animi Nostri moerore per
 
 Litteruc Apostolicae SS. D. N. Pii PP. IX.
 
-191
-
 cursum suum omnino tenere non possit, praevia matura deliberatione, motu proprio ejusdem-Yaticani Oecumenici Concilii celebrationem usque ad aliud opportunius et commodius tempus per hanc sanctam Sedem declarandum Apostolica auctoritate, tenore praesentium, suspendimus, et suspensam esse nunciamus, Deum adprecantes, auctorem et vindicem Ecclesiae Suae, ut, submotis tandem impedimentis omnibus, Sponsae Suae fidelissimae ocius restituat libertatem et pacem. Quoniam
 
 cilium tali in tempore
@@ -18593,10 +17247,6 @@ N. Card. Paracciani Clarelli.
 LEXICON GEOGRAPHICUM UOECESEON RESIDENTIALIUM ET ABBATIARUM NULLIUS.
 
 Conc. Vatie.
-
-4
-
-A.
 
 SEDES ARCHIEPISCOPALES ET EPISCOPALES, QUAE DICUNTUR RESIDENTIALES.
 
@@ -18676,8 +17326,6 @@ Archiep.
 
 Ep.
 
-V
-
 Bredanus
 
 Batavia
@@ -18703,8 +17351,6 @@ Francia
 Brest v. Wladimir
 
 Brieuc
-
-(S.)
 
 Brindisi
 
@@ -18771,8 +17417,6 @@ Status foedd.
 Burlington (Vermont)
 
 Bursa (Brusa)
-
-r.
 
 Arme- Brusens.
 
@@ -18915,8 +17559,6 @@ Carnutens.
 Francia
 
 Chatham Chathamens. Chelm et Belz r. Graeco- Chelmens. et Ruthen. Ruthenorum Chemps v. Emesa Cherson
-
-v.
 
 Chiapa Chicago
 
@@ -19082,8 +17724,6 @@ Hems, Homs) et Apamea, rit. Graeco-Mel-
 
 Lusitania et
 
-77
-
 Archiep.
 
 Apamens. Syria
@@ -19160,10 +17800,6 @@ Graeco - Melchitarum
 
 Fe
 
-(S.)
-
-5?
-
 (Novum
 
 jMariamnens.
@@ -19219,8 +17855,6 @@ Fiesole
 Fesulan.
 
 Status pontif. Etruria
-
-T
 
 Archiep.
 
@@ -19344,8 +17978,6 @@ Lexicon geographicum.
 
 XXXIV
 
-B.
-
 ABBATIAE ET PEAELATURAE NULLIUS. Nomen sedis vulgare
 
 ecclesiasticum
@@ -19361,8 +17993,6 @@ IN OECUMENICA SYNODO VATICANA
 '.
 
 Absentium Patrum nomina Asterisco (\*) sunt adnotata.
-
-1
 
 Habes
 
@@ -19416,17 +18046,9 @@ stat. pont.); Italus, n.
 
 Pietro,
 
-a.
-
-1798,
-
 cr.
 
-1834.
-
 Camillus Di, Episcopus Albanensis (Albano;
-
-1806,
 
 cr.
 
@@ -19436,31 +18058,17 @@ Italus,
 
 n. a.
 
-1853.
-
 Ordinis Presbyterorum (quorum eccl. titulares cunctae sunt in Urbe).
 
 \* Alameda cr.
 
 y Brea, Cyrillus De, Arcliiepiscopus Toletanus; Hispanus, n.
 
-a..
-
-1781,
-
-1858.
-
 Angelis, Philippus De, Tituli S. Laurentii in.Lucina, Archiepiscopus Firmanus, S.
 
 E. R. Camerarius; Italus, n.
 
-a.
-
-1792,
-
 cr.
-
-1838.
 
 Antonucci, Antonius Benedictus, Tit. SS. Silvestri et Martini ad montes, Episcopus Anconitanus et Humanensis; Italus, n. a. 1798, cr. 1858.
 
@@ -19470,25 +18078,15 @@ Asqnini; Fabius Maria, Tit. S. Stephani in monte Coelio; Italus cr.
 
 n. a. 1802,
 
-1844.
-
 Barili, Laurentius, Tit. S. Agnetis extra moenia; Italus, n. a. 1801, larnabd, Alexander, Tit. S. Susannae; Italus, n. a. 1801, cr. 1856. terardi, Josephus, Tit. SS. Marcellini et Petri; Italus, n. a.
 
-1810,
-
 cr.
 
 cr.
-
-1868.
-
-1868.
 
 Aloisius, Tit. S. Laurentii in Panisperna; Italus, n. a. 1826, cr. 1866. Billiet, Alexius, Tit. SS. Bonifacii et Alexii in monte Aventino, Archiepiscopus Hlio,
 
 Camberiensis ; Italus, n.
-
-a.
 
 Uzzarri, Josephus Andreas, cr. 1863.
 
@@ -19496,25 +18094,15 @@ hnaparte, Lucianus,
 
 Tit.
 
-S.
-
 1783, Tit. S.
 
 cr.
-
-1861.
 
 Hieronymi«!llyricorum; Italus, n.
 
 Pudentianae; Gallus, n. a. 1828,
 
 cr.
-
-a.
-
-1868.
-
-1802,
 
 Catalogus Praelatorwn SS. Ecclesiae Catholicae.
 
@@ -19560,13 +18148,9 @@ Guidi, Philippus Maria, Tit. S. Xysti, Archiepiscopus Bononiensis ; Italus, n. a
 
 a. 1823,,
 
-1866.
-
 La Lastra y Cuesta, Ludovicus De, Tit. S. Petri ad Vincula, ArchiepiscopusHispalensis; Hispanus, n. a. 1803,
 
 cf.
-
-1863.
 
 La Valletta, Raphael Monaco, Tit. S. Crucis in Sessorio
 
@@ -19584,8 +18168,6 @@ Panebianco, Antonius Maria, Tit. SS. XII. Apostolorum, Major Poenitentiarius ; S
 
 Pecci, Joachimus, Tit. S. Chrysogoni, Episcopus Perusinus ; Italus, n. a. 1810 r cr.
 
-1853.
-
 Pitra, Joannes Baptista, Tit. S. Callixti; Gallus, n. 1812, cr. 1863. Quaglia, Angelus, Tit. SS. Andreae et Gregorii in monte Coelio; Italus, n. a.
 
 1802, cr. 1861. Rauscher, Josephus Othmarus, Tit. S. Mariae de Victoria, Archiepiscopus Vindobonensis; Germanus, n. a. 1797, cr. 1855.
@@ -19594,13 +18176,9 @@ Riario - Sforza , Xystus, Tit. S. Sabinae, Archiepiscopus Neapolitanus; Italus t
 
 \*
 
-1846.
-
 Sacconi, Carolus, Tit. S. Mariae de Populo; Italus, n. a. 1808,
 
 cr.
-
-1861.
 
 Schicarzeriberg, Fridericus, Tit. S. Augustini, Archiepiscopus Pragensis;
 
@@ -19612,11 +18190,7 @@ Petrus De,
 
 Tit.
 
-S.
-
 Marci; Italus, n.
-
-a.
 
 1803, cr. 1858.
 
@@ -19626,11 +18200,7 @@ ventanus; Italus, n. 1805,
 
 cr.
 
-1844.
-
 Trevisanato, Josephus Aloisius, Tit. SS. Nerei et Achillei, Patriarcha Venetiarui Italus, n. a. 1801, cr. 1863. Vannicelli-Casoni, Aloisius, Tit. S. Praxedis, Archiepiscopus Ferrariensis ; Itah n. a. 1801, cr.
-
-1839.
 
 — Primat.
 
@@ -19642,13 +18212,7 @@ Ordinis Diaconorum (quorum cccl. titul. cunctae sunt in Urbe).
 
 Diaconus
 
-S.
-
 Mariae in ViaLata; Italus, n.
-
-1847.
-
-1806,
 
 cr.
 
@@ -19656,25 +18220,13 @@ Borromeo, Eduardus, Diaconus SS. Viti et Modesti; Italus, n. a. 1822, Capalti, H
 
 cr.
 
-1868.
-
 cr,
-
-1868.
 
 Antonelli, Jacobus,
 
 Caterini, Prosper,
 
 Diaconus S. Mariae Scalaris; Italus, n.
-
-a.
-
-a.
-
-1795,
-
-1853.
 
 cr.
 
@@ -19684,13 +18236,7 @@ Mertel, Theodulphus,
 
 Diaconus S. Eustachii; Italus, n.
 
-a.
-
-1806,
-
 cr.
-
-1858.
 
 REVERENDISSIMI DD. PATRIARCHAE. Antici-Mattei ,
 
@@ -19704,13 +18250,7 @@ lat. ;
 
 rit.
 
-n.
-
 Italus,
-
-a.
-
-1811,
 
 praec. 1866.
 
@@ -19782,13 +18322,9 @@ maronit. ; Syrus, n. a. 1806,
 
 Italus, n. a. 1813, Patr.
 
-1847.
-
 REVERENDISSIMI DD. PRIMATES. 1.
 
 Dechamps, Victor, Belga, n. 1810; Arehiep. Mechliniensis (Malines, Belg.), prom. 20 Decembris 1867.
-
-2.
 
 Fleix u Solans, Franciscus, Hispanus, n. 1804; Archiep. Tarraconensis (Tarragona, Hispania), prom. 22 Septembris 1864.
 
@@ -19810,11 +18346,7 @@ Moura, Joseph Da, Lusitanus, n. 1794; Archiep. Bracharensis (Braga, Lusitania),
 
 prom. 16 Junii 1856.
 
-6.
-
 Pooten, Carolus, Germ., n. 1807; Archiep. Antibarensis et Scodrensis (Antivari e Scutari, Albania), prom. 31. Augusti 1855.
-
-7.
 
 Salomone, perpet. 21.
 
@@ -19852,8 +18384,6 @@ REVERENDISSIMI DD. ARCHIEPISCOPI. 11.
 
 Allemand Lavigerie, Carolus, Gall., n. 1825; Algerianus (Alger, Algier, Africa
 
-12.
-
 Ambrosio, Raphael De,
 
 prom. 27 Martii 1867.
@@ -19869,8 +18399,6 @@ Dyrrachiensis (Durazzo, Alban.), prom.
 Amorin Pessoa, Joannes De, Lusitan.
 
 ,
-
-n.
 
 1810; Goanus (Goa, Ind. orient.,
 
@@ -19893,8 +18421,6 @@ stat. pont.),
 prom.
 
 16 Aprilis 1846. 16. Apelian, Petrus,
-
-17.
 
 (Marasch, Syria), prom. 31 Julii 1842. Apuzzo, Franciscus Xaverius, Ital. n. 1807; Surrentinus (Sorrento, regn. ,
 
@@ -19924,8 +18450,6 @@ Arciga, Ignatius, Mexican.
 
 ;
 
-\* 22.
-
 (Ayasaluk, As. min.), prom. 19 Januarii 1846. Ata, Gregorius, n. 1812; Emesenus et Apamensis, rit. graec melchit. (Hems, Homs, Syria), prom. 20 Februarii 1849.
 
 —
@@ -19933,8 +18457,6 @@ Arciga, Ignatius, Mexican.
 Timotheus; Amidensis, rit. chaldaic (Diarbekir, Mesopot. Osm., Asia), prom. 22 Martii 1869.
 
 23\. Attar,
-
-\* 24.
 
 Aun, Tobias;
 
@@ -19950,15 +18472,11 @@ maronit. (nunc Beirut, Phoenicia), prom.
 
 19 Martii 1841. \*
 
-25.
-
 Avac-Wartan Angiarakian, Armenius, Constantinopolit., n. 1812; Tarsensis in part. infid. rit. armen. (Tarso, quondam Ciliciae caput, imp. Osm.), ,
 
 prom. 15 Augusti 1859. Amidensis Archiep. Episcop. rit. armen. (Diarbekr, Mesopotam.), prom. 2 Junii 1850.
 
 26\. Bahtiarian, Jacobus, n. 1800;
-
-\* 27.
 
 — Quebecensis (Quebec, Canada, Amer. septentr.).
 
@@ -19982,8 +18500,6 @@ Catalogus Praelatorum SS. Ecclesiae Catholicae. 30.
 
 Barshino, Augustinus Georgius,
 
-n.
-
 — Archiep.
 
 1811; Salmasiensis,
@@ -20000,15 +18516,11 @@ Petrus Michael, n. 1800; Serthensis, rit. chald. (Sert, imp. Osman., Kurdistan),
 
 31\. Bartatar,
 
-\* 32.
-
 Bartakovics, Adalbertus, Hungar., n. 1792; Agriensis (Erlau, Eger, Jager Hungaria), prom. 30 Septembris 1850.
 
 —
 
 Behnam Bemii, Cyrillus, Mausiliensis, n. 1831; Mausiliensis, rit. Syriac. (Mos-
-
-33.
 
 Mesopot., imp. Osm., Asia), prom. 9 Martii 1862. Naxiensis (Naxia, insul. Cyclad., Graecia), prom. 24 Martii 1864.
 
@@ -20037,8 +18549,6 @@ stat. foeder.
 Amer.
 
 ,
-
-n.
 
 1795; Oregonopolitanus (Oregon City, prom. 24 Juli 1846.
 
@@ -20074,15 +18584,9 @@ Bucciarelli, Darius, n. 1827; Scopiensis (Scopia, imp. Osm., Bosn.), prom.
 
 Cammarota, Philippus, Ital., n. 1809; Cajetanus (Gaeta, regn. d. Sic), prom.
 
-3.
-
 Cardoni, Joseph, Ital., n. 1802 22 Februarii 1867.
 
-4.
-
 Casangian, Placidus, Antiochenus, Archiep. Ep., Osm., Syr.), prom. 14 Septembris 1864.
-
-5.
 
 Casasola, Andreas, Ital., n. 1806; Utinensis (Udine, Ital., 28 Septembris 1863.
 
@@ -20095,8 +18599,6 @@ Castells,
 Nicolaus;
 
 in Moesia,
-
-7.
 
 ;
 
@@ -20128,25 +18630,15 @@ An-
 
 — Aquensis (Acqui, regn. Pedem.), prom. 19 Martii
 
-8.
-
 Chalendon, Georgius; 1857.
 
-9.
-
 Charvaz, Andreas
-
-30.
 
 Checa, Joseph, Americ, n. 1829; Quitensis (Quito, caput reipubl. Aequatoris, Amer. merid.), prom. 16 Martii 1868.
 
 ;
 
 — antea Januensis (Genova, regn. Pedem.), prom. 3 Julii
-
-1848.
-
-1.
 
 in part. infid. (Myra, Lycia, Asia Chigi, Flavius, Ital., n. 1810; Myrensis 1856. Junii 19 min.), prom.
 
@@ -20218,8 +18710,6 @@ Gall.),
 
 Michael De, G-erm.
 
-n.
-
 1800; Bambergensis (Bamberg, Bavaria),
 
 62\. Desprez, Julianus, Gall., n. 1807;
@@ -20254,8 +18744,6 @@ Ludovicus, Gall.
 
 ,
 
-n.
-
 1808; Avenionensis (Avignon, Gall.), prom.
 
 21 Decembris 1863. 66. Dusmet, Joseph, Siculus, n. 1818; Catanensis (Catania, Ital., Sicil. ins.), prom.
@@ -20287,8 +18775,6 @@ prom. 3 Decembris
 1868\. \* 71. Falcinelli - Antoniacci Marianus Ital. , ,
 
 n. 1806; Athenarum in part. infid. (Athen, Athina, Graecia), prom. 21 Decembris 1857. \* 72. Felinski, Sigismundus, Polon., n. 1822; Varsaviensis (Warschau, caput Po-
-
-\* 73.
 
 ,
 
@@ -20324,8 +18810,6 @@ imp. Osm.), 21 Novembris 1864. 79. Giagia,
 
 Josephus, Syr., n. 1795; Cyprensis, prom. 26 Decembris 1843.
 
-\\Q.
-
 rit.
 
 maronit. (Kebris insula),
@@ -20336,15 +18820,11 @@ Giannelli, Petrus, Ital., n. 1807; Sardianus in part. infid.
 
 Lydiae caput, nunc Sart, Asia min.), prom. 6 Junii 1858. n. 1797; Goritiensis et Gradiscanus (Gorz 81. Gollmayr, Andreas, German. ,
 
-82.
-
 und Gradisca, Austria), prom. 23 Martii 1855. Gall. n. 1814; Portus Hispaniae (Porto de Esparia, in Gonin, Joachim ,
 
 dit. Angl.), prom. 21 Decembris 1863. Barreda , Goyeneche y Joseph Peruvian., n. 1775; Limanus (Lima, caput Amer. reipubl. Peruv., merid.), prom. 26 Septembris 1859.
 
 insula Trinidad, Ind. occid.,
-
-83.
 
 ,
 
@@ -20408,13 +18888,9 @@ Mellonus;
 
 Syria), prom. 31 Julii 1842.
 
-96.
-
 Kashat, Hieronymus Simeon;
 
 prom. 97.
-
-7
 
 — Sehananensis
 
@@ -20444,21 +18920,13 @@ prom. 14 Aprilis 1867. 98.
 
 Kenrik, Petrus, Hibern., foed.
 
-n.
-
 1806; S. Ludovici
-
-(S.
 
 Louis, Missouri, stat.
 
 Amer. septent.), prom. 12 Julii 1847.
 
-)9.
-
 Khayatt, Georgius Ebedjesus, n. 1827; Amadiensis, rit. chaldaic. (Amadia, imp. Osm., Kurdistan), prom. 23 Septemfcris 1860.
-
-)0.
 
 Korckoruni, Leo, n. 1822; Militenensis Archiep. Ep., imp. Osm., Armen.), prom. 7 Aprilis 1861.
 
@@ -20474,13 +18942,7 @@ Catalogus Praelatorum SS. Ecclesiae Catbolicae.
 
 Joannes, Gall.
 
-n.
-
 ,
-
-1816
-
-5
 
 — Archiep.
 
@@ -20528,13 +18990,7 @@ Gallus
 
 Joannes, 27 Martii 1865.
 
-110.
-
 ,
-
-n.
-
-1801;
 
 Albiensis
 
@@ -20547,8 +19003,6 @@ prom.
 — Tuamensis (Tuain, Hibernia), prom. 5 Augusti
 
 Mac Hale, Joannes; 1834.
-
-111.
 
 Maddalena, Spiridion, Corcyrens. n. 1824; Corcyrensis (Corfu, insula, Graec), prom. 13 Julii 1860. 112. Manning, Henricus, Angl. n. 1808; Westmonasteriensis (Westminster, Angl.), prom. 30 Aprilis 1865. \* 113. Arcensis in part. infid., rit. maronit. (Archis, Syria), Marid, Josephus; prom. 4 Novembris 1855. 114. Marini, Marinus, Italus; antea Palmyrensis in part. infid., nunc Ep. Urbe,
 
@@ -20570,8 +19024,6 @@ infid.
 
 25 Septembris 1845. 117. Martinoz,
 
-\* 118.
-
 Gregorius, Hisp., n. 1813; De Manila (Manila insula, prom. 23 Decembris 1861.
 
 Philippin.),
@@ -20590,8 +19042,6 @@ Germ.
 
 ,
 
-1813;
-
 Coloniensis
 
 (Koln,
@@ -20601,8 +19051,6 @@ Borussia),
 prom.
 
 8 Januarii 1866. \* 123.
-
-J
 
 Mercy d Argenteau, Carolus, Belga, n. 1787; Tyrensis in part. infid. (Tyrus, Syria),
 
@@ -20618,19 +19066,11 @@ Catalogus Praelatorum SS. Ecclesiae Catholicae. 125.
 
 Monzon y Martins, Benvenutus, Hisp.),
 
-6.
-
-7.
-
 prom.
-
-n.
 
 Ilisp.,
 
 — Archiep.
-
-1820;
 
 XLV
 
@@ -20708,8 +19148,6 @@ mala, respubl. Guatemal., Amer. centr.), prom. 20 f Septembris 1867. \* 137. Plu
 
 prom. 23 Februarii 1870. \* 138.
 
-\* 139.
-
 Polding, Joanries, Angl. ; Sidneyensis (Sidney, prom. 15 Februarii 1841.
 
 —
@@ -20744,8 +19182,6 @@ Cameracensis (Cambray,
 
 Ital.,
 
-n.
-
 Gall.),
 
 prom.
@@ -20776,13 +19212,9 @@ Catalogus Praelatorum SS. Ecclesiae Catholicae.
 
 ,
 
-n.
-
 — Archiep.
 
 antea Acheruntinus et Matheranensis,
-
-1796;
 
 nunc Ep. Melphitensis, Juvenacensis et Terlitiensis (Molfetta, Giovenazzo e Terlizzi, regn. d. Sic), prora. 23 Martii 1855. 149. Rossi Vaccari, Antonius, Ital., n. 1808; Colossensis in part. infid. (Colossae,
 
@@ -20802,13 +19234,7 @@ Godefridus
 
 Francisci
 
-S.
-
-n.
-
 Gallus,
-
-(S.
 
 Francisco, Californ.), prom.
 
@@ -20817,8 +19243,6 @@ Francisco, Californ.), prom.
 prom. 12 Julii 1841. 153. Salvini, Felicissimus, Ital. n. 1803; Camerinensis, Administr. perpet. Eccl. Trejensis (Camerino, Treja, st. pont.), prom. 12 Aprilis 1847. 154. Scelhot,
 
 Dionysius Georgius, Aleppens. n. 1818; (Haleb, imp. Osm., Syr.), prom. 25 Maji 1862.
-
-155.
 
 ,
 
@@ -20868,8 +19292,6 @@ ruthenor.
 
 nunc Herakli, Erekli, Asia min.), prom. 18 Martii 1858. Sousa Magelhaes, Dominicus De, Lusitan., n. 1800; Mitylenensis in part. infid. (Metelin., Kastro, Anatol.), prom. 7 Martii 1853. 160. Spaccapietra, Vincentius, Ital. n. 1801; Smyrnensis (Smyrna, Asia min.),
 
-\* 159.
-
 ,
 
 prom. 18 Aprilis 1855. 161. Spalding , Martinus Joannes, Americ Maryland, \* 162.
@@ -20879,8 +19301,6 @@ st.
 foed.
 
 ,
-
-n.
 
 1810; Baltimorensis (Baltimore,
 
@@ -20906,11 +19326,7 @@ rit.
 
 armen. (Lem-
 
-166.
-
 Administr. perpet. Taglialatela, Vincentius, Ital., n. 1804; Sypontinus, Eccl. Vestanae (Manfredonia, Viesti, regn. d. Sic), prom. 23 Junii 185«
-
-167.
 
 Tizzani, Vincentius, Ital., n. 1809; Nisibenus in part. infid. (Nisib Syr.), prom. 23 Martii 1855.
 
@@ -20918,15 +19334,9 @@ Tizzani, Vincentius, Ital., n. 1809; Nisibenus in part. infid. (Nisib Syr.), pro
 
 Nesbi,
 
-\* 168.
-
 in Ispahan, Pers.), Trioche, Laurentius, Gallus, n. 1801 ; Babylonensis (res.
 
-169.
-
 prom. 14 Martii 1837. Kerkukensis, rit. chald. (Kerkuk, imper. Osm., Asia), Tamraz, Joannes; proA. 14 Septembris 1854.
-
-170.
 
 —
 
@@ -20939,8 +19349,6 @@ XLVII
 Fogarasiensis et Albae Juliensis,
 
 Vancsa, Joannes, n. 1820; (Fogaras, Weissenburg, 21 Decembris 1868.
-
-\* 172.
 
 — Episc.
 
@@ -20964,15 +19372,9 @@ Nicaenus in part. infid. (Nicaea, urbs Bithy-
 
 niae, nunc Isnik, irnp. Osm., Asia min.), prom. 24 Junii 1869.
 
-173.
-
 Villanova Castellacci, Petrus, Ital., n. 1815; Petrensis in part. infid. (Petra, Arabia); prom. 26 Martii 1855.
 
-174.
-
 Wierzchleyski, Franciscus, n. 1803; Leopoliensis (Lemberg, Austria, Gallic), prom. 23 Martii 1860.
-
-175.
 
 Yusto, Anastasius Rodrigo, Hispanus, n. 1814; Burgensis (Burgos, Hispan.), prom. 20 Septembris 1867.
 
@@ -20988,11 +19390,7 @@ Fidelis,
 
 Ital.,
 
-n.
-
 Sanctorien. (Santorin, archipel. Graec),
-
-1820;
 
 17 Martii 1863.
 
@@ -21020,8 +19418,6 @@ Halicarnassen. in part. infid. (Halicarnassos, n. BoAdames, Mcolaus; drun, Caria
 
 n. 1813; Joseph, Ital. prom. 22 Februarii 1867.
 
-\* 184.
-
 Senogallien.
 
 ,
@@ -21038,15 +19434,9 @@ Aguiar, Joannes De, Lusit.
 
 ,
 
-n.
-
-1796;
-
 et
 
 186\. Alberti, Joseph, Smyrnen., n. 1809; Syrensis (Syra, Graec), prom. 21 Martii
-
-1843.
 
 —
 
@@ -21054,15 +19444,9 @@ et
 
 Hilarius; Paphensis in part. infid. 5 1848. prom. Septembris
 
-\* 188.
-
 Albuquerque, Joannes De, Hispan. Andalus.), prom. 23 Junii 1854.
 
-n.
-
 ,
-
-1797;
 
 in
 
@@ -21130,15 +19514,11 @@ Gall.),
 
 prom. 21 Fe-
 
-\* 194.
-
 Allouory, Ludovic. ; antea Apamiensis (Pamiers, Gall.), prom. 16 Aprilis 1846. \* 195. Alves Martins, Anton. , Lusit. n. 1808; Yisen. (Viseu, Lusitan.), prom. ,
 
 25 Septembris 1862. 196. Alvez Feijb, Joseph, Lusit.
 
 ,
-
-n.
 
 1816; S. Jacobi Capitis viridis (Ilhas do
 
@@ -21150,11 +19530,7 @@ Amat, Thaddaeus; Californ.,
 
 st.
 
-f.
-
 Am. sept.), prom. 29 Julii 1853.
-
-\* 198.
 
 Amberg, Joannes, Germ., n. 1802; Europen. in part. infid. (Europus, Syr.), prom. 25 Septembris 1865. 199. Ambrosio, Franc. Xav. De, Ital. n. 1799; Muran. (Muro, regn. d. Sic), ,
 
@@ -21163,8 +19539,6 @@ prom. 20 Junii 1859. 200. Andreoli, Francisc, Ital., n. 1806; Callien. et Pergul
 Aneyros, Frideric 21 Martii 1870.
 
 202\. Anfossi, Michael; 15 Martii 1853.
-
-\* 203.
 
 \* 204. \* 205.
 
@@ -21202,7 +19576,7 @@ arm.
 
 (Ancyra
 
-in<
+in\<
 
 Aragones, Joannes, Hisp., n. 1816; Novae Segobiae (Nueva Segovia, ins. Philipp.), prom. 27 Martii 1865.
 
@@ -21215,10 +19589,6 @@ Miranda, Ferdinand. Hisp. Hisp.), prom. 23 Decembris 1858.
 ,
 
 ,
-
-n.
-
-1798;
 
 Asturicens.
 
@@ -21239,10 +19609,6 @@ n. 1814;
 De Guyana (Guayana sive S. Thomas,
 
 resp. Venezuel.), prom. 19 Junii 1856. \* 211. Arriete, Felix, Hispan.. n. 1811; Gaditan. et Septen. (Cadiz et Ceuta, Hisp.), prom. 1 Octobris 1863.
-
-\* 212.
-
-213.
 
 Asensio, Petrus, Hisp., n. 1807; 21 Dec 1857.
 
@@ -21300,8 +19666,6 @@ Balma
 
 , Joannes, Ital., n. 1817; Ptolemaid. in part. infid. (Ptolemais, n. Tolometa, dit. Tripolit., Afr. sept.), prom. 5 Septembris 18\*48. \* 221. Illinois st. foed. Am. Altonen. (Alton sept.) Baltes, Petrus prom.
 
-220.
-
 ,
 
 ;
@@ -21334,15 +19698,11 @@ in part. infid.
 
 regn. d. Sic),
 
-n.
-
 Aintab, Syr.),
 
 prom. 21 Januarii 1870. \* 226.
 
 Barranco, Joseph, Am.,
-
-\* 227.
 
 Cypr. Barrutia y Crocquer, Emmanuel, ins.) ,
 
@@ -21364,8 +19724,6 @@ prom. 28 Septembris 1849. Bethlemensis in part. infid. (Bethlehem, Palaest.), St
 
 sive Fornacusa, Syr.),
 
-230.
-
 Bagnaud, prom. 3
 
 Julii 1840.
@@ -21375,8 +19733,6 @@ Julii 1840.
 ,
 
 Gall. , n.
-
-1825;
 
 Veneten. (Vannes, Gall.),
 
@@ -21390,8 +19746,6 @@ Beckmann, Joannes, Germ. prom. 22 Junii 1866.
 
 ,
 
-n.
-
 234\. Belaval, Joannes, Gall., n. 1802; tembris 1858. \* 235.
 
 Am.
@@ -21401,10 +19755,6 @@ Benavente, Petrus De,
 Boeotia, ext. ruin. prope 236. Benavides, Francisc
 
 ,
-
-n.
-
-1803;
 
 1790; Thespien, in part.
 
@@ -21423,8 +19773,6 @@ Osnabrugen. (Osnabriick, Boruss.),
 Apamen. (Pamiers, Gall.), prom. 27 Sep-
 
 Hispan., n. 21 Decembris 1857. prom.
-
-1810;
 
 Siguntinus
 
@@ -21452,10 +19800,6 @@ Carolus,
 
 Am.,
 
-n.
-
-1830;
-
 Popayanen. (Popayan,
 
 resp.
@@ -21470,10 +19814,6 @@ Am. merid.), prom. 13 Martii 1868.
 
 Joann. Bapt., Gall.,
 
-n.
-
-1798;
-
 Tutelensis (Tulle, Gall.),
 
 22 Julii 1842.
@@ -21485,8 +19825,6 @@ c onc. Vatic.
 prom.
 
 Catalogus Praelatorum SS. Ecclesiae Catholicae.
-
-L
 
 — Episc.
 
@@ -21500,13 +19838,7 @@ Yentimiliensis
 
 ,
 
-\* 245.
-
 Bienna, Aloysius, Ital.,
-
-n.
-
-1794;
 
 (Yentimiglia
 
@@ -21578,21 +19910,15 @@ Sic),
 
 1812; Abulensis (Avila, Hispan.),
 
-n.
-
 ,
 
 (Nesqualy,
-
-d.
 
 ,
 
 prom. 23 Maji 1842.
 
 253\. Blundo, Rogerius, Sicul. , n. 1801; Cephaluden. (Cefahi, Sic ins.), prom. 15 Martii 1858.
-
-\* 254.
 
 Bombini, Michael, 21 Maji 1829.
 
@@ -21612,11 +19938,7 @@ Christophor.
 
 ,
 
-n.
-
 ,
-
-1808;
 
 vic
 
@@ -21639,8 +19961,6 @@ prom. infid.
 (Media, Thracia), prom. 8 Julii 1868. 257. Bonnaz,
 
 Alexand.
-
-1812;
 
 Gall.,
 
@@ -21686,8 +20006,6 @@ Canadens.
 
 ,
 
-n.
-
 179(6;
 
 Marianopolitanus (Montreal, Ca-
@@ -21702,11 +20020,7 @@ jj
 
 266\. Boweri, Joseph, Ital., n. 1800; Faliscodunen. (Monte-Fiascone, dit. pont.), prom. 22 Februarii 1867.
 
-\* 267.
-
 Bracco, Vincent.,
-
-n.
 
 Ital. ,
 
@@ -21724,8 +20038,6 @@ Gandaviens. (Gent
 
 268\. Bracq, Henric. Belg., n. 1804; 27 Martii 1865. ,
 
-269.
-
 ,
 
 Gand
@@ -21741,10 +20053,6 @@ Belg.),
 prom.
 
 prom. 18 Maji
-
-1845.
-
-\* 270.
 
 Braun, Thomas, AngL, n. 1798; Neoportensis et Menovensis (Newport et S. David, Angl.), prom. 11 Maji 1840. \* 271. Bravard, Joannes, GalL, n. 1811; Constantien. (Coutances, GalL), prom.
 
@@ -21771,8 +20079,6 @@ Gall.),
 prom. 12 Julii 1867.
 
 282\. Calogera, Marcus, Dalmat., n, 1819; Spalatens. (Spalato, Dalmat.), 19 Junii 1856.
-
-\* 283.
 
 Cameron, Joannes; Titopolitan.
 
@@ -21824,8 +20130,6 @@ d. Sic), prolfe.
 
 Francisc, Am., n, 1821; Olinden. (Olinda, imp. BrasiL), 20 Decembris 1867.
 
-d\*
-
 bprom.
 
 Catalogus Praelatorum SS. Ecclesiae Catholicae.
@@ -21844,8 +20148,6 @@ Cajetan; incert.),
 
 292\. CarnachOy
 
-n.
-
 Syr.
 
 Raymundus, Am., n. 1818; de Queretaro (Mexic, Am. centr.),
@@ -21862,13 +20164,7 @@ Ludovicus, 20 Aprilis 1849.
 
 295\. Celesia,
 
-n.
-
-1798;
-
 De Portorico
-
-(S.
 
 Juan de Puertorico,.
 
@@ -21878,21 +20174,13 @@ ins. Antill.),
 
 Michelangelus
 
-n.
-
 Ital. ,
 
 ,
 
 1806; Sic. ,
 
-n.
-
-S.
-
 Deodati (St-Die, Gall.), prom.
-
-1814;
 
 Pacten. (Patti,
 
@@ -21927,8 +20215,6 @@ infid.
 Jasa, Asen, in Caria, As. min. merid.), prom. 21 Jun. 1841. \* 300. Charbonnier, Eugenius, vic. ap. Cochinchina orient. Domitiopolit. in part\* ;
 
 prom. 6 Septembris 1864. \* 301. Chauveau, Joseph, vic. ap. Tibet; Sebastopolitanus in part. stopolis, Turkhal, Armenia), prom. 27 Novembris 1846. infid.
-
-\* 302.
 
 Chiais,
 
@@ -21965,10 +20251,6 @@ Am., n. 1814; Pacen. (La Paz, resp. Boliv., Am. merid.), 24 Septembris 1868. pro
 305\. Clavigo, Callixtus,
 
 306\. Clifford, Guillelmus, Angl., 6 Februarii 1857. \* 307. \*
-
-n.
-
-1823;
 
 Cliftonien. (Clifton, Angl.),
 
@@ -22030,8 +20312,6 @@ foed.
 
 Am.
 
-j
-
 Catalogus Praelatorum SS. Ecclesiae Catholicae.
 
 \* 316. Cooke, Thomas;
@@ -22044,13 +20324,9 @@ Trifluvianensis (Trois Rivieres, Canada),
 
 1852\. 317. Comthwaite, Robertus Angl. prom. 3 Septembris 1861. ,
 
-n.
-
 ,
 
 Beverlacen.
-
-1818;
 
 (Beverley,
 
@@ -22098,11 +20374,7 @@ prom. 25 Junii 1866.
 
 Gall.,
 
-n.
-
 Petrocorien. (Perigueux,
-
-1811;
 
 Gall.),
 
@@ -22120,8 +20392,6 @@ Gall.
 
 ,
 
-n.
-
 ,
 
 1812; Briocen.
@@ -22132,11 +20402,7 @@ Brieuc,
 
 7 Aprilis 1862.
 
-\* 331.
-
 Deaky, Sigismund.,
-
-n.
 
 1795; Caesaropolitanus in part.
 
@@ -22161,8 +20427,6 @@ Gall.) ,
 prom.
 
 28 Septembris 1855.
-
-\* 333.
 
 Delany, Guillelm. Corcagien. (Cork, Hibernia), prom. 9 Julii 1847. n. 1794; Vivariensis (Viviers, Gall.), prom. 334. Delcusy, Ludovicus, Gall. 19 Martii 1857. ;
 
@@ -22198,15 +20462,9 @@ jjy
 
 341\. f Devoucoux, Joannes, Gall. v n. 1801; Ebroicen. (Evreux Gall.), 18 Martii
 
-1858.
-
 \* 342. Di Andrea Dalmatius, ,
 
-n.
-
 Ital. ,
-
-1800;
 
 Bovensis
 
@@ -22224,8 +20482,6 @@ Am.
 
 Am. merid.),,
 
-1815;
-
 Leonen. (Leon, Mexic), prom.
 
 De, Germ. r n. 1814; 27 Septembris 1858. Bavaria), prom.
@@ -22234,13 +20490,9 @@ Augustan. Vindelic. (Augsburg,
 
 ,
 
-n.
-
 7 Aprilis 1862.
 
 346\. Dinkel, Pancratius
-
-\* 347.
 
 Dobra, Alexander, Hungar. n. 1794; Lygosien. rit. graec. rum. (Lugos,. Hung.), prom. 18 Novembris 1854. \* 348. Austr., n. 1812; Parentin. et Polen. (Parenzo et Pola r Dobrilla, Georg. ,
 
@@ -22252,15 +20504,11 @@ prom. 21 Decembris 1857.
 
 349\. Domenec, Michael; Pittsburgen. (Pittsburg, Pennsylvan., prom. 28 Septembris 1560.
 
-\* 350.
-
 Donato, Alphons. Di; Cardicen. in part. infid. (Thessal.
 
 st.
 
 sit.
-
-f.
 
 Am. sept.) r
 
@@ -22275,8 +20523,6 @@ Marquesas; Cambysopolit. in part.. prom. 7 Decembris 1855. Dunen. et Connoren. (
 352\. Dordillon, Ildephons. infid.
 
 353\. Dorrian, Patrit. 22 Junii 1860. ;
-
-\* 354.
 
 ,
 
@@ -22301,8 +20547,6 @@ Am.
 ,
 
 ,
-
-n.
 
 1817; Fortalexien. (Fortaleza, imp. Brasil.),
 
@@ -22330,8 +20574,6 @@ prom. 6 Septembris 1.864. 1800; Pharen. (Lesina, Dalmat.), prora.
 
 Syr.), ,
 
-n.
-
 25 Junii 1866. Claud. Maria; Galvestonien. (Galveston, Texas, st. f. Am. sept.) r prom. 15 Octobris 1862. 363. Dufal, Petrus, vic. ap. Bengal.- orient. Delconen. in part. infid. (Dercus^ Thrac), prom. 3 Julii 1860. \* 364. Duggmi, Jacobus; Chicagien. (Chicago ; Illinois, st. f. Am. sept.), prora. 362. Dubuis,
 
 ;
@@ -22339,8 +20581,6 @@ n.
 21 Januarii 1859.
 
 Catalogus Praelatoram SS. Ecclesiae Catholicae. \*
-
-365.
 
 Dumani, Agapius
 
@@ -22353,8 +20593,6 @@ Melchit.
 — Episc.
 
 Jean d'Acre
-
-(S.
 
 L\\r
 
@@ -22378,15 +20616,9 @@ Gall. ,
 
 1802; Aurelianens. (Orleans, Gall.), prom.
 
-n.
-
 28 Septembris 1849. 367. Dupont, Ferdinand., vic. ap. Siam orient.; Azoten. in part. infid. (Azotum, n. Esdud, Palaest.), prom. 22 Septembris 1864. 368.
 
 Dupont des Loges, Paulus, Gall.,
-
-n.
-
-1804;
 
 Metensis (Metz, Gall.), prom.
 
@@ -22394,11 +20626,7 @@ Metensis (Metz, Gall.), prom.
 
 Durcan, Patrit. ; Acadens. (Aclionry, Hibern.), prom. 4 Octobris 1852. 370. Durguth, Joseph ; Sionnen. in part. infid. (Sion, As. min.), prom. 25 Septembris 1865.
 
-369.
-
 371\. Eberhard, \*
-
-n.
 
 Germ.,
 
@@ -22406,23 +20634,17 @@ Mathias,
 
 7 Aprilis
 
-1815;
-
 Treviren. (Trier,
 
 Boruss.),
 
 prom.
 
-1862.
-
 372\. Echevarria y Briones, Rodericus, Hisp., n. 1790; Segovien. (Segovia, Hisp., Castil.), prom. 25 Septembris 1857.
 
 373\. Elder, Guillelm. , Am. ; Natchezen. (Natchez, Mississippi, prom. 9 Januarii 1857.
 
 Am. sept.),
-
-f.
 
 Joannes (Episcop. Syncellus Patr. Syror.), prom. 3 Au-
 
@@ -22440,11 +20662,7 @@ Elloijj
 
 Ludovic, Gall.,
 
-n.
-
 1805; Aturens. (Aire, Gall.), prom. 26 Sep-
-
-n.
 
 1793; Anastasiopolitan. in part. infid. (Ananon omnino cert.) prom. 23 Martii 1855.
 
@@ -22482,8 +20700,6 @@ prov. Diarbekir), prom. 3 Julii 1863. 379. Esteves de Toral, Joseph, Am., n. 181
 
 (Torone, Macedon.,
 
-n.
-
 ,
 
 381\. Eicjik, van, Petrus, vic. ap. Cura^ao; Camacen. in part. infid. imp^ Osm. asiat.) prom. 5 Junii 1869.
@@ -22512,29 +20728,17 @@ Ital. ,
 
 ,
 
-n.
-
-n.
-
 Lombardi
 
 1807; Dianen. (Diano, regn.
-
-1806;
-
-S.
 
 Angeli
 
 et Bisaccia ,
 
-d.
-
 Lombardorum
 
 regn.
-
-d.
 
 Sic)
 
@@ -22561,10 +20765,6 @@ infid.
 388\. Fares, Clemens Ital. 15 Decembris 1856. ,
 
 ,
-
-n.
-
-1809;
 
 Pisaurens. (Pesaro,
 
@@ -22612,15 +20812,11 @@ Tennessee,
 
 st.
 
-f.
-
 Am.
 
 sept.),
 
 7 Julii 1865.
-
-\* 395.
 
 Feeny, Thomas; Alladen. (Killala, Hibern.), prom. 27 Julii 1839. 396. Fennelly , Stephan, Hibern., vic ap. Madras; Thermopylen. in part. (Hellas), prom. 1 Martii 1868.
 
@@ -22656,15 +20852,9 @@ Russ.
 
 ,
 
-n.
-
-1797;
-
 Camenecien.
 
 Latinor.
-
-I
 
 prom.
 
@@ -22676,10 +20866,6 @@ Russ.), prom. 25 Junii 1858.
 
 ,
 
-n.
-
-1810;
-
 Aquilanus (Aquila,
 
 regn. d. Sic),
@@ -22687,10 +20873,6 @@ regn. d. Sic),
 prom.
 
 405\. Fillion, Carolus, Gall., n. 1817; Cenomanens. (Mans, Gall.), prom. 15 Martii 1858. 406. Fitzgerald, Eduard., Hibern., n. 1833; Petriculan. (Little-Rock, Arcansas, st. f. Am. sept.), prom. 24 Aprilis 1866.
-
-\* 407.
-
-\* 408.
 
 Flannery, Michael; Laonen. (Killaloe, Hibern.), prom. 6 Julii 1858. Flormtini, Nicolaus, Helvet., n. 1794; Curien. (Chur, Helv.), prom. 16 Sep-
 
@@ -22718,8 +20900,6 @@ resid.
 
 .
 
-I
-
 — Episc.
 
 Catalogus Praelatorum SS. Eoclesiae Catholieae.
@@ -22729,8 +20909,6 @@ Lvir
 414\. Formica, Andreas, ItaL, n. 1812; Cunecn. (Cuneo, Ital., dit. pedem.), prom. 27 Martii 1867.
 
 415\. Formisano, Joseph, Ital., n. 1811; 28 Septembris 1855.
-
-416.
 
 Forwerk , Ludovic. infid.
 
@@ -22745,8 +20923,6 @@ vic.
 (Leontopolis, ext. ruin.
 
 Nolanus (Nola, regn. ap. Saxoniae;
-
-d.
 
 Sic.),
 
@@ -22764,8 +20940,6 @@ Aemygdius,
 
 17\. Foschini,
 
-1804;
-
 Civitatis Plebis
 
 prom. 12 Septembris 1853. n. 1823; Nanceyen. Joseph, Gall.
@@ -22773,8 +20947,6 @@ prom. 12 Septembris 1853. n. 1823; Nanceyen. Joseph, Gall.
 (Citta della Pieve,
 
 dit. pont.),
-
-18.
 
 Foulon ,
 
@@ -22794,8 +20966,6 @@ Gall.
 
 20\. Franceschini , Cajetan. et
 
-21.
-
 Tolentino,
 
 dit.
@@ -22804,17 +20974,9 @@ dit.
 
 ,
 
-n.
-
 Ital. ,
 
-n.
-
-1798;
-
 Mimatens.
-
-1832;
 
 Maceraten.
 
@@ -22870,13 +21032,7 @@ Gall. ,
 
 ,
 
-n.
-
-1811;
-
 7 Aprilis
-
-1854.
 
 Lemovicen. (Limoges,
 
@@ -22902,11 +21058,7 @@ infid.
 
 ,
 
-n.
-
 hisp.),
-
-1811,
 
 (Amathus,
 
@@ -22928,13 +21080,9 @@ prom. 25 Septembris 1862. 1816; Alba-Pompejen. (Alba Pompea, Ital. dit. 27 Marti
 
 33\. Galletti, Eugen., Ital., n.
 
-4.
-
 ,
 
 23 Martii 1855.
-
-6.
 
 Thomas
 
@@ -22947,8 +21095,6 @@ Thomas
 ,
 
 Ital. ,
-
-n.
 
 Ephrem Mar., GalL, n. 1827, vic. ap. Quilon, oppid. Ind. orient.
 
@@ -22974,17 +21120,11 @@ Byblien. in part. 16 Aprilis 1865. Djaebbeel, Phoenic), prom. vic.
 
 Anton, Raymund.
 
-\\j
-
 — Episc.
 
 Hisp.
 
 ,
-
-1797
-
-n.
 
 ,
 
@@ -23019,8 +21159,6 @@ vic. ap.
 Dionysius,
 
 Gauthier,
-
-n.
 
 incert., Palaestina), prom. 18
 
@@ -23066,11 +21204,7 @@ Ital. ,
 
 Januens.
 
-n.
-
 ,
-
-1809;
 
 Xovariens. (Novara
 
@@ -23106,17 +21240,9 @@ Gall.
 
 prom. 19 Mart. 1857. 449. Ghilardi, Joannes Pedemont. ,
 
-n.
-
 ,
 
 ,
-
-n.
-
-1800;
-
-1810;
 
 Montis Regalis (Mondovi, dit.
 
@@ -23134,13 +21260,7 @@ Ital. ,
 
 ,
 
-n.
-
-1817;
-
 Larinens. (Larino, regn.
-
-d.
 
 Sic),
 
@@ -23184,8 +21304,6 @@ Vermont,
 
 prom. st.
 
-f.
-
 Am. sept.), prom. 29 Julii 1853. \* 461.
 
 Golia, Mcolaus,
@@ -23193,8 +21311,6 @@ Golia, Mcolaus,
 prom. 11 \* 462.
 
 Ital.,
-
-n.
 
 1805; Cariatensis (Cariati,
 
@@ -23216,11 +21332,7 @@ LIX
 
 464\. Goss, Alexand. Angl. , 29 Julii 1853.
 
-n.
-
 ,
-
-1814;
 
 Liverpolitan. (Liverpool, Angl.),
 
@@ -23233,8 +21345,6 @@ Granado
 467\. Grandin,
 
 Am.
-
-f.
 
 Am. sept.), prom.
 
@@ -23274,15 +21384,11 @@ Thomas,
 
 ,
 
-n.
-
 Belga,
 
 1810; Namurcen. (Namur, Belgic), 20 De-
 
 cembris 1867. 470. Gray, Joannes, n. 1817,, vic. ap. Scotiae occident. ; Hypsopolitan. in part. infid. (Hypsopolis sive Issos, Phryg. Salut.), prom. 30 Aprilis 1862. 71.
-
-472'.
 
 Grech Delicata Cassia Testaferrata, Anton.
 
@@ -23292,10 +21398,6 @@ Meliten.
 
 ,
 
-n.
-
-1823;
-
 Gaudisien.
 
 (Gozo ins., Melit. adjacens), prom. 17 Maji 1867. n. 1807; S. Galli (St. Gallen, Helvet), Helvet. Greith, Joann. Bapt. ,
@@ -23304,13 +21406,9 @@ Gaudisien.
 
 prom. 16 Martii 1863. 473. Grimardias , Petrus Gall. >
 
-n.
-
 ,
 
 Cadurcen. (Cahors,
-
-1813;
 
 Gall.),
 
@@ -23348,11 +21446,7 @@ infid.
 
 478\. Gaerra, Ignat, n. 1815; de Zacathecas (Zacatecas, Mexic), prom. 7 Aprilis 1862. 479. Guerrin, Joannes, 15 Martii 1852.
 
-n.
-
 Gall.,
-
-1793;
 
 480\. Gueidlette, Francisc, Gall., n. 1808; 27 Martii 1865. 81.
 
@@ -23383,10 +21477,6 @@ infid.
 Sic
 
 ,
-
-n.
-
-1814;
 
 Calatanisiaden. (Cal-
 
@@ -23456,21 +21546,15 @@ st.
 
 Am. sept.),
 
-f.
-
 Dubuquen. (Dubuque, Jowa, st. f. Am. sept.),,
 
 494\. Henni, Joannes, n. 1805; Milwauchiensis (Milwaukee, "Wiscons., sept.), prom. 28 Novembris 1843.
 
 st.
 
-f.
-
 Am.
 
 495\. f Herbomez, Aloys. De, vic. ap. Columb. brit. ; Miletopolitan. in part. infid. (ext. ruin., Mysia), prom. 22 Decembris 1863. 496. Hindi, Paulus, Mesopotam., n. 1812; Jazirens. rit. chaldaeor. (Gezira, Djezireh ibn Omar ad Tigr., Mesop., imp. Osm. asiat.), prom. 24 Februarii 1852.
-
-\* 497.
 
 n. 1805; Passaviensis (Passau, Bavaria), Henricus, Germ. prom. 23 Decembris 1839. \* 498. Hogan, Joannes, Am. S. Josephi in Amer. (S. Joseph, Michigan, st. f.
 
@@ -23498,15 +21582,11 @@ prom. 8 Januarii
 
 1823; Puniens. (Puiio, resp. Peruvian.), prom.
 
-n.
-
 ,
 
 501\. Hugonin, Flavian., Gall., n. 1823; Bajocen. (Bayeux, Gall.), prom. 22 Februarii 1867.
 
 502\. Ideo , Ludovicus, Sicul. prom. 25 Junii 1858. \*
-
-n.
 
 ,
 
@@ -23534,15 +21614,11 @@ n. 1821; Aerythreen. in part. Octobris 1863.
 
 As. min.), prom.
 
-1
-
 507\. Jannucci, Joseph, Ital. 19 Junii 1843.
 
 ,
 
 ,
-
-n.
 
 infid.
 
@@ -23557,8 +21633,6 @@ asiat.),
 (Pentacomia, Syr.), prom. 9 Februarii 1868.
 
 infid.
-
-d.
 
 (Aerythrea,
 
@@ -23624,10 +21698,6 @@ incert., Cilicia),
 
 ,
 
-n.
-
-1822;
-
 Vicen. et Celsonen. (Vich et Sol-
 
 sona, Hisp. septent.), prom. 8 Januarii 1866. \*
@@ -23651,8 +21721,6 @@ Moguntinus (Mainz, Germ., Hassia), prom.
 (Uranopolis,
 
 ;
-
-\* 523.
 
 Galat.),
 
@@ -23692,13 +21760,9 @@ prom. 24 Septembris 1868.
 
 528\. f Kraljevic, Angelus, n. 1807, vic. ap. territ. dicti Herzegovina; Metellopolitan. in part. infid. (PhrygiaPacatian., sit. incert.), prom. 6 Decembris 1864.
 
-\* 529.
-
 n„ 1792; Lycopolien. in part. infid. (Lycopolis, Kraly , Joseph, Croat. Thebais), prom. 16 Julii 1854. \* 530. Krasinski, Adam, Polon., n. 1810; Vilnen. (Wilna, Polon.), prom. 27 Sep,
 
 tembris 1858. \* 531.
-
-32.
 
 n. 1796; Krejci, Petrus, Bohem. 21 Decembris 1857. ,
 
@@ -23709,8 +21773,6 @@ Krementz , Philippus Germ. prom. 20 Decembris 1867.
 ,
 
 ,
-
-n.
 
 Oropien. in part.
 
@@ -23742,11 +21804,7 @@ Catalogus Praelatorum SS. Ecclesiae Catholicae.
 
 Lxjl
 
-n.
-
 536\. Labis, Gaspar, Belga, 6 Aprilis 1835.
-
-1792;
 
 Tornacensis (Tournay, Belgic.),
 
@@ -23768,11 +21826,7 @@ Francisc, Gall.
 
 ,
 
-n.
-
 Bajonensis (Bayonne, Gall.),
-
-1795;
 
 prom.
 
@@ -23783,8 +21837,6 @@ La Fleche, Ludov.; Anthedonen. in part. infid. ruinae), prom. 20
 \*
 
 \*
-
-542.
 
 (Anthedon, Palaest.
 
@@ -23812,8 +21864,6 @@ Hisp.
 
 ,
 
-n.
-
 1804; Carthaginens. (Cartagena,
 
 prom. .18 Martii 1852. 546. Langewin, Joann. Am. S. Germani (S. German, Canad.), prom. 15 JaHisp.),
@@ -23830,8 +21880,6 @@ in
 
 part. infid. (Sergiopolis
 
-n.
-
 Ri-
 
 Gulburnen. (Goulburn, Austral. merid.), prom.
@@ -23846,11 +21894,7 @@ Flaviopolitan. in part.
 
 infid.
 
-550.
-
 La Peiia, Joseph De, Am., n. 1798, Zamoren., Am. sept. (Zamora, Mexic),
-
-551.
 
 LaPlace, Aloys. De, vic ap. Tsche-ly, imp. Sin.
 
@@ -23862,13 +21906,9 @@ part. infid. (Hadrianopolis, Bithyn.), prom. 27 Februarii 1852. 552. La Bocque, 
 
 \*
 
-1866.
-
 553\. Larocque, Joseph; Germanicopolitan. in part. infid. (Cilicia, n. Ermenek), prom. 6 Julii 1852. 554.
 
 La Scala,
-
-555.
 
 Las Cases, Felix De, Gall.
 
@@ -23876,11 +21916,7 @@ Anton. Ital., n. 1817; prom. 27 Septembris 1852. ,
 
 ,
 
-n.
-
 S. Severi
-
-(S.
 
 Severo
 
@@ -23906,15 +21942,11 @@ infid.
 
 longa in ins. Creta), prom. 17 Septembris 1839. Dromorensis (Dromore, Hibernia), \*55§.Leahy, Joannes ;
 
-1854.
-
 ins.
 
 nunc Spina-
 
 prom.
-
-10
 
 Julii
 
@@ -23924,11 +21956,7 @@ Catalogus Praelatonmv SSf; Ecclcsiae Catholicae.
 
 LXIII
 
-560.
-
 Le Breton, Petrus, GalL, n. 1805; Anicien. (Le Puy, Gall.), prom. 28 Sep-
-
-561.
 
 Le Courtier, Francisc, Ital., n. 1799; Montis Pessulan. (Montpellier, Gall),
 
@@ -23942,13 +21970,9 @@ Julii 1861.
 
 Austr.
 
-n.
-
 ,
 
 Tergestinus et Justinopolitan. (Trieste
-
-1807;
 
 Capo cTIstria, Austr.), prom. 12 Decembris 1846.
 
@@ -23962,13 +21986,9 @@ Gall.
 
 ,
 
-n.
-
 1811; Atrebaten. (Arras, GalL), prom.
 
 Hung. n. 1814; Magno Varadien. Lipovniezkij de Lipovnok , Stephan. Latinor. (Grosswardein, Hung.), prom. 20 Aprilis 1869. \* 568. Lipski, Vincent. , Russ. n. 1795; Jonopolitan. in part. infid. (Jonopolis
-
-567
 
 '.
 
@@ -24001,10 +22021,6 @@ New-York, st. f. Am. sept.),
 574\. Lootens, Ludovicus, Am., vic ap. territ. Idaho; Costabalen. in part. infid. (Costabala, Cilicia), prom. 3 Martii 1868. 575. Lopez Crespo, Joseph, Hisp. prom. 26 Septembris 1859.
 
 ,
-
-n.
-
-1797;
 
 Santanderien. (Santander, Hisp.),
 
@@ -24040,8 +22056,6 @@ Am.
 
 ,
 
-n.
-
 dit.
 
 Arcadiopolitan. in part.
@@ -24060,23 +22074,17 @@ prom. 11 Decembris 1857.
 
 st.
 
-f.
-
 Catalogus Praelatorum SS. Ecclesiae Catholieae.
 
 LXIV
 
 584\. Mabile, Joannes, Gall. 5 Septembris 1851. 585.
 
-n.
-
 ,
 
 — Episc.
 
 Versaliens. (Versailles,
-
-1800;
 
 Gall.),
 
@@ -24090,10 +22098,6 @@ Carolus,
 
 Ital.,
 
-n.
-
-1804;
-
 Ital. ,
 
 Regiensis (Reggio,
@@ -24105,8 +22109,6 @@ Mutin.),
 prom. 20 Junii 1859.
 
 Mac Closkey Guillelmus Ludovicopolitan. (Louisville, Kentucky, st. f. Am. sept.), prom. 3 Martii 1868. 588. Mac Donald Joannes, vic. ap. Scotiae meridion. Nicopolitan. in part.
-
-587.
 
 ,
 
@@ -24126,8 +22128,6 @@ sept.),
 
 \*
 
-592.
-
 prom. 8 Januarii 1858.
 
 Mac Gill, Joannes; Richmondens. (Richmond, Virginia, st. f. Am. sept.), prom. 23
@@ -24143,8 +22143,6 @@ Epiphaniens. in part.
 infid.
 
 (Epiphania,
-
-594.
 
 Mac Intyre
 
@@ -24178,15 +22176,11 @@ prom. 3 Martii 1868. 597. Magnasco, Salvator, Ital. Bolinen. 7 Maji 1868.
 
 st.
 
-f.
-
 Am.
 
 sept.),
 
 ;
-
-598.
 
 in part. infid. (Bolina,
 
@@ -24199,8 +22193,6 @@ prom. 18 Martii 1861. \* 599. Maierczak, Mathias, n. 1800; Jericen. in part. ext
 ,
 
 Ital. , n.
-
-1812;
 
 Gall., dit. Sabaud.),
 
@@ -24222,8 +22214,6 @@ Laquedoniens. (Lacedonia, regn.
 
 prom. 30 Novembris 1854. 602. Maneschi, Joann. Bapt., Ital., n. 1813; Verulan. (Veroli, 21 Decembris 1868.
 
-d.
-
 Sic),
 
 dit. pont.),
@@ -24235,8 +22225,6 @@ prom.
 Ital. ,
 
 Philippus,
-
-n.
 
 Lydia, ext. ruin.),
 
@@ -24312,8 +22300,6 @@ Natchitochesen.
 
 st.
 
-f.
-
 Am.
 
 prom. 29 Julii 1853. 619. Martin, Conradus, Germ., n. 1812; Paderbornen. (Paderborn, Germ., Bosept.),
@@ -24333,8 +22319,6 @@ regn. d. Sic), prom. 12 Septembris 1853. 625. Maupoint,
 Amandus, Gall., n. 1819; S. Dionysii Reunionis (Reunion, sive
 
 Bourbon, ins. oceani indici, dit. Gall.), prom. 19 Martii 1857. Mayer, Dominicus, Germ., n. 1809; Cisamen. in part. infid. (Kisamos, Creta ins.), prom. 1 Octobris 1863. \* 627. Mayr, Robert, Germ., n. 1810; Paneaden. in part. infid. (Paneas, ad ori\*
-
-626.
 
 ginem Jordan. flum.
 
@@ -24370,8 +22354,6 @@ Conc. Vatic.
 
 st.
 
-f.
-
 Am.
 
 Armenor. (Erzee
@@ -24405,10 +22387,6 @@ Helvet.
 aux. Genev.
 
 ,
-
-n.
-
-1824
 
 ;
 
@@ -24456,10 +22434,6 @@ Zenopolit. in part.
 
 Ital. ,
 
-n.
-
-1817;
-
 Gienen. (Jaen,'Hisp.
 
 Cervien.
@@ -24487,8 +22461,6 @@ prom.
 652\. 653.
 
 Mora, Joseph Mar.; Verae Crucis (Vera Cruz, Mexic), prom. 21 Martii 1870. Moraes Cardoso, Ignat., Lusit., n. 1811; Pharanen. (Faro, Lusitan.), prom. 28 Septembris 1863.
-
-\* 654.
 
 Moran, Patrit.; Dunedinen. (Dunedin, Nova Seeland., dit.
 
@@ -24526,8 +22498,6 @@ Hibern.),
 
 659\. Morisciano, Raphael; Squillacensis (Squillace, regn. d. Sic), prom. 28 Septembris 1855.
 
-\* 660.
-
 Morris, Guillelmus; Trojan. in part.
 
 infid.
@@ -24538,15 +22508,11 @@ prom. 9 Au-
 
 gusti 1831.
 
-\* 661.
-
 Moura, Patritius De, Lusit., n. 1801; Funchalens. (Funchal in ins. Madeira, lusit.), prom. 11 Decembris 1848. 662. Mrak, Ignat., Am.; Marianopolitan. et Marquetten. (Sault de Sainte Marie et Marquette, Michig., st. f. Am. sept.), prom. 25 Septembris 1868. 663. Mullen, Tobias, Am.; Erien. (Erie, Pennsylvania st. f. Am. sept.), prom. 3 Martii 1868. ,
 
 Idit. 664.
 
 Murphy, Daniel; Hobartoniensis (Hobart-Town in ins. Tasmania), prom. 16 Decembris 1845.
-
-\* 665.
 
 Murray, Jacobus, Hibern. n. 1828; Maitlanden. (Austral. merid. prov. New-South-Wales) prom. 14 Novembris 1865. 666. Namszanowsky Adulph. German. n. 1820; Agathopolit. in part. infid. ,
 
@@ -24562,8 +22528,6 @@ Murray, Jacobus, Hibern. n. 1828; Maitlanden. (Austral. merid. prov. New-South-W
 
 (Thrac), prom. 22 Junii 1868. 667. Nasser, Basilius, Syr., n. 1839; Heliopolitan. Melchitar. (Heliopolis, Baalbek, imp. Osm. asiat.), prom. 17 Octobris 1869.
 
-\* 668.
-
 Cucusien. in part. infid, Navarro, Michael, vic ap. Hun-nan, imp. Sin. (Cucusus Armen.) prom. 8 Aprilis 1856. 669. Negri, Joannes, Ital. n. 1788; Derthonen. (Tortona, Ital., dit. pedem.), ;
 
 ,
@@ -24578,15 +22542,9 @@ Ludovicus, Gall.,
 
 7 Aprilis
 
-n.
-
-1798;
-
 S. Claudii
 
 (St-Claude, Gall.), prom.
-
-1862.
 
 672\. Novella, Joseph;
 
@@ -24598,8 +22556,6 @@ Kal-
 
 maki, Lycia), prom. 22 Maji 1847. 673. Nalthy, Thom. Midens. (Meath, Hibern.), prom. 3 Septembris 1864. ;
 
-674.
-
 Nunez
 
 Petrus, Hisp. n. 1810; Caurien. (Coria, Hispan. prom. 24 Septembris 1868. ,
@@ -24610,19 +22566,11 @@ Petrus, Hisp. n. 1810; Caurien. (Coria, Hispan. prom. 24 Septembris 1868. ,
 
 Estremadur.),
 
-\* 675.
-
 CFBrien, Dominicus, Hibern., n. 1798; Yaterfordien. et Lismorien. (Waterford et Lismore, Hibern.), prom. 3 Augusti 1855.
-
-\* 676.
 
 Ochoa, Julianus, Am. 27 Martii 1865.
 
 ,
-
-n.
-
-1815;
 
 Cuschens. (Cuzco, resp. Peruv.), prom.
 
@@ -24631,8 +22579,6 @@ Cuschens. (Cuzco, resp. Peruv.), prom.
 \*
 
 st.
-
-f.
 
 Am. sept.),
 
@@ -24644,13 +22590,7 @@ vic ap. Nebrasc; Raphanens. in part. infid. (RaCPGerman, Jacobus phaneae, Syria)
 
 Pennsylvan., 680.
 
-\* 681.
-
-682.
-
 st.
-
-f.
 
 Am. sept.), prom. 3 Martii 1868.
 
@@ -24675,10 +22615,6 @@ Lusit., n. 1803;
 ;
 
 tobris 1869.
-
-e\*
-
-I
 
 Catalogus Praelatorum SS. Ecclesiae Catholicae.
 
@@ -24720,8 +22656,6 @@ Agathonicen. in part. infid.
 
 dit.
 
-(S.
-
 Assumpcion sive
 
 Paraguay, Am. merid.), prom. 16 Martii 1863. 693. Pallu du Parc, Ludovic, Grall., n. 1804; Blesensis (Blois,
@@ -24742,8 +22676,6 @@ n. 1820 ; Muncacsien. Ruthen. (Munkacs, Stephan. , Hung. Hung.), prom. 22 Februa
 
 prom. 3 Augusti 1857. \* 696. Papardo delParco, Ignat., Sic, n. 1817; Mynden. in part. infid. (Myndos, sit. inc, Caria), prom. 27 Septembris 1858. can.),
 
-697.
-
 Papardo del Parco, Joseph, Sic, n. 1819; Sinopens. in part. infid. (Sinope, As. min.), prom. 11 Decembris 1857. -
 
 Papp Scildgyi de Illesfalva, Joseph, Hung. n. 1814; Magno - Varadien. Graecorum (Gross-Wardein, Hungar.), prom. 16 Martii 1863. \* 699. Paredis, Joannes; Ruremondens. (Roeremonde, Holland.), prom. 24 No698.
@@ -24758,10 +22690,6 @@ Thomas,
 
 Ital. ,
 
-n.
-
-1816;
-
 Am. centr.),
 
 Trojan. (Troia, regn. d/Sic),
@@ -24773,10 +22701,6 @@ prom.
 Paya y Rico, Michael, Hisp. nov.),
 
 ,
-
-n.
-
-1811;
 
 Conchen. (Cuenca, Hisp.
 
@@ -24826,8 +22750,6 @@ Savanen. (Savannah? Georgia,
 
 st.
 
-f.
-
 Am. sept.),
 
 712\. Petagna, Francisc, Ital., n. 1812; Castri maris (Castellamare, regn. d. Sic), prom. 20 Maji 1850. 713. Petitjean, Bernard. , vic ap. Japon. ; Myriophyten. in part. phyton, Thrac), prom. 11 Maji 1866.
@@ -24839,10 +22761,6 @@ Anton.
 ,
 
 Ital. ,
-
-n.
-
-1818;
 
 Nucerin. (Nocera,
 
@@ -24902,11 +22820,7 @@ prom. 12 Novembris 1858. \* 725. Pompignac, Petrus De, Gall., n. 1802; S. Flori 
 
 urbs Phrygiae, (Philomelium 28 Augusti 1840. ,
 
-n.
-
 Akschehr, imp. Osm. asiat.), prom.
-
-. 727.
 
 Popiel, Vincent., n. 1825; Plocen. (Plock, Polon.), prom. 16 Martii 1863. 728. Popow, Raphael, Episcop. Bulgarorum, prom. 4 Augusti 1865. 729. Power, Nicolaus; Sareptanus in part. infid. (Sarepta, Palaest.) , prom.
 
@@ -24917,8 +22831,6 @@ Popiel, Vincent., n. 1825; Plocen. (Plock, Polon.), prom. 16 Martii 1863. 728. P
 prom. 25 Januarii 1844.
 
 Ital. ,
-
-n.
 
 Catalogus Praelatorum SS. Ecclesiae Catholicae.
 
@@ -24968,8 +22880,6 @@ Purpo, Raphael, Ital., n. 1789; Puteolanus (Pozzuoli, regn. d. Sic), prom. 3 Apr
 
 \*
 
-735.
-
 Joann.
 
 Quinlan,
@@ -24980,13 +22890,9 @@ Mobilens. (Mobile, Alabama,
 
 st.
 
-f.
-
 Am. sept.), prom.
 
 26 Septembris 1859. 736. Quinn, Jacobus, Hibern.; Brisbanen. (Brisbane, Austral. orient., land), prom. 15 Aprilis 1859.
-
-\* 737.
 
 Queens-
 
@@ -25006,25 +22912,17 @@ foed. Argentin.,
 
 ,
 
-n.
-
-1797;
-
 Corduben. in Indiis (Cor-
 
 Am. merid.), prom. 23 Decembris 1858.
 
 741\. Bamirez y Vasquez, Ferdinandus, Hispan., n. 1807; Pacen. (Badajoz, Hisp.), prom. 25 Septembris 1865. 742. Banolder, Joann., Hung., n. 1806; Vesprimiens. (Weszprim, Hung.), prom. 7 Januarii 1850.
 
-743.
-
 Banza, Antonius
 
 Ital. ,
 
 ,
-
-n.
 
 1801; Placentinus (Piacenza,
 
@@ -25050,8 +22948,6 @@ vic.
 
 part. infid. (Limyra,
 
-747.
-
 ;
 
 Baynaud, Dominic, Ital., n. 1808; Aegen. in part. infid. (Aegea, n. Ajaskhala, Cilic), prom. 12 Decembris 1867.
@@ -25063,8 +22959,6 @@ Baynaud, Dominic, Ital., n. 1808; Aegen. in part. infid. (Aegea, n. Ajaskhala, C
 Ital.,
 
 751\. Bestrepo, rid.),
-
-n.
 
 ,
 
@@ -25093,8 +22987,6 @@ Joseph;
 ,
 
 sept.),
-
-\* 754.
 
 Biano,
 
@@ -25168,8 +23060,6 @@ Bonavent.
 
 Am.
 
-n.
-
 ,
 
 1811; Saltens. (Salta,
@@ -25186,15 +23076,9 @@ prom.
 
 Februarii 1836.
 
-1
-
 764\. Bodilossi, Cajetan., 23 Martii 1855.
 
 Ital. ,
-
-n.
-
-1807;
 
 Alatrinus (Alatri,
 
@@ -25222,8 +23106,6 @@ Am.
 
 Bomero, Joseph, Am., vic ap. dioec S. Marthae, in republ. Neo-Granat., n. 1815; Dibonen. in part. infid. (Dibona, Arab.), prom. 8 Januarii 1866. 770. Boosevelt Bayley , Jacob.; Newarcens. (Newark, New-Jersey, st. f. Am,
 
-769.
-
 sept.),
 
 prom. 29 Julii 1853.
@@ -25235,8 +23117,6 @@ n. 1807; Almerien. (Almeria, Hisp., Junii 25 1858. Granat.), prom. 772. Bosati, 
 Munoz, Andreas, Hisp.
 
 ,
-
-1855.
 
 Joseph, Ital., n. 1807; Lunen., Sarzanen. et Brugnaten. (LuniSarzana et Brugnato, Ital., dit. pedem.), prom. 22 Februarii 1867. \* 774. Bosecrans, Sylvester Horton, Am., n. 1827; Columbien. (Columbia, Ohio, st. f. Am. sepi), prom. 23 Decembris 1861. 773. Bosati,
 
@@ -25286,10 +23166,6 @@ Catalogus Praelatorum SS. Ecclesiae Catholicae.
 
 780\. Bousselet, Carolus, Gall. , n. 1795; nuarii 1844. 781. Budigier, Francisc , 10 Martii 1853.
 
-\* 782.
-
-783.
-
 Germ.
 
 ,
@@ -25326,15 +23202,11 @@ prom.
 
 ,
 
-n.
-
 New-York, st. f. Am. sept.), prom.
 
 3 Martii 1868. 784. Saint-Palais, Mauritius De; Vincennopolitan. (Vincennes, Indiana, Am. sept.), prom. 3 Octobris 1848.
 
 st.
-
-f.
 
 785\. Salandari, Joseph, Ital., n. 1822; Marcopolit. in part. infid. (Mesopotam.), prom. 20 Martii 1864.
 
@@ -25360,8 +23232,6 @@ Salva, Michael, Hisp.
 
 ,
 
-n.
-
 prom. 5 Septembris 1851. 791. Salvado, Rodesindus, Hisp., n. 1814; Victoriens. (Port Victoria, Austral. ins. Balear.),
 
 prom. 15 Augusti 1849. Thomas, Ital. n. 1807; Thanens. in part. infid. (Thanes, Thanis, Aegypt.), prom. 13 Januarii 1854. 793. Sannibale, Innocent., Ital., n. 1811; Eugubinus (Gubbio, dit. pont.), prom. colon. angl.),
@@ -25372,15 +23242,11 @@ prom. 15 Augusti 1849. Thomas, Ital. n. 1807; Thanens. in part. infid. (Thanes, 
 
 23 Martii 1855. 794. Sans y Fores, Benedict. , Hisp., n. 1828; Oveten. (Oviedo, Hisp., Astur.), prom. 22 Junii 1868.
 
-\* 795.
-
 Am.
 
 1824; S. Ludovici de Marignano (S. Luis de Mararihao, imp. Bras.), prom. 22 Julii 1861. \* 796. Sarrebayrouze , Joann., Gall. n. 1804; Hetaloniens. in part. infid. (HetaSaraiva,
 
 Aloys.,
-
-n.
 
 ,
 
@@ -25464,8 +23330,6 @@ infid.
 
 De,
 
-n.
-
 Ital.,
 
 d. Sic),
@@ -25473,8 +23337,6 @@ d. Sic),
 Tropea, regn.
 
 prom. 17 Septembris 1863.
-
-1807;
 
 Nicoteren. et Tropien. (Nicotera et
 
@@ -25516,10 +23378,6 @@ Simon
 
 Ital. ,
 
-1806
-
-n.
-
 Tricaricen.
 
 ;
@@ -25537,8 +23395,6 @@ prom. 26 Septembris 1859. Alexander, Ital. prom. 23 Martii 1860.
 Spoglia,
 
 ,
-
-n.
 
 1817; Comaclens. (Comacchio,
 
@@ -25572,15 +23428,9 @@ Lusit.
 
 prom. 3
 
-n.
-
-1787;
-
 Julii
 
 Angrens. (Angra, Terceira,
-
-1826.
 
 27\. Stepischnegg , Jacobus, Austr., n. 1815; Lavantin. (Lavant, Austr., Styr.),
 
@@ -25591,10 +23441,6 @@ prom. 18 Januarii 1863. Joann. vic ap. Scot. orient.
 ,
 
 ,
-
-n.
-
-1810;
 
 Abilen.
 
@@ -25642,21 +23488,15 @@ Joseph, Hung. prom. 22 Junii 1868.
 
 1805; Nilopolitan. in part. infid.
 
-n.
-
 ,
 
 am Anger, Hung.), (Aegypt.),
 
 837\. Tache, Alexander; S. Bonifacii (Canada, Am. sept.), prom. 20 Junii 1850. 838. Tagliabue, Francisc. vic. ap. Tsche-ly merid. Pompejopolitan. in part. infid. (Cilicia), prom. 25 Septembris 1868. ,
 
-\* 839.
-
 ;
 
 Tardoya, Petrus, Am.
-
-n.
 
 ,
 
@@ -25678,8 +23518,6 @@ prom. 13 Martii 1860. 840. Targioni, Joseph, Ital. prom. 3 Augusti 1857.
 
 Joseph, Ital. 20 Junii 1859.
 
-842.
-
 Thomas
 
 ,
@@ -25692,23 +23530,15 @@ Leo
 
 Gall.
 
-n.
-
-1807;
-
 1817; n.
 
 ,
-
-n.
 
 Volaterran.
 
 (Yolterra, d.
 
 Oppidens. (Oppido, regn.
-
-1826
 
 Rupellen.
 
@@ -25746,8 +23576,6 @@ n. Mela),
 
 846\. Todisco Grande, Leonard. , Ital. et Cerignola, regn.
 
-\* 847.
-
 Toebbe,
 
 \*
@@ -25762,11 +23590,7 @@ sept.),
 
 \*
 
-d.
-
 prom. 6 Augusti 1863.
-
-n.
 
 848\. Tola, Aloys. De, Am., n. 1811; Berissen. in part. infid. (Berissa, Armen.), prom. 1 Octobris 1863. 849. Torres, Joseph, Am., n. 1814; prom. 22 Junii 1868.
 
@@ -25802,8 +23626,6 @@ Achaia), prom. \*
 
 ,
 
-1
-
 ;
 
 (Olenos,
@@ -25814,17 +23636,11 @@ Octobris 1869.
 
 Catalogus Praelatorum SS. Ecclesiae Catholicae.
 
-854.
-
 Trionfetti,
 
 Bemardin.,
 
 Ital.,
-
-n.
-
-1803;
 
 — Episc.
 
@@ -25840,11 +23656,7 @@ Privernen. et Setin.
 
 embris 1846. Turner, Guillelm.; Salfordiens. (Salford, Angl.), prom. 22 Junii 1851. 857. Tutundgi, Athanasius, Syr., n. 1803; Tripolitanus rit. graec. melchit. (Tri-
 
-856.
-
 poli,
-
-58.
 
 Tarablus, Syria), prom. 23 Decembris 1836.
 
@@ -25854,11 +23666,7 @@ Guillelmus,
 
 Angl.
 
-n.
-
 ,
-
-1806;
 
 Birminghamiens.
 
@@ -25894,8 +23702,6 @@ Emmanuel Del, Am., prom. 27 Martii 1865.
 
 864\. Valle,
 
-n.
-
 865\. Valsecchi, Alexander,' Ital. n. 1809; Tiberiadens. in part. infid. (Tiberias, Palaest.), prom. 25 Junii 1869. ,
 
 !
@@ -25922,19 +23728,13 @@ Florida,
 
 st.
 
-f.
-
 Am. sept.),
 
 872\. Verrolles, Emmanuel, Gall., vic. ap. Leao-tung, imp. Sin.; Columbicensis in part. infid. (Columbica, Colon, Africa), prom. 12 Decembris 1838. 873.
 
 Verzeri, Hieronym.,
 
-n.
-
 Ifcal. ,
-
-1804;
 
 Brixiens. (Brescia, Ital.,
 
@@ -25952,21 +23752,15 @@ Neritonen. (Nardo, regn.
 
 pont.), prom.
 
-d.
-
 Sic), prom.
 
 Viard, Philippus, Gall., n. 1809; Vellingtoniens. (Wellington, Nova Zelandia, dit. Angl.), prom. 7 Februarii 1845. 877. Vibert, Francisc, Sabaud. n. 1800; Maurianensis (S. Jean de Maurienne,
-
-»876.
 
 ,
 
 Gall. , Sabaud.),
 
 prom.
-
-1
 
 Martii 1841.
 
@@ -25980,15 +23774,11 @@ Am.
 
 Villalvaso, G-erman.,
 
-n.
-
 ,
 
 — Episc.
 
 De Chiapa (Mexic.), prom. 22 No-
-
-1829;
 
 vembris 1869. 880.
 
@@ -26002,8 +23792,6 @@ pont.), prom.
 
 27 Septembris 1852. 881. Vitezich, Joann., Dalmat., 23 Martii 1855. 882.
 
-1806;
-
 Veglens. (Veglia, Dalmat.),
 
 prom.
@@ -26014,8 +23802,6 @@ vic.
 
 Vranken, Petrus, infid.
 
-n.
-
 (Colophon,
 
 4 Junii 1847. \* 883. \*
@@ -26024,11 +23810,7 @@ Vriarte, Joseph,
 
 Am., n. 1824; De Sonora (Mexic), prom. 25 Junii 1869.
 
-884.
-
 Vuicic, Paschal., vic. ap. Bosniae, imp.
-
-885.
 
 (Antiphellos, Lycia), prom. 1 Junii 1858. Wahala, Augustin., Austr. n. 1802; Litomericen. (Leitmeritz, Bohem.), prom. 8 Januarii 1866.
 
@@ -26050,23 +23832,15 @@ Osm.; Antiphellen. in part. infid.
 
 Walsh, Eduard.; Ossoriens. (Ossory, Hibern.), prom. 12 Maji 1846. Walsh, Jacobus; Kildarien. et Leighlien. (Kildare and Leighlin, Hibern.), prom. 18 Februarii 1856.
 
-888.
-
 Wedekin, Eduard, Germ., n. 1796; Hildeshemien. (Hildesheim, Germ., Boruss.), prom. 30 Septembris 1850.
 
-889.
-
 Weitkiewicz, Adam, Polon. prom. 18 Martii 1852.
-
-890.
 
 Whelan, Jacobus; Diocletianopolitan. in part.
 
 ,
 
 1796; Minscens.
-
-n.
 
 rit.
 
@@ -26100,17 +23874,11 @@ Wheland, Joann.; Aureliopolitan. in part. infid. (Aureliopolis prom. 19 Januarii
 
 ,
 
-n.
-
-1799;
-
 Vallis Vidonis
 
 ,
 
 st.
-
-f.
 
 As. min.),
 
@@ -26150,25 +23918,13 @@ Williams,
 
 \*
 
-900.
-
 prom. 18 Martii 1861. Wolonczewski , Matthias,
 
-901.
-
 Russ.), prom. 28 Septembris 1849. Wood, Jacobus, Am., n. 1814; Philadelphiens. (Philadelphia, Pennsylvan., st.
-
-\* 902.
-
-f.
 
 Russ.
 
 ,
-
-n.
-
-1799;
 
 Samogitiens. (Samogitia,
 
@@ -26178,10 +23934,6 @@ Am. sept.), prom. 9 Januarii 1857.
 
 Ximenez, Valerius, Am.,
 
-n.
-
-1830;
-
 Medellen. et Antioquien.
 
 (Medellin et
@@ -26189,8 +23941,6 @@ Medellen. et Antioquien.
 Antioquia, resp. Nov. Granat., Am. merid.), prom. 13 Martii 1868. \* 903. Ximeno, Romualdus; Caebuanensis (Cebu, sive Nominis Jesu, ins. Philipp., dit. hispan.), prom. 27 Julii 1839.
 
 Catalogus Praelatorum SS. Ecclesiae Catholicae. \* 904.
-
-)05.
 
 Am. n. 1807; 25 Junii 1869. merid.), prom.
 
@@ -26209,8 +23959,6 @@ Am.
 Zaboisky, Ladislaus, Hung., n. 1783; Scepusiensis (Szepsi, Zips, Hung.), prom. 30 Septembris 1850. Joann., Dalmat., n. 1807; Sebenicen. (Sebenico, Dalmat.), prom. 28 Septembris 1863. Zalka, Joann., Hung., n. 1820; Jaurinen. (Raab, Hung.), prom. 27Mart. 1867.
 
 )06. Zajffron,
-
-)07.
 
 vic. ap. in Hu-pe, imp. Sin. ; Eleutheropolit. in part. (Palaestina), prom. 17 Augusti 1857. 909. Zelo, Dominicus, Ital., n. 1803; Aversanus (Aversa, regn. d. Sic), prom. )08.
 
@@ -26244,8 +23992,6 @@ stopolis, Phrygia),
 
 Zunnui Casula, Francisc, Sard., n. 1824; Uxellen. et Terralben. (Ales et
 
-»16.
-
 ins.), prom. 22 Februarii 1867. Joann. Bapt., Austr., n. 1824; Secovien. (Seckau, Austr.), prom. Ziverger,
 
 Terralba, Sard.
@@ -26263,8 +24009,6 @@ Monaco), prom. 21 Maji 1868. monte Pannoniae (Martinsberg,
 919\. Kruesz, Joannes, O. S. B.; S. Martini in Hung.), prom. 5 Septembris 1865.
 
 920\. Ruggero, Julius De, 0. S. B. ; SS. Trinitatis Cavensis Cava, regn. d. Sic), prom. 18 Novembris 1860.
-
-921.
 
 (SSma Trinita della
 
@@ -26290,17 +24034,11 @@ LXXVIIJ \* 924.
 
 Badhati, Joseph, Ordinis Isaiae
 
-\* 925.
-
 rit.
 
 — Abbates.
 
 Antonii, Abbas Generalis Congregationis
-
-S.
-
-S.
 
 raaronit.
 
@@ -26334,8 +24072,6 @@ Germanus, Abbas Monasterii S. Praxedis de Urbe, Generalis Congregationis Vallis 
 
 930\. Gai, \*
 
-931.
-
 Sic. ins.), Visitator Generalis Ordinis S. Basilii rit. graeci.
 
 932\. Grifoni, Basilius, Ordinis S. Benedicti, Abbas Monasterii SS. Andreae et Gregorii in monte Coelio, Vicarius Generalis Congreg. Camaldulensis. 933. Gruyer, Timotheus, Abbas Domus Dei B. Mariae de Trappa (LaTrappe, Gall.), Vicarius Generalis Ordinis Cisterciensis recentioris reformationis in Gallia. \*
@@ -26347,8 +24083,6 @@ Ludovicus Paschalis Prosper, Abbas Monasterii S. Petri de
 Solesmis (Solemes, pag. Gall.),
 
 Ordinis
-
-S.
 
 Benedicti,
 
@@ -26384,8 +24118,6 @@ Benedictus
 
 Ordinis
 
-S.
-
 Benedicti,
 
 Abbas Archicoenobii Montis
@@ -26412,15 +24144,11 @@ pag. Holland.), Magister Ordinis S. Crucis. 943.
 
 Generalis
 
-S.
-
 Agathae Cuykensis (Cuigk, Canonicorum Regularium
 
 Ordinis
 
 Van der Meulen, Ephrem, Abbas Montis Olivarum B. Mariae de Trappa (Oelenberg, Alsat. super.), Vicarius Generalis Ordinis Cisterciensis antiquioris reformationis in Gallia.
-
-944.
 
 Wimmer, Bonifac, Abbas Monasterii S. Vincentii in Pennsylvania Ordinis S. Benedicti, Praeses Congregationis Americanae in stat. foed. Am. sept.
 
@@ -26452,13 +24180,9 @@ Novaro, Joseph Maria, Vicarius Generalis Congregationis Clericorum Regularium Mi
 
 ORDINUM MONASTICORUM.
 
-1950\. \*
-
 Reverendi Patres
 
 Thomas Ordinis S. Basilii Abbas Generalis Congregationis Soaritae Aleppinae rit. graec. melchit. \* 955. Cioci, Gregorius, Ordinis S. Benedicti, Major Eremitarum Camaldulensium 954. Cabbasce ,
-
-\* 956.
 
 ,
 
@@ -26514,11 +24238,7 @@ Gallus
 
 ,
 
-n.
-
 25 Nov.
-
-1794;
 
 Montis Albani (Montauban,
 
@@ -26529,8 +24249,6 @@ SACRI CONCILII PATRES, qui a die 8 Decembris 1868 ad diem 8 Augusti 1870 obierun
 \*\* \*\*
 
 Gonella, Eustachius, S. E. R. Cardinalis Presb. Episcopus Viterbiensis et Tuscaniensis. Pentini, Franciscus, S. E.
-
-S.
 
 Mariae super Minervam,
 
@@ -26585,7 +24303,5 @@ Zeidler, Hieronymus, Abbas, Praeses Generalis Ordinis Praemonstratensium. Domini
 ceatorum.
 
 Nomina RR. Praelatorum ante d. 30 Aprilis 1870 defunctorum, asterisco notata, in catalogum Praelatorum d. 30 Aprilis editum non sunt relata.
-
-a
 
 T.s

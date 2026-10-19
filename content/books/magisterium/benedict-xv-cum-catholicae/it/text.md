@@ -19,5 +19,3 @@ Volesse il cielo che alla fortezza d’animo di tutti voi corrispondesse la cost
 *Dato a Roma, presso San Pietro, il giorno 29 gennaio 1920, nel sesto anno del Nostro Pontificato*.
 
 **BENEDICTUS PP. XV**
-
-© Copyright - Libreria Editrice Vaticana

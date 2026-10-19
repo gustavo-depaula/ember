@@ -221,8 +221,6 @@ Non Ci resta, Venerabili Fratelli, che impartire a tutti quell'Apostolica e pate
 
 ------------------------------------------------------------------------
 
-© Copyright 1935 - Libreria Editrice Vaticana
-
 [^1]: \[\] (*Mt* 5,13.14).
 
 [^2]: \[\] (*Gn* 14,18).

@@ -189,8 +189,6 @@ Haec ominati, Benedictionem Apostolicam vobis ex animo impertimus.
 
 ------------------------------------------------------------------------
 
-© Copyright 1984 - Libreria Editrice Vaticana
-
 [^1]: \[\] Cfr. *Mt* 7, 14.
 
 [^2]: \[\] *Ps* 130 \[129\], 7.

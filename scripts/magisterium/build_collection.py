@@ -16,7 +16,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from import_documents import BOOKS, language_order, load_status  # noqa: E402
-from names import BODIES, TYPES, author_label  # noqa: E402
+from names import BODIES, author_label  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "content" / "collections" / "magisterium.json"
@@ -33,9 +33,6 @@ ERAS = [
 ]
 COUNCILS_TITLE = {"en-US": "The Ecumenical Councils", "pt-BR": "Os Concílios Ecumênicos"}
 CURIA_TITLE = {"en-US": "The Roman Curia", "pt-BR": "A Cúria Romana"}
-TYPE_ORDER = list(TYPES)
-# An author with more documents than this gets a subsection per type.
-SPLIT_BY_TYPE_AT = 15
 LANGS = ("en-US", "pt-BR")
 
 
@@ -65,24 +62,10 @@ def item(book: dict) -> dict:
 
 
 def author_section(author: str, docs: list[dict]) -> dict:
+    # Chronological and flat: the corpus allows one level of sections inside a
+    # top-level one, and the era sections already take the top.
     label = author_label(author)
-    docs = sorted(docs, key=lambda b: (b["date"], b["id"]))
-    if len(docs) <= SPLIT_BY_TYPE_AT:
-        blocks = [item(b) for b in docs]
-    else:
-        by_kind = defaultdict(list)
-        for b in docs:
-            by_kind[b["kind"]].append(b)
-        blocks = [
-            {
-                "kind": "section",
-                "id": f"{author}-{kind}",
-                "title": {l: TYPES[kind][i] for i, l in enumerate(LANGS)},
-                "defaultCollapsed": True,
-                "blocks": [item(b) for b in by_kind[kind]],
-            }
-            for kind in sorted(by_kind, key=lambda k: TYPE_ORDER.index(k) if k in TYPE_ORDER else 99)
-        ]
+    blocks = [item(b) for b in sorted(docs, key=lambda b: (b["date"], b["id"]))]
     return {
         "kind": "section",
         "id": author,

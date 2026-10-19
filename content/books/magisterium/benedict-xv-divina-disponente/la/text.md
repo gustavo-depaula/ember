@@ -161,7 +161,12 @@ Ego NICOLAUS S. Mariae in Domnica Diaconus Cardinalis MARINI.
 
 Ego ORESTES S. Mariae in Cosmedin Diaconus Cardinalis GIORGI, Maior Poenitentiarius.
 
-[TABLE]
+O. CARD. CAGIANO  
+S. R. E. Cancellarius.
+
+A. CARD. VICO  
+Ep. Poruen. et S. Rufinae  
+S. R. C. Praefectus.
 
 > > Raphaël Virili, *Protonotarius Apostolicus.*  
 > > Ludovicus Schüller, *Protonotarius Apostolicus.*

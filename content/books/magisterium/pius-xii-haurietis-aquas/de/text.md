@@ -226,8 +226,6 @@ Als Unterpfand dieser Gnaden erteilen Wir jedem von euch, Ehrwürdige Brüder, w
 
 **PIUS XII.**
 
-© Copyright - Libreria Editrice Vaticana
-
 ------------------------------------------------------------------------
 
 **ANMERKUNGEN**

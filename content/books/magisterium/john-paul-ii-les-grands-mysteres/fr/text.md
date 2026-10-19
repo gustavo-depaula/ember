@@ -40,5 +40,3 @@ Avec une particulière affection dans le Seigneur, je vous accorde ma Bénédict
 *Du Vatican, le 1^(er) mai 1984.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1984 -  Libreria Editrice Vaticana

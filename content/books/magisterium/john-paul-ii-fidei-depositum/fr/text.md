@@ -180,6 +180,4 @@ dans la plénitude du bonheur de la vision de Dieu face à face (cf. 1 *Co* 13, 
 
 (5) *Discours de clôture du Synode extraordinaire, 7 décembre 1985*, n. 6. AAS 78 (1986) p. 435.  
 
-(\*) Texte original latin dans *L’Osservatore Romano* des 16-17 novembre 1992. Texte français dans *L’Osservatore Romano* de langue française du 24 novembre.  
-
-© Copyright 1992 - Libreria Editrice Vaticana
+(\*) Texte original latin dans *L’Osservatore Romano* des 16-17 novembre 1992. Texte français dans *L’Osservatore Romano* de langue française du 24 novembre.

@@ -78,6 +78,4 @@ Ich fordere daher alle geliebten Söhne und Töchter auf, die gegebenen Normen m
 
 **JOANNES PAULUS PP. II**
 
-©  Copyright 1983 - Libreria Editrice Vaticana
-
 * *

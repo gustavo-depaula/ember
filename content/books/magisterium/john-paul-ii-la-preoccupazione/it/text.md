@@ -414,5 +414,3 @@ Art. 34
 2\. La stessa facoltà è confermata ai superstiti del personale di cui al precedente comma, aventi diritto alla pensione indiretta.
 
 *Citta del Vaticano, 8 Settembre 1992.*
-
-© Copyright 1992 - Libreria Editrice Vaticana

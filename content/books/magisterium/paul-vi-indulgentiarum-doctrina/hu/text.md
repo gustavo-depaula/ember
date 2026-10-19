@@ -206,6 +206,4 @@ Jegyzetek
 [\[44\]](#JB44) Jer 2,19.  
 [\[45\]](#JB45) Vö. Ef 5, 27.  
 [\[46\]](#JB46) Vö. Ef 4,13.  
-[\[47\]](#JB47) „... Ámbár az ilyen búcsúk nagyon hasznosak a büntetés elengedésére, mégis egyéb elégtételt adó cselekedetek érdemszerzőbbek a lényegi jutalmat tekintve; ami végtelenül jobb, mint az ideigtartó büntetés elengedése.” STh Suppl. 25, 2, 2.  
-
-© Copyright 1967 - Libreria Editrice Vaticana
+[\[47\]](#JB47) „... Ámbár az ilyen búcsúk nagyon hasznosak a büntetés elengedésére, mégis egyéb elégtételt adó cselekedetek érdemszerzőbbek a lényegi jutalmat tekintve; ami végtelenül jobb, mint az ideigtartó büntetés elengedése.” STh Suppl. 25, 2, 2.

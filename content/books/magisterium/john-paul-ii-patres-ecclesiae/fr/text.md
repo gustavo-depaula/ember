@@ -143,8 +143,6 @@ Pour l’heureuse réalisation de ces vœux, nous implorons le secours maternel 
 
 ------------------------------------------------------------------------
 
-Copyright 1980 © Libreria Editrice Vaticana
-
 [^1]: \[\] Cfr. *Gal*. 4, 19 ; Vincentius Lirinensis, *Commonitorium* I 3 ; PL 50, 641.
 
 [^2]: \[\] Cfr. 1 *Cor* 4, 15.

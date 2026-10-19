@@ -1358,5 +1358,3 @@ Jegyzetek
 [\[230\]](#JB230) 37. javaslat  
 [\[231\]](#JB231) G. B. Montini: Lettera pastorale sul senzo morale. 1961.  
 [\[232\]](#JB232) Vö. 40. javaslat.
-
-© Copyright 1992 - Libreria Editrice Vaticana

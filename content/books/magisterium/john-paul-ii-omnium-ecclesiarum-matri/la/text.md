@@ -37,5 +37,3 @@ Quae ut feliciter eveniant, impensas Deo preces adhibemus, dum Apostolicam Bened
 *Datum Romae, apud Sanctum Petrum, die VII mensis Martii, anno MCMLXXXVII, Pontificatus Nostri nono*.
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1986 - Libreria Editrice Vaticana

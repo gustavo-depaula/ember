@@ -1,0 +1,80 @@
+{
+  "id": "francis-fidelis-dispensator-et-prudens",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued Motu Proprio Fidelis Dispensator et Prudens of His Holiness Pope Francis establishing a new coordinating agency for the economic and administrative affairs of the Holy See and the Vatican City State",
+    "pt-BR": "Carta Apostólica em forma de «Motu Proprio» “ Fidelis dispensator et prudens ” para a constituição de uma nova estrutura de coordenação para os assuntos econômicos da Santa Sé e do Vaticano",
+    "de": "Apostolisches Schreiben in Form eines »Motu Proprio« Fidelis dispensator et prudens über die Einrichtung einer neuen Aufsichtsbehörde für die wirtschaftlichen und administrativen Angelegenheiten des Heiligen Stuhls und des Staates der Vatikanstadt",
+    "es": "Carta apostólica en forma de Motu Proprio “Fidelis dispensator et prudens” del Sumo Pontífice Francisco para la constitución de una nueva estructura de coordinación de los Asuntos económicos y administrativos de la Santa Sede y del Estado de la Ciudad del Vaticano",
+    "fr": "«Motu Proprio» du Pape François 'Fidelis dispensator et prudens'",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» Fidelis dispensator et prudens per la costituzione di una nuova struttura di coordinamento degli affari economici e amministrativi della Santa Sede e dello Stato della Città del Vaticano"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2014-02-24",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2014-02-24"
+  },
+  "composed": "2014",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20140224_fidelis-dispensator-et-prudens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20140224_fidelis-dispensator-et-prudens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio_20140224_fidelis-dispensator-et-prudens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20140224_fidelis-dispensator-et-prudens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20140224_fidelis-dispensator-et-prudens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20140224_fidelis-dispensator-et-prudens.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued Motu Proprio Fidelis Dispensator et Prudens of His Holiness Pope Francis establishing a new coordinating agency for the economic and administrative affairs of the Holy See and the Vatican City State",
+        "pt-BR": "Carta Apostólica em forma de «Motu Proprio» “ Fidelis dispensator et prudens ” para a constituição de uma nova estrutura de coordenação para os assuntos econômicos da Santa Sé e do Vaticano",
+        "de": "Apostolisches Schreiben in Form eines »Motu Proprio« Fidelis dispensator et prudens über die Einrichtung einer neuen Aufsichtsbehörde für die wirtschaftlichen und administrativen Angelegenheiten des Heiligen Stuhls und des Staates der Vatikanstadt",
+        "es": "Carta apostólica en forma de Motu Proprio “Fidelis dispensator et prudens” del Sumo Pontífice Francisco para la constitución de una nueva estructura de coordinación de los Asuntos económicos y administrativos de la Santa Sede y del Estado de la Ciudad del Vaticano",
+        "fr": "«Motu Proprio» du Pape François 'Fidelis dispensator et prudens'",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» Fidelis dispensator et prudens per la costituzione di una nuova struttura di coordinamento degli affari economici e amministrativi della Santa Sede e dello Stato della Città del Vaticano"
+      }
+    }
+  ]
+}

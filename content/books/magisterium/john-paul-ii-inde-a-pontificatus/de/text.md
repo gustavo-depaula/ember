@@ -56,5 +56,3 @@ Ich bestimme, daß alles im vorliegenden *Motu proprio* Festgelegte volle und bl
 *Gegeben zu Rom, bei St. Peter, am 25. März 1993, im 15. Jahr meines Pontifikats.*
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1993 - Libreria Editrice Vaticana

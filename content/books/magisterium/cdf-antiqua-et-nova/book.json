@@ -1,0 +1,72 @@
+{
+  "id": "cdf-antiqua-et-nova",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Antiqua et nova. Note on the Relationship Between Artificial Intelligence and Human Intelligence",
+    "de": "Antiqua et nova - Note über das Verhältnis von künstlicher Intelligenz und menschlicher Intelligenz",
+    "es": "Antiqua et nova - Nota sobre la relación entre la inteligencia artificial y la inteligencia humana",
+    "fr": "Antiqua et nova - Note sur les relations entre l’intelligence artificielle et l’intelligence humaine",
+    "it": "Antiqua et nova - Nota sul rapporto tra intelligenza artificiale e intelligenza umana"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2025-01-28",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2025-01-28"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Antiqua et nova. Note on the Relationship Between Artificial Intelligence and Human Intelligence",
+        "de": "Antiqua et nova - Note über das Verhältnis von künstlicher Intelligenz und menschlicher Intelligenz",
+        "es": "Antiqua et nova - Nota sobre la relación entre la inteligencia artificial y la inteligencia humana",
+        "fr": "Antiqua et nova - Note sur les relations entre l’intelligence artificielle et l’intelligence humaine",
+        "it": "Antiqua et nova - Nota sul rapporto tra intelligenza artificiale e intelligenza umana"
+      }
+    }
+  ]
+}

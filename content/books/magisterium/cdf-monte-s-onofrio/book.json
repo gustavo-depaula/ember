@@ -1,0 +1,64 @@
+{
+  "id": "cdf-monte-s-onofrio",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The earth is not separate from the sky. Letter to the Bishop of Trivento (Italy) regarding alleged supernatural phenomena connected to Mount S. Onofrio",
+    "es": "La tierra no está separada del cielo. Carta al Obispo de Trivento (Italia) sobre los presuntos fenómenos sobrenaturales vinculados al Monte S. Onofrio",
+    "fr": "La terre n'est pas séparée du ciel. Lettre à l'Évêque de Trivento (Italie) à propos des présumés phénomènes surnaturels liés au Mont S. Onofrio",
+    "it": "La terra non è separata dal cielo. Lettera al Vescovo di Trivento (Italia) circa i presunti fenomeni soprannaturali collegati al Monte S. Onofrio"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2025-07-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2025-07-25"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250725_lettera-monte-s-onofrio_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The earth is not separate from the sky. Letter to the Bishop of Trivento (Italy) regarding alleged supernatural phenomena connected to Mount S. Onofrio",
+        "es": "La tierra no está separada del cielo. Carta al Obispo de Trivento (Italia) sobre los presuntos fenómenos sobrenaturales vinculados al Monte S. Onofrio",
+        "fr": "La terre n'est pas séparée du ciel. Lettre à l'Évêque de Trivento (Italie) à propos des présumés phénomènes surnaturels liés au Mont S. Onofrio",
+        "it": "La terra non è separata dal cielo. Lettera al Vescovo di Trivento (Italia) circa i presunti fenomeni soprannaturali collegati al Monte S. Onofrio"
+      }
+    }
+  ]
+}

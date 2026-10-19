@@ -42,6 +42,4 @@ Madame la Secrétaire générale, j'espère et je prie pour que les participants
 
 \**L'Osservatore Romano. Edition hebdomadaire en langue française* n. 23 p. 2, 20.
 
-*La Documentation Catholique* n.2120 p.672-675.  
-
-© Copyright 1995 - Libreria Editrice Vaticana
+*La Documentation Catholique* n.2120 p.672-675.

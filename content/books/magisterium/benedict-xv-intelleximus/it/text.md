@@ -33,5 +33,3 @@ Quale auspicio dei doni celesti e quale testimonianza della Nostra paterna benev
 *Dato a Roma, presso San Pietro, il 14 giugno 1920, anno sesto del Nostro Pontificato.*
 
 **BENEDICTUS PP. XV**
-
-© Copyright - Libreria Editrice Vaticana

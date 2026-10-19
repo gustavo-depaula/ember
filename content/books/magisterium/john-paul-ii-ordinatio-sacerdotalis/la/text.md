@@ -37,5 +37,3 @@ In vos omnes, Venerabiles Fratres, atque in omnem Christianum populum implorante
 *Ex Aedibus Vaticanis, die XXII mensis maii, in Sollemnitate Pentecostes, anno MCMXCIV, sexto decimo Pontificatus Nostri*.
 
 **IOANNES PAULUS PP. II**
-
-© Copyright 1994 - Libreria Editrice Vaticana

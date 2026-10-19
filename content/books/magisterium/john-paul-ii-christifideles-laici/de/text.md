@@ -1109,5 +1109,3 @@ und zu seiner Ehre aufzubauen.
 Amen.
 
 *Gegeben zu Rom, bei St. Peter, am 30. Dezember, dem Fest der Heiligen Familie im Jahr 1988, dem elften meines Pontifikates.*
-
-© Copyright 1998 - Libreria Editrice Vaticana

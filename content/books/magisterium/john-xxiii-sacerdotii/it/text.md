@@ -198,6 +198,4 @@ Con la viva speranza che questo Centenario della morte di San Giovanni Maria Via
 
 *Dato a Roma, presso San Pietro, il 1° Agosto 1959, anno primo del Nostro Pontificato.*
 
-**IOANNES PP. XXIII**  
-
-© Copyright 1959 - Libreria Editrice Vaticana
+**IOANNES PP. XXIII**

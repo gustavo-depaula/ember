@@ -889,5 +889,3 @@ Roomassa, pyhän Pietarin luona, 25. toukokuuta, Kristuksen taivaaseenastumisen 
 **[162](#-4I)**. Cyprianus: kommentaari Herran rukoukseen, 23.  
 
 ------------------------------------------------------------------------
-
-Copyright © Libreria Editrice Vaticana
