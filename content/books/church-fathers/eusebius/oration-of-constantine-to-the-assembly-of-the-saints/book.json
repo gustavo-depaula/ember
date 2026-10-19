@@ -2,13 +2,16 @@
   "id": "eusebius-oration-of-constantine-to-the-assembly-of-the-saints",
   "cover": "quarter",
   "name": {
-    "en-US": "Oration of Constantine \"to the Assembly of the Saints\""
+    "en-US": "Oration of Constantine \"to the Assembly of the Saints\"",
+    "pt-BR": "Discurso de Constantino “à Assembleia dos Santos”"
   },
   "author": {
-    "en-US": "Eusebius of Caesarea (c. 265-c. 340)"
+    "en-US": "Eusebius of Caesarea (c. 265-c. 340)",
+    "pt-BR": "Eusébio de Cesareia (c. 265-c. 340)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Oration of Constantine \"to the Assembly of the Saints\""
+        "en-US": "Oration of Constantine \"to the Assembly of the Saints\"",
+        "pt-BR": "Discurso de Constantino “à Assembleia dos Santos”"
       }
     }
   ]
