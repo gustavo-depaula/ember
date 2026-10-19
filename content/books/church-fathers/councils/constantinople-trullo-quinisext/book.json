@@ -2,13 +2,16 @@
   "id": "councils-constantinople-trullo-quinisext",
   "cover": "quarter",
   "name": {
-    "en-US": "Constantinople/\"Trullo\"/Quinisext (692)"
+    "en-US": "Constantinople/\"Trullo\"/Quinisext (692)",
+    "pt-BR": "Constantinopla/“Trullo”/Quinissexto (692)"
   },
   "author": {
-    "en-US": "Councils"
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Constantinople/\"Trullo\"/Quinisext (692)"
+        "en-US": "Constantinople/\"Trullo\"/Quinisext (692)",
+        "pt-BR": "Constantinopla/“Trullo”/Quinissexto (692)"
       }
     }
   ]
