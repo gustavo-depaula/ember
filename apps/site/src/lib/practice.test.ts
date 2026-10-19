@@ -32,7 +32,11 @@ test('a static page carries every branch of a choice, not only the one the app o
 
 test('the page language is the primary text and Latin rides beside it', async () => {
   const prayer = await renderPractice('hail-mary', 'pt-BR', { date, parallelLatin: true })
-  expect(prayer?.primitives[0]).toMatchObject({
+  // The Ave is sung: its text is the face of a block whose other face is the score.
+  const sung = prayer?.primitives[0]
+  if (sung?.type !== 'sung') throw new Error('the Hail Mary opens with its sung text')
+  expect(sung.chants.length).toBeGreaterThan(0)
+  expect(sung.text[0]).toMatchObject({
     type: 'text',
     text: {
       primary: expect.stringMatching(/^Ave Maria, cheia de graça/),
