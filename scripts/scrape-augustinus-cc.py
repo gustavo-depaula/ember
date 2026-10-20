@@ -900,7 +900,7 @@ def write_book(out_dir: Path, book_id: str, names: dict, renditions: list[str], 
     importer's — descriptions, dates, versions merged in from elsewhere — is
     kept. The dates (`composed`) are J. J. O'Donnell's Chronological Table of
     Augustine's Works (asu.edu/lib/jod/augustine/chrontable.html), in his
-    notation (`400/1`: one of the two years); four works he leaves undated
+    notation (`400/1`: one of the two years); three works he leaves undated
     take Wikipedia's Bibliography of Augustine, and those neither dates have
     none.
     meta_path = out_dir / "book.json"
