@@ -12,7 +12,13 @@ Usage:
     python3 scripts/import-fathers.py list
     python3 scripts/import-fathers.py work <work-id>
     python3 scripts/import-fathers.py author <author-slug>
-    python3 scripts/import-fathers.py all
+    python3 scripts/import-fathers.py all [--overwrite]
+
+A book already in the repo carries editorial work the archive doesn't: its
+translations (pt-BR and their journals, titles, `languages`), descriptions
+and hand fixes to the English. `all` leaves such books alone and imports
+only the works not yet here; `work`, `author` and `all --overwrite`
+rewrite the English and merge `book.json`, keeping everything else.
 
 `work-id` is the New Advent file basename (e.g., `1101` for Augustine's
 Confessions). `author-slug` is the slug of the Father's name as it appears in
@@ -22,7 +28,6 @@ from __future__ import annotations
 
 import json
 import re
-import shutil
 import subprocess
 import sys
 import unicodedata
@@ -45,7 +50,7 @@ SKIP_WORK_IDS: dict[str, str] = {}
 
 # Fathers whose New Advent translations live elsewhere: Augustine's are the
 # `npnf` versions of the augustine-opera-omnia books (scripts/merge-npnf-augustine.py).
-SKIP_AUTHORS: dict[str, str] = {"augustine-of-hippo": "content/books/augustine-opera-omnia"}
+SKIP_AUTHORS: dict[str, str] = {"augustine": "content/books/augustine-opera-omnia"}
 
 
 _COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
@@ -658,9 +663,13 @@ def short_work_slug(title: str, author_name: str = "") -> str:
     return s
 
 
-def write_work(work: Work, existing: set[str], existing_paths: set[Path]) -> dict | None:
+def write_work(
+    work: Work, existing: set[str], existing_paths: set[Path], overwrite: bool = True
+) -> dict | None:
     """Materialize a Work to `content/books/church-fathers/...`. Returns
-    summary {id, dir, chapters} or None if skipped."""
+    summary {id, dir, chapters} or None if skipped. A book already here is
+    left alone unless `overwrite`, and then keeps its id and everything in
+    its book.json and directory that is not the archive's English."""
     if not work.chapters:
         print(f"  skip (no chapters): {work.title}")
         return None
@@ -670,15 +679,23 @@ def write_work(work: Work, existing: set[str], existing_paths: set[Path]) -> dic
     if not work_slug:
         work_slug = f"work-{work.file_id}"
 
-    book_id = assign_book_id(author_slug, work_slug, existing)
-    existing.add(book_id)
-
     book_dir = BOOKS_ROOT / author_slug / work_slug
     if book_dir in existing_paths:
         # Same author writing two works with the same slugified title (rare;
         # e.g., generic "Letters" + "Letters of Augustine"). Add a suffix.
         book_dir = BOOKS_ROOT / author_slug / f"{work_slug}-{work.file_id}"
     existing_paths.add(book_dir)
+
+    meta_path = book_dir / "book.json"
+    old = json.loads(meta_path.read_text(encoding="utf-8")) if meta_path.is_file() else None
+    if old is not None and not overwrite:
+        print(f"  keep {old['id']} (already here)")
+        return None
+    if old is not None:
+        book_id = old["id"]
+    else:
+        book_id = assign_book_id(author_slug, work_slug, existing)
+        existing.add(book_id)
     en_dir = book_dir / "en-US"
     en_dir.mkdir(parents=True, exist_ok=True)
 
@@ -708,12 +725,44 @@ def write_work(work: Work, existing: set[str], existing_paths: set[Path]) -> dic
         }],
         "toc": toc,
     }
-    with (book_dir / "book.json").open("w", encoding="utf-8") as fh:
+    if old is not None:
+        meta = merged_meta(old, meta)
+    with meta_path.open("w", encoding="utf-8") as fh:
         json.dump(meta, fh, indent=2, ensure_ascii=False)
         fh.write("\n")
 
     print(f"  wrote {book_id} ({len(work.chapters)} chapters)")
     return {"id": book_id, "dir": str(book_dir.relative_to(ROOT)), "chapters": len(work.chapters)}
+
+
+def merged_meta(old: dict, new: dict) -> dict:
+    """The importer's book.json over an existing one: the English name,
+    author, source and TOC titles are the archive's; every other language's
+    titles, the `languages` and `sources` of translations, and any other
+    field (description, cover, composed…) stay as they were."""
+    old_titles: dict[str, dict] = {}
+
+    def index(nodes):
+        for node in nodes:
+            old_titles[node["id"]] = node.get("title", {})
+            index(node.get("children") or [])
+
+    def merge(nodes):
+        for node in nodes:
+            node["title"] = {**old_titles.get(node["id"], {}), **node["title"]}
+            merge(node.get("children") or [])
+
+    index(old.get("toc", []))
+    merge(new["toc"])
+    return {
+        **old,
+        "id": old["id"],
+        "name": {**old.get("name", {}), **new["name"]},
+        "author": {**old.get("author", {}), **new["author"]},
+        "languages": ["en-US"] + [lang for lang in old.get("languages", []) if lang != "en-US"],
+        "sources": new["sources"] + [src for src in old.get("sources", []) if src.get("language") != "en-US"],
+        "toc": new["toc"],
+    }
 
 
 def cmd_prepare_cache() -> None:
@@ -787,13 +836,12 @@ def cmd_author(author_slug: str) -> None:
         write_work(work, existing, used_paths)
 
 
-def cmd_all() -> None:
+def cmd_all(overwrite: bool = False) -> None:
     authors = parse_master_index()
     assign_author_slugs(authors)
-    # Fresh slate: any prior import goes away so re-runs don't leave orphan
-    # directories from previous slug schemes.
-    if BOOKS_ROOT.is_dir():
-        shutil.rmtree(BOOKS_ROOT)
+    # Nothing is deleted: books already here hold translations and fixes the
+    # archive doesn't. A book left under a previous slug scheme is removed by
+    # hand.
     existing = existing_book_ids()
     used_paths: set[Path] = set()
     failed: list[tuple[str, str, str]] = []
@@ -814,7 +862,7 @@ def cmd_all() -> None:
             except (FileNotFoundError, ValueError) as e:
                 failed.append((au.name, ref.title, str(e)))
                 continue
-            summary = write_work(work, existing, used_paths)
+            summary = write_work(work, existing, used_paths, overwrite=overwrite)
             if summary:
                 written.append({**summary, "author": au.name, "title": ref.title})
 
@@ -848,7 +896,7 @@ def main() -> None:
             raise SystemExit("usage: author <author-slug>")
         cmd_author(sys.argv[2])
     elif cmd == "all":
-        cmd_all()
+        cmd_all(overwrite="--overwrite" in sys.argv[2:])
     else:
         raise SystemExit(f"unknown command: {cmd}")
 
