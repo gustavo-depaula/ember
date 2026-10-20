@@ -174,9 +174,8 @@ function LoadingPane({
  * position just saved; a deep-linked `chapter` applies only to the first.
  */
 export function BookReader({ bookId, chapter }: Props) {
-  const router = useRouter()
   const { data: bookEntry, entry } = useBookManifest(bookId)
-  const { edition, lang, version, editions, setEdition, ready } = useBookEdition(
+  const { edition, lang, version, editions, setEdition } = useBookEdition(
     bookId,
     bookEntry,
     entry?.langs,
@@ -190,14 +189,6 @@ export function BookReader({ bookId, chapter }: Props) {
     [setEdition],
   )
 
-  if (!ready) {
-    return (
-      <OpeningPane
-        title={entry ? localizeContent(entry.name as never) : ''}
-        onClose={() => router.back()}
-      />
-    )
-  }
   return (
     <EditionReader
       key={edition}
@@ -208,20 +199,6 @@ export function BookReader({ bookId, chapter }: Props) {
       edition={edition}
       editions={editions}
       onEdition={onEdition}
-    />
-  )
-}
-
-/** The loading pane in the reader's colors, before the edition is known. */
-function OpeningPane({ title, onClose }: { title: string; onClose: () => void }) {
-  const { background, color, isDark } = useReaderConfig()
-  return (
-    <LoadingPane
-      background={background}
-      color={color}
-      isDark={isDark}
-      title={title}
-      onClose={onClose}
     />
   )
 }

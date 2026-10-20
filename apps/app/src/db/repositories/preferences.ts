@@ -19,12 +19,20 @@ export const syncedPreferences = new Set([
   'bible-commentary',
 ])
 
+// Per-book choices that travel too: the text a book is read in
+// (features/books/editions.ts).
+const syncedPrefixes = ['book-edition:']
+
+export function isSyncedPreference(key: string): boolean {
+  return syncedPreferences.has(key) || syncedPrefixes.some((prefix) => key.startsWith(prefix))
+}
+
 function synced(): Map<string, string> {
   return useEventStore.getState().preferences
 }
 
 export async function getPreference(key: string): Promise<string | undefined> {
-  if (syncedPreferences.has(key)) return synced().get(key)
+  if (isSyncedPreference(key)) return synced().get(key)
   const row = await getDb().getFirstAsync<{ value: string }>(
     'SELECT value FROM preferences WHERE key = ?',
     [key],
@@ -33,7 +41,7 @@ export async function getPreference(key: string): Promise<string | undefined> {
 }
 
 export async function setPreference(key: string, value: string): Promise<void> {
-  if (syncedPreferences.has(key)) {
+  if (isSyncedPreference(key)) {
     if (synced().get(key) !== value) await emit({ type: 'PreferenceSet', key, value })
     return
   }
@@ -44,7 +52,7 @@ export async function setPreference(key: string, value: string): Promise<void> {
 }
 
 export async function removePreference(key: string): Promise<void> {
-  if (syncedPreferences.has(key)) {
+  if (isSyncedPreference(key)) {
     if (synced().has(key)) await emit({ type: 'PreferenceSet', key, value: null })
     return
   }
