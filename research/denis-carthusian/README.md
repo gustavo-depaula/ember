@@ -11,7 +11,7 @@
 
 ## The edition
 
-Source list: [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/metabook?id=denisworks). `volumes.txt` has the 36 volumes on the Internet Archive with their page counts. Volumes 37–41 and 14bis are only on HathiTrust, which serves page images to US addresses only (403 from here).
+Source list: [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/metabook?id=denisworks). `volumes.txt` has the 36 volumes on the Internet Archive with their page counts. Volumes 37–41 and 14bis are linked only to HathiTrust, which serves page images to US addresses only (403 from here). Volumes 38, 39 and 41 turned up on the Internet Archive anyway, in a University of Illinois series the source page does not link (`operaomnia38deni`, `operaomnia39deni`, `operaomnia41deni_0`); their title pages confirm Tomus XXXVIII, XXXIX and XLI, *Opera minora*, and they are now in `volumes.txt`. Still missing: **37, 40 and 14bis**. They are not on the Internet Archive under any name (searched by title, creator and identifier, and every unlabelled Google scan identified by its title page; those all duplicate volumes already here). Gallica holds one digitized item of the edition but blocks automated access. A Boston College series (`doctorisecstatic19deni` to `…25deni2`) duplicates 19–25 and adds 25 *bis*, an index to the *Sentences* commentaries, left out.
 
 Each page is set in two columns, with a running head, A–D section letters in the gutter (Migne-style citations point to them), and scripture references in the outer margins. Italics mark the text being commented on: the verse, the Areopagite, the Sentences. The volumes Google scanned (33–36) are sharp; the Cornell scans (the rest) are often faded in the upper third of the page.
 
