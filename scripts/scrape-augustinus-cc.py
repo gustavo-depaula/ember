@@ -898,7 +898,11 @@ def write_book(out_dir: Path, book_id: str, names: dict, renditions: list[str], 
     """Write book.json: the main text at the top level, the older
     translations augustinus.cc carries as `versions`. What is not this
     importer's — descriptions, dates, versions merged in from elsewhere — is
-    kept."""
+    kept. The dates (`composed`) are J. J. O'Donnell's Chronological Table of
+    Augustine's Works (asu.edu/lib/jod/augustine/chrontable.html), in his
+    notation (`400/1`: one of the two years); four works he leaves undated
+    take Wikipedia's Bibliography of Augustine, and those neither dates have
+    none.
     meta_path = out_dir / "book.json"
     old = json.loads(meta_path.read_text()) if meta_path.is_file() else {}
     main = [r for r in renditions if version_of(r) is None]
