@@ -2,6 +2,10 @@
 [Unit]
 Description=Denis the Carthusian: dots.mocr drafts of every volume
 After=network-online.target
+# A failure that repeats is a bug, not a hiccup: after 5 in half an hour, stop and
+# show as failed rather than restart forever (it once looped for 12 hours).
+StartLimitIntervalSec=1800
+StartLimitBurst=5
 
 [Service]
 Type=simple

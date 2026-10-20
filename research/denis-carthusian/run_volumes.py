@@ -16,6 +16,7 @@ matches the archive's listing, and a restart skips every page already done.
 """
 
 import argparse
+import hashlib
 import io
 import json
 import os
@@ -24,7 +25,7 @@ import threading
 import time
 import urllib.request
 import zipfile
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import Future, ThreadPoolExecutor
 from pathlib import Path
 
 from openai import OpenAI
@@ -53,11 +54,21 @@ def write_atomic(path: Path, text: str) -> None:
     os.replace(tmp, path)
 
 
-def expected_size(volume: str) -> int:
+def expected(volume: str) -> tuple[int, str]:
+    """Size and MD5 of the volume's zip, as the archive lists them."""
     url = f"https://archive.org/metadata/{volume}/files"
     with urllib.request.urlopen(url, timeout=60) as response:
         files = json.load(response)["result"]
-    return next(int(f["size"]) for f in files if f["name"] == f"{volume}_jp2.zip")
+    entry = next(f for f in files if f["name"] == f"{volume}_jp2.zip")
+    return int(entry["size"]), entry["md5"]
+
+
+def md5(path: Path) -> str:
+    digest = hashlib.md5()
+    with open(path, "rb") as f:
+        for block in iter(lambda: f.read(1 << 20), b""):
+            digest.update(block)
+    return digest.hexdigest()
 
 
 def fetch(volume: str) -> Path:
@@ -66,28 +77,52 @@ def fetch(volume: str) -> Path:
     if target.exists():
         return target
     part = target.with_name(target.name + ".part")
-    size = expected_size(volume)
+    size, checksum = expected(volume)
     for attempt in range(8):
         subprocess.run(
             ["curl", "-sSL", "--retry", "5", "-C", "-", "-o", str(part),
              f"https://archive.org/download/{volume}/{volume}_jp2.zip"],
             check=False,
         )
+        # The size alone is not enough: a resumed download once came out the right
+        # length with a corrupt page inside (vol. 17, leaf 0443).
         if part.exists() and part.stat().st_size == size:
-            os.replace(part, target)
-            log(f"{volume}: downloaded {size // 2**20} MB")
-            return target
+            if md5(part) == checksum:
+                os.replace(part, target)
+                log(f"{volume}: downloaded {size // 2**20} MB")
+                return target
+            log(f"{volume}: download corrupt (MD5 mismatch); fetching again")
+            part.unlink()
         time.sleep(30 * (attempt + 1))
     raise RuntimeError(f"{volume}: download incomplete after retries")
 
 
+def page_image(zf_path: Path, name: str) -> Image.Image:
+    """A page from the volume's zip; if that entry is unreadable, the single page from the archive."""
+    try:
+        with zipfile.ZipFile(zf_path) as zf:
+            data_ = zf.read(name)
+    except zipfile.BadZipFile:
+        volume, leaf = Path(name).stem.rsplit("_", 1)
+        # The archive serves one file out of the zip by its path. (Its /page/nN
+        # images are numbered differently from the leaves, so they could be the wrong page.)
+        url = f"https://archive.org/download/{volume}/{volume}_jp2.zip/{name}"
+        with urllib.request.urlopen(url, timeout=300) as response:
+            data_ = response.read()
+        log(f"{volume}: leaf {leaf} unreadable in the zip; fetched the page on its own")
+    image = Image.open(io.BytesIO(data_))
+    image.load()
+    return image
+
+
 def ocr_page(client: OpenAI, zf_path: Path, name: str, out: Path) -> None:
     leaf = Path(name).stem.rsplit("_", 1)[-1]
-    with zipfile.ZipFile(zf_path) as zf:
-        image = Image.open(io.BytesIO(zf.read(name)))
-        image.load()
-    content, _ = engine_request("dots", image)
+    # Everything that can go wrong with one page, reading its image included, stays
+    # with that page: an uncaught error here once restarted the service in a loop for
+    # twelve hours on a single unreadable leaf.
     try:
+        image = page_image(zf_path, name)
+        content, _ = engine_request("dots", image)
         reply = client.chat.completions.create(
             model="dots", messages=[{"role": "user", "content": content}], max_tokens=6000, temperature=0.0,
         )
@@ -132,22 +167,27 @@ def main() -> None:
     args = parser.parse_args()
     (data / "zips").mkdir(parents=True, exist_ok=True)
     volumes = args.volumes or [line.split()[0] for line in (here / "volumes.txt").read_text().splitlines() if line.strip()]
-    # Downloads go through one queue, one volume ahead of the GPU, so a volume is
-    # never fetched twice at once.
+    # One background thread downloads the missing zips in order, so a volume is never
+    # fetched twice at once; the GPU takes whichever volume is ready first, so a slow
+    # download does not leave it idle.
     downloads = ThreadPoolExecutor(1)
     zips = {}
-
-    def zip_for(volume: str):
-        if volume not in zips:
-            zips[volume] = downloads.submit(fetch, volume)
-        return zips[volume]
-
+    for v in volumes:
+        on_disk = data / "zips" / f"{v}_jp2.zip"
+        if on_disk.exists():  # ready now, not queued behind a slow download
+            zips[v] = Future()
+            zips[v].set_result(on_disk)
+        else:
+            zips[v] = downloads.submit(fetch, v)
     client = OpenAI(base_url="http://localhost:8000/v1", api_key="EMPTY", timeout=900)
-    for i, volume in enumerate(volumes):
-        zf_path = zip_for(volume).result()
-        if i + 1 < len(volumes):
-            zip_for(volumes[i + 1])
-        run_volume(client, volume, zf_path, args.parallel, args.retry_failed)
+    pending = list(volumes)
+    while pending:
+        ready = next((v for v in pending if zips[v].done()), None)
+        if ready is None:
+            time.sleep(30)
+            continue
+        pending.remove(ready)
+        run_volume(client, ready, zips[ready].result(), args.parallel, args.retry_failed)
     log("all volumes done")
 
 
