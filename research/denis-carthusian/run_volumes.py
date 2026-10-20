@@ -72,15 +72,18 @@ def md5(path: Path) -> str:
 
 
 def fetch(volume: str) -> Path:
-    """Download (or resume downloading) a volume's page-image zip."""
+    """Download a volume's page-image zip, checked against the archive's MD5."""
     target = data / "zips" / f"{volume}_jp2.zip"
     if target.exists():
         return target
     part = target.with_name(target.name + ".part")
     size, checksum = expected(volume)
     for attempt in range(8):
+        # Always from the start: the archive's download servers do not all honour byte
+        # ranges, and a resume against one fails, or splices in the wrong bytes.
+        part.unlink(missing_ok=True)
         subprocess.run(
-            ["curl", "-sSL", "--retry", "5", "-C", "-", "-o", str(part),
+            ["curl", "-sSL", "--retry", "5", "-o", str(part),
              f"https://archive.org/download/{volume}/{volume}_jp2.zip"],
             check=False,
         )
@@ -187,6 +190,9 @@ def main() -> None:
             time.sleep(30)
             continue
         pending.remove(ready)
+        if zips[ready].exception():
+            log(f"{ready}: skipped, download failed: {zips[ready].exception()}")
+            continue
         run_volume(client, ready, zips[ready].result(), args.parallel, args.retry_failed)
     log("all volumes done")
 

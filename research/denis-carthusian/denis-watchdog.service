@@ -1,0 +1,7 @@
+# Install: see "Running the full drafts" in README.md.
+[Unit]
+Description=Denis the Carthusian: check that the OCR run is making progress
+
+[Service]
+Type=oneshot
+ExecStart=%h/Documents/ember/.claude/worktrees/bridge-cse_01JRg9EA6b5WHThBdtG4ivyc/research/denis-carthusian/.venv/bin/python %h/Documents/ember/.claude/worktrees/bridge-cse_01JRg9EA6b5WHThBdtG4ivyc/research/denis-carthusian/watchdog.py

@@ -69,14 +69,16 @@ On the subscription, the budget is usage limits, not dollars. That changed the d
 
 ```bash
 ln -s "$PWD/denis-ocr.service" ~/.config/systemd/user/
-systemctl --user daemon-reload && systemctl --user enable --now denis-ocr.service
+ln -s "$PWD/denis-watchdog.service" "$PWD/denis-watchdog.timer" ~/.config/systemd/user/
+systemctl --user daemon-reload && systemctl --user enable --now denis-ocr.service denis-watchdog.timer
 loginctl enable-linger      # start at boot, before anyone logs in
 journalctl --user -u denis-ocr -f      # or: tail -f ~/ember-data/denis-carthusian/progress.log
 ```
 
+- **Monitoring.** `denis-watchdog.timer` runs `watchdog.py` every 10 minutes and appends a line to `heartbeat.log`. It alerts (desktop notification and `alerts.log`) when no page has been drafted for 30 minutes, the service has failed, or it restarted more than 3 times since the last check. The service state alone is not enough: it read "active" through a 12-hour restart loop. An hourly scheduled task also wakes the Claude session that runs the import, to check, fix and notify.
 - `pipeline.sh` starts vLLM and runs `run_volumes.py`. If either dies, systemd restarts both a minute later.
 - Data lives in `~/ember-data/denis-carthusian/`, outside the worktree.
-- **Recovery.** A volume's zip is downloaded with resume and only used once its size and MD5 match the archive's listing. Size alone once passed a corrupt download (vol. 17). Each page's draft is written to a temporary file, synced and renamed into place. A restart skips every page that has a draft. Tested by killing the service mid-volume: it came back on its own and resumed at "809 of 830 pages to do".
+- **Recovery.** A volume's zip is downloaded afresh on each attempt (the archive does not always honour resumes) and only used once its size and MD5 match the archive's listing. Size alone once passed a corrupt download (vol. 17). Each page's draft is written to a temporary file, synced and renamed into place. A restart skips every page that has a draft. Tested by killing the service mid-volume: it came back on its own and resumed at "809 of 830 pages to do".
 - **Failures stay with their page.** Any error on a page, reading its image included, gives that page a `.err` file and the run moves on. An unreadable entry in a zip is fetched on its own from the archive, which serves single files out of a zip by path. Before this, one unreadable leaf crashed the service on every start, and it restarted in a loop for 12 hours; the unit now stops and shows as failed after 5 failures in half an hour.
 - **Downloads never idle the GPU.** It takes whichever volume's zip is on disk, while the missing ones download in order in the background.
 - **Failed pages.** A page whose model output won't parse also gets a `.err` file. Retry those with `run_volumes.py --retry-failed`.
