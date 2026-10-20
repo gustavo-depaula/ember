@@ -776,6 +776,17 @@ def clean_spanish(html_: str) -> str:
     return "".join(out)
 
 
+# Typos the site's text carries, fixed at import: (work, rendition) → [(pattern, replacement)].
+CORRECTIONS = {
+    # The Portuguese Soliloquies give Reason's turns as "a Razão:", lower-case
+    # at the head of the line and with an article Augustine's ("Agostinho:")
+    # lacks; the Latin is "Ratio:", the English "Reason:".
+    ("Solil", "pt-BR"): [
+        (re.compile(r"(^|<br\s*/?>)(\s*(?:<b>[^<]*</b>\s*)?)a Razão:"), r"\1\2Razão:"),
+    ],
+}
+
+
 def load_work(abbr: str, series: bool):
     """The work's style string, its documents keyed by rendition (in
     RENDITIONS order) and the row kinds read off the English."""
@@ -784,6 +795,10 @@ def load_work(abbr: str, series: bool):
     docs = {lang: cells(w["dids"][lang], len(styles)) for lang in RENDITIONS if lang in w["dids"]}
     if "es-419" in docs:
         docs["es-419"] = [clean_spanish(h) for h in docs["es-419"]]
+    for (work, rendition), fixes in CORRECTIONS.items():
+        if work == abbr and rendition in docs:
+            for pattern, replacement in fixes:
+                docs[rendition] = [pattern.sub(replacement, h) for h in docs[rendition]]
     kinds = classify(styles, docs["en-US"], series)
     return w, styles, docs, kinds
 
@@ -902,7 +917,7 @@ def write_book(out_dir: Path, book_id: str, names: dict, renditions: list[str], 
     Augustine's Works (asu.edu/lib/jod/augustine/chrontable.html), in his
     notation (`400/1`: one of the two years); three works he leaves undated
     take Wikipedia's Bibliography of Augustine, and those neither dates have
-    none.
+    none."""
     meta_path = out_dir / "book.json"
     old = json.loads(meta_path.read_text()) if meta_path.is_file() else {}
     main = [r for r in renditions if version_of(r) is None]
