@@ -22,4 +22,4 @@ Também Jesus dizia: o Pai "está comigo e não me deixou só, porque faço semp
 
 "Ó Senhor, que força não tem diante de ti o dom da vontade! Se se fizesse com a generosidade com que deve ser feito, não poderia deixar de atrair-te, ó Onipotente, a fazer uma coisa só com a nossa fraqueza, transformando-nos em ti, a criatura no Criador... Ó meu Deus, quanto mais Tu vês que o dom da nossa vontade se manifesta não com palavras de cortesia, mas com obras, tanto mais nos atrais a ti, elevando a alma acima de si mesma e de todas as coisas terrenas... E, não contente de tê-la unido a ti mesmo, fazendo-te uma só coisa com ela, começarás a pôr nela as tuas delícias e a descobrir-lhe os teus segredos...
 
-"Neste instante, ó meu Deus, livremente e sem reserva alguma, eu te consagro a minha vontade!" (cf. T.G. Cam. 32, 4).*
+"Neste instante, ó meu Deus, livremente e sem reserva alguma, eu te consagro a minha vontade!" (cf. T.G. Cam. 32, 4).

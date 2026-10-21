@@ -16,4 +16,4 @@ Também nós esperamos em Deus, mas nossa esperança não é totalitária como a
 
 «Para ajudar-me, ó Mãe, não vás procurar virtudes nem méritos; olha somente, peço-te, a confiança que ponho em ti e a vontade que tenho de ser melhor. Olha o que fez e padeceu Jesus por mim e depois abandona-me, se tens coração de abandonar-me. Apresento-te todas as penas de sua vida: o frio que padeceu na estrebaria, a viagem que fez ao Egito, o sangue que derramou, a pobreza, os suores, as tristezas, a morte que suportou por amor de mim. Por amor de Jesus, empenha-te em socorrer-me. Ó minha Mãe, não negues tua piedade a quem Jesus não negou o sangue!
 
-«Ó Maria, eu confio em ti; nesta esperança vivo e nesta esperança espero morrer, repetindo sempre: unica spes mea Jesus, et post Jesum virgo Maria, a única esperança minha é Jesus, e depois de Jesus Maria» (S. Afonso).*
+«Ó Maria, eu confio em ti; nesta esperança vivo e nesta esperança espero morrer, repetindo sempre: unica spes mea Jesus, et post Jesum virgo Maria, a única esperança minha é Jesus, e depois de Jesus Maria» (S. Afonso).
