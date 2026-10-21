@@ -54,13 +54,25 @@ def write_atomic(path: Path, text: str) -> None:
     os.replace(tmp, path)
 
 
-def expected(volume: str) -> tuple[int, str]:
-    """Size and MD5 of the volume's zip, as the archive lists them."""
+# Page images come as a zip of JPEG 2000s; a few Google scans have only TIFFs.
+image_zips = ("jp2", "tif")
+
+
+def expected(volume: str) -> tuple[str, int, str]:
+    """Name, size and MD5 of the volume's page-image zip, as the archive lists them."""
     url = f"https://archive.org/metadata/{volume}/files"
     with urllib.request.urlopen(url, timeout=60) as response:
-        files = json.load(response)["result"]
-    entry = next(f for f in files if f["name"] == f"{volume}_jp2.zip")
-    return int(entry["size"]), entry["md5"]
+        files = {f["name"]: f for f in json.load(response)["result"]}
+    for kind in image_zips:
+        entry = files.get(f"{volume}_{kind}.zip")
+        if entry:
+            return entry["name"], int(entry["size"]), entry["md5"]
+    raise FileNotFoundError(f"{volume} has no page-image zip ({', '.join(image_zips)})")
+
+
+def volume_zip(volume: str) -> Path | None:
+    """The volume's page-image zip on disk, whichever kind it is."""
+    return next((p for kind in image_zips if (p := data / "zips" / f"{volume}_{kind}.zip").exists()), None)
 
 
 def md5(path: Path) -> str:
@@ -73,18 +85,18 @@ def md5(path: Path) -> str:
 
 def fetch(volume: str) -> Path:
     """Download a volume's page-image zip, checked against the archive's MD5."""
-    target = data / "zips" / f"{volume}_jp2.zip"
-    if target.exists():
-        return target
+    if on_disk := volume_zip(volume):
+        return on_disk
+    name, size, checksum = expected(volume)
+    target = data / "zips" / name
     part = target.with_name(target.name + ".part")
-    size, checksum = expected(volume)
     for attempt in range(8):
         # Always from the start: the archive's download servers do not all honour byte
         # ranges, and a resume against one fails, or splices in the wrong bytes.
         part.unlink(missing_ok=True)
         subprocess.run(
             ["curl", "-sSL", "--retry", "5", "-o", str(part),
-             f"https://archive.org/download/{volume}/{volume}_jp2.zip"],
+             f"https://archive.org/download/{volume}/{name}"],
             check=False,
         )
         # The size alone is not enough: a resumed download once came out the right
@@ -109,7 +121,7 @@ def page_image(zf_path: Path, name: str) -> Image.Image:
         volume, leaf = Path(name).stem.rsplit("_", 1)
         # The archive serves one file out of the zip by its path. (Its /page/nN
         # images are numbered differently from the leaves, so they could be the wrong page.)
-        url = f"https://archive.org/download/{volume}/{volume}_jp2.zip/{name}"
+        url = f"https://archive.org/download/{volume}/{zf_path.name}/{name}"
         with urllib.request.urlopen(url, timeout=300) as response:
             data_ = response.read()
         log(f"{volume}: leaf {leaf} unreadable in the zip; fetched the page on its own")
@@ -142,7 +154,7 @@ def run_volume(client: OpenAI, volume: str, zf_path: Path, parallel: int, retry_
     out = data / "dots" / volume
     out.mkdir(parents=True, exist_ok=True)
     with zipfile.ZipFile(zf_path) as zf:
-        names = sorted(n for n in zf.namelist() if n.endswith(".jp2"))
+        names = sorted(n for n in zf.namelist() if n.endswith((".jp2", ".tif")))
     if retry_failed:
         for err in out.glob("*.err"):
             err.unlink()
@@ -176,8 +188,8 @@ def main() -> None:
     downloads = ThreadPoolExecutor(1)
     zips = {}
     for v in volumes:
-        on_disk = data / "zips" / f"{v}_jp2.zip"
-        if on_disk.exists():  # ready now, not queued behind a slow download
+        on_disk = volume_zip(v)
+        if on_disk:  # ready now, not queued behind a slow download
             zips[v] = Future()
             zips[v].set_result(on_disk)
         else:
@@ -191,7 +203,7 @@ def main() -> None:
             continue
         pending.remove(ready)
         if zips[ready].exception():
-            log(f"{ready}: skipped, download failed: {zips[ready].exception()}")
+            log(f"{ready}: skipped, download failed: {zips[ready].exception()!r}")
             continue
         run_volume(client, ready, zips[ready].result(), args.parallel, args.retry_failed)
     log("all volumes done")

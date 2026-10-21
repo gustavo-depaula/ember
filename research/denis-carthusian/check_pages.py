@@ -31,6 +31,8 @@ from pathlib import Path
 
 from PIL import Image
 
+from run_volumes import volume_zip
+
 here = Path(__file__).parent.resolve()
 data = Path(os.environ.get("DENIS_DATA", Path.home() / "ember-data" / "denis-carthusian"))
 # Outside the repo, so neither CLAUDE.md nor the project memory loads into the call.
@@ -129,9 +131,9 @@ def check(stem: str, load_page, drafts: Path, out: Path, effort: str, crop: int)
 
 def volume_pages(volume: str, leaves: str) -> list[tuple[str, callable]]:
     first, last = leaves.split("-")
-    zf_path = data / "zips" / f"{volume}_jp2.zip"
+    zf_path = volume_zip(volume)
     with zipfile.ZipFile(zf_path) as zf:
-        names = {Path(n).stem.rsplit("_", 1)[-1]: n for n in zf.namelist() if n.endswith(".jp2")}
+        names = {Path(n).stem.rsplit("_", 1)[-1]: n for n in zf.namelist() if n.endswith((".jp2", ".tif"))}
 
     def loader(name: str):
         def load() -> Image.Image:

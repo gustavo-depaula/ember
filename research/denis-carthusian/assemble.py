@@ -26,7 +26,7 @@ import numpy as np
 from PIL import Image
 
 from apply_fixes import apply, plain_and_mask, render
-from run_volumes import data
+from run_volumes import data, volume_zip
 
 repo = Path(__file__).resolve().parents[2]
 
@@ -127,8 +127,8 @@ def main(work_path: Path) -> None:
     # The scanner sometimes retook a spread: the same pages turn up again a few leaves
     # later. Keep whichever capture has more ink; neither the first nor the retake
     # is reliably the good one.
-    zf = zipfile.ZipFile(data / "zips" / f"{volume}_jp2.zip")
-    names = {Path(n).stem.rsplit("_", 1)[-1]: n for n in zf.namelist() if n.endswith(".jp2")}
+    zf = zipfile.ZipFile(volume_zip(volume))
+    names = {Path(n).stem.rsplit("_", 1)[-1]: n for n in zf.namelist() if n.endswith((".jp2", ".tif"))}
     dropped = set()
     for i, leaf in enumerate(leaves):
         start = texts[leaf][0][:600]
