@@ -117,7 +117,6 @@ pelo futuro, e a tudo provês com amor paterno.
 Ó Senhor, como não confiar em ti, como não lançar
 em ti toda minha solicitude, certo de que Tu terás um
 remédio para tudo? A ti, pois, confio minha vida:
-
 vida do corpo, vida terrena com todas as suas necessidades,
 com todos os seus trabalhos; vida do espírito com todas as suas
 exigências, suas ansiedades, com toda sua fome do infinito. Tu

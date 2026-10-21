@@ -22,7 +22,6 @@ Deus, pois, como Homem e como Deus, Cristo é
 uma única Pessoa, a segunda Pessoa da SS.ma Trindade;
 Ele está no vértice da criação: o princípio, o fim, o rei
 de todas as coisas. Ele tem “o primado em tudo” (Col.
-
 1, 18). E que coisa mais suave e bela do que pensar que
 Cristo reina sobre nós não somente por direito de natureza,
 mas também por direito de conquista, em força da Redenção?

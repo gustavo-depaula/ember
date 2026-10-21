@@ -68,8 +68,6 @@ morte nascerá a vida. Jesus o disse: “Se o grão
 de trigo, caído na terra, não morre, fica só; mas,
 se morre, produz muito fruto... E quem odeia a própria
 vida neste mundo, conservá-la-á para a vida eterna”
-
-
 (Jo. 12, 24-25).
 
 ### Colóquio

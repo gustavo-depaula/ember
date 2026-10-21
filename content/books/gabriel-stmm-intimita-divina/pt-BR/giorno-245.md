@@ -17,7 +17,7 @@ No entanto, justamente porque falta a evidência, no meu pensamento pode sempre 
 
 “Tu és noite escura para a alma e como noite a iluminas, semelhante àquela nuvem tenebrosa que, na noite, iluminava o caminho aos filhos de Israel; sim, ainda que sejas uma nuvem escura, contudo com tuas trevas iluminas as da minha alma. Posso, pois, dizer também eu: a noite será minha luz em meus deleites. No caminho da pura contemplação e união com Deus, tua noite, ó fé, será minha guia.
 
-Faze, pois, compreender, ó Senhor, que, para unir-me em união contigo, não devo imaginar formas nem apoiar-me no gosto e no sentido ou na imaginação, mas devo crer no teu infinito Ser divino, que não cai sob pensamento ou sentido algum” (cf. G.C. S. II, 3, 1-6; 4, 4).
+“Faze, pois, compreender, ó Senhor, que, para unir-me em união contigo, não devo imaginar formas nem apoiar-me no gosto e no sentido ou na imaginação, mas devo crer no teu infinito Ser divino, que não cai sob pensamento ou sentido algum” (cf. G.C. S. II, 3, 1-6; 4, 4).
 
 “Ó fé, tu és a grande amiga do nosso espírito e às ciências humanas, que se vangloriam de ser mais evidentes do que tu, podes bem dizer aquilo que a santa Esposa dizia às outras pastorinhas: ‘Eu sou morena, mas bela’. Tu és morena porque estás entre as obscuridades das revelações divinas as quais, sendo privadas de evidência aparente, fazem-te parecer negra, tornando-te quase irreconhecível; mas, ainda assim, és bela em ti mesma por tua infinita certeza” (cf. S. Francisco de Sales).
 

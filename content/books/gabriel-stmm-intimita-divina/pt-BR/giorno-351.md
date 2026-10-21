@@ -22,8 +22,8 @@ Eis o último termo da união com Deus na terra. Termo altíssimo, mas sobre o q
 
 “Ó Senhor, quem poderá fazer-me entender quanto é vantajoso lançar-me em teus braços e estabelecer contigo este pacto: eu cuidar-ei de ti e Tu cuidarás de mim; Tu velarás meus interesses e eu os teus?
 
-Que coisa sou sem ti, ó Senhor? Que valor tenho, se não estou unido a ti? E onde vou acabar, se mesmo pouco me afasto de ti?
+“Que coisa sou sem ti, ó Senhor? Que valor tenho, se não estou unido a ti? E onde vou acabar, se mesmo pouco me afasto de ti?
 
-Senhor meu, Misericórdia minha e meu Tesouro, que outro bem se pode desejar aqui embaixo fora de estar-te tão perto que não seja mais possível nenhuma divisão?
+“Senhor meu, Misericórdia minha e meu Tesouro, que outro bem se pode desejar aqui embaixo fora de estar-te tão perto que não seja mais possível nenhuma divisão?
 
-Ó Senhor da minha vida, atrai-me a ti, mas faze-o de tal modo que minha vontade te permaneça tão unida que não possa mais separar-se da tua” (T.G.P. 4, 8 e 9; 3, 15).
+“Ó Senhor da minha vida, atrai-me a ti, mas faze-o de tal modo que minha vontade te permaneça tão unida que não possa mais separar-se da tua” (T.G.P. 4, 8 e 9; 3, 15).

@@ -23,7 +23,6 @@ God, since, as Man and as God, Christ is
 one Person, the second Person of the Most Holy Trinity;
 He is at the summit of creation: the principle, the end, the king
 of all things. He has “primacy in all things” (Col.
-
 1, 18). Nor what could be sweeter and more beautiful than
 to think that Christ reigns over us not only by right of nature,
 but also by right of conquest, by virtue of Redemption?

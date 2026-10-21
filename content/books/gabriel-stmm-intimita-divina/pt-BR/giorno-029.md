@@ -65,6 +65,7 @@ pois és imutável. O nosso mal não poderia
 causar dano a ti, que és a soberana e eterna bondade!
 Quem, pois, te estimula a tanta misericórdia? O amor. Porque Tu não tens obrigação alguma para conosco e não tens de nós
 necessidade alguma. Quem leva a ti, Deus infinito, para mim, pequena criatura? Nenhum outro senão Tu mesmo. Ó Fogo de Amor, sempre o Amor somente te impeliu e te impele!—
+
 “Tu, suma doçura, dignaste-te unir-te com a
 nossa amargura; Tu, esplendor, com as trevas; Tu, sabedoria, com a loucura; Tu, vida, com a morte; Tu, infinito, com nós finitos!” (Santa Catarina de Sena).
 

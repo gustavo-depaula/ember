@@ -36,10 +36,7 @@ hidden with Christ in God” (Col. 3, 3).
 
 **2** — “My God... now forever I mean to shut myself
 within Your most lovable Heart as in a desert,
-there to make in You, with You, for You this hidden life of love and sacrifice.” Thus St. Teresa Margaret made concrete her ideal of hidden life with Christ.
-
-
-“The soul that has long exercised itself in the exterior and
+there to make in You, with You, for You this hidden life of love and sacrifice.” Thus St. Teresa Margaret made concrete her ideal of hidden life with Christ. The soul that has long exercised itself in the exterior and
 negative aspect of hiddenness, that is, which with constant fidelity
 has known how to hide from creatures’ eyes, is free and
 ready to hide with Christ in God.

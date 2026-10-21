@@ -98,7 +98,7 @@ my death; from now on willingly I want to accept
 death in the place, time, and manner that You will please to establish.
 
 
-I know very well that I need to suffer and be ground beneath the teeth of tribulations, sorrows,
+“I know very well that I need to suffer and be ground beneath the teeth of tribulations, sorrows,
 privations, desolations, and pains in order to become bread
 worthy to serve at Your heavenly banquet, O Christ,
 on the day of the universal resurrection. I know very well that

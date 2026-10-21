@@ -3,8 +3,7 @@
 
 ### Meditation
 
-**1** — Today, in the Epistle of the Mass of the season (Ez. 34,
-**11** — 16), we read: “Thus says the Lord God: I will seek out
+**1** — Today, in the Epistle of the Mass of the season *(Ez.* 34, 11-16), we read: “Thus says the Lord God: I will seek out
 my sheep and rescue them from all places where they
 were scattered in days of cloud and darkness... and I will bring them into their own land and feed them on the mountains
 of Israel... On rich pastures I will feed them.” This is the program of what

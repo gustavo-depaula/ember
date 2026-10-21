@@ -115,7 +115,6 @@ for the future, and for all You provide with fatherly love.
 O Lord, how should I not trust in You, how should I not cast
 every care of mine into You, certain that You will have a
 remedy for everything? To You then I entrust my life:
-
 life of the body, earthly life with all its necessities,
 with all its labors; life of the spirit with all its
 demands, its anxieties, with all its hunger for the infinite. You

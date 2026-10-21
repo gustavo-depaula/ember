@@ -53,8 +53,6 @@ mercenário, isto é, mirando mais à recompensa
 que poderá receber do que à glória dele, mas o serve
 - segundo a bela expressão de S. Teresa de Jesus -
 “gratuitamente como os grandes senhores servem os reis”
-
-
 (Lt.). Tal deve ser o estilo de uma alma de vida interior,
 a qual, tendo sido convidada por Deus à sua
 intimidade, não deve agir como mercenária, mas como filha,

@@ -19,6 +19,7 @@ St. Paul, in the Epistle (Heb. 1, 1-11) of the third Christmas Mass, says: “Go
 “O powerful and eternal Trinity! O sweetest and ineffable Charity! who would not be inflamed with such love? What heart could defend itself from being consumed for You?
 
 “O abyss of charity! Are You then so madly attached to Your creatures that it seems You cannot live without them! And yet You are our God! You have no need of us. Our good adds nothing to Your greatness, for You are immutable. Our evil could cause no harm to You, who are sovereign and eternal goodness! Who then moves You to such mercy? Love. For You have no obligation toward us and have no need of us. Who draws You, infinite God, toward me, a small creature? None other than You Yourself. O Fire of Love, always Love alone has urged and urges You!—
+
 “You, supreme sweetness, deigned to unite Yourself with our bitterness; You, splendor, with darkness; You, wisdom, with folly; You, life, with death; You, infinite, with us finite!” (St. Catherine of Siena).
 
 O sweetest Incarnate Word, O most lovable Child Jesus, here I am at last at Your feet: let me contemplate, allow me to delight in Your beauty, Your goodness, Your immense charity! Your infinite love presents itself to me living and throbbing in this tender Child who smiles at me and stretches out His little arms to me, and this Child is You Yourself, O my God! How shall I thank You for Your excessive love? How shall I repay You?

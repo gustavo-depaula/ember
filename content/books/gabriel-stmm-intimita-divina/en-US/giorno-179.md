@@ -16,6 +16,6 @@ Retreat, recollection, prayer, concord with brothers, union with Mary Most Holy:
 
 “Alas, Lord, how long this exile is! How much heavier the desire to see you makes it!
 
-Lord, what can a soul enclosed in this prison do?... But I desire to please you. Here I am, Lord! If, to serve You in something, it is necessary for me to live still, I refuse none of the crosses that may await me on earth. But, alas, Lord, alas! I have only words; nor am I capable of anything else. Make, my God, that before You at least my desires may have value, without looking at the smallness of my merits.
+“Lord, what can a soul enclosed in this prison do?... But I desire to please you. Here I am, Lord! If, to serve You in something, it is necessary for me to live still, I refuse none of the crosses that may await me on earth. But, alas, Lord, alas! I have only words; nor am I capable of anything else. Make, my God, that before You at least my desires may have value, without looking at the smallness of my merits.
 
 “Ah, my services would always be poor, my God, even if I rendered You many! And then, why remain in this life so full of miseries? Only to do your will. Is there perhaps a greater gain than this? Hope then, my soul, hope. Watch carefully because you know not the day nor the hour. All passes quickly, although your impatience makes a short time seem long. Think that the more you fight, the more proofs of love you give your God and the more you will enjoy your Beloved in joy and endless happiness” (T.J. Excl. 15).
