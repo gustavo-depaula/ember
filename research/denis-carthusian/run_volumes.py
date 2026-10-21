@@ -186,7 +186,7 @@ def main() -> None:
     if args.retry_failed:
         generation.update(max_tokens=10000, temperature=0.3)  # the server allows 16k with the image
     (data / "zips").mkdir(parents=True, exist_ok=True)
-    volumes = args.volumes or [line.split()[0] for line in (here / "volumes.txt").read_text().splitlines() if line.strip()]
+    volumes = args.volumes or [line.split()[0] for line in (here / "volumes.txt").read_text().splitlines() if line.strip() and not line.startswith("#")]
     # One background thread downloads the missing zips in order, so a volume is never
     # fetched twice at once; the GPU takes whichever volume is ready first, so a slow
     # download does not leave it idle.

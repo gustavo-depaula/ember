@@ -4,7 +4,7 @@
 
 **Where things stand (2026-10-18).** The method is settled, in two passes:
 
-1. **dots.mocr drafted every page** on the local RTX 4070 Ti, at no cost: 39 volumes, 28,212 pages, between 18 and 21 October 2026, as a systemd service that survives a power cut (see [Running the full drafts](#running-the-full-drafts)). 96 pages (0.34%) still fail: the model loops on them even on the retry pass, at a higher token cap and temperature 0.3. `draft_with_claude.py` transcribes those from scratch with a lean Sonnet call (the bake-off's `prompt.md`), and writes the same files a dots.mocr page has, plus a `.source` marker. That way assembly and proofreading need no special case. Of the 96, 22 turned out to be blank leaves. 12 are scans with no legible print (faded, out of focus, one with a hand over the page); those are listed in `~/ember-data/denis-carthusian/gaps.tsv`. Some are covered by a retaken capture nearby; the rest need another copy of the volume. The first run returned those as prose ("I can't transcribe this page…"); the prompt now asks for an `unreadable` marker, and prose is caught either way.
+1. **dots.mocr drafted every page** on the local RTX 4070 Ti, at no cost: 39 volumes, 28,212 pages, between 18 and 21 October 2026, as a systemd service that survives a power cut (see [Running the full drafts](#running-the-full-drafts)). 96 pages (0.34%) still fail: the model loops on them even on the retry pass, at a higher token cap and temperature 0.3. `draft_with_claude.py` transcribes those from scratch with a lean Sonnet call (the bake-off's `prompt.md`), and writes the same files a dots.mocr page has, plus a `.source` marker. That way assembly and proofreading need no special case. Of the 96, 66 have text, 24 are blank leaves, and 6 are scans whose print cannot be read (faded, grey, one with a hand over the page). One of those 6 is covered by a retaken capture, which leaves **5 real gaps**; all are listed in [`gaps.tsv`](gaps.tsv) with the blank leaves Claude described. Claude first answered the unreadable pages in prose ("I can't transcribe this page…"). The prompt now asks for an `unreadable` marker, and prose is caught either way, so neither reaches a draft.
 2. **Claude Sonnet proofreads each draft** through the Claude Code subscription: one lean `claude -p` call per page, with the page cropped to its text, returning only a list of fixes. The result scores 0.03% character error with italics restored, slightly better than Sonnet transcribing alone (0.04%). It costs about $0.03 per page at API rates, around $770 for the set, paid from subscription limits.
 
 **The pilot is in the corpus (2026-10-19):** *Enarratio in Genesim* (vol. 1, pp. 1–469) as `content/books/denis-opera-omnia/commentaries/genesis/`: the preface and 103 articles, about 248,000 words, with the table of contents grouped by chapter of Genesis. See [The Genesis pilot](#the-genesis-pilot).
@@ -38,7 +38,7 @@ Five pages from five volumes: a faded commentary page (vol. 1), the Psalms (6), 
 
 ## The Claude check
 
-On the subscription, the budget is usage limits, not dollars. That changed the design, because the cost of an agent is dominated by its own setup. All figures are from each call's own usage records, priced at API rates as a common yardstick.
+On the subscription, the budget is usage limits, not dollars. That changed the design, because the cost of an agent is dominated by its own setup. All figures are from each call's own usage records, priced at API rates as a common yardstick (`agent_tokens.py` totals a subagent's transcript; `claude -p` reports its usage directly).
 
 | Setup | CER | Cost per page |
 | --- | --- | --- |
@@ -87,10 +87,11 @@ journalctl --user -u denis-ocr -f      # or: tail -f ~/ember-data/denis-carthusi
 
 ## Still open
 
-- **The pilot volume, and what the check costs in limits.** `/usage` reports whole percentages and other sessions share the limit, so the conversion needs a run of several hundred pages.
-- **Mistral OCR 4.1** is untested (no key yet). `ocr_mistral.py` is ready. At about $2–3.5 per 1,000 pages, it would be worth having if it keeps italics.
-- **Volumes 37–41 and 14bis** need HathiTrust access from a US address, or another copy of the scans.
-- **Splitting the set into books.** One book per work, not per volume: the minor works (vols. 33–41) hold about 150 treatises. The Latin is the canonical language; there are no translations.
+- **Proofreading the rest (~27,700 pages).** About 240 pages use 1% of the weekly allowance, so the whole set is roughly one week's allowance. It needs a pace (a share per week) and an order (the commentaries in Bible order, or the minor works first) before `check_pages.py` runs at scale.
+- **Volumes 37, 40 and 14bis** are only reachable from a US address. 37 and 40 are on Google Books as `1sgVCSrpHzwC` and `4asOlgsHwWEC`, with full view and a PDF download in the US; 14bis is on HathiTrust as `coo.31924065775227`. From Brazil, Google reports both as not public domain.
+- **Gaps.** `gaps.tsv` lists every leaf with no usable text: blank leaves, and unreadable scans with the printed page numbers around them. The unreadable ones that are not covered by a retaken capture need the page from another copy (HathiTrust's Cornell scans, or Google's). Assembly flags them too, as a skip in the page numbers.
+- **Mistral OCR 4.1** is untested (no key). `ocr_mistral.py` is ready. At about $2–3.5 per 1,000 pages, it would be worth trying if it keeps italics.
+- **Splitting the set into books.** One book per work, not per volume: the minor works (vols. 33–41) hold about 150 treatises. Each needs a `works/<slug>.json` like `works/genesis.json`. The Latin is the canonical language; there are no translations.
 
 ## Files and how to run them
 

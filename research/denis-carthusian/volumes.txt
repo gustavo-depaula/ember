@@ -1,39 +1,40 @@
-operaomniainunum01deni 802
-operaomniainunum02deni 794
-operaomniainunum03deni 814
-operaomniainunum04deni 768
-operaomniainunum05deni 774
-operaomniainunum06deni 786
-operaomniainunum07deni 662
-operaomniainunum08deni 748
-operaomniainunum09deni 756
-operaomniainunum10deni 802
-operaomniainunum11deni 712
-operaomniainunum12deni 702
-operaomniainunum13deni 794
-operaomniainunum14deni 778
-operaomniainunu15deni 798
-operaomniainunu16deni 718
-operaomniainunu17deni 582
-operaomniainunu18deni 590
-operaomniainunu19deni 630
-operaomniainunu20deni 710
-operaomniainunu21deni 610
-operaomniainunu22deni 638
-operaomniainunum23deni 700
-operaomniainunum24deni 650
-operaomniainunum25deni 636
-operaomniainunum26deni 758
-operaomniainunum27deni 518
-operaomniainunum28deni 674
-operaomniainunum29deni 676
-operaomniainunum30deni 718
-operaomniainunum31deni 674
-operaomniainunu32deni 752
-doctorisecstati05unkngoog 679
-doctorisecstati10unkngoog 675
-doctorisecstati02unkngoog 715
-doctorisecstati03unkngoog 817
-operaomnia38deni 708
-operaomnia39deni 750
-operaomnia41deni_0 766
+# Internet Archive id, page images, Tomus. 37, 40 and 14bis are not on the archive (see README).
+operaomniainunum01deni 802 1
+operaomniainunum02deni 794 2
+operaomniainunum03deni 814 3
+operaomniainunum04deni 768 4
+operaomniainunum05deni 774 5
+operaomniainunum06deni 786 6
+operaomniainunum07deni 662 7
+operaomniainunum08deni 748 8
+operaomniainunum09deni 756 9
+operaomniainunum10deni 802 10
+operaomniainunum11deni 712 11
+operaomniainunum12deni 702 12
+operaomniainunum13deni 794 13
+operaomniainunum14deni 778 14
+operaomniainunu15deni 798 15
+operaomniainunu16deni 718 16
+operaomniainunu17deni 582 17
+operaomniainunu18deni 590 18
+operaomniainunu19deni 630 19
+operaomniainunu20deni 710 20
+operaomniainunu21deni 610 21
+operaomniainunu22deni 638 22
+operaomniainunum23deni 700 23
+operaomniainunum24deni 650 24
+operaomniainunum25deni 636 25
+operaomniainunum26deni 758 26
+operaomniainunum27deni 518 27
+operaomniainunum28deni 674 28
+operaomniainunum29deni 676 29
+operaomniainunum30deni 718 30
+operaomniainunum31deni 674 31
+operaomniainunu32deni 752 32
+doctorisecstati05unkngoog 679 33
+doctorisecstati10unkngoog 675 34
+doctorisecstati02unkngoog 715 35
+doctorisecstati03unkngoog 817 36
+operaomnia38deni 708 38
+operaomnia39deni 750 39
+operaomnia41deni_0 766 41

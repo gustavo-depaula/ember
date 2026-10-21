@@ -9,7 +9,7 @@ StartLimitBurst=5
 
 [Service]
 Type=simple
-ExecStart=%h/Documents/ember/.claude/worktrees/bridge-cse_01JRg9EA6b5WHThBdtG4ivyc/research/denis-carthusian/pipeline.sh
+ExecStart=%h/Documents/ember/research/denis-carthusian/pipeline.sh
 Restart=on-failure
 RestartSec=60
 # Let in-flight pages finish writing before vLLM is torn down.
