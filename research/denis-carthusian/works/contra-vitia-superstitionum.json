@@ -1,0 +1,58 @@
+{
+  "parts": [
+    {
+      "volume": "doctorisecstati03unkngoog",
+      "leaves": [
+        "0228",
+        "0229",
+        "0230",
+        "0231",
+        "0232",
+        "0233",
+        "0234",
+        "0235",
+        "0236",
+        "0237",
+        "0238",
+        "0239",
+        "0240",
+        "0241",
+        "0242",
+        "0243",
+        "0244",
+        "0245",
+        "0246",
+        "0247"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/contra-vitia-superstitionum",
+  "slug": "contra-vitia-superstitionum",
+  "draft": true,
+  "meta": {
+    "id": "denis-contra-vitia-superstitionum",
+    "cover": "label",
+    "name": {
+      "la": "Contra vitia superstitionum",
+      "en-US": "Against the Vices of Superstition",
+      "pt-BR": "Contra os vícios das superstições"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Contra vitia superstitionum.",
+      "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/doctorisecstati03unkngoog",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVI (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  }
+}

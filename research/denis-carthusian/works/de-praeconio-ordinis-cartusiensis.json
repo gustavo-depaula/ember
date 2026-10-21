@@ -1,0 +1,64 @@
+{
+  "parts": [
+    {
+      "volume": "operaomnia38deni",
+      "leaves": [
+        "0424",
+        "0425",
+        "0426",
+        "0427",
+        "0428",
+        "0429",
+        "0430",
+        "0431",
+        "0432",
+        "0433",
+        "0434",
+        "0435",
+        "0436",
+        "0437",
+        "0438",
+        "0439",
+        "0440",
+        "0441",
+        "0442",
+        "0443",
+        "0444",
+        "0445",
+        "0446",
+        "0447",
+        "0448",
+        "0449"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-praeconio-ordinis-cartusiensis",
+  "slug": "de-praeconio-ordinis-cartusiensis",
+  "draft": true,
+  "meta": {
+    "id": "denis-de-praeconio-ordinis-cartusiensis",
+    "cover": "label",
+    "name": {
+      "la": "De præconio sive laude Ordinis Cartusiensis",
+      "en-US": "In Praise of the Carthusian Order",
+      "pt-BR": "Em louvor da Ordem Cartuxa"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De præconio sive laude Ordinis Cartusiensis.",
+      "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomnia38deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  }
+}

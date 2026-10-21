@@ -1,0 +1,587 @@
+{
+  "id": "denis-expositio-hymnorum",
+  "cover": "label",
+  "name": {
+    "la": "Expositio hymnorum",
+    "en-US": "Commentary on the Hymns",
+    "pt-BR": "Comentário aos hinos"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "Expositio hymnorum.",
+    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisecstati02unkngoog",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Initium",
+        "en-US": "Opening",
+        "pt-BR": "Abertura"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Proœmium",
+        "en-US": "Proem",
+        "pt-BR": "Proêmio"
+      }
+    },
+    {
+      "id": "g001",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c003",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g002",
+      "title": {
+        "la": "In nativitate Domini",
+        "en-US": "In nativitate Domini",
+        "pt-BR": "In nativitate Domini"
+      },
+      "children": [
+        {
+          "id": "c004",
+          "title": {
+            "la": "In nativitate Domini",
+            "en-US": "In nativitate Domini",
+            "pt-BR": "In nativitate Domini"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g003",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c005",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g004",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c006",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g005",
+      "title": {
+        "la": "Dominica in passione",
+        "en-US": "Dominica in passione",
+        "pt-BR": "Dominica in passione"
+      },
+      "children": [
+        {
+          "id": "c007",
+          "title": {
+            "la": "Dominica in passione",
+            "en-US": "Dominica in passione",
+            "pt-BR": "Dominica in passione"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g006",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c008",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g007",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c009",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g008",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c010",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g009",
+      "title": {
+        "la": "In die Pentecostes",
+        "en-US": "In die Pentecostes",
+        "pt-BR": "In die Pentecostes"
+      },
+      "children": [
+        {
+          "id": "c011",
+          "title": {
+            "la": "In die Pentecostes",
+            "en-US": "In die Pentecostes",
+            "pt-BR": "In die Pentecostes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g010",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c012",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g011",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c013",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g012",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c014",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g013",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c015",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g014",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c016",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g015",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c017",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g016",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c018",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g017",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c019",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g018",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c020",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g019",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c021",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g020",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c022",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g021",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c023",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g022",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c024",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g023",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c025",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g024",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c026",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g025",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c027",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g026",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c028",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g027",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c029",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g028",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c030",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g029",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c031",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g030",
+      "title": {
+        "la": "Expositio hymni",
+        "en-US": "Expositio hymni",
+        "pt-BR": "Expositio hymni"
+      },
+      "children": [
+        {
+          "id": "c032",
+          "title": {
+            "la": "Expositio hymni",
+            "en-US": "Expositio hymni",
+            "pt-BR": "Expositio hymni"
+          }
+        }
+      ]
+    }
+  ]
+}

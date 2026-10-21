@@ -1,0 +1,61 @@
+{
+  "parts": [
+    {
+      "volume": "operaomnia38deni",
+      "leaves": [
+        "0170",
+        "0171",
+        "0172",
+        "0173",
+        "0174",
+        "0175",
+        "0176",
+        "0177",
+        "0178",
+        "0179",
+        "0180",
+        "0181",
+        "0182",
+        "0183",
+        "0184",
+        "0185",
+        "0186",
+        "0187",
+        "0188",
+        "0189",
+        "0190",
+        "0191",
+        "0192"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-vita-virginum",
+  "slug": "de-vita-virginum",
+  "draft": true,
+  "meta": {
+    "id": "denis-de-vita-virginum",
+    "cover": "label",
+    "name": {
+      "la": "De laudabili vita virginum",
+      "en-US": "On the Praiseworthy Life of Virgins",
+      "pt-BR": "Sobre a vida louvável das virgens"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De laudabili vita virginum.",
+      "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomnia38deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "parts": [
+    {
+      "volume": "doctorisecstati02unkngoog",
+      "leaves": [
+        "0470",
+        "0471",
+        "0472",
+        "0473",
+        "0474",
+        "0475",
+        "0476",
+        "0477",
+        "0478",
+        "0479",
+        "0480",
+        "0481",
+        "0482",
+        "0483",
+        "0484",
+        "0485",
+        "0486",
+        "0487",
+        "0488",
+        "0489",
+        "0490",
+        "0491",
+        "0492",
+        "0493",
+        "0494",
+        "0495",
+        "0496"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-sacramento-eucharistiae-sermones",
+  "slug": "de-sacramento-eucharistiae-sermones",
+  "draft": true,
+  "meta": {
+    "id": "denis-de-sacramento-eucharistiae-sermones",
+    "cover": "label",
+    "name": {
+      "la": "De sacramento Eucharistiæ sermones sex",
+      "en-US": "Six Sermons on the Sacrament of the Eucharist",
+      "pt-BR": "Seis sermões sobre o Sacramento da Eucaristia"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De sacramento Eucharistiæ sermones sex.",
+      "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/doctorisecstati02unkngoog",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  }
+}

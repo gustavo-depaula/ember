@@ -1,0 +1,3159 @@
+{
+  "id": "denis-in-i-sententiarum",
+  "cover": "label",
+  "name": {
+    "la": "In librum I Sententiarum",
+    "en-US": "On the First Book of the Sentences",
+    "pt-BR": "Sobre o primeiro livro das Sentenças"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "In librum I Sententiarum.",
+    "en-US": "A theological work of Denis the Carthusian. Uncorrected OCR text: not yet proofread against the scans.",
+    "pt-BR": "Uma obra teológica de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniainunu19deni",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XIX, XX (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Initium",
+        "en-US": "Opening",
+        "pt-BR": "Abertura"
+      }
+    },
+    {
+      "id": "g001",
+      "title": {
+        "la": "Distinctio 1",
+        "en-US": "Distinction 1",
+        "pt-BR": "Distinção 1"
+      },
+      "children": [
+        {
+          "id": "c002",
+          "title": {
+            "la": "Distinctio 1",
+            "en-US": "Distinction 1",
+            "pt-BR": "Distinção 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g002",
+      "title": {
+        "la": "Distinctio 2",
+        "en-US": "Distinction 2",
+        "pt-BR": "Distinção 2"
+      },
+      "children": [
+        {
+          "id": "c003",
+          "title": {
+            "la": "Distinctio 2",
+            "en-US": "Distinction 2",
+            "pt-BR": "Distinção 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g003",
+      "title": {
+        "la": "Distinctio 3",
+        "en-US": "Distinction 3",
+        "pt-BR": "Distinção 3"
+      },
+      "children": [
+        {
+          "id": "c004",
+          "title": {
+            "la": "Distinctio 3",
+            "en-US": "Distinction 3",
+            "pt-BR": "Distinção 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g004",
+      "title": {
+        "la": "Distinctio 4",
+        "en-US": "Distinction 4",
+        "pt-BR": "Distinção 4"
+      },
+      "children": [
+        {
+          "id": "c005",
+          "title": {
+            "la": "Distinctio 4",
+            "en-US": "Distinction 4",
+            "pt-BR": "Distinção 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g005",
+      "title": {
+        "la": "Distinctio 5",
+        "en-US": "Distinction 5",
+        "pt-BR": "Distinção 5"
+      },
+      "children": [
+        {
+          "id": "c006",
+          "title": {
+            "la": "Distinctio 5",
+            "en-US": "Distinction 5",
+            "pt-BR": "Distinção 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g006",
+      "title": {
+        "la": "Distinctio 6",
+        "en-US": "Distinction 6",
+        "pt-BR": "Distinção 6"
+      },
+      "children": [
+        {
+          "id": "c007",
+          "title": {
+            "la": "Distinctio 6",
+            "en-US": "Distinction 6",
+            "pt-BR": "Distinção 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g007",
+      "title": {
+        "la": "Distinctio 7",
+        "en-US": "Distinction 7",
+        "pt-BR": "Distinção 7"
+      },
+      "children": [
+        {
+          "id": "c008",
+          "title": {
+            "la": "Distinctio 7",
+            "en-US": "Distinction 7",
+            "pt-BR": "Distinção 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g008",
+      "title": {
+        "la": "Distinctio 8",
+        "en-US": "Distinction 8",
+        "pt-BR": "Distinção 8"
+      },
+      "children": [
+        {
+          "id": "c009",
+          "title": {
+            "la": "Distinctio 8",
+            "en-US": "Distinction 8",
+            "pt-BR": "Distinção 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g009",
+      "title": {
+        "la": "Distinctio 9",
+        "en-US": "Distinction 9",
+        "pt-BR": "Distinção 9"
+      },
+      "children": [
+        {
+          "id": "c010",
+          "title": {
+            "la": "Distinctio 9",
+            "en-US": "Distinction 9",
+            "pt-BR": "Distinção 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g010",
+      "title": {
+        "la": "Distinctio 10",
+        "en-US": "Distinction 10",
+        "pt-BR": "Distinção 10"
+      },
+      "children": [
+        {
+          "id": "c011",
+          "title": {
+            "la": "Distinctio 10",
+            "en-US": "Distinction 10",
+            "pt-BR": "Distinção 10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g011",
+      "title": {
+        "la": "Distinctio 11",
+        "en-US": "Distinction 11",
+        "pt-BR": "Distinção 11"
+      },
+      "children": [
+        {
+          "id": "c012",
+          "title": {
+            "la": "Distinctio 11",
+            "en-US": "Distinction 11",
+            "pt-BR": "Distinção 11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g012",
+      "title": {
+        "la": "Distinctio 12",
+        "en-US": "Distinction 12",
+        "pt-BR": "Distinção 12"
+      },
+      "children": [
+        {
+          "id": "c013",
+          "title": {
+            "la": "Distinctio 12",
+            "en-US": "Distinction 12",
+            "pt-BR": "Distinção 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g013",
+      "title": {
+        "la": "Distinctio 13",
+        "en-US": "Distinction 13",
+        "pt-BR": "Distinção 13"
+      },
+      "children": [
+        {
+          "id": "c014",
+          "title": {
+            "la": "Distinctio 13",
+            "en-US": "Distinction 13",
+            "pt-BR": "Distinção 13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g014",
+      "title": {
+        "la": "Distinctio 14",
+        "en-US": "Distinction 14",
+        "pt-BR": "Distinção 14"
+      },
+      "children": [
+        {
+          "id": "c015",
+          "title": {
+            "la": "Distinctio 14",
+            "en-US": "Distinction 14",
+            "pt-BR": "Distinção 14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g015",
+      "title": {
+        "la": "Distinctio 15",
+        "en-US": "Distinction 15",
+        "pt-BR": "Distinção 15"
+      },
+      "children": [
+        {
+          "id": "c016",
+          "title": {
+            "la": "Distinctio 15",
+            "en-US": "Distinction 15",
+            "pt-BR": "Distinção 15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g016",
+      "title": {
+        "la": "Distinctio 16",
+        "en-US": "Distinction 16",
+        "pt-BR": "Distinção 16"
+      },
+      "children": [
+        {
+          "id": "c017",
+          "title": {
+            "la": "Distinctio 16",
+            "en-US": "Distinction 16",
+            "pt-BR": "Distinção 16"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g017",
+      "title": {
+        "la": "Distinctio 17",
+        "en-US": "Distinction 17",
+        "pt-BR": "Distinção 17"
+      },
+      "children": [
+        {
+          "id": "c018",
+          "title": {
+            "la": "Distinctio 17",
+            "en-US": "Distinction 17",
+            "pt-BR": "Distinção 17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g018",
+      "title": {
+        "la": "Distinctio 18",
+        "en-US": "Distinction 18",
+        "pt-BR": "Distinção 18"
+      },
+      "children": [
+        {
+          "id": "c019",
+          "title": {
+            "la": "Distinctio 18",
+            "en-US": "Distinction 18",
+            "pt-BR": "Distinção 18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g019",
+      "title": {
+        "la": "Distinctio 19",
+        "en-US": "Distinction 19",
+        "pt-BR": "Distinção 19"
+      },
+      "children": [
+        {
+          "id": "c020",
+          "title": {
+            "la": "Distinctio 19",
+            "en-US": "Distinction 19",
+            "pt-BR": "Distinção 19"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g020",
+      "title": {
+        "la": "Distinctio 20",
+        "en-US": "Distinction 20",
+        "pt-BR": "Distinção 20"
+      },
+      "children": [
+        {
+          "id": "c021",
+          "title": {
+            "la": "Distinctio 20",
+            "en-US": "Distinction 20",
+            "pt-BR": "Distinção 20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g021",
+      "title": {
+        "la": "Distinctio 21",
+        "en-US": "Distinction 21",
+        "pt-BR": "Distinção 21"
+      },
+      "children": [
+        {
+          "id": "c022",
+          "title": {
+            "la": "Distinctio 21",
+            "en-US": "Distinction 21",
+            "pt-BR": "Distinção 21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g022",
+      "title": {
+        "la": "Distinctio 22",
+        "en-US": "Distinction 22",
+        "pt-BR": "Distinção 22"
+      },
+      "children": [
+        {
+          "id": "c023",
+          "title": {
+            "la": "Distinctio 22",
+            "en-US": "Distinction 22",
+            "pt-BR": "Distinção 22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g023",
+      "title": {
+        "la": "Distinctio 23",
+        "en-US": "Distinction 23",
+        "pt-BR": "Distinção 23"
+      },
+      "children": [
+        {
+          "id": "c024",
+          "title": {
+            "la": "Distinctio 23",
+            "en-US": "Distinction 23",
+            "pt-BR": "Distinção 23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g024",
+      "title": {
+        "la": "Distinctio 24",
+        "en-US": "Distinction 24",
+        "pt-BR": "Distinção 24"
+      },
+      "children": [
+        {
+          "id": "c025",
+          "title": {
+            "la": "Distinctio 24",
+            "en-US": "Distinction 24",
+            "pt-BR": "Distinção 24"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g025",
+      "title": {
+        "la": "Distinctio 25",
+        "en-US": "Distinction 25",
+        "pt-BR": "Distinção 25"
+      },
+      "children": [
+        {
+          "id": "c026",
+          "title": {
+            "la": "Distinctio 25",
+            "en-US": "Distinction 25",
+            "pt-BR": "Distinção 25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g026",
+      "title": {
+        "la": "Distinctio 26",
+        "en-US": "Distinction 26",
+        "pt-BR": "Distinção 26"
+      },
+      "children": [
+        {
+          "id": "c027",
+          "title": {
+            "la": "Distinctio 26",
+            "en-US": "Distinction 26",
+            "pt-BR": "Distinção 26"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g027",
+      "title": {
+        "la": "Distinctio 27",
+        "en-US": "Distinction 27",
+        "pt-BR": "Distinção 27"
+      },
+      "children": [
+        {
+          "id": "c028",
+          "title": {
+            "la": "Distinctio 27",
+            "en-US": "Distinction 27",
+            "pt-BR": "Distinção 27"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g028",
+      "title": {
+        "la": "Distinctio 28",
+        "en-US": "Distinction 28",
+        "pt-BR": "Distinção 28"
+      },
+      "children": [
+        {
+          "id": "c029",
+          "title": {
+            "la": "Distinctio 28",
+            "en-US": "Distinction 28",
+            "pt-BR": "Distinção 28"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g029",
+      "title": {
+        "la": "Distinctio 29",
+        "en-US": "Distinction 29",
+        "pt-BR": "Distinção 29"
+      },
+      "children": [
+        {
+          "id": "c030",
+          "title": {
+            "la": "Distinctio 29",
+            "en-US": "Distinction 29",
+            "pt-BR": "Distinção 29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g030",
+      "title": {
+        "la": "Distinctio 30",
+        "en-US": "Distinction 30",
+        "pt-BR": "Distinção 30"
+      },
+      "children": [
+        {
+          "id": "c031",
+          "title": {
+            "la": "Distinctio 30",
+            "en-US": "Distinction 30",
+            "pt-BR": "Distinção 30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g031",
+      "title": {
+        "la": "Distinctio 31",
+        "en-US": "Distinction 31",
+        "pt-BR": "Distinção 31"
+      },
+      "children": [
+        {
+          "id": "c032",
+          "title": {
+            "la": "Distinctio 31",
+            "en-US": "Distinction 31",
+            "pt-BR": "Distinção 31"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g032",
+      "title": {
+        "la": "Distinctio 32",
+        "en-US": "Distinction 32",
+        "pt-BR": "Distinção 32"
+      },
+      "children": [
+        {
+          "id": "c033",
+          "title": {
+            "la": "Distinctio 32",
+            "en-US": "Distinction 32",
+            "pt-BR": "Distinção 32"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g033",
+      "title": {
+        "la": "Distinctio 33",
+        "en-US": "Distinction 33",
+        "pt-BR": "Distinção 33"
+      },
+      "children": [
+        {
+          "id": "c034",
+          "title": {
+            "la": "Distinctio 33",
+            "en-US": "Distinction 33",
+            "pt-BR": "Distinção 33"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g034",
+      "title": {
+        "la": "Distinctio 34",
+        "en-US": "Distinction 34",
+        "pt-BR": "Distinção 34"
+      },
+      "children": [
+        {
+          "id": "c035",
+          "title": {
+            "la": "Distinctio 34",
+            "en-US": "Distinction 34",
+            "pt-BR": "Distinção 34"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g035",
+      "title": {
+        "la": "Distinctio 35",
+        "en-US": "Distinction 35",
+        "pt-BR": "Distinção 35"
+      },
+      "children": [
+        {
+          "id": "c036",
+          "title": {
+            "la": "Distinctio 35",
+            "en-US": "Distinction 35",
+            "pt-BR": "Distinção 35"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g036",
+      "title": {
+        "la": "Distinctio 36",
+        "en-US": "Distinction 36",
+        "pt-BR": "Distinção 36"
+      },
+      "children": [
+        {
+          "id": "c037",
+          "title": {
+            "la": "Distinctio 36",
+            "en-US": "Distinction 36",
+            "pt-BR": "Distinção 36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g037",
+      "title": {
+        "la": "Distinctio 37",
+        "en-US": "Distinction 37",
+        "pt-BR": "Distinção 37"
+      },
+      "children": [
+        {
+          "id": "c038",
+          "title": {
+            "la": "Distinctio 37",
+            "en-US": "Distinction 37",
+            "pt-BR": "Distinção 37"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g038",
+      "title": {
+        "la": "Distinctio 38",
+        "en-US": "Distinction 38",
+        "pt-BR": "Distinção 38"
+      },
+      "children": [
+        {
+          "id": "c039",
+          "title": {
+            "la": "Distinctio 38",
+            "en-US": "Distinction 38",
+            "pt-BR": "Distinção 38"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g039",
+      "title": {
+        "la": "Distinctio 39",
+        "en-US": "Distinction 39",
+        "pt-BR": "Distinção 39"
+      },
+      "children": [
+        {
+          "id": "c040",
+          "title": {
+            "la": "Distinctio 39",
+            "en-US": "Distinction 39",
+            "pt-BR": "Distinção 39"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g040",
+      "title": {
+        "la": "Distinctio 40",
+        "en-US": "Distinction 40",
+        "pt-BR": "Distinção 40"
+      },
+      "children": [
+        {
+          "id": "c041",
+          "title": {
+            "la": "Distinctio 40",
+            "en-US": "Distinction 40",
+            "pt-BR": "Distinção 40"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g041",
+      "title": {
+        "la": "Distinctio 41",
+        "en-US": "Distinction 41",
+        "pt-BR": "Distinção 41"
+      },
+      "children": [
+        {
+          "id": "c042",
+          "title": {
+            "la": "Distinctio 41",
+            "en-US": "Distinction 41",
+            "pt-BR": "Distinção 41"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g042",
+      "title": {
+        "la": "Distinctio 42",
+        "en-US": "Distinction 42",
+        "pt-BR": "Distinção 42"
+      },
+      "children": [
+        {
+          "id": "c043",
+          "title": {
+            "la": "Distinctio 42",
+            "en-US": "Distinction 42",
+            "pt-BR": "Distinção 42"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g043",
+      "title": {
+        "la": "Distinctio 43",
+        "en-US": "Distinction 43",
+        "pt-BR": "Distinção 43"
+      },
+      "children": [
+        {
+          "id": "c044",
+          "title": {
+            "la": "Distinctio 43",
+            "en-US": "Distinction 43",
+            "pt-BR": "Distinção 43"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g044",
+      "title": {
+        "la": "Distinctio 44",
+        "en-US": "Distinction 44",
+        "pt-BR": "Distinção 44"
+      },
+      "children": [
+        {
+          "id": "c045",
+          "title": {
+            "la": "Distinctio 44",
+            "en-US": "Distinction 44",
+            "pt-BR": "Distinção 44"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g045",
+      "title": {
+        "la": "Distinctio 45",
+        "en-US": "Distinction 45",
+        "pt-BR": "Distinção 45"
+      },
+      "children": [
+        {
+          "id": "c046",
+          "title": {
+            "la": "Distinctio 45",
+            "en-US": "Distinction 45",
+            "pt-BR": "Distinção 45"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g046",
+      "title": {
+        "la": "Distinctio 46",
+        "en-US": "Distinction 46",
+        "pt-BR": "Distinção 46"
+      },
+      "children": [
+        {
+          "id": "c047",
+          "title": {
+            "la": "Distinctio 46",
+            "en-US": "Distinction 46",
+            "pt-BR": "Distinção 46"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g047",
+      "title": {
+        "la": "Distinctio 47",
+        "en-US": "Distinction 47",
+        "pt-BR": "Distinção 47"
+      },
+      "children": [
+        {
+          "id": "c048",
+          "title": {
+            "la": "Distinctio 47",
+            "en-US": "Distinction 47",
+            "pt-BR": "Distinção 47"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g048",
+      "title": {
+        "la": "Distinctio 48",
+        "en-US": "Distinction 48",
+        "pt-BR": "Distinção 48"
+      },
+      "children": [
+        {
+          "id": "c049",
+          "title": {
+            "la": "Distinctio 48",
+            "en-US": "Distinction 48",
+            "pt-BR": "Distinção 48"
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Proœmium",
+            "en-US": "Proem",
+            "pt-BR": "Proêmio"
+          }
+        },
+        {
+          "id": "c051",
+          "title": {
+            "la": "Prologus",
+            "en-US": "Prologue",
+            "pt-BR": "Prólogo"
+          }
+        },
+        {
+          "id": "c052",
+          "title": {
+            "la": "Quæstio 1",
+            "en-US": "Question 1",
+            "pt-BR": "Questão 1"
+          }
+        },
+        {
+          "id": "c053",
+          "title": {
+            "la": "Quæstio 2",
+            "en-US": "Question 2",
+            "pt-BR": "Questão 2"
+          }
+        },
+        {
+          "id": "c054",
+          "title": {
+            "la": "Quæstio 3",
+            "en-US": "Question 3",
+            "pt-BR": "Questão 3"
+          }
+        },
+        {
+          "id": "c055",
+          "title": {
+            "la": "Quæstio 4",
+            "en-US": "Question 4",
+            "pt-BR": "Questão 4"
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Quæstio 5",
+            "en-US": "Question 5",
+            "pt-BR": "Questão 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g049",
+      "title": {
+        "la": "Liber 1",
+        "en-US": "Book 1",
+        "pt-BR": "Livro 1"
+      },
+      "children": [
+        {
+          "id": "g050",
+          "title": {
+            "la": "Distinctio 1",
+            "en-US": "Distinction 1",
+            "pt-BR": "Distinção 1"
+          },
+          "children": [
+            {
+              "id": "c057",
+              "title": {
+                "la": "Distinctio 1",
+                "en-US": "Distinction 1",
+                "pt-BR": "Distinção 1"
+              }
+            },
+            {
+              "id": "c058",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c059",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c060",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c061",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            },
+            {
+              "id": "c062",
+              "title": {
+                "la": "Quæstio 5",
+                "en-US": "Question 5",
+                "pt-BR": "Questão 5"
+              }
+            },
+            {
+              "id": "c063",
+              "title": {
+                "la": "Quæstio 6",
+                "en-US": "Question 6",
+                "pt-BR": "Questão 6"
+              }
+            },
+            {
+              "id": "c064",
+              "title": {
+                "la": "Quæstio 7",
+                "en-US": "Question 7",
+                "pt-BR": "Questão 7"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g051",
+          "title": {
+            "la": "Distinctio 2",
+            "en-US": "Distinction 2",
+            "pt-BR": "Distinção 2"
+          },
+          "children": [
+            {
+              "id": "c065",
+              "title": {
+                "la": "Distinctio 2",
+                "en-US": "Distinction 2",
+                "pt-BR": "Distinção 2"
+              }
+            },
+            {
+              "id": "c066",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c067",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c068",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c069",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            },
+            {
+              "id": "c070",
+              "title": {
+                "la": "Quæstio 5",
+                "en-US": "Question 5",
+                "pt-BR": "Questão 5"
+              }
+            },
+            {
+              "id": "c071",
+              "title": {
+                "la": "Quæstio 6",
+                "en-US": "Question 6",
+                "pt-BR": "Questão 6"
+              }
+            },
+            {
+              "id": "c072",
+              "title": {
+                "la": "Quæstio 7",
+                "en-US": "Question 7",
+                "pt-BR": "Questão 7"
+              }
+            },
+            {
+              "id": "c073",
+              "title": {
+                "la": "Quæstio 8",
+                "en-US": "Question 8",
+                "pt-BR": "Questão 8"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g052",
+          "title": {
+            "la": "Distinctio 3",
+            "en-US": "Distinction 3",
+            "pt-BR": "Distinção 3"
+          },
+          "children": [
+            {
+              "id": "c074",
+              "title": {
+                "la": "Distinctio 3",
+                "en-US": "Distinction 3",
+                "pt-BR": "Distinção 3"
+              }
+            },
+            {
+              "id": "c075",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c076",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c077",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c078",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            },
+            {
+              "id": "c079",
+              "title": {
+                "la": "Quæstio 5",
+                "en-US": "Question 5",
+                "pt-BR": "Questão 5"
+              }
+            },
+            {
+              "id": "c080",
+              "title": {
+                "la": "Quæstio 6",
+                "en-US": "Question 6",
+                "pt-BR": "Questão 6"
+              }
+            },
+            {
+              "id": "c081",
+              "title": {
+                "la": "Quæstio 7",
+                "en-US": "Question 7",
+                "pt-BR": "Questão 7"
+              }
+            },
+            {
+              "id": "c082",
+              "title": {
+                "la": "Quæstio 8",
+                "en-US": "Question 8",
+                "pt-BR": "Questão 8"
+              }
+            },
+            {
+              "id": "c083",
+              "title": {
+                "la": "Quæstio 9",
+                "en-US": "Question 9",
+                "pt-BR": "Questão 9"
+              }
+            },
+            {
+              "id": "c084",
+              "title": {
+                "la": "Quæstio 10",
+                "en-US": "Question 10",
+                "pt-BR": "Questão 10"
+              }
+            },
+            {
+              "id": "c085",
+              "title": {
+                "la": "Quæstio 11",
+                "en-US": "Question 11",
+                "pt-BR": "Questão 11"
+              }
+            },
+            {
+              "id": "c086",
+              "title": {
+                "la": "Quæstio 12",
+                "en-US": "Question 12",
+                "pt-BR": "Questão 12"
+              }
+            },
+            {
+              "id": "c087",
+              "title": {
+                "la": "Quæstio 13",
+                "en-US": "Question 13",
+                "pt-BR": "Questão 13"
+              }
+            },
+            {
+              "id": "c088",
+              "title": {
+                "la": "Quæstio 14",
+                "en-US": "Question 14",
+                "pt-BR": "Questão 14"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g053",
+          "title": {
+            "la": "Distinctio 4",
+            "en-US": "Distinction 4",
+            "pt-BR": "Distinção 4"
+          },
+          "children": [
+            {
+              "id": "c089",
+              "title": {
+                "la": "Distinctio 4",
+                "en-US": "Distinction 4",
+                "pt-BR": "Distinção 4"
+              }
+            },
+            {
+              "id": "c090",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c091",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g054",
+          "title": {
+            "la": "Distinctio 5",
+            "en-US": "Distinction 5",
+            "pt-BR": "Distinção 5"
+          },
+          "children": [
+            {
+              "id": "c092",
+              "title": {
+                "la": "Distinctio 5",
+                "en-US": "Distinction 5",
+                "pt-BR": "Distinção 5"
+              }
+            },
+            {
+              "id": "c093",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c094",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g055",
+          "title": {
+            "la": "Distinctio 6",
+            "en-US": "Distinction 6",
+            "pt-BR": "Distinção 6"
+          },
+          "children": [
+            {
+              "id": "c095",
+              "title": {
+                "la": "Distinctio 6",
+                "en-US": "Distinction 6",
+                "pt-BR": "Distinção 6"
+              }
+            },
+            {
+              "id": "c096",
+              "title": {
+                "la": "Quæstio unica",
+                "en-US": "Single question",
+                "pt-BR": "Questão única"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g056",
+          "title": {
+            "la": "Distinctio 7",
+            "en-US": "Distinction 7",
+            "pt-BR": "Distinção 7"
+          },
+          "children": [
+            {
+              "id": "c097",
+              "title": {
+                "la": "Distinctio 7",
+                "en-US": "Distinction 7",
+                "pt-BR": "Distinção 7"
+              }
+            },
+            {
+              "id": "c098",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c099",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c100",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g057",
+          "title": {
+            "la": "Distinctio 8",
+            "en-US": "Distinction 8",
+            "pt-BR": "Distinção 8"
+          },
+          "children": [
+            {
+              "id": "c101",
+              "title": {
+                "la": "Distinctio 8",
+                "en-US": "Distinction 8",
+                "pt-BR": "Distinção 8"
+              }
+            },
+            {
+              "id": "c102",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c103",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c104",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c105",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            },
+            {
+              "id": "c106",
+              "title": {
+                "la": "Quæstio 5",
+                "en-US": "Question 5",
+                "pt-BR": "Questão 5"
+              }
+            },
+            {
+              "id": "c107",
+              "title": {
+                "la": "Quæstio 6",
+                "en-US": "Question 6",
+                "pt-BR": "Questão 6"
+              }
+            },
+            {
+              "id": "c108",
+              "title": {
+                "la": "Quæstio 7",
+                "en-US": "Question 7",
+                "pt-BR": "Questão 7"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g058",
+          "title": {
+            "la": "Distinctio 9",
+            "en-US": "Distinction 9",
+            "pt-BR": "Distinção 9"
+          },
+          "children": [
+            {
+              "id": "c109",
+              "title": {
+                "la": "Distinctio 9",
+                "en-US": "Distinction 9",
+                "pt-BR": "Distinção 9"
+              }
+            },
+            {
+              "id": "c110",
+              "title": {
+                "la": "Quæstio unica",
+                "en-US": "Single question",
+                "pt-BR": "Questão única"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g059",
+          "title": {
+            "la": "Distinctio 10",
+            "en-US": "Distinction 10",
+            "pt-BR": "Distinção 10"
+          },
+          "children": [
+            {
+              "id": "c111",
+              "title": {
+                "la": "Distinctio 10",
+                "en-US": "Distinction 10",
+                "pt-BR": "Distinção 10"
+              }
+            },
+            {
+              "id": "c112",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c113",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g060",
+          "title": {
+            "la": "Distinctio 11",
+            "en-US": "Distinction 11",
+            "pt-BR": "Distinção 11"
+          },
+          "children": [
+            {
+              "id": "c114",
+              "title": {
+                "la": "Distinctio 11",
+                "en-US": "Distinction 11",
+                "pt-BR": "Distinção 11"
+              }
+            },
+            {
+              "id": "c115",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c116",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c117",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g061",
+          "title": {
+            "la": "Distinctio 12",
+            "en-US": "Distinction 12",
+            "pt-BR": "Distinção 12"
+          },
+          "children": [
+            {
+              "id": "c118",
+              "title": {
+                "la": "Distinctio 12",
+                "en-US": "Distinction 12",
+                "pt-BR": "Distinção 12"
+              }
+            },
+            {
+              "id": "c119",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c120",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g062",
+          "title": {
+            "la": "Distinctio 13",
+            "en-US": "Distinction 13",
+            "pt-BR": "Distinção 13"
+          },
+          "children": [
+            {
+              "id": "c121",
+              "title": {
+                "la": "Distinctio 13",
+                "en-US": "Distinction 13",
+                "pt-BR": "Distinção 13"
+              }
+            },
+            {
+              "id": "c122",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c123",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c124",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g063",
+          "title": {
+            "la": "Distinctio 14",
+            "en-US": "Distinction 14",
+            "pt-BR": "Distinção 14"
+          },
+          "children": [
+            {
+              "id": "c125",
+              "title": {
+                "la": "Distinctio 14",
+                "en-US": "Distinction 14",
+                "pt-BR": "Distinção 14"
+              }
+            },
+            {
+              "id": "c126",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c127",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g064",
+          "title": {
+            "la": "Distinctio 15",
+            "en-US": "Distinction 15",
+            "pt-BR": "Distinção 15"
+          },
+          "children": [
+            {
+              "id": "c128",
+              "title": {
+                "la": "Distinctio 15",
+                "en-US": "Distinction 15",
+                "pt-BR": "Distinção 15"
+              }
+            },
+            {
+              "id": "c129",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c130",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c131",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c132",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            },
+            {
+              "id": "c133",
+              "title": {
+                "la": "Quæstio 5",
+                "en-US": "Question 5",
+                "pt-BR": "Questão 5"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g065",
+          "title": {
+            "la": "Distinctio 16",
+            "en-US": "Distinction 16",
+            "pt-BR": "Distinção 16"
+          },
+          "children": [
+            {
+              "id": "c134",
+              "title": {
+                "la": "Distinctio 16",
+                "en-US": "Distinction 16",
+                "pt-BR": "Distinção 16"
+              }
+            },
+            {
+              "id": "c135",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c136",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c137",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c138",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c139",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c140",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c141",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            },
+            {
+              "id": "c142",
+              "title": {
+                "la": "Quæstio 5",
+                "en-US": "Question 5",
+                "pt-BR": "Questão 5"
+              }
+            },
+            {
+              "id": "c143",
+              "title": {
+                "la": "Quæstio 6",
+                "en-US": "Question 6",
+                "pt-BR": "Questão 6"
+              }
+            },
+            {
+              "id": "c144",
+              "title": {
+                "la": "Quæstio 7",
+                "en-US": "Question 7",
+                "pt-BR": "Questão 7"
+              }
+            },
+            {
+              "id": "c145",
+              "title": {
+                "la": "Quæstio 8",
+                "en-US": "Question 8",
+                "pt-BR": "Questão 8"
+              }
+            },
+            {
+              "id": "c146",
+              "title": {
+                "la": "Quæstio 9",
+                "en-US": "Question 9",
+                "pt-BR": "Questão 9"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g066",
+          "title": {
+            "la": "Distinctio 18",
+            "en-US": "Distinction 18",
+            "pt-BR": "Distinção 18"
+          },
+          "children": [
+            {
+              "id": "c147",
+              "title": {
+                "la": "Distinctio 18",
+                "en-US": "Distinction 18",
+                "pt-BR": "Distinção 18"
+              }
+            },
+            {
+              "id": "c148",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c149",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c150",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c151",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g067",
+          "title": {
+            "la": "Distinctio 19",
+            "en-US": "Distinction 19",
+            "pt-BR": "Distinção 19"
+          },
+          "children": [
+            {
+              "id": "c152",
+              "title": {
+                "la": "Distinctio 19",
+                "en-US": "Distinction 19",
+                "pt-BR": "Distinção 19"
+              }
+            },
+            {
+              "id": "c153",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c154",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c155",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g068",
+          "title": {
+            "la": "Distinctio 20",
+            "en-US": "Distinction 20",
+            "pt-BR": "Distinção 20"
+          },
+          "children": [
+            {
+              "id": "c156",
+              "title": {
+                "la": "Distinctio 20",
+                "en-US": "Distinction 20",
+                "pt-BR": "Distinção 20"
+              }
+            },
+            {
+              "id": "c157",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g069",
+          "title": {
+            "la": "Distinctio 21",
+            "en-US": "Distinction 21",
+            "pt-BR": "Distinção 21"
+          },
+          "children": [
+            {
+              "id": "c158",
+              "title": {
+                "la": "Distinctio 21",
+                "en-US": "Distinction 21",
+                "pt-BR": "Distinção 21"
+              }
+            },
+            {
+              "id": "c159",
+              "title": {
+                "la": "Quæstio unica",
+                "en-US": "Single question",
+                "pt-BR": "Questão única"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g070",
+          "title": {
+            "la": "Distinctio 22",
+            "en-US": "Distinction 22",
+            "pt-BR": "Distinção 22"
+          },
+          "children": [
+            {
+              "id": "c160",
+              "title": {
+                "la": "Distinctio 22",
+                "en-US": "Distinction 22",
+                "pt-BR": "Distinção 22"
+              }
+            },
+            {
+              "id": "c161",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c162",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c163",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c164",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g071",
+          "title": {
+            "la": "Distinctio 23",
+            "en-US": "Distinction 23",
+            "pt-BR": "Distinção 23"
+          },
+          "children": [
+            {
+              "id": "c165",
+              "title": {
+                "la": "Distinctio 23",
+                "en-US": "Distinction 23",
+                "pt-BR": "Distinção 23"
+              }
+            },
+            {
+              "id": "c166",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c167",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g072",
+          "title": {
+            "la": "Distinctio 24",
+            "en-US": "Distinction 24",
+            "pt-BR": "Distinção 24"
+          },
+          "children": [
+            {
+              "id": "c168",
+              "title": {
+                "la": "Distinctio 24",
+                "en-US": "Distinction 24",
+                "pt-BR": "Distinção 24"
+              }
+            },
+            {
+              "id": "c169",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c170",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c171",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c172",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            },
+            {
+              "id": "c173",
+              "title": {
+                "la": "Quæstio 5",
+                "en-US": "Question 5",
+                "pt-BR": "Questão 5"
+              }
+            },
+            {
+              "id": "c174",
+              "title": {
+                "la": "Quæstio 6",
+                "en-US": "Question 6",
+                "pt-BR": "Questão 6"
+              }
+            },
+            {
+              "id": "c175",
+              "title": {
+                "la": "Quæstio 7",
+                "en-US": "Question 7",
+                "pt-BR": "Questão 7"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g073",
+          "title": {
+            "la": "Distinctio 25",
+            "en-US": "Distinction 25",
+            "pt-BR": "Distinção 25"
+          },
+          "children": [
+            {
+              "id": "c176",
+              "title": {
+                "la": "Distinctio 25",
+                "en-US": "Distinction 25",
+                "pt-BR": "Distinção 25"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g074",
+          "title": {
+            "la": "Distinctio 26",
+            "en-US": "Distinction 26",
+            "pt-BR": "Distinção 26"
+          },
+          "children": [
+            {
+              "id": "c177",
+              "title": {
+                "la": "Distinctio 26",
+                "en-US": "Distinction 26",
+                "pt-BR": "Distinção 26"
+              }
+            },
+            {
+              "id": "c178",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c179",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c180",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c181",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            },
+            {
+              "id": "c182",
+              "title": {
+                "la": "Quæstio 5",
+                "en-US": "Question 5",
+                "pt-BR": "Questão 5"
+              }
+            },
+            {
+              "id": "c183",
+              "title": {
+                "la": "Quæstio 6",
+                "en-US": "Question 6",
+                "pt-BR": "Questão 6"
+              }
+            },
+            {
+              "id": "c184",
+              "title": {
+                "la": "Quæstio 7",
+                "en-US": "Question 7",
+                "pt-BR": "Questão 7"
+              }
+            },
+            {
+              "id": "c185",
+              "title": {
+                "la": "Quæstio 8",
+                "en-US": "Question 8",
+                "pt-BR": "Questão 8"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g075",
+          "title": {
+            "la": "Distinctio 27",
+            "en-US": "Distinction 27",
+            "pt-BR": "Distinção 27"
+          },
+          "children": [
+            {
+              "id": "c186",
+              "title": {
+                "la": "Distinctio 27",
+                "en-US": "Distinction 27",
+                "pt-BR": "Distinção 27"
+              }
+            },
+            {
+              "id": "c187",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c188",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c189",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g076",
+          "title": {
+            "la": "Distinctio 28",
+            "en-US": "Distinction 28",
+            "pt-BR": "Distinção 28"
+          },
+          "children": [
+            {
+              "id": "c190",
+              "title": {
+                "la": "Distinctio 28",
+                "en-US": "Distinction 28",
+                "pt-BR": "Distinção 28"
+              }
+            },
+            {
+              "id": "c191",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c192",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c193",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c194",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g077",
+          "title": {
+            "la": "Distinctio 29",
+            "en-US": "Distinction 29",
+            "pt-BR": "Distinção 29"
+          },
+          "children": [
+            {
+              "id": "c195",
+              "title": {
+                "la": "Distinctio 29",
+                "en-US": "Distinction 29",
+                "pt-BR": "Distinção 29"
+              }
+            },
+            {
+              "id": "c196",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c197",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c198",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g078",
+          "title": {
+            "la": "Distinctio 30",
+            "en-US": "Distinction 30",
+            "pt-BR": "Distinção 30"
+          },
+          "children": [
+            {
+              "id": "c199",
+              "title": {
+                "la": "Distinctio 30",
+                "en-US": "Distinction 30",
+                "pt-BR": "Distinção 30"
+              }
+            },
+            {
+              "id": "c200",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c201",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c202",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g079",
+          "title": {
+            "la": "Distinctio 31",
+            "en-US": "Distinction 31",
+            "pt-BR": "Distinção 31"
+          },
+          "children": [
+            {
+              "id": "c203",
+              "title": {
+                "la": "Distinctio 31",
+                "en-US": "Distinction 31",
+                "pt-BR": "Distinção 31"
+              }
+            },
+            {
+              "id": "c204",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c205",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g080",
+          "title": {
+            "la": "Distinctio 32",
+            "en-US": "Distinction 32",
+            "pt-BR": "Distinção 32"
+          },
+          "children": [
+            {
+              "id": "c206",
+              "title": {
+                "la": "Distinctio 32",
+                "en-US": "Distinction 32",
+                "pt-BR": "Distinção 32"
+              }
+            },
+            {
+              "id": "c207",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c208",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c209",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c210",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g081",
+          "title": {
+            "la": "Distinctio 33",
+            "en-US": "Distinction 33",
+            "pt-BR": "Distinção 33"
+          },
+          "children": [
+            {
+              "id": "c211",
+              "title": {
+                "la": "Distinctio 33",
+                "en-US": "Distinction 33",
+                "pt-BR": "Distinção 33"
+              }
+            },
+            {
+              "id": "c212",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c213",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g082",
+          "title": {
+            "la": "Distinctio 34",
+            "en-US": "Distinction 34",
+            "pt-BR": "Distinção 34"
+          },
+          "children": [
+            {
+              "id": "c214",
+              "title": {
+                "la": "Distinctio 34",
+                "en-US": "Distinction 34",
+                "pt-BR": "Distinção 34"
+              }
+            },
+            {
+              "id": "c215",
+              "title": {
+                "la": "Quæstio unica",
+                "en-US": "Single question",
+                "pt-BR": "Questão única"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g083",
+          "title": {
+            "la": "Distinctio 35",
+            "en-US": "Distinction 35",
+            "pt-BR": "Distinção 35"
+          },
+          "children": [
+            {
+              "id": "c216",
+              "title": {
+                "la": "Distinctio 35",
+                "en-US": "Distinction 35",
+                "pt-BR": "Distinção 35"
+              }
+            },
+            {
+              "id": "c217",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c218",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g084",
+          "title": {
+            "la": "Distinctio 36",
+            "en-US": "Distinction 36",
+            "pt-BR": "Distinção 36"
+          },
+          "children": [
+            {
+              "id": "c219",
+              "title": {
+                "la": "Distinctio 36",
+                "en-US": "Distinction 36",
+                "pt-BR": "Distinção 36"
+              }
+            },
+            {
+              "id": "c220",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c221",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c222",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c223",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            },
+            {
+              "id": "c224",
+              "title": {
+                "la": "Quæstio 5",
+                "en-US": "Question 5",
+                "pt-BR": "Questão 5"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g085",
+          "title": {
+            "la": "Distinctio 37",
+            "en-US": "Distinction 37",
+            "pt-BR": "Distinção 37"
+          },
+          "children": [
+            {
+              "id": "c225",
+              "title": {
+                "la": "Distinctio 37",
+                "en-US": "Distinction 37",
+                "pt-BR": "Distinção 37"
+              }
+            },
+            {
+              "id": "c226",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c227",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c228",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c229",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g086",
+          "title": {
+            "la": "Distinctio 38",
+            "en-US": "Distinction 38",
+            "pt-BR": "Distinção 38"
+          },
+          "children": [
+            {
+              "id": "c230",
+              "title": {
+                "la": "Distinctio 38",
+                "en-US": "Distinction 38",
+                "pt-BR": "Distinção 38"
+              }
+            },
+            {
+              "id": "c231",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c232",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g087",
+          "title": {
+            "la": "Distinctio 39",
+            "en-US": "Distinction 39",
+            "pt-BR": "Distinção 39"
+          },
+          "children": [
+            {
+              "id": "c233",
+              "title": {
+                "la": "Distinctio 39",
+                "en-US": "Distinction 39",
+                "pt-BR": "Distinção 39"
+              }
+            },
+            {
+              "id": "c234",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c235",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c236",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g088",
+          "title": {
+            "la": "Distinctio 40",
+            "en-US": "Distinction 40",
+            "pt-BR": "Distinção 40"
+          },
+          "children": [
+            {
+              "id": "c237",
+              "title": {
+                "la": "Distinctio 40",
+                "en-US": "Distinction 40",
+                "pt-BR": "Distinção 40"
+              }
+            },
+            {
+              "id": "c238",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c239",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c240",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g089",
+          "title": {
+            "la": "Distinctio 41",
+            "en-US": "Distinction 41",
+            "pt-BR": "Distinção 41"
+          },
+          "children": [
+            {
+              "id": "c241",
+              "title": {
+                "la": "Distinctio 41",
+                "en-US": "Distinction 41",
+                "pt-BR": "Distinção 41"
+              }
+            },
+            {
+              "id": "c242",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c243",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c244",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c245",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g090",
+          "title": {
+            "la": "Distinctio 42",
+            "en-US": "Distinction 42",
+            "pt-BR": "Distinção 42"
+          },
+          "children": [
+            {
+              "id": "c246",
+              "title": {
+                "la": "Distinctio 42",
+                "en-US": "Distinction 42",
+                "pt-BR": "Distinção 42"
+              }
+            },
+            {
+              "id": "c247",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c248",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c249",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g091",
+          "title": {
+            "la": "Distinctio 43",
+            "en-US": "Distinction 43",
+            "pt-BR": "Distinção 43"
+          },
+          "children": [
+            {
+              "id": "c250",
+              "title": {
+                "la": "Distinctio 43",
+                "en-US": "Distinction 43",
+                "pt-BR": "Distinção 43"
+              }
+            },
+            {
+              "id": "c251",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c252",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c253",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g092",
+          "title": {
+            "la": "Distinctio 44",
+            "en-US": "Distinction 44",
+            "pt-BR": "Distinção 44"
+          },
+          "children": [
+            {
+              "id": "c254",
+              "title": {
+                "la": "Distinctio 44",
+                "en-US": "Distinction 44",
+                "pt-BR": "Distinção 44"
+              }
+            },
+            {
+              "id": "c255",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c256",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c257",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g093",
+          "title": {
+            "la": "Distinctio 45",
+            "en-US": "Distinction 45",
+            "pt-BR": "Distinção 45"
+          },
+          "children": [
+            {
+              "id": "c258",
+              "title": {
+                "la": "Distinctio 45",
+                "en-US": "Distinction 45",
+                "pt-BR": "Distinção 45"
+              }
+            },
+            {
+              "id": "c259",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c260",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c261",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            },
+            {
+              "id": "c262",
+              "title": {
+                "la": "Quæstio 4",
+                "en-US": "Question 4",
+                "pt-BR": "Questão 4"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g094",
+          "title": {
+            "la": "Distinctio 46",
+            "en-US": "Distinction 46",
+            "pt-BR": "Distinção 46"
+          },
+          "children": [
+            {
+              "id": "c263",
+              "title": {
+                "la": "Distinctio 46",
+                "en-US": "Distinction 46",
+                "pt-BR": "Distinção 46"
+              }
+            },
+            {
+              "id": "c264",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c265",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            },
+            {
+              "id": "c266",
+              "title": {
+                "la": "Quæstio 3",
+                "en-US": "Question 3",
+                "pt-BR": "Questão 3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g095",
+          "title": {
+            "la": "Distinctio 47",
+            "en-US": "Distinction 47",
+            "pt-BR": "Distinção 47"
+          },
+          "children": [
+            {
+              "id": "c267",
+              "title": {
+                "la": "Distinctio 47",
+                "en-US": "Distinction 47",
+                "pt-BR": "Distinção 47"
+              }
+            },
+            {
+              "id": "c268",
+              "title": {
+                "la": "Quæstio unica",
+                "en-US": "Single question",
+                "pt-BR": "Questão única"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g096",
+          "title": {
+            "la": "Distinctio 48",
+            "en-US": "Distinction 48",
+            "pt-BR": "Distinção 48"
+          },
+          "children": [
+            {
+              "id": "c269",
+              "title": {
+                "la": "Distinctio 48",
+                "en-US": "Distinction 48",
+                "pt-BR": "Distinção 48"
+              }
+            },
+            {
+              "id": "c270",
+              "title": {
+                "la": "Quæstio 1",
+                "en-US": "Question 1",
+                "pt-BR": "Questão 1"
+              }
+            },
+            {
+              "id": "c271",
+              "title": {
+                "la": "Quæstio 2",
+                "en-US": "Question 2",
+                "pt-BR": "Questão 2"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1431 @@
+{
+  "id": "denis-in-scalam-paradisi",
+  "cover": "label",
+  "name": {
+    "la": "In Scalam Paradisi S. Joannis Climaci",
+    "en-US": "On the Ladder of Paradise of St John Climacus",
+    "pt-BR": "Sobre a Escada do Paraíso de São João Clímaco"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "In Scalam Paradisi S. Joannis Climaci.",
+    "en-US": "Denis the Carthusian's commentary, article by article. Uncorrected OCR text: not yet proofread against the scans.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, artigo por artigo. Texto do OCR ainda não revisto contra as digitalizações."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniainunum28deni",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Initium",
+        "en-US": "Opening",
+        "pt-BR": "Abertura"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Articulus 1",
+        "en-US": "Article 1",
+        "pt-BR": "Artigo 1"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Articulus 2",
+        "en-US": "Article 2",
+        "pt-BR": "Artigo 2"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Prologus: Auctoris",
+        "en-US": "Prologue: Auctoris",
+        "pt-BR": "Prólogo: Auctoris"
+      }
+    },
+    {
+      "id": "g001",
+      "title": {
+        "la": "Gradus 1",
+        "en-US": "Step 1",
+        "pt-BR": "Degrau 1"
+      },
+      "children": [
+        {
+          "id": "c005",
+          "title": {
+            "la": "Gradus 1",
+            "en-US": "Step 1",
+            "pt-BR": "Degrau 1"
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Articulus 3",
+            "en-US": "Article 3",
+            "pt-BR": "Artigo 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g002",
+      "title": {
+        "la": "Gradus 2",
+        "en-US": "Step 2",
+        "pt-BR": "Degrau 2"
+      },
+      "children": [
+        {
+          "id": "c007",
+          "title": {
+            "la": "Gradus 2",
+            "en-US": "Step 2",
+            "pt-BR": "Degrau 2"
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Articulus 4",
+            "en-US": "Article 4",
+            "pt-BR": "Artigo 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g003",
+      "title": {
+        "la": "Gradus 3",
+        "en-US": "Step 3",
+        "pt-BR": "Degrau 3"
+      },
+      "children": [
+        {
+          "id": "c009",
+          "title": {
+            "la": "Gradus 3",
+            "en-US": "Step 3",
+            "pt-BR": "Degrau 3"
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Articulus 5",
+            "en-US": "Article 5",
+            "pt-BR": "Artigo 5"
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Articulus 6",
+            "en-US": "Article 6",
+            "pt-BR": "Artigo 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g004",
+      "title": {
+        "la": "Gradus 4",
+        "en-US": "Step 4",
+        "pt-BR": "Degrau 4"
+      },
+      "children": [
+        {
+          "id": "c012",
+          "title": {
+            "la": "Gradus 4",
+            "en-US": "Step 4",
+            "pt-BR": "Degrau 4"
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Articulus 7",
+            "en-US": "Article 7",
+            "pt-BR": "Artigo 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g005",
+      "title": {
+        "la": "Gradus 5",
+        "en-US": "Step 5",
+        "pt-BR": "Degrau 5"
+      },
+      "children": [
+        {
+          "id": "c014",
+          "title": {
+            "la": "Gradus 5",
+            "en-US": "Step 5",
+            "pt-BR": "Degrau 5"
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Articulus 8",
+            "en-US": "Article 8",
+            "pt-BR": "Artigo 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g006",
+      "title": {
+        "la": "Gradus 6",
+        "en-US": "Step 6",
+        "pt-BR": "Degrau 6"
+      },
+      "children": [
+        {
+          "id": "c016",
+          "title": {
+            "la": "Gradus 6",
+            "en-US": "Step 6",
+            "pt-BR": "Degrau 6"
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Articulus 9",
+            "en-US": "Article 9",
+            "pt-BR": "Artigo 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g007",
+      "title": {
+        "la": "Gradus 7",
+        "en-US": "Step 7",
+        "pt-BR": "Degrau 7"
+      },
+      "children": [
+        {
+          "id": "c018",
+          "title": {
+            "la": "Gradus 7",
+            "en-US": "Step 7",
+            "pt-BR": "Degrau 7"
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Articulus 10",
+            "en-US": "Article 10",
+            "pt-BR": "Artigo 10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g008",
+      "title": {
+        "la": "Gradus 8",
+        "en-US": "Step 8",
+        "pt-BR": "Degrau 8"
+      },
+      "children": [
+        {
+          "id": "c020",
+          "title": {
+            "la": "Gradus 8",
+            "en-US": "Step 8",
+            "pt-BR": "Degrau 8"
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Articulus 11",
+            "en-US": "Article 11",
+            "pt-BR": "Artigo 11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g009",
+      "title": {
+        "la": "Gradus 9",
+        "en-US": "Step 9",
+        "pt-BR": "Degrau 9"
+      },
+      "children": [
+        {
+          "id": "c022",
+          "title": {
+            "la": "Gradus 9",
+            "en-US": "Step 9",
+            "pt-BR": "Degrau 9"
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Articulus 12",
+            "en-US": "Article 12",
+            "pt-BR": "Artigo 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g010",
+      "title": {
+        "la": "Gradus 10",
+        "en-US": "Step 10",
+        "pt-BR": "Degrau 10"
+      },
+      "children": [
+        {
+          "id": "c024",
+          "title": {
+            "la": "Gradus 10",
+            "en-US": "Step 10",
+            "pt-BR": "Degrau 10"
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Articulus 13",
+            "en-US": "Article 13",
+            "pt-BR": "Artigo 13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g011",
+      "title": {
+        "la": "Gradus 11",
+        "en-US": "Step 11",
+        "pt-BR": "Degrau 11"
+      },
+      "children": [
+        {
+          "id": "c026",
+          "title": {
+            "la": "Gradus 11",
+            "en-US": "Step 11",
+            "pt-BR": "Degrau 11"
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Articulus 14",
+            "en-US": "Article 14",
+            "pt-BR": "Artigo 14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g012",
+      "title": {
+        "la": "Gradus 12",
+        "en-US": "Step 12",
+        "pt-BR": "Degrau 12"
+      },
+      "children": [
+        {
+          "id": "c028",
+          "title": {
+            "la": "Gradus 12",
+            "en-US": "Step 12",
+            "pt-BR": "Degrau 12"
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Articulus 15",
+            "en-US": "Article 15",
+            "pt-BR": "Artigo 15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g013",
+      "title": {
+        "la": "Gradus 13",
+        "en-US": "Step 13",
+        "pt-BR": "Degrau 13"
+      },
+      "children": [
+        {
+          "id": "c030",
+          "title": {
+            "la": "Gradus 13",
+            "en-US": "Step 13",
+            "pt-BR": "Degrau 13"
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Articulus 16",
+            "en-US": "Article 16",
+            "pt-BR": "Artigo 16"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g014",
+      "title": {
+        "la": "Gradus 14",
+        "en-US": "Step 14",
+        "pt-BR": "Degrau 14"
+      },
+      "children": [
+        {
+          "id": "c032",
+          "title": {
+            "la": "Gradus 14",
+            "en-US": "Step 14",
+            "pt-BR": "Degrau 14"
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Articulus 17",
+            "en-US": "Article 17",
+            "pt-BR": "Artigo 17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g015",
+      "title": {
+        "la": "Gradus 15",
+        "en-US": "Step 15",
+        "pt-BR": "Degrau 15"
+      },
+      "children": [
+        {
+          "id": "c034",
+          "title": {
+            "la": "Gradus 15",
+            "en-US": "Step 15",
+            "pt-BR": "Degrau 15"
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Articulus 18",
+            "en-US": "Article 18",
+            "pt-BR": "Artigo 18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g016",
+      "title": {
+        "la": "Gradus 16",
+        "en-US": "Step 16",
+        "pt-BR": "Degrau 16"
+      },
+      "children": [
+        {
+          "id": "c036",
+          "title": {
+            "la": "Gradus 16",
+            "en-US": "Step 16",
+            "pt-BR": "Degrau 16"
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Articulus 19",
+            "en-US": "Article 19",
+            "pt-BR": "Artigo 19"
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Articulus 20",
+            "en-US": "Article 20",
+            "pt-BR": "Artigo 20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g017",
+      "title": {
+        "la": "Gradus 17",
+        "en-US": "Step 17",
+        "pt-BR": "Degrau 17"
+      },
+      "children": [
+        {
+          "id": "c039",
+          "title": {
+            "la": "Gradus 17",
+            "en-US": "Step 17",
+            "pt-BR": "Degrau 17"
+          }
+        },
+        {
+          "id": "c040",
+          "title": {
+            "la": "Articulus 21",
+            "en-US": "Article 21",
+            "pt-BR": "Artigo 21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g018",
+      "title": {
+        "la": "Gradus 18",
+        "en-US": "Step 18",
+        "pt-BR": "Degrau 18"
+      },
+      "children": [
+        {
+          "id": "c041",
+          "title": {
+            "la": "Gradus 18",
+            "en-US": "Step 18",
+            "pt-BR": "Degrau 18"
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Articulus 22",
+            "en-US": "Article 22",
+            "pt-BR": "Artigo 22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g019",
+      "title": {
+        "la": "Gradus 19",
+        "en-US": "Step 19",
+        "pt-BR": "Degrau 19"
+      },
+      "children": [
+        {
+          "id": "c043",
+          "title": {
+            "la": "Gradus 19",
+            "en-US": "Step 19",
+            "pt-BR": "Degrau 19"
+          }
+        },
+        {
+          "id": "c044",
+          "title": {
+            "la": "Articulus 23",
+            "en-US": "Article 23",
+            "pt-BR": "Artigo 23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g020",
+      "title": {
+        "la": "Gradus 20",
+        "en-US": "Step 20",
+        "pt-BR": "Degrau 20"
+      },
+      "children": [
+        {
+          "id": "c045",
+          "title": {
+            "la": "Gradus 20",
+            "en-US": "Step 20",
+            "pt-BR": "Degrau 20"
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Articulus 24",
+            "en-US": "Article 24",
+            "pt-BR": "Artigo 24"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g021",
+      "title": {
+        "la": "Gradus 21",
+        "en-US": "Step 21",
+        "pt-BR": "Degrau 21"
+      },
+      "children": [
+        {
+          "id": "c047",
+          "title": {
+            "la": "Gradus 21",
+            "en-US": "Step 21",
+            "pt-BR": "Degrau 21"
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Articulus 25",
+            "en-US": "Article 25",
+            "pt-BR": "Artigo 25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g022",
+      "title": {
+        "la": "Gradus 22",
+        "en-US": "Step 22",
+        "pt-BR": "Degrau 22"
+      },
+      "children": [
+        {
+          "id": "c049",
+          "title": {
+            "la": "Gradus 22",
+            "en-US": "Step 22",
+            "pt-BR": "Degrau 22"
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Articulus 26",
+            "en-US": "Article 26",
+            "pt-BR": "Artigo 26"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g023",
+      "title": {
+        "la": "Gradus 23",
+        "en-US": "Step 23",
+        "pt-BR": "Degrau 23"
+      },
+      "children": [
+        {
+          "id": "c051",
+          "title": {
+            "la": "Gradus 23",
+            "en-US": "Step 23",
+            "pt-BR": "Degrau 23"
+          }
+        },
+        {
+          "id": "c052",
+          "title": {
+            "la": "Articulus 27",
+            "en-US": "Article 27",
+            "pt-BR": "Artigo 27"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g024",
+      "title": {
+        "la": "Gradus 24",
+        "en-US": "Step 24",
+        "pt-BR": "Degrau 24"
+      },
+      "children": [
+        {
+          "id": "c053",
+          "title": {
+            "la": "Gradus 24",
+            "en-US": "Step 24",
+            "pt-BR": "Degrau 24"
+          }
+        },
+        {
+          "id": "c054",
+          "title": {
+            "la": "Articulus 28",
+            "en-US": "Article 28",
+            "pt-BR": "Artigo 28"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g025",
+      "title": {
+        "la": "Gradus 25",
+        "en-US": "Step 25",
+        "pt-BR": "Degrau 25"
+      },
+      "children": [
+        {
+          "id": "c055",
+          "title": {
+            "la": "Gradus 25",
+            "en-US": "Step 25",
+            "pt-BR": "Degrau 25"
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Articulus 29",
+            "en-US": "Article 29",
+            "pt-BR": "Artigo 29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g026",
+      "title": {
+        "la": "Gradus 26",
+        "en-US": "Step 26",
+        "pt-BR": "Degrau 26"
+      },
+      "children": [
+        {
+          "id": "c057",
+          "title": {
+            "la": "Gradus 26",
+            "en-US": "Step 26",
+            "pt-BR": "Degrau 26"
+          }
+        },
+        {
+          "id": "c058",
+          "title": {
+            "la": "Articulus 30",
+            "en-US": "Article 30",
+            "pt-BR": "Artigo 30"
+          }
+        },
+        {
+          "id": "c059",
+          "title": {
+            "la": "Articulus 31",
+            "en-US": "Article 31",
+            "pt-BR": "Artigo 31"
+          }
+        },
+        {
+          "id": "c060",
+          "title": {
+            "la": "Articulus 32",
+            "en-US": "Article 32",
+            "pt-BR": "Artigo 32"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g027",
+      "title": {
+        "la": "Gradus 27",
+        "en-US": "Step 27",
+        "pt-BR": "Degrau 27"
+      },
+      "children": [
+        {
+          "id": "c061",
+          "title": {
+            "la": "Gradus 27",
+            "en-US": "Step 27",
+            "pt-BR": "Degrau 27"
+          }
+        },
+        {
+          "id": "c062",
+          "title": {
+            "la": "Articulus 33",
+            "en-US": "Article 33",
+            "pt-BR": "Artigo 33"
+          }
+        },
+        {
+          "id": "c063",
+          "title": {
+            "la": "Articulus 34",
+            "en-US": "Article 34",
+            "pt-BR": "Artigo 34"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g028",
+      "title": {
+        "la": "Gradus 28",
+        "en-US": "Step 28",
+        "pt-BR": "Degrau 28"
+      },
+      "children": [
+        {
+          "id": "c064",
+          "title": {
+            "la": "Gradus 28",
+            "en-US": "Step 28",
+            "pt-BR": "Degrau 28"
+          }
+        },
+        {
+          "id": "c065",
+          "title": {
+            "la": "Articulus 35",
+            "en-US": "Article 35",
+            "pt-BR": "Artigo 35"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g029",
+      "title": {
+        "la": "Gradus 29",
+        "en-US": "Step 29",
+        "pt-BR": "Degrau 29"
+      },
+      "children": [
+        {
+          "id": "c066",
+          "title": {
+            "la": "Gradus 29",
+            "en-US": "Step 29",
+            "pt-BR": "Degrau 29"
+          }
+        },
+        {
+          "id": "c067",
+          "title": {
+            "la": "Articulus 36",
+            "en-US": "Article 36",
+            "pt-BR": "Artigo 36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g030",
+      "title": {
+        "la": "Gradus 30",
+        "en-US": "Step 30",
+        "pt-BR": "Degrau 30"
+      },
+      "children": [
+        {
+          "id": "c068",
+          "title": {
+            "la": "Gradus 30",
+            "en-US": "Step 30",
+            "pt-BR": "Degrau 30"
+          }
+        },
+        {
+          "id": "c069",
+          "title": {
+            "la": "Articulus 37",
+            "en-US": "Article 37",
+            "pt-BR": "Artigo 37"
+          }
+        },
+        {
+          "id": "c070",
+          "title": {
+            "la": "Articulus 38",
+            "en-US": "Article 38",
+            "pt-BR": "Artigo 38"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g031",
+      "title": {
+        "la": "Gradus 1",
+        "en-US": "Step 1",
+        "pt-BR": "Degrau 1"
+      },
+      "children": [
+        {
+          "id": "c071",
+          "title": {
+            "la": "Gradus 1",
+            "en-US": "Step 1",
+            "pt-BR": "Degrau 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g032",
+      "title": {
+        "la": "Gradus 2",
+        "en-US": "Step 2",
+        "pt-BR": "Degrau 2"
+      },
+      "children": [
+        {
+          "id": "c072",
+          "title": {
+            "la": "Gradus 2",
+            "en-US": "Step 2",
+            "pt-BR": "Degrau 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g033",
+      "title": {
+        "la": "Gradus 3",
+        "en-US": "Step 3",
+        "pt-BR": "Degrau 3"
+      },
+      "children": [
+        {
+          "id": "c073",
+          "title": {
+            "la": "Gradus 3",
+            "en-US": "Step 3",
+            "pt-BR": "Degrau 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g034",
+      "title": {
+        "la": "Gradus 4",
+        "en-US": "Step 4",
+        "pt-BR": "Degrau 4"
+      },
+      "children": [
+        {
+          "id": "c074",
+          "title": {
+            "la": "Gradus 4",
+            "en-US": "Step 4",
+            "pt-BR": "Degrau 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g035",
+      "title": {
+        "la": "Gradus 5",
+        "en-US": "Step 5",
+        "pt-BR": "Degrau 5"
+      },
+      "children": [
+        {
+          "id": "c075",
+          "title": {
+            "la": "Gradus 5",
+            "en-US": "Step 5",
+            "pt-BR": "Degrau 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g036",
+      "title": {
+        "la": "Gradus 6",
+        "en-US": "Step 6",
+        "pt-BR": "Degrau 6"
+      },
+      "children": [
+        {
+          "id": "c076",
+          "title": {
+            "la": "Gradus 6",
+            "en-US": "Step 6",
+            "pt-BR": "Degrau 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g037",
+      "title": {
+        "la": "Gradus 7",
+        "en-US": "Step 7",
+        "pt-BR": "Degrau 7"
+      },
+      "children": [
+        {
+          "id": "c077",
+          "title": {
+            "la": "Gradus 7",
+            "en-US": "Step 7",
+            "pt-BR": "Degrau 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g038",
+      "title": {
+        "la": "Gradus 8",
+        "en-US": "Step 8",
+        "pt-BR": "Degrau 8"
+      },
+      "children": [
+        {
+          "id": "c078",
+          "title": {
+            "la": "Gradus 8",
+            "en-US": "Step 8",
+            "pt-BR": "Degrau 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g039",
+      "title": {
+        "la": "Gradus 9",
+        "en-US": "Step 9",
+        "pt-BR": "Degrau 9"
+      },
+      "children": [
+        {
+          "id": "c079",
+          "title": {
+            "la": "Gradus 9",
+            "en-US": "Step 9",
+            "pt-BR": "Degrau 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g040",
+      "title": {
+        "la": "Gradus 10",
+        "en-US": "Step 10",
+        "pt-BR": "Degrau 10"
+      },
+      "children": [
+        {
+          "id": "c080",
+          "title": {
+            "la": "Gradus 10",
+            "en-US": "Step 10",
+            "pt-BR": "Degrau 10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g041",
+      "title": {
+        "la": "Gradus 11",
+        "en-US": "Step 11",
+        "pt-BR": "Degrau 11"
+      },
+      "children": [
+        {
+          "id": "c081",
+          "title": {
+            "la": "Gradus 11",
+            "en-US": "Step 11",
+            "pt-BR": "Degrau 11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g042",
+      "title": {
+        "la": "Gradus 12",
+        "en-US": "Step 12",
+        "pt-BR": "Degrau 12"
+      },
+      "children": [
+        {
+          "id": "c082",
+          "title": {
+            "la": "Gradus 12",
+            "en-US": "Step 12",
+            "pt-BR": "Degrau 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g043",
+      "title": {
+        "la": "Gradus 13",
+        "en-US": "Step 13",
+        "pt-BR": "Degrau 13"
+      },
+      "children": [
+        {
+          "id": "c083",
+          "title": {
+            "la": "Gradus 13",
+            "en-US": "Step 13",
+            "pt-BR": "Degrau 13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g044",
+      "title": {
+        "la": "Gradus 14",
+        "en-US": "Step 14",
+        "pt-BR": "Degrau 14"
+      },
+      "children": [
+        {
+          "id": "c084",
+          "title": {
+            "la": "Gradus 14",
+            "en-US": "Step 14",
+            "pt-BR": "Degrau 14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g045",
+      "title": {
+        "la": "Gradus 15",
+        "en-US": "Step 15",
+        "pt-BR": "Degrau 15"
+      },
+      "children": [
+        {
+          "id": "c085",
+          "title": {
+            "la": "Gradus 15",
+            "en-US": "Step 15",
+            "pt-BR": "Degrau 15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g046",
+      "title": {
+        "la": "Gradus 16",
+        "en-US": "Step 16",
+        "pt-BR": "Degrau 16"
+      },
+      "children": [
+        {
+          "id": "c086",
+          "title": {
+            "la": "Gradus 16",
+            "en-US": "Step 16",
+            "pt-BR": "Degrau 16"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g047",
+      "title": {
+        "la": "Gradus 17",
+        "en-US": "Step 17",
+        "pt-BR": "Degrau 17"
+      },
+      "children": [
+        {
+          "id": "c087",
+          "title": {
+            "la": "Gradus 17",
+            "en-US": "Step 17",
+            "pt-BR": "Degrau 17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g048",
+      "title": {
+        "la": "Gradus 18",
+        "en-US": "Step 18",
+        "pt-BR": "Degrau 18"
+      },
+      "children": [
+        {
+          "id": "c088",
+          "title": {
+            "la": "Gradus 18",
+            "en-US": "Step 18",
+            "pt-BR": "Degrau 18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g049",
+      "title": {
+        "la": "Gradus 19",
+        "en-US": "Step 19",
+        "pt-BR": "Degrau 19"
+      },
+      "children": [
+        {
+          "id": "c089",
+          "title": {
+            "la": "Gradus 19",
+            "en-US": "Step 19",
+            "pt-BR": "Degrau 19"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g050",
+      "title": {
+        "la": "Gradus 20",
+        "en-US": "Step 20",
+        "pt-BR": "Degrau 20"
+      },
+      "children": [
+        {
+          "id": "c090",
+          "title": {
+            "la": "Gradus 20",
+            "en-US": "Step 20",
+            "pt-BR": "Degrau 20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g051",
+      "title": {
+        "la": "Gradus 21",
+        "en-US": "Step 21",
+        "pt-BR": "Degrau 21"
+      },
+      "children": [
+        {
+          "id": "c091",
+          "title": {
+            "la": "Gradus 21",
+            "en-US": "Step 21",
+            "pt-BR": "Degrau 21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g052",
+      "title": {
+        "la": "Gradus 22",
+        "en-US": "Step 22",
+        "pt-BR": "Degrau 22"
+      },
+      "children": [
+        {
+          "id": "c092",
+          "title": {
+            "la": "Gradus 22",
+            "en-US": "Step 22",
+            "pt-BR": "Degrau 22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g053",
+      "title": {
+        "la": "Gradus 23",
+        "en-US": "Step 23",
+        "pt-BR": "Degrau 23"
+      },
+      "children": [
+        {
+          "id": "c093",
+          "title": {
+            "la": "Gradus 23",
+            "en-US": "Step 23",
+            "pt-BR": "Degrau 23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g054",
+      "title": {
+        "la": "Gradus 24",
+        "en-US": "Step 24",
+        "pt-BR": "Degrau 24"
+      },
+      "children": [
+        {
+          "id": "c094",
+          "title": {
+            "la": "Gradus 24",
+            "en-US": "Step 24",
+            "pt-BR": "Degrau 24"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g055",
+      "title": {
+        "la": "Gradus 25",
+        "en-US": "Step 25",
+        "pt-BR": "Degrau 25"
+      },
+      "children": [
+        {
+          "id": "c095",
+          "title": {
+            "la": "Gradus 25",
+            "en-US": "Step 25",
+            "pt-BR": "Degrau 25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g056",
+      "title": {
+        "la": "Gradus 26",
+        "en-US": "Step 26",
+        "pt-BR": "Degrau 26"
+      },
+      "children": [
+        {
+          "id": "c096",
+          "title": {
+            "la": "Gradus 26",
+            "en-US": "Step 26",
+            "pt-BR": "Degrau 26"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g057",
+      "title": {
+        "la": "Gradus 27",
+        "en-US": "Step 27",
+        "pt-BR": "Degrau 27"
+      },
+      "children": [
+        {
+          "id": "c097",
+          "title": {
+            "la": "Gradus 27",
+            "en-US": "Step 27",
+            "pt-BR": "Degrau 27"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g058",
+      "title": {
+        "la": "Gradus 28",
+        "en-US": "Step 28",
+        "pt-BR": "Degrau 28"
+      },
+      "children": [
+        {
+          "id": "c098",
+          "title": {
+            "la": "Gradus 28",
+            "en-US": "Step 28",
+            "pt-BR": "Degrau 28"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g059",
+      "title": {
+        "la": "Gradus 29",
+        "en-US": "Step 29",
+        "pt-BR": "Degrau 29"
+      },
+      "children": [
+        {
+          "id": "c099",
+          "title": {
+            "la": "Gradus 29",
+            "en-US": "Step 29",
+            "pt-BR": "Degrau 29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g060",
+      "title": {
+        "la": "Gradus 30",
+        "en-US": "Step 30",
+        "pt-BR": "Degrau 30"
+      },
+      "children": [
+        {
+          "id": "c100",
+          "title": {
+            "la": "Gradus 30",
+            "en-US": "Step 30",
+            "pt-BR": "Degrau 30"
+          }
+        }
+      ]
+    }
+  ]
+}

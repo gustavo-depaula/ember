@@ -1,0 +1,78 @@
+{
+  "parts": [
+    {
+      "volume": "operaomnia39deni",
+      "leaves": [
+        "0253",
+        "0254",
+        "0255",
+        "0256",
+        "0257",
+        "0258",
+        "0259",
+        "0260",
+        "0261",
+        "0262",
+        "0263",
+        "0264",
+        "0265",
+        "0266",
+        "0267",
+        "0268",
+        "0269",
+        "0270",
+        "0271",
+        "0272",
+        "0273",
+        "0274",
+        "0275",
+        "0276",
+        "0277",
+        "0278",
+        "0279",
+        "0280",
+        "0281",
+        "0282",
+        "0283",
+        "0284",
+        "0285",
+        "0286",
+        "0287",
+        "0288",
+        "0289",
+        "0290",
+        "0291",
+        "0292"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/contra-pluralitatem-beneficiorum",
+  "slug": "contra-pluralitatem-beneficiorum",
+  "draft": true,
+  "meta": {
+    "id": "denis-contra-pluralitatem-beneficiorum",
+    "cover": "label",
+    "name": {
+      "la": "Contra pluralitatem beneficiorum",
+      "en-US": "Against Holding Several Benefices",
+      "pt-BR": "Contra a pluralidade de benefícios"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Contra pluralitatem beneficiorum.",
+      "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomnia39deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIX (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "parts": [
+    {
+      "volume": "operaomniainunum13deni",
+      "leaves": [
+        "0430",
+        "0431",
+        "0432",
+        "0433",
+        "0434",
+        "0435",
+        "0436",
+        "0437",
+        "0438",
+        "0439",
+        "0440",
+        "0441",
+        "0442",
+        "0443",
+        "0444"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/commentaries/enarratio-in-ii-thessalonicenses",
+  "slug": "enarratio-in-ii-thessalonicenses",
+  "draft": true,
+  "meta": {
+    "id": "denis-enarratio-in-ii-thessalonicenses",
+    "cover": "label",
+    "name": {
+      "la": "Enarratio in Epistolam II ad Thessalonicenses",
+      "en-US": "Commentary on 2 Thessalonians",
+      "pt-BR": "Comentário a 2 Tessalonicenses"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Enarratio in Epistolam II ad Thessalonicenses.",
+      "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum13deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  },
+  "toc_group": {
+    "pattern": "CAP\\.?\\s*([IVXLCUH]+)\\b",
+    "label": {
+      "la": "Caput {n}",
+      "en-US": "Chapter {n}",
+      "pt-BR": "Capítulo {n}"
+    }
+  }
+}

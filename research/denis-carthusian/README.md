@@ -2,12 +2,14 @@
 
 **Question.** Can the *Opera Omnia* of Dionysius Cartusianus (Montreuil/Tournai, 1896–1913, 42 volumes, all in Latin) be brought into the corpus as faithful text? It exists only as page scans, and the OCR that ships with them is unusable.
 
-**Where things stand (2026-10-18).** The method is settled, in two passes:
+**Where things stand (2026-10-21).** The method is settled, in two passes:
 
 1. **dots.mocr drafted every page** on the local RTX 4070 Ti, at no cost: 39 volumes, 28,212 pages, between 18 and 21 October 2026, as a systemd service that survives a power cut (see [Running the full drafts](#running-the-full-drafts)). 96 pages (0.34%) still fail: the model loops on them even on the retry pass, at a higher token cap and temperature 0.3. `draft_with_claude.py` transcribes those from scratch with a lean Sonnet call (the bake-off's `prompt.md`), and writes the same files a dots.mocr page has, plus a `.source` marker. That way assembly and proofreading need no special case. Of the 96, 66 have text, 24 are blank leaves, and 6 are scans whose print cannot be read (faded, grey, one with a hand over the page). One of those 6 is covered by a retaken capture, which leaves **5 real gaps**; all are listed in [`gaps.tsv`](gaps.tsv) with the blank leaves Claude described. Claude first answered the unreadable pages in prose ("I can't transcribe this page…"). The prompt now asks for an `unreadable` marker, and prose is caught either way, so neither reaches a draft.
 2. **Claude Sonnet proofreads each draft** through the Claude Code subscription: one lean `claude -p` call per page, with the page cropped to its text, returning only a list of fixes. The result scores 0.03% character error with italics restored, slightly better than Sonnet transcribing alone (0.04%). It costs about $0.03 per page at API rates, around $770 for the set, paid from subscription limits.
 
 **The pilot is in the corpus (2026-10-19):** *Enarratio in Genesim* (vol. 1, pp. 1–469) as `content/books/denis-opera-omnia/commentaries/genesis/`: the preface and 103 articles, about 248,000 words, with the table of contents grouped by chapter of Genesis. See [The Genesis pilot](#the-genesis-pilot).
+
+**Every other work is in the corpus as an unproofread draft (2026-10-21):** 159 books, about 12 million words, gathered in `collection/denis-the-carthusian`. Each says in its description that it is uncorrected OCR. A work is proofread by running `check_pages.py` over its leaves, dropping `"draft": true` from its work file and assembling it again. See [The draft books](#the-draft-books).
 
 ## The edition
 
@@ -65,6 +67,23 @@ On the subscription, the budget is usage limits, not dollars. That changed the d
 - **Spot checks.** Two faded upper thirds (leaves 0251 and 0449) matched the scan word for word. The book renders on the website with the italics as emphasis and the articles grouped by chapter.
 - **Page-number warnings** from `assemble.py` mostly come from a printed number misread on the page before (p. 49 for 19), not from missing pages.
 
+## The draft books
+
+`catalogue.py` lists every work with its titles in Latin, English and Portuguese, and finds its pages by running head: each leaf's head is reduced to a key (book, chapter and article numbers removed, Œ read as Æ), and the first pattern of the volume that matches the key claims the leaf. Prefaces, dedicatory letters and title leaves go with the work that follows them; indexes are dropped; a misread head between two leaves of one work goes to that work. `catalogue.py --report` prints each work's leaves, so a boundary can be checked before anything is written. It then writes `works/<slug>.json` for each (159 of them).
+
+`assemble.py` builds each one. A catalogue work is cut by `split_chapters`, which reads the work's own headings, so one splitter serves commentaries, the *Sentences*, sermons and treatises:
+
+- The work's chapter is its most frequent main heading: *Articulus*, *Sermo*, *Quæstio*, *Capitulum*, *Collatio*, *Propositio* or *Laus*. Prefaces open chapters too.
+- Liber, Distinctio, Gradus, Prosa and Metrum headings, and the sermons' Sundays and feasts, become groups in the table of contents. Text under a group heading before its first chapter becomes a chapter with the group's title.
+- Where the text has no groups, the running heads supply them: the chapter of the sacred book a commentary's articles treat, and the books of a work whose articles start again at 1 in each book (Boethius, the *Summa fidei*).
+- A chapter with almost no text (a title, a bare heading) is folded into the next.
+
+`collection.py` rebuilds the collection's sections from the catalogue, so a work added there reaches the app with its next run.
+
+Draft books carry no `sources/latin-originals/` page dump: at this size it would double the corpus, and the drafts are in `~/ember-data`. A book gets one when it is proofread.
+
+Things the drafts get wrong that proofreading will meet: a chapter heading the OCR read as plain text merges two chapters, and a heading misread as a chapter splits one. The table of contents shows both.
+
 ## Running the full drafts
 
 ```bash
@@ -91,7 +110,6 @@ journalctl --user -u denis-ocr -f      # or: tail -f ~/ember-data/denis-carthusi
 - **Volumes 37, 40 and 14bis** are only reachable from a US address. 37 and 40 are on Google Books as `1sgVCSrpHzwC` and `4asOlgsHwWEC`, with full view and a PDF download in the US; 14bis is on HathiTrust as `coo.31924065775227`. From Brazil, Google reports both as not public domain.
 - **Gaps.** `gaps.tsv` lists every leaf with no usable text: blank leaves, and unreadable scans with the printed page numbers around them. The unreadable ones that are not covered by a retaken capture need the page from another copy (HathiTrust's Cornell scans, or Google's). Assembly flags them too, as a skip in the page numbers.
 - **Mistral OCR 4.1** is untested (no key). `ocr_mistral.py` is ready. At about $2–3.5 per 1,000 pages, it would be worth trying if it keeps italics.
-- **Splitting the set into books.** One book per work, not per volume: the minor works (vols. 33–41) hold about 150 treatises. Each needs a `works/<slug>.json` like `works/genesis.json`. The Latin is the canonical language; there are no translations.
 
 ## Files and how to run them
 

@@ -1,0 +1,1175 @@
+{
+  "id": "denis-creaturarum-consideratio-theologica",
+  "cover": "label",
+  "name": {
+    "la": "Creaturarum in ordine ad Deum consideratio theologica",
+    "en-US": "The Creatures Considered in Their Order to God",
+    "pt-BR": "As criaturas consideradas em sua ordem para Deus"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "Creaturarum in ordine ad Deum consideratio theologica.",
+    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisecstati10unkngoog",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Proœmium",
+        "en-US": "Proem",
+        "pt-BR": "Proêmio"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Articulus 1",
+        "en-US": "Article 1",
+        "pt-BR": "Artigo 1"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Articulus 2",
+        "en-US": "Article 2",
+        "pt-BR": "Artigo 2"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Articulus 3",
+        "en-US": "Article 3",
+        "pt-BR": "Artigo 3"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Articulus 4",
+        "en-US": "Article 4",
+        "pt-BR": "Artigo 4"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Articulus 5",
+        "en-US": "Article 5",
+        "pt-BR": "Artigo 5"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Articulus 6",
+        "en-US": "Article 6",
+        "pt-BR": "Artigo 6"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Articulus 7",
+        "en-US": "Article 7",
+        "pt-BR": "Artigo 7"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Articulus 8",
+        "en-US": "Article 8",
+        "pt-BR": "Artigo 8"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Articulus 9",
+        "en-US": "Article 9",
+        "pt-BR": "Artigo 9"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Articulus 10",
+        "en-US": "Article 10",
+        "pt-BR": "Artigo 10"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Articulus 11",
+        "en-US": "Article 11",
+        "pt-BR": "Artigo 11"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Articulus 12",
+        "en-US": "Article 12",
+        "pt-BR": "Artigo 12"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Articulus 13",
+        "en-US": "Article 13",
+        "pt-BR": "Artigo 13"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Articulus 14",
+        "en-US": "Article 14",
+        "pt-BR": "Artigo 14"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Articulus 15",
+        "en-US": "Article 15",
+        "pt-BR": "Artigo 15"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Articulus 16",
+        "en-US": "Article 16",
+        "pt-BR": "Artigo 16"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Articulus 17",
+        "en-US": "Article 17",
+        "pt-BR": "Artigo 17"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Articulus 18",
+        "en-US": "Article 18",
+        "pt-BR": "Artigo 18"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Articulus 19",
+        "en-US": "Article 19",
+        "pt-BR": "Artigo 19"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Articulus 20",
+        "en-US": "Article 20",
+        "pt-BR": "Artigo 20"
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Articulus 21",
+        "en-US": "Article 21",
+        "pt-BR": "Artigo 21"
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Articulus 22",
+        "en-US": "Article 22",
+        "pt-BR": "Artigo 22"
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Articulus 23",
+        "en-US": "Article 23",
+        "pt-BR": "Artigo 23"
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "Articulus 24",
+        "en-US": "Article 24",
+        "pt-BR": "Artigo 24"
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "Articulus 25",
+        "en-US": "Article 25",
+        "pt-BR": "Artigo 25"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Articulus 26",
+        "en-US": "Article 26",
+        "pt-BR": "Artigo 26"
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "Articulus 27",
+        "en-US": "Article 27",
+        "pt-BR": "Artigo 27"
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "Articulus 28",
+        "en-US": "Article 28",
+        "pt-BR": "Artigo 28"
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "Articulus 29",
+        "en-US": "Article 29",
+        "pt-BR": "Artigo 29"
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "Articulus 30",
+        "en-US": "Article 30",
+        "pt-BR": "Artigo 30"
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "Articulus 31",
+        "en-US": "Article 31",
+        "pt-BR": "Artigo 31"
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "la": "Articulus 32",
+        "en-US": "Article 32",
+        "pt-BR": "Artigo 32"
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "Articulus 33",
+        "en-US": "Article 33",
+        "pt-BR": "Artigo 33"
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "la": "Articulus 34",
+        "en-US": "Article 34",
+        "pt-BR": "Artigo 34"
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "la": "Articulus 35",
+        "en-US": "Article 35",
+        "pt-BR": "Artigo 35"
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "la": "Articulus 36",
+        "en-US": "Article 36",
+        "pt-BR": "Artigo 36"
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "la": "Articulus 37",
+        "en-US": "Article 37",
+        "pt-BR": "Artigo 37"
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "la": "Articulus 38",
+        "en-US": "Article 38",
+        "pt-BR": "Artigo 38"
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "la": "Articulus 39",
+        "en-US": "Article 39",
+        "pt-BR": "Artigo 39"
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "la": "Articulus 40",
+        "en-US": "Article 40",
+        "pt-BR": "Artigo 40"
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "la": "Articulus 41",
+        "en-US": "Article 41",
+        "pt-BR": "Artigo 41"
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "la": "Articulus 42",
+        "en-US": "Article 42",
+        "pt-BR": "Artigo 42"
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "la": "Articulus 43",
+        "en-US": "Article 43",
+        "pt-BR": "Artigo 43"
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "la": "Articulus 44",
+        "en-US": "Article 44",
+        "pt-BR": "Artigo 44"
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "la": "Articulus 45",
+        "en-US": "Article 45",
+        "pt-BR": "Artigo 45"
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "la": "Articulus 46",
+        "en-US": "Article 46",
+        "pt-BR": "Artigo 46"
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "la": "Articulus 47",
+        "en-US": "Article 47",
+        "pt-BR": "Artigo 47"
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "la": "Articulus 48",
+        "en-US": "Article 48",
+        "pt-BR": "Artigo 48"
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "la": "Articulus 49",
+        "en-US": "Article 49",
+        "pt-BR": "Artigo 49"
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "la": "Articulus 50",
+        "en-US": "Article 50",
+        "pt-BR": "Artigo 50"
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "la": "Articulus 51",
+        "en-US": "Article 51",
+        "pt-BR": "Artigo 51"
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "la": "Articulus 52",
+        "en-US": "Article 52",
+        "pt-BR": "Artigo 52"
+      }
+    },
+    {
+      "id": "c054",
+      "title": {
+        "la": "Articulus 53",
+        "en-US": "Article 53",
+        "pt-BR": "Artigo 53"
+      }
+    },
+    {
+      "id": "c055",
+      "title": {
+        "la": "Articulus 54",
+        "en-US": "Article 54",
+        "pt-BR": "Artigo 54"
+      }
+    },
+    {
+      "id": "c056",
+      "title": {
+        "la": "Articulus 55",
+        "en-US": "Article 55",
+        "pt-BR": "Artigo 55"
+      }
+    },
+    {
+      "id": "c057",
+      "title": {
+        "la": "Articulus 56",
+        "en-US": "Article 56",
+        "pt-BR": "Artigo 56"
+      }
+    },
+    {
+      "id": "c058",
+      "title": {
+        "la": "Articulus 57",
+        "en-US": "Article 57",
+        "pt-BR": "Artigo 57"
+      }
+    },
+    {
+      "id": "c059",
+      "title": {
+        "la": "Articulus 58",
+        "en-US": "Article 58",
+        "pt-BR": "Artigo 58"
+      }
+    },
+    {
+      "id": "c060",
+      "title": {
+        "la": "Articulus 60",
+        "en-US": "Article 60",
+        "pt-BR": "Artigo 60"
+      }
+    },
+    {
+      "id": "c061",
+      "title": {
+        "la": "Articulus 61",
+        "en-US": "Article 61",
+        "pt-BR": "Artigo 61"
+      }
+    },
+    {
+      "id": "c062",
+      "title": {
+        "la": "Articulus 62",
+        "en-US": "Article 62",
+        "pt-BR": "Artigo 62"
+      }
+    },
+    {
+      "id": "c063",
+      "title": {
+        "la": "Articulus 63",
+        "en-US": "Article 63",
+        "pt-BR": "Artigo 63"
+      }
+    },
+    {
+      "id": "c064",
+      "title": {
+        "la": "Articulus 64",
+        "en-US": "Article 64",
+        "pt-BR": "Artigo 64"
+      }
+    },
+    {
+      "id": "c065",
+      "title": {
+        "la": "Articulus 65",
+        "en-US": "Article 65",
+        "pt-BR": "Artigo 65"
+      }
+    },
+    {
+      "id": "c066",
+      "title": {
+        "la": "Articulus 66",
+        "en-US": "Article 66",
+        "pt-BR": "Artigo 66"
+      }
+    },
+    {
+      "id": "c067",
+      "title": {
+        "la": "Articulus 67",
+        "en-US": "Article 67",
+        "pt-BR": "Artigo 67"
+      }
+    },
+    {
+      "id": "c068",
+      "title": {
+        "la": "Articulus 68",
+        "en-US": "Article 68",
+        "pt-BR": "Artigo 68"
+      }
+    },
+    {
+      "id": "c069",
+      "title": {
+        "la": "Articulus 69",
+        "en-US": "Article 69",
+        "pt-BR": "Artigo 69"
+      }
+    },
+    {
+      "id": "c070",
+      "title": {
+        "la": "Articulus 70",
+        "en-US": "Article 70",
+        "pt-BR": "Artigo 70"
+      }
+    },
+    {
+      "id": "c071",
+      "title": {
+        "la": "Articulus 71",
+        "en-US": "Article 71",
+        "pt-BR": "Artigo 71"
+      }
+    },
+    {
+      "id": "c072",
+      "title": {
+        "la": "Articulus 72",
+        "en-US": "Article 72",
+        "pt-BR": "Artigo 72"
+      }
+    },
+    {
+      "id": "c073",
+      "title": {
+        "la": "Articulus 73",
+        "en-US": "Article 73",
+        "pt-BR": "Artigo 73"
+      }
+    },
+    {
+      "id": "c074",
+      "title": {
+        "la": "Articulus 74",
+        "en-US": "Article 74",
+        "pt-BR": "Artigo 74"
+      }
+    },
+    {
+      "id": "c075",
+      "title": {
+        "la": "Articulus 75",
+        "en-US": "Article 75",
+        "pt-BR": "Artigo 75"
+      }
+    },
+    {
+      "id": "c076",
+      "title": {
+        "la": "Articulus 76",
+        "en-US": "Article 76",
+        "pt-BR": "Artigo 76"
+      }
+    },
+    {
+      "id": "c077",
+      "title": {
+        "la": "Articulus 77",
+        "en-US": "Article 77",
+        "pt-BR": "Artigo 77"
+      }
+    },
+    {
+      "id": "c078",
+      "title": {
+        "la": "Articulus 78",
+        "en-US": "Article 78",
+        "pt-BR": "Artigo 78"
+      }
+    },
+    {
+      "id": "c079",
+      "title": {
+        "la": "Articulus 79",
+        "en-US": "Article 79",
+        "pt-BR": "Artigo 79"
+      }
+    },
+    {
+      "id": "c080",
+      "title": {
+        "la": "Articulus 80",
+        "en-US": "Article 80",
+        "pt-BR": "Artigo 80"
+      }
+    },
+    {
+      "id": "c081",
+      "title": {
+        "la": "Articulus 81",
+        "en-US": "Article 81",
+        "pt-BR": "Artigo 81"
+      }
+    },
+    {
+      "id": "c082",
+      "title": {
+        "la": "Articulus 82",
+        "en-US": "Article 82",
+        "pt-BR": "Artigo 82"
+      }
+    },
+    {
+      "id": "c083",
+      "title": {
+        "la": "Articulus 83",
+        "en-US": "Article 83",
+        "pt-BR": "Artigo 83"
+      }
+    },
+    {
+      "id": "c084",
+      "title": {
+        "la": "Articulus 84",
+        "en-US": "Article 84",
+        "pt-BR": "Artigo 84"
+      }
+    },
+    {
+      "id": "c085",
+      "title": {
+        "la": "Articulus 85",
+        "en-US": "Article 85",
+        "pt-BR": "Artigo 85"
+      }
+    },
+    {
+      "id": "c086",
+      "title": {
+        "la": "Articulus 86",
+        "en-US": "Article 86",
+        "pt-BR": "Artigo 86"
+      }
+    },
+    {
+      "id": "c087",
+      "title": {
+        "la": "Articulus 87",
+        "en-US": "Article 87",
+        "pt-BR": "Artigo 87"
+      }
+    },
+    {
+      "id": "c088",
+      "title": {
+        "la": "Articulus 88",
+        "en-US": "Article 88",
+        "pt-BR": "Artigo 88"
+      }
+    },
+    {
+      "id": "c089",
+      "title": {
+        "la": "Articulus 89",
+        "en-US": "Article 89",
+        "pt-BR": "Artigo 89"
+      }
+    },
+    {
+      "id": "c090",
+      "title": {
+        "la": "Articulus 90",
+        "en-US": "Article 90",
+        "pt-BR": "Artigo 90"
+      }
+    },
+    {
+      "id": "c091",
+      "title": {
+        "la": "Articulus 91",
+        "en-US": "Article 91",
+        "pt-BR": "Artigo 91"
+      }
+    },
+    {
+      "id": "c092",
+      "title": {
+        "la": "Articulus 92",
+        "en-US": "Article 92",
+        "pt-BR": "Artigo 92"
+      }
+    },
+    {
+      "id": "c093",
+      "title": {
+        "la": "Articulus 93",
+        "en-US": "Article 93",
+        "pt-BR": "Artigo 93"
+      }
+    },
+    {
+      "id": "c094",
+      "title": {
+        "la": "Articulus 94",
+        "en-US": "Article 94",
+        "pt-BR": "Artigo 94"
+      }
+    },
+    {
+      "id": "c095",
+      "title": {
+        "la": "Articulus 95",
+        "en-US": "Article 95",
+        "pt-BR": "Artigo 95"
+      }
+    },
+    {
+      "id": "c096",
+      "title": {
+        "la": "Articulus 96",
+        "en-US": "Article 96",
+        "pt-BR": "Artigo 96"
+      }
+    },
+    {
+      "id": "c097",
+      "title": {
+        "la": "Articulus 97",
+        "en-US": "Article 97",
+        "pt-BR": "Artigo 97"
+      }
+    },
+    {
+      "id": "c098",
+      "title": {
+        "la": "Articulus 98",
+        "en-US": "Article 98",
+        "pt-BR": "Artigo 98"
+      }
+    },
+    {
+      "id": "c099",
+      "title": {
+        "la": "Articulus 99",
+        "en-US": "Article 99",
+        "pt-BR": "Artigo 99"
+      }
+    },
+    {
+      "id": "c100",
+      "title": {
+        "la": "Articulus 100",
+        "en-US": "Article 100",
+        "pt-BR": "Artigo 100"
+      }
+    },
+    {
+      "id": "c101",
+      "title": {
+        "la": "Articulus 101",
+        "en-US": "Article 101",
+        "pt-BR": "Artigo 101"
+      }
+    },
+    {
+      "id": "c102",
+      "title": {
+        "la": "Articulus 102",
+        "en-US": "Article 102",
+        "pt-BR": "Artigo 102"
+      }
+    },
+    {
+      "id": "c103",
+      "title": {
+        "la": "Articulus 103",
+        "en-US": "Article 103",
+        "pt-BR": "Artigo 103"
+      }
+    },
+    {
+      "id": "c104",
+      "title": {
+        "la": "Articulus 104",
+        "en-US": "Article 104",
+        "pt-BR": "Artigo 104"
+      }
+    },
+    {
+      "id": "c105",
+      "title": {
+        "la": "Articulus 105",
+        "en-US": "Article 105",
+        "pt-BR": "Artigo 105"
+      }
+    },
+    {
+      "id": "c106",
+      "title": {
+        "la": "Articulus 106",
+        "en-US": "Article 106",
+        "pt-BR": "Artigo 106"
+      }
+    },
+    {
+      "id": "c107",
+      "title": {
+        "la": "Articulus 107",
+        "en-US": "Article 107",
+        "pt-BR": "Artigo 107"
+      }
+    },
+    {
+      "id": "c108",
+      "title": {
+        "la": "Articulus 108",
+        "en-US": "Article 108",
+        "pt-BR": "Artigo 108"
+      }
+    },
+    {
+      "id": "c109",
+      "title": {
+        "la": "Articulus 109",
+        "en-US": "Article 109",
+        "pt-BR": "Artigo 109"
+      }
+    },
+    {
+      "id": "c110",
+      "title": {
+        "la": "Articulus 110",
+        "en-US": "Article 110",
+        "pt-BR": "Artigo 110"
+      }
+    },
+    {
+      "id": "c111",
+      "title": {
+        "la": "Articulus 111",
+        "en-US": "Article 111",
+        "pt-BR": "Artigo 111"
+      }
+    },
+    {
+      "id": "c112",
+      "title": {
+        "la": "Articulus 112",
+        "en-US": "Article 112",
+        "pt-BR": "Artigo 112"
+      }
+    },
+    {
+      "id": "c113",
+      "title": {
+        "la": "Articulus 113",
+        "en-US": "Article 113",
+        "pt-BR": "Artigo 113"
+      }
+    },
+    {
+      "id": "c114",
+      "title": {
+        "la": "Articulus 114",
+        "en-US": "Article 114",
+        "pt-BR": "Artigo 114"
+      }
+    },
+    {
+      "id": "c115",
+      "title": {
+        "la": "Articulus 115",
+        "en-US": "Article 115",
+        "pt-BR": "Artigo 115"
+      }
+    },
+    {
+      "id": "c116",
+      "title": {
+        "la": "Articulus 116",
+        "en-US": "Article 116",
+        "pt-BR": "Artigo 116"
+      }
+    },
+    {
+      "id": "c117",
+      "title": {
+        "la": "Articulus 117",
+        "en-US": "Article 117",
+        "pt-BR": "Artigo 117"
+      }
+    },
+    {
+      "id": "c118",
+      "title": {
+        "la": "Articulus 118",
+        "en-US": "Article 118",
+        "pt-BR": "Artigo 118"
+      }
+    },
+    {
+      "id": "c119",
+      "title": {
+        "la": "Articulus 119",
+        "en-US": "Article 119",
+        "pt-BR": "Artigo 119"
+      }
+    },
+    {
+      "id": "c120",
+      "title": {
+        "la": "Articulus 120",
+        "en-US": "Article 120",
+        "pt-BR": "Artigo 120"
+      }
+    },
+    {
+      "id": "c121",
+      "title": {
+        "la": "Articulus 121",
+        "en-US": "Article 121",
+        "pt-BR": "Artigo 121"
+      }
+    },
+    {
+      "id": "c122",
+      "title": {
+        "la": "Articulus 122",
+        "en-US": "Article 122",
+        "pt-BR": "Artigo 122"
+      }
+    },
+    {
+      "id": "c123",
+      "title": {
+        "la": "Articulus 123",
+        "en-US": "Article 123",
+        "pt-BR": "Artigo 123"
+      }
+    },
+    {
+      "id": "c124",
+      "title": {
+        "la": "Articulus 124",
+        "en-US": "Article 124",
+        "pt-BR": "Artigo 124"
+      }
+    },
+    {
+      "id": "c125",
+      "title": {
+        "la": "Articulus 125",
+        "en-US": "Article 125",
+        "pt-BR": "Artigo 125"
+      }
+    },
+    {
+      "id": "c126",
+      "title": {
+        "la": "Articulus 126",
+        "en-US": "Article 126",
+        "pt-BR": "Artigo 126"
+      }
+    },
+    {
+      "id": "c127",
+      "title": {
+        "la": "Articulus 127",
+        "en-US": "Article 127",
+        "pt-BR": "Artigo 127"
+      }
+    },
+    {
+      "id": "c128",
+      "title": {
+        "la": "Articulus 128",
+        "en-US": "Article 128",
+        "pt-BR": "Artigo 128"
+      }
+    },
+    {
+      "id": "c129",
+      "title": {
+        "la": "Articulus 129",
+        "en-US": "Article 129",
+        "pt-BR": "Artigo 129"
+      }
+    },
+    {
+      "id": "c130",
+      "title": {
+        "la": "Articulus 130",
+        "en-US": "Article 130",
+        "pt-BR": "Artigo 130"
+      }
+    },
+    {
+      "id": "c131",
+      "title": {
+        "la": "Articulus 131",
+        "en-US": "Article 131",
+        "pt-BR": "Artigo 131"
+      }
+    },
+    {
+      "id": "c132",
+      "title": {
+        "la": "Articulus 132",
+        "en-US": "Article 132",
+        "pt-BR": "Artigo 132"
+      }
+    },
+    {
+      "id": "c133",
+      "title": {
+        "la": "Articulus 133",
+        "en-US": "Article 133",
+        "pt-BR": "Artigo 133"
+      }
+    },
+    {
+      "id": "c134",
+      "title": {
+        "la": "Articulus 134",
+        "en-US": "Article 134",
+        "pt-BR": "Artigo 134"
+      }
+    },
+    {
+      "id": "c135",
+      "title": {
+        "la": "Articulus 135",
+        "en-US": "Article 135",
+        "pt-BR": "Artigo 135"
+      }
+    },
+    {
+      "id": "c136",
+      "title": {
+        "la": "Articulus 136",
+        "en-US": "Article 136",
+        "pt-BR": "Artigo 136"
+      }
+    },
+    {
+      "id": "c137",
+      "title": {
+        "la": "Articulus 137",
+        "en-US": "Article 137",
+        "pt-BR": "Artigo 137"
+      }
+    },
+    {
+      "id": "c138",
+      "title": {
+        "la": "Articulus 138",
+        "en-US": "Article 138",
+        "pt-BR": "Artigo 138"
+      }
+    },
+    {
+      "id": "c139",
+      "title": {
+        "la": "Articulus 139",
+        "en-US": "Article 139",
+        "pt-BR": "Artigo 139"
+      }
+    },
+    {
+      "id": "c140",
+      "title": {
+        "la": "Articulus 140",
+        "en-US": "Article 140",
+        "pt-BR": "Artigo 140"
+      }
+    },
+    {
+      "id": "c141",
+      "title": {
+        "la": "Articulus 141",
+        "en-US": "Article 141",
+        "pt-BR": "Artigo 141"
+      }
+    },
+    {
+      "id": "c142",
+      "title": {
+        "la": "Articulus 142",
+        "en-US": "Article 142",
+        "pt-BR": "Artigo 142"
+      }
+    },
+    {
+      "id": "c143",
+      "title": {
+        "la": "Articulus 143",
+        "en-US": "Article 143",
+        "pt-BR": "Artigo 143"
+      }
+    }
+  ]
+}

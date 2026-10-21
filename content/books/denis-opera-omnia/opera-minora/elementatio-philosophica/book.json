@@ -1,0 +1,871 @@
+{
+  "id": "denis-elementatio-philosophica",
+  "cover": "label",
+  "name": {
+    "la": "Elementatio philosophica",
+    "en-US": "Elements of Philosophy",
+    "pt-BR": "Elementos de filosofia"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "Elementatio philosophica.",
+    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisecstati05unkngoog",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Initium",
+        "en-US": "Opening",
+        "pt-BR": "Abertura"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Proœmium",
+        "en-US": "Proem",
+        "pt-BR": "Proêmio"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Propositio 1",
+        "en-US": "Proposition 1",
+        "pt-BR": "Proposição 1"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Propositio 2",
+        "en-US": "Proposition 2",
+        "pt-BR": "Proposição 2"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Propositio 3",
+        "en-US": "Proposition 3",
+        "pt-BR": "Proposição 3"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Propositio 4",
+        "en-US": "Proposition 4",
+        "pt-BR": "Proposição 4"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Propositio 5",
+        "en-US": "Proposition 5",
+        "pt-BR": "Proposição 5"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Propositio 6",
+        "en-US": "Proposition 6",
+        "pt-BR": "Proposição 6"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Propositio 7",
+        "en-US": "Proposition 7",
+        "pt-BR": "Proposição 7"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Propositio 8",
+        "en-US": "Proposition 8",
+        "pt-BR": "Proposição 8"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Propositio 9",
+        "en-US": "Proposition 9",
+        "pt-BR": "Proposição 9"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Propositio 10",
+        "en-US": "Proposition 10",
+        "pt-BR": "Proposição 10"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Propositio 11",
+        "en-US": "Proposition 11",
+        "pt-BR": "Proposição 11"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Propositio 12",
+        "en-US": "Proposition 12",
+        "pt-BR": "Proposição 12"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Propositio 13",
+        "en-US": "Proposition 13",
+        "pt-BR": "Proposição 13"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Propositio 14",
+        "en-US": "Proposition 14",
+        "pt-BR": "Proposição 14"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Propositio 15",
+        "en-US": "Proposition 15",
+        "pt-BR": "Proposição 15"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Propositio 16",
+        "en-US": "Proposition 16",
+        "pt-BR": "Proposição 16"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Propositio 17",
+        "en-US": "Proposition 17",
+        "pt-BR": "Proposição 17"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Propositio 18",
+        "en-US": "Proposition 18",
+        "pt-BR": "Proposição 18"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Propositio 19",
+        "en-US": "Proposition 19",
+        "pt-BR": "Proposição 19"
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Propositio 20",
+        "en-US": "Proposition 20",
+        "pt-BR": "Proposição 20"
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Propositio 21",
+        "en-US": "Proposition 21",
+        "pt-BR": "Proposição 21"
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Propositio 22",
+        "en-US": "Proposition 22",
+        "pt-BR": "Proposição 22"
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "Propositio 23",
+        "en-US": "Proposition 23",
+        "pt-BR": "Proposição 23"
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "Propositio 24",
+        "en-US": "Proposition 24",
+        "pt-BR": "Proposição 24"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Propositio 25",
+        "en-US": "Proposition 25",
+        "pt-BR": "Proposição 25"
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "Propositio 26",
+        "en-US": "Proposition 26",
+        "pt-BR": "Proposição 26"
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "Propositio 27",
+        "en-US": "Proposition 27",
+        "pt-BR": "Proposição 27"
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "Propositio 28",
+        "en-US": "Proposition 28",
+        "pt-BR": "Proposição 28"
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "Propositio 29",
+        "en-US": "Proposition 29",
+        "pt-BR": "Proposição 29"
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "Propositio 30",
+        "en-US": "Proposition 30",
+        "pt-BR": "Proposição 30"
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "la": "Propositio 31",
+        "en-US": "Proposition 31",
+        "pt-BR": "Proposição 31"
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "Propositio 32",
+        "en-US": "Proposition 32",
+        "pt-BR": "Proposição 32"
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "la": "Propositio 33",
+        "en-US": "Proposition 33",
+        "pt-BR": "Proposição 33"
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "la": "Propositio 34",
+        "en-US": "Proposition 34",
+        "pt-BR": "Proposição 34"
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "la": "Propositio 35",
+        "en-US": "Proposition 35",
+        "pt-BR": "Proposição 35"
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "la": "Propositio 36",
+        "en-US": "Proposition 36",
+        "pt-BR": "Proposição 36"
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "la": "Propositio 37",
+        "en-US": "Proposition 37",
+        "pt-BR": "Proposição 37"
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "la": "Propositio 38",
+        "en-US": "Proposition 38",
+        "pt-BR": "Proposição 38"
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "la": "Propositio 39",
+        "en-US": "Proposition 39",
+        "pt-BR": "Proposição 39"
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "la": "Propositio 40",
+        "en-US": "Proposition 40",
+        "pt-BR": "Proposição 40"
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "la": "Propositio 41",
+        "en-US": "Proposition 41",
+        "pt-BR": "Proposição 41"
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "la": "Propositio 42",
+        "en-US": "Proposition 42",
+        "pt-BR": "Proposição 42"
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "la": "Propositio 43",
+        "en-US": "Proposition 43",
+        "pt-BR": "Proposição 43"
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "la": "Propositio 44",
+        "en-US": "Proposition 44",
+        "pt-BR": "Proposição 44"
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "la": "Propositio 45",
+        "en-US": "Proposition 45",
+        "pt-BR": "Proposição 45"
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "la": "Propositio 46",
+        "en-US": "Proposition 46",
+        "pt-BR": "Proposição 46"
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "la": "Propositio 47",
+        "en-US": "Proposition 47",
+        "pt-BR": "Proposição 47"
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "la": "Propositio 48",
+        "en-US": "Proposition 48",
+        "pt-BR": "Proposição 48"
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "la": "Propositio 49",
+        "en-US": "Proposition 49",
+        "pt-BR": "Proposição 49"
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "la": "Propositio 50",
+        "en-US": "Proposition 50",
+        "pt-BR": "Proposição 50"
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "la": "Propositio 51",
+        "en-US": "Proposition 51",
+        "pt-BR": "Proposição 51"
+      }
+    },
+    {
+      "id": "c054",
+      "title": {
+        "la": "Propositio 52",
+        "en-US": "Proposition 52",
+        "pt-BR": "Proposição 52"
+      }
+    },
+    {
+      "id": "c055",
+      "title": {
+        "la": "Propositio 53",
+        "en-US": "Proposition 53",
+        "pt-BR": "Proposição 53"
+      }
+    },
+    {
+      "id": "c056",
+      "title": {
+        "la": "Propositio 54",
+        "en-US": "Proposition 54",
+        "pt-BR": "Proposição 54"
+      }
+    },
+    {
+      "id": "c057",
+      "title": {
+        "la": "Propositio 55",
+        "en-US": "Proposition 55",
+        "pt-BR": "Proposição 55"
+      }
+    },
+    {
+      "id": "c058",
+      "title": {
+        "la": "Propositio 56",
+        "en-US": "Proposition 56",
+        "pt-BR": "Proposição 56"
+      }
+    },
+    {
+      "id": "c059",
+      "title": {
+        "la": "Propositio 58",
+        "en-US": "Proposition 58",
+        "pt-BR": "Proposição 58"
+      }
+    },
+    {
+      "id": "c060",
+      "title": {
+        "la": "Propositio 57",
+        "en-US": "Proposition 57",
+        "pt-BR": "Proposição 57"
+      }
+    },
+    {
+      "id": "c061",
+      "title": {
+        "la": "Propositio 59",
+        "en-US": "Proposition 59",
+        "pt-BR": "Proposição 59"
+      }
+    },
+    {
+      "id": "c062",
+      "title": {
+        "la": "Propositio 60",
+        "en-US": "Proposition 60",
+        "pt-BR": "Proposição 60"
+      }
+    },
+    {
+      "id": "c063",
+      "title": {
+        "la": "Propositio 61",
+        "en-US": "Proposition 61",
+        "pt-BR": "Proposição 61"
+      }
+    },
+    {
+      "id": "c064",
+      "title": {
+        "la": "Propositio 62",
+        "en-US": "Proposition 62",
+        "pt-BR": "Proposição 62"
+      }
+    },
+    {
+      "id": "c065",
+      "title": {
+        "la": "Propositio 63",
+        "en-US": "Proposition 63",
+        "pt-BR": "Proposição 63"
+      }
+    },
+    {
+      "id": "c066",
+      "title": {
+        "la": "Propositio 64",
+        "en-US": "Proposition 64",
+        "pt-BR": "Proposição 64"
+      }
+    },
+    {
+      "id": "c067",
+      "title": {
+        "la": "Propositio 65",
+        "en-US": "Proposition 65",
+        "pt-BR": "Proposição 65"
+      }
+    },
+    {
+      "id": "c068",
+      "title": {
+        "la": "Propositio 66",
+        "en-US": "Proposition 66",
+        "pt-BR": "Proposição 66"
+      }
+    },
+    {
+      "id": "c069",
+      "title": {
+        "la": "Propositio 67",
+        "en-US": "Proposition 67",
+        "pt-BR": "Proposição 67"
+      }
+    },
+    {
+      "id": "c070",
+      "title": {
+        "la": "Propositio 68",
+        "en-US": "Proposition 68",
+        "pt-BR": "Proposição 68"
+      }
+    },
+    {
+      "id": "c071",
+      "title": {
+        "la": "Propositio 69",
+        "en-US": "Proposition 69",
+        "pt-BR": "Proposição 69"
+      }
+    },
+    {
+      "id": "c072",
+      "title": {
+        "la": "Propositio 70",
+        "en-US": "Proposition 70",
+        "pt-BR": "Proposição 70"
+      }
+    },
+    {
+      "id": "c073",
+      "title": {
+        "la": "Propositio 71",
+        "en-US": "Proposition 71",
+        "pt-BR": "Proposição 71"
+      }
+    },
+    {
+      "id": "c074",
+      "title": {
+        "la": "Propositio 72",
+        "en-US": "Proposition 72",
+        "pt-BR": "Proposição 72"
+      }
+    },
+    {
+      "id": "c075",
+      "title": {
+        "la": "Propositio 73",
+        "en-US": "Proposition 73",
+        "pt-BR": "Proposição 73"
+      }
+    },
+    {
+      "id": "c076",
+      "title": {
+        "la": "Propositio 74",
+        "en-US": "Proposition 74",
+        "pt-BR": "Proposição 74"
+      }
+    },
+    {
+      "id": "c077",
+      "title": {
+        "la": "Propositio 75",
+        "en-US": "Proposition 75",
+        "pt-BR": "Proposição 75"
+      }
+    },
+    {
+      "id": "c078",
+      "title": {
+        "la": "Propositio 76",
+        "en-US": "Proposition 76",
+        "pt-BR": "Proposição 76"
+      }
+    },
+    {
+      "id": "c079",
+      "title": {
+        "la": "Propositio 77",
+        "en-US": "Proposition 77",
+        "pt-BR": "Proposição 77"
+      }
+    },
+    {
+      "id": "c080",
+      "title": {
+        "la": "Propositio 78",
+        "en-US": "Proposition 78",
+        "pt-BR": "Proposição 78"
+      }
+    },
+    {
+      "id": "c081",
+      "title": {
+        "la": "Propositio 79",
+        "en-US": "Proposition 79",
+        "pt-BR": "Proposição 79"
+      }
+    },
+    {
+      "id": "c082",
+      "title": {
+        "la": "Propositio 80",
+        "en-US": "Proposition 80",
+        "pt-BR": "Proposição 80"
+      }
+    },
+    {
+      "id": "c083",
+      "title": {
+        "la": "Propositio 81",
+        "en-US": "Proposition 81",
+        "pt-BR": "Proposição 81"
+      }
+    },
+    {
+      "id": "c084",
+      "title": {
+        "la": "Propositio 83",
+        "en-US": "Proposition 83",
+        "pt-BR": "Proposição 83"
+      }
+    },
+    {
+      "id": "c085",
+      "title": {
+        "la": "Propositio 84",
+        "en-US": "Proposition 84",
+        "pt-BR": "Proposição 84"
+      }
+    },
+    {
+      "id": "c086",
+      "title": {
+        "la": "Propositio 85",
+        "en-US": "Proposition 85",
+        "pt-BR": "Proposição 85"
+      }
+    },
+    {
+      "id": "c087",
+      "title": {
+        "la": "Propositio 86",
+        "en-US": "Proposition 86",
+        "pt-BR": "Proposição 86"
+      }
+    },
+    {
+      "id": "c088",
+      "title": {
+        "la": "Propositio 87",
+        "en-US": "Proposition 87",
+        "pt-BR": "Proposição 87"
+      }
+    },
+    {
+      "id": "c089",
+      "title": {
+        "la": "Propositio 88",
+        "en-US": "Proposition 88",
+        "pt-BR": "Proposição 88"
+      }
+    },
+    {
+      "id": "c090",
+      "title": {
+        "la": "Propositio 89",
+        "en-US": "Proposition 89",
+        "pt-BR": "Proposição 89"
+      }
+    },
+    {
+      "id": "c091",
+      "title": {
+        "la": "Propositio 90",
+        "en-US": "Proposition 90",
+        "pt-BR": "Proposição 90"
+      }
+    },
+    {
+      "id": "c092",
+      "title": {
+        "la": "Propositio 91",
+        "en-US": "Proposition 91",
+        "pt-BR": "Proposição 91"
+      }
+    },
+    {
+      "id": "c093",
+      "title": {
+        "la": "Propositio 92",
+        "en-US": "Proposition 92",
+        "pt-BR": "Proposição 92"
+      }
+    },
+    {
+      "id": "c094",
+      "title": {
+        "la": "Propositio 93",
+        "en-US": "Proposition 93",
+        "pt-BR": "Proposição 93"
+      }
+    },
+    {
+      "id": "c095",
+      "title": {
+        "la": "Propositio 94",
+        "en-US": "Proposition 94",
+        "pt-BR": "Proposição 94"
+      }
+    },
+    {
+      "id": "c096",
+      "title": {
+        "la": "Propositio 95",
+        "en-US": "Proposition 95",
+        "pt-BR": "Proposição 95"
+      }
+    },
+    {
+      "id": "c097",
+      "title": {
+        "la": "Propositio 96",
+        "en-US": "Proposition 96",
+        "pt-BR": "Proposição 96"
+      }
+    },
+    {
+      "id": "c098",
+      "title": {
+        "la": "Propositio 97",
+        "en-US": "Proposition 97",
+        "pt-BR": "Proposição 97"
+      }
+    },
+    {
+      "id": "c099",
+      "title": {
+        "la": "Propositio 98",
+        "en-US": "Proposition 98",
+        "pt-BR": "Proposição 98"
+      }
+    },
+    {
+      "id": "c100",
+      "title": {
+        "la": "Propositio 99",
+        "en-US": "Proposition 99",
+        "pt-BR": "Proposição 99"
+      }
+    },
+    {
+      "id": "c101",
+      "title": {
+        "la": "Propositio 100",
+        "en-US": "Proposition 100",
+        "pt-BR": "Proposição 100"
+      }
+    },
+    {
+      "id": "c102",
+      "title": {
+        "la": "Propositio 101",
+        "en-US": "Proposition 101",
+        "pt-BR": "Proposição 101"
+      }
+    },
+    {
+      "id": "c103",
+      "title": {
+        "la": "Propositio 102",
+        "en-US": "Proposition 102",
+        "pt-BR": "Proposição 102"
+      }
+    },
+    {
+      "id": "c104",
+      "title": {
+        "la": "Propositio 103",
+        "en-US": "Proposition 103",
+        "pt-BR": "Proposição 103"
+      }
+    },
+    {
+      "id": "c105",
+      "title": {
+        "la": "Propositio 104",
+        "en-US": "Proposition 104",
+        "pt-BR": "Proposição 104"
+      }
+    }
+  ]
+}

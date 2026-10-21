@@ -1,0 +1,61 @@
+{
+  "parts": [
+    {
+      "volume": "operaomnia38deni",
+      "leaves": [
+        "0537",
+        "0538",
+        "0539",
+        "0540",
+        "0541",
+        "0542",
+        "0543",
+        "0544",
+        "0545",
+        "0546",
+        "0547",
+        "0548",
+        "0549",
+        "0550",
+        "0551",
+        "0552",
+        "0553",
+        "0554",
+        "0555",
+        "0556",
+        "0557",
+        "0558",
+        "0559"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/exhortatorium-noviciorum",
+  "slug": "exhortatorium-noviciorum",
+  "draft": true,
+  "meta": {
+    "id": "denis-exhortatorium-noviciorum",
+    "cover": "label",
+    "name": {
+      "la": "Exhortatorium noviciorum",
+      "en-US": "Exhortation to Novices",
+      "pt-BR": "Exortação aos noviços"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Exhortatorium noviciorum.",
+      "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomnia38deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "parts": [
+    {
+      "volume": "doctorisecstati03unkngoog",
+      "leaves": [
+        "0465",
+        "0466",
+        "0467",
+        "0468",
+        "0469",
+        "0470",
+        "0471",
+        "0472",
+        "0473",
+        "0474",
+        "0475",
+        "0476",
+        "0477",
+        "0478",
+        "0479",
+        "0480",
+        "0481",
+        "0482",
+        "0483",
+        "0484",
+        "0485",
+        "0486",
+        "0487",
+        "0488",
+        "0489",
+        "0490",
+        "0491",
+        "0492",
+        "0493",
+        "0494",
+        "0495",
+        "0496",
+        "0497",
+        "0498",
+        "0499",
+        "0500",
+        "0501",
+        "0502",
+        "0503",
+        "0504",
+        "0505",
+        "0506",
+        "0507",
+        "0508",
+        "0509",
+        "0510",
+        "0511",
+        "0512",
+        "0513",
+        "0514",
+        "0515",
+        "0516",
+        "0517",
+        "0518",
+        "0519",
+        "0520",
+        "0521"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/dialogus-inter-christianum-et-sarracenum",
+  "slug": "dialogus-inter-christianum-et-sarracenum",
+  "draft": true,
+  "meta": {
+    "id": "denis-dialogus-inter-christianum-et-sarracenum",
+    "cover": "label",
+    "name": {
+      "la": "Dialogus disputationis inter Christianum et Sarracenum",
+      "en-US": "Disputation between a Christian and a Saracen",
+      "pt-BR": "Disputa entre um cristão e um sarraceno"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Dialogus disputationis inter Christianum et Sarracenum.",
+      "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/doctorisecstati03unkngoog",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVI (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  }
+}

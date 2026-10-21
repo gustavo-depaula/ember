@@ -1,0 +1,655 @@
+{
+  "id": "denis-de-laudibus-dei",
+  "cover": "label",
+  "name": {
+    "la": "De laudibus Dei",
+    "en-US": "On the Praises of God",
+    "pt-BR": "Sobre os louvores de Deus"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "De laudibus Dei.",
+    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisecstati10unkngoog",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Laus Dei ut bonus",
+        "en-US": "Laus Dei ut bonus",
+        "pt-BR": "Laus Dei ut bonus"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Laus Dei ut ens",
+        "en-US": "Laus Dei ut ens",
+        "pt-BR": "Laus Dei ut ens"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Laus Dei ut vivens",
+        "en-US": "Laus Dei ut vivens",
+        "pt-BR": "Laus Dei ut vivens"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Laus Dei ut sapiens",
+        "en-US": "Laus Dei ut sapiens",
+        "pt-BR": "Laus Dei ut sapiens"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Laus Dei ut verus et veritas",
+        "en-US": "Laus Dei ut verus et veritas",
+        "pt-BR": "Laus Dei ut verus et veritas"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Laus Dei ut unus et unitas",
+        "en-US": "Laus Dei ut unus et unitas",
+        "pt-BR": "Laus Dei ut unus et unitas"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Laus Dei ut omnipotens",
+        "en-US": "Laus Dei ut omnipotens",
+        "pt-BR": "Laus Dei ut omnipotens"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Laus Dei ut pulcher",
+        "en-US": "Laus Dei ut pulcher",
+        "pt-BR": "Laus Dei ut pulcher"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Laus Dei ut perfectus",
+        "en-US": "Laus Dei ut perfectus",
+        "pt-BR": "Laus Dei ut perfectus"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Laus Dei ut simpleæ",
+        "en-US": "Laus Dei ut simpleæ",
+        "pt-BR": "Laus Dei ut simpleæ"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Laus Dei ut felix",
+        "en-US": "Laus Dei ut felix",
+        "pt-BR": "Laus Dei ut felix"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Laus Dei ut incommutabilis",
+        "en-US": "Laus Dei ut incommutabilis",
+        "pt-BR": "Laus Dei ut incommutabilis"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Laus Dei ut volens et liber",
+        "en-US": "Laus Dei ut volens et liber",
+        "pt-BR": "Laus Dei ut volens et liber"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Laus Dei ut sanctus",
+        "en-US": "Laus Dei ut sanctus",
+        "pt-BR": "Laus Dei ut sanctus"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Laus Dei ut justus",
+        "en-US": "Laus Dei ut justus",
+        "pt-BR": "Laus Dei ut justus"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Laus Dei ut misericors",
+        "en-US": "Laus Dei ut misericors",
+        "pt-BR": "Laus Dei ut misericors"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Laus Dei ut amans",
+        "en-US": "Laus Dei ut amans",
+        "pt-BR": "Laus Dei ut amans"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Laus Dei ut æternus",
+        "en-US": "Laus Dei ut æternus",
+        "pt-BR": "Laus Dei ut æternus"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Laus Dei ut excellens",
+        "en-US": "Laus Dei ut excellens",
+        "pt-BR": "Laus Dei ut excellens"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Laus Dei ut idea atque exemplar",
+        "en-US": "Laus Dei ut idea atque exemplar",
+        "pt-BR": "Laus Dei ut idea atque exemplar"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Laus Dei ut prædestinator et reprobator",
+        "en-US": "Laus Dei ut prædestinator et reprobator",
+        "pt-BR": "Laus Dei ut prædestinator et reprobator"
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Laus Dei ut terribilis",
+        "en-US": "Laus Dei ut terribilis",
+        "pt-BR": "Laus Dei ut terribilis"
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Laus Dei ut dulcis",
+        "en-US": "Laus Dei ut dulcis",
+        "pt-BR": "Laus Dei ut dulcis"
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Laus Dei patris",
+        "en-US": "Laus Dei patris",
+        "pt-BR": "Laus Dei patris"
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "Laus Spiritus Sancti",
+        "en-US": "Laus Spiritus Sancti",
+        "pt-BR": "Laus Spiritus Sancti"
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "Laus filii Dei",
+        "en-US": "Laus filii Dei",
+        "pt-BR": "Laus filii Dei"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Laus superbenedictæ Trinitatis",
+        "en-US": "Laus superbenedictæ Trinitatis",
+        "pt-BR": "Laus superbenedictæ Trinitatis"
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "Laus verbi incarnati",
+        "en-US": "Laus verbi incarnati",
+        "pt-BR": "Laus verbi incarnati"
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "Laus Dei de rationibus incarnationis",
+        "en-US": "Laus Dei de rationibus incarnationis",
+        "pt-BR": "Laus Dei de rationibus incarnationis"
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "Laus Dei de perfectione humanitatis",
+        "en-US": "Laus Dei de perfectione humanitatis",
+        "pt-BR": "Laus Dei de perfectione humanitatis"
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "Laus Dei de sapientia Christi",
+        "en-US": "Laus Dei de sapientia Christi",
+        "pt-BR": "Laus Dei de sapientia Christi"
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "Laus Dei ex evangelio, de Christi divinitate",
+        "en-US": "Laus Dei ex evangelio, de Christi divinitate",
+        "pt-BR": "Laus Dei ex evangelio, de Christi divinitate"
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "la": "Laus Dei ex evangelio, de Christi incarnatione",
+        "en-US": "Laus Dei ex evangelio, de Christi incarnatione",
+        "pt-BR": "Laus Dei ex evangelio, de Christi incarnatione"
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "Laus Dei ex evangelio, de Christi generatione humana",
+        "en-US": "Laus Dei ex evangelio, de Christi generatione humana",
+        "pt-BR": "Laus Dei ex evangelio, de Christi generatione humana"
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "la": "Laus Dei ex evangelio, de alta Christi",
+        "en-US": "Laus Dei ex evangelio, de alta Christi",
+        "pt-BR": "Laus Dei ex evangelio, de alta Christi"
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "la": "Laus Dei ex evangelio, de Christi",
+        "en-US": "Laus Dei ex evangelio, de Christi",
+        "pt-BR": "Laus Dei ex evangelio, de Christi"
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "la": "Laus Dei ex evangelio, de variis Christi doctrinis",
+        "en-US": "Laus Dei ex evangelio, de variis Christi doctrinis",
+        "pt-BR": "Laus Dei ex evangelio, de variis Christi doctrinis"
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "la": "Laus Dei ex evangelio, de variis Christi doctrinis",
+        "en-US": "Laus Dei ex evangelio, de variis Christi doctrinis",
+        "pt-BR": "Laus Dei ex evangelio, de variis Christi doctrinis"
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "la": "Laus Dei ex evangelio, de futuro",
+        "en-US": "Laus Dei ex evangelio, de futuro",
+        "pt-BR": "Laus Dei ex evangelio, de futuro"
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "la": "Laus Dei ex evangelio, de variis Christi",
+        "en-US": "Laus Dei ex evangelio, de variis Christi",
+        "pt-BR": "Laus Dei ex evangelio, de variis Christi"
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "la": "Laus Dei ex evangelio, de cœna Domini",
+        "en-US": "Laus Dei ex evangelio, de cœna Domini",
+        "pt-BR": "Laus Dei ex evangelio, de cœna Domini"
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "la": "Laus Dei ex evangelio, de Christi sermone post cœnam",
+        "en-US": "Laus Dei ex evangelio, de Christi sermone post cœnam",
+        "pt-BR": "Laus Dei ex evangelio, de Christi sermone post cœnam"
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "la": "Laus Dei ex evangelio, de eodem",
+        "en-US": "Laus Dei ex evangelio, de eodem",
+        "pt-BR": "Laus Dei ex evangelio, de eodem"
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "la": "Laus Dei ex evangelio, de eodem",
+        "en-US": "Laus Dei ex evangelio, de eodem",
+        "pt-BR": "Laus Dei ex evangelio, de eodem"
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "la": "Laus Dei ex evangelio, de Christi passione",
+        "en-US": "Laus Dei ex evangelio, de Christi passione",
+        "pt-BR": "Laus Dei ex evangelio, de Christi passione"
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "la": "Laus Dei ex evangelio, de eadem Christi passione",
+        "en-US": "Laus Dei ex evangelio, de eadem Christi passione",
+        "pt-BR": "Laus Dei ex evangelio, de eadem Christi passione"
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "la": "Laus Dei ex evangelio, de Christi resurrectione",
+        "en-US": "Laus Dei ex evangelio, de Christi resurrectione",
+        "pt-BR": "Laus Dei ex evangelio, de Christi resurrectione"
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "la": "Laus Dei ex pauli ad corinthios",
+        "en-US": "Laus Dei ex pauli ad corinthios",
+        "pt-BR": "Laus Dei ex pauli ad corinthios"
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "la": "Laus Dei ex pauli ad galatas epistola",
+        "en-US": "Laus Dei ex pauli ad galatas epistola",
+        "pt-BR": "Laus Dei ex pauli ad galatas epistola"
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "la": "Laus Dei ex pauli ad philippenses epistola",
+        "en-US": "Laus Dei ex pauli ad philippenses epistola",
+        "pt-BR": "Laus Dei ex pauli ad philippenses epistola"
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "la": "Laus Dei ex prima pauli ad thessalonicenses epistola",
+        "en-US": "Laus Dei ex prima pauli ad thessalonicenses epistola",
+        "pt-BR": "Laus Dei ex prima pauli ad thessalonicenses epistola"
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "la": "Laus Dei ex secunda pauli ad thessalonicenses epistola",
+        "en-US": "Laus Dei ex secunda pauli ad thessalonicenses epistola",
+        "pt-BR": "Laus Dei ex secunda pauli ad thessalonicenses epistola"
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "la": "Laus Dei ex prima pauli ad timotheum epistola",
+        "en-US": "Laus Dei ex prima pauli ad timotheum epistola",
+        "pt-BR": "Laus Dei ex prima pauli ad timotheum epistola"
+      }
+    },
+    {
+      "id": "c054",
+      "title": {
+        "la": "Laus Dei ex secunda pauli ad timotheum epistola",
+        "en-US": "Laus Dei ex secunda pauli ad timotheum epistola",
+        "pt-BR": "Laus Dei ex secunda pauli ad timotheum epistola"
+      }
+    },
+    {
+      "id": "c055",
+      "title": {
+        "la": "Laus Dei ex pauli ad titum epistola",
+        "en-US": "Laus Dei ex pauli ad titum epistola",
+        "pt-BR": "Laus Dei ex pauli ad titum epistola"
+      }
+    },
+    {
+      "id": "c056",
+      "title": {
+        "la": "Laus Dei ex prima petri canonica",
+        "en-US": "Laus Dei ex prima petri canonica",
+        "pt-BR": "Laus Dei ex prima petri canonica"
+      }
+    },
+    {
+      "id": "c057",
+      "title": {
+        "la": "Laus Dei ex canonica judæ",
+        "en-US": "Laus Dei ex canonica judæ",
+        "pt-BR": "Laus Dei ex canonica judæ"
+      }
+    },
+    {
+      "id": "c058",
+      "title": {
+        "la": "Laus Dei ex actibus apostolorum",
+        "en-US": "Laus Dei ex actibus apostolorum",
+        "pt-BR": "Laus Dei ex actibus apostolorum"
+      }
+    },
+    {
+      "id": "c059",
+      "title": {
+        "la": "Laus Dei de opere creationis",
+        "en-US": "Laus Dei de opere creationis",
+        "pt-BR": "Laus Dei de opere creationis"
+      }
+    },
+    {
+      "id": "c060",
+      "title": {
+        "la": "Laus Dei de opere distinctionis et ornatus",
+        "en-US": "Laus Dei de opere distinctionis et ornatus",
+        "pt-BR": "Laus Dei de opere distinctionis et ornatus"
+      }
+    },
+    {
+      "id": "c061",
+      "title": {
+        "la": "Laus Dei de eodem",
+        "en-US": "Laus Dei de eodem",
+        "pt-BR": "Laus Dei de eodem"
+      }
+    },
+    {
+      "id": "c062",
+      "title": {
+        "la": "Laus Dei de angelicis spiritibus",
+        "en-US": "Laus Dei de angelicis spiritibus",
+        "pt-BR": "Laus Dei de angelicis spiritibus"
+      }
+    },
+    {
+      "id": "c063",
+      "title": {
+        "la": "Laus Dei de cœlo empyreo",
+        "en-US": "Laus Dei de cœlo empyreo",
+        "pt-BR": "Laus Dei de cœlo empyreo"
+      }
+    },
+    {
+      "id": "c064",
+      "title": {
+        "la": "Laus Dei de ordine seraphim",
+        "en-US": "Laus Dei de ordine seraphim",
+        "pt-BR": "Laus Dei de ordine seraphim"
+      }
+    },
+    {
+      "id": "c065",
+      "title": {
+        "la": "Laus Dei de cherubim",
+        "en-US": "Laus Dei de cherubim",
+        "pt-BR": "Laus Dei de cherubim"
+      }
+    },
+    {
+      "id": "c066",
+      "title": {
+        "la": "Laus Dei de thronis",
+        "en-US": "Laus Dei de thronis",
+        "pt-BR": "Laus Dei de thronis"
+      }
+    },
+    {
+      "id": "c067",
+      "title": {
+        "la": "Laus Dei de dominationibus",
+        "en-US": "Laus Dei de dominationibus",
+        "pt-BR": "Laus Dei de dominationibus"
+      }
+    },
+    {
+      "id": "c068",
+      "title": {
+        "la": "Laus Dei de ordine virtutum",
+        "en-US": "Laus Dei de ordine virtutum",
+        "pt-BR": "Laus Dei de ordine virtutum"
+      }
+    },
+    {
+      "id": "c069",
+      "title": {
+        "la": "Laus Dei de ordine potestatum",
+        "en-US": "Laus Dei de ordine potestatum",
+        "pt-BR": "Laus Dei de ordine potestatum"
+      }
+    },
+    {
+      "id": "c070",
+      "title": {
+        "la": "Laus Dei de ordine principatuum",
+        "en-US": "Laus Dei de ordine principatuum",
+        "pt-BR": "Laus Dei de ordine principatuum"
+      }
+    },
+    {
+      "id": "c071",
+      "title": {
+        "la": "Laus Dei de archangelis",
+        "en-US": "Laus Dei de archangelis",
+        "pt-BR": "Laus Dei de archangelis"
+      }
+    },
+    {
+      "id": "c072",
+      "title": {
+        "la": "Laus Dei de angelis",
+        "en-US": "Laus Dei de angelis",
+        "pt-BR": "Laus Dei de angelis"
+      }
+    },
+    {
+      "id": "c073",
+      "title": {
+        "la": "Laus Dei de ejus dignatione ad nos",
+        "en-US": "Laus Dei de ejus dignatione ad nos",
+        "pt-BR": "Laus Dei de ejus dignatione ad nos"
+      }
+    },
+    {
+      "id": "c074",
+      "title": {
+        "la": "Laus Dei de hierarchiis communiter",
+        "en-US": "Laus Dei de hierarchiis communiter",
+        "pt-BR": "Laus Dei de hierarchiis communiter"
+      }
+    },
+    {
+      "id": "c075",
+      "title": {
+        "la": "Laus Dei de elementis et mundi dispositione",
+        "en-US": "Laus Dei de elementis et mundi dispositione",
+        "pt-BR": "Laus Dei de elementis et mundi dispositione"
+      }
+    },
+    {
+      "id": "c076",
+      "title": {
+        "la": "Laus Dei de dispositione terræ",
+        "en-US": "Laus Dei de dispositione terræ",
+        "pt-BR": "Laus Dei de dispositione terræ"
+      }
+    },
+    {
+      "id": "c077",
+      "title": {
+        "la": "Laus Dei de impressionibus aeris",
+        "en-US": "Laus Dei de impressionibus aeris",
+        "pt-BR": "Laus Dei de impressionibus aeris"
+      }
+    },
+    {
+      "id": "c078",
+      "title": {
+        "la": "Laus Dei de consummatione mundi",
+        "en-US": "Laus Dei de consummatione mundi",
+        "pt-BR": "Laus Dei de consummatione mundi"
+      }
+    }
+  ]
+}

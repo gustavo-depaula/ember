@@ -1,0 +1,1151 @@
+{
+  "id": "denis-enarratio-in-jeremiam",
+  "cover": "label",
+  "name": {
+    "la": "Enarratio in Jeremiam",
+    "en-US": "Commentary on Jeremiah",
+    "pt-BR": "Comentário a Jeremias"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "Enarratio in Jeremiam.",
+    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition. Uncorrected OCR text: not yet proofread against the scans.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil. Texto do OCR ainda não revisto contra as digitalizações."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniainunum09deni",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. IX (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "g001",
+      "title": {
+        "la": "Caput 1",
+        "en-US": "Chapter 1",
+        "pt-BR": "Capítulo 1"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "Articulus 1",
+            "en-US": "Article 1",
+            "pt-BR": "Artigo 1"
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "Articulus 2",
+            "en-US": "Article 2",
+            "pt-BR": "Artigo 2"
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Articulus 3",
+            "en-US": "Article 3",
+            "pt-BR": "Artigo 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g002",
+      "title": {
+        "la": "Caput 2",
+        "en-US": "Chapter 2",
+        "pt-BR": "Capítulo 2"
+      },
+      "children": [
+        {
+          "id": "c004",
+          "title": {
+            "la": "Articulus 4",
+            "en-US": "Article 4",
+            "pt-BR": "Artigo 4"
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Articulus 5",
+            "en-US": "Article 5",
+            "pt-BR": "Artigo 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g003",
+      "title": {
+        "la": "Caput 3",
+        "en-US": "Chapter 3",
+        "pt-BR": "Capítulo 3"
+      },
+      "children": [
+        {
+          "id": "c006",
+          "title": {
+            "la": "Articulus 6",
+            "en-US": "Article 6",
+            "pt-BR": "Artigo 6"
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Articulus 7",
+            "en-US": "Article 7",
+            "pt-BR": "Artigo 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g004",
+      "title": {
+        "la": "Caput 4",
+        "en-US": "Chapter 4",
+        "pt-BR": "Capítulo 4"
+      },
+      "children": [
+        {
+          "id": "c008",
+          "title": {
+            "la": "Articulus 8",
+            "en-US": "Article 8",
+            "pt-BR": "Artigo 8"
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Articulus 9",
+            "en-US": "Article 9",
+            "pt-BR": "Artigo 9"
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Articulus 10",
+            "en-US": "Article 10",
+            "pt-BR": "Artigo 10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g005",
+      "title": {
+        "la": "Caput 5",
+        "en-US": "Chapter 5",
+        "pt-BR": "Capítulo 5"
+      },
+      "children": [
+        {
+          "id": "c011",
+          "title": {
+            "la": "Articulus 11",
+            "en-US": "Article 11",
+            "pt-BR": "Artigo 11"
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Articulus 12",
+            "en-US": "Article 12",
+            "pt-BR": "Artigo 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g006",
+      "title": {
+        "la": "Caput 6",
+        "en-US": "Chapter 6",
+        "pt-BR": "Capítulo 6"
+      },
+      "children": [
+        {
+          "id": "c013",
+          "title": {
+            "la": "Articulus 13",
+            "en-US": "Article 13",
+            "pt-BR": "Artigo 13"
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Articulus 14",
+            "en-US": "Article 14",
+            "pt-BR": "Artigo 14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g007",
+      "title": {
+        "la": "Caput 7",
+        "en-US": "Chapter 7",
+        "pt-BR": "Capítulo 7"
+      },
+      "children": [
+        {
+          "id": "c015",
+          "title": {
+            "la": "Articulus 15",
+            "en-US": "Article 15",
+            "pt-BR": "Artigo 15"
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Articulus 16",
+            "en-US": "Article 16",
+            "pt-BR": "Artigo 16"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g008",
+      "title": {
+        "la": "Caput 8",
+        "en-US": "Chapter 8",
+        "pt-BR": "Capítulo 8"
+      },
+      "children": [
+        {
+          "id": "c017",
+          "title": {
+            "la": "Articulus 17",
+            "en-US": "Article 17",
+            "pt-BR": "Artigo 17"
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Articulus 18",
+            "en-US": "Article 18",
+            "pt-BR": "Artigo 18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g009",
+      "title": {
+        "la": "Caput 9",
+        "en-US": "Chapter 9",
+        "pt-BR": "Capítulo 9"
+      },
+      "children": [
+        {
+          "id": "c019",
+          "title": {
+            "la": "Articulus 19",
+            "en-US": "Article 19",
+            "pt-BR": "Artigo 19"
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Articulus 20",
+            "en-US": "Article 20",
+            "pt-BR": "Artigo 20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g010",
+      "title": {
+        "la": "Caput 10",
+        "en-US": "Chapter 10",
+        "pt-BR": "Capítulo 10"
+      },
+      "children": [
+        {
+          "id": "c021",
+          "title": {
+            "la": "Articulus 21",
+            "en-US": "Article 21",
+            "pt-BR": "Artigo 21"
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Articulus 22",
+            "en-US": "Article 22",
+            "pt-BR": "Artigo 22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g011",
+      "title": {
+        "la": "Caput 11",
+        "en-US": "Chapter 11",
+        "pt-BR": "Capítulo 11"
+      },
+      "children": [
+        {
+          "id": "c023",
+          "title": {
+            "la": "Articulus 23",
+            "en-US": "Article 23",
+            "pt-BR": "Artigo 23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g012",
+      "title": {
+        "la": "Caput 12",
+        "en-US": "Chapter 12",
+        "pt-BR": "Capítulo 12"
+      },
+      "children": [
+        {
+          "id": "c024",
+          "title": {
+            "la": "Articulus 24",
+            "en-US": "Article 24",
+            "pt-BR": "Artigo 24"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g013",
+      "title": {
+        "la": "Caput 13",
+        "en-US": "Chapter 13",
+        "pt-BR": "Capítulo 13"
+      },
+      "children": [
+        {
+          "id": "c025",
+          "title": {
+            "la": "Articulus 25",
+            "en-US": "Article 25",
+            "pt-BR": "Artigo 25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g014",
+      "title": {
+        "la": "Caput 14",
+        "en-US": "Chapter 14",
+        "pt-BR": "Capítulo 14"
+      },
+      "children": [
+        {
+          "id": "c026",
+          "title": {
+            "la": "Articulus 26",
+            "en-US": "Article 26",
+            "pt-BR": "Artigo 26"
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Articulus 27",
+            "en-US": "Article 27",
+            "pt-BR": "Artigo 27"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g015",
+      "title": {
+        "la": "Caput 15",
+        "en-US": "Chapter 15",
+        "pt-BR": "Capítulo 15"
+      },
+      "children": [
+        {
+          "id": "c028",
+          "title": {
+            "la": "Articulus 28",
+            "en-US": "Article 28",
+            "pt-BR": "Artigo 28"
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Articulus 29",
+            "en-US": "Article 29",
+            "pt-BR": "Artigo 29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g016",
+      "title": {
+        "la": "Caput 16",
+        "en-US": "Chapter 16",
+        "pt-BR": "Capítulo 16"
+      },
+      "children": [
+        {
+          "id": "c030",
+          "title": {
+            "la": "Articulus 30",
+            "en-US": "Article 30",
+            "pt-BR": "Artigo 30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g017",
+      "title": {
+        "la": "Caput 17",
+        "en-US": "Chapter 17",
+        "pt-BR": "Capítulo 17"
+      },
+      "children": [
+        {
+          "id": "c031",
+          "title": {
+            "la": "Articulus 31",
+            "en-US": "Article 31",
+            "pt-BR": "Artigo 31"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g018",
+      "title": {
+        "la": "Caput 18",
+        "en-US": "Chapter 18",
+        "pt-BR": "Capítulo 18"
+      },
+      "children": [
+        {
+          "id": "c032",
+          "title": {
+            "la": "Articulus 32",
+            "en-US": "Article 32",
+            "pt-BR": "Artigo 32"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g019",
+      "title": {
+        "la": "Caput 19",
+        "en-US": "Chapter 19",
+        "pt-BR": "Capítulo 19"
+      },
+      "children": [
+        {
+          "id": "c033",
+          "title": {
+            "la": "Articulus 33",
+            "en-US": "Article 33",
+            "pt-BR": "Artigo 33"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g020",
+      "title": {
+        "la": "Caput 20",
+        "en-US": "Chapter 20",
+        "pt-BR": "Capítulo 20"
+      },
+      "children": [
+        {
+          "id": "c034",
+          "title": {
+            "la": "Articulus 34",
+            "en-US": "Article 34",
+            "pt-BR": "Artigo 34"
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Articulus 35",
+            "en-US": "Article 35",
+            "pt-BR": "Artigo 35"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g021",
+      "title": {
+        "la": "Caput 21",
+        "en-US": "Chapter 21",
+        "pt-BR": "Capítulo 21"
+      },
+      "children": [
+        {
+          "id": "c036",
+          "title": {
+            "la": "Articulus 36",
+            "en-US": "Article 36",
+            "pt-BR": "Artigo 36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g022",
+      "title": {
+        "la": "Caput 22",
+        "en-US": "Chapter 22",
+        "pt-BR": "Capítulo 22"
+      },
+      "children": [
+        {
+          "id": "c037",
+          "title": {
+            "la": "Articulus 37",
+            "en-US": "Article 37",
+            "pt-BR": "Artigo 37"
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Articulus 38",
+            "en-US": "Article 38",
+            "pt-BR": "Artigo 38"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g023",
+      "title": {
+        "la": "Caput 23",
+        "en-US": "Chapter 23",
+        "pt-BR": "Capítulo 23"
+      },
+      "children": [
+        {
+          "id": "c039",
+          "title": {
+            "la": "Articulus 39",
+            "en-US": "Article 39",
+            "pt-BR": "Artigo 39"
+          }
+        },
+        {
+          "id": "c040",
+          "title": {
+            "la": "Articulus 40",
+            "en-US": "Article 40",
+            "pt-BR": "Artigo 40"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g024",
+      "title": {
+        "la": "Caput 24",
+        "en-US": "Chapter 24",
+        "pt-BR": "Capítulo 24"
+      },
+      "children": [
+        {
+          "id": "c041",
+          "title": {
+            "la": "Articulus 41",
+            "en-US": "Article 41",
+            "pt-BR": "Artigo 41"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g025",
+      "title": {
+        "la": "Caput 25",
+        "en-US": "Chapter 25",
+        "pt-BR": "Capítulo 25"
+      },
+      "children": [
+        {
+          "id": "c042",
+          "title": {
+            "la": "Articulus 42",
+            "en-US": "Article 42",
+            "pt-BR": "Artigo 42"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g026",
+      "title": {
+        "la": "Caput 26",
+        "en-US": "Chapter 26",
+        "pt-BR": "Capítulo 26"
+      },
+      "children": [
+        {
+          "id": "c043",
+          "title": {
+            "la": "Articulus 43",
+            "en-US": "Article 43",
+            "pt-BR": "Artigo 43"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g027",
+      "title": {
+        "la": "Caput 27",
+        "en-US": "Chapter 27",
+        "pt-BR": "Capítulo 27"
+      },
+      "children": [
+        {
+          "id": "c044",
+          "title": {
+            "la": "Articulus 44",
+            "en-US": "Article 44",
+            "pt-BR": "Artigo 44"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g028",
+      "title": {
+        "la": "Caput 28",
+        "en-US": "Chapter 28",
+        "pt-BR": "Capítulo 28"
+      },
+      "children": [
+        {
+          "id": "c045",
+          "title": {
+            "la": "Articulus 45",
+            "en-US": "Article 45",
+            "pt-BR": "Artigo 45"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g029",
+      "title": {
+        "la": "Caput 29",
+        "en-US": "Chapter 29",
+        "pt-BR": "Capítulo 29"
+      },
+      "children": [
+        {
+          "id": "c046",
+          "title": {
+            "la": "Articulus 46",
+            "en-US": "Article 46",
+            "pt-BR": "Artigo 46"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g030",
+      "title": {
+        "la": "Caput 30",
+        "en-US": "Chapter 30",
+        "pt-BR": "Capítulo 30"
+      },
+      "children": [
+        {
+          "id": "c047",
+          "title": {
+            "la": "Articulus 47",
+            "en-US": "Article 47",
+            "pt-BR": "Artigo 47"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g031",
+      "title": {
+        "la": "Caput 31",
+        "en-US": "Chapter 31",
+        "pt-BR": "Capítulo 31"
+      },
+      "children": [
+        {
+          "id": "c048",
+          "title": {
+            "la": "Articulus 48",
+            "en-US": "Article 48",
+            "pt-BR": "Artigo 48"
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Articulus 49",
+            "en-US": "Article 49",
+            "pt-BR": "Artigo 49"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g032",
+      "title": {
+        "la": "Caput 32",
+        "en-US": "Chapter 32",
+        "pt-BR": "Capítulo 32"
+      },
+      "children": [
+        {
+          "id": "c050",
+          "title": {
+            "la": "Articulus 50",
+            "en-US": "Article 50",
+            "pt-BR": "Artigo 50"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g033",
+      "title": {
+        "la": "Caput 33",
+        "en-US": "Chapter 33",
+        "pt-BR": "Capítulo 33"
+      },
+      "children": [
+        {
+          "id": "c051",
+          "title": {
+            "la": "Articulus 51",
+            "en-US": "Article 51",
+            "pt-BR": "Artigo 51"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g034",
+      "title": {
+        "la": "Caput 34",
+        "en-US": "Chapter 34",
+        "pt-BR": "Capítulo 34"
+      },
+      "children": [
+        {
+          "id": "c052",
+          "title": {
+            "la": "Articulus 52",
+            "en-US": "Article 52",
+            "pt-BR": "Artigo 52"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g035",
+      "title": {
+        "la": "Caput 35",
+        "en-US": "Chapter 35",
+        "pt-BR": "Capítulo 35"
+      },
+      "children": [
+        {
+          "id": "c053",
+          "title": {
+            "la": "Articulus 53",
+            "en-US": "Article 53",
+            "pt-BR": "Artigo 53"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g036",
+      "title": {
+        "la": "Caput 36",
+        "en-US": "Chapter 36",
+        "pt-BR": "Capítulo 36"
+      },
+      "children": [
+        {
+          "id": "c054",
+          "title": {
+            "la": "Articulus 54",
+            "en-US": "Article 54",
+            "pt-BR": "Artigo 54"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g037",
+      "title": {
+        "la": "Caput 37",
+        "en-US": "Chapter 37",
+        "pt-BR": "Capítulo 37"
+      },
+      "children": [
+        {
+          "id": "c055",
+          "title": {
+            "la": "Articulus 55",
+            "en-US": "Article 55",
+            "pt-BR": "Artigo 55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g038",
+      "title": {
+        "la": "Caput 38",
+        "en-US": "Chapter 38",
+        "pt-BR": "Capítulo 38"
+      },
+      "children": [
+        {
+          "id": "c056",
+          "title": {
+            "la": "Articulus 56",
+            "en-US": "Article 56",
+            "pt-BR": "Artigo 56"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g039",
+      "title": {
+        "la": "Caput 39",
+        "en-US": "Chapter 39",
+        "pt-BR": "Capítulo 39"
+      },
+      "children": [
+        {
+          "id": "c057",
+          "title": {
+            "la": "Articulus 57",
+            "en-US": "Article 57",
+            "pt-BR": "Artigo 57"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g040",
+      "title": {
+        "la": "Caput 40",
+        "en-US": "Chapter 40",
+        "pt-BR": "Capítulo 40"
+      },
+      "children": [
+        {
+          "id": "c058",
+          "title": {
+            "la": "Articulus 58",
+            "en-US": "Article 58",
+            "pt-BR": "Artigo 58"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g041",
+      "title": {
+        "la": "Caput 41",
+        "en-US": "Chapter 41",
+        "pt-BR": "Capítulo 41"
+      },
+      "children": [
+        {
+          "id": "c059",
+          "title": {
+            "la": "Articulus 59",
+            "en-US": "Article 59",
+            "pt-BR": "Artigo 59"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g042",
+      "title": {
+        "la": "Caput 42",
+        "en-US": "Chapter 42",
+        "pt-BR": "Capítulo 42"
+      },
+      "children": [
+        {
+          "id": "c060",
+          "title": {
+            "la": "Articulus 60",
+            "en-US": "Article 60",
+            "pt-BR": "Artigo 60"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g043",
+      "title": {
+        "la": "Caput 43",
+        "en-US": "Chapter 43",
+        "pt-BR": "Capítulo 43"
+      },
+      "children": [
+        {
+          "id": "c061",
+          "title": {
+            "la": "Articulus 61",
+            "en-US": "Article 61",
+            "pt-BR": "Artigo 61"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g044",
+      "title": {
+        "la": "Caput 44",
+        "en-US": "Chapter 44",
+        "pt-BR": "Capítulo 44"
+      },
+      "children": [
+        {
+          "id": "c062",
+          "title": {
+            "la": "Articulus 62",
+            "en-US": "Article 62",
+            "pt-BR": "Artigo 62"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g045",
+      "title": {
+        "la": "Caput 45",
+        "en-US": "Chapter 45",
+        "pt-BR": "Capítulo 45"
+      },
+      "children": [
+        {
+          "id": "c063",
+          "title": {
+            "la": "Articulus 63",
+            "en-US": "Article 63",
+            "pt-BR": "Artigo 63"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g046",
+      "title": {
+        "la": "Caput 46",
+        "en-US": "Chapter 46",
+        "pt-BR": "Capítulo 46"
+      },
+      "children": [
+        {
+          "id": "c064",
+          "title": {
+            "la": "Articulus 64",
+            "en-US": "Article 64",
+            "pt-BR": "Artigo 64"
+          }
+        },
+        {
+          "id": "c065",
+          "title": {
+            "la": "Articulus 65",
+            "en-US": "Article 65",
+            "pt-BR": "Artigo 65"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g047",
+      "title": {
+        "la": "Caput 47",
+        "en-US": "Chapter 47",
+        "pt-BR": "Capítulo 47"
+      },
+      "children": [
+        {
+          "id": "c066",
+          "title": {
+            "la": "Articulus 66",
+            "en-US": "Article 66",
+            "pt-BR": "Artigo 66"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g048",
+      "title": {
+        "la": "Caput 48",
+        "en-US": "Chapter 48",
+        "pt-BR": "Capítulo 48"
+      },
+      "children": [
+        {
+          "id": "c067",
+          "title": {
+            "la": "Articulus 67",
+            "en-US": "Article 67",
+            "pt-BR": "Artigo 67"
+          }
+        },
+        {
+          "id": "c068",
+          "title": {
+            "la": "Articulus 68",
+            "en-US": "Article 68",
+            "pt-BR": "Artigo 68"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g049",
+      "title": {
+        "la": "Caput 49",
+        "en-US": "Chapter 49",
+        "pt-BR": "Capítulo 49"
+      },
+      "children": [
+        {
+          "id": "c069",
+          "title": {
+            "la": "Articulus 69",
+            "en-US": "Article 69",
+            "pt-BR": "Artigo 69"
+          }
+        },
+        {
+          "id": "c070",
+          "title": {
+            "la": "Articulus 70",
+            "en-US": "Article 70",
+            "pt-BR": "Artigo 70"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g050",
+      "title": {
+        "la": "Caput 50",
+        "en-US": "Chapter 50",
+        "pt-BR": "Capítulo 50"
+      },
+      "children": [
+        {
+          "id": "c071",
+          "title": {
+            "la": "Articulus 71",
+            "en-US": "Article 71",
+            "pt-BR": "Artigo 71"
+          }
+        },
+        {
+          "id": "c072",
+          "title": {
+            "la": "Articulus 72",
+            "en-US": "Article 72",
+            "pt-BR": "Artigo 72"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g051",
+      "title": {
+        "la": "Caput 51",
+        "en-US": "Chapter 51",
+        "pt-BR": "Capítulo 51"
+      },
+      "children": [
+        {
+          "id": "c073",
+          "title": {
+            "la": "Articulus 73",
+            "en-US": "Article 73",
+            "pt-BR": "Artigo 73"
+          }
+        },
+        {
+          "id": "c074",
+          "title": {
+            "la": "Articulus 74",
+            "en-US": "Article 74",
+            "pt-BR": "Artigo 74"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g052",
+      "title": {
+        "la": "Caput 52",
+        "en-US": "Chapter 52",
+        "pt-BR": "Capítulo 52"
+      },
+      "children": [
+        {
+          "id": "c075",
+          "title": {
+            "la": "Articulus 75",
+            "en-US": "Article 75",
+            "pt-BR": "Artigo 75"
+          }
+        }
+      ]
+    }
+  ]
+}

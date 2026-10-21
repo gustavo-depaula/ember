@@ -1,0 +1,70 @@
+{
+  "parts": [
+    {
+      "volume": "operaomnia39deni",
+      "leaves": [
+        "0338",
+        "0339",
+        "0340",
+        "0341",
+        "0342",
+        "0343",
+        "0344",
+        "0345",
+        "0346",
+        "0347",
+        "0348",
+        "0349",
+        "0350",
+        "0351",
+        "0352",
+        "0353",
+        "0354",
+        "0355",
+        "0356",
+        "0357",
+        "0358",
+        "0359",
+        "0360",
+        "0361",
+        "0362",
+        "0363",
+        "0364",
+        "0365",
+        "0366",
+        "0367",
+        "0368",
+        "0369"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/contra-ambitionem",
+  "slug": "contra-ambitionem",
+  "draft": true,
+  "meta": {
+    "id": "denis-contra-ambitionem",
+    "cover": "label",
+    "name": {
+      "la": "Contra ambitionem",
+      "en-US": "Against Ambition",
+      "pt-BR": "Contra a ambição"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Contra ambitionem.",
+      "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomnia39deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIX (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  }
+}

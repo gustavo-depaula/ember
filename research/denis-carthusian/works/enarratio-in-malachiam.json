@@ -1,0 +1,74 @@
+{
+  "parts": [
+    {
+      "volume": "operaomniainunum10deni",
+      "leaves": [
+        "0768",
+        "0769",
+        "0770",
+        "0771",
+        "0772",
+        "0773",
+        "0774",
+        "0775",
+        "0776",
+        "0777",
+        "0778",
+        "0779",
+        "0780",
+        "0781",
+        "0782",
+        "0783",
+        "0784",
+        "0785",
+        "0786",
+        "0787",
+        "0788",
+        "0789",
+        "0790",
+        "0791",
+        "0792",
+        "0793",
+        "0794",
+        "0795"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/commentaries/enarratio-in-malachiam",
+  "slug": "enarratio-in-malachiam",
+  "draft": true,
+  "meta": {
+    "id": "denis-enarratio-in-malachiam",
+    "cover": "label",
+    "name": {
+      "la": "Enarratio in Malachiam",
+      "en-US": "Commentary on Malachi",
+      "pt-BR": "Comentário a Malaquias"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Enarratio in Malachiam.",
+      "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum10deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. X (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  },
+  "toc_group": {
+    "pattern": "CAP\\.?\\s*([IVXLCUH]+)\\b",
+    "label": {
+      "la": "Caput {n}",
+      "en-US": "Chapter {n}",
+      "pt-BR": "Capítulo {n}"
+    }
+  }
+}

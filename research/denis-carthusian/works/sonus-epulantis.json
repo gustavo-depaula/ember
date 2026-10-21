@@ -1,0 +1,63 @@
+{
+  "parts": [
+    {
+      "volume": "operaomnia41deni_0",
+      "leaves": [
+        "0296",
+        "0297",
+        "0298",
+        "0299",
+        "0300",
+        "0301",
+        "0302",
+        "0303",
+        "0304",
+        "0305",
+        "0306",
+        "0307",
+        "0308",
+        "0309",
+        "0310",
+        "0311",
+        "0312",
+        "0313",
+        "0314",
+        "0315",
+        "0316",
+        "0317",
+        "0318",
+        "0319",
+        "0320"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/sonus-epulantis",
+  "slug": "sonus-epulantis",
+  "draft": true,
+  "meta": {
+    "id": "denis-sonus-epulantis",
+    "cover": "label",
+    "name": {
+      "la": "Sonus epulantis",
+      "en-US": "The Sound of One Feasting",
+      "pt-BR": "O som de quem se banqueteia"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Sonus epulantis.",
+      "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomnia41deni_0",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XLI (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  }
+}

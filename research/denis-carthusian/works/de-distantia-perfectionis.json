@@ -1,0 +1,74 @@
+{
+  "parts": [
+    {
+      "volume": "doctorisecstati10unkngoog",
+      "leaves": [
+        "0269",
+        "0270",
+        "0271",
+        "0272",
+        "0273",
+        "0274",
+        "0275",
+        "0276",
+        "0277",
+        "0278",
+        "0279",
+        "0280",
+        "0281",
+        "0282",
+        "0283",
+        "0284",
+        "0285",
+        "0286",
+        "0287",
+        "0288",
+        "0289",
+        "0290",
+        "0291",
+        "0292",
+        "0293",
+        "0294",
+        "0295",
+        "0296",
+        "0297",
+        "0298",
+        "0299",
+        "0300",
+        "0301",
+        "0302",
+        "0303",
+        "0304"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-distantia-perfectionis",
+  "slug": "de-distantia-perfectionis",
+  "draft": true,
+  "meta": {
+    "id": "denis-de-distantia-perfectionis",
+    "cover": "label",
+    "name": {
+      "la": "De distantia perfectionis divinæ et humanæ",
+      "en-US": "On How Far Divine Perfection Exceeds Human",
+      "pt-BR": "Sobre a distância entre a perfeição divina e a humana"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De distantia perfectionis divinæ et humanæ.",
+      "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/doctorisecstati10unkngoog",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  }
+}

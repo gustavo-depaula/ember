@@ -1,0 +1,72 @@
+{
+  "parts": [
+    {
+      "volume": "operaomniainunum13deni",
+      "leaves": [
+        "0486",
+        "0487",
+        "0488",
+        "0489",
+        "0490",
+        "0491",
+        "0492",
+        "0493",
+        "0494",
+        "0495",
+        "0496",
+        "0497",
+        "0498",
+        "0499",
+        "0500",
+        "0501",
+        "0502",
+        "0503",
+        "0504",
+        "0505",
+        "0506",
+        "0507",
+        "0508",
+        "0509",
+        "0510",
+        "0511"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/commentaries/enarratio-in-titum-et-philemonem",
+  "slug": "enarratio-in-titum-et-philemonem",
+  "draft": true,
+  "meta": {
+    "id": "denis-enarratio-in-titum-et-philemonem",
+    "cover": "label",
+    "name": {
+      "la": "Enarratio in Epistolas ad Titum et ad Philemonem",
+      "en-US": "Commentary on Titus and Philemon",
+      "pt-BR": "Comentário a Tito e a Filêmon"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Enarratio in Epistolas ad Titum et ad Philemonem.",
+      "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum13deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  },
+  "toc_group": {
+    "pattern": "CAP\\.?\\s*([IVXLCUH]+)\\b",
+    "label": {
+      "la": "Caput {n}",
+      "en-US": "Chapter {n}",
+      "pt-BR": "Capítulo {n}"
+    }
+  }
+}

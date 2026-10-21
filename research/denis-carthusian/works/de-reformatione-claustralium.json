@@ -1,0 +1,73 @@
+{
+  "parts": [
+    {
+      "volume": "operaomnia38deni",
+      "leaves": [
+        "0222",
+        "0223",
+        "0224",
+        "0225",
+        "0226",
+        "0227",
+        "0228",
+        "0229",
+        "0230",
+        "0231",
+        "0232",
+        "0233",
+        "0234",
+        "0235",
+        "0236",
+        "0237",
+        "0238",
+        "0239",
+        "0240",
+        "0241",
+        "0242",
+        "0243",
+        "0244",
+        "0245",
+        "0246",
+        "0247",
+        "0248",
+        "0249",
+        "0250",
+        "0251",
+        "0252",
+        "0253",
+        "0254",
+        "0255",
+        "0256"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-reformatione-claustralium",
+  "slug": "de-reformatione-claustralium",
+  "draft": true,
+  "meta": {
+    "id": "denis-de-reformatione-claustralium",
+    "cover": "label",
+    "name": {
+      "la": "De reformatione claustralium",
+      "en-US": "On the Reform of Religious",
+      "pt-BR": "Sobre a reforma dos religiosos"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De reformatione claustralium.",
+      "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomnia38deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      }
+    ]
+  }
+}
