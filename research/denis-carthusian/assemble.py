@@ -30,6 +30,7 @@ import numpy as np
 from PIL import Image
 
 from apply_fixes import apply, plain_and_mask, render
+from catalogue import roman as roman_numeral
 from run_volumes import data, volume_zip
 
 repo = Path(__file__).resolve().parents[2]
@@ -482,6 +483,25 @@ def merge_short(chapters: list, toc: list) -> list:
     return prune(toc)
 
 
+def lacunae(volume: str) -> dict[str, tuple[str, str]]:
+    """The volume's known gaps (gaps.tsv) as {leaf: (where, note)}: "at" the leaf for an
+    unreadable page, "after" it for pages the scan skipped. The note is printed in the text."""
+    found = {}
+    for line in (Path(__file__).parent / "gaps.tsv").read_text().splitlines()[1:]:
+        v, tomus, leaf, kind, before, after, note = (line.split("\t") + [""] * 7)[:7]
+        if v != volume or note.startswith("Not a gap"):
+            continue
+        tome = roman_numeral(int(tomus))
+        if kind == "unreadable":
+            page = int(before) + 1 if before else int(after) - 1
+            found[leaf] = ("at", f"> *Lacuna: p. {page} of tome {tome} cannot be read in the scan, so its text is missing here.*")
+        elif kind == "missing":
+            pages = range(int(before) + 1, int(after))
+            span = f"p. {pages[0]}" if len(pages) == 1 else f"pp. {pages[0]}–{pages[-1]}"
+            found[leaf] = ("after", f"> *Lacuna: {span} of tome {tome} {'is' if len(pages) == 1 else 'are'} missing from the scan, so {'its' if len(pages) == 1 else 'their'} text is missing here.*")
+    return found
+
+
 def assemble_parts(work: dict) -> None:
     """Build a corpus book from a catalogue work: its leaves across one or more volumes, checked or not."""
     pages = []  # (body, running head)
@@ -494,10 +514,20 @@ def assemble_parts(work: dict) -> None:
             if missing:
                 raise SystemExit(f"{work['slug']}: {len(missing)} pages not checked yet, e.g. {missing[:5]}")
         texts = {leaf: page_text(drafts, checked, leaf) for leaf in leaves}
+        gaps = lacunae(volume)
+        # An unreadable leaf right after the work's last one is its last page (Sentences IV, p. 482).
+        tail = f"{int(part['leaves'][-1]) + 1:04d}"
         for leaf in dedupe_retakes(volume, leaves, texts):
+            if gaps.get(leaf, ("",))[0] == "at":
+                pages.append((gaps[leaf][1], ""))
+                continue
             body = texts[leaf][0]
             if body and not re.fullmatch(r"[\d\s]+", body):
                 pages.append((body, running_head(drafts, leaf)[0]))
+            if gaps.get(leaf, ("",))[0] == "after":
+                pages.append((gaps[leaf][1], ""))
+        if gaps.get(tail, ("",))[0] == "at":
+            pages.append((gaps[tail][1], ""))
 
     text = tidy(join_pages([body for body, _ in pages]))
     chapters, toc = split_chapters(text)
