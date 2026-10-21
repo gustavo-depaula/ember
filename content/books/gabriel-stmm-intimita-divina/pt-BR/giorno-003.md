@@ -1,10 +1,10 @@
 # 3 — SANTIDADE PLENITUDE DA GRAÇA
 
-**Presença de Deus.** — *Aproximo-me de Jesus, "fonte de vida e de santidade", com um desejo vivo de beber desta fonte inesgotável.*
+**Presença de Deus.** — *Aproximo-me de Jesus, “fonte de vida e de santidade”, com um desejo vivo de beber desta fonte inesgotável.*
 
 ### Meditação
 
-**1** — Se Jesus veio para santificar "todos" nós, se a vontade de Deus é que "todos" sejam santos, a santidade não pode consistir em dons extraordinários da natureza e da graça, que dependem unicamente da liberalidade de Deus.
+**1** — Se Jesus veio para santificar “todos” nós, se a vontade de Deus é que “todos” sejam santos, a santidade não pode consistir em dons extraordinários da natureza e da graça, que dependem unicamente da liberalidade de Deus.
 
 A santidade deve consistir em algo que todas as almas de boa vontade, mesmo as mais humildes e simples, possam alcançar apoiadas pela ajuda divina. A santidade é a perfeição da vida cristã. Consiste no pleno desenvolvimento em nós da vida sobrenatural, cujos princípios são a graça santificante, as virtudes infundidas e os dons do Espírito Santo.
 
@@ -14,9 +14,9 @@ A graça, ao elevar-nos ao estado sobrenatural, torna-nos capazes de entrar em r
 
 **2** — É necessário que a vida sobrenatural que brota da graça invista toda a nossa vida humana, para que ela se sobrenaturalize em cada atividade, em cada detalhe, na sua totalidade. À medida que a graça cresce e amadurece na nossa alma, ela exerce uma influência cada vez mais ampla e profunda; e quando esta influência se estender eficazmente a todas as nossas actividades, orientando-as todas para a glória de Deus e unindo-nos totalmente a Ele através da caridade, teremos alcançado a plenitude da vida cristã, a santidade.
 
-A graça é um dom totalmente gratuito que Deus nos concedeu através dos méritos infinitos de Jesus. Jesus, ao morrer na Cruz, mereceu-o por nós e não em pequena medida, mas em medida superabundante; Ele, diz São João, é "cheio de graça... e da plenitude dele todos nós recebemos, e graça sobre graça" (Gv. 1, 14 e 16). Precisamente por esta razão todos podemos tornar-nos santos.
+A graça é um dom totalmente gratuito que Deus nos concedeu através dos méritos infinitos de Jesus. Jesus, ao morrer na Cruz, mereceu-o por nós e não em pequena medida, mas em medida superabundante; Ele, diz São João, é “cheio de graça... e da plenitude dele todos nós recebemos, e graça sobre graça” (Gv. 1, 14 e 16). Precisamente por esta razão todos podemos tornar-nos santos.
 
-Isto não significa, porém, que todos sejamos chamados à mesma altura e à mesma forma de santidade. Ao lado dos chamados "grandes" santos, isto é, daqueles que tinham uma grande missão a cumprir e, por isso, também receberam dons especiais da natureza e da graça, estarão sempre os santos mais humildes, mais escondidos, que se santificaram nas sombras e no silêncio.
+Isto não significa, porém, que todos sejamos chamados à mesma altura e à mesma forma de santidade. Ao lado dos chamados “grandes” santos, isto é, daqueles que tinham uma grande missão a cumprir e, por isso, também receberam dons especiais da natureza e da graça, estarão sempre os santos mais humildes, mais escondidos, que se santificaram nas sombras e no silêncio.
 
 A santidade não consiste na grandeza das obras realizadas ou dos dons recebidos, mas no capital de amor e de graça que a alma acumula, respondendo fielmente aos convites divinos.
 

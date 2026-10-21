@@ -14,7 +14,7 @@ O P. Gabriele dava-se profundamente conta das exigências espirituais dos nossos
 
 Daí lhe veio a ideia de uma Obra que, inspirando-se nos grandes mestres do Carmelo, expusesse toda a doutrina da vida espiritual sob forma de meditações simples, mas substanciais, e iniciasse as almas na oração íntima.
 
-Intimidade Divina procura, pois, ordenar as meditações cotidianas "de modo que, no decorrer de um ano, passem em revista os problemas fundamentais da vida espiritual, todas as realidades sobrenaturais com as quais a vida interior nos põe em contato" (Prefácio).
+Intimidade Divina procura, pois, ordenar as meditações cotidianas “de modo que, no decorrer de um ano, passem em revista os problemas fundamentais da vida espiritual, todas as realidades sobrenaturais com as quais a vida interior nos põe em contato” (Prefácio).
 
 Para atuar este seu plano, ele solicitou a colaboração das Carmelitas Descalças do Mosteiro São José em Roma. Para este fim forneceu-lhes todo o vastíssimo material de que dispunha (as suas publicações, os textos das suas conferências, instruções, prédicas, etc...), depois traçou o plano de toda a Obra e dirigiu a redação.
 
@@ -33,7 +33,7 @@ Os deslocamentos para adequar-se à nova ordenação da Obra foram reduzidos ao 
 Possa esta nova edição de Intimidade Divina suscitar ainda em muitas almas a necessidade de uma vida interior profunda e conduzi-las à união íntima com Deus, fonte de um apostolado verdadeiramente fecundo na Igreja.
 
 P. Beniamino da SS.ma Trindade, O.C.D.
-Diretor da "Rivista di vita spirituale".
+Diretor da “Rivista di vita spirituale”.
 
 Roma, festa de Santa Ana, 26 de julho de 1955.
 

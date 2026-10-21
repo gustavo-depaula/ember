@@ -37,11 +37,11 @@ que já não tem nada da frescura, do vigor de uma
 vida sã e robusta. Falta o fervor da caridade,
 apagado por contínuas e deliberadas condescendências com o pecado venial.
 S. Teresa de Jesus, pondo em guarda contra semelhante estado,
-ensina: "Quando não sentirdes dor alguma por um defeito que vos acontece cometer, temei, porque o
+ensina: “Quando não sentirdes dor alguma por um defeito que vos acontece cometer, temei, porque o
 pecado, ainda que venial, deve penetrar-vos de dor até
 o fundo da alma... Por amor de Deus, vigiai atentamente para nunca cometer um só pecado venial
 advertido, ainda que pequeno... E que coisa pode haver
-de pequeno na ofensa de uma Majestade tão grande?" (P. 2,
+de pequeno na ofensa de uma Majestade tão grande?” (P. 2,
 5 e 20; Cam. 41, 3).
 
 
@@ -58,14 +58,14 @@ que a levará a desconfiar totalmente das próprias forças,
 
 
 para pôr só em Deus toda a sua confiança. Experimentará
-na prática a grande realidade das palavras de Jesus: "Sem
-mim nada podeis fazer" (Jo. 15, 5). Não raramente o
+na prática a grande realidade das palavras de Jesus: “Sem
+mim nada podeis fazer” (Jo. 15, 5). Não raramente o
 Senhor permite tais quedas, justamente para dar à alma este conhecimento prático do seu nada, para fundá-la
 seriamente na humildade, que é a base de toda vida espiritual.
 
 S. Teresa do Menino Jesus, falando de tais faltas,
-acreditava poder afirmar que "não desagradam
-ao Senhor", justamente porque não dependem da
+acreditava poder afirmar que “não desagradam
+ao Senhor”, justamente porque não dependem da
 má vontade, que, de olhos abertos e de mente fria,
 comete o pecado, mas antes da fraqueza da
 natureza humana.
@@ -78,7 +78,7 @@ o ouro do mundo.
 
 ### Colóquio
 
-"Peccavi, Domine, miserere mei! Perdoa, Pai, perdoa a mim miserável ingrata. Confesso que tua bondade
+“Peccavi, Domine, miserere mei! Perdoa, Pai, perdoa a mim miserável ingrata. Confesso que tua bondade
 me conservou tua esposa, embora por meus defeitos
 sempre te tenha sido infiel. Peccavi, Domine, miserere mei.
 Ó alma minha, e que fazes tu? Não sabes que continuamente
@@ -90,12 +90,12 @@ eterno, ó piedoso e misericordioso Pai, tem piedade e misericórdia de nós, po
 luz, e principalmente eu, pobre e miserável... Ó Tu,
 verdadeiro sol, entra em minha alma e ilumina-a de ti.
 Expulsa-lhe as trevas e dá-lhe luz; destrói o gelo do amor-
-próprio e infunde o fogo da tua caridade... Peccavi, Domine, miserere mei" (S. Catarina de Sena).
+próprio e infunde o fogo da tua caridade... Peccavi, Domine, miserere mei” (S. Catarina de Sena).
 
-"Agrade-te, ó Senhor, que eu tema apenas tua
+“Agrade-te, ó Senhor, que eu tema apenas tua
 ofensa, convencendo-me de que me pode vir maior dano
 de um só pecado venial deliberado do que de todo
-o inferno" (T.G. Vi. 25, 20). Com efeito, o verdadeiro
+o inferno” (T.G. Vi. 25, 20). Com efeito, o verdadeiro
 mal, o único que devo temer, não são nem a tentação,
 nem as provações, nem as contrariedades internas e externas,
 nem a perda dos bens materiais ou da saúde corporal,
@@ -108,10 +108,10 @@ ofender-te e, se por minha fraqueza nativa me é impossível
 ficar isento de toda falta, faze que estas
 nunca sejam fruto de má vontade. Faze que minhas faltas sirvam apenas para humilhar-me, sem jamais ofender-te.
 
-"Sim, por minha miséria caio muito frequentemente,
+“Sim, por minha miséria caio muito frequentemente,
 frequentemente me deixo distrair da minha única ocupação,
 afasto-me de ti, molho minhas pobres asas, mal formadas,
 nas miseráveis poças de água que encontro nesta terra! Então
 gemo como a andorinha, e meu grito te diz tudo,
 e Tu, Misericórdia infinita, te lembras de que não vieste
-chamar os justos, mas os pecadores" (T.B.G. St. 11).
+chamar os justos, mas os pecadores” (T.B.G. St. 11).

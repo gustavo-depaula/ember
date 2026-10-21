@@ -35,9 +35,9 @@ para uma alma que busca a perfeição, de eliminar da sua
 
 
 conduta qualquer imperfeição voluntária. É precisamente
-neste sentido que S. João da Cruz adverte: "Para que a alma
-venha a unir-se perfeitamente com Deus por vontade e amor... requer-se que não consinta com conhecimento e advertência em nenhuma imperfeição"; e ensina
-que basta o apego a uma imperfeição voluntária habitual para impedir "não só a união divina, mas também o progresso na perfeição" (S. I, 11, 3).
+neste sentido que S. João da Cruz adverte: “Para que a alma
+venha a unir-se perfeitamente com Deus por vontade e amor... requer-se que não consinta com conhecimento e advertência em nenhuma imperfeição”; e ensina
+que basta o apego a uma imperfeição voluntária habitual para impedir “não só a união divina, mas também o progresso na perfeição” (S. I, 11, 3).
 
 
 **2** — Querendo descer mais ao concreto, podem considerar-se outros tipos de imperfeição e antes de tudo a transgressão
@@ -57,10 +57,10 @@ por um motivo razoável, por um fim bom. Se o
 fim é viciado - como seria, por exemplo, transgredir a
 lei do silêncio, do recolhimento ou da modéstia religiosa por
 curiosidade, por comodidade própria e semelhantes - a ação
-torna-se por isso mesmo pecaminosa; e em geral tratar-se-á de "pecados, ao menos leves, de preguiça espiritual, de
+torna-se por isso mesmo pecaminosa; e em geral tratar-se-á de “pecados, ao menos leves, de preguiça espiritual, de
 inconstância, de ingratidão e de certa dureza de coração que não
 aprecia suficientemente o socorro que Deus nos dá para as
-obras melhores" (Salmanticenses). Outro gênero de imperfeição
+obras melhores” (Salmanticenses). Outro gênero de imperfeição
 é certa falta de completude que se verifica num
 ato substancialmente bom, mas executado, por exemplo, com
 um pouco de estreiteza, ou sem empregar nele toda a

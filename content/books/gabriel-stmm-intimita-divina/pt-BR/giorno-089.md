@@ -12,9 +12,9 @@ frágil de um corpo de carne, que sente o impulso para as
 
 
 satisfações dos sentidos. O voto de castidade não livra a alma dessas tendências e por isso não a dispensa de uma
-vigilância contínua: "quem fez voto a Deus de
+vigilância contínua: “quem fez voto a Deus de
 integridade virginal deve lutar com oração e penitência,
-para que possa sair vencedor" (Pio XII).
+para que possa sair vencedor” (Pio XII).
 
 Com a oração, pois ninguém pode ser casto se
 Deus não lho concede; com a penitência e a mortificação,
@@ -28,8 +28,8 @@ destinado a moderar e regular todo o agir interno e
 externo do homem, em conformidade com sua vocação.
 
 
-S. Paulo recomenda esta virtude a todos os cristãos: "a
-vossa modéstia seja conhecida de todos os homens" (Fil. 4, 5); mas
+S. Paulo recomenda esta virtude a todos os cristãos: “a
+vossa modéstia seja conhecida de todos os homens” (Fil. 4, 5); mas
 
 
 as almas consagradas são a ela obrigadas de modo mais estrito
@@ -39,7 +39,7 @@ porque, sendo chamadas - por seu estado de vida - a
 conservar intacto o tesouro da castidade, têm necessidade de
 um exercício mais assíduo e delicado de moderação dos
 sentidos. Exatamente como quem, possuindo tesouros materiais de
-grande valor, toma toda medida e precaução para defendê-los dos ladrões. "Irmãos, sede sóbrios e vigiai", exorta
+grande valor, toma toda medida e precaução para defendê-los dos ladrões. “Irmãos, sede sóbrios e vigiai”, exorta
 S. Pedro (I, 5, 8), porque o inimigo do bem está sempre à espreita.
 
 O voto de castidade, consagrando a Deus o corpo,
@@ -51,11 +51,11 @@ no serviço divino.
 **2** — Quanto mais uma pessoa aspira a tal doação a
 Deus, quanto mais visa à união com Ele e mais sua conduta deve
 ser informada por uma perfeita modéstia. Modéstia do
-rosto, do andar, do gesto, do trato: "Em toda ação
-ou conversação, sê sempre modesta", ensina Teresa d'Avila às suas filhas; e S. Teresa Margarida do Coração de
-Jesus "refreava e guardava de tal modo suas potências e
+rosto, do andar, do gesto, do trato: “Em toda ação
+ou conversação, sê sempre modesta”, ensina Teresa d'Avila às suas filhas; e S. Teresa Margarida do Coração de
+Jesus “refreava e guardava de tal modo suas potências e
 seus sentidos que se guardava de todo olhar e palavra que, de
-algum modo, não tivesse relação com Deus" (Sp. p. 272). É
+algum modo, não tivesse relação com Deus” (Sp. p. 272). É
 
 
 a regra áurea de S. João da Cruz: usar os sentidos só
@@ -64,8 +64,8 @@ para o serviço e a glória de Deus e para elevar o coração a Ele
 
 
 cumprimento dos próprios deveres ou para
-um honesto e justo alívio, e "o resto deixá-lo
-de lado para o Criador" (G.C. C.E. II, 38). Portanto, guardar os
+um honesto e justo alívio, e “o resto deixá-lo
+de lado para o Criador” (G.C. C.E. II, 38). Portanto, guardar os
 
 
 sentidos de todas aquelas coisas
@@ -82,9 +82,9 @@ castidade; é também o baluarte da vida interior: só a alma
 que sabe guardar seus sentidos é capaz de recolher-se no
 seu interior para viver em intimidade com Deus. A modéstia,
 desviando os sentidos das coisas terrenas, concentra-os e fixa-os
-em Deus: "Faremos morrer em nós a curiosidade dos nossos olhos
+em Deus: “Faremos morrer em nós a curiosidade dos nossos olhos
 e, desviando-os de todas as coisas inúteis, os fixaremos em nós
-mesmos, nos movimentos do nosso coração e no Coração de Jesus."
+mesmos, nos movimentos do nosso coração e no Coração de Jesus.”
 
 
 Só quem ama muito o Senhor é capaz de impor-se uma
@@ -92,13 +92,13 @@ tão difícil decisão.
 
 ### Colóquio
 
-"Faze que eu te ame ardentissimamente, ó meu Deus, auxílio
+“Faze que eu te ame ardentissimamente, ó meu Deus, auxílio
 e defesa minha e doce minha esperança! Faze que eu te abrace, ó
 Bem infinito, sem o qual não há bem algum para mim;
 faze que eu chegue a encontrar em ti minha bem-aventurança, fonte de perfeições,
 sem o qual nada é perfeito.
 
-"Abre meus ouvidos à tua palavra, mais penetrante
+“Abre meus ouvidos à tua palavra, mais penetrante
 que uma espada de dois gumes, para que eu ouça tua voz.
 Ilumina meus olhos, ó luz incomparável, e fá-lo com tanta
 força que jamais se voltem às vaidades terrenas, mas
@@ -117,11 +117,11 @@ trevas. Faze que eu possa ser salvo dos laços postos e armados
 aqui embaixo pelo inimigo das nossas almas, o qual enche o
 mundo de suas insídias.
 
-"Eis, dulcíssimo Senhor meu, que o mundo está todo
+“Eis, dulcíssimo Senhor meu, que o mundo está todo
 cheio dos laços das concupiscências. E quem poderá jamais fugi-los todos? Certamente só aquele a quem Tu tiras a soberba dos olhos, a concupiscência da carne, a irreverência
 e a obstinação da alma. Oh! quão feliz é aquele
 a quem Tu fazes tal graça, pois ele entre tantos inimigos
-passará ileso!" (S. Agostinho).
+passará ileso!” (S. Agostinho).
 
 Ó meu dulcíssimo Senhor, de todo o coração te renovo a consagração dos meus sentidos. Consagro-te os
 olhos, para que não procurem senão teu rosto e não olhem
@@ -129,5 +129,5 @@ senão o que a ti conduz; consagro-te a língua, para que seja digna de cantar t
 palavra que te desagrade; consagro-te o ouvido, para que
 escute só tua voz e só o que é necessário para teu
 serviço; consagro-te o olfato, o gosto e o tato, para que se deleitem somente em ti, ó Esposo das virgens! Com
-S. Inês quero repetir-te: "Amando-te, ó meu Cristo,
-sou casta, tocando-te sou pura, possuindo-te sou virgem!" (BR.).
+S. Inês quero repetir-te: “Amando-te, ó meu Cristo,
+sou casta, tocando-te sou pura, possuindo-te sou virgem!” (BR.).

@@ -26,9 +26,9 @@ Não basta o entusiasmo e a boa vontade. É necessária robustez de vida interio
 
 À urgência do apostolado é preciso prover antes de tudo intensificando a formação daqueles que a ele se dedicam, porque só almas ancoradas em Deus mediante intensa vida interior serão capazes de sustentar o ímpeto, às vezes avassalador, da atividade externa e de vivificar tal atividade com a chama do amor.
 
-«Um homem perfeito — diz Santa Teresa de Jesus — faz muito mais do que um grande número de imperfeitos» (*Caminho de Perfeição*). É, portanto, de suma importância que os que se dedicam ao apostolado estejam seriamente encaminhados para a perfeição, para a santidade; só assim poderão dar Deus às almas e levar as almas a Deus.
+“Um homem perfeito — diz Santa Teresa de Jesus — faz muito mais do que um grande número de imperfeitos” (*Caminho de Perfeição*). É, portanto, de suma importância que os que se dedicam ao apostolado estejam seriamente encaminhados para a perfeição, para a santidade; só assim poderão dar Deus às almas e levar as almas a Deus.
 
-Toda a história da Igreja é uma demonstração prática deste princípio: «Um só era São Paulo e quantos atraiu!... Se todos os cristãos fossem como São Paulo, quantos mundos poderiam converter!» (São João Crisóstomo). O santo Cura d’Ars tinha pouquíssimos recursos humanos; contudo, converteu um número imenso de almas justamente pela força de sua santidade, de seu amor e de sua união com Deus.
+Toda a história da Igreja é uma demonstração prática deste princípio: “Um só era São Paulo e quantos atraiu!... Se todos os cristãos fossem como São Paulo, quantos mundos poderiam converter!” (São João Crisóstomo). O santo Cura d’Ars tinha pouquíssimos recursos humanos; contudo, converteu um número imenso de almas justamente pela força de sua santidade, de seu amor e de sua união com Deus.
 
 As exigências impelentes do apostolado externo põem mais do que nunca em evidência a necessidade de apóstolos bem formados, de apóstolos de profunda vida interior, de apóstolos santos. Por isso, mesmo quando termina o período de formação, é preciso vigiar sempre para que a atividade externa não venha de modo algum a diminuir a vida interior.
 
@@ -36,12 +36,12 @@ As exigências impelentes do apostolado externo põem mais do que nunca em evid�
 
 ### Colóquio
 
-«Ó Senhor, desejo grandemente que, tendo Tu tantos inimigos e tão poucos amigos, estes ao menos te sejam devotos. Por isso determino fazer o pouco que depende de mim: observar os conselhos evangélicos com toda perfeição possível e rezar pelos defensores da Igreja, pelos pregadores, pelos doutos que a sustentam.
+“Ó Senhor, desejo grandemente que, tendo Tu tantos inimigos e tão poucos amigos, estes ao menos te sejam devotos. Por isso determino fazer o pouco que depende de mim: observar os conselhos evangélicos com toda perfeição possível e rezar pelos defensores da Igreja, pelos pregadores, pelos doutos que a sustentam.
 
-«Ó Senhor, já que não sou forte para defender diretamente tua Igreja, quero ao menos tornar fortes minhas orações para ajudar estes teus servos, que com tantos esforços e suores se armaram de ciência e de boa vida, e agora se afadigam para defender teu nome.
+“Ó Senhor, já que não sou forte para defender diretamente tua Igreja, quero ao menos tornar fortes minhas orações para ajudar estes teus servos, que com tantos esforços e suores se armaram de ciência e de boa vida, e agora se afadigam para defender teu nome.
 
-«Meu Deus, eu gostaria de ser tal que merecesse de ti duas coisas: a primeira, que no grande número de santos e doutos personagens que hoje defendem a Igreja haja muitos que tenham as prerrogativas necessárias, e que Tu as concedas aos que não as têm plenamente, porque um homem perfeito faz muito mais do que um grande número de imperfeitos.
+“Meu Deus, eu gostaria de ser tal que merecesse de ti duas coisas: a primeira, que no grande número de santos e doutos personagens que hoje defendem a Igreja haja muitos que tenham as prerrogativas necessárias, e que Tu as concedas aos que não as têm plenamente, porque um homem perfeito faz muito mais do que um grande número de imperfeitos.
 
-«E a segunda, que, uma vez lançados nesta luta, Tu os sustentes com tua mão, para que se guardem de todos os perigos do mundo e atravessem este mar tempestuoso com os ouvidos fechados ao canto das sereias. Se junto de ti, meu Deus, posso nisso alguma coisa, eis que também eu combato por tua glória, embora recolhida na solidão.
+“E a segunda, que, uma vez lançados nesta luta, Tu os sustentes com tua mão, para que se guardem de todos os perigos do mundo e atravessem este mar tempestuoso com os ouvidos fechados ao canto das sereias. Se junto de ti, meu Deus, posso nisso alguma coisa, eis que também eu combato por tua glória, embora recolhida na solidão.
 
-«Suplico-te, Senhor, escuta-me. Da minha parte, jamais cessarei de suplicar-te, apesar de minha grande miséria: trata-se da tua glória e do bem da tua Igreja, e para isso convergem todos os meus desejos. No dia em que minhas orações, disciplinas, desejos e jejuns não fossem empregados para o que disse, eu não alcançaria o fim para o qual Tu, ó Senhor, me chamaste à vida contemplativa» *(cf. T.G. Caminho de Perfeição 1, 2; 3, 2-10)*.
+“Suplico-te, Senhor, escuta-me. Da minha parte, jamais cessarei de suplicar-te, apesar de minha grande miséria: trata-se da tua glória e do bem da tua Igreja, e para isso convergem todos os meus desejos. No dia em que minhas orações, disciplinas, desejos e jejuns não fossem empregados para o que disse, eu não alcançaria o fim para o qual Tu, ó Senhor, me chamaste à vida contemplativa” *(cf. T.G. Caminho de Perfeição 1, 2; 3, 2-10)*.

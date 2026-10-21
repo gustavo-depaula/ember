@@ -14,7 +14,7 @@ qualquer outra o glorifica, e o glorifica precisamente em relação à
 caridade que é a essência de Deus. Maior, enfim, pelo bem
 imenso que traz aos homens; a salvação, a santificação,
 a felicidade eterna de todo o gênero humano dependem completamente da Encarnação do Verbo, de Jesus Verbo
-Encarnado: Deus Pai "nos elegeu nele, antes da fundação do mundo, para que fôssemos santos e irrepreensíveis... tendo-nos predestinado para sermos seus filhos adotivos por meio de Jesus Cristo... Nele temos a redenção... a remissão dos pecados segundo a riqueza da sua graça... Deus nos chamou à vida em Cristo, em Cristo Jesus nos ressuscitou e nos fez assentar nos céus" (Ef. 1, 4-11; 2, 5-6).
+Encarnado: Deus Pai “nos elegeu nele, antes da fundação do mundo, para que fôssemos santos e irrepreensíveis... tendo-nos predestinado para sermos seus filhos adotivos por meio de Jesus Cristo... Nele temos a redenção... a remissão dos pecados segundo a riqueza da sua graça... Deus nos chamou à vida em Cristo, em Cristo Jesus nos ressuscitou e nos fez assentar nos céus” (Ef. 1, 4-11; 2, 5-6).
 Jesus, o Verbo Encarnado, é a única fonte da nossa salvação e da nossa santidade. Sem Ele, o homem não poderia chamar Deus com o doce nome de Pai,
 não poderia amá-lo como um filho ama o seu pai,
 não poderia esperar ser jamais admitido à sua intimidade; não
@@ -33,7 +33,7 @@ obedeceram com prontidão e simplicidade. Quem manda
 é um homem, mas o seu profundo espírito de fé vê no
 mandado do imperador pagão a vontade de Deus. E vão,
 confiantes na Providência; Deus sabe, Deus proverá:
-"para quem ama a Deus tudo coopera para o bem" (Rom. 8, 28). Em
+“para quem ama a Deus tudo coopera para o bem” (Rom. 8, 28). Em
 
 Belém não há lugar para eles, e não lhes resta senão abrigar-se numa gruta do campo. A miséria daquele
 refúgio de animais não os assusta, não os escandaliza: sabem que o Menino que deve nascer é o Filho de Deus, mas
@@ -56,9 +56,9 @@ Verbo eterno, Verbo encarnado, fonte de vida, de salvação,
 de graça e de santidade; Tu, luz e redenção da humanidade
 inteira, estás para mostrar-te ao mundo! Toda a criação deveria exultar, toda a natureza deveria fremir de alegria,
 todos os homens deveriam correr ao encontro de ti,
-seu Deus, seu Rei e Salvador! E, no entanto, Tu escolhes nascer no escondimento, na solidão, no silêncio, e tudo dispões para esse fim. "Enquanto um tranquilo silêncio
+seu Deus, seu Rei e Salvador! E, no entanto, Tu escolhes nascer no escondimento, na solidão, no silêncio, e tudo dispões para esse fim. “Enquanto um tranquilo silêncio
 envolvia todas as coisas e a noite, no seu veloz curso, chegava ao meio, a tua palavra onipotente, do céu, do trono real,
-lançou-se no meio da terra" (Sab. 18, 14). Ó meu
+lançou-se no meio da terra” (Sab. 18, 14). Ó meu
 Deus, Tu vens do céu para salvar o mundo, e o mundo,
 que é teu, obra das tuas mãos, não tem sequer um abrigo para te oferecer! Qual é o menino que para nascer não tem
 uma casa, ainda que miserável e pobre? Havia a humilde casinha de Nazaré pronta para acolher-te: Maria a preparara com
