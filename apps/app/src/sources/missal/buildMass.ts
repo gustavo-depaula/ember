@@ -467,6 +467,10 @@ const replacesOrder = (items: Item[]) => items.length >= 8
 
 export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Primitive[] {
   const ctx: RenderContext = { lang, conditions: new Set(plan.conditions) }
+  // The day's parts are headed by their names; set as rubrics, "Gospel" read
+  // as one more instruction. The Order's own text stays untitled: its
+  // section titles become section markers (orderItems).
+  const proper: RenderContext = { ...ctx, titled: true }
   const out: Primitive[] = [...banner(plan, lang), ...description(plan, ctx)]
 
   const hasPrayers = (['collect', 'prayerOverOfferings', 'postcommunion'] as Part[]).some(
@@ -475,7 +479,7 @@ export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Prim
   if (!hasPrayers) {
     // Good Friday: not a Mass. The day's rite is read straight through, with
     // the readings where the Missal puts them.
-    out.push(...straightThrough(plan, ctx))
+    out.push(...straightThrough(plan, ctx, proper))
     return [
       {
         type: 'container',
@@ -509,7 +513,7 @@ export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Prim
   let reached: Part | undefined
   let i = 0
   if (startsAtOfferings) {
-    out.push(...straightThrough(plan, ctx))
+    out.push(...straightThrough(plan, ctx, proper))
     // Its rites have all been read; none is left to place in the Order.
     takeRites(() => true)
     i = items.findIndex((item) => item.tags?.includes('liturgy-of-the-eucharist'))
@@ -530,10 +534,10 @@ export function buildMass(plan: MassPlan, docs: MassDocs, lang: LangPrefs): Prim
             ctx,
           ),
         )
-      if (part === 'acclamation') out.push(...partBlock('sequence', plan, ctx))
+      if (part === 'acclamation') out.push(...partBlock('sequence', plan, proper))
       if (part === 'preface') out.push(...prefaceBlock(plan, docs, ctx))
       else if (part === 'eucharisticPrayer') out.push(...eucharisticPrayerBlock(plan, docs, ctx))
-      else out.push(...partBlock(part, plan, ctx))
+      else out.push(...partBlock(part, plan, proper))
       // The Order's own text for a part is its fallback (and, for the preface
       // and the Eucharistic Prayer, an index of them).
       const own = takeWhile(items, i, (next) => next.part === part)
@@ -715,7 +719,7 @@ function withAlternatives(items: Item[], ctx: RenderContext): Primitive[] {
  * all of Good Friday, and the Easter Vigil as far as the Liturgy of the
  * Eucharist. The readings stand where the rite marks them.
  */
-function straightThrough(plan: MassPlan, ctx: RenderContext): Primitive[] {
+function straightThrough(plan: MassPlan, ctx: RenderContext, proper: RenderContext): Primitive[] {
   const today = ofCycle(plan)
   const out: Primitive[] = []
   let pending: Item[] = []
@@ -736,8 +740,8 @@ function straightThrough(plan: MassPlan, ctx: RenderContext): Primitive[] {
     const here = (plan.lectionary?.items ?? []).filter(
       (reading) => item.at && reading.tags?.includes(item.at) && today(reading),
     )
-    if (here.length > 0) out.push(...withAlternatives(here, ctx))
-    else if (!readingsPlaced) out.push(...readingsInOrder(plan, ctx))
+    if (here.length > 0) out.push(...withAlternatives(here, proper))
+    else if (!readingsPlaced) out.push(...readingsInOrder(plan, proper))
     readingsPlaced = true
   }
   flush()
