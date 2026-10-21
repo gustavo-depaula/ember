@@ -36,6 +36,9 @@ from ocr_local import dots_markdown, engine_request
 here = Path(__file__).parent.resolve()
 data = Path(os.environ.get("DENIS_DATA", Path.home() / "ember-data" / "denis-carthusian"))
 log_lock = threading.Lock()
+# Overridden by --retry-failed: a page that failed at temperature 0 (usually a
+# repetition loop that ran into the token cap) fails the same way again.
+generation = {"max_tokens": 6000, "temperature": 0.0}
 
 
 def log(message: str) -> None:
@@ -139,7 +142,7 @@ def ocr_page(client: OpenAI, zf_path: Path, name: str, out: Path) -> None:
         image = page_image(zf_path, name)
         content, _ = engine_request("dots", image)
         reply = client.chat.completions.create(
-            model="dots", messages=[{"role": "user", "content": content}], max_tokens=6000, temperature=0.0,
+            model="dots", messages=[{"role": "user", "content": content}], **generation,
         )
         raw = reply.choices[0].message.content
         markdown = dots_markdown(raw)
@@ -180,6 +183,8 @@ def main() -> None:
     parser.add_argument("--volumes", nargs="*")
     parser.add_argument("--retry-failed", action="store_true")
     args = parser.parse_args()
+    if args.retry_failed:
+        generation.update(max_tokens=10000, temperature=0.3)  # the server allows 16k with the image
     (data / "zips").mkdir(parents=True, exist_ok=True)
     volumes = args.volumes or [line.split()[0] for line in (here / "volumes.txt").read_text().splitlines() if line.strip()]
     # One background thread downloads the missing zips in order, so a volume is never
