@@ -35,7 +35,13 @@ head_instruction = """
 Begin your reply with one line giving the page's running head and printed page number, exactly as printed:
 <!-- head: ENARRATIO IN CAP. XII GENESIS. — ART. XLV | page: 233 -->
 (leave either part empty if the page has none), then a blank line, then the transcription.
-For a page of an index, transcribe the entries as printed, one per line."""
+For a page of an index, transcribe the entries as printed, one per line.
+If the page is blank, or its print cannot be read (faded, covered, out of focus), give the
+head line and then only `<!-- unreadable: <a few words why> -->`; never write prose about the page."""
+
+# Before the marker above existed, Claude answered unreadable pages in prose
+# ("I can't transcribe this page. The scan is almost blank…"). Never let that into a draft.
+prose_refusal = re.compile(r"\A(I can['’]?t|I couldn['’]?t|I cannot|The page|The scan|The image|This page)\b")
 
 
 def page_image(volume: str, leaf: str) -> Image.Image:
@@ -72,6 +78,12 @@ def ask(image_path: Path) -> dict:
     return result
 
 
+def record_gap(volume: str, leaf: str, reason: str) -> None:
+    """A page with no usable text: blank, or a scan to replace from another copy."""
+    with open(data / "gaps.tsv", "a") as f:
+        f.write(f"{volume}\t{leaf}\t{reason}\n")
+
+
 def draft(err: Path) -> float:
     volume, leaf = err.parent.name, err.stem
     image = page_image(volume, leaf)
@@ -85,6 +97,11 @@ def draft(err: Path) -> float:
     head = re.match(r"<!--\s*head:\s*(.*?)\s*\|\s*page:\s*(.*?)\s*-->\s*", text)
     running, number = (head.group(1), head.group(2)) if head else ("", "")
     body = text[head.end():].strip() if head else text
+    unreadable = re.fullmatch(r"<!--\s*unreadable:\s*(.*?)\s*-->", body, flags=re.S)
+    reason = unreadable.group(1) if unreadable else (body[:200].replace("\n", " ") if prose_refusal.match(body) else "")
+    if reason:
+        body = ""
+        record_gap(volume, leaf, reason)
     # The frame dots.mocr's boxes use: the page scaled to at most 4 MP.
     scale = min(1.0, (4_000_000 / (image.width * image.height)) ** 0.5)
     w, h = round(image.width * scale), round(image.height * scale)
