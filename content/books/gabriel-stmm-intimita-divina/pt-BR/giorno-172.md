@@ -16,4 +16,4 @@ Se os altíssimos privilégios de Maria são reservados só a ela, podemos, por�
 
 «Ó Maria, Tu és santa de corpo e de espírito. De modo todo especial Tu podes dizer: “A minha conversação é nos céus” (cfr. Fil. 3, 20). Tu és o jardim fechado, a fonte selada, o templo do Senhor, o santuário do Espírito Santo» (cfr. S. Bernardo).
 
-Ó Maria, ajuda-me, pois, ó Virgem fiel, a vencer toda resistência do meu orgulho, do meu egoísmo, da minha covardia, para que minha alma se abra totalmente à invasão da graça, se abandone docilmente à ação do Espírito Santo e siga com prontidão seus impulsos, inspirações e convites.*
+Ó Maria, ajuda-me, pois, ó Virgem fiel, a vencer toda resistência do meu orgulho, do meu egoísmo, da minha covardia, para que minha alma se abra totalmente à invasão da graça, se abandone docilmente à ação do Espírito Santo e siga com prontidão seus impulsos, inspirações e convites.

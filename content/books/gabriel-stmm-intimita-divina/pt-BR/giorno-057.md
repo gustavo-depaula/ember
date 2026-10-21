@@ -16,7 +16,7 @@ Não se trata, porém, de uma imitação puramente externa, material, das açõe
 
 ### Colóquio
 
-*"Ó Cristo, verdade eterna, qual é a tua doutrina? E qual é o caminho pelo qual Tu nos convidas e convém que vamos ao Pai? Não sei ver outra estrada senão aquela que Tu pavimentaste com as verdadeiras e reais virtudes: com o fogo da tua caridade, Tu, Verbo eterno, a bateste com o teu Sangue: este é o caminho.
+"Ó Cristo, verdade eterna, qual é a tua doutrina? E qual é o caminho pelo qual Tu nos convidas e convém que vamos ao Pai? Não sei ver outra estrada senão aquela que Tu pavimentaste com as verdadeiras e reais virtudes: com o fogo da tua caridade, Tu, Verbo eterno, a bateste com o teu Sangue: este é o caminho.
 
 "Ó doce e amoroso Verbo, Tu me dizes: 'Eis que te fiz o caminho e abri a porta com o meu Sangue: não sejas, pois, negligente em segui-la. Mas toma o caminho traçado por mim, eterna Verdade, e batido com o meu Sangue'. Levanta-te, pois, minha alma, e segue o teu Redentor, porque ninguém pode ir ao Pai senão por ele. Ó doce Cristo, Cristo amor, Tu és o caminho e a porta por onde convém entrar para chegar ao Pai" (S. Catarina de Sena).
 
@@ -24,4 +24,4 @@ Não se trata, porém, de uma imitação puramente externa, material, das açõe
 
 Ó Jesus, permite-me dizer-te que, como o Pai se compraz em ti, assim Tu és para mim, mísera tua criatura, o objeto único das minhas complacências: tudo o que procuro encontro em ti, só Tu me bastas.
 
-Faze, Senhor, que a tua doce figura esteja sempre impressa na minha mente e no meu coração, faze que o meu olhar interior esteja sempre voltado para ti, para que em tudo eu possa modelar-me por ti, meu Mestre, meu Modelo, meu Caminho!*
+Faze, Senhor, que a tua doce figura esteja sempre impressa na minha mente e no meu coração, faze que o meu olhar interior esteja sempre voltado para ti, para que em tudo eu possa modelar-me por ti, meu Mestre, meu Modelo, meu Caminho!

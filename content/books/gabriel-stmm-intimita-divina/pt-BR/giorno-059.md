@@ -30,4 +30,4 @@ E com teu exemplo me ensinas que, se quero realmente viver unido a Deus e alimen
 
 E para que a minha oração seja realmente semelhante à tua, ensina-me ainda a alimentá-la de sacrifício e de generosa renúncia de algumas horas de descanso, desapego de tudo, silêncio, recolhimento interior; cumprimento dos meus deveres; pequenas mortificações voluntárias; aceitação plena e alegre de toda tua vontade, de toda circunstância.
 
-Faze, Senhor, que cada dia eu termine a minha oração com disposições de maior generosidade, pronto para abraçar por amor teu todo sacrifício que encontrar no meu caminho.*
+Faze, Senhor, que cada dia eu termine a minha oração com disposições de maior generosidade, pronto para abraçar por amor teu todo sacrifício que encontrar no meu caminho.

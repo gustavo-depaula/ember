@@ -18,10 +18,10 @@ Jesus alegrou-se com isso e disse: "Eu te louvo, ó Pai, Senhor do céu e da ter
 
 ### Colóquio
 
-*"Senhor meu Deus, como é verdade que Tu tens palavras de vida nas quais os homens, se quiserem, encontram tudo o que desejam! Mas que maravilha, Senhor, que as ponhamos no esquecimento, entorpecidos pela loucura e pela languidez que nos causam as nossas obras más!... Que é isto, Senhor? Que profunda cegueira! Procuramos a felicidade onde é impossível encontrá-la. Não vês, Senhor, que não nos entendemos a nós mesmos, que não sabemos o que desejamos e não conseguimos achar o que pedimos? Dá-nos luz, Senhor! Vê, ela nos é mais necessária do que ao cego de nascença, porque o cego, Senhor, desejava ver e não podia, enquanto nós nos recusamos a ver.
+"Senhor meu Deus, como é verdade que Tu tens palavras de vida nas quais os homens, se quiserem, encontram tudo o que desejam! Mas que maravilha, Senhor, que as ponhamos no esquecimento, entorpecidos pela loucura e pela languidez que nos causam as nossas obras más!... Que é isto, Senhor? Que profunda cegueira! Procuramos a felicidade onde é impossível encontrá-la. Não vês, Senhor, que não nos entendemos a nós mesmos, que não sabemos o que desejamos e não conseguimos achar o que pedimos? Dá-nos luz, Senhor! Vê, ela nos é mais necessária do que ao cego de nascença, porque o cego, Senhor, desejava ver e não podia, enquanto nós nos recusamos a ver.
 
 "Tu só, Senhor, nos ensinas a verdade, nos mostras o caminho da salvação. Ó infelizes de nós! São verdades que sabemos e cremos, mas habituados há muito a não considerá-las, parecem-nos tão estranhas que quase já não as conhecemos, nem as queremos conhecer.
 
-"Faze, Senhor, que as tuas palavras nunca se apaguem da minha mente" (T.G. Es. 8, 1 e 2; 13, 2).*
+"Faze, Senhor, que as tuas palavras nunca se apaguem da minha mente" (T.G. Es. 8, 1 e 2; 13, 2).
 
 De que me valerá conhecer todas as ciências, se não conhecerei a ti e as verdades que Tu vieste ensinar-nos? Faze, ó Jesus, que eu não me contente com um conhecimento superficial, mas dá-me a luz e a inteligência necessárias para penetrar o sentido profundo dos teus ensinamentos. Mais do que pelo raciocínio e pelas pesquisas sutis, a tua palavra se compreende com humildade, amor e vivo desejo de ti. Cria em mim, ó Senhor, um coração reto, humilde, sincero, capaz de amar e penetrar as tuas divinas palavras.
