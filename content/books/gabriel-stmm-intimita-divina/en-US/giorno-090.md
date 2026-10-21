@@ -7,8 +7,6 @@
 **1** — The heart of the person consecrated to God must be
 "an enclosed garden, a sealed fountain" (Cant. 4, 12),
 that is, it must admit no affection that is not that
-
-
 of God or ordered to God. This, obviously, does not exclude
 either love of neighbor in general, nor due affection
 toward one's family, but it excludes all that is purely
@@ -92,8 +90,6 @@ Otherwise, with a heart like mine, I would let myself be taken and have my wings
 
 O Lord, enlighten my heart in its most hidden folds,
 in its most intimate recesses, and if in it You find
-
-
 any thread of affection that is not for You, show it to me and
 grant me the grace to break it forever.
 

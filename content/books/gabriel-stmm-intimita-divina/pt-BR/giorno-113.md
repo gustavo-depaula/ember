@@ -20,8 +20,6 @@ próximo. Considerar-te servo nas tuas relações com Deus
 não é difícil, mas considerar-te servo e comportar-te como tal
 nas tuas relações com o próximo é mais difícil. Mais difícil
 ainda é deixar-te tratar como servo, isto é, sem atenções,
-
-
 sem consideração alguma, também por quem te é inferior.
 E no entanto Jesus, infinitamente superior a todos, quis ser
 tratado não só como servo, mas como escravo e também como
@@ -29,8 +27,6 @@ malfeitor.
 Como diante de Deus a humildade te coloca num lugar
 de inferioridade, de dependência absoluta, assim diante do
 próximo te faz tomar “o último lugar”. “Ai de vós,
-
-
 que amais o primeiro lugar nas sinagogas” (Lc. 11, 43),
 disse Jesus aos fariseus condenando a caça aos primeiros
 lugares, aos ofícios e cargos honrosos, e acrescentou:

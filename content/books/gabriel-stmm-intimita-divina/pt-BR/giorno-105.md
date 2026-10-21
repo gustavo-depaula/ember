@@ -18,8 +18,6 @@ João o viram transfigurado: “seu rosto resplandecia
 como o sol e suas vestes eram brancas como a neve”.
 Eles ficaram extasiados, e no entanto Jesus lhes mostrara
 apenas um raio de sua glória, pois nenhuma
-
-
 criatura humana teria podido suportar a
 visão completa.
 
@@ -57,8 +55,6 @@ As consolações espirituais jamais são fim em si mesmas,
 e nós não devemos nem desejá-las nem procurar retê-las
 para nosso gozo. A alegria, mesmo a espiritual,
 jamais deve ser procurada por si mesma; como no céu a
-
-
 alegria será a necessária consequência da posse de Deus,
 assim nesta terra deve ser unicamente um meio para
 dar-nos com maior generosidade ao serviço de Deus. A Pedro,

@@ -7,8 +7,6 @@
 **1** — St. Thomas teaches that to reach perfection of charity it is required to detach the heart as much as possible
 from the things of the world, so as to concentrate in God
 all one's affections. "Now, he who possesses temporal things,
-
-
 by the very fact that he possesses them is drawn to love them... This is why the first foundation for acquiring perfect charity is voluntary poverty, when one lives possessing nothing as one's own, as the Master says in St. Matthew: 'If you wish to be perfect, go, sell what
 you have, give to the poor, come and follow Me' " (II-II, q. 186, a. 3).
 

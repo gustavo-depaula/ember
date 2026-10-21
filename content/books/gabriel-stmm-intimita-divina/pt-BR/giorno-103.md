@@ -23,8 +23,6 @@ sem ter estudado o plano mais apto para consegui-la. Em
 outras palavras, o exame de consciência atinge seu fim
 quando a alma que a ele se aplicou pode dizer a si mesma:
 estas são as tendências que devo vigiar mais para não cair no pecado, estes os pontos fracos
-
-
 que devo fortalecer e, por outro lado, estas são as tendências
 boas que devo cultivar, estas as virtudes nas quais devo
 exercitar-me mais. Assim a alma poderá formular
@@ -66,8 +64,6 @@ de corrigir-se. Nestes casos, além de continuar a combater contra as raízes da
 à medida em que a vontade está decidida a corrigir-se,
 as faltas que ainda escapam perdem voluntariedade e
 assim se tornam cada vez mais leves, aliás muitas vezes não são
-
-
 senão resíduos puramente naturais de hábitos contraídos,
 mas já detestados.
 
@@ -94,8 +90,6 @@ qual todo espírito enfermo se sente forte e se torna consciente de sua fraqueza
 “Eu te amarei, ó Senhor, e te renderei graças e exaltarei
 teu nome, porque me perdoaste tantas más ações. Foi
 obra da tua graça e da tua misericórdia, se os meus
-
-
 pecados dissolveste como gelo. Obra da tua graça
 é também todo o mal que não fiz. Que pecado havia
 que eu não soubesse cometer, eu que amei a culpa até gratuitamente? E confesso que todos os pecados me foram perdoados,

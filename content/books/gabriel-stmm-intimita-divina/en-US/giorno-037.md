@@ -80,7 +80,6 @@ fill the fearful with divine sweetness,
 drive away frightful phantoms! O most glorious name! Through You are
 revealed the mysteries of divine love, souls are inflamed with divine love,
 strengthened in battles, and are set free
-
 from all dangers! O desirable name,
 delightful name, admirable,
 venerable name! You, by means

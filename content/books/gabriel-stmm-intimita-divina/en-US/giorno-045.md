@@ -10,7 +10,6 @@ Jesus is the Incarnate Word, and as Word He possesses by nature divine life in t
 Father: "As the Father has life in Himself, so He has granted also to the Son to have life in Himself" (Jn. 5, 26).
 This fullness of divine life, by reason of the hypostatic
 union, is reflected in Christ's Humanity. Placed in direct contact with Divinity, to which it is personally united,
-
 Jesus' most holy Humanity is flooded by divine life, that is, it receives the maximum participation in it through
 such "a fullness of grace that a greater cannot be conceived" (Myst. Corp.). The sanctifying grace that inundates Jesus' Soul is so full, perfect, intense, superabundant that theologians do not hesitate to call it "infinite grace."
 
@@ -31,7 +30,6 @@ not only did He merit it once for all by dying for
 us on the Cross, but continually applies it to our souls, produces it in us: grace is infused and develops
 in us by His living and actual action. In this way Jesus
 gives us life, is life for us, unique source of our supernatural life. For this reason Jesus' grace is called
-
 "capital grace," that is, the grace of the Head who merits it and gives it to the members.
 
 And here are two most precious practical consequences. Whoever
@@ -56,7 +54,6 @@ O Jesus, how sweet it is for me to contemplate Your most holy Humanity filled wi
 To fix my gaze directly on Your Divinity as eternal
 Word is very difficult for me, but to consider it participated in Your Humanity is easier and more accessible; here thought finds rest and never ceases to admire Your greatness. O Jesus, Your Soul is so rich in grace, so luminous, and so full of divine life that in it is reflected all Your glory as Only-Begotten of the Father, and Your Humanity appears to me as the sole mediator and source of all grace,
 of all divine life that can be shared with men and women. But then this Humanity, so holy, so glorious,
-
 so united to God, I contemplate torn in the hard torment of the Cross: all that is glory is hidden, one sees only pain, death, total annihilation. But from the bleeding wounds behold a splendid source of life flowing:
 
 by Your death, O Jesus, You merited to communicate grace to us, and You Yourself became our only source.

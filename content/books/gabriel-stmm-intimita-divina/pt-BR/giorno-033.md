@@ -14,8 +14,7 @@ dar-lhe um louvor perfeito, infinito, digno dele. E ninguém,
 mais do que Jesus Salvador, leva aos homens a paz;
 reparando a ofensa do pecado, Ele pacifica o homem com o seu Criador e estabelece entre eles um novo pacto: o Criador tornar-se-á Pai e o homem seu filho.
 
-Algo semelhante se verifica na nossa vida cotidiana: quem observa a lei divina goza a paz; mas po-
-demos também dizer: quem observa a lei divina dá glória a
+Algo semelhante se verifica na nossa vida cotidiana: quem observa a lei divina goza a paz; mas podemos também dizer: quem observa a lei divina dá glória a
 Deus. À paz dos homens corresponde perfeitamente a
 glória de Deus. Trata-se, porém, daquela paz que vem só de
 Deus, da sua graça, e que em vão buscaríamos em outro lugar.
@@ -23,13 +22,10 @@ Deus, da sua graça, e que em vão buscaríamos em outro lugar.
 “A paz é a tranquilidade da ordem.” A ordem é estabelecida pela lei, pela vontade divina: quem respeita plenamente
 
 a lei possui a plenitude da paz interior; quem se
-afasta, ainda que pouco, desta ordem perde em propor-
-
-ção a sua paz. A paz é o refrigério, o repouso da
+afasta, ainda que pouco, desta ordem perde em proporção a sua paz. A paz é o refrigério, o repouso da
 alma no meio das lutas e dores da vida; mas não
 só por isso devemos esforçar-nos por conquistá-la e possuí-la,
-devemos querê-la sobretudo porque a ela cor-
-responde a glória de Deus.
+devemos querê-la sobretudo porque a ela corresponde a glória de Deus.
 
 **2** — Os anjos prometem a paz “aos homens de boa vontade”. A vontade é “boa” quando é reta, dócil, decidida. *Reta*, isto é, orientada sincera e totalmente para o bem. *Dócil*, sempre disposta a seguir toda indicação da vontade divina. *Decidida*, pronta a aderir à vontade de Deus, mesmo quando se interpõem obstáculos e dificuldades e se exigem sacrifícios. Através das circunstâncias da vida, ainda as mais minutas, o Senhor continuamente nos solicita à generosidade, à abnegação: é preciso dar-nos sem hesitação, seguros de que, se Deus pede, concederá também a força para executar. Tal foi a conduta dos pastores: logo que ouviram o anúncio do Anjo deixaram tudo, rebanho e descanso, “foram depressa e encontraram... o Menino deitado na manjedoura” *(Lc.* 2, 16). Foram os primeiros a encontrar Jesus e a saborear a sua paz.
 

@@ -20,7 +20,6 @@ já não é possível progresso algum. “Portanto, enquanto temos oportunidade,
 de tornar eterno o instante que foge, dando-lhe o valor da eternidade” (Irmã Carmela d. Sp. S., o.c.d.): eis o modo
 melhor de empregar o tempo que Deus nos concede. A
 caridade nos permite aderir com docilidade e amor à
-
 vontade de Deus e assim, ao fim da vida, teremos realizado
 o plano divino sobre a nossa alma, teremos alcançado aquele
 grau de amor que Deus espera de cada um de nós e com

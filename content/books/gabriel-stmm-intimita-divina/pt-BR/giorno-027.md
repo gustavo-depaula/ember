@@ -17,14 +17,12 @@ natureza divina como o Pai e o Espírito Santo; possui as
 mesmas propriedades divinas de infinitude,
 eternidade, onipotência, onisciência etc.; todas as grandezas e perfeições divinas são
 do Verbo, como das outras duas Pessoas. O Verbo opera
-
 as mesmas ações divinas do Pai e do Espírito Santo:
 ações íntimas de conhecimento e de amor que constituem
 a própria vida da SS.ma Trindade; ações exteriores de criação,
 de conservação das criaturas etc. O Verbo é Deus.
 São João Evangelista, iniciando o seu Evangelho, antes
 de falar do nascimento temporal de Jesus, apresenta-nos a
-
 geração eterna do Verbo existente “ab aeterno” no
 seio do Pai, em tudo igual ao Pai, mas dele distinto.
 “No princípio era o Verbo, e o Verbo estava junto de Deus, e o
@@ -72,7 +70,6 @@ que Deus nos amou!
 “Ó Verbo divino, és Tu a Águia adorada que eu amo
 e que me atrai. És Tu que, lançando-te para a terra
 do exílio, quiseste sofrer e morrer para atrair as almas
-
 até o centro da eterna Lareira da Trindade bem-aventurada. És
 Tu que, subindo novamente para a Luz inacessível,
 que doravante será tua morada, permaneces ainda no vale das
@@ -100,8 +97,7 @@ em mim a tua misericordiosa obra redentora, santificadora.
 Vens a nós para curar-nos da nossa miséria, para transformar-nos de filhos do pecado em filhos de Deus. Mas quantas
 vezes, infelizmente, a tua infinita caridade é obrigada a deter-se diante de corações ingratos que te fecham as portas.
 “Veio para o que era seu, e os seus não o receberam” (cf. Jo. 1, 11). Não te recebem aqueles que não
-creem no teu amor, aqueles que desconfiam da tua misericórdia infinita, aqueles que não têm confiança em ti. E en-
-tão, aquela excessiva caridade que do céu te trouxe a nós,
+creem no teu amor, aqueles que desconfiam da tua misericórdia infinita, aqueles que não têm confiança em ti. E então, aquela excessiva caridade que do céu te trouxe a nós,
 que não encontrou inconveniente em que Tu, Verbo eterno,
 assumisses a nossa pobre natureza humana, encontra obstáculo ao
 seu curso naquela mesma criatura, criatura tua, que Tu

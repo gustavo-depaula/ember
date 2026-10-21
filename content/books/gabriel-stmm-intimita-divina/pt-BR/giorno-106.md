@@ -82,15 +82,12 @@ me pedes outra coisa” (cf. T.B.G. Lt. 116 e 144).
 
 Ó Senhor, ajuda-me a escavar na minha pobre alma
 aquele abismo de humildade que atrai o abismo das tuas misericórdias infinitas. Ajuda-me a descer, enquanto meu orgulho
-ama tanto subir. Ajuda-me a reconhecer e confessar humildemente meu nada e minha fraqueza, enquanto meu or-
-gulho ama tanto reputar-se alguma coisa grande. Ajuda-me
+ama tanto subir. Ajuda-me a reconhecer e confessar humildemente meu nada e minha fraqueza, enquanto meu orgulho ama tanto reputar-se alguma coisa grande. Ajuda-me
 a gloriar-me de minhas enfermidades, enquanto meu orgulho
 tende continuamente a gloriar-se do que não é meu,
 mas é puro dom teu. Meu Deus, como é verdade que a santidade percorre caminho oposto ao da natureza! Dá-me a força de empreender com coragem este caminho, de ir
 em ti, ó Senhor, porque sei que estás sempre pronto a socorrer o fraco que a ti recorre e em ti se confia; porque sei
 que, se minha soberba é grande, tua misericórdia é
-
-
 infinita e tua onipotência é invencível; porque sei que
 se “alguém está exausto e necessitado de auxílio, sem
 forças e abundante de miséria, assim que teu olhar

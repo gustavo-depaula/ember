@@ -63,7 +63,6 @@ way of nothing, of total stripping.
 
 You, for love of me, stripped Yourself of Your majesty and
 greatness, hid every sign of Your divinity, made Yourself
-
 so small and humble in order to become "mine," so that I could not only know You, but have You wholly with
 me, possess You wholly, since not only at Bethlehem, but every
 day in the Eucharist You give me all Your divinity, all

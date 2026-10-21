@@ -11,7 +11,6 @@ for ages in God" (Eph. 3, 9), a mystery that we now want to consider in synthesi
 Between God and man an infinite distance, an unsurmountable abyss, a rupture of every relation of friendship: such is the tremendous
 consequence of sin. But between God and man behold the sweet
 Child of Bethlehem; suddenly and completely, the situation changes aspect: the distance is bridged and over the abyss
-
 rises a marvelous bridge that unites earth to heaven,
 that re-establishes relations of intimacy between God and men and women. This bridge is Jesus who, "the one Mediator between God and men,
 joins earth to heaven in a truly admirable way"
@@ -45,7 +44,6 @@ The work of Jesus Mediator is fulfilled on Calvary, where
 He pours out all His Blood, price of our ransom;
 but this work begins in Bethlehem, where the Word accomplishes,
 so to speak, that ineffable "giant's stride" that makes Him
-
 descend from heaven to earth, that from true God makes Him also
 true man.
 
@@ -85,7 +83,6 @@ If I want to love God, I have Your ineffable Deity;
 if I want to love man, You are man...;
 if I want to love the Lord, You have paid the price of Your Blood, drawing me from
 the slavery of sin. You are Lord, Father, and our Brother
-
 by Your benignity
 and boundless charity... You, Deity,
 supreme wisdom, and I, ignorant miserable creature;

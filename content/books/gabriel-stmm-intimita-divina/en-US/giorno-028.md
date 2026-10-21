@@ -22,7 +22,6 @@ since she is about to become a mother. They did not consider themselves authoriz
 they obeyed promptly and simply. It is a man
 who commands, but their deep spirit of faith discerns in the command of the pagan emperor the will of God. And so they go, confident in Providence; God knows, God will provide:
 "for those who love God all things work together for good" (Rom. 8, 28). In
-
 Bethlehem there is no place for them, and they have no choice but to take shelter in a country cave. The squalor of that animals' refuge does not dismay them, does not scandalize them: they know that the Child who must be born is the Son of God, but
 they also know that God's works are so different from
 those of men! And if God wills that His greatest

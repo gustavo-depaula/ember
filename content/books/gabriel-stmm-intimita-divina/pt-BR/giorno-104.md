@@ -20,8 +20,6 @@ S. Catarina de Sena, e certamente quem o não despreza
 não se aproximará com leviandade da confissão. Para tal fim
 é útil refletir que a absolvição é precisamente a efusão do
 Sangue precioso que, inundando e penetrando a alma,
-
-
 a purifica do pecado, restitui-lhe a graça santificante se
 a perdeu e a aumenta se já a possui. Esta remissão do pecado e produção da graça é fruto da
 ação de Jesus, expressa na fórmula que o sacerdote
@@ -52,8 +50,6 @@ depois sobre as semideliberadas, ainda que fossem simples imperfeições, e denu
 mas também o motivo interno. Embora isso não seja por si necessário para a validade da confissão, é certo
 que quanto mais a acusação põe a nu a raiz do mal,
 tanto mais a alma tirará proveito, quer pelo ato de humildade cumprido,
-
-
 quer pelo impulso a um arrependimento mais profundo e a um
 desejo mais vivo de corrigir-se, que logicamente deriva
 da consideração dos motivos bem pouco nobres dos quais,
@@ -63,8 +59,6 @@ os pontos fracos do penitente e portanto de sugerir-lhe os remédios mais aptos,
 que da acusação, a alma deve preocupar-se com a dor dos
 próprios pecados enquanto são ofensa de Deus, Bondade infinita;
 que seja uma dor ex amore, proveniente do amor,
-
-
 isto é, o arrependimento do filho que, mais do que pensar
 na sua vergonha e nos castigos merecidos, se aflige pelo
 desgosto dado a um Pai que tanto o ama e de cujo
@@ -102,11 +96,7 @@ alma minha? Ó Jesus, reaviva minha fé e faze-me penetrar a fundo o valor imens
 teu Sangue. É só teu Sangue que me lava dos pecados,
 que me purifica das impurezas, que sara e vivifica
 minha alma. Oh, faze que este lavacro salutar
-
-
 penetre todo meu ser e o renove todo na tua
-
-
 graça, no teu amor!
 
 Pelos méritos da tua Paixão, concede-me, ó Senhor,

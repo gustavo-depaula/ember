@@ -73,8 +73,6 @@ Exceedingly deep are Your designs" (Ps. 39, 6;
 91, 2-6).
 Your most splendid work, the Incarnation of Your
 Only-Begotten, what more sublime masterpiece than Christ Jesus,
-
-
 true God and true man, "in whom are hidden all the treasures
 of wisdom and knowledge"? (Col. 2, 3).
 

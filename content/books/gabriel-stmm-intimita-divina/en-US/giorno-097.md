@@ -17,8 +17,6 @@ when, without neglecting to mortify the body, it aims first of all
 to mortify self-love in all its many
 manifestations. The Pharisee who habitually fasted,
 but had his heart swollen with pride, so much so as to reduce his prayer to self-praise and contempt
-
-
 of neighbor, did not possess the spirit of mortification
 and therefore was not justified before God. It is worth little to impose bodily mortifications on oneself if one does not know how to renounce one's own way of seeing in order to adapt to another's,
 if one does not know how to get along with one who is contrary to us, to bear calmly an injustice, a
@@ -50,8 +48,6 @@ The same in the moral field. Does it not happen at times
 also to you to avoid an unpleasant person whom the Lord has placed beside you, or to seek every means
 to avoid a humiliation, an obedience that costs you? In
 this way you avoid precisely the best occasions to deny
-
-
 and mortify your self-love; even if you wish to replace
 them with others, these will never be as effective
 as those God Himself had prepared for you. Indeed,
@@ -81,8 +77,6 @@ Yourself had prepared for me.
 
 How blind I am, O Lord, and how little I know how to recognize Your ways, so different and so far from my
 short human views. Give me, my God, a supernatural
-
-
 gaze that knows how to judge events in Your
 light, that knows how to discern the intimate meaning of the
 suffering You place on my path. And all the more, I beg You,

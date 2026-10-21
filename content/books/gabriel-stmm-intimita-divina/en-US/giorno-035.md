@@ -20,7 +20,6 @@ no progress is possible anymore. "Therefore, while we have opportunity, let us d
 "It is a matter of giving each instant the maximum love,
 of making the fleeing instant eternal by giving it the value of eternity" (Sr. Carmela d. Sp. S., O.C.D.): this is the best way to use the time God grants us.
 Charity allows us to adhere with docility and love to
-
 the will of God, and thus at the end of life we shall have realized
 the divine plan for our soul, we shall have reached that
 degree of love that God expects from each of us and with

@@ -29,8 +29,6 @@ grace. From the day of baptism to life's end, there is a
 continuous succession of comings, of visits of the Lord; every
 sacrament received, every inspiration, every increase of
 grace is a new divine visit to the soul, by which
-
-
 God takes ever more possession of it, establishing in it His
 dwelling in a way ever more intimate and profound. One
 who has never delayed opening his heart to all these
@@ -59,8 +57,6 @@ will, even when it imposes grave sacrifices and painful
 renunciations, so the essence of a holy death consists in submitting with love to this supreme sacrifice,
 accepting it willingly as the final expression of God's
 will. The deeper and fuller the resignation
-
-
 and love with which a soul accepts death, the more
 its own can be called a death of love, precisely because
 embraced for love of God.

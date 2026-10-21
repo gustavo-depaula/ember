@@ -60,8 +60,6 @@ accepted and pleasing to God - beneath a material practice.
 "Your servant, O my God, can no longer bear
 the unspeakable torment of seeing herself far from You. If I must
 still live, I beg You not to give me any rest,
-
-
 for here below I do not want it. I would rather feel myself
 free, because eating distresses me and sleeping torments me.
 I feel that I pass life in my comforts, while
@@ -90,7 +88,5 @@ therefore, to leave every care of it to You and reserve for myself
 only one concern: that of loving You and serving You with
 all my strength. Help me, O Lord, to master my
 body, to become fully its master, so as to attain
-
-
 that magnificent freedom of spirit which allows the soul
 to give itself undisturbed to the exercise of a profound interior life.

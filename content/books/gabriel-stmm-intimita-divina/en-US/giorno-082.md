@@ -6,8 +6,6 @@
 
 **1** — Jesus said: "the kingdom of heaven is like
 to a merchant who goes in search of fine pearls; and, having found
-
-
 one pearl of great price, he goes, sells all that he has and
 buys it" (Mt. 13, 45). The pearl of great price is union
 with God; if you wish to acquire it you must sell all
@@ -77,8 +75,6 @@ life in this world shall keep it unto life eternal"
 
 O Lord, in the light of Your teachings, even the
 hard and rugged way of total stripping becomes lovable
-
-
 and everything invites me to undertake it with courage. Yet,
 You know that I am weak and that by nature I spontaneously shrink from all that is difficult, toilsome, disheartening; You know that my nature always tends to minimal
 effort, to what is easier, more pleasant, more comforting. But Your love, O my God, is omnipotent and You,

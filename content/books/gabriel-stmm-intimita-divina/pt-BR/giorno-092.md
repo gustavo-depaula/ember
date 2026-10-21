@@ -66,8 +66,6 @@ aceito e agradável a Deus - a uma prática material.
 “Tua serva, ó meu Deus, não pode mais suportar
 o inenarrável tormento de ver-se longe de ti. Se devo
 viver ainda, suplico-te que não me dês descanso algum,
-
-
 porque aqui embaixo não o quero. Preferiria sentir-me livre, porque o comer me angustia e o dormir me atormenta. Sinto passar a vida nas minhas comodidades, enquanto nada me pode saciar fora de ti. Parece-me viver em contraste com a natureza, porque não quero viver em mim, mas toda em ti” (T.G. Vi. 16, 4).
 
 Ó Senhor, eu te suplico, ajuda-me a libertar-me da escravidão do corpo! Ensina-me a dominar suas exigências injustas, a mortificar suas pretensões. Não permitas que este invólucro de carne, que me deste para que eu te possa servir na terra, se me converta em obstáculo e me detenha no dom generoso e total de mim mesmo.

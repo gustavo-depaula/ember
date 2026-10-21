@@ -30,10 +30,8 @@ miracle, which in today's liturgy occupies first place,
 the Church adds briefly two others: the water turned
 into wine at Cana's wedding, and Jesus' baptism in the
 Jordan, while from heaven a voice attests: this is my
-
 beloved Son. "Three miracles have illumined the holy day we celebrate today," sings the *Magnificat* antiphon;
 three miracles that should dispose us to recognize and adore, with living faith, in the Child Jesus our God,
-
 our King.
 
 **2** — "We have seen His star in the East and have
@@ -67,7 +65,6 @@ gifts worthy of God" (BR.).
 
 "O Jesus, I adore You, for You are my Lord God...
 You are a great God and King of all kings. In Your hands
-
 are all the ends of the earth and You behold the heights
 of the mountains. Yours is the sea and You are He who made it, and on Your hands the earth is founded... And we are Your people
 and the sheep of Your hand" (cf. Ps. 94). Yes, O Jesus,

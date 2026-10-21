@@ -13,8 +13,6 @@ retorno egoístico sobre si. Pode-se estar preocupado consigo de
 um ponto de vista material, grosseiro, mas pode-se estar assim
 também de um ponto de vista espiritual. Preocupar-se demais
 com o próprio progresso espiritual, com as consolações que Deus
-
-
 concede ou não, com o próprio estado de aridez etc.,
 é muitas vezes indício de um sutil egoísmo espiritual,
 é indício de uma alma mais ocupada de si que de Deus.
@@ -40,11 +38,7 @@ imolação. Mas para evitar voltar sobre
 si, a alma deve necessariamente polarizar alhures suas
 aspirações; por isso o exercício negativo de não pensar
 mais em si deve ir de par com o positivo
-
-
 de centrar-se em Cristo, de “sepultar em Cristo” todo
-
-
 pensamento, toda preocupação, também espiritual, de si.
 
 Ninguém conseguirá afastar a preocupação de si
@@ -71,8 +65,6 @@ de uma obra, por pequena que seja, feita em segredo e sem desejo de que seja con
 este desejo; porque quem com amor puríssimo
 opera pelo Senhor, não somente não se importa de modo algum que
 suas ações sejam vistas pelos homens, mas nem sequer as faz
-
-
 para que o próprio Deus as saiba. De modo que, por hipótese,
 se o Senhor nunca as soubesse, não cessaria de render-lhe iguais serviços, com a mesma alegria e pureza de
 amor” (C.E. I, 20). O mesmo delicado pensamento encontramos
@@ -96,8 +88,6 @@ contentar só a Deus.
 
 Ó meu Deus, ensina-me a esquecer-me, a ocultar em ti
 toda preocupação, todo cuidado excessivo de mim. Porque
-
-
 quero servir-te, ó Senhor? Por que quero amar-te
 e avançar na via da santidade? Talvez para minha satisfação,
 para meu interesse ou vã complacência? Oh, quão mesquinha
@@ -122,14 +112,12 @@ as trevas se adensem ao meu redor, é justamente porque
 queres ensinar-me a servir-te com pureza de intenção,
 buscando só tua satisfação e não a minha. Se permites
 que eu continue a exercitar-me na vida interior,
-na virtude, sem ver resultado algum, se me manténs escondidos meus poucos progressos, fazes isso justamente para estabelecer-
-me na humildade. Talvez se eu tivesse mais luz,
+na virtude, sem ver resultado algum, se me manténs escondidos meus poucos progressos, fazes isso justamente para estabelecer-me na humildade. Talvez se eu tivesse mais luz,
 se o trabalho da tua graça fosse em mim mais manifesto,
 eu me gloriaria disso e, comprazendo-me de mim, deteria meu
 ímpeto para ti, único objeto da minha complacência.
 
-Ó Senhor, como és admirável em teus caminhos! Ben-
-dita seja esta obscuridade interior que me defende dos
+Ó Senhor, como és admirável em teus caminhos! Bendita seja esta obscuridade interior que me defende dos
 perigos do orgulho espiritual! Não, Deus meu, não te
 peço mudar meu caminho; antes te suplico
 continuares a conduzir-me assim, numa vida de completo escondimento, não só aos olhos alheios, mas também aos meus.

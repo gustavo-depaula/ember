@@ -18,8 +18,6 @@ John saw Him transfigured: "His face shone
 like the sun and His garments were white as snow."
 They remained enraptured, and yet Jesus had shown them
 only one ray of His glory, since no
-
-
 human creature could have borne its full
 vision.
 
@@ -55,8 +53,6 @@ Spiritual consolations are never an end in themselves,
 and we must neither desire them nor seek to hold them
 for our enjoyment. Joy, even spiritual joy,
 must never be sought for itself; as in heaven joy
-
-
 will be the necessary consequence of possession of God,
 so on earth it must be solely a means to give ourselves
 with greater generosity to God's service. To Peter,

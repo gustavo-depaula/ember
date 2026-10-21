@@ -23,7 +23,6 @@ St. Paul teaches—is the Church" (Col. 1, 24).
 Of this Body Christ is the Head: "Christ is Head
 of the Church, He the Savior of her body" (Eph. 5, 23);
 He was constituted by the Father "supreme Head of the Church,
-
 which is the body... and His complement" (ibid., 1, 22).
 One body, one life, and life flows from the Head to the
 individual members: "Jesus Christ causes the Church to live by
@@ -63,7 +62,6 @@ our glory, which infinitely surpasses every earthly dignity and greatness.
 
 "O beloved Spouse and loving Word, in a manner known to You
 and understood only by Yourself, You generate the body of the Holy Church... With Your Blood You form for Yourself a body well ordered,
-
 well composed, of which body You are the head,
 in whose beauty the Angels delight, the Archangels admire,
 the Seraphim fall in love, and all heavenly spirits
@@ -89,7 +87,6 @@ You say to me: "Abide in me."
 How, O Lord, can I not accept Your invitation and Your
 command when You Yourself have already willed to insert me into
 Your Mystical Body? O Lord, if I could understand the
-
 greatness, the value of the infinite gift You offer me, if I could understand what it means to live in You and by You,
 as the branch lives in the vine, as the member lives in the
 body! What do I lack, O Lord, for my sanctification,

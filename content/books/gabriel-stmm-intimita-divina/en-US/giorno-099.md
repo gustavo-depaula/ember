@@ -10,8 +10,6 @@ were scattered in days of cloud and darkness... and I will bring them into their
 of Israel... On rich pastures I will feed them." This is the program of what
 the Lord wants to do in favor of our souls in
 this holy Lenten time, to lead them to a life
-
-
 of greater purification and deeper intimacy with Him.
 He stretches out His hand to us not only to draw us from dangers,
 but also to help us climb toward those higher places
@@ -26,8 +24,6 @@ a renewed purpose of holiness. The desire for holiness
 is the spring of spiritual life; the more intense and real this desire is in you, the more it will impel you to total commitment. In this first week of Lent, seek to reawaken and strengthen your purpose of holiness.
 If other efforts made in the past have failed or have not
 fully reached their goal, do not for this reason be discouraged. "Nunc coepi" - I have begun
-
-
 now, indeed I begin now - repeat humbly, and let the experience of your failures make you place in God alone
 your trust.
 
@@ -59,8 +55,6 @@ but if you must set no measure in love, neither must you
 set measure in conversion. "The Lord says: convert to Me with all your heart" (Joel 2, 12): this is the indispensable condition for loving God with all your heart.
 Rare are the cases in which this total conversion is realized in an instant by a particular stroke of grace; in general one arrives at it only through a prolonged and progressive
 conversion. And if in conversion, as in all the work
-
-
 of sanctification, the initiative is always God's who goes before you with His grace, your collaboration is however required;
 therefore each day you must apply yourself with renewed
 commitment to "convert to God with all your heart." Let this be your Lenten program.

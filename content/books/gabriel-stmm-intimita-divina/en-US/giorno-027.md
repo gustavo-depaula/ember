@@ -16,14 +16,12 @@ all three divine Persons. The Word possesses the
 divine nature as the Father and the Holy Spirit do; He possesses their same divine properties of infinity,
 eternity, omnipotence, omniscience, etc.; all divine greatness and perfections are
 of the Word, as of the other two Persons. The Word performs
-
 the same divine actions as the Father and the Holy Spirit:
 intimate actions of knowledge and love that constitute
 the very life of the Most Holy Trinity; exterior actions of creation,
 of preservation of creatures, etc. The Word is God.
 St. John the Evangelist, beginning his Gospel, before
 speaking of Jesus' temporal birth, presents to us the
-
 eternal generation of the Word existing "ab aeterno" in
 the bosom of the Father, altogether equal to the Father, yet distinct from Him.
 "In the beginning was the Word and the Word was with God and the
@@ -70,7 +68,6 @@ which God has loved us!
 "O divine Word, You are the adored Eagle whom I love
 and who draws me. You are He who, plunging toward the land
 of exile, willed to suffer and die to draw souls
-
 all the way to the center of the eternal Hearth of the blessed Trinity. You
 are He who, rising again toward inaccessible Light,
 which from now on will be Your dwelling, remain still in the valley of tears, hidden under the appearance of a white Host...

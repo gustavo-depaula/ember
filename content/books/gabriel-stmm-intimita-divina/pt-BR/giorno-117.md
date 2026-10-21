@@ -58,8 +58,7 @@ Dam. 16, 11). Essas reações mais ou menos vivas da nossa suscetibilidade nos d
 longe de ter posto sob os pés os pontos de honra; e tomar consciência dessa deficiência será o ponto de partida
 para corrigi-la, porque o maior obstáculo à
 aquisição das virtudes é justamente crer que já as
-adquirimos e, portanto, não temos mais necessidade de exercitar-
-nos nelas.
+adquirimos e, portanto, não temos mais necessidade de exercitar-nos nelas.
 
 “Deus nos livre - exclama Teresa de Jesus - de pessoas que pretendem servi-lo e cultivar ao mesmo tempo a própria
 honra!” (ibid., 12, 7). Seria querer servir ao mesmo

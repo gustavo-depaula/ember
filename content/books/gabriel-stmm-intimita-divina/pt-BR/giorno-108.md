@@ -6,8 +6,6 @@
 
 **1** — A humildade cristã não deprime, mas eleva,
 não abate, mas encoraja, porque quanto mais desvenda à alma
-
-
 seu nada, sua baixeza, tanto mais a lança para Deus,
 cheia de confiança e de abandono. O próprio fato
 de que em tudo - no ser e no agir, tanto na ordem natural quanto na
@@ -45,8 +43,6 @@ mais elevada, não as admite a maior intimidade com ele,
 enquanto não as encontra completamente despojadas de toda confiança
 em si mesmas. Quando uma alma, esquecendo praticamente
 seu nada, confia ainda que um pouco em suas próprias forças,
-
-
 em sua ciência, iniciativas e virtudes, Deus a deixa
 a si mesma; os insucessos que se seguirão, as recaídas,
 a esterilidade de suas obras porão a nu
@@ -71,24 +67,18 @@ a glória de Deus, não pode contar de modo nenhum com suas obras;
 e assim conta total e unicamente com a misericórdia e
 com a graça de Deus: “Non habeo fiduciam nisi in tua misericordia”. Sua confiança está nos méritos infinitos de Jesus,
 no amor misericordioso do Pai celeste e na obra
-
-
 da graça; e esta confiança a torna mais que nunca corajosa e ousada, porque sabe que com Deus tudo se pode.
 
 ### Colóquio
 
 “O que agrada a Jesus - diz a Santa de Lisieux -
 é ver-me amar minha pequenez e minha pobreza; é a
-
-
 cega esperança que tenho em sua misericórdia. Eis meu
 único tesouro” (Lt. 176).
 
 
 “Reconheço-o, ó Senhor, sou muito fraca e cada
 dia faço nova experiência disso. Mas Tu te dignas
-
-
 ensinar-me aquela ciência que me faz gloriar das minhas enfermidades.
 Esta é uma graça muito grande, e só nela
 encontro paz e repouso do coração porque já compreendi teu modo: dás como sabe dar Deus, mas queres

@@ -10,8 +10,7 @@ presented to us Jesus in combat against the demon, but,
 while then it presented Him in humble posture of
 defense before the temptations of the evil one, today it
 shows Him in posture of attack and resounding victory.
-Behold a poor possessed man, says the Gospel (Lk. 11, 14-
-28), who "was mute"; Jesus, with one act of His
+Behold a poor possessed man, says the Gospel (Lk. 11, 14-28), who "was mute"; Jesus, with one act of His
 divine power, "cast out the demon; and when it had gone out,
 the mute man spoke and the crowds were filled with astonishment."
 But the enemy, almost to recover from the defeat, insinuates into
@@ -34,8 +33,6 @@ in seeking to drag individuals and society into evil, Jesus, dying on the cross,
 of our victory. This price is at our disposal:
 through Christ's power, through Christ's grace every
 Christian has power to conquer any attack of the enemy. Let us not therefore be dismayed before the triumphs
-
-
 of evil: they are only apparent triumphs, because Jesus is
 the stronger One, the only and final victor.
 
@@ -74,8 +71,6 @@ entry is vigilance in prayer, to fill the
 heart with God, so that there is no room left for the enemy
 of God. And there is no more room when the soul is totally
 united to God by acceptance and observance of His
-
-
 word, His will. Indeed, to the woman who praises His
 Mother, Jesus replies: "Rather, blessed are those who hear
 the word of God and keep it." Yes, the Blessed Virgin Mary is blessed

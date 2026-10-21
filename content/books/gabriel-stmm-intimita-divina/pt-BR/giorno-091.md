@@ -21,8 +21,6 @@ os atemorizava, os escandalizava.
 
 Para os que sonham só prosperidade e glória terrena,
 a linguagem da cruz é incompreensível. Para os que
-
-
 têm uma visão material das coisas, resulta muito duro
 entender o significado espiritual e particularmente o
 significado do sofrimento. Também S. Paulo dizia que o
@@ -60,8 +58,6 @@ O mundo muitas vezes se admira dos sofrimentos dos bons
 e, em vez de encorajá-los no recurso a Deus, procura
 afastá-los, infundindo desconfiança e falsos temores. As nossas próprias
 paixões, nossa tendência inata ao gozo, muitas vezes gritam
-
-
 em nós e com mil pretextos quereriam impedir-nos de seguir
 Jesus crucificado. Permaneçamos firmes na nossa fé como o
 pobre cego, o qual, sem preocupar-se com a multidão que
@@ -87,8 +83,6 @@ se quero herdar teu reino! Não é com repouso,
 com delícias, com honras e riquezas que se há de ganhar
 aquele reino que Tu compraste com tanto sangue. Por
 amor de Deus, abri os olhos, ó grandes do mundo, e pensai
-
-
 que os verdadeiros cavaleiros de Jesus Cristo, os príncipes da sua Igreja, como um S. Pedro e um S. Paulo, não seguiram certo o caminho que vós seguis! Credes acaso que para vós deva haver outro caminho? Não o penseis” (T.G. Fd. 10, 11).
 
 Ó meu Jesus, a cruz é tua insígnia; seria portanto bem vergonhoso para mim pedir de vir dela libertado. De um mal só te suplico ardentemente que me livres: de qualquer pecado deliberado, por pequeno que seja. Isto, ó Senhor, pelos méritos da tua santíssima Paixão, conserva-o sempre longe de mim. Mas quanto aos outros males: sofrimentos do corpo e do espírito, dores físicas e morais, peço-te luz e força. Luz para entender o sentido recôndito que eles têm nos planos da tua divina Providência, luz para crer firmemente que tudo — qualquer amargura ou prova, qualquer rompimento ou abalo — é por ti ordenado ao meu maior bem. Força para não me deixar impressionar pelas falsas máximas do mundo ou desviar por um vão miragem de felicidade terrena; força para abraçar com coragem e com amor qualquer gênero de sofrimento.

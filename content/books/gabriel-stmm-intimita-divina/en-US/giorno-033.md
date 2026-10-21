@@ -7,9 +7,7 @@
 
 **1** — At Bethlehem the angels announce two things: glory to God and peace to men; one corresponds to the other.
 No one gives glory to God as that little Child does,
-
 who lies on the hay: He alone, being the eternal Word, can
-
 give Him perfect, infinite praise worthy of Him. And no one
 more than Jesus the Savior brings peace to men and women;
 repairing the offense of sin, He reconciles man with his Creator and establishes between them a new covenant: the Creator will become Father and man His child.
@@ -22,9 +20,7 @@ Jesus, from His grace, and which we would vainly seek elsewhere.
 "Peace is the tranquility of order." Order is established by law, by the divine will: whoever fully respects
 
 the law possesses the fullness of interior peace; whoever
-departs, even a little, from this order loses in propor-
-
-tion his peace. Peace is the refreshment, the rest of the soul amid the struggles and sorrows of life; but not
+departs, even a little, from this order loses in proportion his peace. Peace is the refreshment, the rest of the soul amid the struggles and sorrows of life; but not
 only for this must we strive to conquer and possess it,
 we must want it above all because to it corresponds the
 glory of God.
@@ -88,7 +84,6 @@ who from heaven bent down to earth to carry out the will of Your Father.
 
 And then give strength to my will, that it may know how to overcome
 every reluctance, every wavering and hesitation, above all
-
 when it must surmount difficulties and meet sacrifices.
 Lord, I would like to have an upright and resolute will to come to You straight and swift like an arrow, a will
 docile like the wave to the wind, to follow faithfully

@@ -15,7 +15,6 @@ pecado e sofrer todas as suas consequências mais humilhantes. A
 lei da circuncisão não podia de modo algum atingir
 Jesus, o Filho de Deus, o Santo por excelência; mas Jesus
 quis submeter-se a ela como o último filho de Abraão, porque,
-
 como ensina São Paulo, “Ele devia em tudo ser feito
 semelhante aos seus irmãos... para que fossem expiadas as culpas do povo” (Heb. 2, 17). O rito, talvez realizado por José
 na intimidade da família, fez correr das carnes imaculadas de Jesus as primeiras gotas do seu precioso Sangue.

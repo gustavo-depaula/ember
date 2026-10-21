@@ -43,8 +43,6 @@ passively into the night of the senses. He does this by
 means of external and internal trials and adversities.
 Here you must not so much act as undergo; you must be like
 the patient before the surgeon; you must accept with humility
-
-
 and docility all that God permits, without trying to
 escape trial, and not even to reduce or lessen it.
 
@@ -69,8 +67,6 @@ I am still so blind as to prefer that little crumb of immediate satisfaction tha
 "O Lord, most merciful Father, receive, I beg You,
 this prodigal son of Yours! I have suffered enough now;
 enough have I been slave of Your enemies, whom You keep
-
-
 under Your feet; enough have I been mockery of false
 allurements. I understand that I must return to You; grant that, knocking, I may find Your door open; teach me the road to
 reach You. My only resource is my will;

@@ -6,8 +6,6 @@
 
 **1** — Christian humility does not depress, but lifts up,
 does not cast down, but encourages, because the more it unveils to the soul
-
-
 its nothingness, its lowliness, the more it launches it toward God,
 full of trust and confidence. The very fact
 that in everything - in being and in acting, both in the natural order and in
@@ -43,8 +41,6 @@ spiritual life, does not admit them to greater intimacy with Him,
 until He finds them completely stripped of every trust
 in themselves. When a soul, practically forgetting
 its nothingness, trusts even a little in its own strength,
-
-
 its knowledge, initiatives, virtues, God leaves it
 to itself; the failures that follow, relapses,
 the sterility of its works will lay bare
@@ -68,24 +64,18 @@ the glory of God, it cannot at all count on its works;
 and therefore it counts totally and solely on God's mercy and
 grace: "Non habeo fiduciam nisi in tua misericordia." Its trust is in Jesus' infinite merits,
 in the merciful love of the heavenly Father and in the work
-
-
 of grace; and this trust renders it more than ever courageous and bold, because it knows that with God all is possible.
 
 ### Colloquy
 
 "What pleases Jesus - says the Saint of Lisieux -
 is to see me love my littleness and my poverty; it is the
-
-
 blind hope I have in His mercy. This is my
 only treasure" (Lt. 176).
 
 
 "I recognize it, O Lord, I am very weak and every
 day I make new experience of it. But You deign
-
-
 to teach me that science which makes me glory in my infirmities.
 This is a very great grace, and in it alone
 I find peace and rest of heart, because I have now understood Your way: You give as God knows to give, but You want humility of heart" (cf. T.B.G. Lt. 87 and 140).

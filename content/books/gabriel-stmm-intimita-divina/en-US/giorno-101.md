@@ -11,11 +11,7 @@ God.
 
 This kind of venial sins, when committed habitually,
 diminish the soul's tendency toward God and instead increase the tendency toward selfish
-
-
 satisfaction, toward creatures. And thus, little by little,
-
-
 the soul loses fervor, loses sensitivity to offense against
 God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
 an indifference that puts it in danger of offending God
@@ -44,13 +40,9 @@ offending a Majesty so great?" (P. 2,
 wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
 by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
 of the Lord, rises again, and sets out once more. Such
-
-
 sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
 Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
 which will lead it to distrust its own strength totally,
-
-
 to place in God alone all its trust. It will experience
 in practice the great reality of Jesus' words: "Without
 Me you can do nothing" (Jn. 15, 5). Not infrequently the
@@ -80,12 +72,9 @@ you are continually seen by God? Know that from His
 eye you can never hide, because nothing is hidden from Him... O eternal God,
 O compassionate and merciful Father, have pity and mercy
 on us, because we are blind and without any
-
-
 light, especially I, poor and miserable... O You,
 true sun, enter my soul and illumine it with Yourself.
-Drive out its darkness and give light; destroy the frost of self-
-love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
+Drive out its darkness and give light; destroy the frost of self-love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
 
 "May it please You, O Lord, that I fear only
 offending You, convinced that greater harm can come to me

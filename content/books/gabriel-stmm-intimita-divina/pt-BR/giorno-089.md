@@ -9,8 +9,6 @@ do espírito sobre a matéria. Mas tal domínio é em nós contrastado por tend�
 também as almas consagradas a Deus trazem o tesouro da
 castidade em *vasis fictilibus* (II Cor. 4, 7), isto é, no vaso
 frágil de um corpo de carne, que sente o impulso para as
-
-
 satisfações dos sentidos. O voto de castidade não livra a alma dessas tendências e por isso não a dispensa de uma
 vigilância contínua: “quem fez voto a Deus de
 integridade virginal deve lutar com oração e penitência,
@@ -23,18 +21,12 @@ do espírito.
 
 A modéstia é um exercício particular de mortificação
 destinado a moderar e regular todo o agir interno e
-
-
 externo do homem, em conformidade com sua vocação.
 
 
 S. Paulo recomenda esta virtude a todos os cristãos: “a
 vossa modéstia seja conhecida de todos os homens” (Fil. 4, 5); mas
-
-
 as almas consagradas são a ela obrigadas de modo mais estrito
-
-
 porque, sendo chamadas - por seu estado de vida - a
 conservar intacto o tesouro da castidade, têm necessidade de
 um exercício mais assíduo e delicado de moderação dos
@@ -56,18 +48,12 @@ ou conversação, sê sempre modesta”, ensina Teresa d'Avila às suas filhas; 
 Jesus “refreava e guardava de tal modo suas potências e
 seus sentidos que se guardava de todo olhar e palavra que, de
 algum modo, não tivesse relação com Deus” (Sp. p. 272). É
-
-
 a regra áurea de S. João da Cruz: usar os sentidos só
 para o serviço e a glória de Deus e para elevar o coração a Ele
 (cf. S. I, 13, 4), o que na prática quer dizer usá-los só no
-
-
 cumprimento dos próprios deveres ou para
 um honesto e justo alívio, e “o resto deixá-lo
 de lado para o Criador” (G.C. C.E. II, 38). Portanto, guardar os
-
-
 sentidos de todas aquelas coisas
 que os entulham inutilmente, com o perigo de fazer chegar
 à alma impressões menos puras, menos santas.
@@ -102,8 +88,6 @@ sem o qual nada é perfeito.
 que uma espada de dois gumes, para que eu ouça tua voz.
 Ilumina meus olhos, ó luz incomparável, e fá-lo com tanta
 força que jamais se voltem às vaidades terrenas, mas
-
-
 procurem só a ti, ó Bem invisível. Cria em mim um novo
 olfato, Tu, suavíssimo perfume da minha vida, para que eu
 corra atrás da fragrância dos teus unguentos. Sana meu

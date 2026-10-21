@@ -27,11 +27,7 @@ Considered thus, it is clear that voluntary imperfection
 can never be conformed to the will of God,
 therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
 with the divine will. Hence the importance,
-
-
 for the soul that seeks perfection, of eliminating from its
-
-
 conduct any voluntary imperfection. It is precisely in
 this sense that St. John of the Cross warns: "For the soul
 to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
@@ -48,11 +44,7 @@ proportionate, and sufficient motive for failing in one of these laws,
 very easily such transgressions will become venial
 sin because of lack of a morally good end. In fact,
 as St. Thomas teaches, man is bound always to act
-
-
 for a reasonable motive, for a good end. If the
-
-
 end is vitiated - as it would be, for example, to transgress the
 law of silence, recollection, or religious modesty out of
 curiosity, for one's own convenience, and the like - the action
@@ -70,8 +62,6 @@ always derives from lack of effort, of vigor, of momentum
 in spiritual life. It is always selfishness that, in one way
 or another, takes something from God to satisfy
 self. We are too calculating; we are afraid of giving
-
-
 too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
 
 ### Colloquy
@@ -82,8 +72,6 @@ selfishness. Oh, how I see that it is precisely this
 selfishness that is the cause of so many little infidelities of mine, of so many
 imperfections into which I habitually fall and which
 I do not care to correct under the pretext that they are not
-
-
 sins!
 
 But such faults are not without importance for
@@ -110,11 +98,7 @@ heart, that I want to give myself entirely to You; You know that my
 poor desires are sincere, though ineffective. Well then,
 do You give me a real, operative love, capable of conquering
 all the resistances of selfishness, of dismantling all its
-
-
 plans. You who are infinite charity, consuming fire, infuse
-
-
 into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
 is the weight that tries to slow my flight toward You,
 grant that Your love be a weight still stronger that

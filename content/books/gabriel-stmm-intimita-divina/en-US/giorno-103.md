@@ -22,8 +22,6 @@ without having studied the best plan for attaining it. In
 other words, examination of conscience reaches its purpose
 when the soul that has applied itself to it can say to itself:
 these are the tendencies I must watch most carefully so as not to fall into sin, these the weak points
-
-
 that I must strengthen, and on the other hand these are the good tendencies I must cultivate, these the virtues in which I must
 exercise myself more. In this way the soul will be able to formulate well-defined practical resolutions,
 which will then become the particular object of its further examinations.
@@ -61,8 +59,6 @@ of which, though having a half-consciousness or confused awareness, it still can
 to correct itself. In these cases, besides continuing to combat the roots of its faults, it is very useful to strengthen more and more the resolution to conquer itself, because
 in proportion as the will is resolved to correct itself, the faults that still escape lose voluntariness and
 therefore become lighter and lighter; indeed often they are
-
-
 only purely natural residues of contracted habits,
 but already detested.
 
@@ -89,8 +85,6 @@ which every infirm spirit feels itself strong and becomes aware of its weakness.
 "I will love You, O Lord, and I will give You thanks and exalt
 Your name, because You forgave me so many evil deeds. It was
 the work of Your grace and of Your mercy, if my
-
-
 sins You melted like ice. Work of Your grace
 is also all the evil I have not done. What sin was there
 I did not know how to commit, I who loved fault even gratuitously? And I confess that all sins were forgiven me,

@@ -45,8 +45,6 @@ de modo passivo na noite dos sentidos. Ele faz isso por
 meio das provas e contrariedades externas e internas.
 Aqui não deves tanto agir quanto padecer; deves ser como
 o paciente diante do cirurgião; deves aceitar com humildade
-
-
 e docilidade tudo o que Deus permite, sem procurar
 fugir da prova e nem sequer reduzi-la ou diminuí-la.
 
@@ -64,8 +62,7 @@ total.
 Ó Senhor, digna-te vir ao meu encontro com tua
 graça, inflamar-me com teu amor, para que eu possa avançar com ímpeto naquela noite escura que deve preparar-me para a união contigo. A noite não agrada à minha
 natureza que ama a luz, o sol, o dia pleno e radioso.
-Mas se Tu me ajudas, por que não deverei por amor de ti aceitar privar meus sentidos de toda satisfação, colocá-
-los às escuras, quando no fundo se trata apenas de renunciar ao encanto de coisas que nada são e nada valem,
+Mas se Tu me ajudas, por que não deverei por amor de ti aceitar privar meus sentidos de toda satisfação, colocá-los às escuras, quando no fundo se trata apenas de renunciar ao encanto de coisas que nada são e nada valem,
 para poder em troca gozar-te, em quem há toda luz, toda
 alegria, todo deleite? Portanto, ó Senhor, não saberei por
 amor de ti suportar um pouco de escuridão, de frio, de privação, de nudez, de pobreza? Oh, quantas vezes, infelizmente,
@@ -76,8 +73,6 @@ seu deleite.
 “Ó Senhor, Pai clementíssimo, acolhe, eu te peço,
 este teu filho pródigo! Já sofri bastante;
 bastante fui escravo de teus inimigos, que Tu manténs
-
-
 debaixo dos teus pés; bastante fui ludíbrio de falsas
 lisonjas. Compreendo que devo voltar a ti; faze que, batendo, eu encontre tua porta aberta; ensina-me o caminho para
 chegar até ti. Meu único recurso é minha vontade;

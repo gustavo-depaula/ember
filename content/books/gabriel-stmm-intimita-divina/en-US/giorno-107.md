@@ -57,8 +57,6 @@ goes before you with its action and accompanies you in action, up to its complet
 
 The great theologian who has studied Catholic doctrine in depth, in order to put into practice its least point, as
 for producing one single act of love of God, has absolute
-
-
 need, no less than the peasant who knows only his
 catechism, of the help of actual grace. Likewise,
 the saint, who has received many divine favors and lights,
@@ -96,8 +94,6 @@ to be admitted to the wedding feast of eternal life" (St. Catherine of Siena).
 thoroughly! And that I may truly be convinced that I am nothing and that
 You are all. And that I may consider myself nothing more than that
 nothing I am. And that I may never do anything for myself,
-
-
 but all for You. And that no creature may think more of me,
 nor speak more of me, nor do anything for me, nor give me
 anything more, but do all for You, give all to You. And that my
@@ -109,11 +105,7 @@ Show me, O Lord, my nothingness, and show it in such a way
 that I not only understand it, but have practical,
 profound conviction of it. You know how difficult this is to my
 proud nature! If the intellect cannot resist the evidence
-
-
 of truth and must necessarily admit that
-
-
 I am nothing, have nothing and can do nothing without You, in practical life my self always seeks to attribute to itself, to arrogate to itself
 something and to delight in it as though it were its own.
 Help me, O Lord, to overthrow this pride, because, You see,
@@ -127,9 +119,5 @@ You will delight to be my All. You the all,
 and I the nothing; You He who is, and I he who is not!
 Therefore glorify Yourself in my nothingness! In this nothingness
 may Your love and Your grace triumph, but may Your mercy
-
-
 also triumph, because I am a nothingness that has sinned. Peccavi,
-
-
 Domine, miserere mei!

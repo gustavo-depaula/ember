@@ -7,7 +7,6 @@
 
 **1** — “Reuni as nações; anunciai aos povos e dizei: Eis que vem Deus, nosso Salvador” (BR).
 A mensagem faz-se cada vez mais urgente: dentro de poucos dias
-
 o Verbo de Deus feito carne mostrar-se-á ao mundo. É preciso,
 portanto, apressar os preparativos, preparar um coração digno
 dele.
@@ -62,7 +61,6 @@ lugar nele reservado ao doce Menino de Belém.
 Ó Deus imenso, onipotente e eterno, como podias
 dar-nos maior prova do teu infinito amor por nós, pobres
 criaturas tuas, do que dando-nos o Verbo, teu Unigênito? Por
-
 nós Tu quiseste revestir de carne humana, carne semelhante à
 do pecado, Aquele que é o eterno esplendor, a figura
 perfeita da tua substância!
@@ -79,7 +77,6 @@ da tua ardente caridade, ó Pai, que em Jesus quiseste
 dar-nos um penhor de tanta ternura. Amor chama amor:
 não obstante a minha miséria e estar ainda no começo, não
 quero jamais deixar de considerar esta verdade e de excitar-me ao amor. Quando Tu, Senhor, me fizeres a
-
 graça de acender no coração este fogo, tudo
 me se tornará fácil e poderei em breve passar às obras sem
 nenhum cansaço. Meu Deus, pelo amor que nos trouxeste e

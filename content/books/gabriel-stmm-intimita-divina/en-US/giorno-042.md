@@ -92,6 +92,5 @@ and willingly obey my superiors. You
 who lowered Yourself from heaven to earth, grant me the grace to lower myself, once for all to come down from the pedestal of
 my pride. How can I bear to see You, my God
 and Creator, make Yourself so little and humble, while I, nothing and
-
 sin, use what I have received from You to lift myself above others, to set myself before and prefer myself
 even to those superior to me?

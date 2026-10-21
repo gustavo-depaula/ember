@@ -47,8 +47,6 @@ the sincere desire to suffer and offer something for love
 of God, so that it may not happen that one performs more or
 less mechanical acts and therefore of little or no value.
 Loving contemplation of the Crucified was the soul
-
-
 of all St. Teresa Margaret's austerities: "This
 humbled and suffering God, ever poured into her thoughts,
 was what gave her the interior strength to overcome every very strong difficulty, what made her undertake spontaneously so many labors and works of charity and mortification, what made her insatiable in suffering" (Sp. p. 126).
@@ -75,8 +73,6 @@ the more consoled I shall remain, for I desire to love You with patient love, wi
 that is, wholly dissolved in You, and with operative love... My Lord, You on
 the cross for me and I on the cross for You. Oh, if only once I could understand how sweet and how precious suffering is:
 suffer and be silent for You, O Jesus! O dear suffering, O good
-
-
 Jesus!" (T.M. Sp. pp. 325 and 361). Yes, dear suffering because it allows me to give my God proofs of love; because, in the darkness of faith in which I must live here below, it gives me the certainty of loving not in words but with solid,
 effective love. O Jesus, now I understand why St. Teresa of Avila asked of You only one thing: "Either to die or to suffer"
 and said she had no other reason to live than that
