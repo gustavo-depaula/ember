@@ -10,7 +10,7 @@ todos os próprios afetos. “Ora, quem possui coisas temporais,
 pelo próprio fato de possuí-las é levado a amá-las... Eis por que o primeiro fundamento para adquirir a caridade perfeita é a pobreza voluntária, quando alguém vive
 sem nada possuir como próprio, dizendo o Mestre
 em S. Mateus: ‘Se queres ser perfeito, vai, vende o que
-tens, dá aos pobres, vem e segue-me’ “(II-II, q. 186, a. 3).
+tens, dá aos pobres, vem e segue-me’” (II-II, q. 186, a. 3).
 
 Isto se realiza de modo particular na vida religiosa por meio do voto de pobreza. Mas também as almas
 consagradas a Deus que vivem no mundo, se querem tender à perfeição, devem abraçar a pobreza voluntária. A Igreja a torna obrigação para todos os Institutos

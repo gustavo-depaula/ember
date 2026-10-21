@@ -49,10 +49,7 @@ Deus” (Cl. 3, 3).
 no vosso amabilíssimo Coração como num deserto,
 para aí fazer em Vós, convosco, por Vós, esta vida
 escondida de amor e de sacrifício”. Assim S. Teresa Margarida
-concretizava o seu ideal de vida escondida com Cristo.
-
-
-“A alma que por longo tempo se exercitou no aspecto exterior e
+concretizava o seu ideal de vida escondida com Cristo. A alma que por longo tempo se exercitou no aspecto exterior e
 negativo do escondimento, isto é, que com constante fidelidade
 soube ocultar-se aos olhos das criaturas, está livre e
 pronta para esconder-se com Cristo em Deus.

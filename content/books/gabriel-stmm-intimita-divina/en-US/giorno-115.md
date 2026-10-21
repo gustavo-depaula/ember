@@ -45,8 +45,6 @@ mercenary spirit, that is, looking more to the reward
 it may receive than to His glory, but serves Him
 - according to the beautiful expression of St. Teresa of Jesus -
 “gratuitously, as great lords serve kings”
-
-
 (Lt.). Such must be the style of a soul of interior life,
 which, having been invited by God to His
 intimacy, must not act as a hireling, but as daughter,

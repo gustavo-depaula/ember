@@ -89,8 +89,6 @@ lost and still more.
 “After all my blunders, instead of hiding in
 a corner and weeping there over my misery, I turn to You,
 O
-
-
 my Beloved, and recount in detail all my infidelities,
 thinking, in my audacious abandonment, to gain more empire,
 to draw to myself fully Your love;

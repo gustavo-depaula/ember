@@ -56,8 +56,6 @@ aos bens terrenos, completa e dá valor à pobreza material. De fato, se depois 
 aos confortos e comodidades da vida, permaneces a eles apegado no afeto do coração, bem pouco te aproveitará tua renúncia material. “Não são as coisas deste mundo
 que danificam a alma, porque nela não entram, mas
 o desejo delas, que nela permanece”
-
-
 (ibid., 3, 4).
 
 

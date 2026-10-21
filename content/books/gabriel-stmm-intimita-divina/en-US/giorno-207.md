@@ -17,5 +17,4 @@ It is true: through faith and grace too we are united to Christ and inserted in 
 “But when the soul, O Lord, receives You with the dispositions required, one can say of her what is said of the Most Blessed Virgin Mary: ‘Blessed are you, for you carry in your womb Him whom the heavens cannot contain!’ And just as Mary is clothed with the sun, so this soul that receives You within herself is clothed with the sun, because You are the Sun, O Sun of justice, Christ our God.
 
 “As for me, O Lord, it seems that I am more indebted to You for having left Yourself to me as food than for having created me, because if You had created me and had not left Yourself to me, what would I do? And thus You show me how much You have willed to communicate Yourself to us, for You were not content to communicate Yourself to men while on earth for thirty years, but You also willed to leave us your Body and your Blood, so that we might remain continually in You, and You in us. And thus, dwelling in the soul, You go, so to speak, deifying her, transforming her into You, continually communicating Yourself to her and keeping her united to You”
-
 (St. Mary Magdalene de’ Pazzi).

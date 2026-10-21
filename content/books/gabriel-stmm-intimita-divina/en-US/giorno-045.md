@@ -54,9 +54,7 @@ O Jesus, how sweet it is for me to contemplate Your most holy Humanity filled wi
 To fix my gaze directly on Your Divinity as eternal
 Word is very difficult for me, but to consider it participated in Your Humanity is easier and more accessible; here thought finds rest and never ceases to admire Your greatness. O Jesus, Your Soul is so rich in grace, so luminous, and so full of divine life that in it is reflected all Your glory as Only-Begotten of the Father, and Your Humanity appears to me as the sole mediator and source of all grace,
 of all divine life that can be shared with men and women. But then this Humanity, so holy, so glorious,
-so united to God, I contemplate torn in the hard torment of the Cross: all that is glory is hidden, one sees only pain, death, total annihilation. But from the bleeding wounds behold a splendid source of life flowing:
-
-by Your death, O Jesus, You merited to communicate grace to us, and You Yourself became our only source.
+so united to God, I contemplate torn in the hard torment of the Cross: all that is glory is hidden, one sees only pain, death, total annihilation. But from the bleeding wounds behold a splendid source of life flowing: by Your death, O Jesus, You merited to communicate grace to us, and You Yourself became our only source.
 
 O Jesus, I run to You, I draw near to You as the thirsty one runs and draws near to the spring of waters. “Give me, O Lord, of Your water and I shall never thirst,
 because the water You give me will become in me a fountain springing up to eternal life” (cf. Jn. 4, 13 and 14). O

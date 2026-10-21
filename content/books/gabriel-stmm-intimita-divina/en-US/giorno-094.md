@@ -100,8 +100,7 @@ to live and die in hope and effort for the acquisition
 of eternal life, rather than possess all creatures with their
 passing goods. Do not abandon me, O Lord! I hope in
 You and my hope shall not be confounded. Grant me always to
-serve You, and do with me what You will!” (T.G. Es. 15, 1; 17,
-**5** — 6).
+serve You, and do with me what You will!” (T.G. Es. 15, 1; 17, 5-6).
 
 If the thought of my infidelities dismays me, I will remember, O Lord, that “as soon as we repent of having
 offended You, You forget every sin and malice of ours. O

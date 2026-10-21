@@ -67,8 +67,6 @@ death life will be born. Jesus said it: “Unless a grain
 of wheat falling into the earth dies, it remains alone; but
 if it dies, it bears much fruit... And he who hates his own
 life in this world shall keep it unto life eternal”
-
-
 (Jn. 12, 24-25).
 
 ### Colloquy

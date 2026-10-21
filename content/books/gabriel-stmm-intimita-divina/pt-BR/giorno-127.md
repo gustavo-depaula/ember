@@ -16,12 +16,12 @@ Embora o homem, sendo um ser composto, seja por sua natureza sujeito à dor, Deu
 
 “Ó Senhor, te custa abeberar-nos de amargura; mas Tu sabes que este é o único meio para dispor-nos a conhecer-te como Tu conheces a ti mesmo, para dispor-nos a nos tornar semelhantes a ti.
 
-Sabes bem, ó Senhor, que se Tu me desses apenas uma sombra de alegria, me apegaria a ela com toda a energia, com toda a força do coração; e esta sombra me recusas... porque queres que meu coração seja todo para ti.
+“Sabes bem, ó Senhor, que se Tu me desses apenas uma sombra de alegria, me apegaria a ela com toda a energia, com toda a força do coração; e esta sombra me recusas... porque queres que meu coração seja todo para ti.
 
-A vida passa tão depressa que verdadeiramente é melhor ter uma belíssima coroa no céu e um pouco de sofrimento aqui embaixo, que ter uma coroa ordinária sem sofrer. Quando penso que por um sofrimento suportado com alegria te amarei de mais por toda a eternidade, compreendo bem que se Tu me desses o universo inteiro com todos seus tesouros, isto não seria de comparar-se ao mais leve sofrimento. Cada novo sofrimento, cada angústia do coração é como um leve zéfiro que te leva, ó Jesus, o perfume da alma que te ama; então Tu sorris com amor e logo preparas uma nova amargura, enches o cálice até a borda, pensando que quanto mais a alma cresce no amor, tanto mais deve crescer no sofrimento.
+“A vida passa tão depressa que verdadeiramente é melhor ter uma belíssima coroa no céu e um pouco de sofrimento aqui embaixo, que ter uma coroa ordinária sem sofrer. Quando penso que por um sofrimento suportado com alegria te amarei de mais por toda a eternidade, compreendo bem que se Tu me desses o universo inteiro com todos seus tesouros, isto não seria de comparar-se ao mais leve sofrimento. Cada novo sofrimento, cada angústia do coração é como um leve zéfiro que te leva, ó Jesus, o perfume da alma que te ama; então Tu sorris com amor e logo preparas uma nova amargura, enches o cálice até a borda, pensando que quanto mais a alma cresce no amor, tanto mais deve crescer no sofrimento.
 
-Que privilégio me concedes dando-me a sofrer! Ah, a eternidade não será demasiado longa para agradecer-te. Por que tanta predileção? É um segredo que Tu nos revelarás na Pátria, o dia em que enxugarás todas nossas lágrimas.
+“Que privilégio me concedes dando-me a sofrer! Ah, a eternidade não será demasiado longa para agradecer-te. Por que tanta predileção? É um segredo que Tu nos revelarás na Pátria, o dia em que enxugarás todas nossas lágrimas.
 
-És Tu, ó Senhor, que vens pedir-me em esmola esta tristeza, esta prova... tens necessidade dela para as almas, para minha alma. Ó Jesus, desde que me fizeste compreender que me darias almas mediante a cruz, quanto maiores são as cruzes que encontro, tanto mais se faz viva em mim a brama de padecer.
+“És Tu, ó Senhor, que vens pedir-me em esmola esta tristeza, esta prova... tens necessidade dela para as almas, para minha alma. Ó Jesus, desde que me fizeste compreender que me darias almas mediante a cruz, quanto maiores são as cruzes que encontro, tanto mais se faz viva em mim a brama de padecer.
 
-Sou feliz de não ser liberada dos sofrimentos de aqui embaixo; a dor unida ao amor é a única coisa que me parece desejável neste vale de lágrimas” (T.B.G. Lt. 32, 50, 23, 40, 58, 224; St. 7).
+“Sou feliz de não ser liberada dos sofrimentos de aqui embaixo; a dor unida ao amor é a única coisa que me parece desejável neste vale de lágrimas” (T.B.G. Lt. 32, 50, 23, 40, 58, 224; St. 7).

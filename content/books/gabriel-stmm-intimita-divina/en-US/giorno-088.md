@@ -28,8 +28,6 @@ This is the fecundity of virgins, the “chaste generation” that Jesus calls t
 ### Colloquy
 
 “O Lord, all my hope is placed in Your great mercy. Give what You command and command what You will. You command continence. Someone has said that no one can be continent unless God grants it;
-
-
 but this is already wisdom, to know from whom this gift comes. Continence gathers us and reduces us to that unity from which we have departed by giving ourselves to too many things. Indeed, he loves You less who, together with You, loves something else not for You. O love that always burns and is never extinguished, O charity, O my God, set me on fire. You command continence: give what You command and command what You will” (St. Augustine).
 
 O Jesus, make me understand well that for man there is no greater honor than that which You grant him when, withdrawing him from the “afflictions of the flesh” (I Cor. 7, 28), You invite him to give himself totally to You in the bond of perfect chastity. O holy bond that unites to God, infinite purity, a creature of clay and so raises it up as to make it share the immaculate splendor of divine virginity! O holy bond that establishes between God and man an indissoluble union, that presents souls “as pure virgins to one husband, Christ” (cf. I Cor. 11, 2), so that they may be His spouses in faith and love.

@@ -24,7 +24,7 @@ Muito a propósito, hoje a Secreta da Missa põe em nossos lábios a seguinte or
 
 “Oh, vida longa! vida amarga! vida que não se vive! Oh, desolada solidão para a qual não se pode pôr remédio! Quando, pois, Senhor? quando? quando?... Que farei eu, meu Bem, que farei? Desejarei talvez não mais desejar-te? Ah, meu Deus e Criador meu, Tu feres e não dás o remédio: feres e as chagas não se veem; matas para deixar mais vivo! Enfim, Senhor meu, poderoso como és, faze o que te agrada. Seja assim, Senhor, porque Tu o queres.
 
-Eu não quero outra coisa senão amar-te.
+“Eu não quero outra coisa senão amar-te.
 
 “Ó Senhor, Criador meu! A dor que sofro faz-me sair de mim e me obriga a reconhecer que meu mal será sem remédio até que te agrade pôr-lhe fim. Minha alma está presa no cárcere: deseja a liberdade, mas sob a condição de não afastar-se daquilo que Tu queres. Oh, ou faze, Glória minha, que seu espasmo aumente, ou traz um remédio radical.
 

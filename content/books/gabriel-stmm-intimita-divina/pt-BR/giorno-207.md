@@ -17,5 +17,4 @@
 “Mas quando a alma, ó Senhor, te recebe com as devidas disposições, pode-se dizer dela aquilo que se diz de Maria SS.ma: ‘bem-aventurada tu, pois levas em teu seio Aquele que os céus não podem conter!’ E, assim como Maria é vestida de sol, assim esta alma que te recebe em si é vestida de sol, porque Sol és Tu, ó Sol de justiça, Cristo Deus nosso.
 
 “Quanto a mim, ó Senhor, parece-me que te estou mais obrigada por me teres deixado a ti mesmo em alimento do que por me teres criado, porque, se me tivesses criado e não me tivesses deixado a ti, que faria eu? E assim me mostras quanto quiseste comunicar-te a nós, pois não te contentaste em comunicar-te aos homens estando na terra trinta anos, mas além disso quiseste deixar-nos o teu Corpo e o teu Sangue, para que nós pudéssemos permanecer continuamente em ti, e Tu em nós. E assim, estando na alma, Tu a vais, por assim dizer, deificando, transformando-a em ti, continuamente vais te comunicando a ela e a manténs unida a ti”
-
 (S. Maria Madalena de’ Pazzi).

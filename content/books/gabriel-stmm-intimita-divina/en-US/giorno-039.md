@@ -8,9 +8,7 @@
 **1** — “He [Jesus] is the image of the invisible God,
 the firstborn of every creature, for in Him were created
 all things in heaven and on earth, visible and invisible things... All was created through Him and for Him;
-and He is before all and all subsists in Him” (Col. 1,
-
-**15** — 17). In this text of St. Paul is synthesized the infinite
+and He is before all and all subsists in Him” *(Col.* 1, 15-17). In this text of St. Paul is synthesized the infinite
 greatness of Jesus. As Word He is the substantial and most perfect image of the Father, having the same nature as
 Him and proceeding from Him by eternal generation. As
 Word He is the firstborn of all creatures because He was
@@ -69,7 +67,6 @@ goodness and in the night hours Your faithfulness. For You make me
 glad, O Lord, by Your work; in Your deeds I exult
 with jubilation. How great are Your works, O Lord!
 Exceedingly deep are Your designs” (Ps. 39, 6;
-
 91, 2-6).
 Your most splendid work, the Incarnation of Your
 Only-Begotten, what more sublime masterpiece than Christ Jesus,
@@ -108,6 +105,4 @@ so that my life may run in Your embraces and not
 depart from them until it hides itself in the light of Your
 face; this I know, that everything is evil for me apart from You, O Lord, not only
 outside me, but also within myself. Every abundance that is not my God is for me indigence and misery”
-
-
 (St. Augustine).

@@ -17,7 +17,7 @@ You are dark because you induce us to believe truths revealed by God Himself, tr
 
 “You are dark night for the soul, and as night you illumine it, like that dark cloud which, in the night, brightened the way for the children of Israel. Yes, though you are a dark cloud, nevertheless with your darkness you enlighten the darkness of my soul. I can therefore say: the night shall be my light in my delights. On the path of pure contemplation and union with God, your night, O faith, will be my guide.
 
-Make me understand, therefore, O Lord, that to unite myself in union with You I must not devise forms nor lean on taste and sense or imagination, but must believe in your infinite divine Being, who does not fall under any thought or sense” (cf. J.C. Ascent II, 3, 1-6; 4, 4).
+“Make me understand, therefore, O Lord, that to unite myself in union with You I must not devise forms nor lean on taste and sense or imagination, but must believe in your infinite divine Being, who does not fall under any thought or sense” (cf. J.C. Ascent II, 3, 1-6; 4, 4).
 
 “O faith, you are the great friend of our spirit, and to human sciences, which boast of being more evident than you, you can well say what the sacred Bride said to the other shepherdesses: ‘I am dark, but beautiful.’ You are dark because you stand amid the obscurities of divine revelations which, being without apparent evidence, make you appear black, rendering you almost unrecognizable; yet you are beautiful in yourself for your infinite certainty” (cf. St. Francis de Sales).
 
