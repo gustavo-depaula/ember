@@ -1,0 +1,632 @@
+{
+	"id": "collection/denis-the-carthusian",
+	"version": "1.0.0",
+	"cover": "boxed",
+	"name": {
+		"la": "Dionysius Cartusianus",
+		"en-US": "Denis the Carthusian",
+		"pt-BR": "Dionísio, o Cartuxo"
+	},
+	"description": {
+		"en-US": "The Opera Omnia of the Ecstatic Doctor: commentaries on all of Scripture, sermons, and treatises on prayer and contemplation, in his Latin.",
+		"pt-BR": "A Opera Omnia do Doutor Extático: comentários a toda a Escritura, sermões e tratados sobre a oração e a contemplação, no seu latim.",
+		"la": "Opera omnia Doctoris Ecstatici."
+	},
+	"icon": "book",
+	"languages": [
+		"en-US",
+		"pt-BR",
+		"la"
+	],
+	"tags": [
+		"denis-the-carthusian",
+		"carthusian",
+		"scholastic",
+		"scripture",
+		"contemplation",
+		"latin"
+	],
+	"prologue": {
+		"body": {
+			"en-US": "Denis the Carthusian (1402–1471), monk of the charterhouse of Roermond, wrote more than any other medieval theologian: commentaries on the whole of Scripture, on the Areopagite, Boethius, Cassian, Climacus and the Sentences, a year of sermons, and some hundred and fifty treatises on prayer, contemplation and the Christian life. His raptures in prayer earned him the name *Doctor Ecstaticus*. This collection follows the forty-two tomes of the Montreuil–Tournai edition (1896–1913), brought into the library work by work as each is read from the scans and proofread.",
+			"pt-BR": "Dionísio, o Cartuxo (1402–1471), monge da cartuxa de Roermond, escreveu mais que qualquer outro teólogo medieval: comentários a toda a Escritura, ao Areopagita, a Boécio, Cassiano, Clímaco e às Sentenças, um ano de sermões e uns cento e cinquenta tratados sobre a oração, a contemplação e a vida cristã. Os seus êxtases na oração deram-lhe o nome de *Doutor Extático*. Esta coleção segue os quarenta e dois tomos da edição de Montreuil–Tournai (1896–1913) e recebe cada obra à medida que é lida das digitalizações e revista."
+		}
+	},
+	"sections": [
+		{
+			"id": "scripture",
+			"title": {
+				"la": "Enarrationes in Sacram Scripturam",
+				"en-US": "Commentaries on Holy Scripture",
+				"pt-BR": "Comentários à Sagrada Escritura"
+			},
+			"description": {
+				"body": {
+					"en-US": "Denis commented on every book of the Bible, article by article, giving the literal sense and then the mystical. The commentaries fill the first fourteen tomes of the Montreuil edition.",
+					"pt-BR": "Dionísio comentou todos os livros da Bíblia, artigo por artigo, dando o sentido literal e depois o místico. Os comentários ocupam os catorze primeiros tomos da edição de Montreuil."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/denis-enarratio-in-genesim"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Enarrationes in Exodum, Leviticum, Numeros, Deuteronomium",
+						"en-US": "Exodus, Leviticus, Numbers, Deuteronomy",
+						"pt-BR": "Êxodo, Levítico, Números, Deuteronômio"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi I–II. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos I–II. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Enarrationes in Josue, Judices, Ruth, Regum libros",
+						"en-US": "Joshua, Judges, Ruth, the four books of Kings",
+						"pt-BR": "Josué, Juízes, Rute, os quatro livros dos Reis"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi III–IV. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos III–IV. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Enarrationes in Paralipomenon, Esdram, Tobiam, Judith, Esther, Machabæos",
+						"en-US": "Chronicles, Ezra, Tobit, Judith, Esther, Maccabees",
+						"pt-BR": "Crônicas, Esdras, Tobias, Judite, Ester, Macabeus"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi IV–V. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos IV–V. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Enarratio in librum Job, cum tractatu De causa diversitatis eventuum humanorum",
+						"en-US": "Job, with the treatise On why human fortunes differ",
+						"pt-BR": "Jó, com o tratado Sobre a causa da diversidade dos acontecimentos humanos"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi IV–V. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos IV–V. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Commentaria in Psalmos Davidicos, cum tractatu De modo devote psallendi",
+						"en-US": "The Psalms, with the treatise On psalmody said devoutly",
+						"pt-BR": "Os Salmos, com o tratado Sobre o modo de salmodiar com devoção"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi V–VI. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos V–VI. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Enarrationes in Proverbia, Ecclesiasten, Canticum Canticorum, Sapientiam, Ecclesiasticum",
+						"en-US": "Proverbs, Ecclesiastes, the Song of Songs, Wisdom, Sirach",
+						"pt-BR": "Provérbios, Eclesiastes, Cântico dos Cânticos, Sabedoria, Eclesiástico"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi VII–VIII. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos VII–VIII. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Enarrationes in Isaiam, Jeremiam, Threnos, Baruch, Ezechielem, Danielem",
+						"en-US": "Isaiah, Jeremiah, Lamentations, Baruch, Ezekiel, Daniel",
+						"pt-BR": "Isaías, Jeremias, Lamentações, Baruc, Ezequiel, Daniel"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi VIII–X. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos VIII–X. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Enarrationes in duodecim Prophetas minores",
+						"en-US": "The twelve minor prophets",
+						"pt-BR": "Os doze profetas menores"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus X. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo X. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Enarrationes in quatuor Evangelia",
+						"en-US": "The four Gospels",
+						"pt-BR": "Os quatro Evangelhos"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi XI–XII. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos XI–XII. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Enarrationes in Epistolas B. Pauli et Epistolas Catholicas",
+						"en-US": "The Epistles of St Paul and the Catholic Epistles",
+						"pt-BR": "As Epístolas de São Paulo e as Epístolas Católicas"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi XIII–XIV. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos XIII–XIV. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Enarrationes in Actus Apostolorum et Apocalypsim",
+						"en-US": "The Acts of the Apostles and the Apocalypse",
+						"pt-BR": "Os Atos dos Apóstolos e o Apocalipse"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XIV. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XIV. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Enarratio in Pœnitentialem, et Epitomæ librorum sapientialium",
+						"en-US": "The penitential hymns, and summaries of the wisdom books and Isaiah",
+						"pt-BR": "Os hinos penitenciais, e epítomes dos livros sapienciais e de Isaías"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XIV. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XIV. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book",
+					"priority": "low"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Tomus XIV bis",
+						"en-US": "Supplementary tome to the commentaries",
+						"pt-BR": "Tomo suplementar aos comentários"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XIV bis. Scans reachable only from the United States; not yet obtained.",
+						"pt-BR": "Opera Omnia, tomo XIV bis. Digitalizações acessíveis só dos Estados Unidos; ainda não obtidas."
+					},
+					"proposedKind": "book",
+					"priority": "low"
+				}
+			]
+		},
+		{
+			"id": "areopagite",
+			"title": {
+				"la": "In opera S. Dionysii Areopagitæ",
+				"en-US": "On the works of Dionysius the Areopagite",
+				"pt-BR": "Sobre as obras de Dionísio Areopagita"
+			},
+			"description": {
+				"body": {
+					"en-US": "Denis's commentaries on the Celestial and Ecclesiastical Hierarchy, the Divine Names, the Mystical Theology and the letters, printed beside the Latin versions of Eriugena, Sarracenus, Ambrogio Traversari and Ficino and the paraphrase of Thomas Gallus.",
+					"pt-BR": "Os comentários de Dionísio à Hierarquia Celeste e à Eclesiástica, aos Nomes Divinos, à Teologia Mística e às cartas, impressos ao lado das versões latinas de Erígena, Sarraceno, Ambrósio Traversari e Ficino e da paráfrase de Tomás Galo."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"la": "In librum De cœlesti hierarchia et De ecclesiastica hierarchia",
+						"en-US": "The Celestial and the Ecclesiastical Hierarchy",
+						"pt-BR": "A Hierarquia Celeste e a Hierarquia Eclesiástica"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XV. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XV. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "In librum De divinis nominibus, De mystica theologia, et Epistolas",
+						"en-US": "The Divine Names, the Mystical Theology and the Letters",
+						"pt-BR": "Os Nomes Divinos, a Teologia Mística e as Cartas"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XVI. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XVI. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				}
+			]
+		},
+		{
+			"id": "theology",
+			"title": {
+				"la": "Opera theologica",
+				"en-US": "Theological works",
+				"pt-BR": "Obras teológicas"
+			},
+			"description": {
+				"body": {
+					"en-US": "The summa of the faith Denis drew from St Thomas, a dialogue on the Catholic faith, and his commentary on the four books of Peter Lombard's Sentences.",
+					"pt-BR": "A suma da fé que Dionísio tirou de Santo Tomás, um diálogo sobre a fé católica e o seu comentário aos quatro livros das Sentenças de Pedro Lombardo."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Summa fidei orthodoxæ",
+						"en-US": "Summa of the orthodox faith",
+						"pt-BR": "Suma da fé ortodoxa"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi XVII–XVIII. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos XVII–XVIII. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Dialogion de fide catholica",
+						"en-US": "Dialogue on the Catholic faith",
+						"pt-BR": "Diálogo sobre a fé católica"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XVIII. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XVIII. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "In quatuor libros Sententiarum",
+						"en-US": "On the four books of the Sentences",
+						"pt-BR": "Sobre os quatro livros das Sentenças"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi XIX–XXV. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos XIX–XXV. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				}
+			]
+		},
+		{
+			"id": "masters",
+			"title": {
+				"la": "In Boetium, Cassianum, Climacum",
+				"en-US": "On Boethius, Cassian and Climacus",
+				"pt-BR": "Sobre Boécio, Cassiano e Clímaco"
+			},
+			"description": {
+				"body": {
+					"en-US": "Commentaries on three classics of the monastic library.",
+					"pt-BR": "Comentários a três clássicos da biblioteca monástica."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"la": "In libros De consolatione philosophiæ Boetii",
+						"en-US": "On Boethius's Consolation of Philosophy",
+						"pt-BR": "Sobre a Consolação da Filosofia de Boécio"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXVI. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XXVI. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "In De institutis et Collationes SS. Patrum Cassiani",
+						"en-US": "On Cassian's Institutes and Conferences",
+						"pt-BR": "Sobre as Instituições e as Conferências de Cassiano"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXVII. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XXVII. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "In Scalam Paradisi S. Joannis Climaci",
+						"en-US": "On the Ladder of Paradise of St John Climacus",
+						"pt-BR": "Sobre a Escada do Paraíso de São João Clímaco"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXVIII. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XXVIII. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				}
+			]
+		},
+		{
+			"id": "sermons",
+			"title": {
+				"la": "Sermones",
+				"en-US": "Sermons",
+				"pt-BR": "Sermões"
+			},
+			"description": {
+				"body": {
+					"en-US": "Sermons for the Sundays and feasts of the whole year, with a commentary on each Sunday's gospel, and the Passion harmonized from the four Gospels.",
+					"pt-BR": "Sermões para os domingos e festas de todo o ano, com um comentário ao evangelho de cada domingo, e a Paixão harmonizada dos quatro Evangelhos."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Sermones de tempore",
+						"en-US": "Sermons for the Sundays of the year",
+						"pt-BR": "Sermões para os domingos do ano"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi XXIX–XXX. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos XXIX–XXX. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Sermones de sanctis, cum Passione D. N. Jesu Christi juxta IV Evangelistas",
+						"en-US": "Sermons for the feasts, with the Passion according to the four Evangelists",
+						"pt-BR": "Sermões para as festas, com a Paixão segundo os quatro Evangelistas"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi XXXI–XXXII. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos XXXI–XXXII. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				}
+			]
+		},
+		{
+			"id": "opera-minora",
+			"title": {
+				"la": "Opera minora",
+				"en-US": "Minor works",
+				"pt-BR": "Obras menores"
+			},
+			"description": {
+				"body": {
+					"en-US": "About a hundred and fifty treatises, dialogues and letters on philosophy, God, the Mass, Our Lady, the states of life, the vices and virtues, prayer and contemplation, and the last things.",
+					"pt-BR": "Cerca de cento e cinquenta tratados, diálogos e cartas sobre a filosofia, Deus, a Missa, Nossa Senhora, os estados de vida, os vícios e as virtudes, a oração e a contemplação, e os novíssimos."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Elementatio philosophica et theologica; De lumine christianæ theoriæ",
+						"en-US": "Elements of philosophy and theology; On the light of Christian wisdom",
+						"pt-BR": "Elementos de filosofia e de teologia; Sobre a luz da sabedoria cristã"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXXIII. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XXXIII. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "De natura æterni et veri Dei; De venustate mundi et pulchritudine Dei; De laudibus Dei",
+						"en-US": "On the nature of God; On the beauty of the world and of God; On the praises of God",
+						"pt-BR": "Sobre a natureza de Deus; Sobre a formosura do mundo e a beleza de Deus; Sobre os louvores de Deus"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXXIV. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XXXIV. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Expositio hymnorum; De donis Spiritus Sancti; De passione Domini dialogus",
+						"en-US": "Commentary on the hymns; On the gifts of the Holy Spirit; Dialogue on the Lord's Passion",
+						"pt-BR": "Comentário aos hinos; Sobre os dons do Espírito Santo; Diálogo sobre a Paixão do Senhor"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXXV. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XXXV. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Expositio Missæ; De sacramento altaris; De sacra communione frequentanda",
+						"en-US": "Commentary on the Mass; On the Sacrament of the Altar; On frequent communion",
+						"pt-BR": "Comentário à Missa; Sobre o Sacramento do Altar; Sobre a comunhão frequente"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXXV. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XXXV. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "De præconio et dignitate Mariæ; De dignitate et laudibus B. V. Mariæ",
+						"en-US": "On the praise and dignity of Mary; On the dignity and praises of the Blessed Virgin",
+						"pt-BR": "Sobre o louvor e a dignidade de Maria; Sobre a dignidade e os louvores da Bem-aventurada Virgem"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomi XXXV–XXXVI. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomos XXXV–XXXVI. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "De mutua cognitione beatorum; Contra perfidiam Mahometi; De auctoritate Summi Pontificis et generalis Concilii",
+						"en-US": "On the saints knowing one another in heaven; Against Islam; On the authority of the Pope and of a general council",
+						"pt-BR": "Sobre o conhecimento mútuo dos bem-aventurados; Contra o islã; Sobre a autoridade do Sumo Pontífice e do concílio geral"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXXVI. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XXXVI. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Tomus XXXVII",
+						"en-US": "Tome XXXVII of the minor works",
+						"pt-BR": "Tomo XXXVII das obras menores"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXXVII. Scans reachable only from the United States; not yet obtained.",
+						"pt-BR": "Opera Omnia, tomo XXXVII. Digitalizações acessíveis só dos Estados Unidos; ainda não obtidas."
+					},
+					"proposedKind": "book",
+					"priority": "low"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "De regimine politiæ; De laudabili vita conjugatorum, viduarum, virginum",
+						"en-US": "On government; On the praiseworthy life of the married, of widows and of virgins",
+						"pt-BR": "Sobre o governo; Sobre a vida louvável dos casados, das viúvas e das virgens"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXXVIII. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XXXVIII. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "De vita et fine solitarii; De laude vitæ solitariæ; De præconio Ordinis Cartusiensis; De professione monastica",
+						"en-US": "On the solitary's life and end; In praise of the solitary life; In praise of the Carthusian Order; On monastic profession",
+						"pt-BR": "Sobre a vida e o fim do solitário; Em louvor da vida solitária; Em louvor da Ordem Cartuxa; Sobre a profissão monástica"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXXVIII. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XXXVIII. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Summa de vitiis et virtutibus; De arcta via salutis ac mundi contemptu; De doctrina et regulis vitæ christianorum",
+						"en-US": "Summa of the vices and virtues; On the narrow way of salvation; On the rules of the Christian life",
+						"pt-BR": "Suma dos vícios e das virtudes; Sobre o caminho estreito da salvação; Sobre as regras da vida cristã"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XXXIX. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XXXIX. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "Tomus XL",
+						"en-US": "Tome XL of the minor works",
+						"pt-BR": "Tomo XL das obras menores"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XL. Scans reachable only from the United States; not yet obtained.",
+						"pt-BR": "Opera Omnia, tomo XL. Digitalizações acessíveis só dos Estados Unidos; ainda não obtidas."
+					},
+					"proposedKind": "book",
+					"priority": "low"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "De oratione; De meditatione; De contemplatione",
+						"en-US": "On prayer; On meditation; On contemplation",
+						"pt-BR": "Sobre a oração; Sobre a meditação; Sobre a contemplação"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XLI. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XLI. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "De fonte lucis; Inflammatorium divini amoris; De perfectione caritatis",
+						"en-US": "On the fount of light; The kindling of divine love; On the perfection of charity",
+						"pt-BR": "Sobre a fonte da luz; Inflamatório do amor divino; Sobre a perfeição da caridade"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XLI. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XLI. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"la": "De particulari judicio; De quatuor hominis novissimis",
+						"en-US": "On the particular judgment; On the four last things",
+						"pt-BR": "Sobre o juízo particular; Sobre os quatro novíssimos do homem"
+					},
+					"notes": {
+						"en-US": "Opera Omnia, tomus XLI. Drafted by OCR; awaiting proofreading.",
+						"pt-BR": "Opera Omnia, tomo XLI. Rascunho do OCR pronto; aguarda revisão."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				}
+			]
+		}
+	]
+}

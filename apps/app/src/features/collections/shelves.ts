@@ -51,6 +51,7 @@ export const collectionShelves: { key: string; ids: string[] }[] = [
     ids: [
       'collection/spiritual-classics',
       'collection/thomas-aquinas',
+      'collection/denis-the-carthusian',
       'collection/carmelite',
       'collection/alphonsus-liguori',
       'collection/montfort-spirituality',
