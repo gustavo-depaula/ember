@@ -58,8 +58,6 @@ insiste para que justamente aqueles que ocupam os primeiros lugares
 sejam os mais zelosos em fazer-se servidores de todos.
 
 Portanto, se tens alguma autoridade sobre teus próximos, deves
-
-
 pensar que te foi dada não para tua honra, mas para o
 serviço dos outros. Se depois nada te distingue do nível
 comum, não te adiantas para pôr-te em evidência;

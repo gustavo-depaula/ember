@@ -90,12 +90,12 @@ entre teus braços... Se não o fazes, quer dizer que
 gostas de ver-me por terra... por isso não me inquietarei,
 mas estenderei sempre para ti meus braços suplicantes
 e cheios de amor! Não posso crer que me abandonarás.
-‘Ó Jesus, é verdade, nem sempre sou fiel; mas nunca
+“Ó Jesus, é verdade, nem sempre sou fiel; mas nunca
 perco a coragem, abandono-me em teus braços e,
 como uma gotinha de orvalho, afundo-me sempre mais
 no teu cálice, ó Flor divina dos campos, e ali reencontro tudo quanto
 perdi e ainda mais.
-‘Depois de todos os meus desastres, em vez de esconder-me num
+“Depois de todos os meus desastres, em vez de esconder-me num
 cantinho e ali chorar minha miséria, volto-me para ti, ó
 meu Dileto, e te conto em detalhe todas as minhas infidelidades,
 pensando, no meu temerário abandono, adquirir mais império,

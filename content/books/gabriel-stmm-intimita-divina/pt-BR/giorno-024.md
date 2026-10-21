@@ -19,7 +19,6 @@ Mas para que o apostolado interior possa ser realmente o mais fecundo, a alma qu
 “A todas as minhas loucuras que respondes, ó meu Jesus? Existe acaso aqui embaixo uma alma menor, mais impotente que a minha? Contudo, justamente pela minha fraqueza, Tu te comprazeste em satisfazer os meus desejos infantis, e queres agora satisfazer outros desejos maiores que o universo.
 
 “Compreendi que só o amor faz agir os membros [do Corpo místico de Cristo] e que, se o amor viesse a extinguir-se, os apóstolos nunca mais anunciariam o Evangelho e os mártires recusariam derramar o seu sangue. Compreendi ainda que o amor encerra em si todas as vocações, que o amor é tudo e abrange todos os tempos e todos os lugares, pois ele é eterno! Ó Jesus, meu Amor, finalmente encontrei a minha vocação! a minha vocação é
-
 o amor! Sim, encontrei o meu lugar no seio da Igreja, e este lugar, ó meu Deus, me foi assinalado por ti; no coração da Igreja, que é minha Mãe, eu serei o amor!... Assim serei tudo; assim o meu sonho se realizará.
 
 “Meus irmãos trabalham por mim, enquanto eu permaneço bem pertinho do trono real, e amo por aqueles que combatem” (T.B.G. St. 11).

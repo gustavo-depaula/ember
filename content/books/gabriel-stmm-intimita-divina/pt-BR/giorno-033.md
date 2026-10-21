@@ -7,9 +7,7 @@
 ### Meditação
 
 **1** — Em Belém os anjos anunciam duas coisas: glória a Deus e paz aos homens; uma corresponde à outra. Ninguém dá glória a Deus quanto aquele pequeno Menino que
-
 jaz sobre o feno: Ele só, sendo o Verbo eterno, pode
-
 dar-lhe um louvor perfeito, infinito, digno dele. E ninguém,
 mais do que Jesus Salvador, leva aos homens a paz;
 reparando a ofensa do pecado, Ele pacifica o homem com o seu Criador e estabelece entre eles um novo pacto: o Criador tornar-se-á Pai e o homem seu filho.
@@ -20,7 +18,6 @@ glória de Deus. Trata-se, porém, daquela paz que vem só de
 Deus, da sua graça, e que em vão buscaríamos em outro lugar.
 
 “A paz é a tranquilidade da ordem.” A ordem é estabelecida pela lei, pela vontade divina: quem respeita plenamente
-
 a lei possui a plenitude da paz interior; quem se
 afasta, ainda que pouco, desta ordem perde em proporção a sua paz. A paz é o refrigério, o repouso da
 alma no meio das lutas e dores da vida; mas não

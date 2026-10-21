@@ -21,6 +21,6 @@ De fato, também eu cometo cada dia muitas faltas, também eu caio em tantos def
 
 “Ó Jesus, Tu me fazes compreender que a principal indulgência plenária é aquela que todos podem adquirir sem as condições habituais: é a indulgência da caridade que cobre a multidão dos pecados” (cf. T.B.G. St. 9 e 10; CR.).
 
-“Ensina-me, ó Senhor, a não julgar o próximo por defeito algum que eu o veja cometer; e se o vir pecar, dá-me graça de escusar-lhe a intenção, a qual é oculta e não se pode ver. Mas, ainda que eu visse que a intenção foi abertamente má, dá-me graça de escusar o próximo pela tentação da qual nenhum mortal é excluído” (Santa Maria Madalena de' Pazzi).
+“Ensina-me, ó Senhor, a não julgar o próximo por defeito algum que eu o veja cometer; e se o vir pecar, dá-me graça de escusar-lhe a intenção, a qual é oculta e não se pode ver. Mas, ainda que eu visse que a intenção foi abertamente má, dá-me graça de escusar o próximo pela tentação da qual nenhum mortal é excluído” (Santa Maria Madalena de’ Pazzi).
 
 “Ó Senhor, ajuda-me a não considerar no próximo nada mais que as virtudes e as boas obras e a cobrir os defeitos alheios com os meus grandes pecados. Deste modo Tu me conduzirás, pouco a pouco, a uma virtude tão sólida de considerar os outros sempre melhores do que eu. Mas, para chegar a isso, o teu auxílio me é absolutamente necessário: sem ti, de fato, as minhas diligências são todas inúteis; por isso te suplico que Tu mesmo ponhas em mim esta virtude” (cf. Santa Teresa de Jesus, Vida 13, 10).

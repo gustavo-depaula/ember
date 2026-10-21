@@ -55,8 +55,6 @@ dominante; luta importantíssima, porque, mirando destruir o mal na sua raiz, ve
 eliminar tantas faltas atuais.
 
 Quando depois a alma já não tem de reprovar-se pecados e imperfeições propriamente deliberados, deve dirigir
-
-
 sua atenção para os semideliberados,
 dos quais, embora tendo uma semiconsciência ou consciência confusa, ainda não consegue libertar-se, apesar de sinceros e repetidos propósitos
 de corrigir-se. Nestes casos, além de continuar a combater contra as raízes das próprias faltas, é muito

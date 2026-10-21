@@ -2,7 +2,7 @@
 
 [*Nota: a página 9 do volume (início da Apresentação) não foi adquirida na digitalização do PDF. O texto retoma da página 10.*]
 
-tanto nas numerosas publicações sobre Santa Teresa d'Ávila, São João da Cruz, Santa Teresinha do Menino Jesus e Santa Teresa Margarida do Coração de Jesus.
+tanto nas numerosas publicações sobre Santa Teresa d’Ávila, São João da Cruz, Santa Teresinha do Menino Jesus e Santa Teresa Margarida do Coração de Jesus.
 
 Foi também sócio da Academia romana de São Tomás de Aquino e Consultor da Sagrada Congregação dos Ritos.
 

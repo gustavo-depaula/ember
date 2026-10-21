@@ -28,7 +28,7 @@ justamente em força da singular plenitude do dom divino — a alma se deu toda 
 é mais o só dom perfeito da vontade, mas é o dom de todo o ser magnificamente
 harmonizado pela abundante moção dos dons do Espírito Santo. Este dom, esta entrega
 total de si mesma ao Amado, faz com que a alma transfira, por assim dizer, a sua vida em
-Deus, vivendo mais n'Ele que em si mesma, “mais n'Aquele que ama que no corpo por ela
+Deus, vivendo mais n’Ele que em si mesma, “mais n’Aquele que ama que no corpo por ela
 animado” (cf. G.C.C. 8, 3). Como a esposa mística da Cântica, a alma, chegada a este
 estado, pode repetir com toda a verdade: “O meu Amado é para mim, e eu para Ele” (2,
 16).

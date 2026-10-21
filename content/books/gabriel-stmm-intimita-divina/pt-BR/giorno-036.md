@@ -35,7 +35,7 @@ Outro ensinamento da festa de hoje é a humilde submissão de Jesus à vontade d
 
 ### Colóquio
 
-“Ó Verbo, apenas tens oito dias, e me dás o teu Sangue: e que me preparas com o Sangue?... a obediência. Três coisas me mostras nesta tua Circuncisão: obediência para com Deus, mansidão com Maria, justiça conosco” (S. Maria Madalena de' Pazzi).
+“Ó Verbo, apenas tens oito dias, e me dás o teu Sangue: e que me preparas com o Sangue?... a obediência. Três coisas me mostras nesta tua Circuncisão: obediência para com Deus, mansidão com Maria, justiça conosco” (S. Maria Madalena de’ Pazzi).
 
 Permite, ó Jesus, que as primeiras gotas do teu inocentíssimo Sangue desçam a purificar, a inebriar a minha pobre alma. Eu o compreendo: desde os teus primeiríssimos dias te apressaste em derramar o teu Sangue, porque quiseste mostrar-nos logo que és o nosso Salvador e Redentor. Este derramamento de Sangue não era necessário para ti, Filho de Deus, santo da santidade do teu Pai, mas era necessário para mim, pobre criatura nascida no pecado. E Tu por mim quiseste humilhar-te até submeter-te à lei feita para os homens pecadores. Ó meu Senhor, ensina-me a ser humilde e obediente, Tu, Cordeiro inocente que tiras os pecados do mundo, não desdenhaste o corte da circuncisão; e eu, que sou pecador, quererei porventura posar de justo? ressentir-me-ei se for julgado imperfeito, e procurarei ocultar os meus defeitos sob o manto de falsas desculpas? Oh, Tu me ensinas que de nenhum modo poderei ser teu seguidor, nem poderei tornar-me semelhante a ti, se não aceitar humilhar-me contigo, humilíssimo!
 

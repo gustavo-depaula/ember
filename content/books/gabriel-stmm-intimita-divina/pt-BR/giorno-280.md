@@ -13,7 +13,7 @@ Enviando seus Apóstolos ao mundo, onde as ciladas do mal são imensas, Jesus re
 
 ### Colóquio
 
-“Ó prudência, és semelhante a um alto monte onde quem habita se conserva são, gozando o ar mais puro, e daquela altura vê e prevê tudo o que deve fazer. Assim, ó Deus, a prudência que vem de ti mantém a alma acima das névoas das paixões e das considerações humanas, confere-lhe maior vigor de virtude, impele-a a honrar-te em todas as suas obras e faz-lhe prever toda coisa para que se arme com fortaleza contra as tentações. Concede-me, meu Deus, esta verdadeira e reta prudência para que me conduza à união contigo. E me conduza de tal modo que, por nenhum motivo ou consideração de criatura, eu deixe de pôr em execução as tuas obras” (cf. Santa Maria Madalena de' Pazzi).
+“Ó prudência, és semelhante a um alto monte onde quem habita se conserva são, gozando o ar mais puro, e daquela altura vê e prevê tudo o que deve fazer. Assim, ó Deus, a prudência que vem de ti mantém a alma acima das névoas das paixões e das considerações humanas, confere-lhe maior vigor de virtude, impele-a a honrar-te em todas as suas obras e faz-lhe prever toda coisa para que se arme com fortaleza contra as tentações. Concede-me, meu Deus, esta verdadeira e reta prudência para que me conduza à união contigo. E me conduza de tal modo que, por nenhum motivo ou consideração de criatura, eu deixe de pôr em execução as tuas obras” (cf. Santa Maria Madalena de’ Pazzi).
 
 “Cria em mim, ó Senhor, um coração puro e infunde em mim um espírito reto. Ensina-me os teus caminhos, para que eu siga a tua verdade. Dá-me a temperança e a prudência, a justiça e a fortaleza, das quais nada há de mais útil na vida aos homens” (cf. Sl. 50; Sab. 8, 7).
 

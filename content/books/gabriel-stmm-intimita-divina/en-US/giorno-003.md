@@ -1,10 +1,10 @@
 # 3 — HOLINESS FULLNESS OF GRACE
 
-**Presence of God.** — *I approach Jesus, "source of life and holiness", with a lively desire to drink from this inexhaustible source.*
+**Presence of God.** — *I approach Jesus, “source of life and holiness”, with a lively desire to drink from this inexhaustible source.*
 
 ### Meditation
 
-**1** — If Jesus came to sanctify "all" of us, if God's will is for "all" to be saints, holiness cannot consist in extraordinary gifts of nature and grace, which depend solely on the liberality of God.
+**1** — If Jesus came to sanctify “all” of us, if God’s will is for “all” to be saints, holiness cannot consist in extraordinary gifts of nature and grace, which depend solely on the liberality of God.
 
 Holiness must consist of something that all souls of good will, even the humblest and simplest, can achieve supported by divine help. Holiness is the perfection of the Christian life. It consists in the full development within us of supernatural life, the principles of which are sanctifying grace, the infused virtues and the gifts of the Holy Spirit.
 
@@ -14,9 +14,9 @@ Grace, by elevating us to the supernatural state, makes us capable of entering i
 
 **2** — It is necessary that the supernatural life that blossoms from grace invests our entire human life, so that it is supernaturalized in every activity, in every detail, in its entirety. As grace grows and matures in our soul, it exerts an ever wider and deeper influence; and when this influence effectively extends to all our activities, orienting them all towards the glory of God and uniting us totally with him through charity, we will have reached the fullness of Christian life, to holiness.
 
-Grace is a completely free gift that God has bestowed on us through the infinite merits of Jesus. Jesus, by dying on the Cross, deserved it for us and not in a small measure, but in a superabundant measure; He, says St. John, is "full of grace... and of the fullness of him we have all received, and grace upon grace" (Gv. 1, 14 and 16). Precisely for this reason we can all become saints.
+Grace is a completely free gift that God has bestowed on us through the infinite merits of Jesus. Jesus, by dying on the Cross, deserved it for us and not in a small measure, but in a superabundant measure; He, says St. John, is “full of grace... and of the fullness of him we have all received, and grace upon grace” (Gv. 1, 14 and 16). Precisely for this reason we can all become saints.
 
-This does not mean, however, that we are all called to the same height and the same form of holiness. Alongside the so-called "great" saints, that is, those who had a great mission to accomplish and therefore also received special gifts of nature and grace, there will always be the most humble, most hidden saints, who sanctified themselves in the shadows and in silence.
+This does not mean, however, that we are all called to the same height and the same form of holiness. Alongside the so-called “great” saints, that is, those who had a great mission to accomplish and therefore also received special gifts of nature and grace, there will always be the most humble, most hidden saints, who sanctified themselves in the shadows and in silence.
 
 Holiness does not consist in the greatness of the works performed or the gifts received, but in the capital of love and grace that the soul accumulates, faithfully responding to divine invitations.
 

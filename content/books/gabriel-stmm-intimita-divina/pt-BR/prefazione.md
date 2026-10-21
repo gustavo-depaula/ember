@@ -38,7 +38,7 @@ Para muitas almas, isso basta.
 
 Há, porém, quem goste de maior variedade. Esta - que para alguns facilita muito o prolongamento do colóquio com Deus - é oferecida por outras três partes do método que, contudo, são *facultativas:*
 
-A *ação de graças,* com a qual, depois de repetir ao Senhor que O amamos, Lhe dizemos o nosso reconhecimento por todos os benefícios d'Ele recebidos e mostramos-nos agradecidos.
+A *ação de graças,* com a qual, depois de repetir ao Senhor que O amamos, Lhe dizemos o nosso reconhecimento por todos os benefícios d’Ele recebidos e mostramos-nos agradecidos.
 
 A *oferta,* com a qual, convencidos de ter recebido tanto, procuramos retribuir quanto possível, apresentando ao Senhor algum bom propósito. Coisa que, aliás, ao concluir a oração, é sempre útil fazer.
 

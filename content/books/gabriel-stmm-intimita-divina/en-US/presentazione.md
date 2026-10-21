@@ -14,7 +14,7 @@ Fr. Gabriele was profoundly aware of the spiritual needs of our times and equall
 
 From this came the idea of a Work which, inspired by the great masters of Carmel, would set forth the whole doctrine of the spiritual life in the form of simple but substantial meditations, and would initiate souls into intimate prayer.
 
-Divine Intimacy therefore seeks to order the daily meditations "in such a way that, in the course of a year, the fundamental problems of the spiritual life are reviewed, all the supernatural realities with which the interior life brings us into contact" (Preface).
+Divine Intimacy therefore seeks to order the daily meditations “in such a way that, in the course of a year, the fundamental problems of the spiritual life are reviewed, all the supernatural realities with which the interior life brings us into contact” (Preface).
 
 To carry out this plan, he solicited the collaboration of the Discalced Carmelite Nuns of the Monastery of St. Joseph in Rome. For this purpose he provided them with all the vast material at his disposal (his publications, the texts of his conferences, instructions, sermons, etc...), then outlined the plan of the entire Work and directed its composition.
 
@@ -33,7 +33,7 @@ The changes to adapt to the new arrangement of the Work have been reduced to the
 May this new edition of Divine Intimacy awaken in many souls the need for a profound interior life and lead them to intimate union with God, source of a truly fruitful apostolate in the Church.
 
 Fr. Beniamino of the Most Holy Trinity, O.C.D.
-Director of the "Rivista di vita spirituale".
+Director of the “Rivista di vita spirituale”.
 
 Rome, feast of St. Anne, July 26, 1955.
 

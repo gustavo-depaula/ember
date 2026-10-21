@@ -14,7 +14,7 @@ S. João da Cruz explicou difusamente como tal obra de purificação vem justame
 
 “Ó alma minha, se ficaste ferida pelo pecado, eis o teu Médico pronto a curar-te. A sua misericórdia é infinitamente maior de todas as tuas iniquidades. E eu te digo isto não porque permaneças na tua miséria, mas porque, esforçando-te de vencê-la, não hajas de desesperar da sua clemência e do seu perdão.
 
-“O teu Deus é a mesma doçura, a suavidade mesma; que outro bem se pode desejar aqui embaixo fora d'Ele?
+“O teu Deus é a mesma doçura, a suavidade mesma; que outro bem se pode desejar aqui embaixo fora d’Ele?
 
 “Não te avilintes, alma minha, pelas tuas imperfeições; o teu Deus não te despreza porque és imperfeita e enferma, Ele, aliás, te ama porque tu desejas e procuras curar das tuas misérias. Ele virá em teu auxílio e te tornará mais perfeita ainda de quanto terias ousado esperar e, adornada pela sua mesma mão, a tua beleza não terá par, como a sua bondade.
 

@@ -40,7 +40,7 @@ O equilíbrio pleno e a paz perfeita são características da vida de união com
 
 “E o que mais te desagrada, ó Deus, é que este perverso amor-próprio habite também em teus ministros e em tuas esposas. Não nos pareça pequeno o desordem do nosso amor-próprio, do nosso querer próprio. Não são precisos montes de pecados enormes; basta a areia desses defeitos — que parecem pequenos e não o são — para deter o curso desse rápido rio e oceano da graça!
 
-“Ó Espírito Santo, purifica, purifica o mundo inteiro, purifica minha alma do amor-próprio para que mais não volte a ele!” (cf. Santa Maria Madalena de' Pazzi).
+“Ó Espírito Santo, purifica, purifica o mundo inteiro, purifica minha alma do amor-próprio para que mais não volte a ele!” (cf. Santa Maria Madalena de’ Pazzi).
 
 “Ó Espírito Santo e Santificador, Deus onipotente, amor essencial do Pai e do Filho, vínculo adorável da augusta Trindade, eu te adoro e te amo com todo o meu coração. Fonte inesgotável de graças e de amor, ilumina minha mente, santifica minha alma e inflama meu coração. Deus de bondade e de misericórdia, vem a mim: visita-me, enche-me, permanece em mim, faze do meu coração um templo e um santuário animado onde tu possas receber minhas adorações e minhas homenagens e encontrar tuas delícias.
 

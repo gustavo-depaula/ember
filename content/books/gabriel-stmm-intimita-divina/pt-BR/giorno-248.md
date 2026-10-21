@@ -18,7 +18,7 @@ Deus permite, às vezes, condições de vida muito difíceis, cuja solução, fa
 
 “Bendito sejas Tu, ó meu Deus! Reconheço o teu poder soberano. Tu és poderoso, oh, sim, és verdadeiramente. E que coisa é impossível para quem tudo pode? Embora tão miserável, eu creio firmemente que o teu poder se estende a tudo o que queres; quanto maiores são as maravilhas que ouço dizer de ti, tanto mais se fortalece a minha fé ao pensar que podes fazer maiores. Por que admirar-se daquilo que faz o Onipotente?” (cf. T.G. M. II, 5; VI, 3, 7; Ex. 4, 2).
 
-“Ó meu Deus, é preciso mais fé para não crer em ti do que para crer em ti! É tão grande o que me mostras que já não tenho mais necessidade de fé para crê-lo” (Santa Maria Madalena de' Pazzi).
+“Ó meu Deus, é preciso mais fé para não crer em ti do que para crer em ti! É tão grande o que me mostras que já não tenho mais necessidade de fé para crê-lo” (Santa Maria Madalena de’ Pazzi).
 
 “Meu Deus, Tu és amor e onipotência; Tu sabes tudo, podes tudo, queres tudo e conduzes tudo para a tua glória e para nosso proveito. Quanta fé tiro dessas verdades; quanta confiança, que repouso e que amor me comunicam! Sei que, mesmo quando não me dás nada de palpável, Tu és sempre o meu Deus e provês sempre com amor à obra de tuas mãos. Por isso me escondo em ti com fé e sustento o ímpeto da tempestade com a certeza de que, quando te agradar, com a tua onipotência divina farás até ressuscitar os mortos” (cf. Beata Teresa Soubiran).
 

@@ -4,7 +4,7 @@
 
 Reverend Mother,
 
-You have desired to present to the August Pontiff, on behalf of this Monastery, the volume in which, under the significant title "Divine Intimacy," are piously and diligently gathered the meditations for the entire liturgical year, dictated by the Rev. Fr. Gabriel of St. Mary Magdalen.
+You have desired to present to the August Pontiff, on behalf of this Monastery, the volume in which, under the significant title “Divine Intimacy,” are piously and diligently gathered the meditations for the entire liturgical year, dictated by the Rev. Fr. Gabriel of St. Mary Magdalen.
 
 In it is collected the doctrine of Carmelite spirituality, by which the unforgettable Father Gabriel was nourished and which he had taught to innumerable souls until the eve of his holy passing.
 
@@ -16,7 +16,7 @@ With sentiments of religious esteem, I profess myself,
 
 your most devoted in the Lord,
 
-**Angelo Dell'Acqua**
+**Angelo Dell’Acqua**
 *Substitute*
 
 Reverend Mother Prioress

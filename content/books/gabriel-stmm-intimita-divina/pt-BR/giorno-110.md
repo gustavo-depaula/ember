@@ -60,8 +60,6 @@ reages e as repele com ressentimento,
 com despeito, e te indignas contra quem tas proporciona?
 
 Certamente, a humilhação não pode ser agradável à nossa
-
-
 natureza orgulhosa e suscetível; no entanto, mesmo sentindo
 a amargura dela, deves esforçar-te por aceitá-la de boa vontade,
 repetindo em teu coração: bom para mim, ó Senhor, que fui

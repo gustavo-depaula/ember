@@ -15,4 +15,4 @@
 
 “Quando sou caridosa, sinto verdadeiramente que Tu somente, ó Jesus, operas em mim; e quanto mais estou unida contigo, tanto mais amo todas as minhas irmãs” (T.B.G. St. 9).
 
-“Ó Cristo, as tuas palavras não são outra coisa senão um canto novo: ‘vos dou um mandamento novo’! E que outra coisa contém este teu mandamento senão amor e caridade? Tu queres que amemos os outros como os amas Tu, que és o amor! Dizes-nos: ‘amai-vos como eu vos amei’ e não ‘como eu amei a mim’, porque, enquanto fizeste justiça sobre ti, amaste-nos num ato de misericórdia, de mansidão e de compaixão infinita. E assim Tu queres que nós amemos os outros” (Santa Maria Madalena de' Pazzi).
+“Ó Cristo, as tuas palavras não são outra coisa senão um canto novo: ‘vos dou um mandamento novo’! E que outra coisa contém este teu mandamento senão amor e caridade? Tu queres que amemos os outros como os amas Tu, que és o amor! Dizes-nos: ‘amai-vos como eu vos amei’ e não ‘como eu amei a mim’, porque, enquanto fizeste justiça sobre ti, amaste-nos num ato de misericórdia, de mansidão e de compaixão infinita. E assim Tu queres que nós amemos os outros” (Santa Maria Madalena de’ Pazzi).

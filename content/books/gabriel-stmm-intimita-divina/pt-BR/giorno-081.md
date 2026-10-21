@@ -16,8 +16,6 @@ Para mortificar até o fundo essa tendência desregrada, S. João da Cruz te ens
 
 
 Nada às satisfações do orgulho ou do egoísmo, nada
-
-
 às satisfações dos sentidos e nem sequer às do espírito ou da vontade própria, quando não concordam com a vontade de Deus. Não há senão uma escolha: ou viver para o eu, ou viver para Deus.
 
 Se tu, ainda que em pequenas coisas, ages para a satisfação egoísta do teu eu, nunca poderás viver totalmente para Deus. Se, por exemplo, não queres renunciar à satisfação de desafogar teu amor-próprio ofendido com alguma impaciência ou mau humor para com o próximo, é claro que preferes agir para satisfazer teu eu, em vez de agradar a Deus, o qual evidentemente ama somente a virtude e nunca o defeito.

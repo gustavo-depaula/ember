@@ -8,7 +8,7 @@
 
 1º O Anjo põe fim às suas ansiedades, ordenando-lhe tomar Maria SS.ma por esposa “porque o que nela foi gerado é obra do Espírito Santo”: José não hesita um instante e faz “como lhe havia ordenado o Anjo do Senhor” *(Mt.* 1, 20 e 24). 2º O Anjo o adverte para “tomar o Menino e sua mãe e fugir para o Egito” *(ibid.,* 2, 13): sem demora, no coração da noite, o Santo levanta-se e executa a ordem. Objetivamente, a fuga apresentava gravíssimas dificuldades: os enormes incômodos e perigos da viagem, a extrema pobreza, o exílio em terra estrangeira; mas o Anjo falou e José obedece. 3º Morto Herodes, o Anjo lhe ordena voltar à terra de Israel. 4º O Anjo o adverte para retirar-se para a Galileia (cfr. *ibid.,* 2, 19-23).
 
-Temos aqui quatro atos de fé e de obediência cega. José não hesita, não discute, não opõe dificuldades, porque confia totalmente em Deus, porque crê plenamente n'Ele, na sua palavra, na sua divina Providência.
+Temos aqui quatro atos de fé e de obediência cega. José não hesita, não discute, não opõe dificuldades, porque confia totalmente em Deus, porque crê plenamente n’Ele, na sua palavra, na sua divina Providência.
 
 **2** — Toda a vida de S. José se resume numa contínua adesão ao plano divino, ainda que diante de situações para ele muito misteriosas e obscuras.
 

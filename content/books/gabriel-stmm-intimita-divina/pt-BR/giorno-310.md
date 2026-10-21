@@ -32,6 +32,6 @@ Também o Evangelho de hoje vem reforçar este impulso à união, já que nele J
 
 “Com quanto desejo deveríamos procurar esta união e com quanta vontade amá-la! Onde há união, aí há todo bem, aí há abundância de todas as coisas, de todas as riquezas celestes e terrestres.
 
-“Ó Santíssima Trindade, dá-nos, pois, graça de viver sempre unidos uns aos outros, conservando a unidade de espírito, tendo um mesmo querer e sentir, emulando aquela indivisível unidade que existe entre as três Pessoas divinas” (Santa Maria Madalena de' Pazzi).
+“Ó Santíssima Trindade, dá-nos, pois, graça de viver sempre unidos uns aos outros, conservando a unidade de espírito, tendo um mesmo querer e sentir, emulando aquela indivisível unidade que existe entre as três Pessoas divinas” (Santa Maria Madalena de’ Pazzi).
 
 “Onde há amor e caridade, aí estás tu, ó Senhor! Teu amor, ó Cristo, reuniu-nos em um só corpo e em um só coração; concede-nos, pois, amar-nos com ânimo sincero. Afasta de nós contendas e litígios; faze que nossos corações estejam sempre unidos em ti, e tu permanece sempre no meio de nós” (da Liturgia).

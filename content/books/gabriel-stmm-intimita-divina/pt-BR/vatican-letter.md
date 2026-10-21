@@ -16,7 +16,7 @@ Com sentimentos de religiosa estima, me declaro,
 
 devotíssimo no Senhor,
 
-**Angelo Dell'Acqua**
+**Angelo Dell’Acqua**
 *Substituto*
 
 Reverenda Madre Prioresa

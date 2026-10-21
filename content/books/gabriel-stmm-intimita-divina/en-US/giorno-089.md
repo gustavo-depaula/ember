@@ -9,9 +9,9 @@ of the spirit over matter. But this dominion is in us opposed by disordered tend
 even souls consecrated to God carry the treasure of
 chastity in *vasis fictilibus* (II Cor. 4, 7), that is, in the
 fragile vessel of a body of flesh, which feels the pull toward
-the satisfactions of the senses. The vow of chastity does not free the soul from these tendencies and therefore does not dispense it from continual vigilance: "he who has vowed to God
+the satisfactions of the senses. The vow of chastity does not free the soul from these tendencies and therefore does not dispense it from continual vigilance: “he who has vowed to God
 the lily of integrity must fight with prayer and penance,
-so that he may be able to emerge a victor" (Pius XII).
+so that he may be able to emerge a victor” (Pius XII).
 
 With prayer, since no one can be chaste unless
 God grants it; with penance and mortification, because one must subject the body to the demands
@@ -22,14 +22,14 @@ destined to moderate and regulate the whole interior and
 exterior conduct of man, in conformity with his vocation.
 
 
-St. Paul recommends this virtue to all Christians: "let
-your modesty be known to all men" (Phil. 4, 5); but
+St. Paul recommends this virtue to all Christians: “let
+your modesty be known to all men” (Phil. 4, 5); but
 souls consecrated are bound to it more strictly
 because, being called - by their state of life - to
 keep intact the treasure of chastity, they need
 a more assiduous and delicate exercise of moderation of
 the senses. Just as one who, possessing material treasures of
-great value, takes every measure and precaution to defend them from thieves. "Brethren, be sober and watch," exhorts
+great value, takes every measure and precaution to defend them from thieves. “Brethren, be sober and watch,” exhorts
 St. Peter (I, 5, 8), because the enemy of good is always lying in wait.
 
 The vow of chastity, consecrating the body to God,
@@ -41,17 +41,17 @@ in divine service.
 **2** — The more a person aspires to such self-giving to
 God, the more he aims at union with Him, and the more his conduct must
 be informed by perfect modesty. Modesty of the
-countenance, of gait, of gesture, of manner: "In every action
-or conversation, always be modest," Teresa of Avila teaches her daughters; and St. Teresa Margaret of the Heart of
-Jesus "so restrained and guarded her powers and her
+countenance, of gait, of gesture, of manner: “In every action
+or conversation, always be modest,” Teresa of Avila teaches her daughters; and St. Teresa Margaret of the Heart of
+Jesus “so restrained and guarded her powers and her
 senses that she kept herself from every glance and word that in
-any way had no relation to God" (Sp. p. 272). It is
+any way had no relation to God” (Sp. p. 272). It is
 the golden rule of St. John of the Cross: to use the senses only
 for the service and glory of God and to raise the heart to Him
 (cf. A. I, 13, 4), which in practice means using them only in the
-fulfillment of one's duties or for
-honest and rightful relief, and "leaving all the rest aside
-for the Creator" (J.C. S.C. II, 38). Therefore, guard the
+fulfillment of one’s duties or for
+honest and rightful relief, and “leaving all the rest aside
+for the Creator” (J.C. S.C. II, 38). Therefore, guard the
 senses from all those things
 that uselessly burden them, with the danger of letting less pure, less holy impressions reach the soul.
 
@@ -65,9 +65,9 @@ chastity; it is also the bulwark of the interior life: only the soul
 that knows how to guard its senses is capable of recollecting itself within,
 to live in intimacy with God. Modesty,
 turning the senses away from earthly things, concentrates and fixes
-them on God: "We shall make die in us the curiosity of our eyes
+them on God: “We shall make die in us the curiosity of our eyes
 and, turning them from all useless things, we shall fix them on ourselves,
-on the movements of our heart and on the Heart of Jesus."
+on the movements of our heart and on the Heart of Jesus.”
 
 
 Only one who loves the Lord much is capable of imposing on himself such
@@ -75,13 +75,13 @@ a difficult decision.
 
 ### Colloquy
 
-"Grant that I may love You most ardently, O my God, my help
+“Grant that I may love You most ardently, O my God, my help
 and defense and my sweet hope! Grant that I may embrace You, O
 Infinite Good, without whom there is no good for me;
 grant that I may come to find my blessedness in You, fountain of perfection,
 without whom nothing is perfect.
 
-"Open my ears to Your word, more penetrating
+“Open my ears to Your word, more penetrating
 than a two-edged sword, so that I may hear Your voice. Enlighten my eyes, O incomparable light, and do it with such
 power that they may never again turn to earthly vanities, but
 seek only You, O invisible Good. Create in me a new
@@ -96,12 +96,12 @@ sweet what is bitter and bitter what is sweet, darkness light and light darkness
 here below by the enemy of our souls, who fills the
 world with his traps.
 
-"Behold, my sweetest Lord, the world is all
+“Behold, my sweetest Lord, the world is all
 full of snares of concupiscence. And who will ever be able to flee them all? Certainly only he to whom You remove the
 pride of the eyes, the concupiscence of the flesh, irreverence
 and obstinacy of soul. Oh, how happy is he
 to whom You grant such grace, since among so many enemies
-he shall pass unharmed!" (St. Augustine).
+he shall pass unharmed!” (St. Augustine).
 
 O my sweetest Lord, with all my heart I renew to You the consecration of my senses. I consecrate to You my
 eyes, that they may seek only Your face and look
@@ -109,5 +109,5 @@ only at what leads to You; I consecrate to You my tongue, that it may be worthy 
 a word displeasing to You; I consecrate to You my hearing, so that
 it may listen only to Your voice and only to what is necessary for Your
 service; I consecrate to You smell, taste, and touch, so that they may delight only in You, O Spouse of virgins! With
-St. Agnes I want to repeat to You: "Loving You, O my Christ,
-I am chaste; touching You, I am pure; possessing You, I am a virgin!" (BR.).
+St. Agnes I want to repeat to You: “Loving You, O my Christ,
+I am chaste; touching You, I am pure; possessing You, I am a virgin!” (BR.).
