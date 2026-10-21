@@ -80,18 +80,18 @@ conosco e qual será seu juízo sobre nossa conduta.
 
 ### Colóquio
 
-"Ó Deus da minha alma, quem sou eu e qual sou eu? Há culpa
+“Ó Deus da minha alma, quem sou eu e qual sou eu? Há culpa
 que não tenha estado nas minhas ações ou, se não nas minhas ações, nas minhas palavras, ou, se não nas minhas palavras, na minha
 vontade? Mas Tu, ó Senhor, és bom e misericordiosa é
 tua destra.
 
-"Ó Médico da minha alma, revela-me os frutos da minha
+“Ó Médico da minha alma, revela-me os frutos da minha
 confissão. Eu me confesso para que a confissão dos meus
 males... desperte meu coração, para que não adormeça; mas embora o diga não me sinto capaz; desperte-se ele no amor da
 tua misericórdia e na doçura da tua graça, pela
 qual todo espírito enfermo se sente forte e se torna consciente de sua fraqueza.
 
-"Eu te amarei, ó Senhor, e te renderei graças e exaltarei
+“Eu te amarei, ó Senhor, e te renderei graças e exaltarei
 teu nome, porque me perdoaste tantas más ações. Foi
 obra da tua graça e da tua misericórdia, se os meus
 
@@ -100,9 +100,9 @@ pecados dissolveste como gelo. Obra da tua graça
 é também todo o mal que não fiz. Que pecado havia
 que eu não soubesse cometer, eu que amei a culpa até gratuitamente? E confesso que todos os pecados me foram perdoados,
 tanto os que espontaneamente cometi, como
-os que, com tua ajuda, não cometi" (S. Agostinho).
+os que, com tua ajuda, não cometi” (S. Agostinho).
 Ó meu Deus, que com um só ato da tua vontade
-criaste a luz e a luz foi, repete sobre mim tua onipotente palavra criadora: "*fiat* lux", e se fará luz na
+criaste a luz e a luz foi, repete sobre mim tua onipotente palavra criadora: “*fiat* lux”, e se fará luz na
 minha alma, e na tua luz poderei ver-me tal como realmente
 sou aos teus olhos. Mas a luz não basta para mim, tão
 fraco e débil; tenho necessidade de força, ó Senhor; tenho necessidade

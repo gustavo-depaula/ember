@@ -5,7 +5,7 @@
 ### Meditação
 
 **1** — O coração da pessoa consagrada a Deus deve ser
-"um jardim fechado, uma fonte selada" (Ct. 4, 12),
+“um jardim fechado, uma fonte selada” (Ct. 4, 12),
 isto é, não deve admitir outro afeto que não seja o
 
 
@@ -28,43 +28,43 @@ Depois de romper por amor de Deus os sagrados laços de
 sangue, depois de renunciar a uma família própria, é
 grande estultícia deixar-se prender o coração por criaturas que
 não têm direito algum sobre ele, por afetos que nada têm
-de sagrado. Diante deles é preciso responder com a fortaleza de Inês: "Deus pôs um sinal em meu rosto,
+de sagrado. Diante deles é preciso responder com a fortaleza de Inês: “Deus pôs um sinal em meu rosto,
 para que eu não admita outro amante fora dele.
-A ele só guardo fidelidade" (BR).
+A ele só guardo fidelidade” (BR).
 
-"É uma lástima - exclama S. João da Cruz -
+“É uma lástima - exclama S. João da Cruz -
 ver algumas almas que, embora... estejam repletas de tesouros
 espirituais..., contudo, porque não têm coragem de
 acabar com algum pequeno... apego ou afeto, não
 avançam jamais e não chegam ao porto da perfeição... O
 Senhor concedeu-lhes romper outras cordas muito mais
 grossas de afetos... e elas depois, não querendo desapegar-se de
-uma ninharia... descuidam de chegar a tão grande bem" (S. I,
+uma ninharia... descuidam de chegar a tão grande bem” (S. I,
 11, 4-5).
 
 
 **2** — Deus é ciumento do coração a ele consagrado e não o
 admite à sua intimidade enquanto o encontra ocupado por algum afeto que o impeça de concentrar nele todo
-o amor de que Ele o tornou capaz. "Deus
+o amor de que Ele o tornou capaz. “Deus
 - diz S. Teresa de Jesus - não força ninguém: aceita quanto lhe
-se dá, mas não se dá todo senão àqueles que se dão de todo a ele" (Cart. 28, 12). "Deus não quer um coração dividido: quer tudo ou nada" (T.M. Sp. p. 187).
+se dá, mas não se dá todo senão àqueles que se dão de todo a ele” (Cart. 28, 12). “Deus não quer um coração dividido: quer tudo ou nada” (T.M. Sp. p. 187).
 
 
 Se não se chega ao dom total do coração,
 será impossível gozar a intimidade divina.
 
-"Bem-aventurados os puros de coração, porque verão a Deus"
+“Bem-aventurados os puros de coração, porque verão a Deus”
 (Mt. 5, 8), disse Jesus: esta visão, este gozo
 de Deus é de algum modo antecipado, já aqui embaixo, para
 quem sabe reservar para Ele a integridade,
 a pureza do coração.
-S. Tomás diz: "Um coração livre de pensamentos e afetos
+S. Tomás diz: “Um coração livre de pensamentos e afetos
 estranhos a Deus é como um templo sagrado ao Senhor, no qual
-já neste mundo podemos contemplá-lo" (Comentário a
+já neste mundo podemos contemplá-lo” (Comentário a
 S. Mateus). O coração puro é semelhante ao olho límpido e claro,
 sabe compreender Deus, sabe penetrar nas profundezas dos seus
 mistérios infinitos. Precisamente por
-isso os teólogos ensinam que à bem-aventurança "bem-aventurados os puros de coração" corresponde o
+isso os teólogos ensinam que à bem-aventurança “bem-aventurados os puros de coração” corresponde o
 dom do entendimento, mediante o qual o Espírito
 Santo torna a alma capaz de um *intus legere*, de ler
 dentro, isto é, de penetrar as coisas divinas. Quanto mais se ama, mais se deseja
@@ -75,9 +75,9 @@ para atingir esse intento.
 
 Se queres conhecer teu Deus, se queres entrar na sua
 amizade íntima e profunda, deves oferecer-lhe um coração puro,
-vazio de todo afeto humano. "Não te apresentes às criaturas, se queres mirar na tua alma
+vazio de todo afeto humano. “Não te apresentes às criaturas, se queres mirar na tua alma
 o rosto terso e simples de Deus; mas torna teu espírito vazio e muito alheio
-a elas, e caminharás nos esplendores divinos" (G.C. C.E. I, 25).
+a elas, e caminharás nos esplendores divinos” (G.C. C.E. I, 25).
 
 ### Colóquio
 
@@ -90,9 +90,9 @@ mim, ao preço de qualquer sofrimento.
 Mas Tu sabes quão grande é minha fraqueza e como,
 em certos momentos de desalento, de vazio, de abandono, eu
 sinto a tentação de ir pedir às criaturas um pouco de afeto,
-de compreensão. "Oh então, eu te suplico,
+de compreensão. “Oh então, eu te suplico,
 faze que nas amizades terrenas eu não encontre senão amarguras!
-Do contrário, com um coração como o meu, eu me deixaria prender e cortar as asas" (cf. T.B.G. St. 4).
+Do contrário, com um coração como o meu, eu me deixaria prender e cortar as asas” (cf. T.B.G. St. 4).
 
 Ó Senhor, ilumina meu coração em suas dobras mais escondidas,
 em seus recantos mais íntimos, e se nele encontras

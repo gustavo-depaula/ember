@@ -27,13 +27,13 @@ de querer dar-se conta do próprio caminho interior. E
 obscuros, justamente porque quer que a alma viva escondida de si
 mesma. Precisamente aqui ia terminar o programa de
 escondimento de S. Teresa Margarida, a qual não só
-pretendia "viver por assim dizer, invisível e não observada"
-entre suas coirmãs, mas "ainda ser de certa maneira
+pretendia “viver por assim dizer, invisível e não observada”
+entre suas coirmãs, mas “ainda ser de certa maneira
 oculta e ignota a si mesma, morrer a si sem
 sabê-lo e sem gozar qualquer prazer desta morte
 mística espiritual, sepultando em Cristo todo pensamento
 e todo reflexo, também espiritual e eterno, de si,
-de um modo subtilíssimo". É este o propósito explícito da completa
+de um modo subtilíssimo”. É este o propósito explícito da completa
 esquecença de si, que abrange também a renúncia
 à satisfação espiritual de dar-se conta da própria
 imolação. Mas para evitar voltar sobre
@@ -42,7 +42,7 @@ aspirações; por isso o exercício negativo de não pensar
 mais em si deve ir de par com o positivo
 
 
-de centrar-se em Cristo, de "sepultar em Cristo" todo
+de centrar-se em Cristo, de “sepultar em Cristo” todo
 
 
 pensamento, toda preocupação, também espiritual, de si.
@@ -50,7 +50,7 @@ pensamento, toda preocupação, também espiritual, de si.
 Ninguém conseguirá afastar a preocupação de si
 mesmo se não a fixa no objeto do seu amor; S. Teresa
 Margarida esqueceu-se até o fundo, sepultando seu pensamento
-"em Cristo", único Dileto.
+“em Cristo”, único Dileto.
 
 
 **2** — A alma totalmente esquecida de si é também
@@ -58,7 +58,7 @@ totalmente desinteressada. Não serve mais a Deus com espírito
 mercenário, isto é, mirando mais à recompensa
 que poderá receber do que à glória dele, mas o serve
 - segundo a bela expressão de S. Teresa de Jesus -
-"gratuitamente como os grandes senhores servem os reis"
+“gratuitamente como os grandes senhores servem os reis”
 
 
 (Lt.). Tal deve ser o estilo de uma alma de vida interior,
@@ -66,7 +66,7 @@ a qual, tendo sido convidada por Deus à sua
 intimidade, não deve agir como mercenária, mas como filha,
 como esposa. Este é um dos frutos mais belos da vida escondida.
 
-S. João da Cruz ensina: "Deus agrada-se mais
+S. João da Cruz ensina: “Deus agrada-se mais
 de uma obra, por pequena que seja, feita em segredo e sem desejo de que seja conhecida, do que de muitas obras feitas com
 este desejo; porque quem com amor puríssimo
 opera pelo Senhor, não somente não se importa de modo algum que
@@ -75,11 +75,11 @@ suas ações sejam vistas pelos homens, mas nem sequer as faz
 
 para que o próprio Deus as saiba. De modo que, por hipótese,
 se o Senhor nunca as soubesse, não cessaria de render-lhe iguais serviços, com a mesma alegria e pureza de
-amor" (C.E. I, 20). O mesmo delicado pensamento encontramos
-em S. Teresa do Menino Jesus: "Se também, coisa impossível, Deus
+amor” (C.E. I, 20). O mesmo delicado pensamento encontramos
+em S. Teresa do Menino Jesus: “Se também, coisa impossível, Deus
 mesmo ignorasse minhas boas ações, não me afligiria,
 porque o amo tanto que gostaria de poder agradá-lo
-sem que Ele soubesse que sou eu" (CR.).
+sem que Ele soubesse que sou eu” (CR.).
 
 Esta absoluta pureza de intenção faz com que a alma aja unicamente por Deus e nunca por seu proveito, nem
 mesmo espiritual. Certamente Deus recompensará as obras boas, mas este cuidado é totalmente deixado ao seu beneplácito,

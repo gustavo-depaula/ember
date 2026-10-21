@@ -4,16 +4,16 @@
 
 ### Meditação
 
-**1** — Jesus disse: "o reino dos céus é semelhante
+**1** — Jesus disse: “o reino dos céus é semelhante
 a um mercador que anda em busca de belas pérolas; e, tendo encontrado
 
 
 uma pérola de grande preço, vai, vende quanto tem e
-a compra" (Mt. 13, 45). A pérola de grande preço é a união
+a compra” (Mt. 13, 45). A pérola de grande preço é a união
 com Deus; se queres adquiri-la, deves vender tudo
 o que tens, isto é, desapegar-te de todo apetite desordenado. Eis
 por que S. Teresa d'Avila, falando do desapego, pôde
-dizer que, "vivido com perfeição, é tudo" (Cam. 8, 1).
+dizer que, “vivido com perfeição, é tudo” (Cam. 8, 1).
 Certo, a vida espiritual não se reduz ao desapego e não
 termina aí, mas o desapego praticado com perfeição
 leva-a efetivamente ao seu termo: a união com Deus.
@@ -23,13 +23,13 @@ tudo, isto é, renunciares a todo mínimo apego que ainda
 te liga a ti mesmo ou às criaturas.
 
 Eis as regras de ouro que S. João da Cruz te
-propõe para realizar esse desapego total: "A alma
+propõe para realizar esse desapego total: “A alma
 deve inclinar-se: não ao mais fácil, mas ao mais difícil;
 não ao mais saboroso, mas ao mais insípido; não ao mais deleitável, mas ao mais desagradável;
 não ao repouso, mas à fadiga; não ao que consola, mas ao que desconsola; não ao
 mais, mas ao menos; não às coisas mais nobres e preciosas, mas
 às mais vis e desprezíveis; não a querer coisa alguma, mas a
-nada querer" (S. I, 13, 6). Fazendo assim, pouco a pouco
+nada querer” (S. I, 13, 6). Fazendo assim, pouco a pouco
 te habituarás a contrariar aquela tendência desregrada ao gozo que é a raiz de todos os apegos. Trata-se de ir
 contra a corrente: é, portanto, um trabalho áspero e fatigante
 que se realiza somente a golpes de vontade; é preciso agir em sentido
@@ -40,12 +40,12 @@ em tudo, a vender tudo, o próprio Deus lhe porá nas mãos
 a pérola preciosa da união divina.
 
 
-**2** — "É necessário que [a alma] abrace de coração tal exercício de abnegação e de obras virtuosas, adestrando nele a vontade com ordem e discrição" (S. I,
+**2** — “É necessário que [a alma] abrace de coração tal exercício de abnegação e de obras virtuosas, adestrando nele a vontade com ordem e discrição” (S. I,
 13, 7). Da alma que quer entrar na via do nada, João da Cruz pede duas coisas: antes de tudo, decisão
 e generosidade, porque quem não tem coragem de negar-se
 em tudo nunca chegará ao desapego total e, portanto,
 nem à união com Deus. Mas ao mesmo tempo pede
-também "ordem e discrição". O Santo não pretende que
+também “ordem e discrição”. O Santo não pretende que
 sempre e em todas as coisas escolhas o mais difícil, penoso
 ou fatigante - o que nem sequer seria possível, seja em relação às circunstâncias inerentes ao próprio estado, seja em relação às forças físicas que sempre precisam
 de certo alívio - mas te pede que sejas propenso a
@@ -66,10 +66,10 @@ desapegada do gosto e do prazer que possa encontrar neles.
 e não resolves de uma vez por todas fazê-los todos morrer,
 nunca chegarás à meta. Trata-se de uma verdadeira morte
 às satisfações egoístas e terrenas, mas dessa
-morte nascerá a vida. Jesus o disse: "Se o grão
+morte nascerá a vida. Jesus o disse: “Se o grão
 de trigo, caído na terra, não morre, fica só; mas,
 se morre, produz muito fruto... E quem odeia a própria
-vida neste mundo, conservá-la-á para a vida eterna"
+vida neste mundo, conservá-la-á para a vida eterna”
 
 
 (Jo. 12, 24-25).
@@ -93,7 +93,7 @@ digna-te atrair-me cada vez mais poderosamente, porque
 minha fraqueza tende sempre a deter-me, a reter-me;
 é justamente isto que temo.
 
-"Mas por que, ó Senhor, deverei preocupar-me com meus medos
+“Mas por que, ó Senhor, deverei preocupar-me com meus medos
 e perder o ânimo por causa da minha fraqueza?
 Tu me fazes compreender que devo fortificar-me na humildade,
 persuadindo-me de que bem pouco posso fazer sozinho e que
@@ -104,7 +104,7 @@ minhas lutas, porque quando uma alma quer dar-se à mortificação, encontra dif
 Quer renunciar às próprias comodidades? Que pena! Negligenciar
 a honra? Que tormento! Sofrer uma palavra injuriosa?
 É-lhe suplício intolerável: em suma, encontra-se assediada por tristezas mortais. Mas quando resolver morrer para o mundo,
-cessará toda angústia" (cf. T.G. P.3, 12).
+cessará toda angústia” (cf. T.G. P.3, 12).
 
 Tu morreste por mim, ó Senhor; faze que eu saiba,
 por amor de ti, morrer para mim mesmo, para meus gostos, para minhas

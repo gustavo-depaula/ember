@@ -9,13 +9,13 @@
 gozava da visão beatífica, cujo efeito conatural é
 a glorificação do corpo. Mas tal efeito foi impedido por
 Jesus que, durante os anos de sua vida terrena, quis
-assimilar-se o mais possível a nós, revestindo-se de "uma carne
-semelhante à do pecado" (Rom. 8, 3). Contudo, para confirmar na fé os Apóstolos abalados pelo anúncio
+assimilar-se o mais possível a nós, revestindo-se de “uma carne
+semelhante à do pecado” (Rom. 8, 3). Contudo, para confirmar na fé os Apóstolos abalados pelo anúncio
 de sua Paixão, Jesus, no monte Tabor, deixou
 que por breves instantes alguns raios de sua alma
 bem-aventurada redundassem em seu corpo, e então Pedro, Tiago e
-João o viram transfigurado: "seu rosto resplandecia
-como o sol e suas vestes eram brancas como a neve".
+João o viram transfigurado: “seu rosto resplandecia
+como o sol e suas vestes eram brancas como a neve”.
 Eles ficaram extasiados, e no entanto Jesus lhes mostrara
 apenas um raio de sua glória, pois nenhuma
 
@@ -26,31 +26,31 @@ visão completa.
 A glória é fruto da graça; a graça que Jesus
 possui em medida infinita redunda numa glória infinita
 que o transfigura todo. Algo semelhante acontece
-também conosco: a graça nos transforma, nos transfigura "de glória
-em glória" (II Cor. 3, 18), até que um dia, no céu, nos introduzirá na visão beatífica de Deus. E enquanto a graça
+também conosco: a graça nos transforma, nos transfigura “de glória
+em glória” (II Cor. 3, 18), até que um dia, no céu, nos introduzirá na visão beatífica de Deus. E enquanto a graça
 transfigura, o pecado, com sua opacidade, desfigura aqueles
 que dele são vítimas.
 
 O Evangelho de hoje (Mt. 17, 1-9) mostra a íntima relação entre a Transfiguração e a Paixão de Jesus. Moisés
 e Elias, aparecidos no Tabor, ao lado do Salvador,
-falavam com ele e, como especifica S. Lucas, falavam propriamente de sua próxima Paixão, "da partida que
-ele estava para cumprir em Jerusalém" (Lc. 9, 31).
+falavam com ele e, como especifica S. Lucas, falavam propriamente de sua próxima Paixão, “da partida que
+ele estava para cumprir em Jerusalém” (Lc. 9, 31).
 
 O divino Mestre quer assim ensinar aos seus discípulos
 que é impossível para ele e para eles chegar à glória
 da Transfiguração sem passar através do sofrimento; é a lição que dará mais tarde aos dois discípulos
-de Emaús: "Não era preciso que o Cristo padecesse tais coisas
-e assim entrasse na sua glória?" (Lc. 24, 26). Aquilo que o
+de Emaús: “Não era preciso que o Cristo padecesse tais coisas
+e assim entrasse na sua glória?” (Lc. 24, 26). Aquilo que o
 pecado desfigurou não pode voltar à primitiva
 beleza sobrenatural senão por meio do sofrimento
 purificador.
 
 
 **2** — Pedro, extasiado pela visão do Tabor, com seu
-ardor habitual exclama: "É bom para nós estarmos aqui", e se
+ardor habitual exclama: “É bom para nós estarmos aqui”, e se
 oferece para preparar três tendas: para Jesus, para Moisés e para
-Elias. Mas sua proposta é interrompida por uma voz do alto: "Este é meu Filho amado, no qual pus meu agrado:
-escutai-o!" e a visão
+Elias. Mas sua proposta é interrompida por uma voz do alto: “Este é meu Filho amado, no qual pus meu agrado:
+escutai-o!” e a visão
 desaparece.
 
 As consolações espirituais jamais são fim em si mesmas,
@@ -72,8 +72,8 @@ Deus não nos consola para nos distrair,
 mas para nos encorajar, para nos tornar fortes e generosos no sofrer por amor dele.
 
 Desaparecida a visão, os Apóstolos levantaram os olhos e
-não viram mais nada "nisi solum Jesum", senão Jesus
-só, e com "Jesus só" desceram do monte. Eis o que
+não viram mais nada “nisi solum Jesum”, senão Jesus
+só, e com “Jesus só” desceram do monte. Eis o que
 devemos sempre buscar e o que deve bastar-nos: Jesus
 só, Deus só. Todo o resto - consolações,
 ajudas, amizades até espirituais, compreensão, estima, apoio até
@@ -90,7 +90,7 @@ perseverar no propósito de uma dedicação total, mesmo
 quando Ele, retirando todos os seus dons, a deixa só, no
 escuro, talvez na incompreensão, na amargura,
 na solidão material e espiritual unida à desolação
-interior. É então o momento de repetir: "Jesus só"
+interior. É então o momento de repetir: “Jesus só”
 e descer com ele do Tabor para segui-lo com os
 Apóstolos até o Calvário, onde Ele mesmo agonizará abandonado não só pelos homens, mas também pelo
 Pai.
@@ -99,12 +99,12 @@ Pai.
 
 ### Colóquio
 
-"Eu te amo só a ti, meu Deus, sigo só a ti, busco só a ti,
+“Eu te amo só a ti, meu Deus, sigo só a ti, busco só a ti,
 estou pronto a seguir só a ti... quero estar à tua disposição somente. Ordena, eu te peço, manda tudo o que
 quiseres, mas cura, abre meus olhos para que eu veja teus
 sinais; cura-me todo para que eu te reconheça.
 Dize-me para que lado devo voltar minha atenção para que
-te veja; e espero saberei fazer tudo o que me mandas..."
+te veja; e espero saberei fazer tudo o que me mandas...”
 (S. Agostinho).
 
 Sim, ó Jesus, que eu siga só a ti e te siga não só no

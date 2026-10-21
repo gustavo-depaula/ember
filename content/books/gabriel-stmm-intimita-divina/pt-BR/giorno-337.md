@@ -8,15 +8,15 @@
 
 É preciso, portanto, concluir que, suposto o período dedicado exclusivamente à preparação, é necessário unir a ascensão pessoal à santidade com o exercício da atividade apostólica. Em outras palavras, os apóstolos devem santificar-se no apostolado e por meio dele.
 
-«Santificar-se em vista e por meio do apostolado: eis a palavra de ordem para um sacerdote diocesano... Faríamos mentir a Igreja, a vida de Jesus e todas as vidas dos santos se afirmássemos a incompatibilidade do apostolado exterior com a santidade.»
+“Santificar-se em vista e por meio do apostolado: eis a palavra de ordem para um sacerdote diocesano... Faríamos mentir a Igreja, a vida de Jesus e todas as vidas dos santos se afirmássemos a incompatibilidade do apostolado exterior com a santidade.”
 
 Estas palavras, que Dom Poppe dirige aos sacerdotes, valem para todos os apóstolos, clérigos ou leigos, religiosos ou seculares: todo apóstolo deve ter a certeza de que precisamente no seu campo de trabalho — e não em outro lugar — encontrará todas as graças necessárias para santificar-se, para chegar à união íntima com Deus.
 
 Quando uma pessoa se entrega ao apostolado não por escolha própria, não por impulso natural à atividade, mas somente para responder a um chamado divino, deve estar certa de que, como Deus a quis no apostolado, assim a quer santa e lhe dará todos os meios para tornar-se tal.
 
-Deus não pode condenar à mediocridade uma alma que, para fazer sua vontade e, portanto, por amor dele, assumiu pesos e fadigas apostólicas. «Não, irmãos — retoma Dom Poppe — a vida ativa não é uma noite onde se apaga a luz do ideal. Se muitos nela perderam a própria luz, vós tende mais confiança, humilhai-vos mais profundamente por vossa fraqueza, e uma graça mais abundante vos trará certamente também o sucesso.
+Deus não pode condenar à mediocridade uma alma que, para fazer sua vontade e, portanto, por amor dele, assumiu pesos e fadigas apostólicas. “Não, irmãos — retoma Dom Poppe — a vida ativa não é uma noite onde se apaga a luz do ideal. Se muitos nela perderam a própria luz, vós tende mais confiança, humilhai-vos mais profundamente por vossa fraqueza, e uma graça mais abundante vos trará certamente também o sucesso.
 
-«Não sabeis que as dificuldades e os obstáculos, sob a ação maravilhosa da graça, às vezes se transformam em auxílios e cooperam maravilhosamente para o bem? *Certus sum*, podeis dizer com São Paulo: estou certo de que nenhuma criatura no mundo tem poder de afastar-me do caminho da santidade.»
+“Não sabeis que as dificuldades e os obstáculos, sob a ação maravilhosa da graça, às vezes se transformam em auxílios e cooperam maravilhosamente para o bem? *Certus sum*, podeis dizer com São Paulo: estou certo de que nenhuma criatura no mundo tem poder de afastar-me do caminho da santidade.”
 
 Na medida em que o apóstolo for dócil e fiel à graça, Deus o purificará, o aperfeiçoará, o santificará justamente através de suas fadigas apostólicas.
 
@@ -40,14 +40,14 @@ Seu esforço deve ser manter-se numa posição de equilíbrio, evitando os dois 
 
 ### Colóquio
 
-«Meu Deus, como são poucos os apóstolos santos! Como são raros os teus verdadeiros amigos! Ó Senhor, ardo de desejo pela vinda do teu reino nas almas dos apóstolos; ardo, mas sou tão pobre que serei consumido antes que esse reino se aproxime.
+“Meu Deus, como são poucos os apóstolos santos! Como são raros os teus verdadeiros amigos! Ó Senhor, ardo de desejo pela vinda do teu reino nas almas dos apóstolos; ardo, mas sou tão pobre que serei consumido antes que esse reino se aproxime.
 
-«Faze de mim, ó Senhor, um santo apóstolo; porque um santo obtém mais com uma só palavra do que um trabalhador comum com uma série de discursos. Sem santidade sou bronze que soa, címbalo que tine, e Tu, ó Deus, falas somente pela boca dos santos.
+“Faze de mim, ó Senhor, um santo apóstolo; porque um santo obtém mais com uma só palavra do que um trabalhador comum com uma série de discursos. Sem santidade sou bronze que soa, címbalo que tine, e Tu, ó Deus, falas somente pela boca dos santos.
 
-«Dá-me, pois, a santidade, a única coisa capaz de comover os corações, de traspassar as almas, de renová-las. Meu Deus, que eu não venda ouropel, que eu não seja um recipiente vazio!
+“Dá-me, pois, a santidade, a única coisa capaz de comover os corações, de traspassar as almas, de renová-las. Meu Deus, que eu não venda ouropel, que eu não seja um recipiente vazio!
 
-«Santificar-se no apostolado é difícil; muitos são os obstáculos e perigos que se encontram. Deverei, então, retirar-me desanimado? Não, meu Deus, pois, se tenho boa vontade, sempre serei ajudado por tua graça; e onde a graça trabalha, encontra-se sempre o caminho que conduz ao fim, à santidade! Que devo, pois, temer?
+“Santificar-se no apostolado é difícil; muitos são os obstáculos e perigos que se encontram. Deverei, então, retirar-me desanimado? Não, meu Deus, pois, se tenho boa vontade, sempre serei ajudado por tua graça; e onde a graça trabalha, encontra-se sempre o caminho que conduz ao fim, à santidade! Que devo, pois, temer?
 
-«Tua graça está comigo; Tu mesmo estás comigo, em mim. E se Tu, ó Deus, entras em campo comigo, que coisa poderei ainda chamar de “obstáculo”? A tribulação ou a angústia, a fome ou a nudez, o perigo ou a perseguição ou a espada? Todas essas dificuldades superarei com tua ajuda, pois Tu me amas e não me abandonas.
+“Tua graça está comigo; Tu mesmo estás comigo, em mim. E se Tu, ó Deus, entras em campo comigo, que coisa poderei ainda chamar de ‘obstáculo’? A tribulação ou a angústia, a fome ou a nudez, o perigo ou a perseguição ou a espada? Todas essas dificuldades superarei com tua ajuda, pois Tu me amas e não me abandonas.
 
-«Apoiando-me em ti, ó Senhor, estou certo de que nenhuma criatura no mundo tem poder de afastar-me do caminho da santidade. Estou certo disso porque Tu queres ver os apóstolos santos, porque Tu és infinitamente bom, infinitamente poderoso e fiel às promessas, porque Tu és infinitamente misericordioso» (D. Eduardo Poppe).
+“Apoiando-me em ti, ó Senhor, estou certo de que nenhuma criatura no mundo tem poder de afastar-me do caminho da santidade. Estou certo disso porque Tu queres ver os apóstolos santos, porque Tu és infinitamente bom, infinitamente poderoso e fiel às promessas, porque Tu és infinitamente misericordioso” (D. Eduardo Poppe).

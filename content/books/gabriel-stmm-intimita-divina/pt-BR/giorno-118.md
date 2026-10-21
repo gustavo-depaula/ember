@@ -20,10 +20,10 @@ portanto, ter coragem de desmantelar as engenhosas,
 mas inconsistentes construções do amor-próprio,
 para pôr a descoberto os próprios defeitos e encará-los,
 como são, sem atribuí-los a outros senão a nós mesmos.
-"Quando cometemos uma falta - dizia S. Teresa do Menino Jesus - não devemos jamais atribuí-la a uma
+“Quando cometemos uma falta - dizia S. Teresa do Menino Jesus - não devemos jamais atribuí-la a uma
 causa física, como doença ou estação do ano, ou outras
 circunstâncias, mas à nossa imperfeição. Não são as ocasiões que tornam o homem frágil, mas elas lhe mostram o que
-ele é" (CR.).
+ele é” (CR.).
 
 Desculpar as próprias faltas pode satisfazer o orgulho,
 mas na realidade é cegar-se voluntariamente, é tornar-se incapaz de perceber a verdade da própria situação e, assim,
@@ -56,7 +56,7 @@ com humildade de coração.
 S. Teresa de Jesus convida as almas que querem chegar
 à união com Deus a uma grande generosidade neste ponto,
 isto é, a aceitar sem desculpar-se qualquer correção ou repreensão, ainda que não totalmente merecida e
-ainda que completamente injusta. "Calar-se quando se é
+ainda que completamente injusta. “Calar-se quando se é
 acusado injustamente - diz a Santa - é um grande
 ato de humildade, e imita-se mais de perto nosso Senhor, que
 tomou sobre si todos os nossos pecados. O verdadeiro humilde deve
@@ -64,13 +64,13 @@ desejar ser desprezado, perseguido e condenado
 sem motivo, até em coisas graves. Se quer imitar o
 Senhor, em que o poderá fazer melhor, senão nisto?
 Não precisa de forças corporais, nem de ajuda de ninguém,
-senão de Deus." E depois acrescenta com muita
-fineza: "Tudo considerado, nunca somos culpados
+senão de Deus.” E depois acrescenta com muita
+fineza: “Tudo considerado, nunca somos culpados
 sem razão, sendo sempre cheios de defeitos... Se somos
 inocentes do que nos atribuem, nunca somos tão isentos
-de culpa como o bom Jesus" (Cam. 15, 1 e 4).
+de culpa como o bom Jesus” (Cam. 15, 1 e 4).
 
-"Jesus calava-se" (Mt. 26, 63), diz o Evangelista, apresentando-nos o Senhor acusado diante dos tribunais. A alma
+“Jesus calava-se” (Mt. 26, 63), diz o Evangelista, apresentando-nos o Senhor acusado diante dos tribunais. A alma
 que aspira à união íntima com Jesus deve saber unir-se
 aos seus silêncios diante das acusações, mesmo das mais injustas.
 E, quando motivos particulares - como evitar escândalo
@@ -97,7 +97,7 @@ coração as correções alheias. Apaga com tua doçura
 minha suscetibilidade tão fácil de acender-se e ressentir-se, e
 concede-me a graça de imitar tua mansidão e humildade diante dos tribunais.
 
-"Ó meu Senhor, quando recordo teus múltiplos
+“Ó meu Senhor, quando recordo teus múltiplos
 tormentos que por nenhum motivo merecias, não sei o que dizer
 de mim, nem onde estou quando pretendo desculpar-me.
 Tu já sabes, meu Bem, que, se há em mim alguma coisa
@@ -112,5 +112,5 @@ luz e faze que eu deseje verdadeiramente ser desprezada por
 todos, pois também eu te desprezei, a ti que me amaste
 com tanta fidelidade!
 
-"Que é isto, meu Deus? Que nos importa ser acusados até por todas as criaturas se Tu não nos acusas?"
+“Que é isto, meu Deus? Que nos importa ser acusados até por todas as criaturas se Tu não nos acusas?”
 (T.G. Com. 15, 5 e 6).

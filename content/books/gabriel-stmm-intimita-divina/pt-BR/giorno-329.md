@@ -12,9 +12,9 @@ Assim, enquanto a vida interior é a alma do apostolado, o apostolado é por sua
 
 O sistema de vida do Carmelo teresiano — vida contemplativa de profunda intensidade — nasceu assim de um grande ideal de apostolado.
 
-Este mesmo ideal fez surgir recentemente na Igreja um novo estado de vida, o dos Institutos seculares, em que almas desejosas de consagrar-se à salvação dos irmãos se empenham em viver no mundo segundo a perfeição evangélica. «O fim específico [de apostolado] parece ter necessariamente requerido e também criado o fim genérico [de perfeição]» (Pio XII, *Primo feliciter*).
+Este mesmo ideal fez surgir recentemente na Igreja um novo estado de vida, o dos Institutos seculares, em que almas desejosas de consagrar-se à salvação dos irmãos se empenham em viver no mundo segundo a perfeição evangélica. “O fim específico [de apostolado] parece ter necessariamente requerido e também criado o fim genérico [de perfeição]” (Pio XII, *Primo feliciter*).
 
-Quando o ideal apostólico está vivo e bem compreendido, em vez de lançar imprudentemente as almas na ação, conduz-as a uma vida interior mais profunda, ao dom total de si, à santidade, porque é necessário santificar-se para santificar. «Por eles eu me santifico» (Jo. 17, 19).
+Quando o ideal apostólico está vivo e bem compreendido, em vez de lançar imprudentemente as almas na ação, conduz-as a uma vida interior mais profunda, ao dom total de si, à santidade, porque é necessário santificar-se para santificar. “Por eles eu me santifico” (Jo. 17, 19).
 
 **2** — Uma vida interior na qual não brilha o ideal apostólico nunca poderá ser plena e vigorosa. Isto depende da natureza da graça e da caridade, que são por si mesmas expansivas, apostólicas.
 
@@ -32,10 +32,10 @@ Assim o ideal apostólico torna-se uma alavanca poderosa para a santificação p
 
 ### Colóquio
 
-«Ó Senhor, tenho em mim desejos imensos de servir-te, e vivíssimo é meu desgosto ao ver-me incapaz de realizá-los. Queria levantar a voz para fazer entender a todos quanto importa não contentar-se com pouco em teu serviço e dar a conhecer os grandes tesouros que se recebem de ti quando se dispõe a recebê-los.
+“Ó Senhor, tenho em mim desejos imensos de servir-te, e vivíssimo é meu desgosto ao ver-me incapaz de realizá-los. Queria levantar a voz para fazer entender a todos quanto importa não contentar-se com pouco em teu serviço e dar a conhecer os grandes tesouros que se recebem de ti quando se dispõe a recebê-los.
 
-«Sinto, meu Deus, pena grandíssima pela perda de tantas almas, especialmente daqueles que pelo batismo já eram membros da Igreja, e desejo grandemente trabalhar por sua salvação, a ponto de sentir-me pronta a suportar mil mortes para libertar uma só dos terríveis suplícios do inferno. Como se pode suportar ver uma alma condenada para a eternidade e aos rigores eternos dos suplícios? Se somos tomados de compaixão pelas dores deste mundo, que afinal têm um termo e cessam sempre com a morte, como poderemos, ó Senhor, mostrar-nos indiferentes diante de tormentos que durarão eternamente e diante do grande número de almas que todos os dias o demônio arrasta consigo para o inferno?
+“Sinto, meu Deus, pena grandíssima pela perda de tantas almas, especialmente daqueles que pelo batismo já eram membros da Igreja, e desejo grandemente trabalhar por sua salvação, a ponto de sentir-me pronta a suportar mil mortes para libertar uma só dos terríveis suplícios do inferno. Como se pode suportar ver uma alma condenada para a eternidade e aos rigores eternos dos suplícios? Se somos tomados de compaixão pelas dores deste mundo, que afinal têm um termo e cessam sempre com a morte, como poderemos, ó Senhor, mostrar-nos indiferentes diante de tormentos que durarão eternamente e diante do grande número de almas que todos os dias o demônio arrasta consigo para o inferno?
 
-«Pois tu, meu Deus, vês a dor que provo à vista do grande número dos que se perdem: salva ao menos um, Senhor, ao menos um que possa dar luz a muitos outros. Não por mim, Senhor, que não o mereço, mas pelos méritos de teu Filho! Olha, Senhor, suas chagas; e, já que Ele perdoou aos que lhas fizeram, perdoa Tu também a nós.
+“Pois tu, meu Deus, vês a dor que provo à vista do grande número dos que se perdem: salva ao menos um, Senhor, ao menos um que possa dar luz a muitos outros. Não por mim, Senhor, que não o mereço, mas pelos méritos de teu Filho! Olha, Senhor, suas chagas; e, já que Ele perdoou aos que lhas fizeram, perdoa Tu também a nós.
 
-«Meu Deus, eu não quero senão tua vontade; estou tão submetida a ela que não desejo mais viver do que morrer. Contudo, se assim te agrada, desejo viver para poder servir-te um pouco mais. Se eu pudesse contribuir em alguma coisa para fazer-te amar e louvar por uma alma ainda que só por pouco tempo, isso me pareceria muito mais importante do que já estar na glória» (T.G. RS. 1, 3; Vt. 32, 6; Es. 11, 3; RS. 6, 7).
+“Meu Deus, eu não quero senão tua vontade; estou tão submetida a ela que não desejo mais viver do que morrer. Contudo, se assim te agrada, desejo viver para poder servir-te um pouco mais. Se eu pudesse contribuir em alguma coisa para fazer-te amar e louvar por uma alma ainda que só por pouco tempo, isso me pareceria muito mais importante do que já estar na glória” (T.G. RS. 1, 3; Vt. 32, 6; Es. 11, 3; RS. 6, 7).

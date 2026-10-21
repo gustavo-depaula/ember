@@ -4,23 +4,23 @@
 
 ### Meditação
 
-**1** — "E Jesus, abrindo sua boca, os instruía,
+**1** — “E Jesus, abrindo sua boca, os instruía,
 dizendo: Bem-aventurados os pobres em espírito, porque deles é o
-reino dos céus" (Mt. 5, 3).
+reino dos céus” (Mt. 5, 3).
 
 Assim começa o discurso da montanha e depois,
 por várias vezes, Jesus explica como deve ser entendida a pobreza
-de espírito. "Não acumuleis tesouros sobre a terra, onde a ferrugem e a traça os consomem e onde os ladrões escavam
+de espírito. “Não acumuleis tesouros sobre a terra, onde a ferrugem e a traça os consomem e onde os ladrões escavam
 e roubam; acumulai, antes, tesouros no céu, onde nem
 a ferrugem nem a traça os consomem e onde os ladrões não os escavam nem os roubam... Pois onde está o teu tesouro, aí está
-também o teu coração" (ibid., 6, 19-21).
+também o teu coração” (ibid., 6, 19-21).
 
 Considera que Jesus dirigiu estes ensinamentos
 não só aos Apóstolos, mas também aos discípulos e a todas
 as turbas que o seguiam. Isso demonstra que, se nem todos
 devem fazer voto de pobreza - a vida de família não
 o permite - todos, porém, devem adquirir e praticar
-"o espírito de pobreza", isto é, chegar ao desapego afetivo
+“o espírito de pobreza”, isto é, chegar ao desapego afetivo
 dos bens da terra, de modo a não pôr neles o seu
 tesouro, a não buscá-los com avidez e espírito de cobiça.
 Aqueles que, como os pais e mães de família, têm o
@@ -28,22 +28,22 @@ dever de administrar bens e de aumentá-los por meio
 de trabalho honesto, devem fazê-lo com ordem, isto
 é, evitando que os negócios e interesses materiais os desviem
 de atender aos interesses da alma e aos deveres para com
-Deus. "Que aproveita ao homem ganhar o mundo inteiro,
-se depois perde a alma?" (Mt. 16, 26). E a quem possui
+Deus. “Que aproveita ao homem ganhar o mundo inteiro,
+se depois perde a alma?” (Mt. 16, 26). E a quem possui
 pouco e vive em estreitezas materiais, o espírito de pobreza
 exige aceitar serena e pacientemente as próprias
 
 
 condições, vendo nelas um convite a imitar mais de perto
 a vida de Jesus pobre.
-Além disso, reflete que o divino Mestre, ao dizer "vende
-o que tens e dá aos pobres", uniu o exercício
+Além disso, reflete que o divino Mestre, ao dizer “vende
+o que tens e dá aos pobres”, uniu o exercício
 da pobreza ao da caridade. O espírito de pobreza,
 desapegando teu coração dos bens terrenos, deve tornar-te
 generoso para com os necessitados.
 
 
-**2** — "Não andeis demasiadamente preocupados com a vossa vida, com
+**2** — “Não andeis demasiadamente preocupados com a vossa vida, com
 o que comereis ou bebereis, nem... com o que vestireis.
 Não vale a vida mais que o alimento e o corpo mais
 que o vestido? Observai as aves do céu, que não semeiam,
@@ -52,10 +52,10 @@ as alimenta... E por que vos inquietais tanto
 pelo vestido? Considerai como crescem os lírios do campo...
 Se, pois, Deus veste assim a erva do campo, que hoje
 existe e amanhã é lançada ao forno, quanto mais vestirá
-a vós, homens de pouca fé?" (Mt. 6, 25-30).
+a vós, homens de pouca fé?” (Mt. 6, 25-30).
 Jesus não te proíbe de prover ao teu amanhã; ao contrário,
-pela boca do Apóstolo te diz: "Se alguém não quer trabalhar,
-também não coma" (II Tess. 3, 10). Mas
+pela boca do Apóstolo te diz: “Se alguém não quer trabalhar,
+também não coma” (II Tess. 3, 10). Mas
 Jesus não quer aquela ansiedade que te engole todo nos
 negócios temporais e que mostra não só apego desmedido
 às coisas da terra, mas também pouca confiança na divina
@@ -67,33 +67,33 @@ que são o alimento e o vestido.
 O espírito de pobreza não será em ti duradouro e profundo se não se baseia na confiança na divina Providência.
 Somente se confias realmente em Deus e na sua palavra,
 que jamais faltará eternamente, terás coragem de pôr de lado toda preocupação excessiva com as coisas temporais.
-E então se cumprirá para ti a palavra de Jesus: "Buscai
+E então se cumprirá para ti a palavra de Jesus: “Buscai
 primeiro o reino de Deus e sua justiça e todo o resto
-vos será dado por acréscimo" (Mt. 6, 33).
+vos será dado por acréscimo” (Mt. 6, 33).
 
 Em todo estado de vida e no exercício de qualquer profissão, o principal cuidado do cristão deve ser aquele
 
 
 de servir a Deus, de tender a Ele; todo o resto é secundário.
-S. Teresa de Jesus dizia às suas filhas: "Tendo renunciado a ter rendas, renunciai também a qualquer preocupação
+S. Teresa de Jesus dizia às suas filhas: “Tendo renunciado a ter rendas, renunciai também a qualquer preocupação
 com o necessário para a vida, do contrário tudo estaria perdido... Não faltemos a Deus e o necessário
-nunca nos faltará" (Cam. 2, 1 etc.).
+nunca nos faltará” (Cam. 2, 1 etc.).
 
 ### Colóquio
 
-"Ó Senhor, isto reputo grande tesouro: a santa
+“Ó Senhor, isto reputo grande tesouro: a santa
 pobreza, onde nenhuma coisa é preparada por indústria
 humana, mas o que há é preparado por tua Providência divina... E por isso quero pedir-te que Tu me faças
 amar com todo o coração o tesouro da santa pobreza,
-o qual é tão nobre que tem por servo a ti, sumo Deus"
+o qual é tão nobre que tem por servo a ti, sumo Deus”
 (cf. S. Francisco).
 
 Ó Senhor, cura-me, eu te peço, das minhas excessivas
 inquietações pelas necessidades da vida. No silêncio do
 meu coração parece-me ouvir ressoar tua doce repreensão:
-"São os gentios que buscam tudo isso, enquanto o vosso
+“São os gentios que buscam tudo isso, enquanto o vosso
 
-Pai sabe que tendes necessidade de todas essas coisas"
+Pai sabe que tendes necessidade de todas essas coisas”
 (Mt. 6, 32).
 
 Ó Senhor, sim, Tu conheces minhas necessidades e não és
@@ -117,8 +117,8 @@ Faze que minha única preocupação seja a de amar-te e servir-te
 com todas as minhas forças, de buscar tua amizade,
 tua intimidade, a união contigo.
 
-A S. Catarina de Sena disseste um dia: "Tu
-pensa em mim e eu pensarei em ti". Digna-te repetir também
+A S. Catarina de Sena disseste um dia: “Tu
+pensa em mim e eu pensarei em ti”. Digna-te repetir também
 
 
 a mim esta palavra e fixá-la na minha mente e no meu

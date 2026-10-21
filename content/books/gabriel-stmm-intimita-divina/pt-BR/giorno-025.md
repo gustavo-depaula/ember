@@ -12,9 +12,9 @@ Deus pode existir só em Cristo por motivo da união hipostática e da visão be
 porém, quanto é possível a simples criaturas, esforçar-nos por imitar esta atitude de Jesus: viver continuamente unidos a Deus, mesmo trabalhando pelos irmãos. Neste
 sentido, a vida interior é a alma do apostolado; uma ação realmente eficaz, e por isso portadora de graça às
 almas, pode proceder só de quem vive intimamente unido
-a Deus. O próprio Jesus o proclamou: "Como o ramo não
+a Deus. O próprio Jesus o proclamou: “Como o ramo não
 pode dar fruto por si mesmo, se não permanecer na
-videira, assim também vós, se não permanecerdes em mim" (Jo. 15, 4).
+videira, assim também vós, se não permanecerdes em mim” (Jo. 15, 4).
 A união com Deus, a união com Jesus é a condição
 preliminar e indispensável para a eficácia de qualquer atividade apostólica. Esta união se realiza por meio da
 graça santificante, cresce com o uso fervoroso dos sacramentos, com a prática generosa das virtudes, estabelece-se mais
@@ -42,8 +42,8 @@ após dia, morrer para o seu amor-próprio,
 para a vanglória,
 para a tendência de atrair os louvores alheios ou de compraz-se nos
 sucessos, para as suas vistas e iniciativas pessoais, para os seus interesses. Trata-se, portanto, de uma verdadeira imolação do eu,
-que dará frutos de apostolado na proporção da sua profundidade. "Se o grão de trigo, caído na terra,
-não morre, fica só; mas se morre, produz muito fruto"
+que dará frutos de apostolado na proporção da sua profundidade. “Se o grão de trigo, caído na terra,
+não morre, fica só; mas se morre, produz muito fruto”
 (Jo. 12, 24-25).
 
 ### Colóquio
@@ -56,8 +56,8 @@ produzindo para elas frutos de graça. Que ilusão é a
 minha se, deixando-me tomar pela urgência das obras, me
 lanço nelas descuidando de alimentar e consolidar
 a minha união contigo! E, contudo, Tu não cessas de chamar-me
-com a doce advertência que imprimiste profundamente na minha alma: "sem mim nada podeis fazer... [só]
-quem permanece em mim dá frutos abundantes". Ó vão agitar-se, ó inútil movimento de tantas minhas obras empreendidas
+com a doce advertência que imprimiste profundamente na minha alma: “sem mim nada podeis fazer... [só]
+quem permanece em mim dá frutos abundantes”. Ó vão agitar-se, ó inútil movimento de tantas minhas obras empreendidas
 como atividades puramente humanas, como se o seu fruto
 dependesse só da minha indústria e capacidade! Ó meu Deus,
 preserva-me de tamanha loucura; não, não quero desperdiçar

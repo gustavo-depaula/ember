@@ -6,18 +6,18 @@
 
 ### Meditação
 
-**1** — S. Teresa de Jesus ensina: "Por pouco que alguém
+**1** — S. Teresa de Jesus ensina: “Por pouco que alguém
 esteja apegado à honra, não pode avançar na virtude sem
-primeiro libertar-se disso", porque "onde reinam os pontos de honra
+primeiro libertar-se disso”, porque “onde reinam os pontos de honra
 nunca se chegará ao pleno desapego, nem se gozará do verdadeiro
-fruto da oração", que é a intimidade com Deus. Aliás, a
+fruto da oração”, que é a intimidade com Deus. Aliás, a
 Santa nota que o motivo pelo qual muitas pessoas, já há
 tempo adestradas na vida espiritual e beneméritas por
-tantas obras boas, "ainda rastejam pela terra" e não
+tantas obras boas, “ainda rastejam pela terra” e não
 conseguem elevar-se mais alto, está justamente em serem
-detidas pelo "ponto de honra; e, o que é pior,
+detidas pelo “ponto de honra; e, o que é pior,
 não querem persuadir-se disso, enganadas como estão pelo
-demônio até crerem que são obrigadas a defendê-lo"
+demônio até crerem que são obrigadas a defendê-lo”
 (Vi. 31, 20; Cam. 12, 5).
 
 O apego aos pontos de honra resolve-se, na prática,
@@ -40,9 +40,9 @@ não se fazem realmente para defender a honra e as obras
 alheias, mas somente para defender a própria honra
 e as próprias obras. Uma alma que se deixa tomar por semelhantes preocupações
 fica, como diz S. Teresa de Jesus, ligada à terra
-por "uma cadeia que lima alguma pode romper. Só Deus
+por “uma cadeia que lima alguma pode romper. Só Deus
 pode quebrá-la, mas quer ser coadjuvado por nós com
-orações e esforços generosos" (Vi. 31, 20).
+orações e esforços generosos” (Vi. 31, 20).
 
 
 **2** — Para ver se estamos verdadeiramente desapegados dos
@@ -52,8 +52,8 @@ nos parece estarmos prontos a suportar qualquer humilhação
 e desprezo, mas devemos examinar qual é, na prática,
 nossa conduta diante de tudo o que fere
 nosso amor-próprio. E então não será difícil constatar
-que "por pouco que nos toquem na honra, já não sabemos
-suportar e parece-nos que não devemos suportar" (T.G.
+que “por pouco que nos toquem na honra, já não sabemos
+suportar e parece-nos que não devemos suportar” (T.G.
 Dam. 16, 11). Essas reações mais ou menos vivas da nossa suscetibilidade nos dizem claramente que estamos bem
 longe de ter posto sob os pés os pontos de honra; e tomar consciência dessa deficiência será o ponto de partida
 para corrigi-la, porque o maior obstáculo à
@@ -61,8 +61,8 @@ aquisição das virtudes é justamente crer que já as
 adquirimos e, portanto, não temos mais necessidade de exercitar-
 nos nelas.
 
-"Deus nos livre - exclama Teresa de Jesus - de pessoas que pretendem servi-lo e cultivar ao mesmo tempo a própria
-honra!" (ibid., 12, 7). Seria querer servir ao mesmo
+“Deus nos livre - exclama Teresa de Jesus - de pessoas que pretendem servi-lo e cultivar ao mesmo tempo a própria
+honra!” (ibid., 12, 7). Seria querer servir ao mesmo
 tempo dois senhores, e dois senhores tão inconciliáveis quais
 são Deus e nosso amor-próprio. Tudo o que uma alma faz
 para servir ao próprio eu, para sustentar sua honra, ela
@@ -82,22 +82,22 @@ os direitos alheios.
 
 ### Colóquio
 
-"Ó Senhor, Senhor! Não és Tu, pois, o nosso
+“Ó Senhor, Senhor! Não és Tu, pois, o nosso
 Mestre e Modelo? E em que puseste tua honra,
 Tu que és nossa honra? Ah, Senhor, humilhando-te até
 à morte, e assim não só não a perdeste, mas a
 ganhaste para todos nós... Prouvera-te, Deus meu, que por
 querer seguir os feios pontos de honra, alguma alma não
 acabasse por perder-se. Oh! se se compreendesse em que consiste a verdadeira honra... Todo o nosso dano, Senhor, vem de
-não manter os olhos fixos em ti e assim damos em mil quedas, tropeçamos mil vezes e erramos o caminho".
+não manter os olhos fixos em ti e assim damos em mil quedas, tropeçamos mil vezes e erramos o caminho”.
 
-"Ó meu Deus, desejamos unir-nos intimamente a ti,
+“Ó meu Deus, desejamos unir-nos intimamente a ti,
 pretendemos seguir os conselhos de Cristo que foi coberto
 de injúrias e falsidades, e ao mesmo tempo queremos
 conservar intacta nossa honra e reputação. Os caminhos são
 demasiado diversos, e nunca chegaremos à meta, porque
 Tu, ó Senhor, te unes só às almas que se negam
-a si mesmas e não têm medo de perder os próprios direitos"
+a si mesmas e não têm medo de perder os próprios direitos”
 (T.G. Cam. 36, 5 e 6; 16, 11; Vi. 31, 22).
 
 Ó Jesus, concede-me a graça de fazer consistir minha

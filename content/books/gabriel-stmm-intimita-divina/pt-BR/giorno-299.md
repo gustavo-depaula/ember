@@ -3,7 +3,7 @@
 
 ### Meditação
 
-Para nos fazer santos, não basta ser corajoso, justo, paciente e possuir todas as outras virtudes por alguns dias, nem mesmo por alguns anos; é preciso perseverar nesse exercício até o fim, sem ceder ao cansaço, ao desânimo ou à moleza. Justamente aqui está o ponto crucial, porque, como diz São Tomás, «aplicar-se por muito tempo a alguma coisa difícil — e a virtude o é quase sempre — constitui uma dificuldade particular» (II-II, q. 137, a. 1); só superando essa dificuldade poderemos chegar à perfeição.
+Para nos fazer santos, não basta ser corajoso, justo, paciente e possuir todas as outras virtudes por alguns dias, nem mesmo por alguns anos; é preciso perseverar nesse exercício até o fim, sem ceder ao cansaço, ao desânimo ou à moleza. Justamente aqui está o ponto crucial, porque, como diz São Tomás, “aplicar-se por muito tempo a alguma coisa difícil — e a virtude o é quase sempre — constitui uma dificuldade particular” (II-II, q. 137, a. 1); só superando essa dificuldade poderemos chegar à perfeição.
 
 Não somos anjos, somos homens. O anjo, puro espírito, é por natureza estável: tomada uma resolução, permanece firme nela; mas não é assim conosco, que, sendo compostos de espírito e matéria, sofremos as consequências da mutabilidade e das flutuações desta. Como a estabilidade é característica do espírito, assim a volubilidade é característica da matéria; eis por que nos é tão difícil ser perfeitamente constantes no bem.
 
@@ -21,12 +21,12 @@ Esta é a perseverança à qual todos devemos certamente chegar, porque depende 
 
 ### Colóquio
 
-«Ó Senhor, certamente serei salvo se perseverar até o fim; mas essa perseverança deve ser virtuosa para merecer a salvação; se me vem a virtude que me salva, és tu que me fazes perseverar até alcançar a salvação.
+“Ó Senhor, certamente serei salvo se perseverar até o fim; mas essa perseverança deve ser virtuosa para merecer a salvação; se me vem a virtude que me salva, és tu que me fazes perseverar até alcançar a salvação.
 
-«Eis que agora ainda estou em batalha: batalha externa com falsos virtuosos, batalha interna com minhas concupiscências. Ao considerar em quantas pequenas misérias caio todos os dias, nem que seja só com pensamentos e palavras, vejo que seu número é bem grande e que desse grande número de coisas pequenas vai-se formando um grande monte. Infeliz de mim! Quem me libertará deste corpo de morte? Libertar-me-ás tu, ó Senhor, com tua graça, por meio de Jesus Cristo, teu Filho e Senhor nosso.
+“Eis que agora ainda estou em batalha: batalha externa com falsos virtuosos, batalha interna com minhas concupiscências. Ao considerar em quantas pequenas misérias caio todos os dias, nem que seja só com pensamentos e palavras, vejo que seu número é bem grande e que desse grande número de coisas pequenas vai-se formando um grande monte. Infeliz de mim! Quem me libertará deste corpo de morte? Libertar-me-ás tu, ó Senhor, com tua graça, por meio de Jesus Cristo, teu Filho e Senhor nosso.
 
-«No trabalho desta guerra, pois, ergo o olhar para tua graça e, no ardor e na aridez que já comecei a sentir, invoco tua sombra vivificante.
+“No trabalho desta guerra, pois, ergo o olhar para tua graça e, no ardor e na aridez que já comecei a sentir, invoco tua sombra vivificante.
 
-«Assiste-me, Senhor Jesus, para repetires a mim: “Não te canses do caminho estreito: eu passei por ele antes de ti; eu sou o próprio caminho; sou eu o guia e tomo sobre mim aquele que conduzo e o conduzo até mim”» (Santo Agostinho).
+“Assiste-me, Senhor Jesus, para repetires a mim: ‘Não te canses do caminho estreito: eu passei por ele antes de ti; eu sou o próprio caminho; sou eu o guia e tomo sobre mim aquele que conduzo e o conduzo até mim’” (Santo Agostinho).
 
-«Concede-me, ó Deus eterno, a virtude da perseverança, sem a qual ninguém pode agradar-te nem ser-te aceito. Esta virtude traz para a alma a abundância da caridade e o fruto de toda fadiga. Ah, quão feliz serei se tu, Senhor, me deres essa virtude, porque já aqui embaixo me fará saborear um penhor da vida eterna. Mas tua luz me mostra que não posso chegar a tanto sem muito sofrer, porque esta vida não passa sem trabalho; e quem quisesse fugir do trabalho fugiria do fruto da santa perseverança» (Santa Catarina de Sena).
+“Concede-me, ó Deus eterno, a virtude da perseverança, sem a qual ninguém pode agradar-te nem ser-te aceito. Esta virtude traz para a alma a abundância da caridade e o fruto de toda fadiga. Ah, quão feliz serei se tu, Senhor, me deres essa virtude, porque já aqui embaixo me fará saborear um penhor da vida eterna. Mas tua luz me mostra que não posso chegar a tanto sem muito sofrer, porque esta vida não passa sem trabalho; e quem quisesse fugir do trabalho fugiria do fruto da santa perseverança” (Santa Catarina de Sena).
