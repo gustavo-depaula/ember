@@ -6,8 +6,6 @@
 **1** — "You are dust and to dust you shall return" (Gen. 3, 19).
 These words, pronounced for the first time by God and
 addressed to Adam as a consequence of the sin committed,
-
-
 today the Church repeats to every Christian to remind him
 of two fundamental truths: his nothingness and the
 reality of death.
@@ -38,8 +36,6 @@ is vanity except loving God and serving Him alone" (Imit. I,
 "Remember that you have only one soul, that you must die
 only once... and you will let go many things" (T.G. A.
 68), that is, you will let go all those things that are worth
-
-
 nothing for eternity. For eternity only love is worth,
 fidelity to God: "In the evening of life you will be examined on love" (J.C.
 S.C. I, 57).
@@ -77,8 +73,7 @@ countenance so as to show men that they fast." Vanity and pride render useless a
 even the most austere practices of penance: they destroy
 their substance and value, reducing them to wretched external
 shells devoid of all content. Therefore, when you mortify
-your body, be careful to mortify still more your self-
-love.
+your body, be careful to mortify still more your self-love.
 
 
 
@@ -91,8 +86,6 @@ the soul that desires to see itself soon with You.
 
 "My soul, when you shall plunge into the highest Good
 and know as He knows, when you will love what
-
-
 He loves and enjoy what He enjoys, then you will enter into
 your rest: your will will lose its inconstancy and
 will no longer be subject to change... and you will always enjoy
@@ -116,8 +109,6 @@ If the thought of my infidelities dismays me, I will remember, O Lord, that "as 
 offended You, You forget every sin and malice of ours. O
 truly infinite goodness! What more could one want? Who
 would not blush to ask so much of You? This is the moment to profit from it, accepting what You, merciful Lord
-
-
 my God, offer us. You want our friendship. Who
 will refuse it to You, when You did not refuse to pour out
 all Your Blood for us, sacrificing Your life? It is

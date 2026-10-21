@@ -24,7 +24,6 @@ Christmas feasts, does one feel the need to repeat this song
 much more with the heart than with the lips. The soul feels
 more than ever driven to praise its God, so immense, so
 great, so beautiful, but also so good, so merciful,
-
 so full of charity. Song is not enough: the soul would like
 to transform itself into an unceasing "praise of His glory."
 
@@ -86,7 +85,6 @@ all Your gifts, and even if I had received none. Now,
 how can I truly desire and will good for You, if not by
 fulfilling Your will, since this will orders all things
 to Your greater glory? I must therefore abandon myself
-
 fully, utterly to it, until I can no longer will anything but what You will" (E.T. I, 10). And
 when Your will, Your law asks me to sacrifice myself for love of You,
 for Your glory, grant that I may never draw back,

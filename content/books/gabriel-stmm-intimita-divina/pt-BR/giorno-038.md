@@ -12,7 +12,6 @@ Entre Deus e o homem, distância infinita,
 abismo intransponível, ruptura de toda relação de amizade: é a tremenda
 consequência do pecado. Mas entre Deus e o homem, eis o doce
 Menino de Belém; de repente e completamente a situação muda de aspecto: a distância é preenchida e sobre o abismo se
-
 ergue uma admirável ponte que une a terra ao céu,
 que restabelece as relações de intimidade entre Deus e os homens. Esta
 ponte é Jesus que, “único Mediador entre Deus e os homens,

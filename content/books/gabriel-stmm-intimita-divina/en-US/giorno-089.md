@@ -9,8 +9,6 @@ of the spirit over matter. But this dominion is in us opposed by disordered tend
 even souls consecrated to God carry the treasure of
 chastity in *vasis fictilibus* (II Cor. 4, 7), that is, in the
 fragile vessel of a body of flesh, which feels the pull toward
-
-
 the satisfactions of the senses. The vow of chastity does not free the soul from these tendencies and therefore does not dispense it from continual vigilance: "he who has vowed to God
 the lily of integrity must fight with prayer and penance,
 so that he may be able to emerge a victor" (Pius XII).
@@ -21,18 +19,12 @@ of the spirit.
 
 Modesty is a particular exercise of mortification
 destined to moderate and regulate the whole interior and
-
-
 exterior conduct of man, in conformity with his vocation.
 
 
 St. Paul recommends this virtue to all Christians: "let
 your modesty be known to all men" (Phil. 4, 5); but
-
-
 souls consecrated are bound to it more strictly
-
-
 because, being called - by their state of life - to
 keep intact the treasure of chastity, they need
 a more assiduous and delicate exercise of moderation of
@@ -54,18 +46,12 @@ or conversation, always be modest," Teresa of Avila teaches her daughters; and S
 Jesus "so restrained and guarded her powers and her
 senses that she kept herself from every glance and word that in
 any way had no relation to God" (Sp. p. 272). It is
-
-
 the golden rule of St. John of the Cross: to use the senses only
 for the service and glory of God and to raise the heart to Him
 (cf. A. I, 13, 4), which in practice means using them only in the
-
-
 fulfillment of one's duties or for
 honest and rightful relief, and "leaving all the rest aside
 for the Creator" (J.C. S.C. II, 38). Therefore, guard the
-
-
 senses from all those things
 that uselessly burden them, with the danger of letting less pure, less holy impressions reach the soul.
 
@@ -98,8 +84,6 @@ without whom nothing is perfect.
 "Open my ears to Your word, more penetrating
 than a two-edged sword, so that I may hear Your voice. Enlighten my eyes, O incomparable light, and do it with such
 power that they may never again turn to earthly vanities, but
-
-
 seek only You, O invisible Good. Create in me a new
 smell, You, sweetest fragrance of my life, so that I may
 run after the perfume of Your ointments. Heal my

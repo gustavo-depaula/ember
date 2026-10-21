@@ -10,8 +10,7 @@
 amar. O amor divino para com o homem era demasiado grande e
 assim sempre fora ab aeterno; mas este amor ainda não tinha
 aparecido... Então verdadeiramente apareceu quando o Filho de Deus se fez ver menino numa estrebaria, sobre um pouco
-de palha” (S. Afonso). Eis o mistério natalino; eis o grito exultante de São Paulo: “A graça de Deus, nosso Salva-
-dor, manifestou-se a todos os homens... Apareceu a bondade e
+de palha” (S. Afonso). Eis o mistério natalino; eis o grito exultante de São Paulo: “A graça de Deus, nosso Salvador, manifestou-se a todos os homens... Apareceu a bondade e
 o amor pelos homens de Deus, nosso Salvador” (Ep. na
 II Missa: Tit. 2, 11-15; 3, 4-7). Eis o bem-aventurado anúncio
 “da grande alegria” que o Anjo traz aos pastores:
@@ -24,8 +23,7 @@ vimos e hostes de anjos que louvavam em coro o
 Senhor” (BR.). “Alegrem-se os céus e exulte toda a terra
 na presença do Senhor!” (MR.). O nosso Deus está
 aqui, no meio de nós, feito um de nós: “Nasceu-nos um
-Menino, foi-nos dado um Filho... o seu nome é: Admirável, Deus, Príncipe da paz, Pai do século fu-
-turo... Exulta filha de Sião, canta filha de Jerusalém...
+Menino, foi-nos dado um Filho... o seu nome é: Admirável, Deus, Príncipe da paz, Pai do século futuro... Exulta filha de Sião, canta filha de Jerusalém...
 Jubilai ao Senhor, habitantes da terra! Vinde, ó nações,
 e adorai o Senhor” (BR.).
 
@@ -39,8 +37,7 @@ geração eterna do Verbo no seio do Pai e não faltam
 alusões ao nascimento de Cristo nas almas por meio da
 graça. Mas este tríplice nascimento não é senão uma única manifestação de Deus-Caridade. Ninguém, nesta terra, podia
 conhecer o amor de Deus, mas o Verbo, que está no seio do
-Pai, conhece-o e pode revelá-lo. O Verbo se fez carne e nos mostrou o amor de Deus; por Ele, a sua incom-
-preensível e invisível caridade tornou-se evidente, palpável naquele doce Menino que do presépio nos estende os braços. O
+Pai, conhece-o e pode revelá-lo. O Verbo se fez carne e nos mostrou o amor de Deus; por Ele, a sua incompreensível e invisível caridade tornou-se evidente, palpável naquele doce Menino que do presépio nos estende os braços. O
 Prefácio de hoje o declara expressamente: “Eterno Deus,
 pelo mistério da Encarnação do Verbo um novo raio
 da tua luz vem resplandecer diante dos olhos da nossa mente para que, conhecendo sensivelmente Deus,
@@ -63,18 +60,13 @@ substância de Deus: a caridade de Deus.
 coração poderia defender-se de consumir-se por ti?
 
 “Ó abismo de caridade! Tu és, pois, assim perdidamente
-apegado às tuas criaturas, que parece que não podes viver sem elas! E no entanto és nosso Deus! Tu não tens neces-
-sidade de nós. O nosso bem nada acrescenta à tua grandeza,
+apegado às tuas criaturas, que parece que não podes viver sem elas! E no entanto és nosso Deus! Tu não tens necessidade de nós. O nosso bem nada acrescenta à tua grandeza,
 pois és imutável. O nosso mal não poderia
 causar dano a ti, que és a soberana e eterna bondade!
 Quem, pois, te estimula a tanta misericórdia? O amor. Porque Tu não tens obrigação alguma para conosco e não tens de nós
-necessidade alguma. Quem leva a ti, Deus infinito, para mim, pequena criatura? Nenhum outro senão Tu mesmo. Ó Fogo de A-
-mor, sempre o Amor somente te impeliu e te impele!—
-
+necessidade alguma. Quem leva a ti, Deus infinito, para mim, pequena criatura? Nenhum outro senão Tu mesmo. Ó Fogo de Amor, sempre o Amor somente te impeliu e te impele!—
 “Tu, suma doçura, dignaste-te unir-te com a
-nossa amargura; Tu, esplendor, com as trevas; Tu, sa-
-
-bedoria, com a loucura; Tu, vida, com a morte; Tu, infinito, com nós finitos!” (Santa Catarina de Sena).
+nossa amargura; Tu, esplendor, com as trevas; Tu, sabedoria, com a loucura; Tu, vida, com a morte; Tu, infinito, com nós finitos!” (Santa Catarina de Sena).
 
 Ó dulcíssimo Verbo Encarnado, ó amabilíssimo Menino Jesus, eis-me finalmente aos teus pés: deixa-me contemplar, permite que eu me deleite na tua beleza, na tua
 bondade, na tua caridade imensa! O teu amor infinito se

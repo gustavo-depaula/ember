@@ -23,7 +23,6 @@ caridade de Deus pelo homem: “Nisto se manifestou a
 caridade de Deus para conosco: que Deus enviou o seu Filho
 unigênito ao mundo, para que por meio dele tenhamos
 vida. Nisto está a caridade... em que Ele primeiro nos
-
 amou e enviou o seu Filho como propiciação
 pelos nossos pecados” (1 Jo. 4, 9 e 10). Depois de ter dado
 ao homem a vida natural, depois de tê-lo destinado à vida

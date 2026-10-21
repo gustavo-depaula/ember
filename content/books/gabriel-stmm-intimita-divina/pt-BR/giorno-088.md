@@ -84,8 +84,7 @@ que ninguém pode ser continente, se Deus não o concede;
 
 mas já é sabedoria saber de quem nos vem este dom.
 A continência nos recolhe e nos reduz àquela unidade,
-da qual nos afastamos ao nos darmos a muitas coisas. Ama-
-te menos, de fato, quem, juntamente contigo, ama alguma outra
+da qual nos afastamos ao nos darmos a muitas coisas. Ama-te menos, de fato, quem, juntamente contigo, ama alguma outra
 coisa não por ti. Ó amor, que sempre ardes e nunca te extingues, ó caridade, ó meu Deus, acende-me. Tu me mandas a
 continência: dá o que mandas e manda o que
 queres” (S. Agostinho).

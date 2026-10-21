@@ -29,8 +29,6 @@ God. "For what does it profit a man to gain the whole world,
 if he then loses his soul?" (Mt. 16, 26). And for one who possesses
 little and lives in material straits, the spirit of poverty
 requires accepting serenely and with patience one's own
-
-
 conditions, seeing in them an invitation to imitate more closely
 the life of poor Jesus.
 Moreover, reflect that the divine Master, in saying "sell
@@ -86,7 +84,6 @@ which is so noble that it has You, most high God, for servant"
 O Lord, heal me, I beg You, from my excessive
 anxieties for life's necessities. In the silence of
 my heart I seem to hear resounding Your gentle rebuke: "It is the Gentiles who seek all these things, while your
-
 Father knows that you need all these things"
 (Mt. 6, 32).
 
@@ -112,8 +109,6 @@ Your intimacy, union with You.
 
 To St. Catherine of Siena one day You said: "You
 think of Me and I will think of you." Deign to repeat this word also
-
-
 to me and fix it in my mind and in my
 heart, so that no care for material things may be capable
 of distracting me from You.

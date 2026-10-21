@@ -15,15 +15,11 @@ e, ainda que em certos encontros saibas comportar-te humildemente, trata-se mais
 de humildade real e profunda. A humildade é verdade e por isso te diz
 que, não tendo de teu senão o pecado, por direito de
 justiça não te cabe senão humilhação e desprezo. Se
-
-
 estivesses realmente convencido disso, acharias muito justo
 que todos te humilhassem, te tratassem mal, te desprezassem.
 E de fato, que honras e considerações merece aquele que
 ofendeu seu Criador, quando um só pecado, ainda que
 venial, é mais deplorável e merece maior desprezo que
-
-
 qualquer estado de miséria, de pobreza, de ignobilidade terrena?
 
 Profundamente persuadidos disso, os Santos nunca
@@ -125,6 +121,4 @@ quero sorver até a última gota toda humilhação.
 Mas ajuda-me Tu,
 ó Jesus dulcíssimo que quiseste conhecer a humilhação,
 porque sem ti sei apenas faltar aos meus
-
-
 propósitos.

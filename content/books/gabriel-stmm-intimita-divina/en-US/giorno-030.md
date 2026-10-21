@@ -57,7 +57,6 @@ exalted and honored by your God, of not knowing that God,
 by His inestimable charity, descended from the height of
 Deity down to the lowliness of the mire of your humanity. O
 inestimable love, O inestimable love, what do you say to this,
-
 my soul? I say to You, eternal Father, I beseech You, most benign God, that You communicate us, and all Your servants, with the fire of Your charity" (St. Catherine of Siena).
 
 O God, how much I need to know Your infinite love! To know in order to believe, to believe in order to love, to love in order to give myself totally to You, without reserve, just as You gave Yourself entirely to me.

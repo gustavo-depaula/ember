@@ -15,15 +15,11 @@ and even if in certain encounters you know how to behave humbly, it is more supe
 real and profound humility. Humility is truth and therefore tells you
 that, having of your own only sin, by right of
 justice what belongs to you is only humiliation and contempt. If
-
-
 you were really convinced of this, you would find very just
 that all should humble you, treat you badly, despise you.
 For in fact, what honors and regards does one deserve who has
 offended his Creator, when one single sin, even
 venial, is more deplorable and merits greater contempt than
-
-
 any state of misery, poverty, or earthly ignobility?
 
 Deeply persuaded of this, the Saints never
@@ -121,6 +117,4 @@ want to drink to the last drop every humiliation.
 But help me Yourself,
 O sweetest Jesus who willed to know humiliation,
 because without You I know only how to fail in my
-
-
 resolutions.

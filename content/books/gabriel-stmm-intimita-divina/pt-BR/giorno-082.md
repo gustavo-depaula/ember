@@ -6,8 +6,6 @@
 
 **1** — Jesus disse: “o reino dos céus é semelhante
 a um mercador que anda em busca de belas pérolas; e, tendo encontrado
-
-
 uma pérola de grande preço, vai, vende quanto tem e
 a compra” (Mt. 13, 45). A pérola de grande preço é a união
 com Deus; se queres adquiri-la, deves vender tudo
@@ -78,8 +76,6 @@ vida neste mundo, conservá-la-á para a vida eterna”
 
 Ó Senhor, à luz dos teus ensinamentos, também o
 caminho áspero e duro do despojamento total torna-se amável
-
-
 e tudo me convida a empreendê-lo com coragem. Contudo,
 Tu sabes que sou fraco e que por natureza fujo espontaneamente de tudo o que é difícil, fatigante, desconsolador; Tu sabes que minha natureza tende sempre ao mínimo
 esforço, ao que é mais fácil, mais agradável, mais confortante. Mas teu amor, ó meu Deus, é onipotente e Tu,

@@ -32,7 +32,6 @@ cansativa que impõe, seja pelos contínuos contatos com pessoas de mentalidade,
 e hábitos diferentes, seja porque pode expor a
 zombarias, insucessos etc. O apóstolo deve ir
 ao encontro de tudo isso com coração generoso, convencido de que
-
 justamente do sacrifício, abraçado em união com Jesus crucificado, brotará a força fecundadora das suas obras. Além disso,
 o apostolado externo, para ser verdadeiramente sobrenatural,
 exige retidão de intenção: isto é, as obras devem ser realizadas só para a glória de Deus, de modo

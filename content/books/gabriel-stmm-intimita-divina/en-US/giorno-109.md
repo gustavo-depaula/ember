@@ -17,8 +17,6 @@ to raise him up" (Eccl. 4, 10). Woe to the man who relies his
 footsteps on his own strength: when he falls he will not have at his disposal God's strength to raise him,
 and so he will remain in his misery, dejected and confused.
 As you must not formulate good resolutions without counting on God's help to keep them, so you must not consider your falls without considering at the same time divine
-
-
 mercy, because as God is the only one who can help you
 succeed in good, so He is the only one who can help you rise
 from evil.

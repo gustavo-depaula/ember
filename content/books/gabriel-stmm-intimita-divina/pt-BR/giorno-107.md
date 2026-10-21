@@ -61,8 +61,6 @@ acompanhe na ação até seu cumprimento.
 O grande teólogo, que estudou a fundo a doutrina
 católica, para pôr em prática seu mínimo ponto, como
 para produzir um só ato de amor de Deus, tem absoluta
-
-
 necessidade, não menos que o camponês que conhece só seu
 catecismo, do socorro da graça atual. Do mesmo modo
 o santo, que recebeu tantos favores e luzes divinas,
@@ -101,8 +99,6 @@ para ser admitida às núpcias da vida eterna” (S. Catarina de Sena).
 a fundo! E que me persuada de verdade de que não sou nada e que
 Tu és tudo. E que não me considere nada além daquele
 nada que sou. E que jamais faça nada por mim,
-
-
 mas tudo por ti. E que nenhuma criatura pense mais em mim,
 nem fale mais de mim, nem faça nada por mim, nem me dê mais
 nada, mas tudo faça por ti, tudo dê a ti. E que meu
@@ -114,11 +110,7 @@ Descobre-me, ó Senhor, meu nada, e descobre-o de modo
 que eu não só o compreenda, mas tenha dele convicção
 prática, profunda. Tu sabes quanto isso é difícil à minha
 natureza soberba! Se o intelecto não pode resistir à evidência
-
-
 da verdade e deve necessariamente admitir que
-
-
 nada sou, nada tenho e nada posso sem ti, no ato prático meu eu procura sempre atribuir-se, arrogar-se
 alguma coisa e comprazer-se dela como se fosse coisa
 sua. Ajuda-me, ó Senhor, a debelar este orgulho, porque Tu o vês,
@@ -132,9 +124,5 @@ mais te comprazerás em ser meu Tudo. Tu o tudo,
 e eu o nada; Tu Aquele que é, e eu aquele que não é!
 Glorifica-te, pois, no meu nada! Neste nada triunfe
 teu amor e tua graça, mas triunfe também tua misericórdia,
-
-
 porque sou um nada que pecou. Peccavi,
-
-
 Domine, miserere mei!

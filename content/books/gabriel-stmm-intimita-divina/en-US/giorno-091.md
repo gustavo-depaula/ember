@@ -20,8 +20,6 @@ dismayed them, scandalized them.
 
 For those who dream only of prosperity and earthly glory,
 the language of the cross is incomprehensible. For those who
-
-
 have a material view of things, it is very hard
 to understand the spiritual meaning and especially the
 meaning of suffering. St. Paul too said that Christ crucified was "a stumbling block to Jews and folly to Gentiles"
@@ -58,8 +56,6 @@ The world often marvels at the sufferings of the good
 and, instead of encouraging them in their recourse to God, seeks to
 draw them away by instilling distrust and false fears. Our very
 passions, our innate tendency to enjoy, often cry out
-
-
 within us and, under a thousand pretexts, would like to keep us from following
 Jesus crucified. Let us remain firm in our faith like the
 poor blind man, who, without worrying about the crowd that
@@ -84,15 +80,9 @@ if I want to inherit Your kingdom! It is not by rest,
 delights, honors, and riches that one gains
 that kingdom which You purchased with so much blood. For
 the love of God, open your eyes, you great ones of the world, and think
-
-
 that the true knights of Jesus Christ, the princes of His
-
-
 Church, like St. Peter and St. Paul, certainly did not follow
 the road you follow! Do you perhaps believe that for
-
-
 you there must be another way? Do not think it" (TG.
 Fd. 10, 11).
 

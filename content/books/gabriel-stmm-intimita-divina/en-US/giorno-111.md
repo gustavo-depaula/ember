@@ -7,8 +7,6 @@
 **1** — Only once did Jesus expressly say:
 "learn from Me," and He said it precisely with regard to humility: "Learn from Me, for I am meek and humble of
 heart" (Mt. 11, 29). Knowing well how difficult the practice of true humility would be for our proud nature,
-
-
 it seems He wanted thus to give us a particular encouragement. His example, His unheard-of
 humiliations, which made Him "the reproach of all and
 the outcast of the people" (Ps. 21, 7), which for us "made
@@ -36,8 +34,7 @@ miserableness; know how to recognize the good in you as pure
 gift of God, never making yourself its master.
 
 
-**2** — Humility of heart is a virtue at once difficult and easy: difficult, because so contrary to pride which al-
-ways pushes us to exalt ourselves; easy, because we do not need to go far to seek its motives, but have them
+**2** — Humility of heart is a virtue at once difficult and easy: difficult, because so contrary to pride which always pushes us to exalt ourselves; easy, because we do not need to go far to seek its motives, but have them
 - and in abundance - in ourselves, in our
 miserableness. Nevertheless, it is not enough to be miserable to be
 humble, but humble is only he who sincerely recognizes his own
@@ -71,11 +68,7 @@ of yourself that you will no longer know how to prefer yourself to anyone, but a
 esteem, respect, consideration, and thus you will remain at peace,
 never being disturbed either by desire to surpass others,
 or by humiliations you may receive. Interior peace
-
-
 is fruit of humility; indeed Jesus said: "Learn
-
-
 from Me for I am meek and humble of heart, and you shall find rest - requiem - for your souls" (Mt. 11, 29).
 
 ### Colloquy
@@ -85,8 +78,6 @@ O Jesus, meek and humble of heart, heal me of pride,
 
 make my heart humble Yourself, infuse in me a little
 of Your most profound humility. For You know better
-
-
 than I: how could I, with my proud will, make my heart humble? A poor man cannot give riches to himself, a proud man cannot give humility to his
 heart. Only Your infinite goodness can remedy
 pride.
@@ -101,11 +92,7 @@ to consume it with Your heat. No one, therefore, can acquire humility unless he 
 
 "O Word, You humbled Yourself unto death on the cross,
 even to willing to be treated as the least of men by
-
-
 sinners, by demons, by the Holy Spirit, and by Your eternal
-
-
 Father. And all this to glorify the Father, to repair
 the offense done to the Father by our pride, to confound
 and destroy our arrogance, to teach us to detest

@@ -85,8 +85,6 @@ glory in my infirmities, while my pride
 tends continually to glory in what is not mine,
 but pure gift of Yours. My God, how true it is that holiness follows the path opposite to nature! Give me strength to undertake this path courageously, to go
 into You, O Lord, for I know You are always ready to sustain the weak who has recourse to You and entrusts himself to You; because I know that, if my pride is great, Your mercy is
-
-
 infinite and Your omnipotence invincible; because I know that
 if "someone is exhausted and in need of help, lacking
 strength and abounding in misery, as soon as Your eye

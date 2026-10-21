@@ -32,8 +32,6 @@ Deus. “Que aproveita ao homem ganhar o mundo inteiro,
 se depois perde a alma?” (Mt. 16, 26). E a quem possui
 pouco e vive em estreitezas materiais, o espírito de pobreza
 exige aceitar serena e pacientemente as próprias
-
-
 condições, vendo nelas um convite a imitar mais de perto
 a vida de Jesus pobre.
 Além disso, reflete que o divino Mestre, ao dizer “vende
@@ -92,7 +90,6 @@ o qual é tão nobre que tem por servo a ti, sumo Deus”
 inquietações pelas necessidades da vida. No silêncio do
 meu coração parece-me ouvir ressoar tua doce repreensão:
 “São os gentios que buscam tudo isso, enquanto o vosso
-
 Pai sabe que tendes necessidade de todas essas coisas”
 (Mt. 6, 32).
 
@@ -119,8 +116,6 @@ tua intimidade, a união contigo.
 
 A S. Catarina de Sena disseste um dia: “Tu
 pensa em mim e eu pensarei em ti”. Digna-te repetir também
-
-
 a mim esta palavra e fixá-la na minha mente e no meu
 coração, para que nenhum cuidado com as coisas materiais seja capaz
 de distrair-me de ti.

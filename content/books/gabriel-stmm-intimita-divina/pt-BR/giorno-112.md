@@ -12,8 +12,7 @@ nos apresentou Jesus em luta contra o demônio, mas,
 enquanto então o apresentava em humilde atitude de
 defesa diante das tentações do maligno, hoje o
 mostra em atitude de ataque e de clamorosa vitória.
-Eis um pobre possesso, diz o Evangelho (Lc. 11, 14-
-28), que “era mudo”; Jesus, com um só ato de sua
+Eis um pobre possesso, diz o Evangelho (Lc. 11, 14-28), que “era mudo”; Jesus, com um só ato de sua
 força divina, “expulsou o demônio; e quando ele saiu,
 o mudo falou e as turbas ficaram cheias de assombro”.
 Mas o inimigo, quase para refazer-se da derrota, insinua nas
@@ -36,8 +35,6 @@ para procurar arrastar para o mal os indivíduos e a sociedade, Jesus, morrendo 
 da nossa vitória. Este preço está à nossa disposição:
 com a virtude de Cristo, com a graça de Cristo, todo
 cristão tem o poder de vencer qualquer ataque do inimigo. Não nos deixemos portanto atemorizar diante dos triunfos
-
-
 do mal: não passam de triunfos aparentes, porque Jesus é
 o mais forte, o único e último vencedor.
 
@@ -77,8 +74,6 @@ do mal é vigiar na oração, é encher o
 coração de Deus, para que não haja mais lugar para o inimigo
 de Deus. E não há mais lugar quando a alma está totalmente
 unida a Deus mediante a aceitação e observância da sua
-
-
 palavra, da sua vontade. Com efeito, à mulher que louva sua
 Mãe, Jesus responde: “Antes, bem-aventurados os que ouvem
 a palavra de Deus e a observam”. Sim, Maria Santíssima é bem-aventurada

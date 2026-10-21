@@ -23,7 +23,6 @@ festas natalinas, se sente a necessidade de repetir este canto
 muito mais com o coração do que com os lábios. A alma se sente
 mais do que nunca impelida a louvar o seu Deus, tão imenso,
 tão grande, tão belo, mas também tão bom, tão misericordioso,
-
 tão cheio de caridade. O canto não basta: a alma quereria
 transformar-se numa incessante “louvor da sua glória”.
 

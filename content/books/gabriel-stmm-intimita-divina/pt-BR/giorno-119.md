@@ -122,6 +122,5 @@ vida do corpo, vida terrena com todas as suas necessidades,
 com todos os seus trabalhos; vida do espírito com todas as suas
 exigências, suas ansiedades, com toda sua fome do infinito. Tu
 só podes preencher a capacidade do meu coração; Tu só podes
-
 tornar-me feliz; Tu só podes realizar meu ideal de
 santidade, de união contigo.

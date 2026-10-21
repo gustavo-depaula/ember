@@ -43,8 +43,7 @@ da divina caridade, a sua vida espiritual se torna plena e madura.
 Não podemos entender melhor o amor infinito do
 nosso Deus do que aproximando-nos da pobre manjedoura onde
 Ele jaz, feito carne por nós. “As virtudes e os atributos
-divinos se descobrem em Deus por meio dos mistérios do Homem-
-Deus”, ensina São João da Cruz (cf. C. 37, 2), e entre
+divinos se descobrem em Deus por meio dos mistérios do Homem-Deus”, ensina São João da Cruz (cf. C. 37, 2), e entre
 esses atributos o primeiro é sempre o da caridade, que
 constitui o próprio ser divino. Da contemplação
 amorosa e silenciosa de Jesus Menino nasce facilmente em nós
@@ -75,7 +74,6 @@ exaltada e honrada por teu Deus, de não conhecer que Deus,
 pela sua inestimável caridade, desceu da altura da
 Deidade até à baixeza do lodo da tua humanidade. Ó
 amor inestimável, ó amor inestimável, que dizes tu,
-
 alma minha? Digo a ti, Pai eterno, suplico a ti, benigníssimo Deus, que comuniques a nós e a todos os teus servos o
 fogo da tua caridade” (Santa Catarina de Sena).
 

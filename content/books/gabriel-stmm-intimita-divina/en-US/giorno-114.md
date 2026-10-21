@@ -78,8 +78,6 @@ and in placing one's glory in contempt of oneself. Oh,
 how I long that my face, like Yours, be hidden from
 all glances, so that no one here below may recognize me!
 You wanted neither beauty nor splendor, but Your
-
-
 Face was as it were hidden and men made no
 account of it. I too desire to be, like You, without
 splendor or beauty, unknown to every creature.
@@ -90,8 +88,6 @@ Then the heart is satisfied and one feels light: may no one think
 of me, may my existence be by all, so to speak, ignored;
 I desire only one thing: to be forgotten and counted for nothing. Yes, I desire to be forgotten,
 and not only by creatures, but also by myself; I would wish
-
-
 to be so reduced to nothing as to have no
 desire at all. Your glory, O my Jesus, that is all! mine,
 I abandon to You" (cf. T.B.G. St. 7; NV.; Lt. 84 and 81).
@@ -105,8 +101,6 @@ an energetic cure for my innate desire to assert myself.
 Lord, I confess it, and You already know it, I am far
 from desiring, as the saints did, the forgetfulness,
 the disregard of creatures, I who often spontaneously use
-
-
 little devices to be noticed, to put myself on display.
 
 But You know it, my Jesus, that I am sick, and You know

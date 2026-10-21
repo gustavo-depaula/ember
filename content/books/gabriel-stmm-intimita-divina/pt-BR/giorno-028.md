@@ -34,7 +34,6 @@ obedeceram com prontidão e simplicidade. Quem manda
 mandado do imperador pagão a vontade de Deus. E vão,
 confiantes na Providência; Deus sabe, Deus proverá:
 “para quem ama a Deus tudo coopera para o bem” (Rom. 8, 28). Em
-
 Belém não há lugar para eles, e não lhes resta senão abrigar-se numa gruta do campo. A miséria daquele
 refúgio de animais não os assusta, não os escandaliza: sabem que o Menino que deve nascer é o Filho de Deus, mas
 sabem também que as obras de Deus são tão diferentes das

@@ -7,7 +7,6 @@
 
 **1** — "Gather the nations; announce to the peoples and say: Behold, God, our Savior, is coming" (BR).
 The message grows ever more pressing: in a few days
-
 the Word of God made flesh will show Himself to the world. Therefore, preparations must be hastened, a heart worthy
 of Him must be prepared.
 
@@ -42,7 +41,6 @@ O immense, almighty, and eternal God, how could You
 give us greater proof of Your infinite love for us,
 Your poor creatures, than by giving us the Word,
 Your Only-Begotten? For
-
 our sake You willed to clothe with human flesh, flesh like
 that of sin, Him who is eternal splendor, the perfect image
 of Your substance!
@@ -59,7 +57,6 @@ Your ardent charity, O Father, who in Jesus willed
 to give us a pledge of such tenderness. Love calls for love:
 despite my misery and still being at the beginning, I do
 not want ever to neglect considering this truth and stirring myself to love. When You, O Lord, grant me
-
 the grace to kindle this fire in my heart, everything
 will become easy for me and I will quickly pass to works without
 any fatigue. My God, for the love You have borne us and

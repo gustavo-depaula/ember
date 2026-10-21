@@ -18,8 +18,6 @@ neighbor. To consider yourself as servant in your relations with God
 is not difficult, but to consider yourself servant and behave as such
 in your relations with neighbor is more difficult. More difficult
 still is to let yourself be treated as servant, that is, without regard,
-
-
 without consideration at all, even by one inferior to you.
 And yet Jesus, infinitely superior to all, willed to be
 treated not only as servant, but as slave, and also as
@@ -27,8 +25,6 @@ malefactor.
 As before God humility places you in a place
 of inferiority, of absolute dependence, so before
 neighbor it makes you take "the last place." "Woe to you,
-
-
 who love the first place in synagogues" (Lk. 11, 43),
 Jesus said to the Pharisees condemning the hunt for first
 places, offices and honorable posts; and He added:

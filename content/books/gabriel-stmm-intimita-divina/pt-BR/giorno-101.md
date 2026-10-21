@@ -14,11 +14,7 @@ a Deus.
 Tal espécie de pecados veniais, quando são cometidos
 habitualmente, diminuem a tendência da alma para
 Deus e ao contrário aumentam a tendência para a satisfação
-
-
 egoísta, para as criaturas. E assim, pouco a pouco,
-
-
 a alma perde o fervor, perde a sensibilidade à ofensa de
 Deus e se reduz ao estado de tibieza, caracterizado justamente por certa indiferença para com o pecado venial;
 indiferença que a põe em perigo de ofender Deus
@@ -50,13 +46,9 @@ quereria ceder de modo algum, mas, porque ainda é fraca, no momento da tentaç�
 de surpresa, cai; no entanto, assim que percebe, sente
 dor sincera, logo se arrepende, pede perdão
 ao Senhor, levanta-se e põe-se novamente a caminho. Tais
-
-
 pecados não trazem grande dano à alma, mas são antes indício da sua fraqueza, da sua imaturidade espiritual.
 Aliás, se diante de tais quedas a alma sabe humilhar-se sinceramente, tira delas verdadeiro proveito, e precisamente uma consciência mais profunda da sua miséria,
 que a levará a desconfiar totalmente das próprias forças,
-
-
 para pôr só em Deus toda a sua confiança. Experimentará
 na prática a grande realidade das palavras de Jesus: “Sem
 mim nada podeis fazer” (Jo. 15, 5). Não raramente o
@@ -85,12 +77,9 @@ sempre te tenha sido infiel. Peccavi, Domine, miserere mei.
 és vista por Deus? Sabe que ao seu olhar jamais te
 podes esconder porque nenhuma coisa lhe é oculta... Ó Deus
 eterno, ó piedoso e misericordioso Pai, tem piedade e misericórdia de nós, porque somos cegos e sem nenhuma
-
-
 luz, e principalmente eu, pobre e miserável... Ó Tu,
 verdadeiro sol, entra em minha alma e ilumina-a de ti.
-Expulsa-lhe as trevas e dá-lhe luz; destrói o gelo do amor-
-próprio e infunde o fogo da tua caridade... Peccavi, Domine, miserere mei” (S. Catarina de Sena).
+Expulsa-lhe as trevas e dá-lhe luz; destrói o gelo do amor-próprio e infunde o fogo da tua caridade... Peccavi, Domine, miserere mei” (S. Catarina de Sena).
 
 “Agrade-te, ó Senhor, que eu tema apenas tua
 ofensa, convencendo-me de que me pode vir maior dano

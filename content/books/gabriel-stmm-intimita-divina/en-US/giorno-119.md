@@ -120,6 +120,5 @@ life of the body, earthly life with all its necessities,
 with all its labors; life of the spirit with all its
 demands, its anxieties, with all its hunger for the infinite. You
 alone can fill the capacity of my heart; You alone can
-
 make me happy; You alone can realize my ideal of
 holiness, of union with You.

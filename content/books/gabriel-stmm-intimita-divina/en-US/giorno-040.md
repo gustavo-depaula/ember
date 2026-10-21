@@ -61,7 +61,6 @@ reigns from the cross: He who by His nature was already our
 absolute Master willed to win at so dear a price
 our poor hearts. Let us not resist the sweet violence
 of His infinite love: let us give ourselves entirely to Him, so that
-
 He may reign in our mind, in our will, in
 our hearts.
 

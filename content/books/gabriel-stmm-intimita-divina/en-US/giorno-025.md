@@ -30,7 +30,6 @@ toilsome life it imposes, and because of continual contact with persons of diffe
 and habits, and because it may expose one to
 ridicule, failures, etc. The apostle must face
 all this with a generous heart, convinced that
-
 precisely from sacrifice, embraced in union with Jesus crucified, will spring the fecundating strength of his works. Moreover,
 external apostolate, to be truly supernatural,
 requires purity of intention: that is, works must be done only for the glory of God, in a manner

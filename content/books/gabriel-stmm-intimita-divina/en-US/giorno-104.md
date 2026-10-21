@@ -18,8 +18,6 @@ the graces offered by this sacrament.
 St. Catherine of Siena, and certainly he who does not despise it
 will not approach confession lightly. For this purpose
 it is useful to reflect that absolution is precisely the outpouring of the Precious Blood which, flooding and penetrating the soul,
-
-
 purifies it from sin, restores sanctifying grace if
 it has lost it, and increases it if it already possesses it. This remission of sin and production of grace is the fruit of Christ's action, expressed in the formula the priest
 says in His name: "I absolve you..." At this moment
@@ -49,8 +47,6 @@ then on semi-deliberate ones, even if they were simple imperfections, and denoun
 aspect, but also the interior motive. Although this is not in itself necessary for the validity of confession, it is certain
 that the more the accusation lays bare the root of evil,
 the more the soul will gain from it both for the act of humility accomplished
-
-
 and for the impulse to deeper repentance and to a livelier desire to correct itself, which logically derives
 from considering the very little noble motives on which,
 in general, our faults depend. Moreover, such an accusation will allow the confessor to know better
@@ -59,8 +55,6 @@ direction is connected with confession. But even more
 than about accusation, the soul must concern itself with sorrow for
 its sins insofar as they are offense against God, infinite Goodness;
 that it be sorrow ex amore, proceeding from love,
-
-
 that is, repentance of the child who, more than thinking
 of his shame and deserved punishments, grieves over the displeasure caused to a Father who loves him so much and whose
 love he ought to return. Sorrow is so necessary
@@ -92,11 +86,7 @@ will not be worked in me when, at the moment of absolution,
 You pour it out with such abundance upon my poor
 soul? O Jesus, rekindle my faith and make me penetrate deeply the immense value of the sacrament of
 Your Blood. It is only Your Blood that washes me from sins, that purifies me from impurities, that heals and vivifies my soul. Oh, grant that this salutary laver
-
-
 may penetrate all my being and renew it all in Your
-
-
 grace, in Your love!
 
 By the merits of Your Passion, grant me, O Lord,

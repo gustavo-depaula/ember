@@ -5,12 +5,9 @@
 ### Meditation
 
 **1** — To enter the fullness of hidden life, it is not
-enough to hide from others' eyes; one must hide also from oneself, that is, forget oneself, avoiding every self-
-centered concern and return to self. One can be concerned with oneself from a material, coarse point of view, but one can be so
+enough to hide from others' eyes; one must hide also from oneself, that is, forget oneself, avoiding every self-centered concern and return to self. One can be concerned with oneself from a material, coarse point of view, but one can be so
 also from a spiritual point of view. To be too preoccupied
 with one's own spiritual progress, with consolations God
-
-
 grants or does not grant, with one's state of dryness, etc.,
 is often a sign of subtle spiritual selfishness,
 is a sign of a soul more occupied with itself than with God.
@@ -33,11 +30,7 @@ immolation. But to avoid returning upon self,
 the soul must necessarily polarize elsewhere its
 aspirations; therefore the negative exercise of no longer thinking
 of self must go hand in hand with the positive one
-
-
 of centering itself in Christ, of "burying in Christ" every
-
-
 thought, every concern, even spiritual, about self.
 
 No one will succeed in turning concern away from self
@@ -64,8 +57,6 @@ with one work, however small, done in secret and without desire that it be known
 because one who with pure love works for the Lord,
 not only does not care at all that his actions be seen by men,
 but does not even do them
-
-
 so that God Himself may know them. So that if, by hypothesis,
 the Lord should never know them, he would not cease to render Him the same services, with the same joy and purity of
 love" (S.C. I, 20). The same delicate thought we find
@@ -89,8 +80,6 @@ to please God alone.
 
 O my God, teach me to forget myself, to hide in You
 every concern, every excessive care for myself. Why
-
-
 do I want to serve You, O Lord? Why do I want to love You
 and advance on the way of holiness? Perhaps for my own satisfaction,
 for my own interest or vain complacency? Oh, how paltry

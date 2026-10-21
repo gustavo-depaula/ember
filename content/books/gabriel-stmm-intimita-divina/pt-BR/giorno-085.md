@@ -6,8 +6,6 @@
 
 **1** — Um dia um escriba aproximou-se de Jesus e lhe
 disse: “Mestre, eu te seguirei aonde quer que fores”. E
-
-
 Jesus lhe respondeu: “As raposas têm tocas e as aves
 do céu têm ninhos, mas o Filho do Homem não tem
 onde reclinar a cabeça” (Mt. 8, 19-20).
@@ -39,12 +37,9 @@ que com essas palavras Jesus não quer falar somente de quem
 à salvação eterna e à santidade, mas tornam-se quando
 o homem se faz escravo delas. E para ser escravo dos
 bens terrenos não é preciso possuir muito; basta possuir
-
-
 “com apego” alguma coisa, mesmo de pouco ou nenhum
 valor. Os Apóstolos eram pobres e possuíam pouco,
-contudo Jesus, quando os convidou a segui-lo, pediu-
-lhes que abandonassem até aquele pouco. O que realmente libera a alma da escravidão dos bens terrenos não é tanto
+contudo Jesus, quando os convidou a segui-lo, pediu-lhes que abandonassem até aquele pouco. O que realmente libera a alma da escravidão dos bens terrenos não é tanto
 a pobreza material, mas a “pobreza de espírito”, isto é, a pobreza
 dos afetos, dos apegos, mesmo os menores. S.
 João da Cruz ensina que essa pobreza é “noite para a alma”,
@@ -79,8 +74,6 @@ a posse das mesmas traz grandes temores; sua
 perda causa grave dor. Quem as ama não pode amar-te,
 ó Senhor, mas com elas, caducas, cai em perdição; e
 quem nelas se apoia com amor, com elas desfalece
-
-
 na tristeza. Quem as encontra perde a paz; enquanto vigia,
 medita no modo de aumentá-las; se dorme, sonha com ladrões;
 durante o dia é ansioso e aflito; durante a noite
@@ -89,8 +82,7 @@ teme, e assim é sempre miserável” (Venerável R. Jordão).
 Ó Senhor, quão infeliz eu seria, se o amor aos bens
 terrenos me impedisse de seguir-te mais de perto! Ó como é
 diferente a minha vida da tua: quanta diversidade de gostos,
-de desejos! Tu, Rei do céu e da terra, que podias cercar-
-te de esplendor, porque toda riqueza foi por ti criada,
+de desejos! Tu, Rei do céu e da terra, que podias cercar-te de esplendor, porque toda riqueza foi por ti criada,
 que podias ter legiões de servos aos teus acenos,
 não quiseste nada e escolheste como tua primeira morada
 um estábulo de animais e, como última, uma dura cruz.

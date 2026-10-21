@@ -11,7 +11,6 @@ God sent to us under the likeness of sinful man; this is the
 characteristic of this solemnity. To transform us sinners into children of God, the Father's Only-Begotten willed to transform Himself into one of us, even to taking our flesh of sin and undergoing all its most humiliating consequences. The law of circumcision could in no way touch Jesus, the Son of God,
 the Holy One par excellence; but Jesus
 willed to submit to it as the last son of Abraham, because,
-
 as St. Paul teaches, "He had to be made in all things like His brothers... so that the sins of the people might be expiated" (Heb. 2, 17). The rite, perhaps performed by Joseph in the intimacy of the family, made the first drops of His precious Blood flow from Jesus' immaculate flesh.
 
 Eight days after His birth, He thus begins His bloody mission as Redeemer: He does not speak yet, He is not known by the world, and already He sheds His Blood for the world's salvation.
@@ -41,7 +40,6 @@ docilely to God's will, whatever it may be. None
 of us knows what awaits us in this new year; but God
 knows: His will has already prepared our path,
 every detail of our life is already decided in His
-
 mind. Let us dispose ourselves to accept, to embrace with courage and readiness every divine will, every divine permission,
 certain that only in God's holy and sanctifying will
 shall we find our peace and our sanctification.
@@ -74,7 +72,6 @@ if I do not accept humbling myself with You, most humble!
 Teach me also to obey, to submit myself to the will of the heavenly Father, whatever it may be and whatever sacrifice it imposes on me. "I consider this new
 year as a blank page that Your Father presents to me and on which He will write day by day what He has disposed in His
 divine good pleasure; but already now at the top of the page I
-
 write with total trust: Domine, fac de me sicut vis;
 Lord, do with me what You will. And at the bottom of the page I already place my Amen, so be it, to all dispositions of Your divine will. Yes, O Lord, yes to all
 joys, to all sorrows, to all graces, to all labors

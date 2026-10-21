@@ -101,11 +101,8 @@ uma tua cópia perfeita e, já que tua vida não foi senão
 vida escondida de humilhação, de amor,
 de sacrifício, assim doravante deve ser a minha; por isso,
 agora para sempre entendo encerrar-me no teu amabilíssimo
-
-
 Coração como num deserto, para aí fazer em ti, contigo,
 por ti, esta vida escondida de amor e de sacrifício... E
-
 visto que me inspiras ao coração fazer-me, quanto possível,
 em tudo semelhante a ti, a isso tenderão meus cuidados,
 e particularmente te imitarei naquelas virtudes que tanto agradam ao teu amabilíssimo Coração: humildade... e pureza de intenção,
@@ -130,11 +127,7 @@ para torná-la participante de tua vida divina, vida de íntimas
 relações com a Trindade. Esta, sim, é vida verdadeira,
 vida duradoura, vida eterna! E a ela aspiro,
 não por meus méritos, mas pelos méritos da tua Paixão. Ó Jesus,
-
-
 faze que eu procure minha alegria, meu bem, somente nesta
-
-
 participação da tua vida interior, e que nela eu ponha toda a minha glória.
 
 E toda a minha glória esteja no íntimo, no segredo da

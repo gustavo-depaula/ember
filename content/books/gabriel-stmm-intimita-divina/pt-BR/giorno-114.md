@@ -82,8 +82,6 @@ e em pôr a própria glória no desprezo de si mesmo. Oh,
 como desejo que meu rosto, à semelhança do teu, esteja oculto a
 todos os olhares, de modo que ninguém cá embaixo me reconheça!
 Tu não quiseste nem beleza, nem esplendor, mas teu
-
-
 Rosto estava como que escondido e os homens não fizeram
 dele conta alguma. Também eu desejo ser, como tu, sem
 esplendor nem beleza, desconhecida de toda criatura.
@@ -94,8 +92,6 @@ Então o coração está satisfeito e sente-se leve: que ninguém pense
 em mim, que minha existência seja por todos, por assim dizer, ignorada;
 não desejo senão uma coisa: ser esquecida e contada por nada. Sim, desejo ser esquecida,
 e não só pelas criaturas, mas também por mim mesma; eu gostaria
-
-
 de ser tão reduzida a nada que não tivesse mais nenhum
 desejo. Tua glória, ó meu Jesus, eis tudo! a minha
 te abandono” (cf. T.B.G. St. 7; NV.; Lt. 84 e 81).
@@ -109,8 +105,6 @@ um remédio enérgico ao meu inato desejo de fazer-me valer.
 Senhor, confesso-o e Tu já o sabes, estou bem longe
 de desejar, como os santos, o esquecimento,
 a desconsideração das criaturas, eu que muitas vezes espontaneamente me valho de
-
-
 pequenas manobras para fazer-me notar, para pôr-me em evidência.
 
 Mas Tu o sabes, meu Jesus, que estou doente, e Tu o sabes

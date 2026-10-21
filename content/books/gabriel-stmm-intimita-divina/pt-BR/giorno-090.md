@@ -7,8 +7,6 @@
 **1** — O coração da pessoa consagrada a Deus deve ser
 “um jardim fechado, uma fonte selada” (Ct. 4, 12),
 isto é, não deve admitir outro afeto que não seja o
-
-
 de Deus ou em ordem a Deus. Isso, evidentemente, não exclui
 nem o amor ao próximo em geral, nem o devido afeto
 para com os próprios familiares, mas exclui tudo o que é amor
@@ -96,8 +94,6 @@ Do contrário, com um coração como o meu, eu me deixaria prender e cortar as a
 
 Ó Senhor, ilumina meu coração em suas dobras mais escondidas,
 em seus recantos mais íntimos, e se nele encontras
-
-
 algum fio de afeto que não seja para ti, mostra-mo e
 dá-me a graça de rompê-lo para sempre.
 

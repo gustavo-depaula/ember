@@ -7,8 +7,6 @@
 **1** — Uma só vez Jesus disse expressamente:
 “aprendei de mim”, e o disse precisamente a propósito da humildade: “Aprendei de mim, que sou manso e humilde de
 coração” (Mt. 11, 29). Sabendo bem quão difícil seria para nossa natureza orgulhosa a prática da verdadeira
-
-
 humildade, parece que Ele quis dar-nos assim um particular encorajamento. Seu exemplo, suas inauditas
 humilhações, que o tornaram “opróbrio de todos e
 desprezo do povo” (Sl. 21, 7), que por nós o “fizeram
@@ -36,8 +34,7 @@ miséria; saibas reconhecer o bem que há em ti como puro
 dom de Deus, sem jamais fazer-te dono dele.
 
 
-**2** — A humildade do coração é virtude difícil e fácil ao mesmo tempo: difícil, porque tão contrária ao orgulho que sem-
-pre nos impele a exaltar-nos; fácil, porque não temos necessidade de ir longe buscar-lhe os motivos, mas os temos
+**2** — A humildade do coração é virtude difícil e fácil ao mesmo tempo: difícil, porque tão contrária ao orgulho que sempre nos impele a exaltar-nos; fácil, porque não temos necessidade de ir longe buscar-lhe os motivos, mas os temos
 - e em abundância - em nós mesmos, na nossa
 miséria. Contudo, não basta ser miserável para ser
 humilde, mas é humilde só quem reconhece sinceramente a própria
@@ -71,12 +68,7 @@ terás por melhores que tu e de ti mais dignos
 de estima, de respeito, de consideração e assim ficarás em paz,
 não vindo jamais a ser perturbado nem pelo desejo de superar os
 outros, nem pelas humilhações que possas receber. A paz
-
-
-interior é fruto da humildade; de fato Jesus disse: “Apren-
-
-
-dei de mim, que sou manso e humilde de coração, e encontrareis repouso - requiem - para as vossas almas” (Mt. 11, 29).
+interior é fruto da humildade; de fato Jesus disse: “Aprendei de mim, que sou manso e humilde de coração, e encontrareis repouso - requiem - para as vossas almas” (Mt. 11, 29).
 
 ### Colóquio
 
@@ -85,8 +77,6 @@ dei de mim, que sou manso e humilde de coração, e encontrareis repouso - requi
 
 torna Tu humilde meu coração, infunde em mim um pouco
 da tua profundíssima humildade. Porque Tu sabes melhor
-
-
 que eu: como poderia eu, com minha vontade soberba, tornar humilde meu coração? Não pode um pobre dar riquezas a si mesmo, não pode um soberbo dar humildade ao seu
 coração. Só tua bondade infinita pode dar remédio à
 soberba.
@@ -104,11 +94,7 @@ de' Pazzi).
 
 “Ó Verbo, humilhaste-te até a morte de cruz,
 até querer ser tratado como o último dos homens pelos
-
-
 pecadores, pelos demônios, pelo Espírito Santo e por teu eterno
-
-
 Pai. E tudo isso para glorificar o Pai, para reparar
 a ofensa feita ao Pai por nosso orgulho, para confundir
 e destruir nossa arrogância, para ensinar-nos a
