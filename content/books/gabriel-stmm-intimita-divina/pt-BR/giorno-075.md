@@ -22,6 +22,6 @@ A escolha de Deus é absolutamente livre e não pode ser determinada nem pelos m
 
 “Ó doce Esposo, continuamente quero pedir-te esta graça: que todas as almas por ti eleitas tenham luz e perfeita cognição de seu estado e de bom coração renunciem a si mesmas para dar-se ao teu serviço.
 
-“Oh, quanto é necessário fazer-te esta súplica, meu Senhor! Oh, quanto é necessário que Tu concedas esta graça, para que teus eleitos te sirvam com perfeição!” (S. M. Madalena de' Pazzi).
+“Oh, quanto é necessário fazer-te esta súplica, meu Senhor! Oh, quanto é necessário que Tu concedas esta graça, para que teus eleitos te sirvam com perfeição!” (S. M. Madalena de’ Pazzi).
 
 “Venho, venho a ti, Jesus amantíssimo, que amei, que busquei, que sempre desejei. Venho por tua doçura, por tua piedade, por tua caridade; venho com todo o coração, com toda a alma, com todas as forças. Sigo-te, porque me chamaste. Não queiras mortificar-me, mas age comigo segundo tua mansidão e segundo a amplitude da tua misericórdia” (S. Gertrudes).

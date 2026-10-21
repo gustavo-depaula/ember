@@ -26,9 +26,9 @@ Enthusiasm and good will are not enough. There must be robustness of interior li
 
 The urgency of apostolate must be met first of all by intensifying the formation of those who dedicate themselves to it, because only souls anchored in God by an intense interior life will be capable of sustaining the sometimes overwhelming momentum of external activity and of vivifying that activity with the flame of love.
 
-«One perfect man,» says St. Teresa of Jesus, «does much more than a great number of imperfect ones» (*Way of Perfection*). It is therefore of the highest importance that those who give themselves to apostolate be seriously set on the way to perfection, toward holiness. Only thus will they be able to give God to souls and bring souls to God.
+“One perfect man,” says St. Teresa of Jesus, “does much more than a great number of imperfect ones” (*Way of Perfection*). It is therefore of the highest importance that those who give themselves to apostolate be seriously set on the way to perfection, toward holiness. Only thus will they be able to give God to souls and bring souls to God.
 
-The whole history of the Church is a practical demonstration of this principle: «One alone was St. Paul, and how many he drew!... If all Christians were like St. Paul, how many worlds they could convert!» (St. John Chrysostom). The holy Curé of Ars had very few human resources, yet he converted an immense number of souls precisely by the power of his holiness, his love, and his union with God.
+The whole history of the Church is a practical demonstration of this principle: “One alone was St. Paul, and how many he drew!... If all Christians were like St. Paul, how many worlds they could convert!” (St. John Chrysostom). The holy Curé of Ars had very few human resources, yet he converted an immense number of souls precisely by the power of his holiness, his love, and his union with God.
 
 The pressing demands of the external apostolate highlight more than ever the need for well-formed apostles, for apostles of profound interior life, for holy apostles. Therefore, even when the period of formation has ended, one must always remain vigilant lest external activity in any way diminish interior life.
 
@@ -36,12 +36,12 @@ One must always maintain balance between prayer and work so that the apostle doe
 
 ### Colloquy
 
-«O Lord, I greatly desire that, since You have so many enemies and so few friends, these at least may be devoted to You. Therefore I resolve to do the little that depends on me: to observe the evangelical counsels with every possible perfection and to pray for the defenders of the Church, for preachers, for the learned who support her.
+“O Lord, I greatly desire that, since You have so many enemies and so few friends, these at least may be devoted to You. Therefore I resolve to do the little that depends on me: to observe the evangelical counsels with every possible perfection and to pray for the defenders of the Church, for preachers, for the learned who support her.
 
-«O Lord, since I am not strong enough to defend your Church directly, I want at least to make my prayers strong in order to help these your servants, who with so many efforts and labors have armed themselves with learning and good life, and now toil to defend your name.
+“O Lord, since I am not strong enough to defend your Church directly, I want at least to make my prayers strong in order to help these your servants, who with so many efforts and labors have armed themselves with learning and good life, and now toil to defend your name.
 
-«My God, I would like to be such as to merit from You these two things: first, that among the great number of holy and learned persons who today defend the Church, there may be many who possess the needed qualities, and that You grant them to those who do not possess them fully, because one perfect man does much more than a great number of imperfect ones.
+“My God, I would like to be such as to merit from You these two things: first, that among the great number of holy and learned persons who today defend the Church, there may be many who possess the needed qualities, and that You grant them to those who do not possess them fully, because one perfect man does much more than a great number of imperfect ones.
 
-«And second, that once they have entered this struggle, You sustain them with your hand, so that they may guard themselves from all dangers of the world and cross this stormy sea with ears closed to the song of the sirens. If with You, my God, I can do anything in this, behold I too fight for your glory, although enclosed in solitude.
+“And second, that once they have entered this struggle, You sustain them with your hand, so that they may guard themselves from all dangers of the world and cross this stormy sea with ears closed to the song of the sirens. If with You, my God, I can do anything in this, behold I too fight for your glory, although enclosed in solitude.
 
-«I beseech You, Lord, hear me. As for me, I will never cease to implore You, despite my great misery: it is a question of your glory and the good of your Church, and toward this all my desires converge. On the day when my prayers, disciplines, desires, and fasts were not employed for what I have said, I would not attain the end for which You, O Lord, have called me to the contemplative life» *(cf. T.G. Way of Perfection 1, 2; 3, 2-10)*.
+“I beseech You, Lord, hear me. As for me, I will never cease to implore You, despite my great misery: it is a question of your glory and the good of your Church, and toward this all my desires converge. On the day when my prayers, disciplines, desires, and fasts were not employed for what I have said, I would not attain the end for which You, O Lord, have called me to the contemplative life” *(cf. T.G. Way of Perfection 1, 2; 3, 2-10)*.

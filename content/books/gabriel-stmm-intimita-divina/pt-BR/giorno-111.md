@@ -41,8 +41,6 @@ humilde, mas é humilde só quem reconhece sinceramente a própria
 miséria e age em consequência.
 
 A este reconhecimento, o homem, soberbo por instinto,
-
-
 não pode chegar sem a graça de Deus, mas, porque Deus
 não nega a ninguém as graças necessárias, volta-te para ele e,
 com confiança e constância, pede-lhe a humildade do coração.
@@ -73,8 +71,6 @@ interior é fruto da humildade; de fato Jesus disse: “Aprendei de mim, que sou
 ### Colóquio
 
 Ó Jesus, doce e humilde de coração, cura-me do orgulho,
-
-
 torna Tu humilde meu coração, infunde em mim um pouco
 da tua profundíssima humildade. Porque Tu sabes melhor
 que eu: como poderia eu, com minha vontade soberba, tornar humilde meu coração? Não pode um pobre dar riquezas a si mesmo, não pode um soberbo dar humildade ao seu
@@ -90,7 +86,7 @@ para que frutifique. Assim fazes Tu, Verbo, que
 com o raio do teu olhar secas a alma, tirando para ti
 toda a soberba que nela há, para consumi-la com teu calor. Ninguém, pois, pode adquirir humildade, se não
 fixa o olhar em ti, Verbo na cruz” (S. Maria Madalena
-de' Pazzi).
+de’ Pazzi).
 
 “Ó Verbo, humilhaste-te até a morte de cruz,
 até querer ser tratado como o último dos homens pelos

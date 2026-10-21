@@ -9,7 +9,7 @@
 A chama amorosa da sabedoria divina se apoderou tão completamente desta alma,
 purificou-a e apaixonou-a de Deus só, que todo o seu ser e todas as suas potências não
 vibram senão por Ele, não operam senão para servi-Lo e dar-Lhe gosto, não têm fome senão
-d'Ele, não desejam senão doar-se a Ele e unir-se a Ele em amor perfeito. É assim que
+d’Ele, não desejam senão doar-se a Ele e unir-se a Ele em amor perfeito. É assim que
 também os primeiros movimentos desta alma são movimentos de amor: “o intelecto, a
 vontade e a memória logo correm a Deus; e semelhantemente os afetos, os sentidos, os
 desejos, os apetites, a esperança, o gozo logo... de primeiro impulso sobem a Deus”

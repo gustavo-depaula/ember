@@ -17,5 +17,4 @@ Se, pois, Jesus possui a graça de modo infinito, pode-se dizer que o Espírito 
 “Ó Jesus, apresento-te meu pobre amor, depondo-o nos braços do teu Espírito ardente, na fornalha inflamada do teu amor. Ó meu Dileto, por tua divina virtude prepara-me para o combate espiritual com as armas do teu Espírito, pois não em mim, mas só na tua bondade confio.
 
 Tudo o que não é totalmente teu, arranca-o de mim com tua inestimável caridade, de modo que, pelo teu doce amor, convidada e reconfortada pela viva suavidade da tua dileção, eu não ame senão a ti. Que os doces eflúvios do teu Espírito me tornem breve e leve o peso da vida; e Tu mesmo digna-te não retirar a tua cooperação às minhas obras,
-
 para que minha alma te magnifique eternamente; minha vida seja consagrada a ti e exulte meu espírito em Deus, meu Salvador; de modo que todo pensamento e ação sejam louvor e ação de graças a ti” (S. Gertrudes).

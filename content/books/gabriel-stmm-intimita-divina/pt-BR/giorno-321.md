@@ -36,6 +36,6 @@ Quanto mais nossa alma estiver estabelecida na paz e quanto mais formos mensagei
 
 “Ó Eterno Pai, dá-nos luz para conhecer esta paz, causa de tantos bens e sem a qual se cai em tantos defeitos e em tanto mal!
 
-“Oh, por que não posso eu comunicar esta santa paz a toda criatura? Oh, se eu fosse aquilo que deveria ser, bem poderia difundi-la por toda parte! Dá-me, ó Senhor, tua paz: paz do coração que vive unido a ti, porque de mim não posso ter bem algum e sem ti não posso ter paz” (cf. Santa Maria Madalena de' Pazzi).
+“Oh, por que não posso eu comunicar esta santa paz a toda criatura? Oh, se eu fosse aquilo que deveria ser, bem poderia difundi-la por toda parte! Dá-me, ó Senhor, tua paz: paz do coração que vive unido a ti, porque de mim não posso ter bem algum e sem ti não posso ter paz” (cf. Santa Maria Madalena de’ Pazzi).
 
 “Ó benigníssimo Jesus, concede-me que acima de toda coisa desejável eu repouse em ti e que meu coração encontre quietude somente em ti. Tu és a verdadeira paz do coração, seu único refúgio, enquanto fora de ti não há senão aflição e inquietação. Nesta paz, portanto, isto é, em ti, sumo e eterno Bem, eu terei quietude e repouso” (Imitação III, 15, 4).

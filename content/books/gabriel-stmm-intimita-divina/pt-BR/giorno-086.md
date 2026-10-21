@@ -26,8 +26,6 @@ para seguir Jesus no caminho da perfeição.
 
 
 **2** — Se fizeste profissão de pobreza voluntária, reflete que perdeste a liberdade de usar a teu bel-prazer
-
-
 as coisas temporais. Mesmo que as regras do teu Instituto
 te permitam possuir determinados bens, porém não
 podes mais usá-los como dono: o voto de pobreza te tirou

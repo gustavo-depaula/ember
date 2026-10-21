@@ -10,7 +10,7 @@ uma pérola de grande preço, vai, vende quanto tem e
 a compra” (Mt. 13, 45). A pérola de grande preço é a união
 com Deus; se queres adquiri-la, deves vender tudo
 o que tens, isto é, desapegar-te de todo apetite desordenado. Eis
-por que S. Teresa d'Avila, falando do desapego, pôde
+por que S. Teresa d’Avila, falando do desapego, pôde
 dizer que, “vivido com perfeição, é tudo” (Cam. 8, 1).
 Certo, a vida espiritual não se reduz ao desapego e não
 termina aí, mas o desapego praticado com perfeição

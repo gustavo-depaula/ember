@@ -29,8 +29,6 @@ procurai ser as últimas de todas [isto é, exercitai-vos
 muito na humildade] e assim poreis pedras tão fortes que impedirão vosso castelo de ruir” (cf. M. VII, 4, 8).
 
 A humildade cava os fundamentos da caridade, no sentido
-
-
 de que esvazia a alma da soberba, esvazia a alma do amor desregrado de si e da própria excelência para dar lugar ao amor de Deus e do próximo. Quanto
 mais a humildade desocupa a alma das vãs e orgulhosas
 pretensões do eu, tanto mais dá lugar a Deus. E “quando enfim [o homem espiritual] chegar a reduzir-se ao nada, isto é,

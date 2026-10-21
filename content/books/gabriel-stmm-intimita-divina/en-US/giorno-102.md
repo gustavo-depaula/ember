@@ -29,10 +29,10 @@ therefore it too, like sin, goes in the direction opposite to charity, which ten
 with the divine will. Hence the importance,
 for the soul that seeks perfection, of eliminating from its
 conduct any voluntary imperfection. It is precisely in
-this sense that St. John of the Cross warns: "For the soul
-to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
-that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
-but also progress in perfection" (A. I, 11, 3).
+this sense that St. John of the Cross warns: “For the soul
+to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection,” and he teaches
+that attachment to one habitual voluntary imperfection is enough to impede “not only divine union,
+but also progress in perfection” (A. I, 11, 3).
 
 
 **2** — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
@@ -47,11 +47,11 @@ as St. Thomas teaches, man is bound always to act
 for a reasonable motive, for a good end. If the
 end is vitiated - as it would be, for example, to transgress the
 law of silence, recollection, or religious modesty out of
-curiosity, for one's own convenience, and the like - the action
-thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
+curiosity, for one’s own convenience, and the like - the action
+thereby becomes sinful; and generally these will be “sins, at least light, of spiritual laziness, inconstancy,
 ingratitude, and a certain hardness of heart that does not
 sufficiently appreciate the help God gives us for
-better works" (Salmanticenses). Another kind of imperfection
+better works” (Salmanticenses). Another kind of imperfection
 is a certain lack of completeness found in an
 act substantially good, but carried out, for example, with
 some narrowness, or without employing in it all the

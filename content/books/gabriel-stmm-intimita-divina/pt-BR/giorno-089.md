@@ -44,7 +44,7 @@ no serviço divino.
 Deus, quanto mais visa à união com Ele e mais sua conduta deve
 ser informada por uma perfeita modéstia. Modéstia do
 rosto, do andar, do gesto, do trato: “Em toda ação
-ou conversação, sê sempre modesta”, ensina Teresa d'Avila às suas filhas; e S. Teresa Margarida do Coração de
+ou conversação, sê sempre modesta”, ensina Teresa d’Avila às suas filhas; e S. Teresa Margarida do Coração de
 Jesus “refreava e guardava de tal modo suas potências e
 seus sentidos que se guardava de todo olhar e palavra que, de
 algum modo, não tivesse relação com Deus” (Sp. p. 272). É

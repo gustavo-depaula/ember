@@ -44,4 +44,4 @@ Erro fundamental derivado de falta de fé e de humildade, erro que explica a est
 
 “Ó Pai eterno, aquele amor que te moveu a criar os homens, esse mesmo amor te mova a infundir neles tua luz. Bem sei que não deixas de infundi-la, mas eles não a recebem. E quem é a causa? Minha ingratidão. Sim, ó Deus, reconheço minha ingratidão, mas não a detesto inteiramente. Pune sobre mim tuas ofensas. Pune sobre mim suas culpas. Oh, miserável de mim, que sou causa de toda ingratidão e de todo mal!
 
-“Se eu pudesse, tomaria todos os homens e os conduziria ao seio da tua santa Igreja, para que os purgasse de todas as infidelidades deles, os regenerasse como mãe a seus filhinhos e os nutrisse com o suave leite dos santíssimos sacramentos” (Santa Maria Madalena de' Pazzi).
+“Se eu pudesse, tomaria todos os homens e os conduziria ao seio da tua santa Igreja, para que os purgasse de todas as infidelidades deles, os regenerasse como mãe a seus filhinhos e os nutrisse com o suave leite dos santíssimos sacramentos” (Santa Maria Madalena de’ Pazzi).

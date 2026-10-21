@@ -15,18 +15,18 @@ the relations of a humble soul with God will be those
 of a child who trustfully awaits everything
 from his father. This is the teaching Jesus wanted
 to give the Apostles when they asked Him who would be greatest
-in the kingdom of heaven: "Truly I say to you:
+in the kingdom of heaven: “Truly I say to you:
 unless you turn and become like little children,
-you shall not enter the kingdom of heaven. Whoever therefore makes himself little like this child, shall be greatest in the kingdom of heaven" (Mt. 18, 3-4).
+you shall not enter the kingdom of heaven. Whoever therefore makes himself little like this child, shall be greatest in the kingdom of heaven” (Mt. 18, 3-4).
 To become children - explains St. Therese of the Child Jesus -
-"means to recognize one's nothingness,
+“means to recognize one’s nothingness,
 to expect everything from the good God as a child expects
 everything from his father... Even among the poor,
 the child is given what is necessary; but when he has
 become grown, his father no longer wishes to maintain him
-and says: 'Now work! you can provide for yourself.' Precisely so as not to hear these words,
+and says: ‘Now work! you can provide for yourself.’ Precisely so as not to hear these words,
 I have never wanted to become grown, recognizing myself absolutely incapable of earning my life,
-eternal life!" (CR. and NV.).
+eternal life!” (CR. and NV.).
 
 For the soul that, humbly recognizing its poverty,
 turns to God with full trust, God is a most tender
@@ -51,34 +51,34 @@ practical experience of its nothingness.
 St. Teresa of Jesus, speaking of her definitive and total
 conversion, confesses that what prevented her from overcoming
 the final obstacles was precisely a residue of trust she
-still had in herself: "I was wrong not to place in the
+still had in herself: “I was wrong not to place in the
 Lord all my trust and not to distrust my
-own powers enough" (Life 8, 12). Trust in God grows in proportion
+own powers enough” (Life 8, 12). Trust in God grows in proportion
 to distrust of self and becomes total when the soul, having understood deeply its nothingness, has lost every trust
 in its personal resources. The soul then experiences the
-reality of Jesus' word: "When you have done all
-that is commanded you, say: 'We are unprofitable servants'"
+reality of Jesus’ word: “When you have done all
+that is commanded you, say: ‘We are unprofitable servants’”
 (Lk. 17, 10) and, though it has greatly exercised itself in interior life, prayer, and virtue, it knows it cannot count
 at all on its own strength, knows that though it has labored for
 the glory of God, it cannot at all count on its works;
-and therefore it counts totally and solely on God's mercy and
-grace: "Non habeo fiduciam nisi in tua misericordia." Its trust is in Jesus' infinite merits,
+and therefore it counts totally and solely on God’s mercy and
+grace: “Non habeo fiduciam nisi in tua misericordia.” Its trust is in Jesus’ infinite merits,
 in the merciful love of the heavenly Father and in the work
 of grace; and this trust renders it more than ever courageous and bold, because it knows that with God all is possible.
 
 ### Colloquy
 
-"What pleases Jesus - says the Saint of Lisieux -
+“What pleases Jesus - says the Saint of Lisieux -
 is to see me love my littleness and my poverty; it is the
 blind hope I have in His mercy. This is my
-only treasure" (Lt. 176).
+only treasure” (Lt. 176).
 
 
-"I recognize it, O Lord, I am very weak and every
+“I recognize it, O Lord, I am very weak and every
 day I make new experience of it. But You deign
 to teach me that science which makes me glory in my infirmities.
 This is a very great grace, and in it alone
-I find peace and rest of heart, because I have now understood Your way: You give as God knows to give, but You want humility of heart" (cf. T.B.G. Lt. 87 and 140).
+I find peace and rest of heart, because I have now understood Your way: You give as God knows to give, but You want humility of heart” (cf. T.B.G. Lt. 87 and 140).
 
 O Lord, Your light penetrates my soul and makes me
 understand how far my ways are from Yours!

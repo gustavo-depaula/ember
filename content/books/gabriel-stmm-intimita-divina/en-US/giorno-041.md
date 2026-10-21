@@ -5,38 +5,38 @@
 
 ### Meditation
 
-**1** — "Today the world has recognized Him whom the
+**1** — “Today the world has recognized Him whom the
 Virgin brought forth... today shines the feast of
-His manifestation" (BR.). Today Jesus manifests Himself to the
+His manifestation” (BR.). Today Jesus manifests Himself to the
 world as God.
 
 The Introit of the Mass introduces us directly into this spirit, presenting Jesus in the royal majesty of
-His Divinity: "Behold the sovereign Lord has come: He
-holds in His hands the scepter, the power and the empire."
-The Epistle (Is. 60, 1-6) bursts into a hymn of joy announcing the vocation of the Gentiles to faith; they too will recognize and adore in Jesus their God: "Arise,
+His Divinity: “Behold the sovereign Lord has come: He
+holds in His hands the scepter, the power and the empire.”
+The Epistle (Is. 60, 1-6) bursts into a hymn of joy announcing the vocation of the Gentiles to faith; they too will recognize and adore in Jesus their God: “Arise,
 shine, O Jerusalem, for your light has come... And the nations shall walk in your light and kings in the splendor that shall arise from you... All those of Sheba shall come bearing
-gold and incense and proclaiming the praises of the Lord." Around
+gold and incense and proclaiming the praises of the Lord.” Around
 the manger no longer the humble scene of shepherds, but the sumptuous cortege
 of the Magi from the East, come as representatives
 of pagan peoples and of all kings of the earth to render
 homage to the Child-God.
 
-Epiphany (or Theophany) means "appearance of God";
+Epiphany (or Theophany) means “appearance of God”;
 and this appearance of God we see realized in Jesus,
 who today manifests Himself to the world as its God and Lord.
 A first prodigy had already revealed His divinity:
 the extraordinary star that appeared in the East; but recalling this
-miracle, which in today's liturgy occupies first place,
+miracle, which in today’s liturgy occupies first place,
 the Church adds briefly two others: the water turned
-into wine at Cana's wedding, and Jesus' baptism in the
+into wine at Cana’s wedding, and Jesus’ baptism in the
 Jordan, while from heaven a voice attests: this is my
-beloved Son. "Three miracles have illumined the holy day we celebrate today," sings the *Magnificat* antiphon;
+beloved Son. “Three miracles have illumined the holy day we celebrate today,” sings the *Magnificat* antiphon;
 three miracles that should dispose us to recognize and adore, with living faith, in the Child Jesus our God,
 our King.
 
-**2** — "We have seen His star in the East and have
-come with gifts to adore the Lord"; thus in the verses
-of today's Mass the conduct of the Magi is summarized.
+**2** — “We have seen His star in the East and have
+come with gifts to adore the Lord”; thus in the verses
+of today’s Mass the conduct of the Magi is summarized.
 Seeing the star and setting out were one and the same.
 They did not doubt: their faith was firm, sure, whole.
 They did not waver before the toils
@@ -44,7 +44,7 @@ of the long journey: their heart was generous. They did not
 postpone to another time: their spirit was ready.
 
 Even in the sky of our soul many times a
-star appears: it is God's intimate, clear inspiration that invites us
+star appears: it is God’s intimate, clear inspiration that invites us
 to a generous act, to detachment, to a life of more intimate union with Him. We should always know how to follow
 our star with the faith, trust, and promptness of the
 Magi; followed thus, it will undoubtedly lead us
@@ -58,16 +58,16 @@ God calls me, and this is enough for me: Scio cui credidi et certus sum (2 Tim. 
 and whatever happens I cannot doubt Him.
 
 With these dispositions let us go with the Magi to the manger.
-"And, as they with their treasures offered mystical gifts to the Lord, so may we too know how to draw from our hearts
-gifts worthy of God" (BR.).
+“And, as they with their treasures offered mystical gifts to the Lord, so may we too know how to draw from our hearts
+gifts worthy of God” (BR.).
 
 ### Colloquy
 
-"O Jesus, I adore You, for You are my Lord God...
+“O Jesus, I adore You, for You are my Lord God...
 You are a great God and King of all kings. In Your hands
 are all the ends of the earth and You behold the heights
 of the mountains. Yours is the sea and You are He who made it, and on Your hands the earth is founded... And we are Your people
-and the sheep of Your hand" (cf. Ps. 94). Yes, O Jesus,
+and the sheep of Your hand” (cf. Ps. 94). Yes, O Jesus,
 I am one of Your little sheep, one of Your creatures,
 and I rejoice in acknowledging my nothingness before You.
 But I rejoice still more in recognizing and adoring in You, most lovable Child,

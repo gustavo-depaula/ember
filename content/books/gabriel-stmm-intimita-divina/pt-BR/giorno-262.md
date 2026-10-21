@@ -16,4 +16,4 @@
 
 “Quem te possui, ó caridade, alimenta-se de Deus, a ponto de se tornar semelhante a ele por graça e participação.
 
-“Concede-me, meu Deus, uma caridade tão perfeita que eu saiba condescender, ajudar, aliviar o meu próximo em todas as suas necessidades, enfermidades e fadigas, e saiba com suma prudência compadecer-me dos defeitos alheios” (cf. Santa Maria Madalena de' Pazzi).
+“Concede-me, meu Deus, uma caridade tão perfeita que eu saiba condescender, ajudar, aliviar o meu próximo em todas as suas necessidades, enfermidades e fadigas, e saiba com suma prudência compadecer-me dos defeitos alheios” (cf. Santa Maria Madalena de’ Pazzi).

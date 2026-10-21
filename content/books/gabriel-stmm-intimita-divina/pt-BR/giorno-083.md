@@ -11,8 +11,6 @@ Precisamente para ajudar-te a entrar nesta noite, pela qual se chega à união c
 Mas é claro que, embora queiras mortificar seriamente os teus sentidos, nem sempre poderás abster-te de ver coisas deleitáveis, de ouvir notícias interessantes, de tomar alimentos saborosos etc.: às vezes coisas semelhantes te serão impostas pelas necessidades da vida, pelos deveres do teu estado ou também pelos teus superiores. E, no entanto, é absolutamente necessário que, também nesses casos, tua alma permaneça de todo livre de qualquer apego às coisas e às satisfações sensíveis. Para esse fim deves “procurar, e isto será suficiente, não saborear o deleite dessas percepções sensíveis, mas quanto antes mortificá-lo e esvaziar dele os sentidos, deixando-os, por assim dizer, às escuras em relação a tudo” (cf. ibid., 13, 4).
 
 Em outras palavras, não deves deter-te a gozar egoisticamente do que agrada aos teus sentidos, mas deves procurar elevar logo teu coração a Deus, oferecendo-lhe o gosto que podes provar e que Ele permite para restaurar tuas forças,
-
-
 para que possas retomar com maior vigor o exercício da mortificação. Assim também os alívios e as alegrias naturais servem para ir a Deus e crescer no seu amor; S. Teresa do Menino Jesus chamava isso de “alegrar-se por amor”.
 
 Este é também o ensinamento de S. Paulo, que diz:

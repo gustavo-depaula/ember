@@ -18,4 +18,4 @@ Quero esforçar-me, quanto mais posso, para imitar teus exemplos, obedecendo por
 
 Ó Jesus, que a preço de tua vida quiseste reparar a desobediência de Adão e a minha; ó Jesus, que mediante tua morte me adquiriste a graça de saber obedecer, eu não quero mais vida senão para sacrificá-la a ti mediante uma contínua e perfeita obediência” (S. Francisco de Sales).
 
-“Ó Senhor, Tu queres, é verdade, infundir a obediência em nossos corações, mas o que o impede é o não querer reconhecer que Tu falas e operas nos superiores; e é ainda o estar apegado à própria vontade” (S. M. Madalena de' Pazzi).
+“Ó Senhor, Tu queres, é verdade, infundir a obediência em nossos corações, mas o que o impede é o não querer reconhecer que Tu falas e operas nos superiores; e é ainda o estar apegado à própria vontade” (S. M. Madalena de’ Pazzi).

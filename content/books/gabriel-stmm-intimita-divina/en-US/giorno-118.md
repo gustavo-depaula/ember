@@ -11,16 +11,16 @@ and Eve after their sin; such is the instinctive behavior
 of every man as soon as he falls into some failing.
 But this brings great harm to the soul, since it is impossible to correct defects one does not want to acknowledge; therefore one must have the courage to dismantle
 the ingenious but inconsistent constructions of self-love,
-to lay bare one's own defects and look them in the face,
+to lay bare one’s own defects and look them in the face,
 as they are, without attributing them to anyone but oneself.
-"When we commit a fault - said St. Teresa of the Child Jesus - we must never attribute it to a
+“When we commit a fault - said St. Teresa of the Child Jesus - we must never attribute it to a
 physical cause, such as illness or weather or other
 circumstances, but to our imperfection. Occasions do not make a man weak; they show him what
-he is" (CR.).
+he is” (CR.).
 
-Excusing one's own faults may satisfy pride,
-but in reality it is a voluntary blinding of oneself, a making oneself incapable of grasping the truth of one's condition, and thus the poor soul not only cannot advance, but is condemned to grope in darkness, without a way out.
-Instead, sincerely acknowledging one's own faults is already
+Excusing one’s own faults may satisfy pride,
+but in reality it is a voluntary blinding of oneself, a making oneself incapable of grasping the truth of one’s condition, and thus the poor soul not only cannot advance, but is condemned to grope in darkness, without a way out.
+Instead, sincerely acknowledging one’s own faults is already
 taking the first step to correct them. Yet it is not enough
 not to excuse oneself inwardly; one must also not excuse oneself before others, that is, after acknowledging before God our failings, one must acknowledge them also before
 men, in order humbly to accept correction and to repair the bad example one may have given.
@@ -45,7 +45,7 @@ with humility of heart.
 St. Teresa of Jesus invites souls who wish to reach
 union with God to great generosity on this point,
 that is, to accept without excusing themselves any correction or rebuke, even if not wholly deserved and
-even if completely unjust. "To keep silence when one is
+even if completely unjust. “To keep silence when one is
 unjustly accused - says the Saint - is a great
 act of humility, and one imitates our Lord more closely, who
 took upon Himself all our sins. The truly humble must
@@ -53,13 +53,13 @@ desire to be despised, persecuted, and condemned
 without cause, even in grave matters. If he wishes to imitate the
 Lord, in what can he do so better, if not in this?
 He has no need of bodily strength, nor of help from anyone,
-except from God." And then she adds with great
-fineness: "All things considered, we are never blamed
+except from God.” And then she adds with great
+fineness: “All things considered, we are never blamed
 without reason, being always full of defects... If we are
 innocent of what is attributed to us, we are never so free
-of fault as good Jesus was" (Cam. 15, 1 and 4).
+of fault as good Jesus was” (Cam. 15, 1 and 4).
 
-"Jesus remained silent" (Mt. 26, 63), says the Evangelist, presenting the Lord accused before tribunals. The soul
+“Jesus remained silent” (Mt. 26, 63), says the Evangelist, presenting the Lord accused before tribunals. The soul
 that aspires to intimate union with Jesus must know how to unite itself
 to His silences before accusations, even the most unjust.
 And when particular motives - such as avoiding scandal
@@ -86,7 +86,7 @@ the corrections of others. Extinguish with Your sweetness
 my susceptibility, so quick to flare up and resent, and
 grant me the grace to imitate Your meekness and humility before the tribunals.
 
-"O my Lord, when I remember Your manifold
+“O my Lord, when I remember Your manifold
 torments that You deserved for no reason, I do not know what to say
 of myself, nor where I am when I claim to excuse myself.
 You already know, my Good, that if there is in me anything
@@ -101,5 +101,5 @@ light and grant that I may truly desire to be despised by
 all, since I too have despised You who have loved me
 with such fidelity!
 
-"What is this, my God? What does it matter to us to be blamed even by all creatures if You do not blame
-us?" (T.G. Com. 15, 5 and 6).
+“What is this, my God? What does it matter to us to be blamed even by all creatures if You do not blame
+us?” (T.G. Com. 15, 5 and 6).

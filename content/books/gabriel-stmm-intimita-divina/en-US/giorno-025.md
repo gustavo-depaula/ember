@@ -12,8 +12,8 @@ God can exist only in Christ by reason of the hypostatic union and of the beatif
 as far as possible for mere creatures, strive to imitate this attitude of Jesus: to live continually united to God, even while working for our brothers and sisters. In
 this sense, the interior life is the soul of apostolate; an action truly effective, and therefore bearer of grace to souls,
 can proceed only from one who lives intimately united
-to God. Jesus Himself proclaimed it: "As the branch cannot
-bear fruit by itself unless it remains in the vine, so neither can you unless you remain in me" (Jn. 15, 4).
+to God. Jesus Himself proclaimed it: “As the branch cannot
+bear fruit by itself unless it remains in the vine, so neither can you unless you remain in me” (Jn. 15, 4).
 Union with God, union with Jesus, is the
 preliminary and indispensable condition for the effectiveness of any apostolic activity. This union is effected by
 sanctifying grace, grows through fervent use of the sacraments, through generous practice of the virtues, is established more
@@ -23,7 +23,7 @@ union with God increases, the more the action that springs from it will bear fru
 external apostolic activity—that is, one that would claim, even because of the urgency of works, to neglect the exercises of interior
 life, prayer, and the search for union with God—would condemn itself to remain, of itself, fruitless.
 
-**2** — Jesus' apostolic work, wholly permeated with sacrifice, culminated in the supreme Sacrifice of the Cross; so our
+**2** — Jesus’ apostolic work, wholly permeated with sacrifice, culminated in the supreme Sacrifice of the Cross; so our
 apostolic activity, to be fruitful, must sink its roots into the fertile ground of immolation. By
 itself apostolic action requires sacrifice, both because of the
 toilsome life it imposes, and because of continual contact with persons of different mentalities, tastes,
@@ -33,14 +33,14 @@ all this with a generous heart, convinced that
 precisely from sacrifice, embraced in union with Jesus crucified, will spring the fecundating strength of his works. Moreover,
 external apostolate, to be truly supernatural,
 requires purity of intention: that is, works must be done only for the glory of God, in a manner
-conforming to God's will, in dependence on the superiors
-of one's Institute and on the ecclesiastical hierarchy. To attain such purity of intention, the apostle must, day
+conforming to God’s will, in dependence on the superiors
+of one’s Institute and on the ecclesiastical hierarchy. To attain such purity of intention, the apostle must, day
 by day, die to self-love,
 vainglory,
-the tendency to attract others' praise or to take complacency in
+the tendency to attract others’ praise or to take complacency in
 successes, to personal views and initiatives, to personal interests. Therefore it is a matter of true immolation of the self,
-which will bear apostolic fruit in proportion to its depth. "Unless the grain of wheat, fallen into the earth,
-dies, it remains alone; but if it dies, it bears much fruit"
+which will bear apostolic fruit in proportion to its depth. “Unless the grain of wheat, fallen into the earth,
+dies, it remains alone; but if it dies, it bears much fruit”
 (Jn. 12, 24-25).
 
 ### Colloquy
@@ -53,8 +53,8 @@ producing for them fruits of grace. What an illusion mine is
 if, letting myself be seized by the urgency of works, I
 throw myself into them while neglecting to nourish and strengthen
 my union with You! Yet You do not cease to call me back
-with the gentle warning You have deeply impressed upon my soul: "without me you can do nothing... [only]
-he who remains in me bears abundant fruit." O vain agitation, O useless movement of so many works of mine undertaken
+with the gentle warning You have deeply impressed upon my soul: “without me you can do nothing... [only]
+he who remains in me bears abundant fruit.” O vain agitation, O useless movement of so many works of mine undertaken
 as purely human activities, as though their fruit
 depended only on my industry and ability! O my God,
 preserve me from such folly; no, I do not want to squander

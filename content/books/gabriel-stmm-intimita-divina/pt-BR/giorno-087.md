@@ -70,8 +70,6 @@ primeiro o reino de Deus e sua justiça e todo o resto
 vos será dado por acréscimo” (Mt. 6, 33).
 
 Em todo estado de vida e no exercício de qualquer profissão, o principal cuidado do cristão deve ser aquele
-
-
 de servir a Deus, de tender a Ele; todo o resto é secundário.
 S. Teresa de Jesus dizia às suas filhas: “Tendo renunciado a ter rendas, renunciai também a qualquer preocupação
 com o necessário para a vida, do contrário tudo estaria perdido... Não faltemos a Deus e o necessário

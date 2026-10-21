@@ -29,4 +29,4 @@ Os santos foram todos ávidos daquelas ocasiões de sofrimento que nós evitamos
 
 “Mas, para tirar proveito das tribulações, é preciso em tudo abandonar-se totalmente à tua vontade. Então, mesmo em meio às tristezas, a alma encontra conforto; e, se por algum tempo tu a deixas nas trevas, bem depressa a tristeza será convertida em alegria, de modo que por nenhuma doçura do mundo ela jamais gostaria de não ter sofrido.
 
-“Ó bem-aventurado, feliz e glorioso quem sofre por ti, ó Verbo! Ousarei dizê-lo: enquanto somos peregrinos, é de certo modo maior coisa sofrer por ti do que possuir-te, porque possuindo-te ainda podemos perder-te, mas, se sofremos por amor de ti, tu nos admitirás na vida eterna, onde jamais poderemos perder-te” (Santa Maria Madalena de' Pazzi, adaptado).
+“Ó bem-aventurado, feliz e glorioso quem sofre por ti, ó Verbo! Ousarei dizê-lo: enquanto somos peregrinos, é de certo modo maior coisa sofrer por ti do que possuir-te, porque possuindo-te ainda podemos perder-te, mas, se sofremos por amor de ti, tu nos admitirás na vida eterna, onde jamais poderemos perder-te” (Santa Maria Madalena de’ Pazzi, adaptado).

@@ -111,8 +111,6 @@ um puro amor sobrenatural para conduzi-las a ti, seu
 princípio e seu fim.
 
 Ó Jesus, guarda das virgens, guarda meu coração
-
-
 e torna-o tão puro e transparente,
 que seja feito digno de ver o esplendor do teu Rosto.
 
