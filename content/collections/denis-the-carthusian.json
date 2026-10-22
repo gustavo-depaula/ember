@@ -28,8 +28,8 @@
 	],
 	"prologue": {
 		"body": {
-			"en-US": "Denis the Carthusian (1402–1471), monk of the charterhouse of Roermond, wrote more than any other medieval theologian: commentaries on the whole of Scripture, on the Areopagite, Boethius, Cassian, Climacus and the Sentences, a year of sermons, and some hundred and fifty treatises on prayer, contemplation and the Christian life. His raptures in prayer earned him the name *Doctor Ecstaticus*. This collection follows the forty-two tomes of the Montreuil–Tournai edition (1896–1913): every work in the thirty-nine tomes we could obtain, read from the scans. Genesis has been proofread; the rest are being proofread work by work.",
-			"pt-BR": "Dionísio, o Cartuxo (1402–1471), monge da cartuxa de Roermond, escreveu mais que qualquer outro teólogo medieval: comentários a toda a Escritura, ao Areopagita, a Boécio, Cassiano, Clímaco e às Sentenças, um ano de sermões e uns cento e cinquenta tratados sobre a oração, a contemplação e a vida cristã. Os seus êxtases na oração deram-lhe o nome de *Doutor Extático*. Esta coleção segue os quarenta e dois tomos da edição de Montreuil–Tournai (1896–1913): todas as obras dos trinta e nove tomos que conseguimos obter, lidas das digitalizações. O Gênesis já foi revisto; as demais estão sendo revistas obra por obra."
+			"en-US": "Denis the Carthusian (1402–1471), monk of the charterhouse of Roermond, wrote more than any other medieval theologian: commentaries on the whole of Scripture, on the Areopagite, Boethius, Cassian, Climacus and the Sentences, a year of sermons, and some hundred and fifty treatises on prayer, contemplation and the Christian life. His raptures in prayer earned him the name *Doctor Ecstaticus*. This collection follows the forty-two tomes of the Montreuil–Tournai edition (1896–1913): every work in the thirty-nine tomes we could obtain, read from the scans. The works are being proofread against the scans one by one; a work not yet proofread says so in its description.",
+			"pt-BR": "Dionísio, o Cartuxo (1402–1471), monge da cartuxa de Roermond, escreveu mais que qualquer outro teólogo medieval: comentários a toda a Escritura, ao Areopagita, a Boécio, Cassiano, Clímaco e às Sentenças, um ano de sermões e uns cento e cinquenta tratados sobre a oração, a contemplação e a vida cristã. Os seus êxtases na oração deram-lhe o nome de *Doutor Extático*. Esta coleção segue os quarenta e dois tomos da edição de Montreuil–Tournai (1896–1913): todas as obras dos trinta e nove tomos que conseguimos obter, lidas das digitalizações. As obras estão sendo revistas contra as digitalizações uma a uma; a que ainda não foi revista o diz na sua descrição."
 		}
 	},
 	"sections": [
@@ -42,8 +42,8 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "Denis commented on every book of the Bible, article by article, giving the literal sense and then the mystical. The commentaries fill the first fourteen tomes of the Montreuil edition. Genesis has been proofread against the scans. The other works are the OCR text as it came off the scans, still to be proofread: expect a misread word here and there.",
-					"pt-BR": "Dionísio comentou todos os livros da Bíblia, artigo por artigo, dando o sentido literal e depois o místico. Os comentários ocupam os catorze primeiros tomos da edição de Montreuil. O Gênesis foi revisto contra as digitalizações. As demais obras são o texto do OCR tal como saiu das digitalizações, ainda por rever: espere uma ou outra palavra mal lida."
+					"en-US": "Denis commented on every book of the Bible, article by article, giving the literal sense and then the mystical. The commentaries fill the first fourteen tomes of the Montreuil edition. A commentary not yet proofread says so in its description: it is the OCR text as it came off the scans, so expect a misread word here and there.",
+					"pt-BR": "Dionísio comentou todos os livros da Bíblia, artigo por artigo, dando o sentido literal e depois o místico. Os comentários ocupam os catorze primeiros tomos da edição de Montreuil. Um comentário ainda não revisto o diz na sua descrição: é o texto do OCR tal como saiu das digitalizações, por isso espere uma ou outra palavra mal lida."
 				}
 			},
 			"blocks": [

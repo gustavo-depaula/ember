@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "De particulari judicio in obitu singulorum dialogus.",
-    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "One of Denis the Carthusian's minor works.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/operaomnia41deni_0",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XLI (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XLI (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -294,13 +294,21 @@
     {
       "id": "c034",
       "title": {
+        "la": "Articulus 33",
+        "en-US": "Article 33",
+        "pt-BR": "Artigo 33"
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
         "la": "Articulus 34",
         "en-US": "Article 34",
         "pt-BR": "Artigo 34"
       }
     },
     {
-      "id": "c035",
+      "id": "c036",
       "title": {
         "la": "Articulus 35",
         "en-US": "Article 35",
@@ -308,7 +316,7 @@
       }
     },
     {
-      "id": "c036",
+      "id": "c037",
       "title": {
         "la": "Articulus 36",
         "en-US": "Article 36",
@@ -316,7 +324,7 @@
       }
     },
     {
-      "id": "c037",
+      "id": "c038",
       "title": {
         "la": "Articulus 37",
         "en-US": "Article 37",
@@ -324,7 +332,7 @@
       }
     },
     {
-      "id": "c038",
+      "id": "c039",
       "title": {
         "la": "Articulus 38",
         "en-US": "Article 38",
@@ -332,7 +340,7 @@
       }
     },
     {
-      "id": "c039",
+      "id": "c040",
       "title": {
         "la": "Articulus 39",
         "en-US": "Article 39",
@@ -340,7 +348,7 @@
       }
     },
     {
-      "id": "c040",
+      "id": "c041",
       "title": {
         "la": "Articulus 40",
         "en-US": "Article 40",

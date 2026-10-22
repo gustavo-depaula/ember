@@ -352,12 +352,15 @@ def main() -> None:
             if not parts:
                 raise SystemExit(f"{slug}: no leaves found")
             tomi = sorted({t for t, _ in heads})
+            # Proofread once every page has its fix list (check_pages.py), blank pages included.
+            draft = any(not (data / "checked" / v / f"{leaf}.jsonl").exists() for v, ls in parts for leaf in ls
+                        if (data / "dots" / v / f"{leaf}.md").exists())
             tomi_text = ", ".join(roman(t) for t in tomi)
             work = {
                 "parts": [{"volume": v, "leaves": ls} for v, ls in parts],
                 "path": f"denis-opera-omnia/{group}/{slug}",
                 "slug": slug,
-                "draft": True,
+                "draft": draft,
                 "meta": {
                     "id": f"denis-{slug}",
                     "cover": "label",
@@ -365,13 +368,13 @@ def main() -> None:
                     "author": author,
                     "description": {
                         "la": la + ".",
-                        "en-US": f"{description} Uncorrected OCR text: not yet proofread against the scans.",
-                        "pt-BR": f"{descriptions_pt[group]} Texto do OCR ainda não revisto contra as digitalizações.",
+                        "en-US": description + (" Uncorrected OCR text: not yet proofread against the scans." if draft else ""),
+                        "pt-BR": descriptions_pt[group] + (" Texto do OCR ainda não revisto contra as digitalizações." if draft else ""),
                     },
                     "sources": [{
                         "language": "la",
                         "url": f"https://archive.org/details/{parts[0][0]}",
-                        "description": f"Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. {tomi_text} (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian).",
+                        "description": f"Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. {tomi_text} (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr" + (" and not yet proofread" if draft else ", and proofread page by page by Claude against the scans") + " (research/denis-carthusian).",
                     }],
                 },
             }

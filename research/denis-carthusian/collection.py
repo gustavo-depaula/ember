@@ -46,8 +46,8 @@ def main() -> None:
     collection = json.loads(path.read_text())
     genesis = {"kind": "item", "ref": "book/denis-enarratio-in-genesim"}
     draft_note = {
-        "en-US": "Genesis has been proofread against the scans. The other works are the OCR text as it came off the scans, still to be proofread: expect a misread word here and there.",
-        "pt-BR": "O Gênesis foi revisto contra as digitalizações. As demais obras são o texto do OCR tal como saiu das digitalizações, ainda por rever: espere uma ou outra palavra mal lida.",
+        "en-US": "A commentary not yet proofread says so in its description: it is the OCR text as it came off the scans, so expect a misread word here and there.",
+        "pt-BR": "Um comentário ainda não revisto o diz na sua descrição: é o texto do OCR tal como saiu das digitalizações, por isso espere uma ou outra palavra mal lida.",
     }
     collection["sections"] = [
         {"id": "scripture", "title": t("Enarrationes in Sacram Scripturam", "Commentaries on Holy Scripture", "Comentários à Sagrada Escritura"),

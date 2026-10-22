@@ -504,7 +504,7 @@ def lacunae(volume: str) -> dict[str, tuple[str, str]]:
 
 def assemble_parts(work: dict) -> None:
     """Build a corpus book from a catalogue work: its leaves across one or more volumes, checked or not."""
-    pages = []  # (body, running head)
+    pages, source = [], []  # (body, running head); the page-by-page record of a proofread work
     for part in work["parts"]:
         volume = part["volume"]
         drafts, checked = data / "dots" / volume, data / "checked" / volume
@@ -521,9 +521,11 @@ def assemble_parts(work: dict) -> None:
             if gaps.get(leaf, ("",))[0] == "at":
                 pages.append((gaps[leaf][1], ""))
                 continue
-            body = texts[leaf][0]
+            body, margin = texts[leaf]
+            head, number = running_head(drafts, leaf)
+            source.append(f"--- {volume} leaf {leaf}, p. {number or '?'} ---\n{body}" + (f"\n[margin: {' | '.join(margin)}]" if margin else ""))
             if body and not re.fullmatch(r"[\d\s]+", body):
-                pages.append((body, running_head(drafts, leaf)[0]))
+                pages.append((body, head))
             if gaps.get(leaf, ("",))[0] == "after":
                 pages.append((gaps[leaf][1], ""))
         if gaps.get(tail, ("",))[0] == "at":
@@ -570,6 +572,9 @@ def assemble_parts(work: dict) -> None:
     for c in chapters:
         body = "\n".join(c["lines"]).strip()
         (out / "la" / f"{c['id']}.md").write_text(f"# {c['title']['la']}\n\n{body}\n")
+    if not work.get("draft"):
+        (out / "sources" / "latin-originals").mkdir(parents=True, exist_ok=True)
+        (out / "sources" / "latin-originals" / f"{work['slug']}.txt").write_text("\n\n".join(source) + "\n")
     meta = {**work["meta"], "languages": ["la"], "toc": finish(toc)}
     (out / "book.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n")
     words = sum(len(" ".join(c["lines"]).split()) for c in chapters)
