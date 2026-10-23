@@ -1,0 +1,173 @@
+{
+  "id": "bruyere-spiritual-life-and-prayer",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Spiritual Life and Prayer",
+    "pt-BR": "A Vida Espiritual e a Oração"
+  },
+  "author": {
+    "en-US": "Cécile Bruyère, O.S.B.",
+    "pt-BR": "Cécile Bruyère, O.S.B."
+  },
+  "description": {
+    "en-US": "The Spiritual Life and Prayer according to Holy Scripture and Monastic Tradition, by the first abbess of Sainte-Cécile de Solesmes, translated by the nuns of Stanbrook Abbey (1900).",
+    "pt-BR": "A vida espiritual e a oração segundo a Sagrada Escritura e a tradição monástica, da primeira abadessa de Sainte-Cécile de Solesmes, na tradução inglesa das monjas de Stanbrook (1900)."
+  },
+  "composed": 1885,
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/isbn_9781953746382",
+      "description": "The Stanbrook translation (London and Leamington, 1900), as reprinted by Mediatrix Press (2016). Text read from the scans with dots.mocr and proofread page by page by Claude against them (research/ocr-books)."
+    }
+  ],
+  "languages": [
+    "en-US"
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Author's Preface"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter I: Some General Principles"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter II: What is the Spiritual Life?"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter III: Who are apt for the Spiritual Life?"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter IV: That Union with God is a Grace, although it is the End set before all Christians"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter V: God, by means of the Sacraments, makes His Designs still more evident"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter VI: Who are they that advance the most rapidly in the spiritual life?"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Chapter VII: The Remote Preparation for Prayer"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "en-US": "Chapter VIII: The Treatise on Prayer given by Our Lord Jesus Christ."
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "Chapter IX: Should Mental Prayer be made with Method or Without Method?"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Chapter X: The Divine Office and Mental Prayer"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Chapter XI: On Meditation"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "Chapter XII: That Mental Prayer is especially indispensable for the Spouses of Christ"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "en-US": "Chapter XIII: Our external enemies and our Angelic Protectors"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "en-US": "Chapter XIV: Of the Interior Trials which form the Soul's First Purification"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "en-US": "Chapter XV: Of Contemplation"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "en-US": "Chapter XVI: Of the Unitive Life"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "en-US": "Chapter XVII: Of Prophecy, as understood in Ancient Times"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "en-US": "Chapter XVIII: A New Series of Trials which belong to the Unitive Way"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "en-US": "Chapter XIX: Of those who are Filled unto all the Fulness of God"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "en-US": "Chapter XX: The True Adorers"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "en-US": "Chapter XXI: Of the Place which our Blessed Lady holds in our Spiritual Life"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "en-US": "Chapter XXII: That the Church at Large is a Sublime Type of the Contemplative Soul"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "en-US": "Chapter XXIII: There is but one Liturgy"
+      }
+    }
+  ]
+}
