@@ -639,7 +639,7 @@
   ],
   "path": "denis-opera-omnia/masters/in-scalam-paradisi",
   "slug": "in-scalam-paradisi",
-  "draft": true,
+  "draft": false,
   "meta": {
     "id": "denis-in-scalam-paradisi",
     "cover": "label",
@@ -655,14 +655,14 @@
     },
     "description": {
       "la": "In Scalam Paradisi S. Joannis Climaci.",
-      "en-US": "Denis the Carthusian's commentary, article by article. Uncorrected OCR text: not yet proofread against the scans.",
-      "pt-BR": "O comentário de Dionísio, o Cartuxo, artigo por artigo. Texto do OCR ainda não revisto contra as digitalizações."
+      "en-US": "Denis the Carthusian's commentary, article by article.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, artigo por artigo."
     },
     "sources": [
       {
         "language": "la",
         "url": "https://archive.org/details/operaomniainunum28deni",
-        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
       }
     ]
   }

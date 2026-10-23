@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "Enarratio in Evangelium secundum Lucam.",
-    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/operaomniainunum11deni",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XI, XII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XI, XII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -438,25 +438,17 @@
         {
           "id": "c036",
           "title": {
-            "la": "Articulus 35",
-            "en-US": "Article 35",
-            "pt-BR": "Artigo 35"
+            "la": "Articulus 36",
+            "en-US": "Article 36",
+            "pt-BR": "Artigo 36"
           }
         },
         {
           "id": "c037",
           "title": {
-            "la": "Articulus 35",
-            "en-US": "Article 35",
-            "pt-BR": "Artigo 35"
-          }
-        },
-        {
-          "id": "c038",
-          "title": {
-            "la": "Articulus 36",
-            "en-US": "Article 36",
-            "pt-BR": "Artigo 36"
+            "la": "Articulus 37",
+            "en-US": "Article 37",
+            "pt-BR": "Artigo 37"
           }
         }
       ]
@@ -470,11 +462,11 @@
       },
       "children": [
         {
-          "id": "c039",
+          "id": "c038",
           "title": {
-            "la": "Articulus 37",
-            "en-US": "Article 37",
-            "pt-BR": "Artigo 37"
+            "la": "Articulus 38",
+            "en-US": "Article 38",
+            "pt-BR": "Artigo 38"
           }
         }
       ]
@@ -488,11 +480,11 @@
       },
       "children": [
         {
-          "id": "c040",
+          "id": "c039",
           "title": {
-            "la": "Articulus 38",
-            "en-US": "Article 38",
-            "pt-BR": "Artigo 38"
+            "la": "Articulus 39",
+            "en-US": "Article 39",
+            "pt-BR": "Artigo 39"
           }
         }
       ]
@@ -506,11 +498,11 @@
       },
       "children": [
         {
-          "id": "c041",
+          "id": "c040",
           "title": {
-            "la": "Articulus 39",
-            "en-US": "Article 39",
-            "pt-BR": "Artigo 39"
+            "la": "Articulus 40",
+            "en-US": "Article 40",
+            "pt-BR": "Artigo 40"
           }
         }
       ]
@@ -524,11 +516,11 @@
       },
       "children": [
         {
-          "id": "c042",
+          "id": "c041",
           "title": {
-            "la": "Articulus 40",
-            "en-US": "Article 40",
-            "pt-BR": "Artigo 40"
+            "la": "Articulus 41",
+            "en-US": "Article 41",
+            "pt-BR": "Artigo 41"
           }
         }
       ]
@@ -542,11 +534,11 @@
       },
       "children": [
         {
-          "id": "c043",
+          "id": "c042",
           "title": {
-            "la": "Articulus 41",
-            "en-US": "Article 41",
-            "pt-BR": "Artigo 41"
+            "la": "Articulus 42",
+            "en-US": "Article 42",
+            "pt-BR": "Artigo 42"
           }
         }
       ]
@@ -560,11 +552,11 @@
       },
       "children": [
         {
-          "id": "c044",
+          "id": "c043",
           "title": {
-            "la": "Articulus 42",
-            "en-US": "Article 42",
-            "pt-BR": "Artigo 42"
+            "la": "Articulus 43",
+            "en-US": "Article 43",
+            "pt-BR": "Artigo 43"
           }
         }
       ]
@@ -578,11 +570,11 @@
       },
       "children": [
         {
-          "id": "c045",
+          "id": "c044",
           "title": {
-            "la": "Articulus 43",
-            "en-US": "Article 43",
-            "pt-BR": "Artigo 43"
+            "la": "Articulus 44",
+            "en-US": "Article 44",
+            "pt-BR": "Artigo 44"
           }
         }
       ]
@@ -596,15 +588,7 @@
       },
       "children": [
         {
-          "id": "c046",
-          "title": {
-            "la": "Articulus 44",
-            "en-US": "Article 44",
-            "pt-BR": "Artigo 44"
-          }
-        },
-        {
-          "id": "c047",
+          "id": "c045",
           "title": {
             "la": "Articulus 45",
             "en-US": "Article 45",
@@ -612,11 +596,19 @@
           }
         },
         {
-          "id": "c048",
+          "id": "c046",
           "title": {
             "la": "Articulus 46",
             "en-US": "Article 46",
             "pt-BR": "Artigo 46"
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Articulus 47",
+            "en-US": "Article 47",
+            "pt-BR": "Artigo 47"
           }
         }
       ]
@@ -630,19 +622,19 @@
       },
       "children": [
         {
-          "id": "c049",
-          "title": {
-            "la": "Articulus 47",
-            "en-US": "Article 47",
-            "pt-BR": "Artigo 47"
-          }
-        },
-        {
-          "id": "c050",
+          "id": "c048",
           "title": {
             "la": "Articulus 48",
             "en-US": "Article 48",
             "pt-BR": "Artigo 48"
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Articulus 49",
+            "en-US": "Article 49",
+            "pt-BR": "Artigo 49"
           }
         }
       ]
@@ -656,25 +648,7 @@
       },
       "children": [
         {
-          "id": "c051",
-          "title": {
-            "la": "Articulus 49",
-            "en-US": "Article 49",
-            "pt-BR": "Artigo 49"
-          }
-        }
-      ]
-    },
-    {
-      "id": "g024",
-      "title": {
-        "la": "Caput 24",
-        "en-US": "Chapter 24",
-        "pt-BR": "Capítulo 24"
-      },
-      "children": [
-        {
-          "id": "c052",
+          "id": "c050",
           "title": {
             "la": "Articulus 50",
             "en-US": "Article 50",

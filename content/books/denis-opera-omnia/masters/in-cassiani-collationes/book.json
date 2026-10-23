@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "In Collationes SS. Patrum Cassiani.",
-    "en-US": "Denis the Carthusian's commentary, article by article. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "O comentário de Dionísio, o Cartuxo, artigo por artigo. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "Denis the Carthusian's commentary, article by article.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, artigo por artigo."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/operaomniainunum27deni",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXVII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXVII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -198,13 +198,21 @@
         {
           "id": "c021",
           "title": {
+            "la": "Capitulum 20",
+            "en-US": "Chapter 20",
+            "pt-BR": "Capítulo 20"
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
             "la": "Capitulum 21",
             "en-US": "Chapter 21",
             "pt-BR": "Capítulo 21"
           }
         },
         {
-          "id": "c022",
+          "id": "c023",
           "title": {
             "la": "Capitulum 22",
             "en-US": "Chapter 22",
@@ -212,7 +220,7 @@
           }
         },
         {
-          "id": "c023",
+          "id": "c024",
           "title": {
             "la": "Capitulum 23",
             "en-US": "Chapter 23",
@@ -230,7 +238,7 @@
       },
       "children": [
         {
-          "id": "c024",
+          "id": "c025",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -238,7 +246,7 @@
           }
         },
         {
-          "id": "c025",
+          "id": "c026",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -246,7 +254,7 @@
           }
         },
         {
-          "id": "c026",
+          "id": "c027",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -254,7 +262,7 @@
           }
         },
         {
-          "id": "c027",
+          "id": "c028",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -262,7 +270,7 @@
           }
         },
         {
-          "id": "c028",
+          "id": "c029",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -270,7 +278,7 @@
           }
         },
         {
-          "id": "c029",
+          "id": "c030",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -278,7 +286,7 @@
           }
         },
         {
-          "id": "c030",
+          "id": "c031",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -286,7 +294,7 @@
           }
         },
         {
-          "id": "c031",
+          "id": "c032",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -294,7 +302,7 @@
           }
         },
         {
-          "id": "c032",
+          "id": "c033",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -302,7 +310,7 @@
           }
         },
         {
-          "id": "c033",
+          "id": "c034",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -310,7 +318,7 @@
           }
         },
         {
-          "id": "c034",
+          "id": "c035",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -318,7 +326,7 @@
           }
         },
         {
-          "id": "c035",
+          "id": "c036",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -326,7 +334,7 @@
           }
         },
         {
-          "id": "c036",
+          "id": "c037",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -334,7 +342,7 @@
           }
         },
         {
-          "id": "c037",
+          "id": "c038",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -342,7 +350,7 @@
           }
         },
         {
-          "id": "c038",
+          "id": "c039",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -350,7 +358,7 @@
           }
         },
         {
-          "id": "c039",
+          "id": "c040",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -358,7 +366,7 @@
           }
         },
         {
-          "id": "c040",
+          "id": "c041",
           "title": {
             "la": "Capitulum 17",
             "en-US": "Chapter 17",
@@ -366,7 +374,7 @@
           }
         },
         {
-          "id": "c041",
+          "id": "c042",
           "title": {
             "la": "Capitulum 19",
             "en-US": "Chapter 19",
@@ -374,7 +382,7 @@
           }
         },
         {
-          "id": "c042",
+          "id": "c043",
           "title": {
             "la": "Capitulum 21",
             "en-US": "Chapter 21",
@@ -382,7 +390,7 @@
           }
         },
         {
-          "id": "c043",
+          "id": "c044",
           "title": {
             "la": "Capitulum 22",
             "en-US": "Chapter 22",
@@ -390,7 +398,7 @@
           }
         },
         {
-          "id": "c044",
+          "id": "c045",
           "title": {
             "la": "Capitulum 23",
             "en-US": "Chapter 23",
@@ -398,7 +406,7 @@
           }
         },
         {
-          "id": "c045",
+          "id": "c046",
           "title": {
             "la": "Capitulum 24",
             "en-US": "Chapter 24",
@@ -406,7 +414,7 @@
           }
         },
         {
-          "id": "c046",
+          "id": "c047",
           "title": {
             "la": "Capitulum 25",
             "en-US": "Chapter 25",
@@ -414,7 +422,7 @@
           }
         },
         {
-          "id": "c047",
+          "id": "c048",
           "title": {
             "la": "Capitulum 26",
             "en-US": "Chapter 26",
@@ -432,7 +440,7 @@
       },
       "children": [
         {
-          "id": "c048",
+          "id": "c049",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -440,7 +448,7 @@
           }
         },
         {
-          "id": "c049",
+          "id": "c050",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -448,7 +456,7 @@
           }
         },
         {
-          "id": "c050",
+          "id": "c051",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -456,7 +464,7 @@
           }
         },
         {
-          "id": "c051",
+          "id": "c052",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -464,7 +472,7 @@
           }
         },
         {
-          "id": "c052",
+          "id": "c053",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -472,7 +480,7 @@
           }
         },
         {
-          "id": "c053",
+          "id": "c054",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -480,7 +488,7 @@
           }
         },
         {
-          "id": "c054",
+          "id": "c055",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -488,7 +496,7 @@
           }
         },
         {
-          "id": "c055",
+          "id": "c056",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -496,7 +504,7 @@
           }
         },
         {
-          "id": "c056",
+          "id": "c057",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -504,7 +512,7 @@
           }
         },
         {
-          "id": "c057",
+          "id": "c058",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -512,19 +520,11 @@
           }
         },
         {
-          "id": "c058",
+          "id": "c059",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
             "pt-BR": "Capítulo 12"
-          }
-        },
-        {
-          "id": "c059",
-          "title": {
-            "la": "Capitulum 11",
-            "en-US": "Chapter 11",
-            "pt-BR": "Capítulo 11"
           }
         },
         {
@@ -1694,21 +1694,29 @@
         {
           "id": "c198",
           "title": {
-            "la": "Capitulum 11",
-            "en-US": "Chapter 11",
-            "pt-BR": "Capítulo 11"
-          }
-        },
-        {
-          "id": "c199",
-          "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
             "pt-BR": "Capítulo 12"
           }
         },
         {
+          "id": "c199",
+          "title": {
+            "la": "Capitulum 13",
+            "en-US": "Chapter 13",
+            "pt-BR": "Capítulo 13"
+          }
+        },
+        {
           "id": "c200",
+          "title": {
+            "la": "Capitulum 14",
+            "en-US": "Chapter 14",
+            "pt-BR": "Capítulo 14"
+          }
+        },
+        {
+          "id": "c201",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -1716,7 +1724,7 @@
           }
         },
         {
-          "id": "c201",
+          "id": "c202",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -1724,7 +1732,7 @@
           }
         },
         {
-          "id": "c202",
+          "id": "c203",
           "title": {
             "la": "Capitulum 17",
             "en-US": "Chapter 17",
@@ -1732,7 +1740,7 @@
           }
         },
         {
-          "id": "c203",
+          "id": "c204",
           "title": {
             "la": "Capitulum 18",
             "en-US": "Chapter 18",
@@ -1740,7 +1748,7 @@
           }
         },
         {
-          "id": "c204",
+          "id": "c205",
           "title": {
             "la": "Capitulum 19",
             "en-US": "Chapter 19",
@@ -1748,7 +1756,7 @@
           }
         },
         {
-          "id": "c205",
+          "id": "c206",
           "title": {
             "la": "Capitulum 20",
             "en-US": "Chapter 20",
@@ -1756,7 +1764,7 @@
           }
         },
         {
-          "id": "c206",
+          "id": "c207",
           "title": {
             "la": "Capitulum 21",
             "en-US": "Chapter 21",
@@ -1764,7 +1772,7 @@
           }
         },
         {
-          "id": "c207",
+          "id": "c208",
           "title": {
             "la": "Capitulum 22",
             "en-US": "Chapter 22",
@@ -1772,7 +1780,7 @@
           }
         },
         {
-          "id": "c208",
+          "id": "c209",
           "title": {
             "la": "Capitulum 23",
             "en-US": "Chapter 23",
@@ -1780,7 +1788,7 @@
           }
         },
         {
-          "id": "c209",
+          "id": "c210",
           "title": {
             "la": "Capitulum 24",
             "en-US": "Chapter 24",
@@ -1788,7 +1796,7 @@
           }
         },
         {
-          "id": "c210",
+          "id": "c211",
           "title": {
             "la": "Capitulum 25",
             "en-US": "Chapter 25",
@@ -1796,7 +1804,7 @@
           }
         },
         {
-          "id": "c211",
+          "id": "c212",
           "title": {
             "la": "Capitulum 26",
             "en-US": "Chapter 26",
@@ -1804,7 +1812,7 @@
           }
         },
         {
-          "id": "c212",
+          "id": "c213",
           "title": {
             "la": "Capitulum 27",
             "en-US": "Chapter 27",
@@ -1812,7 +1820,7 @@
           }
         },
         {
-          "id": "c213",
+          "id": "c214",
           "title": {
             "la": "Capitulum 28",
             "en-US": "Chapter 28",
@@ -1820,7 +1828,7 @@
           }
         },
         {
-          "id": "c214",
+          "id": "c215",
           "title": {
             "la": "Capitulum 29",
             "en-US": "Chapter 29",
@@ -1828,7 +1836,15 @@
           }
         },
         {
-          "id": "c215",
+          "id": "c216",
+          "title": {
+            "la": "Capitulum 30",
+            "en-US": "Chapter 30",
+            "pt-BR": "Capítulo 30"
+          }
+        },
+        {
+          "id": "c217",
           "title": {
             "la": "Capitulum 31",
             "en-US": "Chapter 31",
@@ -1836,7 +1852,7 @@
           }
         },
         {
-          "id": "c216",
+          "id": "c218",
           "title": {
             "la": "Capitulum 32",
             "en-US": "Chapter 32",
@@ -1844,7 +1860,7 @@
           }
         },
         {
-          "id": "c217",
+          "id": "c219",
           "title": {
             "la": "Capitulum 33",
             "en-US": "Chapter 33",
@@ -1852,7 +1868,7 @@
           }
         },
         {
-          "id": "c218",
+          "id": "c220",
           "title": {
             "la": "Capitulum 34",
             "en-US": "Chapter 34",
@@ -1860,7 +1876,7 @@
           }
         },
         {
-          "id": "c219",
+          "id": "c221",
           "title": {
             "la": "Capitulum 35",
             "en-US": "Chapter 35",
@@ -1868,7 +1884,7 @@
           }
         },
         {
-          "id": "c220",
+          "id": "c222",
           "title": {
             "la": "Capitulum 36",
             "en-US": "Chapter 36",
@@ -1886,7 +1902,7 @@
       },
       "children": [
         {
-          "id": "c221",
+          "id": "c223",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -1894,7 +1910,7 @@
           }
         },
         {
-          "id": "c222",
+          "id": "c224",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -1902,7 +1918,7 @@
           }
         },
         {
-          "id": "c223",
+          "id": "c225",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -1910,7 +1926,7 @@
           }
         },
         {
-          "id": "c224",
+          "id": "c226",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -1918,7 +1934,7 @@
           }
         },
         {
-          "id": "c225",
+          "id": "c227",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -1926,7 +1942,15 @@
           }
         },
         {
-          "id": "c226",
+          "id": "c228",
+          "title": {
+            "la": "Capitulum 6",
+            "en-US": "Chapter 6",
+            "pt-BR": "Capítulo 6"
+          }
+        },
+        {
+          "id": "c229",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -1934,7 +1958,7 @@
           }
         },
         {
-          "id": "c227",
+          "id": "c230",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -1942,7 +1966,7 @@
           }
         },
         {
-          "id": "c228",
+          "id": "c231",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -1950,7 +1974,7 @@
           }
         },
         {
-          "id": "c229",
+          "id": "c232",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -1958,7 +1982,7 @@
           }
         },
         {
-          "id": "c230",
+          "id": "c233",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -1966,7 +1990,7 @@
           }
         },
         {
-          "id": "c231",
+          "id": "c234",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -1974,7 +1998,7 @@
           }
         },
         {
-          "id": "c232",
+          "id": "c235",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -1982,7 +2006,7 @@
           }
         },
         {
-          "id": "c233",
+          "id": "c236",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -1990,7 +2014,7 @@
           }
         },
         {
-          "id": "c234",
+          "id": "c237",
           "title": {
             "la": "Prologus",
             "en-US": "Prologue",
@@ -2008,7 +2032,7 @@
       },
       "children": [
         {
-          "id": "c235",
+          "id": "c238",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -2016,7 +2040,7 @@
           }
         },
         {
-          "id": "c236",
+          "id": "c239",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -2024,7 +2048,7 @@
           }
         },
         {
-          "id": "c237",
+          "id": "c240",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -2032,7 +2056,7 @@
           }
         },
         {
-          "id": "c238",
+          "id": "c241",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -2040,7 +2064,7 @@
           }
         },
         {
-          "id": "c239",
+          "id": "c242",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -2048,7 +2072,7 @@
           }
         },
         {
-          "id": "c240",
+          "id": "c243",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -2056,7 +2080,7 @@
           }
         },
         {
-          "id": "c241",
+          "id": "c244",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -2064,7 +2088,7 @@
           }
         },
         {
-          "id": "c242",
+          "id": "c245",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -2072,7 +2096,7 @@
           }
         },
         {
-          "id": "c243",
+          "id": "c246",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -2080,7 +2104,7 @@
           }
         },
         {
-          "id": "c244",
+          "id": "c247",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -2088,7 +2112,15 @@
           }
         },
         {
-          "id": "c245",
+          "id": "c248",
+          "title": {
+            "la": "Capitulum 11",
+            "en-US": "Chapter 11",
+            "pt-BR": "Capítulo 11"
+          }
+        },
+        {
+          "id": "c249",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -2096,7 +2128,7 @@
           }
         },
         {
-          "id": "c246",
+          "id": "c250",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -2104,7 +2136,7 @@
           }
         },
         {
-          "id": "c247",
+          "id": "c251",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -2112,7 +2144,7 @@
           }
         },
         {
-          "id": "c248",
+          "id": "c252",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -2130,7 +2162,7 @@
       },
       "children": [
         {
-          "id": "c249",
+          "id": "c253",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -2138,7 +2170,7 @@
           }
         },
         {
-          "id": "c250",
+          "id": "c254",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -2146,7 +2178,7 @@
           }
         },
         {
-          "id": "c251",
+          "id": "c255",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -2154,7 +2186,7 @@
           }
         },
         {
-          "id": "c252",
+          "id": "c256",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -2162,7 +2194,7 @@
           }
         },
         {
-          "id": "c253",
+          "id": "c257",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -2170,7 +2202,7 @@
           }
         },
         {
-          "id": "c254",
+          "id": "c258",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -2178,7 +2210,7 @@
           }
         },
         {
-          "id": "c255",
+          "id": "c259",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -2186,7 +2218,7 @@
           }
         },
         {
-          "id": "c256",
+          "id": "c260",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -2194,7 +2226,7 @@
           }
         },
         {
-          "id": "c257",
+          "id": "c261",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -2202,7 +2234,7 @@
           }
         },
         {
-          "id": "c258",
+          "id": "c262",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -2210,7 +2242,7 @@
           }
         },
         {
-          "id": "c259",
+          "id": "c263",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -2218,7 +2250,7 @@
           }
         },
         {
-          "id": "c260",
+          "id": "c264",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -2226,7 +2258,7 @@
           }
         },
         {
-          "id": "c261",
+          "id": "c265",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -2234,7 +2266,7 @@
           }
         },
         {
-          "id": "c262",
+          "id": "c266",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -2242,7 +2274,7 @@
           }
         },
         {
-          "id": "c263",
+          "id": "c267",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -2250,7 +2282,7 @@
           }
         },
         {
-          "id": "c264",
+          "id": "c268",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -2268,7 +2300,7 @@
       },
       "children": [
         {
-          "id": "c265",
+          "id": "c269",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -2276,7 +2308,7 @@
           }
         },
         {
-          "id": "c266",
+          "id": "c270",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -2284,7 +2316,7 @@
           }
         },
         {
-          "id": "c267",
+          "id": "c271",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -2292,7 +2324,7 @@
           }
         },
         {
-          "id": "c268",
+          "id": "c272",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -2300,7 +2332,7 @@
           }
         },
         {
-          "id": "c269",
+          "id": "c273",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -2308,7 +2340,7 @@
           }
         },
         {
-          "id": "c270",
+          "id": "c274",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -2316,7 +2348,7 @@
           }
         },
         {
-          "id": "c271",
+          "id": "c275",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -2324,7 +2356,7 @@
           }
         },
         {
-          "id": "c272",
+          "id": "c276",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -2332,7 +2364,7 @@
           }
         },
         {
-          "id": "c273",
+          "id": "c277",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -2340,7 +2372,7 @@
           }
         },
         {
-          "id": "c274",
+          "id": "c278",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -2348,7 +2380,7 @@
           }
         },
         {
-          "id": "c275",
+          "id": "c279",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -2356,7 +2388,7 @@
           }
         },
         {
-          "id": "c276",
+          "id": "c280",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -2364,7 +2396,7 @@
           }
         },
         {
-          "id": "c277",
+          "id": "c281",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -2372,7 +2404,7 @@
           }
         },
         {
-          "id": "c278",
+          "id": "c282",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -2390,7 +2422,7 @@
       },
       "children": [
         {
-          "id": "c279",
+          "id": "c283",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -2398,7 +2430,7 @@
           }
         },
         {
-          "id": "c280",
+          "id": "c284",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -2406,7 +2438,7 @@
           }
         },
         {
-          "id": "c281",
+          "id": "c285",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -2414,7 +2446,7 @@
           }
         },
         {
-          "id": "c282",
+          "id": "c286",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -2422,7 +2454,7 @@
           }
         },
         {
-          "id": "c283",
+          "id": "c287",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -2430,7 +2462,7 @@
           }
         },
         {
-          "id": "c284",
+          "id": "c288",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -2438,7 +2470,7 @@
           }
         },
         {
-          "id": "c285",
+          "id": "c289",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -2446,7 +2478,7 @@
           }
         },
         {
-          "id": "c286",
+          "id": "c290",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -2454,7 +2486,15 @@
           }
         },
         {
-          "id": "c287",
+          "id": "c291",
+          "title": {
+            "la": "Capitulum 9",
+            "en-US": "Chapter 9",
+            "pt-BR": "Capítulo 9"
+          }
+        },
+        {
+          "id": "c292",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -2462,7 +2502,7 @@
           }
         },
         {
-          "id": "c288",
+          "id": "c293",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -2470,7 +2510,7 @@
           }
         },
         {
-          "id": "c289",
+          "id": "c294",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -2478,7 +2518,7 @@
           }
         },
         {
-          "id": "c290",
+          "id": "c295",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -2486,7 +2526,7 @@
           }
         },
         {
-          "id": "c291",
+          "id": "c296",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -2494,7 +2534,15 @@
           }
         },
         {
-          "id": "c292",
+          "id": "c297",
+          "title": {
+            "la": "Capitulum 15",
+            "en-US": "Chapter 15",
+            "pt-BR": "Capítulo 15"
+          }
+        },
+        {
+          "id": "c298",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -2502,7 +2550,7 @@
           }
         },
         {
-          "id": "c293",
+          "id": "c299",
           "title": {
             "la": "Capitulum 17",
             "en-US": "Chapter 17",
@@ -2510,7 +2558,7 @@
           }
         },
         {
-          "id": "c294",
+          "id": "c300",
           "title": {
             "la": "Capitulum 18",
             "en-US": "Chapter 18",
@@ -2518,7 +2566,7 @@
           }
         },
         {
-          "id": "c295",
+          "id": "c301",
           "title": {
             "la": "Capitulum 19",
             "en-US": "Chapter 19",
@@ -2536,7 +2584,7 @@
       },
       "children": [
         {
-          "id": "c296",
+          "id": "c302",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -2544,7 +2592,7 @@
           }
         },
         {
-          "id": "c297",
+          "id": "c303",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -2552,7 +2600,7 @@
           }
         },
         {
-          "id": "c298",
+          "id": "c304",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -2560,7 +2608,7 @@
           }
         },
         {
-          "id": "c299",
+          "id": "c305",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -2568,7 +2616,7 @@
           }
         },
         {
-          "id": "c300",
+          "id": "c306",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -2576,7 +2624,7 @@
           }
         },
         {
-          "id": "c301",
+          "id": "c307",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -2584,7 +2632,7 @@
           }
         },
         {
-          "id": "c302",
+          "id": "c308",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -2592,7 +2640,7 @@
           }
         },
         {
-          "id": "c303",
+          "id": "c309",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -2600,7 +2648,7 @@
           }
         },
         {
-          "id": "c304",
+          "id": "c310",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -2608,7 +2656,7 @@
           }
         },
         {
-          "id": "c305",
+          "id": "c311",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -2626,7 +2674,7 @@
       },
       "children": [
         {
-          "id": "c306",
+          "id": "c312",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -2634,7 +2682,7 @@
           }
         },
         {
-          "id": "c307",
+          "id": "c313",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -2642,7 +2690,7 @@
           }
         },
         {
-          "id": "c308",
+          "id": "c314",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -2650,7 +2698,7 @@
           }
         },
         {
-          "id": "c309",
+          "id": "c315",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -2658,7 +2706,7 @@
           }
         },
         {
-          "id": "c310",
+          "id": "c316",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -2666,7 +2714,7 @@
           }
         },
         {
-          "id": "c311",
+          "id": "c317",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -2674,7 +2722,7 @@
           }
         },
         {
-          "id": "c312",
+          "id": "c318",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -2682,7 +2730,7 @@
           }
         },
         {
-          "id": "c313",
+          "id": "c319",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -2690,7 +2738,7 @@
           }
         },
         {
-          "id": "c314",
+          "id": "c320",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -2698,7 +2746,7 @@
           }
         },
         {
-          "id": "c315",
+          "id": "c321",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -2706,7 +2754,7 @@
           }
         },
         {
-          "id": "c316",
+          "id": "c322",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -2714,7 +2762,7 @@
           }
         },
         {
-          "id": "c317",
+          "id": "c323",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -2722,7 +2770,7 @@
           }
         },
         {
-          "id": "c318",
+          "id": "c324",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -2730,7 +2778,7 @@
           }
         },
         {
-          "id": "c319",
+          "id": "c325",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -2738,7 +2786,7 @@
           }
         },
         {
-          "id": "c320",
+          "id": "c326",
           "title": {
             "la": "Capitulum 17",
             "en-US": "Chapter 17",
@@ -2746,7 +2794,7 @@
           }
         },
         {
-          "id": "c321",
+          "id": "c327",
           "title": {
             "la": "Capitulum 18",
             "en-US": "Chapter 18",
@@ -2754,7 +2802,7 @@
           }
         },
         {
-          "id": "c322",
+          "id": "c328",
           "title": {
             "la": "Capitulum 19",
             "en-US": "Chapter 19",
@@ -2762,7 +2810,7 @@
           }
         },
         {
-          "id": "c323",
+          "id": "c329",
           "title": {
             "la": "Capitulum 20",
             "en-US": "Chapter 20",
@@ -2770,7 +2818,7 @@
           }
         },
         {
-          "id": "c324",
+          "id": "c330",
           "title": {
             "la": "Capitulum 22",
             "en-US": "Chapter 22",
@@ -2778,7 +2826,7 @@
           }
         },
         {
-          "id": "c325",
+          "id": "c331",
           "title": {
             "la": "Capitulum 23",
             "en-US": "Chapter 23",
@@ -2786,7 +2834,7 @@
           }
         },
         {
-          "id": "c326",
+          "id": "c332",
           "title": {
             "la": "Capitulum 24",
             "en-US": "Chapter 24",
@@ -2794,7 +2842,7 @@
           }
         },
         {
-          "id": "c327",
+          "id": "c333",
           "title": {
             "la": "Capitulum 26",
             "en-US": "Chapter 26",
@@ -2802,7 +2850,7 @@
           }
         },
         {
-          "id": "c328",
+          "id": "c334",
           "title": {
             "la": "Capitulum 27",
             "en-US": "Chapter 27",
@@ -2810,7 +2858,7 @@
           }
         },
         {
-          "id": "c329",
+          "id": "c335",
           "title": {
             "la": "Capitulum 28",
             "en-US": "Chapter 28",
@@ -2828,7 +2876,7 @@
       },
       "children": [
         {
-          "id": "c330",
+          "id": "c336",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -2836,7 +2884,7 @@
           }
         },
         {
-          "id": "c331",
+          "id": "c337",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -2844,7 +2892,7 @@
           }
         },
         {
-          "id": "c332",
+          "id": "c338",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -2852,7 +2900,7 @@
           }
         },
         {
-          "id": "c333",
+          "id": "c339",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -2860,7 +2908,7 @@
           }
         },
         {
-          "id": "c334",
+          "id": "c340",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -2868,7 +2916,7 @@
           }
         },
         {
-          "id": "c335",
+          "id": "c341",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -2876,7 +2924,7 @@
           }
         },
         {
-          "id": "c336",
+          "id": "c342",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -2884,7 +2932,7 @@
           }
         },
         {
-          "id": "c337",
+          "id": "c343",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -2892,15 +2940,7 @@
           }
         },
         {
-          "id": "c338",
-          "title": {
-            "la": "Capitulum 11",
-            "en-US": "Chapter 11",
-            "pt-BR": "Capítulo 11"
-          }
-        },
-        {
-          "id": "c339",
+          "id": "c344",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -2908,7 +2948,15 @@
           }
         },
         {
-          "id": "c340",
+          "id": "c345",
+          "title": {
+            "la": "Capitulum 11",
+            "en-US": "Chapter 11",
+            "pt-BR": "Capítulo 11"
+          }
+        },
+        {
+          "id": "c346",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -2916,7 +2964,7 @@
           }
         },
         {
-          "id": "c341",
+          "id": "c347",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -2924,7 +2972,7 @@
           }
         },
         {
-          "id": "c342",
+          "id": "c348",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -2932,7 +2980,7 @@
           }
         },
         {
-          "id": "c343",
+          "id": "c349",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -2940,7 +2988,7 @@
           }
         },
         {
-          "id": "c344",
+          "id": "c350",
           "title": {
             "la": "Capitulum 17",
             "en-US": "Chapter 17",
@@ -2948,7 +2996,7 @@
           }
         },
         {
-          "id": "c345",
+          "id": "c351",
           "title": {
             "la": "Capitulum 18",
             "en-US": "Chapter 18",
@@ -2956,7 +3004,7 @@
           }
         },
         {
-          "id": "c346",
+          "id": "c352",
           "title": {
             "la": "Capitulum 19",
             "en-US": "Chapter 19",
@@ -2964,7 +3012,7 @@
           }
         },
         {
-          "id": "c347",
+          "id": "c353",
           "title": {
             "la": "Capitulum 20",
             "en-US": "Chapter 20",
@@ -2972,7 +3020,7 @@
           }
         },
         {
-          "id": "c348",
+          "id": "c354",
           "title": {
             "la": "Capitulum 21",
             "en-US": "Chapter 21",
@@ -2980,7 +3028,7 @@
           }
         },
         {
-          "id": "c349",
+          "id": "c355",
           "title": {
             "la": "Capitulum 22",
             "en-US": "Chapter 22",
@@ -2988,7 +3036,7 @@
           }
         },
         {
-          "id": "c350",
+          "id": "c356",
           "title": {
             "la": "Prologus",
             "en-US": "Prologue",
@@ -3006,7 +3054,7 @@
       },
       "children": [
         {
-          "id": "c351",
+          "id": "c357",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -3014,7 +3062,7 @@
           }
         },
         {
-          "id": "c352",
+          "id": "c358",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -3022,7 +3070,7 @@
           }
         },
         {
-          "id": "c353",
+          "id": "c359",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -3030,7 +3078,7 @@
           }
         },
         {
-          "id": "c354",
+          "id": "c360",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -3038,7 +3086,7 @@
           }
         },
         {
-          "id": "c355",
+          "id": "c361",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -3046,7 +3094,7 @@
           }
         },
         {
-          "id": "c356",
+          "id": "c362",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -3054,7 +3102,7 @@
           }
         },
         {
-          "id": "c357",
+          "id": "c363",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -3062,7 +3110,7 @@
           }
         },
         {
-          "id": "c358",
+          "id": "c364",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -3070,7 +3118,7 @@
           }
         },
         {
-          "id": "c359",
+          "id": "c365",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -3078,7 +3126,7 @@
           }
         },
         {
-          "id": "c360",
+          "id": "c366",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -3086,7 +3134,7 @@
           }
         },
         {
-          "id": "c361",
+          "id": "c367",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -3094,7 +3142,7 @@
           }
         },
         {
-          "id": "c362",
+          "id": "c368",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -3102,7 +3150,7 @@
           }
         },
         {
-          "id": "c363",
+          "id": "c369",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -3110,7 +3158,7 @@
           }
         },
         {
-          "id": "c364",
+          "id": "c370",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -3118,7 +3166,7 @@
           }
         },
         {
-          "id": "c365",
+          "id": "c371",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -3126,7 +3174,7 @@
           }
         },
         {
-          "id": "c366",
+          "id": "c372",
           "title": {
             "la": "Capitulum 17",
             "en-US": "Chapter 17",
@@ -3144,7 +3192,7 @@
       },
       "children": [
         {
-          "id": "c367",
+          "id": "c373",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -3152,7 +3200,7 @@
           }
         },
         {
-          "id": "c368",
+          "id": "c374",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -3160,7 +3208,7 @@
           }
         },
         {
-          "id": "c369",
+          "id": "c375",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -3168,7 +3216,7 @@
           }
         },
         {
-          "id": "c370",
+          "id": "c376",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -3176,7 +3224,7 @@
           }
         },
         {
-          "id": "c371",
+          "id": "c377",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -3184,7 +3232,7 @@
           }
         },
         {
-          "id": "c372",
+          "id": "c378",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -3192,7 +3240,7 @@
           }
         },
         {
-          "id": "c373",
+          "id": "c379",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -3200,7 +3248,7 @@
           }
         },
         {
-          "id": "c374",
+          "id": "c380",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -3208,7 +3256,7 @@
           }
         },
         {
-          "id": "c375",
+          "id": "c381",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -3216,7 +3264,7 @@
           }
         },
         {
-          "id": "c376",
+          "id": "c382",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -3224,7 +3272,7 @@
           }
         },
         {
-          "id": "c377",
+          "id": "c383",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -3232,7 +3280,7 @@
           }
         },
         {
-          "id": "c378",
+          "id": "c384",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -3240,7 +3288,7 @@
           }
         },
         {
-          "id": "c379",
+          "id": "c385",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -3248,7 +3296,7 @@
           }
         },
         {
-          "id": "c380",
+          "id": "c386",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -3256,7 +3304,7 @@
           }
         },
         {
-          "id": "c381",
+          "id": "c387",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -3264,7 +3312,7 @@
           }
         },
         {
-          "id": "c382",
+          "id": "c388",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -3282,7 +3330,7 @@
       },
       "children": [
         {
-          "id": "c383",
+          "id": "c389",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -3290,7 +3338,7 @@
           }
         },
         {
-          "id": "c384",
+          "id": "c390",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -3298,7 +3346,7 @@
           }
         },
         {
-          "id": "c385",
+          "id": "c391",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -3306,7 +3354,7 @@
           }
         },
         {
-          "id": "c386",
+          "id": "c392",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -3314,7 +3362,7 @@
           }
         },
         {
-          "id": "c387",
+          "id": "c393",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -3322,7 +3370,7 @@
           }
         },
         {
-          "id": "c388",
+          "id": "c394",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -3330,7 +3378,7 @@
           }
         },
         {
-          "id": "c389",
+          "id": "c395",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -3338,7 +3386,7 @@
           }
         },
         {
-          "id": "c390",
+          "id": "c396",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -3346,7 +3394,7 @@
           }
         },
         {
-          "id": "c391",
+          "id": "c397",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -3354,7 +3402,7 @@
           }
         },
         {
-          "id": "c392",
+          "id": "c398",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -3362,7 +3410,7 @@
           }
         },
         {
-          "id": "c393",
+          "id": "c399",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -3370,7 +3418,7 @@
           }
         },
         {
-          "id": "c394",
+          "id": "c400",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -3388,7 +3436,7 @@
       },
       "children": [
         {
-          "id": "c395",
+          "id": "c401",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -3396,7 +3444,7 @@
           }
         },
         {
-          "id": "c396",
+          "id": "c402",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -3404,7 +3452,7 @@
           }
         },
         {
-          "id": "c397",
+          "id": "c403",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -3412,7 +3460,7 @@
           }
         },
         {
-          "id": "c398",
+          "id": "c404",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -3420,7 +3468,7 @@
           }
         },
         {
-          "id": "c399",
+          "id": "c405",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -3428,7 +3476,7 @@
           }
         },
         {
-          "id": "c400",
+          "id": "c406",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -3436,7 +3484,7 @@
           }
         },
         {
-          "id": "c401",
+          "id": "c407",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -3444,7 +3492,7 @@
           }
         },
         {
-          "id": "c402",
+          "id": "c408",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -3452,7 +3500,7 @@
           }
         },
         {
-          "id": "c403",
+          "id": "c409",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -3460,7 +3508,7 @@
           }
         },
         {
-          "id": "c404",
+          "id": "c410",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -3468,7 +3516,7 @@
           }
         },
         {
-          "id": "c405",
+          "id": "c411",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -3476,7 +3524,7 @@
           }
         },
         {
-          "id": "c406",
+          "id": "c412",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -3484,7 +3532,7 @@
           }
         },
         {
-          "id": "c407",
+          "id": "c413",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -3492,7 +3540,7 @@
           }
         },
         {
-          "id": "c408",
+          "id": "c414",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -3500,7 +3548,7 @@
           }
         },
         {
-          "id": "c409",
+          "id": "c415",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -3508,7 +3556,7 @@
           }
         },
         {
-          "id": "c410",
+          "id": "c416",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -3516,7 +3564,7 @@
           }
         },
         {
-          "id": "c411",
+          "id": "c417",
           "title": {
             "la": "Capitulum 17",
             "en-US": "Chapter 17",
@@ -3524,7 +3572,7 @@
           }
         },
         {
-          "id": "c412",
+          "id": "c418",
           "title": {
             "la": "Capitulum 18",
             "en-US": "Chapter 18",
@@ -3532,7 +3580,7 @@
           }
         },
         {
-          "id": "c413",
+          "id": "c419",
           "title": {
             "la": "Capitulum 20",
             "en-US": "Chapter 20",
@@ -3540,7 +3588,7 @@
           }
         },
         {
-          "id": "c414",
+          "id": "c420",
           "title": {
             "la": "Capitulum 21",
             "en-US": "Chapter 21",
@@ -3548,7 +3596,7 @@
           }
         },
         {
-          "id": "c415",
+          "id": "c421",
           "title": {
             "la": "Capitulum 22",
             "en-US": "Chapter 22",
@@ -3556,7 +3604,7 @@
           }
         },
         {
-          "id": "c416",
+          "id": "c422",
           "title": {
             "la": "Capitulum 23",
             "en-US": "Chapter 23",
@@ -3564,7 +3612,7 @@
           }
         },
         {
-          "id": "c417",
+          "id": "c423",
           "title": {
             "la": "Capitulum 24",
             "en-US": "Chapter 24",
@@ -3572,7 +3620,7 @@
           }
         },
         {
-          "id": "c418",
+          "id": "c424",
           "title": {
             "la": "Capitulum 25",
             "en-US": "Chapter 25",
@@ -3580,7 +3628,7 @@
           }
         },
         {
-          "id": "c419",
+          "id": "c425",
           "title": {
             "la": "Capitulum 26",
             "en-US": "Chapter 26",
@@ -3588,7 +3636,7 @@
           }
         },
         {
-          "id": "c420",
+          "id": "c426",
           "title": {
             "la": "Capitulum 27",
             "en-US": "Chapter 27",
@@ -3596,7 +3644,7 @@
           }
         },
         {
-          "id": "c421",
+          "id": "c427",
           "title": {
             "la": "Capitulum 28",
             "en-US": "Chapter 28",
@@ -3604,7 +3652,7 @@
           }
         },
         {
-          "id": "c422",
+          "id": "c428",
           "title": {
             "la": "Capitulum 29",
             "en-US": "Chapter 29",
@@ -3612,7 +3660,7 @@
           }
         },
         {
-          "id": "c423",
+          "id": "c429",
           "title": {
             "la": "Capitulum 30",
             "en-US": "Chapter 30",
@@ -3620,7 +3668,7 @@
           }
         },
         {
-          "id": "c424",
+          "id": "c430",
           "title": {
             "la": "Capitulum 31",
             "en-US": "Chapter 31",
@@ -3628,7 +3676,7 @@
           }
         },
         {
-          "id": "c425",
+          "id": "c431",
           "title": {
             "la": "Capitulum 32",
             "en-US": "Chapter 32",
@@ -3636,7 +3684,7 @@
           }
         },
         {
-          "id": "c426",
+          "id": "c432",
           "title": {
             "la": "Capitulum 33",
             "en-US": "Chapter 33",
@@ -3644,7 +3692,7 @@
           }
         },
         {
-          "id": "c427",
+          "id": "c433",
           "title": {
             "la": "Capitulum 34",
             "en-US": "Chapter 34",
@@ -3652,7 +3700,7 @@
           }
         },
         {
-          "id": "c428",
+          "id": "c434",
           "title": {
             "la": "Capitulum 35",
             "en-US": "Chapter 35",
@@ -3660,7 +3708,7 @@
           }
         },
         {
-          "id": "c429",
+          "id": "c435",
           "title": {
             "la": "Capitulum 36",
             "en-US": "Chapter 36",
@@ -3678,7 +3726,7 @@
       },
       "children": [
         {
-          "id": "c430",
+          "id": "c436",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -3686,7 +3734,7 @@
           }
         },
         {
-          "id": "c431",
+          "id": "c437",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -3694,7 +3742,7 @@
           }
         },
         {
-          "id": "c432",
+          "id": "c438",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -3702,7 +3750,7 @@
           }
         },
         {
-          "id": "c433",
+          "id": "c439",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -3710,7 +3758,7 @@
           }
         },
         {
-          "id": "c434",
+          "id": "c440",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -3718,7 +3766,7 @@
           }
         },
         {
-          "id": "c435",
+          "id": "c441",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -3726,7 +3774,7 @@
           }
         },
         {
-          "id": "c436",
+          "id": "c442",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -3734,7 +3782,15 @@
           }
         },
         {
-          "id": "c437",
+          "id": "c443",
+          "title": {
+            "la": "Capitulum 8",
+            "en-US": "Chapter 8",
+            "pt-BR": "Capítulo 8"
+          }
+        },
+        {
+          "id": "c444",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -3742,7 +3798,7 @@
           }
         },
         {
-          "id": "c438",
+          "id": "c445",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -3750,7 +3806,7 @@
           }
         },
         {
-          "id": "c439",
+          "id": "c446",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -3758,7 +3814,7 @@
           }
         },
         {
-          "id": "c440",
+          "id": "c447",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -3766,7 +3822,7 @@
           }
         },
         {
-          "id": "c441",
+          "id": "c448",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -3774,7 +3830,7 @@
           }
         },
         {
-          "id": "c442",
+          "id": "c449",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -3782,7 +3838,7 @@
           }
         },
         {
-          "id": "c443",
+          "id": "c450",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -3790,7 +3846,7 @@
           }
         },
         {
-          "id": "c444",
+          "id": "c451",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -3798,7 +3854,7 @@
           }
         },
         {
-          "id": "c445",
+          "id": "c452",
           "title": {
             "la": "Capitulum 17",
             "en-US": "Chapter 17",
@@ -3816,7 +3872,7 @@
       },
       "children": [
         {
-          "id": "c446",
+          "id": "c453",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -3824,7 +3880,7 @@
           }
         },
         {
-          "id": "c447",
+          "id": "c454",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -3832,7 +3888,7 @@
           }
         },
         {
-          "id": "c448",
+          "id": "c455",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -3840,7 +3896,7 @@
           }
         },
         {
-          "id": "c449",
+          "id": "c456",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -3848,7 +3904,7 @@
           }
         },
         {
-          "id": "c450",
+          "id": "c457",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -3856,7 +3912,7 @@
           }
         },
         {
-          "id": "c451",
+          "id": "c458",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -3864,7 +3920,7 @@
           }
         },
         {
-          "id": "c452",
+          "id": "c459",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -3872,7 +3928,7 @@
           }
         },
         {
-          "id": "c453",
+          "id": "c460",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -3880,7 +3936,7 @@
           }
         },
         {
-          "id": "c454",
+          "id": "c461",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -3888,7 +3944,7 @@
           }
         },
         {
-          "id": "c455",
+          "id": "c462",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -3896,7 +3952,7 @@
           }
         },
         {
-          "id": "c456",
+          "id": "c463",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -3904,7 +3960,7 @@
           }
         },
         {
-          "id": "c457",
+          "id": "c464",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -3912,7 +3968,7 @@
           }
         },
         {
-          "id": "c458",
+          "id": "c465",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -3920,7 +3976,7 @@
           }
         },
         {
-          "id": "c459",
+          "id": "c466",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -3928,7 +3984,7 @@
           }
         },
         {
-          "id": "c460",
+          "id": "c467",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -3936,7 +3992,7 @@
           }
         },
         {
-          "id": "c461",
+          "id": "c468",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -3944,7 +4000,7 @@
           }
         },
         {
-          "id": "c462",
+          "id": "c469",
           "title": {
             "la": "Capitulum 17",
             "en-US": "Chapter 17",
@@ -3952,7 +4008,7 @@
           }
         },
         {
-          "id": "c463",
+          "id": "c470",
           "title": {
             "la": "Capitulum 18",
             "en-US": "Chapter 18",
@@ -3960,7 +4016,7 @@
           }
         },
         {
-          "id": "c464",
+          "id": "c471",
           "title": {
             "la": "Capitulum 19",
             "en-US": "Chapter 19",
@@ -3968,7 +4024,7 @@
           }
         },
         {
-          "id": "c465",
+          "id": "c472",
           "title": {
             "la": "Capitulum 20",
             "en-US": "Chapter 20",
@@ -3976,7 +4032,7 @@
           }
         },
         {
-          "id": "c466",
+          "id": "c473",
           "title": {
             "la": "Capitulum 21",
             "en-US": "Chapter 21",
@@ -3994,7 +4050,7 @@
       },
       "children": [
         {
-          "id": "c467",
+          "id": "c474",
           "title": {
             "la": "Capitulum 1",
             "en-US": "Chapter 1",
@@ -4002,7 +4058,7 @@
           }
         },
         {
-          "id": "c468",
+          "id": "c475",
           "title": {
             "la": "Capitulum 2",
             "en-US": "Chapter 2",
@@ -4010,7 +4066,7 @@
           }
         },
         {
-          "id": "c469",
+          "id": "c476",
           "title": {
             "la": "Capitulum 3",
             "en-US": "Chapter 3",
@@ -4018,7 +4074,7 @@
           }
         },
         {
-          "id": "c470",
+          "id": "c477",
           "title": {
             "la": "Capitulum 4",
             "en-US": "Chapter 4",
@@ -4026,7 +4082,7 @@
           }
         },
         {
-          "id": "c471",
+          "id": "c478",
           "title": {
             "la": "Capitulum 5",
             "en-US": "Chapter 5",
@@ -4034,7 +4090,7 @@
           }
         },
         {
-          "id": "c472",
+          "id": "c479",
           "title": {
             "la": "Capitulum 6",
             "en-US": "Chapter 6",
@@ -4042,7 +4098,7 @@
           }
         },
         {
-          "id": "c473",
+          "id": "c480",
           "title": {
             "la": "Capitulum 7",
             "en-US": "Chapter 7",
@@ -4050,7 +4106,7 @@
           }
         },
         {
-          "id": "c474",
+          "id": "c481",
           "title": {
             "la": "Capitulum 8",
             "en-US": "Chapter 8",
@@ -4058,7 +4114,7 @@
           }
         },
         {
-          "id": "c475",
+          "id": "c482",
           "title": {
             "la": "Capitulum 9",
             "en-US": "Chapter 9",
@@ -4066,7 +4122,7 @@
           }
         },
         {
-          "id": "c476",
+          "id": "c483",
           "title": {
             "la": "Capitulum 10",
             "en-US": "Chapter 10",
@@ -4074,7 +4130,7 @@
           }
         },
         {
-          "id": "c477",
+          "id": "c484",
           "title": {
             "la": "Capitulum 11",
             "en-US": "Chapter 11",
@@ -4082,7 +4138,7 @@
           }
         },
         {
-          "id": "c478",
+          "id": "c485",
           "title": {
             "la": "Capitulum 12",
             "en-US": "Chapter 12",
@@ -4090,7 +4146,7 @@
           }
         },
         {
-          "id": "c479",
+          "id": "c486",
           "title": {
             "la": "Capitulum 13",
             "en-US": "Chapter 13",
@@ -4098,7 +4154,7 @@
           }
         },
         {
-          "id": "c480",
+          "id": "c487",
           "title": {
             "la": "Capitulum 14",
             "en-US": "Chapter 14",
@@ -4106,7 +4162,7 @@
           }
         },
         {
-          "id": "c481",
+          "id": "c488",
           "title": {
             "la": "Capitulum 15",
             "en-US": "Chapter 15",
@@ -4114,7 +4170,7 @@
           }
         },
         {
-          "id": "c482",
+          "id": "c489",
           "title": {
             "la": "Capitulum 16",
             "en-US": "Chapter 16",
@@ -4122,7 +4178,7 @@
           }
         },
         {
-          "id": "c483",
+          "id": "c490",
           "title": {
             "la": "Capitulum 17",
             "en-US": "Chapter 17",
@@ -4130,7 +4186,7 @@
           }
         },
         {
-          "id": "c484",
+          "id": "c491",
           "title": {
             "la": "Capitulum 18",
             "en-US": "Chapter 18",
@@ -4138,7 +4194,7 @@
           }
         },
         {
-          "id": "c485",
+          "id": "c492",
           "title": {
             "la": "Capitulum 19",
             "en-US": "Chapter 19",
@@ -4146,7 +4202,7 @@
           }
         },
         {
-          "id": "c486",
+          "id": "c493",
           "title": {
             "la": "Capitulum 20",
             "en-US": "Chapter 20",
@@ -4154,7 +4210,7 @@
           }
         },
         {
-          "id": "c487",
+          "id": "c494",
           "title": {
             "la": "Capitulum 21",
             "en-US": "Chapter 21",
@@ -4162,7 +4218,7 @@
           }
         },
         {
-          "id": "c488",
+          "id": "c495",
           "title": {
             "la": "Capitulum 22",
             "en-US": "Chapter 22",
@@ -4170,7 +4226,7 @@
           }
         },
         {
-          "id": "c489",
+          "id": "c496",
           "title": {
             "la": "Capitulum 23",
             "en-US": "Chapter 23",
@@ -4178,7 +4234,7 @@
           }
         },
         {
-          "id": "c490",
+          "id": "c497",
           "title": {
             "la": "Capitulum 24",
             "en-US": "Chapter 24",
@@ -4186,7 +4242,7 @@
           }
         },
         {
-          "id": "c491",
+          "id": "c498",
           "title": {
             "la": "Capitulum 25",
             "en-US": "Chapter 25",
@@ -4194,7 +4250,7 @@
           }
         },
         {
-          "id": "c492",
+          "id": "c499",
           "title": {
             "la": "Capitulum 26",
             "en-US": "Chapter 26",

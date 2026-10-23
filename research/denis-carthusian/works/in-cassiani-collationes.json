@@ -334,7 +334,7 @@
   ],
   "path": "denis-opera-omnia/masters/in-cassiani-collationes",
   "slug": "in-cassiani-collationes",
-  "draft": true,
+  "draft": false,
   "meta": {
     "id": "denis-in-cassiani-collationes",
     "cover": "label",
@@ -350,14 +350,14 @@
     },
     "description": {
       "la": "In Collationes SS. Patrum Cassiani.",
-      "en-US": "Denis the Carthusian's commentary, article by article. Uncorrected OCR text: not yet proofread against the scans.",
-      "pt-BR": "O comentário de Dionísio, o Cartuxo, artigo por artigo. Texto do OCR ainda não revisto contra as digitalizações."
+      "en-US": "Denis the Carthusian's commentary, article by article.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, artigo por artigo."
     },
     "sources": [
       {
         "language": "la",
         "url": "https://archive.org/details/operaomniainunum27deni",
-        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXVII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXVII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
       }
     ]
   }
