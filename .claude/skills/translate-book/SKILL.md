@@ -123,6 +123,7 @@ Key principles:
 ### Footnotes
 
 - **Translate every source footnote**, author's or editor's: same `[^N]` marker at the same place, same definition, translated. A note that only cites a reference (`[^12]: 1 Corinthians 3:17.`) takes the target language's book name.
+- **Keep every inline note of the edition** in its place and markup, such as the Leonine critical apparatus `*(*possimus.—possumus* codices et edd. *a b*.)*`: the Latin readings and sigla stay as they are, the editor's own words are translated. No note of the source is left out.
 - **Add translator notes where they genuinely help** — a wordplay or etymology the translation cannot carry, a term of art, an obscure person, place, custom or allusion; short, a few per book, never commentary on the doctrine. Number them after the source's notes and list them in the journal. Use markdown footnote syntax:
   ```
   [^1]: *Translator's note:* explanation here.
