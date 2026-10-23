@@ -51,7 +51,7 @@
   mas recebe-o todo inteiro.
 - Quer o recebam mil, quer um só,  
   todos recebem o mesmo,  
-  nem recebendo-o podem consumi-lo.
+  nem recebendo-o podem consumi-lo. *(O manuscrito BNF 1143 (Bibliothèque Nationale de France, Lat. 1143) traz *absumitur* em vez de *consumitur*.)*
 - Recebem-no os bons e os maus igualmente,  
   todos recebem o mesmo, porém com efeitos diversos:  
   os bons para a vida e os maus para a morte.
@@ -81,6 +81,6 @@
   contemplar o Bem supremo.
 - Ó Vós que tudo sabeis e tudo podeis,  
   que nos alimentais nesta vida mortal,  
-  admiti-nos no Céu, à Vossa mesa,  
+  admiti-nos no Céu, à Vossa mesa, *(O BNF 1143 traz *tuos* em vez de *tu nos*.)*  
   e fazei-nos co-herdeiros e companheiros  
   dos santos cidadãos. Amém. Aleluia.
