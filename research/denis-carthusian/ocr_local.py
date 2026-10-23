@@ -71,20 +71,30 @@ def only_references(text: str) -> bool:
     return bool(scripture_ref.search(text)) and not re.search(r"[A-Za-zæœ]{2,}", rest)
 
 
-def dots_markdown(raw: str) -> str:
+def text_cells(raw: str) -> tuple[list[dict], float]:
+    """The page's layout blocks without running heads and pictures, and the median width of a text block (a column)."""
     cells = [c for c in json.loads(raw) if c.get("category") not in ("Page-header", "Page-footer", "Picture")]
     widths = sorted(c["bbox"][2] - c["bbox"][0] for c in cells if c["category"] == "Text")
-    column = widths[len(widths) // 2] if widths else 0
+    return cells, widths[len(widths) // 2] if widths else 0
+
+
+def in_margin(cell: dict, column: float) -> bool:
+    # Scripture references and verse numbers printed in the outer margins come back
+    # as Text blocks a fraction of a column wide, or, when a column of them is read
+    # together, as one block as wide as the text that holds nothing else.
+    text = cell.get("text", "").strip()
+    return cell["category"] == "Text" and (cell["bbox"][2] - cell["bbox"][0] < column * 0.3 or only_references(text))
+
+
+def dots_markdown(raw: str) -> str:
+    cells, column = text_cells(raw)
     body, margin = [], []
     for c in cells:
         text = c.get("text", "").strip()
         # The A–D section letters in the gutter sometimes come back as blocks of their own.
         if re.fullmatch(r"[A-D]", text):
             continue
-        # Scripture references and verse numbers printed in the outer margins come back
-        # as Text blocks a fraction of a column wide, or, when a column of them is read
-        # together, as one block as wide as the text that holds nothing else.
-        if c["category"] == "Text" and (c["bbox"][2] - c["bbox"][0] < column * 0.3 or only_references(text)):
+        if in_margin(c, column):
             margin.append(text)
             continue
         if c["category"] in ("Section-header", "Title"):

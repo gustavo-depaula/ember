@@ -74,11 +74,11 @@ def cropped(page: Image.Image, raw: str, stem: str, height: int) -> Path:
     return path
 
 
-def ask_claude(image: Path, draft: str, effort: str) -> dict:
+def ask_claude(image: Path, draft: str, effort: str, prompt: Path) -> dict:
     reply = subprocess.run(
         [
             "claude", "-p", "--model", "sonnet", "--effort", effort,
-            "--system-prompt", (here / "fix-prompt.md").read_text(),
+            "--system-prompt", prompt.read_text(),
             "--tools", "Read", "--allowedTools", "Read",
             "--strict-mcp-config", "--setting-sources", "", "--disable-slash-commands",
             "--no-session-persistence", "--output-format", "json",
@@ -98,7 +98,7 @@ def ask_claude(image: Path, draft: str, effort: str) -> dict:
     return result
 
 
-def check(stem: str, load_page, drafts: Path, out: Path, effort: str, crop: int) -> dict | None:
+def check(stem: str, load_page, drafts: Path, out: Path, effort: str, crop: int, prompt: Path) -> dict | None:
     if limit_reached.is_set() or (out / f"{stem}.jsonl").exists():
         return None
     draft_path = drafts / f"{stem}.md"
@@ -111,7 +111,7 @@ def check(stem: str, load_page, drafts: Path, out: Path, effort: str, crop: int)
         write_atomic(out / f"{stem}.jsonl", "")  # a blank page
         return None
     try:
-        result = ask_claude(cropped(load_page(), raw, stem, crop), draft, effort)
+        result = ask_claude(cropped(load_page(), raw, stem, crop), draft, effort, prompt)
     except LimitReached as error:
         limit_reached.set()
         print(f"{stem}: usage limit reached ({error}); stopping", flush=True)
@@ -156,6 +156,7 @@ def main() -> None:
     parser.add_argument("--effort", default="high")
     parser.add_argument("--crop", type=int, default=1600, help="crop to the text and scale to this height")
     parser.add_argument("--parallel", type=int, default=4)
+    parser.add_argument("--prompt", type=Path, default=here / "fix-prompt.md", help="the fix-list instructions (another book's, e.g. ../ocr-books/fix-prompt.md)")
     args = parser.parse_args()
     if args.volume:
         pages = volume_pages(args.volume, args.leaves)
@@ -168,7 +169,7 @@ def main() -> None:
     workdir.mkdir(exist_ok=True)
     print(f"{time.strftime('%Y-%m-%d %H:%M:%S')} checking {len(pages)} pages into {out}", flush=True)
     with ThreadPoolExecutor(args.parallel) as pool:
-        usages = [u for u in pool.map(lambda p: check(p[0], p[1], drafts, out, args.effort, args.crop), pages) if u]
+        usages = [u for u in pool.map(lambda p: check(p[0], p[1], drafts, out, args.effort, args.crop, args.prompt.resolve()), pages) if u]
     if usages:
         n = len(usages)
         total = {k: sum(u[k] for u in usages) for k in ("cache_creation_input_tokens", "cache_read_input_tokens", "output_tokens", "total_cost_usd")}

@@ -31,6 +31,7 @@ from PIL import Image
 
 from apply_fixes import apply, plain_and_mask, render
 from catalogue import roman as roman_numeral
+from ocr_local import in_margin, only_references, scripture_ref, text_cells
 from run_volumes import data, volume_zip
 
 repo = Path(__file__).resolve().parents[2]
@@ -47,6 +48,247 @@ def from_roman(s: str) -> int:
     return total
 
 
+# The margin notes become footnotes. Until the text is cut into chapters, each sits
+# in it as a token, "\ue000<n>\ue001" (private-use characters, so no rule that
+# reads the text mistakes it for a word or punctuation), indexing this list.
+notes: list[str] = []
+note_token = re.compile("\ue000(\\d+)\ue001")
+
+
+def keep_note(text: str) -> bool:
+    """Not the gutter's section letters, a stray verse number, or a Google scan's notice."""
+    return not re.fullmatch(r"[A-Z]?[\d\s.,*']*", text) and "We also ask" not in text and "Google" not in text
+
+
+page_images: dict[str, tuple[zipfile.ZipFile, dict]] = {}
+
+
+def page_image(volume: str, leaf: str) -> Image.Image | None:
+    if volume not in page_images:
+        zf = zipfile.ZipFile(volume_zip(volume))
+        page_images[volume] = zf, {Path(n).stem.rsplit("_", 1)[-1]: n for n in zf.namelist() if n.endswith((".jp2", ".tif"))}
+    zf, names = page_images[volume]
+    return Image.open(io.BytesIO(zf.read(names[leaf]))).convert("L") if leaf in names else None
+
+
+def word_fraction(image: Image.Image, bbox: list, y: float) -> float | None:
+    """How far into a text block, in words, the printed line at height `y` falls.
+
+    Read off the scan: the block's lines are the bands of rows with ink, its words
+    the runs of ink between gaps wider than about half a line's height. Counting
+    words rather than characters matters because italic lines hold more of them.
+    """
+    scale = min(1.0, (4_000_000 / (image.width * image.height)) ** 0.5)  # the frame dots.mocr saw
+    x0, y0, x1, y1 = (round(v / scale) for v in bbox)
+    if x1 <= x0 or y1 <= y0:  # dots.mocr now and then gives a box inside out
+        return None
+    crop = np.asarray(image.crop((x0, y0, x1, y1)), dtype=float)
+    if crop.size == 0:
+        return None
+    dark = crop < 0.6 * np.median(crop)
+    lines, start = [], None
+    for i, inked in enumerate(list(dark.mean(1) > 0.02) + [False]):
+        if inked and start is None:
+            start = i
+        elif not inked and start is not None:
+            if i - start > 8:
+                lines.append((start, i))
+            start = None
+    if not lines:
+        return None
+    gap = 0.55 * float(np.median([b - a for a, b in lines]))
+    counts = []
+    for a, b in lines:
+        n, run = 0, gap
+        for inked in dark[a:b].any(0):
+            if inked:
+                n += run >= gap
+                run = 0
+            else:
+                run += 1
+        counts.append(n)
+    target = y / scale - y0
+    line = min(range(len(lines)), key=lambda i: abs((lines[i][0] + lines[i][1]) / 2 - target))
+    return (sum(counts[:line]) + counts[line] / 2) / max(1, sum(counts))
+
+
+def margin_anchors(drafts: Path, leaf: str, draft: str, fixes: list[dict], corrected: str) -> list[tuple]:
+    """Each margin note of the page, with what says where it belongs.
+
+    A note printed in the margin belongs to the line beside it: the block it is
+    level with, at the same fraction of that block's height ("span": the block's
+    text and the fraction). One the proofreader took out of the body, a reference
+    read into the text, belongs where it was ("at": its place in the draft),
+    unless the layout shows it as a block of its own in the margin.
+    """
+    leaked = {squeeze(f["margin"]) for f in fixes if "margin" in f}
+    try:
+        cells, _ = text_cells((drafts / f"{leaf}.raw.txt").read_text())
+    except (ValueError, KeyError, TypeError):
+        cells = []
+    widest = max((c["bbox"][2] - c["bbox"][0] for c in cells if c["category"] == "Text"), default=0)
+    image = None
+
+    def margin(c: dict) -> bool:
+        # The median block can itself be a note (a page with many), so measure against the widest.
+        narrow = c["bbox"][2] - c["bbox"][0] < widest * 0.3
+        text = c.get("text", "").strip()
+        return c["category"] == "Text" and (only_references(text) or narrow) and (in_margin(c, 0) or squeeze(text) in leaked or narrow)
+
+    body = [c for c in cells if c["category"] in ("Text", "List-item") and not margin(c)]
+    anchors, seen = [], set()
+    in_body = squeeze(corrected)
+    for cell in cells:
+        if not margin(cell):
+            continue
+        text = " ".join(cell.get("text", "").split())
+        if squeeze(text) in in_body:  # still in the text (a draft, or a note the proofreader left): not a footnote too
+            continue
+        # One block can hold a column of references: split it where the next one starts.
+        refs = re.split(r"(?<=[.;])\s+(?=(?:[IV]{1,3}\s+|\d\s*)?[A-Z][a-zæœ]{1,8}\.)", text) if only_references(text) else [text]
+        x0, y0, x1, y1 = cell["bbox"]
+        for k, ref in enumerate(refs):
+            if not keep_note(ref):
+                continue
+            seen.add(squeeze(ref))
+            y = y0 + (k + 0.5) / len(refs) * (y1 - y0)
+            if not body:
+                anchors.append(("at", None, ref))
+                continue
+            block = min(body, key=lambda b: (0 if b["bbox"][1] <= y <= b["bbox"][3] else abs(y - b["bbox"][1]),
+                                             max(b["bbox"][0] - x1, x0 - b["bbox"][2], 0)))
+            words, after = (re.sub(r"(?<=[a-zæœ])-\s?(?=[a-zæœ])", "", re.sub(r"\A[A-D] ", "", b.get("text", "").replace("*", "")))
+                            for b in (block, body[body.index(block) + 1] if block is not body[-1] else {}))
+            image = image or page_image(drafts.name, leaf)
+            fraction = word_fraction(image, block["bbox"], y) if image else None
+            if fraction is None:
+                fraction = min(1.0, max(0.0, (y - block["bbox"][1]) / max(1, block["bbox"][3] - block["bbox"][1])))
+            starts = [m.start() for m in re.finditer(r"\S+", words)] or [0]
+            anchors.append(("span", words, after, fraction, locate(draft, words, starts[min(len(starts) - 1, int(fraction * len(starts)))]), ref))
+    # The proofreader also lists, now and then, a note that was in the margin all along.
+    for fix in fixes:
+        if "margin" not in fix or not keep_note(fix["margin"]):
+            continue
+        pieces = re.split(r"(?<=[.;])\s+(?=(?:[IV]{1,3}\s+|\d\s*)?[A-Z][a-zæœ]{1,8}\.)", fix["margin"])
+        if squeeze(fix["margin"]) in seen or all(squeeze(p) in seen for p in pieces):
+            continue
+        seen.add(squeeze(fix["margin"]))
+        anchors.append(("at", loose_find(draft, fix.get("find", fix["margin"]).replace("*", "")), fix["margin"]))
+    return anchors
+
+
+def squeeze(text: str) -> str:
+    """A note's text for comparison: "Ibid. XVI, 18;" and "* habitan- tibus" as the proofreader may write them."""
+    return re.sub(r"[\s.,;*-]", "", text).lower()
+
+
+def loose_find(text: str, needle: str) -> int | None:
+    """`needle` in `text`, whatever the case and spacing ("Matth. XIV, 3" for "Matth. xiv,3")."""
+    words = [re.escape(w) for w in needle.split()]
+    m = re.search(r"\s*".join(words), text, flags=re.I) if words else None
+    return m.start() if m else None
+
+
+def locate(text: str, source: str, at: int) -> int | None:
+    """Where position `at` of `source` (a block, or an earlier version of the page) falls in `text`."""
+    for width in (40, 24, 14):
+        for probe, offset in ((source[max(0, at - width):at], 0), (source[at:at + width], None)):
+            if len(probe) < 8 or text.count(probe) != 1:
+                continue
+            start = text.index(probe)
+            return start + len(probe) if offset == 0 else start
+    match = difflib.SequenceMatcher(None, text, source, autojunk=False).find_longest_match(0, len(text), 0, len(source))
+    return min(len(text), max(0, match.a + at - match.b)) if match.size >= 8 else None
+
+
+def sentence_end(text: str, at: int, moves: int = 0) -> int:
+    """The end of the sentence (or clause) running at `at`, within its paragraph; never in a heading."""
+    line = text.rfind("\n", 0, at) + 1
+    if moves > 4:  # sent back and forth between a heading and a scrap: just before the heading
+        return len(text[:line].rstrip())
+    if text.startswith("#", line):  # a heading: the note goes with the text after it, or before it at a page's end
+        nxt = text.find("\n", at)
+        rest = text[nxt:].strip() if nxt >= 0 else ""
+        return sentence_end(text, nxt + len(text[nxt:]) - len(text[nxt:].lstrip()), moves + 1) if rest else len(text[:line].rstrip())
+    start = text.rfind("\n\n", 0, at) + 2 if "\n\n" in text[:at] else 0
+    ends = [i for i in (text.find("\n\n", at), text.find("\n#", at)) if i >= 0]
+    end = min(ends) if ends else len(text)
+    paragraph = text[start:end].strip()
+    def scrap(p: str) -> bool:
+        return only_references(p) or not re.search(r"[A-Za-zæœ]{2}", p)
+
+    if start >= 2 and scrap(paragraph):
+        # Scraps left in the body (references, a page number): the paragraph before them.
+        while start >= 2:
+            before = text.rfind("\n\n", 0, start - 2)
+            prev_start = before + 2 if before >= 0 else 0
+            if not scrap(text[prev_start:start - 2]):
+                return sentence_end(text, start - 2, moves + 1)
+            start = prev_start
+        return at
+    for m in re.finditer(r"[.?!;:](?=\s|$)", text[at:end]):
+        word = re.search(r"(\S+)$", text[:at + m.start()])
+        # Not after an abbreviation ("S. Thomas", "cap. II.", "Is. ix") or a numeral.
+        if m.group(0) == "." and word and re.fullmatch(r"[A-Z][a-zæœ]{0,4}|[IVXLCivxlc\d,]+|cap|art|lib|dist|part|q|v|n|c|p|t|cf|vers|ibid|seq|sec", word.group(1).strip("*(")):
+            continue
+        return at + m.end()
+    if text[:end].rstrip().endswith("-") and end < len(text):  # a word broken here goes on below
+        return sentence_end(text, end + len(text[end:]) - len(text[end:].lstrip()), moves + 1)
+    return len(text[:end].rstrip())
+
+
+def place_notes(draft: str, body: str, anchors: list[tuple]) -> str:
+    """The corrected page with a token at the end of the sentence each note belongs to."""
+    # Fixes that took text out leave runs of blank lines.
+    plain, mask = plain_and_mask(re.sub(r"\n{3,}", "\n\n", body).strip())
+    draft_plain = plain_and_mask(draft)[0]
+    placed = []
+    for anchor in anchors:
+        where = None
+        if anchor[0] == "span":
+            # Measured in the corrected text: the draft can lack lines the proofreader restored.
+            # The block runs to where the next one starts: dots sometimes drops a block's
+            # last lines, which the proofreader puts back.
+            _, words, after, fraction, at, note = anchor
+            start, end = locate(plain, words, 0), locate(plain, words, len(words))
+            following = locate(plain, after, 0) if len(after) >= 8 else None
+            if start is not None and following is not None and following > start and (end is None or following > end):
+                end = following
+            if start is not None and end is not None and end > start:
+                starts = [m.start() for m in re.finditer(r"\S+", plain[start:end])] or [0]
+                where = start + starts[min(len(starts) - 1, int(fraction * len(starts)))]
+            elif at is not None:
+                where = locate(plain, draft_plain, at)
+        else:
+            _, at, note = anchor
+            where = locate(plain, draft_plain, at) if at is not None else None
+        if where is None:  # nothing to go by: the end of the page's last paragraph
+            where = len(plain.rstrip())
+        placed.append((sentence_end(plain, where), note))
+    for where, note in sorted(placed, key=lambda p: p[0], reverse=True):
+        notes.append(note)
+        token = f"\ue000{len(notes) - 1}\ue001"
+        plain = plain[:where] + token + plain[where:]
+        # In the italics of the text before it, so the run is not broken around the mark.
+        mask[where:where] = [bool(where) and mask[where - 1]] * len(token)
+    return render(plain, mask)
+
+
+def with_footnotes(body: str) -> str:
+    """A chapter's tokens as numbered footnotes, defined at its end."""
+    defined = []
+
+    def mark(m: re.Match) -> str:
+        defined.append(notes[int(m.group(1))])
+        return f"[^{len(defined)}]"
+
+    body = note_token.sub(mark, body)
+    if not defined:
+        return body
+    lines = [f"[^{i}]: " + " ".join(n.split()).replace("*", r"\*").replace("[", r"\[") for i, n in enumerate(defined, 1)]
+    return body.rstrip() + "\n\n" + "\n".join(lines)
+
+
 def page_text(drafts: Path, checked: Path, leaf: str) -> tuple[str, list[str]]:
     draft = (drafts / f"{leaf}.md").read_text()
     fixes_path = checked / f"{leaf}.jsonl"
@@ -54,6 +296,8 @@ def page_text(drafts: Path, checked: Path, leaf: str) -> tuple[str, list[str]]:
     text, _ = apply(draft, fixes)
     margin = re.findall(r"<!-- margin: (.*?) -->", text, flags=re.S)
     body = re.sub(r"\s*<!-- margin: .*? -->\s*", "\n", text, flags=re.S).strip()
+    draft_body = re.sub(r"\s*<!-- margin: .*? -->\s*", "\n", draft, flags=re.S).strip()
+    body = place_notes(draft_body, body, margin_anchors(drafts, leaf, plain_and_mask(draft_body)[0], fixes, plain_and_mask(body)[0]))
     return body, margin
 
 
@@ -110,7 +354,14 @@ def join_pages(pages: list[str]) -> str:
             text = body
             continue
         last_end = text.rstrip()
-        if not re.search(r"[.:?!»]\**$", last_end) and not last_end.split("\n")[-1].startswith("#") and re.match(r"\**[a-zæœ]", body):
+        # Notes at the foot of a page go after the sentence the next page finishes,
+        # so they cannot keep a word broken over the page ("di-" + "citur") apart.
+        held = re.search(r"(\ue000\d+\ue001)+$", last_end)
+        if held and not re.search(r"[.:?!»]\**$", last_end[:held.start()]) and re.match(r"\**[a-zæœ]", body):
+            last_end = last_end[:held.start()]
+            end = re.search(r"[.?!;:]\**(?=\s|$)|\n\n|$", body)
+            body = body[:end.end()] + held.group(0) + body[end.end():] if end.group(0) != "\n\n" else body[:end.start()] + held.group(0) + body[end.start():]
+        if not re.search(r"[.:?!»]\**(\ue000\d+\ue001)*$", last_end) and not last_end.split("\n")[-1].startswith("#") and re.match(r"\**[a-zæœ]", body):
             text = last_end[:-1] + body if last_end.endswith("-") else f"{last_end} {body}"
         else:
             text = f"{last_end}\n\n{body}"
@@ -136,9 +387,9 @@ def main(work_path: Path) -> None:
     names = {Path(n).stem.rsplit("_", 1)[-1]: n for n in zf.namelist() if n.endswith((".jp2", ".tif"))}
     dropped = set()
     for i, leaf in enumerate(leaves):
-        start = texts[leaf][0][:600]
+        start = note_token.sub("", texts[leaf][0])[:600]
         for earlier in leaves[max(0, i - 6):i]:
-            if len(start) > 200 and difflib.SequenceMatcher(None, texts[earlier][0][:600], start).ratio() > 0.6:
+            if len(start) > 200 and difflib.SequenceMatcher(None, note_token.sub("", texts[earlier][0])[:600], start).ratio() > 0.6:
                 worse = min((earlier, leaf), key=lambda l: ink(zf, names, drafts, l))
                 dropped.add(worse)
                 print(f"leaves {earlier} and {leaf} are the same page; dropping {worse}")
@@ -153,7 +404,7 @@ def main(work_path: Path) -> None:
     for leaf in leaves:
         body, margin = texts[leaf]
         head, number = running_head(drafts, leaf)
-        source.append(f"--- leaf {leaf}, p. {number or '?'} ---\n{body}" + (f"\n[margin: {' | '.join(margin)}]" if margin else ""))
+        source.append(f"--- leaf {leaf}, p. {number or '?'} ---\n{note_token.sub('', body)}" + (f"\n[margin: {' | '.join(margin)}]" if margin else ""))
         # A page with nothing but a number on it is a library stamp or a blank leaf.
         if not body or re.fullmatch(r"[\d\s]+", body):
             continue
@@ -196,7 +447,7 @@ def main(work_path: Path) -> None:
     for old in (out / "la").glob("*.md"):
         old.unlink()
     for c in chapters:
-        (out / "la" / f"{c['id']}.md").write_text(f"# {c['la']}\n\n{c['body']}\n")
+        (out / "la" / f"{c['id']}.md").write_text(f"# {c['la']}\n\n{with_footnotes(c['body'])}\n")
     (out / "sources" / "latin-originals").mkdir(parents=True, exist_ok=True)
     (out / "sources" / "latin-originals" / f"{work['slug']}.txt").write_text("\n\n".join(source) + "\n")
 
@@ -397,12 +648,16 @@ def dedupe_retakes(volume: str, leaves: list[str], texts: dict) -> list[str]:
     names = {Path(n).stem.rsplit("_", 1)[-1]: n for n in zf.namelist() if n.endswith((".jp2", ".tif"))}
     drafts = data / "dots" / volume
     dropped = set()
+    def start(leaf: str) -> str:
+        return note_token.sub("", texts[leaf][0])[:600]
+
     for i, leaf in enumerate(leaves):
-        start = texts[leaf][0][:600]
+        if len(start(leaf)) <= 200:
+            continue
         for earlier in leaves[max(0, i - 6):i]:
-            if earlier in dropped or len(start) <= 200:
+            if earlier in dropped:
                 continue
-            if difflib.SequenceMatcher(None, texts[earlier][0][:600], start).ratio() > 0.6:
+            if difflib.SequenceMatcher(None, start(earlier), start(leaf)).ratio() > 0.6:
                 worse = min((earlier, leaf), key=lambda l: ink(zf, names, drafts, l))
                 dropped.add(worse)
     return [leaf for leaf in leaves if leaf not in dropped]
@@ -523,8 +778,8 @@ def assemble_parts(work: dict) -> None:
                 continue
             body, margin = texts[leaf]
             head, number = running_head(drafts, leaf)
-            source.append(f"--- {volume} leaf {leaf}, p. {number or '?'} ---\n{body}" + (f"\n[margin: {' | '.join(margin)}]" if margin else ""))
-            if body and not re.fullmatch(r"[\d\s]+", body):
+            source.append(f"--- {volume} leaf {leaf}, p. {number or '?'} ---\n{note_token.sub('', body)}" + (f"\n[margin: {' | '.join(margin)}]" if margin else ""))
+            if body and not re.fullmatch(r"[\d\s]+", note_token.sub("", body)):
                 pages.append((body, head))
             if gaps.get(leaf, ("",))[0] == "after":
                 pages.append((gaps[leaf][1], ""))
@@ -571,7 +826,7 @@ def assemble_parts(work: dict) -> None:
         old.unlink()
     for c in chapters:
         body = "\n".join(c["lines"]).strip()
-        (out / "la" / f"{c['id']}.md").write_text(f"# {c['title']['la']}\n\n{body}\n")
+        (out / "la" / f"{c['id']}.md").write_text(f"# {c['title']['la']}\n\n{with_footnotes(body)}\n")
     if not work.get("draft"):
         (out / "sources" / "latin-originals").mkdir(parents=True, exist_ok=True)
         (out / "sources" / "latin-originals" / f"{work['slug']}.txt").write_text("\n\n".join(source) + "\n")

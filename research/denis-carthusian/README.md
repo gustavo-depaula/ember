@@ -80,6 +80,15 @@ On the subscription, the budget is usage limits, not dollars. That changed the d
 - Where the text has no groups, the running heads supply them: the chapter of the sacred book a commentary's articles treat, and the books of a work whose articles start again at 1 in each book (Boethius, the *Summa fidei*).
 - A chapter with almost no text (a title, a bare heading) is folded into the next.
 
+The margin notes (scripture references, cross-references, variant readings) become footnotes, about 68,000 of them. Each is set at the end of the sentence beside which it is printed:
+
+- Its height on the page gives the line: `word_fraction` finds the text block's lines and words on the scan (a word gap is wider than about half a line's height), because counting characters drifts on italic lines, which hold more of them.
+- That fraction is measured in the corrected text, running to where the next block starts: dots.mocr sometimes drops a block's last lines, which the proofreader puts back.
+- A reference the proofreader took out of the body goes where it was. One it lists that the margin already holds is not added twice, and a block whose text is still in the body (a draft, where dots.mocr read the references in as paragraphs) is not made a footnote.
+- Notes stay out of headings, and out of a word broken over a page or column break.
+
+On a Matthew page checked against the scan (tome XI, p. 48), seven of ten notes land after the sentence they are printed beside, two a clause or two lines off, and one eight lines late, where dots.mocr's box for the block does not fit its text. The note text is the margin text as read, so a draft's notes carry its misreadings.
+
 `collection.py` rebuilds the collection's sections from the catalogue, so a work added there reaches the app with its next run.
 
 Draft books carry no `sources/latin-originals/` page dump: at this size it would double the corpus, and the drafts are in `~/ember-data`. A book gets one when it is proofread.
