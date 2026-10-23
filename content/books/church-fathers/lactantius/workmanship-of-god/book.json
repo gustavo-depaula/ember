@@ -2,13 +2,16 @@
   "id": "lactantius-workmanship-of-god",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Workmanship of God"
+    "en-US": "On the Workmanship of God",
+    "pt-BR": "Da Obra de Deus"
   },
   "author": {
-    "en-US": "Lactantius"
+    "en-US": "Lactantius",
+    "pt-BR": "Lactâncio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Workmanship of God"
+        "en-US": "On the Workmanship of God",
+        "pt-BR": "Da Obra de Deus"
       }
     }
   ]
