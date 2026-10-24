@@ -2,13 +2,16 @@
   "id": "augustine-consentius",
   "cover": "quarter",
   "name": {
-    "en-US": "To Consentius: Against Lying"
+    "en-US": "To Consentius: Against Lying",
+    "pt-BR": "A Consêncio: Contra a Mentira"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "To Consentius: Against Lying"
+        "en-US": "To Consentius: Against Lying",
+        "pt-BR": "A Consêncio: Contra a Mentira"
       }
     }
   ]
