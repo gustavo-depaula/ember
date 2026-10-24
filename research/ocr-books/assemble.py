@@ -49,7 +49,7 @@ def page(book: str, leaf: str) -> tuple[list[str], list[str], list[str]]:
         if mark.match(p) or not notes:
             notes.append(p)
         else:
-            notes[-1] += " " + p
+            notes[-1] += "\n" + p
     # A note run over from the page before has no mark; the layout knows it for a footnote.
     cells = json.loads((data / "dots" / book / f"{leaf}.raw.txt").read_text())
     unmarked = {key(c.get("text", "")) for c in cells if c.get("category") == "Footnote" and not mark.match(c.get("text", "").strip())}
@@ -75,7 +75,7 @@ def main() -> None:
             body, notes, carried = page(book, draft.stem)
             for c in carried:  # the end of the last note of the page before
                 if pending:
-                    pending[-1] += " " + c
+                    pending[-1] += " " + " / ".join(line.strip() for line in c.splitlines())
                 else:
                     out.append(c)
             numbers: dict[str, int] = {}
@@ -99,7 +99,10 @@ def main() -> None:
                     out.append(p)
             for n in notes:
                 printed = mark.match(n).group(0)
-                pending.append(f"[^{number(printed)}]: {n[mark.match(n).end():].strip()}")
+                # A note is one line in Markdown: a line break inside one (a quotation in verse) ends the
+                # footnote block, and the notes after it are no longer read as notes.
+                text = " / ".join(line.strip() for line in n[mark.match(n).end():].strip().splitlines())
+                pending.append(f"[^{number(printed)}]: {text}")
         flush()
         target = data / f"{book}.md"
         target.write_text("\n\n".join(out) + "\n")
