@@ -21,7 +21,8 @@ from run_volumes import data
 here = Path(__file__).parent
 python = str(here / ".venv" / "bin" / "python")
 
-# Most read first: short devotional treatises, then the Scripture people pray with, then the monastic classics.
+# Most read first: short devotional treatises, then the Scripture people pray with, then the monastic classics,
+# and so on down to the Sentences, read mostly by scholars.
 tiers = [
     ["de-oratione", "de-meditatione", "de-contemplatione", "de-fonte-lucis", "sonus-epulantis", "inflammatorium-divini-amoris",
      "de-perfectione-caritatis", "de-particulari-judicio", "de-quatuor-hominis-novissimis"],
@@ -33,6 +34,44 @@ tiers = [
     ["in-scalam-paradisi", "in-cassiani-instituta", "in-cassiani-collationes", "de-vita-et-fine-solitarii", "de-laude-vitae-solitariae",
      "de-praeconio-ordinis-cartusiensis", "de-professione-monastica", "exhortatorium-noviciorum", "de-arcta-via-salutis",
      "de-doctrina-et-regulis-vitae-christianorum"],
+    # The rest of the minor works on the Christian life, and his Life.
+    ["vita-et-opera", "summa-de-vitiis-et-virtutibus", "de-conversione-peccatorum", "de-gravitate-peccati", "de-munificentia-dei",
+     "de-mutua-cognitione-beatorum", "de-vita-conjugatorum", "de-vita-viduarum", "de-vita-virginum", "de-vita-inclusarum",
+     "de-modo-devote-psallendi", "speculum-amatorum-mundi", "inter-jesum-et-senem-et-puerum-dialogi", "de-distantia-perfectionis",
+     "de-exemplis-et-documentis", "de-obedientia-superioribus-praestanda", "de-reformatione-claustralium", "de-reformatione-monialium"],
+    # The rest of the New Testament, the Penitential Psalms and the Passion.
+    ["passio-juxta-quatuor-evangelistas", "enarratio-in-psalmum-poenitentialem", "enarratio-in-actus-apostolorum", "enarratio-in-romanos",
+     "enarratio-in-i-corinthios", "enarratio-in-ii-corinthios", "enarratio-in-galatas", "enarratio-in-ephesios", "enarratio-in-philippenses",
+     "enarratio-in-colossenses", "enarratio-in-i-thessalonicenses", "enarratio-in-ii-thessalonicenses", "enarratio-in-i-timotheum",
+     "enarratio-in-ii-timotheum", "enarratio-in-titum-et-philemonem", "enarratio-in-hebraeos", "enarratio-in-jacobum", "enarratio-in-i-petri",
+     "enarratio-in-ii-petri", "enarratio-in-epistolas-joannis", "enarratio-in-judam", "enarratio-in-apocalypsim", "monopanton"],
+    # The sermons for the year.
+    ["sermones-de-tempore-i", "sermones-de-tempore-ii", "sermones-de-sanctis-i", "sermones-de-sanctis-ii"],
+    # The Pentateuch and the wisdom books.
+    ["enarratio-in-exodum", "enarratio-in-leviticum", "enarratio-in-numeros", "enarratio-in-deuteronomium", "epilogatio-in-pentateuchum",
+     "enarratio-in-job", "enarratio-in-proverbia", "enarratio-in-ecclesiasten", "enarratio-in-sapientiam", "enarratio-in-ecclesiasticum"],
+    # The prophets.
+    ["enarratio-in-isaiam", "enarratio-in-jeremiam", "enarratio-in-threnos", "enarratio-in-baruch", "enarratio-in-ezechielem",
+     "enarratio-in-danielem", "enarratio-in-osee", "enarratio-in-joelem", "enarratio-in-amos", "enarratio-in-abdiam", "enarratio-in-jonam",
+     "enarratio-in-michaeam", "enarratio-in-nahum", "enarratio-in-habacuc", "enarratio-in-sophoniam", "enarratio-in-aggaeum",
+     "enarratio-in-zachariam", "enarratio-in-malachiam"],
+    # The historical books, and the works on Scripture as a whole.
+    ["enarratio-in-josue", "enarratio-in-judices", "enarratio-in-ruth", "enarratio-in-i-regum", "enarratio-in-ii-regum",
+     "enarratio-in-iii-regum", "enarratio-in-iv-regum", "enarratio-in-i-paralipomenon", "enarratio-in-ii-paralipomenon",
+     "enarratio-in-i-esdrae", "enarratio-in-ii-esdrae", "enarratio-in-tobiam", "enarratio-in-judith", "enarratio-in-esther",
+     "enarratio-in-i-machabaeorum", "enarratio-in-ii-machabaeorum", "epitome-sacrae-scripturae", "de-causa-diversitatis-eventuum-humanorum"],
+    # The Areopagite, and the praises of God.
+    ["in-mysticam-theologiam", "in-divina-nomina", "in-coelestem-hierarchiam", "in-ecclesiasticam-hierarchiam", "in-epistolas-dionysii",
+     "de-laudibus-dei", "de-laudibus-superlaudabilis-dei", "de-venustate-mundi", "creaturarum-consideratio-theologica"],
+    # Theology and philosophy.
+    ["summa-fidei-orthodoxae", "dialogion-de-fide-catholica", "de-lumine-christianae-theoriae", "de-natura-aeterni-et-veri-dei",
+     "elementatio-theologica", "elementatio-philosophica", "in-boetium-de-consolatione"],
+    # The Church, its reform, and Islam.
+    ["de-auctoritate-summi-pontificis", "epistola-ad-principes-catholicos", "de-regimine-politiae", "contra-simoniam",
+     "contra-pluralitatem-beneficiorum", "contra-ambitionem", "contra-vitia-superstitionum", "de-modo-agendi-processiones",
+     "in-regulam-s-francisci", "sermones-et-epistolae-varia", "contra-perfidiam-mahometi", "dialogus-inter-christianum-et-sarracenum"],
+    # The Sentences.
+    ["in-i-sententiarum", "in-ii-sententiarum", "in-iii-sententiarum", "in-iv-sententiarum"],
 ]
 
 
