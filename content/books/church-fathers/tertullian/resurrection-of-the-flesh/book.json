@@ -2,13 +2,16 @@
   "id": "tertullian-resurrection-of-the-flesh",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Resurrection of the Flesh"
+    "en-US": "On the Resurrection of the Flesh",
+    "pt-BR": "Sobre a ressurreição da carne"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Resurrection of the Flesh"
+        "en-US": "On the Resurrection of the Flesh",
+        "pt-BR": "Sobre a ressurreição da carne"
       }
     }
   ]
