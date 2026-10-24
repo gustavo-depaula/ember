@@ -2,13 +2,16 @@
   "id": "hilary-councils-or-the-faith-of-the-easterns",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Councils, or the Faith of the Easterns"
+    "en-US": "On the Councils, or the Faith of the Easterns",
+    "pt-BR": "Sobre os Concílios, ou a Fé dos Orientais"
   },
   "author": {
-    "en-US": "Hilary of Poitiers"
+    "en-US": "Hilary of Poitiers",
+    "pt-BR": "Santo Hilário de Poitiers"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Councils, or the Faith of the Easterns"
+        "en-US": "On the Councils, or the Faith of the Easterns",
+        "pt-BR": "Sobre os Concílios, ou a Fé dos Orientais"
       }
     }
   ]
