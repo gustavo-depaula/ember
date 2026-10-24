@@ -39,6 +39,7 @@ The most important check. For each chapter file, compare the original against ea
 
 - Every source footnote, author's or editor's, has its counterpart: the same `[^N]` marker at the same place and its definition translated
 - A translator's note added by the translation (`*Nota do tradutor:*`) is the one footnote the source lacks
+- No source backs a translator's note, so check it as a claim of fact: a wrong fact, citation or identification is a defect; an unconfirmable precise detail is cut back to what is certain; a note that restates the text or comments on doctrine is removed
 - Every inline note of the edition (the Leonine critical apparatus `*(*lemma.—variant* sigla.)*`) is in place, its Latin readings and sigla unchanged, the editor's words translated
 
 ### 4. Latin & Scripture
