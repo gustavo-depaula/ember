@@ -1,0 +1,7 @@
+# Run state of a pipeline run: everything here but the code and prompts.
+*
+!.gitignore
+!*.sh
+!*.py
+!*.system.md
+!translate.prompt.md
