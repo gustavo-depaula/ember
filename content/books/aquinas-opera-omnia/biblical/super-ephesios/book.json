@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Ephesians",
-    "la": "Super Ephesios lectura"
+    "la": "Super Ephesios lectura",
+    "pt-BR": "Comentário à Epístola aos Efésios"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on the Letter to the Ephesians.",
-    "la": "Expositio Thomae in Epistolam ad Ephesios."
+    "la": "Expositio Thomae in Epistolam ad Ephesios.",
+    "pt-BR": "Comentário de Santo Tomás de Aquino à Epístola aos Efésios."
   },
   "composed": "1268–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Chapter 1 — Psalm 75:3",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1 — Salmo 74:4"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Psalm 75:3",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Salmo 74:4"
           }
         }
       ]
@@ -51,63 +57,72 @@
       "id": "g2",
       "title": {
         "en-US": "Chapter 2 — The Power of the Incarnation",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2 — O poder da Encarnação"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Greeting",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Saudação"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — Redemption through blood and grace",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Redenção pelo sangue e pela graça"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — The mystery of God’s will",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O sacramento da vontade de Deus"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — Predestined for glory",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Predestinados para a glória"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Lecture 5 — Signed with the Spirit",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Assinalados com o Espírito"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Lecture 6 — Paul’s love for the Ephesians",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — A caridade de Paulo para com os efésios"
           }
         },
         {
           "id": "g2-c007",
           "title": {
             "en-US": "Lecture 7 — God’s power shown in Christ",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — O poder de Deus manifestado em Cristo"
           }
         },
         {
           "id": "g2-c008",
           "title": {
             "en-US": "Lecture 8 — The head of the Church",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — A cabeça da Igreja"
           }
         }
       ]
@@ -116,49 +131,56 @@
       "id": "g3",
       "title": {
         "en-US": "Chapter 3 — New Life in Christ",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3 — A vida nova em Cristo"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — Former life in the world",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A vida passada no mundo"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2 — Raised to life",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Ressuscitados para a vida"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3 — Saved through faith",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Salvos pela fé"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Lecture 4 — Gentiles redeemed by Christ",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Os gentios redimidos por Cristo"
           }
         },
         {
           "id": "g3-c005",
           "title": {
             "en-US": "Lecture 5 — Christ’s reconciliation by the cross",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A reconciliação de Cristo pela cruz"
           }
         },
         {
           "id": "g3-c006",
           "title": {
             "en-US": "Lecture 6 — The temple of the Church",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O templo da Igreja"
           }
         }
       ]
@@ -167,42 +189,48 @@
       "id": "g4",
       "title": {
         "en-US": "Chapter 4 — Dispensation of God’s Mysteries",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4 — A dispensação dos mistérios de Deus"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — The gentiles are fellow heirs of Christ",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Os gentios são coerdeiros de Cristo"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2 — Paul is a dispenser of God’s mystery",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Paulo é dispensador do mistério de Deus"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3 — Revelation of God’s wisdom",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A revelação da sabedoria de Deus"
           }
         },
         {
           "id": "g4-c004",
           "title": {
             "en-US": "Lecture 4 — Prayer to the Father",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Oração ao Pai"
           }
         },
         {
           "id": "g4-c005",
           "title": {
             "en-US": "Lecture 5 — Know the charity of Christ",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Conhecer a caridade de Cristo"
           }
         }
       ]
@@ -211,77 +239,88 @@
       "id": "g5",
       "title": {
         "en-US": "Chapter 5 — The Body of Christ",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5 — O Corpo de Cristo"
       },
       "children": [
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — Exhortation to holiness",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Exortação à santidade"
           }
         },
         {
           "id": "g5-c002",
           "title": {
             "en-US": "Lecture 2 — Unity of the faith",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A unidade da fé"
           }
         },
         {
           "id": "g5-c003",
           "title": {
             "en-US": "Lecture 3 — Christ’s ascent and descent",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A subida e a descida de Cristo"
           }
         },
         {
           "id": "g5-c004",
           "title": {
             "en-US": "Lecture 4 — Bestowal of gifts",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A concessão dos dons"
           }
         },
         {
           "id": "g5-c005",
           "title": {
             "en-US": "Lecture 5 — Order of Christ’s body",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A ordem do corpo de Cristo"
           }
         },
         {
           "id": "g5-c006",
           "title": {
             "en-US": "Lecture 6 — Darkness of sinners’ minds",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — As trevas da mente dos pecadores"
           }
         },
         {
           "id": "g5-c007",
           "title": {
             "en-US": "Lecture 7 — Put on the new man",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Revesti-vos do homem novo"
           }
         },
         {
           "id": "g5-c008",
           "title": {
             "en-US": "Lecture 8 — Precepts towards neighbors",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Preceitos para com o próximo"
           }
         },
         {
           "id": "g5-c009",
           "title": {
             "en-US": "Lecture 9 — Theft and speech",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — O furto e a palavra"
           }
         },
         {
           "id": "g5-c010",
           "title": {
             "en-US": "Lecture 10 — Kindness and forgiveness",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Bondade e perdão"
           }
         }
       ]
@@ -290,77 +329,88 @@
       "id": "g6",
       "title": {
         "en-US": "Chapter 6 — Life in the Church",
-        "la": "Caput 6"
+        "la": "Caput 6",
+        "pt-BR": "Capítulo 6 — A vida na Igreja"
       },
       "children": [
         {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1 — Followers of God",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Imitadores de Deus"
           }
         },
         {
           "id": "g6-c002",
           "title": {
             "en-US": "Lecture 2 — Avoid uncleanness",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Evitar a impureza"
           }
         },
         {
           "id": "g6-c003",
           "title": {
             "en-US": "Lecture 3 — The anger of God",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A ira de Deus"
           }
         },
         {
           "id": "g6-c004",
           "title": {
             "en-US": "Lecture 4 — Children of the light",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Filhos da luz"
           }
         },
         {
           "id": "g6-c005",
           "title": {
             "en-US": "Lecture 5 — Manifestation by the light",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A manifestação pela luz"
           }
         },
         {
           "id": "g6-c006",
           "title": {
             "en-US": "Lecture 6 — Understand God’s will",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Compreender a vontade de Deus"
           }
         },
         {
           "id": "g6-c007",
           "title": {
             "en-US": "Lecture 7 — Praise God",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Louvar a Deus"
           }
         },
         {
           "id": "g6-c008",
           "title": {
             "en-US": "Lecture 8 — Husbands and wives",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Maridos e esposas"
           }
         },
         {
           "id": "g6-c009",
           "title": {
             "en-US": "Lecture 9 — Spousal love",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — O amor conjugal"
           }
         },
         {
           "id": "g6-c010",
           "title": {
             "en-US": "Lecture 10 — Two in one flesh",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Os dois numa só carne"
           }
         }
       ]
@@ -369,42 +419,48 @@
       "id": "g7",
       "title": {
         "en-US": "Chapter 7 — Admonitions to the Church",
-        "la": "Caput 7"
+        "la": "Caput 7",
+        "pt-BR": "Capítulo 7 — Advertências à Igreja"
       },
       "children": [
         {
           "id": "g7-c001",
           "title": {
             "en-US": "Lecture 1 — Obedience of children",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A obediência dos filhos"
           }
         },
         {
           "id": "g7-c002",
           "title": {
             "en-US": "Lecture 2 — Obedience of servants",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A obediência dos servos"
           }
         },
         {
           "id": "g7-c003",
           "title": {
             "en-US": "Lecture 3 — Spiritual warfare",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O combate espiritual"
           }
         },
         {
           "id": "g7-c004",
           "title": {
             "en-US": "Lecture 4 — The armor of God",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A armadura de Deus"
           }
         },
         {
           "id": "g7-c005",
           "title": {
             "en-US": "Lecture 5 — Prayer and farewell",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Oração e despedida"
           }
         }
       ]
