@@ -89,6 +89,12 @@ The margin notes (scripture references, cross-references, variant readings) beco
 
 On a Matthew page checked against the scan (tome XI, p. 48), seven of ten notes land after the sentence they are printed beside, two a clause or two lines off, and one eight lines late, where dots.mocr's box for the block does not fit its text. The note text is the margin text as read, so a draft's notes carry its misreadings.
 
+Last, `tidy` and `mend` clear what the OCR leaves in the joined text:
+- The A–D gutter letters read into it ("semel et B iterum").
+- Italic runs begun or ended inside a word, now set by whole words.
+- The stretches dots.mocr read as HTML tables, which the app shows without their footnote marks. These become paragraphs again, with their reference cells as footnotes.
+- Paragraphs split at a column or page break. The edition never starts a paragraph in lower case, so such a paragraph is rejoined to the one before, and a scrap of margin reference ("iv, 32.") becomes a footnote. Where the OCR lost words at a break and the proofreader did not restore them ("quo am- … consortio", *Sermones de tempore*), the rejoined text is still missing them.
+
 `collection.py` rebuilds the collection's sections from the catalogue, so a work added there reaches the app with its next run.
 
 Draft books carry no `sources/latin-originals/` page dump: at this size it would double the corpus, and the drafts are in `~/ember-data`. A book gets one when it is proofread.

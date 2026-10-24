@@ -401,6 +401,35 @@ def whole_words(plain: str, mask: list[bool]) -> tuple[str, list[bool]]:
     return plain, mask
 
 
+def reference_scrap(paragraph: str) -> bool:
+    """A bit of a margin reference left in the body ("iv, 32.", "d. c. 8.", "cle. v, 4. Decret. II, caus.")."""
+    words = note_token.sub("", paragraph).replace("*", "").split()
+    if not words or len(paragraph) > 120:
+        return False
+    abbreviated = [w for w in words if re.fullmatch(r"[\w]{1,7}[.,;]|[\divxlcIVXLC]+[.,;-]?\d*[.,;]?", w)]
+    return len(abbreviated) >= 0.7 * len(words)
+
+
+def mend(text: str) -> str:
+    """Rejoin paragraphs the text's column and page breaks split.
+
+    The edition never starts a paragraph in lower case, so one that does goes on
+    from the paragraph before (unless that is a heading). A scrap of margin
+    reference left in the body becomes a footnote on the paragraph before it.
+    """
+    out: list[str] = []
+    for p in text.split("\n\n"):
+        if out and not out[-1].lstrip().startswith("#") and re.match(r"\**[a-zæœ]", p):
+            if reference_scrap(p):
+                notes.append(" ".join(note_token.sub("", p).split()))
+                out[-1] += f"\ue000{len(notes) - 1}\ue001"
+                continue
+            out[-1] = out[-1][:-1] + p if out[-1].endswith("-") else f"{out[-1]} {p}"
+            continue
+        out.append(p)
+    return "\n\n".join(out)
+
+
 def join_pages(pages: list[str]) -> str:
     """Join the pages into one text, rejoining a paragraph that runs over a page break."""
     text = ""
@@ -469,7 +498,7 @@ def main(work_path: Path) -> None:
 
     # Cut at the author's own headings; the title page's heading is dropped.
     text = join_pages(pages)
-    text = tidy(text)
+    text = mend(tidy(text))
     text = re.sub(work["drop_heading"], "", text)
     parts = re.split(r"^## (PRÆFATIO|ARTICULUS [A-Z]+)\.?\s*$", text, flags=re.M)
     chapters = []
@@ -841,7 +870,7 @@ def assemble_parts(work: dict) -> None:
         if gaps.get(tail, ("",))[0] == "at":
             pages.append((gaps[tail][1], ""))
 
-    text = tidy(join_pages([body for body, _ in pages]))
+    text = mend(tidy(join_pages([body for body, _ in pages])))
     chapters, toc = split_chapters(text)
 
     toc = merge_short(chapters, toc)
