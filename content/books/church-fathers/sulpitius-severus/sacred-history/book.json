@@ -2,13 +2,16 @@
   "id": "sulpitius-severus-sacred-history",
   "cover": "quarter",
   "name": {
-    "en-US": "Sacred History"
+    "en-US": "Sacred History",
+    "pt-BR": "História Sagrada"
   },
   "author": {
-    "en-US": "Sulpitius Severus (c. 363-c. 420)"
+    "en-US": "Sulpitius Severus (c. 363-c. 420)",
+    "pt-BR": "Sulpício Severo (c. 363-c. 420)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,13 +24,15 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     }
   ]
