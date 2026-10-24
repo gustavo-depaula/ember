@@ -66,7 +66,7 @@ def apply(draft: str, fixes: list[dict]) -> tuple[str, list[str]]:
         if "margin" in fix:
             margin.append(fix["margin"])
         elif "italic" in fix:
-            italics.append(fix["italic"].replace("*", ""))
+            italics.append((fix["italic"].replace("*", ""), fix.get("context", "").replace("*", "")))
         else:
             find, replace = fix["find"], fix["replace"]
             count = text.count(find)
@@ -80,12 +80,15 @@ def apply(draft: str, fixes: list[dict]) -> tuple[str, list[str]]:
     text = re.sub(r"\s*<!-- margin: .*? -->", "", text, flags=re.S)
     plain, mask = plain_and_mask(text)
     heading_lines = [m.span() for m in re.finditer(r"(?m)^#.*$", plain)]
-    for run in italics:
-        count = plain.count(run)
-        if count != 1:
-            problems.append(f"{'missing' if count == 0 else 'ambiguous'}: {run!r}")
+    for run, context in italics:
+        # A run whose words occur twice on the page is told apart by `context`, the
+        # words around it, which must occur once and contain the run; only the run is set in italics.
+        where = context or run
+        count = plain.count(where)
+        if count != 1 or run not in where:
+            problems.append(f"{'missing' if count == 0 or run not in where else 'ambiguous'}: {where!r}")
             continue
-        at = plain.index(run)
+        at = plain.index(where) + where.index(run)
         mask[at:at + len(run)] = [True] * len(run)
     for a, b in heading_lines:
         mask[a:b] = [False] * (b - a)

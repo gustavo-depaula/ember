@@ -22,17 +22,43 @@ data = Path.home() / "ember-data" / "ocr-books"
 mark = re.compile(r"[⁰¹²³⁴⁵⁶⁷⁸⁹]+")
 
 
-def page(book: str, leaf: str) -> tuple[list[str], list[str]]:
-    draft = (data / "dots" / book / f"{leaf}.md").read_text()
-    fixes_path = data / "checked" / book / f"{leaf}.jsonl"
+def fixed(book: str, leaf: str, draft: str, checked: str) -> str:
+    fixes_path = data / checked / book / f"{leaf}.jsonl"
     fixes = [json.loads(l) for l in fixes_path.read_text().splitlines() if l.strip()] if fixes_path.exists() else []
     text, problems = apply(draft, fixes)
     for p in problems:
-        print(f"{book} {leaf}: fix not applied, {p}")
+        print(f"{book} {leaf}: {checked} fix not applied, {p}")
+    return text
+
+
+def first_pass(book: str, leaf: str) -> str:
+    return fixed(book, leaf, (data / "dots" / book / f"{leaf}.md").read_text(), "checked").strip()
+
+
+def page(book: str, leaf: str) -> tuple[list[str], list[str], list[str]]:
+    # The second pass (second_pass.py) checked the page as the first left it; the review
+    # (review.py) the page as the second left it.
+    text = fixed(book, leaf, first_pass(book, leaf) + "\n", "checked2")
+    text = fixed(book, leaf, text.strip() + "\n", "checked3")
     # Notes printed one under another come back as one block: one note per line that starts with a mark.
     paragraphs = [q.strip() for p in text.split("\n\n") for q in re.split(r"\n(?=[⁰¹²³⁴⁵⁶⁷⁸⁹]+ )", p) if q.strip()]
-    notes = [p for p in paragraphs if mark.match(p)]
-    return [p for p in paragraphs if not mark.match(p)], notes
+    # The notes are the foot of the page: a paragraph after the first one continues the note above it.
+    first = next((i for i, p in enumerate(paragraphs) if mark.match(p)), len(paragraphs))
+    notes = []
+    for p in paragraphs[first:]:
+        if mark.match(p) or not notes:
+            notes.append(p)
+        else:
+            notes[-1] += " " + p
+    # A note run over from the page before has no mark; the layout knows it for a footnote.
+    cells = json.loads((data / "dots" / book / f"{leaf}.raw.txt").read_text())
+    unmarked = {key(c.get("text", "")) for c in cells if c.get("category") == "Footnote" and not mark.match(c.get("text", "").strip())}
+    carried = [p for p in paragraphs[:first] if key(p) in unmarked]
+    return [p for p in paragraphs[:first] if p not in carried], notes, carried
+
+
+def key(text: str) -> str:
+    return re.sub(r"[\s*]", "", text)[:25]
 
 
 def main() -> None:
@@ -46,7 +72,12 @@ def main() -> None:
             count[0] = 0
 
         for draft in sorted((data / "dots" / book).glob("*.md")):
-            body, notes = page(book, draft.stem)
+            body, notes, carried = page(book, draft.stem)
+            for c in carried:  # the end of the last note of the page before
+                if pending:
+                    pending[-1] += " " + c
+                else:
+                    out.append(c)
             numbers: dict[str, int] = {}
 
             def number(printed: str) -> int:
