@@ -2,13 +2,16 @@
   "id": "athanasius-historia-arianorum",
   "cover": "quarter",
   "name": {
-    "en-US": "Historia Arianorum"
+    "en-US": "Historia Arianorum",
+    "pt-BR": "Historia Arianorum"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,49 +24,57 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "PART I."
+        "en-US": "PART I.",
+        "pt-BR": "PARTE I."
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "PART II."
+        "en-US": "PART II.",
+        "pt-BR": "PARTE II."
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "PART III."
+        "en-US": "PART III.",
+        "pt-BR": "PARTE III."
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "PART IV."
+        "en-US": "PART IV.",
+        "pt-BR": "PARTE IV."
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "PART V."
+        "en-US": "PART V.",
+        "pt-BR": "PARTE V."
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "PART VI."
+        "en-US": "PART VI.",
+        "pt-BR": "PARTE VI."
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "PART VII."
+        "en-US": "PART VII.",
+        "pt-BR": "PARTE VII."
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "PART VIII."
+        "en-US": "PART VIII.",
+        "pt-BR": "PARTE VIII."
       }
     }
   ]
