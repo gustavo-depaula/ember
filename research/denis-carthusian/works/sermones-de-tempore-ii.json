@@ -676,7 +676,7 @@
   ],
   "path": "denis-opera-omnia/sermons/sermones-de-tempore-ii",
   "slug": "sermones-de-tempore-ii",
-  "draft": true,
+  "draft": false,
   "meta": {
     "id": "denis-sermones-de-tempore-ii",
     "cover": "label",
@@ -692,14 +692,14 @@
     },
     "description": {
       "la": "Sermones de tempore, pars secunda.",
-      "en-US": "Sermons of Denis the Carthusian for the Church's year. Uncorrected OCR text: not yet proofread against the scans.",
-      "pt-BR": "Sermões de Dionísio, o Cartuxo, para o ano litúrgico. Texto do OCR ainda não revisto contra as digitalizações."
+      "en-US": "Sermons of Denis the Carthusian for the Church's year.",
+      "pt-BR": "Sermões de Dionísio, o Cartuxo, para o ano litúrgico."
     },
     "sources": [
       {
         "language": "la",
         "url": "https://archive.org/details/operaomniainunum30deni",
-        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXX (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXX (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
       }
     ]
   }
