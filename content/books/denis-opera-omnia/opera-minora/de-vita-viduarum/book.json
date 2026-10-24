@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "De laudabili vita viduarum, cum epistola contra avaritiam.",
-    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "One of Denis the Carthusian's minor works.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/operaomnia38deni",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -30,21 +30,13 @@
     {
       "id": "c001",
       "title": {
-        "la": "Initium",
-        "en-US": "Opening",
-        "pt-BR": "Abertura"
-      }
-    },
-    {
-      "id": "c002",
-      "title": {
         "la": "Proœmium",
         "en-US": "Proem",
         "pt-BR": "Proêmio"
       }
     },
     {
-      "id": "c003",
+      "id": "c002",
       "title": {
         "la": "Articulus 1",
         "en-US": "Article 1",
@@ -52,7 +44,7 @@
       }
     },
     {
-      "id": "c004",
+      "id": "c003",
       "title": {
         "la": "Articulus 2",
         "en-US": "Article 2",
@@ -60,7 +52,7 @@
       }
     },
     {
-      "id": "c005",
+      "id": "c004",
       "title": {
         "la": "Articulus 3",
         "en-US": "Article 3",
@@ -68,7 +60,7 @@
       }
     },
     {
-      "id": "c006",
+      "id": "c005",
       "title": {
         "la": "Articulus 4",
         "en-US": "Article 4",
@@ -76,7 +68,7 @@
       }
     },
     {
-      "id": "c007",
+      "id": "c006",
       "title": {
         "la": "Articulus 5",
         "en-US": "Article 5",
@@ -84,7 +76,7 @@
       }
     },
     {
-      "id": "c008",
+      "id": "c007",
       "title": {
         "la": "Articulus 6",
         "en-US": "Article 6",
@@ -92,7 +84,7 @@
       }
     },
     {
-      "id": "c009",
+      "id": "c008",
       "title": {
         "la": "Articulus 7",
         "en-US": "Article 7",
@@ -100,7 +92,7 @@
       }
     },
     {
-      "id": "c010",
+      "id": "c009",
       "title": {
         "la": "Articulus 8",
         "en-US": "Article 8",
@@ -108,7 +100,7 @@
       }
     },
     {
-      "id": "c011",
+      "id": "c010",
       "title": {
         "la": "Articulus 9",
         "en-US": "Article 9",
@@ -116,7 +108,7 @@
       }
     },
     {
-      "id": "c012",
+      "id": "c011",
       "title": {
         "la": "Articulus 10",
         "en-US": "Article 10",
@@ -124,7 +116,7 @@
       }
     },
     {
-      "id": "c013",
+      "id": "c012",
       "title": {
         "la": "Articulus 11",
         "en-US": "Article 11",
@@ -132,7 +124,7 @@
       }
     },
     {
-      "id": "c014",
+      "id": "c013",
       "title": {
         "la": "Articulus 12",
         "en-US": "Article 12",
@@ -140,7 +132,7 @@
       }
     },
     {
-      "id": "c015",
+      "id": "c014",
       "title": {
         "la": "Articulus 13",
         "en-US": "Article 13",
@@ -148,7 +140,7 @@
       }
     },
     {
-      "id": "c016",
+      "id": "c015",
       "title": {
         "la": "Articulus 14",
         "en-US": "Article 14",
@@ -156,7 +148,7 @@
       }
     },
     {
-      "id": "c017",
+      "id": "c016",
       "title": {
         "la": "Articulus 15",
         "en-US": "Article 15",
@@ -164,7 +156,7 @@
       }
     },
     {
-      "id": "c018",
+      "id": "c017",
       "title": {
         "la": "Articulus 16",
         "en-US": "Article 16",
@@ -172,7 +164,7 @@
       }
     },
     {
-      "id": "c019",
+      "id": "c018",
       "title": {
         "la": "Proœmium",
         "en-US": "Proem",
@@ -180,7 +172,7 @@
       }
     },
     {
-      "id": "c020",
+      "id": "c019",
       "title": {
         "la": "Articulus 1",
         "en-US": "Article 1",
@@ -188,7 +180,7 @@
       }
     },
     {
-      "id": "c021",
+      "id": "c020",
       "title": {
         "la": "Articulus 2",
         "en-US": "Article 2",
@@ -196,7 +188,7 @@
       }
     },
     {
-      "id": "c022",
+      "id": "c021",
       "title": {
         "la": "Articulus 3",
         "en-US": "Article 3",
@@ -204,7 +196,7 @@
       }
     },
     {
-      "id": "c023",
+      "id": "c022",
       "title": {
         "la": "Articulus 4",
         "en-US": "Article 4",
@@ -212,7 +204,7 @@
       }
     },
     {
-      "id": "c024",
+      "id": "c023",
       "title": {
         "la": "Articulus 5",
         "en-US": "Article 5",
@@ -220,7 +212,7 @@
       }
     },
     {
-      "id": "c025",
+      "id": "c024",
       "title": {
         "la": "Articulus 6",
         "en-US": "Article 6",
@@ -228,7 +220,7 @@
       }
     },
     {
-      "id": "c026",
+      "id": "c025",
       "title": {
         "la": "Articulus 7",
         "en-US": "Article 7",
@@ -236,7 +228,7 @@
       }
     },
     {
-      "id": "c027",
+      "id": "c026",
       "title": {
         "la": "Articulus 8",
         "en-US": "Article 8",
@@ -244,7 +236,7 @@
       }
     },
     {
-      "id": "c028",
+      "id": "c027",
       "title": {
         "la": "Articulus 9",
         "en-US": "Article 9",
@@ -252,7 +244,7 @@
       }
     },
     {
-      "id": "c029",
+      "id": "c028",
       "title": {
         "la": "Articulus 10",
         "en-US": "Article 10",

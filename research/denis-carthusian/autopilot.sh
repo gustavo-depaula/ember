@@ -1,7 +1,9 @@
 #!/bin/sh
 # Proofread the queue tier by tier from $1 (default 5), unattended, and push each finished tier to main.
 #
-#   systemd-run --user --unit denis-autopilot --working-directory="$PWD" ./autopilot.sh 5
+#   systemd-run --user --unit denis-autopilot --working-directory="$PWD" --setenv=PATH="$PATH" ./autopilot.sh 5
+#
+# PATH must reach pnpm: the repository's pre-commit hook runs it, and a commit fails without it.
 #
 # proofread.py exits 75 at the session limit and 76 at the weekly cap (90%, leaving
 # room for other work); either way this waits and runs it again, and it resumes

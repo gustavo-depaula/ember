@@ -99,7 +99,7 @@
   ],
   "path": "denis-opera-omnia/vita/vita-et-opera",
   "slug": "vita-et-opera",
-  "draft": true,
+  "draft": false,
   "meta": {
     "id": "denis-vita-et-opera",
     "cover": "label",
@@ -115,14 +115,14 @@
     },
     "description": {
       "la": "Vita V. P. Dionysii Cartusiani et elenchus operum.",
-      "en-US": "The edition's preface, the life of Denis by his confrère Dietrich Loer, and the editors' catalogue of his works. Uncorrected OCR text: not yet proofread against the scans.",
-      "pt-BR": "O prefácio da edição, a vida de Dionísio escrita pelo seu confrade Teodorico Loer e o catálogo das suas obras feito pelos editores. Texto do OCR ainda não revisto contra as digitalizações."
+      "en-US": "The edition's preface, the life of Denis by his confrère Dietrich Loer, and the editors' catalogue of his works.",
+      "pt-BR": "O prefácio da edição, a vida de Dionísio escrita pelo seu confrade Teodorico Loer e o catálogo das suas obras feito pelos editores."
     },
     "sources": [
       {
         "language": "la",
         "url": "https://archive.org/details/operaomniainunum01deni",
-        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. I (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. I (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
       }
     ]
   }

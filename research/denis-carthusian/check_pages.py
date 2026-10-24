@@ -120,7 +120,18 @@ def check(stem: str, load_page, drafts: Path, out: Path, effort: str, crop: int,
         write_atomic(out / f"{stem}.err", f"{type(error).__name__}: {error}\n")
         print(f"{stem}: failed: {error}", flush=True)
         return None
-    lines = [line for line in result["result"].splitlines() if line.strip().startswith("{")]
+    # Read the reply as a run of JSON objects, not line by line: a fix can hold a line break.
+    lines, text, at = [], result["result"], 0
+    decoder = json.JSONDecoder(strict=False)
+    while (at := text.find("{", at)) >= 0:
+        try:
+            fix, end = decoder.raw_decode(text, at)
+        except json.JSONDecodeError:
+            write_atomic(out / f"{stem}.err", f"unreadable fix in the reply: {text[at:at + 200]!r}\n")
+            print(f"{stem}: unreadable fix in the reply; will retry", flush=True)
+            return None
+        lines.append(json.dumps(fix, ensure_ascii=False))
+        at = end
     usage = {**result["usage"], "total_cost_usd": result["total_cost_usd"]}
     write_atomic(out / f"{stem}.usage.json", json.dumps(usage, indent=2))
     write_atomic(out / f"{stem}.jsonl", "\n".join(lines) + "\n" if lines else "")

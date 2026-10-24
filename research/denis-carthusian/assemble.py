@@ -167,7 +167,7 @@ def margin_anchors(drafts: Path, leaf: str, draft: str, fixes: list[dict], corre
             anchors.append(("span", words, after, fraction, locate(draft, words, starts[min(len(starts) - 1, int(fraction * len(starts)))]), ref))
     # The proofreader also lists, now and then, a note that was in the margin all along.
     for fix in fixes:
-        if "margin" not in fix or not keep_note(fix["margin"]):
+        if "margin" not in fix or not keep_note(fix["margin"]) or squeeze(fix["margin"]) in in_body:
             continue
         pieces = re.split(r"(?<=[.;])\s+(?=(?:[IV]{1,3}\s+|\d\s*)?[A-Z][a-zæœ]{1,8}\.)", fix["margin"])
         if squeeze(fix["margin"]) in seen or all(squeeze(p) in seen for p in pieces):
@@ -204,12 +204,12 @@ def locate(text: str, source: str, at: int) -> int | None:
 def sentence_end(text: str, at: int, moves: int = 0) -> int:
     """The end of the sentence (or clause) running at `at`, within its paragraph; never in a heading."""
     line = text.rfind("\n", 0, at) + 1
-    if moves > 4:  # sent back and forth between a heading and a scrap: just before the heading
-        return len(text[:line].rstrip())
+    if moves > 4:  # sent back and forth between headings and scraps: before the headings
+        return before_headings(text, line)
     if text.startswith("#", line):  # a heading: the note goes with the text after it, or before it at a page's end
         nxt = text.find("\n", at)
         rest = text[nxt:].strip() if nxt >= 0 else ""
-        return sentence_end(text, nxt + len(text[nxt:]) - len(text[nxt:].lstrip()), moves + 1) if rest else len(text[:line].rstrip())
+        return sentence_end(text, nxt + len(text[nxt:]) - len(text[nxt:].lstrip()), moves + 1) if rest else before_headings(text, line)
     start = text.rfind("\n\n", 0, at) + 2 if "\n\n" in text[:at] else 0
     ends = [i for i in (text.find("\n\n", at), text.find("\n#", at)) if i >= 0]
     end = min(ends) if ends else len(text)
@@ -235,6 +235,16 @@ def sentence_end(text: str, at: int, moves: int = 0) -> int:
     if text[:end].rstrip().endswith("-") and end < len(text):  # a word broken here goes on below
         return sentence_end(text, end + len(text[end:]) - len(text[end:].lstrip()), moves + 1)
     return len(text[:end].rstrip())
+
+
+def before_headings(text: str, line: int) -> int:
+    """The end of the text before the run of heading lines that `line` starts or is in."""
+    while True:
+        end = len(text[:line].rstrip())
+        previous = text.rfind("\n", 0, end) + 1
+        if not end or not text.startswith("#", previous):
+            return end
+        line = previous
 
 
 def place_notes(draft: str, body: str, anchors: list[tuple]) -> str:
