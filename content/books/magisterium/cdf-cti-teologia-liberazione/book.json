@@ -1,0 +1,48 @@
+{
+  "id": "cdf-cti-teologia-liberazione",
+  "cover": "quarter",
+  "name": {
+    "de": "Theologie der Befreiung - Internationale Theologenkommission",
+    "es": "Teología de la liberación - Comisión Teológica Internacional"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1977",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1977"
+  },
+  "composed": "1977",
+  "languages": [
+    "de",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_teologia-liberazione_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_teologia-liberazione_sp.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "de": "Theologie der Befreiung - Internationale Theologenkommission",
+        "es": "Teología de la liberación - Comisión Teológica Internacional"
+      }
+    }
+  ]
+}

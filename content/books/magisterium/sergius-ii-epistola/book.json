@@ -1,0 +1,40 @@
+{
+  "id": "sergius-ii-epistola",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistola"
+  },
+  "author": {
+    "en-US": "Pope Sergius II",
+    "pt-BR": "Papa Sérgio II",
+    "la": "Sergius PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope Sergius II · 0844",
+    "pt-BR": "Carta · Papa Sérgio II · 0844"
+  },
+  "composed": "844",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "sergius-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0844-0847,_SS_Sergius_II,_Epistola,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistola"
+      }
+    }
+  ]
+}

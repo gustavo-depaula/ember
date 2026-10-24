@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-summa-quidem",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Summa quidem"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory XVI · 1845-04-23",
+    "pt-BR": "Carta · Papa Gregório XVI · 1845-04-23"
+  },
+  "composed": "1845",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/epistola-summa-quidem-23-aprile-1845.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Summa quidem"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-materna-ecclesiae-caritas",
+  "cover": "quarter",
+  "name": {
+    "la": "Materna Ecclesiae caritas",
+    "it": "Materna Ecclesiae caritas"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIII · 1884-11-10",
+    "pt-BR": "Carta Apostólica · Papa Leão XIII · 1884-11-10"
+  },
+  "composed": "1884",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/apost_letters/documents/hf_l-xiii_apl_18841110_materna-ecclesiae-caritas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/apost_letters/documents/hf_l-xiii_apl_18841110_materna-ecclesiae-caritas.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Materna Ecclesiae caritas",
+        "it": "Materna Ecclesiae caritas"
+      }
+    }
+  ]
+}

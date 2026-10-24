@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-cum-catholicae",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Cum in catholicae Al R. P. Francesco Kordac, Arcivescovo di Praga, sulla richiesta da parte di alcuni sacerdoti di abolire o mitigare la legge sul celibato ecclesiastico"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1920-01-09",
+    "pt-BR": "Carta · Papa Bento XV · 1920-01-09"
+  },
+  "composed": "1920",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1920/documents/hf_ben-xv_let_19200109_cum-catholicae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Cum in catholicae Al R. P. Francesco Kordac, Arcivescovo di Praga, sulla richiesta da parte di alcuni sacerdoti di abolire o mitigare la legge sul celibato ecclesiastico"
+      }
+    }
+  ]
+}

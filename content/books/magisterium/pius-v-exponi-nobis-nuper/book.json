@@ -1,0 +1,48 @@
+{
+  "id": "pius-v-exponi-nobis-nuper",
+  "cover": "quarter",
+  "name": {
+    "la": "Exponi nobis nuper",
+    "en-US": "Exponi nobis nuper"
+  },
+  "author": {
+    "en-US": "Pope Pius V",
+    "pt-BR": "Papa Pio V",
+    "la": "Pius PP. V"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius V · 1571-07-25",
+    "pt-BR": "Documento · Papa Pio V · 1571-07-25"
+  },
+  "composed": "1571",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-v"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1571-07-25,_SS_Pius_V,_Exponi_Nobis_Nuper,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius05/p5exponi.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Exponi nobis nuper",
+        "en-US": "Exponi nobis nuper"
+      }
+    }
+  ]
+}

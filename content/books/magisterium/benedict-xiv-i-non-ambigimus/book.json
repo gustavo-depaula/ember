@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xiv-i-non-ambigimus",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Non Ambigimus"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Benedict XIV · 1741-05-30",
+    "pt-BR": "Breve · Papa Bento XIV · 1741-05-30"
+  },
+  "composed": "1741",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-non-ambigimus--i---30-maggio-1741--il-pontefice-ricorda.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Non Ambigimus"
+      }
+    }
+  ]
+}

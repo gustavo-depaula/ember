@@ -1,0 +1,112 @@
+{
+  "id": "john-xxiii-pacem",
+  "cover": "quarter",
+  "name": {
+    "la": "Pacem in terris, Litterae Encyclicae de pace omium gentium, in veritate, iustititia, caritate libertate costituenda, Ioannes PP. XXIII",
+    "en-US": "Pacem in Terris",
+    "pt-BR": "Pacem in Terris",
+    "de": "Pacem in Terris",
+    "es": "Pacem in terris",
+    "fr": "Pacem in Terris",
+    "hu": "Pacem in terris, XXIII. János pápa enciklikája az igazságon, igazságosságon, szereteten és szabadságon felépítendő békéről a nemzetek között 1963. november 4.",
+    "it": "Pacem in Terris",
+    "pl": "Pacem in Terris (April, 11 1963)",
+    "sw": "WARAKA ENSIKLIKA PACEM IN TERRIS(AMANI DUNIANI)WA BABA MTAKATIFU YOHANE XXIII"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope John XXIII · 1963-04-11",
+    "pt-BR": "Encíclica · Papa João XXIII · 1963-04-11"
+  },
+  "composed": "1963",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "sw"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-xxiii/de/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-xxiii/fr/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-xxiii/hu/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1963-04-11,_SS_Ioannes_XXIII,_Encyclica_'Pacem_in_Terris',_PL.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/content/john-xxiii/sw/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Pacem in terris, Litterae Encyclicae de pace omium gentium, in veritate, iustititia, caritate libertate costituenda, Ioannes PP. XXIII",
+        "en-US": "Pacem in Terris",
+        "pt-BR": "Pacem in Terris",
+        "de": "Pacem in Terris",
+        "es": "Pacem in terris",
+        "fr": "Pacem in Terris",
+        "hu": "Pacem in terris, XXIII. János pápa enciklikája az igazságon, igazságosságon, szereteten és szabadságon felépítendő békéről a nemzetek között 1963. november 4.",
+        "it": "Pacem in Terris",
+        "pl": "Pacem in Terris (April, 11 1963)",
+        "sw": "WARAKA ENSIKLIKA PACEM IN TERRIS(AMANI DUNIANI)WA BABA MTAKATIFU YOHANE XXIII"
+      }
+    }
+  ]
+}

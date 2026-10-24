@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-ingravescentibus-malis",
+  "cover": "quarter",
+  "name": {
+    "la": "Ingravescentibus malis, Litterae Encyclicae de Sacro B. M. V. Mariae Rosario, d. 29 m. Septembris a. 1929, Pius PP. XI",
+    "en-US": "Ingravescentibus Malis",
+    "it": "Ingravescentibus Malis"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1937-09-29",
+    "pt-BR": "Encíclica · Papa Pio XI · 1937-09-29"
+  },
+  "composed": "1937",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19370929_ingravescentibus-malis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29091937_ingravescentibus-malis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19370929_ingravescentibus-malis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ingravescentibus malis, Litterae Encyclicae de Sacro B. M. V. Mariae Rosario, d. 29 m. Septembris a. 1929, Pius PP. XI",
+        "en-US": "Ingravescentibus Malis",
+        "it": "Ingravescentibus Malis"
+      }
+    }
+  ]
+}

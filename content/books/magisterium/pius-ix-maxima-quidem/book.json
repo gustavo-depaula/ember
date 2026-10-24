@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-maxima-quidem",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Maxima quidem"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius IX · 1862-06-09",
+    "pt-BR": "Alocução · Papa Pio IX · 1862-06-09"
+  },
+  "composed": "1862",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/allocuzione-maxima-quidem-9-giugno-1862.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Maxima quidem"
+      }
+    }
+  ]
+}

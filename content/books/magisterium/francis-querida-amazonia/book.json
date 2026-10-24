@@ -1,0 +1,120 @@
+{
+  "id": "francis-querida-amazonia",
+  "cover": "quarter",
+  "name": {
+    "en-US": "“Querida Amazonia”: Post-Synodal Exhortation to the People of God and to All Persons of Good Will",
+    "pt-BR": "“Querida Amazonia”: Exortação Apostólica pós-sinodal ao povo de Deus e a todas as pessoas de boa vontade",
+    "ar": "“Querida Amazonia”: Post-Synodal Exhortation to the People of God and to All Persons of Good Will, 2 February 2020",
+    "de": "“Querida Amazonia”: Nachsynodales Apostolisches Schreiben an das Volk Gottes und an alle Menschen guten Willens",
+    "es": "Querida Amazonia: Exhortación apostólica postsinodal al pueblo de Dios y a todas las personas de buena voluntad",
+    "fr": "Querida Amazonia : Exhortation apostolique post-synodale au peuple de Dieu et à toutes les personnes de bonne volonté",
+    "it": "“Querida Amazonia”: Esortazione Apostolica post-sinodale al popolo di Dio e a tutte le persone di buona volontà",
+    "pl": "“Querida Amazonia: Posynodalna Adhortacja Apostolska",
+    "vi": "TÔNG HUẤN HẬU THƯỢNG HỘI ĐỒNG QUERIDA AMAZONIA CỦA ĐỨC THÁNH CHA PHANXICÔ GỬI DÂN CHÚA VÀ TẤT CẢ NHỮNG NGƯỜI THIỆN CHÍ",
+    "zh-CN": "“Querida Amazonia”: Post-Synodal Exhortation to the People of God and to All Persons of Good Will",
+    "zh-TW": "“Querida Amazonia”: Post-Synodal Exhortation to the People of God and to All Persons of Good Will"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Francis · 2020-02-02",
+    "pt-BR": "Exortação Apostólica · Papa Francisco · 2020-02-02"
+  },
+  "composed": "2020",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "vi",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/content/francesco/vi/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "“Querida Amazonia”: Post-Synodal Exhortation to the People of God and to All Persons of Good Will",
+        "pt-BR": "“Querida Amazonia”: Exortação Apostólica pós-sinodal ao povo de Deus e a todas as pessoas de boa vontade",
+        "ar": "“Querida Amazonia”: Post-Synodal Exhortation to the People of God and to All Persons of Good Will, 2 February 2020",
+        "de": "“Querida Amazonia”: Nachsynodales Apostolisches Schreiben an das Volk Gottes und an alle Menschen guten Willens",
+        "es": "Querida Amazonia: Exhortación apostólica postsinodal al pueblo de Dios y a todas las personas de buena voluntad",
+        "fr": "Querida Amazonia : Exhortation apostolique post-synodale au peuple de Dieu et à toutes les personnes de bonne volonté",
+        "it": "“Querida Amazonia”: Esortazione Apostolica post-sinodale al popolo di Dio e a tutte le persone di buona volontà",
+        "pl": "“Querida Amazonia: Posynodalna Adhortacja Apostolska",
+        "vi": "TÔNG HUẤN HẬU THƯỢNG HỘI ĐỒNG QUERIDA AMAZONIA CỦA ĐỨC THÁNH CHA PHANXICÔ GỬI DÂN CHÚA VÀ TẤT CẢ NHỮNG NGƯỜI THIỆN CHÍ",
+        "zh-CN": "“Querida Amazonia”: Post-Synodal Exhortation to the People of God and to All Persons of Good Will",
+        "zh-TW": "“Querida Amazonia”: Post-Synodal Exhortation to the People of God and to All Persons of Good Will"
+      }
+    }
+  ]
+}

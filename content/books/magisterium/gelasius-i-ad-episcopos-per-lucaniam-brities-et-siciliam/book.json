@@ -1,0 +1,40 @@
+{
+  "id": "gelasius-i-ad-episcopos-per-lucaniam-brities-et-siciliam",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad Episcopos Per Lucaniam Brities et Siciliam Constitutos"
+  },
+  "author": {
+    "en-US": "Pope Gelasius I",
+    "pt-BR": "Papa Gelásio I",
+    "la": "Gelasius PP. I"
+  },
+  "description": {
+    "en-US": "Document · Pope Gelasius I · 0492",
+    "pt-BR": "Documento · Papa Gelásio I · 0492"
+  },
+  "composed": "492",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gelasius-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0492-0496,_SS_Gelasius_I,_Ad_Episcopos_Per_Lucaniam_Brities_et_Siciliam_Constitutos,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad Episcopos Per Lucaniam Brities et Siciliam Constitutos"
+      }
+    }
+  ]
+}

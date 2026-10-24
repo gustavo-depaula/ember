@@ -1,0 +1,40 @@
+{
+  "id": "john-paul-ii-labour-office",
+  "cover": "quarter",
+  "name": {
+    "it": "La sollecitudine - Lettera Apostolica 'Motu Proprio' con la quale viene promulgato lo Statuto definitivo dell'Ufficio del Lavoro della Sede Apostolica"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1994-09-30",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1994-09-30"
+  },
+  "composed": "1994",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_30091994_labour-office.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "La sollecitudine - Lettera Apostolica 'Motu Proprio' con la quale viene promulgato lo Statuto definitivo dell'Ufficio del Lavoro della Sede Apostolica"
+      }
+    }
+  ]
+}

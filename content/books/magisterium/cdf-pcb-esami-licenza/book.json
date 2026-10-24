@@ -1,0 +1,48 @@
+{
+  "id": "cdf-pcb-esami-licenza",
+  "cover": "quarter",
+  "name": {
+    "la": "De experimentis ad Prolytatum - Pontificia Commissio Biblica",
+    "it": "Gli esami per la Licenza - Pontificia Commissione Biblica"
+  },
+  "author": {
+    "en-US": "Pontifical Biblical Commission",
+    "pt-BR": "Pontifícia Comissão Bíblica",
+    "la": "Pontificia Commissio Biblica"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Pontifical Biblical Commission · 1942-07-06",
+    "pt-BR": "Documento da Cúria Romana · Pontifícia Comissão Bíblica · 1942-07-06"
+  },
+  "composed": "1942",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-pcb"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19420706_esami-licenza_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19420706_esami-licenza_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "De experimentis ad Prolytatum - Pontificia Commissio Biblica",
+        "it": "Gli esami per la Licenza - Pontificia Commissione Biblica"
+      }
+    }
+  ]
+}

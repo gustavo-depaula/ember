@@ -1,0 +1,80 @@
+{
+  "id": "benedict-xvi-beatification-tapies-ginard",
+  "cover": "quarter",
+  "name": {
+    "la": "Littera Apostolicae quibus Summus Pontifex inscripsit in album Beatorum Servos Dei Iosephum Tàpies et 6 Sodales atque Mariam de los Ángeles Ginard Martí, die 29 m. Octobris A.D. 2005, Benedictus XVI",
+    "en-US": "Apostolic Letter by which the Supreme Pontiff has raised to the glory of the altars the Servants of God: Josep Tàpies and six Companions and María de los Ángeles Ginard Martí",
+    "pt-BR": "Carta Apostólica para a Beatificação dos Servos de Deus: Josep Tápies e seis Companheiros e María de los Ángeles Ginard Martí",
+    "es": "Carta Apostólica con la que el Sumo Pontífice ha inscrito en el catálogo de los beatos a los siervos de Dios José Tapies y seis compañeros y a María de los Ángeles Ginard Martí",
+    "fr": "Lettre Apostolique par laquelle le Pape Benoît XVI inscrit au catalogue des bienheureux Josep Tàpies et six compagnons et María de los Ángeles Ginard Martí",
+    "it": "Lettera Apostolica con la quale il Sommo Pontefice ha iscritto all’albo dei Beati i Servi di Dio: Josep Tàpies e sei Compagni e María de los Ángeles Ginard Martí"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Benedict XVI · 2005-10-29",
+    "pt-BR": "Carta Apostólica · Papa Bento XVI · 2005-10-29"
+  },
+  "composed": "2005",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/apost_letters/documents/hf_ben-xvi_apl_20051029_beatification-tapies-ginard.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/apost_letters/documents/hf_ben-xvi_apl_20051029_beatification-tapies-ginard.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/apost_letters/documents/hf_ben-xvi_apl_20051029_beatification-tapies-ginard.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/apost_letters/documents/hf_ben-xvi_apl_20051029_beatification-tapies-ginard.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/apost_letters/documents/hf_ben-xvi_apl_20051029_beatification-tapies-ginard.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/apost_letters/documents/hf_ben-xvi_apl_20051029_beatification-tapies-ginard.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Littera Apostolicae quibus Summus Pontifex inscripsit in album Beatorum Servos Dei Iosephum Tàpies et 6 Sodales atque Mariam de los Ángeles Ginard Martí, die 29 m. Octobris A.D. 2005, Benedictus XVI",
+        "en-US": "Apostolic Letter by which the Supreme Pontiff has raised to the glory of the altars the Servants of God: Josep Tàpies and six Companions and María de los Ángeles Ginard Martí",
+        "pt-BR": "Carta Apostólica para a Beatificação dos Servos de Deus: Josep Tápies e seis Companheiros e María de los Ángeles Ginard Martí",
+        "es": "Carta Apostólica con la que el Sumo Pontífice ha inscrito en el catálogo de los beatos a los siervos de Dios José Tapies y seis compañeros y a María de los Ángeles Ginard Martí",
+        "fr": "Lettre Apostolique par laquelle le Pape Benoît XVI inscrit au catalogue des bienheureux Josep Tàpies et six compagnons et María de los Ángeles Ginard Martí",
+        "it": "Lettera Apostolica con la quale il Sommo Pontefice ha iscritto all’albo dei Beati i Servi di Dio: Josep Tàpies e sei Compagni e María de los Ángeles Ginard Martí"
+      }
+    }
+  ]
+}

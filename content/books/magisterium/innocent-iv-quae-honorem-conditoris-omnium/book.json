@@ -1,0 +1,40 @@
+{
+  "id": "innocent-iv-quae-honorem-conditoris-omnium",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Quae Honorem Conditoris Omnium"
+  },
+  "author": {
+    "en-US": "Pope Innocent IV",
+    "pt-BR": "Papa Inocêncio IV",
+    "la": "Innocentius PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent IV · 1247-10-01",
+    "pt-BR": "Documento · Papa Inocêncio IV · 1247-10-01"
+  },
+  "composed": "1247",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-iv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/innoc04/i4carmrl.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Quae Honorem Conditoris Omnium"
+      }
+    }
+  ]
+}

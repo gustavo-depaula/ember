@@ -1,0 +1,48 @@
+{
+  "id": "pius-vi-ad-nostras-manus",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Encíclica Ad nostras manus",
+    "it": "Enciclica Ad nostras manus"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius VI · 1793-07-31",
+    "pt-BR": "Encíclica · Papa Pio VI · 1793-07-31"
+  },
+  "composed": "1793",
+  "languages": [
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-vi/pt/documents/enciclica-ad-nostras-manus-31-luglio-1793.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/enciclica-ad-nostras-manus-31-luglio-1793.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Encíclica Ad nostras manus",
+        "it": "Enciclica Ad nostras manus"
+      }
+    }
+  ]
+}

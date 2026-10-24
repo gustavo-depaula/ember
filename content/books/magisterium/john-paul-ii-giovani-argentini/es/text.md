@@ -1,0 +1,37 @@
+# Mensaje a los jóvenes argentinos
+
+***MENSAJE DEL SANTO PADRE JUAN PABLO II A LOS JÓVENES ARGENTINOS***
+
+*Amadísimos jóvenes:*
+
+1\. Saludo cordialmente a vosotros, que participáis en el encuentro nacional de jóvenes católicos, que, como culminación del programa pastoral de prioridad establecido por la Conferencia Episcopal Argentina, se celebra en esa ciudad de Córdoba. Movido por mi profunda estima hacia esa Nación, especialmente por la juventud, os mando mi palabra de aliento y esperanza.
+
+Es de desear que esta reunión sea una nueva ocasión para acrecentar vuestra fe en el Hijo de Dios; para dar testimonio de vuestra vivencia religiosa en vuestros hogares, en el mundo del trabajo o de la universidad, es decir, en la sociedad de la que formáis parte y a la que debéis iluminar con criterios también evangélicos, pues para el creyente la fe, además de ser la firme adhesión a unas verdades inmutables en el tiempo y en el espacio, es también la plena identificación con la persona y el mensaje siempre actual de Jesucristo.
+
+2\. La Iglesia, a través de su historia, ha sido y es signo, o sea, germen constante de esperanza. Coherente con esta profunda experiencia, la Comunidad eclesial argentina, en unión con sus respectivos Obispos, quiere dar razón de su fe y de su esperanza a todos los hermanos. Este es el motivo que os ha impulsado a reuniros para profundizar en las raíces de nuestra fe. Es importante que procuréis a lo largo de estos días, al igual que durante vuestra vida, descubrir el verdadero rostro de Cristo, pues come escribe el Apóstol Pablo: vosotros sois de Cristo, como Cristo es de Dios (cf. *1 Co* 3, 23).
+
+La juventud es etapa fundamental de la vida humana; se manifiesta, entre otras características, por su deseo de querer un mundo mejor espiritual y materialmente. Por eso, en el transcurso de la historia de la humanidad, los jóvenes han soñado la implantación de un mundo más justo, más fraterno, más tolerante, más solidario y más habitable.
+
+3\. Queridos y queridas jóvenes, en vuestro esfuerzo por la construcción de un mundo mejor que el de vuestros mayores, experimentáis a veces unos sentimientos entremezclados de desilusión y frustración ante las dificultades de que se dé rápidamente una renovación social, política, cultural y hasta religiosa, deseada con tanto ardor. Ello puede conduciros a vivir en las fronteras del temor y de la esperanza. Ante una situación semejante, es de vital importancia hallar unas razones firmes que os permitan vivir, creer, esperar y amar plenamente.
+
+En estos momentos cruciales de vuestra existencia, os invito a acercaros a la Iglesia, siempre joven, que quiere presentaros a Cristo como compañero y amigo de todos los jóvenes. *Cristo debe ser* para cada uno de vosotros *la razón de vivir*: no temáis a Cristo; abríos a El; entregaos a El con generosidad; que El ocupe el centro de vuestra vida; porque Cristo es la esperanza ante la angustia del mundo que nos rodea. Por tanto, vuestro lema debe ser el mismo que el Apóstol Pablo indicó a los cristianos de Corinto: no vivir para vosotros, sino para Cristo (cf. *2 Co* 5, 15). Así vuestra existencia tendrá pleno sentido.
+
+Pero para alcanzar esta experiencia espiritual, es menester que sigáis la figura de Cristo tal cual es, y que la Iglesia proclama a través de su misión evangelizadora.
+
+Desde la más tierna infancia habéis aprendido en el seno de vuestras familias a honrar a Jesús de Nazaret como el Hijo de Dios. El cual, en la plenitud de los tiempos, asumió la condición humana, haciéndose hombre igual a nosotros en todo, excepto en el pecado. Vino al mundo para anunciar la Buena Nueva de salvación. Su vida fue un pleno sometimiento a la voluntad de Dios Padre. Fue, al igual que vosotros, joven; y se esforzó, como tenéis que hacerlo también vosotros, por dar lo mejor a todos los hombres. Mediante su acción evangelizadora dejó sentadas las bases de un mundo más espiritual y a la vez más humano. Sintió el miedo y la angustia en su propia carne ante la inminencia de la muerte. Y, sin embargo, se abandonó confiado en los brazos de su Padre. Con su muerte en la cruz se convirtió en el Salvador de los hombres, y con su resurrección instauró la “nueva creación”. Este es Cristo: el Mesías, el Señor.
+
+Tal vez, más de uno de vosotros, al escuchar estas palabras, se preguntará, ¿qué debo hacer? La respuesta es clara. Vuestra misión debe consistir en dar testimonio de Cristo ante los demás: a los hambrientos y sedientos de Dios, dadles el mensaje confortador del Hijo de Dios; a cuantos han perdido la luz de la fe, hacedles ver que Cristo es la luz del mundo; a los que buscan un motivo de esperanza para sobrevivir, hacedles comprender que Cristo está también en ellos en la intimidad de su corazón; a los no practicantes, a los incrédulos, agnósticos o indiferentes que pasan a vuestro alrededor, decidles que es posible tener fe y vivir el empeño diario. No olvidéis, que, por vuestro medio, el Hijo del hombre vuelve a buscar y a salvar a los que estaban perdidos o se habían alejado.
+
+4\. Pero “la espera de una tierra nueva ―como enseña el Concilio Vaticano II― no debe amortiguar, sino más bien avivar, la preocupación por perfeccionar esta tierra, donde crece el cuerpo de la nueva familia humana” (*[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, 39).
+
+En el nombre de Cristo procurad pues eliminar toda forma de resentimiento y odio, de violencia o venganza. Se construye una sociedad justa, pacífica y estable sólo mediante la participación activa de todos sus miembros y suprimiendo cualquier tipo de discriminación. Esto supone confianza en el hombre; pues como ha dejado escrito uno de los grandes poetas de esa Nación: “Para vencer un peligro, / salvar de cualquier abismo, / por experiencia lo afirmo, / más que el sable y la lanza, / suele servir la confianza / que el hombre tiene en sí mismo” (*Martín Fierro*, 4670).
+
+Esta es la misión que os espera. Contad para ello con la presencia de la Iglesia, que deposita su esperanza en vosotros. Esto es lo que el Papa espera de vosotros. Por tanto, como recordaba en mi Carta a los jóvenes y a las jóvenes del mundo “no permanezcáis pasivos; asumid vuestras responsabilidades en todos los campos abiertos a vosotros en nuestro mundo” (*[Carta a los jóvenes](http://w2.vatican.va/content/john-paul-ii/es/apost_letters/1985/documents/hf_jp-ii_apl_31031985_dilecti-amici.html)*, n. 16, 31 de marzo de 1985: *Insegnamenti di Giovanni Paolo II*, VIII/1 \[1985\] 800).
+
+5\. Al final de mi mensaje quiero encomendaros de modo especial a la Virgen María, bajo la advocación de Nuestra Señora de Luján, cuya imagen tuve ocasión de venerar como peregrino de paz y reconciliación; os exhorto a mantener siempre vivo el afecto y la devoción a la Madre del Redentor. Ella es la mujer fuerte que experimentó a lo largo de su vida la pobreza y el sufrimiento, la huída y el exilio (cf. *Mt* 2, 13-23), como muchos de vuestros hermanos y hermanas. Es necesario pues mirar siempre con esperanza a María, Madre también nuestra y de la Iglesia. Que Ella os ayuda a hacer realidad la consigna de su Hijo: “Esta es la vida eterna: que te conozcan a ti, único Dios verdadero” (*Jn* 17, 3).
+
+En prueba de mi afecto a vosotros y a toda la juventud argentina, os imparto mi Bendición Apostólica.
+
+*Vaticano, 8 de septiembre de 1985, festividad de la Natividad de Nuestra Señora.*
+
+**IOANNES PAULUS PP. II**

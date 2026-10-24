@@ -1,0 +1,36 @@
+# Investigabiles divitias Christi, Epistula Apostolica, Die 6 m. Februarii a. 1965, Paulus PP.VI
+
+**PAULUS PP. VI**
+
+**EPISTULAE APOSTOLICAE**
+
+***INVESTIGABILES DIVITIAS CHRISTI***\*
+
+AD PATRIARCHAS, PRIMATES,  
+ARCHIEPISCOPOS, EPISCOPOS ORBIS CATHOLICI,  
+SECUNDO EXEUNTE SAECULO  
+POST INSTITUTUM LITURGICUM FESTUM  
+IN HONOREM SS. CORDIS IESU.
+
+*Venerabiles fratres,  salutem et apostolicam benedictionem*
+
+Investigabiles divitias Christi (*Eph* 3, 8), quae a scisso divini Redemptoris latere manaverunt, cum ipse in cruce moriens universum hominum genus Patri reconciliavit, gliscens cultus Sanctissimo Cordi Christi exhibitus postremis hisce temporibus tam claro in lumine posuit, ut laetissimi inde fructus in Ecclesiae utilitatem maturuerint.  
+Postquam enim miserentissimus Servator, uti fertur, delectae sanctimoniali Margaritae Mariae Alacoque in oppido, quod vulgo Paray-le-Monial appellant, se conspiciendum praebens, instanter poposcit, ut publica precum certatione homines universi suum Cor, amore nostri vulneratum, colerent atque illatas sibi iniurias omnimodis compensarent, religionis obsequium erga illud Cor — S. loannis Eudes opera et impulsu iam hic illicque adhibitum — mirum sane est, quantum in clero populoque christiano floruerit, et per omnes fere continentes terras pervasent. Quam ob rem Apostolica Sedes generali huiusmodi venerationi cumulum attulit, cum Decessor Noster Clemens XIII v. m., pia accipiens postulata Episcoporum Poloniae, et Archiconfraternitatis Romanae titulo Cordis Iesu institutae, die VI mensis februarii anno MDCCLXV liturgicum festum cum Officio et Missa in honorem Cordis Iesu sive inclitae Polonae Nationi sive commemoratae religiosae Sodalitati concessit, decretum probans, a S. Rituum Congregatione die XXVI mensis ianuarii eiusdem anni latum (Cf P, XII Litt. Enc. *Haurietis aquas*: AAS XLVΠI (1956), p. 341; A. GARDELLINI, *Decreta* *authentica* SRC, T. II, 1856, n. 4324; T. III, n. 4579, 3).
+
+Itaque contigit, ut quinque et septuaginta annis, postquam humilis illa religiosa sodalis ex Ordine Visitationis ad caelestia gaudia excessit, liturgicum festum peculiaresque ritus in honorem SS. Cordis Iesu in usum inducerentur: quod non modo a Rege, sacris Praesulibus et christifidelibus Poloniae simulque a Romanae illius Archiconfraternitatis sociis exceptum est, verum etiam a sanctimonialibus eiusdem Ordinis a Visitatione, ab universa hac alma Urbe, ab Episcopis et Regina nobilis Gallicae Nationis, a moderatoribus ac sodalibus Societatis Iesu est celebratum, ita ut ad universum fere Ecclesiam perbrevi se porrigeret, atque in fidelium animis conspicui sanctitatis ederentur fructus.  
+Quocirca, secundo exeunte saeculo, ex quo id faustis evenit auspiciis, haud modico sane oblectamento percepimus sollemnes celebritates, huius rei commemorandae gratia, hic illicque apparari, ac praesertim in Augustodunensi dioecesi, cuius finibus oppidum Paray-le-Monial continetur, et praesertim in augusto templo ibi exstante, in quod piae peregrinorum turmae undique confluunt, sacrum veneraturae locum, ubi arcana Iesu Cordis tam mire patuisse creduntur, et ad universum manavisse orbem terrarum.
+
+Nostra igitur vota, Nostraque voluntas haec sunt, ut, huiusmodi oblata occasione, instituti festi memoria, opportuna ratione in luce collocata, a vobis omnibus, Venerabiles Fratres, Ecclesiae Dei Episcopis, et a commisso vobis populo digne recolatur: sive alta atque interiora sacrae doctrinae capita, SS. Cordis *infinitos dilectionis thesauros* declarantia, aptius pleniusque omnium fidelium coetibus explicando, sive peculiares indicendo ritus, quibus pietas erga hunc maximi aestimandum cultum magis magisque foveatur, eo sane consilio, ut christifideles universi, novo spiritu permoti, divino illi Cordi debitum deferant honorem, peccata omne genus flagrantioribus usque obsequiis expient, et germanae caritati — quae *est plenitudo legis* (Cf *Rom* 13, 10) — totam suam vitae rationem accommodent.  
+Cum enim Sanctissimum Iesu Cor, *fornax ardens caritatis*, symbolum sit et expressa imago aeterni illius amoris, per quem sic Deus dilexit mundum, ut Filium suum unigenitum daret (*Io* 3, 16), pro certo habemus, fore ut religiosae commemorationes plurimum conferant ad divini amoris divitias pepitus scrutandas atque intellegendas, pariterque confidimus, fore ut fideles omnes inde vires usque praestantiores sumant ad vitam Evangelio strenue conformandam, ad sedulo emendandos mores, ad divinae legis praescripta in rei effectum deducenda.
+
+In primis autem optamus, ut SS. Cordi Iesu, cuius praeclarissimum donum est Eucharistia, impensior cultus per augusti Sacramenti participationem tribuatur. Etenim in Eucharistiae sacrificio idem Servator noster immolatur et sumitur, *semper vivens ad interpellandum pro nobis* (*Heb* 7,25), cuius Cor militis lancea apertum est, pretiosique Sanguinis et aquae pariter undam in hominum genus effudit; praetereaque in hoc praecelso Sacramentorum omnium vertice et veluti centro *spiritualis dulcedo in suo fonte gustatur, et recolitur memoria illius, quam in sua passione Christus monstravit, excellentissimae caritatis* (S. THOMAS Aq., *Opusculum* 57). Quam ob rem, ut verbis S. Ioannis Damasceni utamur, prorsus oportet *accedamus ad eum ardenti desiderio ... ut desiderii nostri ignis, accepto carbonis ardore, peccata nostra comburat et corda illuminet, divinίque adeo ignis commercio inardescamus et in deos evadamus* (*De fide orthod.* 4, 13; *PG* 94, 1150).  
+Haec igitur ratio maxime idonea Nobis videur, ut cultus SS. Cordis, qui — maerentes id dicimus — apud quosdam aliquantulum remisit, iam cotidie magis refloreat, et ab omnibus existimetur veluti egregia probandaque verae pietatis forma, quae hoc nostro tempore, praesertim ex praescriptis Concilii Vaticani II, impensissime postulatur erga Christum Iesum, *regem et centrum omnium cordium; qui est caput corporis Ecclesiae ..., principium, primogenitus ex mortuis, ut sit in omnibus ipse primatum tenens* (*Col* 1, 18).
+
+Quoniam autem Sacrosancta Oecumenica Synodus *pia populi christiani exercitia ... praesertim cum de mandato Apostolicae Sedis fiunt* (*[Constitutio de Sacra Liturgia](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_lt.html)*, art. 13) valde commende, hoc prae ceteris praedicandum esse videtur, quippe quod, ut supra monuimus, in Christo Iesu rite adorando placandoque totum consistat, atque sacrosancto Eucharistiae mysterio potissimum innitatur, e quo, Bicut e ceteris S. Liturgiae actionibus, *obtinetur illa in Christo hominum sanctifίcatio et Dei glorificatio, ad quaιn, uti ad finem, omnia alia Ecclesiae opera contendunt* (*Ibid*., art. 10).  
+Multum igitur cupientes, ut indicendae celebritates ad christianae vitae mansurum profectum quam maxime conducant, divini Redemptoris munera vobis deprecamur uberrima, atque, benevolentiae Nostrae testem, Apostolicam Benedictionem vobis, Venerabiles Fratres, cunetisque sacerdotibus, religiosis familiis ac fidelibus, vigilantiae vestrae concreditis, peramanter impertimus.
+
+*Datum Romae, apud S. Petrum, die VI mensis Februarii anno MCMLXV, Pontificatus Nostri secundo.*
+
+**PAULUS PP. VI**
+
+\* AAS 57 (1965), pp. 298-301

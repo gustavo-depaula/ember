@@ -1,0 +1,40 @@
+{
+  "id": "paul-iii-presidindo-nos",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Presidindo Nós"
+  },
+  "author": {
+    "en-US": "Pope Paul III",
+    "pt-BR": "Papa Paulo III",
+    "la": "Paulus PP. III"
+  },
+  "description": {
+    "en-US": "Bull · Pope Paul III · 1544-02-23",
+    "pt-BR": "Bula · Papa Paulo III · 1544-02-23"
+  },
+  "composed": "1544",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "paul-iii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/presidindo-nos-paulo-iii-23-02-1544/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Presidindo Nós"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-litteras-a-vobis",
+  "cover": "quarter",
+  "name": {
+    "la": "Litteras a vobis",
+    "en-US": "Litteras a Vobis",
+    "it": "Litteras a vobis"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1894-07-02",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1894-07-02"
+  },
+  "composed": "1894",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_02071894_litteras-a-vobis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litteras a vobis",
+        "en-US": "Litteras a Vobis",
+        "it": "Litteras a vobis"
+      }
+    }
+  ]
+}

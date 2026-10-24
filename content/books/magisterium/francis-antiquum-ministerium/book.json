@@ -1,0 +1,144 @@
+{
+  "id": "francis-antiquum-ministerium",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued “Motu Proprio” by the Supreme Pontiff Francis \"Antiquum ministerium\"",
+    "pt-BR": "Carta Apostólica sob forma de «Motu Proprio» do Sumo Pontífice Francisco Antiquum ministerium pela qual se institui o ministério de catequista",
+    "ar": "Apostolic Letter issued “Motu Proprio” by the Supreme Pontiff Francis \"Antiquum ministerium\", instituting the ministry of catechist, 10 May 2021",
+    "be": "АПОСТАЛЬСКІ ЛІСТ У ФОРМЕ «MOTU PROPRIO» НАЙВЫШЭЙШАГА ПАНТЫФІКА ФРАНЦІШКА ANTIQUUM MINISTERIUM у якім ён устанаўлівае паслугу катэхета, 10 мая 2021 года",
+    "de": "Apostolisches Schreiben in Form eines „Motu Proprio“ von Papst Franziskus Antiquum ministerium zur Einführung des Dienstes des Katecheten",
+    "es": "Carta Apostólica en forma de «Motu Proprio» Antiquum ministerium con la que se instituye el Ministerio de Catequista",
+    "fr": "Lettre Apostolique sous la forme de Motu Proprio Antiquum ministerium du Souverain Pontife François établissant le Ministère de Catéchiste",
+    "hr": "Apostolsko Pismo u obliku Motuptoprija Vrhovnog Svećenika Franje \"Antiquum ministerium\" kojim se uspostavlja služba katehete",
+    "it": "Lettera Apostolica in forma di “Motu proprio” di Papa Francesco \"Antiquum ministerium\" con la quale si istituisce il ministero di catechista",
+    "pl": "List Apostolski w formie „Motu proprio” Papieża Franciszka Antiquum ministerium w którym ustanawia posługę katechety",
+    "ro": "Scrisoare Apostolică în formă de “Motu proprio” a Suveranului Pontif Francisc \"Antiquum ministerium\" cu care este instituită slujirea de catehet",
+    "vi": "TÔNG THƯ BAN HÀNH DƯỚI DẠNG TỰ SẮC CỦA ĐỨC THÁNH CHA PHANXICÔ \"ANTIQUUM MINISTERIUM\" THIẾT LẬP THỪA TÁC VỤ GIÁO LÝ VIÊN",
+    "zh-CN": "《历史悠久的职务》宗座牧函 （为设立传道员的职务） 教宗方济各 自动手谕",
+    "zh-TW": "《歷史悠久的職務》宗座牧函 （為設立傳道員的職務） 教宗方濟各 自動手諭"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2021-05-10",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2021-05-10"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "pl",
+    "ro",
+    "vi",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/francesco/hr/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ro",
+      "url": "https://www.vatican.va/content/francesco/ro/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/content/francesco/vi/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued “Motu Proprio” by the Supreme Pontiff Francis \"Antiquum ministerium\"",
+        "pt-BR": "Carta Apostólica sob forma de «Motu Proprio» do Sumo Pontífice Francisco Antiquum ministerium pela qual se institui o ministério de catequista",
+        "ar": "Apostolic Letter issued “Motu Proprio” by the Supreme Pontiff Francis \"Antiquum ministerium\", instituting the ministry of catechist, 10 May 2021",
+        "be": "АПОСТАЛЬСКІ ЛІСТ У ФОРМЕ «MOTU PROPRIO» НАЙВЫШЭЙШАГА ПАНТЫФІКА ФРАНЦІШКА ANTIQUUM MINISTERIUM у якім ён устанаўлівае паслугу катэхета, 10 мая 2021 года",
+        "de": "Apostolisches Schreiben in Form eines „Motu Proprio“ von Papst Franziskus Antiquum ministerium zur Einführung des Dienstes des Katecheten",
+        "es": "Carta Apostólica en forma de «Motu Proprio» Antiquum ministerium con la que se instituye el Ministerio de Catequista",
+        "fr": "Lettre Apostolique sous la forme de Motu Proprio Antiquum ministerium du Souverain Pontife François établissant le Ministère de Catéchiste",
+        "hr": "Apostolsko Pismo u obliku Motuptoprija Vrhovnog Svećenika Franje \"Antiquum ministerium\" kojim se uspostavlja služba katehete",
+        "it": "Lettera Apostolica in forma di “Motu proprio” di Papa Francesco \"Antiquum ministerium\" con la quale si istituisce il ministero di catechista",
+        "pl": "List Apostolski w formie „Motu proprio” Papieża Franciszka Antiquum ministerium w którym ustanawia posługę katechety",
+        "ro": "Scrisoare Apostolică în formă de “Motu proprio” a Suveranului Pontif Francisc \"Antiquum ministerium\" cu care este instituită slujirea de catehet",
+        "vi": "TÔNG THƯ BAN HÀNH DƯỚI DẠNG TỰ SẮC CỦA ĐỨC THÁNH CHA PHANXICÔ \"ANTIQUUM MINISTERIUM\" THIẾT LẬP THỪA TÁC VỤ GIÁO LÝ VIÊN",
+        "zh-CN": "《历史悠久的职务》宗座牧函 （为设立传道员的职务） 教宗方济各 自动手谕",
+        "zh-TW": "《歷史悠久的職務》宗座牧函 （為設立傳道員的職務） 教宗方濟各 自動手諭"
+      }
+    }
+  ]
+}

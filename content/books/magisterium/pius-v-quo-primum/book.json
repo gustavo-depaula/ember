@@ -1,0 +1,56 @@
+{
+  "id": "pius-v-quo-primum",
+  "cover": "quarter",
+  "name": {
+    "la": "Quo Primum",
+    "en-US": "Quo Primum",
+    "pt-BR": "Quo primum tempore"
+  },
+  "author": {
+    "en-US": "Pope Pius V",
+    "pt-BR": "Papa Pio V",
+    "la": "Pius PP. V"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius V · 1570-07-14",
+    "pt-BR": "Bula · Papa Pio V · 1570-07-14"
+  },
+  "composed": "1570",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-v"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1570-07-15,_SS_Pius_V,_Quo_Primum_Tempore,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius05/p5quopri.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/quo-primum-tempore-pio-v-14-07-1570/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quo Primum",
+        "en-US": "Quo Primum",
+        "pt-BR": "Quo primum tempore"
+      }
+    }
+  ]
+}

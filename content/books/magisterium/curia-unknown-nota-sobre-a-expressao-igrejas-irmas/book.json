@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-nota-sobre-a-expressao-igrejas-irmas",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Nota sobre a expressão ‘Igrejas irmãs'"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 2000-06-30",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 2000-06-30"
+  },
+  "composed": "2000",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/nota-sobre-a-expressao-igrejas-irmas-30-06-2000/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Nota sobre a expressão ‘Igrejas irmãs'"
+      }
+    }
+  ]
+}

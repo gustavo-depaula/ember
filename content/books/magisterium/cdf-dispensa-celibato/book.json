@@ -1,0 +1,80 @@
+{
+  "id": "cdf-dispensa-celibato",
+  "cover": "quarter",
+  "name": {
+    "la": "Normae de dispensatione a sacerdotali coelibatu ad instantiam partis",
+    "en-US": "Procedural Norms regarding the dispensation of priests from celibacy",
+    "pt-BR": "Normas processuais para a dispensa do celibato sacerdotal, 14 de outuro de 1980",
+    "es": "Normas de procedimiento para la dispensa del celibato, 14 octubre 1980",
+    "it": "Norme per la dispensa dal celibato sacerdotale a istanza di parte, 14 ottobre 1980",
+    "pl": "NORMY DYSPENSOWANIA OD CELIBATU KAPŁAŃSKIEGO"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1980-10-14",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1980-10-14"
+  },
+  "composed": "1980",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensa-celibato_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensa-celibato_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensa-celibato_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensa-celibato_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensa-celibato_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensa-celibato_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Normae de dispensatione a sacerdotali coelibatu ad instantiam partis",
+        "en-US": "Procedural Norms regarding the dispensation of priests from celibacy",
+        "pt-BR": "Normas processuais para a dispensa do celibato sacerdotal, 14 de outuro de 1980",
+        "es": "Normas de procedimiento para la dispensa del celibato, 14 octubre 1980",
+        "it": "Norme per la dispensa dal celibato sacerdotale a istanza di parte, 14 ottobre 1980",
+        "pl": "NORMY DYSPENSOWANIA OD CELIBATU KAPŁAŃSKIEGO"
+      }
+    }
+  ]
+}

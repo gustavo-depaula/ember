@@ -1,0 +1,160 @@
+{
+  "id": "john-paul-ii-fides-et-ratio",
+  "cover": "quarter",
+  "name": {
+    "la": "Fides et Ratio, Litterae Encyclicae, Ioannes Paulus PP.II, die XIV mensis Septembris, A.D. MCMXCVIII",
+    "en-US": "Fides et Ratio",
+    "pt-BR": "Fides et Ratio",
+    "ar": "Fides et Ratio, 1998",
+    "da": "Fides et ratio, 14. september 1998",
+    "de": "Fides et Ratio",
+    "es": "Fides et Ratio",
+    "fi": "Fides et Ratio - Ioannes Paulus PP. II - Encyclical Letter",
+    "fr": "Fides et Ratio",
+    "hu": "Fides et Ratio, enciklikája püspökeihez a hit és az értelem kapcsolatának természetéről, 1998. szeptember 14-én - II. János Pál pápa",
+    "it": "Fides et Ratio",
+    "nl": "Fides et ratio, Encycliek, Johannes Paulus II",
+    "pl": "Fides et ratio, 14 września 1998",
+    "ro": "Fides et Ratio - Ioannes Paulus PP. II - Encyclical Letter",
+    "zh-CN": "教宗若望保禄二世 通 谕 《信仰与理性》",
+    "zh-TW": "教宗若望保祿二世 通 諭 《信仰與理性》"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope John Paul II · 1998-09-14",
+    "pt-BR": "Encíclica · Papa João Paulo II · 1998-09-14"
+  },
+  "composed": "1998",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "da",
+    "de",
+    "es",
+    "fi",
+    "fr",
+    "hu",
+    "it",
+    "nl",
+    "pl",
+    "ro",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/john-paul-ii/ar/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "da",
+      "url": "https://www.vatican.va/content/john-paul-ii/da/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fi",
+      "url": "https://www.vatican.va/content/john-paul-ii/fi/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/content/john-paul-ii/nl/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ro",
+      "url": "https://www.vatican.va/content/john-paul-ii/ro/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/john-paul-ii/zh_cn/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/john-paul-ii/zh_tw/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Fides et Ratio, Litterae Encyclicae, Ioannes Paulus PP.II, die XIV mensis Septembris, A.D. MCMXCVIII",
+        "en-US": "Fides et Ratio",
+        "pt-BR": "Fides et Ratio",
+        "ar": "Fides et Ratio, 1998",
+        "da": "Fides et ratio, 14. september 1998",
+        "de": "Fides et Ratio",
+        "es": "Fides et Ratio",
+        "fi": "Fides et Ratio - Ioannes Paulus PP. II - Encyclical Letter",
+        "fr": "Fides et Ratio",
+        "hu": "Fides et Ratio, enciklikája püspökeihez a hit és az értelem kapcsolatának természetéről, 1998. szeptember 14-én - II. János Pál pápa",
+        "it": "Fides et Ratio",
+        "nl": "Fides et ratio, Encycliek, Johannes Paulus II",
+        "pl": "Fides et ratio, 14 września 1998",
+        "ro": "Fides et Ratio - Ioannes Paulus PP. II - Encyclical Letter",
+        "zh-CN": "教宗若望保禄二世 通 谕 《信仰与理性》",
+        "zh-TW": "教宗若望保祿二世 通 諭 《信仰與理性》"
+      }
+    }
+  ]
+}

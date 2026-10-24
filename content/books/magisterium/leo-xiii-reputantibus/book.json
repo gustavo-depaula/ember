@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-reputantibus",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Reputantibus",
+    "it": "Reputantibus\n (August 20, 1901)"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1901-08-20",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1901-08-20"
+  },
+  "composed": "1901",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20081901_reputantibus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1901-08-25,_SS_Leo_XIII,_Encyclica_'Reputantibus_Saepe',_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Reputantibus",
+        "it": "Reputantibus\n (August 20, 1901)"
+      }
+    }
+  ]
+}

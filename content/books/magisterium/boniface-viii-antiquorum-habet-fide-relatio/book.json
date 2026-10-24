@@ -1,0 +1,40 @@
+{
+  "id": "boniface-viii-antiquorum-habet-fide-relatio",
+  "cover": "quarter",
+  "name": {
+    "it": "Antiquorum Habet Fide Relatio"
+  },
+  "author": {
+    "en-US": "Pope Boniface VIII",
+    "pt-BR": "Papa Bonifácio VIII",
+    "la": "Bonifatius PP. VIII"
+  },
+  "description": {
+    "en-US": "Document · Pope Boniface VIII · 1300-02-22",
+    "pt-BR": "Documento · Papa Bonifácio VIII · 1300-02-22"
+  },
+  "composed": "1300",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "boniface-viii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1300-02-22,_SS_Bonifacius_VIII,_Antiquorum_Habet_Fide_Relatio,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Antiquorum Habet Fide Relatio"
+      }
+    }
+  ]
+}

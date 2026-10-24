@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-quare-lacrymae",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Quare lacrymae"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius VI · 1793-06-17",
+    "pt-BR": "Alocução · Papa Pio VI · 1793-06-17"
+  },
+  "composed": "1793",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/allocuzione-quare-lacrymae-17-giugno-1793.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Quare lacrymae"
+      }
+    }
+  ]
+}

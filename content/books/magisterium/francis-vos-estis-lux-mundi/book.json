@@ -1,0 +1,112 @@
+{
+  "id": "francis-vos-estis-lux-mundi",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter in the form of “Motu Proprio” of the Supreme Pontiff Francis \"Vos estis lux mundi\"",
+    "pt-BR": "Carta Apostólica sob forma de Motu Proprio do Sumo Pontífice Francisco \"Vos estis lux mundi\"",
+    "de": "Apostolisches Schreiben in Form eines «Motu proprio» von Papst Franziskus “Vos estis lux mundi”",
+    "es": "Carta apostólica en forma de Motu proprio «Vos estis lux mundi»",
+    "fr": "Lettre apostolique en forme de Motu Proprio Vos estis lux mundi",
+    "hr": "Apostolsko Pismo u obliku Motuproprija Vrhovnog Svećenika Franje “Vos estis lux mundi”",
+    "it": "Lettera Apostolica in forma di «Motu proprio» del Sommo Pontefice Francesco “Vos estis lux mundi”",
+    "pl": "List apostolski \"Motu Proprio\" Vos estis lux mundi Ojca Świętego Franciszka",
+    "zh-CN": "Apostolic Letter in the form of “Motu Proprio” of the Supreme Pontiff Francis \"Vos estis lux mundi\"",
+    "zh-TW": "Apostolic Letter in the form of “Motu Proprio” of the Supreme Pontiff Francis \"Vos estis lux mundi\""
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2019-05-07",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2019-05-07"
+  },
+  "composed": "2019",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "pl",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20190507_vos-estis-lux-mundi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20190507_vos-estis-lux-mundi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio-20190507_vos-estis-lux-mundi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20190507_vos-estis-lux-mundi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio-20190507_vos-estis-lux-mundi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/francesco/hr/motu_proprio/documents/papa-francesco-motu-proprio-20190507_vos-estis-lux-mundi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20190507_vos-estis-lux-mundi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/motu_proprio/documents/papa-francesco-motu-proprio-20190507_vos-estis-lux-mundi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/motu_proprio/documents/papa-francesco-motu-proprio-20190507_vos-estis-lux-mundi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/motu_proprio/documents/papa-francesco-motu-proprio-20190507_vos-estis-lux-mundi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter in the form of “Motu Proprio” of the Supreme Pontiff Francis \"Vos estis lux mundi\"",
+        "pt-BR": "Carta Apostólica sob forma de Motu Proprio do Sumo Pontífice Francisco \"Vos estis lux mundi\"",
+        "de": "Apostolisches Schreiben in Form eines «Motu proprio» von Papst Franziskus “Vos estis lux mundi”",
+        "es": "Carta apostólica en forma de Motu proprio «Vos estis lux mundi»",
+        "fr": "Lettre apostolique en forme de Motu Proprio Vos estis lux mundi",
+        "hr": "Apostolsko Pismo u obliku Motuproprija Vrhovnog Svećenika Franje “Vos estis lux mundi”",
+        "it": "Lettera Apostolica in forma di «Motu proprio» del Sommo Pontefice Francesco “Vos estis lux mundi”",
+        "pl": "List apostolski \"Motu Proprio\" Vos estis lux mundi Ojca Świętego Franciszka",
+        "zh-CN": "Apostolic Letter in the form of “Motu Proprio” of the Supreme Pontiff Francis \"Vos estis lux mundi\"",
+        "zh-TW": "Apostolic Letter in the form of “Motu Proprio” of the Supreme Pontiff Francis \"Vos estis lux mundi\""
+      }
+    }
+  ]
+}

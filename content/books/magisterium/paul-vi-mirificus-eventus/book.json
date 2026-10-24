@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-mirificus-eventus",
+  "cover": "quarter",
+  "name": {
+    "la": "Mirificus eventus - Constitutio apostolica",
+    "it": "Mirificus eventus"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Paul VI · 1965-12-07",
+    "pt-BR": "Constituição Apostólica · Papa Paulo VI · 1965-12-07"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19651207_mirificus-eventus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_19651207_mirificus-eventus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Mirificus eventus - Constitutio apostolica",
+        "it": "Mirificus eventus"
+      }
+    }
+  ]
+}

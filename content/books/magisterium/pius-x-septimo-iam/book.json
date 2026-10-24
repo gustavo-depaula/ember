@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-septimo-iam",
+  "cover": "quarter",
+  "name": {
+    "la": "Septimo Iam"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius X · 1909-10-04",
+    "pt-BR": "Documento · Papa Pio X · 1909-10-04"
+  },
+  "composed": "1909",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1909-10-04,_SS_Pius_X,_Septimo_Iam,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Septimo Iam"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-redemptoris-nostri-cruciatus",
+  "cover": "quarter",
+  "name": {
+    "la": "Redemptoris Nostri Cruciatus (April 15, 1949)",
+    "en-US": "Redemptoris Nostri Cruciatus",
+    "it": "Redemptoris Nostri Cruciatus"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1949-04-15",
+    "pt-BR": "Encíclica · Papa Pio XII · 1949-04-15"
+  },
+  "composed": "1949",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1949-04-15,_SS_Pius_XII,_Encyclica._Redemptoris_Nostri_Cruciatus,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_15041949_redemptoris-nostri-cruciatus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15041949_redemptoris-nostri-cruciatus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Redemptoris Nostri Cruciatus (April 15, 1949)",
+        "en-US": "Redemptoris Nostri Cruciatus",
+        "it": "Redemptoris Nostri Cruciatus"
+      }
+    }
+  ]
+}

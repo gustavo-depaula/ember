@@ -1,0 +1,64 @@
+{
+  "id": "benedict-xvi-attivita-illegali",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued \"Motu Proprio\" for the prevention and countering of illegal activities in the area of monetary and financial dealings",
+    "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" para a prevenção e o contraste das atividades ilegais em campo financeiro e monetário",
+    "es": "Carta Apostólica en forma de Motu proprio sobre la prevención y la lucha contra las actividades ilegales en el campo financiero y monetario",
+    "it": "Lettera Apostolica in forma di \"Motu Proprio\" per la prevenzione ed il contrasto delle attività illegali in campo finanziario e monetario"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XVI · 2010-12-30",
+    "pt-BR": "Motu Proprio · Papa Bento XVI · 2010-12-30"
+  },
+  "composed": "2010",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20101230_attivita-illegali.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20101230_attivita-illegali.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20101230_attivita-illegali.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20101230_attivita-illegali.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued \"Motu Proprio\" for the prevention and countering of illegal activities in the area of monetary and financial dealings",
+        "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" para a prevenção e o contraste das atividades ilegais em campo financeiro e monetário",
+        "es": "Carta Apostólica en forma de Motu proprio sobre la prevención y la lucha contra las actividades ilegales en el campo financiero y monetario",
+        "it": "Lettera Apostolica in forma di \"Motu Proprio\" per la prevenzione ed il contrasto delle attività illegali in campo finanziario e monetario"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-nobilissimam-sacrarum",
+  "cover": "quarter",
+  "name": {
+    "la": "Nobilissimam sacrarum, Motu proprio, De clericorum Collegio Patriarchali Basilicae Liberianae addicendo, d. 8 m. Aprilis a. 1917, Benedictus PP. XV",
+    "it": "Nobilissimam Sacrarum con il quale si dispone l’assegnazione dell’Almo Collegio Capranicense di Roma alla Patriarcale Basilica Liberiana"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XV · 1917-04-08",
+    "pt-BR": "Motu Proprio · Papa Bento XV · 1917-04-08"
+  },
+  "composed": "1917",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19170408_nobilissimam-sacrarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19170408_nobilissimam-sacrarum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Nobilissimam sacrarum, Motu proprio, De clericorum Collegio Patriarchali Basilicae Liberianae addicendo, d. 8 m. Aprilis a. 1917, Benedictus PP. XV",
+        "it": "Nobilissimam Sacrarum con il quale si dispone l’assegnazione dell’Almo Collegio Capranicense di Roma alla Patriarcale Basilica Liberiana"
+      }
+    }
+  ]
+}

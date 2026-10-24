@@ -1,0 +1,66 @@
+{
+  "id": "council-constantinople-iii",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Third Council of Constantinople",
+    "pt-BR": "Terceiro Concílio de Constantinopla",
+    "la": "Concilium Constantinopolitanum III"
+  },
+  "author": {
+    "en-US": "Third Council of Constantinople",
+    "pt-BR": "Terceiro Concílio de Constantinopla",
+    "la": "Concilium Constantinopolitanum III"
+  },
+  "description": {
+    "en-US": "Ecumenical council · 680. Decrees, canons and acts in every language available.",
+    "pt-BR": "Concílio ecumênico · 680. Decretos, cânones e atas em todas as línguas disponíveis."
+  },
+  "composed": "680",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "council",
+    "constantinople-iii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0680-0680,_Concilium_Constantinopolitanum_III,_Documenta,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/ecum06.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0681-09-11,_Absens,_Concilium_Constantinopolitanum_III,_IT.doc",
+      "description": "Conciliar text as published at this address."
+    }
+  ],
+  "toc": [
+    {
+      "id": "la-01",
+      "title": {
+        "la": "Documenta"
+      }
+    },
+    {
+      "id": "en-US-01",
+      "title": {
+        "en-US": "Third Council of Constantinople : 680-681 A. D."
+      }
+    },
+    {
+      "id": "it-01",
+      "title": {
+        "it": "Concilium Constantinopolitanum III"
+      }
+    }
+  ]
+}

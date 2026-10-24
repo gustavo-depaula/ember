@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-optimum-sane",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Optimum sane, al Cardinale Carlo Giuseppe Schulte, in occasione della fondazione di un Istituto Cattolico di filosofia"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1921-06-29",
+    "pt-BR": "Carta · Papa Bento XV · 1921-06-29"
+  },
+  "composed": "1921",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1921/documents/hf_ben-xv_let_19210629_optimum-sane.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Optimum sane, al Cardinale Carlo Giuseppe Schulte, in occasione della fondazione di un Istituto Cattolico di filosofia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-ministre-infermi",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Servants of Mary, Ministers of the Sick",
+    "pt-BR": "Carta às Servas de Maria Ministra dos Enfermos",
+    "es": "Carta a las Siervas de María, Ministras de los Enfermos"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 2002-11-13",
+    "pt-BR": "Carta · Papa João Paulo II · 2002-11-13"
+  },
+  "composed": "2002",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/2002/documents/hf_jp-ii_let_20021113_ministre-infermi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/2002/documents/hf_jp-ii_let_20021113_ministre-infermi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/2002/documents/hf_jp-ii_let_20021113_ministre-infermi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Servants of Mary, Ministers of the Sick",
+        "pt-BR": "Carta às Servas de Maria Ministra dos Enfermos",
+        "es": "Carta a las Siervas de María, Ministras de los Enfermos"
+      }
+    }
+  ]
+}

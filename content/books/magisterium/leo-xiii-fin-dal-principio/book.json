@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-fin-dal-principio",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Fin dal Principio",
+    "it": "Fin dal principio"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1902-12-08",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1902-12-08"
+  },
+  "composed": "1902",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08121902_fin-dal-principio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08121902_fin-dal-principio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Fin dal Principio",
+        "it": "Fin dal principio"
+      }
+    }
+  ]
+}

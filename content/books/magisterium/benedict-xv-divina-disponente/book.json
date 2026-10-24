@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-divina-disponente",
+  "cover": "quarter",
+  "name": {
+    "la": "Divina disponente, die XVI m. Maii a. MCMXX - Litterae Decretales, Benedictus XV",
+    "it": "Divina disponente"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Benedict XV · 1920-05-16",
+    "pt-BR": "Carta Apostólica · Papa Bento XV · 1920-05-16"
+  },
+  "composed": "1920",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/apost_letters/documents/hf_ben-xv_apl_19200516_divina-disponente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/apost_letters/documents/hf_ben-xv_apl_19200516_divina-disponente.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Divina disponente, die XVI m. Maii a. MCMXX - Litterae Decretales, Benedictus XV",
+        "it": "Divina disponente"
+      }
+    }
+  ]
+}

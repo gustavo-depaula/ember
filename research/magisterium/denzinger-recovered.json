@@ -1,0 +1,857 @@
+{
+ "clement-i:Quantam sollicitudinem": {
+  "title": "Saint Clément I, Ep. ad Corinthios, vers 96 Saint Corneille, Ep. 'Quantam sollicitudinem' à Cyprien évêque de Carthage, 251",
+  "found": false,
+  "searched": 12
+ },
+ "liberius:Non doceo": {
+  "title": "Libere, Ep. 'Non doceo' ad Vincentium, 357",
+  "found": false,
+  "searched": 7
+ },
+ "liberius:Pro deifico": {
+  "title": "Libere, Ep. 'Pro deifico' ad episcopos Orientales, 357",
+  "found": false,
+  "searched": 7
+ },
+ "liberius:Quia scio": {
+  "title": "Libere, Ep. 'Quia scio' ad Ursacium, Valentem, Germinium, 357",
+  "found": false,
+  "searched": 7
+ },
+ "liberius:Studens paci": {
+  "title": "Libere, Ep. 'Studens paci' aux évêques orientaux, 357",
+  "found": false,
+  "searched": 7
+ },
+ "damasus-i:Per filium meum": {
+  "title": "Saint Damase I, Ep. 'Per filium meum' ad Paulinum episc. Antiochenum, 375",
+  "found": false,
+  "searched": 4
+ },
+ "damasus-i:Oti te apostolike kathedra": {
+  "title": "Saint Damase I, Ep. 'Oti te apostolike kathedra' ad episcopos Orientales, vers 378",
+  "found": false,
+  "searched": 4
+ },
+ "synod-romain:Decretum Damasi": {
+  "title": "Concile Romain, 382; 'Decretum Damasi' seu De explanatione Cfidei",
+  "found": false,
+  "searched": 0
+ },
+ "anastasius-i:Dat mihi": {
+  "title": "Saint Anastase I, Ep. 'Dat mihi' ad Venerium episc. Mediolan., vers 401",
+  "found": false,
+  "searched": 3
+ },
+ "innocent-i:Etsi tibi": {
+  "title": "Saint Innocent I, Ep. 'Etsi tibi' ad Victricium episc. Rotomag. (Rouen), 15 février 404",
+  "found": false,
+  "searched": 6
+ },
+ "innocent-i:Consulenti tibi": {
+  "title": "Saint Innocent I, Ep. 'Consulenti tibi' ad Exsuperium episc. Tolosanum (Toulouse); 20. Febr. 405",
+  "found": false,
+  "searched": 6
+ },
+ "innocent-i:Magna me gratulatio": {
+  "title": "Saint Innocent I, Ep. 'Magna me gratulatio' ad Rufum et alios episcopos Macedoniae, 13. Dec. 414",
+  "found": false,
+  "searched": 6
+ },
+ "innocent-i:Si instituta ecclesiastica": {
+  "title": "Saint Innocent I, Ep. 'Si instituta ecclesiastica' ad Decentium episc. Eugubinum (Gubbio), 19. Mart. 416",
+  "found": false,
+  "searched": 6
+ },
+ "innocent-i:In requirendis": {
+  "title": "Saint Innocent I, Ep. 'In requirendis' ad episcopos Conc. Carthag., 27 Jan. 417",
+  "found": false,
+  "searched": 6
+ },
+ "innocent-i:Inter ceteras Ecclesiae Romanae": {
+  "title": "Saint Innocent I, Ep. 'Inter ceteras Ecclesiae Romanae' ad Silvanum et ceteros Synodi Milevitanae Patres, 27. Ian. 417",
+  "found": false,
+  "searched": 6
+ },
+ "zosimus:Tractatoria": {
+  "title": "Saint Zosime, Ep. 'Tractatoria' ad Eccclesias Orientales, entre juin et août 418",
+  "found": false,
+  "searched": 4
+ },
+ "zosimus:Quamvis Patrum": {
+  "title": "Saint Zosime, Ep. 'Quamvis Patrum' ad Concilium Carthag. 21 mars 418",
+  "found": false,
+  "searched": 4
+ },
+ "boniface:Retro majoribus": {
+  "title": "Saint Boniface, Ep. 'Retro majoribus' ad Rufum episc. Thessaliae, 11 mars 422",
+  "found": false,
+  "searched": 0
+ },
+ "sixtus-iii:union entre saint Cyrille év. d": {
+  "title": "Saint Sixte III, Formule d'union entre saint Cyrille év. d'Alexandrie et les év. de l'Eglise d'Antioche; 433",
+  "found": false,
+  "searched": 5
+ },
+ "early-church:Indiculus": {
+  "title": "Capitula pseudo-Caelestina seu 'Indiculus' (Rome, vers 435-442; (saint Prosper (?)))",
+  "found": false,
+  "searched": 0
+ },
+ "leo-i:Ut nobis gratulationem": {
+  "title": "Saint Léon I le Grand, Ep. 'Ut nobis gratulationem' ad episcopos per Campaniam, Picenum, Tusciam, 10 octobre 443",
+  "found": false,
+  "searched": 16
+ },
+ "leo-i:Quanta fraternitati": {
+  "title": "Saint Léon I le Grand, Ep. 'Quanta fraternitati' ad Anastasium ep. Thessal., 446 (?",
+  "found": false,
+  "searched": 16
+ },
+ "leo-i:Quam laudabiliter": {
+  "title": "Saint Léon I le Grand, Ep. 'Quam laudabiliter' ad Turrib. ep. Astur., 21. Iul. 447",
+  "found": false,
+  "searched": 16
+ },
+ "leo-i:Licet per nostros": {
+  "title": "Saint Léon I le Grand, Ep. 'Licet per nostros' ad Julian. Coinsem, 13 juin 449",
+  "found": false,
+  "searched": 16
+ },
+ "leo-i:Sollicitudinis quidem tuae": {
+  "title": "Saint Léon I le Grand, Ep. 'Sollicitudinis quidem tuae' ad Theodorum episc. Foroiuliensem (Fréjus, Galliae merid.), 11 juin 452",
+  "found": false,
+  "searched": 16
+ },
+ "leo-i:Epistolas fraternitatis": {
+  "title": "Saint Léon I le Grand, Ep. 'Epistolas fraternitatis' ad Rusticum, episc. Narbon., 458 aut 459",
+  "found": false,
+  "searched": 16
+ },
+ "leo-i:Regressus ad nos": {
+  "title": "Saint Léon I le Grand, Ep. 'Regressus ad nos' ad Nicetam episc. Aquil., 21 Mars 458",
+  "found": false,
+  "searched": 16
+ },
+ "leo-i:Promisisse me memini": {
+  "title": "Saint Léon I le Grand, Ep. 'Promisisse me memini' ad Leonem I imp., 17 août 458",
+  "found": false,
+  "searched": 16
+ },
+ "leo-i:Frequenter quidem": {
+  "title": "Saint Léon I le Grand, Ep. 'Frequenter quidem' ad Neonem episcopum Ravennat., 24 octobre 458",
+  "found": false,
+  "searched": 16
+ },
+ "leo-i:Magna indignatione": {
+  "title": "Saint Léon le Grand, Ep. 'Magna indignatione' ad universos episcopos per Campaniam etc., 6 Mars 459",
+  "found": false,
+  "searched": 16
+ },
+ "early-church:Quantum presbyterorum": {
+  "title": "Saint Simplicius, Ep. 'Quantum presbyterorum' ad Acacium episc. Cepolit., 10 janvier 476",
+  "found": false,
+  "searched": 0
+ },
+ "felix-ii:Quoniam pietas": {
+  "title": "Saint Félix II (III), Ep. 'Quoniam pietas' ad Zenonem imp., 1 août 484",
+  "found": false,
+  "searched": 0
+ },
+ "gelasius-i:Famuli vestrae pietatis": {
+  "title": "Saint Gélase I, Ep. 'Famuli vestrae pietatis' ad Anastasium I imp., 494",
+  "found": false,
+  "searched": 5
+ },
+ "gelasius-i:Ne forte": {
+  "title": "Saint Gélase I, Tomus 'Ne forte' de anathematis vinculo, 495",
+  "found": false,
+  "searched": 5
+ },
+ "anastasius-ii:Exordium pontificatus mei": {
+  "title": "Anastase II, Ep. 'Exordium pontificatus mei' ad Anastasium I imp., 496",
+  "found": false,
+  "searched": 0
+ },
+ "anastasius-ii:In prolixitate epistolae": {
+  "title": "Anastase II, Ep. 'In prolixitate epistolae' ad Laurentium episc. Lignidensem (Lignido in Illyrico), 497",
+  "found": false,
+  "searched": 0
+ },
+ "anastasius-ii:Bonum atque iucundum": {
+  "title": "Anastase II, Ep. 'Bonum atque iucundum' ad epos Galliae, 23 août 498",
+  "found": false,
+  "searched": 0
+ },
+ "early-church:Ad augustae memoriae": {
+  "title": "Saint Symmaque, Ep. 'Ad augustae memoriae' ad Anastasium I Simp., post a. 506",
+  "found": false,
+  "searched": 0
+ },
+ "hormisdas:Libellus fidei Hormisdae papae": {
+  "title": "Saint Hormisdas, 'Libellus fidei Hormisdae papae' C'polim missus 11 août 515",
+  "found": false,
+  "searched": 4
+ },
+ "hormisdas:Inter ea quae": {
+  "title": "Saint Hormisdas, Ep. 'Inter ea quae' ad Iustinum imperatorem, 26 mars 521",
+  "found": false,
+  "searched": 4
+ },
+ "boniface-ii:Per filium nostrum": {
+  "title": "Boniface II, Ep. 'Per filium nostrum' ad Caesar. ep. Arelat., 25 janvier 531; Confirmatio Concilii Arausicani II",
+  "found": false,
+  "searched": 3
+ },
+ "john-ii:Olim quidem": {
+  "title": "Jean II, Ep. 'Olim quidem' ad senatores C'politanos, Mars 534",
+  "found": false,
+  "searched": 2
+ },
+ "vigilius:Dum in sanctae": {
+  "title": "Vigile, Ep. 'Dum in sanctae' ad univ. populum Dei, 5 février 552; Professio fidei Vigilii papae",
+  "found": false,
+  "searched": 4
+ },
+ "vigilius:Inter innumeras sollicitudines": {
+  "title": "Vigile, Constitutum (I) 'Inter innumeras sollicitudines' de tribus Capitulis ad Justinianum imperatorem, 14 mai 553; Damnatio errorum Nestorianismi de humanitate Christi",
+  "found": false,
+  "searched": 4
+ },
+ "pelagius-i:Vas electionis": {
+  "title": "Pélage I, Ep. encycl. 'Vas electionis' ad universum populum Dei cc. 557",
+  "found": false,
+  "searched": 2
+ },
+ "pelagius-i:Admonemus ut": {
+  "title": "Pélage I, Ep. 'Admonemus ut' ad Gaudentium episc. Volaterrae, inter Sept. 558 et 2. Febr. 559",
+  "found": false,
+  "searched": 2
+ },
+ "pelagius-i:Adeone te": {
+  "title": "Pélage I, Ep. 'Adeone te' ad (Iohannem) episc., ineunte a. 559",
+  "found": false,
+  "searched": 2
+ },
+ "pelagius-i:Relegentes autem": {
+  "title": "Pélage I, Ep. 'Relegentes autem' ad Valerianum patricium, Mart. aut init. Apr. 559",
+  "found": false,
+  "searched": 2
+ },
+ "pelagius-ii:Dilectionis vestrae": {
+  "title": "Pélage II, Ep. 'Dilectionis vestrae' ad episcopos schismaticos Istriae, a. 585 aut 586",
+  "found": false,
+  "searched": 4
+ },
+ "pelagius-ii:Quod ad dilectionem": {
+  "title": "Pélage II, Ep. 'Quod ad dilectionem' ad episcopos schismaticos Istriae, c. 585",
+  "found": false,
+  "searched": 4
+ },
+ "gregory-i:Considernati mihi": {
+  "title": "Saint Grégoire I le Grand, Ep. 'Considernati mihi' aux patriarches, février 591",
+  "found": false,
+  "searched": 11
+ },
+ "gregory-i:O quam bona": {
+  "title": "Saint Grégoire I le Grand,Ep. 'O quam bona' ad Virgilium episc. Arelat., 12 août 595",
+  "found": false,
+  "searched": 11
+ },
+ "gregory-i:Sicut aqua": {
+  "title": "Saint Grégoire I le Grand, Ep. 'Sicut aqua' ad Eulogium patr. Alexandr., août 600",
+  "found": false,
+  "searched": 11
+ },
+ "gregory-i:Litterarum tuarum primordia": {
+  "title": "Saint Grégoire le Grand, Ep. 'Litterarum tuarum primordia' ad Serenum episc. Massiliensem, octobre 600",
+  "found": false,
+  "searched": 11
+ },
+ "gregory-i:Quia caritati nihil": {
+  "title": "Saint Grégoire le Grand, Ep. 'Quia caritati nihil' ad episcopos Iberiae (Georgiae), vers le 22 juin 601",
+  "found": false,
+  "searched": 11
+ },
+ "honorius-i:Scripta fraternitatis": {
+  "title": "Honorius I, Ep. 'Scripta fraternitatis' ad Sergium patr., 634",
+  "found": false,
+  "searched": 4
+ },
+ "john-iv:Dominus qui dixit": {
+  "title": "Jean IV, Ep. 'Dominus qui dixit' ad Constantinum III imp. (Apologia pro Honorio papa), 641",
+  "found": false,
+  "searched": 2
+ },
+ "agatho:Consideranti mihi": {
+  "title": "Saint Agathon, Ep. 'Consideranti mihi' ad imperatores, 27 mars 680",
+  "found": false,
+  "searched": 2
+ },
+ "synod-romanum-ep-dogmat-synodalis-omnium-bonorum-spes-ad-imperatores:Omnium bonorum spes": {
+  "title": "Conc. romanum Ep. dogmat. synodalis 'Omnium bonorum spes' ad imperatores, 27 mars 680",
+  "found": false,
+  "searched": 0
+ },
+ "leo-ii:Regi regum": {
+  "title": "Saint Léon II, Ep. 'Regi regum' à l'empereur Constantin IV, août 682",
+  "found": false,
+  "searched": 2
+ },
+ "gregory-ii:Desiderabilem mihi": {
+  "title": "Saint Grégoire II, Ep. 'Desiderabilem mihi' ad S. Bonifatium, 22 Nov. 726",
+  "found": false,
+  "searched": 2
+ },
+ "gregory-iii:Magna nos habuit": {
+  "title": "Saint Grégoire III, Ep. 'Magna nos habuit' à saint Boniface, évêque, vers 732",
+  "found": false,
+  "searched": 4
+ },
+ "zachary:Virgilius et Sedonius": {
+  "title": "Saint Zacharias, Ep. 'Virgilius et Sedonius' ad S. Bonifatium, 1 juillet 746 (745?)",
+  "found": false,
+  "searched": 4
+ },
+ "zachary:Sacris liminibus": {
+  "title": "Saint Zacharias, Ep. 'Sacris liminibus' à saint Boniface, 1 mai 748",
+  "found": false,
+  "searched": 4
+ },
+ "stephen-ii:Responsa Carisiaca": {
+  "title": "Etienne II (III), 'Responsa Carisiaca' (Quiercy), a. 754",
+  "found": false,
+  "searched": 2
+ },
+ "adrian-i:Instituio universalis": {
+  "title": "Hadrien I, Ep. 'Instituio universalis' ad episcopos Hispaniae, 785",
+  "found": false,
+  "searched": 5
+ },
+ "adrian-i:Pastoralibus curis": {
+  "title": "Hadrien I, Ep. 'Pastoralibus curis' ad patriarch. Tarasium, 785",
+  "found": false,
+  "searched": 5
+ },
+ "nicholas-i:Proposueramus quidem": {
+  "title": "Saint Nicolas I, Ep. 'Proposueramus quidem' à l'empereur Michel, 28 septembre 865",
+  "found": false,
+  "searched": 4
+ },
+ "nicholas-i:Ad consulta vestra": {
+  "title": "Saint Nicolas I, Resp. 'Ad consulta vestra' aux Bulgares, 13 novembre 866",
+  "found": false,
+  "searched": 4
+ },
+ "john-viii:Unum est": {
+  "title": "Jean VIII, Ep. 'Unum est' aux princes de Sardaigne, vers septembre 873",
+  "found": false,
+  "searched": 3
+ },
+ "stephen-v:Consuluisti de infantibus": {
+  "title": "Saint Etienne V (VI), Ep. 'Consuluisti de infantibus' ad Ludbertum archiep. Maguntinum (Mainz), inter 887-888",
+  "found": false,
+  "searched": 2
+ },
+ "john-xv:Cum conventus esset": {
+  "title": "Jean XV, Ep. Enc. 'Cum conventus esset' ad episcopos et abbates Galliae et Germaniae, 3 février 993",
+  "found": false,
+  "searched": 3
+ },
+ "leo-ix:In terra pax hominibus": {
+  "title": "Saint Léon IX, Ep. 'In terra pax hominibus' ad Michaelem Cerularium et Leonem Acridanum, 2 septembre 1053",
+  "found": false,
+  "searched": 10
+ },
+ "leo-ix:Ad splendidum nitentis": {
+  "title": "Saint Léon IX, Ep. 'Ad splendidum nitentis' ad S. Petrum Damiani, a. 1054",
+  "found": false,
+  "searched": 10
+ },
+ "alexander-ii:Super causas": {
+  "title": "Alexandre II, Ep. 'Super causas' ad Rainaldum episc. Cumanum, a. 1063",
+  "found": false,
+  "searched": 8
+ },
+ "urban-ii:Debent subditi": {
+  "title": "Bienheureux Urbain II, Ep. 'Debent subditi' ad Petrum episc. Pistor. et Rusticum abb. Vallumbros., a. 1088",
+  "found": false,
+  "searched": 6
+ },
+ "urban-ii:Gaudemus filii": {
+  "title": "Bienheureux Urbain II, Ep.'Gaudemus filii' ad Lanzonem, Rodulfum etc., 1 février 1091",
+  "found": false,
+  "searched": 6
+ },
+ "innocent-ii:Testante Apostolo": {
+  "title": "Innocent II, Ep. 'Testante Apostolo' ad Henricum episc. Senon., 16 juillet 1140",
+  "found": false,
+  "searched": 12
+ },
+ "alexander-iii:Ex litteris tuis": {
+  "title": "Alexandre III, Ep. 'Ex litteris tuis' ad soldanum Iconii residentem, 1169",
+  "found": false,
+  "searched": 10
+ },
+ "alexander-iii:Cum in nostra": {
+  "title": "Alexandre III, Ep. 'Cum in nostra' ad Guilelmum archiep. Senon., 28. Maii 1170",
+  "found": false,
+  "searched": 10
+ },
+ "innocent-iii:Cum apud sedem": {
+  "title": "Innocent III, Ep. 'Cum apud sedem' ad Ymbertum archiep. Arelat., 15 juillet 1198",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Quanto te magis": {
+  "title": "Innocent III, Ep. 'Quanto te magis' ad Ugonem episc. Ferrariensem, 1 mai 1199",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Cum ex iniuncto": {
+  "title": "Innocent III, Ep. 'Cum ex iniuncto' ad Metenses (Metz), 12 juillet 1199",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Licet perfidia Iudaeorum": {
+  "title": "Innocent III, Const. 'Licet perfidia Iudaeorum', 15 septembre 1199",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Apostolicae Sedis primatus": {
+  "title": "Innocent III, Ep. 'Apostolicae Sedis primatus' ad (Iohannem) patriarcham C'polit., 12 novembre 1199",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Ex parte tua": {
+  "title": "Innocent III, Ep. 'Ex parte tua' ad episc. Mutinensem, a. 1200",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Gaudemus in Domino": {
+  "title": "Innocent III, Ep. 'Gaudemus in Domino' ad episc. Tiberiadensem, initio 1201",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Maiores Ecclesiae causas": {
+  "title": "Innocent III, Ep. 'Maiores Ecclesiae causas' ad Ymbertum archiep. Arelat., exeunte a. 1201",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Cum Marthae circa": {
+  "title": "Innocent III, Ep. 'Cum Marthae circa' ad Iohannem quondam archiep. Lugdun., 29. Nov. 1202",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Cum venisset": {
+  "title": "Innocent III, Ep. 'Cum venisset' ad Basilium archiep. Trinovitanum (Trnovo Bulgar.) 25. Febr. 1204",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Debitum officii pontificalis": {
+  "title": "Innocent III, Ep. 'Debitum officii pontificalis' ad Bertoldum (sive Bertrandum) episc. Metensem, 28. Aug. 1206",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Non ut apponeres": {
+  "title": "Innocent III, Ep. 'Non ut apponeres' ad Thoriam archiep. Nidrosiensem (Trondheim in Norvegia), 1. Mart. 1206",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:De homine qui": {
+  "title": "Innocent III, Ep. 'De homine qui' ad rectores fraternitatis Romanae, 22. Sept. 1208",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:In quadam Nostra": {
+  "title": "Innocent III, 'In quadam Nostra' ad Ugonem Episc. Ferrar. 5 mars 1209",
+  "found": false,
+  "searched": 15
+ },
+ "innocent-iii:Licet apud": {
+  "title": "Innocent III, Ep. 'Licet apud' ad Henricum episc. Argentorat., 9 janvier 1212",
+  "found": false,
+  "searched": 15
+ },
+ "honorius-iii:Perniciosus valde": {
+  "title": "Honorius III, Ep. 'Perniciosus valde' ad Olaum archiep. Upsal, H13 décembre 1220",
+  "found": false,
+  "searched": 2
+ },
+ "gregory-ix:Si condiciones": {
+  "title": "Grégoire IX, Decr. fragm. 'Si condiciones', inter a. 1227-1234",
+  "found": false,
+  "searched": 16
+ },
+ "gregory-ix:Naviganti vel": {
+  "title": "Grégoire IX, Ep. 'Naviganti vel' ad fratrem R., inter a. 1227-1234",
+  "found": false,
+  "searched": 16
+ },
+ "gregory-ix:Ab Aegyptiis argentea": {
+  "title": "Grégoire IX, Ep. 'Ab Aegyptiis argentea' ad theologos Paris., 7 juillet 1228",
+  "found": false,
+  "searched": 16
+ },
+ "gregory-ix:Presbyter et diaconus": {
+  "title": "Grégoire IX, Ep. 'Presbyter et diaconus' ad Olaum episc. GLund., 9 décembre 1232",
+  "found": false,
+  "searched": 16
+ },
+ "gregory-ix:Cum sicut ex": {
+  "title": "Grégoire IX, Ep. 'Cum sicut ex' ad Sigurdum archiep. Nidrosiensem (Trondheim in Norvegia), 8 juillet 1241",
+  "found": false,
+  "searched": 16
+ },
+ "alexander-iv:Romanus Pontifex de summi": {
+  "title": "Alexandre IV, Const. 'Romanus Pontifex de summi', 5 octobre 1256",
+  "found": false,
+  "searched": 8
+ },
+ "clement-iv:Quanto sincerius": {
+  "title": "Clément IV, Ep. 'Quanto sincerius' ad Maurinum archiep. Narbon., 28 octobre 1267",
+  "found": false,
+  "searched": 1
+ },
+ "boniface-viii:Saepe sanctam Ecclesiam": {
+  "title": "Boniface VIII, Bulla 'Saepe sanctam Ecclesiam', 1 août 1296",
+  "found": false,
+  "searched": 1
+ },
+ "benedict-xi:Inter cunctas sollicitudines": {
+  "title": "Benoît XI, Const. 'Inter cunctas sollicitudines', 17 février 1304",
+  "found": false,
+  "searched": 1
+ },
+ "john-xxii:Vas electionis": {
+  "title": "Jean XXII, Const. 'Vas electionis', 24 juillet 1321",
+  "found": false,
+  "searched": 4
+ },
+ "john-xxii:Nequaquam sine dolore": {
+  "title": "Jean XXII, Ep. 'Nequaquam sine dolore' ad Armenios, 21 novembre 1321",
+  "found": false,
+  "searched": 4
+ },
+ "john-xxii:Ne super his": {
+  "title": "Jean XXII, Bulla 'Ne super his', 3 décembre 1334",
+  "found": false,
+  "searched": 4
+ },
+ "clement-vi:Unigenitus Dei Filius": {
+  "title": "Clément VI, Bulla iubilaei 'Unigenitus Dei Filius', 27 janvier 1343",
+  "found": false,
+  "searched": 1
+ },
+ "urban-v:Ex supernae clementiae": {
+  "title": "Bienheureux Urbain V, Schedula revocationis Dionysio Foullechat iniunctae, vi Const. 'Ex supernae clementiae', 23 dec. 1368 a) Cedula (primae) revocationis (31 janvier 1365)",
+  "found": false,
+  "searched": 2
+ },
+ "gregory-xi:Super periculosis": {
+  "title": "Grégoire XI, Conclusiones Iohannis Wyclif, damnatae in Ep. 'Super periculosis' ad episcopos Cantuar. et London., 22 mai 1377",
+  "found": false,
+  "searched": 1
+ },
+ "boniface-ix:Sacrae religionis": {
+  "title": "Boniface IX, Bullae papales spectantes privilegium monasterii S.Osithae in Essexia conferendi ordines maiores; a) Bulla 'Sacrae religionis' ad abbatem et Conventum monasterii 1 février 1400",
+  "found": false,
+  "searched": 1
+ },
+ "martin-v:Gerentes ad vos": {
+  "title": "Martin V,Bulla 'Gerentes ad vos' ad abbatem monasterii Cisterciensis Altzelle in Saxonia, 16 novembre 1427",
+  "found": false,
+  "searched": 1
+ },
+ "synod-florentinum:Moyses vir Dei": {
+  "title": "Conc. (oecum XVII) Florentinum, Decr. 'Moyses vir Dei' contra Conc. Basileense, 4 septembre 1439",
+  "found": false,
+  "searched": 0
+ },
+ "callixtus-iii:Regimini universalis": {
+  "title": "Calliste III, Const. 'Regimini universalis' ad episcopum Magdeburg., Naumburg. et Halberstad., 6 mai 1455",
+  "found": false,
+  "searched": 1
+ },
+ "pius-ii:Cum sicut accepimus": {
+  "title": "Pie II, Propositiones damnatae in Ep. 'Cum sicut accepimus', 14 novembre 1459; Errores Zanini de Solcia",
+  "found": false,
+  "searched": 10
+ },
+ "pius-ii:Exsecrabilis": {
+  "title": "Pie II, Bulla 'Exsecrabilis', 18 janvier 1460 (style Floren. 1459)",
+  "found": false,
+  "searched": 10
+ },
+ "pius-ii:Ineffabilis summi providentia Patris": {
+  "title": "Pie II, Bulla 'Ineffabilis summi providentia Patris', 1 août 1464",
+  "found": false,
+  "searched": 10
+ },
+ "sixtus-iv:Ad Christi vicarii": {
+  "title": "Sixte IV, Propositiones Petri de Rivo, damnatae in Bulla 'Ad Christi vicarii', 3 janvier 1474: Schedula revocationis",
+  "found": false,
+  "searched": 4
+ },
+ "sixtus-iv:Salvator noster": {
+  "title": "Sixte IV, Bulla 'Salvator noster' in favorem ecclesiae S. Petri Xanctonensis, 3 août 1476",
+  "found": false,
+  "searched": 4
+ },
+ "sixtus-iv:Romani Pontificis provida": {
+  "title": "Sixte IV, Ep. encycl. 'Romani Pontificis provida', 27 nov. 1477",
+  "found": false,
+  "searched": 4
+ },
+ "sixtus-iv:Cum praeexcelsa": {
+  "title": "Sixte IV, Const. 'Cum praeexcelsa', 27 février 1477",
+  "found": false,
+  "searched": 4
+ },
+ "early-church:Licet ea quae de nostro mandato": {
+  "title": "Osma, damnatae in Bulla 'Licet ea quae de nostro mandato', 9 août 1479",
+  "found": false,
+  "searched": 0
+ },
+ "sixtus-iv:Grave nimis": {
+  "title": "Sixte IV, Const. 'Grave nimis', 4 septembre 1483",
+  "found": false,
+  "searched": 4
+ },
+ "innocent-viii:Exposcit tuae devotionis": {
+  "title": "Innocent VIII, Bulla 'Exposcit tuae devotionis' ad Iohannem abb. monasterii Cistertii (Citeaux), Cabillon. dioec., 9 avr 1489",
+  "found": false,
+  "searched": 1
+ },
+ "paul-iii:Pastorale officium": {
+  "title": "Paul III, Breve 'Pastorale officium' ad archiep. Tolet., 29 mai 1537",
+  "found": false,
+  "searched": 2
+ },
+ "paul-iii:Altitudo divini consilii": {
+  "title": "Paul III, Const. 'Altitudo divini consilii', 1 juin 1537",
+  "found": false,
+  "searched": 2
+ },
+ "pius-iv:Cum quorumdam hominum": {
+  "title": "Pie IV, Const. 'Cum quorumdam hominum', 7 août 1555",
+  "found": false,
+  "searched": 1
+ },
+ "paul-iii:Benedictus Deus": {
+  "title": "Bulla confirmationis Conc. Tridentini 'Benedictus Deus', 26 janvier 1564 ('1563' stilo curiali)",
+  "found": false,
+  "searched": 2
+ },
+ "early-church:Regulae Tridentinae": {
+  "title": "'Regulae Tridentinae' de libris prohibitis, confirmatae in Const. 'Dominici gregis custodiae', 24 mars 1564",
+  "found": false,
+  "searched": 0
+ },
+ "pius-v:In eam pro nostro": {
+  "title": "Saint Pie V, Const. 'In eam pro nostro', 28 janvier 1571",
+  "found": false,
+  "searched": 7
+ },
+ "pius-v:Romani Pontificis": {
+  "title": "Saint Pie V, Const. 'Romani Pontificis', 2 août 1571",
+  "found": false,
+  "searched": 7
+ },
+ "gregory-xiii:Populis ac nationibus": {
+  "title": "Grégoire XIII, Const. 'Populis ac nationibus', 25 janvier 1585",
+  "found": false,
+  "searched": 3
+ },
+ "clement-viii:Presbyteri Graeci": {
+  "title": "Clément VIII, Instr. 'Presbyteri Graeci', 30 août 1595",
+  "found": false,
+  "searched": 3
+ },
+ "innocent-x:Cum occasione": {
+  "title": "Innocent X, Const. 'Cum occasione' ad univ. fideles, 31 mai 1653; Errores Cornelii Jansenii de gratia",
+  "found": false,
+  "searched": 3
+ },
+ "alexander-vii:Ad sanctam beati Petri sedem": {
+  "title": "Alexandre VII, Const. 'Ad sanctam beati Petri sedem', 16 octobre 1656",
+  "found": false,
+  "searched": 1
+ },
+ "alexander-vii:Regiminis apostolici": {
+  "title": "Alexandre VII, Const. 'Regiminis apostolici', 15 février 1665",
+  "found": false,
+  "searched": 1
+ },
+ "alexander-viii:Inter multiplices": {
+  "title": "Alexandre VIII, Articuli cleri Gallicani (19 mars 1682) irriti declarati in Const. 'Inter multiplices', 4 août 1690",
+  "found": false,
+  "searched": 0
+ },
+ "holy-office:Caelestis Pastor": {
+  "title": "Innocent XI, Propositiones damnatae in Decr. S. Officii, 28 août, et in Const. 'Caelestis Pastor', 20 novembre 1687",
+  "found": false,
+  "searched": 0
+ },
+ "innocent-xii:Cum alias ad apostolatus": {
+  "title": "Innocent XII, Bref 'Cum alias ad apostolatus', 12 mars 1699; Errores Francisci de Fénelon de amore erga Deum",
+  "found": false,
+  "searched": 0
+ },
+ "clement-xi:Vineam Domini Sabaoth": {
+  "title": "Clément XI, Const. 'Vineam Domini Sabaoth', 16 juillet 1705",
+  "found": false,
+  "searched": 0
+ },
+ "clement-xii:Apostolicae providentiae officio": {
+  "title": "Clément XII, Bulla 'Apostolicae providentiae officio', 2 octobre 1733; De libertate in modo explicandi efficaciam gratiae",
+  "found": false,
+  "searched": 2
+ },
+ "benedict-xiv:Matrimonia quae in locis": {
+  "title": "Benoît XIV, Declaratio 'Matrimonia quae in locis', 4 novembre 1741; De matrimoniis clandestinis",
+  "found": false,
+  "searched": 9
+ },
+ "benedict-xiv:Postremo mense": {
+  "title": "Benoît XIV, Instructio 'Postremo mense', 28 février 1747; De baptismo infantium invitis parentibus",
+  "found": false,
+  "searched": 9
+ },
+ "benedict-xiv:Dum praeterito": {
+  "title": "Benoît XIV, Ep. 'Dum praeterito' ad supremum inquisitorem Hispan. 31 juillet 1748; De libertate docendi in quaestionibus de auxiliis",
+  "found": false,
+  "searched": 9
+ },
+ "benedict-xiv:Singulari nobis": {
+  "title": "Benoît XIV, Breve 'Singulari nobis' ad Henricum card. ducem Eborac., 9 février 1749; De incorporatione in Ecclesiam vi baptismi",
+  "found": false,
+  "searched": 9
+ },
+ "benedict-xiv:Detestabilem": {
+  "title": "Benoît XIV, Const. 'Detestabilem', 10 novembre 1752; Errores de duello",
+  "found": false,
+  "searched": 9
+ },
+ "pius-vi:Deessemus nobis": {
+  "title": "Pie VI, Ep. 'Deessemus nobis' ad episc. Motulensem, 16 septembre 1788",
+  "found": false,
+  "searched": 1
+ },
+ "pius-vii:Adorabile Eucharistiae": {
+  "title": "Pie VII, Breve 'Adorabile Eucharistiae' ad patriarch. Antioch. et episcopos Graeco-Melchitarum, 8 mai 1822",
+  "found": false,
+  "searched": 0
+ },
+ "pius-ix:Acerbissimum vobiscum": {
+  "title": "Pie IX, Alloc. 'Acerbissimum vobiscum', 27 septembre 1852",
+  "found": false,
+  "searched": 6
+ },
+ "pius-ix:Luctuosis exagitati": {
+  "title": "Pie IX, Alloc. 'Luctuosis exagitati', 12 mars 1877",
+  "found": false,
+  "searched": 6
+ },
+ "holy-office:Ad gravissima avertenda": {
+  "title": "Instr. S. Off. 'Ad gravissima avertenda', (sous Léon XIII), 10 mai 1884",
+  "found": false,
+  "searched": 0
+ },
+ "holy-office:Post obitum": {
+  "title": "Decr. S. Officii 'Post obitum' (sous Léon XIII), 14 décembre 1887; Errores Antonii de Rosmini-Serbati",
+  "found": false,
+  "searched": 0
+ },
+ "pius-x:Sacra Tridentina Synodus": {
+  "title": "Decr. 'Sacra Tridentina Synodus', sous saint Pie X, 16 (20) décembre 1905",
+  "found": false,
+  "searched": 13
+ },
+ "pius-x:Provida sapientique cura": {
+  "title": "Decr. 'Provida sapientique cura', sous saint Pie X, 18 janvier 1906",
+  "found": false,
+  "searched": 13
+ },
+ "holy-office:Lamentabili": {
+  "title": "Decr. S. Officii 'Lamentabili', sous saint Pie X, 3 juillet 1907",
+  "found": false,
+  "searched": 0
+ },
+ "curia-congregation-of-the-council:Ne temere": {
+  "title": "Decr. S. Cgr. Concilii 'Ne temere', sous saint Pie X, 2 août 1907",
+  "found": false,
+  "searched": 0
+ },
+ "cdf-pcb:Communium rerum": {
+  "title": "Saint Pie X, Encycl. 'Communium rerum', 21 avril 1909 Resp. Commiss. de re Biblica, sous saint Pie X, 30 juin 1909",
+  "found": false,
+  "searched": 0
+ },
+ "curia-congregation-of-the-sacraments:Quam singulari": {
+  "title": "Decr. S. Cgr. de Sacram. 'Quam singulari', sous saint Pie X, 8 août 1910",
+  "found": false,
+  "searched": 0
+ },
+ "pius-x:Sacrorum antistitum": {
+  "title": "Saint Pie X, Litt. motu proprio 'Sacrorum antistitum', 1 Septembre 1910 ; Jusiurandum contra errores modernismi",
+  "found": false,
+  "searched": 13
+ },
+ "alexander-iii:Ex publico instrumento": {
+  "title": "Alexandre III, Ep. 'Ex publico instrumento' ad episc. Brixiensem, tp. incerto",
+  "found": false,
+  "searched": 10
+ },
+ "alexander-iii:In civitate tua": {
+  "title": "Alexandre III, Ep. 'In civitate tua' ad archiep. Ianuensem, tp. incerto",
+  "found": false,
+  "searched": 10
+ },
+ "alexander-iii:Verum post": {
+  "title": "Alexandre III, Ep. (fragm.) 'Verum post' ad archiep. Salernit., tp. incerto",
+  "found": false,
+  "searched": 10
+ },
+ "benedict-xi:Ex gravi ad nos": {
+  "title": "Constitutio 'Ex gravi ad nos'",
+  "found": false,
+  "searched": 1
+ },
+ "benedict-xi:Exivi de paradiso": {
+  "title": "Constitutio 'Exivi de paradiso'",
+  "found": false,
+  "searched": 1
+ },
+ "early-church:Decretum Gelasianum": {
+  "title": "'Decretum Gelasianum' seu Ep. decretalis de libris recipiendis et non recipiendis, tp. incerto",
+  "found": false,
+  "searched": 0
+ },
+ "early-church:Statuta Ecclesiae Antiqua": {
+  "title": "'Statuta Ecclesiae Antiqua', (milieu ou fin du Veme siecle, Gaule Narbonnaise)",
+  "found": false,
+  "searched": 0
+ },
+ "gelasius-i:Necessarium quoque": {
+  "title": "Saint Gélase I, Tomus 'Necessarium quoque' adv. Eutychen et Nestorium, tp. incerto",
+  "found": false,
+  "searched": 5
+ },
+ "innocent-ii:Apostolicam Sedem": {
+  "title": "Innocent II, Ep. 'Apostolicam Sedem' ad episc. Cremonensem, tp. incerto",
+  "found": false,
+  "searched": 12
+ },
+ "lucius-iii:Dilectae in Christo": {
+  "title": "Lucius III, Ep. 'Dilectae in Christo' ad Simonem episc. Meldensem (Meaux), tp. incerto",
+  "found": false,
+  "searched": 6
+ },
+ "urban-iii:Consuluit nos": {
+  "title": "Urbain III, Ep. 'Consuluit nos' ad presbyterum Brixiensem, tp. incerto",
+  "found": false,
+  "searched": 4
+ }
+}

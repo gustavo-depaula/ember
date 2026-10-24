@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-ubi-urbaniano",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Ubi urbaniano"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1864-07-30",
+    "pt-BR": "Encíclica · Papa Pio IX · 1864-07-30"
+  },
+  "composed": "1864",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-ubi-urbaniano-30-luglio-1864.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Ubi urbaniano"
+      }
+    }
+  ]
+}

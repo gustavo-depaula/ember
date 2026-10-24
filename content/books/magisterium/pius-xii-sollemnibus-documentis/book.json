@@ -1,0 +1,48 @@
+{
+  "id": "pius-xii-sollemnibus-documentis",
+  "cover": "quarter",
+  "name": {
+    "la": "Sollemnibus documemtis, die VIII m. Novembris, a. MDCCCCXXXXIX - Pius PP. XII, Apostolica Adhortatio",
+    "it": "Sollemnibus Documentis"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Pius XII · 1949-11-08",
+    "pt-BR": "Exortação Apostólica · Papa Pio XII · 1949-11-08"
+  },
+  "composed": "1949",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/apost_exhortations/documents/hf_p-xii_exh_19491108_sollemnibus-documentis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_exhortations/documents/hf_p-xii_exh_19491108_sollemnibus-documentis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sollemnibus documemtis, die VIII m. Novembris, a. MDCCCCXXXXIX - Pius PP. XII, Apostolica Adhortatio",
+        "it": "Sollemnibus Documentis"
+      }
+    }
+  ]
+}

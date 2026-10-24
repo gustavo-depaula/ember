@@ -1,0 +1,24 @@
+# Litterae Apostolicae Arcano Divinae
+
+PIUS PP. IX
+
+**ARCANO DIVINAE\***
+
+SANCTISSIMI DOMINI NOSTRI  
+PII  
+DIVINA PROVIDENTIA  
+**PAPAE IX** LITTERAE APOSTOLICAE
+
+*Ad omnes Episcopos Ecclesiarum Ritus Orientalis communionem  cum Apostolica Sede non habentes*
+
+Arcano Divinae Providentiae consilio, licet sine ullis meritis Nostris, in hac sublimi Cathedra haeredes Beatissimi Apostolorum Principis constituti, qui iuxta praerogativam sibi a Deo concessam firma et solidissima petra est, super quam Salvator Ecclesiam aedificavit (S. Greg. Nyssen. Laudatio altera S. Steph. Protoraart. ap. Galland. VI. 600), impositi Nobis oneris sollicitudine urgente, ad eos omnes in qualibet terrarum Orbis regione degentes, qui christiano nomine censentur, curas Nostras extendere, omnesque äd paternae caritatis amplexus excitare vehementissime cupimus et conamur. Nec vero absque gravi animae Nostrae periculo partem ullam christiani populi negligere possumus, qui pretiosissimo Salvatoris Nostri sanguine redemptus et sacris baptismi aquis in Dominicum gregem adlectus, omnem sibi vigilantiam Nostram iure deposcit. Itaque cum in omnium procurandam salutem, qui Christum Iesum agnoscunt et adorant, studia omnia cogitationesque Nostras indesinenter conferre debeamus, oculos Nostros ac paternum animum ad istas convertimus Ecclesias, quae olim unitatis vinculo cum hac Apostolica Sede conglutinatae tanta sanctitatis caelestisque doctrinae laude florebant, uberesque divinae gloriae et animarum salutis fructus edebant, nunc vero per nefarias illius artes ac machinationes, qui primum schisma excitavit in caelo, a communione Sanctae Romanae Ecclesiae, quae toto Orbe diffusa est, seiunctae ac divisae cum summo Nostro moerore existunt.
+
+Hac sane de causa iam ab ipso supremi Nostri Pontificatus exordio Vobis pacis caritatisque verba toto cordis affectu loquuti sumus (Epist, ad Orientales, In Suprema die 6 Ianuarii 1848). Etsi vero haec Nostra verba optatissimum minime obtinuerint exitum, tamen nunquam Nos deseruit spes fore, ut humiles aeque ac ferventes Nostras preces propitius exaudire dignetur clementissimus ac benignissimus salutis pacisque Auctor, *qui operatus est in medio terrae salutem, quique oriens ex alto pacem sibi acceptam et ab omnibus acceptandam evidenter ostendens, eam in ortu suo Angelorum ministerio bonae voluntatis hominibus nunciavit, et inter homines conversatus verbo docuit, praedicavit exemplo* (Epist. B. Greg. X ad Michaelem Palaeologum Graec. Imper. die 24 Octobr, in Bulla Eugenii IV Laetentur coeli. an. 1272).
+
+Iam vero cum nuper de Venerabilium Fratrum Nostrorum S. R. E. Cardinalium consilio Oecumenicam Synodum futuro anno Romae celebrandam, ac die octavo mensis Decembris Immaculatae Deiparae Virginis Mariae Conceptioni sacro incipiendam indixerimus et convocaverimus, vocem Nostram ad Vos rursus dirigimus, et maiore, qua possumus, animi Nostri contentione Vos obsecramus, monemus et obtestamur, ut ad eamdem generalem Synodum convenire velitis, quemadmodum Maiores Vestri convenerunt ad Concilium Lugdunense II a recol. mem. B. Gregorio X Praedecessore Nostro habitum, et ad Florentinum Concilium a fel. record. Eugenio IV item Decessore Nostro celebratum, ut dilectionis antiquae legibus renovatis, et Patrum pace, caelesti illo ac salutari Christi dono quod tempore exaruit , ad vigorem item revocata (Epist. LXX al. CCXX S. Basilii Magni ad S. Damasum Papam), post longam moeroris nebulam et dissidii diuturni atram ingratamque caliginem serenum omnibus unionis optatae iubar illucescat (Deiin. S. Oecum. Synodi Florent. in Bulla Eugenii IV *Laetentur coeli.*).
+
+Atque hic sit iucundissima benedictionis fructus quo Christus Iesus nostrum omnium Dominus et Redemptor immaculatam ac dilectissimam Sponsam suam catholicam Ecclesiam consoletur, eiusque temperet et abstergat lacrymas in ac asperitate temporum, ut, omni divisione penitus sublata, voces antea discrepantes perfecta spiritus unanimitate collaudent Deum, qui non vult schismata esse in nobis, sed ut idem omnes dicamus et sentiamus Apostoli voce praecepit; immortalesque misericordiarum Patri semper agantur gratiae ab omnibus Sanctis suis, ac praesertim a gloriosissimis illis Ecclesiarum Orientalium antiquis Patribus et Doctoribus, cum de caelo prospiciant instauratam ac redintegratam cum hac Apostolica Sede catholicae veritatis et unitatis centro coniunctionem, quam ipsi in terris viventes omnibus studiis atque indefessis laboribus fovere et magis in dies promovere tum doctrina, tum exemplo curarunt, diffusa in eorum cordibus per Spiritum Sanctum caritate Illius, qui medium maceriae parietem solvit, ac per Sanguinem suum omnia conciliavi t et pacavit, qui signum discipulorum suorum in unitate esse voluit, et cuius Oratio ad Patrem porrecta est: Rogo ut omnes unum sint, sicut et Nos unum sumus.
+
+*Datum Romae apud S. Petrum die 8 Septembris anno 1868. Pontificatus Nostri Anno Decimotertio.*
+
+\**A.S.S.*, vol. IV (1868), pp. 129-131.

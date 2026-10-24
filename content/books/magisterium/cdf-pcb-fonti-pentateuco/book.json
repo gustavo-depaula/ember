@@ -1,0 +1,48 @@
+{
+  "id": "cdf-pcb-fonti-pentateuco",
+  "cover": "quarter",
+  "name": {
+    "fr": "Des sources du Pentateuque et de l'historicité de Genèse 1-11 - Pontificia Commissione Biblica",
+    "it": "Le fonti del Pentateuco e il genere letterario dei primi undici capitoli della Genesi - Pontificia Commissione Biblica"
+  },
+  "author": {
+    "en-US": "Pontifical Biblical Commission",
+    "pt-BR": "Pontifícia Comissão Bíblica",
+    "la": "Pontificia Commissio Biblica"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Pontifical Biblical Commission · 1948-01-16",
+    "pt-BR": "Documento da Cúria Romana · Pontifícia Comissão Bíblica · 1948-01-16"
+  },
+  "composed": "1948",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-pcb"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19480116_fonti-pentateuco_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19480116_fonti-pentateuco_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Des sources du Pentateuque et de l'historicité de Genèse 1-11 - Pontificia Commissione Biblica",
+        "it": "Le fonti del Pentateuco e il genere letterario dei primi undici capitoli della Genesi - Pontificia Commissione Biblica"
+      }
+    }
+  ]
+}

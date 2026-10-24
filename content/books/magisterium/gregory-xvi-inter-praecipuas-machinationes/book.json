@@ -1,0 +1,48 @@
+{
+  "id": "gregory-xvi-inter-praecipuas-machinationes",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Inter Praecipuas",
+    "it": "Enciclica Inter praecipuas machinationes"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Gregory XVI · 1844-05-08",
+    "pt-BR": "Encíclica · Papa Gregório XVI · 1844-05-08"
+  },
+  "composed": "1844",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/greg16/g16inter.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/encyclica-inter-praecipuas-machinationes-8-maii-1844.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Inter Praecipuas",
+        "it": "Enciclica Inter praecipuas machinationes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "boniface-viii-unam-sanctam",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Unam Sanctam",
+    "pt-BR": "Unam Sanctam",
+    "it": "Unam Sanctam"
+  },
+  "author": {
+    "en-US": "Pope Boniface VIII",
+    "pt-BR": "Papa Bonifácio VIII",
+    "la": "Bonifatius PP. VIII"
+  },
+  "description": {
+    "en-US": "Bull · Pope Boniface VIII · 1302-11-18",
+    "pt-BR": "Bula · Papa Bonifácio VIII · 1302-11-18"
+  },
+  "composed": "1302",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "boniface-viii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/bon08/b8unam.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/unam-sanctam-bonifacio-viii-18-11-1302/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1302-11-18,_SS_Bonifacius_VIII,_Unam_Sanctam,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Unam Sanctam",
+        "pt-BR": "Unam Sanctam",
+        "it": "Unam Sanctam"
+      }
+    }
+  ]
+}

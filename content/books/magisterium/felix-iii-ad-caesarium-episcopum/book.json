@@ -1,0 +1,40 @@
+{
+  "id": "felix-iii-ad-caesarium-episcopum",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula ad Caesarium Episcopum"
+  },
+  "author": {
+    "en-US": "Pope Felix III",
+    "pt-BR": "Papa Félix III",
+    "la": "Felix PP. III"
+  },
+  "description": {
+    "en-US": "Letter · Pope Felix III · 0483",
+    "pt-BR": "Carta · Papa Félix III · 0483"
+  },
+  "composed": "483",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "felix-iii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0483-0492,_SS_Felix_III,_Epistula_ad_Caesarium_Episcopum,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula ad Caesarium Episcopum"
+      }
+    }
+  ]
+}

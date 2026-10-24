@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-card-paskai",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula missa ad Ladislaum S.R.E. Cardinalem Paskai, ad Episcopos adque catholicos fideles Hungaros post nongentos quinquaginta transactos annos ab obitu S. Stephani, Hungarorum Regis, d. 16 m. Augusti a. 1988, Ioannes Paulus PP.II",
+    "it": "Lettera al Cardinale Ladislao Paskai, all'Episcopato e ai Fedeli Cattolici Ungheresi"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1988-08-16",
+    "pt-BR": "Carta · Papa João Paulo II · 1988-08-16"
+  },
+  "composed": "1988",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/letters/1988/documents/hf_jp-ii_let_19880816_card-paskai.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1988/documents/hf_jp-ii_let_19880816_card-paskai.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula missa ad Ladislaum S.R.E. Cardinalem Paskai, ad Episcopos adque catholicos fideles Hungaros post nongentos quinquaginta transactos annos ab obitu S. Stephani, Hungarorum Regis, d. 16 m. Augusti a. 1988, Ioannes Paulus PP.II",
+        "it": "Lettera al Cardinale Ladislao Paskai, all'Episcopato e ai Fedeli Cattolici Ungheresi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-le-insolite",
+  "cover": "quarter",
+  "name": {
+    "la": "Publici ac populares",
+    "it": "Le Insolite"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1895-10-08",
+    "pt-BR": "Carta · Papa Leão XIII · 1895-10-08"
+  },
+  "composed": "1895",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/letters/documents/hf_l-xiii_let_18951008_le-insolite.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18951008_le-insolite.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Publici ac populares",
+        "it": "Le Insolite"
+      }
+    }
+  ]
+}

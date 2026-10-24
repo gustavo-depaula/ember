@@ -1,0 +1,96 @@
+{
+  "id": "worship-lavanda-piedi",
+  "cover": "quarter",
+  "name": {
+    "la": "Decree (6 January 2016)",
+    "en-US": "Decree concerning the Rite of the \"Washing of Feet\" - Congregation for Divine Worship and the Discipline of the Sacraments",
+    "pt-BR": "Decreto sobre o Rito do “Lava pés” - Congregação para o Culto Divino e a Disciplina dos Sacramentos",
+    "de": "Dekret zum Ritus der \"Fusswaschung\" - Kongregation für den Gottesdienst und die Sakramentenordnung",
+    "es": "Decreto sobre el Rito del \"Lavatorio de los pies\" - Congregación para el Culto Divino y la Disciplina de los Sacramentos",
+    "fr": "Décret sur le Rite du \"Lavement des pieds\" - Congrégation pour le culte divin et la discipline des sacrements",
+    "it": "Decreto sul Rito della \"Lavanda dei Piedi\" - Congregazione per il Culto Divino e la Disciplina dei Sacramenti",
+    "pl": "Decreto sul Rito della \"Lavanda dei Piedi\" - Congregazione per il Culto Divino e la Disciplina dei Sacramenti"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2016-01-06",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2016-01-06"
+  },
+  "composed": "2016",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20160106_decreto-lavanda-piedi_la.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20160106_decreto-lavanda-piedi_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20160106_decreto-lavanda-piedi_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20160106_decreto-lavanda-piedi_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20160106_decreto-lavanda-piedi_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20160106_decreto-lavanda-piedi_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20160106_decreto-lavanda-piedi_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20160106_decreto-lavanda-piedi_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decree (6 January 2016)",
+        "en-US": "Decree concerning the Rite of the \"Washing of Feet\" - Congregation for Divine Worship and the Discipline of the Sacraments",
+        "pt-BR": "Decreto sobre o Rito do “Lava pés” - Congregação para o Culto Divino e a Disciplina dos Sacramentos",
+        "de": "Dekret zum Ritus der \"Fusswaschung\" - Kongregation für den Gottesdienst und die Sakramentenordnung",
+        "es": "Decreto sobre el Rito del \"Lavatorio de los pies\" - Congregación para el Culto Divino y la Disciplina de los Sacramentos",
+        "fr": "Décret sur le Rite du \"Lavement des pieds\" - Congrégation pour le culte divin et la discipline des sacrements",
+        "it": "Decreto sul Rito della \"Lavanda dei Piedi\" - Congregazione per il Culto Divino e la Disciplina dei Sacramenti",
+        "pl": "Decreto sul Rito della \"Lavanda dei Piedi\" - Congregazione per il Culto Divino e la Disciplina dei Sacramenti"
+      }
+    }
+  ]
+}

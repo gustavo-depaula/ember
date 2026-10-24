@@ -1,0 +1,449 @@
+# Fé e inculturação
+
+------------------------------------------------------------------------
+
+COMISSÃO TEOLÓGICA INTERNACIONAL
+
+**FÉ E INCULTURAÇÃO[^1]**
+
+\(1988\)
+
+**Introdução**
+
+**1**. **NATUREZA, CULTURA E GRAÇA**
+
+**2.** **A INCULTURAÇÃO NA HISTÓRIA DA SALVAÇÃO**
+
+**2. Jesus Cristo, Senhor e Salvador do mundo**
+
+1\. *A transcendência de Jesus Cristo em relação às culturas*
+
+2\. *A presença de Cristo na cultura e nas culturas*
+
+1\. A particularidade de Cristo, Senhor e Salvador universal
+
+**2. A catolicidade do Único**
+
+**3. A Igreja dos Apóstolos e o Espírito Santo**
+
+*1. De Jerusalém às Nações: os começos típicos da inculturação da fé*
+
+*2. A Tradição Apostólica: inculturação da fé e salvação da cultura*
+
+**3**. **PROBLEMAS ATUAIS** **DA** **INCULTURAÇÃO**
+
+**1. A Piedade popular**
+
+**2. Inculturação da fé e Religiões não cristãs**
+
+**3. As Igrejas jovens e o seu passado cristão**
+
+**4. A Fé cristã e a modernidade**
+
+**CONCLUSÃO**
+
+**ANEXO**
+
+**Introdução**
+
+1\. A Comissão Teológica Internacional teve várias vezes ocasião de refletir sobre as relações entre fé e cultura.[^2] Em 1984, falou diretamente de inculturação da fé, no estudo sobre o mistério da Igreja que elaborou para o Sínodo extraordinário de 1985.[^3] Por seu lado, a Comissão Bíblica Pontifícia teve a sua sessão plenária de 1979 sobre o tema *A inculturação da fé à luz da Escritura*.[^4]
+
+2\. Hoje, a Comissão Teológica Internacional pretende fazer esta reflexão de modo mais aprofundado e sistemático, devido à importância que este tema da inculturação da fé adquiriu em todo o mundo cristão e à insistência com que o Magistério da Igreja abordou o mesmo tema, após o concílio Vaticano II.
+
+3\. A base é fornecida pelos documentos conciliares e pelos textos dos Sínodos que os prolongaram. Assim, na Constituição [*Gaudium et spes*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_po.html), o concílio designou as lições e diretivas que a Igreja colheu das suas primeiras experiências de inculturação no mundo greco-romano.[^5] Um capítulo inteiro deste documento foi dedicado à promoção da cultura (*De culturae progressu rite promovendo*).[^6] Depois de ter descrito a cultura como um esforço para mais humanidade e para um melhor ordenamento do universo, o concílio considerou longamente as relações entre a cultura e a mensagem da salvação. Enunciou, ainda, alguns dos mais urgentes deveres dos cristãos em relação à cultura: defesa do direito de todos à cultura, promoção de uma cultura integral, harmonização das relações entre cultura e cristianismo. O Decreto sobre a atividade missionária da Igreja e a Declaração sobre as religiões não cristãs, retomam algumas destas orientações. Dois Sínodos ordinários trataram expressamente da evangelização das culturas: o de 1974, dedicado à evangelização;[^7] e o de 1976, sobre a formação catequética.[^8] O Sínodo de 1985, que celebrava o vigésimo aniversário do encerramento do concílio Vaticano II, falou da inculturação como “uma íntima transformação dos autênticos valores culturais mediante a sua integração no cristianismo e a encarnação do cristianismo nas várias culturas humanas”.[^9]
+
+4\. O Papa João Paulo II acolheu de maneira especial a evangelização das culturas: a seus olhos, o diálogo da Igreja e das culturas reveste-se de vital importância para o futuro da Igreja e do mundo. Para o ajudar nesta grande obra, o Santo Padre criou um organismo especializado: o Conselho Pontifício para a Cultura.[^10] É, aliás, com este dicastério que a Comissão Teológica Internacional se alegra de poder refletir hoje sobre a inculturação da fé.
+
+5\. Apoiando-se na convicção de que “a Encarnação do Verbo foi também uma encarnação cultural”, o Papa afirma que as culturas, analogicamente comparáveis à humanidade de Cristo naquilo que têm de bom, podem desempenhar uma função positiva de mediação para a expressão e irradiação da fé cristã.[^11]
+
+6\. Dois temas essenciais estão ligados a estas perspectivas. Em primeiro lugar, o da transcendência da Revelação em relação às culturas em que ela se exprime. Com efeito, a Palavra de Deus não poderia identificar-se ou ligar-se de maneira exclusiva aos elementos da cultura que a transmite. O Evangelho, onde se enraíza, impõe muitas vezes uma conversão das mentalidades e uma modificação dos costumes; o mesmo acontece com as culturas que devem ser purificadas e restauradas em Cristo.
+
+7\. O segundo grande tema do ensinamento de João Paulo II incide sobre a urgência da evangelização das culturas. Esta empresa supõe que se compreendam e penetrem com simpatia crítica as identidades culturais particulares e que, numa preocupação de universalidade em consonância com a realidade propriamente humana das culturas, se favoreça, entre elas, a troca de experiências. Assim, o Santo Padre fundamenta a evangelização das culturas numa concepção antropológica fortemente enraizada no pensamento cristão, na sequência dos Padres da Igreja. Se a *cultura*, quando é reta, revela e fortifica a *natureza* do homem, a impregnação cristã da cultura supõe a ultrapassagem de todo o historicismo e de todo o relativismo na concepção do humano. A evangelização das culturas deve, então, inspirar-se no amor do homem em si mesmo e por si mesmo, especialmente naqueles aspectos do seu ser e da sua cultura que são atacados ou ameaçados.[^12]
+
+8\. À luz deste ensinamento e da reflexão que o tema da inculturação da fé suscitou na Igreja, proporemos, em primeiro lugar, uma antropologia cristã que situe em mútua relação a natureza, a cultura e a graça. Veremos, em seguida, o processo de inculturação na obra da história da salvação: o Israel antigo, a vida e obra de Jesus, a Igreja das origens. Uma última seção abordará os problemas que presentemente se põem à fé pelo seu encontro com a piedade popular, as religiões não-cristãs, a tradição cultural nas jovens Igrejas e, enfim, os diversos aspectos da modernidade.
+
+**1**. **NATUREZA, CULTURA E GRAÇA**
+
+1\. Para descrever ou definir a cultura, os antropólogos recorrem de bom grado à distinção, que por vezes aparece como oposição, entre natureza e cultura. Com efeito, a significação desta palavra *natureza* varia segundo as diferentes concepções das ciências experimentais, da filosofia e da teologia. O Magistério entende esta palavra num sentido bem preciso: a natureza de um ser é aquilo que o constitui como tal, com o dinamismo das suas tendências a caminho das suas próprias finalidades. As naturezas receberam de Deus o seu ser e os seus fins próprios e, desde esse instante, estão impregnadas de uma significação, em que o homem, enquanto *imagem de Deus*, é capaz de ler a “intenção criadora de Deus”.[^13]
+
+2\. As inclinações fundamentais da natureza humana, expressas pela lei natural, surgem assim como uma expressão da vontade do Criador. Esta lei natural declara as exigências específicas da natureza *humana*, exigências que são significativas do desígnio de Deus sobre a sua criatura racional e livre. Deste modo, fica afastado qualquer mal-entendido que, interpretando a natureza em sentido unívoco, reduziria o homem à sua natureza material.
+
+3\. Simultaneamente, deve considerar-se a natureza humana segundo o seu desenvolvimento concreto no tempo da história. Dotado de uma liberdade falível e, tantas vezes, escrava das paixões, que fez o homem da sua humanidade? Esta herança transmitida às novas gerações comporta, a par de tesouros imensos de sabedoria, arte e generosidade, uma parte considerável de desvios e perversões. A atenção vai, então, centrar-se conjuntamente sobre a natureza humana e sobre a condição humana, expressão esta que integra dados existenciais, entre os quais alguns, como o pecado e a graça, se encontram ligados à história da salvação. Assim, se utilizamos a palavra cultura, em primeiro lugar, num sentido positivo, enquanto sinônimo de desenvolvimento, por exemplo, (como o fizeram o Vaticano II e os papas recentes), não esquecemos também que as culturas podem perpetuar e favorecer opções do orgulho e do egoísmo.
+
+4\. A cultura insere-se no prolongamento das exigências da natureza humana, como realização das suas finalidades; é o ensinamento da Constituição [*Gaudium et spes*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_po.html). “É próprio da pessoa humana não ter acesso verdadeiro e pleno à humanidade, senão pela cultura, isto é, cultivando os bens e valores da natureza... A palavra *cultura*, no sentido lato, designa tudo aquilo com que o homem apura e desenvolve os inúmeros dotes do corpo e do espírito”.[^14] Surgem-nos, assim, diversos campos da cultura: pelo conhecimento e pelo trabalho, o homem aplica-se a submeter o universo; humaniza a vida social pelo progresso dos costumes e das instituições; por fim, traduz, comunica e conserva pelas suas obras e no decurso dos tempos, as grandes experiências espirituais e as maiores aspirações do homem, a fim de que sirvam para o progresso de um grande número e mesmo de todo o gênero humano.
+
+5\. O sujeito primordial da cultura é a pessoa humana, considerada em todas as dimensões do seu ser. O homem cultiva-se, aqui reside a finalidade primeira da cultura, mas faz isso graças às *obras de cultura* e graças a uma memória cultural. A cultura designa ainda o *meio* no qual, e graças ao qual, as pessoas podem crescer.
+
+6\. A pessoa humana é um ser de comunhão; ela realiza-se dando e recebendo. É, portanto, em solidariedade com os outros e através dos laços sociais que a pessoa progride. Também estas realidades sociais que são a nação, o povo, a sociedade, com o seu patrimônio cultural, constituem para o desenvolvimento da pessoa “um determinado meio histórico, no qual todo o homem se insere e do qual tira os valores que lhe permitem promover a civilização.”[^15]
+
+7\. A cultura, que é sempre uma cultura concreta e particular, é uma abertura aos valores superiores, comuns a todos os homens. A originalidade de uma cultura não é caracterizada por uma inclinação sobre si mesma, mas pela contribuição para uma riqueza que é o bem de todos os homens. O pluralismo cultural não deverá, assim, interpretar-se como a justaposição de universos fechados, mas como a participação no conjunto de realidades orientadas para os valores universais da humanidade. Os fenômenos de penetração recíproca das culturas, frequentes na história, ilustram esta abertura fundamental das culturas particulares aos valores comuns de todos os homens e, consequentemente, a sua abertura mútua.
+
+8\. O homem é um ser naturalmente religioso. A orientação para o Absoluto está inscrita no mais profundo do seu ser. A religião, em sentido lato, é *parte integrante* da cultura, onde se radica e desenvolve. As grandes culturas possuem, como complemento do edifício que constituem, a dimensão religiosa, inspiradora das grandes realizações que marcaram a história milenária das civilizações.
+
+9\. Na origem das grandes religiões está o movimento ascendente do homem à procura de Deus. Este movimento deve ser objeto de um respeito sincero (uma vez purificado dos seus desvios), pois é nele que se virá a manifestar o dom da fé cristã. E o que distingue a fé cristã é o fato de ela ser livre adesão à proposta de amor gratuito de Deus que se revelou a nós, que nos deu o seu Filho único para nos libertar do pecado e que difundiu o seu Espírito nos nossos corações. É neste dom que Deus faz de si mesmo à humanidade, que reside, face a todas as aspirações, anseios, conquistas e aquisições da natureza, a radical originalidade cristã.
+
+10\. Porque transcende toda a ordem da natureza e da cultura, a fé cristã é, por um lado, compatível com todas as culturas na medida em que estas se conformam com a reta razão e a vontade honesta; e, por outro lado, é um privilegiado fator de dinamização de cultura. Há um princípio que clarifica o conjunto das relações da fé e da cultura: a graça respeita a natureza, ela cura-a das feridas do pecado, conforta-a e eleva-a. A elevação à vida divina é a finalidade específica da graça, mas ela não se poderá realizar sem que a natureza esteja sarada e sem que a elevação à ordem sobrenatural conduza a natureza, no seu próprio domínio, a uma plenitude de perfeição.
+
+11\. O processo de *inculturação* pode ser definido como o esforço da Igreja para fazer penetrar da mensagem de Cristo um determinado meio sociocultural, convidando-o a crescer segundo os seus próprios valores, desde que estes sejam conciliáveis com o Evangelho. O termo *inculturação* inclui a ideia de crescimento e de enriquecimento mútuo das pessoas e dos grupos, pelo fato do encontro do Evangelho com um meio social. “A *inculturação* é a encarnação do Evangelho nas culturas autóctones e, simultaneamente, a introdução destas culturas na vida da Igreja”.[^16]
+
+**2.** **A INCULTURAÇÃO NA HISTÓRIA DA SALVAÇÃO**
+
+Javé e o povo da Aliança
+
+Jesus Cristo, Senhor e Salvador do mundo
+
+O Espírito Santo e a Igreja dos Apóstolos
+
+1\. Consideremos as relações da natureza, da cultura e da graça na história concreta da aliança de Deus com a humanidade. Iniciada com um povo particular e culminando num filho deste povo que é também Filho de Deus, esta história prolonga-se, a partir dele, a todas as nações da terra e mostra “a admirável ‘condescendência’ da eterna Sabedoria”.[^17]
+
+**1. Israel, o povo da Aliança**
+
+2\. Israel compreendeu-se a si próprio como um povo formado de maneira imediata por Deus. Também o Antigo Testamento, a Bíblia do Israel antigo, é testemunha permanente da revelação do Deus vivo aos membros de um povo escolhido. Na sua forma escrita, esta revelação contém ainda a marca das experiências culturais e sociais do milênio em que este povo e as civilizações circundantes se encontraram na história. O Israel antigo, que nasceu num mundo onde se haviam já manifestado grandes culturas, cresceu em ligação com elas.
+
+3\. As mais antigas instituições de Israel (por exemplo, a circuncisão, o sacrifício da primavera, o repouso do *shabbat*) não lhe são específicas, adquiriu-as dos povos vizinhos. Uma grande parte da cultura de Israel tem origem semelhante. No entanto, o povo da Bíblia introduziu profundas mudanças nestas aquisições quando as incorporou na sua fé e na sua prática religiosa. Passou-as ao crivo da fé no Deus pessoal de Abraão (livre criador, e sábio ordenador do universo, no qual o pecado e a morte não poderiam encontrar a sua origem). É o encontro deste Deus, encontro vivido na Aliança, que permite compreender o homem e a mulher como seres pessoais, e assim rejeitar comportamentos inumanos inerentes a outras culturas.
+
+4\. Os autores bíblicos utilizaram e, simultaneamente, transformaram as culturas do seu tempo não só para divulgar, através da história de um povo, a ação salvífica que Deus fará culminar em Jesus Cristo, mas também para unir os povos de todas as culturas, chamados a formar um só corpo, de que Cristo é a cabeça.
+
+5\. No Antigo Testamento, culturas absorvidas e transformadas são postas ao serviço da revelação do Deus de Abraão, vivida na Aliança e consignada na Escritura. No plano cultural e religioso, foi uma preparação única para a vinda de Jesus Cristo. No Novo Testamento, o Deus de Abraão, de Isaac e de Jacó, mais profundamente revelado e manifestado na plenitude do Espírito, convida todas as culturas a deixarem-se transformar pela vida, pela palavra, pela morte e pela ressurreição de Jesus Cristo.
+
+6\. Se os pagãos estão “enxertados em Israel”,[^18] deve sublinhar-se que o plano original de Deus incide sobre toda a criação.[^19] Com efeito, é concluída uma aliança, por intermédio de Noé, com todos os povos da terra que aceitem viver na justiça.[^20] Esta aliança é anterior às realizadas com Abraão e Moisés. De notar, enfim, o fato de Israel, a partir de Abraão, ter sido convidado a partilhar com todas as famílias da terra, as bênçãos que ele próprio havia recebido.[^21]
+
+7\. Assinalemos, por outro lado, que, dos diversos aspectos da cultura de Israel, nem todos mantiveram as mesmas relações com a revelação divina. Muitos deles atestam mesmo uma resistência à Palavra de Deus, enquanto outros exprimem a sua aceitação. Destes últimos, é necessário ainda distinguir o provisório (prescrições rituais e judiciais) e o permanente, de incidência universal. Certos elementos na “Lei de Moi­sés, os profetas e os salmos”[^22] têm como significação o serem, precisamente, a pré-história de Jesus.
+
+**2. Jesus Cristo, Senhor e Salvador do mundo**
+
+1\. *A transcendência de Jesus Cristo em relação às culturas*
+
+8\. Uma convicção domina a pregação de Jesus: nele, Jesus, na sua palavra e na sua pessoa, Deus completa os dons que havia já feito a Israel e ao conjunto das nações, superando-os.[^23] Jesus é a luz soberana e a verdadeira sabedoria para todas as nações e todas as culturas.[^24] Na sua própria atividade, Jesus mostra que o Deus de Abraão, previamente reconhecido por Israel como criador e senhor,[^25] não só se dispõe a reinar sobre todos os que hão de crer no Evangelho, como efetivamente, e por Jesus, já reina.[^26]
+
+9\. O ensinamento de Jesus, principalmente nas parábolas, não se priva de corrigir ou mesmo de contestar várias ideias, que a história, a religião efetivamente praticada e a cultura inspiraram aos seus contemporâneos sobre a natureza de Deus e o seu agir.[^27]
+
+10\. A intimidade filial de Jesus com Deus e a obediência amorosa que o levou a oferecer ao Pai a sua vida e morte,[^28] comprovam que, nele, o desígnio original de Deus sobre a criação, viciada pelo pecado, foi restaurado.[^29] Estamos perante uma nova criação, a do novo Adão.[^30] As relações com Deus são, em muitos aspectos, profundamente modificadas.[^31] A novidade é tal, que a maldição que atinge o Messias crucificado se transforma em bênção para todos os povos[^32] e o regime da Lei é substituído pela fé em Jesus Salvador.[^33]
+
+11\. A morte e a ressurreição de Jesus, pelas quais o Espírito foi infundido no coração dos homens, mostraram as insuficiências da sabedoria e da moral puramente humanas, e mesmo da própria Lei, embora dada por Deus a Moisés, porque se limitavam a dar o conhecimento do bem sem oferecer a força para o praticar, e o conhecimento do pecado sem o poder para, a ele, se subtrair.[^34]
+
+2\. *A presença de Cristo na cultura e nas culturas*
+
+1\. A particularidade de Cristo, Senhor e Salvador universal
+
+12\. A encarnação do Filho de Deus, porque integral e concreta, foi uma encarnação cultural. “Cristo aceitou, pela sua encarnação, as condições sociais e culturais dos homens com quem conviveu”.[^35]
+
+13\. O Filho de Deus quis ser um judeu de Nazaré, na Galileia, falando aramaico, obedecendo a pais piedosos de Israel, acompanhando-os ao Templo de Jerusalém, onde o encontraram “sentado no meio dos doutores, escutando-os e interrogando-os”.[^36] Jesus cresceu entre os costumes e instituições da Palestina do primeiro século e iniciou-se nos ofícios próprios da sua época, observando o comportamento dos pescadores, dos camponeses e dos comerciantes. As cenas e as paisagens que alimentaram a imaginação do futuro rabi são as de um determinado país e de uma determinada época.
+
+14\. Alimentado pela piedade de Israel, formado pelo ensinamento da Lei e dos profetas, Jesus, a quem uma singular experiência de Deus como Pai confere profundidade insondável, situa-se numa tradição espiritual bem determinada, a do profetismo judaico. Como os profetas de antanho, ele é a boca de Deus que apela à conversão. Os modos de expressão são igualmente típicos, o vocabulário, os géneros literários, os processos de estilo, e recordam a linhagem de Elias e Eliseu no paralelismo bíblico, nos provérbios, paradoxos, admoestações, bem-aventuranças e até nas ações simbólicas.
+
+15\. Jesus está de tal modo ligado à vida de Israel que o povo e a tradição religiosa onde se situa, possuem, por este fato, algo de singular na história da salvação dos homens; o povo eleito e a tradição que nos deixou por herança têm um significado permanente para toda a humanidade.
+
+16\. É que a Encarnação nada tem de improvisado. O Verbo de Deus entra numa história que o prepara, o anuncia e o prefigura. Em primeiro lugar, pode dizer-se que Cristo se incorpora no povo que Deus formou para si, tendo precisamente em vista o dom que havia de fazer do seu Filho. Todas as palavras proferidas pelos profetas anunciam a Palavra subsistente que é o Filho de Deus.
+
+17\. Também a história da aliança concluída com Abraão e, por Moisés, com o povo de Israel, e os livros que contam e iluminam esta história, têm a função de uma indispensável e insubstituível pedagogia para os fiéis de Jesus. Aliás, a eleição deste povo do qual saiu Jesus nunca viria a ser revogada. “Os que são do mesmo sangue que eu, segundo a carne, que são israelitas”, diz S. Paulo, a esses “pertencem a filiação adotiva, a glória, as alianças, a legislação, o culto, as promessas; dos quais são os patriarcas e dos quais nasceu Cristo, segundo a carne, o qual está sobre todas as coisas, Deus bendito por todos os séculos! Amém”.[^37] A boa oliveira não perdeu os seus privilégios em favor da oliveira brava que foi enxertada sobre ela.[^38]
+
+**2. A catolicidade do Único**
+
+18\. Por muito particular que seja a condição do Verbo feito carne, e, consequentemente, a cultura que o acolhe, o forma e o prolonga, não foi a esta particularidade que o Filho de Deus se uniu em primeiro lugar. Foi porque se *fez homem* que Deus assumiu, de certa maneira, uma raça, um país, uma época. “Porque n'Ele a natureza humana foi assumida, não absorvida, por isso mesmo esta natureza foi elevada, também em nós, a uma dignidade sem par. Com efeito, pela Sua Encarnação, o Filho de Deus uniu-se de algum modo a todo o homem”.[^39]
+
+19\. Portanto a transcendência de Cristo não o isola acima da família humana, antes o torna presente a todo o homem, para além de todo e qualquer particularismo. “Não pode ser considerado estranho a ninguém nem em nenhuma parte”.[^40] “Não há judeu nem grego; não há servo nem livre; não há homem nem mulher, pois todos vós sois um em Cristo”.[^41] Cristo vem ao nosso encontro, tanto na unidade que formamos, como na multiplicidade e diversidade dos indivíduos em que se realiza a nossa natureza comum.
+
+20\. E, no entanto, Cristo não viria ao nosso encontro na verdade da nossa humanidade concreta, se não nos atingisse na diversidade e na complementaridade das nossas culturas. Porque são as culturas, língua, história, atitude perante a vida, instituições diversas, que, para o melhor ou para o pior, nos acolhem na vida, nos formam, nos acompanham e nos prolongam. Se a totalidade do cosmos é, misteriosamente, o lugar da graça e do pecado, como o não serão também as nossas culturas que são os frutos e os germes da atividade propriamente humana?
+
+21\. No Corpo de Cristo, as culturas, animadas e renovadas pela graça e pela fé, são complementares. Elas permitem ver a fecundidade multiforme que possuem os ensinamentos e energias do mesmo Evangelho, e que são os mesmos princípios de verdade, de justiça, de amor e liberdade, quando revestidos pelo Espírito de Cristo.
+
+22\. Por último, devemos lembrar que não é por qualquer estratégia de interesses que a Igreja, esposa do Verbo encarnado, se preocupa com as culturas da humanidade. A Igreja quer animar interiormente, proteger, libertar do erro e do pecado com que os corrompemos, estes recursos de verdade e de amor que Deus dispôs, como *semina Verbi*, na sua criação. O Verbo de Deus não vem a uma criação que lhe fosse estranha. “Tudo foi criado por Ele e para Ele; Ele existe antes de todas as coisas e todas têm n'Ele a sua subsistência”.[^42]
+
+**3. A Igreja dos Apóstolos e o Espírito Santo**
+
+*1. De Jerusalém às Nações: os começos típicos da inculturação da fé*
+
+23\. No dia de Pentecostes, a irrupção do Espírito Santo inaugura a relação da fé cristã e das culturas, como acontecimento de perfeita realização e de plenitude: a promessa da salvação, realizada por Cristo ressuscitado, enche o coração dos crentes pela efusão do próprio Espírito Santo. As “maravilhas de Deus” serão, daqui em diante, “publicadas” a todos os homens de todas as línguas e de todas as culturas.[^43] Quando a humanidade vive sob o signo da divisão de Babel, o dom do Espírito Santo é-lhe oferecido como a graça, transcendente e tão humana, da *sinfonia* dos corações. A Comunhão divina (*koinonia*)[^44] recria uma nova Comunidade entre os homens, penetrando, sem o destruir, esse sinal da sua divisão: as línguas.
+
+24\. O Espírito Santo não instaura uma super-cultura, mas constitui o princípio pessoal e vital que vivificará a nova Comunidade em sinergia com os seus membros. O dom do Espírito Santo não é da ordem das estruturas, mas a Igreja de Jerusalém que ele forma é *koinonia* de fé e de *ágape*, que se comunica na pluralidade sem se dividir; é *Corpo de Cristo* cujos membros estão unidos sem uniformidade. A primeira prova de *catolicidade* surge quando as diferenças ligadas à cultura (conflito entre helenos e hebreus) ameaçam a Comunhão.[^45] Os Apóstolos não suprimem as diferenças, mas darão desenvolvimento a uma função essencial ao Corpo eclesial: a *diaconia* ao serviço da *koinonia*.
+
+25\. Para que a Boa Nova seja anunciada às *nações*, o Espírito Santo suscita um novo discernimento em Pedro e na Comunidade de Jerusalém:[^46] a fé em Cristo não exige dos novos crentes o abandono da sua cultura para adotar a Lei do povo judeu; todos os povos são chamados a beneficiar da Promessa e a partilhar da herança confiada para eles ao Povo da Aliança.[^47] Portanto, “nada para além do necessário”, segundo a decisão da assembleia apostólica.[^48]
+
+26\. Mas, sendo escândalo para os Judeus, o mistério da Cruz é loucura para os pagãos. Aqui, a inculturação da fé opõe-se ao pecado radical que “sufoca”[^49] a verdade de uma cultura que não é assumida por Cristo: a *idolatria*. Enquanto o homem estiver “privado da Glória de Deus”,[^50] tudo o que ele “cultiva” é imagem opaca de si próprio. O querigma paulino parte, assim, da Criação e da vocação à Aliança, denuncia as perversões morais da humanidade e anuncia a salvação em Cristo crucificado e ressuscitado.
+
+27\. Depois da prova de catolicidade entre comunidades cristãs culturalmente diferentes, depois das resistências do legalismo judaico e da idolatria, a fé enfeuda-se à cultura no *gnosticismo*. O fenômeno surge na época das últimas cartas de Paulo e João, e alimentará a maior parte das crises doutrinais dos séculos seguintes. Aqui, a razão humana, ferida pelo pecado, recusa a loucura da Encarnação do Filho de Deus e procura recuperar o Mistério acomodando-o à cultura reinante. Ora “a fé não se apoia na sabedoria dos homens, mas no poder de Deus”.[^51]
+
+*2. A Tradição Apostólica: inculturação da fé e salvação da cultura*
+
+28\. Nos “últimos tempos”, inaugurados com o Pentecostes, Cristo ressuscitado, Alfa e Ômega, entra na história dos povos: a partir daí, o sentido da história, e, portanto, também o da cultura, é “aberto”;[^52] o Espírito Santo revela-o, atualizando-o e comunicando-o a todos. A Igreja é o *sacramento* desta Comunhão; do novo centro a toda a cultura em que Cristo é acolhido, colocando-a no eixo do “mundo que vem”, e restaura a Comunhão destruída pelo “príncipe deste mundo”. A cultura está, assim, *em situação escatológica* porque tende para a sua realização em Cristo, mas não pode ser salva senão associando-se ao repúdio do mal.
+
+29\. Cada Igreja local ou particular é chamada a ser, no Espírito Santo, o sacramento que manifesta Cristo, crucificado e ressuscitado, na *carne* de uma cultura particular:
+
+a\) A cultura de uma Igreja local, jovem ou antiga, participa no dinamismo das culturas e nas suas vicissitudes; mesmo em situação escatológica, permanece submetida a provações e a tentações.[^53]
+
+b\) A “novidade cristã” gera, nas Igrejas locais, expressões culturalmente tipificadas (modalidades de formulações doutrinais, simbolismos litúrgicos, tipos de santidade, diretivas canônicas etc.). Mas a Comunhão entre as Igrejas exige constantemente que a “carne” cultural de cada uma não impeça o reconhecimento mútuo na fé apostólica, bem como a solidariedade no amor.
+
+c\) Qualquer Igreja enviada às nações só testemunha o seu Senhor quando, nas suas ligações culturais, se conforma a Ele na *kénosis* primeira da sua Encarnação e na humilhação última da sua Paixão vivificante. A inculturação da fé é uma das expressões da Tradição apostólica, cujo caráter dramático Paulo sublinha por várias vezes.[^54]
+
+30\. Os escritos apostólicos e os testemunhos patrísticos não limitam a sua visão da cultura ao serviço da evangelização; integram-na na totalidade do *Mistério de Cristo*. Para eles, a criação é o reflexo da Glória de Deus, o homem é o seu ícone vivo, e é em Cristo que nos é feito o dom da semelhança de Deus. A cultura é o lugar em que o homem e o mundo são chamados a encontrar-se na Glória de Deus. Na medida em que o homem é pecador, o encontro, ou não se realiza, ou é obscurecido. No interior da criação cativa vive-se a gestação do “novo universo”;[^55] a Igreja está “em trabalho de parto”.[^56] Nela e por ela, as criaturas deste mundo podem viver a sua redenção e a sua transfiguração.
+
+**3**. **PROBLEMAS ATUAIS** **DA** **INCULTURAÇÃO**
+
+A piedade popular  
+O encontro com as religiões não-cristãs
+
+Jovens Igrejas, passado cristão e cultura ancestral
+
+A fé cristã e a modernidade
+
+1\. A inculturação da fé, que primeiro consideramos de um ponto de vista filosófico (natureza, cultura e graça) e, depois, do ponto de vista da história e do dogma (a inculturação na história da salvação), põe ainda problemas consideráveis à reflexão teológica e à ação pastoral. No século XVI, a descoberta de novos mundos levantou interrogações que continuam a preocupar-nos. Como conciliar a fé com as expressões espontâneas da religiosidade dos povos? Que atitude adotar perante as religiões não-cristãs, principalmente as que estão “ligadas ao progresso da cultura”?[^57] Novas questões surgem também no nosso tempo. Como é que as “jovens Igrejas”, nascidas da indigenização de comunidades cristãs já existentes, devem considerar o seu passado cristão e a história cultural dos seus respectivos povos? Finalmente, como é que o Evangelho deve animar, purificar e fortificar o mundo novo que nos trouxe a industrialização e a urbanização? Estas quatro questões parecem impor-se a quem reflete nas condições atuais da inculturação da fé.
+
+**1. A Piedade popular**
+
+2\. Por *piedade popular*, nos países que foram tocados pelo Evangelho, entende-se a união da fé e piedade cristãs, por um lado, com a cultura profunda e as formas da religião anterior das populações, por outro. Trata-se daquelas inúmeras devoções pelas quais os cristãos exprimem o seu sentimento religioso em formas simples de linguagem, como as da festa e da romaria, da dança e dos cantares. Para falar desta piedade que une “o corpo e o espírito, a comunhão eclesial e a instituição, o indivíduo e a comunidade, a fé cristã e o amor à pátria, a inteligência e a afetividade”,[^58] usou-se a expressão de *síntese vital.* A qualidade da síntese advém não só da antiguidade e profundidade da evangelização, mas ainda da compatibilidade dos antecedentes religiosos e culturais com a fé cristã.
+
+3\. Na exortação apostólica [*Evangelii nuntiandi*](http://www.vatican.va/holy_father/paul_vi/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi_po.html), Paulo VI ratificou e encorajou uma nova apreciação da piedade popular. “Estas expressões (particulares da procura de Deus e da fé), consideradas durante muito tempo como menos puras e que foram, por vezes, até desdenhadas, são hoje, um pouco por toda a parte, objeto de uma nova descoberta”.[^59]
+
+4\. “Se é bem orientada, principalmente por uma pedagogia de evangelização, continuava Paulo VI, (a piedade popular) é rica em valores. Ela traduz uma sede de Deus que só os simples e os pobres podem conhecer; quando se trata de manifestar a fé, é capaz de generosidade e sacrifício até ao heroísmo; possui apurado sentido dos atributos profundos de Deus, como a paternidade, a providência, a presença amável e constante; gera atitudes interiores raramente observadas, com tal intensidade, fora deste domínio, paciência, sentido da cruz na vida quotidiana, desprendimento, abertura aos outros, devoção”.[^60]
+
+5\. A força e a profundidade das raízes da piedade popular manifestaram-se, claramente, neste longo período de descrédito de que falava Paulo VI. As expressões da piedade popular sobreviveram às numerosas predições de desaparecimento que a modernidade e os progressos do secularismo pareciam caucionar, e conservaram a atração que exercem sobre as multidões, desenvolvendo-a mesmo em muitas regiões do globo.
+
+6\. Denunciaram-se, várias vezes, os limites da piedade popular por causa de certo simplismo, fonte de diversas deformações da religião e até de superstições. Fica-se, neste caso, ao nível das manifestações culturais, sem que haja um comprometimento na verdadeira adesão de fé e na expressão dessa fé no serviço do próximo. Mal orientada, a piedade popular pode mesmo conduzir à formação de seitas e pôr em perigo a verdadeira comunidade eclesial; corre ainda o risco de ser manipulada, quer pelos poderes políticos, quer por forças religiosas estranhas à fé cristã.
+
+7\. A consciência destes perigos convida à prática de uma catequese inteligente, rendida aos méritos de uma piedade popular autêntica e, simultaneamente, capaz de discernimento. A integração de uma fé muito pura e das formas tradicionais da vida religiosa dos povos requere ainda uma liturgia viva e adaptada. A piedade popular pode, sem qualquer dúvida, trazer insubstituível contribuição para uma antropologia cultural cristã que permita reduzir a distância, por vezes trágica, entre a fé dos cristãos e certas instituições socioeconômicas, de orientação bem diferente, que regem a sua vida quotidiana.
+
+**2.Inculturação da fé e Religiões não cristãs**
+
+8\. *As religiões não cristãs.* Desde as suas origens, a Igreja defrontou-se, a muitos níveis, com a questão da pluralidade de religiões. Ainda hoje, os cristãos constituem apenas um terço da população mun­dial, pelo que terão de viver num mundo que manifesta uma crescente simpatia pelo pluralismo em matéria religiosa.
+
+9\. Tendo em conta o lugar importante da religião na cultura, uma Igreja local ou particular implantada num meio sociocultural não cristão, deve ter seriamente em conta os elementos religiosos desse meio, avaliando-lhes a profundidade e a vitalidade.
+
+10\. Se for permitido tomar como exemplo um continente, falaremos da Ásia, que viu nascer algumas das grandes correntes religiosas do mundo: o hinduísmo, o budismo, o Islã, o confucionismo, o taoísmo e o xintoísmo. Estes sistemas religiosos, ainda que em diferentes partes do continente, estão profundamente enraizados nos povos e demonstram muito vigor. A vida pessoal e a atividade social e comunitária foram marcadas, de forma decisiva, por estas tradições religiosas e espirituais. As Igrejas da Ásia consideram da maior importância e urgência a questão das religiões não-cristãs, tomando-a como objeto daquela forma privilegiada de relação que é o diálogo.
+
+11\. *O diálogo das religiões.* O diálogo com as outras religiões é parte integrante da vida dos cristãos. Quer se processe pela troca de impressões, pelo estudo, ou pelo trabalho em comum, este diálogo, além de fomentar o crescimento na piedade, contribui para uma melhor inteligência da religião do outro.
+
+12\. Para a fé cristã, a unidade de todos os cristãos na sua origem e no seu destino, ou seja, na criação e na comunhão com Deus em Jesus Cristo, é assistida pela presença e ação universais do Espírito Santo. A Igreja em diálogo escuta e aprende. “A Igreja Católica não rejeita absolutamente nada daquilo que há de verdadeiro e santo nessas religiões. Considera com sincero respeito esses modos de agir e de viver, esses preceitos e doutrinas que, embora em muitos pontos estejam em discordância com aquilo que ela afirma e ensina, muitas vezes refletem um raio daquela Verdade que ilumina todos os homens”.[^61]
+
+13\. Este diálogo tem qualquer coisa de original, visto que, a história das religiões o atesta, a pluralidade das religiões gerou muitas vezes discriminação e ciúme, fanatismo e despotismo, tudo coisas que valeram à religião a acusação de ser fonte de divisão na família humana. A Igreja, “sacramento universal da salvação”, ou seja, “sinal e instrumento da união íntima com Deus e da unidade de todo o gênero humano”,[^62] é chamada por Deus a ministrar e veicular a unidade em Jesus Cristo, para todos os homens e para todos os povos.
+
+14\. *A transcendência do Evangelho em relação à cultura.* Não podemos, no entanto, esquecer a transcendência do Evangelho em relação a todas as culturas humanas, em que a fé cristã está vocacionada a enraizar-se e a desenvolver-se com todas as suas virtualidades. Por muito grande que deva ser o respeito por tudo o que é verdadeiro e santo na herança cultural de um povo, esta atitude não vai até a exigência de conferir um caráter absoluto a essa herança cultural. Ninguém pode esquecer que, desde a origem, o Evangelho foi “escândalo para os judeus e loucura para os pagãos”.[^63] A inculturação que busca a via do diálogo entre as religiões nunca poderá apadrinhar o sincretismo.
+
+**3. As Igrejas jovens e o seu passado cristão**
+
+15\. A Igreja prolonga e atualiza o mistério do Servo de Javé, a quem foi prometido que seria “luz das nações para que a salvação atinja os limites da terra”,[^64] e que seria “a Aliança do povo”.[^65] Esta profecia realiza-se na última Ceia, quando, na véspera da sua Paixão, Cristo, rodeado pelos Doze, lhes deu o seu corpo e o seu sangue em alimento e bebida da Nova Aliança, assimilando-os assim ao seu próprio corpo. Nascia então a Igreja, povo da Nova Aliança. No Pentecostes receberá o Espírito de Cristo, o Espírito do Cordeiro imolado desde as origens, e que atuava já para acolher este voto tão profundamente enraizado nos seres humanos: a união mais radical, no mais radical respeito pela diversidade.
+
+16\. Em virtude da comunhão católica, que une todas as Igrejas particulares numa mesma história, as jovens Igrejas consideram o passado das Igrejas que lhes deram origem como parte da sua própria história. Mas o ato interpretativo que sobretudo assinala a sua maturidade espiritual, consiste no reconhecimento desta anterioridade como originária e não apenas como histórica. Isto significa que, ao acolher na fé o Evangelho que lhes foi transmitido pelos seus antepassados, as jovens Igrejas acolheram “o próprio iniciador da fé”[^66] e toda a Tradição em que a fé foi testemunhada, bem como a capacidade de produzir formas originais em que se afirmará a fé única e comum. Iguais em dignidade, vivendo do mesmo mistério, autênticas Igrejas irmãs, as jovens Igrejas manifestam, de harmonia com os seus antepassados, a plenitude do mistério de Cristo.
+
+17\. Como povo da Nova Aliança, evocando a memória do mistério pascal e anunciando sem cessar a volta do Senhor, pode dizer-se que a Igreja é a escatologia iniciada das tradições culturais dos povos, com a condição, como é evidente, de essas tradições terem sido submetidas à lei purificadora da morte e ressurreição de Jesus Cristo.
+
+18\. Como S. Paulo no areópago de Atenas, a jovem Igreja faz uma leitura nova e criativa da cultura ancestral; quando esta cultura passa a pertencer a Cristo, “o véu cai”.[^67] No tempo de *incubação* da fé, esta Igreja tinha já descoberto Cristo como “exegeta e exegese” do Pai, no Espírito;[^68] e não cessa, aliás, de o contemplar como tal. Agora descobre-o também como “exegeta e exegese” do homem, fonte e destinatário da cultura. Ao Deus desconhecido revelado na cruz, corresponde o homem desconhecido que a jovem Igreja anuncia, na sua qualidade de mistério vivo pascal, inaugurado, pela graça, na antiga cultura.
+
+19\. A jovem Igreja esforça-se por descobrir, ao tornar presente a salvação, todos os vestígios da solicitude de Deus por um grupo humano particular, os *semina Verbi.* O que diz o prólogo da Epístola aos Hebreus sobre os Pais e os Profetas, pode afirmar-se também em relação a Jesus Cristo; e é ainda válido, analogicamente, para toda a cultura humana no que possui de reto e verdadeiro e no que contém de sabedoria.
+
+**4. A Fé cristã e a modernidade**
+
+20\. As mutações técnicas que provocaram a revolução industrial e, mais tarde, a revolução urbana, afetaram a alma profunda das populações, beneficiárias, mas quantas vezes igualmente vítimas, dessas transformações. Por isso se impõe aos crentes a urgente e difícil tarefa de compreender a cultura moderna nos seus traços característicos, mas também nas suas expectativas e necessidades em relação à salvação trazida por Jesus Cristo.
+
+21\. A revolução industrial foi também uma revolução cultural. Valores até aí assegurados, como o sentido do trabalho pessoal e comunitário, a relação direta do homem com a natureza, a pertença a uma família de apoio (na coabitação como no trabalho), o enraizamento em comunidades locais e religiosas de dimensão humana, a participação em tradições, ritos, cerimônias e celebrações que dão sentido aos grandes momentos da existência, foram postos em causa. A industrialização, provocando acumulação desordenada das populações, atingiu gravemente estes valores seculares, sem suscitar comunidades capazes de integrar novas culturas. Quando os povos mais desfavorecidos buscam um modelo de desenvolvimento apropriado, as vantagens, mas também os riscos e os custos humanos da industrialização são mais bem apreendidos.
+
+22\. Realizaram-se grandes progressos em muitos domínios da vida: alimentação, saúde, educação, transportes, acesso a bens de consumo de toda a espécie. No entanto, surgem inquietações profundas no inconsciente coletivo. Em muitos países, a ideia de progresso deu lugar ao desencanto, sobretudo depois da segunda guerra mundial. A racionalidade em matéria da produção e administração, quando esquece o bem das pessoas, trabalha contra a razão. A emancipação das comunidades de pertença lançou o homem na multidão solitária. Os novos meios de comunicação tanto quebram estruturas como podem unir. A ciência, através das suas criações técnicas, revela-se simultaneamente criadora e homicida. Muitos desesperam da modernidade e falam de uma nova barbárie. Apesar de tantos erros e insucessos, é necessário ter esperança num sobressalto moral qualitativo de todas as nações, ricas e pobres. Se o Evangelho for pregado e ouvido, é possível uma conversão cultural e espiritual que apele à solidariedade, à preocupação pelo bem integral da pessoa, à promoção da justiça e da paz, à adoração do Pai de quem procede todo o bem.
+
+23\. A inculturação do Evangelho nas sociedades modernas exigirá um esforço metódico de pesquisa e ação concertadas. Este esforço requererá dos responsáveis pela evangelização: 1) uma atitude de acolhimento e de discernimento crítico, 2) a capacidade de captar os anseios espirituais e as aspirações humanas das novas culturas, 3) a aptidão para a análise cultural em vista de um encontro efetivo com o mundo moderno.
+
+24\. Com efeito, é necessária *uma atitude de acolhimento* para quem quiser compreender e evangelizar o mundo deste tempo. A modernidade surge acompanhada de progressos inegáveis em vários domínios materiais e culturais: bem-estar, mobilidade humana, ciência, investigação, educação, novo sentido da solidariedade. Além disso, a Igreja do Vaticano II tomou consciência das novas condições em que deve exercer a sua missão, porque é nas culturas da modernidade que se construirá a Igreja de amanhã. A propósito do discernimento, aplica-se a recomendação tradicional, retomada por Pio XII: “É preciso compreender mais profundamente a civilização e as instituições dos diversos povos, e cultivar as suas melhores qualidades e os seus melhores dons. Tudo aquilo que, nos costumes dos povos, não estiver ligado indissoluvelmente a superstições e a erros, deve ser examinado com benevolência e, se possível, conservado intacto”.[^69]
+
+25\. O Evangelho suscita questões fundamentais a quem reflete sobre o comportamento do homem moderno. Como fazer compreender a este homem a radicalidade da mensagem de Cristo: a caridade incondicional, a pobreza evangélica, a adoração do Pai e o consentimento constante à sua Vontade? Como educar no sentido cristão do sofrimento e da morte? Como suscitar a fé e a esperança na obra de ressurreição realizada por Jesus Cristo?
+
+26\. É necessário desenvolver *uma capacidade de analisar as culturas* e de lhes captar as incidências morais e espirituais. Impõe-se uma mobilização de toda a Igreja, para que a tarefa extremamente complexa da inculturação do Evangelho no mundo moderno seja empreendida com sucesso. Nesta linha, é necessário que partilhemos a preocupação de João Paulo II: “Desde o início do meu pontificado, considerei que o diálogo da Igreja com as culturas do nosso tempo era um domínio vital onde se joga o destino do mundo neste fim do século XX”.[^70]
+
+**CONCLUSÃO**
+
+1\. Depois de afirmar que “importava atingir e remodelar, pela força do Evangelho, os critérios de apreciação, os valores determinantes, os centros de interesse, as linhas de pensamento, as fontes de inspiração e os modelos de vida que não estão de acordo com a palavra de Deus e os desígnios da salvação”, Paulo VI pedia “para se evangelizar, não de forma decorativa, como verniz superficial, mas de modo vital, em profundidade, e até às raízes, a cultura e as culturas do homem, no sentido rico e amplo que estes termos possuem na [*Gaudium et spes*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_po.html)*...* O Reino que o Evangelho anuncia é vivido por homens profundamente ligados a uma cultura; a construção do Reino não pode dispensar os elementos da cultura e das culturas humanas”.[^71]
+
+2\. “Neste final do século XX, dizia, por seu lado, João Paulo II, a Igreja deve fazer-se tudo para todos, acolhendo com simpatia as culturas hodiernas. Existem ainda meios e mentalidades, assim como países e regiões inteiras por evangelizar, o que supõe *um longo e corajoso processo de inculturação*, a fim de que o Evangelho penetre a alma das culturas vivas, respondendo aos seus mais elevados anseios, e as faça crescer até à própria dimensão da fé, da esperança e da caridade cristãs... Por vezes, as culturas só foram atingidas superficialmente; e, de qualquer modo, como se encontram em incessante transformação, exigem uma aproximação renovada... E sempre aparecem novos setores de cultura, com objetivos, métodos e linguagens diversos”.[^72]
+
+**ANEXO**
+
+Documento elaborado pela Comissão Teológica Internacional durante sua sessão plenária em dezembro de 1987, amplamente aprovado *in forma specifica* na sessão plenária de outubro de 1988 e publicado mediante *placet* de Sua Eminência o Cardeal Joseph Ratzinger, Presidente da Comissão. Abaixo encontram-se os nomes dos membros que, mais particularmente, contribuíram para a elaboração deste texto.
+
+O texto em latim deste documento foi publicado sob o título “Fides et inculturatio” em Gregorianum 70 (1989), p. 625–646. O texto aqui apresentado foi traduzido a partir do francês (em *La Documentation catholique* 86 (1989), p. 281–289, com correções, diversas modificações e adaptações editoriais) e cotejado com o italiano (*CivCatt *140 (1989), I,158-177).
+
+*Relação das diferentes comunicações preparatórias*
+
+Foi a partir destes trabalhos (que permanecem propriedade dos seus autores, que os escreveram sob a sua própria responsabilidade), que Gilles Langevin, SJ, presidente da subcomissão e redator principal, compôs a síntese que a Comissão Teológica Internacional aprovou em três votações sucessivas, depois de as duas primeiras versões terem sofrido as significativas emendas. Elenco dos assuntos tratados:
+
+I - *Diversos aspectos da reflexão e da ação da Igreja sobre o problema da inculturação:*
+
+1\. Estado da questão no que respeita ao Magistério
+
+1.1. O Concílio Vaticano II e os Sínodos (Philippe Delhaye)  
+1.2. As alocuções pontifícias (André-Jean Léonard)
+
+2\. A Teologia e a ação pastoral:
+
+2.1. na Ásia (Peter Miyakawa)  
+2.2. na África (James Okoye)  
+2.3. na América Latina (José Miguel Ibánez Langlois)  
+2.4. no Mundo Atlântico (Giuseppe Colombo)
+
+II - *Sagrada Escritura e Teologia*
+
+1\. O Pai: Antigo Testamento e Judaísmo (Hans Urs von Balthasar)
+
+2\. Jesus Cristo:
+
+2.1. A assunção da natureza humana (Gilles Langevin)  
+2.2. A salvação e a divinização (Francis Moloney)
+
+3\. O Espírito Santo e a Igreja (Jean Corbon)
+
+III - *Antropologia*
+
+A natureza criada, decaída e resgatada (Georges Cottier)
+
+IV - *Eclesiologia*
+
+1\. As religiões não-cristãs (Félix Wilfred)
+
+2\. As relações das jovens Igrejas com as antigas tradições eclesiásticas (Barthélemy Adoukonou)
+
+Documento em forma de *Conclusão pastoral*: A modernidade (Hervé Carrier).
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+[^1]: Documento elaborado pela Comissão Teológica Internacional durante sua sessão plenária em dezembro de 1987, amplamente aprovado *in forma specifica* na sessão plenária de outubro de 1988 e publicado mediante *placet* de Sua Eminência o Cardeal Joseph Ratzinger, Presidente da Comissão. No anexo encontram-se os nomes dos membros que, mais particularmente, contribuíram para a elaboração deste texto. O texto em latim deste documento foi publicado sob o título “Fides et inculturatio” em Gregorianum 70 (1989), p. 625–646. (*La Documentation catholique* 86 \[1989\], p. 281-289 \[com correções, diversas modificações e adaptações editoriais; *CivCatt *140 \[1989\], I,158-177).
+
+[^2]: *O pluralismo teológico* (1972), *A promoção humana e a salvação cristã* (1976), *A doutrina católica sobre o sacramento do matrimónio* (1977), *Questões escolhidas de cristologia* (1979). Estes textos poderão ser consultados na sua edição oficial (em latim e tradução italiana): Commissio Theologica Internationalis, Comissione Teologica Internazionale, *Documenta, Documenti* (1969-1985), Libreria Editrice Vaticana, 1988; ou na publicação francesa: Commission Théologique Internationale, *Textes et Documents* (1969-1985), Paris, Cerf, 1988.
+
+[^3]: CTI, [*Temas seletos de eclesiologia por ocasião do vigésimo aniversário do Concílio Vaticano II*](http://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_it.html)(1984). Cf. nota anterior.
+
+[^4]: Comissão Bíblica Pontifícia, *Fede e cultura alla luce della Bibbia. Foi et culture à la lumière da la Bible*, Torino, Editrice Elle Di Ci, 1981.
+
+[^5]: GS 44.
+
+[^6]: *Ibidem*, n. 53-62.
+
+[^7]: Paulo VI, *EN* 18-20.
+
+[^8]: João Paulo II, *CT* 53.
+
+[^9]: Sínodo Extraordinário por ocasião do 20° aniversário do encerramento do Concílio Vaticano II, *Relatório final votado pelos Padres*, 7 de Dezembro de 1985.
+
+[^10]: João Paulo II, [*Carta autografa de fundação do Conselho Pontifício para a Cultura*](http://www.vatican.va/holy_father/john_paul_ii/letters/1982/documents/hf_jp-ii_let_19820520_foundation-letter_po.html), 20 de Maio de 1982, em *Acta Apostolicae Sedis*, 74 (1983) 683-688.
+
+[^11]: João Paulo II, [*Mensagem aos intelectuais proferida na Universidade de Coimbra*, 15 de Maio de 1982](http://www.vatican.va/holy_father/john_paul_ii/speeches/1982/may/documents/hf_jp-ii_spe_19820515_universita-coimbra_po.html).
+
+[^12]: João Paulo II, *Discurso aos membros do Conselho Pontifício para a Cultura*, 18 de Janeiro de 1983.
+
+[^13]: Paulo VI, *HV* 10.
+
+[^14]: GS 53.
+
+[^15]: *Ibidem.*
+
+[^16]: João Paulo II, *Encíclica “*[*Slavorum Apostoli*](http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli_po.html)*” por ocasião do 11.° centenário da obra de evangelização dos santos Cirilo e Metódio*, 2 de Junho 1985, n. 21.
+
+[^17]: DV 13.
+
+[^18]: Cf. Rom 11,11-24.
+
+[^19]: Gn 1,1-2.4a.
+
+[^20]: Cf. Gn 9,1-17; Sr 44,17-18.
+
+[^21]: Gn 12,1-5; Jr 4,2; Sr 44,21.
+
+[^22]: Lc 24,27.44.
+
+[^23]: Mc 13,10; Mt 12,21; Lc 2,32.
+
+[^24]: Mt 11,19; Lc 7,35.
+
+[^25]: Sl 93,1-4; Is 6,1.
+
+[^26]: Mc 1,15; Mt 12,29; Lc 11,20; 17,21.
+
+[^27]: Mt 20,1-16; Lc 15,11-32; 18,9-14.
+
+[^28]: Mc 14,36.
+
+[^29]: Mc 1,14-45; 10,2-9; Mt 5,21-48.
+
+[^30]: Rm 5,12-19; 1Cor 15,20-22.
+
+[^31]: Mc 8,27-33; 1Cor 1,18-25.
+
+[^32]: Gl 3,13; Dt 21,22-23.
+
+[^33]: Gl 3,12-14.
+
+[^34]: Rm 7,16ss.; 3,20; 7,7; 1Tm 1,8.
+
+[^35]: AG 10.
+
+[^36]: Lc 2,46.
+
+[^37]: Rm 9,3-5.
+
+[^38]: Rm 11,24.
+
+[^39]: GS 22.
+
+[^40]: AG 8.
+
+[^41]: Gl 3,28.
+
+[^42]: Cl 1,16-17.
+
+[^43]: At 2,11.
+
+[^44]: At 2,42.
+
+[^45]: At 6,1ss.
+
+[^46]: At 10-11.
+
+[^47]: Ef 2,14-15.
+
+[^48]: At 15,28.
+
+[^49]: Rm 1,18.
+
+[^50]: Rm 3,23.
+
+[^51]: Cor 2,4 s.
+
+[^52]: Ap 5,1-5.
+
+[^53]: Cf. Ap 2-3.
+
+[^54]: Cor e 2Cor *passim.*
+
+[^55]: Ap 21,5.
+
+[^56]: Cf. Rm 8,18-25.
+
+[^57]: NA 2.
+
+[^58]: Documento de Puebla 448.
+
+[^59]: Paulo VI, *EN* 48.
+
+[^60]: *Ibidem.*
+
+[^61]: NA 2.
+
+[^62]: LG 1.
+
+[^63]: Cor 1,23.
+
+[^64]: Is 49,6.
+
+[^65]: Is 49,8.
+
+[^66]: Hb 12,2.
+
+[^67]: Cor 3,16.
+
+[^68]: Cf. Henri de Lubac, *Exegese médievale*, t. I, Collection Théologie, n. 41, Paris, Aubier, 1959, p. 322-324.
+
+[^69]: Pio XII, *Encíclica “*[*Summi Pontificatus*](http://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus_po.html)*” sob o signo de Cristo-Rei*, 20 de Outubro de 1939, em *La Documentation catholique*, 40, 5 décembre 1939, c. 1261.
+
+[^70]: João Paulo II, [*Carta autografa de fundação do Conselho Pontifício para a Cultura*](http://www.vatican.va/holy_father/john_paul_ii/letters/1982/documents/hf_jp-ii_let_19820520_foundation-letter_po.html), 20 de Maio de 1982, em *la Documentation catholique*, 79, 20 junho 1982, p. 604.
+
+[^71]: Paulo VI, *EN* 19-20.
+
+[^72]: João Paulo II, *Discurso aos membros do Conselho Pontifício para a Cultura*, 18 de Janeiro de 1983, em *La Documentation Catholique*, 80, 6 fevereiro 1983, p. 147.

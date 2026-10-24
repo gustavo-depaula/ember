@@ -1,0 +1,39 @@
+{
+  "id": "benedict-xiv-i-celebrationem-magni",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Celebrationem Magni"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV",
+    "pt-BR": "Encíclica · Papa Bento XIV"
+  },
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-celebrationem-magni--i---1-gennaio-1751--dopo-aver-.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Celebrationem Magni"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+# Carta al Reverendo Profesor Charles Curran, 25 julio 1986
+
+CONGREGACIÓN PARA LA DOCTRINA DE LA FE
+
+**CARTA  AL R. D. CHARLES CURRAN**
+
+Rvdo. Prof. Curran:
+
+Esta Congregación desea acusar recibo de su carta del 1 de abril de 1986, con la cual usted enviaba su respuesta definitiva a las «observaciones» críticas que se le habían mandado, con relación a algunas tesis sostenidas por usted en sus publicaciones. En la carta dice usted que «permanece todavía convencido de la exactitud de dichas posiciones...». Al mismo tiempo, vuelve a proponer lo que usted mismo define «un compromiso», según el cual usted continuaría enseñando teología moral, pero no en el campo de la ética sexual.
+
+La finalidad de esta carta es comunicarle que la Congregación confirma su posición, según la cual quien, como usted, disiente del Magisterio, ni puede ser idóneo ni se le puede designar para enseñar la teología católica. En consecuencia, la Congregación no acepta la solución de compromiso que usted propone, a causa de la unidad orgánica de la auténtica teología católica, unidad que está íntimamente ligada, en su contenido y en su método, a la fidelidad al Magisterio de la Iglesia.
+
+Las diversas posiciones de disenso que esta Congregación le ha hecho notar, a saber, las referentes al derecho a disentir públicamente del Magisterio ordinario, la indisolubilidad del matrimonio sacramental consumado, el aborto, la eutanasia, la masturbación, la contracepción artificial, las relaciones prematrimoniales y los actos homosexuales, han sido enumeradas cuidadosamente en las «observaciones» antes mencionadas, de julio de 1983, y han sido ya publicadas. Así pues, no se trata de entrar en los detalles sobre el hecho de que usted disiente realmente sobre tales cuestiones.
+
+Hay todavía un aspecto que debe ser subrayado. Su afirmación de fondo es que sus tesis, dado que son convincentes para usted y difieren sólo de la enseñanza «no infalible» de la Iglesia, constituyen un disenso «responsable», y deberían, por tanto, ser permitidas por la Iglesia. A este respecto parecen necesarias las siguientes consideraciones.
+
+Ante todo hay que recordar la enseñanza del Concilio Vaticano II que, de modo claro, no limita el Magisterio infalible solamente a la materia de fe o bien a las definiciones solemnes. La *[Lumen gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, en el n. 25, afirma: «Cuando, aun estando dispersos (los obispos) por el orbe, pero manteniendo el vínculo de comunión entre sí y con el Sucesor de Pedro, enseñando auténticamente en materia de fe y costumbres, convienen en que una doctrina ha de ser tenida como definitiva, en ese caso proponen infaliblemente la doctrina de Cristo». Por lo demás, la Iglesia no construye su vida fundándola sólo en su Magisterio infalible, sino también en la enseñanza de su Magisterio auténtico ordinario.
+
+A la luz de estas consideraciones, resulta claro que usted no ha tenido adecuadamente en cuenta, por ejemplo, que la posición de la Iglesia sobre la indisolubilidad del matrimonio sacramental consumado, que usted pretendería que sea cambiada, en realidad ha sido definida por el Concilio de Trento, y por lo mismo pertenece al patrimonio de la fe. De la misma manera usted no da suficiente peso a la enseñanza del Concilio Vaticano II, cuando, en plena continuidad con la Tradición de la Iglesia, ha condenado el aborto, calificándolo como «delito abominable». En todo caso los fieles no están obligados a aceptar sólo el Magisterio infalible. Están llamados a dar el religioso obsequio de la inteligencia y de la voluntad a la doctrina que el Supremo Pontífice o el Colegio de los Obispos, ejercitando el Magisterio auténtico, enuncian en materia de fe o de moral, incluso cuando no pretenden proclamarla con un acto definitivo. Usted ha rehusado siempre hacer esto.
+
+Hay además dos cuestiones relacionadas que, sobre todo en los últimos meses, han sido ampliamente malentendidas durante el examen de sus obras realizado por esta Congregación, y que deben ser precisadas. Ante todo, usted ha protestado públicamente porque no se le ha dicho nunca quiénes eran sus «acusadores». Ahora bien, la Congregación ha basado su examen exclusivamente en las obras publicadas por usted y en las respuestas personales a las propias «observaciones». Por tanto, de hecho, sus mismas obras han sido sus «acusadores» y solamente ellas.
+
+Usted ha protestado además porque no se le ha dado la posibilidad de asesorarse. Ahora bien, dado que el examen ha sido realizado sobre la documentación escrita, usted ha tenido la posibilidad de recurrir a cualquier tipo de asesoramiento que deseara. Es igualmente claro que usted lo ha hecho. En su carta del 24 de agosto de 1984, respondiendo a las «observaciones» de la Congregación, afirmaba que sus posiciones las había tomado «después de un gran número \[...\] de consultas»; además, en la carta de la Congregación del 17 de septiembre de 1985, se le invitaba de hecho a continuar sirviéndose de estos mismos medios, con el fin de llegar a una solución aceptable de las divergencias entre sus posiciones y la doctrina de la Iglesia. Finalmente, a petición suya, cuando vino al encuentro del 8 de marzo de 1986, estaba acompañado por un teólogo de su confianza, que usted mismo había elegido.
+
+Para terminar, esta Congregación vuelve a llamar la atención sobre el hecho de que usted ha tomado sus posiciones de disenso en su calidad de profesor de teología en la facultad eclesiástica de una Universidad Pontificia. En la carta dirigida a usted, con fecha 17 de septiembre de 1985, se hacía notar que «las autoridades de la Iglesia no pueden permitir que continúe la situación actual, en la cual se prolonga la contradicción intrínseca por la cual uno que tiene la misión de enseñar en nombre de la Iglesia, de hecho, niega su doctrina». Por lo tanto, esta Congregación, tras su reiterado rechazo de aceptar lo que la Iglesia enseña, y en virtud del propio mandato de promover y salvaguardar la doctrina de la Iglesia en materia de fe y de moral en todo el mundo católico, de acuerdo con la Congregación para la Educación Católica, no ve otra alternativa que la de notificar al Excmo. Canciller que usted no puede seguir siendo considerado idóneo ni puede ser designado para ejercer la función de profesor de teología católica.
+
+Esta decisión ha sido presentada al Santo Padre en una Audiencia concedida al infrascrito Cardenal Prefecto el 10 de julio del presente año y ha sido aprobada por él en lo que se refiere al contenido y en lo que se refiere al procedimiento seguido.
+
+Este Dicasterio desea, por tanto, informarle que tal decisión se hará pública tan pronto como usted reciba comunicación de la misma.
+
+Quisiera, finalmente, expresarle la sincera esperanza de que esta desagradable pero necesaria conclusión del examen de la Congregación pueda inducirle a revisar sus posiciones de disenso y a aceptar la enseñanza de la Iglesia Católica en su integridad.
+
+Devotísimo en Cristo.
+
+**JOSEPH Card. RATZINGER** *Prefecto*

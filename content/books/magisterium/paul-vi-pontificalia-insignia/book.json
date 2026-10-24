@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-pontificalia-insignia",
+  "cover": "quarter",
+  "name": {
+    "la": "Pontificalia Insignia - De uso insignium pontificalium recognoscendo, Litterae Apostolicae Motu Proprio datae, Die 21 m. Iunii a. 1968, Paulus PP.VI",
+    "it": "Pontificalia Insignia - Lettera Apostolica in forma di Motu Proprio sull'uso delle Insegne Pontificali"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1968-06-21",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1968-06-21"
+  },
+  "composed": "1968",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19680621_pontificalia-insignia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19680621_pontificalia-insignia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Pontificalia Insignia - De uso insignium pontificalium recognoscendo, Litterae Apostolicae Motu Proprio datae, Die 21 m. Iunii a. 1968, Paulus PP.VI",
+        "it": "Pontificalia Insignia - Lettera Apostolica in forma di Motu Proprio sull'uso delle Insegne Pontificali"
+      }
+    }
+  ]
+}

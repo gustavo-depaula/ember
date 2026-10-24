@@ -1,0 +1,96 @@
+{
+  "id": "john-paul-ii-priests-holy-thursday-20020321",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to Priests for Holy Thursday 2002",
+    "pt-BR": "Carta aos Sacerdotes por ocasião da Quinta-Feira Santa de 2002",
+    "de": "Schreiben an die Priester zum Gründonnerstag 2002",
+    "es": "Carta a los Sacerdotes para el Jueves Santo de 2002",
+    "fr": "Lettre aux Prêtres pour le Jeudi Saint 2002",
+    "it": "Lettera ai Sacerdoti per il Giovedì Santo 2002",
+    "pl": "LIST OJCA SWIETEGO JANA PAWLA II DO KAPLANÓW NA WIELKI CZWARTEK 2002 ROKU",
+    "zh": "Letter to Priests for Holy Thursday 2002"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 2002-03-21",
+    "pt-BR": "Carta · Papa João Paulo II · 2002-03-21"
+  },
+  "composed": "2002",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "zh"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/2002/documents/hf_jp-ii_let_20020321_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/2002/documents/hf_jp-ii_let_20020321_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/2002/documents/hf_jp-ii_let_20020321_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/2002/documents/hf_jp-ii_let_20020321_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/letters/2002/documents/hf_jp-ii_let_20020321_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/2002/documents/hf_jp-ii_let_20020321_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/letters/2002/documents/hf_jp-ii_let_20020321_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh",
+      "url": "https://www.vatican.va/content/john-paul-ii/zh/letters/2002/documents/hf_jp-ii_let_20020321_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to Priests for Holy Thursday 2002",
+        "pt-BR": "Carta aos Sacerdotes por ocasião da Quinta-Feira Santa de 2002",
+        "de": "Schreiben an die Priester zum Gründonnerstag 2002",
+        "es": "Carta a los Sacerdotes para el Jueves Santo de 2002",
+        "fr": "Lettre aux Prêtres pour le Jeudi Saint 2002",
+        "it": "Lettera ai Sacerdoti per il Giovedì Santo 2002",
+        "pl": "LIST OJCA SWIETEGO JANA PAWLA II DO KAPLANÓW NA WIELKI CZWARTEK 2002 ROKU",
+        "zh": "Letter to Priests for Holy Thursday 2002"
+      }
+    }
+  ]
+}

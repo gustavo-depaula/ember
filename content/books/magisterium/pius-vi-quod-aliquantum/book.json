@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-quod-aliquantum",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Quod aliquantum"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius VI · 1791-03-10",
+    "pt-BR": "Breve · Papa Pio VI · 1791-03-10"
+  },
+  "composed": "1791",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/breve-quod-aliquantum-10-marzo-1791.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Quod aliquantum"
+      }
+    }
+  ]
+}

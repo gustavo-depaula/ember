@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-dum-acerbissimas",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Dum acerbissimas"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1835-09-26",
+    "pt-BR": "Breve · Papa Gregório XVI · 1835-09-26"
+  },
+  "composed": "1835",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-dum-acerbissimas-26-settembre-1835.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Dum acerbissimas"
+      }
+    }
+  ]
+}

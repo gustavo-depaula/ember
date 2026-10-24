@@ -1,0 +1,56 @@
+{
+  "id": "pius-x-editae-saepe",
+  "cover": "quarter",
+  "name": {
+    "la": "Editae saepe",
+    "en-US": "Editae Saepe",
+    "it": "Editae Saepe"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius X · 1910-05-26",
+    "pt-BR": "Encíclica · Papa Pio X · 1910-05-26"
+  },
+  "composed": "1910",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_26051910_editae-saepe.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Editae saepe",
+        "en-US": "Editae Saepe",
+        "it": "Editae Saepe"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "benedict-xv-maximum-illud",
+  "cover": "quarter",
+  "name": {
+    "la": "Maximum illud, die XXX m. Novembris, a. MCMXIX - Benedictus XV, Epistula Apostolica",
+    "en-US": "Maximum illud",
+    "pt-BR": "Maximum illud",
+    "de": "Maximum illud",
+    "es": "Maximum illud",
+    "fr": "Maximum illud",
+    "it": "Maximum illud"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Benedict XV · 1919-11-30",
+    "pt-BR": "Carta Apostólica · Papa Bento XV · 1919-11-30"
+  },
+  "composed": "1919",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/apost_letters/documents/hf_ben-xv_apl_19191130_maximum-illud.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xv/en/apost_letters/documents/hf_ben-xv_apl_19191130_maximum-illud.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xv/pt/apost_letters/documents/hf_ben-xv_apl_19191130_maximum-illud.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xv/de/apost_letters/documents/hf_ben-xv_apl_19191130_maximum-illud.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xv/es/apost_letters/documents/hf_ben-xv_apl_19191130_maximum-illud.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xv/fr/apost_letters/documents/hf_ben-xv_apl_19191130_maximum-illud.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/apost_letters/documents/hf_ben-xv_apl_19191130_maximum-illud.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Maximum illud, die XXX m. Novembris, a. MCMXIX - Benedictus XV, Epistula Apostolica",
+        "en-US": "Maximum illud",
+        "pt-BR": "Maximum illud",
+        "de": "Maximum illud",
+        "es": "Maximum illud",
+        "fr": "Maximum illud",
+        "it": "Maximum illud"
+      }
+    }
+  ]
+}

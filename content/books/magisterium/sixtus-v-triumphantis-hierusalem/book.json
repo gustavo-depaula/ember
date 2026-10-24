@@ -1,0 +1,48 @@
+{
+  "id": "sixtus-v-triumphantis-hierusalem",
+  "cover": "quarter",
+  "name": {
+    "la": "Triumphantis Hierusalem",
+    "en-US": "Triumphantis Hierusalem"
+  },
+  "author": {
+    "en-US": "Pope Sixtus V",
+    "pt-BR": "Papa Sisto V",
+    "la": "Sixtus PP. V"
+  },
+  "description": {
+    "en-US": "Document · Pope Sixtus V · 1585",
+    "pt-BR": "Documento · Papa Sisto V · 1585"
+  },
+  "composed": "1585",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "sixtus-v"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1585-1590,_SS_Sixtus_V,_Bulla_'Triumphantis_Hierusalem'_[AD_1588],_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/sixtus05/triumph.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Triumphantis Hierusalem",
+        "en-US": "Triumphantis Hierusalem"
+      }
+    }
+  ]
+}

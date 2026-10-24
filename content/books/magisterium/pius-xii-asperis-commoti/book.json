@@ -1,0 +1,48 @@
+{
+  "id": "pius-xii-asperis-commoti",
+  "cover": "quarter",
+  "name": {
+    "la": "Asperis Commoti, Apostolica Adhortatio ad sacerdotes et clericos in exercitus ordines adscitos, d. 8 m. Decembris, a. 1939, Pius PP. XII",
+    "it": "Asperis Commoti"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Pius XII · 1939-12-08",
+    "pt-BR": "Exortação Apostólica · Papa Pio XII · 1939-12-08"
+  },
+  "composed": "1939",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/apost_exhortations/documents/hf_p-xii_exh_19391208_asperis-commoti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_exhortations/documents/hf_p-xii_exh_19391208_asperis-commoti.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Asperis Commoti, Apostolica Adhortatio ad sacerdotes et clericos in exercitus ordines adscitos, d. 8 m. Decembris, a. 1939, Pius PP. XII",
+        "it": "Asperis Commoti"
+      }
+    }
+  ]
+}

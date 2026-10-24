@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-i-quam-grave",
+  "cover": "quarter",
+  "name": {
+    "la": "Enciclica Quam Grave (2 agosto 1757)",
+    "it": "Enciclica Quam Grave"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV · 1752-03-25",
+    "pt-BR": "Encíclica · Papa Bento XIV · 1752-03-25"
+  },
+  "composed": "1752",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1752-03-25,_SS_Benedictus_XIV,_Bulla_'Quam_Ardenti',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-quam-grave--i---2-agosto-1757--il-pontefice-segnala.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Enciclica Quam Grave (2 agosto 1757)",
+        "it": "Enciclica Quam Grave"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-redemptionis-anno",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Redemptionis Anno",
+    "es": "Redemptionis Anno: Sobre la ciudad de Jerusalén",
+    "it": "Redemptionis Anno"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1984-04-20",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1984-04-20"
+  },
+  "composed": "1984",
+  "languages": [
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1984/documents/hf_jp-ii_apl_20041984_redemptionis-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1984/documents/hf_jp-ii_apl_20041984_redemptionis-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1984/documents/hf_jp-ii_apl_20041984_redemptionis-anno.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Redemptionis Anno",
+        "es": "Redemptionis Anno: Sobre la ciudad de Jerusalén",
+        "it": "Redemptionis Anno"
+      }
+    }
+  ]
+}

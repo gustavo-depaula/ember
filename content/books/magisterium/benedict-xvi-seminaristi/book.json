@@ -1,0 +1,88 @@
+{
+  "id": "benedict-xvi-seminaristi",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to Seminarians",
+    "pt-BR": "Carta aos Seminaristas",
+    "de": "Schreiben an die Seminaristen",
+    "es": "Carta a los seminaristas",
+    "fr": "Lettre aux Séminaristes",
+    "it": "Lettera ai Seminaristi",
+    "pl": "List do seminarzystów"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XVI · 2010-10-18",
+    "pt-BR": "Carta · Papa Bento XVI · 2010-10-18"
+  },
+  "composed": "2010",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/letters/2010/documents/hf_ben-xvi_let_20101018_seminaristi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/letters/2010/documents/hf_ben-xvi_let_20101018_seminaristi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/letters/2010/documents/hf_ben-xvi_let_20101018_seminaristi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/letters/2010/documents/hf_ben-xvi_let_20101018_seminaristi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/letters/2010/documents/hf_ben-xvi_let_20101018_seminaristi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/letters/2010/documents/hf_ben-xvi_let_20101018_seminaristi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/benedict-xvi/pl/letters/2010/documents/hf_ben-xvi_let_20101018_seminaristi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to Seminarians",
+        "pt-BR": "Carta aos Seminaristas",
+        "de": "Schreiben an die Seminaristen",
+        "es": "Carta a los seminaristas",
+        "fr": "Lettre aux Séminaristes",
+        "it": "Lettera ai Seminaristi",
+        "pl": "List do seminarzystów"
+      }
+    }
+  ]
+}

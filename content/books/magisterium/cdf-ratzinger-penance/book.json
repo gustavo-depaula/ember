@@ -1,0 +1,48 @@
+{
+  "id": "cdf-ratzinger-penance",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Apresentação da Misericordia Dei",
+    "it": "Presentazione della Lettera Apostolica Misericordia Dei - Em.mo Card. Joseph Ratzinger"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2002-05-02",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2002-05-02"
+  },
+  "composed": "2002",
+  "languages": [
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20020502_ratzinger-penance_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20020502_ratzinger-penance_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Apresentação da Misericordia Dei",
+        "it": "Presentazione della Lettera Apostolica Misericordia Dei - Em.mo Card. Joseph Ratzinger"
+      }
+    }
+  ]
+}

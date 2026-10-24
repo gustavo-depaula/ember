@@ -1,0 +1,72 @@
+{
+  "id": "john-xxiii-ad-petri",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad Petri cathedram, Lettera Enciclica sulla conoscenza della verità, restaurazione dell’unità e della pace nella carità, 29 giugno 1959, Giovanni XXIII",
+    "en-US": "Ad Petri Cathedram",
+    "pt-BR": "Ad Petri Cathedram",
+    "es": "Ad Petri Cathedram",
+    "it": "Ad Petri Cathedram"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope John XXIII · 1959-06-29",
+    "pt-BR": "Encíclica · Papa João XXIII · 1959-06-29"
+  },
+  "composed": "1959",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad Petri cathedram, Lettera Enciclica sulla conoscenza della verità, restaurazione dell’unità e della pace nella carità, 29 giugno 1959, Giovanni XXIII",
+        "en-US": "Ad Petri Cathedram",
+        "pt-BR": "Ad Petri Cathedram",
+        "es": "Ad Petri Cathedram",
+        "it": "Ad Petri Cathedram"
+      }
+    }
+  ]
+}

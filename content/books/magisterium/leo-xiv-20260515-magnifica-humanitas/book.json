@@ -1,0 +1,112 @@
+{
+  "id": "leo-xiv-20260515-magnifica-humanitas",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas",
+    "pt-BR": "Carta Encíclica do Santo Padre Leão XIV Magnifica Humanitas",
+    "ar": "رسالة بابويّة عامّة الإنسانيّة الرّائعة MAGNIFICA HUMANITAS لقداسة البابا لاوُن الرّابع عشر، 15 أيّار/مايو 2026",
+    "be": "ЭНЦЫКЛІКА MAGNIFICA HUMANITAS СВЯТОГА АЙЦА ЛЬВА XIV АБ АБАРОНЕ ЧАЛАВЕЧАЙ АСОБЫ Ў ЭПОХУ ШТУЧНАГА ІНТЭЛЕКТУ, 15 мая 2026 года",
+    "de": "Enzyklika von Papst Leo XIV. „Magnifica Humanitas“",
+    "es": "Carta Encíclica de Su Santidad León XIV Magnifica Humanitas",
+    "fr": "Lettre encyclique du Saint-Père Léon XIV Magnifica Humanitas",
+    "it": "Lettera Enciclica \"Magnifica Humanitas\" di Papa Leone XIV sulla custodia della persona umana nel tempo dell’intelligenza artificiale",
+    "pl": "Encyklika Magnifica humanitas Ojca Świętego Leona XIV o trosce o sobę ludzką w dobie sztucznej inteligencji",
+    "ru": "ЭНЦИКЛИКА MAGNIFICA HUMANITAS СВЯТЕЙШЕГО ОТЦА ЛЬВА XIV О ЗАЩИТЕ ЧЕЛОВЕЧЕСКОЙ ЛИЧНОСТИ В ЭПОХУ ИСКУССТВЕННОГО ИНТЕЛЛЕКТА"
+  },
+  "author": {
+    "en-US": "Pope Leo XIV",
+    "pt-BR": "Papa Leão XIV",
+    "la": "Leo PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIV · 2026-05-15",
+    "pt-BR": "Encíclica · Papa Leão XIV · 2026-05-15"
+  },
+  "composed": "2026",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiv/pt/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/leo-xiv/ar/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/leo-xiv/be/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/leo-xiv/de/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiv/es/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiv/fr/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiv/it/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/leo-xiv/pl/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/content/leo-xiv/ru/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas",
+        "pt-BR": "Carta Encíclica do Santo Padre Leão XIV Magnifica Humanitas",
+        "ar": "رسالة بابويّة عامّة الإنسانيّة الرّائعة MAGNIFICA HUMANITAS لقداسة البابا لاوُن الرّابع عشر، 15 أيّار/مايو 2026",
+        "be": "ЭНЦЫКЛІКА MAGNIFICA HUMANITAS СВЯТОГА АЙЦА ЛЬВА XIV АБ АБАРОНЕ ЧАЛАВЕЧАЙ АСОБЫ Ў ЭПОХУ ШТУЧНАГА ІНТЭЛЕКТУ, 15 мая 2026 года",
+        "de": "Enzyklika von Papst Leo XIV. „Magnifica Humanitas“",
+        "es": "Carta Encíclica de Su Santidad León XIV Magnifica Humanitas",
+        "fr": "Lettre encyclique du Saint-Père Léon XIV Magnifica Humanitas",
+        "it": "Lettera Enciclica \"Magnifica Humanitas\" di Papa Leone XIV sulla custodia della persona umana nel tempo dell’intelligenza artificiale",
+        "pl": "Encyklika Magnifica humanitas Ojca Świętego Leona XIV o trosce o sobę ludzką w dobie sztucznej inteligencji",
+        "ru": "ЭНЦИКЛИКА MAGNIFICA HUMANITAS СВЯТЕЙШЕГО ОТЦА ЛЬВА XIV О ЗАЩИТЕ ЧЕЛОВЕЧЕСКОЙ ЛИЧНОСТИ В ЭПОХУ ИСКУССТВЕННОГО ИНТЕЛЛЕКТА"
+      }
+    }
+  ]
+}

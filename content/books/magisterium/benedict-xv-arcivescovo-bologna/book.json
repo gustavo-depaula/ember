@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-arcivescovo-bologna",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Ci gode l'animo all'Arcivescovo di Bologna in occasione della pubblicazione sul \"Travaso\" di una poesia offensiva e anticlericale"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1915-07-08",
+    "pt-BR": "Carta · Papa Bento XV · 1915-07-08"
+  },
+  "composed": "1915",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1915/documents/hf_ben-xv_let_19150708_arcivescovo-bologna.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Ci gode l'animo all'Arcivescovo di Bologna in occasione della pubblicazione sul \"Travaso\" di una poesia offensiva e anticlericale"
+      }
+    }
+  ]
+}

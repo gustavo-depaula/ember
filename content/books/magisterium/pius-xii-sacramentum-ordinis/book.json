@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-sacramentum-ordinis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Sacramentum Ordinis"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1947-11-30",
+    "pt-BR": "Documento · Papa Pio XII · 1947-11-30"
+  },
+  "composed": "1947",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12sacrao.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Sacramentum Ordinis"
+      }
+    }
+  ]
+}

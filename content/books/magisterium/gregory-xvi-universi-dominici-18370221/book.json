@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-universi-dominici-18370221",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Universi dominici"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1837-02-21",
+    "pt-BR": "Breve · Papa Gregório XVI · 1837-02-21"
+  },
+  "composed": "1837",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-universi-dominici-21-febbraio-1837.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Universi dominici"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "cdf-aliis-christianis-defunctis",
+  "cover": "quarter",
+  "name": {
+    "la": "Decretum de Missa publice celebranda in Ecclesia Catholica pro aliis christianis defunctis, d. 11 m. Iunii a. 1976, Congregatio pro Doctrina Fidei",
+    "en-US": "DECREE REGARDING PUBLIC CELEBRATION OF MASS IN THE CATHOLIC CHURCH FOR OTHER CHRISTIANS WHO HAVE DIED",
+    "pt-BR": "Decreto sobre a celebração pública da missa pelos defuntos cristãos não católicos, 11 de junho de 1976",
+    "de": "Dekret über die öffentliche Meßfeier in der katholischen Kirche für verstorbene nichtkatholische Christen, 11. Juni 1976",
+    "es": "Decreto sobre la celebración pública de la misa por difuntos cristianos no católicos, 11 junio 1976",
+    "fr": "Décret sur la célébration publique de la Messe dans l'Église catholique pour d'autres Chrétiens défunts, 11 juin 1976",
+    "it": "Decreto riguardante la S. Messa per i defunti cristiani non cattolici, 11 giugno 1976",
+    "pl": "DEKRET O CELEBRACJI MSZY ŚW. W KOŚCIELE KATOLICKIM ZA INNYCH ZMARŁYCH CHRZEŚCIJAN"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1976-06-11",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1976-06-11"
+  },
+  "composed": "1976",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760611_aliis-christianis-defunctis_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760611_aliis-christianis-defunctis_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760611_aliis-christianis-defunctis_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760611_aliis-christianis-defunctis_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760611_aliis-christianis-defunctis_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760611_aliis-christianis-defunctis_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760611_aliis-christianis-defunctis_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760611_aliis-christianis-defunctis_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decretum de Missa publice celebranda in Ecclesia Catholica pro aliis christianis defunctis, d. 11 m. Iunii a. 1976, Congregatio pro Doctrina Fidei",
+        "en-US": "DECREE REGARDING PUBLIC CELEBRATION OF MASS IN THE CATHOLIC CHURCH FOR OTHER CHRISTIANS WHO HAVE DIED",
+        "pt-BR": "Decreto sobre a celebração pública da missa pelos defuntos cristãos não católicos, 11 de junho de 1976",
+        "de": "Dekret über die öffentliche Meßfeier in der katholischen Kirche für verstorbene nichtkatholische Christen, 11. Juni 1976",
+        "es": "Decreto sobre la celebración pública de la misa por difuntos cristianos no católicos, 11 junio 1976",
+        "fr": "Décret sur la célébration publique de la Messe dans l'Église catholique pour d'autres Chrétiens défunts, 11 juin 1976",
+        "it": "Decreto riguardante la S. Messa per i defunti cristiani non cattolici, 11 giugno 1976",
+        "pl": "DEKRET O CELEBRACJI MSZY ŚW. W KOŚCIELE KATOLICKIM ZA INNYCH ZMARŁYCH CHRZEŚCIJAN"
+      }
+    }
+  ]
+}

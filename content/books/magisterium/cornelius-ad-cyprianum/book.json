@@ -1,0 +1,40 @@
+{
+  "id": "cornelius-ad-cyprianum",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistola ad Cyprianum"
+  },
+  "author": {
+    "en-US": "Pope Cornelius",
+    "pt-BR": "Papa Cornélio",
+    "la": "Cornelius PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Cornelius · 0251",
+    "pt-BR": "Carta · Papa Cornélio · 0251"
+  },
+  "composed": "251",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "cornelius"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0251-0253,_SS_Cornelius,_Epistola_ad_Cyprianum,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistola ad Cyprianum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-quod-ioannes",
+  "cover": "quarter",
+  "name": {
+    "it": "Quod Ioannes con il quale viene dichiarata Beata la venerabile serva di Dio Anna di San Bartolomeo"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Benedict XV · 1917-04-10",
+    "pt-BR": "Breve · Papa Bento XV · 1917-04-10"
+  },
+  "composed": "1917",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/briefs/documents/hf_ben-xv_briefs_19170410_quod-ioannes.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Quod Ioannes con il quale viene dichiarata Beata la venerabile serva di Dio Anna di San Bartolomeo"
+      }
+    }
+  ]
+}

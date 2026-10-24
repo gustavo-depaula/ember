@@ -1,0 +1,48 @@
+{
+  "id": "pius-x-istruzione-cristiana",
+  "cover": "quarter",
+  "name": {
+    "la": "Inter multa et gravia munera",
+    "it": "Fra i molti e gravi uffici"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius X · 1905-01-12",
+    "pt-BR": "Carta · Papa Pio X · 1905-01-12"
+  },
+  "composed": "1905",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-x/la/letters/documents/hf_p-x_let_19050112_istruzione-cristiana.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/letters/documents/hf_p-x_let_19050112_istruzione-cristiana.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Inter multa et gravia munera",
+        "it": "Fra i molti e gravi uffici"
+      }
+    }
+  ]
+}

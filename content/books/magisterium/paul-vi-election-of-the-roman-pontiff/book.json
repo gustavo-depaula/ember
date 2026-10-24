@@ -1,0 +1,39 @@
+{
+  "id": "paul-vi-election-of-the-roman-pontiff",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Election Of The Roman Pontiff"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Document · Pope Paul VI",
+    "pt-BR": "Documento · Papa Paulo VI"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/paul06/p6elect.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Election Of The Roman Pontiff"
+      }
+    }
+  ]
+}

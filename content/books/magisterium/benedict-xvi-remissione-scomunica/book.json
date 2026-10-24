@@ -1,0 +1,96 @@
+{
+  "id": "benedict-xvi-remissione-scomunica",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Bishops of the Catholic Church concerning the remission of the excommunication of the four Bishops consecrated by Archbishop Lefebvre",
+    "pt-BR": "Carta aos Bispos da Igreja Católica a propósito da remissão da excomunhão aos 4 Bispos consagrados pelo Arcebispo Lefebvre",
+    "de": "Botschaft an die Bischöfe der katholischen Kirche bezüglich der Aufhebung der Exkommunikation der vier von Erzbischof Lefebvre geweihten Bischöfe",
+    "es": "Carta a los obispos de la Iglesia Católica sobre la remisión de la excomunión de los cuatro obispos consagrados por el Arzobispo Lefebvre",
+    "fr": "Lettre aux évêques de l'Église Catholique au sujet de la levée de l’excommunication des quatre évêques consacrés par Mgr Lefebvre",
+    "hr": "PISMO PAPE BENEDIKTA XVI. BISKUPIMA KATOLIČKE CRKVE O UKIDANJU EKSKOMUNIKACIJE ČETVORICI BISKUPA KOJE JE ZAREDIO BISKUP LEFEBVRE",
+    "it": "Lettera ai Vescovi della Chiesa Cattolica riguardo alla remissione della scomunica dei 4 vescovi consacrati dall'Arcivescovo Lefebvre",
+    "nl": "BRIEF VAN ZIJNE HEILIGHEID PAUS BENEDICTUS XVI AAN DE BISSCHOPPEN VAN DE KATHOLIEKE KERK BETREFFENDE DE OPHEFFING VAN DE EXCOMMUNICATIE VAN DE 4 DOOR AARTSBISSCHOP LEFEBVRE GEWIJDE BISSCHOPPEN"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XVI · 2009-03-10",
+    "pt-BR": "Carta · Papa Bento XVI · 2009-03-10"
+  },
+  "composed": "2009",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "nl"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/benedict-xvi/hr/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/content/benedict-xvi/nl/letters/2009/documents/hf_ben-xvi_let_20090310_remissione-scomunica.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Bishops of the Catholic Church concerning the remission of the excommunication of the four Bishops consecrated by Archbishop Lefebvre",
+        "pt-BR": "Carta aos Bispos da Igreja Católica a propósito da remissão da excomunhão aos 4 Bispos consagrados pelo Arcebispo Lefebvre",
+        "de": "Botschaft an die Bischöfe der katholischen Kirche bezüglich der Aufhebung der Exkommunikation der vier von Erzbischof Lefebvre geweihten Bischöfe",
+        "es": "Carta a los obispos de la Iglesia Católica sobre la remisión de la excomunión de los cuatro obispos consagrados por el Arzobispo Lefebvre",
+        "fr": "Lettre aux évêques de l'Église Catholique au sujet de la levée de l’excommunication des quatre évêques consacrés par Mgr Lefebvre",
+        "hr": "PISMO PAPE BENEDIKTA XVI. BISKUPIMA KATOLIČKE CRKVE O UKIDANJU EKSKOMUNIKACIJE ČETVORICI BISKUPA KOJE JE ZAREDIO BISKUP LEFEBVRE",
+        "it": "Lettera ai Vescovi della Chiesa Cattolica riguardo alla remissione della scomunica dei 4 vescovi consacrati dall'Arcivescovo Lefebvre",
+        "nl": "BRIEF VAN ZIJNE HEILIGHEID PAUS BENEDICTUS XVI AAN DE BISSCHOPPEN VAN DE KATHOLIEKE KERK BETREFFENDE DE OPHEFFING VAN DE EXCOMMUNICATIE VAN DE 4 DOOR AARTSBISSCHOP LEFEBVRE GEWIJDE BISSCHOPPEN"
+      }
+    }
+  ]
+}

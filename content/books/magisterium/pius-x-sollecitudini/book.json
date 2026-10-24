@@ -1,0 +1,72 @@
+{
+  "id": "pius-x-sollecitudini",
+  "cover": "quarter",
+  "name": {
+    "la": "Inter plurimas pastoralis officii sollicitudines",
+    "en-US": "Tra Le Sollecitudini",
+    "pt-BR": "Tra le sollecitudini",
+    "es": "Tra le sollecitudini",
+    "it": "Tra le sollecitudini"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius X · 1903-11-22",
+    "pt-BR": "Motu Proprio · Papa Pio X · 1903-11-22"
+  },
+  "composed": "1903",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-x/la/motu_proprio/documents/hf_p-x_motu-proprio_19031122_sollecitudini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius10/tra-le-sollecitudini.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-x/pt/motu_proprio/documents/hf_p-x_motu-proprio_19031122_sollecitudini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-x/es/motu_proprio/documents/hf_p-x_motu-proprio_19031122_sollecitudini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/motu_proprio/documents/hf_p-x_motu-proprio_19031122_sollecitudini.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Inter plurimas pastoralis officii sollicitudines",
+        "en-US": "Tra Le Sollecitudini",
+        "pt-BR": "Tra le sollecitudini",
+        "es": "Tra le sollecitudini",
+        "it": "Tra le sollecitudini"
+      }
+    }
+  ]
+}

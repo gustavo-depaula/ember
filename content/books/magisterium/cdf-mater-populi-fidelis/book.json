@@ -1,0 +1,96 @@
+{
+  "id": "cdf-mater-populi-fidelis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Mater Populi fidelis - Doctrinal Note on Some Marian Titles Regarding Mary’s Cooperation in the Work of Salvation",
+    "pt-BR": "Mater Populi fidelis - Nota doutrinal sobre alguns títulos marianos referidos à cooperação de Maria na obra da Salvação",
+    "be": "Mater Populi fidelis - Дактрынальная Нота адносна некаторых Марыйных тытулаў, яія тычацца супрацоўніцтва Марыі ў справе збаўлення",
+    "de": "Mater Populi fidelis - Lehrmäßige Note zu einigen marianischen Titeln, die sich auf das Mitwirken Marias am Heilswerk beziehen",
+    "es": "Mater Populi fidelis - Nota doctrinal sobre algunos títulos marianos referidos a la cooperación de María en la obra de la salvación",
+    "fr": "Mater Populi fidelis - Nota dottrinale su alcuni titoli mariani riferiti alla cooperazione di Maria all’opera della salvezza",
+    "it": "Mater Populi fidelis - Nota dottrinale su alcuni titoli mariani riferiti alla cooperazione di Maria all’opera della salvezza",
+    "pl": "Mater Populi fidelis - Nota doktrynalna dotycząca niektórych tytułów maryjnych odnoszących się do współpracy Maryi w dziele zbawienia"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2025-11-04",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2025-11-04"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_be.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251104_mater-populi-fidelis_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Mater Populi fidelis - Doctrinal Note on Some Marian Titles Regarding Mary’s Cooperation in the Work of Salvation",
+        "pt-BR": "Mater Populi fidelis - Nota doutrinal sobre alguns títulos marianos referidos à cooperação de Maria na obra da Salvação",
+        "be": "Mater Populi fidelis - Дактрынальная Нота адносна некаторых Марыйных тытулаў, яія тычацца супрацоўніцтва Марыі ў справе збаўлення",
+        "de": "Mater Populi fidelis - Lehrmäßige Note zu einigen marianischen Titeln, die sich auf das Mitwirken Marias am Heilswerk beziehen",
+        "es": "Mater Populi fidelis - Nota doctrinal sobre algunos títulos marianos referidos a la cooperación de María en la obra de la salvación",
+        "fr": "Mater Populi fidelis - Nota dottrinale su alcuni titoli mariani riferiti alla cooperazione di Maria all’opera della salvezza",
+        "it": "Mater Populi fidelis - Nota dottrinale su alcuni titoli mariani riferiti alla cooperazione di Maria all’opera della salvezza",
+        "pl": "Mater Populi fidelis - Nota doktrynalna dotycząca niektórych tytułów maryjnych odnoszących się do współpracy Maryi w dziele zbawienia"
+      }
+    }
+  ]
+}

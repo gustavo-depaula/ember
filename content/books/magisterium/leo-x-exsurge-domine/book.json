@@ -1,0 +1,56 @@
+{
+  "id": "leo-x-exsurge-domine",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Exsurge Domine",
+    "pt-BR": "Exsurge Domine",
+    "it": "Exsurge Domine"
+  },
+  "author": {
+    "en-US": "Pope Leo X",
+    "pt-BR": "Papa Leão X",
+    "la": "Leo PP. X"
+  },
+  "description": {
+    "en-US": "Bull · Pope Leo X · 1520-06-15",
+    "pt-BR": "Bula · Papa Leão X · 1520-06-15"
+  },
+  "composed": "1520",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "leo-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo10/l10exdom.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/exsurge-domine-leao-x-15-06-1520/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1520-06-15,_SS_Leo_X,_Exurge_Domine,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Exsurge Domine",
+        "pt-BR": "Exsurge Domine",
+        "it": "Exsurge Domine"
+      }
+    }
+  ]
+}

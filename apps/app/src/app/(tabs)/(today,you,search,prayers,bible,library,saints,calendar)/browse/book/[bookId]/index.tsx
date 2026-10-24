@@ -16,7 +16,6 @@ import { BookHero } from '@/features/books/BookHero'
 import { useBookManifest } from '@/features/books/hooks'
 import {
   ancestorGroupIds,
-  bookLang,
   buildCompletedLeafIndex,
   buildLeafCountIndex,
   buildTitleLookup,
@@ -27,6 +26,7 @@ import {
   hasNestedSections,
   localizedTitle,
 } from '@/features/books/reader/bookContent'
+import { useBookLang } from '@/features/books/reader/bookLanguage'
 import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
 import { loadChapterMinutes } from '@/features/books/reader/chapterTimings'
 import { ReaderTocSheet } from '@/features/books/reader/ReaderTocSheet'
@@ -42,7 +42,6 @@ import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
 import { localizeContent } from '@/lib/i18n'
 import { pageGutter } from '@/lib/layout'
 import { formatSoftRelative } from '@/lib/softRelative'
-import { usePreferencesStore } from '@/stores/preferencesStore'
 
 function formatMinutes(minutes: number): string {
   if (minutes < 60) return `${minutes} min`
@@ -58,7 +57,6 @@ export default function BookDetailScreen() {
   const insets = useSafeAreaInsets()
   const router = useRouter()
   const bottomClearance = useBottomClearance()
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const background = theme.background?.val ?? '#000000'
 
   // With room for it the cover and its actions hold the left while the
@@ -81,24 +79,18 @@ export default function BookDetailScreen() {
   // and languages meanwhile.
   const { data: book, entry } = useBookManifest(bookId)
 
-  const lang = useMemo(
-    () => bookLang(book?.languages ?? entry?.langs ?? [], contentLanguage),
-    [book?.languages, entry?.langs, contentLanguage],
-  )
-
-  const { flow: leaves, readableIds } = useReadingFlow(book, lang)
+  const lang = useBookLang(bookId, book?.languages ?? entry?.langs ?? [])
+  // Chapters that exist only in another language drop out of this one's contents.
+  const { toc, flow: leaves, readableIds } = useReadingFlow(book, lang)
   const titleLookup = useMemo(
-    () => (book?.toc ? buildTitleLookup(book.toc, lang) : new Map<string, string>()),
-    [book?.toc, lang],
+    () => (toc ? buildTitleLookup(toc, lang) : new Map<string, string>()),
+    [toc, lang],
   )
   // 200 nodes is roughly the boundary where eager-rendering one
   // Pressable+ZoomLink per node still feels snappy; beyond that the
   // frontispiece collapses to a compact top-level view + a tap-to-open
   // virtualized sheet (Catholic Encyclopedia is 12k+ nodes).
-  const tocTooLarge = useMemo(
-    () => (book?.toc ? countTocNodes(book.toc) > 200 : false),
-    [book?.toc],
-  )
+  const tocTooLarge = useMemo(() => (toc ? countTocNodes(toc) > 200 : false), [toc])
 
   const completed = useMemo(
     () => (bookId ? listCompletedChapters(bookId) : new Set<string>()),
@@ -129,17 +121,12 @@ export default function BookDetailScreen() {
   const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set())
   const seededExpand = useRef(false)
   useEffect(() => {
-    if (seededExpand.current || !book?.toc) return
+    if (seededExpand.current || !toc) return
     seededExpand.current = true
-    setExpandedIds(
-      tocTooLarge ? ancestorGroupIds(book.toc, resumeChapterId) : collectAllSectionIds(book.toc),
-    )
-  }, [book?.toc, tocTooLarge, resumeChapterId])
+    setExpandedIds(tocTooLarge ? ancestorGroupIds(toc, resumeChapterId) : collectAllSectionIds(toc))
+  }, [toc, tocTooLarge, resumeChapterId])
 
-  const flatToc = useMemo(
-    () => (book?.toc ? flattenToc(book.toc, expandedIds) : []),
-    [book?.toc, expandedIds],
-  )
+  const flatToc = useMemo(() => (toc ? flattenToc(toc, expandedIds) : []), [toc, expandedIds])
   const toggleTocExpand = useCallback((id: string) => {
     setExpandedIds((prev) => {
       const next = new Set(prev)
@@ -149,24 +136,24 @@ export default function BookDetailScreen() {
     })
   }, [])
   const expandAllToc = useCallback(() => {
-    if (book?.toc) setExpandedIds(collectAllSectionIds(book.toc))
-  }, [book?.toc])
+    if (toc) setExpandedIds(collectAllSectionIds(toc))
+  }, [toc])
   const collapseAllToc = useCallback(() => setExpandedIds(new Set()), [])
   const showTocExpandControls = useMemo(
-    () => (book?.toc ? hasNestedSections(book.toc) || tocTooLarge : false),
-    [book?.toc, tocTooLarge],
+    () => (toc ? hasNestedSections(toc) || tocTooLarge : false),
+    [toc, tocTooLarge],
   )
 
   // Leaf totals (and finished counts) for every group row, walked once instead
   // of recursing per row on each scroll frame — the Encyclopedia's letters span
   // ~1,300 chapters each.
   const tocLeafCounts = useMemo(
-    () => (book?.toc ? buildLeafCountIndex(book.toc) : new Map<string, number>()),
-    [book?.toc],
+    () => (toc ? buildLeafCountIndex(toc) : new Map<string, number>()),
+    [toc],
   )
   const tocCompletedCounts = useMemo(
-    () => (book?.toc ? buildCompletedLeafIndex(book.toc, completed) : new Map<string, number>()),
-    [book?.toc, completed],
+    () => (toc ? buildCompletedLeafIndex(toc, completed) : new Map<string, number>()),
+    [toc, completed],
   )
 
   if (!entry) {
@@ -197,7 +184,7 @@ export default function BookDetailScreen() {
     params: chapter ? { bookId, chapter } : { bookId },
   })
 
-  const hasToc = !!book?.toc && book.toc.length > 0
+  const hasToc = !!toc && toc.length > 0
 
   const hero = (
     <BookHero
@@ -391,11 +378,11 @@ export default function BookDetailScreen() {
         onClose={() => setAddingToCollection(false)}
       />
 
-      {book?.toc ? (
+      {toc ? (
         <ReaderTocSheet
           open={browsingToc}
           onClose={() => setBrowsingToc(false)}
-          toc={book.toc}
+          toc={toc}
           readableIds={readableIds}
           currentChapterId={resumeChapterId}
           completedChapterIds={completed}

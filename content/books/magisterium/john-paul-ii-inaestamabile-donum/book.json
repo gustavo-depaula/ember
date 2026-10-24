@@ -1,0 +1,39 @@
+{
+  "id": "john-paul-ii-inaestamabile-donum",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Inaestamabile Donum"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope John Paul II",
+    "pt-BR": "Documento · Papa João Paulo II"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/paul06/jp2inaest.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Inaestamabile Donum"
+      }
+    }
+  ]
+}

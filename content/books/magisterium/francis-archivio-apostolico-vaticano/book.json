@@ -1,0 +1,56 @@
+{
+  "id": "francis-archivio-apostolico-vaticano",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter in the form of Motu Proprio of the Supreme Pontiff Francis \"L'esperienza storica\", for the change of the name of the Vatican Secret Archive to the Vatican Apostolic Archive",
+    "pt-BR": "Carta Apostólica sob forma de Motu Proprio para a mudança da denominação de \"Arquivo Secreto Vaticano\" para \"Arquivo Apostólico Vaticano\"",
+    "it": "Lettera Apostolica in forma di Motu Proprio per il cambiamento della denominazione da Archivio Segreto Vaticano ad Archivio Apostolico Vaticano"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2019-10-22",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2019-10-22"
+  },
+  "composed": "2019",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20191022_archivio-apostolico-vaticano.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20191022_archivio-apostolico-vaticano.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20191022_archivio-apostolico-vaticano.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter in the form of Motu Proprio of the Supreme Pontiff Francis \"L'esperienza storica\", for the change of the name of the Vatican Secret Archive to the Vatican Apostolic Archive",
+        "pt-BR": "Carta Apostólica sob forma de Motu Proprio para a mudança da denominação de \"Arquivo Secreto Vaticano\" para \"Arquivo Apostólico Vaticano\"",
+        "it": "Lettera Apostolica in forma di Motu Proprio per il cambiamento della denominazione da Archivio Segreto Vaticano ad Archivio Apostolico Vaticano"
+      }
+    }
+  ]
+}

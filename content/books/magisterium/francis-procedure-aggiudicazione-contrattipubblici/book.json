@@ -1,0 +1,64 @@
+{
+  "id": "francis-procedure-aggiudicazione-contrattipubblici",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter in the form of \"Motu Proprio\" on transparency, control and competition in the procedures for awarding public contracts of the Holy See and Vatican City State",
+    "pt-BR": "Carta Apostólica em forma de \"Motu Proprio\" sobre a transparência, o controle e a concorrência nos procedimentos de adjudicação de contratos públicos da Santa Sé e do Estado da Cidade do Vaticano",
+    "es": "Carta apostólica en forma de Motu Proprio sobre la transparencia, control y competencia en los procedimientos de adjudicación de los contratos públicos de la Santa Sede y del Estado de la Ciudad del Vaticano",
+    "it": "Norme e Tutela giurisdizionale sulla trasparenza, il controllo e la concorrenza nelle procedure di aggiudicazione dei contratti pubblici della Santa Sede e dello Stato della Città del Vaticano"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2020-05-19",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2020-05-19"
+  },
+  "composed": "2020",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20200519_procedure-aggiudicazione-contrattipubblici.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20200519_procedure-aggiudicazione-contrattipubblici.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20200519_procedure-aggiudicazione-contrattipubblici.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-20200519_procedure-aggiudicazione-contrattipubblici.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter in the form of \"Motu Proprio\" on transparency, control and competition in the procedures for awarding public contracts of the Holy See and Vatican City State",
+        "pt-BR": "Carta Apostólica em forma de \"Motu Proprio\" sobre a transparência, o controle e a concorrência nos procedimentos de adjudicação de contratos públicos da Santa Sé e do Estado da Cidade do Vaticano",
+        "es": "Carta apostólica en forma de Motu Proprio sobre la transparencia, control y competencia en los procedimientos de adjudicación de los contratos públicos de la Santa Sede y del Estado de la Ciudad del Vaticano",
+        "it": "Norme e Tutela giurisdizionale sulla trasparenza, il controllo e la concorrenza nelle procedure di aggiudicazione dei contratti pubblici della Santa Sede e dello Stato della Città del Vaticano"
+      }
+    }
+  ]
+}

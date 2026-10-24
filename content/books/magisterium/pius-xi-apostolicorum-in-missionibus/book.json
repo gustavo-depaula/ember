@@ -1,0 +1,39 @@
+{
+  "id": "pius-xi-apostolicorum-in-missionibus",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolicorum in Missionibus"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XI",
+    "pt-BR": "Documento · Papa Pio XI"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius11/p11apost.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolicorum in Missionibus"
+      }
+    }
+  ]
+}

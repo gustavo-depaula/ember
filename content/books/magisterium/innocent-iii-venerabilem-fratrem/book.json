@@ -1,0 +1,40 @@
+{
+  "id": "innocent-iii-venerabilem-fratrem",
+  "cover": "quarter",
+  "name": {
+    "it": "Venerabilem Fratrem"
+  },
+  "author": {
+    "en-US": "Pope Innocent III",
+    "pt-BR": "Papa Inocêncio III",
+    "la": "Innocentius PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent III · 1201-03-01",
+    "pt-BR": "Documento · Papa Inocêncio III · 1201-03-01"
+  },
+  "composed": "1201",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-iii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1201-03-01,_SS_Innocentius_III,_Venerabilem_Fratrem,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Venerabilem Fratrem"
+      }
+    }
+  ]
+}

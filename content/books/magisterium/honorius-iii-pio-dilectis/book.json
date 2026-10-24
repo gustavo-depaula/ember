@@ -1,0 +1,40 @@
+{
+  "id": "honorius-iii-pio-dilectis",
+  "cover": "quarter",
+  "name": {
+    "es": "Pio Dilectis"
+  },
+  "author": {
+    "en-US": "Pope Honorius III",
+    "pt-BR": "Papa Honório III",
+    "la": "Honorius PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Honorius III · 1220-05-29",
+    "pt-BR": "Documento · Papa Honório III · 1220-05-29"
+  },
+  "composed": "1220",
+  "languages": [
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "honorius-iii"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1220-05-29,_SS_Honorius_III,_Pio_Dilectis,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Pio Dilectis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "francis-sanctuarium-in-ecclesia",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued Motu Proprio by the Supreme Pontiff Francis transferring competences for Shrines to the Pontifical Council for the Promotion of the New Evangelization",
+    "pt-BR": "Carta Apostólica sob forma de Motu Proprio Sanctuarium in Ecclesia para a transferência das Competências sobre os Santuários ao Pontifício Conselho para a Promoção da Nova Evangelização",
+    "de": "Apostolisches Schreiben in Form eines Motu Proprio Sanctuarium in Ecclesia, mit dem dem Päpstlichen Rat zur Förderung der Neuevangelisierung die Zuständigkeit für die Heiligtümer übertragen wird",
+    "fr": "Lettre apostolique en forme de Motu Proprio Sanctuarium in Ecclesia avec laquelle les compétences sur les Sanctuaires sont transférées au Conseil pontifical pour la promotion de la nouvelle évangélisation",
+    "it": "Lettera Apostolica in forma di Motu Proprio Sanctuarium in Ecclesia con la quale si trasferiscono le competenze sui Santuari al Pontificio Consiglio per la Promozione della Nuova Evangelizzazione"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2017-02-11",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2017-02-11"
+  },
+  "composed": "2017",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20170211_sanctuarium-in-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco-lettera-ap_20170211_sanctuarium-in-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_letters/documents/papa-francesco-lettera-ap_20170211_sanctuarium-in-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20170211_sanctuarium-in-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco-lettera-ap_20170211_sanctuarium-in-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued Motu Proprio by the Supreme Pontiff Francis transferring competences for Shrines to the Pontifical Council for the Promotion of the New Evangelization",
+        "pt-BR": "Carta Apostólica sob forma de Motu Proprio Sanctuarium in Ecclesia para a transferência das Competências sobre os Santuários ao Pontifício Conselho para a Promoção da Nova Evangelização",
+        "de": "Apostolisches Schreiben in Form eines Motu Proprio Sanctuarium in Ecclesia, mit dem dem Päpstlichen Rat zur Förderung der Neuevangelisierung die Zuständigkeit für die Heiligtümer übertragen wird",
+        "fr": "Lettre apostolique en forme de Motu Proprio Sanctuarium in Ecclesia avec laquelle les compétences sur les Sanctuaires sont transférées au Conseil pontifical pour la promotion de la nouvelle évangélisation",
+        "it": "Lettera Apostolica in forma di Motu Proprio Sanctuarium in Ecclesia con la quale si trasferiscono le competenze sui Santuari al Pontificio Consiglio per la Promozione della Nuova Evangelizzazione"
+      }
+    }
+  ]
+}

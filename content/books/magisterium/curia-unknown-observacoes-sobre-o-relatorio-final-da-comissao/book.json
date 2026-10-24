@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-observacoes-sobre-o-relatorio-final-da-comissao",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Observações sobre o relatório final da Comissão Internacional Anglicana – Católico-Romana"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1982-03-27",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1982-03-27"
+  },
+  "composed": "1982",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/observacoes-sobre-o-relatorio-final-da-comissao-internacional-anglicana-catolico-romana-arcic-27-03-1982/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Observações sobre o relatório final da Comissão Internacional Anglicana – Católico-Romana"
+      }
+    }
+  ]
+}

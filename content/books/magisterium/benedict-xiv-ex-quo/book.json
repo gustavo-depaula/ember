@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-ex-quo",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Ex Quo",
+    "it": "Ex Quo"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Document · Pope Benedict XIV · 1756-03-01",
+    "pt-BR": "Documento · Papa Bento XIV · 1756-03-01"
+  },
+  "composed": "1756",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/b14exquo.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1756-03-01,_SS_Benedictus_XIV,_Ex_Quo_Primum,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Ex Quo",
+        "it": "Ex Quo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-ubi-novam",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Ubi novam"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory XVI · 1843-11-08",
+    "pt-BR": "Carta · Papa Gregório XVI · 1843-11-08"
+  },
+  "composed": "1843",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/epistola-ubi-novam-8-novembre-1843.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Ubi novam"
+      }
+    }
+  ]
+}

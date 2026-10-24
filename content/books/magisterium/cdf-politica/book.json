@@ -1,0 +1,88 @@
+{
+  "id": "cdf-politica",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Nota doutrinal sobre algumas questões relativas à participação e comportamento dos católicos na vida política",
+    "de": "Lehrmäßige Note zu einigen Fragen über den Einsatz und das Verhalten der Katholiken im politischen Leben",
+    "es": "Nota sobre el compromiso de los católicos en política",
+    "fr": "Note doctrinale concernant certaines questions sur l’engagement et le comportement des catholiques dans la vie politique",
+    "hu": "A Hittani Kongregáció dokumentuma – 2003. január 16.",
+    "it": "Nota circa l'impegno dei cattolici nella vita politica",
+    "pl": "Nota doktrynalna o niektórych aspektach działalności i postępowania katolików w życiu politycznym"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2002-11-24",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2002-11-24"
+  },
+  "composed": "2002",
+  "languages": [
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20021124_politica_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20021124_politica_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20021124_politica_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20021124_politica_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20021124_politica_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20021124_politica_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20021124_politica_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Nota doutrinal sobre algumas questões relativas à participação e comportamento dos católicos na vida política",
+        "de": "Lehrmäßige Note zu einigen Fragen über den Einsatz und das Verhalten der Katholiken im politischen Leben",
+        "es": "Nota sobre el compromiso de los católicos en política",
+        "fr": "Note doctrinale concernant certaines questions sur l’engagement et le comportement des catholiques dans la vie politique",
+        "hu": "A Hittani Kongregáció dokumentuma – 2003. január 16.",
+        "it": "Nota circa l'impegno dei cattolici nella vita politica",
+        "pl": "Nota doktrynalna o niektórych aspektach działalności i postępowania katolików w życiu politycznym"
+      }
+    }
+  ]
+}

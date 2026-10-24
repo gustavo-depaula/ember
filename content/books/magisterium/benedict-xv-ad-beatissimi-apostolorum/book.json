@@ -1,0 +1,64 @@
+{
+  "id": "benedict-xv-ad-beatissimi-apostolorum",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad beatissimi apostolorum, Litterae Encyclicae, d. 1 m. Novembris a. 1914, Benedicti PP. XV",
+    "en-US": "Ad Beatissimi Apostolorum",
+    "fr": "Ad Beatissimi Apostolorum",
+    "it": "Ad Beatissimi Apostolorum"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XV · 1914-11-01",
+    "pt-BR": "Encíclica · Papa Bento XV · 1914-11-01"
+  },
+  "composed": "1914",
+  "languages": [
+    "la",
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xv/fr/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_01111914_ad-beatissimi-apostolorum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad beatissimi apostolorum, Litterae Encyclicae, d. 1 m. Novembris a. 1914, Benedicti PP. XV",
+        "en-US": "Ad Beatissimi Apostolorum",
+        "fr": "Ad Beatissimi Apostolorum",
+        "it": "Ad Beatissimi Apostolorum"
+      }
+    }
+  ]
+}

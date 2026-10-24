@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-etsi-nos",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Etsi Nos",
+    "it": "Etsi Nos"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1882-02-15",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1882-02-15"
+  },
+  "composed": "1882",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15021882_etsi-nos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_15021882_etsi-nos.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Etsi Nos",
+        "it": "Etsi Nos"
+      }
+    }
+  ]
+}

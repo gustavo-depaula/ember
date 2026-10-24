@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-quandoquidem-in-iis",
+  "cover": "quarter",
+  "name": {
+    "la": "Quandoquidem in iis, Motu proprio, Quaenam indulgentiarum concessiones S. Congregationi S. Officii sint exhibendae, d. 16 m. Septembris a. 1915, Benedictus PP. XV",
+    "it": "Quandoquidem in iis con il quale si ribadisce che dovranno essere sottoposti all’esame della Suprema Congregazione del Santo Ufficio soltanto i documenti relativi alle Indulgenze che siano concesse ai fedeli di tutto il mondo cattolico"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XV · 1915-09-16",
+    "pt-BR": "Motu Proprio · Papa Bento XV · 1915-09-16"
+  },
+  "composed": "1915",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19150916_quandoquidem-in-iis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19150916_quandoquidem-in-iis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quandoquidem in iis, Motu proprio, Quaenam indulgentiarum concessiones S. Congregationi S. Officii sint exhibendae, d. 16 m. Septembris a. 1915, Benedictus PP. XV",
+        "it": "Quandoquidem in iis con il quale si ribadisce che dovranno essere sottoposti all’esame della Suprema Congregazione del Santo Ufficio soltanto i documenti relativi alle Indulgenze che siano concesse ai fedeli di tutto il mondo cattolico"
+      }
+    }
+  ]
+}

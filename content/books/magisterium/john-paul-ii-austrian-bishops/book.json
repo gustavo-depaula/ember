@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-austrian-bishops",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Sexualidade humana: verdade e significado",
+    "fr": "Lettre aux évêques d'Autriche",
+    "it": "All'Episcopato in Austria"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1995-12-08",
+    "pt-BR": "Carta · Papa João Paulo II · 1995-12-08"
+  },
+  "composed": "1995",
+  "languages": [
+    "pt-BR",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sexualidade-humana-verdade-e-significado-08-12-1995/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/letters/1995/documents/hf_jp-ii_let_08121995_austrian-bishops.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1995/documents/hf_jp-ii_let_08121995_austrian-bishops.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Sexualidade humana: verdade e significado",
+        "fr": "Lettre aux évêques d'Autriche",
+        "it": "All'Episcopato in Austria"
+      }
+    }
+  ]
+}

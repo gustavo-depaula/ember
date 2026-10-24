@@ -1,0 +1,64 @@
+{
+  "id": "francis-prevenzione-contrasto",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter Issued Motu Proprio for the countering of money laundering, the financing of terrorism and the proliferation of weapons of mass destruction",
+    "pt-BR": "Carta Apostólica em forma de «Motu Proprio» sobre a prevenção e combate à lavagem de dinheiro, ao financiamento do terrorismo e à proliferação de armas de destruição de massa",
+    "fr": "Lettre apostolique en forme de Motu Proprio pour la prévention et la lutte contre le blanchiment, le financement du terrorisme et la prolifération d'armes de destruction massive",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» per la prevenzione ed il contrasto del riciclaggio, del finanziamento del terrorismo e della proliferazione di armi di distruzione di massa"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2013-08-08",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2013-08-08"
+  },
+  "composed": "2013",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20130808_prevenzione-contrasto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20130808_prevenzione-contrasto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20130808_prevenzione-contrasto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20130808_prevenzione-contrasto.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter Issued Motu Proprio for the countering of money laundering, the financing of terrorism and the proliferation of weapons of mass destruction",
+        "pt-BR": "Carta Apostólica em forma de «Motu Proprio» sobre a prevenção e combate à lavagem de dinheiro, ao financiamento do terrorismo e à proliferação de armas de destruição de massa",
+        "fr": "Lettre apostolique en forme de Motu Proprio pour la prévention et la lutte contre le blanchiment, le financement du terrorisme et la prolifération d'armes de destruction massive",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» per la prevenzione ed il contrasto del riciclaggio, del finanziamento del terrorismo e della proliferazione di armi di distruzione di massa"
+      }
+    }
+  ]
+}

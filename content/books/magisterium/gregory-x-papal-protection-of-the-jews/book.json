@@ -1,0 +1,39 @@
+{
+  "id": "gregory-x-papal-protection-of-the-jews",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Papal Protection of the Jews"
+  },
+  "author": {
+    "en-US": "Pope Gregory X",
+    "pt-BR": "Papa Gregório X",
+    "la": "Gregorius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory X",
+    "pt-BR": "Documento · Papa Gregório X"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/greg10/g10jprot.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Papal Protection of the Jews"
+      }
+    }
+  ]
+}

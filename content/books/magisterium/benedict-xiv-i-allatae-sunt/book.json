@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-i-allatae-sunt",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Allatae Sunt",
+    "it": "Enciclica Allatae Sunt"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV · 1755-07-26",
+    "pt-BR": "Encíclica · Papa Bento XIV · 1755-07-26"
+  },
+  "composed": "1755",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/b14allat.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-allatae-sunt--i---26-luglio-1755--in-questa-encicli.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Allatae Sunt",
+        "it": "Enciclica Allatae Sunt"
+      }
+    }
+  ]
+}

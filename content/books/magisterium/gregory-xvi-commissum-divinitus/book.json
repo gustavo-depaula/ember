@@ -1,0 +1,48 @@
+{
+  "id": "gregory-xvi-commissum-divinitus",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Commissum Divinitus",
+    "it": "Enciclica Commissum divinitus"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Gregory XVI · 1835-05-17",
+    "pt-BR": "Encíclica · Papa Gregório XVI · 1835-05-17"
+  },
+  "composed": "1835",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/greg16/g16commi.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/enciclica-commissum-divinitus-17-maggio-1835.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Commissum Divinitus",
+        "it": "Enciclica Commissum divinitus"
+      }
+    }
+  ]
+}

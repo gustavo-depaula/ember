@@ -1,0 +1,96 @@
+{
+  "id": "cdf-risposte-usa",
+  "cover": "quarter",
+  "name": {
+    "la": "Responsa ad quaestiones propositas circa cibum et potum artificialiter praebenda",
+    "en-US": "Responses to Certain Questions Concerning Artificial Nutrition and Hydration",
+    "pt-BR": "Perguntas e respostas da Conferência Episcopal dos Estados Unidos",
+    "de": "Antworten auf Fragen bezüglich der künstlichen Ernährung und Wasserversorgung",
+    "es": "Sobre la alimentación e hidratación artificiales",
+    "fr": "Réponse aux questions concernant l'alimentation et l'hydratation artificielles",
+    "it": "Risposte a quesiti circa l'alimentazione e l'idratazione artificiali",
+    "pl": "ODPOWIEDZI NA PYTANIA DOTYCZĄCE SZTUCZNEGO ODŻYWIANIA I NAWADNIANIA"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2007-08-01",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2007-08-01"
+  },
+  "composed": "2007",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_risposte-usa_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_risposte-usa_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_risposte-usa_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_risposte-usa_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_risposte-usa_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_risposte-usa_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_risposte-usa_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_risposte-usa_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Responsa ad quaestiones propositas circa cibum et potum artificialiter praebenda",
+        "en-US": "Responses to Certain Questions Concerning Artificial Nutrition and Hydration",
+        "pt-BR": "Perguntas e respostas da Conferência Episcopal dos Estados Unidos",
+        "de": "Antworten auf Fragen bezüglich der künstlichen Ernährung und Wasserversorgung",
+        "es": "Sobre la alimentación e hidratación artificiales",
+        "fr": "Réponse aux questions concernant l'alimentation et l'hydratation artificielles",
+        "it": "Risposte a quesiti circa l'alimentazione e l'idratazione artificiali",
+        "pl": "ODPOWIEDZI NA PYTANIA DOTYCZĄCE SZTUCZNEGO ODŻYWIANIA I NAWADNIANIA"
+      }
+    }
+  ]
+}

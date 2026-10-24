@@ -96,3 +96,4 @@ apps/*/ios/
 apps/*/android/
 apps/*/targets/
 .do-golden-lib/
+research/magisterium/_cache/

@@ -1,0 +1,48 @@
+{
+  "id": "innocent-iv-ad-extirpanda-ad-1252-05-15",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'Ad Extirpanda' [AD 1252-05-15]",
+    "en-US": "Bulla 'Ad Extirpanda' [AD 1252-05-15]"
+  },
+  "author": {
+    "en-US": "Pope Innocent IV",
+    "pt-BR": "Papa Inocêncio IV",
+    "la": "Innocentius PP. IV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Innocent IV · 1243",
+    "pt-BR": "Bula · Papa Inocêncio IV · 1243"
+  },
+  "composed": "1243",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "innocent-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1243-1254,_SS_Innocentius_IV,_Bulla_'Ad_Extirpanda'_[AD_1252-05-15],_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1252-05-15,_SS_Innocentius_IV,_Bulla_'Ad_Extirpanda',_EN.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'Ad Extirpanda' [AD 1252-05-15]",
+        "en-US": "Bulla 'Ad Extirpanda' [AD 1252-05-15]"
+      }
+    }
+  ]
+}

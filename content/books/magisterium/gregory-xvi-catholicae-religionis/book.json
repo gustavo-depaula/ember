@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-catholicae-religionis",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Catholicae religionis"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1842-02-22",
+    "pt-BR": "Breve · Papa Gregório XVI · 1842-02-22"
+  },
+  "composed": "1842",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-catholicae-religionis-22-febbraio-1842.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Catholicae religionis"
+      }
+    }
+  ]
+}

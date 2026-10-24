@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-europae-orientalis",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae motu proprio datae «Europae Orientalis», die XV mensis Ianuarii, anno MCMXCIII",
+    "es": "Europae Orientalis, creación de la Comisión interdicasterial permanente para la Iglesia en Europa oriental",
+    "it": "Europae Orientalis"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1993-01-15",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1993-01-15"
+  },
+  "composed": "1993",
+  "languages": [
+    "la",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_15011993_europae-orientalis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_15011993_europae-orientalis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_15011993_europae-orientalis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae motu proprio datae «Europae Orientalis», die XV mensis Ianuarii, anno MCMXCIII",
+        "es": "Europae Orientalis, creación de la Comisión interdicasterial permanente para la Iglesia en Europa oriental",
+        "it": "Europae Orientalis"
+      }
+    }
+  ]
+}

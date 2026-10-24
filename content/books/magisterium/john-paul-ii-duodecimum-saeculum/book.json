@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-duodecimum-saeculum",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Apostolica Duodecimum Saeculum, die IV mensis Decembris, anno MCMLXXXVII",
+    "en-US": "Duodecimum Saeculum",
+    "pt-BR": "Duodecimum Saeculum",
+    "es": "Duodecimum Saeculum, en el XII centenario del II Concilio de Nicea",
+    "fr": "Duodecimum Saeculum",
+    "it": "Duodecimum Saeculum"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1987-12-04",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1987-12-04"
+  },
+  "composed": "1987",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecimum-saeculum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecimum-saeculum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecimum-saeculum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecimum-saeculum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecimum-saeculum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecimum-saeculum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Apostolica Duodecimum Saeculum, die IV mensis Decembris, anno MCMLXXXVII",
+        "en-US": "Duodecimum Saeculum",
+        "pt-BR": "Duodecimum Saeculum",
+        "es": "Duodecimum Saeculum, en el XII centenario del II Concilio de Nicea",
+        "fr": "Duodecimum Saeculum",
+        "it": "Duodecimum Saeculum"
+      }
+    }
+  ]
+}

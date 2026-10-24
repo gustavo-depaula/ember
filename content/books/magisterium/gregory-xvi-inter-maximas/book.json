@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-inter-maximas",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Inter maximas"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1843-08-05",
+    "pt-BR": "Breve · Papa Gregório XVI · 1843-08-05"
+  },
+  "composed": "1843",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-inter-maximas-5-agosto-1843.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Inter maximas"
+      }
+    }
+  ]
+}

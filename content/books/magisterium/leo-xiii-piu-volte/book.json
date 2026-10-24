@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-piu-volte",
+  "cover": "quarter",
+  "name": {
+    "it": "Più volte"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1886-10-31",
+    "pt-BR": "Carta · Papa Leão XIII · 1886-10-31"
+  },
+  "composed": "1886",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18861031_piu-volte.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Più volte"
+      }
+    }
+  ]
+}

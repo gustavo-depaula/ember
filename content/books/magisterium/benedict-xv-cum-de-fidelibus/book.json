@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-cum-de-fidelibus",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Cum de fidelibus, al Cardinale Desiderato Mercier, sugli effetti provocati dalla guerra sul popolo belga"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1914-12-08",
+    "pt-BR": "Carta · Papa Bento XV · 1914-12-08"
+  },
+  "composed": "1914",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1914/documents/hf_ben-xv_let_19141208_cum-de-fidelibus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Cum de fidelibus, al Cardinale Desiderato Mercier, sugli effetti provocati dalla guerra sul popolo belga"
+      }
+    }
+  ]
+}

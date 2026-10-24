@@ -1,0 +1,40 @@
+{
+  "id": "worship-dominicae-resurrectionis",
+  "cover": "quarter",
+  "name": {
+    "la": "Dominicae Resurrectionis"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 1951-02-09",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 1951-02-09"
+  },
+  "composed": "1951",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_19510209_dominicae-resurrectionis_la.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Dominicae Resurrectionis"
+      }
+    }
+  ]
+}

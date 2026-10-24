@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-inter-gravissimas-18320203",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Inter gravissimas"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1832-02-03",
+    "pt-BR": "Breve · Papa Gregório XVI · 1832-02-03"
+  },
+  "composed": "1832",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-inter-gravissimas-3-febbraio-1832.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Inter gravissimas"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "francis-20240327-lettera-cattolici-terrasanta",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter of the Holy Father to the Catholics of the Holy Land",
+    "pt-BR": "Carta do Santo Padre aos católicos da Terra Santa",
+    "ar": "Letter of the Holy Father to the Catholics of the Holy Land",
+    "de": "Brief des Heiligen Vaters an die Katholiken im Heiligen Land",
+    "es": "Carta del Santo Padre a los católicos de Tierra Santa",
+    "fr": "Lettre du Saint-Père aux catholiques de Terre Sainte",
+    "it": "Lettera del Santo Padre ai cattolici di Terra Santa",
+    "pl": "List Ojca Świętego Franciszka do katolików Ziemi Świętej"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2024-03-27",
+    "pt-BR": "Carta · Papa Francisco · 2024-03-27"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/letters/2024/documents/20240327-lettera-cattolici-terrasanta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/letters/2024/documents/20240327-lettera-cattolici-terrasanta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/letters/2024/documents/20240327-lettera-cattolici-terrasanta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/letters/2024/documents/20240327-lettera-cattolici-terrasanta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/letters/2024/documents/20240327-lettera-cattolici-terrasanta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/letters/2024/documents/20240327-lettera-cattolici-terrasanta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2024/documents/20240327-lettera-cattolici-terrasanta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/letters/2024/documents/20240327-lettera-cattolici-terrasanta.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter of the Holy Father to the Catholics of the Holy Land",
+        "pt-BR": "Carta do Santo Padre aos católicos da Terra Santa",
+        "ar": "Letter of the Holy Father to the Catholics of the Holy Land",
+        "de": "Brief des Heiligen Vaters an die Katholiken im Heiligen Land",
+        "es": "Carta del Santo Padre a los católicos de Tierra Santa",
+        "fr": "Lettre du Saint-Père aux catholiques de Terre Sainte",
+        "it": "Lettera del Santo Padre ai cattolici di Terra Santa",
+        "pl": "List Ojca Świętego Franciszka do katolików Ziemi Świętej"
+      }
+    }
+  ]
+}

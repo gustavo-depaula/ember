@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-rerum-condicio",
+  "cover": "quarter",
+  "name": {
+    "la": "Rerum condicio"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XI · 1927-11-03",
+    "pt-BR": "Documento · Papa Pio XI · 1927-11-03"
+  },
+  "composed": "1927",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1927-11-03,_SS_Pius_XI,_Constitutio_Apostolica_'Rerum_Condicio',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Rerum condicio"
+      }
+    }
+  ]
+}

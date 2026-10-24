@@ -1,0 +1,56 @@
+{
+  "id": "clement-i-ad-corinthios",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Epistola ad Corinthios",
+    "grc": "Epistola ad Corinthios",
+    "it": "Epistola ad Corinthios"
+  },
+  "author": {
+    "en-US": "Pope Clement I",
+    "pt-BR": "Papa Clemente I",
+    "la": "Clemens PP. I"
+  },
+  "description": {
+    "en-US": "Letter · Pope Clement I · 0088",
+    "pt-BR": "Carta · Papa Clemente I · 0088"
+  },
+  "composed": "88",
+  "languages": [
+    "en-US",
+    "grc",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "clement-i"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0088-0097,_SS_Clemens_I,_Epistola_ad_Corinthios_[Schaff],_EN.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "grc",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0088-0097,_SS_Clemens_I,_Epistola_ad_Corinthios_I,_GR.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0088-0097,_SS_Clemens_I,_Epistola_ad_Corinthios,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Epistola ad Corinthios",
+        "grc": "Epistola ad Corinthios",
+        "it": "Epistola ad Corinthios"
+      }
+    }
+  ]
+}

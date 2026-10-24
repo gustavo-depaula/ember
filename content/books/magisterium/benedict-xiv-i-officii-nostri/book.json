@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xiv-i-officii-nostri",
+  "cover": "quarter",
+  "name": {
+    "it": "Bolla Officii Nostri"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Benedict XIV · 1749-03-15",
+    "pt-BR": "Bula · Papa Bento XIV · 1749-03-15"
+  },
+  "composed": "1749",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-officii-nostri--i---15-marzo-1749--poiche-sono-sorti-di.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bolla Officii Nostri"
+      }
+    }
+  ]
+}

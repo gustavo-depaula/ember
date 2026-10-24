@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-orientalium-dignitas",
+  "cover": "quarter",
+  "name": {
+    "la": "Orientalium Dignitas",
+    "en-US": "Orientalium Dignitas",
+    "it": "Orientalium dignitas Ecclesiarum"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIII · 1894-11-30",
+    "pt-BR": "Carta Apostólica · Papa Leão XIII · 1894-11-30"
+  },
+  "composed": "1894",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/apost_letters/documents/hf_l-xiii_apl_18941130_orientalium-dignitas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo13/l13orient.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/apost_letters/documents/hf_l-xiii_apl_18941130_orientalium-dignitas.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Orientalium Dignitas",
+        "en-US": "Orientalium Dignitas",
+        "it": "Orientalium dignitas Ecclesiarum"
+      }
+    }
+  ]
+}

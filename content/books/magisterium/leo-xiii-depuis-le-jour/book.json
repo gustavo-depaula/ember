@@ -1,0 +1,64 @@
+{
+  "id": "leo-xiii-depuis-le-jour",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Depuis le Jour",
+    "es": "Depuis le Jour (September 8, 1899)",
+    "fr": "Depuis le Jour",
+    "it": "Depuis le Jour (September 8, 1899)"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1899-09-08",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1899-09-08"
+  },
+  "composed": "1899",
+  "languages": [
+    "en-US",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08091899_depuis-le-jour.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1899-09-08,_SS_Leo_XIII,_Encyclica_'Depuis_le_Jour',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_08091899_depuis-le-jour.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1899-09-08,_SS_Leo_XIII,_Depuis_le_Jour,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Depuis le Jour",
+        "es": "Depuis le Jour (September 8, 1899)",
+        "fr": "Depuis le Jour",
+        "it": "Depuis le Jour (September 8, 1899)"
+      }
+    }
+  ]
+}

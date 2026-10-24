@@ -1,0 +1,66 @@
+{
+  "id": "council-vienne",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Council of Vienne",
+    "pt-BR": "Concílio de Vienne",
+    "la": "Concilium Viennense"
+  },
+  "author": {
+    "en-US": "Council of Vienne",
+    "pt-BR": "Concílio de Vienne",
+    "la": "Concilium Viennense"
+  },
+  "description": {
+    "en-US": "Ecumenical council · 1311. Decrees, canons and acts in every language available.",
+    "pt-BR": "Concílio ecumênico · 1311. Decretos, cânones e atas em todas as línguas disponíveis."
+  },
+  "composed": "1311",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "council",
+    "vienne"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1311-1312,_Concilium_Viennense,_Documenta,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/ecum15.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1313-03-22,_Concilium_Viennense,_Documenta,_IT.doc",
+      "description": "Conciliar text as published at this address."
+    }
+  ],
+  "toc": [
+    {
+      "id": "la-01",
+      "title": {
+        "la": "Documenta"
+      }
+    },
+    {
+      "id": "en-US-01",
+      "title": {
+        "en-US": "Council of Vienne 1311-1312 A.D."
+      }
+    },
+    {
+      "id": "it-01",
+      "title": {
+        "it": "Documenta"
+      }
+    }
+  ]
+}

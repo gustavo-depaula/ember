@@ -1,0 +1,88 @@
+{
+  "id": "cdf-quaecumque-sterilizatio",
+  "cover": "quarter",
+  "name": {
+    "la": "Responsa ad quaesita conferentiae episcopalis Americae Septentrionalis circa sterilizationem in nosocomiis catholicis, d. 13 m. Martii a. 1975, Congregatio pro Doctrina Fidei",
+    "en-US": "Responses to questions concerning sterilization in Catholic hospitals",
+    "pt-BR": "Resposta sobre a esterilização realizada em hospitais católicos, 13 de março de 1975",
+    "de": "Antworten bezüglich der Sterilisation in katholischen Krankenhäusern, 13. März 1975",
+    "es": "Acerca de la esterilización en los hospitales católicos, 13 marzo 1975",
+    "it": "Risposte circa la sterilizzazione negli ospedali cattolici, 13 marzo 1975",
+    "pl": "ODPOWIEDŹ NA PYTANIA KONFERENCJI EPISKOPATU AMERYKI PÓŁNOCNEJ DOTYCZĄCE STERYLIZACJI W SZPITALACH KATOLICKICH"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1975-03-13",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1975-03-13"
+  },
+  "composed": "1975",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19750313_quaecumque-sterilizatio_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19750313_quaecumque-sterilizatio_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19750313_quaecumque-sterilizatio_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19750313_quaecumque-sterilizatio_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19750313_quaecumque-sterilizatio_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19750313_quaecumque-sterilizatio_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19750313_quaecumque-sterilizatio_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Responsa ad quaesita conferentiae episcopalis Americae Septentrionalis circa sterilizationem in nosocomiis catholicis, d. 13 m. Martii a. 1975, Congregatio pro Doctrina Fidei",
+        "en-US": "Responses to questions concerning sterilization in Catholic hospitals",
+        "pt-BR": "Resposta sobre a esterilização realizada em hospitais católicos, 13 de março de 1975",
+        "de": "Antworten bezüglich der Sterilisation in katholischen Krankenhäusern, 13. März 1975",
+        "es": "Acerca de la esterilización en los hospitales católicos, 13 marzo 1975",
+        "it": "Risposte circa la sterilizzazione negli ospedali cattolici, 13 marzo 1975",
+        "pl": "ODPOWIEDŹ NA PYTANIA KONFERENCJI EPISKOPATU AMERYKI PÓŁNOCNEJ DOTYCZĄCE STERYLIZACJI W SZPITALACH KATOLICKICH"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "paul-vi-pastoral-norms-for-general-sacramental-absolution",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Pastoral Norms For General Sacramental Absolution"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Document · Pope Paul VI",
+    "pt-BR": "Documento · Papa Paulo VI"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/paul06/p6pastor.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Pastoral Norms For General Sacramental Absolution"
+      }
+    }
+  ]
+}

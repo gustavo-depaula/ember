@@ -1,0 +1,88 @@
+{
+  "id": "francis-imparare-a-congedarsi",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued 'Motu Proprio' Learn to take your leave governing the resignation, for reasons of age, of holders of certain offices subject to Papal appointment, 12 February 2018",
+    "pt-BR": "Carta Apostólica em forma de Motu Proprio Aprender a despedir-se com a qual se regula a renúncia, por motivo de idade, dos titulares de alguns cargos de nomeação pontifícia",
+    "ar": "Apostolic Letter issued 'Motu Proprio' Imparare a congedarsi, which regulates age-related resignations of holders of honorary titles granted by the Pope, 12 February 2018",
+    "de": "Apostolisches Schreiben in Form eines Motu Proprio Lernen Abschied zu nehmen, mit dem der altersbedingte Verzicht auf Ämter päpstlicher Ernennung geregelt wird, 12. Februar 2018",
+    "it": "Lettera Apostolica in forma di Motu Proprio Imparare a congedarsi con cui si regola la rinuncia, a motivo dell’età, dei titolari di alcuni uffici di nomina pontificia",
+    "zh-CN": "Apostolic Letter issued 'Motu Proprio' Learn to take your leave governing the resignation, for reasons of age, of holders of certain offices subject to Papal appointment, 12 February 2018",
+    "zh-TW": "Apostolic Letter issued 'Motu Proprio' Learn to take your leave governing the resignation, for reasons of age, of holders of certain offices subject to Papal appointment, 12 February 2018"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2018-02-12",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2018-02-12"
+  },
+  "composed": "2018",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "it",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20180212_imparare-a-congedarsi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20180212_imparare-a-congedarsi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/motu_proprio/documents/papa-francesco-motu-proprio-20180212_imparare-a-congedarsi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio-20180212_imparare-a-congedarsi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20180212_imparare-a-congedarsi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/motu_proprio/documents/papa-francesco-motu-proprio-20180212_imparare-a-congedarsi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/motu_proprio/documents/papa-francesco-motu-proprio-20180212_imparare-a-congedarsi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued 'Motu Proprio' Learn to take your leave governing the resignation, for reasons of age, of holders of certain offices subject to Papal appointment, 12 February 2018",
+        "pt-BR": "Carta Apostólica em forma de Motu Proprio Aprender a despedir-se com a qual se regula a renúncia, por motivo de idade, dos titulares de alguns cargos de nomeação pontifícia",
+        "ar": "Apostolic Letter issued 'Motu Proprio' Imparare a congedarsi, which regulates age-related resignations of holders of honorary titles granted by the Pope, 12 February 2018",
+        "de": "Apostolisches Schreiben in Form eines Motu Proprio Lernen Abschied zu nehmen, mit dem der altersbedingte Verzicht auf Ämter päpstlicher Ernennung geregelt wird, 12. Februar 2018",
+        "it": "Lettera Apostolica in forma di Motu Proprio Imparare a congedarsi con cui si regola la rinuncia, a motivo dell’età, dei titolari di alcuni uffici di nomina pontificia",
+        "zh-CN": "Apostolic Letter issued 'Motu Proprio' Learn to take your leave governing the resignation, for reasons of age, of holders of certain offices subject to Papal appointment, 12 February 2018",
+        "zh-TW": "Apostolic Letter issued 'Motu Proprio' Learn to take your leave governing the resignation, for reasons of age, of holders of certain offices subject to Papal appointment, 12 February 2018"
+      }
+    }
+  ]
+}

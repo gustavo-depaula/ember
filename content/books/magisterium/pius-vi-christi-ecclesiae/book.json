@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-christi-ecclesiae",
+  "cover": "quarter",
+  "name": {
+    "it": "Bolla Christi Ecclesiae"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius VI · 1797-12-30",
+    "pt-BR": "Bula · Papa Pio VI · 1797-12-30"
+  },
+  "composed": "1797",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/bolla-christi-ecclesiae-30-dicembre-1797.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bolla Christi Ecclesiae"
+      }
+    }
+  ]
+}

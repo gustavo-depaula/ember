@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-ubi-prima",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Encyclica Ubi Prima",
+    "it": "Enciclica Ubi prima"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius IX · 1871-03-11",
+    "pt-BR": "Carta · Papa Pio IX · 1871-03-11"
+  },
+  "composed": "1871",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-ubi-prima-11-martii-1871.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-ubi-prima-11-martii-1871.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Encyclica Ubi Prima",
+        "it": "Enciclica Ubi prima"
+      }
+    }
+  ]
+}

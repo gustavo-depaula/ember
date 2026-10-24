@@ -1,0 +1,40 @@
+{
+  "id": "innocent-ii-sacrosanta-romana",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'Sacrosanta Romana'"
+  },
+  "author": {
+    "en-US": "Pope Innocent II",
+    "pt-BR": "Papa Inocêncio II",
+    "la": "Innocentius PP. II"
+  },
+  "description": {
+    "en-US": "Bull · Pope Innocent II · 1130",
+    "pt-BR": "Bula · Papa Inocêncio II · 1130"
+  },
+  "composed": "1130",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "innocent-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1130-1143,_SS_Innocentius_II,_Bulla_'Sacrosanta_Romana'_[AD_1133],_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'Sacrosanta Romana'"
+      }
+    }
+  ]
+}

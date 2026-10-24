@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-inde-a-pontificatus",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae apostolicae motu proprio datae «Ide a Pontificatus», die XXV mensis Martii, anno MCMXCIII",
+    "en-US": "Inde a Pontificatus",
+    "de": "Inde a Pontificatus",
+    "es": "Inde a Pontificatus, unificación del Consejo Pontificio de la Cultura y el Consejo Pontificio para el Diálogo con los no creyentes",
+    "fr": "Inde a Pontificatus",
+    "it": "Inde a Pontificatus"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1993-03-25",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1993-03-25"
+  },
+  "composed": "1993",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_25031993_inde-a-pontificatus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_25031993_inde-a-pontificatus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/motu_proprio/documents/hf_jp-ii_motu-proprio_25031993_inde-a-pontificatus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_25031993_inde-a-pontificatus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/motu_proprio/documents/hf_jp-ii_motu-proprio_25031993_inde-a-pontificatus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_25031993_inde-a-pontificatus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae apostolicae motu proprio datae «Ide a Pontificatus», die XXV mensis Martii, anno MCMXCIII",
+        "en-US": "Inde a Pontificatus",
+        "de": "Inde a Pontificatus",
+        "es": "Inde a Pontificatus, unificación del Consejo Pontificio de la Cultura y el Consejo Pontificio para el Diálogo con los no creyentes",
+        "fr": "Inde a Pontificatus",
+        "it": "Inde a Pontificatus"
+      }
+    }
+  ]
+}

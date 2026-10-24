@@ -1,0 +1,96 @@
+{
+  "id": "cdf-attentata-ord-donna",
+  "cover": "quarter",
+  "name": {
+    "la": "Decretum Generale de delicto attentatae sacrae ordinationis mulieris",
+    "en-US": "General Decree regarding the delict of attempted sacred ordination of a woman",
+    "pt-BR": "Decreto Geral sobre o delito da tentada sagrada ordenação de uma mulher",
+    "cs": "General Decree regarding the delict of attempted sacred ordination of a woman (December 19, 2007)",
+    "de": "Allgemeines Dekret in Bezug auf die Straftat der versuchten Ordination einer Frau",
+    "es": "Decreto General relativo al delito de atentada ordenación sagrada de una mujer",
+    "fr": "Decret General concernant le délit d’attentat à l’ordination sacrée d’une femme",
+    "it": "Decreto Generale circa il delitto di attentata ordinazione sacra di una donna"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2007-12-19",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2007-12-19"
+  },
+  "composed": "2007",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071219_attentata-ord-donna_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071219_attentata-ord-donna_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071219_attentata-ord-donna_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071219_attentata-ord-donna_cs.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071219_attentata-ord-donna_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071219_attentata-ord-donna_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071219_attentata-ord-donna_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20071219_attentata-ord-donna_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decretum Generale de delicto attentatae sacrae ordinationis mulieris",
+        "en-US": "General Decree regarding the delict of attempted sacred ordination of a woman",
+        "pt-BR": "Decreto Geral sobre o delito da tentada sagrada ordenação de uma mulher",
+        "cs": "General Decree regarding the delict of attempted sacred ordination of a woman (December 19, 2007)",
+        "de": "Allgemeines Dekret in Bezug auf die Straftat der versuchten Ordination einer Frau",
+        "es": "Decreto General relativo al delito de atentada ordenación sagrada de una mujer",
+        "fr": "Decret General concernant le délit d’attentat à l’ordination sacrée d’une femme",
+        "it": "Decreto Generale circa il delitto di attentata ordinazione sacra di una donna"
+      }
+    }
+  ]
+}

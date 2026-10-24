@@ -1,0 +1,64 @@
+{
+  "id": "leo-xiii-diuturni-temporis",
+  "cover": "quarter",
+  "name": {
+    "la": "Diuturni Temporis",
+    "en-US": "Diuturni Temporis",
+    "pt-BR": "Diuturni Temporis: sobre o Rosário de Nossa Senhora",
+    "it": "Diuturni\n Temporis (September 5, 1898)"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1898-09-05",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1898-09-05"
+  },
+  "composed": "1898",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1898-09-15,_SS_Leo_XIII,_Encyclica_'Diuturni_Temporis',_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Diuturni Temporis",
+        "en-US": "Diuturni Temporis",
+        "pt-BR": "Diuturni Temporis: sobre o Rosário de Nossa Senhora",
+        "it": "Diuturni\n Temporis (September 5, 1898)"
+      }
+    }
+  ]
+}

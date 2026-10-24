@@ -1,0 +1,96 @@
+{
+  "id": "cdf-sintesi-dignitas-personae",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Regarding the Instruction Dignitatis Personae, 12 December 2008",
+    "pt-BR": "Síntese da Instrução Dignitas Personae sobre algumas questões de bioética",
+    "de": "Zusammenfassung der Instrutktion DIGNITAS PERSONAE",
+    "es": "Síntesis de la Instrucción Dignitas personae",
+    "fr": "Au sujet de l’Instruction DIGNITAS PERSONAE, 12 décembre 2008",
+    "it": "Sintesi dell'Istruzione Dignitas personae su alcune questioni di bioetica, 12 dicembre 2008",
+    "nl": "Naar aanleiding van de Instructie Dignitas Personae",
+    "pl": "WOKÓŁ INSTRUKCJI DIGNITAS PERSONAE"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2008-12-12",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2008-12-12"
+  },
+  "composed": "2008",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "nl",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081212_sintesi-dignitas-personae_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081212_sintesi-dignitas-personae_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081212_sintesi-dignitas-personae_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081212_sintesi-dignitas-personae_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081212_sintesi-dignitas-personae_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081212_sintesi-dignitas-personae_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081212_sintesi-dignitas-personae_nl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081212_sintesi-dignitas-personae_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Regarding the Instruction Dignitatis Personae, 12 December 2008",
+        "pt-BR": "Síntese da Instrução Dignitas Personae sobre algumas questões de bioética",
+        "de": "Zusammenfassung der Instrutktion DIGNITAS PERSONAE",
+        "es": "Síntesis de la Instrucción Dignitas personae",
+        "fr": "Au sujet de l’Instruction DIGNITAS PERSONAE, 12 décembre 2008",
+        "it": "Sintesi dell'Istruzione Dignitas personae su alcune questioni di bioetica, 12 dicembre 2008",
+        "nl": "Naar aanleiding van de Instructie Dignitas Personae",
+        "pl": "WOKÓŁ INSTRUKCJI DIGNITAS PERSONAE"
+      }
+    }
+  ]
+}

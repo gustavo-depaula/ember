@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-ior-19440124",
+  "cover": "quarter",
+  "name": {
+    "it": "Chirografo con il quale il Pontefice stabilisce nuove norme per l’Istituto per le Opere di Religione"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1944-01-24",
+    "pt-BR": "Carta · Papa Pio XII · 1944-01-24"
+  },
+  "composed": "1944",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/letters/documents/hf_p-xii_lett_19440124_chirografo-ior.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Chirografo con il quale il Pontefice stabilisce nuove norme per l’Istituto per le Opere di Religione"
+      }
+    }
+  ]
+}

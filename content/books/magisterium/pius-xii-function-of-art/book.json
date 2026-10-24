@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-function-of-art",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Function Of Art"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1952-04-08",
+    "pt-BR": "Documento · Papa Pio XII · 1952-04-08"
+  },
+  "composed": "1952",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12art.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Function Of Art"
+      }
+    }
+  ]
+}

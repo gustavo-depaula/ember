@@ -1,0 +1,96 @@
+{
+  "id": "cdf-prefazione-levada",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Preface of Card. Levada",
+    "pt-BR": "Prefácio das normas para proceder no discernimento de presumíveis aparições e revelações, Cardeal Levada, 14 de dezembro de 2011",
+    "de": "Vorwort zu den Normen für das Verfahren zur Beurteilung mutmasslicher Erscheinungen und Offenbarungen - Kard. William Levada, 14. Dezember 2011",
+    "fr": "Préface aux Normes pour procéder au discernement d'apparitions ou révélations présumes - Card. William Levada, 14 décembre 2011",
+    "hu": "Előszóm, Eljárási normák a feltételezett jelenések és kinyilatkoztatások megítéléséhez - William Levada bíboros, 2011. december 14",
+    "it": "Prefazione alle Norme per procedere nel discernimento di presunte apparizioni e rivelazioni - Card. William Levada, 14 dicembre 2011",
+    "nl": "Normen voor de procedure ter beoordeling van vermeende verschijningen en openbaringen - VOORWOORD",
+    "pl": "Prefazione alle Norme per procedere nel discernimento di presunte apparizioni e rivelazioni - Card. William Levada, 14 dicembre 2011"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2011-12-14",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2011-12-14"
+  },
+  "composed": "2011",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "fr",
+    "hu",
+    "it",
+    "nl",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20111214_prefazione-levada_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20111214_prefazione-levada_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20111214_prefazione-levada_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20111214_prefazione-levada_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20111214_prefazione-levada_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20111214_prefazione-levada_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20111214_prefazione-levada_nl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20111214_prefazione-levada_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Preface of Card. Levada",
+        "pt-BR": "Prefácio das normas para proceder no discernimento de presumíveis aparições e revelações, Cardeal Levada, 14 de dezembro de 2011",
+        "de": "Vorwort zu den Normen für das Verfahren zur Beurteilung mutmasslicher Erscheinungen und Offenbarungen - Kard. William Levada, 14. Dezember 2011",
+        "fr": "Préface aux Normes pour procéder au discernement d'apparitions ou révélations présumes - Card. William Levada, 14 décembre 2011",
+        "hu": "Előszóm, Eljárási normák a feltételezett jelenések és kinyilatkoztatások megítéléséhez - William Levada bíboros, 2011. december 14",
+        "it": "Prefazione alle Norme per procedere nel discernimento di presunte apparizioni e rivelazioni - Card. William Levada, 14 dicembre 2011",
+        "nl": "Normen voor de procedure ter beoordeling van vermeende verschijningen en openbaringen - VOORWOORD",
+        "pl": "Prefazione alle Norme per procedere nel discernimento di presunte apparizioni e rivelazioni - Card. William Levada, 14 dicembre 2011"
+      }
+    }
+  ]
+}

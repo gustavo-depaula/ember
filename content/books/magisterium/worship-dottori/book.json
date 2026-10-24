@@ -1,0 +1,88 @@
+{
+  "id": "worship-dottori",
+  "cover": "quarter",
+  "name": {
+    "la": "DECRETUM De celebrationibus sancti Gregorii Narecensis, abbatis et Ecclesiæ doctoris, sancti Ioannis De Avila, presbyteri et Ecclesiæ doctoris, et sanctæ Hildegardis Bingensis, virginis et Ecclesiæ doctoris, in Calendario Romano generali inscribendis",
+    "en-US": "DECREE on the Inscription of the Celebrations of Saint Gregory of Narek, Abbot and Doctor of the Church, Saint John De Avila, Priest and Doctor of the Church and Saint Hildegard of Bingen, Virgin and Doctor of the Church, in the General Roman Calendar",
+    "pt-BR": "Decreto sobre a inscrição das celebrações de São Gregório de Narek, abade e doutor da Igreja, São João De Ávila, presbítero e doutor da Igreja e de Santa Hildegarda de Bingen, virgem e doutora da Igreja, no Calendário Romano Geral",
+    "de": "DEKRET über die Eintragung der Feiern des heiligen Gregor von Narek, Abt und Kirchenlehrer, des heiligen Johannes De Avila, Priester und Kirchenlehrer, und der heiligen Hildegard von Bingen, Jungfrau und Kirchenlehrerin, in den Römischen Generalkalender",
+    "es": "Decreto sobre la inscripción de las celebraciones de san Gregorio de Narek, abad y doctor de la Iglesia, san Juan De Ávila, presbítero y doctor de la Iglesia y santa Hildegarda de Bingen, virgen y doctora de la Iglesia, en el Calendario Romano General",
+    "fr": "Décret d’inscription des célébrations de saint Grégoire de Narek, abbé et docteur de l’Église, de saint Jean De Avila, prêtre et docteur de l’Église, et de sainte Hildegarde de Bingen, vierge et docteur de l’Église, au Calendrier Romain Général",
+    "it": "DECRETO sull’iscrizione delle celebrazioni di san Gregorio di Narek, abate e dottore della Chiesa, san Giovanni De Avila, presbitero e dottore della Chiesa e santa Ildegarda di Bingen, vergine e dottore della Chiesa, nel Calendario Romano Generale"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2021-01-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2021-01-25"
+  },
+  "composed": "2021",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_la.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210125_decreto-dottori_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "DECRETUM De celebrationibus sancti Gregorii Narecensis, abbatis et Ecclesiæ doctoris, sancti Ioannis De Avila, presbyteri et Ecclesiæ doctoris, et sanctæ Hildegardis Bingensis, virginis et Ecclesiæ doctoris, in Calendario Romano generali inscribendis",
+        "en-US": "DECREE on the Inscription of the Celebrations of Saint Gregory of Narek, Abbot and Doctor of the Church, Saint John De Avila, Priest and Doctor of the Church and Saint Hildegard of Bingen, Virgin and Doctor of the Church, in the General Roman Calendar",
+        "pt-BR": "Decreto sobre a inscrição das celebrações de São Gregório de Narek, abade e doutor da Igreja, São João De Ávila, presbítero e doutor da Igreja e de Santa Hildegarda de Bingen, virgem e doutora da Igreja, no Calendário Romano Geral",
+        "de": "DEKRET über die Eintragung der Feiern des heiligen Gregor von Narek, Abt und Kirchenlehrer, des heiligen Johannes De Avila, Priester und Kirchenlehrer, und der heiligen Hildegard von Bingen, Jungfrau und Kirchenlehrerin, in den Römischen Generalkalender",
+        "es": "Decreto sobre la inscripción de las celebraciones de san Gregorio de Narek, abad y doctor de la Iglesia, san Juan De Ávila, presbítero y doctor de la Iglesia y santa Hildegarda de Bingen, virgen y doctora de la Iglesia, en el Calendario Romano General",
+        "fr": "Décret d’inscription des célébrations de saint Grégoire de Narek, abbé et docteur de l’Église, de saint Jean De Avila, prêtre et docteur de l’Église, et de sainte Hildegarde de Bingen, vierge et docteur de l’Église, au Calendrier Romain Général",
+        "it": "DECRETO sull’iscrizione delle celebrazioni di san Gregorio di Narek, abate e dottore della Chiesa, san Giovanni De Avila, presbitero e dottore della Chiesa e santa Ildegarda di Bingen, vergine e dottore della Chiesa, nel Calendario Romano Generale"
+      }
+    }
+  ]
+}

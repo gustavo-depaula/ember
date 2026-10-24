@@ -1,0 +1,120 @@
+{
+  "id": "cdf-cti-sacramento-matrimonio",
+  "cover": "quarter",
+  "name": {
+    "la": "De doctrina catholica sacramenti matrimonii - Commissio Theologica Internationalis",
+    "en-US": "PROPOSITIONS ON THE DOCTRINE OF CHRISTIAN MARRIAGE, 1977",
+    "pt-BR": "A doutrina católica sobre o Sacramento do Matrimônio (1977) - Comissão Teológica Internacional",
+    "de": "Die katholische Lehre über das Sakrament der Ehe",
+    "es": "Doctrina católica sobre el matrimonio",
+    "fr": "La doctrine catholique sur le sacrement du mariage, 1977",
+    "hr": "KATOLIČKI NAUK O SAKRAMENTU ŽENIDBE",
+    "hu": "A házasság szentségéről szóló katolikus tanítás, 1977 - Nemzetközi Teológiai Bizottság",
+    "it": "La dottrina cattolica sul sacramento del matrimonio, 1977 - Commissione Teologica Internazionale",
+    "pl": "DOKTRYNA KATOLICKA O SAKRAMENCIE MAŁŻEŃSTWA, 1977",
+    "ru": "КАТОЛИЧЕСКОЕ УЧЕНИЕ О ТАИНСТВЕ БРАКА, 1977"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1977",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1977"
+  },
+  "composed": "1977",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_sacramento-matrimonio_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_sacramento-matrimonio_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_sacramento-matrimonio_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_sacramento-matrimonio_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_sacramento-matrimonio_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_sacramento-matrimonio_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_sacramento-matrimonio_hr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_sacramento-matrimonio_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_sacramento-matrimonio_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_sacramento-matrimonio_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1977_sacramento-matrimonio_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "De doctrina catholica sacramenti matrimonii - Commissio Theologica Internationalis",
+        "en-US": "PROPOSITIONS ON THE DOCTRINE OF CHRISTIAN MARRIAGE, 1977",
+        "pt-BR": "A doutrina católica sobre o Sacramento do Matrimônio (1977) - Comissão Teológica Internacional",
+        "de": "Die katholische Lehre über das Sakrament der Ehe",
+        "es": "Doctrina católica sobre el matrimonio",
+        "fr": "La doctrine catholique sur le sacrement du mariage, 1977",
+        "hr": "KATOLIČKI NAUK O SAKRAMENTU ŽENIDBE",
+        "hu": "A házasság szentségéről szóló katolikus tanítás, 1977 - Nemzetközi Teológiai Bizottság",
+        "it": "La dottrina cattolica sul sacramento del matrimonio, 1977 - Commissione Teologica Internazionale",
+        "pl": "DOKTRYNA KATOLICKA O SAKRAMENCIE MAŁŻEŃSTWA, 1977",
+        "ru": "КАТОЛИЧЕСКОЕ УЧЕНИЕ О ТАИНСТВЕ БРАКА, 1977"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "worship-santi",
+  "cover": "quarter",
+  "name": {
+    "la": "DECRETUM De celebratione sanctorum Marthæ, Mariæ et Lazari in Calendario Romano generali",
+    "en-US": "DECREE on the Celebration of Saints Martha, Mary and Lazarus in the General Roman Calendar",
+    "pt-BR": "Decreto sobre a celebração de Santa Marta, Maria e Lázaro, no Calendário Romano Geral",
+    "de": "DEKRET über die Feier der heiligen Marta, Maria und Lazarus im Römischen Generalkalender",
+    "es": "Decreto sobre la celebración de los santos Marta, María y Lázaro en el Calendario Romano General",
+    "fr": "Décret sur la célébration des saintes Marthe, Marie et saint Lazare dans le Calendrier Romain Général",
+    "it": "Decreto sulla celebrazione dei Santi Marta, Maria e Lazzaro, nel Calendario Romano Generale"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2021-01-26",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2021-01-26"
+  },
+  "composed": "2021",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_la.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "DECRETUM De celebratione sanctorum Marthæ, Mariæ et Lazari in Calendario Romano generali",
+        "en-US": "DECREE on the Celebration of Saints Martha, Mary and Lazarus in the General Roman Calendar",
+        "pt-BR": "Decreto sobre a celebração de Santa Marta, Maria e Lázaro, no Calendário Romano Geral",
+        "de": "DEKRET über die Feier der heiligen Marta, Maria und Lazarus im Römischen Generalkalender",
+        "es": "Decreto sobre la celebración de los santos Marta, María y Lázaro en el Calendario Romano General",
+        "fr": "Décret sur la célébration des saintes Marthe, Marie et saint Lazare dans le Calendrier Romain Général",
+        "it": "Decreto sulla celebrazione dei Santi Marta, Maria e Lazzaro, nel Calendario Romano Generale"
+      }
+    }
+  ]
+}

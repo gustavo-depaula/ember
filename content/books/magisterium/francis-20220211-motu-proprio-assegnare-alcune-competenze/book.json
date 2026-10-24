@@ -1,0 +1,104 @@
+{
+  "id": "francis-20220211-motu-proprio-assegnare-alcune-competenze",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio datae Competentias quasdam decernere quibus aliquae normae immutantur Codicis Iuris Canonici et Codicis Canonum Ecclesiarum Orientalium (die XI mensis Februarii, anno MMXXII)",
+    "en-US": "Apostolic Letter issued “Motu proprio” Competentias quasdam decernere introducing changes to some norms of the Code of Canon Law and the Code of Canons of the Eastern Churches",
+    "pt-BR": "Carta Apostólica sob forma de Motu Proprio «Competentias quasdam decernere», pela qual se modificam algumas normas do Código de Direito Canônico e do Código dos Cânones das Igrejas Orientais",
+    "ar": "Apostolic Letter issued “Motu proprio” Competentias quasdam decernere, introducing changes to some norms of the Code of Canon Law and the Code of Canons of the Eastern Churches, 11 February 2022",
+    "de": "Apostolisches Schreiben in Form eines „Motu Proprio“ Competentias quasdam decernere mit dem mehrere Bestimmungen des Codex des kanonischen Rechts und des Codex der Canones der orientalischen Kirchen abgeändert werden",
+    "es": "Carta apostólica en forma de «Motu Proprio» Competentias quasdam decernere, con la que se modifican algunas normas del Código de Derecho Canónico y del Código de Cánones de las Iglesias Orientales",
+    "fr": "Lettre apostolique sous la forme de \"Motu Proprio\" Competentias quasdam decernere par la quelle sont modifiées certaines normes du Code de Droit Canonique et du Code des Canons des Églises Orientales",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» Competentias quasdam decernere, con la quale vengono mutate alcune norme del Codice di Diritto Canonico e del Codice dei Canoni delle Chiese Orientali",
+    "pl": "LIST APOSTOLSKI W FORMIE „MOTU PROPRIO” PAPIEŻA FRANCISZKA Competentias quasdam decernere ZMIENIAJĄCY PEWNE PRZEPISY KODEKSU PRAWA KANONICZNEGO I KODEKSU KANONÓW KOŚCIOŁÓW WSCHODNICH"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2022-02-11",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2022-02-11"
+  },
+  "composed": "2022",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/20220211-motu-proprio-assegnare-alcune-competenze.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20220211-motu-proprio-assegnare-alcune-competenze.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/20220211-motu-proprio-assegnare-alcune-competenze.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/motu_proprio/documents/20220211-motu-proprio-assegnare-alcune-competenze.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/20220211-motu-proprio-assegnare-alcune-competenze.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/20220211-motu-proprio-assegnare-alcune-competenze.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/20220211-motu-proprio-assegnare-alcune-competenze.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20220211-motu-proprio-assegnare-alcune-competenze.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/motu_proprio/documents/20220211-motu-proprio-assegnare-alcune-competenze.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio datae Competentias quasdam decernere quibus aliquae normae immutantur Codicis Iuris Canonici et Codicis Canonum Ecclesiarum Orientalium (die XI mensis Februarii, anno MMXXII)",
+        "en-US": "Apostolic Letter issued “Motu proprio” Competentias quasdam decernere introducing changes to some norms of the Code of Canon Law and the Code of Canons of the Eastern Churches",
+        "pt-BR": "Carta Apostólica sob forma de Motu Proprio «Competentias quasdam decernere», pela qual se modificam algumas normas do Código de Direito Canônico e do Código dos Cânones das Igrejas Orientais",
+        "ar": "Apostolic Letter issued “Motu proprio” Competentias quasdam decernere, introducing changes to some norms of the Code of Canon Law and the Code of Canons of the Eastern Churches, 11 February 2022",
+        "de": "Apostolisches Schreiben in Form eines „Motu Proprio“ Competentias quasdam decernere mit dem mehrere Bestimmungen des Codex des kanonischen Rechts und des Codex der Canones der orientalischen Kirchen abgeändert werden",
+        "es": "Carta apostólica en forma de «Motu Proprio» Competentias quasdam decernere, con la que se modifican algunas normas del Código de Derecho Canónico y del Código de Cánones de las Iglesias Orientales",
+        "fr": "Lettre apostolique sous la forme de \"Motu Proprio\" Competentias quasdam decernere par la quelle sont modifiées certaines normes du Code de Droit Canonique et du Code des Canons des Églises Orientales",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» Competentias quasdam decernere, con la quale vengono mutate alcune norme del Codice di Diritto Canonico e del Codice dei Canoni delle Chiese Orientali",
+        "pl": "LIST APOSTOLSKI W FORMIE „MOTU PROPRIO” PAPIEŻA FRANCISZKA Competentias quasdam decernere ZMIENIAJĄCY PEWNE PRZEPISY KODEKSU PRAWA KANONICZNEGO I KODEKSU KANONÓW KOŚCIOŁÓW WSCHODNICH"
+      }
+    }
+  ]
+}

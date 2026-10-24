@@ -1,0 +1,112 @@
+{
+  "id": "cdf-cti-un-baptised-infants",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The hope of salvation for infants who die without being baptised",
+    "pt-BR": "A esperança da salvação para as crianças que morrem sem batismo, Comissão Teológica Internacional",
+    "es": "La esperanza de salvación para los niños que mueren sin bautismo",
+    "fr": "L'espérance du salut pour les enfants qui meurent sans baptême",
+    "hr": "NADA U SPASENJE DJECE UMRLE BEZ KRŠTENJA, 2007 - Međunarodna teološka komisija",
+    "hu": "Az üdvözülés reménye a keresztség nélkül meghalt kisgyermekek számára, 1995",
+    "it": "La speranza della salvezza per i bambini che muoiono senza Battesimo",
+    "ko": "The Hope of Salvation for Infants Who Die Without Being Baptised",
+    "pl": "The Hope of Salvation for Infants Who Die without Being Baptised",
+    "ru": "The Hope of Salvation for Infants Who Die without Being Baptised"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2007-04-19",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2007-04-19"
+  },
+  "composed": "2007",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "hr",
+    "hu",
+    "it",
+    "ko",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20070419_un-baptised-infants_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20070419_un-baptised-infants_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20070419_un-baptised-infants_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20070419_un-baptised-infants_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20070419_un-baptised-infants_hr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20070419_un-baptised-infants_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20070419_un-baptised-infants_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ko",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20070419_un-baptised-infants_ko.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20070419_un-baptised-infants_pl.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20070419_un-baptised-infants_ru.pdf",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The hope of salvation for infants who die without being baptised",
+        "pt-BR": "A esperança da salvação para as crianças que morrem sem batismo, Comissão Teológica Internacional",
+        "es": "La esperanza de salvación para los niños que mueren sin bautismo",
+        "fr": "L'espérance du salut pour les enfants qui meurent sans baptême",
+        "hr": "NADA U SPASENJE DJECE UMRLE BEZ KRŠTENJA, 2007 - Međunarodna teološka komisija",
+        "hu": "Az üdvözülés reménye a keresztség nélkül meghalt kisgyermekek számára, 1995",
+        "it": "La speranza della salvezza per i bambini che muoiono senza Battesimo",
+        "ko": "The Hope of Salvation for Infants Who Die Without Being Baptised",
+        "pl": "The Hope of Salvation for Infants Who Die without Being Baptised",
+        "ru": "The Hope of Salvation for Infants Who Die without Being Baptised"
+      }
+    }
+  ]
+}

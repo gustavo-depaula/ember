@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-le-armi-valorose",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Le armi valorose"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Gregory XVI · 1831-07-12",
+    "pt-BR": "Encíclica · Papa Gregório XVI · 1831-07-12"
+  },
+  "composed": "1831",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/enciclica-le-armi-valorose-12-luglio-1831.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Le armi valorose"
+      }
+    }
+  ]
+}

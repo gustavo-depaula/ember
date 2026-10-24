@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-legge-fondamentale-scv",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "A nova Lei fundamental do Estado da Cidade do Vaticano",
+    "de": "Das neue Grundgesetz des Vatikanstaates",
+    "it": "La nuova Legge fondamentale dello Stato della Città del Vaticano"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 2000-11-26",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 2000-11-26"
+  },
+  "composed": "2000",
+  "languages": [
+    "pt-BR",
+    "de",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20001126_legge-fondamentale-scv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/motu_proprio/documents/hf_jp-ii_motu-proprio_20001126_legge-fondamentale-scv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_20001126_legge-fondamentale-scv.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "A nova Lei fundamental do Estado da Cidade do Vaticano",
+        "de": "Das neue Grundgesetz des Vatikanstaates",
+        "it": "La nuova Legge fondamentale dello Stato della Città del Vaticano"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "john-xxii-summa-providit-altitudo-consilii",
+  "cover": "quarter",
+  "name": {
+    "la": "Summa providit altitudo consilii"
+  },
+  "author": {
+    "en-US": "Pope John XXII",
+    "pt-BR": "Papa João XXII",
+    "la": "Ioannes PP. XXII"
+  },
+  "description": {
+    "en-US": "Document · Pope John XXII · 1333-12-02",
+    "pt-BR": "Documento · Papa João XXII · 1333-12-02"
+  },
+  "composed": "1333",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "john-xxii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.papalencyclicals.net/john22/j22summa-l.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Summa providit altitudo consilii"
+      }
+    }
+  ]
+}

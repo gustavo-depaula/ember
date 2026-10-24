@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-ex-iis-litteris",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Ex iis Litteris, ai Cardinali Alessandro Kakowski, Edmondo Dalbor e agli altri Vescovi polacchi, sulla difficile situazione del Paese"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1921-07-16",
+    "pt-BR": "Carta · Papa Bento XV · 1921-07-16"
+  },
+  "composed": "1921",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1921/documents/hf_ben-xv_let_19210716_ex-iis-litteris.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Ex iis Litteris, ai Cardinali Alessandro Kakowski, Edmondo Dalbor e agli altri Vescovi polacchi, sulla difficile situazione del Paese"
+      }
+    }
+  ]
+}

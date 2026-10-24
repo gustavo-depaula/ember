@@ -1,0 +1,72 @@
+{
+  "id": "francis-trasferimento-apsa",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued Motu Proprio - Transferral of the Ordinary Section of the Administration of the Patrimony of the Apostolic See to the Secretariat for the Economy",
+    "pt-BR": "Carta Apostólica em forma de Motu Proprio - Transferência da Seção Ordinária da Administração da Sé Apostólica à Secretaria para a Economia",
+    "es": "Carta Apostolica en forma de Motu Proprio - Transferencia de la Sección Ordinaria de la Administración del Patrimonio de la Sede Apostólica a la Secretaría de Asuntos Económicos",
+    "fr": "Lettre apostolique en forme de Motu Proprio - Transfert de la Section ordinaire de l’Administration du patrimoine du Siège apostolique au Secrétariat pour l'Économie",
+    "it": "Lettera Apostolica in forma di Motu Proprio - Trasferimento della Sezione Ordinaria dell’Amministrazione del Patrimonio della Sede Apostolica alla Segreteria per l’Economia"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2014-07-08",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2014-07-08"
+  },
+  "composed": "2014",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20140708_trasferimento-apsa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20140708_trasferimento-apsa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20140708_trasferimento-apsa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20140708_trasferimento-apsa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20140708_trasferimento-apsa.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued Motu Proprio - Transferral of the Ordinary Section of the Administration of the Patrimony of the Apostolic See to the Secretariat for the Economy",
+        "pt-BR": "Carta Apostólica em forma de Motu Proprio - Transferência da Seção Ordinária da Administração da Sé Apostólica à Secretaria para a Economia",
+        "es": "Carta Apostolica en forma de Motu Proprio - Transferencia de la Sección Ordinaria de la Administración del Patrimonio de la Sede Apostólica a la Secretaría de Asuntos Económicos",
+        "fr": "Lettre apostolique en forme de Motu Proprio - Transfert de la Section ordinaire de l’Administration du patrimoine du Siège apostolique au Secrétariat pour l'Économie",
+        "it": "Lettera Apostolica in forma di Motu Proprio - Trasferimento della Sezione Ordinaria dell’Amministrazione del Patrimonio della Sede Apostolica alla Segreteria per l’Economia"
+      }
+    }
+  ]
+}

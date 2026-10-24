@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-e-lungo-tempo",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola È lungo tempo"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory XVI · 1841-08-29",
+    "pt-BR": "Carta · Papa Gregório XVI · 1841-08-29"
+  },
+  "composed": "1841",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/epistola-e-lungo-tempo-29-agosto-1841.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola È lungo tempo"
+      }
+    }
+  ]
+}

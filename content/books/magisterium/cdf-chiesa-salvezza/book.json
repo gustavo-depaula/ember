@@ -1,0 +1,88 @@
+{
+  "id": "cdf-chiesa-salvezza",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Observations on ARCIC II’s «Salvation and the Church»",
+    "pt-BR": "Observações sobre o documento da ARCIC II «A salvação e a Igreja», 18 de novembro de 1988",
+    "de": "Bemerkungen zum Dokument der ARCIC II: Das Heil und die Kirche, 18. November 1988",
+    "es": "Observaciones sobre el documento de la ARCIC II «La salvación y la Iglesia» 18 noviembre 1988",
+    "fr": "Observations sur le document de l'ARCIC II: Le Salut et l'Eglise, 18 novembre 1988",
+    "it": "Osservazioni circa il documento dell'ARCIC II: La salvezza e la Chiesa, 18 novembre 1988",
+    "pl": "UWAGI I KOMENTARZ DO DOKUMENTU \"ARCIC II\" ZBAWIENIE I KOŚCIÓŁ"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1988-11-18",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1988-11-18"
+  },
+  "composed": "1988",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19881118_chiesa-salvezza_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19881118_chiesa-salvezza_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19881118_chiesa-salvezza_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19881118_chiesa-salvezza_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19881118_chiesa-salvezza_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19881118_chiesa-salvezza_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19881118_chiesa-salvezza_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Observations on ARCIC II’s «Salvation and the Church»",
+        "pt-BR": "Observações sobre o documento da ARCIC II «A salvação e a Igreja», 18 de novembro de 1988",
+        "de": "Bemerkungen zum Dokument der ARCIC II: Das Heil und die Kirche, 18. November 1988",
+        "es": "Observaciones sobre el documento de la ARCIC II «La salvación y la Iglesia» 18 noviembre 1988",
+        "fr": "Observations sur le document de l'ARCIC II: Le Salut et l'Eglise, 18 novembre 1988",
+        "it": "Osservazioni circa il documento dell'ARCIC II: La salvezza e la Chiesa, 18 novembre 1988",
+        "pl": "UWAGI I KOMENTARZ DO DOKUMENTU \"ARCIC II\" ZBAWIENIE I KOŚCIÓŁ"
+      }
+    }
+  ]
+}

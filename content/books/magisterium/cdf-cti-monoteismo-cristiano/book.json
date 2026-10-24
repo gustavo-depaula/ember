@@ -1,0 +1,112 @@
+{
+  "id": "cdf-cti-monoteismo-cristiano",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Christian monotheism and its opposition to violence. God the Trinity and the unity of humanity",
+    "pt-BR": "Deus Trindade, unidade dos homens. O monoteísmo cristão contra a violência, 17 de janeiro de 2014",
+    "de": "Der christliche Monotheismus gegen die Gewalt. Der Dreifaltige Gott, Einheit des Menschen",
+    "es": "Dios Trinidad, unidad de los hombres. El monoteísmo cristiano contra la violencia",
+    "fr": "Le monothéisme chrétien contre la violence. Dieu Trinité, unité des hommes",
+    "hu": "A Szentháromságos egy Isten, az emberek egységének alapelve. A keresztény egyistenhit az erőszak ellen",
+    "it": "Il monoteismo cristiano contro la violenza. Dio Trinità, unità degli uomini",
+    "pl": "Bóg Trójca, jedność ludzi. Chrześcijański monoteizm przeciwko przemocy",
+    "ru": "ТРИЕДИНЫЙ БОГ – ЕДИНСТВО ЧЕЛОВЕЧЕСТВА Христианский монотеизм против насилия",
+    "zh": "God the Trinity and the Unity of Humanity: Christian Monotheism and its Opposition to Violence"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2014-01-17",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2014-01-17"
+  },
+  "composed": "2014",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru",
+    "zh"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_monoteismo-cristiano_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_monoteismo-cristiano_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_monoteismo-cristiano_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_monoteismo-cristiano_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_monoteismo-cristiano_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_monoteismo-cristiano_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_monoteismo-cristiano_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_monoteismo-cristiano_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_monoteismo-cristiano_ru.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_monoteismo-cristiano_zh.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Christian monotheism and its opposition to violence. God the Trinity and the unity of humanity",
+        "pt-BR": "Deus Trindade, unidade dos homens. O monoteísmo cristão contra a violência, 17 de janeiro de 2014",
+        "de": "Der christliche Monotheismus gegen die Gewalt. Der Dreifaltige Gott, Einheit des Menschen",
+        "es": "Dios Trinidad, unidad de los hombres. El monoteísmo cristiano contra la violencia",
+        "fr": "Le monothéisme chrétien contre la violence. Dieu Trinité, unité des hommes",
+        "hu": "A Szentháromságos egy Isten, az emberek egységének alapelve. A keresztény egyistenhit az erőszak ellen",
+        "it": "Il monoteismo cristiano contro la violenza. Dio Trinità, unità degli uomini",
+        "pl": "Bóg Trójca, jedność ludzi. Chrześcijański monoteizm przeciwko przemocy",
+        "ru": "ТРИЕДИНЫЙ БОГ – ЕДИНСТВО ЧЕЛОВЕЧЕСТВА Христианский монотеизм против насилия",
+        "zh": "God the Trinity and the Unity of Humanity: Christian Monotheism and its Opposition to Violence"
+      }
+    }
+  ]
+}

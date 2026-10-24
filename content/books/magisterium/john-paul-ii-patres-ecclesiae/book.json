@@ -1,0 +1,72 @@
+{
+  "id": "john-paul-ii-patres-ecclesiae",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Apostolica Patres Ecclesiae",
+    "de": "Patres Ecclesiae",
+    "es": "Patres Ecclesiae",
+    "fr": "Patres Ecclesiae",
+    "it": "Patres Ecclesiae"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1980-01-02",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1980-01-02"
+  },
+  "composed": "1980",
+  "languages": [
+    "la",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1980/documents/hf_jp-ii_apl_02011980_patres-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1980/documents/hf_jp-ii_apl_02011980_patres-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1980/documents/hf_jp-ii_apl_02011980_patres-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1980/documents/hf_jp-ii_apl_02011980_patres-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1980/documents/hf_jp-ii_apl_02011980_patres-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Apostolica Patres Ecclesiae",
+        "de": "Patres Ecclesiae",
+        "es": "Patres Ecclesiae",
+        "fr": "Patres Ecclesiae",
+        "it": "Patres Ecclesiae"
+      }
+    }
+  ]
+}

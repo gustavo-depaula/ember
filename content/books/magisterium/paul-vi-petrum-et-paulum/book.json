@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-petrum-et-paulum",
+  "cover": "quarter",
+  "name": {
+    "la": "Petrum et Paulum Apostolos",
+    "it": "Petrum et Paulum Apostolos"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Paul VI · 1967-02-22",
+    "pt-BR": "Exortação Apostólica · Papa Paulo VI · 1967-02-22"
+  },
+  "composed": "1967",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_exhortations/documents/hf_p-vi_exh_19670222_petrum-et-paulum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19670222_petrum-et-paulum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Petrum et Paulum Apostolos",
+        "it": "Petrum et Paulum Apostolos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "alexander-iv-dignum-arbitramur-et-congruum",
+  "cover": "quarter",
+  "name": {
+    "la": "Dignum Arbitramur et Congruum",
+    "en-US": "Dignum Arbitramur et Congruum"
+  },
+  "author": {
+    "en-US": "Pope Alexander IV",
+    "pt-BR": "Papa Alexandre IV",
+    "la": "Alexander PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Alexander IV · 1255-09-22",
+    "pt-BR": "Documento · Papa Alexandre IV · 1255-09-22"
+  },
+  "composed": "1255",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "alexander-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1255-09-22,_SS_Alexander_IV,_Dignum_Arbitramur,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/alex04/alex4dignum.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Dignum Arbitramur et Congruum",
+        "en-US": "Dignum Arbitramur et Congruum"
+      }
+    }
+  ]
+}

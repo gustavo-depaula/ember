@@ -1,0 +1,80 @@
+{
+  "id": "pius-xi-ad-catholici-sacerdotii",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad catholici sacerdotii, Litterae Encyclicae de sacerdotio catholico, d. 20 m. Decembris a. 1935, Pius PP. XI",
+    "en-US": "Ad Catholici Sacerdotii",
+    "de": "Ad Catholici Sacerdotii (December 20, 1935)",
+    "es": "Ad catholici sacerdotii",
+    "fr": "Ad Catholici Sacerdotii",
+    "it": "Ad Catholici Sacerdotii"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1935-12-20",
+    "pt-BR": "Encíclica · Papa Pio XI · 1935-12-20"
+  },
+  "composed": "1935",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1935-12-20,_SS_Pius_XI,_Encyclica_'Ad_Catholici_Sacerdotii',_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19351220_ad-catholici-sacerdotii.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad catholici sacerdotii, Litterae Encyclicae de sacerdotio catholico, d. 20 m. Decembris a. 1935, Pius PP. XI",
+        "en-US": "Ad Catholici Sacerdotii",
+        "de": "Ad Catholici Sacerdotii (December 20, 1935)",
+        "es": "Ad catholici sacerdotii",
+        "fr": "Ad Catholici Sacerdotii",
+        "it": "Ad Catholici Sacerdotii"
+      }
+    }
+  ]
+}

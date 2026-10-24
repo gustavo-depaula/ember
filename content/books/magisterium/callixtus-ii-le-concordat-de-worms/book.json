@@ -1,0 +1,40 @@
+{
+  "id": "callixtus-ii-le-concordat-de-worms",
+  "cover": "quarter",
+  "name": {
+    "la": "Le Concordat de Worms"
+  },
+  "author": {
+    "en-US": "Pope Callixtus II",
+    "pt-BR": "Papa Calisto II",
+    "la": "Callixtus PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope Callixtus II · 1122-09-23",
+    "pt-BR": "Documento · Papa Calisto II · 1122-09-23"
+  },
+  "composed": "1122",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "callixtus-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1122-09-23,_SS_Callixtus_II,_Le_Concordat_de_Worms,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Le Concordat de Worms"
+      }
+    }
+  ]
+}

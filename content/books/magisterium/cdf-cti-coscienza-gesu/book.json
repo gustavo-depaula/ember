@@ -1,0 +1,120 @@
+{
+  "id": "cdf-cti-coscienza-gesu",
+  "cover": "quarter",
+  "name": {
+    "la": "De Iesu autoconscientia quam scilicet ipse de se ipso et de sua missione habuit, 1985, Commissio Theologica Internationalis",
+    "en-US": "The Consciousness of Christ Concerning Himself and His Mission, 1985",
+    "pt-BR": "A consciência que Jesus tinha de si mesmo e de sua missão",
+    "cs": "Vědomí, které měl Ježíš o sobě a o svém poslání, 1985",
+    "de": "Jesu Selbst- und Sendungsbewusstsein, 1985",
+    "es": "La conciencia que Jesús tenía de sí mismo y de su misión 1985",
+    "fr": "La conscience que Jésus avait de lui-même et de sa mission, 1985",
+    "hu": "JÉZUS TUDATA ÖNMAGÁRÓL ÉS KÜLDETÉSÉRŐL",
+    "it": "La coscienza che Gesù aveva di se stesso e della sua missione, 1985",
+    "pl": "ŚWIADOMOŚĆ, JAKĄ JEZUS MIAŁ O SOBIE SAMYM IO SWOIM POSŁANIU, 1985",
+    "ru": "САМОСОЗНАНИЕ ИИСУСА"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1985",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1985"
+  },
+  "composed": "1985",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1985_coscienza-gesu_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1985_coscienza-gesu_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1985_coscienza-gesu_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1985_coscienza-gesu_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1985_coscienza-gesu_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1985_coscienza-gesu_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1985_coscienza-gesu_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1985_coscienza-gesu_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1985_coscienza-gesu_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1985_coscienza-gesu_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1985_coscienza-gesu_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "De Iesu autoconscientia quam scilicet ipse de se ipso et de sua missione habuit, 1985, Commissio Theologica Internationalis",
+        "en-US": "The Consciousness of Christ Concerning Himself and His Mission, 1985",
+        "pt-BR": "A consciência que Jesus tinha de si mesmo e de sua missão",
+        "cs": "Vědomí, které měl Ježíš o sobě a o svém poslání, 1985",
+        "de": "Jesu Selbst- und Sendungsbewusstsein, 1985",
+        "es": "La conciencia que Jesús tenía de sí mismo y de su misión 1985",
+        "fr": "La conscience que Jésus avait de lui-même et de sa mission, 1985",
+        "hu": "JÉZUS TUDATA ÖNMAGÁRÓL ÉS KÜLDETÉSÉRŐL",
+        "it": "La coscienza che Gesù aveva di se stesso e della sua missione, 1985",
+        "pl": "ŚWIADOMOŚĆ, JAKĄ JEZUS MIAŁ O SOBIE SAMYM IO SWOIM POSŁANIU, 1985",
+        "ru": "САМОСОЗНАНИЕ ИИСУСА"
+      }
+    }
+  ]
+}

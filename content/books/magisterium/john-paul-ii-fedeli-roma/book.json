@@ -1,0 +1,72 @@
+{
+  "id": "john-paul-ii-fedeli-roma",
+  "cover": "quarter",
+  "name": {
+    "en-US": "To the faithful of the Rome Diocese",
+    "pt-BR": "Mensagem aos fiéis da Igreja de Roma na iminência do Grande Jubileu do Ano 2000",
+    "de": "Botschaft an die Gläubigen von Rom an der Schwelle zum Großen Jubiläum 2000",
+    "es": "Mensaje a los fieles de la diócesis de Roma",
+    "it": "Messaggio ai fedeli della Chiesa di Roma nell'imminenza del grande Giubileo dell'Anno 2000"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1999-11-01",
+    "pt-BR": "Carta · Papa João Paulo II · 1999-11-01"
+  },
+  "composed": "1999",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/1999/documents/hf_jp-ii_let_19991101_fedeli-roma.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/1999/documents/hf_jp-ii_let_19991101_fedeli-roma.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/1999/documents/hf_jp-ii_let_19991101_fedeli-roma.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/1999/documents/hf_jp-ii_let_19991101_fedeli-roma.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1999/documents/hf_jp-ii_let_19991101_fedeli-roma.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "To the faithful of the Rome Diocese",
+        "pt-BR": "Mensagem aos fiéis da Igreja de Roma na iminência do Grande Jubileu do Ano 2000",
+        "de": "Botschaft an die Gläubigen von Rom an der Schwelle zum Großen Jubiläum 2000",
+        "es": "Mensaje a los fieles de la diócesis de Roma",
+        "it": "Messaggio ai fedeli della Chiesa di Roma nell'imminenza del grande Giubileo dell'Anno 2000"
+      }
+    }
+  ]
+}

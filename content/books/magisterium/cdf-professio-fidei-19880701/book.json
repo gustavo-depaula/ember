@@ -1,0 +1,80 @@
+{
+  "id": "cdf-professio-fidei-19880701",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Profession of Faith and Oath of Fidelity",
+    "de": "Glaubensbekenntnis, 1. Juli 1988",
+    "es": "Profesión de fe-Juramento de fidelidad, 1 julio 1988",
+    "fr": "Profession de foi et serment de fidélité dans l'exercise d'une fonction au nom de l'Eglise, 1er juillet 1988",
+    "it": "Professione di fede, 1 luglio 1988",
+    "pl": "Professio Fidei et Iusiurandum fidelitatis in suscipiendo officio nomine Ecclesiae exercendo"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1988-07-01",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1988-07-01"
+  },
+  "composed": "1988",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19880701_professio-fidei_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19880701_professio-fidei_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19880701_professio-fidei_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19880701_professio-fidei_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19880701_professio-fidei_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19880701_professio-fidei_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Profession of Faith and Oath of Fidelity",
+        "de": "Glaubensbekenntnis, 1. Juli 1988",
+        "es": "Profesión de fe-Juramento de fidelidad, 1 julio 1988",
+        "fr": "Profession de foi et serment de fidélité dans l'exercise d'une fonction au nom de l'Eglise, 1er juillet 1988",
+        "it": "Professione di fede, 1 luglio 1988",
+        "pl": "Professio Fidei et Iusiurandum fidelitatis in suscipiendo officio nomine Ecclesiae exercendo"
+      }
+    }
+  ]
+}

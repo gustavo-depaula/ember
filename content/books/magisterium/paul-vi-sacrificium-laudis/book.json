@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-sacrificium-laudis",
+  "cover": "quarter",
+  "name": {
+    "la": "Sacrificium laudis, Epistula Apostolica, Die 15 m. Augusti a. 1966, Paulus PP.VI",
+    "it": "Sacrificium laudis"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1966-08-15",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1966-08-15"
+  },
+  "composed": "1966",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19660815_sacrificium-laudis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19660815_sacrificium-laudis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sacrificium laudis, Epistula Apostolica, Die 15 m. Augusti a. 1966, Paulus PP.VI",
+        "it": "Sacrificium laudis"
+      }
+    }
+  ]
+}

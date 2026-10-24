@@ -1,0 +1,48 @@
+{
+  "id": "clement-xiv-salutis-nostrae",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Salutis Nostrae",
+    "it": "Bolla Salutis nostrae"
+  },
+  "author": {
+    "en-US": "Pope Clement XIV",
+    "pt-BR": "Papa Clemente XIV",
+    "la": "Clemens PP. XIV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Clement XIV · 1774-04-30",
+    "pt-BR": "Bula · Papa Clemente XIV · 1774-04-30"
+  },
+  "composed": "1774",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "clement-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/clem14/c14salut.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiv/it/documents/bolla-salutis-nostrae-30-aprile-1774.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Salutis Nostrae",
+        "it": "Bolla Salutis nostrae"
+      }
+    }
+  ]
+}

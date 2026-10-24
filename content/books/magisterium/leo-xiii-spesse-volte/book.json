@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-spesse-volte",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Spesse Volte",
+    "it": "Spesse Volte"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1898-08-05",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1898-08-05"
+  },
+  "composed": "1898",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_05081898_spesse-volte.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_05081898_spesse-volte.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Spesse Volte",
+        "it": "Spesse Volte"
+      }
+    }
+  ]
+}

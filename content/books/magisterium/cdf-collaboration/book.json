@@ -1,0 +1,104 @@
+{
+  "id": "cdf-collaboration",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Bishops of the Catholic Church on the collaboration of men and women in the Church and in the World",
+    "pt-BR": "Carta aos Bispos da Igreja Católica sobre a colaboração do homem e da mulher na Igreja e no mundo",
+    "de": "SCHREIBEN AN DIE BISCHÖFE DER KATHOLISCHEN KIRCHE ÜBER DIE ZUSAMMENARBEIT VON MANN UND FRAU IN DER KIRCHE UND IN DER WELT",
+    "es": "Carta a los Obispos de la Iglesia Católica sobre la colaboración del hombre y de la mujer en la Iglesia y el mundo",
+    "fr": "Lettre aux Évêques de l'Église Catholique sur la collaboration de l'homme et de la femme dans l'Église et dans le monde",
+    "hu": "Levél a Katolikus Egyház Püspökeihez a férfi és nő együttműködéséről az Egyházban és a világban",
+    "it": "Lettera ai Vescovi della Chiesa Cattolica sulla collaborazione dellÂÂÂ’uomo e della donna nella Chiesa e nel mondo",
+    "nl": "Letter to the Bishops of the Catholic Church on the collaboration of men and women in the Church and in the world",
+    "pl": "LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O WSPÓŁDZIAŁANIU MĘŻCZYZNY I KOBIETY W KOŚCIELE I ŚWIECIE"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2004-07-31",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2004-07-31"
+  },
+  "composed": "2004",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "nl",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20040731_collaboration_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20040731_collaboration_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20040731_collaboration_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20040731_collaboration_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20040731_collaboration_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20040731_collaboration_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20040731_collaboration_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20040731_collaboration_nl.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20040731_collaboration_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Bishops of the Catholic Church on the collaboration of men and women in the Church and in the World",
+        "pt-BR": "Carta aos Bispos da Igreja Católica sobre a colaboração do homem e da mulher na Igreja e no mundo",
+        "de": "SCHREIBEN AN DIE BISCHÖFE DER KATHOLISCHEN KIRCHE ÜBER DIE ZUSAMMENARBEIT VON MANN UND FRAU IN DER KIRCHE UND IN DER WELT",
+        "es": "Carta a los Obispos de la Iglesia Católica sobre la colaboración del hombre y de la mujer en la Iglesia y el mundo",
+        "fr": "Lettre aux Évêques de l'Église Catholique sur la collaboration de l'homme et de la femme dans l'Église et dans le monde",
+        "hu": "Levél a Katolikus Egyház Püspökeihez a férfi és nő együttműködéséről az Egyházban és a világban",
+        "it": "Lettera ai Vescovi della Chiesa Cattolica sulla collaborazione dellÂÂÂ’uomo e della donna nella Chiesa e nel mondo",
+        "nl": "Letter to the Bishops of the Catholic Church on the collaboration of men and women in the Church and in the world",
+        "pl": "LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O WSPÓŁDZIAŁANIU MĘŻCZYZNY I KOBIETY W KOŚCIELE I ŚWIECIE"
+      }
+    }
+  ]
+}

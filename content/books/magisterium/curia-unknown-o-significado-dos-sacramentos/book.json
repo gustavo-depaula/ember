@@ -1,0 +1,39 @@
+{
+  "id": "curia-unknown-o-significado-dos-sacramentos",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "O significado dos Sacramentos"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana"
+  },
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/o-significado-dos-sacramentos-2/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "O significado dos Sacramentos"
+      }
+    }
+  ]
+}

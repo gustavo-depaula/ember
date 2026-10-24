@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-semper-romani",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Cum semper Romani, al Presidente del Comitato per l'erigenda Università Cattolica degli studi a Milano, con la quale il Sommo Pontefice mette a disposizione una somma per consentire a due giovani la prosecuzione degli studi"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1921-02-09",
+    "pt-BR": "Carta · Papa Bento XV · 1921-02-09"
+  },
+  "composed": "1921",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1921/documents/hf_ben-xv_let_19210209_semper-romani.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Cum semper Romani, al Presidente del Comitato per l'erigenda Università Cattolica degli studi a Milano, con la quale il Sommo Pontefice mette a disposizione una somma per consentire a due giovani la prosecuzione degli studi"
+      }
+    }
+  ]
+}

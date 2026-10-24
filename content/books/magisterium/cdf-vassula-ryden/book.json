@@ -1,0 +1,80 @@
+{
+  "id": "cdf-vassula-ryden",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Circular Letter to the Presidents of the Episcopal Conferences regarding the writings and activities of Mrs Vassula Rydén, 25 January 2007",
+    "pt-BR": "Carta Circular aos presidentes das Conferências Episcopais sobre os escritos e a atividade da Sra. Vassula Rydén, 25 de janeiro de 2007",
+    "de": "Rundschreiben an die Vorsitzenden der Bischofskonferenzen bezüglich der Schriften und Tätigkeiten von Frau Vassula Rydén, 25. Januar 2007",
+    "es": "Carta circular a los presidentes de las Conferencias episcopales acerca de los escritos y la actividad de la señora Vassula Rydén",
+    "fr": "Lettre circulaire aux Présidents des Conférences épiscopales sur les écrits et l'activité de Mme Vassula Rydén, 25 janvier 2007",
+    "it": "Lettera circolare ai Presidenti delle Conferenze Episcopali circa gli scritti e l'attività della Signora Vassula Rydén, 25 gennaio 2007"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2007-01-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2007-01-25"
+  },
+  "composed": "2007",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070125_vassula-ryden_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070125_vassula-ryden_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070125_vassula-ryden_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070125_vassula-ryden_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070125_vassula-ryden_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070125_vassula-ryden_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Circular Letter to the Presidents of the Episcopal Conferences regarding the writings and activities of Mrs Vassula Rydén, 25 January 2007",
+        "pt-BR": "Carta Circular aos presidentes das Conferências Episcopais sobre os escritos e a atividade da Sra. Vassula Rydén, 25 de janeiro de 2007",
+        "de": "Rundschreiben an die Vorsitzenden der Bischofskonferenzen bezüglich der Schriften und Tätigkeiten von Frau Vassula Rydén, 25. Januar 2007",
+        "es": "Carta circular a los presidentes de las Conferencias episcopales acerca de los escritos y la actividad de la señora Vassula Rydén",
+        "fr": "Lettre circulaire aux Présidents des Conférences épiscopales sur les écrits et l'activité de Mme Vassula Rydén, 25 janvier 2007",
+        "it": "Lettera circolare ai Presidenti delle Conferenze Episcopali circa gli scritti e l'attività della Signora Vassula Rydén, 25 gennaio 2007"
+      }
+    }
+  ]
+}

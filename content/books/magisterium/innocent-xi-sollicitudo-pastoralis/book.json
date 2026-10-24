@@ -1,0 +1,48 @@
+{
+  "id": "innocent-xi-sollicitudo-pastoralis",
+  "cover": "quarter",
+  "name": {
+    "la": "Sollicitudo pastoralis",
+    "en-US": "Sollicitudo pastoralis"
+  },
+  "author": {
+    "en-US": "Pope Innocent XI",
+    "pt-BR": "Papa Inocêncio XI",
+    "la": "Innocentius PP. XI"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent XI · 1679-11-20",
+    "pt-BR": "Documento · Papa Inocêncio XI · 1679-11-20"
+  },
+  "composed": "1679",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.papalencyclicals.net/innoc11/soll-l.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1679-11-20,_SS_Innocentius_XI,_Bulla_'Sollicitudo_Pastoralis',_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sollicitudo pastoralis",
+        "en-US": "Sollicitudo pastoralis"
+      }
+    }
+  ]
+}

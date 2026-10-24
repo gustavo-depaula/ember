@@ -1,0 +1,64 @@
+{
+  "id": "pius-xii-fulgens-corona",
+  "cover": "quarter",
+  "name": {
+    "la": "Fulgens Corona, Epistula Encyclicae annus marianus ubique gentium celebrandus indicitur, primo exeunte saeculo a definito dogmate Immaculatae Conceptionis B. Mariae V., d. 8 m. Septembris a. 1953, Pius PP. XII",
+    "en-US": "Fulgens Corona",
+    "pt-BR": "Fulgens Corona",
+    "it": "Fulgens Corona"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1953-09-08",
+    "pt-BR": "Encíclica · Papa Pio XII · 1953-09-08"
+  },
+  "composed": "1953",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Fulgens Corona, Epistula Encyclicae annus marianus ubique gentium celebrandus indicitur, primo exeunte saeculo a definito dogmate Immaculatae Conceptionis B. Mariae V., d. 8 m. Septembris a. 1953, Pius PP. XII",
+        "en-US": "Fulgens Corona",
+        "pt-BR": "Fulgens Corona",
+        "it": "Fulgens Corona"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-non-levis",
+  "cover": "quarter",
+  "name": {
+    "it": "Non levis"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1894-02-26",
+    "pt-BR": "Carta · Papa Leão XIII · 1894-02-26"
+  },
+  "composed": "1894",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18940226_non-levis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Non levis"
+      }
+    }
+  ]
+}

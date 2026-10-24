@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-quae-nuncia",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Quae nuncia"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1839-08-04",
+    "pt-BR": "Breve · Papa Gregório XVI · 1839-08-04"
+  },
+  "composed": "1839",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-quae-nuncia-4-agosto-1839.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Quae nuncia"
+      }
+    }
+  ]
+}

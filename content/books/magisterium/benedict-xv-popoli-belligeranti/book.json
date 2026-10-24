@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-popoli-belligeranti",
+  "cover": "quarter",
+  "name": {
+    "fr": "Lettre aux chefs des peuples belligérants",
+    "it": "Lettera ai Capi dei popoli belligeranti"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1917-08-01",
+    "pt-BR": "Carta · Papa Bento XV · 1917-08-01"
+  },
+  "composed": "1917",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xv/fr/letters/1917/documents/hf_ben-xv_let_19170801_popoli-belligeranti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1917/documents/hf_ben-xv_let_19170801_popoli-belligeranti.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Lettre aux chefs des peuples belligérants",
+        "it": "Lettera ai Capi dei popoli belligeranti"
+      }
+    }
+  ]
+}

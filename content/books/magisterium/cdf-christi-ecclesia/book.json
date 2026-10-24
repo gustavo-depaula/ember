@@ -1,0 +1,96 @@
+{
+  "id": "cdf-christi-ecclesia",
+  "cover": "quarter",
+  "name": {
+    "la": "Declaratio de quibusdam capitibus doctrinae theologiae professoris Ioannis Küng, qui, ab integra fidei catholicae veritate deficiens , munere docendi, qua theologus catholicus, privatus declaratur, d. 15 m. Decembris a. 1979, Congregatio pro Doctrina Fidei",
+    "en-US": "Declaration regarding certain aspects of the theological doctrine of Professor Hans Küng – Christi Ecclesia",
+    "pt-BR": "Declaração acerca de alguns pontos da doutrina teológica do Prof. Küng, 15 de dezembro de 1979",
+    "de": "Erklärung über einige Hauptpunkte der theologischen Lehre von Prof. Hans Küng, 15. Dezember 1979",
+    "es": "Declaración sobre algunos puntos de la doctrina teológica del profesor Hans Küng, 15 diciembre 1979",
+    "fr": "Déclaration relative à certains points de la doctrine théologique du professeur Hans Küng, 15 décembre 1979",
+    "it": "Dichiarazione circa alcuni punti della dottrina teologica del professore Hans Küng, 15 dicembre 1979",
+    "pl": "DEKLARACJA O NIEKTÓRYCH ASPEKTACH NAUCZANIA TEOLOGICZNEGO PROFESORA HANSA KÜNGA, 15 grudnia 1979 r."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1979-12-15",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1979-12-15"
+  },
+  "composed": "1979",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19791215_christi-ecclesia_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19791215_christi-ecclesia_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19791215_christi-ecclesia_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19791215_christi-ecclesia_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19791215_christi-ecclesia_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19791215_christi-ecclesia_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19791215_christi-ecclesia_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19791215_christi-ecclesia_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Declaratio de quibusdam capitibus doctrinae theologiae professoris Ioannis Küng, qui, ab integra fidei catholicae veritate deficiens , munere docendi, qua theologus catholicus, privatus declaratur, d. 15 m. Decembris a. 1979, Congregatio pro Doctrina Fidei",
+        "en-US": "Declaration regarding certain aspects of the theological doctrine of Professor Hans Küng – Christi Ecclesia",
+        "pt-BR": "Declaração acerca de alguns pontos da doutrina teológica do Prof. Küng, 15 de dezembro de 1979",
+        "de": "Erklärung über einige Hauptpunkte der theologischen Lehre von Prof. Hans Küng, 15. Dezember 1979",
+        "es": "Declaración sobre algunos puntos de la doctrina teológica del profesor Hans Küng, 15 diciembre 1979",
+        "fr": "Déclaration relative à certains points de la doctrine théologique du professeur Hans Küng, 15 décembre 1979",
+        "it": "Dichiarazione circa alcuni punti della dottrina teologica del professore Hans Küng, 15 dicembre 1979",
+        "pl": "DEKLARACJA O NIEKTÓRYCH ASPEKTACH NAUCZANIA TEOLOGICZNEGO PROFESORA HANSA KÜNGA, 15 grudnia 1979 r."
+      }
+    }
+  ]
+}

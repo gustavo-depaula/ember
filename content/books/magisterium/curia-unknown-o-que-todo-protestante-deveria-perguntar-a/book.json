@@ -1,0 +1,39 @@
+{
+  "id": "curia-unknown-o-que-todo-protestante-deveria-perguntar-a",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "O que todo protestante deveria perguntar a si mesmo…"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana"
+  },
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/o-que-todo-protestante-deveria-perguntar-para-si-mesmo/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "O que todo protestante deveria perguntar a si mesmo…"
+      }
+    }
+  ]
+}

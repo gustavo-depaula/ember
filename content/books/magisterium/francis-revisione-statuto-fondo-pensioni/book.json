@@ -1,0 +1,40 @@
+{
+  "id": "francis-revisione-statuto-fondo-pensioni",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Apostolica in forma di “Motu Proprio” sulla Revisione dello Statuto del Fondo Pensioni Vaticano"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2015-05-28",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2015-05-28"
+  },
+  "composed": "2015",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco_lettera-ap_20150528_revisione-statuto-fondo-pensioni.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Apostolica in forma di “Motu Proprio” sulla Revisione dello Statuto del Fondo Pensioni Vaticano"
+      }
+    }
+  ]
+}

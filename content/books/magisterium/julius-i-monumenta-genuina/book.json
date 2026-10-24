@@ -1,0 +1,48 @@
+{
+  "id": "julius-i-monumenta-genuina",
+  "cover": "quarter",
+  "name": {
+    "la": "Monumenta Genuina",
+    "grc": "Monumenta Genuina"
+  },
+  "author": {
+    "en-US": "Pope Julius I",
+    "pt-BR": "Papa Júlio I",
+    "la": "Iulius PP. I"
+  },
+  "description": {
+    "en-US": "Document · Pope Julius I · 0337",
+    "pt-BR": "Documento · Papa Júlio I · 0337"
+  },
+  "composed": "337",
+  "languages": [
+    "la",
+    "grc"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "julius-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0337-0352,_SS_Iulius_I,_Monumenta_Genuina,_LT_GR.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "grc",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0337-0352,_SS_Iulius_I,_Monumenta_Genuina,_LT_GR.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Monumenta Genuina",
+        "grc": "Monumenta Genuina"
+      }
+    }
+  ]
+}

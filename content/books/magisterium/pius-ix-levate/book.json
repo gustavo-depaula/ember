@@ -1,0 +1,56 @@
+{
+  "id": "pius-ix-levate",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Encyclica Levate",
+    "en-US": "Levate",
+    "it": "Enciclica Levate"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius IX · 1867-10-17",
+    "pt-BR": "Carta · Papa Pio IX · 1867-10-17"
+  },
+  "composed": "1867",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-levate-17-octobris-1867.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9levate.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-levate-17-octobris-1867.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Encyclica Levate",
+        "en-US": "Levate",
+        "it": "Enciclica Levate"
+      }
+    }
+  ]
+}

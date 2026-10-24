@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-catechismo",
+  "cover": "quarter",
+  "name": {
+    "it": "Al Card. Pietro Respighi"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius X · 1912-10-18",
+    "pt-BR": "Carta · Papa Pio X · 1912-10-18"
+  },
+  "composed": "1912",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/letters/documents/hf_p-x_let_19121018_catechismo.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Al Card. Pietro Respighi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "benedict-xvi-youcat",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Prefácio a «Youcat» Catecismo da Igreja Católica destinado aos jovens, em vista da JMJ 2011 em Madri",
+    "de": "Vorwort von Papst Benedikt XVI. zu Youcat, 2. Februar 2011",
+    "es": "Prólogo de Benedicto XVI a Youcat, material de acompañamiento del Catecismo de la Iglesia católica dedicado a los jóvenes",
+    "fr": "Préface écrite par Benoît XVI pour Youcat, le manuel de catéchisme destiné aux jeunes",
+    "it": "Prefazione scritta da Benedetto XVI a Youcat, sussidio al Catechismo della Chiesa Cattolica destinato ai giovani"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XVI · 2011-02-02",
+    "pt-BR": "Carta · Papa Bento XVI · 2011-02-02"
+  },
+  "composed": "2011",
+  "languages": [
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/letters/2011/documents/hf_ben-xvi_let_20110202_youcat.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/letters/2011/documents/hf_ben-xvi_let_20110202_youcat.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/letters/2011/documents/hf_ben-xvi_let_20110202_youcat.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/letters/2011/documents/hf_ben-xvi_let_20110202_youcat.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/letters/2011/documents/hf_ben-xvi_let_20110202_youcat.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Prefácio a «Youcat» Catecismo da Igreja Católica destinado aos jovens, em vista da JMJ 2011 em Madri",
+        "de": "Vorwort von Papst Benedikt XVI. zu Youcat, 2. Februar 2011",
+        "es": "Prólogo de Benedicto XVI a Youcat, material de acompañamiento del Catecismo de la Iglesia católica dedicado a los jóvenes",
+        "fr": "Préface écrite par Benoît XVI pour Youcat, le manuel de catéchisme destiné aux jeunes",
+        "it": "Prefazione scritta da Benedetto XVI a Youcat, sussidio al Catechismo della Chiesa Cattolica destinato ai giovani"
+      }
+    }
+  ]
+}

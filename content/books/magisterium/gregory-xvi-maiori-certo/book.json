@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-maiori-certo",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Maiori certo"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1833-12-13",
+    "pt-BR": "Breve · Papa Gregório XVI · 1833-12-13"
+  },
+  "composed": "1833",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-maiori-certo-13-dicembre-1833.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Maiori certo"
+      }
+    }
+  ]
+}

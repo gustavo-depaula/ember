@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-catholicae-ecclesiae",
+  "cover": "quarter",
+  "name": {
+    "la": "Catholicae Ecclesiae",
+    "en-US": "Catholicae Ecclesiae",
+    "it": "Catholicae Ecclesiae"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1890-11-20",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1890-11-20"
+  },
+  "composed": "1890",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_20111890_catholicae-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20111890_catholicae-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_20111890_catholicae-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Catholicae Ecclesiae",
+        "en-US": "Catholicae Ecclesiae",
+        "it": "Catholicae Ecclesiae"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "john-paul-ii-reconciliatio-et-paenitentia",
+  "cover": "quarter",
+  "name": {
+    "la": "Reconciliatio et paenitentia (II Decembris MCMLXXXIV)",
+    "en-US": "Reconciliatio et Paenitentia",
+    "pt-BR": "Reconciliatio et Paenitentia",
+    "de": "Reconciliatio et Paenitentia",
+    "es": "Reconciliatio et Paenitentia",
+    "fr": "Reconciliatio et Paenitentia",
+    "hu": "Reconciliatio et poenitentia, apostoli buzdítása a kiengesztelődésről és bűnbánatról a mai Egyház küldetésében, a püspökökhöz, papokhoz és a hívekhez, 1984 december 2. - II. János Pál pápa",
+    "it": "Reconciliatio et Paenitentia",
+    "pl": "Reconciliatio et Paenitentia"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope John Paul II · 1984-12-02",
+    "pt-BR": "Exortação Apostólica · Papa João Paulo II · 1984-12-02"
+  },
+  "composed": "1984",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Reconciliatio et paenitentia (II Decembris MCMLXXXIV)",
+        "en-US": "Reconciliatio et Paenitentia",
+        "pt-BR": "Reconciliatio et Paenitentia",
+        "de": "Reconciliatio et Paenitentia",
+        "es": "Reconciliatio et Paenitentia",
+        "fr": "Reconciliatio et Paenitentia",
+        "hu": "Reconciliatio et poenitentia, apostoli buzdítása a kiengesztelődésről és bűnbánatról a mai Egyház küldetésében, a püspökökhöz, papokhoz és a hívekhez, 1984 december 2. - II. János Pál pápa",
+        "it": "Reconciliatio et Paenitentia",
+        "pl": "Reconciliatio et Paenitentia"
+      }
+    }
+  ]
+}

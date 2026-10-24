@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-le-notizie",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Le notizie, al Cardinale Pietro Gasparri sulla condizione di miseria in cui versa il popolo russo"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1921-08-05",
+    "pt-BR": "Carta · Papa Bento XV · 1921-08-05"
+  },
+  "composed": "1921",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1921/documents/hf_ben-xv_let_19210805_le-notizie.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Le notizie, al Cardinale Pietro Gasparri sulla condizione di miseria in cui versa il popolo russo"
+      }
+    }
+  ]
+}

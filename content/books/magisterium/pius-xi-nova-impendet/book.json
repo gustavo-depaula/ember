@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-nova-impendet",
+  "cover": "quarter",
+  "name": {
+    "la": "Nova impendet, Litterae Encyclicae de asperrimo rei oeconomicae discrimine, de lamentabili apud multos operum vacatione deque increscenti apparatus militaris studio, die 2 m. Octobris a. 1931, Pius PP. XI",
+    "en-US": "Nova Impendet",
+    "it": "Nova Impendet"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1931-10-02",
+    "pt-BR": "Encíclica · Papa Pio XI · 1931-10-02"
+  },
+  "composed": "1931",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19311002_nova-impendet.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_02101931_nova-impendet.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19311002_nova-impendet.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Nova impendet, Litterae Encyclicae de asperrimo rei oeconomicae discrimine, de lamentabili apud multos operum vacatione deque increscenti apparatus militaris studio, die 2 m. Octobris a. 1931, Pius PP. XI",
+        "en-US": "Nova Impendet",
+        "it": "Nova Impendet"
+      }
+    }
+  ]
+}

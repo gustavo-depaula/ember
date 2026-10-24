@@ -1,0 +1,80 @@
+{
+  "id": "pius-ix-quanta-cura",
+  "cover": "quarter",
+  "name": {
+    "la": "Encyclica Quanta cura",
+    "en-US": "Quanta Cura",
+    "pt-BR": "Quanta cura",
+    "de": "Enciclica Quanta cura (Roma, 8 dicembre 1864)",
+    "es": "Enciclica Quanta cura (Roma, 8 dicembre 1864)",
+    "it": "Enciclica Quanta cura"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1864-12-08",
+    "pt-BR": "Encíclica · Papa Pio IX · 1864-12-08"
+  },
+  "composed": "1864",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/encyclica-quanta-cura-8-decembris-1864.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9quanta.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/quanta-cura-pio-ix-08-12-1864/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1864-12-08,_SS_Pius_VIIII,_Syllabus,_LT_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1864-12-08,_SS_Pius_VIIII,_Quanta_Cura_[Syllabus],_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/encyclica-quanta-cura-8-decembris-1864.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Encyclica Quanta cura",
+        "en-US": "Quanta Cura",
+        "pt-BR": "Quanta cura",
+        "de": "Enciclica Quanta cura (Roma, 8 dicembre 1864)",
+        "es": "Enciclica Quanta cura (Roma, 8 dicembre 1864)",
+        "it": "Enciclica Quanta cura"
+      }
+    }
+  ]
+}

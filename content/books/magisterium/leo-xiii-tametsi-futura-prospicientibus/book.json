@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-tametsi-futura-prospicientibus",
+  "cover": "quarter",
+  "name": {
+    "la": "Tametsi Futura Prospicientibus",
+    "en-US": "Tametsi Futura Prospicientibus",
+    "it": "Tametsi\n Futura Prospicientibus (November 1, 1900)"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1900-11-01",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1900-11-01"
+  },
+  "composed": "1900",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01111900_tametsi-futura-prospicientibus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01111900_tametsi-futura-prospicientibus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1900-11-01,_SS_Leo_XIII,_Tametsi_Futura,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Tametsi Futura Prospicientibus",
+        "en-US": "Tametsi Futura Prospicientibus",
+        "it": "Tametsi\n Futura Prospicientibus (November 1, 1900)"
+      }
+    }
+  ]
+}

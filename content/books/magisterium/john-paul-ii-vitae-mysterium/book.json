@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-vitae-mysterium",
+  "cover": "quarter",
+  "name": {
+    "la": "Vitae mysterium, die XI mensis februarii, anno MCMXCIV",
+    "es": "Vitae Mysterium, institución de la Academia Pontificia para la Vida",
+    "it": "Vitae Mysterium"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1994-02-11",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1994-02-11"
+  },
+  "composed": "1994",
+  "languages": [
+    "la",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_19940211_vitae-mysterium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_19940211_vitae-mysterium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_19940211_vitae-mysterium.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Vitae mysterium, die XI mensis februarii, anno MCMXCIV",
+        "es": "Vitae Mysterium, institución de la Academia Pontificia para la Vida",
+        "it": "Vitae Mysterium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "curia-unknown-em-busca-de-uma-etica-universal-novo",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Em busca de uma ética universal: novo olhar sobre a Lei Natural"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana"
+  },
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/em-busca-de-uma-etica-universal-novo-olhar-sobre-a-lei-natural-2009/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Em busca de uma ética universal: novo olhar sobre a Lei Natural"
+      }
+    }
+  ]
+}

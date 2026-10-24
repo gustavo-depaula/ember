@@ -1,0 +1,80 @@
+{
+  "id": "cdf-cti-reciprocita-fede-sacramenti",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Reciprocity between Faith and Sacraments in the Sacramental Economy",
+    "pt-BR": "A reciprocidade entre fé e os sacramentos na economia sacramental",
+    "de": "Die Reziprozität zwischen Glaube und Sakramenten in der sakramentalen Heilsordnung",
+    "es": "La reciprocidad entre fe y sacramentos en la economía sacramental",
+    "fr": "La réciprocité entre foi et sacrements dans l’économie sacramentelle",
+    "it": "Reciprocità tra fede e sacramenti nell'economia sacramentale"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2020-03-03",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2020-03-03"
+  },
+  "composed": "2020",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20200303_reciprocita-fede-sacramenti_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20200303_reciprocita-fede-sacramenti_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20200303_reciprocita-fede-sacramenti_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20200303_reciprocita-fede-sacramenti_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20200303_reciprocita-fede-sacramenti_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20200303_reciprocita-fede-sacramenti_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Reciprocity between Faith and Sacraments in the Sacramental Economy",
+        "pt-BR": "A reciprocidade entre fé e os sacramentos na economia sacramental",
+        "de": "Die Reziprozität zwischen Glaube und Sakramenten in der sakramentalen Heilsordnung",
+        "es": "La reciprocidad entre fe y sacramentos en la economía sacramental",
+        "fr": "La réciprocité entre foi et sacrements dans l’économie sacramentelle",
+        "it": "Reciprocità tra fede e sacramenti nell'economia sacramentale"
+      }
+    }
+  ]
+}

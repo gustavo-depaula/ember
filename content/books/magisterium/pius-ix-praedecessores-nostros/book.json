@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-praedecessores-nostros",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Praedecessores Nostros",
+    "it": "Enciclica Praedecessores Nostros"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1847-03-25",
+    "pt-BR": "Encíclica · Papa Pio IX · 1847-03-25"
+  },
+  "composed": "1847",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9praede.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-praedecessores-nostros-25-marzo-1847.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Praedecessores Nostros",
+        "it": "Enciclica Praedecessores Nostros"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "francis-statuto-dicastero-servizio-sviluppo-umano-integrale",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Statutes of the Dicastery for promoting Integral Human Development",
+    "fr": "Statut du Dicastère pour le Service du Développement Humain Intégral",
+    "it": "Statuto del Dicastero per il Servizio dello Sviluppo Umano Integrale"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2016-08-17",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2016-08-17"
+  },
+  "composed": "2016",
+  "languages": [
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco_20160817_statuto-dicastero-servizio-sviluppo-umano-integrale.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco_20160817_statuto-dicastero-servizio-sviluppo-umano-integrale.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco_20160817_statuto-dicastero-servizio-sviluppo-umano-integrale.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Statutes of the Dicastery for promoting Integral Human Development",
+        "fr": "Statut du Dicastère pour le Service du Développement Humain Intégral",
+        "it": "Statuto del Dicastero per il Servizio dello Sviluppo Umano Integrale"
+      }
+    }
+  ]
+}

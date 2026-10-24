@@ -1,0 +1,64 @@
+{
+  "id": "john-xxiii-grata-recordatio",
+  "cover": "quarter",
+  "name": {
+    "la": "Grata Recordatio, Litterae Encyclicae De Mariali Rosario pie recitando, d. 26 septembris 1959, Ioannes PP. XXIII",
+    "en-US": "Grata Recordatio",
+    "es": "Grata Recordatio",
+    "it": "Grata Recordatio"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope John XXIII · 1959-09-26",
+    "pt-BR": "Encíclica · Papa João XXIII · 1959-09-26"
+  },
+  "composed": "1959",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Grata Recordatio, Litterae Encyclicae De Mariali Rosario pie recitando, d. 26 septembris 1959, Ioannes PP. XXIII",
+        "en-US": "Grata Recordatio",
+        "es": "Grata Recordatio",
+        "it": "Grata Recordatio"
+      }
+    }
+  ]
+}

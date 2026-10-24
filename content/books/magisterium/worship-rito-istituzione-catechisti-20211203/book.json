@@ -1,0 +1,72 @@
+{
+  "id": "worship-rito-istituzione-catechisti-20211203",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Presidents of the Episcopal Conferences on the Rite of Institution of Catechists",
+    "de": "Schreiben an die Präsidenten der Bischofskonferenzen über den Ritus der Beauftragung der Katecheten",
+    "es": "Carta a los presidentes de las Conferencias de Obispos sobre el rito de institución de los catequistas",
+    "fr": "Lettre aux Présidents des Conférences des Évêques sur le Rite d’institution des Catéchistes",
+    "it": "Lettera ai Presidenti delle Conferenze Episcopali sul Rito di Istituzione dei Catechisti"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2021-12-03",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2021-12-03"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211203_lettera-rito-istituzione-catechisti_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Presidents of the Episcopal Conferences on the Rite of Institution of Catechists",
+        "de": "Schreiben an die Präsidenten der Bischofskonferenzen über den Ritus der Beauftragung der Katecheten",
+        "es": "Carta a los presidentes de las Conferencias de Obispos sobre el rito de institución de los catequistas",
+        "fr": "Lettre aux Présidents des Conférences des Évêques sur le Rite d’institution des Catéchistes",
+        "it": "Lettera ai Presidenti delle Conferenze Episcopali sul Rito di Istituzione dei Catechisti"
+      }
+    }
+  ]
+}

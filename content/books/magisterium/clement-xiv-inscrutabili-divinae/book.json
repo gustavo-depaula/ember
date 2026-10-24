@@ -1,0 +1,48 @@
+{
+  "id": "clement-xiv-inscrutabili-divinae",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Inscrutabili Divinae Sapientiae",
+    "it": "Breve Inscrutabili divinae"
+  },
+  "author": {
+    "en-US": "Pope Clement XIV",
+    "pt-BR": "Papa Clemente XIV",
+    "la": "Clemens PP. XIV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Clement XIV · 1769-12-12",
+    "pt-BR": "Breve · Papa Clemente XIV · 1769-12-12"
+  },
+  "composed": "1769",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "clement-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/clem14/c14inscr.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiv/it/documents/breve-inscrutabili-divinae-12-dicembre-1769.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Inscrutabili Divinae Sapientiae",
+        "it": "Breve Inscrutabili divinae"
+      }
+    }
+  ]
+}

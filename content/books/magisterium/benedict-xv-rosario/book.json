@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-rosario",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Di altissimo pregio Reverendo Padre Costanzo M. Becchi, in cui si elogia l’attività del Sodalizio del Rosario Perpetuo"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1915-09-18",
+    "pt-BR": "Carta · Papa Bento XV · 1915-09-18"
+  },
+  "composed": "1915",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1915/documents/hf_ben-xv_let_19150918_rosario.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Di altissimo pregio Reverendo Padre Costanzo M. Becchi, in cui si elogia l’attività del Sodalizio del Rosario Perpetuo"
+      }
+    }
+  ]
+}

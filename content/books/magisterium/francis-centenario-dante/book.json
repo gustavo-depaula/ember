@@ -1,0 +1,96 @@
+{
+  "id": "francis-centenario-dante",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Candor Lucis Aeternae Summi Pontificis Francisci VII Centenaria occurrente memoria ab obitu Dantis Aligherii (die XXV mensis Martii, anno MMXXI)",
+    "en-US": "Apostolic Letter Candor lucis aeternae of the Holy Father on the Seventh Centenary of the Death of Dante Alighieri",
+    "pt-BR": "Carta apostólica Candor lucis aeternae no VII centenário da morte de Dante Alighieri",
+    "ar": "Apostolic Letter Candor lucis aeternae of the Holy Father on the Seventh Centenary of the Death of Dante Alighieri, 25 March 2021",
+    "de": "Apostolisches Schreiben Candor lucis aeternae zum 700. Todestag von Dante Alighieri",
+    "es": "Carta apostólica Candor lucis aeternae en el VII centenario de la muerte de Dante Alighieri",
+    "fr": "Lettre Apostolique Candor lucis aeternae à l'occasion du 7ème centenaire de la mort de Dante Alighieri",
+    "it": "Lettera apostolica “Candor lucis aeternae” in occasione del settimo centenario della morte di Dante Alighieri"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2021-03-25",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2021-03-25"
+  },
+  "composed": "2021",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_letters/documents/papa-francesco-lettera-ap_20210325_centenario-dante.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20210325_centenario-dante.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco-lettera-ap_20210325_centenario-dante.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/apost_letters/documents/papa-francesco-lettera-ap_20210325_centenario-dante.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_letters/documents/papa-francesco-lettera-ap_20210325_centenario-dante.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_letters/documents/papa-francesco-lettera-ap_20210325_centenario-dante.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/papa-francesco-lettera-ap_20210325_centenario-dante.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco-lettera-ap_20210325_centenario-dante.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Candor Lucis Aeternae Summi Pontificis Francisci VII Centenaria occurrente memoria ab obitu Dantis Aligherii (die XXV mensis Martii, anno MMXXI)",
+        "en-US": "Apostolic Letter Candor lucis aeternae of the Holy Father on the Seventh Centenary of the Death of Dante Alighieri",
+        "pt-BR": "Carta apostólica Candor lucis aeternae no VII centenário da morte de Dante Alighieri",
+        "ar": "Apostolic Letter Candor lucis aeternae of the Holy Father on the Seventh Centenary of the Death of Dante Alighieri, 25 March 2021",
+        "de": "Apostolisches Schreiben Candor lucis aeternae zum 700. Todestag von Dante Alighieri",
+        "es": "Carta apostólica Candor lucis aeternae en el VII centenario de la muerte de Dante Alighieri",
+        "fr": "Lettre Apostolique Candor lucis aeternae à l'occasion du 7ème centenaire de la mort de Dante Alighieri",
+        "it": "Lettera apostolica “Candor lucis aeternae” in occasione del settimo centenario della morte di Dante Alighieri"
+      }
+    }
+  ]
+}

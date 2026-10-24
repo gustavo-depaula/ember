@@ -1,0 +1,88 @@
+{
+  "id": "pius-xi-casti-connubii",
+  "cover": "quarter",
+  "name": {
+    "la": "Casti connubii, Litterae Encyclicae de matrimonio christiano, d. 31 m. Decembris a. 1930, Pius PP. XI",
+    "en-US": "Casti Connubii",
+    "pt-BR": "Casti connubii",
+    "es": "Casti Connubii",
+    "fr": "Casti Connubii",
+    "hu": "Casti Connubii, XI. Pius pápa enciklikája a keresztény házasságról Figyelemmel a család és a társadalom mai helyzetére, szükségleteire, tévedéseire és bűneire Róma, 1930",
+    "it": "Casti Connubii"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1930-12-31",
+    "pt-BR": "Encíclica · Papa Pio XI · 1930-12-31"
+  },
+  "composed": "1930",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "hu",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/casti-connubii-pio-xi-31-12-1930/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/pius-xi/hu/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Casti connubii, Litterae Encyclicae de matrimonio christiano, d. 31 m. Decembris a. 1930, Pius PP. XI",
+        "en-US": "Casti Connubii",
+        "pt-BR": "Casti connubii",
+        "es": "Casti Connubii",
+        "fr": "Casti Connubii",
+        "hu": "Casti Connubii, XI. Pius pápa enciklikája a keresztény házasságról Figyelemmel a család és a társadalom mai helyzetére, szükségleteire, tévedéseire és bűneire Róma, 1930",
+        "it": "Casti Connubii"
+      }
+    }
+  ]
+}

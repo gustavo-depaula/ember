@@ -1,0 +1,56 @@
+{
+  "id": "paul-vi-laudis-canticum",
+  "cover": "quarter",
+  "name": {
+    "la": "Laudis canticum, 1° novembre 1970",
+    "es": "Laudis canticum",
+    "it": "Laudis canticum"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Paul VI · 1970-11-01",
+    "pt-BR": "Constituição Apostólica · Papa Paulo VI · 1970-11-01"
+  },
+  "composed": "1970",
+  "languages": [
+    "la",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19701101_laudis-canticum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/apost_constitutions/documents/hf_p-vi_apc_19701101_laudis-canticum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_19701101_laudis-canticum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Laudis canticum, 1° novembre 1970",
+        "es": "Laudis canticum",
+        "it": "Laudis canticum"
+      }
+    }
+  ]
+}

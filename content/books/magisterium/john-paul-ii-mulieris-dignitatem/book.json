@@ -1,0 +1,96 @@
+{
+  "id": "john-paul-ii-mulieris-dignitatem",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula apostolica - Mulieris Dignitatem",
+    "en-US": "Mulieris Dignitatem, John Paul II, 15 August 1988 - Apostolic Letter",
+    "pt-BR": "Mulieris Dignitatem",
+    "de": "Apostolisches Schreiben Mulieris Dignitatem, Johannes Paul II., 15. August 1988",
+    "es": "Mulieris Dignitatem, Juan Pablo II, 15 de agosto de 1988 - Carta Apostólica",
+    "fr": "Mulieris Dignitatem, Jean-Paul II, 15 août 1988 - Lettre Apostolique",
+    "hu": "Mulieris Dignitatem, II. János Pál pápa, apostoli levele a nő méltóságáról és hivatásáról 1988. augusztus 15. - II. János Pál pápa",
+    "lt": "Epistula apostolica - Mulieris Dignitatem"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1988-08-15",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1988-08-15"
+  },
+  "composed": "1988",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "lt"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/hf_jp-ii_apl_15081988_mulieris-dignitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1988/documents/hf_jp-ii_apl_15081988_mulieris-dignitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1988/documents/hf_jp-ii_apl_15081988_mulieris-dignitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1988/documents/hf_jp-ii_apl_15081988_mulieris-dignitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lt",
+      "url": "https://www.vatican.va/content/john-paul-ii/lt/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula apostolica - Mulieris Dignitatem",
+        "en-US": "Mulieris Dignitatem, John Paul II, 15 August 1988 - Apostolic Letter",
+        "pt-BR": "Mulieris Dignitatem",
+        "de": "Apostolisches Schreiben Mulieris Dignitatem, Johannes Paul II., 15. August 1988",
+        "es": "Mulieris Dignitatem, Juan Pablo II, 15 de agosto de 1988 - Carta Apostólica",
+        "fr": "Mulieris Dignitatem, Jean-Paul II, 15 août 1988 - Lettre Apostolique",
+        "hu": "Mulieris Dignitatem, II. János Pál pápa, apostoli levele a nő méltóságáról és hivatásáról 1988. augusztus 15. - II. János Pál pápa",
+        "lt": "Epistula apostolica - Mulieris Dignitatem"
+      }
+    }
+  ]
+}

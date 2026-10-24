@@ -1,0 +1,80 @@
+{
+  "id": "cdf-notification-fr-haight",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Notification on the book \"Jesus Symbol of God\" by Father Roger Haight S.J.",
+    "pt-BR": "Notificação sobre o livro do Pe. Roger Haight",
+    "de": "Notifikation zu dem Buch Jesus Symbol of God von Pater Roger Haight SJ",
+    "es": "Notificación sobre el libro Jesus Symbol of God del padre Roger Haight, s.j",
+    "fr": "Notification sur le livre \"Jesus Symbol of God\" du Père Roger Haight, s.j.",
+    "it": "Notificazione sul libro \"Jesus Symbol of God\" di Padre Roger Haight S.J."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2004-12-13",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2004-12-13"
+  },
+  "composed": "2004",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20041213_notification-fr-haight_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20041213_notification-fr-haight_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20041213_notification-fr-haight_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20041213_notification-fr-haight_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20041213_notification-fr-haight_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20041213_notification-fr-haight_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Notification on the book \"Jesus Symbol of God\" by Father Roger Haight S.J.",
+        "pt-BR": "Notificação sobre o livro do Pe. Roger Haight",
+        "de": "Notifikation zu dem Buch Jesus Symbol of God von Pater Roger Haight SJ",
+        "es": "Notificación sobre el libro Jesus Symbol of God del padre Roger Haight, s.j",
+        "fr": "Notification sur le livre \"Jesus Symbol of God\" du Père Roger Haight, s.j.",
+        "it": "Notificazione sul libro \"Jesus Symbol of God\" di Padre Roger Haight S.J."
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-50-oss-rom",
+  "cover": "quarter",
+  "name": {
+    "it": "Anno quinquagesimo"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius X · 1910-06-10",
+    "pt-BR": "Carta · Papa Pio X · 1910-06-10"
+  },
+  "composed": "1910",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/letters/documents/hf_p-x_let_19100610_50-oss-rom.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Anno quinquagesimo"
+      }
+    }
+  ]
+}

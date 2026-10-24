@@ -1,0 +1,128 @@
+{
+  "id": "vatican-ii-ad-gentes",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad gentes",
+    "en-US": "Ad gentes",
+    "pt-BR": "Ad gentes",
+    "be": "Ad gentes",
+    "cs": "Ad gentes",
+    "de": "Ad gentes",
+    "es": "Ad gentes",
+    "fr": "Ad gentes",
+    "hu": "Ad gentes",
+    "it": "Ad gentes",
+    "lv": "DEKRĒTS PAR BAZNĪCAS MISIONĀRO DARBĪBU - AD GENTES",
+    "sw": "Ad gentes"
+  },
+  "author": {
+    "en-US": "Second Vatican Council",
+    "pt-BR": "Concílio Vaticano II",
+    "la": "Concilium Oecumenicum Vaticanum II"
+  },
+  "description": {
+    "en-US": "Conciliar Document · Second Vatican Council · 1965-12-07",
+    "pt-BR": "Documento Conciliar · Concílio Vaticano II · 1965-12-07"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "be",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "lv",
+    "sw"
+  ],
+  "tags": [
+    "magisterium",
+    "council-document",
+    "vatican-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_be.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_lv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_sw.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad gentes",
+        "en-US": "Ad gentes",
+        "pt-BR": "Ad gentes",
+        "be": "Ad gentes",
+        "cs": "Ad gentes",
+        "de": "Ad gentes",
+        "es": "Ad gentes",
+        "fr": "Ad gentes",
+        "hu": "Ad gentes",
+        "it": "Ad gentes",
+        "lv": "DEKRĒTS PAR BAZNĪCAS MISIONĀRO DARBĪBU - AD GENTES",
+        "sw": "Ad gentes"
+      }
+    }
+  ]
+}

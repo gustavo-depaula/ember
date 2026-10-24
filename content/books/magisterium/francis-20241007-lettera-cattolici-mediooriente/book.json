@@ -1,0 +1,80 @@
+{
+  "id": "francis-20241007-lettera-cattolici-mediooriente",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter of the Holy Father to the Catholics of the Middle East",
+    "pt-BR": "Carta do Santo Padre aos católicos do Médio Oriente",
+    "ar": "Letter of the Holy Father to the Catholics of the Middle East, 7 October 2024",
+    "de": "Schreiben des Heiligen Vaters an die Katholiken im Nahen Osten",
+    "fr": "Lettre du Saint-Père aux catholiques du Moyen-Orient",
+    "it": "Lettera del Santo Padre ai cattolici del Medio Oriente"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2024-10-07",
+    "pt-BR": "Carta · Papa Francisco · 2024-10-07"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/letters/2024/documents/20241007-lettera-cattolici-mediooriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/letters/2024/documents/20241007-lettera-cattolici-mediooriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/letters/2024/documents/20241007-lettera-cattolici-mediooriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/letters/2024/documents/20241007-lettera-cattolici-mediooriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/letters/2024/documents/20241007-lettera-cattolici-mediooriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2024/documents/20241007-lettera-cattolici-mediooriente.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter of the Holy Father to the Catholics of the Middle East",
+        "pt-BR": "Carta do Santo Padre aos católicos do Médio Oriente",
+        "ar": "Letter of the Holy Father to the Catholics of the Middle East, 7 October 2024",
+        "de": "Schreiben des Heiligen Vaters an die Katholiken im Nahen Osten",
+        "fr": "Lettre du Saint-Père aux catholiques du Moyen-Orient",
+        "it": "Lettera del Santo Padre ai cattolici del Medio Oriente"
+      }
+    }
+  ]
+}

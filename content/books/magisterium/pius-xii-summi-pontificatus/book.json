@@ -1,0 +1,72 @@
+{
+  "id": "pius-xii-summi-pontificatus",
+  "cover": "quarter",
+  "name": {
+    "la": "Summi Pontificatus, Litterae Encyclicae Pii XII, d. 20 m. Octobris a. 1939",
+    "en-US": "Summi Pontificatus",
+    "es": "Summi Pontificatus",
+    "fr": "Summi Pontificatus",
+    "it": "Summi Pontificatus"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1939-10-20",
+    "pt-BR": "Encíclica · Papa Pio XII · 1939-10-20"
+  },
+  "composed": "1939",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Summi Pontificatus, Litterae Encyclicae Pii XII, d. 20 m. Octobris a. 1939",
+        "en-US": "Summi Pontificatus",
+        "es": "Summi Pontificatus",
+        "fr": "Summi Pontificatus",
+        "it": "Summi Pontificatus"
+      }
+    }
+  ]
+}

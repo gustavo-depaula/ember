@@ -1,0 +1,40 @@
+{
+  "id": "alexander-viii-del-s-uffizio",
+  "cover": "quarter",
+  "name": {
+    "it": "Decreto Del S. Uffizio"
+  },
+  "author": {
+    "en-US": "Pope Alexander VIII",
+    "pt-BR": "Papa Alexandre VIII",
+    "la": "Alexander PP. VIII"
+  },
+  "description": {
+    "en-US": "Decree · Pope Alexander VIII · 1690-12-07",
+    "pt-BR": "Decreto · Papa Alexandre VIII · 1690-12-07"
+  },
+  "composed": "1690",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "decree",
+    "alexander-viii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1690-12-07,_SS_Alexander_VIII,_Decreto_Del_S._Uffizio,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Decreto Del S. Uffizio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-ex-debito-pastoralis-18460327",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Ex debito pastoralis"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1846-03-27",
+    "pt-BR": "Breve · Papa Gregório XVI · 1846-03-27"
+  },
+  "composed": "1846",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-ex-debito-pastoralis-27-marzo-1846.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Ex debito pastoralis"
+      }
+    }
+  ]
+}

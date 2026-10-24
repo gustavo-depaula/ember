@@ -1,0 +1,96 @@
+{
+  "id": "cdf-tutela-sacr-penitenza",
+  "cover": "quarter",
+  "name": {
+    "la": "Declaratio de tuenda Sacramenti Paenitentiae dignitate, 23 martii 1973",
+    "en-US": "DECLARATION",
+    "pt-BR": "Declaração para defender a dignidade do Sacramento da Penitência, 23 de março de 1973",
+    "de": "Erklärung zum Schutz des Bußsakraments, 23. März 1973",
+    "es": "Declaración sobre la tutela del Sacramento de la Penitencia, 23 marzo 1973",
+    "fr": "Déclaration, 23 mars 1973",
+    "it": "Dichiarazione circa la tutela del sacramento della penitenza, 23 marzo 1973",
+    "pl": "DEKLARACJA O OBRONIE GODNOŚCI SAKRAMENTU POKUTY, 23 marca 1973 r."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1973-03-23",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1973-03-23"
+  },
+  "composed": "1973",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730323_tutela-sacr-penitenza_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730323_tutela-sacr-penitenza_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730323_tutela-sacr-penitenza_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730323_tutela-sacr-penitenza_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730323_tutela-sacr-penitenza_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730323_tutela-sacr-penitenza_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730323_tutela-sacr-penitenza_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730323_tutela-sacr-penitenza_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Declaratio de tuenda Sacramenti Paenitentiae dignitate, 23 martii 1973",
+        "en-US": "DECLARATION",
+        "pt-BR": "Declaração para defender a dignidade do Sacramento da Penitência, 23 de março de 1973",
+        "de": "Erklärung zum Schutz des Bußsakraments, 23. März 1973",
+        "es": "Declaración sobre la tutela del Sacramento de la Penitencia, 23 marzo 1973",
+        "fr": "Déclaration, 23 mars 1973",
+        "it": "Dichiarazione circa la tutela del sacramento della penitenza, 23 marzo 1973",
+        "pl": "DEKLARACJA O OBRONIE GODNOŚCI SAKRAMENTU POKUTY, 23 marca 1973 r."
+      }
+    }
+  ]
+}

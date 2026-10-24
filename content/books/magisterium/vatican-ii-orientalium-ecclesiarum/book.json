@@ -1,0 +1,128 @@
+{
+  "id": "vatican-ii-orientalium-ecclesiarum",
+  "cover": "quarter",
+  "name": {
+    "la": "Orientalium ecclesiarium",
+    "en-US": "Orientalium ecclesiarium",
+    "pt-BR": "Orientalium ecclesiarium",
+    "be": "Orientalium ecclesiarium",
+    "cs": "Orientalium ecclesiarium",
+    "de": "Orientalium ecclesiarium",
+    "es": "Orientalium ecclesiarium",
+    "fr": "Orientalium ecclesiarium",
+    "hu": "Orientalium ecclesiarium",
+    "it": "Orientalium ecclesiarium",
+    "lv": "DEKRĒTS PAR AUSTRUMU KATOLISKAJĀM BAZNĪCĀM - ORIENTALIUM ECCLESIARUM",
+    "sw": "Orientalium ecclesiarium"
+  },
+  "author": {
+    "en-US": "Second Vatican Council",
+    "pt-BR": "Concílio Vaticano II",
+    "la": "Concilium Oecumenicum Vaticanum II"
+  },
+  "description": {
+    "en-US": "Conciliar Document · Second Vatican Council · 1964-11-21",
+    "pt-BR": "Documento Conciliar · Concílio Vaticano II · 1964-11-21"
+  },
+  "composed": "1964",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "be",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "lv",
+    "sw"
+  ],
+  "tags": [
+    "magisterium",
+    "council-document",
+    "vatican-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_be.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_lv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_sw.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Orientalium ecclesiarium",
+        "en-US": "Orientalium ecclesiarium",
+        "pt-BR": "Orientalium ecclesiarium",
+        "be": "Orientalium ecclesiarium",
+        "cs": "Orientalium ecclesiarium",
+        "de": "Orientalium ecclesiarium",
+        "es": "Orientalium ecclesiarium",
+        "fr": "Orientalium ecclesiarium",
+        "hu": "Orientalium ecclesiarium",
+        "it": "Orientalium ecclesiarium",
+        "lv": "DEKRĒTS PAR AUSTRUMU KATOLISKAJĀM BAZNĪCĀM - ORIENTALIUM ECCLESIARUM",
+        "sw": "Orientalium ecclesiarium"
+      }
+    }
+  ]
+}

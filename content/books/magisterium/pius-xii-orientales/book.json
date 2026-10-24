@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-orientales",
+  "cover": "quarter",
+  "name": {
+    "la": "Orientales Ecclesias, Epistula Encyclica Pii XII, d. 15 m. Decembris a. 1952",
+    "pt-BR": "Orientales Ecclesias",
+    "it": "Orientales Ecclesias"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1952-12-15",
+    "pt-BR": "Encíclica · Papa Pio XII · 1952-12-15"
+  },
+  "composed": "1952",
+  "languages": [
+    "la",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Orientales Ecclesias, Epistula Encyclica Pii XII, d. 15 m. Decembris a. 1952",
+        "pt-BR": "Orientales Ecclesias",
+        "it": "Orientales Ecclesias"
+      }
+    }
+  ]
+}

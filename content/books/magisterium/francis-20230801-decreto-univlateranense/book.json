@@ -1,0 +1,48 @@
+{
+  "id": "francis-20230801-decreto-univlateranense",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Decree of Appointment of the members of the Higher Coordination Council of the Pontifical Lateran University",
+    "it": "Decreto di Nomina dei membri del Consiglio Superiore di Coordinamento della Pontificia Università Lateranense"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2023-08-01",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2023-08-01"
+  },
+  "composed": "2023",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20230801-decreto-univlateranense.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230801-decreto-univlateranense.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Decree of Appointment of the members of the Higher Coordination Council of the Pontifical Lateran University",
+        "it": "Decreto di Nomina dei membri del Consiglio Superiore di Coordinamento della Pontificia Università Lateranense"
+      }
+    }
+  ]
+}

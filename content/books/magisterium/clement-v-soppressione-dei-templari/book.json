@@ -1,0 +1,40 @@
+{
+  "id": "clement-v-soppressione-dei-templari",
+  "cover": "quarter",
+  "name": {
+    "it": "Bolla Soppressione Dei Templari"
+  },
+  "author": {
+    "en-US": "Pope Clement V",
+    "pt-BR": "Papa Clemente V",
+    "la": "Clemens PP. V"
+  },
+  "description": {
+    "en-US": "Bull · Pope Clement V · 1313-03-22",
+    "pt-BR": "Bula · Papa Clemente V · 1313-03-22"
+  },
+  "composed": "1313",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "clement-v"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1313-03-22,_SS_Clemens_V,_Bolla_Soppressione_Dei_Templari,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bolla Soppressione Dei Templari"
+      }
+    }
+  ]
+}

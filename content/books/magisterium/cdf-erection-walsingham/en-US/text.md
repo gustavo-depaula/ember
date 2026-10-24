@@ -1,0 +1,83 @@
+# Decree of Erection of the Personal Ordinariate of Our Lady of Walsingham
+
+CONGREGATION FOR THE DOCTRINE OF THE FAITH
+
+**Decree of Erection of the Personal Ordinariate of Our Lady of Walsingham**
+
+The supreme law of the Church is the salvation of souls. As such, throughout its history, the Church has always found the pastoral and juridical means to care for the good of the faithful.
+
+With the Apostolic Constitution *Anglicanorum coetibus*, promulgated on 4 November 2009, the Holy Father, Pope Benedict XVI, provided for the establishment of Personal Ordinariates through which Anglican faithful may enter, even in a corporate manner, into full communion with the Catholic Church[^1]. On that same date, the Congregation for the Doctrine of the Faith published *Complementary Norms* relating to such Ordinariates[^2].
+
+In conformity with what is established in Art. I § 1 and § 2 of the Apostolic Constitution *Anglicanorum coetibus*, having received requests from a considerable number of Anglican faithful, and having consulted with the Episcopal Conference of England and Wales, the Congregation for the Doctrine of the Faith
+
+**ERECTS**
+
+the Personal Ordinariate of Our Lady of Walsingham within the territory of the Episcopal Conference of England and Wales.
+
+1\. The Personal Ordinariate of Our Lady of Walsingham *ipso iure* possesses juridic personality and is juridically equivalent to a diocese[^3]. It includes those faithful, of every category and state of life, who, originally having belonged to the Anglican Communion, are now in full communion with the Catholic Church, or who have received the sacraments of initiation within the jurisdiction of the Ordinariate itself[^4], or who are received into it because they are part of a family belonging to the Ordinariate[^5].
+
+2\. The faithful of the Personal Ordinariate of Our Lady of Walsingham are entrusted to the pastoral care of the Personal Ordinary who, once named by the Roman Pontiff[^6], possesses all the faculties, and is held to all the obligations, specified in the Apostolic Constitution *Anglicanorum* Apostolic Constitution *Anglicanorum coetibus* and the *Complementary Norms*[^7] as well as in those matters determined subsequently by the Congregation for the Doctrine of the Faith, on request both of the Ordinary, having heard the Governing Council of the Ordinariate, and of the Episcopal Conference of England and Wales.
+
+3\. The Anglican faithful who wish to be received into full communion with the Catholic Church through the Ordinariate must manifest this desire in writing[^8]. There is to be a programme of catechetical formation for these faithful, lasting for a congruent time, and with content established by the Ordinary in agreement with the Congregation for the Doctrine of the Faith so that the faithful are able to adhere fully to the doctrinal content of the *Catechism of the Catholic Church*[^9], and therefore, make the profession of faith.
+
+4\. For candidates for ordination, who previously were ministers in the Anglican Communion, there is to be a specific programme of theological formation, as well as spiritual and pastoral preparation, prior to ordination in the Catholic Church, according to what will be established by the Ordinary in agreement with the Congregation for the Doctrine of the Faith and in consultation with the Episcopal Conference of England and Wales.
+
+5\. For a cleric not incardinated in the Personal Ordinariate of Our Lady of Walsingham to assist at a marriage of the faithful belonging to the Ordinariate, he must receive the faculty from the Ordinary or the pastor of the personal parish to which the faithful belong[^10].
+
+6\. The Ordinary is a member by right of the Episcopal Conference of England and Wales, with deliberative vote in those cases in which this is required in law[^11].
+
+7\. A cleric, having come originally from the Anglican Communion, who has already been ordained in the Catholic Church and incardinated in a Diocese, is able to be incardinated in the Ordinariate in accord with the norm of can. 267 *CIC*.
+
+8\. Until the Personal Ordinariate of Our Lady of Walsingham may have established its own Tribunal, the judicial cases of its faithful are referred to the Tribunal of the Diocese in which one of the parties has a domicile, while taking into account, however, the different titles of competence established in cann. 1408-1414 and 1673 *CIC*[^12].
+
+9\. The faithful of the Personal Ordinariate of Our Lady of Walsingham who are, temporarily or permanently, outside the territory of the Episcopal Conference of England and Wales, while remaining members of the Ordinariate, are bound by universal law and those particular laws of the territory where they find themselves[^13].
+
+10\. If a member of the faithful moves permanently into a place where another Personal Ordinariate has been erected, he is able, on his own request, to be received into it. The new Ordinary is bound to inform the original Personal Ordinariate of the reception. If a member of the faithful wishes to leave the Ordinariate, he must make such a decision known to his own Ordinary. He automatically becomes a member of the Diocese where he resides. In this case, the Ordinary will ensure that the Diocesan Bishop is informed.
+
+11\. The Ordinary, keeping in mind the *Ratio fundamentalis institutionis sacerdotalis* and the *Programme of Priestly Formation* of the Episcopal Conference of England and Wales, is to prepare a *Programme of Priestly Formation* for the seminarians of the Ordinariate which must be approved by the Apostolic See[^14].
+
+12\. The Ordinary will ensure that the Statutes of the Governing Council and the Pastoral Council, which are subject to his approval, are drawn up[^15].
+
+13\. The location of the principal Church of the Personal Ordinariate of Our Lady of Walsingham will be determined by the Ordinary in agreement with the Congregation for the Doctrine of the Faith and in consultation with the Episcopal Conference of England and Wales. Likewise, the Seat of the Ordinariate, where the register referred to in Art. 5 § 1 of the *Complementary Norms* will be kept, will be determined in the same way.
+
+14\. The Personal Ordinariate of Our Lady of Walsingham has as its patron Blessed John Henry Newman.
+
+Everything to the contrary notwithstanding.
+
+*Rome, from the Offices of the Congregation for the Doctrine of the Faith, 15 January 2011*
+
+**William Cardinal Levada** *Prefect*
+
+**Luis F. Ladaria, S.I.** *Secretary*
+
+------------------------------------------------------------------------
+
+[^1]: Cf. *AAS* 101 (2009), 985-990.
+
+[^2]: Cf. *L’Osservatore Romano* (9-10 November 2009), p. 7; Weekly Edition in English (11 November 2009), p. 4.
+
+[^3]: Cf. can. 372 § 2 *CIC*; Apostolic Constitution *Anglicanorum coetibus*, Art. I § 3.
+
+[^4]: Cf. Apostolic Constitution *Anglicanorum coetibus*, Art. I § 4.
+
+[^5]: Cf. *Complementary Norms*, Art. 5 § 1.
+
+[^6]: Cf. Apostolic Constitution *Anglicanorum coetibus*, Art. IV, *Complementary Norms*, Art. 4 § 1.
+
+[^7]: Cf. Apostolic Constitution *Anglicanorum coetibus*, Art. VI § 4; *Complementary Norms*, Art. 5 § 2; Art. 9.
+
+[^8]: Cf. Apostolic Constitution *Anglicanorum coetibus*, Art. IX.
+
+[^9]: Cf. Apostolic Constitution *Anglicanorum coetibus*, Art. I § 5.
+
+[^10]: Cf. cann. 1110-1111 *CIC*.
+
+[^11]: Cf. *Complementary Norms*, Art. 2 § 2.
+
+[^12]: Cf. Apostolic Constitution *Anglicanorum coetibus*, Art. XII.
+
+[^13]: Cf. can. 13 § 3 *CIC*.
+
+[^14]: Cf. *Complementary Norms*, Art. 10 § 3; see also Apostolic Constitution *Anglicanorum coetibus*, Art. VI § 2.
+
+[^15]: Cf. *Complementary Norms*, Art. 12 § 1; Art. 13 § 2.

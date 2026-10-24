@@ -1,0 +1,104 @@
+{
+  "id": "cdf-ad-resurgendum-cum-christo",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Instruction Ad resurgendum cum Christo regarding the burial of the deceasedand the conservation of the ashes in the case of cremation",
+    "pt-BR": "Instrução \"Ad resurgendum cum Christo\" a propósito da sepultura dos defuntos e da conservação das cinzas da cremação",
+    "de": "Instruktion Ad resurgendum cum Christo über die Beerdigung der Verstorbenen und die Aufbewahrung der Asche im Fall der Feuerbestattung",
+    "es": "Instrucción <i>Ad resurgendum cum Christo</i> acerca de la sepultura de los difuntos y la conservación de las cenizas en caso de cremación",
+    "fr": "Instruction \"Ad resurgendum cum Christo\" sur la sépulture des défunts et la conservation des cendres en cas d’incinération",
+    "it": "Istruzione \"Ad resurgendum cum Christo\" circa la sepoltura dei defunti e la conservazione delle ceneri in caso di cremazione",
+    "pl": "Instrukcja 'Ad resurgendum cum Christo' dotycząca pochówku ciał zmarłych oraz przechowywania prochów w przypadku kremacji, 15 sierpnia 2016 roku - Kongregacja Nauki Wiary",
+    "uk": "Інструкція «Ad resurgendum cum Christo» про поховання померлих і зберігання попелу в разі кремації",
+    "vi": "BỘ GIÁO LÝ ĐỨC TIN Huấn thị Ad resurgendum cum Christo về việc mai táng và lưu giữ tro hỏa táng"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2016-08-15",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2016-08-15"
+  },
+  "composed": "2016",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "uk",
+    "vi"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "uk",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_uk.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160815_ad-resurgendum-cum-christo_vi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Instruction Ad resurgendum cum Christo regarding the burial of the deceasedand the conservation of the ashes in the case of cremation",
+        "pt-BR": "Instrução \"Ad resurgendum cum Christo\" a propósito da sepultura dos defuntos e da conservação das cinzas da cremação",
+        "de": "Instruktion Ad resurgendum cum Christo über die Beerdigung der Verstorbenen und die Aufbewahrung der Asche im Fall der Feuerbestattung",
+        "es": "Instrucción <i>Ad resurgendum cum Christo</i> acerca de la sepultura de los difuntos y la conservación de las cenizas en caso de cremación",
+        "fr": "Instruction \"Ad resurgendum cum Christo\" sur la sépulture des défunts et la conservation des cendres en cas d’incinération",
+        "it": "Istruzione \"Ad resurgendum cum Christo\" circa la sepoltura dei defunti e la conservazione delle ceneri in caso di cremazione",
+        "pl": "Instrukcja 'Ad resurgendum cum Christo' dotycząca pochówku ciał zmarłych oraz przechowywania prochów w przypadku kremacji, 15 sierpnia 2016 roku - Kongregacja Nauki Wiary",
+        "uk": "Інструкція «Ad resurgendum cum Christo» про поховання померлих і зберігання попелу в разі кремації",
+        "vi": "BỘ GIÁO LÝ ĐỨC TIN Huấn thị Ad resurgendum cum Christo về việc mai táng và lưu giữ tro hỏa táng"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "cdf-fernandez-prolusione-concistoro",
+  "cover": "quarter",
+  "name": {
+    "es": "Releyendo Evangelii Gaudium. Prolusión para el Consistorio Extraordinario del 7-8 de enero de 2026",
+    "it": "Rileggere Evangelii gaudium. Prolusione per il Concistoro Straordinario del 7-8 gennaio 2026"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2026-01-08",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2026-01-08"
+  },
+  "composed": "2026",
+  "languages": [
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20260108_fernandez-prolusione-concistoro_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20260108_fernandez-prolusione-concistoro_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Releyendo Evangelii Gaudium. Prolusión para el Consistorio Extraordinario del 7-8 de enero de 2026",
+        "it": "Rileggere Evangelii gaudium. Prolusione per il Concistoro Straordinario del 7-8 gennaio 2026"
+      }
+    }
+  ]
+}

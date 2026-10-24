@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-sedis-huius",
+  "cover": "quarter",
+  "name": {
+    "it": "Sedis huius"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Benedict XV · 1919-05-14",
+    "pt-BR": "Bula · Papa Bento XV · 1919-05-14"
+  },
+  "composed": "1919",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/bulls/documents/hf_ben-xv_bulls_19190514_sedis-huius.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Sedis huius"
+      }
+    }
+  ]
+}

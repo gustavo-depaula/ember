@@ -1,0 +1,64 @@
+{
+  "id": "paul-vi-sacram-unctionem",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutio apostolica - Sacram unctionem Infirmorum, die xxx mensis Novembris anno MCMLXXII",
+    "en-US": "Sacram Unctionem Infirmorum",
+    "es": "Sacram Unctionem Infirmorum",
+    "it": "Sacram Unctionem Infirmorum"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Paul VI · 1972-11-30",
+    "pt-BR": "Constituição Apostólica · Papa Paulo VI · 1972-11-30"
+  },
+  "composed": "1972",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19721130_sacram-unctionem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/apost_constitutions/documents/hf_p-vi_apc_19721130_sacram-unctionem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/apost_constitutions/documents/hf_p-vi_apc_19721130_sacram-unctionem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_19721130_sacram-unctionem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Constitutio apostolica - Sacram unctionem Infirmorum, die xxx mensis Novembris anno MCMLXXII",
+        "en-US": "Sacram Unctionem Infirmorum",
+        "es": "Sacram Unctionem Infirmorum",
+        "it": "Sacram Unctionem Infirmorum"
+      }
+    }
+  ]
+}

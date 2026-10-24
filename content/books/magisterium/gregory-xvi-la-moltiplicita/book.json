@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-la-moltiplicita",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola La moltiplicità"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory XVI · 1836-11-22",
+    "pt-BR": "Carta · Papa Gregório XVI · 1836-11-22"
+  },
+  "composed": "1836",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/epistola-la-moltiplicita-22-novembre-1836.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola La moltiplicità"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-primitivi-cemeteri",
+  "cover": "quarter",
+  "name": {
+    "it": "Motu Proprio I primitivi cemeteri che istituisce il Pontificio Istituto di Archeologia Cristiana"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius XI · 1925-12-11",
+    "pt-BR": "Motu Proprio · Papa Pio XI · 1925-12-11"
+  },
+  "composed": "1925",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/motu_proprio/documents/hf_p-xi_motu-proprio_19251211_primitivi-cemeteri.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Motu Proprio I primitivi cemeteri che istituisce il Pontificio Istituto di Archeologia Cristiana"
+      }
+    }
+  ]
+}

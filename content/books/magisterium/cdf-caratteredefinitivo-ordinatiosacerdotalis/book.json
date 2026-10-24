@@ -1,0 +1,80 @@
+{
+  "id": "cdf-caratteredefinitivo-ordinatiosacerdotalis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "In response to certain doubts regarding the definitive character of the doctrine of Ordinatio sacerdotalis",
+    "pt-BR": "A propósito de algumas dúvidas sobre o caráter definitivo da doutrina da Carta Apostólica <i>Ordinatio sacerdotalis</i>",
+    "de": "Zu einigen Zweifeln über den definitiven Charakter der Lehre von Ordinatio sacerdotalis",
+    "es": "A propósito de algunas dudas acerca del carácter definitivo de la doctrina de <i>Ordinatio sacerdotalis</i>",
+    "fr": "À propos de certains doutes sur le caractère définitif de la doctrine d'Ordinatio sacerdotalis",
+    "it": "A proposito di alcuni dubbi circa il carattere definitivo della dottrina di Ordinatio sacerdotalis"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2018-05-29",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2018-05-29"
+  },
+  "composed": "2018",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/ladaria-ferrer/documents/rc_con_cfaith_doc_20180529_caratteredefinitivo-ordinatiosacerdotalis_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/ladaria-ferrer/documents/rc_con_cfaith_doc_20180529_caratteredefinitivo-ordinatiosacerdotalis_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/ladaria-ferrer/documents/rc_con_cfaith_doc_20180529_caratteredefinitivo-ordinatiosacerdotalis_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/ladaria-ferrer/documents/rc_con_cfaith_doc_20180529_caratteredefinitivo-ordinatiosacerdotalis_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/ladaria-ferrer/documents/rc_con_cfaith_doc_20180529_caratteredefinitivo-ordinatiosacerdotalis_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/ladaria-ferrer/documents/rc_con_cfaith_doc_20180529_caratteredefinitivo-ordinatiosacerdotalis_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "In response to certain doubts regarding the definitive character of the doctrine of Ordinatio sacerdotalis",
+        "pt-BR": "A propósito de algumas dúvidas sobre o caráter definitivo da doutrina da Carta Apostólica <i>Ordinatio sacerdotalis</i>",
+        "de": "Zu einigen Zweifeln über den definitiven Charakter der Lehre von Ordinatio sacerdotalis",
+        "es": "A propósito de algunas dudas acerca del carácter definitivo de la doctrina de <i>Ordinatio sacerdotalis</i>",
+        "fr": "À propos de certains doutes sur le caractère définitif de la doctrine d'Ordinatio sacerdotalis",
+        "it": "A proposito di alcuni dubbi circa il carattere definitivo della dottrina di Ordinatio sacerdotalis"
+      }
+    }
+  ]
+}

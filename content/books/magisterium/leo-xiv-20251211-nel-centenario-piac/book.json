@@ -1,0 +1,104 @@
+{
+  "id": "leo-xiv-20251211-nel-centenario-piac",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter of the Holy Father Pope Leo XIV on the importance of Archaeology on the occasion of the Centenary of the Pontifical Institute of Christian Archaeology",
+    "pt-BR": "Carta Apostólica do Santo Padre Leão XIV sobre a importância da Arqueologia por ocasião do centenário do Pontifício Instituto de Arqueologia Cristã",
+    "ar": "رسالة بابويّة في أهمّيّة عِلم الآثار للحبر الأعظم البابا لاوُن الرَّابع عشر في الذّكرى المئويّة للمعهد البابويّ لعِلم الآثار المسيحيّة، 11 كانون الأوّل/ديسمبر 2025",
+    "be": "АПОСТАЛЬСКІ ЛІСТ СВЯТОГА АЙЦА ЛЬВА XIV ПРА ЗНАЧЭННЕ АРХЕАЛОГІІ З НАГОДЫ СТАГОДДЗЯ ПАПСКАГА ІНСТЫТУТА ХРЫСЦІЯНСКАЙ АРХЕАЛОГІІ",
+    "de": "Apostolisches Schreiben des Heiligen Vaters Leo XIV. über die Bedeutung der Archäologie anlässlich des hundertjährigen Bestehens des Päpstlichen Instituts Für Christliche Archäologie",
+    "es": "Carta Apostólica del Santo Padre sobre la importancia de la arqueología con motivo del centenario del Pontificio Instituto de Arqueología Cristiana",
+    "fr": "Lettre apostolique du Saint-Père Léon XIV sur l’importance de l’archéologie à l’occasion du centenaire de l’Institut pontifical d’archéologie chrétienne",
+    "it": "Lettera Apostolica del Santo Padre sull'importanza dell'Archeologia in occasione del Centenario del Pontificio Istituto di Archeologia Cristiana",
+    "pl": "List apostolski Ojca Świętego Leona XIV o znaczeniu archeologii z okazji stulecia Papieskiego Instytutu Archeologii Chrześcijańskiej"
+  },
+  "author": {
+    "en-US": "Pope Leo XIV",
+    "pt-BR": "Papa Leão XIV",
+    "la": "Leo PP. XIV"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIV · 2025-12-11",
+    "pt-BR": "Carta Apostólica · Papa Leão XIV · 2025-12-11"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiv/en/apost_letters/documents/20251211-nel-centenario-piac.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiv/pt/apost_letters/documents/20251211-nel-centenario-piac.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/leo-xiv/ar/apost_letters/documents/20251211-nel-centenario-piac.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/leo-xiv/be/apost_letters/documents/20251211-nel-centenario-piac.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/leo-xiv/de/apost_letters/documents/20251211-nel-centenario-piac.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiv/es/apost_letters/documents/20251211-nel-centenario-piac.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiv/fr/apost_letters/documents/20251211-nel-centenario-piac.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiv/it/apost_letters/documents/20251211-nel-centenario-piac.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/leo-xiv/pl/apost_letters/documents/20251211-nel-centenario-piac.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter of the Holy Father Pope Leo XIV on the importance of Archaeology on the occasion of the Centenary of the Pontifical Institute of Christian Archaeology",
+        "pt-BR": "Carta Apostólica do Santo Padre Leão XIV sobre a importância da Arqueologia por ocasião do centenário do Pontifício Instituto de Arqueologia Cristã",
+        "ar": "رسالة بابويّة في أهمّيّة عِلم الآثار للحبر الأعظم البابا لاوُن الرَّابع عشر في الذّكرى المئويّة للمعهد البابويّ لعِلم الآثار المسيحيّة، 11 كانون الأوّل/ديسمبر 2025",
+        "be": "АПОСТАЛЬСКІ ЛІСТ СВЯТОГА АЙЦА ЛЬВА XIV ПРА ЗНАЧЭННЕ АРХЕАЛОГІІ З НАГОДЫ СТАГОДДЗЯ ПАПСКАГА ІНСТЫТУТА ХРЫСЦІЯНСКАЙ АРХЕАЛОГІІ",
+        "de": "Apostolisches Schreiben des Heiligen Vaters Leo XIV. über die Bedeutung der Archäologie anlässlich des hundertjährigen Bestehens des Päpstlichen Instituts Für Christliche Archäologie",
+        "es": "Carta Apostólica del Santo Padre sobre la importancia de la arqueología con motivo del centenario del Pontificio Instituto de Arqueología Cristiana",
+        "fr": "Lettre apostolique du Saint-Père Léon XIV sur l’importance de l’archéologie à l’occasion du centenaire de l’Institut pontifical d’archéologie chrétienne",
+        "it": "Lettera Apostolica del Santo Padre sull'importanza dell'Archeologia in occasione del Centenario del Pontificio Istituto di Archeologia Cristiana",
+        "pl": "List apostolski Ojca Świętego Leona XIV o znaczeniu archeologii z okazji stulecia Papieskiego Instytutu Archeologii Chrześcijańskiej"
+      }
+    }
+  ]
+}

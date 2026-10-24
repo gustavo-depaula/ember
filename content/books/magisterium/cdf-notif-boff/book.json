@@ -1,0 +1,88 @@
+{
+  "id": "cdf-notif-boff",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Notification on the book \"Church: Charism and Power\" by Father Leonardo Boff O.F.M.",
+    "pt-BR": "Notificação sobre o livro Igreja: carisma e poder. Ensaios de eclesiologia militante de Leonardo Boff, O.F.M.",
+    "de": "Sacerdotium ministeriale",
+    "es": "Notificación sobre el volumen del P. Leonardo Boff, O.F.M. «Iglesia: carisma y poder. Ensayo de eclesiología militante», 11 marzo 1985",
+    "fr": "Notification à propos du livre «Église : charisme et pouvoir» du P. Leonardo Boff, O.F.M., 11 mars 1985",
+    "it": "Notificazione sul volume «Chiesa: Carisma e potere. Saggio di Ecclesiologia militante» del P. Leonardo Boff, O.F.M., 11 marzo 1985 - Congregazione per la Dottrina della Fede",
+    "pl": "INFORMACJA O KSIĄŻCE O. LEONARDO BOFFA OFM CHIESA: CARISMA E POTERE. SAGGIO DI ECCLESIOLOGIA MILITANTE"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1985-03-11",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1985-03-11"
+  },
+  "composed": "1985",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19850311_notif-boff_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19850311_notif-boff_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19850311_notif-boff_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19850311_notif-boff_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19850311_notif-boff_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19850311_notif-boff_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19850311_notif-boff_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Notification on the book \"Church: Charism and Power\" by Father Leonardo Boff O.F.M.",
+        "pt-BR": "Notificação sobre o livro Igreja: carisma e poder. Ensaios de eclesiologia militante de Leonardo Boff, O.F.M.",
+        "de": "Sacerdotium ministeriale",
+        "es": "Notificación sobre el volumen del P. Leonardo Boff, O.F.M. «Iglesia: carisma y poder. Ensayo de eclesiología militante», 11 marzo 1985",
+        "fr": "Notification à propos du livre «Église : charisme et pouvoir» du P. Leonardo Boff, O.F.M., 11 mars 1985",
+        "it": "Notificazione sul volume «Chiesa: Carisma e potere. Saggio di Ecclesiologia militante» del P. Leonardo Boff, O.F.M., 11 marzo 1985 - Congregazione per la Dottrina della Fede",
+        "pl": "INFORMACJA O KSIĄŻCE O. LEONARDO BOFFA OFM CHIESA: CARISMA E POTERE. SAGGIO DI ECCLESIOLOGIA MILITANTE"
+      }
+    }
+  ]
+}

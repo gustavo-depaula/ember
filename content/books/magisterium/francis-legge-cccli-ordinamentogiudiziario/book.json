@@ -1,0 +1,40 @@
+{
+  "id": "francis-legge-cccli-ordinamentogiudiziario",
+  "cover": "quarter",
+  "name": {
+    "it": "Promulgazione della Legge N. CCCLI sull’ordinamento giudiziario dello Stato della Città del Vaticano"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2020-03-13",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2020-03-13"
+  },
+  "composed": "2020",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20200313_legge-cccli-ordinamentogiudiziario.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Promulgazione della Legge N. CCCLI sull’ordinamento giudiziario dello Stato della Città del Vaticano"
+      }
+    }
+  ]
+}

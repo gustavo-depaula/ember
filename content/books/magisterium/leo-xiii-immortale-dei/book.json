@@ -1,0 +1,80 @@
+{
+  "id": "leo-xiii-immortale-dei",
+  "cover": "quarter",
+  "name": {
+    "la": "Immortale Dei",
+    "en-US": "Immortale Dei",
+    "pt-BR": "Immortale Dei: sobre a Constituição Cristã dos Estados",
+    "es": "Immortale Dei",
+    "fr": "Immortale Dei",
+    "it": "Immortale Dei"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1885-11-01",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1885-11-01"
+  },
+  "composed": "1885",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Immortale Dei",
+        "en-US": "Immortale Dei",
+        "pt-BR": "Immortale Dei: sobre a Constituição Cristã dos Estados",
+        "es": "Immortale Dei",
+        "fr": "Immortale Dei",
+        "it": "Immortale Dei"
+      }
+    }
+  ]
+}

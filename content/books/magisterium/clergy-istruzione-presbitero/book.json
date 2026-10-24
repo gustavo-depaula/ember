@@ -1,0 +1,64 @@
+{
+  "id": "clergy-istruzione-presbitero",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "O presbítero, pastor e guia da comunidade paroquial",
+    "de": "Der Priester, Hirte und Leiter der Pfarrgemeinde",
+    "es": "El presbítero, pastor y guía de la comunidad parroquial",
+    "hu": "A pap mint a plébániai közösség pásztora és vezetője, Instrukció, 2002. augusztus 4."
+  },
+  "author": {
+    "en-US": "Dicastery for the Clergy",
+    "pt-BR": "Dicastério para o Clero",
+    "la": "Dicasterium pro Clericis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Clergy · 2002-08-04",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Clero · 2002-08-04"
+  },
+  "composed": "2002",
+  "languages": [
+    "pt-BR",
+    "de",
+    "es",
+    "hu"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "clergy"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20020804_istruzione-presbitero_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20020804_istruzione-presbitero_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20020804_istruzione-presbitero_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_20020804_istruzione-presbitero_hu.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "O presbítero, pastor e guia da comunidade paroquial",
+        "de": "Der Priester, Hirte und Leiter der Pfarrgemeinde",
+        "es": "El presbítero, pastor y guía de la comunidad parroquial",
+        "hu": "A pap mint a plébániai közösség pásztora és vezetője, Instrukció, 2002. augusztus 4."
+      }
+    }
+  ]
+}

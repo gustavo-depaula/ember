@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-quibus-quantisque",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Quibus, quantisque"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius IX · 1849-04-20",
+    "pt-BR": "Alocução · Papa Pio IX · 1849-04-20"
+  },
+  "composed": "1849",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/allocuzione-quibus-quantisque-20-aprile-1849.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Quibus, quantisque"
+      }
+    }
+  ]
+}

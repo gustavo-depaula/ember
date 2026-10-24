@@ -1,0 +1,56 @@
+{
+  "id": "cdf-cti-mess-anno-mariano",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Mensagem por ocasião do Ano Mariano, 1987",
+    "es": "Mensaje con ocasión del Año mariano, 1987",
+    "fr": "Message au Cardinal Luigi Dadaglio, Président du Comité central pour l'année mariale, 1987"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1987-12-02",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1987-12-02"
+  },
+  "composed": "1987",
+  "languages": [
+    "pt-BR",
+    "es",
+    "fr"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_19871202_mess-anno-mariano_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_19871202_mess-anno-mariano_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_19871202_mess-anno-mariano_fr.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Mensagem por ocasião do Ano Mariano, 1987",
+        "es": "Mensaje con ocasión del Año mariano, 1987",
+        "fr": "Message au Cardinal Luigi Dadaglio, Président du Comité central pour l'année mariale, 1987"
+      }
+    }
+  ]
+}

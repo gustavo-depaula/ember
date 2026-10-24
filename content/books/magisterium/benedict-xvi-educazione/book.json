@@ -1,0 +1,80 @@
+{
+  "id": "benedict-xvi-educazione",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the faithful of the Diocese and City of Rome on the urgent task of educating young people",
+    "pt-BR": "Carta à Diocese e à cidade de Roma sobre a tarefa da formação",
+    "de": "Schreiben an die Diözese und die Stadt Rom über die dringende Aufgabe der Erziehung",
+    "es": "Carta a la Diócesis y a la ciudad de Roma sobre la tarea urgente de la educación",
+    "fr": "Lettre au diocèse de Rome sur le devoir urgent de la formation des nouvelles générations",
+    "it": "Lettera alla Diocesi e alla città di Roma sul compito urgente dell'educazione"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XVI · 2008-01-21",
+    "pt-BR": "Carta · Papa Bento XVI · 2008-01-21"
+  },
+  "composed": "2008",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/letters/2008/documents/hf_ben-xvi_let_20080121_educazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/letters/2008/documents/hf_ben-xvi_let_20080121_educazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/letters/2008/documents/hf_ben-xvi_let_20080121_educazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/letters/2008/documents/hf_ben-xvi_let_20080121_educazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/letters/2008/documents/hf_ben-xvi_let_20080121_educazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/letters/2008/documents/hf_ben-xvi_let_20080121_educazione.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the faithful of the Diocese and City of Rome on the urgent task of educating young people",
+        "pt-BR": "Carta à Diocese e à cidade de Roma sobre a tarefa da formação",
+        "de": "Schreiben an die Diözese und die Stadt Rom über die dringende Aufgabe der Erziehung",
+        "es": "Carta a la Diócesis y a la ciudad de Roma sobre la tarea urgente de la educación",
+        "fr": "Lettre au diocèse de Rome sur le devoir urgent de la formation des nouvelles générations",
+        "it": "Lettera alla Diocesi e alla città di Roma sul compito urgente dell'educazione"
+      }
+    }
+  ]
+}

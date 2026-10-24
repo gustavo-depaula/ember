@@ -1,0 +1,88 @@
+{
+  "id": "cdf-bapt-christian-community",
+  "cover": "quarter",
+  "name": {
+    "la": "Notificatio de validitate baptismatis apud «Christian Community» Rudolfi Steiner confessionem, d. 9 m. Martii a. 1991, Congregatio pro Doctrina Fidei",
+    "en-US": "Notification regarding the validity of the baptism conferred by the “Christian Community” or “Die Christengemeinschaft” of Rudolf Steiner, 9 March 1991",
+    "pt-BR": "Validade do batismo conferido pela Christian Community, 9 de março de 1991",
+    "de": "Notifikation bezüglich der Gültigkeit der Taufe in der „Christian Community“ oder „Die Christengemeinschaft“ von Rudolf",
+    "es": "Notificación sobre la validez de bautismo en la «Christian Community» del señor Rudolf Steiner, 9 marzo 1991",
+    "it": "Notificazione sulla validità del battesimo conferito dalla «Christian Community» o «Die Christengemeinschaft» di Rudolf Steiner, 9 marzo 1991",
+    "pl": "INFORMACJA NA TEMAT WAŻNOŚCI CHRZTU UDZIELANEGO PRZEZ \"CHRISTIAN COMMUNITY\""
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1991-03-09",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1991-03-09"
+  },
+  "composed": "1991",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19910309_bapt-christian-community_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19910309_bapt-christian-community_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19910309_bapt-christian-community_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19910309_bapt-christian-community_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19910309_bapt-christian-community_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19910309_bapt-christian-community_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19910309_bapt-christian-community_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Notificatio de validitate baptismatis apud «Christian Community» Rudolfi Steiner confessionem, d. 9 m. Martii a. 1991, Congregatio pro Doctrina Fidei",
+        "en-US": "Notification regarding the validity of the baptism conferred by the “Christian Community” or “Die Christengemeinschaft” of Rudolf Steiner, 9 March 1991",
+        "pt-BR": "Validade do batismo conferido pela Christian Community, 9 de março de 1991",
+        "de": "Notifikation bezüglich der Gültigkeit der Taufe in der „Christian Community“ oder „Die Christengemeinschaft“ von Rudolf",
+        "es": "Notificación sobre la validez de bautismo en la «Christian Community» del señor Rudolf Steiner, 9 marzo 1991",
+        "it": "Notificazione sulla validità del battesimo conferito dalla «Christian Community» o «Die Christengemeinschaft» di Rudolf Steiner, 9 marzo 1991",
+        "pl": "INFORMACJA NA TEMAT WAŻNOŚCI CHRZTU UDZIELANEGO PRZEZ \"CHRISTIAN COMMUNITY\""
+      }
+    }
+  ]
+}

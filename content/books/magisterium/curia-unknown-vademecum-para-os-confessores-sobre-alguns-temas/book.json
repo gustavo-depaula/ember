@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-vademecum-para-os-confessores-sobre-alguns-temas",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Vademecum para os Confessores sobre alguns temas de moral relacionados com a vida conjugal"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1997-02-12",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1997-02-12"
+  },
+  "composed": "1997",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/vademecum-para-os-confessorese-sobre-alguns-temas-de-moral-relacionados-com-a-vida-conjugal-12-02-1997/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Vademecum para os Confessores sobre alguns temas de moral relacionados com a vida conjugal"
+      }
+    }
+  ]
+}

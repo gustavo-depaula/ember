@@ -1,0 +1,56 @@
+{
+  "id": "pius-ix-pastor-aeternus",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutio dogmatica Pastor Aeternus",
+    "en-US": "Costituzione dogmatica Pastor Aeternus (18 luglio 1870)",
+    "it": "Costituzione dogmatica Pastor Aeternus"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Pius IX · 1870-07-18",
+    "pt-BR": "Constituição Apostólica · Papa Pio IX · 1870-07-18"
+  },
+  "composed": "1870",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/constitutio-dogmatica-pastor-aeternus-18-iulii-1870.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1870-07-18,_SS_Pius_VIIII,_Concilii_Vaticani_I_Documenta_Omnia,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/constitutio-dogmatica-pastor-aeternus-18-iulii-1870.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Constitutio dogmatica Pastor Aeternus",
+        "en-US": "Costituzione dogmatica Pastor Aeternus (18 luglio 1870)",
+        "it": "Costituzione dogmatica Pastor Aeternus"
+      }
+    }
+  ]
+}

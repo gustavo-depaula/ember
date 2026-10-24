@@ -1,0 +1,112 @@
+{
+  "id": "francis-20230325-motu-proprio-vos-estis-lux-mundi",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio Datae \"Vos Estis Lux Mundi\" (die XXV mensis Martii, anno MMXXIII)",
+    "en-US": "Apostolic Letter in the form of “Motu Proprio” of the Supreme Pontiff Francis \"Vos estis lux mundi\" (Updated)",
+    "pt-BR": "Carta Apostólica sob forma de Motu Proprio do Sumo Pontífice Francisco \"Vos estis lux mundi\" (Atualizado)",
+    "ar": "Apostolic Letter in the form of “Motu Proprio” of the Supreme Pontiff Francis \"Vos estis lux mundi\" (Updated), 25 March 2023",
+    "cs": "APOŠTOLSKÝ LIST SVATÉHO OTCE FRANTIŠKA DANÝ „MOTU PROPRIO“ „Vos estis lux mundi“ (aktualizované)",
+    "de": "Apostolisches Schreiben in Form eines «Motu proprio» von Papst Franziskus “Vos estis lux mundi” (Aktualisierte Fassung)",
+    "es": "Carta apostólica en forma de Motu proprio «Vos estis lux mundi» (Texto actualizado)",
+    "fr": "Lettre apostolique en forme de Motu Proprio Vos estis lux mundi (Texte mis à jour)",
+    "it": "Lettera Apostolica in forma di «Motu proprio» del Sommo Pontefice Francesco “Vos estis lux mundi” (Aggiornato)",
+    "pl": "List apostolski \"Motu Proprio\" “Vos estis lux mundi”"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2023-03-25",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2023-03-25"
+  },
+  "composed": "2023",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/content/francesco/cs/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio Datae \"Vos Estis Lux Mundi\" (die XXV mensis Martii, anno MMXXIII)",
+        "en-US": "Apostolic Letter in the form of “Motu Proprio” of the Supreme Pontiff Francis \"Vos estis lux mundi\" (Updated)",
+        "pt-BR": "Carta Apostólica sob forma de Motu Proprio do Sumo Pontífice Francisco \"Vos estis lux mundi\" (Atualizado)",
+        "ar": "Apostolic Letter in the form of “Motu Proprio” of the Supreme Pontiff Francis \"Vos estis lux mundi\" (Updated), 25 March 2023",
+        "cs": "APOŠTOLSKÝ LIST SVATÉHO OTCE FRANTIŠKA DANÝ „MOTU PROPRIO“ „Vos estis lux mundi“ (aktualizované)",
+        "de": "Apostolisches Schreiben in Form eines «Motu proprio» von Papst Franziskus “Vos estis lux mundi” (Aktualisierte Fassung)",
+        "es": "Carta apostólica en forma de Motu proprio «Vos estis lux mundi» (Texto actualizado)",
+        "fr": "Lettre apostolique en forme de Motu Proprio Vos estis lux mundi (Texte mis à jour)",
+        "it": "Lettera Apostolica in forma di «Motu proprio» del Sommo Pontefice Francesco “Vos estis lux mundi” (Aggiornato)",
+        "pl": "List apostolski \"Motu Proprio\" “Vos estis lux mundi”"
+      }
+    }
+  ]
+}

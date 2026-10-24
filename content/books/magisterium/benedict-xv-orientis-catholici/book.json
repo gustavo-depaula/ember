@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-orientis-catholici",
+  "cover": "quarter",
+  "name": {
+    "la": "Orientis Catholici, Motu proprio, De Instituto Pontificio studiis rerum orientalium provehendis, d. 15 m. Octobris a. 1917, Benedictus PP. XV",
+    "it": "Orientis Catholici con il quale viene istituito in Roma un Istituto culturale pontificio per l’approfondimento e lo sviluppo degli studi orientali"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XV · 1917-10-15",
+    "pt-BR": "Motu Proprio · Papa Bento XV · 1917-10-15"
+  },
+  "composed": "1917",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19171015_orientis-catholici.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19171015_orientis-catholici.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Orientis Catholici, Motu proprio, De Instituto Pontificio studiis rerum orientalium provehendis, d. 15 m. Octobris a. 1917, Benedictus PP. XV",
+        "it": "Orientis Catholici con il quale viene istituito in Roma un Istituto culturale pontificio per l’approfondimento e lo sviluppo degli studi orientali"
+      }
+    }
+  ]
+}

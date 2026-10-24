@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-par-intermediaire",
+  "cover": "quarter",
+  "name": {
+    "fr": "Lettre Par l’intermédiaire à M. Herbert Hoover, au sujet de son œuvre en faveur des enfants des pays dévastés par la guerre",
+    "it": "Epistola Par l’intermédiaire all’illustrissimo Signore Erberto Hoover, Commissario ai viveri negli Stati Uniti, per l’opera svolta a favore dei bimbi europei colpiti dalla fame a seguito della guerra"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1920-01-09",
+    "pt-BR": "Carta · Papa Bento XV · 1920-01-09"
+  },
+  "composed": "1920",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xv/fr/letters/1920/documents/hf_ben-xv_let_19200109_par-intermediaire.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1920/documents/hf_ben-xv_let_19200109_par-intermediaire.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Lettre Par l’intermédiaire à M. Herbert Hoover, au sujet de son œuvre en faveur des enfants des pays dévastés par la guerre",
+        "it": "Epistola Par l’intermédiaire all’illustrissimo Signore Erberto Hoover, Commissario ai viveri negli Stati Uniti, per l’opera svolta a favore dei bimbi europei colpiti dalla fame a seguito della guerra"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-praeclara-gratulationis",
+  "cover": "quarter",
+  "name": {
+    "la": "Praeclara gratulationis",
+    "en-US": "Praeclara Gratulationis Publicae",
+    "es": "Praeclara gratulationis (20 giugno 1894)"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIII · 1894-06-20",
+    "pt-BR": "Carta Apostólica · Papa Leão XIII · 1894-06-20"
+  },
+  "composed": "1894",
+  "languages": [
+    "la",
+    "en-US",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/apost_letters/documents/hf_l-xiii_apl_18940620_praeclara-gratulationis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo13/l13praec.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1894-06-20,_SS_Leo_XIII,_Praeclara_Gratulationis_Publicae,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Praeclara gratulationis",
+        "en-US": "Praeclara Gratulationis Publicae",
+        "es": "Praeclara gratulationis (20 giugno 1894)"
+      }
+    }
+  ]
+}

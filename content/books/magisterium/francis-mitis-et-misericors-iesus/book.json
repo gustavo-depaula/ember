@@ -1,0 +1,80 @@
+{
+  "id": "francis-mitis-et-misericors-iesus",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio datae Mitis et misericors Iesus quibus canones Codicis Canonum Ecclesiarum Orientalium de causis ad matrimonii nullitatem declarandam reformantur (die XV mensis Augusti, anno MMXV)",
+    "en-US": "Apostolic Letter Motu Proprio Mitis et misericors Iesus by which the canons of the Code of Canons of Eastern Churches pertaining to cases rearding the nullity of marriage are reformed",
+    "pt-BR": "Carta Apostólica em forma de 'Motu Proprio' Mitis et misericors Iesus, sobre a reforma do processo canônico para as causas de declaração de nulidade do matrimônio no Código dos Cânones das Igrejas Orientais",
+    "ar": "Apostolic Letter issued Motu Proprio Mitis et misericors Iesus, on the reform of canonical procedure for the annulment of marriage in the Code of Canons of the Oriental Churches - 15 August 2015",
+    "it": "Lettera Apostolica in forma di 'Motu Proprio' Mitis et misericors Iesus, sulla riforma del processo canonico per le cause di dichiarazione di nullità del matrimonio nel Codice dei Canoni delle Chiese Orientali",
+    "pl": "List Apostolski Motu Proprio „Mitis et misericors Iesus”, reformujący kanony Kodeksu Kanonów Kościołów Wschodnich dotyczące spraw o orzeczenie nieważności małżeństwa"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2015-08-15",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2015-08-15"
+  },
+  "composed": "2015",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-et-misericors-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-et-misericors-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-et-misericors-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-et-misericors-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-et-misericors-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-et-misericors-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio datae Mitis et misericors Iesus quibus canones Codicis Canonum Ecclesiarum Orientalium de causis ad matrimonii nullitatem declarandam reformantur (die XV mensis Augusti, anno MMXV)",
+        "en-US": "Apostolic Letter Motu Proprio Mitis et misericors Iesus by which the canons of the Code of Canons of Eastern Churches pertaining to cases rearding the nullity of marriage are reformed",
+        "pt-BR": "Carta Apostólica em forma de 'Motu Proprio' Mitis et misericors Iesus, sobre a reforma do processo canônico para as causas de declaração de nulidade do matrimônio no Código dos Cânones das Igrejas Orientais",
+        "ar": "Apostolic Letter issued Motu Proprio Mitis et misericors Iesus, on the reform of canonical procedure for the annulment of marriage in the Code of Canons of the Oriental Churches - 15 August 2015",
+        "it": "Lettera Apostolica in forma di 'Motu Proprio' Mitis et misericors Iesus, sulla riforma del processo canonico per le cause di dichiarazione di nullità del matrimonio nel Codice dei Canoni delle Chiese Orientali",
+        "pl": "List Apostolski Motu Proprio „Mitis et misericors Iesus”, reformujący kanony Kodeksu Kanonów Kościołów Wschodnich dotyczące spraw o orzeczenie nieważności małżeństwa"
+      }
+    }
+  ]
+}

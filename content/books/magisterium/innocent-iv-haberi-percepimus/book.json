@@ -1,0 +1,48 @@
+{
+  "id": "innocent-iv-haberi-percepimus",
+  "cover": "quarter",
+  "name": {
+    "la": "Haberi Percepimus",
+    "pt-BR": "Haberi Percepimus"
+  },
+  "author": {
+    "en-US": "Pope Innocent IV",
+    "pt-BR": "Papa Inocêncio IV",
+    "la": "Innocentius PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent IV · 1254-06-26",
+    "pt-BR": "Documento · Papa Inocêncio IV · 1254-06-26"
+  },
+  "composed": "1254",
+  "languages": [
+    "la",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1254-06-26,_SS_Innocentius_IV,_Haberi_Percepimus,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1254-06-26,_SS_Innocentius_IV,_Haberi_Percepimus,_PT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Haberi Percepimus",
+        "pt-BR": "Haberi Percepimus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "francis-communis-vita",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio datae Communis vita quibus nonnullae Codicis Iuris Canonici normae mutantur (die XIX mensis Martii, anno MMXIX)",
+    "en-US": "Apostolic Letter issued 'Motu Proprio' Communis vita",
+    "pt-BR": "Carta Apostólica em forma de \"Motu Proprio\" Communis vita, com a qual são modificadas algumas normas do Código de Direito Canônico",
+    "de": "Apostolisches Schreiben in Form eines “Motu proprio” Communis vita, mit dem einige Normen des Kodex des Kanonischen Rechtes geändert werden",
+    "es": "Carta apostólica en forma de Motu proprio Communis vita con la cual se modifican algunas normas del Código de Derecho Canónico",
+    "fr": "Lettre apostolique en forme de Motu proprio Communis vita par laquelle sont modifiées certaines normes du Code de droit canonique",
+    "it": "Lettera Apostolica in forma di “Motu proprio” Communis vita, con la quale vengono mutate alcune norme del codice di diritto canonico"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2019-03-19",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2019-03-19"
+  },
+  "composed": "2019",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/papa-francesco-motu-proprio-20190319_communis-vita.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20190319_communis-vita.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20190319_communis-vita.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio-20190319_communis-vita.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20190319_communis-vita.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio-20190319_communis-vita.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20190319_communis-vita.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio datae Communis vita quibus nonnullae Codicis Iuris Canonici normae mutantur (die XIX mensis Martii, anno MMXIX)",
+        "en-US": "Apostolic Letter issued 'Motu Proprio' Communis vita",
+        "pt-BR": "Carta Apostólica em forma de \"Motu Proprio\" Communis vita, com a qual são modificadas algumas normas do Código de Direito Canônico",
+        "de": "Apostolisches Schreiben in Form eines “Motu proprio” Communis vita, mit dem einige Normen des Kodex des Kanonischen Rechtes geändert werden",
+        "es": "Carta apostólica en forma de Motu proprio Communis vita con la cual se modifican algunas normas del Código de Derecho Canónico",
+        "fr": "Lettre apostolique en forme de Motu proprio Communis vita par laquelle sont modifiées certaines normes du Code de droit canonique",
+        "it": "Lettera Apostolica in forma di “Motu proprio” Communis vita, con la quale vengono mutate alcune norme del codice di diritto canonico"
+      }
+    }
+  ]
+}

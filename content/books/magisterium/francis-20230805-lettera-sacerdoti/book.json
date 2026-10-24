@@ -1,0 +1,64 @@
+{
+  "id": "francis-20230805-lettera-sacerdoti",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter of the Holy Father to the Priests of the Diocese of Rome",
+    "de": "Brief von Papst Franziskus an die Priester der Diözese Rom",
+    "es": "Carta a los sacerdotes de la diócesis de Roma",
+    "it": "Lettera ai sacerdoti della Diocesi di Roma"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2023-08-05",
+    "pt-BR": "Carta · Papa Francisco · 2023-08-05"
+  },
+  "composed": "2023",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/letters/2023/documents/20230805-lettera-sacerdoti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/letters/2023/documents/20230805-lettera-sacerdoti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/letters/2023/documents/20230805-lettera-sacerdoti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2023/documents/20230805-lettera-sacerdoti.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter of the Holy Father to the Priests of the Diocese of Rome",
+        "de": "Brief von Papst Franziskus an die Priester der Diözese Rom",
+        "es": "Carta a los sacerdotes de la diócesis de Roma",
+        "it": "Lettera ai sacerdoti della Diocesi di Roma"
+      }
+    }
+  ]
+}

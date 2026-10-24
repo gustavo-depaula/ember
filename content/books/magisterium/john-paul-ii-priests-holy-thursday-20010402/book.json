@@ -1,0 +1,104 @@
+{
+  "id": "john-paul-ii-priests-holy-thursday-20010402",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to Priests for Holy Thursday 2001",
+    "pt-BR": "Carta aos Sacerdotes",
+    "de": "Schreiben an die Priester zum Gründonnerstag 2001",
+    "es": "Carta a los Sacerdotes",
+    "fr": "Lettre aux Prêtres pour le Jeudi Saint 2001",
+    "hu": "Nagycsütörtöki levél a papokhoz 2001-ban, 2001 nagycsütörtök - II. János Pál pápa",
+    "it": "Lettera ai Sacerdoti per il Giovedì Santo 2001",
+    "pl": "LIST OJCA ŚWIĘTEGO JANA PAWŁA II DO KAPŁANOW NA WIELKI CZWARTEK 2001 ROKU",
+    "zh": "Letter to Priests for Holy Thursday 2001"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 2001-04-02",
+    "pt-BR": "Carta · Papa João Paulo II · 2001-04-02"
+  },
+  "composed": "2001",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "zh"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/2001/documents/hf_jp-ii_let_20010402_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/2001/documents/hf_jp-ii_let_20010402_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/2001/documents/hf_jp-ii_let_20010402_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/2001/documents/hf_jp-ii_let_20010402_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/letters/2001/documents/hf_jp-ii_let_20010402_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/letters/2001/documents/hf_jp-ii_let_20010402_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/2001/documents/hf_jp-ii_let_20010402_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/letters/2001/documents/hf_jp-ii_let_20010402_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh",
+      "url": "https://www.vatican.va/content/john-paul-ii/zh/letters/2001/documents/hf_jp-ii_let_20010402_priests-holy-thursday.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to Priests for Holy Thursday 2001",
+        "pt-BR": "Carta aos Sacerdotes",
+        "de": "Schreiben an die Priester zum Gründonnerstag 2001",
+        "es": "Carta a los Sacerdotes",
+        "fr": "Lettre aux Prêtres pour le Jeudi Saint 2001",
+        "hu": "Nagycsütörtöki levél a papokhoz 2001-ban, 2001 nagycsütörtök - II. János Pál pápa",
+        "it": "Lettera ai Sacerdoti per il Giovedì Santo 2001",
+        "pl": "LIST OJCA ŚWIĘTEGO JANA PAWŁA II DO KAPŁANOW NA WIELKI CZWARTEK 2001 ROKU",
+        "zh": "Letter to Priests for Holy Thursday 2001"
+      }
+    }
+  ]
+}

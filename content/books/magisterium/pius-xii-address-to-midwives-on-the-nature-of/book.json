@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-address-to-midwives-on-the-nature-of",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Address to Midwives on the Nature of Their Profession"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1951-10-29",
+    "pt-BR": "Documento · Papa Pio XII · 1951-10-29"
+  },
+  "composed": "1951",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12midwives.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Address to Midwives on the Nature of Their Profession"
+      }
+    }
+  ]
+}

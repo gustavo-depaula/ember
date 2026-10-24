@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-auctorem-fidei",
+  "cover": "quarter",
+  "name": {
+    "it": "Bolla Auctorem fidei"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius VI · 1794-08-28",
+    "pt-BR": "Bula · Papa Pio VI · 1794-08-28"
+  },
+  "composed": "1794",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/bolla-auctorem-fidei-28-agosto-1794.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bolla Auctorem fidei"
+      }
+    }
+  ]
+}

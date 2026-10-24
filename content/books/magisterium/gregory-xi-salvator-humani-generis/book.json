@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xi-salvator-humani-generis",
+  "cover": "quarter",
+  "name": {
+    "it": "Salvator Humani Generis"
+  },
+  "author": {
+    "en-US": "Pope Gregory XI",
+    "pt-BR": "Papa Gregório XI",
+    "la": "Gregorius PP. XI"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory XI · 1374-04-08",
+    "pt-BR": "Documento · Papa Gregório XI · 1374-04-08"
+  },
+  "composed": "1374",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1374-04-08,_SS_Gregorius_XI,_Salvator_Humani_Generis,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Salvator Humani Generis"
+      }
+    }
+  ]
+}

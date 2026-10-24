@@ -1,0 +1,96 @@
+{
+  "id": "john-paul-ii-universi-dominici-gregis",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutio Apostolica \"Universi Dominici Gregis\", die XXII mensis Februarii, anno MCMXCVI",
+    "en-US": "Universi Dominici Gregis",
+    "pt-BR": "Universi Dominici Gregis",
+    "de": "Universi Dominici Gregis",
+    "es": "Universi Dominici Gregis",
+    "fr": "Universi Dominici gregis",
+    "it": "Universi Dominici Gregis",
+    "pl": "Universi Dominici Gregis (February 22, 1996)"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope John Paul II · 1996-02-22",
+    "pt-BR": "Constituição Apostólica · Papa João Paulo II · 1996-02-22"
+  },
+  "composed": "1996",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1996-02-22,_SS_Ioannes_Paulus_II,_Constitutio_'Universi_Dominici_Gregis',_PL.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Constitutio Apostolica \"Universi Dominici Gregis\", die XXII mensis Februarii, anno MCMXCVI",
+        "en-US": "Universi Dominici Gregis",
+        "pt-BR": "Universi Dominici Gregis",
+        "de": "Universi Dominici Gregis",
+        "es": "Universi Dominici Gregis",
+        "fr": "Universi Dominici gregis",
+        "it": "Universi Dominici Gregis",
+        "pl": "Universi Dominici Gregis (February 22, 1996)"
+      }
+    }
+  ]
+}

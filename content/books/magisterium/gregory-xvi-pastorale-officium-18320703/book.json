@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-pastorale-officium-18320703",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Pastorale Officium"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1832-07-03",
+    "pt-BR": "Breve · Papa Gregório XVI · 1832-07-03"
+  },
+  "composed": "1832",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-pastorale-officium-3-luglio-1832.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Pastorale Officium"
+      }
+    }
+  ]
+}

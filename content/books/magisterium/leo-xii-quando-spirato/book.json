@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-quando-spirato",
+  "cover": "quarter",
+  "name": {
+    "it": "Chirografo Quando Spirato"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Leo XII · 1829-01-06",
+    "pt-BR": "Documento · Papa Leão XII · 1829-01-06"
+  },
+  "composed": "1829",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/chirografo-quando-spirato-6-gennaio-1829.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Chirografo Quando Spirato"
+      }
+    }
+  ]
+}

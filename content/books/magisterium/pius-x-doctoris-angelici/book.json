@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-doctoris-angelici",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Doctoris Angelici"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius X · 1914-06-29",
+    "pt-BR": "Documento · Papa Pio X · 1914-06-29"
+  },
+  "composed": "1914",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/doctoris-angelic/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Doctoris Angelici"
+      }
+    }
+  ]
+}

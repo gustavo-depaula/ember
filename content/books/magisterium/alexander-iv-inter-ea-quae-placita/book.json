@@ -1,0 +1,48 @@
+{
+  "id": "alexander-iv-inter-ea-quae-placita",
+  "cover": "quarter",
+  "name": {
+    "la": "Inter Ea Quae Placita",
+    "en-US": "Inter Ea Quae Placita"
+  },
+  "author": {
+    "en-US": "Pope Alexander IV",
+    "pt-BR": "Papa Alexandre IV",
+    "la": "Alexander PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Alexander IV · 1255-04-06",
+    "pt-BR": "Documento · Papa Alexandre IV · 1255-04-06"
+  },
+  "composed": "1255",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "alexander-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1255-04-06,_SS_Alexander_IV,_Inter_Ea_Quae_Placita,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/alex04/alex4inter.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Inter Ea Quae Placita",
+        "en-US": "Inter Ea Quae Placita"
+      }
+    }
+  ]
+}

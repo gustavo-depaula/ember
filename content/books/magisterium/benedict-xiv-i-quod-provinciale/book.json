@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-i-quod-provinciale",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Quod Provinciale",
+    "it": "Enciclica Quod Provinciale"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV · 1754-08-01",
+    "pt-BR": "Encíclica · Papa Bento XIV · 1754-08-01"
+  },
+  "composed": "1754",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/b14quod.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-quod-provinciale--i---1-agosto-1754--cristiani-che-.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Quod Provinciale",
+        "it": "Enciclica Quod Provinciale"
+      }
+    }
+  ]
+}

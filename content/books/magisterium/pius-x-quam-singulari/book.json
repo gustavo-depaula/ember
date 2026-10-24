@@ -1,0 +1,48 @@
+{
+  "id": "pius-x-quam-singulari",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Quam Singulari",
+    "es": "Quam Singulari"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius X · 1910-08-08",
+    "pt-BR": "Documento · Papa Pio X · 1910-08-08"
+  },
+  "composed": "1910",
+  "languages": [
+    "en-US",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius10/p10quam.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1910-08-08,_SS_Pius_X,_Quam_Singolari,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Quam Singulari",
+        "es": "Quam Singulari"
+      }
+    }
+  ]
+}

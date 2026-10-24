@@ -1,0 +1,48 @@
+{
+  "id": "gregory-ix-cum-relicta-speculi",
+  "cover": "quarter",
+  "name": {
+    "la": "Cum Relicta Speculi",
+    "pt-BR": "Cum Relicta Speculi"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory IX · 1235-05-18",
+    "pt-BR": "Documento · Papa Gregório IX · 1235-05-18"
+  },
+  "composed": "1235",
+  "languages": [
+    "la",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1235-05-18,_SS_Gregorius_VIIII,_Cum_Relicta_Speculi,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1235-05-18,_SS_Gregorius_VIIII,_Cum_Relicta_Speculi,_PT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Cum Relicta Speculi",
+        "pt-BR": "Cum Relicta Speculi"
+      }
+    }
+  ]
+}

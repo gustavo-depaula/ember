@@ -1,0 +1,64 @@
+{
+  "id": "paul-vi-multiformis-sapientia",
+  "cover": "quarter",
+  "name": {
+    "la": "Multiformis Sapientia Dei, Littera Apostolica, Die 27 m. Septembris a. 1970, Paulus PP.VI\"",
+    "en-US": "Multiformis Sapientia Dei",
+    "es": "Multiformis Sapientia Dei, con la que se proclama a Santa Teresa de Ávila Doctora de la Iglesia",
+    "it": "Multiformis Sapientia Dei, 27 settembre 1970"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1970-09-27",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1970-09-27"
+  },
+  "composed": "1970",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19700927_multiformis-sapientia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/apost_letters/documents/hf_p-vi_apl_19700927_multiformis-sapientia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/apost_letters/documents/hf_p-vi_apl_19700927_multiformis-sapientia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19700927_multiformis-sapientia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Multiformis Sapientia Dei, Littera Apostolica, Die 27 m. Septembris a. 1970, Paulus PP.VI\"",
+        "en-US": "Multiformis Sapientia Dei",
+        "es": "Multiformis Sapientia Dei, con la que se proclama a Santa Teresa de Ávila Doctora de la Iglesia",
+        "it": "Multiformis Sapientia Dei, 27 settembre 1970"
+      }
+    }
+  ]
+}

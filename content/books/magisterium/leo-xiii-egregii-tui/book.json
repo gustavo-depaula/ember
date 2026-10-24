@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-egregii-tui",
+  "cover": "quarter",
+  "name": {
+    "it": "Egregii tui"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1887-07-30",
+    "pt-BR": "Carta · Papa Leão XIII · 1887-07-30"
+  },
+  "composed": "1887",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18870730_egregii-tui.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Egregii tui"
+      }
+    }
+  ]
+}

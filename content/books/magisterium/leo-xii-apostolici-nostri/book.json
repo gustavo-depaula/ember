@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-apostolici-nostri",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Apostolici Nostri"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XII · 1828-12-22",
+    "pt-BR": "Carta · Papa Leão XII · 1828-12-22"
+  },
+  "composed": "1828",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/epistola-apostolici-nostri-22-dicembre-1828.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Apostolici Nostri"
+      }
+    }
+  ]
+}

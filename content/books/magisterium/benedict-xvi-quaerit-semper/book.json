@@ -1,0 +1,88 @@
+{
+  "id": "benedict-xvi-quaerit-semper",
+  "cover": "quarter",
+  "name": {
+    "la": "Quaerit semper (die XXX mensis Augusti, anno Domini MMXI)",
+    "en-US": "Apostolic Letter issued \"Motu Proprio\" Quaerit semper",
+    "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" Quaerit semper",
+    "de": "Apostolisches Schreiben in Form eines Motu Proprio Quaerit semper",
+    "es": "Carta Apostólica en forma de Motu proprio Quaerit semper",
+    "fr": "Lettre apostolique en forme de « Motu Proprio » Quaerit semper",
+    "it": "Quaerit semper"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XVI · 2011-08-30",
+    "pt-BR": "Motu Proprio · Papa Bento XVI · 2011-08-30"
+  },
+  "composed": "2011",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20110830_quaerit-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20110830_quaerit-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20110830_quaerit-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20110830_quaerit-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20110830_quaerit-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20110830_quaerit-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20110830_quaerit-semper.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quaerit semper (die XXX mensis Augusti, anno Domini MMXI)",
+        "en-US": "Apostolic Letter issued \"Motu Proprio\" Quaerit semper",
+        "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" Quaerit semper",
+        "de": "Apostolisches Schreiben in Form eines Motu Proprio Quaerit semper",
+        "es": "Carta Apostólica en forma de Motu proprio Quaerit semper",
+        "fr": "Lettre apostolique en forme de « Motu Proprio » Quaerit semper",
+        "it": "Quaerit semper"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "eugene-iv-laetentur-caeli",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla Laetentur caeli (6 Iul. 1439), de unione Graecorum",
+    "it": "Bolla Laetentur caeli"
+  },
+  "author": {
+    "en-US": "Pope Eugene IV",
+    "pt-BR": "Papa Eugênio IV",
+    "la": "Eugenius PP. IV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Eugene IV · 1439-07-06",
+    "pt-BR": "Bula · Papa Eugênio IV · 1439-07-06"
+  },
+  "composed": "1439",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "eugene-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/eugenius-iv/la/documents/bulla-laetentur-caeli-6-iulii-1439.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/eugenius-iv/it/documents/bulla-laetentur-caeli-6-iulii-1439.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla Laetentur caeli (6 Iul. 1439), de unione Graecorum",
+        "it": "Bolla Laetentur caeli"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-dei-providentis",
+  "cover": "quarter",
+  "name": {
+    "la": "Dei providentia, Motu proprio, De Sacra Congragatione pro Ecclesia Orientali, d. 1 m. Maii a. 1917, Benedictus PP. XV",
+    "it": "Dei Providentis con il quale viene istituita la Sacra Congregazione per la Chiesa Orientale"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XV · 1917-05-01",
+    "pt-BR": "Motu Proprio · Papa Bento XV · 1917-05-01"
+  },
+  "composed": "1917",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19170501_dei-providentis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19170501_dei-providentis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Dei providentia, Motu proprio, De Sacra Congragatione pro Ecclesia Orientali, d. 1 m. Maii a. 1917, Benedictus PP. XV",
+        "it": "Dei Providentis con il quale viene istituita la Sacra Congregazione per la Chiesa Orientale"
+      }
+    }
+  ]
+}

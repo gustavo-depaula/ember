@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-iubilaeum-maximum",
+  "cover": "quarter",
+  "name": {
+    "it": "Iubilaeum maximum - Bolla di indizione del Giubileo Universale dell'Anno Santo 1950"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius XII · 1949-05-26",
+    "pt-BR": "Bula · Papa Pio XII · 1949-05-26"
+  },
+  "composed": "1949",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/bulls/documents/hf_p-xii_bull_19490526_iubilaeum-maximum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Iubilaeum maximum - Bolla di indizione del Giubileo Universale dell'Anno Santo 1950"
+      }
+    }
+  ]
+}

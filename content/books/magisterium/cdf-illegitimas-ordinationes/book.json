@@ -1,0 +1,96 @@
+{
+  "id": "cdf-illegitimas-ordinationes",
+  "cover": "quarter",
+  "name": {
+    "la": "Decretum circa quasdam illegitimas ordinationes presbyterales et episcopales, d. 17 m. Septembris a. 1976, Congregatio pro Doctrina Fidei",
+    "en-US": "Decree concerning certain unlawful priestly and episcopal ordinations, 17 September 1976",
+    "pt-BR": "Decreto sobre algumas ilegítimas ordenações presbiteriais e episcopais, 17 de setembro de 1976",
+    "de": "Dekret betreffend einige unrechtmäßig vorgenommene Priester- und Bischofsweihen",
+    "es": "Decreto sobre algunas ordenaciones presbiterales y episcopales ilegítimas, 17 septiembre 1976",
+    "fr": "Décret sur des ordinations illégitimes de prêtres et d'évêques à El Palmar de Troya, 17 septembre 1976",
+    "it": "Decreto con il quale si dichiarano le pene canoniche incorse dallÂÂÂ’Arcivescovo Pierre-Martin Ngô-dińh-Thuc e complici per le ordinazioni illecite di presbiteri e vescovi in località El Palmar de Troya",
+    "pl": "DEKRET O BEZPRAWNYM UDZIELANIU ŚWIĘCEŃ KAPŁAŃSKICH I KONSEKRACJI BISKUPIEJ, 17 września 1976 r."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1976-09-17",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1976-09-17"
+  },
+  "composed": "1976",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760917_illegitimas-ordinationes_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760917_illegitimas-ordinationes_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760917_illegitimas-ordinationes_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760917_illegitimas-ordinationes_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760917_illegitimas-ordinationes_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760917_illegitimas-ordinationes_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760917_illegitimas-ordinationes_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19760917_illegitimas-ordinationes_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decretum circa quasdam illegitimas ordinationes presbyterales et episcopales, d. 17 m. Septembris a. 1976, Congregatio pro Doctrina Fidei",
+        "en-US": "Decree concerning certain unlawful priestly and episcopal ordinations, 17 September 1976",
+        "pt-BR": "Decreto sobre algumas ilegítimas ordenações presbiteriais e episcopais, 17 de setembro de 1976",
+        "de": "Dekret betreffend einige unrechtmäßig vorgenommene Priester- und Bischofsweihen",
+        "es": "Decreto sobre algunas ordenaciones presbiterales y episcopales ilegítimas, 17 septiembre 1976",
+        "fr": "Décret sur des ordinations illégitimes de prêtres et d'évêques à El Palmar de Troya, 17 septembre 1976",
+        "it": "Decreto con il quale si dichiarano le pene canoniche incorse dallÂÂÂ’Arcivescovo Pierre-Martin Ngô-dińh-Thuc e complici per le ordinazioni illecite di presbiteri e vescovi in località El Palmar de Troya",
+        "pl": "DEKRET O BEZPRAWNYM UDZIELANIU ŚWIĘCEŃ KAPŁAŃSKICH I KONSEKRACJI BISKUPIEJ, 17 września 1976 r."
+      }
+    }
+  ]
+}

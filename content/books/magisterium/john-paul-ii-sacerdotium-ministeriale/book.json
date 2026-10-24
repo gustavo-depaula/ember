@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-sacerdotium-ministeriale",
+  "cover": "quarter",
+  "name": {
+    "la": "Sacerdotium ministeriale",
+    "it": "Sacerdotium ministeriale"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1983-08-06",
+    "pt-BR": "Carta · Papa João Paulo II · 1983-08-06"
+  },
+  "composed": "1983",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/letters/1983/documents/hf_jp-ii_let_19830806_sacerdotium-ministeriale.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1983/documents/hf_jp-ii_let_19830806_sacerdotium-ministeriale.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sacerdotium ministeriale",
+        "it": "Sacerdotium ministeriale"
+      }
+    }
+  ]
+}

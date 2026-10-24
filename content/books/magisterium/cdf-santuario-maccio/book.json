@@ -1,0 +1,72 @@
+{
+  "id": "cdf-santuario-maccio",
+  "cover": "quarter",
+  "name": {
+    "en-US": "“Trinity Mercy”. Letter to the Bishop of Como on the Spiritual Experience Connected with the Sanctuary of Maccio (Villa Guardia)",
+    "pt-BR": "“Trindade Misericórdia”. Carta ao Bispo de Como sobre a experiência espiritual relacionada ao Santuário de Maccio (Villa Guardia)",
+    "es": "“Trinidad Misericordia”. Carta al Obispo de Como sobre la experiencia espiritual vinculada al Santuario de Maccio (Villa Guardia)",
+    "fr": "« Trinité Miséricorde ». Lettre à l’Évêque de Côme à propos de l’expérience spirituelle liée au sanctuaire de Maccio (Villa Guardia)",
+    "it": "“Trinità Misericordia”. Lettera al Vescovo di Como circa l’esperienza spirituale legata al Santuario di Maccio (Villa Guardia)"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-07-15",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-07-15"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240715_lettera-santuario-maccio_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "“Trinity Mercy”. Letter to the Bishop of Como on the Spiritual Experience Connected with the Sanctuary of Maccio (Villa Guardia)",
+        "pt-BR": "“Trindade Misericórdia”. Carta ao Bispo de Como sobre a experiência espiritual relacionada ao Santuário de Maccio (Villa Guardia)",
+        "es": "“Trinidad Misericordia”. Carta al Obispo de Como sobre la experiencia espiritual vinculada al Santuario de Maccio (Villa Guardia)",
+        "fr": "« Trinité Miséricorde ». Lettre à l’Évêque de Côme à propos de l’expérience spirituelle liée au sanctuaire de Maccio (Villa Guardia)",
+        "it": "“Trinità Misericordia”. Lettera al Vescovo di Como circa l’esperienza spirituale legata al Santuario di Maccio (Villa Guardia)"
+      }
+    }
+  ]
+}

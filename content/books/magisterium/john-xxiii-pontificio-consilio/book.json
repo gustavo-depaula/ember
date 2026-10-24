@@ -1,0 +1,40 @@
+{
+  "id": "john-xxiii-pontificio-consilio",
+  "cover": "quarter",
+  "name": {
+    "it": "De Pontificio Consilio Ecclesiasticis Italiae Tabularis curandis Motu proprio che stabilisce il riordinamento degli Archivi Ecclesiastici in Italia ed emana il nuovo Statuto"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John XXIII · 1960-02-29",
+    "pt-BR": "Motu Proprio · Papa João XXIII · 1960-02-29"
+  },
+  "composed": "1960",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/motu_proprio/documents/hf_j-xxiii_motu-proprio_19600229_pontificio-consilio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "De Pontificio Consilio Ecclesiasticis Italiae Tabularis curandis Motu proprio che stabilisce il riordinamento degli Archivi Ecclesiastici in Italia ed emana il nuovo Statuto"
+      }
+    }
+  ]
+}

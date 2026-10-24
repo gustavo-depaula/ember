@@ -1,0 +1,40 @@
+{
+  "id": "celestine-v-inter-sanctorum-solemnia",
+  "cover": "quarter",
+  "name": {
+    "it": "Bulla 'Inter Sanctorum Solemnia' (AD 1294-09-29)"
+  },
+  "author": {
+    "en-US": "Pope Celestine V",
+    "pt-BR": "Papa Celestino V",
+    "la": "Caelestinus PP. V"
+  },
+  "description": {
+    "en-US": "Bull · Pope Celestine V · 1294",
+    "pt-BR": "Bula · Papa Celestino V · 1294"
+  },
+  "composed": "1294",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "celestine-v"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1294-1294,_SS_Celestinus_V,_Bulla_'Inter_Sanctorum_Solemnia'_(AD_1294-09-29),_IT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bulla 'Inter Sanctorum Solemnia' (AD 1294-09-29)"
+      }
+    }
+  ]
+}

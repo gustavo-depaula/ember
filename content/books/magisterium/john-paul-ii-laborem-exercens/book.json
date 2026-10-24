@@ -1,0 +1,104 @@
+{
+  "id": "john-paul-ii-laborem-exercens",
+  "cover": "quarter",
+  "name": {
+    "la": "Laborem Exercens, Litterae Encyclicae de labore humano, LXXXX expleto anno ab editis Litteris Encyclicis Rerum Novarum, XIV Septembris MCMLXXXI, Ioannes Paulus PP.II",
+    "en-US": "Laborem Exercens",
+    "pt-BR": "Laborem Exercens",
+    "de": "Laborem Exercens",
+    "es": "Laborem Exercens",
+    "fr": "Laborem Exercens",
+    "it": "Laborem Exercens",
+    "pl": "Laborem exercens, 14 września 1981",
+    "sk": "Laborem Exercens - Ján Pavol II. - Encyklika, 14. septembra 1981"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope John Paul II · 1981-09-14",
+    "pt-BR": "Encíclica · Papa João Paulo II · 1981-09-14"
+  },
+  "composed": "1981",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "sk"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sk",
+      "url": "https://www.vatican.va/content/john-paul-ii/sk/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Laborem Exercens, Litterae Encyclicae de labore humano, LXXXX expleto anno ab editis Litteris Encyclicis Rerum Novarum, XIV Septembris MCMLXXXI, Ioannes Paulus PP.II",
+        "en-US": "Laborem Exercens",
+        "pt-BR": "Laborem Exercens",
+        "de": "Laborem Exercens",
+        "es": "Laborem Exercens",
+        "fr": "Laborem Exercens",
+        "it": "Laborem Exercens",
+        "pl": "Laborem exercens, 14 września 1981",
+        "sk": "Laborem Exercens - Ján Pavol II. - Encyklika, 14. septembra 1981"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-ix-consultationi-tuae",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Consultationi tuae (12 Nov. 1231), ad archiep. Barensem"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory IX · 1231-11-12",
+    "pt-BR": "Carta · Papa Gregório IX · 1231-11-12"
+  },
+  "composed": "1231",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/gregorius-ix/la/documents/epistola-consultationi-tuae-12-nov-1231.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Consultationi tuae (12 Nov. 1231), ad archiep. Barensem"
+      }
+    }
+  ]
+}

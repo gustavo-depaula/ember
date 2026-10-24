@@ -1,0 +1,128 @@
+{
+  "id": "vatican-ii-perfectae-caritatis",
+  "cover": "quarter",
+  "name": {
+    "la": "Perfectae caritatis",
+    "en-US": "Perfectae caritatis",
+    "pt-BR": "Perfectae caritatis",
+    "be": "Perfectae caritatis",
+    "cs": "Perfectae caritatis",
+    "de": "Perfectae caritatis",
+    "es": "Perfectae caritatis",
+    "fr": "Perfectae caritatis",
+    "hu": "Perfectae caritatis",
+    "it": "Perfectae caritatis",
+    "lv": "DEKRĒTS PAR KLOSTERDZĪVES ATJAUNOTNI ATBILSTOŠI MŪSDIENU APSTĀKĻIEM - PERFECTAE CARITATIS",
+    "sw": "Perfectae caritatis"
+  },
+  "author": {
+    "en-US": "Second Vatican Council",
+    "pt-BR": "Concílio Vaticano II",
+    "la": "Concilium Oecumenicum Vaticanum II"
+  },
+  "description": {
+    "en-US": "Conciliar Document · Second Vatican Council · 1965-10-28",
+    "pt-BR": "Documento Conciliar · Concílio Vaticano II · 1965-10-28"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "be",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "lv",
+    "sw"
+  ],
+  "tags": [
+    "magisterium",
+    "council-document",
+    "vatican-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_be.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_lv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_sw.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Perfectae caritatis",
+        "en-US": "Perfectae caritatis",
+        "pt-BR": "Perfectae caritatis",
+        "be": "Perfectae caritatis",
+        "cs": "Perfectae caritatis",
+        "de": "Perfectae caritatis",
+        "es": "Perfectae caritatis",
+        "fr": "Perfectae caritatis",
+        "hu": "Perfectae caritatis",
+        "it": "Perfectae caritatis",
+        "lv": "DEKRĒTS PAR KLOSTERDZĪVES ATJAUNOTNI ATBILSTOŠI MŪSDIENU APSTĀKĻIEM - PERFECTAE CARITATIS",
+        "sw": "Perfectae caritatis"
+      }
+    }
+  ]
+}

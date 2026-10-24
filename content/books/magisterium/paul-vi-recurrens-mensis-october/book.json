@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-recurrens-mensis-october",
+  "cover": "quarter",
+  "name": {
+    "la": "Recurrens mensis October, die VII mensis Octobris, anno Domini MCMLXIX",
+    "it": "Recurrens mensis october"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Paul VI · 1969-10-07",
+    "pt-BR": "Exortação Apostólica · Papa Paulo VI · 1969-10-07"
+  },
+  "composed": "1969",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_exhortations/documents/hf_p-vi_exh_19691007_recurrens-mensis-october.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19691007_recurrens-mensis-october.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Recurrens mensis October, die VII mensis Octobris, anno Domini MCMLXIX",
+        "it": "Recurrens mensis october"
+      }
+    }
+  ]
+}

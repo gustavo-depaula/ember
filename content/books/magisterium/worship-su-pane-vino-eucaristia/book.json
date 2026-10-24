@@ -1,0 +1,96 @@
+{
+  "id": "worship-su-pane-vino-eucaristia",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula ad Episcopos de pane et vino ad Eucharistiam destinatis - Congregatio de Cultu Divino et Disciplina Sacramentorum",
+    "en-US": "Circular letter to Bishops on the bread and wine for the Eucharist - Congregation for Divine Worship and the Discipline of the Sacraments",
+    "pt-BR": "Carta-circular aos Bispos sobre o pão e o vinho para a Eucaristia - Congregação para o Culto Divino e a Disciplina dos Sacramentos",
+    "de": "Rundbrief an die Bischöfe über das Brot und den Wein für die Eucharistie - Kongregation für den Gottesdienst und die Sakramentenordnung",
+    "es": "Carta circular a los Obispos sobre el pan y el vino para la Eucaristía - Congregación para el Culto Divino y la Disciplina de los Sacramentos",
+    "fr": "Lettre circulaire aux Evêques sur le pain et le vin pour l’Eucharistie - Congrégation pour le culte divin et la discipline des sacrements",
+    "it": "Lettera circolare ai Vescovi sul pane e il vino per l'Eucaristia - Congregazione per il Culto Divino e la Disciplina dei Sacramenti",
+    "pl": "List okólny do Biskupów na temat chleba i wina do sprawowania Eucharystii - KONGEREGACJA KULTU BOŻEGO I DYSCYPLINY SAKRAMENTÓW"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2017-06-15",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2017-06-15"
+  },
+  "composed": "2017",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20170615_lettera-su-pane-vino-eucaristia_la.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20170615_lettera-su-pane-vino-eucaristia_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20170615_lettera-su-pane-vino-eucaristia_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20170615_lettera-su-pane-vino-eucaristia_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20170615_lettera-su-pane-vino-eucaristia_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20170615_lettera-su-pane-vino-eucaristia_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20170615_lettera-su-pane-vino-eucaristia_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20170615_lettera-su-pane-vino-eucaristia_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula ad Episcopos de pane et vino ad Eucharistiam destinatis - Congregatio de Cultu Divino et Disciplina Sacramentorum",
+        "en-US": "Circular letter to Bishops on the bread and wine for the Eucharist - Congregation for Divine Worship and the Discipline of the Sacraments",
+        "pt-BR": "Carta-circular aos Bispos sobre o pão e o vinho para a Eucaristia - Congregação para o Culto Divino e a Disciplina dos Sacramentos",
+        "de": "Rundbrief an die Bischöfe über das Brot und den Wein für die Eucharistie - Kongregation für den Gottesdienst und die Sakramentenordnung",
+        "es": "Carta circular a los Obispos sobre el pan y el vino para la Eucaristía - Congregación para el Culto Divino y la Disciplina de los Sacramentos",
+        "fr": "Lettre circulaire aux Evêques sur le pain et le vin pour l’Eucharistie - Congrégation pour le culte divin et la discipline des sacrements",
+        "it": "Lettera circolare ai Vescovi sul pane e il vino per l'Eucaristia - Congregazione per il Culto Divino e la Disciplina dei Sacramenti",
+        "pl": "List okólny do Biskupów na temat chleba i wina do sprawowania Eucharystii - KONGEREGACJA KULTU BOŻEGO I DYSCYPLINY SAKRAMENTÓW"
+      }
+    }
+  ]
+}

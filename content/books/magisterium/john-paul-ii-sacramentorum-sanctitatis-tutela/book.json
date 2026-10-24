@@ -1,0 +1,72 @@
+{
+  "id": "john-paul-ii-sacramentorum-sanctitatis-tutela",
+  "cover": "quarter",
+  "name": {
+    "la": "Sacramentorum sanctitatis tutela, Litterae Apostolicae Motu prorpio datae, Quibus Normae de gravioribus delictis Congregationi pro Doctrina Fidei reservatis promulgantur, d. 30 m. Aprilis a. 2001, Ioannes Paulus PP. II",
+    "en-US": "Sacramentorum sanctitatis tutela - Apostolic Letter in the form of a Motu Proprio",
+    "pt-BR": "Sacramentorum sanctitatis tutela",
+    "de": "Sacramentorum sanctitatis tutela - Als Motu proprio erlassenes Apostolisches Schreiben",
+    "it": "Sacramentorum sanctitatis tutela - Lettera Apostolica in forma di Motu Proprio con la quale vengono promulgate le norme circa i delitti più gravi riservati alla Congregazione per la Dottrina della Fede"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 2002-01-10",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 2002-01-10"
+  },
+  "composed": "2002",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_20020110_sacramentorum-sanctitatis-tutela.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_20020110_sacramentorum-sanctitatis-tutela.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20020110_sacramentorum-sanctitatis-tutela.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/motu_proprio/documents/hf_jp-ii_motu-proprio_20020110_sacramentorum-sanctitatis-tutela.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_20020110_sacramentorum-sanctitatis-tutela.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sacramentorum sanctitatis tutela, Litterae Apostolicae Motu prorpio datae, Quibus Normae de gravioribus delictis Congregationi pro Doctrina Fidei reservatis promulgantur, d. 30 m. Aprilis a. 2001, Ioannes Paulus PP. II",
+        "en-US": "Sacramentorum sanctitatis tutela - Apostolic Letter in the form of a Motu Proprio",
+        "pt-BR": "Sacramentorum sanctitatis tutela",
+        "de": "Sacramentorum sanctitatis tutela - Als Motu proprio erlassenes Apostolisches Schreiben",
+        "it": "Sacramentorum sanctitatis tutela - Lettera Apostolica in forma di Motu Proprio con la quale vengono promulgate le norme circa i delitti più gravi riservati alla Congregazione per la Dottrina della Fede"
+      }
+    }
+  ]
+}

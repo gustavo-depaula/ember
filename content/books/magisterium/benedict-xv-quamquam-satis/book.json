@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-quamquam-satis",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Quamquam satis al Reverendo don Luigi Orione, Rettore della Piccola Opera della Divina Provvidenza, in occasione del 25° anno di sacerdozio"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1920-04-02",
+    "pt-BR": "Carta · Papa Bento XV · 1920-04-02"
+  },
+  "composed": "1920",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1920/documents/hf_ben-xv_let_19200402_quamquam-satis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Quamquam satis al Reverendo don Luigi Orione, Rettore della Piccola Opera della Divina Provvidenza, in occasione del 25° anno di sacerdozio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-provida-matris",
+  "cover": "quarter",
+  "name": {
+    "la": "Provida Matris, BREVE SSmi D, N. Leonis XIII, quo catholicis commendantur peculiares preces per sollemnia Sacrae Pentecostes (die V Maii anno MDCCCXCV)",
+    "it": "Provida Matris"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Leo XIII · 1895-05-05",
+    "pt-BR": "Breve · Papa Leão XIII · 1895-05-05"
+  },
+  "composed": "1895",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/briefs/documents/hf_l-xiii_brief_18950505_provida-matris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/briefs/documents/hf_l-xiii_brief_18950505_provida-matris.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Provida Matris, BREVE SSmi D, N. Leonis XIII, quo catholicis commendantur peculiares preces per sollemnia Sacrae Pentecostes (die V Maii anno MDCCCXCV)",
+        "it": "Provida Matris"
+      }
+    }
+  ]
+}

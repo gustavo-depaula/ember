@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-quanto-conficiamur",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Quanto Conficiamur Moerore",
+    "it": "Enciclica Quanto conficiamur"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1863-08-10",
+    "pt-BR": "Encíclica · Papa Pio IX · 1863-08-10"
+  },
+  "composed": "1863",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9quanto.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-quanto-conficiamur-10-agosto-1863.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Quanto Conficiamur Moerore",
+        "it": "Enciclica Quanto conficiamur"
+      }
+    }
+  ]
+}

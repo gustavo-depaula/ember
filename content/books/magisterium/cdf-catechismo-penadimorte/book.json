@@ -1,0 +1,104 @@
+{
+  "id": "cdf-catechismo-penadimorte",
+  "cover": "quarter",
+  "name": {
+    "la": "Nuova redazione del n. 2267 del Catechismo della Chiesa Cattolica sulla pena di morte – Rescriptum “ex Audientia SS.mi”",
+    "en-US": "New revision of number 2267 of the Catechism of the Catholic Church on the death penalty – Rescriptum “ex Audientia SS.mi”",
+    "de": "Neue Formulierung der Nr. 2267 des Katechismus der katholischen Kirche bezüglich der Todesstrafe",
+    "es": "Rescriptum “ex Audientia SS.mi” - Nueva redacción del n.2267 del Catecismo de la Iglesia Católica sobre la pena de muerte",
+    "fr": "Nouvelle formulation du n.2267 du Catéchisme de l’Église Catholique sur la peine de mort - Rescriptum “ex Audientia SS.mi”",
+    "it": "Nuova redazione del n. 2267 del Catechismo della Chiesa Cattolica sulla pena di morte – Rescriptum “ex Audientia SS.mi”",
+    "mg": "FANITSIANA NY LAHARANA FAHA-2267 AO AMIN’NY KATESIZIN’NY FIANGONANA KATOLIKA, MOMBA NY FANAMELOHANA HO FATY RESCRIPTUM “EX AUDIENTIA SS.MI”, 1 aogositra 2018",
+    "pl": "Rescriptum “ex Audientia SS.mi” - Nuova redazione del n. 2267 del Catechismo della Chiesa Cattolica sulla pena di morte",
+    "vi": "New revision of number 2267 of the Catechism of the Catholic Church on the death penalty – Rescriptum “ex Audientia SS.mi”"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2018-08-01",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2018-08-01"
+  },
+  "composed": "2018",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "mg",
+    "pl",
+    "vi"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_la.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "mg",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_mg.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_catechismo-penadimorte_vi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Nuova redazione del n. 2267 del Catechismo della Chiesa Cattolica sulla pena di morte – Rescriptum “ex Audientia SS.mi”",
+        "en-US": "New revision of number 2267 of the Catechism of the Catholic Church on the death penalty – Rescriptum “ex Audientia SS.mi”",
+        "de": "Neue Formulierung der Nr. 2267 des Katechismus der katholischen Kirche bezüglich der Todesstrafe",
+        "es": "Rescriptum “ex Audientia SS.mi” - Nueva redacción del n.2267 del Catecismo de la Iglesia Católica sobre la pena de muerte",
+        "fr": "Nouvelle formulation du n.2267 du Catéchisme de l’Église Catholique sur la peine de mort - Rescriptum “ex Audientia SS.mi”",
+        "it": "Nuova redazione del n. 2267 del Catechismo della Chiesa Cattolica sulla pena di morte – Rescriptum “ex Audientia SS.mi”",
+        "mg": "FANITSIANA NY LAHARANA FAHA-2267 AO AMIN’NY KATESIZIN’NY FIANGONANA KATOLIKA, MOMBA NY FANAMELOHANA HO FATY RESCRIPTUM “EX AUDIENTIA SS.MI”, 1 aogositra 2018",
+        "pl": "Rescriptum “ex Audientia SS.mi” - Nuova redazione del n. 2267 del Catechismo della Chiesa Cattolica sulla pena di morte",
+        "vi": "New revision of number 2267 of the Catechism of the Catholic Church on the death penalty – Rescriptum “ex Audientia SS.mi”"
+      }
+    }
+  ]
+}

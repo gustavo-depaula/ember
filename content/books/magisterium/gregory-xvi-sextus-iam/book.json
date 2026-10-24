@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-sextus-iam",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Sextus iam"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Gregory XVI · 1836-02-01",
+    "pt-BR": "Alocução · Papa Gregório XVI · 1836-02-01"
+  },
+  "composed": "1836",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/allocuzione-sextus-iam-1-febbraio-1836.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Sextus iam"
+      }
+    }
+  ]
+}

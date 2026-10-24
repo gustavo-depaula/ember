@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-romanae-dioecesis",
+  "cover": "quarter",
+  "name": {
+    "la": "Romanae Dioecesis - De attributione beneficiorum ecclesiasticorum in Urbe, Litterae Apostolicae Motu Proprio datae, Die 30 m. Iunii a. 1968, Paulus PP.VI",
+    "it": "Romanae Dioecesis - Lettera Apostolica in forma di Motu Proprio che prevede l'attribuzione dei Benefici Ecclesiastici in Roma"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1968-06-30",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1968-06-30"
+  },
+  "composed": "1968",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19680630_romanae-dioecesis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19680630_romanae-dioecesis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Romanae Dioecesis - De attributione beneficiorum ecclesiasticorum in Urbe, Litterae Apostolicae Motu Proprio datae, Die 30 m. Iunii a. 1968, Paulus PP.VI",
+        "it": "Romanae Dioecesis - Lettera Apostolica in forma di Motu Proprio che prevede l'attribuzione dei Benefici Ecclesiastici in Roma"
+      }
+    }
+  ]
+}

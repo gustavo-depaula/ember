@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-ci-e-stato",
+  "cover": "quarter",
+  "name": {
+    "it": "Chirografo Ci è stato"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory XVI · 1832-06-09",
+    "pt-BR": "Documento · Papa Gregório XVI · 1832-06-09"
+  },
+  "composed": "1832",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/chirografo-ci-e-stato-9-giugno-1832.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Chirografo Ci è stato"
+      }
+    }
+  ]
+}

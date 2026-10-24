@@ -1,0 +1,56 @@
+{
+  "id": "innocent-iv-regula-sanctae-clarae",
+  "cover": "quarter",
+  "name": {
+    "la": "Regula Sanctae Clarae",
+    "en-US": "Regula Sanctae Clarae",
+    "es": "Regula Sanctae Clarae"
+  },
+  "author": {
+    "en-US": "Pope Innocent IV",
+    "pt-BR": "Papa Inocêncio IV",
+    "la": "Innocentius PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent IV · 1254-08-05",
+    "pt-BR": "Documento · Papa Inocêncio IV · 1254-08-05"
+  },
+  "composed": "1254",
+  "languages": [
+    "la",
+    "en-US",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1254-08-05,_SS_Innocentius_IV,_Regula_Sanctae_Clarae,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1254-08-05,_SS_Innocentius_IV,_Regula_Sanctae_Clarae,_EN.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1254-08-05,_SS_Innocentius_IV,_Regula_Sanctae_Clarae,_ES.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Regula Sanctae Clarae",
+        "en-US": "Regula Sanctae Clarae",
+        "es": "Regula Sanctae Clarae"
+      }
+    }
+  ]
+}

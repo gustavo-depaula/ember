@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-ille-singularis",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Amor ille singularis, al Cardinale Leone Adolfo Amette, Arcivescovo di Parigi, in occasione della consacrazione della Basilica di Montmartre dedicata al Santissimo Cuore di Gesù"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1919-10-07",
+    "pt-BR": "Carta · Papa Bento XV · 1919-10-07"
+  },
+  "composed": "1919",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1919/documents/hf_ben-xv_let_19191007_ille-singularis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Amor ille singularis, al Cardinale Leone Adolfo Amette, Arcivescovo di Parigi, in occasione della consacrazione della Basilica di Montmartre dedicata al Santissimo Cuore di Gesù"
+      }
+    }
+  ]
+}

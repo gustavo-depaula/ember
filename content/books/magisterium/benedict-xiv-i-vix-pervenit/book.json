@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-i-vix-pervenit",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Vix Pervenit",
+    "it": "Enciclica Vix Pervenit"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV · 1745-11-01",
+    "pt-BR": "Encíclica · Papa Bento XIV · 1745-11-01"
+  },
+  "composed": "1745",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/b14vixpe.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-vix-pervenit--i---1-novembre-1745--poiche-e-venuto-.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Vix Pervenit",
+        "it": "Enciclica Vix Pervenit"
+      }
+    }
+  ]
+}

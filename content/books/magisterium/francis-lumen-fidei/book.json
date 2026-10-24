@@ -1,0 +1,152 @@
+{
+  "id": "francis-lumen-fidei",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Encyclicae Lumen Fidei - Episcopis Presbyteris Ac Diaconis Viris Et Mulieribus Consecratis Omnibusque Christifidelibus Laicis De Fide, die XXIX m. Iunii, A.D. MMXIII",
+    "en-US": "Lumen fidei",
+    "pt-BR": "Carta Encíclica Lumen fidei",
+    "ar": "Lumen fidei, 29 June 2013",
+    "be": "Lumen Fidei",
+    "de": "Lumen fidei",
+    "es": "Lumen Fidei",
+    "fr": "Lumen fidei",
+    "it": "Lumen fidei",
+    "ja": "回勅 信仰の光 教皇フランシスコ",
+    "pl": "Lumen fidei",
+    "ru": "Папа Римский Франциск Энциклика Lumen Fidei",
+    "sl": "Lumen fidei",
+    "zh-CN": "Lumen Fidei",
+    "zh-TW": "Lumen Fidei"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Francis · 2013-06-29",
+    "pt-BR": "Encíclica · Papa Francisco · 2013-06-29"
+  },
+  "composed": "2013",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "ja",
+    "pl",
+    "ru",
+    "sl",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ja",
+      "url": "https://www.vatican.va/content/francesco/ja/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/content/francesco/ru/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sl",
+      "url": "https://www.vatican.va/content/francesco/sl/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Encyclicae Lumen Fidei - Episcopis Presbyteris Ac Diaconis Viris Et Mulieribus Consecratis Omnibusque Christifidelibus Laicis De Fide, die XXIX m. Iunii, A.D. MMXIII",
+        "en-US": "Lumen fidei",
+        "pt-BR": "Carta Encíclica Lumen fidei",
+        "ar": "Lumen fidei, 29 June 2013",
+        "be": "Lumen Fidei",
+        "de": "Lumen fidei",
+        "es": "Lumen Fidei",
+        "fr": "Lumen fidei",
+        "it": "Lumen fidei",
+        "ja": "回勅 信仰の光 教皇フランシスコ",
+        "pl": "Lumen fidei",
+        "ru": "Папа Римский Франциск Энциклика Lumen Fidei",
+        "sl": "Lumen fidei",
+        "zh-CN": "Lumen Fidei",
+        "zh-TW": "Lumen Fidei"
+      }
+    }
+  ]
+}

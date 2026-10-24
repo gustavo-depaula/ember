@@ -1,0 +1,48 @@
+{
+  "id": "pius-x-scripturae-sanctae",
+  "cover": "quarter",
+  "name": {
+    "la": "Scripturae Sanctae",
+    "it": "Scripturae Sanctae"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius X · 1904-02-23",
+    "pt-BR": "Carta Apostólica · Papa Pio X · 1904-02-23"
+  },
+  "composed": "1904",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-x/la/apost_letters/documents/hf_p-x_apl_19040223_scripturae-sanctae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/apost_letters/documents/hf_p-x_apl_19040223_scripturae-sanctae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Scripturae Sanctae",
+        "it": "Scripturae Sanctae"
+      }
+    }
+  ]
+}

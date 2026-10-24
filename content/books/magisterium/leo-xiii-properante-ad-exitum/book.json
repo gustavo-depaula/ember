@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-properante-ad-exitum",
+  "cover": "quarter",
+  "name": {
+    "la": "Properante ad exitum",
+    "it": "Properante ad exitum"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1899-05-11",
+    "pt-BR": "Carta · Papa Leão XIII · 1899-05-11"
+  },
+  "composed": "1899",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/letters/documents/hf_l-xiii_let_18990511_properante-ad-exitum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18990511_properante-ad-exitum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Properante ad exitum",
+        "it": "Properante ad exitum"
+      }
+    }
+  ]
+}

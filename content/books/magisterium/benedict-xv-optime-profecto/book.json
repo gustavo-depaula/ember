@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-optime-profecto",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Optime Profecto ai RR. PP. Giacomo Agostino, Arcivescovo di Sant’Andrea e di Edimburgo, e agli altri Vescovi della Scozia, sull'importanza del Collegio Romano degli Scozzesi"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1920-07-25",
+    "pt-BR": "Carta · Papa Bento XV · 1920-07-25"
+  },
+  "composed": "1920",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1920/documents/hf_ben-xv_let_19200725_optime-profecto.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Optime Profecto ai RR. PP. Giacomo Agostino, Arcivescovo di Sant’Andrea e di Edimburgo, e agli altri Vescovi della Scozia, sull'importanza del Collegio Romano degli Scozzesi"
+      }
+    }
+  ]
+}

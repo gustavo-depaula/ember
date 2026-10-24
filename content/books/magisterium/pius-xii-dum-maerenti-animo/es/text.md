@@ -1,0 +1,67 @@
+# Dum maerenti animo . - La chiesa perseguitata nell'Europa dell'Est (29 giugno 1956)
+
+"DUM MAERENTI ANIMO"
+
+A LA IGLESIA PERSEGUIDA
+
+Constitución Apostólica del Papa Pío XII promulgada el 29 de Junio de 1956
+
+Mientras con ánimo afligido consideramos las gravísimas condiciones en que sufre la Iglesia, en no pocas regiones del mundo, a causa del materialismo ateo allí imperante, Nos viene a la mente la situación en que hace cinco siglos se encontraban los pueblos de Europa central, y que fue causa de que Nuestro Predecesor, de i. m., Calixto III, publicase una Carta apostólica, del 29 de junio de 1456, Cum his superioribus annis.
+
+Las gentes que habitaban las fértiles regiones regadas por el Danubio, y las otras circunvecinas, si no habían sido ya abatidas por la catástrofe, corrían serio peligro, no sólo en sus personas y sus bienes, sino aun en la misma fe de sus mayores. Esto ocurría principalmente en Hungría y en las tierras que hoy constituyen las naciones de Albania, Bulgaria, Checoslovaquia, Yugoslavia y Rumania. Pero la gravedad del momento la sentían también los que habitaban en países menos cercanos, sobre todo los pueblos de Alemania y de Polonia.
+
+El Pontífice Calixto III, comprendiendo bien el peligro, juzgó deber suyo exhortar paternalmente a los Pastores y fieles del orbe católico a expiar las propias culpas con obras de penitencia, reformar las costumbres conforme a los principios de la moral cristiana, a implorar con súplicas fervientes el socorro eficaz de Dios. Trabajó, además, sin tregua y por todos los medios posibles por alejar de los fieles el peligro; y, finalmente, atribuyó al auxilio divino la victoria de aquellos valientes que, animados por las exhortaciones de San Juan de Capistrano y guiados por el valiente jefe Juan Hunyady, defendieron bravamente la ciudadela de Belgrado. Para que de este acontecimiento quedase memoria en la liturgia y para que todos los cristianos diesen a Dios las debidas gracias, instituyó la fiesta de la Transfiguración de Nuestro Señor Jesucristo, que había de celebrarse en todo el mundo el día 6 de agosto\[1\].
+
+2\. También hoy, por desgracia, vosotros, que habitáis en dichas regiones, os veis tristemente afligidos y atormentados juntamente con muchos católicos, tanto de rito latino como de rito oriental, que moran en los países que se extienden a Oriente y Septentrión, hasta las costas del mar Báltico. Ya han pasado más de diez años, como lo sabéis por propia experiencia, desde que la Iglesia de Jesucristo fue privada de sus derechos, aunque no en todas partes en el mismo grado. Como consecuencia de esta situación, las piadosas asociaciones y confraternidades religiosas han sido disueltas y dispersadas; se ponen obstáculos a los Pastores en el ejercicio de su ministerio, cuando no se les deporta, destierra o encarcela; hasta se ha pretendido, directa y temerariamente, suprimir las diócesis católicas de rito oriental, e incitar con todos los medios al clero y fieles al cisma. Sabemos también que no pocos se ven sometidos a toda clase de vejámenes por haber confesado franca, sincera y animosamente su fe y por haberla defendido valerosamente. Pero lo que verdaderamente Nos llena de dolor es el saber cómo envenenan las mentes de los niños y de los jóvenes con falsas y perversas doctrinas, a fin de alejarles de Dios y de sus santos mandamientos, con sumo daño para su vida presente y peligro para la futura.
+
+A Nos, que por divina disposición ocupamos esta Cátedra de San Pedro, se Nos presenta ante los ojos esa tristísima visión de la que, aun habiendo ya hablado otras veces en Cartas apostólicas, hoy no podemos guardar silencio, para no faltar a Nuestro deber. Porque también Nos debemos cumplir fielmente aquel grave y suave mandato que Cristo Señor Nuestro dio al Prínipe de los Apóstoles y a sus Sucesores con estas palabras: Confirma a tus hermanos\[2\]. Por eso deseamos promover siempre y consolidar en vosotros los santos propósitos, mientras os manifestamos Nuestro afecto; a vosotros, decimos, que por vuestra fidelidad y amor a Jesucristo soportáis tantos dolores, tantas tribulaciones, tantos trabajos.
+
+3\. Ante todo, Nos dirigimos a vosotros, Amados Hijos Nuestros, Cardenales José Mindszenty, Luis Stepinac y Esteban Wyszynski, a quienes Nos mismo hemos revestido con la dignidad de la Púrpura Romana, en atención a los méritos insignes contraídos por vosotros en cumplir los deberes pastorales y en defender a la Iglesia. En Nuestro ánimo afligido está siempre presente todo cuanto vosotros -injustamente alejados de vuestras sedes y de vuestro sagrado ministerio- habéis sufrido y seguís sufriendo por Jesucristo. Juntamente con vosotros, tenemos ante la vista, y les recordamos con afecto, también a los Venerables Hermanos en el Episcopado, que son ejemplo de fidelidad a la Sede Apostólica, así como también a los sacerdotes, tanto seculares como religiosos, y a las falanges de varones y mujeres consagrados al servicio divino, y a los demás hijos e hijas amadísimos, que en medio de tantas dificultades se prodigan por defender y dilatar el pacífico y pacificador reino de Cristo.
+
+Vivamente solícitos por el bien de todos vosotros, que por la causa de Jesucristo soportáis angustias, vejámenes y daños, diariamente elevamos Nuestras oraciones al Dios Omnipotente, para que benignamente sostenga y fortalezca vuestra fe, para que mitigue vuestras penas, os consuele con carismas celestiales, cure los miembros doloridos y enfermos del Cuerpo místico de Jesucristo, y, apaciguada la presente tempestad, haga finalmente brillar sobre vosotros y sobre todos la verdadera y serena paz, alimentada por la verdad, por la justicia y por la caridad.
+
+Nunca, como bien lo sabéis, el Redentor olvida a su Iglesia, nunca la abandona; más aún, cuanto mayor es la violencia de las olas que combaten a la nave de Pedro, tanto mayor es la vigilancia del Divino Piloto, aunque a veces parezca dormitar\[3\]. Meditad cada día esta promesa de Jesús, la cual no dejará de infundir esperanza y alivio en el alma cristiana, especialmente en el momento de la prueba: Yo estoy con vosotros todos los días, hasta el fin del mundo\[4\]. Y entonces, si Dios está con nosotros, ¿quién contra nosotros?\[5\]. Jesús está con vosotros y nunca os negará su ayuda a vosotros, que se la pedís. Pero exige de todos que cada vez con mayor diligencia obedezcan las prescripciones de la Iglesia, y que defiendan la propia fe con ánimo decidido.
+
+4\. Sabéis de qué se trata: se trata de vuestra salvación eterna, de la de vuestros hijos, de la de vuestro prójimo, expuesta hoy a gravísimo peligro por los asaltos del ateísmo y de la impiedad. Pero si en este combate espiritual todos, como firmemente confiamos, se portan con ánimo y fidelidad, no habrá vencidos, sino sólo víctimas gloriosas. De las persecuciones y del martirio surgirán para la Iglesia de Cristo nuevos triunfos, que serán escritos en sus anales con caracteres de oro. No queremos ni pensar que los discípulos de Jesucristo, desanimados, abandonen el campo y, absteniéndose de profesar abiertamente la fe, inertes e indolentes, se duerman, mientras los fautores de la impiedad se esfuerzan en devastar el Reino de Dios. Y si, no obstante -no lo quiera Dios-, ocurriese esto en alguna parte, sobrevendría no sólo sobre los desertores, sino también a la comunidad, un daño irreparable, la ruina definitiva.
+
+Nos es de gran consuelo saber que muchos de vosotros estáis prontos a darlo todo con generosidad, hasta la libertad y la vida, con tal de no exponer al peligro la integridad de la religión católica; sabemos que en esto no pocos Pastores han dado ejemplo de invicta fortaleza cristiana; vosotros, ante todos, amados Hijos Nuestros, los Cardenales de la S. I. R., que habéis sido espectáculo insigne para el mundo, para los ángeles y para los hombres\[6\].
+
+5\. Mas, por desgracia, sabemos también que la fragilidad y la debilidad humana vacilan, especialmente cuando las pruebas y los vejámenes duran tanto. De hecho, entonces, sucede que algunos caen en el desaliento y pierden el fervor, y, lo que es peor, sacan la conclusión de que es necesario mitigar la doctrina de Nuestro Señor Jesucristo y -así hablan- adaptarla a los tiempos nuevos y a las nuevas circunstancias, debilitando y cambiando los principios de la Religión Católica hasta llegar a un híbrido maridaje de ésta con los errores de un falso progreso.
+
+A estos desalentados y sembradores del desaliento, los sagrados Pastores tienen el deber de recordarles la solemne afirmación del Divino Redentor: El cielo y la tierra pasarán, pero mis palabras no pasarán\[7\]; de exhortarles a que vuelvan a colocar su esperanza y confianza en Aquel cuya providencia no yerra en sus disposiciones y que nunca priva de su asistencia a aquellos que establece en la solidez de su amor\[8\]. Porque nunca Dios, omnipotente y providentísimo, permitirá que a sus hijos, fieles y animosos, les falte la divina gracia y la divina fortaleza, para que no sucumban desgraciados, en esta lucha por la salvación, apartándose de Jesucristo y teniendo que contemplar, impotentes, la ruina de su propio pueblo.
+
+6\. Y vosotros, amados hijos, ya seáis sacerdotes, ya simples fieles, permaneced siempre unidos con los que el Espíritu Santo puso como Obispos para gobernar la Iglesia de Dios; y si, de momento, algunos de ellos se encuentran impedidos, de suerte que no os puedan confortar con su palabra, manteneos siempre firmes, conservando fiel y religiosamente en vuestros corazones el recuerdo de las enseñanzas que en otros tiempos os daban ellos mismos.
+
+Además, aunque vuestra actividad se vea entorpecida por gravísimas dificultades, esforzaos, sin embargo, con afán apostólico en cumplir activa y generosamente vuestras obligaciones religiosas, conservando ante todo íntegra la fe. Más aún, según la medida de vuestras capacidades, procurad que la luz de Cristo brille para todos, logrando esto principalmente por el constante ejemplo de una vida cristiana, imitando a los cristianos de los primeros tiempos en medio de las persecuciones. Los vacilantes, los indecisos y débiles cobren ánimo al contemplar vuestra actuación, profesen valientes la fe, cumplan fielmente sus deberes, entréguense sin reserva alguna a Cristo. La entereza de vuestro ánimo y vuestro profundo espíritu cristiano, de que Nos llegan no pocas noticias, son para Nos de gratísimo consuelo y Nos confirman en la esperanza de que entregaréis incólume, como sagrada herencia, a las generaciones futuras, el preciosísimo tesoro de vuestra fe y de vuestra fidelidad a la Iglesia y a la Sede Apostólica.
+
+Para que se cumpla fielmente este común deseo, dirigid vuestras oraciones al Divino Redentor por intercesión de su santísima Madre, María, nuestra amantísima Madre, cuyo poderoso amparo gozaron vuestros mayores en los momentos de peligro. Pues si en todo tiempo podemos suplicar a la Santísima Virgen las gracias celestiales, de manera especial lo hemos de hacer ahora, cuando se trata de la salvación de las almas, de la defensa de la fe cristiana en la familia y en la sociedad.
+
+Antes de terminar, queremos recordaros a todos que el mismo Predecesor Nuestro, Calixto III, por medio de la Carta apostólica ya mencionada\[9\], ordenó que se tocaran las campanas todos los días a determinada hora, en todas las iglesias, para que toda la cristiandad elevara fervientes súplicas a Dios omnipotente y benigno, para que se dignase alejar de su pueblo la tremenda desgracia que entonces le amenazaba. No son ciertamente menores los peligros que ahora amenazan a la Iglesia y a las almas. Por eso, cuando oigáis el toque de las campanas, que os invitan a la oración, acordaos de esta exhortación y, animados por la misma confianza en el auxilio divino, elevad vuestras plegarias suplicantes al Señor, siguiendo el ejemplo de vuestros mayores.
+
+Deseamos también que a vuestras oraciones precedan espontáneas y fervorosas no solamente las Nuestras, sino que se sumen también las que en todas partes dirigen al cielo los diversos grupos de fieles, haciéndose partícipes de vuestros dolores.
+
+Tened, pues, la seguridad de que la gran familia cristiana admira con veneración vuestras angustias y tribulaciones, que desde hace tiempo soportáis en silencio, y se dirige a Dios implorando su misericordia para que la acometida de la impiedad y las falaces asechanzas del error no logren que sucumbáis, sino que, emulando la fortaleza de los Mártires, deis testimonio de vuestra fe; y para que vuestros mismos perseguidores -a los que abraza también el precepto de la caridad cristiana- obtengan el perdón de Aquél, que espera con los brazos abiertos a todos los hijos pródigos.
+
+Animados por esta dulce esperanza, a todos y a cada uno de vosotros, amados Hijos Nuestros y Venerables Hermanos; y a toda la grey confiada a vuestro cuidado pastoral, muy gustosamente impartimos la Bendición Apostólica, como prenda de Nuestra Paternal benevolencia y feliz presagio de abundantes gracias celestiales.
+
+Dado en Roma, junto a San Pedro, el 29 de junio, en la fiesta de los Santos Apóstoles Pedro y Pablo en el año 1956, décimoctavo de Nuestro Pontificado.
+
+NOTAS
+
+\[1\] Cf. Litt. Ap. Inter divinae dispositionis 6 aug. 1457.
+
+\[2\] Luc. 22, 32.
+
+\[3\] Cf. Mat. 8, 24; Luc. 8, 23.
+
+\[4\] Mat. 28, 20.
+
+\[5\] Rom. 8, 31.
+
+\[6\] 1 Cor. 4, 9.
+
+\[7\] Mat. 24, 35.
+
+\[8\] Cf. Miss. Rom. or. Dom. 7 et 2 p. P.
+
+\[9\] Cf. Litt. Ap. Cum his superioribus annis.

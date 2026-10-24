@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-plura-post",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Plura post"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1832-12-02",
+    "pt-BR": "Breve · Papa Gregório XVI · 1832-12-02"
+  },
+  "composed": "1832",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-plura-post-2-dicembre-1832.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Plura post"
+      }
+    }
+  ]
+}

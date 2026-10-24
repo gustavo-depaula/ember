@@ -1,0 +1,88 @@
+{
+  "id": "cdf-formula-professio-fidei",
+  "cover": "quarter",
+  "name": {
+    "la": "Formula deinceps adhibenda in casibus in quibus iure praescribitur Professio Fidei loco formulae Tridentinae et iuramenti antimodernistici",
+    "en-US": "Formula to adopt from now on in cases in which the Profession of Faith is prescribed by law in substitution of the Tridentine formula and the oath against modernism, 17 July 1967",
+    "de": "Formel, die ab sofort anstelle der Tridentinischen Formel und des Antimodernisteneids zu verwenden ist, wenn das Ablegen des Glaubensbekenntnisses rechtlich vorgeschrieben ist, 17. Juli 1967",
+    "es": "Fórmula que se debe emplear para la profesión de fe en los casos en que los prescribe el Derecho en lugar de la fórmula tridentina y del juramento antimodernista",
+    "fr": "Formule de profession de foi, 17 juillet 1967",
+    "it": "Formula da adoperarsi d’ora in poi nei casi in cui è prescritta dal diritto la Professione di Fede, in sostituzione della formula tridentina e del giuramento antimodernista, 17 luglio 1967",
+    "pl": "FORMUŁA WYZNANIA WIARY OBOWIĄZUJĄCEGO NA PRZYSZŁOŚĆ ZAMIAST DOTYCHCZASOWEJ FORMUŁY TRYDENCKIEJ I PRZYSIĘGI ANTYMODERNISTYCZNEJ"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1967-07-17",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1967-07-17"
+  },
+  "composed": "1967",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670717_formula-professio-fidei_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670717_formula-professio-fidei_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670717_formula-professio-fidei_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670717_formula-professio-fidei_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670717_formula-professio-fidei_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670717_formula-professio-fidei_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670717_formula-professio-fidei_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Formula deinceps adhibenda in casibus in quibus iure praescribitur Professio Fidei loco formulae Tridentinae et iuramenti antimodernistici",
+        "en-US": "Formula to adopt from now on in cases in which the Profession of Faith is prescribed by law in substitution of the Tridentine formula and the oath against modernism, 17 July 1967",
+        "de": "Formel, die ab sofort anstelle der Tridentinischen Formel und des Antimodernisteneids zu verwenden ist, wenn das Ablegen des Glaubensbekenntnisses rechtlich vorgeschrieben ist, 17. Juli 1967",
+        "es": "Fórmula que se debe emplear para la profesión de fe en los casos en que los prescribe el Derecho en lugar de la fórmula tridentina y del juramento antimodernista",
+        "fr": "Formule de profession de foi, 17 juillet 1967",
+        "it": "Formula da adoperarsi d’ora in poi nei casi in cui è prescritta dal diritto la Professione di Fede, in sostituzione della formula tridentina e del giuramento antimodernista, 17 luglio 1967",
+        "pl": "FORMUŁA WYZNANIA WIARY OBOWIĄZUJĄCEGO NA PRZYSZŁOŚĆ ZAMIAST DOTYCHCZASOWEJ FORMUŁY TRYDENCKIEJ I PRZYSIĘGI ANTYMODERNISTYCZNEJ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cdf-cti-bilbao-economiasacramentale",
+  "cover": "quarter",
+  "name": {
+    "it": "Significato e piano del documento “Reciprocità tra fede e sacramenti nell’economia sacramentale” – P. Gabino Uríbarri Bilbao, S.I."
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2021-03-03",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2021-03-03"
+  },
+  "composed": "2021",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20210303_bilbao-economiasacramentale_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Significato e piano del documento “Reciprocità tra fede e sacramenti nell’economia sacramentale” – P. Gabino Uríbarri Bilbao, S.I."
+      }
+    }
+  ]
+}

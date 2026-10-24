@@ -1,0 +1,27 @@
+# Quod Anniversarius
+
+***QUOD ANNIVERSARIUS***
+
+LETTERA ENCICLICA  
+DI SUA SANTITÀ  
+LEONE PP. XIII
+
+Alla somma benignità di Dio, la cui volontà provvidenziale regge tutta la vita degli uomini, Noi attribuiamo, come è necessario, se il cinquantesimo anniversario del Nostro sacerdozio confortava testé gli ardenti voti della Chiesa. Allo stesso modo, così grande consenso di animi,manifestatosi in tutte le nazioni con omaggi, con profusa liberalità di doni e con pubblici segni di festa, non poteva essere ispirato se non da Colui che solo ha potere sugli intelletti, sulle volontà e sui cuori degli uomini, e modera e dirige gli avvenimenti del mondo, per la gloria della religione cristiana. Fatto insigne e memorabile certamente, per il quale gli stessi nemici della Chiesa constatano, anche loro malgrado, coi loro stessi occhi, come essa vigoreggi sempre di vita divina e di virtù infusale dall’alto; perciò sono costretti a riconoscere che le genti empie fremono per stolti tentativi, e meditano invano insani propositi contro il Signore e il suo Cristo.
+
+Intanto, affinché di questo divino beneficio si dilatasse non solo la memoria ma anche l’utilità, quanto più largamente è possibile, abbiamo aperto i tesori delle grazie celesti a tutto il gregge a Noi affidato; ed oltre a ciò non abbiamo tralasciato di implorare i doni della divina pietà su coloro medesimi che tuttora vivono fuori dell’unica Arca di salvezza. Noi facemmo ciò col desiderio "che tutte le genti e tutti i popoli, affratellati nella fede col vincolo della carità, si raccolgano quanto prima in un unico ovile sotto un solo pastore", come con gemiti e preghiere ne abbiamo supplicato il Signor Nostro Gesù Cristo nei sacri e solenni riti della Canonizzazione ora celebrata.
+
+Infatti Noi, sollevando gli occhi alla Chiesa trionfante per onorare gli eroi cristiani – delle prestantissime virtù e dei miracoli dei quali si era già felicemente acquistata una sicura cognizione secondo le norme e le vie del diritto – abbiamo solennemente decretato e tributato ad alcuni di essi i supremi onori dei santi, e ad altri il culto dei beati: affinché quella Gerusalemme che è nei cieli si unisca in comunanza di allegrezza con questa,che va tuttora peregrinando sulla terra, nel Signore.
+
+Ma perché a quest’opera stessa si ponga, col favore di Dio,quasi il coronamento, Noi desideriamo che gli effetti della Nostra Apostolica carità, mercé la pienezza dell’infinito tesoro spirituale, si estendano anche, quanto più largamente si possa, a quei diletti figli della Chiesa, i quali con la morte dei giusti, segnati dalla fede ed innestati nella mistica vite, si dipartirono dalle battaglie di questa vita terrena; in modo tuttavia che siano impediti ad entrare nella vita eterna fino a che non abbiano reso l’indispensabile soddisfazione alla divina vendicatrice giustizia per i debiti contratti. A ciò siamo mossi dai pietosi desideri dei cattolici, ai quali sappiamo che tornerà graditissima questa Nostra intenzione; nonché dalla lacrimevole atrocità delle pene onde vengono afflitte le anime dei trapassati:ma ancora più Ce ne dà speciale impulso la consuetudine della Chiesa, la quale, persino nel corso delle più liete solennità dell’anno, fa salutare e santa memoria dei defunti, affinché vengano prosciolti dai peccati.
+
+Quindi, essendo certo per la dottrina cattolica che "le anime rinchiuse nel Purgatorio ricevono aiuto dai suffragi dei fedeli, e principalmente dall’accettabile sacrificio dell’Altare", stimiamo di non potere offrire ad esse un pegno più utile o più desiderato, che il moltiplicare per la loro liberazione, in tutte le contrade, l’oblazione immacolata del sacrosanto sacrificio del nostro divino Mediatore.
+
+Perciò, con tutte le necessarie dispense e deroghe, vogliamo che l’ultima domenica del mese di settembre prossimo venturo sia giorno di amplissima espiazione nel quale da Noi, e allo stesso modo da tutti i Nostri Fratelli Patriarchi, Arcivescovi, Vescovi ed altri Prelati aventi Diocesi, nelle Chiese Patriarcali, Metropolitane e Cattedrali di ciascuno, si celebri una Messa particolare per i trapassati, con la maggiore solennità possibile e con quel rito che nel messale è indicato "per la Commemorazione di tutti i fedeli defunti". Approviamo che ciò si compia anche nelle Chiese Parrocchiali e Collegiate, tanto dei secolari quanto dei regolari, e da tutti i sacerdoti,purché non si tralasci la Messa corrispondente all’ufficio del giorno,ovunque ne corra l’obbligo. Esortiamo poi calorosamente gli altri fedeli che,premessa la sacramentale confessione, si accostino devotamente alla mensa eucaristica a suffragio delle anime purganti. A costoro, con la Nostra autorità Apostolica concediamo indulgenza plenaria a pro dei defunti: ai singoli celebranti, come detto sopra, il privilegio dell’Altare.
+
+In tal modo, senza dubbio, le pie anime, che fra terribili e grandi tormenti stanno espiando i rimanenti peccati, avranno opportunissimo e singolare sollievo dall’Ostia salutare che tutta la Chiesa, congiunta al suo Capo visibile ed infiammata dallo stesso spirito di carità, offrirà a Dio, affinché voglia concedere ad essi il soggiorno del refrigerio, della luce e della pace sempiterna.
+
+Frattanto, come pegno dei doni celesti, con tanto affetto nel Signore, impartiamo a voi, Venerabili Fratelli, e a tutto il Clero e al popolo affidato alle vostre cure, l’Apostolica Benedizione.
+
+*Dato a Roma, presso San Pietro, il giorno solenne di Pasqua \[1 aprile\] 1888, anno undecimo del Nostro Pontificato.*
+
+**LEONE PP. XIII**

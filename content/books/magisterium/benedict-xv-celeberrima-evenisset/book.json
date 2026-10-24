@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-celeberrima-evenisset",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Celeberrima evenisse al Cardinale Antonio Mendes Bello, con al quale si chiede al popolo portoghese di obbedire al potere costituito"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1919-12-18",
+    "pt-BR": "Carta · Papa Bento XV · 1919-12-18"
+  },
+  "composed": "1919",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1919/documents/hf_ben-xv_let_19191218_celeberrima-evenisset.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Celeberrima evenisse al Cardinale Antonio Mendes Bello, con al quale si chiede al popolo portoghese di obbedire al potere costituito"
+      }
+    }
+  ]
+}

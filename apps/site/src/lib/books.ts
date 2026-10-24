@@ -3,9 +3,10 @@ import { ensureManifestBody, getEntry, isMetaId } from '@/content/contentIndex'
 import type { BookEntry, CatalogEntry, TocNode } from '@/content/manifestTypes'
 import {
   type BookSession,
-  flattenReadingFlow,
   localizedTitle,
   openBookSession,
+  readingFlowOf,
+  tocForLanguage,
 } from '@/features/books/reader/bookContent'
 import { localizeContent } from '@/lib/i18n'
 import { blobUrl } from '~/platform/store'
@@ -45,6 +46,8 @@ export type TocItem = {
 type BookContext = {
   book: BookEntry
   lang: string
+  /** The contents as read in `lang`: a council's acts in other languages drop out. */
+  toc: TocNode[]
   home: Locale
   readable: Set<string>
 }
@@ -54,8 +57,9 @@ async function contextFor(id: string, locale: Locale): Promise<BookContext | und
   const book = await loadBook(id)
   if (!book) return undefined
   const { locale: home, lang } = chapterHome(book.languages ?? ['en-US'], locale)
-  const flow = flattenReadingFlow(book.toc ?? [], book, lang)
-  return { book, lang, home, readable: new Set(flow.map((n) => n.id)) }
+  const toc = tocForLanguage(book.toc ?? [], book, lang)
+  const flow = readingFlowOf(toc, book, lang)
+  return { book, lang, toc, home, readable: new Set(flow.map((n) => n.id)) }
 }
 
 // A group with no body of its own is a page only in a long book, where it
@@ -106,9 +110,8 @@ export type BookPage = {
 export async function loadBookPage(id: string, locale: Locale): Promise<BookPage | undefined> {
   const ctx = await contextFor(id, locale)
   if (!ctx) return undefined
-  const { book } = ctx
-  const toc = book.toc ?? []
-  const first = flattenReadingFlow(toc, book, ctx.lang)[0]
+  const { book, toc } = ctx
+  const first = readingFlowOf(toc, book, ctx.lang)[0]
   return withLocale(locale, () => ({
     id: book.id,
     title: localizeContent(book.name),
@@ -134,7 +137,7 @@ export type BookNodeListing = { nodeId: string; kind: 'chapter' | 'part' }
 export async function listBookNodes(id: string, locale: Locale): Promise<BookNodeListing[]> {
   const ctx = await contextFor(id, locale)
   if (!ctx || ctx.home !== locale) return []
-  const split = countNodes(ctx.book.toc ?? []) > tocPageLimit
+  const split = countNodes(ctx.toc) > tocPageLimit
   const out: BookNodeListing[] = []
   // A contents list may name one chapter twice (the Catholic Encyclopedia files
   // an article under each of its headwords): it is still one page.
@@ -154,7 +157,7 @@ export async function listBookNodes(id: string, locale: Locale): Promise<BookNod
       walk(children)
     }
   }
-  walk(ctx.book.toc ?? [])
+  walk(ctx.toc)
   return out
 }
 
@@ -206,8 +209,8 @@ export async function loadChapterPage(
 ): Promise<ChapterPage | undefined> {
   const ctx = await contextFor(id, locale)
   if (!ctx) return undefined
-  const { book, lang } = ctx
-  const path = findNode(book.toc ?? [], nodeId)
+  const { book, lang, toc } = ctx
+  const path = findNode(toc, nodeId)
   if (!path) return undefined
   const node = path[path.length - 1]
   const session = await sessionFor(id, lang)
@@ -216,7 +219,7 @@ export async function loadChapterPage(
   const titleOf = (n: TocNode) => localizedTitle(n.title, lang) ?? n.id
   const crumb = (i: number): Crumb | undefined => {
     const chapterId = session.chapterIds[i]
-    const found = chapterId && findNode(book.toc ?? [], chapterId)
+    const found = chapterId && findNode(toc, chapterId)
     return found
       ? {
           title: titleOf(found[found.length - 1]),
@@ -224,7 +227,7 @@ export async function loadChapterPage(
         }
       : undefined
   }
-  const split = countNodes(book.toc ?? []) > tocPageLimit
+  const split = countNodes(toc) > tocPageLimit
   const linkable = (n: TocNode) =>
     ctx.readable.has(n.id) || (split && countNodes(n.children ?? []) > 12)
       ? href.bookChapter(ctx.home, book.id, n.id)
@@ -232,7 +235,7 @@ export async function loadChapterPage(
   // A part can hold hundreds of chapters (a letter of the Encyclopedia): the
   // rail shows the stretch around this one.
   const around = 30
-  const peers = path.length > 1 ? (path[path.length - 2].children ?? []) : (book.toc ?? [])
+  const peers = path.length > 1 ? (path[path.length - 2].children ?? []) : toc
   const at = peers.findIndex((n) => n.id === nodeId)
   const from = Math.max(0, Math.min(at - around / 2, peers.length - around))
   const siblings = peers.slice(from, from + around).map((n) => ({

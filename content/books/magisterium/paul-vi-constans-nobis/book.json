@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-constans-nobis",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutio apostolica - Constans nobis, die XI mensis Iulii, anno MCMLXXV",
+    "it": "Constans nobis"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Paul VI · 1975-07-11",
+    "pt-BR": "Constituição Apostólica · Papa Paulo VI · 1975-07-11"
+  },
+  "composed": "1975",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19750711_constans-nobis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_19750711_constans-nobis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Constitutio apostolica - Constans nobis, die XI mensis Iulii, anno MCMLXXV",
+        "it": "Constans nobis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-i-magnae-nobis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Magnae Nobis",
+    "it": "Enciclica Magnae Nobis"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV · 1749-06-29",
+    "pt-BR": "Encíclica · Papa Bento XIV · 1749-06-29"
+  },
+  "composed": "1749",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/b14magna.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-magnae-nobis--i---29-giugno-1748--il-pontefice-reag.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Magnae Nobis",
+        "it": "Enciclica Magnae Nobis"
+      }
+    }
+  ]
+}

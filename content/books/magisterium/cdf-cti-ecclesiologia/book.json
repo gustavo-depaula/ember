@@ -1,0 +1,104 @@
+{
+  "id": "cdf-cti-ecclesiologia",
+  "cover": "quarter",
+  "name": {
+    "en-US": "SELECT THEMES OF ECCLESIOLOGY ON THE OCCASION OF THE TWENTIETH ANNIVERSARY OF THE CLOSING OF THE SECOND VATICAN COUNCIL, 1984",
+    "pt-BR": "Temas seletos de eclesiologia por ocasião do XX aniversário do encerramento do Concílio Vaticano II",
+    "de": "Ausgewählte Themen der Ekklesiologie zum 20 Jahrestag des Abschlusses des Zweiten Vatikanischen Konzils, 1984",
+    "es": "Temas selectos de Eclesiología, 1984",
+    "fr": "Thèmes choisis d'ecclésiologie, à l'occasion du XXe anniversaire de la clôture du Concile Vatican II, 1984",
+    "hu": "VÁLASZTOTT EGYHÁZTANI TÉMÁK A II. VATIKÁNI ZSINAT LEZÁRÁSÁNAK 20 ÉVFORDULÓJA ALKALMÁBÓL, 1984",
+    "it": "Temi scelti di ecclesiologia, in occasione del XX anniversario della chiusura del Concilio Vaticano II, 1984",
+    "pl": "WYBRANE ZAGADNIENIA Z EKLEZJOLOGII, 1984",
+    "ru": "ИЗБРАННЫЕ ТЕМЫ ЭККЛЕЗИОЛОГИИ ПО СЛУЧАЮ ДВАДЦАТИЛЕТИЯ ЗАВЕРШЕНИЯ ВТОРОГО ВАТИКАНСКОГО СОБОРА, 1984"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1984",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1984"
+  },
+  "composed": "1984",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "SELECT THEMES OF ECCLESIOLOGY ON THE OCCASION OF THE TWENTIETH ANNIVERSARY OF THE CLOSING OF THE SECOND VATICAN COUNCIL, 1984",
+        "pt-BR": "Temas seletos de eclesiologia por ocasião do XX aniversário do encerramento do Concílio Vaticano II",
+        "de": "Ausgewählte Themen der Ekklesiologie zum 20 Jahrestag des Abschlusses des Zweiten Vatikanischen Konzils, 1984",
+        "es": "Temas selectos de Eclesiología, 1984",
+        "fr": "Thèmes choisis d'ecclésiologie, à l'occasion du XXe anniversaire de la clôture du Concile Vatican II, 1984",
+        "hu": "VÁLASZTOTT EGYHÁZTANI TÉMÁK A II. VATIKÁNI ZSINAT LEZÁRÁSÁNAK 20 ÉVFORDULÓJA ALKALMÁBÓL, 1984",
+        "it": "Temi scelti di ecclesiologia, in occasione del XX anniversario della chiusura del Concilio Vaticano II, 1984",
+        "pl": "WYBRANE ZAGADNIENIA Z EKLEZJOLOGII, 1984",
+        "ru": "ИЗБРАННЫЕ ТЕМЫ ЭККЛЕЗИОЛОГИИ ПО СЛУЧАЮ ДВАДЦАТИЛЕТИЯ ЗАВЕРШЕНИЯ ВТОРОГО ВАТИКАНСКОГО СОБОРА, 1984"
+      }
+    }
+  ]
+}

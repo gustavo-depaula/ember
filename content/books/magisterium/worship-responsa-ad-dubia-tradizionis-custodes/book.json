@@ -1,0 +1,72 @@
+{
+  "id": "worship-responsa-ad-dubia-tradizionis-custodes",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Responsa ad dubia on certain provisions of the Apostolic Letter Traditionis custodes issued “Motu Proprio” by the Supreme Pontiff Francis",
+    "de": "Responsa ad dubia zu einigen Bestimmungen des Apostolischen Schreibens in Form eines „Motu Proprio“ TRADITIONIS CUSTODES von Papst FRANZISKUS",
+    "es": "Responsa ad dubia sobre algunas disposiciones de la Carta Apostólica en forma de «Motu Proprio» <i>Traditionis custodes</i>",
+    "fr": "Responsa ad dubia sur certaines dispositions de la Lettre Apostolique en forme di « Motu Proprio » Traditionis custodes",
+    "it": "Responsa ad dubia su alcune disposizioni della Lettera Apostolica in forma di «Motu Proprio» Traditionis custodes del Sommo Pontefice Francesco"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2021-12-04",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2021-12-04"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20211204_responsa-ad-dubia-tradizionis-custodes_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Responsa ad dubia on certain provisions of the Apostolic Letter Traditionis custodes issued “Motu Proprio” by the Supreme Pontiff Francis",
+        "de": "Responsa ad dubia zu einigen Bestimmungen des Apostolischen Schreibens in Form eines „Motu Proprio“ TRADITIONIS CUSTODES von Papst FRANZISKUS",
+        "es": "Responsa ad dubia sobre algunas disposiciones de la Carta Apostólica en forma de «Motu Proprio» <i>Traditionis custodes</i>",
+        "fr": "Responsa ad dubia sur certaines dispositions de la Lettre Apostolique en forme di « Motu Proprio » Traditionis custodes",
+        "it": "Responsa ad dubia su alcune disposizioni della Lettera Apostolica in forma di «Motu Proprio» Traditionis custodes del Sommo Pontefice Francesco"
+      }
+    }
+  ]
+}

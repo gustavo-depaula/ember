@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-omnem-sollicitudinem",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Omnem Sollicitudinem",
+    "it": "Enciclica Omnem sollicitudinem"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1874-05-13",
+    "pt-BR": "Encíclica · Papa Pio IX · 1874-05-13"
+  },
+  "composed": "1874",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9omnems.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-omnem-sollicitudinem-13-maggio-1874.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Omnem Sollicitudinem",
+        "it": "Enciclica Omnem sollicitudinem"
+      }
+    }
+  ]
+}

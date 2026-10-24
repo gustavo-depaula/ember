@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-multa-quidem",
+  "cover": "quarter",
+  "name": {
+    "it": "Multa Quidem"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory XVI · 1839-11-22",
+    "pt-BR": "Documento · Papa Gregório XVI · 1839-11-22"
+  },
+  "composed": "1839",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1839-11-22,_SS_Gregorius_XVI,_Multa_Quidem,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Multa Quidem"
+      }
+    }
+  ]
+}

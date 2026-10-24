@@ -1,0 +1,40 @@
+{
+  "id": "pius-v-cantus-ad-libitum",
+  "cover": "quarter",
+  "name": {
+    "la": "Cantus ad Libitum"
+  },
+  "author": {
+    "en-US": "Pope Pius V",
+    "pt-BR": "Papa Pio V",
+    "la": "Pius PP. V"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius V · 1570-07-19",
+    "pt-BR": "Documento · Papa Pio V · 1570-07-19"
+  },
+  "composed": "1570",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-v"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1570-07-19,_SS_Pius_V,_Cantus_ad_Libitum,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Cantus ad Libitum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-ad-gravissimum",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Ad gravissimum"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius IX · 1859-06-20",
+    "pt-BR": "Alocução · Papa Pio IX · 1859-06-20"
+  },
+  "composed": "1859",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/allocuzione-ad-gravissimum-20-giugno-1859.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Ad gravissimum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "francis-20210716-motu-proprio-traditionis-custodes",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio datae Traditionis custodes de usu Librorum Liturgicorum instaurationem Concilii Vaticani II antecedentium (die XVI mensis Iulii, anno MMXXI)",
+    "en-US": "Apostolic Letter issued “Motu proprio” by the Supreme Pontiff Francis “Traditionis custodes” on the use of the Roman Liturgy prior to the Reform of 1970, 16 July 2021",
+    "de": "Apostolisches Schreiben in Form eines Motu proprio von Papst Franziskus “Traditionis custodes” über den Gebrauch der Römischen Liturgie in der Gestalt vor der Reform von 1970",
+    "es": "Carta apostólica en forma de Motu proprio Traditionis custodes sobre el uso de la liturgia romana anterior a la reforma de 1970",
+    "hr": "Apostolsko Pismo u obliku Motuproprija Vrhovnog Svećenika Franje “Traditionis custodes” o uporabi Rimske Liturgije koja je prethodila Obnovi iz 1970. godine",
+    "it": "Lettera Apostolica in forma di “Motu proprio” di Papa Francesco “Traditionis custodes” sull'uso della Liturgia Romana anteriore alla Riforma del 1970",
+    "vi": "TÔNG THƯ BAN HÀNH DƯỚI DẠNG TỰ SẮC CỦA ĐỨC THÁNH CHA PHANXICÔ ”TRADITIONIS CUSTODES” về việc sử dụng Phụng vụ Rôma trước cuộc Cải tổ năm 1970"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2021-07-16",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2021-07-16"
+  },
+  "composed": "2021",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "es",
+    "hr",
+    "it",
+    "vi"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/francesco/hr/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/content/francesco/vi/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio datae Traditionis custodes de usu Librorum Liturgicorum instaurationem Concilii Vaticani II antecedentium (die XVI mensis Iulii, anno MMXXI)",
+        "en-US": "Apostolic Letter issued “Motu proprio” by the Supreme Pontiff Francis “Traditionis custodes” on the use of the Roman Liturgy prior to the Reform of 1970, 16 July 2021",
+        "de": "Apostolisches Schreiben in Form eines Motu proprio von Papst Franziskus “Traditionis custodes” über den Gebrauch der Römischen Liturgie in der Gestalt vor der Reform von 1970",
+        "es": "Carta apostólica en forma de Motu proprio Traditionis custodes sobre el uso de la liturgia romana anterior a la reforma de 1970",
+        "hr": "Apostolsko Pismo u obliku Motuproprija Vrhovnog Svećenika Franje “Traditionis custodes” o uporabi Rimske Liturgije koja je prethodila Obnovi iz 1970. godine",
+        "it": "Lettera Apostolica in forma di “Motu proprio” di Papa Francesco “Traditionis custodes” sull'uso della Liturgia Romana anteriore alla Riforma del 1970",
+        "vi": "TÔNG THƯ BAN HÀNH DƯỚI DẠNG TỰ SẮC CỦA ĐỨC THÁNH CHA PHANXICÔ ”TRADITIONIS CUSTODES” về việc sử dụng Phụng vụ Rôma trước cuộc Cải tổ năm 1970"
+      }
+    }
+  ]
+}

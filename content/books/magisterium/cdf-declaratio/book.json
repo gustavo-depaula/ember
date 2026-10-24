@@ -1,0 +1,80 @@
+{
+  "id": "cdf-declaratio",
+  "cover": "quarter",
+  "name": {
+    "la": "pe\" content=\"text/html; charset=iso-8859-1\" /> <meta name=\"title\" content=\"Declaratio quoad interpretationem quarundam dispositionum, quae Normis, die XIII Ianuarii 1971 editis, statutae sunt, d. 26 m. Iunii a. 1972, Congregatio pro Doctrina Fidei",
+    "en-US": "Declaration",
+    "es": "Declaración sobre la interpretación de algunas disposiciones relativas a la reducción al estado laical, 26 junio 1972",
+    "fr": "Déclaration sur l'interprétation des normes relatives aux causes de réduction de prêtres à l'état laïc, 26 juin 1972",
+    "it": "Dichiarazione sull'interpretazione di alcune disposizioni riguardanti la riduzione allo stato laicale, 26 giugno 1972",
+    "pl": "DEKLARACJA O INTERPRETACJI NIEKTÓRYCH NORM Z 13 STYCZNIA 1971"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1972-06-26",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1972-06-26"
+  },
+  "composed": "1972",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720626_declaratio_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720626_declaratio_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720626_declaratio_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720626_declaratio_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720626_declaratio_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720626_declaratio_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "pe\" content=\"text/html; charset=iso-8859-1\" /> <meta name=\"title\" content=\"Declaratio quoad interpretationem quarundam dispositionum, quae Normis, die XIII Ianuarii 1971 editis, statutae sunt, d. 26 m. Iunii a. 1972, Congregatio pro Doctrina Fidei",
+        "en-US": "Declaration",
+        "es": "Declaración sobre la interpretación de algunas disposiciones relativas a la reducción al estado laical, 26 junio 1972",
+        "fr": "Déclaration sur l'interprétation des normes relatives aux causes de réduction de prêtres à l'état laïc, 26 juin 1972",
+        "it": "Dichiarazione sull'interpretazione di alcune disposizioni riguardanti la riduzione allo stato laicale, 26 giugno 1972",
+        "pl": "DEKLARACJA O INTERPRETACJI NIEKTÓRYCH NORM Z 13 STYCZNIA 1971"
+      }
+    }
+  ]
+}

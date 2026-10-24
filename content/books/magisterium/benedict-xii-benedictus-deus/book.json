@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xii-benedictus-deus",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Benedictus Deus"
+  },
+  "author": {
+    "en-US": "Pope Benedict XII",
+    "pt-BR": "Papa Bento XII",
+    "la": "Benedictus PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Benedict XII · 1336-01-29",
+    "pt-BR": "Documento · Papa Bento XII · 1336-01-29"
+  },
+  "composed": "1336",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "benedict-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben12/b12bdeus.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Benedictus Deus"
+      }
+    }
+  ]
+}

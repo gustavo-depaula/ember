@@ -1,0 +1,56 @@
+{
+  "id": "francis-20241108-lettera-giubileo-clero",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter of the Holy Father for the Jubilee to Parish Priests, Religious and Clergy",
+    "es": "Carta del Santo Padre con motivo del Jubileo a los párrocos, a los religiosos y al clero",
+    "it": "Lettera del Santo Padre per il Giubileo ai Parroci, ai Religiosi e al Clero"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2024-11-08",
+    "pt-BR": "Carta · Papa Francisco · 2024-11-08"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/letters/2024/documents/20241108-lettera-giubileo-clero.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/letters/2024/documents/20241108-lettera-giubileo-clero.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2024/documents/20241108-lettera-giubileo-clero.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter of the Holy Father for the Jubilee to Parish Priests, Religious and Clergy",
+        "es": "Carta del Santo Padre con motivo del Jubileo a los párrocos, a los religiosos y al clero",
+        "it": "Lettera del Santo Padre per il Giubileo ai Parroci, ai Religiosi e al Clero"
+      }
+    }
+  ]
+}

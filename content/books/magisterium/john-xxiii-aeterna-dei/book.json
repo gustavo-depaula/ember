@@ -1,0 +1,64 @@
+{
+  "id": "john-xxiii-aeterna-dei",
+  "cover": "quarter",
+  "name": {
+    "la": "Aeterna Dei Sapientia, Litterae Encyclicae de S. Leone I Magno ab eius obitu anno MD exeunte, d. 11 novembris 1961, Ioannes PP. XXIII",
+    "en-US": "Aeterna Dei Sapientia",
+    "es": "Aeterna Dei Sapientia",
+    "it": "Aeterna Dei Sapientia"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope John XXIII · 1961-11-11",
+    "pt-BR": "Encíclica · Papa João XXIII · 1961-11-11"
+  },
+  "composed": "1961",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Aeterna Dei Sapientia, Litterae Encyclicae de S. Leone I Magno ab eius obitu anno MD exeunte, d. 11 novembris 1961, Ioannes PP. XXIII",
+        "en-US": "Aeterna Dei Sapientia",
+        "es": "Aeterna Dei Sapientia",
+        "it": "Aeterna Dei Sapientia"
+      }
+    }
+  ]
+}

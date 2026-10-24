@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-mirabilis-deus",
+  "cover": "quarter",
+  "name": {
+    "it": "Mirabilis Deus, col quale il Pontefice attribuisce a Don Giovanni Bosco il titolo di Beato"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius XI · 1929-06-02",
+    "pt-BR": "Breve · Papa Pio XI · 1929-06-02"
+  },
+  "composed": "1929",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/briefs/documents/hf_p-xi_briefs_19290602_mirabilis-deus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Mirabilis Deus, col quale il Pontefice attribuisce a Don Giovanni Bosco il titolo di Beato"
+      }
+    }
+  ]
+}

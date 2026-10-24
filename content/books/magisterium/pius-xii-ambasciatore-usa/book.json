@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-ambasciatore-usa",
+  "cover": "quarter",
+  "name": {
+    "en-US": "LETTERA DI SUA SANTITÀ PIO XII ALL'AMBASCIATORE DEGLI STATI UNITI MYRON C. TAYLOR* Mercoled&#"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1944-10-04",
+    "pt-BR": "Carta · Papa Pio XII · 1944-10-04"
+  },
+  "composed": "1944",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/letters/documents/hf_p-xii_lett_19441004_ambasciatore-usa.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "LETTERA DI SUA SANTITÀ PIO XII ALL'AMBASCIATORE DEGLI STATI UNITI MYRON C. TAYLOR* Mercoled&#"
+      }
+    }
+  ]
+}

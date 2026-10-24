@@ -742,6 +742,7 @@ export default {
     unmarkAll: 'Desmarcar tudo',
     menu: 'Menu',
     themesAndSettings: 'Temas e Ajustes',
+    language: 'Idioma',
     chapterOfTotal: 'Cap\u00edtulo {{chapter}} de {{chapters}}',
     pagesLeftInChapter_one: '1 p\u00e1gina restante no cap\u00edtulo',
     pagesLeftInChapter_other: '{{count}} p\u00e1ginas restantes no cap\u00edtulo',

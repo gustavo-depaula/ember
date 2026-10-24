@@ -1,0 +1,40 @@
+{
+  "id": "cdf-fernandez-simposio-inquisizione",
+  "cover": "quarter",
+  "name": {
+    "it": "Saluto del Prefetto del Dicastero per la Dottrina della Fede al Simposio sull’Inquisizione"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2023-11-22",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2023-11-22"
+  },
+  "composed": "2023",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20231122_fernandez-simposio-inquisizione_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Saluto del Prefetto del Dicastero per la Dottrina della Fede al Simposio sull’Inquisizione"
+      }
+    }
+  ]
+}

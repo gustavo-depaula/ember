@@ -1,0 +1,40 @@
+{
+  "id": "cdf-cti-sacro-colegio",
+  "cover": "quarter",
+  "name": {
+    "es": "Discurso al Sacro Colegio, 23 de junio de 1970"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1970",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1970"
+  },
+  "composed": "1970",
+  "languages": [
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacro-colegio_sp.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Discurso al Sacro Colegio, 23 de junio de 1970"
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "vatican-ii-unitatis-redintegratio",
+  "cover": "quarter",
+  "name": {
+    "la": "Unitatis redintegratio",
+    "en-US": "Unitatis redintegratio",
+    "pt-BR": "Unitatis redintegratio",
+    "be": "Unitatis redintegratio",
+    "cs": "Unitatis redintegratio",
+    "de": "Unitatis redintegratio",
+    "es": "Unitatis redintegratio",
+    "fr": "Unitatis redintegratio",
+    "hu": "Unitatis redintegratio",
+    "it": "Unitatis redintegratio",
+    "lv": "DEKRĒTS PAR EKUMENISMU - UNITATIS REDINTEGRATIO",
+    "sw": "Unitatis redintegratio"
+  },
+  "author": {
+    "en-US": "Second Vatican Council",
+    "pt-BR": "Concílio Vaticano II",
+    "la": "Concilium Oecumenicum Vaticanum II"
+  },
+  "description": {
+    "en-US": "Conciliar Document · Second Vatican Council · 1964-11-21",
+    "pt-BR": "Documento Conciliar · Concílio Vaticano II · 1964-11-21"
+  },
+  "composed": "1964",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "be",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "lv",
+    "sw"
+  ],
+  "tags": [
+    "magisterium",
+    "council-document",
+    "vatican-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_be.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_lv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sw.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Unitatis redintegratio",
+        "en-US": "Unitatis redintegratio",
+        "pt-BR": "Unitatis redintegratio",
+        "be": "Unitatis redintegratio",
+        "cs": "Unitatis redintegratio",
+        "de": "Unitatis redintegratio",
+        "es": "Unitatis redintegratio",
+        "fr": "Unitatis redintegratio",
+        "hu": "Unitatis redintegratio",
+        "it": "Unitatis redintegratio",
+        "lv": "DEKRĒTS PAR EKUMENISMU - UNITATIS REDINTEGRATIO",
+        "sw": "Unitatis redintegratio"
+      }
+    }
+  ]
+}

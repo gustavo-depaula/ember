@@ -1,0 +1,40 @@
+{
+  "id": "cdf-fernandez-teologia-popolo",
+  "cover": "quarter",
+  "name": {
+    "it": "Una teologia per il popolo - Intervento del Card. Víctor M. Fernández alla Pontificia Università Lateranense"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-02-21",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-02-21"
+  },
+  "composed": "2024",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/fernandez/documents/rc_ddf_doc_20240221_fernandez-teologia-popolo_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Una teologia per il popolo - Intervento del Card. Víctor M. Fernández alla Pontificia Università Lateranense"
+      }
+    }
+  ]
+}

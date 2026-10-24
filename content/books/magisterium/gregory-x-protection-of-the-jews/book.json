@@ -1,0 +1,40 @@
+{
+  "id": "gregory-x-protection-of-the-jews",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Protection Of The Jews"
+  },
+  "author": {
+    "en-US": "Pope Gregory X",
+    "pt-BR": "Papa Gregório X",
+    "la": "Gregorius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory X · 1272-10-07",
+    "pt-BR": "Documento · Papa Gregório X · 1272-10-07"
+  },
+  "composed": "1272",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1272-10-07,_SS_Gregorius_X,_Protection_Of_The_Jews,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Protection Of The Jews"
+      }
+    }
+  ]
+}

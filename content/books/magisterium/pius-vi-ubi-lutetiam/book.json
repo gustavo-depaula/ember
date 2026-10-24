@@ -1,0 +1,48 @@
+{
+  "id": "pius-vi-ubi-lutetiam",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Ubi lutetiam",
+    "it": "Enciclica Ubi Lutetiam"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius VI · 1792-06-13",
+    "pt-BR": "Encíclica · Papa Pio VI · 1792-06-13"
+  },
+  "composed": "1792",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius06/p6ubilu-i.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/enciclica-ubi-lutetiam-13-giugno-1792.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Ubi lutetiam",
+        "it": "Enciclica Ubi Lutetiam"
+      }
+    }
+  ]
+}

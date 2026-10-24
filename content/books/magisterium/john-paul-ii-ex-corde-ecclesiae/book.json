@@ -1,0 +1,96 @@
+{
+  "id": "john-paul-ii-ex-corde-ecclesiae",
+  "cover": "quarter",
+  "name": {
+    "la": "Ex Corde Ecclesiae, die XV mensis Augusti anno MCMXC - Constitutio apostolica, Ioannes Paulus PP. II",
+    "en-US": "Ex Corde Ecclesiae",
+    "pt-BR": "Ex Corde Ecclesiae",
+    "de": "Ex Corde Ecclesiae",
+    "es": "Ex Corde Ecclesiae",
+    "fr": "Ex Corde Ecclesiae",
+    "hu": "Ex corde Ecclesiae, apostoli rendelkezése a katolikus egyetemekről 1990. augusztus 15. - II. János Pál pápa",
+    "it": "Ex Corde Ecclesiae"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope John Paul II · 1990-08-15",
+    "pt-BR": "Constituição Apostólica · Papa João Paulo II · 1990-08-15"
+  },
+  "composed": "1990",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ex Corde Ecclesiae, die XV mensis Augusti anno MCMXC - Constitutio apostolica, Ioannes Paulus PP. II",
+        "en-US": "Ex Corde Ecclesiae",
+        "pt-BR": "Ex Corde Ecclesiae",
+        "de": "Ex Corde Ecclesiae",
+        "es": "Ex Corde Ecclesiae",
+        "fr": "Ex Corde Ecclesiae",
+        "hu": "Ex corde Ecclesiae, apostoli rendelkezése a katolikus egyetemekről 1990. augusztus 15. - II. János Pál pápa",
+        "it": "Ex Corde Ecclesiae"
+      }
+    }
+  ]
+}

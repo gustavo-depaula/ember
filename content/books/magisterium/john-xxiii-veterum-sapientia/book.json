@@ -1,0 +1,56 @@
+{
+  "id": "john-xxiii-veterum-sapientia",
+  "cover": "quarter",
+  "name": {
+    "la": "Veterum Sapientia",
+    "en-US": "Veterum Sapientia",
+    "es": "Veterum Sapientia"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Document · Pope John XXIII · 1962-02-22",
+    "pt-BR": "Documento · Papa João XXIII · 1962-02-22"
+  },
+  "composed": "1962",
+  "languages": [
+    "la",
+    "en-US",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1962-02-22,_SS_Ioannes_XXIII,_Constitutio_'Veterum_Sapientia',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/john23/j23veterum.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1962-02-22,_SS_Ioannes_XXIII,_Constitutio_'Veterum_Sapientia',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Veterum Sapientia",
+        "en-US": "Veterum Sapientia",
+        "es": "Veterum Sapientia"
+      }
+    }
+  ]
+}

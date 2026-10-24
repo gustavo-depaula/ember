@@ -1,0 +1,64 @@
+{
+  "id": "francis-organi-giudiziari",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter Issued Motu Proprio On the Jurisdiction of Judicial Authorities of Vatican City State in Criminal Matters",
+    "de": "Apostolisches Schreiben in Form eines \"Motu Proprio\" über die Gerichtsbarkeit der Rechtsorgane des Staates der Vatikanstadt im Bereich des Strafrechts, 11. Juli 2013",
+    "fr": "Lettre apostolique en forme de Motu Proprio sur la juridiction des organes judiciaires de l'État de la Cité du Vatican en matière pénale",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» sulla giurisdizione degli organi giudiziari dello Stato della Città del Vaticano in materia penale"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2013-07-11",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2013-07-11"
+  },
+  "composed": "2013",
+  "languages": [
+    "en-US",
+    "de",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20130711_organi-giudiziari.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio_20130711_organi-giudiziari.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20130711_organi-giudiziari.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20130711_organi-giudiziari.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter Issued Motu Proprio On the Jurisdiction of Judicial Authorities of Vatican City State in Criminal Matters",
+        "de": "Apostolisches Schreiben in Form eines \"Motu Proprio\" über die Gerichtsbarkeit der Rechtsorgane des Staates der Vatikanstadt im Bereich des Strafrechts, 11. Juli 2013",
+        "fr": "Lettre apostolique en forme de Motu Proprio sur la juridiction des organes judiciaires de l'État de la Cité du Vatican en matière pénale",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» sulla giurisdizione degli organi giudiziari dello Stato della Città del Vaticano in materia penale"
+      }
+    }
+  ]
+}

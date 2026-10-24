@@ -1,0 +1,80 @@
+{
+  "id": "pius-x-acerbo-nimis",
+  "cover": "quarter",
+  "name": {
+    "la": "Acerbo nimis",
+    "en-US": "Acerbo Nimis",
+    "pt-BR": "Acerbo nimis",
+    "es": "Acerbo Nimis (April 15, 1905)",
+    "fr": "Acerbo Nimis",
+    "it": "Acerbo Nimis"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius X · 1905-04-15",
+    "pt-BR": "Encíclica · Papa Pio X · 1905-04-15"
+  },
+  "composed": "1905",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/acerbo-nimis-pio-x-15-04-1905/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1905-04-15,_SS_Pius_X,_Encyclica_'Acerbo_Nimis',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_15041905_acerbo-nimis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Acerbo nimis",
+        "en-US": "Acerbo Nimis",
+        "pt-BR": "Acerbo nimis",
+        "es": "Acerbo Nimis (April 15, 1905)",
+        "fr": "Acerbo Nimis",
+        "it": "Acerbo Nimis"
+      }
+    }
+  ]
+}

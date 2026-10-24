@@ -1,0 +1,160 @@
+{
+  "id": "francis-amoris-laetitia",
+  "cover": "quarter",
+  "name": {
+    "la": "Adhortatio Apostolica Post-Synodalis “Amoris Laetitia” (die XIX mensis Martii anno MMXVI)",
+    "en-US": "\"Amoris laetitia\": Post-Synodal Apostolic Exhortation on love in the family",
+    "pt-BR": "\"Amoris laetitia\": Exortação Apostólica Pós-Sinodal sobre o amor na família",
+    "ar": "فرح الحبّ : لإرشاد الرسوليّ ما بعد السينودس - 19 مارس / آذار 2016",
+    "be": "Amoris laetitia: Esortazione Apostolica sull'amore nella famiglia",
+    "de": "\"Amoris laetitia\": Nachsynodales Apostolisches Schreiben über die Liebe in der Familie",
+    "es": "Amoris laetitia: Exhortación Apostólica sobre el amor en la familia",
+    "fr": "Amoris laetitia : Exhortation apostolique sur l'amour dans la famille",
+    "it": "\"Amoris laetitia\": Esortazione Apostolica sull'amore nella famiglia",
+    "pl": "“Amoris laetitia”: Posynodalna Adhortacja apostolska o miłości w rodziniea",
+    "ru": "Послесинодальное Апостольское обращение Amoris Laetitia Святейшего Отца Франциска",
+    "sl": "Posinodalna apostolska spodbuda Radost ljubezni Amoris laetitia",
+    "sw": "WOSIA WA KITUME BAADA YA SINODI AMORIS LAETITIA WA BABA MTAKATIFU FRANSISKO",
+    "vi": "TÔNG HUẤN HẬU THƯỢNG HỘI ĐỒNG AMORIS LAETITIA CỦA ĐỨC THÁNH CHA PHANXICÔ GỬI CÁC GIÁM MỤC, CÁC LINH MỤC VÀ CÁC PHÓ TẾ, CÁC NGƯỜI SỐNG ĐỜI THÁNH HIẾN, CÁC CẶP VỢ CHỒNG KITÔ HỮU VÀ TẤT CẢ MỌI TÍN HỮU GIÁO DÂN VỀ TÌNH YÊU TRONG GIA ĐÌNH",
+    "zh-CN": "爱的喜乐",
+    "zh-TW": "愛的喜樂"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Francis · 2016-03-19",
+    "pt-BR": "Exortação Apostólica · Papa Francisco · 2016-03-19"
+  },
+  "composed": "2016",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "ru",
+    "sl",
+    "sw",
+    "vi",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/content/francesco/ru/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sl",
+      "url": "https://www.vatican.va/content/francesco/sl/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/content/francesco/sw/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/content/francesco/vi/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Adhortatio Apostolica Post-Synodalis “Amoris Laetitia” (die XIX mensis Martii anno MMXVI)",
+        "en-US": "\"Amoris laetitia\": Post-Synodal Apostolic Exhortation on love in the family",
+        "pt-BR": "\"Amoris laetitia\": Exortação Apostólica Pós-Sinodal sobre o amor na família",
+        "ar": "فرح الحبّ : لإرشاد الرسوليّ ما بعد السينودس - 19 مارس / آذار 2016",
+        "be": "Amoris laetitia: Esortazione Apostolica sull'amore nella famiglia",
+        "de": "\"Amoris laetitia\": Nachsynodales Apostolisches Schreiben über die Liebe in der Familie",
+        "es": "Amoris laetitia: Exhortación Apostólica sobre el amor en la familia",
+        "fr": "Amoris laetitia : Exhortation apostolique sur l'amour dans la famille",
+        "it": "\"Amoris laetitia\": Esortazione Apostolica sull'amore nella famiglia",
+        "pl": "“Amoris laetitia”: Posynodalna Adhortacja apostolska o miłości w rodziniea",
+        "ru": "Послесинодальное Апостольское обращение Amoris Laetitia Святейшего Отца Франциска",
+        "sl": "Posinodalna apostolska spodbuda Radost ljubezni Amoris laetitia",
+        "sw": "WOSIA WA KITUME BAADA YA SINODI AMORIS LAETITIA WA BABA MTAKATIFU FRANSISKO",
+        "vi": "TÔNG HUẤN HẬU THƯỢNG HỘI ĐỒNG AMORIS LAETITIA CỦA ĐỨC THÁNH CHA PHANXICÔ GỬI CÁC GIÁM MỤC, CÁC LINH MỤC VÀ CÁC PHÓ TẾ, CÁC NGƯỜI SỐNG ĐỜI THÁNH HIẾN, CÁC CẶP VỢ CHỒNG KITÔ HỮU VÀ TẤT CẢ MỌI TÍN HỮU GIÁO DÂN VỀ TÌNH YÊU TRONG GIA ĐÌNH",
+        "zh-CN": "爱的喜乐",
+        "zh-TW": "愛的喜樂"
+      }
+    }
+  ]
+}

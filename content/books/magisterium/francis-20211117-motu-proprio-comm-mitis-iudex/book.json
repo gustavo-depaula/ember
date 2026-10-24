@@ -1,0 +1,48 @@
+{
+  "id": "francis-20211117-motu-proprio-comm-mitis-iudex",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued “Motu proprio” by which the Holy Father establishes the Pontifical Commission for the Verification and Application of the M. P. Mitis Iudex in the Churches of Italy",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» con la quale il Santo Padre istituisce la Commissione Pontificia di verifica e applicazione del M. P. Mitis Iudex nelle Chiese d’Italia"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2021-11-17",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2021-11-17"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20211117-motu-proprio-comm-mitis-iudex.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20211117-motu-proprio-comm-mitis-iudex.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued “Motu proprio” by which the Holy Father establishes the Pontifical Commission for the Verification and Application of the M. P. Mitis Iudex in the Churches of Italy",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» con la quale il Santo Padre istituisce la Commissione Pontificia di verifica e applicazione del M. P. Mitis Iudex nelle Chiese d’Italia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "cdf-cti-fede-pluralismo",
+  "cover": "quarter",
+  "name": {
+    "la": "De unitate fidei et theologico pluralismo - Commissio Theologica Internazionalis",
+    "en-US": "Unity of the Faith and Theological Pluralism",
+    "pt-BR": "A unidade da fé e o pluralismo teológico",
+    "ar": "Unity of the Faith and Theological Pluralism",
+    "cs": "Jednota víry a teologický pluralismus, 1972",
+    "de": "Die Einheit des Glaubens und der theologische Pluralismus, 1972",
+    "es": "La unidad de la fe y el pluralismo teológico, 1972",
+    "fr": "L’unité de la foi et le pluralisme théologique, 1972",
+    "hu": "A hit egysége és a teológiai pluralizmus, 1972 - Nemzetközi Teológiai Bizottság",
+    "it": "L'unità della fede e il pluralismo teologico, 1972",
+    "pl": "Jedność wiary i pluralizm teologiczny, 1972",
+    "ru": "ЕДИНСТВО ВЕРЫ И БОГОСЛОВСКИЙ ПЛЮРАЛИЗМ*"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1972",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1972"
+  },
+  "composed": "1972",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_ar.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1972_fede-pluralismo_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "De unitate fidei et theologico pluralismo - Commissio Theologica Internazionalis",
+        "en-US": "Unity of the Faith and Theological Pluralism",
+        "pt-BR": "A unidade da fé e o pluralismo teológico",
+        "ar": "Unity of the Faith and Theological Pluralism",
+        "cs": "Jednota víry a teologický pluralismus, 1972",
+        "de": "Die Einheit des Glaubens und der theologische Pluralismus, 1972",
+        "es": "La unidad de la fe y el pluralismo teológico, 1972",
+        "fr": "L’unité de la foi et le pluralisme théologique, 1972",
+        "hu": "A hit egysége és a teológiai pluralizmus, 1972 - Nemzetközi Teológiai Bizottság",
+        "it": "L'unità della fede e il pluralismo teologico, 1972",
+        "pl": "Jedność wiary i pluralizm teologiczny, 1972",
+        "ru": "ЕДИНСТВО ВЕРЫ И БОГОСЛОВСКИЙ ПЛЮРАЛИЗМ*"
+      }
+    }
+  ]
+}

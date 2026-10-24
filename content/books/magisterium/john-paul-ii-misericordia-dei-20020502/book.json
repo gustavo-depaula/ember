@@ -1,0 +1,104 @@
+{
+  "id": "john-paul-ii-misericordia-dei-20020502",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu proprio datae Misericordia Dei",
+    "en-US": "Apostolic Letter in the form of Motu Proprio Misericordia Dei on certain aspects of the celebration of the Sacrament of Penance",
+    "pt-BR": "Misericordia Dei",
+    "de": "Apostolisches Schreiben Motu Proprio Misericordia Dei",
+    "es": "Misericordia Dei, sobre algunos aspectos de la celebración del sacramento de la penitencia",
+    "fr": "Lettre Apostolique en forme de Motu Proprio Misericordia Dei",
+    "it": "Lettera Apostolica in forma di Motu proprio Misericordia Dei su alcuni aspetti della celebrazione del Sacramento della Penitenza",
+    "lt": "Litterae Apostolicae Motu proprio datae Misericordia Dei",
+    "pl": "Misericordia Dei"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 2002-05-02",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 2002-05-02"
+  },
+  "composed": "2002",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "lt",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lt",
+      "url": "https://www.vatican.va/content/john-paul-ii/lt/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu proprio datae Misericordia Dei",
+        "en-US": "Apostolic Letter in the form of Motu Proprio Misericordia Dei on certain aspects of the celebration of the Sacrament of Penance",
+        "pt-BR": "Misericordia Dei",
+        "de": "Apostolisches Schreiben Motu Proprio Misericordia Dei",
+        "es": "Misericordia Dei, sobre algunos aspectos de la celebración del sacramento de la penitencia",
+        "fr": "Lettre Apostolique en forme de Motu Proprio Misericordia Dei",
+        "it": "Lettera Apostolica in forma di Motu proprio Misericordia Dei su alcuni aspetti della celebrazione del Sacramento della Penitenza",
+        "lt": "Litterae Apostolicae Motu proprio datae Misericordia Dei",
+        "pl": "Misericordia Dei"
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "cdf-norme-apparizioni",
+  "cover": "quarter",
+  "name": {
+    "la": "Normae de modo procedendi in diudicandis praesumptis apparitionibus ac revelationibus - Sacra Congregatio pro Doctrina Fidei",
+    "en-US": "Norms regarding the manner of proceedings in the discernment of presumed apparitions or revelations",
+    "pt-BR": "Normas para proceder no discernimento de presumíveis aparições e revelações, Congregação para a Doutrina da Fé",
+    "de": "Normen für das Verfahren zur Beurteilung mutmasslicher Erscheinungen und Offenbarungen - Heilige Kongregation der Glaubenslehre",
+    "es": "Normas sobre el modo de proceder en el discernimiento de presuntas apariciones y revelaciones, 25 febrero 1978",
+    "fr": "Normes procédurales pour le discernement des apparitions et révélations présumées - Congrégation pour la Doctrine de la Foi",
+    "hu": "Eljárási normák a feltételezett jelenések és kinyilatkoztatások megítéléséhez - Hittani Kongregáció",
+    "it": "Norme per procedere nel discernimento di presunte apparizioni e rivelazioni - Sacra Congregazione per la Dottrina della Fede",
+    "nl": "Normen voor de procedure ter beoordeling van vermeende verschijningen en openbaringen",
+    "pl": "Norme per procedere nel discernimento di presunte apparizioni e rivelazioni - Sacra Congregazione per la Dottrina della Fede"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1978-02-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1978-02-25"
+  },
+  "composed": "1978",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "nl",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780225_norme-apparizioni_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780225_norme-apparizioni_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780225_norme-apparizioni_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780225_norme-apparizioni_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780225_norme-apparizioni_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780225_norme-apparizioni_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780225_norme-apparizioni_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780225_norme-apparizioni_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780225_norme-apparizioni_nl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780225_norme-apparizioni_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Normae de modo procedendi in diudicandis praesumptis apparitionibus ac revelationibus - Sacra Congregatio pro Doctrina Fidei",
+        "en-US": "Norms regarding the manner of proceedings in the discernment of presumed apparitions or revelations",
+        "pt-BR": "Normas para proceder no discernimento de presumíveis aparições e revelações, Congregação para a Doutrina da Fé",
+        "de": "Normen für das Verfahren zur Beurteilung mutmasslicher Erscheinungen und Offenbarungen - Heilige Kongregation der Glaubenslehre",
+        "es": "Normas sobre el modo de proceder en el discernimiento de presuntas apariciones y revelaciones, 25 febrero 1978",
+        "fr": "Normes procédurales pour le discernement des apparitions et révélations présumées - Congrégation pour la Doctrine de la Foi",
+        "hu": "Eljárási normák a feltételezett jelenések és kinyilatkoztatások megítéléséhez - Hittani Kongregáció",
+        "it": "Norme per procedere nel discernimento di presunte apparizioni e rivelazioni - Sacra Congregazione per la Dottrina della Fede",
+        "nl": "Normen voor de procedure ter beoordeling van vermeende verschijningen en openbaringen",
+        "pl": "Norme per procedere nel discernimento di presunte apparizioni e rivelazioni - Sacra Congregazione per la Dottrina della Fede"
+      }
+    }
+  ]
+}

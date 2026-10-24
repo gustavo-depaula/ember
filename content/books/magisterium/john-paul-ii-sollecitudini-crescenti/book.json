@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-sollecitudini-crescenti",
+  "cover": "quarter",
+  "name": {
+    "la": "Le sollecitudini crescenti: chirografo col quale vengono date nuove disposizioni per il governo della Città del Vaticano (9 aprile 1984)",
+    "pt-BR": "Le sollecitudini crescenti: Quirógrafo para novas disposições a respeito dos poderes civis inerentes ao Governo do Estado da Cidade do Vaticano",
+    "it": "Le sollecitudini crescenti: chirografo col quale vengono date nuove disposizioni per il governo della Città del Vaticano"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1984-04-09",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1984-04-09"
+  },
+  "composed": "1984",
+  "languages": [
+    "la",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1984-04-09,_SS_Ioannes_Paulus_II,_Chirografum_'Quoniam_in_Celeri',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1984/documents/hf_jp-ii_apl_19840409_sollecitudini-crescenti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1984/documents/hf_jp-ii_apl_19840409_sollecitudini-crescenti.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Le sollecitudini crescenti: chirografo col quale vengono date nuove disposizioni per il governo della Città del Vaticano (9 aprile 1984)",
+        "pt-BR": "Le sollecitudini crescenti: Quirógrafo para novas disposições a respeito dos poderes civis inerentes ao Governo do Estado da Cidade do Vaticano",
+        "it": "Le sollecitudini crescenti: chirografo col quale vengono date nuove disposizioni per il governo della Città del Vaticano"
+      }
+    }
+  ]
+}

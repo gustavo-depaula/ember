@@ -1,0 +1,11 @@
+# Universis Christi Fidelibus
+
+Innocentius Papa IV universos Christi fideles per Eugubinam etc. civitates hortatur, quatenus de bonis sibi a Deo collatis pias elemosinas et caritatis subsidia erogent Priori et Fratribus Heremitis de Brictinis, Fanensis dioecesis, qui apud Eugubinam civitatem ecclesiam cum officinis sibi necessariis aedificare coeperunt. \[1 octob. 1250\]
+
+INNOCENTIUS EPISCOPUS, servus servorum Dei.
+
+Universis Christi fidelibus per Eugubinas, Perusinas, Nucerinas civitates et dioeceses constitutis. Salutem et Apostolicam benedictionem. QUONIAM UT AIT Apostolus, omnes stabimus ante tribunal Christi, recepturi prout in corpore gessimus sive bonum fuerit sive malum, oportet nos diem messionis extreme misericordie operibus prevenire ac eternorum intuitu seminare in terris quod reddente Domino, cum multiplicato fructu reccoligere debeamus in celis, firmam spem, fiduciamque tenentes quoniam qui parce et metet, et qui seminat in benedictionibus de benedictionibus et metet vitam eternam. Cum igitur, dilecti filii Prior et fratres heremite de Brictinis, Fanensis dioecesis, sicut sua nobis petitione monstraverunt, apud civitatem Eugubinam, ad opus fratrum suorum, ecclesiam cum officinis sibi necessariis de novo edificare ceperint opere sumptuoso, nec ad hoc eis propria suppetant facultates, universitatem vestram rogamus et hortamur in Domino, in remissionem vobis peccaminum iniungentes, quatenus de bonis vobis a Deo collatis eis ad hoc pias elemosinas et grata caritatis subsidia erogetis, ut per subventionem vestram, opus inceptum valeat consumari et vos per hec et alia bona, que Domino inspirante feceritis, ad eterna possitis felicitatis gaudia pervenire. Nos autem, de omnipotentis Dei misericordia et beatorum Petri et Pauli, Apostolorum eius, auctoritate confisi, omnibus vere penitentibus et confessis, qui eis ad hoc manum porrexerint adiutricem, quadraginta dies de iniuncta sibi penitentia misericorditer relaxamus. Presentibus post consummationem operis minime valituris, quas mitti per questuarios districtius inhibibemus, eas, si secus actum (fuerit), carere viribus decernentes.
+
+Dat. Lugduni, kal. Octobris, pontificatus nostri anno VIII.
+
+(In Archivio Civitatis Eugubinae asservato pergamena charta, n. 57).

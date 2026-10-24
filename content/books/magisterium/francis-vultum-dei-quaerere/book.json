@@ -1,0 +1,96 @@
+{
+  "id": "francis-vultum-dei-quaerere",
+  "cover": "quarter",
+  "name": {
+    "la": "Vultum Dei quaerere, sulla vita contemplativa femminile",
+    "en-US": "Vultum Dei quaerere, on women's contemplative life",
+    "pt-BR": "\"Vultum Dei quaerere\": sobre a vida contemplativa feminina",
+    "ar": "Vultum Dei quaerere, on women's contemplative life, 29 June 2016",
+    "de": "\"Vultum Dei quaerere\", über das kontemplative Leben in Frauenorden",
+    "es": "Vultum Dei quaerere, sobre la vida contemplativa femenina",
+    "fr": "Vultum Dei quaerere, sur la vie contemplative féminine",
+    "it": "Vultum Dei quaerere, sulla vita contemplativa femminile"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Francis · 2016-06-29",
+    "pt-BR": "Constituição Apostólica · Papa Francisco · 2016-06-29"
+  },
+  "composed": "2016",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_constitutions/documents/papa-francesco_costituzione-ap_20160629_vultum-dei-quaerere.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_constitutions/documents/papa-francesco_costituzione-ap_20160629_vultum-dei-quaerere.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_constitutions/documents/papa-francesco_costituzione-ap_20160629_vultum-dei-quaerere.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/apost_constitutions/documents/papa-francesco_costituzione-ap_20160629_vultum-dei-quaerere.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_constitutions/documents/papa-francesco_costituzione-ap_20160629_vultum-dei-quaerere.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_constitutions/documents/papa-francesco_costituzione-ap_20160629_vultum-dei-quaerere.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_constitutions/documents/papa-francesco_costituzione-ap_20160629_vultum-dei-quaerere.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_constitutions/documents/papa-francesco_costituzione-ap_20160629_vultum-dei-quaerere.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Vultum Dei quaerere, sulla vita contemplativa femminile",
+        "en-US": "Vultum Dei quaerere, on women's contemplative life",
+        "pt-BR": "\"Vultum Dei quaerere\": sobre a vida contemplativa feminina",
+        "ar": "Vultum Dei quaerere, on women's contemplative life, 29 June 2016",
+        "de": "\"Vultum Dei quaerere\", über das kontemplative Leben in Frauenorden",
+        "es": "Vultum Dei quaerere, sobre la vida contemplativa femenina",
+        "fr": "Vultum Dei quaerere, sur la vie contemplative féminine",
+        "it": "Vultum Dei quaerere, sulla vita contemplativa femminile"
+      }
+    }
+  ]
+}

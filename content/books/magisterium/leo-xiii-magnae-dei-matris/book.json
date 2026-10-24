@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-magnae-dei-matris",
+  "cover": "quarter",
+  "name": {
+    "la": "Magnae Dei Matris",
+    "en-US": "Magnae Dei Matris",
+    "pt-BR": "Magnae Dei Matris: sobre o Rosário de Nossa Senhora"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1892-09-08",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1892-09-08"
+  },
+  "composed": "1892",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Magnae Dei Matris",
+        "en-US": "Magnae Dei Matris",
+        "pt-BR": "Magnae Dei Matris: sobre o Rosário de Nossa Senhora"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-communes-litteras-19190410",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Communes Litteras con la quale il Sommo Pontefice approva il proposito dei Vescovi statunitensi di riunirsi una volta l’anno per discutere dei problemi relativi alla diffusione del cattolicesimo"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1919-04-10",
+    "pt-BR": "Carta · Papa Bento XV · 1919-04-10"
+  },
+  "composed": "1919",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1919/documents/hf_ben-xv_let_19190410_communes-litteras.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Communes Litteras con la quale il Sommo Pontefice approva il proposito dei Vescovi statunitensi di riunirsi una volta l’anno per discutere dei problemi relativi alla diffusione del cattolicesimo"
+      }
+    }
+  ]
+}

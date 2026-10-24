@@ -1,0 +1,40 @@
+{
+  "id": "clement-xii-pastorale-officium",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutio 'Pastorale Officium'"
+  },
+  "author": {
+    "en-US": "Pope Clement XII",
+    "pt-BR": "Papa Clemente XII",
+    "la": "Clemens PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Clement XII · 1731-01-10",
+    "pt-BR": "Constituição Apostólica · Papa Clemente XII · 1731-01-10"
+  },
+  "composed": "1731",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "clement-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1731-01-10,_SS_Clemens_XII,_Constitutio_'Pastorale_Officium',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Constitutio 'Pastorale Officium'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-unigenitus-dei",
+  "cover": "quarter",
+  "name": {
+    "la": "Unigenitus Dei Filius, Litterae Apostolicae, Ad Summos Moderatores Ordinum Regularium aliarumque sodalitatum religiosorum virorum, d. 19 m. Martii a. 1924, Pius PP. XI",
+    "es": "Unigenitus Dei: sui criteri cui deve ispirarsi la formazione del \nclero regolare (19 marzo 1924)",
+    "it": "Unigenitus Dei: sui criteri cui deve ispirarsi la formazione del clero regolare"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius XI · 1924-03-19",
+    "pt-BR": "Carta Apostólica · Papa Pio XI · 1924-03-19"
+  },
+  "composed": "1924",
+  "languages": [
+    "la",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/apost_letters/documents/hf_p-xi_apl_19240319_unigenitus-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1924-03-19,_SS_Pius_XI,_Unigenitus_Dei_Filius,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/apost_letters/documents/hf_p-xi_apl_19240319_unigenitus-dei.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Unigenitus Dei Filius, Litterae Apostolicae, Ad Summos Moderatores Ordinum Regularium aliarumque sodalitatum religiosorum virorum, d. 19 m. Martii a. 1924, Pius PP. XI",
+        "es": "Unigenitus Dei: sui criteri cui deve ispirarsi la formazione del \nclero regolare (19 marzo 1924)",
+        "it": "Unigenitus Dei: sui criteri cui deve ispirarsi la formazione del clero regolare"
+      }
+    }
+  ]
+}

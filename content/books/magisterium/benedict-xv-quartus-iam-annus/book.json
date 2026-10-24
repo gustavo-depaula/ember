@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-quartus-iam-annus",
+  "cover": "quarter",
+  "name": {
+    "la": "Quartus iam annus, Motu Proprio, Demissa proprae sentibus societatis humanae necessitatibus die XXIX proximi mensis Iunii celebranda, d. 9 m. Maii a. 1918, Benedictus PP. XV",
+    "it": "Quartus Iam Annus con il quale viene disposto che in tutto il mondo il 29 giugno 1918, festa dei Santi Pietro e Paolo, i sacerdoti celebrino la Messa chiedendo espressamente la pace"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XV · 1918-05-09",
+    "pt-BR": "Motu Proprio · Papa Bento XV · 1918-05-09"
+  },
+  "composed": "1918",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19180509_quartus-iam-annus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19180509_quartus-iam-annus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quartus iam annus, Motu Proprio, Demissa proprae sentibus societatis humanae necessitatibus die XXIX proximi mensis Iunii celebranda, d. 9 m. Maii a. 1918, Benedictus PP. XV",
+        "it": "Quartus Iam Annus con il quale viene disposto che in tutto il mondo il 29 giugno 1918, festa dei Santi Pietro e Paolo, i sacerdoti celebrino la Messa chiedendo espressamente la pace"
+      }
+    }
+  ]
+}

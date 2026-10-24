@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-famiglie",
+  "cover": "quarter",
+  "name": {
+    "de": "Lettera alle famiglie di Roma per la consegna del Vangelo di Marco in vista della missione cittadina (25 dicembre 1996)",
+    "it": "Lettera alle famiglie di Roma per la consegna del Vangelo di Marco in vista della missione cittadina"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1996-12-25",
+    "pt-BR": "Carta · Papa João Paulo II · 1996-12-25"
+  },
+  "composed": "1996",
+  "languages": [
+    "de",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1994-02-02,_SS_Ioannes_Paulus_II,_Lettera_Alle_Famiglie,_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1996/documents/hf_jp-ii_let_19961225_famiglie.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "de": "Lettera alle famiglie di Roma per la consegna del Vangelo di Marco in vista della missione cittadina (25 dicembre 1996)",
+        "it": "Lettera alle famiglie di Roma per la consegna del Vangelo di Marco in vista della missione cittadina"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-melchitarum-catholicorum",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Melchitarum catholicorum"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1835-06-03",
+    "pt-BR": "Breve · Papa Gregório XVI · 1835-06-03"
+  },
+  "composed": "1835",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-melchitarum-catholicorum-3-giugno-1835.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Melchitarum catholicorum"
+      }
+    }
+  ]
+}

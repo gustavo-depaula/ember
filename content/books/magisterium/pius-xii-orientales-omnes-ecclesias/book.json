@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-orientales-omnes-ecclesias",
+  "cover": "quarter",
+  "name": {
+    "la": "Orientales omnes Ecclesias, Litterae Encyclicae, CCCL elapsis annis, ex quo Ruthenorum Ecclesia Apostolicae Sedi feliciter coagmentata est, d. 23 m. Decembris a. 1945, Pius PP. XII",
+    "en-US": "Orientales Omnes Ecclesias",
+    "it": "Orientales Omnes Ecclesias"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1945-12-23",
+    "pt-BR": "Encíclica · Papa Pio XII · 1945-12-23"
+  },
+  "composed": "1945",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_23121945_orientales-omnes-ecclesias.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Orientales omnes Ecclesias, Litterae Encyclicae, CCCL elapsis annis, ex quo Ruthenorum Ecclesia Apostolicae Sedi feliciter coagmentata est, d. 23 m. Decembris a. 1945, Pius PP. XII",
+        "en-US": "Orientales Omnes Ecclesias",
+        "it": "Orientales Omnes Ecclesias"
+      }
+    }
+  ]
+}

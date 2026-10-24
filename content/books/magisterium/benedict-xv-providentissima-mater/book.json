@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-providentissima-mater",
+  "cover": "quarter",
+  "name": {
+    "it": "Providentissima Mater"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Benedict XV · 1917-05-27",
+    "pt-BR": "Bula · Papa Bento XV · 1917-05-27"
+  },
+  "composed": "1917",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/bulls/documents/hf_ben-xv_bulls_19170527_providentissima-mater.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Providentissima Mater"
+      }
+    }
+  ]
+}

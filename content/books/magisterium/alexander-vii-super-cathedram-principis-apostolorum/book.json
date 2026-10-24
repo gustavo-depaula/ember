@@ -1,0 +1,48 @@
+{
+  "id": "alexander-vii-super-cathedram-principis-apostolorum",
+  "cover": "quarter",
+  "name": {
+    "la": "Super Cathedram Principis Apostolorum",
+    "en-US": "Super Cathedram Principis Apostolorum"
+  },
+  "author": {
+    "en-US": "Pope Alexander VII",
+    "pt-BR": "Papa Alexandre VII",
+    "la": "Alexander PP. VII"
+  },
+  "description": {
+    "en-US": "Document · Pope Alexander VII · 1659-10-09",
+    "pt-BR": "Documento · Papa Alexandre VII · 1659-10-09"
+  },
+  "composed": "1659",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "alexander-vii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1659-10-09,_SS_Alexander_VII,_Super_Cathedram_Principis_Apostolorum,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/alex07/alex07super.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Super Cathedram Principis Apostolorum",
+        "en-US": "Super Cathedram Principis Apostolorum"
+      }
+    }
+  ]
+}

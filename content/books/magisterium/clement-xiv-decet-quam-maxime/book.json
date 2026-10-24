@@ -1,0 +1,48 @@
+{
+  "id": "clement-xiv-decet-quam-maxime",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Decet Quam Maxime",
+    "it": "Enciclica Decet quam maxime"
+  },
+  "author": {
+    "en-US": "Pope Clement XIV",
+    "pt-BR": "Papa Clemente XIV",
+    "la": "Clemens PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Clement XIV · 1769-09-21",
+    "pt-BR": "Encíclica · Papa Clemente XIV · 1769-09-21"
+  },
+  "composed": "1769",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "clement-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/clem14/c14decet.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiv/it/documents/enciclica-decet-quam-maxime-21-settembre-1769.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Decet Quam Maxime",
+        "it": "Enciclica Decet quam maxime"
+      }
+    }
+  ]
+}

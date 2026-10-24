@@ -1,0 +1,96 @@
+{
+  "id": "cdf-de-sepultura-ecclesiastica",
+  "cover": "quarter",
+  "name": {
+    "la": "Decretum de sepultura ecclesiastica, d. 20 m. Septembris a. 1973, Congregatio pro Doctrina Fidei",
+    "en-US": "Decree on the ecclesiastical burial of manifest sinners, 20 September 1973",
+    "pt-BR": "Decreto sobre as exéquias eclesiásticas, 20 de setembro de 1973",
+    "de": "Erklärung zur kirchlichen Bestattung öffentlicher Sünder, 20. September 1973",
+    "es": "Decreto sobre la sepultura eclesiástica, 20 septiembre 1973",
+    "fr": "Décret sur la sépulture ecclésiastique, 20 septembre 1973",
+    "it": "Decreto sulla sepoltura ecclesiastica per i peccatori manifesti, 20 settembre 1973",
+    "pl": "DEKRET O POGRZEBIE KOŚCIELNYM"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1973-09-20",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1973-09-20"
+  },
+  "composed": "1973",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730920_de-sepultura-ecclesiastica_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730920_de-sepultura-ecclesiastica_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730920_de-sepultura-ecclesiastica_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730920_de-sepultura-ecclesiastica_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730920_de-sepultura-ecclesiastica_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730920_de-sepultura-ecclesiastica_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730920_de-sepultura-ecclesiastica_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730920_de-sepultura-ecclesiastica_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decretum de sepultura ecclesiastica, d. 20 m. Septembris a. 1973, Congregatio pro Doctrina Fidei",
+        "en-US": "Decree on the ecclesiastical burial of manifest sinners, 20 September 1973",
+        "pt-BR": "Decreto sobre as exéquias eclesiásticas, 20 de setembro de 1973",
+        "de": "Erklärung zur kirchlichen Bestattung öffentlicher Sünder, 20. September 1973",
+        "es": "Decreto sobre la sepultura eclesiástica, 20 septiembre 1973",
+        "fr": "Décret sur la sépulture ecclésiastique, 20 septembre 1973",
+        "it": "Decreto sulla sepoltura ecclesiastica per i peccatori manifesti, 20 settembre 1973",
+        "pl": "DEKRET O POGRZEBIE KOŚCIELNYM"
+      }
+    }
+  ]
+}

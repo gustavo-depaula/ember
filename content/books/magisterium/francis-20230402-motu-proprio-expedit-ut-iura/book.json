@@ -1,0 +1,48 @@
+{
+  "id": "francis-20230402-motu-proprio-expedit-ut-iura",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued “Motu Proprio” of the Supreme Pontiff Francis modifying the terms of recourse of a member dismissed from an Institute of Consecrated Life",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» con la quale vengono modificati i termini di ricorso del membro dimesso da un istituto di vita consacrata"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2023-04-02",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2023-04-02"
+  },
+  "composed": "2023",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20230402-motu-proprio-expedit-ut-iura.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230402-motu-proprio-expedit-ut-iura.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued “Motu Proprio” of the Supreme Pontiff Francis modifying the terms of recourse of a member dismissed from an Institute of Consecrated Life",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» con la quale vengono modificati i termini di ricorso del membro dimesso da un istituto di vita consacrata"
+      }
+    }
+  ]
+}

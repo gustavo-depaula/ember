@@ -1,0 +1,80 @@
+{
+  "id": "benedict-xvi-giovanni-avila",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae quibus S. Ioannes de Avila, presbyter dioecesanus, Doctor Ecclesiae Universalis renuntiatur., die septimo mensis Octobris a.D. bis millesimo duodecimo - Benedictus PP. XVI",
+    "en-US": "Apostolic Letter proclaiming John of Ávila as a Doctor of the Church",
+    "pt-BR": "Carta Apostólica com a qual João de Ávila é proclamado Doutor da Igreja",
+    "de": "Apostolisches Schreiben zur Erhebung des Johannes von Àvila zum Kirchenlehrer",
+    "es": "Carta Apostólica para la proclamación de Juan de Ávila como Doctor de la Iglesia",
+    "it": "Lettera Apostolica per la proclamazione di Giovanni d’Ávila a Dottore della Chiesa"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Benedict XVI · 2012-10-07",
+    "pt-BR": "Carta Apostólica · Papa Bento XVI · 2012-10-07"
+  },
+  "composed": "2012",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/apost_letters/documents/hf_ben-xvi_apl_20121007_giovanni-avila.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/apost_letters/documents/hf_ben-xvi_apl_20121007_giovanni-avila.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/apost_letters/documents/hf_ben-xvi_apl_20121007_giovanni-avila.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/apost_letters/documents/hf_ben-xvi_apl_20121007_giovanni-avila.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/apost_letters/documents/hf_ben-xvi_apl_20121007_giovanni-avila.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/apost_letters/documents/hf_ben-xvi_apl_20121007_giovanni-avila.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae quibus S. Ioannes de Avila, presbyter dioecesanus, Doctor Ecclesiae Universalis renuntiatur., die septimo mensis Octobris a.D. bis millesimo duodecimo - Benedictus PP. XVI",
+        "en-US": "Apostolic Letter proclaiming John of Ávila as a Doctor of the Church",
+        "pt-BR": "Carta Apostólica com a qual João de Ávila é proclamado Doutor da Igreja",
+        "de": "Apostolisches Schreiben zur Erhebung des Johannes von Àvila zum Kirchenlehrer",
+        "es": "Carta Apostólica para la proclamación de Juan de Ávila como Doctor de la Iglesia",
+        "it": "Lettera Apostolica per la proclamazione di Giovanni d’Ávila a Dottore della Chiesa"
+      }
+    }
+  ]
+}

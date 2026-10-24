@@ -1,0 +1,104 @@
+{
+  "id": "francis-20221228-totum-amoris-est",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Totum amoris est IV centesima occurrente memoria ab obitu sancti Francisci de Sales",
+    "en-US": "Apostolic Letter Totum amoris est of the Holy Father Francis on the Fourth Centenary of the Death of Saint Francis de Sales",
+    "pt-BR": "Carta Apostólica Totum amoris est no IV centenário da morte de São Francisco de Sales",
+    "ar": "Apostolic Letter Totum amoris est of the Holy Father Francis on the Fourth Centenary of the Death of Saint Francis de Sales, 28 December 2022",
+    "de": "Apostolisches Schreiben Totum amoris est des Heiligen Vaters Franziskus anlässlich des 400. Todestages des heiligen Franz von Sales",
+    "es": "Carta apostólica Totum amoris est en el IV centenario de la muerte de san Francisco de Sales",
+    "fr": "Lettre apostolique Totum amoris est pour le 4ème centenaire de la mort de saint François de Sales",
+    "it": "Lettera Apostolica Totum amoris est nel IV centenario della morte di San Francesco di Sales",
+    "pl": "List Apostolski Totum Amoris Est Ojca Świętego Franciszka w Czterechsetną Rocznicę Śmierci Świętego Franciszka Salezego"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2022-12-28",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2022-12-28"
+  },
+  "composed": "2022",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_letters/documents/20221228-totum-amoris-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_letters/documents/20221228-totum-amoris-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/20221228-totum-amoris-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/apost_letters/documents/20221228-totum-amoris-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_letters/documents/20221228-totum-amoris-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_letters/documents/20221228-totum-amoris-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/20221228-totum-amoris-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/20221228-totum-amoris-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_letters/documents/20221228-totum-amoris-est.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Totum amoris est IV centesima occurrente memoria ab obitu sancti Francisci de Sales",
+        "en-US": "Apostolic Letter Totum amoris est of the Holy Father Francis on the Fourth Centenary of the Death of Saint Francis de Sales",
+        "pt-BR": "Carta Apostólica Totum amoris est no IV centenário da morte de São Francisco de Sales",
+        "ar": "Apostolic Letter Totum amoris est of the Holy Father Francis on the Fourth Centenary of the Death of Saint Francis de Sales, 28 December 2022",
+        "de": "Apostolisches Schreiben Totum amoris est des Heiligen Vaters Franziskus anlässlich des 400. Todestages des heiligen Franz von Sales",
+        "es": "Carta apostólica Totum amoris est en el IV centenario de la muerte de san Francisco de Sales",
+        "fr": "Lettre apostolique Totum amoris est pour le 4ème centenaire de la mort de saint François de Sales",
+        "it": "Lettera Apostolica Totum amoris est nel IV centenario della morte di San Francesco di Sales",
+        "pl": "List Apostolski Totum Amoris Est Ojca Świętego Franciszka w Czterechsetną Rocznicę Śmierci Świętego Franciszka Salezego"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-sacra-rituum-congregatio",
+  "cover": "quarter",
+  "name": {
+    "la": "Sacra Rituum Congregatio, Costitutio Apostolica, Sacra Rituum Congregatio in duas Congregaciones dividitur, alteram pro Cultu Divino, alteram pro Causis Sanctorum, d. VIII m. Maii, a. 1969, Paulus PP. VI",
+    "it": "Sacra Rituum Congregatio"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Paul VI · 1969-05-08",
+    "pt-BR": "Constituição Apostólica · Papa Paulo VI · 1969-05-08"
+  },
+  "composed": "1969",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19690508_sacra-rituum-congregatio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_19690508_sacra-rituum-congregatio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sacra Rituum Congregatio, Costitutio Apostolica, Sacra Rituum Congregatio in duas Congregaciones dividitur, alteram pro Cultu Divino, alteram pro Causis Sanctorum, d. VIII m. Maii, a. 1969, Paulus PP. VI",
+        "it": "Sacra Rituum Congregatio"
+      }
+    }
+  ]
+}

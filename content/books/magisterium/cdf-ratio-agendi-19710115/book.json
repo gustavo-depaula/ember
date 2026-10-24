@@ -1,0 +1,96 @@
+{
+  "id": "cdf-ratio-agendi-19710115",
+  "cover": "quarter",
+  "name": {
+    "la": "Ratio agendi, d. 15 m. Ianuarii a. 1971, Congregatio pro Doctrina Fide",
+    "en-US": "The Norms for doctrinal investigation - Ratio Agendi",
+    "pt-BR": "Novo Regulamento para o Exame das Doutrinas, 15 de janeiro de 1971",
+    "de": "Ordnung für die Lehrüberprüfung, 15. Januar 1971",
+    "es": "Nuevo reglamento para el examen de las doctrinas, 15 enero 1971",
+    "fr": "La procédure pour l'examen des doctrines, 15 janvier 1971",
+    "it": "Regolamento per l'esame delle dottrine",
+    "pl": "OWY SPOSÓB POSTĘPOWANIA W BADANIU PRAWOWIERNOŚCI NAUKI, 15 stycznia 1971 r."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1971-01-15",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1971-01-15"
+  },
+  "composed": "1971",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710115_ratio-agendi_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710115_ratio-agendi_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710115_ratio-agendi_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710115_ratio-agendi_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710115_ratio-agendi_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710115_ratio-agendi_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710115_ratio-agendi_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710115_ratio-agendi_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ratio agendi, d. 15 m. Ianuarii a. 1971, Congregatio pro Doctrina Fide",
+        "en-US": "The Norms for doctrinal investigation - Ratio Agendi",
+        "pt-BR": "Novo Regulamento para o Exame das Doutrinas, 15 de janeiro de 1971",
+        "de": "Ordnung für die Lehrüberprüfung, 15. Januar 1971",
+        "es": "Nuevo reglamento para el examen de las doctrinas, 15 enero 1971",
+        "fr": "La procédure pour l'examen des doctrines, 15 janvier 1971",
+        "it": "Regolamento per l'esame delle dottrine",
+        "pl": "OWY SPOSÓB POSTĘPOWANIA W BADANIU PRAWOWIERNOŚCI NAUKI, 15 stycznia 1971 r."
+      }
+    }
+  ]
+}

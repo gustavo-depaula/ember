@@ -1,0 +1,40 @@
+{
+  "id": "cdf-regolamento-specialecollegiogiudicante",
+  "cover": "quarter",
+  "name": {
+    "it": "Regolamento dello Speciale Collegio Giudicante istituito per l’esame dei ricorsi alla Sessione Ordinaria della Congregazione per la Dottrina della Fede"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2018-10-01",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2018-10-01"
+  },
+  "composed": "2018",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20181001_regolamento-specialecollegiogiudicante_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Regolamento dello Speciale Collegio Giudicante istituito per l’esame dei ricorsi alla Sessione Ordinaria della Congregazione per la Dottrina della Fede"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-ex-quo-nono-labente",
+  "cover": "quarter",
+  "name": {
+    "la": "Littera ' Ex quo nono labente"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius X · 1910-12-26",
+    "pt-BR": "Carta · Papa Pio X · 1910-12-26"
+  },
+  "composed": "1910",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1910-12-26,_SS_Pius_X,_Littera_'_Ex_quo_nono_labente,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Littera ' Ex quo nono labente"
+      }
+    }
+  ]
+}

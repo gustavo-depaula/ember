@@ -1,0 +1,72 @@
+{
+  "id": "cdf-oeconomicae-et-pecuniariae",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Oeconomicae et pecuniariae quaestiones. Considerations for an ethical discernment on certain aspects of the current economic-financial system",
+    "de": "Oeconomicae et pecuniariae quaestiones. Erwägungen zu einer ethischen Unterscheidung bezüglich einiger Aspekte des gegenwärtigen Finanzwirtschaftssystems",
+    "es": "<i>Oeconomicae et pecuniariae quaestiones</i>. Consideraciones para un discernimiento ético sobre algunos aspectos del actual sistema económico y financiero",
+    "fr": "Oeconomicae et pecuniariae quaestiones. Considérations pour un discernement éthique sur certains aspects du système économique et financier actuel",
+    "it": "Oeconomicae et pecuniariae quaestiones. Considerazioni per un discernimento etico circa alcuni aspetti dell'attuale sistema economico-finanziario"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2018-01-06",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2018-01-06"
+  },
+  "composed": "2018",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Oeconomicae et pecuniariae quaestiones. Considerations for an ethical discernment on certain aspects of the current economic-financial system",
+        "de": "Oeconomicae et pecuniariae quaestiones. Erwägungen zu einer ethischen Unterscheidung bezüglich einiger Aspekte des gegenwärtigen Finanzwirtschaftssystems",
+        "es": "<i>Oeconomicae et pecuniariae quaestiones</i>. Consideraciones para un discernimiento ético sobre algunos aspectos del actual sistema económico y financiero",
+        "fr": "Oeconomicae et pecuniariae quaestiones. Considérations pour un discernement éthique sur certains aspects du système économique et financier actuel",
+        "it": "Oeconomicae et pecuniariae quaestiones. Considerazioni per un discernimento etico circa alcuni aspetti dell'attuale sistema economico-finanziario"
+      }
+    }
+  ]
+}

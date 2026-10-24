@@ -1,0 +1,48 @@
+{
+  "id": "francis-20230416-motu-proprio-iam-pridem",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio datae Iam Pridem (die XVI mensis Aprilis, anno MMXXIII)",
+    "it": "Lettera Apostolica in forma di Motu Proprio Iam Pridem, Con la quale vengono mutate alcune norme del Codice dei Canoni delle Chiese Orientali relative ai Vescovi che hanno raggiunto gli ottanta anni di età nel Sinodo dei Vescovi delle rispettive Chiese sui iuris"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2023-04-16",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2023-04-16"
+  },
+  "composed": "2023",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/20230416-motu-proprio-iam-pridem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230416-motu-proprio-iam-pridem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio datae Iam Pridem (die XVI mensis Aprilis, anno MMXXIII)",
+        "it": "Lettera Apostolica in forma di Motu Proprio Iam Pridem, Con la quale vengono mutate alcune norme del Codice dei Canoni delle Chiese Orientali relative ai Vescovi che hanno raggiunto gli ottanta anni di età nel Sinodo dei Vescovi delle rispettive Chiese sui iuris"
+      }
+    }
+  ]
+}

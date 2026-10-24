@@ -1,0 +1,39 @@
+{
+  "id": "curia-unknown-alguma-vez-jesus-cristo-falou-com-um",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Alguma vez Jesus Cristo falou com um falecido? Sim! A resposta é: sim!"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana"
+  },
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/alguma-vez-jesus-cristo-falou-com-um-falecido-sim-a-resposta-e-sim/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Alguma vez Jesus Cristo falou com um falecido? Sim! A resposta é: sim!"
+      }
+    }
+  ]
+}

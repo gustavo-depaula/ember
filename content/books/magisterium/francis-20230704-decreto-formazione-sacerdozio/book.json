@@ -1,0 +1,48 @@
+{
+  "id": "francis-20230704-decreto-formazione-sacerdozio",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Decree of the Holy Father Francis on the entities for formation to the Priesthood in the territory of the Diocese of Rome and appointment of Rector of the Pontifical Roman Major Seminary",
+    "it": "Decreto del Santo Padre Francesco circa le realtà di formazione al Sacerdozio nel territorio della Diocesi di Roma e nomina del Rettore del Pontificio Seminario Romano Maggiore"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2023-07-04",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2023-07-04"
+  },
+  "composed": "2023",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20230704-decreto-formazione-sacerdozio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230704-decreto-formazione-sacerdozio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Decree of the Holy Father Francis on the entities for formation to the Priesthood in the territory of the Diocese of Rome and appointment of Rector of the Pontifical Roman Major Seminary",
+        "it": "Decreto del Santo Padre Francesco circa le realtà di formazione al Sacerdozio nel territorio della Diocesi di Roma e nomina del Rettore del Pontificio Seminario Romano Maggiore"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+# Introduction to the Compendium of the Catechism of the Catholic Church
+
+***INTRODUCTION OF CARDINAL JOSEPH RATZINGER TO THE COMPENDIUM OF THE CATECHISM OF THE CATHOLIC CHURCH***
+
+1\. On 11 October 1992, Pope John Paul II presented the *[Catechism of the Catholic Church](/archive/ENG0015/_INDEX.HTM)* to the faithful of the whole world, describing it as a “reference text”[^1] for a catechesis renewed at the living sources of the faith.  Thirty years after the opening of the Second Vatican Council (1962-1965), the desire for a catechism of all Catholic doctrine on faith and morals, which had been voiced in 1985 by the extraordinary Assembly of the Synod of Bishops,  came to fulfilment.
+
+Five years later, on 15 August 1997, the Pope promulgated the *editio typica* of the *Catechismus Catholicae Ecclesiae* and confirmed its fundamental purpose “as a full, complete exposition of Catholic doctrine, enabling everyone to know what the Church professes, celebrates, lives and prays in her daily life”.[^2]
+
+2\. In order to realize more fully the *Catechism’s* potential and in response to the request that had emerged at the International Catechetical Congress of October 2002, Pope John Paul II, in 2003, established a Commission under the presidency of Cardinal Joseph Ratzinger, Prefect of the Congregation for the Doctrine of the Faith, which was given the task of drafting a *Compendium* of the *Catechism of the Catholic Church,* as a more concise formulation of its contents of faith.  After two years of work, a *draft compendium* was prepared and distributed among the Cardinals and the Presidents of Conferences of Bishops for their consultation.  The draft, as a whole, was evaluated positively in the great majority of the responses that were received.  Therefore, the Commission proceeded to revise the draft and, taking account of the proposals for improvement that had been submitted, prepared the final text.
+
+3\. There are three principal characteristics of the *Compendium*: the close reliance on the *Catechism of the Catholic Church*; the dialogical format; the use of *artistic images* in the catechesis.
+
+The *Compendium* is not a work that stands alone, nor is it intended in any way to replace the *Catechism of the Catholic Church*: instead, it refers constantly to the *Catechism* by means of reference numbers printed in the margins, as well as by consistent reliance on its structure, development and contents.  In fact, the *Compendium* is meant to reawaken interest in and enthusiasm for the *Catechism,* which, in the wisdom of its presentation and the depth of its spirituality, always remains the basic text for catechesis in the Church today.
+
+Like the *Catechism*, the *Compendium* has four parts, corresponding to the fundamental laws of life in Christ.
+
+The first part, entitled “The Profession of Faith”, contains a synthesis of the *lex credendi,* the faith professed by the Catholic Church, as expressed in the Apostles’ Creed which is further elaborated by the Nicene-Constantinopolitan Creed.  In the liturgical profession of the Creed, the Christian assembly keeps the principal truths of the faith alive in memory.
+
+The second part, entitled “The Celebration of the Christian Mystery”, presents the essential elements of the *lex celebrandi.*  The proclamation of the Gospel finds its authentic response in the sacramental life, through which Christians experience and witness, in every moment of their existence, the saving power of the paschal mystery by which Christ has accomplished our redemption.
+
+The third part, entitled “Life in Christ”, recalls the *lex vivendi*, through which the baptized manifest their commitment to the faith they have professed and celebrated, through their actions and ethical choices.  The Christian faithful are called by the Lord Jesus to act in a way which befits their dignity as children of the Father in the charity of the Holy Spirit.
+
+The fourth part, entitled “Christian Prayer”, summarizes the *lex orandi,* the life of prayer.  Following the example of Jesus, the perfect model of one who prays, the Christian too is called to the dialogue with God in prayer.  A privileged expression of prayer is the *Our Father,* the prayer that Jesus has taught us.
+
+4\. A second characteristic of the *Compendium* is its dialogical format, reflecting the ancient catechetical literary genre of questions and answers.  The idea is to reproduce an imaginary dialogue between master and disciple, through a series of incisive questions that invite the reader to go deeper in discovering ever new aspects of his faith.  The dialogical format also lends itself to brevity in the text, by reducing it to what is essential.  This may help the reader to grasp the contents and possibly to memorize them as well.
+
+5\. A third characteristic is the inclusion of some artistic images which mark the elaboration of the *Compendium.*  These are drawn from the rich patrimony of Christian iconography.  The centuries-old conciliar tradition teaches us that images are also a preaching of the Gospel.  Artists in every age have offered the principal facts of the mystery of salvation to the contemplation and wonder of believers by presenting them in the splendour of colour and in the perfection of beauty.  It is an indication of how today more than ever, in a culture of images, a sacred image can express much more than what can be said in words, and be an extremely effective and dynamic way of communicating the Gospel message.
+
+6\. Forty years after the close of the Second Vatican Council and in the year of the Eucharist, this *Compendium* represents an additional resource for satisfying the hunger for truth among the Christian faithful of all ages and conditions, as well as the hunger for truth and justice among those who are without faith.  The publication of the *Compendium* will take place on the solemnity of the Holy Apostles Peter and Paul, pillars of the Church universal and exemplary evangelizers of the ancient world.  These apostles saw what they preached and witnessed to the truth of Christ even unto martyrdom.  Let us imitate them in their missionary zeal and pray to the Lord that the Church may always follow the teaching of the apostles, from whom she first received the glorious proclamation of the faith.
+
+*20 March 2005, Palm Sunday.*
+
+**Joseph Cardinal Ratzinger**  
+*President of the Special Commission*
+
+------------------------------------------------------------------------
+
+[^1]: John Paul II, Apostolic Constitution *Fidei depositum,* 11 October 1992.
+
+[^2]: John Paul II, Apostolic Letter *Laetamur magnopere,* 15 August 1997.

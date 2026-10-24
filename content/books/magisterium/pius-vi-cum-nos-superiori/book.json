@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-cum-nos-superiori",
+  "cover": "quarter",
+  "name": {
+    "it": "Bolla Cum Nos superiori"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius VI · 1798-11-13",
+    "pt-BR": "Bula · Papa Pio VI · 1798-11-13"
+  },
+  "composed": "1798",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/bolla-cum-nos-superiori-13-novembre-1798.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bolla Cum Nos superiori"
+      }
+    }
+  ]
+}

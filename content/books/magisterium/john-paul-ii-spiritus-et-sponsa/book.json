@@ -1,0 +1,88 @@
+{
+  "id": "john-paul-ii-spiritus-et-sponsa",
+  "cover": "quarter",
+  "name": {
+    "la": "Spiritus et Sponsa: on the 40th anniversary of the Constitution \"Sacrosanctum Concilium\" on the Sacred Liturgy (December 4, 2003)",
+    "en-US": "Spiritus et Sponsa: on the 40th anniversary of the Constitution \"Sacrosanctum Concilium\" on the Sacred Liturgy",
+    "pt-BR": "Spiritus et Sponsa: no 40° aniversário da Constituição \"Sacrosanctum Concilium\" sobre a Sagrada Liturgia",
+    "de": "Spiritus et Sponsa: zum 40. Jahrestag der Konstitution \"Sacrosanctum Concilium\" über die heilige Liturgie",
+    "es": "Carta apostólica Spiritus et Sponsa con motivo del XL aniversario de la constitución \"Sacrosanctum Concilium\" sobre la sagrada liturgia",
+    "fr": "Spiritus et Sponsa: Pour le XL anniversaire de la Constitution Sacrosanctum Concilium sur la Sainte Liturgie",
+    "it": "Spiritus et Sponsa: nel 40° anniversario della Costituzione \"Sacrosanctum Concilium\" sulla Sacra Liturgia"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 2003-12-04",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 2003-12-04"
+  },
+  "composed": "2003",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2003-12-04,_SS_Ioannes_Paulus_II,_Epistula_'Romani_Pontifices',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2003/documents/hf_jp-ii_apl_20031204_spiritus-et-sponsa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/2003/documents/hf_jp-ii_apl_20031204_spiritus-et-sponsa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/2003/documents/hf_jp-ii_apl_20031204_spiritus-et-sponsa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/2003/documents/hf_jp-ii_apl_20031204_spiritus-et-sponsa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/2003/documents/hf_jp-ii_apl_20031204_spiritus-et-sponsa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/2003/documents/hf_jp-ii_apl_20031204_spiritus-et-sponsa.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Spiritus et Sponsa: on the 40th anniversary of the Constitution \"Sacrosanctum Concilium\" on the Sacred Liturgy (December 4, 2003)",
+        "en-US": "Spiritus et Sponsa: on the 40th anniversary of the Constitution \"Sacrosanctum Concilium\" on the Sacred Liturgy",
+        "pt-BR": "Spiritus et Sponsa: no 40° aniversário da Constituição \"Sacrosanctum Concilium\" sobre a Sagrada Liturgia",
+        "de": "Spiritus et Sponsa: zum 40. Jahrestag der Konstitution \"Sacrosanctum Concilium\" über die heilige Liturgie",
+        "es": "Carta apostólica Spiritus et Sponsa con motivo del XL aniversario de la constitución \"Sacrosanctum Concilium\" sobre la sagrada liturgia",
+        "fr": "Spiritus et Sponsa: Pour le XL anniversaire de la Constitution Sacrosanctum Concilium sur la Sainte Liturgie",
+        "it": "Spiritus et Sponsa: nel 40° anniversario della Costituzione \"Sacrosanctum Concilium\" sulla Sacra Liturgia"
+      }
+    }
+  ]
+}

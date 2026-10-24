@@ -1,0 +1,17 @@
+# Lettera alle Famiglie
+
+***LETTERA DI PAPA FRANCESCO A******LLE FAMIGLIE***
+
+*Drogie Rodziny,*
+
+Staję na progu waszego domu, by powiedzieć Wam  o wydarzeniu, które – jak wiadomo –będzie miało miejsce w październiku w Watykanie. Chodzi o Nadzwyczajne Zgromadzenie Ogólne Synodu Biskupów, zwołane, by dyskutować na temat: „Wyzwania duszpasterskie związane z rodziną w kontekście ewangelizacji”. Kościół bowiem jest dziś powołany do głoszenia Ewangelii, także stawiając czoło nowym pilnym wyzwaniom duszpasterskim dotyczącym rodziny.
+
+To ważne spotkanie angażuje cały Lud Boży, biskupów, kapłanów, osoby konsekrowane i wiernych świeckich Kościołów partykularnych całego świata, którzy aktywnie uczestniczą w jego przygotowaniu poprzez konkretne propozycje i niezbędny wkład modlitwy. Wsparcie modlitewne jest niezwykle potrzebne i znaczące, zwłaszcza z Waszej strony, drogie rodziny. To zgromadzenie synodalne jest bowiem poświęcone szczególnie Wam, Waszemu powołaniu i misji w Kościele i w społeczeństwie, problemom małżeństwa, życia rodzinnego, wychowaniu dzieci oraz roli rodziny w misji Kościoła. Dlatego proszę Was o intensywną modlitwę do Ducha Świętego, aby oświecił ojców synodalnych i prowadził ich w tym niełatwym zadaniu. Jak wiecie, rok po tym nadzwyczajnym zgromadzeniu synodalnym zbierze się zgromadzenie  zwyczajne, które podejmie tę samą kwestię rodziny. Także w tym kontekście, we wrześniu 2015 roku odbędzie się Światowe Spotkanie Rodzin w Filadelfii. Módlmy się więc wszyscy razem, żeby przez te trzy wydarzenia Kościół podjął prawdziwą drogę rozeznania i odpowiednie środki duszpasterskie, aby pomóc rodzinom w stawieniu czoła aktualnym wyzwaniom ze światłem i mocą, które pochodzą z Ewangelii.
+
+Piszę do Was ten list w dniu, kiedy obchodzimy święto Ofiarowania Pana Jezusa w świątyni. Św. Łukasz Ewangelista mówi nam, że Maryja i Józef zgodnie z prawem Mojżeszowym przynieśli Dzieciątko do świątyni, aby przedstawić Je Panu, i że dwoje starców, Symeon i Anna, pobudzeni przez Ducha Świętego wyszli im na spotkanie i rozpoznali w Jezusie Mesjasza (por. *Łk* 2, 22-38). Symeon wziął go w ramiona i dziękował Bogu, że wreszcie "ujrzał" zbawienie. Anna, pomimo zaawansowanego wieku, odnalazła nową moc i zaczęła mówić wszystkim o Dzieciątku. Jest to piękny obraz: dwoje młodych rodziców i dwie osoby starsze, zgromadzeni przez Jezusa. Naprawdę Jezus sprawia, że pokolenia spotykają się i jednoczą! On jest niewyczerpanym źródłem tej miłości, która przezwycięża wszelkie zamknięcie, każdą samotność i smutek. Na Waszej drodze życia rodzinnego dzielicie ze sobą wiele pięknych chwil: posiłki, odpoczynek, pracę domową, zabawy, modlitwy, podróże i pielgrzymki, dzieła solidarności... Jednakże, jeśli nie ma miłości, wówczas brak radości, a prawdziwą miłość daje nam Jezus: On daje nam swoje Słowo, które oświeca naszą drogę; daje nam Chleb życia , który podtrzymuje codzienny trud naszego pielgrzymowania.
+
+Drogie rodziny, Wasza modlitwa w intencji Synodu Biskupów będzie cennym skarbem, który ubogaci Kościół. Dziękuję Wam i proszę Was o modlitwę również za mnie, abym mógł służyć Ludowi Bożemu w prawdzie i miłości. Niech Wam wszystkim towarzyszy opieka Najświętszej Maryi Panny i świętego Józefa, i niech Wam pomaga podążać razem w miłości i wzajemnej służbie. Z całego serca przyzywam Bożego błogosławieństwa dla każdej rodziny.
+
+*Watykan, 2 lutego 2014 roku Święto Ofiarowania Pańskiego*
+
+**FRANCISCUS**

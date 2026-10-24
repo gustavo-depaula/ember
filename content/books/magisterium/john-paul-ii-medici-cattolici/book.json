@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-medici-cattolici",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the participants in the 23rd National Congress of the Italian Catholic Physicians' Association",
+    "pt-BR": "Carta aos participantes do XXIII Congresso Nacional da Associação dos Médicos Católicos Italianos",
+    "de": "Schreiben an die Teilnehmer des XXIII. Nationalkongresses des Verbandes der katholischen Ärzte Italiens",
+    "es": "Carta a los participantes en la XXIII asamblea nacional de la Asociación de médicos católicos italianos",
+    "fr": "Lettre aux participants au XXIII Congrès National de l’Association des Médecins catholiques italiens",
+    "it": "Lettera ai partecipanti al XXIII Congresso Nazionale dell’Associazione dei Medici Cattolici Italiani"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 2004-11-09",
+    "pt-BR": "Carta · Papa João Paulo II · 2004-11-09"
+  },
+  "composed": "2004",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/2004/documents/hf_jp-ii_let_20041109_medici-cattolici.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/2004/documents/hf_jp-ii_let_20041109_medici-cattolici.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/2004/documents/hf_jp-ii_let_20041109_medici-cattolici.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/2004/documents/hf_jp-ii_let_20041109_medici-cattolici.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/letters/2004/documents/hf_jp-ii_let_20041109_medici-cattolici.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/2004/documents/hf_jp-ii_let_20041109_medici-cattolici.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the participants in the 23rd National Congress of the Italian Catholic Physicians' Association",
+        "pt-BR": "Carta aos participantes do XXIII Congresso Nacional da Associação dos Médicos Católicos Italianos",
+        "de": "Schreiben an die Teilnehmer des XXIII. Nationalkongresses des Verbandes der katholischen Ärzte Italiens",
+        "es": "Carta a los participantes en la XXIII asamblea nacional de la Asociación de médicos católicos italianos",
+        "fr": "Lettre aux participants au XXIII Congrès National de l’Association des Médecins catholiques italiens",
+        "it": "Lettera ai partecipanti al XXIII Congresso Nazionale dell’Associazione dei Medici Cattolici Italiani"
+      }
+    }
+  ]
+}

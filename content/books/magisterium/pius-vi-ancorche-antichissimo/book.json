@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-ancorche-antichissimo",
+  "cover": "quarter",
+  "name": {
+    "it": "Chirografo Ancorché antichissimo"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius VI · 1791-11-05",
+    "pt-BR": "Documento · Papa Pio VI · 1791-11-05"
+  },
+  "composed": "1791",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/chirografo-ancorche-antichissimo-5-novembre-1791.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Chirografo Ancorché antichissimo"
+      }
+    }
+  ]
+}

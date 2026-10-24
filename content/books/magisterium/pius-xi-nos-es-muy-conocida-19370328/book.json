@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-nos-es-muy-conocida-19370328",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Nos Es Muy Conocida"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XI · 1937-03-28",
+    "pt-BR": "Documento · Papa Pio XI · 1937-03-28"
+  },
+  "composed": "1937",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius11/p11noses.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Nos Es Muy Conocida"
+      }
+    }
+  ]
+}

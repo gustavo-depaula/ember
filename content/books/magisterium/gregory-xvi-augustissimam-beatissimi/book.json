@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-augustissimam-beatissimi",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Augustissimam beatissimi"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Gregory XVI · 1840-12-21",
+    "pt-BR": "Encíclica · Papa Gregório XVI · 1840-12-21"
+  },
+  "composed": "1840",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/enciclica-augustissimam-beatissimi-21-dicembre-1840.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Augustissimam beatissimi"
+      }
+    }
+  ]
+}

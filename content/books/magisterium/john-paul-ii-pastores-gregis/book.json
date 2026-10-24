@@ -1,0 +1,96 @@
+{
+  "id": "john-paul-ii-pastores-gregis",
+  "cover": "quarter",
+  "name": {
+    "la": "Pastores gregis (die XVI mensis Octobris, anno MMIII)",
+    "en-US": "Pastores gregis",
+    "pt-BR": "Pastores gregis",
+    "de": "Pastores gregis",
+    "es": "Pastores gregis",
+    "fr": "Pastores gregis",
+    "it": "Pastores gregis",
+    "pl": "Pastores gregis"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope John Paul II · 2003-10-16",
+    "pt-BR": "Exortação Apostólica · Papa João Paulo II · 2003-10-16"
+  },
+  "composed": "2003",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Pastores gregis (die XVI mensis Octobris, anno MMIII)",
+        "en-US": "Pastores gregis",
+        "pt-BR": "Pastores gregis",
+        "de": "Pastores gregis",
+        "es": "Pastores gregis",
+        "fr": "Pastores gregis",
+        "it": "Pastores gregis",
+        "pl": "Pastores gregis"
+      }
+    }
+  ]
+}

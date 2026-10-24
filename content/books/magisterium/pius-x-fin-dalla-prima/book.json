@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-fin-dalla-prima",
+  "cover": "quarter",
+  "name": {
+    "it": "Fin dalla prima"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius X · 1903-12-18",
+    "pt-BR": "Motu Proprio · Papa Pio X · 1903-12-18"
+  },
+  "composed": "1903",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/motu_proprio/documents/hf_p-x_motu-proprio_19031218_fin-dalla-prima.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Fin dalla prima"
+      }
+    }
+  ]
+}

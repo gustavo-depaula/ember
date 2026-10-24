@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-augustum-sanctissimumque",
+  "cover": "quarter",
+  "name": {
+    "la": "Augustum Sanctissimumque",
+    "it": "Augustum sanctissimumque"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Leo XIII · 1888-10-01",
+    "pt-BR": "Motu Proprio · Papa Leão XIII · 1888-10-01"
+  },
+  "composed": "1888",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/motu_proprio/documents/hf_l-xiii_motu-proprio_18881001_augustum-sanctissimumque.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/motu_proprio/documents/hf_l-xiii_motu-proprio_18881001_augustum-sanctissimumque.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Augustum Sanctissimumque",
+        "it": "Augustum sanctissimumque"
+      }
+    }
+  ]
+}

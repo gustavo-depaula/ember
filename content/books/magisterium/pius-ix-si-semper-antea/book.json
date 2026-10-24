@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-si-semper-antea",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Si semper antea"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius IX · 1850-05-20",
+    "pt-BR": "Alocução · Papa Pio IX · 1850-05-20"
+  },
+  "composed": "1850",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/allocuzione-si-semper-antea-20-maggio-1850.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Si semper antea"
+      }
+    }
+  ]
+}

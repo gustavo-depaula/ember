@@ -1,0 +1,40 @@
+{
+  "id": "worship-conf-martirologio",
+  "cover": "quarter",
+  "name": {
+    "it": "Conferenza Stampa di presentazione dellÂÂ’Editio typica del nuovo Martirologio Romano"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2001-10-02",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2001-10-02"
+  },
+  "composed": "2001",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20011002_conf-martirologio_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Conferenza Stampa di presentazione dellÂÂ’Editio typica del nuovo Martirologio Romano"
+      }
+    }
+  ]
+}

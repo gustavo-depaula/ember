@@ -1,0 +1,48 @@
+{
+  "id": "pius-xi-vivo-piacere",
+  "cover": "quarter",
+  "name": {
+    "fr": "Lettre Con vivo piacere à l'Archevêque de Gênes à l'occasion de la Conférence internationale de la paix",
+    "it": "Lettera al Reverendo Padre Giosuè Signori, Arcivescovo di Genova"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1922-04-07",
+    "pt-BR": "Carta · Papa Pio XI · 1922-04-07"
+  },
+  "composed": "1922",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/letters/documents/hf_p-xi_lett_19220407_vivo-piacere.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19220407_vivo-piacere.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Lettre Con vivo piacere à l'Archevêque de Gênes à l'occasion de la Conférence internationale de la paix",
+        "it": "Lettera al Reverendo Padre Giosuè Signori, Arcivescovo di Genova"
+      }
+    }
+  ]
+}

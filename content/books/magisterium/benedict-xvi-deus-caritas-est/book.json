@@ -1,0 +1,160 @@
+{
+  "id": "benedict-xvi-deus-caritas-est",
+  "cover": "quarter",
+  "name": {
+    "la": "Deus Caritas Est - Litterae Encyclicae, Benedictus PP. XVI",
+    "en-US": "Deus caritas est",
+    "pt-BR": "Deus caritas est",
+    "be": "Deus Caritas Est",
+    "ch": "Deus caritas est (December 25, 2005)",
+    "de": "Deus caritas est",
+    "es": "Deus caritas est",
+    "fr": "Deus caritas est",
+    "hr": "Deus Caritas Est, Enciklika - Papa Benedikt XVI.",
+    "hu": "Deus caritas est, XVI. Benedek",
+    "it": "Deus caritas est",
+    "nl": "Deus caritas est - Encycliek, Benedictus XVI",
+    "pl": "Deus Caritas Est - ENCYKLIKA, Benedictus PP. XVI",
+    "ru": "Deus Caritas Est",
+    "vi": "THÔNG ĐIỆP DEUS CARITAS EST CỦA ĐỨC THÁNH CHA BÊNÊĐICTÔ XVI",
+    "zh": "Deus caritas est"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XVI · 2005-12-25",
+    "pt-BR": "Encíclica · Papa Bento XVI · 2005-12-25"
+  },
+  "composed": "2005",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "be",
+    "ch",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "hu",
+    "it",
+    "nl",
+    "pl",
+    "ru",
+    "vi",
+    "zh"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/benedict-xvi/be/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ch",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_CH.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/benedict-xvi/hr/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/benedict-xvi/hu/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/content/benedict-xvi/nl/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/content/benedict-xvi/ru/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/content/benedict-xvi/vi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh",
+      "url": "https://www.vatican.va/content/benedict-xvi/zh/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Deus Caritas Est - Litterae Encyclicae, Benedictus PP. XVI",
+        "en-US": "Deus caritas est",
+        "pt-BR": "Deus caritas est",
+        "be": "Deus Caritas Est",
+        "ch": "Deus caritas est (December 25, 2005)",
+        "de": "Deus caritas est",
+        "es": "Deus caritas est",
+        "fr": "Deus caritas est",
+        "hr": "Deus Caritas Est, Enciklika - Papa Benedikt XVI.",
+        "hu": "Deus caritas est, XVI. Benedek",
+        "it": "Deus caritas est",
+        "nl": "Deus caritas est - Encycliek, Benedictus XVI",
+        "pl": "Deus Caritas Est - ENCYKLIKA, Benedictus PP. XVI",
+        "ru": "Deus Caritas Est",
+        "vi": "THÔNG ĐIỆP DEUS CARITAS EST CỦA ĐỨC THÁNH CHA BÊNÊĐICTÔ XVI",
+        "zh": "Deus caritas est"
+      }
+    }
+  ]
+}

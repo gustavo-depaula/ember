@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-permoti-nos",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Permoti Nos"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1895-07-10",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1895-07-10"
+  },
+  "composed": "1895",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10071895_permoti-nos.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Permoti Nos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "francis-pascite-gregem-dei",
+  "cover": "quarter",
+  "name": {
+    "la": "Pascite Gregem Dei (die XXIII mensis Maii, anno Domini MMXXI)",
+    "en-US": "Apostolic Constitution “Pascite gregem Dei” of the Holy Father Francis, reforming Book VI of the Code of Canon Law",
+    "cs": "APOŠTOLSKÁ KONSTITUCE PASCITE GREGEM DEI (PASTE BOŽÍ STÁDCE), JÍŽ SE REFORMUJE VI. KNIHA KODEXU KANONICKÉHO PRÁVA",
+    "de": "Apostolische Konstitution Pascite Gregem Dei - Mit der das Buch VI des Codex des kanonischen Rechtes erneuert wird",
+    "es": "Pascite Gregem Dei con la que se reforma el libro VI del Código de Derecho Canónico",
+    "it": "Costituzione Apostolica Pascite Gregem Dei con cui viene riformato il libro VI del Codice di Diritto Canonico"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Francis · 2021-05-23",
+    "pt-BR": "Constituição Apostólica · Papa Francisco · 2021-05-23"
+  },
+  "composed": "2021",
+  "languages": [
+    "la",
+    "en-US",
+    "cs",
+    "de",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_constitutions/documents/papa-francesco_costituzione-ap_20210523_pascite-gregem-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_constitutions/documents/papa-francesco_costituzione-ap_20210523_pascite-gregem-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/content/francesco/cs/apost_constitutions/documents/papa-francesco_costituzione-ap_20210523_pascite-gregem-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_constitutions/documents/papa-francesco_costituzione-ap_20210523_pascite-gregem-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_constitutions/documents/papa-francesco_costituzione-ap_20210523_pascite-gregem-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_constitutions/documents/papa-francesco_costituzione-ap_20210523_pascite-gregem-dei.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Pascite Gregem Dei (die XXIII mensis Maii, anno Domini MMXXI)",
+        "en-US": "Apostolic Constitution “Pascite gregem Dei” of the Holy Father Francis, reforming Book VI of the Code of Canon Law",
+        "cs": "APOŠTOLSKÁ KONSTITUCE PASCITE GREGEM DEI (PASTE BOŽÍ STÁDCE), JÍŽ SE REFORMUJE VI. KNIHA KODEXU KANONICKÉHO PRÁVA",
+        "de": "Apostolische Konstitution Pascite Gregem Dei - Mit der das Buch VI des Codex des kanonischen Rechtes erneuert wird",
+        "es": "Pascite Gregem Dei con la que se reforma el libro VI del Código de Derecho Canónico",
+        "it": "Costituzione Apostolica Pascite Gregem Dei con cui viene riformato il libro VI del Codice di Diritto Canonico"
+      }
+    }
+  ]
+}

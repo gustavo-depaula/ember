@@ -1,0 +1,40 @@
+{
+  "id": "cdf-regolamento-delicta-reservata",
+  "cover": "quarter",
+  "name": {
+    "it": "Regolamento dello speciale Collegio giudicante istituito per l'esame dei ricorsi in materia di Delicta Reservata"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2023-04-22",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2023-04-22"
+  },
+  "composed": "2023",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20230422_regolamento-delicta-reservata_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Regolamento dello speciale Collegio giudicante istituito per l'esame dei ricorsi in materia di Delicta Reservata"
+      }
+    }
+  ]
+}

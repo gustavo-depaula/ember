@@ -1,0 +1,88 @@
+{
+  "id": "cdf-commento-dubium-ordinatio-sac",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Concerning the Reply of the Congregation for the Doctrine of the Faith on the Teaching Contained in the Apostolic Letter Ordinatio Sacerdotalis",
+    "pt-BR": "Sobre a resposta da Congregação acerca da Doutrina proposta na Ordinatio sacerdotalis, 28 de otubro de 1995",
+    "de": "Zur Antwort der Glaubenskongregation über die im Schreiben Ordinatio sacerdotalis vorgelegte Lehre",
+    "es": "Comentario a la respuesta al dubium sobre la doctrina de la Ordinatio sacerdotalis",
+    "fr": "A propos de la Réponse de la Congrégation pour la Doctrine de la Foi sur la doctrine de la Lettre apostolique Ordinatio sacerdotalis",
+    "it": "Sulla Risposta della Congregazione per la Dottrina della Fede circa la dottrina proposta nella Lettera apostolica Ordinatio sacerdotalis",
+    "pl": "Wokół odpowiedzi Kongregacji Nauki Wiary na temat doktryny przedstawionej w Liście Apostolskim Ordinatio Sacerdotalis"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1995-10-28",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1995-10-28"
+  },
+  "composed": "1995",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_commento-dubium-ordinatio-sac_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_commento-dubium-ordinatio-sac_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_commento-dubium-ordinatio-sac_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_commento-dubium-ordinatio-sac_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_commento-dubium-ordinatio-sac_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_commento-dubium-ordinatio-sac_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_commento-dubium-ordinatio-sac_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Concerning the Reply of the Congregation for the Doctrine of the Faith on the Teaching Contained in the Apostolic Letter Ordinatio Sacerdotalis",
+        "pt-BR": "Sobre a resposta da Congregação acerca da Doutrina proposta na Ordinatio sacerdotalis, 28 de otubro de 1995",
+        "de": "Zur Antwort der Glaubenskongregation über die im Schreiben Ordinatio sacerdotalis vorgelegte Lehre",
+        "es": "Comentario a la respuesta al dubium sobre la doctrina de la Ordinatio sacerdotalis",
+        "fr": "A propos de la Réponse de la Congrégation pour la Doctrine de la Foi sur la doctrine de la Lettre apostolique Ordinatio sacerdotalis",
+        "it": "Sulla Risposta della Congregazione per la Dottrina della Fede circa la dottrina proposta nella Lettera apostolica Ordinatio sacerdotalis",
+        "pl": "Wokół odpowiedzi Kongregacji Nauki Wiary na temat doktryny przedstawionej w Liście Apostolskim Ordinatio Sacerdotalis"
+      }
+    }
+  ]
+}

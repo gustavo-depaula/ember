@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-e-giunto",
+  "cover": "quarter",
+  "name": {
+    "it": "È giunto"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1889-07-19",
+    "pt-BR": "Carta · Papa Leão XIII · 1889-07-19"
+  },
+  "composed": "1889",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18890719_e-giunto.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "È giunto"
+      }
+    }
+  ]
+}

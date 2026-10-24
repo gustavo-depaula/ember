@@ -1,0 +1,104 @@
+{
+  "id": "john-paul-ii-tertio-millennio-adveniente",
+  "cover": "quarter",
+  "name": {
+    "la": "Tertio millennio adveniente, die X mensis Novembris, anno MCMXCIV",
+    "en-US": "Tertio Millennio Adveniente",
+    "pt-BR": "Tertio Millennio Adveniente",
+    "de": "Tertio Millennio Adveniente",
+    "es": "Tertio Millennio Adveniente",
+    "fr": "Tertio Millennio Adveniente",
+    "hu": "Tertio millennio adveniente apostoli levele a harmadik évezred küszöbén a püspökökhöz, a papokhoz és a hívekhez a 2000. évjubileumának előkészítéséről, 1994. november 10-én - II. János Pál pápa",
+    "it": "Tertio Millennio Adveniente",
+    "zh": "Tertio Millennio Adveniente"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1994-11-10",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1994-11-10"
+  },
+  "composed": "1994",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "zh"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1994/documents/hf_jp-ii_apl_19941110_tertio-millennio-adveniente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1994/documents/hf_jp-ii_apl_19941110_tertio-millennio-adveniente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1994/documents/hf_jp-ii_apl_19941110_tertio-millennio-adveniente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1994/documents/hf_jp-ii_apl_19941110_tertio-millennio-adveniente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1994/documents/hf_jp-ii_apl_19941110_tertio-millennio-adveniente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1994/documents/hf_jp-ii_apl_19941110_tertio-millennio-adveniente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/apost_letters/1994/documents/hf_jp-ii_apl_19941110_tertio-millennio-adveniente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1994/documents/hf_jp-ii_apl_19941110_tertio-millennio-adveniente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh",
+      "url": "https://www.vatican.va/content/john-paul-ii/zh/apost_letters/1994/documents/hf_jp-ii_apl_19941110_tertio-millennio-adveniente.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Tertio millennio adveniente, die X mensis Novembris, anno MCMXCIV",
+        "en-US": "Tertio Millennio Adveniente",
+        "pt-BR": "Tertio Millennio Adveniente",
+        "de": "Tertio Millennio Adveniente",
+        "es": "Tertio Millennio Adveniente",
+        "fr": "Tertio Millennio Adveniente",
+        "hu": "Tertio millennio adveniente apostoli levele a harmadik évezred küszöbén a püspökökhöz, a papokhoz és a hívekhez a 2000. évjubileumának előkészítéséről, 1994. november 10-én - II. János Pál pápa",
+        "it": "Tertio Millennio Adveniente",
+        "zh": "Tertio Millennio Adveniente"
+      }
+    }
+  ]
+}

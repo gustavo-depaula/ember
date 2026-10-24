@@ -1,0 +1,80 @@
+{
+  "id": "john-xxiii-sacerdotii",
+  "cover": "quarter",
+  "name": {
+    "la": "Sacerdotii Nostri Primordia, Litterae Emcyclicae Primo exeunte saeculo ab obitu S. Ioannis M.B. Vianney, d. 1 augusti 1959",
+    "en-US": "Sacerdotii Nostri Primordia",
+    "pt-BR": "Sacerdotii Nostri Primordia",
+    "es": "Sacerdotii Nostri Primordia",
+    "fr": "Sacerdotii Nostri Primordia",
+    "it": "Sacerdotii Nostri Primordia"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope John XXIII · 1959-08-01",
+    "pt-BR": "Encíclica · Papa João XXIII · 1959-08-01"
+  },
+  "composed": "1959",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-xxiii/fr/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sacerdotii Nostri Primordia, Litterae Emcyclicae Primo exeunte saeculo ab obitu S. Ioannis M.B. Vianney, d. 1 augusti 1959",
+        "en-US": "Sacerdotii Nostri Primordia",
+        "pt-BR": "Sacerdotii Nostri Primordia",
+        "es": "Sacerdotii Nostri Primordia",
+        "fr": "Sacerdotii Nostri Primordia",
+        "it": "Sacerdotii Nostri Primordia"
+      }
+    }
+  ]
+}

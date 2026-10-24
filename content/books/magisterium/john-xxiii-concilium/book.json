@@ -1,0 +1,72 @@
+{
+  "id": "john-xxiii-concilium",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Propio Datae Dies Statuitur SS. Concilii Oecumenici Vaticani II inchoandi - Consilium",
+    "pt-BR": "Carta Apostólica sob forma de Motu Proprio Consilium, que define o dia de abertura do Concílio Ecumênico Vaticano II",
+    "de": "Lettera Apostolica «Motu Proprio» Consilium che definisce il giorno di apertura del Concilio Ecumenico Vaticano II (2 febbraio 1962)",
+    "es": "Carta Apostólica Motu Proprio Consilium, en la que se establece la fecha de comienzo del Concilio Vaticano II",
+    "it": "Lettera Apostolica «Motu Proprio» Consilium che definisce il giorno di apertura del Concilio Ecumenico Vaticano II"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John XXIII · 1962-02-02",
+    "pt-BR": "Motu Proprio · Papa João XXIII · 1962-02-02"
+  },
+  "composed": "1962",
+  "languages": [
+    "la",
+    "pt-BR",
+    "de",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-xxiii/la/motu_proprio/documents/hf_j-xxiii_motu-proprio_19620202_concilium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-xxiii/pt/motu_proprio/documents/hf_j-xxiii_motu-proprio_19620202_concilium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1962-02-02,_SS_Ioannes_XXIII,_Motu_Proprio_'Consilium',_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/motu_proprio/documents/hf_j-xxiii_motu-proprio_19620202_concilium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/motu_proprio/documents/hf_j-xxiii_motu-proprio_19620202_concilium.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Propio Datae Dies Statuitur SS. Concilii Oecumenici Vaticani II inchoandi - Consilium",
+        "pt-BR": "Carta Apostólica sob forma de Motu Proprio Consilium, que define o dia de abertura do Concílio Ecumênico Vaticano II",
+        "de": "Lettera Apostolica «Motu Proprio» Consilium che definisce il giorno di apertura del Concilio Ecumenico Vaticano II (2 febbraio 1962)",
+        "es": "Carta Apostólica Motu Proprio Consilium, en la que se establece la fecha de comienzo del Concilio Vaticano II",
+        "it": "Lettera Apostolica «Motu Proprio» Consilium che definisce il giorno di apertura del Concilio Ecumenico Vaticano II"
+      }
+    }
+  ]
+}

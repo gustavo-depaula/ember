@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-card-bisleti",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Con grande Nostra, al Card. Bisleti circa l'istituzione di una Commissione per il conferimento dei gradi accademici nelle discipline sacre"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1930-02-06",
+    "pt-BR": "Carta · Papa Pio XI · 1930-02-06"
+  },
+  "composed": "1930",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19300206_card-bisleti.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Con grande Nostra, al Card. Bisleti circa l'istituzione di una Commissione per il conferimento dei gradi accademici nelle discipline sacre"
+      }
+    }
+  ]
+}

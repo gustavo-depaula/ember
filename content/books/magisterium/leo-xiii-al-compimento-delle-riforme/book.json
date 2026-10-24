@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-al-compimento-delle-riforme",
+  "cover": "quarter",
+  "name": {
+    "it": "Al compimento delle riforme"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1901-06-11",
+    "pt-BR": "Carta · Papa Leão XIII · 1901-06-11"
+  },
+  "composed": "1901",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_19010611_chirografo.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Al compimento delle riforme"
+      }
+    }
+  ]
+}

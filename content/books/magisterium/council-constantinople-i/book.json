@@ -1,0 +1,146 @@
+{
+  "id": "council-constantinople-i",
+  "cover": "quarter",
+  "name": {
+    "en-US": "First Council of Constantinople",
+    "pt-BR": "Primeiro Concílio de Constantinopla",
+    "la": "Concilium Constantinopolitanum I"
+  },
+  "author": {
+    "en-US": "First Council of Constantinople",
+    "pt-BR": "Primeiro Concílio de Constantinopla",
+    "la": "Concilium Constantinopolitanum I"
+  },
+  "description": {
+    "en-US": "Ecumenical council · 381. Decrees, canons and acts in every language available.",
+    "pt-BR": "Concílio ecumênico · 381. Decretos, cânones e atas em todas as línguas disponíveis."
+  },
+  "composed": "381",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "fr",
+    "grc",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "council",
+    "constantinople-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0381-0381,_Concilium_Constantinopolitanum_I,_Documenta,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/ecum02.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/1o-concilio-ecumenico-de-constantinopla-ano-381-parte-1-4-introducao/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/1o-concilio-ecumenico-de-constantinopla-ano-381-parte-2-4-credo-constantinopolitano/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/1o-concilio-ecumenico-de-constantinopla-ano-381-parte-3-4-canones/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/1o-concilio-ecumenico-de-constantinopla-ano-381-parte-4-4-carta-sinodal-ao-imperador-teodosio/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0381-0381,_Concilium_Constantinopolitanum_I,_Documenta_Omnia,_FR.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0381-05-01,_Absens,_Concilium_Constantinopolitanum_I_Symbolum,_FR.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "grc",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0381-0381,_Concilium_Constantinopolitanum_I,_Documenta,_GR.pdf",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0381-05-01,_Absens,_Concilium_Constantinopolitanum_I,_IT.doc",
+      "description": "Conciliar text as published at this address."
+    }
+  ],
+  "toc": [
+    {
+      "id": "la-01",
+      "title": {
+        "la": "Documenta"
+      }
+    },
+    {
+      "id": "en-US-01",
+      "title": {
+        "en-US": "First Council of Constantinople – 381"
+      }
+    },
+    {
+      "id": "pt-BR-01",
+      "title": {
+        "pt-BR": "1º Concílio Ecumênico de Constantinopla [ano 381] (Parte 1/4): Introdução"
+      }
+    },
+    {
+      "id": "pt-BR-02",
+      "title": {
+        "pt-BR": "1º Concílio Ecumênico de Constantinopla [ano 381] (Parte 2/4): Credo Constantinopolitano"
+      }
+    },
+    {
+      "id": "pt-BR-03",
+      "title": {
+        "pt-BR": "1º Concílio Ecumênico de Constantinopla [ano 381] (Parte 3/4): Cânones"
+      }
+    },
+    {
+      "id": "pt-BR-04",
+      "title": {
+        "pt-BR": "1º Concílio Ecumênico de Constantinopla [ano 381] (Parte 4/4): Carta Sinodal ao Imperador Teodósio"
+      }
+    },
+    {
+      "id": "fr-01",
+      "title": {
+        "fr": "Documenta Omnia"
+      }
+    },
+    {
+      "id": "fr-02",
+      "title": {
+        "fr": "Concilium Constantinopolitanum I Symbolum"
+      }
+    },
+    {
+      "id": "grc-01",
+      "title": {
+        "grc": "Documenta"
+      }
+    },
+    {
+      "id": "it-01",
+      "title": {
+        "it": "Concilium Constantinopolitanum I"
+      }
+    }
+  ]
+}

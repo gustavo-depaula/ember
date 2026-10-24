@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-gratis-vos",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Gratis Vos al Cardinale di Santa Romana Chiesa Giorgio Gusmini, Arcivescovo di Bologna, e agli altri Arcivescovi e Vescovi della Regione Flaminia, affinché le lotte sociali si svolgano nel rispetto della giustizia e nell'osservanza della pace"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1920-06-22",
+    "pt-BR": "Carta · Papa Bento XV · 1920-06-22"
+  },
+  "composed": "1920",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1920/documents/hf_ben-xv_let_19200622_gratis-vos.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Gratis Vos al Cardinale di Santa Romana Chiesa Giorgio Gusmini, Arcivescovo di Bologna, e agli altri Arcivescovi e Vescovi della Regione Flaminia, affinché le lotte sociali si svolgano nel rispetto della giustizia e nell'osservanza della pace"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-legislaz-ecclesiastica",
+  "cover": "quarter",
+  "name": {
+    "it": "Chirografo al Cardinale Gasparri, sulle proposte formulate dalla Commissione Ministeriale circa la legislazione ecclesiastica in Italia"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1926-02-18",
+    "pt-BR": "Carta · Papa Pio XI · 1926-02-18"
+  },
+  "composed": "1926",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19260218_legislaz-ecclesiastica.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Chirografo al Cardinale Gasparri, sulle proposte formulate dalla Commissione Ministeriale circa la legislazione ecclesiastica in Italia"
+      }
+    }
+  ]
+}

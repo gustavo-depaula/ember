@@ -1,0 +1,48 @@
+{
+  "id": "cdf-norma-morale",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The moral norm of Humanae Vitae and pastoral duty",
+    "it": "La norma morale di «Humanae vitae» e il compito pastorale"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1989-02-16",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1989-02-16"
+  },
+  "composed": "1989",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19890216_norma-morale_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19890216_norma-morale_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The moral norm of Humanae Vitae and pastoral duty",
+        "it": "La norma morale di «Humanae vitae» e il compito pastorale"
+      }
+    }
+  ]
+}

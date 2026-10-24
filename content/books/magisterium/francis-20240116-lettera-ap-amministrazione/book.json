@@ -1,0 +1,56 @@
+{
+  "id": "francis-20240116-lettera-ap-amministrazione",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued “Motu Proprio” of the Supreme Pontiff Francis on the limits and modalities of ordinary administration",
+    "es": "Carta Apostólica en forma de Motu Proprio acerca del límite y el modo de la administración ordinaria",
+    "it": "Lettera Apostolica in forma di Motu Proprio circa i limiti e le modalità dell'ordinaria amministrazione"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2024-01-16",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2024-01-16"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_letters/documents/20240116-lettera-ap-amministrazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_letters/documents/20240116-lettera-ap-amministrazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/20240116-lettera-ap-amministrazione.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued “Motu Proprio” of the Supreme Pontiff Francis on the limits and modalities of ordinary administration",
+        "es": "Carta Apostólica en forma de Motu Proprio acerca del límite y el modo de la administración ordinaria",
+        "it": "Lettera Apostolica in forma di Motu Proprio circa i limiti e le modalità dell'ordinaria amministrazione"
+      }
+    }
+  ]
+}

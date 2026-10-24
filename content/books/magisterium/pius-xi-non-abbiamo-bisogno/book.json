@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-non-abbiamo-bisogno",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Non Abbiamo Bisogno",
+    "es": "Non abbiamo bisogno",
+    "it": "Non Abbiamo Bisogno"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1931-06-29",
+    "pt-BR": "Encíclica · Papa Pio XI · 1931-06-29"
+  },
+  "composed": "1931",
+  "languages": [
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29061931_non-abbiamo-bisogno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19310629_non-abbiamo-bisogno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19310629_non-abbiamo-bisogno.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Non Abbiamo Bisogno",
+        "es": "Non abbiamo bisogno",
+        "it": "Non Abbiamo Bisogno"
+      }
+    }
+  ]
+}

@@ -95,8 +95,8 @@ function inferRole(node: TocNode, depth: number): TocRole {
 
 /**
  * The reading flow: every node the reader paginates through, in DFS preorder.
- * A leaf is always a page, even without a body entry (external books populate
- * their chapter map lazily). A group node (Part/Section) becomes a page only
+ * The TOC is first narrowed to `lang` (see tocForLanguage); of what remains,
+ * every leaf is a page and a group node (Part/Section) becomes a page only
  * when it carries a body file for this language — otherwise it stays a pure
  * structural grouping, visible in the TOC sheet but not in the flow.
  */
@@ -105,23 +105,74 @@ export function flattenReadingFlow(
   manifest: Pick<BookEntry, 'chapters'>,
   lang: string,
 ): ReadingNode[] {
+  return readingFlowOf(tocForLanguage(toc, manifest, lang), manifest, lang)
+}
+
+/** flattenReadingFlow over a TOC already narrowed by tocForLanguage, for a caller
+ *  that keeps the narrowed TOC anyway and shouldn't walk a large one twice. */
+export function readingFlowOf(
+  languageToc: TocNode[],
+  manifest: Pick<BookEntry, 'chapters'>,
+  lang: string,
+): ReadingNode[] {
   const flow: ReadingNode[] = []
   function walk(nodes: TocNode[], depth: number) {
     for (const node of nodes) {
       const isGroup = !!node.children?.length
-      const hasBody = !!manifest.chapters?.[node.id]?.[lang]
-      if (!isGroup || hasBody) {
+      if (!isGroup || manifest.chapters?.[node.id]?.[lang]) {
         flow.push({ id: node.id, index: flow.length, role: inferRole(node, depth) })
       }
       if (isGroup) walk(node.children as TocNode[], depth + 1)
     }
   }
-  walk(toc, 0)
+  walk(languageToc, 0)
   return flow
 }
 
-/** The content language to read a book in: the preferred one when the book has it, else its first. */
-export function bookLang(langs: readonly string[], preferred: string): string {
+/** The table of contents as read in `lang`: chapters that exist only in other
+ *  languages (a council's Greek acts, read in English) are dropped, and so is any
+ *  section left empty. A leaf with no bodies at all stays: external books
+ *  populate their chapter map lazily. Untouched nodes and arrays keep their
+ *  identity, so a book whose languages share one TOC comes back as the same
+ *  array and memoized consumers don't recompute. */
+export function tocForLanguage(
+  toc: TocNode[],
+  manifest: Pick<BookEntry, 'chapters'>,
+  lang: string,
+): TocNode[] {
+  function narrow(nodes: TocNode[], depth: number): TocNode[] {
+    let changed = false
+    const out: TocNode[] = []
+    for (const node of nodes) {
+      const kept = narrowNode(node, depth)
+      if (kept !== node) changed = true
+      if (kept) out.push(kept)
+    }
+    return changed ? out : nodes
+  }
+  function narrowNode(node: TocNode, depth: number): TocNode | undefined {
+    const bodies = manifest.chapters?.[node.id]
+    const hasBody = !!bodies?.[lang]
+    if (!node.children?.length) {
+      const otherLanguageOnly = !hasBody && !!bodies && Object.keys(bodies).length > 0
+      return otherLanguageOnly ? undefined : node
+    }
+    const children = narrow(node.children, depth + 1)
+    if (children === node.children) return node
+    if (!children.length && !hasBody) return undefined
+    // A group left with only its own body reads as the part or section it was,
+    // not as a chapter, so its role is pinned before its children go.
+    return children.length
+      ? { ...node, children }
+      : { ...node, role: inferRole(node, depth), children }
+  }
+  return narrow(toc, 0)
+}
+
+/** The language a book opens in: the one the reader last switched it to, else the
+ *  person's content language, else the book's first language. */
+export function bookLang(langs: readonly string[], preferred: string, override?: string): string {
+  if (override && langs.includes(override)) return override
   return langs.includes(preferred) ? preferred : (langs[0] ?? 'en-US')
 }
 

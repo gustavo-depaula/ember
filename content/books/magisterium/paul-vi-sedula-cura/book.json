@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-sedula-cura",
+  "cover": "quarter",
+  "name": {
+    "la": "Sedula cura - De Pontificia Commissione Biblica ordinanda novae leges statuuntur, Litterae Apostolicae Motu Proprio datae, D. 27 m. Iunii a. 1971, Paulus PP.VI",
+    "it": "Sedula cura - Lettera Apostolica in forma di Motu Proprio nella quale vengono stabilite nuove leggi per riordinare la Pontificia Commissione Biblica"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1971-06-27",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1971-06-27"
+  },
+  "composed": "1971",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19710627_sedula-cura.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19710627_sedula-cura.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sedula cura - De Pontificia Commissione Biblica ordinanda novae leges statuuntur, Litterae Apostolicae Motu Proprio datae, D. 27 m. Iunii a. 1971, Paulus PP.VI",
+        "it": "Sedula cura - Lettera Apostolica in forma di Motu Proprio nella quale vengono stabilite nuove leggi per riordinare la Pontificia Commissione Biblica"
+      }
+    }
+  ]
+}

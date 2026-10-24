@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-ex-quo-infensissimi",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Ex quo infensissimi"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius IX · 1867-11-14",
+    "pt-BR": "Breve · Papa Pio IX · 1867-11-14"
+  },
+  "composed": "1867",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/breve-ex-quo-infensissimi-14-novembre-1867.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Ex quo infensissimi"
+      }
+    }
+  ]
+}

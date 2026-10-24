@@ -1,0 +1,40 @@
+{
+  "id": "innocent-iii-orationes-tres-pro-defensione-et-tranquillitate-ecclesiae",
+  "cover": "quarter",
+  "name": {
+    "la": "Orationes Tres Pro Defensione et Tranquillitate Ecclesiae"
+  },
+  "author": {
+    "en-US": "Pope Innocent III",
+    "pt-BR": "Papa Inocêncio III",
+    "la": "Innocentius PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent III · 1198",
+    "pt-BR": "Documento · Papa Inocêncio III · 1198"
+  },
+  "composed": "1198",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-iii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1198-1216,_SS_Innocentius_III,_Orationes_Tres_Pro_Defensione_et_Tranquillitate_Ecclesiae,_MLT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Orationes Tres Pro Defensione et Tranquillitate Ecclesiae"
+      }
+    }
+  ]
+}

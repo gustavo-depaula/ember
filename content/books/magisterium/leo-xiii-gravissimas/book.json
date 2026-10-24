@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-gravissimas",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Gravissimas"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1901-05-16",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1901-05-16"
+  },
+  "composed": "1901",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_16051901_gravissimas.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Gravissimas"
+      }
+    }
+  ]
+}

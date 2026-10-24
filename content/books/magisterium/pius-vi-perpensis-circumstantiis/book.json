@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-perpensis-circumstantiis",
+  "cover": "quarter",
+  "name": {
+    "it": "Dichiarazione Perpensis circumstantiis"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius VI · 1792-12-10",
+    "pt-BR": "Documento · Papa Pio VI · 1792-12-10"
+  },
+  "composed": "1792",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/dichiarazione-perpensis-circumstantiis-10-dicembre-1792.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Dichiarazione Perpensis circumstantiis"
+      }
+    }
+  ]
+}

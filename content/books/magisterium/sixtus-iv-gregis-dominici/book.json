@@ -1,0 +1,40 @@
+{
+  "id": "sixtus-iv-gregis-dominici",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'Gregis Dominici'"
+  },
+  "author": {
+    "en-US": "Pope Sixtus IV",
+    "pt-BR": "Papa Sisto IV",
+    "la": "Sixtus PP. IV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Sixtus IV · 1482-04-18",
+    "pt-BR": "Bula · Papa Sisto IV · 1482-04-18"
+  },
+  "composed": "1482",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "sixtus-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1482-04-18,_SS_Sixtus_IV,_Bulla_'Gregis_Dominici',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'Gregis Dominici'"
+      }
+    }
+  ]
+}

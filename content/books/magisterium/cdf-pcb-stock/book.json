@@ -1,0 +1,40 @@
+{
+  "id": "cdf-pcb-stock",
+  "cover": "quarter",
+  "name": {
+    "it": "I cento anni della Pontificia Commissione Biblica - Pontificia Commissione Biblica"
+  },
+  "author": {
+    "en-US": "Pontifical Biblical Commission",
+    "pt-BR": "Pontifícia Comissão Bíblica",
+    "la": "Pontificia Commissio Biblica"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Pontifical Biblical Commission · 2002-10-30",
+    "pt-BR": "Documento da Cúria Romana · Pontifícia Comissão Bíblica · 2002-10-30"
+  },
+  "composed": "2002",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-pcb"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_20021030_stock_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "I cento anni della Pontificia Commissione Biblica - Pontificia Commissione Biblica"
+      }
+    }
+  ]
+}

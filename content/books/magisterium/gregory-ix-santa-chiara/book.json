@@ -1,0 +1,56 @@
+{
+  "id": "gregory-ix-santa-chiara",
+  "cover": "quarter",
+  "name": {
+    "la": "Bolla A Santa Chiara",
+    "pt-BR": "Bolla A Santa Chiara",
+    "it": "Bolla A Santa Chiara"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Bull · Pope Gregory IX · 1228-09-17",
+    "pt-BR": "Bula · Papa Gregório IX · 1228-09-17"
+  },
+  "composed": "1228",
+  "languages": [
+    "la",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1228-09-17,_SS_Gregorius_VIIII,_Sicut_Manifestum_Est,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1228-09-17,_SS_Gregorius_VIIII,_Sicut_Manifestum_Est,_PT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1228-09-17,_SS_Gregorius_VIIII,_Bolla_A_Santa_Chiara,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bolla A Santa Chiara",
+        "pt-BR": "Bolla A Santa Chiara",
+        "it": "Bolla A Santa Chiara"
+      }
+    }
+  ]
+}

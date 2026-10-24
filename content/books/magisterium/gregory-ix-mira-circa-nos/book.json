@@ -1,0 +1,48 @@
+{
+  "id": "gregory-ix-mira-circa-nos",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Mira Circa Nos",
+    "es": "Mira Circa Nos"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory IX · 1228-06-16",
+    "pt-BR": "Documento · Papa Gregório IX · 1228-06-16"
+  },
+  "composed": "1228",
+  "languages": [
+    "en-US",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/greg09/g9mira.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1228-07-19,_SS_Gregorius_VIIII,_Mira_Circa_Nos,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Mira Circa Nos",
+        "es": "Mira Circa Nos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-hanno-sempre",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Hanno sempre"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory XVI · 1838-09-18",
+    "pt-BR": "Carta · Papa Gregório XVI · 1838-09-18"
+  },
+  "composed": "1838",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/epistola-hanno-sempre-18-settembre-1838.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Hanno sempre"
+      }
+    }
+  ]
+}

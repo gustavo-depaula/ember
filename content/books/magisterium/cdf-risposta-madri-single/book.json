@@ -1,0 +1,64 @@
+{
+  "id": "cdf-risposta-madri-single",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to His Excellency, the Most Reverend Ramón Alfredo de la Cruz Baldera, Bishop of the Diocese of San Francisco de Macorís (Dominican Republic) Regarding Access to Eucharistic Communion for Single Mothers",
+    "es": "Carta a S.E. Mons. Ramón Alfredo de la Cruz Baldera, Obispo de San Francisco de Macorís (República Dominicana) sobre el acceso a la comunión eucarística de las madres solteras",
+    "hr": "Pismo mons. Ramónu Alfredu de la Cruz Balderi, biskupu dijeceze San Francisco de Macorís (Dominikanska Republika) o pristupu samohranih majki euharistijskoj pričesti",
+    "it": "Lettera a S.E. Mons. Ramón Alfredo de la Cruz Baldera, Vescovo di San Francisco de Macorís (Repubblica Dominicana) circa l’accesso alla comunione eucaristica delle madri single"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2023-12-13",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2023-12-13"
+  },
+  "composed": "2023",
+  "languages": [
+    "en-US",
+    "es",
+    "hr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_hr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231213_risposta-madri-single_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to His Excellency, the Most Reverend Ramón Alfredo de la Cruz Baldera, Bishop of the Diocese of San Francisco de Macorís (Dominican Republic) Regarding Access to Eucharistic Communion for Single Mothers",
+        "es": "Carta a S.E. Mons. Ramón Alfredo de la Cruz Baldera, Obispo de San Francisco de Macorís (República Dominicana) sobre el acceso a la comunión eucarística de las madres solteras",
+        "hr": "Pismo mons. Ramónu Alfredu de la Cruz Balderi, biskupu dijeceze San Francisco de Macorís (Dominikanska Republika) o pristupu samohranih majki euharistijskoj pričesti",
+        "it": "Lettera a S.E. Mons. Ramón Alfredo de la Cruz Baldera, Vescovo di San Francisco de Macorís (Repubblica Dominicana) circa l’accesso alla comunione eucaristica delle madri single"
+      }
+    }
+  ]
+}

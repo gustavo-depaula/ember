@@ -1,0 +1,48 @@
+{
+  "id": "cdf-pcb-condanna-opera",
+  "cover": "quarter",
+  "name": {
+    "la": "De opere R.D. Friderici Schmidtke, cui titulus Die Einwanderung Israels in Kanaan - Pontificia Commissio Biblica",
+    "it": "L'opera del R.D. Federico Schmidtke dal titolo Die Einwanderung Israels in Kanaan - Pontificia Commissione Biblica"
+  },
+  "author": {
+    "en-US": "Pontifical Biblical Commission",
+    "pt-BR": "Pontifícia Comissão Bíblica",
+    "la": "Pontificia Commissio Biblica"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Pontifical Biblical Commission · 1934-02-27",
+    "pt-BR": "Documento da Cúria Romana · Pontifícia Comissão Bíblica · 1934-02-27"
+  },
+  "composed": "1934",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-pcb"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19340227_condanna-opera_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19340227_condanna-opera_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "De opere R.D. Friderici Schmidtke, cui titulus Die Einwanderung Israels in Kanaan - Pontificia Commissio Biblica",
+        "it": "L'opera del R.D. Federico Schmidtke dal titolo Die Einwanderung Israels in Kanaan - Pontificia Commissione Biblica"
+      }
+    }
+  ]
+}

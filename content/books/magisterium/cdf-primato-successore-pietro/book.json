@@ -1,0 +1,80 @@
+{
+  "id": "cdf-primato-successore-pietro",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Primacy of the Successor of Peter in the Mystery of the Church",
+    "pt-BR": "O Primado do sucessor de Pedro no mistério da Igreja, 31 de outubro de 1998",
+    "de": "Der Primat des Nachfolgers Petri im Geheimnis der Kirche",
+    "es": "El primado del Sucesor de Pedro en el ministerio de la Iglesia- Consderaciones, 31 octubre 1998",
+    "it": "Considerazioni «Il Primato del successore di Pietro nel mistero della Chiesa», 31 ottobre 1998 - Congregazione per la Dottrina della Fede",
+    "pl": "PRYMAT NASTĘPCY PIOTRA W TAJEMNICY KOŚCIOŁA"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1998-10-31",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1998-10-31"
+  },
+  "composed": "1998",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19981031_primato-successore-pietro_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19981031_primato-successore-pietro_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19981031_primato-successore-pietro_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19981031_primato-successore-pietro_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19981031_primato-successore-pietro_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19981031_primato-successore-pietro_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Primacy of the Successor of Peter in the Mystery of the Church",
+        "pt-BR": "O Primado do sucessor de Pedro no mistério da Igreja, 31 de outubro de 1998",
+        "de": "Der Primat des Nachfolgers Petri im Geheimnis der Kirche",
+        "es": "El primado del Sucesor de Pedro en el ministerio de la Iglesia- Consderaciones, 31 octubre 1998",
+        "it": "Considerazioni «Il Primato del successore di Pietro nel mistero della Chiesa», 31 ottobre 1998 - Congregazione per la Dottrina della Fede",
+        "pl": "PRYMAT NASTĘPCY PIOTRA W TAJEMNICY KOŚCIOŁA"
+      }
+    }
+  ]
+}

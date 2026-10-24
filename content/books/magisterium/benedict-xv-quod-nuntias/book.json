@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-quod-nuntias",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Quod Nuntias al Reverendo Giovanni Giuseppe, nel primo centenario della fondazione dei Fratelli dell’Istruzione Cristiana di Ploërmel"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1917-06-16",
+    "pt-BR": "Carta · Papa Bento XV · 1917-06-16"
+  },
+  "composed": "1917",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1917/documents/hf_ben-xv_let_19170616_quod-nuntias.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Quod Nuntias al Reverendo Giovanni Giuseppe, nel primo centenario della fondazione dei Fratelli dell’Istruzione Cristiana di Ploërmel"
+      }
+    }
+  ]
+}

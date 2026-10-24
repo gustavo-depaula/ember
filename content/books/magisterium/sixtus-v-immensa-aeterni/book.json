@@ -1,0 +1,40 @@
+{
+  "id": "sixtus-v-immensa-aeterni",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutio 'Immensa Aeterni'"
+  },
+  "author": {
+    "en-US": "Pope Sixtus V",
+    "pt-BR": "Papa Sisto V",
+    "la": "Sixtus PP. V"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Sixtus V · 1588-02-11",
+    "pt-BR": "Constituição Apostólica · Papa Sisto V · 1588-02-11"
+  },
+  "composed": "1588",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "sixtus-v"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1588-02-11,_SS_Sixtus_V,_Constitutio_'Immensa_Aeterni',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Constitutio 'Immensa Aeterni'"
+      }
+    }
+  ]
+}

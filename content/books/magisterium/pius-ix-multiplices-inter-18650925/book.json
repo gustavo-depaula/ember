@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-multiplices-inter-18650925",
+  "cover": "quarter",
+  "name": {
+    "la": "Allocutio Multiplices inter",
+    "it": "Allocuzione Multiplices inter"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius IX · 1865-09-25",
+    "pt-BR": "Alocução · Papa Pio IX · 1865-09-25"
+  },
+  "composed": "1865",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/allocutio-multiplices-inter-25-septembris-1865.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/allocutio-multiplices-inter-25-septembris-1865.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Allocutio Multiplices inter",
+        "it": "Allocuzione Multiplices inter"
+      }
+    }
+  ]
+}

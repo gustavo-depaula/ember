@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-counsel-to-teaching-sisters",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Counsel To Teaching Sisters"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1951-10-15",
+    "pt-BR": "Documento · Papa Pio XII · 1951-10-15"
+  },
+  "composed": "1951",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12tchrs.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Counsel To Teaching Sisters"
+      }
+    }
+  ]
+}

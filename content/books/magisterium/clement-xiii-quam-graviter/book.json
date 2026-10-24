@@ -1,0 +1,40 @@
+{
+  "id": "clement-xiii-quam-graviter",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Quam graviter"
+  },
+  "author": {
+    "en-US": "Pope Clement XIII",
+    "pt-BR": "Papa Clemente XIII",
+    "la": "Clemens PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Clement XIII · 1766-06-25",
+    "pt-BR": "Encíclica · Papa Clemente XIII · 1766-06-25"
+  },
+  "composed": "1766",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "clement-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiii/it/documents/enciclica-quam-graviter-25-giugno-1766.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Quam graviter"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "john-paul-ii-iv-cent-union-brest",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter for the Fourth Centenary of the Union of Brest",
+    "pt-BR": "Carta Apostólica pelo IV Centenário da União de Brest",
+    "es": "Carta Apostólica con ocasión del IV Centenario de la Unión de Brest",
+    "fr": "Lettre Apostolique à l'occasion du Quatrième Centenaire de l'Union de Brest",
+    "it": "Lettera Apostolica per il IV Centenario dell'Unione di Brest"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1995-11-12",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1995-11-12"
+  },
+  "composed": "1995",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1995/documents/hf_jp-ii_apl_19951112_iv-cent-union-brest.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1995/documents/hf_jp-ii_apl_19951112_iv-cent-union-brest.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1995/documents/hf_jp-ii_apl_19951112_iv-cent-union-brest.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1995/documents/hf_jp-ii_apl_19951112_iv-cent-union-brest.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1995/documents/hf_jp-ii_apl_19951112_iv-cent-union-brest.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter for the Fourth Centenary of the Union of Brest",
+        "pt-BR": "Carta Apostólica pelo IV Centenário da União de Brest",
+        "es": "Carta Apostólica con ocasión del IV Centenario de la Unión de Brest",
+        "fr": "Lettre Apostolique à l'occasion du Quatrième Centenaire de l'Union de Brest",
+        "it": "Lettera Apostolica per il IV Centenario dell'Unione di Brest"
+      }
+    }
+  ]
+}

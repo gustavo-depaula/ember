@@ -1,0 +1,88 @@
+{
+  "id": "benedict-xvi-verbum-domini",
+  "cover": "quarter",
+  "name": {
+    "la": "Verbum Domini, Adhortatio Apostolica Postsynodalis",
+    "en-US": "Verbum Domini: Post-Synodal Apostolic Exhortation on the Word of God in the Life and Mission of the Church",
+    "pt-BR": "Verbum Domini: Exortação Apostólica Pós-Sinodal sobre a Palavra de Deus na vida e na missão da Igreja",
+    "de": "Verbum Domini: Nachsynodales Apostolisches Schreiben über das Wort Gottes in Leben und Sendung der Kirche",
+    "fr": "Verbum Domini : Exhortation apostolique sur la Parole de Dieu dans la vie et dans la mission de l'Eglise",
+    "it": "Verbum Domini: Esortazione Apostolica Postsinodale sulla Parola di Dio nella vita e nella missione della Chiesa",
+    "ru": "Verbum Domini"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Benedict XVI · 2010-09-30",
+    "pt-BR": "Exortação Apostólica · Papa Bento XVI · 2010-09-30"
+  },
+  "composed": "2010",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "fr",
+    "it",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/content/benedict-xvi/ru/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Verbum Domini, Adhortatio Apostolica Postsynodalis",
+        "en-US": "Verbum Domini: Post-Synodal Apostolic Exhortation on the Word of God in the Life and Mission of the Church",
+        "pt-BR": "Verbum Domini: Exortação Apostólica Pós-Sinodal sobre a Palavra de Deus na vida e na missão da Igreja",
+        "de": "Verbum Domini: Nachsynodales Apostolisches Schreiben über das Wort Gottes in Leben und Sendung der Kirche",
+        "fr": "Verbum Domini : Exhortation apostolique sur la Parole de Dieu dans la vie et dans la mission de l'Eglise",
+        "it": "Verbum Domini: Esortazione Apostolica Postsinodale sulla Parola di Dio nella vita e nella missione della Chiesa",
+        "ru": "Verbum Domini"
+      }
+    }
+  ]
+}

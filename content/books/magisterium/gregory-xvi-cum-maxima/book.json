@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-cum-maxima",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Cum maxima"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory XVI · 1844-03-31",
+    "pt-BR": "Carta · Papa Gregório XVI · 1844-03-31"
+  },
+  "composed": "1844",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/epistola-cum-maxima-31-marzo-1844.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Cum maxima"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-socialium-scientiarum",
+  "cover": "quarter",
+  "name": {
+    "la": "Socialium Scientiarum - Litterae apostolicae motu proprio datae",
+    "es": "Socialium Scientiarum: Institución de la Academia Pontificia de Ciencias Sociales",
+    "it": "Socialium Scientiarum"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1994-01-01",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1994-01-01"
+  },
+  "composed": "1994",
+  "languages": [
+    "la",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_01011994_socialium-scientiarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_01011994_socialium-scientiarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1994/documents/hf_jp-ii_apl_19940101_socialium-scientiarum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Socialium Scientiarum - Litterae apostolicae motu proprio datae",
+        "es": "Socialium Scientiarum: Institución de la Academia Pontificia de Ciencias Sociales",
+        "it": "Socialium Scientiarum"
+      }
+    }
+  ]
+}

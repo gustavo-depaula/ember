@@ -1,0 +1,48 @@
+{
+  "id": "innocent-iv-in-divinis-timoris",
+  "cover": "quarter",
+  "name": {
+    "la": "In Divinis Timoris",
+    "pt-BR": "In Divinis Timoris"
+  },
+  "author": {
+    "en-US": "Pope Innocent IV",
+    "pt-BR": "Papa Inocêncio IV",
+    "la": "Innocentius PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent IV · 1243-11-13",
+    "pt-BR": "Documento · Papa Inocêncio IV · 1243-11-13"
+  },
+  "composed": "1243",
+  "languages": [
+    "la",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1243-11-13,_SS_Innocentius_IV,_In_Divinis_Timoris,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1243-11-13,_SS_Innocentius_IV,_In_Divinis_Timoris,_PT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "In Divinis Timoris",
+        "pt-BR": "In Divinis Timoris"
+      }
+    }
+  ]
+}

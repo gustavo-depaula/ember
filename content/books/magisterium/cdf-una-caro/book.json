@@ -1,0 +1,88 @@
+{
+  "id": "cdf-una-caro",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Una caro. In Praise of Monogamy. Doctrinal Note on the Value of Matrimony as an Exclusive Union and Mutual Belonging",
+    "pt-BR": "Una caro. Elogio à monogamia. Nota doutrinal sobre o valor do matrimônio como união exclusiva e pertencimento recíproco",
+    "be": "ДЫКАСТЭРЫЯ ВЕРАВУЧЭННЯ UNA CARO Пахвала манагаміі Дактрынальная нота пра каштоўнасць сужэнства як выключнага саюзу і ўзаемнай прыналежнасці",
+    "de": "Una caro. Lobpreis der Monogamie. Lehrmäßige Note über den Wert der Ehe als ausschließliche Verbindung und gegenseitige Zugehörigkeit",
+    "es": "Una caro. Elogio de la monogamia. Nota doctrinal sobre el valor del matrimonio como unión exclusiva y pertenencia recíproca",
+    "fr": "Una caro. Éloge de la monogamie. Note doctrinale sur la valeur du mariage comme union exclusive et appartenance réciproque",
+    "it": "Una caro - Elogio della monogamia. Nota dottrinale sul valore del matrimonio come unione esclusiva e appartenenza reciproca"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2025-11-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2025-11-25"
+  },
+  "composed": "2025",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_be.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20251125_una-caro_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Una caro. In Praise of Monogamy. Doctrinal Note on the Value of Matrimony as an Exclusive Union and Mutual Belonging",
+        "pt-BR": "Una caro. Elogio à monogamia. Nota doutrinal sobre o valor do matrimônio como união exclusiva e pertencimento recíproco",
+        "be": "ДЫКАСТЭРЫЯ ВЕРАВУЧЭННЯ UNA CARO Пахвала манагаміі Дактрынальная нота пра каштоўнасць сужэнства як выключнага саюзу і ўзаемнай прыналежнасці",
+        "de": "Una caro. Lobpreis der Monogamie. Lehrmäßige Note über den Wert der Ehe als ausschließliche Verbindung und gegenseitige Zugehörigkeit",
+        "es": "Una caro. Elogio de la monogamia. Nota doctrinal sobre el valor del matrimonio como unión exclusiva y pertenencia recíproca",
+        "fr": "Una caro. Éloge de la monogamie. Note doctrinale sur la valeur du mariage comme union exclusive et appartenance réciproque",
+        "it": "Una caro - Elogio della monogamia. Nota dottrinale sul valore del matrimonio come unione esclusiva e appartenenza reciproca"
+      }
+    }
+  ]
+}

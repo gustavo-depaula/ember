@@ -1,0 +1,48 @@
+{
+  "id": "eugene-iv-moyses-vir",
+  "cover": "quarter",
+  "name": {
+    "la": "Decretum Moyses vir (4 Sept. 1439), contra Conc. Basileense",
+    "it": "Decreto Moyses, vir Dei"
+  },
+  "author": {
+    "en-US": "Pope Eugene IV",
+    "pt-BR": "Papa Eugênio IV",
+    "la": "Eugenius PP. IV"
+  },
+  "description": {
+    "en-US": "Decree · Pope Eugene IV · 1439-09-04",
+    "pt-BR": "Decreto · Papa Eugênio IV · 1439-09-04"
+  },
+  "composed": "1439",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "decree",
+    "eugene-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/eugenius-iv/la/documents/decretum-moyses-vir-4-sept-1439.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/eugenius-iv/it/documents/decretum-moyses-vir-4-sept-1439.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decretum Moyses vir (4 Sept. 1439), contra Conc. Basileense",
+        "it": "Decreto Moyses, vir Dei"
+      }
+    }
+  ]
+}

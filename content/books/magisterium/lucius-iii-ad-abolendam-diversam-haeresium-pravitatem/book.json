@@ -1,0 +1,40 @@
+{
+  "id": "lucius-iii-ad-abolendam-diversam-haeresium-pravitatem",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad Abolendam Diversam Haeresium Pravitatem"
+  },
+  "author": {
+    "en-US": "Pope Lucius III",
+    "pt-BR": "Papa Lúcio III",
+    "la": "Lucius PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Lucius III · 1184-11-04",
+    "pt-BR": "Documento · Papa Lúcio III · 1184-11-04"
+  },
+  "composed": "1184",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "lucius-iii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1184-11-04,_SS_Lucius_III,_Ad_Abolendam_Diversam_Haeresium_Pravitatem,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad Abolendam Diversam Haeresium Pravitatem"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xvi-que-acompanha-o-motu-proprio-summorum-pontificum",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Carta que acompanha o motu proprio ‘Summorum pontificum'"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XVI · 2007-07-07",
+    "pt-BR": "Motu Proprio · Papa Bento XVI · 2007-07-07"
+  },
+  "composed": "2007",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/carta-que-acompanha-o-mp-summorum-pontificum-a-todos-os-bispos/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Carta que acompanha o motu proprio ‘Summorum pontificum'"
+      }
+    }
+  ]
+}

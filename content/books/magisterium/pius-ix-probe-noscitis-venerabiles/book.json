@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-probe-noscitis-venerabiles",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Probe Noscitis Venerabiles",
+    "it": "Probe Noscitis Venerabiles"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius IX · 1852-05-17",
+    "pt-BR": "Documento · Papa Pio IX · 1852-05-17"
+  },
+  "composed": "1852",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9proben.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1852-05-17,_SS_Pius_VIIII,_Probe_Noscitis,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Probe Noscitis Venerabiles",
+        "it": "Probe Noscitis Venerabiles"
+      }
+    }
+  ]
+}

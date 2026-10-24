@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-fidentem-piumque-animum",
+  "cover": "quarter",
+  "name": {
+    "la": "Fidentem piumque",
+    "en-US": "Fidentem piumque animum",
+    "pt-BR": "Fidentem Piumque Animum: sobre o Rosário de Nossa Senhora"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1896-09-20",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1896-09-20"
+  },
+  "composed": "1896",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Fidentem piumque",
+        "en-US": "Fidentem piumque animum",
+        "pt-BR": "Fidentem Piumque Animum: sobre o Rosário de Nossa Senhora"
+      }
+    }
+  ]
+}

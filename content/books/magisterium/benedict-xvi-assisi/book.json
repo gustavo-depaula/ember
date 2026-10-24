@@ -1,0 +1,88 @@
+{
+  "id": "benedict-xvi-assisi",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Totius orbis Motu Proprio datae, referentes novas ordinationes circa Basilicas Sancti Francisci atque Sanctae Mariae Angelorum in urbe Assisinate, die 9 m. Novembris A.D. MMV, Benedictus XVI",
+    "en-US": "Apostolic Letter issued Motu Proprio Totius orbis for the coordination of pastoral activities and initiatives at the Basilicas of Saint Francis and of Saint Mary of the Angels in Assisi",
+    "pt-BR": "Carta Apostólica sob forma de Motu proprio Totius orbis com novas disposições acerca das Basílicas de São Francisco e de Santa Maria dos Anjos em Assis",
+    "de": "Apostolisches Schreiben in Form eines \"Motu Proprio\" Totius orbis mit neuen Verfügungen für die Basiliken \"San Francesco\" und \"Santa Maria degli Angeli\" in Assisi",
+    "es": "Carta Apostólica en forma de Motu Proprio Totius orbis con nuevas disposiciones sobre las Basílicas de San Francisco y de Santa María de los Ángeles, en Asís",
+    "fr": "Lettre apostolique Motu Proprio Totius orbis contenant les nouvelles dispositions relatives aux basiliques Saint-François et Sainte-Marie-des-Anges à Assise",
+    "it": "Lettera Apostolica in forma di \"Motu Proprio\" Totius orbis contenente nuove disposizioni circa le Basiliche di San Francesco e di Santa Maria degli Angeli in Assisi"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Benedict XVI · 2005-11-09",
+    "pt-BR": "Carta Apostólica · Papa Bento XVI · 2005-11-09"
+  },
+  "composed": "2005",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/apost_letters/documents/hf_ben-xvi_apl_20051109_assisi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/apost_letters/documents/hf_ben-xvi_apl_20051109_assisi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/apost_letters/documents/hf_ben-xvi_apl_20051109_assisi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/apost_letters/documents/hf_ben-xvi_apl_20051109_assisi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/apost_letters/documents/hf_ben-xvi_apl_20051109_assisi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/apost_letters/documents/hf_ben-xvi_apl_20051109_assisi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/apost_letters/documents/hf_ben-xvi_apl_20051109_assisi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Totius orbis Motu Proprio datae, referentes novas ordinationes circa Basilicas Sancti Francisci atque Sanctae Mariae Angelorum in urbe Assisinate, die 9 m. Novembris A.D. MMV, Benedictus XVI",
+        "en-US": "Apostolic Letter issued Motu Proprio Totius orbis for the coordination of pastoral activities and initiatives at the Basilicas of Saint Francis and of Saint Mary of the Angels in Assisi",
+        "pt-BR": "Carta Apostólica sob forma de Motu proprio Totius orbis com novas disposições acerca das Basílicas de São Francisco e de Santa Maria dos Anjos em Assis",
+        "de": "Apostolisches Schreiben in Form eines \"Motu Proprio\" Totius orbis mit neuen Verfügungen für die Basiliken \"San Francesco\" und \"Santa Maria degli Angeli\" in Assisi",
+        "es": "Carta Apostólica en forma de Motu Proprio Totius orbis con nuevas disposiciones sobre las Basílicas de San Francisco y de Santa María de los Ángeles, en Asís",
+        "fr": "Lettre apostolique Motu Proprio Totius orbis contenant les nouvelles dispositions relatives aux basiliques Saint-François et Sainte-Marie-des-Anges à Assise",
+        "it": "Lettera Apostolica in forma di \"Motu Proprio\" Totius orbis contenente nuove disposizioni circa le Basiliche di San Francesco e di Santa Maria degli Angeli in Assisi"
+      }
+    }
+  ]
+}

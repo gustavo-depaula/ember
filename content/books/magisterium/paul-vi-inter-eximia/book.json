@@ -1,0 +1,72 @@
+{
+  "id": "paul-vi-inter-eximia",
+  "cover": "quarter",
+  "name": {
+    "la": "Inter eximia - De sacri Pallii concessione moderanda in Ecclesia Latina, Litterae Apostolicae Motu Proprio datae, Die 11 m. Maii A.D. 1978, Paulus PP.VI",
+    "en-US": "Inter Insigniores",
+    "es": "Inter eximia",
+    "fr": "Inter eximia episcopalis sur la concession du sacré pallium dans l'Eglise",
+    "it": "Inter eximia - Lettera Apostolica in forma di Motu Proprio sulla revisione dei privilegi circa la concessione del Pallio"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1978-05-11",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1978-05-11"
+  },
+  "composed": "1978",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19780511_inter-eximia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/paul06/p6interi.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/motu_proprio/documents/hf_p-vi_motu-proprio_19780511_inter-eximia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/paul-vi/fr/motu_proprio/documents/hf_p-vi_motu-proprio_19780511_inter-eximia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19780511_inter-eximia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Inter eximia - De sacri Pallii concessione moderanda in Ecclesia Latina, Litterae Apostolicae Motu Proprio datae, Die 11 m. Maii A.D. 1978, Paulus PP.VI",
+        "en-US": "Inter Insigniores",
+        "es": "Inter eximia",
+        "fr": "Inter eximia episcopalis sur la concession du sacré pallium dans l'Eglise",
+        "it": "Inter eximia - Lettera Apostolica in forma di Motu Proprio sulla revisione dei privilegi circa la concessione del Pallio"
+      }
+    }
+  ]
+}

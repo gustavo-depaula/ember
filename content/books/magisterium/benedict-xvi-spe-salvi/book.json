@@ -1,0 +1,152 @@
+{
+  "id": "benedict-xvi-spe-salvi",
+  "cover": "quarter",
+  "name": {
+    "la": "Spe Salvi - Litterae Encyclicae, Benedictus PP. XVI",
+    "en-US": "Spe salvi",
+    "pt-BR": "Spe salvi",
+    "ar": "Spe salvi - November 30, 2007",
+    "be": "Spe Salvi - Litterae Encyclicae, Benedictus PP. XVI",
+    "de": "Spe salvi",
+    "es": "Spe salvi",
+    "fr": "Spe salvi",
+    "hu": "SPE SALVI KEZDETŰ ENCIKLIKÁJA, XVI. Benedek Pápa",
+    "it": "Spe salvi",
+    "nl": "Spe Salvi - Encycliek over de christelije hoop, Benedictus XVI",
+    "pl": "Spe Salvi - Encyclika Benedikta XVI",
+    "ru": "Spe Salvi",
+    "vi": "THÔNG ĐIỆP SPE SALVI CỦA ĐỨC THÁNH CHA BÊNÊĐÍCTÔ XVI",
+    "zh": "Spe Salvi - Lettera Enciclica sulla speranza cristiana, Benedetto XVI"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XVI · 2007-11-30",
+    "pt-BR": "Encíclica · Papa Bento XVI · 2007-11-30"
+  },
+  "composed": "2007",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "nl",
+    "pl",
+    "ru",
+    "vi",
+    "zh"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/benedict-xvi/ar/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/benedict-xvi/be/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/benedict-xvi/hu/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/content/benedict-xvi/nl/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/content/benedict-xvi/ru/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/content/benedict-xvi/vi/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh",
+      "url": "https://www.vatican.va/content/benedict-xvi/zh/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Spe Salvi - Litterae Encyclicae, Benedictus PP. XVI",
+        "en-US": "Spe salvi",
+        "pt-BR": "Spe salvi",
+        "ar": "Spe salvi - November 30, 2007",
+        "be": "Spe Salvi - Litterae Encyclicae, Benedictus PP. XVI",
+        "de": "Spe salvi",
+        "es": "Spe salvi",
+        "fr": "Spe salvi",
+        "hu": "SPE SALVI KEZDETŰ ENCIKLIKÁJA, XVI. Benedek Pápa",
+        "it": "Spe salvi",
+        "nl": "Spe Salvi - Encycliek over de christelije hoop, Benedictus XVI",
+        "pl": "Spe Salvi - Encyclika Benedikta XVI",
+        "ru": "Spe Salvi",
+        "vi": "THÔNG ĐIỆP SPE SALVI CỦA ĐỨC THÁNH CHA BÊNÊĐÍCTÔ XVI",
+        "zh": "Spe Salvi - Lettera Enciclica sulla speranza cristiana, Benedetto XVI"
+      }
+    }
+  ]
+}

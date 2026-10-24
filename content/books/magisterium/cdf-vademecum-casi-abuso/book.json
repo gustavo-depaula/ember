@@ -1,0 +1,88 @@
+{
+  "id": "cdf-vademecum-casi-abuso",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Vademecum on certain points of procedure in treating cases of sexual abuse of minors committed by clerics",
+    "pt-BR": "Vademecum sobre alguns pontos de procedimento no tratamento dos casos de abuso sexual de menores cometidos por clérigos",
+    "de": "Vademecum zu einigen Fragen in den Verfahren zur Behandlung von Fällen sexuellen Missbrauchs Minderjähriger durch Kleriker",
+    "es": "Vademécum sobre algunas cuestiones procesales ante los casos de abuso sexual a menores cometidos por clérigos",
+    "fr": "Vademecum sur quelques points de procedure dans le traitement des cas d'abus sexuel sur mineur commis par des clercs",
+    "it": "Vademecum su alcuni punti di procedura nel trattamento dei casi di abuso sessuale di minori commessi da chierici",
+    "pl": "VADEMECUM DOTYCZĄCE WYBRANYCH KWESTII PROCEDURALNYCH W ZAKRESIE POSTĘPOWANIA W PRZYPADKACH NADUŻYĆ SEKSUALNYCH POPEŁNIANYCH PRZEZ DUCHOWNYCH WOBEC MAŁOLETNICH"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2020-07-16",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2020-07-16"
+  },
+  "composed": "2020",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200716_vademecum-casi-abuso_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Vademecum on certain points of procedure in treating cases of sexual abuse of minors committed by clerics",
+        "pt-BR": "Vademecum sobre alguns pontos de procedimento no tratamento dos casos de abuso sexual de menores cometidos por clérigos",
+        "de": "Vademecum zu einigen Fragen in den Verfahren zur Behandlung von Fällen sexuellen Missbrauchs Minderjähriger durch Kleriker",
+        "es": "Vademécum sobre algunas cuestiones procesales ante los casos de abuso sexual a menores cometidos por clérigos",
+        "fr": "Vademecum sur quelques points de procedure dans le traitement des cas d'abus sexuel sur mineur commis par des clercs",
+        "it": "Vademecum su alcuni punti di procedura nel trattamento dei casi di abuso sessuale di minori commessi da chierici",
+        "pl": "VADEMECUM DOTYCZĄCE WYBRANYCH KWESTII PROCEDURALNYCH W ZAKRESIE POSTĘPOWANIA W PRZYPADKACH NADUŻYĆ SEKSUALNYCH POPEŁNIANYCH PRZEZ DUCHOWNYCH WOBEC MAŁOLETNICH"
+      }
+    }
+  ]
+}

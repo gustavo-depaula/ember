@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-legionaries-jerusalem",
+  "cover": "quarter",
+  "name": {
+    "la": "Lettera apostolica in forma di Motu  Proprio con la quale si affida alla Congregazione dei Legionari di Cristo la cura e gestione del Pontificio Istituto Notre Dame of Jerusalem Center, presso la città di Gerusalemme (26 novembre 2004)",
+    "pt-BR": "Carta Apostólica sob forma de Motu Proprio com a qual confia à Congregação dos Legionários de Cristo os cuidados e a administração do \"Pontifício Instituto Notre-Dame of Jerusalem\" de Jerusalém",
+    "de": "Als Motu Proprio erlassenes Apostolisches Schreiben, mit dem der Kongregation der Legionäre Christi die Verwaltung und Leitung des Päpstlichen Institutes \"Notre Dame of Jerusalem Center\" in Jerusalem anvertraut wird",
+    "es": "Carta apostólica en forma de Motu Proprio con la que se confía el cuidado y la gestión del Instituto Pontificio \"Notre Dame of Jerusalem Center\" a la Congregación de los Legionarios de Cristo",
+    "fr": "Lettre apostolique en forme de Motu Proprio avec laquelle le Pape confie à la Congrégation des Légionnaires du Christ l'Institut pontifical «Notre Dame de Jérusalem» à Jérusalem",
+    "it": "Lettera apostolica in forma di Motu Proprio con la quale si affida alla Congregazione dei Legionari di Cristo la cura e gestione del Pontificio Istituto Notre Dame of Jerusalem Center, presso la città di Gerusalemme"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 2004-11-26",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 2004-11-26"
+  },
+  "composed": "2004",
+  "languages": [
+    "la",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2004-11-26,_SS_Ioannes_Paulus_II,_Motu_Proprio_'In_Continuazione',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20041126_legionaries-jerusalem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/motu_proprio/documents/hf_jp-ii_motu-proprio_20041126_legionaries-jerusalem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_20041126_legionaries-jerusalem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/motu_proprio/documents/hf_jp-ii_motu-proprio_20041126_legionaries-jerusalem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_20041126_legionaries-jerusalem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Lettera apostolica in forma di Motu  Proprio con la quale si affida alla Congregazione dei Legionari di Cristo la cura e gestione del Pontificio Istituto Notre Dame of Jerusalem Center, presso la città di Gerusalemme (26 novembre 2004)",
+        "pt-BR": "Carta Apostólica sob forma de Motu Proprio com a qual confia à Congregação dos Legionários de Cristo os cuidados e a administração do \"Pontifício Instituto Notre-Dame of Jerusalem\" de Jerusalém",
+        "de": "Als Motu Proprio erlassenes Apostolisches Schreiben, mit dem der Kongregation der Legionäre Christi die Verwaltung und Leitung des Päpstlichen Institutes \"Notre Dame of Jerusalem Center\" in Jerusalem anvertraut wird",
+        "es": "Carta apostólica en forma de Motu Proprio con la que se confía el cuidado y la gestión del Instituto Pontificio \"Notre Dame of Jerusalem Center\" a la Congregación de los Legionarios de Cristo",
+        "fr": "Lettre apostolique en forme de Motu Proprio avec laquelle le Pape confie à la Congrégation des Légionnaires du Christ l'Institut pontifical «Notre Dame de Jérusalem» à Jérusalem",
+        "it": "Lettera apostolica in forma di Motu Proprio con la quale si affida alla Congregazione dei Legionari di Cristo la cura e gestione del Pontificio Istituto Notre Dame of Jerusalem Center, presso la città di Gerusalemme"
+      }
+    }
+  ]
+}

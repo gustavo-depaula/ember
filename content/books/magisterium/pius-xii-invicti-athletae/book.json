@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-invicti-athletae",
+  "cover": "quarter",
+  "name": {
+    "la": "Invicti athletae Christi, die XVI m. Maii, A.D. MDCCCCLVII - Pius PP. XII, Litterae Encyclicae",
+    "en-US": "Invicti Athletae",
+    "it": "Invicti Athletae Christi"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1957-05-16",
+    "pt-BR": "Encíclica · Papa Pio XII · 1957-05-16"
+  },
+  "composed": "1957",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_16051957_invicti-athletae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Invicti athletae Christi, die XVI m. Maii, A.D. MDCCCCLVII - Pius PP. XII, Litterae Encyclicae",
+        "en-US": "Invicti Athletae",
+        "it": "Invicti Athletae Christi"
+      }
+    }
+  ]
+}

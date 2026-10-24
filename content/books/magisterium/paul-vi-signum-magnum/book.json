@@ -1,0 +1,64 @@
+{
+  "id": "paul-vi-signum-magnum",
+  "cover": "quarter",
+  "name": {
+    "la": "Signum Magnum",
+    "en-US": "Signum Magnum",
+    "pt-BR": "Signum Magnum",
+    "it": "Signum Magnum"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Paul VI · 1967-05-13",
+    "pt-BR": "Exortação Apostólica · Papa Paulo VI · 1967-05-13"
+  },
+  "composed": "1967",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_exhortations/documents/hf_p-vi_exh_19670513_signum-magnum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19670513_signum-magnum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/apost_exhortations/documents/hf_p-vi_exh_19670513_signum-magnum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19670513_signum-magnum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Signum Magnum",
+        "en-US": "Signum Magnum",
+        "pt-BR": "Signum Magnum",
+        "it": "Signum Magnum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "cdf-ratzinger-comm-divorced",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Reception of Holy Communion by divorced and remarried, Card. Joseph Ratzinger, 1998",
+    "pt-BR": "A propósito de algumas objeções contra a doutrina da Igreja acerca da recepção da eucaristia da parte dos fiéis divorciados recasados - Joseph Ratzinger",
+    "de": "Zu einigen Einwänden gegen die kirchliche Lehre über den Kommunionempfang von wiederverheirateten geschiedenen Gläubigen",
+    "es": "Sobre de la recepción de la Comunión eucarística por parte de los fieles divorciados y vueltos a casar",
+    "fr": "A propos de quelques objections à la doctrine de l'Eglise concernant la réception de la communion eucharistique de la part des fidèles divorcés remariés - Joseph Ratzinger",
+    "it": "A proposito di alcune obiezioni contro la dottrina della Chiesa circa la recezione della Comunione eucaristica da parte di fedeli divorziati risposati - Joseph Card. Ratzinger"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1998-01-01",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1998-01-01"
+  },
+  "composed": "1998",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980101_ratzinger-comm-divorced_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980101_ratzinger-comm-divorced_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980101_ratzinger-comm-divorced_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980101_ratzinger-comm-divorced_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980101_ratzinger-comm-divorced_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980101_ratzinger-comm-divorced_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Reception of Holy Communion by divorced and remarried, Card. Joseph Ratzinger, 1998",
+        "pt-BR": "A propósito de algumas objeções contra a doutrina da Igreja acerca da recepção da eucaristia da parte dos fiéis divorciados recasados - Joseph Ratzinger",
+        "de": "Zu einigen Einwänden gegen die kirchliche Lehre über den Kommunionempfang von wiederverheirateten geschiedenen Gläubigen",
+        "es": "Sobre de la recepción de la Comunión eucarística por parte de los fieles divorciados y vueltos a casar",
+        "fr": "A propos de quelques objections à la doctrine de l'Eglise concernant la réception de la communion eucharistique de la part des fidèles divorcés remariés - Joseph Ratzinger",
+        "it": "A proposito di alcune obiezioni contro la dottrina della Chiesa circa la recezione della Comunione eucaristica da parte di fedeli divorziati risposati - Joseph Card. Ratzinger"
+      }
+    }
+  ]
+}

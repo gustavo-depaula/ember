@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-principessa-belgio",
+  "cover": "quarter",
+  "name": {
+    "it": "Alla Principessa del Belgio, Enrichetta, Duchessa di Vendôme"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius X · 1903-12-16",
+    "pt-BR": "Carta · Papa Pio X · 1903-12-16"
+  },
+  "composed": "1903",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/letters/documents/hf_p-x_let_19031216_principessa-belgio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Alla Principessa del Belgio, Enrichetta, Duchessa di Vendôme"
+      }
+    }
+  ]
+}

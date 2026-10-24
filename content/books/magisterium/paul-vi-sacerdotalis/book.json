@@ -1,0 +1,88 @@
+{
+  "id": "paul-vi-sacerdotalis",
+  "cover": "quarter",
+  "name": {
+    "la": "Sacerdotalis Caelibatus, Litterae encyclicae, die XXIV mensis Iunii, anno MDCCCCLXVII - Paulus VI",
+    "en-US": "Sacerdotalis Caelibatus",
+    "pt-BR": "Sacerdotalis Caelibatus",
+    "de": "Sacerdotalis Caelibatus (June 24, 1967)",
+    "es": "Sacerdotalis Caelibatus",
+    "fr": "Sacerdotalis Caelibatus",
+    "it": "Sacerdotalis Caelibatus"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Paul VI · 1967-06-24",
+    "pt-BR": "Encíclica · Papa Paulo VI · 1967-06-24"
+  },
+  "composed": "1967",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1967-06-29,_SS_Paulus_VI,_Encyclica_'Sacerdotalis_Caelibatus',_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sacerdotalis Caelibatus, Litterae encyclicae, die XXIV mensis Iunii, anno MDCCCCLXVII - Paulus VI",
+        "en-US": "Sacerdotalis Caelibatus",
+        "pt-BR": "Sacerdotalis Caelibatus",
+        "de": "Sacerdotalis Caelibatus (June 24, 1967)",
+        "es": "Sacerdotalis Caelibatus",
+        "fr": "Sacerdotalis Caelibatus",
+        "it": "Sacerdotalis Caelibatus"
+      }
+    }
+  ]
+}

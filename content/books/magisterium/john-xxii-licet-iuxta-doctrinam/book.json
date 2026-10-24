@@ -1,0 +1,40 @@
+{
+  "id": "john-xxii-licet-iuxta-doctrinam",
+  "cover": "quarter",
+  "name": {
+    "it": "Licet Iuxta Doctrinam"
+  },
+  "author": {
+    "en-US": "Pope John XXII",
+    "pt-BR": "Papa João XXII",
+    "la": "Ioannes PP. XXII"
+  },
+  "description": {
+    "en-US": "Document · Pope John XXII · 1327-10-23",
+    "pt-BR": "Documento · Papa João XXII · 1327-10-23"
+  },
+  "composed": "1327",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "john-xxii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1327-10-23,_SS_Ioannes_XXII,_Licet_Iuxta_Doctrinam,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Licet Iuxta Doctrinam"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-presidente-usa-19430519",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to President Franklin Delano Roosevelt of the United States of America"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1943-05-19",
+    "pt-BR": "Carta · Papa Pio XII · 1943-05-19"
+  },
+  "composed": "1943",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/letters/documents/hf_p-xii_lett_19430519_presidente-usa.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to President Franklin Delano Roosevelt of the United States of America"
+      }
+    }
+  ]
+}

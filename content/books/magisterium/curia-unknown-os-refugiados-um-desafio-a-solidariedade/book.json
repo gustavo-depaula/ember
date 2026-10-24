@@ -1,0 +1,39 @@
+{
+  "id": "curia-unknown-os-refugiados-um-desafio-a-solidariedade",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Os refugiados: um desafio à solidariedade"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana"
+  },
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/documento-os-refugiados-um-desafio-a-solidariedade-1992/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Os refugiados: um desafio à solidariedade"
+      }
+    }
+  ]
+}

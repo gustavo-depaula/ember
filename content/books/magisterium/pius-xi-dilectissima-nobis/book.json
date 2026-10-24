@@ -1,0 +1,64 @@
+{
+  "id": "pius-xi-dilectissima-nobis",
+  "cover": "quarter",
+  "name": {
+    "la": "Dilectissima nobis, Epistulae Encyclicae ad E.mos PP. DD. Franciscum S. R. E. Presb. Card. Vidal et Barraquer Archiepiscopum Tarraconensem, Eustachium S. R. E. Presb. Card. Ilundain et Esteban Archiepiscopum Hispalensem, ceterisque RR. PP. DD. archiepiscopis et episcopis atque universo clero et populo Hispaniae: de iniusta rei catholtcae condicione in Hispania, d. 3 m. Iunii a. 1933, Pius PP. XI",
+    "en-US": "Dilectissima Nobis",
+    "es": "Dilectissima Nobis",
+    "it": "Dilectissima Nobis"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1933-06-03",
+    "pt-BR": "Encíclica · Papa Pio XI · 1933-06-03"
+  },
+  "composed": "1933",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_03061933_dilectissima-nobis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_03061933_dilectissima-nobis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19330603_dilectissima-nobis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19330603_dilectissima-nobis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Dilectissima nobis, Epistulae Encyclicae ad E.mos PP. DD. Franciscum S. R. E. Presb. Card. Vidal et Barraquer Archiepiscopum Tarraconensem, Eustachium S. R. E. Presb. Card. Ilundain et Esteban Archiepiscopum Hispalensem, ceterisque RR. PP. DD. archiepiscopis et episcopis atque universo clero et populo Hispaniae: de iniusta rei catholtcae condicione in Hispania, d. 3 m. Iunii a. 1933, Pius PP. XI",
+        "en-US": "Dilectissima Nobis",
+        "es": "Dilectissima Nobis",
+        "it": "Dilectissima Nobis"
+      }
+    }
+  ]
+}

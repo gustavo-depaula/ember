@@ -1,0 +1,40 @@
+{
+  "id": "pius-vii-ad-supremum",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Ad supremum"
+  },
+  "author": {
+    "en-US": "Pope Pius VII",
+    "pt-BR": "Papa Pio VII",
+    "la": "Pius PP. VII"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius VII · 1800-03-28",
+    "pt-BR": "Alocução · Papa Pio VII · 1800-03-28"
+  },
+  "composed": "1800",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-vii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vii/it/documents/allocuzione-ad-supremum-28-marzo-1800.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Ad supremum"
+      }
+    }
+  ]
+}

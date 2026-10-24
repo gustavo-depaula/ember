@@ -1,0 +1,11 @@
+# Cum Secundum
+
+Honorio, obispo, siervo de los siervos de Dios, a los dilectos hijos Priores y custodios de los hermanos menores, salud y apostólica bendición.
+
+Según el consejo del Sabio, nada se debe hacer sin reflexión (Cf. Prov 13,16), a fin de que no acontezca que después debamos arrepentirnos. De ahí que es oportuno para quienquiera que tenga la intención de efectuar un propósito de vida más perfecta, que sus ojos precedan a sus pasos, es decir que mida las propias fuerzas con el criterio de la prudencia, para que no suceda, Dios no lo permita, que queriendo cosas más altas, su paso no se torne vacilante (Sal 65,9) y se vuelva hacia atrás, destinado a ser transformado en estatua de sal (Gen 19,26) insípida, porque no fue capaz de sazonar el sacrificio de sí mismo, que quería ofrecer a Dios, con la sal de la sabiduría. En efecto, así como el sabio llega a ser insípido si no tiene fervor, así, quien es ferviente se cubre de confusión si no tiene sabor. Por esa razón, casi en todas las formas de vida religiosa está prudentemente establecido que cuantos tengan la intención de abrazar las observancias regulares, las experimenten antes durante algún tiempo y sean probados en ellas, para que después no tengan motivos de arrepentimiento, que no los podría excusar de la imputación de ligereza. Por consiguiente, con la autoridad de las presentes cartas les prohibimos admitir a alguien a la profesión de su Orden, si antes no ha hecho el ano de probación. Y una vez hecha la profesión, ningún hermano se atreva a dejar su Orden, y a ninguno sea lícito aceptar a los que han dejado la Orden.
+
+Prohibimos además que alguno de ustedes pueda salir fuera de la obediencia con el hábito de su religión y corromper la pureza de su pobreza. Si alguno, pues, presumiera hacerlo, sea lícito a ustedes imponer a tales hermanos las censuras eclesiásticas hasta que se hayan arrepentido.
+
+A nadie sea lícito, por tanto, violar en cualquier forma este escrito de nuestra prohibición y concesión, o de o sea temerariamente ir contra ella. Si, pues, alguno tiene la presunción de hacerlo, sepa que incurrirá en la indignación de Dios Todopoderoso y de los santos apóstoles Pedro y Pablo.
+
+Dada en Viterbo, el 22 de septiembre de 1220, en el quinto año de nuestro pontificado.

@@ -79,6 +79,10 @@ export function bookPaletteCursorId(bookId: string): string {
   return `book/${bookId}/palette`
 }
 
+export function bookLanguageCursorId(bookId: string): string {
+  return `book/${bookId}/language`
+}
+
 export function highlightCursorPrefix(bookId: string): string {
   return `book/${bookId}/highlight/`
 }

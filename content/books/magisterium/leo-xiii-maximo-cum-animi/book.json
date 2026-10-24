@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-maximo-cum-animi",
+  "cover": "quarter",
+  "name": {
+    "la": "Maximo cum animi",
+    "it": "Maximo cum animi"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1898-08-20",
+    "pt-BR": "Carta · Papa Leão XIII · 1898-08-20"
+  },
+  "composed": "1898",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/letters/documents/hf_l-xiii_let_18980820_maximo-cum-animi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18980820_maximo-cum-animi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Maximo cum animi",
+        "it": "Maximo cum animi"
+      }
+    }
+  ]
+}

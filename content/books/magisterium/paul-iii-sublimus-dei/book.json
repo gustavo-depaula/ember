@@ -1,0 +1,40 @@
+{
+  "id": "paul-iii-sublimus-dei",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Sublimus Dei"
+  },
+  "author": {
+    "en-US": "Pope Paul III",
+    "pt-BR": "Papa Paulo III",
+    "la": "Paulus PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Paul III · 1537-05-27",
+    "pt-BR": "Documento · Papa Paulo III · 1537-05-27"
+  },
+  "composed": "1537",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "paul-iii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1537-05-27,_SS_Paulus_III,_Sublimus_Dei,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Sublimus Dei"
+      }
+    }
+  ]
+}

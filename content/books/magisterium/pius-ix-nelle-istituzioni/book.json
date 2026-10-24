@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-nelle-istituzioni",
+  "cover": "quarter",
+  "name": {
+    "it": "Decreto Nelle istituzioni"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Decree · Pope Pius IX · 1848-03-14",
+    "pt-BR": "Decreto · Papa Pio IX · 1848-03-14"
+  },
+  "composed": "1848",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "decree",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/decreto-nelle-istituzioni-14-marzo-1848.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Decreto Nelle istituzioni"
+      }
+    }
+  ]
+}

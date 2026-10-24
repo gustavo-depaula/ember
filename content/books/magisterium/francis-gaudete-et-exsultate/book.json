@@ -1,0 +1,136 @@
+{
+  "id": "francis-gaudete-et-exsultate",
+  "cover": "quarter",
+  "name": {
+    "la": "Gaudete et exsultate: Adhortatio Apostolica de vocatione ad sanctitatem in mundo huius temporis (die XIX mensis Martii anno MMXVIII)",
+    "en-US": "\"Gaudete et exsultate\": Apostolic Exhortation on the call to holiness in today's world",
+    "ar": "\"Gaudete et exsultate\": Apostolic Exhortation on the call to holiness in today's world, 19 March 2018",
+    "be": "Gaudete et exsultate: Esortazione Apostolica sulla chiamata alla santità nel mondo contemporaneo",
+    "de": "\"Gaudete et exsultate\": Apostolisches Schreiben über den Ruf zur Heiligkeit in der Welt von heute",
+    "es": "Gaudete et exsultate: Exhortación Apostólica sobre la llamada a la santidad en el mundo contemporáneo",
+    "it": "\"Gaudete et exsultate\": Esortazione Apostolica sulla chiamata alla santità nel mondo contemporaneo",
+    "lv": "Gaudete et exsultate: Apustuliskais pamudinājums Par aicinājumu uz svētumu mūsdienu pasaulē",
+    "pl": "\"Gaudete et exsultate\": o powołaniu do świętości w świecie współczesnym",
+    "sl": "Papež Frančišek Apostolska spodbuda Veselite in radujte se Gaudete et exsultate O poklicanosti k svetosti in današnjem svetu",
+    "vi": "TÔNG HUẤN GAUDETE ET EXSULTATE CỦA ĐỨC GIÁO HOÀNG PHANXICÔ VỀ ƠN GỌI NÊN THÁNH TRONG THẾ GIỚI NGÀY NAY",
+    "zh-CN": "《你們要歡喜踴躍》",
+    "zh-TW": "《你們要歡喜踴躍》"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Francis · 2018-03-19",
+    "pt-BR": "Exortação Apostólica · Papa Francisco · 2018-03-19"
+  },
+  "composed": "2018",
+  "languages": [
+    "la",
+    "en-US",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "it",
+    "lv",
+    "pl",
+    "sl",
+    "vi",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/content/francesco/lv/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sl",
+      "url": "https://www.vatican.va/content/francesco/sl/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/content/francesco/vi/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Gaudete et exsultate: Adhortatio Apostolica de vocatione ad sanctitatem in mundo huius temporis (die XIX mensis Martii anno MMXVIII)",
+        "en-US": "\"Gaudete et exsultate\": Apostolic Exhortation on the call to holiness in today's world",
+        "ar": "\"Gaudete et exsultate\": Apostolic Exhortation on the call to holiness in today's world, 19 March 2018",
+        "be": "Gaudete et exsultate: Esortazione Apostolica sulla chiamata alla santità nel mondo contemporaneo",
+        "de": "\"Gaudete et exsultate\": Apostolisches Schreiben über den Ruf zur Heiligkeit in der Welt von heute",
+        "es": "Gaudete et exsultate: Exhortación Apostólica sobre la llamada a la santidad en el mundo contemporáneo",
+        "it": "\"Gaudete et exsultate\": Esortazione Apostolica sulla chiamata alla santità nel mondo contemporaneo",
+        "lv": "Gaudete et exsultate: Apustuliskais pamudinājums Par aicinājumu uz svētumu mūsdienu pasaulē",
+        "pl": "\"Gaudete et exsultate\": o powołaniu do świętości w świecie współczesnym",
+        "sl": "Papež Frančišek Apostolska spodbuda Veselite in radujte se Gaudete et exsultate O poklicanosti k svetosti in današnjem svetu",
+        "vi": "TÔNG HUẤN GAUDETE ET EXSULTATE CỦA ĐỨC GIÁO HOÀNG PHANXICÔ VỀ ƠN GỌI NÊN THÁNH TRONG THẾ GIỚI NGÀY NAY",
+        "zh-CN": "《你們要歡喜踴躍》",
+        "zh-TW": "《你們要歡喜踴躍》"
+      }
+    }
+  ]
+}

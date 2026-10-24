@@ -1,0 +1,64 @@
+{
+  "id": "john-xxiii-humanae-salutis",
+  "cover": "quarter",
+  "name": {
+    "la": "Humanae Salutis, Constitutio Apostolica qua SS. Oecumenicum Concilium Vaticanum II indicitur, 25 decembris 1961, Ioannes PP. XXIII",
+    "pt-BR": "Humanae Salutis, para a convocação do Concílio Ecumênico Vaticano II",
+    "es": "Humanae Salutis",
+    "it": "Humanae Salutis"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope John XXIII · 1961-12-25",
+    "pt-BR": "Constituição Apostólica · Papa João XXIII · 1961-12-25"
+  },
+  "composed": "1961",
+  "languages": [
+    "la",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-xxiii/la/apost_constitutions/1961/documents/hf_j-xxiii_apc_19611225_humanae-salutis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-xxiii/pt/apost_constitutions/1961/documents/hf_j-xxiii_apc_19611225_humanae-salutis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/apost_constitutions/1961/documents/hf_j-xxiii_apc_19611225_humanae-salutis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/apost_constitutions/1961/documents/hf_j-xxiii_apc_19611225_humanae-salutis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Humanae Salutis, Constitutio Apostolica qua SS. Oecumenicum Concilium Vaticanum II indicitur, 25 decembris 1961, Ioannes PP. XXIII",
+        "pt-BR": "Humanae Salutis, para a convocação do Concílio Ecumênico Vaticano II",
+        "es": "Humanae Salutis",
+        "it": "Humanae Salutis"
+      }
+    }
+  ]
+}

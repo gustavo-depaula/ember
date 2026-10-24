@@ -1,0 +1,128 @@
+{
+  "id": "francis-admirabile-signum",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Apostolica Admirabile signum de praesaepis significatione et bono (die I mensis Decembris, anno MMXIX)",
+    "en-US": "Apostolic Letter \"Admirabile signum\" on the meaning and importance of the nativity scene",
+    "ar": "Apostolic Letter \"Admirabile signum\", 1 December 2019",
+    "be": "АПОСТАЛЬСКІ ЛІСТ ADMIRABILE SIGNUM СВЯТОГА АЙЦА ФРАНЦІШКА ПРА ЗНАЧЭННЕ І ВАЖНАСЦЬ БЭТЛЕЕМСКІХ ЯСЛЯЎ",
+    "de": "Apostolisches Schreiben Admirabile signum über die Bedeutung und den Wert der Weihnachtskrippe",
+    "es": "Carta apostólica Admirabile signum sobre el significado y el valor del belén",
+    "fr": "Lettre apostolique Admirabile signum sur la signification et la valeur de la crèche",
+    "it": "Lettera Apostolica \"Admirabile signum\" sul significato e il valore del presepe",
+    "pl": "List Apostolski \"Admirabile signum\", O Znaczeniu i Wartości Żłóbka",
+    "sw": "Kiti Kitakatifu WARAKA WA KITUME Ishara ya kustaajabisha YA BABA MTAKATIFU FRANSISKO KUHUSU MAANA NA UMUHIMU WA PANGO LA NOELI (PRESEPI)",
+    "zh-CN": "Apostolic Letter \"Admirabile signum\" on the meaning and importance of the nativity scene",
+    "zh-TW": "Apostolic Letter \"Admirabile signum\" on the meaning and importance of the nativity scene"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2019-12-01",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2019-12-01"
+  },
+  "composed": "2019",
+  "languages": [
+    "la",
+    "en-US",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "sw",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/content/francesco/sw/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/apost_letters/documents/papa-francesco-lettera-ap_20191201_admirabile-signum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Apostolica Admirabile signum de praesaepis significatione et bono (die I mensis Decembris, anno MMXIX)",
+        "en-US": "Apostolic Letter \"Admirabile signum\" on the meaning and importance of the nativity scene",
+        "ar": "Apostolic Letter \"Admirabile signum\", 1 December 2019",
+        "be": "АПОСТАЛЬСКІ ЛІСТ ADMIRABILE SIGNUM СВЯТОГА АЙЦА ФРАНЦІШКА ПРА ЗНАЧЭННЕ І ВАЖНАСЦЬ БЭТЛЕЕМСКІХ ЯСЛЯЎ",
+        "de": "Apostolisches Schreiben Admirabile signum über die Bedeutung und den Wert der Weihnachtskrippe",
+        "es": "Carta apostólica Admirabile signum sobre el significado y el valor del belén",
+        "fr": "Lettre apostolique Admirabile signum sur la signification et la valeur de la crèche",
+        "it": "Lettera Apostolica \"Admirabile signum\" sul significato e il valore del presepe",
+        "pl": "List Apostolski \"Admirabile signum\", O Znaczeniu i Wartości Żłóbka",
+        "sw": "Kiti Kitakatifu WARAKA WA KITUME Ishara ya kustaajabisha YA BABA MTAKATIFU FRANSISKO KUHUSU MAANA NA UMUHIMU WA PANGO LA NOELI (PRESEPI)",
+        "zh-CN": "Apostolic Letter \"Admirabile signum\" on the meaning and importance of the nativity scene",
+        "zh-TW": "Apostolic Letter \"Admirabile signum\" on the meaning and importance of the nativity scene"
+      }
+    }
+  ]
+}

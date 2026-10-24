@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-inter-multiplices",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Inter Multiplices"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Leo XII · 1827-03-20",
+    "pt-BR": "Breve · Papa Leão XII · 1827-03-20"
+  },
+  "composed": "1827",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/breve-inter-multiplices-20-marzo-1827.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Inter Multiplices"
+      }
+    }
+  ]
+}

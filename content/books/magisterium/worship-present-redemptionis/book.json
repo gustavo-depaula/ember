@@ -1,0 +1,56 @@
+{
+  "id": "worship-present-redemptionis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "COMMENTARY ON THE INSTRUCTION \"REDEMPTIONIS SACRAMENTUM\"",
+    "pt-BR": "Apresentação da Instrução Redemptionis Sacramentum",
+    "it": "PRESENTAZIONE DELLA \"REDEMPTIONIS SACRAMENTUM\""
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2004-04-23",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2004-04-23"
+  },
+  "composed": "2004",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_present-redemptionis_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_present-redemptionis_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_present-redemptionis_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "COMMENTARY ON THE INSTRUCTION \"REDEMPTIONIS SACRAMENTUM\"",
+        "pt-BR": "Apresentação da Instrução Redemptionis Sacramentum",
+        "it": "PRESENTAZIONE DELLA \"REDEMPTIONIS SACRAMENTUM\""
+      }
+    }
+  ]
+}

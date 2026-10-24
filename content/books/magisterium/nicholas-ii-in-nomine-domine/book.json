@@ -1,0 +1,40 @@
+{
+  "id": "nicholas-ii-in-nomine-domine",
+  "cover": "quarter",
+  "name": {
+    "it": "Bulla 'In Nomine Domine'"
+  },
+  "author": {
+    "en-US": "Pope Nicholas II",
+    "pt-BR": "Papa Nicolau II",
+    "la": "Nicolaus PP. II"
+  },
+  "description": {
+    "en-US": "Bull · Pope Nicholas II · 1059-04-12",
+    "pt-BR": "Bula · Papa Nicolau II · 1059-04-12"
+  },
+  "composed": "1059",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "nicholas-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1059-04-12,_SS_Nicholaus_II,_In_Nomine_Domini,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bulla 'In Nomine Domine'"
+      }
+    }
+  ]
+}

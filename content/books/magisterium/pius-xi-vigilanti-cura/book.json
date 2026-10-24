@@ -1,0 +1,80 @@
+{
+  "id": "pius-xi-vigilanti-cura",
+  "cover": "quarter",
+  "name": {
+    "la": "Vigilanti cura, Epistula Encyclica de cinematographicis spectaculis, d. 29 m. Iunii a. 1936, Pius PP. XI",
+    "en-US": "Vigilanti Cura",
+    "pt-BR": "Vigilanti Cura: sobre o cinema",
+    "de": "Vigilanti cura, Enzyklika von Papst Pius XI. über die Lichtspiele, 29. Juni 1936",
+    "fr": "Vigilanti cura",
+    "it": "Vigilanti Cura"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1936-06-29",
+    "pt-BR": "Encíclica · Papa Pio XI · 1936-06-29"
+  },
+  "composed": "1936",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/pius-xi/de/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Vigilanti cura, Epistula Encyclica de cinematographicis spectaculis, d. 29 m. Iunii a. 1936, Pius PP. XI",
+        "en-US": "Vigilanti Cura",
+        "pt-BR": "Vigilanti Cura: sobre o cinema",
+        "de": "Vigilanti cura, Enzyklika von Papst Pius XI. über die Lichtspiele, 29. Juni 1936",
+        "fr": "Vigilanti cura",
+        "it": "Vigilanti Cura"
+      }
+    }
+  ]
+}

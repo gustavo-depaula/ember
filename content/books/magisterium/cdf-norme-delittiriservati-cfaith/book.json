@@ -1,0 +1,96 @@
+{
+  "id": "cdf-norme-delittiriservati-cfaith",
+  "cover": "quarter",
+  "name": {
+    "la": "Normae de delictis Congregationi pro Doctrina Fidei reservatis (XI mensis Octobris anno Domini MMXI)",
+    "en-US": "Norms regarding delicts reserved to the Congregation for the Doctrine of the Faith",
+    "pt-BR": "Normas sobre os delitos reservados à Congregação para a Doutrina da Fé",
+    "de": "Normen über die Straftaten, die der Kongregation für die Glaubenslehre reserviert sind",
+    "es": "Normas sobre los delitos más graves reservados a la Congregación para la Doctrina de la Fe",
+    "fr": "Normes sur les délits réservés a la Congrégation pour la Doctrine de la Foi",
+    "it": "Norme sui delitti riservati alla Congregazione per la Dottrina della Fede",
+    "pl": "NORMY MATERIALNE"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2021-10-11",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2021-10-11"
+  },
+  "composed": "2021",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_la.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20211011_norme-delittiriservati-cfaith_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Normae de delictis Congregationi pro Doctrina Fidei reservatis (XI mensis Octobris anno Domini MMXI)",
+        "en-US": "Norms regarding delicts reserved to the Congregation for the Doctrine of the Faith",
+        "pt-BR": "Normas sobre os delitos reservados à Congregação para a Doutrina da Fé",
+        "de": "Normen über die Straftaten, die der Kongregation für die Glaubenslehre reserviert sind",
+        "es": "Normas sobre los delitos más graves reservados a la Congregación para la Doctrina de la Fe",
+        "fr": "Normes sur les délits réservés a la Congrégation pour la Doctrine de la Foi",
+        "it": "Norme sui delitti riservati alla Congregazione per la Dottrina della Fede",
+        "pl": "NORMY MATERIALNE"
+      }
+    }
+  ]
+}

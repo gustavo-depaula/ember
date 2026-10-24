@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-paterna-sane",
+  "cover": "quarter",
+  "name": {
+    "it": "Paterna Sane: ai Vescovi, al clero e ai fedeli messicani affinché rivendichino i diritti civili e i doveri comuni senza l'intervento dei partiti politici"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius XI · 1926-02-02",
+    "pt-BR": "Carta Apostólica · Papa Pio XI · 1926-02-02"
+  },
+  "composed": "1926",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/apost_letters/documents/hf_p-xi_apl_19260202_paterna-sane.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Paterna Sane: ai Vescovi, al clero e ai fedeli messicani affinché rivendichino i diritti civili e i doveri comuni senza l'intervento dei partiti politici"
+      }
+    }
+  ]
+}

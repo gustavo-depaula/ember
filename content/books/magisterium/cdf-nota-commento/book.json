@@ -1,0 +1,80 @@
+{
+  "id": "cdf-nota-commento",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Commentary",
+    "pt-BR": "Nota de Comentário, 1º de agosto de 2007",
+    "de": "Kommentar",
+    "fr": "COMMENTAIRE",
+    "it": "Nota di commento",
+    "pl": "KOMENTARZ"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2007-08-01",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2007-08-01"
+  },
+  "composed": "2007",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_nota-commento_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_nota-commento_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_nota-commento_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_nota-commento_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_nota-commento_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20070801_nota-commento_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Commentary",
+        "pt-BR": "Nota de Comentário, 1º de agosto de 2007",
+        "de": "Kommentar",
+        "fr": "COMMENTAIRE",
+        "it": "Nota di commento",
+        "pl": "KOMENTARZ"
+      }
+    }
+  ]
+}

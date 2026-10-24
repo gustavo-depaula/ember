@@ -1,0 +1,40 @@
+{
+  "id": "hormisdas-sicut-rationi-congruit",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula 'Sicut Rationi Congruit'"
+  },
+  "author": {
+    "en-US": "Pope Hormisdas",
+    "pt-BR": "Papa Hormisdas",
+    "la": "Hormisdas PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Hormisdas · 0514",
+    "pt-BR": "Carta · Papa Hormisdas · 0514"
+  },
+  "composed": "514",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "hormisdas"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0514-0523,_SS_Hormisdas,_Epistula_'Sicut_Rationi_Congruit',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula 'Sicut Rationi Congruit'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "john-xxiii-spoglie-piox",
+  "cover": "quarter",
+  "name": {
+    "it": "A quarantacinque anni"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope John XXIII · 1959-04-21",
+    "pt-BR": "Exortação Apostólica · Papa João XXIII · 1959-04-21"
+  },
+  "composed": "1959",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/apost_exhortations/documents/hf_j-xxiii_exh_19590421_spoglie-piox.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "A quarantacinque anni"
+      }
+    }
+  ]
+}

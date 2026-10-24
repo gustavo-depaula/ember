@@ -1,0 +1,40 @@
+{
+  "id": "pius-vii-dominici-gregis",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Dominici gregis"
+  },
+  "author": {
+    "en-US": "Pope Pius VII",
+    "pt-BR": "Papa Pio VII",
+    "la": "Pius PP. VII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius VII · 1819-08-25",
+    "pt-BR": "Breve · Papa Pio VII · 1819-08-25"
+  },
+  "composed": "1819",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-vii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vii/it/documents/breve-dominici-gregis-25-agosto-1819.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Dominici gregis"
+      }
+    }
+  ]
+}

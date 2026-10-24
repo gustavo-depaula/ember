@@ -1,0 +1,66 @@
+{
+  "id": "council-constantinople-iv",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Fourth Council of Constantinople",
+    "pt-BR": "Quarto Concílio de Constantinopla",
+    "la": "Concilium Constantinopolitanum IV"
+  },
+  "author": {
+    "en-US": "Fourth Council of Constantinople",
+    "pt-BR": "Quarto Concílio de Constantinopla",
+    "la": "Concilium Constantinopolitanum IV"
+  },
+  "description": {
+    "en-US": "Ecumenical council · 869. Decrees, canons and acts in every language available.",
+    "pt-BR": "Concílio ecumênico · 869. Decretos, cânones e atas em todas as línguas disponíveis."
+  },
+  "composed": "869",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "council",
+    "constantinople-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0869-0870,_Concilium_Constantinopolitanum_IV,_Documenta,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/ecum08.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0870-02-28,_Absens,_Concilium_Constantinopolitanum_IV,_IT.doc",
+      "description": "Conciliar text as published at this address."
+    }
+  ],
+  "toc": [
+    {
+      "id": "la-01",
+      "title": {
+        "la": "Documenta"
+      }
+    },
+    {
+      "id": "en-US-01",
+      "title": {
+        "en-US": "Fourth Council of Constantinople : 869-870"
+      }
+    },
+    {
+      "id": "it-01",
+      "title": {
+        "it": "Concilium Constantinopolitanum IV"
+      }
+    }
+  ]
+}

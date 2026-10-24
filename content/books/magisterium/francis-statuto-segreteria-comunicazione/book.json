@@ -1,0 +1,72 @@
+{
+  "id": "francis-statuto-segreteria-comunicazione",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Statutes of the Secratariat for Communication",
+    "pt-BR": "Estatuto da Secretaria para a Comunicação",
+    "es": "Estatuto de la Secretaría para la Comunicación",
+    "fr": "Statut du Secrétariat pour la communication",
+    "it": "Statuto della Segreteria per la Comunicazione"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2016-09-06",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2016-09-06"
+  },
+  "composed": "2016",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco_20160906_statuto-segreteria-comunicazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco_20160906_statuto-segreteria-comunicazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco_20160906_statuto-segreteria-comunicazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco_20160906_statuto-segreteria-comunicazione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco_20160906_statuto-segreteria-comunicazione.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Statutes of the Secratariat for Communication",
+        "pt-BR": "Estatuto da Secretaria para a Comunicação",
+        "es": "Estatuto de la Secretaría para la Comunicación",
+        "fr": "Statut du Secrétariat pour la communication",
+        "it": "Statuto della Segreteria per la Comunicazione"
+      }
+    }
+  ]
+}

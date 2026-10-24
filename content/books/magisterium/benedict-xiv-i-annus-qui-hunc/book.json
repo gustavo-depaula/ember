@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-i-annus-qui-hunc",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Annus Qui Hunc",
+    "it": "Enciclica Annus Qui Hunc"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV · 1749-02-19",
+    "pt-BR": "Encíclica · Papa Bento XIV · 1749-02-19"
+  },
+  "composed": "1749",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/annus-qui-hunc.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-annus-qui-hunc--i---19-febbraio-1749--nell--8217-im.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Annus Qui Hunc",
+        "it": "Enciclica Annus Qui Hunc"
+      }
+    }
+  ]
+}

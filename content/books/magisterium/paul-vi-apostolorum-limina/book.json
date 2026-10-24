@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-apostolorum-limina",
+  "cover": "quarter",
+  "name": {
+    "la": "Apostolorum Limina con la quale viene indetto il Giubileo dell'Anno Santo 1975 (23 maggio 1974)",
+    "it": "Apostolorum Limina con la quale viene indetto il Giubileo dell'Anno Santo 1975"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1974-05-23",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1974-05-23"
+  },
+  "composed": "1974",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1974-05-02,_SS_Paulus_VI,_Littera_'Apostolorum_Limina',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19740523_apostolorum-limina.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Apostolorum Limina con la quale viene indetto il Giubileo dell'Anno Santo 1975 (23 maggio 1974)",
+        "it": "Apostolorum Limina con la quale viene indetto il Giubileo dell'Anno Santo 1975"
+      }
+    }
+  ]
+}

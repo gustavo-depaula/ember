@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-notificacao-sobre-a-validade-do-batismo-conferido",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Notificação sobre a validade do batismo conferido pela ‘Comunidade Cristã’ ou ‘Die Christengemeinschaft'"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1991-03-08",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1991-03-08"
+  },
+  "composed": "1991",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/notificacao-sobre-a-validade-do-batismo-conferido-pela-christian-community-ou-die-christengemeinschaft-08-03-1991/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Notificação sobre a validade do batismo conferido pela ‘Comunidade Cristã’ ou ‘Die Christengemeinschaft'"
+      }
+    }
+  ]
+}

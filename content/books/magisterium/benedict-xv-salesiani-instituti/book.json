@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-salesiani-instituti",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Salesiani Instituti, al R. P. Paolo Albera, Rettore Generale della Congregazione Salesiana, in occasione del 50° anniversario della fondazione della Casa torinese dedicata a Maria Ausiliatrice"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1918-05-12",
+    "pt-BR": "Carta · Papa Bento XV · 1918-05-12"
+  },
+  "composed": "1918",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1918/documents/hf_ben-xv_let_19180512_salesiani-instituti.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Salesiani Instituti, al R. P. Paolo Albera, Rettore Generale della Congregazione Salesiana, in occasione del 50° anniversario della fondazione della Casa torinese dedicata a Maria Ausiliatrice"
+      }
+    }
+  ]
+}

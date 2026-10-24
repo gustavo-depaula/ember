@@ -1,0 +1,40 @@
+{
+  "id": "urban-ii-popolo-dei-franchi",
+  "cover": "quarter",
+  "name": {
+    "it": "Popolo Dei Franchi"
+  },
+  "author": {
+    "en-US": "Pope Urban II",
+    "pt-BR": "Papa Urbano II",
+    "la": "Urbanus PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope Urban II · 1095-11-27",
+    "pt-BR": "Documento · Papa Urbano II · 1095-11-27"
+  },
+  "composed": "1095",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "urban-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1095-11-27,_SS_Urbanus_II,_Popolo_Dei_Franchi,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Popolo Dei Franchi"
+      }
+    }
+  ]
+}

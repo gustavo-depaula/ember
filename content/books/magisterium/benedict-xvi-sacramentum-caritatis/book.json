@@ -1,0 +1,128 @@
+{
+  "id": "benedict-xvi-sacramentum-caritatis",
+  "cover": "quarter",
+  "name": {
+    "la": "Adhortatio Apostolica Postsynodalis Sacramentum Caritatis",
+    "en-US": "Sacramentum Caritatis: Post-Synodal Apostolic Exhortation on the Eucharist as the Source and Summit of the Church's Life and Mission",
+    "pt-BR": "Sacramentum Caritatis: Exortação Apostólica Pós-Sinodal sobre a Eucaristia fonte e ápice da vida e da missão da Igreja",
+    "be": "SACRAMENTUM CARITATIS",
+    "de": "Sacramentum Caritatis: Nachsynodales Apostolisches Schreiben über die Eucharistie - Quelle und Höhepunkt von Leben und Sendung der Kirche",
+    "es": "Sacramentum Caritatis, exhortación apostólica postsinodal sobre la Eucaristía fuente y culmen de la vida y de la misión de la Iglesia",
+    "fr": "Sacramentum Caritatis : Exhortation Apostolique post-synodale sur l'eucharistie source et sommet de la vie et de la mission de l'Eglise",
+    "hu": "SACRAMENTUM CARITATIS KEZDETŰ SZINÓDUS UTÁNI APOSTOLI BUZDÍTÁSA A PÜSPÖKÖKHÖZ ÉS PAPOKHOZ, A SZERZETESEKHEZ ÉS SZERZETESNŐKHÖZ, ÉS A VILÁGI KRISZTUSHÍVŐKHÖZ AZ EUCHARISZTIÁRÓL, AZ EGYHÁZ ÉLETÉNEK ÉS KÜLDETÉSÉNEK FORRÁSÁRÓL ÉS CSÚCSPONTJÁRÓL",
+    "it": "Sacramentum Caritatis: Esortazione Apostolica Postsinodale sull’Eucaristia fonte e culmine della vita e della missione della Chiesa",
+    "nl": "Apostolische Postsynodale Exhortatie Sacramentum Caritatis",
+    "pl": "POSYNODALNA ADHORTACJA APOSTOLSKA SACRAMENTUM CARITATIS",
+    "ru": "Sacramentum Caritatis"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Benedict XVI · 2007-02-22",
+    "pt-BR": "Exortação Apostólica · Papa Bento XVI · 2007-02-22"
+  },
+  "composed": "2007",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "nl",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/benedict-xvi/be/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/benedict-xvi/hu/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/content/benedict-xvi/nl/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/benedict-xvi/pl/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/content/benedict-xvi/ru/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Adhortatio Apostolica Postsynodalis Sacramentum Caritatis",
+        "en-US": "Sacramentum Caritatis: Post-Synodal Apostolic Exhortation on the Eucharist as the Source and Summit of the Church's Life and Mission",
+        "pt-BR": "Sacramentum Caritatis: Exortação Apostólica Pós-Sinodal sobre a Eucaristia fonte e ápice da vida e da missão da Igreja",
+        "be": "SACRAMENTUM CARITATIS",
+        "de": "Sacramentum Caritatis: Nachsynodales Apostolisches Schreiben über die Eucharistie - Quelle und Höhepunkt von Leben und Sendung der Kirche",
+        "es": "Sacramentum Caritatis, exhortación apostólica postsinodal sobre la Eucaristía fuente y culmen de la vida y de la misión de la Iglesia",
+        "fr": "Sacramentum Caritatis : Exhortation Apostolique post-synodale sur l'eucharistie source et sommet de la vie et de la mission de l'Eglise",
+        "hu": "SACRAMENTUM CARITATIS KEZDETŰ SZINÓDUS UTÁNI APOSTOLI BUZDÍTÁSA A PÜSPÖKÖKHÖZ ÉS PAPOKHOZ, A SZERZETESEKHEZ ÉS SZERZETESNŐKHÖZ, ÉS A VILÁGI KRISZTUSHÍVŐKHÖZ AZ EUCHARISZTIÁRÓL, AZ EGYHÁZ ÉLETÉNEK ÉS KÜLDETÉSÉNEK FORRÁSÁRÓL ÉS CSÚCSPONTJÁRÓL",
+        "it": "Sacramentum Caritatis: Esortazione Apostolica Postsinodale sull’Eucaristia fonte e culmine della vita e della missione della Chiesa",
+        "nl": "Apostolische Postsynodale Exhortatie Sacramentum Caritatis",
+        "pl": "POSYNODALNA ADHORTACJA APOSTOLSKA SACRAMENTUM CARITATIS",
+        "ru": "Sacramentum Caritatis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-iniquis-afflictisque",
+  "cover": "quarter",
+  "name": {
+    "la": "Iniquis afflictisque, Litterae Encyclicae de asperrima rei catholicae condicione in Foederatis Mexici civitatibus, d. 18 m. Novembris a. 1926, Pius PP. XI",
+    "en-US": "Iniquis Afflictisque",
+    "it": "Iniquis Afflictisque"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1926-11-18",
+    "pt-BR": "Encíclica · Papa Pio XI · 1926-11-18"
+  },
+  "composed": "1926",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19261118_iniquis-afflictisque.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_18111926_iniquis-afflictisque.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19261118_iniquis-afflictisque.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Iniquis afflictisque, Litterae Encyclicae de asperrima rei catholicae condicione in Foederatis Mexici civitatibus, d. 18 m. Novembris a. 1926, Pius PP. XI",
+        "en-US": "Iniquis Afflictisque",
+        "it": "Iniquis Afflictisque"
+      }
+    }
+  ]
+}

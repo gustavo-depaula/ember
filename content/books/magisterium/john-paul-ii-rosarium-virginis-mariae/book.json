@@ -1,0 +1,112 @@
+{
+  "id": "john-paul-ii-rosarium-virginis-mariae",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Apostolica Rosarium Virginis Mariae",
+    "en-US": "Rosarium Virginis Mariae on the Most Holy Rosary",
+    "pt-BR": "Rosarium Virginis Mariae",
+    "de": "Rosarium Virginis Mariae über den Rosenkranz",
+    "es": "Rosarium Virginis Mariae",
+    "fr": "Rosarium Virginis Mariae sur le Rosaire",
+    "hu": "Rosarium Virginis Mariae, 2002. október 16-án - II. János Pál pápa",
+    "it": "Rosarium Virginis Mariae sul Santo Rosario",
+    "pl": "List Apostolski Rosarium Virginis Mariae",
+    "zh": "Rosarium Virginis Mariae on the Most Holy Rosary"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 2002-10-16",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 2002-10-16"
+  },
+  "composed": "2002",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "zh"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh",
+      "url": "https://www.vatican.va/content/john-paul-ii/zh/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Apostolica Rosarium Virginis Mariae",
+        "en-US": "Rosarium Virginis Mariae on the Most Holy Rosary",
+        "pt-BR": "Rosarium Virginis Mariae",
+        "de": "Rosarium Virginis Mariae über den Rosenkranz",
+        "es": "Rosarium Virginis Mariae",
+        "fr": "Rosarium Virginis Mariae sur le Rosaire",
+        "hu": "Rosarium Virginis Mariae, 2002. október 16-án - II. János Pál pápa",
+        "it": "Rosarium Virginis Mariae sul Santo Rosario",
+        "pl": "List Apostolski Rosarium Virginis Mariae",
+        "zh": "Rosarium Virginis Mariae on the Most Holy Rosary"
+      }
+    }
+  ]
+}

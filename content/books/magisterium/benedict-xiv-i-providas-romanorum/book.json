@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xiv-i-providas-romanorum",
+  "cover": "quarter",
+  "name": {
+    "it": "Bolla Providas Romanorum"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Benedict XIV · 1751-03-18",
+    "pt-BR": "Bula · Papa Bento XIV · 1751-03-18"
+  },
+  "composed": "1751",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-providas-romanorum--i---18-marzo-1751--il-pontefice-con.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bolla Providas Romanorum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "pius-xii-sponsa-christi",
+  "cover": "quarter",
+  "name": {
+    "la": "Sponsa Christi, Constitutio Apostolica, De Sacro Monialium Instituto promovendo, d. 21 m. Novembris, a. 1950, Pius PP. XII",
+    "es": "Sponsa Christi",
+    "fr": "Sponsa Christi",
+    "it": "Sponsa Christi"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Pius XII · 1950-11-21",
+    "pt-BR": "Constituição Apostólica · Papa Pio XII · 1950-11-21"
+  },
+  "composed": "1950",
+  "languages": [
+    "la",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/apost_constitutions/documents/hf_p-xii_apc_19501121_sponsa-christi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/apost_constitutions/documents/hf_p-xii_apc_19501121_sponsa-christi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xii/fr/apost_constitutions/documents/hf_p-xii_apc_19501121_sponsa-christi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_constitutions/documents/hf_p-xii_apc_19501121_sponsa-christi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sponsa Christi, Constitutio Apostolica, De Sacro Monialium Instituto promovendo, d. 21 m. Novembris, a. 1950, Pius PP. XII",
+        "es": "Sponsa Christi",
+        "fr": "Sponsa Christi",
+        "it": "Sponsa Christi"
+      }
+    }
+  ]
+}

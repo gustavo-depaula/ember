@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-ex-literis",
+  "cover": "quarter",
+  "name": {
+    "it": "Ex Literis"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory XVI · 1841-05-14",
+    "pt-BR": "Documento · Papa Gregório XVI · 1841-05-14"
+  },
+  "composed": "1841",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1841-05-14,_SS_Gregorius_XVI,_Ex_Literis,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Ex Literis"
+      }
+    }
+  ]
+}

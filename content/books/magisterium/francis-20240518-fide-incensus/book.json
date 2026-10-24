@@ -1,0 +1,64 @@
+{
+  "id": "francis-20240518-fide-incensus",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio Datae Fide Incensus quibus cunctis Ordinibus, Congregationibus et Institutis iisque idem Charisma communicantibus Spiritus Sancti De Saxia Cultus Liturgicus Fratris Guidonis De Monte Pessulano, cum Titulo «Beati», conceditur (die XVIII mensis Maii)",
+    "en-US": "Apostolic Letter issued “Motu Proprio” Fide incensus",
+    "hr": "Apostolsko Pismo u obliku MotuproprijaFide incensus",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» Fide incensus, con la quale viene concesso a tutti gli Ordini, alle Congregazioni e alle Comunità che si ispirano al carisma di Santo Spirito in Sassia, il culto liturgico di Fratel Guido di Montpellier, con il titolo di Beato"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2024-05-18",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2024-05-18"
+  },
+  "composed": "2024",
+  "languages": [
+    "la",
+    "en-US",
+    "hr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/20240518-fide-incensus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20240518-fide-incensus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/francesco/hr/motu_proprio/documents/20240518-fide-incensus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20240518-fide-incensus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio Datae Fide Incensus quibus cunctis Ordinibus, Congregationibus et Institutis iisque idem Charisma communicantibus Spiritus Sancti De Saxia Cultus Liturgicus Fratris Guidonis De Monte Pessulano, cum Titulo «Beati», conceditur (die XVIII mensis Maii)",
+        "en-US": "Apostolic Letter issued “Motu Proprio” Fide incensus",
+        "hr": "Apostolsko Pismo u obliku MotuproprijaFide incensus",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» Fide incensus, con la quale viene concesso a tutti gli Ordini, alle Congregazioni e alle Comunità che si ispirano al carisma di Santo Spirito in Sassia, il culto liturgico di Fratel Guido di Montpellier, con il titolo di Beato"
+      }
+    }
+  ]
+}

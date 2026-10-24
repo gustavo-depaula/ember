@@ -1,0 +1,96 @@
+{
+  "id": "cdf-instructio",
+  "cover": "quarter",
+  "name": {
+    "la": "Instructio ad orbis cattolici Episcopos de Commissionibus doctrinalibus instituendis, d. 23 m. Februarii a. 1967, Congregatio pro Doctrina Fidei",
+    "en-US": "Instruction on the necessity to establish doctrinal Commissions in Episcopal Conferences, 23 February 1967",
+    "pt-BR": "Instrução para a Criação de Comissões Doutrinais, 23 de fevereiro de 1967",
+    "de": "Instruktion über die Notwendigkeit der Einrichtung von Lehrkommissionen an den Bischofskonferenzen, 23. Februar 1967",
+    "es": "Instrucción a los presidentes de las Conferencias episcopales sobre la necesidad de establecer comisiones sacramentales",
+    "fr": "Instruction sur la nécessité d'instituer des Commissions doctrinales près les Conférences Episcopales, 23 février 1967",
+    "it": "Istruzione sulla necessità di istituire le Commissioni dottrinali presso le Conferenze Episcopali, 23 febbraio 1967",
+    "pl": "INSTRUKCJA O KOMISJACH DOKTRYNALNYCH, 23 lutego 1967 r."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1967-02-23",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1967-02-23"
+  },
+  "composed": "1967",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670223_instructio_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670223_instructio_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670223_instructio_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670223_instructio_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670223_instructio_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670223_instructio_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670223_instructio_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19670223_instructio_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Instructio ad orbis cattolici Episcopos de Commissionibus doctrinalibus instituendis, d. 23 m. Februarii a. 1967, Congregatio pro Doctrina Fidei",
+        "en-US": "Instruction on the necessity to establish doctrinal Commissions in Episcopal Conferences, 23 February 1967",
+        "pt-BR": "Instrução para a Criação de Comissões Doutrinais, 23 de fevereiro de 1967",
+        "de": "Instruktion über die Notwendigkeit der Einrichtung von Lehrkommissionen an den Bischofskonferenzen, 23. Februar 1967",
+        "es": "Instrucción a los presidentes de las Conferencias episcopales sobre la necesidad de establecer comisiones sacramentales",
+        "fr": "Instruction sur la nécessité d'instituer des Commissions doctrinales près les Conférences Episcopales, 23 février 1967",
+        "it": "Istruzione sulla necessità di istituire le Commissioni dottrinali presso le Conferenze Episcopali, 23 febbraio 1967",
+        "pl": "INSTRUKCJA O KOMISJACH DOKTRYNALNYCH, 23 lutego 1967 r."
+      }
+    }
+  ]
+}

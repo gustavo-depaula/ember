@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-rite-expiatis",
+  "cover": "quarter",
+  "name": {
+    "la": "Rite Expiatis, Litterae Encyclicae de Sancto Francisco Assisiensi septingentesimo ab eius obitu exeunte anno, d. 30 m. Aprilis a. 1926, Pius PP. XI",
+    "en-US": "Rite Expiatis",
+    "it": "Rite Expiatis"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1926-04-30",
+    "pt-BR": "Encíclica · Papa Pio XI · 1926-04-30"
+  },
+  "composed": "1926",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19260430_rite-expiatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_30041926_rite-expiatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19260430_rite-expiatis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Rite Expiatis, Litterae Encyclicae de Sancto Francisco Assisiensi septingentesimo ab eius obitu exeunte anno, d. 30 m. Aprilis a. 1926, Pius PP. XI",
+        "en-US": "Rite Expiatis",
+        "it": "Rite Expiatis"
+      }
+    }
+  ]
+}

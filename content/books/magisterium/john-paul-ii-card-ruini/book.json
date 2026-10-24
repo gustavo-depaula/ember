@@ -1,0 +1,40 @@
+{
+  "id": "john-paul-ii-card-ruini",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera al Cardinale Camillo Ruini per l'inaugurazione della XLII Settimana Sociale dei Cattolici Italiani"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1993-09-21",
+    "pt-BR": "Carta · Papa João Paulo II · 1993-09-21"
+  },
+  "composed": "1993",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1993/documents/hf_jp-ii_let_19930921_card-ruini.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera al Cardinale Camillo Ruini per l'inaugurazione della XLII Settimana Sociale dei Cattolici Italiani"
+      }
+    }
+  ]
+}

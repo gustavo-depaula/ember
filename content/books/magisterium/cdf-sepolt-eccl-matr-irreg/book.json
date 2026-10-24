@@ -1,0 +1,96 @@
+{
+  "id": "cdf-sepolt-eccl-matr-irreg",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae circulares ad venerabiles Praesules Conferentiarum Episcopalium de sepultura ecclesiastica eorum fidelium, qui in conditione matrimoniali irregolari inveniuntur, d. 29 m. Maii a. 1973, Congregatio pro Doctrina Fidei",
+    "en-US": "Circular letter on the ecclesiastical burial of the faithful in irregular matrimonial situations, 29 May 1973",
+    "pt-BR": "Carta circular sobre a exéquias de fiéis que se encontram em situação matrimonial irregular, 29 de maio de 1973",
+    "de": "Rundschreiben über die kirchliche Bestattung von Gläubigen, die in irregulären Eheverhältnissen gelebt haben, 29. Mai 1973",
+    "es": "Carta a los presidentes de las Conferencias episcopales sobre la sepultura eclesiástica de los fieles en situación matrimonial irregular",
+    "fr": "Lettre circulaire concernant la sépulture ecclésiastique des fidèles qui se trouvent dans une situation matrimoniale irrégulière, 29 mai 1973",
+    "it": "Lettera circolare sulla sepoltura ecclesiastica dei fedeli in situazione matrimoniale irregolare, 29 maggio 1973",
+    "pl": "LIST O POGRZEBIE KOŚCIELNYM, 29 maja 1973"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1973-05-29",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1973-05-29"
+  },
+  "composed": "1973",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730529_sepolt-eccl-matr-irreg_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730529_sepolt-eccl-matr-irreg_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730529_sepolt-eccl-matr-irreg_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730529_sepolt-eccl-matr-irreg_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730529_sepolt-eccl-matr-irreg_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730529_sepolt-eccl-matr-irreg_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730529_sepolt-eccl-matr-irreg_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730529_sepolt-eccl-matr-irreg_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae circulares ad venerabiles Praesules Conferentiarum Episcopalium de sepultura ecclesiastica eorum fidelium, qui in conditione matrimoniali irregolari inveniuntur, d. 29 m. Maii a. 1973, Congregatio pro Doctrina Fidei",
+        "en-US": "Circular letter on the ecclesiastical burial of the faithful in irregular matrimonial situations, 29 May 1973",
+        "pt-BR": "Carta circular sobre a exéquias de fiéis que se encontram em situação matrimonial irregular, 29 de maio de 1973",
+        "de": "Rundschreiben über die kirchliche Bestattung von Gläubigen, die in irregulären Eheverhältnissen gelebt haben, 29. Mai 1973",
+        "es": "Carta a los presidentes de las Conferencias episcopales sobre la sepultura eclesiástica de los fieles en situación matrimonial irregular",
+        "fr": "Lettre circulaire concernant la sépulture ecclésiastique des fidèles qui se trouvent dans une situation matrimoniale irrégulière, 29 mai 1973",
+        "it": "Lettera circolare sulla sepoltura ecclesiastica dei fedeli in situazione matrimoniale irregolare, 29 maggio 1973",
+        "pl": "LIST O POGRZEBIE KOŚCIELNYM, 29 maja 1973"
+      }
+    }
+  ]
+}

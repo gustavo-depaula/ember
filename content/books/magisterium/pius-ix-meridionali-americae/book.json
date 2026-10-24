@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-meridionali-americae",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Meridionali Americae",
+    "it": "Epistola Meridionali Americae"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius IX · 1865-09-30",
+    "pt-BR": "Carta · Papa Pio IX · 1865-09-30"
+  },
+  "composed": "1865",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9meridi.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/epistola-meridionali-americae-30-settembre-1865.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Meridionali Americae",
+        "it": "Epistola Meridionali Americae"
+      }
+    }
+  ]
+}

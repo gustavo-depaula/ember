@@ -1,0 +1,72 @@
+{
+  "id": "pius-xii-quemadmodum",
+  "cover": "quarter",
+  "name": {
+    "la": "Quemadmodum, Epistulae Enciclicae, De indigentium puerorum cura alacrius hodie suscipienda, d. 6 m. Ianuarii a. 1946, Pius PP. XII",
+    "en-US": "Quemadmodum",
+    "pt-BR": "Quemadmodum",
+    "es": "Quemadmodum",
+    "it": "Quemadmodum"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1946-01-06",
+    "pt-BR": "Encíclica · Papa Pio XII · 1946-01-06"
+  },
+  "composed": "1946",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quemadmodum, Epistulae Enciclicae, De indigentium puerorum cura alacrius hodie suscipienda, d. 6 m. Ianuarii a. 1946, Pius PP. XII",
+        "en-US": "Quemadmodum",
+        "pt-BR": "Quemadmodum",
+        "es": "Quemadmodum",
+        "it": "Quemadmodum"
+      }
+    }
+  ]
+}

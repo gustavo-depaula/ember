@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-africam-quisnam",
+  "cover": "quarter",
+  "name": {
+    "it": "In Africam quisnam, sul martirio subito in Uganda fra il 1885 e il 1887 dai ventidue negri torturati e condannati a morte in quanto cattolici"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Benedict XV · 1920-06-06",
+    "pt-BR": "Breve · Papa Bento XV · 1920-06-06"
+  },
+  "composed": "1920",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/briefs/documents/hf_ben-xv_briefs_19200606_africam-quisnam.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "In Africam quisnam, sul martirio subito in Uganda fra il 1885 e il 1887 dai ventidue negri torturati e condannati a morte in quanto cattolici"
+      }
+    }
+  ]
+}

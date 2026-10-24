@@ -1,0 +1,72 @@
+{
+  "id": "leo-xiii-providentissimus-deus",
+  "cover": "quarter",
+  "name": {
+    "la": "Providentissimus Deus",
+    "en-US": "Providentissimus Deus",
+    "es": "Providentissimus Deus",
+    "fr": "Providentissimus Deus",
+    "it": "Providentissimus Deus"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1893-11-18",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1893-11-18"
+  },
+  "composed": "1893",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_18111893_providentissimus-deus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Providentissimus Deus",
+        "en-US": "Providentissimus Deus",
+        "es": "Providentissimus Deus",
+        "fr": "Providentissimus Deus",
+        "it": "Providentissimus Deus"
+      }
+    }
+  ]
+}

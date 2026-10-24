@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-circoscrizioni-ecclesiastiche-polonia",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Apostolica in occasione della ristrutturazione delle circoscrizioni ecclesiastiche della Polonia",
+    "pl": "Ristrutturazione delle Circoscrizioni ecclesiastiche in Polonia, Giovanni Paolo II - 25 marzo 1992"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1992-03-25",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1992-03-25"
+  },
+  "composed": "1992",
+  "languages": [
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1992/documents/hf_jp-ii_apl_19920325_circoscrizioni-ecclesiastiche-polonia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/apost_letters/1992/documents/hf_jp-ii_apl_19920325_circoscrizioni-ecclesiastiche-polonia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Apostolica in occasione della ristrutturazione delle circoscrizioni ecclesiastiche della Polonia",
+        "pl": "Ristrutturazione delle Circoscrizioni ecclesiastiche in Polonia, Giovanni Paolo II - 25 marzo 1992"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "francis-statuto-ufficio-revisore-generale",
+  "cover": "quarter",
+  "name": {
+    "it": "Statuto dell'Ufficio del Revisore Generale"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Francis · 2019-01-21",
+    "pt-BR": "Motu Proprio · Papa Francisco · 2019-01-21"
+  },
+  "composed": "2019",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco_20190121_statuto-ufficio-revisore-generale.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Statuto dell'Ufficio del Revisore Generale"
+      }
+    }
+  ]
+}

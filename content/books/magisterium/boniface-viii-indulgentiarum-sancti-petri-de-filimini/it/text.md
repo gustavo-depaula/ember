@@ -1,0 +1,13 @@
+# Indulgentiarum Sancti Petri de Filimini
+
+Bolla "Indulgentiarum sancti Petri de Filimini"
+
+Bonifacio VIII
+
+Alla chiesa universale di Cristo, per intercessione Divina la presente lettera, Noi Ruggero di Sanseverino Arcivescovo, Attone Captanense, Strefano Oppidense, Francesco Fanense, Martorano Giacomo Treventinense, Bonifacio Parentinense, Giovanni Capodaquense, Daniele Laquedonense, Andrea Lidense, Pasquale Cassinense e Francesco Avellinese nella grazia di Dio, salutano anzitutto il vescovo nel nome del Signore, dopo di che si dispone ogni allo apostolico con la presente lettera da noi esaminata, per intercessione divina e la salvezza nel Signore, nonché per generale dovere apostolico stabiliamo dinanzi al tribunale di Cristo, rifugio del corpo di quanto portiamo sia esso un bene o se un male, di quel che quotidianamente fino all’ultimo raccolto viene dalle opere, per prevenire la vita eterna, cosicché occorre seminare nella vita terrena perché venga resa al Signore ogni nostra attività, ed affinché se ne moltiplichino i frutti e raccoglierli così in cielo. Perciò è essenziale avere la fiducia di tutti nella speranza che chi semina in parte, in parte raccoglie e chi semina nelle benedizione guadagna la benedizione della vita eterna. Or bene dunque alla chiesa del Beato Apostolo Pietro di Filimini, nella diocesi dei Marsi, desideriamo, nella fedele riverenza di Cristo, restituire a chiunque onorerà questa chiesa, con spirito di vera penitenza e vi si confesserà nella stessa festa del santo al cui nome è stata dedicata, oltre alla festa di Natale, della Pasqua, di Resurrezione e nelle quattro festività della Beata Vergine Maria, e nella domenica delle Palme, che devotamente vi si recheranno, e singolarmente a chi nei giorni di Quaresima non è mai stato nella penitenza, sia data la misericordia di Dio, purché nel rispetto di dette regole ed intenzionalmente in quei giorni, consapevolmente in ciò, vi acceda.
+
+Dato in Anagni il 4 luglio, anno primo del Nostro pontificato.
+
+(\*)
+
+La bolla del 1295 della comunità benedettina di S. Pietro in Filimini, anticamente sita nel territorio penitente a Cerchio, ci informa di come Papa Bonifacio VIII ricorse allo strumento giuridico del perdono, anche per altre finalità, che emergono proprio grazie ai preziosi documenti cerchiesi. La bolla fu redatta in Anagni da un consesso di dodici vescovi riuniti nel suo palazzo residenziale. I vescovi concessero ognuno l’indulgenza di quaranta giorni a coloro che confessati e comunicati avessero visitato la chiesa di S. Pietro in Filimini nei giorni di S. Pietro, del S. Natale, in quelli di quattro feste della SS. Vergine e nella Domenica delle Palme.

@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-officiorum-ac-munerum",
+  "cover": "quarter",
+  "name": {
+    "la": "Officiorum ac munerum",
+    "it": "Officiorum ac munerum"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Leo XIII · 1897-01-25",
+    "pt-BR": "Constituição Apostólica · Papa Leão XIII · 1897-01-25"
+  },
+  "composed": "1897",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/apost_constitutions/documents/hf_l-xiii_apc_18970125_officiorum-ac-munerum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/apost_constitutions/documents/hf_l-xiii_apc_18970125_officiorum-ac-munerum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Officiorum ac munerum",
+        "it": "Officiorum ac munerum"
+      }
+    }
+  ]
+}

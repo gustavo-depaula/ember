@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-multiplices-quidem",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Multiplices Quidem, al Cardinale Giovanni Csernoch, Arcivescovo di Esztergom con la quale condanna quanti mirano a sovvertire l’ordine gerarchico della Chiesa e i poteri in materia amministrativa dei benefici"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1919-03-12",
+    "pt-BR": "Carta · Papa Bento XV · 1919-03-12"
+  },
+  "composed": "1919",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1919/documents/hf_ben-xv_let_19190312_multiplices-quidem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Multiplices Quidem, al Cardinale Giovanni Csernoch, Arcivescovo di Esztergom con la quale condanna quanti mirano a sovvertire l’ordine gerarchico della Chiesa e i poteri in materia amministrativa dei benefici"
+      }
+    }
+  ]
+}

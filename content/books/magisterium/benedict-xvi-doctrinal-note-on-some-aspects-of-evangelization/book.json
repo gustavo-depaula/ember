@@ -1,0 +1,39 @@
+{
+  "id": "benedict-xvi-doctrinal-note-on-some-aspects-of-evangelization",
+  "cover": "quarter",
+  "name": {
+    "en-US": "DOCTRINAL NOTE ON SOME ASPECTS OF EVANGELIZATION"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Document · Pope Benedict XVI",
+    "pt-BR": "Documento · Papa Bento XVI"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben16/cdfdoctrineevang1207.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "DOCTRINAL NOTE ON SOME ASPECTS OF EVANGELIZATION"
+      }
+    }
+  ]
+}

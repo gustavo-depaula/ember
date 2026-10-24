@@ -1,0 +1,31 @@
+# In eminenti apostolatus specula
+
+**Carta Encíclica IN EMINENTI APOSTOLATUS SPECULA sobre as Sociedades Secretas.**
+
+CLEMENTE, bispo, servo dos servos de Deus a todos os fiéis, Saudações e Bênçãos Apostólicas.
+
+1.Tendo-nos colocado a Divina Providência, apesar de nossa indignidade, na cátedra mais elevada do Apostolado, para vigiar sem cessar pela segurança do rebanho que nos tem sido confiado, temos dedicado todos os nossos cuidados, no que a ajuda do alto nos tem permitido, e toda a nossa aplicação tem sido para opor ao vicio e erro uma barreira que detenha seu progresso, para conservar especialmente a integridade da religião ortodoxa \[refere-se o Papa à Igreja Católica Romana\*\], e para afastar do Universo católico nestes tempos tão difíceis, tudo o que puder ser para eles motivo de perturbação.
+
+2.Demos conta, e o rumor público não nos permitiu duvidar, que foram formadas, e que se afirmavam dia após dia, centros, reuniões, agrupamentos, agregações ou conventículos, que sob o nome de “Liberi Muratori” ou “Franco-mações” ou sob outra denominação equivalente, segundo a diversidade de línguas, nas quais eram admitidas indiferentemente pessoas de todas as religiões, e de todas as seitas, que com a aparência exterior de uma natural probidade, que ali se exige e se cumpre, estabeleceram certas leis, certos estatutos que as ligam entre si, e que, em particular, os obrigam às penas mais graves, em virtude do juramento sobre as santas Escrituras, a guardar um segredo inviolável sobre tudo o que sucede em suas assembleias.
+
+3.Mas como tal é a natureza humana do crime que se atraiçoa a si mesmo, e que as mesmas preocupações que toma para ocultar-se o descobrem pelo escândalo que não pôde conter, esta sociedade e suas assembleias chegaram a fazer-se tão suspeitas aos fieis, que todo o homem de bem as considera hoje como um sinal pouco equívoco de perversão para qualquer quer um que as adopte. Se não fizessem nada de mau não sentiriam esse ódio à luz.
+
+4.Por conseguinte, desde à muito tempo, estas sociedades têm sido sabiamente proscritas por numerosos príncipes em seus Estados, já que consideraram a esta classe de gente como inimigos da segurança pública.
+
+5\. Depois de uma madura reflexão, sobre os grandes males que se originam habitualmente dessas associações, sempre prejudiciais para a tranquilidade do Estado e a saúde das almas, e que, por esta causa, não podem estar de acordo com as leis civis e canónicas, instruídos por outra parte, pela própria palavra de Deus, que em qualidade de servidor prudente e fiel, elegido para governar o rebanho do Senhor, devemos estar continuamente em guarda contra as gentes desta espécie, por medo a que, a exemplo dos ladrões, assaltem nossas casas, como acontece com as raposas que se lançam sobre a vinha e semeiam por todo o lado a desolação, ou seja, o temor a que seduzam as gentes simples e firam secretamente com suas flechas os corações dos simples e dos inocentes.
+
+6.Finalmente, querendo deter os avanços desta previsão, e proibir uma via que daria lugar a deixar-se ir impunemente a muitas iniquidades, e por outras várias razões de nós conhecidas, e que são igualmente justas e razoáveis; depois de ter deliberado com nossos veneráveis irmãos os Cardeais da santa Igreja romana, e por conselho seu, assim como por nossa própria iniciativa e conhecimento certo, e em toda a plenitude de nossa potência apostólica, resolvemos condenar e proibir, tal como condenamos e proibimos, os sobreditos centros, reuniões, agrupamentos, agregações ou conventículos de Liberi Muratori ou Franco-mações ou qualquer que seja o nome com que se designem, por esta nossa presente Constituição, válida para a perpetuidade.
+
+7.Por tudo o referido, proibimos muito expressamente e em virtude da santa obediência, a todos os fieis, sejam laicos ou clérigos, seculares ou regulares, compreendidos aqueles que devem ser muito especialmente nomeados, de qualquer estado grau, condição, dignidade ou preeminência que desfrutem, quaisquer que fossem, que entrem por qualquer causa e sob pretexto algum em tais centros, reuniões, agrupamentos, agregações ou conventículos antes mencionados, nem favorecer seu progresso, recebe-los ou oculta-los em sua casa, nem tampouco associar-se aos mesmos, nem assistir, nem facilitar suas assembleias, nem presta-lhes ajuda ou favores em público ou em privado, nem operar directa ou indirectamente por si mesmo ou por outra pessoa, nem exortar, induzir nem comprometer-se com ninguém para fazer adoptar nestas sociedades, assistir a elas nem prestar-lhes nenhuma classe de ajuda ou fomenta-las; lhes ordenamos pelo contrário, absterem-se completamente destas associações ou assembleias, sob a pena de excomunhão, na que incorrerão os infractores que mencionamos pelo simples factos e sem outra declaração; de cuja excomunhão não poderão ser absolvidos mais que por nós ou por o Soberano Pontífice então reinante, que não seja em “articulo mortis”. Queremos ademais e ordenamos que os bispos, prelados, superiores, e o clero ordinário, assim como os inquisidores, procedam contra os infractores de qualquer grau, condição, ordem, dignidade ou preeminência; trabalhem para redimi-los e castiga-los com as penas que mereçam a título de pessoas veementemente suspeitas de heresia.
+
+8.A este efeito, damos a todos e a cada um deles o poder para persegui-los e castiga-los segundo os caminhos do direito, recorrendo, se assim for necessário, ao Braço secular.
+
+9.Queremos também que as cópias da presente Constituição tenham a mesma força que a original, desde o momento que sejam legalizadas ante notário público, e com o selo de uma pessoa constituída em dignidade eclesiástica.
+
+10.Contudo, ninguém deve ser demasiado temerário para atrever-se a atacar ou a contradizer a presente declaração, condenação, defesa e proibição, Se alguém levasse sua ousadia até este ponto, já sabe que incorrerá na cólera de Deus todo-poderoso e dos bem-aventurados apóstolos Pedro e Paulo.
+
+Dado em Roma, na igreja de Santa Maria maior, no ano de 1738 depois da Encarnação de Jesus Cristo, nas 4 calendas de maio. O ano VIII do nosso pontificado.
+
+Clemente XII Papa
+
+- Fonte: [Depósito P](https://depositop.blogspot.com)

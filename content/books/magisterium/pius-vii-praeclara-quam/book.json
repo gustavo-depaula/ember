@@ -1,0 +1,40 @@
+{
+  "id": "pius-vii-praeclara-quam",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Praeclara quam"
+  },
+  "author": {
+    "en-US": "Pope Pius VII",
+    "pt-BR": "Papa Pio VII",
+    "la": "Pius PP. VII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius VII · 1820-05-16",
+    "pt-BR": "Breve · Papa Pio VII · 1820-05-16"
+  },
+  "composed": "1820",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-vii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vii/it/documents/breve-praeclara-quam-16-maggio-1820.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Praeclara quam"
+      }
+    }
+  ]
+}

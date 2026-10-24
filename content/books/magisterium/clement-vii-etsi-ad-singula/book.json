@@ -1,0 +1,40 @@
+{
+  "id": "clement-vii-etsi-ad-singula",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'Etsi ad Singula'"
+  },
+  "author": {
+    "en-US": "Pope Clement VII",
+    "pt-BR": "Papa Clemente VII",
+    "la": "Clemens PP. VII"
+  },
+  "description": {
+    "en-US": "Bull · Pope Clement VII · 1532-06-05",
+    "pt-BR": "Bula · Papa Clemente VII · 1532-06-05"
+  },
+  "composed": "1532",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "clement-vii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1532-06-05,_Clemens_VII,_Bulla_'Etsi_ad_Singula',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'Etsi ad Singula'"
+      }
+    }
+  ]
+}

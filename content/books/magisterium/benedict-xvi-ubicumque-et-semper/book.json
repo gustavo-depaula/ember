@@ -1,0 +1,88 @@
+{
+  "id": "benedict-xvi-ubicumque-et-semper",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio datae, Ubicumque et semper, quibus Pontificum Consilium de Nova Evangelizatione promovenda constituitur, die XXI m. Septembris A.D. MMX - Benedictus XVI, Litterae Apostolicae Motu Proprio datae",
+    "en-US": "Apostolic Letter issued \"Motu Proprio\" Ubicumque et semper of the Supreme Pontiff Benedict XVI establishing the Pontifical Council for Promoting the New Evangelization",
+    "pt-BR": "Carta Apostólica em forma de \"Motu Proprio\" Ubicumque et semper, com a qual se institui o Pontifício Conselho para a Promoção da Nova Evangelização",
+    "de": "Apostolisches Schreiben in Form eines \"Motu Proprio\" Ubicumque et semper, mit dem der Päpstliche Rat zur Förderung der Neuevangelisierung errichtet wird",
+    "es": "Carta Apostólica en forma de \"Motu Proprio\" Ubicumque et semper, con la cual se instituye el Consejo pontificio para la promoción de la nueva evangelización",
+    "fr": "Lettre Apostolique en forme de Motu Proprio Ubicumque et semper instituant le Conseil pontifical pour la promotion de la nouvelle évangélisation",
+    "it": "Lettera Apostolica in forma di \"Motu Proprio\" Ubicumque et semper, con la quale si istituisce il Pontificio Consiglio per la Promozione della Nuova Evangelizzazione"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Benedict XVI · 2010-09-21",
+    "pt-BR": "Carta Apostólica · Papa Bento XVI · 2010-09-21"
+  },
+  "composed": "2010",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/apost_letters/documents/hf_ben-xvi_apl_20100921_ubicumque-et-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/apost_letters/documents/hf_ben-xvi_apl_20100921_ubicumque-et-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/apost_letters/documents/hf_ben-xvi_apl_20100921_ubicumque-et-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/apost_letters/documents/hf_ben-xvi_apl_20100921_ubicumque-et-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/apost_letters/documents/hf_ben-xvi_apl_20100921_ubicumque-et-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/apost_letters/documents/hf_ben-xvi_apl_20100921_ubicumque-et-semper.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/apost_letters/documents/hf_ben-xvi_apl_20100921_ubicumque-et-semper.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio datae, Ubicumque et semper, quibus Pontificum Consilium de Nova Evangelizatione promovenda constituitur, die XXI m. Septembris A.D. MMX - Benedictus XVI, Litterae Apostolicae Motu Proprio datae",
+        "en-US": "Apostolic Letter issued \"Motu Proprio\" Ubicumque et semper of the Supreme Pontiff Benedict XVI establishing the Pontifical Council for Promoting the New Evangelization",
+        "pt-BR": "Carta Apostólica em forma de \"Motu Proprio\" Ubicumque et semper, com a qual se institui o Pontifício Conselho para a Promoção da Nova Evangelização",
+        "de": "Apostolisches Schreiben in Form eines \"Motu Proprio\" Ubicumque et semper, mit dem der Päpstliche Rat zur Förderung der Neuevangelisierung errichtet wird",
+        "es": "Carta Apostólica en forma de \"Motu Proprio\" Ubicumque et semper, con la cual se instituye el Consejo pontificio para la promoción de la nueva evangelización",
+        "fr": "Lettre Apostolique en forme de Motu Proprio Ubicumque et semper instituant le Conseil pontifical pour la promotion de la nouvelle évangélisation",
+        "it": "Lettera Apostolica in forma di \"Motu Proprio\" Ubicumque et semper, con la quale si istituisce il Pontificio Consiglio per la Promozione della Nuova Evangelizzazione"
+      }
+    }
+  ]
+}

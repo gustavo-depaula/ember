@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-ad-gravissimas",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Ad gravissimas"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory XVI · 1843-08-31",
+    "pt-BR": "Carta · Papa Gregório XVI · 1843-08-31"
+  },
+  "composed": "1843",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/epistola-ad-gravissimas-31-agosto-1843.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Ad gravissimas"
+      }
+    }
+  ]
+}

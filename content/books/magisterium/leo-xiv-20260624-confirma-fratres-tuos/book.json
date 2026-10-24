@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiv-20260624-confirma-fratres-tuos",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Apostolica in forma di «Motu Proprio» sulla revisione della Costituzione Apostolica In Ecclesiarum Communione"
+  },
+  "author": {
+    "en-US": "Pope Leo XIV",
+    "pt-BR": "Papa Leão XIV",
+    "la": "Leo PP. XIV"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIV · 2026-06-24",
+    "pt-BR": "Carta Apostólica · Papa Leão XIV · 2026-06-24"
+  },
+  "composed": "2026",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiv/it/apost_letters/documents/20260624-confirma-fratres-tuos.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Apostolica in forma di «Motu Proprio» sulla revisione della Costituzione Apostolica In Ecclesiarum Communione"
+      }
+    }
+  ]
+}

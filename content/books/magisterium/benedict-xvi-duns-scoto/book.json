@@ -1,0 +1,88 @@
+{
+  "id": "benedict-xvi-duns-scoto",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Apostolica Venerabili Fratri Nostro Ioachimo S.R.E. Cardinali Meisner, Archiepiscopo Coloniensi, cunctisque ex toto orbe terrarum participibus congressus scientifici internationalis DCC annis elapsis ab obitu beati Ioannis Duns Scoti, d. 28 m. Octobris a. 2008, Benedictus XVI",
+    "en-US": "Apostolic Letter to Card. Joachim Meisner on the occasion of the 7th centenary of the death of blessed John Duns Scotus",
+    "pt-BR": "Carta Apostólica ao Cardeal Joachim Meisner por ocasião do VII Centenário da morte do beato João Duns Escoto",
+    "de": "Apostolisches Schreiben an Joachim Kardinal Meisner zum 700. Todestag des sel. Johannes Duns Scotus",
+    "es": "Carta Apostólica al Card. Joachim Meisner con ocasión del VII centenario de la muerte del beato Juan Duns Scoto",
+    "fr": "Lettre Apostolique au Card. Joachim Meisner, archevêque de Cologne à l'occasion du septième centenaire de la mort du bienheureux John Duns Scot",
+    "it": "Lettera Apostolica al Card. Joachim Meisner in occasione del VII Centenario della morte del beato Giovanni Duns Scoto"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Benedict XVI · 2008-10-28",
+    "pt-BR": "Carta Apostólica · Papa Bento XVI · 2008-10-28"
+  },
+  "composed": "2008",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/apost_letters/documents/hf_ben-xvi_apl_20081028_duns-scoto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/apost_letters/documents/hf_ben-xvi_apl_20081028_duns-scoto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/apost_letters/documents/hf_ben-xvi_apl_20081028_duns-scoto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/apost_letters/documents/hf_ben-xvi_apl_20081028_duns-scoto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/apost_letters/documents/hf_ben-xvi_apl_20081028_duns-scoto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/apost_letters/documents/hf_ben-xvi_apl_20081028_duns-scoto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/apost_letters/documents/hf_ben-xvi_apl_20081028_duns-scoto.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Apostolica Venerabili Fratri Nostro Ioachimo S.R.E. Cardinali Meisner, Archiepiscopo Coloniensi, cunctisque ex toto orbe terrarum participibus congressus scientifici internationalis DCC annis elapsis ab obitu beati Ioannis Duns Scoti, d. 28 m. Octobris a. 2008, Benedictus XVI",
+        "en-US": "Apostolic Letter to Card. Joachim Meisner on the occasion of the 7th centenary of the death of blessed John Duns Scotus",
+        "pt-BR": "Carta Apostólica ao Cardeal Joachim Meisner por ocasião do VII Centenário da morte do beato João Duns Escoto",
+        "de": "Apostolisches Schreiben an Joachim Kardinal Meisner zum 700. Todestag des sel. Johannes Duns Scotus",
+        "es": "Carta Apostólica al Card. Joachim Meisner con ocasión del VII centenario de la muerte del beato Juan Duns Scoto",
+        "fr": "Lettre Apostolique au Card. Joachim Meisner, archevêque de Cologne à l'occasion du septième centenaire de la mort du bienheureux John Duns Scot",
+        "it": "Lettera Apostolica al Card. Joachim Meisner in occasione del VII Centenario della morte del beato Giovanni Duns Scoto"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "stephen-i-supra-omnibus-episcopis-scripta",
+  "cover": "quarter",
+  "name": {
+    "la": "Decretum Supra Omnibus Episcopis Scripta"
+  },
+  "author": {
+    "en-US": "Pope Stephen I",
+    "pt-BR": "Papa Estêvão I",
+    "la": "Stephanus PP. I"
+  },
+  "description": {
+    "en-US": "Decree · Pope Stephen I · 0254",
+    "pt-BR": "Decreto · Papa Estêvão I · 0254"
+  },
+  "composed": "254",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "decree",
+    "stephen-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0254-0257,_SS_Stephanus_I,_Decretum_Supra_Omnibus_Episcopis_Scripta,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decretum Supra Omnibus Episcopis Scripta"
+      }
+    }
+  ]
+}

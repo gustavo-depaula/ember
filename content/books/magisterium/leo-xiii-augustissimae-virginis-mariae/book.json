@@ -1,0 +1,64 @@
+{
+  "id": "leo-xiii-augustissimae-virginis-mariae",
+  "cover": "quarter",
+  "name": {
+    "la": "Augustissimae Virginis Mariae",
+    "en-US": "Augustissimae Virginis Mariae",
+    "pt-BR": "Augustissimae Virginis Mariae: sobre o Rosário de Nossa Senhora",
+    "it": "Augustissimae\n Virginis Mariae (September 12, 1897)"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1897-09-12",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1897-09-12"
+  },
+  "composed": "1897",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1897-09-12,_SS_Leo_XIII,_Augustissimae_Virginis,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Augustissimae Virginis Mariae",
+        "en-US": "Augustissimae Virginis Mariae",
+        "pt-BR": "Augustissimae Virginis Mariae: sobre o Rosário de Nossa Senhora",
+        "it": "Augustissimae\n Virginis Mariae (September 12, 1897)"
+      }
+    }
+  ]
+}

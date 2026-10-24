@@ -1,0 +1,168 @@
+{
+  "id": "francis-laudato-si",
+  "cover": "quarter",
+  "name": {
+    "la": "Laudato si'. De communi domo colenda (die XXIV mensis Maii, anno MMXV)",
+    "en-US": "Laudato si'",
+    "pt-BR": "Laudato si'",
+    "ar": "كُنْ مُسَبَّحًا حول العناية بالبيت المشترك 24 مايو/أيار سنة 2015",
+    "be": "Laudato si'",
+    "de": "Laudato si'",
+    "es": "Laudato si'",
+    "fr": "Laudato si'",
+    "it": "Laudato si'",
+    "ja": "回勅 ラウダート・シ ともに暮らす家を大切に 教皇フランシスコ",
+    "lv": "Laudato si'",
+    "pl": "Laudato si'",
+    "ru": "ЭНЦИКЛИКА LAUDATO SI’ СВЯТЕЙШЕГО ОТЦА ФРАНЦИСКА О ЗАБОТЕ ОБ ОБЩЕМ ДОМЕ",
+    "sl": "Laudato si'",
+    "uk": "Laudato si'",
+    "zh-CN": "Laudato si'",
+    "zh-TW": "Laudato si'"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Francis · 2015-05-24",
+    "pt-BR": "Encíclica · Papa Francisco · 2015-05-24"
+  },
+  "composed": "2015",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "ja",
+    "lv",
+    "pl",
+    "ru",
+    "sl",
+    "uk",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ja",
+      "url": "https://www.vatican.va/content/francesco/ja/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/content/francesco/lv/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/content/francesco/ru/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sl",
+      "url": "https://www.vatican.va/content/francesco/sl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "uk",
+      "url": "https://www.vatican.va/content/francesco/uk/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Laudato si'. De communi domo colenda (die XXIV mensis Maii, anno MMXV)",
+        "en-US": "Laudato si'",
+        "pt-BR": "Laudato si'",
+        "ar": "كُنْ مُسَبَّحًا حول العناية بالبيت المشترك 24 مايو/أيار سنة 2015",
+        "be": "Laudato si'",
+        "de": "Laudato si'",
+        "es": "Laudato si'",
+        "fr": "Laudato si'",
+        "it": "Laudato si'",
+        "ja": "回勅 ラウダート・シ ともに暮らす家を大切に 教皇フランシスコ",
+        "lv": "Laudato si'",
+        "pl": "Laudato si'",
+        "ru": "ЭНЦИКЛИКА LAUDATO SI’ СВЯТЕЙШЕГО ОТЦА ФРАНЦИСКА О ЗАБОТЕ ОБ ОБЩЕМ ДОМЕ",
+        "sl": "Laudato si'",
+        "uk": "Laudato si'",
+        "zh-CN": "Laudato si'",
+        "zh-TW": "Laudato si'"
+      }
+    }
+  ]
+}

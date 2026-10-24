@@ -1,0 +1,40 @@
+{
+  "id": "innocent-iv-sub-catholicae-professione",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Sub catholicae professione (6 Martii 1254), ad episcopum Tusculanum"
+  },
+  "author": {
+    "en-US": "Pope Innocent IV",
+    "pt-BR": "Papa Inocêncio IV",
+    "la": "Innocentius PP. IV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Innocent IV · 1254-03-06",
+    "pt-BR": "Carta · Papa Inocêncio IV · 1254-03-06"
+  },
+  "composed": "1254",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "innocent-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/innocentius-iv/la/documents/epistola-sub-catholicae-professione-6-martii-1254.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Sub catholicae professione (6 Martii 1254), ad episcopum Tusculanum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-vocacoes-sacerdotais-no-brasil",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Vocações Sacerdotais no Brasil"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius XII · 1947-04-23",
+    "pt-BR": "Carta Apostólica · Papa Pio XII · 1947-04-23"
+  },
+  "composed": "1947",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/vocacoes-sacerdotais-no-brasil-pio-xii-23-04-1947/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Vocações Sacerdotais no Brasil"
+      }
+    }
+  ]
+}

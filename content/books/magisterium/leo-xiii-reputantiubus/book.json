@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-reputantiubus",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Reputantiubus"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Document · Pope Leo XIII · 1901-08-20",
+    "pt-BR": "Documento · Papa Leão XIII · 1901-08-20"
+  },
+  "composed": "1901",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo13/l13reput.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Reputantiubus"
+      }
+    }
+  ]
+}

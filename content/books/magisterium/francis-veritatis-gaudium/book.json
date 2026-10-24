@@ -1,0 +1,104 @@
+{
+  "id": "francis-veritatis-gaudium",
+  "cover": "quarter",
+  "name": {
+    "la": "Veritatis gaudium, De universitatibus et facultatibus ecclesiasticis",
+    "en-US": "Apostolic Constitution Veritatis gaudium on Ecclesiastical Universities and Faculties",
+    "pt-BR": "\"Veritatis gaudium\": sobre as Universidades e as Faculdades eclesiásticas",
+    "de": "Apostolische Konstitution Veritatis gaudium über die kirchlichen Universitäten und Fakultäten",
+    "es": "Veritatis gaudium, sobre las Universidades y Facultades eclesiásticas",
+    "fr": "Veritatis gaudium, sur les Universités et les Facultés ecclésiastiques",
+    "it": "Veritatis gaudium, circa le Università e le Facoltà ecclesiastiche",
+    "lv": "APUSTULISKĀ KONSTITŪCIJA VERITATIS GAUDIUM PAR EKLEZIĀLAJĀM UNIVERSITĀTĒM UN FAKULTĀTĒM, 2017. gada 8. decembrī",
+    "pl": "Veritatis gaudium o uniwersytetach i wydziałach kościelnych"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Francis · 2017-12-08",
+    "pt-BR": "Constituição Apostólica · Papa Francisco · 2017-12-08"
+  },
+  "composed": "2017",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "lv",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/content/francesco/lv/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Veritatis gaudium, De universitatibus et facultatibus ecclesiasticis",
+        "en-US": "Apostolic Constitution Veritatis gaudium on Ecclesiastical Universities and Faculties",
+        "pt-BR": "\"Veritatis gaudium\": sobre as Universidades e as Faculdades eclesiásticas",
+        "de": "Apostolische Konstitution Veritatis gaudium über die kirchlichen Universitäten und Fakultäten",
+        "es": "Veritatis gaudium, sobre las Universidades y Facultades eclesiásticas",
+        "fr": "Veritatis gaudium, sur les Universités et les Facultés ecclésiastiques",
+        "it": "Veritatis gaudium, circa le Università e le Facoltà ecclesiastiche",
+        "lv": "APUSTULISKĀ KONSTITŪCIJA VERITATIS GAUDIUM PAR EKLEZIĀLAJĀM UNIVERSITĀTĒM UN FAKULTĀTĒM, 2017. gada 8. decembrī",
+        "pl": "Veritatis gaudium o uniwersytetach i wydziałach kościelnych"
+      }
+    }
+  ]
+}

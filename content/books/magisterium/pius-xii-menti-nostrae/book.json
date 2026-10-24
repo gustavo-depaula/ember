@@ -1,0 +1,88 @@
+{
+  "id": "pius-xii-menti-nostrae",
+  "cover": "quarter",
+  "name": {
+    "la": "Menti Nostrae, die XXIII m. Septembris, A.D. MDCCCCL - PIUS PP. XII, Adhortatio Apostolica",
+    "en-US": "Menti Nostrae",
+    "pt-BR": "Menti Nostrae",
+    "de": "Menti Nostrae",
+    "es": "Menti Nostrae",
+    "fr": "Menti Nostrae (23 settembre 1950)",
+    "it": "Menti Nostrae"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Pius XII · 1950-09-23",
+    "pt-BR": "Exortação Apostólica · Papa Pio XII · 1950-09-23"
+  },
+  "composed": "1950",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/apost_exhortations/documents/hf_p-xii_exh_19500923_menti-nostrae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12clerg.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/apost_exhortations/documents/hf_p-xii_exh_19500923_menti-nostrae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/pius-xii/de/apost_exhortations/documents/hf_p-xii_exh_19500923_menti-nostrae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/apost_exhortations/documents/hf_p-xii_exh_19500923_menti-nostrae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1950-09-25,_SS_Pius_XII,_Menti_Nostrae,_FR.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_exhortations/documents/hf_p-xii_exh_19500923_menti-nostrae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Menti Nostrae, die XXIII m. Septembris, A.D. MDCCCCL - PIUS PP. XII, Adhortatio Apostolica",
+        "en-US": "Menti Nostrae",
+        "pt-BR": "Menti Nostrae",
+        "de": "Menti Nostrae",
+        "es": "Menti Nostrae",
+        "fr": "Menti Nostrae (23 settembre 1950)",
+        "it": "Menti Nostrae"
+      }
+    }
+  ]
+}

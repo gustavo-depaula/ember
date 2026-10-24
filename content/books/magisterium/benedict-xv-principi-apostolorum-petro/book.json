@@ -1,0 +1,64 @@
+{
+  "id": "benedict-xv-principi-apostolorum-petro",
+  "cover": "quarter",
+  "name": {
+    "la": "Principi apostolorum Petro, die V m. Octobris a. MCMXX, Benedictus PP. XV - Litterae Encyclicae",
+    "en-US": "Principi Apostolorum Petro",
+    "es": "Principi\n Apostolorum Petro (October 5, 1920)",
+    "it": "Principi Apostolorum Petro"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XV · 1920-10-05",
+    "pt-BR": "Encíclica · Papa Bento XV · 1920-10-05"
+  },
+  "composed": "1920",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1920-10-05,_SS_Benedictus_XV,_Encyclica_'Principi_Apostolorum_Petro',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_05101920_principi-apostolorum-petro.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Principi apostolorum Petro, die V m. Octobris a. MCMXX, Benedictus PP. XV - Litterae Encyclicae",
+        "en-US": "Principi Apostolorum Petro",
+        "es": "Principi\n Apostolorum Petro (October 5, 1920)",
+        "it": "Principi Apostolorum Petro"
+      }
+    }
+  ]
+}

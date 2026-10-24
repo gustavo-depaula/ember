@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-testem-benevolentiae-nostrae",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Testem Benevolentiae Nostrae",
+    "es": "Testem Benevolentiae Nostrae",
+    "it": "Testem Benevolentiae Nostrae"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Document · Pope Leo XIII · 1899-01-22",
+    "pt-BR": "Documento · Papa Leão XIII · 1899-01-22"
+  },
+  "composed": "1899",
+  "languages": [
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo13/l13teste.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1899-01-22,_SS_Leo_XIII,_Testem_Benevolentiae,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1899-01-22,_SS_Leo_XIII,_Testem_Benevolentiae,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Testem Benevolentiae Nostrae",
+        "es": "Testem Benevolentiae Nostrae",
+        "it": "Testem Benevolentiae Nostrae"
+      }
+    }
+  ]
+}

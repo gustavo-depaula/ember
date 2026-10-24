@@ -1,0 +1,48 @@
+{
+  "id": "gregory-i-qui-sincera-ad-pascasium-neapolis-episcopum",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistola 'Qui Sincera' ad Pascasium Neapolis Episcopum",
+    "it": "Epistola 'Qui Sincera' ad Pascasium Neapolis Episcopum"
+  },
+  "author": {
+    "en-US": "Pope Gregory I",
+    "pt-BR": "Papa Gregório I",
+    "la": "Gregorius PP. I"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory I · 0590",
+    "pt-BR": "Carta · Papa Gregório I · 0590"
+  },
+  "composed": "590",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0590-0604,_SS_Gregorius_I_Magnus,_Epistola_'Qui_Sincera'_ad_Pascasium_Neapolis_Episcopum,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0590-0604,_SS_Gregorius_I_Magnus,_Epistola_'Qui_Sincera'_ad_Pascasium_Neapolis_Episcopum,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistola 'Qui Sincera' ad Pascasium Neapolis Episcopum",
+        "it": "Epistola 'Qui Sincera' ad Pascasium Neapolis Episcopum"
+      }
+    }
+  ]
+}

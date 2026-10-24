@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-dives-in-misericordia",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Dives in misericordia"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius IX · 1877-11-16",
+    "pt-BR": "Breve · Papa Pio IX · 1877-11-16"
+  },
+  "composed": "1877",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/breve-dives-in-misericordia-16-novembre-1877.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Dives in misericordia"
+      }
+    }
+  ]
+}

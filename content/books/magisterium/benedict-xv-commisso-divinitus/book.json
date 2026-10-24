@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-commisso-divinitus",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Commisso Divinitus, a Ludovico Nazario Bégin, Arcivescovo di Québec e agli altri Arcivescovi e Vescovi della regione canadese per placare il dissenso fra i cattolici di lingua francese e quelli di lingua inglese in Canada"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1916-09-08",
+    "pt-BR": "Carta · Papa Bento XV · 1916-09-08"
+  },
+  "composed": "1916",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1916/documents/hf_ben-xv_let_19160908_commisso-divinitus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Commisso Divinitus, a Ludovico Nazario Bégin, Arcivescovo di Québec e agli altri Arcivescovi e Vescovi della regione canadese per placare il dissenso fra i cattolici di lingua francese e quelli di lingua inglese in Canada"
+      }
+    }
+  ]
+}

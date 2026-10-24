@@ -1,0 +1,88 @@
+{
+  "id": "cdf-rec-holy-comm-by-divorced-14091994",
+  "cover": "quarter",
+  "name": {
+    "la": "DE RECEPTIONE COMMUNIONIS EUCHARISTICAE",
+    "en-US": "Letter concerning the reception of Holy Communion",
+    "pt-BR": "Carta aos Bispos da Igreja Católica sobre a recepção da comunhão eucarística por fiéis divorciados novamente casados - Annus Internationalis Familiae",
+    "de": "Schreiben an die Bischöfe der katholischen Kirche über den Kommunionempfang von wiederverheirateten geschiedenen Gläubigen – Annus Internationalis Familiae",
+    "es": "Carta a los Obispos de la Iglesia Católica sobre la recepción de la comunión eucarística por parte de los fieles divorciados que se han vuelto a casar – Annus Internationalis Familiae",
+    "it": "Lettera ai Vescovi della Chiesa Cattolica circa la recezione della comunione eucaristica da parte di fedeli divorziati risposati – Annus Internationalis Familiae",
+    "pl": "List do biskupów Kościoła katolickiego na temat przyjmowania Komunii św. przez wiernych rozwiedzionych żyjących w nowych związkach"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1409-19-94",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1409-19-94"
+  },
+  "composed": "1409",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_14091994_rec-holy-comm-by-divorced_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_14091994_rec-holy-comm-by-divorced_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_14091994_rec-holy-comm-by-divorced_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_14091994_rec-holy-comm-by-divorced_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_14091994_rec-holy-comm-by-divorced_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_14091994_rec-holy-comm-by-divorced_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_14091994_rec-holy-comm-by-divorced_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "DE RECEPTIONE COMMUNIONIS EUCHARISTICAE",
+        "en-US": "Letter concerning the reception of Holy Communion",
+        "pt-BR": "Carta aos Bispos da Igreja Católica sobre a recepção da comunhão eucarística por fiéis divorciados novamente casados - Annus Internationalis Familiae",
+        "de": "Schreiben an die Bischöfe der katholischen Kirche über den Kommunionempfang von wiederverheirateten geschiedenen Gläubigen – Annus Internationalis Familiae",
+        "es": "Carta a los Obispos de la Iglesia Católica sobre la recepción de la comunión eucarística por parte de los fieles divorciados que se han vuelto a casar – Annus Internationalis Familiae",
+        "it": "Lettera ai Vescovi della Chiesa Cattolica circa la recezione della comunione eucaristica da parte di fedeli divorziati risposati – Annus Internationalis Familiae",
+        "pl": "List do biskupów Kościoła katolickiego na temat przyjmowania Komunii św. przez wiernych rozwiedzionych żyjących w nowych związkach"
+      }
+    }
+  ]
+}

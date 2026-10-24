@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-grave-periodo",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Nel grave periodo a Monsignor Alessandro Kakowski, Arcivescovo di Varsavia, con la quale il Pontefice annuncia che nel prossimo Concistoro lo eleverà alla dignità cardinalizia"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1918-10-15",
+    "pt-BR": "Carta · Papa Bento XV · 1918-10-15"
+  },
+  "composed": "1918",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1918/documents/hf_ben-xv_let_19181015_grave-periodo.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Nel grave periodo a Monsignor Alessandro Kakowski, Arcivescovo di Varsavia, con la quale il Pontefice annuncia che nel prossimo Concistoro lo eleverà alla dignità cardinalizia"
+      }
+    }
+  ]
+}

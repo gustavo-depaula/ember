@@ -1,0 +1,40 @@
+{
+  "id": "cdf-meditazione-christiana",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula ad totius catholicae ecclesiae episcopos de quibusdam rationibus christianae meditationis"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1989-10-15",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1989-10-15"
+  },
+  "composed": "1989",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-christiana_lt.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula ad totius catholicae ecclesiae episcopos de quibusdam rationibus christianae meditationis"
+      }
+    }
+  ]
+}

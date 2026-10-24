@@ -1,0 +1,88 @@
+{
+  "id": "cdf-card-hoffner",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Em.mo ac Rev.mo Domino Iosepho Card. Höffner, Archiepiscopo Colonien., missa: De peracto examine circa “Opus Angelorum”, d. 24 m. Septembris a. 1983, Congregatio pro Doctrina Fidei",
+    "en-US": "Letter to His Eminence, Cardinal Joseph Höffner, Archbishop of Cologne, regarding the \"Opera degli angeli\" (Work of the angels), 24 September 1983",
+    "de": "Schreiben an Kardinal Joseph Höffner, Erzbischof von Köln, zum Engelwerk, 24. September 1983",
+    "es": "Carta al Card. Ioseph Höffner, Arzobispo de Colonia, referente a la Obra de los ángeles",
+    "fr": "Lettre à S.Em. le Card. Ioseph Höffner, Archevêque de Cologne, au sujet de l'«Opus Angelorum», 24 septembre 1983",
+    "it": "Lettera all'Em.mo Card. Ioseph Höffner, Arcivescovo di Colonia, riguardante l'«Opera degli angeli», 24 settembre 1983",
+    "pl": "DEKRET O EKSKOMUNICE, KTÓREJ PODLEGAJĄ UJAWNIAJĄCY TREŚĆ SPOWIEDZI, 23 września 1988 r."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1983-09-24",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1983-09-24"
+  },
+  "composed": "1983",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830924_card-hoffner_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830924_card-hoffner_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830924_card-hoffner_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830924_card-hoffner_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830924_card-hoffner_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830924_card-hoffner_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830924_card-hoffner_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Em.mo ac Rev.mo Domino Iosepho Card. Höffner, Archiepiscopo Colonien., missa: De peracto examine circa “Opus Angelorum”, d. 24 m. Septembris a. 1983, Congregatio pro Doctrina Fidei",
+        "en-US": "Letter to His Eminence, Cardinal Joseph Höffner, Archbishop of Cologne, regarding the \"Opera degli angeli\" (Work of the angels), 24 September 1983",
+        "de": "Schreiben an Kardinal Joseph Höffner, Erzbischof von Köln, zum Engelwerk, 24. September 1983",
+        "es": "Carta al Card. Ioseph Höffner, Arzobispo de Colonia, referente a la Obra de los ángeles",
+        "fr": "Lettre à S.Em. le Card. Ioseph Höffner, Archevêque de Cologne, au sujet de l'«Opus Angelorum», 24 septembre 1983",
+        "it": "Lettera all'Em.mo Card. Ioseph Höffner, Arcivescovo di Colonia, riguardante l'«Opera degli angeli», 24 settembre 1983",
+        "pl": "DEKRET O EKSKOMUNICE, KTÓREJ PODLEGAJĄ UJAWNIAJĄCY TREŚĆ SPOWIEDZI, 23 września 1988 r."
+      }
+    }
+  ]
+}

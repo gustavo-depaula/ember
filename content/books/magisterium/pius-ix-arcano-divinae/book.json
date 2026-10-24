@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-arcano-divinae",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Arcano Divinae",
+    "it": "Enciclica Arcano divinae"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius IX · 1868-09-08",
+    "pt-BR": "Carta Apostólica · Papa Pio IX · 1868-09-08"
+  },
+  "composed": "1868",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/litterae-apostolicae-arcano-divinae-8-septembris-1868.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/litterae-apostolicae-arcano-divinae-8-septembris-1868.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Arcano Divinae",
+        "it": "Enciclica Arcano divinae"
+      }
+    }
+  ]
+}

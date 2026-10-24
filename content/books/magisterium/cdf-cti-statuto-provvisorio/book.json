@@ -1,0 +1,104 @@
+{
+  "id": "cdf-cti-statuto-provvisorio",
+  "cover": "quarter",
+  "name": {
+    "la": "Statuta ad experimentum, 12 Iulii 1969",
+    "en-US": "Provisory Statute of the International Theological Commission, 12 July 1969",
+    "cs": "Provizorní statuta - Mezinárodní Teologická Komise",
+    "de": "Vorläufige Statuten der Internationalen Theologischen Kommission, 12. Juli 1969",
+    "es": "Estatutos ad experimentum de la Comisión Teológica Internacional, 12 julio 1969",
+    "fr": "Statuts provisoires de la Commission Théologique Internationale, 12 juillet 1969",
+    "hu": "Ideiglenes statútum - Nemzetközi Teológiai Bizottság",
+    "it": "Statuto provvisorio della Commissione Teologica Internazionale, 12 luglio 1969",
+    "ru": "ВРЕМЕННЫЙ УСТАВ, Рим, 12 июля 1969 года"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1969-07-12",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1969-07-12"
+  },
+  "composed": "1969",
+  "languages": [
+    "la",
+    "en-US",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_19690712_statuto-provvisorio_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_19690712_statuto-provvisorio_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_19690712_statuto-provvisorio_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_19690712_statuto-provvisorio_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_19690712_statuto-provvisorio_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_19690712_statuto-provvisorio_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_19690712_statuto-provvisorio_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_19690712_statuto-provvisorio_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_19690712_statuto-provvisorio_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Statuta ad experimentum, 12 Iulii 1969",
+        "en-US": "Provisory Statute of the International Theological Commission, 12 July 1969",
+        "cs": "Provizorní statuta - Mezinárodní Teologická Komise",
+        "de": "Vorläufige Statuten der Internationalen Theologischen Kommission, 12. Juli 1969",
+        "es": "Estatutos ad experimentum de la Comisión Teológica Internacional, 12 julio 1969",
+        "fr": "Statuts provisoires de la Commission Théologique Internationale, 12 juillet 1969",
+        "hu": "Ideiglenes statútum - Nemzetközi Teológiai Bizottság",
+        "it": "Statuto provvisorio della Commissione Teologica Internazionale, 12 luglio 1969",
+        "ru": "ВРЕМЕННЫЙ УСТАВ, Рим, 12 июля 1969 года"
+      }
+    }
+  ]
+}

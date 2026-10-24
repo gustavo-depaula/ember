@@ -1,0 +1,40 @@
+{
+  "id": "francis-20221210-isabella-mrad-campos",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae: Venerabili Servae Dei Isabellae Christinae Mrad Campos caelitum Beatorum tribuitur dignitas (die X mensis Decembris anno MMXXII)"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2022-12-10",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2022-12-10"
+  },
+  "composed": "2022",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_letters/documents/20221210-isabella-mrad-campos.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae: Venerabili Servae Dei Isabellae Christinae Mrad Campos caelitum Beatorum tribuitur dignitas (die X mensis Decembris anno MMXXII)"
+      }
+    }
+  ]
+}

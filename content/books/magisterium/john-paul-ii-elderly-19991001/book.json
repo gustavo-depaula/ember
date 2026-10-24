@@ -1,0 +1,104 @@
+{
+  "id": "john-paul-ii-elderly-19991001",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Elderly",
+    "pt-BR": "Carta aos Anciãos",
+    "ar": "Dignité et missiondes personnes âgées dans l’Église et dans le monde",
+    "de": "Brief an die alten Menschen",
+    "es": "Carta a los ancianos",
+    "fr": "Lettre aux personnes âgées",
+    "hr": "Pismo Pape Ivana Pavla II. Starijim Osobama",
+    "it": "Lettera agli Anziani",
+    "pl": "Do moich Braci i Sióstr -ludzi w podesz» ym wieku! «Miar naszych"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1999-10-01",
+    "pt-BR": "Carta · Papa João Paulo II · 1999-10-01"
+  },
+  "composed": "1999",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/1999/documents/hf_jp-ii_let_01101999_elderly.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/1999/documents/hf_jp-ii_let_01101999_elderly.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/john-paul-ii/ar/letters/1999/documents/hf_jp-ii_let_01101999_elderly.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/1999/documents/hf_jp-ii_let_01101999_elderly.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/1999/documents/hf_jp-ii_let_01101999_elderly.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/letters/1999/documents/hf_jp-ii_let_01101999_elderly.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/john-paul-ii/hr/letters/1999/documents/hf_jp-ii_let_01101999_elderly.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1999/documents/hf_jp-ii_let_01101999_elderly.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/letters/1999/documents/hf_jp-ii_let_01101999_elderly.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Elderly",
+        "pt-BR": "Carta aos Anciãos",
+        "ar": "Dignité et missiondes personnes âgées dans l’Église et dans le monde",
+        "de": "Brief an die alten Menschen",
+        "es": "Carta a los ancianos",
+        "fr": "Lettre aux personnes âgées",
+        "hr": "Pismo Pape Ivana Pavla II. Starijim Osobama",
+        "it": "Lettera agli Anziani",
+        "pl": "Do moich Braci i Sióstr -ludzi w podesz» ym wieku! «Miar naszych"
+      }
+    }
+  ]
+}

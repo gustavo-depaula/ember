@@ -1,0 +1,72 @@
+{
+  "id": "pius-xi-mortalium-animos",
+  "cover": "quarter",
+  "name": {
+    "la": "Mortalium animos, Litterae Encyclicae de vera religionis unitatis fovenda, d. 6 m. Ianuarii a. 1928, Pius PP. XI",
+    "en-US": "Mortalium Animos",
+    "pt-BR": "Mortalium Animos: sobre a promoção da unidade de religião",
+    "fr": "Mortalium Animos",
+    "it": "Mortalium Animos"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1928-01-06",
+    "pt-BR": "Encíclica · Papa Pio XI · 1928-01-06"
+  },
+  "composed": "1928",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Mortalium animos, Litterae Encyclicae de vera religionis unitatis fovenda, d. 6 m. Ianuarii a. 1928, Pius PP. XI",
+        "en-US": "Mortalium Animos",
+        "pt-BR": "Mortalium Animos: sobre a promoção da unidade de religião",
+        "fr": "Mortalium Animos",
+        "it": "Mortalium Animos"
+      }
+    }
+  ]
+}

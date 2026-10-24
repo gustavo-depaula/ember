@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-cum-hoc-sit",
+  "cover": "quarter",
+  "name": {
+    "la": "Cum hoc sit - Litterae Apostolicae in forma Brevis quibus agitur de Sancto Thoma Aquinate patrono caelesti studiorum optimorum cooptando (die IV Augusti MDCCCLXXX)",
+    "it": "Cum hoc sit"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Leo XIII · 1880-08-04",
+    "pt-BR": "Breve · Papa Leão XIII · 1880-08-04"
+  },
+  "composed": "1880",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/briefs/documents/hf_l-xiii_brief_18800804_cum-hoc-sit.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/briefs/documents/hf_l-xiii_brief_18800804_cum-hoc-sit.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Cum hoc sit - Litterae Apostolicae in forma Brevis quibus agitur de Sancto Thoma Aquinate patrono caelesti studiorum optimorum cooptando (die IV Augusti MDCCCLXXX)",
+        "it": "Cum hoc sit"
+      }
+    }
+  ]
+}

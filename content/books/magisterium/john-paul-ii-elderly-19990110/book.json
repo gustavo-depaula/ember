@@ -1,0 +1,40 @@
+{
+  "id": "john-paul-ii-elderly-19990110",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Elderly, 1999"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1999-01-10",
+    "pt-BR": "Carta · Papa João Paulo II · 1999-01-10"
+  },
+  "composed": "1999",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/1993/documents/hf_jp-ii_let_19990110_elderly.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Elderly, 1999"
+      }
+    }
+  ]
+}

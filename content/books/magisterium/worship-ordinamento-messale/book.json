@@ -1,0 +1,72 @@
+{
+  "id": "worship-ordinamento-messale",
+  "cover": "quarter",
+  "name": {
+    "en-US": "General Instruction of the Roman Missal",
+    "es": "Instrucción general del Misal Romano",
+    "fr": "Présentation générale du Missel Romain",
+    "it": "Ordinamento Generale del Messale Romano",
+    "sw": "English"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2003-03-17",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2003-03-17"
+  },
+  "composed": "2003",
+  "languages": [
+    "en-US",
+    "es",
+    "fr",
+    "it",
+    "sw"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_sw.pdf",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "General Instruction of the Roman Missal",
+        "es": "Instrucción general del Misal Romano",
+        "fr": "Présentation générale du Missel Romain",
+        "it": "Ordinamento Generale del Messale Romano",
+        "sw": "English"
+      }
+    }
+  ]
+}

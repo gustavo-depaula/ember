@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-pontificatum-secreto",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Pontificatum secreto al R.P.D. Giuseppe Mora y Del Rio, a proposito del grave stato della Chiesa Messicana"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1914-10-25",
+    "pt-BR": "Carta · Papa Bento XV · 1914-10-25"
+  },
+  "composed": "1914",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1914/documents/hf_ben-xv_let_19141025_pontificatum-secreto.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Pontificatum secreto al R.P.D. Giuseppe Mora y Del Rio, a proposito del grave stato della Chiesa Messicana"
+      }
+    }
+  ]
+}

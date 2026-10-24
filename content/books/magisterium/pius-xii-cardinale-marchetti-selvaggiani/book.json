@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-cardinale-marchetti-selvaggiani",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera al Cardinale Francesco Marchetti-Selvaggiani, dopo il primo bombardamento aereo di Roma"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1943-07-20",
+    "pt-BR": "Carta · Papa Pio XII · 1943-07-20"
+  },
+  "composed": "1943",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/letters/documents/hf_p-xii_lett_19430720_cardinale-marchetti-selvaggiani.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera al Cardinale Francesco Marchetti-Selvaggiani, dopo il primo bombardamento aereo di Roma"
+      }
+    }
+  ]
+}

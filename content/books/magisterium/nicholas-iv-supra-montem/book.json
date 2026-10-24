@@ -1,0 +1,48 @@
+{
+  "id": "nicholas-iv-supra-montem",
+  "cover": "quarter",
+  "name": {
+    "la": "Supra Montem",
+    "en-US": "Supra Montem"
+  },
+  "author": {
+    "en-US": "Pope Nicholas IV",
+    "pt-BR": "Papa Nicolau IV",
+    "la": "Nicolaus PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Nicholas IV · 1289-08-17",
+    "pt-BR": "Documento · Papa Nicolau IV · 1289-08-17"
+  },
+  "composed": "1289",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "nicholas-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1289-08-17,_SS_Nicholaus_IV,_Supra_Montem,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/nichol04/supra-motem.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Supra Montem",
+        "en-US": "Supra Montem"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-ix-fraternitatis-tuae",
+  "cover": "quarter",
+  "name": {
+    "it": "Fraternitatis Tuae"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory IX · 1228-03-13",
+    "pt-BR": "Documento · Papa Gregório IX · 1228-03-13"
+  },
+  "composed": "1228",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1228-03-13,_SS_Gregorius_VIIII,_Fraternitatis_Tuae,_IT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Fraternitatis Tuae"
+      }
+    }
+  ]
+}

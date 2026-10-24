@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-ex-aliis-nostris",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Ex aliis Nostris"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1851-11-21",
+    "pt-BR": "Encíclica · Papa Pio IX · 1851-11-21"
+  },
+  "composed": "1851",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-ex-aliis-nostris-21-novembre-1851.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Ex aliis Nostris"
+      }
+    }
+  ]
+}

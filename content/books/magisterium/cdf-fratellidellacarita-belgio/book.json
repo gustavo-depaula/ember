@@ -1,0 +1,64 @@
+{
+  "id": "cdf-fratellidellacarita-belgio",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Superior General of the Congregation of the Brothers of Charity, regarding the accompaniment of patients in psychiatric hospitals of the Congregation’s Belgian branch",
+    "pt-BR": "Carta ao Superior Geral dos \"Irmãos da Caridade\" sobre o acompanhamento dos pacientes nos hospitais psiquiátricos da Bélgica",
+    "fr": "Lettre au supérieur général des Frères de la Charité à propos de la question de l’euthanasie dans les hôpitaux psychiatriques en Belgique",
+    "it": "Lettera al Superiore Generale dei “Fratelli della Carità” circa l’accompagnamento dei pazienti negli ospedali psichiatrici in Belgio"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2020-03-30",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2020-03-30"
+  },
+  "composed": "2020",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200330_lettera-fratellidellacarita-belgio_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200330_lettera-fratellidellacarita-belgio_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200330_lettera-fratellidellacarita-belgio_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20200330_lettera-fratellidellacarita-belgio_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Superior General of the Congregation of the Brothers of Charity, regarding the accompaniment of patients in psychiatric hospitals of the Congregation’s Belgian branch",
+        "pt-BR": "Carta ao Superior Geral dos \"Irmãos da Caridade\" sobre o acompanhamento dos pacientes nos hospitais psiquiátricos da Bélgica",
+        "fr": "Lettre au supérieur général des Frères de la Charité à propos de la question de l’euthanasie dans les hôpitaux psychiatriques en Belgique",
+        "it": "Lettera al Superiore Generale dei “Fratelli della Carità” circa l’accompagnamento dei pazienti negli ospedali psichiatrici in Belgio"
+      }
+    }
+  ]
+}

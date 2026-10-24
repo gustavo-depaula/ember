@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xiv-sollicita-ac-provida",
+  "cover": "quarter",
+  "name": {
+    "la": "Sollicita ac provida"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Document · Pope Benedict XIV · 1749-06-26",
+    "pt-BR": "Documento · Papa Bento XIV · 1749-06-26"
+  },
+  "composed": "1749",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1749-06-26,_SS_Benedictus_XIV,_Apostolica_Constitutio_'Sollicita_ac_Provida',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sollicita ac provida"
+      }
+    }
+  ]
+}

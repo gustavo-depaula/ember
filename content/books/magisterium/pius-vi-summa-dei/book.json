@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-summa-dei",
+  "cover": "quarter",
+  "name": {
+    "it": "Bolla Summa Dei"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius VI · 1775-12-25",
+    "pt-BR": "Bula · Papa Pio VI · 1775-12-25"
+  },
+  "composed": "1775",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/bolla-summa-dei-25-dicembre-1775.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bolla Summa Dei"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "john-paul-ii-dies-domini",
+  "cover": "quarter",
+  "name": {
+    "la": "Dies Domini, Ioannes Paulus II, 31/05/1998 - Epistula Apostolica",
+    "en-US": "Dies Domini",
+    "pt-BR": "Dies Domini",
+    "de": "Dies Domini",
+    "es": "Dies Domini, sobre la santificación del domingo",
+    "fr": "Dies Domini",
+    "hu": "AZ ÚR NAPJA, 1998. május 31-én - II. János Pál pápa",
+    "it": "Dies Domini",
+    "pl": "Dies Domini, Jana Pawla II, 31/05/1998 - List Apostolski"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1998-07-05",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1998-07-05"
+  },
+  "composed": "1998",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/apost_letters/1998/documents/hf_jp-ii_apl_05071998_dies-domini.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Dies Domini, Ioannes Paulus II, 31/05/1998 - Epistula Apostolica",
+        "en-US": "Dies Domini",
+        "pt-BR": "Dies Domini",
+        "de": "Dies Domini",
+        "es": "Dies Domini, sobre la santificación del domingo",
+        "fr": "Dies Domini",
+        "hu": "AZ ÚR NAPJA, 1998. május 31-én - II. János Pál pápa",
+        "it": "Dies Domini",
+        "pl": "Dies Domini, Jana Pawla II, 31/05/1998 - List Apostolski"
+      }
+    }
+  ]
+}

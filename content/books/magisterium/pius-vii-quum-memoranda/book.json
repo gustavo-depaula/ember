@@ -1,0 +1,40 @@
+{
+  "id": "pius-vii-quum-memoranda",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Quum memoranda"
+  },
+  "author": {
+    "en-US": "Pope Pius VII",
+    "pt-BR": "Papa Pio VII",
+    "la": "Pius PP. VII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius VII · 1809-06-10",
+    "pt-BR": "Breve · Papa Pio VII · 1809-06-10"
+  },
+  "composed": "1809",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-vii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vii/it/documents/breve-quum-memoranda-10-giugno-1809.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Quum memoranda"
+      }
+    }
+  ]
+}

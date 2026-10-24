@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-ubi-primum-19140908",
+  "cover": "quarter",
+  "name": {
+    "it": "Ubi Primum a tutti i cattolici del mondo"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Benedict XV · 1914-09-08",
+    "pt-BR": "Exortação Apostólica · Papa Bento XV · 1914-09-08"
+  },
+  "composed": "1914",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/apost_exhortations/documents/hf_ben-xv_exh_19140908_ubi-primum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Ubi Primum a tutti i cattolici del mondo"
+      }
+    }
+  ]
+}

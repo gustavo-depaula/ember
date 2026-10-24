@@ -1,0 +1,40 @@
+{
+  "id": "paul-vi-nomina-vicario-generale",
+  "cover": "quarter",
+  "name": {
+    "it": "Nomina del Card. Ugo Poletti a Vicario Generale, 6 marzo 1973"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1973-03-06",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1973-03-06"
+  },
+  "composed": "1973",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19730306_nomina-vicario-generale.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Nomina del Card. Ugo Poletti a Vicario Generale, 6 marzo 1973"
+      }
+    }
+  ]
+}

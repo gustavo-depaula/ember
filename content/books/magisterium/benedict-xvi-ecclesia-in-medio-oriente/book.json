@@ -1,0 +1,96 @@
+{
+  "id": "benedict-xvi-ecclesia-in-medio-oriente",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Ecclesia in Medio Oriente: Post-Synodal Apostolic Exhortation on the Church in the Middle East: Communion and Witness",
+    "pt-BR": "Ecclesia in Medio Oriente: Exortação Apostólica Pós-Sinodal sobre a Igreja no Oriente Médio, comunhão e testemunho",
+    "ar": "Ecclesia in Medio Oriente, Exhortation apostolique post-synodale",
+    "de": "Ecclesia in Medio Oriente: Nachsynodales Apostolisches Schreiben über die Kirche im Nahen Osten, Gemeinschaft und Zeugnis",
+    "es": "Ecclesia in Medio Oriente, exhortación apostólica postsinodal sobre la Iglesia en Oriente Medio, comunión y testimonio",
+    "fr": "Ecclesia in Medio Oriente : Exhortation apostolique post-synodale sur l'Église au Moyen-Orient, communion et témoignage",
+    "iw": "Ecclesia in Medio Oriente",
+    "pl": "Ecclesia in Medio Oriente, Posynodalna Adhortacja Apostolska"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Benedict XVI · 2012-09-14",
+    "pt-BR": "Exortação Apostólica · Papa Bento XVI · 2012-09-14"
+  },
+  "composed": "2012",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "iw",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/apost_exhortations/documents/hf_ben-xvi_exh_20120914_ecclesia-in-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/apost_exhortations/documents/hf_ben-xvi_exh_20120914_ecclesia-in-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/benedict-xvi/ar/apost_exhortations/documents/hf_ben-xvi_exh_20120914_ecclesia-in-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/apost_exhortations/documents/hf_ben-xvi_exh_20120914_ecclesia-in-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/apost_exhortations/documents/hf_ben-xvi_exh_20120914_ecclesia-in-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/apost_exhortations/documents/hf_ben-xvi_exh_20120914_ecclesia-in-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "iw",
+      "url": "https://www.vatican.va/content/benedict-xvi/iw/apost_exhortations/documents/hf_ben-xvi_exh_20120914_ecclesia-in-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/benedict-xvi/pl/apost_exhortations/documents/hf_ben-xvi_exh_20120914_ecclesia-in-medio-oriente.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Ecclesia in Medio Oriente: Post-Synodal Apostolic Exhortation on the Church in the Middle East: Communion and Witness",
+        "pt-BR": "Ecclesia in Medio Oriente: Exortação Apostólica Pós-Sinodal sobre a Igreja no Oriente Médio, comunhão e testemunho",
+        "ar": "Ecclesia in Medio Oriente, Exhortation apostolique post-synodale",
+        "de": "Ecclesia in Medio Oriente: Nachsynodales Apostolisches Schreiben über die Kirche im Nahen Osten, Gemeinschaft und Zeugnis",
+        "es": "Ecclesia in Medio Oriente, exhortación apostólica postsinodal sobre la Iglesia en Oriente Medio, comunión y testimonio",
+        "fr": "Ecclesia in Medio Oriente : Exhortation apostolique post-synodale sur l'Église au Moyen-Orient, communion et témoignage",
+        "iw": "Ecclesia in Medio Oriente",
+        "pl": "Ecclesia in Medio Oriente, Posynodalna Adhortacja Apostolska"
+      }
+    }
+  ]
+}

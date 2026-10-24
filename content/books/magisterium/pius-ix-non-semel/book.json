@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-non-semel",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Non semel"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius IX · 1848-04-29",
+    "pt-BR": "Alocução · Papa Pio IX · 1848-04-29"
+  },
+  "composed": "1848",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/allocuzione-non-semel-29-aprile-1848.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Non semel"
+      }
+    }
+  ]
+}

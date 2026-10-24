@@ -1,0 +1,96 @@
+{
+  "id": "cdf-sacerdotium-ministeriale",
+  "cover": "quarter",
+  "name": {
+    "la": "Sacerdotium ministeriale",
+    "en-US": "Letter to Bishops of the Catholic Church on Certain Questions Concerning the Minister of the Eucharist",
+    "pt-BR": "Sacerdotium Ministeriale sobre o Ministro da Eucaristia, 6 de agosto de 1983",
+    "de": "Sacerdotium ministeriale",
+    "es": "Sacerdotium ministeriale, Carta a los obispos de la Iglesia católica sobre algunas cuestiones concernientes al ministro de la Eucaristía",
+    "fr": "Sacerdotium ministeriale - Lettre à tous les évêques de l'Église catholique sur quelques questions concernant le ministre de l'Eucharistie",
+    "it": "Sacerdotium ministeriale",
+    "pl": "LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O NIEKTÓRYCH ZAGADNIENIACH DOTYCZĄCYCH SZAFARZA EUCHARYSTII"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1983-08-06",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1983-08-06"
+  },
+  "composed": "1983",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830806_sacerdotium-ministeriale_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830806_sacerdotium-ministeriale_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830806_sacerdotium-ministeriale_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830806_sacerdotium-ministeriale_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830806_sacerdotium-ministeriale_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830806_sacerdotium-ministeriale_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830806_sacerdotium-ministeriale_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830806_sacerdotium-ministeriale_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sacerdotium ministeriale",
+        "en-US": "Letter to Bishops of the Catholic Church on Certain Questions Concerning the Minister of the Eucharist",
+        "pt-BR": "Sacerdotium Ministeriale sobre o Ministro da Eucaristia, 6 de agosto de 1983",
+        "de": "Sacerdotium ministeriale",
+        "es": "Sacerdotium ministeriale, Carta a los obispos de la Iglesia católica sobre algunas cuestiones concernientes al ministro de la Eucaristía",
+        "fr": "Sacerdotium ministeriale - Lettre à tous les évêques de l'Église catholique sur quelques questions concernant le ministre de l'Eucharistie",
+        "it": "Sacerdotium ministeriale",
+        "pl": "LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O NIEKTÓRYCH ZAGADNIENIACH DOTYCZĄCYCH SZAFARZA EUCHARYSTII"
+      }
+    }
+  ]
+}

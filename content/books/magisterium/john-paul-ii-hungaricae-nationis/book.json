@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-hungaricae-nationis",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Apostolica Hungaricae nationis, die XXX mensis Maii anno MCMXCIII",
+    "it": "Hungaricae nationis"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1993-05-30",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1993-05-30"
+  },
+  "composed": "1993",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1993/documents/hf_jp-ii_apl_19930530_hungaricae-nationis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1993/documents/hf_jp-ii_apl_19930530_hungaricae-nationis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Apostolica Hungaricae nationis, die XXX mensis Maii anno MCMXCIII",
+        "it": "Hungaricae nationis"
+      }
+    }
+  ]
+}

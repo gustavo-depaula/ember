@@ -1,0 +1,88 @@
+{
+  "id": "john-paul-ii-concilio-constantinopolitano-i",
+  "cover": "quarter",
+  "name": {
+    "la": "A Concilio Constantinopolitano I (March 25, 1981)",
+    "en-US": "A Concilio Constantinopolitano I",
+    "pt-BR": "A Concilio Constantinopolitano I",
+    "de": "A Concilio Constantinopolitano I",
+    "es": "A Concilio Constantinopolitano I",
+    "fr": "A Concilio Constantinopolitano I",
+    "it": "A Concilio Constantinopolitano I"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1981-03-25",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1981-03-25"
+  },
+  "composed": "1981",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1981-03-25,_SS_Ioannes_Paulus_II,_Epistula_'A_Concilio_Constantinopolitano',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1981/documents/hf_jp-ii_apl_25031981_a-concilio-constantinopolitano-i.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1981/documents/hf_jp-ii_apl_25031981_a-concilio-constantinopolitano-i.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1981/documents/hf_jp-ii_apl_25031981_a-concilio-constantinopolitano-i.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1981/documents/hf_jp-ii_apl_25031981_a-concilio-constantinopolitano-i.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1981/documents/hf_jp-ii_apl_25031981_a-concilio-constantinopolitano-i.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1981/documents/hf_jp-ii_apl_25031981_a-concilio-constantinopolitano-i.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "A Concilio Constantinopolitano I (March 25, 1981)",
+        "en-US": "A Concilio Constantinopolitano I",
+        "pt-BR": "A Concilio Constantinopolitano I",
+        "de": "A Concilio Constantinopolitano I",
+        "es": "A Concilio Constantinopolitano I",
+        "fr": "A Concilio Constantinopolitano I",
+        "it": "A Concilio Constantinopolitano I"
+      }
+    }
+  ]
+}

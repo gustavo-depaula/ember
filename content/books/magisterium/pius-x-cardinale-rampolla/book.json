@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-cardinale-rampolla",
+  "cover": "quarter",
+  "name": {
+    "it": "Al Cardinale Rampolla del Tindaro, Arciprete della Basilica Vaticana"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius X · 1905-06-23",
+    "pt-BR": "Carta · Papa Pio X · 1905-06-23"
+  },
+  "composed": "1905",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/letters/documents/hf_p-x_let_19050623_cardinale-rampolla.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Al Cardinale Rampolla del Tindaro, Arciprete della Basilica Vaticana"
+      }
+    }
+  ]
+}

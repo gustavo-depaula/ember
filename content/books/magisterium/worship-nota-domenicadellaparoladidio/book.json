@@ -1,0 +1,64 @@
+{
+  "id": "worship-nota-domenicadellaparoladidio",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Nota sobre o Domingo da Palavra de Deus",
+    "de": "Note Zum Sonntag des Wortes Gottes",
+    "es": "Nota sobre el Domingo de la Palabra de Dios",
+    "fr": "Note sur le Dimanche de la Parole de Dieu"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2020-12-17",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2020-12-17"
+  },
+  "composed": "2020",
+  "languages": [
+    "pt-BR",
+    "de",
+    "es",
+    "fr"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20201217_nota-domenicadellaparoladidio_fr.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Nota sobre o Domingo da Palavra de Deus",
+        "de": "Note Zum Sonntag des Wortes Gottes",
+        "es": "Nota sobre el Domingo de la Palabra de Dios",
+        "fr": "Note sur le Dimanche de la Parole de Dieu"
+      }
+    }
+  ]
+}

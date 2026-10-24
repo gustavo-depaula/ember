@@ -1,0 +1,160 @@
+{
+  "id": "francis-fratelli-tutti",
+  "cover": "quarter",
+  "name": {
+    "la": "Fratres omnes de fraternitate et sociali amicitia (die III mensis Octobris anno MMXX)",
+    "en-US": "Fratelli tutti",
+    "ar": "Fratelli tutti, 3 October 2020",
+    "be": "Fratelli tutti",
+    "de": "Fratelli tutti",
+    "fr": "Fratelli tutti",
+    "it": "Fratelli tutti",
+    "ja": "回勅 兄弟の皆さん 教皇フランシスコ",
+    "mn": "“БИД БҮГД АХАН ДҮҮС МӨН (FRATELLI TUTTI)”",
+    "nl": "Fratelli tutti",
+    "pl": "Encyklika Fratelli Tutti Ojca Świętego Franciszka o braterstwie i przyjaźni społecznej",
+    "sl": "Fratelli tutti",
+    "uk": "ЕНЦИКЛІКА ВСІ БРАТИ (БРАТИ І СЕСТРИ) СВЯТІШОГО ОТЦЯ ФРАНЦИСКА ПРО БРАТЕРСТВО І СУСПІЛЬНУ ДРУЖБУ",
+    "vi": "THÔNG ĐIỆP FRATELLI TUTTI CỦA ĐỨC GIÁO HOÀNG PHANXICÔ VỀ TÌNH HUYNH ĐỆ VÀ TÌNH BẰNG HỮU XÃ HỘI",
+    "zh-CN": "教宗方济各 通谕 众位弟兄 论兄弟情谊与人际友爱",
+    "zh-TW": "教宗⽅濟各 通諭 眾位弟兄 論兄弟情誼與⼈際友愛"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Francis · 2020-10-03",
+    "pt-BR": "Encíclica · Papa Francisco · 2020-10-03"
+  },
+  "composed": "2020",
+  "languages": [
+    "la",
+    "en-US",
+    "ar",
+    "be",
+    "de",
+    "fr",
+    "it",
+    "ja",
+    "mn",
+    "nl",
+    "pl",
+    "sl",
+    "uk",
+    "vi",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/francesco/be/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ja",
+      "url": "https://www.vatican.va/content/francesco/ja/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "mn",
+      "url": "https://www.vatican.va/content/francesco/mn/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/content/francesco/nl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sl",
+      "url": "https://www.vatican.va/content/francesco/sl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "uk",
+      "url": "https://www.vatican.va/content/francesco/uk/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/content/francesco/vi/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Fratres omnes de fraternitate et sociali amicitia (die III mensis Octobris anno MMXX)",
+        "en-US": "Fratelli tutti",
+        "ar": "Fratelli tutti, 3 October 2020",
+        "be": "Fratelli tutti",
+        "de": "Fratelli tutti",
+        "fr": "Fratelli tutti",
+        "it": "Fratelli tutti",
+        "ja": "回勅 兄弟の皆さん 教皇フランシスコ",
+        "mn": "“БИД БҮГД АХАН ДҮҮС МӨН (FRATELLI TUTTI)”",
+        "nl": "Fratelli tutti",
+        "pl": "Encyklika Fratelli Tutti Ojca Świętego Franciszka o braterstwie i przyjaźni społecznej",
+        "sl": "Fratelli tutti",
+        "uk": "ЕНЦИКЛІКА ВСІ БРАТИ (БРАТИ І СЕСТРИ) СВЯТІШОГО ОТЦЯ ФРАНЦИСКА ПРО БРАТЕРСТВО І СУСПІЛЬНУ ДРУЖБУ",
+        "vi": "THÔNG ĐIỆP FRATELLI TUTTI CỦA ĐỨC GIÁO HOÀNG PHANXICÔ VỀ TÌNH HUYNH ĐỆ VÀ TÌNH BẰNG HỮU XÃ HỘI",
+        "zh-CN": "教宗方济各 通谕 众位弟兄 论兄弟情谊与人际友爱",
+        "zh-TW": "教宗⽅濟各 通諭 眾位弟兄 論兄弟情誼與⼈際友愛"
+      }
+    }
+  ]
+}

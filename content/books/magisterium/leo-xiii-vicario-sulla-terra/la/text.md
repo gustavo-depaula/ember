@@ -1,0 +1,24 @@
+# Domini et Salvatoris
+
+***LITTERAE SANCTISSIMI D. N. LEONIS XIII, QUIBUS PRAECIPITUR CUNCTIS LOCORUM ORDINARIIS,  UT SALTEM SEMEL QUOTANNIS INDIGENTIAE TERRAE SANCTAE COMMENDENTUR FIDELIUM CLARITATI IN UNAQUAQUE ECCLESIA PAROCHIALI\****
+
+LEO XIII  
+Ad perpetuam rei memoriam
+
+Domini et Salvatoris nostri Iesu Christi, qui ut Mundum redimeret semetipsum exinanivit, factus obediens usque ad mortem, mortem autem crucis, vicem in Terris, quamvis indigni, gerentes, inter multiplices, easque varias, quibus pene absorbemur, supremi Apostolatus nostri curas, volumus nihilo secius vigilantiam nostram, sollicitudinemque Apostolicam in id speciali modo intendere, ut quae nobis adeo magni sanctique Mysterii in ipsa urbe Hierosolyma eiusque finitimis regionibus, monumenta supersunt, ea qua possunt religione ac reverentia custodiantur atque serventur: itemque satagere, ut quae per Romanos Pontifices praecessores nostros sapienter sive praecepta, sive statuta sunt, plene atque integre perficiantur. Iamdiu enim et a remotissimis usque temporibus iidem summi Pontifìces ad haec loca pretioso Ἀνδρός-Θεοῦ sanguine purpurata oculos convertentes, catholicas nationes ad Christi sepulcrum armis recuperandum concivere: quando vero haec eadem sancta locu in Infidelium manus denuo inciderunt, ac solis Fratribus Minoribus ex Ordine s. Francisci Assisiensis facta potestas fuit ea custodiendi, Romani Pontifices vigilare nunquam destiterunt, saltem quoad eius fieri potuit, ut sarta tectaque servarentur, ac pro temporum opportunitate eorumdem Fratrum Franciscalium indigentiis consulere; quos neque Infidelium insectationes, nec vexationes, nec demum atrocissimi quique cruciatus a praeclarissima sua missione strenue exequenda dimovere unquam potuerunt.
+
+Identidem Romani Pontifices tum viva voce, tum vero etiam Literis Apostolicis Patriarchas, Episcopos, aliosque ordinaria atque ecclesiastica potestate in toto Terrarum Orbe fungentes exhortati sunt, ut Fideles ipsorum curae commissos ad oblationes, quibus ea Sancta loca conservaretur, colligendas excitarent: quin imo hac super re certas ac speciales regulas plerisque Literis Apostolicis, sive in forma, ut aiunt, Bullae, sive in forma Brevis, statuerunt; atque concordi sententia omnibus Dioecesium quarumque Rectoribus obedientiae praecepto mandarunt, ut Fidelibus quosdam dies quotannis assignarent, quibus ἐλεμοσύνας pro locis sanctis impendendus colligerent
+
+Denique gloriosae memoriae Praecessor noster Pius VI Bulla quae incipit : « Inter cetera divinorum iudiciorum abdita arcana » data die 31 Iulii 1778 decrevit, ut ab omnibus Episcopis quater quoquo anno piae Fidelium charitati Terrae Sanctae indigentiae de meliore nota commendarentur.
+
+Diebus vero nostris dilectus filius noster Bernardinus a Portu Romantino (vulgo-Gruaro) Generalis Minister Ordinis Fratrum Minorum, qui ab Observantia nuncupantur, Nobis exponendum curavit, indigentias postremis hisce annis excrevisse, subsidiaque a Fidelibus collata sanctorum locorum conservationi nequaquam sufficere, hac quidem potissimum de causa, quod praeterlapso iam saeculo et amplius ab edita Constitutione Pii VI, hanc aliquot Episcoporum oblivioni dant, quasi vero ea obsoleverit, neque amplius stipis collationem pro locis sanctis, qua par est, sollicitudine Fidelibus commendant. Quapropter humiles Nobis fervidasque preces amovit, ut ea qua pollemus Apostolica auctoritate novum aliquod hac super re consilium legemque statuere velimus.
+
+Proinde Nos huiusmodi precibus annuere cupientes, atque etiam ob specialem sollicitudinem, quam sanctis iisdem locis servandis Ipsi gerimus, auctoritate nostra Apostolica praesentibus hisce Literis et quidem in perpetuum, edicimus ut Venerabiles Fratres nostri Patriarchae, Archiepiscopi, Episcopi, aliique ordinaria atque ecclesiastica potestate in universo Terrarum Orbe praediti, sanctae obedientiae praecepto adstricti curent, ut saltem semel quotannis, nimirum Feria VI maioris hebdomadae, vel alio die cuiusque anni pro lubito Episcopi, in unaquaque Ecclesia parochiali suarum Dioecesium Terrae sanctae indigentiae Fidelium charitati commendentur. — Eadem auctoritate cuilibet expresse vetamus atque interdicimus ἐλεημοσύνων pro Terra sancta quoquomodo collectarum destinationem immutare, vel ad alios usus convertere. — Praecipimus insuper, ut collatitia pecunia a Parochis, uti ediximus, collecta Episcopo tradatur, et ab Episcopo proximiori Praesidi Ordinis Franciscalium, qui Terrae Sanctae Commissarii nomine et officio fungatur. — Denique volumus, ut hic postremus ἐλεμοσύνας ; Patri Custodi Terrae Sanctae, Hierosolymam iuxta morem quam citissime transmittat.
+
+*Dat. Romae ad S. Petri sub annulo Piscatoris die 26 Decembris anno 1887 Pontificatus nostri X.*
+
+M. Card. LEDOCHOWSKIUS
+
+------------------------------------------------------------------------
+
+\**ASS*, vol. XX (1887), p. 419-422.

@@ -1,0 +1,40 @@
+{
+  "id": "innocent-iii-prima-collectio-decretalium",
+  "cover": "quarter",
+  "name": {
+    "la": "Prima Collectio Decretalium"
+  },
+  "author": {
+    "en-US": "Pope Innocent III",
+    "pt-BR": "Papa Inocêncio III",
+    "la": "Innocentius PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent III · 1198",
+    "pt-BR": "Documento · Papa Inocêncio III · 1198"
+  },
+  "composed": "1198",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-iii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1198-1216,_SS_Innocentius_III,_Prima_Collectio_Decretalium_[A_Rainero_Diacono_Atque_Pomposiano_Monacho_Composita],_MLT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Prima Collectio Decretalium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-le-pelerinage-de-lourdes",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Le Pèlerinage de Lourdes",
+    "pt-BR": "Le Pèlerinage de Lourdes",
+    "fr": "Le Pèlerinage de Lourdes"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1957-07-02",
+    "pt-BR": "Encíclica · Papa Pio XII · 1957-07-02"
+  },
+  "composed": "1957",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "fr"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_02071957_le-pelerinage-de-lourdes.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_02071957_le-pelerinage-de-lourdes.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_02071957_le-pelerinage-de-lourdes.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Le Pèlerinage de Lourdes",
+        "pt-BR": "Le Pèlerinage de Lourdes",
+        "fr": "Le Pèlerinage de Lourdes"
+      }
+    }
+  ]
+}

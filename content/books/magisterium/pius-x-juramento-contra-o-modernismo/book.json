@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-juramento-contra-o-modernismo",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Juramento contra o Modernismo"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius X · 1910-09-01",
+    "pt-BR": "Documento · Papa Pio X · 1910-09-01"
+  },
+  "composed": "1910",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/juramento-contra-o-modernismo/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Juramento contra o Modernismo"
+      }
+    }
+  ]
+}

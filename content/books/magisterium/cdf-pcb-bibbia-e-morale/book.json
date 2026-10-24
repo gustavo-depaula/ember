@@ -1,0 +1,72 @@
+{
+  "id": "cdf-pcb-bibbia-e-morale",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Bible and Morality - Biblical Roots of Christian Conduct, Pontifical Biblical Commission, 11 March 2008",
+    "pt-BR": "Bíblia e Moral. Raízes bíblicas do agir cristão - Pontifícia Comissão Bíblica",
+    "de": "Bibel und Moral, Biblische Wurzeln des christlichen Handelns - Päpstliche Bibelkommission\"",
+    "fr": "Bible et morale. Racines bibliques de l'agir chrétien - Commission Biblique Pontificale",
+    "it": "Bibbia e morale. Radici bibliche dell'agire cristiano - Pontificia Commissione Biblica"
+  },
+  "author": {
+    "en-US": "Pontifical Biblical Commission",
+    "pt-BR": "Pontifícia Comissão Bíblica",
+    "la": "Pontificia Commissio Biblica"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Pontifical Biblical Commission · 2008-05-11",
+    "pt-BR": "Documento da Cúria Romana · Pontifícia Comissão Bíblica · 2008-05-11"
+  },
+  "composed": "2008",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-pcb"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_20080511_bibbia-e-morale_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_20080511_bibbia-e-morale_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_20080511_bibbia-e-morale_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_20080511_bibbia-e-morale_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_20080511_bibbia-e-morale_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Bible and Morality - Biblical Roots of Christian Conduct, Pontifical Biblical Commission, 11 March 2008",
+        "pt-BR": "Bíblia e Moral. Raízes bíblicas do agir cristão - Pontifícia Comissão Bíblica",
+        "de": "Bibel und Moral, Biblische Wurzeln des christlichen Handelns - Päpstliche Bibelkommission\"",
+        "fr": "Bible et morale. Racines bibliques de l'agir chrétien - Commission Biblique Pontificale",
+        "it": "Bibbia e morale. Radici bibliche dell'agire cristiano - Pontificia Commissione Biblica"
+      }
+    }
+  ]
+}

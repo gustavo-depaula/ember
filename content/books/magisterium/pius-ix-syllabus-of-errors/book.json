@@ -1,0 +1,39 @@
+{
+  "id": "pius-ix-syllabus-of-errors",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Syllabus Of Errors"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius IX",
+    "pt-BR": "Documento · Papa Pio IX"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9syll.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Syllabus Of Errors"
+      }
+    }
+  ]
+}

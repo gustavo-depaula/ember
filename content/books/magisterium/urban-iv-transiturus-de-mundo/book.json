@@ -1,0 +1,48 @@
+{
+  "id": "urban-iv-transiturus-de-mundo",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla Transiturus de mundo",
+    "es": "Bula Transiturus de hoc mundo"
+  },
+  "author": {
+    "en-US": "Pope Urban IV",
+    "pt-BR": "Papa Urbano IV",
+    "la": "Urbanus PP. IV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Urban IV · 1264-08-11",
+    "pt-BR": "Bula · Papa Urbano IV · 1264-08-11"
+  },
+  "composed": "1264",
+  "languages": [
+    "la",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "urban-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/urbanus-iv/la/documents/bulla-transiturus-de-mundo-11-aug-1264.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/urbanus-iv/es/documents/bulla-transiturus-de-mundo-11-aug-1264.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla Transiturus de mundo",
+        "es": "Bula Transiturus de hoc mundo"
+      }
+    }
+  ]
+}

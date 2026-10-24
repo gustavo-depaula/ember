@@ -1,0 +1,80 @@
+{
+  "id": "worship-settimanasanta-2021",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Note to Bishops and Episcopal Conferences on the celebration of Holy Week 2021",
+    "pt-BR": "Nota aos Bispos e às Conferências Episcopais sobre as Celebrações da Semana Santa de 2021",
+    "de": "Nota an die Bischöfe und Bischofskonferenzen zu den Feierlichkeiten der Karwoche 2021",
+    "es": "Nota para los obispos y las Conferencias episcopales sobre las celebraciones de la Semana Santa 2021",
+    "fr": "Note aux Évêques et aux Conférences Épiscopales concernant les célébrations de la Semaine Sainte 2021",
+    "it": "Nota ai Vescovi e alle Conferenze Episcopali circa le Celebrazioni della Settimana Santa 2021"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2021-02-17",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2021-02-17"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210217_settimanasanta-2021_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Note to Bishops and Episcopal Conferences on the celebration of Holy Week 2021",
+        "pt-BR": "Nota aos Bispos e às Conferências Episcopais sobre as Celebrações da Semana Santa de 2021",
+        "de": "Nota an die Bischöfe und Bischofskonferenzen zu den Feierlichkeiten der Karwoche 2021",
+        "es": "Nota para los obispos y las Conferencias episcopales sobre las celebraciones de la Semana Santa 2021",
+        "fr": "Note aux Évêques et aux Conférences Épiscopales concernant les célébrations de la Semaine Sainte 2021",
+        "it": "Nota ai Vescovi e alle Conferenze Episcopali circa le Celebrazioni della Settimana Santa 2021"
+      }
+    }
+  ]
+}

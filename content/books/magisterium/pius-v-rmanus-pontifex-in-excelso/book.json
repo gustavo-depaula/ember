@@ -1,0 +1,40 @@
+{
+  "id": "pius-v-rmanus-pontifex-in-excelso",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'Rmanus Pontifex in Excelso'"
+  },
+  "author": {
+    "en-US": "Pope Pius V",
+    "pt-BR": "Papa Pio V",
+    "la": "Pius PP. V"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius V · 1569-08-27",
+    "pt-BR": "Bula · Papa Pio V · 1569-08-27"
+  },
+  "composed": "1569",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-v"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1569-08-27,_SS_Pius_V,_Bulla_'Rmanus_Pontifex_in_Excelso',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'Rmanus Pontifex in Excelso'"
+      }
+    }
+  ]
+}

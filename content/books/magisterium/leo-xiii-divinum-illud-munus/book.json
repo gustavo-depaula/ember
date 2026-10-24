@@ -1,0 +1,64 @@
+{
+  "id": "leo-xiii-divinum-illud-munus",
+  "cover": "quarter",
+  "name": {
+    "la": "Divinum illud munus",
+    "en-US": "Divinum illud munus",
+    "es": "Divinum illud munus",
+    "it": "Divinum illud munus (May 9, 1897)"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1897-05-09",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1897-05-09"
+  },
+  "composed": "1897",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_09051897_divinum-illud-munus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1897-05-09,_SS_Leo_XIII,_Divinum_Illud_Munus,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Divinum illud munus",
+        "en-US": "Divinum illud munus",
+        "es": "Divinum illud munus",
+        "it": "Divinum illud munus (May 9, 1897)"
+      }
+    }
+  ]
+}

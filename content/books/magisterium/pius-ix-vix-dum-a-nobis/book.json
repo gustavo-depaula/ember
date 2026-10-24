@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-vix-dum-a-nobis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Vix Dum A Nobis",
+    "it": "Enciclica Vix dum a Nobis"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1874-03-07",
+    "pt-BR": "Encíclica · Papa Pio IX · 1874-03-07"
+  },
+  "composed": "1874",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9vixdum.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-vix-dum-a-nobis-7-marzo-1874.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Vix Dum A Nobis",
+        "it": "Enciclica Vix dum a Nobis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-i-life-of-s-benedict",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Life Of S Benedict"
+  },
+  "author": {
+    "en-US": "Pope Gregory I",
+    "pt-BR": "Papa Gregório I",
+    "la": "Gregorius PP. I"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory I · 0540",
+    "pt-BR": "Documento · Papa Gregório I · 0540"
+  },
+  "composed": "540",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-i"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0540-0604,_SS_Gregorius_I_Magnus,_The_Life_Of_S_Benedict,_EN.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Life Of S Benedict"
+      }
+    }
+  ]
+}

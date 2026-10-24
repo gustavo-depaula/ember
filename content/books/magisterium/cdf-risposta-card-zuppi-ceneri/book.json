@@ -1,0 +1,56 @@
+{
+  "id": "cdf-risposta-card-zuppi-ceneri",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Reply to His Eminence, Cardinal Matteo Maria Zuppi, Archbishop of Bologna, Regarding Two Questions About the Preservation of the Ashes of the Deceased Following Cremation",
+    "hr": "Odgovor njegovoj uzoritosti kardinalu Matteu M. Zuppiju, bolonjskom nadbiskupu, glede dva pitanja koja se odnose na čuvanje pepela pokojnika koji su kremirani",
+    "it": "Risposta a Sua Em.za il Card. Matteo Maria Zuppi, Arcivescovo di Bologna, circa due quesiti relativi alla conservazione delle ceneri dei defunti, sottoposti a cremazione"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2023-12-09",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2023-12-09"
+  },
+  "composed": "2023",
+  "languages": [
+    "en-US",
+    "hr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231209_risposta-card-zuppi-ceneri_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231209_risposta-card-zuppi-ceneri_hr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231209_risposta-card-zuppi-ceneri_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Reply to His Eminence, Cardinal Matteo Maria Zuppi, Archbishop of Bologna, Regarding Two Questions About the Preservation of the Ashes of the Deceased Following Cremation",
+        "hr": "Odgovor njegovoj uzoritosti kardinalu Matteu M. Zuppiju, bolonjskom nadbiskupu, glede dva pitanja koja se odnose na čuvanje pepela pokojnika koji su kremirani",
+        "it": "Risposta a Sua Em.za il Card. Matteo Maria Zuppi, Arcivescovo di Bologna, circa due quesiti relativi alla conservazione delle ceneri dei defunti, sottoposti a cremazione"
+      }
+    }
+  ]
+}

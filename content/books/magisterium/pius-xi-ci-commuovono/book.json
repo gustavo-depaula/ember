@@ -1,0 +1,48 @@
+{
+  "id": "pius-xi-ci-commuovono",
+  "cover": "quarter",
+  "name": {
+    "fr": "Chirographe au Cardinal Basilio Pompili, Vicaire de Rome, sur les droits divins lésés en Russie",
+    "it": "Chirografo al Cardinale Basilio Pompili, Vicario di Roma, sulle violenze compiute in Russia"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1930-02-02",
+    "pt-BR": "Carta · Papa Pio XI · 1930-02-02"
+  },
+  "composed": "1930",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/letters/documents/hf_p-xi_lett_19300202_ci-commuovono.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19300202_ci-commuovono.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Chirographe au Cardinal Basilio Pompili, Vicaire de Rome, sur les droits divins lésés en Russie",
+        "it": "Chirografo al Cardinale Basilio Pompili, Vicario di Roma, sulle violenze compiute in Russia"
+      }
+    }
+  ]
+}

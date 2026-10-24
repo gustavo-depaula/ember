@@ -1,0 +1,72 @@
+{
+  "id": "leo-xiii-sapientiae-christianae",
+  "cover": "quarter",
+  "name": {
+    "la": "Sapientiae Christianae",
+    "en-US": "Sapientiae Christianae",
+    "es": "Sapientiae\n Christianae (January 10, 1890)",
+    "fr": "Sapientiae Christianae",
+    "it": "Sapientiae Christianae"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1890-01-10",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1890-01-10"
+  },
+  "composed": "1890",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_10011890_sapientiae-christianae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10011890_sapientiae-christianae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1890-01-10,_SS_Leo_XIII,_Encyclica_'Sapientiae_Christianae',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_10011890_sapientiae-christianae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_10011890_sapientiae-christianae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sapientiae Christianae",
+        "en-US": "Sapientiae Christianae",
+        "es": "Sapientiae\n Christianae (January 10, 1890)",
+        "fr": "Sapientiae Christianae",
+        "it": "Sapientiae Christianae"
+      }
+    }
+  ]
+}

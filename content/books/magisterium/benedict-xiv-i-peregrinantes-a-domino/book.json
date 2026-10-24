@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-i-peregrinantes-a-domino",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Peregrinantes",
+    "it": "Bolla Peregrinantes a Domino"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Benedict XIV · 1749-03-05",
+    "pt-BR": "Bula · Papa Bento XIV · 1749-03-05"
+  },
+  "composed": "1749",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/b14pereg.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-peregrinantes-a-domino--i---5-maggio-1749-il-pontefice-.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Peregrinantes",
+        "it": "Bolla Peregrinantes a Domino"
+      }
+    }
+  ]
+}

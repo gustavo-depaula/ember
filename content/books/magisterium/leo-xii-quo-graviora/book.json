@@ -1,0 +1,48 @@
+{
+  "id": "leo-xii-quo-graviora",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Quo Graviora",
+    "it": "Bolla Quo Graviora"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Bull · Pope Leo XII · 1825-03-13",
+    "pt-BR": "Bula · Papa Leão XII · 1825-03-13"
+  },
+  "composed": "1825",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo12/l12quogr.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/bolla-quo-graviora-13-marzo-1825.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Quo Graviora",
+        "it": "Bolla Quo Graviora"
+      }
+    }
+  ]
+}

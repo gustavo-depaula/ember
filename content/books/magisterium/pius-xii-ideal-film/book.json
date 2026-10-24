@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-ideal-film",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Ideal Film -Exortations to representatives of the world of the cinema",
+    "fr": "Exhortation aux représentants du monde cinématographique",
+    "it": "Il Film Ideale - Esortazioni ai rappresentanti del mondo cinematografico"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Pius XII · 1955-10-25",
+    "pt-BR": "Exortação Apostólica · Papa Pio XII · 1955-10-25"
+  },
+  "composed": "1955",
+  "languages": [
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/apost_exhortations/documents/hf_p-xii_exh_25101955_ideal-film.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xii/fr/apost_exhortations/documents/hf_p-xii_exh_25101955_ideal-film.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_exhortations/documents/hf_p-xii_exh_25101955_ideal-film.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Ideal Film -Exortations to representatives of the world of the cinema",
+        "fr": "Exhortation aux représentants du monde cinématographique",
+        "it": "Il Film Ideale - Esortazioni ai rappresentanti del mondo cinematografico"
+      }
+    }
+  ]
+}

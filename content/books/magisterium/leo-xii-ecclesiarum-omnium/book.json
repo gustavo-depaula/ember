@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-ecclesiarum-omnium",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Ecclesiarum Omnium"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Leo XII · 1826-12-12",
+    "pt-BR": "Breve · Papa Leão XII · 1826-12-12"
+  },
+  "composed": "1826",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/breve-ecclesiarum-omnium-12-dicembre-1826.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Ecclesiarum Omnium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-fra-le-molteplici",
+  "cover": "quarter",
+  "name": {
+    "it": "Fra le molteplici"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1889-12-18",
+    "pt-BR": "Carta · Papa Leão XIII · 1889-12-18"
+  },
+  "composed": "1889",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18891218_fra-le-molteplici.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Fra le molteplici"
+      }
+    }
+  ]
+}

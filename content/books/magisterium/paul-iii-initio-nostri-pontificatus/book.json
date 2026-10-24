@@ -1,0 +1,40 @@
+{
+  "id": "paul-iii-initio-nostri-pontificatus",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Initio nostri pontificatus"
+  },
+  "author": {
+    "en-US": "Pope Paul III",
+    "pt-BR": "Papa Paulo III",
+    "la": "Paulus PP. III"
+  },
+  "description": {
+    "en-US": "Bull · Pope Paul III · 1542-05-22",
+    "pt-BR": "Bula · Papa Paulo III · 1542-05-22"
+  },
+  "composed": "1542",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "paul-iii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/initio-nostri-pontificatus-paulo-iii22-05-1542/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Initio nostri pontificatus"
+      }
+    }
+  ]
+}

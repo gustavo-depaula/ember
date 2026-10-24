@@ -1,0 +1,40 @@
+{
+  "id": "clement-xiii-ubi-primum-accepimus",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Ubi primum accepimus"
+  },
+  "author": {
+    "en-US": "Pope Clement XIII",
+    "pt-BR": "Papa Clemente XIII",
+    "la": "Clemens PP. XIII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Clement XIII · 1764-01-14",
+    "pt-BR": "Breve · Papa Clemente XIII · 1764-01-14"
+  },
+  "composed": "1764",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "clement-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiii/it/documents/breve-ubi-primum-accepimus-14-gennaio-1764.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Ubi primum accepimus"
+      }
+    }
+  ]
+}

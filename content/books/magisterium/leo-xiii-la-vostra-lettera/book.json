@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-la-vostra-lettera",
+  "cover": "quarter",
+  "name": {
+    "la": "Literae tuae",
+    "it": "La vostra lettera"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1885-06-17",
+    "pt-BR": "Carta · Papa Leão XIII · 1885-06-17"
+  },
+  "composed": "1885",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/letters/documents/hf_l-xiii_let_18850617_la-vostra-lettera.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18850617_la-vostra-lettera.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Literae tuae",
+        "it": "La vostra lettera"
+      }
+    }
+  ]
+}

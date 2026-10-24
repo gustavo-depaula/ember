@@ -1,0 +1,40 @@
+{
+  "id": "clement-xiv-magna-atque",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Magna atque"
+  },
+  "author": {
+    "en-US": "Pope Clement XIV",
+    "pt-BR": "Papa Clemente XIV",
+    "la": "Clemens PP. XIV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Clement XIV · 1771-03-16",
+    "pt-BR": "Breve · Papa Clemente XIV · 1771-03-16"
+  },
+  "composed": "1771",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "clement-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiv/it/documents/breve-magna-atque-16-marzo-1771.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Magna atque"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "health-care-archive",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Archive - Pontifical Council for Health Pastoral Care",
+    "pt-BR": "Arquivo - Conselho Pontifício para a Pastoral no Campo de Saúde",
+    "de": "Archiv - Päpstlicher Rat für die Pastoral im Krankendienst",
+    "es": "Archivio - Pontificio Consejo para la Pastoral de los Agentes Sanitarios",
+    "fr": "Archive - Conseil Pontifical pour la Pastorale des Services de la Santé",
+    "it": "Archivio - Pontificio Consiglio della Pastorale per gli Operatori Sanitari"
+  },
+  "author": {
+    "en-US": "Health Care",
+    "pt-BR": "Health Care",
+    "la": "Health Care"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Health Care · 2002-09-02",
+    "pt-BR": "Documento da Cúria Romana · Health Care · 2002-09-02"
+  },
+  "composed": "2002",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "health-care"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/hlthwork/documents/rc_pc_hlthwork_doc_20020902_archive_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/hlthwork/documents/rc_pc_hlthwork_doc_20020902_archive_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/hlthwork/documents/rc_pc_hlthwork_doc_20020902_archive_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/hlthwork/documents/rc_pc_hlthwork_doc_20020902_archive_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/hlthwork/documents/rc_pc_hlthwork_doc_20020902_archive_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/hlthwork/documents/rc_pc_hlthwork_doc_20020902_archive_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Archive - Pontifical Council for Health Pastoral Care",
+        "pt-BR": "Arquivo - Conselho Pontifício para a Pastoral no Campo de Saúde",
+        "de": "Archiv - Päpstlicher Rat für die Pastoral im Krankendienst",
+        "es": "Archivio - Pontificio Consejo para la Pastoral de los Agentes Sanitarios",
+        "fr": "Archive - Conseil Pontifical pour la Pastorale des Services de la Santé",
+        "it": "Archivio - Pontificio Consiglio della Pastorale per gli Operatori Sanitari"
+      }
+    }
+  ]
+}

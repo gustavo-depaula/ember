@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-consulting-ecclesiastical-commission",
+  "cover": "quarter",
+  "name": {
+    "it": "Istituzione \"ad experimentum\" della Commissione di Consulenza e di Revisione Ecclesiastica dei films a soggetto religioso o morale"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1948-01-30",
+    "pt-BR": "Carta · Papa Pio XII · 1948-01-30"
+  },
+  "composed": "1948",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/letters/documents/hf_p-xii_lett_30011948_consulting-ecclesiastical-commission.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Istituzione \"ad experimentum\" della Commissione di Consulenza e di Revisione Ecclesiastica dei films a soggetto religioso o morale"
+      }
+    }
+  ]
+}

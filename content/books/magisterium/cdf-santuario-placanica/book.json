@@ -1,0 +1,88 @@
+{
+  "id": "cdf-santuario-placanica",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Bishop of Locri-Gerace About the Spiritual Experience Connected with the Sanctuary of the \"Madonna dello Scoglio\" in Santa Domenica di Placanica, Italy",
+    "pt-BR": "Carta ao Bispo de Locri-Gerace sobre a experiência espiritual ligada ao Santuário de Nossa Senhora “dello Scoglio”, em Santa Domenica di Placanica",
+    "de": "Schreiben an den Bischof von Locri-Gerace über die geistliche Erfahrung in Verbindung mit dem Heiligtum der \"Madonna dello Scoglio\" in Santa Domenica di Placanica",
+    "es": "Carta al Obispo de Locri-Gerace sobre la experiencia espiritual vinculada al Santuario de la \"Madonna dello Scoglio\" in Santa Domenica di Placanica",
+    "fr": "Lettre à l’Évêque de Locri-Gerace sur l'expérience spirituelle liée au sanctuaire de la « Madonna dello Scoglio » à Santa Domenica di Placanica",
+    "it": "Lettera al Vescovo di Locri-Gerace sull'esperienza spirituale legata al Santuario della Madonna dello Scoglio in Santa Domenica di Placanica",
+    "pl": "List do biskupa Locri-Gerace na temat doświadczenia duchowego związanego z Sanktuarium „Madonna dello Scoglio” w Santa Domenica di Placanica"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-07-05",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-07-05"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240705_lettera-santuario-placanica_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Bishop of Locri-Gerace About the Spiritual Experience Connected with the Sanctuary of the \"Madonna dello Scoglio\" in Santa Domenica di Placanica, Italy",
+        "pt-BR": "Carta ao Bispo de Locri-Gerace sobre a experiência espiritual ligada ao Santuário de Nossa Senhora “dello Scoglio”, em Santa Domenica di Placanica",
+        "de": "Schreiben an den Bischof von Locri-Gerace über die geistliche Erfahrung in Verbindung mit dem Heiligtum der \"Madonna dello Scoglio\" in Santa Domenica di Placanica",
+        "es": "Carta al Obispo de Locri-Gerace sobre la experiencia espiritual vinculada al Santuario de la \"Madonna dello Scoglio\" in Santa Domenica di Placanica",
+        "fr": "Lettre à l’Évêque de Locri-Gerace sur l'expérience spirituelle liée au sanctuaire de la « Madonna dello Scoglio » à Santa Domenica di Placanica",
+        "it": "Lettera al Vescovo di Locri-Gerace sull'esperienza spirituale legata al Santuario della Madonna dello Scoglio in Santa Domenica di Placanica",
+        "pl": "List do biskupa Locri-Gerace na temat doświadczenia duchowego związanego z Sanktuarium „Madonna dello Scoglio” w Santa Domenica di Placanica"
+      }
+    }
+  ]
+}

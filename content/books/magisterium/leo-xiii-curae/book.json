@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-curae",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolicae Curae",
+    "it": "Apostolicae Curae"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Document · Pope Leo XIII · 1896-09-13",
+    "pt-BR": "Documento · Papa Leão XIII · 1896-09-13"
+  },
+  "composed": "1896",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo13/l13curae.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1896-09-13,_SS_Leo_XIII,_Apostolicae_Curae,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolicae Curae",
+        "it": "Apostolicae Curae"
+      }
+    }
+  ]
+}

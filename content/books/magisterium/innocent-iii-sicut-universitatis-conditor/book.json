@@ -1,0 +1,40 @@
+{
+  "id": "innocent-iii-sicut-universitatis-conditor",
+  "cover": "quarter",
+  "name": {
+    "it": "Sicut Universitatis Conditor"
+  },
+  "author": {
+    "en-US": "Pope Innocent III",
+    "pt-BR": "Papa Inocêncio III",
+    "la": "Innocentius PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent III · 1198-10-30",
+    "pt-BR": "Documento · Papa Inocêncio III · 1198-10-30"
+  },
+  "composed": "1198",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-iii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1198-10-30,_SS_Innocentius_III,_Sicut_Universitatis_Conditor,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Sicut Universitatis Conditor"
+      }
+    }
+  ]
+}

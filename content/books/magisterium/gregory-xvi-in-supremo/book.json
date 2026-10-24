@@ -1,0 +1,56 @@
+{
+  "id": "gregory-xvi-in-supremo",
+  "cover": "quarter",
+  "name": {
+    "en-US": "In Supremo Apostolatus",
+    "pt-BR": "In supremo",
+    "it": "Breve In supremo"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1839-12-03",
+    "pt-BR": "Breve · Papa Gregório XVI · 1839-12-03"
+  },
+  "composed": "1839",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/greg16/g16sup.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/in-supremo-2/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-in-supremo-3-dicembre-1839.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "In Supremo Apostolatus",
+        "pt-BR": "In supremo",
+        "it": "Breve In supremo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "paul-vi-ad-pascendum",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad Pascendum - Nonnullae normae ad sacrum Diaconatus ordinem spectantes statuuntur, Litterae Apostolicae Motu Proprio datae, Die 15 m. Augusti a. 1972, Paulus PP.VI",
+    "pt-BR": "Ad Pascendum: com a qual se estabelem algumas normas a respeito da Ordem Sacra do Diaconado",
+    "it": "Ad Pascendum - Lettera Apostolica in forma di Motu Proprio con la quale vengono stabilite alcune norme sul diaconato"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1972-08-15",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1972-08-15"
+  },
+  "composed": "1972",
+  "languages": [
+    "la",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19720815_ad-pascendum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/motu_proprio/documents/hf_p-vi_motu-proprio_19720815_ad-pascendum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19720815_ad-pascendum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad Pascendum - Nonnullae normae ad sacrum Diaconatus ordinem spectantes statuuntur, Litterae Apostolicae Motu Proprio datae, Die 15 m. Augusti a. 1972, Paulus PP.VI",
+        "pt-BR": "Ad Pascendum: com a qual se estabelem algumas normas a respeito da Ordem Sacra do Diaconado",
+        "it": "Ad Pascendum - Lettera Apostolica in forma di Motu Proprio con la quale vengono stabilite alcune norme sul diaconato"
+      }
+    }
+  ]
+}

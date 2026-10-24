@@ -1,0 +1,104 @@
+{
+  "id": "cdf-cti-interpretazione-dogmi",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Interpretation of Dogma, 1989",
+    "pt-BR": "A interpretação dos dogmas",
+    "de": "Die Interpretation der Dogmen, 1990",
+    "fr": "L'interprétation des dogmes, 1989",
+    "hu": "A DOGMÁK ÉRTELMEZÉSE, 1990",
+    "it": "L'interpretazione dei dogmi, 1990",
+    "nl": "De interpretatie van het dogma, 1989",
+    "pl": "INTERPRETACJA DOGMATÓW, 1989",
+    "ru": "ИНТЕРПРЕТАЦИЯ ДОГМАТА, 1990"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1989",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1989"
+  },
+  "composed": "1989",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "fr",
+    "hu",
+    "it",
+    "nl",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1989_interpretazione-dogmi_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1989_interpretazione-dogmi_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1989_interpretazione-dogmi_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1989_interpretazione-dogmi_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1989_interpretazione-dogmi_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1989_interpretazione-dogmi_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1989_interpretazione-dogmi_nl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1989_interpretazione-dogmi_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1989_interpretazione-dogmi_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Interpretation of Dogma, 1989",
+        "pt-BR": "A interpretação dos dogmas",
+        "de": "Die Interpretation der Dogmen, 1990",
+        "fr": "L'interprétation des dogmes, 1989",
+        "hu": "A DOGMÁK ÉRTELMEZÉSE, 1990",
+        "it": "L'interpretazione dei dogmi, 1990",
+        "nl": "De interpretatie van het dogma, 1989",
+        "pl": "INTERPRETACJA DOGMATÓW, 1989",
+        "ru": "ИНТЕРПРЕТАЦИЯ ДОГМАТА, 1990"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cdf-rec-holy-comm-by-divorced-19940914",
+  "cover": "quarter",
+  "name": {
+    "fr": "Sur l'accès à la communion eucharistique des divorcés remariés"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1994-09-14",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1994-09-14"
+  },
+  "composed": "1994",
+  "languages": [
+    "fr"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19940914_rec-holy-comm-by-divorced_fr.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Sur l'accès à la communion eucharistique des divorcés remariés"
+      }
+    }
+  ]
+}

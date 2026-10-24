@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-i-luttuosi-avvenimenti",
+  "cover": "quarter",
+  "name": {
+    "it": "I luttuosi avvenimenti"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1900-07-16",
+    "pt-BR": "Carta · Papa Leão XIII · 1900-07-16"
+  },
+  "composed": "1900",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_19000716_i-luttuosi-avvenimenti.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "I luttuosi avvenimenti"
+      }
+    }
+  ]
+}

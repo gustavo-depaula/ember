@@ -1,0 +1,112 @@
+{
+  "id": "francis-20220319-costituzione-ap-praedicate-evangelium",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutio Apostolica “Praedicate Evangelium” de Curia Romana eiusque servitio pro Ecclesia in mundo (die XIX mensis Martii, anno MMXXII)",
+    "en-US": "“Praedicate Evangelium” on the Roman Curia and its service to the Church and to the World",
+    "pt-BR": "Praedicate Evangelium sobre a Cúria Romana e o seu serviço à Igreja no mundo",
+    "ar": "دستور رسوليّ أعلنوا البشارة في الكوريا الرّومانيّة وخدمتها للكنيسة في العالم، 19 آذار/مارس 2022",
+    "cs": "Apoštolská konstituce o Římské kurii a její službě církvi ve světě “Praedicate Evangelium”",
+    "de": "Apostolische Konstitution “Praedicate Evangelium” über die Römische Kurie und ihren Dienst für die Kirche in der Welt",
+    "es": "Praedicate Evangelium sobre la Curia romana y su servicio a la Iglesia en el mundo",
+    "fr": "Constitution apostolique Praedicate Evangelium sur la Curie Romaine et son service à l’Église dans le monde",
+    "it": "Praedicate Evangelium, sulla Curia Romana e il suo servizio alla Chiesa nel Mondo",
+    "pl": "Praedicate Evangelium, Konstytucja Apostolska o Kurii Rzymskiej i jej Służbie Kościołowi w Świecie"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Francis · 2022-03-19",
+    "pt-BR": "Constituição Apostólica · Papa Francisco · 2022-03-19"
+  },
+  "composed": "2022",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/francesco/ar/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/content/francesco/cs/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Constitutio Apostolica “Praedicate Evangelium” de Curia Romana eiusque servitio pro Ecclesia in mundo (die XIX mensis Martii, anno MMXXII)",
+        "en-US": "“Praedicate Evangelium” on the Roman Curia and its service to the Church and to the World",
+        "pt-BR": "Praedicate Evangelium sobre a Cúria Romana e o seu serviço à Igreja no mundo",
+        "ar": "دستور رسوليّ أعلنوا البشارة في الكوريا الرّومانيّة وخدمتها للكنيسة في العالم، 19 آذار/مارس 2022",
+        "cs": "Apoštolská konstituce o Římské kurii a její službě církvi ve světě “Praedicate Evangelium”",
+        "de": "Apostolische Konstitution “Praedicate Evangelium” über die Römische Kurie und ihren Dienst für die Kirche in der Welt",
+        "es": "Praedicate Evangelium sobre la Curia romana y su servicio a la Iglesia en el mundo",
+        "fr": "Constitution apostolique Praedicate Evangelium sur la Curie Romaine et son service à l’Église dans le monde",
+        "it": "Praedicate Evangelium, sulla Curia Romana e il suo servizio alla Chiesa nel Mondo",
+        "pl": "Praedicate Evangelium, Konstytucja Apostolska o Kurii Rzymskiej i jej Służbie Kościołowi w Świecie"
+      }
+    }
+  ]
+}

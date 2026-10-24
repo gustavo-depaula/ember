@@ -1,0 +1,64 @@
+{
+  "id": "francis-retribuzioni",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter in the form of a \"Motu Proprio\" of Pope Francis regarding the containment of expenditures for employees of the Holy See, the Governorate of Vatican City State, and other connected Entities",
+    "pt-BR": "Carta apostólica sob forma de motu proprio do Sumo Pontífice Francisco relativa à contenção das despesas com o pessoal da Santa Sé, do Governatorato do Estado da Cidade do Vaticano e de outras Entidades afins",
+    "es": "Carta apostólica en forma de Motu Proprio sobre la contención de gastos para el personal de la Santa Sede, la Gobernación del Estado de la Ciudad del Vaticano y otras instituciones vinculadas",
+    "it": "Lettera Apostolica in forma di “Motu Proprio” del Sommo Pontefice Francesco circa il contenimento della spesa per il personale della Santa Sede, del Governatorato dello Stato della Città del Vaticano e di altri Enti collegati"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2021-03-23",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2021-03-23"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20210323_decreto-retribuzioni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210323_decreto-retribuzioni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20210323_decreto-retribuzioni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20210323_decreto-retribuzioni.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter in the form of a \"Motu Proprio\" of Pope Francis regarding the containment of expenditures for employees of the Holy See, the Governorate of Vatican City State, and other connected Entities",
+        "pt-BR": "Carta apostólica sob forma de motu proprio do Sumo Pontífice Francisco relativa à contenção das despesas com o pessoal da Santa Sé, do Governatorato do Estado da Cidade do Vaticano e de outras Entidades afins",
+        "es": "Carta apostólica en forma de Motu Proprio sobre la contención de gastos para el personal de la Santa Sede, la Gobernación del Estado de la Ciudad del Vaticano y otras instituciones vinculadas",
+        "it": "Lettera Apostolica in forma di “Motu Proprio” del Sommo Pontefice Francesco circa il contenimento della spesa per il personale della Santa Sede, del Governatorato dello Stato della Città del Vaticano e di altri Enti collegati"
+      }
+    }
+  ]
+}

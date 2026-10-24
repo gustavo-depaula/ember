@@ -1,0 +1,96 @@
+{
+  "id": "cdf-sacramentum-paenitentiae",
+  "cover": "quarter",
+  "name": {
+    "la": "Sacramentum Paenitentiae, d. 16 m. Iunii a. 1972, Congregatio pro Doctrina Fidei",
+    "en-US": "Pastoral norms for the administration of general sacramental absolution",
+    "pt-BR": "Normas pastorais sobre as absolvições coletivas, 16 de junho de 1972",
+    "de": "Pastorale Normen für die sakramentale Generalabsolution, 16. Juni 1972",
+    "es": "Normas pastorales sobre la absolución general sacramental, 16 junio 1972",
+    "fr": "Normes pastorales pour l'absolution sacramentelle générale, 16 juin 1972",
+    "it": "Norme pastorali circa l'assoluzione sacramentale generale, 16 giugno 1972",
+    "pl": "NORMY DUSZPASTERSKIE DOTYCZĄCE UDZIELANIA SAKRAMENTALNEGO ROZGRZESZENIA OGÓLNEGO"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1972-06-16",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1972-06-16"
+  },
+  "composed": "1972",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720616_sacramentum-paenitentiae_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720616_sacramentum-paenitentiae_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720616_sacramentum-paenitentiae_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720616_sacramentum-paenitentiae_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720616_sacramentum-paenitentiae_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720616_sacramentum-paenitentiae_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720616_sacramentum-paenitentiae_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720616_sacramentum-paenitentiae_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sacramentum Paenitentiae, d. 16 m. Iunii a. 1972, Congregatio pro Doctrina Fidei",
+        "en-US": "Pastoral norms for the administration of general sacramental absolution",
+        "pt-BR": "Normas pastorais sobre as absolvições coletivas, 16 de junho de 1972",
+        "de": "Pastorale Normen für die sakramentale Generalabsolution, 16. Juni 1972",
+        "es": "Normas pastorales sobre la absolución general sacramental, 16 junio 1972",
+        "fr": "Normes pastorales pour l'absolution sacramentelle générale, 16 juin 1972",
+        "it": "Norme pastorali circa l'assoluzione sacramentale generale, 16 giugno 1972",
+        "pl": "NORMY DUSZPASTERSKIE DOTYCZĄCE UDZIELANIA SAKRAMENTALNEGO ROZGRZESZENIA OGÓLNEGO"
+      }
+    }
+  ]
+}

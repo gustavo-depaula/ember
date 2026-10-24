@@ -1,0 +1,40 @@
+{
+  "id": "john-xxiii-religiosorum-institutio",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Religiosorum institutio"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Document · Pope John XXIII · 1961-02-02",
+    "pt-BR": "Documento · Papa João XXIII · 1961-02-02"
+  },
+  "composed": "1961",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/john23/j23religios.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Religiosorum institutio"
+      }
+    }
+  ]
+}

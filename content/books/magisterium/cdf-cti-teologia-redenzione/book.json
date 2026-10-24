@@ -1,0 +1,104 @@
+{
+  "id": "cdf-cti-teologia-redenzione",
+  "cover": "quarter",
+  "name": {
+    "en-US": "SELECT QUESTIONS ON THE THEOLOGY OF GOD THE REDEEMER",
+    "pt-BR": "Algumas questões sobre a Teologia da Redenção, 1995",
+    "de": "Gott der Erlöser - zu einigen ausgewählten Fragen, 1995",
+    "fr": "Le Dieu Rédempteur : questions choisies, 1995",
+    "hu": "A MEGVÁLTÁS TEOLÓGIÁJÁVAL KAPCSOLATOS NÉHÁNY KÉRDÉS, 1995",
+    "it": "Alcune questioni sulla Teologia della Redenzione, 1995",
+    "nl": "Enkele vraagstukken over God als Verlosser, 1995",
+    "pl": "TEOLOGIA ODKUPIENIA, 1995 - Międzynarodowa Komisja Teologiczna",
+    "ru": "БОГОСЛОВИЕ ИСКУПЛЕНИЯ, 1995"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1995",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1995"
+  },
+  "composed": "1995",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "fr",
+    "hu",
+    "it",
+    "nl",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1995_teologia-redenzione_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1995_teologia-redenzione_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1995_teologia-redenzione_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1995_teologia-redenzione_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1995_teologia-redenzione_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1995_teologia-redenzione_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1995_teologia-redenzione_nl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1995_teologia-redenzione_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1995_teologia-redenzione_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "SELECT QUESTIONS ON THE THEOLOGY OF GOD THE REDEEMER",
+        "pt-BR": "Algumas questões sobre a Teologia da Redenção, 1995",
+        "de": "Gott der Erlöser - zu einigen ausgewählten Fragen, 1995",
+        "fr": "Le Dieu Rédempteur : questions choisies, 1995",
+        "hu": "A MEGVÁLTÁS TEOLÓGIÁJÁVAL KAPCSOLATOS NÉHÁNY KÉRDÉS, 1995",
+        "it": "Alcune questioni sulla Teologia della Redenzione, 1995",
+        "nl": "Enkele vraagstukken over God als Verlosser, 1995",
+        "pl": "TEOLOGIA ODKUPIENIA, 1995 - Międzynarodowa Komisja Teologiczna",
+        "ru": "БОГОСЛОВИЕ ИСКУПЛЕНИЯ, 1995"
+      }
+    }
+  ]
+}

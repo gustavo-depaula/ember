@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-libri-liturgici-gregoriani",
+  "cover": "quarter",
+  "name": {
+    "it": "Sull'edizione vaticana dei libri liturgici contenenti le melodie gregoriane"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius X · 1904-04-25",
+    "pt-BR": "Motu Proprio · Papa Pio X · 1904-04-25"
+  },
+  "composed": "1904",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/motu_proprio/documents/hf_p-x_motu-proprio_19040425_libri-liturgici-gregoriani.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Sull'edizione vaticana dei libri liturgici contenenti le melodie gregoriane"
+      }
+    }
+  ]
+}

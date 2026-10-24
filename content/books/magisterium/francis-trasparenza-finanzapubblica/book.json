@@ -1,0 +1,64 @@
+{
+  "id": "francis-trasparenza-finanzapubblica",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued “Motu proprio” of the Supreme Pontiff Francis regarding provisions on transparency in the management of public finances",
+    "pt-BR": "Carta Apostólica sob forma de Motu Proprio do Papa Francisco que estabelece disposições sobre a transparência na gestão das finanças públicas",
+    "es": "Carta apostólica en forma de Motu proprio por la que se establecen disposiciones sobre la transparencia en la gestión de las finanzas públicas",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» del Sommo Pontefice Francesco recante disposizioni sulla trasparenza nella gestione della finanza pubblica"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2021-04-26",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2021-04-26"
+  },
+  "composed": "2021",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20210426_trasparenza-finanzapubblica.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210426_trasparenza-finanzapubblica.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20210426_trasparenza-finanzapubblica.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20210426_trasparenza-finanzapubblica.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued “Motu proprio” of the Supreme Pontiff Francis regarding provisions on transparency in the management of public finances",
+        "pt-BR": "Carta Apostólica sob forma de Motu Proprio do Papa Francisco que estabelece disposições sobre a transparência na gestão das finanças públicas",
+        "es": "Carta apostólica en forma de Motu proprio por la que se establecen disposiciones sobre la transparencia en la gestión de las finanzas públicas",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» del Sommo Pontefice Francesco recante disposizioni sulla trasparenza nella gestione della finanza pubblica"
+      }
+    }
+  ]
+}

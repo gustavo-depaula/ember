@@ -1,0 +1,72 @@
+{
+  "id": "cdf-chandavila",
+  "cover": "quarter",
+  "name": {
+    "en-US": "«A light in Spain». Letter to the Archbishop of Mérida-Badajoz (Spain) about the spiritual experience of Chandavila",
+    "pt-BR": "“Uma luz em Espanha”. Carta ao Arcebispo de Mérida-Badajoz (Espanha) sobre a experiência espiritual de Chandavila",
+    "es": "«Una luz en España». Carta al Arzobispo de Mérida-Badajoz (España) sobre la experiencia espiritual de Chandavila",
+    "fr": "« Une lumière en Espagne » Lettre à l'archevêque de Mérida-Badajoz (Espagne) sur l'expérience spirituelle de Chandavila",
+    "it": "«Una luce nella Spagna». Lettera all’Arcivescovo di Mérida-Badajoz (Spagna) circa l’esperienza spirituale di Chandavila"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-08-22",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-08-22"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240822_lettera-chandavila_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "«A light in Spain». Letter to the Archbishop of Mérida-Badajoz (Spain) about the spiritual experience of Chandavila",
+        "pt-BR": "“Uma luz em Espanha”. Carta ao Arcebispo de Mérida-Badajoz (Espanha) sobre a experiência espiritual de Chandavila",
+        "es": "«Una luz en España». Carta al Arzobispo de Mérida-Badajoz (España) sobre la experiencia espiritual de Chandavila",
+        "fr": "« Une lumière en Espagne » Lettre à l'archevêque de Mérida-Badajoz (Espagne) sur l'expérience spirituelle de Chandavila",
+        "it": "«Una luce nella Spagna». Lettera all’Arcivescovo di Mérida-Badajoz (Spagna) circa l’esperienza spirituale di Chandavila"
+      }
+    }
+  ]
+}

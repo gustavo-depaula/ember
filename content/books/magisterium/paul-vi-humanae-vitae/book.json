@@ -1,0 +1,104 @@
+{
+  "id": "paul-vi-humanae-vitae",
+  "cover": "quarter",
+  "name": {
+    "la": "Humanae Vitae: de propagatione humanae prolis recte ordinanda, die XXV mensis Iulii, anno MCMLXVIII - Paulus VI",
+    "en-US": "Humanae Vitae",
+    "de": "Humanae Vitae",
+    "es": "Humanae Vitae",
+    "fr": "Humanae Vitae",
+    "hu": "Humanae Vitae, VI. Pál pápa enciklikája a helyes születésszabályozásról, 1968. júl. 25-én",
+    "it": "Humanae Vitae",
+    "zh-CN": "Humanae Vitae",
+    "zh-TW": "Humanae Vitae"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Paul VI · 1968-07-25",
+    "pt-BR": "Encíclica · Papa Paulo VI · 1968-07-25"
+  },
+  "composed": "1968",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/paul-vi/hu/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/paul-vi/zh_cn/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/paul-vi/zh_tw/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Humanae Vitae: de propagatione humanae prolis recte ordinanda, die XXV mensis Iulii, anno MCMLXVIII - Paulus VI",
+        "en-US": "Humanae Vitae",
+        "de": "Humanae Vitae",
+        "es": "Humanae Vitae",
+        "fr": "Humanae Vitae",
+        "hu": "Humanae Vitae, VI. Pál pápa enciklikája a helyes születésszabályozásról, 1968. júl. 25-én",
+        "it": "Humanae Vitae",
+        "zh-CN": "Humanae Vitae",
+        "zh-TW": "Humanae Vitae"
+      }
+    }
+  ]
+}

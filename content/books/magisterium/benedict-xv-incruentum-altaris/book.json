@@ -1,0 +1,56 @@
+{
+  "id": "benedict-xv-incruentum-altaris",
+  "cover": "quarter",
+  "name": {
+    "la": "Incruentum altaris, die 10 m. Augusti a. 1915 - Constitutio Apostolica, Benedictus PP. XV",
+    "pt-BR": "Incruentum Altaris",
+    "it": "Incruentum Altaris"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Benedict XV · 1915-08-10",
+    "pt-BR": "Constituição Apostólica · Papa Bento XV · 1915-08-10"
+  },
+  "composed": "1915",
+  "languages": [
+    "la",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/bulls/documents/hf_ben-xv_bulls_19150810_incruentum-altaris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/incruentum-altaris-bento-xv-10-08-1915/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/apost-constitutions/documents/hf_ben-xv_bulls_19150810_incruentum-altaris.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Incruentum altaris, die 10 m. Augusti a. 1915 - Constitutio Apostolica, Benedictus PP. XV",
+        "pt-BR": "Incruentum Altaris",
+        "it": "Incruentum Altaris"
+      }
+    }
+  ]
+}

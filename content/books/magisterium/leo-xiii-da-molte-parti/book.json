@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-da-molte-parti",
+  "cover": "quarter",
+  "name": {
+    "it": "Da molte parti"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIII · 1903-05-26",
+    "pt-BR": "Carta Apostólica · Papa Leão XIII · 1903-05-26"
+  },
+  "composed": "1903",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/apost_letters/documents/hf_l-xiii_apl_19030526_da-molte-parti.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Da molte parti"
+      }
+    }
+  ]
+}

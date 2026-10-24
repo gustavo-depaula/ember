@@ -1,0 +1,40 @@
+{
+  "id": "pius-vii-etsi-longissimo",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Etsi longissimo"
+  },
+  "author": {
+    "en-US": "Pope Pius VII",
+    "pt-BR": "Papa Pio VII",
+    "la": "Pius PP. VII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius VII · 1816-01-30",
+    "pt-BR": "Breve · Papa Pio VII · 1816-01-30"
+  },
+  "composed": "1816",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-vii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vii/it/documents/breve-etsi-longissimo-30-gennaio-1816.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Etsi longissimo"
+      }
+    }
+  ]
+}

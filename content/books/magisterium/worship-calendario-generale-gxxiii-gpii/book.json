@@ -1,0 +1,80 @@
+{
+  "id": "worship-calendario-generale-gxxiii-gpii",
+  "cover": "quarter",
+  "name": {
+    "la": "Decreto di iscrizione nel Calendario Romano Generale dei Santi Giovanni XXIII e Giovanni Paolo II",
+    "en-US": "Decree concerning the inscription of the Saints John XXIII and John Paul II in the General Roman Calendar",
+    "pt-BR": "Decreto de inscrição no Calendário romano dos santos São João XXIII e São João Paulo II",
+    "es": "Decreto de inscripción en el Calendario romano general de san Juan XXIII y san Juan Pablo II",
+    "fr": "Décret d'inscription dans le Calendrier Romain général des saints Jean XXIII et Jean-Paul II",
+    "it": "Decreto di iscrizione nel Calendario Romano Generale dei Santi Giovanni XXIII e Giovanni Paolo II"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2014-05-29",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2014-05-29"
+  },
+  "composed": "2014",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20140529_decreto-calendario-generale-gxxiii-gpii_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20140529_decreto-calendario-generale-gxxiii-gpii_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20140529_decreto-calendario-generale-gxxiii-gpii_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20140529_decreto-calendario-generale-gxxiii-gpii_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20140529_decreto-calendario-generale-gxxiii-gpii_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20140529_decreto-calendario-generale-gxxiii-gpii_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decreto di iscrizione nel Calendario Romano Generale dei Santi Giovanni XXIII e Giovanni Paolo II",
+        "en-US": "Decree concerning the inscription of the Saints John XXIII and John Paul II in the General Roman Calendar",
+        "pt-BR": "Decreto de inscrição no Calendário romano dos santos São João XXIII e São João Paulo II",
+        "es": "Decreto de inscripción en el Calendario romano general de san Juan XXIII y san Juan Pablo II",
+        "fr": "Décret d'inscription dans le Calendrier Romain général des saints Jean XXIII et Jean-Paul II",
+        "it": "Decreto di iscrizione nel Calendario Romano Generale dei Santi Giovanni XXIII e Giovanni Paolo II"
+      }
+    }
+  ]
+}

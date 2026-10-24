@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-ad-hoc-usque-tempus",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad hoc usque tempus - Iuridicae quaedam Patrum Cardinalium rationes definiuntur quoad suos Titulos vel Diaconias in Urbe, Litterae Apostolicae Motu Proprio datae, Die 15 m. Aprilis a. 1969, Paulus PP.VI",
+    "it": "Ad hoc usque tempus - Lettera Apostolica in forma di Motu Proprio con la quale vengono definite alcune questioni riguardanti i titoli o diaconie dei Cardinali in Roma"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1969-04-15",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1969-04-15"
+  },
+  "composed": "1969",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19690415_ad-hoc-usque-tempus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19690415_ad-hoc-usque-tempus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad hoc usque tempus - Iuridicae quaedam Patrum Cardinalium rationes definiuntur quoad suos Titulos vel Diaconias in Urbe, Litterae Apostolicae Motu Proprio datae, Die 15 m. Aprilis a. 1969, Paulus PP.VI",
+        "it": "Ad hoc usque tempus - Lettera Apostolica in forma di Motu Proprio con la quale vengono definite alcune questioni riguardanti i titoli o diaconie dei Cardinali in Roma"
+      }
+    }
+  ]
+}

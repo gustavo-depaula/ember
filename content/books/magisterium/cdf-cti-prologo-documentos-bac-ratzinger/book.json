@@ -1,0 +1,40 @@
+{
+  "id": "cdf-cti-prologo-documentos-bac-ratzinger",
+  "cover": "quarter",
+  "name": {
+    "es": "Prólogo del Card. Ratzinger a Documentos 1969-1996"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1998",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1998"
+  },
+  "composed": "1998",
+  "languages": [
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1998_prologo-documentos-bac_ratzinger_sp.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Prólogo del Card. Ratzinger a Documentos 1969-1996"
+      }
+    }
+  ]
+}

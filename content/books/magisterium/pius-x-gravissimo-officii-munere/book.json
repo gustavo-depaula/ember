@@ -1,0 +1,56 @@
+{
+  "id": "pius-x-gravissimo-officii-munere",
+  "cover": "quarter",
+  "name": {
+    "la": "Gravissimo Officii Munere",
+    "en-US": "Gravissimo Officii Munere",
+    "it": "Gravissimo Officii Munere"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius X · 1906-08-10",
+    "pt-BR": "Encíclica · Papa Pio X · 1906-08-10"
+  },
+  "composed": "1906",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-x/la/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_10081906_gravissimo-officii-munere.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Gravissimo Officii Munere",
+        "en-US": "Gravissimo Officii Munere",
+        "it": "Gravissimo Officii Munere"
+      }
+    }
+  ]
+}

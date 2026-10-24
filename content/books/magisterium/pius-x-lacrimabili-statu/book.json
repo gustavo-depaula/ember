@@ -1,0 +1,48 @@
+{
+  "id": "pius-x-lacrimabili-statu",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Lacrimabili Statu",
+    "it": "Lacrimabili Statu"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius X · 1912-06-07",
+    "pt-BR": "Encíclica · Papa Pio X · 1912-06-07"
+  },
+  "composed": "1912",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_07061912_lacrimabili-statu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_07061912_lacrimabili-statu.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Lacrimabili Statu",
+        "it": "Lacrimabili Statu"
+      }
+    }
+  ]
+}

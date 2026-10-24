@@ -1,0 +1,88 @@
+{
+  "id": "cdf-dignitas-infinita",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Declaration “Dignitas Infinita” on Human Dignity",
+    "pt-BR": "Declaração <i>Dignitas infinita</i> sobre a dignidade humana",
+    "de": "Erklärung <i>Dignitas infinita</i> über die menschliche Würde",
+    "es": "Declaración Dignitas infinita sobre la dignidad humana",
+    "fr": "Déclaration <i>Dignitas infinita</i> sur la dignité humaine",
+    "it": "Dichiarazione <i>Dignitas infinita</i> circa la dignità umana",
+    "pl": "Deklaracja Dignitas infinita o godności człowieka"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-04-02",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-04-02"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Declaration “Dignitas Infinita” on Human Dignity",
+        "pt-BR": "Declaração <i>Dignitas infinita</i> sobre a dignidade humana",
+        "de": "Erklärung <i>Dignitas infinita</i> über die menschliche Würde",
+        "es": "Declaración Dignitas infinita sobre la dignidad humana",
+        "fr": "Déclaration <i>Dignitas infinita</i> sur la dignité humaine",
+        "it": "Dichiarazione <i>Dignitas infinita</i> circa la dignità umana",
+        "pl": "Deklaracja Dignitas infinita o godności człowieka"
+      }
+    }
+  ]
+}

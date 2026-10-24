@@ -1,0 +1,72 @@
+{
+  "id": "francis-pontificia-commissione-tutela-minori",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Presidents of Episcopal Conferences and Superiors of Institutes of Consecrated Life and Societies of Apostolic Life concerning the Pontifical Commission for the Protection of Minors",
+    "pt-BR": "Carta aos Presidentes das Conferências Episcopais e Superiores dos Institutos de Vida Consagrada e as Sociedades de Vida Apostólica sobre a Pontifícia Comissão para a Tutela dos Menores",
+    "es": "Carta a los Presidentes de las Conferencias Episcopales y los Superiores de los Institutos de Vida Consagrada y las Sociedades de Vida Apostólica acerca de la Pontificia Comisión para la tutela de menores",
+    "fr": "Lettre aux Présidents des Conférences épiscopales et aux Supérieurs des Instituts de vie consacrée et des Sociétés de vie apostolique concernant la Commission Pontificale pour la protection des mineurs",
+    "it": "Lettera ai Presidenti delle Conferenze Episcopali e ai Superiori degli Istituti di vita consacrata e le Società di vita apostolica circa la Pontificia Commissione per la Tutela dei Minori"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Francis · 2015-02-02",
+    "pt-BR": "Carta · Papa Francisco · 2015-02-02"
+  },
+  "composed": "2015",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/letters/2015/documents/papa-francesco_20150202_lettera-pontificia-commissione-tutela-minori.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/letters/2015/documents/papa-francesco_20150202_lettera-pontificia-commissione-tutela-minori.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/letters/2015/documents/papa-francesco_20150202_lettera-pontificia-commissione-tutela-minori.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/letters/2015/documents/papa-francesco_20150202_lettera-pontificia-commissione-tutela-minori.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/letters/2015/documents/papa-francesco_20150202_lettera-pontificia-commissione-tutela-minori.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Presidents of Episcopal Conferences and Superiors of Institutes of Consecrated Life and Societies of Apostolic Life concerning the Pontifical Commission for the Protection of Minors",
+        "pt-BR": "Carta aos Presidentes das Conferências Episcopais e Superiores dos Institutos de Vida Consagrada e as Sociedades de Vida Apostólica sobre a Pontifícia Comissão para a Tutela dos Menores",
+        "es": "Carta a los Presidentes de las Conferencias Episcopales y los Superiores de los Institutos de Vida Consagrada y las Sociedades de Vida Apostólica acerca de la Pontificia Comisión para la tutela de menores",
+        "fr": "Lettre aux Présidents des Conférences épiscopales et aux Supérieurs des Instituts de vie consacrée et des Sociétés de vie apostolique concernant la Commission Pontificale pour la protection des mineurs",
+        "it": "Lettera ai Presidenti delle Conferenze Episcopali e ai Superiori degli Istituti di vita consacrata e le Società di vita apostolica circa la Pontificia Commissione per la Tutela dei Minori"
+      }
+    }
+  ]
+}

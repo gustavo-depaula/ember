@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-ineffabilis-deus",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Ineffabilis Deus",
+    "it": "Costituzione Apostolica Ineffabilis Deus"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Pius IX · 1854-12-08",
+    "pt-BR": "Constituição Apostólica · Papa Pio IX · 1854-12-08"
+  },
+  "composed": "1854",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9ineff.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/18541208-costituzione-apostolica-ineffabilis-deus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Ineffabilis Deus",
+        "it": "Costituzione Apostolica Ineffabilis Deus"
+      }
+    }
+  ]
+}

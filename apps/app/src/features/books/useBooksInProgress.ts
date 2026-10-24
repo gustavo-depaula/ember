@@ -10,6 +10,7 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { bookManifestQuery } from './hooks'
 import { bookLang, buildTitleLookup, flattenReadingFlow } from './reader/bookContent'
+import { getBookLanguageOverride, useBookLanguageOverridesSignature } from './reader/bookLanguage'
 import { chapterCompleteFraction } from './reader/chapterCompletions'
 import { parseReaderPosition } from './reader/useReaderCursor'
 
@@ -49,6 +50,7 @@ export function useBooksInProgress() {
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const catalogVersion = useCatalogVersion()
   const signature = useEventStore((s) => selectStarted(s.cursors))
+  const languageOverrides = useBookLanguageOverridesSignature()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal.
   const started = useMemo(
@@ -67,18 +69,23 @@ export function useBooksInProgress() {
     combine: manifestsOf,
   })
 
+  // biome-ignore lint/correctness/useExhaustiveDependencies: languageOverrides is the change signal for getBookLanguageOverride.
   return useMemo(
     () =>
       started.flatMap(({ bookId, entry, chapterId, nearEnd, updatedAt }, i) => {
         // Until the manifest lands we can't tell a finished book from one in progress.
         const book = manifests[i]
         if (!book?.toc) return []
-        const lang = bookLang(book.languages ?? entry.langs ?? [], contentLanguage)
+        const lang = bookLang(
+          book.languages ?? entry.langs ?? [],
+          contentLanguage,
+          getBookLanguageOverride(bookId),
+        )
         const flow = flattenReadingFlow(book.toc, book, lang)
         if (nearEnd && flow.at(-1)?.id === chapterId) return []
         const chapterTitle = buildTitleLookup(book.toc, lang).get(chapterId)
         return [{ bookId, entry, chapterTitle, updatedAt }]
       }),
-    [started, manifests, contentLanguage],
+    [started, manifests, contentLanguage, languageOverrides],
   )
 }

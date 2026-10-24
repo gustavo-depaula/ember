@@ -1,0 +1,96 @@
+{
+  "id": "cdf-instauratio-liturgica",
+  "cover": "quarter",
+  "name": {
+    "la": "Declaratio de sensu tribuendo adprobationi versionum formularum sacramentalium, d. 25 m. Ianuarii a. 1974, Congregatio pro Doctrina Fide",
+    "en-US": "Declaration on the meaning to be given to the approval of the translations of the Sacramental Formulas",
+    "pt-BR": "Declaração sobre o sentido que se deve dar à aprovação das traduções das fórmulas sacramentais",
+    "de": "Erklärung über die Sakramentenformeln*, 25. Januar 1974",
+    "es": "Declaración sobre el sentido de la aprobación a las traduciones de las fórmulas sacramentales, 25 enero 1974",
+    "fr": "Déclaration sur le sens qui doit être donné à l’approbation des traductions des formules sacramentelles – Instauratio liturgica, 25 janvier 1974",
+    "it": "Dichiarazionesul significato da attribuire all’approvazione delle versioni delle formule Sacramentali",
+    "pl": "DEKLARACJA O ZNACZENIU POTWIERDZENIA PRZEKŁADÓW FORMUŁ SAKRAMENTALNYCH, 25 stycznia 1974 r."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1974-01-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1974-01-25"
+  },
+  "composed": "1974",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19740125_instauratio-liturgica_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19740125_instauratio-liturgica_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19740125_instauratio-liturgica_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19740125_instauratio-liturgica_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19740125_instauratio-liturgica_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19740125_instauratio-liturgica_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19740125_instauratio-liturgica_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19740125_instauratio-liturgica_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Declaratio de sensu tribuendo adprobationi versionum formularum sacramentalium, d. 25 m. Ianuarii a. 1974, Congregatio pro Doctrina Fide",
+        "en-US": "Declaration on the meaning to be given to the approval of the translations of the Sacramental Formulas",
+        "pt-BR": "Declaração sobre o sentido que se deve dar à aprovação das traduções das fórmulas sacramentais",
+        "de": "Erklärung über die Sakramentenformeln*, 25. Januar 1974",
+        "es": "Declaración sobre el sentido de la aprobación a las traduciones de las fórmulas sacramentales, 25 enero 1974",
+        "fr": "Déclaration sur le sens qui doit être donné à l’approbation des traductions des formules sacramentelles – Instauratio liturgica, 25 janvier 1974",
+        "it": "Dichiarazionesul significato da attribuire all’approvazione delle versioni delle formule Sacramentali",
+        "pl": "DEKLARACJA O ZNACZENIU POTWIERDZENIA PRZEKŁADÓW FORMUŁ SAKRAMENTALNYCH, 25 stycznia 1974 r."
+      }
+    }
+  ]
+}

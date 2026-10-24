@@ -1,0 +1,96 @@
+{
+  "id": "cdf-demello",
+  "cover": "quarter",
+  "name": {
+    "la": "Notificatio circa scripta Patris Antonii De Mello, S.I., d. 24 m. Iunii a. 1998, Congregatio pro Doctrina Fide",
+    "pt-BR": "Pe. Anthony de Mello",
+    "de": "Notifikation über die Schriften von P. Anthony de Mello SJ - Kongregation für die Glaubenslehre",
+    "es": "Notificación escritos De Mello, 24 junio 1998",
+    "fr": "Note sur les écrits du Père Anthony Di Mello, s.j., 24 juin 1998",
+    "it": "Notificazione sugli scritti del P. Anthony de Mello, S.I. - Congregazione per la Dottrina della Fede",
+    "pl": "INFORMACJA W SPRAWIE PISM O. ANTHONY’EGO DE MELLO S.J., 24 czerwca 1998 r.",
+    "sk": "Upozornenie o spisoch, ktoré napísal P. Anthony de Mello SJ"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1998-06-24",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1998-06-24"
+  },
+  "composed": "1998",
+  "languages": [
+    "la",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "sk"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980624_demello_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980624_demello_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980624_demello_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980624_demello_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980624_demello_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980624_demello_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980624_demello_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sk",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19980624_demello_sk.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Notificatio circa scripta Patris Antonii De Mello, S.I., d. 24 m. Iunii a. 1998, Congregatio pro Doctrina Fide",
+        "pt-BR": "Pe. Anthony de Mello",
+        "de": "Notifikation über die Schriften von P. Anthony de Mello SJ - Kongregation für die Glaubenslehre",
+        "es": "Notificación escritos De Mello, 24 junio 1998",
+        "fr": "Note sur les écrits du Père Anthony Di Mello, s.j., 24 juin 1998",
+        "it": "Notificazione sugli scritti del P. Anthony de Mello, S.I. - Congregazione per la Dottrina della Fede",
+        "pl": "INFORMACJA W SPRAWIE PISM O. ANTHONY’EGO DE MELLO S.J., 24 czerwca 1998 r.",
+        "sk": "Upozornenie o spisoch, ktoré napísal P. Anthony de Mello SJ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-haerentem-diu",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Haerentem diu"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Gregory XVI · 1842-07-22",
+    "pt-BR": "Alocução · Papa Gregório XVI · 1842-07-22"
+  },
+  "composed": "1842",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/allocuzione-haerentem-diu-22-luglio-1842.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Haerentem diu"
+      }
+    }
+  ]
+}

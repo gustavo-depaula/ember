@@ -1,0 +1,64 @@
+{
+  "id": "clement-xii-in-eminenti",
+  "cover": "quarter",
+  "name": {
+    "la": "In eminenti",
+    "en-US": "In eminenti",
+    "pt-BR": "In eminenti apostolatus specula",
+    "it": "In eminenti"
+  },
+  "author": {
+    "en-US": "Pope Clement XII",
+    "pt-BR": "Papa Clemente XII",
+    "la": "Clemens PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Clement XII · 1738-05-04",
+    "pt-BR": "Encíclica · Papa Clemente XII · 1738-05-04"
+  },
+  "composed": "1738",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "clement-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1738-04-28,_SS_Clemens_XII,_In_Eminenti,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/clem12/c12inemengl.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/in-eminenti-apostolatus-specula-clemente-xii-04-05-1738/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1738-04-28,_SS_Clemens_XII,_In_Eminenti,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "In eminenti",
+        "en-US": "In eminenti",
+        "pt-BR": "In eminenti apostolatus specula",
+        "it": "In eminenti"
+      }
+    }
+  ]
+}

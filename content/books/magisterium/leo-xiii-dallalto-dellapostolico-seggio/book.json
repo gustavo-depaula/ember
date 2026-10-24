@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-dallalto-dellapostolico-seggio",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Dall’alto Dell’apostolico Seggio",
+    "pt-BR": "Dall’alto dell’Apostolico seggio"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1890-10-15",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1890-10-15"
+  },
+  "composed": "1890",
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo13/l13ms1.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/dallalto-dellapostolico-seggio-leao-xiii-15-10-1890/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Dall’alto Dell’apostolico Seggio",
+        "pt-BR": "Dall’alto dell’Apostolico seggio"
+      }
+    }
+  ]
+}

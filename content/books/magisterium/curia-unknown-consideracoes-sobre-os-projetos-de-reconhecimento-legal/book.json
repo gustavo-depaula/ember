@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-consideracoes-sobre-os-projetos-de-reconhecimento-legal",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Considerações sobre os projetos de reconhecimento legal das uniões entre pessoas homossexuais"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 2003-06-03",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 2003-06-03"
+  },
+  "composed": "2003",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/consideracoes-sobre-os-projetos-de-reconhecimento-legal-das-unioes-entre-pessoas-homossexuais-03-06-2003/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Considerações sobre os projetos de reconhecimento legal das uniões entre pessoas homossexuais"
+      }
+    }
+  ]
+}

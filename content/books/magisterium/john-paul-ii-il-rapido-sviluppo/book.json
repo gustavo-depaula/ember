@@ -1,0 +1,88 @@
+{
+  "id": "john-paul-ii-il-rapido-sviluppo",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The rapid development",
+    "pt-BR": "O Rápido Desenvolvimento",
+    "de": "Die schnelle Entwicklung",
+    "es": "El rápido desarrollo",
+    "fr": "Le Progrès Rapide",
+    "hu": "A gyors fejlődés, apostoli levele a társadalmi kommunikáció felelőseinek 2005. január 24. - II. János Pál pápa",
+    "it": "Il rapido sviluppo"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 2005-01-24",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 2005-01-24"
+  },
+  "composed": "2005",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2005/documents/hf_jp-ii_apl_20050124_il-rapido-sviluppo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/2005/documents/hf_jp-ii_apl_20050124_il-rapido-sviluppo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/2005/documents/hf_jp-ii_apl_20050124_il-rapido-sviluppo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/2005/documents/hf_jp-ii_apl_20050124_il-rapido-sviluppo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/2005/documents/hf_jp-ii_apl_20050124_il-rapido-sviluppo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/apost_letters/2005/documents/hf_jp-ii_apl_20050124_il-rapido-sviluppo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/2005/documents/hf_jp-ii_apl_20050124_il-rapido-sviluppo.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The rapid development",
+        "pt-BR": "O Rápido Desenvolvimento",
+        "de": "Die schnelle Entwicklung",
+        "es": "El rápido desarrollo",
+        "fr": "Le Progrès Rapide",
+        "hu": "A gyors fejlődés, apostoli levele a társadalmi kommunikáció felelőseinek 2005. január 24. - II. János Pál pápa",
+        "it": "Il rapido sviluppo"
+      }
+    }
+  ]
+}

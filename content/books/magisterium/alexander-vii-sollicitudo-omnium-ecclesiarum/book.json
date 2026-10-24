@@ -1,0 +1,40 @@
+{
+  "id": "alexander-vii-sollicitudo-omnium-ecclesiarum",
+  "cover": "quarter",
+  "name": {
+    "es": "Sollicitudo Omnium Ecclesiarum"
+  },
+  "author": {
+    "en-US": "Pope Alexander VII",
+    "pt-BR": "Papa Alexandre VII",
+    "la": "Alexander PP. VII"
+  },
+  "description": {
+    "en-US": "Document · Pope Alexander VII · 1661-12-08",
+    "pt-BR": "Documento · Papa Alexandre VII · 1661-12-08"
+  },
+  "composed": "1661",
+  "languages": [
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "alexander-vii"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1661-12-08,_SS_Alexander_VII,_Sollicitudo_Omnium_Ecclesiarum,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Sollicitudo Omnium Ecclesiarum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-non-multo-post",
+  "cover": "quarter",
+  "name": {
+    "la": "Non multo post, Motu proprio, De Romana Sancti Thomae Academia, d. 31 m. Decembris a. 1914, Benedictus PP. XV",
+    "it": "Non multo post con il quale vengono impartite nuove regole relative agli studi ed agli esami di dottrina che gli alunni dovranno sostenere per conseguire la laurea di dottore e l’iscrizione fra i membri dell’Accademia romana di San Tommaso d’Aquino"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XV · 1914-12-31",
+    "pt-BR": "Motu Proprio · Papa Bento XV · 1914-12-31"
+  },
+  "composed": "1914",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19141231_non-multo-post.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19141231_non-multo-post.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Non multo post, Motu proprio, De Romana Sancti Thomae Academia, d. 31 m. Decembris a. 1914, Benedictus PP. XV",
+        "it": "Non multo post con il quale vengono impartite nuove regole relative agli studi ed agli esami di dottrina che gli alunni dovranno sostenere per conseguire la laurea di dottore e l’iscrizione fra i membri dell’Accademia romana di San Tommaso d’Aquino"
+      }
+    }
+  ]
+}

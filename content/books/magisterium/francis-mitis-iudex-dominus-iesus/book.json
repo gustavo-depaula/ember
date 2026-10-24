@@ -1,0 +1,120 @@
+{
+  "id": "francis-mitis-iudex-dominus-iesus",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Motu Proprio datae Mitis Iudex Dominus Iesus quibus canones Codicis Iuris Canonici de causis ad matrimonii nullitatem declarandam reformantur (die XV mensis Augusti, anno MMXV)",
+    "en-US": "Apostolic Letter Motu Proprio Mitis Iudex Dominus Iesus by which the canons of the Code of Canon Law pertaining to cases regarding the nullity of marriage are reformed",
+    "pt-BR": "Carta Apostólica em forma de 'Motu Proprio' Mitis Iudex Dominus Iesus, sobre a reforma do processo canônico para as causas de declaração de nulidade do matrimônio no Código de Direito Canônico",
+    "de": "Apostolisches Schreiben in Form eines 'Motu Proprio' Mitis Iudex Dominus Iesus über die Reform des kanonischen Verfahrens für Ehenichtigkeitserklärungen im Kodex des kanonischen Rechts",
+    "es": "Carta Apostólica en forma de \"Motu Proprio\" Mitis Iudex Dominus Iesus, sobre la reforma del proceso canónico para las causas de declaración de nulidad matrimonial en el Código de Derecho Canónico",
+    "fr": "Lettre apostolique en forme de Motu Proprio Mitis Iudex Dominus Iesus, sur la réforme du procès canonique pour les causes de déclaration de nullité du mariage dans le Code de Droit Canonique",
+    "hr": "Apostolsko Pismo u obliku Motuproprija Rimskog Prvosvećenika Franje Mitis Iudex Dominus Iesus",
+    "it": "Lettera Apostolica in forma di 'Motu Proprio' Mitis Iudex Dominus Iesus, sulla riforma del processo canonico per le cause di dichiarazione di nullità del matrimonio nel Codice di Diritto Canonico",
+    "pl": "List Apostolski Motu Proprio „Mitis Iudex Dominus Iesus”, reformujący kanony Kodeksu Prawa Kanonicznego dotyczące spraw o orzeczenie nieważności małżeństwa",
+    "zh-CN": "Lettera Apostolica in forma di 'Motu Proprio' Mitis Iudex Dominus Iesus, sulla riforma del processo canonico per le cause di dichiarazione di nullità del matrimonio nel Codice di Diritto Canonico",
+    "zh-TW": "Lettera Apostolica in forma di 'Motu Proprio' Mitis Iudex Dominus Iesus, sulla riforma del processo canonico per le cause di dichiarazione di nullità del matrimonio nel Codice di Diritto Canonico"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2015-08-15",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2015-08-15"
+  },
+  "composed": "2015",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "pl",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/francesco/hr/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/francesco/pl/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/francesco/zh_cn/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/francesco/zh_tw/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Motu Proprio datae Mitis Iudex Dominus Iesus quibus canones Codicis Iuris Canonici de causis ad matrimonii nullitatem declarandam reformantur (die XV mensis Augusti, anno MMXV)",
+        "en-US": "Apostolic Letter Motu Proprio Mitis Iudex Dominus Iesus by which the canons of the Code of Canon Law pertaining to cases regarding the nullity of marriage are reformed",
+        "pt-BR": "Carta Apostólica em forma de 'Motu Proprio' Mitis Iudex Dominus Iesus, sobre a reforma do processo canônico para as causas de declaração de nulidade do matrimônio no Código de Direito Canônico",
+        "de": "Apostolisches Schreiben in Form eines 'Motu Proprio' Mitis Iudex Dominus Iesus über die Reform des kanonischen Verfahrens für Ehenichtigkeitserklärungen im Kodex des kanonischen Rechts",
+        "es": "Carta Apostólica en forma de \"Motu Proprio\" Mitis Iudex Dominus Iesus, sobre la reforma del proceso canónico para las causas de declaración de nulidad matrimonial en el Código de Derecho Canónico",
+        "fr": "Lettre apostolique en forme de Motu Proprio Mitis Iudex Dominus Iesus, sur la réforme du procès canonique pour les causes de déclaration de nullité du mariage dans le Code de Droit Canonique",
+        "hr": "Apostolsko Pismo u obliku Motuproprija Rimskog Prvosvećenika Franje Mitis Iudex Dominus Iesus",
+        "it": "Lettera Apostolica in forma di 'Motu Proprio' Mitis Iudex Dominus Iesus, sulla riforma del processo canonico per le cause di dichiarazione di nullità del matrimonio nel Codice di Diritto Canonico",
+        "pl": "List Apostolski Motu Proprio „Mitis Iudex Dominus Iesus”, reformujący kanony Kodeksu Prawa Kanonicznego dotyczące spraw o orzeczenie nieważności małżeństwa",
+        "zh-CN": "Lettera Apostolica in forma di 'Motu Proprio' Mitis Iudex Dominus Iesus, sulla riforma del processo canonico per le cause di dichiarazione di nullità del matrimonio nel Codice di Diritto Canonico",
+        "zh-TW": "Lettera Apostolica in forma di 'Motu Proprio' Mitis Iudex Dominus Iesus, sulla riforma del processo canonico per le cause di dichiarazione di nullità del matrimonio nel Codice di Diritto Canonico"
+      }
+    }
+  ]
+}

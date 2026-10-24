@@ -1,0 +1,39 @@
+{
+  "id": "leo-xiii-pastoralis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Pastoralis"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Document · Pope Leo XIII",
+    "pt-BR": "Documento · Papa Leão XIII"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo13/l13relun.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Pastoralis"
+      }
+    }
+  ]
+}

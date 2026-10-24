@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-euntes-in-mundum-universum",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula apostolica - Euntes in mundum",
+    "pt-BR": "Euntes in mundum",
+    "de": "Euntes in mundum",
+    "es": "Euntes in mundum",
+    "hu": "Euntes in mundum, apostoli levele a kijevi oroszok megkeresztelkedésének ezredik évfordulójára 1988. januárjának 25. - II. János Pál pápa",
+    "it": "Euntes in mundum"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1988-01-25",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1988-01-25"
+  },
+  "composed": "1988",
+  "languages": [
+    "la",
+    "pt-BR",
+    "de",
+    "es",
+    "hu",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1988/documents/hf_jp-ii_apl_19880125_euntes-in-mundum-universum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1988/documents/hf_jp-ii_apl_19880125_euntes-in-mundum-universum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1988/documents/hf_jp-ii_apl_19880125_euntes-in-mundum-universum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1988/documents/hf_jp-ii_apl_19880125_euntes-in-mundum-universum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/apost_letters/1988/documents/hf_jp-ii_apl_19880125_euntes-in-mundum-universum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1988/documents/hf_jp-ii_apl_19880125_euntes-in-mundum-universum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula apostolica - Euntes in mundum",
+        "pt-BR": "Euntes in mundum",
+        "de": "Euntes in mundum",
+        "es": "Euntes in mundum",
+        "hu": "Euntes in mundum, apostoli levele a kijevi oroszok megkeresztelkedésének ezredik évfordulójára 1988. januárjának 25. - II. János Pál pápa",
+        "it": "Euntes in mundum"
+      }
+    }
+  ]
+}

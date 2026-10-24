@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-o-apostolado-do-ensino-religioso-nas-escolas",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "O apostolado do ensino religioso nas escolas católicas"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1996-10-15",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1996-10-15"
+  },
+  "composed": "1996",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/o-apostolado-do-ensino-religioso-nas-escolas-catolicas-15-10-1996/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "O apostolado do ensino religioso nas escolas católicas"
+      }
+    }
+  ]
+}

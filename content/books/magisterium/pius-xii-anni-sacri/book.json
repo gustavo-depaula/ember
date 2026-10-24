@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-anni-sacri",
+  "cover": "quarter",
+  "name": {
+    "la": "Anni sacri, die XII m. Martii, A.D. MCML - Pius PP. XII, Epistula Encyclica",
+    "en-US": "Anni Sacri",
+    "it": "Anni Sacri"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1950-03-12",
+    "pt-BR": "Encíclica · Papa Pio XII · 1950-03-12"
+  },
+  "composed": "1950",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Anni sacri, die XII m. Martii, A.D. MCML - Pius PP. XII, Epistula Encyclica",
+        "en-US": "Anni Sacri",
+        "it": "Anni Sacri"
+      }
+    }
+  ]
+}

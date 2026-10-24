@@ -1,0 +1,88 @@
+{
+  "id": "john-paul-ii-ecclesia-in-asia",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Ecclesia in Asia",
+    "pt-BR": "Ecclesia in Asia",
+    "de": "Ecclesia in Asia",
+    "es": "Ecclesia in Asia",
+    "fr": "Ecclesia in Asia",
+    "it": "Ecclesia in Asia",
+    "zh": "Ecclesia in Asia"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope John Paul II · 1999-11-06",
+    "pt-BR": "Exortação Apostólica · Papa João Paulo II · 1999-11-06"
+  },
+  "composed": "1999",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh",
+      "url": "https://www.vatican.va/content/john-paul-ii/zh/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Ecclesia in Asia",
+        "pt-BR": "Ecclesia in Asia",
+        "de": "Ecclesia in Asia",
+        "es": "Ecclesia in Asia",
+        "fr": "Ecclesia in Asia",
+        "it": "Ecclesia in Asia",
+        "zh": "Ecclesia in Asia"
+      }
+    }
+  ]
+}

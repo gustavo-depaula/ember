@@ -1,0 +1,120 @@
+{
+  "id": "cdf-cti-finalita-metodi-commissione",
+  "cover": "quarter",
+  "name": {
+    "la": "De finibus et methodis considerationes - Commissio Theologica Internatonalis",
+    "en-US": "Reflections on Objectives and Methods of the Commission",
+    "ar": "Reflections on Objectives and Methods of the Commission",
+    "cs": "Reflexe nad cíli a metodami této komise - Mezinárodní teologická komise",
+    "de": "Überlegungen zu Zielsetzung und Methoden der Kommission - Internationale Theologische Kommission",
+    "es": "Reflexiones sobre los fines y los métodos- 1969",
+    "fr": "Réflexions sur les buts et les méthodes - Commission théologique internationale",
+    "hu": "Megfontolások a Bizottság céljáról és módszeréről - Nemzetközi Teológiai Bizottság",
+    "it": "Riflessioni su finalità e metodi della Commissione - Commissione Teologica Internazionale",
+    "pl": "Refleksje o celach i metodach pracy Międzynarodowej Komisji Teologicznej, 1969",
+    "ru": "МЕЖДУНАРОДНАЯ БОГОСЛОВСКАЯ КОМИССИЯ О ЦЕЛЯХ И МЕТОДАХ КОМИССИИ, 1969"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1969",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1969"
+  },
+  "composed": "1969",
+  "languages": [
+    "la",
+    "en-US",
+    "ar",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1969_finalita-metodi-commissione_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1969_finalita-metodi-commissione_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1969_finalita-metodi-commissione_ar.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1969_finalita-metodi-commissione_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1969_finalita-metodi-commissione_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1969_finalita-metodi-commissione_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1969_finalita-metodi-commissione_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1969_finalita-metodi-commissione_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1969_finalita-metodi-commissione_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1969_finalita-metodi-commissione_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1969_finalita-metodi-commissione_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "De finibus et methodis considerationes - Commissio Theologica Internatonalis",
+        "en-US": "Reflections on Objectives and Methods of the Commission",
+        "ar": "Reflections on Objectives and Methods of the Commission",
+        "cs": "Reflexe nad cíli a metodami této komise - Mezinárodní teologická komise",
+        "de": "Überlegungen zu Zielsetzung und Methoden der Kommission - Internationale Theologische Kommission",
+        "es": "Reflexiones sobre los fines y los métodos- 1969",
+        "fr": "Réflexions sur les buts et les méthodes - Commission théologique internationale",
+        "hu": "Megfontolások a Bizottság céljáról és módszeréről - Nemzetközi Teológiai Bizottság",
+        "it": "Riflessioni su finalità e metodi della Commissione - Commissione Teologica Internazionale",
+        "pl": "Refleksje o celach i metodach pracy Międzynarodowej Komisji Teologicznej, 1969",
+        "ru": "МЕЖДУНАРОДНАЯ БОГОСЛОВСКАЯ КОМИССИЯ О ЦЕЛЯХ И МЕТОДАХ КОМИССИИ, 1969"
+      }
+    }
+  ]
+}

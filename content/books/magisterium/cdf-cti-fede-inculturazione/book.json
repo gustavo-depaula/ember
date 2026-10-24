@@ -1,0 +1,136 @@
+{
+  "id": "cdf-cti-fede-inculturazione",
+  "cover": "quarter",
+  "name": {
+    "la": "Fides et inculturatio, 1988",
+    "en-US": "Faith and Inculturation, 1988",
+    "pt-BR": "Fé e inculturação",
+    "cs": "Víra a inkulturace, 1988",
+    "de": "Glaube und Inkulturation, 1988",
+    "es": "La fe y la inculturación",
+    "fr": "Foi et inculturation, 1988",
+    "hu": "HIT ÉS INKULTURÁCIÓ, 1989",
+    "it": "Fede e inculturazione, 1989",
+    "ko": "Faith and Inculturation, 1988",
+    "nl": "Geloof en inculturatie, 1988",
+    "pl": "WIARA I INKULTURACJA, 1988 - Międzynarodowa Komisja Teologiczna",
+    "ru": "ВЕРА И ИНКУЛЬТУРАЦИЯ, 1989"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1988",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1988"
+  },
+  "composed": "1988",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "ko",
+    "nl",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ko",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_ko.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_nl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1988_fede-inculturazione_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Fides et inculturatio, 1988",
+        "en-US": "Faith and Inculturation, 1988",
+        "pt-BR": "Fé e inculturação",
+        "cs": "Víra a inkulturace, 1988",
+        "de": "Glaube und Inkulturation, 1988",
+        "es": "La fe y la inculturación",
+        "fr": "Foi et inculturation, 1988",
+        "hu": "HIT ÉS INKULTURÁCIÓ, 1989",
+        "it": "Fede e inculturazione, 1989",
+        "ko": "Faith and Inculturation, 1988",
+        "nl": "Geloof en inculturatie, 1988",
+        "pl": "WIARA I INKULTURACJA, 1988 - Międzynarodowa Komisja Teologiczna",
+        "ru": "ВЕРА И ИНКУЛЬТУРАЦИЯ, 1989"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "clement-xiii-summa-quae",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Summa Quae",
+    "it": "Breve Summa quae"
+  },
+  "author": {
+    "en-US": "Pope Clement XIII",
+    "pt-BR": "Papa Clemente XIII",
+    "la": "Clemens PP. XIII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Clement XIII · 1768-01-06",
+    "pt-BR": "Breve · Papa Clemente XIII · 1768-01-06"
+  },
+  "composed": "1768",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "clement-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/clem13/c13summa.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiii/it/documents/breve-summa-quae-6-gennaio-1768.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Summa Quae",
+        "it": "Breve Summa quae"
+      }
+    }
+  ]
+}

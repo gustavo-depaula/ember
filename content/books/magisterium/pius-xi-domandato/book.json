@@ -1,0 +1,48 @@
+{
+  "id": "pius-xi-domandato",
+  "cover": "quarter",
+  "name": {
+    "fr": "Chirographe au Cardinal Pietro Gasparri, Secrétaire d'État, sur la signature des Accords du Latran",
+    "it": "Chirografo al Cardinale Pietro Gasparri, Segretario di Stato, sulla firma dei Trattati Lateranensi"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1929-05-30",
+    "pt-BR": "Carta · Papa Pio XI · 1929-05-30"
+  },
+  "composed": "1929",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/letters/documents/hf_p-xi_lett_19290530_domandato.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19290530_domandato.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Chirographe au Cardinal Pietro Gasparri, Secrétaire d'État, sur la signature des Accords du Latran",
+        "it": "Chirografo al Cardinale Pietro Gasparri, Segretario di Stato, sulla firma dei Trattati Lateranensi"
+      }
+    }
+  ]
+}

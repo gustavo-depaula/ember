@@ -1,0 +1,80 @@
+{
+  "id": "cdf-vescovi-penadimorte",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Bishops regarding the new revision of number 2267 of the Catechism of the Catholic Church on the death penalty, from the Congregation for the Doctrine of the Faith",
+    "de": "Schreiben an die Bischöfe über die neue Formulierung der Nr. 2267 des Katechismus der Katholischen Kirche bezüglich der Todesstrafe",
+    "es": "Carta a los Obispos acerca de la nueva redacción del n. 2267 del Catecismo de la Iglesia Católica sobre la pena de muerte",
+    "fr": "Lettre aux Évêques à propos de la nouvelle formulation du n.2267 du Catéchisme de l’Église Catholique sur la peine de mort",
+    "it": "Lettera ai Vescovi circa la nuova redazione del n. 2267 del Catechismo della Chiesa Cattolica sulla pena di morte a cura della Congregazione per la Dottrina della Fede",
+    "vi": "BỘ GIÁO LÝ ĐỨC TIN - THƯ GỬI CÁC GIÁM MỤC VỀ VIỆC ĐỔI MỚI SỐ 2267 TRONG SÁCH GIÁO LÝ GIÁO HỘI CÔNG GIÁO VỀ ÁN TỬ HÌNH"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2018-08-01",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2018-08-01"
+  },
+  "composed": "2018",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "vi"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "vi",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20180801_lettera-vescovi-penadimorte_vi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Bishops regarding the new revision of number 2267 of the Catechism of the Catholic Church on the death penalty, from the Congregation for the Doctrine of the Faith",
+        "de": "Schreiben an die Bischöfe über die neue Formulierung der Nr. 2267 des Katechismus der Katholischen Kirche bezüglich der Todesstrafe",
+        "es": "Carta a los Obispos acerca de la nueva redacción del n. 2267 del Catecismo de la Iglesia Católica sobre la pena de muerte",
+        "fr": "Lettre aux Évêques à propos de la nouvelle formulation du n.2267 du Catéchisme de l’Église Catholique sur la peine de mort",
+        "it": "Lettera ai Vescovi circa la nuova redazione del n. 2267 del Catechismo della Chiesa Cattolica sulla pena di morte a cura della Congregazione per la Dottrina della Fede",
+        "vi": "BỘ GIÁO LÝ ĐỨC TIN - THƯ GỬI CÁC GIÁM MỤC VỀ VIỆC ĐỔI MỚI SỐ 2267 TRONG SÁCH GIÁO LÝ GIÁO HỘI CÔNG GIÁO VỀ ÁN TỬ HÌNH"
+      }
+    }
+  ]
+}

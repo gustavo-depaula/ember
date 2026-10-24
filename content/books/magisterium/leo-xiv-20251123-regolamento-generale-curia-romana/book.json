@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiv-20251123-regolamento-generale-curia-romana",
+  "cover": "quarter",
+  "name": {
+    "it": "Regolamento Generale della Curia Romana"
+  },
+  "author": {
+    "en-US": "Pope Leo XIV",
+    "pt-BR": "Papa Leão XIV",
+    "la": "Leo PP. XIV"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Leo XIV · 2025-11-23",
+    "pt-BR": "Motu Proprio · Papa Leão XIV · 2025-11-23"
+  },
+  "composed": "2025",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "leo-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiv/it/motu_proprio/documents/20251123-regolamento-generale-curia-romana.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Regolamento Generale della Curia Romana"
+      }
+    }
+  ]
+}

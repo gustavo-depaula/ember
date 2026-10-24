@@ -1,0 +1,96 @@
+{
+  "id": "cdf-decree-regarding-canons-1399-and-2318-no",
+  "cover": "quarter",
+  "name": {
+    "la": "Decretum de interpretatione «Notificatio» die 14 iunii 1966 circa «Indicem» librorum prohibitorum, d. 15 m. Novembris a. 1966, Congregatio pro Doctrina Fidei",
+    "en-US": "Decree regarding canons 1399 and 2318 no longer in force, 15 November 1966",
+    "pt-BR": "Decreto acerca da interpretação da Notificação sobre o Índice de livros proibidos, 15 de novembro de 1966",
+    "de": "Dekret zu Can. 1399 und 2318, die nicht mehr gültig sind, 15. November 1966",
+    "es": "Decreto sobre el índice de los libros prohíbidos, 15 noviembre 1966",
+    "fr": "Décret d'interprétation de la notification du 14 juin 1966 sur l'index des livres interdits, 15 novembre 1966, Congrégation pour la Doctrine de la Foi",
+    "it": "Decreto circa i cann. 1399 e 2318 non più in vigore, 15 novembre 1966",
+    "pl": "DEKRET PO INFORMACJI W SPRAWIE INDEKSU, 15 listopada 1966 r."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1966-11-15",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1966-11-15"
+  },
+  "composed": "1966",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19661115_decretum_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19661115_decretum_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19661115_decretum_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19661115_decretum_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19661115_decretum_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19661115_decretum_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19661115_decretum_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19661115_decretum_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decretum de interpretatione «Notificatio» die 14 iunii 1966 circa «Indicem» librorum prohibitorum, d. 15 m. Novembris a. 1966, Congregatio pro Doctrina Fidei",
+        "en-US": "Decree regarding canons 1399 and 2318 no longer in force, 15 November 1966",
+        "pt-BR": "Decreto acerca da interpretação da Notificação sobre o Índice de livros proibidos, 15 de novembro de 1966",
+        "de": "Dekret zu Can. 1399 und 2318, die nicht mehr gültig sind, 15. November 1966",
+        "es": "Decreto sobre el índice de los libros prohíbidos, 15 noviembre 1966",
+        "fr": "Décret d'interprétation de la notification du 14 juin 1966 sur l'index des livres interdits, 15 novembre 1966, Congrégation pour la Doctrine de la Foi",
+        "it": "Decreto circa i cann. 1399 e 2318 non più in vigore, 15 novembre 1966",
+        "pl": "DEKRET PO INFORMACJI W SPRAWIE INDEKSU, 15 listopada 1966 r."
+      }
+    }
+  ]
+}

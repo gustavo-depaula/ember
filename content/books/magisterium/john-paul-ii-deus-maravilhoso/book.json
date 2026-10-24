@@ -1,0 +1,64 @@
+{
+  "id": "john-paul-ii-deus-maravilhoso",
+  "cover": "quarter",
+  "name": {
+    "la": "Deus Maravilhoso",
+    "pt-BR": "Deus Maravilhoso",
+    "es": "Deus Maravilhoso",
+    "it": "Deus Maravilhoso"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 2001-02-02",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 2001-02-02"
+  },
+  "composed": "2001",
+  "languages": [
+    "la",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1988-09-03,_SS_Ioannes_Paulus_II,_Littera_'Deus_Cordis',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/deus-maravilhoso-joao-paulo-ii-02-02-2001/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2001-02-02,_SS_Ioannes_Paulus_II,_1700_Anniversario_Del_Popolo_Armeno,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2001-02-02,_SS_Ioannes_Paulus_II,_1700_Anniversario_Del_Popolo_Armeno,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Deus Maravilhoso",
+        "pt-BR": "Deus Maravilhoso",
+        "es": "Deus Maravilhoso",
+        "it": "Deus Maravilhoso"
+      }
+    }
+  ]
+}

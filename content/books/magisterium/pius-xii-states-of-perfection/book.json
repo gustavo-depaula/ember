@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-states-of-perfection",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The States Of Perfection"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1957-12-12",
+    "pt-BR": "Documento · Papa Pio XII · 1957-12-12"
+  },
+  "composed": "1957",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12perf.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The States Of Perfection"
+      }
+    }
+  ]
+}

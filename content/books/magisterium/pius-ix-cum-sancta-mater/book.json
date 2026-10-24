@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-cum-sancta-mater",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Cum Sancta Mater Ecclesia",
+    "it": "Enciclica Cum Sancta Mater"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1859-04-27",
+    "pt-BR": "Encíclica · Papa Pio IX · 1859-04-27"
+  },
+  "composed": "1859",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9cumsan.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-cum-sancta-mater-27-aprile-1859.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Cum Sancta Mater Ecclesia",
+        "it": "Enciclica Cum Sancta Mater"
+      }
+    }
+  ]
+}

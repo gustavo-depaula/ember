@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-rerum-orientalium",
+  "cover": "quarter",
+  "name": {
+    "la": "Rerum Orientalium, Litterae Encyclicae de studiis rerum orientalium provehendis, d. 8 m. Septembris a. 1928, Pius PP. XI",
+    "en-US": "Rerum Orientalium",
+    "it": "Rerum Orientalium"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1928-09-08",
+    "pt-BR": "Encíclica · Papa Pio XI · 1928-09-08"
+  },
+  "composed": "1928",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19280908_rerum-orientalium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius11/p11reror.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19280908_rerum-orientalium.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Rerum Orientalium, Litterae Encyclicae de studiis rerum orientalium provehendis, d. 8 m. Septembris a. 1928, Pius PP. XI",
+        "en-US": "Rerum Orientalium",
+        "it": "Rerum Orientalium"
+      }
+    }
+  ]
+}

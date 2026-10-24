@@ -1,0 +1,64 @@
+{
+  "id": "john-xxiii-s-giuseppe",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Le voci che da tutti",
+    "pt-BR": "Le voci, sobre a devoção a São José padroeiro do Concílio Ecumênico Vaticano II",
+    "es": "Le voci, sobre el fomento de la devoción a san José",
+    "it": "Le voci, la protezione di S. Giuseppe per il Concilio ecumenico Vaticano II"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John XXIII · 1961-03-19",
+    "pt-BR": "Carta Apostólica · Papa João XXIII · 1961-03-19"
+  },
+  "composed": "1961",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/john23/j23levoci.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-xxiii/pt/apost_letters/1961/documents/hf_j-xxiii_apl_19610319_s-giuseppe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/apost_letters/1961/documents/hf_j-xxiii_apl_19610319_s-giuseppe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/apost_letters/1961/documents/hf_j-xxiii_apl_19610319_s-giuseppe.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Le voci che da tutti",
+        "pt-BR": "Le voci, sobre a devoção a São José padroeiro do Concílio Ecumênico Vaticano II",
+        "es": "Le voci, sobre el fomento de la devoción a san José",
+        "it": "Le voci, la protezione di S. Giuseppe per il Concilio ecumenico Vaticano II"
+      }
+    }
+  ]
+}

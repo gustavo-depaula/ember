@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-l-olio-oggetto",
+  "cover": "quarter",
+  "name": {
+    "it": "Motu Proprio L'olio oggetto"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Leo XII · 1826-06-21",
+    "pt-BR": "Motu Proprio · Papa Leão XII · 1826-06-21"
+  },
+  "composed": "1826",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/motu-proprio-l-olio-oggetto-21-giugno-1826.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Motu Proprio L'olio oggetto"
+      }
+    }
+  ]
+}

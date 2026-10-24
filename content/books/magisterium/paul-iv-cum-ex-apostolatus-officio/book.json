@@ -1,0 +1,64 @@
+{
+  "id": "paul-iv-cum-ex-apostolatus-officio",
+  "cover": "quarter",
+  "name": {
+    "la": "Cum ex Apostolatus Officio",
+    "pt-BR": "Cum ex Apostolatus Officio",
+    "es": "Cum ex Apostolatus Officio",
+    "it": "Cum ex Apostolatus Officio"
+  },
+  "author": {
+    "en-US": "Pope Paul IV",
+    "pt-BR": "Papa Paulo IV",
+    "la": "Paulus PP. IV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Paul IV · 1554-02-15",
+    "pt-BR": "Bula · Papa Paulo IV · 1554-02-15"
+  },
+  "composed": "1554",
+  "languages": [
+    "la",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "paul-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1559-02-15,_SS_Paulus_IV,_Constitutio_'Cum_Ex_Apostolatus',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/cum-ex-apostolatus-officio-paulo-iv-15-02-1554/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1559-02-15,_SS_Paulus_IV,_Cum_Ex_Apostolatus_Officio,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1559-03-15,_SS_Paulus_IV,_Constitutio_Apostolica_'Cum_Ex_Apostolatus_Officio',_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Cum ex Apostolatus Officio",
+        "pt-BR": "Cum ex Apostolatus Officio",
+        "es": "Cum ex Apostolatus Officio",
+        "it": "Cum ex Apostolatus Officio"
+      }
+    }
+  ]
+}

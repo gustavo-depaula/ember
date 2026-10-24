@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-ubi-primum-19210427",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Ubi Primum, al Cardinale Michele Logue, Arcivescovo di Armacha, sulla cessazione delle ostilità in Irlanda"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1921-04-27",
+    "pt-BR": "Carta · Papa Bento XV · 1921-04-27"
+  },
+  "composed": "1921",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1921/documents/hf_ben-xv_let_19210427_ubi-primum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Ubi Primum, al Cardinale Michele Logue, Arcivescovo di Armacha, sulla cessazione delle ostilità in Irlanda"
+      }
+    }
+  ]
+}

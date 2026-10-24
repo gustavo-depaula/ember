@@ -1,0 +1,40 @@
+{
+  "id": "john-paul-ii-basilica-san-nicola",
+  "cover": "quarter",
+  "name": {
+    "it": "Nuovo ordinamento giuridico della Basilica di San Nicola di Bari"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope John Paul II · 1989-05-08",
+    "pt-BR": "Constituição Apostólica · Papa João Paulo II · 1989-05-08"
+  },
+  "composed": "1989",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_19890508_basilica-san-nicola.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Nuovo ordinamento giuridico della Basilica di San Nicola di Bari"
+      }
+    }
+  ]
+}

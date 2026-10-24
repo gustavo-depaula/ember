@@ -1,0 +1,40 @@
+{
+  "id": "eugene-iv-sicut-dudum",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Sicut Dudum"
+  },
+  "author": {
+    "en-US": "Pope Eugene IV",
+    "pt-BR": "Papa Eugênio IV",
+    "la": "Eugenius PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Eugene IV · 1435-01-13",
+    "pt-BR": "Documento · Papa Eugênio IV · 1435-01-13"
+  },
+  "composed": "1435",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "eugene-iv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/eugene04/eugene04sicut.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Sicut Dudum"
+      }
+    }
+  ]
+}

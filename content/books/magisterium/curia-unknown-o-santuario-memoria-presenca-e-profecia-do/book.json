@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-o-santuario-memoria-presenca-e-profecia-do",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "O Santuário: memória, presença e profecia do Deus vivo"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1999-05-08",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1999-05-08"
+  },
+  "composed": "1999",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/documento-o-santuario-memoria-presenca-e-profecia-do-deus-vivo-08-05-1999/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "O Santuário: memória, presença e profecia do Deus vivo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+ "council-chalcedon": {
+  "author": "chalcedon",
+  "date": "451",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum04.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/0451-0451,_Concilium_Chalcedonense,_Documenta_Omnia,_LT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 1
+  },
+  "skipped": {
+   "http://www.documentacatholicaomnia.eu/02m/0451-0451,_Absens,_Concilium_Chalcedonense,_IT.doc": "404: http://www.documentacatholicaomnia.eu/02m/0451-0451,_Absens,_Concilium_Chalcedonense,_IT.doc",
+   "http://www.documentacatholicaomnia.eu/02m/0451-0451,_Concilium_Chalcedonense,_Decreta,_FR.doc": "404: http://www.documentacatholicaomnia.eu/02m/0451-0451,_Concilium_Chalcedonense,_Decreta,_FR.doc",
+   "http://www.documentacatholicaomnia.eu/02m/0451-0451,_Concilium_Chalcedonense,_Documenta_Omnia,_FR.doc": "404: http://www.documentacatholicaomnia.eu/02m/0451-0451,_Concilium_Chalcedonense,_Documenta_Omnia,_FR.doc",
+   "http://www.documentacatholicaomnia.eu/02m/0451-0451,_Concilium_Chalcedonense,_Definitio_Fidei_[Ex_Versione_Rustici_Diaconi],_MLT.pdf": "scan-only pdf (0 characters / 2 pages): http://www.documentacatholicaomnia.eu/02m/0451-0451,_Concilium_Chalcedonense,_Definitio_Fidei_[Ex_Versione_Rustici_Diaconi],_MLT.pdf",
+   "http://www.documentacatholicaomnia.eu/02m/0451-0451,_Concilium_Chalcedonense,_Documenta_[Lectio_Altera],_LT.doc": "404: http://www.documentacatholicaomnia.eu/02m/0451-0451,_Concilium_Chalcedonense,_Documenta_[Lectio_Altera],_LT.doc",
+   "http://www.documentacatholicaomnia.eu/01p/0537-0555,_SS_Vigilius,_Constitutum_Pro_Damnatione_Trium_Capitolorum_[Definitio_Fidei_Sancti_Chalcedoniensis_Concilii],_MLT.pdf": "scan-only pdf (0 characters / 18 pages): http://www.documentacatholicaomnia.eu/01p/0537-0555,_SS_Vigilius,_Constitutum_Pro_Damnatione_Trium_Capitolorum_[Definitio_Fidei_Sancti_Chalcedoniensis_Concilii],_MLT.pdf",
+   "http://www.documentacatholicaomnia.eu/02m/0451-0451,_Concilium_Chalcedonense,_Documenta_Omnia,_GR.pdf": "404: http://www.documentacatholicaomnia.eu/02m/0451-0451,_Concilium_Chalcedonense,_Documenta_Omnia,_GR.pdf"
+  },
+  "titles": {
+   "en-US": "Council of Chalcedon",
+   "pt-BR": "Concílio de Calcedônia",
+   "la": "Concilium Chalcedonense"
+  },
+  "inventory_title": "Council of Chalcedon"
+ },
+ "council-constance": {
+  "author": "constance",
+  "date": "1414",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum16.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1414-1414,_Concilium_Constantiense,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1418-04-22,_Absens,_Concilium_Constantiense,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 1,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Council of Constance",
+   "pt-BR": "Concílio de Constança",
+   "la": "Concilium Constantiense"
+  },
+  "inventory_title": "Council of Constance"
+ },
+ "council-constantinople-i": {
+  "author": "constantinople-i",
+  "date": "381",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum02.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/0381-0381,_Concilium_Constantinopolitanum_I,_Documenta,_LT.doc",
+   "grc": "http://www.documentacatholicaomnia.eu/03d/0381-0381,_Concilium_Constantinopolitanum_I,_Documenta,_GR.pdf",
+   "fr": "http://www.documentacatholicaomnia.eu/03d/0381-0381,_Concilium_Constantinopolitanum_I,_Documenta_Omnia,_FR.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/0381-05-01,_Absens,_Concilium_Constantinopolitanum_I,_IT.doc",
+   "pt-BR": "https://www.veritatis.com.br/1o-concilio-ecumenico-de-constantinopla-ano-381-parte-1-4-introducao/"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 1,
+   "grc": 1,
+   "fr": 2,
+   "it": 1,
+   "pt-BR": 4
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "First Council of Constantinople",
+   "pt-BR": "Primeiro Concílio de Constantinopla",
+   "la": "Concilium Constantinopolitanum I"
+  },
+  "inventory_title": "First Council of Constantinople"
+ },
+ "council-constantinople-ii": {
+  "author": "constantinople-ii",
+  "date": "553",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum05.htm",
+   "fr": "http://www.documentacatholicaomnia.eu/03d/0553-0553,_Concilium_Constantinopolitanum_II,_Decreta,_FR.doc",
+   "la": "http://www.documentacatholicaomnia.eu/03d/0553-0553,_Concilium_Constantinopolitanum_II,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/0553-06-02,_Absens,_Concilium_Constantinopolitanum_II,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "fr": 1,
+   "la": 1,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Second Council of Constantinople",
+   "pt-BR": "Segundo Concílio de Constantinopla",
+   "la": "Concilium Constantinopolitanum II"
+  },
+  "inventory_title": "Second Council of Constantinople"
+ },
+ "council-constantinople-iii": {
+  "author": "constantinople-iii",
+  "date": "680",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum06.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/0680-0680,_Concilium_Constantinopolitanum_III,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/0681-09-11,_Absens,_Concilium_Constantinopolitanum_III,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 1,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Third Council of Constantinople",
+   "pt-BR": "Terceiro Concílio de Constantinopla",
+   "la": "Concilium Constantinopolitanum III"
+  },
+  "inventory_title": "Third Council of Constantinople"
+ },
+ "council-constantinople-iv": {
+  "author": "constantinople-iv",
+  "date": "869",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum08.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/0869-0870,_Concilium_Constantinopolitanum_IV,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/0870-02-28,_Absens,_Concilium_Constantinopolitanum_IV,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 1,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Fourth Council of Constantinople",
+   "pt-BR": "Quarto Concílio de Constantinopla",
+   "la": "Concilium Constantinopolitanum IV"
+  },
+  "inventory_title": "Fourth Council of Constantinople"
+ },
+ "council-ephesus": {
+  "author": "ephesus",
+  "date": "431",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum03.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/0431-0431,_Concilium_Ephesinum,_Documenta_[Altera_Lectio],_LT.doc",
+   "fr": "http://www.documentacatholicaomnia.eu/03d/0431-0431,_Concilium_Ephesenum,_Documenta_Omnia,_FR.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/0431-07-31,_Absens,_Concilium_Ephesenum,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 2,
+   "fr": 1,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Council of Ephesus",
+   "pt-BR": "Concílio de Éfeso",
+   "la": "Concilium Ephesenum"
+  },
+  "inventory_title": "Council of Ephesus"
+ },
+ "council-florence": {
+  "author": "florence",
+  "date": "1431",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum17.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1431-1445,_Concilium_Basiliense,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1431-05-07,_Concilium_Basiliense,_Acta,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 3,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Council of Basel-Ferrara-Florence",
+   "pt-BR": "Concílio de Basileia-Ferrara-Florença",
+   "la": "Concilium Basiliense-Ferrariense-Florentinum"
+  },
+  "inventory_title": "Council of Basel-Ferrara-Florence"
+ },
+ "council-lateran-i": {
+  "author": "lateran-i",
+  "date": "1123",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum09.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1123-1123,_Concilium_Lateranum_I,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1123-03-27,_Absens,_Concilium_Lateranum_I,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 1,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "First Lateran Council",
+   "pt-BR": "Primeiro Concílio de Latrão",
+   "la": "Concilium Lateranense I"
+  },
+  "inventory_title": "First Lateran Council"
+ },
+ "council-lateran-ii": {
+  "author": "lateran-ii",
+  "date": "1139",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum10.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1139-1139,_Concilium_Lateranum_II,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1139-04-04,_Absens,_Concilium_Lateranum_II,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 1,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Second Lateran Council",
+   "pt-BR": "Segundo Concílio de Latrão",
+   "la": "Concilium Lateranense II"
+  },
+  "inventory_title": "Second Lateran Council"
+ },
+ "council-lateran-iii": {
+  "author": "lateran-iii",
+  "date": "1179",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum11.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1179-1179,_Concilium_Lateranum_III,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1179-03-19,_Absens,_Concilio_Laterano_III,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 1,
+   "it": 2
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Third Lateran Council",
+   "pt-BR": "Terceiro Concílio de Latrão",
+   "la": "Concilium Lateranense III"
+  },
+  "inventory_title": "Third Lateran Council"
+ },
+ "council-lateran-iv": {
+  "author": "lateran-iv",
+  "date": "1215",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum12-2.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1215-1215,_Concilium_Lateranense_IIII,_Documenta,_LT.pdf",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1215-11-30,_Absens,_Concilium_Lateranum_IIII,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 3,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Fourth Lateran Council",
+   "pt-BR": "Quarto Concílio de Latrão",
+   "la": "Concilium Lateranense IV"
+  },
+  "inventory_title": "Fourth Lateran Council"
+ },
+ "council-lateran-v": {
+  "author": "lateran-v",
+  "date": "1512",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum18.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1512-1517,_Concilium_Lateranense_V,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1517-03-16,_Absens,_Concilium_Lateranum_V,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 2,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Fifth Lateran Council",
+   "pt-BR": "Quinto Concílio de Latrão",
+   "la": "Concilium Lateranense V"
+  },
+  "inventory_title": "Fifth Lateran Council"
+ },
+ "council-lyon-i": {
+  "author": "lyon-i",
+  "date": "1245",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum13.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1245-1245,_Concilium_Lugdunense_I,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1245-07-14,_Absens,_Concilium_Lugdunense_I,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 1,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "First Council of Lyon",
+   "pt-BR": "Primeiro Concílio de Lyon",
+   "la": "Concilium Lugdunense I"
+  },
+  "inventory_title": "First Council of Lyon"
+ },
+ "council-lyon-ii": {
+  "author": "lyon-ii",
+  "date": "1274",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum14.htm",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1245-07-14,_Absens,_Concilium_Lugdunense_II,_IT.doc",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1274-1274,_Concilium_Lugdunense_II,_Documenta,_LT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "it": 1,
+   "la": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Second Council of Lyon",
+   "pt-BR": "Segundo Concílio de Lyon",
+   "la": "Concilium Lugdunense II"
+  },
+  "inventory_title": "Second Council of Lyon"
+ },
+ "council-nicaea-i": {
+  "author": "nicaea-i",
+  "date": "325",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum01.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_01_Epistola_Vel_Praefatio,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_Canones,_IT.doc",
+   "grc": "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_Canones_(Altera_Lectio),_GR.pdf",
+   "fr": "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_Symbolum,_FR.doc",
+   "pt-BR": "https://www.veritatis.com.br/canons/"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 4,
+   "it": 1,
+   "grc": 1,
+   "fr": 1,
+   "pt-BR": 5
+  },
+  "skipped": {
+   "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_Canones,_GR_FR.pdf": "labelled grc but not written in its script"
+  },
+  "titles": {
+   "en-US": "First Council of Nicaea",
+   "pt-BR": "Primeiro Concílio de Niceia",
+   "la": "Concilium Nicaenum I"
+  },
+  "inventory_title": "First Council of Nicaea"
+ },
+ "council-nicaea-ii": {
+  "author": "nicaea-ii",
+  "date": "787",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum07.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/0787-0787,_Concilium_Nicaenum_II,_Documenta,_LT.doc",
+   "grc": "http://www.documentacatholicaomnia.eu/03d/0787-0787,_Concilium_Nicaenum_II,_Documenta,_GR.pdf",
+   "fr": "http://www.documentacatholicaomnia.eu/03d/0787-0787,_Concilium_Nicaenum_II,_Documenta_Omnia,_FR.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/0787-10-23,_Absens,_Concilium_Nicaenum_II,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 1,
+   "grc": 1,
+   "fr": 2,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Second Council of Nicaea",
+   "pt-BR": "Segundo Concílio de Niceia",
+   "la": "Concilium Nicaenum II"
+  },
+  "inventory_title": "Second Council of Nicaea"
+ },
+ "council-trent": {
+  "author": "trent",
+  "date": "1545",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/trent/ctbull.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1545-1563,_Concilium_Tridentinum,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1545-1563,_Absens,_Concilium_Tridentinum,_IT.doc",
+   "pt-BR": "https://www.veritatis.com.br/sessao-i-03-12-1545/"
+  },
+  "chapters": {
+   "en-US": 26,
+   "la": 3,
+   "it": 1,
+   "pt-BR": 26
+  },
+  "skipped": {
+   "http://www.documentacatholicaomnia.eu/03d/1545-1563,_Concilium_Tridentinum,_Canones_et_Decreta,_LT.pdf": "404: http://www.documentacatholicaomnia.eu/03d/1545-1563,_Concilium_Tridentinum,_Canones_et_Decreta,_LT.pdf",
+   "http://www.documentacatholicaomnia.eu/03d/1545-1563,_Concilium_Tridentinum,_Canones_et_Decreta_(Altera_Lectio),_LT.pdf": "404: http://www.documentacatholicaomnia.eu/03d/1545-1563,_Concilium_Tridentinum,_Canones_et_Decreta_(Altera_Lectio),_LT.pdf",
+   "http://www.documentacatholicaomnia.eu/03d/1781-1781,_AA_VV,_Sacrosanctum_Concilium_Tridentinum,_LT.pdf": "scan-only pdf (0 characters / 900 pages): http://www.documentacatholicaomnia.eu/03d/1781-1781,_AA_VV,_Sacrosanctum_Concilium_Tridentinum,_LT.pdf",
+   "http://www.documentacatholicaomnia.eu/03d/1545-1563,_Concilium_Tridentinum,_Canones_et_Decreta_(Testo_divulgativo),_IT.pdf": "404: http://www.documentacatholicaomnia.eu/03d/1545-1563,_Concilium_Tridentinum,_Canones_et_Decreta_(Testo_divulgativo),_IT.pdf"
+  },
+  "titles": {
+   "en-US": "Council of Trent",
+   "pt-BR": "Concílio de Trento",
+   "la": "Concilium Tridentinum"
+  },
+  "inventory_title": "Council of Trent"
+ },
+ "council-vatican-i": {
+  "author": "vatican-i",
+  "date": "1869",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum20.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1869-1870,_Concilium_Vaticanum_I,_01_Sessio_Prima,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1869-1870,_Concilium_Vaticanum_I,_Sessioni,_IT.doc",
+   "pt-BR": "https://www.veritatis.com.br/constituicao-dogmatica-dei-filius-24-04-1870/"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 3,
+   "it": 2,
+   "pt-BR": 4
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "First Vatican Council",
+   "pt-BR": "Concílio Vaticano I",
+   "la": "Concilium Vaticanum I"
+  },
+  "inventory_title": "First Vatican Council"
+ },
+ "council-vienne": {
+  "author": "vienne",
+  "date": "1311",
+  "imported": {
+   "en-US": "https://www.papalencyclicals.net/councils/ecum15.htm",
+   "la": "http://www.documentacatholicaomnia.eu/03d/1311-1312,_Concilium_Viennense,_Documenta,_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/03d/1313-03-22,_Concilium_Viennense,_Documenta,_IT.doc"
+  },
+  "chapters": {
+   "en-US": 1,
+   "la": 1,
+   "it": 1
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Council of Vienne",
+   "pt-BR": "Concílio de Vienne",
+   "la": "Concilium Viennense"
+  },
+  "inventory_title": "Council of Vienne"
+ }
+}

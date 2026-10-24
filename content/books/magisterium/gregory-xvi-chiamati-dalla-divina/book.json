@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-chiamati-dalla-divina",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Chiamati dalla divina"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory XVI · 1831-02-09",
+    "pt-BR": "Carta · Papa Gregório XVI · 1831-02-09"
+  },
+  "composed": "1831",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/epistola-chiamati-dalla-divina-9-febbraio-1831.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Chiamati dalla divina"
+      }
+    }
+  ]
+}

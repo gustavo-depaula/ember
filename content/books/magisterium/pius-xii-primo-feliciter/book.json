@@ -1,0 +1,72 @@
+{
+  "id": "pius-xii-primo-feliciter",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Primo feliciter",
+    "pt-BR": "Primo feliciter",
+    "es": "Primo feliciter",
+    "fr": "Primo feliciter",
+    "it": "Primo feliciter"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius XII · 1948-03-12",
+    "pt-BR": "Motu Proprio · Papa Pio XII · 1948-03-12"
+  },
+  "composed": "1948",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/motu_proprio/documents/hf_p-xii_motu-proprio_19480312_primo-feliciter.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/primo-feliciter/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/motu_proprio/documents/hf_p-xii_motu-proprio_19480312_primo-feliciter.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xii/fr/motu_proprio/documents/hf_p-xii_motu-proprio_19480312_primo-feliciter.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/motu_proprio/documents/hf_p-xii_motu-proprio_19480312_primo-feliciter.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Primo feliciter",
+        "pt-BR": "Primo feliciter",
+        "es": "Primo feliciter",
+        "fr": "Primo feliciter",
+        "it": "Primo feliciter"
+      }
+    }
+  ]
+}

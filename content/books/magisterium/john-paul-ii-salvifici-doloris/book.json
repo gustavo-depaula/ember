@@ -1,0 +1,120 @@
+{
+  "id": "john-paul-ii-salvifici-doloris",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Apostolica Salvifici doloris",
+    "en-US": "Salvifici Doloris",
+    "pt-BR": "Salvifici Doloris",
+    "de": "Salvifici Doloris",
+    "es": "Salvifici Doloris",
+    "fr": "Salvifici Doloris",
+    "hu": "Salvifici doloris, apostoli levele a Katolikus Egyház püspökeihez, papjaihoz, szerzetescsaládjaihoz és hívőihez, 1984. február 11-én - II. János Pál pápa",
+    "it": "Salvifici Doloris",
+    "pl": "Salvifici Doloris (February 11, 1984)",
+    "zh-CN": "Salvifici Doloris",
+    "zh-TW": "Salvifici Doloris"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1984-02-11",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1984-02-11"
+  },
+  "composed": "1984",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1983-02-11,_SS_Ioannes_Paulus_II,_Salvifici_Doloris,_PL.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/john-paul-ii/zh_cn/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/john-paul-ii/zh_tw/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Apostolica Salvifici doloris",
+        "en-US": "Salvifici Doloris",
+        "pt-BR": "Salvifici Doloris",
+        "de": "Salvifici Doloris",
+        "es": "Salvifici Doloris",
+        "fr": "Salvifici Doloris",
+        "hu": "Salvifici doloris, apostoli levele a Katolikus Egyház püspökeihez, papjaihoz, szerzetescsaládjaihoz és hívőihez, 1984. február 11-én - II. János Pál pápa",
+        "it": "Salvifici Doloris",
+        "pl": "Salvifici Doloris (February 11, 1984)",
+        "zh-CN": "Salvifici Doloris",
+        "zh-TW": "Salvifici Doloris"
+      }
+    }
+  ]
+}

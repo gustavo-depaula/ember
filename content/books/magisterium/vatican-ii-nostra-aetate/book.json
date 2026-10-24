@@ -1,0 +1,152 @@
+{
+  "id": "vatican-ii-nostra-aetate",
+  "cover": "quarter",
+  "name": {
+    "la": "Nostra aetate",
+    "en-US": "Nostra aetate",
+    "pt-BR": "Nostra aetate",
+    "ar": "Nostra aetate",
+    "be": "Nostra aetate",
+    "cs": "Nostra Aetate",
+    "de": "Nostra aetate",
+    "es": "Nostra aetate",
+    "fr": "Nostra aetate",
+    "he": "Nostra aetate",
+    "hr": "Nostra aetate",
+    "hu": "Nostra aetate",
+    "it": "Nostra aetate",
+    "lv": "DEKLARĀCIJA PAR BAZNĪCAS ATTIECĪBĀM AR NEKRISTĪGAJĀM RELIĢIJĀM - NOSTRA AETATE",
+    "sw": "Nostra aetate"
+  },
+  "author": {
+    "en-US": "Second Vatican Council",
+    "pt-BR": "Concílio Vaticano II",
+    "la": "Concilium Oecumenicum Vaticanum II"
+  },
+  "description": {
+    "en-US": "Conciliar Document · Second Vatican Council · 1965-10-28",
+    "pt-BR": "Documento Conciliar · Concílio Vaticano II · 1965-10-28"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "it",
+    "lv",
+    "sw"
+  ],
+  "tags": [
+    "magisterium",
+    "council-document",
+    "vatican-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_ar.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_be.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "he",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_he.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_hr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_lv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_sw.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Nostra aetate",
+        "en-US": "Nostra aetate",
+        "pt-BR": "Nostra aetate",
+        "ar": "Nostra aetate",
+        "be": "Nostra aetate",
+        "cs": "Nostra Aetate",
+        "de": "Nostra aetate",
+        "es": "Nostra aetate",
+        "fr": "Nostra aetate",
+        "he": "Nostra aetate",
+        "hr": "Nostra aetate",
+        "hu": "Nostra aetate",
+        "it": "Nostra aetate",
+        "lv": "DEKLARĀCIJA PAR BAZNĪCAS ATTIECĪBĀM AR NEKRISTĪGAJĀM RELIĢIJĀM - NOSTRA AETATE",
+        "sw": "Nostra aetate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-luctuosissimique",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Diuturni luctuosissimique ai Vescovi della Germania affinché si adoperino per aiutare la popolazione affamata"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1919-07-15",
+    "pt-BR": "Carta · Papa Bento XV · 1919-07-15"
+  },
+  "composed": "1919",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1919/documents/hf_ben-xv_let_19190715_luctuosissimique.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Diuturni luctuosissimique ai Vescovi della Germania affinché si adoperino per aiutare la popolazione affamata"
+      }
+    }
+  ]
+}

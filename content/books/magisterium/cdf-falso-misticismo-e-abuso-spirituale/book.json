@@ -1,0 +1,80 @@
+{
+  "id": "cdf-falso-misticismo-e-abuso-spirituale",
+  "cover": "quarter",
+  "name": {
+    "en-US": "“Foglio” for the Audience with the Holy Father: \"False Misticism and Spiritual Abuse\"",
+    "pt-BR": "Folha para Audiência: “Falso misticismo e abuso espiritual”",
+    "de": "„Foglio per l‘Udienza“: „Falscher Mystizismus und geistlicher Missbrauch“",
+    "es": "Folio para la Audiencia con el Santo Padre: \"Falso misticismo y abuso espiritual\"",
+    "fr": "Feuille d'audience: \"Faux mysticisme et abus spirituel\"",
+    "it": "Foglio per l'Udienza: \"Falso misticismo e abuso spirituale\""
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2024-11-22",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2024-11-22"
+  },
+  "composed": "2024",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "“Foglio” for the Audience with the Holy Father: \"False Misticism and Spiritual Abuse\"",
+        "pt-BR": "Folha para Audiência: “Falso misticismo e abuso espiritual”",
+        "de": "„Foglio per l‘Udienza“: „Falscher Mystizismus und geistlicher Missbrauch“",
+        "es": "Folio para la Audiencia con el Santo Padre: \"Falso misticismo y abuso espiritual\"",
+        "fr": "Feuille d'audience: \"Faux mysticisme et abus spirituel\"",
+        "it": "Foglio per l'Udienza: \"Falso misticismo e abuso spirituale\""
+      }
+    }
+  ]
+}

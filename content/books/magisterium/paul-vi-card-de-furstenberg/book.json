@@ -1,0 +1,40 @@
+{
+  "id": "paul-vi-card-de-furstenberg",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera al Cardinale Massimiliano De Furstenberg, Presidente del Comitato Centrale per l'Anno Santo"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Paul VI · 1973-05-31",
+    "pt-BR": "Carta · Papa Paulo VI · 1973-05-31"
+  },
+  "composed": "1973",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/letters/1973/documents/hf_p-vi_let_19730531_card-de-furstenberg.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera al Cardinale Massimiliano De Furstenberg, Presidente del Comitato Centrale per l'Anno Santo"
+      }
+    }
+  ]
+}

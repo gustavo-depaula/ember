@@ -1,0 +1,48 @@
+{
+  "id": "francis-20231101-motu-proprio-ad-theologiam-promovendam",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae «Motu Proprio» datae Ad theologiam promovendam quibus nova comprobantur statuta pontificiae academiae theologicae (die I mensis Novembris, anno MMXXIII)",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» \"Ad theologiam promovendam\", con la quale vengono approvati nuovi statuti della Pontificia Accademia di Teologia"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2023-11-01",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2023-11-01"
+  },
+  "composed": "2023",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/20231101-motu-proprio-ad-theologiam-promovendam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20231101-motu-proprio-ad-theologiam-promovendam.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae «Motu Proprio» datae Ad theologiam promovendam quibus nova comprobantur statuta pontificiae academiae theologicae (die I mensis Novembris, anno MMXXIII)",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» \"Ad theologiam promovendam\", con la quale vengono approvati nuovi statuti della Pontificia Accademia di Teologia"
+      }
+    }
+  ]
+}

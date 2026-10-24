@@ -1,0 +1,96 @@
+{
+  "id": "cdf-circular-letter-to-the-presidents-of-episcopal",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula: De nonnullis sententiis et erroribus ex falsa interpretatione decretorum Concilii Vaticani II insurgentibus, d. 24 m. Iulii a. 1966, Congregatio pro Doctrina Fidei",
+    "en-US": "Circular Letter to the Presidents of Episcopal Conferences regarding some sentences and errors arising from the interpretation of the decrees of the Second Vatican Council, 24 July 1966",
+    "pt-BR": "Carta sobre opiniões errôneas na interpretação dos decretos do Concílio Vaticano II, 24 de julho de 1966",
+    "de": "Rundschreiben an die Präsidenten der Bischofskonferenzen zu einigen Erklärungen und Irrtümner bezüglich der Interpretation der Beschlüsse des Zweiten Vatikanischen Konzils, 24. Juli 1966",
+    "es": "Carta a los presidentes de las Conferencias episcopales sobre los abusoso en la interpretación de los decretos del Concilio Vaticano II",
+    "fr": "Lettre aux Présidents des Conférences épiscopales au sujet de certains abus et d'opinions erronées dans l'interprétation de la doctrine du Concile Vatican II, 24 juillet 1966",
+    "it": "Lettera circolare ai Presidenti delle Conferenze Episcopali circa alcune sentenze ed errori insorgenti sull’interpretazione dei decreti del Concilio Vaticano II, 24 luglio 1966",
+    "pl": "LIST DO PRZEWIELEBNYCH BISKUPÓW KONFERENCJI EPISKOPATÓW O INTERPRETACJI DOKUMENTÓW SOBORU WATYKAŃSKIEGO II"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1966-07-24",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1966-07-24"
+  },
+  "composed": "1966",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660724_epistula_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660724_epistula_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660724_epistula_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660724_epistula_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660724_epistula_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660724_epistula_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660724_epistula_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19660724_epistula_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula: De nonnullis sententiis et erroribus ex falsa interpretatione decretorum Concilii Vaticani II insurgentibus, d. 24 m. Iulii a. 1966, Congregatio pro Doctrina Fidei",
+        "en-US": "Circular Letter to the Presidents of Episcopal Conferences regarding some sentences and errors arising from the interpretation of the decrees of the Second Vatican Council, 24 July 1966",
+        "pt-BR": "Carta sobre opiniões errôneas na interpretação dos decretos do Concílio Vaticano II, 24 de julho de 1966",
+        "de": "Rundschreiben an die Präsidenten der Bischofskonferenzen zu einigen Erklärungen und Irrtümner bezüglich der Interpretation der Beschlüsse des Zweiten Vatikanischen Konzils, 24. Juli 1966",
+        "es": "Carta a los presidentes de las Conferencias episcopales sobre los abusoso en la interpretación de los decretos del Concilio Vaticano II",
+        "fr": "Lettre aux Présidents des Conférences épiscopales au sujet de certains abus et d'opinions erronées dans l'interprétation de la doctrine du Concile Vatican II, 24 juillet 1966",
+        "it": "Lettera circolare ai Presidenti delle Conferenze Episcopali circa alcune sentenze ed errori insorgenti sull’interpretazione dei decreti del Concilio Vaticano II, 24 luglio 1966",
+        "pl": "LIST DO PRZEWIELEBNYCH BISKUPÓW KONFERENCJI EPISKOPATÓW O INTERPRETACJI DOKUMENTÓW SOBORU WATYKAŃSKIEGO II"
+      }
+    }
+  ]
+}

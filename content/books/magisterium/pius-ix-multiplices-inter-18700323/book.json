@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-multiplices-inter-18700323",
+  "cover": "quarter",
+  "name": {
+    "it": "Bolla Multiplices inter"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius IX · 1870-03-23",
+    "pt-BR": "Bula · Papa Pio IX · 1870-03-23"
+  },
+  "composed": "1870",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/bolla-multiplices-inter-23-marzo-1870.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bolla Multiplices inter"
+      }
+    }
+  ]
+}

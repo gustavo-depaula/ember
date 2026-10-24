@@ -1,0 +1,88 @@
+{
+  "id": "pius-xii-provida-mater-ecclesia",
+  "cover": "quarter",
+  "name": {
+    "la": "Provida Mater Ecclesia, Constitutio Apostolica, De statibus canonicis institutisque saecularibus christianae perfectionis adquirendae, d. 2 m. Februarii, a. 1947",
+    "en-US": "Provida Mater Ecclesia",
+    "pt-BR": "Provida Mater Ecclesia (February 2, 1947)",
+    "es": "Provida Mater Ecclesia",
+    "fr": "Provida Mater Ecclesia",
+    "it": "Provida Mater Ecclesia",
+    "zh": "Provida Mater Ecclesia"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Pius XII · 1947-02-02",
+    "pt-BR": "Constituição Apostólica · Papa Pio XII · 1947-02-02"
+  },
+  "composed": "1947",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it",
+    "zh"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/apost_constitutions/documents/hf_p-xii_apc_19470202_provida-mater-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/apost_constitutions/documents/hf_p-xii_apc_19470202_provida-mater-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1947-02-02,_SS_Pius_XII,_Constitutio_'Provida_Mater_Ecclesia',_PT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/apost_constitutions/documents/hf_p-xii_apc_19470202_provida-mater-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xii/fr/apost_constitutions/documents/hf_p-xii_apc_19470202_provida-mater-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_constitutions/documents/hf_p-xii_apc_19470202_provida-mater-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh",
+      "url": "https://www.vatican.va/content/pius-xii/zh/apost_constitutions/documents/hf_p-xii_apc_19470202_provida-mater-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Provida Mater Ecclesia, Constitutio Apostolica, De statibus canonicis institutisque saecularibus christianae perfectionis adquirendae, d. 2 m. Februarii, a. 1947",
+        "en-US": "Provida Mater Ecclesia",
+        "pt-BR": "Provida Mater Ecclesia (February 2, 1947)",
+        "es": "Provida Mater Ecclesia",
+        "fr": "Provida Mater Ecclesia",
+        "it": "Provida Mater Ecclesia",
+        "zh": "Provida Mater Ecclesia"
+      }
+    }
+  ]
+}

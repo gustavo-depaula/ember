@@ -1,0 +1,40 @@
+{
+  "id": "gregory-ii-pope-invests-boniface-with-the-pallium",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Pope Invests Boniface With The Pallium"
+  },
+  "author": {
+    "en-US": "Pope Gregory II",
+    "pt-BR": "Papa Gregório II",
+    "la": "Gregorius PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory II · 0732",
+    "pt-BR": "Documento · Papa Gregório II · 0732"
+  },
+  "composed": "732",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0732-0732,_SS_Gregorius_II,_Pope_Invests_Boniface_With_The_Pallium,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Pope Invests Boniface With The Pallium"
+      }
+    }
+  ]
+}

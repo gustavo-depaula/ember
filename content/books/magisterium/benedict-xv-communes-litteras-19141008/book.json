@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-communes-litteras-19141008",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Communes litteras, al Cardinale Francesco di Paola Cassetta, sull'importanza della lettura e del commento dei libri sacri all'interno delle famiglie"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1914-10-08",
+    "pt-BR": "Carta · Papa Bento XV · 1914-10-08"
+  },
+  "composed": "1914",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1914/documents/hf_ben-xv_let_19141008_communes-litteras.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Communes litteras, al Cardinale Francesco di Paola Cassetta, sull'importanza della lettura e del commento dei libri sacri all'interno delle famiglie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-patti-lateranensi",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera al Cardinale Pietro Gasparri, Segretario di Stato, sulla ratifica dei Patti Lateranensi"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1929-06-07",
+    "pt-BR": "Carta · Papa Pio XI · 1929-06-07"
+  },
+  "composed": "1929",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19290607_patti-lateranensi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera al Cardinale Pietro Gasparri, Segretario di Stato, sulla ratifica dei Patti Lateranensi"
+      }
+    }
+  ]
+}

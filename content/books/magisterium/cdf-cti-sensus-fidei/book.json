@@ -1,0 +1,112 @@
+{
+  "id": "cdf-cti-sensus-fidei",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Sensus fidei in the life of the Church",
+    "pt-BR": "Sensus fidei na vida da Igreja",
+    "de": "Sensus fidei im Leben der Kirche",
+    "es": "El <i>sensus fidei</i> en la vida de la Iglesia",
+    "fr": "Sensus fidei nella vita della Chiesa",
+    "hu": "A „sensus fidei” az egyház életében",
+    "it": "Sensus fidei nella vita della Chiesa",
+    "ko": "Sensus fidei in the life of the Church",
+    "nl": "Sensus fidei in het leven van de Kerk",
+    "ru": "Sensus fidei in the life of the Church"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2014-06-10",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2014-06-10"
+  },
+  "composed": "2014",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "ko",
+    "nl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_sensus-fidei_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_sensus-fidei_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_sensus-fidei_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_sensus-fidei_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_sensus-fidei_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_sensus-fidei_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_sensus-fidei_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ko",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_sensus-fidei_ko.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_sensus-fidei_nl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_sensus-fidei_ru.pdf",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Sensus fidei in the life of the Church",
+        "pt-BR": "Sensus fidei na vida da Igreja",
+        "de": "Sensus fidei im Leben der Kirche",
+        "es": "El <i>sensus fidei</i> en la vida de la Iglesia",
+        "fr": "Sensus fidei nella vita della Chiesa",
+        "hu": "A „sensus fidei” az egyház életében",
+        "it": "Sensus fidei nella vita della Chiesa",
+        "ko": "Sensus fidei in the life of the Church",
+        "nl": "Sensus fidei in het leven van de Kerk",
+        "ru": "Sensus fidei in the life of the Church"
+      }
+    }
+  ]
+}

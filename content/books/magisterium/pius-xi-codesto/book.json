@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-codesto",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera al Principe Camillo Francesco Massimo in occasione del terzo centenario della canonizzazione di san Filippo Neri"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1922-03-08",
+    "pt-BR": "Carta · Papa Pio XI · 1922-03-08"
+  },
+  "composed": "1922",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19220308_a-codesto.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera al Principe Camillo Francesco Massimo in occasione del terzo centenario della canonizzazione di san Filippo Neri"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-ex-quo-pontificatum",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Ex quo Pontificatum, al reverendo padre don Nicola Dobrecic per prestare soccorso ai prigionieri di guerra nella Diocesi di Antivari"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1914-11-08",
+    "pt-BR": "Carta · Papa Bento XV · 1914-11-08"
+  },
+  "composed": "1914",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1914/documents/hf_ben-xv_let_19141108_ex-quo-pontificatum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Ex quo Pontificatum, al reverendo padre don Nicola Dobrecic per prestare soccorso ai prigionieri di guerra nella Diocesi di Antivari"
+      }
+    }
+  ]
+}

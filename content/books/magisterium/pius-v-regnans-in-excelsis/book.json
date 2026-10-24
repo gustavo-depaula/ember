@@ -1,0 +1,47 @@
+{
+  "id": "pius-v-regnans-in-excelsis",
+  "cover": "quarter",
+  "name": {
+    "la": "Regnans in Excelsis",
+    "en-US": "Regnans in Excelsis"
+  },
+  "author": {
+    "en-US": "Pope Pius V",
+    "pt-BR": "Papa Pio V",
+    "la": "Pius PP. V"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius V",
+    "pt-BR": "Documento · Papa Pio V"
+  },
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-v"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.papalencyclicals.net/paul06/p5regnanslatin.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius05/p5regnans.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Regnans in Excelsis",
+        "en-US": "Regnans in Excelsis"
+      }
+    }
+  ]
+}

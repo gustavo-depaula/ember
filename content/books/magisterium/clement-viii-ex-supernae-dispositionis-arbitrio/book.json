@@ -1,0 +1,48 @@
+{
+  "id": "clement-viii-ex-supernae-dispositionis-arbitrio",
+  "cover": "quarter",
+  "name": {
+    "la": "Ex Supernae Dispositionis Arbitrio",
+    "en-US": "Ex Supernae Dispositionis Arbitrio"
+  },
+  "author": {
+    "en-US": "Pope Clement VIII",
+    "pt-BR": "Papa Clemente VIII",
+    "la": "Clemens PP. VIII"
+  },
+  "description": {
+    "en-US": "Document · Pope Clement VIII · 1595-10-07",
+    "pt-BR": "Documento · Papa Clemente VIII · 1595-10-07"
+  },
+  "composed": "1595",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "clement-viii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1595-10-07,_SS_Clemens_VIII,_Ex_Supernae_Dispositionis,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/clem08/clem8exsuper.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ex Supernae Dispositionis Arbitrio",
+        "en-US": "Ex Supernae Dispositionis Arbitrio"
+      }
+    }
+  ]
+}

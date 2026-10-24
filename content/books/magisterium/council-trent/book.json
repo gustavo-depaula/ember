@@ -1,0 +1,650 @@
+{
+  "id": "council-trent",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Council of Trent",
+    "pt-BR": "Concílio de Trento",
+    "la": "Concilium Tridentinum"
+  },
+  "author": {
+    "en-US": "Council of Trent",
+    "pt-BR": "Concílio de Trento",
+    "la": "Concilium Tridentinum"
+  },
+  "description": {
+    "en-US": "Ecumenical council · 1545. Decrees, canons and acts in every language available.",
+    "pt-BR": "Concílio ecumênico · 1545. Decretos, cânones e atas em todas as línguas disponíveis."
+  },
+  "composed": "1545",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "council",
+    "trent"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1545-1563,_Concilium_Tridentinum,_Documenta,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1545-1563,_Concilium_Tridentinum,_Sessio_I_Documenta,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1545-1563,_Concilium_Tridentinum,_Sessio_VI-Decretum_de_Justificatione,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/ctbull.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/firstsession.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/second-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/third-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/fourth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/fifth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/sixth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/seventh-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/eighth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/ninth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/tenth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/eleventh-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/twelfth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/thirteenth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/fourteenth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/fifteenth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/sixteenth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/seventeenth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/eighteenth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/nineteenth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/twentieth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/twenty-first-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/twenty-second-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/twenty-third-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/twenty-fourth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/trent/twenty-fifth-session.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-i-03-12-1545/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-ii-07-01-1546/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-iii-04-02-1546/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-iv-08-04-1546/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-ix-11-03-1547/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-ix-21-04-1547/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-v-17-06-1546/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-vi-03-03-1547/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-vi-13-01-1547/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-x-02-06-1547/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xi-01-05-1551/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xii-01-09-1551/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xiii-11-10-1551/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xiv-25-11-1551/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xix-14-05-1562/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xv-25-01-1552/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xvi-28-04-1552/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xvii-18-01-1562/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xviii-26-02-1562/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xx-04-06-1562/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xxi-16-07-1562/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xxii-17-09-1562/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xxiii-15-07-1563/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xxiv-11-11-1563/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xxv-03-04-12-1563/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sessao-xxvi-12-1563/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1545-1563,_Absens,_Concilium_Tridentinum,_IT.doc",
+      "description": "Conciliar text as published at this address."
+    }
+  ],
+  "toc": [
+    {
+      "id": "la-01",
+      "title": {
+        "la": "Documenta"
+      }
+    },
+    {
+      "id": "la-02",
+      "title": {
+        "la": "Sessio I Documenta"
+      }
+    },
+    {
+      "id": "la-03",
+      "title": {
+        "la": "Sessio VI-Decretum de Justificatione"
+      }
+    },
+    {
+      "id": "en-US-01",
+      "title": {
+        "en-US": "THE BULL OF INDICTION OF THE SACRED ECUMENICAL AND GENERAL COUNCIL OF TRENT UNDER THE SOVEREIGN PONTIFF, PAUL III"
+      }
+    },
+    {
+      "id": "en-US-02",
+      "title": {
+        "en-US": "General Council of Trent: First Session"
+      }
+    },
+    {
+      "id": "en-US-03",
+      "title": {
+        "en-US": "General Council of Trent: Second Session"
+      }
+    },
+    {
+      "id": "en-US-04",
+      "title": {
+        "en-US": "General Council of Trent: Third Session"
+      }
+    },
+    {
+      "id": "en-US-05",
+      "title": {
+        "en-US": "General Council of Trent: Fourth Session"
+      }
+    },
+    {
+      "id": "en-US-06",
+      "title": {
+        "en-US": "General Council of Trent: Fifth Session"
+      }
+    },
+    {
+      "id": "en-US-07",
+      "title": {
+        "en-US": "General Council of Trent: Sixth Session"
+      }
+    },
+    {
+      "id": "en-US-08",
+      "title": {
+        "en-US": "General Council of Trent: Seventh Session"
+      }
+    },
+    {
+      "id": "en-US-09",
+      "title": {
+        "en-US": "General Council of Trent: Eighth Session"
+      }
+    },
+    {
+      "id": "en-US-10",
+      "title": {
+        "en-US": "General Council of Trent: Ninth Session"
+      }
+    },
+    {
+      "id": "en-US-11",
+      "title": {
+        "en-US": "General Council of Trent: Tenth Session"
+      }
+    },
+    {
+      "id": "en-US-12",
+      "title": {
+        "en-US": "General Council of Trent: Eleventh Session"
+      }
+    },
+    {
+      "id": "en-US-13",
+      "title": {
+        "en-US": "General Council of Trent: Twelfth Session"
+      }
+    },
+    {
+      "id": "en-US-14",
+      "title": {
+        "en-US": "General Council of Trent: Thirteenth Session"
+      }
+    },
+    {
+      "id": "en-US-15",
+      "title": {
+        "en-US": "General Council of Trent: Fourteenth Session"
+      }
+    },
+    {
+      "id": "en-US-16",
+      "title": {
+        "en-US": "General Council of Trent: Fifteenth Session"
+      }
+    },
+    {
+      "id": "en-US-17",
+      "title": {
+        "en-US": "General Council of Trent: Sixteenth Session"
+      }
+    },
+    {
+      "id": "en-US-18",
+      "title": {
+        "en-US": "General Council of Trent: Seventeenth Session"
+      }
+    },
+    {
+      "id": "en-US-19",
+      "title": {
+        "en-US": "General Council of Trent: Eighteenth Session"
+      }
+    },
+    {
+      "id": "en-US-20",
+      "title": {
+        "en-US": "General Council of Trent: Nineteenth Session"
+      }
+    },
+    {
+      "id": "en-US-21",
+      "title": {
+        "en-US": "General Council of Trent: Twentieth Session"
+      }
+    },
+    {
+      "id": "en-US-22",
+      "title": {
+        "en-US": "General Council of Trent: Twenty-First Session"
+      }
+    },
+    {
+      "id": "en-US-23",
+      "title": {
+        "en-US": "General Council of Trent: Twenty-Second Session"
+      }
+    },
+    {
+      "id": "en-US-24",
+      "title": {
+        "en-US": "General Council of Trent: Twenty-Third Session"
+      }
+    },
+    {
+      "id": "en-US-25",
+      "title": {
+        "en-US": "General Council of Trent: Twenty-Fourth Session"
+      }
+    },
+    {
+      "id": "en-US-26",
+      "title": {
+        "en-US": "General Council of Trent: Twenty-Fifth Session"
+      }
+    },
+    {
+      "id": "pt-BR-01",
+      "title": {
+        "pt-BR": "Sessão I"
+      }
+    },
+    {
+      "id": "pt-BR-02",
+      "title": {
+        "pt-BR": "Sessão II"
+      }
+    },
+    {
+      "id": "pt-BR-03",
+      "title": {
+        "pt-BR": "Sessão III"
+      }
+    },
+    {
+      "id": "pt-BR-04",
+      "title": {
+        "pt-BR": "Sessão IV"
+      }
+    },
+    {
+      "id": "pt-BR-05",
+      "title": {
+        "pt-BR": "Sessão IX"
+      }
+    },
+    {
+      "id": "pt-BR-06",
+      "title": {
+        "pt-BR": "Sessão IX"
+      }
+    },
+    {
+      "id": "pt-BR-07",
+      "title": {
+        "pt-BR": "Sessão V"
+      }
+    },
+    {
+      "id": "pt-BR-08",
+      "title": {
+        "pt-BR": "Sessão VI"
+      }
+    },
+    {
+      "id": "pt-BR-09",
+      "title": {
+        "pt-BR": "Sessão VI"
+      }
+    },
+    {
+      "id": "pt-BR-10",
+      "title": {
+        "pt-BR": "Sessão X"
+      }
+    },
+    {
+      "id": "pt-BR-11",
+      "title": {
+        "pt-BR": "Sessão XI"
+      }
+    },
+    {
+      "id": "pt-BR-12",
+      "title": {
+        "pt-BR": "Sessão XII"
+      }
+    },
+    {
+      "id": "pt-BR-13",
+      "title": {
+        "pt-BR": "Sessão XIII"
+      }
+    },
+    {
+      "id": "pt-BR-14",
+      "title": {
+        "pt-BR": "Sessão XIV"
+      }
+    },
+    {
+      "id": "pt-BR-15",
+      "title": {
+        "pt-BR": "Sessão XIX"
+      }
+    },
+    {
+      "id": "pt-BR-16",
+      "title": {
+        "pt-BR": "Sessão XV"
+      }
+    },
+    {
+      "id": "pt-BR-17",
+      "title": {
+        "pt-BR": "Sessão XVI"
+      }
+    },
+    {
+      "id": "pt-BR-18",
+      "title": {
+        "pt-BR": "Sessão XVII"
+      }
+    },
+    {
+      "id": "pt-BR-19",
+      "title": {
+        "pt-BR": "Sessão XVIII"
+      }
+    },
+    {
+      "id": "pt-BR-20",
+      "title": {
+        "pt-BR": "Sessão XX"
+      }
+    },
+    {
+      "id": "pt-BR-21",
+      "title": {
+        "pt-BR": "Sessão XXI"
+      }
+    },
+    {
+      "id": "pt-BR-22",
+      "title": {
+        "pt-BR": "Sessão XXII"
+      }
+    },
+    {
+      "id": "pt-BR-23",
+      "title": {
+        "pt-BR": "Sessão XXIII"
+      }
+    },
+    {
+      "id": "pt-BR-24",
+      "title": {
+        "pt-BR": "Sessão XXIV"
+      }
+    },
+    {
+      "id": "pt-BR-25",
+      "title": {
+        "pt-BR": "Sessão XXV"
+      }
+    },
+    {
+      "id": "pt-BR-26",
+      "title": {
+        "pt-BR": "Sessão XXVI"
+      }
+    },
+    {
+      "id": "it-01",
+      "title": {
+        "it": "Concilium Tridentinum"
+      }
+    }
+  ]
+}

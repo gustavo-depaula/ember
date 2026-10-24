@@ -1,0 +1,40 @@
+{
+  "id": "francis-20230220-il-diritto-nativo",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Apostolica in forma di Motu Proprio \"Il Diritto Nativo\" circa il patrimonio della Sede Apostolica"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2023-02-20",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2023-02-20"
+  },
+  "composed": "2023",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230220-il-diritto-nativo.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Apostolica in forma di Motu Proprio \"Il Diritto Nativo\" circa il patrimonio della Sede Apostolica"
+      }
+    }
+  ]
+}

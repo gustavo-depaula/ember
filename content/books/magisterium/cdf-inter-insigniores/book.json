@@ -1,0 +1,96 @@
+{
+  "id": "cdf-inter-insigniores",
+  "cover": "quarter",
+  "name": {
+    "la": "Declaratio circa quaestionem admissionis mulierum ad sacerdotium ministeriale, d. 15 m. Octobris a. 1976, Congregatio pro Doctrina Fidei",
+    "en-US": "Declaration on the Question of Admission of Women to the Ministerial Priesthood, 15 October 1976",
+    "pt-BR": "Questão da admissão das mulheres no sacerdócio ministerial",
+    "de": "ERKLÄRUNG ZUR FRAGE DER ZULASSUNG DER FRAUEN ZUM PRIESTERAMT - Inter insigniores",
+    "es": "Declaración sobre la cuestión de la admisión de las mujeres al sacerdocio ministerial - Inter insigniores",
+    "fr": "Déclaration sur la question de l'admission des femmes au sacerdoce ministériel, 15 octobre 1976",
+    "it": "Dichiarazione circa la questione dellÂÂÂ’ammissione delle donne al sacerdozio ministeriale - Inter insigniores, 15 ottobre 1976",
+    "pl": "DEKLARACJA O KWESTII DOPUSZCZENIA KOBIET DO KAPŁAŃSTAWA URZĘDOWEGO"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1976-10-15",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1976-10-15"
+  },
+  "composed": "1976",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Declaratio circa quaestionem admissionis mulierum ad sacerdotium ministeriale, d. 15 m. Octobris a. 1976, Congregatio pro Doctrina Fidei",
+        "en-US": "Declaration on the Question of Admission of Women to the Ministerial Priesthood, 15 October 1976",
+        "pt-BR": "Questão da admissão das mulheres no sacerdócio ministerial",
+        "de": "ERKLÄRUNG ZUR FRAGE DER ZULASSUNG DER FRAUEN ZUM PRIESTERAMT - Inter insigniores",
+        "es": "Declaración sobre la cuestión de la admisión de las mujeres al sacerdocio ministerial - Inter insigniores",
+        "fr": "Déclaration sur la question de l'admission des femmes au sacerdoce ministériel, 15 octobre 1976",
+        "it": "Dichiarazione circa la questione dellÂÂÂ’ammissione delle donne al sacerdozio ministeriale - Inter insigniores, 15 ottobre 1976",
+        "pl": "DEKLARACJA O KWESTII DOPUSZCZENIA KOBIET DO KAPŁAŃSTAWA URZĘDOWEGO"
+      }
+    }
+  ]
+}

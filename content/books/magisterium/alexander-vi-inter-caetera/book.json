@@ -1,0 +1,56 @@
+{
+  "id": "alexander-vi-inter-caetera",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Inter Caetera",
+    "es": "Inter Caetera",
+    "it": "Inter Caetera"
+  },
+  "author": {
+    "en-US": "Pope Alexander VI",
+    "pt-BR": "Papa Alexandre VI",
+    "la": "Alexander PP. VI"
+  },
+  "description": {
+    "en-US": "Document · Pope Alexander VI · 1493-05-04",
+    "pt-BR": "Documento · Papa Alexandre VI · 1493-05-04"
+  },
+  "composed": "1493",
+  "languages": [
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "alexander-vi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/alex06/alex06inter.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1493-05-04,_SS_Alexander_VI,_Inter_Coetera,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1493-05-04,_SS_Alexander_VI,_Inter_Caetera,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Inter Caetera",
+        "es": "Inter Caetera",
+        "it": "Inter Caetera"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-quam-quoad",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Quamquam quoad, al Reverendo Padre Paolino Ladeuze, Rettore, e ai Dottori decuriali della Università di Lovanio. con la quale il Sommo Pontefice si dichiara disponibile a contribuire alla ricostruzione dell'Università"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1919-07-07",
+    "pt-BR": "Carta · Papa Bento XV · 1919-07-07"
+  },
+  "composed": "1919",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1919/documents/hf_ben-xv_let_19190707_quam-quoad.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Quamquam quoad, al Reverendo Padre Paolino Ladeuze, Rettore, e ai Dottori decuriali della Università di Lovanio. con la quale il Sommo Pontefice si dichiara disponibile a contribuire alla ricostruzione dell'Università"
+      }
+    }
+  ]
+}

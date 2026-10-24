@@ -1,0 +1,48 @@
+{
+  "id": "pius-xii-exsul-familia-nazarethana",
+  "cover": "quarter",
+  "name": {
+    "la": "Exsul Familia Nazarethana",
+    "en-US": "Exsul Familia Nazarethana"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1952-08-01",
+    "pt-BR": "Documento · Papa Pio XII · 1952-08-01"
+  },
+  "composed": "1952",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1952-08-01,_SS_Pius_XII,_Constitutio._Exsul_Familia,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12exsul.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Exsul Familia Nazarethana",
+        "en-US": "Exsul Familia Nazarethana"
+      }
+    }
+  ]
+}

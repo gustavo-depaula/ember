@@ -1,0 +1,48 @@
+{
+  "id": "pius-viii-traditi-humilitati",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Traditi Humilitati",
+    "it": "Enciclica Traditi humilitati"
+  },
+  "author": {
+    "en-US": "Pope Pius VIII",
+    "pt-BR": "Papa Pio VIII",
+    "la": "Pius PP. VIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius VIII · 1829-05-24",
+    "pt-BR": "Encíclica · Papa Pio VIII · 1829-05-24"
+  },
+  "composed": "1829",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-viii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius08/p8tradit.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-viii/it/documents/enciclica-traditi-humilitati-24-maggio-1829.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Traditi Humilitati",
+        "it": "Enciclica Traditi humilitati"
+      }
+    }
+  ]
+}

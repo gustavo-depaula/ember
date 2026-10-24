@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-inter-graves",
+  "cover": "quarter",
+  "name": {
+    "la": "Inter graves",
+    "en-US": "Inter Graves",
+    "it": "Inter graves"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1894-05-01",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1894-05-01"
+  },
+  "composed": "1894",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_01051894_inter-graves.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01051894_inter-graves.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_01051894_inter-graves.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Inter graves",
+        "en-US": "Inter Graves",
+        "it": "Inter graves"
+      }
+    }
+  ]
+}

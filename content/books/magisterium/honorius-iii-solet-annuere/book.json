@@ -1,0 +1,72 @@
+{
+  "id": "honorius-iii-solet-annuere",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Solet Annuere",
+    "de": "Solet Annuere",
+    "es": "Solet Annuere",
+    "fr": "Solet Annuere",
+    "it": "Solet Annuere"
+  },
+  "author": {
+    "en-US": "Pope Honorius III",
+    "pt-BR": "Papa Honório III",
+    "la": "Honorius PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Honorius III · 1223-11-29",
+    "pt-BR": "Documento · Papa Honório III · 1223-11-29"
+  },
+  "composed": "1223",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "honorius-iii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/hon03/regula-e.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1223-11-29,_SS_Honorius_III,_Solet_Annuere,_GE.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1223-11-29,_SS_Honorius_III,_Solet_Annuere,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1223-11-29,_SS_Honorius_III,_Solet_Annuere,_FR.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1223-11-29,_SS_Honorius_III,_Solet_Annuere,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Solet Annuere",
+        "de": "Solet Annuere",
+        "es": "Solet Annuere",
+        "fr": "Solet Annuere",
+        "it": "Solet Annuere"
+      }
+    }
+  ]
+}

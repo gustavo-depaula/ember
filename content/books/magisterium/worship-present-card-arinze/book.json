@@ -1,0 +1,80 @@
+{
+  "id": "worship-present-card-arinze",
+  "cover": "quarter",
+  "name": {
+    "en-US": "INTRODUCING ÂÂ“REDEMPTIONIS SACRAMENTUMÂÂ”",
+    "pt-BR": "Apresentação Redemptionis Sacramentum",
+    "de": "Vorstellung der Instruktion REDEMPTIONIS SACRAMENTUM",
+    "es": "Presentación de la Instrucción Redemptionis Sacramentum",
+    "fr": "PRESENTATION DE ÂÂ“REDEMPTIONIS SACRAMENTUMÂÂ”",
+    "it": "PRESENTAZIONE DELLA \"REDEMPTIONIS SACRAMENTUM\""
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2004-04-23",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2004-04-23"
+  },
+  "composed": "2004",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_present-card-arinze_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_present-card-arinze_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_present-card-arinze_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_present-card-arinze_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_present-card-arinze_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_present-card-arinze_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "INTRODUCING ÂÂ“REDEMPTIONIS SACRAMENTUMÂÂ”",
+        "pt-BR": "Apresentação Redemptionis Sacramentum",
+        "de": "Vorstellung der Instruktion REDEMPTIONIS SACRAMENTUM",
+        "es": "Presentación de la Instrucción Redemptionis Sacramentum",
+        "fr": "PRESENTATION DE ÂÂ“REDEMPTIONIS SACRAMENTUMÂÂ”",
+        "it": "PRESENTAZIONE DELLA \"REDEMPTIONIS SACRAMENTUM\""
+      }
+    }
+  ]
+}

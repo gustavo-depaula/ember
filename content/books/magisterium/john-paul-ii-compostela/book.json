@@ -1,0 +1,72 @@
+{
+  "id": "john-paul-ii-compostela",
+  "cover": "quarter",
+  "name": {
+    "en-US": "To Msgr. Julián Barrio for the opening of the Holy Year of Compostela",
+    "pt-BR": "A D. Julián Barrio pela abertura do Ano Santo de Compostela",
+    "de": "Botschaft an den Erzbischof von Santiago de Compostela über Bedeutung und Sinn der Jakobus-Wallfahrt",
+    "es": "A Mons. Julián Barrio con ocasión de la apertura del Año santo compostelano",
+    "it": "A Mons. Julián Barrio per l'apertura dell'Anno Santo di Compostela"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1998-11-29",
+    "pt-BR": "Carta · Papa João Paulo II · 1998-11-29"
+  },
+  "composed": "1998",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/1998/documents/hf_jp-ii_let_19981129_compostela.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/1998/documents/hf_jp-ii_let_19981129_compostela.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/1998/documents/hf_jp-ii_let_19981129_compostela.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/1998/documents/hf_jp-ii_let_19981129_compostela.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1998/documents/hf_jp-ii_let_19981129_compostela.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "To Msgr. Julián Barrio for the opening of the Holy Year of Compostela",
+        "pt-BR": "A D. Julián Barrio pela abertura do Ano Santo de Compostela",
+        "de": "Botschaft an den Erzbischof von Santiago de Compostela über Bedeutung und Sinn der Jakobus-Wallfahrt",
+        "es": "A Mons. Julián Barrio con ocasión de la apertura del Año santo compostelano",
+        "it": "A Mons. Julián Barrio per l'apertura dell'Anno Santo di Compostela"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cdf-cti-emery-monoteismo",
+  "cover": "quarter",
+  "name": {
+    "fr": "Le Fils incarné, la vérité de Dieu et le sens de l’unité divine (P. Gilles Emery, o.p.)",
+    "hu": "A Nemzetközi Teológiai Bizottságnak az egyistenhitről és erőszakról szóló dokumentumában. A megtestesült Fiú és az isteni egység jelentése, Gilles Emery, O.P.",
+    "it": "Il Figlio incarnato e il significato dell’unità divina, di Gilles Emery"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2014-01-17",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2014-01-17"
+  },
+  "composed": "2014",
+  "languages": [
+    "fr",
+    "hu",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_emery-monoteismo_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_emery-monoteismo_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_emery-monoteismo_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Le Fils incarné, la vérité de Dieu et le sens de l’unité divine (P. Gilles Emery, o.p.)",
+        "hu": "A Nemzetközi Teológiai Bizottságnak az egyistenhitről és erőszakról szóló dokumentumában. A megtestesült Fiú és az isteni egység jelentése, Gilles Emery, O.P.",
+        "it": "Il Figlio incarnato e il significato dell’unità divina, di Gilles Emery"
+      }
+    }
+  ]
+}

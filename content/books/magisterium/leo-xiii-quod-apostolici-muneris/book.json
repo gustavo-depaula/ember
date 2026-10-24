@@ -1,0 +1,80 @@
+{
+  "id": "leo-xiii-quod-apostolici-muneris",
+  "cover": "quarter",
+  "name": {
+    "la": "Quod Apostolici muneris",
+    "en-US": "Quod Apostolici Muneris",
+    "pt-BR": "Quod apostolici muneris",
+    "es": "Quod\n Apostolici Muneris (December 28, 1878)",
+    "fr": "Quod Apostolici Muneris",
+    "it": "Quod Apostolici Muneris"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1878-12-28",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1878-12-28"
+  },
+  "composed": "1878",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/quod-apostolici-muneris-leao-xiii-28-12-1878/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1878-12-28,_SS_Leo_XIII,_Encyclica_'Quod_Apostolici_Muneris',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_28121878_quod-apostolici-muneris.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quod Apostolici muneris",
+        "en-US": "Quod Apostolici Muneris",
+        "pt-BR": "Quod apostolici muneris",
+        "es": "Quod\n Apostolici Muneris (December 28, 1878)",
+        "fr": "Quod Apostolici Muneris",
+        "it": "Quod Apostolici Muneris"
+      }
+    }
+  ]
+}

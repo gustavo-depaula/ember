@@ -1,0 +1,40 @@
+{
+  "id": "nicholas-v-romanus-pontifex",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Romanus Pontifex"
+  },
+  "author": {
+    "en-US": "Pope Nicholas V",
+    "pt-BR": "Papa Nicolau V",
+    "la": "Nicolaus PP. V"
+  },
+  "description": {
+    "en-US": "Document · Pope Nicholas V · 1455-01-08",
+    "pt-BR": "Documento · Papa Nicolau V · 1455-01-08"
+  },
+  "composed": "1455",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "nicholas-v"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/nichol05/romanus-pontifex.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Romanus Pontifex"
+      }
+    }
+  ]
+}

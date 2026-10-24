@@ -1,0 +1,64 @@
+{
+  "id": "alexander-iv-clara-claris-praeclara",
+  "cover": "quarter",
+  "name": {
+    "la": "Clara claris praeclara",
+    "pt-BR": "Clara claris praeclara",
+    "es": "Clara claris praeclara",
+    "it": "Clara claris praeclara"
+  },
+  "author": {
+    "en-US": "Pope Alexander IV",
+    "pt-BR": "Papa Alexandre IV",
+    "la": "Alexander PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Alexander IV · 1255-09-26",
+    "pt-BR": "Documento · Papa Alexandre IV · 1255-09-26"
+  },
+  "composed": "1255",
+  "languages": [
+    "la",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "alexander-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1255-10-26,_SS_Alexander_IV,_Clara_Claris_Praeclara,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1255-09-26,_SS_Alexander_IV,_Bulla_'Clara_Claris_Praeclara',_PT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1255-10-26,_SS_Alexander_IV,_Clara_Claris_Praeclara,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1255-09-26,_SS_Alexander_IV,_Bulla_'Clara_Claris_Praeclara',_IT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Clara claris praeclara",
+        "pt-BR": "Clara claris praeclara",
+        "es": "Clara claris praeclara",
+        "it": "Clara claris praeclara"
+      }
+    }
+  ]
+}

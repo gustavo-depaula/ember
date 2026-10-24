@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-maximae-quidem",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Maximae Quidem",
+    "it": "Enciclica Maximae quidem"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1864-08-18",
+    "pt-BR": "Encíclica · Papa Pio IX · 1864-08-18"
+  },
+  "composed": "1864",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9maxima.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-maximae-quidem-18-agosto-1864.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Maximae Quidem",
+        "it": "Enciclica Maximae quidem"
+      }
+    }
+  ]
+}

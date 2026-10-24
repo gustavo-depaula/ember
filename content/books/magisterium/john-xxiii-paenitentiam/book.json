@@ -1,0 +1,72 @@
+{
+  "id": "john-xxiii-paenitentiam",
+  "cover": "quarter",
+  "name": {
+    "la": "Paenitentiam agere, Litterae Encyclicae quibus, adventante Concilio Oecumenico Vaticano II, invitamentum ad paenitentiam inculcatur, I Iulii a. 1962, Ioannes PP. XXIII",
+    "en-US": "Paenitentiam Agere",
+    "pt-BR": "Paenitentiam Agere",
+    "es": "Paenitentiam Agere",
+    "it": "Paenitentiam Agere"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope John XXIII · 1962-07-01",
+    "pt-BR": "Encíclica · Papa João XXIII · 1962-07-01"
+  },
+  "composed": "1962",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Paenitentiam agere, Litterae Encyclicae quibus, adventante Concilio Oecumenico Vaticano II, invitamentum ad paenitentiam inculcatur, I Iulii a. 1962, Ioannes PP. XXIII",
+        "en-US": "Paenitentiam Agere",
+        "pt-BR": "Paenitentiam Agere",
+        "es": "Paenitentiam Agere",
+        "it": "Paenitentiam Agere"
+      }
+    }
+  ]
+}

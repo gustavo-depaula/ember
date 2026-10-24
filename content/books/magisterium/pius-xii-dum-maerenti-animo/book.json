@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-dum-maerenti-animo",
+  "cover": "quarter",
+  "name": {
+    "la": "Dum maerenti, die XXIX m. Iunii, A.D. MCMLVI - Pius PP. XII, Litterae Apostolicae",
+    "es": "Dum maerenti animo . - La chiesa perseguitata nell'Europa dell'Est (29 giugno 1956)",
+    "it": "Dum maerenti animo. - La chiesa perseguitata nell'Europa dell'Est"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius XII · 1956-06-29",
+    "pt-BR": "Carta Apostólica · Papa Pio XII · 1956-06-29"
+  },
+  "composed": "1956",
+  "languages": [
+    "la",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/apost_letters/documents/hf_p-xii_apl_19560629_dum-maerenti-animo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1956-03-29,_SS_Pius_XII,_Epistola_'Dum_Maerenti_Animo',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_letters/documents/hf_p-xii_apl_19560629_dum-maerenti-animo.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Dum maerenti, die XXIX m. Iunii, A.D. MCMLVI - Pius PP. XII, Litterae Apostolicae",
+        "es": "Dum maerenti animo . - La chiesa perseguitata nell'Europa dell'Est (29 giugno 1956)",
+        "it": "Dum maerenti animo. - La chiesa perseguitata nell'Europa dell'Est"
+      }
+    }
+  ]
+}

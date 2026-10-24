@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-dobbiamo-intrattenerla",
+  "cover": "quarter",
+  "name": {
+    "it": "Chirografo al Cardinale Presbitero Alfredo Ildefonso Schuster, Arcivescovo di Milano, in difesa dell'Azione Cattolica Italiana"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1931-04-26",
+    "pt-BR": "Carta · Papa Pio XI · 1931-04-26"
+  },
+  "composed": "1931",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19310426_dobbiamo-intrattenerla.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Chirografo al Cardinale Presbitero Alfredo Ildefonso Schuster, Arcivescovo di Milano, in difesa dell'Azione Cattolica Italiana"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-animarum-studio",
+  "cover": "quarter",
+  "name": {
+    "it": "Animarum studio"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius XII · 1947-12-16",
+    "pt-BR": "Motu Proprio · Papa Pio XII · 1947-12-16"
+  },
+  "composed": "1947",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/motu_proprio/documents/hf_p-xii_motu-proprio_19471216_animarum-studio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Animarum studio"
+      }
+    }
+  ]
+}
