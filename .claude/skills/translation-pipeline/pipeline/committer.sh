@@ -110,7 +110,9 @@ if all(os.path.exists(f.replace('/' + lang + '/', '/pt-BR/')) for f in glob.glob
     if 'pt-BR' not in bj['languages']:
         bj['languages'].append('pt-BR'); open(d + '/book.json', 'w').write(json.dumps(bj, ensure_ascii=False, indent=2) + '\\n')
 " $d || return 1
-    local files=($d/pt-BR/$scope-*.md $d/pt-BR/translation-journal.md $d/book.json)
+    # A review may fix an OCR slip in the part's source files: theirs too.
+    local src=$d/la; [[ -d $src ]] || src=$d/en-US
+    local files=($d/pt-BR/$scope-*.md $d/pt-BR/translation-journal.md $d/book.json $src/$scope-*.md)
     git add -- $files || return 1
     git commit -q -m "Translate the ${part} of ${author}'s ${name} to pt-BR" -m "$msg" -- $files
     return
