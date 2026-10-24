@@ -170,11 +170,14 @@ def margin_anchors(drafts: Path, leaf: str, draft: str, fixes: list[dict], corre
         if "margin" not in fix or not keep_note(fix["margin"]) or squeeze(fix["margin"]) in in_body:
             continue
         pieces = re.split(r"(?<=[.;])\s+(?=(?:[IV]{1,3}\s+|\d\s*)?[A-Z][a-zæœ]{1,8}\.)", fix["margin"])
-        if squeeze(fix["margin"]) in seen or all(squeeze(p) in seen for p in pieces):
+        # Or a piece of one ("cal. parad." of "cal. parad. ad. xxv."), which is not a note of its own.
+        if any(squeeze(p) in note for p in pieces for note in seen) or squeeze(fix["margin"]) in seen:
             continue
         seen.add(squeeze(fix["margin"]))
         anchors.append(("at", loose_find(draft, fix.get("find", fix["margin"]).replace("*", "")), fix["margin"]))
-    return anchors
+    # The margin read both whole and in pieces: a note that is part of another on the page is not one of its own.
+    keys = [squeeze(a[-1]) for a in anchors]
+    return [a for a, k in zip(anchors, keys) if not any(k != other and k in other for other in keys)]
 
 
 def squeeze(text: str) -> str:
@@ -299,6 +302,35 @@ def with_footnotes(body: str) -> str:
     return body.rstrip() + "\n\n" + "\n".join(lines)
 
 
+def untable(body: str) -> str:
+    """Text dots.mocr read as an HTML table, back to paragraphs.
+
+    It now and then takes a stretch of a two-column page, margin references and
+    all, for a table. The app shows a table's cells without reading their
+    Markdown, and the footnote marks in them are lost. Text cells become
+    paragraphs in reading order; reference cells, footnotes on the text before them.
+    """
+    def paragraphs(m: re.Match) -> str:
+        out: list[str] = []
+        held = ""  # references before the first text cell go with it
+        for cell in re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", m.group(0), flags=re.S):
+            text = " ".join(re.sub(r"<[^>]+>", " ", cell).split())
+            if not text:
+                continue
+            if only_references(text.replace("*", "")) and keep_note(text):
+                notes.append(text.replace("*", ""))
+                token = f"\ue000{len(notes) - 1}\ue001"
+                if out:
+                    out[-1] += token
+                else:
+                    held += token
+            else:
+                out.append(text + held)
+                held = ""
+        return "\n\n".join(out) + held
+    return re.sub(r"<table\b.*?</table>", paragraphs, body, flags=re.S)
+
+
 def page_text(drafts: Path, checked: Path, leaf: str) -> tuple[str, list[str]]:
     draft = (drafts / f"{leaf}.md").read_text()
     fixes_path = checked / f"{leaf}.jsonl"
@@ -308,7 +340,7 @@ def page_text(drafts: Path, checked: Path, leaf: str) -> tuple[str, list[str]]:
     body = re.sub(r"\s*<!-- margin: .*? -->\s*", "\n", text, flags=re.S).strip()
     draft_body = re.sub(r"\s*<!-- margin: .*? -->\s*", "\n", draft, flags=re.S).strip()
     body = place_notes(draft_body, body, margin_anchors(drafts, leaf, plain_and_mask(draft_body)[0], fixes, plain_and_mask(body)[0]))
-    return body, margin
+    return untable(body), margin
 
 
 def running_head(drafts: Path, leaf: str) -> tuple[str, str]:
@@ -347,13 +379,26 @@ def tidy(text: str) -> str:
             p = re.sub(r"-(\*?)\n(\*?)(?=[a-zæœ])", r"\1\2", p).replace("\n", " ")
             # A gutter section letter read in front of an italic run ("D *Habebat").
             p = re.sub(r"\A[A-D] (?=\*)", "", p)
+            # A gutter letter read into a word broken at the line end ("fructificanti- B bus"),
+            # or between two words ("semel et B iterum"): Latin has no lone capital there.
+            p = re.sub(r"(?<=[a-zæœ])- [A-D] (?=\**[a-zæœ])", "- ", p)
+            p = re.sub(r"(?<=[a-zæœ,;:]) [A-D] (?=\**[a-zæœ])", " ", p)
             # Line-end hyphens brought back by fixes ("die- rum").
-            p = re.sub(r"(?<=[a-zæœ])- (?=[a-zæœ])", "", p)
+            p = re.sub(r"(?<=[a-zæœ])- (?=\**[a-zæœ])", "", p)
             # Rebuild the italics from scratch: markers left by page and line breaks
             # ("ani**mam", "est.* *Adoravit") come out as one balanced run.
-            p = render(*plain_and_mask(p))
+            p = render(*whole_words(*plain_and_mask(p)))
         paragraphs.append(p)
     return "\n\n".join(paragraphs)
+
+
+def whole_words(plain: str, mask: list[bool]) -> tuple[str, list[bool]]:
+    """Italics by whole words: a run the proofreader began or ended inside a word
+    (at a page or column break, "pleni*tudine", "*Lavi pe*des") covers the word."""
+    for m in re.finditer(r"[^\W\d_]+", plain):
+        if any(mask[m.start():m.end()]):
+            mask[m.start():m.end()] = [True] * (m.end() - m.start())
+    return plain, mask
 
 
 def join_pages(pages: list[str]) -> str:
