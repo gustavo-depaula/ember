@@ -2,13 +2,16 @@
   "id": "councils-nicaea-ii",
   "cover": "quarter",
   "name": {
-    "en-US": "Nicaea II (787)"
+    "en-US": "Nicaea II (787)",
+    "pt-BR": "Niceia II (787)"
   },
   "author": {
-    "en-US": "Councils"
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Nicaea II (787)"
+        "en-US": "Nicaea II (787)",
+        "pt-BR": "Niceia II (787)"
       }
     }
   ]
