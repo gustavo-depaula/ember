@@ -2,13 +2,16 @@
   "id": "augustine-marriage-and-concupiscence",
   "cover": "quarter",
   "name": {
-    "en-US": "On Marriage and Concupiscence"
+    "en-US": "On Marriage and Concupiscence",
+    "pt-BR": "Sobre o Matrimônio e a Concupiscência"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,19 +24,22 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Companion Letter"
+        "en-US": "Companion Letter",
+        "pt-BR": "Carta de Envio"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     }
   ]
