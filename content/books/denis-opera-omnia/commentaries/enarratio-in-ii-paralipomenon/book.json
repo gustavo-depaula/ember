@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "Enarratio in librum secundum Paralipomenon, cum expositione orationis Manassæ.",
-    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/operaomniainunum04deni",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. IV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. IV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -514,29 +514,13 @@
     {
       "id": "g027",
       "title": {
-        "la": "Caput 27",
-        "en-US": "Chapter 27",
-        "pt-BR": "Capítulo 27"
+        "la": "Caput 28",
+        "en-US": "Chapter 28",
+        "pt-BR": "Capítulo 28"
       },
       "children": [
         {
           "id": "c029",
-          "title": {
-            "la": "Articulus 28",
-            "en-US": "Article 28",
-            "pt-BR": "Artigo 28"
-          }
-        },
-        {
-          "id": "c030",
-          "title": {
-            "la": "Articulus 27",
-            "en-US": "Article 27",
-            "pt-BR": "Artigo 27"
-          }
-        },
-        {
-          "id": "c031",
           "title": {
             "la": "Articulus 28",
             "en-US": "Article 28",
@@ -554,7 +538,7 @@
       },
       "children": [
         {
-          "id": "c032",
+          "id": "c030",
           "title": {
             "la": "Articulus 29",
             "en-US": "Article 29",
@@ -572,7 +556,7 @@
       },
       "children": [
         {
-          "id": "c033",
+          "id": "c031",
           "title": {
             "la": "Articulus 30",
             "en-US": "Article 30",
@@ -590,7 +574,7 @@
       },
       "children": [
         {
-          "id": "c034",
+          "id": "c032",
           "title": {
             "la": "Articulus 31",
             "en-US": "Article 31",
@@ -608,7 +592,7 @@
       },
       "children": [
         {
-          "id": "c035",
+          "id": "c033",
           "title": {
             "la": "Articulus 32",
             "en-US": "Article 32",
@@ -626,7 +610,7 @@
       },
       "children": [
         {
-          "id": "c036",
+          "id": "c034",
           "title": {
             "la": "Articulus 33",
             "en-US": "Article 33",
@@ -644,7 +628,7 @@
       },
       "children": [
         {
-          "id": "c037",
+          "id": "c035",
           "title": {
             "la": "Articulus 34",
             "en-US": "Article 34",
@@ -662,7 +646,7 @@
       },
       "children": [
         {
-          "id": "c038",
+          "id": "c036",
           "title": {
             "la": "Articulus 35",
             "en-US": "Article 35",
@@ -680,7 +664,7 @@
       },
       "children": [
         {
-          "id": "c039",
+          "id": "c037",
           "title": {
             "la": "Articulus 36",
             "en-US": "Article 36",
