@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "De laudibus Dei.",
-    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "One of Denis the Carthusian's minor works.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/doctorisecstati10unkngoog",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -102,9 +102,9 @@
     {
       "id": "c010",
       "title": {
-        "la": "Laus Dei ut simpleæ",
-        "en-US": "Laus Dei ut simpleæ",
-        "pt-BR": "Laus Dei ut simpleæ"
+        "la": "Laus Dei ut simplex",
+        "en-US": "Laus Dei ut simplex",
+        "pt-BR": "Laus Dei ut simplex"
       }
     },
     {
@@ -222,17 +222,17 @@
     {
       "id": "c025",
       "title": {
-        "la": "Laus Spiritus Sancti",
-        "en-US": "Laus Spiritus Sancti",
-        "pt-BR": "Laus Spiritus Sancti"
+        "la": "Laus filii Dei",
+        "en-US": "Laus filii Dei",
+        "pt-BR": "Laus filii Dei"
       }
     },
     {
       "id": "c026",
       "title": {
-        "la": "Laus filii Dei",
-        "en-US": "Laus filii Dei",
-        "pt-BR": "Laus filii Dei"
+        "la": "Laus Spiritus Sancti",
+        "en-US": "Laus Spiritus Sancti",
+        "pt-BR": "Laus Spiritus Sancti"
       }
     },
     {

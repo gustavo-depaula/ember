@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "In librum De mystica theologia, cum difficultatum absolutionibus.",
-    "en-US": "Denis the Carthusian's commentary on the Areopagite, printed beside the Latin versions of Eriugena, Sarracenus, Traversari and Ficino and the paraphrase of Thomas Gallus. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "O comentário de Dionísio, o Cartuxo, ao Areopagita, impresso ao lado das versões latinas de Erígena, Sarraceno, Traversari e Ficino e da paráfrase de Tomás Galo. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "Denis the Carthusian's commentary on the Areopagite, printed beside the Latin versions of Eriugena, Sarracenus, Traversari and Ficino and the paraphrase of Thomas Gallus.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, ao Areopagita, impresso ao lado das versões latinas de Erígena, Sarraceno, Traversari e Ficino e da paráfrase de Tomás Galo."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/operaomniainunu16deni",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XVI (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XVI (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [

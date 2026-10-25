@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "De laudibus superlaudabilis Dei.",
-    "en-US": "One of Denis the Carthusian's minor works. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "One of Denis the Carthusian's minor works.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/doctorisecstati10unkngoog",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -214,13 +214,21 @@
     {
       "id": "c024",
       "title": {
+        "la": "Laus Dei ex evangelio, de alta Christi doctrina",
+        "en-US": "Laus Dei ex evangelio, de alta Christi doctrina",
+        "pt-BR": "Laus Dei ex evangelio, de alta Christi doctrina"
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
         "la": "Laus Dei ex evangelio, de variis Christi documentis",
         "en-US": "Laus Dei ex evangelio, de variis Christi documentis",
         "pt-BR": "Laus Dei ex evangelio, de variis Christi documentis"
       }
     },
     {
-      "id": "c025",
+      "id": "c026",
       "title": {
         "la": "Laus Dei ex evangelio, de futuro judicio",
         "en-US": "Laus Dei ex evangelio, de futuro judicio",
@@ -228,7 +236,7 @@
       }
     },
     {
-      "id": "c026",
+      "id": "c027",
       "title": {
         "la": "Laus Dei ex evangelio, de cœna Domini",
         "en-US": "Laus Dei ex evangelio, de cœna Domini",
@@ -236,7 +244,7 @@
       }
     },
     {
-      "id": "c027",
+      "id": "c028",
       "title": {
         "la": "Laus Dei ex evangelio, de sermone",
         "en-US": "Laus Dei ex evangelio, de sermone",
@@ -244,7 +252,7 @@
       }
     },
     {
-      "id": "c028",
+      "id": "c029",
       "title": {
         "la": "Laus Dei ex evangelio, de eodem",
         "en-US": "Laus Dei ex evangelio, de eodem",
@@ -252,7 +260,7 @@
       }
     },
     {
-      "id": "c029",
+      "id": "c030",
       "title": {
         "la": "Laus Dei ex evangelio, de passione",
         "en-US": "Laus Dei ex evangelio, de passione",
@@ -260,7 +268,7 @@
       }
     },
     {
-      "id": "c030",
+      "id": "c031",
       "title": {
         "la": "Laus Dei ex evangelio, de Christi resurrectione",
         "en-US": "Laus Dei ex evangelio, de Christi resurrectione",
@@ -268,7 +276,7 @@
       }
     },
     {
-      "id": "c031",
+      "id": "c032",
       "title": {
         "la": "Laus Dei ex epistola pauli ad romanos",
         "en-US": "Laus Dei ex epistola pauli ad romanos",
@@ -276,7 +284,7 @@
       }
     },
     {
-      "id": "c032",
+      "id": "c033",
       "title": {
         "la": "Laus Dei ex epistola secunda pauli",
         "en-US": "Laus Dei ex epistola secunda pauli",
@@ -284,7 +292,7 @@
       }
     },
     {
-      "id": "c033",
+      "id": "c034",
       "title": {
         "la": "Laus Dei ex epistola pauli apostoli",
         "en-US": "Laus Dei ex epistola pauli apostoli",
@@ -292,7 +300,7 @@
       }
     },
     {
-      "id": "c034",
+      "id": "c035",
       "title": {
         "la": "Laus Dei ex secunda pauli ad",
         "en-US": "Laus Dei ex secunda pauli ad",
@@ -300,7 +308,7 @@
       }
     },
     {
-      "id": "c035",
+      "id": "c036",
       "title": {
         "la": "Laus Dei ex prima pauli ad timotheum",
         "en-US": "Laus Dei ex prima pauli ad timotheum",
@@ -308,7 +316,7 @@
       }
     },
     {
-      "id": "c036",
+      "id": "c037",
       "title": {
         "la": "Laus Dei ex secunda pauli ad timotheum",
         "en-US": "Laus Dei ex secunda pauli ad timotheum",
@@ -316,7 +324,7 @@
       }
     },
     {
-      "id": "c037",
+      "id": "c038",
       "title": {
         "la": "Laus Dei ex pauli ad titum epistola",
         "en-US": "Laus Dei ex pauli ad titum epistola",
@@ -324,7 +332,7 @@
       }
     },
     {
-      "id": "c038",
+      "id": "c039",
       "title": {
         "la": "Laus Dei ex canonica jacobi apostoli",
         "en-US": "Laus Dei ex canonica jacobi apostoli",
@@ -332,7 +340,7 @@
       }
     },
     {
-      "id": "c039",
+      "id": "c040",
       "title": {
         "la": "Laus Dei ex prima canonica petri apostoli",
         "en-US": "Laus Dei ex prima canonica petri apostoli",
@@ -340,7 +348,7 @@
       }
     },
     {
-      "id": "c040",
+      "id": "c041",
       "title": {
         "la": "Laus Dei ex secunda et tertia joannis",
         "en-US": "Laus Dei ex secunda et tertia joannis",
@@ -348,7 +356,7 @@
       }
     },
     {
-      "id": "c041",
+      "id": "c042",
       "title": {
         "la": "Laus Dei ex canonica judæ",
         "en-US": "Laus Dei ex canonica judæ",
@@ -356,7 +364,7 @@
       }
     },
     {
-      "id": "c042",
+      "id": "c043",
       "title": {
         "la": "Laus Dei ex actibus apostolorum",
         "en-US": "Laus Dei ex actibus apostolorum",
@@ -364,7 +372,7 @@
       }
     },
     {
-      "id": "c043",
+      "id": "c044",
       "title": {
         "la": "Laus Dei ex apocalypsi joannis apostoli",
         "en-US": "Laus Dei ex apocalypsi joannis apostoli",
@@ -372,7 +380,7 @@
       }
     },
     {
-      "id": "c044",
+      "id": "c045",
       "title": {
         "la": "Laus Dei de eodem",
         "en-US": "Laus Dei de eodem",
@@ -380,7 +388,7 @@
       }
     },
     {
-      "id": "c045",
+      "id": "c046",
       "title": {
         "la": "Laus Dei de angelicis spiritibus",
         "en-US": "Laus Dei de angelicis spiritibus",
@@ -388,7 +396,7 @@
       }
     },
     {
-      "id": "c046",
+      "id": "c047",
       "title": {
         "la": "Laus Dei de cherubim",
         "en-US": "Laus Dei de cherubim",
@@ -396,7 +404,7 @@
       }
     },
     {
-      "id": "c047",
+      "id": "c048",
       "title": {
         "la": "Laus Dei de thronis",
         "en-US": "Laus Dei de thronis",
@@ -404,7 +412,7 @@
       }
     },
     {
-      "id": "c048",
+      "id": "c049",
       "title": {
         "la": "Laus Dei de ordine potestatum",
         "en-US": "Laus Dei de ordine potestatum",
@@ -412,7 +420,15 @@
       }
     },
     {
-      "id": "c049",
+      "id": "c050",
+      "title": {
+        "la": "Laus Dei de ordine principatuum",
+        "en-US": "Laus Dei de ordine principatuum",
+        "pt-BR": "Laus Dei de ordine principatuum"
+      }
+    },
+    {
+      "id": "c051",
       "title": {
         "la": "Laus Dei de ordine archangelorum",
         "en-US": "Laus Dei de ordine archangelorum",
@@ -420,7 +436,7 @@
       }
     },
     {
-      "id": "c050",
+      "id": "c052",
       "title": {
         "la": "Laus Dei de ordine angelorum",
         "en-US": "Laus Dei de ordine angelorum",
@@ -428,7 +444,7 @@
       }
     },
     {
-      "id": "c051",
+      "id": "c053",
       "title": {
         "la": "Laus Dei de ejus dignatione ad nos",
         "en-US": "Laus Dei de ejus dignatione ad nos",
@@ -436,7 +452,7 @@
       }
     },
     {
-      "id": "c052",
+      "id": "c054",
       "title": {
         "la": "Laus Dei de hierarchiis communiter",
         "en-US": "Laus Dei de hierarchiis communiter",
@@ -444,7 +460,7 @@
       }
     },
     {
-      "id": "c053",
+      "id": "c055",
       "title": {
         "la": "Laus Dei de gradibus hominum",
         "en-US": "Laus Dei de gradibus hominum",
@@ -452,7 +468,7 @@
       }
     },
     {
-      "id": "c054",
+      "id": "c056",
       "title": {
         "la": "Laus Dei de numero et ordine",
         "en-US": "Laus Dei de numero et ordine",
@@ -460,7 +476,7 @@
       }
     },
     {
-      "id": "c055",
+      "id": "c057",
       "title": {
         "la": "Laus Dei de elementis et mundi",
         "en-US": "Laus Dei de elementis et mundi",
@@ -468,7 +484,7 @@
       }
     },
     {
-      "id": "c056",
+      "id": "c058",
       "title": {
         "la": "Laus Dei de impressionibus aeris",
         "en-US": "Laus Dei de impressionibus aeris",
@@ -476,7 +492,7 @@
       }
     },
     {
-      "id": "c057",
+      "id": "c059",
       "title": {
         "la": "Laus Dei de consummatione mundi",
         "en-US": "Laus Dei de consummatione mundi",
