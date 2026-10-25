@@ -1,13 +1,6 @@
 {
 	"sections": [
 		{
-			"type": "rubric",
-			"text": {
-				"en-US": "Two or three minutes at midday, customarily right after the Angelus. One single point — the defect you are uprooting or the virtue you are growing, settled with your spiritual director and kept for weeks. Not three points. One.",
-				"pt-BR": "Dois ou três minutos ao meio-dia, costumeiramente logo depois do Angelus. Um único ponto — o defeito que você está a arrancar ou a virtude que está a fazer crescer, assentado com o seu diretor espiritual e mantido por semanas. Não três pontos. Um."
-			}
-		},
-		{
 			"type": "prayer",
 			"ref": "sign-of-cross"
 		},
@@ -22,17 +15,14 @@
 			}
 		},
 		{
-			"type": "rubric",
-			"text": {
-				"en-US": "St. Ignatius has you begin by asking God for what you want: grace to remember how many times you have fallen into this one fault since you rose.",
-				"pt-BR": "Santo Inácio manda começar pedindo a Deus o que se deseja: a graça de recordar quantas vezes se caiu nesta única falta desde que se levantou."
-			}
+			"type": "prayer",
+			"ref": "come-holy-spirit"
 		},
 		{
 			"type": "prayer",
 			"inline": {
-				"en-US": "Lord, give me light to see this one thing as You see it, and the honesty not to look away.",
-				"pt-BR": "Senhor, dai-me luz para ver esta única coisa como Vós a vedes, e a honestidade de não desviar o olhar."
+				"en-US": "O my God, give me light to know my sins and see their real deformity, and to realize what a bad and bitter thing it is to stray from Thee. Grant me grace to see clearly my miseries, and to detest them with all my heart.",
+				"pt-BR": "Ó meu Deus, dai-me luz para conhecer os meus pecados e ver a sua verdadeira deformidade, e para compreender quão má e amarga coisa é afastar-me de Vós. Concedei-me a graça de ver claramente as minhas misérias e de detestá-las de todo o coração."
 			}
 		},
 		{
@@ -41,62 +31,16 @@
 		{
 			"type": "subheading",
 			"text": {
-				"en-US": "The morning, on this one point",
-				"pt-BR": "A manhã, sobre este único ponto"
+				"en-US": "The Morning, on This One Point",
+				"pt-BR": "A Manhã, sobre Este Único Ponto"
 			}
 		},
 		{
 			"type": "meditation",
 			"text": {
-				"en-US": "*Your particular examination should be directed towards the acquisition of a definite virtue or the rooting out of your predominant defect.* (The Way §241)\n\nGo back over the morning on that alone — hour by hour, from when you rose until now. How many times? Where, and with whom? What went before it each time?\n\nSt. Ignatius had the retreatant mark the count with dots on a line, and compare today's line with yesterday's. That is not scrupulosity; it is evidence. Vague good intentions cannot be measured, and what cannot be measured does not change.",
-				"pt-BR": "*O teu exame particular há de ir dirigido à aquisição de uma virtude determinada ou ao desenraizamento do defeito dominante.* (Caminho §241)\n\nPercorra a manhã só quanto a isso — hora a hora, desde que se levantou até agora. Quantas vezes? Onde, e com quem? O que precedeu cada uma delas?\n\nSanto Inácio mandava marcar a conta com pontos numa linha, e comparar a linha de hoje com a de ontem. Isso não é escrúpulo; é evidência. Bons propósitos vagos não se podem medir, e o que não se pode medir não muda."
+				"en-US": "*Your particular examination should be directed towards the acquisition of a definite virtue or the rooting out of your predominant defect.* (The Way §241)\n\n*Toward noon, ask of God the grace to remember how often you have fallen into it, and to avoid it for the future. Then examine, thinking over the time passed since your rising, ascertaining the number of faults committed, and marking them by so many points in the first line of a table. This done, renew your resolutions for the rest of the day.*\n\n*At each fault against the resolutions you have taken, as soon as you recollect yourself, put your hand on your heart and repent of your fall. This can be done without being observed by any one.*",
+				"pt-BR": "*Com o exame particular tens de procurar diretamente adquirir uma virtude determinada ou arrancar o defeito que te domina.* (Caminho §241)\n\n*Por volta do meio-dia, peça a Deus a graça de lembrar quantas vezes caiu nesse pecado ou defeito, e de evitá-lo no futuro. Depois examine, repassando o tempo decorrido desde que se levantou, apurando o número de faltas cometidas e marcando-as com outros tantos pontos na primeira linha de uma tabela. Feito isso, renove os seus propósitos para o resto do dia.*\n\n*A cada falta contra os propósitos que fez, assim que se der conta, ponha a mão sobre o coração e arrependa-se da queda. Isso pode ser feito sem que ninguém perceba.*"
 			}
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "select",
-			"label": {
-				"en-US": "As it went",
-				"pt-BR": "Conforme correu"
-			},
-			"pickerStyle": "chips",
-			"default": "contrition",
-			"options": [
-				{
-					"id": "contrition",
-					"label": {
-						"en-US": "Contrition",
-						"pt-BR": "Contrição"
-					},
-					"sections": [
-						{
-							"type": "prayer",
-							"inline": {
-								"en-US": "My God, I am sorry for this, and I would rather not have done it. Not because it shames me, but because it is beneath what You made me for. Help me this afternoon, since I cannot do it alone.",
-								"pt-BR": "Meu Deus, tenho pena disto, e preferia não o ter feito. Não porque me envergonhe, mas porque fica aquém daquilo para que Vós me criastes. Ajudai-me esta tarde, pois sozinho não sou capaz."
-							}
-						}
-					]
-				},
-				{
-					"id": "thanksgiving",
-					"label": {
-						"en-US": "Thanksgiving",
-						"pt-BR": "Ação de graças"
-					},
-					"sections": [
-						{
-							"type": "prayer",
-							"inline": {
-								"en-US": "Thank You, my God. Whatever went well here was Yours before it was mine. Keep me from taking it for my own, and hold me in it this afternoon.",
-								"pt-BR": "Obrigado, meu Deus. O que aqui correu bem era vosso antes de ser meu. Guardai-me de o tomar como meu e sustentai-me nele esta tarde."
-							}
-						}
-					]
-				}
-			]
 		},
 		{
 			"type": "divider"
@@ -104,19 +48,44 @@
 		{
 			"type": "subheading",
 			"text": {
-				"en-US": "Purpose for the afternoon",
-				"pt-BR": "Propósito para a tarde"
+				"en-US": "Act of Sorrow",
+				"pt-BR": "Ato de Dor"
 			}
 		},
 		{
-			"type": "rubric",
-			"text": {
-				"en-US": "One concrete purpose for this afternoon, on the same point.",
-				"pt-BR": "Um propósito concreto para esta tarde, sobre o mesmo ponto."
+			"type": "prayer",
+			"inline": {
+				"en-US": "O my dear Lord, through Thy infinite mercy pardon me my many sins and faults. I am heartily sorry for them, because by them I have grieved and wounded Thy Sacred Heart and rendered myself so unworthy of Thy love. I am sorry from my heart for the ungrateful return I have made Thee for all Thy goodness to me. Forgive me, dear Lord, pierce my heart with true sorrow. I love Thee above all things.",
+				"pt-BR": "Ó meu querido Senhor, pela Vossa infinita misericórdia perdoai-me os meus muitos pecados e faltas. Arrependo-me deles de todo o coração, porque com eles entristeci e feri o Vosso Sagrado Coração e me tornei tão indigno do Vosso amor. Arrependo-me de todo o coração da ingrata retribuição que Vos dei por toda a Vossa bondade para comigo. Perdoai-me, querido Senhor, traspassai o meu coração de verdadeira dor. Amo-Vos sobre todas as coisas."
 			}
 		},
 		{
 			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Purpose of Amendment",
+				"pt-BR": "Propósito de Emenda"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "My Lord and my God, I now firmly resolve with Thy help to correct my faults — to overcome specially that one, N.N., which I am determined not to commit again. Confirm this my resolution by the merits of Thy bitter Passion and death, which I now offer in satisfaction for my sins. My dear Jesus! I unite my poor heart with Thine all wounded and torn. May Thy Heart be a hiding-place in which I may dwell securely. My heart is ready, O my God! my heart is ready to make atonement for my sins, to adopt the means of correcting my faults.",
+				"pt-BR": "Meu Senhor e meu Deus, resolvo agora firmemente, com a Vossa ajuda, corrigir as minhas faltas — vencer especialmente aquela, N.N., que estou decidido a não cometer mais. Confirmai esta minha resolução pelos méritos da Vossa amarga Paixão e morte, que agora Vos ofereço em satisfação pelos meus pecados. Meu querido Jesus! Uno o meu pobre coração ao Vosso, todo ferido e dilacerado. Seja o Vosso Coração um refúgio onde eu possa habitar em segurança. O meu coração está pronto, ó meu Deus! O meu coração está pronto para reparar os meus pecados, para adotar os meios de corrigir as minhas faltas."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
 		},
 		{
 			"type": "prayer",

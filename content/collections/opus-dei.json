@@ -59,6 +59,7 @@
 			},
 			"blocks": [
 				{ "kind": "item", "ref": "practice/angelus" },
+				{ "kind": "item", "ref": "practice/particular-examination" },
 				{ "kind": "item", "ref": "practice/visit-blessed-sacrament" },
 				{ "kind": "item", "ref": "practice/preces-opus-dei" }
 			]
