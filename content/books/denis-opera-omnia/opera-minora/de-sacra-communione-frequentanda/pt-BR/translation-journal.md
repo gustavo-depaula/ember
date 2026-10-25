@@ -40,15 +40,15 @@ Destino: pt-BR.
 ## Decisões
 
 - Citações bíblicas traduzidas do latim de Dionísio, sem aspas, como na fonte.
-- Referências em notas: algarismos romanos e leituras de OCR evidentes ("vu", "u.", "11" por "ii") convertidos em arábicos. Erros de localização da fonte espelhados, sem correção: c004 [^1] Mateus 21:37-38 (é 22:37-38); c005 [^3] João 12:15 (é 12:25); as notas deslocadas de c006 e c007 [^1]; c007 [^9] "Filipenses vi." e [^10] "Colossenses vi.", mantidos em romanos por serem ilegíveis (os locais corretos aparecem em c008 [^1]). A nota de Miqueias em c001 fica no fim do ¶4, como na fonte.
-- Quebras de página da fonte mantidas: c002 ¶5–6 ("sub-" / "traído", com a nota ¹ da edição de Colônia no meio) e c008 ¶5 ("sacramen-", texto interrompido na fonte).
+- Referências em notas: algarismos romanos convertidos em arábicos. As notas foram refeitas a partir dos escaneamentos (pp. 443–451) em 2026-10-25: cada uma é a referência impressa na margem ao lado da linha que marca, com os algarismos lidos na página (1 Cor. xi, não xii), e as referências da p. 446 (Artigo 4), que a leitura tinha perdido, foram restituídas.
+- Quebras de página da fonte corrigidas pelos escaneamentos: o título repetido no fim do Proêmio sai, e a nota da edição de Colônia vira nota de rodapé do título; "sub-" / "traído" em c002 se junta ("subtraído"); e a oração *tum, quia incertus est an exstet in caritate*, que a leitura tinha posto no ¶1 de c008, volta a fechar "sacramen-tum" no ¶3.
 - c005 ¶5: o "A" solto no início ("A Evangelio") é marca de coluna do escaneamento; omitido.
 - c008 ¶3: o fragmento deslocado "tum, quia incertus est an exstet in caritate.[^1] ipsarum" traduzido no lugar, ligando "ipsarum" a "indignidade ou indisposição delas".
 - c001 ¶3: *supergloriosissima* → "supergloriosíssima", conservando o gosto de Dionísio pelos compostos com *super-*.
 - c002 ¶6: *Joannes Soter* → "Johannes Soter", nome do impressor de Colônia.
 - c006 ¶4: *peccatum ariolandi* → "pecado de agourar", para distinguir da glosa *crimen ariolationis* → "crime da adivinhação".
 - c006 ¶7: *draco* → "serpente".
-- Notas do tradutor: c006 [^16] sobre as *Vitae Patrum*; c008 [^4] sobre "pão supersubstancial" (Vulgata, Mateus 6:11). Cada definição vem logo após o parágrafo a que serve.
+- Notas do tradutor: c006, sobre as *Vitae Patrum*; c008, sobre "pão supersubstancial" (Vulgata, Mateus 6:11). Ficam entre as notas do capítulo, na ordem do texto.
 - c003: o juízo do autor sobre as mulheres é traduzido fielmente, sem atenuação nem comentário.
 
 ## Review log

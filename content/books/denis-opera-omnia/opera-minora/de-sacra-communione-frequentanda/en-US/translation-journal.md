@@ -26,8 +26,8 @@ Target: en-US.
 ## Translation Decisions
 
 - Scripture is rendered from the Latin as Denis quotes it, in plain modern English, not from a printed Bible.
-- Footnote references take English abbreviations (I Reg. → 1 Sam., Eccle. → Eccles., Apoc. → Rev.). The scanned numerals that are plain OCR slips are read as meant (Matth. vu → Matt. 7; 1 Tim. 11 → 1 Tim. 2; Philipp. u. → Phil. 2). Otherwise the notes are given as the edition has them, even where a note does not match its passage (several in Articles 5 and 6), and "Phil. vi." and "Col. vi." are kept without a verse.
-- The edition's page-break artifacts are kept where they fall, so the files stay paragraph for paragraph with the Latin: the repeated running title at the end of the Proem, the Cologne-edition note (¹) that interrupts *sub-trahitur* in Article 1 (rendered "with-" / "held"), and the sentence broken off at *sacramen-* in Article 7. The marginal letter "A" before *Evangelio* in Article 4 is a column mark and is dropped.
+- Footnote references take English abbreviations (I Reg. → 1 Sam., Eccle. → Eccles., Apoc. → Rev.). The notes were rebuilt from the scans (pp. 443–451) on 2026-10-25: each is the reference printed in the margin beside the line it marks, numerals read off the page (1 Cor. xi, not xii), and Article 4's page of references, which the reading had missed, restored.
+- The edition's page-break artifacts were repaired from the scans: the running title repeated at the end of the Proem is dropped, and its Cologne-edition note is a footnote on the title; *sub-trahitur* in Article 1 is joined ("withheld"); and Article 7's clause *tum, quia incertus est an exstet in caritate*, which the reading had moved to the first paragraph, ends *sacramen-tum* again. The marginal letter "A" before *Evangelio* in Article 4 is a column mark and is dropped.
 - Article 2's account of women's nature is translated as written; it is Denis's, and is not softened or annotated.
 - No translator's notes: the text needs none to be understood.
 - American spelling throughout (Savior, judgment, honor, labor).
