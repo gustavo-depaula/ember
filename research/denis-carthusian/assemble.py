@@ -33,6 +33,7 @@ from apply_fixes import apply, plain_and_mask, render
 from catalogue import roman as roman_numeral
 from ocr_local import in_margin, only_references, scripture_ref, text_cells
 from run_volumes import data, volume_zip
+from snap_notes import snap
 
 repo = Path(__file__).resolve().parents[2]
 
@@ -531,7 +532,7 @@ def main(work_path: Path) -> None:
     for old in (out / "la").glob("*.md"):
         old.unlink()
     for c in chapters:
-        (out / "la" / f"{c['id']}.md").write_text(f"# {c['la']}\n\n{with_footnotes(c['body'])}\n")
+        (out / "la" / f"{c['id']}.md").write_text(snap(f"# {c['la']}\n\n{with_footnotes(c['body'])}\n", Counter()))
     (out / "sources" / "latin-originals").mkdir(parents=True, exist_ok=True)
     (out / "sources" / "latin-originals" / f"{work['slug']}.txt").write_text("\n\n".join(source) + "\n")
 
@@ -910,7 +911,7 @@ def assemble_parts(work: dict) -> None:
         old.unlink()
     for c in chapters:
         body = "\n".join(c["lines"]).strip()
-        (out / "la" / f"{c['id']}.md").write_text(f"# {c['title']['la']}\n\n{with_footnotes(body)}\n")
+        (out / "la" / f"{c['id']}.md").write_text(snap(f"# {c['title']['la']}\n\n{with_footnotes(body)}\n", Counter()))
     if not work.get("draft"):
         (out / "sources" / "latin-originals").mkdir(parents=True, exist_ok=True)
         (out / "sources" / "latin-originals" / f"{work['slug']}.txt").write_text("\n\n".join(source) + "\n")
