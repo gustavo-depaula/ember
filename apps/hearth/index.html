@@ -62,12 +62,12 @@
       letter-spacing: -0.005em;
     }
     .lede { max-width: 30rem; margin: 1.75rem 0 2.25rem; font-size: 1.3rem; line-height: 1.5; }
-    .status { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.5rem; }
-    .stores { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 0.9rem; }
-    .stores a { display: flex; flex-direction: column; align-items: center; gap: 0.35rem; text-decoration: none; transition: transform 0.2s ease; }
+    .status { display: flex; flex-direction: column; align-items: flex-start; gap: 1.25rem; }
+    .stores { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+    .stores a { display: block; transition: transform 0.2s ease; }
     .stores a:hover { transform: translateY(-2px); }
     .stores img { height: 3.25rem; width: auto; }
-    .stores small { font: 0.66rem Cinzel, serif; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); }
+    .beta { margin: -0.6rem 0 0; font: 0.66rem Cinzel, serif; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); }
     .phone { width: min(100%, 19rem); border-radius: 2.6rem; border: 1px solid rgba(201, 168, 76, 0.35); box-shadow: 0 2.5rem 5rem rgba(0, 0, 0, 0.7); }
     .hero .phone { justify-self: center; transform: rotate(2deg); }
     @media (max-width: 52rem) {
@@ -157,15 +157,16 @@
           <div class="status">
             <div class="stores">
               <a href="https://play.google.com/store/apps/details?id=me.dpgu.ember">
-                <img lang="en" src="site/img/badges/google-play-en.webp" width="564" height="168" alt="Get it on Google Play">
-                <img lang="pt-BR" src="site/img/badges/google-play-pt.webp" width="646" height="192" alt="Disponível no Google Play">
+                <img lang="en" src="site/img/badges/google-play-en.svg" width="180" height="53" alt="Get it on Google Play">
+                <img lang="pt-BR" src="site/img/badges/google-play-pt.svg" width="239" height="71" alt="Disponível no Google Play">
               </a>
               <!-- The App Store listing is still in review; until then iPhones install through TestFlight's public link. -->
               <a href="https://testflight.apple.com/join/g2bQGgAG">
                 <img src="site/img/badges/app-store.svg" width="120" height="40" alt="Download on the App Store">
-                <small lang="en">Beta via TestFlight</small><small lang="pt-BR">Beta pelo TestFlight</small>
               </a>
             </div>
+            <p class="beta" lang="en">On iPhone, a beta through TestFlight</p>
+            <p class="beta" lang="pt-BR">No iPhone, uma versão beta pelo TestFlight</p>
             <a href="#inside"><span lang="en">See what is inside</span><span lang="pt-BR">Veja o que há dentro</span></a>
             <!-- web:hero -->
           </div>
