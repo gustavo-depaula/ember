@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "Enarratio in Jonam.",
-    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/operaomniainunum10deni",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. X (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. X (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [

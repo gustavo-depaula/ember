@@ -13,14 +13,14 @@
   },
   "description": {
     "la": "Enarratio in Isaiam.",
-    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition. Uncorrected OCR text: not yet proofread against the scans.",
-    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil. Texto do OCR ainda não revisto contra as digitalizações."
+    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
   },
   "sources": [
     {
       "language": "la",
       "url": "https://archive.org/details/operaomniainunum08deni",
-      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. VIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr and not yet proofread (research/denis-carthusian)."
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. VIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
     }
   ],
   "languages": [
@@ -1100,14 +1100,6 @@
             "en-US": "Article 82",
             "pt-BR": "Artigo 82"
           }
-        },
-        {
-          "id": "c073",
-          "title": {
-            "la": "Articulus 83",
-            "en-US": "Article 83",
-            "pt-BR": "Artigo 83"
-          }
         }
       ]
     },
@@ -1120,7 +1112,7 @@
       },
       "children": [
         {
-          "id": "c074",
+          "id": "c073",
           "title": {
             "la": "Articulus 83",
             "en-US": "Article 83",
@@ -1138,7 +1130,7 @@
       },
       "children": [
         {
-          "id": "c075",
+          "id": "c074",
           "title": {
             "la": "Articulus 84",
             "en-US": "Article 84",
@@ -1156,7 +1148,7 @@
       },
       "children": [
         {
-          "id": "c076",
+          "id": "c075",
           "title": {
             "la": "Articulus 85",
             "en-US": "Article 85",
@@ -1174,7 +1166,7 @@
       },
       "children": [
         {
-          "id": "c077",
+          "id": "c076",
           "title": {
             "la": "Articulus 86",
             "en-US": "Article 86",
@@ -1192,7 +1184,7 @@
       },
       "children": [
         {
-          "id": "c078",
+          "id": "c077",
           "title": {
             "la": "Articulus 87",
             "en-US": "Article 87",
@@ -1210,7 +1202,7 @@
       },
       "children": [
         {
-          "id": "c079",
+          "id": "c078",
           "title": {
             "la": "Articulus 89",
             "en-US": "Article 89",
@@ -1228,7 +1220,7 @@
       },
       "children": [
         {
-          "id": "c080",
+          "id": "c079",
           "title": {
             "la": "Articulus 90",
             "en-US": "Article 90",
@@ -1246,7 +1238,7 @@
       },
       "children": [
         {
-          "id": "c081",
+          "id": "c080",
           "title": {
             "la": "Articulus 91",
             "en-US": "Article 91",
@@ -1254,7 +1246,7 @@
           }
         },
         {
-          "id": "c082",
+          "id": "c081",
           "title": {
             "la": "Articulus 92",
             "en-US": "Article 92",
@@ -1272,7 +1264,7 @@
       },
       "children": [
         {
-          "id": "c083",
+          "id": "c082",
           "title": {
             "la": "Articulus 93",
             "en-US": "Article 93",
@@ -1290,7 +1282,7 @@
       },
       "children": [
         {
-          "id": "c084",
+          "id": "c083",
           "title": {
             "la": "Articulus 94",
             "en-US": "Article 94",
@@ -1308,7 +1300,7 @@
       },
       "children": [
         {
-          "id": "c085",
+          "id": "c084",
           "title": {
             "la": "Articulus 95",
             "en-US": "Article 95",
