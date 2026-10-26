@@ -1,5 +1,6 @@
 import { lazy, Suspense, useCallback, useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
+import { useWindowDimensions } from 'react-native'
 import { YStack } from 'tamagui'
 import { Typography } from '@/components'
 import type { Cluster } from '@/lib/mass-times'
@@ -23,8 +24,15 @@ const regionZoomRatio = 1.05
 // Fraction of the visible latitude span to shift the focus camera south by, so the pin lands in the
 // upper area clear of the half-height sheet (pin ends up ~22% from the top, not dead center under it).
 const focusOffsetFraction = 0.28
-// Fallback visible span at `userZoom` on a phone, until the first real camera move reports one.
+// Visible span before the first real camera move reports one.
 const fallbackLatitudeDelta = 0.07
+
+// The latitude span a screen `heightPt` tall shows at `zoom` (256-pt tiles, Web Mercator). Computed
+// rather than read from the last camera report: Android's MapLibre reports no camera until the map
+// first moves, so a pin tapped straight away was offset by a guess and landed under the sheet.
+function visibleLatitudeSpan(heightPt: number, zoom: number, latitude: number): number {
+  return (heightPt * 360 * Math.cos((latitude * Math.PI) / 180)) / (256 * 2 ** zoom)
+}
 
 // The full-bleed map canvas behind the sheet: it drives the camera through the native ref (auto-center
 // on GPS, focus-a-pin), keeps the native pin selection in sync with the sheet, and reports the viewed
@@ -48,6 +56,7 @@ export function ChurchesMap({
 }) {
   const { t } = useTranslation()
   const { location } = nearby
+  const { height: windowHeight } = useWindowDimensions()
 
   const mapRef = useRef<MapHandle>(null)
   // The native view takes its first camera from this; later moves go through the ref. Captured once so
@@ -134,15 +143,13 @@ export function ChurchesMap({
       return
     }
     if (fLat == null || fLng == null) return
-    // Scale the last-seen visible span to the target zoom (each zoom level halves the span).
-    const span = lastCamera.current.latitudeDelta * 2 ** (lastCamera.current.zoom - userZoom)
-    const offset = (Number.isFinite(span) ? span : fallbackLatitudeDelta) * focusOffsetFraction
+    const offset = visibleLatitudeSpan(windowHeight, userZoom, fLat) * focusOffsetFraction
     mapRef.current?.setCameraPosition({
       coordinates: { latitude: fLat - offset, longitude: fLng },
       zoom: userZoom,
     })
     mapRef.current?.select(fId)
-  }, [fId, fLat, fLng])
+  }, [fId, fLat, fLng, windowHeight])
 
   return (
     <YStack flex={1}>
