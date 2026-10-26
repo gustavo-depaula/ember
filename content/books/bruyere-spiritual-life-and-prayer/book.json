@@ -22,151 +22,176 @@
     }
   ],
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "toc": [
     {
       "id": "c01",
       "title": {
-        "en-US": "Author's Preface"
+        "en-US": "Author's Preface",
+        "pt-BR": "Prefácio da autora"
       }
     },
     {
       "id": "c02",
       "title": {
-        "en-US": "Chapter I: Some General Principles"
+        "en-US": "Chapter I: Some General Principles",
+        "pt-BR": "Capítulo I: Alguns princípios gerais"
       }
     },
     {
       "id": "c03",
       "title": {
-        "en-US": "Chapter II: What is the Spiritual Life?"
+        "en-US": "Chapter II: What is the Spiritual Life?",
+        "pt-BR": "Capítulo II: O que é a vida espiritual?"
       }
     },
     {
       "id": "c04",
       "title": {
-        "en-US": "Chapter III: Who are apt for the Spiritual Life?"
+        "en-US": "Chapter III: Who are apt for the Spiritual Life?",
+        "pt-BR": "Capítulo III: Quem está apto para a vida espiritual?"
       }
     },
     {
       "id": "c05",
       "title": {
-        "en-US": "Chapter IV: That Union with God is a Grace, although it is the End set before all Christians"
+        "en-US": "Chapter IV: That Union with God is a Grace, although it is the End set before all Christians",
+        "pt-BR": "Capítulo IV: A união com Deus é uma graça, embora seja o fim proposto a todos os cristãos"
       }
     },
     {
       "id": "c06",
       "title": {
-        "en-US": "Chapter V: God, by means of the Sacraments, makes His Designs still more evident"
+        "en-US": "Chapter V: God, by means of the Sacraments, makes His Designs still more evident",
+        "pt-BR": "Capítulo V: Deus, por meio dos sacramentos, torna seus desígnios ainda mais evidentes"
       }
     },
     {
       "id": "c07",
       "title": {
-        "en-US": "Chapter VI: Who are they that advance the most rapidly in the spiritual life?"
+        "en-US": "Chapter VI: Who are they that advance the most rapidly in the spiritual life?",
+        "pt-BR": "Capítulo VI: Quem são os que avançam mais rapidamente na vida espiritual?"
       }
     },
     {
       "id": "c08",
       "title": {
-        "en-US": "Chapter VII: The Remote Preparation for Prayer"
+        "en-US": "Chapter VII: The Remote Preparation for Prayer",
+        "pt-BR": "Capítulo VII: A preparação remota para a oração"
       }
     },
     {
       "id": "c09",
       "title": {
-        "en-US": "Chapter VIII: The Treatise on Prayer given by Our Lord Jesus Christ."
+        "en-US": "Chapter VIII: The Treatise on Prayer given by Our Lord Jesus Christ.",
+        "pt-BR": "Capítulo VIII: O tratado sobre a oração dado por Nosso Senhor Jesus Cristo."
       }
     },
     {
       "id": "c10",
       "title": {
-        "en-US": "Chapter IX: Should Mental Prayer be made with Method or Without Method?"
+        "en-US": "Chapter IX: Should Mental Prayer be made with Method or Without Method?",
+        "pt-BR": "Capítulo IX: A oração mental deve ser feita com método ou sem método?"
       }
     },
     {
       "id": "c11",
       "title": {
-        "en-US": "Chapter X: The Divine Office and Mental Prayer"
+        "en-US": "Chapter X: The Divine Office and Mental Prayer",
+        "pt-BR": "Capítulo X: O Ofício Divino e a oração mental"
       }
     },
     {
       "id": "c12",
       "title": {
-        "en-US": "Chapter XI: On Meditation"
+        "en-US": "Chapter XI: On Meditation",
+        "pt-BR": "Capítulo XI: A meditação"
       }
     },
     {
       "id": "c13",
       "title": {
-        "en-US": "Chapter XII: That Mental Prayer is especially indispensable for the Spouses of Christ"
+        "en-US": "Chapter XII: That Mental Prayer is especially indispensable for the Spouses of Christ",
+        "pt-BR": "Capítulo XII: A oração mental é especialmente indispensável às esposas de Cristo"
       }
     },
     {
       "id": "c14",
       "title": {
-        "en-US": "Chapter XIII: Our external enemies and our Angelic Protectors"
+        "en-US": "Chapter XIII: Our external enemies and our Angelic Protectors",
+        "pt-BR": "Capítulo XIII: Nossos inimigos exteriores e nossos protetores angélicos"
       }
     },
     {
       "id": "c15",
       "title": {
-        "en-US": "Chapter XIV: Of the Interior Trials which form the Soul's First Purification"
+        "en-US": "Chapter XIV: Of the Interior Trials which form the Soul's First Purification",
+        "pt-BR": "Capítulo XIV: As provações interiores que constituem a primeira purificação da alma"
       }
     },
     {
       "id": "c16",
       "title": {
-        "en-US": "Chapter XV: Of Contemplation"
+        "en-US": "Chapter XV: Of Contemplation",
+        "pt-BR": "Capítulo XV: A contemplação"
       }
     },
     {
       "id": "c17",
       "title": {
-        "en-US": "Chapter XVI: Of the Unitive Life"
+        "en-US": "Chapter XVI: Of the Unitive Life",
+        "pt-BR": "Capítulo XVI: A vida unitiva"
       }
     },
     {
       "id": "c18",
       "title": {
-        "en-US": "Chapter XVII: Of Prophecy, as understood in Ancient Times"
+        "en-US": "Chapter XVII: Of Prophecy, as understood in Ancient Times",
+        "pt-BR": "Capítulo XVII: A profecia, tal como era entendida na antiguidade"
       }
     },
     {
       "id": "c19",
       "title": {
-        "en-US": "Chapter XVIII: A New Series of Trials which belong to the Unitive Way"
+        "en-US": "Chapter XVIII: A New Series of Trials which belong to the Unitive Way",
+        "pt-BR": "Capítulo XVIII: Uma nova série de provações próprias da via unitiva"
       }
     },
     {
       "id": "c20",
       "title": {
-        "en-US": "Chapter XIX: Of those who are Filled unto all the Fulness of God"
+        "en-US": "Chapter XIX: Of those who are Filled unto all the Fulness of God",
+        "pt-BR": "Capítulo XIX: Aqueles que são preenchidos até toda a plenitude de Deus"
       }
     },
     {
       "id": "c21",
       "title": {
-        "en-US": "Chapter XX: The True Adorers"
+        "en-US": "Chapter XX: The True Adorers",
+        "pt-BR": "Capítulo XX: Os verdadeiros adoradores"
       }
     },
     {
       "id": "c22",
       "title": {
-        "en-US": "Chapter XXI: Of the Place which our Blessed Lady holds in our Spiritual Life"
+        "en-US": "Chapter XXI: Of the Place which our Blessed Lady holds in our Spiritual Life",
+        "pt-BR": "Capítulo XXI: O lugar de Nossa Senhora em nossa vida espiritual"
       }
     },
     {
       "id": "c23",
       "title": {
-        "en-US": "Chapter XXII: That the Church at Large is a Sublime Type of the Contemplative Soul"
+        "en-US": "Chapter XXII: That the Church at Large is a Sublime Type of the Contemplative Soul",
+        "pt-BR": "Capítulo XXII: A Igreja em seu conjunto é uma sublime figura da alma contemplativa"
       }
     },
     {
       "id": "c24",
       "title": {
-        "en-US": "Chapter XXIII: There is but one Liturgy"
+        "en-US": "Chapter XXIII: There is but one Liturgy",
+        "pt-BR": "Capítulo XXIII: Há uma só liturgia"
       }
     }
   ]
