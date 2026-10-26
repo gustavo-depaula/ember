@@ -9,7 +9,7 @@ import { randomId } from '@/lib/id'
 
 // A personal log of church check-ins — visits you record while you're there (a quiet devotional
 // record, not a leaderboard). A check-in names what you were there for; a Mass check-in
-// additionally completes the "mass" practice (see CheckInButton), so Mass attendance isn't a separate
+// additionally completes the "mass" practice (see CheckIn), so Mass attendance isn't a separate
 // concept from the plan of life.
 
 export type { CheckIn, CheckInKind }

@@ -16,6 +16,7 @@ export {
   expandUpcoming,
   nextService,
   occurrenceInstant,
+  serviceUnderway,
   type UpcomingService,
   wallClockNow,
 } from './schedule'

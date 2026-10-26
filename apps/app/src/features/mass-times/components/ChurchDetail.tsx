@@ -1,12 +1,19 @@
 import type { ServiceKind } from '@ember/api'
 import { Globe, Mail, MapPin, Phone } from 'lucide-react-native'
+import type { ReactNode } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Linking, Platform } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { AnimatedPressable, confirm, Skeleton, Typography } from '@/components'
+import { confirm, Skeleton, Typography } from '@/components'
 import { lightTap } from '@/lib/haptics'
 import type { ChurchDetail as ChurchDetailData } from '@/lib/mass-times'
-import { nextService, useChurch, wallClockNow, weeklySchedule } from '@/lib/mass-times'
+import {
+  nextService,
+  serviceUnderway,
+  useChurch,
+  wallClockNow,
+  weeklySchedule,
+} from '@/lib/mass-times'
 import {
   dayLabel,
   daysAway,
@@ -16,10 +23,10 @@ import {
   serviceKindOrder,
   weekdayName,
 } from '../format'
-import { CheckInButton } from './CheckInButton'
+import { ActionTile } from './ActionTile'
+import { CheckIn } from './CheckIn'
 import { ChurchFeedback } from './ChurchFeedback'
 import { FavoriteButton } from './FavoriteButton'
-import { useGlassTile } from './glass'
 import { QueryError } from './QueryError'
 import { clockFigures, Hairline, SectionLabel, SmallCaps } from './SheetType'
 
@@ -45,6 +52,7 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
   const locale = i18n.language
   const now = wallClockNow(data.timezone)
   const next = nextService(data.services, { timezone: data.timezone, kind: 'mass', now })
+  const underway = serviceUnderway(data.services, { timezone: data.timezone, now })
   const where = [data.address, data.city, data.region].filter(Boolean).join(' · ')
   const verified = data.lastVerifiedAt ? new Date(data.lastVerifiedAt) : undefined
 
@@ -99,14 +107,13 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
         ) : null}
       </YStack>
 
-      <YStack gap="$sm">
-        <ContactActions church={data} />
-        <YStack>
-          <Hairline />
-          <CheckInButton church={{ id: data.id, name: data.name }} locale={locale} />
-          <Hairline />
-        </YStack>
-      </YStack>
+      <CheckIn
+        church={{ id: data.id, name: data.name }}
+        locale={locale}
+        underway={underway}
+        now={now}
+        actions={(checkInTile) => <ContactActions church={data}>{checkInTile}</ContactActions>}
+      />
 
       {serviceKindOrder.map((kind) => (
         <WeeklySection key={kind} kind={kind} church={data} now={now} locale={locale} />
@@ -253,8 +260,9 @@ function ParishTexts({ church }: { church: ChurchDetailData }) {
 }
 
 // Directions / call / email / website as a row of equal tiles, icon over label (the Maps place-card
-// action bar), so they read as one control instead of wrapping chips.
-function ContactActions({ church }: { church: ChurchDetailData }) {
+// action bar), so they read as one control instead of wrapping chips. `children` joins the row last
+// (the check-in tile).
+function ContactActions({ church, children }: { church: ChurchDetailData; children?: ReactNode }) {
   const { t } = useTranslation()
   const website = church.links.find((l) => l.kind === 'website')?.url
 
@@ -288,6 +296,7 @@ function ContactActions({ church }: { church: ChurchDetailData }) {
       {actions.map(({ id, ...action }) => (
         <ContactButton key={id} {...action} />
       ))}
+      {children}
     </XStack>
   )
 }
@@ -303,7 +312,6 @@ function ContactButton({
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
-  const tile = useGlassTile(true)
   const open = () => {
     void lightTap()
     // No mail account, no dialer (iPad), a malformed parish URL — say so rather than do nothing.
@@ -312,26 +320,7 @@ function ContactButton({
     )
   }
   return (
-    <AnimatedPressable
-      style={{ flex: 1 }}
-      onPress={open}
-      accessibilityRole="button"
-      accessibilityLabel={label}
-    >
-      <YStack
-        backgroundColor={tile}
-        borderRadius={12}
-        height={60}
-        justifyContent="center"
-        alignItems="center"
-        gap={4}
-      >
-        <Icon size={20} color={theme.color?.val} />
-        <Typography variant="interface" fontSize="$1" numberOfLines={1}>
-          {label}
-        </Typography>
-      </YStack>
-    </AnimatedPressable>
+    <ActionTile label={label} icon={<Icon size={20} color={theme.color?.val} />} onPress={open} />
   )
 }
 
