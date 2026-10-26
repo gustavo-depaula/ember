@@ -13,7 +13,14 @@ import { indexedChurches, places } from '~/lib/massTimes/data'
 import { listPrayers } from '~/lib/prayers'
 import { saintsCatalog } from '~/lib/saints'
 import { today } from '~/lib/today'
-import { type DevDoc, devDocs, href, isoDate, type OfficeHour, officeHours } from '~/routes'
+import {
+  type DevDoc,
+  href,
+  isoDate,
+  type OfficeHour,
+  officeHours,
+  publishedDevDocs,
+} from '~/routes'
 
 export type Page =
   | { view: 'home' }
@@ -214,7 +221,7 @@ async function drafts(): Promise<Draft[]> {
   for (const [id] of listEntries('chant')) {
     out.push({ page: { view: 'chant', id }, path: (l) => href.chant(l, id) })
   }
-  for (const doc of devDocs) {
+  for (const doc of publishedDevDocs) {
     out.push({ page: { view: 'developers', doc }, path: (l) => href.developers(l, doc) })
   }
   return out

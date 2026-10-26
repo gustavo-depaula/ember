@@ -2,7 +2,7 @@
 import Base from '~/layouts/Base.astro'
 import { chooser } from '~/lib/developers/text'
 import type { Locale } from '~/lib/locale'
-import { type DevDoc, href } from '~/routes'
+import { type DevDoc, href, publishedDevDocs } from '~/routes'
 
 interface Props {
   locale: Locale
@@ -18,12 +18,13 @@ interface Props {
 const { locale, alternates, doc, title, kicker, lede, toc = [] } = Astro.props
 const l = chooser(locale)
 const portal = l('Developers', 'Desenvolvedores')
-const docs: { key: DevDoc; label: string }[] = [
+const allDocs: { key: DevDoc; label: string }[] = [
   { key: 'overview', label: l('Overview', 'Visão geral') },
   { key: 'api', label: l('Mass-times API', 'API de horários') },
   { key: 'corpus', label: l('The corpus', 'O acervo') },
   { key: 'flows', label: l('Flow DSL', 'DSL de fluxos') },
 ]
+const docs = allDocs.filter((d) => publishedDevDocs.includes(d.key))
 
 // What the browser script says, in the page's language.
 const strings = {

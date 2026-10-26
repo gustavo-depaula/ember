@@ -2716,7 +2716,8 @@ svg.score .rubric {
 
 .dev-doors {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  /* auto-fill keeps empty tracks, so a lone door stays card-sized rather than spanning the page */
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: var(--space-md);
   padding-top: var(--space-md);
 }
@@ -2728,12 +2729,11 @@ svg.score .rubric {
   padding: var(--space-lg);
   border-radius: var(--radius-xl);
   background: var(--background-surface);
-  box-shadow: 0 4px 12px var(--glass-shadow);
-  transition: transform 0.25s ease;
+  transition: background 0.2s ease;
 }
 
 .dev-door:hover {
-  transform: translateY(-3px);
+  background: color-mix(in srgb, var(--background-surface) 82%, var(--accent-subtle));
 }
 
 .dev-door .body {

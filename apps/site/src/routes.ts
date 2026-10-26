@@ -158,6 +158,12 @@ export const href = {
 export const devDocs = ['overview', 'api', 'corpus', 'flows'] as const
 export type DevDoc = (typeof devDocs)[number]
 
+/**
+ * The guides the portal publishes. Only the Mass-times API is open to developers for now; the
+ * corpus and flow DSL guides are written and build, but get no pages and no links until listed.
+ */
+export const publishedDevDocs: readonly DevDoc[] = ['overview', 'api']
+
 const devDocSlugs: Record<Locale, Record<DevDoc, string>> = {
   'en-US': { overview: '', api: 'api', corpus: 'corpus', flows: 'flows' },
   'pt-BR': { overview: '', api: 'api', corpus: 'acervo', flows: 'fluxos' },
