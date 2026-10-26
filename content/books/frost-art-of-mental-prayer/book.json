@@ -21,61 +21,71 @@
     }
   ],
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "toc": [
     {
       "id": "c01",
       "title": {
-        "en-US": "Dedication"
+        "en-US": "Dedication",
+        "pt-BR": "Dedicatória"
       }
     },
     {
       "id": "c02",
       "title": {
-        "en-US": "Preface"
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
       }
     },
     {
       "id": "c03",
       "title": {
-        "en-US": "Preface to Second Edition"
+        "en-US": "Preface to Second Edition",
+        "pt-BR": "Prefácio à segunda edição"
       }
     },
     {
       "id": "c04",
       "title": {
-        "en-US": "Preface to Third Edition"
+        "en-US": "Preface to Third Edition",
+        "pt-BR": "Prefácio à terceira edição"
       }
     },
     {
       "id": "c05",
       "title": {
-        "en-US": "Introduction"
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "part-i",
       "title": {
-        "en-US": "Part I: Preliminaries"
+        "en-US": "Part I: Preliminaries",
+        "pt-BR": "Parte I: Preliminares"
       },
       "children": [
         {
           "id": "c06",
           "title": {
-            "en-US": "Chapter I: The 'Gap' in the Religious Situation of To-day"
+            "en-US": "Chapter I: The 'Gap' in the Religious Situation of To-day",
+            "pt-BR": "Capítulo I: A “lacuna” na situação religiosa atual"
           }
         },
         {
           "id": "c07",
           "title": {
-            "en-US": "Chapter II: What is the Christian Life ?"
+            "en-US": "Chapter II: What is the Christian Life ?",
+            "pt-BR": "Capítulo II: O que é a vida cristã?"
           }
         },
         {
           "id": "c08",
           "title": {
-            "en-US": "Chapter III: The Object and Necessity of Mental Prayer"
+            "en-US": "Chapter III: The Object and Necessity of Mental Prayer",
+            "pt-BR": "Capítulo III: A finalidade e a necessidade da oração mental"
           }
         }
       ]
@@ -83,43 +93,50 @@
     {
       "id": "part-ii",
       "title": {
-        "en-US": "Part II: The Methods"
+        "en-US": "Part II: The Methods",
+        "pt-BR": "Parte II: Os métodos"
       },
       "children": [
         {
           "id": "c09",
           "title": {
-            "en-US": "Chapter I: Ignatian"
+            "en-US": "Chapter I: Ignatian",
+            "pt-BR": "Capítulo I: Inaciano"
           }
         },
         {
           "id": "c10",
           "title": {
-            "en-US": "Chapter II: Franciscan"
+            "en-US": "Chapter II: Franciscan",
+            "pt-BR": "Capítulo II: Franciscano"
           }
         },
         {
           "id": "c11",
           "title": {
-            "en-US": "Chapter III: Carmelite"
+            "en-US": "Chapter III: Carmelite",
+            "pt-BR": "Capítulo III: Carmelita"
           }
         },
         {
           "id": "c12",
           "title": {
-            "en-US": "Chapter IV: Salesian"
+            "en-US": "Chapter IV: Salesian",
+            "pt-BR": "Capítulo IV: Salesiano"
           }
         },
         {
           "id": "c13",
           "title": {
-            "en-US": "Chapter V: Liguorian"
+            "en-US": "Chapter V: Liguorian",
+            "pt-BR": "Capítulo V: Liguoriano"
           }
         },
         {
           "id": "c14",
           "title": {
-            "en-US": "Chapter VI: Oratorian"
+            "en-US": "Chapter VI: Oratorian",
+            "pt-BR": "Capítulo VI: Oratoriano"
           }
         }
       ]
@@ -127,31 +144,36 @@
     {
       "id": "part-iii",
       "title": {
-        "en-US": "Part III: Explanations"
+        "en-US": "Part III: Explanations",
+        "pt-BR": "Parte III: Esclarecimentos"
       },
       "children": [
         {
           "id": "c15",
           "title": {
-            "en-US": "Chapter I: Some Chief Difficulties of Mental Prayer"
+            "en-US": "Chapter I: Some Chief Difficulties of Mental Prayer",
+            "pt-BR": "Capítulo I: Algumas das principais dificuldades da oração mental"
           }
         },
         {
           "id": "c16",
           "title": {
-            "en-US": "Chapter II: The Ascetic and Spiritual Preparation for Prayer"
+            "en-US": "Chapter II: The Ascetic and Spiritual Preparation for Prayer",
+            "pt-BR": "Capítulo II: A preparação ascética e espiritual para a oração"
           }
         },
         {
           "id": "c17",
           "title": {
-            "en-US": "Chapter III: Progress in the Life of Prayer"
+            "en-US": "Chapter III: Progress in the Life of Prayer",
+            "pt-BR": "Capítulo III: O progresso na vida de oração"
           }
         },
         {
           "id": "c18",
           "title": {
-            "en-US": "Chapter IV: Direction of Souls in the Life of Prayer"
+            "en-US": "Chapter IV: Direction of Souls in the Life of Prayer",
+            "pt-BR": "Capítulo IV: A direção das almas na vida de oração"
           }
         }
       ]
@@ -159,7 +181,8 @@
     {
       "id": "c19",
       "title": {
-        "en-US": "Appendix: An Analysis of the Teaching of St. John of the Cross on the State of Beginners"
+        "en-US": "Appendix: An Analysis of the Teaching of St. John of the Cross on the State of Beginners",
+        "pt-BR": "Apêndice: Uma análise do ensinamento de São João da Cruz sobre o estado dos principiantes"
       }
     }
   ]
