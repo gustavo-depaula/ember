@@ -128,7 +128,7 @@ jobs:
           pnpm install --frozen-lockfile
           pnpm --filter @ember/site run build
           pnpm --filter @ember/site run check:links
-          node apps/site/scripts/landing.mjs apps/hearth/index.html _site/app/index.html
+          node apps/site/scripts/landing.mjs apps/hearth/index.html _site
           cp -r apps/site/dist/. _site/
         env:
           NODE_OPTIONS: --max-old-space-size=8192

@@ -110,10 +110,10 @@ export function parseIsoDate(iso: string): Date {
 export const href = {
   home: (l: Locale) => join(l),
   /**
-   * The page that presents the app (apps/hearth), published at `/app/`. It
+   * The page that presents the app (apps/hearth), published at `/app/` and `/pt/app/`. It
    * holds both languages and opens in the one asked for.
    */
-  landing: (l: Locale) => (l === 'pt-BR' ? '/app/?lang=pt' : '/app/'),
+  landing: (l: Locale) => (l === 'pt-BR' ? '/pt/app/' : '/app/'),
   privacy: () => '/privacy.html',
   section: (l: Locale, section: Section) => join(l, sections[l][section]),
   prayer: (l: Locale, id: string) => join(l, sections[l].prayers, slugOf(id)),

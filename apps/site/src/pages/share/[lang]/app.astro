@@ -1,0 +1,125 @@
+---
+// The card the app's own page (`/app/`, `/pt/app/`, published from apps/hearth)
+// unfolds into in a chat: the landing's headline beside two of its screenshots.
+// Photographed to `app.jpg` after the build like the prayers' cards.
+import { getImage } from 'astro:assets'
+import appIcon from '../../../../../app/assets/icon.png'
+import enCard from '../../../../../hearth/site/img/en-US-04-holy-card.webp'
+import enToday from '../../../../../hearth/site/img/en-US-01-today.webp'
+import ptCard from '../../../../../hearth/site/img/pt-BR-04-holy-card.webp'
+import ptToday from '../../../../../hearth/site/img/pt-BR-01-today.webp'
+import { htmlLang, type Locale, locales } from '~/lib/locale'
+import { shareDirs } from '~/routes'
+import '~/styles/global.css'
+
+export function getStaticPaths() {
+  return locales.map((locale) => ({ params: { lang: shareDirs[locale] }, props: { locale } }))
+}
+
+const { locale } = Astro.props as { locale: Locale }
+const card = {
+  'en-US': {
+    headline: 'The Catholic life of prayer, day by day.',
+    litany: ['Rosary', 'Mass', 'Hours', 'Saints'],
+    phones: [enToday, enCard],
+  },
+  'pt-BR': {
+    headline: 'A vida católica de oração, dia após dia.',
+    litany: ['Terço', 'Missa', 'Ofício', 'Santos'],
+    phones: [ptToday, ptCard],
+  },
+}[locale]
+const icon = await getImage({ src: appIcon, width: 128, format: 'png' })
+const phones = await Promise.all(
+  card.phones.map((src) => getImage({ src, width: 600, format: 'png' })),
+)
+---
+
+<!doctype html>
+<html lang={htmlLang[locale]}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <title>Ember</title>
+  </head>
+  <body>
+    <div class="app-card">
+      <div class="mark"><img src={icon.src} alt="" />Ember</div>
+      <h1>{card.headline}</h1>
+      <p class="litany">{card.litany.map((word) => <span>{word}</span>)}</p>
+      {phones.map((phone, i) => <img class={`phone p${i + 1}`} src={phone.src} alt="" />)}
+    </div>
+  </body>
+</html>
+
+<style is:global>
+  body {
+    margin: 0;
+  }
+  .app-card {
+    position: relative;
+    width: 1200px;
+    height: 630px;
+    overflow: hidden;
+    background: #0e0d0c;
+  }
+  .app-card .mark {
+    position: absolute;
+    left: 80px;
+    top: 70px;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    font: 34px var(--font-heading);
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #f4e8cf;
+  }
+  .app-card .mark img {
+    width: 64px;
+    height: 64px;
+    border-radius: 15px;
+  }
+  .app-card h1 {
+    position: absolute;
+    left: 80px;
+    top: 178px;
+    width: 600px;
+    margin: 0;
+    font: italic 400 76px/1.06 var(--font-title);
+    color: #f4e8cf;
+    text-wrap: balance;
+  }
+  .app-card .litany {
+    position: absolute;
+    left: 80px;
+    bottom: 62px;
+    margin: 0;
+    font: 19px var(--font-heading);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #c9a84c;
+  }
+  .app-card .litany span + span::before {
+    content: '✠';
+    margin: 0 14px;
+    color: #8e2231;
+  }
+  .app-card .phone {
+    position: absolute;
+    width: 300px;
+    border-radius: 38px;
+    border: 1px solid rgba(201, 168, 76, 0.4);
+    box-shadow: 0 30px 60px rgba(0, 0, 0, 0.7);
+  }
+  .app-card .p1 {
+    left: 700px;
+    top: 90px;
+    transform: rotate(-5deg);
+  }
+  .app-card .p2 {
+    left: 880px;
+    top: 60px;
+    transform: rotate(4deg);
+  }
+</style>

@@ -3,11 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- head -->
   <title>Ember — Catholic prayer</title>
   <meta name="description" content="Pray the Rosary, the Mass and the Hours. Keep a plan of life. Read the saints. A Catholic prayer app in English and Brazilian Portuguese.">
-  <meta property="og:title" content="Ember — Catholic prayer">
-  <meta property="og:description" content="Pray the Rosary, the Mass and the Hours. Keep a plan of life. Read the saints.">
-  <meta property="og:image" content="https://ember.dpgu.me/site/img/en-US-04-holy-card.webp">
+  <!-- /head -->
   <link rel="icon" href="site/img/favicon.png">
   <link rel="preload" href="site/fonts/Junicode-Italic.woff2" as="font" type="font/woff2" crossorigin>
   <style>
@@ -400,9 +399,10 @@
       }
       var saved = null
       try { saved = localStorage.getItem('lang') } catch (e) {}
-      // A link may ask for a language (`?lang=pt`): the website's Portuguese pages do.
+      // A link may ask for a language: `/pt/app/`, or `?lang=pt`.
       var asked = /[?&]lang=(pt|en)\b/.exec(location.search)
-      set((asked && asked[1]) || saved || (/^pt/i.test(navigator.language) ? 'pt' : 'en'))
+      var page = /^\/pt\//.test(location.pathname) ? 'pt' : null
+      set((asked && asked[1]) || page || saved || (/^pt/i.test(navigator.language) ? 'pt' : 'en'))
       document.getElementById('switch').addEventListener('click', function (e) {
         e.preventDefault()
         var next = root.dataset.lang === 'pt' ? 'en' : 'pt'
