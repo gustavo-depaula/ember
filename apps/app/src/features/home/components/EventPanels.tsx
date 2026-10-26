@@ -160,8 +160,15 @@ export function TodayPanel({ cards }: { cards: TodayCard[] }) {
             onPress={() => {
               if (state === 'won')
                 return router.push({ pathname: '/redeem', params: { grant: grant.id } })
-              // Still to win by the Office, the card opens the page of offices that win it.
-              if (state === 'open' && acts[0] === 'office' && grant.choice.length > 0)
+              // Still to win by the Office alone, the card opens the page of offices
+              // that win it. One a prayed day also wins opens its saint, whose page
+              // shows both ways.
+              if (
+                state === 'open' &&
+                acts[0] === 'office' &&
+                !acts.includes('prayedDay') &&
+                grant.choice.length > 0
+              )
                 return router.push({
                   pathname: '/divine-office',
                   params: { saints: grant.choice.join(','), date: format(today, 'yyyy-MM-dd') },
