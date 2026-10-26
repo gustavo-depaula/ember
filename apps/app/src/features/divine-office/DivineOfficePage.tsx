@@ -129,14 +129,14 @@ function Offices() {
   const offices = useOfficesNow()
   return (
     <YStack borderTopWidth={1} borderTopColor="$borderColor">
-      {offices.map((office, i) => (
-        <OfficeRow key={office.id} office={office} first={i === 0} />
+      {offices.map((office) => (
+        <OfficeRow key={office.id} office={office} />
       ))}
     </YStack>
   )
 }
 
-function OfficeRow({ office, first }: { office: OfficeNow; first: boolean }) {
+function OfficeRow({ office }: { office: OfficeNow }) {
   const { t } = useTranslation()
   const router = useRouter()
   const pray = office.hour
@@ -172,8 +172,7 @@ function OfficeRow({ office, first }: { office: OfficeNow; first: boolean }) {
           <XStack paddingTop="$sm">
             <View
               borderWidth={1}
-              borderColor={first ? '$colorBurgundy' : '$accent'}
-              backgroundColor={first ? '$colorBurgundy' : 'transparent'}
+              borderColor="$accent"
               borderRadius={14}
               paddingHorizontal={10}
               paddingVertical={3}
@@ -183,7 +182,7 @@ function OfficeRow({ office, first }: { office: OfficeNow; first: boolean }) {
                 fontSize={10}
                 letterSpacing={1.5}
                 textTransform="uppercase"
-                color={first ? '$background' : '$accentHover'}
+                color="$accentHover"
               >
                 {office.minutes ? `${pray} · ${office.minutes}` : pray}
               </Typography>
