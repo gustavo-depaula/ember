@@ -146,8 +146,8 @@ export function openApiDocument(serverUrl: string, lang: 'en' | 'pt' = 'en') {
     in: 'header',
     required: false,
     description: l(
-      'A stable id for your installation, folded with the IP into the rate-limit key',
-      'Um id fixo da sua instalação, somado ao IP na chave do limite de escritas',
+      'A stable id per device or person; with the IP, it identifies the client for the rate limit and for confirmations',
+      'Um id fixo por aparelho ou pessoa; junto com o IP, identifica o cliente para o limite de escritas e para as confirmações',
     ),
     schema: { type: 'string' },
   }

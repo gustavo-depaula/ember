@@ -30,7 +30,7 @@ const variants = (schema.oneOf ?? [schema]).map((variant) => {
               {row.required ? <span class="req">{required}</span> : null}
             </th>
             <td>
-              <TypeLabel schema={row.schema} />
+              <TypeLabel schema={row.schema} shape={false} />
               {constraints(row.schema).map((c) => <span class="limit">{c}</span>)}
               {row.schema.description && <p class="t-annotation">{row.schema.description}</p>}
             </td>

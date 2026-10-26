@@ -29,8 +29,11 @@ export type TypePart = { text: string; schema?: string }
 export const schemaAnchor = (name: string) => `schema-${name}`
 const refName = (ref: string) => ref.slice(ref.lastIndexOf('/') + 1)
 
-/** `Church[]`, `string | null`, `"edit_service"`: a schema as a type, its named parts linkable. */
-export function typeParts(schema: JsonSchema): TypePart[] {
+/**
+ * `Church[]`, `string | null`, `{ churches: Church[], next?: string }`: a schema as a type, its
+ * named parts linkable. `shape: false` names an object `object`, for a row whose fields follow it.
+ */
+export function typeParts(schema: JsonSchema, { shape = true } = {}): TypePart[] {
   if (schema.$ref) {
     const name = refName(schema.$ref)
     return [{ text: name, schema: name }]
@@ -38,11 +41,33 @@ export function typeParts(schema: JsonSchema): TypePart[] {
   if (schema.const !== undefined) return [{ text: JSON.stringify(schema.const) }]
   if (schema.enum) return [{ text: schema.enum.map((v) => JSON.stringify(v)).join(' | ') }]
   const union = schema.anyOf ?? schema.oneOf
-  if (union) return joinParts(union.map(typeParts), ' | ')
-  if (schema.allOf) return joinParts(schema.allOf.map(typeParts), ' & ')
-  if (schema.type === 'array')
-    return [...typeParts(schema.items ?? {}), { text: '[]' }].reduce(mergeText, [])
-  if (schema.type === 'object' && schema.properties) return [{ text: 'object' }]
+  if (union)
+    return joinParts(
+      union.map((s) => typeParts(s)),
+      ' | ',
+    )
+  if (schema.allOf)
+    return joinParts(
+      schema.allOf.map((s) => typeParts(s)),
+      ' & ',
+    )
+  if (schema.type === 'array') {
+    const items = schema.items ?? {}
+    // `A | B[]` would read as a union with an array: a compound item type keeps its parentheses.
+    const compound = (items.anyOf ?? items.oneOf ?? items.allOf ?? []).length > 1
+    const inner = typeParts(items)
+    return (
+      compound ? [{ text: '(' }, ...inner, { text: ')[]' }] : [...inner, { text: '[]' }]
+    ).reduce(mergeText, [])
+  }
+  if (schema.type === 'object' && schema.properties) {
+    if (!shape) return [{ text: 'object' }]
+    const fields = Object.entries(schema.properties).map(([name, field]) => [
+      { text: `${name}${schema.required?.includes(name) ? '' : '?'}: ` },
+      ...typeParts(field),
+    ])
+    return [{ text: '{ ' }, ...joinParts(fields, ', '), { text: ' }' }].reduce(mergeText, [])
+  }
   return [{ text: schema.format === 'binary' ? 'bytes' : (schema.type ?? 'any') }]
 }
 
