@@ -13,7 +13,6 @@ export {
   formationIds,
   genreIds,
   liturgicalYearId,
-  patrimonyIds,
   type SeasonKey,
   schoolIds,
   seasonOrder,

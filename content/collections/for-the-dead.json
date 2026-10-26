@@ -76,10 +76,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "practice/odod",
-					"seeAlso": [
-						"collection/anglican-patrimony"
-					]
+					"ref": "practice/odod"
 				},
 				{
 					"kind": "item",

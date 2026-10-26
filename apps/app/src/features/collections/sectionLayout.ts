@@ -34,8 +34,6 @@ export const schoolIds: CollectionId[] = [
   'collection/spiritual-classics',
 ]
 
-export const patrimonyIds: CollectionId[] = ['collection/anglican-patrimony']
-
 export const liturgicalYearId: CollectionId = 'collection/liturgical-year'
 
 export type SeasonKey =

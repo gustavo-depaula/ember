@@ -1379,7 +1379,6 @@ export default {
       themes: 'Devotions',
       genres: 'Forms of Prayer',
       schools: 'From the Saints',
-      patrimony: 'Patrimony',
       liturgicalYear: 'The Liturgical Year',
     },
     season: {

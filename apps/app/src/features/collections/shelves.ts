@@ -31,7 +31,6 @@ export const collectionShelves: { key: string; ids: string[] }[] = [
       'collection/mental-prayer',
       'collection/opus-dei',
       'collection/opus-dei-prayerbook',
-      'collection/anglican-patrimony',
     ],
   },
   {

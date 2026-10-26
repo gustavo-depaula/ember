@@ -1387,7 +1387,6 @@ export default {
       themes: 'Devoções',
       genres: 'Formas de Oração',
       schools: 'Dos Santos',
-      patrimony: 'Patrimônio',
       liturgicalYear: 'O Ano Litúrgico',
     },
     season: {
