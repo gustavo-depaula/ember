@@ -130,6 +130,12 @@
     .counts { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem 3.5rem; margin: 2.5rem 0; padding: 0; list-style: none; }
     .counts b { display: block; font: italic 400 2.9rem/1 Junicode, serif; color: var(--gold); }
 
+    /* The page ends where it began: the badges again, for whoever read to the end. */
+    .begin { text-align: center; padding: clamp(3.5rem, 7vw, 6rem) 0 clamp(4rem, 8vw, 6.5rem); border-top: 1px solid rgba(201, 168, 76, 0.28); }
+    .begin .icon { width: 4.5rem; height: 4.5rem; border-radius: 1rem; margin: 0 auto 1.75rem; box-shadow: 0 1.2rem 2.4rem rgba(0, 0, 0, 0.6); }
+    .begin .stores { justify-content: center; margin-top: 2rem; }
+    .begin .beta { margin-top: 1rem; }
+
     footer { border-top: 1px solid rgba(201, 168, 76, 0.28); padding: 2.5rem 0 3.5rem; font-size: 1rem; }
     footer .wrap { display: flex; flex-wrap: wrap; gap: 0.75rem 2rem; align-items: baseline; }
     footer .mark { margin-right: auto; color: var(--parchment); }
@@ -356,11 +362,28 @@
     </div>
   </section>
 
+  <section class="begin">
+    <div class="wrap">
+      <img class="icon" src="site/img/icon.webp" alt="" width="72" height="72" loading="lazy">
+      <h2 lang="en">Begin today</h2>
+      <h2 lang="pt-BR">Comece hoje</h2>
+      <div class="stores">
+        <a href="https://play.google.com/store/apps/details?id=me.dpgu.ember">
+          <img lang="en" src="site/img/badges/google-play-en.svg" width="180" height="53" alt="Get it on Google Play">
+          <img lang="pt-BR" src="site/img/badges/google-play-pt.svg" width="239" height="71" alt="Disponível no Google Play">
+        </a>
+        <a href="https://testflight.apple.com/join/g2bQGgAG">
+          <img src="site/img/badges/app-store.svg" width="120" height="40" alt="Download on the App Store">
+        </a>
+      </div>
+      <p class="beta" lang="en">On iPhone, a beta through TestFlight</p>
+      <p class="beta" lang="pt-BR">No iPhone, uma versão beta pelo TestFlight</p>
+    </div>
+  </section>
+
   <footer>
     <div class="wrap">
       <span class="mark">Ember</span>
-      <a href="https://play.google.com/store/apps/details?id=me.dpgu.ember">Google Play</a>
-      <a href="https://testflight.apple.com/join/g2bQGgAG">TestFlight</a>
       <a href="support.html"><span lang="en">Support</span><span lang="pt-BR">Suporte</span></a>
       <a href="privacy.html"><span lang="en">Privacy</span><span lang="pt-BR">Privacidade</span></a>
       <a href="hearth/v2/catalog.json"><span lang="en">Content catalog</span><span lang="pt-BR">Catálogo de conteúdo</span></a>
