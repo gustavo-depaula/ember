@@ -43,7 +43,10 @@ export function TodayLiturgyPanel({ date }: { date: Date }) {
         <RailLink
           label={t('home.divineOfficeSub')}
           onPress={() =>
-            router.push({ pathname: '/pray/[practiceId]', params: { practiceId: 'divine-office' } })
+            router.push({
+              pathname: '/pray/[practiceId]',
+              params: { practiceId: 'liturgy-of-the-hours' },
+            })
           }
         />
       </RailBlock>

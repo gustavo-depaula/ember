@@ -8,7 +8,7 @@ import type { Tier } from '@/db/schema'
 import { lightTap } from '@/lib/haptics'
 
 export type ChecklistItem = {
-  id: string // slot composite key: "rosary::1" or "divine-office::2"
+  id: string // slot composite key: "rosary::1" or "liturgy-of-the-hours::2"
   practice_id: string
   name: string
   icon: string

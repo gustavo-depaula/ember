@@ -563,7 +563,7 @@ def build_practices(b: Builder) -> None:
                 name = file_to_logical.get(rel, rel)
                 data_files.append({"name": name, "hash": dh, "size": ds})
         # Data shared with another practice is pointed at, like a shared flow
-        # (`"office-hymns": "../divine-office/data/office-hymns.json"`).
+        # (`"hymns": "../other-practice/data/hymns.json"`).
         for logical, path in (manifest_data.get("data") or {}).items():
             if not isinstance(path, str) or path.startswith("data/"):
                 continue

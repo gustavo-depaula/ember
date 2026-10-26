@@ -32,7 +32,6 @@ describe('liturgicalActs', () => {
   it('counts every form of the breviaries and the Liturgy of the Hours as the Office', () => {
     const office = [
       'liturgy-of-the-hours',
-      'divine-office',
       'breviary-1955',
       'breviary-office-of-the-dead',
       'breviary-little-office-bvm',

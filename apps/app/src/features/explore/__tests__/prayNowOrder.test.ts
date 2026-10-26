@@ -66,7 +66,7 @@ describe('pray now: which practice', () => {
       'morning-offering-carmelite',
       'mental-prayer-teresian',
       'mass',
-      'divine-office',
+      'liturgy-of-the-hours',
     ]
     expect(pick('carmelite', '17:00', morning).ref).not.toBe('examination-of-conscience')
     expect(pick('carmelite', '17:45', morning).ref).toBe('rosary')

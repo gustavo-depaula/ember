@@ -114,7 +114,7 @@ export default {
     greetingAfternoon: 'Boa tarde',
     greetingEvening: 'Boa noite',
     divineOffice: 'Of\u00edcio Divino',
-    divineOfficeSub: 'Laudes, V\u00e9speras e Completas',
+    divineOfficeSub: 'Liturgia das Horas',
     planOfLife: 'Plano de Vida',
     planOfLifeSub: 'Pr\u00e1ticas e progresso',
     planForToday: 'O plano de hoje',

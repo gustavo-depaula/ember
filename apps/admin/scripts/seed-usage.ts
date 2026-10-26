@@ -24,7 +24,7 @@ const practices = [
   ['practice/rosary', 30],
   ['practice/angelus', 18],
   ['practice/mass', 16],
-  ['practice/divine-office', 12],
+  ['practice/liturgy-of-the-hours', 12],
   ['practice/examination-conscience', 10],
   ['practice/act-of-contrition', 8],
   ['practice/anima-christi', 6],

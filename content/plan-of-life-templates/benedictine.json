@@ -20,7 +20,7 @@
   "tags": ["benedictine", "monastic", "stability"],
   "practices": [
     {
-      "ref": "divine-office",
+      "ref": "liturgy-of-the-hours",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "06:30",

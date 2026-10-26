@@ -34,7 +34,7 @@
 		"pt-BR": "Escolha a hora que corresponde ao momento atual do dia. As oito horas canônicas abrangem o dia inteiro: Matinas (noite/madrugada), Laudes (aurora), Prima (início da manhã), Terça (meio da manhã), Sexta (meio-dia), Noa (meio da tarde), Vésperas (tarde) e Completas (noite). Cada hora segue a estrutura tradicional: versículo de abertura, hino, salmódia, leitura bíblica, cântico e oração final. Para uma prática mais simples, concentre-se em Laudes (manhã), Vésperas (tarde) e Completas (noite)."
 	},
 	"data": {
-		"office-hymns": "../divine-office/data/office-hymns.json"
+		"office-hymns": "data/office-hymns.json"
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
