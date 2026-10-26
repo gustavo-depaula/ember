@@ -77,16 +77,19 @@ const { items } = await (await fetch(\`\${base}/catalog.json\`)).json()
 const manifest = await (await blob(items['practice/rosary'].hash)).json()
 const flow = await (await blob(manifest.flowHash.hash)).json()`
 
+  // Any church, by id, on one static page of the site (scripts/mass-times.ts fills it from `?id=`).
+  const churchPage = `${new URL(href.massTimesPlace(locale, locale === 'pt-BR' ? 'igreja' : 'church'), site).href}?id={id}`
+
   // Each line states what the Worker does (apps/backend: app.ts, writeGuard, wrangler.jsonc).
   const manners = [
     corpus
       ? l(
-          '**Cache what you fetch.** A corpus blob is named by the hash of its bytes and never changes; keep it for good. API reads may be cached for five minutes, map tiles for an hour.',
-          '**Guarde o que buscar.** Um blob do acervo tem como nome o hash dos seus bytes e nunca muda: pode guardá-lo para sempre. As leituras da API podem ficar cinco minutos em cache, os blocos do mapa uma hora.',
+          '**Cache what you fetch.** A corpus blob is named by the hash of its bytes and never changes; keep it for good. Church data changes by the day: keeping it for up to a day is fine. Fetch a church again when someone opens it, so they see the latest corrections.',
+          '**Guarde o que buscar.** Um blob do acervo tem como nome o hash dos seus bytes e nunca muda: pode guardá-lo para sempre. Os dados das igrejas mudam de um dia para o outro: pode guardá-los por até um dia. Busque de novo uma igreja quando alguém a abrir, para que veja as últimas correções.',
         )
       : l(
-          '**Cache what you fetch.** Reads may be cached for five minutes and map tiles for an hour. Reads have no rate limit, so for heavy traffic serve your own copy rather than calling the API for every visitor.',
-          '**Guarde o que buscar.** As leituras podem ficar cinco minutos em cache, os blocos do mapa uma hora. As leituras não têm limite de frequência; com muito tráfego, sirva uma cópia sua em vez de chamar a API a cada visitante.',
+          '**Cache what you fetch.** Church data changes by the day: keeping it for up to a day is fine, and a mirror can refresh daily. Fetch a church again when someone opens it, so they see the latest corrections. Reads have no rate limit, so for heavy traffic serve your own copy rather than calling the API for every visitor.',
+          '**Guarde o que buscar.** Os dados das igrejas mudam de um dia para o outro: pode guardá-los por até um dia, e um espelho pode se atualizar diariamente. Busque de novo uma igreja quando alguém a abrir, para que veja as últimas correções. As leituras não têm limite de frequência; com muito tráfego, sirva uma cópia sua em vez de chamar a API a cada visitante.',
         ),
     l(
       '**Walk the directory on a schedule.** `/churches/index` pages through every church, up to 1,000 a page, for a sitemap or a mirror. Run it on a timer, not for each visitor.',
@@ -95,6 +98,10 @@ const flow = await (await blob(manifest.flowHash.hash)).json()`
     l(
       '**Show how fresh a time is.** Parishes change their times and a directory falls behind. Show `lastVerifiedAt` beside a schedule, and let people confirm it or send a correction from your app.',
       '**Mostre quando o horário foi conferido.** As paróquias mudam seus horários e um diretório fica para trás. Mostre `lastVerifiedAt` ao lado dos horários, e deixe as pessoas confirmá-los ou enviar uma correção pelo seu aplicativo.',
+    ),
+    l(
+      `**Please credit Ember.** Where you show times from the directory, add a line such as “Mass times: Ember” that links to the church’s page, \`${churchPage}\`. It tells people where the times come from and where to see the church’s full entry.`,
+      `**Dê o crédito ao Ember.** Onde mostrar horários do diretório, acrescente uma linha como “Horários: Ember” com link para a página da igreja, \`${churchPage}\`. Ela diz às pessoas de onde vêm os horários e onde ver a ficha completa da igreja.`,
     ),
     l(
       '**Writes are suggestions.** A correction goes to a queue a person reviews and never edits a church directly. A confirmation counts once per client and church every 30 days. Each client may write 20 times a minute; past that the API answers `429`.',
