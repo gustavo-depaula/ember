@@ -123,6 +123,7 @@ async function psalmiMajor(state: HoursState, lang: string): Promise<string[]> {
     dayofweek > 0
   ) {
     antiphones = splitPerl(psalmiFile[`Day${dayofweek} Laudes3`])
+    comment = 1
 
     if (dayofweek === 6 && /Trident|Monastic/.test(version)) {
       const expectetur = antiphones[3] ?? ''
@@ -152,7 +153,7 @@ async function psalmiMajor(state: HoursState, lang: string): Promise<string[]> {
   if (/Psalmi ex Psalterio/.test(rule)) {
     // Psalms straight from the psalter — no proper antiphons are looked up.
     p = []
-    comment = 1
+    comment = 0
   } else {
     // De tempore / Sancti antiphon override.
     let w = ''
@@ -195,6 +196,7 @@ async function psalmiMajor(state: HoursState, lang: string): Promise<string[]> {
     if (
       (/Psalmi Dominica/i.test(rule) || (communeRule && /Psalmi Dominica/i.test(communeRule))) &&
       antiphones.length > 0 &&
+      c &&
       !/;;\s*[0-9]+/.test(antiphones[0] ?? '') &&
       !/Psalmi Feria|Psalmi ex Psalterio/i.test(rule)
     ) {

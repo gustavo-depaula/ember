@@ -363,7 +363,7 @@ async function specials(
 
     // Litaniae majores flag for St Mark's day (and Rogation Monday cases).
     let litFlag = false
-    if (state.votive === 'Hodie') {
+    if (!state.votive || state.votive === 'Hodie') {
       const { month, day, dayofweek } = ctx
       if (month === 4 && day === 25 && (!/Pasc0/.test(ctx.dayname[0]) || dayofweek > 1)) {
         litFlag = true

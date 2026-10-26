@@ -6,7 +6,6 @@
 //   setfont(smallfont, x)  → '(x)' retained as a rubric parenthesis
 // Rubrics are always on in the engine (state.rubrics = true).
 
-import { monthday } from '../kalendar/date'
 import { nooctnat } from '../kalendar/occurrence'
 import { officestring, sessionWithLang } from '../kalendar/officestring'
 import { num, subdirname } from '../kalendar/state'
@@ -32,12 +31,15 @@ export function deTemporePassionis(state: MassState): boolean {
   )
 }
 
+// Instituted by Pius XI in 1926, on the penultimate Sunday of October.
 export function worldMissionSunday(state: MassState): boolean {
   const { ctx } = state.day
   return (
     /Divino|1955|196/.test(ctx.version) &&
-    /Dominica/i.test(state.day.winnerSections.Rank ?? '') &&
-    monthday(ctx.day, ctx.month, ctx.year, true, false) === '104-0'
+    ctx.dayofweek === 0 &&
+    ctx.month === 10 &&
+    ctx.day >= 18 &&
+    ctx.day <= 24
   )
 }
 
@@ -334,6 +336,9 @@ async function commemoratioFromOffice(
     w = await office(state, lang, state.day.commemorated)
     code = 13
     ite = '' // Perl reads the never-set $commemoratio2 here.
+  } else if (/propagatione/i.test(item)) {
+    ite = 'Tempora/10-DUP.txt'
+    w = await office(state, lang, ite)
   }
 
   let text = w[`Commemoratio ${type}`] ?? ''
@@ -588,9 +593,11 @@ async function oratio(state: MassState, lang: string, type: string): Promise<str
     ((/(1955|196)/.test(version) &&
       (!/Octav/i.test(state.day.winnerSections['Commemoratio Oratio'] ?? '') ||
         /Octav.*?Nativ/i.test(state.day.winnerSections['Commemoratio Oratio'] ?? ''))) ||
-      !(/(1955|196)/.test(version) && state.day.rank >= 5))
+      !(/(1955|196)/.test(version) && state.day.rank >= 5) ||
+      worldMissionSunday(state))
   ) {
     await commemoratioFromOffice(state, 'winner', type, lang)
+    if (worldMissionSunday(state)) await commemoratioFromOffice(state, 'propagatione', type, lang)
     if (!/196/.test(version) || state.day.rank < 5) {
       if (state.day.commemoratio) await commemoratioFromOffice(state, 'commemoratio', type, lang)
       if (state.day.commemoratio1) await commemoratioFromOffice(state, 'commemoratio1', type, lang)
@@ -692,7 +699,7 @@ async function credoFlag(state: MassState): Promise<boolean> {
       const c = await setup(state, 'Latin', commemo)
       if (
         ((/Octav/i.test(c.Rank ?? '') && !/post Octavam/.test(c.Rank ?? '')) ||
-          /Credo/i.test(c.Rule ?? '')) &&
+          /(?<!no )Credo/i.test(c.Rule ?? '')) &&
         !/Simplex/i.test(c.Rank ?? '') &&
         !/196/.test(version)
       ) {
@@ -733,7 +740,11 @@ export const hooks: Record<string, (state: MassState) => Promise<boolean> | bool
   CheckPax: (state) =>
     !state.solemn || /Defunct|C9/i.test(state.votive) || /no Pax/i.test(state.rule),
   CheckBlessing: (state) => /Defunct|C9/i.test(state.votive) || /no Benedictio/i.test(state.rule),
-  CheckUltimaEv: (state) => /no Ultima Evangelium/i.test(state.rule),
+  // Under the 1960 rubrics a solemn Mass of Corpus Christi is assumed to be
+  // followed by the procession, which takes the Last Gospel's place.
+  CheckUltimaEv: (state) =>
+    /no Ultima Evangelium/i.test(state.rule) ||
+    (state.solemn && /196/.test(state.day.ctx.version) && /Pent01-4/.test(state.day.winner)),
   placeattibi: () => false,
   AgnusHook: (state) => {
     if (/ter miserere/i.test(state.rule)) {
@@ -754,6 +765,10 @@ export const scriptFunctions: Record<
   lectio: async (state, lang) => `${await getitem(state, 'Lectio', lang)}$Deo gratias\n`,
   graduale: async (state, lang) => {
     let t = await getitem(state, 'Graduale', lang)
+    // Rubr. 321/470: no Sequence in votive Masses, but the Dies iræ (n. 399)
+    // of a Requiem stays.
+    const votive = state.votive
+    if (votive && votive !== 'Hodie' && !/Defunct|C9/i.test(votive)) return t
     if (state.day.winnerSections.Sequentia !== undefined) {
       t += `_\n!!Sequentia\n${await getitem(state, 'Sequentia', lang)}`
     } else if (
@@ -889,9 +904,13 @@ export const scriptFunctions: Record<
   },
   itemissaest: async (state, lang) => {
     const text = (await state.texts.prayer('IteMissa', lang)).split('\n')
+    const version = state.day.ctx.version
+    // 1960: a solemn Corpus Christi Mass, going on into the procession, ends
+    // with Benedicamus Domino too.
     const benedicamus =
-      (gloriflag(state) && !/196/.test(state.day.ctx.version)) ||
-      /^\s*Benedicamus Domino\s*$/im.test(state.rule)
+      (gloriflag(state) && !/196/.test(version)) ||
+      /^\s*Benedicamus Domino\s*$/im.test(state.rule) ||
+      (state.solemn && /196/.test(version) && /Pent01-4/.test(state.day.winner))
     if (/Pasc0/i.test(state.day.ctx.dayname[0])) return `${text[2]}\n${text[3]}`
     if (/Defunct|C9/i.test(state.votive)) return `${text[6]}\n${text[7]}`
     if (benedicamus) return `${text[4]}\n${text[5]}`

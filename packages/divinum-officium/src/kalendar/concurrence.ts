@@ -92,15 +92,15 @@ export async function concurrence(state: KalendarState, lang2?: string): Promise
   }
 
   if (
-    (/Dominica/i.test(cwrank[0] ?? '') && /in.*octava/i.test(state.trank[0] ?? '')) ||
+    (/Dominica/i.test(cwrank[0] ?? '') && /infra.*octava/i.test(state.trank[0] ?? '')) ||
     (/infra.*octav/i.test(cwrank[0] ?? '') && /Trident/.test(version))
   ) {
     // Commemoration of Octave on Saturday from 2nd Vespers
     if (!/196/.test(version)) state.octvespera = 3
     if (/cist/i.test(version) && dayofweek === 6) state.octvespera = 1
   } else if (
-    /in.*octava|Vigilia Pent/i.test(cwrank[0] ?? '') &&
-    // Perl: `$wrank !~ /in.*octava/i` reads the never-assigned SCALAR $wrank
+    /infra.*octava|Vigilia Pent/i.test(cwrank[0] ?? '') &&
+    // Perl: `$wrank !~ /infra.*octava/i` reads the never-assigned SCALAR $wrank
     // (empty), so the subclause reduces to the Sancti test.
     (/Dominica/i.test(wrank[0] ?? '') || /Sancti/.test(state.winner)) &&
     /divino/i.test(version)
@@ -507,18 +507,24 @@ export async function concurrence(state: KalendarState, lang2?: string): Promise
       state.cvespera = 1
       ctx.dayname[2] += '<br/>Vespera de præcedenti; commemoratio de sequenti'
 
-      if (
-        /infra octavam|post Octavam Asc|Vigilia Pent/i.test(cwinnerH.Rank ?? '') ||
-        /infra octavam|post Octavam Asc|Vigilia Pent/i.test(state.ccommemoentries[0] ?? '')
-      ) {
+      // Only today's commemorations of the octave the morrow is within give
+      // way: the octave named is the Perl's $1, unset (so any octave) when
+      // the match was on another alternative.
+      const octaveMatch =
+        /infra octavam (.*?);|post Octavam Asc|Vigilia Pent/i.exec(cwinnerH.Rank ?? '') ??
+        /infra octavam (.*?);|post Octavam Asc|Vigilia Pent/i.exec(state.ccommemoentries[0] ?? '')
+      if (octaveMatch) {
+        const sameOctave = new RegExp(
+          `infra octavam ${octaveMatch[1] ?? ''}|post Octavam Asc|Vigilia Pent`,
+          'i',
+        )
         const comentries: string[] = []
         for (const commemoIn of state.commemoentries) {
           const { sections: cstr } = await loadCommemo(state, commemoIn, false)
           if (
             !(
               Object.keys(cstr).length === 0 ||
-              (/infra octavam|post Octavam Asc|Vigilia Pent/i.test(cstr.Rank ?? '') &&
-                !/Dominica/i.test(cstr.Rank ?? ''))
+              (sameOctave.test(cstr.Rank ?? '') && !/Dominica/i.test(cstr.Rank ?? ''))
             )
           ) {
             comentries.push(commemoIn)
@@ -685,7 +691,10 @@ export async function concurrence(state: KalendarState, lang2?: string): Promise
     for (const commemoIn of state.ccommemoentries) {
       const { name: commemo, sections: cstr } = await loadCommemo(state, commemoIn, true)
       if (
-        (/tempora/i.test(commemo) || /infra octavam/i.test(cstr.Rank ?? '')) &&
+        (/tempora/i.test(commemo) ||
+          (/infra octavam/i.test(cstr.Rank ?? '') &&
+            !/infra octavam/i.test(cwrank[0] ?? '') &&
+            !/In Commemoratio.*Defunctorum/.test(state.srank[0] ?? ''))) &&
         !/Dominica/i.test(cstr.Rank ?? '')
       ) {
         continue

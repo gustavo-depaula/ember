@@ -375,8 +375,13 @@ export async function oratio(
                 ? 7100
                 : 6100
             : octRegex.test(ic)
-              ? !cwinner && octvespera && /divino|1906/i.test(version)
-                ? 1000
+              ? // Concurrent octaves commemorated on Sunday night are
+                // privileged, except in the last week of Advent
+                !cwinner &&
+                octvespera &&
+                /divino|1906/i.test(version) &&
+                (ctx.month < 12 || ctx.day < 18)
+                ? ccind + 1000
                 : ccind + 7900
               : ccind + 9900
           cc[String(key)] = ic
@@ -535,19 +540,11 @@ export async function oratio(
         ) {
           commemo += '.txt'
         }
-        let cSec = (await officestring(kal, 'Latin', commemo, false)) ?? {}
+        const cSec = (await officestring(kal, 'Latin', commemo, false)) ?? {}
 
-        let c: string
-        if (/in.*octavam|post Octavam Asc/i.test(cSec.Rank ?? '') && octvespera) {
-          c = await getcommemoratio(state, commemo, octvespera, lang)
-        } else {
-          c = await getcommemoratio(state, commemo, cv, lang)
-        }
+        let c = await getcommemoratio(state, commemo, cv, lang)
         const c2vig = cv === 2 ? await vigiliaCommemoratio(state, commemo, lang) : ''
         c ||= c2vig
-        if (lang !== 'Latin') {
-          cSec = (await officestring(kal, lang, commemo, false)) ?? {}
-        }
 
         if (c) {
           const cr = (cSec.Rank ?? '').split(';;')

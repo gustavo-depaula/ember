@@ -36,6 +36,7 @@ const dates: Array<[number, number, number]> = [
   [8, 15, 2026], // Assumption
   [1, 25, 2026], // Septuagesima-time Sunday
   [7, 14, 2026], // summer feria-time saint
+  [10, 18, 2026], // World Mission Sunday (penultimate Sunday of October)
 ]
 
 function perlColumn(html: string, column: 0 | 1): string {

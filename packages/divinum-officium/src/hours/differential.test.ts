@@ -55,6 +55,8 @@ const dates: Array<[number, number, number]> = [
   [10, 22, 2027], // Friday Vespers before Our Lady on Saturday (suffrage without her)
   [9, 23, 2028], // September Ember Saturday under a Semiduplex (preces said)
   [12, 23, 2028], // Saturday Dec 23rd (Prime takes the Advent IV Sunday antiphon)
+  [2, 23, 2028], // leap year: Prime announces the 24th of February, read from 02-29
+  [2, 25, 2028], // leap year: the 26th's moon, read from the 25th's file
 ]
 
 // Extract one column of the hour from Pofficium's HTML: cells alternate

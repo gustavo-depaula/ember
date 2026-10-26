@@ -248,36 +248,67 @@ export async function postprocessShortResp(
   return out
 }
 
-// Port of getantcross — mark the ‡ where the psalm's first line matches the
-// antiphon opening (text comparison after depuncting).
-export function getantcross(psalmline: string, antline: string): string {
-  const depunct = (s: string) =>
-    s
-      .replace(/[.,:?!"';*]/g, '')
-      .replace(/[áÁ]/g, 'a')
-      .replace(/[éÉ]/g, 'e')
-      .replace(/[íí]/g, 'i')
-      .replace(/[óöõÓÖÔ]/g, 'o')
-      .replace(/[úüûÚÜÛ]/g, 'u')
-      .replace(/æ/g, 'ae')
+// Port of depunct (horas.pl): strip punctuation and fold accents, J and
+// ligatures for the antiphon/psalm comparison.
+function depunct(item: string): string {
+  return item
+    .replace(/[.,:?!"';*()]/g, '')
+    .replace(/[áÁ]/g, 'a')
+    .replace(/[éÉ]/g, 'e')
+    .replace(/[íí]/g, 'i')
+    .replace(/J/g, 'I')
+    .replace(/j/g, 'i')
+    .replace(/[óöõÓÖÔ]/g, 'o')
+    .replace(/[úüûÚÜÛ]/g, 'u')
+    .replace(/æ/g, 'ae')
+    .replace(/œ/g, 'oe')
+}
 
-  const psalmWords = psalmline.split(' ')
-  const antWords = antline.split(' ')
+// Perl's split(' '): runs of whitespace, leading whitespace ignored.
+const perlWords = (s: string) => s.split(/\s+/).filter(Boolean)
+
+// Port of getantcross — mark the ‡ where the psalm's first line matches the
+// antiphon opening. The antiphon is depuncted whole before splitting (so a
+// French « » or ' that stands as its own word drops out), and each psalm
+// word must contain the antiphon word as a case-insensitive regex, as in
+// the Perl.
+export function getantcross(psalmline1: string, antline: string): string {
+  const psalmWords = perlWords(psalmline1)
+  const antWords = perlWords(depunct(antline))
   let pind = 0
   let aind = 0
-  let matched = 0
+  let psalmline = ''
+
   while (aind < antWords.length && pind < psalmWords.length) {
-    const item1 = depunct(psalmWords[pind++])
-    if (!item1) continue
-    const item2 = depunct(antWords[aind++])
-    if (item1.toLowerCase() !== item2.toLowerCase()) return psalmline
-    matched = pind
+    const item1 = depunct(psalmWords[pind])
+    pind++
+    if (!item1) {
+      // keep the punctuation (i.e., asterisk)
+      psalmline += ` ${psalmWords[pind - 1]}`
+      continue
+    }
+    const item2 = antWords[aind]
+    aind++
+    if (!item2) {
+      pind--
+      continue
+    }
+    if (!new RegExp(item2, 'i').test(item1)) return psalmline1
+    psalmline += ` ${psalmWords[pind - 1]}`
   }
-  if (aind < antWords.length) return psalmline
-  // Antiphon fully matched at the start: insert the dagger after it.
-  const head = psalmWords.slice(0, matched).join(' ')
-  const tail = psalmWords.slice(matched).join(' ')
-  return tail ? `${head} /:‡:/ ${tail}` : `${head} /:‡:/`
+
+  // Don't place a dagger if the antiphon is longer than the verse.
+  if (aind < antWords.length && pind === psalmWords.length) return psalmline1
+
+  // Skip over any remaining punctuation.
+  while (pind < psalmWords.length && !depunct(psalmWords[pind])) {
+    psalmline += ` ${psalmWords[pind++]}`
+  }
+  psalmline += ' /:‡:/'
+  while (pind < psalmWords.length) psalmline += ` ${psalmWords[pind++]}`
+  // The Perl's line keeps the space it builds each word on; the caller
+  // already has one after the verse number.
+  return psalmline.slice(1)
 }
 
 // Port of loadspecial.

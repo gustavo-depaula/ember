@@ -229,7 +229,7 @@ export async function setcomment(
 ): Promise<void> {
   if (ind > -1) {
     let index = ind
-    if (/Source/i.test(comment) && state.votive && !/hodie/i.test(state.votive)) index = 7
+    if (/Source/i.test(comment) && state.votive && state.votive !== 'Hodie') index = 7
     let translated = await state.texts.translate(label, lang)
     const comm = await setup(state, lang, 'Psalterium/Comment')
     let commentText = (comm[comment] ?? '').split('\n')[index] ?? ''
