@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on 1 Corinthians",
-    "la": "Super 1 ad Corinthios lectura"
+    "la": "Super 1 ad Corinthios lectura",
+    "pt-BR": "Comentário à Primeira Epístola aos Coríntios"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on the First Letter to the Corinthians.",
-    "la": "Expositio Thomae in primam Epistolam ad Corinthios."
+    "la": "Expositio Thomae in primam Epistolam ad Corinthios.",
+    "pt-BR": "Comentário de Santo Tomás de Aquino à Primeira Epístola aos Coríntios."
   },
   "composed": "1268–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Chapter 1 — Wisdom 6:22",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1 — Sabedoria 6:22"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Wisdom 6:22",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Sabedoria 6:22"
           }
         }
       ]
@@ -51,35 +57,40 @@
       "id": "g2",
       "title": {
         "en-US": "Chapter 2 — Introduction and Admonitions",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2 — Introdução e admoestações"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Greeting and thanksgiving",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Saudação e ação de graças"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — Warning against contentions",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Advertência contra as contendas"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — The foolishness of God",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A loucura de Deus"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — God’s choice of the weak",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A escolha dos fracos por Deus"
           }
         }
       ]
@@ -88,28 +99,32 @@
       "id": "g3",
       "title": {
         "en-US": "Chapter 3 — God’s Hidden Wisdom",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3 — A sabedoria oculta de Deus"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — Paul speaks God’s mystery",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Paulo anuncia o mistério de Deus"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2 — Revelation of the Spirit",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Revelação do Espírito"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3 — Wisdom of the saints",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Sabedoria dos santos"
           }
         }
       ]
@@ -118,28 +133,32 @@
       "id": "g4",
       "title": {
         "en-US": "Chapter 4 — Christ the Principle of Unity",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4 — Cristo, princípio da unidade"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Diverse ministers united in Christ",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Diversos ministros unidos em Cristo"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2 — Christ the one foundation",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Cristo, único fundamento"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3 — Temples of God",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Templos de Deus"
           }
         }
       ]
@@ -148,28 +167,32 @@
       "id": "g5",
       "title": {
         "en-US": "Chapter 5 — The Apostolic Ministry",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5 — O ministério apostólico"
       },
       "children": [
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — God the only judge",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Deus, único juiz"
           }
         },
         {
           "id": "g5-c002",
           "title": {
             "en-US": "Lecture 2 — The apostles are fools for Christ",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Os apóstolos são loucos por Cristo"
           }
         },
         {
           "id": "g5-c003",
           "title": {
             "en-US": "Lecture 3 — Paul as father of Christians",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Paulo como pai dos cristãos"
           }
         }
       ]
@@ -178,28 +201,32 @@
       "id": "g6",
       "title": {
         "en-US": "Chapter 6 — Against Fornication",
-        "la": "Caput 6"
+        "la": "Caput 6",
+        "pt-BR": "Capítulo 6 — Contra a fornicação"
       },
       "children": [
         {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1 — Horror of fornication",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Horror da fornicação"
           }
         },
         {
           "id": "g6-c002",
           "title": {
             "en-US": "Lecture 2 — Unleavened bread of truth",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Pão ázimo da verdade"
           }
         },
         {
           "id": "g6-c003",
           "title": {
             "en-US": "Lecture 3 — Relinquish company of sinners",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Afastar-se da companhia dos pecadores"
           }
         }
       ]
@@ -208,28 +235,32 @@
       "id": "g7",
       "title": {
         "en-US": "Chapter 7 — Legal Discipline",
-        "la": "Caput 7"
+        "la": "Caput 7",
+        "pt-BR": "Capítulo 7 — Disciplina judicial"
       },
       "children": [
         {
           "id": "g7-c001",
           "title": {
             "en-US": "Lecture 1 — Judges of grievances",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Juízes dos litígios"
           }
         },
         {
           "id": "g7-c002",
           "title": {
             "en-US": "Lecture 2 — Possessors of God’s kingdom",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Os que possuem o Reino de Deus"
           }
         },
         {
           "id": "g7-c003",
           "title": {
             "en-US": "Lecture 3 — The body is for God",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O corpo é para Deus"
           }
         }
       ]
@@ -238,21 +269,24 @@
       "id": "g8",
       "title": {
         "en-US": "Chapter 8 — Marriage",
-        "la": "Caput 8"
+        "la": "Caput 8",
+        "pt-BR": "Capítulo 8 — Matrimônio"
       },
       "children": [
         {
           "id": "g8-c001",
           "title": {
             "en-US": "Lecture 1 — Good of marriage and celibacy",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O bem do matrimônio e do celibato"
           }
         },
         {
           "id": "g8-c002",
           "title": {
             "en-US": "Lecture 2 — Marriage indissoluble",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A indissolubilidade do matrimônio"
           }
         }
       ]
@@ -261,14 +295,16 @@
       "id": "g9",
       "title": {
         "en-US": "Chapter 9 — S - Peter of Tarentaise on I Corinthians",
-        "la": "Caput 9"
+        "la": "Caput 9",
+        "pt-BR": "Capítulo 9 — S - Pedro de Tarentaise sobre 1 Coríntios"
       },
       "children": [
         {
           "id": "g9-pr",
           "title": {
             "en-US": "Prologue — S - Peter of Tarentaise on I Corinthians",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — S - Pedro de Tarentaise sobre 1 Coríntios"
           }
         }
       ]
@@ -277,21 +313,24 @@
       "id": "g10",
       "title": {
         "en-US": "Chapter 10 — Avoidance of scandal",
-        "la": "Caput 10"
+        "la": "Caput 10",
+        "pt-BR": "Capítulo 10 — Evitar o escândalo"
       },
       "children": [
         {
           "id": "g10-c001",
           "title": {
             "en-US": "Lecture 1 — Meat sacrificed to idols",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Carne sacrificada aos ídolos"
           }
         },
         {
           "id": "g10-c002",
           "title": {
             "en-US": "Lecture 2 — Protect from scandal",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Proteger do escândalo"
           }
         }
       ]
@@ -300,42 +339,48 @@
       "id": "g11",
       "title": {
         "en-US": "Chapter 11 — Rights of the Apostles",
-        "la": "Caput 11"
+        "la": "Caput 11",
+        "pt-BR": "Capítulo 11 — Direitos dos apóstolos"
       },
       "children": [
         {
           "id": "g11-c001",
           "title": {
             "en-US": "Lecture 1 — Paul’s abstinence from licit things",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A abstinência de Paulo das coisas lícitas"
           }
         },
         {
           "id": "g11-c002",
           "title": {
             "en-US": "Lecture 2 — Ministers may live by the Gospel",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Os ministros podem viver do Evangelho"
           }
         },
         {
           "id": "g11-c003",
           "title": {
             "en-US": "Lecture 3 — Servant of the Gospel",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Servo do Evangelho"
           }
         },
         {
           "id": "g11-c004",
           "title": {
             "en-US": "Lecture 4 — All for the sake of the Gospel",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Tudo por causa do Evangelho"
           }
         },
         {
           "id": "g11-c005",
           "title": {
             "en-US": "Lecture 5 — Run that you may obtain",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Correi para alcançar"
           }
         }
       ]
@@ -344,56 +389,64 @@
       "id": "g12",
       "title": {
         "en-US": "Chapter 12 — Members of Christ",
-        "la": "Caput 12"
+        "la": "Caput 12",
+        "pt-BR": "Capítulo 12 — Membros de Cristo"
       },
       "children": [
         {
           "id": "g12-c001",
           "title": {
             "en-US": "Lecture 1 — Warning from Israel’s history",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Advertência da história de Israel"
           }
         },
         {
           "id": "g12-c002",
           "title": {
             "en-US": "Lecture 2 — Israel a figure for us",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Israel como figura para nós"
           }
         },
         {
           "id": "g12-c003",
           "title": {
             "en-US": "Lecture 3 — No temptation beyond strength",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Nenhuma tentação acima das forças"
           }
         },
         {
           "id": "g12-c004",
           "title": {
             "en-US": "Lecture 4 — One bread, one body",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Um só pão, um só corpo"
           }
         },
         {
           "id": "g12-c005",
           "title": {
             "en-US": "Lecture 5 — Sacrifices to devils",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Sacrifícios aos demônios"
           }
         },
         {
           "id": "g12-c006",
           "title": {
             "en-US": "Lecture 6 — Question of conscience",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Questão de consciência"
           }
         },
         {
           "id": "g12-c007",
           "title": {
             "en-US": "Lecture 7 — All to the glory of God",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Tudo para a glória de Deus"
           }
         }
       ]
@@ -402,56 +455,64 @@
       "id": "g13",
       "title": {
         "en-US": "Chapter 13 — Behaviour in Church",
-        "la": "Caput 13"
+        "la": "Caput 13",
+        "pt-BR": "Capítulo 13 — Comportamento na igreja"
       },
       "children": [
         {
           "id": "g13-c001",
           "title": {
             "en-US": "Lecture 1 — Relation between man and woman",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Relação entre o homem e a mulher"
           }
         },
         {
           "id": "g13-c002",
           "title": {
             "en-US": "Lecture 2 — Woman should cover their heads",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — As mulheres devem cobrir a cabeça"
           }
         },
         {
           "id": "g13-c003",
           "title": {
             "en-US": "Lecture 3 — The woman is for the man",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A mulher é para o homem"
           }
         },
         {
           "id": "g13-c004",
           "title": {
             "en-US": "Lecture 4 — Factions in the assembly",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Facções na assembleia"
           }
         },
         {
           "id": "g13-c005",
           "title": {
             "en-US": "Lecture 5 — Institution of the Eucharist",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Instituição da Eucaristia"
           }
         },
         {
           "id": "g13-c006",
           "title": {
             "en-US": "Lecture 6 — Institution of the chalice",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Instituição do cálice"
           }
         },
         {
           "id": "g13-c007",
           "title": {
             "en-US": "Lecture 7 — Receive the Lord worthily",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Receber dignamente o Senhor"
           }
         }
       ]
@@ -460,28 +521,32 @@
       "id": "g14",
       "title": {
         "en-US": "Chapter 14 — Diversity of Office",
-        "la": "Caput 14"
+        "la": "Caput 14",
+        "pt-BR": "Capítulo 14 — Diversidade de ofícios"
       },
       "children": [
         {
           "id": "g14-c001",
           "title": {
             "en-US": "Lecture 1 — Unity through Jesus Christ",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Unidade por Jesus Cristo"
           }
         },
         {
           "id": "g14-c002",
           "title": {
             "en-US": "Lecture 2 — Gifts of the Holy Spirit",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Dons do Espírito Santo"
           }
         },
         {
           "id": "g14-c003",
           "title": {
             "en-US": "Lecture 3 — One body in Christ",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Um só corpo em Cristo"
           }
         }
       ]
@@ -490,35 +555,40 @@
       "id": "g15",
       "title": {
         "en-US": "Chapter 15 — Christian Charity",
-        "la": "Caput 15"
+        "la": "Caput 15",
+        "pt-BR": "Capítulo 15 — Caridade cristã"
       },
       "children": [
         {
           "id": "g15-c001",
           "title": {
             "en-US": "Lecture 1 — Primacy of charity",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Primazia da caridade"
           }
         },
         {
           "id": "g15-c002",
           "title": {
             "en-US": "Lecture 2 — Qualities of charity",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Qualidades da caridade"
           }
         },
         {
           "id": "g15-c003",
           "title": {
             "en-US": "Lecture 3 — Put away childish things",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Deixar as coisas de criança"
           }
         },
         {
           "id": "g15-c004",
           "title": {
             "en-US": "Lecture 4 — Charity remains in heaven",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A caridade permanece no céu"
           }
         }
       ]
@@ -527,56 +597,64 @@
       "id": "g16",
       "title": {
         "en-US": "Chapter 16 — Prophecy and Tongues",
-        "la": "Caput 16"
+        "la": "Caput 16",
+        "pt-BR": "Capítulo 16 — Profecia e línguas"
       },
       "children": [
         {
           "id": "g16-c001",
           "title": {
             "en-US": "Lecture 1 — Prophecy greater than gift of tongues",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A profecia é maior que o dom de línguas"
           }
         },
         {
           "id": "g16-c002",
           "title": {
             "en-US": "Lecture 2 — Tongues’ meaning variable",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O significado variável das línguas"
           }
         },
         {
           "id": "g16-c003",
           "title": {
             "en-US": "Lecture 3 — Interpretation of tongues",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Interpretação das línguas"
           }
         },
         {
           "id": "g16-c004",
           "title": {
             "en-US": "Lecture 4 — Children in malice, perfect in sense",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Crianças na malícia, perfeitos no entendimento"
           }
         },
         {
           "id": "g16-c005",
           "title": {
             "en-US": "Lecture 5 — Prophesy a means of conversion",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A profecia como meio de conversão"
           }
         },
         {
           "id": "g16-c006",
           "title": {
             "en-US": "Lecture 6 — Must interpret tongues",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — É necessário interpretar as línguas"
           }
         },
         {
           "id": "g16-c007",
           "title": {
             "en-US": "Lecture 7 — Persons forbidden to prophesy",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Pessoas proibidas de profetizar"
           }
         }
       ]
@@ -585,70 +663,80 @@
       "id": "g17",
       "title": {
         "en-US": "Chapter 17 — Resurrection",
-        "la": "Caput 17"
+        "la": "Caput 17",
+        "pt-BR": "Capítulo 17 — Ressurreição"
       },
       "children": [
         {
           "id": "g17-c001",
           "title": {
             "en-US": "Lecture 1 — Testimony to Christ",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Testemunho de Cristo"
           }
         },
         {
           "id": "g17-c002",
           "title": {
             "en-US": "Lecture 2 — Resurrection of the dead",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Ressurreição dos mortos"
           }
         },
         {
           "id": "g17-c003",
           "title": {
             "en-US": "Lecture 3 — Christ’s destruction of death",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A destruição da morte por Cristo"
           }
         },
         {
           "id": "g17-c004",
           "title": {
             "en-US": "Lecture 4 — Proof of resurrection from the saints",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Prova da ressurreição a partir dos santos"
           }
         },
         {
           "id": "g17-c005",
           "title": {
             "en-US": "Lecture 5 — Death before the resurrection",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A morte antes da ressurreição"
           }
         },
         {
           "id": "g17-c006",
           "title": {
             "en-US": "Lecture 6 — Quality of the resurrected body",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — Qualidade do corpo ressuscitado"
           }
         },
         {
           "id": "g17-c007",
           "title": {
             "en-US": "Lecture 7 — The earthly and the heavenly man",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — O homem terreno e o homem celeste"
           }
         },
         {
           "id": "g17-c008",
           "title": {
             "en-US": "Lecture 8 — Manner of the resurrection",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — O modo da ressurreição"
           }
         },
         {
           "id": "g17-c009",
           "title": {
             "en-US": "Lecture 9 — Victory over death in Christ",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — Vitória sobre a morte em Cristo"
           }
         }
       ]
@@ -657,21 +745,24 @@
       "id": "g18",
       "title": {
         "en-US": "Chapter 18 — Final Admonitions",
-        "la": "Caput 18"
+        "la": "Caput 18",
+        "pt-BR": "Capítulo 18 — Admoestações finais"
       },
       "children": [
         {
           "id": "g18-c001",
           "title": {
             "en-US": "Lecture 1 — Collections in the churches",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Coletas nas igrejas"
           }
         },
         {
           "id": "g18-c002",
           "title": {
             "en-US": "Lecture 2 — Farewell",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Despedida"
           }
         }
       ]
