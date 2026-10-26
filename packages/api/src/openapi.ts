@@ -97,6 +97,31 @@ const componentSchemas = () => ({
     ['id', 'lat', 'lng', 'count'],
   ),
   Verification: rowSchema(verificationEvent),
+  // A change line: `before` is missing for something new, `after` for something removed.
+  ChangeLine: object(
+    { label: { type: 'string' }, before: { type: 'string' }, after: { type: 'string' } },
+    ['label'],
+  ),
+  ChangedChurch: object(
+    {
+      id: { type: 'string' },
+      name: { type: 'string' },
+      isNew: { type: 'boolean', description: 'Created by this change' },
+      parish: { ...ref('ChurchKin'), description: 'The parish this church is a chapel of' },
+      place: { type: 'string' },
+      lat: { type: 'number' },
+      lng: { type: 'number' },
+      changes: arrayOf(ref('ChangeLine')),
+      schedule: arrayOf(
+        object({
+          kind: { type: 'string' },
+          label: { type: 'string' },
+          times: arrayOf({ type: 'string' }),
+        }),
+      ),
+    },
+    ['id', 'name', 'isNew', 'place', 'lat', 'lng', 'changes', 'schedule'],
+  ),
   Error: object({ error: { type: 'string' } }),
   // @hono/zod-validator's own answer: `message` is the zod issue list, serialized.
   ValidationError: object({
@@ -351,8 +376,8 @@ export function openApiDocument(serverUrl: string, lang: 'en' | 'pt' = 'en') {
           tags: ['Changes'],
           summary: l('The change log', 'O registro de mudanças'),
           description: l(
-            'Every change a moderator applied to the directory and that still stands, newest first, with a plain-text `message` of what changed and the schedule as it now stands, ready to pass on. Pass the `next` of one page as the `before` of the next; to keep in step, ask with `since` set to the newest `appliedAt` you hold.',
-            'Cada mudança que um moderador aplicou ao diretório e que continua valendo, da mais recente à mais antiga, com uma `message` em texto simples do que mudou e dos horários como estão agora, pronta para repassar. Passe o `next` de uma página como o `before` da seguinte; para acompanhar, peça com `since` igual ao `appliedAt` mais recente que você tem.',
+            'Every change a moderator applied to the directory and that still stands, newest first. Each church it touched comes with what changed and its schedule as it now stands, and `message` says the same as plain text, ready to pass on. Pass the `next` of one page as the `before` of the next; to keep in step, ask with `since` set to the newest `appliedAt` you hold.',
+            'Cada mudança que um moderador aplicou ao diretório e que continua valendo, da mais recente à mais antiga. Cada igreja atingida vem com o que mudou e seus horários como estão agora, e `message` diz o mesmo em texto simples, pronta para repassar. Passe o `next` de uma página como o `before` da seguinte; para acompanhar, peça com `since` igual ao `appliedAt` mais recente que você tem.',
           ),
           parameters: parameters('query', changesQuerySchema),
           responses: {
@@ -363,8 +388,11 @@ export function openApiDocument(serverUrl: string, lang: 'en' | 'pt' = 'en') {
                     object({
                       id: { type: 'string' },
                       appliedAt: { type: 'string', format: 'date-time' },
-                      churches: arrayOf(ref('ChurchKin')),
-                      message: { type: 'string' },
+                      churches: arrayOf(ref('ChangedChurch')),
+                      message: {
+                        type: 'string',
+                        description: 'The change as plain text, ready to email',
+                      },
                     }),
                   ),
                   next: { type: 'string' },

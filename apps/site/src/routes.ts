@@ -145,6 +145,9 @@ export const href = {
   office: (l: Locale, date?: Date, hour?: OfficeHour, form?: string) =>
     join(l, sections[l].office, form, date && isoDate(date), hour && hourSlugs[l][hour]),
   massTimesPlace: (l: Locale, ...place: string[]) => join(l, sections[l].massTimes, ...place),
+  /** What the moderators changed in the directory, newest first. */
+  massTimesChanges: (l: Locale) =>
+    join(l, sections[l].massTimes, l === 'pt-BR' ? 'mudancas' : 'changes'),
   church: (l: Locale, id: string) =>
     join(l, sections[l].massTimes, l === 'pt-BR' ? 'igreja' : 'church', id),
   plan: (l: Locale, id: string) => join(l, sections[l].plans, slugOf(id)),

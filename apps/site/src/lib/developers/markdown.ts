@@ -103,6 +103,7 @@ function operationMarkdown(
   return [
     `### ${method.toUpperCase()} ${path}`,
     `**${op.summary}.**${op.description ? ` ${op.description}` : ''}`,
+    page.pageNotes[path] ?? '',
     params.length
       ? [
           `| ${l('Parameter', 'Parâmetro')} | In | ${l('Type', 'Tipo')} | ${l('Required', 'Obrigatório')} | ${l('Notes', 'Notas')} |`,

@@ -4,18 +4,26 @@ import app from '../src/app'
 import { resetTables } from './helpers'
 
 type Changes = {
-  changes: Array<{ id: string; churches: Array<{ id: string; name: string }>; message: string }>
+  changes: Array<{
+    id: string
+    churches: Array<{
+      id: string
+      name: string
+      changes: Array<{ label: string; before?: string; after?: string }>
+    }>
+    message: string
+  }>
   next?: string
 }
 
-const church = (id: string, name: string, timezone: string, startTime: string) => ({
+const church = (id: string, name: string, timezone: string, startTime: string, rite?: string) => ({
   id,
   name,
   lat: -23.55,
   lng: -46.63,
   timezone,
   city: 'São Paulo',
-  services: [{ id: `${id}-mass`, kind: 'mass', rrule: 'FREQ=WEEKLY;BYDAY=SU', startTime }],
+  services: [{ id: `${id}-mass`, kind: 'mass', rite, rrule: 'FREQ=WEEKLY;BYDAY=SU', startTime }],
 })
 
 async function logChange(
@@ -54,7 +62,12 @@ beforeEach(async () => {
     },
   ])
   const mary = church('mary', 'Saint Mary', 'America/New_York', '10:00')
-  await logChange('2026-10-02T10:00:00.000Z', 'mary', [{ before: mary, after: mary }])
+  await logChange('2026-10-02T10:00:00.000Z', 'mary', [
+    {
+      before: mary,
+      after: church('mary', 'Saint Mary', 'America/New_York', '10:00', 'latin_tridentine'),
+    },
+  ])
   // Undone, and one that only settled suggestions: neither is in the log.
   await logChange('2026-10-03T10:00:00.000Z', 'carmo', [{ after: carmo }], '2026-10-04T00:00:00Z')
   await logChange('2026-10-05T10:00:00.000Z', 'mary', [])
@@ -75,6 +88,22 @@ describe('GET /changes', () => {
   it('declares its JSON as UTF-8', async () => {
     const res = await app.request('/changes', {}, env)
     expect(res.headers.get('Content-Type')).toBe('application/json; charset=utf-8')
+  })
+
+  it('describes each church’s changes as lines, the message’s source', async () => {
+    const { changes } = await get()
+    expect(changes[1].churches[0].changes).toEqual([
+      { label: 'Missa', before: 'Dom 08:00', after: 'Dom 09:00' },
+    ])
+    // Same day and time, another rite: each side names it instead of "Sun 10:00 → Sun 10:00".
+    expect(changes[0].churches[0].changes).toEqual([
+      { label: 'Mass', before: 'Sun 10:00 · rite: none', after: 'Sun 10:00 · rite: Tridentine' },
+    ])
+  })
+
+  it('keeps to one church when asked', async () => {
+    const { changes } = await get('?church=carmo')
+    expect(changes.map((change) => change.id)).toEqual(['2026-10-01T10:00:00.000Z-carmo'])
   })
 
   it('writes every message in the language asked for', async () => {

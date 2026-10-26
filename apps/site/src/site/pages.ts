@@ -45,6 +45,7 @@ export type Page =
   | { view: 'office'; date: string; hour?: OfficeHour; today?: boolean; form?: string }
   | { view: 'massTimes' }
   | { view: 'churchShell' }
+  | { view: 'massTimesChanges' }
   | { view: 'church'; id: string }
   | { view: 'place'; country: string; place: string }
   | { view: 'search' }
@@ -199,6 +200,7 @@ async function drafts(): Promise<Draft[]> {
     page: { view: 'churchShell' },
     path: (l) => href.massTimesPlace(l, l === 'pt-BR' ? 'igreja' : 'church'),
   })
+  out.push({ page: { view: 'massTimesChanges' }, path: (l) => href.massTimesChanges(l) })
   for (const church of await indexedChurches()) {
     out.push({ page: { view: 'church', id: church.id }, path: (l) => href.church(l, church.id) })
   }

@@ -81,6 +81,7 @@ export const changesQuerySchema = z.object({
     .optional()
     .describe('Only changes applied after this instant (ISO 8601)'),
   before: z.string().max(256).optional().describe('The last id of the previous page'),
+  church: z.string().max(256).optional().describe('Only changes that touched this church'),
   lang: z
     .enum(['en', 'pt'])
     .optional()

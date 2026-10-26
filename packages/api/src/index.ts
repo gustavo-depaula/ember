@@ -1,4 +1,10 @@
-export { changeMessage, churchLang } from './changeMessage'
+export {
+  type ChangedChurch,
+  type ChangeLine,
+  changeDetails,
+  changeMessage,
+  churchLang,
+} from './changeMessage'
 export type {
   Administration,
   CanonicalStatus,

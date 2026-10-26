@@ -3,6 +3,7 @@
 import { openApiDocument } from '@ember/api'
 import type { Locale } from '~/lib/locale'
 import { massTimesApi } from '~/lib/massTimes/data'
+import { href } from '~/routes'
 import { sourceUrl } from './flowReference'
 import type { JsonSchema } from './schema'
 import { schemaAnchor } from './schema'
@@ -77,6 +78,14 @@ export function apiPage(locale: Locale) {
   --data-binary @bulletin.jpg`,
   }
 
+  // Endpoints the site also shows as a page of its own.
+  const pageNotes: Record<string, string> = {
+    '/changes': l(
+      `[Recent changes](${href.massTimesChanges(locale)}) shows the same log as a page.`,
+      `[Mudanças recentes](${href.massTimesChanges(locale)}) mostra o mesmo registro numa página.`,
+    ),
+  }
+
   const tagOrder = [...spec.tags.map((t) => t.name), undefined]
   const operations = Object.entries(spec.paths as Record<string, Record<string, Operation>>)
     .flatMap(([path, ops]) => Object.entries(ops).map(([method, op]) => ({ path, method, op })))
@@ -137,6 +146,7 @@ for (const service of church.services.filter((s) => s.kind === 'mass')) {
     groups,
     schemas: spec.components.schemas as Record<string, JsonSchema>,
     writeExamples,
+    pageNotes,
     title: l('Mass-times API', 'API de horários de Missa'),
     kicker: l('Developers · Reference', 'Desenvolvedores · Referência'),
     lede: l(

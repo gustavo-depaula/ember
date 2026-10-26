@@ -67,6 +67,7 @@ const toc = [
             </header>
             <h3 class="op-summary">{op.summary}</h3>
             {op.description && <p class="op-desc" set:html={inline(op.description)} />}
+            {page.pageNotes[path] && <p class="op-desc" set:html={inline(page.pageNotes[path])} />}
 
             {params.length > 0 && (
               <table class="fields">

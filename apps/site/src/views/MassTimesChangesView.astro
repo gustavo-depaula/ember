@@ -1,0 +1,72 @@
+---
+import Base from '~/layouts/Base.astro'
+import type { Locale } from '~/lib/locale'
+import { changesStrings } from '~/lib/massTimes/changes'
+import { massTimesApi } from '~/lib/massTimes/data'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const s = changesStrings[locale]
+const pt = locale === 'pt-BR'
+---
+
+<Base locale={locale} title={s.title} description={s.intro} alternates={alternates} section="massTimes">
+  <div
+    class="changes-page"
+    data-changes-feed
+    data-api={massTimesApi}
+    data-locale={locale}
+    data-church-base={href.massTimesPlace(locale, pt ? 'igreja' : 'church')}
+  >
+    <p class="back"><a class="go" href={href.section(locale, 'massTimes')}>← {pt ? 'Horários de Missa' : 'Mass times'}</a></p>
+    <header class="head">
+      <h1 class="t-sacred">{s.title}</h1>
+      <p class="t-annotation">{s.intro}</p>
+      <p class="t-reference"><a href={`${href.developers(locale, 'api')}#get-changes`}>{s.api}</a></p>
+    </header>
+    <div data-list></div>
+    <p class="t-caption status" data-status aria-live="polite">…</p>
+    <button type="button" class="older" data-older hidden>{s.older}</button>
+  </div>
+</Base>
+
+<style>
+  .changes-page {
+    width: 100%;
+    max-width: calc(960px + 2 * var(--gutter));
+    margin-inline: auto;
+    padding: 0 var(--gutter) var(--space-xxl);
+  }
+  .back {
+    padding-block: var(--space-lg) var(--space-md);
+  }
+  .head {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    max-width: 640px;
+    padding-bottom: var(--space-md);
+  }
+  .head a {
+    color: var(--gold-ink);
+  }
+  .status:empty {
+    display: none;
+  }
+  .older {
+    margin-top: var(--space-lg);
+    padding: 12px 20px;
+    border-radius: var(--radius-lg);
+    background: var(--tile-glass);
+    font-size: 16px;
+  }
+</style>
+
+<script>
+  import '~/scripts/mass-times-changes'
+</script>

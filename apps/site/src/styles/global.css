@@ -2115,6 +2115,140 @@ main {
   color: var(--color-secondary);
 }
 
+/* ── Mass-times change log (lib/massTimes/changes, drawn in the browser) ── */
+
+.mtc-day {
+  margin: var(--space-xl) 0 var(--space-sm);
+}
+
+.mtc-entry {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+  margin-bottom: var(--space-md);
+  padding: var(--space-lg);
+  border-radius: var(--radius-xl);
+  background: var(--tile-glass);
+}
+
+.mtc-church + .mtc-church {
+  padding-top: var(--space-lg);
+  border-top: 0.5px solid var(--hairline);
+}
+
+.mtc-church h3 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 12px;
+  font-family: var(--font-title);
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+}
+
+.mtc-church a {
+  transition: color 0.2s ease;
+}
+
+.mtc-church a:hover {
+  color: var(--gold-ink);
+}
+
+.mtc-badge,
+.mtc-tag {
+  font-family: var(--font-heading);
+  font-size: 10px;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  color: var(--color-burgundy);
+}
+
+.mtc-place {
+  margin-top: 2px;
+  font-size: 15px;
+  line-height: 21px;
+  color: var(--color-secondary);
+}
+
+.mtc-body {
+  display: grid;
+  gap: var(--space-md) var(--space-xl);
+  margin-top: var(--space-md);
+}
+
+/* What changed beside the schedule as it stands, on a screen wide enough for both. */
+@media (min-width: 900px) {
+  .mtc-body:has(.mtc-lines):has(.mtc-now) {
+    grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+  }
+}
+
+.mtc-lines li {
+  display: grid;
+  grid-template-columns: 112px minmax(0, 1fr);
+  gap: var(--space-md);
+  padding-block: 8px;
+  border-bottom: 0.5px solid var(--hairline);
+  font-size: 17px;
+  line-height: 24px;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.mtc-label {
+  color: var(--color-secondary);
+}
+
+.mtc-what {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 2px 10px;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.mtc-what del {
+  color: var(--color-secondary);
+  text-decoration-thickness: 1px;
+}
+
+.mtc-what ins {
+  text-decoration: none;
+}
+
+.mtc-arrow {
+  color: var(--color-secondary);
+}
+
+.mtc-now dl {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 6px var(--space-md);
+  margin-top: 8px;
+  font-size: 15px;
+  line-height: 21px;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.mtc-now dt {
+  color: var(--color-secondary);
+}
+
+.mtc-now dd {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 12px;
+}
+
+.church-changes .mtc-entry {
+  padding: var(--space-md);
+}
+
+.church-changes .mtc-body {
+  grid-template-columns: minmax(0, 1fr);
+}
+
 .search-field {
   display: flex;
   align-items: center;

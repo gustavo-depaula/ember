@@ -1,4 +1,10 @@
-import { changeMessage, changesQuerySchema, churchLang, moderationChange } from '@ember/api'
+import {
+  changeDetails,
+  changeMessage,
+  changesQuerySchema,
+  churchLang,
+  moderationChange,
+} from '@ember/api'
 import { zValidator } from '@hono/zod-validator'
 import { and, desc, gt, isNull, lt, sql } from 'drizzle-orm'
 import { Hono } from 'hono'
@@ -12,7 +18,7 @@ export const changesRouter = new Hono<{ Bindings: Env }>().get(
   '/',
   zValidator('query', changesQuerySchema),
   async (c) => {
-    const { since, before, lang, limit } = c.req.valid('query')
+    const { since, before, church, lang, limit } = c.req.valid('query')
     const rows = await createDb(c.env.DB)
       .select()
       .from(moderationChange)
@@ -24,16 +30,22 @@ export const changesRouter = new Hono<{ Bindings: Env }>().get(
           // Stored in UTC, so an instant given with an offset is moved to UTC to compare as text.
           since ? gt(moderationChange.appliedAt, new Date(since).toISOString()) : undefined,
           before ? lt(moderationChange.id, before) : undefined,
+          church
+            ? sql`exists (select 1 from json_each(${moderationChange.records}) where json_extract(value, '$.after.id') = ${church})`
+            : undefined,
         ),
       )
       .orderBy(desc(moderationChange.id))
       .limit(limit)
-    const changes = rows.map((entry) => ({
-      id: entry.id,
-      appliedAt: entry.appliedAt,
-      churches: entry.records.map(({ after }) => ({ id: after.id, name: after.name })),
-      message: changeMessage(entry, lang ?? churchLang(entry.records[0]?.after)),
-    }))
+    const changes = rows.map((entry) => {
+      const language = lang ?? churchLang(entry.records[0]?.after)
+      return {
+        id: entry.id,
+        appliedAt: entry.appliedAt,
+        churches: changeDetails(entry, language),
+        message: changeMessage(entry, language),
+      }
+    })
     // A full page may have more behind it; a short one is the end.
     const next = changes.length === limit ? changes[changes.length - 1].id : undefined
     return c.json({ changes, next })
