@@ -21,11 +21,17 @@
     box-shadow: 0 0 0 2px rgba(201,168,76,.55), 0 60px 160px rgba(0,0,0,.7);
   }
   .phone img { display: block; width: 100%; border-radius: 120px; }
+  /* 13" iPad: 2064 x 2752. */
+  html.ipad, html.ipad body { width: 2064px; height: 2752px; }
+  html.ipad h1 { top: 130px; left: 200px; right: 200px; font-size: 128px; }
+  html.ipad .phone { top: 470px; width: 1720px; border-radius: 72px; padding: 18px; }
+  html.ipad .phone img { border-radius: 56px; }
 </style>
 <h1 id="c"></h1>
 <div class="phone"><img id="s"></div>
 <script>
   const p = new URLSearchParams(location.search)
+  if (p.get('d') === 'ipad') document.documentElement.className = 'ipad'
   document.getElementById('c').textContent = p.get('c')
   document.getElementById('s').src = p.get('s')
 </script>
