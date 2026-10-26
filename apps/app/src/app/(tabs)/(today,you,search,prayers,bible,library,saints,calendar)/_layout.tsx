@@ -1,4 +1,6 @@
-import { Stack } from 'expo-router'
+import { Stack, useIsFocused } from 'expo-router'
+import { useState } from 'react'
+import { View } from 'react-native'
 import { useTheme } from 'tamagui'
 
 import { GlassBackdropScope } from '@/components/glassBackdrop'
@@ -26,9 +28,18 @@ export const unstable_settings = {
 // push/pop and puts the Search tab's field back in the tab bar as the bar
 // returns (patches/react-native-screens); toggling NativeTabs' `hidden` from JS
 // lands mid-transition instead, flickering the bar.
+//
+// Native tabs mount every tab at launch. An iPad has eight, and the shelves
+// behind Saints, Library and Prayers each lay out their whole catalog, which
+// held the JS thread for seconds before Today could answer a tap. A tab builds
+// its stack the first time it is opened and keeps it from then on.
 export default function TabStackLayout() {
   const theme = useTheme()
   const tabBarOnTop = useTabBarOnTop()
+  const focused = useIsFocused()
+  const [opened, setOpened] = useState(focused)
+  if (focused && !opened) setOpened(true)
+  if (!opened) return <View style={{ flex: 1, backgroundColor: theme.background?.val }} />
   return (
     <Stack
       screenLayout={({ children, route }) => (

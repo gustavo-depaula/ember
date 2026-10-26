@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react'
 import { type StyleProp, Text, type TextStyle } from 'react-native'
-import Svg, { Circle, LinearGradient, Path, Rect, Stop } from 'react-native-svg'
+import Svg, { LinearGradient, Path, Rect, Stop } from 'react-native-svg'
 
 import { type BlockTone, blockInk, blockLabelInk } from '@/features/explore/bgColor'
 
@@ -89,6 +89,18 @@ export function Glyph({
 }
 
 /**
+ * Dots as one path of two arcs each. A lace ring is 60-odd dots and a shelf
+ * holds dozens of cards: one react-native-svg `Circle` per dot cost seconds of
+ * JS rendering on an iPad's full grids, where one `Path` per ring costs one shape.
+ */
+function DotsPath({ dots, r, color }: { dots: Array<[number, number]>; r: number; color: string }) {
+  const d = dots
+    .map(([x, y]) => `M${x - r} ${y}a${r} ${r} 0 1 0 ${2 * r} 0a${r} ${r} 0 1 0 ${-2 * r} 0`)
+    .join('')
+  return <Path d={d} fill={color} />
+}
+
+/**
  * The scalloped lace edge of a holy card: a ring of dots whose centres sit on
  * the card's inner edge, so half of each bulges out. Returns the dots only; the
  * caller paints the card body over their centres.
@@ -106,13 +118,7 @@ export function LaceDots({ size, color }: { size: number; color: string }) {
     // Corners already came from the top and bottom rows.
     if (i > 0 && i < count - 1) dots.push([near, c], [far, c])
   }
-  return (
-    <>
-      {dots.map(([x, y]) => (
-        <Circle key={`${x}-${y}`} cx={x} cy={y} r={r} fill={color} />
-      ))}
-    </>
-  )
+  return <DotsPath dots={dots} r={r} color={color} />
 }
 
 /**
@@ -149,9 +155,7 @@ export function LaceRect({
   }
   return (
     <>
-      {dots.map(([cx, cy]) => (
-        <Circle key={`${cx}-${cy}`} cx={cx} cy={cy} r={r} fill={color} />
-      ))}
+      <DotsPath dots={dots} r={r} color={color} />
       <Rect x={x + sx / 2} y={y + sy / 2} width={w - sx} height={h - sy} rx={1} fill={color} />
     </>
   )
