@@ -5,6 +5,7 @@ import type { BookEntry } from '@/content/manifestTypes'
 import type { TocNode } from '@/content/resolver'
 import { getBlob, getText } from '@/content/store'
 import { galleryExtension } from '@/features/books/markedGalleryExtension'
+import i18n from '@/lib/i18n'
 
 const md = new Marked().use(markedFootnote()).use(galleryExtension())
 
@@ -109,7 +110,7 @@ export function flattenReadingFlow(
   function walk(nodes: TocNode[], depth: number) {
     for (const node of nodes) {
       const isGroup = !!node.children?.length
-      const hasBody = !!manifest.chapters?.[node.id]?.[lang]
+      const hasBody = chapterLang(manifest, node.id, lang) !== undefined
       if (!isGroup || hasBody) {
         flow.push({ id: node.id, index: flow.length, role: inferRole(node, depth) })
       }
@@ -118,6 +119,39 @@ export function flattenReadingFlow(
   }
   walk(toc, 0)
   return flow
+}
+
+/**
+ * The language a chapter's body is read in: `lang` when the chapter has it,
+ * else English, else whichever it has. A book can list a language before every
+ * chapter is translated (the Summa's Prima Pars is in Portuguese, the rest is
+ * not yet), and a missing chapter reads in the original instead of blank.
+ */
+export function chapterLang(
+  manifest: Pick<BookEntry, 'chapters'>,
+  chapterId: string,
+  lang: string,
+): string | undefined {
+  const bodies = manifest.chapters?.[chapterId]
+  if (!bodies) return undefined
+  if (bodies[lang]) return lang
+  if (bodies['en-US']) return 'en-US'
+  return Object.keys(bodies)[0]
+}
+
+/** The note under a chapter title read in another language than the book's. */
+function fallbackNotice(lang: string, shown: string): string {
+  // Portuguese writes language names in lowercase mid-sentence ("em inglês").
+  const name = (code: string) => {
+    const label = i18n.t(`languages.${code}`, { lng: lang, defaultValue: code })
+    return lang.startsWith('en') ? label : label.toLocaleLowerCase(lang)
+  }
+  const text = i18n.t('books.chapterNotTranslated', {
+    lng: lang,
+    wanted: name(lang),
+    language: name(shown),
+  })
+  return `<p class="lang-fallback no-dropcap" lang="${lang}">${text}</p>`
 }
 
 /** The content language to read a book in: the preferred one when the book has it, else its first. */
@@ -335,7 +369,8 @@ export async function openBookSession(
   async function fetchChapter(index: number, inlineImages: boolean): Promise<string> {
     const node = readingFlow[index]
     if (!node) return ''
-    const source = await loadChapterSource(manifest, node.id, lang)
+    const shown = chapterLang(manifest, node.id, lang) ?? lang
+    const source = await loadChapterSource(manifest, node.id, shown)
     // Defensive: a node in the flow with no body (shouldn't happen) still
     // gets its TOC title as a synthesized H1 so the page isn't blank.
     if (!source) {
@@ -343,7 +378,19 @@ export async function openBookSession(
       return title ? promoteFirstHeading(`<h1>${title}</h1>`, node.role) : ''
     }
     const html = source.format === 'markdown' ? await md.parse(source.text) : source.text
-    const promoted = promoteFirstHeading(extractBody(html), node.role)
+    const body = promoteFirstHeading(extractBody(html), node.role)
+    // The notice goes under the title; the body keeps its own language so
+    // WebKit hyphenates it with the right dictionary.
+    const promoted =
+      shown === lang
+        ? body
+        : (() => {
+            const notice = fallbackNotice(lang, shown)
+            const end = body.indexOf('</h2>')
+            const [head, rest] =
+              end >= 0 ? [body.slice(0, end + 5), body.slice(end + 5)] : ['', body]
+            return `${head}${notice}<div lang="${shown}">${rest}</div>`
+          })()
     return inlineImages ? inlineChapterImages(promoted, manifest, imageCache) : promoted
   }
 

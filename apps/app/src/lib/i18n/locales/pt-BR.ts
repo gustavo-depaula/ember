@@ -788,6 +788,8 @@ export default {
     pagesLeftInChapter_other: '{{count}} p\u00e1ginas restantes no cap\u00edtulo',
     minutesLeft_one: '~1 min',
     minutesLeft_other: '~{{count}} min',
+    chapterNotTranslated:
+      'Este capítulo ainda não está disponível em {{wanted}}; segue o texto em {{language}}.',
     footnote: 'Nota de rodap\u00e9',
     backToPrevious: 'Voltar \u00e0 posi\u00e7\u00e3o anterior',
     search: 'Buscar no livro',

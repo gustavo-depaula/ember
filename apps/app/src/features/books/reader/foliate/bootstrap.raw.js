@@ -137,6 +137,17 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     }
     h2.part-title + p { text-indent: 0; }
 
+    /* Under the title of a chapter shown in another language than the book's
+       (not yet translated): a quiet italic note, no drop cap. */
+    p.lang-fallback {
+      font-size: 0.85em;
+      font-style: italic;
+      text-align: center;
+      text-indent: 0;
+      opacity: 0.7;
+      margin: -0.6em 0 1.6em;
+    }
+
     /* Section title: between chapter and part — centered, no fleuron. */
     h2.section-title {
       font-size: 1.55em;

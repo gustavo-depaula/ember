@@ -3,6 +3,7 @@ import type { BookEntry, TocNode } from '@/content/manifestTypes'
 import {
   ancestorGroupIds,
   buildTitleLookup,
+  chapterLang,
   flattenReadingFlow,
   flattenToc,
   promoteFirstHeading,
@@ -134,5 +135,26 @@ describe('buildTitleLookup', () => {
     expect(m.get('preface')).toBe('Prefácio')
     expect(m.get('book-1')).toBe('Book One')
     expect(m.get('ch-2-a')).toBe('Section A')
+  })
+})
+
+describe('chapterLang', () => {
+  const ref = { hash: 'h', format: 'markdown' } as never
+  const manifest = {
+    chapters: { a: { 'pt-BR': ref, 'en-US': ref }, b: { la: ref, 'en-US': ref }, c: { la: ref } },
+  }
+
+  it('reads a chapter in the wanted language when it has one, else English, else what it has', () => {
+    expect(chapterLang(manifest, 'a', 'pt-BR')).toBe('pt-BR')
+    expect(chapterLang(manifest, 'b', 'pt-BR')).toBe('en-US')
+    expect(chapterLang(manifest, 'c', 'pt-BR')).toBe('la')
+    expect(chapterLang(manifest, 'missing', 'pt-BR')).toBeUndefined()
+  })
+
+  it('keeps a group with a body only in another language in the reading flow', () => {
+    const toc = [
+      { id: 'b', title: { 'en-US': 'B' }, children: [{ id: 'a', title: { 'en-US': 'A' } }] },
+    ]
+    expect(flattenReadingFlow(toc as never, manifest, 'pt-BR').map((n) => n.id)).toEqual(['b', 'a'])
   })
 })

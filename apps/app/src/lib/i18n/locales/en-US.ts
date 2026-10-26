@@ -781,6 +781,8 @@ export default {
     pagesLeftInChapter_other: '{{count}} pages left in chapter',
     minutesLeft_one: '~1 min',
     minutesLeft_other: '~{{count}} min',
+    chapterNotTranslated:
+      'This chapter is not yet available in {{wanted}}; it is shown in {{language}}.',
     footnote: 'Footnote',
     backToPrevious: 'Back to previous location',
     search: 'Search book',
