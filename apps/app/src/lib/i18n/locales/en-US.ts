@@ -1280,6 +1280,7 @@ export default {
     search: 'Search practices...',
     addToPlan: 'Add to Plan',
     alreadyInPlan: 'In your Plan',
+    estimatedTime: 'About {{minutes}} min',
     about: 'About',
     history: 'History',
     howToPray: 'How to Pray',

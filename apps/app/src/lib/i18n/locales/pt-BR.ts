@@ -1288,6 +1288,7 @@ export default {
     search: 'Buscar práticas...',
     addToPlan: 'Adicionar ao Plano',
     alreadyInPlan: 'No seu Plano',
+    estimatedTime: 'Cerca de {{minutes}} min',
     about: 'Sobre',
     history: 'Hist\u00f3ria',
     howToPray: 'Como Rezar',
