@@ -41,7 +41,7 @@ describe('liturgicalActs', () => {
   })
 
   it('does not count a standalone Little Office, or a devotion', () => {
-    expect(kinds('little-office-bvm', 'little-office-bvm-carmelite', 'rosary')).toEqual([])
+    expect(kinds('little-office-bvm-roman', 'little-office-bvm-carmelite', 'rosary')).toEqual([])
   })
 
   it('ignores backfilled days', () => {

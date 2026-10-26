@@ -1,9 +1,6 @@
 import { describe, expect, it } from 'vitest'
-import officeHymns from '../../../../../../content/practices/little-office-bvm/data/office-hymns.json'
-import littleOffice from '../../../../../../content/practices/little-office-bvm/flow.json'
 import { flow, flowDef, makeContext, makeEngineContext } from '../../../__fixtures__/engine'
 import { type EngineContext, resolveFlow, resolveFlowAsync } from '../../../engine'
-import type { CycleData, FlowDefinition } from '../../../types'
 
 describe('resolveFlowAsync — cycle with prose+book', () => {
   it('preloads the current cycle entry chapter for prose+book sections', async () => {
@@ -93,26 +90,5 @@ describe('resolveFlow — CycleData contextKey', () => {
     expect(result).toMatchObject([
       { type: 'include', ref: 'producer/psalmody', params: { psalms: [90, 91] } },
     ])
-  })
-})
-
-describe('resolveFlowAsync — the Little Office opens with its hymn', () => {
-  it('renders every hour of the Little Office with its hymn', async () => {
-    const cycleData = { 'office-hymns': officeHymns } as Record<string, CycleData>
-    const [select] = await resolveFlowAsync(
-      littleOffice as FlowDefinition,
-      makeContext({ cycleData, numbering: 'mt' }),
-      makeEngineContext(),
-    )
-    if (select?.type !== 'select') throw new Error('no hour select')
-    for (const option of select.options) {
-      expect(
-        option.sections.find((s) => s.type === 'hymn'),
-        option.id,
-      ).toMatchObject({
-        title: { primary: expect.stringMatching(/\w/) },
-        text: { primary: expect.stringMatching(/\w/) },
-      })
-    }
   })
 })

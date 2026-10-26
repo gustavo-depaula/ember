@@ -49,7 +49,7 @@
       }
     },
     {
-      "ref": "little-office-bvm",
+      "ref": "little-office-bvm-roman",
       "tier": "ideal",
       "schedule": { "type": "days-of-week", "days": [6] },
       "time": "09:00",

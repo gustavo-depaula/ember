@@ -1,7 +1,7 @@
 {
   "id": "little-office-bvm-cistercian",
   "alternativeTo": {
-    "id": "little-office-bvm",
+    "id": "little-office-bvm-roman",
     "label": {
       "en-US": "Cistercian",
       "pt-BR": "Cisterciense"
