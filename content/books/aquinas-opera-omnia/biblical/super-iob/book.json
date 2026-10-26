@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Job",
-    "la": "Expositio super Iob ad litteram"
+    "la": "Expositio super Iob ad litteram",
+    "pt-BR": "Comentário a Jó"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's literal commentary on the Book of Job — composed at Orvieto during the years preparing the *Summa Contra Gentiles*. A theology of providence, suffering, and the integrity of the just man.",
-    "la": "Expositio Thomae litteralis in librum Iob — apud Urbem Veterem composita per annos quibus *Summa contra Gentiles* parabatur. Theologia providentiae, passionis, et integritatis viri iusti."
+    "la": "Expositio Thomae litteralis in librum Iob — apud Urbem Veterem composita per annos quibus *Summa contra Gentiles* parabatur. Theologia providentiae, passionis, et integritatis viri iusti.",
+    "pt-BR": "Comentário literal de Tomás de Aquino ao livro de Jó — composto em Orvieto durante os anos de preparação da *Suma contra os Gentios*. Uma teologia da providência, do sofrimento e da integridade do homem justo."
   },
   "composed": "1261–1265",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Chapter 1 — Prologue",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1 — Prólogo"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Prólogo"
           }
         }
       ]
@@ -51,35 +57,40 @@
       "id": "g2",
       "title": {
         "en-US": "Chapter 2 — The First Trial",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2 — A primeira provação"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Introduction",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Introdução"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — Satan’s request",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O pedido de Satanás"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — The trial",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A provação"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — Job’s submission",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A submissão de Jó"
           }
         }
       ]
@@ -88,21 +99,24 @@
       "id": "g3",
       "title": {
         "en-US": "Chapter 3 — The Second Trial",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3 — A segunda provação"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — Satan tries Job in his flesh",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Satanás põe Jó à prova em sua carne"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2 — Job humbled",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Jó humilhado"
           }
         }
       ]
@@ -111,28 +125,32 @@
       "id": "g4",
       "title": {
         "en-US": "Chapter 4 — Job’s Lament",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4 — O lamento de Jó"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Job curses his life",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Jó amaldiçoa sua vida"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2 — Job would rest in peace with the dead",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Jó repousaria em paz com os mortos"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3 — Like the unhappy",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Como os infelizes"
           }
         }
       ]
@@ -141,28 +159,32 @@
       "id": "g5",
       "title": {
         "en-US": "Chapter 5 — The Discourse of Eliphaz",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5 — O discurso de Elifaz"
       },
       "children": [
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — On the impatience of Job",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Sobre a impaciência de Jó"
           }
         },
         {
           "id": "g5-c002",
           "title": {
             "en-US": "Lecture 2 — Job and his family justly punished",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Jó e sua família justamente punidos"
           }
         },
         {
           "id": "g5-c003",
           "title": {
             "en-US": "Lecture 3 — The nocturnal vision of Eliphaz",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A visão noturna de Elifaz"
           }
         }
       ]
@@ -171,28 +193,32 @@
       "id": "g6",
       "title": {
         "en-US": "Chapter 6 — The Discourse of Eliphaz Continues",
-        "la": "Caput 6"
+        "la": "Caput 6",
+        "pt-BR": "Capítulo 6 — Continua o discurso de Elifaz"
       },
       "children": [
         {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1 — Only the blameworthy are punished",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Somente os culpados são punidos"
           }
         },
         {
           "id": "g6-c002",
           "title": {
             "en-US": "Lecture 2 — Providence governs the world",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A providência governa o mundo"
           }
         },
         {
           "id": "g6-c003",
           "title": {
             "en-US": "Lecture 3 — God will pardon Job if he recognizes his sin",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Deus perdoará Jó se ele reconhecer seu pecado"
           }
         }
       ]
@@ -201,21 +227,24 @@
       "id": "g7",
       "title": {
         "en-US": "Chapter 7 — The Discourse of Job",
-        "la": "Caput 7"
+        "la": "Caput 7",
+        "pt-BR": "Capítulo 7 — O discurso de Jó"
       },
       "children": [
         {
           "id": "g7-c001",
           "title": {
             "en-US": "Lecture 1 — Job is wounded by God and desires not to exist",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Jó é ferido por Deus e deseja não existir"
           }
         },
         {
           "id": "g7-c002",
           "title": {
             "en-US": "Lecture 2 — Job feels betrayed by his friends",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Jó se sente traído por seus amigos"
           }
         }
       ]
@@ -224,35 +253,40 @@
       "id": "g8",
       "title": {
         "en-US": "Chapter 8 — The Human Condition",
-        "la": "Caput 8"
+        "la": "Caput 8",
+        "pt-BR": "Capítulo 8 — A condição humana"
       },
       "children": [
         {
           "id": "g8-c001",
           "title": {
             "en-US": "Lecture 1 — Life is combat and drudgery",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A vida é combate e trabalho penoso"
           }
         },
         {
           "id": "g8-c002",
           "title": {
             "en-US": "Lecture 2 — The pains of life",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — As dores da vida"
           }
         },
         {
           "id": "g8-c003",
           "title": {
             "en-US": "Lecture 3 — Job laments his terrible destiny",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Jó lamenta seu terrível destino"
           }
         },
         {
           "id": "g8-c004",
           "title": {
             "en-US": "Lecture 4 — The prayer of Job",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A oração de Jó"
           }
         }
       ]
@@ -261,21 +295,24 @@
       "id": "g9",
       "title": {
         "en-US": "Chapter 9 — The Discourse of Bildad: The Allegory of the Rush",
-        "la": "Caput 9"
+        "la": "Caput 9",
+        "pt-BR": "Capítulo 9 — O discurso de Baldad: a alegoria do junco"
       },
       "children": [
         {
           "id": "g9-c001",
           "title": {
             "en-US": "Lecture 1 — God is just",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Deus é justo"
           }
         },
         {
           "id": "g9-c002",
           "title": {
             "en-US": "Lecture 2 — God’s justice is traditional doctrine",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A justiça de Deus é doutrina tradicional"
           }
         }
       ]
@@ -284,35 +321,40 @@
       "id": "g10",
       "title": {
         "en-US": "Chapter 10 — The Problem of Evil",
-        "la": "Caput 10"
+        "la": "Caput 10",
+        "pt-BR": "Capítulo 10 — O problema do mal"
       },
       "children": [
         {
           "id": "g10-c001",
           "title": {
             "en-US": "Lecture 1 — God is almighty",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Deus é onipotente"
           }
         },
         {
           "id": "g10-c002",
           "title": {
             "en-US": "Lecture 2 — God is infinitely wise",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Deus é infinitamente sábio"
           }
         },
         {
           "id": "g10-c003",
           "title": {
             "en-US": "Lecture 3 — Job cannot struggle against God",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Jó não pode lutar contra Deus"
           }
         },
         {
           "id": "g10-c004",
           "title": {
             "en-US": "Lecture 4 — The cruel lot of the just and the wicked",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A sorte cruel dos justos e dos ímpios"
           }
         }
       ]
@@ -321,28 +363,32 @@
       "id": "g11",
       "title": {
         "en-US": "Chapter 11 — The Special Problem of the Suffering of the Just",
-        "la": "Caput 11"
+        "la": "Caput 11",
+        "pt-BR": "Capítulo 11 — O problema particular do sofrimento dos justos"
       },
       "children": [
         {
           "id": "g11-c001",
           "title": {
             "en-US": "Lecture 1 — Job returns to himself: the creator does not deny his creature",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Jó volta a si: o Criador não renega sua criatura"
           }
         },
         {
           "id": "g11-c002",
           "title": {
             "en-US": "Lecture 2 — Is Job blameworthy?",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Jó é culpado?"
           }
         },
         {
           "id": "g11-c003",
           "title": {
             "en-US": "Lecture 3 — Job desires a respite",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Jó deseja uma trégua"
           }
         }
       ]
@@ -351,21 +397,24 @@
       "id": "g12",
       "title": {
         "en-US": "Chapter 12 — Law and Divine Transcendance",
-        "la": "Caput 12"
+        "la": "Caput 12",
+        "pt-BR": "Capítulo 12 — A lei e a transcendência divina"
       },
       "children": [
         {
           "id": "g12-c001",
           "title": {
             "en-US": "Lecture 1 — The infinite grandeur of God",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A grandeza infinita de Deus"
           }
         },
         {
           "id": "g12-c002",
           "title": {
             "en-US": "Lecture 2 — The great infinity of God",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A grande infinitude de Deus"
           }
         }
       ]
@@ -374,21 +423,24 @@
       "id": "g13",
       "title": {
         "en-US": "Chapter 13 — What Experience Teaches Us About God",
-        "la": "Caput 13"
+        "la": "Caput 13",
+        "pt-BR": "Capítulo 13 — O que a experiência nos ensina sobre Deus"
       },
       "children": [
         {
           "id": "g13-c001",
           "title": {
             "en-US": "Lecture 1 — God aids the humble",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Deus auxilia os humildes"
           }
         },
         {
           "id": "g13-c002",
           "title": {
             "en-US": "Lecture 2 — God rules everything",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Deus governa todas as coisas"
           }
         }
       ]
@@ -397,21 +449,24 @@
       "id": "g14",
       "title": {
         "en-US": "Chapter 14 — Prosperity and Adversity",
-        "la": "Caput 14"
+        "la": "Caput 14",
+        "pt-BR": "Capítulo 14 — Prosperidade e adversidade"
       },
       "children": [
         {
           "id": "g14-c001",
           "title": {
             "en-US": "Lecture 1 — The perversity of the friends of Job",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A perversidade dos amigos de Jó"
           }
         },
         {
           "id": "g14-c002",
           "title": {
             "en-US": "Lecture 2 — Job asks God what grievances he has against him",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Jó pergunta a Deus que queixas tem contra ele"
           }
         }
       ]
@@ -420,42 +475,48 @@
       "id": "g15",
       "title": {
         "en-US": "Chapter 15 — True Retribution",
-        "la": "Caput 15"
+        "la": "Caput 15",
+        "pt-BR": "Capítulo 15 — A verdadeira retribuição"
       },
       "children": [
         {
           "id": "g15-c001",
           "title": {
             "en-US": "Lecture 1 — Wonder about divine care",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Admiração diante do cuidado divino"
           }
         },
         {
           "id": "g15-c002",
           "title": {
             "en-US": "Lecture 2 — The hope for another life",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A esperança de outra vida"
           }
         },
         {
           "id": "g15-c003",
           "title": {
             "en-US": "Lecture 3 — The strength of the tree and the weakness of man",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A força da árvore e a fraqueza do homem"
           }
         },
         {
           "id": "g15-c004",
           "title": {
             "en-US": "Lecture 4 — Waiting for darkness and hope of resurrection",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A espera das trevas e a esperança da ressurreição"
           }
         },
         {
           "id": "g15-c005",
           "title": {
             "en-US": "Lecture 5 — One cannot return from Sheol",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — Não se pode voltar do Xeol"
           }
         }
       ]
@@ -464,28 +525,32 @@
       "id": "g16",
       "title": {
         "en-US": "Chapter 16 — New Condemnation of Job",
-        "la": "Caput 16"
+        "la": "Caput 16",
+        "pt-BR": "Capítulo 16 — Nova condenação de Jó"
       },
       "children": [
         {
           "id": "g16-c001",
           "title": {
             "en-US": "Lecture 1 — Job’s pride and presumption",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O orgulho e a presunção de Jó"
           }
         },
         {
           "id": "g16-c002",
           "title": {
             "en-US": "Lecture 2 — Divine punishment is inevitable",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A punição divina é inevitável"
           }
         },
         {
           "id": "g16-c003",
           "title": {
             "en-US": "Lecture 3 — The unhappy end of the wicked",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O fim infeliz dos ímpios"
           }
         }
       ]
@@ -494,21 +559,24 @@
       "id": "g17",
       "title": {
         "en-US": "Chapter 17 — The Answer of Job to Eliphaz",
-        "la": "Caput 17"
+        "la": "Caput 17",
+        "pt-BR": "Capítulo 17 — A resposta de Jó a Elifaz"
       },
       "children": [
         {
           "id": "g17-c001",
           "title": {
             "en-US": "Lecture 1 — Job again describes his trials",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Jó descreve novamente suas provações"
           }
         },
         {
           "id": "g17-c002",
           "title": {
             "en-US": "Lecture 2 — The promises of his friends are vain",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — As promessas de seus amigos são vãs"
           }
         }
       ]
@@ -517,21 +585,24 @@
       "id": "g18",
       "title": {
         "en-US": "Chapter 18 — Job Counts on God’s Friendship",
-        "la": "Caput 18"
+        "la": "Caput 18",
+        "pt-BR": "Capítulo 18 — Jó conta com a amizade de Deus"
       },
       "children": [
         {
           "id": "g18-c001",
           "title": {
             "en-US": "Lecture 1 — Job calls on God",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Jó invoca a Deus"
           }
         },
         {
           "id": "g18-c002",
           "title": {
             "en-US": "Lecture 2 — Job ridicules his friends",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Jó ridiculariza seus amigos"
           }
         }
       ]
@@ -540,21 +611,24 @@
       "id": "g19",
       "title": {
         "en-US": "Chapter 19 — The Inexorable Fate of the Wicked",
-        "la": "Caput 19"
+        "la": "Caput 19",
+        "pt-BR": "Capítulo 19 — O destino inexorável dos ímpios"
       },
       "children": [
         {
           "id": "g19-c001",
           "title": {
             "en-US": "Lecture 1 — The response of Baldath",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A resposta de Baldad"
           }
         },
         {
           "id": "g19-c002",
           "title": {
             "en-US": "Lecture 2 — The pains of the sinner",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — As penas do pecador"
           }
         }
       ]
@@ -563,21 +637,24 @@
       "id": "g20",
       "title": {
         "en-US": "Chapter 20 — Job Answers Baldath",
-        "la": "Caput 20"
+        "la": "Caput 20",
+        "pt-BR": "Capítulo 20 — Jó responde a Baldad"
       },
       "children": [
         {
           "id": "g20-c001",
           "title": {
             "en-US": "Lecture 1 — A new description of his misfortune",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Uma nova descrição de sua desgraça"
           }
         },
         {
           "id": "g20-c002",
           "title": {
             "en-US": "Lecture 2 — Job’s great profession of faith: his redeemer lives",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A grande profissão de fé de Jó: seu redentor vive"
           }
         }
       ]
@@ -586,21 +663,24 @@
       "id": "g21",
       "title": {
         "en-US": "Chapter 21 — Sophar’s Answer: A Future Life, but Punishments on Earth",
-        "la": "Caput 21"
+        "la": "Caput 21",
+        "pt-BR": "Capítulo 21 — A resposta de Sofar: uma vida futura, mas punições na terra"
       },
       "children": [
         {
           "id": "g21-c001",
           "title": {
             "en-US": "Lecture 1 — The success of the sinner is shortlived",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O êxito do pecador dura pouco"
           }
         },
         {
           "id": "g21-c002",
           "title": {
             "en-US": "Lecture 2 — The punishment of the wicked",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A punição dos ímpios"
           }
         }
       ]
@@ -609,21 +689,24 @@
       "id": "g22",
       "title": {
         "en-US": "Chapter 22 — The Second Answer of Job to Sophar",
-        "la": "Caput 22"
+        "la": "Caput 22",
+        "pt-BR": "Capítulo 22 — A segunda resposta de Jó a Sofar"
       },
       "children": [
         {
           "id": "g22-c001",
           "title": {
             "en-US": "Lecture 1 — Why do the wicked live?",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Por que vivem os ímpios?"
           }
         },
         {
           "id": "g22-c002",
           "title": {
             "en-US": "Lecture 2 — All come to the same end",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Todos chegam ao mesmo fim"
           }
         }
       ]
@@ -632,21 +715,24 @@
       "id": "g23",
       "title": {
         "en-US": "Chapter 23 — The Third Discourse of Eliphaz",
-        "la": "Caput 23"
+        "la": "Caput 23",
+        "pt-BR": "Capítulo 23 — O terceiro discurso de Elifaz"
       },
       "children": [
         {
           "id": "g23-c001",
           "title": {
             "en-US": "Lecture 1 — Job's character attacked",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O caráter de Jó é atacado"
           }
         },
         {
           "id": "g23-c002",
           "title": {
             "en-US": "Lecture 2 — Return to the Almighty",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Retorno ao Onipotente"
           }
         }
       ]
@@ -655,14 +741,16 @@
       "id": "g24",
       "title": {
         "en-US": "Chapter 24 — The Discourse of Job",
-        "la": "Caput 24"
+        "la": "Caput 24",
+        "pt-BR": "Capítulo 24 — O discurso de Jó"
       },
       "children": [
         {
           "id": "g24-c001",
           "title": {
             "en-US": "Lecture 1 — Job appeals to the judgment of God",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Jó apela ao juízo de Deus"
           }
         }
       ]
@@ -671,14 +759,16 @@
       "id": "g25",
       "title": {
         "en-US": "Chapter 25 — Job Continues",
-        "la": "Caput 25"
+        "la": "Caput 25",
+        "pt-BR": "Capítulo 25 — Jó continua"
       },
       "children": [
         {
           "id": "g25-c001",
           "title": {
             "en-US": "Lecture 1 — The reconciliation of evil with the power and the wisdom of God",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A conciliação do mal com o poder e a sabedoria de Deus"
           }
         }
       ]
@@ -687,14 +777,16 @@
       "id": "g26",
       "title": {
         "en-US": "Chapter 26 — The Short Answer of Baldath",
-        "la": "Caput 26"
+        "la": "Caput 26",
+        "pt-BR": "Capítulo 26 — A breve resposta de Baldad"
       },
       "children": [
         {
           "id": "g26-c001",
           "title": {
             "en-US": "Lecture 1 — Man is not pure in God's sight",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O homem não é puro aos olhos de Deus"
           }
         }
       ]
@@ -703,14 +795,16 @@
       "id": "g27",
       "title": {
         "en-US": "Chapter 27 — The Last Response of Job",
-        "la": "Caput 27"
+        "la": "Caput 27",
+        "pt-BR": "Capítulo 27 — A última resposta de Jó"
       },
       "children": [
         {
           "id": "g27-c001",
           "title": {
             "en-US": "Lecture 1 — Man cannot understand the power of God",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O homem não pode compreender o poder de Deus"
           }
         }
       ]
@@ -719,14 +813,16 @@
       "id": "g28",
       "title": {
         "en-US": "Chapter 28 — Job Continues his Answer",
-        "la": "Caput 28"
+        "la": "Caput 28",
+        "pt-BR": "Capítulo 28 — Jó continua sua resposta"
       },
       "children": [
         {
           "id": "g28-c001",
           "title": {
             "en-US": "Lecture 1 — The prosperity of evildoers is not against divine providence",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A prosperidade dos malfeitores não contraria a providência divina"
           }
         }
       ]
@@ -735,21 +831,24 @@
       "id": "g29",
       "title": {
         "en-US": "Chapter 29 — Job Continues His Discourse in Praise of Wisdom",
-        "la": "Caput 29"
+        "la": "Caput 29",
+        "pt-BR": "Capítulo 29 — Jó continua seu discurso em louvor da sabedoria"
       },
       "children": [
         {
           "id": "g29-c001",
           "title": {
             "en-US": "Lecture 1 — Wisdom is not in a determined place",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A sabedoria não está em um lugar determinado"
           }
         },
         {
           "id": "g29-c002",
           "title": {
             "en-US": "Lecture 2 — Where wisdom is found",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Onde se encontra a sabedoria"
           }
         }
       ]
@@ -758,14 +857,16 @@
       "id": "g30",
       "title": {
         "en-US": "Chapter 30 — Job Continues Recalling the Past",
-        "la": "Caput 30"
+        "la": "Caput 30",
+        "pt-BR": "Capítulo 30 — Jó continua a recordar o passado"
       },
       "children": [
         {
           "id": "g30-c001",
           "title": {
             "en-US": "Lecture 1 — The happy days of Job",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Os dias felizes de Jó"
           }
         }
       ]
@@ -774,14 +875,16 @@
       "id": "g31",
       "title": {
         "en-US": "Chapter 31 — The Discourse of Job Continues",
-        "la": "Caput 31"
+        "la": "Caput 31",
+        "pt-BR": "Capítulo 31 — Continua o discurso de Jó"
       },
       "children": [
         {
           "id": "g31-c001",
           "title": {
             "en-US": "Lecture 1 — His present distress",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Sua aflição presente"
           }
         }
       ]
@@ -790,21 +893,24 @@
       "id": "g32",
       "title": {
         "en-US": "Chapter 32 — Job Seeks Justice",
-        "la": "Caput 32"
+        "la": "Caput 32",
+        "pt-BR": "Capítulo 32 — Jó busca justiça"
       },
       "children": [
         {
           "id": "g32-c001",
           "title": {
             "en-US": "Lecture 1 — Job is chaste, just and good",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Jó é casto, justo e bom"
           }
         },
         {
           "id": "g32-c002",
           "title": {
             "en-US": "Lecture 2 — Job concludes his defense",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Jó conclui sua defesa"
           }
         }
       ]
@@ -813,14 +919,16 @@
       "id": "g33",
       "title": {
         "en-US": "Chapter 33 — The Discourse of Eliud",
-        "la": "Caput 33"
+        "la": "Caput 33",
+        "pt-BR": "Capítulo 33 — O discurso de Eliú"
       },
       "children": [
         {
           "id": "g33-c001",
           "title": {
             "en-US": "Lecture 1 — Introductory remarks",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Observações introdutórias"
           }
         }
       ]
@@ -829,21 +937,24 @@
       "id": "g34",
       "title": {
         "en-US": "Chapter 34 — Eliud Exhorts Job to Repentance",
-        "la": "Caput 34"
+        "la": "Caput 34",
+        "pt-BR": "Capítulo 34 — Eliú exorta Jó ao arrependimento"
       },
       "children": [
         {
           "id": "g34-c001",
           "title": {
             "en-US": "Lecture 1 — What Job should confess",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O que Jó deve confessar"
           }
         },
         {
           "id": "g34-c002",
           "title": {
             "en-US": "Lecture 2 — God teaches men in many ways",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Deus ensina os homens de muitas maneiras"
           }
         }
       ]
@@ -852,21 +963,24 @@
       "id": "g35",
       "title": {
         "en-US": "Chapter 35 — Discourse on Divine Justice",
-        "la": "Caput 35"
+        "la": "Caput 35",
+        "pt-BR": "Capítulo 35 — Discurso sobre a justiça divina"
       },
       "children": [
         {
           "id": "g35-c001",
           "title": {
             "en-US": "Lecture 1 — God is just to the individual",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Deus é justo com cada indivíduo"
           }
         },
         {
           "id": "g35-c002",
           "title": {
             "en-US": "Lecture 2 — God punishes the people",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Deus pune o povo"
           }
         }
       ]
@@ -875,14 +989,16 @@
       "id": "g36",
       "title": {
         "en-US": "Chapter 36 — Eliud Continues His Discourse",
-        "la": "Caput 36"
+        "la": "Caput 36",
+        "pt-BR": "Capítulo 36 — Eliú continua seu discurso"
       },
       "children": [
         {
           "id": "g36-c001",
           "title": {
             "en-US": "Lecture 1 — Man’s deeds are not indifferent to God",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Os atos do homem não são indiferentes a Deus"
           }
         }
       ]
@@ -891,21 +1007,24 @@
       "id": "g37",
       "title": {
         "en-US": "Chapter 37 — God Alone is Just",
-        "la": "Caput 37"
+        "la": "Caput 37",
+        "pt-BR": "Capítulo 37 — Só Deus é justo"
       },
       "children": [
         {
           "id": "g37-c001",
           "title": {
             "en-US": "Lecture 1 — The true meaning of the sufferings of Job",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O verdadeiro sentido dos sofrimentos de Jó"
           }
         },
         {
           "id": "g37-c002",
           "title": {
             "en-US": "Lecture 2 — Hymn to the almighty",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Hino ao Onipotente"
           }
         }
       ]
@@ -914,21 +1033,24 @@
       "id": "g38",
       "title": {
         "en-US": "Chapter 38 — Hymn to God",
-        "la": "Caput 38"
+        "la": "Caput 38",
+        "pt-BR": "Capítulo 38 — Hino a Deus"
       },
       "children": [
         {
           "id": "g38-c001",
           "title": {
             "en-US": "Lecture 1 — The wisdom of the almighty",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A sabedoria do Onipotente"
           }
         },
         {
           "id": "g38-c002",
           "title": {
             "en-US": "Lecture 2 — Eliud completes his praise of God",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Eliú conclui seu louvor a Deus"
           }
         }
       ]
@@ -937,28 +1059,32 @@
       "id": "g39",
       "title": {
         "en-US": "Chapter 39 — God Resolves the Question",
-        "la": "Caput 39"
+        "la": "Caput 39",
+        "pt-BR": "Capítulo 39 — Deus resolve a questão"
       },
       "children": [
         {
           "id": "g39-c001",
           "title": {
             "en-US": "Lecture 1 — What can man understand?",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — O que o homem pode compreender?"
           }
         },
         {
           "id": "g39-c002",
           "title": {
             "en-US": "Lecture 2 — God’s marvels of earth, sea, and air",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — As maravilhas de Deus na terra, no mar e no ar"
           }
         },
         {
           "id": "g39-c003",
           "title": {
             "en-US": "Lecture 3 — The marvels of the animal kingdom",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — As maravilhas do reino animal"
           }
         }
       ]
@@ -967,14 +1093,16 @@
       "id": "g40",
       "title": {
         "en-US": "Chapter 40 — God Continues His Discourse",
-        "la": "Caput 40"
+        "la": "Caput 40",
+        "pt-BR": "Capítulo 40 — Deus continua seu discurso"
       },
       "children": [
         {
           "id": "g40-c001",
           "title": {
             "en-US": "Lecture 1 — The marvels of the animal kingdom",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — As maravilhas do reino animal"
           }
         }
       ]
@@ -983,28 +1111,32 @@
       "id": "g41",
       "title": {
         "en-US": "Chapter 41 — The Command of God over the Powers of Evil",
-        "la": "Caput 41"
+        "la": "Caput 41",
+        "pt-BR": "Capítulo 41 — O domínio de Deus sobre os poderes do mal"
       },
       "children": [
         {
           "id": "g41-c001",
           "title": {
             "en-US": "Lecture 1 — God strengthens Job in his weakness",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Deus fortalece Jó em sua fraqueza"
           }
         },
         {
           "id": "g41-c002",
           "title": {
             "en-US": "Lecture 2 — Behemoth or the elephant as a metaphor for the devil",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Beemot ou o elefante como metáfora do diabo"
           }
         },
         {
           "id": "g41-c003",
           "title": {
             "en-US": "Lecture 3 — Leviathan as a metaphor for the devil",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Leviatã como metáfora do diabo"
           }
         }
       ]
@@ -1013,21 +1145,24 @@
       "id": "g42",
       "title": {
         "en-US": "Chapter 42 — The Great Power of Satan",
-        "la": "Caput 42"
+        "la": "Caput 42",
+        "pt-BR": "Capítulo 42 — O grande poder de Satanás"
       },
       "children": [
         {
           "id": "g42-c001",
           "title": {
             "en-US": "Lecture 1 — God cannot be reproached",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Deus não pode ser censurado"
           }
         },
         {
           "id": "g42-c002",
           "title": {
             "en-US": "Lecture 2 — How Satan acts in sinners",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Como Satanás age nos pecadores"
           }
         }
       ]
@@ -1036,21 +1171,24 @@
       "id": "g43",
       "title": {
         "en-US": "Chapter 43 — Job’s Repentance",
-        "la": "Caput 43"
+        "la": "Caput 43",
+        "pt-BR": "Capítulo 43 — O arrependimento de Jó"
       },
       "children": [
         {
           "id": "g43-c001",
           "title": {
             "en-US": "Lecture 1 — Job answers the Lord",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Jó responde ao Senhor"
           }
         },
         {
           "id": "g43-c002",
           "title": {
             "en-US": "Lecture 2 — Epilogue—Job's reward",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Epílogo — A recompensa de Jó"
           }
         }
       ]
