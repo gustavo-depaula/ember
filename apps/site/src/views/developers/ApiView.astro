@@ -1,0 +1,258 @@
+---
+import { openApiDocument } from '@ember/api'
+import { sourceUrl } from '~/lib/developers/flowReference'
+import { escapeHtml } from '~/lib/developers/json'
+import { type JsonSchema, schemaAnchor } from '~/lib/developers/schema'
+import type { Locale } from '~/lib/locale'
+import { massTimesApi } from '~/lib/massTimes/data'
+import Code from './Code.astro'
+import DevShell from './DevShell.astro'
+import SchemaTable from './SchemaTable.astro'
+import TypeLabel from './TypeLabel.astro'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+type Parameter = {
+  name: string
+  in: 'query' | 'path' | 'header'
+  required: boolean
+  description?: string
+  schema: JsonSchema
+}
+type Operation = {
+  tags?: string[]
+  summary: string
+  description?: string
+  parameters?: Parameter[]
+  requestBody?: { content: Record<string, { schema: JsonSchema }> }
+  responses: Record<string, { description: string; content?: Record<string, { schema: JsonSchema }> }>
+}
+
+const { locale, alternates } = Astro.props
+const spec = openApiDocument(massTimesApi)
+const churchId = 'ns-do-carmo-se-sao-paulo-sp'
+
+// What the consoles start filled with: a real church in São Paulo and the streets around it.
+const examples: Record<string, Record<string, string>> = {
+  '/churches/near': { lat: '-23.5505', lng: '-46.6333', radiusKm: '2', limit: '5' },
+  '/churches': { q: 'Carmo', near: '-23.5505,-46.6333', limit: '5' },
+  '/churches/index': { limit: '5' },
+  '/churches/tiles/{cell}': { cell: '6gyf' },
+  '/churches/{id}': { id: churchId },
+  '/churches/{id}/verifications': { id: churchId, limit: '5' },
+}
+
+// Writes reach the real moderation queue, so they get a command to adapt rather than a console.
+const writeExamples: Record<string, string> = {
+  '/churches/{id}/verify': `curl -X POST '${massTimesApi}/churches/${churchId}/verify' \\
+  -H 'Content-Type: application/json' -H 'X-Client-Id: my-app-install-42' \\
+  -d '{}'`,
+  '/churches/{id}/corrections': `curl -X POST '${massTimesApi}/churches/${churchId}/corrections' \\
+  -H 'Content-Type: application/json' -H 'X-Client-Id: my-app-install-42' \\
+  -d '{"kind": "note", "comment": "From October the Sunday Mass is at 9:30."}'`,
+  '/churches/{id}/corrections/attachments': `curl -X POST '${massTimesApi}/churches/${churchId}/corrections/attachments' \\
+  -H 'Content-Type: image/jpeg' -H 'X-Client-Id: my-app-install-42' \\
+  --data-binary @bulletin.jpg`,
+}
+
+const slug = (method: string, path: string) =>
+  `${method}${path.replace(/[{}]/g, '').replace(/\//g, '-')}`
+
+const tagOrder = [...spec.tags.map((t) => t.name), undefined]
+const operations = Object.entries(spec.paths as Record<string, Record<string, Operation>>)
+  .flatMap(([path, ops]) => Object.entries(ops).map(([method, op]) => ({ path, method, op })))
+  .sort((a, b) => tagOrder.indexOf(a.op.tags?.[0]) - tagOrder.indexOf(b.op.tags?.[0]))
+const groups = tagOrder.map((tag) => ({
+  tag,
+  description: spec.tags.find((t) => t.name === tag)?.description,
+  operations: operations.filter((o) => o.op.tags?.[0] === tag),
+}))
+const schemas = spec.components.schemas as Record<string, JsonSchema>
+
+const urlFor = (path: string) => {
+  const values = examples[path] ?? {}
+  const filled = path.replace(/\{(\w+)\}/g, (_, name) => encodeURIComponent(values[name] ?? name))
+  const query = Object.entries(values)
+    .filter(([name]) => !path.includes(`{${name}}`))
+    .map(([k, v]) => `${k}=${encodeURIComponent(v)}`)
+    .join('&')
+  return `${massTimesApi}${filled}${query ? `?${query}` : ''}`
+}
+
+// The spec's descriptions mark identifiers with backticks.
+const inlineCode = (text: string) =>
+  escapeHtml(text).replace(/`([^`]+)`/g, '<code>$1</code>')
+
+const toc = [
+  { id: 'basics', label: 'Basics' },
+  { id: 'schedules', label: 'Reading a schedule' },
+  ...groups.filter((g) => g.tag).map((g) => ({ id: `tag-${g.tag}`, label: g.tag as string })),
+  { id: 'schemas', label: 'Schemas' },
+]
+
+const expandSnippet = `import { expandService } from './expand' // packages/api/src/expand.ts
+
+const church = await (await fetch('${massTimesApi}/churches/${churchId}')).json()
+for (const service of church.services.filter((s) => s.kind === 'mass')) {
+  for (const { date, startTime } of expandService(service, { count: 3 })) {
+    console.log(date.toISOString().slice(0, 10), startTime, service.language)
+  }
+}`
+---
+
+<DevShell
+  locale={locale}
+  alternates={alternates}
+  doc="api"
+  title="Mass-times API"
+  kicker="Developers · Reference"
+  lede="A worldwide directory of churches and the times of their Masses, confessions and adoration. Reads are open to anyone; a correction is a suggestion that a person reviews."
+  toc={toc}
+>
+  <section class="dev-section" id="basics">
+    <h2 class="t-section">Basics</h2>
+    <dl class="dev-facts">
+      <dt>Base URL</dt>
+      <dd><code>{massTimesApi}</code> <button class="code-copy inline" type="button" data-copy={massTimesApi}>Copy</button></dd>
+      <dt>OpenAPI</dt>
+      <dd><a class="xref" href="/developers/openapi.json">openapi.json</a>, for Postman, Bruno or a client generator</dd>
+      <dt>Auth</dt>
+      <dd>None. Every route allows any origin, so a web page can call it directly.</dd>
+      <dt>Caching</dt>
+      <dd>Reads are <code>public, max-age=300</code>; map tiles an hour, then a day stale while revalidating.</dd>
+      <dt>Errors</dt>
+      <dd>A missing church is <code>404 {'{ "error": "not_found" }'}</code>. A bad parameter is <code>400</code> with the <a class="xref" href={`#${schemaAnchor('ValidationError')}`}>validation issues</a>. Too many writes is <code>429 {'{ "error": "rate_limited" }'}</code>.</dd>
+    </dl>
+  </section>
+
+  <section class="dev-section" id="schedules">
+    <h2 class="t-section">Reading a schedule</h2>
+    <p>
+      A church’s <code>services</code> are its recurring times, one pattern at one time each: “Sundays at 9:00” is one
+      service and “Sundays at 11:30” another. <code>rrule</code> is an iCalendar rule that picks the days, and
+      <code>startTime</code> gives the wall-clock time in the church’s own <code>timezone</code>. <code>exdate</code>
+      lists cancelled days and <code>rdate</code> added ones. The API sends the rules unexpanded, so you compute the
+      next Mass on your side.
+    </p>
+    <p>
+      <a class="xref" href={sourceUrl('packages/api/src/expand.ts')} rel="noopener">expand.ts</a> does this in sixty lines on the
+      <a class="xref" href="https://github.com/jkbrzt/rrule" rel="noopener">rrule</a> package, and like the rest of Ember it is in the public domain to copy:
+    </p>
+    <Code code={expandSnippet} label="JavaScript" />
+    <p class="t-annotation">
+      A bundler takes it as it is. Plain Node finds no named exports in rrule: write
+      <code>import rrule from 'rrule'</code> and <code>const {'{ RRule, RRuleSet }'} = rrule</code>.
+    </p>
+    <p class="t-annotation">
+      Where no structured schedule is on record (<code>hasStructuredSchedule</code> is false), the parish’s own wording is in
+      <code>texts</code>, as it was published.
+    </p>
+  </section>
+
+  {groups.map((group) => (
+    <section class="dev-section" id={group.tag ? `tag-${group.tag}` : 'tag-other'}>
+      {group.tag && <h2 class="t-section">{group.tag}</h2>}
+      {group.description && <p class="muted">{group.description}</p>}
+      {group.operations.map(({ path, method, op }) => {
+        const params = op.parameters ?? []
+        const body = op.requestBody && Object.values(op.requestBody.content)[0]?.schema
+        const live = method === 'get' && path !== '/health'
+        return (
+          <article class="op" id={slug(method, path)}>
+            <header class="op-head">
+              <span class={`method m-${method}`}>{method.toUpperCase()}</span>
+              <code class="op-path">{path}</code>
+            </header>
+            <h3 class="op-summary">{op.summary}</h3>
+            {op.description && <p class="op-desc" set:html={inlineCode(op.description)} />}
+
+            {params.length > 0 && (
+              <table class="fields">
+                <caption class="t-kicker">Parameters</caption>
+                <tbody>
+                  {params.map((p) => (
+                    <tr>
+                      <th scope="row">
+                        <code>{p.name}</code>
+                        <span class="where">{p.in}</span>
+                        {p.required ? <span class="req">required</span> : null}
+                      </th>
+                      <td>
+                        <TypeLabel schema={p.schema} />
+                        {p.description && <p class="t-annotation">{p.description}</p>}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            )}
+
+            {body && (
+              <div class="op-body">
+                <p class="t-kicker">Request body</p>
+                <SchemaTable schema={body} />
+              </div>
+            )}
+
+            <div class="op-responses">
+              <p class="t-kicker">Responses</p>
+              <ul>
+                {Object.entries(op.responses).map(([status, response]) => {
+                  const schema = response.content && Object.values(response.content)[0]?.schema
+                  return (
+                    <li>
+                      <span class={`status s-${status[0]}`}>{status}</span>
+                      <span set:html={inlineCode(response.description)} />
+                      {schema && <TypeLabel schema={schema} />}
+                    </li>
+                  )
+                })}
+              </ul>
+            </div>
+
+            {live && (
+              <form class="try" data-try data-base={massTimesApi} data-path={path}>
+                <p class="t-kicker">Try it</p>
+                <div class="try-fields">
+                  {params.map((p) => (
+                    <label>
+                      <span><code>{p.name}</code>{p.required ? ' *' : ''}</span>
+                      <input
+                        name={p.name}
+                        data-in={p.in}
+                        value={examples[path]?.[p.name] ?? ''}
+                        placeholder={p.schema.default !== undefined ? String(p.schema.default) : ''}
+                        autocomplete="off"
+                        spellcheck="false"
+                        required={p.in === 'path'}
+                      />
+                    </label>
+                  ))}
+                </div>
+                <div class="try-bar">
+                  <code class="try-url" data-url>{urlFor(path)}</code>
+                  <button class="try-send" type="submit">Send</button>
+                </div>
+                <div class="try-result" data-result hidden></div>
+              </form>
+            )}
+            {!live && writeExamples[path] && <Code code={writeExamples[path]} label="Shell" />}
+          </article>
+        )
+      })}
+    </section>
+  ))}
+
+  <section class="dev-section" id="schemas">
+    <h2 class="t-section">Schemas</h2>
+    {Object.entries(schemas).map(([name, schema]) => (
+      <article class="schema" id={schemaAnchor(name)}>
+        <h3 class="op-summary"><code>{name}</code></h3>
+        <SchemaTable schema={schema} />
+      </article>
+    ))}
+  </section>
+</DevShell>

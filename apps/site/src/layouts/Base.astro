@@ -213,6 +213,7 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
               <ul>
                 <li><a href={href.landing(locale)}>{s('theApp')}</a></li>
                 <li><a href={href.section(locale, 'connect')}>{s('connect')}</a></li>
+                <li><a href={href.developers('en-US')} hreflang="en">{s('developers')}</a></li>
                 <li><a href={href.privacy()}>{s('privacy')}</a></li>
                 <li><a href="https://github.com/gustavo-depaula/ember" rel="noopener">{s('source')}</a></li>
                 <li><a href={otherHref} hreflang={htmlLang[other]}>{s('otherLanguage')}</a></li>

@@ -1,0 +1,38 @@
+---
+import { constraints, fieldRows, type JsonSchema } from '~/lib/developers/schema'
+import TypeLabel from './TypeLabel.astro'
+
+interface Props {
+  schema: JsonSchema
+}
+
+// One variant per `oneOf` branch (a correction's kinds), each named by its constant field.
+const { schema } = Astro.props
+const variants = (schema.oneOf ?? [schema]).map((variant) => {
+  const tag = Object.entries(variant.properties ?? {}).find(([, s]) => s.const !== undefined)
+  return { name: tag ? `${tag[0]}: ${JSON.stringify(tag[1].const)}` : undefined, rows: fieldRows(variant) }
+})
+---
+
+{variants.map((v) => (
+  <div class="fields-block">
+    {v.name && <p class="variant-name"><code>{v.name}</code></p>}
+    <table class="fields">
+      <tbody>
+        {v.rows.map((row) => (
+          <tr>
+            <th scope="row" style={row.depth ? `padding-left:${row.depth * 20}px` : undefined}>
+              <code>{row.depth ? `↳ ${row.name}` : row.name}</code>
+              {row.required ? <span class="req">required</span> : null}
+            </th>
+            <td>
+              <TypeLabel schema={row.schema} />
+              {constraints(row.schema).map((c) => <span class="limit">{c}</span>)}
+              {row.schema.description && <p class="t-annotation">{row.schema.description}</p>}
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+))}

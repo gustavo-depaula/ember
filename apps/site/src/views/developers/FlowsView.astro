@@ -1,0 +1,146 @@
+---
+import { flowReference, sourceUrl } from '~/lib/developers/flowReference'
+import { escapeHtml } from '~/lib/developers/json'
+import type { Locale } from '~/lib/locale'
+import { href } from '~/routes'
+import Code from './Code.astro'
+import DevShell from './DevShell.astro'
+import FlowFields from './FlowFields.astro'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const reference = flowReference()
+
+const docHtml = (doc: string) => escapeHtml(doc).replace(/`([^`]+)`/g, '<code>$1</code>')
+
+const minimal = `{
+  "sections": [
+    { "type": "rubric", "text": { "en-US": "Kneel.", "pt-BR": "De joelhos." } },
+    { "type": "prayer", "ref": "our-father" },
+    { "type": "prayer", "ref": "hail-mary" },
+    {
+      "type": "response",
+      "verses": [
+        { "v": { "en-US": "Pray for us, O holy Mother of God." }, "r": { "en-US": "That we may be made worthy of the promises of Christ." } }
+      ]
+    }
+  ]
+}`
+
+const toc = [
+  { id: 'shape', label: 'A practice' },
+  { id: 'definition', label: 'The flow' },
+  { id: 'LocalizedText', label: 'Languages' },
+  { id: 'sections', label: 'Section types' },
+  { id: 'pipeline', label: 'From flow to page' },
+]
+---
+
+<DevShell
+  locale={locale}
+  alternates={alternates}
+  doc="flows"
+  title="Flow DSL"
+  kicker="Developers · Reference"
+  lede={`Every prayer in Ember is data: a JSON flow of ${reference.sections.length} section types that the engine turns into text to pray, in any language the flow carries. This page is read from the engine’s own types, and each example is taken from the corpus.`}
+  toc={toc}
+>
+  <section class="dev-section" id="shape">
+    <h2 class="t-section">A practice</h2>
+    <p>
+      A practice is a folder in <a class="xref" href={sourceUrl('content/practices')} rel="noopener">content/practices</a>:
+      a <code>manifest.json</code> with its names, description and length, and a <code>flow.json</code> with what is
+      prayed. There is no code: the same engine runs the Rosary, a novena and the Office. A short prayer is a practice
+      too, and other flows include it by ref. The smallest useful flow:
+    </p>
+    <Code code={minimal} json label="flow.json" />
+    <p class="t-annotation">
+      Run <code>pnpm validate-flows</code> in the repository to check every flow against these rules.
+    </p>
+  </section>
+
+  <section class="dev-section" id="definition">
+    <h2 class="t-section">The flow</h2>
+    <FlowFields fields={reference.definition} />
+  </section>
+
+  <section class="dev-section" id="LocalizedText">
+    <h2 class="t-section">Languages</h2>
+    <p>
+      Text is an object keyed by language, and a reader sees the one they pray in, with the other beside it when they ask.
+      Prayed text may carry Latin too.
+    </p>
+    <dl class="dev-facts">
+      <dt><code>LocalizedText</code></dt>
+      <dd><code>{reference.localized.LocalizedText}</code></dd>
+      <dt id="LocalizedContent"><code>LocalizedContent</code></dt>
+      <dd><code>{reference.localized.LocalizedContent}</code></dd>
+      <dt id="PickerStyle"><code>PickerStyle</code></dt>
+      <dd><code>{reference.localized.PickerStyle}</code></dd>
+    </dl>
+    <p class="t-annotation">
+      Any section may set <code>lang</code> to show only in that language. A ref without a kind, such as
+      <code>"ref": "our-father"</code>, names a practice (<code>practice/our-father</code>).
+    </p>
+  </section>
+
+  <section class="dev-section" id="sections">
+    <h2 class="t-section">Section types</h2>
+    <ul class="type-index">
+      {reference.sections.map((s) => (
+        <li><a href={`#section-${s.type}`}><code>{s.type}</code></a></li>
+      ))}
+    </ul>
+
+    {reference.sections.map((s) => (
+      <article class="op" id={`section-${s.type}`}>
+        <header class="op-head">
+          <code class="op-path">{s.type}</code>
+          <span class="t-annotation">{s.usedBy ? `used by ${s.usedBy} ${s.usedBy === 1 ? 'item' : 'items'}` : 'not used in a practice or chapter yet'}</span>
+        </header>
+        {s.variants.map((v, i) => (
+          <div class="variant">
+            {s.variants.length > 1 && <p class="t-kicker">Form {i + 1}</p>}
+            {v.doc && <p class="op-desc" set:html={docHtml(v.doc)} />}
+            {v.fields.length > 0 ? (
+              <FlowFields fields={v.fields} />
+            ) : (
+              <p class="t-annotation">No fields beyond <code>type</code>.</p>
+            )}
+            {v.example && (
+              <>
+                <Code code={v.example.json} json label={`From ${v.example.item}`} />
+                <p class="example-source">
+                  <a class="xref" href={sourceUrl(v.example.source)} rel="noopener">{v.example.source}</a>
+                </p>
+              </>
+            )}
+          </div>
+        ))}
+      </article>
+    ))}
+  </section>
+
+  <section class="dev-section" id="pipeline">
+    <h2 class="t-section">From flow to page</h2>
+    <ol class="dev-list numbered">
+      <li>
+        The <a class="xref" href={sourceUrl('packages/content-engine')} rel="noopener">engine</a> walks the flow for a day
+        and a language: it picks options, repeats decades and cycles days. It knows nothing about any one practice.
+      </li>
+      <li>
+        A <a class="xref" href={sourceUrl('apps/app/src/content/preprocessFlow.ts')} rel="noopener">preprocessor</a> resolves
+        every ref, reading and <code>include</code> through the content sources: a prayer by ref, a chapter of Scripture,
+        the readings of the day.
+      </li>
+      <li>
+        A renderer draws about a dozen <a class="xref" href={sourceUrl('apps/app/src/content/primitives.ts')} rel="noopener">primitives</a>.
+        The app and this <a class="xref" href={href.section(locale, 'prayers')}>website</a> share everything up to this step.
+      </li>
+    </ol>
+  </section>
+</DevShell>

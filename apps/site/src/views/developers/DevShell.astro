@@ -1,0 +1,56 @@
+---
+import Base from '~/layouts/Base.astro'
+import type { Locale } from '~/lib/locale'
+import { type DevDoc, href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  doc: DevDoc
+  title: string
+  kicker?: string
+  lede: string
+  /** The page's own sections, for the rail. */
+  toc?: { id: string; label: string }[]
+}
+
+const { locale, alternates, doc, title, kicker = 'Developers', lede, toc = [] } = Astro.props
+const docs: { key: DevDoc; label: string }[] = [
+  { key: 'overview', label: 'Overview' },
+  { key: 'api', label: 'Mass-times API' },
+  { key: 'corpus', label: 'The corpus' },
+  { key: 'flows', label: 'Flow DSL' },
+]
+---
+
+<Base locale={locale} title={doc === 'overview' ? 'Developers' : `${title} · Developers`} description={lede} alternates={alternates} section="developers">
+  <div class="wide dev">
+    <nav class="dev-rail" aria-label="Developers">
+      <ul class="dev-docs">
+        {docs.map((d) => (
+          <li><a href={href.developers(locale, d.key)} aria-current={d.key === doc ? 'page' : undefined}>{d.label}</a></li>
+        ))}
+      </ul>
+      {toc.length > 0 && (
+        <div class="dev-toc">
+          <p class="t-kicker">On this page</p>
+          <ul>
+            {toc.map((t) => <li><a href={`#${t.id}`}>{t.label}</a></li>)}
+          </ul>
+        </div>
+      )}
+    </nav>
+    <div class="dev-main">
+      <header class="page-head">
+        <p class="t-kicker">{kicker}</p>
+        <h1 class="t-screen">{title}</h1>
+        <p class="lede">{lede}</p>
+      </header>
+      <slot />
+    </div>
+  </div>
+</Base>
+
+<script>
+  import '~/scripts/developers'
+</script>

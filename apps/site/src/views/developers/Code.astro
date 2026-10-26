@@ -1,0 +1,19 @@
+---
+import { escapeHtml, highlightJson } from '~/lib/developers/json'
+
+interface Props {
+  code: string
+  json?: boolean
+  /** A caption above the block: the file, the shell, where it runs. */
+  label?: string
+}
+
+const { code, json, label } = Astro.props
+const html = json ? highlightJson(code) : escapeHtml(code)
+---
+
+<figure class="code">
+  {label && <figcaption class="t-kicker">{label}</figcaption>}
+  <button class="code-copy" type="button" data-copy={code}>Copy</button>
+  <pre><code set:html={html} /></pre>
+</figure>

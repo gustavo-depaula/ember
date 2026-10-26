@@ -10,6 +10,7 @@ import MassTimesView from '~/views/MassTimesView.astro'
 import PlaceView from '~/views/PlaceView.astro'
 import PlansView from '~/views/PlansView.astro'
 import ConnectView from '~/views/ConnectView.astro'
+import DevelopersView from '~/views/developers/DevelopersView.astro'
 import SearchView from '~/views/SearchView.astro'
 import VoicesView from '~/views/VoicesView.astro'
 import CalendarDayView from '~/views/CalendarDayView.astro'
@@ -78,3 +79,4 @@ const { page, locale, alternates, canonical } = entry
 {page.view === 'voices' && <VoicesView locale={locale} alternates={alternates} />}
 {page.view === 'chants' && <ChantsView locale={locale} alternates={alternates} />}
 {page.view === 'chant' && <ChantView locale={locale} alternates={alternates} id={page.id} />}
+{page.view === 'developers' && <DevelopersView locale={locale} alternates={alternates} doc={page.doc} />}

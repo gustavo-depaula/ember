@@ -13,7 +13,7 @@ import { indexedChurches, places } from '~/lib/massTimes/data'
 import { listPrayers } from '~/lib/prayers'
 import { saintsCatalog } from '~/lib/saints'
 import { today } from '~/lib/today'
-import { href, isoDate, type OfficeHour, officeHours } from '~/routes'
+import { type DevDoc, devDocs, href, isoDate, type OfficeHour, officeHours } from '~/routes'
 
 export type Page =
   | { view: 'home' }
@@ -47,6 +47,7 @@ export type Page =
   | { view: 'voices' }
   | { view: 'chants' }
   | { view: 'chant'; id: string }
+  | { view: 'developers'; doc: DevDoc }
 
 export type PageEntry = {
   locale: Locale
@@ -212,6 +213,14 @@ async function drafts(): Promise<Draft[]> {
   out.push({ page: { view: 'chants' }, path: (l) => href.section(l, 'chant') })
   for (const [id] of listEntries('chant')) {
     out.push({ page: { view: 'chant', id }, path: (l) => href.chant(l, id) })
+  }
+  // Written for programmers, who read English: the portal has no Portuguese edition.
+  for (const doc of devDocs) {
+    out.push({
+      page: { view: 'developers', doc },
+      locales: ['en-US'],
+      path: (l) => href.developers(l, doc),
+    })
   }
   return out
 }

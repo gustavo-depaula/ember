@@ -23,6 +23,7 @@ export {
   resolutionSchema,
   ruleProblem,
 } from './moderation'
+export { type OpenApiDocument, openApiDocument } from './openapi'
 export {
   type Attachment,
   attachment,
@@ -32,11 +33,14 @@ export {
   type Correction,
   church,
   churchCell,
+  churchLinkSchema,
+  churchTextSchema,
   correction,
   moderationChange,
   moderationReview,
   moderationRun,
   type Service,
+  serviceSchema,
   type VerificationEvent,
   verificationEvent,
 } from './schema'

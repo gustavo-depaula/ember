@@ -11,10 +11,13 @@ export const nearQuerySchema = z.object({
   lat: z.coerce.number().min(-90).max(90),
   lng: z.coerce.number().min(-180).max(180),
   radiusKm: z.coerce.number().positive().max(50).default(10),
-  kind: z.string().optional(),
-  rite: z.string().optional(),
-  institute: z.string().optional(),
-  status: z.string().optional(),
+  kind: z
+    .string()
+    .optional()
+    .describe('Keep only services of this kind: mass, confession, adoration'),
+  rite: z.string().optional().describe('Keep only services of this rite, e.g. latin_tridentine'),
+  institute: z.string().optional().describe('Only churches served by this institute, e.g. FSSP'),
+  status: z.string().optional().describe('active | temporarily_closed | closed'),
   limit,
 })
 
@@ -44,9 +47,11 @@ const near = z.string().transform((s, ctx) => {
 // contract can't express a full table scan.
 export const churchesQuerySchema = z
   .object({
-    q: z.string().optional(), // FTS5 name search
-    near: near.optional(), // with q: rank matches nearest this point first
-    bbox: bbox.optional(), // map viewport → geohash covering-set
+    q: z.string().optional().describe('Name search'),
+    near: near.optional().describe('With q: "lat,lng" to rank matches nearest it first'),
+    bbox: bbox
+      .optional()
+      .describe('A map viewport, "minLng,minLat,maxLng,maxLat": churches, or clusters when wide'),
     kind: z.string().optional(),
     rite: z.string().optional(),
     institute: z.string().optional(),
@@ -62,14 +67,21 @@ export const churchesQuerySchema = z
 // find every church. `after` is the last id of the previous page (keyset, so each page is one PK
 // range scan); `scheduled` keeps only churches with service times on record.
 export const churchIndexQuerySchema = z.object({
-  after: z.string().max(256).optional(),
-  scheduled: z.enum(['1']).optional(),
+  after: z.string().max(256).optional().describe('The last id of the previous page'),
+  scheduled: z.enum(['1']).optional().describe('Only churches with service times on record'),
   limit: z.coerce.number().int().min(1).max(1000).default(500),
 })
 
 // A map tile is a geohash cell (its alphabet has no a, i, l or o), or `root` for the whole world.
-export const tileParamSchema = z.object({ cell: z.string().regex(/^(root|[0-9b-hjkmnp-z]{1,5})$/) })
-export const tileQuerySchema = z.object({ kind: z.string().optional() })
+export const tileParamSchema = z.object({
+  cell: z
+    .string()
+    .regex(/^(root|[0-9b-hjkmnp-z]{1,5})$/)
+    .describe('A geohash of 1–5 characters, or root'),
+})
+export const tileQuerySchema = z.object({
+  kind: z.string().optional().describe('Count only churches with services of this kind'),
+})
 
 export const verificationsQuerySchema = z.object({ limit, offset })
 
@@ -148,7 +160,10 @@ export const correctionBodySchema = z.discriminatedUnion('kind', [
 ])
 
 export const verifyBodySchema = z.object({
-  serviceId: z.string().optional(),
+  serviceId: z
+    .string()
+    .optional()
+    .describe('The service confirmed; none confirms the whole church'),
 })
 
 export type ChurchIndexQuery = z.infer<typeof churchIndexQuerySchema>

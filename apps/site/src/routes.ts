@@ -23,6 +23,7 @@ const sections = {
     library: 'library',
     day: 'day',
     connect: 'connect',
+    developers: 'developers',
   },
   'pt-BR': {
     prayers: 'oracoes',
@@ -43,6 +44,7 @@ const sections = {
     library: 'biblioteca',
     day: 'dia',
     connect: 'conectar',
+    developers: 'desenvolvedores',
   },
 } as const satisfies Record<Locale, Record<string, string>>
 
@@ -148,7 +150,13 @@ export const href = {
   plan: (l: Locale, id: string) => join(l, sections[l].plans, slugOf(id)),
   voice: (l: Locale, id: string) => join(l, sections[l].voices, slugOf(id)),
   chant: (l: Locale, id: string) => join(l, sections[l].chant, slugOf(id)),
+  /** The developer portal: its overview, or one of its guides. English only. */
+  developers: (l: Locale, doc?: DevDoc) =>
+    join(l, sections[l].developers, doc === 'overview' ? undefined : doc),
 }
+
+export const devDocs = ['overview', 'api', 'corpus', 'flows'] as const
+export type DevDoc = (typeof devDocs)[number]
 
 /** The page for a corpus ref (`practice/rosary`, `book/x#chapter`), if the site has one. */
 export function hrefForRef(l: Locale, ref: string): string | undefined {

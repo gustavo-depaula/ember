@@ -1,5 +1,6 @@
 import { type InferSelectModel, sql } from 'drizzle-orm'
 import { index, integer, primaryKey, real, sqliteTable, text } from 'drizzle-orm/sqlite-core'
+import { z } from 'zod'
 import type { Proposal, Resolution } from './moderation'
 
 // Source of truth for the Mass-Times directory. Domain types are inferred from these tables
@@ -15,30 +16,38 @@ import type { Proposal, Resolution } from './moderation'
 // a church is always read whole. Embedding makes `/near` a single geohash scan and cuts row writes
 // ~4× (no per-child rows/indexes). `service.id` is deterministic (`churchId:hash(slot)`) so a
 // `correction` can still target one Mass.
-export type Service = {
-  id: string
-  kind: string // mass | confession | adoration
-  rite?: string // Mass only; latin_novus_ordo | latin_tridentine | byzantine | ...
-  language?: string // ISO 639
-  rrule: string // iCal RRULE: ONE pattern at ONE time
-  startTime: string // 'HH:MM' wall-clock; displayed as-is, expanded on-device
-  endTime?: string
-  exdate?: string // RRuleSet EXDATE (cancelled dates)
-  rdate?: string // RRuleSet RDATE (one-off added dates)
-  locationNote?: string
-  note?: string
-  source?: string // import | manual | user
-  confidence?: number
-}
-export type ChurchText = {
-  kind: string // mass_times | seasonal_mass_times | confession | adoration | info
-  rawText: string
-  sourceUpdatedAt?: string
-}
-export type ChurchLink = {
-  kind: string // website | instagram | facebook | whatsapp | youtube | livestream | donation
-  url: string
-}
+export const serviceSchema = z.object({
+  id: z.string(),
+  kind: z.string().describe('mass | confession | adoration'),
+  rite: z
+    .string()
+    .optional()
+    .describe('Mass only: latin_novus_ordo | latin_tridentine | byzantine | …'),
+  language: z.string().optional().describe('ISO 639'),
+  rrule: z.string().describe('iCal RRULE: one pattern at one time'),
+  startTime: z.string().describe("'HH:MM' wall-clock in the church's timezone"),
+  endTime: z.string().optional(),
+  exdate: z.string().optional().describe('RRuleSet EXDATE: cancelled dates'),
+  rdate: z.string().optional().describe('RRuleSet RDATE: one-off added dates'),
+  locationNote: z.string().optional(),
+  note: z.string().optional(),
+  source: z.string().optional().describe('import | manual | user'),
+  confidence: z.number().optional(),
+})
+export const churchTextSchema = z.object({
+  kind: z.string().describe('mass_times | seasonal_mass_times | confession | adoration | info'),
+  rawText: z.string(),
+  sourceUpdatedAt: z.string().optional(),
+})
+export const churchLinkSchema = z.object({
+  kind: z
+    .string()
+    .describe('website | instagram | facebook | whatsapp | youtube | livestream | donation'),
+  url: z.string(),
+})
+export type Service = z.infer<typeof serviceSchema>
+export type ChurchText = z.infer<typeof churchTextSchema>
+export type ChurchLink = z.infer<typeof churchLinkSchema>
 
 export const church = sqliteTable(
   'church',

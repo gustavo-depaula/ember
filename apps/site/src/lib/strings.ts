@@ -48,6 +48,7 @@ const strings = {
     connected: 'This browser is connected to your account.',
     syncing: 'Bringing in your latest changes…',
     source: 'Source code',
+    developers: 'Developers',
     footFine:
       'Ember is free and open source. Scripture is the Douay-Rheims Bible, in the public domain. The traditional Breviary and Missal are from Divinum Officium.',
     amdg: 'Ad maiorem Dei gloriam',
@@ -114,6 +115,7 @@ const strings = {
     connected: 'Este navegador está conectado à sua conta.',
     syncing: 'Trazendo suas últimas mudanças…',
     source: 'Código-fonte',
+    developers: 'Desenvolvedores',
     footFine:
       'O Ember é gratuito e de código aberto. A Escritura em inglês é a Bíblia Douay-Rheims, em domínio público. O Breviário e o Missal tradicionais vêm do Divinum Officium.',
     amdg: 'Ad maiorem Dei gloriam',
