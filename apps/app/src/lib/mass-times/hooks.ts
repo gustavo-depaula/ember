@@ -1,4 +1,4 @@
-import type { CorrectionBody, ServiceKind } from '@ember/api'
+import type { Church, CorrectionBody, ServiceKind } from '@ember/api'
 import { useMutation, useQueries, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useEffect, useMemo } from 'react'
 import { clearCacheOlderThan, getCachedWithAge, setCache } from '@/db/repositories'
@@ -12,7 +12,16 @@ import {
   verifyChurch,
 } from './client'
 import { getClientId } from './clientId'
-import { drawView, planView, type Reach, ringAround, type Tile, tilePath } from './tiles'
+import {
+  cellsCovering,
+  detailPrecision,
+  drawView,
+  planView,
+  type Reach,
+  ringAround,
+  type Tile,
+  tilePath,
+} from './tiles'
 
 // Directory data is slow-changing; cache generously and let pinned favorites / details share it.
 const staleTime = 5 * 60 * 1000
@@ -39,6 +48,27 @@ async function loadTile(path: string): Promise<Tile> {
   })
   await setCache(tileKey + path, fetched)
   return fetched
+}
+
+/**
+ * The churches in the detail tiles around a point, `reachDeg` each way: from the tiles the device
+ * keeps when it has them, so asking where you are costs no request once the map has been opened.
+ */
+export async function churchesAround(
+  lat: number,
+  lng: number,
+  reachDeg = 0.003,
+): Promise<Church[]> {
+  const box = {
+    minLat: lat - reachDeg,
+    maxLat: lat + reachDeg,
+    minLng: lng - reachDeg,
+    maxLng: lng + reachDeg,
+  }
+  const tiles = await Promise.all(
+    cellsCovering(box, detailPrecision).map((cell) => loadTile(tilePath(cell, 'detail'))),
+  )
+  return tiles.flatMap((tile) => tile.churches ?? [])
 }
 
 const tileQuery = (path: string) => ({

@@ -25,6 +25,7 @@ import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import { OutlineProvider, useOutline } from '@/components/outline'
 import type { PracticeManifest } from '@/content/manifestTypes'
 import { PreprocessProvider } from '@/content/preprocessRuntime'
+import { useChurchHere } from '@/features/mass-times'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
 import { useProgressiveCount } from '@/hooks/useProgressiveCount'
@@ -129,6 +130,9 @@ function PracticeReady({
   const readingMargin = useReadingMargin()
   const practiceName = localizeContent(manifest.name)
   const actions = usePracticeActions(manifest)
+  const canComplete = manifest.completion !== 'manual' && !isFutureDate && !readOnly
+  // Following the Mass in the pew: when you're at a church, the Amém can say where too.
+  const { data: church } = useChurchHere(canComplete && manifest.liturgicalAct === 'mass')
 
   // Mount the primitive tree in chunks: long practices (Mass, offices) render
   // hundreds of blocks, and mounting them all at once blocks the JS thread
@@ -189,10 +193,10 @@ function PracticeReady({
                   </OutlineProvider>
                 </YStack>
 
-                {manifest.completion !== 'manual' && !isFutureDate && !readOnly && (
-                  <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
+                {canComplete && (
+                  <YStack paddingHorizontal={readingMargin} paddingTop="$lg" gap="$sm">
                     <AnimatedPressable
-                      onPress={completion.handleComplete}
+                      onPress={() => completion.handleComplete()}
                       disabled={completion.isCompleting}
                       accessibilityRole="button"
                       accessibilityLabel={t('office.amen')}
@@ -211,6 +215,30 @@ function PracticeReady({
                         </Typography>
                       </YStack>
                     </AnimatedPressable>
+                    {church ? (
+                      <AnimatedPressable
+                        onPress={() => completion.handleComplete(church)}
+                        disabled={completion.isCompleting}
+                        accessibilityRole="button"
+                        accessibilityLabel={t('massTimes.amenAndCheckIn', { name: church.name })}
+                      >
+                        <YStack
+                          backgroundColor="$backgroundSurface"
+                          borderRadius="$md"
+                          paddingVertical="$sm"
+                          paddingHorizontal="$md"
+                          alignItems="center"
+                          opacity={completion.isCompleting ? 0.6 : 1}
+                        >
+                          <Typography variant="interface" fontSize="$3">
+                            {t('massTimes.amenAndCheckInLabel')}
+                          </Typography>
+                          <Typography variant="annotation" numberOfLines={1}>
+                            {church.name}
+                          </Typography>
+                        </YStack>
+                      </AnimatedPressable>
+                    ) : null}
                   </YStack>
                 )}
 

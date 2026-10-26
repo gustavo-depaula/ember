@@ -1,3 +1,4 @@
+import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -5,6 +6,8 @@ import { Pressable } from 'react-native'
 import { YStack } from 'tamagui'
 
 import { Typography } from '@/components'
+import { getManifest } from '@/content/resolver'
+import { offerMassCheckIn } from '@/features/mass-times'
 import {
   type BlockState,
   type DayPart,
@@ -16,6 +19,8 @@ import {
   useSetSlotDone,
 } from '@/features/plan-of-life'
 import { useCurrentHour } from '@/hooks/useCurrentHour'
+import { getToday } from '@/hooks/useToday'
+import { parseSlotKey } from '@/lib/slotKey'
 import type { TodayPlan } from '../useTodayPlan'
 import { TierLegend, TimeBlockSection } from './TimeBlockSection'
 
@@ -91,7 +96,21 @@ export function TodayChecklist({
             readOnly={isFutureDate}
             onToggle={(item, done) => {
               if (!overrides[block]) setOverrides((prev) => ({ ...prev, [block]: state }))
-              setSlotDone.mutate({ slotKey: item.id, date: selectedDate, done })
+              setSlotDone.mutate(
+                { slotKey: item.id, date: selectedDate, done },
+                {
+                  // Mass ticked today: if you're at a church, ask whether it was there.
+                  onSuccess: () => {
+                    const today = format(getToday(), 'yyyy-MM-dd')
+                    if (
+                      done &&
+                      selectedDate === today &&
+                      getManifest(parseSlotKey(item.id).practiceId)?.liturgicalAct === 'mass'
+                    )
+                      void offerMassCheckIn()
+                  },
+                },
+              )
             }}
             onToggleCollapse={() =>
               setOverrides((prev) => ({
