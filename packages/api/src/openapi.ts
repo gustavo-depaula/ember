@@ -9,6 +9,7 @@ import {
   verificationEvent,
 } from './schema'
 import {
+  changesQuerySchema,
   churchesQuerySchema,
   churchIndexQuerySchema,
   correctionBodySchema,
@@ -169,6 +170,14 @@ export function openApiDocument(serverUrl: string, lang: 'en' | 'pt' = 'en') {
         name: 'Churches',
         'x-displayName': l('Churches', 'Igrejas'),
         description: l('Public reads', 'Leituras públicas'),
+      },
+      {
+        name: 'Changes',
+        'x-displayName': l('Changes', 'Mudanças'),
+        description: l(
+          'What the moderators changed, for directories that keep in step',
+          'O que os moderadores mudaram, para diretórios que acompanham',
+        ),
       },
       {
         name: 'Suggestions',
@@ -333,6 +342,36 @@ export function openApiDocument(serverUrl: string, lang: 'en' | 'pt' = 'en') {
           parameters: [churchId, ...parameters('query', verificationsQuerySchema)],
           responses: {
             200: json(object({ verifications: arrayOf(ref('Verification')) })),
+            400: invalid,
+          },
+        },
+      },
+      '/changes': {
+        get: {
+          tags: ['Changes'],
+          summary: l('The change log', 'O registro de mudanças'),
+          description: l(
+            'Every change a moderator applied to the directory and that still stands, newest first, with a plain-text `message` of what changed and the schedule as it now stands, ready to pass on. Pass the `next` of one page as the `before` of the next; to keep in step, ask with `since` set to the newest `appliedAt` you hold.',
+            'Cada mudança que um moderador aplicou ao diretório e que continua valendo, da mais recente à mais antiga, com uma `message` em texto simples do que mudou e dos horários como estão agora, pronta para repassar. Passe o `next` de uma página como o `before` da seguinte; para acompanhar, peça com `since` igual ao `appliedAt` mais recente que você tem.',
+          ),
+          parameters: parameters('query', changesQuerySchema),
+          responses: {
+            200: json(
+              object(
+                {
+                  changes: arrayOf(
+                    object({
+                      id: { type: 'string' },
+                      appliedAt: { type: 'string', format: 'date-time' },
+                      churches: arrayOf(ref('ChurchKin')),
+                      message: { type: 'string' },
+                    }),
+                  ),
+                  next: { type: 'string' },
+                },
+                ['changes'],
+              ),
+            ),
             400: invalid,
           },
         },

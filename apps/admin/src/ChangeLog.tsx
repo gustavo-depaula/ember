@@ -1,9 +1,9 @@
+import { changeMessage, churchLang } from '@ember/api/src/changeMessage'
+import type { Lang } from '@ember/api/src/schedule'
 import { useState } from 'react'
 import type { Desk } from '../worker/types'
 import { timeAgo } from './App'
 import { useMarkShared } from './api'
-import { changeMessage, churchLang } from './message'
-import type { Lang } from './schedule'
 
 // Every change the desk has made to a church that still stands, each as a message ready to pass on
 // to other Mass-times directories, with a tick for the ones already sent.

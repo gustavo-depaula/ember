@@ -1,12 +1,10 @@
-import type { ProposedService } from '@ember/api/src/moderation'
-import type { Church } from '@ember/api/src/schema'
-import type { StoredHistoryEntry } from '../worker/types'
-import type { FieldKey } from './draft'
+import type { ProposedService } from './moderation'
 import { bulletinOrder, describeService, diffSchedule, type Lang, serviceKinds } from './schedule'
+import type { Church, moderationChange } from './schema'
 
 // A logged change as a plain-text message another Mass-times directory can act on: which church,
 // what changed, and the schedule as it now stands. Plain text because it travels by email and
-// contact form.
+// contact form. The moderation desk shows it for copying, and the API serves it as `/changes`.
 
 const words = {
   en: {
@@ -72,6 +70,12 @@ const words = {
     },
   },
 } satisfies Record<Lang, unknown>
+
+type FieldKey = keyof typeof words.en.fields
+type ChangeEntry = Pick<
+  typeof moderationChange.$inferSelect,
+  'churchId' | 'appliedAt' | 'records' | 'resolution'
+>
 
 // The language a church's own neighbours would write to each other in.
 export function churchLang(church: Church | undefined): Lang {
@@ -147,7 +151,7 @@ function churchSection(
 }
 
 // A resolution that reached several churches of a parish reads as one message, church by church.
-export function changeMessage(entry: StoredHistoryEntry, lang: Lang): string {
+export function changeMessage(entry: ChangeEntry, lang: Lang): string {
   const { resolution, records } = entry
   const names = new Map(records.map((record) => [record.after.id, record.after.name]))
   const nameOf = (id: string) => names.get(id) ?? id

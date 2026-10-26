@@ -1,4 +1,11 @@
 import type { ProposedService } from '@ember/api/src/moderation'
+import {
+  asProposed,
+  describeService,
+  diffSchedule,
+  kindLabels,
+  riteLabels,
+} from '@ember/api/src/schedule'
 import type { Church, Service } from '@ember/api/src/schema'
 import { type ReactNode, useState } from 'react'
 import type { Case } from '../worker/types'
@@ -11,7 +18,6 @@ import {
   type RecordDraft,
   recordOf,
 } from './draft'
-import { asProposed, describeService, diffSchedule, kindLabels, riteLabels } from './schedule'
 
 type Change = {
   key: string

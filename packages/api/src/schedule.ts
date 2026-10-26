@@ -1,5 +1,5 @@
-import type { ProposedService } from '@ember/api/src/moderation'
-import type { Service } from '@ember/api/src/schema'
+import type { ProposedService } from './moderation'
+import type { Service } from './schema'
 
 // Reading and writing a schedule the way a moderator thinks of it (days and times) while the
 // record keeps it as rrules.

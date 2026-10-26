@@ -37,6 +37,7 @@ const examples: Record<string, Record<string, string>> = {
   '/churches/tiles/{cell}': { cell: '6gyf' },
   '/churches/{id}': { id: churchId },
   '/churches/{id}/verifications': { id: churchId, limit: '5' },
+  '/changes': { limit: '5' },
 }
 
 /** An endpoint's URL filled with the example values. */

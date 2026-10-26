@@ -1,5 +1,6 @@
 import { Hono } from 'hono'
 import { cors } from 'hono/cors'
+import { changesRouter } from './features/changes/routes'
 import { churchesRouter } from './features/churches/routes'
 import { correctionsRouter } from './features/corrections/routes'
 
@@ -33,6 +34,7 @@ const app = new Hono<{ Bindings: Env }>()
   .get('/health', (c) => c.json({ ok: true }))
   .route('/churches', churchesRouter)
   .route('/churches', correctionsRouter)
+  .route('/changes', changesRouter)
 
 // Type-only export consumed by the frontend `hc` client (erased at build — no runtime crosses).
 export type AppType = typeof app

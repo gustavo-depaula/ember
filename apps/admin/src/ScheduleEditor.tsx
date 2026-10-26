@@ -1,7 +1,4 @@
 import type { ProposedService } from '@ember/api/src/moderation'
-import type { Church } from '@ember/api/src/schema'
-import { useState } from 'react'
-import type { RecordDraft } from './draft'
 import {
   asProposed,
   dayCodes,
@@ -14,7 +11,10 @@ import {
   serviceKinds,
   weeklyDays,
   weeklyRule,
-} from './schedule'
+} from '@ember/api/src/schedule'
+import type { Church } from '@ember/api/src/schema'
+import { useState } from 'react'
+import type { RecordDraft } from './draft'
 
 const marks = { same: '', changed: '~', added: '+', removed: '−' }
 

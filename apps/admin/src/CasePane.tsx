@@ -1,3 +1,4 @@
+import { describeService } from '@ember/api/src/schedule'
 import type { Church } from '@ember/api/src/schema'
 import { useState } from 'react'
 import type { Case, Suggestion } from '../worker/types'
@@ -17,7 +18,6 @@ import {
 import { ProposalDiff } from './ProposalDiff'
 import { RecordEditor } from './RecordEditor'
 import { ScheduleEditor } from './ScheduleEditor'
-import { describeService } from './schedule'
 
 const kindLabels: Record<string, string> = {
   note: 'Note',

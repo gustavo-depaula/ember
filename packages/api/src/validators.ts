@@ -72,6 +72,22 @@ export const churchIndexQuerySchema = z.object({
   limit: z.coerce.number().int().min(1).max(1000).default(500),
 })
 
+// The changes the moderators applied, newest first, a page at a time. Ids begin with the moment
+// the change was applied, so `before` (the last id of the previous page) is a keyset cursor; a
+// directory that keeps in step polls with `since`.
+export const changesQuerySchema = z.object({
+  since: z.iso
+    .datetime({ offset: true })
+    .optional()
+    .describe('Only changes applied after this instant (ISO 8601)'),
+  before: z.string().max(256).optional().describe('The last id of the previous page'),
+  lang: z
+    .enum(['en', 'pt'])
+    .optional()
+    .describe('The language of every message; by default each church’s own'),
+  limit: z.coerce.number().int().min(1).max(100).default(50),
+})
+
 // A map tile is a geohash cell (its alphabet has no a, i, l or o), or `root` for the whole world.
 export const tileParamSchema = z.object({
   cell: z
@@ -166,6 +182,7 @@ export const verifyBodySchema = z.object({
     .describe('The service confirmed; none confirms the whole church'),
 })
 
+export type ChangesQuery = z.infer<typeof changesQuerySchema>
 export type ChurchIndexQuery = z.infer<typeof churchIndexQuerySchema>
 export type NearQuery = z.infer<typeof nearQuerySchema>
 export type ChurchesQuery = z.infer<typeof churchesQuerySchema>

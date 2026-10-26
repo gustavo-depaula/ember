@@ -1,7 +1,7 @@
 import type { ProposedService, RecordChange, Resolution } from '@ember/api/src/moderation'
+import { asProposed, diffSchedule } from '@ember/api/src/schedule'
 import type { Church, ChurchLink, ChurchText } from '@ember/api/src/schema'
 import type { Case } from '../worker/types'
-import { asProposed, diffSchedule } from './schedule'
 
 // What the moderator is about to apply for one case. It starts as Claude's proposal (or as the
 // records untouched) and is edited freely; only its differences from the records are sent. A case

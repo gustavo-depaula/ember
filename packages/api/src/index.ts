@@ -1,3 +1,4 @@
+export { changeMessage, churchLang } from './changeMessage'
 export type {
   Administration,
   CanonicalStatus,
@@ -45,9 +46,11 @@ export {
   verificationEvent,
 } from './schema'
 export {
+  type ChangesQuery,
   type ChurchesQuery,
   type ChurchIndexQuery,
   type CorrectionBody,
+  changesQuerySchema,
   churchesQuerySchema,
   churchIndexQuerySchema,
   correctionBodySchema,
