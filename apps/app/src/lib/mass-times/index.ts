@@ -5,6 +5,7 @@ export type {
   NearbyChurch,
 } from './client'
 export {
+  churchesAround,
   useChurch,
   useChurchSearch,
   useMapView,

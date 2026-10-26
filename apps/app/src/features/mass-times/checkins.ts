@@ -14,11 +14,15 @@ import { randomId } from '@/lib/id'
 
 export type { CheckIn, CheckInKind }
 
-/** Rejects, leaving the log as it was, when the check-in could not be saved. */
+/**
+ * Rejects, leaving the log as it was, when the check-in could not be saved. `massMarked`: the Mass
+ * was already marked done (ticked on Hoje, or by the Amém that carries this check-in), so the
+ * check-in only says where — it must not count the Mass a second time.
+ */
 export async function checkIn(
   church: { id: string; name: string },
   details: { kind: CheckInKind; note?: string },
-  at = new Date(),
+  { at = new Date(), massMarked = false }: { at?: Date; massMarked?: boolean } = {},
 ): Promise<void> {
   const entry: CheckIn = {
     id: randomId(),
@@ -31,7 +35,7 @@ export async function checkIn(
   await withRetry(() => emit({ type: 'CheckInLogged', checkIn: entry }))
   // A Mass check-in IS a completion of the "mass" practice — record it so it flows into the plan
   // of life / streaks rather than being a parallel tally. (Domain rule lives here, not the UI.)
-  if (details.kind !== 'mass') return
+  if (details.kind !== 'mass' || massMarked) return
   try {
     await withRetry(() =>
       completePractice('mass', format(getToday(), 'yyyy-MM-dd'), { via: 'checkin' }),
