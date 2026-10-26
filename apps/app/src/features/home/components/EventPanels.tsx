@@ -1,4 +1,4 @@
-import { addDays, parseISO } from 'date-fns'
+import { addDays, format, parseISO } from 'date-fns'
 import { Image, type ImageSource } from 'expo-image'
 import { useRouter } from 'expo-router'
 import { type ReactNode, useState } from 'react'
@@ -160,6 +160,12 @@ export function TodayPanel({ cards }: { cards: TodayCard[] }) {
             onPress={() => {
               if (state === 'won')
                 return router.push({ pathname: '/redeem', params: { grant: grant.id } })
+              // Still to win by the Office, the card opens the page of offices that win it.
+              if (state === 'open' && acts[0] === 'office' && grant.choice.length > 0)
+                return router.push({
+                  pathname: '/divine-office',
+                  params: { saints: grant.choice.join(','), date: format(today, 'yyyy-MM-dd') },
+                })
               if (first)
                 return router.push({ pathname: '/saints/[index]', params: { index: first.id } })
               router.push('/saints')
@@ -214,7 +220,7 @@ export function TodayPanel({ cards }: { cards: TodayCard[] }) {
 }
 
 // A holy card at thumbnail size: a face, or the illuminated back for one not yet known.
-function CardThumb({ face, width }: { face: ImageSource | undefined; width: number }) {
+export function CardThumb({ face, width }: { face: ImageSource | undefined; width: number }) {
   return (
     <View
       width={width}

@@ -361,6 +361,47 @@ export default {
     fallbackNotice:
       'Mostrando Douay-Rheims \u2014 tradu\u00e7\u00e3o selecionada indispon\u00edvel aqui',
     cccLabel: 'Catecismo da Igreja Cat\u00f3lica, {{start}}-{{end}}',
+    page: {
+      kicker: 'A oração da Igreja',
+      cardLabel: 'Santinho',
+      cardToday: 'Santinho de hoje',
+      cardHow: 'Reze uma hora de qualquer um dos ofícios abaixo, e o santinho é seu.',
+      what: 'O que é o Ofício',
+      whatBody:
+        'O Ofício Divino é a oração pública da Igreja: salmos, hinos, leituras e preces que santificam as horas do dia. Sacerdotes e religiosos o rezam todos os dias, e a Igreja convida os leigos a se unirem a eles. Rezar uma só hora já une a sua voz ao louvor da Igreja no mundo inteiro.',
+      hoursTitle: 'As horas do dia',
+      hours: {
+        matins: { name: 'Matinas', gloss: 'de madrugada · a vigília' },
+        lauds: { name: 'Laudes', gloss: 'ao amanhecer · a Ressurreição' },
+        prime: { name: 'Prima', gloss: 'no começo do trabalho' },
+        terce: { name: 'Tércia', gloss: 'às 9h · o Espírito Santo' },
+        sext: { name: 'Sexta', gloss: 'ao meio-dia · a Cruz' },
+        none: { name: 'Noa', gloss: 'às 15h · a morte do Senhor' },
+        vespers: { name: 'Vésperas', gloss: 'ao entardecer · a ação de graças' },
+        compline: { name: 'Completas', gloss: 'antes de dormir' },
+      },
+      hoursNote:
+        'Na Liturgia das Horas, Matinas é o Ofício das Leituras, não há Prima, e de Tércia, Sexta e Noa reza-se uma.',
+      officesTitle: 'Os ofícios',
+      offices: {
+        'liturgy-of-the-hours': {
+          kind: 'A forma atual',
+          about:
+            'O Ofício como a Igreja o reza hoje, renovado depois do Concílio Vaticano II, na edição brasileira.',
+        },
+        breviary: {
+          kind: 'A forma tradicional',
+          about:
+            'O Ofício em latim como foi rezado por séculos, de São Pio V às rubricas de 1960, com tradução.',
+        },
+        'breviary-monastic': {
+          kind: 'A forma beneditina',
+          about: 'O Ofício dos mosteiros, na ordem da Regra de São Bento.',
+        },
+      },
+      pray: 'Rezar',
+      prayHour: 'Rezar {{hour}}',
+    },
   },
 
   memoria: {
@@ -1672,6 +1713,7 @@ export default {
     },
   },
   a11y: {
+    prayOffice: 'Rezar {{name}}',
     showChant: 'Mostrar o canto de {{name}}',
     hideChant: 'Ocultar o canto de {{name}}',
     openChants: 'Abrir {{name}}',

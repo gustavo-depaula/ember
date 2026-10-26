@@ -30,7 +30,15 @@ type Glyph = 'chalice' | 'beads' | 'candles' | 'book' | 'day'
  * how far along it is. For a held card, how it came first, then the same ways
  * to receive it again.
  */
-export function ReceiveChapter({ ways, copy }: { ways: ReceiveWay[]; copy: Copy | undefined }) {
+export function ReceiveChapter({
+  saint,
+  ways,
+  copy,
+}: {
+  saint: string
+  ways: ReceiveWay[]
+  copy: Copy | undefined
+}) {
   const { t } = useTranslation()
   return (
     <YStack>
@@ -64,19 +72,26 @@ export function ReceiveChapter({ ways, copy }: { ways: ReceiveWay[]; copy: Copy 
             ) : null
           }
           if (way.door === 'prayedDay') return <PrayedDayRow key={way.door} date={way.date} />
-          return <WayRow key={way.door} way={way} />
+          return <WayRow key={way.door} way={way} saint={saint} />
         })}
       </YStack>
     </YStack>
   )
 }
 
-function WayRow({ way }: { way: Exclude<Way, { door: 'novena' | 'emberDays' }> }) {
+function WayRow({
+  way,
+  saint,
+}: {
+  way: Exclude<Way, { door: 'novena' | 'emberDays' }>
+  saint: string
+}) {
   const { t } = useTranslation()
+  const router = useRouter()
   const today = useToday()
   const text = describe(way, today, t)
   if (!text) return null
-  return (
+  const row = (action?: string) => (
     <Row
       glyph={text.glyph}
       title={text.title}
@@ -84,7 +99,21 @@ function WayRow({ way }: { way: Exclude<Way, { door: 'novena' | 'emberDays' }> }
       detail={text.detail}
       progress={text.progress}
       soon={text.soon}
+      action={action}
     />
+  )
+  if (way.door !== 'office') return row()
+  // Any office keeps the feast, so the row opens the page that tells them apart.
+  return (
+    <AnimatedPressable
+      onPress={() =>
+        router.push({ pathname: '/divine-office', params: { saints: saint, date: way.date } })
+      }
+      accessibilityRole="link"
+      accessibilityLabel={text.title}
+    >
+      {row(t('saints.page.pray'))}
+    </AnimatedPressable>
   )
 }
 

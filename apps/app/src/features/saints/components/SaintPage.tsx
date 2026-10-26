@@ -176,7 +176,7 @@ export const SaintPage = memo(function SaintPage({
         key: 'receive',
         title: t(held ? 'saints.page.received' : 'saints.page.receive'),
         chip: t(held ? 'saints.page.chipReceived' : 'saints.page.chipReceive'),
-        body: <ReceiveChapter ways={ways} copy={firstCopy} />,
+        body: <ReceiveChapter saint={saint.id} ways={ways} copy={firstCopy} />,
       }
       if (held) out.push(receive)
       else out.unshift(receive)

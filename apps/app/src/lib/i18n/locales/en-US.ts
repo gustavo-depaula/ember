@@ -356,6 +356,47 @@ export default {
     completing: 'Completing...',
     fallbackNotice: 'Showing Douay-Rheims \u2014 selected translation unavailable here',
     cccLabel: 'Catechism of the Catholic Church, {{start}}-{{end}}',
+    page: {
+      kicker: 'The prayer of the Church',
+      cardLabel: 'Holy card',
+      cardToday: "Today's holy card",
+      cardHow: 'Pray an hour of any of these offices, and the card is yours.',
+      what: 'What the Office is',
+      whatBody:
+        'The Divine Office is the public prayer of the Church: psalms, hymns, readings and intercessions that sanctify the hours of the day. Priests and religious pray it every day, and the Church invites the laity to join them. Praying a single hour unites your voice to the praise of the Church throughout the world.',
+      hoursTitle: 'The hours of the day',
+      hours: {
+        matins: { name: 'Matins', gloss: 'before dawn · the vigil' },
+        lauds: { name: 'Lauds', gloss: 'at daybreak · the Resurrection' },
+        prime: { name: 'Prime', gloss: 'as work begins' },
+        terce: { name: 'Terce', gloss: 'at nine · the Holy Spirit' },
+        sext: { name: 'Sext', gloss: 'at noon · the Cross' },
+        none: { name: 'None', gloss: "at three · the Lord's death" },
+        vespers: { name: 'Vespers', gloss: 'at evening · thanksgiving' },
+        compline: { name: 'Compline', gloss: 'before sleep' },
+      },
+      hoursNote:
+        'In the Liturgy of the Hours, Matins is the Office of Readings, there is no Prime, and of Terce, Sext and None one is prayed.',
+      officesTitle: 'The offices',
+      offices: {
+        'liturgy-of-the-hours': {
+          kind: 'The current form',
+          about:
+            'The Office as the Church prays it today, renewed after the Second Vatican Council.',
+        },
+        breviary: {
+          kind: 'The traditional form',
+          about:
+            'The Office in Latin as it was prayed for centuries, from St. Pius V to the rubrics of 1960, with a translation.',
+        },
+        'breviary-monastic': {
+          kind: 'The Benedictine form',
+          about: 'The Office of the monasteries, in the order of the Rule of St. Benedict.',
+        },
+      },
+      pray: 'Pray',
+      prayHour: 'Pray {{hour}}',
+    },
   },
 
   memoria: {
@@ -1663,6 +1704,7 @@ export default {
     },
   },
   a11y: {
+    prayOffice: 'Pray {{name}}',
     showChant: 'Show the chant of {{name}}',
     hideChant: 'Hide the chant of {{name}}',
     openChants: 'Open {{name}}',
