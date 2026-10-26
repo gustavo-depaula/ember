@@ -78,6 +78,8 @@ const manifest = await (await blob(items['practice/rosary'].hash)).json()
 const flow = await (await blob(manifest.flowHash.hash)).json()`
 
   // Any church, by id, on one static page of the site (scripts/mass-times.ts fills it from `?id=`).
+  // What a credit links to: the page that presents Ember, in the reader's language.
+  const appPage = new URL(href.landing(locale), site).href
   const churchPage = `${new URL(href.massTimesPlace(locale, locale === 'pt-BR' ? 'igreja' : 'church'), site).href}?id={id}`
 
   // Each line states what the Worker does (apps/backend: app.ts, writeGuard, wrangler.jsonc).
@@ -100,8 +102,8 @@ const flow = await (await blob(manifest.flowHash.hash)).json()`
       '**Mostre quando o horário foi conferido.** As paróquias mudam seus horários e um diretório fica para trás. Mostre `lastVerifiedAt` ao lado dos horários, e deixe as pessoas confirmá-los ou enviar uma correção pelo seu aplicativo.',
     ),
     l(
-      `**Please credit Ember.** Where you show times from the directory, add a line such as “Mass times: Ember” that links to the church’s page, \`${churchPage}\`. It tells people where the times come from and where to see the church’s full entry.`,
-      `**Dê o crédito ao Ember.** Onde mostrar horários do diretório, acrescente uma linha como “Horários: Ember” com link para a página da igreja, \`${churchPage}\`. Ela diz às pessoas de onde vêm os horários e onde ver a ficha completa da igreja.`,
+      `**Credit Ember, if you can.** We’d be grateful for a line such as “Mass times from Ember” linking to [${appPage.replace(/^https:\/\//, '')}](${appPage}). Where you show a single church, its page on Ember, \`${churchPage}\`, makes a good link too.`,
+      `**Cite o Ember, se puder.** Ficaremos gratos por uma linha como “Horários do Ember” com link para [${appPage.replace(/^https:\/\//, '')}](${appPage}). Onde mostrar uma só igreja, a página dela no Ember, \`${churchPage}\`, também é um bom link.`,
     ),
     l(
       '**Writes are suggestions.** A correction goes to a queue a person reviews and never edits a church directly. A confirmation counts once per client and church every 30 days. Each client may write 20 times a minute; past that the API answers `429`.',
