@@ -1,6 +1,7 @@
 ---
 import { getCatalog } from '@/content/contentIndex'
 import { flowReference, sourceUrl } from '~/lib/developers/flowReference'
+import { chooser, inline } from '~/lib/developers/text'
 import type { Locale } from '~/lib/locale'
 import { massTimesApi } from '~/lib/massTimes/data'
 import { href } from '~/routes'
@@ -13,6 +14,8 @@ interface Props {
 }
 
 const { locale, alternates } = Astro.props
+const l = chooser(locale)
+const number = (n: number) => n.toLocaleString(locale)
 const site = Astro.site ?? new URL('https://ember.dpgu.me')
 const corpusUrl = new URL('/hearth/v2', site).href
 const items = Object.keys(getCatalog().items).length
@@ -21,34 +24,43 @@ const flows = flowReference()
 const doors = [
   {
     kicker: 'REST · JSON',
-    title: 'Mass-times API',
-    body: 'Churches near a point, by name or on a map, each with its Mass, confession and adoration times written as recurrence rules.',
+    title: l('Mass-times API', 'API de horários de Missa'),
+    body: l(
+      'Churches near a point, by name or on a map, each with its Mass, confession and adoration times written as recurrence rules.',
+      'Igrejas perto de um ponto, pelo nome ou num mapa, cada uma com seus horários de Missa, confissão e adoração escritos como regras de recorrência.',
+    ),
     base: massTimesApi,
     to: href.developers(locale, 'api'),
-    cta: 'API reference',
+    cta: l('API reference', 'Referência da API'),
   },
   {
-    kicker: 'Static · content-addressed',
-    title: 'The corpus',
-    body: `${items.toLocaleString('en-US')} items: prayers, books, Mass propers, the Liturgy of the Hours and chant, as JSON files any static host can serve.`,
+    kicker: l('Static · content-addressed', 'Estático · endereçado por conteúdo'),
+    title: l('The corpus', 'O acervo'),
+    body: l(
+      `${number(items)} items: prayers, books, Mass propers, the Liturgy of the Hours and chant, as JSON files any static host can serve.`,
+      `${number(items)} itens: orações, livros, próprios da Missa, a Liturgia das Horas e o canto, em arquivos JSON que qualquer hospedagem estática serve.`,
+    ),
     base: corpusUrl,
     to: href.developers(locale, 'corpus'),
-    cta: 'Corpus guide',
+    cta: l('Corpus guide', 'Guia do acervo'),
   },
   {
-    kicker: 'JSON · declarative',
-    title: 'Flow DSL',
-    body: `The language ${flows.itemCount.toLocaleString('en-US')} prayers and chapters are written in: ${flows.sections.length} section types, each shown with an example from the corpus.`,
+    kicker: l('JSON · declarative', 'JSON · declarativo'),
+    title: l('Flow DSL', 'DSL de fluxos'),
+    body: l(
+      `The language ${number(flows.itemCount)} prayers and chapters are written in: ${flows.sections.length} section types, each shown with an example from the corpus.`,
+      `A linguagem em que estão escritos ${number(flows.itemCount)} orações e capítulos: ${flows.sections.length} tipos de seção, cada um com um exemplo do acervo.`,
+    ),
     base: undefined,
     to: href.developers(locale, 'flows'),
-    cta: 'Language reference',
+    cta: l('Language reference', 'Referência da linguagem'),
   },
 ]
 
-const quickStart = `# The five churches nearest the Sé of São Paulo
+const quickStart = `${l('# The five churches nearest the Sé of São Paulo', '# As cinco igrejas mais próximas da Sé de São Paulo')}
 curl '${massTimesApi}/churches/near?lat=-23.5505&lng=-46.6333&limit=5'
 
-# Every item in the corpus, by id
+${l('# Every item in the corpus, by id', '# Todos os itens do acervo, pelo id')}
 curl '${corpusUrl}/catalog.json'`
 
 const fetchRosary = `const base = '${corpusUrl}'
@@ -58,11 +70,49 @@ const { items } = await (await fetch(\`\${base}/catalog.json\`)).json()
 const manifest = await (await blob(items['practice/rosary'].hash)).json()
 const flow = await (await blob(manifest.flowHash.hash)).json()`
 
+const manners = [
+  l(
+    '**Cache what you fetch.** A corpus blob is named by the hash of its bytes and never changes; keep it for good. API reads may be held five minutes, map tiles an hour.',
+    '**Guarde o que buscar.** Um blob do acervo tem como nome o hash dos seus bytes e nunca muda: pode guardá-lo para sempre. As leituras da API podem ficar cinco minutos em cache, os blocos do mapa uma hora.',
+  ),
+  l(
+    '**Walk the directory once.** `/churches/index` pages through every church for a sitemap or a mirror. Run it on a schedule, not per visitor.',
+    '**Percorra o diretório uma vez.** `/churches/index` passa por todas as igrejas, página a página, para um sitemap ou um espelho. Rode-o num agendamento, não a cada visitante.',
+  ),
+  l(
+    '**Writes are suggestions.** A correction or a confirmation lands in a queue a person reviews. It never edits a church directly, and each client is rate-limited.',
+    '**Escritas são sugestões.** Uma correção ou uma confirmação vai para uma fila que uma pessoa revisa. Nunca altera uma igreja diretamente, e cada cliente tem um limite de frequência.',
+  ),
+  l(
+    '**Name your installation.** Send a stable `X-Client-Id` with writes, so your users are not counted together.',
+    '**Identifique sua instalação.** Envie um `X-Client-Id` fixo com as escritas, para que seus usuários não sejam contados como um só.',
+  ),
+]
+
+const sources = [
+  {
+    path: 'apps/backend',
+    what: l('The Mass-times Worker: Hono on Cloudflare Workers and D1', 'O Worker dos horários: Hono no Cloudflare Workers e D1'),
+  },
+  {
+    path: 'packages/api',
+    what: l('The API’s schemas, its OpenAPI document and a schedule expander', 'Os schemas da API, seu documento OpenAPI e um expansor de horários'),
+  },
+  {
+    path: 'scripts/build-corpus.py',
+    what: l('How content/ becomes the published corpus', 'Como content/ vira o acervo publicado'),
+  },
+  {
+    path: 'packages/content-engine',
+    what: l('The engine that turns a flow into text to pray', 'O motor que transforma um fluxo em texto para rezar'),
+  },
+]
+
 const toc = [
-  { id: 'start', label: 'Quick start' },
-  { id: 'manners', label: 'Using it well' },
-  { id: 'licence', label: 'Licence' },
-  { id: 'source', label: 'Source' },
+  { id: 'start', label: l('Quick start', 'Primeiros passos') },
+  { id: 'manners', label: l('Using it well', 'Bom uso') },
+  { id: 'licence', label: l('Licence', 'Licença') },
+  { id: 'source', label: l('Source', 'Código-fonte') },
 ]
 ---
 
@@ -70,9 +120,11 @@ const toc = [
   locale={locale}
   alternates={alternates}
   doc="overview"
-  title="Build with Ember"
-  kicker="Developers"
-  lede="Ember’s data is open: a directory of Mass times to query, and a corpus of prayers, books and liturgy to fetch as static files. There are no keys and no sign-up, and every response allows any origin."
+  title={l('Build with Ember', 'Construa com o Ember')}
+  lede={l(
+    'Ember’s data is open: a directory of Mass times to query, and a corpus of prayers, books and liturgy to fetch as static files. There are no keys and no sign-up, and every response allows any origin.',
+    'Os dados do Ember são abertos: um diretório de horários de Missa para consultar, e um acervo de orações, livros e liturgia para baixar como arquivos estáticos. Não há chaves nem cadastro, e toda resposta aceita qualquer origem.',
+  )}
   toc={toc}
 >
   <div class="dev-doors">
@@ -88,40 +140,41 @@ const toc = [
   </div>
 
   <section class="dev-section" id="start">
-    <h2 class="t-section">Quick start</h2>
-    <p>Both resources answer plain HTTP GETs. From a shell:</p>
-    <Code code={quickStart} label="Shell" />
-    <p>And a prayer, from catalog to text, in a browser or any JavaScript runtime:</p>
-    <Code code={fetchRosary} label="JavaScript" />
+    <h2 class="t-section">{l('Quick start', 'Primeiros passos')}</h2>
+    <p>{l('Both resources answer plain HTTP GETs. From a shell:', 'Os dois recursos respondem a um simples GET. No terminal:')}</p>
+    <Code locale={locale} code={quickStart} label={l('Shell', 'Terminal')} />
+    <p>{l('And a prayer, from catalog to text, in a browser or any JavaScript runtime:', 'E uma oração, do catálogo ao texto, num navegador ou em qualquer ambiente JavaScript:')}</p>
+    <Code locale={locale} code={fetchRosary} label="JavaScript" />
   </section>
 
   <section class="dev-section" id="manners">
-    <h2 class="t-section">Using it well</h2>
+    <h2 class="t-section">{l('Using it well', 'Bom uso')}</h2>
     <ul class="dev-list">
-      <li><strong>Cache what you fetch.</strong> A corpus blob is named by the hash of its bytes and never changes; keep it for good. API reads may be held five minutes, map tiles an hour.</li>
-      <li><strong>Walk the directory once.</strong> <code>/churches/index</code> pages through every church for a sitemap or a mirror. Run it on a schedule, not per visitor.</li>
-      <li><strong>Writes are suggestions.</strong> A correction or a confirmation lands in a queue a person reviews. It never edits a church directly, and each client is rate-limited.</li>
-      <li><strong>Name your installation.</strong> Send a stable <code>X-Client-Id</code> with writes, so your users are not counted together.</li>
+      {manners.map((m) => <li set:html={inline(m)} />)}
     </ul>
   </section>
 
   <section class="dev-section" id="licence">
-    <h2 class="t-section">Licence</h2>
-    <p>
-      Ember’s code and its own content are dedicated to the public domain
-      (<a class="xref" href={sourceUrl('LICENSE')} rel="noopener">LICENSE</a>): copy, adapt and sell them without asking.
-      Most texts in the corpus are public-domain works and translations. Some come from living publishers,
-      so check a book’s stated source before republishing it.
-    </p>
+    <h2 class="t-section">{l('Licence', 'Licença')}</h2>
+    <p set:html={inline(l(
+      `Ember’s code and its own content are dedicated to the public domain ([LICENSE](${sourceUrl('LICENSE')})): copy, adapt and sell them without asking. Most texts in the corpus are public-domain works and translations. Some come from living publishers, so check a book’s stated source before republishing it.`,
+      `O código do Ember e o conteúdo próprio dele estão dedicados ao domínio público ([LICENSE](${sourceUrl('LICENSE')})): copie, adapte e venda sem pedir licença. A maioria dos textos do acervo são obras e traduções em domínio público. Alguns vêm de editoras atuais, então confira a fonte indicada num livro antes de republicá-lo.`,
+    ))} />
   </section>
 
   <section class="dev-section" id="source">
-    <h2 class="t-section">Source</h2>
+    <h2 class="t-section">{l('Source', 'Código-fonte')}</h2>
     <ul class="rows">
-      <li><a class="row" href={sourceUrl('apps/backend')} rel="noopener"><span class="grow"><span class="row-title">apps/backend</span><span class="t-caption" style="display:block">The Mass-times Worker: Hono on Cloudflare Workers and D1</span></span></a></li>
-      <li><a class="row" href={sourceUrl('packages/api')} rel="noopener"><span class="grow"><span class="row-title">packages/api</span><span class="t-caption" style="display:block">The API’s schemas, its OpenAPI document and a schedule expander</span></span></a></li>
-      <li><a class="row" href={sourceUrl('scripts/build-corpus.py')} rel="noopener"><span class="grow"><span class="row-title">scripts/build-corpus.py</span><span class="t-caption" style="display:block">How content/ becomes the published corpus</span></span></a></li>
-      <li><a class="row" href={sourceUrl('packages/content-engine')} rel="noopener"><span class="grow"><span class="row-title">packages/content-engine</span><span class="t-caption" style="display:block">The engine that turns a flow into text to pray</span></span></a></li>
+      {sources.map((source) => (
+        <li>
+          <a class="row" href={sourceUrl(source.path)} rel="noopener">
+            <span class="grow">
+              <span class="row-title">{source.path}</span>
+              <span class="t-caption" style="display:block">{source.what}</span>
+            </span>
+          </a>
+        </li>
+      ))}
     </ul>
   </section>
 </DevShell>

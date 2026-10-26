@@ -150,13 +150,18 @@ export const href = {
   plan: (l: Locale, id: string) => join(l, sections[l].plans, slugOf(id)),
   voice: (l: Locale, id: string) => join(l, sections[l].voices, slugOf(id)),
   chant: (l: Locale, id: string) => join(l, sections[l].chant, slugOf(id)),
-  /** The developer portal: its overview, or one of its guides. English only. */
-  developers: (l: Locale, doc?: DevDoc) =>
-    join(l, sections[l].developers, doc === 'overview' ? undefined : doc),
+  /** The developer portal: its overview, or one of its guides. */
+  developers: (l: Locale, doc: DevDoc = 'overview') =>
+    join(l, sections[l].developers, devDocSlugs[l][doc] || undefined),
 }
 
 export const devDocs = ['overview', 'api', 'corpus', 'flows'] as const
 export type DevDoc = (typeof devDocs)[number]
+
+const devDocSlugs: Record<Locale, Record<DevDoc, string>> = {
+  'en-US': { overview: '', api: 'api', corpus: 'corpus', flows: 'flows' },
+  'pt-BR': { overview: '', api: 'api', corpus: 'acervo', flows: 'fluxos' },
+}
 
 /** The page for a corpus ref (`practice/rosary`, `book/x#chapter`), if the site has one. */
 export function hrefForRef(l: Locale, ref: string): string | undefined {

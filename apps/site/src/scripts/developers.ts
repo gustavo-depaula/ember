@@ -2,17 +2,25 @@
 // explorer, which follows hashes and refs through the published corpus.
 import { escapeHtml, highlightJson } from '~/lib/developers/json'
 
+// The page's words for what this script writes (DevShell sets them, in its language).
+const t = JSON.parse(
+  document.querySelector<HTMLElement>('[data-dev-strings]')?.dataset.devStrings ?? '{}',
+) as Record<
+  'copy' | 'copied' | 'copyByHand' | 'loading' | 'noResponse' | 'notFound' | 'noCatalog' | 'noItem',
+  string
+>
+
 for (const button of document.querySelectorAll<HTMLButtonElement>('[data-copy]')) {
   button.addEventListener('click', async () => {
     try {
       await navigator.clipboard.writeText(button.dataset.copy ?? '')
-      button.textContent = 'Copied'
+      button.textContent = t.copied
     } catch {
       // A page without clipboard permission (an embedded preview) can still be copied by hand.
-      button.textContent = 'Select and copy'
+      button.textContent = t.copyByHand
     }
     setTimeout(() => {
-      button.textContent = 'Copy'
+      button.textContent = t.copy
     }, 1600)
   })
 }
@@ -70,7 +78,7 @@ for (const form of document.querySelectorAll<HTMLFormElement>('form[data-try]'))
       }
       showResult(out, meta, body, !res.ok)
     } catch (err) {
-      showResult(out, 'No response', escapeHtml(String(err)), true)
+      showResult(out, t.noResponse, escapeHtml(String(err)), true)
     } finally {
       button.disabled = false
     }
@@ -144,12 +152,12 @@ if (explorer && explorerOut) {
     imageUrl = undefined
     out.hidden = false
     out.classList.remove('error')
-    out.innerHTML = '<p class="try-meta">Loading…</p>'
+    out.innerHTML = `<p class="try-meta">${t.loading}</p>`
     try {
       const items = await loadCatalog()
       const entry = items[step]
       const hash = isHash(step) ? step : entry?.hash
-      if (!hash) throw new Error(`No item has the id ${step}`)
+      if (!hash) throw new Error(`${t.noItem} ${step}`)
       const url = `${base}/${blobPath(hash)}`
       const res = await fetch(url)
       if (!res.ok) throw new Error(`${blobPath(hash)}: HTTP ${res.status}`)
@@ -181,7 +189,7 @@ if (explorer && explorerOut) {
     } catch (err) {
       showResult(
         out,
-        'Not found',
+        t.notFound,
         escapeHtml(err instanceof Error ? err.message : String(err)),
         true,
       )
@@ -196,7 +204,7 @@ if (explorer && explorerOut) {
   }
 
   input?.addEventListener('focus', () => {
-    loadCatalog().catch((err) => showResult(out, 'No catalog', escapeHtml(String(err)), true))
+    loadCatalog().catch((err) => showResult(out, t.noCatalog, escapeHtml(String(err)), true))
   })
   form?.addEventListener('submit', (event) => {
     event.preventDefault()

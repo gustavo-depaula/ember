@@ -214,13 +214,8 @@ async function drafts(): Promise<Draft[]> {
   for (const [id] of listEntries('chant')) {
     out.push({ page: { view: 'chant', id }, path: (l) => href.chant(l, id) })
   }
-  // Written for programmers, who read English: the portal has no Portuguese edition.
   for (const doc of devDocs) {
-    out.push({
-      page: { view: 'developers', doc },
-      locales: ['en-US'],
-      path: (l) => href.developers(l, doc),
-    })
+    out.push({ page: { view: 'developers', doc }, path: (l) => href.developers(l, doc) })
   }
   return out
 }

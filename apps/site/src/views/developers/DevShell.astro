@@ -1,5 +1,6 @@
 ---
 import Base from '~/layouts/Base.astro'
+import { chooser } from '~/lib/developers/text'
 import type { Locale } from '~/lib/locale'
 import { type DevDoc, href } from '~/routes'
 
@@ -14,18 +15,32 @@ interface Props {
   toc?: { id: string; label: string }[]
 }
 
-const { locale, alternates, doc, title, kicker = 'Developers', lede, toc = [] } = Astro.props
+const { locale, alternates, doc, title, kicker, lede, toc = [] } = Astro.props
+const l = chooser(locale)
+const portal = l('Developers', 'Desenvolvedores')
 const docs: { key: DevDoc; label: string }[] = [
-  { key: 'overview', label: 'Overview' },
-  { key: 'api', label: 'Mass-times API' },
-  { key: 'corpus', label: 'The corpus' },
-  { key: 'flows', label: 'Flow DSL' },
+  { key: 'overview', label: l('Overview', 'Visão geral') },
+  { key: 'api', label: l('Mass-times API', 'API de horários') },
+  { key: 'corpus', label: l('The corpus', 'O acervo') },
+  { key: 'flows', label: l('Flow DSL', 'DSL de fluxos') },
 ]
+
+// What the browser script says, in the page's language.
+const strings = {
+  copy: l('Copy', 'Copiar'),
+  copied: l('Copied', 'Copiado'),
+  copyByHand: l('Select and copy', 'Selecione e copie'),
+  loading: l('Loading…', 'Carregando…'),
+  noResponse: l('No response', 'Sem resposta'),
+  notFound: l('Not found', 'Não encontrado'),
+  noCatalog: l('No catalog', 'Sem catálogo'),
+  noItem: l('No item has the id', 'Nenhum item tem o id'),
+}
 ---
 
-<Base locale={locale} title={doc === 'overview' ? 'Developers' : `${title} · Developers`} description={lede} alternates={alternates} section="developers">
-  <div class="wide dev">
-    <nav class="dev-rail" aria-label="Developers">
+<Base locale={locale} title={doc === 'overview' ? portal : `${title} · ${portal}`} description={lede} alternates={alternates} section="developers">
+  <div class="wide dev" data-dev-strings={JSON.stringify(strings)}>
+    <nav class="dev-rail" aria-label={portal}>
       <ul class="dev-docs">
         {docs.map((d) => (
           <li><a href={href.developers(locale, d.key)} aria-current={d.key === doc ? 'page' : undefined}>{d.label}</a></li>
@@ -33,7 +48,7 @@ const docs: { key: DevDoc; label: string }[] = [
       </ul>
       {toc.length > 0 && (
         <div class="dev-toc">
-          <p class="t-kicker">On this page</p>
+          <p class="t-kicker">{l('On this page', 'Nesta página')}</p>
           <ul>
             {toc.map((t) => <li><a href={`#${t.id}`}>{t.label}</a></li>)}
           </ul>
@@ -42,7 +57,7 @@ const docs: { key: DevDoc; label: string }[] = [
     </nav>
     <div class="dev-main">
       <header class="page-head">
-        <p class="t-kicker">{kicker}</p>
+        <p class="t-kicker">{kicker ?? portal}</p>
         <h1 class="t-screen">{title}</h1>
         <p class="lede">{lede}</p>
       </header>

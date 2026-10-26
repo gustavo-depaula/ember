@@ -104,51 +104,90 @@ const componentSchemas = () => ({
   }),
 })
 
-const json = (schema: JsonSchema, description = 'OK') => ({
-  description,
-  content: { 'application/json': { schema } },
-})
-const churchList = (extra: Record<string, JsonSchema> = {}) =>
-  json(object({ churches: arrayOf({ allOf: [ref('Church'), object(extra)] }) }))
-const churchId = {
-  name: 'id',
-  in: 'path',
-  required: true,
-  description: 'The church id, a slug of its name and city',
-  schema: { type: 'string' },
-}
-const invalid = json(ref('ValidationError'), 'A parameter or the body failed validation')
-const rateLimited = json(ref('Error'), 'Too many writes from this client: `rate_limited`')
-const clientId = {
-  name: 'X-Client-Id',
-  in: 'header',
-  required: false,
-  description: 'A stable id for your installation, folded with the IP into the rate-limit key',
-  schema: { type: 'string' },
-}
-
-export function openApiDocument(serverUrl: string) {
+/**
+ * The document in English (`openapi.json`), or with its prose in Portuguese for the portal's
+ * Portuguese pages. Field and parameter glosses come from the zod schemas and stay in English.
+ */
+export function openApiDocument(serverUrl: string, lang: 'en' | 'pt' = 'en') {
+  const l = (en: string, pt: string) => (lang === 'pt' ? pt : en)
   const schemas = componentSchemas()
+  const json = (schema: JsonSchema, description = 'OK') => ({
+    description,
+    content: { 'application/json': { schema } },
+  })
+  const churchList = (extra: Record<string, JsonSchema> = {}) =>
+    json(object({ churches: arrayOf({ allOf: [ref('Church'), object(extra)] }) }))
+  const churchId = {
+    name: 'id',
+    in: 'path',
+    required: true,
+    description: l(
+      'The church id, a slug of its name and city',
+      'O id da igreja, feito do nome e da cidade',
+    ),
+    schema: { type: 'string' },
+  }
+  const invalid = json(
+    ref('ValidationError'),
+    l(
+      'A parameter or the body failed validation',
+      'Um parâmetro ou o corpo não passou na validação',
+    ),
+  )
+  const rateLimited = json(
+    ref('Error'),
+    l(
+      'Too many writes from this client: `rate_limited`',
+      'Escritas demais deste cliente: `rate_limited`',
+    ),
+  )
+  const clientId = {
+    name: 'X-Client-Id',
+    in: 'header',
+    required: false,
+    description: l(
+      'A stable id for your installation, folded with the IP into the rate-limit key',
+      'Um id fixo da sua instalação, somado ao IP na chave do limite de escritas',
+    ),
+    schema: { type: 'string' },
+  }
+
   return {
     openapi: '3.1.0',
     info: {
       title: 'Ember Mass times',
       version: '1',
-      description:
+      description: l(
         'Churches with their Mass, confession and adoration times. Reads are public and cacheable; writes queue a suggestion for a moderator and never change the directory directly.',
+        'Igrejas com seus horários de Missa, confissão e adoração. As leituras são públicas e podem ir para o cache; uma escrita entra na fila de um moderador e nunca altera o diretório diretamente.',
+      ),
     },
     servers: [{ url: serverUrl }],
+    // `x-displayName` names a tag for readers (Redoc's convention); `name` is its key.
     tags: [
-      { name: 'Churches', description: 'Public reads' },
-      { name: 'Suggestions', description: 'Rate-limited writes, reviewed before they apply' },
+      {
+        name: 'Churches',
+        'x-displayName': l('Churches', 'Igrejas'),
+        description: l('Public reads', 'Leituras públicas'),
+      },
+      {
+        name: 'Suggestions',
+        'x-displayName': l('Suggestions', 'Sugestões'),
+        description: l(
+          'Rate-limited writes, reviewed before they apply',
+          'Escritas com limite de frequência, revisadas antes de valer',
+        ),
+      },
     ],
     paths: {
       '/churches/near': {
         get: {
           tags: ['Churches'],
-          summary: 'Churches near a point',
-          description:
+          summary: l('Churches near a point', 'Igrejas perto de um ponto'),
+          description: l(
             'Churches within `radiusKm` of a point, nearest first. A `kind` or `rite` filter trims each church’s services and drops churches left with none.',
+            'Igrejas a até `radiusKm` de um ponto, da mais próxima à mais distante. Um filtro de `kind` ou `rite` restringe os horários de cada igreja e tira as que ficam sem nenhum.',
+          ),
           parameters: parameters('query', nearQuerySchema),
           responses: {
             200: churchList({ distanceKm: { type: 'number' } }),
@@ -159,16 +198,24 @@ export function openApiDocument(serverUrl: string) {
       '/churches': {
         get: {
           tags: ['Churches'],
-          summary: 'Search by name, or read a map viewport',
-          description:
+          summary: l(
+            'Search by name, or read a map viewport',
+            'Buscar pelo nome, ou ler a área de um mapa',
+          ),
+          description: l(
             'Give `q` to search by name, or `bbox` for the churches in a map viewport. A viewport too wide to list answers with `clusters`, counted by geohash cell.',
+            'Passe `q` para buscar pelo nome, ou `bbox` para as igrejas na área visível de um mapa. Uma área grande demais para listar responde com `clusters`, contados por célula de geohash.',
+          ),
           parameters: parameters('query', churchesQuerySchema),
           responses: {
             200: json(
               object({ churches: arrayOf(ref('Church')), clusters: arrayOf(ref('Cluster')) }, [
                 'churches',
               ]),
-              '`{ churches }` for a search, `{ churches, clusters }` for a viewport',
+              l(
+                '`{ churches }` for a search, `{ churches, clusters }` for a viewport',
+                '`{ churches }` para uma busca, `{ churches, clusters }` para uma área do mapa',
+              ),
             ),
             400: invalid,
           },
@@ -177,9 +224,14 @@ export function openApiDocument(serverUrl: string) {
       '/churches/index': {
         get: {
           tags: ['Churches'],
-          summary: 'The whole directory, a page at a time',
-          description:
+          summary: l(
+            'The whole directory, a page at a time',
+            'O diretório inteiro, uma página por vez',
+          ),
+          description: l(
             'Every church in id order, with the few fields a sitemap needs. Pass the `next` of one page as the `after` of the next; a page without `next` is the last.',
+            'Todas as igrejas na ordem do id, com os poucos campos de que um sitemap precisa. Passe o `next` de uma página como o `after` da seguinte; uma página sem `next` é a última.',
+          ),
           parameters: parameters('query', churchIndexQuerySchema),
           responses: {
             200: json(
@@ -216,9 +268,11 @@ export function openApiDocument(serverUrl: string) {
       '/churches/tiles/{cell}': {
         get: {
           tags: ['Churches'],
-          summary: 'A map tile',
-          description:
+          summary: l('A map tile', 'Um bloco do mapa'),
+          description: l(
             'A five-character cell answers with its churches (without texts and links); a shorter one, or `root`, with the counts of the cells inside it. Cached for an hour.',
+            'Uma célula de cinco caracteres responde com suas igrejas (sem textos e links); uma mais curta, ou `root`, com a contagem das células dentro dela. Fica uma hora em cache.',
+          ),
           parameters: [
             ...parameters('path', tileParamSchema),
             ...parameters('query', tileQuerySchema),
@@ -231,7 +285,10 @@ export function openApiDocument(serverUrl: string) {
                   object({ cells: arrayOf(ref('Cluster')) }),
                 ],
               },
-              '`{ churches }` for a full-length cell, `{ cells }` above it',
+              l(
+                '`{ churches }` for a full-length cell, `{ cells }` above it',
+                '`{ churches }` para uma célula completa, `{ cells }` acima dela',
+              ),
             ),
             400: invalid,
           },
@@ -240,9 +297,11 @@ export function openApiDocument(serverUrl: string) {
       '/churches/{id}': {
         get: {
           tags: ['Churches'],
-          summary: 'One church',
-          description:
+          summary: l('One church', 'Uma igreja'),
+          description: l(
             'A church with its schedule, texts and links, the parish it belongs to and the chapels it serves.',
+            'Uma igreja com seus horários, textos e links, a paróquia a que pertence e as capelas que atende.',
+          ),
           parameters: [churchId],
           responses: {
             200: json({
@@ -253,15 +312,24 @@ export function openApiDocument(serverUrl: string) {
                 ]),
               ],
             }),
-            404: json(ref('Error'), 'No church has this id: `not_found`'),
+            404: json(
+              ref('Error'),
+              l('No church has this id: `not_found`', 'Nenhuma igreja tem este id: `not_found`'),
+            ),
           },
         },
       },
       '/churches/{id}/verifications': {
         get: {
           tags: ['Churches'],
-          summary: 'Confirmations of a church’s times',
-          description: 'When people confirmed the times on record, newest first.',
+          summary: l(
+            'Confirmations of a church’s times',
+            'Confirmações dos horários de uma igreja',
+          ),
+          description: l(
+            'When people confirmed the times on record, newest first.',
+            'Quando as pessoas confirmaram os horários registrados, da mais recente à mais antiga.',
+          ),
           parameters: [churchId, ...parameters('query', verificationsQuerySchema)],
           responses: {
             200: json(object({ verifications: arrayOf(ref('Verification')) })),
@@ -272,9 +340,11 @@ export function openApiDocument(serverUrl: string) {
       '/churches/{id}/verify': {
         post: {
           tags: ['Suggestions'],
-          summary: 'Confirm the times on record',
-          description:
+          summary: l('Confirm the times on record', 'Confirmar os horários registrados'),
+          description: l(
             'Counts once per client and church in 30 days; a repeat answers `deduped: true` and records nothing.',
+            'Conta uma vez por cliente e igreja a cada 30 dias; uma repetição responde `deduped: true` e não registra nada.',
+          ),
           parameters: [churchId, clientId],
           requestBody: {
             content: { 'application/json': { schema: jsonSchema(verifyBodySchema) } },
@@ -289,16 +359,18 @@ export function openApiDocument(serverUrl: string) {
       '/churches/{id}/corrections': {
         post: {
           tags: ['Suggestions'],
-          summary: 'Suggest a correction',
-          description:
+          summary: l('Suggest a correction', 'Sugerir uma correção'),
+          description: l(
             'Queues a change to a service or to the church, a new service, a closure, or a note, for a moderator. `kind` decides the shape of the rest.',
+            'Põe na fila de um moderador uma mudança num horário ou na igreja, um novo horário, um fechamento ou uma observação. `kind` define a forma do restante.',
+          ),
           parameters: [churchId, clientId],
           requestBody: {
             required: true,
             content: { 'application/json': { schema: jsonSchema(correctionBodySchema) } },
           },
           responses: {
-            201: json(object({ id: { type: 'string' } }), 'Queued'),
+            201: json(object({ id: { type: 'string' } }), l('Queued', 'Na fila')),
             400: invalid,
             429: rateLimited,
           },
@@ -307,25 +379,30 @@ export function openApiDocument(serverUrl: string) {
       '/churches/{id}/corrections/attachments': {
         post: {
           tags: ['Suggestions'],
-          summary: 'Attach a photo to a correction',
-          description:
+          summary: l('Attach a photo to a correction', 'Anexar uma foto a uma correção'),
+          description: l(
             'The raw bytes of one file of at most 1 MB, such as a photo of the bulletin. Send the returned `key` in the correction’s `attachmentKeys`.',
+            'Os bytes de um arquivo de até 1 MB, como a foto do boletim. Envie a `key` devolvida nos `attachmentKeys` da correção.',
+          ),
           parameters: [churchId, clientId],
           requestBody: {
             required: true,
             content: { '*/*': { schema: { type: 'string', format: 'binary' } } },
           },
           responses: {
-            201: json(object({ key: { type: 'string' } }), 'Stored'),
-            400: json(ref('Error'), 'An empty body: `empty_body`'),
-            413: json(ref('Error'), 'Larger than 1 MB: `too_large`'),
+            201: json(object({ key: { type: 'string' } }), l('Stored', 'Guardado')),
+            400: json(ref('Error'), l('An empty body: `empty_body`', 'Corpo vazio: `empty_body`')),
+            413: json(
+              ref('Error'),
+              l('Larger than 1 MB: `too_large`', 'Maior que 1 MB: `too_large`'),
+            ),
             429: rateLimited,
           },
         },
       },
       '/health': {
         get: {
-          summary: 'Liveness',
+          summary: l('Liveness', 'Verificação de funcionamento'),
           responses: { 200: json(object({ ok: { type: 'boolean' } })) },
         },
       },

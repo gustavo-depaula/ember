@@ -1,13 +1,17 @@
 ---
 import { constraints, fieldRows, type JsonSchema } from '~/lib/developers/schema'
+import { chooser } from '~/lib/developers/text'
+import type { Locale } from '~/lib/locale'
 import TypeLabel from './TypeLabel.astro'
 
 interface Props {
+  locale: Locale
   schema: JsonSchema
 }
 
 // One variant per `oneOf` branch (a correction's kinds), each named by its constant field.
-const { schema } = Astro.props
+const { locale, schema } = Astro.props
+const required = chooser(locale)('required', 'obrigatório')
 const variants = (schema.oneOf ?? [schema]).map((variant) => {
   const tag = Object.entries(variant.properties ?? {}).find(([, s]) => s.const !== undefined)
   return { name: tag ? `${tag[0]}: ${JSON.stringify(tag[1].const)}` : undefined, rows: fieldRows(variant) }
@@ -23,7 +27,7 @@ const variants = (schema.oneOf ?? [schema]).map((variant) => {
           <tr>
             <th scope="row" style={row.depth ? `padding-left:${row.depth * 20}px` : undefined}>
               <code>{row.depth ? `↳ ${row.name}` : row.name}</code>
-              {row.required ? <span class="req">required</span> : null}
+              {row.required ? <span class="req">{required}</span> : null}
             </th>
             <td>
               <TypeLabel schema={row.schema} />
