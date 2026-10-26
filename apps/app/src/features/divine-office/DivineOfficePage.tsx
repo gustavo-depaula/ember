@@ -110,6 +110,7 @@ function CardNote({ saints, date }: { saints: string[]; date: string }) {
         </Typography>
       </XStack>
       <XStack gap="$md" alignItems="center">
+        <CardThumb face={cardFace(first, held.has(first.id))} width={42} />
         <YStack flex={1} gap={2}>
           <Typography variant="sacred-title" textAlign="left" fontSize={18} lineHeight={22}>
             {title}
@@ -119,7 +120,6 @@ function CardNote({ saints, date }: { saints: string[]; date: string }) {
             {t('saints.receive.officeWhy')}
           </Typography>
         </YStack>
-        <CardThumb face={cardFace(first, held.has(first.id))} width={42} />
       </XStack>
     </YStack>
   )
