@@ -51,7 +51,7 @@ $(wait 5000)
     point: 50%, 50%
 $(wait 6000)
 - tapOn:
-    point: 94%, 95%
+    point: 74%, 85%
 $(wait 15000)"
 run "- openLink: me.dpgu.ember://saints/bruno
 $(wait 15000)
@@ -63,7 +63,7 @@ $(wait 15000)
 - takeScreenshot: $out/05-saint-page"
 # Lift the sheet over the map. Set the location first
 # (simctl location <udid> set -23.5505,-46.6340).
-shot 03-mass-times mass-times 12000 "- swipe:
+shot 03-mass-times mass-times 25000 "- swipe:
     start: 50%, 70%
     end: 50%, 35%
     duration: 500
