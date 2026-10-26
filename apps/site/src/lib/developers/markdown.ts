@@ -81,8 +81,6 @@ function overviewMarkdown(locale: Locale, site: URL): string {
     ...(page.start.prayer ? [page.start.prayer.intro, fence(page.start.prayer.code, 'js')] : []),
     `## ${page.manners.title}`,
     page.manners.items.map((m) => `- ${m}`).join('\n'),
-    `## ${page.licence.title}`,
-    page.licence.text,
     `## ${page.sources.title}`,
     page.sources.items.map((s) => `- [${s.path}](${s.url}): ${s.what}`).join('\n'),
   ]

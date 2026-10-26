@@ -94,10 +94,6 @@ const flow = await (await blob(manifest.flowHash.hash)).json()`
           '**Guarde o que buscar.** Os dados das igrejas mudam de um dia para o outro: pode guardá-los por até um dia, e um espelho pode se atualizar diariamente. Busque de novo uma igreja quando alguém a abrir, para que veja as últimas correções. As leituras não têm limite de frequência; com muito tráfego, sirva uma cópia sua em vez de chamar a API a cada visitante.',
         ),
     l(
-      '**Walk the directory on a schedule.** `/churches/index` pages through every church, up to 1,000 a page, for a sitemap or a mirror. Run it on a timer, not for each visitor.',
-      '**Percorra o diretório num agendamento.** `/churches/index` passa por todas as igrejas, até 1.000 por página, para um sitemap ou um espelho. Rode-o periodicamente, não a cada visitante.',
-    ),
-    l(
       '**Show how fresh a time is.** Parishes change their times and a directory falls behind. Show `lastVerifiedAt` beside a schedule, and let people confirm it or send a correction from your app.',
       '**Mostre quando o horário foi conferido.** As paróquias mudam seus horários e um diretório fica para trás. Mostre `lastVerifiedAt` ao lado dos horários, e deixe as pessoas confirmá-los ou enviar uma correção pelo seu aplicativo.',
     ),
@@ -114,11 +110,6 @@ const flow = await (await blob(manifest.flowHash.hash)).json()`
       '**Identifique cada aparelho ou pessoa.** Um cliente é o seu endereço IP junto com o cabeçalho `X-Client-Id`. Envie um id fixo por aparelho ou usuário, para que pessoas que compartilham um endereço, como todos cujas escritas passam pelo seu servidor, tenham limites e confirmações separados.',
     ),
   ]
-
-  const licence = l(
-    `Ember’s code is dedicated to the public domain ([LICENSE](${sourceUrl('LICENSE')})): copy, adapt and sell it without asking.${corpus ? ' So is its own content. Most texts in the corpus are public-domain works and translations. Some come from living publishers, so check a book’s stated source before republishing it.' : ''}`,
-    `O código do Ember está dedicado ao domínio público ([LICENSE](${sourceUrl('LICENSE')})): copie, adapte e venda sem pedir licença.${corpus ? ' O conteúdo próprio dele também. A maioria dos textos do acervo são obras e traduções em domínio público. Alguns vêm de editoras atuais, então confira a fonte indicada num livro antes de republicá-lo.' : ''}`,
-  )
 
   const sources = [
     {
@@ -196,7 +187,6 @@ const flow = await (await blob(manifest.flowHash.hash)).json()`
         : undefined,
     },
     manners: { title: l('Using it well', 'Bom uso'), items: manners },
-    licence: { title: l('Licence', 'Licença'), text: licence },
     sources: { title: l('Source', 'Código-fonte'), items: sources },
     shellLabel: l('Shell', 'Terminal'),
   }
