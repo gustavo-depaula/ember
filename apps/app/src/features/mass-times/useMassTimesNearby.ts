@@ -3,7 +3,7 @@ import { useMemo } from 'react'
 import { useWindowDimensions } from 'react-native'
 import type { Bbox, Cluster, NearbyChurch } from '@/lib/mass-times'
 import { useMapView } from '@/lib/mass-times'
-import { useFavorites } from './favorites'
+import type { Intent, When } from './agenda'
 import type { DeviceLocation } from './useDeviceLocation'
 import { useDeviceLocation } from './useDeviceLocation'
 
@@ -44,23 +44,11 @@ function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): nu
   return earthRadiusKm * 2 * Math.asin(Math.min(1, Math.sqrt(a)))
 }
 
-// The nearby filters, both applied on-device: `kind` to the tiles' schedules, `favoritesOnly` against
-// the saved-id lookup.
-export type MassFilter = {
-  kind?: ServiceKind
-  favoritesOnly: boolean
-}
+// What the list is asked for: a service kind (or a visit) and when. The kind also narrows the tiles
+// the map draws; a visit draws every church.
+export type MassFilter = { intent: Intent; when: When }
 
-export const emptyFilter: MassFilter = { kind: undefined, favoritesOnly: false }
-
-// The on-device half of the filter, shared by the nearby list and search results.
-export function passesFilter(
-  church: { id: string },
-  filter: MassFilter,
-  favorites: { has(id: string): boolean },
-): boolean {
-  return !filter.favoritesOnly || favorites.has(church.id)
-}
+export const emptyFilter: MassFilter = { intent: 'mass', when: 'now' }
 
 export type MassTimesNearby = {
   location: DeviceLocation
@@ -77,11 +65,11 @@ export type MassTimesNearby = {
 
 // Churches for the current map viewport, shared by the list and the map, drawn from church tiles
 // (see `lib/mass-times/tiles`): close in, every church in view with its schedule, counted together
-// only where pins would overlap; zoomed out, counts and no list. The service kind filters on-device,
-// as do `favoritesOnly`. Distance is from the user, never the map center, and only once located.
+// only where pins would overlap; zoomed out, counts and no list. Distance is from the user, never the
+// map center, and only once located.
 export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): MassTimesNearby {
   const location = useDeviceLocation()
-  const favorites = useFavorites()
+  const kind = filter.intent === 'visit' ? undefined : filter.intent
 
   const view: MapRegion = region ?? {
     latitude: location.coords.lat,
@@ -95,7 +83,7 @@ export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): Mass
     isFetching,
     isError,
     refetch,
-  } = useMapView(bboxFromRegion(view), width / view.longitudeDelta, filter.kind, markerReach)
+  } = useMapView(bboxFromRegion(view), width / view.longitudeDelta, kind, markerReach)
   // Nothing to show yet, as against nothing there: a detail view still waiting on its tiles.
   const isLoading = drawn.mode === 'detail' && !drawn.complete && drawn.churches.length === 0
 
@@ -110,12 +98,11 @@ export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): Mass
           services: c.services ?? [],
           distanceKm: located ? haversineKm(lat, lng, c.lat, c.lng) : undefined,
         }))
-        .filter((c) => passesFilter(c, filter, favorites))
         // The tiles are read nearest the map center first; once the user is located, the distances shown are
         // theirs, so the list must read nearest-to-them first.
         .sort((a, b) => (a.distanceKm ?? 0) - (b.distanceKm ?? 0))
     )
-  }, [drawn.churches, isLoading, filter, favorites, located, lat, lng])
+  }, [drawn.churches, isLoading, located, lat, lng])
 
   return {
     location,
@@ -123,7 +110,7 @@ export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): Mass
     center: { lat: view.latitude, lng: view.longitude },
     clusters: drawn.clusters,
     mode: drawn.mode,
-    kind: filter.kind,
+    kind,
     isLoading,
     isFetching,
     isError,

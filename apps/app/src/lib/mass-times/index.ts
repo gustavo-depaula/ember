@@ -16,6 +16,7 @@ export {
   expandUpcoming,
   nextService,
   occurrenceInstant,
+  serviceEnd,
   serviceUnderway,
   type UpcomingService,
   wallClockNow,
