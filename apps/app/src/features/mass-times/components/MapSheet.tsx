@@ -9,8 +9,11 @@ import {
   presentationDragIndicator,
 } from '@expo/ui/swift-ui/modifiers'
 import type { ReactNode } from 'react'
-import { StyleSheet, View } from 'react-native'
+import { Platform, StyleSheet, View } from 'react-native'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme } from 'tamagui'
+
+import { useRoomWidth } from '@/components/pageWidth'
 
 /** How far up the sheet rides: just its search field, half the screen, or all of it. */
 export type SheetDetent = 'peek' | 'half' | 'full'
@@ -52,6 +55,38 @@ export function MapSheet({
   children: ReactNode
 }) {
   const theme = useTheme()
+  const insets = useSafeAreaInsets()
+  const room = useRoomWidth()
+  const background = `${theme.background?.val ?? '#FFFFFF'}${sheetOpacity}`
+
+  // A wide iPad window floats a native sheet in the middle of the map, a phone's
+  // sheet adrift. There the list stands in a panel down the left, as in Maps,
+  // always open, with the map live beside it.
+  if (Platform.OS === 'ios' && Platform.isPad && room >= panelFrom) {
+    return (
+      <View style={styles.fill}>
+        <Host style={StyleSheet.absoluteFill} ignoreSafeArea="all">
+          <RNHostView>
+            <View style={styles.fill}>{map}</View>
+          </RNHostView>
+        </Host>
+        <View
+          style={[
+            styles.panel,
+            {
+              // Below the screen's back button, which sits over the map's corner.
+              top: insets.top + 64,
+              bottom: insets.bottom + panelMargin,
+              left: insets.left + panelMargin,
+              backgroundColor: background,
+            },
+          ]}
+        >
+          {children}
+        </View>
+      </View>
+    )
+  }
 
   return (
     // ignoreSafeArea="all" so the hosted map bleeds edge to edge (through the notch + home indicator)
@@ -68,7 +103,7 @@ export function MapSheet({
               selection: detents[detent],
               onSelectionChange: (selected) => onDetent(detentName(selected)),
             }),
-            presentationBackground(`${theme.background?.val ?? '#FFFFFF'}${sheetOpacity}`),
+            presentationBackground(background),
             presentationBackgroundInteraction('enabled'),
             interactiveDismissDisabled(true),
             presentationDragIndicator('visible'),
@@ -88,6 +123,16 @@ export function MapSheet({
 
 function noop() {}
 
+const panelFrom = 700
+const panelMargin = 16
+
 const styles = StyleSheet.create({
   fill: { flex: 1 },
+  panel: {
+    position: 'absolute',
+    width: 380,
+    borderRadius: 24,
+    overflow: 'hidden',
+    paddingTop: 12,
+  },
 })

@@ -74,6 +74,11 @@ export function TemplateCard({
             fontSize="$5"
             paddingTop="$md"
             lineHeight="$3"
+            // A name longer than the card is wide ("Consecration" on a 164pt
+            // card) shrinks to keep whole words, instead of breaking mid-word.
+            numberOfLines={3}
+            adjustsFontSizeToFit
+            minimumFontScale={0.7}
           >
             {name}
           </Typography>

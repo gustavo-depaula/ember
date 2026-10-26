@@ -66,7 +66,9 @@ export function EnvelopeTurn({
   const restingTop = useRef(0)
   const envW = envelope.width
   const envH = envW * 1.28
-  const sheetW = width - 24
+  // A letter, not a wall: on a wide window the sheet stops at a page's width
+  // and stands in the middle, instead of setting the prayer down its left edge.
+  const sheetW = Math.min(width - 24, 600)
   const sheetH = Math.min(height - insets.top - insets.bottom - 32, sheetW * 1.75)
   const growX = sheetW / envW
   const growY = sheetH / envH
