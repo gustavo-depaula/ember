@@ -27,6 +27,11 @@ const app = new Hono<{ Bindings: Env }>()
   // tile sets its own, longer life.)
   .use(async (c, next) => {
     await next()
+    // Hono's `c.json` sends no charset, and a browser opening the URL directly then reads the
+    // UTF-8 as Latin-1 ("São" shows as "SÃ£o").
+    if (c.res.headers.get('Content-Type') === 'application/json') {
+      c.res.headers.set('Content-Type', 'application/json; charset=utf-8')
+    }
     if (c.req.method === 'GET' && c.res.ok && !c.res.headers.has('Cache-Control')) {
       c.res.headers.set('Cache-Control', 'public, max-age=300')
     }

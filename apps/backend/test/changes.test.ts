@@ -71,6 +71,12 @@ describe('GET /changes', () => {
     expect(JSON.stringify(changes)).not.toContain('bulletin photo')
   })
 
+  // Church names are mostly accented: without the charset a browser shows "São" as "SÃ£o".
+  it('declares its JSON as UTF-8', async () => {
+    const res = await app.request('/changes', {}, env)
+    expect(res.headers.get('Content-Type')).toBe('application/json; charset=utf-8')
+  })
+
   it('writes every message in the language asked for', async () => {
     const { changes } = await get('?lang=en')
     expect(changes[1].message).toContain('Mass: Sun 08:00 → Sun 09:00')
