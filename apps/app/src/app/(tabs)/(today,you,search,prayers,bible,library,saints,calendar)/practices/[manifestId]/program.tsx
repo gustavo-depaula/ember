@@ -45,6 +45,7 @@ import { CardEnvelope } from '@/features/practices/components/ProgramCardEnvelop
 import {
   EndingHead,
   EndingLink,
+  useKeptLede,
   useProgramFeast,
 } from '@/features/practices/components/ProgramEnding'
 import { useSaintsCatalog } from '@/features/saints'
@@ -169,8 +170,10 @@ function ProgramDetail() {
   const today = useToday()
   const progress = useProgramProgress(manifest?.id ?? '', manifest?.program, today)
   const dates = useProgramDayDates(manifest?.id ?? '', manifest?.program)
-  const feast = useProgramFeast(manifest?.id ?? '', manifest?.program)
   const { byId: saints } = useSaintsCatalog()
+  const cardSaint = saints[[manifest?.holyCard ?? []].flat()[0] ?? '']
+  const feast = useProgramFeast(manifest?.id ?? '', manifest?.program, cardSaint?.feast)
+  const keptLede = useKeptLede(manifest?.id ?? '', manifest?.program, cardSaint)
   const restartProgramMutation = useRestartProgram()
   // Beginning it turns this page into the program under way, in place.
   const plan = usePracticePlan(manifest, { openOnBegin: false })
@@ -397,14 +400,14 @@ function ProgramDetail() {
             <EndingHead
               title={
                 isComplete
-                  ? t('program.ending.prayedWhole')
+                  ? t('program.ending.persevered')
                   : manifest.program.ends
                     ? t('program.ending.passed')
                     : t('program.ended')
               }
               lede={
                 isComplete
-                  ? t('program.ending.daysPrayed', { count: totalDays })
+                  ? keptLede
                   : [
                       t('program.ending.prayedOf', { prayed, count: totalDays }),
                       feast?.past && saint

@@ -24,20 +24,49 @@ import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 // one family: the name in small caps, a title, one plain line, the day stars, what comes next, the
 // card's envelope, one button.
 
-/** The day a novena leads up to: the day after its last. Undefined for a program with no feast. */
-export function useProgramFeast(practiceId: string, program: ProgramConfig | undefined) {
+/** A fixed feast, as a holy card keeps it. */
+export type CardFeast = { month: number; day: number }
+
+/**
+ * The day a novena leads up to: its card's feast when the card keeps one (the Holy Souls novena
+ * ends on All Souls itself, St. Philomena's two days before her day), else the day after its last.
+ * Undefined for a program with no feast, or one whose feast falls on one of its own days.
+ */
+export function useProgramFeast(
+  practiceId: string,
+  program: ProgramConfig | undefined,
+  cardFeast?: CardFeast,
+) {
   const today = useStableToday()
   const last = useProgramDayDates(practiceId, program).at(-1)
   if (!program?.ends || !last) return undefined
-  const date = format(addDays(parseISO(last), 1), 'yyyy-MM-dd')
-  const away = differenceInCalendarDays(parseISO(date), today)
+  const lastDay = parseISO(last)
+  const feastDay = cardFeast
+    ? new Date(lastDay.getFullYear(), cardFeast.month - 1, cardFeast.day)
+    : addDays(lastDay, 1)
+  if (differenceInCalendarDays(feastDay, lastDay) <= 0) return undefined
+  const date = format(feastDay, 'yyyy-MM-dd')
+  const away = differenceInCalendarDays(feastDay, today)
   return { date, past: away < 0, tomorrow: away === 1 }
 }
 
 // `name` in small caps over the title; left off where the screen's header already names it.
-export function EndingHead({ name, title, lede }: { name?: string; title: string; lede?: string }) {
+// `display`: the moment itself (the modal after the last Amém) — a larger title, centred, so it
+// reads as an arrival; on the program page the title sits at the page's own size.
+export function EndingHead({
+  name,
+  title,
+  lede,
+  display = false,
+}: {
+  name?: string
+  title: string
+  lede?: string
+  display?: boolean
+}) {
+  const align = display ? 'center' : 'left'
   return (
-    <YStack gap="$xs">
+    <YStack gap="$xs" alignItems={display ? 'center' : 'stretch'}>
       {name ? (
         <Typography
           variant="label"
@@ -45,21 +74,23 @@ export function EndingHead({ name, title, lede }: { name?: string; title: string
           tone="muted"
           textTransform="uppercase"
           letterSpacing={1.5}
+          textAlign={align}
         >
           {name}
         </Typography>
       ) : null}
       <Typography
         variant="sacred-title"
-        fontSize={30}
-        lineHeight={38}
+        fontSize={display ? 40 : 30}
+        lineHeight={display ? 52 : 38}
         fontStyle="italic"
-        textAlign="left"
+        textAlign={align}
+        paddingVertical={display ? '$xs' : 0}
       >
         {title}
       </Typography>
       {lede ? (
-        <Typography tone="muted" fontSize="$3" lineHeight={24}>
+        <Typography tone="muted" fontSize="$3" lineHeight={24} textAlign={align}>
           {lede}
         </Typography>
       ) : null}
@@ -67,18 +98,52 @@ export function EndingHead({ name, title, lede }: { name?: string; title: string
   )
 }
 
+/**
+ * The line under "You persevered": the days and the dates they ran, and — on a novena's eve —
+ * whose day tomorrow is.
+ */
+export function useKeptLede(
+  practiceId: string,
+  program: ProgramConfig | undefined,
+  saint?: { name: string; feast?: CardFeast },
+): string {
+  const { t } = useTranslation()
+  const dates = useProgramDayDates(practiceId, program)
+  const feast = useProgramFeast(practiceId, program, saint?.feast)
+  const first = dates[0]
+  const last = dates.at(-1)
+  const kept = (() => {
+    const count = program?.totalDays ?? dates.length
+    if (!first || !last) return t('program.ending.daysPrayed', { count })
+    const from = parseISO(first)
+    const to = parseISO(last)
+    // "de 16 a 24 de outubro": the month said once when both days share it.
+    const sameMonth = from.getMonth() === to.getMonth()
+    return t('program.ending.daysPrayedRange', {
+      count,
+      from: formatLocalized(from, t(sameMonth ? 'program.ending.rangeFrom' : 'program.dateFormat')),
+      to: formatLocalized(to, t(sameMonth ? 'program.ending.rangeTo' : 'program.dateFormat')),
+    })
+  })()
+  return feast?.tomorrow && saint
+    ? `${kept} ${t('program.ending.tomorrowIs', { name: saint.name })}`
+    : kept
+}
+
 /** The program's days as stars, a novena's feast after them. */
 export function EndingStars({
   practiceId,
   program,
+  cardFeast,
 }: {
   practiceId: string
   program: ProgramConfig
+  cardFeast?: CardFeast
 }) {
   const today = useStableToday()
   const progress = useProgramProgress(practiceId, program, today)
   const dates = useProgramDayDates(practiceId, program)
-  const feast = useProgramFeast(practiceId, program)
+  const feast = useProgramFeast(practiceId, program, cardFeast)
   if (!progress) return null
   const states = computeAllDayStates(progress)
   return (
