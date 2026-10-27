@@ -2,7 +2,7 @@
 
 import { type UseQueryResult, useQueryClient } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
-import { useEffect, useMemo, useRef } from 'react'
+import { lazy, Suspense, useEffect, useMemo, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, type ScrollView } from 'react-native'
 import Animated, {
@@ -27,7 +27,6 @@ import type { PracticeManifest } from '@/content/manifestTypes'
 import { PreprocessProvider } from '@/content/preprocessRuntime'
 import { useChurchHere } from '@/features/mass-times'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
-import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
 import { useProgressiveCount } from '@/hooks/useProgressiveCount'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useStableToday, useToday } from '@/hooks/useToday'
@@ -45,6 +44,14 @@ import {
 } from './PracticeActions'
 import { PracticeContentsRail, PracticeToolsRail } from './PracticeRails'
 import { derivePracticeFlowStatus } from './status'
+
+// Loaded when a program ends, not with every prayer: it brings the holy card's envelope (and the
+// envelope's paper texture) with it.
+const ProgramCompleteModal = lazy(() =>
+  import('@/features/practices/components/ProgramCompleteModal').then((m) => ({
+    default: m.ProgramCompleteModal,
+  })),
+)
 
 type CompletionApi = ReturnType<typeof usePracticeCompletion>
 
@@ -250,13 +257,16 @@ function PracticeReady({
               </YStack>
 
               {completion.showCompleteModal && manifest.program && (
-                <ProgramCompleteModal
-                  practiceName={practiceName}
-                  round={!!manifest.program.days}
-                  showRestart={manifest.program.completionBehavior === 'offer-restart'}
-                  onRestart={completion.onRestart}
-                  onDone={completion.dismissCompleteModal}
-                />
+                <Suspense fallback={null}>
+                  <ProgramCompleteModal
+                    practiceId={practiceId}
+                    manifest={{ ...manifest, program: manifest.program }}
+                    practiceName={practiceName}
+                    showRestart={manifest.program.completionBehavior === 'offer-restart'}
+                    onRestart={completion.onRestart}
+                    onDone={completion.dismissCompleteModal}
+                  />
+                </Suspense>
               )}
             </ScreenLayout>
 

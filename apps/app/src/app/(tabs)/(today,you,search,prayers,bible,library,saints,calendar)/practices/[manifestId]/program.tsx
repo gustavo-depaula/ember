@@ -41,6 +41,13 @@ import {
 import { normalizeSchedule, parseSchedule } from '@/features/plan-of-life/schedule'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { PracticePlanEditor, usePracticePlan } from '@/features/practices/components/PracticePlan'
+import { CardEnvelope } from '@/features/practices/components/ProgramCardEnvelope'
+import {
+  EndingHead,
+  EndingLink,
+  useProgramFeast,
+} from '@/features/practices/components/ProgramEnding'
+import { useSaintsCatalog } from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized, getDateLocale } from '@/lib/i18n/dateLocale'
@@ -162,6 +169,8 @@ function ProgramDetail() {
   const today = useToday()
   const progress = useProgramProgress(manifest?.id ?? '', manifest?.program, today)
   const dates = useProgramDayDates(manifest?.id ?? '', manifest?.program)
+  const feast = useProgramFeast(manifest?.id ?? '', manifest?.program)
+  const { byId: saints } = useSaintsCatalog()
   const restartProgramMutation = useRestartProgram()
   // Beginning it turns this page into the program under way, in place.
   const plan = usePracticePlan(manifest, { openOnBegin: false })
@@ -347,6 +356,8 @@ function ProgramDetail() {
       },
     })
   const fullDate = (date: string, pattern: string) => formatLocalized(parseISO(date), t(pattern))
+  const cards = [manifest.holyCard ?? []].flat()
+  const saint = saints[cards[0] ?? '']
   const nextDate = dates[programDay] && dates[programDay] > todayStr ? dates[programDay] : undefined
   const shown = dayWindow(programDay, totalDays)
   const current = entryOf(entries, programDay)
@@ -365,27 +376,59 @@ function ProgramDetail() {
           caption={t('program.prayedOf', { prayed, count: totalDays })}
         />
 
-        <DayStars days={shown.map((i) => ({ state: states[i], date: dates[i] }))} />
+        <DayStars days={shown.map((i) => ({ state: states[i], date: dates[i] }))} feast={feast} />
 
         {needsRestart ? (
           // Where today's day would be, so opening the page is the warning.
-          <YStack paddingTop="$xl" gap="$sm">
-            <Typography variant="sacred-title" fontSize={30} lineHeight={38} fontStyle="italic">
-              {t('program.missedTitle', {
+          <YStack paddingTop="$xl" gap="$lg">
+            <EndingHead
+              title={t('program.missedTitle', {
                 count: states.filter((s) => s.isMissed).length || progress.missedDays,
               })}
-            </Typography>
+              lede={t('program.ending.unbroken')}
+            />
             <MissedDays practiceId={manifest.id} program={manifest.program} />
+            <CardEnvelope practiceId={manifest.id} cards={cards} won={false} />
           </YStack>
         ) : isComplete || ended ? (
-          <YStack alignItems="center" gap="$md" paddingTop="$xl">
-            <Typography variant="sacred-title" fontSize="$5" fontStyle="italic">
-              {isComplete ? t('program.complete') : t('program.ended')}
-            </Typography>
-            <Typography tone="muted" fontSize="$3" textAlign="center">
-              {isComplete ? t('program.completeCelebration') : t('program.endedMessage')}
-            </Typography>
-            {(ended || completionBehavior === 'offer-restart') && (
+          // Kept whole, or its days gone by: what was prayed, the card, and — for a novena dated by
+          // its feast — next year rather than a restart that would end after the feast.
+          <YStack gap="$lg" paddingTop="$xl">
+            <EndingHead
+              title={
+                isComplete
+                  ? t('program.ending.prayedWhole')
+                  : manifest.program.ends
+                    ? t('program.ending.passed')
+                    : t('program.ended')
+              }
+              lede={
+                isComplete
+                  ? t('program.ending.daysPrayed', { count: totalDays })
+                  : [
+                      t('program.ending.prayedOf', { prayed, count: totalDays }),
+                      feast?.past && saint
+                        ? t('program.ending.feastWas', {
+                            name: saint.name,
+                            date: fullDate(feast.date, 'program.dayDateFormat'),
+                          })
+                        : '',
+                    ]
+                      .filter(Boolean)
+                      .join(' ')
+              }
+            />
+            <CardEnvelope practiceId={manifest.id} cards={cards} won={isComplete} />
+            {saint && feast ? (
+              <EndingLink
+                title={saint.name}
+                detail={t('program.ending.saintPage')}
+                onPress={() =>
+                  router.push({ pathname: '/saints/[index]', params: { index: saint.id } })
+                }
+              />
+            ) : null}
+            {!manifest.program.ends && (ended || completionBehavior === 'offer-restart') && (
               <PrayBar label={t('program.restart')} onPress={handleRestart} />
             )}
           </YStack>

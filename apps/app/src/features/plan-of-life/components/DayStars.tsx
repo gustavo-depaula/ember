@@ -21,9 +21,19 @@ export function dayWindow(programDay: number, totalDays: number): number[] {
 // The days as the fidelity wall draws them: a lit star for a day prayed, an
 // open one for today, a dot for a day still to come — and an empty ring for
 // one that passed unprayed, so a gap reads as a gap.
-export function DayStars({ days }: { days: { state: DayState; date?: string }[] }) {
+// `feast`: the day a novena leads up to, drawn after its days as a cross — in rubric red ahead,
+// faded once it has gone by.
+export function DayStars({
+  days,
+  feast,
+}: {
+  days: { state: DayState; date?: string }[]
+  feast?: { date: string; past: boolean }
+}) {
   const theme = useTheme()
-  const parsed = days.map((d) => (d.date ? parseISO(d.date) : undefined))
+  const parsed = [...days, ...(feast ? [{ date: feast.date }] : [])].map((d) =>
+    d.date ? parseISO(d.date) : undefined,
+  )
   const months = [...new Set(parsed.filter(Boolean).map((d) => formatLocalized(d as Date, 'LLLL')))]
   // A day a month (the First Fridays) heads each cell with its month, where
   // the weekday would only repeat itself.
@@ -44,7 +54,7 @@ export function DayStars({ days }: { days: { state: DayState; date?: string }[] 
       importantForAccessibility="no-hide-descendants"
     >
       {/* A handful of days (a triduum, the Ember days) gather at the middle. */}
-      <XStack justifyContent={days.length < 5 ? 'space-evenly' : 'space-between'}>
+      <XStack justifyContent={parsed.length < 5 ? 'space-evenly' : 'space-between'}>
         {days.map(({ state }, k) => {
           const date = parsed[k]
           const glyph = (() => {
@@ -70,6 +80,26 @@ export function DayStars({ days }: { days: { state: DayState; date?: string }[] 
             </YStack>
           )
         })}
+        {feast ? (
+          <YStack alignItems="center" gap={4} width={34}>
+            <Typography variant="label" fontSize={10} letterSpacing={1} tone="muted">
+              {head(parseISO(feast.date))}
+            </Typography>
+            <YStack height={26} justifyContent="center">
+              <Typography
+                fontSize={15}
+                lineHeight={26}
+                color={feast.past ? '$colorSecondary' : '$colorBurgundy'}
+                opacity={feast.past ? 0.5 : 1}
+              >
+                ✠
+              </Typography>
+            </YStack>
+            <Typography fontSize="$2" color="$colorSecondary">
+              {format(parseISO(feast.date), 'd')}
+            </Typography>
+          </YStack>
+        ) : null}
       </XStack>
       {months.length > 0 && !monthly && (
         <XStack justifyContent={days.length < 5 ? 'center' : 'space-between'} gap="$md">
