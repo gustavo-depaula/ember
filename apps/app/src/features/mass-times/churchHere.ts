@@ -44,7 +44,7 @@ export async function findChurchHere(): Promise<ChurchHere | undefined> {
 }
 
 // Whether a check-in already says you were at this church today, so the nudge doesn't ask twice.
-function checkedInToday(churchId: string): boolean {
+export function checkedInToday(churchId: string): boolean {
   const today = new Date()
   return [...useEventStore.getState().checkIns.values()].some(
     (c) => c.churchId === churchId && isSameDay(new Date(c.at), today),
@@ -65,23 +65,20 @@ export function useChurchHere(enabled: boolean) {
   })
 }
 
-// The toast that asks after a Mass ticked on Hoje. A store, so the tick and the toast, which live
-// in different trees, meet without threading props: the checklist offers, the host at the root shows.
-const useNudgeStore = create<{ church?: ChurchHere }>(() => ({}))
+// Which Mass row on Hoje is asking "Onde?". A store, so the tick (in the checklist's handler) and
+// the line under the row meet without threading props; the list clears it as it closes.
+const useAskingStore = create<{ slotKey?: string }>(() => ({}))
 
-export function useCheckInNudge(): ChurchHere | undefined {
-  return useNudgeStore((s) => s.church)
+export function useMassWhereAsking(slotKey: string): boolean {
+  return useAskingStore((s) => s.slotKey === slotKey)
 }
 
-export function dismissCheckInNudge(): void {
-  useNudgeStore.setState({ church: undefined })
+/** After Mass is ticked on Hoje: ask, under its row, at which church it was. */
+export function askMassWhere(slotKey: string): void {
+  useAskingStore.setState({ slotKey })
 }
 
-/** After Mass is ticked on Hoje: ask "at this church?" when you're at one, and stay quiet otherwise. */
-export async function offerMassCheckIn(): Promise<void> {
-  // Offline with no tile kept for here, we can't tell where you are — for an offer, the same as not
-  // being at a church: nothing to ask, and nothing wrong to report.
-  const church = await findChurchHere().catch(() => undefined)
-  if (!church || checkedInToday(church.id)) return
-  useNudgeStore.setState({ church })
+export function stopAskingMassWhere(slotKey?: string): void {
+  if (slotKey && useAskingStore.getState().slotKey !== slotKey) return
+  useAskingStore.setState({ slotKey: undefined })
 }

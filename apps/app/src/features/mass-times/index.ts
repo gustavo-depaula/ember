@@ -6,9 +6,14 @@ export {
   useChurchAttendance,
   useRecentCheckIns,
 } from './checkins'
-export { type ChurchHere, offerMassCheckIn, useChurchHere } from './churchHere'
-export { CheckInNudge } from './components/CheckInNudge'
+export {
+  askMassWhere,
+  type ChurchHere,
+  stopAskingMassWhere,
+  useChurchHere,
+} from './churchHere'
 export { ChurchSheet } from './components/ChurchSheet'
+export { MassWhere } from './components/MassWhere'
 export {
   type FavoriteChurch,
   useFavoriteChurches,

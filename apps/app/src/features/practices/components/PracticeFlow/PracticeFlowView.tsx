@@ -132,7 +132,11 @@ function PracticeReady({
   const actions = usePracticeActions(manifest)
   const canComplete = manifest.completion !== 'manual' && !isFutureDate && !readOnly
   // Following the Mass in the pew: when you're at a church, the Amém can say where too.
-  const { data: church } = useChurchHere(canComplete && manifest.liturgicalAct === 'mass')
+  const isMass = manifest.liturgicalAct === 'mass'
+  const { data: churchHere } = useChurchHere(canComplete && isMass)
+  // The lookup is cached across screens, so a disabled query still hands back the last answer:
+  // only a Mass may use it.
+  const church = canComplete && isMass ? churchHere : undefined
 
   // Mount the primitive tree in chunks: long practices (Mass, offices) render
   // hundreds of blocks, and mounting them all at once blocks the JS thread

@@ -7,7 +7,7 @@ import { YStack } from 'tamagui'
 
 import { Typography } from '@/components'
 import { getManifest } from '@/content/resolver'
-import { offerMassCheckIn } from '@/features/mass-times'
+import { askMassWhere, MassWhere, stopAskingMassWhere } from '@/features/mass-times'
 import {
   type BlockState,
   type DayPart,
@@ -38,6 +38,12 @@ export function TodayChecklist({
   const hour = useCurrentHour()
   const setSlotDone = useSetSlotDone()
   const restartNeededIds = useRestartNeededPractices()
+
+  // The "Onde?" line belongs to this opening of the list: closing it lets the question go.
+  useEffect(() => () => stopAskingMassWhere(), [])
+  const isTodaysMass = (slotKey: string) =>
+    selectedDate === format(getToday(), 'yyyy-MM-dd') &&
+    getManifest(parseSlotKey(slotKey).practiceId)?.liturgicalAct === 'mass'
 
   const [overrides, setOverrides] = useState<Partial<Record<DayPart, BlockState>>>({})
 
@@ -99,15 +105,11 @@ export function TodayChecklist({
               setSlotDone.mutate(
                 { slotKey: item.id, date: selectedDate, done },
                 {
-                  // Mass ticked today: if you're at a church, ask whether it was there.
+                  // Mass ticked today: ask, under its row, at which church it was.
                   onSuccess: () => {
-                    const today = format(getToday(), 'yyyy-MM-dd')
-                    if (
-                      done &&
-                      selectedDate === today &&
-                      getManifest(parseSlotKey(item.id).practiceId)?.liturgicalAct === 'mass'
-                    )
-                      void offerMassCheckIn()
+                    if (!isTodaysMass(item.id)) return
+                    if (done) askMassWhere(item.id)
+                    else stopAskingMassWhere(item.id)
                   },
                 },
               )
@@ -117,6 +119,17 @@ export function TodayChecklist({
                 ...prev,
                 [block]: state === 'expanded' ? 'collapsed' : 'expanded',
               }))
+            }
+            renderBelow={(item) =>
+              isTodaysMass(item.id) ? (
+                <MassWhere
+                  slotKey={item.id}
+                  onOtherChurch={() => {
+                    onLeave()
+                    router.navigate('/mass-times')
+                  }}
+                />
+              ) : null
             }
             onPressItem={(item) => {
               onLeave()

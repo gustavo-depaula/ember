@@ -49,7 +49,6 @@ import {
   warmDeferredManifests,
 } from '@/content/resolver'
 import { useDbInit } from '@/db/client'
-import { CheckInNudge } from '@/features/mass-times'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
 import { straightenPlanOnce } from '@/features/plan-of-life/straighten'
 import { startSync } from '@/features/sync'
@@ -309,7 +308,6 @@ export default function RootLayout() {
             </ThemeProvider>
             <FloatingOfflineChip />
             <ConfirmHost />
-            <CheckInNudge />
           </TamaguiProvider>
         </QueryClientProvider>
       </KeyboardProvider>
