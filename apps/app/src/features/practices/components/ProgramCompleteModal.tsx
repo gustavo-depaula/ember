@@ -17,6 +17,7 @@ import {
   EndingSection,
   EndingStars,
   NextYearSwitch,
+  useKeptLede,
   useProgramFeast,
 } from './ProgramEnding'
 
@@ -45,10 +46,10 @@ export function ProgramCompleteModal({
   const { t } = useTranslation()
   const router = useRouter()
   const { program } = manifest
-  const feast = useProgramFeast(practiceId, program)
   const { byId } = useSaintsCatalog()
   const cards = [manifest.holyCard ?? []].flat()
   const saint = byId[cards[0] ?? '']
+  const feast = useProgramFeast(practiceId, program, saint?.feast)
   // A round of a program the calendar brings round (the Ember days): kept, not finished for good.
   const round = !!program.days
 
@@ -59,16 +60,9 @@ export function ProgramCompleteModal({
   // The modal sits over the prayer; going on replaces the prayer's screen, so back lands on Today.
   const go = (href: Href) => router.replace(href)
 
-  const title = round
-    ? t('program.keptWhole')
-    : feast?.tomorrow
-      ? t('program.ending.eve')
-      : t('program.ending.prayedWhole')
-  const lede = round
-    ? undefined
-    : feast?.tomorrow && saint
-      ? t('program.ending.eveLede', { count: program.totalDays, name: saint.name })
-      : t('program.ending.daysPrayed', { count: program.totalDays })
+  const keptLede = useKeptLede(practiceId, program, saint)
+  const title = round ? t('program.keptWhole') : t('program.ending.persevered')
+  const lede = round ? undefined : keptLede
 
   return (
     <Modal animationType="fade" visible onRequestClose={onDone}>
@@ -76,8 +70,10 @@ export function ProgramCompleteModal({
         <Animated.View entering={FadeInDown.duration(420)}>
           <YStack gap="$xl" paddingVertical="$xl">
             <YStack>
-              <EndingHead name={practiceName} title={title} lede={lede} />
-              {round ? null : <EndingStars practiceId={practiceId} program={program} />}
+              <EndingHead name={practiceName} title={title} lede={lede} display />
+              {round ? null : (
+                <EndingStars practiceId={practiceId} program={program} cardFeast={saint?.feast} />
+              )}
             </YStack>
 
             {feast?.tomorrow ? (

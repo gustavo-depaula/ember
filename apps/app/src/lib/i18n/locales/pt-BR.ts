@@ -1474,10 +1474,12 @@ export default {
 
   program: {
     ending: {
-      eve: 'Você chegou à véspera',
-      eveLede_one: '{{count}} dia rezado. Amanhã é dia de {{name}}.',
-      eveLede_other: '{{count}} dias rezados. Amanhã é dia de {{name}}.',
-      prayedWhole: 'Rezado por inteiro',
+      persevered: 'Você perseverou',
+      daysPrayedRange_one: '{{count}} dia rezado, {{to}}.',
+      daysPrayedRange_other: '{{count}} dias rezados, de {{from}} a {{to}}.',
+      rangeFrom: 'd',
+      rangeTo: "d 'de' MMMM",
+      tomorrowIs: 'Amanhã: {{name}}.',
       daysPrayed_one: '{{count}} dia rezado.',
       daysPrayed_other: '{{count}} dias rezados.',
       passed: 'A novena passou',
