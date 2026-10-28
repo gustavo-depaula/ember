@@ -75,6 +75,9 @@ const artFiles: Record<string, string> = {
   'practice/intimita-divina': 'meditation-intimita.jpg',
   'practice/opus-dei-meditation': 'meditation-opus-dei.jpg',
   'practice/patristic-reading': 'meditation-patristic.jpg',
+  // The chapters of the page that guides building a rule (plan/add).
+  'rule/sacraments': 'eucharistic.jpg',
+  'rule/daily': 'tpl-little-way.jpg',
 }
 
 // Bump when a painting is replaced at an existing filename — expo-image caches

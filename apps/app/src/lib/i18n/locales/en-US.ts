@@ -445,6 +445,7 @@ export default {
   },
 
   plan: {
+    addPractice: 'Add a practice',
     practiceCount_one: '{{count}} practice',
     practiceCount_other: '{{count}} practices',
     timeCount_one: '{{count}} time',
@@ -531,6 +532,101 @@ export default {
     daytime: 'Daytime',
     evening: 'Evening',
     flexible: 'Flexible',
+  },
+
+  ruleGuide: {
+    title: 'Add to your rule',
+    lede: 'A rule of life is built from the top down: begin with the first steps and go further as each one becomes habit.',
+    inRule: 'In your rule · {{when}}',
+    added_one: '{{count}} practice added',
+    added_other: '{{count}} practices added',
+    seeRule: 'See the rule',
+    tiers: {
+      sacraments: {
+        title: 'The sacraments',
+        line: 'Where the life of grace begins and is renewed.',
+      },
+      daily: { title: 'The essentials of each day', line: 'Opening and closing the day with God.' },
+      throughDay: { title: 'Through the day', line: 'Pauses that make the whole day a prayer.' },
+      closer: {
+        title: 'Closer to Christ',
+        line: 'For those who want to deepen their friendship with him.',
+      },
+      calling: { title: 'If your heart asks', line: 'Devotions some feel called to.' },
+    },
+    practices: {
+      mass: {
+        meta: 'Sundays and holy days',
+        why: 'The Lord’s Day. It is the heart of the Christian week and the first precept of the Church.',
+      },
+      confession: {
+        meta: 'Once a month',
+        why: 'The Church asks at least once a year; the saints counsel going often. It is the fresh start God always offers.',
+      },
+      morningOffering: {
+        meta: 'On waking · 1 min',
+        why: 'Giving the day to God before it begins, so that work and weariness become prayer too.',
+      },
+      examination: {
+        meta: 'Before sleep · 5 min',
+        why: 'Looking over the day with God: giving thanks, asking pardon, resolving to begin again tomorrow.',
+      },
+      angelus: {
+        meta: 'At noon · 3 min',
+        why: 'Pausing in the middle of work to remember that God became man, with the angel’s words to Mary.',
+      },
+      rosary: {
+        meta: '20 min',
+        why: 'The life of Christ, mystery by mystery, contemplated with his Mother. The popes have never ceased to commend it.',
+      },
+      gospel: {
+        meta: '5 min',
+        why: 'A few minutes with the words of Christ that the Church reads today at every Mass.',
+      },
+      visit: {
+        meta: '3 min',
+        why: 'Christ is in the tabernacle. A few minutes before him, in passing, as one visits a friend.',
+      },
+      mentalPrayer: {
+        meta: '15 min',
+        why: 'Time alone with God, in silence: a conversation between friends, as Saint Teresa said.',
+      },
+      weekdayMass: {
+        name: 'Daily Mass',
+        meta: 'On weekdays · 40 min',
+        why: 'Whoever can go on weekdays as well meets Christ every day in the Eucharist.',
+      },
+      divineMercy: {
+        meta: 'At 3 p.m. · 10 min',
+        why: 'The prayer Jesus entrusted to Saint Faustina, asking mercy for us and for the whole world.',
+      },
+      office: {
+        meta: 'Morning and evening · 15 min',
+        why: 'The prayer of the Church through the hours of the day; it joins your voice to priests and religious the world over.',
+      },
+      stations: {
+        meta: 'On Fridays · 30 min',
+        why: 'Following Christ from his condemnation to the tomb, station by station, on the day he died.',
+      },
+      sevenSorrows: {
+        meta: '25 min',
+        why: 'Mary’s seven sorrows, pondered to learn from her how to stand by the Cross.',
+      },
+      jesusPrayer: {
+        meta: '5 min',
+        why: 'The short prayer of the Christian East, repeated slowly, to learn to pray without ceasing.',
+      },
+    },
+    lesson: {
+      kicker: 'And any other prayer',
+      title: 'It joins the rule from its own page',
+      example: 'Litany of Loreto',
+      step1: 'Open any prayer, from Prayers or Search.',
+      step2Before: 'Tap ',
+      step2After: ' beside its title.',
+      step3: 'Choose Add to Plan, then the days and the hour.',
+      open: 'Open Prayers',
+    },
   },
 
   rule: {
@@ -1760,6 +1856,9 @@ export default {
   },
   a11y: {
     openShelfItem: 'Open {{name}}',
+    addToRule: 'Add {{name}} to your rule',
+    inRule: '{{name}}, in your rule',
+    openAddToRule: 'Add a practice',
     prayOffice: 'Pray {{name}}',
     showChant: 'Show the chant of {{name}}',
     hideChant: 'Hide the chant of {{name}}',

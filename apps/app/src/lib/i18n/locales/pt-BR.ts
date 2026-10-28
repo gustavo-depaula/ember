@@ -450,6 +450,7 @@ export default {
   },
 
   plan: {
+    addPractice: 'Acrescentar uma prática',
     practiceCount_one: '{{count}} prática',
     practiceCount_other: '{{count}} práticas',
     timeCount_one: '{{count}} horário',
@@ -536,6 +537,98 @@ export default {
     daytime: 'Diurno',
     evening: 'Noite',
     flexible: 'Flex\u00edvel',
+  },
+
+  ruleGuide: {
+    title: 'Acrescentar à regra',
+    lede: 'Uma regra de vida se constrói de cima para baixo: comece pelos primeiros degraus e desça quando cada um já for hábito.',
+    inRule: 'Na regra · {{when}}',
+    added_one: '{{count}} prática acrescentada',
+    added_other: '{{count}} práticas acrescentadas',
+    seeRule: 'Ver a regra',
+    tiers: {
+      sacraments: { title: 'Os sacramentos', line: 'Onde a vida da graça começa e se renova.' },
+      daily: { title: 'O essencial de cada dia', line: 'Abrir e fechar o dia com Deus.' },
+      throughDay: { title: 'Ao longo do dia', line: 'Pausas que fazem do dia inteiro uma oração.' },
+      closer: {
+        title: 'Mais perto de Cristo',
+        line: 'Para quem quer aprofundar a amizade com Ele.',
+      },
+      calling: { title: 'Se o coração pedir', line: 'Devoções a que alguns se sentem chamados.' },
+    },
+    practices: {
+      mass: {
+        meta: 'Aos domingos e dias santos',
+        why: 'O Dia do Senhor. É o centro da semana cristã e o primeiro mandamento da Igreja.',
+      },
+      confession: {
+        meta: 'Uma vez por mês',
+        why: 'A Igreja pede ao menos uma vez por ano; os santos aconselham com frequência. É o recomeço que Deus sempre oferece.',
+      },
+      morningOffering: {
+        meta: 'Ao acordar · 1 min',
+        why: 'Entregar a Deus o dia antes que ele comece, para que o trabalho e o cansaço também sejam oração.',
+      },
+      examination: {
+        meta: 'Antes de dormir · 5 min',
+        why: 'Olhar o dia com Deus: agradecer, pedir perdão e propor-se a recomeçar amanhã.',
+      },
+      angelus: {
+        meta: 'Ao meio-dia · 3 min',
+        why: 'Parar no meio do trabalho e lembrar que Deus se fez homem, com as palavras do anjo a Maria.',
+      },
+      rosary: {
+        meta: '20 min',
+        why: 'A vida de Cristo, mistério por mistério, contemplada com sua Mãe. Os papas não cessaram de recomendá-lo.',
+      },
+      gospel: {
+        meta: '5 min',
+        why: 'Alguns minutos com as palavras de Cristo que a Igreja lê hoje em todas as Missas.',
+      },
+      visit: {
+        meta: '3 min',
+        why: 'Cristo está no sacrário. Passar alguns minutos diante d’Ele, de passagem, como quem visita um amigo.',
+      },
+      mentalPrayer: {
+        meta: '15 min',
+        why: 'Um tempo a sós com Deus, em silêncio, conversa de amigos, como dizia Santa Teresa.',
+      },
+      weekdayMass: {
+        name: 'Missa diária',
+        meta: 'Durante a semana · 40 min',
+        why: 'Quem pode ir também nos dias de semana encontra Cristo todos os dias na Eucaristia.',
+      },
+      divineMercy: {
+        meta: 'Às 15h · 10 min',
+        why: 'A oração que Jesus confiou a Santa Faustina, pedindo misericórdia para nós e para o mundo inteiro.',
+      },
+      office: {
+        meta: 'Manhã e tarde · 15 min',
+        why: 'A oração da Igreja nas horas do dia; une a sua voz à de padres e religiosos no mundo inteiro.',
+      },
+      stations: {
+        meta: 'Às sextas-feiras · 30 min',
+        why: 'Acompanhar Cristo da condenação ao sepulcro, estação por estação, no dia em que Ele morreu.',
+      },
+      sevenSorrows: {
+        meta: '25 min',
+        why: 'As sete dores de Maria, meditadas para aprender com ela a ficar de pé junto à Cruz.',
+      },
+      jesusPrayer: {
+        meta: '5 min',
+        why: 'A breve oração do Oriente cristão, repetida devagar, para aprender a rezar sem cessar.',
+      },
+    },
+    lesson: {
+      kicker: 'E qualquer outra oração',
+      title: 'Entra na regra pela sua própria página',
+      example: 'Ladainha de Nossa Senhora',
+      step1: 'Abra a oração que quiser, em Orações ou na Busca.',
+      step2Before: 'Toque em ',
+      step2After: ' ao lado do título.',
+      step3: 'Escolha Adicionar ao Plano, depois os dias e a hora.',
+      open: 'Abrir Orações',
+    },
   },
 
   rule: {
@@ -1769,6 +1862,9 @@ export default {
   },
   a11y: {
     openShelfItem: 'Abrir {{name}}',
+    addToRule: 'Acrescentar {{name}} à regra',
+    inRule: '{{name}}, na regra',
+    openAddToRule: 'Acrescentar uma prática',
     prayOffice: 'Rezar {{name}}',
     showChant: 'Mostrar o canto de {{name}}',
     hideChant: 'Ocultar o canto de {{name}}',
