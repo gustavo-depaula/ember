@@ -37,6 +37,7 @@ export type CatalogItemKind =
   | 'plan-of-life-template'
   | 'checkup'
   | 'creator'
+  | 'author'
 
 export type CreatorRole = 'priest' | 'religious' | 'lay-theologian' | 'bishop' | 'deacon'
 export type CreatorLanguage = 'en-US' | 'pt-BR' | 'la'
@@ -71,6 +72,20 @@ export type CatalogEntry = {
   itemCount?: number
   /** Collection items by ref kind (`book`, `practice`, …) — "48 volumes" on the cover. */
   itemCounts?: Partial<Record<string, number>>
+  // Book hints for the Books screen (scripts/build-corpus.py: build_books).
+  /** Minutes to read the whole book, per language it reads in. */
+  minutes?: Record<string, number>
+  /** The day each language arrived; the earliest is the book's own. */
+  arrived?: Record<string, string>
+  /** The Bible books it comments, as the Bible tab ids them (`john`, `1-corinthians`). */
+  commentsOn?: string[]
+  /** Its author's `author/<id>` entry, without the prefix. */
+  authorRef?: string
+  // Author hints (build_authors).
+  /** The century most of the author's work was written in; absent for anonymous collections. */
+  century?: number
+  /** The holy card that gives the author a face. */
+  saint?: string
   // Creator-kind hints (populated by build_creators in scripts/build-corpus.py).
   creatorRole?: CreatorRole
   creatorLanguages?: CreatorLanguage[]
