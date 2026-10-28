@@ -6,8 +6,8 @@
 		"pt-BR": "Para começar"
 	},
 	"description": {
-		"en-US": "Seven spiritual classics in the order to read them, from the shortest to the deepest.",
-		"pt-BR": "Sete clássicos espirituais na ordem de lê-los, do mais curto ao mais fundo."
+		"en-US": "Six short, gentle books to begin with, in the order to read them.",
+		"pt-BR": "Seis livros curtos e suaves para começar, na ordem de lê-los."
 	},
 	"languages": [
 		"en-US",
@@ -18,8 +18,8 @@
 	],
 	"prologue": {
 		"body": {
-			"en-US": "If you have never read a spiritual classic, begin here, in this order. At fifteen minutes a day the seven take about four months.",
-			"pt-BR": "Se você nunca leu um clássico espiritual, comece por aqui, nesta ordem. A quinze minutos por dia, os sete levam uns quatro meses."
+			"en-US": "If you have never read a spiritual classic, begin here, in this order. At fifteen minutes a day the six take about seven weeks.",
+			"pt-BR": "Se você nunca leu um clássico espiritual, comece por aqui, nesta ordem. A quinze minutos por dia, os seis levam umas sete semanas."
 		}
 	},
 	"sections": [
@@ -32,71 +32,61 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/montfort-secret-mary",
-					"annotation": {
-						"context": {
-							"en-US": "Short enough for one evening, and already shows what it is to read a saint.",
-							"pt-BR": "Curto o bastante para uma noite, e já mostra o que é ler um santo."
-						}
-					}
-				},
-				{
-					"kind": "item",
-					"ref": "book/kempis-imitation-of-christ",
-					"annotation": {
-						"context": {
-							"en-US": "Chapters of a page each, to be read slowly and returned to.",
-							"pt-BR": "Capítulos de uma página, para ler devagar e voltar a eles."
-						}
-					}
-				},
-				{
-					"kind": "item",
 					"ref": "book/sales-introduction-to-the-devout-life",
 					"annotation": {
 						"context": {
-							"en-US": "The devout life for people who live in the world, with practical counsel at every step.",
-							"pt-BR": "A vida devota para quem vive no mundo, com conselhos práticos a cada passo."
+							"en-US": "Written for someone taking their first steps while living in the world. The way in.",
+							"pt-BR": "Escrito para quem dá os primeiros passos vivendo no mundo. A porta de entrada."
 						}
 					}
 				},
 				{
 					"kind": "item",
-					"ref": "book/liguori-gran-mezzo-della-preghiera",
+					"ref": "book/liguori-uniformita-alla-volonta-di-dio",
 					"annotation": {
 						"context": {
-							"en-US": "Why we must pray. It prepares the next one.",
-							"pt-BR": "Por que rezar. Prepara o seguinte."
+							"en-US": "Read in an evening: holiness is loving what God wills.",
+							"pt-BR": "Lê-se numa noite: a santidade é amar o que Deus quer."
 						}
 					}
 				},
 				{
 					"kind": "item",
-					"ref": "book/frost-art-of-mental-prayer",
+					"ref": "book/montfort-secret-mary",
 					"annotation": {
 						"context": {
-							"en-US": "How to pray: the methods of mental prayer, one by one.",
-							"pt-BR": "Como rezar: os métodos de oração mental, um a um."
+							"en-US": "Our Lady, in a few pages.",
+							"pt-BR": "Nossa Senhora, em poucas páginas."
 						}
 					}
 				},
 				{
 					"kind": "item",
-					"ref": "book/liguori-pratica-di-amar-gesu-cristo",
+					"ref": "book/mathetes-epistle-to-diognetus",
 					"annotation": {
 						"context": {
-							"en-US": "Charity as St. Paul describes it, phrase by phrase.",
-							"pt-BR": "A caridade como São Paulo a descreve, frase por frase."
+							"en-US": "How the first Christians lived in the world. Short and beautiful.",
+							"pt-BR": "Como os primeiros cristãos viviam no mundo. Curta e bela."
 						}
 					}
 				},
 				{
 					"kind": "item",
-					"ref": "book/augustine-confessions",
+					"ref": "book/pius-x-catechism",
 					"annotation": {
 						"context": {
-							"en-US": "A life told to God. Deeper going, after the others.",
-							"pt-BR": "Uma vida contada a Deus. Leitura mais funda, depois dos outros."
+							"en-US": "The faith in short questions and answers, to know what one believes.",
+							"pt-BR": "A fé em perguntas e respostas curtas, para saber o que se crê."
+						}
+					}
+				},
+				{
+					"kind": "item",
+					"ref": "book/liguori-visite-al-ss-sacramento",
+					"annotation": {
+						"context": {
+							"en-US": "A first habit of prayer: one short visit to the Blessed Sacrament a day.",
+							"pt-BR": "Um primeiro hábito de oração: uma visita curta ao Santíssimo por dia."
 						}
 					}
 				}
