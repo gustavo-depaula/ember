@@ -356,5 +356,8 @@
         "fr-FR": "Table Alphabétique"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "fr-FR": "2026-05-19"
+  }
 }

@@ -28,5 +28,10 @@
         "pt-BR": "Exposição sobre os Atos dos Apóstolos"
       }
     }
-  ]
+  ],
+  "commentsOn": ["acts"],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "pt-BR": "2026-10-11"
+  }
 }

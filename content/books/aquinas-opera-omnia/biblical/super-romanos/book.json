@@ -150,5 +150,10 @@
         "la": "C. 16 - Personal Greetings and Doxology"
       }
     }
-  ]
+  ],
+  "commentsOn": ["romans"],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "la": "2026-06-04"
+  }
 }

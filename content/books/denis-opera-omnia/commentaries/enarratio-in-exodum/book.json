@@ -983,5 +983,9 @@
         }
       ]
     }
-  ]
+  ],
+  "commentsOn": ["exodus"],
+  "arrived": {
+    "la": "2026-10-21"
+  }
 }

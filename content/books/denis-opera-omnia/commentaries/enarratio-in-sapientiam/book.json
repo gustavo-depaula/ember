@@ -377,5 +377,9 @@
         }
       ]
     }
-  ]
+  ],
+  "commentsOn": ["wisdom"],
+  "arrived": {
+    "la": "2026-10-21"
+  }
 }

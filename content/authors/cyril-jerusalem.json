@@ -1,0 +1,11 @@
+{
+  "name": {
+    "en-US": "St. Cyril of Jerusalem",
+    "pt-BR": "São Cirilo de Jerusalém"
+  },
+  "century": 4,
+  "saint": "cyril_jerusalem",
+  "matches": [
+    "Cyril of Jerusalem"
+  ]
+}

@@ -348,5 +348,9 @@
         "en-US": "Homily 55"
       }
     }
-  ]
+  ],
+  "commentsOn": ["acts"],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

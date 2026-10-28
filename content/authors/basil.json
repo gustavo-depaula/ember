@@ -1,0 +1,11 @@
+{
+  "name": {
+    "en-US": "St. Basil the Great",
+    "pt-BR": "São Basílio Magno"
+  },
+  "century": 4,
+  "saint": "basil_gregory",
+  "matches": [
+    "Basil the Great"
+  ]
+}

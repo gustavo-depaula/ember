@@ -168,5 +168,9 @@
         "en-US": "Homily 24"
       }
     }
-  ]
+  ],
+  "commentsOn": ["ephesians"],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

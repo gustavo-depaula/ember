@@ -28,5 +28,9 @@
         "pt-BR": "Carta sobre o Concílio de Niceia"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "pt-BR": "2026-10-11"
+  }
 }

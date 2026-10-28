@@ -331,5 +331,9 @@
         }
       ]
     }
-  ]
+  ],
+  "commentsOn": ["judith"],
+  "arrived": {
+    "la": "2026-10-21"
+  }
 }

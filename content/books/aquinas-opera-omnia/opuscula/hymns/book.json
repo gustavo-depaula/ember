@@ -88,5 +88,10 @@
         "pt-BR": "Soneto atribuído a Aquino (\"Cada Homem Tem Tanta Virtude\")"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "la": "2026-06-04",
+    "pt-BR": "2026-09-05"
+  }
 }

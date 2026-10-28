@@ -936,5 +936,9 @@
         "en-US": "Chapter 10"
       }
     }
-  ]
+  ],
+  "commentsOn": ["matthew", "mark", "luke", "john"],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

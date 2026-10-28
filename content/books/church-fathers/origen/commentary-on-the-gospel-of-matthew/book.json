@@ -60,5 +60,9 @@
         "en-US": "Book XIV"
       }
     }
-  ]
+  ],
+  "commentsOn": ["matthew"],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

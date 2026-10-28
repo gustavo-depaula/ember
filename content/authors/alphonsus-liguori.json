@@ -1,0 +1,13 @@
+{
+  "name": {
+    "en-US": "St. Alphonsus Liguori",
+    "pt-BR": "Santo Afonso de Ligório"
+  },
+  "century": 18,
+  "saint": "alphonsus_liguori",
+  "matches": [
+    "St. Alphonsus Maria de Liguori",
+    "Santo Afonso Maria de Ligório",
+    "Père Saint-Omer, C.SS.R."
+  ]
+}

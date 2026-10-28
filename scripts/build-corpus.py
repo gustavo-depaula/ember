@@ -266,6 +266,11 @@ def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
 PRAYER_WPM = {"la": 115}
 DEFAULT_WPM = 150
 
+# Words a minute of a book read silently: "uma tarde", "26 dias a 15 minutos".
+# Latin, read by people who learned it, goes slower.
+READING_WPM = {"la": 150}
+DEFAULT_READING_WPM = 200
+
 # Sections that are read at a glance, not prayed.
 UNPRAYED_SECTIONS = {
     "heading", "subheading", "section-marker", "divider", "rubric", "image", "gallery",
@@ -1058,23 +1063,33 @@ def _validate_book_titles(bid: str, meta: dict, chapter_paths: dict) -> None:
 
 def _build_book_index_worker(
     job: tuple[str, dict[str, dict[str, dict]], dict[str, dict[str, tuple[str, bool]]]],
-) -> tuple[str, dict[str, dict]]:
+) -> tuple[str, dict[str, dict], dict[str, int]]:
     """Pool worker: re-read a book's chapter files and build its search index.
 
     Only file paths cross the process boundary (not the ~600MB of chapter
     bytes), so each worker reads its own chapters from disk. The search index
     is a pure function of the chapter text, so workers never touch the shared
-    Builder — index blobs are written back on the main process.
+    Builder — index blobs are written back on the main process. The same pass
+    counts each language's words for the book's reading time.
     """
     bid, chapters_by_lang, chapter_paths = job
     chapter_sources: dict[str, dict[str, tuple[bytes, bool]]] = {}
+    words: dict[str, int] = {}
     for cid, per in chapter_paths.items():
         for lang, (path_str, is_html) in per.items():
-            chapter_sources.setdefault(cid, {})[lang] = (Path(path_str).read_bytes(), is_html)
-    return bid, build_search_index_for_book(chapters_by_lang, chapter_sources)
+            raw = Path(path_str).read_bytes()
+            chapter_sources.setdefault(cid, {})[lang] = (raw, is_html)
+            text = extract_plain_text(raw.decode("utf-8", errors="replace"), is_html)
+            words[lang] = words.get(lang, 0) + len(text.split())
+    minutes = {
+        lang: max(1, round(n / READING_WPM.get(lang, DEFAULT_READING_WPM)))
+        for lang, n in words.items()
+        if n
+    }
+    return bid, build_search_index_for_book(chapters_by_lang, chapter_sources), minutes
 
 
-def build_books(b: Builder) -> None:
+def build_books(b: Builder, authors: dict[str, str]) -> None:
     src = CONTENT / "books"
     if not src.is_dir():
         return
@@ -1152,16 +1167,19 @@ def build_books(b: Builder) -> None:
         if p["chapters_by_lang"]
     ]
     indexes_by_bid: dict[str, dict[str, dict]] = {}
+    minutes_by_bid: dict[str, dict[str, int]] = {}
     if jobs:
         workers = min(len(jobs), os.cpu_count() or 1)
         if workers > 1:
             with Pool(processes=workers) as pool:
-                for bid, indexes in pool.imap_unordered(_build_book_index_worker, jobs):
+                for bid, indexes, minutes in pool.imap_unordered(_build_book_index_worker, jobs):
                     indexes_by_bid[bid] = indexes
+                    minutes_by_bid[bid] = minutes
         else:
             for job in jobs:
-                bid, indexes = _build_book_index_worker(job)
+                bid, indexes, minutes = _build_book_index_worker(job)
                 indexes_by_bid[bid] = indexes
+                minutes_by_bid[bid] = minutes
 
     # Second pass (sequential): write index blobs + manifests + catalog entries.
     for p in pending:
@@ -1193,6 +1211,18 @@ def build_books(b: Builder) -> None:
             catalog_entry["tags"] = meta["tags"]
         if "cover" in meta:
             catalog_entry["cover"] = meta["cover"]
+        # What the Books screen lists books by, without a manifest fetch.
+        if minutes_by_bid.get(bid):
+            catalog_entry["minutes"] = minutes_by_bid[bid]
+        for key in ("arrived", "commentsOn"):
+            if key in meta:
+                catalog_entry[key] = meta[key]
+        author_text = meta.get("author") or {}
+        author_key = author_text.get("en-US") or next(iter(author_text.values()), None)
+        if author_key in authors:
+            catalog_entry["authorRef"] = authors[author_key]
+        elif author_key:
+            print(f"  warning: book/{bid}: no content/authors entry matches {author_key!r}")
         b.add_catalog(f"book/{bid}", catalog_entry)
 
 
@@ -1692,6 +1722,39 @@ def build_checkup(b: Builder) -> None:
         b.add_catalog(f"checkup/{name}", {"kind": "checkup", "hash": ih, "size": isize})
 
 
+def build_authors(b: Builder) -> dict[str, str]:
+    """The people (and the anonymous or collective sources) books are by.
+
+    Each lives in `content/authors/<id>.json`: a localized `name`, the
+    `century` most of their work was written in (absent for collections like
+    the Apocrypha), the holy card that gives them a face (`saint`), and the
+    `matches` — every `author["en-US"]` string a book.json spells them with.
+    Returns that string → author id, for the books to point at.
+    """
+    src = CONTENT / "authors"
+    by_book_author: dict[str, str] = {}
+    if not src.is_dir():
+        return by_book_author
+    for f in sorted(src.glob("*.json")):
+        aid = f.stem
+        with f.open(encoding="utf-8") as fh:
+            data = json.load(fh)
+        for spelling in data.get("matches") or []:
+            if spelling in by_book_author:
+                raise ValueError(
+                    f"author {aid}: {spelling!r} already matches author {by_book_author[spelling]}"
+                )
+            by_book_author[spelling] = aid
+        data["id"] = f"author/{aid}"
+        h, size = b.write_json_blob(data)
+        catalog_entry: dict[str, Any] = {"kind": "author", "hash": h, "size": size}
+        for key in ("name", "century", "saint"):
+            if key in data:
+                catalog_entry[key] = data[key]
+        b.add_catalog(f"author/{aid}", catalog_entry)
+    return by_book_author
+
+
 def build_creators(b: Builder) -> None:
     """Catholic creators — directory + per-creator manifest.
 
@@ -1793,8 +1856,10 @@ def main(argv: list[str]) -> int:
     build_practices(b)
     print("[corpus] chapters...")
     build_chapters(b)
+    print("[corpus] authors...")
+    authors = build_authors(b)
     print("[corpus] books...")
-    build_books(b)
+    build_books(b, authors)
     print("[corpus] of (rebuilt missal corpus)...")
     build_missal(b)
     print("[corpus] liturgy of the hours...")

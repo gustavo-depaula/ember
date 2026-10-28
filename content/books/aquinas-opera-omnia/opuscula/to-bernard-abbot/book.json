@@ -43,5 +43,10 @@
         "pt-BR": "Carta ao Abade Bernardo de Monte Cassino"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "la": "2026-06-04",
+    "pt-BR": "2026-10-02"
+  }
 }

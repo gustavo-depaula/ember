@@ -28,5 +28,9 @@
         "pt-BR": "Duas Cartas a Teodoro após a sua Queda"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "pt-BR": "2026-10-03"
+  }
 }

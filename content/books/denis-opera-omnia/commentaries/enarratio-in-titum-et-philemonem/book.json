@@ -105,5 +105,9 @@
         }
       ]
     }
-  ]
+  ],
+  "commentsOn": ["titus", "philemon"],
+  "arrived": {
+    "la": "2026-10-21"
+  }
 }

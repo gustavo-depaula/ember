@@ -323,5 +323,9 @@
         }
       ]
     }
-  ]
+  ],
+  "commentsOn": ["1-machabees"],
+  "arrived": {
+    "la": "2026-10-21"
+  }
 }

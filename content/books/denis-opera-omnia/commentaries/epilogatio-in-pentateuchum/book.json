@@ -107,5 +107,9 @@
         "pt-BR": "Artigo 10"
       }
     }
-  ]
+  ],
+  "commentsOn": ["genesis", "exodus", "leviticus", "numbers", "deuteronomy"],
+  "arrived": {
+    "la": "2026-10-21"
+  }
 }

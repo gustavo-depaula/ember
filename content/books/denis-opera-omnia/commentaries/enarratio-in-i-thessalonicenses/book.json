@@ -125,5 +125,9 @@
         }
       ]
     }
-  ]
+  ],
+  "commentsOn": ["1-thessalonians"],
+  "arrived": {
+    "la": "2026-10-21"
+  }
 }

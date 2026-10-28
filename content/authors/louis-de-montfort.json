@@ -1,0 +1,12 @@
+{
+  "name": {
+    "en-US": "St. Louis de Montfort",
+    "pt-BR": "São Luís de Montfort"
+  },
+  "century": 18,
+  "saint": "louis_de_montfort",
+  "matches": [
+    "St. Louis-Marie Grignion de Montfort",
+    "St. Louis de Montfort"
+  ]
+}

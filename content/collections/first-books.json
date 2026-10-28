@@ -1,0 +1,106 @@
+{
+	"version": "1.0.0",
+	"cover": "boxed",
+	"name": {
+		"en-US": "Where to Begin",
+		"pt-BR": "Para começar"
+	},
+	"description": {
+		"en-US": "Seven spiritual classics in the order to read them, from the shortest to the deepest.",
+		"pt-BR": "Sete clássicos espirituais na ordem de lê-los, do mais curto ao mais fundo."
+	},
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"reading-list"
+	],
+	"prologue": {
+		"body": {
+			"en-US": "If you have never read a spiritual classic, begin here, in this order. At fifteen minutes a day the seven take about four months.",
+			"pt-BR": "Se você nunca leu um clássico espiritual, comece por aqui, nesta ordem. A quinze minutos por dia, os sete levam uns quatro meses."
+		}
+	},
+	"sections": [
+		{
+			"id": "books",
+			"title": {
+				"en-US": "In order",
+				"pt-BR": "Em ordem"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/montfort-secret-mary",
+					"annotation": {
+						"context": {
+							"en-US": "Short enough for one evening, and already shows what it is to read a saint.",
+							"pt-BR": "Curto o bastante para uma noite, e já mostra o que é ler um santo."
+						}
+					}
+				},
+				{
+					"kind": "item",
+					"ref": "book/kempis-imitation-of-christ",
+					"annotation": {
+						"context": {
+							"en-US": "Chapters of a page each, to be read slowly and returned to.",
+							"pt-BR": "Capítulos de uma página, para ler devagar e voltar a eles."
+						}
+					}
+				},
+				{
+					"kind": "item",
+					"ref": "book/sales-introduction-to-the-devout-life",
+					"annotation": {
+						"context": {
+							"en-US": "The devout life for people who live in the world, with practical counsel at every step.",
+							"pt-BR": "A vida devota para quem vive no mundo, com conselhos práticos a cada passo."
+						}
+					}
+				},
+				{
+					"kind": "item",
+					"ref": "book/liguori-gran-mezzo-della-preghiera",
+					"annotation": {
+						"context": {
+							"en-US": "Why we must pray. It prepares the next one.",
+							"pt-BR": "Por que rezar. Prepara o seguinte."
+						}
+					}
+				},
+				{
+					"kind": "item",
+					"ref": "book/frost-art-of-mental-prayer",
+					"annotation": {
+						"context": {
+							"en-US": "How to pray: the methods of mental prayer, one by one.",
+							"pt-BR": "Como rezar: os métodos de oração mental, um a um."
+						}
+					}
+				},
+				{
+					"kind": "item",
+					"ref": "book/liguori-pratica-di-amar-gesu-cristo",
+					"annotation": {
+						"context": {
+							"en-US": "Charity as St. Paul describes it, phrase by phrase.",
+							"pt-BR": "A caridade como São Paulo a descreve, frase por frase."
+						}
+					}
+				},
+				{
+					"kind": "item",
+					"ref": "book/augustine-confessions",
+					"annotation": {
+						"context": {
+							"en-US": "A life told to God. Deeper going, after the others.",
+							"pt-BR": "Uma vida contada a Deus. Leitura mais funda, depois dos outros."
+						}
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+  "name": {
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "century": 17,
+  "saint": "francis_de_sales",
+  "matches": [
+    "St. Francis of Sales"
+  ]
+}

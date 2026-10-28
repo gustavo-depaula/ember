@@ -28,5 +28,10 @@
         "pt-BR": "Sobre Lucas 10:22 (Mateus 11:27)"
       }
     }
-  ]
+  ],
+  "commentsOn": ["luke"],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "pt-BR": "2026-10-11"
+  }
 }

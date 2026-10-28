@@ -25,6 +25,9 @@ The shape is `BookEntry` / `TocNode` in `apps/app/src/content/manifestTypes.ts`.
 
 - **`sources`**: `[{ language, url, description }]`, the provenance of each language's text. Several books (the Trent catechism, both Pius X catechisms, Morrow, …) align *independent historical translations*, and `sources` is where that shows.
 - **`cover`**: the generated bound-volume format for a book without art. One of `classic`, `gilt`, `label`, `quarter`, `arch`, `watermark`, `banded`, `missal` (`apps/app/src/features/covers/coverFor.ts`).
+- **`arrived`**: the day each language's text arrived, which the Books screen's *Recém-chegados* reads. Don't write it by hand: run `python3 scripts/stamp-book-arrivals.py` after importing a book or a translation.
+- **`commentsOn`**: for a commentary, the Bible books it comments, as the Bible tab ids them (`john`, `1-corinthians`, `psalms`). It puts the book behind *A Bíblia comentada*.
+- **`author`** is matched to an entry in `content/authors/`, whose `matches` lists every `author["en-US"]` spelling that means that person. The entry gives the author a `century` and, through `saint`, a face from the holy cards. The corpus build warns about a book whose author has no entry.
 
 ### Book id
 

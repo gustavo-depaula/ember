@@ -1,0 +1,11 @@
+{
+  "name": {
+    "en-US": "St. Ignatius of Antioch",
+    "pt-BR": "Santo Inácio de Antioquia"
+  },
+  "century": 2,
+  "saint": "ignatius_antioch",
+  "matches": [
+    "Ignatius of Antioch"
+  ]
+}

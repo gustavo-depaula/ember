@@ -150,5 +150,8 @@
         "en-US": "CONFERENCE 24."
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }
