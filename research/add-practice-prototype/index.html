@@ -348,13 +348,41 @@
   .orow { display: flex; align-items: center; gap: 14px; min-height: 56px; cursor: pointer; }
   .orow b { flex: 1; font-weight: 400; font-size: 20px; line-height: 25px; }
   .orow span { color: var(--muted); font-size: 14px; }
+  /* Round ten */
+  .tierh { padding: 22px 0 2px; border-bottom: 0.5px solid var(--accentSubtle); }
+  .tierh b { display: block; font: 400 13px/18px var(--display); letter-spacing: 2.5px; text-transform: uppercase; color: var(--accent); font-weight: 400; }
+  .tierh span { display: block; font-size: 15px; line-height: 20px; font-style: italic; color: var(--muted); padding: 2px 0 6px; }
+  .ess { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; padding-top: 12px; }
+  .ess > div { position: relative; border-radius: 14px; padding: 12px; min-height: 112px; background: linear-gradient(135deg, #5a1722, #24090e); box-shadow: 0 6px 14px #0007; display: flex; flex-direction: column; justify-content: space-between; color: var(--blockInk); }
+  .ess b { font: italic 400 20px/22px var(--title); padding-right: 30px; }
+  .ess small { font-size: 13.5px; line-height: 17px; color: #dacab2; }
+  .ess .sw, .ess .in { position: absolute; top: 4px; right: 4px; width: 36px; height: 36px; }
+  .ess svg.bead { width: 36px; height: 36px; }
 </style>
 
 <main>
   <header>
     <h1>Acrescentar à regra</h1>
-    <p><b style="color:var(--ink);font-weight:400">Round nine is at the top:</b> the daily staples, and how to add any other prayer from its own page. Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
+    <p><b style="color:var(--ink);font-weight:400">Round ten is at the top:</b> the essentials, what goes further, and how to add any other prayer from its own page. Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
   </header>
+
+  <section class="q">
+    <h2>Rodada 10 · Montar uma regra, passo a passo</h2>
+    <h3>B, as a guide: begin with the essentials, grow from there, and any other prayer from its page</h3>
+    <p>The page now walks someone through building a plan of life instead of offering a menu. First the few things a rule rests on; then, once those hold, what to add one at a time; then the lesson from B for everything else. Both phones work. A lays the steps out on one page; B opens the second step only once the essentials are in the rule.</p>
+    <div class="strip" id="r10"></div>
+  </section>
+
+  <section class="note">
+    <b>To settle</b>
+    <ul>
+      <li><b>Which practices are “the essentials”.</b> I drew Sunday Mass, monthly confession, the morning offering and the night examination, the base nearly every plan-of-life template in the app shares. Say if prayer at another hour (the Angelus, the Rosary) belongs there.</li>
+      <li><b>The second step's name.</b> Drawn as “Depois, cresça aos poucos”. Other options: “Com o tempo”, “Um passo a mais”.</li>
+      <li><b>Guided or open.</b> In B the second step waits for the essentials, with “ver mesmo assim” for anyone who wants it now. Someone who already keeps a rule never sees it locked.</li>
+    </ul>
+  </section>
+
+  <div class="round">Rodada 9</div>
 
   <section class="q">
     <h2>Rodada 9 · O que se reza todo dia, e como acrescentar o resto</h2>
@@ -1235,6 +1263,88 @@
   mount9(document.getElementById('p9a'), 'walk')
   mount9(document.getElementById('p9b'), 'lesson')
   mount9(document.getElementById('p9c'), 'line')
+
+  // ── Round ten: B in two tiers, every claim from the templates ──
+  // [name, minutes, part of day, icon, line, in the rule: hour]
+  const essentials = [
+    ['Santa Missa', 60, 'dia', 'cross', 'Aos domingos e dias santos'],
+    ['Confissão', 10, 'dia', 'cross', 'Uma vez por mês'],
+    ['Oferecimento do Dia', 1, 'manhã', 'sunrise', 'Entregar a Deus o dia que começa', '6h30'],
+    ['Exame de Consciência', 5, 'noite', 'prayer', 'Rever o dia diante de Deus', '21h'],
+  ]
+  const further = [
+    ['Angelus', 3, 'dia', 'bell', 'Ao meio-dia, a Encarnação'],
+    ['Evangelho do Dia', 5, 'manhã', 'book', 'O Evangelho da Missa de hoje'],
+    ['Santo Rosário', 20, 'tarde', 'rosary', 'Os mistérios de Cristo, com Maria'],
+    ['Oração Mental', 15, 'manhã', 'prayer', 'Conversa silenciosa com Deus'],
+    ['Leitura Espiritual', 15, 'tarde', 'book', 'Santos, clássicos, os Padres'],
+    ['Visita ao Santíssimo', 3, 'dia', 'eucharist', 'Uma paragem diante do sacrário'],
+    ['Ofício Divino', 15, 'manhã', 'prayer', 'Manhã, tarde e noite'],
+  ]
+  function mount10(phone, look) {
+    const st = { view: 'add', added: new Set(), inRule: false, peek: false }
+    const scr = phone.querySelector('.screen'), bar = phone.querySelector('.bar')
+    const beadBtn = (n, m) => `<button class="sw ${st.added.has(n) ? 'on' : ''}" data-n="${n}" aria-label="Acrescentar ${n}"><span class="a">${plusBead(40).replace('<svg', '<svg class="bead"')}</span><span class="b">${doneBead(momentHue[m]).replace('<svg', '<svg class="bead"')}</span></button>`
+    const mark = (it, sub) => it[5] ? inBead(momentHue[it[2]]) : beadBtn(it[0], it[2])
+    const dur = (m) => m === 60 ? '1 h' : m + ' min'
+    const essList = look === 'guide'
+      ? `<div class="ess">${essentials.map((it) => `<div><b>${it[0]}</b><small>${it[5] ? `na regra · ${it[5]}` : it[4]}</small>${mark(it)}</div>`).join('')}</div>`
+      : essentials.map((it) => `<div class="lrow">${icon(it[3])}<div class="t"><b>${it[0]}</b><span>${it[5] ? `na regra · todo dia às ${it[5]}` : it[4]}</span></div><span class="m">${dur(it[1])}</span>${mark(it)}</div>`).join('')
+    const furtherList = further.map((it) => `<div class="lrow">${icon(it[3])}<div class="t"><b>${it[0]}</b><span>${it[5] ? `na regra · todo dia às ${it[5]}` : it[4]}</span></div><span class="m">${dur(it[1])}</span>${mark(it)}</div>`).join('')
+    const markInline = `<span class="inl">${icon('calPlus', 20)}</span>`
+    const lesson = `<div class="lesson"><div class="kick">E as outras?</div><h5>Qualquer oração entra na regra pela sua própria página</h5>
+        <div class="mini"><b>Ladainha de Nossa Senhora</b><div class="glyphs" style="padding:10px 0 2px"><span class="g teach">${gl('calPlus')}</span><span class="g">${gl('star', 'var(--muted)')}</span><span class="g">${gl('type', 'var(--muted)')}</span><span class="g">${gl('dots', 'var(--muted)')}</span></div></div>
+        <ol><li>Abra a oração que quiser, em Orações ou na Busca.</li><li>Toque em ${markInline} ao lado do título.</li><li>Escolha os dias e a hora.</li></ol>
+        <div class="btn" data-go="pray">Abrir Orações</div></div>`
+    const views = {
+      add: () => {
+        const held = essentials.filter((it) => it[5] || st.added.has(it[0])).length, open = look === 'list' || held === essentials.length || st.peek
+        return `<div class="back">‹</div><div class="ptitle">Acrescentar à regra</div>
+        <div class="lede">Uma regra de vida começa pequena e cresce devagar. Primeiro o que a sustenta; o resto vem quando isso já for hábito.</div>
+        <div class="tierh"><b>1 · Comece pelo essencial</b><span>Poucas coisas, sem falta.${look === 'guide' ? ` ${held} de ${essentials.length} na sua regra.` : ''}</span></div>${essList}
+        <div class="tierh" style="${open ? '' : 'opacity:.45'}"><b>2 · Depois, cresça aos poucos</b><span>${open ? 'Uma de cada vez, quando a anterior já estiver firme.' : 'Abre quando o essencial estiver na sua regra.'}</span></div>
+        ${open ? furtherList : `<div class="whisper" style="text-align:left;padding-top:10px">${further.slice(0, 3).map((it) => it[0]).join(', ')} e outras. <span data-peek style="color:var(--accent);font-style:normal;cursor:pointer">Ver mesmo assim ›</span></div>`}
+        ${lesson.replace('<div class="kick">E as outras?</div>', '<div class="kick">3 · E qualquer outra oração</div>')}`
+      },
+      pray: () => `<div class="back" data-go="add" style="cursor:pointer">‹</div><div class="otitle" style="padding-bottom:4px">Orações</div>
+        <div class="search">${icon('book', 18, '#a89a8c')}Buscar uma oração</div>
+        <div>${others.map(([n, m], i) => `<div class="orow" data-go="${i === 0 ? 'page' : ''}">${icon(i === 0 ? 'mary' : 'prayer')}<b>${n}</b><span>${m} min</span></div>`).join('')}</div>
+        <div class="whisper" style="text-align:left;padding-top:6px">Toque na Ladainha.</div>`,
+      page: () => `<div class="back" data-go="pray" style="cursor:pointer">‹</div>
+        <div class="ptitle" style="font-size:34px;line-height:38px">Ladainha de Nossa Senhora</div>
+        <div style="font: italic 400 20px/26px var(--title);color:var(--muted)">Ladainha Lauretana · 10 min</div>
+        <div class="glyphs"><button class="g" data-plan aria-label="${st.inRule ? 'Na regra' : 'Adicionar ao Plano'}">${gl(st.inRule ? 'calCheck' : 'calPlus')}</button><span class="g">${gl('star', 'var(--muted)')}</span><span class="g">${gl('type', 'var(--muted)')}</span><span class="g">${gl('dots', 'var(--muted)')}</span></div>
+        <div class="hair" style="margin:10px 0 4px"></div>
+        <div class="verse">Senhor, tende piedade.<br><i>R.</i> Senhor, tende piedade.</div>
+        <div class="verse">Cristo, tende piedade.<br><i>R.</i> Cristo, tende piedade.</div>
+        <div class="verse">Senhor, tende piedade.<br><i>R.</i> Senhor, tende piedade.</div>
+        <div class="verse">Cristo, ouvi-nos.<br><i>R.</i> Cristo, atendei-nos.</div>`,
+    }
+    function render() {
+      scr.innerHTML = views[st.view]()
+      const n = st.added.size + (st.inRule ? 1 : 0)
+      bar.hidden = st.view !== 'add' || n === 0
+      bar.querySelector('span').textContent = n === 1 ? '1 prática acrescentada' : `${n} práticas acrescentadas`
+      phone.querySelector('.toast')?.remove()
+      if (st.view === 'page' && st.inRule) phone.insertAdjacentHTML('beforeend', `<div class="toast"><span>Na regra · todo dia às 12h</span><b data-go="add">Ver ›</b></div>`)
+    }
+    phone.addEventListener('click', (e) => {
+      const go = e.target.closest('[data-go]'), b = e.target.closest('.sw'), plan = e.target.closest('[data-plan]'), pk = e.target.closest('[data-peek]')
+      if (b) st.added.has(b.dataset.n) ? st.added.delete(b.dataset.n) : st.added.add(b.dataset.n)
+      else if (pk) st.peek = true
+      else if (plan) st.inRule = !st.inRule
+      else if (go && go.dataset.go) { st.view = go.dataset.go; scr.scrollTop = 0 }
+      else return
+      render()
+    })
+    render()
+  }
+  document.getElementById('r10').innerHTML = [
+    col('A · Os passos numa página', 'Three numbered steps, all open: the essentials, what to grow into, and how to add anything else. The numbers and the lines under each heading do the guiding.', live9('p10a')),
+    col('B · Um passo de cada vez', 'The essentials stand out as cards and say how many are in the rule. The second step waits, dimmed, until they are all there (add Mass and Confession to see it open), with “ver mesmo assim” for the impatient.', live9('p10b'), true),
+  ].join('')
+  mount10(document.getElementById('p10a'), 'list')
+  mount10(document.getElementById('p10b'), 'guide')
 
   // Live marks on page A: an open bead fills, and the bar counts.
   let added = 0
