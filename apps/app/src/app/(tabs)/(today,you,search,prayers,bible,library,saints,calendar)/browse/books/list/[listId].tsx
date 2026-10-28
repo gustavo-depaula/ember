@@ -76,7 +76,7 @@ export default function ReadingListScreen() {
   )
 }
 
-// Cover and text share one top edge; the number stands centred on the whole entry.
+// The number and the cover stand centred on the entry's text.
 const titleLine = 24
 
 function ListEntry({
@@ -110,7 +110,9 @@ function ListEntry({
         >
           {number}
         </Typography>
-        <BookThumb book={book} />
+        <YStack alignSelf="center">
+          <BookThumb book={book} />
+        </YStack>
         <YStack flex={1} gap={2}>
           <Typography fontSize="$3" lineHeight={titleLine}>
             {book.title}
