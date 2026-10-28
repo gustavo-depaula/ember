@@ -1,13 +1,19 @@
 import { useQuery } from '@tanstack/react-query'
-import { Stack, useLocalSearchParams } from 'expo-router'
+import { Stack, useLocalSearchParams, useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { XStack, YStack } from 'tamagui'
 
-import { PageHeader, ScreenLayout } from '@/components'
+import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
 import { Typography } from '@/components/typography'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { CollectionBlock, CollectionItemManifest } from '@/content/manifestTypes'
-import { BookRow, useReadingTime, useShelf } from '@/features/books/shelf'
+import {
+  BookThumb,
+  bookHref,
+  type ShelfBook,
+  useReadingTime,
+  useShelf,
+} from '@/features/books/shelf'
 import { localizeContent } from '@/lib/i18n'
 
 type Item = { ref: string; why?: string }
@@ -50,39 +56,72 @@ export default function ReadingListScreen() {
             {localizeContent(manifest.prologue.body)}
           </Typography>
         ) : null}
-        <YStack gap="$md">
+        <YStack gap="$lg">
           {items.map((item, i) => {
             const book = byId.get(item.ref)
             if (!book) return null
             return (
-              <XStack key={item.ref} gap="$md" alignItems="flex-start">
-                <Typography
-                  variant="label"
-                  color="$accent"
-                  fontSize="$5"
-                  lineHeight={28}
-                  width={22}
-                  paddingTop="$sm"
-                  fontVariant={['tabular-nums']}
-                >
-                  {i + 1}
-                </Typography>
-                <YStack flex={1}>
-                  <BookRow
-                    book={book}
-                    detail={[book.author, readingTime(book.minutes)].filter(Boolean).join(' · ')}
-                  />
-                  {item.why ? (
-                    <Typography tone="muted" fontSize="$2" lineHeight={20} paddingLeft={56}>
-                      {item.why}
-                    </Typography>
-                  ) : null}
-                </YStack>
-              </XStack>
+              <ListEntry
+                key={item.ref}
+                number={i + 1}
+                book={book}
+                byline={[book.author, readingTime(book.minutes)].filter(Boolean).join(' · ')}
+                why={item.why}
+              />
             )
           })}
         </YStack>
       </YStack>
     </ScreenLayout>
+  )
+}
+
+// The number sits on the title's first line, and number, cover and text share one top edge.
+const titleLine = 24
+
+function ListEntry({
+  number,
+  book,
+  byline,
+  why,
+}: {
+  number: number
+  book: ShelfBook
+  byline: string
+  why?: string
+}) {
+  const { t } = useTranslation()
+  const router = useRouter()
+  return (
+    <AnimatedPressable
+      onPress={() => router.push(bookHref(book))}
+      accessibilityRole="link"
+      accessibilityLabel={t('a11y.openShelfItem', { name: book.title })}
+    >
+      <XStack gap="$md" alignItems="flex-start">
+        <Typography
+          variant="label"
+          color="$accent"
+          fontSize="$5"
+          lineHeight={titleLine}
+          width={22}
+          fontVariant={['tabular-nums']}
+        >
+          {number}
+        </Typography>
+        <BookThumb book={book} />
+        <YStack flex={1} gap={2}>
+          <Typography fontSize="$3" lineHeight={titleLine}>
+            {book.title}
+          </Typography>
+          {byline ? <Typography variant="caption">{byline}</Typography> : null}
+          {why ? (
+            <Typography tone="muted" fontSize="$2" lineHeight={20} paddingTop="$xs">
+              {why}
+            </Typography>
+          ) : null}
+        </YStack>
+      </XStack>
+    </AnimatedPressable>
   )
 }
