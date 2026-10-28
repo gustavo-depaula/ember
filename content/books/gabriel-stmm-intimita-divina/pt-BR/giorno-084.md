@@ -7,9 +7,7 @@
 
 **1** — Jesus, o Semeador divino, vem hoje espalhar a boa semente em sua vinha, a Igreja; Ele quer chamar nossas almas a uma nova floração de graça e de virtude.
 
-"A semente é a palavra de Deus." O Verbo, Palavra eterna do Pai, fez-se homem, fez-se Cristo e vem espalhar no coração dos homens a palavra divina, a qual não é outra coisa senão um reflexo dele mesmo. A palavra divina não é um som que bate no ar e logo se dispersa como a palavra dos homens, mas é luz sobrenatural que ilumina sobre o verdadeiro valor das coisas, é graça
-
-
+“A semente é a palavra de Deus.” O Verbo, Palavra eterna do Pai, fez-se homem, fez-se Cristo e vem espalhar no coração dos homens a palavra divina, a qual não é outra coisa senão um reflexo dele mesmo. A palavra divina não é um som que bate no ar e logo se dispersa como a palavra dos homens, mas é luz sobrenatural que ilumina sobre o verdadeiro valor das coisas, é graça
 que dá a capacidade e a força de viver segundo a luz de Deus. É, portanto, semente de vida sobrenatural, de santidade, de vida eterna. Essa semente nunca é estéril em si mesma, mas tem sempre uma poderosa força vital, capaz de produzir não só algum fruto de vida cristã, mas abundantes frutos de santidade. Essa semente não está confiada a um agricultor inexperiente que, por sua incapacidade, pode arruinar a melhor semeadura; o próprio Jesus, o Filho de Deus, é seu semeador.
 
 Por que, então, a semente nem sempre dá os frutos desejados? Porque muitas vezes o terreno que a recebe não tem as disposições necessárias. Deus não cessa de espalhar sua semente no coração dos homens, não cessa de convidá-los, de solicitá-los ao bem com sua luz, com seus chamados, não cessa de dispensar por meio dos sacramentos sua graça; mas tudo isso permanece vão e estéril, se o homem não apresenta a Deus um terreno - isto é, um coração - apto, bem disposto. Deus nos quer salvos, nos quer santos, mas não força ninguém: respeita nossa liberdade.
@@ -19,14 +17,12 @@ Por que, então, a semente nem sempre dá os frutos desejados? Porque muitas vez
 
 Estrada batida: almas levianas, dissipadas, abertas como a estrada a qualquer distração, ruído, curiosidade; abertas à passagem de qualquer criatura e afeto terreno. Mal a palavra de Deus chega ao seu coração, logo o inimigo, encontrando livre acesso, a arrebata, impedindo-a de criar raízes.
 
-Solo pedregoso: almas superficiais, nas quais a boa terra se reduz a uma leve camada que logo o vento das paixões levará embora juntamente com a boa semente. Essas almas se entusiasmam facilmente, mas não sabem perseverar; "no momento da tentação, recuam". Não sabem perseverar porque não têm coragem de abraçar as renúncias e os sacrifícios necessários para manter-se fiéis à
-
-
+Solo pedregoso: almas superficiais, nas quais a boa terra se reduz a uma leve camada que logo o vento das paixões levará embora juntamente com a boa semente. Essas almas se entusiasmam facilmente, mas não sabem perseverar; “no momento da tentação, recuam”. Não sabem perseverar porque não têm coragem de abraçar as renúncias e os sacrifícios necessários para manter-se fiéis à
 palavra de Deus, para pô-la em prática em toda circunstância. Seu fervor é fogo de palha que para e se apaga diante da mínima dificuldade.
 
 Solo espinhoso: almas preocupadas com as coisas terrenas, com os prazeres, com os negócios e os interesses materiais. A semente germina, mas logo os espinhos a sufocam, tirando-lhe ar e luz. Os excessivos cuidados com as coisas temporais acabam por sufocar os direitos do Espírito.
 
-Por fim, o bom terreno é comparado por Jesus a "aqueles que, tendo ouvido a palavra com coração bom e reto, a conservam e dão fruto com perseverança". Coração bom e reto é aquele que dá sempre o primeiro lugar a Deus, que busca em primeiro lugar o reino de Deus e sua justiça. A semente da palavra divina, das inspirações, da graça dará fruto abundante na medida das boas disposições que encontrar em nós: recolhimento, seriedade e profundidade de vida interior, desapego, busca sincera das coisas de Deus, para além e acima de todas as coisas terrenas. E depois "perseverança", porque sem ela é impossível que a palavra de Deus produza em nós seu fruto.
+Por fim, o bom terreno é comparado por Jesus a “aqueles que, tendo ouvido a palavra com coração bom e reto, a conservam e dão fruto com perseverança”. Coração bom e reto é aquele que dá sempre o primeiro lugar a Deus, que busca em primeiro lugar o reino de Deus e sua justiça. A semente da palavra divina, das inspirações, da graça dará fruto abundante na medida das boas disposições que encontrar em nós: recolhimento, seriedade e profundidade de vida interior, desapego, busca sincera das coisas de Deus, para além e acima de todas as coisas terrenas. E depois “perseverança”, porque sem ela é impossível que a palavra de Deus produza em nós seu fruto.
 
 
 ### Colóquio

@@ -1,0 +1,1719 @@
+{
+ "id": "sanctorale.06-27.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "27. Juni"
+       ],
+       [
+        "Hl. Hemma, Stifterin von Gurk und Admont"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Para las viudas: [Pro viduis]"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.12"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quæ vere vidua est et desolata, speravit in Deum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Timótheum"
+       ]
+      ],
+      "cite": "5, 3-10",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssime:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Víduas honóra, quæ vere víduæ sunt. Si qua autem vídua fílios aut nepótes habet, discant primum domum suam pie régere et mútuam vicem réddere paréntibus; hoc enim accéptum est coram Deo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quæ autem vere vídua est et desoláta, sperat in Deum et instat obsecratiónibus et oratiónibus nocte ac die; nam quæ in delíciis est vivens, mórtua est. Et hæc præcipe, ut irreprehensíbiles sint."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si quis autem suórum et máxime domesticórum curam non habet, fidem negávit et est infidéli detérior."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vídua adscribátur non minus sexagínta annórum, quæ fúerit uníus viri uxor, in opéribus bonis testimónium habens: si fílios educávit, si hospítio recépit, si sanctórum pedes lavit, si tribulatiónem patiéntibus subministrávit, si omne opus bonum subsecúta est."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A viúva de verdade, que está só no mundo, põe a sua esperança em Deus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Paulo a Timóteo"
+       ]
+      ],
+      "cite": "5, 3-10",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimo: Trata bem as viúvas que são verdadeiramente viúvas. Mas se a viúva tem filhos ou netos, que estes, primeiramente aprendam a cuidar da sua família, e a retribuir aos pais o que deles receberam. Isto é que agrada a Deus. A viúva de verdade, que está só no mundo, põe a sua esperança em Deus e persevera noite e dia em súplicas e orações. Mas a viúva que se entrega a prazeres, mesmo viva está morta. Insiste em tudo isso, para que sejam irrepreensíveis. Quem não cuida dos seus, e principalmente dos próprios familiares, renegou a fé e é pior que um incrédulo. Para ser inscrita no grupo das viúvas uma mulher deve ter não menos de sessenta anos, ter sido esposa de um só marido e ser conhecida pelas suas boas ações a saber: se educou bem os filhos, se foi hospitaleira, se lavou os pés dos irmãos, se ajudou aos que sofrem e se praticou todo tipo de boas obras."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint Paul to Timothy"
+       ]
+      ],
+      "cite": "5:3-10",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Honor widows who are truly widows. But if a widow has children or grandchildren, let these first learn to perform their religious duty to their own family and to make recompense to their parents, for this is pleasing to God. The real widow, who is all alone, has set her hope on God and continues in supplications and prayers night and day. But the one who is self-indulgent is dead while she lives. Command this, so that they may be irreproachable. And whoever does not provide for relatives and especially family members has denied the faith and is worse than an unbeliever. Let a widow be enrolled if she is not less than sixty years old, married only once, with a reputation for good works, namely, that she has raised children, practiced hospitality, washed the feet of the holy ones, helped those in distress, involved herself in every good work."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La que es verdaderamente viuda, y ha quedado sola, tiene puesta su esperanza en Dios"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a Timoteo"
+       ]
+      ],
+      "cite": "5, 3-10",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Querido hermano:"
+       ],
+       [
+        "Honra a las viudas, a las que son verdaderamente viudas. Pero si alguna viuda tiene hijos o nietos, que estos aprendan primero a cumplir con sus deberes con la propia familia y a corresponder como es debido a lo que han recibido de los progenitores, porque esto es agradable a los ojos de Dios."
+       ],
+       [
+        "La que es verdaderamente viuda, y ha quedado sola, tiene puesta su esperanza en Dios y persevera en las súplicas y en las oraciones noche y día."
+       ],
+       [
+        "En cambio, la que se da a los placeres, aunque viva, está muerta. Ordena estas cosas, para que sean irreprochables."
+       ],
+       [
+        "Pues si alguno no cuida de los suyos y sobre todo de los de su casa, ha renegado de la fe y es peor que uno que no cree."
+       ],
+       [
+        "Para que una viuda sea inscrita en la lista se requiere que no tenga menos de sesenta años, que haya sido mujer de un solo marido y esté acreditada por sus buenas obras: si crio bien a sus hijos, si practicó la hospitalidad, si lavó los pies de los santos, si asistió a los atribulados, si procuró hacer todo tipo de obras buenas."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Colei che è veramente vedova ed è rimasta sola ha messo la speranza in Dio."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo a Timoteo"
+       ]
+      ],
+      "cite": "5, 3-10",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Figlio mio, onora le vedove, quelle che sono veramente vedove; ma se una vedova ha figli o nipoti, essi imparino prima ad adempiere i loro doveri verso quelli della propria famiglia e a contraccambiare i loro genitori; questa infatti è cosa gradita a Dio."
+       ],
+       [
+        "Colei che è veramente vedova ed è rimasta sola, ha messo la speranza in Dio e si consacra adorazione e alla preghiera giorno e notte; al contrario, quella che si abbandona ai piaceri, anche se vive, è già morta. Raccomanda queste cose, perché siano irreprensibili. Se poi qualcuno non si prende cura dei suoi cari, soprattutto di quelli della sua famiglia, costui ha rinnegato la fede ed è peggiore di un infedele."
+       ],
+       [
+        "Una vedova sia iscritta nel catalogo delle vedove quando abbia non meno di sessant'anni, sia moglie di un solo uomo, sia conosciuta per le sue opere buone: abbia cioè allevato figli, praticato l'ospitalità, lavato i piedi ai santi, sia venuta in soccorso agli afflitti, abbia esercitato ogni opera di bene."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre à Timothée"
+       ]
+      ],
+      "cite": "5, 3-10",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bien-aimé, honore et assiste les veuves qui sont vraiment seules. Si une veuve a des enfants ou des petits-enfants, ils doivent apprendre que c'est à eux d'abord de s'acquitter de leurs devoirs filiaux et de rendre à leurs parents ce qu'ils ont reçu d'eux. Voilà une conduite agréable à Dieu. Mais la véritable veuve, celle qui reste seule, a mis son espérance en Dieu : elle ne cesse de faire des demandes et des prières nuit et jour. Quant à celle qui se livre aux plaisirs, elle a beau vivre, elle est morte."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Insiste sur tout cela, pour qu'elles soient irréprochables. Si quelqu'un ne s'occupe pas des siens, surtout des plus proches, il a renié la foi, il est pire qu'un incroyant. Pour être inscrite comme veuve, une femme doit avoir au moins soixante ans, n'avoir eu qu'un seul mari, être connue pour le bien qu'elle a fait, avoir élevé des enfants, donné l'hospitalité aux voyageurs, rendu aux fidèles les plus humbles services, secouru les malheureux. Bref, il faut que, dans tous les domaines, elle se soit dévouée."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an Timótheus"
+       ]
+      ],
+      "cite": "5, 3-10",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mein Sohn!"
+       ],
+       [
+        "Ehre die Witwen, wenn sie wirklich Witwen sind. Hat eine Witwe aber Kinder oder Enkel, dann sollen diese lernen, zuerst selbst ihren Angehörigen Ehrfurcht zu erweisen und dankbar für ihre Mutter oder Großmutter zu sorgen; denn das gefällt Gott."
+       ],
+       [
+        "Eine Frau aber, die wirklich eine Witwe ist und allein steht, setzt ihre Hoffnung auf Gott und betet beharrlich und inständig bei Tag und Nacht. Wenn eine jedoch ein ausschweifendes Leben führt, ist sie schon bei Lebzeiten tot. Das sollst du ihnen einprägen; dann wird man ihnen nichts vorwerfen können."
+       ],
+       [
+        "Wer aber für seine Verwandten, besonders für die eigenen Hausgenossen, nicht sorgt, der verleugnet damit den Glauben und ist schlimmer als ein Ungläubiger."
+       ],
+       [
+        "Eine Frau soll nur dann in die Liste der Witwen aufgenommen werden, wenn sie mindestens sechzig Jahre alt ist, nur einmal verheiratet war, wenn bekannt ist, dass sie Gutes getan hat, wenn sie Kinder aufgezogen hat, gastfreundlich gewesen ist und den Heiligen die Füße gewaschen hat, wenn sie denen, die in Not waren, geholfen hat und überhaupt bemüht war, Gutes zu tun."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.12"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.12"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 15(16), 1-2a e 5. 7-8. 11 (R.: cf. 5a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "15, 1-2a and 5. 7-8. 11 (R.: cf. 5a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 15, 1-2a y 5. 7-8. 11 (R.: cf. 5a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dal Salmo 15 (16)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9 u. 11 (R.: vgl. 5a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu es, Dómine, pars hereditátis meæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, sois a porção da minha herança e do meu cálice."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "You are my inheritance, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tú eres, Señor, el lote de mi heredad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sei, Signore, mia parte di eredità."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, mon partage et ma coupe !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du, Herr, bist mein Anteil und Erbe."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Consérva me, Deus, quóniam sperávi in te."
+       ],
+       [
+        "Dixi Dómino: «Dóminus meus es tu»."
+       ],
+       [
+        "Dóminus pars hereditátis meæ et cálicis mei:"
+       ],
+       [
+        "tu es qui détines sortem meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guardai-me, ó Deus, porque em vós me refugio! Digo ao Senhor: \"Somente vós sois meu Senhor\". Ó Senhor, sois minha herança e minha taça, meu destino está seguro em vossas mãos!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preserve me, God, I take refuge in you. I say to the Lord: 'You are my God'. O Lord, it is your who are my portion and cup; it is you yourself who are my prize."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Protégeme, Dios mío, que me refugio en ti."
+       ],
+       [
+        "Yo digo al Señor: «Tú eres mi Dios»."
+       ],
+       [
+        "El Señor es el lote de mi heredad y mi copa,"
+       ],
+       [
+        "mi suerte está en tu mano."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proteggimi, o Dio: in te mi rifugio."
+       ],
+       [
+        "Ho detto al Signore: «Il mio Signore sei tu»."
+       ],
+       [
+        "Il Signore è mia parte di eredità e mio calice:"
+       ],
+       [
+        "nelle tue mani è la mia vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Garde-moi, mon Dieu :"
+       ],
+       [
+        "j'ai fait de toi mon refuge."
+       ],
+       [
+        "J'ai dit au Seigneur : \" Tu es mon Dieu !"
+       ],
+       [
+        "Je n'ai pas d'autre bonheur que toi. \""
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Behüte mich, Gott, denn ich vertraue dir."
+       ],
+       [
+        "Ich sage zum Herrn: „Du bist mein Herr;"
+       ],
+       [
+        "mein ganzes Glück bist du allein.“"
+       ],
+       [
+        "Du, Herr, gibst mir das Erbe und reichst mir den Becher;"
+       ],
+       [
+        "du hältst mein Los in deinen Händen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu es, Dómine, pars hereditátis meæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, sois a porção da minha herança e do meu cálice."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "You are my inheritance, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tú eres, Señor, el lote de mi heredad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sei, Signore, mia parte di eredità."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, mon partage et ma coupe !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du, Herr, bist mein Anteil und Erbe."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedícam Dóminum qui tríbuit mihi intelléctum;"
+       ],
+       [
+        "ínsuper et in nóctibus erudiérunt me renes mei."
+       ],
+       [
+        "Proponébam Dóminum in conspéctu meo semper,"
+       ],
+       [
+        "quóniam a dextris est mihi, non commovébor."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu bendigo o Senhor, que me aconselha, e até de noite me adverte o coração. Tenho sempre o Senhor ante meus olhos, pois se o tenho a meu lado não vacilo."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I will bless the Lord who gives me counsel, who even at night directs my heart. I keep the Lord ever in my sight: since he is at my right hand, I shall stand firm."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bendeciré al Señor que me aconseja,"
+       ],
+       [
+        "hasta de noche me instruye internamente."
+       ],
+       [
+        "Tengo siempre presente al Señor,"
+       ],
+       [
+        "con él a mi derecha no vacilaré."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedico il Signore che mi ha dato consiglio;"
+       ],
+       [
+        "anche di notte il mio animo mi istruisce."
+       ],
+       [
+        "Io pongo sempre davanti a me il Signore,"
+       ],
+       [
+        "sta alla mia destra, non potrò vacillare."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je bénis le Seigneur qui me conseille :"
+       ],
+       [
+        "même la nuit mon cœur m'avertit."
+       ],
+       [
+        "Je garde le Seigneur devant moi sans relâche ;"
+       ],
+       [
+        "il est à ma droite : je suis inébranlable."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich preise den Herrn, der mich beraten hat."
+       ],
+       [
+        "Auch mahnt mich mein Herz in der Nacht."
+       ],
+       [
+        "Ich habe den Herrn beständig vor Augen."
+       ],
+       [
+        "Er steht mir zur Rechten, ich wanke nicht."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu es, Dómine, pars hereditátis meæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, sois a porção da minha herança e do meu cálice."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "You are my inheritance, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tú eres, Señor, el lote de mi heredad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sei, Signore, mia parte di eredità."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, mon partage et ma coupe !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du, Herr, bist mein Anteil und Erbe."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Notas mihi fácies vias vitæ,"
+       ],
+       [
+        "plenitúdinem lætítiæ cum vultu tuo,"
+       ],
+       [
+        "delectatiónes in déxtera tua usque in finem."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vós me ensinais vosso caminho para a vida; junto a vós, felicidade sem limites, delícia eterna e alegria ao vosso lado!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You will show me the path of life, the fullness of joy in your presence, at your right hand happiness for ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Me enseñarás el sendero de la vida,"
+       ],
+       [
+        "me saciarás de gozo en tu presencia,"
+       ],
+       [
+        "de alegría perpetua a tu derecha."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mi indicherai il sentiero della vita,"
+       ],
+       [
+        "gioia piena alla tua presenza,"
+       ],
+       [
+        "dolcezza senza fine alla tua destra."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, mon partage et ma coupe !"
+       ],
+       [
+        "Tu m'apprends le chemin de la vie : +"
+       ],
+       [
+        "devant ta face, débordement de joie !"
+       ],
+       [
+        "À ta droite, éternité de délices !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Darum freut sich mein Herz und frohlockt meine Seele;"
+       ],
+       [
+        "auch mein Leib wird wohnen in Sicherheit."
+       ],
+       [
+        "Du zeigst mir den Pfad zum Leben."
+       ],
+       [
+        "Vor deinem Angesicht herrscht Freude in Fülle,"
+       ],
+       [
+        "zu deiner Rechten Wonne für alle Zeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu es, Dómine, pars hereditátis meæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, sois a porção da minha herança e do meu cálice."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "You are my inheritance, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tú eres, Señor, el lote de mi heredad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sei, Signore, mia parte di eredità."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, mon partage et ma coupe !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du, Herr, bist mein Anteil und Erbe."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Mt 19, 21",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Halleluja. Halleluja."
+       ],
+       [
+        "(So spricht der Herr:) Wenn du vollkommen sein willst, geh, verkauf deinen Besitz und gib das Geld den Armen."
+       ],
+       [
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "19, 16-26",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit"
+       ],
+       [
+        "kam ein Mann zu Jesus und fragte: Meister, was muss ich Gutes tun, um das ewige Leben zu gewinnen? Er antwortete: Was fragst du mich nach dem Guten? Nur einer ist „der Gute“. Wenn du aber das Leben erlangen willst, halte die Gebote!"
+       ],
+       [
+        "Darauf fragte er ihn: Welche? Jesus antwortete: Du sollst nicht töten, du sollst nicht die Ehe brechen, du sollst nicht stehlen, du sollst nicht falsch aussagen; ehre Vater und Mutter! Und: Du sollst deinen Nächsten lieben wie dich selbst! Der junge Mann erwiderte ihm: Alle diese Gebote habe ich befolgt. Was fehlt mir jetzt noch?"
+       ],
+       [
+        "Jesus antwortete ihm: Wenn du vollkommen sein willst, geh, verkauf deinen Besitz und gib das Geld den Armen; so wirst du einen bleibenden Schatz im Himmel haben; dann komm und folge mir nach. Als der junge Mann das hörte, ging er traurig weg; denn er hatte ein großes Vermögen."
+       ],
+       [
+        "Da sagte Jesus zu seinen Jüngern: Amen, das sage ich euch: Ein Reicher wird nur schwer in das Himmelreich kommen. Nochmals sage ich euch: Eher geht ein Kamel durch ein Nadelöhr, als dass ein Reicher in das Reich Gottes gelangt."
+       ],
+       [
+        "Als die Jünger das hörten, erschraken sie sehr und sagten: Wer kann dann noch gerettet werden? Jesus sah sie an und sagte zu ihnen: Für Menschen ist das unmöglich, für Gott aber ist alles möglich."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "*": "Hl. Hemma, Stifterin von Gurk und Admont"
+ }
+}

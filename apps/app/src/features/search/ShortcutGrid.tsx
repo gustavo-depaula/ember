@@ -1,26 +1,18 @@
 import { Image, type ImageSource } from 'expo-image'
 import type { Href } from 'expo-router'
 import type { ComponentType } from 'react'
-import { StyleSheet, useWindowDimensions } from 'react-native'
+import { StyleSheet } from 'react-native'
 import Svg, { Defs, LinearGradient, Rect, Stop } from 'react-native-svg'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ZoomLink } from '@/components'
+import { AnimatedPressable, useGridCells, ZoomLink } from '@/components'
 import { type BlockTone, blockInk, toneForKey } from '@/features/explore/bgColor'
 
-// ScreenLayout caps content at 640 and pads $lg (24) each side; tiles sit two-up
-// with a $md (16) gutter. Sizing the cover from the window keeps the grid honest
-// on phones and the centered desktop column alike.
-const maxContentWidth = 640
-const pagePadding = 24
+// Tiles sit `columns` across a phone with a $md (16) gutter; a wider column
+// takes more of them instead of growing them.
 const gutter = 16
 const tileAspect = 0.84 // height / width — squarish, with room for a big title
-
-function useTileSize(columns = 2): number {
-  const { width } = useWindowDimensions()
-  const content = Math.min(width, maxContentWidth) - pagePadding * 2
-  return Math.floor((content - gutter * (columns - 1)) / columns)
-}
+const smallestTile = 170
 
 // Mute the vivid jewel tones into a soft, low-contrast wash so a tile reads like
 // aged vellum under a wash of color, not a neon gradient.
@@ -156,9 +148,9 @@ export function ShortcutGrid({
   items: ShortcutTileData[]
   columns?: number
 }) {
-  const size = useTileSize(columns)
+  const size = useGridCells(smallestTile, gutter, columns).cell
   return (
-    <XStack flexWrap="wrap" gap={gutter} justifyContent="space-between">
+    <XStack flexWrap="wrap" gap={gutter}>
       {items.map(({ key, ...tile }) => (
         <ShortcutTile key={key} {...tile} tone={tile.tone ?? toneForKey(key)} size={size} />
       ))}

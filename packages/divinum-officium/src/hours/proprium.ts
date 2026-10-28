@@ -3,10 +3,10 @@
 // getantvers, getfrompsalterium, replaceNdot, and the horas setcomment (which
 // — unlike the missa one — really pushes the headline into the script).
 
-import { sessionWithLang } from '../kalendar/officestring'
+import { officestring, sessionWithLang } from '../kalendar/officestring'
 import { num, subdirname } from '../kalendar/state'
 import { type Sections, setupstring } from '../references/resolve'
-import { gettempora, postprocessAnt, postprocessVr } from './helpers'
+import { checkcommemoratio, gettempora, postprocessAnt, postprocessVr } from './helpers'
 import { chompd, columnsel, communeOf, type HoursState, winnerOf } from './state'
 
 export async function setup(state: HoursState, lang: string, fname: string): Promise<Sections> {
@@ -229,7 +229,7 @@ export async function setcomment(
 ): Promise<void> {
   if (ind > -1) {
     let index = ind
-    if (/Source/i.test(comment) && state.votive && !/hodie/i.test(state.votive)) index = 7
+    if (/Source/i.test(comment) && state.votive && state.votive !== 'Hodie') index = 7
     let translated = await state.texts.translate(label, lang)
     const comm = await setup(state, lang, 'Psalterium/Comment')
     let commentText = (comm[comment] ?? '').split('\n')[index] ?? ''
@@ -267,14 +267,27 @@ export async function checksuffragium(state: HoursState): Promise<boolean> {
 
   if (state.day.commemoratio) {
     const r = (state.day.commemoratioSections.Rank ?? '').split(';;')
-    if (num(r[2]) >= ranklimit || /in.*Octav/i.test(state.day.commemoratioSections.Rank ?? '')) {
+    const commlimit = /^Trident/.test(ctx.version) ? 7 : ranklimit
+    if (
+      num(r[2]) >= commlimit ||
+      /in.*Octav/i.test(state.day.commemoratioSections.Rank ?? '') ||
+      /octav/i.test(checkcommemoratio(state.day.commemoratioSections))
+    ) {
       return false
     }
-    for (const commemo of state.day.commemoentries) {
+    // The day's commemorations and those its concurrence brings (the morrow's
+    // feast at I Vespers) alike.
+    for (const commemo of [...state.day.commemoentries, ...state.day.state.ccommemoentries]) {
       if (!commemo) continue
-      const c = await setup(state, 'Latin', commemo)
+      const c = (await officestring(state.day.state, 'Latin', commemo)) ?? {}
       const cr = (c.Rank ?? '').split(';;')
-      if (num(cr[2]) >= ranklimit || /in.*Octav/i.test(c.Rank ?? '')) return false
+      if (
+        num(cr[2]) >= commlimit ||
+        /in.*Octav/i.test(c.Rank ?? '') ||
+        /octav/i.test(checkcommemoratio(c))
+      ) {
+        return false
+      }
     }
   }
   return true

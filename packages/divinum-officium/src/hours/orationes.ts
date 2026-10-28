@@ -375,8 +375,13 @@ export async function oratio(
                 ? 7100
                 : 6100
             : octRegex.test(ic)
-              ? !cwinner && octvespera && /divino|1906/i.test(version)
-                ? 1000
+              ? // Concurrent octaves commemorated on Sunday night are
+                // privileged, except in the last week of Advent
+                !cwinner &&
+                octvespera &&
+                /divino|1906/i.test(version) &&
+                (ctx.month < 12 || ctx.day < 18)
+                ? ccind + 1000
                 : ccind + 7900
               : ccind + 9900
           cc[String(key)] = ic
@@ -535,19 +540,11 @@ export async function oratio(
         ) {
           commemo += '.txt'
         }
-        let cSec = (await officestring(kal, 'Latin', commemo, false)) ?? {}
+        const cSec = (await officestring(kal, 'Latin', commemo, false)) ?? {}
 
-        let c: string
-        if (/in.*octavam|post Octavam Asc/i.test(cSec.Rank ?? '') && octvespera) {
-          c = await getcommemoratio(state, commemo, octvespera, lang)
-        } else {
-          c = await getcommemoratio(state, commemo, cv, lang)
-        }
+        let c = await getcommemoratio(state, commemo, cv, lang)
         const c2vig = cv === 2 ? await vigiliaCommemoratio(state, commemo, lang) : ''
         c ||= c2vig
-        if (lang !== 'Latin') {
-          cSec = (await officestring(kal, lang, commemo, false)) ?? {}
-        }
 
         if (c) {
           const cr = (cSec.Rank ?? '').split(';;')
@@ -1086,12 +1083,10 @@ export async function getsuffragium(state: HoursState, lang: string): Promise<[s
   const hora = state.hora
   const kal = state.day.state
 
-  // Sancta Maria in Sabbato commemorated on Friday Vespers — Perl mutates the
-  // global $commune here; the only later reader on our paths is none, so the
-  // assignment is tracked but not propagated.
-  let commune = state.day.commune
-  if (/C1[012]/.test(kal.cwinnerSections.Rank ?? '') && hora === 'Vespera') commune = 'C10'
-  void commune
+  // Sancta Maria in Sabbato commemorated on Friday Vespers. Perl sets the
+  // global $commune, which the `commune C1[012]` condition in [Suffragium]
+  // reads when Major Special is loaded below.
+  if (/C1[012]/.test(kal.cwinnerSections.Rank ?? '') && hora === 'Vespera') ctx.commune = 'C10'
 
   const comment = /altovadensis/i.test(version)
     ? 5

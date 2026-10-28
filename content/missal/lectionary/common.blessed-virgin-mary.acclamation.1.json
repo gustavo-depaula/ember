@@ -1,0 +1,1606 @@
+{
+ "id": "common.blessed-virgin-mary.acclamation.1",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Ave, María, grátia plena, Dóminus tecum,"
+       ],
+       [
+        "benedícta tu in muliéribus."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Maria, alegra-te, ó cheia de graça, o Senhor é contigo; és bendita entre todas as mulheres da terra!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Cf. Lk 1, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Hail, Mary, full of grace, the Lord is with you; blessed are you among women."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Alégrate, María, llena de gracia,"
+       ],
+       [
+        "el Señor está contigo,"
+       ],
+       [
+        "bendita tú entre las mujeres."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "Cf Lc 1, 28.42",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia, alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Rallegrati, piena di grazia: il Signore è con te, benedetta tu fra le donne."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Je te salue, Marie, Comblée-de-grâce : le Seigneur est avec toi, tu es bénie entre les femmes."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "vgl. Lk 1, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Gegrüßet seist du, Maria, voll der Gnade, der Herr ist mit dir. Du bist gebenedeit unter den Frauen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 45",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beáta es, Virgo María, quæ credidísti,"
+       ],
+       [
+        "quóniam perficiéntur ea quæ dicta sunt tibi a Dómino."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 45",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "És feliz, porque creste, Maria, pois, em ti, a Palavra de Deus vai cumprir-se, conforme ele disse!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Cf. Lk 1, 45",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Blessed are you for your firm believing, that the promises of the Lord would be fulfilled."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 45",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bienaventurada tú, que has creído, Virgen María,"
+       ],
+       [
+        "porque lo que te ha dicho el Señor se cumplirá."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 45.",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia, alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beata sei tu, o Vergine Maria, che hai creduto: in te si è adempiuta la parola del Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Cf. Lc 1, 45",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Heureuse es-tu, Vierge Marie, toi qui as cru que s'accompliraient pour toi les paroles du Seigneur."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "vgl. Lk 1, 45",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig bist du, Jungfrau Maria; du hast geglaubt, dass sich erfüllt, was der Herr dir sagen ließ."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Cf. Lc 2, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beáta Virgo María, quæ conservábat verbum Dei,"
+       ],
+       [
+        "cónferens in corde suo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Cf. Lc 2, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bendita é a Virgem Maria, que guardava a Palavra de Deus, meditando-a no seu coração."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Lk 2:19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Blessed is the Virgin Mary, who kept the word of God, and pondered it in her heart."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Cf. Lc 2, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bienaventurada Virgen María, que conservaba la palabra de Dios,"
+       ],
+       [
+        "meditándola en su corazón."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "Cf. Lc 2, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia, alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beata la Vergine Maria: custodiva la parola di Dio, meditandola nel suo cuore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Cf. Lc 2, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Heureuse Vierge Marie ! Attentive à la parole de Dieu, elle la méditait dans son cœur."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "vgl. Lk 2, 19",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig bist du, Jungfrau Maria; du hast das Wort Gottes bewahrt und in deinem Herzen erwogen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Lc 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beáti qui áudiunt verbum Dei,"
+       ],
+       [
+        "et custódiunt."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Lc 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Feliz quem ouve e observa a palavra de Deus!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Lk 11:28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Happy are they who hear the word of God and keep it."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Lc 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bienaventurados los que escuchan la palabra de Dios y la cumplen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "Lc 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia, alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beati coloro che ascoltano la parola di Dio e la osservano."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Lc 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Heureux plutôt ceux qui écoutent la parole de Dieu, et qui la gardent !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Lk 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig, die das Wort Gottes hören und es befolgen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Felix es, sacra Virgo María, et omni laude digníssima;"
+       ],
+       [
+        "quia ex te ortus est sol iustitiæ, Christus Deus noster."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Sois feliz, Virgem Maria; e mereceis todo louvor, pois de vós se levantou o Sol brilhante da justiça!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Happy are you, holy Virgin Mary, deserving of all praise; from you rose the sun of justice, Christ the Lord."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Dichosa eres, santa Virgen María,"
+       ],
+       [
+        "y muy digna de toda alabanza:"
+       ],
+       [
+        "porque de ti salió el sol de justicia,"
+       ],
+       [
+        "Cristo, nuestro Dios."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia, alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beata sei tu, o Vergine Maria, e degna di ogni lode: da te è nato il sole di giustizia, Cristo nostro Dio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Heureuse es-tu, Sainte Vierge Marie, et digne de toute louange ! Car de toi s'est levé le Soleil de justice, le Christ notre Dieu."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig bist du, Jungfrau Maria, und allen Lobes überaus würdig. Denn aus dir ging hervor die Sonne der Gerechtigkeit, Christus, unser Gott."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Felix est María Virgo,"
+       ],
+       [
+        "quæ sine morte méruit martýrii palmam"
+       ],
+       [
+        "sub cruce Dómini."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Feliz a Virgem Maria, que, sem passar pela morte, do martírio ganha a palma, ao pé da cruz do Senhor!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Blessed is the Virgin Mary; at the foot of the Lord's cross she earned the martyr's crown without suffering death herself."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Dichosa es la bienaventurada Virgen María,"
+       ],
+       [
+        "que, sin morir, mereció la palma del martirio"
+       ],
+       [
+        "junto a la cruz del Señor."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia, alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beata la Vergine Maria, perché senza morire meritò, sotto la croce del Signore, la palma del martirio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Heureuse Vierge Marie : sans subir la mort, elle a mérité, sous la croix du Seigneur, la palme du martyre."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig bist du, Jungfrau Maria! Ohne den Tod zu erleiden, hast du die Palme des Martyriums verdient unter dem Kreuz des Herrn."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "title": {}
+}

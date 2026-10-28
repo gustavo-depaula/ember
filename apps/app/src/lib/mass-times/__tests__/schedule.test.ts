@@ -1,6 +1,12 @@
 import type { Service } from '@ember/api'
 import { describe, expect, it } from 'vitest'
-import { expandUpcoming, nextService, occurrenceInstant, wallClockNow } from '../schedule'
+import {
+  expandUpcoming,
+  nextService,
+  occurrenceInstant,
+  serviceUnderway,
+  wallClockNow,
+} from '../schedule'
 
 // Minimal service factory — expansion only reads rrule/startTime/exdate/rdate/kind.
 function svc(partial: Partial<Service>): Service {
@@ -69,5 +75,50 @@ describe('wallClockNow', () => {
     const wall = wallClockNow('America/Sao_Paulo', new Date(Date.UTC(2026, 5, 21, 12, 0)))
     expect(wall.getUTCHours()).toBe(9)
     expect(wall.getUTCDate()).toBe(21)
+  })
+})
+
+describe('serviceUnderway', () => {
+  // Tuesday 2026-06-23
+  const at = (h: number, m = 0) => new Date(Date.UTC(2026, 5, 23, h, m))
+  const tuesdayMass = svc({ rrule: 'FREQ=WEEKLY;BYDAY=TU', startTime: '20:00' })
+
+  it('holds a Mass from half an hour before until an hour in', () => {
+    const on = (now: Date) => serviceUnderway([tuesdayMass], { timezone: 'UTC', now })
+    expect(on(at(19, 29))).toBeUndefined()
+    expect(on(at(19, 30))?.occurrence.startTime).toBe('20:00')
+    expect(on(at(21, 0))?.occurrence.startTime).toBe('20:00')
+    expect(on(at(21, 1))).toBeUndefined()
+  })
+
+  it('runs to a listed end time', () => {
+    const adoration = svc({
+      kind: 'adoration',
+      rrule: 'FREQ=WEEKLY;BYDAY=TU',
+      startTime: '14:00',
+      endTime: '18:00',
+    })
+    expect(serviceUnderway([adoration], { timezone: 'UTC', now: at(17, 30) })?.service.kind).toBe(
+      'adoration',
+    )
+    expect(serviceUnderway([adoration], { timezone: 'UTC', now: at(18, 1) })).toBeUndefined()
+  })
+
+  it('picks the service starting nearest now when windows overlap', () => {
+    const confession = svc({
+      kind: 'confession',
+      rrule: 'FREQ=WEEKLY;BYDAY=TU',
+      startTime: '19:00',
+    })
+    // 19:50: confession began 50 minutes ago, Mass starts in 10.
+    expect(
+      serviceUnderway([confession, tuesdayMass], { timezone: 'UTC', now: at(19, 50) })?.service
+        .kind,
+    ).toBe('mass')
+  })
+
+  it('ignores another day', () => {
+    const sunday = svc({ startTime: '20:00' })
+    expect(serviceUnderway([sunday], { timezone: 'UTC', now: at(20, 0) })).toBeUndefined()
   })
 })

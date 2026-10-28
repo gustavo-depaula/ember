@@ -1,11 +1,14 @@
-import type { ReactNode } from 'react'
-import { RefreshControl } from 'react-native'
+import type { ReactNode, RefObject } from 'react'
+import { type ScrollView as NativeScrollView, RefreshControl } from 'react-native'
 import { KeyboardAvoidingView } from 'react-native-keyboard-controller'
 import Animated, { FadeIn } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, YStack } from 'tamagui'
 
+import { type PageMeasure, pageGutter, pageOuterWidth } from '@/lib/layout'
+
 import { GlassBackdrop } from './glassBackdrop'
+import { PageWidth, useFrameWidth } from './pageWidth'
 import { useBottomClearance } from './tabAccessory'
 
 const scrollContentStyle = { flexGrow: 1 }
@@ -18,6 +21,8 @@ export function ScreenLayout({
   refreshing,
   onRefresh,
   modal = false,
+  measure = 'column',
+  scrollRef,
 }: {
   children: ReactNode
   scroll?: boolean
@@ -28,8 +33,15 @@ export function ScreenLayout({
    * now-playing accessory, so skip the manual bottom clearance. Without
    * this, modals reserve ~128pt of empty padding at the bottom. */
   modal?: boolean
+  /** `wide` lets a hub, shelf or split page leave the reading column on a
+   * wide window; on a phone the two are the same page. */
+  measure?: PageMeasure
+  /** The page's own scroller, for a rail or an index that jumps within it. */
+  scrollRef?: RefObject<NativeScrollView | null>
 }) {
   const insets = useSafeAreaInsets()
+  const outerWidth = pageOuterWidth(useFrameWidth(), measure)
+  const gutter = padded ? pageGutter : 16
   const tabClearance = useBottomClearance()
   // The tabs disable automatic content insets so this manual padding is the
   // single source of truth (lets the home flourish bleed into the notch).
@@ -40,17 +52,19 @@ export function ScreenLayout({
       flex={1}
       backgroundColor="$background"
       paddingTop={insets.top}
+      paddingLeft={insets.left}
+      paddingRight={insets.right}
       paddingBottom={insets.bottom + bottomClearance}
     >
       <Animated.View entering={FadeIn.duration(250)} style={{ flex: 1 }}>
         <YStack
           flex={1}
           width="100%"
-          maxWidth={640}
+          maxWidth={outerWidth}
           alignSelf="center"
-          paddingHorizontal={padded ? '$lg' : '$md'}
+          paddingHorizontal={gutter}
         >
-          {children}
+          <PageWidth width={outerWidth - gutter * 2}>{children}</PageWidth>
         </YStack>
       </Animated.View>
     </YStack>
@@ -72,6 +86,7 @@ export function ScreenLayout({
           contentInset on every mounted tab ScrollView, letting users scroll
           far past the content into a void they can't obviously escape. */}
         <ScrollView
+          ref={scrollRef}
           flex={1}
           backgroundColor="$background"
           contentContainerStyle={scrollContentStyle}

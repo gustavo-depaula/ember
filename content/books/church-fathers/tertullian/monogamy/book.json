@@ -2,26 +2,31 @@
   "id": "tertullian-monogamy",
   "cover": "quarter",
   "name": {
-    "en-US": "On Monogamy"
+    "en-US": "On Monogamy",
+    "pt-BR": "Sobre a monogamia"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/0406.htm",
-      "description": "Translated by S. Thelwall. From Ante-Nicene Fathers, Vol. 4, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+      "description": "Translated by S. Thelwall. From Ante-Nicene Fathers, Vol. 4, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight.",
+      "pt-BR": "Tradução inglesa de S. Thelwall. De Ante-Nicene Fathers, vol. 4, editado por Alexander Roberts, James Donaldson e A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co, 1885. Revisto e editado para o New Advent por Kevin Knight."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Monogamy"
+        "en-US": "On Monogamy",
+        "pt-BR": "Sobre a monogamia"
       }
     }
   ]

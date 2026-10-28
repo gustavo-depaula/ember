@@ -1,0 +1,25 @@
+{
+	"indexBy": "program-day",
+	"entries": {
+		"default": [
+			{
+				"dayTitle": {
+					"en-US": "Ember Wednesday",
+					"pt-BR": "Quarta-feira das Têmporas"
+				}
+			},
+			{
+				"dayTitle": {
+					"en-US": "Ember Friday",
+					"pt-BR": "Sexta-feira das Têmporas"
+				}
+			},
+			{
+				"dayTitle": {
+					"en-US": "Ember Saturday",
+					"pt-BR": "Sábado das Têmporas"
+				}
+			}
+		]
+	}
+}

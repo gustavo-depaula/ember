@@ -5,28 +5,13 @@
  * device backup.
  */
 
-import * as expoFs from 'expo-file-system'
-import { Platform } from 'react-native'
+import { Directory, File as NativeFile, Paths } from 'expo-file-system'
 
 import { blobPath } from '@/content/store'
-import { idbReadBinary, idbWriteFile } from '@/lib/idb-fs'
 import { sha256Hex } from '@/lib/sha256'
-
-const nativeFs = Platform.OS !== 'web' ? expoFs : undefined
 
 export async function downloadMediaUrl(url: string): Promise<{ hash: string; size: number }> {
   const hash = await sha256Hex(url)
-  if (Platform.OS === 'web') {
-    const existing = await idbReadBinary(`blob:${hash}`)
-    if (existing) return { hash, size: existing.byteLength }
-    const res = await fetch(url)
-    if (!res.ok) throw new Error(`media ${url}: ${res.status}`)
-    const buf = new Uint8Array(await res.arrayBuffer())
-    await idbWriteFile(`blob:${hash}`, buf)
-    return { hash, size: buf.byteLength }
-  }
-  if (!nativeFs) throw new Error('mediaDownload: native fs unavailable')
-  const { Directory, File: NativeFile, Paths } = nativeFs
   const file = new NativeFile(Paths.document, blobPath(hash))
   if (file.exists) return { hash, size: file.size ?? 0 }
   // Disk-to-disk download staged in blobs-tmp/ + atomic move: multi-MB media
@@ -53,9 +38,6 @@ export async function downloadMediaUrl(url: string): Promise<{ hash: string; siz
 }
 
 export function pinnedMediaUri(hash: string): string | undefined {
-  if (Platform.OS === 'web') return undefined
-  if (!nativeFs) return undefined
-  const { File: NativeFile, Paths } = nativeFs
   const file = new NativeFile(Paths.document, blobPath(hash))
   return file.exists ? file.uri : undefined
 }

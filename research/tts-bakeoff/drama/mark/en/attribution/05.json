@@ -1,0 +1,383 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; brisk, vivid storytelling."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Commanding with the demons, tender with the woman and with Jairus' daughter."
+  },
+  "legion": {
+   "name": "Legion",
+   "kind": "spirit",
+   "gender": "male",
+   "age": "adult",
+   "note": "The many demons speaking through the Gerasene demoniac; shrieking, then cringing and begging."
+  },
+  "jairus": {
+   "name": "Jairus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A ruler of the synagogue, desperate father pleading for his dying daughter."
+  },
+  "woman-with-issue-of-blood": {
+   "name": "Woman with the issue of blood",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "Ill for twelve years; a hushed, hopeful resolve spoken to herself."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Incredulous, a little exasperated, in the pressing crowd."
+  },
+  "messengers": {
+   "name": "Messengers from Jairus' house",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Bearers of bad news; blunt and resigned."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And they came over the strait of the sea into the country of the Gerasens."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And as he went out of the ship, immediately there met him out of the tombs a man with an unclean spirit:"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Who had his dwelling in the tombs, and no man now could bind him, not even with chains:"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "For having been often bound with fetters and chains, he had burst the chains, and broken the fetters in pieces, and no one could tame him."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And he was always day and night in the tombs, and in the mountains, crying and cutting himself with stones."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And seeing Jesus, afar off, he ran and adored him:"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And crying with a loud voice, he said:"
+   },
+   {
+    "s": "legion",
+    "t": "What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "For he said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go out of the man, thou unclean spirit."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And he asked him:"
+   },
+   {
+    "s": "jesus",
+    "t": "What is thy name?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he saith to him:"
+   },
+   {
+    "s": "legion",
+    "t": "My name is Legion, for we are many."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And he besought him much, that he would not drive him away out of the country."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And there was there near the mountain a great herd of swine, feeding."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And the spirits besought him, saying:"
+   },
+   {
+    "s": "legion",
+    "t": "Send us into the swine, that we may enter into them."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And Jesus immediately gave them leave. And the unclean spirits going out, entered into the swine: and the herd with great violence was carried headlong into the sea, being about two thousand, and were stifled in the sea."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And they that fed them fled, and told it in the city, and in the fields. And they went out to see what was done:"
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And they came to Jesus, and they see him that was troubled with the devil, sitting, clothed, and in his right mind; and they were afraid."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And they that had seen it, told them in what manner he had been dealt with who had the devil; and concerning the swine."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And they began to pray him to depart from their coasts."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And when he went up into the ship, he that had been troubled with the devil, began to beseech him that he might be with him."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And he admitted him not, but saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go into thy house to thy friends, and tell them how great things the Lord hath done for thee, and hath had mercy on thee."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And he went his way, and began to publish in Decapolis how great things Jesus had done for him: and all men wondered."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And when Jesus had passed again in the ship over the strait, a great multitude assembled together unto him, and he was nigh unto the sea."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And there cometh one of the rulers of the synagogue, named Jairus: and seeing him, falleth down at his feet;"
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And he besought him much, saying:"
+   },
+   {
+    "s": "jairus",
+    "t": "My daughter is at the point of death; come, lay thy hand upon her, that she may be safe, and may live."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And he went with him, and a great multitude followed him, and they thronged him."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And a woman who was under an issue of blood twelve years,"
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And had suffered many things from many physicians: and had spent all that she had, and was nothing the better, but rather worse:"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "When she had heard of Jesus, came in the crowd behind him, and touched his garment."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "For she said:"
+   },
+   {
+    "s": "woman-with-issue-of-blood",
+    "t": "If I shall but touch his garment, I shall be whole.",
+    "q": "said within herself (inner speech), voiced as her own words"
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And forthwith the fountain of her blood was dried up, and she felt in her body that she was healed of the evil."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And immediately Jesus knowing in himself the virtue that had proceeded from him, turning to the multitude, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Who hath touched my garments?"
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And his disciples said to him:"
+   },
+   {
+    "s": "disciples",
+    "t": "Thou seest the multitude thronging thee; and sayest thou, Who hath touched me?"
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And he looked about to see her who had done this."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And he said to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Daughter, thy faith hath made thee whole: go in peace, and be thou whole of the disease."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "While he was yet speaking, some came from the ruler of the synagogue, saying:"
+   },
+   {
+    "s": "messengers",
+    "t": "Thy daughter is dead: why dost thou trouble the master any farther?"
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "But Jesus having heard the word that was spoken, saith to the ruler of the synagogue:"
+   },
+   {
+    "s": "jesus",
+    "t": "Fear not: only believe."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And he admitted not any man to follow him, but Peter, and James, and John, the brother of James."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And they came to the house of the ruler of the synagogue; and he seeth a tumult, and people weeping and wailing much."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And going in, he saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Why make you this outcry, and weep? the damsel is not dead, but sleepeth."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And they laughed him to scorn. But he having put them all out, taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying:"
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "And taking the damsel by the hand, he saith to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Talitha cumi;"
+   },
+   {
+    "s": "narrator",
+    "t": "which is, being interpreted; damsel, (I say to thee) arise.",
+    "q": "the evangelist's translation gloss given to narrator; only the Aramaic words are Jesus"
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "And immediately the damsel rose up, and walked: now she was twelve years old: and they were astonished with a great astonishment."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "And he charged them strictly that no man should know it: and commanded that something should be given her to eat."
+   }
+  ]
+ }
+}

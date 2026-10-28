@@ -2,13 +2,16 @@
   "id": "peter-genuine-acts",
   "cover": "quarter",
   "name": {
-    "en-US": "The Genuine Acts"
+    "en-US": "The Genuine Acts",
+    "pt-BR": "As Atas Genuínas"
   },
   "author": {
-    "en-US": "Peter of Alexandria"
+    "en-US": "Peter of Alexandria",
+    "pt-BR": "São Pedro de Alexandria"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Genuine Acts"
+        "en-US": "The Genuine Acts",
+        "pt-BR": "As Atas Genuínas"
       }
     }
   ]

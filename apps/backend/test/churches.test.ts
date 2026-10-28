@@ -191,6 +191,94 @@ describe('GET /churches viewport at any zoom', () => {
     expect(body.churches.map((c) => c.id)).toEqual(['g0_0'])
   })
 
+  // `church_cell` against a recount of `church`: cells whose stored total or per-kind total is off.
+  async function staleCells() {
+    const row = await env.DB.prepare(
+      `SELECT count(*) AS n FROM church_cell cc WHERE cc.count != (
+         SELECT count(*) FROM church c
+         WHERE substr(c.geohash, 1, cc.precision) = cc.cell
+           AND (cc.kind = '' OR EXISTS (
+             SELECT 1 FROM json_each(c.services) WHERE json_extract(value, '$.kind') = cc.kind))
+       )`,
+    ).first<{ n: number }>()
+    return row?.n
+  }
+  const total = (body: Viewport) => body.clusters.reduce((sum, c) => sum + c.count, 0)
+
+  it('counts a wide view per service kind', async () => {
+    expect(total(await viewport(`bbox=${gridBox}&limit=9&kind=mass`))).toBe(80)
+  })
+
+  it('keeps its counts true as a church moves, changes what it offers, or goes', async () => {
+    const far = { lat: 45, lng: -74 }
+    await env.DB.prepare('UPDATE church SET lat = ?, lng = ?, geohash = ? WHERE id = ?')
+      .bind(far.lat, far.lng, encodeGeohash(far.lat, far.lng), 'g4_4')
+      .run()
+    expect(total(await viewport(`bbox=${gridBox}&limit=9`))).toBe(80)
+
+    const confession = JSON.stringify([
+      { id: 'c', kind: 'confession', rrule: 'FREQ=WEEKLY;BYDAY=SA', startTime: '16:00' },
+    ])
+    await env.DB.prepare('UPDATE church SET services = ? WHERE id = ?')
+      .bind(confession, 'g1_1')
+      .run()
+    expect(total(await viewport(`bbox=${gridBox}&limit=9&kind=mass`))).toBe(78)
+
+    await env.DB.prepare('DELETE FROM church WHERE id = ?').bind('g2_2').run()
+    expect(total(await viewport(`bbox=${gridBox}&limit=9`))).toBe(79)
+    expect(await staleCells()).toBe(0)
+
+    await env.DB.prepare('DELETE FROM church').run()
+    const left = await env.DB.prepare('SELECT count(*) AS n FROM church_cell').first<{
+      n: number
+    }>()
+    expect(left?.n).toBe(0)
+  })
+
+  type Tile = {
+    churches?: { id: string; services: unknown[]; texts?: unknown }[]
+    cells?: Viewport['clusters']
+  }
+  const tile = async (cell: string) => {
+    const res = await app.request(`/churches/tiles/${cell}`, {}, env)
+    expect(res.status).toBe(200)
+    expect(res.headers.get('Cache-Control')).toContain('max-age=3600')
+    return (await res.json()) as Tile
+  }
+
+  it('serves a detail tile: the churches of one cell, with their schedules', async () => {
+    const body = await tile(encodeGeohash(center.lat, center.lng, 5))
+    expect(body.churches?.map((c) => c.id)).toEqual(['g0_0'])
+    expect(body.churches?.[0].services).toHaveLength(1)
+    expect(body.churches?.[0]).not.toHaveProperty('texts')
+  })
+
+  it('serves a count tile: the cells one length finer, down from the whole world', async () => {
+    const world = await tile('root')
+    expect(world.cells?.map((c) => [c.id, c.count])).toEqual([['d', 81]])
+    // Each tile's cells are the next tile down, until the churches themselves.
+    let cell = 'd'
+    for (let length = 2; length <= 5; length++) {
+      const { cells = [] } = await tile(cell)
+      expect(cells.every((c) => c.id.length === length && c.id.startsWith(cell))).toBe(true)
+      const centre = cells.find((c) => c.id === encodeGeohash(center.lat, center.lng, length))
+      expect(centre).toBeDefined()
+      cell = centre?.id as string
+    }
+    expect((await tile(cell)).churches?.map((c) => c.id)).toEqual(['g0_0'])
+  })
+
+  it("counts a tile per service kind, and names a cell's only church", async () => {
+    const res = await app.request('/churches/tiles/root?kind=confession', {}, env)
+    const { cells } = (await res.json()) as Tile
+    expect(cells).toMatchObject([{ id: 'd', count: 1, church: { id: 'g0_0', name: 'Grid 0 0' } }])
+  })
+
+  it('rejects an address that is no geohash cell', async () => {
+    expect((await app.request('/churches/tiles/sao-paulo', {}, env)).status).toBe(400)
+    expect((await app.request('/churches/tiles/dr5ru7', {}, env)).status).toBe(400)
+  })
+
   it('answers a continent-sized box', async () => {
     const body = await viewport('bbox=-130,20,-60,55&limit=9')
     expect(body.clusters.reduce((sum, c) => sum + c.count, 0)).toBe(81)
@@ -204,6 +292,17 @@ describe('GET /churches/:id', () => {
     const detail = (await res.json()) as { id: string; services: unknown[] }
     expect(detail.id).toBe('st-mary-a')
     expect(detail.services).toHaveLength(1)
+  })
+
+  it("names a chapel's parish, and a parish's chapels", async () => {
+    await env.DB.prepare("UPDATE church SET parish_id = 'st-mary-a' WHERE id = 'st-joseph-b'").run()
+    type Kin = { parish?: { id: string; name: string }; chapels: { id: string }[] }
+    const detail = async (id: string) =>
+      (await (await app.request(`/churches/${id}`, {}, env)).json()) as Kin
+
+    expect((await detail('st-joseph-b')).parish?.id).toBe('st-mary-a')
+    expect((await detail('st-mary-a')).chapels.map((c) => c.id)).toEqual(['st-joseph-b'])
+    expect((await detail('st-mary-a')).parish).toBeUndefined()
   })
 
   it('404s an unknown church', async () => {

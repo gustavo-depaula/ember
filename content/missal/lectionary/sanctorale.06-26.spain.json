@@ -1,0 +1,40 @@
+{
+ "id": "sanctorale.06-26.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "26 de junio"
+       ],
+       [
+        "San Pelayo, mártir"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "lectionary": "readings.cm1f1",
+ "title": {
+  "*": "San Pelayo, mártir"
+ }
+}

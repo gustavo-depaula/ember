@@ -2,13 +2,16 @@
   "id": "methodius-from-the-discourse-on-the-resurrection",
   "cover": "quarter",
   "name": {
-    "en-US": "From the Discourse on the Resurrection"
+    "en-US": "From the Discourse on the Resurrection",
+    "pt-BR": "Do Discurso sobre a Ressurreição"
   },
   "author": {
-    "en-US": "Methodius"
+    "en-US": "Methodius",
+    "pt-BR": "Metódio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "From the Discourse on the Resurrection"
+        "en-US": "From the Discourse on the Resurrection",
+        "pt-BR": "Do Discurso sobre a Ressurreição"
       }
     }
   ]

@@ -1,0 +1,7 @@
+# Questão 4
+
+A quarta questão foi: se o súdito está obrigado a revelar, por preceito do prelado, as coisas que lhe foram confiadas sob segredo.  
+
+Deve-se responder que, se do recebimento do segredo ameaça perigo de escândalo e de ruína, ou de grave prejuízo, ou de dano da comunidade, ao qual se pode obviar pela revelação do segredo, pode o prelado, neste caso, ordenar, e o outro está obrigado a revelar: porque o mal maior prepondera sobre o bem menor. Por isso, se da guarda do segredo recebido se segue um mal maior do que da revelação, não se deve guardar o segredo, sobretudo quando é exigido por preceito: porque, assim como o juramento não é vínculo de iniquidade, como diz Agostinho, assim também a promessa de segredo não deve ser vínculo ou véu de iniquidade. Se, porém, da guarda do segredo não ameaça nenhum perigo ou escândalo, ou alguma das coisas mencionadas, nem o prelado deve ordenar, nem o súdito está obrigado ou deve, por preceito, revelar o segredo quando não ameaça perigo de alguma coisa grave, como foi dito acima: porque, se ameaçasse, o segredo seria guardado não fielmente, mas contra a fidelidade, com grande prejuízo dos outros.  
+
+Estas coisas que foram ditas sobre não ordenar e não revelar o segredo devem ser entendidas, como dizem os mestres mencionados, quando não precedeu fama ou infâmia; porque, quando precedeu tal fama que sobre o crime se fizesse inquisição em foro judicial, ou contencioso, pode o prelado ordenar, inquirir e exigir juramento.

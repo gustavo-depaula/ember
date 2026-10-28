@@ -8,13 +8,14 @@ import { meditationRow, weekdayDevotion } from '@/features/explore/pickFeatured'
 import { loadSaintOfDayIndex, saintOfDayKey } from '@/features/saints/data/saintOfDay'
 import { hearthUrl } from '@/lib/hearth'
 import { localizeContent } from '@/lib/i18n'
+import { transfersForJurisdiction } from '@/lib/missal/loaders'
 import { blobUrl } from '~/platform/store'
 import { href } from '~/routes'
 import { entryTitle, type TileData, tileFor } from './catalog'
 import { bibleRefFor } from './citations'
 import { bootCorpus } from './corpus'
 import { loadEfDay, loadOfDay } from './liturgy'
-import { type Locale, translator, withLocale } from './locale'
+import { jurisdiction, type Locale, translator, withLocale } from './locale'
 import { saintsCatalog } from './saints'
 
 export type Feature = {
@@ -96,7 +97,10 @@ export async function loadHome(date: Date, locale: Locale) {
       })
     }
 
-    const spotlight = pickSpotlight(getLiturgicalSeason(date, 'of'), date)
+    const spotlight = pickSpotlight(
+      getLiturgicalSeason(date, 'of', transfersForJurisdiction(jurisdiction[locale])),
+      date,
+    )
     const spotlightEntry = getEntry(spotlight.collectionId)
     if (spotlightEntry) {
       features.push({

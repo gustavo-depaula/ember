@@ -59,12 +59,12 @@ only); there is no foreground service and no exact-alarm permission.
 
 ### Data safety
 
-The answers below come from what the code sends today. They change when sync or analytics ship,
-so answer the form again with that release.
+The answers below come from what the code sends today: Mass Times, account sync and usage
+statistics. Answer the form again whenever one of them changes.
 
 - Does the app collect or share user data? **Yes** (collect), **No** (share).
-- Encrypted in transit? **Yes.** Can users request deletion? **Yes** — through the address in
-  the privacy policy.
+- Encrypted in transit? **Yes.** Can users request deletion? **Yes** — in the app
+  (*You → Account → Delete my account*), or through the address in the privacy policy.
 
 | Data type | Collected | Why | Required? |
 | --- | --- | --- | --- |
@@ -72,8 +72,15 @@ so answer the form again with that release.
 | Photos | Yes: a photo attached to a correction | App functionality | Optional |
 | Other user-generated content | Yes: the note on a correction | App functionality | Optional |
 | Device or other IDs | Yes: a random per-install id, hashed with the network address on the server | Fraud prevention, security | Optional (only with a correction or confirmation) |
+| Name | Yes: typed by the user under *About you* | Account management, developer communications | Optional; editable and deletable in the app |
+| Email address | Yes: typed by the user under *About you*, not verified | Account management, developer communications | Optional; editable and deletable in the app |
+| Phone number | Yes: typed by the user under *About you*, not verified | Account management, developer communications | Optional; editable and deletable in the app |
+| Other info — date of birth | Yes: typed by the user under *About you* | Account management | Optional; editable and deletable in the app |
+| App interactions | Yes: counts of actions and screens, with app version, platform and language, under a random id made for this alone; not linked to identity | Analytics | Optional (*Settings → Privacy → Help improve Ember*, on by default) |
+| Synced app data | Encrypted on the device before upload and not readable by the developer, so not "collected" in Play's sense; only with sync started | App functionality | Optional |
 
-Everything else — name, email, contacts, messages, health, financial, browsing, app activity,
-crash logs, diagnostics — is **not collected**. None of the above is processed "ephemerally" in
+The camera is used on the device only, to scan the pairing code when adding a device; no image
+is stored or sent. Everything else — contacts, messages, health, financial, browsing, crash
+logs, diagnostics — is **not collected**. None of the above is processed "ephemerally" in
 Play's sense (corrections are stored; requests appear in short-lived server logs), so do not
 tick that box.

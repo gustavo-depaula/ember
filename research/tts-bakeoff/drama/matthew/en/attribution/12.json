@@ -1,0 +1,419 @@
+{
+ "pericopes": [
+  1,
+  9,
+  15,
+  22,
+  33,
+  38,
+  43,
+  46
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Matthew; orderly, measured storytelling, including his own citations of the prophets."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth, about thirty; calm authority, teaching, commanding and healing."
+  },
+  "pharisees": {
+   "name": "Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Strict observers of the law; fault-finding, accusing, hostile."
+  },
+  "scribes-and-pharisees": {
+   "name": "Scribes and Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Some scribes and Pharisees together, demanding a sign; outwardly respectful, challenging."
+  },
+  "crowd": {
+   "name": "Crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The multitudes who see the healings; amazed and wondering."
+  },
+  "a-bystander": {
+   "name": "One who tells him",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Someone in the multitude telling Jesus his mother and brethren are outside; matter-of-fact."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "At that time Jesus went through the corn on the sabbath: and his disciples being hungry, began to pluck the ears, and to eat."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And the Pharisees seeing them, said to him:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Behold thy disciples do that which is not lawful to do on the sabbath days."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "But he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Have you not read what David did when he was hungry, and they that were with him:"
+   }
+  ],
+  "4": [
+   {
+    "s": "jesus",
+    "t": "How he entered into the house of God, and did eat the loaves of proposition, which it was not lawful for him to eat, nor for them that were with him, but for the priests only?"
+   }
+  ],
+  "5": [
+   {
+    "s": "jesus",
+    "t": "Or have ye not read in the law, that on the sabbath days the priests in the temple break the sabbath, and are without blame?"
+   }
+  ],
+  "6": [
+   {
+    "s": "jesus",
+    "t": "But I tell you that there is here a greater than the temple."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "And if you knew what this meaneth: I will have mercy, and not sacrifice: you would never have condemned the innocent."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "For the Son of man is Lord even of the sabbath."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And when he had passed from thence, he came into their synagogues."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And behold there was a man who had a withered hand, and they asked him, saying:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Is it lawful to heal on the sabbath days?",
+    "q": "\"they\" are unnamed; taken as the Pharisees of v2 and v14"
+   },
+   {
+    "s": "narrator",
+    "t": "that they might accuse him."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "But he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "What man shall there be among you, that hath one sheep: and if the same fall into a pit on the sabbath day, will he not take hold on it and lift it up?"
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "How much better is a man than a sheep? Therefore it is lawful to do a good deed on the sabbath days."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Then he saith to the man:"
+   },
+   {
+    "s": "jesus",
+    "t": "Stretch forth thy hand;"
+   },
+   {
+    "s": "narrator",
+    "t": "and he stretched it forth, and it was restored to health even as the other."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And the Pharisees going out made a consultation against him, how they might destroy him."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "But Jesus knowing it, retired from thence: and many followed him, and he healed them all."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And he charged them that they should not make him known."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "That it might be fulfilled which was spoken by Isaias the prophet, saying:"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Behold my servant whom I have chosen, my beloved in whom my soul hath been well pleased. I will put my spirit upon him, and he shall shew judgment to the Gentiles."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "He shall not contend, nor cry out, neither shall any man hear his voice in the streets."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "The bruised reed he shall not break: and smoking flax he shall not extinguish: till he send forth judgment unto victory."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And in his name the Gentiles shall hope."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Then was offered to him one possessed with a devil, blind and dumb: and he healed him, so that he spoke and saw."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And all the multitudes were amazed, and said:"
+   },
+   {
+    "s": "crowd",
+    "t": "Is not this the son of David?"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "But the Pharisees hearing it, said:"
+   },
+   {
+    "s": "pharisees",
+    "t": "This man casteth not out devils but by Beelzebub the prince of the devils."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And Jesus knowing their thoughts, said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Every kingdom divided against itself shall be made desolate: and every city or house divided against itself shall not stand."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "And if Satan cast out Satan, he is divided against himself: how then shall his kingdom stand?"
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "And if I by Beelzebub cast out devils, by whom do your children cast them out? Therefore they shall be your judges."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "But if I by the Spirit of God cast out devils, then is the kingdom of God come upon you."
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "Or how can any one enter into the house of the strong, and rifle his goods, unless he first bind the strong? and then he will rifle his house."
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "He that is not with me, is against me: and he that gathereth not with me, scattereth."
+   }
+  ],
+  "31": [
+   {
+    "s": "jesus",
+    "t": "Therefore I say to you: Every sin and blasphemy shall be forgiven men, but the blasphemy of the Spirit shall not be forgiven."
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but he that shall speak against the Holy Ghost, it shall not be forgiven him neither in this world, nor in the world to come."
+   }
+  ],
+  "33": [
+   {
+    "s": "jesus",
+    "t": "Either make the tree good and its fruit good: or make the tree evil, and its fruit evil. For by the fruit the tree is known."
+   }
+  ],
+  "34": [
+   {
+    "s": "jesus",
+    "t": "O generation of vipers, how can you speak good things, whereas you are evil? for out of the abundance of the heart the mouth speaketh."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "A good man out of a good treasure bringeth forth good things: and an evil man out of an evil treasure bringeth forth evil things."
+   }
+  ],
+  "36": [
+   {
+    "s": "jesus",
+    "t": "But I say unto you, that every idle word that men shall speak, they shall render an account for it in the day of judgment."
+   }
+  ],
+  "37": [
+   {
+    "s": "jesus",
+    "t": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Then some of the scribes and Pharisees answered him, saying:"
+   },
+   {
+    "s": "scribes-and-pharisees",
+    "t": "Master, we would see a sign from thee."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "Who answering said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "An evil and adulterous generation seeketh a sign: and a sign shall not be given it, but the sign of Jonas the prophet."
+   }
+  ],
+  "40": [
+   {
+    "s": "jesus",
+    "t": "For as Jonas was in the whale's belly three days and three nights: so shall the Son of man be in the heart of the earth three days and three nights."
+   }
+  ],
+  "41": [
+   {
+    "s": "jesus",
+    "t": "The men of Ninive shall rise in judgment with this generation, and shall condemn it: because they did penance at the preaching of Jonas. And behold a greater than Jonas here."
+   }
+  ],
+  "42": [
+   {
+    "s": "jesus",
+    "t": "The queen of the south shall rise in judgment with this generation, and shall condemn it: because she came from the ends of the earth to hear the wisdom of Solomon, and behold a greater than Solomon here."
+   }
+  ],
+  "43": [
+   {
+    "s": "jesus",
+    "t": "And when an unclean spirit is gone out of a man he walketh through dry places seeking rest, and findeth none."
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "Then he saith: I will return into my house from whence I came out. And coming he findeth it empty, swept, and garnished."
+   }
+  ],
+  "45": [
+   {
+    "s": "jesus",
+    "t": "Then he goeth, and taketh with him seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is made worse than the first. So shall it be also to this wicked generation."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "As he was yet speaking to the multitudes, behold his mother and his brethren stood without, seeking to speak to him."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "And one said unto him:"
+   },
+   {
+    "s": "a-bystander",
+    "t": "Behold thy mother and thy brethren stand without, seeking thee."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "But he answering him that told him, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Who is my mother, and who are my brethren?"
+   }
+  ],
+  "49": [
+   {
+    "s": "narrator",
+    "t": "And stretching forth his hand towards his disciples, he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Behold my mother and my brethren."
+   }
+  ],
+  "50": [
+   {
+    "s": "jesus",
+    "t": "For whosoever shall do the will of my Father, that is in heaven, he is my brother, and sister, and mother."
+   }
+  ]
+ }
+}

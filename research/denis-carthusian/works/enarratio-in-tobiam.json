@@ -1,0 +1,94 @@
+{
+  "parts": [
+    {
+      "volume": "operaomniainunum05deni",
+      "leaves": [
+        "0091",
+        "0092",
+        "0093",
+        "0094",
+        "0095",
+        "0096",
+        "0097",
+        "0098",
+        "0099",
+        "0100",
+        "0101",
+        "0102",
+        "0103",
+        "0104",
+        "0105",
+        "0106",
+        "0107",
+        "0108",
+        "0109",
+        "0110",
+        "0111",
+        "0112",
+        "0113",
+        "0114",
+        "0115",
+        "0116",
+        "0117",
+        "0118",
+        "0119",
+        "0120",
+        "0121",
+        "0122",
+        "0123",
+        "0124",
+        "0125",
+        "0126",
+        "0127",
+        "0128",
+        "0129",
+        "0130",
+        "0131",
+        "0132",
+        "0133",
+        "0134",
+        "0135",
+        "0136",
+        "0137",
+        "0138"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/commentaries/enarratio-in-tobiam",
+  "slug": "enarratio-in-tobiam",
+  "draft": false,
+  "meta": {
+    "id": "denis-enarratio-in-tobiam",
+    "cover": "label",
+    "name": {
+      "la": "Enarratio in librum Tobiæ",
+      "en-US": "Commentary on Tobit",
+      "pt-BR": "Comentário a Tobias"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Enarratio in librum Tobiæ.",
+      "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum05deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. V (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  },
+  "toc_group": {
+    "pattern": "CAP\\.?\\s*([IVXLCUH]+)\\b",
+    "label": {
+      "la": "Caput {n}",
+      "en-US": "Chapter {n}",
+      "pt-BR": "Capítulo {n}"
+    }
+  }
+}

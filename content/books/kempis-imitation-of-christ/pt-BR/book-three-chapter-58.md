@@ -1,6 +1,6 @@
 # Que não devemos escrutar as coisas mais altas e os ocultos juízos de Deus
 
-Jesus: Filho, guarda-te de disputar sobre assuntos altos e os ocultos juízos de Deus; não queiras investigar por que este é deixado em tal estado, aquele elevado a tanta graça, este tão oprimido, aquele tão exaltado. Isso excede o alcance humano, e não há raciocínio nem discussão que possam escrutar os desígnios de Deus. Quando, pois, o inimigo te sugere tais pensamentos, ou os curiosos questionarem sobre eles, responde com o profeta: Justo sois, Senhor, e justo é o vosso juízo (Sl 118,37), ou, também: Os juízos do Senhor são verdadeiros e justificados em si mesmos (Sl 19, 10). Meus juízos devem se temer, e não discutir, porque são incompreensíveis ao entendimento humano.
+Jesus: Filho, guarda-te de disputar sobre assuntos altos e os ocultos juízos de Deus; não queiras investigar por que este é deixado em tal estado, aquele elevado a tanta graça, este tão oprimido, aquele tão exaltado. Isso excede o alcance humano, e não há raciocínio nem discussão que possam escrutar os desígnios de Deus. Quando, pois, o inimigo te sugere tais pensamentos, ou os curiosos questionarem sobre eles, responde com o profeta: Justo sois, Senhor, e justo é o vosso juízo (Sl 118,37),[^1] ou, também: Os juízos do Senhor são verdadeiros e justificados em si mesmos (Sl 19, 10).[^2] Meus juízos devem se temer, e não discutir, porque são incompreensíveis ao entendimento humano.
 
 Não queiras também inquirir ou disputar sobre os méritos dos santos, qual seja o mais santo ou o maior no reino dos céus. Daí nascem muitas controvérsias e contendas inúteis, que nutrem a soberba e a vanglória, donde procedem invejas e discórdias, porque este prefere soberbamente um santo, aquele quer dar a preeminência a outro. Querer saber e investigar tais coisas não traz proveito algum, antes desagrada aos santos, porque "eu não sou Deus de discórdia e sim da paz" (1Cor 14,33), e esta paz consiste antes na verdadeira humildade que na própria exaltação.
 
@@ -16,6 +16,12 @@ Guarda-te, pois, filho, de discorrer curiosamente sobre coisas que excedem teu e
 
 Os santos estão bem contentes e satisfeitos; oxalá também os homens soubessem estar contentes e refrear suas vãs palavras. Não se gloriam dos próprios merecimentos, pois nenhum bem atribuem a si mesmos, mas tudo referem a mim que lhes dei tudo por infinita caridade. Tão cheios estão do amor da divindade e de abundantíssima alegria, que nada falta à sua glória, nem pode faltar à sua bem-aventurança. Quanto mais elevados estão os santos na glória, tanto mais humildes são em si mesmos e mais perto de mim e de mim amados. Por isso lês na Escritura que depunham suas coroas diante de Deus e se prostavam diante doCordeiro e adoravam aquele que vive nos séculos dos séculos (Apc 4,10).
 
-Muitos perguntam qual seja o maior no reino de Deus e não sabem se serão dignos de ser contados entre os menores. Grande coisa é ser ainda o menor no céu, onde todos são grandes, porque serão chamados filhos de Deus, e, na verdade, o são. O menor valerá por mil, e o pecador de cem anos morrerá (Is 60,22; 65,20). Pois, quando os discípulos perguntaram quem era o maior no reino dos céus, receberam esta resposta: Se vos não converterdes e vos tornardes como crianças, não entrareis no reino dos céus (Mt 18,3.4).
+Muitos perguntam qual seja o maior no reino de Deus e não sabem se serão dignos de ser contados entre os menores. Grande coisa é ser ainda o menor no céu, onde todos são grandes, porque serão chamados filhos de Deus, e, na verdade, o são. O menor valerá por mil, e o pecador de cem anos morrerá (Is 60,22; 65,20). Pois, quando os discípulos perguntaram quem era o maior no reino dos céus, receberam esta resposta: Se vos não converterdes e vos tornardes como crianças, não entrareis no reino dos céus (Mt 18,3.4).[^3]
 
 Ai daqueles que recusam humilhar-se espontaneamente com os pequenos; porque é baixa a porta do reino celeste e não lhes dará entrada. Ai também dos ricos, que têm neste mundo suas consolações, porque, quando os pobres entrarem no reino de Deus, eles ficarão de fora, chorando. Regozijai-vos, humildes, e "exultai, pobres, porque vosso é o reino de Deus" (Lc 6,20) contanto que andeis no caminho da verdade.
+
+[^1]: Salmos 118,37.
+
+[^2]: Salmos 19, 10.
+
+[^3]: Mateus 18,3.4.

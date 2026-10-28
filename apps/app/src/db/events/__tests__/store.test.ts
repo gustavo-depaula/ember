@@ -5,7 +5,7 @@
 import { openDatabaseAsync } from 'expo-sqlite'
 import { beforeEach, describe, expect, it } from 'vitest'
 
-import type { EmberDb } from '@/lib/db-shared/protocol'
+import type { EmberDb } from '@/db/emberDb'
 import { setDb } from '../../instance'
 import { useEventStore } from '../state'
 import { createEventsTable, emitBatch, replayAll } from '../store'

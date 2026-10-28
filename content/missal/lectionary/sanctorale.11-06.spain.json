@@ -1,0 +1,2338 @@
+{
+ "id": "sanctorale.11-06.spain",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 6 novembris"
+       ],
+       [
+        "Sanctorum Petri Poveda Castroverde, Innocentii ab Immaculata Canoura Arnau, presbyterorum, et sociorum, martyrum"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "6 de noviembre"
+       ],
+       [
+        "Santos Pedro Poveda Castroverde, Inocencio de la Inmaculada Canoura Arnau, presbíteros, y compañeros, mártires"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "6 novembre"
+       ],
+       [
+        "Sanctorum Petri Poveda Castroverde, Innocentii ab Immaculata Canoura Arnau, presbyterorum, et sociorum, martyrum"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Mémoire"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non dilexerunt animam suam usque ad mortem."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Apocalýpsis beáti Ioánnis apóstoli"
+       ]
+      ],
+      "cite": "12, 10-12a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego, Ioannes, audívi vocem magnam in cælo dicéntem: «Nunc facta est salus et virtus et regnum Dei nostri et potéstas Christi eius, quia proiéctus est accusátor fratrum nostrórum, qui accusábat illos ante conspéctum Dei nostri die ac nocte. Et ipsi vicérunt illum propter sánguinem Agni et propter verbum testimónii sui; et non dilexérunt ánimam suam usque ad mortem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proptérea lætámini, cæli et qui habitátis in eis»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Não se apegaram à vida, mesmo diante da morte."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Apocalipse de São João"
+       ]
+      ],
+      "cite": "12, 10-12a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu, João, ouvi uma voz forte no céu, proclamando: \"Agora realizou-se a salvação, a força e a realeza do nosso Deus, e o poder do seu Cristo. Porque foi expulso o acusador dos nossos irmãos, aquele que os acusava dia e noite diante do nosso Deus. Eles venceram o Dragão pelo sangue do Cordeiro e pela palavra do seu próprio testemunho, pois não se apegaram à vida, mesmo diante da morte. Por isso, alegra-te, ó céu, e todos o que viveis nele."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Revelation"
+       ]
+      ],
+      "cite": "12:10-12a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I heard a loud voice in heaven say:"
+       ],
+       [
+        "“Now have salvation and power come,"
+       ],
+       [
+        "and the kingdom of our God"
+       ],
+       [
+        "and the authority of his Anointed."
+       ],
+       [
+        "For the accuser* of our brothers is cast out,"
+       ],
+       [
+        "who accuses them before our God day and night."
+       ],
+       [
+        "They conquered him by the blood of the Lamb"
+       ],
+       [
+        "and by the word of their testimony;"
+       ],
+       [
+        "love for life did not deter them from death. Therefore, rejoice, you heavens,"
+       ],
+       [
+        "and you who dwell in them.”"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No amaron tanto su vida que temieran la muerte"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Apocalipsis"
+       ]
+      ],
+      "cite": "12, 10-12a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo, Juan, oí una gran voz en el cielo que decía:"
+       ],
+       [
+        "«Ahora se ha establecido la salvación y el poder y el reinado de nuestro Dios, y la potestad de su Cristo; porque fue precipitado el acusador de nuestros hermanos, el que los acusaba ante nuestro Dios día y noche."
+       ],
+       [
+        "Ellos lo vencieron en virtud de la sangre del Cordero y de la palabra del testimonio que habían dado, y no amaron tanto su vida que temieran la muerte."
+       ],
+       [
+        "Por eso, estad alegres, cielos, y los que habitáis en ellos»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non hanno amato la loro vita, fino alla morte."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro dell'Apocalisse di san Giovanni apostolo"
+       ]
+      ],
+      "cite": "12, 10-12a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io, Giovanni, udii una voce potente nel cielo che diceva: «Ora si è compiuta la salvezza, la forza e il regno del nostro Dio e la potenza del suo Cristo, perché è stato precipitato l'accusatore dei nostri fratelli, colui che li accusava davanti al nostro Dio giorno e notte."
+       ],
+       [
+        "Ma essi lo hanno vinto grazie al sangue dell'Agnello e alla parola della loro testimonianza, e non hanno amato la loro vita fino alla morte."
+       ],
+       [
+        "Esultate, dunque, o cieli e voi che abitate in essi»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de l'Apocalypse de saint Jean"
+       ]
+      ],
+      "cite": "12, 10-12a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Moi Jean, j'ai entendu dans le ciel une voix forte, qui proclamait : \" Maintenant voici le salut, la puissance et le règne de notre Dieu, voici le pouvoir de son Christ ! Car il est rejeté, l'accusateur de nos frères, lui qui les accusait, jour et nuit, devant notre Dieu. Eux-mêmes l'ont vaincu par le sang de l'Agneau, par la parole dont ils furent les témoins ; détachés de leur propre vie, ils sont allés jusqu'à mourir. Cieux, soyez donc dans la joie, et vous qui avez aux cieux votre demeure ! \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus der Offenbarung des Johannes"
+       ]
+      ],
+      "cite": "12, 10–12a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich, Johannes, hörte eine laute Stimme im Himmel rufen: Jetzt ist er da, der rettende Sieg, die Macht und die Herrschaft unseres Gottes und die Vollmacht seines Gesalbten; denn gestürzt wurde der Ankläger unserer Brüder, der sie bei Tag und bei Nacht vor unserem Gott verklagte. Sie haben ihn besiegt durch das Blut des Lammes und durch ihr Wort und Zeugnis; sie hielten ihr Leben nicht fest, bis hinein in den Tod."
+       ],
+       [
+        "Darum jubelt, ihr Himmel und alle, die darin wohnen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.martyrs.first-reading-easter.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.martyrs.first-reading-easter.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Salmo 125 (126)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In converténdo Dóminus captivitátem Sion,"
+       ],
+       [
+        "facti sumus quasi somniántes."
+       ],
+       [
+        "Tunc replétum est gáudio os nostrum,"
+       ],
+       [
+        "et lingua nostra exsultatióne."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando o Senhor reconduziu nossos cativos, parecíamos sonhar; encheu-se de sorriso nossa boca, nossos lábios, de canções."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When the Lord delivered Zion from bondage, it seemed like a dream. Then was our mouth filled with laughter, on our lips there were songs."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cuando el Señor hizo volver a los cautivos de Sion, nos parecía soñar:"
+       ],
+       [
+        "la boca se nos llenaba de risas,"
+       ],
+       [
+        "la lengua de cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando il Signore ristabilì la sorte di Sion,"
+       ],
+       [
+        "ci sembrava di sognare."
+       ],
+       [
+        "Allora la nostra bocca si riempì di sorriso,"
+       ],
+       [
+        "la nostra lingua di gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quand le Seigneur ramena les captifs à Sion, *"
+       ],
+       [
+        "nous étions comme en rêve !"
+       ],
+       [
+        "Alors notre bouche était pleine de rires,"
+       ],
+       [
+        "nous poussions des cris de joie"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Als der Herr das Los der Gefangenschaft Zion wendete,"
+       ],
+       [
+        "da waren wir alle wie Träumende."
+       ],
+       [
+        "Da war unser Mund voll Lachen"
+       ],
+       [
+        "und unsere Zunge voll Jubel."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc dicébant inter gentes:"
+       ],
+       [
+        "«Magnificávit Dóminus fácere cum eis»."
+       ],
+       [
+        "Magnificávit Dóminus fácere nobíscum;"
+       ],
+       [
+        "facti sumus lætántes."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Entre os gentios se dizia: \"Maravilhas fez com eles o Senhor!\" Sim, maravilhas fez conosco o Senhor, exultemos de alegria!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The heathens themselves said: 'What marvels the Lord worked for them!' What marvels the Lord worked for us! Indeed we were glad."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hasta los gentiles decían:"
+       ],
+       [
+        "«El Señor ha estado grande con ellos»."
+       ],
+       [
+        "El Señor ha estado grande con nosotros,"
+       ],
+       [
+        "y estamos alegres."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allora si diceva tra le genti:"
+       ],
+       [
+        "«Il Signore ha fatto grandi cose per loro»."
+       ],
+       [
+        "Grandi cose ha fatto il Signore per noi:"
+       ],
+       [
+        "eravamo pieni di gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors on disait parmi les nations :"
+       ],
+       [
+        "\" Quelles merveilles fait pour eux le Seigneur ! \""
+       ],
+       [
+        "Quelles merveilles le Seigneur fit pour nous :"
+       ],
+       [
+        "nous étions en grande fête !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Da sagte man unter den andern Völkern:"
+       ],
+       [
+        "„Der Herr hat an ihnen Großes getan.“"
+       ],
+       [
+        "Ja, Großes hat der Herr an uns getan."
+       ],
+       [
+        "Da waren wir fröhlich."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Convérte, Dómine, captivitátem nostram,"
+       ],
+       [
+        "sicut torréntes in austro."
+       ],
+       [
+        "Qui séminant in lácrimis,"
+       ],
+       [
+        "in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mudai a nossa sorte, ó Senhor, como torrentes no deserto. Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deliver us, O Lord, from our bondage as streams in dry land. Those who are sowing in tears will sing when they reap."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recoge, Señor, a nuestros cautivos"
+       ],
+       [
+        "como los torrentes del Negueb."
+       ],
+       [
+        "Los que sembraban con lágrimas"
+       ],
+       [
+        "cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ristabilisci, Signore, la nostra sorte,"
+       ],
+       [
+        "come i torrenti del Negheb."
+       ],
+       [
+        "Chi semina nelle lacrime mieterà"
+       ],
+       [
+        "nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ramène, Seigneur, nos captifs,"
+       ],
+       [
+        "comme les torrents au désert."
+       ],
+       [
+        "Qui sème dans les larmes"
+       ],
+       [
+        "moissonne dans la joie. +"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wende doch, Herr, unser Geschick,"
+       ],
+       [
+        "wie du versiegte Bäche wieder füllst im Südland."
+       ],
+       [
+        "Die mit Tränen säen,"
+       ],
+       [
+        "werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eúntes ibant et flebant,"
+       ],
+       [
+        "semen spargéndum portántes;"
+       ],
+       [
+        "veniéntes autem vénient in exsultatióne"
+       ],
+       [
+        "portántes manípulos suos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chorando de tristeza sairão, espalhando suas sementes; cantando de alegria voltarão, carregando os seus feixes!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "They go out, they go our, full of tears, carrying seed for the sowing: they come back, they come back, full of song, carrying their sheaves."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al ir, iba llorando,"
+       ],
+       [
+        "llevando la semilla;"
+       ],
+       [
+        "al volver, vuelve cantando,"
+       ],
+       [
+        "trayendo sus gavillas."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nell'andare, se ne va piangendo,"
+       ],
+       [
+        "portando la semente da gettare,"
+       ],
+       [
+        "ma nel tornare, viene con gioia,"
+       ],
+       [
+        "portando i suoi covoni."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il s'en va, il s'en va en pleurant,"
+       ],
+       [
+        "il jette la semence ;"
+       ],
+       [
+        "il s'en vient, il s'en vient dans la joie,"
+       ],
+       [
+        "il rapporte les gerbes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sie gehen hin unter Tränen"
+       ],
+       [
+        "und tragen den Samen zur Aussaat."
+       ],
+       [
+        "Sie kommen wieder mit Jubel"
+       ],
+       [
+        "und bringen ihre Garben ein."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Io 12, 25b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allelúia."
+       ],
+       [
+        "Qui odit ánimam suam in hoc mundo,"
+       ],
+       [
+        "in vitam aetérnam custódiet eam."
+       ],
+       [
+        "Allelúia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 12, 25b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya."
+       ],
+       [
+        "El que se aborrece a sí mismo en este mundo,"
+       ],
+       [
+        "se guardará para la vida eterna."
+       ],
+       [
+        "Aleluya."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Io 12, 25b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ],
+       [
+        "Qui odit ánimam suam in hoc mundo,"
+       ],
+       [
+        "in vitam aetérnam custódiet eam."
+       ],
+       [
+        "Alléluia"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nolite timere eos, qui occidunt corpus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "10, 28-33",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Não tenhais medo daqueles que matam o corpo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "10, 28-33",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "10:28-33",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "No tengáis miedo a los que matan el cuerpo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo evangelio según san Mateo"
+       ]
+      ],
+      "cite": "10, 28-33",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non abbiate aura di quelli che uccidono il corpo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "10, 28-33",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "10, 28-33",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "10, 28-33",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.martyrs.gospel.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.martyrs.gospel.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus apóstolis suis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nolíte timére eos, qui occídunt corpus, ánimam autem non possunt occídere; sed pótius eum timéte, qui potest et ánimam et corpus pérdere in gehénna. Nonne duo pásseres asse véneunt? Et unus ex illis non cadet super terram sine Patre vestro. Vestri autem et capílli cápitis omnes numeráti sunt. Nolíte ergo timére; multis passéribus melióres estis vos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnis ergo qui confitébitur me coram homínibus, confitébor et ego eum coram Patre meo, qui est in cælis; qui autem negáverit me coram homínibus, negábo et ego eum coram Patre meo, qui est in cælis»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus aos seus discípulos: \"Não tenhais medo daqueles que matam o corpo, mas não podem matar a alma! Pelo contrário, temei aquele que pode destruir a alma e o corpo no inferno! Não se vendem dois pardais por algumas moedas? No entanto, nenhum deles cai no chão sem o consentimento do vosso Pai. Quanto a vós, até os cabelos da cabeça estão todos contados. Não tenhais medo! Vós valeis mais do que muitos pardais. Portanto, todo aquele que se declarar a meu favor diante dos homens, também eu me declararei em favor dele diante do meu Pai que está nos céus. Aquele, porém, que me negar diante dos homens, também eu o negarei diante do meu Pai que está nos céus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to his disciples: 'Do not be afraid of those who kill the body but cannot kill the soul; fear him rather who can destroy both body and soul in hell. Can you not buy two sparrows for a penny? And yet not one falls to the ground without your Father knowing. Why, every hair on your head has been counted. So there is no need to be afraid; you are worth more than hundreds of sparrows. 'So if anyone declares himself for me in the presence of men, I will declare myself for him in the presence of my Father in heaven. But the one who disowns me in the presence of men, I will disown in the presence of my Father in heaven."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus apóstoles:"
+       ],
+       [
+        "«No tengáis miedo a los que matan el cuerpo, pero no pueden matar el alma. No; temed al que puede llevar a la perdición alma y cuerpo en la “gehena”. ¿No se venden un par de gorriones por un céntimo? Y, sin embargo, ni uno solo cae al suelo sin que lo disponga vuestro Padre. Pues vosotros hasta los cabellos de la cabeza tenéis contados. Por eso, no tengáis miedo: valéis más vosotros que muchos gorriones. A quien se declare por mí ante los hombres, yo también me declararé por él ante mi Padre que está en los cielos. Y si uno me niega ante los hombres, yo también lo negaré ante mi Padre que está en los cielos»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse ai suoi apostoli:"
+       ],
+       [
+        "«Non abbiate paura di quelli che uccidono il corpo, ma non hanno potere di uccidere l'anima; abbiate paura piuttosto di colui che ha il potere di far perire nella Geènna e l'anima e il corpo."
+       ],
+       [
+        "Due passeri non si vendono forse per un soldo? Eppure nemmeno uno di essi cadrà a terra senza il volere del Padre vostro. Perfino i capelli del vostro capo sono tutti contati. Non abbiate dunque paura: voi valete più di molti passeri!"
+       ],
+       [
+        "Perciò chiunque mi riconoscerà davanti agli uomini, anch'io lo riconoscerò davanti al Padre mio che è nei cieli; chi invece mi rinnegherà davanti agli uomini, anch'io lo rinnegherò davanti al Padre mio che è nei cieli»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à ses Apôtres :"
+       ],
+       [
+        "\" Ne craignez pas ceux qui tuent le corps sans pouvoir tuer l'âme ; craignez plutôt celui qui peut faire périr dans la géhenne l'âme aussi bien que le corps. Deux moineaux ne sont-ils pas vendus pour un sou ? Or, pas un seul ne tombe à terre sans que votre Père le veuille. Quant à vous, même les cheveux de votre tête sont tous comptés. Soyez donc sans crainte : vous valez bien plus qu'une multitude de moineaux. Quiconque se déclarera pour moi devant les hommes, moi aussi je me déclarerai pour lui devant mon Père qui est aux cieux. Mais celui qui me reniera devant les hommes, moi aussi je le renierai devant mon Père qui est aux cieux. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Aposteln:"
+       ],
+       [
+        "Fürchtet euch nicht vor denen, die den Leib töten, die Seele aber nicht töten können, sondern fürchtet euch vor dem, der Seele und Leib ins Verderben der Hölle stürzen kann. Verkauft man nicht zwei Spatzen für ein paar Pfennig? Und doch fällt keiner von ihnen zur Erde ohne den Willen eures Vaters. Bei euch aber sind sogar die Haare auf dem Kopf alle gezählt. Fürchtet euch also nicht! Ihr seid mehr wert als viele Spatzen."
+       ],
+       [
+        "Wer sich nun vor den Menschen zu mir bekennt, zu dem werde auch ich mich vor meinem Vater im Himmel bekennen. Wer mich aber vor den Menschen verleugnet, den werde auch ich vor meinem Vater im Himmel verleugnen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.martyrs.gospel.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.martyrs.gospel.2"
+  }
+ ],
+ "title": {
+  "la": "Sanctorum Petri Poveda Castroverde, Innocentii ab Immaculata Canoura Arnau, presbyterorum,et sociorum, martyrum",
+  "es": "Santos Pedro Poveda Castroverde, Inocencio de la Inmaculada Canoura Arnau, presbíteros, y compañeros, mártires",
+  "fr": "Sanctorum Petri Poveda Castroverde, Innocentii ab Immaculata Canoura Arnau, presbyterorum,et sociorum, martyrum"
+ }
+}

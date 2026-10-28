@@ -51,7 +51,7 @@ describe('getHourSlots', () => {
   })
 
   it('gives every hour of every office a time', () => {
-    for (const id of ['little-office-bvm', 'little-office-dead', 'divine-office', 'dwdo']) {
+    for (const id of ['little-office-bvm-roman', 'little-office-dead', 'liturgy-of-the-hours']) {
       const slots = getHourSlots(practiceFlow(id))
       expect(slots.length).toBeGreaterThan(0)
       expect(slots.every((s) => s.time)).toBe(true)

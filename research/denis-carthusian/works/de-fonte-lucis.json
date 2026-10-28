@@ -1,0 +1,79 @@
+{
+  "parts": [
+    {
+      "volume": "operaomnia41deni_0",
+      "leaves": [
+        "0097",
+        "0098",
+        "0099",
+        "0100",
+        "0101",
+        "0102",
+        "0103",
+        "0104",
+        "0105",
+        "0106",
+        "0107",
+        "0108",
+        "0109",
+        "0110",
+        "0111",
+        "0112",
+        "0113",
+        "0114",
+        "0115",
+        "0116",
+        "0117",
+        "0118",
+        "0119",
+        "0120",
+        "0121",
+        "0122",
+        "0123",
+        "0124",
+        "0125",
+        "0126",
+        "0127",
+        "0128",
+        "0129",
+        "0130",
+        "0131",
+        "0132",
+        "0133",
+        "0134",
+        "0135",
+        "0136",
+        "0137"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-fonte-lucis",
+  "slug": "de-fonte-lucis",
+  "draft": false,
+  "meta": {
+    "id": "denis-de-fonte-lucis",
+    "cover": "label",
+    "name": {
+      "la": "De fonte lucis ac semitis vitæ",
+      "en-US": "On the Fount of Light and the Paths of Life",
+      "pt-BR": "Sobre a fonte da luz e as veredas da vida"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De fonte lucis ac semitis vitæ.",
+      "en-US": "One of Denis the Carthusian's minor works.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomnia41deni_0",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XLI (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  }
+}

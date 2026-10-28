@@ -1,18 +1,16 @@
 import { readdirSync, readFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
-import type { OfCalendarStatics, SanctoralEntry, TemporalEntry } from '@ember/missal-schema'
+import type { MissalCalendar } from '@ember/missal'
 import { describe, expect, it } from 'vitest'
 import { grants } from '../engine'
+import { offersToday } from '../today'
 import type { Act, Catalog, EngineInput } from '../types'
 import { waysToReceive } from '../ways'
 
 // The real calendar and the real cards, as in engine.test.ts.
 const root = fileURLToPath(new URL('../../../../', import.meta.url))
 const read = <T>(p: string): T => JSON.parse(readFileSync(`${root}${p}`, 'utf-8'))
-const statics: OfCalendarStatics = {
-  temporal: read<TemporalEntry[]>('content/of/calendar/temporal.json'),
-  sanctoral: read<SanctoralEntry[]>('content/of/calendar/sanctoral.json'),
-}
+const statics = read<MissalCalendar>('content/missal/calendar.json')
 const cardsDir = 'content/practices/saint-of-the-day/data/holy-cards'
 const cards = readdirSync(`${root}${cardsDir}`)
   .sort()
@@ -53,8 +51,11 @@ describe('A feast', () => {
     expect(ways('francis_assisi', '2026-10-05')).toEqual([{ door: 'mass', date: '2027-10-04' }])
   })
 
-  it('names the Office on the assigned day for a saint with no Mass on the calendar', () => {
-    expect(ways('philip_benizi', '2026-10-02')).toEqual([{ door: 'office', date: '2027-08-23' }])
+  it('names the Office and a prayed day on the assigned day for a saint with no Mass on the calendar', () => {
+    expect(ways('philip_benizi', '2026-10-02')).toEqual([
+      { door: 'office', date: '2027-08-23' },
+      { door: 'prayedDay', date: '2027-08-23' },
+    ])
   })
 
   it('finds the date of a moveable feast', () => {
@@ -66,10 +67,10 @@ describe('A feast', () => {
     // The page promises these days; each must be one the engine honours.
     const today = '2026-10-02'
     for (const saint of catalog.saints) {
-      const found = ways(saint.id, today).filter((w) => w.door === 'mass' || w.door === 'office')
+      const found = ways(saint.id, today).filter((w) => 'date' in w)
       expect(found.length, saint.id).toBeGreaterThan(0)
       for (const way of found) {
-        if (way.door !== 'mass' && way.door !== 'office') continue
+        if (!('date' in way)) continue
         const given = grants(input([{ kind: way.door, date: way.date }]))
         expect(
           given.some((g) => g.choice.includes(saint.id)),
@@ -115,5 +116,32 @@ describe('Other doors', () => {
     expect(ways('triduum', '2026-10-02')).toEqual([
       { door: 'triduum', days: ['2027-03-25', '2027-03-26', '2027-03-27'] },
     ])
+  })
+})
+
+describe("Today's cards", () => {
+  // 10 Oct 2026: a Saturday with no saint at Mass; Francis Borgia's day off the calendar.
+  const today = '2026-10-10'
+  const offers = (acts: Act[] = []) =>
+    offersToday(input(acts), today).map((o) => [o.act, o.done, o.grant.choice.join()])
+
+  it("draws a liturgical card at Mass and gives the day's saint by the Office or a prayed day", () => {
+    expect(offers()).toEqual([
+      ['mass', false, 'kyrie,chalice'],
+      ['office', false, 'francis_borgia'],
+      ['prayedDay', false, 'francis_borgia'],
+    ])
+  })
+
+  it('marks what is done, and gives a lone saint once', () => {
+    expect(offers([{ kind: 'office', date: today }])).toEqual([
+      ['mass', false, 'kyrie,chalice'],
+      ['office', true, 'francis_borgia'],
+    ])
+  })
+
+  it("gives the season's card with the Mass that completes it", () => {
+    const sundays = offersToday(input(mass('2026-11-29', '2026-12-06', '2026-12-13')), '2026-12-20')
+    expect(sundays.map((o) => o.grant.door)).toContain('seasonSunday')
   })
 })

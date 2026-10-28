@@ -4,6 +4,7 @@
 // backscope removal of already-emitted lines). The algorithm is translated
 // statement-for-statement — DO data files rely on its exact quirks.
 
+import { leapyear } from '../kalendar/date'
 import { matchLineConditional } from '../parser/conditions'
 import { getDaynameForCondition, getTempusId, type RubricContext } from './context'
 
@@ -37,6 +38,7 @@ const subjects: Record<string, (ctx: RubricContext) => string | number> = {
   officio: (ctx) => ctx.dayname[1],
   ad: (ctx) => (ctx.missa ? 'missam' : ctx.hora),
   mense: (ctx) => ctx.month, // imperfect upstream too: 1 also matches 10–12
+  anno: (ctx) => (leapyear(ctx.year) ? 'bissextili' : 'communi'),
   dioecesis: (ctx) => ctx.dioecesis,
   // GABC chant subjects — not supported; empty never matches.
   tonus: () => '',

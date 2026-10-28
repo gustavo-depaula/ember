@@ -1,0 +1,65 @@
+{
+  "parts": [
+    {
+      "volume": "operaomnia38deni",
+      "leaves": [
+        "0397",
+        "0398",
+        "0399",
+        "0400",
+        "0401",
+        "0402",
+        "0403",
+        "0404",
+        "0405",
+        "0406",
+        "0407",
+        "0408",
+        "0409",
+        "0410",
+        "0411",
+        "0412",
+        "0413",
+        "0414",
+        "0415",
+        "0416",
+        "0417",
+        "0418",
+        "0419",
+        "0420",
+        "0421",
+        "0422",
+        "0423"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-vita-inclusarum",
+  "slug": "de-vita-inclusarum",
+  "draft": false,
+  "meta": {
+    "id": "denis-de-vita-inclusarum",
+    "cover": "label",
+    "name": {
+      "la": "De vita inclusarum",
+      "en-US": "On the Life of Anchoresses",
+      "pt-BR": "Sobre a vida das reclusas"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De vita inclusarum.",
+      "en-US": "One of Denis the Carthusian's minor works.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomnia38deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  }
+}

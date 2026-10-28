@@ -1,0 +1,323 @@
+{
+ "pericopes": [
+  1,
+  7,
+  15,
+  21,
+  23
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Luke: measured, warm, orderly storyteller."
+  },
+  "john-the-baptist": {
+   "name": "John the Baptist",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Prophet in the desert; fiery preacher of penance, plain and direct in his counsels."
+  },
+  "crowd": {
+   "name": "The crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The people: those who come to John for baptism, and those in the synagogues of Nazareth and Capharnaum."
+  },
+  "publicans": {
+   "name": "Publicans",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tax collectors come to be baptized; respectful, asking what to do."
+  },
+  "soldiers": {
+   "name": "Soldiers",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Soldiers come to John; blunt, asking what to do."
+  },
+  "god-the-father": {
+   "name": "God the Father",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The voice from heaven at the baptism; solemn and loving."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and Philip his brother tetrarch of Iturea and the country of Trachonitis, and Lysanias tetrarch of Abilina:"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Under the high priests Anna and Caiphas: the word of the Lord was made unto John, the son of Zachary, in the desert."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And he came into all the country about the Jordan, preaching the baptism of penance for the remission of sins."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "As it was written in the book of the sayings of Isaias the prophet: A voice of one crying in the wilderness: Prepare ye the way of the Lord, make straight his paths."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Every valley shall be filled and every mountain and hill shall be brought low: and the crooked shall be made straight, and the rough ways plain."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And all flesh shall see the salvation of God."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "He said therefore to the multitudes that went forth to be baptized by him:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "Ye offspring of vipers, who hath shewed you to flee from the wrath to come?"
+   }
+  ],
+  "8": [
+   {
+    "s": "john-the-baptist",
+    "t": "Bring forth therefore fruits worthy of penance: and do not begin to say, We have Abraham for our father. For I say unto you that God is able of these stones, to raise up children to Abraham."
+   }
+  ],
+  "9": [
+   {
+    "s": "john-the-baptist",
+    "t": "For now the axe is laid to the root of the trees. Every tree therefore that bringeth not forth good fruit shall be cut down and cast into the fire."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And the people asked him, saying:"
+   },
+   {
+    "s": "crowd",
+    "t": "What then shall we do?"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And he answering, said to them:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "He that hath two coats, let him give to him that hath none; and he that hath meat, let him do in like manner."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And the publicans also came to be baptized and said to him:"
+   },
+   {
+    "s": "publicans",
+    "t": "Master, what shall we do?"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "But he said to them:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "Do nothing more than that which is appointed you."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And the soldiers also asked him, saying:"
+   },
+   {
+    "s": "soldiers",
+    "t": "And what shall we do?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "Do violence to no man, neither calumniate any man; and be content with your pay."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And as the people were of opinion, and all were thinking in their hearts of John, that perhaps he might be the Christ:"
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "John answered, saying unto all:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "I indeed baptize you with water: but there shall come one mightier than I, the latchet of whose shoes I am not worthy to loose. He shall baptize you with the Holy Ghost and with fire;"
+   }
+  ],
+  "17": [
+   {
+    "s": "john-the-baptist",
+    "t": "Whose fan is in his hand: and he will purge his floor and will gather the wheat into his barn: but the chaff he will burn with unquenchable fire."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And many other things exhorting did he preach to the people."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "But Herod the tetrarch, when he was reproved by him for Herodias, his brother's wife, and for all the evils which Herod had done:"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "He added this also above all and shut up John in prison."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Now it came to pass, when all the people were baptized, that Jesus also being baptized and praying, heaven was opened."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And the Holy Ghost descended in a bodily shape, as a dove, upon him. And a voice came from heaven:"
+   },
+   {
+    "s": "god-the-father",
+    "t": "Thou art my beloved Son. In thee I am well pleased."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And Jesus himself was beginning about the age of thirty years: being (as it was supposed) the son of Joseph, who was of Heli, who was of Mathat,"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Who was of Levi, who was of Melchi. who was of Janne, who was of Joseph,"
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Who was of Mathathias, who was of Amos, who was of Nahum, who was of Hesli, who was of Nagge,"
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Who was of Mahath, who was of Mathathias, who was of Semei, who was of Joseph, who was of Juda,"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Who was of Joanna, who was of Reza, who was of Zorobabel, who was of Salathiel, who was of Neri,"
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Who was of Melchi, who was of Addi, who was of Cosan, who was of Helmadan, who was of Her,"
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Who was of Jesus, who was of Eliezer, who was of Jorim, who was of Mathat, who was of Levi,"
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "Who was of Simeon, who was of Judas, who was of Joseph, who was of Jona, who was of Eliakim,"
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Who was of Melea, who was of Menna, who was of Mathatha, who was of Nathan, who was of David,"
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "Who was of Jesse, who was of Obed, who was of Booz, who was of Salmon, who was of Naasson,"
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Who was of Aminadab, who was of Aram, who was of Esron, who was of Phares, who was of Judas,"
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Who was of Jacob, who was of Isaac, who was of Abraham, who was of Thare, who was of Nachor,"
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Who was of Sarug, who was of Ragau, who was of Phaleg, who was of Heber, who was of Sale,"
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "Who was of Cainan, who was of Arphaxad, who was of Sem, who was Of Noe, who was of Lamech,"
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "Who was of Mathusale, who was of Henoch, who was of Jared, who was of Malaleel, who was of Cainan,"
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Who was of Henos, who was of Seth, who was of Adam, who was of God."
+   }
+  ]
+ }
+}

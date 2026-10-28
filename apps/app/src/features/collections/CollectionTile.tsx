@@ -11,7 +11,7 @@ import { Image } from 'expo-image'
 import type { Href } from 'expo-router'
 import { Check } from 'lucide-react-native'
 import { StyleSheet } from 'react-native'
-import { YStack } from 'tamagui'
+import { Text, YStack } from 'tamagui'
 
 import { AnimatedPressable, ZoomLink } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
@@ -69,6 +69,8 @@ const softHyphenate = (text: string): string =>
     }
     return out
   })
+
+const captionLineHeight = 18
 
 export function CollectionTile({
   item,
@@ -150,10 +152,27 @@ export function CollectionTile({
     return (
       <ZoomLink href={href}>
         <AnimatedPressable accessibilityRole="link" accessibilityLabel={label}>
-          <YStack flex={1} justifyContent="flex-end">
-            <YStack>
-              <GeneratedCover cover={cover} title={label} tone={tone} width={coverWidth} />
-              {inPlan && <InPlanBadge inset={coverWidth * 0.1} />}
+          <YStack gap="$sm">
+            {/* A height of its own, not a share of the row's: a shelf that wraps
+                gives its lines no height to share, and the covers collapsed. */}
+            <YStack height={Math.round(width / aspectRatio)} justifyContent="flex-end">
+              <YStack>
+                <GeneratedCover cover={cover} title={label} tone={tone} width={coverWidth} />
+                {inPlan && <InPlanBadge inset={coverWidth * 0.1} />}
+              </YStack>
+            </YStack>
+            {/* The name beneath, as on the shelf cards: two lines' room whatever
+                its length, so a row of covers keeps one baseline. */}
+            <YStack width={coverWidth} height={captionLineHeight * 2}>
+              <Text
+                fontFamily="$heading"
+                fontSize="$2"
+                lineHeight={captionLineHeight}
+                color="$color"
+                numberOfLines={2}
+              >
+                {label}
+              </Text>
             </YStack>
           </YStack>
         </AnimatedPressable>

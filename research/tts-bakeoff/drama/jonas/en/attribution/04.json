@@ -1,0 +1,125 @@
+{
+ "pericopes": [
+  1,
+  5
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Jonas briskly, including every speech introduction and aside."
+  },
+  "jonas": {
+   "name": "Jonas",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The reluctant prophet, son of Amathi; resigned in the storm, fervent in prayer, sullen and angry at Ninive's pardon."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to his prophet; commanding, then patient and gently questioning."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Jonah was exceedingly troubled, and was angry:"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And he prayed to the Lord, and said:"
+   },
+   {
+    "s": "jonas",
+    "t": "I beseech thee, O Lord, is not this what I said, when I was yet in my own country? therefore I went before to flee into Tharsis: for I know that thou art a gracious and merciful God, patient, and of much compassion, and easy to forgive evil."
+   }
+  ],
+  "3": [
+   {
+    "s": "jonas",
+    "t": "And now, O Lord, I beseech thee take my life from me: for it is better for me to die than to live."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Dost thou think thou hast reason to be angry?"
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Then Jonah went out of the city, and sat toward the east side of the city: and he made himself a booth there, and he sat under it in the shadow, till he might see what would befall the city."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the Lord God prepared an ivy, and it came up over the head of Jonah, to be a shadow over his head, and to cover him (for he was fatigued): and Jonah was exceeding glad of the ivy."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "But God prepared a worm, when the morning arose on the following day: and it struck the ivy and it withered."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And when the sun was risen, the Lord commanded a hot and burning wind: and the sun beat upon the head of Jonah, and he broiled with the heat: and he desired for his soul that he might die, and said:"
+   },
+   {
+    "s": "jonas",
+    "t": "It is better for me to die than to live."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Jonah:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Dost thou think thou hast reason to be angry, for the ivy?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "jonas",
+    "t": "I am angry with reason even unto death."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Thou art grieved for the ivy, for which thou hast not laboured, nor made it to grow, which in one night came up, and in one night perished."
+   }
+  ],
+  "11": [
+   {
+    "s": "the-lord",
+    "t": "And shall I not spare Ninive, that great city, in which there are more than a hundred and twenty thousand persons, that know not how to distinguish between their right hand and their left, and many beasts?"
+   }
+  ]
+ }
+}

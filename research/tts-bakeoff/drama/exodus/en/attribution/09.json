@@ -1,0 +1,278 @@
+{
+ "pericopes": [
+  1,
+  8,
+  13
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of the deliverance from Egypt: measured, solemn, unhurried."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to Moses: sovereign and patient, commanding and announcing each plague."
+  },
+  "moses": {
+   "name": "Moses",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Eighty years old; diffident before God, firm and unbending before Pharao."
+  },
+  "pharaoh": {
+   "name": "Pharao",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "King of Egypt: proud, bargaining under pressure, relenting and then hardening again."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Go in to Pharao, and speak to him: Thus saith the Lord God of the Hebrews: Let my people go to sacrifice to me."
+   }
+  ],
+  "2": [
+   {
+    "s": "the-lord",
+    "t": "But if thou refuse, and withhold them still:"
+   }
+  ],
+  "3": [
+   {
+    "s": "the-lord",
+    "t": "Behold my hand shall be upon thy fields; and a very grievous murrain upon thy horses, and asses, and camels, and oxen, and sheep."
+   }
+  ],
+  "4": [
+   {
+    "s": "the-lord",
+    "t": "And the Lord will make a wonderful difference between the possessions of Israel and the possessions of the Egyptians, that nothing at all shall die of those things that belong to the children of Israel."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And the Lord appointed a time, saying:"
+   },
+   {
+    "s": "the-lord",
+    "t": "To morrow will the Lord do this thing in the land.",
+    "q": "The Lord names himself in the third person; could be heard as Moses relaying the appointed time, but the text gives it as the Lord's own word."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "The Lord therefore did this thing the next day: and all the beasts of the Egyptians died, but of the beasts of the children of Israel there died not one."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And Pharao sent to see; and there was not any thing dead of that which Israel possessed. And Pharao's heart was hardened, and he did not let the people go."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Moses and Aaron:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Take to you handfuls of ashes out of the chimney, and let Moses sprinkle it in the air in the presence of Pharao."
+   }
+  ],
+  "9": [
+   {
+    "s": "the-lord",
+    "t": "And be there dust upon all the land of Egypt: for there shall be boils and swelling blains both in men and beasts, in the whole land of Egypt."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And they took ashes out of the chimney, and stood before Pharao, and Moses sprinkled it in the air; and there came boils with swelling blains in men and beasts."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Neither could the magicians stand before Moses, for the boils that were upon them, and in all the land of Egypt."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And the Lord hardened Pharao's heart, and he hearkened not unto them, as the Lord had spoken to Moses."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Arise in the morning, and stand before Pharao, and thou shalt say to him: Thus saith the Lord, the God of the Hebrews: Let my people go to sacrifice to me."
+   }
+  ],
+  "14": [
+   {
+    "s": "the-lord",
+    "t": "For I will at this time send all my plagues upon thy heart, and upon thy servants, and upon thy people; that thou mayst know that there is none like me in all the earth."
+   }
+  ],
+  "15": [
+   {
+    "s": "the-lord",
+    "t": "For now I will stretch out my hand to strike thee, and thy people, with pestilence, and thou shalt perish from the earth."
+   }
+  ],
+  "16": [
+   {
+    "s": "the-lord",
+    "t": "And therefore have I raised thee, that I may shew my power in thee, and my name may be spoken of throughout all the earth."
+   }
+  ],
+  "17": [
+   {
+    "s": "the-lord",
+    "t": "Dost thou yet hold back my people; and wilt thou not let them go?"
+   }
+  ],
+  "18": [
+   {
+    "s": "the-lord",
+    "t": "Behold I will cause it to rain to morrow at this same hour, an exceeding great hail; such as hath not been in Egypt from the day that it was founded, until this present time."
+   }
+  ],
+  "19": [
+   {
+    "s": "the-lord",
+    "t": "Send therefore now presently, and gather together thy cattle, and all that thou hast in the field; for men and beasts, and all things that shall be found abroad, and not gathered together out of the fields which the hail shall fall upon, shall die."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "He that feared the word of the Lord among Pharao's servants, made his servants and his cattle flee into houses:"
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "But he that regarded not the word of the Lord, left his servants, and his cattle in the fields."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Stretch forth thy hand towards heaven, that there may be hail in the whole land of Egypt upon men, and upon beasts, and upon every herb of the field in the land of Egypt."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And Moses stretched forth his rod towards heaven, and the Lord sent thunder and hail, and lightnings running along the ground: and the Lord rained hail upon the land of Egypt."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And the hail and fire mixt with it drove on together: and it was of so great bigness, as never before was seen in the whole land of Egypt since that nation was founded."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And the hail destroyed through all the land of Egypt all things that were in the fields, both man and beast: and the hail smote every herb of the field, and it broke every tree of the country."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Only in the land of Gessen, where the children of Israel were, the hail fell not."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And Pharao sent and called Moses and Aaron, saying to them:"
+   },
+   {
+    "s": "pharaoh",
+    "t": "I have sinned this time also, the Lord is just: I and my people, are wicked."
+   }
+  ],
+  "28": [
+   {
+    "s": "pharaoh",
+    "t": "Pray ye to the Lord that the thunderings of God and the hail may cease: that I may let you go, and that ye may stay here no longer."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Moses said:"
+   },
+   {
+    "s": "moses",
+    "t": "As soon as I am gone out of the city, I will stretch forth my hands to the Lord, and the thunders shall cease, and the hail shall be no more: that thou mayst know that the earth is the Lord's:"
+   }
+  ],
+  "30": [
+   {
+    "s": "moses",
+    "t": "But I know that neither thou, nor thy servants do yet fear the Lord God."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "The flax therefore, and the barley were hurt, because the barley was green, and the flax was now bolled;"
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "But the wheat, and other winter corn were not hurt, because they were lateward."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And when Moses was gone from Pharao out of the city, he stretched forth his hands to the Lord: and the thunders and the hail ceased, neither did there drop any more rain upon the earth."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And Pharao seeing that the rain, and the hail, and the thunders were ceased, increased his sin:"
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And his heart was hardened, and the heart of his servants, and it was made exceeding hard: neither did he let the children of Israel go, as the Lord had commanded by the hand of Moses."
+   }
+  ]
+ }
+}

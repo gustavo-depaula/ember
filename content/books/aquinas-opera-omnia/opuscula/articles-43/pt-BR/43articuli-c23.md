@@ -1,0 +1,5 @@
+# Artigo 32
+
+O trigésimo segundo artigo é se é lícito disputar se a alma de Cristo provém por propagação (*ex traduce*), determinando o que é verdadeiro.
+
+Este artigo foi posto de modo dúbio. Pois, se se entende que é lícito disputar e determinar que é verdade que a alma de Cristo provém por propagação, é errôneo, porque a alma de nenhum homem provém por propagação: muito menos, pois, a alma de Cristo, cujo próprio corpo foi formado pela virtude do Espírito Santo. Se, porém, se entende que é lícito disputar se a alma de Cristo provém por propagação, e determinar acerca disso aquilo que a fé católica verdadeiramente sustenta, a saber, que não, não vejo por que isso não seja lícito, visto que diariamente, nas escolas dos mestres, se disputa tanto sobre a Trindade como sobre os outros artigos da fé, não por dúvida, mas pela inteligência, manifestação e confirmação da verdade. Isto, contudo, poderia ser mau por acidente em algum caso: por exemplo, se tais coisas se disputassem diante de pessoas simples e propensas a errar.

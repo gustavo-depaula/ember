@@ -2,13 +2,16 @@
   "id": "john-chrysostom-homily-against-publishing-the-errors-of-the-brethren",
   "cover": "quarter",
   "name": {
-    "en-US": "Homily Against Publishing the Errors of the Brethren"
+    "en-US": "Homily Against Publishing the Errors of the Brethren",
+    "pt-BR": "Homilia contra a divulgação dos erros dos irmãos"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Homily Against Publishing the Errors of the Brethren"
+        "en-US": "Homily Against Publishing the Errors of the Brethren",
+        "pt-BR": "Homilia contra a divulgação dos erros dos irmãos"
       }
     }
   ]

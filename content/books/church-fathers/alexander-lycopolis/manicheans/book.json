@@ -2,13 +2,16 @@
   "id": "alexander-lycopolis-manicheans",
   "cover": "quarter",
   "name": {
-    "en-US": "Of the Manicheans"
+    "en-US": "Of the Manicheans",
+    "pt-BR": "Sobre os maniqueus"
   },
   "author": {
-    "en-US": "Alexander of Lycopolis"
+    "en-US": "Alexander of Lycopolis",
+    "pt-BR": "Alexandre de Licópolis"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Of the Manicheans"
+        "en-US": "Of the Manicheans",
+        "pt-BR": "Sobre os maniqueus"
       }
     }
   ]

@@ -20,17 +20,14 @@ import {
   rememberManifestBody,
   setCatalog,
 } from './contentIndex'
-import { pickAvailableLang } from './langAliases'
 import { readManifestSnapshot, writeManifestSnapshot } from './manifestSnapshot'
 import type {
   BlobRef,
   Catalog,
   ChapterManifest,
   CreatorManifest,
-  LangSplitItemManifest,
   PracticeManifest,
 } from './manifestTypes'
-import { mergeLangs } from './mergeLangs'
 import { getJson, getText } from './store'
 import type {
   CycleData,
@@ -220,7 +217,7 @@ export async function warmDeferredManifests(): Promise<void> {
 // loads without re-canonicalizing.
 function residentItem<T>(
   id: string,
-  kind: 'practice' | 'chapter' | 'book' | 'mass' | 'creator',
+  kind: 'practice' | 'chapter' | 'book' | 'creator',
 ): { canonical: string; item: T | undefined } {
   const canonical = canonicalize(id, kind)
   if (!canonical) return { canonical: '', item: undefined }
@@ -471,37 +468,4 @@ export async function prefetchChapterProse(
 
 export function getProseText(filePath: string): LocalizedContent | undefined {
   return proseCache.get(filePath)
-}
-
-/**
- * Load an OF mass proper, recombining shape + per-language blobs into a
- * single object that mass-of can consume.
- */
-export async function loadMassProper(
-  massId: string,
-  langs: string[],
-): Promise<unknown | undefined> {
-  const canonical = canonicalize(massId, 'mass') ?? massId
-  const entry = getEntry(canonical)
-  if (!entry) return undefined
-  const resolved = await ensureManifestBody<LangSplitItemManifest>(entry.hash)
-
-  const fetched: Array<{ requested: string; available: string }> = []
-  for (const l of langs) {
-    const avail = pickAvailableLang(l, resolved.langs)
-    if (avail) fetched.push({ requested: l, available: avail })
-  }
-  const [shape, ...langPayloads] = await Promise.all([
-    getJson<unknown>(resolved.shape.hash),
-    ...fetched.map(({ available }) =>
-      getJson<unknown>((resolved.langs[available] as BlobRef).hash),
-    ),
-  ])
-  // Key by the corpus' lang code ('en', 'pt-BR', 'la'), not the requested
-  // BCP47 code: consumers read `body.plain[emberExtraLang('en-US')]`, so any
-  // other key makes English (or any lang where requested ≠ available) render empty.
-  const payloadsByLang = Object.fromEntries(
-    fetched.map(({ available }, i) => [available, langPayloads[i]] as const),
-  )
-  return mergeLangs(shape, payloadsByLang)
 }

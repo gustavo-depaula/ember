@@ -1,10 +1,10 @@
 import { useQueryClient } from '@tanstack/react-query'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { ScrollView, useWindowDimensions } from 'react-native'
+import { ScrollView } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout, Typography } from '@/components'
+import { AnimatedPressable, ScreenLayout, Typography, useRoomWidth } from '@/components'
 import { openExternalUrl, SUGGEST_CREATOR_URL } from '@/config/links'
 import { getEntriesByKind } from '@/content/contentIndex'
 import type { CatalogEntry, CreatorLanguage } from '@/content/manifestTypes'
@@ -85,7 +85,7 @@ export function CreatorsScreen() {
   const qc = useQueryClient()
   const catalogVersion = useCatalogVersion()
   const [filter, setFilter] = useState<LangFilter>('all')
-  const { width: screenWidth } = useWindowDimensions()
+  const screenWidth = useRoomWidth()
   const gridCardSize = useMemo(() => {
     const effectiveWidth = Math.min(screenWidth, GRID_MAX_WIDTH)
     return Math.floor((effectiveWidth - 2 * PAGE_PAD - GRID_GAP) / 2)

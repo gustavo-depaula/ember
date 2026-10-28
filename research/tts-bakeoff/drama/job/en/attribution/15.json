@@ -1,0 +1,230 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "eliphaz": {
+   "name": "Eliphaz the Themanite",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Eldest of Job's three friends; grave, appeals to tradition and the fate of the wicked."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Eliphaz the Themanite, answered, and said:"
+   }
+  ],
+  "2": [
+   {
+    "s": "eliphaz",
+    "t": "Will a wise man answer as if he were speaking in the wind, and fill his stomach with burning heat?"
+   }
+  ],
+  "3": [
+   {
+    "s": "eliphaz",
+    "t": "Thou reprovest him by words, who is not equal to thee, and thou speakest that which is not good for thee."
+   }
+  ],
+  "4": [
+   {
+    "s": "eliphaz",
+    "t": "As much as is in thee, thou hast made void fear, and hast taken away prayers from before God."
+   }
+  ],
+  "5": [
+   {
+    "s": "eliphaz",
+    "t": "For thy iniquity hath taught thy mouth, and thou imitatest the tongue of blasphemers."
+   }
+  ],
+  "6": [
+   {
+    "s": "eliphaz",
+    "t": "Thy own mouth shall condemn thee, and not I: and thy own lips shall answer thee."
+   }
+  ],
+  "7": [
+   {
+    "s": "eliphaz",
+    "t": "Art thou the first man that was born, or wast thou made before the hills?"
+   }
+  ],
+  "8": [
+   {
+    "s": "eliphaz",
+    "t": "Hast thou heard God's counsel, and shall his wisdom be inferior to thee?"
+   }
+  ],
+  "9": [
+   {
+    "s": "eliphaz",
+    "t": "What knowest thou that we are ignorant of? what dost thou understand that we know not?"
+   }
+  ],
+  "10": [
+   {
+    "s": "eliphaz",
+    "t": "There are with us also aged and ancient men, much elder than thy fathers."
+   }
+  ],
+  "11": [
+   {
+    "s": "eliphaz",
+    "t": "Is it a great matter that God should comfort thee? but thy wicked words hinder this."
+   }
+  ],
+  "12": [
+   {
+    "s": "eliphaz",
+    "t": "Why doth thy heart elevate thee, and why dost thou stare with thy eyes, as if they were thinking great things?"
+   }
+  ],
+  "13": [
+   {
+    "s": "eliphaz",
+    "t": "Why doth thy spirit swell against God, to utter such words out of thy mouth?"
+   }
+  ],
+  "14": [
+   {
+    "s": "eliphaz",
+    "t": "What is man that he should be without spot, and he that is born of a woman that he should appear just?"
+   }
+  ],
+  "15": [
+   {
+    "s": "eliphaz",
+    "t": "Behold among his saints none is unchangeable, and the heavens are not pure in his sight."
+   }
+  ],
+  "16": [
+   {
+    "s": "eliphaz",
+    "t": "How much more is man abominable, and unprofitable, who drinketh iniquity like water?"
+   }
+  ],
+  "17": [
+   {
+    "s": "eliphaz",
+    "t": "I will shew thee, hear me: and I will tell thee what I have seen."
+   }
+  ],
+  "18": [
+   {
+    "s": "eliphaz",
+    "t": "Wise men confess and hide not their fathers."
+   }
+  ],
+  "19": [
+   {
+    "s": "eliphaz",
+    "t": "To whom alone the earth was given, and no stranger hath passed among them."
+   }
+  ],
+  "20": [
+   {
+    "s": "eliphaz",
+    "t": "The wicked man is proud all his days, and the number of the years of his tyranny is uncertain."
+   }
+  ],
+  "21": [
+   {
+    "s": "eliphaz",
+    "t": "The sound of dread is always in his ears: and when there is peace, he always suspecteth treason."
+   }
+  ],
+  "22": [
+   {
+    "s": "eliphaz",
+    "t": "He believeth not that he may return from darkness to light, looking round about for the sword on every side."
+   }
+  ],
+  "23": [
+   {
+    "s": "eliphaz",
+    "t": "When he moveth himself to seek bread, he knoweth that the day of darkness is ready at his hand."
+   }
+  ],
+  "24": [
+   {
+    "s": "eliphaz",
+    "t": "Tribulation shall terrify him, and distress shall surround him, as a king that is prepared for the battle."
+   }
+  ],
+  "25": [
+   {
+    "s": "eliphaz",
+    "t": "For he hath stretched out his hand against God, and hath strengthened himself against the Almighty."
+   }
+  ],
+  "26": [
+   {
+    "s": "eliphaz",
+    "t": "He hath run against him with his neck raised up, and is armed with a fat neck."
+   }
+  ],
+  "27": [
+   {
+    "s": "eliphaz",
+    "t": "Fatness hath covered his face, and the fat hangeth down on his sides."
+   }
+  ],
+  "28": [
+   {
+    "s": "eliphaz",
+    "t": "He hath dwelt in desolate cities, and in desert houses that are reduced into heaps."
+   }
+  ],
+  "29": [
+   {
+    "s": "eliphaz",
+    "t": "He shall not be enriched, neither shall his substance continue, neither shall he push his root in the earth."
+   }
+  ],
+  "30": [
+   {
+    "s": "eliphaz",
+    "t": "He shall not depart out of darkness: the flame shall dry up his branches, and he shall be taken away by the breath of his own mouth."
+   }
+  ],
+  "31": [
+   {
+    "s": "eliphaz",
+    "t": "He shall not believe, being vainly deceived by error, that he may be redeemed with any price."
+   }
+  ],
+  "32": [
+   {
+    "s": "eliphaz",
+    "t": "Before his days be full he shall perish: and his hands shall wither away."
+   }
+  ],
+  "33": [
+   {
+    "s": "eliphaz",
+    "t": "He shall be blasted as a vine when its grapes are in the first flower, and as an olive tree that casteth its flower."
+   }
+  ],
+  "34": [
+   {
+    "s": "eliphaz",
+    "t": "For the congregation of the hypocrite is barren, and fire shall devour their tabernacles, who love to take bribes."
+   }
+  ],
+  "35": [
+   {
+    "s": "eliphaz",
+    "t": "He hath conceived sorrow, and hath brought forth iniquity, and his womb prepareth deceits."
+   }
+  ]
+ }
+}

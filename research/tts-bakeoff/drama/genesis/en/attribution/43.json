@@ -1,0 +1,329 @@
+{
+ "pericopes": [
+  1,
+  15,
+  26
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Joseph in Egypt; steady, warm storyteller."
+  },
+  "joseph-the-patriarch": {
+   "name": "Joseph",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jacob's son, about thirty to forty, governor of Egypt; wise and commanding, stern with his brothers while hiding deep emotion, tender when he reveals himself."
+  },
+  "josephs-brothers": {
+   "name": "Joseph's brothers",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The sons of Jacob speaking together; humble and frightened before the lord of Egypt, uneasy in conscience."
+  },
+  "jacob": {
+   "name": "Jacob",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The aged patriarch, also called Israel; anxious, grieving for his lost sons, reluctant to let Benjamin go."
+  },
+  "judah": {
+   "name": "Juda",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Fourth son of Jacob, spokesman of the brothers; earnest, firm with his father, humble and pleading before Joseph."
+  },
+  "josephs-steward": {
+   "name": "Joseph's steward",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Egyptian steward of Joseph's house; courteous and reassuring, then stern when he accuses them."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "In the mean time the famine was heavy upon all the land."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And when they had eaten up all the corn, which they had brought out of Egypt, Jacob said to his sons:"
+   },
+   {
+    "s": "jacob",
+    "t": "Go again, and buy us a little food."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Juda answered:"
+   },
+   {
+    "s": "judah",
+    "t": "The man declared unto us with the attestation of an oath, saying: You shall not see my face, unless you bring your youngest brother with you."
+   }
+  ],
+  "4": [
+   {
+    "s": "judah",
+    "t": "If therefore thou wilt send him with us, we will set out together, and will buy necessaries for thee."
+   }
+  ],
+  "5": [
+   {
+    "s": "judah",
+    "t": "But if thou wilt not, we will not go: for the man, as we have often said, declared unto us, saying: You shall not see my face without your youngest brother."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Israel said to them:"
+   },
+   {
+    "s": "jacob",
+    "t": "You have done this for my misery, in that you told him you had also another brother."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "But they answered:"
+   },
+   {
+    "s": "josephs-brothers",
+    "t": "The man asked us in order concerning our kindred: if our father lived: if we had a brother: and we answered him regularly, according to what he demanded: could we know that he would say: Bring hither your brother with you?"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And Juda said to his father:"
+   },
+   {
+    "s": "judah",
+    "t": "Send the boy with me, that we may set forward, and may live: lest both we and our children perish."
+   }
+  ],
+  "9": [
+   {
+    "s": "judah",
+    "t": "I take the boy upon me, require him at my hand: unless I bring him again, and restore him to thee, I will be guilty of sin against thee for ever."
+   }
+  ],
+  "10": [
+   {
+    "s": "judah",
+    "t": "If delay had not been made, we had been here again the second time."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Then Israel said to them:"
+   },
+   {
+    "s": "jacob",
+    "t": "If it must needs be so, do what you will: take of the best fruits of the land in your vessels, and carry down presents to the man, a little balm, and honey, and storax, myrrh, turpentine, and almonds."
+   }
+  ],
+  "12": [
+   {
+    "s": "jacob",
+    "t": "And take with you double money, and carry back what you found in your sacks, lest perhaps it was done by mistake."
+   }
+  ],
+  "13": [
+   {
+    "s": "jacob",
+    "t": "And take also your brother, and go to the man."
+   }
+  ],
+  "14": [
+   {
+    "s": "jacob",
+    "t": "And may my almighty God make him favourable to you: and send back with you your brother, whom he keepeth, and this Benjamin: and as for me I shall be desolate without children."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "So the men took the presents, and double money, and Benjamin: and went down into Egypt, and stood before Joseph."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And when he had seen them, and Benjamin with them, he commanded the steward of his house, saying:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "Bring in the men into the house, and kill victims, and prepare a feast: because they shall eat with me at noon."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "He did as he was commanded, and brought the men into the house."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And they being much afraid, said there one to another:"
+   },
+   {
+    "s": "josephs-brothers",
+    "t": "Because of the money, which we carried back the first time in our sacks, we are brought in: that he may bring upon us a false accusation, and by violence make slaves of us and our asses."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Wherefore, going up to the steward of the house, at the door,"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "They said:"
+   },
+   {
+    "s": "josephs-brothers",
+    "t": "Sir, we desire thee to hear us. We came down once before to buy food:"
+   }
+  ],
+  "21": [
+   {
+    "s": "josephs-brothers",
+    "t": "And when we had bought, and were come to the inn, we opened our sacks, and found our money in the mouths of the sacks: which we have now brought again in the same weight."
+   }
+  ],
+  "22": [
+   {
+    "s": "josephs-brothers",
+    "t": "And we have brought other money besides, to buy what we want: we cannot tell who put it in our bags."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "But he answered:"
+   },
+   {
+    "s": "josephs-steward",
+    "t": "Peace be with you, fear not: your God, and the God of your father, hath given you treasure in your sacks. For the money, which you gave me, I have for good."
+   },
+   {
+    "s": "narrator",
+    "t": "And he brought Simeon out to them."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And having brought them into the house, he fetched water, and they washed their feet, and he gave provender to their asses."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "But they made ready the presents, against Joseph came at noon: for they had heard that they should eat bread there."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Then Joseph came in to his house, and they offered him the presents, holding them in their hands; and they bowed down with their face to the ground."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "But he courteously saluting them again, asked them, saying:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "Is the old man your father in health, of whom you told me? Is he yet living?"
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And they answered:"
+   },
+   {
+    "s": "josephs-brothers",
+    "t": "Thy servant our father, is in health; he is yet living."
+   },
+   {
+    "s": "narrator",
+    "t": "And bowing themselves, they made obeisance to him."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And Joseph lifting up his eyes, saw Benjamin, his brother by the same mother, and said:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "Is this your young brother, of whom you told me?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "God be gracious to thee, my son."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And he made haste, because his heart was moved upon his brother, and tears gushed out: and going into his chamber, he wept."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And when he had washed his face, coming out again, he refrained himself, and said:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "Set bread on the table."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And when it was set on, for Joseph apart, and for his brethren apart, for the Egyptians also that ate with him apart, (for it is unlawful for the Egyptians to eat with the Hebrews, and they think such a feast profane):"
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "They sat before him, the firstborn according to his birthright, and the youngest according to his age. And they wondered very much;"
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Taking the messes which they received of him: and the greater mess came to Benjamin, so that it exceeded by five parts. And they drank, and were merry with him."
+   }
+  ]
+ }
+}

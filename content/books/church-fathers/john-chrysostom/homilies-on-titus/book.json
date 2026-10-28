@@ -2,13 +2,16 @@
   "id": "john-chrysostom-homilies-on-titus",
   "cover": "quarter",
   "name": {
-    "en-US": "Homilies on Titus"
+    "en-US": "Homilies on Titus",
+    "pt-BR": "Homilias sobre a Epístola a Tito"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,37 +24,43 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Homily 1"
+        "en-US": "Homily 1",
+        "pt-BR": "Homilia 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Homily 2"
+        "en-US": "Homily 2",
+        "pt-BR": "Homilia 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Homily 3"
+        "en-US": "Homily 3",
+        "pt-BR": "Homilia 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Homily 4"
+        "en-US": "Homily 4",
+        "pt-BR": "Homilia 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Homily 5"
+        "en-US": "Homily 5",
+        "pt-BR": "Homilia 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Homily 6"
+        "en-US": "Homily 6",
+        "pt-BR": "Homilia 6"
       }
     }
   ]

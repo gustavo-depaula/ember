@@ -1,0 +1,2346 @@
+{
+ "id": "sanctorale.09-16",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 16 septembris"
+       ],
+       [
+        "Ss. Cornelii, papæ, et Cypriani, episcopi, martyrum"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 de Setembro"
+       ],
+       [
+        "São Cornélio, papa, e São Cipriano, bispo, mártires"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "September 16"
+       ],
+       [
+        "Ss. Cornelius, pope, and Cyprian, bishop, martyrs"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memorial"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 de septiembre"
+       ],
+       [
+        "San Cornelio y san Cipriano, obispos y mártires"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 settembre"
+       ],
+       [
+        "Santi Cornelio, papa e Cipriano, vescovo, martiri"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 septembre"
+       ],
+       [
+        "Saint Corneille, pape, et saint Cyprien, évêque, martyrs"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Mémoire"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16. September"
+       ],
+       [
+        "Hl. Kornelius, Papst, und hl. Cyprian, Bischof, Märtyrer"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Gedenktag"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Semper mortificationem Iesu in corpore circumferentes."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ secúndæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "4, 7-15",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Habémus thesáurum istum in vasis fictílibus, ut sublímitas sit virtútis Dei et non ex nobis. In ómnibus tribulatiónem pátimur, sed non angustiámur; aporiámur, sed non destitúimur; persecutiónem pátimur, sed non derelínquimur; deícimur, sed non perímus; semper mortificatiónem Iesu in córpore circumferéntes, ut et vita Iesu in córpore nostro manifestétur. Semper enim nos, qui vívimus, in mortem trádimur propter Iesum, ut et vita Iesu manifestétur in carne nostra mortáli. Ergo mors in nobis operátur, vita autem in vobis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Habéntes autem eúndem spíritum fídei, sicut scriptum est: «Crédidi, propter quod locútus sum», et nos crédimus, propter quod et lóquimur, sciéntes quóniam, qui suscitávit Dóminum Iesum, et nos cum Iesu suscitábit et constítuet vobíscum. Omnia enim propter vos, ut grátia abúndans per multos gratiárum actiónem abundáre fáciat in glóriam Dei."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Levamos em nós os sofrimentos mortais de Jesus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Segunda Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "4, 7-15",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; perseguidos, mas não desamparados; derrubados, mas não aniquilados; por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. Assim, a morte age em nós, enquanto a vida age em vós. Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: \"Eu creio e, por isso, falei\", nós também cremos e, por isso, falamos, certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the second Letter of Saint Paul to the Corinthians"
+       ]
+      ],
+      "cite": "4:7-15",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We are only the earthenware jars that hold this treasure, to make it clear that such an overwhelming power comes from God and not from us. We are in difficulties on all sides, but never cornered; we see no answer to our problems, but never despair; we have been persecuted, but never deserted; knocked down, but never killed; always, wherever we may be, we carry with us in our body the death of Jesus, so that the life of Jesus, too, may always be seen in our body. Indeed, while we are still alive, we are consigned to our death every day, for the sake of Jesus, so that in our mortal flesh the life of Jesus, too, may be openly shown. So death is at work in us, but life in you. But as we have the same spirit of faith that is mentioned in scripture - I believed, and therefore I spoke - we too believe and therefore we too speak, knowing that he who raised the Lord Jesus to life will raise us with Jesus in our turn, and put us by his side and you with us. You see, all this is for your benefit, so that the more grace is multiplied among people, the more thanksgiving there will be, to the glory of God."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Llevando en el cuerpo la muerte de Jesús"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la segunda carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "4, 7-15",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Llevamos el tesoro en vasijas de barro, para que se vea que una fuerza tan extraordinaria es de Dios y no proviene de nosotros."
+       ],
+       [
+        "Atribulados en todo, mas no aplastados; apurados, mas no desesperados; perseguidos, pero no abandonados; derribados, mas no aniquilados, llevando siempre y en todas partes en el cuerpo la muerte de Jesús, para que también la vida de Jesús se manifieste en nuestro cuerpo."
+       ],
+       [
+        "Pues, mientras vivimos, continuamente nos están entregando a la muerte por causa de Jesús; para que también la vida de Jesús se manifieste en nuestra carne mortal. De este modo, la muerte actúa en nosotros, y la vida en vosotros."
+       ],
+       [
+        "Pero teniendo el mismo espíritu de fe, según lo que está escrito: «Creí, por eso hablé», también nosotros creemos y por eso hablamos; sabiendo que quien resucitó al Señor Jesús también nos resucitará a nosotros con Jesús y nos presentará con vosotros ante él."
+       ],
+       [
+        "Pues todo esto es para vuestro bien, a fin de que cuantos más reciban la gracia, mayor sea el agradecimiento, para gloria de Dios."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Portiamo nel nostro corpo la morte di Gesù."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla seconda lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "4, 7-15",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, noi abbiamo un tesoro in vasi di creta, affinché appaia che questa straordinaria potenza appartiene a Dio, e non viene da noi. In tutto, infatti, siamo tribolati, ma non schiacciati; siamo sconvolti, ma non disperati; perseguitati, ma non abbandonati; colpiti, ma non uccisi, portando sempre e dovunque nel nostro corpo la morte di Gesù, perché anche La vita di Gesù si manifesti nel nostro corpo. Sempre infatti, noi che siamo vivi, veniamo consegnati alla morte a causa di Gesù, perché anche la vita di Gesù si manifesti nella nostra carne mortale. Cosicché in noi agisce la morte, in voi la vita."
+       ],
+       [
+        "Animati tuttavia da quello stesso spirito di fede di cui sta scritto: «Ho creduto, perciò ho parlato», anche noi crediamo e perciò parliamo, convinti che colui che ha risuscitato il Signore Gesù, risusciterà anche noi con Gesù e ci porrà accanto a lui insieme con voi. Tutto infatti è per voi, perché la grazia, accresciuta a opera di molti, faccia abbondare l'inno di ringraziamento, per la gloria di Dio."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "4, 7-15",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, nous portons un trésor comme dans des vases d'argile ; ainsi, on voit bien que cette puissance extraordinaire appartient à Dieu et ne vient pas de nous. En toute circonstance, nous sommes dans la détresse, mais sans être angoissés ; nous sommes déconcertés, mais non désemparés ; nous sommes pourchassés, mais non pas abandonnés ; terrassés, mais non pas anéantis. Toujours nous portons, dans notre corps, la mort de Jésus, afin que la vie de Jésus, elle aussi, soit manifestée dans notre corps. En effet, nous, les vivants, nous sommes continuellement livrés à la mort à cause de Jésus, afin que la vie de Jésus, elle aussi, soit manifestée dans notre condition charnelle vouée à la mort. Ainsi la mort fait son œuvre en nous, et la vie en vous. L'Écriture dit : J'ai cru, c'est pourquoi j'ai parlé. Et nous aussi, qui avons le même esprit de foi, nous croyons, et c'est pourquoi nous parlons. Car, nous le savons, celui qui a ressuscité le Seigneur Jésus nous ressuscitera, nous aussi, avec Jésus, et il nous placera près de lui avec vous. Et tout cela, c'est pour vous, afin que la grâce, plus largement répandue dans un plus grand nombre, fasse abonder l'action de grâce pour la gloire de Dieu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem zweiten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "4, 7-15",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Den Schatz der Erkenntnis des göttlichen Glanzes auf dem Antlitz Christi tragen wir in zerbrechlichen Gefäßen; so wird deutlich, dass das Übermaß der Kraft von Gott und nicht von uns kommt. Von allen Seiten werden wir in die Enge getrieben und finden doch noch Raum; wir wissen weder aus noch ein und verzweifeln dennoch nicht; wir werden gehetzt und sind doch nicht verlassen; wir werden niedergestreckt und doch nicht vernichtet. Wohin wir auch kommen, immer tragen wir das Todesleiden Jesu an unserem Leib, damit auch das Leben Jesu an unserem Leib sichtbar wird. Denn immer werden wir, obgleich wir leben, um Jesu willen dem Tod ausgeliefert, damit auch das Leben Jesu an unserem sterblichen Fleisch offenbar wird. So erweist an uns der Tod, an euch aber das Leben seine Macht."
+       ],
+       [
+        "Doch haben wir den gleichen Geist des Glaubens, von dem es in der Schrift heißt: Ich habe geglaubt, darum habe ich geredet. Auch wir glauben und darum reden wir. Denn wir wissen, dass der, welcher Jesus, den Herrn, auferweckt hat, auch uns mit Jesus auferwecken und uns zusammen mit euch vor sein Angesicht stellen wird. Alles tun wir euretwegen, damit immer mehr Menschen aufgrund der überreich gewordenen Gnade den Dank vervielfachen, Gott zur Ehre."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.martyrs.second-reading.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.martyrs.second-reading.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 125(126), 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Salmo 125 (126)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 125, 1-2ab. 2cd-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 126 (125), 1-2b. 2c-3. 4-5. 6 (R.: 5)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In converténdo Dóminus captivitátem Sion,"
+       ],
+       [
+        "facti sumus quasi somniántes."
+       ],
+       [
+        "Tunc replétum est gáudio os nostrum,"
+       ],
+       [
+        "et lingua nostra exsultatióne."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando o Senhor reconduziu nossos cativos, parecíamos sonhar; encheu-se de sorriso nossa boca, nossos lábios, de canções."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "When the Lord delivered Zion from bondage, it seemed like a dream. Then was our mouth filled with laughter, on our lips there were songs."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cuando el Señor hizo volver a los cautivos de Sion, nos parecía soñar:"
+       ],
+       [
+        "la boca se nos llenaba de risas,"
+       ],
+       [
+        "la lengua de cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando il Signore ristabilì la sorte di Sion,"
+       ],
+       [
+        "ci sembrava di sognare."
+       ],
+       [
+        "Allora la nostra bocca si riempì di sorriso,"
+       ],
+       [
+        "la nostra lingua di gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quand le Seigneur ramena les captifs à Sion, *"
+       ],
+       [
+        "nous étions comme en rêve !"
+       ],
+       [
+        "Alors notre bouche était pleine de rires,"
+       ],
+       [
+        "nous poussions des cris de joie"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Als der Herr das Los der Gefangenschaft Zion wendete,"
+       ],
+       [
+        "da waren wir alle wie Träumende."
+       ],
+       [
+        "Da war unser Mund voll Lachen"
+       ],
+       [
+        "und unsere Zunge voll Jubel."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc dicébant inter gentes:"
+       ],
+       [
+        "«Magnificávit Dóminus fácere cum eis»."
+       ],
+       [
+        "Magnificávit Dóminus fácere nobíscum;"
+       ],
+       [
+        "facti sumus lætántes."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Entre os gentios se dizia: \"Maravilhas fez com eles o Senhor!\" Sim, maravilhas fez conosco o Senhor, exultemos de alegria!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The heathens themselves said: 'What marvels the Lord worked for them!' What marvels the Lord worked for us! Indeed we were glad."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hasta los gentiles decían:"
+       ],
+       [
+        "«El Señor ha estado grande con ellos»."
+       ],
+       [
+        "El Señor ha estado grande con nosotros,"
+       ],
+       [
+        "y estamos alegres."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allora si diceva tra le genti:"
+       ],
+       [
+        "«Il Signore ha fatto grandi cose per loro»."
+       ],
+       [
+        "Grandi cose ha fatto il Signore per noi:"
+       ],
+       [
+        "eravamo pieni di gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors on disait parmi les nations :"
+       ],
+       [
+        "\" Quelles merveilles fait pour eux le Seigneur ! \""
+       ],
+       [
+        "Quelles merveilles le Seigneur fit pour nous :"
+       ],
+       [
+        "nous étions en grande fête !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Da sagte man unter den andern Völkern:"
+       ],
+       [
+        "„Der Herr hat an ihnen Großes getan.“"
+       ],
+       [
+        "Ja, Großes hat der Herr an uns getan."
+       ],
+       [
+        "Da waren wir fröhlich."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Convérte, Dómine, captivitátem nostram,"
+       ],
+       [
+        "sicut torréntes in austro."
+       ],
+       [
+        "Qui séminant in lácrimis,"
+       ],
+       [
+        "in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mudai a nossa sorte, ó Senhor, como torrentes no deserto. Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deliver us, O Lord, from our bondage as streams in dry land. Those who are sowing in tears will sing when they reap."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recoge, Señor, a nuestros cautivos"
+       ],
+       [
+        "como los torrentes del Negueb."
+       ],
+       [
+        "Los que sembraban con lágrimas"
+       ],
+       [
+        "cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ristabilisci, Signore, la nostra sorte,"
+       ],
+       [
+        "come i torrenti del Negheb."
+       ],
+       [
+        "Chi semina nelle lacrime mieterà"
+       ],
+       [
+        "nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ramène, Seigneur, nos captifs,"
+       ],
+       [
+        "comme les torrents au désert."
+       ],
+       [
+        "Qui sème dans les larmes"
+       ],
+       [
+        "moissonne dans la joie. +"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wende doch, Herr, unser Geschick,"
+       ],
+       [
+        "wie du versiegte Bäche wieder füllst im Südland."
+       ],
+       [
+        "Die mit Tränen säen,"
+       ],
+       [
+        "werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eúntes ibant et flebant,"
+       ],
+       [
+        "semen spargéndum portántes;"
+       ],
+       [
+        "veniéntes autem vénient in exsultatióne"
+       ],
+       [
+        "portántes manípulos suos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chorando de tristeza sairão, espalhando suas sementes; cantando de alegria voltarão, carregando os seus feixes!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "They go out, they go our, full of tears, carrying seed for the sowing: they come back, they come back, full of song, carrying their sheaves."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Al ir, iba llorando,"
+       ],
+       [
+        "llevando la semilla;"
+       ],
+       [
+        "al volver, vuelve cantando,"
+       ],
+       [
+        "trayendo sus gavillas."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nell'andare, se ne va piangendo,"
+       ],
+       [
+        "portando la semente da gettare,"
+       ],
+       [
+        "ma nel tornare, viene con gioia,"
+       ],
+       [
+        "portando i suoi covoni."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il s'en va, il s'en va en pleurant,"
+       ],
+       [
+        "il jette la semence ;"
+       ],
+       [
+        "il s'en vient, il s'en vient dans la joie,"
+       ],
+       [
+        "il rapporte les gerbes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sie gehen hin unter Tränen"
+       ],
+       [
+        "und tragen den Samen zur Aussaat."
+       ],
+       [
+        "Sie kommen wieder mit Jubel"
+       ],
+       [
+        "und bringen ihre Garben ein."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Qui séminant in lácrimis, in exsultatióne metent."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os que lançam as sementes entre lágrimas, ceifarão com alegria."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Those who sow in tears, shall reap with shouts of joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los que sembraban con lágrimas cosechan entre cantares."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Chi semina nelle lacrime mieterà nella gioia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ceux qui sèment dans les larmes moissonnent dans la joie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die mit Tränen säen, werden mit Jubel ernten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mundus odio eos habuit."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Ioánnem"
+       ]
+      ],
+      "cite": "17, 11b-19",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O mundo os rejeitou."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo João"
+       ]
+      ],
+      "cite": "17, 11b-19",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to John"
+       ]
+      ],
+      "cite": "17:11-19",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El mundo los ha odiado"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Juan"
+       ]
+      ],
+      "cite": "17, 11b-19",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il mondo li ha odiati."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Giovanni"
+       ]
+      ],
+      "cite": "17, 11b-19",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Jean"
+       ]
+      ],
+      "cite": "17, 11b-19",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Johannes"
+       ]
+      ],
+      "cite": "17, 6a. 11b-19",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.martyrs.gospel.7"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.martyrs.gospel.7"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: [Sublevátis óculis suis in cælum, orávit Iesus dicens:]"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Pater sancte, serva eos in nómine tuo, quod dedísti mihi, ut sint unum sicut nos. Cum essem cum eis, ego servábam eos in nómine tuo, quod dedísti mihi, et custodívi, et nemo ex his périit, nisi fílius perditiónis, ut Scriptúra impleátur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nunc autem ad te vénio et hæc loquor in mundo, ut hábeant gáudium meum implétum in semetípsis. Ego dedi eis sermónem tuum, et mundus ódio eos hábuit, quia non sunt de mundo, sicut ego non sum de mundo. Non rogo, ut tollas eos de mundo, sed ut serves eos ex Malo. De mundo non sunt, sicut ego non sum de mundo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sanctífica eos in veritáte; sermo tuus véritas est. Sicut me misísti in mundum, et ego misi eos in mundum; et pro eis ego sanctífico meípsum, ut sint et ipsi sanctificáti in veritáte»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, Jesus ergueu os olhos ao céu e rezou dizendo: \"Pai santo, guarda-os em teu nome, o nome que me deste, para que eles sejam um, assim como nós somos um. Quando eu estava com eles, guardava-os em teu nome, o nome que me deste. Eu guardei-os e nenhum deles se perdeu, a não ser o filho da perdição, para se cumprir a Escritura. Agora, vou para junto de ti, e digo estas coisas, estando ainda no mundo, para que eles tenham em si a minha alegria plenamente realizada. Eu lhes dei a tua palavra, mas o mundo os rejeitou, porque não são do mundo, como eu não sou do mundo. Não te peço que os tires do mundo, mas que os guardes do Maligno. Eles não são do mundo, como eu não sou do mundo. Consagra-os na verdade; a tua palavra é a verdade. Como tu me enviastes ao mundo, assim também Eu os enviei ao mundo. Eu me consagro por eles, a fim de que eles também sejam consagrados na verdade\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus raised his eyes to heaven and said: Holy Father, keep those you have given me true to your name, so that they may be one like us. While I was with them, I kept those you had given me true to your name. I have watched over them and not one is lost except the one who chose to be lost, and this was to fulfil the scriptures. But now I am coming to you and while still in the world I say these things to share my joy with them to the full. I passed your word on to them, and the world hated them, because they belong to the world no more than I belong to the world. I am not asking you to remove them from the world, but to protect them from the evil one. They do not belong to the world any more than I belong to the world. Consecrate them in the truth; your word is truth. As you sent me into the world, I have sent them into the world, and for their sake I consecrate myself so that they too may be consecrated in truth."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, levantando los ojos al cielo, oró Jesús diciendo:"
+       ],
+       [
+        "«Padre santo, guárdalos en tu nombre, a los que me has dado, para que sean uno, como nosotros. Cuando estaba con ellos, yo guardaba en tu nombre a los que me diste, y los custodiaba, y ninguno se perdió, sino el hijo de la perdición, para que se cumpliera la Escritura. Ahora voy a ti, y digo esto en el mundo para que tengan en sí mismos mi alegría cumplida."
+       ],
+       [
+        "Yo les he dado tu palabra, y el mundo los ha odiado porque no son del mundo, como tampoco yo soy del mundo. No ruego que os retires del mundo, sino que los guardes del maligno."
+       ],
+       [
+        "No son del mundo, como tampoco yo soy del mundo."
+       ],
+       [
+        "Santifícalos en la verdad: tu palabra es verdad. Como tú me enviaste al mundo, así yo los envío también al mundo. Y por ellos yo me santifico a mí mismo, para que también ellos sean santificados en la verdad»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, [Gesù, alzati gli occhi al cielo, pregò dicendo:]"
+       ],
+       [
+        "«Padre santo, custodiscili nel tuo nome, quello che mi hai dato, perché siano una sola cosa, come noi."
+       ],
+       [
+        "Quand'ero con loro, io li custodivo nel tuo nome, quello che mi hai dato, e li ho conservati, e nessuno di loro è andato perduto, tranne il figlio della perdizione, perché si compisse la Scrittura. Ma ora io vengo a te e dico questo mentre sono nel mondo, perché abbiano in se stessi la pienezza della mia gioia."
+       ],
+       [
+        "Io ho dato loro la tua parola e il mondo li ha odiati, perché essi non sono del mondo, come io non sono del mondo. Non prego che tu li tolga dal mondo, ma che tu li custodisca dal Maligno. Essi non sono del mondo, come io non sono del mondo. Consacrali nella verità. La tua parola è verità. Come tu hai mandato me nel mondo, anche io ho mandato loro nel mondo; per loro io consacro me stesso, perché siano anch'essi consacrati nella verità»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, les yeux levés au ciel, Jésus priait ainsi : \" Père saint, garde mes disciples unis dans ton nom, le nom que tu m'as donné, pour qu'ils soient un, comme nous-mêmes. Quand j'étais avec eux, je les gardais unis dans ton nom, le nom que tu m'as donné. J'ai veillé sur eux, et aucun ne s'est perdu, sauf celui qui s'en va à sa perte de sorte que l'Écriture soit accomplie. Et maintenant que je viens à toi, je parle ainsi, dans le monde, pour qu'ils aient en eux ma joie, et qu'ils en soient comblés. Moi, je leur ai donné ta parole, et le monde les a pris en haine parce qu'ils n'appartiennent pas au monde, de même que moi je n'appartiens pas au monde. Je ne prie pas pour que tu les retires du monde, mais pour que tu les gardes du Mauvais. Ils n'appartiennent pas au monde, de même que moi, je n'appartiens pas au monde."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sanctifie-les dans la vérité : ta parole est vérité. De même que tu m'as envoyé dans le monde, moi aussi, je les ai envoyés dans le monde. Et pour eux je me sanctifie moi-même, afin qu'ils soient, eux aussi, sanctifiés dans la vérité. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit erhob Jesus seine Augen zum Himmel und betete: Vater, ich habe deinen Namen den Menschen offenbart, die du mir aus der Welt gegeben hast."
+       ],
+       [
+        "Heiliger Vater, bewahre sie in deinem Namen, den du mir gegeben hast, damit sie eins sind wie wir. Solange ich bei ihnen war, bewahrte ich sie in deinem Namen, den du mir gegeben hast. Und ich habe sie behütet, und keiner von ihnen ging verloren, außer dem Sohn des Verderbens, damit sich die Schrift erfüllt."
+       ],
+       [
+        "Aber jetzt gehe ich zu dir. Doch dies rede ich noch in der Welt, damit sie meine Freude in Fülle in sich haben. Ich habe ihnen dein Wort gegeben, und die Welt hat sie gehasst, weil sie nicht von der Welt sind, wie auch ich nicht von der Welt bin. Ich bitte nicht, dass du sie aus der Welt nimmst, sondern dass du sie vor dem Bösen bewahrst. Sie sind nicht von der Welt, wie auch ich nicht von der Welt bin."
+       ],
+       [
+        "Heilige sie in der Wahrheit; dein Wort ist Wahrheit. Wie du mich in die Welt gesandt hast, so habe auch ich sie in die Welt gesandt. Und ich heilige mich für sie, damit auch sie in der Wahrheit geheiligt sind."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.martyrs.gospel.7"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.martyrs.gospel.7"
+  }
+ ],
+ "title": {
+  "la": "Ss. Cornelii, papæ, et Cypriani, episcopi, martyrum",
+  "pt-BR": "Santos Cornélio, papa, e Cipriano, bispo, mártires",
+  "en-US": "Ss. Cornelius, pope, and Cyprian, bishop, martyrs",
+  "es": "San Cornelio y san Cipriano, obispos y mártires",
+  "it": "Santi Cornelio, papa e Cipriano, vescovo, martiri",
+  "fr": "Saint Corneille, pape, et saint Cyprien, évêque, martyrs",
+  "de": "Hl. Kornelius, Papst, und hl. Cyprian, Bischof, Märtyrer"
+ }
+}

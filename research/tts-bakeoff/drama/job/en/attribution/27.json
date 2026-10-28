@@ -1,0 +1,158 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "job": {
+   "name": "Job",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The afflicted just man of Hus, defending his innocence before his friends and God."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Job also added, taking up his parable, and said:"
+   }
+  ],
+  "2": [
+   {
+    "s": "job",
+    "t": "As God liveth, who hath taken away my judgment, and the Almighty, who hath brought my soul to bitterness,"
+   }
+  ],
+  "3": [
+   {
+    "s": "job",
+    "t": "As long as breath remaineth in me, and the spirit of God in my nostrils,"
+   }
+  ],
+  "4": [
+   {
+    "s": "job",
+    "t": "My lips shall not speak iniquity, neither shall my tongue contrive lying."
+   }
+  ],
+  "5": [
+   {
+    "s": "job",
+    "t": "God forbid that I should judge you to be just: till I die I will not depart from my innocence."
+   }
+  ],
+  "6": [
+   {
+    "s": "job",
+    "t": "My justification, which I have begun to hold, I will not forsake: for my heart doth not reprehend me in all my life."
+   }
+  ],
+  "7": [
+   {
+    "s": "job",
+    "t": "Let my enemy be as the ungodly, and my adversary as the wicked one."
+   }
+  ],
+  "8": [
+   {
+    "s": "job",
+    "t": "For what is the hope of the hypocrite if through covetousness he take by violence, and God deliver not his soul?"
+   }
+  ],
+  "9": [
+   {
+    "s": "job",
+    "t": "Will God hear his cry, when distress shall come upon him?"
+   }
+  ],
+  "10": [
+   {
+    "s": "job",
+    "t": "Or can he delight himself in the Almighty, and call upon God at all times?"
+   }
+  ],
+  "11": [
+   {
+    "s": "job",
+    "t": "I will teach you by the hand of God, what the Almighty hath, and I will not conceal it."
+   }
+  ],
+  "12": [
+   {
+    "s": "job",
+    "t": "Behold you all know it, and why do you speak vain things without cause?"
+   }
+  ],
+  "13": [
+   {
+    "s": "job",
+    "t": "This is the portion of a wicked man with God, and the inheritance of the violent, which they shall receive of the Almighty."
+   }
+  ],
+  "14": [
+   {
+    "s": "job",
+    "t": "If his sons be multiplied, they shall be for the sword, and his grandsons shall not be filled with bread."
+   }
+  ],
+  "15": [
+   {
+    "s": "job",
+    "t": "They that shall remain of him, shall be buried in death, and his widows shall not weep."
+   }
+  ],
+  "16": [
+   {
+    "s": "job",
+    "t": "If he shall heap together silver as earth, and prepare raiment as clay,"
+   }
+  ],
+  "17": [
+   {
+    "s": "job",
+    "t": "He shall prepare indeed, but the just man shall be clothed with it: and the innocent shall divide the silver."
+   }
+  ],
+  "18": [
+   {
+    "s": "job",
+    "t": "He hath built his house as a moth, and as a keeper he hath made a booth."
+   }
+  ],
+  "19": [
+   {
+    "s": "job",
+    "t": "The rich man when he shall sleep shall take away nothing with him: he shall open his eyes and find nothing."
+   }
+  ],
+  "20": [
+   {
+    "s": "job",
+    "t": "Poverty like water shall take hold on him, a tempest shall oppress him in the night:"
+   }
+  ],
+  "21": [
+   {
+    "s": "job",
+    "t": "A burning wind shall take him up, and carry him away, and as a whirlwind shall snatch him from his place."
+   }
+  ],
+  "22": [
+   {
+    "s": "job",
+    "t": "And he shall cast upon him, and shall not spare: out of his hand he would willingly flee."
+   }
+  ],
+  "23": [
+   {
+    "s": "job",
+    "t": "He shall clasp his hands upon him, and shall hiss at him, beholding his place."
+   }
+  ]
+ }
+}

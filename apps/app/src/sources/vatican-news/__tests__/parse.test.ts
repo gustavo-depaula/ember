@@ -83,6 +83,20 @@ describe('splitCitation — citation vs passage', () => {
     expect(citation).toBe('Proclamação do Evangelho de Jesus Cristo segundo Lucas 9,43b-45')
     expect(body.map(paragraphText)).toEqual(['Naquele tempo,'])
   })
+
+  it('PT: splits incipit, reference and passage sharing one <p>', () => {
+    // The markup of 2026-10-12: no paragraph boundary anywhere, only <br>s.
+    const html = `<section><div class="section__head"><h2>Evangelho do Dia</h2></div>
+      <div class="section__content"><p>Proclama&ccedil;&atilde;o do Evangelho de Jesus Cristo segundo Lucas<br /> 11,29-32<br /> <br /> Naquele tempo,<br /> quando as multid&otilde;es se reuniram<br /> em grande quantidade,<br /> Jesus come&ccedil;ou a dizer:</p></div></section>`
+    const { citation, body } = splitCitation(parseSection(html, 'pt-BR', 'gospel'))
+    expect(compactCitation(citation)).toBe('Lucas 11,29-32')
+    // The passage opens on its first line, not on the blank line before it.
+    expect(body.map(paragraphText)[0]).toMatch(/^Naquele tempo,/)
+    expect(body[0]).toHaveProperty('inline.0.kind', 'text')
+    expect(allText(body)).toBe(
+      'Naquele tempo, quando as multidões se reuniram em grande quantidade, Jesus começou a dizer:',
+    )
+  })
 })
 
 describe('compactCitation', () => {

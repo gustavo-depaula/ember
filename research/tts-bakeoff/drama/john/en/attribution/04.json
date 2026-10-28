@@ -1,0 +1,508 @@
+{
+ "pericopes": [
+  1,
+  27,
+  43,
+  46
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist: narration, speech introductions, glosses and his own reflections."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; calm authority, patient with those who misunderstand him."
+  },
+  "samaritan-woman": {
+   "name": "The Samaritan woman",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "At Jacob's well; guarded and quick-witted, then astonished."
+  },
+  "disciples": {
+   "name": "Disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The disciples speaking together."
+  },
+  "samaritans": {
+   "name": "Samaritans of Sichar",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Townspeople who came to believe; convinced and glad."
+  },
+  "royal-official": {
+   "name": "The ruler of Capharnaum",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A royal official whose son is dying; urgent, pleading father."
+  },
+  "servants": {
+   "name": "The ruler's servants",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Household servants bringing good news of the boy."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "When Jesus therefore understood the Pharisees had heard that Jesus maketh more disciples and baptizeth more than John"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "(Though Jesus himself did not baptize, but his disciples),"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "He left Judea and went again into Galilee."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And he was of necessity to pass through Samaria."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "He cometh therefore to a city of Samaria, which is called Sichar, near the land which Jacob gave to his son Joseph."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Now Jacob's well was there. Jesus therefore, being wearied with his journey, sat thus on the well. It was about the sixth hour."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "There cometh a woman of Samaria, to draw water. Jesus saith to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Give me to drink."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "For his disciples were gone into the city to buy meats."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Then that Samaritan woman saith to him:"
+   },
+   {
+    "s": "samaritan-woman",
+    "t": "How dost thou, being a Jew; ask of me to drink, who am a Samaritan woman?"
+   },
+   {
+    "s": "narrator",
+    "t": "For the Jews do not communicate with the Samaritans.",
+    "q": "Read as the evangelist's explanatory aside, as most editions punctuate it; it could be the woman's own words."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered and said to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "If thou didst know the gift of God and who he is that saith to thee: Give me to drink; thou perhaps wouldst have asked of him, and he would have given thee living water."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "The woman saith to him:"
+   },
+   {
+    "s": "samaritan-woman",
+    "t": "Sir, thou hast nothing wherein to draw, and the well is deep. From whence then hast thou living water?"
+   }
+  ],
+  "12": [
+   {
+    "s": "samaritan-woman",
+    "t": "Art thou greater than our father Jacob, who gave us the well and drank thereof, himself and his children and his cattle?"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered and said to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Whosoever drinketh of this water shall thirst again: but he that shall drink of the water that I will give him shall not thirst for ever."
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "But the water that I will give him shall become in him a fountain of water, springing up into life everlasting."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "The woman said to him:"
+   },
+   {
+    "s": "samaritan-woman",
+    "t": "Sir, give me this water, that I may not thirst, nor come hither to draw."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go, call thy husband, and come hither."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "The woman answered and said:"
+   },
+   {
+    "s": "samaritan-woman",
+    "t": "I have no husband."
+   },
+   {
+    "s": "narrator",
+    "t": "Jesus said to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thou hast said well: I have no husband."
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "For thou hast had five husbands: and he whom thou now hast is not thy husband. This, thou hast said truly."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "The woman saith to him:"
+   },
+   {
+    "s": "samaritan-woman",
+    "t": "Sir, I perceive that thou art a prophet."
+   }
+  ],
+  "20": [
+   {
+    "s": "samaritan-woman",
+    "t": "Our fathers adored on this mountain: and you say that at Jerusalem is the place where men must adore."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Woman, believe me that the hour cometh, when you shall neither on this mountain, nor in Jerusalem, adore the Father."
+   }
+  ],
+  "22": [
+   {
+    "s": "jesus",
+    "t": "You adore that which you know not: we adore that which we know. For salvation is of the Jews."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "But the hour cometh and now is, when the true adorers shall adore the Father in spirit and in truth. For the Father also seeketh such to adore him."
+   }
+  ],
+  "24": [
+   {
+    "s": "jesus",
+    "t": "God is a spirit: and they that adore him must adore him in spirit and in truth."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "The woman saith to him:"
+   },
+   {
+    "s": "samaritan-woman",
+    "t": "I know that the Messias cometh"
+   },
+   {
+    "s": "narrator",
+    "t": "(who is called Christ):"
+   },
+   {
+    "s": "samaritan-woman",
+    "t": "therefore, when he is come, he will tell us all things."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "I am he, who am speaking with thee."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And immediately his disciples came. And they wondered that he talked with the woman. Yet no man said: What seekest thou? Or: Why talkest thou with her?",
+    "q": "The questions are ones nobody actually asked, so the whole verse stays narration."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "The woman therefore left her waterpot and went her way into the city and saith to the men there:"
+   }
+  ],
+  "29": [
+   {
+    "s": "samaritan-woman",
+    "t": "Come, and see a man who has told me all things whatsoever I have done. Is not he the Christ?"
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "They went therefore out of the city and came unto him."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "In the mean time, the disciples prayed him, saying:"
+   },
+   {
+    "s": "disciples",
+    "t": "Rabbi, eat."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "But he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "I have meat to eat which you know not."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "The disciples therefore said one to another:"
+   },
+   {
+    "s": "disciples",
+    "t": "Hath any man brought him to eat?"
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "My meat is to do the will of him that sent me, that I may perfect his work."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "Do not you say: There are yet four months, and then the harvest cometh? Behold, I say to you, lift up your eyes, and see the countries. For they are white already to harvest."
+   }
+  ],
+  "36": [
+   {
+    "s": "jesus",
+    "t": "And he that reapeth receiveth wages and gathereth fruit unto life everlasting: that both he that soweth and he that reapeth may rejoice together."
+   }
+  ],
+  "37": [
+   {
+    "s": "jesus",
+    "t": "For in this is the saying true: That it is one man that soweth, and it is another that reapeth."
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "I have sent you to reap that in which you did not labour. Others have laboured: and you have entered into their labours."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "Now of that city many of the Samaritans believed in him, for the word of the woman giving testimony:"
+   },
+   {
+    "s": "samaritan-woman",
+    "t": "He told me all things whatsoever I have done."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "So when the Samaritans were come to him, they desired that he would tarry there. And he abode there two days."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "And many more believed in him, because of his own word."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "And they said to the woman:"
+   },
+   {
+    "s": "samaritans",
+    "t": "We now believe, not for thy saying: for we ourselves have heard him and know that this is indeed the Saviour of the world."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "Now after two days, he departed thence and went into Galilee."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "For Jesus himself gave testimony that a prophet hath no honour in his own country."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "And when he was come into Galilee, the Galileans received him, having seen all the things he had done at Jerusalem on the festival day: for they also went to the festival day."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "He came again therefore into Cana of Galilee, where he made the water wine. And there was a certain ruler, whose son was sick at Capharnaum."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "He having heard that Jesus was come from Judea into Galilee, sent to him and prayed him to come down and heal his son: for he was at the point of death."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Unless you see signs and wonders, you believe not."
+   }
+  ],
+  "49": [
+   {
+    "s": "narrator",
+    "t": "The ruler saith to him:"
+   },
+   {
+    "s": "royal-official",
+    "t": "Lord, come down before that my son die."
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go thy way. Thy son liveth."
+   },
+   {
+    "s": "narrator",
+    "t": "The man believed the word which Jesus said to him and went his way."
+   }
+  ],
+  "51": [
+   {
+    "s": "narrator",
+    "t": "And as he was going down, his servants met him: and they brought word, saying, that his son lived."
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "He asked therefore of them the hour wherein he grew better. And they said to him:"
+   },
+   {
+    "s": "servants",
+    "t": "Yesterday at the seventh hour, the fever left him."
+   }
+  ],
+  "53": [
+   {
+    "s": "narrator",
+    "t": "The father therefore knew that it was at the same hour that Jesus said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thy son liveth.",
+    "q": "The narrator recalling Jesus' earlier words verbatim; given to Jesus as direct speech."
+   },
+   {
+    "s": "narrator",
+    "t": "And himself believed, and his whole house."
+   }
+  ],
+  "54": [
+   {
+    "s": "narrator",
+    "t": "This is again the second miracle that Jesus did, when he was come out of Judea. into Galilee."
+   }
+  ]
+ }
+}

@@ -2,13 +2,16 @@
   "id": "novatian-treatise-concerning-the-trinity",
   "cover": "quarter",
   "name": {
-    "en-US": "Treatise Concerning the Trinity"
+    "en-US": "Treatise Concerning the Trinity",
+    "pt-BR": "Tratado sobre a Trindade"
   },
   "author": {
-    "en-US": "Novatian"
+    "en-US": "Novatian",
+    "pt-BR": "Novaciano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Treatise Concerning the Trinity"
+        "en-US": "Treatise Concerning the Trinity",
+        "pt-BR": "Tratado sobre a Trindade"
       }
     }
   ]

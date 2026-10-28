@@ -27,6 +27,8 @@ export function NativeSheet({
 }: {
   sheet: SheetController
   fraction?: number
+  /** iOS only: Material's sheet is modal. */
+  letsThrough?: boolean
   children: (state: {
     scroll: { scrollEnabled: boolean } & ReturnType<typeof pullDown>
     height: number

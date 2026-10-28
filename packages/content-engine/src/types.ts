@@ -79,6 +79,9 @@ export type FlowSection = { lang?: string } & (
       from?: string
     }
   | { type: 'image'; src: string; caption?: LocalizedText; attribution?: LocalizedText }
+  // The chant of the text beside it: a score in the corpus (`chant/salve-regina`),
+  // drawn in square notes where the practice is prayed.
+  | { type: 'chant'; ref: string }
   // `defaultOpen: true` renders the embedded prayer expanded on first paint
   // (still tappable to collapse). Use when the prayer isn't reliably known by
   // heart and the text being on the page matters — Te Deum, Anima Christi,
@@ -279,32 +282,6 @@ export type FlowSection = { lang?: string } & (
       from: string
       cycleFrom?: string
     }
-  | {
-      // Per-slot picker over a celebration's primary + alternates formularies.
-      // Reads `<celebrationPath>.primary[slot]` and each `<celebrationPath>.alternates[i][slot]`,
-      // filters out empty slots, renders a chip toggle + the selected source's
-      // typed segments.
-      type: 'choice-rich-text'
-      label: LocalizedText
-      slot: string
-      celebration?: string
-      default?: string
-      // Don't preselect any option on first load — render the picker with
-      // no card highlighted and no body. The user has to tap a card to
-      // pick one. Persists via selectOverrides once chosen.
-      defaultBlank?: boolean
-      citation?: string
-      pickerStyle?: PickerStyle
-      // Suppress the renderer-derived heading when an outer `subheading` already names the slot.
-      hideLabel?: boolean
-      // Static people's response rendered between the slot's `introduction`
-      // and `body`. Used on the Gospel slot, where the missal places the
-      // people's "Glory to you, O Lord." response immediately after the
-      // priest's "✠ A reading from the holy Gospel..." announcement.
-      // The slot's own `response` field still renders after `conclusion`
-      // (the post-body "Praise to you, Lord Jesus Christ" response).
-      precedingResponse?: LocalizedText
-    }
 )
 
 export type RenderedSection =
@@ -312,6 +289,7 @@ export type RenderedSection =
   | { type: 'divider' }
   | { type: 'heading'; text: BilingualText }
   | { type: 'image'; src: string; caption?: BilingualText; attribution?: BilingualText }
+  | { type: 'chant'; ref: string }
   | {
       type: 'prayer'
       title: BilingualText
@@ -409,47 +387,5 @@ export type RenderedSection =
       attribution?: BilingualText
       prayer?: BilingualText
     }
-  | {
-      // Selection persists via overrideKey in selectOverrides.
-      type: 'choice-rich-text'
-      label: BilingualText
-      overrideKey: string
-      selectedId?: string
-      pickerStyle?: PickerStyle
-      hideLabel?: boolean
-      precedingResponse?: BilingualText
-      options: {
-        id: string
-        label: BilingualText
-        body: BilingualRichText
-        citation?: BilingualText
-        summary?: BilingualText
-        introduction?: BilingualText
-        conclusion?: BilingualText
-        response?: BilingualRichText
-        excerpt?: BilingualText
-      }[]
-    }
-
-export type RichTextSegmentType =
-  | 'text'
-  | 'rubric'
-  | 'reference'
-  | 'italic'
-  | 'response'
-  | 'signOfCross'
-  | 'dropCap'
-
-export type RichTextSegment = {
-  type: RichTextSegmentType
-  text: string
-}
-
-export type RichTextLine = RichTextSegment[]
-
-export type BilingualRichText = {
-  primary: RichTextLine[]
-  secondary?: RichTextLine[]
-}
 
 export type PickerStyle = 'chips' | 'cards'

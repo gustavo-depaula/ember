@@ -137,6 +137,71 @@ describe('justifyText', () => {
     }
   })
 
+  // Android sets 22 at a density of 2.625 in 58 device pixels, not 57.75: the
+  // line is drawn that much wider than it measures at the nominal size, and its
+  // last word wrapped. Lines priced at the drawn size fit when drawn at it.
+  test('prices a line at the size the platform draws, where that is not the size asked for', () => {
+    const m = getFontMetrics('eb-garamond')
+    if (!m) throw new Error('no metrics')
+    const drawn = 58 / 2.625
+    const drawnWidth = (line: NonNullable<ReturnType<typeof justifyText>>[number]) =>
+      line.pieces.reduce(
+        (sum, p) =>
+          sum +
+          m.width(p.text, drawn) +
+          (p.spaceAfter ? m.width(' ', drawn) + p.spaceAfter.extraPx : 0),
+        line.hyphenated ? m.width('-', drawn) : 0,
+      )
+    const options = {
+      source: prose,
+      widthPx: 334,
+      fontSizePx: 22,
+      fontFamilyId: 'eb-garamond',
+      language: 'en-US',
+    } as const
+
+    const nominal = justifyText(options)
+    expect(Math.max(...nominal!.slice(0, -1).map(drawnWidth))).toBeGreaterThan(334.5)
+
+    const fitted = justifyText({ ...options, drawnSizePx: () => drawn })
+    for (const line of fitted!) expect(drawnWidth(line)).toBeLessThanOrEqual(334.5)
+  })
+
+  // Android 15 measures a line to the edge of its last glyph's outline, and
+  // the hook of EB Garamond's `f` reaches a tenth of an em past its advance:
+  // every line ending in "of" wrapped its last word.
+  test("leaves room for the ink of a line's last letter where the platform measures ink", () => {
+    const m = getFontMetrics('eb-garamond')
+    if (!m) throw new Error('no metrics')
+    expect(m.overhang('of', 22).end).toBeGreaterThan(2)
+    expect(m.overhang('on', 22).end).toBe(0)
+    // The ligature is the glyph drawn, and it ends in the same hook.
+    expect(m.overhang('off', 22).end).toBeGreaterThan(2)
+
+    const source =
+      'he goeth. So is every one that is born of the Spirit, and he that is born of the flesh is of the flesh, and speaketh of the earth; he that cometh of heaven is above all of them.'
+    const inkWidth = (line: NonNullable<ReturnType<typeof justifyText>>[number]) =>
+      line.pieces.reduce(
+        (sum, p) =>
+          sum + m.width(p.text, 22) + (p.spaceAfter ? m.width(' ', 22) + p.spaceAfter.extraPx : 0),
+        m.overhang(line.pieces.at(-1)?.text ?? '', 22).end,
+      )
+    for (const widthPx of [150, 170, 190, 210, 230, 250]) {
+      const lines = justifyText({
+        source,
+        widthPx,
+        fontSizePx: 22,
+        fontFamilyId: 'eb-garamond',
+        language: 'en-US',
+        inkAtEdges: true,
+      })
+      for (const line of lines!) {
+        if (line.overfull || line.hyphenated) continue
+        expect(inkWidth(line)).toBeLessThanOrEqual(widthPx + 0.5)
+      }
+    }
+  })
+
   test('justifies Latin, hyphenating with the liturgical patterns', () => {
     const lines = justifyText({
       source: latin,

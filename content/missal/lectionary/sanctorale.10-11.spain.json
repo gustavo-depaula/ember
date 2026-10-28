@@ -1,0 +1,40 @@
+{
+ "id": "sanctorale.10-11.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "11 de octubre"
+       ],
+       [
+        "Santa Soledad Torres Acosta, virgen"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "lectionary": "readings.cv1f1",
+ "title": {
+  "*": "Santa Soledad Torres Acosta, virgen"
+ }
+}

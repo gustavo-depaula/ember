@@ -1,3 +1,4 @@
+import type { Transfers } from '@ember/liturgical'
 import type { BilingualText, LocalizedText } from './types'
 
 /**
@@ -20,6 +21,8 @@ export type SourceContext = {
   t(key: string, opts?: Record<string, unknown>): string
   /** Current date, injected so sources are deterministic in tests. */
   now(): Date
+  /** Where the reader's Ordinary Form calendar keeps its movable solemnities. */
+  ofTransfers?: Transfers
 }
 
 const registry = new Map<string, DataSource>()

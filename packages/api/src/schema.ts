@@ -1,5 +1,7 @@
 import { type InferSelectModel, sql } from 'drizzle-orm'
-import { index, integer, real, sqliteTable, text } from 'drizzle-orm/sqlite-core'
+import { index, integer, primaryKey, real, sqliteTable, text } from 'drizzle-orm/sqlite-core'
+import { z } from 'zod'
+import type { Proposal, Resolution } from './moderation'
 
 // Source of truth for the Mass-Times directory. Domain types are inferred from these tables
 // (no hand-written `type`s) and migrations are generated from them via drizzle-kit.
@@ -14,30 +16,38 @@ import { index, integer, real, sqliteTable, text } from 'drizzle-orm/sqlite-core
 // a church is always read whole. Embedding makes `/near` a single geohash scan and cuts row writes
 // ~4× (no per-child rows/indexes). `service.id` is deterministic (`churchId:hash(slot)`) so a
 // `correction` can still target one Mass.
-export type Service = {
-  id: string
-  kind: string // mass | confession | adoration
-  rite?: string // Mass only; latin_novus_ordo | latin_tridentine | byzantine | ...
-  language?: string // ISO 639
-  rrule: string // iCal RRULE: ONE pattern at ONE time
-  startTime: string // 'HH:MM' wall-clock; displayed as-is, expanded on-device
-  endTime?: string
-  exdate?: string // RRuleSet EXDATE (cancelled dates)
-  rdate?: string // RRuleSet RDATE (one-off added dates)
-  locationNote?: string
-  note?: string
-  source?: string // import | manual | user
-  confidence?: number
-}
-export type ChurchText = {
-  kind: string // mass_times | seasonal_mass_times | confession | adoration | info
-  rawText: string
-  sourceUpdatedAt?: string
-}
-export type ChurchLink = {
-  kind: string // website | instagram | facebook | whatsapp | youtube | livestream | donation
-  url: string
-}
+export const serviceSchema = z.object({
+  id: z.string(),
+  kind: z.string().describe('mass | confession | adoration'),
+  rite: z
+    .string()
+    .optional()
+    .describe('Mass only: latin_novus_ordo | latin_tridentine | byzantine | …'),
+  language: z.string().optional().describe('ISO 639'),
+  rrule: z.string().describe('iCal RRULE: one pattern at one time'),
+  startTime: z.string().describe("'HH:MM' wall-clock in the church's timezone"),
+  endTime: z.string().optional(),
+  exdate: z.string().optional().describe('RRuleSet EXDATE: cancelled dates'),
+  rdate: z.string().optional().describe('RRuleSet RDATE: one-off added dates'),
+  locationNote: z.string().optional(),
+  note: z.string().optional(),
+  source: z.string().optional().describe('import | manual | user'),
+  confidence: z.number().optional(),
+})
+export const churchTextSchema = z.object({
+  kind: z.string().describe('mass_times | seasonal_mass_times | confession | adoration | info'),
+  rawText: z.string(),
+  sourceUpdatedAt: z.string().optional(),
+})
+export const churchLinkSchema = z.object({
+  kind: z
+    .string()
+    .describe('website | instagram | facebook | whatsapp | youtube | livestream | donation'),
+  url: z.string(),
+})
+export type Service = z.infer<typeof serviceSchema>
+export type ChurchText = z.infer<typeof churchTextSchema>
+export type ChurchLink = z.infer<typeof churchLinkSchema>
 
 export const church = sqliteTable(
   'church',
@@ -63,6 +73,10 @@ export const church = sqliteTable(
     administration: text('administration'), // diocesan | religious_institute | society_apostolic_life | personal_prelature | ordinariate | independent | other
     institute: text('institute'), // FSSP, ICKSP, SSPX, OSB, OP, SJ, Opus Dei, ...
     canonicalStatus: text('canonical_status'), // full_communion | irregular | not_in_communion | (null = unknown)
+    // The parish church this one belongs to: a chapel or community served by that parish's priest,
+    // often on one shared bulletin. Null for a parish church itself, and for the many whose parish
+    // nobody has recorded. One level only: a church with chapels has no parish of its own here.
+    parishId: text('parish_id'),
     note: text('note'),
     hasStructuredSchedule: integer('has_structured_schedule', { mode: 'boolean' }),
     lastVerifiedAt: text('last_verified_at'), // ISO
@@ -73,7 +87,24 @@ export const church = sqliteTable(
     texts: text('texts', { mode: 'json' }).$type<ChurchText[]>(),
     links: text('links', { mode: 'json' }).$type<ChurchLink[]>(),
   },
-  (t) => [index('church_geohash_idx').on(t.geohash)],
+  (t) => [index('church_geohash_idx').on(t.geohash), index('church_parish_idx').on(t.parishId)],
+)
+
+// How many churches each geohash cell of length 1-5 holds, kept by triggers on `church` (see the
+// hand-written half of its migration), so a zoomed-out map reads a few dozen rows here instead of
+// counting churches. `kind` is a service kind, or '' for every church; the sums give the cell's
+// centre of mass as lat_sum / count.
+export const churchCell = sqliteTable(
+  'church_cell',
+  {
+    precision: integer('precision').notNull(),
+    cell: text('cell').notNull(),
+    kind: text('kind').notNull(),
+    count: integer('count').notNull(),
+    latSum: real('lat_sum').notNull(),
+    lngSum: real('lng_sum').notNull(),
+  },
+  (t) => [primaryKey({ columns: [t.precision, t.cell, t.kind] })],
 )
 
 export const correction = sqliteTable(
@@ -121,6 +152,49 @@ export const attachment = sqliteTable(
     createdAt: text('created_at').notNull().default(sql`(strftime('%Y-%m-%dT%H:%M:%fZ', 'now'))`),
   },
   (t) => [index('attachment_church_idx').on(t.churchId)],
+)
+
+// The admin panel's moderation desk (apps/admin) keeps its working state here, beside the
+// directory it moderates: Claude's draft for each church with suggestions waiting, the review runs
+// under way, and the log of applied resolutions that undo and the change messages are read from.
+export const moderationReview = sqliteTable('moderation_review', {
+  churchId: text('church_id').primaryKey(),
+  proposal: text('proposal', { mode: 'json' }).$type<Proposal>().notNull(),
+  sessionId: text('session_id').notNull(), // the Claude Code session, resumed while its container lives
+  suggestionIds: text('suggestion_ids', { mode: 'json' }).$type<string[]>().notNull(),
+  reviewedAt: text('reviewed_at').notNull(),
+  costUsd: real('cost_usd'),
+  brief: integer('brief').notNull(), // the version of the review brief it was written under
+})
+
+export const moderationRun = sqliteTable('moderation_run', {
+  churchId: text('church_id').primaryKey(),
+  id: text('id').notNull(), // crypto.randomUUID(); what the reviewer container reports under
+  status: text('status').notNull(), // queued | running | failed
+  suggestionIds: text('suggestion_ids', { mode: 'json' }).$type<string[]>().notNull(), // what it was shown
+  activity: text('activity', { mode: 'json' }).$type<string[]>().notNull(),
+  error: text('error'),
+  updatedAt: text('updated_at').notNull(), // the reviewer's last sign of life
+})
+
+export const moderationChange = sqliteTable(
+  'moderation_change',
+  {
+    id: text('id').primaryKey(),
+    churchId: text('church_id').notNull(),
+    churchName: text('church_name').notNull(),
+    appliedAt: text('applied_at').notNull(),
+    summary: text('summary').notNull(),
+    // Every church the resolution touched, before and after; `before` is missing for one it created.
+    records: text('records', { mode: 'json' })
+      .$type<Array<{ before?: Church; after: Church }>>()
+      .notNull(),
+    resolution: text('resolution', { mode: 'json' }).$type<Resolution>().notNull(),
+    basis: text('basis'), // what the change rested on: the summary of the review behind it
+    undoneAt: text('undone_at'),
+    sharedAt: text('shared_at'), // when it was passed on to other directories
+  },
+  (t) => [index('moderation_change_applied_idx').on(t.appliedAt)],
 )
 
 export type Church = InferSelectModel<typeof church>

@@ -31,7 +31,6 @@ export const collectionShelves: { key: string; ids: string[] }[] = [
       'collection/mental-prayer',
       'collection/opus-dei',
       'collection/opus-dei-prayerbook',
-      'collection/anglican-patrimony',
     ],
   },
   {
@@ -51,6 +50,7 @@ export const collectionShelves: { key: string; ids: string[] }[] = [
     ids: [
       'collection/spiritual-classics',
       'collection/thomas-aquinas',
+      'collection/denis-the-carthusian',
       'collection/carmelite',
       'collection/alphonsus-liguori',
       'collection/montfort-spirituality',

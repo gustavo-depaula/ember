@@ -4,8 +4,10 @@ import { createEngineContext } from '@/content/engineContext'
 import { preprocessFlow } from '@/content/preprocessFlow'
 import type { Primitive } from '@/content/primitives'
 import type { RenderedSection } from '@/content/types'
+import { currentRound } from '@/features/plan-of-life/program'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bibleTranslations'
+import { transfersForJurisdiction } from '@/lib/missal/loaders'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { usePractice } from './usePractice'
 import { usePracticeTracks } from './usePracticeTracks'
@@ -37,6 +39,7 @@ export function usePracticeContent(
   const translation = usePreferencesStore((s) => s.translation)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
+  const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const numbering = getPsalmNumbering(translation)
 
   const now = useToday()
@@ -52,6 +55,7 @@ export function usePracticeContent(
       programDay ?? null,
       contentLanguage,
       secondaryLanguage ?? null,
+      jurisdiction ?? null,
       translation,
       numbering,
       todayKey,
@@ -67,11 +71,13 @@ export function usePracticeContent(
       const context: FlowContext = {
         date: now,
         now: new Date(),
+        ofTransfers: transfersForJurisdiction(jurisdiction),
         numbering,
         trackDefs,
         trackState,
         cycleData,
         programDay,
+        round: manifest?.program && currentRound(manifest.program, now)?.key,
         selectOverrides: pins ?? {},
         templateVars: manifest?.vars,
       }
@@ -79,7 +85,7 @@ export function usePracticeContent(
       const renderedSections = await resolveFlowAsync(flow, context, ec)
       const primitives = await preprocessFlow(renderedSections, {
         queryClient,
-        prefs: { lang: contentLanguage, translation },
+        prefs: { lang: contentLanguage, translation, jurisdiction },
         date: now,
         programDay,
       })

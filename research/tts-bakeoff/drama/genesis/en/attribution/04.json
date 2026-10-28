@@ -1,0 +1,254 @@
+{
+ "pericopes": [
+  1,
+  17,
+  25
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of the beginnings: measured, solemn, unhurried."
+  },
+  "the-lord": {
+   "name": "The Lord God",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking: warning Cain patiently, then questioning and sentencing him."
+  },
+  "eve": {
+   "name": "Eve",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "The first woman: rejoicing at the birth of a son, and later consoled by Seth after Abel's death."
+  },
+  "cain": {
+   "name": "Cain",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Adam's firstborn, a farmer: sullen and evasive, then despairing under the curse."
+  },
+  "lamech": {
+   "name": "Lamech",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Descendant of Cain, boasting of bloodshed to his two wives in a taunting song."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Adam knew Eve his wife; who conceived and brought forth Cain, saying:"
+   },
+   {
+    "s": "eve",
+    "t": "I have gotten a man through God."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And again she brought forth his brother Abel. And Abel was a shepherd, and Cain a husbandman."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass after many days, that Cain offered, of the fruits of the earth, gifts to the Lord."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Abel also offered of the firstlings of his flock, and of their fat: and the Lord had respect to Abel, and to his offerings."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "But to Cain and his offerings he had no respect: and Cain was exceeding angry, and his countenance fell."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Why art thou angry? and why is thy countenance fallen?"
+   }
+  ],
+  "7": [
+   {
+    "s": "the-lord",
+    "t": "If thou do well, shalt thou not receive? but if ill, shall not sin forthwith be present at the door? but the lust thereof shall be under thee, and thou shalt have dominion over it."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And Cain said to Abel his brother:"
+   },
+   {
+    "s": "cain",
+    "t": "Let us go forth abroad."
+   },
+   {
+    "s": "narrator",
+    "t": "And when they were in the field, Cain rose up against his brother Abel, and slew him."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Cain:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Where is thy brother Abel?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he answered:"
+   },
+   {
+    "s": "cain",
+    "t": "I know not: am I my brother's keeper?"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And he said to him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "What hast thou done? the voice of thy brother's blood crieth to me from the earth."
+   }
+  ],
+  "11": [
+   {
+    "s": "the-lord",
+    "t": "Now therefore cursed shalt thou be upon the earth, which hath opened her mouth and received the blood of thy brother at thy hand."
+   }
+  ],
+  "12": [
+   {
+    "s": "the-lord",
+    "t": "When thou shalt till it, it shall not yield to thee its fruit: a fugitive and a vagabond shalt thou be upon the earth."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And Cain said to the Lord:"
+   },
+   {
+    "s": "cain",
+    "t": "My iniquity is greater than that I may deserve pardon."
+   }
+  ],
+  "14": [
+   {
+    "s": "cain",
+    "t": "Behold thou dost cast me out this day from the face of the earth, and from thy face I shall be hid, and I shall be a vagabond and a fugitive on the earth: every one therefore that findeth me, shall kill me."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "No, it shall not so be: but whosoever shall kill Cain, shall be punished sevenfold."
+   },
+   {
+    "s": "narrator",
+    "t": "And the Lord set a mark upon Cain, that whosoever found him should not kill him."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And Cain went out from the face of the Lord, and dwelt as a fugitive on the earth at the east side of Eden."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And Cain knew his wife, and she conceived, and brought forth Henoch: and he built a city, and called the name thereof by the name of his son Henoch."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And Henoch begot Irad, and Irad begot Maviael, and Maviael begot Mathusael, and Mathusael begot Lamech,"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Who took two wives: the name of the one was Ada, and the name of the other Sella."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And Ada brought forth Jabel: who was the father of such as dwell in tents, and of herdsmen."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And his brother's name was Jubal: he was the father of them that play upon the harp and the organs."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Sella also brought forth Tubalcain, who was a hammerer and artificer in every work of brass and iron. And the sister of Tubalcain was Noema."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And Lamech said to his wives Ada and Sella:"
+   },
+   {
+    "s": "lamech",
+    "t": "Hear my voice, ye wives of Lamech, hearken to my speech: for I have slain a man to the wounding of myself, and a stripling to my own bruising."
+   }
+  ],
+  "24": [
+   {
+    "s": "lamech",
+    "t": "Sevenfold vengeance shall be taken for Cain: but for Lamech seventy times sevenfold."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Adam also knew his wife again: and she brought forth a son, and called his name Seth, saying:"
+   },
+   {
+    "s": "eve",
+    "t": "God hath given me another seed for Abel, whom Cain slew."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "But to Seth also was born a son, whom he called Enos: this man began to call upon the name of the Lord."
+   }
+  ]
+ }
+}

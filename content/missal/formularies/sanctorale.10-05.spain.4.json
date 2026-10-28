@@ -1,0 +1,312 @@
+{
+ "id": "sanctorale.10-05.spain.4",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "5 de octubre"
+       ],
+       [
+        "Témporas de acción de gracias y de petición"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Misas para cuando las Témporas se celebran en tres días"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Día de petición por la actividad humana"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de entrada"
+       ]
+      ],
+      "cite": "Sal 89, 17. 14"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Haz prósperas, Señor, las obras de nuestras manos, y toda nuestra vida será alegría y júbilo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Oh, Dios,"
+       ],
+       [
+        "tú has querido que el estudio y el trabajo del hombre"
+       ],
+       [
+        "perfeccionaran cada día el universo que has creado,"
+       ],
+       [
+        "te pedimos que nuestros afanes y trabajos"
+       ],
+       [
+        "resulten siempre provechosos a la familia humana,"
+       ],
+       [
+        "y contribuyan al cumplimiento"
+       ],
+       [
+        "de tus designios sobre el mundo."
+       ],
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración sobre las ofrendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te presentamos, Señor, el pan y el vino"
+       ],
+       [
+        "con los que tú alimentas nuestra vida en la tierra"
+       ],
+       [
+        "y renuevas nuestra vida eterna;"
+       ],
+       [
+        "te pedimos que no ceses de darnos"
+       ],
+       [
+        "este pan que es nuestro sustento"
+       ],
+       [
+        "y este sacramento que es fuente de vida eterna."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El más apropiado es el Prefacio común"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona de la comunión"
+       ]
+      ],
+      "cite": "Mt 7, 7"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pedid y se os dará, buscad y encontraréis, llamad y se os abrirá, dice el Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración después de la comunión"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor,"
+       ],
+       [
+        "tú que nos has fortalecido"
+       ],
+       [
+        "con estos sacramentos de vida eterna,"
+       ],
+       [
+        "no dejes de ayudarnos con tu gracia"
+       ],
+       [
+        "también en los quehaceres temporales."
+       ],
+       [
+        "Por Jesucristo, nuestro Señor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "title": {
+  "*": "Témporas de acción de gracias y de petición"
+ }
+}

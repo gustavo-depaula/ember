@@ -1,5 +1,4 @@
 import Constants from 'expo-constants'
-import { Platform } from 'react-native'
 import { clearCache, getCached, setCache } from '@/db/repositories/cache'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 
@@ -10,8 +9,7 @@ const remoteUrl = 'https://ember.dpgu.me/hearth/v2'
 const devHost = Constants.expoConfig?.hostUri?.split(':')[0] ?? 'localhost'
 // A second worktree serves its own corpus on another port (EXPO_PUBLIC_HEARTH_PORT).
 const devPort = process.env.EXPO_PUBLIC_HEARTH_PORT ?? '4100'
-const localUrl =
-  Platform.OS === 'web' ? `http://localhost:${devPort}` : `http://${devHost}:${devPort}`
+const localUrl = `http://${devHost}:${devPort}`
 
 let useLocal = __DEV__
 let initialized = false

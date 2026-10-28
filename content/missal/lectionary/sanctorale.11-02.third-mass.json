@@ -1,0 +1,4040 @@
+{
+ "id": "sanctorale.11-02.third-mass",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 2 novembris"
+       ],
+       [
+        "IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 de Novembro"
+       ],
+       [
+        "Comemoração de Todos os Fiéis Defuntos"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "November 2"
+       ],
+       [
+        "The Commemoration of All the Faithful Departed"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 de noviembre"
+       ],
+       [
+        "CONMEMORACIÓN DE TODOS LOS FIELES DIFUNTOS"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 NOVEMBRE"
+       ],
+       [
+        "COMMEMORAZIONE DI TUTTI I FEDELI DEFUNTI"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 novembre"
+       ],
+       [
+        "COMMÉMORATION DE TOUS LES FIDÈLES DÉFUNTS"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2. November"
+       ],
+       [
+        "ALLERSEELEN"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "2"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vide lectiones in Missis Defunctorum"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "As leituras sejam escolhidas entre as leituras para as missas de defuntos"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From Masses for the Dead:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Las lecturas se toman de entre las propuestas para las misas de difuntos:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vedi il Lezionario per le Messe dei defunti."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comme lectures, on pourra choisir entre tous les textes proposés pour les funérailles."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Man kann die Texte aus dem Lektionar für die Verstorbenen frei auswählen."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quasi holocausti hostiam accepit illos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Sapiéntiæ"
+       ]
+      ],
+      "cite": "3, 1-9"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iustórum ánimæ in manu Dei sunt, et non tanget illos torméntum mortis. Visi sunt óculis insipiéntium mori, et æstimáta est afflíctio éxitus illórum, et, quod a nobis est iter, extermínium; illi autem sunt in pace. Etenim, si coram homínibus torménta passi sunt, spes illórum immortalitáte plena est; et in paucis corrépti, in multis bene disponéntur, quóniam Deus tentávit eos et invénit illos dignos se. Tamquam aurum in fornáce probávit illos et quasi holocáusti hóstiam accépit illos, et in témpore visitatiónis illórum fulgébunt et tamquam scintíllæ in arundinéto discúrrent; iudicábunt natiónes et dominabúntur pópulis, et regnábit Dóminus illórum in perpétuum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui confídunt in illo, intéllegent veritátem, et fidéles in dilectióne acquiéscent illi, quóniam grátia et misericórdia est sanctis eius, et visitátio eléctis eius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aceitou-os como sacrifício de holocausto»"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro da Sabedoria"
+       ]
+      ],
+      "cite": "3, 1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As almas dos justos estão na mão de Deus, e nenhum tormento os atingirá. Aos olhos dos insensatos parecem ter morrido; a sua saída deste mundo foi considerada uma desgraça e a sua partida do meio de nós um aniquilamento. Mas eles estão em paz. Aos olhos dos homens eles sofreram um castigo, mas a sua esperança estava cheia de imortalidade. Depois de leve pena, terão grandes benefícios, porque Deus os pôs à prova e os achou dignos de Si. Experimentou-os como ouro no crisol e aceitou-os como sacrifício de holocausto. No tempo da recompensa hão-de resplandecer, correndo como centelhas através da palha. Hão-de governar as nações e dominar os povos e o Senhor reinará sobre eles eternamente. Os que n'Ele confiam compreenderão a verdade e os que Lhe são fiéis permanecerão com Ele no amor, pois a graça e a misericórdia são para os seus santos e a sua vinda será benéfica para os seus eleitos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He accepted them as a holocaust."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the book of Wisdom"
+       ]
+      ],
+      "cite": "3:1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The souls of the virtuous are in the hands of God, no torment shall ever touch them. In the eyes of the unwise, they did appear to die, their going looked like a disaster, their leaving us, like annihilation; but they are in peace. If they experienced punishment as men see it, their hope was rich with immortality; slight was their affliction, great will their blessings be. God has put them to the test and proved them worthy to be with him; he has tested them like gold in a furnace, and accepted them as a holocaust. When the time comes for his visitation they will shine out; as sparks run through the stubble, so will they. They shall judge nations, rule over peoples, and the Lord will be their king for ever. They who trust in him will understand the truth, those who are faithful will live with him in love; for grace and mercy await those he has chosen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los aceptó como sacrificio de holocausto"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de la Sabiduría"
+       ]
+      ],
+      "cite": "3, 1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La vida de los justos está en manos de Dios,"
+       ],
+       [
+        "y ningún tormento los alcanzará."
+       ],
+       [
+        "Los insensatos pensaban que habían muerto,"
+       ],
+       [
+        "y consideraban su tránsito como una desgracia,"
+       ],
+       [
+        "y su salida de entre nosotros, una ruina,"
+       ],
+       [
+        "pero ellos están en paz."
+       ],
+       [
+        "Aunque la gente pensaba que cumplían una pena,"
+       ],
+       [
+        "su esperanza estaba llena de inmortalidad."
+       ],
+       [
+        "Sufrieron pequeños castigos, recibirán grandes bienes,"
+       ],
+       [
+        "porque Dios los puso a prueba y los halló dignos de él."
+       ],
+       [
+        "Los probó como oro en el crisol"
+       ],
+       [
+        "y los aceptó como sacrificio de holocausto."
+       ],
+       [
+        "En el día del juicio resplandecerán"
+       ],
+       [
+        "y se propagarán como chispas en un rastrojo."
+       ],
+       [
+        "Gobernarán naciones, someterán pueblos"
+       ],
+       [
+        "y el Señor reinará sobre ellos eternamente."
+       ],
+       [
+        "Los que confían en él comprenderán la verdad"
+       ],
+       [
+        "y los que son fieles a su amor permanecerán a su lado,"
+       ],
+       [
+        "porque la gracia y la misericordia son para sus devotos"
+       ],
+       [
+        "y la protección para sus elegidos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio gradisce i giusti come un olocausto."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro della Sapienza"
+       ]
+      ],
+      "cite": "3, 1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Le anime dei giusti sono nelle mani di Dio, nessun tormento le toccherà. Agli occhi degli stolti parve che morissero; la loro fine fu ritenuta una sciagura, la loro dipartita da noi una rovina, ma essi sono nella pace. Anche se agli occhi degli uomini subiscono castighi, la loro speranza è piena di immortalità. In cambio di una breve pena riceveranno grandi benefici, perché Dio li ha provati e li ha trovati degni di sé; li ha saggiati come oro nel crogiuòlo e li ha graditi come un olocàusto. Nel giorno del loro giudizio risplenderanno; come scintille nella stoppia, scorreranno qua e là. Governeranno le nazioni, avranno potere sui popoli e il Signore regnerà per sempre su di loro. Quanti confidano in lui comprenderanno la verità; coloro che gli sono fedeli vivranno presso di lui nell'amore, perché grazia e misericordia sono riservate ai suoi eletti."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de la Sagesse"
+       ]
+      ],
+      "cite": "3, 1-9"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les âmes des justes sont dans la main de Dieu ; aucun tourment n'a de prise sur eux. Aux yeux de l'insensé, ils ont paru mourir ; leur départ est compris comme un malheur, et leur éloignement, comme une fin : mais ils sont dans la paix. Au regard des hommes, ils ont subi un châtiment, mais l'espérance de l'immortalité les comblait. Après de faibles peines, de grands bienfaits les attendent, car Dieu les a mis à l'épreuve et trouvés dignes de lui. Comme l'or au creuset, il les a éprouvés ; comme une offrande parfaite, il les accueille. Au temps de sa visite, ils resplendiront : comme l'étincelle qui court sur la paille, ils avancent. Ils jugeront les nations, ils auront pouvoir sur les peuples, et le Seigneur régnera sur eux pour les siècles. Qui met en lui sa foi comprendra la vérité ; ceux qui sont fidèles resteront, dans l'amour, près de lui. Pour ses amis, grâce et miséricorde : il visitera ses élus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch der Weisheit"
+       ]
+      ],
+      "cite": "3, 1-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Seelen der Gerechten sind in Gottes Hand und keine Qual kann sie berühren. In den Augen der Toren sind sie gestorben, ihr Heimgang gilt als Unglück, ihr Scheiden von uns als Vernichtung; sie aber sind in Frieden. In den Augen der Menschen wurden sie gestraft; doch ihre Hoffnung ist voll Unsterblichkeit. Ein wenig nur werden sie gezüchtigt; doch sie empfangen große Wohltat. Denn Gott hat sie geprüft und fand sie seiner würdig. Wie Gold im Schmelzofen hat er sie erprobt und sie angenommen als ein vollgültiges Opfer. Beim Endgericht werden sie aufleuchten wie Funken, die durch ein Stoppelfeld sprühen. Sie werden Völker richten und über Nationen herrschen und der Herr wird ihr König sein in Ewigkeit."
+       ],
+       [
+        "Alle, die auf ihn vertrauen, werden die Wahrheit erkennen, und die Treuen werden bei ihm bleiben in Liebe. Denn Gnade und Erbarmen wird seinen Erwählten zuteil."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "firstReading",
+   "from": "for-the-dead.first-reading.3"
+  },
+  {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 1,
+    "label": "long"
+   },
+   "part": "firstReading",
+   "from": "for-the-dead.first-reading.3",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quasi holocausti hostiam accepit illos."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Sapiéntiæ"
+       ]
+      ],
+      "cite": "3, 1-6. 9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iustórum ánimæ in manu Dei sunt, et non tanget illos torméntum mortis. Visi sunt óculis insipiéntium mori, et æstimáta est afflíctio éxitus illórum, et, quod a nobis est iter, extermínium; illi autem sunt in pace. Etenim, si coram homínibus torménta passi sunt, spes illórum immortalitáte plena est; et in paucis corrépti, in multis bene disponéntur, quóniam Deus tentávit eos et invénit illos dignos se. Tamquam aurum in fornáce probávit illos et quasi holocáusti hóstiam accépit illos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui confídunt in illo, intéllegent veritátem, et fidéles in dilectióne acquiéscent illi, quóniam grátia et misericórdia est sanctis eius, et visitátio eléctis eius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aceitou-os como sacrifício de holocausto"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro da Sabedoria"
+       ]
+      ],
+      "cite": "3, 1-6. 9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As almas dos justos estão na mão de Deus, e nenhum tormento os atingirá. Aos olhos dos insensatos parecem ter morrido; a sua saída deste mundo foi considerada uma desgraça e a sua partida do meio de nós um aniquilamento. Mas eles estão em paz. Aos olhos dos homens eles sofreram um castigo, mas a sua esperança estava cheia de imortalidade. Depois de leve pena, terão grandes benefícios, porque Deus os pôs à prova e os achou dignos de Si. Experimentou-os como ouro no crisol e aceitou-os como sacrifício de holocausto. Os que n'Ele confiam compreenderão a verdade e os que Lhe são fiéis permanecerão com Ele no amor, pois a graça e a misericórdia são para os seus santos e a sua vinda será benéfica para os seus eleitos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He accepted them as a holocaust."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Wisdom"
+       ]
+      ],
+      "cite": "3:1-6.9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The souls of the virtuous are in the hands of God, no torment shall ever touch them. In the eyes of the unwise, they did appear to die, their going looked like a disaster, their leaving us, like annihilation; but they are in peace. If they experienced punishment as men see it, their hope was rich with immortality; slight was their affliction, great will their blessing be. God has put them to the test and proved them worthy to be with him; he has tested them like gold in a furnace, and accepted them as a holocaust. They who trust in him will understand the truth, those who are faithful will live with him in love; for grace and mercy await those he has chosen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los aceptó como sacrificio de holocausto"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de la Sabiduría"
+       ]
+      ],
+      "cite": "3, 1-6. 9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La vida de los justos está en manos de Dios,"
+       ],
+       [
+        "y ningún tormento los alcanzará."
+       ],
+       [
+        "Los insensatos pensaban que habían muerto,"
+       ],
+       [
+        "y consideraban su tránsito como una desgracia,"
+       ],
+       [
+        "y su salida de entre nosotros, una ruina,"
+       ],
+       [
+        "pero ellos están en paz."
+       ],
+       [
+        "Aunque la gente pensaba que cumplían una pena,"
+       ],
+       [
+        "su esperanza estaba llena de inmortalidad."
+       ],
+       [
+        "Sufrieron pequeños castigos, recibirán grandes bienes,"
+       ],
+       [
+        "porque Dios los puso a prueba y los halló dignos de él."
+       ],
+       [
+        "Los probó como oro en el crisol"
+       ],
+       [
+        "y los aceptó como sacrificio de holocausto."
+       ],
+       [
+        "Los que confían en él comprenderán la verdad"
+       ],
+       [
+        "y los que son fieles a su amor permanecerán a su lado,"
+       ],
+       [
+        "porque la gracia y la misericordia son para sus devotos"
+       ],
+       [
+        "y la protección para sus elegidos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de la Sagesse"
+       ]
+      ],
+      "cite": "3, 1-6. 9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les âmes des justes sont dans la main de Dieu ; aucun tourment n'a de prise sur eux. Aux yeux de l'insensé, ils ont paru mourir ; leur départ est compris comme un malheur, et leur éloignement, comme une fin : mais ils sont dans la paix. Au regard des hommes, ils ont subi un châtiment, mais l'espérance de l'immortalité les comblait. Après de faibles peines, de grands bienfaits les attendent, car Dieu les a mis à l'épreuve et trouvés dignes de lui. Comme l'or au creuset, il les a éprouvés ; comme une offrande parfaite, il les accueille. Qui met en lui sa foi comprendra la vérité ; ceux qui sont fidèles resteront, dans l'amour, près de lui. Pour ses amis, grâce et miséricorde : il visitera ses élus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem"
+       ]
+      ],
+      "cite": "3, 1-6. 9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Seelen der Gerechten sind in Gottes Hand und keine Qual kann sie berühren. In den Augen der Toren sind sie gestorben, ihr Heimgang gilt als Unglück, ihr Scheiden von uns als Vernichtung; sie aber sind in Frieden. In den Augen der Menschen wurden sie gestraft; doch ihre Hoffnung ist voll Unsterblichkeit. Ein wenig nur werden sie gezüchtigt; doch sie empfangen große Wohltat. Denn Gott hat sie geprüft und fand sie seiner würdig. Wie Gold im Schmelzofen hat er sie erprobt und sie angenommen als ein vollgültiges Opfer."
+       ],
+       [
+        "Alle, die auf ihn vertrauen, werden die Wahrheit erkennen, und die Treuen werden bei ihm bleiben in Liebe. Denn Gnade und Erbarmen wird seinen Erwählten zuteil."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "short"
+   },
+   "part": "firstReading",
+   "from": "for-the-dead.first-reading.3"
+  },
+  {
+   "role": "people",
+   "alt": {
+    "group": 1,
+    "option": 2,
+    "label": "short"
+   },
+   "part": "firstReading",
+   "from": "for-the-dead.first-reading.3",
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 41, 2. 3. 5bcde; 42, 3. 4. 5 (R.: 41, 3a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 41, 2. 3. 5bcd; 42, 3. 4. 5 (R.: 41, 3a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 41:2. 3. 5. R v.3",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 41, 2. 3. 5bcd; 42, 3. 4. 5 (R.: 41, 3a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dai Salmi 41 e 42",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 41, 2. 3. 5bcde; 42, 3. 4. 5 (R.: 41, 3a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps Ps 42 (41), 2-3a. 3b u. 5; Ps 43 (42), 3. 4 (R.: 42 [41], 3a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Sitívit ánima mea ad Deum vivum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "My soul is thirsting for God, the God of my life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mi alma tiene sed del Dios vivo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "L'anima mia ha sete del Dio vivente."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mon âme a soif du Dieu vivant ; quand le verrai-je face à face ?"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Meine Seele dürstet nach Gott, nach dem lebendigen Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quemádmodum desíderat cervus ad fontes aquárum,"
+       ],
+       [
+        "ita desíderat ánima mea ad te, Deus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Assim como a corça suspira pelas águas correntes, suspira, igualmente, minh'alma por vós, ó meu Deus!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Like the deer that yearns for running streams, so my soul is yearning for you, my God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Como busca la cierva corrientes de agua,"
+       ],
+       [
+        "así mi alma te busca a ti, Dios mío."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Come la cerva anèla ai corsi d'acqua,"
+       ],
+       [
+        "così l'anima mia anèla a te, o Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Comme un cerf altéré"
+       ],
+       [
+        "cherche l'eau vive, *"
+       ],
+       [
+        "ainsi mon âme te cherche,"
+       ],
+       [
+        "toi, mon Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wie der Hirsch lechzt nach frischem Wasser,"
+       ],
+       [
+        "so lechzt meine Seele, Gott; nach dir."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Sitívit ánima mea ad Deum vivum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "My soul is thirsting for God, the God of my life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mi alma tiene sed del Dios vivo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "L'anima mia ha sete del Dio vivente."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mon âme a soif du Dieu vivant ; quand le verrai-je face à face ?"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sitívit ánima mea ad Deum, Deum vivum:"
+       ],
+       [
+        "quando véniam et apparébo ante fáciem Dei"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Minha alma tem sede de Deus,"
+       ],
+       [
+        "e deseja o Deus vivo. Quando terei a alegria de ver"
+       ],
+       [
+        "a face de Deus?"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "My soul is thirsting for God, the God of my life; when can I enter and see the face of God?"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mi alma tiene sed de Dios, del Dios vivo:"
+       ],
+       [
+        "¿cuándo entraré a ver el rostro de Dios?"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'anima mia ha sete di Dio, del Dio vivente:"
+       ],
+       [
+        "quando verrò e vedrò il volto di Dio?"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mon âme a soif de Dieu,"
+       ],
+       [
+        "le Dieu vivant ; *"
+       ],
+       [
+        "quand pourrai-je m'avancer,"
+       ],
+       [
+        "paraître face à Dieu ?"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Meine Seele dürstet nach Gott,"
+       ],
+       [
+        "nach dem lebendigen Gott."
+       ],
+       [
+        "Wann darf ich kommen und Gottes Antlitz schauen?"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Sitívit ánima mea ad Deum vivum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "My soul is thirsting for God, the God of my life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mi alma tiene sed del Dios vivo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "L'anima mia ha sete del Dio vivente."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mon âme a soif du Dieu vivant ; quand le verrai-je face à face ?"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Meine Seele dürstet nach Gott, nach dem lebendigen Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quóniam transíbam in locum tabernáculi admirábilis"
+       ],
+       [
+        "usque ad domum Dei,"
+       ],
+       [
+        "in voce exsultatiónis et confessiónis,"
+       ],
+       [
+        "multitúdinis festa celebrántis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recordo saudoso o tempo"
+       ],
+       [
+        "em que ia com o povo. Peregrino e feliz caminhando"
+       ],
+       [
+        "para a casa de Deus, entre gritos, louvor e alegria"
+       ],
+       [
+        "da multidão jubilosa."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "These things will I remember as I pour out my soul: how I would lead the rejoicing crowd into the house of God, amid cries of gladness and thanksgiving, the throng wild with joy."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cómo entraba en el recinto santo,"
+       ],
+       [
+        "cómo avanzaba hacia la casa de Dios"
+       ],
+       [
+        "entre cantos de júbilo y alabanza,"
+       ],
+       [
+        "en el bullicio de la fiesta."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Questo io ricordo, e il mio cuore si strugge:"
+       ],
+       [
+        "attraverso la folla avanzavo tra i primi"
+       ],
+       [
+        "fino alla casa di Dio,"
+       ],
+       [
+        "in mezzo ai canti di gioia"
+       ],
+       [
+        "di una moltitudine in festa"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quóniam transíbam in locum tabernáculi admirábilis"
+       ],
+       [
+        "usque ad domum Dei,"
+       ],
+       [
+        "in voce exsultatiónis et confessiónis,"
+       ],
+       [
+        "multitúdinis festa celebrántis."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Das Herz geht mir über, wenn ich daran denke:"
+       ],
+       [
+        "wie ich zum Haus Gottes zog in festlicher Schar,"
+       ],
+       [
+        "mit Jubel und Dank in feiernder Menge."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Sitívit ánima mea ad Deum vivum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "My soul is thirsting for God, the God of my life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mi alma tiene sed del Dios vivo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "L'anima mia ha sete del Dio vivente."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mon âme a soif du Dieu vivant ; quand le verrai-je face à face ?"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Meine Seele dürstet nach Gott, nach dem lebendigen Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Emítte lucem tuam et veritátem tuam;"
+       ],
+       [
+        "ipsa me dedúcant et addúcant"
+       ],
+       [
+        "in montem sanctum tuum et in tabernácula tua."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Enviai vossa luz, vossa verdade:"
+       ],
+       [
+        "elas serão o meu guia; que me levem ao vosso Monte santo,"
+       ],
+       [
+        "até a vossa morada!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O send forth your light and your truth; let these be my guide. Let them bring me to your holy mountain to the place where you dwell."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Envía tu luz y tu verdad:"
+       ],
+       [
+        "que ellas me guíen"
+       ],
+       [
+        "y me conduzcan hasta tu monte santo,"
+       ],
+       [
+        "hasta tu morada."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Manda la tua verità e la tua luce;"
+       ],
+       [
+        "siano esse a guidarmi,"
+       ],
+       [
+        "mi portino al tuo monte santo e alle tue dimore"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Envoie ta lumière et ta vérité :"
+       ],
+       [
+        "qu'elles guident mes pas *"
+       ],
+       [
+        "et me conduisent à ta montagne sainte,"
+       ],
+       [
+        "jusqu'en ta demeure."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sende dein Licht und deine Wahrheit,"
+       ],
+       [
+        "damit sie mich leiten;"
+       ],
+       [
+        "sie sollen mich führen zu deinem heiligen Berg"
+       ],
+       [
+        "und zu deiner Wohnung."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Sitívit ánima mea ad Deum vivum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "My soul is thirsting for God, the God of my life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mi alma tiene sed del Dios vivo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "L'anima mia ha sete del Dio vivente."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mon âme a soif du Dieu vivant ; quand le verrai-je face à face ?"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Meine Seele dürstet nach Gott, nach dem lebendigen Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et introíbo ad altáre Dei,"
+       ],
+       [
+        "ad Deum lætítiæ exsultatiónis meæ."
+       ],
+       [
+        "Confitébor tibi in cíthara, Deus, Deus meus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Então irei aos altares do Senhor,"
+       ],
+       [
+        "Deus da minha alegria. Vosso louvor cantarei, ao som da harpa,"
+       ],
+       [
+        "meu Senhor e meu Deus!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "And I will come to the altar of God, the God of my joy. My redeemer, I will thank you on the harp, O God, my God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Me acercaré al altar de Dios,"
+       ],
+       [
+        "al Dios de mi alegría,"
+       ],
+       [
+        "y te daré gracias al son de la cítara,"
+       ],
+       [
+        "Dios, Dios mío."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verrò all'altare di Dio,"
+       ],
+       [
+        "al Dio della mia gioia, del mio giubilo."
+       ],
+       [
+        "A te canterò con la cetra, Dio, Dio mio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "J'avancerai jusqu'à l'autel de Dieu,"
+       ],
+       [
+        "vers Dieu qui est toute ma joie ; *"
+       ],
+       [
+        "je te rendrai grâce avec ma harpe,"
+       ],
+       [
+        "Dieu, mon Dieu !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "So will ich zum Altar Gottes treten,"
+       ],
+       [
+        "zum Gott meiner Freude."
+       ],
+       [
+        "Jauchzend will ich dich auf der Harfe loben,"
+       ],
+       [
+        "Gott; mein Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Sitívit ánima mea ad Deum vivum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "My soul is thirsting for God, the God of my life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mi alma tiene sed del Dios vivo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "L'anima mia ha sete del Dio vivente."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mon âme a soif du Dieu vivant ; quand le verrai-je face à face ?"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Meine Seele dürstet nach Gott, nach dem lebendigen Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quare tristis es, ánima mea, et quare conturbáris in me?"
+       ],
+       [
+        "Spera in Deo, quóniam adhuc confitébor illi,"
+       ],
+       [
+        "salutáre vultus mei et Deus meus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Porque estás triste, minha alma, e desfaleces? Espera em Deus: Ainda O hei-de louvar, meu Salvador e meu Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Why are you cast down, my soul, why groan within me? Hope in God; I will praise him still, my savior and my God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "¿Por qué te acongojas, alma mía,"
+       ],
+       [
+        "por qué gimes dentro de mí?"
+       ],
+       [
+        "Espera en Dios, que volverás a alabarlo:"
+       ],
+       [
+        "«Salud de mi rostro, Dios mío»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perché ti rattristi, anima mia,"
+       ],
+       [
+        "perché su di me gemi?"
+       ],
+       [
+        "Spera in Dio: ancora potrò lodarlo,"
+       ],
+       [
+        "lui, salvezza del mio volto e mio Dio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pourquoi te désoler, ô mon âme,"
+       ],
+       [
+        "et gémir sur moi ? *"
+       ],
+       [
+        "Espère en Dieu ! De nouveau je rendrai grâce :"
+       ],
+       [
+        "il est mon sauveur et mon Dieu !"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Sitívit ánima mea ad Deum vivum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Minha alma tem sede de Deus, e deseja o Deus vivo!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "My soul is thirsting for God, the God of my life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mi alma tiene sed del Dios vivo."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "L'anima mia ha sete del Dio vivente."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mon âme a soif du Dieu vivant ; quand le verrai-je face à face ?"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio secunda"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mors ultra non erit, neque luctus neque clamor neque dolor erit ultra."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Apocalýpsis beáti Ioánnis apóstoli"
+       ]
+      ],
+      "cite": "21, 1-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego, Ioánnes, vidi cælum novum et terram novam; primum enim cælum et prima terra abiérunt, et mare iam non est."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et civitátem sanctam Ierúsalem novam vidi descendéntem de cælo a Deo, parátam sicut sponsam ornátam viro suo. Et audívi vocem magnam de throno dicéntem: «Ecce tabernáculum Dei cum homínibus! Et habitábit cum eis, et ipsi pópuli eius erunt, et ipse Deus cum eis erit eórum Deus; et abstérget omnem lácrimam ab óculis eórum, et mors ultra non erit, neque luctus neque clamor neque dolor erit ultra, quia prima abiérunt»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et dixit, qui sedébat super throno: «Ecce nova fácio ómnia». Et dicit: «Scribe: Hæc verba fidélia sunt et vera»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et dixit mihi: «Facta sunt! Ego sum Alpha et Omega, princípium et finis. Ego sitiénti dabo de fonte aquæ vivæ gratis. Qui vícerit, hereditábit hæc, et ero illi Deus, et ille erit mihi fílius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nunca mais haverá morte"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Apocalipse"
+       ]
+      ],
+      "cite": "21, 1-5a. 6b-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu, João, vi um novo céu e uma nova terra, porque o primeiro céu e a primeira terra tinham desaparecido e o mar já não existia. Vi também a cidade santa, a nova Jerusalém, que descia do Céu, da presença de Deus, bela como noiva adornada para o seu esposo. Do trono ouvi uma voz forte que dizia: «Eis a morada de Deus com os homens. Deus habitará com os homens: eles serão o seu povo e o próprio Deus, no meio deles, será o seu Deus. Ele enxugará todas as lágrimas dos seus olhos; nunca mais haverá morte nem luto, nem gemidos nem dor, Disse então Aquele que estava sentado no trono: «Vou renovar todas as coisas. Eu sou o Alfa e o Ómega, o Princípio e o Fim. Àquele que tem sede darei a beber gratuitamente da fonte da água viva. O vencedor receberá esta herança; Eu serei seu Deus e ele será meu filho»"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "There will be no more death."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the book of the Apocalypse"
+       ]
+      ],
+      "cite": "21:1-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I, John, saw a new heaven and a new earth; the first heaven and the first earth had disappeared now, and there was no longer any sea. I saw the holy city, and the new Jerusalem, coming down from God out of heaven, as beautiful as a bride all dressed for her husband. Then I heard a loud voice call from the throne, `You see this city? Here God lives among men. He will make his home among them; they shall be his people, and he will be their God; his name is God-with-them. He will wipe away all tears from their eyes; there will be no more death, and no more mourning or sadness. The world of the past has gone.' Then the One sitting on the throne spoke: `Now I am making the whole of creation new,' he said. `I will give water from the well of life free to anybody who is thirsty; it is the rightful inheritance of the one who proves victorious; and I will be his God and he a son to me.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ya no habrá muerte"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Apocalipsis"
+       ]
+      ],
+      "cite": "21, 1-5a. 6b-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo, Juan, vi un cielo nuevo y una tierra nueva, pues el primer cielo y la primera tierra desaparecieron, y el mar ya no existe."
+       ],
+       [
+        "Y vi la ciudad santa, la nueva Jerusalén que descendía del cielo, de parte de Dios, preparada como una esposa que se ha adornado para su esposo."
+       ],
+       [
+        "Y oí una gran voz desde el trono que decía:"
+       ],
+       [
+        "«He aquí la morada de Dios entre los hombres, y morará entre ellos, y ellos serán su pueblo, y el “Dios con ellos” será su Dios». Y enjugará toda lágrima de sus ojos, y ya no habrá muerte, ni duelo, ni llanto ni dolor, porque lo primero ha desaparecido."
+       ],
+       [
+        "Y dijo el que está sentado en el trono:"
+       ],
+       [
+        "«Mira, hago nuevas todas las cosas. Yo soy el Alfa y la Omega, el principio y el fin. Al que tenga sed yo le daré de la fuente del agua de la vida gratuitamente. El vencedor heredará esto: yo seré Dios para él, y él será para mí hijo»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de l'Apocalypse de saint Jean"
+       ]
+      ],
+      "cite": "21, 1-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Moi, Jean, j'ai vu un ciel nouveau et une terre nouvelle, car le premier"
+       ],
+       [
+        "ciel et la première terre s'en étaient allés et, de mer, il n'y en a plus."
+       ],
+       [
+        "Et la Ville sainte, la Jérusalem nouvelle, je l'ai vue qui descendait du"
+       ],
+       [
+        "ciel, d'auprès de Dieu, prête pour les noces, comme une épouse parée pour"
+       ],
+       [
+        "son mari. Et j'entendis une voix forte qui venait du Trône. Elle disait :"
+       ],
+       [
+        "\" Voici la demeure de Dieu avec les hommes ; il demeurera avec eux, et ils seront ses peuples, et lui-même, Dieu avec eux, sera leur Dieu. Il essuiera toute larme de leurs yeux, et la mort ne sera plus, et il n'y aura plus ni deuil, ni cri, ni douleur : ce qui était en premier s'en est allé. \""
+       ],
+       [
+        "Alors celui qui siégeait sur le Trône déclara :"
+       ],
+       [
+        "\" Voici que je fais toutes choses nouvelles. Moi, je suis l'alpha et l'oméga, le commencement et la fin. À celui qui a soif, moi, je donnerai l'eau de la source de vie, gratuitement. Tel sera l'héritage du vainqueur ; je serai son Dieu, et lui sera mon fils. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus der Offenbarung des Johannes"
+       ]
+      ],
+      "cite": "21, 1-5a. 6b-7",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich, Johannes, sah einen neuen Himmel und eine neue Erde; denn der erste Himmel und die erste Erde sind vergangen, auch das Meer ist nicht mehr."
+       ],
+       [
+        "Ich sah die heilige Stadt, das neue Jerusalem, von Gott her aus dem Himmel herabkommen; sie war bereit wie eine Braut, die sich für ihren Mann geschmückt hat. Da hörte ich eine laute Stimme vom Thron her rufen: Seht, die Wohnung Gottes unter den Menschen! Er wird in ihrer Mitte wohnen, und sie werden sein Volk sein; und er, Gott, wird bei ihnen sein. Er wird alle Tränen von ihren Augen abwischen: Der Tod wird nicht mehr sein, keine Trauer, keine Klage, keine Mühsal. Denn was früher war, ist vergangen."
+       ],
+       [
+        "Er, der auf dem Thron saß, sprach: Seht, ich mache alles neu."
+       ],
+       [
+        "Ich bin das Alpha und das Omega, der Anfang und das Ende. Wer durstig ist, den werde ich umsonst aus der Quelle trinken lassen, aus der das Wasser des Lebens strömt. Wer siegt, wird dies als Anteil erhalten: Ich werde sein Gott sein, und er wird mein Sohn sein."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "secondReading",
+   "from": "for-the-dead.first-reading-easter.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "secondReading",
+   "from": "for-the-dead.first-reading-easter.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Cf. Mt 11, 25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Benedíctus es, Pater, Dómine cæli et terræ,"
+       ],
+       [
+        "quia mystéria regni párvulis revelásti."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Cf. Mt 11, 25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bendito sejais, ó Pai, Senhor do céu e da terra, porque revelastes aos humildes os mistérios do reino."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "cf. Mt 11:25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Blessed are you, Father, Lord of heaven and earth; for revealing the mysteries of the kingdom to mere children."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Cf. Mt 11, 25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bendito seas, Padre, Señor del cielo y de la tierra,"
+       ],
+       [
+        "porque has revelado los misterios del reino a los pequeños."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Cf. Mt 11, 25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Tu es béni, Père, Seigneur du ciel et de la terre, tu as révélé aux tout-petits les mystères du Royaume !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Vgl. Mt 11, 25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Sei gepriesen, Vater, Herr des Himmels und der Erde; du hast die Geheimnisse des Reiches den Unmündigen offenbart."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "from": "for-the-dead.acclamation.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gaudete et exsultate, quoniam merces vestra copiosa est in cælis."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Evangelho de Nosso Senhor Jesus Cristo segundo São Mateus"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rejoice and be glad, for your reward will be great in heaven."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "5:1-12",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "5, 1-12",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "5, 1-12a",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "for-the-dead.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "for-the-dead.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Videns Iesus turbas, ascéndit in montem; et cum sedísset, accessérunt ad eum discípuli eius; et apériens os suum docébat eos dicens:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Beáti páuperes spíritu, quóniam ipsórum est regnum cælórum."
+       ],
+       [
+        "Beáti, qui lugent, quóniam ipsi consolabúntur."
+       ],
+       [
+        "Beáti mites, quóniam ipsi possidébunt terram."
+       ],
+       [
+        "Beáti, qui esúriunt et sítiunt iustítiam, quóniam ipsi saturabúntur."
+       ],
+       [
+        "Beáti misericórdes, quia ipsi misericórdiam consequéntur."
+       ],
+       [
+        "Beáti mundo corde, quóniam ipsi Deum vidébunt."
+       ],
+       [
+        "Beáti pacífici, quóniam fílii Dei vocabúntur."
+       ],
+       [
+        "Beáti, qui persecutiónem patiúntur propter iustítiam, quóniam ipsórum est regnum cælórum."
+       ],
+       [
+        "Beáti estis cum maledíxerint vobis et persecúti vos fúerint et díxerint omne malum advérsum vos, mentiéntes, propter me. Gaudéte et exsultáte, quóniam merces vestra copiósa est in cælis»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo: Vendo Jesus as multidões, subiu ao monte e sentou-se. Os discípulos aproximaram-se, e Jesus começou a ensiná-los:\"Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus. Bem-aventurados os aflitos, porque serão consolados. Bem-aventurados os mansos, porque possuirão a terra. Bem-aventurados os que têm fome e sede de justiça, porque serão saciados. Bem-aventurados os misericordiosos, porque alcançarão misericórdia. Bem-aventurados os puros de coração, porque verão a Deus. Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus. Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus. Bem-aventurados sois vós, quando vos injuriarem e perseguirem, e mentindo, disserem todo tipo de mal contra vós, por causa de mim. Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rejoice and be glad, for your reward will be great in heaven. Seeing the crowds, Jesus went up the hill. There he sat down and was joined by his disciples. Then he began to speak. This is what he taught them: How happy are the poor in spirit; theirs is the kingdom of heaven. Happy the gentle: they shall have the earth for their heritage. Happy those who mourn: they shall be comforted. Happy those who hunger and thirst for what is right: they shall be satisfied. Happy the merciful: they shall have mercy shown them. Happy the pure in heart: they shall see God. Happy the peacemakers: they shall be called sons of God. Happy those who are persecuted in the cause of right: theirs is the kingdom of heaven. Happy are you when peoples.\"abuse-you and persecute you and speak all kinds of calumny against you on my account. Rejoice and be glad, for your reward will be great in heaven."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, al ver Jesús el gentío, subió al monte, se sentó y se acercaron sus discípulos; y, abriendo su boca, les enseñaba diciendo:"
+       ],
+       [
+        "«Bienaventurados los pobres en el espíritu,"
+       ],
+       [
+        "porque de ellos es el reino de los cielos."
+       ],
+       [
+        "Bienaventurados los mansos,"
+       ],
+       [
+        "porque ellos heredarán la tierra."
+       ],
+       [
+        "Bienaventurados los que lloran,"
+       ],
+       [
+        "porque ellos serán consolados."
+       ],
+       [
+        "Bienaventurados los que tienen hambre y sed de la justicia,"
+       ],
+       [
+        "porque ellos quedarán saciados."
+       ],
+       [
+        "Bienaventurados los misericordiosos,"
+       ],
+       [
+        "porque ellos alcanzarán misericordia."
+       ],
+       [
+        "Bienaventurados los limpios de corazón,"
+       ],
+       [
+        "porque ellos verán a Dios."
+       ],
+       [
+        "Bienaventurados los que trabajan por la paz,"
+       ],
+       [
+        "porque ellos serán llamados hijos de Dios."
+       ],
+       [
+        "Bienaventurados los perseguidos por causa de la justicia,"
+       ],
+       [
+        "porque de ellos es el reino de los cielos."
+       ],
+       [
+        "Bienaventurados vosotros cuando os insulten y os persigan y os calumnien de cualquier modo por mi causa. Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, vedendo le folle, Gesù salì sulla montagna e, messosi a sedere, gli si avvicinarono i suoi discepoli. Prendendo allora la parola, li ammaestrava dicendo: «Beati i poveri in spirito, perché di essi è il regno dei cieli. Beati gli afflitti, perché saranno consolati. Beati i miti, perché erediteranno la terra. Beati quelli che hanno fame e sete della giustizia, perché saranno saziati. Beati i misericordiosi, perché troveranno misericordia. Beati i puri di cuore, perché vedranno Dio. Beati gli operatori di pace, perché saranno chiamati figli di Dio. Beati i perseguitati per causa della giustizia, perché di essi è il regno dei cieli. Beati voi quando vi insulteranno, vi perseguiteranno e, mentendo, diranno ogni sorta di male contro di voi per causa mia. Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, voyant les foules, Jésus gravit la montagne. Il s'assit, et"
+       ],
+       [
+        "ses disciples s'approchèrent de lui. Alors, ouvrant la bouche, il les"
+       ],
+       [
+        "enseignait. Il disait :"
+       ],
+       [
+        "\" Heureux les pauvres de cœur, car le royaume des Cieux est à eux. Heureux ceux qui pleurent, car ils seront consolés. Heureux les doux, car ils recevront la terre en héritage. Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés. Heureux les miséricordieux, car ils obtiendront miséricorde. Heureux les cœurs purs, car ils verront Dieu. Heureux les artisans de paix, car ils seront appelés fils de Dieu. Heureux ceux qui sont persécutés pour la justice, car le royaume des Cieux est à eux. Heureux êtes-vous si l'on vous insulte, si l'on vous persécute et si l'on dit faussement toute sorte de mal contre vous, à cause de moi. Réjouissez-vous, soyez dans l'allégresse, car votre récompense est grande dans les cieux ! \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit,"
+       ],
+       [
+        "als Jesus die vielen Menschen sah, die ihm folgten, stieg er auf einen Berg. Er setzte sich, und seine Jünger traten zu ihm. Dann begann er zu reden und lehrte sie. Er sagte:"
+       ],
+       [
+        "Selig, die arm sind vor Gott; denn ihnen gehört das Himmelreich."
+       ],
+       [
+        "Selig die Trauernden; denn sie werden getröstet werden."
+       ],
+       [
+        "Selig, die keine Gewalt anwenden; denn sie werden das Land erben."
+       ],
+       [
+        "Selig, die hungern und dürsten nach der Gerechtigkeit; denn sie werden satt werden."
+       ],
+       [
+        "Selig die Barmherzigen; denn sie werden Erbarmen finden."
+       ],
+       [
+        "elig, die ein reines Herz haben; denn sie werden Gott schauen."
+       ],
+       [
+        "Slig, die Frieden stiften; denn sie werden Söhne Gottes genannt werden."
+       ],
+       [
+        "eig, die um der Gerechtigkeit willen verfolgt werden; denn ihnen gehört das Himmelreich."
+       ],
+       [
+        "Slg seid ihr, wenn ihr um meinetwillen beschimpft und verfolgt und auf alle mögliche Weise verleumdet werdet. Freut euch und jubelt: Euer Lohn im Himmel wird groß sein."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "for-the-dead.gospel.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "for-the-dead.gospel.1"
+  }
+ ],
+ "lectionary": "readings.cp1f1",
+ "title": {
+  "la": "IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM",
+  "pt-BR": "Comemoração de Todos os Fiéis Defuntos",
+  "en-US": "The Commemoration of All the Faithful Departed",
+  "es": "CONMEMORACIÓN DE TODOS LOS FIELES DIFUNTOS",
+  "it": "COMMEMORAZIONE DI TUTTI I FEDELI DEFUNTI",
+  "fr": "COMMÉMORATION DE TOUS LES FIDÈLES DÉFUNTS",
+  "de": "ALLERSEELEN",
+  "*": "Hl. Hubert, Bischof"
+ }
+}

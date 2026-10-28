@@ -1,0 +1,76 @@
+{
+ "pericopes": [
+  1,
+  5
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "old",
+   "note": "John the seer on Patmos telling what he saw and heard, with his own exhortations to the reader."
+  },
+  "heavenly-voices": {
+   "name": "Heavenly voices",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The victors over the beast on the sea of glass, singing the canticle of Moses and of the Lamb."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And I saw another sign in heaven, great and wonderful: seven angels having the seven last plagues. For in them is filled up the wrath of God."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And I saw as it were a sea of glass mingled with fire: and them that had overcome the beast and his image and the number of his name, standing on the sea of glass, having the harps of God:"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And singing the canticle of Moses, the servant of God, and the canticle of the Lamb, saying:"
+   },
+   {
+    "s": "heavenly-voices",
+    "t": "Great and wonderful are thy works, O Lord God Almighty. Just and true are thy ways, O King of ages."
+   }
+  ],
+  "4": [
+   {
+    "s": "heavenly-voices",
+    "t": "Who shall not fear thee, O Lord, and magnify thy name? For thou only art holy. For all nations shall come and shall adore in thy sight, because thy judgments are manifest."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And after these things, I looked: and behold, the temple of the tabernacle of the testimony in heaven was opened."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the seven angels came out of the temple, having the seven plagues, clothed with clean and white linen and girt about the breasts with golden girdles."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And one of the four living creatures gave to the seven angels seven golden vials, full of the wrath of God, who liveth for ever and ever."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And the temple was filled with smoke from the majesty of God and from his power. And no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled."
+   }
+  ]
+ }
+}

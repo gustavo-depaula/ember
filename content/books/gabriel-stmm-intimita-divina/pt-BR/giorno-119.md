@@ -10,16 +10,16 @@
 **1** — O domingo de hoje é uma pausa de santa alegria, de
 refrigério espiritual que a Igreja, como boa mãe,
 nos oferece no meio das austeras práticas quaresmais,
-quase para restaurar nossas forças. "Alegra-te, ó Jerusalém -
+quase para restaurar nossas forças. “Alegra-te, ó Jerusalém -
 canta o Intróito da Missa - e vós todos que a amais
 exultai de alegria e saciai-vos na abundância de suas
-delícias". Quais são essas delícias? Responde-nos o Evangelho
+delícias”. Quais são essas delícias? Responde-nos o Evangelho
 do dia (Jo. 6, 1-15) com a narração da multiplicação
 dos pães, o grande milagre mediante o qual Jesus
 quis dispor as multidões para o anúncio de um milagre
 bem mais estupendo: a instituição da Eucaristia, pela qual Ele,
-o Mestre, se tornaria nosso pão, "pão vivo
-descido do céu" (Jo. 6, 41), para alimento de
+o Mestre, se tornaria nosso pão, “pão vivo
+descido do céu” (Jo. 6, 41), para alimento de
 nossas almas. Eis o motivo da nossa alegria, eis a fonte
 de nossas delícias: Jesus é o pão da vida, sempre à
 nossa disposição para saciar nossa fome.
@@ -37,22 +37,22 @@ Jesus sabe que, quando o homem é atormentado pela fome,
 pelas necessidades materiais, é incapaz de atender às coisas
 do espírito. A caridade exige também em nós essa compreensão
 das necessidades materiais alheias, compreensão efetiva
-que se traduz em ação eficaz. "Se um irmão ou uma
+que se traduz em ação eficaz. “Se um irmão ou uma
 irmã estiverem nus e necessitados do alimento quotidiano,
-e um dentre vós lhes disser: 'Ide em paz...' sem lhes dar as coisas
-necessárias para o corpo, que proveito haverá?" (Tg 2, 15 e 16).
+e um dentre vós lhes disser: ‘Ide em paz...’ sem lhes dar as coisas
+necessárias para o corpo, que proveito haverá?” (Tg 2, 15 e 16).
 
 Os Apóstolos haviam proposto ao Mestre despedir
-a multidão para que todos pudessem ir "comprar de
-comer" (Mt. 14, 15). Jesus não aceitou
+a multidão para que todos pudessem ir “comprar de
+comer” (Mt. 14, 15). Jesus não aceitou
 e quis prover pessoalmente. Procura também tu, na medida do
 possível, nunca mandar embora o próximo necessitado
 sem lhe prestar tua ajuda.
 
 
 **2** — Antes de realizar o milagre, Jesus pergunta a
-Filipe: "Onde compraremos pão para dar de comer a esta gente?" e o Evangelista observa: "dizia isso para pô-lo à prova,
-porque sabia o que havia de fazer". Não há circunstância difícil da nossa vida cuja solução Deus não conheça; para cada caso,
+Filipe: “Onde compraremos pão para dar de comer a esta gente?” e o Evangelista observa: “dizia isso para pô-lo à prova,
+porque sabia o que havia de fazer”. Não há circunstância difícil da nossa vida cuja solução Deus não conheça; para cada caso,
 mesmo o mais intricado, Ele previu desde a eternidade
 e mantém pronto o remédio. Todavia, diante de circunstâncias difíceis,
 às vezes parece que Ele nos deixa sozinhos, quase como se
@@ -85,7 +85,7 @@ o milagre da tua santificação.
 
 ### Colóquio
 
-"Senhor Jesus Cristo, Filho do Deus vivo, que na
+“Senhor Jesus Cristo, Filho do Deus vivo, que na
 cruz, com os braços abertos, bebeste, para a redenção de
 todos os homens, o cálice de inenarráveis dores, digna-te
 hoje socorrer-me. Eis: eu, pobre, venho a ti,
@@ -94,7 +94,7 @@ que eu não me afaste de ti vazio e desiludido.
 Faminto, a ti venho; não permitas que de ti eu parta em jejum;
 famelico, aproximo-me; ah, que eu não me retire
 sem ter sido por ti saciado; e se antes de comer suspiro,
-concede que depois dos suspiros eu possa ser alimentado" (S. Agostinho).
+concede que depois dos suspiros eu possa ser alimentado” (S. Agostinho).
 
 Sim, tenho fome de ti, pão verdadeiro, pão vivo, pão da vida.
 Tu conheces minha fome, fome da alma e fome do corpo,
@@ -117,11 +117,9 @@ pelo futuro, e a tudo provês com amor paterno.
 Ó Senhor, como não confiar em ti, como não lançar
 em ti toda minha solicitude, certo de que Tu terás um
 remédio para tudo? A ti, pois, confio minha vida:
-
 vida do corpo, vida terrena com todas as suas necessidades,
 com todos os seus trabalhos; vida do espírito com todas as suas
 exigências, suas ansiedades, com toda sua fome do infinito. Tu
 só podes preencher a capacidade do meu coração; Tu só podes
-
 tornar-me feliz; Tu só podes realizar meu ideal de
 santidade, de união contigo.

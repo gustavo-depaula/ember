@@ -1,0 +1,298 @@
+{
+ "pericopes": [
+  1,
+  16,
+  20
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of the deliverance from Egypt: measured, solemn, unhurried."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to Moses: sovereign and patient, commanding and announcing each plague."
+  },
+  "moses": {
+   "name": "Moses",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Eighty years old; diffident before God, firm and unbending before Pharao."
+  },
+  "pharaoh": {
+   "name": "Pharao",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "King of Egypt: proud, bargaining under pressure, relenting and then hardening again."
+  },
+  "egyptian-magicians": {
+   "name": "The magicians of Egypt",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Pharao's enchanters, beaten at last and admitting it in awe."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Go in to Pharao, and thou shalt say to him: Thus saith the Lord: Let my people go to sacrifice to me."
+   }
+  ],
+  "2": [
+   {
+    "s": "the-lord",
+    "t": "But if thou wilt not let them go, behold I will strike all thy coasts with frogs."
+   }
+  ],
+  "3": [
+   {
+    "s": "the-lord",
+    "t": "And the river shall bring forth an abundance of frogs; which shall come up and enter into thy house, and thy bedchamber, and upon thy bed, and into the houses of thy servants, and to thy people, and into thy ovens, and into the remains of thy meats:"
+   }
+  ],
+  "4": [
+   {
+    "s": "the-lord",
+    "t": "And the frogs shall come in to thee, and to thy people, and to all thy servants."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Say to Aaron: Stretch forth thy hand upon the streams, and upon the rivers and the pools, and bring forth frogs upon the land of Egypt."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And Aaron stretched forth his hand upon the waters of Egypt, and the frogs came up, and covered the land of Egypt."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And the magicians also, by their enchantments, did in like manner, and they brought forth frogs upon the land of Egypt."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "But Pharao called Moses and Aaron, and said to them:"
+   },
+   {
+    "s": "pharaoh",
+    "t": "Pray ye to the Lord to take away the frogs from me and from my people; and I will let the people go to sacrifice to the Lord."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And Moses said to Pharao:"
+   },
+   {
+    "s": "moses",
+    "t": "Set me a time when I shall pray for thee, and for thy servants, and for thy people, that the frogs may be driven away from thee and from thy house, and from thy servants, and from thy people; and may remain only in the river."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And he answered:"
+   },
+   {
+    "s": "pharaoh",
+    "t": "To morrow."
+   },
+   {
+    "s": "narrator",
+    "t": "But he said:"
+   },
+   {
+    "s": "moses",
+    "t": "I will do according to thy word; that thou mayest know that there is none like to the Lord our God."
+   }
+  ],
+  "11": [
+   {
+    "s": "moses",
+    "t": "And the frogs shall depart from thee, and from thy house, and from thy servants, and from thy people; and shall remain only in the river."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And Moses and Aaron went forth from Pharao: and Moses cried to the Lord for the promise, which he had made to Pharao concerning the frogs."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And the Lord did according to the word of Moses: and the frogs died out of the houses, and out of the villages, and out of the fields:"
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And they gathered them together into immense heaps, and the land was corrupted."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And Pharao seeing that rest was given, hardened his own heart, and did not hear them, as the Lord had commanded."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Say to Aaron: Stretch forth thy rod, and strike the dust of the earth; and may there be sciniphs in all the land of Egypt."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And they did so. And Aaron stretched forth his hand, holding the rod; and he struck the dust of the earth, and there came sciniphs on men and on beasts: all the dust of the earth was turned into sciniphs through all the land of Egypt."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And the magicians with their enchantments practised in like manner, to bring forth sciniphs, and they could not: and there were sciniphs as well on men as on beasts."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And the magicians said to Pharao:"
+   },
+   {
+    "s": "egyptian-magicians",
+    "t": "This is the finger of God."
+   },
+   {
+    "s": "narrator",
+    "t": "And Pharao's heart was hardened, and he hearkened not unto them, as the Lord had commanded."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "The Lord also said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Arise early, and stand before Pharao; for he will go forth to the waters: and thou shalt say to him: Thus saith the Lord: Let my people go to sacrifice to me."
+   }
+  ],
+  "21": [
+   {
+    "s": "the-lord",
+    "t": "But if thou wilt not let them go, behold I will send in upon thee, and upon thy servants, and upon thy houses, all kind of flies: and the houses of the Egyptians shall be filled with flies of divers kinds, and the whole land wherein they shall be."
+   }
+  ],
+  "22": [
+   {
+    "s": "the-lord",
+    "t": "And I will make the land of Gessen wonderful in that day, so that flies shall not be there: and thou shalt know that I am the Lord in the midst of the earth."
+   }
+  ],
+  "23": [
+   {
+    "s": "the-lord",
+    "t": "And I will put a division between my people and thy people: to morrow shall this sign be."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And the Lord did so. And there came a very grievous swarm of flies into the houses of Pharao and of his servants, and into all the land of Egypt: and the land was corrupted by this kind of flies."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And Pharao called Moses and Aaron, and said to them:"
+   },
+   {
+    "s": "pharaoh",
+    "t": "Go and sacrifice to your God in this land."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And Moses said:"
+   },
+   {
+    "s": "moses",
+    "t": "It cannot be so: for we shall sacrifice the abominations of the Egyptians to the Lord our God: now if we kill those things which the Egyptians worship, in their presence, they will stone us."
+   }
+  ],
+  "27": [
+   {
+    "s": "moses",
+    "t": "We will go three days' journey into the wilderness; and we will sacrifice to the Lord our God, as he hath commanded us."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And Pharao said:"
+   },
+   {
+    "s": "pharaoh",
+    "t": "I will let you go to sacrifice to the Lord your God in the wilderness, but go no farther: pray for me."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And Moses said:"
+   },
+   {
+    "s": "moses",
+    "t": "I will go out from thee, and will pray to the Lord: and the flies shall depart from Pharao, and from his servants, and from his people to morrow: but do not deceive any more, in not letting the people go to sacrifice to the Lord."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "So Moses went out from Pharao, and prayed to the Lord."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And he did according to his word: and he took away the flies from Pharao, and from his servants, and from his people: there was not left so much as one."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And Pharao's heart was hardened, so that neither this time would he let the people go."
+   }
+  ]
+ }
+}

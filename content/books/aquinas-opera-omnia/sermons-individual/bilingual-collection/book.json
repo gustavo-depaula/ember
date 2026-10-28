@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Occasional Sermons (Bilingual)",
-    "la": "Sermones Occasionales (Bilingues)"
+    "la": "Sermones Occasionales (Bilingues)",
+    "pt-BR": "Sermões ocasionais (bilíngue)"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's surviving university and feast-day sermons in their Aquinas Institute bilingual edition — Latin from the Leonine/Bataillon critical editions, English from various scholars (Hoogland, Sulavik, et al.). Complements the older Geremia-sourced *Sermons* book by providing modern English alongside the Latin.",
-    "la": "Sermones Thomae superstites universitarii et festivi in editione bilingui Instituti Aquinatis — latine ex editionibus criticis Leoninensi et Bataillon, anglice ex variis viris doctis (Hoogland, Sulavik, et al.)."
+    "la": "Sermones Thomae superstites universitarii et festivi in editione bilingui Instituti Aquinatis — latine ex editionibus criticis Leoninensi et Bataillon, anglice ex variis viris doctis (Hoogland, Sulavik, et al.).",
+    "pt-BR": "Os sermões universitários e de festas de Santo Tomás de Aquino que chegaram até nós, na edição bilíngue do Aquinas Institute — o latim das edições críticas Leonina e de Bataillon, o inglês de vários estudiosos (Hoogland, Sulavik e outros). Complementa o livro *Sermões*, mais antigo, de procedência Geremia, oferecendo um inglês moderno ao lado do latim."
   },
   "composed": "c. 1265–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,28 +39,32 @@
       "id": "p1",
       "title": {
         "en-US": "Sermon — The Boy Jesus (Puer)",
-        "la": "Sermo — Puer Iesus"
+        "la": "Sermo — Puer Iesus",
+        "pt-BR": "Sermão — O menino Jesus (Puer)"
       },
       "children": [
         {
           "id": "p1-puer-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p1-puer-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p1-puer-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -65,28 +73,32 @@
       "id": "p2",
       "title": {
         "en-US": "Sermon — Beware of the False Prophets (Attendite)",
-        "la": "Sermo — Attendite"
+        "la": "Sermo — Attendite",
+        "pt-BR": "Sermão — Guardai-vos dos falsos profetas (Attendite)"
       },
       "children": [
         {
           "id": "p2-attendite-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p2-attendite-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p2-attendite-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -95,28 +107,32 @@
       "id": "p3",
       "title": {
         "en-US": "Sermon — Behold Your King (Ecce Rex)",
-        "la": "Sermo — Ecce Rex"
+        "la": "Sermo — Ecce Rex",
+        "pt-BR": "Sermão — Eis o teu Rei (Ecce Rex)"
       },
       "children": [
         {
           "id": "p3-eccerex-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p3-eccerex-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p3-eccerex-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -125,28 +141,32 @@
       "id": "p4",
       "title": {
         "en-US": "Sermon — A Sower Went Out (Exiit)",
-        "la": "Sermo — Exiit"
+        "la": "Sermo — Exiit",
+        "pt-BR": "Sermão — Saiu o semeador (Exiit)"
       },
       "children": [
         {
           "id": "p4-exiit-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p4-exiit-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p4-exiit-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -155,21 +175,24 @@
       "id": "p5",
       "title": {
         "en-US": "Sermon — Hosanna to the Son of David (Osanna)",
-        "la": "Sermo — Osanna"
+        "la": "Sermo — Osanna",
+        "pt-BR": "Sermão — Hosana ao Filho de Davi (Osanna)"
       },
       "children": [
         {
           "id": "p5-osanna-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p5-osanna-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         }
       ]
@@ -178,14 +201,16 @@
       "id": "p6",
       "title": {
         "en-US": "Sermon — Let Us Throw Off the Works of Darkness (Abiciamus)",
-        "la": "Sermo — Abiciamus"
+        "la": "Sermo — Abiciamus",
+        "pt-BR": "Sermão — Rejeitemos as obras das trevas (Abiciamus)"
       },
       "children": [
         {
           "id": "p6-abiciamus-c01",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         }
       ]
@@ -194,28 +219,32 @@
       "id": "p7",
       "title": {
         "en-US": "Sermon — Happy the Nation (Beata Gens)",
-        "la": "Sermo — Beata Gens"
+        "la": "Sermo — Beata Gens",
+        "pt-BR": "Sermão — Feliz a nação (Beata Gens)"
       },
       "children": [
         {
           "id": "p7-beata-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p7-beata-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p7-beata-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -224,14 +253,16 @@
       "id": "p8",
       "title": {
         "en-US": "Sermon — Happy Those Who Live in Your House (Beati)",
-        "la": "Sermo — Beati"
+        "la": "Sermo — Beati",
+        "pt-BR": "Sermão — Felizes os que habitam em vossa casa (Beati)"
       },
       "children": [
         {
           "id": "p8-beati-c01",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         }
       ]
@@ -240,28 +271,32 @@
       "id": "p9",
       "title": {
         "en-US": "Sermon — Happy the Man (Beatus Vir)",
-        "la": "Sermo — Beatus Vir"
+        "la": "Sermo — Beatus Vir",
+        "pt-BR": "Sermão — Feliz o homem (Beatus Vir)"
       },
       "children": [
         {
           "id": "p9-beatus-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p9-beatus-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p9-beatus-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -270,21 +305,24 @@
       "id": "p10",
       "title": {
         "en-US": "Sermon — Heaven and Earth (Coelum)",
-        "la": "Sermo — Coelum et Terra"
+        "la": "Sermo — Coelum et Terra",
+        "pt-BR": "Sermão — O céu e a terra (Coelum)"
       },
       "children": [
         {
           "id": "p10-coelum-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p10-coelum-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         }
       ]
@@ -293,14 +331,16 @@
       "id": "p11",
       "title": {
         "en-US": "Sermon — Behold I Send My Angel (Ecce Ego)",
-        "la": "Sermo — Ecce Ego Mitto"
+        "la": "Sermo — Ecce Ego Mitto",
+        "pt-BR": "Sermão — Eis que eu envio o meu anjo (Ecce Ego)"
       },
       "children": [
         {
           "id": "p11-ecceego-c01",
           "title": {
             "en-US": "EcceEgo.a",
-            "la": "EcceEgo.a"
+            "la": "EcceEgo.a",
+            "pt-BR": "Fragmento"
           }
         }
       ]
@@ -309,28 +349,32 @@
       "id": "p12",
       "title": {
         "en-US": "Sermon — Let the Earth Bring Forth (Germinet)",
-        "la": "Sermo — Germinet Terra"
+        "la": "Sermo — Germinet Terra",
+        "pt-BR": "Sermão — Germine a terra (Germinet)"
       },
       "children": [
         {
           "id": "p12-germinet-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p12-germinet-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p12-germinet-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -339,28 +383,32 @@
       "id": "p13",
       "title": {
         "en-US": "Sermon — There Was a Certain Rich Man (Homo Erat)",
-        "la": "Sermo — Homo Erat"
+        "la": "Sermo — Homo Erat",
+        "pt-BR": "Sermão — Havia um homem rico (Homo Erat)"
       },
       "children": [
         {
           "id": "p13-homoerat-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p13-homoerat-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p13-homoerat-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -369,28 +417,32 @@
       "id": "p14",
       "title": {
         "en-US": "Sermon — A Light Has Gone Up for the Just (Lux)",
-        "la": "Sermo — Lux Orta Est"
+        "la": "Sermo — Lux Orta Est",
+        "pt-BR": "Sermão — Nasceu a luz para o justo (Lux)"
       },
       "children": [
         {
           "id": "p14-lux-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p14-lux-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p14-lux-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -399,28 +451,32 @@
       "id": "p15",
       "title": {
         "en-US": "Sermon — Send Out Your Spirit (Emitte)",
-        "la": "Sermo — Emitte Spiritum"
+        "la": "Sermo — Emitte Spiritum",
+        "pt-BR": "Sermão — Enviai o vosso Espírito (Emitte)"
       },
       "children": [
         {
           "id": "p15-emitte-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p15-emitte-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p15-emitte-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -429,28 +485,32 @@
       "id": "p16",
       "title": {
         "en-US": "Sermon — Someone Made a Great Dinner (Homo Fecit)",
-        "la": "Sermo — Homo Fecit Cenam"
+        "la": "Sermo — Homo Fecit Cenam",
+        "pt-BR": "Sermão — Um homem fez uma grande ceia (Homo Fecit)"
       },
       "children": [
         {
           "id": "p16-homo-fecit-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p16-homo-fecit-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p16-homo-fecit-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -459,14 +519,16 @@
       "id": "p17",
       "title": {
         "en-US": "Sermon — Sing Praise and Be Glad (Lauda)",
-        "la": "Sermo — Lauda et Laetare"
+        "la": "Sermo — Lauda et Laetare",
+        "pt-BR": "Sermão — Louva e alegra-te (Lauda)"
       },
       "children": [
         {
           "id": "p17-lauda-c01",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         }
       ]
@@ -475,14 +537,16 @@
       "id": "p18",
       "title": {
         "en-US": "Sermon — Upon It Stood the Seraphim (Seraphim)",
-        "la": "Sermo — Seraphim Stabant"
+        "la": "Sermo — Seraphim Stabant",
+        "pt-BR": "Sermão — Os serafins estavam por cima dele (Seraphim)"
       },
       "children": [
         {
           "id": "p18-seraphim-c01",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         }
       ]
@@ -491,14 +555,16 @@
       "id": "p19",
       "title": {
         "en-US": "Sermon — He Who Is Desired (Veniet)",
-        "la": "Sermo — Veniet Desideratus"
+        "la": "Sermo — Veniet Desideratus",
+        "pt-BR": "Sermão — Virá o Desejado (Veniet)"
       },
       "children": [
         {
           "id": "p19-veniet-c01",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         }
       ]
@@ -507,28 +573,32 @@
       "id": "p20",
       "title": {
         "en-US": "Sermon — Ask, and You Will Receive (Petite)",
-        "la": "Sermo — Petite et Accipietis"
+        "la": "Sermo — Petite et Accipietis",
+        "pt-BR": "Sermão — Pedi e recebereis (Petite)"
       },
       "children": [
         {
           "id": "p20-petite-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p20-petite-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         },
         {
           "id": "p20-petite-c03",
           "title": {
             "en-US": "Evening Collation",
-            "la": "Evening Collation"
+            "la": "Evening Collation",
+            "pt-BR": "Colação vespertina"
           }
         }
       ]
@@ -537,21 +607,24 @@
       "id": "p21",
       "title": {
         "en-US": "Sermon — I Have Found David (Inveni)",
-        "la": "Sermo — Inveni David"
+        "la": "Sermo — Inveni David",
+        "pt-BR": "Sermão — Encontrei Davi (Inveni)"
       },
       "children": [
         {
           "id": "p21-inveni-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p21-inveni-c02",
           "title": {
             "en-US": "Sermon",
-            "la": "Sermon"
+            "la": "Sermon",
+            "pt-BR": "Sermão"
           }
         }
       ]
@@ -560,14 +633,16 @@
       "id": "p22",
       "title": {
         "en-US": "Sermon Fragment — Wisdom Will Strengthen the Wise (Sapient)",
-        "la": "Fragmentum — Sapientia Confortabit"
+        "la": "Fragmentum — Sapientia Confortabit",
+        "pt-BR": "Fragmento de sermão — A sabedoria fortalecerá o sábio (Sapient)"
       },
       "children": [
         {
           "id": "p22-sapient-c01",
           "title": {
             "en-US": "Sapient",
-            "la": "Sapient"
+            "la": "Sapient",
+            "pt-BR": "Fragmento"
           }
         }
       ]
@@ -576,14 +651,16 @@
       "id": "p23",
       "title": {
         "en-US": "Sermon Fragment — Arise (Surge)",
-        "la": "Fragmentum — Surge"
+        "la": "Fragmentum — Surge",
+        "pt-BR": "Fragmento de sermão — Levanta-te (Surge)"
       },
       "children": [
         {
           "id": "p23-surge-c01",
           "title": {
             "en-US": "Surge",
-            "la": "Surge"
+            "la": "Surge",
+            "pt-BR": "Fragmento"
           }
         }
       ]

@@ -1,0 +1,34 @@
+---
+import type { Field } from '~/lib/developers/flowReference'
+import { escapeHtml } from '~/lib/developers/json'
+import { chooser } from '~/lib/developers/text'
+import type { Locale } from '~/lib/locale'
+
+interface Props {
+  locale: Locale
+  fields: Field[]
+}
+
+// Names in a field's type that the flow reference defines link to their entry.
+const defined = new Set(['FlowSection', 'LocalizedText', 'LocalizedContent', 'PickerStyle'])
+const typeHtml = (type: string) =>
+  escapeHtml(type).replace(/\b[A-Z]\w+\b/g, (name) =>
+    defined.has(name) ? `<a href="#${name === 'FlowSection' ? 'sections' : name}">${name}</a>` : name,
+  )
+const required = chooser(Astro.props.locale)('required', 'obrigatório')
+const docHtml = (doc: string) => escapeHtml(doc).replace(/`([^`]+)`/g, '<code>$1</code>')
+---
+
+<table class="fields">
+  <tbody>
+    {Astro.props.fields.map((f) => (
+      <tr>
+        <th scope="row"><code>{f.name}</code>{!f.optional && <span class="req">{required}</span>}</th>
+        <td>
+          <code class="type" set:html={typeHtml(f.type)} />
+          {f.doc && <p class="t-annotation" set:html={docHtml(f.doc)} />}
+        </td>
+      </tr>
+    ))}
+  </tbody>
+</table>

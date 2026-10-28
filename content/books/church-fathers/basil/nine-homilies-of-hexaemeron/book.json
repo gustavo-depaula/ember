@@ -2,13 +2,16 @@
   "id": "basil-nine-homilies-of-hexaemeron",
   "cover": "quarter",
   "name": {
-    "en-US": "Nine Homilies of Hexaemeron"
+    "en-US": "Nine Homilies of Hexaemeron",
+    "pt-BR": "Nove Homilias sobre o Hexâmeron"
   },
   "author": {
-    "en-US": "Basil the Great"
+    "en-US": "Basil the Great",
+    "pt-BR": "Basílio Magno"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,55 +24,64 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Homily I"
+        "en-US": "Homily I",
+        "pt-BR": "Homilia I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Homily II"
+        "en-US": "Homily II",
+        "pt-BR": "Homilia II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Homily III"
+        "en-US": "Homily III",
+        "pt-BR": "Homilia III"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Homily IV"
+        "en-US": "Homily IV",
+        "pt-BR": "Homilia IV"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Homily V"
+        "en-US": "Homily V",
+        "pt-BR": "Homilia V"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Homily VI"
+        "en-US": "Homily VI",
+        "pt-BR": "Homilia VI"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Homily VII"
+        "en-US": "Homily VII",
+        "pt-BR": "Homilia VII"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Homily VIII"
+        "en-US": "Homily VIII",
+        "pt-BR": "Homilia VIII"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Homily IX"
+        "en-US": "Homily IX",
+        "pt-BR": "Homilia IX"
       }
     }
   ]

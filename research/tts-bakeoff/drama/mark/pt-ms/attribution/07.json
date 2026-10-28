@@ -1,0 +1,317 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; explains Jewish customs and Aramaic words to his readers."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Sharp with the hypocrites, patient teacher with the disciples, testing then granting the woman's plea."
+  },
+  "pharisees-and-scribes": {
+   "name": "The Pharisees and Scribes",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Religious authorities from Jerusalem; fault-finding and accusing."
+  },
+  "syrophoenician-woman": {
+   "name": "The Syrophoenician woman",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "A Gentile mother begging for her possessed daughter; humble and quick-witted."
+  },
+  "crowd": {
+   "name": "The crowd in Decapolis",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Witnesses of the healing of the deaf-mute; overflowing with wonder."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Reuniram-se em volta de Jesus os fariseus e alguns dos escribas, vindos de Jerusalém."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Tendo visto alguns dos seus discípulos comer o pão com as mãos impuras, isto é, por lavar,"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "(porque os fariseus e todos os Judeus, em observância da tradição dos antigos, não comem sem lavar as mãos cuidadosamente;"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "e, quando vêm da praça pública, não comem sem se purificar; e praticam muitas outras observâncias tradicionais, como lavar os copos, os jarros, os vasos de metal, e os leitos),"
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "os fariseus e os escrivas interrogaram-no:"
+   },
+   {
+    "s": "pharisees-and-scribes",
+    "t": "\"Porque não andam os teus discípulos segundo a tradição dos antigos, mas comem o pão sem lavar as mãos?\""
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Ele respondeu-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Com razão Isaías profetizou de vós, hipócritas, quando escreveu: Este povo honra-me com os lábios, mas o seu coração está longe de mim"
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "É vão o culto que me prestam, ensinando doutrinas que são preceitos humanos."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "Pondo de lado o mandamento de Deus, observais cuidadosamente a tradição dos homens.\""
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Disse-lhes mais:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Vós bem fazeis por destruir o mandamento de Deus, para manter a vossa tradição."
+   }
+  ],
+  "10": [
+   {
+    "s": "jesus",
+    "t": "Porque Moisés disse: Honra teu pai e tua mãe. E todo o que amaldiçoar seu pai ou sua mãe, seja punido de morte."
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "Porém vós dizeis; Se alguém disser a seu pai ou a sua mãe: É oferta a Deus qualquer coisa minha que te possa ser útil;"
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "e não lhe deixais fazer nada em favor de seu pai ou de sua mãe,"
+   }
+  ],
+  "13": [
+   {
+    "s": "jesus",
+    "t": "anulando assim a palavra de Deus por uma tradição, que tendes transmitido de uns aos outros. E fazeis muitas coisas semelhantes a esta.\""
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Convocando novamente o povo, dizia-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Ouvi-me todos, e entendei."
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "Não há coisa fora do homem que, entrando nele, o possa manchar, mas as que saem do homem, essas são as que tornam o homem impuro."
+   }
+  ],
+  "16": [
+   {
+    "s": "jesus",
+    "t": "Se alguém tem ouvidos para ouvir, ouça.\""
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Tendo entrado em casa, deixada a multidão, os seus discípulos interrogaram-no sobre esta parábola."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Ele respondeu-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Também vós sois ignorantes? Não compreendeis que tudo o que, de fora, entra no homem, não o pode contaminar,"
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "porque não entra no seu coração, mas vai ter ao ventre, e lança-se num lugar escuso?\""
+   },
+   {
+    "s": "narrator",
+    "t": "Com isto declarava puros todos os alimentos.",
+    "q": "this translation closes the quotation and renders \"purging all meats\" as the evangelist's comment; the English keeps it inside Jesus' speech"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "E acrescentava:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"O que sai do homem, é que contamina o homem."
+   }
+  ],
+  "21": [
+   {
+    "s": "jesus",
+    "t": "Porque do interior, do coração do homem é que procedem os maus pensamentos, os furtos, as fornicações, os homicídios,"
+   }
+  ],
+  "22": [
+   {
+    "s": "jesus",
+    "t": "os adultérios, as avarezas, as perversidades, as fraudes, as libertinagens, a inveja, a maledicência, a soberba, a loucura."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "Todos estes males procedem de dentro, e contaminam o homem.\""
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Partindo dali, foi Jesus para o território de Tiro e de Sidónia. Tendo entrado numa casa, não queria que ninguém o soubesse, mas não pôde ocultar-se."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Porque uma mulher, cuja filha estava possessa do espirito imundo, logo que ouviu falar dele, foi lançar-se a seus pés."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Era uma mulher gentia, siro-fenícia de nação. Suplicava-lhe que expelisse o demônio de sua filha."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Jesus disse-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Deixa que primeiro sejam fartos os filhos, porque não é bem tomar o pão dos filhos e lançá-lo aos cães.\""
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Mas ela respondeu-lhe:"
+   },
+   {
+    "s": "syrophoenician-woman",
+    "t": "\"Assim é, Senhor, mas também os cachorrinhos comem, debaixo da mesa, das migalhas que caem dos meninos.\""
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Ele disse-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Por esta palavra que disseste, vai, o demônio saiu de tua filha.\""
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "Tendo voltado para sua casa, encontrou a menina deitada sobre o leito, tendo o demônio saindo dela."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Jesus, deixando o território de Tiro, foi novamente por Sidónia ao mar da Galileia, atravessando o território da Decápole."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "Trouxeram-lhe um surdo-mudo, e suplicavam-lhe que lhe impusesse a mão."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Então Jesus, tomando-o aparte dentre a multidão, meteu-lhe os dedos nos ouvidos, e tocou com saliva a sua língua."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Depois, levantando os olhos ao céu, deu um suspiro, e disse-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Ephphata\","
+   },
+   {
+    "s": "narrator",
+    "t": "que quer dizer \"abre-te\".",
+    "q": "the evangelist's translation gloss given to narrator; only the Aramaic word is Jesus"
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Imediatamente se lhe abriram os ouvidos, se lhe soltou a prisão da língua, e falava claramente."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "Ordenou-lhes que a ninguém o dissessem. Porém, quanto mais lho proibia, mais o publicavam."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "E admiravam-se, sobremaneira, dizendo:"
+   },
+   {
+    "s": "crowd",
+    "t": "\"Tudo tem feito bem! Faz ouvir os surdos, e falar os mudos!"
+   }
+  ]
+ }
+}

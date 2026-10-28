@@ -1,0 +1,1951 @@
+{
+ "id": "sanctorale.10-20.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20. Oktober"
+       ],
+       [
+        "Hl. Wendelin, Einsiedler"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Infirma mundi elegit Deus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vidéte vocatiónem vestram, fratres; quia non multi sapiéntes secúndum carnem, non multi poténtes, non multi nóbiles; sed, quæ stulta sunt mundi, elégit Deus, ut confúndat sapiéntes, et infírma mundi elégit Deus, ut confúndat fórtia, et ignobília mundi et contemptibília elégit Deus, quæ non sunt, ut ea, quæ sunt, destrúeret, ut non gloriétur omnis caro in conspéctu Dei."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ex ipso autem vos estis in Christo Iesu, qui factus est sapiéntia nobis a Deo et iustítia et sanctificátio et redémptio, ut quemádmodum scriptum est: «Qui gloriátur, in Dómino gloriétur»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus escolheu o que o mundo considera como fraco."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos, considerai vós mesmos, como fostes chamados por Deus. Pois entre vós não há muitos sábios de sabedoria humana nem muitos poderosos nem muitos nobres. Na verdade, Deus escolheu o que o mundo considera como estúpido, para assim confundir os sábios; Deus escolheu o que o mundo considera como fraco, para assim confundir o que é forte; Deus escolheu o que para o mundo é sem importância e desprezado, o que não tem nenhuma serventia, para assim mostrar a inutilidade do que é considerado importante, para que ninguém possa gloriar-se diante dele. É graças a ele que vós estais em Cristo Jesus, o qual se tornou para nós, da parte de Deus: sabedoria, justiça, santificação e libertação, para que, como está escrito, \"quem se gloria, glorie-se no Senhor\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint Paul to the Corinthians"
+       ]
+      ],
+      "cite": "1:26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Take yourselves for instance, brothers, at the time when you were called: how many of you were wise in the ordinary sense of the word, how many were influential people, or came from noble families? No, it was to shame the wise that God chose what is foolish by human reckoning, and to shame what is strong that he chose what is weak by human reckoning; those whom the world thinks common and contemptible are the ones that God has chosen - those who are nothing at all to show up those who are everything. The human race has nothing to boast about to God, but you, God has made members of Christ Jesus and by God's doing he has become our wisdom, and our virtue, and our holiness, and our freedom. As scripture says: if anyone wants to boast, let him boast about the Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dios ha escogido lo débil del mundo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fijaos en vuestra asamblea, hermanos: no hay en ella muchos sabios en lo humano, ni muchos poderosos, ni muchos aristócratas; sino que, lo necio del mundo lo ha escogido Dios para humillar a los sabios, y lo débil del mundo lo ha escogido Dios para humillar lo poderoso."
+       ],
+       [
+        "Aún más, ha escogido la gente baja del mundo, lo despreciable, lo que no cuenta, para anular a lo que cuenta, de modo que nadie pueda gloriarse en presencia del Señor."
+       ],
+       [
+        "A él se debe que vosotros estéis en Cristo Jesús, el cual se ha hecho para nosotros sabiduría de parte de Dios, justicia, santificación y redención."
+       ],
+       [
+        "Y así —como está escrito—: «el que se gloríe, que se gloríe en el Señor»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio ha scelto quello che è debole per il mondo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Considerate la vostra chiamata, fratelli: non ci sono fra voi molti sapienti dal punto di vista umano, né molti potenti, né molti nobili."
+       ],
+       [
+        "Ma quello che è stolto per il mondo, Dio lo ha scelto per confondere i sapienti; quello che è debole per il mondo, Dio lo ha scelto per confondere i forti; quello che è ignobile e disprezzato per il mondo, quello che è nulla, Dio lo ha scelto per ridurre al nulla le cose che sono, perché nessuno possa vantarsi di fronte a Dio."
+       ],
+       [
+        "Grazie a lui voi siete in Cristo Gesù, il quale per noi è diventato sapienza per opera di Dio, giustizia, santificazione e redenzione, perché, come sta scritto, chi si vanta, si vanti nel Signore."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, vous qui avez été appelés par Dieu, regardez bien : parmi vous, il n'y a pas beaucoup de sages aux yeux des hommes, ni de gens puissants ou de haute naissance. Au contraire, ce qu'il y a de fou dans le monde, voilà ce que Dieu a choisi, pour couvrir de confusion les sages ; ce qu'il y a de faible dans le monde, voilà ce que Dieu a choisi, pour couvrir de confusion ce qui est fort ; ce qui est d'origine modeste, méprisé dans le monde, ce qui n'est pas, voilà ce que Dieu a choisi, pour réduire à rien ce qui est ; ainsi aucun être de chair ne pourra s'enorgueillir devant Dieu. C'est grâce à Dieu, en effet, que vous êtes dans le Christ Jésus, lui qui est devenu pour nous sagesse venant de Dieu, justice, sanctification, rédemption. Ainsi, comme il est écrit : Celui qui veut être fier, qu'il mette sa fierté dans le Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "1, 26-31",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seht auf eure Berufung, Brüder! Da sind nicht viele Weise im irdischen Sinn, nicht viele Mächtige, nicht viele Vornehme, sondern das Törichte in der Welt hat Gott erwählt, um die Weisen zuschanden zu machen, und das Schwache in der Welt hat Gott erwählt, um das Starke zuschanden zu machen. Und das Niedrige in der Welt und das Verachtete hat Gott erwählt: das, was nichts ist, um das, was etwas ist, zu vernichten, damit kein Mensch sich rühmen kann vor Gott."
+       ],
+       [
+        "Von ihm her seid ihr in Christus Jesus, den Gott für uns zur Weisheit gemacht hat, zur Gerechtigkeit, Heiligung und Erlösung. Wer sich also rühmen will, der rühme sich des Herrn; so heißt es schon in der Schrift."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.holy-men-and-women.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 15(16), 1-2a e 5. 7-8. 11 (R.: cf. 5a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "15, 1-2a and 5. 7-8. 11 (R.: cf. 5a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 15, 1-2a y 5. 7-8. 11 (R.: cf. 5a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dal Salmo 15 (16)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "15, 1-2a et 5. 7-8. 11 (R.: cf. 5a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 16 (15), 1-2 u. 5. 7-8. 9 u. 11 (R.: vgl. 5a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu es, Dómine, pars hereditátis meæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, sois a porção da minha herança e do meu cálice."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "You are my inheritance, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tú eres, Señor, el lote de mi heredad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sei, Signore, mia parte di eredità."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, mon partage et ma coupe !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du, Herr, bist mein Anteil und Erbe."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Consérva me, Deus, quóniam sperávi in te."
+       ],
+       [
+        "Dixi Dómino: «Dóminus meus es tu»."
+       ],
+       [
+        "Dóminus pars hereditátis meæ et cálicis mei:"
+       ],
+       [
+        "tu es qui détines sortem meam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guardai-me, ó Deus, porque em vós me refugio! Digo ao Senhor: \"Somente vós sois meu Senhor\". Ó Senhor, sois minha herança e minha taça, meu destino está seguro em vossas mãos!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preserve me, God, I take refuge in you. I say to the Lord: 'You are my God'. O Lord, it is your who are my portion and cup; it is you yourself who are my prize."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Protégeme, Dios mío, que me refugio en ti."
+       ],
+       [
+        "Yo digo al Señor: «Tú eres mi Dios»."
+       ],
+       [
+        "El Señor es el lote de mi heredad y mi copa,"
+       ],
+       [
+        "mi suerte está en tu mano."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proteggimi, o Dio: in te mi rifugio."
+       ],
+       [
+        "Ho detto al Signore: «Il mio Signore sei tu»."
+       ],
+       [
+        "Il Signore è mia parte di eredità e mio calice:"
+       ],
+       [
+        "nelle tue mani è la mia vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Garde-moi, mon Dieu :"
+       ],
+       [
+        "j'ai fait de toi mon refuge."
+       ],
+       [
+        "J'ai dit au Seigneur : \" Tu es mon Dieu !"
+       ],
+       [
+        "Je n'ai pas d'autre bonheur que toi. \""
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Behüte mich, Gott, denn ich vertraue dir."
+       ],
+       [
+        "Ich sage zum Herrn: „Du bist mein Herr;"
+       ],
+       [
+        "mein ganzes Glück bist du allein.“"
+       ],
+       [
+        "Du, Herr, gibst mir das Erbe und reichst mir den Becher;"
+       ],
+       [
+        "du hältst mein Los in deinen Händen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu es, Dómine, pars hereditátis meæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, sois a porção da minha herança e do meu cálice."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "You are my inheritance, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tú eres, Señor, el lote de mi heredad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sei, Signore, mia parte di eredità."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, mon partage et ma coupe !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du, Herr, bist mein Anteil und Erbe."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedícam Dóminum qui tríbuit mihi intelléctum;"
+       ],
+       [
+        "ínsuper et in nóctibus erudiérunt me renes mei."
+       ],
+       [
+        "Proponébam Dóminum in conspéctu meo semper,"
+       ],
+       [
+        "quóniam a dextris est mihi, non commovébor."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eu bendigo o Senhor, que me aconselha, e até de noite me adverte o coração. Tenho sempre o Senhor ante meus olhos, pois se o tenho a meu lado não vacilo."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I will bless the Lord who gives me counsel, who even at night directs my heart. I keep the Lord ever in my sight: since he is at my right hand, I shall stand firm."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bendeciré al Señor que me aconseja,"
+       ],
+       [
+        "hasta de noche me instruye internamente."
+       ],
+       [
+        "Tengo siempre presente al Señor,"
+       ],
+       [
+        "con él a mi derecha no vacilaré."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedico il Signore che mi ha dato consiglio;"
+       ],
+       [
+        "anche di notte il mio animo mi istruisce."
+       ],
+       [
+        "Io pongo sempre davanti a me il Signore,"
+       ],
+       [
+        "sta alla mia destra, non potrò vacillare."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je bénis le Seigneur qui me conseille :"
+       ],
+       [
+        "même la nuit mon cœur m'avertit."
+       ],
+       [
+        "Je garde le Seigneur devant moi sans relâche ;"
+       ],
+       [
+        "il est à ma droite : je suis inébranlable."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich preise den Herrn, der mich beraten hat."
+       ],
+       [
+        "Auch mahnt mich mein Herz in der Nacht."
+       ],
+       [
+        "Ich habe den Herrn beständig vor Augen."
+       ],
+       [
+        "Er steht mir zur Rechten, ich wanke nicht."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu es, Dómine, pars hereditátis meæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, sois a porção da minha herança e do meu cálice."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "You are my inheritance, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tú eres, Señor, el lote de mi heredad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sei, Signore, mia parte di eredità."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, mon partage et ma coupe !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du, Herr, bist mein Anteil und Erbe."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Notas mihi fácies vias vitæ,"
+       ],
+       [
+        "plenitúdinem lætítiæ cum vultu tuo,"
+       ],
+       [
+        "delectatiónes in déxtera tua usque in finem."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vós me ensinais vosso caminho para a vida; junto a vós, felicidade sem limites, delícia eterna e alegria ao vosso lado!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You will show me the path of life, the fullness of joy in your presence, at your right hand happiness for ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Me enseñarás el sendero de la vida,"
+       ],
+       [
+        "me saciarás de gozo en tu presencia,"
+       ],
+       [
+        "de alegría perpetua a tu derecha."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mi indicherai il sentiero della vita,"
+       ],
+       [
+        "gioia piena alla tua presenza,"
+       ],
+       [
+        "dolcezza senza fine alla tua destra."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seigneur, mon partage et ma coupe !"
+       ],
+       [
+        "Tu m'apprends le chemin de la vie : +"
+       ],
+       [
+        "devant ta face, débordement de joie !"
+       ],
+       [
+        "À ta droite, éternité de délices !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Darum freut sich mein Herz und frohlockt meine Seele;"
+       ],
+       [
+        "auch mein Leib wird wohnen in Sicherheit."
+       ],
+       [
+        "Du zeigst mir den Pfad zum Leben."
+       ],
+       [
+        "Vor deinem Angesicht herrscht Freude in Fülle,"
+       ],
+       [
+        "zu deiner Rechten Wonne für alle Zeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu es, Dómine, pars hereditátis meæ."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Senhor, sois a porção da minha herança e do meu cálice."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "You are my inheritance, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tú eres, Señor, el lote de mi heredad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sei, Signore, mia parte di eredità."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Seigneur, mon partage et ma coupe !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Du, Herr, bist mein Anteil und Erbe."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.holy-men-and-women.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vos, qui secuti estis me, centuplum accipietis."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "19, 27-29",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vós, que me seguistes, recebereis cem vezes mais."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "19, 27-29",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "role": "announcement",
+      "cite": "19, 27-29"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vosotros, los que me habéis seguido, recibiréis cien veces más"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "19, 27-29",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Voi che mi avete seguito, riceverete cento volte tanta."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "19, 27-29",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "19, 27-29",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "19, 27-29",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.9"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.9"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Petrus ad Iesum:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Ecce nos relíquimus ómnia et secúti sumus te. Quid ergo erit nobis?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iesus autem dixit illis: «Amen dico vobis quod vos, qui secúti estis me, in regeneratióne, cum séderit Fílius hóminis in throno glóriæ suæ, sedébitis et vos super thronos duódecim, iudicántes duódecim tribus Israel. Et omnis, qui relíquit domos vel fratres aut soróres aut patrem aut matrem aut fílios aut agros propter nomen meum, céntuplum accípiet et vitam ætérnam possidébit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, Pedro tomou a palavra e disse a Jesus: \"Vê! Nós deixamos tudo e te seguimos. O que haveremos de receber?\" Jesus respondeu: \"Em verdade vos digo, quando o mundo for renovado e o Filho do Homem se sentar no trono de sua glória, também vós, que me seguistes, havereis de sentar-vos em doze tronos, para julgar as doze tribos de Israel. E todo aquele que tiver deixado casas, irmãos, irmãs, pai, mãe, filhos, campos, por causa do meu nome, receberá cem vezes mais e terá como herança a vida eterna\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Then Peter said to him in reply, “We have given up everything and followed you. What will there be for us?” Jesus said to them, “Amen, I say to you that you who have followed me, in the new age, when the Son of Man is seated on his throne of glory, will yourselves sit on twelve thrones, judging the twelve tribes of Israel. And everyone who has given up houses or brothers or sisters or father or mother or children or lands for the sake of my name will receive a hundred times more, and will inherit eternal life."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Pedro a Jesús:"
+       ],
+       [
+        "«Ya ves, nosotros lo hemos dejado todo y te hemos seguido; ¿qué nos va a tocar?»."
+       ],
+       [
+        "Jesús les dijo:"
+       ],
+       [
+        "«En verdad os digo: cuando llegue la renovación y el Hijo del hombre se siente en el trono de su gloria, también vosotros, los que me habéis seguido, os sentaréis en doce tronos para juzgar a las doce tribus de Israel."
+       ],
+       [
+        "Todo el que por mí deja casa, hermanos o hermanas, padre o madre, hijos o tierras, recibirá cien veces más y heredará la vida eterna»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Pietro, disse a Gesù: «Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito; che cosa dunque ne avremo?»."
+       ],
+       [
+        "E Gesù disse loro: «In verità io vi dico: voi che mi avete seguito, quando il Figlio dell'uomo sarà seduto sul trono della sua gloria, alla rigenerazione del mondo, siederete anche voi su dodici troni a giudicare le dodici tribù d'Israele. Chiunque avrà lasciato case, o fratelli, o sorelle, o padre, o madre, o figli, o campi per il mio nome, riceverà cento volte tanto e avrà in eredità la vita eterna»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Pierre prit la parole et dit à Jésus : \" Voici que nous avons tout quitté pour te suivre : quelle sera donc notre part ? \" Jésus leur déclara : \" Amen, je vous le dis : lors du renouvellement du monde, lorsque le Fils de l'homme siégera sur son trône de gloire, vous qui m'avez suivi, vous siégerez vous aussi sur douze trônes pour juger les douze tribus d'Israël. Et celui qui aura quitté, à cause de mon nom, des maisons, des frères, des sœurs, un père, une mère, des enfants, ou une terre, recevra le centuple, et il aura en héritage la vie éternelle. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sagte Petrus zu Jesus:"
+       ],
+       [
+        "Du weißt, wir haben alles verlassen und sind dir nachgefolgt. Was werden wir dafür bekommen?"
+       ],
+       [
+        "Jesus erwiderte ihnen: Amen, ich sage euch: Wenn die Welt neu geschaffen wird und der Menschensohn sich auf den Thron der Herrlichkeit setzt, werdet ihr, die ihr mir nachgefolgt seid, auf zwölf Thronen sitzen und die zwölf Stämme Israels richten. Und jeder, der um meines Namens willen Häuser oder Brüder, Schwestern, Vater, Mutter, Kinder oder Äcker verlassen hat, wird dafür das Hundertfache erhalten und das ewige Leben gewinnen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.9"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.9"
+  }
+ ],
+ "title": {
+  "*": "Hl. Wendelin, Einsiedler"
+ }
+}

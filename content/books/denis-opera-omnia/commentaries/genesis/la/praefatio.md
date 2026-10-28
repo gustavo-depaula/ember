@@ -1,0 +1,20 @@
+# Præfatio
+
+*DILECTUS Deo et hominibus Moyses... Dedit illi Dominus legem vitæ et disciplinæ, docere Jacob testamentum, et judicia sua Israel.* Eccli. XLV, 1, 6.
+
+In his verbis propheta ac legislator præclarus, mansuetissimus Moyses, sublimiter multipliciterque laudatur. Primo, ab excellentia donorum gratiæ gratum facientis, quum dicitur, Dilectus Deo, etc., videlicet quoniam tanta sanctitate, gratiositate et mansuetudine fuit ornatus, ut Deo atque hominibus carus et acceptus esset. Secundo, ab eminentia munerum gratiæ gratis datæ, quum additur, Dedit illi Dominus legem vitæ, hoc est, legislatorem populi sui et mediatorem inter se ac populum suum constituit eum. Porro legislatio et prælatio, ad dona pertinent gratiæ gratis datæ, quemadmodum apostolatus ac prophetia. Tertio, commendatur a sublimitate sui officii, quum subditur, Docere Jacob, etc., id est, doctorem Israeliticæ plebis ipsum effecit; quia ad hoc dedit ei legem, ut plebem Judæorum doceret Testamentum vetus et divina præcepta.
+
+Præterea, quamvis inter legem evangelicam atque Mosaicam ista assignetur distinctio, quod lex evangelica continet confertque gratiam, utpote quia includit sacramenta gratiæ contentiva ac collativa, quæ efficiunt quod designant, non autem lex Moysis. Propter quod Apostolus eam appellat ministrationem damnationis ac mortis ;[^1] non quod directe, sed occasionaliter, exstitit talis, non dando gratiam ac virtutem implendi quæ jussit. Unde per Ezechielem protestatus est Dominus :[^2] Dedi eis præcepta non bona, et legem in qua non vivent. Nihilo minus lex eadem vere vocatur lex vitæ, in quantum continuit divina præcepta, præsertim moralia, per quorum impletionem vita gratiæ fovebatur, et vita gloriæ merebatur, non vigore aut virtute legis, sed per fidem formatam Christi venturi.[^3] Hinc quippe fatetur Apostolus : Lex quidem bona et sancta. Insuper eadem lex fuit lex disciplinæ, id est rigoris et castigationis, quoniam transgressoribus suis rigorosas inflixit punitiones, prout ad Hebræos asseritur : Irritam quis faciens legem Moysis, absque ulla contradictione, duobus aut tribus testibus moritur.[^4] Ideo dicitur lex timoris. Dicitur quoque lex disciplinæ, id est salutaris doctrinæ, quoniam fuit renovatio ac declaratio legis naturalis, idololatriamque prohibuit, et varios exclusit errores : imo et Christi atque Ecclesiæ præsignavit ac prænuntiavit mysteria, et erat ad evangelicam legem dispositio magna. Propter quod dixit Salvator Judæis :[^5] Si crederetis Moysi, crederetis forsan et mihi; de me enim ille scripsit.
+
+Itaque, Deo jubente ac edocente, Moyses legem et pertinentia ad eam, in quinque libris descripsit, ac populo suo proposuit. In quibus libris aliqui passus obscuri atque difficiles continentur, et aliqui passus clari ac faciles: quorum omnium expositioni, quantum Spiritus veritatis præstare dignabitur, intendere nunc propono, difficilioribus diffusius immorando, faciliora vero celerius pertractando. Ad quæ omnia idonee peragenda, illuminationem et confortationem invoco adorandi paracleti Spiritus Sancti, qui cum Patre æterno et unigenito ejus Filio unus est Deus æternus, verus ac summus.
+
+
+HEBRAICE BERESITH
+
+IN QUA DE CREATIONE MUNDI, DE EXORDIO GENERIS HUMANI, DE DIVISIONE TERRÆ, DE CONFUSIONE LINGUARUM ET GENTIUM, USQUE AD EXITUM SCRIBITUR HEBRÆORUM.
+
+[^1]: II Cor. III, 7.
+[^2]: Ezech. XX, 25.
+[^3]: Rom. VII, 12.
+[^4]: Hebr. X, 28.
+[^5]: Joann. V, 46.

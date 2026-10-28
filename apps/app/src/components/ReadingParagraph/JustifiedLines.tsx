@@ -12,7 +12,13 @@ import { Text } from 'tamagui'
 import type { ReadingFontId } from '@/config/readingFonts'
 import { lastLineSlack, useLastLineGuard } from '@/hooks/useLastLineGuard'
 import { justifyText, type StyledSegment } from '@/lib/typography/justifyText'
-import { breakWidth, fitToPlatform, type MeasureFit } from '@/lib/typography/measureFit'
+import {
+  breakWidth,
+  drawnFontSize,
+  fitToPlatform,
+  type MeasureFit,
+  measuresInk,
+} from '@/lib/typography/measureFit'
 import { drawStyle, type Faces } from './runs'
 
 // Only text and metrics: `render` and `onPress` change how a line is drawn,
@@ -64,7 +70,15 @@ export function JustifiedLines({
     if (!width) return undefined
     const widthPx = breakWidth(fit, modelKey, width, fontSizePx)
     if (widthPx === undefined) return undefined
-    return justifyText({ source: segments, widthPx, fontSizePx, fontFamilyId, language })
+    return justifyText({
+      source: segments,
+      widthPx,
+      fontSizePx,
+      fontFamilyId,
+      language,
+      drawnSizePx: drawnFontSize,
+      inkAtEdges: measuresInk(),
+    })
   }, [width, fit, modelKey, segments, fontSizePx, fontFamilyId, language])
 
   // `fitToPlatform` narrows the measure when the platform laid out more lines

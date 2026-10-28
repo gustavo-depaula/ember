@@ -1,19 +1,12 @@
 /**
- * A frontispiece's quiet action row: Save · Offline · (Collection) as borderless
- * icon+label pairs — no pills, no boxes. State reads in the ink alone (gold when
- * active, muted otherwise). Shared across the practice and book frontispieces;
+ * A frontispiece's quiet action row: Favorite · Offline · (Collection) as
+ * borderless icon+label pairs — no pills, no boxes. State reads in the ink (gold
+ * when active, muted otherwise), and the star fills. Shared across the practice and book frontispieces;
  * `kind` denormalizes onto the saved row, and the Collection action shows only
  * when `onAddToCollection` is provided.
  */
 
-import {
-  Bookmark,
-  BookmarkCheck,
-  Check,
-  CloudDownload,
-  FolderPlus,
-  Loader,
-} from 'lucide-react-native'
+import { Check, CloudDownload, FolderPlus, Loader, Star } from 'lucide-react-native'
 import type { ComponentType } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -47,14 +40,15 @@ export function LibraryActionRow({
   return (
     <XStack justifyContent="space-around" alignItems="flex-start">
       <ActionItem
-        icon={saved ? BookmarkCheck : Bookmark}
-        label={saved ? t('library.saved') : t('library.save')}
+        icon={Star}
+        filled={saved}
+        label={saved ? t('library.favorited') : t('library.favorite')}
         active={saved}
         disabled={saving}
         onPress={toggleSave}
         accessibilityRole="switch"
         accessibilityState={{ checked: saved, busy: saving }}
-        accessibilityLabel={saved ? t('library.saved') : t('library.save')}
+        accessibilityLabel={saved ? t('library.favorited') : t('library.favorite')}
       />
       <ActionItem
         icon={pinning ? Loader : pinned ? Check : CloudDownload}
@@ -82,6 +76,7 @@ export function LibraryActionRow({
 
 function ActionItem({
   icon: Icon,
+  filled,
   label,
   active,
   disabled,
@@ -90,7 +85,8 @@ function ActionItem({
   accessibilityState,
   accessibilityLabel,
 }: {
-  icon: ComponentType<{ size?: number; color?: string }>
+  icon: ComponentType<{ size?: number; color?: string; fill?: string }>
+  filled?: boolean
   label: string
   active: boolean
   disabled?: boolean
@@ -113,7 +109,7 @@ function ActionItem({
       style={{ flex: 1 }}
     >
       <YStack alignItems="center" gap="$xs" paddingVertical="$xs" opacity={disabled ? 0.6 : 1}>
-        <Icon size={22} color={ink} />
+        <Icon size={22} color={ink} fill={filled ? ink : 'none'} />
         <Typography
           variant="label"
           fontSize="$1"

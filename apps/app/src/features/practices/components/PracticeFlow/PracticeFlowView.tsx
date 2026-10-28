@@ -2,9 +2,9 @@
 
 import { type UseQueryResult, useQueryClient } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
-import { useEffect, useMemo } from 'react'
+import { lazy, Suspense, useEffect, useMemo, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
+import { Pressable, type ScrollView } from 'react-native'
 import Animated, {
   Easing,
   useAnimatedStyle,
@@ -13,12 +13,20 @@ import Animated, {
   withTiming,
 } from 'react-native-reanimated'
 import { Text, YStack } from 'tamagui'
-import { AnimatedPressable, PrimitiveBlock, ScreenLayout, Typography } from '@/components'
+import {
+  AnimatedPressable,
+  PrimitiveBlock,
+  ReaderFrame,
+  ScreenLayout,
+  Typography,
+  useWidthClass,
+} from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
+import { OutlineProvider, useOutline } from '@/components/outline'
 import type { PracticeManifest } from '@/content/manifestTypes'
 import { PreprocessProvider } from '@/content/preprocessRuntime'
+import { useChurchHere } from '@/features/mass-times'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
-import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
 import { useProgressiveCount } from '@/hooks/useProgressiveCount'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useStableToday, useToday } from '@/hooks/useToday'
@@ -34,7 +42,16 @@ import {
   PracticeVariant,
   usePracticeActions,
 } from './PracticeActions'
+import { PracticeContentsRail, PracticeToolsRail } from './PracticeRails'
 import { derivePracticeFlowStatus } from './status'
+
+// Loaded when a program ends, not with every prayer: it brings the holy card's envelope (and the
+// envelope's paper texture) with it.
+const ProgramCompleteModal = lazy(() =>
+  import('@/features/practices/components/ProgramCompleteModal').then((m) => ({
+    default: m.ProgramCompleteModal,
+  })),
+)
 
 type CompletionApi = ReturnType<typeof usePracticeCompletion>
 
@@ -120,6 +137,13 @@ function PracticeReady({
   const readingMargin = useReadingMargin()
   const practiceName = localizeContent(manifest.name)
   const actions = usePracticeActions(manifest)
+  const canComplete = manifest.completion !== 'manual' && !isFutureDate && !readOnly
+  // Following the Mass in the pew: when you're at a church, the Amém can say where too.
+  const isMass = manifest.liturgicalAct === 'mass'
+  const { data: churchHere } = useChurchHere(canComplete && isMass)
+  // The lookup is cached across screens, so a disabled query still hands back the last answer:
+  // only a Mass may use it.
+  const church = canComplete && isMass ? churchHere : undefined
 
   // Mount the primitive tree in chunks: long practices (Mass, offices) render
   // hundreds of blocks, and mounting them all at once blocks the JS thread
@@ -131,81 +155,124 @@ function PracticeReady({
   const queryClient = useQueryClient()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const translation = usePreferencesStore((s) => s.translation)
+  const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const preprocessCtx = useMemo(
     () => ({
       queryClient,
-      prefs: { lang: contentLanguage, translation },
+      prefs: { lang: contentLanguage, translation, jurisdiction },
       date: now,
       programDay,
     }),
-    [queryClient, contentLanguage, translation, now, programDay],
+    [queryClient, contentLanguage, translation, jurisdiction, now, programDay],
   )
+
+  // On a wide window the page's divisions and its tools stand in rails beside
+  // the text.
+  const { rails } = useWidthClass()
+  const scroller = useRef<ScrollView>(null)
+  const { registry, entries: outline, jumpTo } = useOutline(scroller, rails)
 
   return (
     <PreprocessProvider value={preprocessCtx}>
       <ImageViewerProvider>
-        <YStack flex={1}>
-          <ScreenLayout>
-            <YStack gap="$lg" paddingVertical="$lg">
-              <PracticeHeader
-                name={practiceName}
-                caption={formatLocalized(now, t('practice.headerDate')).toLocaleLowerCase()}
-                variant={<PracticeVariant actions={actions} />}
-                actions={<PracticeActionIcons actions={actions} />}
-                onBack={() => router.back()}
-              />
+        <ReaderFrame
+          left={<PracticeContentsRail outline={outline} actions={actions} onJump={jumpTo} />}
+          right={<PracticeToolsRail actions={actions} />}
+        >
+          <YStack flex={1}>
+            <ScreenLayout scrollRef={scroller}>
+              <YStack gap="$lg" paddingVertical="$lg">
+                <PracticeHeader
+                  name={practiceName}
+                  caption={formatLocalized(now, t('practice.headerDate')).toLocaleLowerCase()}
+                  variant={<PracticeVariant actions={actions} />}
+                  // The tools rail carries these where it is shown.
+                  actions={rails ? undefined : <PracticeActionIcons actions={actions} />}
+                  onBack={() => router.back()}
+                />
 
-              <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$md">
-                {sections.slice(0, visibleCount).map((primitive, index) => (
-                  <PrimitiveBlock
-                    key={`${primitive.type}-${index}`}
-                    primitive={primitive}
-                    practiceId={practiceId}
-                    onSelectOverride={onSelectOverride}
-                  />
-                ))}
+                <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$md">
+                  <OutlineProvider registry={registry}>
+                    {sections.slice(0, visibleCount).map((primitive, index) => (
+                      <PrimitiveBlock
+                        key={`${primitive.type}-${index}`}
+                        primitive={primitive}
+                        practiceId={practiceId}
+                        onSelectOverride={onSelectOverride}
+                      />
+                    ))}
+                  </OutlineProvider>
+                </YStack>
+
+                {canComplete && (
+                  <YStack paddingHorizontal={readingMargin} paddingTop="$lg" gap="$sm">
+                    <AnimatedPressable
+                      onPress={() => completion.handleComplete()}
+                      disabled={completion.isCompleting}
+                      accessibilityRole="button"
+                      accessibilityLabel={t('office.amen')}
+                    >
+                      <YStack
+                        backgroundColor="$accent"
+                        borderRadius="$md"
+                        borderWidth={1}
+                        borderColor="$accentSubtle"
+                        paddingVertical="$md"
+                        alignItems="center"
+                        opacity={completion.isCompleting ? 0.6 : 1}
+                      >
+                        <Typography variant="section-title" color="$background">
+                          {completion.isCompleting ? t('office.completing') : t('office.amen')}
+                        </Typography>
+                      </YStack>
+                    </AnimatedPressable>
+                    {church ? (
+                      <AnimatedPressable
+                        onPress={() => completion.handleComplete(church)}
+                        disabled={completion.isCompleting}
+                        accessibilityRole="button"
+                        accessibilityLabel={t('massTimes.amenAndCheckIn', { name: church.name })}
+                      >
+                        <YStack
+                          backgroundColor="$backgroundSurface"
+                          borderRadius="$md"
+                          paddingVertical="$sm"
+                          paddingHorizontal="$md"
+                          alignItems="center"
+                          opacity={completion.isCompleting ? 0.6 : 1}
+                        >
+                          <Typography variant="interface" fontSize="$3">
+                            {t('massTimes.amenAndCheckInLabel')}
+                          </Typography>
+                          <Typography variant="annotation" numberOfLines={1}>
+                            {church.name}
+                          </Typography>
+                        </YStack>
+                      </AnimatedPressable>
+                    ) : null}
+                  </YStack>
+                )}
+
+                <YStack paddingBottom="$lg" />
               </YStack>
 
-              {manifest.completion !== 'manual' && !isFutureDate && !readOnly && (
-                <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
-                  <AnimatedPressable
-                    onPress={completion.handleComplete}
-                    disabled={completion.isCompleting}
-                    accessibilityRole="button"
-                    accessibilityLabel={t('office.amen')}
-                  >
-                    <YStack
-                      backgroundColor="$accent"
-                      borderRadius="$md"
-                      borderWidth={1}
-                      borderColor="$accentSubtle"
-                      paddingVertical="$md"
-                      alignItems="center"
-                      opacity={completion.isCompleting ? 0.6 : 1}
-                    >
-                      <Typography fontSize="$3" fontWeight="500" color="$background">
-                        {completion.isCompleting ? t('office.completing') : t('office.amen')}
-                      </Typography>
-                    </YStack>
-                  </AnimatedPressable>
-                </YStack>
+              {completion.showCompleteModal && manifest.program && (
+                <Suspense fallback={null}>
+                  <ProgramCompleteModal
+                    practiceId={practiceId}
+                    manifest={{ ...manifest, program: manifest.program }}
+                    practiceName={practiceName}
+                    showRestart={manifest.program.completionBehavior === 'offer-restart'}
+                    onRestart={completion.onRestart}
+                    onDone={completion.dismissCompleteModal}
+                  />
+                </Suspense>
               )}
+            </ScreenLayout>
 
-              <YStack paddingBottom="$lg" />
-            </YStack>
-
-            {completion.showCompleteModal && manifest.program && (
-              <ProgramCompleteModal
-                practiceName={practiceName}
-                showRestart={manifest.program.completionBehavior === 'offer-restart'}
-                onRestart={completion.onRestart}
-                onDone={completion.dismissCompleteModal}
-              />
-            )}
-          </ScreenLayout>
-
-          <PracticeActionSheets actions={actions} />
-        </YStack>
+            <PracticeActionSheets actions={actions} />
+          </YStack>
+        </ReaderFrame>
       </ImageViewerProvider>
     </PreprocessProvider>
   )

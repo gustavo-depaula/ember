@@ -1,0 +1,341 @@
+{
+ "pericopes": [
+  1,
+  13,
+  22,
+  34
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Matthew; orderly, measured storytelling, including his own Scripture citations."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth; calm authority, teaching in parables, commanding and healing."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus' followers speaking together; questioning, practical and anxious, slow to understand, awed in the boat."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Spokesman of the twelve; impulsive, frightened on the water, firm in his confession, then presuming to rebuke."
+  },
+  "herod": {
+   "name": "Herod Antipas",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The tetrarch; haunted by guilt over John, uneasy before his servants."
+  },
+  "john-the-baptist": {
+   "name": "John the Baptist",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The prophet rebuking the king; stern and fearless."
+  },
+  "herodias-daughter": {
+   "name": "The daughter of Herodias",
+   "kind": "individual",
+   "gender": "female",
+   "age": "young",
+   "note": "A girl who has just danced for the court, prompted by her mother; bold before the king."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "At that time Herod the Tetrarch heard the fame of Jesus."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And he said to his servants:"
+   },
+   {
+    "s": "herod",
+    "t": "This is John the Baptist: he is risen from the dead, and therefore mighty works shew forth themselves in him."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "For Herod had apprehended John and bound him, and put him into prison, because of Herodias, his brother's wife."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "For John said to him:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "It is not lawful for thee to have her."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And having a mind to put him to death, he feared the people: because they esteemed him as a prophet."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "But on Herod's birthday, the daughter of Herodias danced before them: and pleased Herod."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Whereupon he promised with an oath, to give her whatsoever she would ask of him."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "But she being instructed before by her mother, said:"
+   },
+   {
+    "s": "herodias-daughter",
+    "t": "Give me here in a dish the head of John the Baptist."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And the king was struck sad: yet because of his oath, and for them that sat with him at table, he commanded it to be given."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And he sent, and beheaded John in the prison."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And his head was brought in a dish: and it was given to the damsel, and she brought it to her mother."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And his disciples came and took the body, and buried it, and came and told Jesus."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Which when Jesus had heard, he retired from thence by a boat, into a desert place apart, and the multitudes having heard of it, followed him on foot out of the cities."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And he coming forth saw a great multitude, and had compassion on them, and healed their sick."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And when it was evening, his disciples came to him, saying:"
+   },
+   {
+    "s": "disciples",
+    "t": "This is a desert place, and the hour is now passed: send away the multitudes, that going into the towns, they may buy themselves victuals."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "But Jesus said to them,"
+   },
+   {
+    "s": "jesus",
+    "t": "They have no need to go: give you them to eat."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "They answered him:"
+   },
+   {
+    "s": "disciples",
+    "t": "We have not here, but five loaves, and two fishes."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Who said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Bring them hither to me."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And when he had commanded the multitude to sit down upon the grass, he took the five loaves and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitudes."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And they did all eat, and were filled. And they took up what remained, twelve full baskets of fragments."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And the number of them that did eat, was five thousand men, besides women and children."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And forthwith Jesus obliged his disciples to go up into the boat, and to go before him over the water, till he dismissed the people."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And having dismissed the multitude, he went into a mountain alone to pray. And when it was evening, he was there alone."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "But the boat in the midst of the sea was tossed with the waves: for the wind was contrary."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And in the fourth watch of the night, he came to them walking upon the sea."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And they seeing him walking upon the sea, were troubled, saying:"
+   },
+   {
+    "s": "disciples",
+    "t": "It is an apparition."
+   },
+   {
+    "s": "narrator",
+    "t": "And they cried out for fear."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And immediately Jesus spoke to them, saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "Be of good heart: it is I, fear ye not."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And Peter making answer, said:"
+   },
+   {
+    "s": "peter",
+    "t": "Lord, if it be thou, bid me come to thee upon the waters."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Come."
+   },
+   {
+    "s": "narrator",
+    "t": "And Peter going down out of the boat walked upon the water to come to Jesus."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "But seeing the wind strong, he was afraid: and when he began to sink, he cried out, saying:"
+   },
+   {
+    "s": "peter",
+    "t": "Lord, save me."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And immediately Jesus stretching forth his hand took hold of him, and said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "O thou of little faith, why didst thou doubt?"
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And when they were come up into the boat, the wind ceased."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And they that were in the boat came and adored him, saying:"
+   },
+   {
+    "s": "disciples",
+    "t": "Indeed thou art the Son of God."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And having passed the water, they came into the country of Genesar."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And when the men of that place had knowledge of him, they sent into all that country, and brought to him all that were diseased."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And they besought him that they might touch but the hem of his garment. And as many as touched, were made whole."
+   }
+  ]
+ }
+}

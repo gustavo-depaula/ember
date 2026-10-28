@@ -1,0 +1,224 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "job": {
+   "name": "Job",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The afflicted just man of Hus, answering his friends and pleading his cause before God."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Then Job answered, and said:"
+   }
+  ],
+  "2": [
+   {
+    "s": "job",
+    "t": "Hear, I beseech you, my words, and do penance."
+   }
+  ],
+  "3": [
+   {
+    "s": "job",
+    "t": "Suffer me, and I will speak, and after, if you please, laugh at my words."
+   }
+  ],
+  "4": [
+   {
+    "s": "job",
+    "t": "Is my debate against man, that I should not have just reason to be troubled?"
+   }
+  ],
+  "5": [
+   {
+    "s": "job",
+    "t": "Hearken to me and be astonished, and lay your finger on your mouth."
+   }
+  ],
+  "6": [
+   {
+    "s": "job",
+    "t": "As for me, when I remember, I am afraid, and trembling taketh hold on my flesh."
+   }
+  ],
+  "7": [
+   {
+    "s": "job",
+    "t": "Why then do the wicked live, are they advanced, and strengthened with riches?"
+   }
+  ],
+  "8": [
+   {
+    "s": "job",
+    "t": "Their seed continueth before them, a multitude of kinsmen, and of children's children in their sight."
+   }
+  ],
+  "9": [
+   {
+    "s": "job",
+    "t": "Their houses are secure and peaceable, and the rod of God is not upon them."
+   }
+  ],
+  "10": [
+   {
+    "s": "job",
+    "t": "Their cattle have conceived, and failed not: their cow has calved, and is not deprived of her fruit."
+   }
+  ],
+  "11": [
+   {
+    "s": "job",
+    "t": "Their little ones go out like a flock, and their children dance and play."
+   }
+  ],
+  "12": [
+   {
+    "s": "job",
+    "t": "They take the timbrel, and the harp, and rejoice at the sound of the organ."
+   }
+  ],
+  "13": [
+   {
+    "s": "job",
+    "t": "They spend their days in wealth, and in a moment they go down to hell."
+   }
+  ],
+  "14": [
+   {
+    "s": "job",
+    "t": "Who have said to God: Depart from us, we desire not the knowledge of thy ways."
+   }
+  ],
+  "15": [
+   {
+    "s": "job",
+    "t": "Who is the Almighty, that we should serve him? and what doth it profit us if we pray to him?"
+   }
+  ],
+  "16": [
+   {
+    "s": "job",
+    "t": "Yet because their good things are not in their hand, may the counsel of the wicked be far from me."
+   }
+  ],
+  "17": [
+   {
+    "s": "job",
+    "t": "How often shall the lamp of the wicked be put out, and a deluge come upon them, and he shall distribute the sorrows of his wrath?"
+   }
+  ],
+  "18": [
+   {
+    "s": "job",
+    "t": "They shall be as chaff before the face of the wind, and as ashes which the whirlwind scattereth."
+   }
+  ],
+  "19": [
+   {
+    "s": "job",
+    "t": "God shall lay up the sorrow of the father for his children: and when he shall repay, then shall he know."
+   }
+  ],
+  "20": [
+   {
+    "s": "job",
+    "t": "His eyes shall see his own destruction, and he shall drink of the wrath of the Almighty."
+   }
+  ],
+  "21": [
+   {
+    "s": "job",
+    "t": "For what is it to him what befalleth his house after him: and if the number of his months be diminished by one half?"
+   }
+  ],
+  "22": [
+   {
+    "s": "job",
+    "t": "Shall any one teach God knowledge, who judgeth those that are high?"
+   }
+  ],
+  "23": [
+   {
+    "s": "job",
+    "t": "One man dieth strong, and hale, rich and happy."
+   }
+  ],
+  "24": [
+   {
+    "s": "job",
+    "t": "His bowels are full of fat, and his bones are moistened with marrow."
+   }
+  ],
+  "25": [
+   {
+    "s": "job",
+    "t": "But another dieth in bitterness of soul without any riches:"
+   }
+  ],
+  "26": [
+   {
+    "s": "job",
+    "t": "And yet they shall sleep together in the dust, and worms shall cover them."
+   }
+  ],
+  "27": [
+   {
+    "s": "job",
+    "t": "Surely I know your thoughts, and your unjust judgments against me."
+   }
+  ],
+  "28": [
+   {
+    "s": "job",
+    "t": "For you say: Where is the house of the prince? and where are the dwelling places of the wicked?"
+   }
+  ],
+  "29": [
+   {
+    "s": "job",
+    "t": "Ask any one of them that go by the way, and you shall perceive that he knoweth these same things."
+   }
+  ],
+  "30": [
+   {
+    "s": "job",
+    "t": "Because the wicked man is reserved to the day of destruction, and he shall be brought to the day of wrath."
+   }
+  ],
+  "31": [
+   {
+    "s": "job",
+    "t": "Who shall reprove his way to his face? and who shall repay him what he hath done?"
+   }
+  ],
+  "32": [
+   {
+    "s": "job",
+    "t": "He shall be brought to the graves, and shall watch in the heap of the dead."
+   }
+  ],
+  "33": [
+   {
+    "s": "job",
+    "t": "He hath been acceptable to the gravel of Cocytus, and he shall draw every man after him, and there are innumerable before him."
+   }
+  ],
+  "34": [
+   {
+    "s": "job",
+    "t": "How then do ye comfort me in vain, whereas your answer is shewn to be repugnant to truth?"
+   }
+  ]
+ }
+}

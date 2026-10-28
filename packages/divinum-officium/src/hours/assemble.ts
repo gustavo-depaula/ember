@@ -22,7 +22,13 @@ import {
   monasticMajorResponsory,
   regula,
 } from './capitulis'
-import { loadspecial, processInlineAlleluias, septuagesimaVesp, suppressAlleluia } from './helpers'
+import {
+  loadspecial,
+  processInlineAlleluias,
+  septuagesimaVesp,
+  suppressAlleluia,
+  triduumGloriaOmitted,
+} from './helpers'
 import { gethymn } from './hymni'
 import { martyrologium } from './martyrologium'
 import { invitatorium, psalmiMatutinum } from './matins'
@@ -357,7 +363,7 @@ async function specials(
 
     // Litaniae majores flag for St Mark's day (and Rogation Monday cases).
     let litFlag = false
-    if (state.votive === 'Hodie') {
+    if (!state.votive || state.votive === 'Hodie') {
       const { month, day, dayofweek } = ctx
       if (month === 4 && day === 25 && (!/Pasc0/.test(ctx.dayname[0]) || dayofweek > 1)) {
         litFlag = true
@@ -500,19 +506,44 @@ export async function specialsForItem(
 
 // Expansion pass — same shape as the missa one, plus the antline pass-through
 // for &psalm after an 'Ant. …' line and the '$ant '/'$rubrica ' sigils.
-async function expandItems(state: HoursState, items: string[], lang: string): Promise<string[]> {
-  const out: string[] = []
-  for (let i = 0; i < items.length; i++) {
-    const item = items[i]
-    const prev = i > 0 ? items[i - 1] : ''
-    const expanded = await expandText(state, item, lang, prev)
-    // If the psalm has a cross, then so should the antiphon (horas.pl:128).
-    if (/psalm/.test(item) && /^\s*Ant\. /i.test(prev) && expanded.includes('‡') && out.length) {
-      out[out.length - 1] += ' /:‡:/'
-    }
-    out.push(expanded)
+async function expandItem(
+  state: HoursState,
+  items: string[],
+  i: number,
+  out: string[],
+  lang: string,
+): Promise<void> {
+  const item = items[i]
+  const prev = i > 0 ? items[i - 1] : ''
+  const expanded = await expandText(state, item, lang, prev)
+  // If the psalm has a cross, then so should the antiphon (horas.pl:128).
+  if (/psalm/.test(item) && /^\s*Ant\. /i.test(prev) && expanded.includes('‡') && out.length) {
+    out[out.length - 1] += ' /:‡:/'
   }
-  return out
+  out.push(expanded)
+}
+
+// Port of print_content's loop: the two columns are expanded unit by unit in
+// turn, Latin then vernacular, so state an expansion leaves behind (a
+// responsory a commemorated lesson assigns to the winner, the preces flag)
+// reaches the other column at the same point it does in the Perl.
+async function expandColumns(
+  state: HoursState,
+  items1: string[],
+  items2: string[] | undefined,
+  lang2: string,
+): Promise<[string[], string[]]> {
+  const out1: string[] = []
+  const out2: string[] = []
+  const n = Math.max(items1.length, items2?.length ?? 0)
+  for (let i = 0; i < n; i++) {
+    state.column = 1
+    if (i < items1.length) await expandItem(state, items1, i, out1, 'Latin')
+    if (!items2) continue
+    state.column = 2
+    if (i < items2.length) await expandItem(state, items2, i, out2, lang2)
+  }
+  return [out1, out2]
 }
 
 async function expandText(
@@ -524,7 +555,7 @@ async function expandText(
   const lines = text.split('\n')
   const out: string[] = []
   for (let li = 0; li < lines.length; li++) {
-    let line = lines[li].replace(/\s+$/, '')
+    let line = (await adjustRefs(state, lines[li], lang)).replace(/\s+$/, '')
     if (/^\s*[$&]/.test(line.trimStart()) && !/(callpopup|rubrics)/i.test(line)) {
       const prevLine = li > 0 ? lines[li - 1] : prevItem
       let antline: string | undefined
@@ -545,6 +576,24 @@ async function expandText(
     }
   }
   return out.join('\n')
+}
+
+// Port of adjust_refs' Gloria cases: an omitted Gloria Patri is replaced by
+// a small-font notice that it is omitted, before the line is expanded (the
+// &Gloria script functions alone would leave nothing). Its Dominus vobiscum
+// cases live in the Dominus_vobiscum script functions.
+async function adjustRefs(state: HoursState, name: string, lang: string): Promise<string> {
+  if (/&Gloria/.test(name) && /Requiem gloria/i.test(state.rule)) return '$Requiem'
+  if (
+    (/&Gloria$/i.test(name) && triduumGloriaOmitted(state.day.ctx, state.day.vespera)) ||
+    (/&Gloria[12]/i.test(name) &&
+      /(Quad[56])/i.test(state.day.ctx.dayname[0]) &&
+      !/Sancti/i.test(state.day.winner) &&
+      !/Gloria responsory/i.test(state.rule))
+  ) {
+    return `/:${await state.texts.translate('Gloria omittitur', lang)}:/`
+  }
+  return name
 }
 
 async function expandLine(
@@ -724,24 +773,21 @@ export async function assembleHour(opts: {
 
   state.column = 1
   const script = await getordinarium(state, opts.hora)
-  let items1 = toUnits(await specials(state, script, 'Latin'))
-  items1 = await renderFinish(
-    state,
-    await expandItems(state, items1, 'Latin'),
-    'Latin',
-    opts.version,
-  )
+  const units1 = toUnits(await specials(state, script, 'Latin'))
 
-  let items2: string[] | undefined
+  let units2: string[] | undefined
   if (lang2 !== 'Latin') {
     state.column = 2
     state.precesferiales = false
     state.litaniaflag = false
     state.specialflag = false
     const script2 = await getordinarium(state, opts.hora)
-    items2 = toUnits(await specials(state, script2, lang2))
-    items2 = await renderFinish(state, await expandItems(state, items2, lang2), lang2, opts.version)
+    units2 = toUnits(await specials(state, script2, lang2))
   }
+
+  const [expanded1, expanded2] = await expandColumns(state, units1, units2, lang2)
+  const items1 = await renderFinish(state, expanded1, 'Latin', opts.version)
+  const items2 = units2 ? await renderFinish(state, expanded2, lang2, opts.version) : undefined
 
   return { day, latin: items1, vernacular: items2 }
 }

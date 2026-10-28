@@ -1,0 +1,283 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Mark; brisk, plain storytelling, including his own Scripture citations."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth, about thirty; calm authority, teaching, commanding and healing."
+  },
+  "scribes": {
+   "name": "Scribes",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Teachers of the law; suspicious and accusing."
+  },
+  "crowd": {
+   "name": "Crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The people gathered around Jesus in Capharnaum; amazed, or relaying a message to him."
+  },
+  "scribes-and-pharisees": {
+   "name": "Scribes and Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Scribes and Pharisees together at Levi's feast; scandalised, questioning the disciples."
+  },
+  "bystanders": {
+   "name": "Questioners",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Unnamed people who come to ask Jesus why his disciples do not fast; puzzled, challenging."
+  },
+  "pharisees": {
+   "name": "Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Strict observers of the law; reproachful about the sabbath."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Passados alguns dias, entrou Jesus outra vez em Cafarnaum,"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "e soube-se que ele estava em casa. Juntou-se muita gente, de modo que não se cabia, nem mesmo diante da porta. E ele pregava-lhes a palavra."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Foram ter com ele, conduzindo um paralítico, que era transportado por quatro."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Como não pudessem apresentar-lho por causa da multidão, descobriram o tecto pela parte debaixo da qual estava Jesus, e, tendo feito uma abertura, desceram o leito, em que jazia o paralítico."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Vendo Jesus a fé daqueles homens, disse ao paralítico:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Filho, são-te perdoados os teus pecados.\""
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Estavam ali sentados alguns escribas, os quais iam discorrendo nos seus corações:"
+   }
+  ],
+  "7": [
+   {
+    "s": "scribes",
+    "t": "\"Como fala assim este homem? Ele blasfema. Quem pode perdoar os pecados, senão só Deus?\"",
+    "q": "Unspoken thoughts (\"thinking in their hearts\"), not said aloud; could be read by the narrator instead"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Jesus, conhecendo logo no seu espírito que eles discorriam desta maneira dentro de si, disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "Porque pensais isso nos vossos corações?"
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "O que é menos difícil dizer ao paralítico: Os teus pecados te são perdoados; ou dizer: Levanta-te, toma o teu leito, e anda?"
+   }
+  ],
+  "10": [
+   {
+    "s": "jesus",
+    "t": "Ora, para que saibais que o Filho do homem tem na terra poder de perdoar pecados..."
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "eu te ordeno,",
+    "q": "Three-word fragment finishing Jesus' sentence from 2:10 before the narrator's inserted \"disse ao paralítico:\"; could be merged into narration-free delivery if too choppy"
+   },
+   {
+    "s": "narrator",
+    "t": "disse ao paralítico:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Levanta-te, toma o teu leito, e vai para tua casa.\""
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Imediatamente ele se levantou, e, tomando o seu leito, retirou-se à vista de todos, de maneira que todos se admiraram e louvavam a Deus, dizendo:"
+   },
+   {
+    "s": "crowd",
+    "t": "\"Nunca tal vimos.\""
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Foi outra vez para o lado do mar. Ia ter com ele todo o povo, e o ensinava."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Ao passar viu Levi, filho de Alfeu, sentado no telónio, e disse-lhe;"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Segue-me.\""
+   },
+   {
+    "s": "narrator",
+    "t": "Ele, levantando-se, o seguiu."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Aconteceu que, estando Jesus sentado à mesa em casa dele, estavam também à mesa com Jesus e com os seus discípulos muitos publicanos e pecadores, porque havia muitos deles que também o seguiam."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Os escribas e fariseus, vendo que Jesus comia com os pecadores e publicanos, diziam a seus discípulos:"
+   },
+   {
+    "s": "scribes-and-pharisees",
+    "t": "\"Porque come e bebe o vosso Mestre com os publicanos e pecadores?\"",
+    "q": "Text names \"the Scribes and Pharisees\" jointly; a combined id is used rather than either canonical one"
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Ouvindo isto Jesus, disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Os sãos não têm necessidade de médico, mas os enfermos; eu não vim chamar os justos mas os pecadores.\""
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Os discípulos de João e os fariseus jejuavam. Foram pois ter com Jesus, e disseram-lhe:"
+   },
+   {
+    "s": "bystanders",
+    "t": "\"Porque jejuam os discípulos de João e os fariseus, e não jejuam os teus discípulos?\"",
+    "q": "\"They\" is indefinite; the question names John's disciples and the Pharisees in the third person, so unnamed questioners are assumed (Mt 9:14 gives John's disciples)"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Jesus respondeu-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Podem porventura jejuar os companheiros do esposo, enquanto o esposo está com eles? Todo o tempo que têm consigo o esposo, não podem jejuar."
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "Mas virão dias em que lhes será tirado o esposo, e então nesses dias jejuarão."
+   }
+  ],
+  "21": [
+   {
+    "s": "jesus",
+    "t": "Ninguém cose um remendo de pano cru num vestido velho; doutra sorte o remendo novo leva parte do velho, e torna-se maior o rasgão."
+   }
+  ],
+  "22": [
+   {
+    "s": "jesus",
+    "t": "Ninguém lança vinho novo em odres velhos; doutra sorte o vinho fará arrebentar os odres, e entornar-se-á o vinho, e perder-se-ão os odres; mas para vinho novo, odres novos.\""
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Sucedeu que, caminhando o Senhor em dia de sábado, por entre campos de trigo, os seus discípulos, enquanto caminhavam, começaram a colher espigas."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Os fariseus diziam-lhe:"
+   },
+   {
+    "s": "pharisees",
+    "t": "\"Como é que fazem ao sábado o que não é lícito?\""
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Ele respondeu-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Nunca lestes o que fez David, quando se encontrou em necessidade, e teve fome, ele e os que com ele estavam?"
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "Como entrou na casa de Deus, sendo sumo sacerdote Abiatar, e comeu os pães da proposição, dos quais não é lícito comer, senão aos sacerdotes, e deu aos que com ele estavam?\""
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "E acrescentou:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"O sábado foi feito para o homem, e não o homem para o sábado."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "Por isso o Filho do homem é senhor também do sábado.\""
+   }
+  ]
+ }
+}

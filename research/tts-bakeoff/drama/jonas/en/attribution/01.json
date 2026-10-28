@@ -1,0 +1,186 @@
+{
+ "pericopes": [
+  1,
+  4
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Jonas briskly, including every speech introduction and aside."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to his prophet; commanding, then patient and gently questioning."
+  },
+  "shipmaster": {
+   "name": "The ship master",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Pagan captain of the ship, urgent and alarmed in the storm."
+  },
+  "mariners": {
+   "name": "Mariners",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The pagan crew; frightened, questioning Jonas, then crying out to the Lord."
+  },
+  "jonas": {
+   "name": "Jonas",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The reluctant prophet, son of Amathi; resigned in the storm, fervent in prayer, sullen and angry at Ninive's pardon."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Now the word of the Lord came to Jonah, the son of Amathi, saying:"
+   }
+  ],
+  "2": [
+   {
+    "s": "the-lord",
+    "t": "Arise and go to Ninive, the great city, and preach in it: For the wickedness thereof is come up before me."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And Jonah rose up to flee into Tharsis from the face of the Lord, and he went down to Joppe, and found a ship going to Tharsis: and he paid the fare thereof, and went down into it, to go with them to Tharsis from the face of the Lord,"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "But the Lord sent a great wind to the sea: and a great tempest was raised in the sea, and the ship was in danger to be broken."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And the mariners were afraid, and the men cried to their god: and they cast forth the wares that were in the ship, into the sea, to lighten it of them: and Jonah went down into the inner part of the ship, and fell into a deep sleep."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the ship master came to him and said to him:"
+   },
+   {
+    "s": "shipmaster",
+    "t": "Why art thou fast asleep? rise up call upon thy God, if so be that God will think of us that we may not perish."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And they said every one to his fellow:"
+   },
+   {
+    "s": "mariners",
+    "t": "Come and let us cast lots, that we may know why this evil is upon us."
+   },
+   {
+    "s": "narrator",
+    "t": "And they cast lots, and the lot fell upon Jonah."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And they said to him:"
+   },
+   {
+    "s": "mariners",
+    "t": "Tell us for what cause this evil is upon us, what is thy business? of what country art thou? and whither goest thou? or of what people art thou?"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jonas",
+    "t": "I am a Hebrew, and I fear the Lord, and the God of heaven, who made both the sea and the dry land."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And the men were greatly afraid, and they said to him:"
+   },
+   {
+    "s": "mariners",
+    "t": "Why hast thou done this?"
+   },
+   {
+    "s": "narrator",
+    "t": "(For the men knew that he fled from the face of the Lord: because he had told them.)"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And they said to him:"
+   },
+   {
+    "s": "mariners",
+    "t": "What shall we do with thee, that the sea may be calm to us?"
+   },
+   {
+    "s": "narrator",
+    "t": "for the sea flowed and swelled.",
+    "q": "read as the narrator's explanation (\"flowed and swelled\", past tense), not part of the mariners' question"
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jonas",
+    "t": "take me up, and cast me into the sea, and the sea shall be calm to you: for I know for my sake this great tempest is upon you."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And the men rowed hard to return the land, but they were not able: because the sea tossed and swelled upon them."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And they cried to the Lord, and said:"
+   },
+   {
+    "s": "mariners",
+    "t": "We beseech thee, O Lord let us not perish for this man's life, and lay not upon us innocent blood: for thou, oh Lord, hast done as it pleased thee."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And they took Jonah, and cast him into the sea, and the sea ceased from raging."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And the men feared the Lord exceedingly, and sacrificed victims to the Lord, and made vows."
+   }
+  ]
+ }
+}

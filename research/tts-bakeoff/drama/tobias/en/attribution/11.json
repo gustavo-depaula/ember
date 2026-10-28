@@ -1,0 +1,189 @@
+{
+ "pericopes": [
+  1,
+  5,
+  18
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Tobias; calm, warm storyteller."
+  },
+  "tobias-the-elder": {
+   "name": "Tobias the elder",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The father, a devout old exile in Ninive; anxious for his son, then joyful and prophetic once his sight is restored."
+  },
+  "anna-wife-of-tobias": {
+   "name": "Anna, wife of Tobias",
+   "kind": "individual",
+   "gender": "female",
+   "age": "old",
+   "note": "The mother; grieving for her absent son, then overjoyed at seeing him come."
+  },
+  "angel-raphael": {
+   "name": "The angel Raphael",
+   "kind": "angel",
+   "gender": "male",
+   "age": "adult",
+   "note": "The archangel, travelling as Azarias; a calm, sure guide, solemn when he reveals who he is."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And as they were returning they came to Charan, which is in the midway to Ninive, the eleventh day."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And the angel said:"
+   },
+   {
+    "s": "angel-raphael",
+    "t": "Brother Tobias, thou knowest how thou didst leave thy father."
+   }
+  ],
+  "3": [
+   {
+    "s": "angel-raphael",
+    "t": "If it please thee therefore, let us go before, and let the family follow softly after us, together with thy wife, and with the beasts."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And as this their going pleased him, Raphael said to Tobias:"
+   },
+   {
+    "s": "angel-raphael",
+    "t": "Take with thee of the gall of the fish, for it will be necessary."
+   },
+   {
+    "s": "narrator",
+    "t": "So Tobias took some of that gall and departed."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "But Anna sat beside the way daily, on the top of a hill, from whence she might see afar off."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And while she watched his coming from that place, she saw him afar off, and presently perceived it was her son coming: and returning she told her husband, saying:"
+   },
+   {
+    "s": "anna-wife-of-tobias",
+    "t": "Behold thy son cometh."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And Raphael said to Tobias:"
+   },
+   {
+    "s": "angel-raphael",
+    "t": "As soon as thou shalt come into thy house, forthwith adore the Lord thy God: and giving thanks to him, go to thy father, and kiss him."
+   }
+  ],
+  "8": [
+   {
+    "s": "angel-raphael",
+    "t": "And immediately anoint his eyes with this gall of the fish, which thou carriest with thee. For be assured that his eyes shall be presently opened, and thy father shall see the light of heaven, and shall rejoice in the sight of thee."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Then the dog, which had been with them in the way, ran before, and coming as if he had brought the news, shewed his joy by his fawning and wagging his tail."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And his father that was blind, rising up, began to run stumbling with his feet: and giving a servant his hand, went to meet his son."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And receiving him kissed him, as did also his wife, and they began to weep for joy."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And when they had adored God, and given him thanks, they sat down together."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Then Tobias taking of the gall of the fish, anointed his father's eyes."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And he stayed about half an hour: and a white skin began to come out of his eyes, like the skin of an egg."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And Tobias took hold of it, and drew it from his eyes, and recovered his sight."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And they glorified God, both he and his wife and all that knew him."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And Tobias said:"
+   },
+   {
+    "s": "tobias-the-elder",
+    "t": "I bless thee, O Lord God of Israel, because thou hast chastised me, and thou hast saved me and behold I see Tobias my son."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And after seven days Sara his son's wife and all the family arrived safe, and the cattle, and the camels, and an abundance of money of his wife's: and that money also which he had received of Gabelus,"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And he told his parents all the benefits of God, which he had done to him by the man that conducted him."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And Achior and Nabath the kinsmen of Tobias came, rejoicing for Tobias, and congratulating with him for all the good things that God had done for him."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And for seven days they feasted and rejoiced all with great joy."
+   }
+  ]
+ }
+}

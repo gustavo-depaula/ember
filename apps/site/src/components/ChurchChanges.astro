@@ -1,0 +1,35 @@
+---
+// A church's latest changes, filled in the browser from the API; hidden while it has none.
+import type { Locale } from '~/lib/locale'
+import { changesStrings } from '~/lib/massTimes/changes'
+import { massTimesApi } from '~/lib/massTimes/data'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  /** Omitted on the church shell, which reads `?id=`. */
+  id?: string
+}
+
+const { locale, id } = Astro.props
+const s = changesStrings[locale]
+---
+
+<section
+  class="mt-section church-changes"
+  data-church-changes
+  data-id={id}
+  data-api={massTimesApi}
+  data-locale={locale}
+  data-church-base={href.massTimesPlace(locale, locale === 'pt-BR' ? 'igreja' : 'church')}
+  hidden
+>
+  <h2 class="mt-label">{s.title}</h2>
+  <div data-list></div>
+  <p class="t-caption" data-status></p>
+  <p><a class="go" href={href.massTimesChanges(locale)}>{s.all} →</a></p>
+</section>
+
+<script>
+  import '~/scripts/mass-times-changes'
+</script>

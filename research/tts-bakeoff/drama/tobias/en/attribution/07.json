@@ -1,0 +1,219 @@
+{
+ "pericopes": [
+  1,
+  9
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Tobias in a plain, reverent manner."
+  },
+  "tobias-the-younger": {
+   "name": "Tobias the younger",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "The son: dutiful, earnest, a little fearful on his first journey."
+  },
+  "angel-raphael": {
+   "name": "The angel Raphael",
+   "kind": "angel",
+   "gender": "male",
+   "age": "young",
+   "note": "Sent by God, travelling as the young man Azarias: calm, assured, instructing."
+  },
+  "raguel": {
+   "name": "Raguel",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Father of Sara, kinsman of Tobias: warm, tearful, anxious for his daughter."
+  },
+  "anna-wife-of-raguel": {
+   "name": "Anna, wife of Raguel",
+   "kind": "individual",
+   "gender": "female",
+   "age": "old",
+   "note": "Mother of Sara (Edna in some Bibles): comforting her weeping daughter."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And they went in to Raguel, and Raguel received them with joy."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And Raguel looking upon Tobias, said to Anna his wife:"
+   },
+   {
+    "s": "raguel",
+    "t": "How like is this young man to my cousin?"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And when he had spoken these words, he said:"
+   },
+   {
+    "s": "raguel",
+    "t": "Whence are ye young men our brethren?"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "But they said:"
+   },
+   {
+    "s": "tobias-the-younger",
+    "t": "We are of the tribe of Nephtali, of the captivity of Ninive.",
+    "q": "Tobias and the angel answer together; given to Tobias as their spokesman"
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And Raguel said to them:"
+   },
+   {
+    "s": "raguel",
+    "t": "Do you know Tobias my brother?"
+   },
+   {
+    "s": "narrator",
+    "t": "And they said:"
+   },
+   {
+    "s": "tobias-the-younger",
+    "t": "We know him.",
+    "q": "Tobias and the angel answer together; given to Tobias as their spokesman"
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And when he was speaking many good things of him, the angel said to Raguel:"
+   },
+   {
+    "s": "angel-raphael",
+    "t": "Tobias concerning whom thou inquirest is this young man's father."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And Raguel went to him, and kissed him with tears and weeping upon his neck, said:"
+   },
+   {
+    "s": "raguel",
+    "t": "A blessing be upon thee, my son, because thou art the son of a good and most virtuous man."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And Anna his wife, and Sara their daughter wept."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And after they had spoken, Raguel commanded a sheep to be killed, and a feast to be prepared. And when he desired them to sit down to dinner,"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Tobias said:"
+   },
+   {
+    "s": "tobias-the-younger",
+    "t": "I will not eat nor drink here this day, unless thou first grant me my petition, and promise to give me Sara thy daughter."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Now when Raguel heard this he was afraid, knowing what had happened to those seven husbands, that went in unto her: and he began to fear lest it might happen to him also in like manner: and as he was in suspense, and gave no answer to his petition,"
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "The angel said to him:"
+   },
+   {
+    "s": "angel-raphael",
+    "t": "Be not afraid to give her to this man, for to him who feareth God is thy daughter due to be his wife: therefore another could not have her."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Then Raguel said:"
+   },
+   {
+    "s": "raguel",
+    "t": "I doubt not but God hath regarded my prayers and tears in his sight."
+   }
+  ],
+  "14": [
+   {
+    "s": "raguel",
+    "t": "And I believe he hath therefore made you come to me, that this maid might be married to one of her own kindred, according to the law of Moses: and now doubt not but I will give her to thee."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And taking the right hand of his daughter, he gave it into the right hand of Tobias, saying:"
+   },
+   {
+    "s": "raguel",
+    "t": "The God of Abraham, and the God of Isaac, and the God of Jacob be with you, and may he join you together, and fulfil his blessing in you."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And taking paper they made a writing of the marriage."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And afterwards they made merry, blessing God."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And Raguel called to him Anna his wife, and bade her to prepare another chamber."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And she brought Sara her daughter in thither, and she wept."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And she said to her:"
+   },
+   {
+    "s": "anna-wife-of-raguel",
+    "t": "Be of good cheer, my daughter: the Lord of heaven give thee joy for the trouble thou hast undergone."
+   }
+  ]
+ }
+}

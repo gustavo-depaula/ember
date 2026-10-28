@@ -5,6 +5,7 @@ import appShotEn from '../../../hearth/site/img/en-US-01-today.webp'
 import appShotPt from '../../../hearth/site/img/pt-BR-01-today.webp'
 import Celebrations from '~/components/Celebrations.astro'
 import MassTimesNotice from '~/components/MassTimesNotice.astro'
+import PersonalPlan from '~/components/PersonalPlan.astro'
 import Shelf from '~/components/Shelf.astro'
 import Base from '~/layouts/Base.astro'
 import { bibleRefFor } from '~/lib/citations'
@@ -32,6 +33,10 @@ const dateTitle = monthDay.map((p) => (p.type === 'month' ? p.value.charAt(0).to
 const years = calendarYears()
 const ahead = [1, 2, 3, 4].map((n) => addDays(today, n)).filter((d) => years.includes(d.getFullYear()))
 
+
+// Phosphor's "hands-praying" (MIT), the app's Pray now mark: lucide has no praying hands.
+const prayingHands =
+  'M235.32,180l-36.24-36.25L162.62,23.46A21.76,21.76,0,0,0,128,12.93,21.76,21.76,0,0,0,93.38,23.46L56.92,143.76,20.68,180a16,16,0,0,0,0,22.62l32.69,32.69a16,16,0,0,0,22.63,0L124.28,187a40.68,40.68,0,0,0,3.72-4.29,40.68,40.68,0,0,0,3.72,4.29L180,235.32a16,16,0,0,0,22.63,0l32.69-32.69A16,16,0,0,0,235.32,180ZM64.68,224,32,191.32l12.69-12.69,32.69,32.69ZM120,158.75a23.85,23.85,0,0,1-7,17L88.68,200,56,167.32l13.65-13.66a8,8,0,0,0,2-3.34l37-122.22A5.78,5.78,0,0,1,120,29.78Zm23,17a23.85,23.85,0,0,1-7-17v-129a5.78,5.78,0,0,1,11.31-1.68l37,122.22a8,8,0,0,0,2,3.34l14.49,14.49-33.4,32ZM191.32,224l-12.56-12.57,33.39-32L224,191.32Z'
 
 const appShot = await getImage({ src: pt ? appShotPt : appShotEn, width: 420, format: 'webp' })
 
@@ -94,7 +99,24 @@ const pillars = pt
       <div class="dash-main">
         <section class="carousel" style="--arrow-top:calc(50% - 16px)" aria-label={s('today')}>
           <div class="features" data-carousel>
-            <a class="feature app" href={href.landing(locale)}>
+            {/* What to pray now, for a browser connected to an account: filled by personal/plan.ts. */}
+            <a class="feature" data-pray-now hidden>
+              <span class="feature-art" data-pray-art hidden><img alt="" decoding="async" /></span>
+              <span class="feature-plate" data-pray-plate aria-hidden="true">✠</span>
+              <span class="feature-foot">
+                <span class="feature-kicker" data-pray-kicker></span>
+                <span class="feature-title" data-pray-title></span>
+                <span class="feature-sub" data-pray-sub></span>
+                <span class="pray-row">
+                  <span class="pray-pill">
+                    <svg viewBox="0 0 256 256" width="15" height="15" aria-hidden="true"><path d={prayingHands} fill="#f5efe2" /></svg>
+                    <span data-pray-minutes></span>
+                  </span>
+                  <span class="pray-tier" data-pray-tier></span>
+                </span>
+              </span>
+            </a>
+            <a class="feature app" href={href.landing(locale)} data-app-card>
               <span class="feature-phone"><img src={appShot.src} alt="" loading="lazy" decoding="async" /></span>
               <span class="feature-foot">
                 <span class="feature-kicker">{pt ? 'O aplicativo' : 'The app'}</span>
@@ -119,12 +141,16 @@ const pillars = pt
             ))}
           </div>
           <div class="fleurons" aria-hidden="true" data-carousel-marks>
-            {['app', ...home.features].map(() => <span>✠</span>)}
+            <span data-pray-mark hidden>✠</span>
+            <span data-app-mark>✠</span>
+            {home.features.map(() => <span>✠</span>)}
           </div>
           <button class="carousel-next" type="button" data-carousel-next hidden aria-label={pt ? 'Próximos' : 'More'}>→</button>
         </section>
 
-        <Shelf title={pt ? 'Rezar' : 'Pray'} tiles={home.pray} locale={locale} more={href.section(locale, 'prayers')} width={150} />
+        <Shelf title={pt ? 'Rezar' : 'Pray'} tiles={home.pray} locale={locale} more={href.section(locale, 'prayers')} width={150}>
+          <PersonalPlan locale={locale} part="card" />
+        </Shelf>
 
         {home.meditations.length > 0 && (
           <section>
@@ -145,6 +171,7 @@ const pillars = pt
       </div>
 
       <aside class="dash-aside" aria-label={pt ? 'A liturgia de hoje' : 'The liturgy today'}>
+        <PersonalPlan locale={locale} part="panel" />
         <section class="panel">
           <h2 class="t-marker">{pt ? 'Santa Missa' : 'Holy Mass'}</h2>
           <p class="t-kicker">{home.of.dayName}</p>
@@ -473,6 +500,36 @@ const pillars = pt
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
+  }
+  /* The cards set their own display, which would outweigh `hidden`: the
+     account's cards (personal/plan.ts) take turns by it. */
+  .features [hidden],
+  .fleurons [hidden] {
+    display: none;
+  }
+  /* Pray now's foot: the minutes beside praying hands, the tier at the right (PrayNowCard). */
+  .pray-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 8px;
+  }
+  .pray-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    background: rgba(245, 239, 226, 0.14);
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .pray-tier {
+    font-family: var(--font-heading);
+    font-size: 11px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: rgba(245, 239, 226, 0.55);
   }
   .feature-sub {
     font-size: 14px;

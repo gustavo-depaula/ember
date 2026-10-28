@@ -1,0 +1,364 @@
+{
+ "pericopes": [
+  1,
+  15,
+  31
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The storyteller of Genesis; even, unhurried."
+  },
+  "jacob": {
+   "name": "Jacob",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The younger twin; wary and shrewd, awed at Bethel, ardent for Rachel."
+  },
+  "shepherds-of-haran": {
+   "name": "Shepherds of Haran",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Shepherds waiting at the well; plain, matter-of-fact."
+  },
+  "laban": {
+   "name": "Laban",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Rebecca's brother, father of Lia and Rachel; cordial and calculating."
+  },
+  "leah": {
+   "name": "Lia",
+   "kind": "individual",
+   "gender": "female",
+   "age": "young",
+   "note": "Laban's elder daughter, Jacob's unloved wife; longing, grateful at each birth."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Then Jacob went on in his journey, and came into the east country."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And he saw a well in the field, and three flocks of sheep lying by it: for the beasts were watered out of it, and the mouth thereof was closed with a great stone."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And the custom was, when all the sheep were gathered together, to roll away the stone, and after the sheep were watered, to put it on the mouth of the well again."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And he said to the shepherds:"
+   },
+   {
+    "s": "jacob",
+    "t": "Brethren, whence are you?"
+   },
+   {
+    "s": "narrator",
+    "t": "They answered:"
+   },
+   {
+    "s": "shepherds-of-haran",
+    "t": "Of Haran."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And he asked them, saying:"
+   },
+   {
+    "s": "jacob",
+    "t": "Know you Laban, the son of Nachor?"
+   },
+   {
+    "s": "narrator",
+    "t": "They said:"
+   },
+   {
+    "s": "shepherds-of-haran",
+    "t": "We know him."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "He said:"
+   },
+   {
+    "s": "jacob",
+    "t": "Is he in health?"
+   },
+   {
+    "s": "shepherds-of-haran",
+    "t": "He is in health,"
+   },
+   {
+    "s": "narrator",
+    "t": "say they:"
+   },
+   {
+    "s": "shepherds-of-haran",
+    "t": "and behold, Rachel, his daughter, cometh with his flock."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And Jacob said:"
+   },
+   {
+    "s": "jacob",
+    "t": "There is yet much day remaining, neither is it time to bring the flocks into the folds again: first give the sheep drink, and so lead them back to feed."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "They answered:"
+   },
+   {
+    "s": "shepherds-of-haran",
+    "t": "We cannot, till all the cattle be gathered together, and we remove the stone from the well's mouth, that we may water the flocks."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "They were yet speaking, and behold Rachel came with her father's sheep; for she fed the flock."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And when Jacob saw her, and knew her to be his cousin german, and that they were the sheep of Laban, his uncle: he removed the stone wherewith the well was closed."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And having watered the flock, he kissed her: and lifting up his voice wept."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And he told her that he was her father's brother, and the son of Rebecca: but she went in haste and told her father."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Who, when he heard that Jacob his sister's son was come, ran forth to meet him: and embracing him, and heartily kissing him, brought him into his house. And when he had heard the causes of his journey,"
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "He answered:"
+   },
+   {
+    "s": "laban",
+    "t": "Thou art my bone and my flesh."
+   },
+   {
+    "s": "narrator",
+    "t": "And after the days of one month were expired,"
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "He said to him:"
+   },
+   {
+    "s": "laban",
+    "t": "Because thou art my brother, shalt thou serve me without wages? Tell me what wages thou wilt have."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Now he had two daughters, the name of the elder was Lia; and the younger was called Rachel."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "But Lia was blear-eyed: Rachel was well favoured, and of a beautiful countenance."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And Jacob being in love with her, said:"
+   },
+   {
+    "s": "jacob",
+    "t": "I will serve thee seven years for Rachel, thy younger daughter."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Laban answered:"
+   },
+   {
+    "s": "laban",
+    "t": "It is better that I give her to thee than to another man; stay with me."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "So Jacob served seven years for Rachel: and they seemed but a few days, because of the greatness of his love."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And he said to Laban:"
+   },
+   {
+    "s": "jacob",
+    "t": "Give me my wife; for now the time is fulfilled, that I may go in unto her."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And he, having invited a great number of his friends to the feast, made the marriage."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And at night he brought in Lia, his daughter, to him,"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Giving his daughter a handmaid, named Zelpha. Now when Jacob had gone in to her according to custom, when morning was come he saw it was Lia."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And he said to his father-in-law:"
+   },
+   {
+    "s": "jacob",
+    "t": "What is it that thou didst mean to do? did not I serve thee for Rachel? why hast thou deceived me?"
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Laban answered:"
+   },
+   {
+    "s": "laban",
+    "t": "It is not the custom in this place, to give the younger in marriage first."
+   }
+  ],
+  "27": [
+   {
+    "s": "laban",
+    "t": "Make up the week of days of this match: and I will give thee her also, for the service that thou shalt render me other seven years."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "He yielded to his pleasure: and after the week was past, he married Rachel:"
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "To whom her father gave Bala, for her servant."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And having at length obtained the marriage he wished for, he preferred the love of the latter before the former, and served with him other seven years."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And the Lord seeing that he despised Lia, opened her womb, but her sister remained barren."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And she conceived and bore a son, and called his name Ruben, saying:"
+   },
+   {
+    "s": "leah",
+    "t": "The Lord saw my affliction: now my husband will love me."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And again she conceived and bore a son, and said:"
+   },
+   {
+    "s": "leah",
+    "t": "Because the Lord heard that I was despised, he hath given this also to me:"
+   },
+   {
+    "s": "narrator",
+    "t": "and she called his name Simeon."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And she conceived the third time, and bore another son, and said:"
+   },
+   {
+    "s": "leah",
+    "t": "Now also my husband will be joined to me, because I have borne him three sons:"
+   },
+   {
+    "s": "narrator",
+    "t": "and therefore she called his name Levi."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "The fourth time she conceived and bore a son, and said:"
+   },
+   {
+    "s": "leah",
+    "t": "Now will I praise the Lord:"
+   },
+   {
+    "s": "narrator",
+    "t": "and for this she called him Juda. And she left bearing."
+   }
+  ]
+ }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "denis-in-mysticam-theologiam",
+  "cover": "label",
+  "name": {
+    "la": "In librum De mystica theologia, cum difficultatum absolutionibus",
+    "en-US": "On the Mystical Theology",
+    "pt-BR": "Sobre a Teologia Mística"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "In librum De mystica theologia, cum difficultatum absolutionibus.",
+    "en-US": "Denis the Carthusian's commentary on the Areopagite, printed beside the Latin versions of Eriugena, Sarracenus, Traversari and Ficino and the paraphrase of Thomas Gallus.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, ao Areopagita, impresso ao lado das versões latinas de Erígena, Sarraceno, Traversari e Ficino e da paráfrase de Tomás Galo."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniainunu16deni",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XVI (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Præfatio",
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Capitulum 1",
+        "en-US": "Chapter 1",
+        "pt-BR": "Capítulo 1"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Capitulum 2",
+        "en-US": "Chapter 2",
+        "pt-BR": "Capítulo 2"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Capitulum 3",
+        "en-US": "Chapter 3",
+        "pt-BR": "Capítulo 3"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Capitulum 4",
+        "en-US": "Chapter 4",
+        "pt-BR": "Capítulo 4"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Capitulum 5",
+        "en-US": "Chapter 5",
+        "pt-BR": "Capítulo 5"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Prologus",
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Capitulum 1",
+        "en-US": "Chapter 1",
+        "pt-BR": "Capítulo 1"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Capitulum 2",
+        "en-US": "Chapter 2",
+        "pt-BR": "Capítulo 2"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Capitulum 3",
+        "en-US": "Chapter 3",
+        "pt-BR": "Capítulo 3"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Capitulum 4",
+        "en-US": "Chapter 4",
+        "pt-BR": "Capítulo 4"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Capitulum 5",
+        "en-US": "Chapter 5",
+        "pt-BR": "Capítulo 5"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Capitulum 1",
+        "en-US": "Chapter 1",
+        "pt-BR": "Capítulo 1"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Capitulum 2",
+        "en-US": "Chapter 2",
+        "pt-BR": "Capítulo 2"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Capitulum 3",
+        "en-US": "Chapter 3",
+        "pt-BR": "Capítulo 3"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Capitulum 4",
+        "en-US": "Chapter 4",
+        "pt-BR": "Capítulo 4"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Capitulum 5",
+        "en-US": "Chapter 5",
+        "pt-BR": "Capítulo 5"
+      }
+    }
+  ]
+}

@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Jeremiah",
-    "la": "Expositio super Ieremiam"
+    "la": "Expositio super Ieremiam",
+    "pt-BR": "Comentário a Jeremias"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "An early literal commentary on the prophet Jeremiah, complementing the Isaiah commentary. The Lamentations commentary continues this Jeremianic group.",
-    "la": "Expositio prima litteralis in prophetam Ieremiam, expositioni Isaiae cognata. Expositio Threnorum hunc cyclum continuat."
+    "la": "Expositio prima litteralis in prophetam Ieremiam, expositioni Isaiae cognata. Expositio Threnorum hunc cyclum continuat.",
+    "pt-BR": "Comentário literal da juventude ao profeta Jeremias, complementar ao comentário a Isaías. O comentário às Lamentações dá continuidade a este grupo de obras sobre Jeremias."
   },
   "composed": "1248–1252",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,308 +39,352 @@
       "id": "jerem-c01",
       "title": {
         "en-US": "Prologue of St. Thomas",
-        "la": "Prologue of St. Thomas"
+        "la": "Prologue of St. Thomas",
+        "pt-BR": "Prólogo de Santo Tomás"
       }
     },
     {
       "id": "jerem-c02",
       "title": {
         "en-US": "Preface of St. Jerome",
-        "la": "Preface of St. Jerome"
+        "la": "Preface of St. Jerome",
+        "pt-BR": "Prefácio de São Jerônimo"
       }
     },
     {
       "id": "jerem-c03",
       "title": {
         "en-US": "C. 1 - Jeremiah becomes a prophet",
-        "la": "C. 1 - Jeremiah becomes a prophet"
+        "la": "C. 1 - Jeremiah becomes a prophet",
+        "pt-BR": "Capítulo 1 — Jeremias torna-se profeta"
       }
     },
     {
       "id": "jerem-c04",
       "title": {
         "en-US": "C. 2 - Israel’s idolatry condemned",
-        "la": "C. 2 - Israel’s idolatry condemned"
+        "la": "C. 2 - Israel’s idolatry condemned",
+        "pt-BR": "Capítulo 2 — Condenação da idolatria de Israel"
       }
     },
     {
       "id": "jerem-c05",
       "title": {
         "en-US": "C. 3 - Israel and Judah as adulteresses",
-        "la": "C. 3 - Israel and Judah as adulteresses"
+        "la": "C. 3 - Israel and Judah as adulteresses",
+        "pt-BR": "Capítulo 3 — Israel e Judá como adúlteras"
       }
     },
     {
       "id": "jerem-c06",
       "title": {
         "en-US": "C. 4 - The threat of captivity",
-        "la": "C. 4 - The threat of captivity"
+        "la": "C. 4 - The threat of captivity",
+        "pt-BR": "Capítulo 4 — A ameaça do cativeiro"
       }
     },
     {
       "id": "jerem-c07",
       "title": {
         "en-US": "C. 5 - The corruption of Israel’s leaders",
-        "la": "C. 5 - The corruption of Israel’s leaders"
+        "la": "C. 5 - The corruption of Israel’s leaders",
+        "pt-BR": "Capítulo 5 — A corrupção dos chefes de Israel"
       }
     },
     {
       "id": "jerem-c08",
       "title": {
         "en-US": "C. 6 - Prophecy of Jerusalem’s destruction",
-        "la": "C. 6 - Prophecy of Jerusalem’s destruction"
+        "la": "C. 6 - Prophecy of Jerusalem’s destruction",
+        "pt-BR": "Capítulo 6 — Profecia da destruição de Jerusalém"
       }
     },
     {
       "id": "jerem-c09",
       "title": {
         "en-US": "C. 7 - No help from divine religion",
-        "la": "C. 7 - No help from divine religion"
+        "la": "C. 7 - No help from divine religion",
+        "pt-BR": "Capítulo 7 — Nenhum auxílio da religião divina"
       }
     },
     {
       "id": "jerem-c10",
       "title": {
         "en-US": "C. 8 - Pride, greed, and shamelessness",
-        "la": "C. 8 - Pride, greed, and shamelessness"
+        "la": "C. 8 - Pride, greed, and shamelessness",
+        "pt-BR": "Capítulo 8 — Soberba, cobiça e descaramento"
       }
     },
     {
       "id": "jerem-c11",
       "title": {
         "en-US": "C. 9 - Enumeration of punishments",
-        "la": "C. 9 - Enumeration of punishments"
+        "la": "C. 9 - Enumeration of punishments",
+        "pt-BR": "Capítulo 9 — Enumeração dos castigos"
       }
     },
     {
       "id": "jerem-c12",
       "title": {
         "en-US": "C. 10 - The futility of idol-worship",
-        "la": "C. 10 - The futility of idol-worship"
+        "la": "C. 10 - The futility of idol-worship",
+        "pt-BR": "Capítulo 10 — A vaidade do culto dos ídolos"
       }
     },
     {
       "id": "jerem-c13",
       "title": {
         "en-US": "C. 11 - Israel’s broken covenant",
-        "la": "C. 11 - Israel’s broken covenant"
+        "la": "C. 11 - Israel’s broken covenant",
+        "pt-BR": "Capítulo 11 — A aliança quebrada de Israel"
       }
     },
     {
       "id": "jerem-c14",
       "title": {
         "en-US": "C. 12 - God’s justice in punishing",
-        "la": "C. 12 - God’s justice in punishing"
+        "la": "C. 12 - God’s justice in punishing",
+        "pt-BR": "Capítulo 12 — A justiça de Deus ao punir"
       }
     },
     {
       "id": "jerem-c15",
       "title": {
         "en-US": "C. 13 - Allegory of the girdle",
-        "la": "C. 13 - Allegory of the girdle"
+        "la": "C. 13 - Allegory of the girdle",
+        "pt-BR": "Capítulo 13 — A alegoria do cinto"
       }
     },
     {
       "id": "jerem-c16",
       "title": {
         "en-US": "C. 14 - Jeremiah entreats God for mercy",
-        "la": "C. 14 - Jeremiah entreats God for mercy"
+        "la": "C. 14 - Jeremiah entreats God for mercy",
+        "pt-BR": "Capítulo 14 — Jeremias implora a misericórdia de Deus"
       }
     },
     {
       "id": "jerem-c17",
       "title": {
         "en-US": "C. 15 - Jeremiah’s prayer continued",
-        "la": "C. 15 - Jeremiah’s prayer continued"
+        "la": "C. 15 - Jeremiah’s prayer continued",
+        "pt-BR": "Capítulo 15 — Continuação da oração de Jeremias"
       }
     },
     {
       "id": "jerem-c18",
       "title": {
         "en-US": "C. 16 - Jeremiah separated from the people",
-        "la": "C. 16 - Jeremiah separated from the people"
+        "la": "C. 16 - Jeremiah separated from the people",
+        "pt-BR": "Capítulo 16 — Jeremias separado do povo"
       }
     },
     {
       "id": "jerem-c19",
       "title": {
         "en-US": "C. 17 - Causes of Israel’s obstinance",
-        "la": "C. 17 - Causes of Israel’s obstinance"
+        "la": "C. 17 - Causes of Israel’s obstinance",
+        "pt-BR": "Capítulo 17 — As causas da obstinação de Israel"
       }
     },
     {
       "id": "jerem-c20",
       "title": {
         "en-US": "C. 18 - The potter’s clay",
-        "la": "C. 18 - The potter’s clay"
+        "la": "C. 18 - The potter’s clay",
+        "pt-BR": "Capítulo 18 — O barro do oleiro"
       }
     },
     {
       "id": "jerem-c21",
       "title": {
         "en-US": "C. 19 - Analogy of the broken pot",
-        "la": "C. 19 - Analogy of the broken pot"
+        "la": "C. 19 - Analogy of the broken pot",
+        "pt-BR": "Capítulo 19 — A figura do vaso quebrado"
       }
     },
     {
       "id": "jerem-c22",
       "title": {
         "en-US": "C. 20 - Pashhur persecutes Jeremiah",
-        "la": "C. 20 - Pashhur persecutes Jeremiah"
+        "la": "C. 20 - Pashhur persecutes Jeremiah",
+        "pt-BR": "Capítulo 20 — Fassur persegue Jeremias"
       }
     },
     {
       "id": "jerem-c23",
       "title": {
         "en-US": "C. 21 - Threat against the kings",
-        "la": "C. 21 - Threat against the kings"
+        "la": "C. 21 - Threat against the kings",
+        "pt-BR": "Capítulo 21 — Ameaça contra os reis"
       }
     },
     {
       "id": "jerem-c24",
       "title": {
         "en-US": "C. 22 - Threats against Judah’s rulers",
-        "la": "C. 22 - Threats against Judah’s rulers"
+        "la": "C. 22 - Threats against Judah’s rulers",
+        "pt-BR": "Capítulo 22 — Ameaças contra os governantes de Judá"
       }
     },
     {
       "id": "jerem-c25",
       "title": {
         "en-US": "C. 23 - Condemnation of false prophets",
-        "la": "C. 23 - Condemnation of false prophets"
+        "la": "C. 23 - Condemnation of false prophets",
+        "pt-BR": "Capítulo 23 — Condenação dos falsos profetas"
       }
     },
     {
       "id": "jerem-c26",
       "title": {
         "en-US": "C. 24 - Good and bad princes separated",
-        "la": "C. 24 - Good and bad princes separated"
+        "la": "C. 24 - Good and bad princes separated",
+        "pt-BR": "Capítulo 24 — Separação dos príncipes bons e maus"
       }
     },
     {
       "id": "jerem-c27",
       "title": {
         "en-US": "C. 25 - Threat against princes of all nations",
-        "la": "C. 25 - Threat against princes of all nations"
+        "la": "C. 25 - Threat against princes of all nations",
+        "pt-BR": "Capítulo 25 — Ameaça contra os príncipes de todas as nações"
       }
     },
     {
       "id": "jerem-c28",
       "title": {
         "en-US": "C. 26 - Conspiracy of the princes",
-        "la": "C. 26 - Conspiracy of the princes"
+        "la": "C. 26 - Conspiracy of the princes",
+        "pt-BR": "Capítulo 26 — A conspiração dos príncipes"
       }
     },
     {
       "id": "jerem-c29",
       "title": {
         "en-US": "C. 27 - Nebuchadnezzar’s coming domain",
-        "la": "C. 27 - Nebuchadnezzar’s coming domain"
+        "la": "C. 27 - Nebuchadnezzar’s coming domain",
+        "pt-BR": "Capítulo 27 — O domínio vindouro de Nabucodonosor"
       }
     },
     {
       "id": "jerem-c30",
       "title": {
         "en-US": "C. 28 - The false prophet Hananiah",
-        "la": "C. 28 - The false prophet Hananiah"
+        "la": "C. 28 - The false prophet Hananiah",
+        "pt-BR": "Capítulo 28 — O falso profeta Ananias"
       }
     },
     {
       "id": "jerem-c31",
       "title": {
         "en-US": "C. 29 - The consolations of false prophets",
-        "la": "C. 29 - The consolations of false prophets"
+        "la": "C. 29 - The consolations of false prophets",
+        "pt-BR": "Capítulo 29 — As consolações dos falsos profetas"
       }
     },
     {
       "id": "jerem-c32",
       "title": {
         "en-US": "C. 30 - God promises liberation",
-        "la": "C. 30 - God promises liberation"
+        "la": "C. 30 - God promises liberation",
+        "pt-BR": "Capítulo 30 — Deus promete a libertação"
       }
     },
     {
       "id": "jerem-c33",
       "title": {
         "en-US": "C. 31 - The promise of salvation",
-        "la": "C. 31 - The promise of salvation"
+        "la": "C. 31 - The promise of salvation",
+        "pt-BR": "Capítulo 31 — A promessa da salvação"
       }
     },
     {
       "id": "jerem-c34",
       "title": {
         "en-US": "C. 32 - Allegory of the field",
-        "la": "C. 32 - Allegory of the field"
+        "la": "C. 32 - Allegory of the field",
+        "pt-BR": "Capítulo 32 — A alegoria do campo"
       }
     },
     {
       "id": "jerem-c35",
       "title": {
         "en-US": "C. 33 - The kingdom and priesthood",
-        "la": "C. 33 - The kingdom and priesthood"
+        "la": "C. 33 - The kingdom and priesthood",
+        "pt-BR": "Capítulo 33 — O reino e o sacerdócio"
       }
     },
     {
       "id": "jerem-c36",
       "title": {
         "en-US": "C. 34 - Zedekiah transgresses the covenant",
-        "la": "C. 34 - Zedekiah transgresses the covenant"
+        "la": "C. 34 - Zedekiah transgresses the covenant",
+        "pt-BR": "Capítulo 34 — Sedecias transgride a aliança"
       }
     },
     {
       "id": "jerem-c37",
       "title": {
         "en-US": "C. 35 - The Rechabites’ commandment",
-        "la": "C. 35 - The Rechabites’ commandment"
+        "la": "C. 35 - The Rechabites’ commandment",
+        "pt-BR": "Capítulo 35 — O mandamento dos recabitas"
       }
     },
     {
       "id": "jerem-c38",
       "title": {
         "en-US": "C. 36 - Jeremiah’s book",
-        "la": "C. 36 - Jeremiah’s book"
+        "la": "C. 36 - Jeremiah’s book",
+        "pt-BR": "Capítulo 36 — O livro de Jeremias"
       }
     },
     {
       "id": "jerem-c39",
       "title": {
         "en-US": "C. 37 - Jeremiah falsely suspected",
-        "la": "C. 37 - Jeremiah falsely suspected"
+        "la": "C. 37 - Jeremiah falsely suspected",
+        "pt-BR": "Capítulo 37 — Jeremias falsamente suspeito"
       }
     },
     {
       "id": "jerem-c40",
       "title": {
         "en-US": "C. 38 - Jeremiah persecuted by the princes",
-        "la": "C. 38 - Jeremiah persecuted by the princes"
+        "la": "C. 38 - Jeremiah persecuted by the princes",
+        "pt-BR": "Capítulo 38 — Jeremias perseguido pelos príncipes"
       }
     },
     {
       "id": "jerem-c41",
       "title": {
         "en-US": "C. 39 - The capture of Jerusalem",
-        "la": "C. 39 - The capture of Jerusalem"
+        "la": "C. 39 - The capture of Jerusalem",
+        "pt-BR": "Capítulo 39 — A tomada de Jerusalém"
       }
     },
     {
       "id": "jerem-c42",
       "title": {
         "en-US": "C. 40 - Jeremiah’s release and the princes’ plots",
-        "la": "C. 40 - Jeremiah’s release and the princes’ plots"
+        "la": "C. 40 - Jeremiah’s release and the princes’ plots",
+        "pt-BR": "Capítulo 40 — A libertação de Jeremias e as tramas dos príncipes"
       }
     },
     {
       "id": "jerem-c43",
       "title": {
         "en-US": "C. 41 - Ishmael’s treachery",
-        "la": "C. 41 - Ishmael’s treachery"
+        "la": "C. 41 - Ishmael’s treachery",
+        "pt-BR": "Capítulo 41 — A traição de Ismael"
       }
     },
     {
       "id": "jerem-c44",
       "title": {
         "en-US": "C. 42 - Instruction of the remnant",
-        "la": "C. 42 - Instruction of the remnant"
+        "la": "C. 42 - Instruction of the remnant",
+        "pt-BR": "Capítulo 42 — Instrução do restante"
       }
     }
   ]

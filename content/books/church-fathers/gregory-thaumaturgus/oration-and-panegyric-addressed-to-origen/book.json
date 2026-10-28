@@ -2,13 +2,16 @@
   "id": "gregory-thaumaturgus-oration-and-panegyric-addressed-to-origen",
   "cover": "quarter",
   "name": {
-    "en-US": "The Oration and Panegyric Addressed to Origen"
+    "en-US": "The Oration and Panegyric Addressed to Origen",
+    "pt-BR": "Discurso e Panegírico Dirigidos a Orígenes"
   },
   "author": {
-    "en-US": "Gregory Thaumaturgus"
+    "en-US": "Gregory Thaumaturgus",
+    "pt-BR": "Gregório Taumaturgo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Oration and Panegyric Addressed to Origen"
+        "en-US": "The Oration and Panegyric Addressed to Origen",
+        "pt-BR": "Discurso e Panegírico Dirigidos a Orígenes"
       }
     }
   ]

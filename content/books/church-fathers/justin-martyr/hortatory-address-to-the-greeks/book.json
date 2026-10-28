@@ -2,13 +2,16 @@
   "id": "justin-martyr-hortatory-address-to-the-greeks",
   "cover": "quarter",
   "name": {
-    "en-US": "Hortatory Address to the Greeks"
+    "en-US": "Hortatory Address to the Greeks",
+    "pt-BR": "Exortação aos Gregos"
   },
   "author": {
-    "en-US": "Justin Martyr"
+    "en-US": "Justin Martyr",
+    "pt-BR": "Justino Mártir"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Hortatory Address to the Greeks"
+        "en-US": "Hortatory Address to the Greeks",
+        "pt-BR": "Exortação aos Gregos"
       }
     }
   ]

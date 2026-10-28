@@ -1,6 +1,6 @@
 // Thin typed client for the Mass Times backend (Cloudflare Worker + D1). The response shapes are
-// the `@ember/api` row types (the schema is the contract): a viewport returns churches (with their
-// services) plus counted clusters when zoomed out; `/:id` nests services/texts/links. Reads need no auth; writes carry
+// the `@ember/api` row types (the schema is the contract): a map tile returns a cell's churches (with their
+// services), or counted clusters when zoomed out; `/:id` nests services/texts/links. Reads need no auth; writes carry
 // a stable per-install id in `X-Client-Id` (fingerprinted server-side for dedup + rate limiting).
 
 import type {
@@ -11,6 +11,7 @@ import type {
   Service,
   ServiceKind,
 } from '@ember/api'
+import type { Tile } from './tiles'
 
 // Overridable so a dev build can point at `wrangler dev` while backend changes are unreleased.
 const baseUrl =
@@ -56,17 +57,9 @@ async function postJson<T>(path: string, body: unknown, clientId: string) {
   return (await res.json()) as T
 }
 
-// Churches within a map viewport, at any zoom. Up to `limit` churches nearest the view center; past
-// that many in view, `clusters` also covers the whole box.
-export function fetchViewport(
-  bbox: Bbox,
-  opts: { kind?: ServiceKind; limit?: number } = {},
-): Promise<{ churches: Church[]; clusters: Cluster[] }> {
-  return getJson('/churches', {
-    bbox: `${bbox.minLng},${bbox.minLat},${bbox.maxLng},${bbox.maxLat}`,
-    kind: opts.kind,
-    limit: opts.limit,
-  })
+// One map tile by its path on the API (see `tilePath`): a cell's churches, or the counts beneath it.
+export function fetchTile(path: string): Promise<Tile> {
+  return getJson<Tile>(path)
 }
 
 export async function searchChurches(

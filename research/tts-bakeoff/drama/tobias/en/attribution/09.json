@@ -1,0 +1,111 @@
+{
+ "pericopes": [
+  1,
+  8
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Tobias; calm, warm storyteller."
+  },
+  "tobias-the-younger": {
+   "name": "Tobias the younger",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "The son, newly married; earnest, reverent and grateful, eager to return to his parents."
+  },
+  "gabelus": {
+   "name": "Gabelus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Old friend and debtor of the elder Tobias; weeps and blesses the bridegroom."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Then Tobias called the angel to him, whom he took to be a man, and said to him:"
+   },
+   {
+    "s": "tobias-the-younger",
+    "t": "Brother Azarias, I pray thee hearken to my words:"
+   }
+  ],
+  "2": [
+   {
+    "s": "tobias-the-younger",
+    "t": "If I should give myself to be thy servant I should not make a worthy return for thy care."
+   }
+  ],
+  "3": [
+   {
+    "s": "tobias-the-younger",
+    "t": "However, I beseech thee, to take with thee beasts and servants, and to go to Gabelus to Rages the city of the Medes: and to restore to him his note of hand, and receive of him the money, and desire him to come to my wedding."
+   }
+  ],
+  "4": [
+   {
+    "s": "tobias-the-younger",
+    "t": "For thou knowest that my father numbereth the days: and if I stay one day more, his soul will be afflicted."
+   }
+  ],
+  "5": [
+   {
+    "s": "tobias-the-younger",
+    "t": "And indeed thou seest how Raguel hath adjured me, whose adjuring I cannot despise."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Then Raphael took four of Raguel's servants, and two camels, and went to Rages the city of the Medes: and finding Gabelus, gave him his note of hand, and received of him all the money."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And he told him concerning Tobias the son of Tobias, all that had been done: and made him come with him to the wedding."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And when he was come into Raguel's house he found Tobias sitting at the table: and he leaped up, and they kissed each other: and Gabelus wept, and blessed God,"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And said:"
+   },
+   {
+    "s": "gabelus",
+    "t": "The God of Israel bless thee, because thou art the son of a very good and just man, and that feareth God, and doth almsdeeds:"
+   }
+  ],
+  "10": [
+   {
+    "s": "gabelus",
+    "t": "And may a blessing come upon thy wife and upon your parents."
+   }
+  ],
+  "11": [
+   {
+    "s": "gabelus",
+    "t": "And may you see your children, and your children's children, unto the third and fourth generation: and may your seed be blessed by the God of Israel, who reigneth for ever and ever."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And when all had said, Amen, they went to the feast: but the marriage feast they celebrated also with the fear of the Lord."
+   }
+  ]
+ }
+}

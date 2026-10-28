@@ -1,0 +1,3 @@
+# Artigo 23
+
+O que se põe em vigésimo terceiro lugar: *o Filho procede como verbo e arte pela qual o Pai pode produzir todas as coisas; o Espírito Santo como amor, pelo qual o amor quer produzi-las*, tem múltiplo sentido. Pois pode entender-se que o Pai pode pelo Filho e quer pelo Espírito Santo; e assim é falso, como o objetante impugna. Pode entender-se também que o Pai pode produzir pelo Filho e quer produzir pelo Espírito Santo; e assim é verdadeiro: pois o Pai produz todas as coisas pelo Filho e pelo Espírito Santo; e o que faz, é manifesto que o pode e o quer. Pode, portanto, e quer produzir todas as coisas pelo Filho.

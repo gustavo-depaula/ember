@@ -2,13 +2,16 @@
   "id": "bardesanes-book-of-the-laws-of-various-countries",
   "cover": "quarter",
   "name": {
-    "en-US": "The Book of the Laws of Various Countries"
+    "en-US": "The Book of the Laws of Various Countries",
+    "pt-BR": "O Livro das Leis dos Diversos Países"
   },
   "author": {
-    "en-US": "Bardesanes (154-222)"
+    "en-US": "Bardesanes (154-222)",
+    "pt-BR": "Bardesanes (154-222)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Book of the Laws of Various Countries"
+        "en-US": "The Book of the Laws of Various Countries",
+        "pt-BR": "O Livro das Leis dos Diversos Países"
       }
     }
   ]

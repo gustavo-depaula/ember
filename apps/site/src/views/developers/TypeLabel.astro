@@ -1,0 +1,13 @@
+---
+import { type JsonSchema, schemaAnchor, typeParts } from '~/lib/developers/schema'
+
+interface Props {
+  schema: JsonSchema
+  /** A row whose own fields are listed beneath it names it `object`. */
+  shape?: boolean
+}
+
+const parts = typeParts(Astro.props.schema, { shape: Astro.props.shape })
+---
+
+<code class="type">{parts.map((p) => (p.schema ? <a href={`#${schemaAnchor(p.schema)}`}>{p.text}</a> : p.text))}</code>

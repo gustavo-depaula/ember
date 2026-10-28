@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Lamentations",
-    "la": "In Threnos Jeremiae Expositio"
+    "la": "In Threnos Jeremiae Expositio",
+    "pt-BR": "Comentário às Lamentações"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "An early literal commentary on the Book of Lamentations, likely from Aquinas's Paris bachelor years.",
-    "la": "Expositio prima Thomae litteralis in librum Threnorum, fere ex annis baccalaureatus Parisiensis."
+    "la": "Expositio prima Thomae litteralis in librum Threnorum, fere ex annis baccalaureatus Parisiensis.",
+    "pt-BR": "Um dos primeiros comentários literais de Tomás de Aquino, sobre o Livro das Lamentações, provavelmente dos anos em que era bacharel em Paris."
   },
   "composed": "c. 1252–1259",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Chapter 1 — Prologue of St. Thomas",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1 — Prólogo de Santo Tomás"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Prologue of St. Thomas",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Prólogo de Santo Tomás"
           }
         }
       ]
@@ -51,14 +57,16 @@
       "id": "g2",
       "title": {
         "en-US": "Chapter 2 — Prologue of Jeremiah",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2 — Prólogo de Jeremias"
       },
       "children": [
         {
           "id": "g2-pr",
           "title": {
             "en-US": "Prologue — Prologue of Jeremiah",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Prólogo de Jeremias"
           }
         }
       ]
@@ -67,161 +75,184 @@
       "id": "g3",
       "title": {
         "en-US": "Chapter 3 — Captive Jerusalem’s sorrows",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3 — As dores de Jerusalém cativa"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g3-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g3-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g3-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g3-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g3-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g3-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g3-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g3-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g3-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g3-c014",
           "title": {
             "en-US": "Lecture 14",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g3-c015",
           "title": {
             "en-US": "Lecture 15",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         },
         {
           "id": "g3-c016",
           "title": {
             "en-US": "Lecture 16",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16"
           }
         },
         {
           "id": "g3-c017",
           "title": {
             "en-US": "Lecture 17",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17"
           }
         },
         {
           "id": "g3-c018",
           "title": {
             "en-US": "Lecture 18",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18"
           }
         },
         {
           "id": "g3-c019",
           "title": {
             "en-US": "Lecture 19",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19"
           }
         },
         {
           "id": "g3-c019-2",
           "title": {
             "en-US": "Lecture 19",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19"
           }
         },
         {
           "id": "g3-c021",
           "title": {
             "en-US": "Lecture 21",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21"
           }
         },
         {
           "id": "g3-c022",
           "title": {
             "en-US": "Lecture 22",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22"
           }
         }
       ]
@@ -230,161 +261,184 @@
       "id": "g4",
       "title": {
         "en-US": "Chapter 4 — Israel’s destruction",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4 — A destruição de Israel"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g4-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g4-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g4-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g4-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g4-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g4-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g4-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g4-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g4-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g4-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g4-c014",
           "title": {
             "en-US": "Lecture 14",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g4-c015",
           "title": {
             "en-US": "Lecture 15",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         },
         {
           "id": "g4-c016",
           "title": {
             "en-US": "Lecture 16",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16"
           }
         },
         {
           "id": "g4-c017",
           "title": {
             "en-US": "Lecture 17",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17"
           }
         },
         {
           "id": "g4-c018",
           "title": {
             "en-US": "Lecture 18",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18"
           }
         },
         {
           "id": "g4-c019",
           "title": {
             "en-US": "Lecture 19",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19"
           }
         },
         {
           "id": "g4-c020",
           "title": {
             "en-US": "Lecture 20",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20"
           }
         },
         {
           "id": "g4-c021",
           "title": {
             "en-US": "Lecture 21",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21"
           }
         },
         {
           "id": "g4-c022",
           "title": {
             "en-US": "Lecture 22",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22"
           }
         }
       ]
@@ -393,161 +447,184 @@
       "id": "g5",
       "title": {
         "en-US": "Chapter 5 — Jeremiah’s pleas for mercy",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5 — As súplicas de Jeremias por misericórdia"
       },
       "children": [
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g5-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g5-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g5-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g5-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g5-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g5-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g5-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g5-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g5-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g5-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g5-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g5-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g5-c014",
           "title": {
             "en-US": "Lecture 14",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g5-c015",
           "title": {
             "en-US": "Lecture 15",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         },
         {
           "id": "g5-c016",
           "title": {
             "en-US": "Lecture 16",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16"
           }
         },
         {
           "id": "g5-c017",
           "title": {
             "en-US": "Lecture 17",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17"
           }
         },
         {
           "id": "g5-c018",
           "title": {
             "en-US": "Lecture 18",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18"
           }
         },
         {
           "id": "g5-c019",
           "title": {
             "en-US": "Lecture 19",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19"
           }
         },
         {
           "id": "g5-c020",
           "title": {
             "en-US": "Lecture 20",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20"
           }
         },
         {
           "id": "g5-c021",
           "title": {
             "en-US": "Lecture 21",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21"
           }
         },
         {
           "id": "g5-c022",
           "title": {
             "en-US": "Lecture 22",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22"
           }
         }
       ]
@@ -556,161 +633,184 @@
       "id": "g6",
       "title": {
         "en-US": "Chapter 6 — The misery of the siege",
-        "la": "Caput 6"
+        "la": "Caput 6",
+        "pt-BR": "Capítulo 6 — A miséria do cerco"
       },
       "children": [
         {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g6-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g6-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g6-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g6-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g6-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g6-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g6-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g6-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g6-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g6-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g6-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g6-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g6-c014",
           "title": {
             "en-US": "Lecture 14",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g6-c015",
           "title": {
             "en-US": "Lecture 15",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         },
         {
           "id": "g6-c016",
           "title": {
             "en-US": "Lecture 16",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16"
           }
         },
         {
           "id": "g6-c017",
           "title": {
             "en-US": "Lecture 17",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17"
           }
         },
         {
           "id": "g6-c018",
           "title": {
             "en-US": "Lecture 18",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18"
           }
         },
         {
           "id": "g6-c019",
           "title": {
             "en-US": "Lecture 19",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19"
           }
         },
         {
           "id": "g6-c020",
           "title": {
             "en-US": "Lecture 20",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20"
           }
         },
         {
           "id": "g6-c021",
           "title": {
             "en-US": "Lecture 21",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21"
           }
         },
         {
           "id": "g6-c022",
           "title": {
             "en-US": "Lecture 22",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22"
           }
         }
       ]
@@ -719,14 +819,16 @@
       "id": "g7",
       "title": {
         "en-US": "Chapter 7 — The prayer of Jeremiah the prophet",
-        "la": "Caput 7"
+        "la": "Caput 7",
+        "pt-BR": "Capítulo 7 — A oração do profeta Jeremias"
       },
       "children": [
         {
           "id": "g7-c005",
           "title": {
             "en-US": "Lecture 5 — The prayer of Jeremiah the prophet",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A oração do profeta Jeremias"
           }
         }
       ]

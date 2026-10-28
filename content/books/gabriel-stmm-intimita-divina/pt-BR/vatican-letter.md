@@ -4,7 +4,7 @@
 
 Reverenda Madre,
 
-A senhora quis apresentar ao Augusto Pontífice, em nome desse Mosteiro, o volume no qual, sob o significativo título «Intimidade Divina», estão piedosa e diligentemente reunidas as meditações para o inteiro ano litúrgico, ditadas pelo Rev. P. Gabriel de Santa Maria Madalena.
+A senhora quis apresentar ao Augusto Pontífice, em nome desse Mosteiro, o volume no qual, sob o significativo título “Intimidade Divina”, estão piedosa e diligentemente reunidas as meditações para o inteiro ano litúrgico, ditadas pelo Rev. P. Gabriel de Santa Maria Madalena.
 
 Nele se recolhe a doutrina da espiritualidade carmelita, da qual o inesquecível Padre Gabriel era nutrido e que havia ensinado a inumeráveis almas até a véspera de seu piedoso desaparecimento.
 
@@ -16,7 +16,7 @@ Com sentimentos de religiosa estima, me declaro,
 
 devotíssimo no Senhor,
 
-**Angelo Dell'Acqua**
+**Angelo Dell’Acqua**
 *Substituto*
 
 Reverenda Madre Prioresa

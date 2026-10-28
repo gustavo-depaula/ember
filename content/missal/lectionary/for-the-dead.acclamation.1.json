@@ -1,0 +1,2745 @@
+{
+ "id": "for-the-dead.acclamation.1",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Cf. Mt 11, 25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Benedíctus es, Pater, Dómine cæli et terræ,"
+       ],
+       [
+        "quia mystéria regni párvulis revelásti."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Cf. Mt 11, 25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bendito sejais, ó Pai, Senhor do céu e da terra, porque revelastes aos humildes os mistérios do reino."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "cf. Mt 11:25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Blessed are you, Father, Lord of heaven and earth; for revealing the mysteries of the kingdom to mere children."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Cf. Mt 11, 25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bendito seas, Padre, Señor del cielo y de la tierra,"
+       ],
+       [
+        "porque has revelado los misterios del reino a los pequeños."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Cf. Mt 11, 25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Tu es béni, Père, Seigneur du ciel et de la terre, tu as révélé aux tout-petits les mystères du Royaume !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Vgl. Mt 11, 25",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Sei gepriesen, Vater, Herr des Himmels und der Erde; du hast die Geheimnisse des Reiches den Unmündigen offenbart."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Mt 25, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Veníte, benedícti Patris mei, dicit Dóminus;"
+       ],
+       [
+        "possidéte parátum vobis regnum a constitutióne mundi."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Mt 25, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Vinde, benditos de meu Pai, tomai posse do Reino preparado para vós desde o princípio do mundo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Mt 25:34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Come, you whom my Father has blessed, says the Lord; take for your heritage the kingdom prepared for you since the foundation of the world."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Mt 25, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Venid vosotros, benditos de mi Padre —dice el Señor—;"
+       ],
+       [
+        "heredad el reino preparado para vosotros desde la creación del mundo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Mt 25, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Venez, les bénis de mon Père, dit le Seigneur ; recevez en héritage le royaume préparé pour vous depuis la création du monde."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Vgl. Mt 25, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "(So spricht der Herr:) Kommt her, die ihr von meinem Vater gesegnet seid, nehmt das Reich in Besitz, das seit Erschaffung der Welt für Euch bestimmt ist."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Io 3, 16",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Sic diléxit Deus mundum,"
+       ],
+       [
+        "ut Fílium suum unigénitum daret;"
+       ],
+       [
+        "omnis qui credit in eum habet vitam ætérnam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Jo 3, 16",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Deus amou tanto o mundo, que lhe deu o seu próprio Filho: quem nele crê não perece, mas possui a vida eterna."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Jn 3:16",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "God loved the world so much that he gave his only Son; everyone who believes in him has eternal life."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 3, 16",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Tanto amó Dios al mundo,"
+       ],
+       [
+        "que entregó a su Unigénito;"
+       ],
+       [
+        "todo el que cree en él tiene vida eterna."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Io 3, 16",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Dieu a tellement aimé le monde qu'il a donné son Fils unique, afin que ceux qui croient en lui aient la vie éternelle.."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Vgl. Joh 3, 16a. 15",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "So sehr hat Gott die Welt geliebt, dass er seinen einzigen Sohn hingab, damit jeder, der glaubt, in ihm das ewige Leben hat."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Io 6, 39",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Hæc est volúntas Patris mei,"
+       ],
+       [
+        "ut omne quod dedit mihi non perdam ex eo,"
+       ],
+       [
+        "sed resúscitem illud in novíssimo die, dicit Dóminus."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Jo 6, 39",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Esta é a vontade do meu Pai: que não perca nada do que me deu e Eu o ressuscitarei no último dia, diz o Senhor."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Jn 6:39",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "It is my Father's will, says the Lord, that I should lose nothing of all that he has given to me, and that I should raise it up on the last day."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 6, 39",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Esta es la voluntad de mi Padre —dice el Señor—:"
+       ],
+       [
+        "que no pierda nada de lo que me dio,"
+       ],
+       [
+        "sino que lo resucite en el último día."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Io 6, 39",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Telle est la volonté de Celui qui m'a envoyé : que je ne perde aucun de ceux qu'il m'a donnés, mais que je les ressuscite au dernier jour."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Vgl. Joh 6, 39",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "(So spricht der Herr:) Es ist der Wille meines Vaters, dass keiner verlorengeht von denen, die er mir gegeben hat, sondern dass ich sie auferwecke am Jüngsten Tag."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Io 6, 40",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Hæc est volúntas Patris mei,"
+       ],
+       [
+        "ut omnis qui credit in Fílium hábeat vitam ætérnam;"
+       ],
+       [
+        "et ego resuscitábo ego eum in novíssimo die,"
+       ],
+       [
+        "dicit Dóminus."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Jo 6, 40",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Quem acredita no Filho de Deus tem a vida eterna: Eu o ressuscitarei no último dia, diz o Senhor"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Jn 6:40",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "It is my Father's will, says the Lord, that whoever believes in the Son shall have eternal life, and that I shall raise him up on the last day."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 6, 40",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Esta es la voluntad de mi Padre —dice el Señor—:"
+       ],
+       [
+        "que todo el que cree en el Hijo tenga vida eterna,"
+       ],
+       [
+        "y yo lo resucitaré en el último día."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Io 6, 40",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Telle est la volonté de mon Père : que celui qui voit le Fils et croit en lui ait la vie éternelle ; et moi, je le ressusciterai au dernier jour."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Vgl. Joh 6, 40",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "(So spricht der Herr:) Jeder, der an den Sohn glaubt, hat das ewige Leben, und ich werde ihn auferwecken am Jüngsten Tag."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Io 6, 51",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Ego sum panis vivus, qui de cælo descéndi,"
+       ],
+       [
+        "dicit Dóminus;"
+       ],
+       [
+        "si quis manducáverit ex hoc pane, vivet in ætérnum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Jo 6, 51",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Eu sou o pão vivo descido do Céu, diz o Senhor. Quem comer deste pão viverá eternamente."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Jn 6:51-52",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "I am the living bread which has come down from heaven, says the Lord. Anyone who eats this bread will live for ever."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 6, 51",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Yo soy el pan vivo que ha bajado del cielo —dice el Señor—;"
+       ],
+       [
+        "el que coma de este pan vivirá para siempre."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Io 6, 51",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Je suis le pain vivant qui est descendu du ciel, dit le Seigneur ; si quelqu'un mange de ce pain, il vivra éternellement. Le pain que je donnerai, c'est ma chair, donnée pour la vie du monde."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Vgl. Joh 6, 51",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "(So spricht der Herr:) Ich bin das lebendige Brot, das vom Himmel gekommen ist. Wer dieses Brot isst, wird in Ewigkeit leben."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Io 11, 25a. 26",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Ego sum resurréctio et vita, dicit Dóminus;"
+       ],
+       [
+        "qui credit in me non moriétur in ætérnum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Jo 11, 25a. 26",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que tenha morrido, viverá; e todo aquele que vive e crê em mim não morrerá para sempre."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Jn 11:25. 26",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "I am the resurrection and the life, says the Lord, whoever believes in me will never die."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 11, 25a. 26",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Yo soy la resurrección y la vida —dice el Señor—;"
+       ],
+       [
+        "el que cree en mí no morirá para siempre."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Io 11, 25a. 26",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Moi, je suis la résurrection et la vie, dit le Seigneur. Celui qui croit en moi ne mourra jamais."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Joh 11, 25a. 26b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "(So spricht der Herr:) Ich bin die Auferstehung und das Leben. Jeder, der an mich glaubt, wird auf ewig nicht sterben."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Cf. Phil 3, 20",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Conversátio nostra in cælis est,"
+       ],
+       [
+        "unde étiam Salvatórem exspectámus"
+       ],
+       [
+        "Dóminum nostrum Iesum Christum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Fl 3, 20",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Nós somos cidadãos do céu. De lá aguardamos o nosso Salvador, o Senhor, Jesus Cristo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "cf. Phil 3:20",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Our homeland is in heaven, and from heaven comes the Saviour we are waiting for, the Lord Jesus Christ."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Flp 3, 20",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Nosotros somos ciudadanos del cielo,"
+       ],
+       [
+        "de donde aguardamos un Salvador:"
+       ],
+       [
+        "nuestro Señor Jesucristo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Cf. Phil 3, 20",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "CNous avons notre citoyenneté dans les cieux, d'où nous attendons comme sauveur le Seigneur Jésus Christ."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Phil 3, 20",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Unsere Heimat ist im Himmel. Von dorther erwarten wir auch Jesus Christus, den Herrn, als Retter."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "2 Tim 2, 11-12a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Si commórtui sumus cum Christo, et convivémus;"
+       ],
+       [
+        "si sustinébimus, et conregnábimus."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "2 Tm 2, 11-12a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Se morrermos com o Cristo, viveremos com ele; se perseverarmos, com ele reinaremos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "2 Tim 2:11-12",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "If we have died with Christ, then we shall live with him; if we hold firm, then we shall reign with him."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "2 Tm 2, 11-12a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Si morimos con Cristo, también viviremos con él;"
+       ],
+       [
+        "si perseveramos, también reinaremos con él."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "2 Tim 2, 11-12a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Si nous sommes morts avec lui, avec lui nous vivrons. Si nous supportons l'épreuve, avec lui nous régnerons."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "2 Tim 2, 11-12a",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Wenn wir mit Christus gestorben sind, werden wir auch mit ihm leben; wenn wir standhaft bleiben, werden wir auch mit ihm herrschen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Ap 1, 5a. 6b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Iesus Christus est primogénitus mortuórum;"
+       ],
+       [
+        "ipsi glória et impérium in sǽcula sæculórum. Amen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Ap 1, 5a. 6b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Jesus Cristo é o Primogênito dos mortos. A Ele a glória e o domínio para sempre!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Rev 1:5-6",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Jesus Christ is the First-born from the dead; to him be glory and power for ever and ever. Amen."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Ap 1, 5a. 6b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Jesucristo es el primogénito de entre los muertos;"
+       ],
+       [
+        "a él, la gloria y el poder por los siglos de los siglos. Amén."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Ap 1, 5a. 6b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Jésus-Christ, le premier-né des morts, à lui, la gloire et la souveraineté pour les siècles des siècles."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Offb 1, 5a. 6b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Jesus Christus ist der Erstgeborene der Toten. Ihm sei die Herrlichkeit und die Macht in alle Ewigkeit."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Ap 14, 13",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beáti mórtui qui in Dómino moriúntur;"
+       ],
+       [
+        "requiéscant a labóribus suis;"
+       ],
+       [
+        "ópera enim illórum sequúntur illos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Ap 14, 13",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "«Felizes os que morreram no Senhor. Sim desde agora, descansem dos seus trabalhos, porque as suas obras os acompanham»."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Rev 14:13",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Happy are those who die in the Lord! Now they can rest for ever after their work, since their good deeds go with them."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Ap 14, 13",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "¡Bienaventurados los muertos, los que mueren en el Señor!"
+       ],
+       [
+        "Que descansen de sus fatigas, porque sus obras los acompañan."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Ap 14, 13",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Heureux les morts qui meurent dans le Seigneur. Qu'ils se reposent de leurs peines, car leurs actes les suivent !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Offb 14, 13",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig die Toten, die im Herrn sterben, sie sollen ausruhen von ihren Mühen; denn ihre Werke begleiten sie."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "title": {}
+}

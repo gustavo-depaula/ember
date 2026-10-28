@@ -1,9 +1,15 @@
-import { differenceInCalendarDays, parseISO } from 'date-fns'
+import { emberWeekOn } from '@ember/liturgical'
+import { addDays, differenceInCalendarDays, parseISO } from 'date-fns'
 
 import type { DayCalendar, LiturgicalSeason } from '@/lib/liturgical'
 
 export type Schedule = ScheduleRule & {
   seasons?: LiturgicalSeason[]
+  /**
+   * A program joined for every time the calendar brings it round, not for the
+   * one round: a novena prayed each year, the Ember days kept each season.
+   */
+  standing?: boolean
 }
 
 type ScheduleRule =
@@ -15,6 +21,9 @@ type ScheduleRule =
   | { type: 'fixed-program'; totalDays: number; startDate: string }
   | { type: 'periodic-series'; rule: ScheduleRule; totalOccurrences: number; startDate: string }
   | { type: 'holy-days-of-obligation' }
+  // Wednesday, Friday and Saturday of the four Ember weeks; `only` keeps them
+  // to the one week beginning that date.
+  | { type: 'ember-days'; only?: string }
 
 export type ScheduleContext = {
   season?: LiturgicalSeason
@@ -87,6 +96,11 @@ export function isApplicableOn(schedule: Schedule, date: Date, ctx?: ScheduleCon
     case 'holy-days-of-obligation':
       return ctx?.dayCalendar?.principal?.entry.holyDayOfObligation === true
 
+    case 'ember-days': {
+      const week = emberWeekOn(date)
+      return week !== undefined && (!schedule.only || week.days[0] === schedule.only)
+    }
+
     default:
       return false
   }
@@ -131,6 +145,15 @@ function getNthWeekdayDateOfMonth(year: number, month: number, n: number, weekda
 }
 
 function generateOccurrences(schedule: Schedule, start: Date, count: number): Date[] {
+  if (schedule.type === 'ember-days') {
+    const days: Date[] = []
+    // A round's days fall within one week of its first.
+    for (let i = 0; days.length < count && i < 7; i++) {
+      const d = addDays(start, i)
+      if (emberWeekOn(d)) days.push(d)
+    }
+    return days
+  }
   if (schedule.type !== 'nth-weekday') return []
 
   const occurrences: Date[] = []

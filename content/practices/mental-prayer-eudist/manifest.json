@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 30,
+	"duration": { "type": "chosen", "default": 30, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "For St. John Eudes the Christian life is nothing else than the life of Jesus continued and completed in each of us — so that when a Christian meditates, he continues the meditation Jesus made on earth. His method takes one mystery and goes all round it: its outside and its inside, its fruits, our Lady's part in it, the saints' part, and mine.",
 		"pt-BR": "Para São João Eudes a vida cristã não é outra coisa senão a vida de Jesus continuada e completada em cada um de nós — de modo que, quando um cristão medita, continua a meditação que Jesus fez na terra. O seu método toma um mistério e dá-lhe toda a volta: o seu exterior e o seu interior, os seus frutos, a parte que nele tem Nossa Senhora, a parte dos santos, e a minha."

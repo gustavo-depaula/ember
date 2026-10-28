@@ -1,7 +1,7 @@
 import type { BilingualText, ContentLanguage } from '@ember/content-engine'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Platform, Pressable } from 'react-native'
+import { Pressable } from 'react-native'
 import { Text, View, XStack, YStack } from 'tamagui'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { ReadingLanguage } from '../ReadingParagraph'
@@ -11,8 +11,6 @@ const languageLabel: Record<ContentLanguage, string> = {
   'pt-BR': 'PT',
   la: 'LA',
 }
-
-const webTapStyle = { cursor: 'pointer', userSelect: 'text' } as const
 
 export function BilingualBlock({
   content,
@@ -95,27 +93,6 @@ function TapToSwitch({
   const a11yLabel = t('a11y.switchLanguage', {
     language: t(`languages.${toggleTargetLang}`),
   })
-
-  if (Platform.OS === 'web') {
-    return (
-      // biome-ignore lint/a11y/useSemanticElements: <button> collapses child text selection; we need tap-to-toggle AND selectable prayer text
-      <div
-        onClick={toggle}
-        onKeyDown={(e) => {
-          if (e.key === 'Enter' || e.key === ' ') {
-            e.preventDefault()
-            toggle()
-          }
-        }}
-        role="button"
-        tabIndex={0}
-        aria-label={a11yLabel}
-        style={webTapStyle}
-      >
-        {renderText(activeText, showSecondary ? 'secondary' : 'primary')}
-      </div>
-    )
-  }
 
   return (
     <Pressable onPress={toggle} accessibilityRole="button" accessibilityLabel={a11yLabel}>

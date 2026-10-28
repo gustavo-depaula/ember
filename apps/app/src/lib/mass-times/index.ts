@@ -5,17 +5,20 @@ export type {
   NearbyChurch,
 } from './client'
 export {
+  churchesAround,
   useChurch,
   useChurchSearch,
+  useMapView,
   useSubmitCorrection,
   useUploadAttachment,
   useVerifyChurch,
-  useViewport,
 } from './hooks'
 export {
   expandUpcoming,
   nextService,
   occurrenceInstant,
+  serviceEnd,
+  serviceUnderway,
   type UpcomingService,
   wallClockNow,
 } from './schedule'

@@ -1,0 +1,140 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "sophar": {
+   "name": "Sophar the Naamathite",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Third of Job's friends; the bluntest and most impatient accuser."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Then Sophar the Naamathite answered, and said:"
+   }
+  ],
+  "2": [
+   {
+    "s": "sophar",
+    "t": "Shall not he that speaketh much, hear also? or shall a man full of talk be justified?"
+   }
+  ],
+  "3": [
+   {
+    "s": "sophar",
+    "t": "Shall men hold their peace to thee only? and when thou hast mocked others, shall no man confute thee?"
+   }
+  ],
+  "4": [
+   {
+    "s": "sophar",
+    "t": "For thou hast said: My word is pure, and I am clean in thy sight."
+   }
+  ],
+  "5": [
+   {
+    "s": "sophar",
+    "t": "And I wish that God would speak with thee, and would open his lips to thee,"
+   }
+  ],
+  "6": [
+   {
+    "s": "sophar",
+    "t": "That he might shew thee the secrets of wisdom, and that his law is manifold, and thou mightest understand that he exacteth much less of thee, than thy iniquity deserveth."
+   }
+  ],
+  "7": [
+   {
+    "s": "sophar",
+    "t": "Peradventure thou wilt comprehend the steps of God, and wilt find out the Almighty perfectly?"
+   }
+  ],
+  "8": [
+   {
+    "s": "sophar",
+    "t": "He is higher than heaven, and what wilt thou do? he is deeper than hell, and how wilt thou know?"
+   }
+  ],
+  "9": [
+   {
+    "s": "sophar",
+    "t": "The measure of him is longer than the earth, and broader than the sea."
+   }
+  ],
+  "10": [
+   {
+    "s": "sophar",
+    "t": "If he shall overturn all things, or shall press them together, who shall contradict him?"
+   }
+  ],
+  "11": [
+   {
+    "s": "sophar",
+    "t": "For he knoweth the vanity of men, and when he seeth iniquity, doth he not consider it?"
+   }
+  ],
+  "12": [
+   {
+    "s": "sophar",
+    "t": "A vain man is lifted up into pride, and thinketh himself born free like a wild ass's colt."
+   }
+  ],
+  "13": [
+   {
+    "s": "sophar",
+    "t": "But thou hast hardened thy heart, and hast spread thy hands to him."
+   }
+  ],
+  "14": [
+   {
+    "s": "sophar",
+    "t": "If thou wilt put away from thee the iniquity that is in thy hand, and let not injustice remain in thy tabernacle:"
+   }
+  ],
+  "15": [
+   {
+    "s": "sophar",
+    "t": "Then mayst thou lift up thy face without spot, and thou shalt be steadfast, and shalt not fear."
+   }
+  ],
+  "16": [
+   {
+    "s": "sophar",
+    "t": "Thou shalt also forget misery, and remember it only as waters that are passed away."
+   }
+  ],
+  "17": [
+   {
+    "s": "sophar",
+    "t": "And brightness like that of the noonday, shall arise to thee at evening: and when thou shalt think thyself consumed, thou shalt rise as the day star."
+   }
+  ],
+  "18": [
+   {
+    "s": "sophar",
+    "t": "And thou shalt have confidence, hope being set before thee, and being buried thou shalt sleep secure."
+   }
+  ],
+  "19": [
+   {
+    "s": "sophar",
+    "t": "Thou shalt rest, and there shall be none to make thee afraid: and many shall entreat thy face."
+   }
+  ],
+  "20": [
+   {
+    "s": "sophar",
+    "t": "But the eyes of the wicked shall decay, and the way to escape shall fail them, and their hope the abomination of the soul."
+   }
+  ]
+ }
+}

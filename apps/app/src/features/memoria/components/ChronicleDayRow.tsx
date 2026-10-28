@@ -4,7 +4,6 @@ import { Church } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useTheme, useThemeName, XStack, YStack } from 'tamagui'
-
 import { AnimatedPressable, Typography } from '@/components'
 import { dayKeys } from '@/config/constants'
 import { getManifest } from '@/content/resolver'
@@ -15,6 +14,7 @@ import { hourHue } from '@/features/plan-of-life/ruleString'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getCelebrationsForDate, getLiturgicalDayName } from '@/lib/liturgical'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 const beadSize = 9
 const maxGap = 6
@@ -28,12 +28,13 @@ export function practiceName(practiceId: string): string {
 /** The day's name in the calendar, and whether it is kept as a feast (or Sunday). */
 export function useDayName(date: string): { name: string; festive: boolean } {
   const { t } = useTranslation()
+  const transfers = useOfTransfers()
   const day = parseISO(date)
   const { data: calendar } = useYearCalendar(day.getFullYear())
   const principal = calendar ? getCelebrationsForDate(calendar, day)?.principal : undefined
   const name =
     (principal && localizeContent(principal.entry.name)) ||
-    getLiturgicalDayName(day, 'of', { t: (k, o) => t(k, o) as string })
+    getLiturgicalDayName(day, 'of', { t: (k, o) => t(k, o) as string }, transfers)
   const festive =
     day.getDay() === 0 || principal?.rank === 'solemnity' || principal?.rank === 'feast'
   return { name, festive }

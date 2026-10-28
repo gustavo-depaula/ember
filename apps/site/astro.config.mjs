@@ -11,7 +11,14 @@ export default defineConfig({
   build: { format: 'directory' },
   vite: {
     plugins: [platformSeam(), devCorpus()],
-    define: { __DEV__: 'false' },
+    define: {
+      __DEV__: 'false',
+      // Read by the account code the browser runs (features/sync); unset means production.
+      'process.env.EXPO_PUBLIC_RELAY_URL': process.env.EMBER_RELAY_URL
+        ? JSON.stringify(process.env.EMBER_RELAY_URL)
+        : 'undefined',
+      'process.env.EXPO_PUBLIC_SYNC_RECOVERY_KEY': 'undefined',
+    },
     resolve: { alias: { rrule: rruleEsm } },
   },
 })

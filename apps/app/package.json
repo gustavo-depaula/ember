@@ -4,7 +4,10 @@
   "main": "expo-router/entry",
   "expo": {
     "autolinking": {
-      "exclude": ["react-native-device-activity", "expo-audio"]
+      "exclude": [
+        "react-native-device-activity",
+        "expo-audio"
+      ]
     }
   },
   "scripts": {
@@ -12,7 +15,6 @@
     "android": "expo run:android",
     "ios": "expo run:ios",
     "ios:dev": "APP_VARIANT=development expo run:ios --device",
-    "web": "expo start --web",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "maestro test .maestro/config.yaml"
@@ -23,8 +25,9 @@
     "@ember/divinum-officium": "workspace:*",
     "@ember/holy-cards": "workspace:*",
     "@ember/liturgical": "workspace:*",
-    "@ember/mass": "workspace:*",
-    "@ember/missal-schema": "workspace:*",
+    "@ember/loth": "workspace:*",
+    "@ember/missal": "workspace:*",
+    "@ember/relay": "workspace:*",
     "@expo-google-fonts/cinzel": "^0.4.2",
     "@expo-google-fonts/cormorant-garamond": "^0.4.1",
     "@expo-google-fonts/crimson-pro": "^0.4.2",
@@ -39,18 +42,24 @@
     "@expo/metro-runtime": "~57.0.16",
     "@expo/ui": "~57.0.21",
     "@maplibre/maplibre-react-native": "11.4.1",
+    "@noble/ciphers": "^2.4.0",
+    "@noble/curves": "^2.4.0",
+    "@noble/hashes": "^2.4.0",
     "@react-native-community/datetimepicker": "^9.1.0",
     "@tamagui/babel-plugin": "2.0.0-rc.31",
     "@tamagui/config": "2.0.0-rc.31",
     "@tamagui/core": "2.0.0-rc.31",
     "@tanstack/react-query": "^5.95.2",
     "expo": "~57.0.26",
+    "expo-application": "~57.0.3",
     "expo-asset": "~57.0.18",
     "expo-audio": "^57.0.5",
     "expo-blur": "^57.0.3",
     "expo-build-properties": "~57.0.22",
+    "expo-camera": "~57.0.6",
     "expo-constants": "~57.0.20",
     "expo-crypto": "57.0.3",
+    "expo-device": "~57.0.2",
     "expo-file-system": "^57.0.7",
     "expo-font": "~57.0.4",
     "expo-glass-effect": "^57.0.4",
@@ -72,7 +81,9 @@
     "expo-system-ui": "~57.0.4",
     "expo-updates": "~57.0.24",
     "expo-web-browser": "~57.0.3",
+    "exsurge": "github:bbloomf/exsurge#0ca721380a9ea178d2bb76a9a78a5203b201827c",
     "fast-xml-parser": "^5.7.3",
+    "fflate": "^0.8.3",
     "htmlparser2": "^12.0.0",
     "hyphen": "^1.14.1",
     "i18next": "^25.10.10",
@@ -82,6 +93,7 @@
     "marked": "^18.0.0",
     "marked-footnote": "^1.4.0",
     "moti": "^0.30.0",
+    "qrcode-generator": "^2.0.4",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "react-i18next": "^16.6.6",

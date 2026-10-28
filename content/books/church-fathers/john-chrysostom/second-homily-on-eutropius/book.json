@@ -2,13 +2,16 @@
   "id": "john-chrysostom-second-homily-on-eutropius",
   "cover": "quarter",
   "name": {
-    "en-US": "Second Homily on Eutropius (After His Captivity)"
+    "en-US": "Second Homily on Eutropius (After His Captivity)",
+    "pt-BR": "Segunda Homilia sobre Eutrópio (depois de sua captura)"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Second Homily on Eutropius (After His Captivity)"
+        "en-US": "Second Homily on Eutropius (After His Captivity)",
+        "pt-BR": "Segunda Homilia sobre Eutrópio (depois de sua captura)"
       }
     }
   ]

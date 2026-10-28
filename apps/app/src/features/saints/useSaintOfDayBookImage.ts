@@ -20,13 +20,14 @@ export function useSaintOfDayBookImage(chapter: string | undefined): ImageSource
     enabled: !!chapter,
     queryFn: async () => {
       const entry = getEntry('book/pictorial-lives-of-saints')
-      if (!entry) return undefined
+      if (!entry) return null
       const manifest =
         getRememberedManifest<BookEntry>(entry.hash) ?? (await getJson<BookEntry>(entry.hash))
       const rel = `${chapter}.webp`
       const image = manifest.images?.find((i) => i.rel === rel)
-      if (!image) return undefined
-      const uri = await blobUri(image.hash, image.mime)
+      // A chapter whose portrait isn't published yet. Query v5 rejects undefined data.
+      if (!image) return null
+      const uri = await blobUri(image.hash)
       return { uri } satisfies ImageSource
     },
   })

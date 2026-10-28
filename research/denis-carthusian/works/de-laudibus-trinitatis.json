@@ -1,0 +1,62 @@
+{
+  "parts": [
+    {
+      "volume": "doctorisecstati02unkngoog",
+      "leaves": [
+        "0142",
+        "0143",
+        "0144",
+        "0145",
+        "0146",
+        "0147",
+        "0148",
+        "0149",
+        "0150",
+        "0151",
+        "0152",
+        "0153",
+        "0154",
+        "0155",
+        "0156",
+        "0157",
+        "0158",
+        "0159",
+        "0160",
+        "0161",
+        "0162",
+        "0163",
+        "0164",
+        "0165"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-laudibus-trinitatis",
+  "slug": "de-laudibus-trinitatis",
+  "draft": false,
+  "meta": {
+    "id": "denis-de-laudibus-trinitatis",
+    "cover": "label",
+    "name": {
+      "la": "De laudibus sanctissimæ et individuæ Trinitatis, per modum horarum",
+      "en-US": "Hours in Praise of the Most Holy Trinity",
+      "pt-BR": "Horas em louvor da Santíssima Trindade"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De laudibus sanctissimæ et individuæ Trinitatis, per modum horarum.",
+      "en-US": "One of Denis the Carthusian's minor works.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/doctorisecstati02unkngoog",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  }
+}

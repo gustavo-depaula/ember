@@ -1,0 +1,1001 @@
+{
+	"id": "collection/denis-the-carthusian",
+	"version": "1.0.0",
+	"cover": "boxed",
+	"name": {
+		"la": "Dionysius Cartusianus",
+		"en-US": "Denis the Carthusian",
+		"pt-BR": "Dionísio, o Cartuxo"
+	},
+	"description": {
+		"en-US": "The Opera Omnia of the Ecstatic Doctor: commentaries on all of Scripture, sermons, and treatises on prayer and contemplation, in his Latin.",
+		"pt-BR": "A Opera Omnia do Doutor Extático: comentários a toda a Escritura, sermões e tratados sobre a oração e a contemplação, no seu latim.",
+		"la": "Opera omnia Doctoris Ecstatici."
+	},
+	"icon": "book",
+	"languages": [
+		"en-US",
+		"pt-BR",
+		"la"
+	],
+	"tags": [
+		"denis-the-carthusian",
+		"carthusian",
+		"scholastic",
+		"scripture",
+		"contemplation",
+		"latin"
+	],
+	"prologue": {
+		"body": {
+			"en-US": "Denis the Carthusian (1402–1471), monk of the charterhouse of Roermond, wrote more than any other medieval theologian: commentaries on the whole of Scripture, on the Areopagite, Boethius, Cassian, Climacus and the Sentences, a year of sermons, and some hundred and fifty treatises on prayer, contemplation and the Christian life. His raptures in prayer earned him the name *Doctor Ecstaticus*. This collection follows the forty-two tomes of the Montreuil–Tournai edition (1896–1913): every work in the thirty-nine tomes we could obtain, read from the scans. The works are being proofread against the scans one by one; a work not yet proofread says so in its description.",
+			"pt-BR": "Dionísio, o Cartuxo (1402–1471), monge da cartuxa de Roermond, escreveu mais que qualquer outro teólogo medieval: comentários a toda a Escritura, ao Areopagita, a Boécio, Cassiano, Clímaco e às Sentenças, um ano de sermões e uns cento e cinquenta tratados sobre a oração, a contemplação e a vida cristã. Os seus êxtases na oração deram-lhe o nome de *Doutor Extático*. Esta coleção segue os quarenta e dois tomos da edição de Montreuil–Tournai (1896–1913): todas as obras dos trinta e nove tomos que conseguimos obter, lidas das digitalizações. As obras estão sendo revistas contra as digitalizações uma a uma; a que ainda não foi revista o diz na sua descrição."
+		}
+	},
+	"sections": [
+		{
+			"id": "scripture",
+			"title": {
+				"la": "Enarrationes in Sacram Scripturam",
+				"en-US": "Commentaries on Holy Scripture",
+				"pt-BR": "Comentários à Sagrada Escritura"
+			},
+			"description": {
+				"body": {
+					"en-US": "Denis commented on every book of the Bible, article by article, giving the literal sense and then the mystical. The commentaries fill the first fourteen tomes of the Montreuil edition. A commentary not yet proofread says so in its description: it is the OCR text as it came off the scans, so expect a misread word here and there.",
+					"pt-BR": "Dionísio comentou todos os livros da Bíblia, artigo por artigo, dando o sentido literal e depois o místico. Os comentários ocupam os catorze primeiros tomos da edição de Montreuil. Um comentário ainda não revisto o diz na sua descrição: é o texto do OCR tal como saiu das digitalizações, por isso espere uma ou outra palavra mal lida."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "section",
+					"id": "pentateuch",
+					"title": {
+						"la": "Pentateuchus",
+						"en-US": "The Pentateuch",
+						"pt-BR": "O Pentateuco"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-genesim"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-exodum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-leviticum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-numeros"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-deuteronomium"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-epilogatio-in-pentateuchum"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "historical",
+					"title": {
+						"la": "Libri historici",
+						"en-US": "The Historical Books",
+						"pt-BR": "Os livros históricos"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-josue"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-judices"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ruth"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-i-regum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ii-regum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-iii-regum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-iv-regum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-i-paralipomenon"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ii-paralipomenon"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-job"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-causa-diversitatis-eventuum-humanorum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-tobiam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-judith"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-esther"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-i-esdrae"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ii-esdrae"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-i-machabaeorum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ii-machabaeorum"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "wisdom",
+					"title": {
+						"la": "Psalmi et libri sapientiales",
+						"en-US": "The Psalms and the Wisdom Books",
+						"pt-BR": "Os Salmos e os livros sapienciais"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-commentaria-in-psalmos"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-modo-devote-psallendi"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-proverbia"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ecclesiasten"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-canticum-canticorum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-sapientiam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ecclesiasticum"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "prophets",
+					"title": {
+						"la": "Prophetæ",
+						"en-US": "The Prophets",
+						"pt-BR": "Os Profetas"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-isaiam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-jeremiam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-threnos"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-baruch"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ezechielem"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-danielem"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-osee"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-joelem"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-amos"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-abdiam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-jonam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-michaeam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-nahum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-habacuc"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-sophoniam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-aggaeum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-zachariam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-malachiam"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "gospels",
+					"title": {
+						"la": "Evangelia",
+						"en-US": "The Gospels",
+						"pt-BR": "Os Evangelhos"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-matthaeum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-marcum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-lucam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-joannem"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "epistles",
+					"title": {
+						"la": "Epistolæ, Actus, Apocalypsis",
+						"en-US": "The Epistles, Acts and the Apocalypse",
+						"pt-BR": "As Epístolas, os Atos e o Apocalipse"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-romanos"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-i-corinthios"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ii-corinthios"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-galatas"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ephesios"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-philippenses"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-colossenses"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-i-thessalonicenses"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ii-thessalonicenses"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-i-timotheum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ii-timotheum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-titum-et-philemonem"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-hebraeos"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-jacobum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-i-petri"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-ii-petri"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-epistolas-joannis"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-judam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-actus-apostolorum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-apocalypsim"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "scripture-varia",
+					"title": {
+						"la": "Varia in Scripturam",
+						"en-US": "On Scripture as a Whole",
+						"pt-BR": "Sobre a Escritura em conjunto"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-enarratio-in-psalmum-poenitentialem"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-monopanton"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-epitome-sacrae-scripturae"
+						},
+						{
+							"kind": "todo",
+							"title": {
+								"la": "Tomus XIV bis",
+								"en-US": "Supplementary tome to the commentaries",
+								"pt-BR": "Tomo suplementar aos comentários"
+							},
+							"notes": {
+								"en-US": "Scans reachable only from the United States; not yet obtained.",
+								"pt-BR": "Digitalizações acessíveis só dos Estados Unidos; ainda não obtidas."
+							},
+							"proposedKind": "book",
+							"priority": "low"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "areopagite",
+			"title": {
+				"la": "In opera S. Dionysii Areopagitæ",
+				"en-US": "On the Works of Dionysius the Areopagite",
+				"pt-BR": "Sobre as obras de Dionísio Areopagita"
+			},
+			"description": {
+				"body": {
+					"en-US": "Denis's commentaries on the Celestial and Ecclesiastical Hierarchy, the Divine Names, the Mystical Theology and the letters, printed beside the Latin versions of Eriugena, Sarracenus, Ambrogio Traversari and Ficino and the paraphrase of Thomas Gallus.",
+					"pt-BR": "Os comentários de Dionísio à Hierarquia Celeste e à Eclesiástica, aos Nomes Divinos, à Teologia Mística e às cartas, impressos ao lado das versões latinas de Erígena, Sarraceno, Ambrósio Traversari e Ficino e da paráfrase de Tomás Galo."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/denis-in-coelestem-hierarchiam"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-in-ecclesiasticam-hierarchiam"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-in-divina-nomina"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-in-mysticam-theologiam"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-in-epistolas-dionysii"
+				}
+			]
+		},
+		{
+			"id": "theology",
+			"title": {
+				"la": "Opera theologica",
+				"en-US": "Theological Works",
+				"pt-BR": "Obras teológicas"
+			},
+			"description": {
+				"body": {
+					"en-US": "The summa of the faith Denis drew from St Thomas, a dialogue on the Catholic faith, and his commentary on the four books of Peter Lombard's Sentences.",
+					"pt-BR": "A suma da fé que Dionísio tirou de Santo Tomás, um diálogo sobre a fé católica e o seu comentário aos quatro livros das Sentenças de Pedro Lombardo."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/denis-summa-fidei-orthodoxae"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-dialogion-de-fide-catholica"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-in-i-sententiarum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-in-ii-sententiarum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-in-iii-sententiarum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-in-iv-sententiarum"
+				}
+			]
+		},
+		{
+			"id": "masters",
+			"title": {
+				"la": "In Boetium, Cassianum, Climacum",
+				"en-US": "On Boethius, Cassian and Climacus",
+				"pt-BR": "Sobre Boécio, Cassiano e Clímaco"
+			},
+			"description": {
+				"body": {
+					"en-US": "Commentaries on three classics of the monastic library.",
+					"pt-BR": "Comentários a três clássicos da biblioteca monástica."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/denis-in-boetium-de-consolatione"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-in-cassiani-instituta"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-in-cassiani-collationes"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-in-scalam-paradisi"
+				}
+			]
+		},
+		{
+			"id": "sermons",
+			"title": {
+				"la": "Sermones",
+				"en-US": "Sermons",
+				"pt-BR": "Sermões"
+			},
+			"description": {
+				"body": {
+					"en-US": "Sermons for the Sundays and feasts of the whole year, many in two series, for lay people and for religious, with a commentary on each Sunday's epistle and gospel; and the Passion harmonized from the four Gospels.",
+					"pt-BR": "Sermões para os domingos e festas de todo o ano, muitos em duas séries, para leigos e para religiosos, com um comentário à epístola e ao evangelho de cada domingo; e a Paixão harmonizada dos quatro Evangelhos."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/denis-sermones-de-tempore-i"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-sermones-de-tempore-ii"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-sermones-de-sanctis-i"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-passio-juxta-quatuor-evangelistas"
+				},
+				{
+					"kind": "item",
+					"ref": "book/denis-sermones-de-sanctis-ii"
+				}
+			]
+		},
+		{
+			"id": "opera-minora",
+			"title": {
+				"la": "Opera minora",
+				"en-US": "Minor Works",
+				"pt-BR": "Obras menores"
+			},
+			"description": {
+				"body": {
+					"en-US": "Treatises, dialogues and letters on philosophy, God, the Mass, Our Lady, the states of life, the vices and virtues, prayer and contemplation, and the last things, tome by tome.",
+					"pt-BR": "Tratados, diálogos e cartas sobre a filosofia, Deus, a Missa, Nossa Senhora, os estados de vida, os vícios e as virtudes, a oração e a contemplação, e os novíssimos, tomo por tomo."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "section",
+					"id": "t33",
+					"title": {
+						"la": "De philosophia et theologia",
+						"en-US": "Philosophy and Theology",
+						"pt-BR": "Filosofia e teologia"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-elementatio-philosophica"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-elementatio-theologica"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-lumine-christianae-theoriae"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "t34",
+					"title": {
+						"la": "De Deo et creaturis",
+						"en-US": "God and His Creatures",
+						"pt-BR": "Deus e as criaturas"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-de-natura-aeterni-et-veri-dei"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-creaturarum-consideratio-theologica"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-venustate-mundi"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-distantia-perfectionis"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-munificentia-dei"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-laudibus-dei"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-laudibus-superlaudabilis-dei"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "t35",
+					"title": {
+						"la": "De hymnis, de Spiritu Sancto, de Missa, de B. Virgine",
+						"en-US": "Hymns, the Holy Spirit, the Mass, Our Lady",
+						"pt-BR": "Hinos, o Espírito Santo, a Missa, Nossa Senhora"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-expositio-hymnorum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-laudibus-trinitatis"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-donis-spiritus-sancti"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-passione-domini-dialogus"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-horae-de-passione"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-expositio-missae"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-sacramento-altaris"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-sacra-communione-frequentanda"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-sacramento-eucharistiae-sermones"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-praeconio-et-dignitate-mariae"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "t36",
+					"title": {
+						"la": "De B. Virgine, de cultu, contra Mahometum, de Ecclesia",
+						"en-US": "Our Lady, Worship, Islam, the Church",
+						"pt-BR": "Nossa Senhora, o culto, o islã, a Igreja"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-de-dignitate-et-laudibus-mariae"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-mutua-cognitione-beatorum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-modo-agendi-processiones"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-contra-vitia-superstitionum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-contra-perfidiam-mahometi"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-dialogus-inter-christianum-et-sarracenum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-epistola-ad-principes-catholicos"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-auctoritate-summi-pontificis"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "t37",
+					"title": {
+						"la": "Tomus XXXVII",
+						"en-US": "Tome XXXVII",
+						"pt-BR": "Tomo XXXVII"
+					},
+					"blocks": [
+						{
+							"kind": "todo",
+							"title": {
+								"la": "Tomus XXXVII",
+								"en-US": "Tome XXXVII of the minor works",
+								"pt-BR": "Tomo XXXVII das obras menores"
+							},
+							"notes": {
+								"en-US": "Scans reachable only from the United States; not yet obtained.",
+								"pt-BR": "Digitalizações acessíveis só dos Estados Unidos; ainda não obtidas."
+							},
+							"proposedKind": "book",
+							"priority": "low"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "t38",
+					"title": {
+						"la": "De statibus vitæ et de vita religiosa",
+						"en-US": "The States of Life and the Religious Life",
+						"pt-BR": "Os estados de vida e a vida religiosa"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-de-regimine-politiae"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-vita-conjugatorum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-vita-viduarum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-vita-virginum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-inter-jesum-et-senem-et-puerum-dialogi"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-reformatione-claustralium"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-reformatione-monialium"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-vita-et-fine-solitarii"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-laude-vitae-solitariae"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-vita-inclusarum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-praeconio-ordinis-cartusiensis"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-in-regulam-s-francisci"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-obedientia-superioribus-praestanda"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-exhortatorium-noviciorum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-professione-monastica"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "t39",
+					"title": {
+						"la": "De vitiis et virtutibus",
+						"en-US": "Vices and Virtues",
+						"pt-BR": "Vícios e virtudes"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-summa-de-vitiis-et-virtutibus"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-contra-pluralitatem-beneficiorum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-contra-simoniam"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-contra-ambitionem"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-gravitate-peccati"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-conversione-peccatorum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-arcta-via-salutis"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-speculum-amatorum-mundi"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-doctrina-et-regulis-vitae-christianorum"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-exemplis-et-documentis"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "t40",
+					"title": {
+						"la": "Tomus XL",
+						"en-US": "Tome XL",
+						"pt-BR": "Tomo XL"
+					},
+					"blocks": [
+						{
+							"kind": "todo",
+							"title": {
+								"la": "Tomus XL",
+								"en-US": "Tome XL of the minor works",
+								"pt-BR": "Tomo XL das obras menores"
+							},
+							"notes": {
+								"en-US": "Scans reachable only from the United States; not yet obtained.",
+								"pt-BR": "Digitalizações acessíveis só dos Estados Unidos; ainda não obtidas."
+							},
+							"proposedKind": "book",
+							"priority": "low"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "t41",
+					"title": {
+						"la": "De oratione, contemplatione et novissimis",
+						"en-US": "Prayer, Contemplation and the Last Things",
+						"pt-BR": "Oração, contemplação e novíssimos"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "book/denis-de-oratione"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-meditatione"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-fonte-lucis"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-contemplatione"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-sonus-epulantis"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-inflammatorium-divini-amoris"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-perfectione-caritatis"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-particulari-judicio"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-de-quatuor-hominis-novissimis"
+						},
+						{
+							"kind": "item",
+							"ref": "book/denis-sermones-et-epistolae-varia"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "vita",
+			"title": {
+				"la": "De vita auctoris",
+				"en-US": "His Life",
+				"pt-BR": "A sua vida"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/denis-vita-et-opera"
+				}
+			]
+		}
+	]
+}

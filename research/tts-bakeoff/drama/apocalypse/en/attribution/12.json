@@ -1,0 +1,137 @@
+{
+ "pericopes": [
+  1,
+  7,
+  13
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "old",
+   "note": "John the seer on Patmos telling what he saw and heard, with his own exhortations to the reader."
+  },
+  "a-voice-from-heaven": {
+   "name": "A voice from heaven",
+   "kind": "spirit",
+   "gender": "male",
+   "age": "adult",
+   "note": "An unnamed single voice from heaven, the temple, the throne or the altar; loud and solemn."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And a great sign appeared in heaven: A woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And being with child, she cried travailing in birth: and was in pain to be delivered."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And there was seen another sign in heaven. And behold a great red dragon, having seven heads and ten horns and on his heads seven diadems."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And his tail drew the third part of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was ready to be delivered: that, when she should be delivered, he might devour her son."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And she brought forth a man child, who was to rule all nations with an iron rod. And her son was taken up to God and to his throne."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the woman fled into the wilderness, where she had a place prepared by God, that there they should feed her, a thousand two hundred sixty days."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And there was a great battle in heaven: Michael and his angels fought with the dragon, and the dragon fought, and his angels."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And they prevailed not: neither was their place found any more in heaven."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And that great dragon was cast out, that old serpent, who is called the devil and Satan, who seduceth the whole world. And he was cast unto the earth: and his angels were thrown down with him."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And I heard a loud voice in heaven, saying:"
+   },
+   {
+    "s": "a-voice-from-heaven",
+    "t": "Now is come salvation and strength and the kingdom of our God and the power of his Christ: because the accuser of our brethren is cast forth, who accused them before our God day and night."
+   }
+  ],
+  "11": [
+   {
+    "s": "a-voice-from-heaven",
+    "t": "And they overcame him by the blood of the Lamb and by the word of the testimony: and they loved not their lives unto death."
+   }
+  ],
+  "12": [
+   {
+    "s": "a-voice-from-heaven",
+    "t": "Therefore, rejoice, O heavens, and you that dwell therein. Woe to the earth and to the sea, because the devil is come down unto you, having great wrath, knowing that he hath but a short time."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And when the dragon saw that he was cast unto the earth, he persecuted the woman who brought forth the man child."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And there were given to the woman two wings of a great eagle, that she might fly into the desert, unto her place, where she is nourished for a time and times, and half a time, from the face of the serpent."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And the serpent cast out of his mouth, after the woman, water, as it were a river: that he might cause her to be carried away by the river."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And the earth helped the woman: and the earth opened her mouth and swallowed up the river which the dragon cast out of his mouth."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And the dragon was angry against the woman: and went to make war with the rest of her seed, who keep the commandments of God and have the testimony of Jesus Christ."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And he stood upon the sand of the sea."
+   }
+  ]
+ }
+}

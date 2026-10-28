@@ -1,3 +1,10 @@
+export {
+  type ChangedChurch,
+  type ChangeLine,
+  changeDetails,
+  changeMessage,
+  churchLang,
+} from './changeMessage'
 export type {
   Administration,
   CanonicalStatus,
@@ -13,6 +20,18 @@ export type {
 } from './dump'
 export { type ExpandOptions, expandService, type Occurrence } from './expand'
 export {
+  type CreatedChurch,
+  type Proposal,
+  type ProposedService,
+  proposalJsonSchema,
+  proposalSchema,
+  type RecordChange,
+  type Resolution,
+  resolutionSchema,
+  ruleProblem,
+} from './moderation'
+export { type OpenApiDocument, openApiDocument } from './openapi'
+export {
   type Attachment,
   attachment,
   type Church,
@@ -20,20 +39,31 @@ export {
   type ChurchText,
   type Correction,
   church,
+  churchCell,
+  churchLinkSchema,
+  churchTextSchema,
   correction,
+  moderationChange,
+  moderationReview,
+  moderationRun,
   type Service,
+  serviceSchema,
   type VerificationEvent,
   verificationEvent,
 } from './schema'
 export {
+  type ChangesQuery,
   type ChurchesQuery,
   type ChurchIndexQuery,
   type CorrectionBody,
+  changesQuerySchema,
   churchesQuerySchema,
   churchIndexQuerySchema,
   correctionBodySchema,
   type NearQuery,
   nearQuerySchema,
+  tileParamSchema,
+  tileQuerySchema,
   type VerifyBody,
   verificationsQuerySchema,
   verifyBodySchema,

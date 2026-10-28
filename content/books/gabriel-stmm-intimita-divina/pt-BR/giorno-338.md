@@ -8,11 +8,11 @@
 
 Trata-se de certa desordem, de motivos mais ou menos humanos que, infiltrando-se nessa atividade, a fazem descer do plano sobrenatural ao plano humano e a transformam em ocasião de desvio e de arrefecimento da vida interior; por isso a alma se sente insatisfeita e inquieta.
 
-Pio XII, no Motu proprio *Primo feliciter*, exprimiu com muita clareza as condições de uma atividade santa: «O apostolado — diz ele — deve ser sempre santamente exercido com tanta pureza de intenção, com tanta união interior com Deus, com tão generoso esquecimento e forte abnegação de si e com tal amor às almas, que ele brote do espírito interior que o informa e, ao mesmo tempo, continuamente alimente e renove esse mesmo espírito».
+Pio XII, no Motu proprio *Primo feliciter*, exprimiu com muita clareza as condições de uma atividade santa: “O apostolado — diz ele — deve ser sempre santamente exercido com tanta pureza de intenção, com tanta união interior com Deus, com tão generoso esquecimento e forte abnegação de si e com tal amor às almas, que ele brote do espírito interior que o informa e, ao mesmo tempo, continuamente alimente e renove esse mesmo espírito”.
 
 Reexaminando nosso apostolado à luz dessas palavras, poderemos identificar os pontos fracos, descobrir os defeitos a evitar e também os remédios a tomar. As condições propostas são quatro: pureza de intenção, união com Deus, abnegação de si, amor às almas. Elas são de tal importância que, ao mesmo tempo em que asseguram ao apostolado sua fecundidade, fazem dele um eficaz meio de progresso espiritual.
 
-Consideremos antes de tudo a pureza de intenção. Se ninguém pode «servir a Deus e a Mamom» (Mt. 6,24), muito menos o apóstolo pode dedicar-se à atividade apostólica com a dupla intenção de servir a Deus e ao amor-próprio, de agradar a Deus e ao mundo, de zelar os interesses das almas e os interesses pessoais.
+Consideremos antes de tudo a pureza de intenção. Se ninguém pode “servir a Deus e a Mamom” (Mt. 6,24), muito menos o apóstolo pode dedicar-se à atividade apostólica com a dupla intenção de servir a Deus e ao amor-próprio, de agradar a Deus e ao mundo, de zelar os interesses das almas e os interesses pessoais.
 
 A força, a paz e a vida vêm da unidade; o fragmentarismo, mesmo o do espírito, só pode levar à fraqueza, à divisão, à luta e, por fim, à morte. O apóstolo que tem o coração dividido por intenções opostas procurará em vão a paz no trabalho; estará sempre inquieto e insatisfeito.
 
@@ -34,14 +34,14 @@ Seguindo essa via, o apóstolo encontrará no próprio trabalho um ótimo meio d
 
 ### Colóquio
 
-«Ó Senhor, quando quero rezar ou trabalhar para o bem das almas, devo antes de tudo dirigir o olhar da mente para ti, Luz eterna, e para o teu esplendor, para que me dês luz, fortifiques meu espírito e me ajudes a retirar-me o mais possível das coisas exteriores, para ser toda interior e voltada às coisas interiores.
+“Ó Senhor, quando quero rezar ou trabalhar para o bem das almas, devo antes de tudo dirigir o olhar da mente para ti, Luz eterna, e para o teu esplendor, para que me dês luz, fortifiques meu espírito e me ajudes a retirar-me o mais possível das coisas exteriores, para ser toda interior e voltada às coisas interiores.
 
-«Faze que no próximo eu considere somente o homem interior, sem cuidar do exterior senão na medida em que sirva ao interior, de modo que todo o resto seja posto de lado como vaidade e eu não seja atraída para coisas vãs.
+“Faze que no próximo eu considere somente o homem interior, sem cuidar do exterior senão na medida em que sirva ao interior, de modo que todo o resto seja posto de lado como vaidade e eu não seja atraída para coisas vãs.
 
-«Meu Deus, que eu seja movida ao apostolado, à oração e ao bom exemplo, somente pelo desejo de salvar as almas, e não pela vanglória, ambição, complacência humana ou alguma utilidade mundana. Somente a ti, ó Cristo crucificado, quero buscar!
+“Meu Deus, que eu seja movida ao apostolado, à oração e ao bom exemplo, somente pelo desejo de salvar as almas, e não pela vanglória, ambição, complacência humana ou alguma utilidade mundana. Somente a ti, ó Cristo crucificado, quero buscar!
 
-«Quero inebriar as almas com teu Sangue e não com curiosidade, para que te desejem a ti somente. Quero dizer a cada uma delas: não conheço outra coisa senão Jesus Cristo e este crucificado.
+“Quero inebriar as almas com teu Sangue e não com curiosidade, para que te desejem a ti somente. Quero dizer a cada uma delas: não conheço outra coisa senão Jesus Cristo e este crucificado.
 
-«Por isso, não só não quero vantagens terrenas nem me importa agradar aos homens, mas também não julgo conhecer pessoa alguma ou coisa alguma fora de ti, Cristo crucificado.
+“Por isso, não só não quero vantagens terrenas nem me importa agradar aos homens, mas também não julgo conhecer pessoa alguma ou coisa alguma fora de ti, Cristo crucificado.
 
-«Ó Senhor, inebria-me tanto do teu amor que qualquer outra coisa que se ofereça à vista, ao gosto, ao ouvido ou a qualquer outro sentido, qualquer coisa, exceto tu, eu a considere um nada, de modo que eu não me deleite, não me glorie, não descanse senão no teu Sangue, ao qual quero estar totalmente voltada. Faze que meus olhos não estejam cheios de coisas terrenas, mas do teu sofrer; faze que minha boca não esteja cheia de palavras vãs, mas da tua Paixão, e assim todos os outros sentidos» *(cf. São Boaventura)*.
+“Ó Senhor, inebria-me tanto do teu amor que qualquer outra coisa que se ofereça à vista, ao gosto, ao ouvido ou a qualquer outro sentido, qualquer coisa, exceto tu, eu a considere um nada, de modo que eu não me deleite, não me glorie, não descanse senão no teu Sangue, ao qual quero estar totalmente voltada. Faze que meus olhos não estejam cheios de coisas terrenas, mas do teu sofrer; faze que minha boca não esteja cheia de palavras vãs, mas da tua Paixão, e assim todos os outros sentidos” *(cf. São Boaventura)*.

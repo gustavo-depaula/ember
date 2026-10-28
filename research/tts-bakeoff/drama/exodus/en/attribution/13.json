@@ -1,0 +1,181 @@
+{
+ "pericopes": [
+  1,
+  3,
+  11,
+  17
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of the Passover and the going out of Egypt: measured, solemn, unhurried."
+  },
+  "the-lord": {
+   "name": "The Lord God",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to Moses: sovereign and calm, announcing judgment on Egypt and laying down the law of the Passover."
+  },
+  "moses": {
+   "name": "Moses",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Leader of Israel, about eighty; stern before Pharao, steady and commanding with the people, exultant in the canticle."
+  },
+  "joseph-the-patriarch": {
+   "name": "Joseph",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The patriarch, recalled at his death adjuring his brethren to carry his bones out of Egypt; grave and confident."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And the Lord spoke to Moses, saying:"
+   }
+  ],
+  "2": [
+   {
+    "s": "the-lord",
+    "t": "Sanctify unto me every firstborn that openeth the womb among the children of Israel, as well of men as of beasts: for they are all mine."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And Moses said to the people:"
+   },
+   {
+    "s": "moses",
+    "t": "Remember this day in which you came forth out of Egypt, and out of the house of bondage, for with a strong hand hath the Lord brought you forth out of this place: that you eat no leavened bread."
+   }
+  ],
+  "4": [
+   {
+    "s": "moses",
+    "t": "This day you go forth in the month of new corn."
+   }
+  ],
+  "5": [
+   {
+    "s": "moses",
+    "t": "And when the Lord shall have brought thee into the land of the Chanaanite, and the Hethite, and the Amorrhite, and the Hevite, and the Jebusite, which he swore to thy fathers that he would give thee, a land that floweth with milk and honey, thou shalt celebrate this manner of sacred rites in this month."
+   }
+  ],
+  "6": [
+   {
+    "s": "moses",
+    "t": "Seven days shalt thou eat unleavened bread: and on the seventh day shall be the solemnity of the Lord."
+   }
+  ],
+  "7": [
+   {
+    "s": "moses",
+    "t": "Unleavened bread shall you eat seven days: there shall not be seen any thing leavened with thee, nor in all thy coasts."
+   }
+  ],
+  "8": [
+   {
+    "s": "moses",
+    "t": "And thou shalt tell thy son in that day, saying: This is what the Lord did to me when I came forth out of Egypt."
+   }
+  ],
+  "9": [
+   {
+    "s": "moses",
+    "t": "And it shall be as a sign in thy hand, and as a memorial before thy eyes; and that the law of the Lord be always in thy mouth, for with a strong hand the Lord hath brought thee out of the land of Egypt."
+   }
+  ],
+  "10": [
+   {
+    "s": "moses",
+    "t": "Thou shalt keep this observance at the set time from days to days."
+   }
+  ],
+  "11": [
+   {
+    "s": "moses",
+    "t": "And when the Lord shall have brought thee into the land of the Chanaanite, as he swore to thee and thy fathers, and shall give it thee:"
+   }
+  ],
+  "12": [
+   {
+    "s": "moses",
+    "t": "Thou shalt set apart all that openeth the womb for the Lord, and all that is first brought forth of thy cattle: whatsoever thou shalt have of the male sex, thou shalt consecrate to the Lord."
+   }
+  ],
+  "13": [
+   {
+    "s": "moses",
+    "t": "The firstborn of an ass thou shalt change for a sheep: and if thou do not redeem it, thou shalt kill it. And every firstborn of men thou shalt redeem with a price."
+   }
+  ],
+  "14": [
+   {
+    "s": "moses",
+    "t": "And when thy son shall ask thee to morrow, saying: What is this? thou shalt answer him: With a strong hand did the Lord bring us forth out of the land of Egypt, out of the house of bondage."
+   }
+  ],
+  "15": [
+   {
+    "s": "moses",
+    "t": "For when Pharao was hardened, and would not let us go, the Lord slew every firstborn in the land of Egypt, from the firstborn of man to the firstborn of beasts: therefore I sacrifice to the Lord all that openeth the womb of the male sex, and all the firstborn of my sons I redeem."
+   }
+  ],
+  "16": [
+   {
+    "s": "moses",
+    "t": "And it shall be as a sign in thy hand, and as a thing hung between thy eyes, for a remembrance: because the Lord hath brought us forth out of Egypt by a strong hand."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And when Pharao had sent out the people, the Lord led them not by the way of the land of the Philistines, which is near; thinking lest perhaps they would repent, if they should see wars arise against them, and would return into Egypt."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "But he led them about by the way of the desert, which is by the Red Sea: and the children of Israel went up armed out of the land of Egypt."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And Moses took Joseph's bones with him: because he had adjured the children of Israel, saying:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "God shall visit you, carry out my bones from hence with you.",
+    "q": "Joseph's dying words quoted by the narrator (Gen 50:24); direct speech, so given to Joseph under the Genesis id. Could stay narrator."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And marching from Socoth, they encamped in Etham, in the utmost coasts of the wilderness."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And the Lord went before them to shew the way, by day in a pillar of a cloud, and by night in a pillar of fire; that he might be the guide of their journey at both times."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "There never failed the pillar of the cloud by day, nor the pillar of fire by night, before the people."
+   }
+  ]
+ }
+}

@@ -1,6 +1,6 @@
-import { everyRegion, ofCalendarRefs, ofDateCelebrations } from '@ember/mass'
-import { addDays, eachDay, isSunday, toDate, yearOf } from './dates'
-import { celebrates } from './rules'
+import { everyRegion, sanctoralIds, type Transfers } from '@ember/missal'
+import { addDays, eachDay, isSunday, yearOf } from './dates'
+import { celebrates, celebrationsFor } from './rules'
 import { feastDays, seasonsStartingIn } from './seasons'
 import type { Act, Calendar, CardId, Catalog, EmberSeason, IsoDate, Season } from './types'
 
@@ -10,8 +10,8 @@ import type { Act, Calendar, CardId, Catalog, EmberSeason, IsoDate, Season } fro
  * so a card's page never promises what the rules don't give.
  */
 export type Way =
-  /** Mass (or the Office) on `date`, the next day the card's feast falls. */
-  | { door: 'mass' | 'office'; date: IsoDate }
+  /** Mass (or the Office, or a prayed day) on `date`, the next day the card's feast falls. */
+  | { door: 'mass' | 'office' | 'prayedDay'; date: IsoDate }
   /** Mass on a date whose saints have no card draws one of the liturgical cards. */
   | { door: 'drawn' }
   | { door: 'novena'; novena: string }
@@ -42,9 +42,7 @@ function nextCelebration(
   today: IsoDate,
 ): IsoDate | undefined {
   const on = (date: IsoDate) =>
-    ofDateCelebrations(toDate(date), calendar.statics, { scope: everyRegion }).some((c) =>
-      celebrates(celebration, c.ref),
-    )
+    celebrationsFor(date, calendar).some((c) => celebrates(celebration, c.id))
   // A fixed feast is almost always on its own day; try those before walking the year.
   if (day) {
     const mmdd = `${String(day.month).padStart(2, '0')}-${String(day.day).padStart(2, '0')}`
@@ -75,10 +73,11 @@ function seasonWay(
   door: 'seasonSunday' | 'seasonWeekday',
   attended: Set<IsoDate>,
   today: IsoDate,
+  transfers: Transfers | undefined,
 ): Way | undefined {
   const year = yearOf(today)
   const windows = [year - 1, year, year + 1, year + 2]
-    .flatMap(seasonsStartingIn)
+    .flatMap((y) => seasonsStartingIn(y, transfers))
     .filter((w) => w.season === season && w.end >= today)
   for (const w of windows) {
     const all = eachDay(w.start, w.end)
@@ -127,9 +126,9 @@ export function waysToReceive(
   const saint = catalog.saints.find((s) => s.id === card)
   if (saint) {
     // As massRule and officeRule: Mass on whatever day the calendar puts the
-    // celebration; the Office on the assigned day when the celebration isn't
+    // celebration; the Office or a prayed day on the assigned day when the celebration isn't
     // in any region's sanctoral (which also never puts it on a date for Mass).
-    const sanctoral = ofCalendarRefs(calendar.statics.sanctoral, everyRegion)
+    const sanctoral = sanctoralIds(calendar.statics, everyRegion)
     const inSanctoral = !!saint.celebration && sanctoral.has(saint.celebration)
     const canBeOnCalendar =
       !!saint.celebration && (inSanctoral || !saint.celebration.startsWith('sanctorale.'))
@@ -138,7 +137,10 @@ export function waysToReceive(
         ? nextCelebration(saint.celebration, saint.day, calendar, today)
         : undefined
     if (massDate) ways.push({ door: 'mass', date: massDate })
-    if (saint.day && !inSanctoral) ways.push({ door: 'office', date: nextDay(saint.day, today) })
+    if (saint.day && !inSanctoral) {
+      const date = nextDay(saint.day, today)
+      ways.push({ door: 'office', date }, { door: 'prayedDay', date })
+    }
   }
   if (catalog.liturgical.includes(card)) ways.push({ door: 'drawn' })
 
@@ -152,11 +154,11 @@ export function waysToReceive(
     { sunday?: CardId; weekday?: CardId },
   ][]) {
     if (cards.sunday === card) {
-      const way = seasonWay(season, 'seasonSunday', attended, today)
+      const way = seasonWay(season, 'seasonSunday', attended, today, calendar.transfers)
       if (way) ways.push(way)
     }
     if (cards.weekday === card) {
-      const way = seasonWay(season, 'seasonWeekday', attended, today)
+      const way = seasonWay(season, 'seasonWeekday', attended, today, calendar.transfers)
       if (way) ways.push(way)
     }
   }

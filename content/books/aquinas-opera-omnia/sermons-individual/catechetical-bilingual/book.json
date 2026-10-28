@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Naples Catechetical Sermons (Bilingual)",
-    "la": "Sermones Catechetici Neapolitani (Bilinguis)"
+    "la": "Sermones Catechetici Neapolitani (Bilinguis)",
+    "pt-BR": "Sermões catequéticos de Nápoles (bilíngue)"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "The four Naples 1273 catechetical sermon-cycles — on the Creed, the Lord's Prayer, the Hail Mary, and the Ten Commandments. Aquinas Institute bilingual edition. (The Collins 1939 English of the same sermons lives in `book/aquinas-catechetical-instructions`.)",
-    "la": "Quattuor cycli sermonum catecheticorum Neapolitanorum (1273) — super Symbolum Apostolorum, Pater Noster, Ave Maria, Decem Praecepta. Editio bilinguis Instituti Aquinatis."
+    "la": "Quattuor cycli sermonum catecheticorum Neapolitanorum (1273) — super Symbolum Apostolorum, Pater Noster, Ave Maria, Decem Praecepta. Editio bilinguis Instituti Aquinatis.",
+    "pt-BR": "Os quatro ciclos de sermões catequéticos pregados em Nápoles em 1273 — sobre o Credo, o Pai-Nosso, a Ave-Maria e os Dez Mandamentos. Edição bilíngue do Aquinas Institute. (A tradução inglesa de Collins, de 1939, dos mesmos sermões está em `book/aquinas-catechetical-instructions`.)"
   },
   "composed": 1273,
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,98 +39,112 @@
       "id": "p1",
       "title": {
         "en-US": "Sermons on the Apostles' Creed",
-        "la": "In Symbolum Apostolorum"
+        "la": "In Symbolum Apostolorum",
+        "pt-BR": "Sermões sobre o Símbolo dos Apóstolos"
       },
       "children": [
         {
           "id": "p1-credo-c01",
           "title": {
             "en-US": "Prologue",
-            "la": "Prologue"
+            "la": "Prologue",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "p1-credo-c02",
           "title": {
             "en-US": "A. 1 - I Believe in One God, the Father Almighty, Maker of Heaven and Earth",
-            "la": "A. 1 - I Believe in One God, the Father Almighty, Maker of Heaven and Earth"
+            "la": "A. 1 - I Believe in One God, the Father Almighty, Maker of Heaven and Earth",
+            "pt-BR": "A. 1 - Creio em um só Deus, Pai todo-poderoso, Criador do céu e da terra"
           }
         },
         {
           "id": "p1-credo-c03",
           "title": {
             "en-US": "A. 2 - And in Jesus Christ, His Only Son, Our Lord",
-            "la": "A. 2 - And in Jesus Christ, His Only Son, Our Lord"
+            "la": "A. 2 - And in Jesus Christ, His Only Son, Our Lord",
+            "pt-BR": "A. 2 - E em Jesus Cristo, seu único Filho, nosso Senhor"
           }
         },
         {
           "id": "p1-credo-c04",
           "title": {
             "en-US": "A. 3 - Who Was Conceived by the Holy Spirit, Born of the Virgin Mary",
-            "la": "A. 3 - Who Was Conceived by the Holy Spirit, Born of the Virgin Mary"
+            "la": "A. 3 - Who Was Conceived by the Holy Spirit, Born of the Virgin Mary",
+            "pt-BR": "A. 3 - Que foi concebido pelo Espírito Santo, nasceu da Virgem Maria"
           }
         },
         {
           "id": "p1-credo-c05",
           "title": {
             "en-US": "A. 4 - Suffered under Pontius Pilate, Was Crucified, Died, and Was Buried",
-            "la": "A. 4 - Suffered under Pontius Pilate, Was Crucified, Died, and Was Buried"
+            "la": "A. 4 - Suffered under Pontius Pilate, Was Crucified, Died, and Was Buried",
+            "pt-BR": "A. 4 - Padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado"
           }
         },
         {
           "id": "p1-credo-c06",
           "title": {
             "en-US": "A. 5 - He Descended into Hell; on the Third Day He Arose Again from the Dead",
-            "la": "A. 5 - He Descended into Hell; on the Third Day He Arose Again from the Dead"
+            "la": "A. 5 - He Descended into Hell; on the Third Day He Arose Again from the Dead",
+            "pt-BR": "A. 5 - Desceu aos infernos; ao terceiro dia ressuscitou dos mortos"
           }
         },
         {
           "id": "p1-credo-c07",
           "title": {
             "en-US": "A. 6 - He Ascended into Heaven, and Sits at the Right Hand of God, the Father Almighty",
-            "la": "A. 6 - He Ascended into Heaven, and Sits at the Right Hand of God, the Father Almighty"
+            "la": "A. 6 - He Ascended into Heaven, and Sits at the Right Hand of God, the Father Almighty",
+            "pt-BR": "A. 6 - Subiu aos céus, está sentado à direita de Deus Pai todo-poderoso"
           }
         },
         {
           "id": "p1-credo-c08",
           "title": {
             "en-US": "A. 7 - From Thence He Shall Come to Judge the Living and the Dead",
-            "la": "A. 7 - From Thence He Shall Come to Judge the Living and the Dead"
+            "la": "A. 7 - From Thence He Shall Come to Judge the Living and the Dead",
+            "pt-BR": "A. 7 - Donde há de vir a julgar os vivos e os mortos"
           }
         },
         {
           "id": "p1-credo-c09",
           "title": {
             "en-US": "A. 8 - I Believe in the Holy Spirit",
-            "la": "A. 8 - I Believe in the Holy Spirit"
+            "la": "A. 8 - I Believe in the Holy Spirit",
+            "pt-BR": "A. 8 - Creio no Espírito Santo"
           }
         },
         {
           "id": "p1-credo-c10",
           "title": {
             "en-US": "A. 9 - The Holy Catholic Church",
-            "la": "A. 9 - The Holy Catholic Church"
+            "la": "A. 9 - The Holy Catholic Church",
+            "pt-BR": "A. 9 - A santa Igreja Católica"
           }
         },
         {
           "id": "p1-credo-c11",
           "title": {
             "en-US": "A. 10 - The Communion of Saints, the Forgiveness of Sins",
-            "la": "A. 10 - The Communion of Saints, the Forgiveness of Sins"
+            "la": "A. 10 - The Communion of Saints, the Forgiveness of Sins",
+            "pt-BR": "A. 10 - A comunhão dos santos, a remissão dos pecados"
           }
         },
         {
           "id": "p1-credo-c12",
           "title": {
             "en-US": "A. 11 - The Resurrection of the Body",
-            "la": "A. 11 - The Resurrection of the Body"
+            "la": "A. 11 - The Resurrection of the Body",
+            "pt-BR": "A. 11 - A ressurreição da carne"
           }
         },
         {
           "id": "p1-credo-c13",
           "title": {
             "en-US": "A. 12 - Life Everlasting. Amen.",
-            "la": "A. 12 - Life Everlasting. Amen."
+            "la": "A. 12 - Life Everlasting. Amen.",
+            "pt-BR": "A. 12 - A vida eterna. Amém."
           }
         }
       ]
@@ -135,63 +153,72 @@
       "id": "p2",
       "title": {
         "en-US": "Sermons on the Lord's Prayer",
-        "la": "In Pater Noster"
+        "la": "In Pater Noster",
+        "pt-BR": "Sermões sobre o Pai-Nosso"
       },
       "children": [
         {
           "id": "p2-paternoste-c01",
           "title": {
             "en-US": "Pr. - Our Father, Who Art in Heaven",
-            "la": "Pr. - Our Father, Who Art in Heaven"
+            "la": "Pr. - Our Father, Who Art in Heaven",
+            "pt-BR": "Pr. - Pai nosso, que estais nos céus"
           }
         },
         {
           "id": "p2-paternoste-c02",
           "title": {
             "en-US": "A. 1 - Hallowed Be Thy Name",
-            "la": "A. 1 - Hallowed Be Thy Name"
+            "la": "A. 1 - Hallowed Be Thy Name",
+            "pt-BR": "A. 1 - Santificado seja o vosso nome"
           }
         },
         {
           "id": "p2-paternoste-c03",
           "title": {
             "en-US": "A. 2 - Thy Kingdom Come",
-            "la": "A. 2 - Thy Kingdom Come"
+            "la": "A. 2 - Thy Kingdom Come",
+            "pt-BR": "A. 2 - Venha a nós o vosso reino"
           }
         },
         {
           "id": "p2-paternoste-c04",
           "title": {
             "en-US": "A. 3 - Thy Will Be Done on Earth as It Is in Heaven",
-            "la": "A. 3 - Thy Will Be Done on Earth as It Is in Heaven"
+            "la": "A. 3 - Thy Will Be Done on Earth as It Is in Heaven",
+            "pt-BR": "A. 3 - Seja feita a vossa vontade, assim na terra como no céu"
           }
         },
         {
           "id": "p2-paternoste-c05",
           "title": {
             "en-US": "A. 4 - Give Us This Day Our Daily Bread",
-            "la": "A. 4 - Give Us This Day Our Daily Bread"
+            "la": "A. 4 - Give Us This Day Our Daily Bread",
+            "pt-BR": "A. 4 - O pão nosso de cada dia nos dai hoje"
           }
         },
         {
           "id": "p2-paternoste-c06",
           "title": {
             "en-US": "A. 5 - And Forgive Us Our Trespasses as We Forgive Those Who Trespass against Us",
-            "la": "A. 5 - And Forgive Us Our Trespasses as We Forgive Those Who Trespass against Us"
+            "la": "A. 5 - And Forgive Us Our Trespasses as We Forgive Those Who Trespass against Us",
+            "pt-BR": "A. 5 - E perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido"
           }
         },
         {
           "id": "p2-paternoste-c07",
           "title": {
             "en-US": "A. 6 - And Lead Us Not into Temptation",
-            "la": "A. 6 - And Lead Us Not into Temptation"
+            "la": "A. 6 - And Lead Us Not into Temptation",
+            "pt-BR": "A. 6 - E não nos deixeis cair em tentação"
           }
         },
         {
           "id": "p2-paternoste-c08",
           "title": {
             "en-US": "A. 7 - But Deliver Us from Evil. Amen.",
-            "la": "A. 7 - But Deliver Us from Evil. Amen."
+            "la": "A. 7 - But Deliver Us from Evil. Amen.",
+            "pt-BR": "A. 7 - Mas livrai-nos do mal. Amém."
           }
         }
       ]
@@ -200,14 +227,16 @@
       "id": "p3",
       "title": {
         "en-US": "Sermons on the Hail Mary",
-        "la": "In Ave Maria"
+        "la": "In Ave Maria",
+        "pt-BR": "Sermões sobre a Ave-Maria"
       },
       "children": [
         {
           "id": "p3-avemaria-c01",
           "title": {
             "en-US": "AveMaria",
-            "la": "AveMaria"
+            "la": "AveMaria",
+            "pt-BR": "Ave-Maria"
           }
         }
       ]
@@ -216,28 +245,32 @@
       "id": "p4",
       "title": {
         "en-US": "Sermons on the Ten Commandments",
-        "la": "In Decem Praecepta"
+        "la": "In Decem Praecepta",
+        "pt-BR": "Sermões sobre os Dez Mandamentos"
       },
       "children": [
         {
           "id": "p4-decemprae-c01",
           "title": {
             "en-US": "Pr. - I. Prologue",
-            "la": "Pr. - I. Prologue"
+            "la": "Pr. - I. Prologue",
+            "pt-BR": "Pr. - I. Prólogo"
           }
         },
         {
           "id": "p4-decemprae-c02",
           "title": {
             "en-US": "Book I - The Law of Charity, Which Is the Law of Christ",
-            "la": "Book I - The Law of Charity, Which Is the Law of Christ"
+            "la": "Book I - The Law of Charity, Which Is the Law of Christ",
+            "pt-BR": "Livro I - A lei da caridade, que é a lei de Cristo"
           }
         },
         {
           "id": "p4-decemprae-c03",
           "title": {
             "en-US": "Book II - On the Ten Commandments",
-            "la": "Book II - On the Ten Commandments"
+            "la": "Book II - On the Ten Commandments",
+            "pt-BR": "Livro II - Sobre os Dez Mandamentos"
           }
         }
       ]

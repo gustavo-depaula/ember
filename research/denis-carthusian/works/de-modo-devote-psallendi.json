@@ -1,0 +1,61 @@
+{
+  "parts": [
+    {
+      "volume": "operaomniainunum06deni",
+      "leaves": [
+        "0714",
+        "0715",
+        "0716",
+        "0717",
+        "0718",
+        "0719",
+        "0720",
+        "0721",
+        "0722",
+        "0723",
+        "0724",
+        "0725",
+        "0726",
+        "0727",
+        "0728"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/commentaries/de-modo-devote-psallendi",
+  "slug": "de-modo-devote-psallendi",
+  "draft": false,
+  "meta": {
+    "id": "denis-de-modo-devote-psallendi",
+    "cover": "label",
+    "name": {
+      "la": "De modo devote psallendi",
+      "en-US": "On Saying the Psalms Devoutly",
+      "pt-BR": "Sobre o modo de salmodiar com devoção"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De modo devote psallendi.",
+      "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum06deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. VI (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  },
+  "toc_group": {
+    "pattern": "CAP\\.?\\s*([IVXLCUH]+)\\b",
+    "label": {
+      "la": "Caput {n}",
+      "en-US": "Chapter {n}",
+      "pt-BR": "Capítulo {n}"
+    }
+  }
+}

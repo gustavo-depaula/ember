@@ -1,0 +1,161 @@
+{
+ "pericopes": [
+  1,
+  9
+ ],
+ "cast": {
+  "narrator": {
+   "name": "John (narrator)",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "old",
+   "note": "John the Apostle on Patmos, recounting his vision in the first person with awe."
+  },
+  "angel": {
+   "name": "Angel",
+   "kind": "angel",
+   "gender": "male",
+   "age": "adult",
+   "note": "An angel of God speaking with a loud, commanding voice."
+  },
+  "elder-of-heaven": {
+   "name": "One of the ancients",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "One of the twenty-four ancients before the throne, explaining the vision to John gently and with authority."
+  },
+  "heavenly-voices": {
+   "name": "Heavenly voices",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "A great multitude or choir of heaven crying out together in praise."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "After these things, I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that they should not blow upon the earth nor upon the sea nor on any tree."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And I saw another angel ascending from the rising of the sun, having the sign of the living God. And he cried with a loud voice to the four angels to whom it was given to hurt the earth and the sea,"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "angel",
+    "t": "Hurt not the earth nor the sea nor the trees, till we sign the servants of our God in their foreheads."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And I heard the number of them that were signed. An hundred forty-four thousand were signed, of every tribe of the children of Israel."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Of the tribe of Juda, twelve thousand signed: Of the tribe of Ruben, twelve thousand signed: Of the tribe of Gad, twelve thousand signed:"
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Of the tribe of Aser, twelve thousand signed: Of the tribe of Nephthali, twelve thousand signed: Of the tribe of Manasses, twelve thousand signed:"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Of the tribe of Simeon, twelve thousand signed: Of the tribe of Levi, twelve thousand signed: Of the tribe of Issachar, twelve thousand signed:"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Of the tribe of Zabulon, twelve thousand signed: Of the tribe of Joseph, twelve thousand signed: Of the tribe of Benjamin, twelve thousand signed."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "After this, I saw a great multitude, which no man could number, of all nations and tribes and peoples and tongues, standing before the throne and in sight of the Lamb, clothed with white robes, and palms in their hands."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And they cried with a loud voice, saying:"
+   },
+   {
+    "s": "heavenly-voices",
+    "t": "Salvation to our God, who sitteth upon the throne and to the Lamb."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And all the angels stood round about the throne and the ancients and the four living creatures. And they fell down before the throne upon their faces and adored God,"
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "heavenly-voices",
+    "t": "Amen. Benediction and glory and wisdom and thanksgiving, honour and power and strength, to our God, for ever and ever. Amen.",
+    "q": "sung by all the angels together round the throne: treated as a heavenly choir rather than a single angel"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And one of the ancients answered and said to me:"
+   },
+   {
+    "s": "elder-of-heaven",
+    "t": "These that are clothed in white robes, who are they? And whence came they?"
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And I said to him: My Lord, thou knowest. And he said to me:"
+   },
+   {
+    "s": "elder-of-heaven",
+    "t": "These are they who are come out of great tribulation and have washed their robes and have made them white in the blood of the Lamb."
+   }
+  ],
+  "15": [
+   {
+    "s": "elder-of-heaven",
+    "t": "Therefore, they are before the throne of God: and they serve him day and night in his temple. And he that sitteth on the throne shall dwell over them."
+   }
+  ],
+  "16": [
+   {
+    "s": "elder-of-heaven",
+    "t": "They shall no more hunger nor thirst: neither shall the sun fall on them, nor any heat."
+   }
+  ],
+  "17": [
+   {
+    "s": "elder-of-heaven",
+    "t": "For the Lamb, which is in the midst of the throne, shall rule them and shall lead them to the fountains of the waters of life: and God shall wipe away all tears from their eyes."
+   }
+  ]
+ }
+}

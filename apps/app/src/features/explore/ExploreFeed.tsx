@@ -4,6 +4,7 @@ import { useRouter } from 'expo-router'
 import { type ReactNode, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 
+import { useGridCells, useWidthClass } from '@/components'
 import { bareId, getEntriesByKind, getEntry, isMetaId } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
@@ -21,7 +22,8 @@ import {
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalSeason } from '@/lib/liturgical'
-import { useGospelOfTheDay } from '@/lib/mass-of/use-gospel-of-the-day'
+import { useGospelOfTheDay } from '@/lib/missal/use-gospel-of-the-day'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 import { ArtCarousel } from './ArtCarousel'
 import { artFor } from './artMap'
 import { toneForCelebration, toneForKey, toneForSeason } from './bgColor'
@@ -55,7 +57,7 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
   const today = useToday()
-  const season = getLiturgicalSeason(today)
+  const season = getLiturgicalSeason(today, 'of', useOfTransfers())
   const saint = useSaintOfDay()
   const celebrationDisplay = useCelebrationDisplay(saint?.celebration)
   const { data: gospel } = useGospelOfTheDay()
@@ -194,7 +196,7 @@ export function DailyMeditations() {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
   const today = useToday()
-  const featured = pickFeatured(getLiturgicalSeason(today), today)
+  const featured = pickFeatured(getLiturgicalSeason(today, 'of', useOfTransfers()), today)
   const prayed = usePrayedOn(format(today, 'yyyy-MM-dd'))
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
@@ -239,8 +241,14 @@ function MeditationTile({
 }) {
   const { t } = useTranslation()
   const dynamicSubtitle = useMeditationSubtitle(id)
+  // Where the row wraps instead of scrolling, its cards share the column out
+  // between them rather than leave a ragged end.
+  const { medium } = useWidthClass()
+  const { cell } = useGridCells(170, 14, 2)
   return (
     <FeatureTile
+      width={medium ? cell : undefined}
+      height={medium ? 264 : undefined}
       title={localizeContent(entry.name ?? {})}
       subtitle={dynamicSubtitle ?? t(subtitleKey)}
       image={artFor(id)}

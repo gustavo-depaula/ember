@@ -1,0 +1,81 @@
+# Proposição 3
+
+**27.** Toda alma nobre tem três operações: pois, entre as suas operações, há a operação animal, a operação inteligível e a operação divina.
+
+> **28.** Ora, a operação divina existe porque ela prepara a natureza com a virtude que está nela a partir da causa primeira.
+
+> **29.** E a sua operação inteligível existe porque ela sabe as coisas pela virtude da inteligência que está nela.
+
+> **30.** E a sua operação animal existe porque ela move o corpo primeiro e todos os corpos naturais, porque ela é a causa do movimento dos corpos e a causa da operação da natureza.
+
+> **31.** E a alma não efetua estas operações senão porque ela é exemplo da virtude superior.
+
+> **32.** E isso porque a causa primeira criou o ser da alma mediante a inteligência, e por isso a alma foi feita efetuadora da operação divina.
+
+> **33.** Depois, pois, que a causa primeira criou o ser da alma, pô-la como uma sela da inteligência, na qual esta efetue as suas operações.
+
+> **34.** Por isso, pois, a alma inteligível efetua a operação inteligível. E, como a alma recebe a impressão da inteligência, tornou-se de operação inferior à dela na sua impressão sobre aquilo que está abaixo dela.
+
+> **35.** E isso porque ela não imprime nas coisas senão pelo movimento, a saber, porque aquilo que está abaixo dela não recebe a sua operação senão se ela o move. Por esta causa, pois, sucede que a alma move os corpos; pois é próprio da alma vivificar os corpos, já que influi sobre eles a sua virtude e os conduz diretamente à operação reta.
+
+> **36.** É manifesto, portanto, agora, que a alma tem três operações, porque tem três virtudes: a saber, a virtude divina, a virtude inteligível e a virtude da sua essência, conforme narramos e mostramos.
+
+> **63**. Como as coisas que são dos superiores estão nos inferiores segundo alguma participação, depois de ter dividido três graus de entes superiores, dos quais um é ***superior à eternidade***, que é Deus, outro ***está com a eternidade***, que é a inteligência, e o terceiro ***depois da eternidade***, que é a alma, agora pretende mostrar como o terceiro participa do que é próprio do primeiro e do que é próprio do segundo, dizendo: ***toda alma nobre tem três operações; pois, entre as suas operações, há a operação animal, a inteligível e a operação divina***.
+
+**64**. Qual alma se chama ***alma nobre*** pode entender-se pelas palavras de Proclo, que põe esta proposição na CCI, nestas palavras: *todas as almas divinas têm operações tríplices: umas enquanto almas, outras enquanto recebem o intelecto divino, outras enquanto vinculadas aos deuses*. Daí se vê que aqui se chama ***alma nobre*** a ***alma divina***.
+
+**65**. Para evidência disso, deve-se saber que Platão pôs as formas universais das coisas separadas, subsistentes por si. E, como tais formas universais têm, segundo ele, certa causalidade universal sobre os entes particulares que delas participam, por isso chamava deuses a todas essas formas assim subsistentes; pois este nome "Deus" implica certa providência e causalidade universal.
+
+**66**. Entre essas formas, punha esta ordem: quanto mais universal é uma forma, tanto mais simples e anterior é como causa; pois é participada pelas formas posteriores, como se puséssemos que o animal é participado pelo homem, a vida pelo animal, e assim por diante; e o último, que é participado por todos e ele próprio nada mais participa, é o próprio uno e bem separado, que chamava Deus supremo e primeira causa de todas as coisas. Por isso também no livro de Proclo se introduz a proposição CXVI, assim: *todo deus é participável*, isto é, participa, *exceto o uno*.
+
+**67**. E, como essas formas, que chamavam deuses, são inteligíveis por si mesmas, e o intelecto se torna inteligente em ato pela espécie inteligível, puseram, sob a ordem dos deuses, isto é, das formas mencionadas, a ordem dos intelectos, que participam das formas mencionadas para serem inteligentes; entre essas formas está também o intelecto ideal. Mas os intelectos mencionados participam das formas mencionadas segundo um modo imóvel, enquanto as inteligem. Por isso, sob a ordem dos intelectos, punham uma terceira ordem, a das almas, que, mediante os intelectos, participam das formas mencionadas segundo o movimento, enquanto, a saber, são princípios dos movimentos corporais, pelos quais as formas superiores são participadas na matéria corporal. E assim a quarta ordem das coisas é a ordem dos corpos.
+
+**68**. Entre os intelectos, diziam que os superiores são intelectos divinos, e os inferiores, intelectos sim, mas não divinos, porque o intelecto ideal, que, segundo eles, é Deus por si, é participado pelos intelectos superiores segundo ambas as coisas, a saber, enquanto é intelecto e enquanto é Deus, mas pelos intelectos inferiores somente enquanto é intelecto, e por isso estes não são intelectos divinos; pois os intelectos superiores recebem em partilha não só o serem intelectos, mas também o serem divinos.
+
+**69**. Semelhantemente, como as almas se aplicam aos deuses mediante os intelectos, como mais próximos destes, também as próprias almas superiores são divinas por causa dos intelectos divinos a que se aplicam ou de que participam; e as almas inferiores, como que aplicadas a intelectos não divinos, são não divinas.
+
+**70**. E, como os corpos recebem o movimento pela alma, segue-se também que os corpos superiores sejam divinos, segundo eles, e os corpos inferiores, não divinos. Por isso Proclo diz na proposição CXXIX: *todo corpo divino é divino pela alma deificada; toda alma divina, por causa do intelecto divino; e todo intelecto divino, segundo a participação da unidade divina*.
+
+**71**. E, como chamavam deuses às primeiras formas separadas enquanto são universais por si mesmas, consequentemente chamavam também intelectos divinos, almas divinas e corpos divinos aos que têm certa influência e causalidade universal sobre os que se lhes seguem no seu gênero e nos gêneros inferiores.
+
+**72**. Dionísio corrige esta posição quanto ao fato de porem ordenadamente diversas formas separadas, que chamavam deuses, de modo que uma coisa fosse a bondade por si, outra o ser por si, outra a vida por si, e assim das demais.
+
+**73**. Pois é necessário dizer que todas essas coisas são essencialmente a própria primeira causa de todas as coisas, da qual as coisas participam todas as perfeições desse tipo, e assim não poremos muitos deuses, mas um só. E é isto que diz no capítulo V de *Dos nomes divinos*: *não diz*, a saber, a Sagrada Escritura, *que uma coisa seja o bem, outra o existente e outra a vida ou a sabedoria, nem muitas causas e divindades produtoras de umas e outras coisas, excedentes e subordinadas, mas que todas as boas processões são de um só*.
+
+**74**. E como isso pode ser, mostra-o em seguida, porque, sendo Deus o próprio ser e a própria essência da bondade, tudo o que pertence à perfeição da bondade e do ser lhe convém inteira e essencialmente, de modo que ele seja a essência da vida, da sabedoria, do poder e das demais coisas. Por isso, um pouco adiante, acrescenta: *com efeito, Deus não é existente de certo modo, mas simplesmente e sem circunscrição pré-recebeu em si mesmo todo o ser*.
+
+**75**. E isso segue o autor deste livro. Pois não se encontra que introduza alguma multidão de divindade, mas constitui a unidade em Deus, e a distinção na ordem dos intelectos, das almas e dos corpos.
+
+**76**. Segundo isto, pois, chama-se ***alma nobre*** a alma divina do corpo celeste, segundo a opinião dos filósofos que puseram o céu animado; pois esta alma, segundo eles, tem certa influência universal sobre as coisas pelo movimento, e por isso se diz divina, naquele modo de falar pelo qual também entre os homens se dizem divinos os que têm o cuidado universal da coisa pública.
+
+**77**. Desta alma, pois, divina no modo mais nobre, diz que tem operação divina e, expondo, diz que ***a sua operação divina existe*** porque ***ela prepara a natureza***, isto é, enquanto é princípio do primeiro movimento, ao qual toda a natureza está sujeita. E tem isso pela virtude participada da causa primeira, que é causa universal de todas as coisas, da qual recebe em partilha certa causalidade universal sobre as coisas naturais. E por isso, ao assinalar a razão desta operação divina que convém à alma, diz que ***ela é exemplo***, isto é, imagem, ***da virtude superior***, isto é, divina. Pois na dita alma exemplifica-se a universalidade da virtude divina, a saber, que, assim como Deus é a causa universal de todos os entes, assim a dita alma é a causa universal das coisas naturais que se movem.
+
+**78**. A segunda operação da alma nobre ou divina, põe-na como inteligível; ela consiste, como ele próprio expõe, em que ***ela*** conhece ***as coisas*** enquanto participa da virtude da inteligência. E por que participa da ***virtude da inteligência***, mostra-o pelo fato de a alma ser criada pela causa primeira ***mediante a inteligência***; por isso a alma provém de Deus como da causa primeira, e da inteligência como da causa segunda. Ora, todo efeito participa algo da virtude da sua causa; donde resta que a alma, assim como faz a operação divina enquanto provém da causa primeira, assim faz a operação da inteligência enquanto provém dela, participando da sua virtude.
+
+**79**. Quanto ao que aqui se diz, que ***a causa primeira criou o ser da alma mediante a inteligência***, alguns, entendendo mal, julgaram que, segundo o autor deste livro, as inteligências seriam criadoras da substância das almas.
+
+**80**. Mas isto é contra as posições platônicas. Pois punham as causalidades desse tipo dos entes simples segundo a participação; ora, o que é participado não é aquilo que é participante, mas aquilo que é primeiro e tal por sua essência: por exemplo, se a brancura fosse separada, a própria brancura simples seria causa de todas as coisas brancas enquanto são brancas, e não algo que participasse da brancura. Segundo isto, pois, os platônicos punham que aquilo que é o próprio ser é causa do existir para todas as coisas, aquilo que é a própria vida é causa do viver para todas, e aquilo que é a própria inteligência é causa do inteligir para todas; por isso Proclo diz na proposição XVIII do seu livro: *tudo o que deriva o ser para outros é primeiramente, ele próprio, aquilo que transmite aos que recebem a derivação*. Com esta sentença concorda o que Aristóteles diz no livro II da *Metafísica*: que aquilo que é primeiro e máximo ente é causa dos subsequentes.
+
+**81**. Deve-se entender, pois, que a própria essência da alma, segundo o que foi dito, é criada pela causa primeira, que é o seu próprio ser, mas tem as participações consequentes de alguns princípios posteriores, de modo que tem o viver da vida primeira e o inteligir da inteligência primeira; por isso também na proposição XVIII deste livro se diz: ***todas as coisas têm a essência pelo ente primeiro, e as coisas vivas existem pela vida primeira, e as coisas inteligíveis têm a ciência por causa da inteligência primeira***. Assim, pois, entende que ***a causa primeira criou o ser da alma mediante a inteligência*** no sentido de que só a causa primeira criou a essência da alma; mas que a alma seja inteligível, isto ela o tem pela operação da inteligência.
+
+**82**. E este sentido mostra-se manifestamente pelas palavras que se seguem: ***depois, pois***, diz, ***que a causa primeira criou o ser da alma, pô-la como uma sela da inteligência***, isto é, estendeu-a por baixo da operação da inteligência, de modo que a inteligência efetue nela a sua operação, dando-lhe ser inteligível. Por isso conclui que ***por isso a alma inteligível efetua a operação inteligível***. E isso concorda também com o que foi dito na proposição I: que o efeito da causa primeira preexiste ao efeito da causa segunda e se difunde mais universalmente; pois o ser, que é o mais comum, difunde-se em todas as coisas a partir da causa primeira; mas o inteligir não se comunica a todas as coisas pela inteligência, e sim a algumas, pressupondo o ser que têm do primeiro.
+
+**83**. Mas também esta posição, se não for entendida corretamente, repugna à verdade e à sentença de Aristóteles, que argumenta no livro III da *Metafísica* contra os platônicos, que punham uma ordem desse tipo de causas separadas segundo as coisas que se predicam dos indivíduos. Porque se segue que Sócrates será muitos animais, a saber, o próprio Sócrates, o homem separado e também o animal separado: pois o homem separado participa do animal e assim é animal; e Sócrates participa de ambos, por isso é homem e é animal; não seria, pois, Sócrates verdadeiramente uno se tivesse de um o ser animal e de outro o ser homem.
+
+**84**. Por isso, como o ser inteligível pertence à própria natureza da alma, sendo a sua diferença essencial, se tivesse de um o ser e de outro a natureza intelectiva, seguir-se-ia que não seria uno de modo absoluto; é necessário, pois, dizer que, da causa primeira da qual tem a essência, tem também a intelectualidade. E isto concorda com a sentença de Dionísio posta acima, a saber, que não são coisas diversas o próprio bem, o próprio ser, a própria vida e a própria sabedoria, mas um e o mesmo, que é Deus, do qual deriva para as coisas o serem, o viverem e o inteligirem, como ele mostra no mesmo lugar. Por isso também Aristóteles, no livro XII da *Metafísica*, atribui expressamente a Deus o inteligir e o viver, dizendo que ele é vida e inteligência, para excluir as mencionadas posições platônicas.
+
+**85**. De algum modo, porém, isto pode ter verdade, se se referir não à natureza intelectual, mas às formas inteligíveis que as almas intelectivas recebem pela operação das inteligências; por isso também Dionísio diz no capítulo IV de *Dos nomes divinos* que *as almas*, por meio dos anjos, se tornam participantes *das iluminações* que *emanam* de Deus.
+
+**86**. A terceira operação da alma nobre ou divina, põe-na como animal. E expõe que a operação animal consiste em que ***ela move o corpo primeiro e***, por consequência, ***todos os corpos naturais***; pois ***ela é a causa do movimento*** nas coisas.
+
+**87**. E depois assinala a razão disso. Como a ***alma*** é inferior à inteligência, enquanto recebe ***a impressão da inteligência***, segue-se que opere de modo ***inferior sobre*** as coisas que estão ***abaixo dela*** do que a inteligência imprime nas que lhe estão sujeitas, porque a causa primária influi mais do que a segunda, como se vê pela proposição I. Ora, a inteligência imprime nas almas sem movimento, enquanto, a saber, faz a alma conhecer, o que é sem movimento; mas a alma ***imprime*** nos corpos ***pelo movimento***, e aquilo ***que*** está ***abaixo dela***, a saber, o corpo, ***não recebe*** a impressão da alma ***senão*** enquanto é movido por ela.
+
+**88**. E, em seguida, assinala a causa pela qual se deve dizer que o movimento dos corpos naturais vem da alma; pois vemos que todos os corpos naturais chegam ***diretamente***, por suas operações e movimentos, aos fins devidos, o que não poderia acontecer se não fossem dirigidos por algum ser inteligente. Daí parece que o movimento dos corpos vem da alma, que ***influi a sua virtude*** sobre os corpos, movendo-os.
+
+**89**. Esta posição, porém, a saber, que o movimento do céu venha da alma, não está ratificada na fé; mas Agostinho deixa isso em dúvida no livro II do *Comentário literal ao Gênesis*. Que, porém, venha de Deus, que dirige toda a natureza, e que a criatura corporal seja movida por Deus mediante as inteligências, ou anjos, afirma-o Agostinho no livro III de *Sobre a Trindade*, e Gregório no livro IV dos *Diálogos*.
+
+**90**. Por último, conclui o proposto, a saber, que a ***alma*** nobre tem as ***três operações*** mencionadas.
+
+**91**. Com o que foi dito do intelecto divino e da alma divina concorda a sentença de Dionísio, que, no capítulo IV de *Dos nomes divinos*, chama aos anjos superiores *mentes* divinas, isto é, intelectos, pelos quais também as almas participam *do dom deiforme*, *segundo* a sua *virtude*;
+
+**92**. mas toma a divindade segundo a conjunção com Deus, e não segundo a influência universal sobre as coisas criadas. Isto é, com efeito, mais divino, porque também no próprio Deus é maior aquilo que ele é do que aquilo que causa nos outros.

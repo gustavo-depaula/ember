@@ -15,7 +15,6 @@ export {
 export { lookupMap } from './engine/context'
 export { liturgicalDaySource } from './sources/liturgical-day'
 export type {
-  BilingualRichText,
   BilingualText,
   ContentLanguage,
   CycleData,
@@ -29,7 +28,4 @@ export type {
   RenderedSection,
   RepeatEntry,
   ResolveStep,
-  RichTextLine,
-  RichTextSegment,
-  RichTextSegmentType,
 } from './types'

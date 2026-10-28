@@ -1,0 +1,112 @@
+{
+ "pericopes": [
+  1
+ ],
+ "cast": {
+  "narrator": {
+   "name": "John",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "old",
+   "note": "John the apostle on Patmos, telling in the first person what he saw and heard; grave, awed."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The glorified Son of man, the First and the Last; a voice like a trumpet and many waters, majestic, searching, tender to the faithful."
+  },
+  "ancients": {
+   "name": "The twenty-four ancients",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "The twenty-four crowned ancients around the throne, adoring and singing together."
+  },
+  "living-creatures": {
+   "name": "The four living creatures",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The four winged living creatures about the throne, unceasing in praise; unearthly, resonant."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "After these things I looked, and behold a door was opened in heaven, and the first voice which I heard, as it were, of a trumpet speaking with me, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Come up hither, and I will shew thee the things which must be done hereafter.",
+    "q": "'the first voice ... of a trumpet' is the voice of 1:10, there identified as the Son of man"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And immediately I was in the spirit. And behold, there was a throne set in heaven, and upon the throne one sitting."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And he that sat was to the sight like the jasper and the sardine stone. And there was a rainbow round about the throne, in sight like unto an emerald."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And round about the throne were four and twenty seats: and upon the seats, four and twenty ancients sitting, clothed in white garments. And on their heads were crowns of gold."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And from the throne proceeded lightnings and voices and thunders. And there were seven lamps burning before the throne, which are the seven Spirits of God."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And in the sight of the throne was, as it were, a sea of glass like to crystal: and in the midst of the throne, and round about the throne, were four living creatures, full of eyes before and behind."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And the first living creature was like a lion: and the second living creature like a calf: and the third living creature, having the face, as it were, of a man: and the fourth living creature was like an eagle flying."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And the four living creatures had each of them six wings: and round about and within they are full of eyes. And they rested not day and night, saying:"
+   },
+   {
+    "s": "living-creatures",
+    "t": "Holy, Holy, Holy, Lord God Almighty, who was and who is and who is to come."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And when those living creatures gave glory and honour and benediction to him that sitteth on the throne, who liveth for ever and ever:"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "The four and twenty ancients fell down before him that sitteth on the throne and adored him that liveth for ever and ever and cast their crowns before the throne, saying:"
+   }
+  ],
+  "11": [
+   {
+    "s": "ancients",
+    "t": "Thou art worthy, O Lord our God, to receive glory and honour and power. Because thou hast created all things: and for thy will they were and have been created."
+   }
+  ]
+ }
+}

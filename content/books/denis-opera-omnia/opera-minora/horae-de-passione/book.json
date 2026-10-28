@@ -1,0 +1,219 @@
+{
+  "id": "denis-horae-de-passione",
+  "cover": "label",
+  "name": {
+    "la": "Horæ de passione Domini",
+    "en-US": "Hours of the Passion",
+    "pt-BR": "Horas da Paixão"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "Horæ de passione Domini.",
+    "en-US": "One of Denis the Carthusian's minor works.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisecstati02unkngoog",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Initium",
+        "en-US": "Opening",
+        "pt-BR": "Abertura"
+      }
+    },
+    {
+      "id": "g001",
+      "title": {
+        "la": "Psalmus: 94",
+        "en-US": "Psalm: 94",
+        "pt-BR": "Salmo: 94"
+      },
+      "children": [
+        {
+          "id": "c002",
+          "title": {
+            "la": "Psalmus: 94",
+            "en-US": "Psalm: 94",
+            "pt-BR": "Salmo: 94"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g002",
+      "title": {
+        "la": "Psalmus: 21",
+        "en-US": "Psalm: 21",
+        "pt-BR": "Salmo: 21"
+      },
+      "children": [
+        {
+          "id": "c003",
+          "title": {
+            "la": "Psalmus: 21",
+            "en-US": "Psalm: 21",
+            "pt-BR": "Salmo: 21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g003",
+      "title": {
+        "la": "Psalmus: 21",
+        "en-US": "Psalm: 21",
+        "pt-BR": "Salmo: 21"
+      },
+      "children": [
+        {
+          "id": "c004",
+          "title": {
+            "la": "Psalmus: 21",
+            "en-US": "Psalm: 21",
+            "pt-BR": "Salmo: 21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g004",
+      "title": {
+        "la": "Psalmus: 142",
+        "en-US": "Psalm: 142",
+        "pt-BR": "Salmo: 142"
+      },
+      "children": [
+        {
+          "id": "c005",
+          "title": {
+            "la": "Psalmus: 142",
+            "en-US": "Psalm: 142",
+            "pt-BR": "Salmo: 142"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g005",
+      "title": {
+        "la": "Psalmus: 69",
+        "en-US": "Psalm: 69",
+        "pt-BR": "Salmo: 69"
+      },
+      "children": [
+        {
+          "id": "c006",
+          "title": {
+            "la": "Psalmus: 69",
+            "en-US": "Psalm: 69",
+            "pt-BR": "Salmo: 69"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g006",
+      "title": {
+        "la": "Psalmus: 68",
+        "en-US": "Psalm: 68",
+        "pt-BR": "Salmo: 68"
+      },
+      "children": [
+        {
+          "id": "c007",
+          "title": {
+            "la": "Psalmus: 68",
+            "en-US": "Psalm: 68",
+            "pt-BR": "Salmo: 68"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g007",
+      "title": {
+        "la": "Psalmus: 129",
+        "en-US": "Psalm: 129",
+        "pt-BR": "Salmo: 129"
+      },
+      "children": [
+        {
+          "id": "c008",
+          "title": {
+            "la": "Psalmus: 129",
+            "en-US": "Psalm: 129",
+            "pt-BR": "Salmo: 129"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g008",
+      "title": {
+        "la": "Psalmus: 102",
+        "en-US": "Psalm: 102",
+        "pt-BR": "Salmo: 102"
+      },
+      "children": [
+        {
+          "id": "c009",
+          "title": {
+            "la": "Psalmus: 102",
+            "en-US": "Psalm: 102",
+            "pt-BR": "Salmo: 102"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g009",
+      "title": {
+        "la": "Psalmus: 116",
+        "en-US": "Psalm: 116",
+        "pt-BR": "Salmo: 116"
+      },
+      "children": [
+        {
+          "id": "c010",
+          "title": {
+            "la": "Psalmus: 116",
+            "en-US": "Psalm: 116",
+            "pt-BR": "Salmo: 116"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g010",
+      "title": {
+        "la": "Psalmus: 12",
+        "en-US": "Psalm: 12",
+        "pt-BR": "Salmo: 12"
+      },
+      "children": [
+        {
+          "id": "c011",
+          "title": {
+            "la": "Psalmus: 12",
+            "en-US": "Psalm: 12",
+            "pt-BR": "Salmo: 12"
+          }
+        }
+      ]
+    }
+  ]
+}

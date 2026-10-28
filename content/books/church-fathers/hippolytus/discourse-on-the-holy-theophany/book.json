@@ -2,13 +2,16 @@
   "id": "hippolytus-discourse-on-the-holy-theophany",
   "cover": "quarter",
   "name": {
-    "en-US": "Discourse on the Holy Theophany"
+    "en-US": "Discourse on the Holy Theophany",
+    "pt-BR": "Discurso sobre a Santa Teofania"
   },
   "author": {
-    "en-US": "Hippolytus"
+    "en-US": "Hippolytus",
+    "pt-BR": "Hipólito"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Discourse on the Holy Theophany"
+        "en-US": "Discourse on the Holy Theophany",
+        "pt-BR": "Discurso sobre a Santa Teofania"
       }
     }
   ]

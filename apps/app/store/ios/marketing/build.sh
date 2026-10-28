@@ -29,6 +29,18 @@ for locale in en-US pt-BR; do
     # simulator captures at. The two differ in shape by under a pixel.
     sips -z 2622 1206 "$out" >/dev/null
   done < "captions.$locale.txt"
+
+  # The 13" iPad slot: the same captions over the iPad's own screens, which
+  # capture/ipad.sh names after the captioned files.
+  rm -rf "../$locale/screenshots-ipad-captioned"
+  mkdir -p "../$locale/screenshots-ipad-captioned"
+  n=0
+  while IFS='|' read -r src caption; do
+    n=$((n + 1))
+    name="$(printf '%02d' $n)-$(basename "$src" | cut -d- -f2-)"
+    shot "file://$PWD/frame.html?d=ipad&c=$(enc "$caption")&s=$(enc "../$locale/screenshots-ipad/$name.jpg")" \
+      2064 2752 "../$locale/screenshots-ipad-captioned/$name.jpg"
+  done < "captions.$locale.txt"
 done
 
 mkdir -p ../header

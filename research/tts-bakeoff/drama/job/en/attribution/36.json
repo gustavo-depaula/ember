@@ -1,0 +1,218 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story and introduces each speech."
+  },
+  "eliu": {
+   "name": "Eliu",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Son of Barachel the Buzite; the angry young bystander who speaks after the three friends fall silent."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Eliu also proceeded, and said:"
+   }
+  ],
+  "2": [
+   {
+    "s": "eliu",
+    "t": "Suffer me a little, and I will shew thee: for I have yet somewhat to speak in God's behalf."
+   }
+  ],
+  "3": [
+   {
+    "s": "eliu",
+    "t": "I will repeat my knowledge from the beginning, and I will prove my Maker just."
+   }
+  ],
+  "4": [
+   {
+    "s": "eliu",
+    "t": "For indeed my words are without a lie, and perfect knowledge shall be proved to thee."
+   }
+  ],
+  "5": [
+   {
+    "s": "eliu",
+    "t": "God doth not cast away the mighty, whereas he himself also is mighty."
+   }
+  ],
+  "6": [
+   {
+    "s": "eliu",
+    "t": "But he saveth not the wicked, and he giveth judgment to the poor."
+   }
+  ],
+  "7": [
+   {
+    "s": "eliu",
+    "t": "He will not take away his eyes from the just, and he placeth kings on the throne for ever, and they are exalted."
+   }
+  ],
+  "8": [
+   {
+    "s": "eliu",
+    "t": "And if they shall be in chains, and be bound with the cords of poverty:"
+   }
+  ],
+  "9": [
+   {
+    "s": "eliu",
+    "t": "He shall shew them their works, and their wicked deeds, because they have been violent."
+   }
+  ],
+  "10": [
+   {
+    "s": "eliu",
+    "t": "He also shall open their ear, to correct them: and shall speak, that they may return from iniquity."
+   }
+  ],
+  "11": [
+   {
+    "s": "eliu",
+    "t": "If they shall hear and observe, they shall accomplish their days in good, and their years in glory."
+   }
+  ],
+  "12": [
+   {
+    "s": "eliu",
+    "t": "But if they hear not, they shall pass by the sword, and shall be consumed in folly."
+   }
+  ],
+  "13": [
+   {
+    "s": "eliu",
+    "t": "Dissemblers and crafty men prove the wrath of God, neither shall they cry when they are bound."
+   }
+  ],
+  "14": [
+   {
+    "s": "eliu",
+    "t": "Their soul shall die in a storm, and their life among the effeminate."
+   }
+  ],
+  "15": [
+   {
+    "s": "eliu",
+    "t": "He shall deliver the poor out of his distress, and shall open his ear in affliction."
+   }
+  ],
+  "16": [
+   {
+    "s": "eliu",
+    "t": "Therefore he shall set thee at large out of the narrow mouth, and which hath no foundation under it: and the rest of thy table shall be full of fatness."
+   }
+  ],
+  "17": [
+   {
+    "s": "eliu",
+    "t": "Thy cause hath been judged as that of the wicked, cause and judgment thou shalt recover."
+   }
+  ],
+  "18": [
+   {
+    "s": "eliu",
+    "t": "Therefore let not anger overcome thee to oppress any man: neither let multitude of gifts turn thee aside."
+   }
+  ],
+  "19": [
+   {
+    "s": "eliu",
+    "t": "Lay down thy greatness without tribulation, and all the mighty of strength."
+   }
+  ],
+  "20": [
+   {
+    "s": "eliu",
+    "t": "Prolong not the night that people may come up for them."
+   }
+  ],
+  "21": [
+   {
+    "s": "eliu",
+    "t": "Beware thou turn not aside to iniquity: for this thou hast begun to follow after misery."
+   }
+  ],
+  "22": [
+   {
+    "s": "eliu",
+    "t": "Behold, God is high in his strength, and none is like him among the lawgivers."
+   }
+  ],
+  "23": [
+   {
+    "s": "eliu",
+    "t": "Who can search out his ways? or who can say to him: Thou hast wrought iniquity?"
+   }
+  ],
+  "24": [
+   {
+    "s": "eliu",
+    "t": "Remember that thou knowest not his work, concerning which men have sung."
+   }
+  ],
+  "25": [
+   {
+    "s": "eliu",
+    "t": "All men see him, every one beholdeth afar off."
+   }
+  ],
+  "26": [
+   {
+    "s": "eliu",
+    "t": "Behold, God is great, exceeding our knowledge: the number of his years is inestimable."
+   }
+  ],
+  "27": [
+   {
+    "s": "eliu",
+    "t": "He lifteth up the drops of rain, and poureth out showers like floods:"
+   }
+  ],
+  "28": [
+   {
+    "s": "eliu",
+    "t": "Which flow from the clouds that cover all above."
+   }
+  ],
+  "29": [
+   {
+    "s": "eliu",
+    "t": "If he will spread out clouds as his tent,"
+   }
+  ],
+  "30": [
+   {
+    "s": "eliu",
+    "t": "And lighten with his light from above, he shall cover also the ends of the sea."
+   }
+  ],
+  "31": [
+   {
+    "s": "eliu",
+    "t": "For by these he judgeth people, and giveth food to many mortals."
+   }
+  ],
+  "32": [
+   {
+    "s": "eliu",
+    "t": "In his hands he hideth the light, and commandeth it to come again."
+   }
+  ],
+  "33": [
+   {
+    "s": "eliu",
+    "t": "He sheweth his friend concerning it, that it is his possession, and that he may come up to it."
+   }
+  ]
+ }
+}

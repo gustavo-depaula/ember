@@ -1,0 +1,3302 @@
+{
+ "id": "sanctorale.11-02.second-mass",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 2 novembris"
+       ],
+       [
+        "IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 de Novembro"
+       ],
+       [
+        "Comemoração de Todos os Fiéis Defuntos"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "November 2"
+       ],
+       [
+        "The Commemoration of All the Faithful Departed"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 de noviembre"
+       ],
+       [
+        "CONMEMORACIÓN DE TODOS LOS FIELES DIFUNTOS"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 NOVEMBRE"
+       ],
+       [
+        "COMMEMORAZIONE DI TUTTI I FEDELI DEFUNTI"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2 novembre"
+       ],
+       [
+        "COMMÉMORATION DE TOUS LES FIDÈLES DÉFUNTS"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "2. November"
+       ],
+       [
+        "ALLERSEELEN"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "3"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vide lectiones in Missis Defunctorum"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "As leituras sejam escolhidas entre as leituras para as missas de defuntos:"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "From Masses for the Dead:"
+        }
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Las lecturas se toman de entre las propuestas para las misas de difuntos:"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Vedi il Lezionario per le Messe dei defunti."
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comme lectures, on pourra choisir entre tous les textes proposés pour les funérailles."
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Man kann die Texte aus dem Lektionar für die Verstorbenen frei auswählen."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Præcipitabit Dóminus mortem in sempiternum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Isaíæ prophétæ"
+       ]
+      ],
+      "cite": "25, 6a. 7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In die illa:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fáciet Dóminus exercítuum ómnibus pópulis in monte hoc convívium pínguium."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et præcipitábit in monte isto fáciem vínculi colligáti super omnes pópulos et telam, quam ordítus est super omnes natiónes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Præcipitábit mortem in sempitérnum et abstérget Dóminus Deus lácrimam ab omni fácie et oppróbrium pópuli sui áuferet de univérsa terra, quia Dóminus locútus est."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et dicétur in die illa: «Ecce Deus noster iste, exspectávimus eum, ut salváret nos; iste Dóminus, sustinúimus eum: exsultábimus et lætábimur in salutári eius."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Senhor destruirá a morte para sempre"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro de Isaías"
+       ]
+      ],
+      "cite": "25, 6a. 7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele dia, ao Senhor dos exércitos dará neste monte, para todos os povos, um banquete de ricas iguarias. Ele removerá, neste monte, a ponta da cadeia que ligava todos os povos, a teia em que tinha envolvido todas as nações.O Senhor Deus eliminará para sempre a morte e enxugará as lágrimas de todas as faces e acabará com a desonra do seu povo em toda a terra; o Senhor o disse. Naquele dia, se dirá: “Este é o nosso Deus, esperamos nele, até que nos salvou; este é o Senhor, nele temos confiado: vamos alegrar-nos e exultar por nos ter salvo”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Lord will destroy Death for ever."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the prophet Isaiah"
+       ]
+      ],
+      "cite": "25:6-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "On this mountain, the Lord of hosts will prepare for all peoples a banquet of rich food. On this mountain he will remove the mourning veil covering all peoples, and the shroud enwrapping all nations, he will destroy Death for ever."
+       ],
+       [
+        "The Lord will wipe away the tears from every cheek; he will take away his people's shame everywhere on earth, for the Lord has said so."
+       ],
+       [
+        "That day, it will be said: See, this is our God in whom we hoped for salvation; the Lord is the one in whom we hoped. We exult and we rejoice that he has saved us."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El Señor aniquilará la muerte para siempre"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de libro de Isaías"
+       ]
+      ],
+      "cite": "25, 6a. 7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel día, preparará el Señor del universo para todos los pueblos, en este monte, un festín de manjares suculentos."
+       ],
+       [
+        "Y arrancará en este monte el velo que cubre a todos los pueblos, el lienzo extendido sobre todas las naciones. Aniquilará la muerte para siempre."
+       ],
+       [
+        "Dios, el Señor, enjugará las lágrimas de todos los rostros, y alejará del país el oprobio de su pueblo —lo ha dicho el Señor—."
+       ],
+       [
+        "Aquel día se dirá:"
+       ],
+       [
+        "«Aquí está nuestro Dios."
+       ],
+       [
+        "Esperábamos en él y nos ha salvado."
+       ],
+       [
+        "Este es el Señor en quien esperamos."
+       ],
+       [
+        "Celebremos y gocemos con su salvación»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore eliminerà la morte per sempre."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Isaia"
+       ]
+      ],
+      "cite": "25, 6.7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel giorno: il Signore degli eserciti preparerà su questo monte un banchetto per tutti i popoli. Egli strapperà su questo monte il velo che copriva la faccia di tutti i popoli e la coltre che copriva tutte le genti. Eliminerà la morte per sempre; il Signore Dio asciugherà le lacrime su ogni volto; farà scomparire da tutto il paese la condizione disonorevole del suo popolo, poiché il Signore ha parlato. E si dirà in quel giorno: «Ecco il nostro Dio; in lui abbiamo sperato perché ci salvasse; questi è il Signore in cui abbiamo sperato; rallegriamoci, esultiamo per la sua salvezza»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre d'Isaïe"
+       ]
+      ],
+      "cite": "25, 6a. 7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce jour-là, le Seigneur de l'univers préparera pour tous les peuples un festin sur sa montagne. Sur cette montagne, il fera disparaître le voile de deuil qui enveloppe tous les peuples et le linceul qui couvre toutes les nations. Il fera disparaître la mort pour toujours. Le Seigneur Dieu essuiera les larmes sur tous les visages, et par toute la terre il effacera l'humiliation de son peuple. Le Seigneur a parlé."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ce jour-là, on dira :"
+       ],
+       [
+        "\" Voici notre Dieu, en lui nous espérions, et il nous a sauvés ; c'est lui le Seigneur, en lui nous espérions ; exultons, réjouissons-nous : il nous a sauvés ! \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesája"
+       ]
+      ],
+      "cite": "25, 6a. 7-9",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "An jenem Tag"
+       ],
+       [
+        "wird der Herr der Heere auf diesem Berg für alle Völker ein Festmahl geben."
+       ],
+       [
+        "Er zerreißt auf diesem Berg die Hülle, die alle Nationen verhüllt, und die Decke, die alle Völker bedeckt."
+       ],
+       [
+        "Er beseitigt den Tod für immer. Gott, der Herr, wischt die Tränen ab von jedem Gesicht. Auf der ganzen Erde nimmt er von seinem Volk die Schande hinweg. Ja, der Herr hat gesprochen."
+       ],
+       [
+        "An jenem Tag wird man sagen: Seht, das ist unser Gott, auf ihn haben wir unsere Hoffnung gesetzt, er wird uns retten. Das ist der Herr, auf ihn setzen wir unsere Hoffnung. Wir wollen jubeln und uns freuen über seine rettende Tat."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "for-the-dead.first-reading.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "for-the-dead.first-reading.5"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 24, 6 et 7bc. 17-18. 20-21 (R.: 1 vel 3)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 24, 6-7bc. 17-18. 20-21 (R.: 1; ou: 3)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 24:6-7. 17-18. 20-21",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 24, 6-7bc. 17-18. 20-21 (R.: 1; o bien: 3)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dal Salmo 24",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 24, 6 et 7bc. 17-18. 20-21 (R.: 1 vel 3)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 25 (24), 6-7. 17-18. 20-21 (R.: 1 oder vgl. 3a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "for-the-dead.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ad te, Dómine, levávi ánimam meam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        },
+        "Qui sústinent te, Dómine, non confundéntur."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A vós, Senhor, eu elevo a minha alma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "To you, O Lord, I lift up my soul."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "or"
+        },
+        " Those who hope in you, 0 Lord, shall not be disappointed."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A ti, Señor, levanto mi alma."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Los que esperan en ti, Señor, no quedan defraudados."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A te, Signore, innalzo l'anima mia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vers toi, Seigneur, j'élève mon âme."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou: "
+        },
+        "Pour qui espère en toi, pas de honte, Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zu dir, o Herr, erhebe ich meine Seele."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Wer auf dich hofft, wird nicht zuschanden."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Reminíscere miseratiónum tuárum, Dómine,"
+       ],
+       [
+        "et misericordiárum tuárum, quóniam a sǽculo sunt."
+       ],
+       [
+        "Secúndum misericórdiam tuam meménto mei tu,"
+       ],
+       [
+        "propter bonitátem tuam, Dómine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recordai, Senhor meu Deus, vossa ternura"
+       ],
+       [
+        "e a vossa compaixão que são eternas! De mim lembrai-vos, porque sois misericórdia"
+       ],
+       [
+        "e sois bondade sem limites, ó Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Remember your mercy, Lord, and the love you have shown from of old. In your love remember me, because of your goodness, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Recuerda, Señor, que tu ternura"
+       ],
+       [
+        "y tu misericordia son eternas;"
+       ],
+       [
+        "acuérdate de mí con misericordia, por tu bondad, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ricòrdati, Signore, del tuo amore,"
+       ],
+       [
+        "della tua fedeltà che è da sempre."
+       ],
+       [
+        "Ricòrdati di me nella tua misericordia,"
+       ],
+       [
+        "per la tua bontà, Signore"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rappelle-toi, Seigneur, ta tendresse,"
+       ],
+       [
+        "ton amour qui est de toujours."
+       ],
+       [
+        "Dans ton amour, ne m'oublie pas,"
+       ],
+       [
+        "en raison de ta bonté, Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Denk an dein Erbarmen, Herr,"
+       ],
+       [
+        "und an die Taten deiner Huld;"
+       ],
+       [
+        "denn sie bestehen seit Ewigkeit."
+       ],
+       [
+        "Denk nicht an meine Jugendsünden und meine Frevel!"
+       ],
+       [
+        "In deiner Huld denk an mich, Herr, denn du bist gütig."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ad te, Dómine, levávi ánimam meam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        },
+        "Qui sústinent te, Dómine, non confundéntur."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A vós, Senhor, eu elevo a minha alma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "To you, O Lord, I lift up my soul."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "or"
+        },
+        " Those who hope in you, 0 Lord, shall not be disappointed."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A ti, Señor, levanto mi alma."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Los que esperan en ti, Señor, no quedan defraudados."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A te, Signore, innalzo l'anima mia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vers toi, Seigneur, j'élève mon âme."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou: "
+        },
+        "Pour qui espère en toi, pas de honte, Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zu dir, o Herr, erhebe ich meine Seele."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Wer auf dich hofft, wird nicht zuschanden."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Diláta angústias cordis mei,"
+       ],
+       [
+        "et de necessitátibus meis érue me."
+       ],
+       [
+        "Vide humilitátem meam et labórem meum,"
+       ],
+       [
+        "et dimítte univérsa delícta mea."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livrai-me, Senhor, das minhas aflições, vede minha miséria e minha dor; perdoai todos os meus pecados."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Relieve the anguish of my heart and set me free from my distress. See my affliction and my toil and take all my sins away."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ensancha mi corazón oprimido"
+       ],
+       [
+        "y sácame de mis tribulaciones."
+       ],
+       [
+        "Mira mis trabajos y mis penas"
+       ],
+       [
+        "y perdona todos mis pecados."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allèvia le angosce del mio cuore,"
+       ],
+       [
+        "liberami dagli affanni."
+       ],
+       [
+        "Vedi la mia miseria e la mia pena"
+       ],
+       [
+        "e perdona tutti i miei peccati"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'angoisse grandit dans mon cœur :"
+       ],
+       [
+        "tire-moi de ma détresse."
+       ],
+       [
+        "Vois ma misère et ma peine,"
+       ],
+       [
+        "enlève tous mes péchés."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Befrei mein Herz von der Angst,"
+       ],
+       [
+        "führe mich heraus der Bedrängnis!"
+       ],
+       [
+        "Sieh meine Not und Plage an,"
+       ],
+       [
+        "und vergib mir all meine Sünden!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ad te, Dómine, levávi ánimam meam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        },
+        "Qui sústinent te, Dómine, non confundéntur."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A vós, Senhor, eu elevo a minha alma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "To you, O Lord, I lift up my soul."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "or"
+        },
+        " Those who hope in you, 0 Lord, shall not be disappointed."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A ti, Señor, levanto mi alma."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Los que esperan en ti, Señor, no quedan defraudados."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A te, Signore, innalzo l'anima mia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vers toi, Seigneur, j'élève mon âme."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou: "
+        },
+        "Pour qui espère en toi, pas de honte, Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zu dir, o Herr, erhebe ich meine Seele."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Wer auf dich hofft, wird nicht zuschanden."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Custódi ánimam meam, et érue me;"
+       ],
+       [
+        "non erubéscam, quóniam sperávi in te."
+       ],
+       [
+        "Innocéntia et ǽquitas custódiant me,"
+       ],
+       [
+        "quia sustínui te."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Defendei a minha alma e livrai-me: não me envergonharei de ter confiado em Vós. A inocência e retidão me protejam, porque em Vós pus a minha esperança."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preserve my life and rescue me. Do not disappoint me, you are my refuge. May innocence and uprightness protect me: for my hope is in you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda mi vida y líbrame,"
+       ],
+       [
+        "no quede yo defraudado de haber acudido a ti."
+       ],
+       [
+        "La inocencia y la rectitud me protegerán,"
+       ],
+       [
+        "porque espero en ti."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proteggimi, dammi salvezza;"
+       ],
+       [
+        "al tuo riparo io non sia deluso."
+       ],
+       [
+        "Mi proteggano integrità e rettitudine,"
+       ],
+       [
+        "perché in te ho sperato"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Garde mon âme, délivre-moi ;"
+       ],
+       [
+        "je m'abrite en toi : épargne-moi la honte."
+       ],
+       [
+        "Droiture et perfection veillent sur moi,"
+       ],
+       [
+        "sur moi qui t'espère !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erhalte mein Leben und rette mich,"
+       ],
+       [
+        "lass mich nicht scheitern!"
+       ],
+       [
+        "Denn ich nehme zu dir meine Zuflucht."
+       ],
+       [
+        "Unschuld und Redlichkeit mögen mich schützen,"
+       ],
+       [
+        "denn ich hoffe auf dich, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ad te, Dómine, levávi ánimam meam."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Vel: "
+        },
+        "Qui sústinent te, Dómine, non confundéntur."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A vós, Senhor, eu elevo a minha alma."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "To you, O Lord, I lift up my soul."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "or"
+        },
+        " Those who hope in you, 0 Lord, shall not be disappointed."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A ti, Señor, levanto mi alma."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Los que esperan en ti, Señor, no quedan defraudados."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A te, Signore, innalzo l'anima mia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Vers toi, Seigneur, j'élève mon âme."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou: "
+        },
+        "Pour qui espère en toi, pas de honte, Seigneur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Zu dir, o Herr, erhebe ich meine Seele."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Wer auf dich hofft, wird nicht zuschanden."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "for-the-dead.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio secunda"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Exspectantes redemptionem corporis nostri."
+        }
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ béati Pauli apóstoli ad Romános"
+       ]
+      ],
+      "cite": "8, 14-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quicúmque Spíritu Dei agúntur, hi fílii Dei sunt. Non enim accepístis spíritum servitútis íterum in timórem, sed accepístis Spíritum adoptiónis filiórum, in quo clamámus: «Abba, Pater!»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ipse Spíritus testimónium reddit una cum spíritu nostro, quod sumus fílii Dei. Si autem fílii, et herédes: herédes quidem Dei, coherédes autem Christi, si tamen compátimur, ut et conglorificémur"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exístimo enim quod non sunt condígnæ passiónes huius témporis ad futúram glóriam, quæ revelánda est in nobis. Nam exspectátio creatúræ revelatiónem filiórum Dei exspéctat; vanitáti enim creatúra subiécta est, non volens sed propter eum, qui subiécit, in spem, quia et ipsa creatúra liberábitur a servitúte corruptiónis in libertátem glóriæ filiórum Dei."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Scimus enim quod omnis creatúra congemíscit et compartúrit usque adhuc; non solum autem, sed et nos ipsi primítias Spíritus habéntes, et ipsi intra nos gémimus adoptiónem filiórum exspectántes, redemptiónem córporis nostri."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esperando a libertação do nosso corpo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Epístola do apóstolo São Paulo aos Romanos"
+       ]
+      ],
+      "cite": "8, 14-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Todos aqueles que se deixam conduzir pelo Espírito de Deus são filhos de Deus. De fato, vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá — ó Pai! O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus. E, se somos filhos, somos também herdeiros — herdeiros de Deus e coerdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele. Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus. Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. Com efeito, sabemos que toda a criação, até o tempo presente, está gemendo como que em dores de parto. E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Second Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "We wait for our bodies to be set free."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the letter of St Paul to the Romans"
+       ]
+      ],
+      "cite": "8:14-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Everyone moved by the Spirit is a son of God. The spirit you received is not the spirit of slaves bringing fear into your lives again; it is the spirit of sons, and it makes us cry out, `Abba, Father!' The Spirit himself and our spirit bear united witness that we are children of God. And if we are children we are heirs as well: heirs of God and coheirs with Christ, sharing his sufferings so as to share his glory. I think that what we suffer in this life can never be compared to the glory, as yet unrevealed, which is waiting for us. The whole creation is eagerly waiting for God to reveal his sons. It was not for any fault on the part of creation that it was made unable to attain its purpose, it was made so by God; but creation still retains the hope of being freed, like us, from its slavery to decadence, to enjoy the same freedom and glory as the children of God. From the beginning till now the entire creation, as we know, has been groaning in one great act of giving birth; and not only creation, but all of us who possess the first-fruits of the Spirit, we too groan inwardly as we wait for our bodies to be set free."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Segunda Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aguardando la redención de nuestro cuerpo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la carta del apóstol san Pablo a los Romanos"
+       ]
+      ],
+      "cite": "8, 14-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Cuantos se dejan llevar por el Espíritu de Dios, esos son hijos de Dios."
+       ],
+       [
+        "Pues no habéis recibido un espíritu de esclavitud, para recaer en el temor, sino que habéis recibido un Espíritu de hijos de adopción, en el que clamamos: «Abba, Padre!»."
+       ],
+       [
+        "Ese mismo Espíritu da testimonio a nuestro espíritu de que somos hijos de Dios; y, si hijos, también herederos; herederos de Dios y coherederos con Cristo; de modo que, si sufrimos con él, seremos también glorificados con él."
+       ],
+       [
+        "Pues considero que los sufrimientos de ahora no se pueden comparar con la gloria que un día se nos manifestará. Porque la creación, expectante, está aguardando la manifestación de los hijos de Dios; en efecto, la creación fue sometida a la frustración, no por su voluntad, sino por aquel que la sometió, con la esperanza de que la creación misma sería liberada de la esclavitud de la corrupción, para entrar en la gloriosa libertad de los hijos de Dios."
+       ],
+       [
+        "Porque sabemos que hasta hoy toda la creación está gimiendo y sufre dolores de parto."
+       ],
+       [
+        "Y no solo eso, sino que también nosotros, que poseemos las primicias del Espíritu, gemimos en nuestro interior, aguardando la adopción filial, la redención de nuestro cuerpo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seconda lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aspettiamo la redenzione del nostro corpo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla lettera di san Paolo apostolo ai Romani"
+       ]
+      ],
+      "cite": "8, 14-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, tutti quelli che sono guidati dallo Spirito di Dio, costoro sono figli di Dio. E voi non avete ricevuto uno spirito da schiavi per ricadere nella paura, ma avete ricevuto uno spirito da figli adottivi per mezzo del quale gridiamo: «Abbà, Padre!». Lo Spirito stesso attesta al nostro spirito che siamo figli di Dio. E se siamo figli, siamo anche eredi: eredi di Dio, coeredi di Cristo, se veramente partecipiamo alle sue sofferenze per partecipare anche alla sua gloria. lo ritengo infatti, che le sofferenze del momento presente non sono paragonabili alla gloria futura che dovrà esser rivelata in noi. La creazione stessa attende con impazienza la rivelazione dei figli di Dio; essa infatti è stata sottomessa alla caducità - non per suo volere, ma per volere di colui che l'ha sottomessa - e nutre la speranza di essere lei pure liberata dalla schiavitù della corruzione, per entrare nella libertà della gloria dei figli di Dio. Sappiamo bene infatti che tutta la creazione geme e soffre fino ad oggi nelle doglie del parto; essa non è la sola, ma anche noi, che possediamo le primizie dello Spirito, gemiamo interiormente aspettando l'adozione a figli, la redenzione del nostro corpo."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deuxième lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lettre de saint Paul Apôtre aux Romains"
+       ]
+      ],
+      "cite": "8, 14-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, tous ceux qui se laissent conduire par l'Esprit de Dieu, ceux-là sont fils de Dieu. Vous n'avez pas reçu un esprit qui fait de vous des esclaves et vous ramène à la peur ; mais vous avez reçu un Esprit qui fait de vous des fils ; et c'est en lui que nous crions \" Abba ! \", c'est-à-dire : Père ! C'est donc l'Esprit Saint lui-même qui atteste à notre esprit que nous sommes enfants de Dieu. Puisque nous sommes ses enfants, nous sommes aussi ses héritiers : héritiers de Dieu, héritiers avec le Christ, si du moins nous souffrons avec lui pour être avec lui dans la gloire. J'estime en effet qu'il n'y a pas de commune mesure entre les souffrances du temps présent et la gloire qui va être révélée pour nous. En effet, la création attend avec impatience la révélation des fils de Dieu. Car la création a été soumise au pouvoir du néant, non pas de son plein gré, mais à cause de celui qui l'a livrée à ce pouvoir. Pourtant, elle a gardé l'espérance d'être, elle aussi, libérée de l'esclavage de la dégradation, pour connaître la liberté de la gloire donnée aux enfants de Dieu. Nous le savons bien, la création tout entière gémit, elle passe par les douleurs d'un enfantement qui dure encore. Et elle n'est pas seule. Nous aussi, en nous-mêmes, nous gémissons ; nous avons commencé à recevoir l'Esprit Saint, mais nous attendons notre adoption et la rédemption de notre corps."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Zweite Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Brief des Apostels Paulus an die Römer"
+       ]
+      ],
+      "cite": "8, 14-23",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Alle, die sich vom Geist Gottes leiten lassen, sind Söhne Gottes. Denn ihr habt nicht einen Geist empfangen, der euch zu Sklaven macht, so dass ihr euch immer noch fürchten müsstet, sondern ihr habt den Geist empfangen, der euch zu Söhnen macht, den Geist, in dem wir rufen: Abba, Vater!"
+       ],
+       [
+        "So bezeugt der Geist selber unserem Geist, dass wir Kinder Gottes sind. Sind wir aber Kinder, dann auch Erben; wir sind Erben Gottes und sind Miterben Christi, wenn wir mit ihm leiden, um mit ihm auch verherrlicht zu werden."
+       ],
+       [
+        "Ich bin überzeugt, dass die Leiden der gegenwärtigen Zeit nichts bedeuten im Vergleich zu der Herrlichkeit, die an uns offenbar werden soll. Denn die ganze Schöpfung wartet sehnsüchtig auf das Offenbarwerden der Söhne Gottes. Die Schöpfung ist der Vergänglichkeit unterworfen, nicht aus eigenem Willen, sondern durch den, der sie unterworfen hat; aber zugleich gab er ihr Hoffnung: Auch die Schöpfung soll von der Sklaverei und Verlorenheit befreit werden zur Freiheit und Herrlichkeit der Kinder Gottes. b>Denn wir wissen, dass die gesamte Schöpfung bis zum heutigen Tag seufzt und in Geburtswehen liegt. Aber auch wir, obwohl wir als Erstlingsgabe den Geist haben, seufzen in unserem Herzen und warten darauf, dass wir mit der Erlösung unseres Leibes als Söhne offenbar werden."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "secondReading",
+   "from": "for-the-dead.second-reading.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "secondReading",
+   "from": "for-the-dead.second-reading.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Mt 25, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Veníte, benedícti Patris mei, dicit Dóminus;"
+       ],
+       [
+        "possidéte parátum vobis regnum a constitutióne mundi."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Mt 25, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Vinde, benditos de meu Pai, tomai posse do Reino preparado para vós desde o princípio do mundo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia. ",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Mt 25:34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Come, you whom my Father has blessed, says the Lord; take for your heritage the kingdom prepared for you since the foundation of the world."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Mt 25, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya, aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Venid vosotros, benditos de mi Padre —dice el Señor—;"
+       ],
+       [
+        "heredad el reino preparado para vosotros desde la creación del mundo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Mt 25, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Venez, les bénis de mon Père, dit le Seigneur ; recevez en héritage le royaume préparé pour vous depuis la création du monde."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Vgl. Mt 25, 34",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "(So spricht der Herr:) Kommt her, die ihr von meinem Vater gesegnet seid, nehmt das Reich in Besitz, das seit Erschaffung der Welt für Euch bestimmt ist."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "from": "for-the-dead.acclamation.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quamdiu fecistis fratribus meis minimis, mihi fecistis."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vinde benditos de meu Pai"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Evangelho de Nosso Senhor Jesus Cristo segundo São Mateus"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Come, you whom my Father has blessed."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "25:31-46",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venid vosotros, benditos de mi Padre"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venite, benedetti del Padre mio."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "25, 31-46",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "for-the-dead.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "for-the-dead.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus discípulis suis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Cum vénerit Fílius hóminis in glória sua, et omnes ángeli cum eo, tunc sedébit super thronum glóriæ suæ. Et congregabúntur ante eum omnes gentes; et separábit eos ab ínvicem, sicut pastor ségregat oves ab hædis, et státuet oves quidem a dextris suis, hædos autem a sinístris."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc dicet Rex his, qui a dextris eius erunt: “Veníte, benedícti Patris mei; possidéte parátum vobis regnum a constitutióne mundi. Esurívi enim, et dedístis mihi manducáre; sitívi, et dedístis mihi bíbere; hospes eram, et collegístis me; nudus, et operuístis me; infírmus, et visitástis me; in cárcere eram, et venístis ad me”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc respondébunt ei iusti dicéntes: “Dómine, quando te vídimus esuriéntem et pávimus, aut sitiéntem et dédimus tibi potum? Quando autem te vídimus hóspitem et collégimus, aut nudum et cooperúimus? Quando autem te vídimus infírmum aut in cárcere et vénimus ad te?”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et respóndens Rex dicet illis: “Amen dico vobis: Quámdiu fecístis uni de his frátribus meis mínimis, mihi fecístis”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc dicet et his, qui a sinístris erunt: “Discédite a me, maledícti, in ignem ætérnum, qui præparátus est Diábolo et ángelis eius. Esurívi enim, et non dedístis mihi manducáre; sitívi, et non dedístis mihi potum; hospes eram, et non collegístis me; nudus, et non operuístis me; infírmus et in cárcere, et non visitástis me”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc respondébunt et ipsi dicéntes: “Dómine, quando te vídimus esuriéntem aut sitiéntem aut hóspitem aut nudum aut infírmum vel in cárcere et non ministrávimus tibi?”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tunc respondébit illis dicens: “Amen dico vobis: Quámdiu non fecístis uni de mínimis his, nec mihi fecístis”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ibunt hi in supplícium ætérnum, iusti autem in vitam ætérnam»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus a seus discípulos: Quando o Filho do Homem vier em sua glória, acompanhado de todos os anjos, então se assentará em seu trono glorioso. Todos os povos da terra serão reunidos diante dele, e ele separará uns dos outros, assim como o pastor separa as ovelhas dos cabritos. E colocará as ovelhas à sua direita e os cabritos à sua esquerda. Então o Rei dirá aos que estiverem à sua direita: \"Vinde benditos de meu Pai! Recebei como herança o Reino que meu Pai vos preparou desde a criação do mundo! Pois eu estava com fome e me destes de comer; eu estava com sede e me destes de beber; eu era estrangeiro e me recebestes em casa; eu estava nu e me vestistes; eu estava doente e cuidastes de mim; eu estava na prisão e fostes me visitar\". Então os justos lhe perguntarão: \"Senhor, quando foi que te vimos com fome e te demos de comer? Com sede e te demos de beber? Quando foi que te vimos como estrangeiro e te recebemos em casa, e sem roupa e te vestimos? Quando foi que te vimos doente ou preso, e fomos te visitar?\" Então o Rei lhes responderá: \"Em verdade eu vos digo, que todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes!\" Depois o Rei dirá aos que estiverem à sua esquerda: \"Afastai-vos de mim, malditos! Ide para o fogo eterno, preparado para o diabo e para os seus anjos. Pois eu estava com fome e não me destes de comer; eu estava com sede e não me destes de beber; eu era estrangeiro e não me recebestes em casa; eu estava nu e não me vestistes; eu estava doente e na prisão e não fostes me visitar\". E responderão também eles: \"Senhor, quando foi que te vimos com fome, ou com sede, como estrangeiro, ou nu, doente ou preso, e não te servimos?\" Então o Rei lhes responderá: \"Em verdade eu vos digo, todas as vezes que não fizestes isso a um desses pequeninos, foi a mim que não o fizestes!\" Portanto, estes irão para o castigo eterno, enquanto os justos irão para a vida eterna\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to his disciples: `When the Son of Man comes in his glory, escorted by all the angels, then he will take his seat on his throne of glory. All the nations will be assembled before him and he will separate men one from another as the shepherd separates sheep from goats. He will place the sheep on his right hand and the goats on his left. Then the King will say to those on his right hand, \"Come, you whom my Father has blessed, take for your heritage the kingdom prepared for you since the foundation of the world. For I was hungry and you gave me food; I was thirsty and you gave me drink; I was a stranger and you made me welcome; naked and you clothed me, sick and you visited me, in prison and you came to see me.\" Then the virtuous will say to him in reply, \"Lord, when did we see you hungry and feed you; or thirsty and give you drink? When did we see you a stranger and make you welcome; naked and clothe you; sick or in prison and go to see you?\" And the King will answer, \"I tell you solemnly, in so far as you did this to one of the least of these brothers of mine, you did it to me; Next he will say to those on his left hand, \"Go away from me, with your curse upon you, to the eternal fire prepared for the devil and his angels. For I was hungry and you never gave me food; I was thirsty and you never gave me anything to drink; I was a stranger and you never made me welcome, naked and you never clothed me, sick and in prison and you never visited me.\" Then it will be their turn to ask, \"Lord when did we see you hungry or thirsty, a stranger or naked, sick or in prison, and did not come to your help?\" Then he will answer, \"I tell you solemnly, in so far as you neglected to do this to one of the least of these, you neglected to do it to me.\" And they will go away to eternal punishment, and the virtuous to eternal life.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus discípulos:"
+       ],
+       [
+        "«Cuando venga en su gloria el Hijo del hombre, y todos los ángeles con él, se sentará en el trono de su gloria y serán reunidas ante él todas las naciones."
+       ],
+       [
+        "Él separará a unos de otros, como un pastor separa las ovejas de las cabras."
+       ],
+       [
+        "Y pondrá las ovejas a su derecha y las cabras a su izquierda. Entonces dirá el rey a los de su derecha:"
+       ],
+       [
+        "“Venid vosotros, benditos de mi Padre; heredad el reino preparado para vosotros desde la creación del mundo. Porque tuve hambre y me disteis de comer, tuve sed y me disteis de beber, fui forastero y me hospedasteis, estuve desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme”."
+       ],
+       [
+        "Entonces los justos le contestarán:"
+       ],
+       [
+        "“Señor, ¿cuándo te vimos con hambre y te alimentamos, o con sed y te dimos de beber?; ¿cuándo te vimos forastero y te hospedamos, o desnudo y te vestimos?; ¿cuándo te vimos enfermo o en la cárcel y fuimos a verte?”."
+       ],
+       [
+        "Y el rey les dirá:"
+       ],
+       [
+        "“En verdad os digo que cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis”."
+       ],
+       [
+        "Entonces dirá a los de su izquierda:"
+       ],
+       [
+        "“Apartaos de mí, malditos, id al fuego eterno preparado para el diablo y sus ángeles. Porque tuve hambre y no me disteis de comer, tuve sed y no me disteis de beber, fui forastero y no me hospedasteis, estuve desnudo y no me vestisteis, enfermo y en la cárcel y no me visitasteis”."
+       ],
+       [
+        "Entonces también estos contestarán:"
+       ],
+       [
+        "“Señor, ¿cuándo te vimos con hambre o con sed, o forastero o desnudo, o enfermo o en la cárcel, y no te asistimos?»."
+       ],
+       [
+        "Él les replicará:"
+       ],
+       [
+        "“En verdad os digo: lo que no hicisteis con uno de estos, los más pequeños, tampoco lo hicisteis conmigo”."
+       ],
+       [
+        "Y estos irán al castigo eterno y los justos a la vida eterna»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse ai suoi discepoli: «Quando il Figlio dell'uomo verrà nella sua gloria con tutti i suoi angeli, si siederà sul trono della sua gloria. E saranno riunite davanti a lui tutte le genti, ed egli separerà gli uni dagli altri, come il pastore sepàra le pecore dai capri, e porrà le pecore alla sua destra e i capri alla sinistra. Allora il re dirà a quelli che stanno alla sua destra: Venite, benedetti del Padre mio, ricevete in eredità il regno preparato per voi fin dalla fondazione del mondo. Perché io ho avuto fame e mi avete dato da mangiare, ho avuto sete e mi avete dato da bere; ero forestiero e mi avete ospitato, nudo e mi avete vestito, malato e mi avete visitato, carcerato e siete venuti a trovarmi. Allora i giusti gli risponderanno: Signore, quando mai ti abbiamo veduto affamato e ti abbiamo dato da mangiare, assetato e ti abbiamo dato da bere? Quando ti abbiamo visto forestiero e ti abbiamo ospitato, o nudo e ti abbiamo vestito? E quando ti abbiamo visto ammalato o in carcere e siamo venuti a visitarti? Rispondendo, il re dirà loro: In verità vi dico: ogni volta che avete fatto queste cose a uno solo di questi miei fratelli più piccoli, l'avete fatto a me. Poi dirà a quelli posti alla sua sinistra: Via, lontano da me, maledetti, nel fuoco eterno, preparato per il diavolo e per i suoi angeli. Perché ho avuto fame e non mi avete dato da mangiare; ho avuto sete e non mi avete dato da bere; ero forestiero e non mi avete ospitato, nudo e non mi avete vestito, malato e in carcere e non mi avete visitato. Anch'essi allora risponderanno: Signore, quando mai ti abbiamo visto affamato o assetato o forestiero o nudo o malato o in carcere e non ti abbiamo assistito? Ma egli risponderà: In verità vi dico: ogni volta che non avete fatto queste cose a uno di questi miei fratelli più piccoli, non l'avete fatto a me. E se ne andranno, questi al supplizio eterno, e i giusti alla vita eterna»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à ses disciples : \" Quand le Fils de l'homme viendra dans sa gloire, et tous les anges avec lui, alors il siégera sur son trône de gloire. Toutes les nations seront rassemblées devant lui ; il séparera les hommes les uns des autres, comme le berger sépare les brebis des boucs : il placera les brebis à sa droite, et les boucs à gauche."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors le Roi dira à ceux qui seront à sa droite :"
+       ],
+       [
+        "\"Venez, les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde. Car j'avais faim, et vous m'avez donné à manger ; j'avais soif, et vous m'avez donné à boire ; j'étais un étranger, et vous m'avez accueilli ; j'étais nu, et vous m'avez habillé ; j'étais malade, et vous m'avez visité ; j'étais en prison, et vous êtes venus jusqu'à moi !\""
+       ],
+       [
+        "Alors les justes lui répondront :"
+       ],
+       [
+        "\"Seigneur, quand est-ce que nous t'avons vu... ? tu avais donc faim, et nous t'avons nourri ? tu avais soif, et nous t'avons donné à boire ? tu étais un étranger, et nous t'avons accueilli ? tu étais nu, et nous t'avons habillé ? tu étais malade ou en prison... Quand sommes-nous venus jusqu'à toi ?\""
+       ],
+       [
+        "Et le Roi leur répondra :"
+       ],
+       [
+        "\"Amen, je vous le dis : chaque fois que vous l'avez fait à l'un de ces plus petits de mes frères, c'est à moi que vous l'avez fait.\""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors il dira à ceux qui seront à sa gauche :"
+       ],
+       [
+        "\"Allez-vous-en loin de moi, vous les maudits, dans le feu éternel préparé pour le diable et ses anges. Car j'avais faim, et vous ne m'avez pas donné à manger ; j'avais soif, et vous ne m'avez pas donné à boire ; j'étais un étranger, et vous ne m'avez pas accueilli ; j'étais nu, et vous ne m'avez pas habillé ; j'étais malade et en prison, et vous ne m'avez pas visité.\""
+       ],
+       [
+        "Alors ils répondront, eux aussi :"
+       ],
+       [
+        "\"Seigneur, quand t'avons-nous vu avoir faim, avoir soif, être nu, étranger, malade ou en prison, sans nous mettre à ton service ?\""
+       ],
+       [
+        "Il leur répondra :"
+       ],
+       [
+        "\"Amen, je vous le dis : chaque fois que vous ne l'avez pas fait à l'un de ces plus petits, c'est à moi que vous ne l'avez pas fait.\""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ils s'en iront, ceux-ci au châtiment éternel, et les justes, à la vie éternelle. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et ibunt hi in supplícium ætérnum, iusti autem in vitam ætérnam»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Jüngern:"
+       ],
+       [
+        "Wenn der Menschensohn in seiner Herrlichkeit kommt und alle Engel mit ihm, dann wird er sich auf den Thron seiner Herrlichkeit setzen. Und alle Völker werden vor ihm zusammengerufen werden, und er wird sie voneinander scheiden, wie der Hirt die Schafe von den Böcken scheidet. Er wird die Schafe zu seiner Rechten versammeln, die Böcke aber zur Linken."
+       ],
+       [
+        "Dann wird der König denen auf der rechten Seite sagen: Kommt her, die ihr von meinem Vater gesegnet seid, nehmt das Reich in Besitz, das seit der Erschaffung der Welt für euch bestimmt ist. Denn ich war hungrig, und ihr habt mir zu essen gegeben; ich war durstig, und ihr habt mir zu trinken gegeben; ich war fremd und obdachlos, und ihr habt mich aufgenommen; ich war nackt, und ihr habt mir Kleidung gegeben; ich war krank, und ihr habt mich besucht; ich war im Gefängnis, und ihr seid zu mir gekommen."
+       ],
+       [
+        "Dann werden ihm die Gerechten antworten: Herr, wann haben wir dich hungrig gesehen und dir zu essen gegeben, oder durstig und dir zu trinken gegeben? Und wann haben wir dich fremd und obdachlos gesehen und aufgenommen, oder nackt und dir Kleidung gegeben? Und wann haben wir dich krank oder im Gefängnis gesehen und sind zu dir gekommen?"
+       ],
+       [
+        "Darauf wird der König ihnen antworten: Amen, ich sage euch: Was ihr für einen meiner geringsten Brüder getan habt, das habt ihr mir getan."
+       ],
+       [
+        "Dann wird er sich auch an die auf der linken Seite wenden und zu ihnen sagen: Weg von mir, ihr Verfluchten, in das ewige Feuer, das für den Teufel und seine Engel bestimmt ist! Denn ich war hungrig, und ihr habt mir nichts zu essen gegeben; ich war durstig, und ihr habt mir nichts zu trinken gegeben; ich war fremd und obdachlos, und ihr habt mich nicht aufgenommen; ich war nackt, und ihr habt mir keine Kleidung gegeben; ich war krank und im Gefängnis, und ihr habt mich nicht besucht."
+       ],
+       [
+        "Dann werden auch sie antworten: Herr, wann haben wir dich hungrig oder durstig oder obdachlos oder nackt oder krank oder im Gefängnis gesehen und haben dir nicht geholfen?"
+       ],
+       [
+        "arauf wird er ihnen antworten: Amen, ich sage euch: Was ihr für einen dieser Geringsten nicht getan habt, das habt ihr auch mir nicht getan."
+       ],
+       [
+        "Ud sie werden weggehen und die ewige Strafe erhalten, die Gerechten aber das ewige Leben."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "for-the-dead.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "for-the-dead.gospel.4"
+  }
+ ],
+ "title": {
+  "la": "IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM",
+  "pt-BR": "Comemoração de Todos os Fiéis Defuntos",
+  "en-US": "The Commemoration of All the Faithful Departed",
+  "es": "CONMEMORACIÓN DE TODOS LOS FIELES DIFUNTOS",
+  "it": "COMMEMORAZIONE DI TUTTI I FEDELI DEFUNTI",
+  "fr": "COMMÉMORATION DE TOUS LES FIDÈLES DÉFUNTS",
+  "de": "ALLERSEELEN"
+ }
+}

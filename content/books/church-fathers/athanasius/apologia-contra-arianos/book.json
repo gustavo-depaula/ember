@@ -2,13 +2,16 @@
   "id": "athanasius-apologia-contra-arianos",
   "cover": "quarter",
   "name": {
-    "en-US": "Apologia Contra Arianos"
+    "en-US": "Apologia Contra Arianos",
+    "pt-BR": "Apologia contra os arianos"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,13 +24,15 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Part I"
+        "en-US": "Part I",
+        "pt-BR": "Parte I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Part II"
+        "en-US": "Part II",
+        "pt-BR": "Parte II"
       }
     }
   ]

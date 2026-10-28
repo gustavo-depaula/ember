@@ -1,4 +1,3 @@
-import { Platform } from 'react-native'
 import type { LinkPrimitive, Primitive } from '@/content/primitives'
 import type { SourceFetchContext } from '../types'
 import { fetchPage } from './fetchPage'
@@ -22,13 +21,12 @@ function unavailable(lang: Lang, url: string): LinkPrimitive {
 }
 
 // Today's meditation title + lead, for compact surfaces (the Explore featured
-// card). Native only — returns undefined on web or any fetch/parse failure so
+// card). Returns undefined on any fetch/parse failure so
 // the caller can fall back to a static label.
 export async function fetchMeditationSummary(
   appLang: string,
   date: Date,
 ): Promise<{ title?: string; lead?: string } | undefined> {
-  if (Platform.OS === 'web') return undefined
   const lang = narrowLang(appLang)
   try {
     const { title, lead } = parseMeditation(await fetchPage(meditationUrl(lang, date)), lang)
@@ -38,8 +36,8 @@ export async function fetchMeditationSummary(
   }
 }
 
-// Opus Dei's daily meditation, scraped from opusdei.org (native), degrading to a
-// link-out on web or failure. `dateScoped` keys the cache per day.
+// Opus Dei's daily meditation, scraped from opusdei.org, degrading to a
+// link-out on failure. `dateScoped` keys the cache per day.
 export const opusDeiMeditationSource = {
   id: 'producer/opus-dei-meditation',
   version: '2',
@@ -48,7 +46,6 @@ export const opusDeiMeditationSource = {
   async fetch(ctx: SourceFetchContext): Promise<Primitive | Primitive[]> {
     const lang = narrowLang(ctx.prefs.lang)
     const url = meditationUrl(lang, ctx.date)
-    if (Platform.OS === 'web') return unavailable(lang, url)
     try {
       const { title, lead, sections } = parseMeditation(await fetchPage(url), lang)
       const out: Primitive[] = []

@@ -31,9 +31,6 @@ const horasDirs = [
   'Appendix',
   'Regula',
   'Martyrologium',
-  'Martyrologium1570',
-  'Martyrologium1955R',
-  'Martyrologium1960',
 ]
 const missaDirs = ['Tempora', 'Sancti', 'Commune', 'Ordo']
 const tabulaeEntries = ['data.txt', 'Kalendaria', 'Transfer', 'Stransfer', 'Tempora']
@@ -42,9 +39,8 @@ const tabulaeEntries = ['data.txt', 'Kalendaria', 'Transfer', 'Stransfer', 'Temp
 // build_do() in scripts/build-corpus.py — change both together.
 // Plain (non-sectioned) files, by how the Perl engine reads them:
 // psalms via do_read in &psalm, Ordinarium scripts via getordinarium,
-// Tabulae tables via Directorium.pm, Regula chapters via do_read in regula(),
-// Martyrologium day files via do_read in martyrologium() (Mobile.txt is the
-// one sectioned file in those dirs). The predicate lives in the engine
+// Tabulae tables via Directorium.pm, Regula chapters via do_read in regula().
+// The predicate lives in the engine
 // (`isPlainPath`) so this validator, the corpus loader, and the filesystem
 // loader all classify identically.
 

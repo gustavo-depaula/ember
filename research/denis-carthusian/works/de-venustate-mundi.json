@@ -1,0 +1,70 @@
+{
+  "parts": [
+    {
+      "volume": "doctorisecstati10unkngoog",
+      "leaves": [
+        "0237",
+        "0238",
+        "0239",
+        "0240",
+        "0241",
+        "0242",
+        "0243",
+        "0244",
+        "0245",
+        "0246",
+        "0247",
+        "0248",
+        "0249",
+        "0250",
+        "0251",
+        "0252",
+        "0253",
+        "0254",
+        "0255",
+        "0256",
+        "0257",
+        "0258",
+        "0259",
+        "0260",
+        "0261",
+        "0262",
+        "0263",
+        "0264",
+        "0265",
+        "0266",
+        "0267",
+        "0268"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-venustate-mundi",
+  "slug": "de-venustate-mundi",
+  "draft": false,
+  "meta": {
+    "id": "denis-de-venustate-mundi",
+    "cover": "label",
+    "name": {
+      "la": "De venustate mundi et pulchritudine Dei",
+      "en-US": "On the Beauty of the World and of God",
+      "pt-BR": "Sobre a formosura do mundo e a beleza de Deus"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De venustate mundi et pulchritudine Dei.",
+      "en-US": "One of Denis the Carthusian's minor works.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/doctorisecstati10unkngoog",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXIV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  }
+}

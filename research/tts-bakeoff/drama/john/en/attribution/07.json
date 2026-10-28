@@ -1,0 +1,517 @@
+{
+ "pericopes": [
+  1,
+  14,
+  25,
+  32,
+  37,
+  45
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist telling the story."
+  },
+  "brethren-of-jesus": {
+   "name": "The brethren of Jesus",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "His kinsmen, who do not believe in him; urging, half taunting."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; teaching with authority, calm and grave."
+  },
+  "the-jews": {
+   "name": "The Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Jewish authorities and opponents in Jerusalem and Capharnaum; challenging, hostile."
+  },
+  "some-people": {
+   "name": "Some of the multitude",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Those in the crowd who speak well of Jesus."
+  },
+  "other-people": {
+   "name": "Others of the multitude",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Others in the crowd, answering the first group."
+  },
+  "crowd": {
+   "name": "The multitude",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The people who follow Jesus; eager, curious, at times indignant."
+  },
+  "men-of-jerusalem": {
+   "name": "Some of Jerusalem",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Townsmen of Jerusalem, puzzled that he speaks openly."
+  },
+  "objectors": {
+   "name": "Objectors in the multitude",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Those who object that the Christ cannot come from Galilee; sceptical."
+  },
+  "pharisees": {
+   "name": "The Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Pharisees of the council; scornful, accusing."
+  },
+  "ministers": {
+   "name": "The ministers",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Temple officers sent to arrest Jesus; awed."
+  },
+  "nicodemus": {
+   "name": "Nicodemus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "A ruler of the Jews, one of the Pharisees; cautious, fair-minded."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "After these things, Jesus walked in Galilee: for he would not walk in Judea, because the Jews sought to kill him."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Now the Jews feast of tabernacles was at hand."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And his brethren said to, him:"
+   },
+   {
+    "s": "brethren-of-jesus",
+    "t": "Pass from hence and go into Judea, that thy disciples also may see thy works which thou dost."
+   }
+  ],
+  "4": [
+   {
+    "s": "brethren-of-jesus",
+    "t": "For there is no man that doth any thing in secret, and he himself seeketh to be known openly. If thou do these things, manifest thyself to the world."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "For neither did his brethren believe in him."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Then Jesus said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "My time is not yet come; but your time is always ready."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "The world cannot hate you: but me it hateth, because I give testimony of it, that the works thereof are evil,"
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "Go you up to this festival day: but I go not up to this festival day, because my time is not accomplished."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "When he had said these things, he himself stayed in Galilee."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "But after his brethren were gone up, then he also went up to the feast, not openly, but, as it were, in secret."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "The Jews therefore sought him on the festival day and said:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Where is he?"
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And there was much murmuring among the multitude concerning him. For some said:"
+   },
+   {
+    "s": "some-people",
+    "t": "He is a good man."
+   },
+   {
+    "s": "narrator",
+    "t": "And others said:"
+   },
+   {
+    "s": "other-people",
+    "t": "No, but he seduceth the people."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Yet no man spoke openly of him, for fear of the Jews."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Now, about the midst of the feast, Jesus went up into the temple and taught."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And the Jews wondered, saying:"
+   },
+   {
+    "s": "the-jews",
+    "t": "How doth this man know letters, having never learned?"
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered them and said:"
+   },
+   {
+    "s": "jesus",
+    "t": "My doctrine is not mine, but his that sent me."
+   }
+  ],
+  "17": [
+   {
+    "s": "jesus",
+    "t": "If any man will do the will of him, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "He that speaketh of himself seeketh his own glory: but he that seeketh the glory of him that sent him, he is true and there is no injustice in him."
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "Did not Moses give you the law, and yet none of you keepeth the law?"
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "Why seek you to kill me?"
+   },
+   {
+    "s": "narrator",
+    "t": "The multitude answered and said:"
+   },
+   {
+    "s": "crowd",
+    "t": "Thou hast a devil. Who seeketh to kill thee?"
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered and said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "One work I have done: and you all wonder."
+   }
+  ],
+  "22": [
+   {
+    "s": "jesus",
+    "t": "Therefore, Moses gave you circumcision (not because it is of Moses, but of the fathers): and on the sabbath day you circumcise a man."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "If a man receive circumcision on the sabbath day, that the law of Moses may not be broken: are you angry at me, because I have healed the whole man on the sabbath day?"
+   }
+  ],
+  "24": [
+   {
+    "s": "jesus",
+    "t": "Judge not according to the appearance: but judge just judgment."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Some therefore of Jerusalem said:"
+   },
+   {
+    "s": "men-of-jerusalem",
+    "t": "Is not this he whom they seek to kill?"
+   }
+  ],
+  "26": [
+   {
+    "s": "men-of-jerusalem",
+    "t": "And behold, he speaketh openly: and they say nothing to him. Have the rulers known for a truth that this is the Christ?"
+   }
+  ],
+  "27": [
+   {
+    "s": "men-of-jerusalem",
+    "t": "But we know this man, whence he is: but when the Christ cometh, no man knoweth, whence he is."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore cried out in the temple, teaching and saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "You both know me, and you know whence I am. And I am not come of myself: but he that sent me is true, whom you know not."
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "I know him, because I am from him: and he hath sent me."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "They sought therefore to apprehend him: and no man laid hands on him, because his hour was not yet come."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "But of the people many believed in him and said:"
+   },
+   {
+    "s": "crowd",
+    "t": "When the Christ cometh, shall he do more miracles than this man doth?"
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "The Pharisees heard the people murmuring these things concerning him: and the rulers and Pharisees sent ministers to apprehend him."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Yet a little while I am with you: and then I go to him that sent me."
+   }
+  ],
+  "34": [
+   {
+    "s": "jesus",
+    "t": "You shall seek me and shall not find me: and where I am, thither you cannot come."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "The Jews therefore said among themselves:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Whither will he go, that we shall not find him? Will he go unto the dispersed among the Gentiles and teach the Gentiles?"
+   }
+  ],
+  "36": [
+   {
+    "s": "the-jews",
+    "t": "What is this saying that he hath said: You shall seek me and shall not find me? And: Where I am, you cannot come?"
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And on the last, and great day of the festivity, Jesus stood and cried, saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "If any man thirst, let him come to me and drink."
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "He that believeth in me, as the scripture saith: Out of his belly shall flow rivers of living water."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "Now this he said of the Spirit which they should receive who believed in him: for as yet the Spirit was not given, because Jesus was not yet glorified."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "Of that multitude therefore, when they had heard these words of his, some said:"
+   },
+   {
+    "s": "some-people",
+    "t": "This is the prophet indeed."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "Others said:"
+   },
+   {
+    "s": "other-people",
+    "t": "This is the Christ."
+   },
+   {
+    "s": "narrator",
+    "t": "But some said:"
+   },
+   {
+    "s": "objectors",
+    "t": "Doth the Christ come out of Galilee?"
+   }
+  ],
+  "42": [
+   {
+    "s": "objectors",
+    "t": "Doth not the scripture say: That Christ cometh of the seed of David and from Bethlehem the town where David was?"
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "So there arose a dissension among the people because of him."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "And some of them would have apprehended him: but no man laid hands upon him."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "The ministers therefore came to the chief priests and the Pharisees. And they said to them:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Why have you not brought him?",
+    "q": "spoken by the chief priests and the Pharisees together; given to the Pharisees, who carry on the exchange in v. 47"
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "The ministers answered:"
+   },
+   {
+    "s": "ministers",
+    "t": "Never did man speak like this man."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "The Pharisees therefore answered them:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Are you also seduced?"
+   }
+  ],
+  "48": [
+   {
+    "s": "pharisees",
+    "t": "Hath any one of the rulers believed in him, or of the Pharisees?"
+   }
+  ],
+  "49": [
+   {
+    "s": "pharisees",
+    "t": "But this multitude, that knoweth not the law, are accursed."
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "Nicodemus said to them (he that came to him by night, who was one of them):"
+   }
+  ],
+  "51": [
+   {
+    "s": "nicodemus",
+    "t": "Doth our law judge any man, unless it first hear him and know what he doth?"
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "They answered and said to him:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Art thou also a Galilean? Search the scriptures, and see that out of Galilee a prophet riseth not."
+   }
+  ],
+  "53": [
+   {
+    "s": "narrator",
+    "t": "And every man returned to his own house."
+   }
+  ]
+ }
+}

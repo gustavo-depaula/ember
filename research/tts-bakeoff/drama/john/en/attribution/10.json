@@ -1,0 +1,340 @@
+{
+ "pericopes": [
+  1,
+  22,
+  40
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist telling the story."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; calm authority, tender with the afflicted, grave in discourse."
+  },
+  "the-jews": {
+   "name": "The Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Judean authorities and their party; hostile, pressing, sometimes merely onlookers."
+  },
+  "other-jews": {
+   "name": "Others of the Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "A second party among the Jews answering or doubting the first."
+  },
+  "crowd": {
+   "name": "Crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The multitude of pilgrims and hearers; acclaiming, wondering, questioning."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say to you: He that entereth not by the door into the sheepfold but climbeth up another way, the same is a thief and a robber."
+   }
+  ],
+  "2": [
+   {
+    "s": "jesus",
+    "t": "But he that entereth in by the door is the shepherd of the sheep."
+   }
+  ],
+  "3": [
+   {
+    "s": "jesus",
+    "t": "To him the porter openeth: and the sheep hear his voice. And he calleth his own sheep by name and leadeth them out."
+   }
+  ],
+  "4": [
+   {
+    "s": "jesus",
+    "t": "And when he hath let out his own sheep, he goeth before them: and the sheep follow him, because they know his voice."
+   }
+  ],
+  "5": [
+   {
+    "s": "jesus",
+    "t": "But a stranger they follow not, but fly from him, because they know not the voice of strangers."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "This proverb Jesus spoke to them. But they understood not what he spoke."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore said to them again:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say to you, I am the door of the sheep."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "All others, as many as have come, are thieves and robbers: and the sheep heard them not."
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "I am the door. By me, if any man enter in, he shall be saved: and he shall go in and go out, and shall find pastures."
+   }
+  ],
+  "10": [
+   {
+    "s": "jesus",
+    "t": "The thief cometh not, but for to steal and to kill and to destroy. I am come that they may have life and may have it more abundantly."
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "I am the good shepherd. The good shepherd giveth his life for his sheep."
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "But the hireling and he that is not the shepherd, whose own the sheep are not, seeth the wolf coming and leaveth the sheep and flieth: and the wolf casteth and scattereth the sheep,"
+   }
+  ],
+  "13": [
+   {
+    "s": "jesus",
+    "t": "And the hireling flieth, because he is a hireling: and he hath no care for the sheep."
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "I am the good shepherd: and I know mine, and mine know me."
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "As the Father knoweth me, and I know the Father: and I lay down my life for my sheep."
+   }
+  ],
+  "16": [
+   {
+    "s": "jesus",
+    "t": "And other sheep I have that are not of this fold: them also I must bring. And they shall hear my voice: And there shall be one fold and one shepherd."
+   }
+  ],
+  "17": [
+   {
+    "s": "jesus",
+    "t": "Therefore doth the Father love me: because I lay down my life, that I may take it again."
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "No man taketh it away from me: but I lay it down of myself. And I have power to lay it down: and I have power to take it up again. This commandment have I received of my Father."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "A dissension rose again among the Jews for these words."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And many of them said:"
+   },
+   {
+    "s": "the-jews",
+    "t": "He hath a devil and is mad. Why hear you him?"
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Others said:"
+   },
+   {
+    "s": "other-jews",
+    "t": "These are not the words of one that hath a devil. Can a devil open the eyes of the blind?",
+    "q": "the party among the Jews that answers the accusers of v20; second group voice"
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And it was the feast of the dedication at Jerusalem: and it was winter."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And Jesus walked in the temple, in Solomon's porch."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "The Jews therefore came round about him and said to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "How long dost thou hold our souls in suspense? If thou be the Christ, tell us plainly."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered them:"
+   },
+   {
+    "s": "jesus",
+    "t": "I speak to you, and you believe not: the works that I do in the name of my Father, they give testimony of me."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "But you do not believe, because you are not of my sheep."
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "My sheep hear my voice. And I know them: and they follow me."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "And I give them life everlasting: and they shall not perish for ever. And no man shall pluck them out of my hand."
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "That which my Father hath given me is greater than all: and no one can snatch them out of the hand of my Father."
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "I and the Father are one."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "The Jews then took up stones to stone him."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Many good works I have shewed you from my Father. For which of those works do you stone me?"
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "The Jews answered him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "For a good work we stone thee not, but for blasphemy: and because that thou. being a, man, makest thyself God."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Is it not written in your law: I said, you are gods?"
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "If he called them gods to whom the word of God was spoken; and the scripture cannot be broken:"
+   }
+  ],
+  "36": [
+   {
+    "s": "jesus",
+    "t": "Do you say of him whom the Father hath sanctified and sent into the world: Thou blasphemest; because I said: I am the Son of God?"
+   }
+  ],
+  "37": [
+   {
+    "s": "jesus",
+    "t": "If I do not the works of my Father, believe me not."
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "But if I do, though you will not believe me, believe the works: that you may know and believe that the Father is in me and I in the Father."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "They sought therefore to take him: and he escaped out of their hands."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And he went again beyond the Jordan, into that place where John was baptizing first. And there he abode."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "And many resorted to him: and they said:"
+   },
+   {
+    "s": "crowd",
+    "t": "John indeed did no sign."
+   }
+  ],
+  "42": [
+   {
+    "s": "crowd",
+    "t": "But all things whatsoever John said of this man were true.",
+    "q": "taken as the continuation of the people's saying from v41, not narration"
+   },
+   {
+    "s": "narrator",
+    "t": "And many believed n him."
+   }
+  ]
+ }
+}

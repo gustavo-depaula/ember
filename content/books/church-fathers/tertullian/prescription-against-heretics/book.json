@@ -2,13 +2,16 @@
   "id": "tertullian-prescription-against-heretics",
   "cover": "quarter",
   "name": {
-    "en-US": "The Prescription Against Heretics"
+    "en-US": "The Prescription Against Heretics",
+    "pt-BR": "A Prescrição contra os Hereges"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Prescription Against Heretics"
+        "en-US": "The Prescription Against Heretics",
+        "pt-BR": "A Prescrição contra os Hereges"
       }
     }
   ]

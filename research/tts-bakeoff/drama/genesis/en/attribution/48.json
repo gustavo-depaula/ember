@@ -1,0 +1,227 @@
+{
+ "pericopes": [
+  1,
+  8
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story; calm and unhurried."
+  },
+  "jacob": {
+   "name": "Jacob (Israel)",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The aged patriarch, near death; frail but weighty, prophetic when he blesses."
+  },
+  "joseph-the-patriarch": {
+   "name": "Joseph",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Ruler of Egypt under Pharao; capable, tender toward his father and forgiving toward his brothers."
+  },
+  "jacobs-attendant": {
+   "name": "Jacob's attendant",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Unnamed person who announces Joseph's arrival to the sick Jacob; brief and plain."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "After these things, it was told Joseph that his father was sick; and he set out to go to him, taking his two sons Manasses and Ephraim."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And it was told the old man:"
+   },
+   {
+    "s": "jacobs-attendant",
+    "t": "Behold thy son Joseph cometh to thee.",
+    "q": "speaker unnamed in the text (\"it was told the old man\")"
+   },
+   {
+    "s": "narrator",
+    "t": "And being strengthened, he sat on his bed."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And when Joseph was come in to him, he said:"
+   },
+   {
+    "s": "jacob",
+    "t": "God almighty appeared to me at Luza, which is in the land of Chanaan, and he blessed me,"
+   }
+  ],
+  "4": [
+   {
+    "s": "jacob",
+    "t": "And said: I will cause thee to increase and multiply, and I will make of thee a multitude of people: and I will give this land to thee, and to thy seed after thee for an everlasting possession."
+   }
+  ],
+  "5": [
+   {
+    "s": "jacob",
+    "t": "So thy two sons, who were born to thee in the land of Egypt before I came hither to thee, shall be mine: Ephraim and Manasses shall be reputed to me as Ruben and Simeon."
+   }
+  ],
+  "6": [
+   {
+    "s": "jacob",
+    "t": "But the rest whom thou shalt have after them, shall be thine, and shall be called by the name of their brethren in their possessions."
+   }
+  ],
+  "7": [
+   {
+    "s": "jacob",
+    "t": "For, when I came out of Mesopotamia, Rachel died from me in the land of Chanaan in the very journey, and it was spring time: and I was going to Ephrata, and I buried her near the way of Ephrata, which by another name is called Bethlehem."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Then seeing his sons, he said to him:"
+   },
+   {
+    "s": "jacob",
+    "t": "Who are these?"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "He answered:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "They are my sons, whom God hath given me in this place."
+   },
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "jacob",
+    "t": "Bring them to me, that I may bless them."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "For Israel's eyes were dim by reason of his great age, and he could not see clearly. And when they were brought to him, he kissed and embraced them,"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And said to his son:"
+   },
+   {
+    "s": "jacob",
+    "t": "I am not deprived of seeing thee; moreover God hath shewn me thy seed."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And when Joseph had taken them from his father's lap, he bowed down with his face to the ground."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And he set Ephraim on his right hand, that is, towards the left hand of Israel; but Manasses on his left hand, to wit, towards his father's right hand, and brought them near to him."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "But he, stretching forth his right hand, put it upon the head of Ephraim, the younger brother; and the left upon the head of Manasses, who was the elder, changing his hands."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And Jacob blessed the sons of Joseph, and said:"
+   },
+   {
+    "s": "jacob",
+    "t": "God, in whose sight my fathers Abraham and Isaac walked, God that feedeth me from my youth until this day:"
+   }
+  ],
+  "16": [
+   {
+    "s": "jacob",
+    "t": "The angel that delivereth me from all evils, bless these boys: and let my name be called upon them, and the names of my fathers Abraham and Isaac; and may they grow into a multitude upon the earth."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And Joseph seeing that his father had put his right hand upon the head of Ephraim, was much displeased: and taking his father's hand, he tried to lift it from Ephraim's head, and to remove it to the head of Manasses."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And he said to his father:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "It should not be so, my father; for this is the firstborn, put thy right hand upon his head."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "But he refusing, said:"
+   },
+   {
+    "s": "jacob",
+    "t": "I know, my son, I know: and this also shall become a people, and shall be multiplied; but his younger brother shall be greater than he; and his seed shall grow into nations."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And he blessed them at that time, saying:"
+   },
+   {
+    "s": "jacob",
+    "t": "In thee shall Israel be blessed, and it shall be said: God do to thee as to Ephraim, and as to Manasses."
+   },
+   {
+    "s": "narrator",
+    "t": "And he set Ephraim before Manasses."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And he said to Joseph, his son:"
+   },
+   {
+    "s": "jacob",
+    "t": "Behold I die, and God will be with you, and will bring you back into the land of your fathers."
+   }
+  ],
+  "22": [
+   {
+    "s": "jacob",
+    "t": "I give thee a portion above thy brethren, which I took out of the hand of the Amorrhite with my sword and bow."
+   }
+  ]
+ }
+}

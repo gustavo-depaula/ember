@@ -231,3 +231,5 @@ Foi lá que se concentraram os defeitos:
   tradução em português quando o texto original já as parafraseava; onde o
   latim aparece apenas como citação erudita de Outler em nota, foi omitido
   junto com a nota.
+
+- Notas da fonte não localizadas no português de `book-four-chapter-06.md` (o trecho a que se referem não foi encontrado): [^1].

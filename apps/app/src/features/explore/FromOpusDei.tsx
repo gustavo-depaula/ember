@@ -1,16 +1,13 @@
 /**
  * "From Opus Dei" — the recent-articles row on Explore, fed by opusdei.org's
  * Atom feed (`opusDeiContent.ts`) and rendered in Ember's voice. Cards carry the
- * article's `og:image` when it resolves (native, second fetch) and fall back to a
- * solid jewel tone otherwise. Links open in the in-app browser (native) / a new
- * tab (web). The feed isn't CORS-enabled, so on web the row degrades to a single
- * link-out to opusdei.org.
+ * article's `og:image` when it resolves (a second fetch) and fall back to a
+ * solid jewel tone otherwise. Links open in the in-app browser.
  */
 
 import { useQuery } from '@tanstack/react-query'
 import * as WebBrowser from 'expo-web-browser'
 import { useTranslation } from 'react-i18next'
-import { Platform } from 'react-native'
 import { useTheme, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
@@ -30,12 +27,10 @@ export function FromOpusDei() {
   const { t } = useTranslation()
   const theme = useTheme()
   const lang = opusDeiLang(i18n.language)
-  const native = Platform.OS !== 'web'
 
   const { data: articles } = useQuery({
     queryKey: ['opus-dei-news', lang],
     queryFn: () => fetchOpusDeiArticles(lang),
-    enabled: native,
     staleTime: 15 * 60 * 1000,
     gcTime: 60 * 60 * 1000,
     retry: 1,
@@ -44,17 +39,13 @@ export function FromOpusDei() {
   const { data: images } = useQuery({
     queryKey: ['opus-dei-images', lang, urls],
     queryFn: () => fetchOpusDeiImages(urls),
-    enabled: native && urls.length > 0,
+    enabled: urls.length > 0,
     staleTime: 15 * 60 * 1000,
     gcTime: 6 * 60 * 60 * 1000,
     retry: 0,
   })
 
   const open = (url: string) => {
-    if (Platform.OS === 'web') {
-      window.open(url, '_blank', 'noopener')
-      return
-    }
     WebBrowser.openBrowserAsync(url, {
       presentationStyle: WebBrowser.WebBrowserPresentationStyle.PAGE_SHEET,
       controlsColor: theme.accent?.val,
@@ -79,7 +70,7 @@ export function FromOpusDei() {
     </AnimatedPressable>
   )
 
-  // Web (no feed) or empty/failed fetch: a single link-out keeps the row honest.
+  // Empty or failed fetch: a single link-out keeps the row honest.
   if (!articles || articles.length === 0) {
     return (
       <YStack gap="$sm">

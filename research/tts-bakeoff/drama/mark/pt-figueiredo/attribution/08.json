@@ -1,0 +1,367 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; brisk storytelling."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Compassionate for the multitude, weary with the Pharisees, pressing the dull disciples, severe with Peter."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Puzzled and slow to understand; answer plainly when questioned."
+  },
+  "blind-man-of-bethsaida": {
+   "name": "The blind man of Bethsaida",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Half-healed, hesitant and amazed as sight returns."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Spokesman of the twelve; firm confession of faith."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Naqueles dias, como o povo houvesse concorrido outra vez em grande número, e não tivessem que comer, tendo chamado Jesus aos seus discípulos, lhes disse:"
+   }
+  ],
+  "2": [
+   {
+    "s": "jesus",
+    "t": "Tenho compaixão deste povo, porque, olhai, há já três dias que andam aturadamente comigo, e não têm que comer:"
+   }
+  ],
+  "3": [
+   {
+    "s": "jesus",
+    "t": "E se os despedir em jejum para suas casas, virão a desfalecer no caminho: Porque alguns deles vieram de longe."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "E seus discípulos lhe responderam:"
+   },
+   {
+    "s": "disciples",
+    "t": "De donde poderá alguém fartá-los de pão aqui nesta solidão?"
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "E Jesus lhes perguntou:"
+   },
+   {
+    "s": "jesus",
+    "t": "Quantos pães tendes vós?"
+   },
+   {
+    "s": "narrator",
+    "t": "Responderam eles:"
+   },
+   {
+    "s": "disciples",
+    "t": "Sete."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "E mandou à gente que se recostasse sobre a terra. E tomando os sete pães, dando graças, os partiu, e deu a seus discípulos, para que os distribuíssem, e eles os distribuíram pelo povo."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Tinham também uns poucos de peixinhos; e ele os abençoou, e mandou que lhos pusessem:"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Comeram pois, e ficaram fartos, e dos pedaços que tinham sobejado, levantaram sete cestos."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Eram porém os que comeram perto de quatro mil, e Jesus os despediu."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "E entrando logo na barca em companhia de seus discípulos, passou ao território de Dalmanuta."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "E saíram os fariseus, e se puseram a disputar com ele, pedindo-lhe que lhes fizesse ver algum prodígio do Céu, tudo para o tentarem."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Porém Jesus arrancando do íntimo do coração um suspiro, disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Por que pede esta geração um prodígio? Em verdade vos digo, que a esta geração se não concederá prodígio."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "E deixando-os, tornou outra vez a embarcar, e passou à outra banda."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Ora, os discípulos esqueceram-se de tomar pão, e não tinham consigo na barca senão um único."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "E pôs-lhes Jesus um preceito, em que dizia:"
+   },
+   {
+    "s": "jesus",
+    "t": "Vede bem, e acautelai-vos do fermento dos fariseus, e do fermento de Herodes."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "E discorriam entre si, dizendo:"
+   },
+   {
+    "s": "disciples",
+    "t": "É porque não temos pão."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "O que conhecendo Jesus, disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "Que estais vós considerando que não tendes pão? é possível que ainda não no conheçais nem compreendais? ainda tendes cego o vosso coração?"
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "Tendo olhos não vedes? e tendo ouvidos não ouvis? e não vos lembrais,"
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "quando parti cinco pães para cinco mil, quantos cestos levantastes cheios de pedaços?"
+   },
+   {
+    "s": "narrator",
+    "t": "Responderam eles:"
+   },
+   {
+    "s": "disciples",
+    "t": "Doze."
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "E quando eu parti sete pães para quatro mil, quantos cestos levantastes de pedaços?"
+   },
+   {
+    "s": "narrator",
+    "t": "eles lhe responderam:"
+   },
+   {
+    "s": "disciples",
+    "t": "Sete."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "E Jesus lhes dizia:"
+   },
+   {
+    "s": "jesus",
+    "t": "Pois como não entendeis ainda?"
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "E vieram a Betsaida, e lhe trouxeram um cego, e lhe rogavam que o tocasse."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "E tomando ao cego pela mão, o tirou para fora da aldeia, e cuspindo-lhe nos olhos, tendo-lhe imposto as suas mãos, lhe perguntou se via alguma coisa."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "E levantando ele os olhos, disse:"
+   },
+   {
+    "s": "blind-man-of-bethsaida",
+    "t": "Vejo os homens que andam semeando as árvores."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Depois tornou-lhe Jesus a pôr as mãos sobre os olhos, e começou ele a ver, e ficou de todo curado, de sorte que via distintamente todos os objetos."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "E Jesus o despediu para sua casa, dizendo-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "Vai para tua casa: E se entrares na aldeia não o digas a pessoa alguma."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "E saiu Jesus com os seus discípulos pelas aldeias de Cesareia de Filipe: E perguntava pelo caminho a seus discípulos, dizendo-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "Quem dizem os homens que sou eu?"
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Eles lhe responderam, dizendo:"
+   },
+   {
+    "s": "disciples",
+    "t": "Uns dizem que João Batista, outros que Elias, e outros como um dos profetas."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Então lhes disse Jesus:"
+   },
+   {
+    "s": "jesus",
+    "t": "E vós outros quem dizeis que sou eu?"
+   },
+   {
+    "s": "narrator",
+    "t": "Respondendo Pedro, lhe disse:"
+   },
+   {
+    "s": "peter",
+    "t": "Tu és o Cristo."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "E Jesus lhes proibiu com ameaças, que a ninguém dissessem isto dele."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "E começou a declarar-lhes que importava que o Filho do homem padecesse muito, e que fosse rejeitado pelos anciãos, e pelos príncipes dos sacerdotes, e pelos escribas, e que fosse entregue à morte: E que ressuscitasse depois de três dias."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "E tudo isto lhes declarava ele abertamente. Sobre o que Pedro, tomando-o de parte, começou a repreendê-lo."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Mas Jesus, virando-se, e olhando para seus discípulos, ameaçou a Pedro, dizendo:"
+   },
+   {
+    "s": "jesus",
+    "t": "Tira-te de diante de mim, satanás, que não tens gosto das coisas de Deus, mas sim das dos homens."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "E chamando assim o povo com seus discípulos, disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "Se alguém me quer seguir, negue-se a si mesmo: E tome a sua cruz, e siga-me."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "Porque o que quiser salvar a sua vida, perdê-la-á: Mas o que perder a sua vida por amor de mim, e do Evangelho, salvá-la-á:"
+   }
+  ],
+  "36": [
+   {
+    "s": "jesus",
+    "t": "Pois de que aproveitará ao homem, se ganhar o mundo inteiro e perder a sua alma?"
+   }
+  ],
+  "37": [
+   {
+    "s": "jesus",
+    "t": "Ou que dará o homem em troco pela sua alma?"
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "Porque se nesta geração adúltera, e pecadora, se envergonhar alguém de mim, e das minhas palavras: Também o Filho do homem se envergonhará dele, quando vier na glória de seu Pai acompanhado dos santos anjos."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "Dizia-lhes mais:"
+   },
+   {
+    "s": "jesus",
+    "t": "Em verdade vos afirmo que dos que aqui se acham, alguns há que não hão de gostar a morte, enquanto não virem chegar o reino de Deus no seu poder."
+   }
+  ]
+ }
+}

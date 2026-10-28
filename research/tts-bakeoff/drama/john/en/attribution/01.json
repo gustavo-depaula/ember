@@ -1,0 +1,536 @@
+{
+ "pericopes": [
+  1,
+  19,
+  29,
+  35,
+  43
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist: narration, speech introductions, glosses and his own reflections."
+  },
+  "john-the-baptist": {
+   "name": "John the Baptist",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The forerunner; firm and self-effacing, pointing away from himself to Christ."
+  },
+  "priests-and-levites": {
+   "name": "Priests and Levites",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Envoys sent from Jerusalem, of the Pharisees; pressing, official questioning of John."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; calm authority, patient with those who misunderstand him."
+  },
+  "disciples": {
+   "name": "Disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The disciples speaking together."
+  },
+  "andrew": {
+   "name": "Andrew",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Simon Peter's brother; excited at having found the Messias."
+  },
+  "philip": {
+   "name": "Philip",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Of Bethsaida; eager, inviting Nathanael to come and see."
+  },
+  "nathanael": {
+   "name": "Nathanael",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Sceptical at first, then a sudden full confession of faith."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "In the beginning was the Word: and the Word was with God: and the Word was God."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "The same was in the beginning with God."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "All things were made by him: and without him was made nothing that was made."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "In him was life: and the life was the light of men."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And the light shineth in darkness: and the darkness did not comprehend it."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "There was a man sent from God, whose name was John."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "This man came for a witness, to give testimony of the light, that all men might believe through him."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "He was not the light, but was to give testimony of the light."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "That was the true light, which enlighteneth every man that cometh into this world."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "He was in the world: and the world was made by him: and the world knew him not."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "He came unto his own: and his own received him not."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "But as many as received him, he gave them power to be made the sons of God, to them that believe in his name."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Who are born, not of blood, nor of the will of the flesh, nor of the will of man, but of God."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And the Word was made flesh and dwelt among us (and we saw his glory, the glory as it were of the only begotten of the Father), full of grace and truth."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "John beareth witness of him and crieth out, saying:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "This was he of whom I spoke: He that shall come after me is preferred before me: because he was before me."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And of his fulness we all have received: and grace for grace."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "For the law was given by Moses: grace and truth came by Jesus Christ."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "No man hath seen God at any time: the only begotten Son who is in the Bosom of the Father, he hath declared him."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And this is the testimony of John, when the Jews sent from Jerusalem priests and Levites to him, to ask him:"
+   },
+   {
+    "s": "priests-and-levites",
+    "t": "Who art thou?"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And he confessed and did not deny: and he confessed:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "I am not the Christ."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And they asked him:"
+   },
+   {
+    "s": "priests-and-levites",
+    "t": "What then? Art thou Elias?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "I am not."
+   },
+   {
+    "s": "priests-and-levites",
+    "t": "Art thou the prophet?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he answered:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "No."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "They said therefore unto him:"
+   },
+   {
+    "s": "priests-and-levites",
+    "t": "Who art thou, that we may give an answer to them that sent us? What sayest thou of thyself?"
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "He said:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "I am the voice of one crying in the wilderness, make straight the way of the Lord,"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "as said the prophet Isaias.",
+    "q": "Taken as John naming his own source (so the Greek and Vulgate are usually read), not a narrator gloss."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And they that were sent were of the Pharisees."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And they asked him and said to him:"
+   },
+   {
+    "s": "priests-and-levites",
+    "t": "Why then dost thou baptize, if thou be not Christ, nor Elias, nor the prophet?"
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "John answered them, saying:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "I baptize with water: but there hath stood one in the midst of you, whom you know not."
+   }
+  ],
+  "27": [
+   {
+    "s": "john-the-baptist",
+    "t": "The same is he that shall come after me, who is preferred before me: the latchet of whose shoe I am not worthy to loose."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "These things were done in Bethania, beyond the Jordan, where John was baptizing."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "The next day, John saw Jesus coming to him; and he saith:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "Behold the Lamb of God. Behold him who taketh away the sin of the world."
+   }
+  ],
+  "30": [
+   {
+    "s": "john-the-baptist",
+    "t": "This is he of whom I said: After me there cometh a man, who is preferred before me: because he was before me."
+   }
+  ],
+  "31": [
+   {
+    "s": "john-the-baptist",
+    "t": "And I knew him not: but that he may be made manifest in Israel, therefore am I come baptizing with water."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And John gave testimony, saying:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "I saw the Spirit coming down, as a dove from heaven; and he remained upon him."
+   }
+  ],
+  "33": [
+   {
+    "s": "john-the-baptist",
+    "t": "And I knew him not: but he who sent me to baptize with water said to me: He upon whom thou shalt see the Spirit descending and remaining upon him, he it is that baptizeth with the Holy Ghost."
+   }
+  ],
+  "34": [
+   {
+    "s": "john-the-baptist",
+    "t": "And I saw: and I gave testimony that this is the Son of God."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "The next day again John stood and two of his disciples."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And beholding Jesus walking, he saith:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "Behold the Lamb of God."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And the two disciples heard him speak: and they followed Jesus."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And Jesus turning and seeing them following him, saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "What seek you?"
+   },
+   {
+    "s": "narrator",
+    "t": "Who said to him:"
+   },
+   {
+    "s": "disciples",
+    "t": "Rabbi"
+   },
+   {
+    "s": "narrator",
+    "t": "(which is to say, being interpreted, Master),"
+   },
+   {
+    "s": "disciples",
+    "t": "where dwellest thou?"
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "He saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Come and see."
+   },
+   {
+    "s": "narrator",
+    "t": "They came and saw where he abode: and they stayed with him that day. Now it was about the tenth hour."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And Andrew, the brother of Simon Peter, was one of the two who had heard of John and followed him."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "He findeth first his brother Simon and saith to him:"
+   },
+   {
+    "s": "andrew",
+    "t": "We have found the Messias,"
+   },
+   {
+    "s": "narrator",
+    "t": "which is, being interpreted, the Christ."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "And he brought him to Jesus. And Jesus looking upon him, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thou art Simon the son of Jona. Thou shalt be called Cephas,"
+   },
+   {
+    "s": "narrator",
+    "t": "which is interpreted Peter."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "On the following day, he would go forth into Galilee: and he findeth Philip, And Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "follow me."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "Now Philip was of Bethsaida, the city of Andrew and Peter."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "Philip findeth Nathanael and saith to him:"
+   },
+   {
+    "s": "philip",
+    "t": "We have found him of whom Moses, in the law and the prophets did write, Jesus the son of Joseph of Nazareth."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "And Nathanael said to him:"
+   },
+   {
+    "s": "nathanael",
+    "t": "Can any thing of good come from Nazareth?"
+   },
+   {
+    "s": "narrator",
+    "t": "Philip saith to him:"
+   },
+   {
+    "s": "philip",
+    "t": "Come and see."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "Jesus saw Nathanael coming to him and he saith of him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Behold an Israelite indeed, in whom there is no guile."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "Nathanael saith to him:"
+   },
+   {
+    "s": "nathanael",
+    "t": "Whence knowest thou me?"
+   },
+   {
+    "s": "narrator",
+    "t": "Jesus answered and said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Before that Philip called thee, when thou wast under the fig tree, I saw thee."
+   }
+  ],
+  "49": [
+   {
+    "s": "narrator",
+    "t": "Nathanael answered him and said:"
+   },
+   {
+    "s": "nathanael",
+    "t": "Rabbi: Thou art the Son of God. Thou art the King of Israel."
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered and said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Because I said unto thee, I saw thee under the fig tree, thou believest: greater things than these shalt thou see."
+   }
+  ],
+  "51": [
+   {
+    "s": "narrator",
+    "t": "And he saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say to you, you shall see the heaven opened and the angels of God ascending and descending upon the Son of man."
+   }
+  ]
+ }
+}

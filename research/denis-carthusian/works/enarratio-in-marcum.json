@@ -1,0 +1,84 @@
+{
+  "parts": [
+    {
+      "volume": "operaomniainunum11deni",
+      "leaves": [
+        "0368",
+        "0369",
+        "0370",
+        "0371",
+        "0372",
+        "0373",
+        "0374",
+        "0375",
+        "0376",
+        "0377",
+        "0378",
+        "0379",
+        "0380",
+        "0381",
+        "0382",
+        "0383",
+        "0384",
+        "0385",
+        "0386",
+        "0387",
+        "0388",
+        "0389",
+        "0390",
+        "0391",
+        "0392",
+        "0393",
+        "0394",
+        "0395",
+        "0396",
+        "0397",
+        "0398",
+        "0399",
+        "0400",
+        "0401",
+        "0402",
+        "0403",
+        "0404",
+        "0405"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/commentaries/enarratio-in-marcum",
+  "slug": "enarratio-in-marcum",
+  "draft": false,
+  "meta": {
+    "id": "denis-enarratio-in-marcum",
+    "cover": "label",
+    "name": {
+      "la": "Enarratio in Evangelium secundum Marcum",
+      "en-US": "Commentary on Mark",
+      "pt-BR": "Comentário a Marcos"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Enarratio in Evangelium secundum Marcum.",
+      "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum11deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XI (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  },
+  "toc_group": {
+    "pattern": "CAP\\.?\\s*([IVXLCUH]+)\\b",
+    "label": {
+      "la": "Caput {n}",
+      "en-US": "Chapter {n}",
+      "pt-BR": "Capítulo {n}"
+    }
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "id": "denis-de-laudibus-trinitatis",
+  "cover": "label",
+  "name": {
+    "la": "De laudibus sanctissimæ et individuæ Trinitatis, per modum horarum",
+    "en-US": "Hours in Praise of the Most Holy Trinity",
+    "pt-BR": "Horas em louvor da Santíssima Trindade"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "De laudibus sanctissimæ et individuæ Trinitatis, per modum horarum.",
+    "en-US": "One of Denis the Carthusian's minor works.",
+    "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisecstati02unkngoog",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Initium",
+        "en-US": "Opening",
+        "pt-BR": "Abertura"
+      }
+    },
+    {
+      "id": "g001",
+      "title": {
+        "la": "Psalmus: 94",
+        "en-US": "Psalm: 94",
+        "pt-BR": "Salmo: 94"
+      },
+      "children": [
+        {
+          "id": "c002",
+          "title": {
+            "la": "Psalmus: 94",
+            "en-US": "Psalm: 94",
+            "pt-BR": "Salmo: 94"
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Laus Dei",
+            "en-US": "Laus Dei",
+            "pt-BR": "Laus Dei"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g002",
+      "title": {
+        "la": "Psalmus: 144",
+        "en-US": "Psalm: 144",
+        "pt-BR": "Salmo: 144"
+      },
+      "children": [
+        {
+          "id": "c004",
+          "title": {
+            "la": "Psalmus: 144",
+            "en-US": "Psalm: 144",
+            "pt-BR": "Salmo: 144"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g003",
+      "title": {
+        "la": "Psalmus: 68",
+        "en-US": "Psalm: 68",
+        "pt-BR": "Salmo: 68"
+      },
+      "children": [
+        {
+          "id": "c005",
+          "title": {
+            "la": "Psalmus: 68",
+            "en-US": "Psalm: 68",
+            "pt-BR": "Salmo: 68"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g004",
+      "title": {
+        "la": "Psalmus: 135",
+        "en-US": "Psalm: 135",
+        "pt-BR": "Salmo: 135"
+      },
+      "children": [
+        {
+          "id": "c006",
+          "title": {
+            "la": "Psalmus: 135",
+            "en-US": "Psalm: 135",
+            "pt-BR": "Salmo: 135"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g005",
+      "title": {
+        "la": "Psalmus: 26",
+        "en-US": "Psalm: 26",
+        "pt-BR": "Salmo: 26"
+      },
+      "children": [
+        {
+          "id": "c007",
+          "title": {
+            "la": "Psalmus: 26",
+            "en-US": "Psalm: 26",
+            "pt-BR": "Salmo: 26"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g006",
+      "title": {
+        "la": "Psalmus: 6",
+        "en-US": "Psalm: 6",
+        "pt-BR": "Salmo: 6"
+      },
+      "children": [
+        {
+          "id": "c008",
+          "title": {
+            "la": "Psalmus: 6",
+            "en-US": "Psalm: 6",
+            "pt-BR": "Salmo: 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g007",
+      "title": {
+        "la": "Psalmus: 32",
+        "en-US": "Psalm: 32",
+        "pt-BR": "Salmo: 32"
+      },
+      "children": [
+        {
+          "id": "c009",
+          "title": {
+            "la": "Psalmus: 32",
+            "en-US": "Psalm: 32",
+            "pt-BR": "Salmo: 32"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g008",
+      "title": {
+        "la": "Capitulum",
+        "en-US": "Chapter",
+        "pt-BR": "Capítulo"
+      },
+      "children": [
+        {
+          "id": "c010",
+          "title": {
+            "la": "Capitulum",
+            "en-US": "Chapter",
+            "pt-BR": "Capítulo"
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Laus Dei",
+            "en-US": "Laus Dei",
+            "pt-BR": "Laus Dei"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g009",
+      "title": {
+        "la": "Psalmus: 41",
+        "en-US": "Psalm: 41",
+        "pt-BR": "Salmo: 41"
+      },
+      "children": [
+        {
+          "id": "c012",
+          "title": {
+            "la": "Psalmus: 41",
+            "en-US": "Psalm: 41",
+            "pt-BR": "Salmo: 41"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g010",
+      "title": {
+        "la": "Psalmus: 118",
+        "en-US": "Psalm: 118",
+        "pt-BR": "Salmo: 118"
+      },
+      "children": [
+        {
+          "id": "c013",
+          "title": {
+            "la": "Psalmus: 118",
+            "en-US": "Psalm: 118",
+            "pt-BR": "Salmo: 118"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g011",
+      "title": {
+        "la": "Psalmus: 139",
+        "en-US": "Psalm: 139",
+        "pt-BR": "Salmo: 139"
+      },
+      "children": [
+        {
+          "id": "c014",
+          "title": {
+            "la": "Psalmus: 139",
+            "en-US": "Psalm: 139",
+            "pt-BR": "Salmo: 139"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g012",
+      "title": {
+        "la": "Capitulum",
+        "en-US": "Chapter",
+        "pt-BR": "Capítulo"
+      },
+      "children": [
+        {
+          "id": "c015",
+          "title": {
+            "la": "Capitulum",
+            "en-US": "Chapter",
+            "pt-BR": "Capítulo"
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Laus Dei",
+            "en-US": "Laus Dei",
+            "pt-BR": "Laus Dei"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g013",
+      "title": {
+        "la": "Psalmus: 83",
+        "en-US": "Psalm: 83",
+        "pt-BR": "Salmo: 83"
+      },
+      "children": [
+        {
+          "id": "c017",
+          "title": {
+            "la": "Psalmus: 83",
+            "en-US": "Psalm: 83",
+            "pt-BR": "Salmo: 83"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g014",
+      "title": {
+        "la": "Psalmus: 141",
+        "en-US": "Psalm: 141",
+        "pt-BR": "Salmo: 141"
+      },
+      "children": [
+        {
+          "id": "c018",
+          "title": {
+            "la": "Psalmus: 141",
+            "en-US": "Psalm: 141",
+            "pt-BR": "Salmo: 141"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g015",
+      "title": {
+        "la": "Psalmus: 12",
+        "en-US": "Psalm: 12",
+        "pt-BR": "Salmo: 12"
+      },
+      "children": [
+        {
+          "id": "c019",
+          "title": {
+            "la": "Psalmus: 12",
+            "en-US": "Psalm: 12",
+            "pt-BR": "Salmo: 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g016",
+      "title": {
+        "la": "Capitulum",
+        "en-US": "Chapter",
+        "pt-BR": "Capítulo"
+      },
+      "children": [
+        {
+          "id": "c020",
+          "title": {
+            "la": "Capitulum",
+            "en-US": "Chapter",
+            "pt-BR": "Capítulo"
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Laus Dei",
+            "en-US": "Laus Dei",
+            "pt-BR": "Laus Dei"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g017",
+      "title": {
+        "la": "Psalmus: 70",
+        "en-US": "Psalm: 70",
+        "pt-BR": "Salmo: 70"
+      },
+      "children": [
+        {
+          "id": "c022",
+          "title": {
+            "la": "Psalmus: 70",
+            "en-US": "Psalm: 70",
+            "pt-BR": "Salmo: 70"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g018",
+      "title": {
+        "la": "Psalmus: 148",
+        "en-US": "Psalm: 148",
+        "pt-BR": "Salmo: 148"
+      },
+      "children": [
+        {
+          "id": "c023",
+          "title": {
+            "la": "Psalmus: 148",
+            "en-US": "Psalm: 148",
+            "pt-BR": "Salmo: 148"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g019",
+      "title": {
+        "la": "Psalmus: 103",
+        "en-US": "Psalm: 103",
+        "pt-BR": "Salmo: 103"
+      },
+      "children": [
+        {
+          "id": "c024",
+          "title": {
+            "la": "Psalmus: 103",
+            "en-US": "Psalm: 103",
+            "pt-BR": "Salmo: 103"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g020",
+      "title": {
+        "la": "Capitulum",
+        "en-US": "Chapter",
+        "pt-BR": "Capítulo"
+      },
+      "children": [
+        {
+          "id": "c025",
+          "title": {
+            "la": "Capitulum",
+            "en-US": "Chapter",
+            "pt-BR": "Capítulo"
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Laus Dei",
+            "en-US": "Laus Dei",
+            "pt-BR": "Laus Dei"
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Laus Dei",
+            "en-US": "Laus Dei",
+            "pt-BR": "Laus Dei"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g021",
+      "title": {
+        "la": "Psalmus: 85",
+        "en-US": "Psalm: 85",
+        "pt-BR": "Salmo: 85"
+      },
+      "children": [
+        {
+          "id": "c028",
+          "title": {
+            "la": "Psalmus: 85",
+            "en-US": "Psalm: 85",
+            "pt-BR": "Salmo: 85"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g022",
+      "title": {
+        "la": "Psalmus: 85",
+        "en-US": "Psalm: 85",
+        "pt-BR": "Salmo: 85"
+      },
+      "children": [
+        {
+          "id": "c029",
+          "title": {
+            "la": "Psalmus: 85",
+            "en-US": "Psalm: 85",
+            "pt-BR": "Salmo: 85"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g023",
+      "title": {
+        "la": "Psalmus: 85",
+        "en-US": "Psalm: 85",
+        "pt-BR": "Salmo: 85"
+      },
+      "children": [
+        {
+          "id": "c030",
+          "title": {
+            "la": "Psalmus: 85",
+            "en-US": "Psalm: 85",
+            "pt-BR": "Salmo: 85"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g024",
+      "title": {
+        "la": "Capitulum",
+        "en-US": "Chapter",
+        "pt-BR": "Capítulo"
+      },
+      "children": [
+        {
+          "id": "c031",
+          "title": {
+            "la": "Capitulum",
+            "en-US": "Chapter",
+            "pt-BR": "Capítulo"
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Laus atque confessio Dei",
+            "en-US": "Laus atque confessio Dei",
+            "pt-BR": "Laus atque confessio Dei"
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Laus Dei",
+            "en-US": "Laus Dei",
+            "pt-BR": "Laus Dei"
+          }
+        }
+      ]
+    }
+  ]
+}

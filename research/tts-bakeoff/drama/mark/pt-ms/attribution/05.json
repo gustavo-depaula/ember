@@ -1,0 +1,383 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; brisk, vivid storytelling."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Commanding with the demons, tender with the woman and with Jairus' daughter."
+  },
+  "legion": {
+   "name": "Legion",
+   "kind": "spirit",
+   "gender": "male",
+   "age": "adult",
+   "note": "The many demons speaking through the Gerasene demoniac; shrieking, then cringing and begging."
+  },
+  "jairus": {
+   "name": "Jairus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A ruler of the synagogue, desperate father pleading for his dying daughter."
+  },
+  "woman-with-issue-of-blood": {
+   "name": "Woman with the issue of blood",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "Ill for twelve years; a hushed, hopeful resolve spoken to herself."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Incredulous, a little exasperated, in the pressing crowd."
+  },
+  "messengers": {
+   "name": "Messengers from Jairus' house",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Bearers of bad news; blunt and resigned."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Chegaram à outra banda do mar, ao território dos gerasenos."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Ao sair Jesus da barca, foi logo ter com ele, saindo dos sepulcros, um homem possesso de um espírito imundo."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Tinha o seu domicílio nos sepulcros, e nem com cadeias o podia alguém ter preso."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Tendo sido atado por muitas vezes com grilhões e com cadeias, tinha quebrado as cadeias e despedaçado os grilhões, e ninguém o podia domar."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "E sempre, dia e noite, andava pelos sepulcros e pelos montes, gritando e ferindo-se com pedras."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Vendo, porém, a Jesus de longe, correu e prostrou-se diante dele,"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "e clamou em alta voz:"
+   },
+   {
+    "s": "legion",
+    "t": "\"Que tens tu comigo, Jesus, Filho de Deus Altíssimo? Eu te conjuro por Deus que me não atormentes.\""
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Porque Jesus dizia-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Espírito imundo sai desse homem.\""
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Depois perguntou-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Que nome é o teu?\""
+   },
+   {
+    "s": "narrator",
+    "t": "Ele respondeu:"
+   },
+   {
+    "s": "legion",
+    "t": "\"O meu nome é Legião, porque somos muitos.\""
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "E suplicava-lhe instantemente que o não expulsasse daquele pais."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Andava ali pastando ao redor do monte uma grande vara de porcos."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Os espíritos imundos suplicaram-lhe:"
+   },
+   {
+    "s": "legion",
+    "t": "\"Manda-nos para os porcos, para nos metermos neles.\""
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Jesus deu-lhes essa permissão. Então os espíritos imundos saíram e entraram nos porcos, e a vara, que era de cerca de dois mil, precipitou-se por um despinhadeiro no mar, onde se afogaram."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Os que andavam apascentando fugiram e foram espalhar a noticia pela cidade e pelos campos. E o povo foi ver o que tinha sucedido."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Foram ter com Jesus, e viram o que tinha sido vexado do demônio sentado, vestido e são do juízo, ele, que tinha estado possesso de uma legião inteira; e tiveram medo."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Os que tinham visto contaram-lhes o que tinha acontecido ao endemoninhado e aos porcos."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Então começaram a rogar a Jesus que se retirasse do território deles."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Quando Jesus subia para a barca, começou o que fora vexado do demônio a pedir-lhe que lhe permitisse acompanhá-lo."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Mas Jesus não o permitiu, antes lhe disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Vai para tua casa, para os teus, e anuncia-lhes quão grandes coisas o Senhor te fez, e como teve piedade de ti.\""
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Ele retirou-se e começou a publicar pela Decápole quão grandes coisas lhe linha feito Jesus; e todos se admiravam."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Tendo passado Jesus novamente para a outra banda na barca, concorreu a ele muita gente, e ele estava junto do mar."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Chegou um dos chefes da sinagoga, chamado Jairo, o qual, vendo-o, lançou-se a seus pés,"
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "e suplicava-lhe com instância:"
+   },
+   {
+    "s": "jairus",
+    "t": "\"Minha filha está nas últimas; vem, impõe sobre ela a mão, para que seja salva, e viva.\""
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Jesus foi com ele, e uma grande multidão o seguia e o apertava."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Então uma mulher, que há doze anos padecia um fluxo de sangue,"
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "que tinha sofrido muito de muitos médicos, e tinha gastado tudo quanto possuía, sem ter sentido melhoras, antes cada vez se achava pior,"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "tendo ouvido falar de Jesus, foi por detrás, entre a turba, e tocou o seu vestido."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Porque dizia:"
+   },
+   {
+    "s": "woman-with-issue-of-blood",
+    "t": "\"Se eu tocar, ainda que seja só o seu vestido, ficarei curada.\"",
+    "q": "said within herself (inner speech), voiced as her own words"
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Imediatamente parou o fluxo de sangue, e sentiu no seu corpo estar curada do mal."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "Jesus, conhecendo logo em si mesmo a virtude que saíra dele, voltado para a multidão, disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Quem tocou os meus vestidos?\""
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Os seus discípulos responderam:"
+   },
+   {
+    "s": "disciples",
+    "t": "\"Tu vês que a multidão te comprime, e perguntas: Quem me tocou?\""
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "E Jesus olhava em roda para ver a que tinha feito isto."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Então a mulher, que sabia o que se tinha passado nela, cheia de medo, e tremendo, foi prostrar-se diante dele, e disse-lhe toda a verdade."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Jesus disse-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Filha, a tua fé te salvou; vai em paz, e fica curada do teu mal.\""
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Ainda ele falava, quando chegaram de casa do chefe da sinagoga, dizendo:"
+   },
+   {
+    "s": "messengers",
+    "t": "\"Tua filha morreu; para que incomodar mais o Mestre?\""
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "Porém, Jesus, tendo ouvido o que eles diziam, disse ao príncipe da sinagoga:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Não temas; crê sòmente.\""
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "E não permitiu que ninguém o acompanhasse, senão Pedro, Tiago e João, irmão de Tiago."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Chegando a casa do príncipe da sinagoga, viu Jesus o alvoroço, os que estavam chorando e fazendo grandes prantos."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "Tendo entrado, disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Por que vos perturbais e chorais? A menina não está morta, mas dorme.\""
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "E zombavam dele. Mas ele, tendo feito sair todos, tomou o pai e a mãe da menina, e os que o acompanhavam, e entrou onde a menina estava deitada."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "Tomando a mão da menina, disse-Ihe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Talitha koum,"
+   },
+   {
+    "s": "narrator",
+    "t": "que quer dizer: Menina, eu te mando, levanta-te.\"",
+    "q": "the evangelist's translation gloss given to narrator; only the Aramaic words are Jesus; in this translation the gloss sits inside the quotation marks, so the closing quote falls in the narrator span"
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "Imediatamente se levantou a menina, e andava; pois tinha já doze anos. Ficaram cheios de grande espanto."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "Jesus ordenou-lhes rigorosamente que ninguém o soubesse. Depois disse que dessem de comer à menina."
+   }
+  ]
+ }
+}

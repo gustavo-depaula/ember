@@ -1,0 +1,2311 @@
+{
+ "id": "sanctorale.04-28.louis-grignion-de-montfort",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 28 aprilis"
+       ],
+       [
+        "S. Ludovici Maríæ Grignion de Montfort, presbyteri"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "28 de Abril"
+       ],
+       [
+        "São Luís Maria Grignion de Montfort, presbítero"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "April 28"
+       ],
+       [
+        "St. Louis Marie Grignion de Montfort"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "28 de abril"
+       ],
+       [
+        "San Luis María Grignon de Monfort"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "28 aprile"
+       ],
+       [
+        "San Luigi Maria da Montfort, sacerdote"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "28 avril"
+       ],
+       [
+        "Saint Louis-Marie Grignion de Montfort, prêtre"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "28. April"
+       ],
+       [
+        "Hl. Ludwig Maria Grignion de Montfort, Priester"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Para los misioneros: [Pro missionariis]"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Placuit Deo per stultitiam prædicationis salvos facere credentes."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum crucis pereúntibus quidem stultítia est; his autem, qui salvi fiunt, id est nobis, virtus Dei est."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Scriptum est enim: «Perdam sapiéntiam sapiéntium et prudéntiam prudéntium reprobábo». Ubi sápiens? Ubi scriba? Ubi conquisítor huius sǽculi? Nonne stultam fecit Deus sapiéntiam huius mundi?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nam quia in Dei sapiéntia non cognóvit mundus per sapiéntiam Deum, plácuit Deo per stultítiam prædicatiónis salvos fácere credéntes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quóniam et Iudæi signa petunt, et Græci sapiéntiam quærunt, nos autem prædicámus Christum crucifíxum, Iudæis quidem scándalum, géntibus autem stultítiam; ipsis autem vocátis, Iudæis atque Græcis, Christum Dei virtútem et Dei sapiéntiam; quia quod stultum est Dei, sapiéntius est homínibus, et, quod infírmum est Dei, fórtius est homínibus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus houve por bem salvar os que creem por meio da insensatez da pregação."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: A pregação a respeito da cruz é uma insensatez para os que se perdem, mas para os que se salvam, para nós, ela é poder de Deus. Com efeito, está escrito: “Destruirei a sabedoria dos sábios e frustrarei a perspicácia dos inteligentes”. Onde está o sábio? Onde o mestre da Lei? Onde o questionador deste mundo? Acaso Deus não mostrou a insensatez da sabedoria do mundo? De fato, na manifestação da sabedoria de Deus, o mundo não chegou a conhecer Deus por meio da sabedoria; por isso, Deus houve por bem salvar os que creem por meio da insensatez da pregação. Os judeus pedem sinais milagrosos, os gregos procuram sabedoria; nós, porém, pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus. Pois o que é dito insensatez de Deus é mais sábio do que os homens, e o que é dito fraqueza de Deus é mais forte do que os homens."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first letter of St. Paul to the Corinthians"
+       ]
+      ],
+      "cite": "1:18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The language of the cross may be illogical to those who are not on the way to salvation, but those of us who are on the way see it as God's power to save. As scripture says: I shall destroy the wisdom of the wise and bring to nothing all the learning of the learned. Where are the philosophers now? Where are the scribes? Where are any of our thinkers today? Do you see now how God has shown up the foolishness of human wisdom? If it was God's wisdom that human wisdom should not know God, it was because God wanted to save those who have faith through the foolishness of the message that we preach. And so, while the Jews demand miracles and the Greeks look for wisdom, here are we preaching a crucified Christ; to the Jews an obstacle that they cannot get over, to the pagans madness, but to those who have been called, whether they are Jews or Greeks, a Christ who is the power and the wisdom of God. For God's foolishness is wiser than human wisdom, and God's weakness is stronger than human strength."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quiso Dios valerse de la necedad de la predicación, para salvar a los creyentes"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "El mensaje de la cruz es necedad para los que se pierden; pero para los que se salvan, para nosotros, es fuerza de Dios. Pues está escrito:"
+       ],
+       [
+        "«Destruiré la sabiduría de los sabios, frustraré la sagacidad de los sagaces»."
+       ],
+       [
+        "¿Dónde está el sabio? ¿Dónde está el docto? ¿Dónde está el sofista de este tiempo? ¿No ha convertido Dios en necedad la sabiduría del mundo?"
+       ],
+       [
+        "Y puesto que, en la sabiduría de Dios, el mundo no conoció a Dios por el camino de la sabiduría, quiso Dios valerse de la necedad de la predicación para salvar a los que creen."
+       ],
+       [
+        "Pues los judíos exigen signos, los griegos buscan sabiduría; pero nosotros predicamos a Cristo crucificado: escándalo para los judíos, necedad para los gentiles; pero para los llamados — judíos o griegos—, un Cristo que es fuerza de Dios y sabiduría de Dios."
+       ],
+       [
+        "Pues lo necio de Dios es más sabio que los hombres; y lo débil de Dios es más fuerte que los hombres."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "È piaciuto a Dio salvare i credenti con la stoltezza della predicazione."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, la parola della croce è stoltezza per quelli che si perdono, ma per quelli che sì salvano, ossia per noi, è potenza di Dio. Sta scritto infatti:"
+       ],
+       [
+        "«Distruggerò la sapienza dei sapienti e annullerò l'intelligenza degli intelligenti»."
+       ],
+       [
+        "Dov'è il sapiente? Dov'è il dotto? Dov'è il sottile ragionatore di questo mondo? Dio non ha forse dimostrato stolta la sapienza del mondo? Poiché infatti, nel disegno sapiente di Dio, il mondo, con tutta la sua sapienza, non ha conosciuto Dio, è piaciuto a Dio salvare i credenti con la stoltezza della predicazione."
+       ],
+       [
+        "Mentre i Giudei chiedono segni e i Greci cercano sapienza, noi invece annunciamo Cristo crocifisso: scandalo per i Giudei e stoltezza per i pagani; ma per coloro che sono chiamati, sia Giudei che Greci, Cristo è potenza di Dio e sapienza di Dio. Infatti ciò che è stoltezza di Dio è più sapiente degli uomini, e ciò che è debolezza di Dio è più forte degli uomini."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, le langage de la croix est folie pour ceux qui vont à leur perte, mais pour ceux qui vont vers leur salut, pour nous, il est puissance de Dieu. L'Écriture dit en effet : Je mènerai à sa perte la sagesse des sages, et l'intelligence des intelligents, je la rejetterai. Où est-il, le sage ? Où est-il, le scribe ? Où est-il, le raisonneur d'ici-bas ? La sagesse du monde, Dieu ne l'a-t-il pas rendue folle ? Puisque, en effet, par une disposition de la sagesse de Dieu, le monde, avec toute sa sagesse, n'a pas su reconnaître Dieu, il a plu à Dieu de sauver les croyants par cette folie qu'est la proclamation de l'Évangile."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alors que les Juifs réclament des signes miraculeux, et que les Grecs recherchent une sagesse, nous, nous proclamons un Messie crucifié, scandale pour les Juifs, folie pour les nations païennes. Mais pour ceux que Dieu appelle, qu'ils soient Juifs ou Grecs, ce Messie, ce Christ, est puissance de Dieu et sagesse de Dieu. Car ce qui est folie de Dieu est plus sage que les hommes, et ce qui est faiblesse de Dieu est plus fort que les hommes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "1, 18-25",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Das Wort vom Kreuz ist denen, die verlorengehen, Torheit; uns aber, die gerettet werden, ist es Gottes Kraft."
+       ],
+       [
+        "Es heißt nämlich in der Schrift: Ich lasse die Weisheit der Weisen vergehen und die Klugheit der Klugen verschwinden. Wo ist ein Weiser? Wo ein Schriftgelehrter? Wo ein Wortführer in dieser Welt? Hat Gott nicht die Weisheit der Welt als Torheit entlarvt?"
+       ],
+       [
+        "Denn da die Welt angesichts der Weisheit Gottes auf dem Weg ihrer Weisheit Gott nicht erkannte, beschloss Gott, alle, die glauben, durch die Torheit der Verkündigung zu retten."
+       ],
+       [
+        "Die Juden fordern Zeichen, die Griechen suchen Weisheit. Wir dagegen verkündigen Christus als den Gekreuzigten: für Juden ein empörendes Ärgernis, für Heiden eine Torheit, für die Berufenen aber, Juden wie Griechen, Christus, Gottes Kraft und Gottes Weisheit. Denn das Törichte an Gott ist weiser als die Menschen, und das Schwache an Gott ist stärker als die Menschen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 39(40), 2 e 4ab. 7. 8-9. 10 (R.: 8a e 9a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 39, 2 and 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a and 9a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 39, 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dal Salmo 39 (40)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R.: vgl. 8a. 9a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here I am, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exspéctans exspectávi Dóminum,"
+       ],
+       [
+        "et inténdit mihi."
+       ],
+       [
+        "Et immísit in os meum cánticum novum,"
+       ],
+       [
+        "carmen Deo nostro."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esperando, esperei no Senhor, e inclinando-se, ouviu meu clamor. Canto novo ele pôs em meus lábios, um poema em louvor ao Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I waited, I waited for the Lord and he stooped down to me. He put a new song into my mouth, praise of our God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo esperaba con ansia al Señor;"
+       ],
+       [
+        "él se inclinó y escuchó mi grito."
+       ],
+       [
+        "Me puso en la boca un cántico nuevo,"
+       ],
+       [
+        "un himno a nuestro Dios."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ho sperato, ho sperato nel Signore,"
+       ],
+       [
+        "ed egli su di me si è chinato,"
+       ],
+       [
+        "ha dato ascolto al mio grido."
+       ],
+       [
+        "Mi ha messo sulla bocca un canto nuovo,"
+       ],
+       [
+        "una lode al nostro Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "D'un grand espoir j'espérais le Seigneur : *"
+       ],
+       [
+        "il s'est penché vers moi."
+       ],
+       [
+        "En ma bouche il a mis un chant nouveau,"
+       ],
+       [
+        "une louange à notre Dieu. *"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich hoffte, ja ich hoffte auf den Herrn."
+       ],
+       [
+        "Da neigte er sich mir zu und hörte mein Schreien."
+       ],
+       [
+        "Er legte mir ein neues Lied in den Mund,"
+       ],
+       [
+        "einen Lobgesang auf ihn, unsern Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrifícium et oblatiónem noluísti,"
+       ],
+       [
+        "aures autem fodísti mihi."
+       ],
+       [
+        "Holocáustum et pro peccáto non postulásti,"
+       ],
+       [
+        "tunc dixi: «Ecce vénio»."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrifício e oblação não quisestes, mas abristes, Senhor, meus ouvidos; Não pedistes ofertas nem vítimas, holocaustos por nossos pecados, e então eu vos disse: “Eis que venho\"!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You do not ask for sacrifice and offerings, but an open ear. You do not ask for holocaust and victim. Instead, here am I."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tú no quieres sacrificios ni ofrendas,"
+       ],
+       [
+        "y, en cambio, me abriste el oído;"
+       ],
+       [
+        "no pides holocaustos ni sacrificios expiatorios;"
+       ],
+       [
+        "entonces yo digo: «Aquí estoy»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrificio e offerta non gradisci,"
+       ],
+       [
+        "gli orecchi mi hai aperto,"
+       ],
+       [
+        "non hai chiesto olocausto né sacrificio per il peccato."
+       ],
+       [
+        "Allora ho detto: «Ecco, io vengo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu ne voulais ni offrande ni sacrifice,"
+       ],
+       [
+        "tu as ouvert mes oreilles ; *"
+       ],
+       [
+        "tu ne demandais ni holocauste ni victime,"
+       ],
+       [
+        "alors j'ai dit : \" Voici, je viens."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "An Schlacht- und Speiseopfern hast du kein Gefallen,"
+       ],
+       [
+        "Brand- und Sündopfer forderst du nicht."
+       ],
+       [
+        "Doch das Gehör hast du mir eingepflanzt;"
+       ],
+       [
+        "darum sage ich: Ja, ich komme."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«In volúmine libri scriptum est de me"
+       ],
+       [
+        "fácere voluntátem tuam."
+       ],
+       [
+        "Deus meus, vólui,"
+       ],
+       [
+        "et lex tua in præcórdiis meis»."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sobre mim está escrito no livro: ”Com prazer faço a vossa vontade, guardo em meu coração vossa lei\"!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In the scroll of the book it stands written that I should do your will. My God, I delight in your law in the depth of my heart."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«—Como está escrito en mi libro— para hacer tu voluntad."
+       ],
+       [
+        "Dios mío, lo quiero, y llevo tu ley en las entrañas»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nel rotolo del libro su di me è scritto"
+       ],
+       [
+        "di fare la tua volontà:"
+       ],
+       [
+        "mio Dio, questo io desidero;"
+       ],
+       [
+        "la tua legge è nel mio intimo»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\" Dans le livre, est écrit pour moi"
+       ],
+       [
+        "ce que tu veux que je fasse. *"
+       ],
+       [
+        "Mon Dieu, voilà ce que j'aime :"
+       ],
+       [
+        "ta loi me tient aux entrailles. \""
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In dieser Schriftrolle steht, was an mir geschehen ist."
+       ],
+       [
+        "Deinen Willen zu tun, mein Gott, macht mir Freude,"
+       ],
+       [
+        "deine Weisung trag‘ ich im Herzen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Annuntiávi iustítiam tuam in ecclésia magna;"
+       ],
+       [
+        "ecce lábia mea non prohibébo, Dómine, tu scisti."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Boas-novas de vossa justiça anunciei numa grande assembleia; vós sabeis: não fechei os meus lábios!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Your justice I have proclaim in the great assembly. My lips I have not sealed; you know it, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He proclamado tu justicia"
+       ],
+       [
+        "ante la gran asamblea;"
+       ],
+       [
+        "no he cerrado los labios, Señor, tú lo sabes."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ho annunciato la tua giustizia"
+       ],
+       [
+        "nella grande assemblea; vedi:"
+       ],
+       [
+        "non tengo chiuse le labbra,"
+       ],
+       [
+        "Signore, tu lo sai."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "J'annonce la justice"
+       ],
+       [
+        "dans la grande assemblée ;"
+       ],
+       [
+        "vois, je ne retiens pas mes lèvres,"
+       ],
+       [
+        "Seigneur, tu le sais."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gerechtigkeit verkünde ich in großer Gemeinde,"
+       ],
+       [
+        "meine Lippen verschließe ich nicht; Herr, du weißt es."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.3"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Euntes docete omnes gentes."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ide e fazei discípulos meus todos os povos."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "28:16-20",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Id y haced discípulos de todos los pueblos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo evangelio según san Mateo"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Andate e fate discepoli tutti i popoli."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "28, 16-20",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Undecim discípuli abiérunt in Galilæam, in montem ubi constitúerat illis Iesus, et vidéntes eum adoravérunt; quidam autem dubitavérunt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et accédens Iesus locútus est eis dicens: «Data est mihi omnis potéstas in cælo et in terra. Eúntes ergo docéte omnes gentes, baptizántes eos in nómine Patris et Fílii et Spíritus Sancti, docéntes eos serváre ómnia, quæcúmque mandávi vobis. Et ecce ego vobíscum sum ómnibus diébus usque ad consummatiónem sǽculi»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, os onze discípulos foram para a Galileia, ao monte que Jesus lhes tinha indicado. Quando viram Jesus, prostraram-se diante dele. Ainda assim alguns duvidaram. Então Jesus aproximou-se e falou: \"Toda autoridade me foi dada no céu e sobre a terra. Portanto, ide e fazei discípulos meus todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo, e ensinando-os a observar tudo o que vos ordenei! Eis que estarei convosco todos os dias, até o fim do mundo\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The eleven disciples set out for Galilee, to the mountain where Jesus had arranged to meet them. When they saw him they fell down before him, though some hesitated. Jesus came up and spoke to them. He said, 'All authority in heaven and on earth has been given to me. Go, therefore, make disciples of all the nations; baptise them in the name of the Father and of the Son and of the Holy Spirit, and teach them to observe all the commands I gave you. And know that I am with you always; yes, to the end of time.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, los once discípulos se fueron a Galilea, al monte que Jesús les había indicado."
+       ],
+       [
+        "Al verlo, ellos se postraron, pero algunos dudaron. Acercándose a ellos, Jesús les dijo:"
+       ],
+       [
+        "«Se me ha dado todo poder en el cielo y en la tierra. Id, pues, y haced discípulos a todos los pueblos, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo; enseñándoles a guardar todo lo que os he mandado."
+       ],
+       [
+        "Y sabed que yo estoy con vosotros todos los días, hasta el final de los tiempos»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, gli undici discepoli andarono in Galilea, sul monte che Gesù aveva loro indicato."
+       ],
+       [
+        "Quando lo videro, si prostrarono. Essi però dubitarono. Gesù si avvicinò e disse loro: «A me è stato dato ogni potere in cielo e sulla terra. Andate dunque e fate discepoli tutti i popoli, battezzandoli nel nome del Padre e del Figlio e dello Spirito Santo, insegnando loro a osservare tutto dò che vi ho comandato. Ed ecco, io sono con voi tutti i giorni, fino alla fine del mondo»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, les onze disciples s'en allèrent en Galilée, à la montagne"
+       ],
+       [
+        "où Jésus leur avait ordonné de se rendre. Quand ils le virent, ils se"
+       ],
+       [
+        "prosternèrent, mais certains eurent des doutes. Jésus s'approcha d'eux et"
+       ],
+       [
+        "leur adressa ces paroles :"
+       ],
+       [
+        "\" Tout pouvoir m'a été donné au ciel et sur la terre. Allez ! De toutes les nations faites des disciples : baptisez-les au nom du Père, et du Fils, et du Saint-Esprit, apprenez-leur à observer tout ce que je vous ai commandé. Et moi, je suis avec vous tous les jours jusqu'à la fin du monde. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit"
+       ],
+       [
+        "gingen die elf Jünger nach Galiläa auf den Berg, den Jesus ihnen genannt hatte. Und als sie Jesus sahen, fielen sie vor ihm nieder. Einige aber hatten Zweifel."
+       ],
+       [
+        "Da trat Jesus auf sie zu und sagte zu ihnen: Mir ist alle Macht gegeben im Himmel und auf der Erde. Darum geht zu allen Völkern, und macht alle Menschen zu meinen Jüngern; tauft sie auf den Namen des Vaters und des Sohnes und des Heiligen Geistes, und lehrt sie, alles zu befolgen, was ich euch geboten habe. Seid gewiss: Ich bin bei euch alle Tage bis zum Ende der Welt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.4"
+  }
+ ],
+ "title": {
+  "la": "S. Ludovici Maríæ Grignion de Montfort, presbyteri",
+  "pt-BR": "São Luís Maria Grignion de Montfort, presbítero",
+  "en-US": "Saint Louis Grignion de Montfort, Priest",
+  "es": "San Luis María Grignon de Monfort",
+  "it": "San Luigi Maria da Montfort, sacerdote",
+  "fr": "Saint Louis-Marie Grignion de Montfort, prêtre",
+  "de": "Hl. Ludwig Maria Grignion de Montfort, Priester"
+ }
+}

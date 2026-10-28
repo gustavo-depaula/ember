@@ -1,0 +1,154 @@
+{
+ "id": "sanctorale.dedication-of-churches.france",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Solemnidad"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de noviembre"
+       ],
+       [
+        "San Fulano"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Mémoire facultative en France"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne d'ouverture"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière d'ouverture (Collecte)"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière sur les offrandes"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antienne de la communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prière après la communion"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "title": {
+  "*": "San Fulano"
+ }
+}

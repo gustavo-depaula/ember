@@ -27,7 +27,7 @@ export const GET: APIRoute = ({ props, site }) => {
   // The page that presents the app is published beside this build, not by it.
   const landing =
     (props as { file: SitemapFile }).file.name === 'pages'
-      ? `<url><loc>${abs('/app/')}</loc></url>`
+      ? ['/app/', '/pt/app/'].map((path) => `<url><loc>${abs(path)}</loc></url>`).join('')
       : ''
   return new Response(
     `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${landing}${urls}</urlset>`,

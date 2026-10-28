@@ -1,0 +1,369 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Mark; brisk, plain storytelling, including his own Scripture citations."
+  },
+  "john-the-baptist": {
+   "name": "John the Baptist",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Desert prophet preaching penance; rough, urgent, humble about the one to come."
+  },
+  "god-the-father": {
+   "name": "God the Father",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The voice from heaven at the baptism; solemn and loving."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth, about thirty; calm authority, teaching, commanding and healing."
+  },
+  "unclean-spirit": {
+   "name": "Unclean spirit",
+   "kind": "spirit",
+   "gender": "male",
+   "age": "adult",
+   "note": "Demon(s) crying out through the possessed on recognising Jesus; shrieking, terrified."
+  },
+  "crowd": {
+   "name": "Crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The people gathered around Jesus in Capharnaum; amazed, or relaying a message to him."
+  },
+  "disciples": {
+   "name": "Disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus' followers speaking together (Simon and his companions; the men in the boat); eager or frightened."
+  },
+  "leper": {
+   "name": "Leper",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A leper kneeling before Jesus; beseeching, trusting."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Princípio do Evangelho de Jesus Cristo, Filho de Deus."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Conforme está escrito no profeta Isaías: Eis que envio o meu anjo ante a tua presença, o qual preparará o teu caminho."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Apareceu João Batista no deserto, pregando o batismo de penitência, para remissão dos pecados."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "E ia ter com ele toda a região da Judeia e todos os de Jerusalém, e eram baptizados por ele no rio Jordão, confessando os seus pecados."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "João andava vestido de pêlo de camelo, trazia uma cinta de couro em volta dos rins, alimentava-se de gafanhotos e de mel silvestre. E pregava, dizendo:"
+   }
+  ],
+  "7": [
+   {
+    "s": "john-the-baptist",
+    "t": "\"Vem após de mim quem é mais forte do que eu, ao qual eu não sou digno de desatar, prostrado em terra, a correia doa sapatos."
+   }
+  ],
+  "8": [
+   {
+    "s": "john-the-baptist",
+    "t": "Eu tenho-vos baptizado em água, ele, porém, baptizar-vos-á no Espírito Santo.\""
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Ora aconteceu naqueles dias que Jesus veio de Nazaré da Galileia, e foi baptizado por João no Jordão."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "No momento de sair da água, viu os céus abertos, e o Espírito Santo que descia sobre ele em forma de pomba;"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "e ouviu-se dos céus uma voz:"
+   },
+   {
+    "s": "god-the-father",
+    "t": "\"Tu és o meu Filho amado, em ti pus as minhas complacências.\""
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Imediamente o Espírito o impeliu para o deserto."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "E permaneceu no deserto quarenta dias, sendo tentado por Satanás. Vivia entre os animais selvagens, e os anjos o serviam."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Depois que João foi preso, foi Jesus para a Galileia, pregando o Evangelho de Deus,"
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "e dizendo:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Está completo o tempo e aproxima-se o reino de Deus; fazei penitência, crede no Evangelho."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Passando ao longo do mar da Galileia, viu Simão e André, seu irmão, que lançavam as redes ao mar, pois eram pescadores."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Jesus disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Segui-me, e eu vos farei pescadores de homens.\""
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Imediatamente, deixadas as redes, o seguiram."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Tendo passado um pouco adiante dali, viu Tiago, filho de Zebedeu, e João, seu irmão, que estavam também numa barca consertando as redes."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Chamou-os logo. Eles, tendo deixado na barca seu pai Zebedeu com os jornaleiros, seguiram-no."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Depois foram a Cafarnaum; e Jesus tendo entrado no sábado na sinagoga, ensinava."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Os ouvintes ficavam admirados com a sua doutrina, porque os ensinava, como quem tem autoridade, e não como os escribas."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Na sinagoga estava um homem possesso do espírito imundo, o qual começou a vociferar:"
+   }
+  ],
+  "24": [
+   {
+    "s": "unclean-spirit",
+    "t": "\"Que tens tu que ver connosco, ó Jesus Nazareno? Vieste para nos perder? Sei quem és, o Santo de Deus.\""
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Mas Jesus o ameaçou, dizendo:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Cala-te, e sai desse homem!\""
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Então o espírito imundo, agitando-o violentamente, e dando um grande grito, saiu dele."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Ficaram todos tão admirados, que se interrogavam uns aos outros:"
+   },
+   {
+    "s": "crowd",
+    "t": "\"Que é isto? Que nova doutrina é esta? Ele manda com autoridade até aos espíritos imundos, e obedecem-lhe.\""
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "E divulgou-se logo a sua fama por toda a terra da Galileia."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Logo que saíram da sinagoga, foram a casa de Simão e de André, com Tiago e João."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "A sogra de Simão estava de cama com febre. Falaram-lhe logo dela."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Jesus, aproximando-se e tomando-a pela mão, levantou-a. Imediatamente a deixou a febre, e ela pôs-se a servi-los."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "De tarde, sendo já sol-posto, traziam-lhe todos os enfermos e possessos,"
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "e toda a cidade se tinha juntado diante da porta."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Curou muitos que se achavam oprimidos com várias doenças, expeliu muitos demônios, e não lhes permitia dizer que o conheciam."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Levantando-se muito antes de amanhecer, saiu, e foi a um lugar solitário, e lá fazia oração."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "Simão e os seus companheiros foram procurá-lo."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "Tendo-o encontrado, disseram-lhe:"
+   },
+   {
+    "s": "disciples",
+    "t": "\"Todos te procuram.\"",
+    "q": "Speakers are \"Simon, and they that were with him\"; labelled as the group, though Simon may be the spokesman"
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Ele respondeu:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Vamos para outra parte, para as aldeias vizinhas, a fim de que eu também lá pregue, pois para isso é que vim.\""
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "E andava pregando nas sinagogas, por toda a Galileia, e expelia os demônios."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "Foi ter com ele um leproso, fazendo-lhe suas súplicas, e, pondo-se de joelhos, disse-lhe:"
+   },
+   {
+    "s": "leper",
+    "t": "Se queres, podes limpar-me."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "Jesus, compadecido dele, estendeu a mão e, tocando-o, disse-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Quero, sê limpo.\""
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "Imediatamente desapareceu dele a lepra e ficou limpo."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "E logo o mandou retirar, dizendo-lhe com tom severo:"
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "\"Guarda-te de o dizer a alguém, mas vai, mostra-te ao sacerdote, e oferece pela purificação o que Moisés ordenou, para lhes servir de testemunho."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "Ele, porém, retirando-se começou a contar e a publicar o sucedido, de sorte que Jesus já não podia entrar descobertamente numa cidade, mas ficava fora nos lugares desertos, e de todas as partes iam ter com ele."
+   }
+  ]
+ }
+}

@@ -1,16 +1,16 @@
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { useEffect } from 'react'
+import { lazy, Suspense, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import { ScrollView } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { YStack } from 'tamagui'
 
-import { Typography } from '@/components'
 import { createSheet, NativeSheet } from '@/components/NativeSheet'
 import { getManifest } from '@/content/resolver'
 import type { ProgramConfig } from '@/content/types'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
+import { EndingHead } from '@/features/practices/components/ProgramEnding'
 import { useStableToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 
@@ -20,6 +20,13 @@ import { DayStars, dayWindow } from './DayStars'
 import { FootLink, MissedDays } from './MissedDays'
 
 const sheet = createSheet()
+
+// Loaded when the sheet shows: the card's envelope brings the saints feature with it.
+const CardEnvelope = lazy(() =>
+  import('@/features/practices/components/ProgramCardEnvelope').then((m) => ({
+    default: m.CardEnvelope,
+  })),
+)
 
 // The day the sheet last rose: it warns once a day, not on every return to Today.
 const shownOnKey = 'missed-days-shown-on'
@@ -91,23 +98,17 @@ function MissedProgram({
   const dates = useProgramDayDates(practiceId, program)
   if (!progress) return null
 
+  const cards = [getManifest(practiceId)?.holyCard ?? []].flat()
   const states = computeAllDayStates(progress)
   const count = states.filter((s) => s.isMissed).length || progress.missedDays
 
   return (
-    <YStack>
-      <Typography
-        variant="label"
-        fontSize="$1"
-        tone="muted"
-        textTransform="uppercase"
-        letterSpacing={1.5}
-      >
-        {name}
-      </Typography>
-      <Typography variant="screen-title" fontSize="$5" paddingTop="$xs">
-        {t('program.missedTitle', { count })}
-      </Typography>
+    <YStack gap="$md">
+      <EndingHead
+        name={name}
+        title={t('program.missedTitle', { count })}
+        lede={t('program.ending.unbroken')}
+      />
       <DayStars
         days={dayWindow(progress.programDay, progress.totalDays).map((i) => ({
           state: states[i],
@@ -115,6 +116,9 @@ function MissedProgram({
         }))}
       />
       <MissedDays practiceId={practiceId} program={program} />
+      <Suspense fallback={null}>
+        <CardEnvelope practiceId={practiceId} cards={cards} won={false} />
+      </Suspense>
       <YStack alignItems="center">
         <FootLink
           label={t('program.openProgram')}

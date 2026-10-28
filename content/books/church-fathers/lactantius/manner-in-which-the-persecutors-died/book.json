@@ -2,13 +2,16 @@
   "id": "lactantius-manner-in-which-the-persecutors-died",
   "cover": "quarter",
   "name": {
-    "en-US": "Of the Manner In Which the Persecutors Died"
+    "en-US": "Of the Manner In Which the Persecutors Died",
+    "pt-BR": "Da Morte dos Perseguidores"
   },
   "author": {
-    "en-US": "Lactantius"
+    "en-US": "Lactantius",
+    "pt-BR": "Lactâncio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Of the Manner In Which the Persecutors Died"
+        "en-US": "Of the Manner In Which the Persecutors Died",
+        "pt-BR": "Da Morte dos Perseguidores"
       }
     }
   ]

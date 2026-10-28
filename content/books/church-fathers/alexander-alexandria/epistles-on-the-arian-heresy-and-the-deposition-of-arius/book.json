@@ -2,13 +2,16 @@
   "id": "alexander-alexandria-epistles-on-the-arian-heresy-and-the-deposition-of-arius",
   "cover": "quarter",
   "name": {
-    "en-US": "Epistles on the Arian Heresy and the Deposition of Arius"
+    "en-US": "Epistles on the Arian Heresy and the Deposition of Arius",
+    "pt-BR": "Epístolas sobre a Heresia Ariana e a Deposição de Ário"
   },
   "author": {
-    "en-US": "Alexander of Alexandria"
+    "en-US": "Alexander of Alexandria",
+    "pt-BR": "Alexandre de Alexandria"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Epistles on the Arian Heresy and the Deposition of Arius"
+        "en-US": "Epistles on the Arian Heresy and the Deposition of Arius",
+        "pt-BR": "Epístolas sobre a Heresia Ariana e a Deposição de Ário"
       }
     }
   ]

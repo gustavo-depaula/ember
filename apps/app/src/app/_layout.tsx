@@ -13,14 +13,22 @@ import {
   notifyManager,
   QueryClient,
   QueryClientProvider,
+  useQueryClient,
 } from '@tanstack/react-query'
 import { useFonts } from 'expo-font'
-import { DarkTheme, DefaultTheme, Stack, ThemeProvider } from 'expo-router'
+import {
+  DarkTheme,
+  DefaultTheme,
+  Stack,
+  ThemeProvider,
+  useGlobalSearchParams,
+  useSegments,
+} from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
 import * as SystemUI from 'expo-system-ui'
 import { useEffect, useState } from 'react'
-import { Appearance, InteractionManager, LogBox, Platform, useColorScheme } from 'react-native'
+import { Appearance, InteractionManager, LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { KeyboardProvider } from 'react-native-keyboard-controller'
 import { TamaguiProvider } from 'tamagui'
@@ -41,14 +49,11 @@ import {
   warmDeferredManifests,
 } from '@/content/resolver'
 import { useDbInit } from '@/db/client'
-import { canonicalizePracticeIds, seedCursors, seedPractices } from '@/db/seed'
-import { useCheckInsStore } from '@/features/mass-times/checkins'
-import { useFavoritesStore } from '@/features/mass-times/favorites'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
-import { refileMisplacedCompletions } from '@/features/plan-of-life'
+import { straightenPlanOnce } from '@/features/plan-of-life/straighten'
+import { startSync } from '@/features/sync'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { registerDataSources } from '@/lib/data-sources/register'
-import { useCrossTabSync } from '@/lib/db-shared/useCrossTabSync'
 import { initHearth } from '@/lib/hearth'
 import i18n from '@/lib/i18n'
 import {
@@ -57,6 +62,7 @@ import {
   setupNotifications,
 } from '@/lib/notifications'
 import { startStallMonitor } from '@/lib/stallMonitor'
+import { corpusRef, startUsage, track } from '@/lib/usage'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -89,14 +95,39 @@ const queryClient = new QueryClient({
   }),
 })
 
-if (typeof document !== 'undefined') {
-  const style = document.createElement('style')
-  style.textContent = 'input, textarea { outline: none !important; }'
-  document.head.appendChild(style)
+// Mounted once the app is up — the log opened and straightened — so the account
+// is only ever handed a log in its settled shape.
+function AccountSync() {
+  const queryClient = useQueryClient()
+  useEffect(
+    () =>
+      startSync(() => {
+        // Another device's changes are folded in: whatever was read from the
+        // log and cached is stale, and so are the reminders set from the plan.
+        queryClient.invalidateQueries()
+        rescheduleAllReminders().catch((err) =>
+          console.error('[sync] rescheduling reminders failed', err),
+        )
+      }),
+    [queryClient],
+  )
+  return null
 }
 
-function CrossTabSync() {
-  useCrossTabSync()
+function Usage() {
+  const route = useSegments()
+    .filter((segment) => !segment.startsWith('('))
+    .join('/')
+  const params = useGlobalSearchParams<{
+    manifestId?: string
+    practiceId?: string
+    bookId?: string
+  }>()
+  const id = corpusRef(params.manifestId ?? params.practiceId ?? params.bookId)
+  useEffect(() => startUsage(), [])
+  useEffect(() => {
+    track('screen', { route: `/${route}`, ...(id ? { id } : {}) })
+  }, [route, id])
   return null
 }
 
@@ -114,18 +145,14 @@ export default function RootLayout() {
     hydrate: hydratePrefs,
   } = usePreferencesStore()
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
-  const hydrateFavorites = useFavoritesStore((s) => s.hydrate)
-  const hydrateCheckIns = useCheckInsStore((s) => s.hydrate)
 
   useEffect(() => {
     if (!dbReady) return
     hydratePrefs()
     hydrateBible()
-    hydrateFavorites()
-    hydrateCheckIns()
-  }, [dbReady, hydratePrefs, hydrateBible, hydrateFavorites, hydrateCheckIns])
+  }, [dbReady, hydratePrefs, hydrateBible])
 
-  const [seeded, setSeeded] = useState(false)
+  const [corpusReady, setCorpusReady] = useState(false)
   const [bootStatus, setBootStatus] = useState<string | undefined>(undefined)
   // undefined until detected. Returning launches (cached catalog) boot from
   // local cache and keep the native splash up; only a true first launch shows
@@ -179,14 +206,12 @@ export default function RootLayout() {
         })
 
         setBootStatus(i18n.t('boot.almostReady'))
-        await Promise.all([seedPractices(), seedCursors()])
-        await canonicalizePracticeIds()
-        await refileMisplacedCompletions()
-        mark('seeded')
+        await straightenPlanOnce()
+        mark('plan settled')
       } catch (err) {
         console.error('[startup] initCorpus failed:', err)
       } finally {
-        setSeeded(true)
+        setCorpusReady(true)
         setupNotifications()
           .then(() => rescheduleAllReminders())
           .then(() => cancelRetiredMassReminders())
@@ -195,7 +220,6 @@ export default function RootLayout() {
         InteractionManager.runAfterInteractions(() => {
           loadCatalogFromHearth()
             .then(() => Promise.all([warmCriticalManifests(), warmDeferredManifests()]))
-            .then(() => seedPractices())
             .then(() =>
               maybeRunCacheEviction().catch((err) =>
                 console.warn('[startup] cache eviction failed:', err),
@@ -212,16 +236,16 @@ export default function RootLayout() {
   // Core UI infra (fonts, theme, db, prefs) — gates the splash hide so we can
   // show a custom loading screen while the corpus warms.
   const coreReady = fontsLoaded && prefsHydrated && bibleHydrated && dbReady
-  const ready = coreReady && seeded
+  const ready = coreReady && corpusReady
   // First launch must download content (show the loader immediately); a
   // returning launch only reveals it if warming overruns the grace window.
-  const showBootScreen = coreReady && !seeded && (firstLaunch === true || graceExpired)
+  const showBootScreen = coreReady && !corpusReady && (firstLaunch === true || graceExpired)
 
   useEffect(() => {
-    if (firstLaunch !== false || !coreReady || seeded) return
+    if (firstLaunch !== false || !coreReady || corpusReady) return
     const t = setTimeout(() => setGraceExpired(true), 450)
     return () => clearTimeout(t)
-  }, [firstLaunch, coreReady, seeded])
+  }, [firstLaunch, coreReady, corpusReady])
 
   useEffect(() => {
     if (ready || showBootScreen) SplashScreen.hideAsync()
@@ -237,11 +261,7 @@ export default function RootLayout() {
   // switch; 'unspecified' lets 'system' keep following the device.
   useEffect(() => {
     SystemUI.setBackgroundColorAsync(rootBg)
-    // Native-only: react-native-web has no `setColorScheme`, and calling it
-    // throws out of the effect and takes the whole app down on web.
-    if (Platform.OS !== 'web') {
-      Appearance.setColorScheme(themePreference === 'system' ? 'unspecified' : themePreference)
-    }
+    Appearance.setColorScheme(themePreference === 'system' ? 'unspecified' : themePreference)
   }, [rootBg, themePreference])
 
   if (!coreReady) return undefined
@@ -272,7 +292,8 @@ export default function RootLayout() {
           JS timer — for most of a second just as Today first painted. */}
       <KeyboardProvider preload={false}>
         <QueryClientProvider client={queryClient}>
-          <CrossTabSync />
+          <AccountSync />
+          <Usage />
           <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
             <StatusBar hidden />
             <ThemeProvider value={navTheme}>

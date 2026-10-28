@@ -1,0 +1,355 @@
+{
+ "pericopes": [
+  1,
+  12,
+  23
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Luke, travelling companion of Paul; steady eyewitness narration, including the \"we\" passages."
+  },
+  "paul": {
+   "name": "Paul",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The apostle, arrested in Jerusalem; resolute, courteous and composed under accusation."
+  },
+  "the-jews": {
+   "name": "Hostile Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jews of Asia rousing the temple crowd, and later the forty conspirators; vehement, hostile."
+  },
+  "tribune": {
+   "name": "Claudius Lysias, the tribune",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Roman commander of the Jerusalem garrison; brisk, official, wary once he learns Paul is a Roman."
+  },
+  "centurion": {
+   "name": "Centurion",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Roman officer under the tribune; plain, soldierly report."
+  },
+  "bystanders": {
+   "name": "Those standing by in the council",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Attendants of the high priest, indignant at Paul's rebuke."
+  },
+  "pharisees": {
+   "name": "Pharisees of the council",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Scribes of the Pharisees' party, loudly taking Paul's side against the Sadducees."
+  },
+  "jesus": {
+   "name": "The Lord Jesus",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The risen Lord standing by Paul at night; calm, strengthening."
+  },
+  "pauls-nephew": {
+   "name": "Paul's nephew",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Son of Paul's sister; a young man urgently reporting the plot in private."
+  },
+  "felix": {
+   "name": "Felix",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Roman governor at Caesarea; procrastinating, uneasy, self-interested."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Paul, looking upon the council, said:"
+   },
+   {
+    "s": "paul",
+    "t": "Men, brethren, I have conversed with all good conscience before God until this present day."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And the high priest, Ananias, commanded them that stood by him to strike him on the mouth."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Then Paul said to him:"
+   },
+   {
+    "s": "paul",
+    "t": "God shall strike thee, thou whited wall. For, sittest thou to judge me according to the law and, contrary to the law, commandest me to be struck?"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And they that stood by said:"
+   },
+   {
+    "s": "bystanders",
+    "t": "Dost thou revile the high priest of God?"
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And Paul said:"
+   },
+   {
+    "s": "paul",
+    "t": "I knew not, brethren, that he is the high priest. For it is written: Thou shalt not speak evil of the prince of thy people."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And Paul, knowing that the one part were Sadducees and the other Pharisees, cried out in the council:"
+   },
+   {
+    "s": "paul",
+    "t": "Men, brethren, I am a Pharisee, the son of Pharisees: concerning the hope and resurrection of the dead I am called in question."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And when he had so said, there arose a dissension between the Pharisees and the Sadducees. And the multitude was divided."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "For the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And there arose a great cry. And some of the Pharisees rising up, strove, saying:"
+   },
+   {
+    "s": "pharisees",
+    "t": "We find no evil in this man. What if a spirit hath spoken to him, or an angel?"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And when there arose a great dissension, the tribune, fearing lest Paul should be pulled in pieces by them, commanded the soldiers to go down and to take him by force from among them and to bring him into the castle."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And the night following, the Lord standing by him, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Be constant: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And when day was come, some of the Jews gathered together and bound themselves under a curse, saying that they would neither eat nor drink till they killed Paul."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And they were more than forty men that had made this conspiracy."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Who came to the chief priests and the ancients and said:"
+   },
+   {
+    "s": "the-jews",
+    "t": "We have bound ourselves under a great curse that we will eat nothing till we have slain Paul."
+   }
+  ],
+  "15": [
+   {
+    "s": "the-jews",
+    "t": "Now therefore do you with the council signify to the tribune, that he bring him forth to you, as if you meant to know something more certain touching him. And we, before he come near, are ready to kill him."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Which when Paul's sister's son had heard, of their lying in wait, he came and entered into the castle and told Paul."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And Paul, calling to him one of the centurions, said:"
+   },
+   {
+    "s": "paul",
+    "t": "Bring this young man to the tribune: for he hath some thing to tell him."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And he, taking him, brought him to the tribune and said:"
+   },
+   {
+    "s": "centurion",
+    "t": "Paul, the prisoner, desired me to bring this young man unto thee, who hath some thing to say to thee."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And the tribune, taking him by the hand, went aside with him privately and asked him:"
+   },
+   {
+    "s": "tribune",
+    "t": "What is it that thou hast to tell me?"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "pauls-nephew",
+    "t": "The Jews have agreed to desire thee that thou wouldst bring forth Paul to-morrow into the council, as if they meant to inquire some thing more certain touching him."
+   }
+  ],
+  "21": [
+   {
+    "s": "pauls-nephew",
+    "t": "But do not thou give credit to them: for there lie in wait for him more than forty men of them, who have bound themselves by oath neither to eat nor to drink, till they have killed him. And they are now ready, looking for a promise from thee."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "The tribune therefore dismissed the young man, charging him that he should tell no man that he had made known these things unto him."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Then having called two centurions, he said to them:"
+   },
+   {
+    "s": "tribune",
+    "t": "Make ready two hundred soldiers to go as far as Caesarea: and seventy horsemen and two hundred spearmen, for the third hour of the night."
+   }
+  ],
+  "24": [
+   {
+    "s": "tribune",
+    "t": "And provide beasts, that they may set Paul on and bring him safe to Felix the governor."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "(For he feared lest perhaps the Jews might take him away by force and kill him: and he should afterwards be slandered, as if he was to take money.) And he wrote a letter after this manner:"
+   }
+  ],
+  "26": [
+   {
+    "s": "tribune",
+    "t": "Claudius Lysias to the most excellent governor, Felix, greeting:"
+   }
+  ],
+  "27": [
+   {
+    "s": "tribune",
+    "t": "This man, being taken by the Jews and ready to be killed by them, I rescued, coming in with an army, understanding that he is a Roman."
+   }
+  ],
+  "28": [
+   {
+    "s": "tribune",
+    "t": "And meaning to know the cause which they objected unto him, I brought him forth into their council."
+   }
+  ],
+  "29": [
+   {
+    "s": "tribune",
+    "t": "Whom I found to be accused concerning questions of their law; but having nothing laid to his charge worthy of death or of bands."
+   }
+  ],
+  "30": [
+   {
+    "s": "tribune",
+    "t": "And when I was told of ambushes that they had prepared for him, I sent him to thee, signifying also to his accusers to plead before thee. Farewell."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Then the soldiers, according as it was commanded them, taking Paul, brought him by night to Antipatris."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And the next day, leaving the horsemen to go with him, they returned to the castle."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Who, when they were come to Caesarea and had delivered the letter to the governor, did also present Paul before him."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And when he had read it and had asked of what province he was and understood that he was of Cilicia:"
+   }
+  ],
+  "35": [
+   {
+    "s": "felix",
+    "t": "I will hear thee,"
+   },
+   {
+    "s": "narrator",
+    "t": "said he,"
+   },
+   {
+    "s": "felix",
+    "t": "when thy accusers come."
+   },
+   {
+    "s": "narrator",
+    "t": "And he commanded him to be kept in Herod's judgment hall."
+   }
+  ]
+ }
+}

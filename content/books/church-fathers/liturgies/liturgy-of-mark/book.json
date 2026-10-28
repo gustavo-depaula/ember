@@ -2,13 +2,16 @@
   "id": "liturgies-liturgy-of-mark",
   "cover": "quarter",
   "name": {
-    "en-US": "The Liturgy of Mark"
+    "en-US": "The Liturgy of Mark",
+    "pt-BR": "A Liturgia de Marcos"
   },
   "author": {
-    "en-US": "Liturgies"
+    "en-US": "Liturgies",
+    "pt-BR": "Liturgias"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Liturgy of Mark"
+        "en-US": "The Liturgy of Mark",
+        "pt-BR": "A Liturgia de Marcos"
       }
     }
   ]

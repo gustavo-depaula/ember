@@ -1,0 +1,12 @@
+{
+ "ruth": "woman-young",
+ "noemi": "woman-old",
+ "orpha": "woman-mature",
+ "booz": "job",
+ "booz-servant": "man-young",
+ "reapers": "crowd",
+ "near-kinsman": "man-common",
+ "elders-of-bethlehem": "elder",
+ "women-of-bethlehem": "woman-mature",
+ "ruth-and-orpha": "woman-young"
+}

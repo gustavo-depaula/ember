@@ -1,3 +1,4 @@
+import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -5,24 +6,27 @@ import { Pressable } from 'react-native'
 import { YStack } from 'tamagui'
 
 import { Typography } from '@/components'
+import { getManifest } from '@/content/resolver'
+import { askMassWhere, MassWhere, stopAskingMassWhere } from '@/features/mass-times'
 import {
   type BlockState,
+  type DayPart,
+  dayPartStates,
   enrichSlot,
-  getActiveBlocks,
+  getActiveDayParts,
   getBlockCompletion,
-  getBlockState,
-  getCurrentTimeBlock,
-  type TimeBlock,
   useRestartNeededPractices,
   useSetSlotDone,
 } from '@/features/plan-of-life'
 import { useCurrentHour } from '@/hooks/useCurrentHour'
+import { getToday } from '@/hooks/useToday'
+import { parseSlotKey } from '@/lib/slotKey'
 import type { TodayPlan } from '../useTodayPlan'
 import { TierLegend, TimeBlockSection } from './TimeBlockSection'
 
-/** The day's plan of life as a checklist, one section per part of the day. */
+/** The day's plan of life as a checklist, one section per part of the day, the current one open. */
 export function TodayChecklist({
-  plan: { selectedDate, isFutureDate, todaySlots, completedIds, onPressItem },
+  plan: { selectedDate, isFutureDate, slots, todaySlots, completedIds, onPressItem },
   onLeave,
 }: {
   plan: TodayPlan
@@ -31,11 +35,17 @@ export function TodayChecklist({
 }) {
   const { t } = useTranslation()
   const router = useRouter()
-  const currentBlock = getCurrentTimeBlock(useCurrentHour())
+  const hour = useCurrentHour()
   const setSlotDone = useSetSlotDone()
   const restartNeededIds = useRestartNeededPractices()
 
-  const [overrides, setOverrides] = useState<Partial<Record<TimeBlock, BlockState>>>({})
+  // The "Onde?" line belongs to this opening of the list: closing it lets the question go.
+  useEffect(() => () => stopAskingMassWhere(), [])
+  const isTodaysMass = (slotKey: string) =>
+    selectedDate === format(getToday(), 'yyyy-MM-dd') &&
+    getManifest(parseSlotKey(slotKey).practiceId)?.liturgicalAct === 'mass'
+
+  const [overrides, setOverrides] = useState<Partial<Record<DayPart, BlockState>>>({})
 
   // Overrides also hold a block open once its last practice is ticked, so the
   // list never folds up under the user's finger. The sheet mounts the list
@@ -43,18 +53,12 @@ export function TodayChecklist({
   // biome-ignore lint/correctness/useExhaustiveDependencies: reset when the day changes
   useEffect(() => setOverrides({}), [selectedDate])
 
-  const activeBlocks = useMemo(() => getActiveBlocks(todaySlots), [todaySlots])
-  const shownBlocks = activeBlocks.map(({ block, def }) => ({
-    block,
-    def,
-    state:
-      overrides[block] ??
-      getBlockState(
-        block,
-        currentBlock,
-        completedIds,
-        def.slots.map((s) => s.id),
-      ),
+  const parts = useMemo(() => getActiveDayParts(todaySlots), [todaySlots])
+  const states = dayPartStates(parts, hour, completedIds)
+  const shownBlocks = parts.map(({ part, slots }) => ({
+    block: part,
+    def: { slots },
+    state: overrides[part] ?? states.get(part) ?? 'preview',
   }))
 
   if (todaySlots.length === 0)
@@ -69,7 +73,7 @@ export function TodayChecklist({
       >
         <YStack alignItems="center" paddingHorizontal="$lg" gap="$sm" marginTop="$md">
           <Typography tone="muted" fontSize="$2" textAlign="center">
-            {t('home.emptyPlan')}
+            {t(slots.length > 0 ? 'home.planNothingToday' : 'home.emptyPlan')}
           </Typography>
           <Typography fontSize="$2" fontWeight="500" color="$accent">
             {t('home.emptyPlanAction')}
@@ -88,7 +92,7 @@ export function TodayChecklist({
         return (
           <TimeBlockSection
             key={block}
-            label={t(`timeBlock.${block}`)}
+            label={t(`dayPart.${block}`)}
             items={def.slots.map((s) => enrichSlot(s, t))}
             completedIds={completedIds}
             restartNeededIds={restartNeededIds}
@@ -98,13 +102,34 @@ export function TodayChecklist({
             readOnly={isFutureDate}
             onToggle={(item, done) => {
               if (!overrides[block]) setOverrides((prev) => ({ ...prev, [block]: state }))
-              setSlotDone.mutate({ slotKey: item.id, date: selectedDate, done })
+              setSlotDone.mutate(
+                { slotKey: item.id, date: selectedDate, done },
+                {
+                  // Mass ticked today: ask, under its row, at which church it was.
+                  onSuccess: () => {
+                    if (!isTodaysMass(item.id)) return
+                    if (done) askMassWhere(item.id)
+                    else stopAskingMassWhere(item.id)
+                  },
+                },
+              )
             }}
             onToggleCollapse={() =>
               setOverrides((prev) => ({
                 ...prev,
                 [block]: state === 'expanded' ? 'collapsed' : 'expanded',
               }))
+            }
+            renderBelow={(item) =>
+              isTodaysMass(item.id) ? (
+                <MassWhere
+                  slotKey={item.id}
+                  onOtherChurch={() => {
+                    onLeave()
+                    router.navigate('/mass-times')
+                  }}
+                />
+              ) : null
             }
             onPressItem={(item) => {
               onLeave()

@@ -1,0 +1,2587 @@
+{
+ "id": "sanctorale.09-17",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 17 septembris"
+       ],
+       [
+        "S. Roberti Bellarmino, episcopi et Ecclesiæ doctoris"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 de Setembro"
+       ],
+       [
+        "São Roberto Belarmino, bispo e doutor da Igreja"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "September 17"
+       ],
+       [
+        "St. Robert Bellarmine, bishop and doctor of the Church"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 de septiembre"
+       ],
+       [
+        "San Roberto Belarmino, obispo y doctor de la Iglesia"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 settembre"
+       ],
+       [
+        "San Roberto Bellarmino, vescovo e dottore della Chiesa"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17 septembre"
+       ],
+       [
+        "Saint Robert Bellarmin, évêque et docteur de l'Église"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "17. September"
+       ],
+       [
+        "Hl. Robert Bellarmin, Bischof, Kirchenlehrer"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Super salutem et speciem dilexi sapientiam."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Sapiéntiæ"
+       ]
+      ],
+      "cite": "7, 7-10. 15-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Optávi, et datus est mihi sensus; et invocávi, et venit in me spíritus sapiéntiæ. Præpósui illam regnis et sédibus et divítias nihil esse duxi in comparatióne illíus; nec comparávi illi lápidem pretiósum, quóniam omne aurum in comparatióne illíus aréna est exígua, et tamquam lutum æstimábitur argéntum in conspéctu illíus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Super salútem et spéciem diléxi illam et propósui pro luce habére illam, quóniam inexstinguíbile est lumen illíus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mihi autem det Deus dícere secúndum senténtiam et sentíre digna horum, quæ mihi data sunt, quóniam ipse sapiéntiæ dux est et sapiéntium emendátor; in manu enim illíus et nos et sermónes nostri et omnis sapiéntia et óperum sciéntia."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Amei a sabedoria mais que a saúde e a beleza."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro da Sabedoria"
+       ]
+      ],
+      "cite": "7, 7-10. 15-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "“Orei, e foi-me dada a prudência; supliquei, e veio a mim o espírito da sabedoria. Preferi a Sabedoria aos cetros e tronos e, em comparação com ela, julguei sem valor a riqueza; a ela não igualei nenhuma pedra preciosa, pois, a seu lado, todo o ouro do mundo é um punhado de areia e, diante dela, a prata será como a lama. Amei-a mais que a saúde e a beleza, e quis possuí-la mais que a luz, pois o esplendor que dela irradia não se apaga. Deus me conceda falar com inteligencia e ter pensamentos dignos dos dons que recebi, pois ele não só mostra o caminho da Sabedoria como também corrige os sábios; em suas mãos estamos nós e as nossas palavras, assim como toda a inteligencia e habilidade."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Wisdom"
+       ]
+      ],
+      "cite": "7:7-10. 15-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Therefore I prayed, and prudence was given me; I pleaded and the spirit of Wisdom came to me. I preferred her to scepter and throne, And deemed riches nothing in comparison with her, nor did I liken any priceless gem to her; Because all gold, in view of her, is a bit of sand, and before her, silver is to be accounted mire. Beyond health and beauty I loved her, And I chose to have her rather than the light, because her radiance never ceases."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Now God grant I speak suitably and value these endowments at their worth: For he is the guide of Wisdom and the director of the wise. For both we and our words are in his hand, as well as all prudence and knowledge of crafts."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quise la sabiduría más que a la salud y la belleza"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro de la Sabiduría"
+       ]
+      ],
+      "cite": "7, 7-10. 15-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Supliqué y me fue dada la prudencia,"
+       ],
+       [
+        "invoqué y vino a mí el espíritu de sabiduría."
+       ],
+       [
+        "La preferí a cetros y tronos"
+       ],
+       [
+        "y a su lado en nada tuve la riqueza."
+       ],
+       [
+        "No la equiparé a la piedra más preciosa,"
+       ],
+       [
+        "porque todo el oro ante ella es un poco de arena"
+       ],
+       [
+        "y junto a ella la plata es como el barro."
+       ],
+       [
+        "La quise más que a la salud y la belleza"
+       ],
+       [
+        "y la preferí a la misma luz,"
+       ],
+       [
+        "porque su resplandor no tiene ocaso."
+       ],
+       [
+        "Que Dios me conceda hablar con conocimiento"
+       ],
+       [
+        "y tener pensamientos dignos de sus dones,"
+       ],
+       [
+        "porque él es el mentor de la sabiduría"
+       ],
+       [
+        "y el adalid de los sabios."
+       ],
+       [
+        "En sus manos estamos nosotros y nuestras palabras,"
+       ],
+       [
+        "toda prudencia y toda inteligencia práctica."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ho amato la sapienza più della salute e della bellezza."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro della Sapienza"
+       ]
+      ],
+      "cite": "7, 7-10.15-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pregai e mi fu elargita la prudenza, implorai e venne in me lo spirito di sapienza."
+       ],
+       [
+        "La preferii a scettri e a troni, stimai un nulla la ricchezza al suo confronto, non la paragonai neppure a una gemma inestimabile, perché tutto l'oro al suo confronto è come un po' di sabbia e come fango sarà valutato di fronte a lei l'argento."
+       ],
+       [
+        "L'ho amata più della salute e della bellezza, ho preferito avere lei piuttosto che la luce, perché lo splendore che viene da lei non tramonta."
+       ],
+       [
+        "Mi conceda Dio di parlare con intelligenza e di riflettere in modo degno dei doni ricevuti, perché egli stesso è la guida della sapienza e dirige i sapienti."
+       ],
+       [
+        "Nelle sue mani siamo noi e le nostre parole, ogni sorta di conoscenza e ogni capacità operativa."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de la Sagesse"
+       ]
+      ],
+      "cite": "7, 7-10. 15-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "J'ai prié, et le discernement m'a été donné. J'ai supplié, et l'esprit de la Sagesse est venu en moi. Je l'ai préférée aux trônes et aux sceptres ; à côté d'elle, j'ai tenu pour rien la richesse ; je ne l'ai pas comparée à la pierre la plus précieuse ; tout l'or du monde auprès d'elle n'est qu'un peu de sable, et, en face d'elle, l'argent sera regardé comme de la boue. Plus que la santé et la beauté, je l'ai aimée ; je l'ai choisie de préférence à la lumière, parce que sa clarté ne s'éteint pas. Que Dieu m'accorde de parler comme je comprends, et de concevoir une pensée à la mesure de ses dons, puisque lui-même guide la Sagesse et dirige les sages ; car nous sommes dans sa main : nous-mêmes, nos paroles, toute notre intelligence et notre savoir-faire."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch der Weisheit"
+       ]
+      ],
+      "cite": "7, 7-10. 15-16",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich betete, und es wurde mir Klugheit gegeben; ich flehte, und der Geist der Weisheit kam zu mir. Ich zog sie Zeptern und Thronen vor, Reichtum achtete ich für nichts im Vergleich mit ihr. Keinen Edelstein stellte ich ihr gleich; denn alles Gold erscheint neben ihr wie ein wenig Sand, und Silber gilt ihr gegenüber so viel wie Lehm."
+       ],
+       [
+        "Ich liebte sie mehr als Gesundheit und Schönheit und zog ihren Besitz dem Lichte vor; denn niemals erlischt der Glanz, der von ihr ausstrahlt."
+       ],
+       [
+        "Mir aber gewähre Gott, nach meiner Einsicht zu sprechen und zu denken, wie die empfangenen Gaben es wert sind; denn er ist der Führer der Weisheit und hält die Weisen auf dem rechten Weg. Wir und unsere Worte sind in seiner Hand, auch alle Klugheit und praktische Erfahrung."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.doctors.first-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.doctors.first-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b vel Io 6, 63c)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 18(19B), 8. 9. 10. 11 (R.: Jo 6, 63c)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b or Jn 6, 63c)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 18, 8. 9. 10. 11 (R.: Jn 6, 63c)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 18, 8. 9. 10. 11 (R.: 10b vel Io 6, 63c)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 19 (18 B), 8. 9. 10. 11-12 (R.: 10b oder vgl. Joh 6, 63b)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.doctors.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Iudícia Dómini vera, iusta ómnia simul."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel: "
+        },
+        "Verba tua, Dómine Spíritus et vita sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os julgamentos do Senhor são corretos e justos igualmente."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        },
+        "Senhor, tuas palavras são espírito, são vida!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The judgments of the Lord are true, and all of them are just."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        },
+        "Your words, Lord, are spirit and life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los mandamientos del Señor son verdaderos y enteramente justos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Tus palabras, Señor, son espíritu y vida"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I giudizi del Signore sono tutti giusti."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Le tue parole, Signore, sono spirito e vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Les décisions du Seigneur sont justes et vraiment équitables."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou: "
+        },
+        "Tes paroles, Seigneur, sont esprit et elles sont vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Deine Worte, Herr, sind Geist und Leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lex Dómini immaculáta, refíciens ánimam,"
+       ],
+       [
+        "testimónium Dómini fidéle, sapiéntiam præstans párvulis."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A lei do Senhor é perfeita, conforto para a alma! O testemunho do Senhor é fiel, sabedoria dos humildes."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The law of the Lord is perfect, it revives the soul. The rule of the Lord is to be trusted, it gives wisdom to the simple."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La ley del Señor es perfecta"
+       ],
+       [
+        "y es descanso del alma;"
+       ],
+       [
+        "el precepto del Señor es fiel"
+       ],
+       [
+        "e instruye a los ignorantes."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La legge del Signore è perfetta,"
+       ],
+       [
+        "rinfranca l'anima;"
+       ],
+       [
+        "la testimonianza del Signore è stabile,"
+       ],
+       [
+        "rende saggio il semplice."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La loi du Seigneur est parfaite,"
+       ],
+       [
+        "qui redonne vie ; *"
+       ],
+       [
+        "la charte du Seigneur est sûre,"
+       ],
+       [
+        "qui rend sages les simples."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Weisung des Herrn ist vollkommen, sie erquickt den Menschen."
+       ],
+       [
+        "Das Gesetz des Herrn ist verlässlich, den Unwissenden macht es weise."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Iudícia Dómini vera, iusta ómnia simul."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel: "
+        },
+        "Verba tua, Dómine Spíritus et vita sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os julgamentos do Senhor são corretos e justos igualmente."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        },
+        "Senhor, tuas palavras são espírito, são vida!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The judgments of the Lord are true, and all of them are just."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        },
+        "Your words, Lord, are spirit and life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los mandamientos del Señor son verdaderos y enteramente justos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Tus palabras, Señor, son espíritu y vida"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I giudizi del Signore sono tutti giusti."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Le tue parole, Signore, sono spirito e vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Les décisions du Seigneur sont justes et vraiment équitables."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou: "
+        },
+        "Tes paroles, Seigneur, sont esprit et elles sont vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Deine Worte, Herr, sind Geist und Leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Iustítiæ Dómini rectæ, lætificántes corda,"
+       ],
+       [
+        "præcéptum Dómini lúcidum, illúminans óculos."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os preceitos do Senhor são precisos, alegria ao coração. O mandamento do Senhor é brilhante, para os olhos é uma luz."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The precepts of the Lord are right, they gladden the heart. The command of the Lord is clear, it gives light to the eyes."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Los mandatos del Señor son rectos"
+       ],
+       [
+        "y alegran el corazón;"
+       ],
+       [
+        "la norma del Señor es límpida"
+       ],
+       [
+        "y da luz a los ojos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I precetti del Signore sono retti,"
+       ],
+       [
+        "fanno gioire il cuore;"
+       ],
+       [
+        "il comando del Signore è limpido,"
+       ],
+       [
+        "illumina gli occhi."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les préceptes du Seigneur sont droits,"
+       ],
+       [
+        "ils réjouissent le cœur ; *"
+       ],
+       [
+        "le commandement du Seigneur est limpide,"
+       ],
+       [
+        "il clarifie le regard."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Befehle des Herrn sind richtig, sie erfreuen das Herz;"
+       ],
+       [
+        "das Gebot des Herrn ist lauter, es erleuchtet die Augen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Iudícia Dómini vera, iusta ómnia simul."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel: "
+        },
+        "Verba tua, Dómine Spíritus et vita sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os julgamentos do Senhor são corretos e justos igualmente."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        },
+        "Senhor, tuas palavras são espírito, são vida!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The judgments of the Lord are true, and all of them are just."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        },
+        "Your words, Lord, are spirit and life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los mandamientos del Señor son verdaderos y enteramente justos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Tus palabras, Señor, son espíritu y vida"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I giudizi del Signore sono tutti giusti."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Le tue parole, Signore, sono spirito e vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Les décisions du Seigneur sont justes et vraiment équitables."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou: "
+        },
+        "Tes paroles, Seigneur, sont esprit et elles sont vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Deine Worte, Herr, sind Geist und Leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Timor Dómini mundus, pérmanens in sǽculum sǽculi,"
+       ],
+       [
+        "iudícia Dómini vera, iusta ómnia simul."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "É puro o temor do Senhor, imutável para sempre. Os julgamentos do Senhor são corretos e justos igualmente."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The fear of the Lord is holy, abiding for ever. The decrees of the Lord are truth and all of them just."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El temor del Señor es puro"
+       ],
+       [
+        "y eternamente estable;"
+       ],
+       [
+        "los mandamientos del Señor son verdaderos"
+       ],
+       [
+        "y enteramente justos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "II timore del Signore è puro,"
+       ],
+       [
+        "rimane per sempre;"
+       ],
+       [
+        "i giudizi del Signore sono fedeli,"
+       ],
+       [
+        "sono tutti giusti."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La crainte qu'il inspire est pure,"
+       ],
+       [
+        "elle est là pour toujours ; *"
+       ],
+       [
+        "les décisions du Seigneur sont justes"
+       ],
+       [
+        "et vraiment équitables :"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Furcht des Herrn ist rein, sie besteht für immer."
+       ],
+       [
+        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Iudícia Dómini vera, iusta ómnia simul."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel: "
+        },
+        "Verba tua, Dómine Spíritus et vita sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os julgamentos do Senhor são corretos e justos igualmente."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        },
+        "Senhor, tuas palavras são espírito, são vida!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The judgments of the Lord are true, and all of them are just."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        },
+        "Your words, Lord, are spirit and life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los mandamientos del Señor son verdaderos y enteramente justos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Tus palabras, Señor, son espíritu y vida"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I giudizi del Signore sono tutti giusti."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Le tue parole, Signore, sono spirito e vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Les décisions du Seigneur sont justes et vraiment équitables."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou: "
+        },
+        "Tes paroles, Seigneur, sont esprit et elles sont vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Deine Worte, Herr, sind Geist und Leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Desiderabília super aurum et lápidem pretiósum multum,"
+       ],
+       [
+        "et dulcióra super mel et favum stillántem."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mais desejáveis do que o ouro são eles, do que o ouro refinado. Suas palavras são mais doces que o mel, que o mel que sai dos favos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "They are more to be desired than gold, than the purest of gold and sweeter are they than honey, than honey from the comb."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Más preciosos que el oro,"
+       ],
+       [
+        "más que el oro fino;"
+       ],
+       [
+        "más dulces que la miel de un panal que destila."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Più preziosi dell'oro,"
+       ],
+       [
+        "di molto oro fino,"
+       ],
+       [
+        "più dolci del miele"
+       ],
+       [
+        "e di un favo stillante."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "plus désirables que l'or,"
+       ],
+       [
+        "qu'une masse d'or fin, *"
+       ],
+       [
+        "plus savoureuses que le miel"
+       ],
+       [
+        "qui coule des rayons."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sie sind kostbarer als Gold, als Feingold in Menge."
+       ],
+       [
+        "Sie sind süßer als Honig, als Honig aus Waben."
+       ],
+       [
+        "Auch dein Knecht lässt sich von ihnen warnen;"
+       ],
+       [
+        "wer sie beachtet, hat reichen Lohn."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Iudícia Dómini vera, iusta ómnia simul."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel: "
+        },
+        "Verba tua, Dómine Spíritus et vita sunt."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os julgamentos do Senhor são corretos e justos igualmente."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou: "
+        },
+        "Senhor, tuas palavras são espírito, são vida!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The judgments of the Lord are true, and all of them are just."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Or: "
+        },
+        "Your words, Lord, are spirit and life."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Los mandamientos del Señor son verdaderos y enteramente justos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Tus palabras, Señor, son espíritu y vida"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "I giudizi del Signore sono tutti giusti."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Le tue parole, Signore, sono spirito e vita."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Les décisions du Seigneur sont justes et vraiment équitables."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou: "
+        },
+        "Tes paroles, Seigneur, sont esprit et elles sont vie."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Die Urteile des Herrn sind wahr, gerecht sind sie alle."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Deine Worte, Herr, sind Geist und Leben."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erat Iesus docens eos sicut potestatem habens."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "7, 21-29",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus ensinava as multidões como quem tem autoridade."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "7, 21-29",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "7:21-29",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesús les enseñaba con autoridad"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "7, 21-29",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gesù insegnava loro come uno che ha autorità."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "7, 21-29",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "7, 21-29",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "7, 21-29",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.doctors.gospel.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.doctors.gospel.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus discípulis suis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Non omnis, qui dicit mihi: “Dómine, Dómine”, intrábit in regnum cælórum, sed qui facit voluntátem Patris mei, qui in cælis est. Multi dicent mihi in illa die: “Dómine, Dómine, nonne in tuo nómine prophetávimus, et in tuo nómine dæmónia eiécimus, et in tuo nómine virtútes multas fécimus?”. Et tunc confitébor illis: Numquam novi vos; discédite a me, qui operámini iniquitátem."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Omnis ergo, qui audit verba mea hæc et facit ea, assimilábitur viro sapiénti, qui ædificávit domum suam supra petram. Et descéndit plúvia, et venérunt flúmina, et flavérunt venti et irruérunt in domum illam, et non cécidit; fundáta enim erat supra petram."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et omnis, qui audit verba mea hæc et non facit ea, símilis erit viro stulto, qui ædificávit domum suam supra arénam. Et descéndit plúvia, et venérunt flúmina, et flavérunt venti et irruérunt in domum illam, et cécidit, et fuit ruína eius magna»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et factum est, cum consummásset Iesus verba hæc, admirabántur turbæ super doctrínam eius; erat enim docens eos sicut potestátem habens, et non sicut scribæ eórum et pharisæi."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus aos seus discípulos: Nem todo aquele que me diz: 'Senhor, Senhor', entrará no Reino dos Céus, mas o que põe em prática a vontade de meu Pai que está nos céus. Naquele dia, muitos vão me dizer: 'Senhor, Senhor, não foi em teu nome que profetizamos? Não foi em teu nome que expulsamos demônios? E não foi em teu nome que fizemos muitos milagres?' Então eu lhes direi publicamente: 'Jamais vos conheci. Afastai-vos de mim, vós que praticais o mal. Portanto, quem ouve estas minhas palavras e as põe em prática, é como um homem prudente, que construiu sua casa sobre a rocha. Caiu a chuva, vieram as enchentes, os ventos deram contra a casa, mas a casa não caiu, porque estava construída sobre a rocha. Por outro lado, quem ouve estas minhas palavras e não as põe em prática, é como um homem sem juízo, que construiu sua casa sobre a areia. Caiu a chuva, vieram as enchentes, os ventos sopraram e deram contra a casa, e a casa caiu, e sua ruína foi completa!' Quando Jesus acabou de dizer estas palavras, as multidões ficaram admiradas com seu ensinamento. De fato, ele as ensinava como quem tem autoridade e não como os mestres da lei."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to his disciples: 'It is not those who say to me, \"Lord, Lord\", who will enter the kingdom of heaven, but the person who does the will of my Father in heaven. When the day comes many will say to me, \"Lord, Lord, did we not prophesy in your name, cast out demons in your name, work many miracles in your name?\" Then I shall tell them to their faces: I have never known you; away from me, you evil men!' 'Therefore, everyone who listens to these words of mine and acts on them will be like a sensible man who built his house on rock. Rain came down, floods rose, gales blew and hurled themselves against that house, and it did not fall: it was founded on rock. But everyone who listens to these words of mine and does not act on them will be like a stupid man who built his house on sand. Rain came down, floods rose, gales blew and struck that house, and it fell; and what a fall it had!' Jesus had now finished what he wanted to say, and his teaching made a deep impression on the people because he taught them with authority, and not like their own scribes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus discípulos:"
+       ],
+       [
+        "«No todo el que me dice “Señor, Señor” entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos."
+       ],
+       [
+        "Aquel día muchos dirán:"
+       ],
+       [
+        "“Señor, Señor, ¿no hemos profetizado en tu nombre y en tu nombre hemos echado demonios, y no hemos hecho en tu nombre muchos milagros?”."
+       ],
+       [
+        "Entonces yo les declararé:"
+       ],
+       [
+        "“Nunca os he conocido. Alejaos de mí, los que obráis la iniquidad”."
+       ],
+       [
+        "El que escucha estas palabras mías y las pone en práctica se parece a aquel hombre prudente que edificó su casa sobre roca. Cayó la lluvia, se desbordaron los ríos, soplaron los vientos y descargaron contra la casa; pero no se hundió, porque estaba cimentada sobre roca."
+       ],
+       [
+        "El que escucha estas palabras mías y no las pone en práctica se parece a aquel hombre necio que edificó su casa sobre arena. Cayó la lluvia, se desbordaron los ríos, soplaron los vientos y rompieron contra la casa, y se derrumbó. Y su ruina fue grande»."
+       ],
+       [
+        "Al terminar Jesús este discurso, la gente estaba admirada de su enseñanza, porque les enseñaba con autoridad y no como sus escribas."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse ai suoi discepoli:"
+       ],
+       [
+        "«Non chiunque mi dice: \"Signore, Signore\", entrerà nel regno dei cieli, ma colui che fa la volontà del Padre mio che è nei cieli. In quel giorno molti mi diranno: \"Signore, Signore, non abbiamo forse profetato nel tuo nome? E nel tuo nome non abbiamo forse scacciato demoni? E nel tuo nome non abbiamo forse compiuto molti prodigi?\" Ma allora io dichiarerò loro: \"Non vi ho mai conosciuti. Allontanatevi da me, voi che operate l'iniquità!\"."
+       ],
+       [
+        "Perciò chiunque ascolta queste mie parole e le mette in pratica, sarà simile a un uomo saggio, che ha costruito la sua casa sulla roccia. Cadde la pioggia, strapparono i fiumi, soffiarono i venti e si abbatterono su quella casa, ma essa non cadde, perché era fondata sulla roccia. Chiunque ascolta queste mie parole e non le mette in pratica, sarà simile a un uomo stolto, che ha costruito la sua casa sulla sabbia. Cadde la pioggia, strariparono i fiumi, soffiarono i venti e si abbatterono su quella casa, ed essa cadde e la sua rovina fu grande»."
+       ],
+       [
+        "Quando Gesù ebbe terminato questi discorsi, le folle erano stupite del suo insegnamento: egli infatti insegnava loro come uno che ha autorità, e non come i loro scribi."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à ses disciples : \" Ce n'est pas en me disant"
+       ],
+       [
+        ": \"Seigneur, Seigneur !\" qu'on entrera dans le royaume des Cieux, mais c'est"
+       ],
+       [
+        "en faisant la volonté de mon Père qui est aux cieux. Ce jour-là, beaucoup me"
+       ],
+       [
+        "diront :"
+       ],
+       [
+        "\"Seigneur, Seigneur, n'est-ce pas en ton nom que nous avons prophétisé, en ton nom que nous avons expulsé les démons, en ton nom que nous avons fait beaucoup de miracles ?\""
+       ],
+       [
+        "Alors je leur déclarerai :"
+       ],
+       [
+        "\"Je ne vous ai jamais connus. Écartez-vous de moi, vous qui commettez le mal !\""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ainsi, celui qui entend les paroles que je dis là et les met en pratique est comparable à un homme prévoyant qui a construit sa maison sur le roc. La pluie est tombée, les torrents ont dévalé, les vents ont soufflé et se sont abattus sur cette maison ; la maison ne s'est pas écroulée, car elle était fondée sur le roc. Et celui qui entend de moi ces paroles sans les mettre en pratique est comparable à un homme insensé qui a construit sa maison sur le sable. La pluie est tombée, les torrents ont dévalé, les vents ont soufflé, ils sont venus battre cette maison ; la maison s'est écroulée, et son écroulement a été complet. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lorsque Jésus eut terminé ce discours, les foules restèrent frappées de son enseignement, car il les enseignait en homme qui a autorité, et non pas comme leurs scribes."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Jüngern:"
+       ],
+       [
+        "Nicht jeder, der zu mir sagt: Herr! Herr!, wird in das Himmelreich kommen, sondern nur, wer den Willen meines Vaters im Himmel erfüllt. Viele werden an jenem Tag zu mir sagen: Herr, Herr, sind wir nicht in deinem Namen als Propheten aufgetreten und haben wir nicht mit deinem Namen Dämonen ausgetrieben und mit deinem Namen viele Wunder vollbracht? Dann werde ich ihnen antworten: Ich kenne euch nicht. Weg von mir, ihr Übertreter des Gesetzes!"
+       ],
+       [
+        "Wer diese meine Worte hört und danach handelt, ist wie ein kluger Mann, der sein Haus auf Fels baute. Als nun ein Wolkenbruch kam und die Wassermassen heranfluteten, als die Stürme tobten und an dem Haus rüttelten, da stürzte es nicht ein; denn es war auf Fels gebaut."
+       ],
+       [
+        "Wer aber meine Worte hört und nicht danach handelt, ist wie ein unvernünftiger Mann, der sein Haus auf Sand baute. Als nun ein Wolkenbruch kam und die Wassermassen heranfluteten, als die Stürme tobten und an dem Haus rüttelten, da stürzte es ein und wurde völlig zerstört."
+       ],
+       [
+        "Als Jesus diese Rede beendet hatte, war die Menge sehr betroffen von seiner Lehre; denn er lehrte sie wie einer, der göttliche Vollmacht hat, und nicht wie ihre Schriftgelehrten."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.doctors.gospel.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.doctors.gospel.2"
+  }
+ ],
+ "title": {
+  "la": "S. Roberti Bellarmino, episcopi et Ecclesiæ doctoris",
+  "pt-BR": "São Roberto Belarmino, bispo e doutor da Igreja",
+  "en-US": "Saint Robert Bellarmine, bishop and doctor of the Church",
+  "es": "San Roberto Belarmino, obispo y doctor de la Iglesia",
+  "it": "San Roberto Bellarmino, vescovo e dottore della Chiesa",
+  "fr": "Saint Robert Bellarmin, évêque et docteur de l'Église",
+  "de": "Hl. Robert Bellarmin, Bischof, Kirchenlehrer"
+ }
+}

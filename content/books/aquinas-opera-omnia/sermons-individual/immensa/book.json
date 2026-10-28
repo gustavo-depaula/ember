@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Sermon from the Office — The Boundless Favors of Divine Generosity",
-    "la": "Sermo de Officio — Immensa Divinae Largitatis Beneficia"
+    "la": "Sermo de Officio — Immensa Divinae Largitatis Beneficia",
+    "pt-BR": "Sermão do Ofício — Os imensos benefícios da liberalidade divina"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "The sermon Aquinas composed for the Office of Corpus Christi — a meditation on the surpassing gift of the Holy Eucharist.",
-    "la": "Sermo Thomae pro Officio Corporis Christi compositus — meditatio de dono praecellente Eucharistiae."
+    "la": "Sermo Thomae pro Officio Corporis Christi compositus — meditatio de dono praecellente Eucharistiae.",
+    "pt-BR": "O sermão que Santo Tomás compôs para o Ofício de Corpus Christi — uma meditação sobre o dom insuperável da Santíssima Eucaristia."
   },
   "composed": 1264,
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,7 +39,8 @@
       "id": "immensa-c01",
       "title": {
         "en-US": "Immensa",
-        "la": "Immensa"
+        "la": "Immensa",
+        "pt-BR": "Immensa"
       }
     }
   ]

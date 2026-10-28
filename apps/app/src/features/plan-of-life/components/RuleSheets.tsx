@@ -159,7 +159,9 @@ function SheetAction({
 /** The other time that holds a weekday. */
 export type TakenBy = { id: string; time?: string }
 
-type Kind = 'week' | 'month' | 'holy'
+// 'ember' is a program's own days: kept through an edit of its hour,
+// never offered as a kind to choose.
+type Kind = 'week' | 'month' | 'holy' | 'ember'
 type Draft = { kind: Kind; days: number[]; n: number[]; day: number; time: string }
 
 function draftOf(schedule: Schedule, time: string): Draft {
@@ -175,6 +177,8 @@ function draftOf(schedule: Schedule, time: string): Draft {
       return { ...base, kind: 'month', n: [] }
     case 'holy-days-of-obligation':
       return { ...base, kind: 'holy' }
+    case 'ember-days':
+      return { ...base, kind: 'ember' }
     default:
       return { ...base, days: [0, 1, 2, 3, 4, 5, 6] }
   }
@@ -183,6 +187,7 @@ function draftOf(schedule: Schedule, time: string): Draft {
 function scheduleOf(draft: Draft, seasons: Schedule['seasons']): Schedule {
   const base = seasons?.length ? { seasons } : {}
   if (draft.kind === 'holy') return { type: 'holy-days-of-obligation', ...base }
+  if (draft.kind === 'ember') return { type: 'ember-days', ...base }
   if (draft.kind === 'month') return { type: 'nth-weekday', n: draft.n, day: draft.day, ...base }
   if (draft.days.length === 7) return { type: 'daily', ...base }
   return { type: 'days-of-week', days: [...draft.days].sort((a, b) => a - b), ...base }
@@ -235,7 +240,9 @@ export function WhenSheet({
   const showDays = fields !== 'time'
   const showTime = fields !== 'days'
   const valid =
-    draft.kind === 'holy' || (draft.kind === 'week' ? draft.days.length > 0 : draft.n.length > 0)
+    draft.kind === 'holy' ||
+    draft.kind === 'ember' ||
+    (draft.kind === 'week' ? draft.days.length > 0 : draft.n.length > 0)
   const claimed = draft.kind === 'week' ? draft.days.filter((d) => taken?.has(d)) : []
   // An office's hour is kept by weekday; the other kinds don't apply to it.
   const byWeekday = !!taken?.size

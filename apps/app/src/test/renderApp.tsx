@@ -27,7 +27,6 @@ import {
 import { createEventsTable, replayAll } from '@/db/events'
 import { setDb } from '@/db/instance'
 import initialMigration from '@/db/migrations/0001_initial.sql'
-import { seedCursors, seedPractices } from '@/db/seed'
 import { resetForTests, type TestFixtures } from '@/db/test-fixtures'
 import { registerDataSources } from '@/lib/data-sources/register'
 import { useBibleStore } from '@/stores/bibleStore'
@@ -55,9 +54,6 @@ async function bootOnce() {
   await loadCatalogFromHearth()
   await warmCriticalManifests()
   await warmDeferredManifests()
-
-  await seedPractices()
-  await seedCursors()
 }
 
 type RouteRegistration = {

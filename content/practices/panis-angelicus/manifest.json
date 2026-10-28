@@ -54,7 +54,8 @@
 					"la": "Panis angelicus\nfit panis hominum;\ndat panis caelicus\nfiguris terminum:\nO res mirabilis!\nManducat Dominum\npauper, servus et humilis.\n\nTe trina Deitas\nunaque poscimus:\nsic nos tu visita,\nsicut te colimus;\nper tuas semitas\nduc nos quo tendimus,\nad lucem quam inhabitas. Amen.",
 					"pt-BR": "O Pão dos Anjos\nfaz-se Pão dos homens;\no Pão do Céu\npõe fim às figuras.\nÓ realidade admirável!\nCome do Senhor\no pobre, o servo e o humilde.\n\nÓ Deus uno e trino,\na Vós suplicamos:\nvisitai-nos assim\ncomo Vos veneramos;\npor Vossos caminhos\nconduzi-nos aonde tendemos,\nà luz em que habitais. Amém."
 				}
-			}
+			},
+			{"type": "chant", "ref": "chant/panis-angelicus"}
 		]
 	}
 }

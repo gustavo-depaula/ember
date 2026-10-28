@@ -120,6 +120,29 @@
 			]
 		},
 		{
+			"id": "modern",
+			"title": {
+				"en-US": "Nineteenth–Twentieth Century",
+				"pt-BR": "Séculos XIX–XX"
+			},
+			"description": {
+				"body": {
+					"en-US": "Abbess Cécile Bruyère of Solesmes on the spiritual life and prayer, from Scripture and the monastic tradition; and Bede Frost's handbook of the methods of mental prayer taught by the saints.",
+					"pt-BR": "A abadessa Cécile Bruyère, de Solesmes, sobre a vida espiritual e a oração, a partir da Escritura e da tradição monástica; e o manual de Bede Frost sobre os métodos de oração mental ensinados pelos santos."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/bruyere-spiritual-life-and-prayer"
+				},
+				{
+					"kind": "item",
+					"ref": "book/frost-art-of-mental-prayer"
+				}
+			]
+		},
+		{
 			"id": "catechesis",
 			"title": {
 				"en-US": "Catechesis",

@@ -37,6 +37,13 @@ export type FontMetrics = {
   width: (text: string, fontSizePx: number, kerned?: boolean) => number
   /** Advance of a single character — justif uses it for protrusion credit. */
   charAdvance: (ch: string, fontSizePx: number) => number
+  /**
+   * How far the ink of `text` runs past its advance box at either end: left
+   * of its first glyph's origin, right of its last glyph's advance. What a
+   * platform that measures lines by their ink adds to a line that begins or
+   * ends with this text.
+   */
+  overhang: (text: string, fontSizePx: number) => { start: number; end: number }
 }
 
 // Nested so a lookup costs no key-string allocation on the hot path.
@@ -50,6 +57,10 @@ function build(table: FaceMetrics): FontMetrics {
     byCodepoint.set(table.codepoints[i], table.advances[i])
   }
   const perEm = table.unitsPerEm
+  const overhangs = new Map<number, readonly [left: number, right: number]>()
+  for (let i = 0; i < table.overhang.length; i += 3) {
+    overhangs.set(table.overhang[i], [table.overhang[i + 1], table.overhang[i + 2]])
+  }
   // Unknown glyphs fall back to the WIDEST advance in the face, so a character
   // the table doesn't carry can only leave a line short of the margin.
   // Under-measuring is the direction that costs text: a line that overruns its
@@ -123,6 +134,16 @@ function build(table: FaceMetrics): FontMetrics {
     width: (text, fontSizePx, kerned = true) =>
       (units(substitute(text), kerned) * fontSizePx) / perEm,
     charAdvance: (ch, fontSizePx) => (units(ch, false) * fontSizePx) / perEm,
+    overhang: (text, fontSizePx) => {
+      // The ligature is the glyph drawn: a line ending in "off" ends in `ﬀ`.
+      const glyphs = [...substitute(text)]
+      const first = overhangs.get(glyphs[0]?.codePointAt(0) ?? -1)
+      const last = overhangs.get(glyphs.at(-1)?.codePointAt(0) ?? -1)
+      return {
+        start: ((first?.[0] ?? 0) * fontSizePx) / perEm,
+        end: ((last?.[1] ?? 0) * fontSizePx) / perEm,
+      }
+    },
   }
 }
 

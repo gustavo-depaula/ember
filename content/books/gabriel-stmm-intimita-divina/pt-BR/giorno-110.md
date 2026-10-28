@@ -15,30 +15,26 @@ e, ainda que em certos encontros saibas comportar-te humildemente, trata-se mais
 de humildade real e profunda. A humildade é verdade e por isso te diz
 que, não tendo de teu senão o pecado, por direito de
 justiça não te cabe senão humilhação e desprezo. Se
-
-
 estivesses realmente convencido disso, acharias muito justo
 que todos te humilhassem, te tratassem mal, te desprezassem.
 E de fato, que honras e considerações merece aquele que
 ofendeu seu Criador, quando um só pecado, ainda que
 venial, é mais deplorável e merece maior desprezo que
-
-
 qualquer estado de miséria, de pobreza, de ignobilidade terrena?
 
 Profundamente persuadidos disso, os Santos nunca
 consideravam demasiado graves as humilhações que lhes eram infligidas,
 aliás achavam-nas sempre inferiores ao que pensavam
-merecer. "Nunca ouvi dizer tanto mal de mim -
+merecer. “Nunca ouvi dizer tanto mal de mim -
 dizia S. Teresa de Jesus - sem ver ao mesmo tempo que
 ainda era pouco. Se me acusavam falsamente sobre um
 ponto, eu via que havia ofendido o Senhor sobre muitos
-outros e que me faziam grande caridade em não falar deles"
+outros e que me faziam grande caridade em não falar deles”
 (Cam. 15, 3).
 
-"Tem, pois, paciência nas tuas humilhações, porque,
+“Tem, pois, paciência nas tuas humilhações, porque,
 como no fogo se prova o ouro, assim o homem no crisol
-da humilhação" (cf. Ecli. 2, 4 e 5). Se sentes o peso do
+da humilhação” (cf. Ecli. 2, 4 e 5). Se sentes o peso do
 teu orgulho e desejas de verdade libertar-te dele, aceita
 todas as humilhações e por meio delas o Senhor quebrará teu orgulho.
 
@@ -64,8 +60,6 @@ reages e as repele com ressentimento,
 com despeito, e te indignas contra quem tas proporciona?
 
 Certamente, a humilhação não pode ser agradável à nossa
-
-
 natureza orgulhosa e suscetível; no entanto, mesmo sentindo
 a amargura dela, deves esforçar-te por aceitá-la de boa vontade,
 repetindo em teu coração: bom para mim, ó Senhor, que fui
@@ -76,19 +70,19 @@ das humilhações tornar-se-á doce e suave para ti; mas a esta
 suavidade só se chega depois de longo exercício,
 porque, de resto, o que mais conta não é a suavidade,
 mas a vontade de aceitar tudo o que nos
-humilha. "Deixa-te instruir, deixa-te comandar, deixa-te sujeitar e
-serás perfeito" (G.C. C.E. II, 33).
+humilha. “Deixa-te instruir, deixa-te comandar, deixa-te sujeitar e
+serás perfeito” (G.C. C.E. II, 33).
 
 ### Colóquio
 
-"Ó Senhor, que injúria se poderá jamais fazer a uma
+“Ó Senhor, que injúria se poderá jamais fazer a uma
 pessoa como eu, que mereceu ser atormentada pelos
 demônios por toda a eternidade? Se me tratam mal neste mundo, não é talvez com justiça? Verdadeiramente, ó Senhor,
 eu, sob este aspecto, não tenho propriamente nada a
 oferecer-te... Reconheço-me tão culpado diante de ti que vejo que aqueles que me
 injuriam ainda me tratam bem demais, quando,
 por não conhecerem quem sou, como Tu me conheces,
-creem ofender-me" (T.G. Cam. 36, 2).
+creem ofender-me” (T.G. Cam. 36, 2).
 
 Meu Deus, é bem verdade! a única coisa que a mim,
 pecador, me cabe de direito é a humilhação, a injúria, o desprezo.
@@ -125,6 +119,4 @@ quero sorver até a última gota toda humilhação.
 Mas ajuda-me Tu,
 ó Jesus dulcíssimo que quiseste conhecer a humilhação,
 porque sem ti sei apenas faltar aos meus
-
-
 propósitos.

@@ -1,4 +1,4 @@
-import { Bookmark, BookmarkCheck } from 'lucide-react-native'
+import { Star } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack } from 'tamagui'
@@ -12,17 +12,16 @@ type SaveToggleProps = {
 }
 
 /**
- * One-tap "Save to library" toggle — the curation gesture, distinct from
- * offline pinning. Instant, no download. A bookmark when unsaved; a filled
- * bookmark + accent when saved.
+ * One-tap Favorites toggle — the curation gesture, distinct from offline
+ * pinning. Instant, no download. A star, filled in the accent once kept.
  */
 export function SaveToggle({ itemId, kind }: SaveToggleProps) {
   const { t } = useTranslation()
   const theme = useTheme()
   const { saved, isWorking, toggle } = useSaveToggle(itemId, kind)
 
-  const Icon = saved ? BookmarkCheck : Bookmark
-  const label = saved ? t('library.saved') : t('library.save')
+  const ink = saved ? theme.accent.val : theme.colorSecondary.val
+  const label = saved ? t('library.favorited') : t('library.favorite')
 
   return (
     <Pressable
@@ -43,7 +42,7 @@ export function SaveToggle({ itemId, kind }: SaveToggleProps) {
         backgroundColor={saved ? '$accentSubtle' : 'transparent'}
         opacity={isWorking ? 0.7 : 1}
       >
-        <Icon size={14} color={saved ? theme.accent.val : theme.colorSecondary.val} />
+        <Star size={14} color={ink} fill={saved ? ink : 'none'} />
         <Text fontFamily="$body" fontSize="$1" color={saved ? '$accent' : '$colorSecondary'}>
           {label}
         </Text>

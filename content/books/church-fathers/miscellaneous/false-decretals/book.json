@@ -2,13 +2,16 @@
   "id": "miscellaneous-false-decretals",
   "cover": "quarter",
   "name": {
-    "en-US": "The False Decretals (c. 850)"
+    "en-US": "The False Decretals (c. 850)",
+    "pt-BR": "As Falsas Decretais (c. 850)"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The False Decretals (c. 850)"
+        "en-US": "The False Decretals (c. 850)",
+        "pt-BR": "As Falsas Decretais (c. 850)"
       }
     }
   ]

@@ -4,12 +4,7 @@
 // Sources output Primitives (or Primitive[]). Authors compose Primitives in
 // flow JSON, with `Include` as the one node that defers to a ContentSource.
 
-import type {
-  BilingualRichText,
-  BilingualText,
-  PickerStyle,
-  RenderedSection,
-} from '@ember/content-engine'
+import type { BilingualText, PickerStyle, RenderedSection } from '@ember/content-engine'
 
 type LiturgicalColor = 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
 
@@ -18,6 +13,10 @@ export type TextPrimitive = {
   text: BilingualText
   voice?: 'priest' | 'people' | 'all'
   style?: 'normal' | 'italic'
+  // 'verse' sets each line as a line of verse (a psalm, a hymn): ragged, never
+  // justified, so a line that wraps does not spread its words across the
+  // column. Default (undefined) follows the reader's alignment.
+  layout?: 'verse'
   // 'do' routes the text through the Divinum Officium inline renderer, which
   // styles verse numbers, mediant/pointing marks and small caps. Default
   // (undefined) uses the standard markdown inline renderer.
@@ -73,6 +72,31 @@ export type VersesPrimitive = {
   fallback?: boolean
   // As on TextPrimitive: the item text carries Divinum Officium inline markup.
   markup?: 'do'
+}
+
+// A chant score beside the text it sets. The score travels in the primitive —
+// a block never fetches — as GABC, and is engraved where it is drawn, to that
+// screen's width (features/chant).
+export type ChantPrimitive = {
+  type: 'chant'
+  name: string
+  /** What the chant is in its liturgy, in Latin: `Introitus`, `Graduale`. */
+  part?: string
+  mode?: string
+  commentary?: string
+  book?: string
+  transcriber?: string
+  score: string
+}
+
+// A text with the chant it is sung to: two faces of one block, of which the
+// page shows one at a time. `text` is what would stand there unsung; a text
+// set to more than one piece (a gradual and its Alleluia, an antiphon and its
+// psalm) carries them in the order they are sung.
+export type SungPrimitive = {
+  type: 'sung'
+  text: Primitive[]
+  chants: ChantPrimitive[]
 }
 
 export type ImagePrimitive = {
@@ -197,7 +221,14 @@ export type ContainerBehavior =
       pickerStyle?: PickerStyle
       options: ContainerOption[]
     }
-  | { kind: 'options'; label: BilingualText; pickerStyle?: PickerStyle; options: ContainerOption[] }
+  | {
+      kind: 'options'
+      label: BilingualText
+      pickerStyle?: PickerStyle
+      // The option shown first where it is not the first of the list.
+      initialId?: string
+      options: ContainerOption[]
+    }
   | { kind: 'color-scope'; color: LiturgicalColor }
   | {
       kind: 'prayer'
@@ -207,16 +238,6 @@ export type ContainerBehavior =
       defaultOpen?: boolean
     }
   | { kind: 'liturgical-prayer'; speaker: 'priest' | 'people' | 'all'; text: BilingualText }
-  | {
-      kind: 'choice-rich-text'
-      label: BilingualText
-      overrideKey: string
-      selectedId?: string
-      pickerStyle?: PickerStyle
-      hideLabel?: boolean
-      precedingResponse?: BilingualText
-      options: ChoiceRichTextOption[]
-    }
 
 export type ContainerOption = {
   id: string
@@ -229,18 +250,6 @@ export type ContainerOption = {
   // Un-preprocessed engine output for a `select` branch, kept so non-selected
   // branches can be preprocessed lazily client-side without a full re-resolve.
   rawSections?: RenderedSection[]
-}
-
-export type ChoiceRichTextOption = {
-  id: string
-  label: BilingualText
-  body: BilingualRichText
-  citation?: BilingualText
-  summary?: BilingualText
-  introduction?: BilingualText
-  conclusion?: BilingualText
-  response?: BilingualRichText
-  excerpt?: BilingualText
 }
 
 export type ContainerPrimitive = {
@@ -259,6 +268,8 @@ export type Primitive =
   | DividerPrimitive
   | VersesPrimitive
   | ImagePrimitive
+  | ChantPrimitive
+  | SungPrimitive
   | GalleryPrimitive
   | HolyCardPrimitive
   | ProsePrimitive

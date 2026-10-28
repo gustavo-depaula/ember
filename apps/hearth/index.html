@@ -3,11 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- head -->
   <title>Ember — Catholic prayer</title>
   <meta name="description" content="Pray the Rosary, the Mass and the Hours. Keep a plan of life. Read the saints. A Catholic prayer app in English and Brazilian Portuguese.">
-  <meta property="og:title" content="Ember — Catholic prayer">
-  <meta property="og:description" content="Pray the Rosary, the Mass and the Hours. Keep a plan of life. Read the saints.">
-  <meta property="og:image" content="https://ember.dpgu.me/site/img/en-US-04-holy-card.webp">
+  <!-- /head -->
   <link rel="icon" href="site/img/favicon.png">
   <link rel="preload" href="site/fonts/Junicode-Italic.woff2" as="font" type="font/woff2" crossorigin>
   <style>
@@ -62,8 +61,12 @@
       letter-spacing: -0.005em;
     }
     .lede { max-width: 30rem; margin: 1.75rem 0 2.25rem; font-size: 1.3rem; line-height: 1.5; }
-    .status { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.5rem; }
-    .soon { border: 1px solid var(--gold-deep); border-radius: 999px; padding: 0.55rem 1.2rem; color: var(--parchment); font-size: 1.05rem; }
+    .status { display: flex; flex-direction: column; align-items: flex-start; gap: 1.25rem; }
+    .stores { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+    .stores a { display: block; transition: transform 0.2s ease; }
+    .stores a:hover { transform: translateY(-2px); }
+    .stores img { height: 3.25rem; width: auto; }
+    .beta { margin: -0.6rem 0 0; font: 0.66rem Cinzel, serif; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); }
     .phone { width: min(100%, 19rem); border-radius: 2.6rem; border: 1px solid rgba(201, 168, 76, 0.35); box-shadow: 0 2.5rem 5rem rgba(0, 0, 0, 0.7); }
     .hero .phone { justify-self: center; transform: rotate(2deg); }
     @media (max-width: 52rem) {
@@ -126,6 +129,12 @@
     .counts { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem 3.5rem; margin: 2.5rem 0; padding: 0; list-style: none; }
     .counts b { display: block; font: italic 400 2.9rem/1 Junicode, serif; color: var(--gold); }
 
+    /* The page ends where it began: the badges again, for whoever read to the end. */
+    .begin { text-align: center; padding: clamp(3.5rem, 7vw, 6rem) 0 clamp(4rem, 8vw, 6.5rem); border-top: 1px solid rgba(201, 168, 76, 0.28); }
+    .begin .icon { width: 4.5rem; height: 4.5rem; border-radius: 1rem; margin: 0 auto 1.75rem; box-shadow: 0 1.2rem 2.4rem rgba(0, 0, 0, 0.6); }
+    .begin .stores { justify-content: center; margin-top: 2rem; }
+    .begin .beta { margin-top: 1rem; }
+
     footer { border-top: 1px solid rgba(201, 168, 76, 0.28); padding: 2.5rem 0 3.5rem; font-size: 1rem; }
     footer .wrap { display: flex; flex-wrap: wrap; gap: 0.75rem 2rem; align-items: baseline; }
     footer .mark { margin-right: auto; color: var(--parchment); }
@@ -151,8 +160,18 @@
           <p class="lede" lang="en">The Rosary, the Mass and the Divine Office, a rule of prayer to keep, and a library of the saints to read, in one app.</p>
           <p class="lede" lang="pt-BR">O Terço, a Missa e o Ofício Divino, uma regra de oração para guardar e uma biblioteca dos santos para ler, em um só aplicativo.</p>
           <div class="status">
-            <span class="soon" lang="en">Coming soon to iPhone and Android</span>
-            <span class="soon" lang="pt-BR">Em breve para iPhone e Android</span>
+            <div class="stores">
+              <a href="https://play.google.com/store/apps/details?id=me.dpgu.ember">
+                <img lang="en" src="site/img/badges/google-play-en.svg" width="180" height="53" alt="Get it on Google Play">
+                <img lang="pt-BR" src="site/img/badges/google-play-pt.svg" width="239" height="71" alt="Disponível no Google Play">
+              </a>
+              <!-- The App Store listing is still in review; until then iPhones install through TestFlight's public link. -->
+              <a href="https://testflight.apple.com/join/g2bQGgAG">
+                <img src="site/img/badges/app-store.svg" width="120" height="40" alt="Download on the App Store">
+              </a>
+            </div>
+            <p class="beta" lang="en">On iPhone, a beta through TestFlight</p>
+            <p class="beta" lang="pt-BR">No iPhone, uma versão beta pelo TestFlight</p>
             <a href="#inside"><span lang="en">See what is inside</span><span lang="pt-BR">Veja o que há dentro</span></a>
             <!-- web:hero -->
           </div>
@@ -342,6 +361,25 @@
     </div>
   </section>
 
+  <section class="begin">
+    <div class="wrap">
+      <img class="icon" src="site/img/icon.webp" alt="" width="72" height="72" loading="lazy">
+      <h2 lang="en">Begin today</h2>
+      <h2 lang="pt-BR">Comece hoje</h2>
+      <div class="stores">
+        <a href="https://play.google.com/store/apps/details?id=me.dpgu.ember">
+          <img lang="en" src="site/img/badges/google-play-en.svg" width="180" height="53" alt="Get it on Google Play">
+          <img lang="pt-BR" src="site/img/badges/google-play-pt.svg" width="239" height="71" alt="Disponível no Google Play">
+        </a>
+        <a href="https://testflight.apple.com/join/g2bQGgAG">
+          <img src="site/img/badges/app-store.svg" width="120" height="40" alt="Download on the App Store">
+        </a>
+      </div>
+      <p class="beta" lang="en">On iPhone, a beta through TestFlight</p>
+      <p class="beta" lang="pt-BR">No iPhone, uma versão beta pelo TestFlight</p>
+    </div>
+  </section>
+
   <footer>
     <div class="wrap">
       <span class="mark">Ember</span>
@@ -361,9 +399,10 @@
       }
       var saved = null
       try { saved = localStorage.getItem('lang') } catch (e) {}
-      // A link may ask for a language (`?lang=pt`): the website's Portuguese pages do.
+      // A link may ask for a language: `/pt/app/`, or `?lang=pt`.
       var asked = /[?&]lang=(pt|en)\b/.exec(location.search)
-      set((asked && asked[1]) || saved || (/^pt/i.test(navigator.language) ? 'pt' : 'en'))
+      var page = /^\/pt\//.test(location.pathname) ? 'pt' : null
+      set((asked && asked[1]) || page || saved || (/^pt/i.test(navigator.language) ? 'pt' : 'en'))
       document.getElementById('switch').addEventListener('click', function (e) {
         e.preventDefault()
         var next = root.dataset.lang === 'pt' ? 'en' : 'pt'

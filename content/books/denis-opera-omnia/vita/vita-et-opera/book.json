@@ -1,0 +1,63 @@
+{
+  "id": "denis-vita-et-opera",
+  "cover": "label",
+  "name": {
+    "la": "Vita V. P. Dionysii Cartusiani et elenchus operum",
+    "en-US": "The Life of Denis the Carthusian, and the List of His Works",
+    "pt-BR": "A vida de Dionísio, o Cartuxo, e o catálogo das suas obras"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "Vita V. P. Dionysii Cartusiani et elenchus operum.",
+    "en-US": "The edition's preface, the life of Denis by his confrère Dietrich Loer, and the editors' catalogue of his works.",
+    "pt-BR": "O prefácio da edição, a vida de Dionísio escrita pelo seu confrade Teodorico Loer e o catálogo das suas obras feito pelos editores."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniainunum01deni",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. I (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Initium",
+        "en-US": "Opening",
+        "pt-BR": "Abertura"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Vita",
+        "en-US": "Vita",
+        "pt-BR": "Vita"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Revelationes d. dionysio factæ",
+        "en-US": "Revelationes d. dionysio factæ",
+        "pt-BR": "Revelationes d. dionysio factæ"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Elenchus",
+        "en-US": "Elenchus",
+        "pt-BR": "Elenchus"
+      }
+    }
+  ]
+}

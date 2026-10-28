@@ -123,4 +123,25 @@ describe('chronicleDay', () => {
       false,
     )
   })
+
+  it("numbers a day within its own round, and shows a later round's missed day", () => {
+    const ember = 'practice/ember-days'
+    const programs = [
+      {
+        practiceId: ember,
+        time: '07:00',
+        dates: [],
+        rounds: [
+          ['2026-12-16', '2026-12-18', '2026-12-19'],
+          ['2027-02-17', '2027-02-19', '2027-02-20'],
+        ],
+      },
+    ]
+    const opts = { programs, today: '2027-03-01' }
+    const kept = day('2027-02-19', [], [{ practiceId: ember, subId: '1' }], opts)
+    expect(kept.beads).toMatchObject([{ kind: 'program', programDay: 2, state: 'kept' }])
+    const missed = day('2027-02-20', [], [], opts)
+    expect(missed.beads).toMatchObject([{ kind: 'program', programDay: 3, state: 'missed' }])
+    expect(missed.notes).toEqual([])
+  })
 })

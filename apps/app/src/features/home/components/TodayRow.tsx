@@ -23,7 +23,14 @@ import { openTodayPlan } from './TodayPlanSheet'
  * holy day of obligation — and the five practices prayed most in the last 15
  * days that today's plan doesn't already hold.
  */
-export function TodayRow({ plan }: { plan: TodayPlan }) {
+export function TodayRow({
+  plan,
+  showPlan = true,
+}: {
+  plan: TodayPlan
+  /** Off where the plan already stands on the page beside the row. */
+  showPlan?: boolean
+}) {
   const { t } = useTranslation()
   const router = useRouter()
   const practices = useEventStore((s) => s.practices)
@@ -51,7 +58,14 @@ export function TodayRow({ plan }: { plan: TodayPlan }) {
 
   return (
     <CardRow>
-      <PlanOfLifeCard plan={plan} onPress={openTodayPlan} />
+      {showPlan && (
+        <PlanOfLifeCard
+          plan={plan}
+          onPress={
+            plan.slots.length > 0 ? openTodayPlan : () => router.navigate('/(tabs)/(you)/you')
+          }
+        />
+      )}
       <ObligationCard date={plan.now} />
       {massFirst && massTile}
       {rosary && <PracticeTile id={rosaryId} entry={rosary} />}

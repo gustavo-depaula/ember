@@ -1,5 +1,6 @@
+import { descriptionOf, type Lang, prayerLines } from '@ember/missal'
 import { localizeContent } from '@/lib/i18n'
-import { loadMassFormulary } from '@/lib/mass-of/loaders'
+import { loadMassFormulary } from '@/lib/missal/loaders'
 
 export type SaintCollect = {
   lang: string
@@ -18,20 +19,16 @@ export async function loadSaintCollect(
   lang: string,
 ): Promise<SaintCollect | undefined> {
   const formulary = await loadMassFormulary(proper)
-  const body = formulary?.collect?.options?.[0]?.body as
-    | { lines?: Record<string, Array<Array<{ text?: string }>>> }
-    | undefined
-  const byLang = body?.lines
-  if (!byLang) return undefined
-  const picked = byLang[lang] ?? byLang['en-US'] ?? byLang.la
-  if (!picked) return undefined
-  // Each line is a run of styled segments.
-  const lines = picked.map((segments) => segments.map((s) => s.text ?? '').join('')).filter(Boolean)
-  if (lines.length === 0) return undefined
+  if (!formulary) return undefined
+  const collect = formulary.items.filter((item) => item.part === 'collect')
+  // The reader's language, then English, then Latin.
+  const used = ([lang, 'en-US', 'la'] as Lang[]).find((l) => prayerLines(collect, l).length > 0)
+  if (!used) return undefined
+  const lines = prayerLines(collect, used)
   return {
-    lang,
+    lang: used,
     lines,
     title: formulary?.title ? localizeContent(formulary.title) : undefined,
-    about: formulary?.description ? localizeContent(formulary.description) : undefined,
+    about: descriptionOf(formulary, used) || undefined,
   }
 }

@@ -1,17 +1,20 @@
 import { useTranslation } from 'react-i18next'
 import { XStack, YStack } from 'tamagui'
 
-import { ScreenLayout, SectionDivider } from '@/components'
+import { ScreenLayout, SectionDivider, Split, useWidthClass } from '@/components'
 import { Typography } from '@/components/typography'
+
+import { BibleBookIndex } from './BibleBookIndex'
 import { GospelOfTheDay } from './GospelOfTheDay'
 import { ReadingStamps } from './ReadingStamps'
 import { ThemedReadings } from './ThemedReadings'
 
 export function BibleDiscovery() {
   const { t } = useTranslation()
+  const { medium, expanded } = useWidthClass()
 
   return (
-    <ScreenLayout>
+    <ScreenLayout measure="wide">
       <YStack gap="$lg" paddingVertical="$lg">
         <YStack gap="$xs" marginTop="$-md">
           <Typography variant="screen-title" fontSize={44} lineHeight={50}>
@@ -30,10 +33,29 @@ export function BibleDiscovery() {
             <YStack flex={1} height={1} backgroundColor="$accentSubtle" />
           </XStack>
         </YStack>
-        <GospelOfTheDay />
-        <ReadingStamps />
-        <SectionDivider />
-        <ThemedReadings />
+        {expanded ? (
+          <>
+            <Split asideSide="right" asideWidth={360} gap={40} aside={<ReadingStamps />}>
+              <GospelOfTheDay />
+            </Split>
+            <SectionDivider />
+            <ThemedReadings />
+          </>
+        ) : (
+          <>
+            <GospelOfTheDay />
+            <ReadingStamps />
+            <SectionDivider />
+            <ThemedReadings />
+          </>
+        )}
+        {/* The canon on the page, as the website's Bible sets it out. */}
+        {medium && (
+          <>
+            <SectionDivider />
+            <BibleBookIndex />
+          </>
+        )}
       </YStack>
     </ScreenLayout>
   )

@@ -1,0 +1,34 @@
+{
+ "narrator-padre": {
+  "description": "Native Brazilian Portuguese speaker with a neutral São Paulo accent, never European Portuguese. Male, 60 to 70. Studio quality. Persona: old parish priest reading the Gospel at Mass. Emotion: serene, fatherly, reverent. A warm, slightly aged voice, slow and clear.",
+  "generated": [
+   "o2G3JHzF5fAVj70iMNRn",
+   "UABclw0LS3j7xQk3Lqkr",
+   "QgXSyKhwi01qUPyFu6Ns"
+  ]
+ },
+ "narrator-jovem": {
+  "description": "Native Brazilian Portuguese speaker with a neutral São Paulo accent, never European Portuguese. Male, 28 to 35. Studio quality. Persona: young lector. Emotion: clear, sincere, attentive. A bright, natural voice reading Scripture simply, without theatricality.",
+  "generated": [
+   "yxz1dttZKXwwSE6ItDMZ",
+   "dzNRK6arccyc9CDQHHJd",
+   "S5AlrO3aoqXGrDLjojM9"
+  ]
+ },
+ "narrator-grave": {
+  "description": "Native Brazilian Portuguese speaker with a neutral São Paulo accent, never European Portuguese. Male, 40 to 50. Studio quality. Persona: audiobook narrator. Emotion: deep, composed, intimate. A rich baritone, close to the microphone, unhurried.",
+  "generated": [
+   "ES4LYRbpqoW3Qa0lLflj",
+   "RedsZcPrfpqwRizB3GnY",
+   "ceUrdZSnyEjficn1L7cf"
+  ]
+ },
+ "narrator-mulher": {
+  "description": "Native Brazilian Portuguese speaker with a neutral São Paulo accent, never European Portuguese. Female, 40 to 50. Studio quality. Persona: woman reading Scripture aloud. Emotion: calm, warm, reverent. A low, clear voice, measured and unhurried.",
+  "generated": [
+   "cZ90Ax2RFUcFlP6HsDDd",
+   "tRy6WHPM6M2IRAc8KguT",
+   "OnwrCckCFSahAIkYqdh6"
+  ]
+ }
+}

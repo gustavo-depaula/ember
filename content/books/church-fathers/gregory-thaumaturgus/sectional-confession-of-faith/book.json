@@ -2,13 +2,16 @@
   "id": "gregory-thaumaturgus-sectional-confession-of-faith",
   "cover": "quarter",
   "name": {
-    "en-US": "A Sectional Confession of Faith"
+    "en-US": "A Sectional Confession of Faith",
+    "pt-BR": "Confissão de Fé por Partes"
   },
   "author": {
-    "en-US": "Gregory Thaumaturgus"
+    "en-US": "Gregory Thaumaturgus",
+    "pt-BR": "Gregório Taumaturgo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "A Sectional Confession of Faith"
+        "en-US": "A Sectional Confession of Faith",
+        "pt-BR": "Confissão de Fé por Partes"
       }
     }
   ]

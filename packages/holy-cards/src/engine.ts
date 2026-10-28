@@ -1,3 +1,4 @@
+import type { Transfers } from '@ember/missal'
 import { addDays, ascending, yearOf } from './dates'
 import { longestWindow, rules } from './rules'
 import { seasonsStartingIn } from './seasons'
@@ -18,11 +19,11 @@ export function grants(input: EngineInput, since: IsoDate = ''): Grant[] {
  * the oldest season whose card could still be waiting. `pendingCards` needs no
  * acts before it (practice occurrences excepted: a lineage counts them all).
  */
-export function historyStart(today: IsoDate): IsoDate {
+export function historyStart(today: IsoDate, transfers?: Transfers): IsoDate {
   const since = addDays(today, -longestWindow)
   const year = yearOf(since)
   return [year - 1, year]
-    .flatMap(seasonsStartingIn)
+    .flatMap((y) => seasonsStartingIn(y, transfers))
     .filter((w) => w.end >= since)
     .reduce((earliest, w) => (w.start < earliest ? w.start : earliest), since)
 }

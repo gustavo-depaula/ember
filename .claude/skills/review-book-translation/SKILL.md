@@ -24,7 +24,7 @@ The most important check. For each chapter file, compare the original against ea
 - **Same number of major sections** (e.g., Punto I/II/III → Point I/II/III → Ponto I/II/III)
 - **Same number of prayer/affection sections** (Affetti e preghiere → Affections and Prayers → Afetos e Orações)
 - **No missing paragraphs** — count paragraphs per section and flag mismatches
-- **Author parentheticals preserved** — personal notes, asides, and editorial remarks by the author (not editor footnotes) must appear in all translations
+- **Author parentheticals preserved** — personal notes, asides, and editorial remarks by the author must appear in all translations
 - **Inline Latin quotes present** — every Latin phrase in the original should appear in all translations
 
 ### 2. Structure & Headings
@@ -37,8 +37,10 @@ The most important check. For each chapter file, compare the original against ea
 
 ### 3. Footnotes
 
-- Editor footnotes (`[^N]` markers and definitions) must be **removed** in translations (unless the user explicitly asked to keep them)
-- Author footnotes should be **preserved** if they exist in the original
+- Every source footnote, author's or editor's, has its counterpart: the same `[^N]` marker at the same place and its definition translated
+- A translator's note added by the translation (`*Nota do tradutor:*`) is the one footnote the source lacks
+- No source backs a translator's note, so check it as a claim of fact: a wrong fact, citation or identification is a defect; an unconfirmable precise detail is cut back to what is certain; a note that restates the text or comments on doctrine is removed
+- Every inline note of the edition (the Leonine critical apparatus `*(*lemma.—variant* sigla.)*`) is in place, its Latin readings and sigla unchanged, the editor's words translated
 
 ### 4. Latin & Scripture
 

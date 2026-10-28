@@ -1,6 +1,6 @@
 import { addDays, differenceInCalendarDays } from 'date-fns'
 
-import { getOfLiturgicalPosition } from './of-position'
+import { type Transfers, temporalDay, universalTransfers } from './of-temporal'
 import {
   computeEaster,
   dateBefore,
@@ -46,11 +46,78 @@ function named(t: Localizer['t'], key: string): string {
   return t(`home.liturgicalDay.named.${key}`)
 }
 
+// The Ordinary Form's named days, by the key its temporal cycle gives them.
+const ofNamedDays: Record<string, string> = {
+  christmas: 'christmas',
+  'mary-mother-of-god': 'maryMotherOfGod',
+  epiphany: 'epiphany',
+  'baptism-of-the-lord': 'baptismOfTheLord',
+  'ash-wednesday': 'ashWednesday',
+  'palm-sunday': 'palmSunday',
+  'holy-thursday': 'holyThursday',
+  'good-friday': 'goodFriday',
+  'holy-saturday': 'holySaturday',
+  'easter-sunday': 'easterSunday',
+  pentecost: 'pentecost',
+}
+
+/**
+ * The Ordinary Form's name for a day, read off the same temporal cycle the
+ * Mass of the day comes from, so the two cannot place a day differently.
+ */
+function ofDayName(date: Date, t: Localizer['t'], transfers: Transfers): string {
+  const day = temporalDay(date, transfers)
+  const weekday = dayName(t, `${day.weekday}`)
+  const namedKey = day.key ? ofNamedDays[day.key] : undefined
+  if (namedKey) return named(t, namedKey)
+
+  const weekOf = (seasonKey: string) => {
+    const ordinal = t(`ordinal.${day.week}`)
+    const season = t(`home.liturgicalDay.seasons.${seasonKey}`)
+    if (day.weekday === 0) return t('home.liturgicalDay.sundayOf', { ordinal, season })
+    return t('home.liturgicalDay.weekdayOf', {
+      day: weekday,
+      ordinal,
+      ordinalFem: t(`ordinalFem.${day.week}`, { defaultValue: ordinal }),
+      season,
+    })
+  }
+
+  switch (day.season) {
+    case 'advent':
+      return weekOf('advent')
+    case 'christmas': {
+      if (date.getMonth() === 0 && day.weekday === 0)
+        return t('home.liturgicalDay.sundayOfChristmas')
+      // Days are counted from Christmas Day, the first.
+      const christmas = new Date(date.getFullYear() - (date.getMonth() === 0 ? 1 : 0), 11, 25)
+      return t('home.liturgicalDay.christmasOrdinal', {
+        ordinal: t(`ordinal.${daysSince(christmas, date) + 1}`),
+      })
+    }
+    case 'lent':
+      return day.week === 0
+        ? t('home.liturgicalDay.afterAshWednesday', { day: weekday })
+        : weekOf('lent')
+    case 'holy-week':
+      return t('home.liturgicalDay.holyWeekDay', { day: weekday })
+    case 'easter':
+      return day.week === 1
+        ? t('home.liturgicalDay.easterOctave', { day: weekday })
+        : weekOf('easter')
+    default:
+      return weekOf('ordinaryTime')
+  }
+}
+
 export function getLiturgicalDayName(
   date: Date,
   form: LiturgicalCalendarForm = 'of',
   localizer: Localizer,
+  // Where Epiphany is kept decides which January day is named for it.
+  transfers: Transfers = universalTransfers,
 ): string {
+  if (form === 'of') return ofDayName(normalizeDate(date), localizer.t, transfers)
   const { t } = localizer
 
   const year = date.getFullYear()
@@ -156,24 +223,6 @@ export function getLiturgicalDayName(
     if (dateOnOrAfter(d, pentecost)) {
       return t('home.liturgicalDay.pentecostWeek', { day: dayName(t, `${dow}`) })
     }
-  }
-
-  // The OF numbers Ordinary Time from the position the Mass readings follow:
-  // after Pentecost it counts back from Christ the King (week 34), so it can't
-  // be reckoned forward from the weeks before Lent.
-  const position = form === 'of' ? getOfLiturgicalPosition(d) : undefined
-  if (position?.season === 'ordinary') {
-    const { week, dayOfWeek } = position
-    const ordinal = t(`ordinal.${week}`)
-    const ordinalFem = t(`ordinalFem.${week}`, { defaultValue: ordinal })
-    const season = t('home.liturgicalDay.seasons.ordinaryTime')
-    if (dayOfWeek === 0) return t('home.liturgicalDay.sundayOf', { ordinal, season })
-    return t('home.liturgicalDay.weekdayOf', {
-      day: dayName(t, `${dayOfWeek}`),
-      ordinal,
-      ordinalFem,
-      season,
-    })
   }
 
   const baptismNext = addDays(baptism, 1)

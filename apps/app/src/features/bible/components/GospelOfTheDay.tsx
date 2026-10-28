@@ -10,7 +10,7 @@ import { Typography } from '@/components/typography'
 import { blockInk, blockLabelInk, jewelTones } from '@/features/explore/bgColor'
 import { evangelistArtFor } from '@/features/explore/evangelistArt'
 import { useToday } from '@/hooks/useToday'
-import { useGospelOfTheDay as useGospelOfTheDayQuery } from '@/lib/mass-of/use-gospel-of-the-day'
+import { useGospelOfTheDay as useGospelOfTheDayQuery } from '@/lib/missal/use-gospel-of-the-day'
 
 const dayMs = 86_400_000
 const tone = jewelTones.red

@@ -1,0 +1,51 @@
+{
+  "parts": [
+    {
+      "volume": "doctorisecstati02unkngoog",
+      "leaves": [
+        "0457",
+        "0458",
+        "0459",
+        "0460",
+        "0461",
+        "0462",
+        "0463",
+        "0464",
+        "0465",
+        "0466",
+        "0467",
+        "0468",
+        "0469"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-sacra-communione-frequentanda",
+  "slug": "de-sacra-communione-frequentanda",
+  "draft": false,
+  "meta": {
+    "id": "denis-de-sacra-communione-frequentanda",
+    "cover": "label",
+    "name": {
+      "la": "De sacra communione frequentanda",
+      "en-US": "On Frequent Holy Communion",
+      "pt-BR": "Sobre a comunhão frequente"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De sacra communione frequentanda.",
+      "en-US": "One of Denis the Carthusian's minor works.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/doctorisecstati02unkngoog",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  }
+}

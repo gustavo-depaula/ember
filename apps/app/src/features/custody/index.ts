@@ -9,8 +9,8 @@
  * wire these seams:
  *
  * - Boot — `app/_layout.tsx`: `startCustody()` in `initCorpus`'s `finally`,
- *   after the corpus has seeded.
- * - Routes — `app/(tabs)/(today,you,search)/custody/`, one
+ *   after the corpus has loaded.
+ * - Routes — `app/(tabs)/(today,you,search,prayers,bible,library,saints,calendar)/custody/`, one
  *   `export { X as default } from '@/features/custody'` file per screen:
  *   `_layout` → CustodyLayout, `index` → CustodyScreen,
  *   `new` → NewCommitmentScreen, `[commitmentId]` → EditCommitmentScreen,

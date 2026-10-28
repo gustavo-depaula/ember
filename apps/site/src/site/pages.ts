@@ -13,7 +13,14 @@ import { indexedChurches, places } from '~/lib/massTimes/data'
 import { listPrayers } from '~/lib/prayers'
 import { saintsCatalog } from '~/lib/saints'
 import { today } from '~/lib/today'
-import { href, isoDate, type OfficeHour, officeHours } from '~/routes'
+import {
+  type DevDoc,
+  href,
+  isoDate,
+  type OfficeHour,
+  officeHours,
+  publishedDevDocs,
+} from '~/routes'
 
 export type Page =
   | { view: 'home' }
@@ -38,12 +45,17 @@ export type Page =
   | { view: 'office'; date: string; hour?: OfficeHour; today?: boolean; form?: string }
   | { view: 'massTimes' }
   | { view: 'churchShell' }
+  | { view: 'massTimesChanges' }
   | { view: 'church'; id: string }
   | { view: 'place'; country: string; place: string }
   | { view: 'search' }
+  | { view: 'connect' }
   | { view: 'plans' }
   | { view: 'plan'; id: string }
   | { view: 'voices' }
+  | { view: 'chants' }
+  | { view: 'chant'; id: string }
+  | { view: 'developers'; doc: DevDoc }
 
 export type PageEntry = {
   locale: Locale
@@ -188,6 +200,7 @@ async function drafts(): Promise<Draft[]> {
     page: { view: 'churchShell' },
     path: (l) => href.massTimesPlace(l, l === 'pt-BR' ? 'igreja' : 'church'),
   })
+  out.push({ page: { view: 'massTimesChanges' }, path: (l) => href.massTimesChanges(l) })
   for (const church of await indexedChurches()) {
     out.push({ page: { view: 'church', id: church.id }, path: (l) => href.church(l, church.id) })
   }
@@ -199,11 +212,20 @@ async function drafts(): Promise<Draft[]> {
   }
 
   out.push({ page: { view: 'search' }, path: (l) => href.section(l, 'search') })
+  out.push({ page: { view: 'connect' }, path: (l) => href.section(l, 'connect') })
   out.push({ page: { view: 'plans' }, path: (l) => href.section(l, 'plans') })
   for (const [id] of listEntries('plan-of-life-template')) {
     out.push(catalogDraft({ view: 'plan', id }, id, (l) => href.plan(l, id)))
   }
   out.push({ page: { view: 'voices' }, path: (l) => href.section(l, 'voices') })
+  // Chant is sung in Latin wherever it is sung: a page of it belongs to both languages.
+  out.push({ page: { view: 'chants' }, path: (l) => href.section(l, 'chant') })
+  for (const [id] of listEntries('chant')) {
+    out.push({ page: { view: 'chant', id }, path: (l) => href.chant(l, id) })
+  }
+  for (const doc of publishedDevDocs) {
+    out.push({ page: { view: 'developers', doc }, path: (l) => href.developers(l, doc) })
+  }
   return out
 }
 

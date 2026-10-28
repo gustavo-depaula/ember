@@ -12,7 +12,6 @@ import { unhyphenated } from '@/test/text'
 import { ProducerHtmlBlock } from '../../include/ProducerHtmlBlock'
 import { PrayerLines } from '../../PrayerText'
 import { BilingualBlock } from '../../prayer/BilingualBlock'
-import { ChoiceRichTextBlock } from '../../prayer/ChoiceRichTextBlock'
 import { VersesBlock } from '../../VersesBlock'
 import { ReadingParagraph } from '..'
 
@@ -214,37 +213,6 @@ describe('ReadingParagraph draws the segments itself wherever the breaker does n
     })
   })
 
-  // `fontStyle: italic` over the roman would draw with the roman's advances,
-  // which is not what the justifier measured.
-  it('draws a missal rubric in the italic face the justifier measures', () => {
-    usePreferencesStore.setState({ textAlign: 'left' })
-    wrap(
-      <ChoiceRichTextBlock
-        label={{ primary: 'Collect' }}
-        selectedId="a"
-        onSelect={() => {}}
-        options={[
-          {
-            id: 'a',
-            label: { primary: 'A' },
-            body: {
-              primary: [
-                [
-                  { type: 'rubric', text: 'Kneel' },
-                  { type: 'text', text: ' and pray.' },
-                ],
-              ],
-            },
-          },
-        ]}
-      />,
-    )
-    expect(screen.getByText('Kneel', unhyphenated)).toHaveStyle({
-      fontFamily: italicFace,
-      fontStyle: 'normal',
-    })
-  })
-
   it('keeps a cross-reference tappable in ragged text', () => {
     usePreferencesStore.setState({ textAlign: 'left' })
     const onRefPress = vi.fn()
@@ -261,16 +229,7 @@ describe('ReadingParagraph draws the segments itself wherever the breaker does n
     expect(onRefPress).toHaveBeenCalledWith('book/ccc#1213')
   })
 
-  // A ℟ mark is an element the breaker can't measure, and a prayer never mixes
-  // the two renderers, so a prefixed prayer is left to the platform whole.
-  it('leaves a prayer opened by a response mark to the platform', () => {
-    measurable()
-    const { container } = wrap(<PrayerLines text={`${long}\n${long}`} prefix="℟. " />)
-    expect(screen.getByText('℟.')).toBeTruthy()
-    expect(container.querySelectorAll('span[style*="letter-spacing"]')).toHaveLength(0)
-  })
-
-  it('justifies the same prayer without one', () => {
+  it('justifies a prayer', () => {
     measurable()
     const { container } = wrap(<PrayerLines text={long} />)
     expect(container.querySelectorAll('span[style*="letter-spacing"]').length).toBeGreaterThan(0)

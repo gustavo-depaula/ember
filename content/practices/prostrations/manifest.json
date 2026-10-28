@@ -1,0 +1,53 @@
+{
+	"id": "prostrations",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Prostrations",
+		"pt-BR": "Prostrações"
+	},
+	"source": {
+		"en-US": "Prayers as in the corpus's Byzantine morning rule and Jesus Prayer: the [Byzantine Catholic morning rule of prayer](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2705:a-morning-rule-of-prayer&catid=31) (byzcath.org); Portuguese text from the *Pequeno Devocionário Ortodoxo* (Ortodoxia.pt, 2019).",
+		"pt-BR": "Orações como na regra matinal bizantina e na Oração de Jesus do corpus: a [regra matinal bizantina católica](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2705:a-morning-rule-of-prayer&catid=31) (byzcath.org); texto português retirado do *Pequeno Devocionário Ortodoxo* (Ortodoxia.pt, 2019)."
+	},
+	"categories": [
+		"daily",
+		"byzantine"
+	],
+	"estimatedMinutes": 5,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "Prayer made with the whole body: the bows to the ground of the Byzantine tradition, each joined to a short cry for mercy.",
+		"pt-BR": "A oração feita com o corpo inteiro: as inclinações até o chão da tradição bizantina, cada uma unida a um breve clamor por misericórdia."
+	},
+	"history": {
+		"en-US": "The East calls the bow a *metania*, from the Greek *metanoia*, repentance: a small one bends from the waist, a great one goes down to the ground. Prostrations belong to the monastic rule of prayer and to the penitential seasons, above all Great Lent. By ancient custom, confirmed at the First Council of Nicaea, they are not made on Sundays or from Pascha to Pentecost, when the Church prays standing in the joy of the Resurrection.",
+		"pt-BR": "O Oriente chama a inclinação de *metânia*, do grego *metanoia*, arrependimento: a pequena dobra-se da cintura, a grande vai até o chão. As prostrações pertencem à regra monástica de oração e aos tempos penitenciais, sobretudo a Grande Quaresma. Por antigo costume, confirmado no Primeiro Concílio de Niceia, não se fazem aos domingos nem da Páscoa a Pentecostes, quando a Igreja reza de pé na alegria da Ressurreição."
+	},
+	"howToPray": {
+		"en-US": "Pray unhurriedly, letting each movement carry the words. Begin with a few and add slowly; a small number kept every day is worth more than many kept for a week. Leave them aside on Sundays and in Eastertide.",
+		"pt-BR": "Reze sem pressa, deixando que cada movimento leve as palavras. Comece com poucas e aumente devagar; um número pequeno guardado todos os dias vale mais que muitas guardadas por uma semana. Deixe-as de lado aos domingos e no Tempo Pascal."
+	},
+	"tags": [
+		"byzantine",
+		"eastern",
+		"penance",
+		"lent",
+		"hesychasm",
+		"jesus-prayer"
+	],
+	"defaults": {
+		"sortOrder": 23,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:00",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

@@ -70,13 +70,10 @@ export function chapterTimingsCursorId(bookId: string): string {
   return `book/${bookId}/timings`
 }
 
-export function readingTimeCursorId(bookId: string): string {
-  return `book/${bookId}/read-time`
-}
-
-export function readingStreakCursorId(bookId: string): string {
-  return `book/${bookId}/streak`
-}
+// Where the reader stands in the Bible and the books lately read there are
+// reading positions, kept with the books' own.
+export const biblePositionCursorId = 'bible'
+export const biblePlacesCursorId = 'bible/places'
 
 export function bookPaletteCursorId(bookId: string): string {
   return `book/${bookId}/palette`

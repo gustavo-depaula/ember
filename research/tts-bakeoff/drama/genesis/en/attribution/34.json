@@ -1,0 +1,260 @@
+{
+ "pericopes": [
+  1,
+  5,
+  25
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads all narration, speech introductions and glosses on names."
+  },
+  "jacob": {
+   "name": "Jacob",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The patriarch returning from Mesopotamia; aggrieved with Laban, fearful and deferential before Esau, commanding with his household."
+  },
+  "sichem": {
+   "name": "Sichem",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Son of Hemor, prince of the land; infatuated and eager."
+  },
+  "hemor": {
+   "name": "Hemor",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The Hevite ruler, father of Sichem; a persuasive negotiator."
+  },
+  "hemor-and-sichem": {
+   "name": "Hemor and Sichem",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Father and son persuading their townsmen at the city gate."
+  },
+  "sons-of-jacob": {
+   "name": "The sons of Jacob",
+   "kind": "group",
+   "gender": "male",
+   "age": "young",
+   "note": "Dina's brothers; coldly deceitful in the bargain, defiant after the slaughter."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Dina the daughter of Lia went out to see the women of that country."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And when Sichem the son of Hemor the Hevite, the prince of that land, saw her, he was in love with her: and took her away, and lay with her, ravishing the virgin."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And his soul was fast knit unto her; and whereas she was sad, he comforted her with sweet words."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And going to Hemor his father, he said:"
+   },
+   {
+    "s": "sichem",
+    "t": "Get me this damsel to wife."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "But when Jacob had heard this, his sons being absent, and employed in feeding the cattle, he held his peace till they came back."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And when Hemor the father of Sichem was come out to speak to Jacob,"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Behold his sons came from the field: and hearing what had passed, they were exceeding angry, because he had done a foul thing in Israel, and committed an unlawful act, in ravishing Jacob's daughter."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And Hemor spoke to them:"
+   },
+   {
+    "s": "hemor",
+    "t": "The soul of my son Sichem has a longing for your daughter: give her him to wife:"
+   }
+  ],
+  "9": [
+   {
+    "s": "hemor",
+    "t": "And let us contract marriages one with another: give us your daughters, and take you our daughters."
+   }
+  ],
+  "10": [
+   {
+    "s": "hemor",
+    "t": "And dwell with us: the land is at your command, till, trade, and possess it."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Sichem also said to her father and to her brethren:"
+   },
+   {
+    "s": "sichem",
+    "t": "Let me find favour in your sight, and whatsoever you shall appoint I will give:"
+   }
+  ],
+  "12": [
+   {
+    "s": "sichem",
+    "t": "Raise the dowry, and ask gifts, and I will gladly give what you shall demand: only give me this damsel to wife."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "The sons of Jacob answered Sichem and his father deceitfully, being enraged at the deflowering of their sister:"
+   }
+  ],
+  "14": [
+   {
+    "s": "sons-of-jacob",
+    "t": "We cannot do what you demand, nor give our sister to one that is uncircumcised; which with us is unlawful and abominable."
+   }
+  ],
+  "15": [
+   {
+    "s": "sons-of-jacob",
+    "t": "But in this we may be allied with you, if you will be like us, and all the male sex among you be circumcised:"
+   }
+  ],
+  "16": [
+   {
+    "s": "sons-of-jacob",
+    "t": "Then will we mutually give and take your daughters, and ours; and we will dwell with you, and will be one people:"
+   }
+  ],
+  "17": [
+   {
+    "s": "sons-of-jacob",
+    "t": "But if you will not be circumcised, we will take our daughter and depart."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Their offer pleased Hemor, and Sichem, his son:"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And the young man made no delay, but forthwith fulfilled what was required: for he loved the damsel exceedingly, and he was the greatest man in all his father's house."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And going into the gate of the city, they spoke to the people:"
+   }
+  ],
+  "21": [
+   {
+    "s": "hemor-and-sichem",
+    "t": "These men are peaceable, and are willing to dwell with us: let them trade in the land, and till it, which being large and wide wanteth men to till it: we shall take their daughters for wives, and we will give them ours."
+   }
+  ],
+  "22": [
+   {
+    "s": "hemor-and-sichem",
+    "t": "One thing there is for which so great a good is deferred: We must circumcise every male among us, following the manner of the nation."
+   }
+  ],
+  "23": [
+   {
+    "s": "hemor-and-sichem",
+    "t": "And their substance, and cattle, and all that they possess, shall be ours; only in this let us condescend, and by dwelling together, we shall make one people."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And they all agreed, and circumcised all the males."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And behold the third day, when the pain of the wound was greatest: two of the sons of Jacob, Simeon and Levi, the brothers of Dina, taking their swords, entered boldly into the city and slew all the men."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And they killed also Hemor and Sichem, and took away their sister Dina out of Sichem's house."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And when they were gone out, the other sons of Jacob came upon the slain; and plundered the city in revenge of the rape."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And they took their sheep, and their herds, and their asses, wasting all they had in their houses and in their fields."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And their children and wives they took captive."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And when they had boldly perpetrated these things, Jacob said to Simeon and Levi:"
+   },
+   {
+    "s": "jacob",
+    "t": "You have troubled me, and made me hateful to the Chanaanites and Pherezites, the inhabitants of this land. We are few: they will gather themselves together and kill me; and both I, and my house shall be destroyed."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "They answered:"
+   },
+   {
+    "s": "sons-of-jacob",
+    "t": "Should they abuse our sister as a strumpet?",
+    "q": "Only Simeon and Levi answer; kept on the brothers' group voice rather than a separate pair."
+   }
+  ]
+ }
+}

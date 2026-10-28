@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 10,
+	"duration": { "type": "chosen", "default": 10, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "The third of St. Ignatius' three methods — prayer *por compás*, by measure: one word between one breath and the next. Less a method of meditation than a way of saying vocal prayers with care; it comes into its own in dryness, when all prayer is distasteful and reflection will not come.",
 		"pt-BR": "O terceiro dos três modos de orar de Santo Inácio — a oração *por compasso*: uma palavra entre uma respiração e outra. Menos um método de meditação do que um modo de dizer orações vocais com cuidado; mostra o seu valor na aridez, quando toda oração desagrada e a reflexão não vem."

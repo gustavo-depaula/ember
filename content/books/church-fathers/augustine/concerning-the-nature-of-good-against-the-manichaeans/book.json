@@ -2,13 +2,16 @@
   "id": "augustine-concerning-the-nature-of-good-against-the-manichaeans",
   "cover": "quarter",
   "name": {
-    "en-US": "Concerning the Nature of Good, Against the Manichaeans"
+    "en-US": "Concerning the Nature of Good, Against the Manichaeans",
+    "pt-BR": "Sobre a Natureza do Bem, contra os Maniqueus"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Concerning the Nature of Good, Against the Manichaeans"
+        "en-US": "Concerning the Nature of Good, Against the Manichaeans",
+        "pt-BR": "Sobre a Natureza do Bem, contra os Maniqueus"
       }
     }
   ]

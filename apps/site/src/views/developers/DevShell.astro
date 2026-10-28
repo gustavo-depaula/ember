@@ -1,0 +1,84 @@
+---
+import Base from '~/layouts/Base.astro'
+import { markdownPath } from '~/lib/developers/markdown'
+import { chooser } from '~/lib/developers/text'
+import type { Locale } from '~/lib/locale'
+import { type DevDoc, href, publishedDevDocs } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  doc: DevDoc
+  title: string
+  kicker?: string
+  lede: string
+  /** The page's own sections, for the rail. */
+  toc?: { id: string; label: string }[]
+}
+
+const { locale, alternates, doc, title, kicker, lede, toc = [] } = Astro.props
+const l = chooser(locale)
+const portal = l('Developers', 'Desenvolvedores')
+const allDocs: { key: DevDoc; label: string }[] = [
+  { key: 'overview', label: l('Overview', 'Visão geral') },
+  { key: 'api', label: l('Mass-times API', 'API de horários') },
+  { key: 'corpus', label: l('The corpus', 'O acervo') },
+  { key: 'flows', label: l('Flow DSL', 'DSL de fluxos') },
+]
+const docs = allDocs.filter((d) => publishedDevDocs.includes(d.key))
+
+// The same guide for an AI assistant: the index of the portal's Markdown editions, and this page's.
+const site = Astro.site ?? new URL('https://ember.dpgu.me')
+const llms = new URL('/llms.txt', site).href
+
+// What the browser script says, in the page's language.
+const strings = {
+  copy: l('Copy', 'Copiar'),
+  copied: l('Copied', 'Copiado'),
+  copyByHand: l('Select and copy', 'Selecione e copie'),
+  loading: l('Loading…', 'Carregando…'),
+  noResponse: l('No response', 'Sem resposta'),
+  notFound: l('Not found', 'Não encontrado'),
+  noCatalog: l('No catalog', 'Sem catálogo'),
+  noItem: l('No item has the id', 'Nenhum item tem o id'),
+}
+---
+
+<Base locale={locale} title={doc === 'overview' ? portal : `${title} · ${portal}`} description={lede} alternates={alternates} section="developers">
+  <div class="wide dev" data-dev-strings={JSON.stringify(strings)}>
+    <nav class="dev-rail" aria-label={portal}>
+      <ul class="dev-docs">
+        {docs.map((d) => (
+          <li><a href={href.developers(locale, d.key)} aria-current={d.key === doc ? 'page' : undefined}>{d.label}</a></li>
+        ))}
+      </ul>
+      {toc.length > 0 && (
+        <div class="dev-toc">
+          <p class="t-kicker">{l('On this page', 'Nesta página')}</p>
+          <ul>
+            {toc.map((t) => <li><a href={`#${t.id}`}>{t.label}</a></li>)}
+          </ul>
+        </div>
+      )}
+    </nav>
+    <div class="dev-main">
+      <header class="page-head">
+        <p class="t-kicker">{kicker ?? portal}</p>
+        <h1 class="t-screen">{title}</h1>
+        <p class="lede">{lede}</p>
+        <p class="dev-agent">
+          <span class="t-kicker">{l('Give this to your agent', 'Passe isto ao seu agente')}</span>
+          <a class="xref" href="/llms.txt"><code>{llms.replace(/^https:\/\//, '')}</code></a>
+          <button class="code-copy inline" type="button" data-copy={llms}>{strings.copy}</button>
+          <span class="muted">·</span>
+          <a class="xref" href={markdownPath(locale, doc)}>{l('this page in Markdown', 'esta página em Markdown')}</a>
+        </p>
+      </header>
+      <slot />
+    </div>
+  </div>
+</Base>
+
+<script>
+  import '~/scripts/developers'
+</script>

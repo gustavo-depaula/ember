@@ -1,0 +1,158 @@
+---
+import { apiPage, exampleUrl, exampleValue, operationSlug } from '~/lib/developers/apiPage'
+import { schemaAnchor } from '~/lib/developers/schema'
+import { inline } from '~/lib/developers/text'
+import type { Locale } from '~/lib/locale'
+import { massTimesApi } from '~/lib/massTimes/data'
+import Code from './Code.astro'
+import DevShell from './DevShell.astro'
+import SchemaTable from './SchemaTable.astro'
+import TypeLabel from './TypeLabel.astro'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const page = apiPage(locale)
+const { labels } = page
+
+const toc = [
+  { id: 'basics', label: page.basics.title },
+  { id: 'schedules', label: page.schedules.title },
+  ...page.groups.filter((g) => g.tag).map((g) => ({ id: `tag-${g.tag}`, label: g.title ?? '' })),
+  { id: 'schemas', label: 'Schemas' },
+]
+---
+
+<DevShell locale={locale} alternates={alternates} doc="api" title={page.title} kicker={page.kicker} lede={page.lede} toc={toc}>
+  <section class="dev-section" id="basics">
+    <h2 class="t-section">{page.basics.title}</h2>
+    <dl class="dev-facts">
+      {page.basics.facts.map((fact) => (
+        <>
+          <dt>{fact.term}</dt>
+          <dd>
+            <span set:html={inline(fact.text)} />
+            {fact.copy && <button class="code-copy inline" type="button" data-copy={fact.copy}>{labels.copy}</button>}
+          </dd>
+        </>
+      ))}
+    </dl>
+    {page.basics.note && <p class="t-annotation">{page.basics.note}</p>}
+  </section>
+
+  <section class="dev-section" id="schedules">
+    <h2 class="t-section">{page.schedules.title}</h2>
+    <p set:html={inline(page.schedules.intro)} />
+    <p set:html={inline(page.schedules.expander)} />
+    <Code locale={locale} code={page.schedules.code} label="JavaScript" />
+    {page.schedules.notes.map((note) => <p class="t-annotation" set:html={inline(note)} />)}
+  </section>
+
+  {page.groups.map((group) => (
+    <section class="dev-section" id={group.tag ? `tag-${group.tag}` : 'tag-other'}>
+      {group.title && <h2 class="t-section">{group.title}</h2>}
+      {group.description && <p class="muted">{group.description}</p>}
+      {group.operations.map(({ path, method, op }) => {
+        const params = op.parameters ?? []
+        const body = op.requestBody && Object.values(op.requestBody.content)[0]?.schema
+        const live = method === 'get' && path !== '/health'
+        return (
+          <article class="op" id={operationSlug(method, path)}>
+            <header class="op-head">
+              <span class={`method m-${method}`}>{method.toUpperCase()}</span>
+              <code class="op-path">{path}</code>
+            </header>
+            <h3 class="op-summary">{op.summary}</h3>
+            {op.description && <p class="op-desc" set:html={inline(op.description)} />}
+            {page.pageNotes[path] && <p class="op-desc" set:html={inline(page.pageNotes[path])} />}
+
+            {params.length > 0 && (
+              <table class="fields">
+                <caption class="t-kicker">{labels.parameters}</caption>
+                <tbody>
+                  {params.map((p) => (
+                    <tr>
+                      <th scope="row">
+                        <code>{p.name}</code>
+                        <span class="where">{p.in}</span>
+                        {p.required ? <span class="req">{labels.required}</span> : null}
+                      </th>
+                      <td>
+                        <TypeLabel schema={p.schema} />
+                        {p.description && <p class="t-annotation">{p.description}</p>}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            )}
+
+            {body && (
+              <div class="op-body">
+                <p class="t-kicker">{labels.requestBody}</p>
+                <SchemaTable locale={locale} schema={body} />
+              </div>
+            )}
+
+            <div class="op-responses">
+              <p class="t-kicker">{labels.responses}</p>
+              <ul>
+                {Object.entries(op.responses).map(([status, response]) => {
+                  const schema = response.content && Object.values(response.content)[0]?.schema
+                  return (
+                    <li>
+                      <span class={`status s-${status[0]}`}>{status}</span>
+                      <span set:html={inline(response.description)} />
+                      {schema && <TypeLabel schema={schema} />}
+                    </li>
+                  )
+                })}
+              </ul>
+            </div>
+
+            {live && (
+              <form class="try" data-try data-base={massTimesApi} data-path={path}>
+                <p class="t-kicker">{labels.tryIt}</p>
+                <div class="try-fields">
+                  {params.map((p) => (
+                    <label>
+                      <span><code>{p.name}</code>{p.required ? ' *' : ''}</span>
+                      <input
+                        name={p.name}
+                        data-in={p.in}
+                        value={exampleValue(path, p.name) ?? ''}
+                        placeholder={p.schema.default !== undefined ? String(p.schema.default) : ''}
+                        autocomplete="off"
+                        spellcheck="false"
+                        required={p.in === 'path'}
+                      />
+                    </label>
+                  ))}
+                </div>
+                <div class="try-bar">
+                  <code class="try-url" data-url>{exampleUrl(path)}</code>
+                  <button class="try-send" type="submit">{labels.send}</button>
+                </div>
+                <div class="try-result" data-result hidden></div>
+              </form>
+            )}
+            {!live && page.writeExamples[path] && <Code locale={locale} code={page.writeExamples[path]} label={labels.shell} />}
+          </article>
+        )
+      })}
+    </section>
+  ))}
+
+  <section class="dev-section" id="schemas">
+    <h2 class="t-section">Schemas</h2>
+    {Object.entries(page.schemas).map(([name, schema]) => (
+      <article class="schema" id={schemaAnchor(name)}>
+        <h3 class="op-summary"><code>{name}</code></h3>
+        <SchemaTable locale={locale} schema={schema} />
+      </article>
+    ))}
+  </section>
+</DevShell>

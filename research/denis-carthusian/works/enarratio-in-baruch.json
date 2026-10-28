@@ -1,0 +1,76 @@
+{
+  "parts": [
+    {
+      "volume": "operaomniainunum09deni",
+      "leaves": [
+        "0389",
+        "0390",
+        "0391",
+        "0392",
+        "0393",
+        "0394",
+        "0395",
+        "0396",
+        "0397",
+        "0398",
+        "0399",
+        "0400",
+        "0401",
+        "0402",
+        "0403",
+        "0404",
+        "0405",
+        "0406",
+        "0407",
+        "0408",
+        "0409",
+        "0410",
+        "0411",
+        "0412",
+        "0413",
+        "0414",
+        "0415",
+        "0416",
+        "0417",
+        "0418"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/commentaries/enarratio-in-baruch",
+  "slug": "enarratio-in-baruch",
+  "draft": false,
+  "meta": {
+    "id": "denis-enarratio-in-baruch",
+    "cover": "label",
+    "name": {
+      "la": "Enarratio in librum Baruch",
+      "en-US": "Commentary on Baruch",
+      "pt-BR": "Comentário a Baruc"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Enarratio in librum Baruch.",
+      "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum09deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. IX (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  },
+  "toc_group": {
+    "pattern": "CAP\\.?\\s*([IVXLCUH]+)\\b",
+    "label": {
+      "la": "Caput {n}",
+      "en-US": "Chapter {n}",
+      "pt-BR": "Capítulo {n}"
+    }
+  }
+}

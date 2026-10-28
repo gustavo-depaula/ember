@@ -10,4 +10,6 @@ Reconhece que és indigno da consolação divina, mas antes merecedor de muitas 
 
 Se mais amiúdo pensasses na morte que numa vida de muitos anos, não há dúvida que tua emenda seria mais fervorosa. Se também meditasses seriamente nas penas futuras do inferno ou do purgatório, creio que sofrerias de bom grado trabalhos e dores, sem recear nenhuma austeridade. Mas, como estas coisas não nos penetram o coração e amamos ainda os regalos, ficamos frios e muito tíbios.
 
-É muitas vezes pela fraqueza do espírito que este miserável corpo se queixa tão facilmente. Pede, pois, humildemente ao Senhor que te dê o espírito de compunção, e dize, com o profeta: Sustenta-me, Senhor, com o pão das lágrimas e a bebida copiosa do pranto (Sl 79,6).
+É muitas vezes pela fraqueza do espírito que este miserável corpo se queixa tão facilmente. Pede, pois, humildemente ao Senhor que te dê o espírito de compunção, e dize, com o profeta: Sustenta-me, Senhor, com o pão das lágrimas e a bebida copiosa do pranto (Sl 79,6).[^1]
+
+[^1]: Salmos 79,6.

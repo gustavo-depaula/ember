@@ -1,0 +1,40 @@
+{
+ "id": "sanctorale.10-03.spain",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "3 de octubre"
+       ],
+       [
+        "San Francisco de Borja, presbítero"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "lectionary": "readings.cp1f1",
+ "title": {
+  "*": "San Francisco de Borja, presbítero"
+ }
+}

@@ -2,13 +2,16 @@
   "id": "tertullian-against-the-valentinians",
   "cover": "quarter",
   "name": {
-    "en-US": "Against the Valentinians"
+    "en-US": "Against the Valentinians",
+    "pt-BR": "Contra os valentinianos"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Against the Valentinians"
+        "en-US": "Against the Valentinians",
+        "pt-BR": "Contra os valentinianos"
       }
     }
   ]

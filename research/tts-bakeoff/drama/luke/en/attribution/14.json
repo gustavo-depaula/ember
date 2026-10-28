@@ -1,0 +1,263 @@
+{
+ "pericopes": [
+  1,
+  7,
+  15,
+  25
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Luke; measured, orderly storytelling."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth, about thirty; calm authority, teaching in parables, warning and consoling."
+  },
+  "dinner-guest": {
+   "name": "A guest at table",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "One of those at table in the Pharisee's house; a pious, complacent exclamation."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, when Jesus went into the house of one of the Pharisees, on the sabbath day, that they watched him."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And behold, there was a certain man before him that had the dropsy."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And Jesus answering, spoke to the lawyers and Pharisees, saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "Is it lawful to heal on the sabbath day?"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "But they held their peace. But he taking him, healed him and sent him away."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And answering them, he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Which of you shall have an ass or an ox fall into a pit and will not immediately draw him out, on the sabbath day?"
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And they could not answer him to these things."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And he spoke a parable also to them that were invited, marking how they chose the first seats at the table, saying to them:"
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "When thou art invited to a wedding, sit not down in the first place, lest perhaps one more honourable than thou be invited by him:"
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "And he that invited thee and him, come and say to thee: Give this man place. And then thou begin with shame to take the lowest place."
+   }
+  ],
+  "10": [
+   {
+    "s": "jesus",
+    "t": "But when thou art invited, go, sit down in the lowest place; that when he who invited thee cometh, he may say to thee: Friend, go up higher. Then shalt thou have glory before them that sit at table with thee."
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "Because every one that exalteth himself shall be humbled: and he that humbleth himself shall be exalted."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And he said to him also that had invited him:"
+   },
+   {
+    "s": "jesus",
+    "t": "When thou makest a dinner or a supper, call not thy friends nor thy brethren nor thy kinsmen nor thy neighbours who are rich; lest perhaps they also invite thee again, and a recompense be made to thee."
+   }
+  ],
+  "13": [
+   {
+    "s": "jesus",
+    "t": "But when thou makest a feast, call the poor, the maimed, the lame and the blind."
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "And thou shalt be blessed, because they have not wherewith to make thee recompense: for recompense shall be made thee at the resurrection of the just."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "When one of them that sat at table with him had heard these things, he said to him:"
+   },
+   {
+    "s": "dinner-guest",
+    "t": "Blessed is he that shall eat bread in the kingdom of God."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "But he said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "A certain man made a great supper and invited many."
+   }
+  ],
+  "17": [
+   {
+    "s": "jesus",
+    "t": "And he sent his servant at the hour of supper to say to them that were invited, that they should come: for now all things are ready."
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "And they began all at once to make excuse. The first said to him: I have bought a farm and I must needs go out and see it. I pray thee, hold me excused."
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "And another said: I have bought five yoke of oxen and I go to try them. I pray thee, hold me excused."
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "And another said: I have married a wife; and therefore I cannot come."
+   }
+  ],
+  "21": [
+   {
+    "s": "jesus",
+    "t": "And the servant returning, told these things to his lord. Then the master of the house, being angry, said to his servant: Go out quickly into the streets and lanes of the city; and bring in hither the poor and the feeble and the blind and the lame."
+   }
+  ],
+  "22": [
+   {
+    "s": "jesus",
+    "t": "And the servant said: Lord, it is done as thou hast commanded; and yet there is room."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "And the Lord said to the servant: Go out into the highways and hedges, and compel them to come in, that my house may be filled."
+   }
+  ],
+  "24": [
+   {
+    "s": "jesus",
+    "t": "But I say unto you that none of those men that were invited shall taste of my supper."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And there went great multitudes with him. And turning, he said to them:"
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "If any man come to me, and hate not his father and mother and wife and children and brethren and sisters, yea and his own life also, he cannot be my disciple."
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "And whosoever doth not carry his cross and come after me cannot be my disciple."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "For which of you, having a mind to build a tower, doth not first sit down and reckon the charges that are necessary, whether he have wherewithal to finish it:"
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "Lest, after he hath laid the foundation and is not able to finish it, all that see it begin to mock him,"
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "Saying: This man began to build and was not able to finish."
+   }
+  ],
+  "31": [
+   {
+    "s": "jesus",
+    "t": "Or, what king, about to go to make war against another king, doth not first sit down and think whether he be able, with ten thousand, to meet him that, with twenty thousand, cometh against him?"
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "Or else, while the other is yet afar off, sending an embassy, he desireth conditions of peace."
+   }
+  ],
+  "33": [
+   {
+    "s": "jesus",
+    "t": "So likewise every one of you that doth not renounce all that he possesseth cannot be my disciple."
+   }
+  ],
+  "34": [
+   {
+    "s": "jesus",
+    "t": "Salt is good. But if the salt shall lose its savour, wherewith shall it be seasoned?"
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "It is neither profitable for the land nor for the dunghill: but shall be cast out. He that hath ears to hear, let him hear."
+   }
+  ]
+ }
+}

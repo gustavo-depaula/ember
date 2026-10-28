@@ -1,6 +1,6 @@
 # Como se há de resistir às tentações
 
-Enquanto vivemos neste mundo, não podemos estar sem trabalhos e tentações. Por isso lemos no livro de Jó (7,1): É um combate a vida do homem sobre a terra. Cada qual, pois, deve estar acautelado contra as tentações, mediante a vigilância e a oração, para não dar azo às ilusões do demônio, que nunca dorme, mas anda por toda parte em busca de quem possa devorar (1 Pdr 5,8) . Ninguém há tão perfeito e santo, que não tenha, às vezes, tentações, e não podemos ser delas totalmente isentos.
+Enquanto vivemos neste mundo, não podemos estar sem trabalhos e tentações. Por isso lemos no livro de Jó (7,1): É um combate a vida do homem sobre a terra.[^1] Cada qual, pois, deve estar acautelado contra as tentações, mediante a vigilância e a oração, para não dar azo às ilusões do demônio, que nunca dorme, mas anda por toda parte em busca de quem possa devorar (1 Pdr 5,8) . Ninguém há tão perfeito e santo, que não tenha, às vezes, tentações, e não podemos ser delas totalmente isentos.
 
 São, todavia, utilíssimas ao homem as tentações, posto que sejam molestas e graves, porque nos humilham, purificam e instruem. Todos os santos passaram por muitas tribulações e tentações, e com elas aproveitaram; aqueles, porém, que não as puderam suportar foram reprovados e pereceram. Não há Ordem tão santa nem lugar tão retirado, em que não haja tentações e adversidades.
 
@@ -15,3 +15,5 @@ Uns padecem maiores tentações no começo de sua conversão, outros, no fim; ou
 Por isso não devemos desesperar, quando somos tentados; mas até, com maior fervor, pedir a Deus que se digne ajudar-nos em toda provação, pois que, no dizer de S. Paulo, nos dará graça suficiente na tentação para que a possamos vencer (1 Cor 10,13). Humilhemos, portanto, nossas almas, debaixo da mão de Deus, em qualquer tentação e tribulação porque ele há de salvar e engrandecer os que são humildes de coração.
 
 Nas tentações e adversidades se vê quanto cada um tem aproveitado; nelas consiste o maior merecimento e se patenteia melhor a virtude. Não é lá grande coisa ser o homem devoto e fervoroso quando tudo lhe corre bem; mas, se no tempo da adversidade conserva a paciência, pode-se esperar grande progresso. Alguns há que vencem as grandes tentações e, nas pequenas, caem freqüentemente, para que, humilhados, não presumam de si grandes coisas, visto que com tão pequenas sucumbem.
+
+[^1]: Jó 7,1.

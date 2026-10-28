@@ -1,0 +1,627 @@
+import DateTimePicker from '@react-native-community/datetimepicker'
+import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import { format, parseISO } from 'date-fns'
+import Constants from 'expo-constants'
+import * as Updates from 'expo-updates'
+import { useUpdates } from 'expo-updates'
+import { useState } from 'react'
+import { useTranslation } from 'react-i18next'
+import { Platform, Pressable, Switch } from 'react-native'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
+import {
+  confirm,
+  LanguageSettings,
+  PageHeader,
+  PillSelector,
+  ScreenLayout,
+  SectionDivider,
+} from '@/components'
+import { ReadingConfig } from '@/components/ReadingConfigModal'
+import { resetDatabase } from '@/db/client'
+import { TranslationModal } from '@/features/bible/components/TranslationModal'
+import { useCacheStats, useClearCache, usePinnedItems } from '@/features/pinning/hooks'
+import { exportBackup, importBackup } from '@/lib/backupFile'
+import { findTranslation } from '@/lib/bibleTranslations'
+import { hearthUrl, isLocalHearth, setLocalHearth } from '@/lib/hearth'
+import { rescheduleAllReminders } from '@/lib/notifications'
+import { isUsageShared, setUsageShared } from '@/lib/usage'
+import { usePreferencesStore } from '@/stores/preferencesStore'
+
+const themeOptions = [
+  { value: 'light' as const, labelKey: 'settings.themeLight' },
+  { value: 'dark' as const, labelKey: 'settings.themeDark' },
+  { value: 'system' as const, labelKey: 'settings.themeSystem' },
+]
+
+export default function SettingsScreen() {
+  const { t } = useTranslation()
+  const translation = usePreferencesStore((s) => s.translation)
+  const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
+  const setJurisdiction = usePreferencesStore((s) => s.setJurisdiction)
+  const timeTravelDate = usePreferencesStore((s) => s.timeTravelDate)
+  const setTimeTravelDate = usePreferencesStore((s) => s.setTimeTravelDate)
+  const [showDatePicker, setShowDatePicker] = useState(false)
+  const [translationModalVisible, setTranslationModalVisible] = useState(false)
+  const themePreference = usePreferencesStore((s) => s.theme)
+  const setTheme = usePreferencesStore((s) => s.setTheme)
+
+  return (
+    <ScreenLayout>
+      <YStack gap="$lg" paddingVertical="$lg">
+        <PageHeader title={t('settings.title')} />
+
+        <YStack gap="$md">
+          <Text fontFamily="$heading" fontSize="$3" color="$color">
+            {t('settings.bibleTranslation')}
+          </Text>
+          <Pressable
+            onPress={() => setTranslationModalVisible(true)}
+            accessibilityRole="button"
+            accessibilityLabel={`${t('settings.bibleTranslation')}: ${findTranslation(translation)?.name ?? translation}. ${t('settings.change')}`}
+          >
+            <XStack
+              backgroundColor="$backgroundSurface"
+              borderRadius="$lg"
+              padding="$md"
+              alignItems="center"
+              justifyContent="space-between"
+            >
+              <YStack>
+                <Text fontFamily="$body" fontSize="$2" color="$color">
+                  {findTranslation(translation)?.name ?? translation}
+                </Text>
+                <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                  {findTranslation(translation)?.language} · {translation}
+                </Text>
+              </YStack>
+              <Text fontFamily="$body" fontSize="$2" color="$accent">
+                {t('settings.change')}
+              </Text>
+            </XStack>
+          </Pressable>
+          {translationModalVisible ? (
+            <TranslationModal
+              visible={translationModalVisible}
+              onClose={() => setTranslationModalVisible(false)}
+            />
+          ) : undefined}
+        </YStack>
+
+        <SectionDivider />
+
+        <PillSelector
+          label={t('settings.theme')}
+          options={themeOptions.map((o) => ({ value: o.value, label: t(o.labelKey) }))}
+          value={themePreference}
+          onChange={setTheme}
+        />
+
+        <SectionDivider />
+
+        <YStack gap="$md">
+          <Text fontFamily="$heading" fontSize="$3" color="$color">
+            {t('settings.languagesSection')}
+          </Text>
+          <LanguageSettings />
+        </YStack>
+
+        <SectionDivider />
+
+        <YStack gap="$md">
+          <Text fontFamily="$heading" fontSize="$3" color="$color">
+            {t('settings.calendarSection')}
+          </Text>
+          <PillSelector
+            label={t('settings.jurisdiction')}
+            options={[
+              { value: '' as const, label: t('settings.jurisdictionUniversal') },
+              { value: 'BR' as const, label: t('settings.jurisdictionBR') },
+              { value: 'US' as const, label: t('settings.jurisdictionUS') },
+            ]}
+            value={jurisdiction ?? ''}
+            onChange={(v) => setJurisdiction(v || undefined)}
+          />
+        </YStack>
+
+        <SectionDivider />
+
+        <YStack gap="$md">
+          <Text fontFamily="$heading" fontSize="$3" color="$color">
+            {t('settings.reading')}
+          </Text>
+
+          <ReadingConfig />
+        </YStack>
+
+        <SectionDivider />
+
+        <YStack gap="$sm">
+          <Text fontFamily="$heading" fontSize="$3" color="$color">
+            {t('settings.timeTravel')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+            {t('settings.timeTravelDescription')}
+          </Text>
+          <XStack gap="$sm" alignItems="center">
+            {timeTravelDate ? (
+              <>
+                <YStack
+                  flex={1}
+                  backgroundColor="$backgroundSurface"
+                  borderRadius="$lg"
+                  padding="$sm"
+                >
+                  <Text fontFamily="$body" fontSize="$2" color="$accent">
+                    {format(parseISO(timeTravelDate), 'MMMM d, yyyy')}
+                  </Text>
+                </YStack>
+                <Pressable
+                  onPress={() => setShowDatePicker(true)}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('settings.change')}
+                >
+                  <Text fontFamily="$body" fontSize="$2" color="$accent">
+                    {t('settings.change')}
+                  </Text>
+                </Pressable>
+                <Pressable
+                  onPress={() => setTimeTravelDate(undefined)}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('settings.timeTravelClear')}
+                >
+                  <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                    {t('settings.timeTravelClear')}
+                  </Text>
+                </Pressable>
+              </>
+            ) : (
+              <Pressable
+                onPress={() => setShowDatePicker(true)}
+                accessibilityRole="button"
+                accessibilityLabel={t('settings.timeTravelPick')}
+              >
+                <YStack
+                  backgroundColor="$backgroundSurface"
+                  borderRadius="$lg"
+                  paddingVertical="$sm"
+                  paddingHorizontal="$md"
+                >
+                  <Text fontFamily="$body" fontSize="$2" color="$accent">
+                    {t('settings.timeTravelPick')}
+                  </Text>
+                </YStack>
+              </Pressable>
+            )}
+          </XStack>
+          {showDatePicker && (
+            <DateTimePicker
+              value={timeTravelDate ? parseISO(timeTravelDate) : new Date()}
+              mode="date"
+              display={Platform.OS === 'ios' ? 'inline' : 'default'}
+              onChange={(_, date) => {
+                setShowDatePicker(Platform.OS === 'ios')
+                if (date) setTimeTravelDate(format(date, 'yyyy-MM-dd'))
+              }}
+            />
+          )}
+        </YStack>
+
+        <SectionDivider />
+
+        {__DEV__ && (
+          <YStack gap="$sm">
+            <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md" gap="$sm">
+              <XStack justifyContent="space-between" alignItems="center">
+                <Text fontFamily="$body" fontSize="$2" color="$color">
+                  Local Hearth
+                </Text>
+                <LocalHearthToggle />
+              </XStack>
+              <HearthCheckRow />
+            </YStack>
+          </YStack>
+        )}
+
+        <StorageSection />
+
+        <SectionDivider />
+
+        <ExportData />
+
+        <Pressable
+          onPress={async () => {
+            const ok = await confirm({
+              title: t('settings.resetDatabase'),
+              description: t('settings.resetDatabaseConfirm'),
+              confirmLabel: t('settings.resetDatabaseAction'),
+              destructive: true,
+            })
+            if (ok) resetDatabase()
+          }}
+          accessibilityRole="button"
+          accessibilityLabel={t('settings.resetDatabase')}
+        >
+          <YStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$lg"
+            padding="$md"
+            alignItems="center"
+          >
+            <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy">
+              {t('settings.resetDatabase')}
+            </Text>
+          </YStack>
+        </Pressable>
+
+        <SectionDivider />
+
+        <PrivacySection />
+
+        <SectionDivider />
+
+        <AppUpdateSection />
+
+        <SectionDivider />
+
+        <YStack gap="$sm">
+          <Text fontFamily="$heading" fontSize="$3" color="$color">
+            {t('settings.attribution')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+            {t('settings.attrBible')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+            {t('settings.attrCatechism')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+            {t('settings.attrBibleOnline')}
+          </Text>
+        </YStack>
+      </YStack>
+    </ScreenLayout>
+  )
+}
+
+function ExportData() {
+  const { t } = useTranslation()
+  const queryClient = useQueryClient()
+  const save = useMutation({ mutationFn: exportBackup })
+  const load = useMutation({
+    mutationFn: importBackup,
+    onSuccess: (added) => {
+      if (added === undefined) return
+      // What was read from the log and cached is stale, and so are the reminders set from the plan.
+      queryClient.invalidateQueries()
+      rescheduleAllReminders().catch((err) =>
+        console.error('[import] rescheduling reminders failed', err),
+      )
+    },
+  })
+  const rows = [
+    {
+      label: save.data ? t('settings.exportDone') : t('settings.exportData'),
+      hint: t('settings.exportDataHint'),
+      run: () => save.mutate(),
+    },
+    {
+      label:
+        load.data === undefined
+          ? t('settings.importData')
+          : t('settings.importDone', { count: load.data }),
+      hint: t('settings.importDataHint'),
+      run: () => load.mutate(),
+    },
+  ]
+
+  return (
+    <YStack gap="$md">
+      {rows.map((row) => (
+        <Pressable
+          key={row.hint}
+          onPress={row.run}
+          disabled={save.isPending || load.isPending}
+          accessibilityRole="button"
+          accessibilityLabel={`${row.label}. ${row.hint}`}
+        >
+          <YStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$lg"
+            padding="$md"
+            alignItems="center"
+            gap="$xs"
+          >
+            <Text fontFamily="$body" fontSize="$2" color="$accent">
+              {row.label}
+            </Text>
+            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" textAlign="center">
+              {row.hint}
+            </Text>
+          </YStack>
+        </Pressable>
+      ))}
+    </YStack>
+  )
+}
+
+function PrivacySection() {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  const queryClient = useQueryClient()
+  const shared = useQuery({ queryKey: ['usage-shared'], queryFn: isUsageShared })
+  const set = useMutation({
+    mutationFn: setUsageShared,
+    onSuccess: () => queryClient.invalidateQueries({ queryKey: ['usage-shared'] }),
+  })
+
+  return (
+    <YStack gap="$md">
+      <Text fontFamily="$heading" fontSize="$3" color="$color">
+        {t('settings.privacy')}
+      </Text>
+      <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md" gap="$sm">
+        <XStack alignItems="center" justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$color">
+            {t('settings.shareUsage')}
+          </Text>
+          <Switch
+            value={shared.data ?? true}
+            onValueChange={(value) => set.mutate(value)}
+            trackColor={{ true: theme.accent?.val }}
+            accessibilityLabel={t('settings.shareUsage')}
+          />
+        </XStack>
+        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+          {t('settings.shareUsageHint')}
+        </Text>
+      </YStack>
+    </YStack>
+  )
+}
+
+function AppUpdateSection() {
+  const { t } = useTranslation()
+  const {
+    currentlyRunning,
+    isUpdateAvailable,
+    isUpdatePending,
+    isChecking,
+    isDownloading,
+    checkError,
+  } = useUpdates()
+
+  const version = Constants.expoConfig?.version ?? '—'
+  const updateId = currentlyRunning.updateId
+  const shortId = updateId ? updateId.slice(0, 8) : t('settings.revisionNone')
+
+  async function handlePress() {
+    if (isUpdatePending) {
+      await Updates.reloadAsync()
+      return
+    }
+    if (isUpdateAvailable) {
+      await Updates.fetchUpdateAsync()
+      return
+    }
+    await Updates.checkForUpdateAsync()
+  }
+
+  const statusLabel = (() => {
+    if (isChecking) return t('settings.checking')
+    if (isDownloading) return t('settings.downloading')
+    if (isUpdatePending) return t('settings.updateReady')
+    if (isUpdateAvailable) return t('settings.updateAvailable')
+    if (checkError) return t('settings.updateError')
+    return t('settings.checkForUpdates')
+  })()
+
+  const statusColor = isUpdateAvailable || isUpdatePending ? '$accent' : '$colorSecondary'
+
+  return (
+    <YStack gap="$md">
+      <Text fontFamily="$heading" fontSize="$3" color="$color">
+        {t('settings.about')}
+      </Text>
+      <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md" gap="$sm">
+        <XStack justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {t('settings.version')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$2" color="$color">
+            {version}
+          </Text>
+        </XStack>
+        <XStack justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {t('settings.revision')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$2" color="$color" fontVariant={['tabular-nums']}>
+            {shortId}
+          </Text>
+        </XStack>
+      </YStack>
+      <Pressable
+        onPress={__DEV__ ? undefined : handlePress}
+        disabled={__DEV__ || isChecking || isDownloading}
+        accessibilityRole="button"
+        accessibilityLabel={statusLabel}
+      >
+        <YStack
+          backgroundColor="$backgroundSurface"
+          borderRadius="$lg"
+          padding="$md"
+          alignItems="center"
+          opacity={__DEV__ ? 0.4 : 1}
+        >
+          <Text fontFamily="$body" fontSize="$2" color={statusColor}>
+            {__DEV__ ? t('settings.checkForUpdates') : statusLabel}
+          </Text>
+        </YStack>
+      </Pressable>
+    </YStack>
+  )
+}
+
+function formatBytes(bytes: number): string {
+  if (bytes < 1024) return `${bytes} B`
+  const kb = bytes / 1024
+  if (kb < 1024) return `${kb.toFixed(1)} KB`
+  const mb = kb / 1024
+  if (mb < 1024) return `${mb.toFixed(1)} MB`
+  const gb = mb / 1024
+  return `${gb.toFixed(2)} GB`
+}
+
+function StorageSection() {
+  const { t } = useTranslation()
+  const { data: pinnedItems } = usePinnedItems()
+  const { data: stats } = useCacheStats()
+  const clearCache = useClearCache()
+
+  const pinnedCount = pinnedItems?.length ?? 0
+  const totalBytes = stats?.totalBytes ?? 0
+  const pinnedBytes = stats?.pinnedBytes ?? 0
+
+  async function handleClear() {
+    const ok = await confirm({
+      title: t('settings.storage.clearUnpinned'),
+      description: t('settings.storage.clearUnpinnedConfirm'),
+      confirmLabel: t('settings.storage.clearUnpinnedAction'),
+      destructive: true,
+    })
+    if (ok) clearCache.mutate()
+  }
+
+  return (
+    <YStack gap="$md">
+      <Text fontFamily="$heading" fontSize="$3" color="$color">
+        {t('settings.storage.storage')}
+      </Text>
+      <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md" gap="$sm">
+        <XStack justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {t('settings.storage.pinnedItems', { count: pinnedCount })}
+          </Text>
+        </XStack>
+        <XStack justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {t('settings.storage.totalCache')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$2" color="$color" fontVariant={['tabular-nums']}>
+            {formatBytes(totalBytes)}
+          </Text>
+        </XStack>
+        <XStack justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {t('settings.storage.pinnedContent')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$2" color="$color" fontVariant={['tabular-nums']}>
+            {formatBytes(pinnedBytes)}
+          </Text>
+        </XStack>
+      </YStack>
+      <Pressable
+        onPress={handleClear}
+        disabled={clearCache.isPending}
+        accessibilityRole="button"
+        accessibilityLabel={t('settings.storage.clearUnpinned')}
+      >
+        <YStack
+          backgroundColor="$backgroundSurface"
+          borderRadius="$lg"
+          padding="$md"
+          alignItems="center"
+          opacity={clearCache.isPending ? 0.5 : 1}
+        >
+          <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy">
+            {t('settings.storage.clearUnpinned')}
+          </Text>
+        </YStack>
+      </Pressable>
+    </YStack>
+  )
+}
+
+function LocalHearthToggle() {
+  const [local, setLocal] = useState(isLocalHearth)
+
+  return (
+    <Switch
+      value={local}
+      onValueChange={(value) => {
+        setLocal(value)
+        setLocalHearth(value)
+      }}
+    />
+  )
+}
+
+type HearthCheckResult =
+  | { kind: 'idle' }
+  | { kind: 'pending' }
+  | { kind: 'ok'; url: string; generatedAt?: string; itemCount: number }
+  | { kind: 'fail'; url: string; message: string }
+
+function HearthCheckRow() {
+  const [result, setResult] = useState<HearthCheckResult>({ kind: 'idle' })
+
+  async function check() {
+    const url = hearthUrl('catalog.json')
+    setResult({ kind: 'pending' })
+    const controller = new AbortController()
+    const timeout = setTimeout(() => controller.abort(), 3000)
+    try {
+      const res = await fetch(url, { signal: controller.signal })
+      if (!res.ok) throw new Error(`HTTP ${res.status}`)
+      const data = (await res.json()) as {
+        generated?: string
+        items?: Record<string, unknown>
+      }
+      const itemCount = Object.keys(data.items ?? {}).length
+      setResult({ kind: 'ok', url, generatedAt: data.generated, itemCount })
+    } catch (err) {
+      setResult({
+        kind: 'fail',
+        url,
+        message: err instanceof Error ? err.message : String(err),
+      })
+    } finally {
+      clearTimeout(timeout)
+    }
+  }
+
+  return (
+    <YStack gap="$xs">
+      <Pressable
+        onPress={check}
+        accessibilityRole="button"
+        accessibilityLabel="Check hearth reachability"
+      >
+        <XStack
+          paddingHorizontal="$md"
+          paddingVertical="$sm"
+          borderRadius="$md"
+          borderWidth={1}
+          borderColor="$borderColor"
+          alignItems="center"
+          justifyContent="center"
+        >
+          <Text fontFamily="$heading" fontSize="$1" color="$accent">
+            {result.kind === 'pending' ? 'Checking…' : 'Check hearth'}
+          </Text>
+        </XStack>
+      </Pressable>
+      {result.kind === 'ok' && (
+        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+          ✅ {result.url} — {result.itemCount} item
+          {result.itemCount === 1 ? '' : 's'}
+          {result.generatedAt ? `, generated ${result.generatedAt}` : ''}
+        </Text>
+      )}
+      {result.kind === 'fail' && (
+        <Text fontFamily="$body" fontSize="$1" color="$colorBurgundy">
+          ❌ {result.url} — {result.message}
+        </Text>
+      )}
+    </YStack>
+  )
+}

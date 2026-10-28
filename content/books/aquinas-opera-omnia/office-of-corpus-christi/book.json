@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Office of Corpus Christi",
-    "la": "Officium Corporis Christi"
+    "la": "Officium Corporis Christi",
+    "pt-BR": "Ofício de Corpus Christi"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "The complete liturgical office Aquinas composed in 1264 at the request of Pope Urban IV for the new feast of the Body of Christ — the *Sacerdos in aeternum* recension, ultimately adopted by the Church. First and Second Vespers, Compline, Matins, Lauds, the Little Hours, the Office within the Octave, and the Mass *Cibavit*. Includes the four great Eucharistic hymns *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, and the sequence *Lauda Sion*.",
-    "la": "Officium liturgicum completum Thomae anno 1264, Urbano IV petente, pro festo Corporis Christi novo — recensio *Sacerdos in aeternum*, in usum Ecclesiae tandem recepta. Vesperae Primae et Secundae, Completorium, Matutinum, Laudes, Horae Minores, Officium intra Octavam, et Missa *Cibavit*. Comprehendit hymnos Eucharisticos *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, et sequentiam *Lauda Sion*."
+    "la": "Officium liturgicum completum Thomae anno 1264, Urbano IV petente, pro festo Corporis Christi novo — recensio *Sacerdos in aeternum*, in usum Ecclesiae tandem recepta. Vesperae Primae et Secundae, Completorium, Matutinum, Laudes, Horae Minores, Officium intra Octavam, et Missa *Cibavit*. Comprehendit hymnos Eucharisticos *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, et sequentiam *Lauda Sion*.",
+    "pt-BR": "O ofício litúrgico completo que Santo Tomás compôs em 1264, a pedido do papa Urbano IV, para a nova festa do Corpo de Cristo — a recensão *Sacerdos in aeternum*, por fim adotada pela Igreja. Primeiras e Segundas Vésperas, Completas, Matinas, Laudes, as Horas Menores, o Ofício dentro da Oitava e a Missa *Cibavit*. Inclui os quatro grandes hinos eucarísticos *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum* e a sequência *Lauda Sion*."
   },
   "composed": 1264,
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,84 +39,96 @@
       "id": "corpuschri-c01",
       "title": {
         "en-US": "First Vespers",
-        "la": "Vesperae Primae"
+        "la": "Vesperae Primae",
+        "pt-BR": "Primeiras Vésperas"
       }
     },
     {
       "id": "corpuschri-c02",
       "title": {
         "en-US": "Compline",
-        "la": "Completorium"
+        "la": "Completorium",
+        "pt-BR": "Completas"
       }
     },
     {
       "id": "corpuschri-c03",
       "title": {
         "en-US": "Matins",
-        "la": "Matutinum"
+        "la": "Matutinum",
+        "pt-BR": "Matinas"
       }
     },
     {
       "id": "corpuschri-c04",
       "title": {
         "en-US": "Lauds",
-        "la": "Laudes"
+        "la": "Laudes",
+        "pt-BR": "Laudes"
       }
     },
     {
       "id": "corpuschri-c05",
       "title": {
         "en-US": "Prime",
-        "la": "Prima"
+        "la": "Prima",
+        "pt-BR": "Prima"
       }
     },
     {
       "id": "corpuschri-c06",
       "title": {
         "en-US": "Terce",
-        "la": "Tertia"
+        "la": "Tertia",
+        "pt-BR": "Tércia"
       }
     },
     {
       "id": "corpuschri-c07",
       "title": {
         "en-US": "Sext",
-        "la": "Sexta"
+        "la": "Sexta",
+        "pt-BR": "Sexta"
       }
     },
     {
       "id": "corpuschri-c08",
       "title": {
         "en-US": "None",
-        "la": "Nona"
+        "la": "Nona",
+        "pt-BR": "Noa"
       }
     },
     {
       "id": "corpuschri-c09",
       "title": {
         "en-US": "Second Vespers",
-        "la": "Vesperae Secundae"
+        "la": "Vesperae Secundae",
+        "pt-BR": "Segundas Vésperas"
       }
     },
     {
       "id": "corpuschri-c10",
       "title": {
         "en-US": "Compline",
-        "la": "Completorium"
+        "la": "Completorium",
+        "pt-BR": "Completas"
       }
     },
     {
       "id": "corpuschri-c11",
       "title": {
         "en-US": "Within the Octave",
-        "la": "Infra Octavam"
+        "la": "Infra Octavam",
+        "pt-BR": "Dentro da Oitava"
       }
     },
     {
       "id": "corpuschri-c12",
       "title": {
         "en-US": "Mass (Cibavit)",
-        "la": "Missa (Cibavit)"
+        "la": "Missa (Cibavit)",
+        "pt-BR": "Missa (Cibavit)"
       }
     }
   ]

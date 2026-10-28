@@ -1,0 +1,250 @@
+{
+ "pericopes": [
+  1,
+  13,
+  23
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Luke, telling the story; in the voyage he speaks as an eyewitness ('we')."
+  },
+  "paul": {
+   "name": "Paul",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The apostle, a prisoner: composed and bold before governors and kings, steady and commanding in the storm."
+  },
+  "festus": {
+   "name": "Festus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Porcius Festus, the new Roman governor: brisk, official, puzzled by a religious dispute."
+  },
+  "agrippa": {
+   "name": "King Agrippa",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Herod Agrippa II, Jewish client king: urbane, curious, guarded."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Now when Festus was come into the province, after three days, he went up to Jerusalem from Cesarea."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And the chief priests and principal men of the Jews went unto him against Paul: and they besought him,"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Requesting favour against him, that he would command him to be brought to Jerusalem, laying wait to kill him in the way."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "But Festus answered: That Paul was kept in Caesarea: and that he himself would very shortly depart thither.",
+    "q": "reported speech after a colon (\"answered: That Paul was kept...\"), third person, so left with the narrator; Festus only speaks directly from verse 5"
+   }
+  ],
+  "5": [
+   {
+    "s": "festus",
+    "t": "Let them, therefore,"
+   },
+   {
+    "s": "narrator",
+    "t": "saith he,"
+   },
+   {
+    "s": "festus",
+    "t": "among you that are able, go down with me and accuse him, if there be any crime in the man."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And having tarried among them no more than eight or ten days, he went down to Caesarea. And the next day, he sat in the judgment seat and commanded Paul to be brought."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Who being brought, the Jews stood about him, who were come down from Jerusalem, objecting many and grievious causes, which they could not prove:"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Paul making answer for himself:"
+   },
+   {
+    "s": "paul",
+    "t": "Neither against the law of the Jews, nor against the temple, nor against Caesar, have I offended in any thing."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "But Festus, willing to shew the Jews a pleasure, answering Paul, said:"
+   },
+   {
+    "s": "festus",
+    "t": "Wilt thou go up to Jerusalem and there be judged of these things before me?"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Then Paul said:"
+   },
+   {
+    "s": "paul",
+    "t": "I stand at Caesar's judgment seat, where I ought to be judged. To the Jews I have done no injury, as thou very well knowest."
+   }
+  ],
+  "11": [
+   {
+    "s": "paul",
+    "t": "For if I have injured them or have committed any thing worthy of death, I refuse not to die. But if there be none of these things whereof they accuse me, no man may deliver me to them. I appeal to Caesar."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Then Festus, having conferred with the council, answered:"
+   },
+   {
+    "s": "festus",
+    "t": "Hast thou appealed to Caesar? To Caesar shalt thou go."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And after some days, king Agrippa and Bernice came down to Caesarea, to salute Festus."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And as they tarried there many days, Festus told the king of Paul, saying:"
+   },
+   {
+    "s": "festus",
+    "t": "A certain man was left prisoner by Felix."
+   }
+  ],
+  "15": [
+   {
+    "s": "festus",
+    "t": "About whom, when I was at Jerusalem, the chief priests and the ancients of the Jews came unto me, desiring condemnation against him."
+   }
+  ],
+  "16": [
+   {
+    "s": "festus",
+    "t": "To whom I answered: it is not the custom of the Romans to condemn any man, before that he who is accused have his accusers present and have liberty to make his answer, to clear himself of the things laid to his charge."
+   }
+  ],
+  "17": [
+   {
+    "s": "festus",
+    "t": "When therefore they were come hither, without any delay, on the day following, sitting in the judgment seat, I commanded the man to be brought."
+   }
+  ],
+  "18": [
+   {
+    "s": "festus",
+    "t": "Against whom, when the accusers stood up, they brought no accusation of this which I thought ill of:"
+   }
+  ],
+  "19": [
+   {
+    "s": "festus",
+    "t": "But had certain questions of their own superstition against him, and of one Jesus deceased, whom Paul affirmed to be alive."
+   }
+  ],
+  "20": [
+   {
+    "s": "festus",
+    "t": "I therefore being in a doubt of this manner of question, asked him whether he would go to Jerusalem and there be judged of these things."
+   }
+  ],
+  "21": [
+   {
+    "s": "festus",
+    "t": "But Paul, appealing to be reserved unto the hearing of Augustus, I commanded him to be kept, till I might send him to Caesar."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And Agrippa said to Festus:"
+   },
+   {
+    "s": "agrippa",
+    "t": "I would also hear the man, myself."
+   },
+   {
+    "s": "festus",
+    "t": "To-morrow,"
+   },
+   {
+    "s": "narrator",
+    "t": "said he,"
+   },
+   {
+    "s": "festus",
+    "t": "thou shalt hear him."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And on the next day, when Agrippa and Bernice were come with great pomp and had entered into the hall of audience with the tribunes and principal men of the city, at Festus' commandment, Paul was brought forth."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And Festus saith:"
+   },
+   {
+    "s": "festus",
+    "t": "King Agrippa and all ye men who are here present with us, you see this man, about whom all the multitude of the Jews dealt with me at Jerusalem, requesting and crying out that he ought not to live any longer."
+   }
+  ],
+  "25": [
+   {
+    "s": "festus",
+    "t": "Yet have I found nothing that he hath committed worthy of death. But forasmuch as he himself hath appealed to Augustus, I have determined to send him."
+   }
+  ],
+  "26": [
+   {
+    "s": "festus",
+    "t": "Of whom I have nothing certain to write to my lord. For which cause, I have brought him forth before you, and especially before thee, O king Agrippa, that, examination being made, I may have what to write."
+   }
+  ],
+  "27": [
+   {
+    "s": "festus",
+    "t": "For it seemeth to me unreasonable to send a prisoner and not to signify the things laid to his charge."
+   }
+  ]
+ }
+}

@@ -2,13 +2,16 @@
   "id": "augustine-man-s-perfection-in-righteousness",
   "cover": "quarter",
   "name": {
-    "en-US": "On Man's Perfection in Righteousness"
+    "en-US": "On Man's Perfection in Righteousness",
+    "pt-BR": "Sobre a Perfeição da Justiça do Homem"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Man's Perfection in Righteousness"
+        "en-US": "On Man's Perfection in Righteousness",
+        "pt-BR": "Sobre a Perfeição da Justiça do Homem"
       }
     }
   ]

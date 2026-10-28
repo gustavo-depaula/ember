@@ -1,0 +1,365 @@
+{
+ "pericopes": [
+  1,
+  12,
+  29
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story; reads all narration and genealogies."
+  },
+  "joseph-the-patriarch": {
+   "name": "Joseph",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Jacob's favoured son; candid dreamer at seventeen, then upright slave and calm interpreter of dreams in prison."
+  },
+  "josephs-brothers": {
+   "name": "Joseph's brothers",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The sons of Jacob speaking together; envious and scornful of Joseph, then deceiving their father."
+  },
+  "jacob": {
+   "name": "Jacob (Israel)",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The aged patriarch; fond of Joseph, rebuking his dream, then broken with grief."
+  },
+  "reuben": {
+   "name": "Ruben",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jacob's eldest; tries to save Joseph, then distraught at finding the pit empty."
+  },
+  "judah": {
+   "name": "Juda",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jacob's fourth son; pragmatic in selling Joseph, peremptory as head of his house, then owning his fault."
+  },
+  "man-at-sichem": {
+   "name": "Man at Sichem",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A stranger who finds Joseph wandering in the field and directs him to Dothain."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Jacob dwelt in the land of Chanaan, wherein his father sojourned."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And these are his generations: Joseph, when he was sixteen years old, was feeding the flock with his brethren, being but a boy: and he was with the sons of Bala and of Zelpha his father's wives: and he accused his brethren to his father of a most wicked crime."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Now Israel loved Joseph above all his sons, because he had him in his old age: and he made him a coat of divers colours."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And his brethren seeing that he was loved by his father, more than all his sons, hated hem, and could not speak peaceably to him."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Now it fell out also that he told his brethren a dream, that he had dreamed: which occasioned them to hate him the more."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "Hear my dream which I dreamed."
+   }
+  ],
+  "7": [
+   {
+    "s": "joseph-the-patriarch",
+    "t": "I thought we were binding sheaves in the field: and my sheaf arose as it were, and stood, and your sheaves standing about bowed down before my sheaf."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "His brethren answered:"
+   },
+   {
+    "s": "josephs-brothers",
+    "t": "Shalt thou be our king? or shall we be subject to thy dominion?"
+   },
+   {
+    "s": "narrator",
+    "t": "Therefore this matter of his dreams and words ministered nourishment to their envy and hatred."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "He dreamed also another dream, which he told his brethren, saying:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "I saw in a dream, as it were the sun, and the moon, and eleven stars worshipping me."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And when he had told this to his father, and brethren, his father rebuked him and said:"
+   },
+   {
+    "s": "jacob",
+    "t": "What meaneth this dream that thou hast dreamed? shall I and thy mother, and thy brethren worship thee upon the earth?"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "His brethren therefore envied him: but his father considered the thing with himself."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And when his brethren abode in Sechem, feeding their father's flocks,"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Israel said to him:"
+   },
+   {
+    "s": "jacob",
+    "t": "Thy brethren feed the sheep in Sichem: come, I will send thee to them."
+   },
+   {
+    "s": "narrator",
+    "t": "And when he answered:"
+   }
+  ],
+  "14": [
+   {
+    "s": "joseph-the-patriarch",
+    "t": "I am ready:"
+   },
+   {
+    "s": "narrator",
+    "t": "he said to him:"
+   },
+   {
+    "s": "jacob",
+    "t": "Go, and see if all things be well with thy brethren, and the cattle: and bring me word again what is doing."
+   },
+   {
+    "s": "narrator",
+    "t": "So being sent from the vale of Hebron, he came to Sichem:"
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And a man found him there wandering in the field, and asked what he sought."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "But he answered:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "I seek my brethren, tell me where they feed the flocks."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And the man said to him:"
+   },
+   {
+    "s": "man-at-sichem",
+    "t": "They are departed from this place: for I heard them say: Let us go to Dothain."
+   },
+   {
+    "s": "narrator",
+    "t": "And Joseph went forward after his brethren, and found them in Dothain."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And when they saw him afar off, before he came nigh them, they thought to kill him:"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And said one to another:"
+   },
+   {
+    "s": "josephs-brothers",
+    "t": "Behold the dreamer cometh."
+   }
+  ],
+  "20": [
+   {
+    "s": "josephs-brothers",
+    "t": "Come, let us kill him, and cast him into some old pit: and we will say: Some evil beast hath devoured him: and then it shall appear what his dreams avail him:"
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And Ruben hearing this, endeavoured to deliver him out of their hands, and said:"
+   }
+  ],
+  "22": [
+   {
+    "s": "reuben",
+    "t": "Do not take away his life, nor shed his blood: but cast him into this pit, that is in the wilderness, and keep your hands harmless:"
+   },
+   {
+    "s": "narrator",
+    "t": "now he said this, being desirous to deliver him out of their hands and to restore him to his father."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And as soon as he came to his brethren, they forthwith stript him of his outside coat, that was of divers colours:"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And cast him into an old pit where there was not water."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And sitting down to eat bread, they saw some Ismaelites on their way coming from Galaad, with their camels, carrying spices, and balm, and myrrh to Egypt."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And Juda said to his brethren:"
+   },
+   {
+    "s": "judah",
+    "t": "What will it profit us to kill our brother, and conceal his blood?"
+   }
+  ],
+  "27": [
+   {
+    "s": "judah",
+    "t": "It is better that he be sold to the Ismaelites, and that our hands be not defiled: for he is our brother and our flesh."
+   },
+   {
+    "s": "narrator",
+    "t": "His brethren agreed to his words."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And when the Madianite merchants passed by, they drew him out of the pit, and sold him to the Ismaelites, for twenty pieces of silver: and they led him into Egypt."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And Ruben returning to the pit, found not the boy:"
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And rending his garments he went to his brethren, and said:"
+   },
+   {
+    "s": "reuben",
+    "t": "The boy doth not appear, and whither shall I go?"
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And they took his coat, and dipped it in the blood of a kid, which they had killed:"
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "Sending some to carry it to their father, and to say:"
+   },
+   {
+    "s": "josephs-brothers",
+    "t": "This we have found: see whether it be thy son's coat, or not.",
+    "q": "the message the brothers send by messengers; given to the brothers who composed it rather than a separate messenger voice"
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And the father acknowledging it, said:"
+   },
+   {
+    "s": "jacob",
+    "t": "It is my son's coat, an evil wild beast hath eaten him, a beast hath devoured Joseph."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And tearing his garments, he put on sackcloth, mourning for his son a long time."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And all his children being gathered together to comfort their father in his sorrow, he would not receive comfort, but said:"
+   },
+   {
+    "s": "jacob",
+    "t": "I will go down to my son into hell, mourning."
+   },
+   {
+    "s": "narrator",
+    "t": "And whilst he continued weeping,"
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "The Madianites sold Joseph in Egypt to Putiphar, an eunuch of Pharao, captain of the soldiers."
+   }
+  ]
+ }
+}

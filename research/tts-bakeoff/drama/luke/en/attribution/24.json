@@ -1,0 +1,437 @@
+{
+ "pericopes": [
+  1,
+  13,
+  36,
+  50
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Luke, telling the story evenly and gravely."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord: calm authority, sorrowful in the Passion, serene after rising."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The apostles speaking together: questioning, eager, bewildered."
+  },
+  "angel": {
+   "name": "Angels at the tomb",
+   "kind": "angel",
+   "gender": "male",
+   "age": "adult",
+   "note": "The two men in shining apparel, announcing the resurrection."
+  },
+  "cleophas": {
+   "name": "Cleophas",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "One of the two on the road to Emmaus, sad and surprised."
+  },
+  "emmaus-disciples": {
+   "name": "The two disciples of Emmaus",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Cleophas and his companion: downcast on the road, then burning with joy."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And on the first day of the week, very early in the morning, they came to the sepulchre, bringing the spices which they had prepared."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And they found the stone rolled back from the sepulchre."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And going in, they found not the body of the Lord Jesus."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, as they were astonished in their mind at this, behold, two men stood by them, in shining apparel."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And as they were afraid and bowed down their countenance towards the ground, they said unto them:"
+   },
+   {
+    "s": "angel",
+    "t": "Why seek you the living with the dead?"
+   }
+  ],
+  "6": [
+   {
+    "s": "angel",
+    "t": "He is not here, but is risen. Remember how he spoke unto you, when he was yet in Galilee,"
+   }
+  ],
+  "7": [
+   {
+    "s": "angel",
+    "t": "Saying: The Son of man must be delivered into the hands of sinful men and be crucified and the third day rise again."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And they remembered his words."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And going back from the sepulchre, they told all these things to the eleven and to all the rest."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And it was Mary Magdalen and Joanna and Mary of James and the other women that were with them, who told these things to the apostles."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And these words seemed to them as idle tales: and they did not believe them."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "But Peter rising up, ran to the sepulchre and, stooping down, he saw the linen cloths laid by themselves: and went away wondering in himself at that which was come to pass."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And behold, two of them went, the same day, to a town which was sixty furlongs from Jerusalem, named Emmaus."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And they talked together of all these things which had happened."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass that while they talked and reasoned with themselves, Jesus himself also, drawing near, went with them."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "But their eyes were held, that they should not know him."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "What are these discourses that you hold one with another as you walk and are sad?"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And the one of them, whose name was Cleophas, answering, said to him:"
+   },
+   {
+    "s": "cleophas",
+    "t": "Art thou only a stranger in Jerusalem, and hast not known the things that have been done there in these days?"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "To whom he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "What things?"
+   },
+   {
+    "s": "narrator",
+    "t": "And they said:"
+   },
+   {
+    "s": "emmaus-disciples",
+    "t": "Concerning Jesus of Nazareth, who was a prophet, mighty in work and word before God and all the people."
+   }
+  ],
+  "20": [
+   {
+    "s": "emmaus-disciples",
+    "t": "And how our chief priests and princes delivered him to be condemned to death and crucified him."
+   }
+  ],
+  "21": [
+   {
+    "s": "emmaus-disciples",
+    "t": "But we hoped that it was he that should have redeemed Israel. And now besides all this, to-day is the third day since these things were done."
+   }
+  ],
+  "22": [
+   {
+    "s": "emmaus-disciples",
+    "t": "Yea and certain women also of our company affrighted us who, before it was light, were at the sepulchre,"
+   }
+  ],
+  "23": [
+   {
+    "s": "emmaus-disciples",
+    "t": "And not finding his body, came, saying that they had all seen a vision of angels, who say that he is alive."
+   }
+  ],
+  "24": [
+   {
+    "s": "emmaus-disciples",
+    "t": "And some of our people went to the sepulchre and found it so as the women had said: but him they found not."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Then he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "O foolish and slow of heart to believe in all things, Which the prophets have spoken."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "Ought not Christ to have suffered these things and so, to enter into his glory?"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And beginning at Moses and all the prophets, he expounded to them in all the scriptures the things that were concerning him."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And they drew nigh to the town whither they were going: and he made as though he would go farther."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "But they constrained him, saying:"
+   },
+   {
+    "s": "emmaus-disciples",
+    "t": "Stay with us, because it is towards evening and the day is now far spent."
+   },
+   {
+    "s": "narrator",
+    "t": "And he went in with them."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, whilst he was at table with them, he took bread and blessed and brake and gave to them."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And their eyes were opened: and they knew him. And he vanished out of their sight."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And they said one to the other:"
+   },
+   {
+    "s": "emmaus-disciples",
+    "t": "Was not our heart burning within us, whilst he spoke in the way and opened to us the scriptures?"
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And rising up, the same hour, they went back to Jerusalem: and they found the eleven gathered together, and those that were with them,"
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "disciples",
+    "t": "The Lord is risen indeed and hath appeared to Simon.",
+    "q": "the eleven greet the two with this news (so the Greek); the English could be read as the two speaking"
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And they told what things were done in the way: and how they knew him in the breaking of bread."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "Now, whilst they were speaking these things, Jesus stood in the midst of them and saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Peace be to you. It is I: Fear not."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "But they being troubled and frightened, supposed that they saw a spirit."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Why are you troubled, and why do thoughts arise in your hearts?"
+   }
+  ],
+  "39": [
+   {
+    "s": "jesus",
+    "t": "See my hands and feet, that it is I myself. Handle, and see: for a spirit hath not flesh and bones, as you see me to have."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And when he had said this, he shewed them his hands and feet."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "But while they yet believed not and wondered for joy, he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Have you here any thing to eat?"
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "And they offered him a piece of a broiled fish and a honeycomb."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "And when he had eaten before them, taking the remains, he gave to them."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "These are the words which I spoke to you while I was yet with you, that all things must needs be fulfilled which are written in the law of Moses and in the prophets and in the psalms, concerning me."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "Then he opened their understanding, that they might understand the scriptures."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thus it is written, and thus it behoved Christ to suffer and to rise again from the dead, the third day:"
+   }
+  ],
+  "47": [
+   {
+    "s": "jesus",
+    "t": "And that penance and remission of sins should be preached in his name, unto all nations, beginning at Jerusalem."
+   }
+  ],
+  "48": [
+   {
+    "s": "jesus",
+    "t": "And you are witnesses of these things."
+   }
+  ],
+  "49": [
+   {
+    "s": "jesus",
+    "t": "And I send the promise of my Father upon you: but stay you in the city till you be endued with power from on high."
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "And he led them out as far as Bethania: and lifting up his hands, he blessed them."
+   }
+  ],
+  "51": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, whilst he blessed them, he departed from them and was carried up to heaven."
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "And they adoring went back into Jerusalem with great joy."
+   }
+  ],
+  "53": [
+   {
+    "s": "narrator",
+    "t": "And they were always in the temple, praising and blessing God. Amen."
+   }
+  ]
+ }
+}

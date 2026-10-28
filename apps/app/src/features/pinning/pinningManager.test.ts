@@ -5,7 +5,6 @@ import type {
   BookEntry,
   ChapterManifest,
   CollectionItemManifest,
-  LangSplitItemManifest,
   PracticeManifest,
 } from '@/content/manifestTypes'
 
@@ -37,7 +36,6 @@ describe('pinItem', () => {
         'practice/rosary': { kind: 'practice', hash: 'p-rosary', size: 200 },
         'chapter/intro': { kind: 'chapter', hash: 'c-intro', size: 300 },
         'book/foo': { kind: 'book', hash: 'b-foo', size: 400 },
-        'mass/of/easter': { kind: 'mass', hash: 'm-easter', size: 500 },
         'collection/marian': { kind: 'collection', hash: 'col-marian', size: 50 },
       },
     })
@@ -97,23 +95,6 @@ describe('pinItem', () => {
     await pinItem('book/foo')
     const passed = vi.mocked(prefetchMock).mock.calls[0][0].map((e: any) => e.hash)
     expect(passed.sort()).toEqual(['b-foo', 'css', 'ch1-en', 'ch2-en', 'ch2-pt', 'img'].sort())
-  })
-
-  it('mass — gathers shape + every per-language blob', async () => {
-    setup()
-    rememberManifestBody('m-easter', {
-      id: 'mass/of/easter',
-      shape: { hash: 'shape', size: 1 },
-      langs: {
-        la: { hash: 'la', size: 1 },
-        en: { hash: 'en', size: 1 },
-        'pt-BR': { hash: 'pt', size: 1 },
-      },
-    } as unknown as LangSplitItemManifest)
-
-    await pinItem('mass/of/easter')
-    const passed = vi.mocked(prefetchMock).mock.calls[0][0].map((e: any) => e.hash)
-    expect(passed.sort()).toEqual(['m-easter', 'shape', 'la', 'en', 'pt'].sort())
   })
 
   it('collection — recursively walks referenced items', async () => {

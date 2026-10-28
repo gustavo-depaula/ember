@@ -1,5 +1,6 @@
 ---
 import { getEntry } from '@/content/contentIndex'
+import { minutesText, practiceMinutes } from '@/content/duration'
 import { coverFor } from '@/features/covers/coverFor'
 import { artFor } from '@/features/explore/artMap'
 import { prayerDevotions, prayerForms } from '@/features/practices/prayerFacets'
@@ -29,7 +30,7 @@ const prayers = withLocale(locale, async () =>
       return {
         id: p.id,
         title: localizeContent(p.manifest.name),
-        minutes: p.manifest.estimatedMinutes,
+        minutes: minutesText(practiceMinutes(p.manifest)),
         tags: [...new Set([...(p.manifest.tags ?? []), ...(p.manifest.categories ?? [])])],
         art: artFor(p.id)?.uri,
         cover: entry && coverFor(entry),
@@ -90,7 +91,7 @@ const description = pt
             </span>
             <span class="grow">
               <span class="row-title">{p.title}</span>
-              {p.minutes && <span class="t-annotation" style="display:block">{s('minutes', { count: p.minutes })}</span>}
+              {p.minutes && <span class="t-annotation" style="display:block">{p.minutes}</span>}
             </span>
           </a>
         </li>

@@ -2,13 +2,16 @@
   "id": "miscellaneous-apostolic-constitutions-book-viii-chapter-47",
   "cover": "quarter",
   "name": {
-    "en-US": "Apostolic Constitutions, Book VIII, Chapter 47"
+    "en-US": "Apostolic Constitutions, Book VIII, Chapter 47",
+    "pt-BR": "Constituições Apostólicas, Livro VIII, Capítulo 47"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Apostolic Constitutions, Book VIII, Chapter 47"
+        "en-US": "Apostolic Constitutions, Book VIII, Chapter 47",
+        "pt-BR": "Constituições Apostólicas, Livro VIII, Capítulo 47"
       }
     }
   ]

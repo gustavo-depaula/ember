@@ -1,0 +1,613 @@
+{
+ "pericopes": [
+  1,
+  3,
+  11,
+  27,
+  32,
+  45,
+  57,
+  62
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Matthew; orderly, weighty storytelling, grave through the Passion."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; prophetic and solemn in the parables of judgment, sorrowful yet resolute in the Passion, majestic after the Resurrection."
+  },
+  "chief-priests": {
+   "name": "The chief priests and ancients",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "Temple leaders with the ancients (and, at the tomb request, the Pharisees); scheming, contemptuous of Judas, mocking at the cross."
+  },
+  "judas": {
+   "name": "Judas Iscariot",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The betrayer; bargaining and furtive, falsely warm in his greeting, then despairing."
+  },
+  "bystanders": {
+   "name": "Bystanders",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Those standing by: pressing Peter in the courtyard; mishearing Jesus' cry at the cross."
+  },
+  "pilate": {
+   "name": "Pontius Pilate",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Roman governor; cool, puzzled, yielding to the crowd, curt with the priests."
+  },
+  "pilates-wife": {
+   "name": "Pilate's wife",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "The governor's wife, sending an urgent warning after a troubling dream."
+  },
+  "crowd": {
+   "name": "The crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The people before Pilate, stirred up by the chief priests; shouting."
+  },
+  "soldiers": {
+   "name": "The soldiers",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Roman soldiers of the governor's band; coarse mock homage."
+  },
+  "passers-by": {
+   "name": "Passers-by at the cross",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "People passing Golgotha, wagging their heads and taunting."
+  },
+  "centurion": {
+   "name": "The centurion",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Roman officer at the cross, with his men; awed, frightened confession."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And when morning was come, all the chief priests and ancients of the people took counsel against Jesus, that they might put him to death."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And they brought him bound and delivered him to Pontius Pilate the governor."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Then Judas, who betrayed him, seeing that he was condemned, repenting himself, brought back the thirty pieces of silver to the chief priests and ancients,"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "judas",
+    "t": "I have sinned in betraying innocent blood."
+   },
+   {
+    "s": "narrator",
+    "t": "But they said:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "What is that to us? Look thou to it."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And casting down the pieces of silver in the temple, he departed and went and hanged himself with an halter."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "But the chief priests having taken the pieces of silver, said:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "It is not lawful to put them into the corbona, because it is the price of blood."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And after they had consulted together, they bought with them the potter's field, to be a burying place for strangers."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "For this cause that field was called Haceldama, that is, the field of blood, even to this day."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Then was fulfilled that which was spoken by Jeremias the prophet, saying: And they took the thirty pieces of silver, the price of him that was prized, whom they prized of the children of Israel."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And they gave them unto the potter's field, as the Lord appointed to me."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And Jesus stood before the governor, and the governor asked him, saying:"
+   },
+   {
+    "s": "pilate",
+    "t": "Art thou the king of the Jews?"
+   },
+   {
+    "s": "narrator",
+    "t": "Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thou sayest it."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And when he was accused by the chief priests and ancients, he answered nothing."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Then Pilate saith to him:"
+   },
+   {
+    "s": "pilate",
+    "t": "Dost not thou hear how great testimonies they allege against thee?"
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And he answered him to never a word, so that the governor wondered exceedingly."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Now upon the solemn day the governor was accustomed to release to the people one prisoner, whom they would."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And he had then a notorious prisoner that was called Barabbas."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "They therefore being gathered together, Pilate said:"
+   },
+   {
+    "s": "pilate",
+    "t": "Whom will you that I release to You: Barabbas, or Jesus that is called Christ?"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "For he knew that for envy they had delivered him."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And as he was sitting in the place of judgment, his wife sent to him, saying:"
+   },
+   {
+    "s": "pilates-wife",
+    "t": "Have thou nothing to do with that just man; for I have suffered many things this day in a dream because of him.",
+    "q": "a message sent through a messenger; given to its author, like a letter read out"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "But the chief priests and ancients persuaded the people that they should ask Barabbas and make Jesus away."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And the governor answering, said to them:"
+   },
+   {
+    "s": "pilate",
+    "t": "Whether will you of the two to be released unto you?"
+   },
+   {
+    "s": "narrator",
+    "t": "But they said:"
+   },
+   {
+    "s": "crowd",
+    "t": "Barabbas."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Pilate saith to them:"
+   },
+   {
+    "s": "pilate",
+    "t": "What shall I do then with Jesus that is called Christ?"
+   },
+   {
+    "s": "narrator",
+    "t": "They say all:"
+   },
+   {
+    "s": "crowd",
+    "t": "Let him be crucified."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "The governor said to them:"
+   },
+   {
+    "s": "pilate",
+    "t": "Why, what evil hath he done?"
+   },
+   {
+    "s": "narrator",
+    "t": "But they cried out the more, saying:"
+   },
+   {
+    "s": "crowd",
+    "t": "Let him be crucified."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And Pilate seeing that he prevailed nothing, but that rather a tumult was made, taking water washed his hands before the people, saying:"
+   },
+   {
+    "s": "pilate",
+    "t": "I am innocent of the blood of this just man. Look you to it."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And the whole people answering, said:"
+   },
+   {
+    "s": "crowd",
+    "t": "His blood be upon us and upon our children."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Then he released to them Barabbas: and having scourged Jesus, delivered him unto them to be crucified."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Then the soldiers of the governor, taking Jesus into the hall, gathered together unto him the whole band."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And stripping him, they put a scarlet cloak about him."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And platting a crown of thorns, they put it upon his head, and a reed in his right hand. And bowing the knee before him, they mocked him, saying:"
+   },
+   {
+    "s": "soldiers",
+    "t": "Hail, King of the Jews."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And spitting upon him, they took the reed and struck his head."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And after they had mocked him, they took off the cloak from him and put on him his own garments and led him away to crucify him."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And going out, they found a man of Cyrene, named Simon: him they forced to take up his cross."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And they came to the place that is called Golgotha, which is the place of Calvary."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And they gave him wine to drink mingled with gall. And when he had tasted, he would not drink."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And after they had crucified him, they divided his garments, casting lots; that it might be fulfilled which was spoken by the prophet, saying: They divided my garments among them; and upon my vesture they cast lots."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And they sat and watched him."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And they put over his head his cause written: THIS IS JESUS THE KING OF THE JEWS."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Then were crucified with him two thieves: one on the right hand and one on the left."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And they that passed by blasphemed him, wagging their heads,"
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And saying:"
+   },
+   {
+    "s": "passers-by",
+    "t": "Vah, thou that destroyest the temple of God and in three days dost rebuild it: save thy own self. If thou be the Son of God, come down from the cross."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "In like manner also the chief priests, with the scribes and ancients, mocking said:"
+   }
+  ],
+  "42": [
+   {
+    "s": "chief-priests",
+    "t": "He saved others: himself he cannot save. If he be the king of Israel, let him now come down from the cross: and we will believe him."
+   }
+  ],
+  "43": [
+   {
+    "s": "chief-priests",
+    "t": "He trusted in God: let him now deliver him if he will have him. For he said: I am the Son of God."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "And the selfsame thing the thieves also that were crucified with him reproached him with."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "Now from the sixth hour, there was darkness over the whole earth, until the ninth hour."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "And about the ninth hour, Jesus cried with a loud voice, saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "Eli, Eli, lamma sabacthani?"
+   },
+   {
+    "s": "narrator",
+    "t": "That is, My God, My God, why hast thou forsaken me?",
+    "q": "the translation of the cry is the narrator's gloss per convention, as in Mark 15:34; could be voiced by Jesus"
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "And some that stood there and heard said:"
+   },
+   {
+    "s": "bystanders",
+    "t": "This man calleth Elias."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "And immediately one of them running took a sponge and filled it with vinegar and put it on a reed and gave him to drink."
+   }
+  ],
+  "49": [
+   {
+    "s": "narrator",
+    "t": "And the others said:"
+   },
+   {
+    "s": "bystanders",
+    "t": "Let be. Let us see whether Elias will come to deliver him."
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "And Jesus again crying with a loud voice, yielded up the ghost."
+   }
+  ],
+  "51": [
+   {
+    "s": "narrator",
+    "t": "And behold the veil of the temple was rent in two from the top even to the bottom: and the earth quaked and the rocks were rent."
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "And the graves were opened: and many bodies of the saints that had slept arose,"
+   }
+  ],
+  "53": [
+   {
+    "s": "narrator",
+    "t": "And coming out of the tombs after his resurrection, came into the holy city and appeared to many."
+   }
+  ],
+  "54": [
+   {
+    "s": "narrator",
+    "t": "Now the centurion and they that were with him watching Jesus, having seen the earthquake and the things that were done, were sore afraid, saying:"
+   },
+   {
+    "s": "centurion",
+    "t": "Indeed this was the Son of God.",
+    "q": "said by the centurion and those with him; given to the centurion alone so he keeps his voice from Mark and Luke"
+   }
+  ],
+  "55": [
+   {
+    "s": "narrator",
+    "t": "And there were there many women afar off, who had followed Jesus from Galilee, ministering unto him:"
+   }
+  ],
+  "56": [
+   {
+    "s": "narrator",
+    "t": "Among whom was Mary Magdalen and Mary the mother of James and Joseph and the mother of the sons of Zebedee."
+   }
+  ],
+  "57": [
+   {
+    "s": "narrator",
+    "t": "And when it was evening, there came a certain rich man of Arimathea, named Joseph, who also himself was a disciple of Jesus."
+   }
+  ],
+  "58": [
+   {
+    "s": "narrator",
+    "t": "He went to Pilate and asked the body of Jesus. Then Pilate commanded that the body should be delivered."
+   }
+  ],
+  "59": [
+   {
+    "s": "narrator",
+    "t": "And Joseph taking the body wrapped it up in a clean linen cloth:"
+   }
+  ],
+  "60": [
+   {
+    "s": "narrator",
+    "t": "And laid it in his own new monument, which he had hewed out in a rock. And he rolled a great stone to the door of the monument and went his way."
+   }
+  ],
+  "61": [
+   {
+    "s": "narrator",
+    "t": "And there was there Mary Magdalen and the other Mary, sitting over against the sepulchre."
+   }
+  ],
+  "62": [
+   {
+    "s": "narrator",
+    "t": "And the next day, which followed the day of preparation, the chief priests and the Pharisees came together to Pilate,"
+   }
+  ],
+  "63": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "Sir, we have remembered, that that seducer said, while he was yet alive: After three days I will rise again.",
+    "q": "the chief priests and the Pharisees together; kept on the chief-priests voice"
+   }
+  ],
+  "64": [
+   {
+    "s": "chief-priests",
+    "t": "Command therefore the sepulchre to be guarded until the third day: lest perhaps his disciples come and steal him away and say to the people: He is risen from the dead. And the last error shall be worse than the first."
+   }
+  ],
+  "65": [
+   {
+    "s": "narrator",
+    "t": "Pilate saith to them:"
+   },
+   {
+    "s": "pilate",
+    "t": "You have a guard. Go, guard it as you know."
+   }
+  ],
+  "66": [
+   {
+    "s": "narrator",
+    "t": "And they departing, made the sepulchre sure, sealing the stone and setting guards."
+   }
+  ]
+ }
+}

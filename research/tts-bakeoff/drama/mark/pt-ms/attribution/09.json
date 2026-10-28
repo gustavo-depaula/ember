@@ -1,0 +1,447 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; brisk, vivid storytelling through the Transfiguration and the healing of the possessed boy."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; exasperated at unbelief, commanding with the spirit, then patient and grave teaching the twelve about humility and scandal."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Apostle on the mountain; awestruck and frightened, blurting out without knowing what he says."
+  },
+  "god-the-father": {
+   "name": "God the Father",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The voice from the cloud at the Transfiguration; majestic and solemn."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "In v10 Peter, James and John coming down the mountain, puzzled; in v27 the nine who failed to cast out the spirit, asking privately and chastened."
+  },
+  "father-of-possessed-boy": {
+   "name": "Father of the possessed boy",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A man from the multitude whose son has a dumb spirit; desperate, pleading, then crying out with tears."
+  },
+  "crowd": {
+   "name": "The crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The multitude around the boy; hushed and shocked, taking him for dead."
+  },
+  "john": {
+   "name": "John",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Apostle, son of Zebedee; reporting earnestly, expecting approval."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Seis dias depois, tomou Jesus consigo Pedro, Tiago e João, e conduziu-os sós, aparte, a um alto monte, e transfigurou-se diante deles."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Os seus vestidos tornaram-se resplandecentes, em extremo brancos, como nenhum lavandeiro sobre a terra os poderia tornar tão brancos."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Depois apareceu-lhes Elias com Moisés, que estavam falando com Jesus."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Pedro, tomando a palavra, disse a Jesus:"
+   },
+   {
+    "s": "peter",
+    "t": "\"Mestre, é bom que estejamos aqui: façamos três tendas, uma para ti, outra para Moisés, outra para Elias.\""
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Porque não sabia o que dizia, pois estavam atônitos de medo."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "E formou-se uma nuvem que os cobriu com a sua sombra, e saiu uma voz da nuvem, que dizia:"
+   },
+   {
+    "s": "god-the-father",
+    "t": "\"Este é o meu Filho caríssimo, ouvi-o.\""
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Olhando logo em roda, não viram mais ninguém com eles senão Jesus."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Ao descerem do monte, ordenou-lhes que a ninguém contassem o que tinham visto, senão quando o Filho do homem tivesse ressuscitado dos mortos."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Observaram esta ordem, investigando entre si o que queria dizer:"
+   },
+   {
+    "s": "narrator",
+    "t": "\"Quando tiver ressuscitado dos mortos.\"",
+    "q": "Not a speech act: the phrase of Jesus the three disciples are puzzling over, quoted by the narrator; could be voiced by disciples instead"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Interrogaram-no, dizendo:"
+   },
+   {
+    "s": "disciples",
+    "t": "\"Porque dizem os escribas que Elias deve vir primeiro?\"",
+    "q": "Speakers are only Peter, James and John (coming down the mountain), labelled with the general disciples group"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Jesus respondeu-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Elias efetivamente há-de vir primeiro e pôr tudo em ordem. Como está escrito acerca do Filho do homem, que terá de sofrer muito e ser desprezado?"
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "Mas digo-vos que Elias já veio, e fizeram dele quanto quiseram, como está escrito dele.\""
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Chegando junto dos seus discípulos, viu uma grande multidão em volta deles, e os escribas disputando com eles."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "E logo toda aquela multidão surpreendida ao ver Jesus, correu para o saudar."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Perguntou-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Que estais disputando entre vós?\""
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Um de entre a multidão respondeu-lhe:"
+   },
+   {
+    "s": "father-of-possessed-boy",
+    "t": "\"Mestre, eu trouxe-te meu filho que está possesso de um espirito mudo,"
+   }
+  ],
+  "17": [
+   {
+    "s": "father-of-possessed-boy",
+    "t": "o qual, onde quer que se apodere dele, o lança por terra, e o menino espuma, range com os dentes, e fica entorpecido. Roguei a teus discípulos que o expelissem, e não puderam.\""
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Jesus respondeu-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Ó geração incrédula! Até quando hei-de estar convosco? Até quando vos hei-de suportar? Trazei-mo cá.\""
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Levaram-lho. Tendo visto Jesus, imediatamente o espírito o agitou com violência, e, caído por terra, revolvia-se espumando."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Jesus perguntou ao pai dele:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Há quanto tempo lhe sucede isto?\""
+   },
+   {
+    "s": "narrator",
+    "t": "Ele respondeu:"
+   },
+   {
+    "s": "father-of-possessed-boy",
+    "t": "\"Desde a infância."
+   }
+  ],
+  "21": [
+   {
+    "s": "father-of-possessed-boy",
+    "t": "O demônio tem-no lançado muitas vezes no fogo e na água, para o matar; porém tu, se podes alguma coisa, vale-nos, tem compaixão de nós.\""
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Jesus disse-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Se podes... tudo é possível ao que crê.\""
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Imediatamente o pai do menino exclamou;"
+   },
+   {
+    "s": "father-of-possessed-boy",
+    "t": "\"Eu creio! Auxilia a minha falta de fé.\""
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Jesus, vendo aumentar a multidão, ameaçou o espírito imundo, dizendo-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Espírito mudo e surdo, eu te mando; sai desse menino, e não tornes a entrar nele!\""
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Então, dando gritos e agitando-o com violência, saiu dele, e o menino ficou como morto, de sorte que muitos diziam:"
+   },
+   {
+    "s": "crowd",
+    "t": "\"Está morto.\""
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Porém Jesus, tomando-o pela mão, levantou-o, e ele ergueu-se."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Depois que entrou em casa, seus discípulos perguntaram-lhe particularmente:"
+   },
+   {
+    "s": "disciples",
+    "t": "\"Porque o não pudemos nós expelir?\""
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Respondeu-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Esta casta de demônios não se pode expelir, senão mediante a oração e o jejum.\""
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Tendo partido dali, atravessaram a Galileia; e Jesus não queria que se soubesse."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "Ia instruindo os seus discípulos, e dizia-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"O Filho do homem vai ser entregue às mãos dos homens, e lhe darão a morte, e ressuscitará ao terceiro dia, depois da sua morte.\""
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Mas eles não compreendiam estas palavras, e temiam interrogá-lo."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "Nisto chegaram a Cafarnaum. Quando estavam em casa, Jesus perguntou-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"De que vínheis vós discutindo pelo caminho?",
+    "q": "Source text has no closing quote; speech ends with the verse (v33 is narration)"
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Eles, porém, calaram-se, porque no caminho tinham discutido entre si qual deles era o maior."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Então, sentando-se, chamou os doze, e disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Se alguém quer ser o primeiro, será o último de todos e o servo de todos.\""
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Em seguida, tomando um menino, pô-lo no meio deles, e, depois de o abraçar, disse-lhes:"
+   }
+  ],
+  "36": [
+   {
+    "s": "jesus",
+    "t": "\"Todo o que receber um destes meninos em meu nome, a mim recebe, e todo o que me receber a mim, não me recebe a mim, mas aquele que me enviou.\""
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "João disse-lhe:"
+   },
+   {
+    "s": "john",
+    "t": "\"Mestre, vimos um, que não anda connosco, expelir os demônios em teu nome, e nós lho proibimos, porque não nos segue.\""
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Jesus, porém, respondeu:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Não lho proibais, porque não há ninguém que faça um milagre em meu nome e que possa logo dizer mal de mim."
+   }
+  ],
+  "39": [
+   {
+    "s": "jesus",
+    "t": "Porque quem não é contra nós, está connosco."
+   }
+  ],
+  "40": [
+   {
+    "s": "jesus",
+    "t": "Quem vos der um copo de água, por que sois de Cristo, em verdade vos digo que não perderá a sua recompensa."
+   }
+  ],
+  "41": [
+   {
+    "s": "jesus",
+    "t": "Quem escandalizar um destes pequeninos que, creem em mim, melhor lhe fora que lhe atassem à roda do pescoço a mó que um asno faz girar, e que o lançassem ao mar."
+   }
+  ],
+  "42": [
+   {
+    "s": "jesus",
+    "t": "Se a tua mão é para ti ocasião de queda, corta-a; melhor te é entrar na vida eterna manco, do que, tendo duas mãos, ir para a geena, para o fogo inextinguível,"
+   }
+  ],
+  "43": [
+   {
+    "s": "jesus",
+    "t": "onde o seu verme não morre, e o fogo não se apaga."
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "Se o teu pé é para ti ocasião de queda, corta-o; melhor te é entrar na vida eterna coxo, do que, tendo dois pés, ser lançado na geena,"
+   }
+  ],
+  "45": [
+   {
+    "s": "jesus",
+    "t": "onde o seu verme não morre, e o fogo não se apaga."
+   }
+  ],
+  "46": [
+   {
+    "s": "jesus",
+    "t": "Se o teu olho é para ti ocasião de queda, lança-o fora; melhor te é entrar no reino de Deus sem um olho, do que, tendo dois, ser lançado na geena,"
+   }
+  ],
+  "47": [
+   {
+    "s": "jesus",
+    "t": "onde o seu verme não morre, e o fogo não se apaga."
+   }
+  ],
+  "48": [
+   {
+    "s": "jesus",
+    "t": "Todo o homem será salgado pelo fogo."
+   }
+  ],
+  "49": [
+   {
+    "s": "jesus",
+    "t": "O sal é uma coisa boa, porém, se se tornar insípido, com que haveis de lhe dar o sabor? Tende sal em vós, e tende paz uns com os outros.\""
+   }
+  ]
+ }
+}

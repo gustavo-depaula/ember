@@ -25,9 +25,8 @@ export default defineConfig({
     alias: [
       { find: '@', replacement: resolve(__dirname, 'src') },
       { find: 'react-native', replacement: 'react-native-web' },
-      // Every `@expo/ui` entry point calls `requireNativeView` at module scope,
-      // so tests resolve it to the web stand-in, as Metro does for web.
-      { find: /^@expo\/ui(\/.*)?$/, replacement: resolve(__dirname, 'src/lib/expo-ui-web.tsx') },
+      // Every `@expo/ui` entry point calls `requireNativeView` at module scope.
+      { find: /^@expo\/ui(\/.*)?$/, replacement: resolve(__dirname, 'src/test/expo-ui.tsx') },
     ],
     conditions: ['browser', 'module', 'import', 'default'],
   },

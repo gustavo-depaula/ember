@@ -2,13 +2,16 @@
   "id": "tertullian-veiling-of-virgins",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Veiling of Virgins"
+    "en-US": "On the Veiling of Virgins",
+    "pt-BR": "Sobre o véu das virgens"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Veiling of Virgins"
+        "en-US": "On the Veiling of Virgins",
+        "pt-BR": "Sobre o véu das virgens"
       }
     }
   ]

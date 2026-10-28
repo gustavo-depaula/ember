@@ -11,8 +11,10 @@ import {
   loadPracticeData,
   loadPracticeTracks,
 } from '@/content/resolver'
+import { currentRound } from '@/features/plan-of-life/program'
+import { transfersForJurisdiction } from '@/lib/missal/loaders'
 import { bootCorpus } from './corpus'
-import { type Locale, withLocale } from './locale'
+import { jurisdiction, type Locale, withLocale } from './locale'
 
 export type PracticeRender = {
   primitives: Primitive[]
@@ -64,7 +66,7 @@ export async function toPrimitives(
     queryClient: new QueryClient(),
     // The site reads Scripture in the Douay-Rheims; an in-copyright translation
     // is fetched from its publisher and never built into a page.
-    prefs: { lang: locale, translation: 'DRB' },
+    prefs: { lang: locale, translation: 'DRB', jurisdiction: jurisdiction[locale] },
     date,
     programDay,
   }
@@ -97,6 +99,7 @@ export async function renderPractice(
 
     const context: FlowContext = {
       date: options.date,
+      ofTransfers: transfersForJurisdiction(jurisdiction[locale]),
       // Noon keeps hour-mapped selects (the Office's hour tabs) on a stable default.
       now: new Date(
         options.date.getFullYear(),
@@ -109,6 +112,7 @@ export async function renderPractice(
       trackState,
       cycleData,
       programDay: options.programDay,
+      round: manifest.program && currentRound(manifest.program, options.date)?.key,
       selectOverrides: options.pins ?? {},
       templateVars: manifest.vars,
     }

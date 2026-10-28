@@ -1,4 +1,4 @@
-import type { OfCalendarStatics } from '@ember/missal-schema'
+import type { MissalCalendar, Transfers } from '@ember/missal'
 
 /** A civil date in the user's time zone, `YYYY-MM-DD`. Days end at local midnight. */
 export type IsoDate = string
@@ -15,10 +15,11 @@ export type EmberSeason = 'advent' | 'lent' | 'pentecost' | 'september'
  * Something the user did that can win a card. The app derives these from its
  * records (practice completions, plan-of-life ticks, book progress); which
  * practices count as Mass or as the Office, and when a novena is finished, is
- * decided there, not here.
+ * decided there, not here. A `prayedDay` is a day kept with the morning
+ * offering, the rosary and the examination of conscience, all three.
  */
 export type Act = { date: IsoDate } & (
-  | { kind: 'mass' | 'office' }
+  | { kind: 'mass' | 'office' | 'prayedDay' }
   | { kind: 'novenaFinished'; novena: string }
   | { kind: 'emberDaysFinished'; ember: EmberSeason }
   | { kind: 'bookFinished'; book: string }
@@ -28,10 +29,18 @@ export type Act = { date: IsoDate } & (
 export type Occurrence = { practice: string; date: IsoDate; kept: boolean }
 
 /**
- * The OF calendar the cards follow: every region's at once, so Mass on a
- * Brazilian saint's day gives that card in the United States too.
+ * The OF calendar the cards follow: the reader's own, and every other region's
+ * for the saints only it keeps, so Mass on a Brazilian saint's day gives that
+ * card in the United States too.
  */
-export type Calendar = { statics: OfCalendarStatics }
+export type Calendar = {
+  statics: MissalCalendar
+  // The reader's national calendar; absent, the General Calendar.
+  regions?: string[]
+  // Where the reader's calendar keeps the solemnities that may move to a
+  // Sunday; absent, the General Calendar's dates.
+  transfers?: Transfers
+}
 
 /**
  * The cards that exist (have art). A card missing here is never given: a door
@@ -41,7 +50,8 @@ export type Catalog = {
   /**
    * Saints and feasts. `celebration` links a card to its formulary ref; while
    * that ref is on the user's calendar the card comes only through Mass on the
-   * celebration's date. Otherwise it comes through the Office on `day`.
+   * celebration's date. Otherwise it comes through the Office, or a prayed
+   * day, on `day`.
    */
   saints: { id: CardId; celebration?: string; day?: MonthDay }[]
   /** Parts of the Mass, liturgical objects and vestments. */
@@ -84,7 +94,7 @@ type GrantBase = {
 /** A won card waiting to be redeemed, with what won it. */
 export type Grant = GrantBase &
   (
-    | { door: 'mass' | 'office' | 'triduum' | 'gaudete' | 'laetare' | 'starter' }
+    | { door: 'mass' | 'office' | 'prayedDay' | 'triduum' | 'gaudete' | 'laetare' | 'starter' }
     | { door: 'seasonSunday' | 'seasonWeekday'; season: Season }
     | { door: 'emberDays'; ember: EmberSeason }
     | { door: 'novena'; novena: string }

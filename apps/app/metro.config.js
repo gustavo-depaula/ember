@@ -11,19 +11,6 @@ config.resolver.nodeModulesPaths = [
   path.resolve(monorepoRoot, 'node_modules'),
 ]
 
-// `@expo/ui` is native-only (its views call `requireNativeViewManager`). Since
-// `ConfirmHost` mounts a sheet at the root of every screen, leaving it unshimmed
-// makes the web build a blank page. Swap in a plain web sheet instead.
-const webShims = {
-	'@expo/ui/community/bottom-sheet': path.resolve(__dirname, 'src/lib/web-shims/bottom-sheet.tsx'),
-	'@expo/ui/community/segmented-control': path.resolve(
-		__dirname,
-		'src/lib/web-shims/segmented-control.tsx',
-	),
-	'@expo/ui/swift-ui': path.resolve(__dirname, 'src/lib/web-shims/swift-ui.tsx'),
-	'@expo/ui/swift-ui/modifiers': path.resolve(__dirname, 'src/lib/web-shims/swift-ui.tsx'),
-}
-
 // Android stand-ins. The bottom sheet: Material's modal sheet ignores a lone
 // snap point and opens full-screen, so the stand-in sizes the sheet to that
 // point. The date/time picker: `@expo/ui`'s Material 3 pickers in place of the
@@ -42,8 +29,6 @@ const androidShims = {
 
 const defaultResolveRequest = config.resolver.resolveRequest
 config.resolver.resolveRequest = (context, moduleName, platform) => {
-	const shim = platform === 'web' ? webShims[moduleName] : undefined
-	if (shim) return { type: 'sourceFile', filePath: shim }
 	const androidShim = platform === 'android' ? androidShims[moduleName] : undefined
 	if (androidShim && context.originModulePath !== androidShim) {
 		return { type: 'sourceFile', filePath: androidShim }
@@ -61,32 +46,7 @@ config.resolver.blockList = [
 ]
 
 config.resolver.sourceExts.push('sql')
-config.resolver.assetExts.push('wasm')
 config.transformer.babelTransformerPath = path.resolve(__dirname, 'metro-sql-transformer.js')
-
-// Required for expo-sqlite on web (wa-sqlite needs SharedArrayBuffer)
-config.server = {
-	...config.server,
-	enhanceMiddleware: (middleware, server) => {
-		return (req, res, next) => {
-			res.setHeader('Cross-Origin-Opener-Policy', 'same-origin')
-			res.setHeader('Cross-Origin-Embedder-Policy', 'credentialless')
-			middleware(req, res, next)
-		}
-	},
-}
-
-// `@expo/ui` calls `requireNativeView(...)` at module scope, which throws on
-// web — and because it runs on import, one @expo/ui import anywhere takes the
-// whole web bundle down at boot. Point web builds at a web implementation.
-const expoUiWebShim = path.resolve(__dirname, 'src/lib/expo-ui-web.tsx')
-const upstreamResolveRequest = config.resolver.resolveRequest
-config.resolver.resolveRequest = (context, moduleName, platform) => {
-  if (platform === 'web' && /^@expo\/ui(\/|$)/.test(moduleName)) {
-    return { type: 'sourceFile', filePath: expoUiWebShim }
-  }
-  return (upstreamResolveRequest ?? context.resolveRequest)(context, moduleName, platform)
-}
 
 // `justif` publishes import-only conditional exports: every subpath offers
 // `types` and `import`, with no `require` and no `default`. Metro's exports

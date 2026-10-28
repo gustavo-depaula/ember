@@ -1,0 +1,194 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "sophar": {
+   "name": "Sophar the Naamathite",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Third of Job's friends; the bluntest and most impatient accuser."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Sofar de Naama, tomando a palavra, disse:"
+   }
+  ],
+  "2": [
+   {
+    "s": "sophar",
+    "t": "Por isso os meus pensamentos me sugerem uma resposta, e estou impaciente por falar."
+   }
+  ],
+  "3": [
+   {
+    "s": "sophar",
+    "t": "Ouvi recriminações injuriosas, mas tenho no meu espirito com que replicar."
+   }
+  ],
+  "4": [
+   {
+    "s": "sophar",
+    "t": "Não sabes que, desde o principio, desde que o homem foi posto sobre a terra,"
+   }
+  ],
+  "5": [
+   {
+    "s": "sophar",
+    "t": "é breve a glória dos ímpios, e a alegria do ímpio dura um momento?"
+   }
+  ],
+  "6": [
+   {
+    "s": "sophar",
+    "t": "Se a sua soberba subir até ao céu, e a sua cabeça tocar nas nuvens,"
+   }
+  ],
+  "7": [
+   {
+    "s": "sophar",
+    "t": "por fim perecerá como o esterco; aqueles que o tinham visto dirão: Onde está ele?"
+   }
+  ],
+  "8": [
+   {
+    "s": "sophar",
+    "t": "Como um sonho, ele voa, e não será achado, desaparecerá como uma visão noturna."
+   }
+  ],
+  "9": [
+   {
+    "s": "sophar",
+    "t": "Os olhos, que o tinham visto, não o verão mais, nem o verá mais a sua morada."
+   }
+  ],
+  "10": [
+   {
+    "s": "sophar",
+    "t": "Os seus filhos indemnizarão os pobres, e as suas mãos restituirão as suas rapinas."
+   }
+  ],
+  "11": [
+   {
+    "s": "sophar",
+    "t": "Os seus ossos estavam cheios das suas iniquidades ocultas, as quais com ele dormirão no pó."
+   }
+  ],
+  "12": [
+   {
+    "s": "sophar",
+    "t": "Se o mal foi doce na sua boca, se o escondeu debaixo de sua língua,"
+   }
+  ],
+  "13": [
+   {
+    "s": "sophar",
+    "t": "se o reteve, sem o deixar, e o gostou no seu paladar,"
+   }
+  ],
+  "14": [
+   {
+    "s": "sophar",
+    "t": "este alimento se transformará nas suas entranhas, se converterá interiormente em fel de áspides."
+   }
+  ],
+  "15": [
+   {
+    "s": "sophar",
+    "t": "Vomitará as riquezas, que devorou, e Deus lhas fará sair das entranhas."
+   }
+  ],
+  "16": [
+   {
+    "s": "sophar",
+    "t": "Chupou veneno de áspides, a língua da víbora o matará."
+   }
+  ],
+  "17": [
+   {
+    "s": "sophar",
+    "t": "Jamais veja ele as correntes de um rio, as torrentes de mel e de leite."
+   }
+  ],
+  "18": [
+   {
+    "s": "sophar",
+    "t": "Restituirá o seu ganho sem o poder tragar, do fruto do seu comércio não gozará."
+   }
+  ],
+  "19": [
+   {
+    "s": "sophar",
+    "t": "Porque oprimiu e despojou os pobres, roubou casas, que não edificou."
+   }
+  ],
+  "20": [
+   {
+    "s": "sophar",
+    "t": "O seu apetite foi insaciável; e quando tiver o que cobiçava, não o poderá gozar."
+   }
+  ],
+  "21": [
+   {
+    "s": "sophar",
+    "t": "Nada escapava á sua voracidade, e por isso não durará a sua felicidade."
+   }
+  ],
+  "22": [
+   {
+    "s": "sophar",
+    "t": "No cúmulo da abundância, tudo lhe é pouco, e desventuras de toda a sorte desabam sobre ele."
+   }
+  ],
+  "23": [
+   {
+    "s": "sophar",
+    "t": "Eis com que encherá o seu ventre: (Deus) enviará contra ele a ira do seu furor, e fará chover sobre ele os seus castigos."
+   }
+  ],
+  "24": [
+   {
+    "s": "sophar",
+    "t": "Se escapar (por um lado) às armas de ferro, cairá (por outro) no arco de bronze."
+   }
+  ],
+  "25": [
+   {
+    "s": "sophar",
+    "t": "A espada é tirada e sai da bainha, rutila e trespassa-o cruelmente; irão e virão sobre ele os terrores."
+   }
+  ],
+  "26": [
+   {
+    "s": "sophar",
+    "t": "Todas as trevas lhe estão reservadas, devorá-lo-á um fogo, que o homem não acendeu, e consumirá o que restar da sua lenda."
+   }
+  ],
+  "27": [
+   {
+    "s": "sophar",
+    "t": "Os céus revelarão a sua iniquidade, e a terra se levantará contra ele."
+   }
+  ],
+  "28": [
+   {
+    "s": "sophar",
+    "t": "Desaparecerá de sua casa toda a sua abundância, desaparecerá no dia do furor de Deus."
+   }
+  ],
+  "29": [
+   {
+    "s": "sophar",
+    "t": "Esta é a sorte reservada por Deus ao homem ímpio, esta é a herança que Deus lhe destina."
+   }
+  ]
+ }
+}

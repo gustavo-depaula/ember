@@ -1,0 +1,27 @@
+{
+  "name": "@ember/relay",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "main": "src/protocol.ts",
+  "types": "src/protocol.ts",
+  "scripts": {
+    "dev": "wrangler dev --port 8788",
+    "deploy": "wrangler deploy",
+    "test": "vitest run",
+    "recovery": "node scripts/recovery.mjs"
+  },
+  "dependencies": {
+    "@hono/zod-validator": "^0.8.0",
+    "hono": "^4.12.25",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {
+    "@noble/ciphers": "^2.4.0",
+    "@noble/curves": "^2.4.0",
+    "@noble/hashes": "^2.4.0",
+    "@cloudflare/vitest-pool-workers": "^0.16.16",
+    "@cloudflare/workers-types": "^4.20260616.1",
+    "wrangler": "^4.149.0"
+  }
+}

@@ -1,0 +1,222 @@
+{
+ "id": "sanctorale.07-09.brazil",
+ "kind": "sanctoral",
+ "commons": [
+  "common.virgins.1"
+ ],
+ "title": {
+  "*": "Santa Paulina do Coração Agonizante de Jesus, virgem"
+ },
+ "subtitle": {
+  "*": "Memória"
+ },
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(nas dioceses do Brasil)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "9 de julho"
+       ],
+       [
+        "Santa Paulina do Coração Agonizante de Jesus, virgem"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf. Pr 4,18"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O caminho dos justos é como luz esplêndida que surge e cresce do amanhecer até o pleno dia."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Coleta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus eterno e todo-poderoso, que conduzistes Santa Paulina pelo caminho da santidade através das provações, do trabalho humilde e da oração constante, concedei-nos, por sua intercessão, suportar com fortaleza os sofrimentos de cada dia e servir com generosidade os mais necessitados. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Abençoai, Senhor, os dons que vos oferecemos em memória de Santa Paulina e concedei que, convertidos pela vossa graça, vivamos uma vida nova à luz do Evangelho. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Mt 11,28"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vinde a mim todos vós que estais cansados e fatigados, e eu vos darei descanso, diz o Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ó Deus, renovados por estes sagrados mistérios, fazei que, a exemplo de Santa Paulina, nos esforcemos por servir unicamente a vós, trazendo em nossa vida os sinais dos sofrimentos de Jesus Cristo. Que vive e reina pelos séculos dos séculos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ]
+}

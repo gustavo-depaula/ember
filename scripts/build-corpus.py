@@ -260,6 +260,193 @@ def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
     return out
 
 
+# Words a minute of prayer said at a recollected pace: the Rosary's three
+# thousand English words fill its twenty minutes. Latin says the same prayer in
+# about three quarters of the words.
+PRAYER_WPM = {"la": 115}
+DEFAULT_WPM = 150
+
+# Sections that are read at a glance, not prayed.
+UNPRAYED_SECTIONS = {
+    "heading", "subheading", "section-marker", "divider", "rubric", "image", "gallery",
+}
+
+
+class _Uncounted(Exception):
+    """The flow draws on text this count can't see (an engine, a reading, a cycle)."""
+
+
+def _text_minutes(value: Any) -> float:
+    if not value:
+        return 0.0
+    lang = None
+    if isinstance(value, dict):
+        lang = next((l for l in ("en-US", "pt-BR") if value.get(l)), None) or next(iter(value))
+        value = value[lang]
+    if not isinstance(value, str) or "{{" in value:
+        raise _Uncounted
+    return len(value.split()) / PRAYER_WPM.get(lang, DEFAULT_WPM)
+
+
+def _sections_minutes(sections: list, flows: dict[str, dict], seen: tuple[str, ...] = ()) -> float:
+    total = 0.0
+    for s in sections:
+        kind = s.get("type")
+        if kind in UNPRAYED_SECTIONS:
+            continue
+        inner = s.get("sections")
+        if kind in ("select", "options"):
+            options = s.get("options")
+            if "from" in s or not options:
+                raise _Uncounted
+            # The option a flow opens on stands for the others.
+            chosen = next((o for o in options if o.get("id") == s.get("default")), options[0])
+            total += _sections_minutes(chosen.get("sections") or [], flows, seen)
+        elif kind == "repeat":
+            total += s.get("count", 1) * _sections_minutes(inner or [], flows, seen)
+        elif kind == "collapsible":
+            if s.get("defaultOpen") is not False:
+                total += _sections_minutes(inner or [], flows, seen)
+        elif kind in ("prayer", "canticle") and "ref" in s:
+            ref = s["ref"].split("/")[-1]
+            if ref in seen or ref not in flows:
+                raise _Uncounted
+            total += _sections_minutes(flows[ref].get("sections") or [], flows, (*seen, ref))
+        elif kind == "response":
+            for verse in s.get("verses") or []:
+                total += _text_minutes(verse.get("v")) + _text_minutes(verse.get("r"))
+        elif kind == "psalm" and "verses" in s:
+            total += sum(_text_minutes(v.get("text")) for v in s["verses"])
+        elif isinstance(inner, list):
+            total += _sections_minutes(inner, flows, seen)
+        elif "inline" in s or "text" in s:
+            total += _text_minutes(s.get("inline")) + _text_minutes(s.get("text"))
+        else:
+            raise _Uncounted
+    return total
+
+
+def _counted_minutes(sections: list, flows: dict[str, dict]) -> int | None:
+    """Minutes to pray these sections, or None where their text isn't all here."""
+    try:
+        minutes = _sections_minutes(sections, flows)
+    except _Uncounted:
+        return None
+    return max(1, round(minutes)) if minutes > 0 else None
+
+
+def _counted_hour_minutes(flow: dict, flows: dict[str, dict]) -> dict[str, int] | None:
+    """An office's minutes by hour (the options of its pinned hour select), with
+    whatever the flow prays around the select counted into each."""
+    sections = flow.get("sections") or []
+    select = next(
+        (
+            s for s in sections
+            if s.get("type") == "select" and s.get("pin") is True and s.get("on") == "hour"
+        ),
+        None,
+    )
+    if not select:
+        return None
+    around = [s for s in sections if s is not select]
+    hours = {}
+    for option in select.get("options") or []:
+        if option.get("pin") is False:
+            continue
+        minutes = _counted_minutes([*around, *(option.get("sections") or [])], flows)
+        if minutes is None:
+            return None
+        hours[option["id"]] = minutes
+    return hours or None
+
+
+def _practice_flow(d: Path, manifest_data: dict) -> dict | None:
+    flow = manifest_data.get("flow")
+    if isinstance(flow, dict):
+        return flow
+    path = d / (flow if isinstance(flow, str) else "flow.json")
+    return json.loads(path.read_text(encoding="utf-8")) if path.is_file() else None
+
+
+def _embedded_refs(node: Any, into: set[str]) -> None:
+    if isinstance(node, list):
+        for item in node:
+            _embedded_refs(item, into)
+    elif isinstance(node, dict):
+        if node.get("type") in ("prayer", "canticle") and isinstance(node.get("ref"), str):
+            into.add(node["ref"].split("/")[-1])
+        for value in node.values():
+            _embedded_refs(value, into)
+
+
+# What search reads beyond a practice's names: the headings it is filed under
+# and the opening words of its own prayers. People ask for a prayer by its
+# occasion ("thanksgiving after Mass") or its first line ("Soul of Christ,
+# sanctify me") more often than by its catalogue title.
+_SEARCH_LINE_BLOCKS = ("prayer", "hymn")
+_SEARCH_LINES_PER_LANG = 8
+_SEARCH_LINE_WORDS = 12
+
+
+def _collection_section_titles() -> dict[str, list[dict]]:
+    """Practice id → the titles of every collection section that lists it."""
+    titles: dict[str, list[dict]] = {}
+
+    def walk(blocks: Any, above: list[dict]) -> None:
+        for block in blocks or []:
+            if block.get("kind") == "section":
+                title = block.get("title")
+                walk(block.get("blocks"), [*above, title] if isinstance(title, dict) else above)
+            elif block.get("kind") == "item" and str(block.get("ref", "")).startswith("practice/"):
+                held = titles.setdefault(block["ref"].split("/", 1)[1], [])
+                held.extend(t for t in above if t not in held)
+
+    for f in sorted((CONTENT / "collections").glob("*.json")):
+        data = json.loads(f.read_text(encoding="utf-8"))
+        for section in data.get("sections") or []:
+            title = section.get("title")
+            walk(section.get("blocks"), [title] if isinstance(title, dict) else [])
+    return titles
+
+
+def _opening_lines(node: Any, into: dict[str, list[str]]) -> None:
+    """First line of each prayer a flow words itself. A prayer prayed by `ref`
+    is left to its own practice, or "Our Father" would find every rosary."""
+    if isinstance(node, list):
+        for item in node:
+            _opening_lines(item, into)
+        return
+    if not isinstance(node, dict):
+        return
+    inline = node.get("inline")
+    if node.get("type") in _SEARCH_LINE_BLOCKS and isinstance(inline, dict):
+        for lang, text in inline.items():
+            if not isinstance(text, str):
+                continue
+            first = next((ln for ln in text.splitlines() if ln.strip()), "")
+            words = re.sub(r"[*_#>\[\]]", "", first).split()
+            line = " ".join(words[:_SEARCH_LINE_WORDS])
+            lines = into.setdefault(lang, [])
+            # One or two words ("Amen.", "Kyrie, eleison.") open too many prayers.
+            if len(words) >= 3 and line not in lines and len(lines) < _SEARCH_LINES_PER_LANG:
+                lines.append(line)
+    for value in node.values():
+        _opening_lines(value, into)
+
+
+def _practice_search(manifest_data: dict, flow: dict | None, filed_under: list[dict]) -> dict:
+    keywords: dict[str, list[str]] = {}
+    for lang, words in (manifest_data.get("keywords") or {}).items():
+        keywords.setdefault(lang, []).extend(words)
+    for title in filed_under:
+        for lang, text in title.items():
+            if text not in keywords.setdefault(lang, []):
+                keywords[lang].append(text)
+    lines: dict[str, list[str]] = {}
+    _opening_lines(flow, lines)
+    return {k: v for k, v in (("keywords", keywords), ("lines", lines)) if v}
+
+
 def build_practices(b: Builder) -> None:
     """Each practice's catalog blob is the original `manifest.json` body merged
     with resource hashes (flow / fragments / data / tracks / per-day / images).
@@ -268,13 +455,28 @@ def build_practices(b: Builder) -> None:
     src = CONTENT / "practices"
     if not src.is_dir():
         return
-    # A form group's primary declares whether praying it is Mass or the Office;
-    # every form inherits it, so the app reads it off any form's catalog entry.
-    group_acts = {}
+    # A form group's primary declares whether praying it is Mass or the Office,
+    # or one of the three prayers of a prayed day; every form inherits it, so
+    # the app reads it off any form's catalog entry.
+    group_acts = {"liturgicalAct": {}, "dayPrayer": {}}
+    # Every flow by practice, for the minutes of a prayer that refers to others.
+    flows: dict[str, dict] = {}
     for m in src.glob("*/manifest.json"):
         data = json.loads(m.read_text(encoding="utf-8"))
-        if "liturgicalAct" in data:
-            group_acts[data["id"]] = data["liturgicalAct"]
+        for key, acts in group_acts.items():
+            if key in data:
+                acts[data["id"]] = data[key]
+        flow = _practice_flow(m.parent, data)
+        if flow:
+            flows[m.parent.name] = flow
+    # The practices other flows pray by `ref`. The engine embeds one
+    # synchronously from its resident manifest, so its flow has to ship inline
+    # there: left behind a flowHash it renders as "[Unknown prayer ref]".
+    embedded: set[str] = set()
+    _embedded_refs(list(flows.values()), embedded)
+    for extra in (*src.glob("*/fragments/*.json"), *src.glob("*/programs/days/*.json")):
+        _embedded_refs(json.loads(extra.read_text(encoding="utf-8")), embedded)
+    section_titles = _collection_section_titles()
     for d in sorted(p for p in src.iterdir() if p.is_dir()):
         pid = d.name
         manifest_path = d / "manifest.json"
@@ -308,6 +510,17 @@ def build_practices(b: Builder) -> None:
         elif flow_path.is_file():
             with flow_path.open(encoding="utf-8") as fh:
                 flow_data = json.load(fh)
+            if pid in embedded:
+                # Fragments and image paths are only resolved when a practice is
+                # opened on its own, never when it is embedded.
+                if (d / "fragments").is_dir() or (d / "images").is_dir():
+                    raise SystemExit(
+                        f"practice {pid}: prayed by `ref` from another flow, "
+                        "so it cannot have fragments or images"
+                    )
+                inline_flow = flow_data
+            # Kept beside an inlined flow too: the app reads a flowHash as
+            # "this practice has a flow of its own to open and pray".
             fh_hash, fh_size = b.write_json_blob(flow_data)
             flow_entry = {"hash": fh_hash, "size": fh_size}
 
@@ -350,7 +563,7 @@ def build_practices(b: Builder) -> None:
                 name = file_to_logical.get(rel, rel)
                 data_files.append({"name": name, "hash": dh, "size": ds})
         # Data shared with another practice is pointed at, like a shared flow
-        # (`"office-hymns": "../divine-office/data/office-hymns.json"`).
+        # (`"hymns": "../other-practice/data/hymns.json"`).
         for logical, path in (manifest_data.get("data") or {}).items():
             if not isinstance(path, str) or path.startswith("data/"):
                 continue
@@ -398,12 +611,29 @@ def build_practices(b: Builder) -> None:
         # inline `{ sections: [...] }`, never as a string pointer like
         # `"flow": "flow.json"`.
         item_manifest = {**manifest_data, "id": f"practice/{pid}"}
-        if not isinstance(item_manifest.get("flow"), dict):
+        if isinstance(inline_flow, dict):
+            item_manifest["flow"] = inline_flow
+        else:
             item_manifest.pop("flow", None)
         for legacy in ("data", "tracks"):
             item_manifest.pop(legacy, None)
         if flow_entry is not None:
             item_manifest["flowHash"] = flow_entry
+        # Minutes the manifest doesn't give are counted from the flow's text.
+        flow = flows.get(pid)
+        if flow and "duration" not in item_manifest:
+            if "hourMinutes" not in item_manifest:
+                hour_minutes = _counted_hour_minutes(flow, flows)
+                if hour_minutes:
+                    item_manifest["hourMinutes"] = hour_minutes
+            if "estimatedMinutes" not in item_manifest:
+                minutes = _counted_minutes(flow.get("sections") or [], flows)
+                if minutes:
+                    item_manifest["estimatedMinutes"] = minutes
+        item_manifest.pop("keywords", None)
+        search = _practice_search(manifest_data, flow, section_titles.get(pid, []))
+        if search:
+            item_manifest["search"] = search
         if fragments:
             item_manifest["fragments"] = fragments
         if data_files:
@@ -428,13 +658,17 @@ def build_practices(b: Builder) -> None:
             catalog_entry["tags"] = list(set((catalog_entry.get("tags") or []) + manifest_data["categories"]))
         # Tile hints: which card a tile draws (prayer vs practice, liturgical
         # prayers as a breviary page) and the minutes line, without a manifest fetch.
-        for key in ("form", "liturgical", "estimatedMinutes"):
-            if key in manifest_data:
-                catalog_entry[key] = manifest_data[key]
+        for key in ("form", "liturgical", "estimatedMinutes", "duration"):
+            if key in item_manifest:
+                catalog_entry[key] = item_manifest[key]
+        hour_minutes = item_manifest.get("hourMinutes")
+        if hour_minutes:
+            catalog_entry["minutesRange"] = [min(hour_minutes.values()), max(hour_minutes.values())]
         group = (manifest_data.get("alternativeTo") or {}).get("id")
-        act = manifest_data.get("liturgicalAct") or group_acts.get(group)
-        if act:
-            catalog_entry["liturgicalAct"] = act
+        for key, acts in group_acts.items():
+            act = manifest_data.get(key) or acts.get(group)
+            if act:
+                catalog_entry[key] = act
         b.add_catalog(f"practice/{pid}", catalog_entry)
 
 
@@ -963,53 +1197,238 @@ def build_books(b: Builder) -> None:
 
 
 
-def build_of(b: Builder) -> None:
-    """New OF Mass corpus (content/of/): rebuilt missal in the @ember/missal-schema
-    shape. Each item is a single multilingual blob (formularies are small and
-    fetched per-day; the app selects its language client-side).
+def build_missal(b: Builder) -> None:
+    """The Ordinary Form missal (content/missal/).
+
+    Every item is one multilingual blob; the app picks its languages
+    client-side.
 
     Catalog kinds:
-      mass-formulary/<id>   one formulary (propers, readings, prefaces, parts)
-      order-of-mass         the Order of Mass bundle (EPs, blessings, frame)
-      of-calendar/<name>    temporal + sanctoral statics (fetched once, cached)
+      mass-formulary/<id>          the proper prayers of one celebration
+      mass-lectionary/<id>         its readings
+      mass-eucharistic-prayer/<id>
+      mass-order/<id>              the Order of Mass, blessings, universal prayer
+      mass-extra/<id>              the General Instruction, the priest's prayers, the devotionary
+      mass-prefaces                every preface
+      mass-calendar                the sanctoral table and the formulary index
     """
-    src = CONTENT / "of"
+    src = CONTENT / "missal"
     if not src.is_dir():
         return
 
-    fdir = src / "formularies"
-    if fdir.is_dir():
-        for f in sorted(fdir.rglob("*.json")):
+    folders = {
+        "formularies": "mass-formulary",
+        "lectionary": "mass-lectionary",
+        "eucharistic-prayers": "mass-eucharistic-prayer",
+        "order": "mass-order",
+        "extras": "mass-extra",
+    }
+    for folder, kind in folders.items():
+        for f in sorted((src / folder).glob("*.json")):
             with f.open(encoding="utf-8") as fh:
                 data = json.load(fh)
-            fid = data.get("id")
-            if not fid:
-                continue
-            item_id = f"mass-formulary/{fid}"
             h, size = b.write_json_blob(data)
-            entry = {"kind": "mass-formulary", "hash": h, "size": size}
-            for k in ("kind", "scope", "structure", "season", "color", "rank"):
-                v = data.get(k)
-                if isinstance(v, str):
-                    # `kind` collides with the catalog key name; expose as massKind.
-                    entry["massKind" if k == "kind" else k] = v
-            b.add_catalog(item_id, entry)
+            b.add_catalog(f"{kind}/{data['id']}", {"kind": kind, "hash": h, "size": size})
 
-    order_path = src / "order" / "order-of-mass.json"
-    if order_path.is_file():
-        with order_path.open(encoding="utf-8") as fh:
+    for name, item_id in (("prefaces", "mass-prefaces"), ("calendar", "mass-calendar")):
+        with (src / f"{name}.json").open(encoding="utf-8") as fh:
             data = json.load(fh)
         h, size = b.write_json_blob(data)
-        b.add_catalog("order-of-mass", {"kind": "order-of-mass", "hash": h, "size": size})
+        b.add_catalog(item_id, {"kind": item_id, "hash": h, "size": size})
 
-    cal_dir = src / "calendar"
-    if cal_dir.is_dir():
-        for f in sorted(cal_dir.glob("*.json")):
-            name = f.stem  # temporal | sanctoral
+
+def build_loth(b: Builder) -> None:
+    """The Liturgy of the Hours, Brazilian edition (content/loth/).
+
+    Catalog kinds:
+      loth-calendar        the celebrations of the breviary's calendar
+      loth-index/<hour>    where each part of an hour is found, by day
+      loth-parts/<bundle>  the parts themselves, some dozens to a bundle
+      loth-extras          the complementary texts the hours link to
+      loth-library/<id>    the psalter by psalm, and the offices, prayers and
+                           rites opened by name rather than by date
+    """
+    src = CONTENT / "loth"
+    if not src.is_dir():
+        return
+
+    folders = (("index", "loth-index"), ("parts", "loth-parts"), ("library", "loth-library"))
+    for folder, kind in folders:
+        for f in sorted((src / folder).glob("*.json")):
             with f.open(encoding="utf-8") as fh:
                 data = json.load(fh)
             h, size = b.write_json_blob(data)
-            b.add_catalog(f"of-calendar/{name}", {"kind": "of-calendar", "hash": h, "size": size})
+            b.add_catalog(f"{kind}/{data['id']}", {"kind": kind, "hash": h, "size": size})
+
+    for name, item_id in (("calendar", "loth-calendar"), ("extras", "loth-extras")):
+        with (src / f"{name}.json").open(encoding="utf-8") as fh:
+            data = json.load(fh)
+        h, size = b.write_json_blob(data)
+        b.add_catalog(item_id, {"kind": item_id, "hash": h, "size": size})
+
+
+def gabc_headers(text: str) -> dict[str, str]:
+    """The `key: value;` headers a GABC file opens with, up to its `%%` line."""
+    head, sep, _ = text.partition("\n%%")
+    if not sep:
+        raise ValueError("no %% line closing the headers")
+    out: dict[str, str] = {}
+    for line in head.splitlines():
+        key, colon, value = line.partition(":")
+        if colon:
+            out[key.strip()] = value.strip().removesuffix(";").strip()
+    return out
+
+
+def build_chants(b: Builder) -> None:
+    """Gregorian chant (content/chants/, content/chant-books/).
+
+    Catalog kinds:
+      chant/<id>       one score, the GABC file as it stands; the catalog entry
+                       carries what a list needs to name it without fetching it
+      chant-book/<id>  a book's chants in order, by section
+    """
+    src = CONTENT / "chants"
+    if not src.is_dir():
+        return
+
+    known: set[str] = set()
+    for f in sorted(src.glob("*.gabc")):
+        text = f.read_text(encoding="utf-8")
+        try:
+            headers = gabc_headers(text)
+            name = headers["name"]
+        except (ValueError, KeyError) as e:
+            raise ValueError(f"chant/{f.stem}: {e!r}") from e
+        h, size = b.write_blob(text.encode("utf-8"))
+        entry: dict[str, Any] = {"kind": "chant", "hash": h, "size": size, "name": {"la": name}}
+        if headers.get("subtitle"):
+            entry["subtitle"] = {"la": headers["subtitle"]}
+        if headers.get("mode"):
+            entry["mode"] = headers["mode"]
+        b.add_catalog(f"chant/{f.stem}", entry)
+        known.add(f"chant/{f.stem}")
+
+    for f in sorted((CONTENT / "chant-books").glob("*.json")):
+        with f.open(encoding="utf-8") as fh:
+            book = json.load(fh)
+        refs = [ref for section in book["sections"] for ref in section["chants"]]
+        missing = sorted(set(refs) - known)
+        if missing:
+            raise ValueError(f"{book['id']}: no such chant {missing}")
+        h, size = b.write_json_blob(book)
+        b.add_catalog(
+            book["id"],
+            {
+                "kind": "chant-book",
+                "hash": h,
+                "size": size,
+                "name": book["name"],
+                "description": book["description"],
+                "itemCount": len(set(refs)),
+            },
+        )
+
+
+# How many scores share a bundle. A Mass sings five or six, of as many genres,
+# so the app opens that many bundles: small enough that each is a quick fetch.
+CHANT_BUNDLE_SIZE = 48
+
+
+def build_chant_propers(b: Builder) -> None:
+    """The chant of the Mass propers and of the Office (content/chant-propers/),
+    found by text.
+
+    A proper has no id the app could ask for it by: the app holds the Latin of
+    an Introit or an antiphon, as Divinum Officium assembled it for the day. So these scores
+    are filed under the words they set (scripts/chant_link.py):
+
+      chant-index/<genre>  {keyLength, keys: {opening: [[length, ref]]}} — the
+                           folded opening of every text of the Missal and the
+                           Breviary that has a score of that genre, and of
+                           every such score's own text; `ref` is `<bundle>/<chant>`
+      chant-bundle/<id>    {id, chants: {<chant>: {name, mode, …, score}}}
+    """
+    src = CONTENT / "chant-propers"
+    if not src.is_dir():
+        return
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import chant_link
+
+    genre_of = {name: genre for genre, name in {**chant_link.GENRES, **chant_link.OFFICE_GENRES}.items()}
+    chants: dict[str, dict[str, Any]] = {}
+    for f in sorted(src.glob("*.gabc")):
+        text = f.read_text(encoding="utf-8")
+        headers = gabc_headers(text)
+        genre = genre_of.get(headers.get("office-part", ""))
+        if not genre:
+            raise ValueError(f"chant-propers/{f.name}: office-part is neither a Mass proper nor an Office chant")
+        score = text.partition("\n%%\n")[2]
+        chants[f.stem] = {
+            "genre": genre,
+            "key": chant_link.chant_key(genre, score),
+            "body": {
+                k: v
+                for k, v in (
+                    ("name", headers.get("name")),
+                    ("mode", headers.get("mode")),
+                    ("commentary", headers.get("commentary")),
+                    ("book", headers.get("book")),
+                    ("transcriber", headers.get("transcriber")),
+                    ("score", score),
+                )
+                if v
+            },
+        }
+
+    by_genre: dict[str, list[str]] = {}
+    for stem, chant in chants.items():
+        by_genre.setdefault(chant["genre"], []).append(stem)
+    ref_of: dict[str, str] = {}
+    for genre, stems in sorted(by_genre.items()):
+        for n in range(0, len(stems), CHANT_BUNDLE_SIZE):
+            bundle_id = f"{genre}-{n // CHANT_BUNDLE_SIZE + 1}"
+            members = stems[n : n + CHANT_BUNDLE_SIZE]
+            h, size = b.write_json_blob({"id": bundle_id, "chants": {s: chants[s]["body"] for s in members}})
+            b.add_catalog(f"chant-bundle/{bundle_id}", {"kind": "chant-bundle", "hash": h, "size": size})
+            for s in members:
+                ref_of[s] = f"{bundle_id}/{s}"
+
+    finder = chant_link.Finder((stem, c["genre"], c["key"], 0) for stem, c in chants.items())
+    keys: dict[str, dict[str, list[list[Any]]]] = {}
+
+    def file(genre: str, key: str, stem: str) -> None:
+        entry = [len(key), ref_of[stem]]
+        listed = keys.setdefault(genre, {}).setdefault(key[: chant_link.KEY_LENGTH], [])
+        if entry not in listed:
+            listed.append(entry)
+
+    # A score answers to its own words, whatever prints them…
+    for stem, chant in chants.items():
+        file(chant["genre"], chant["key"], stem)
+    # …and to the Missal's and the Breviary's, where they word the text their own way.
+    www = CONTENT / "do" / "web" / "www"
+    report = []
+    for book, pieces in (
+        ("Missal", chant_link.missal_pieces(www)),
+        ("Breviary", chant_link.breviary_pieces(www)),
+    ):
+        linked = 0
+        for (genre, key), _ in pieces.items():
+            score, stem = finder.find(chant_link.KIN.get(genre, (genre,)), key)
+            if score >= chant_link.THRESHOLD:
+                file(genre, key, stem)
+                linked += 1
+        report.append(f"{linked} of {len(pieces)} {book} texts")
+    # One index a genre: a Mass asks for six of them and never for the antiphons'.
+    size = 0
+    for genre, filed in sorted(keys.items()):
+        for listed in filed.values():
+            listed.sort()
+        h, blob_size = b.write_json_blob({"keyLength": chant_link.KEY_LENGTH, "keys": filed})
+        b.add_catalog(f"chant-index/{genre}", {"kind": "chant-index", "hash": h, "size": blob_size})
+        size += blob_size
+    print(f"  chant propers: {len(chants)} scores, {', '.join(report)} linked, index {size:,} bytes")
 
 
 # Divinum Officium datasets.
@@ -1025,9 +1444,6 @@ DO_HORAS_DATASETS = {
     "Appendix": "horas-appendix",
     "Regula": "horas-regula",
     "Martyrologium": "horas-martyrologium",
-    "Martyrologium1570": "horas-martyrologium-1570",
-    "Martyrologium1955R": "horas-martyrologium-1955r",
-    "Martyrologium1960": "horas-martyrologium-1960",
 }
 DO_MISSA_DATASETS = {
     "Tempora": "missa-tempora",
@@ -1380,9 +1796,14 @@ def main(argv: list[str]) -> int:
     print("[corpus] books...")
     build_books(b)
     print("[corpus] of (rebuilt missal corpus)...")
-    build_of(b)
+    build_missal(b)
+    print("[corpus] liturgy of the hours...")
+    build_loth(b)
     print("[corpus] divinum-officium...")
     build_do(b)
+    print("[corpus] chants...")
+    build_chants(b)
+    build_chant_propers(b)
     print("[corpus] collections...")
     build_collections(b)
     print("[corpus] plan-of-life templates...")

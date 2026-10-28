@@ -13,41 +13,49 @@
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade."
+            "pt-BR": "Senhor, tende piedade.",
+            "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade."
+            "pt-BR": "Senhor, tende piedade.",
+            "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade."
+            "pt-BR": "Cristo, tende piedade.",
+            "la": "Christe, eléison."
           },
           "r": {
             "en-US": "Christ, have mercy.",
-            "pt-BR": "Cristo, tende piedade."
+            "pt-BR": "Cristo, tende piedade.",
+            "la": "Christe, eléison."
           }
         },
         {
           "v": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade."
+            "pt-BR": "Senhor, tende piedade.",
+            "la": "Kýrie, eléison."
           },
           "r": {
             "en-US": "Lord, have mercy.",
-            "pt-BR": "Senhor, tende piedade."
+            "pt-BR": "Senhor, tende piedade.",
+            "la": "Kýrie, eléison."
           }
         },
         {
           "v": {
             "en-US": "Christ, hear us.",
-            "pt-BR": "Cristo, ouvi-nos."
+            "pt-BR": "Cristo, ouvi-nos.",
+            "la": "Iesu, audi nos."
           },
           "r": {
             "en-US": "Christ, graciously hear us.",
-            "pt-BR": "Cristo, atendei-nos."
+            "pt-BR": "Cristo, atendei-nos.",
+            "la": "Iesu, exáudi nos."
           }
         }
       ]
@@ -61,41 +69,49 @@
         {
           "v": {
             "en-US": "God the Father of Heaven,",
-            "pt-BR": "Deus Pai do Céu,"
+            "pt-BR": "Deus Pai do Céu,",
+            "la": "Pater de cælis, Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "God the Son, Redeemer of the world,",
-            "pt-BR": "Deus Filho, Redentor do mundo,"
+            "pt-BR": "Deus Filho, Redentor do mundo,",
+            "la": "Fili, Redémptor mundi, Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "God the Holy Spirit,",
-            "pt-BR": "Deus Espírito Santo,"
+            "pt-BR": "Deus Espírito Santo,",
+            "la": "Spíritus Sancte, Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Holy Trinity, one God,",
-            "pt-BR": "Santíssima Trindade, um só Deus,"
+            "pt-BR": "Santíssima Trindade, um só Deus,",
+            "la": "Sancta Trínitas, unus Deus,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         }
       ]
@@ -109,351 +125,457 @@
         {
           "v": {
             "en-US": "Jesus, Son of the living God,",
-            "pt-BR": "Jesus, Filho do Deus vivo,"
+            "pt-BR": "Jesus, Filho do Deus vivo,",
+            "la": "Iesu, Fili Dei vivi,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, splendor of the Father,",
-            "pt-BR": "Jesus, esplendor do Pai,"
+            "pt-BR": "Jesus, esplendor do Pai,",
+            "la": "Iesu, splendor Patris,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, brightness of eternal light,",
-            "pt-BR": "Jesus, brilho da luz eterna,"
+            "pt-BR": "Jesus, brilho da luz eterna,",
+            "la": "Iesu, candor lucis ætérnæ,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, King of glory,",
-            "pt-BR": "Jesus, Rei da glória,"
+            "pt-BR": "Jesus, Rei da glória,",
+            "la": "Iesu, rex glóriæ,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, sun of justice,",
-            "pt-BR": "Jesus, sol de justiça,"
+            "pt-BR": "Jesus, sol de justiça,",
+            "la": "Iesu, sol iustítiæ,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, Son of the Virgin Mary,",
-            "pt-BR": "Jesus, Filho da Virgem Maria,"
+            "pt-BR": "Jesus, Filho da Virgem Maria,",
+            "la": "Iesu, Fili Maríæ Vírginis,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, most amiable,",
-            "pt-BR": "Jesus, amabilíssimo,"
+            "pt-BR": "Jesus, amabilíssimo,",
+            "la": "Iesu, amábilis,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, most admirable,",
-            "pt-BR": "Jesus, admirável,"
+            "pt-BR": "Jesus, admirável,",
+            "la": "Iesu, admirábilis,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Jesus, mighty God,",
+            "pt-BR": "Jesus, Deus forte,",
+            "la": "Iesu, Deus fortis,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Jesus, Father of the world to come,",
+            "pt-BR": "Jesus, Pai do futuro século,",
+            "la": "Iesu, pater futúri sǽculi,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
+          }
+        },
+        {
+          "v": {
+            "en-US": "Jesus, angel of great counsel,",
+            "pt-BR": "Jesus, Anjo do grande conselho,",
+            "la": "Iesu, magni consílii ángele,"
+          },
+          "r": {
+            "en-US": "Have mercy on us.",
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, most powerful,",
-            "pt-BR": "Jesus, poderosíssimo,"
+            "pt-BR": "Jesus, poderosíssimo,",
+            "la": "Iesu potentíssime,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, most patient,",
-            "pt-BR": "Jesus, pacientíssimo,"
+            "pt-BR": "Jesus, pacientíssimo,",
+            "la": "Iesu patientíssime,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, most obedient,",
-            "pt-BR": "Jesus, obedientíssimo,"
+            "pt-BR": "Jesus, obedientíssimo,",
+            "la": "Iesu obœdientíssime,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, meek and humble of heart,",
-            "pt-BR": "Jesus, manso e humilde de coração,"
+            "pt-BR": "Jesus, manso e humilde de coração,",
+            "la": "Iesu, mitis et húmilis corde,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, lover of chastity,",
-            "pt-BR": "Jesus, amante da castidade,"
+            "pt-BR": "Jesus, amante da castidade,",
+            "la": "Iesu, amátor castitátis,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, lover of us,",
-            "pt-BR": "Jesus, que nos amais,"
+            "pt-BR": "Jesus, que nos amais,",
+            "la": "Iesu, amátor noster,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, God of peace,",
-            "pt-BR": "Jesus, Deus da paz,"
+            "pt-BR": "Jesus, Deus da paz,",
+            "la": "Iesu, Deus pacis,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, author of life,",
-            "pt-BR": "Jesus, autor da vida,"
+            "pt-BR": "Jesus, autor da vida,",
+            "la": "Iesu, auctor vitæ,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, model of virtues,",
-            "pt-BR": "Jesus, modelo das virtudes,"
+            "pt-BR": "Jesus, modelo das virtudes,",
+            "la": "Iesu, exémplar virtútum,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, zealous lover of souls,",
-            "pt-BR": "Jesus, zelador das almas,"
+            "pt-BR": "Jesus, zelador das almas,",
+            "la": "Iesu, zelátor animárum,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, our God,",
-            "pt-BR": "Jesus, nosso Deus,"
+            "pt-BR": "Jesus, nosso Deus,",
+            "la": "Iesu, Deus noster,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, our refuge,",
-            "pt-BR": "Jesus, nosso refúgio,"
+            "pt-BR": "Jesus, nosso refúgio,",
+            "la": "Iesu, refúgium nostrum,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, Father of the poor,",
-            "pt-BR": "Jesus, Pai dos pobres,"
+            "pt-BR": "Jesus, Pai dos pobres,",
+            "la": "Iesu, pater páuperum,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, treasure of the faithful,",
-            "pt-BR": "Jesus, tesouro dos fiéis,"
+            "pt-BR": "Jesus, tesouro dos fiéis,",
+            "la": "Iesu, thesáure fidélium,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, good Shepherd,",
-            "pt-BR": "Jesus, bom Pastor,"
+            "pt-BR": "Jesus, bom Pastor,",
+            "la": "Iesu, bone pastor,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, true light,",
-            "pt-BR": "Jesus, luz verdadeira,"
+            "pt-BR": "Jesus, luz verdadeira,",
+            "la": "Iesu, lux vera,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, eternal wisdom,",
-            "pt-BR": "Jesus, sabedoria eterna,"
+            "pt-BR": "Jesus, sabedoria eterna,",
+            "la": "Iesu, sapiéntia ætérna,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, infinite goodness,",
-            "pt-BR": "Jesus, bondade infinita,"
+            "pt-BR": "Jesus, bondade infinita,",
+            "la": "Iesu, bónitas infiníta,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, our way and our life,",
-            "pt-BR": "Jesus, nosso caminho e nossa vida,"
+            "pt-BR": "Jesus, nosso caminho e nossa vida,",
+            "la": "Iesu, via et vita nostra,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, joy of angels,",
-            "pt-BR": "Jesus, alegria dos anjos,"
+            "pt-BR": "Jesus, alegria dos anjos,",
+            "la": "Iesu, gáudium Angelórum,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, King of patriarchs,",
-            "pt-BR": "Jesus, Rei dos patriarcas,"
+            "pt-BR": "Jesus, Rei dos patriarcas,",
+            "la": "Iesu, rex Patriarchárum,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, master of apostles,",
-            "pt-BR": "Jesus, mestre dos apóstolos,"
+            "pt-BR": "Jesus, mestre dos apóstolos,",
+            "la": "Iesu, magíster Apostolórum,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, teacher of evangelists,",
-            "pt-BR": "Jesus, doutor dos evangelistas,"
+            "pt-BR": "Jesus, doutor dos evangelistas,",
+            "la": "Iesu, doctor Evangelistárum,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, strength of martyrs,",
-            "pt-BR": "Jesus, força dos mártires,"
+            "pt-BR": "Jesus, força dos mártires,",
+            "la": "Iesu, fortitúdo Mártyrum,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, light of confessors,",
-            "pt-BR": "Jesus, luz dos confessores,"
+            "pt-BR": "Jesus, luz dos confessores,",
+            "la": "Iesu, lumen Confessórum,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, purity of virgins,",
-            "pt-BR": "Jesus, pureza das virgens,"
+            "pt-BR": "Jesus, pureza das virgens,",
+            "la": "Iesu, púritas Vírginum,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         },
         {
           "v": {
             "en-US": "Jesus, crown of all saints,",
-            "pt-BR": "Jesus, coroa de todos os santos,"
+            "pt-BR": "Jesus, coroa de todos os santos,",
+            "la": "Iesu, coróna Sanctórum ómnium,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis."
           }
         }
       ]
@@ -467,21 +589,25 @@
         {
           "v": {
             "en-US": "Be merciful,",
-            "pt-BR": "Sede-nos propício,"
+            "pt-BR": "Sede-nos propício,",
+            "la": "Propítius esto,"
           },
           "r": {
             "en-US": "Spare us, O Jesus.",
-            "pt-BR": "Perdoai-nos, Jesus."
+            "pt-BR": "Perdoai-nos, Jesus.",
+            "la": "Parce nobis, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Be merciful,",
-            "pt-BR": "Sede-nos propício,"
+            "pt-BR": "Sede-nos propício,",
+            "la": "Propítius esto,"
           },
           "r": {
             "en-US": "Graciously hear us, O Jesus.",
-            "pt-BR": "Ouvi-nos, Jesus."
+            "pt-BR": "Ouvi-nos, Jesus.",
+            "la": "Exáudi nos, Iesu."
           }
         }
       ]
@@ -495,211 +621,253 @@
         {
           "v": {
             "en-US": "From all evil,",
-            "pt-BR": "De todo o mal,"
+            "pt-BR": "De todo o mal,",
+            "la": "Ab omni malo,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "From all sin,",
-            "pt-BR": "De todo o pecado,"
+            "pt-BR": "De todo o pecado,",
+            "la": "Ab omni peccáto,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "From Thy wrath,",
-            "pt-BR": "Da Vossa ira,"
+            "pt-BR": "Da Vossa ira,",
+            "la": "Ab ira tua,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "From the snares of the devil,",
-            "pt-BR": "Das ciladas do demônio,"
+            "pt-BR": "Das ciladas do demônio,",
+            "la": "Ab insídiis diáboli,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "From the spirit of fornication,",
-            "pt-BR": "Do espírito de fornicação,"
+            "pt-BR": "Do espírito de fornicação,",
+            "la": "A spíritu fornicatiónis,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "From everlasting death,",
-            "pt-BR": "Da morte eterna,"
+            "pt-BR": "Da morte eterna,",
+            "la": "A morte perpétua,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "From the neglect of Thine inspirations,",
-            "pt-BR": "Da negligência de Vossas inspirações,"
+            "pt-BR": "Da negligência de Vossas inspirações,",
+            "la": "A negléctu inspiratiónum tuárum,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through the mystery of Thy holy Incarnation,",
-            "pt-BR": "Pelo mistério da Vossa santa Encarnação,"
+            "pt-BR": "Pelo mistério da Vossa santa Encarnação,",
+            "la": "Per mystérium sanctæ Incarnatiónis tuæ,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thy Nativity,",
-            "pt-BR": "Pelo Vosso Nascimento,"
+            "pt-BR": "Pelo Vosso Nascimento,",
+            "la": "Per nativitátem tuam,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thine Infancy,",
-            "pt-BR": "Pela Vossa Infância,"
+            "pt-BR": "Pela Vossa Infância,",
+            "la": "Per infántiam tuam,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thy most divine life,",
-            "pt-BR": "Pela Vossa vida diviníssima,"
+            "pt-BR": "Pela Vossa vida diviníssima,",
+            "la": "Per diviníssimam vitam tuam,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thy labors,",
-            "pt-BR": "Pelos Vossos trabalhos,"
+            "pt-BR": "Pelos Vossos trabalhos,",
+            "la": "Per labóres tuos,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thy agony and Passion,",
-            "pt-BR": "Pela Vossa agonia e Paixão,"
+            "pt-BR": "Pela Vossa agonia e Paixão,",
+            "la": "Per agóniam et passiónem tuam,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thy Cross and dereliction,",
-            "pt-BR": "Pela Vossa Cruz e desamparo,"
+            "pt-BR": "Pela Vossa Cruz e desamparo,",
+            "la": "Per crucem et derelictiónem tuam,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thy sufferings,",
-            "pt-BR": "Pelos Vossos sofrimentos,"
+            "pt-BR": "Pelos Vossos sofrimentos,",
+            "la": "Per languóres tuos,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thy death and burial,",
-            "pt-BR": "Pela Vossa morte e sepultura,"
+            "pt-BR": "Pela Vossa morte e sepultura,",
+            "la": "Per mortem et sepultúram tuam,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thy Resurrection,",
-            "pt-BR": "Pela Vossa Ressurreição,"
+            "pt-BR": "Pela Vossa Ressurreição,",
+            "la": "Per resurrectiónem tuam,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thine Ascension,",
-            "pt-BR": "Pela Vossa Ascensão,"
+            "pt-BR": "Pela Vossa Ascensão,",
+            "la": "Per ascensiónem tuam,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thine institution of the most Holy Eucharist,",
-            "pt-BR": "Pela Vossa instituição da Santíssima Eucaristia,"
+            "pt-BR": "Pela Vossa instituição da Santíssima Eucaristia,",
+            "la": "Per sanctíssimæ Eucharístiæ institutiónem tuam,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thy joys,",
-            "pt-BR": "Pelas Vossas alegrias,"
+            "pt-BR": "Pelas Vossas alegrias,",
+            "la": "Per gáudia tua,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Through Thy glory,",
-            "pt-BR": "Pela Vossa glória,"
+            "pt-BR": "Pela Vossa glória,",
+            "la": "Per glóriam tuam,"
           },
           "r": {
             "en-US": "Jesus, deliver us.",
-            "pt-BR": "Livrai-nos, Jesus."
+            "pt-BR": "Livrai-nos, Jesus.",
+            "la": "Líbera nos, Iesu."
           }
         }
       ]
@@ -713,31 +881,37 @@
         {
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
-            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
+            "la": "Agnus Dei, qui tollis peccáta mundi,"
           },
           "r": {
             "en-US": "Spare us, O Jesus.",
-            "pt-BR": "Perdoai-nos, Jesus."
+            "pt-BR": "Perdoai-nos, Jesus.",
+            "la": "Parce nobis, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
-            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
+            "la": "Agnus Dei, qui tollis peccáta mundi,"
           },
           "r": {
             "en-US": "Graciously hear us, O Jesus.",
-            "pt-BR": "Ouvi-nos, Jesus."
+            "pt-BR": "Ouvi-nos, Jesus.",
+            "la": "Exáudi nos, Iesu."
           }
         },
         {
           "v": {
             "en-US": "Lamb of God, who takest away the sins of the world,",
-            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,"
+            "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo,",
+            "la": "Agnus Dei, qui tollis peccáta mundi,"
           },
           "r": {
             "en-US": "Have mercy on us.",
-            "pt-BR": "Tende piedade de nós."
+            "pt-BR": "Tende piedade de nós.",
+            "la": "Miserére nobis, Iesu."
           }
         }
       ]
@@ -751,11 +925,13 @@
         {
           "v": {
             "en-US": "Jesus, hear us.",
-            "pt-BR": "Jesus, ouvi-nos."
+            "pt-BR": "Jesus, ouvi-nos.",
+            "la": "Iesu, audi nos."
           },
           "r": {
             "en-US": "Jesus, graciously hear us.",
-            "pt-BR": "Jesus, atendei-nos."
+            "pt-BR": "Jesus, atendei-nos.",
+            "la": "Iesu, exáudi nos."
           }
         }
       ]
@@ -764,14 +940,16 @@
       "type": "rubric",
       "text": {
         "en-US": "Let us pray.",
-        "pt-BR": "Oremos."
+        "pt-BR": "Oremos.",
+        "la": "Orémus."
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "Lord Jesus Christ, who hast said: Ask and ye shall receive; seek and ye shall find; knock and it shall be opened unto you; grant, we beseech Thee, to us who ask, the gift of Thy most divine love, that we may ever love Thee with our whole heart, and in word and deed, and never cease from praising Thee. Give us, O Lord, a perpetual fear and love of Thy Holy Name; for Thou never failest to govern those whom Thou dost solidly establish in Thy love. Who livest and reignest world without end. Amen.",
-        "pt-BR": "Senhor Jesus Cristo, que dissestes: Pedi e recebereis; buscai e encontrareis; batei e abrir-se-vos-á; concedei-nos, nós Vo-lo pedimos, o dom do Vosso divínissimo amor, para que Vos amemos sempre de todo o coração, e em palavras e obras, e nunca cessemos de Vos louvar. Dai-nos, Senhor, um perpétuo temor e amor ao Vosso Santo Nome; pois Vós nunca deixais de governar aqueles que solidamente estabeleceis no Vosso amor. Que viveis e reinais pelos séculos dos séculos. Amém."
+        "pt-BR": "Senhor Jesus Cristo, que dissestes: Pedi e recebereis; buscai e encontrareis; batei e abrir-se-vos-á; concedei-nos, nós Vo-lo pedimos, o dom do Vosso divínissimo amor, para que Vos amemos sempre de todo o coração, e em palavras e obras, e nunca cessemos de Vos louvar. Dai-nos, Senhor, um perpétuo temor e amor ao Vosso Santo Nome; pois Vós nunca deixais de governar aqueles que solidamente estabeleceis no Vosso amor. Que viveis e reinais pelos séculos dos séculos. Amém.",
+        "la": "Dómine Iesu Christe, qui dixísti: Pétite et accipiétis; quǽrite et inveniétis; pulsáte et aperiétur vobis; quǽsumus, da nobis peténtibus diviníssimi tui amóris afféctum, ut te toto corde, ore et ópere diligámus et a tua numquam laude cessémus. Sancti Nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum, quia numquam tua gubernatióne destítuis, quos in soliditáte, tuæ dilectiónis instítuis. Qui vivis et regnas in sǽcula sæculórum. Amen."
       }
     }
   ]

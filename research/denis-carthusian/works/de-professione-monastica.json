@@ -1,0 +1,75 @@
+{
+  "parts": [
+    {
+      "volume": "operaomnia38deni",
+      "leaves": [
+        "0560",
+        "0561",
+        "0562",
+        "0563",
+        "0564",
+        "0565",
+        "0566",
+        "0567",
+        "0568",
+        "0569",
+        "0570",
+        "0571",
+        "0572",
+        "0573",
+        "0574",
+        "0575",
+        "0576",
+        "0577",
+        "0578",
+        "0579",
+        "0580",
+        "0581",
+        "0582",
+        "0583",
+        "0584",
+        "0585",
+        "0586",
+        "0587",
+        "0588",
+        "0589",
+        "0590",
+        "0591",
+        "0592",
+        "0593",
+        "0594",
+        "0595",
+        "0596"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-professione-monastica",
+  "slug": "de-professione-monastica",
+  "draft": false,
+  "meta": {
+    "id": "denis-de-professione-monastica",
+    "cover": "label",
+    "name": {
+      "la": "De professione monastica",
+      "en-US": "On Monastic Profession",
+      "pt-BR": "Sobre a profissão monástica"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De professione monastica.",
+      "en-US": "One of Denis the Carthusian's minor works.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomnia38deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  }
+}

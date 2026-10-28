@@ -1,0 +1,200 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "eliphaz": {
+   "name": "Eliphaz the Themanite",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Eldest of Job's three friends; here in his third speech openly accuses Job of sin."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Elifaz de Teman, tomando a palavra, disse:"
+   }
+  ],
+  "2": [
+   {
+    "s": "eliphaz",
+    "t": "Porventura pode o homem ser útil a Deus? Só a ele aproveita a sua sensatez."
+   }
+  ],
+  "3": [
+   {
+    "s": "eliphaz",
+    "t": "De que serve a Deus que tu sejas justo? Que lhe acrescentas, se for imaculado o teu proceder?"
+   }
+  ],
+  "4": [
+   {
+    "s": "eliphaz",
+    "t": "É porventura pela tua piedade que ele te castiga, ou que entra contigo em juízo,"
+   }
+  ],
+  "5": [
+   {
+    "s": "eliphaz",
+    "t": "e não antes por causa da tua grande malícia, e das tuas inumeráveis maldades?"
+   }
+  ],
+  "6": [
+   {
+    "s": "eliphaz",
+    "t": "Porque tu sem causa tiraste os penhores a teus irmãos, e aos nus despojaste dos seus vestidos."
+   }
+  ],
+  "7": [
+   {
+    "s": "eliphaz",
+    "t": "Negaste água ao fatigado, e negaste pão ao faminto."
+   }
+  ],
+  "8": [
+   {
+    "s": "eliphaz",
+    "t": "A terra é daquele que tem a mão forte, e quem se faz temer apossa-se dela."
+   }
+  ],
+  "9": [
+   {
+    "s": "eliphaz",
+    "t": "Despediste as viúvas (com as mãos) vazias, e quebraste os braços dos órfãos."
+   }
+  ],
+  "10": [
+   {
+    "s": "eliphaz",
+    "t": "Por isso estás cercado de laços, e um súbito temor te perturba,"
+   }
+  ],
+  "11": [
+   {
+    "s": "eliphaz",
+    "t": "no meio das trevas, sem (nada) ver, oprimido pela impetuosa inundação das águas."
+   }
+  ],
+  "12": [
+   {
+    "s": "eliphaz",
+    "t": "Não ponderas tu que Deus é mais alto que o céu? Vê a fronte das estrelas, em que altura está!"
+   }
+  ],
+  "13": [
+   {
+    "s": "eliphaz",
+    "t": "E dizes: \"Que sabe Deus? Pode ele julgar por entre trevas?"
+   }
+  ],
+  "14": [
+   {
+    "s": "eliphaz",
+    "t": "As nuvens o cobrem dum véu, e ele não vê; passeia pela abóbada celeste.\""
+   }
+  ],
+  "15": [
+   {
+    "s": "eliphaz",
+    "t": "Porventura queres tu seguir o caminho antigo, que foi seguido pelos homens iníquos?"
+   }
+  ],
+  "16": [
+   {
+    "s": "eliphaz",
+    "t": "Eles foram arrebatados (pela morte) antes do seu tempo, quando um rio destruiu os seus fundamentos;"
+   }
+  ],
+  "17": [
+   {
+    "s": "eliphaz",
+    "t": "eles diziam a Deus: \"Retira-te de nós; que nos pode fazer o Omnipotente?\""
+   }
+  ],
+  "18": [
+   {
+    "s": "eliphaz",
+    "t": "Mas era ele que havia cumulado de bens as suas casas. Esteja longe de mim o conselho dos ímpios."
+   }
+  ],
+  "19": [
+   {
+    "s": "eliphaz",
+    "t": "Os justos verão (a sua ruína) e alegrar-se-ão, e o inocente escarnecerá deles (da sua falsa doutrina):"
+   }
+  ],
+  "20": [
+   {
+    "s": "eliphaz",
+    "t": "Porventura não foi lançada por terra a sua soberba, e o fogo não devorou as suas relíquias?"
+   }
+  ],
+  "21": [
+   {
+    "s": "eliphaz",
+    "t": "Submete-te, pois, a Deus, e lerás paz, e assim colherás ótimos frutos."
+   }
+  ],
+  "22": [
+   {
+    "s": "eliphaz",
+    "t": "Recebe lições da sua boca, e grava as palavras no teu coração."
+   }
+  ],
+  "23": [
+   {
+    "s": "eliphaz",
+    "t": "Se voltares para o Omnipotente, de novo serás levantado, se afastares de tua casa a iniquidade."
+   }
+  ],
+  "24": [
+   {
+    "s": "eliphaz",
+    "t": "Se lançares ao pó os lingotes de ouro, e o ouro de Ofir aos seixos da torrente,"
+   }
+  ],
+  "25": [
+   {
+    "s": "eliphaz",
+    "t": "o Omnipotente será o teu ouro, será para ti prata brilhante."
+   }
+  ],
+  "26": [
+   {
+    "s": "eliphaz",
+    "t": "Então porás tuas delícias no Omnipotente, e levantarás o teu rosto para Deus."
+   }
+  ],
+  "27": [
+   {
+    "s": "eliphaz",
+    "t": "Tu lhe rogarás, e ele te ouvirá, e cumprirás os teus votos."
+   }
+  ],
+  "28": [
+   {
+    "s": "eliphaz",
+    "t": "Formarás os teus projetos, que terão feliz êxito, e a luz brilhará em teus caminhos."
+   }
+  ],
+  "29": [
+   {
+    "s": "eliphaz",
+    "t": "Porque quem se humilha, será glorificado, e quem (arrependido) tiver abaixado os olhos, será salvo."
+   }
+  ],
+  "30": [
+   {
+    "s": "eliphaz",
+    "t": "O inocente será salvo, e será salvo pela pureza das suas mãos."
+   }
+  ]
+ }
+}

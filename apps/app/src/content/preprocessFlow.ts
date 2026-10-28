@@ -1,5 +1,6 @@
 import type { BilingualText, RenderedSection } from '@ember/content-engine'
 import type { QueryClient } from '@tanstack/react-query'
+import { loadChant } from '@/features/chant/chants'
 import {
   type ContentSource,
   cacheKeyFor,
@@ -49,7 +50,16 @@ export async function preprocessFlow(
 ): Promise<Primitive[]> {
   const accessor = makeSourceAccessor(ctx)
   const resolved = await Promise.all(sections.map((s) => preprocessSection(s, ctx, accessor)))
-  return resolved.flat()
+  const blocks = resolved.map((block) => [block].flat())
+  // A chant node sets the section before it: the two become one block, which
+  // shows the text or its score.
+  sections.forEach((section, i) => {
+    const [chant] = blocks[i]
+    if (section.type !== 'chant' || chant?.type !== 'chant' || !blocks[i - 1]?.length) return
+    blocks[i] = [{ type: 'sung', text: blocks[i - 1], chants: [chant] }]
+    blocks[i - 1] = []
+  })
+  return blocks.flat()
 }
 
 async function preprocessSection(
@@ -96,6 +106,15 @@ async function preprocessSection(
         caption: section.caption,
         attribution: section.attribution,
       }
+
+    case 'chant': {
+      // An app update can reach a phone before the corpus that holds the
+      // score; the prayer is whole without it, so the block is left out.
+      const chant = await loadChant(section.ref)
+      if (!chant) return []
+      const { id: _, name, subtitle: __, ...rest } = chant
+      return { type: 'chant', name, ...rest }
+    }
 
     case 'prose':
       return { type: 'prose', text: section.text }
@@ -286,21 +305,6 @@ async function preprocessSection(
       }
     }
 
-    case 'choice-rich-text':
-      return {
-        type: 'container',
-        behavior: {
-          kind: 'choice-rich-text',
-          label: section.label,
-          overrideKey: section.overrideKey,
-          selectedId: section.selectedId,
-          pickerStyle: section.pickerStyle,
-          hideLabel: section.hideLabel,
-          precedingResponse: section.precedingResponse,
-          options: section.options,
-        },
-      }
-
     default: {
       // Exhaustiveness: a new RenderedSection variant must add a primitive
       // mapping here or the engine will silently dead-end.
@@ -352,6 +356,15 @@ function makeSourceAccessor(ctx: PreprocessContext): SourceAccessor {
     },
   }
   return accessor
+}
+
+/** One source's output outside a flow, for a page that shows a line of a practice's text. */
+export function fetchSource(
+  ref: string,
+  params: Record<string, unknown>,
+  ctx: PreprocessContext,
+): Promise<Primitive | Primitive[]> {
+  return fetchFromSource(ref, params, ctx, makeSourceAccessor(ctx))
 }
 
 async function fetchFromSource(

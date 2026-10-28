@@ -3,11 +3,12 @@
 import { memo, useCallback } from 'react'
 import { View, YStack } from 'tamagui'
 import type { Primitive } from '@/content/primitives'
+import { SungBlock } from '@/features/chant/SungBlock'
 import { ProducerHtmlBlock } from './include/ProducerHtmlBlock'
+import { OutlineMark } from './outline'
 import { PrayerLines } from './PrayerText'
 import { BilingualBlock } from './prayer/BilingualBlock'
 import { CelebrationBanner } from './prayer/CelebrationBanner'
-import { ChoiceRichTextBlock } from './prayer/ChoiceRichTextBlock'
 import { CollapsibleBlock } from './prayer/CollapsibleBlock'
 import { CollapsiblePrayer } from './prayer/CollapsiblePrayer'
 import { GalleryBlock } from './prayer/GalleryBlock'
@@ -60,20 +61,28 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
               text={text}
               fontStyle={primitive.style === 'italic' ? 'italic' : undefined}
               markup={primitive.markup}
+              ragged={primitive.layout === 'verse'}
             />
           )}
         />
       )
 
     case 'heading':
-      if (!primitive.note) return <SectionHeading>{primitive.text.primary}</SectionHeading>
+      if (!primitive.note)
+        return (
+          <OutlineMark title={primitive.text.primary}>
+            <SectionHeading>{primitive.text.primary}</SectionHeading>
+          </OutlineMark>
+        )
       return (
-        <YStack gap="$xs" paddingBottom="$sm">
-          <SectionHeading>{primitive.text.primary}</SectionHeading>
-          <Typography variant="section-title" fontSize="$3" tone="muted">
-            {primitive.note.primary}
-          </Typography>
-        </YStack>
+        <OutlineMark title={primitive.text.primary}>
+          <YStack gap="$xs" paddingBottom="$sm">
+            <SectionHeading>{primitive.text.primary}</SectionHeading>
+            <Typography variant="section-title" fontSize="$3" tone="muted">
+              {primitive.note.primary}
+            </Typography>
+          </YStack>
+        </OutlineMark>
       )
 
     case 'rubric':
@@ -104,6 +113,13 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
           attribution={primitive.attribution}
         />
       )
+
+    // A chant with no text of its own to turn from: a block with the one face.
+    case 'chant':
+      return <SungBlock text={[]} chants={[primitive]} renderText={renderChild} />
+
+    case 'sung':
+      return <SungBlock text={primitive.text} chants={primitive.chants} renderText={renderChild} />
 
     case 'gallery':
       return (
@@ -152,7 +168,12 @@ function renderCallout(p: Extract<Primitive, { type: 'callout' }>) {
     case 'liturgical-color':
       return <LiturgicalColorBlock color={p.color ?? 'white'} label={p.title ?? { primary: '' }} />
     case 'section-marker':
-      return <SectionMarker title={p.title ?? { primary: '' }} color={p.color} />
+      if (!p.title) return <SectionMarker title={{ primary: '' }} color={p.color} />
+      return (
+        <OutlineMark title={p.title.primary}>
+          <SectionMarker title={p.title} color={p.color} />
+        </OutlineMark>
+      )
   }
 }
 
@@ -206,6 +227,7 @@ function renderContainer(
         <OptionsBlock
           label={behavior.label.primary}
           pickerStyle={behavior.pickerStyle}
+          initialId={behavior.initialId}
           options={behavior.options.map((o) => ({
             id: o.id,
             label: o.label.primary,
@@ -227,19 +249,6 @@ function renderContainer(
           practiceId={practiceId}
           onSelect={(nextId) => onSelectOverride(behavior.overrideKey, nextId)}
           renderSection={renderChild}
-        />
-      )
-
-    case 'choice-rich-text':
-      return (
-        <ChoiceRichTextBlock
-          label={behavior.label}
-          selectedId={behavior.selectedId}
-          pickerStyle={behavior.pickerStyle}
-          hideLabel={behavior.hideLabel}
-          precedingResponse={behavior.precedingResponse}
-          options={behavior.options}
-          onSelect={(id) => onSelectOverride(behavior.overrideKey, id)}
         />
       )
   }

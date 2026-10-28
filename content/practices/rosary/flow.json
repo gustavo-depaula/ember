@@ -400,6 +400,10 @@
 						},
 						{
 							"type": "prayer",
+							"ref": "litany-loreto"
+						},
+						{
+							"type": "prayer",
 							"ref": "sign-of-cross"
 						}
 					]
@@ -512,6 +516,10 @@
 						{
 							"type": "prayer",
 							"ref": "hail-holy-queen"
+						},
+						{
+							"type": "prayer",
+							"ref": "litany-loreto"
 						},
 						{
 							"type": "prayer",
@@ -630,6 +638,10 @@
 						},
 						{
 							"type": "prayer",
+							"ref": "litany-loreto"
+						},
+						{
+							"type": "prayer",
 							"ref": "sign-of-cross"
 						}
 					]
@@ -742,6 +754,10 @@
 						{
 							"type": "prayer",
 							"ref": "hail-holy-queen"
+						},
+						{
+							"type": "prayer",
+							"ref": "litany-loreto"
 						},
 						{
 							"type": "prayer",

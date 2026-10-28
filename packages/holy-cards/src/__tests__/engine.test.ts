@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
-import type { OfCalendarStatics, SanctoralEntry, TemporalEntry } from '@ember/missal-schema'
+import type { MissalCalendar } from '@ember/missal'
 import { describe, expect, it } from 'vitest'
 import { addDays, eachDay, isSunday } from '../dates'
 import { drawCard, grants, historyStart, pendingCards, redeem } from '../engine'
@@ -10,10 +10,7 @@ import type { Act, Catalog, Copy, Door, EngineInput, Grant, Occurrence } from '.
 // liturgical) aren't drawn yet, so they're stand-in ids.
 const root = fileURLToPath(new URL('../../../../', import.meta.url))
 const read = <T>(p: string): T => JSON.parse(readFileSync(`${root}${p}`, 'utf-8'))
-const statics: OfCalendarStatics = {
-  temporal: read<TemporalEntry[]>('content/of/calendar/temporal.json'),
-  sanctoral: read<SanctoralEntry[]>('content/of/calendar/sanctoral.json'),
-}
+const statics = read<MissalCalendar>('content/missal/calendar.json')
 const cardsDir = 'content/practices/saint-of-the-day/data/holy-cards'
 const saints = readdirSync(`${root}${cardsDir}`)
   .sort()
@@ -96,6 +93,20 @@ describe('Mass', () => {
     expect(g).toMatchObject({ door: 'mass', drawn: true, choice: catalog.liturgical })
   })
 
+  it("keeps a saint to the reader's date where another region moves the day", () => {
+    // Spain keeps Faustina on 8 October; everywhere else she is on the 5th.
+    expect(grants(input(mass('2026-10-05')))[0].choice).toContain('faustina')
+    expect(grants(input(mass('2026-10-08')))[0]).toMatchObject({ drawn: true })
+  })
+
+  it("follows the reader's calendar for a solemnity it moves to the Sunday", () => {
+    // Brazil keeps the Assumption on the Sunday after 15 August.
+    const brazil = { calendar: { statics, regions: ['brazil'] } }
+    const choices = (date: string) => grants(input(mass(date), brazil)).flatMap((g) => g.choice)
+    expect(choices('2026-08-16')).toContain('assumption')
+    expect(choices('2026-08-15')).not.toContain('assumption')
+  })
+
   it('gives one card however many times Mass is marked that day', () => {
     expect(grants(input([...mass('2026-10-04'), ...mass('2026-10-04')]))).toHaveLength(1)
   })
@@ -117,6 +128,25 @@ describe('The Divine Office', () => {
 
   it('gives nothing on a day with no assigned saint', () => {
     expect(grants(input([office('2026-06-10')]))).toEqual([])
+  })
+
+  it('gives the same saint for a day kept with the offering, the rosary and the examen', () => {
+    const [g] = grants(input([{ kind: 'prayedDay', date: '2026-08-11' }]))
+    expect(g.door).toBe('prayedDay')
+    expect(g.choice).toContain('philomena')
+    expect(grants(input([{ kind: 'prayedDay', date: '2026-06-10' }]))).toEqual([])
+  })
+
+  it('gives two saints for a day kept both ways, where the day has two', () => {
+    // 16 October: Gall and Gerard Majella, neither with a Mass.
+    const both = (date: string): Act[] => [office(date), { kind: 'prayedDay', date }]
+    const waiting = pending(both('2026-10-16'), '2026-10-16')
+    expect(waiting.map((g) => g.door).sort()).toEqual(['office', 'prayedDay'])
+    const first = redeem(waiting[0], '2026-10-16', [], 'gall')
+    const [second] = pending(both('2026-10-16'), '2026-10-16', [first])
+    expect(second.choice).toEqual(['gerard_majella'])
+    // 9 October has Louis Bertrand alone: kept both ways, it still gives him once.
+    expect(pending(both('2026-10-09'), '2026-10-09').map((g) => g.door)).toEqual(['office'])
   })
 
   it("gives a saint of one region's calendar at Mass, not the Office", () => {

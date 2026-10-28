@@ -1,0 +1,188 @@
+{
+ "id": "sanctorale.10-19.spain",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(en las diócesis de España)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "19 de octubre"
+       ],
+       [
+        "San Pedro de Alcántara, presbítero"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Pedro, nacido en Alcántara el año 1499, entró muy joven en la Orden franciscana y llegó a ser provincial. Organizó definitivamente la reforma de los franciscanos en España, siguiendo el mismo espíritu que santa Teresa, de la que fue acertado consejero, ayudándola a llevar a cabo la perfecta reforma del Carmelo. Austero y duro consigo mismo, extremaba su dulzura con los demás. Murió el 18 de octubre de 1562."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oración colecta"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Señor y Dios nuestro,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "que hiciste resplandecer a san Pedro de\nAlcántara"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "por su admirable penitencia y su altísima contemplación,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "concédenos,\npor sus méritos,"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "que caminando en austeridad de vida"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "alcancemos\nmás fácilmente los bienes del cielo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Por nuestro Señor Jesucristo."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "commons": [
+  "common.pastors.6",
+  "common.pastors.7"
+ ],
+ "title": {
+  "*": "San Pedro de Alcántara, presbítero"
+ }
+}

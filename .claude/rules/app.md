@@ -18,7 +18,7 @@ Design reference: `docs/design/design-system.md`. Justified text: `docs/design/t
 
 ## Accessibility
 
-- Every `Pressable` / `AnimatedPressable` needs `accessibilityRole` and an `accessibilityLabel` from the `a11y` i18n namespace. Stateful controls also need `accessibilityState` paired with the matching `aria-*` prop — react-native-web drops `accessibilityState` from the DOM.
+- Every `Pressable` / `AnimatedPressable` needs `accessibilityRole` and an `accessibilityLabel` from the `a11y` i18n namespace. Stateful controls also need `accessibilityState`.
 - Every `Stack.Screen` gets a `title`, even with `headerShown: false`; screen readers announce it.
 - Hide ornaments, flourishes and dividers from screen readers (`accessibilityElementsHidden` + `importantForAccessibility="no-hide-descendants"`).
 - Touch targets are at least 44pt (`minHeight` or `hitSlop`). Use `goldDeep`, not the gold accent, for small text on parchment.

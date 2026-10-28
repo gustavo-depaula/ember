@@ -1,0 +1,107 @@
+{
+ "pericopes": [
+  1,
+  5
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Jonas briskly, including every speech introduction and aside."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to his prophet; commanding, then patient and gently questioning."
+  },
+  "jonas": {
+   "name": "Jonas",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The reluctant prophet, son of Amathi; resigned in the storm, fervent in prayer, sullen and angry at Ninive's pardon."
+  },
+  "king-of-ninive": {
+   "name": "King of Ninive",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The Assyrian king in sackcloth, issuing his decree of fasting with grave urgency."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And the word of the Lord came to Jonah the second time saying:"
+   }
+  ],
+  "2": [
+   {
+    "s": "the-lord",
+    "t": "Arise, and go to Ninive, the great city: and preach in it the preaching that I bid thee."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And Jonah arose, and went to Ninive, according to the word of the Lord: now Ninive was a great city of three days' journey."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And Jonah began to enter into the city one day's journey: and he cried and said:"
+   },
+   {
+    "s": "jonas",
+    "t": "Yet forty days and Ninive shall be destroyed."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And the men of Ninive believed in God: and they proclaimed a fast, and put on sackcloth from the greatest to the least."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the word came to the king of Ninive: and he rose up out of his throne, and cast away his robe from him, and was clothed in sackcloth, and sat in ashes."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And he caused it to be proclaimed and published in Ninive, from the mouth of the king and of his princes, saying:"
+   },
+   {
+    "s": "king-of-ninive",
+    "t": "Let neither men nor beasts, oxen, nor sheep taste anything: let them not feed, nor drink water.",
+    "q": "a decree proclaimed by heralds in the name of the king and his princes; given to the king as its author"
+   }
+  ],
+  "8": [
+   {
+    "s": "king-of-ninive",
+    "t": "And let men and beasts be covered with sackcloth, and cry to the Lord with all their strength, and let them turn every one from his evil way, and from the iniquity that is in their hands."
+   }
+  ],
+  "9": [
+   {
+    "s": "king-of-ninive",
+    "t": "Who can tell if God will turn, and forgive: and will turn away from his fierce anger, and we shall not perish?"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And God saw their works, that they were turned from their evil way: and God had mercy with regard to the evil which he had said that he would do to them, and he did it not."
+   }
+  ]
+ }
+}

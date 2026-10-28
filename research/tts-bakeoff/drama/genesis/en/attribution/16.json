@@ -1,0 +1,206 @@
+{
+ "pericopes": [
+  1,
+  7
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Abraham; steady and grave."
+  },
+  "abraham": {
+   "name": "Abraham",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The patriarch (Abram until 17:5), near a hundred years old; reverent, hospitable, bold yet humble in pleading."
+  },
+  "sarah": {
+   "name": "Sarah",
+   "kind": "individual",
+   "gender": "female",
+   "age": "old",
+   "note": "Abraham's wife (Sarai until 17:15), aged and barren; aggrieved in ch. 16, incredulous then afraid in ch. 18."
+  },
+  "hagar": {
+   "name": "Hagar",
+   "kind": "individual",
+   "gender": "female",
+   "age": "young",
+   "note": "Sarai's Egyptian handmaid, pregnant and fleeing; frightened, then awed."
+  },
+  "angel": {
+   "name": "Angel",
+   "kind": "angel",
+   "gender": "male",
+   "age": "adult",
+   "note": "The angel of the Lord at the well; the two angels at Sodom, urgent and commanding."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Now Sarai, the wife of Abram, had brought forth no children: but having a handmaid, an Egyptian, named Agar,"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "She said to her husband:"
+   },
+   {
+    "s": "sarah",
+    "t": "Behold, the Lord hath restrained me from bearing: go in unto my handmaid, it may be I may have children of her at least."
+   },
+   {
+    "s": "narrator",
+    "t": "And when he agreed to her request,"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "She took Agar the Egyptian her handmaid, ten years after they first dwelt in the land of Chanaan, and gave her to her husband to wife."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And he went in to her. But she perceiving that she was with child, despised her mistress."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And Sarai said to Abram:"
+   },
+   {
+    "s": "sarah",
+    "t": "Thou dost unjustly with me: I gave my handmaid into thy bosom, and she perceiving herself to be with child, despiseth me. The Lord judge between me and thee."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And Abram made answer, and said to her:"
+   },
+   {
+    "s": "abraham",
+    "t": "Behold thy handmaid is in thy own hand, use her as it pleaseth thee."
+   },
+   {
+    "s": "narrator",
+    "t": "And when Sarai afflicted her, she ran away."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And the angel of the Lord having found her, by a fountain of water in the wilderness, which is in the way to Sur in the desert,"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "He said to her:"
+   },
+   {
+    "s": "angel",
+    "t": "Agar, handmaid of Sarai, whence comest thou? and whither goest thou?"
+   },
+   {
+    "s": "narrator",
+    "t": "And she answered:"
+   },
+   {
+    "s": "hagar",
+    "t": "I flee from the face of Sarai, my mistress."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And the angel of the Lord said to her:"
+   },
+   {
+    "s": "angel",
+    "t": "Return to thy mistress, and humble thyself under her hand."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And again he said:"
+   },
+   {
+    "s": "angel",
+    "t": "I will multiply thy seed exceedingly, and it shall not be numbered for multitude."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And again:"
+   },
+   {
+    "s": "angel",
+    "t": "Behold,"
+   },
+   {
+    "s": "narrator",
+    "t": "said he,"
+   },
+   {
+    "s": "angel",
+    "t": "thou art with child, and thou shalt bring forth a son: and thou shalt call his name Ismael, because the Lord hath heard thy affliction."
+   }
+  ],
+  "12": [
+   {
+    "s": "angel",
+    "t": "He shall be a wild man: his hand will be against all men, and all men's hands against him: and he shall pitch his tents over against all his brethren."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And she called the name of the Lord that spoke unto her:"
+   },
+   {
+    "s": "hagar",
+    "t": "Thou the God who hast seen me.",
+    "q": "the name she gives the Lord, read as her own address to him"
+   },
+   {
+    "s": "narrator",
+    "t": "For she said:"
+   },
+   {
+    "s": "hagar",
+    "t": "Verily, here have I seen the hinder parts of him that seeth me."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Therefore she called that well, the well of him that liveth and seeth me. The same is between Cades and Barad."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And Agar brought forth a son to Abram: who called his name Ismael."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Abram was four score and six years old when Agar brought him forth Ismael."
+   }
+  ]
+ }
+}

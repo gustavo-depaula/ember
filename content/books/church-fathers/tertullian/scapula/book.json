@@ -2,13 +2,16 @@
   "id": "tertullian-scapula",
   "cover": "quarter",
   "name": {
-    "en-US": "To Scapula"
+    "en-US": "To Scapula",
+    "pt-BR": "A Escápula"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "To Scapula"
+        "en-US": "To Scapula",
+        "pt-BR": "A Escápula"
       }
     }
   ]

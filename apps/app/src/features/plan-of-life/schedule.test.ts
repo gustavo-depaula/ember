@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import type { Schedule } from './schedule'
-import { getOccurrenceBasedProgramDay } from './schedule'
+import { getOccurrenceBasedProgramDay, isApplicableOn } from './schedule'
 
 const firstFriday: Schedule = { type: 'nth-weekday', n: [1], day: 5 }
 const firstSaturday: Schedule = { type: 'nth-weekday', n: [1], day: 6 }
@@ -67,5 +67,21 @@ describe('getOccurrenceBasedProgramDay', () => {
   it('returns undefined for unsupported schedule types', () => {
     const daily: Schedule = { type: 'daily' }
     expect(getOccurrenceBasedProgramDay(daily, '2026-01-01', date(2026, 1, 5), 9)).toBe(undefined)
+  })
+})
+
+describe('ember-days', () => {
+  it('lands on the Wednesday, Friday and Saturday of an Ember week only', () => {
+    // Advent 2026: 16, 18 and 19 December.
+    const on = (day: number) => isApplicableOn({ type: 'ember-days' }, new Date(2026, 11, day))
+    expect([15, 16, 17, 18, 19, 20, 23].map(on)).toEqual([
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+    ])
   })
 })

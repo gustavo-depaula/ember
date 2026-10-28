@@ -1,0 +1,335 @@
+{
+ "pericopes": [
+  1,
+  6,
+  13,
+  22,
+  30,
+  36
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Luke, the author of Acts: measured, warm, orderly storyteller; at times a travelling companion (\"we\")."
+  },
+  "paul": {
+   "name": "Paul",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The apostle (also called Saul): ardent, learned, forceful preacher; stern in rebuke, bold before authorities."
+  },
+  "men-from-judea": {
+   "name": "Men from Judea",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jewish Christians come down to Antioch insisting on circumcision; rigid, insistent."
+  },
+  "pharisees": {
+   "name": "Believing Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Believers of the sect of the Pharisees at Jerusalem, demanding the law of Moses for Gentile converts; strict, firm."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The chief apostle addressing the council at Jerusalem: plain, weighty, settling the dispute."
+  },
+  "james-of-jerusalem": {
+   "name": "James",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "James, leader of the church at Jerusalem: grave, judicious, giving his judgment from the prophets."
+  },
+  "the-apostles": {
+   "name": "The apostles and ancients",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "The apostles and elders of Jerusalem in their letter to the Gentile brethren: fatherly, authoritative, reassuring."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And some, coming down from Judea, taught the brethren: That,"
+   },
+   {
+    "s": "men-from-judea",
+    "t": "except you be circumcised after the manner of Moses, you cannot be saved.",
+    "q": "direct speech introduced by a recitative \"That,\" which is left with the narrator"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And when Paul and Barnabas had no small contest with them, they determined that Paul and Barnabas and certain others of the other side should go up to the apostles and priests to Jerusalem, about this question."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "They therefore, being brought on their way by the church, passed through Phenice and Samaria, relating the conversion of the Gentiles. And they caused great joy to all the brethren."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And when they were come to Jerusalem, they were received by the church and by the apostles and ancients, declaring how great things God had done with them."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "But there arose of the sect of the Pharisees some that believed, saying:"
+   },
+   {
+    "s": "pharisees",
+    "t": "They must be circumcised and be commanded to observe the law of Moses.",
+    "q": "believers of the sect of the Pharisees; given the canonical pharisees voice"
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the apostles and ancients assembled to consider of this matter."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And when there had been much disputing, Peter, rising up, said to them:"
+   },
+   {
+    "s": "peter",
+    "t": "Men, brethren, you know that in former days God made choice among us, that by my mouth the Gentiles should hear the word of the gospel and believe."
+   }
+  ],
+  "8": [
+   {
+    "s": "peter",
+    "t": "And God, who knoweth the hearts, gave testimony, giving unto them the Holy Ghost, as well as to us:"
+   }
+  ],
+  "9": [
+   {
+    "s": "peter",
+    "t": "And put no difference between us and them, purifying their hearts by faith."
+   }
+  ],
+  "10": [
+   {
+    "s": "peter",
+    "t": "Now therefore, why tempt you God to put a yoke upon the necks of the disciples which neither our fathers nor we have been able to bear?"
+   }
+  ],
+  "11": [
+   {
+    "s": "peter",
+    "t": "But by the grace of the Lord Jesus Christ, we believe to be saved, in like manner as they also."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And all the multitude held their peace: and they heard Barnabas and Paul telling what great signs and wonders God had wrought among the Gentiles by them."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And after they had held their peace, James answered, saying:"
+   },
+   {
+    "s": "james-of-jerusalem",
+    "t": "Men, brethren, hear me."
+   }
+  ],
+  "14": [
+   {
+    "s": "james-of-jerusalem",
+    "t": "Simon hath related how God first visited to take to the Gentiles, a people to his name."
+   }
+  ],
+  "15": [
+   {
+    "s": "james-of-jerusalem",
+    "t": "And to this agree the words of the prophets, as it is written:"
+   }
+  ],
+  "16": [
+   {
+    "s": "james-of-jerusalem",
+    "t": "After these things I will return and will rebuild the tabernacle of David, which is fallen down: and the ruins thereof I will rebuild. And I will set it up:"
+   }
+  ],
+  "17": [
+   {
+    "s": "james-of-jerusalem",
+    "t": "That the residue of men may seek after the Lord, and all nations upon whom my name is invoked, saith the Lord, who doth these things."
+   }
+  ],
+  "18": [
+   {
+    "s": "james-of-jerusalem",
+    "t": "To the Lord was his own work known from the beginning of the world."
+   }
+  ],
+  "19": [
+   {
+    "s": "james-of-jerusalem",
+    "t": "For which cause, judge that they who from among the Gentiles are converted to God are not to be disquieted:"
+   }
+  ],
+  "20": [
+   {
+    "s": "james-of-jerusalem",
+    "t": "But that we write unto them, that they refrain themselves from the pollutions of idols and from fornication and from things strangled and from blood."
+   }
+  ],
+  "21": [
+   {
+    "s": "james-of-jerusalem",
+    "t": "For Moses of old time hath in every city them that preach him in the synagogues, where he is read every sabbath."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Then it pleased the apostles and ancients, with the whole church, to choose men of their own company and to send to Antioch with Paul and Barnabas, namely, Judas, who was surnamed Barsabas, and Silas, chief men among the brethren."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Writing by their hands:"
+   },
+   {
+    "s": "the-apostles",
+    "t": "The apostles and ancients, brethren, to the brethren of the Gentiles that are at Antioch and in Syria and Cilicia, greeting."
+   }
+  ],
+  "24": [
+   {
+    "s": "the-apostles",
+    "t": "Forasmuch as we have heard that some going out from us have troubled you with words, subverting your souls, to whom we gave no commandment:"
+   }
+  ],
+  "25": [
+   {
+    "s": "the-apostles",
+    "t": "It hath seemed good to us, being assembled together, to choose out men and to send them unto you, with our well beloved Barnabas and Paul:"
+   }
+  ],
+  "26": [
+   {
+    "s": "the-apostles",
+    "t": "Men that have given their lives for the name of our Lord Jesus Christ."
+   }
+  ],
+  "27": [
+   {
+    "s": "the-apostles",
+    "t": "We have sent therefore Judas and Silas, who themselves also will, by word of mouth, tell you the same things."
+   }
+  ],
+  "28": [
+   {
+    "s": "the-apostles",
+    "t": "For it hath seemed good to the Holy Ghost and to us to lay no further burden upon you than these necessary things:"
+   }
+  ],
+  "29": [
+   {
+    "s": "the-apostles",
+    "t": "That you abstain from things sacrificed to idols and from blood and from things strangled and from fornication: from which things keeping yourselves, you shall do well. Fare ye well."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "They therefore, being dismissed, went down to Antioch and, gathering together the multitude, delivered the epistle."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Which when they had read, they rejoiced for the consolation."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "But Judas and Silas, being prophets also themselves, with many words comforted the brethren and confirmed them."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And after they had spent some time there, they were let go with peace by the brethren unto them that had sent them."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "But it seemed good unto Silas to remain there: and Judas alone departed to Jerusalem."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And Paul and Barnabas continued at Antioch, teaching and preaching, with many others, the word of the Lord."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And after some days, Paul said to Barnabas:"
+   },
+   {
+    "s": "paul",
+    "t": "Let us return and visit our brethren in all the cities wherein we have preached the word of the Lord, to see how they do."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And Barnabas would have taken with them John also, that was surnamed Mark."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "But Paul desired that he (as having departed from them out of Pamphylia and not gone with them to the work) might not be received."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And there arose a dissension so that they departed one from another. And Barnabas indeed, taking Mark, sailed to Cyprus."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "But Paul, choosing Silas, departed, being delivered by the brethren to the grace of God."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "And he went through Syria and Cilicia, confirming the churches, commanding them to keep the precepts of the apostles and the ancients."
+   }
+  ]
+ }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "daily-liturgy",
+  "icon": "book",
+  "name": {
+    "en-US": "Daily Liturgy",
+    "pt-BR": "Liturgia Diária"
+  },
+  "categories": [
+    "scripture",
+    "daily"
+  ],
+  "estimatedMinutes": 10,
+  "description": {
+    "en-US": "The readings of today's Mass with its entrance antiphon, collect and communion antiphon, as a daily missal sets them out.",
+    "pt-BR": "As leituras da Missa de hoje com a antífona da entrada, a coleta e a antífona da comunhão, como num missal cotidiano."
+  },
+  "history": {
+    "en-US": "The Church reads the Scriptures through the year in an ordered cycle: three years of Sunday readings and two of weekday readings, so that the faithful hear the greater part of the Bible at Mass. Daily missals have long gathered each day's readings with its proper prayers and antiphons, for those who prepare for Mass or cannot attend it.",
+    "pt-BR": "A Igreja lê as Escrituras ao longo do ano num ciclo ordenado: três anos de leituras dominicais e dois de leituras feriais, para que os fiéis ouçam na Missa a maior parte da Bíblia. Os missais cotidianos reúnem há muito as leituras de cada dia com suas orações e antífonas próprias, para quem se prepara para a Missa ou não pode participar dela."
+  },
+  "howToPray": {
+    "en-US": "Begin with the entrance antiphon and the collect, which give the day its theme. Read each reading slowly, pray the psalm as your answer to the first, and stay longest with the Gospel. On a day with more than one Mass, or an optional memorial, choose which to read at the top.",
+    "pt-BR": "Comece pela antífona da entrada e pela coleta, que dão o tom do dia. Leia cada leitura devagar, reze o salmo como resposta à primeira e detenha-se mais no Evangelho. Num dia com mais de uma Missa, ou com memória facultativa, escolha no alto qual ler."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "readings",
+    "scripture",
+    "daily",
+    "mass",
+    "lectionary",
+    "gospel",
+    "liturgy"
+  ],
+  "defaults": {
+    "sortOrder": 49,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

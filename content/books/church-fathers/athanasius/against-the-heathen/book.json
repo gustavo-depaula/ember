@@ -2,13 +2,16 @@
   "id": "athanasius-against-the-heathen",
   "cover": "quarter",
   "name": {
-    "en-US": "Against the Heathen"
+    "en-US": "Against the Heathen",
+    "pt-BR": "Contra os pagãos"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Against the Heathen"
+        "en-US": "Against the Heathen",
+        "pt-BR": "Contra os pagãos"
       }
     }
   ]

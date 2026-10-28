@@ -2,13 +2,16 @@
   "id": "hippolytus-some-exegetical-fragments",
   "cover": "quarter",
   "name": {
-    "en-US": "Some Exegetical Fragments of Hippolytus"
+    "en-US": "Some Exegetical Fragments of Hippolytus",
+    "pt-BR": "Alguns Fragmentos Exegéticos de Hipólito"
   },
   "author": {
-    "en-US": "Hippolytus"
+    "en-US": "Hippolytus",
+    "pt-BR": "Hipólito"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Some Exegetical Fragments of Hippolytus"
+        "en-US": "Some Exegetical Fragments of Hippolytus",
+        "pt-BR": "Alguns Fragmentos Exegéticos de Hipólito"
       }
     }
   ]

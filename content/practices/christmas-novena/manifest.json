@@ -21,7 +21,8 @@
     "totalDays": 9,
     "progressPolicy": "continue",
     "completionBehavior": "offer-restart",
-    "ends": "12-24"
+    "ends": "12-24",
+    "fixedDates": true
   },
   "data": {
     "christmas-novena-days": "data/days.json"

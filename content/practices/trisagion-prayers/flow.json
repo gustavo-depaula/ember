@@ -1,0 +1,111 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Stand before an icon and make the sign of the cross.",
+				"pt-BR": "De pé diante de um ícone, faça o sinal da cruz."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+				"pt-BR": "Em nome do Pai, do Filho e do Espírito Santo. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to You, our God, glory to You.",
+				"pt-BR": "Glória a Vós, nosso Deus, glória a Vós."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "O Heavenly King",
+				"pt-BR": "Ó Rei celeste"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Heavenly King, Comforter, Spirit of Truth, who are everywhere present and fill all things, Treasury of blessings and Giver of life: come and dwell within us, cleanse us of all stain, and save our souls, O Good One.",
+				"pt-BR": "Ó Rei celeste, Consolador, Espírito da Verdade, que em tudo estais presente e tudo preencheis, Tesouro dos bens e Doador da vida: vinde habitar em nós, purificai-nos de toda mancha e salvai, ó Bondoso, as nossas almas."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "From Easter to Ascension, the Heavenly King is replaced by the Paschal troparion: *Christ is risen from the dead, by death He trampled death, and to those in the tombs He granted life.* (Three times)",
+				"pt-BR": "Da Páscoa à Ascensão, o *Rei celeste* é substituído pelo tropário pascal: *Cristo ressuscitou dos mortos, pela morte calcou a morte, e aos que estavam nos sepulcros deu a vida.* (Três vezes)"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Trisagion",
+				"pt-BR": "Trisagion"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Holy God, Holy Mighty, Holy Immortal: have mercy on us.\n(Three times)",
+				"pt-BR": "Santo Deus, Santo Forte, Santo Imortal: tende piedade de nós.\n(Três vezes)"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and unto ages of ages. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Most Holy Trinity",
+				"pt-BR": "Santíssima Trindade"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Most Holy Trinity, have mercy on us. Lord, cleanse us of our sins. Master, pardon our transgressions. Holy One, visit and heal our infirmities, for the sake of Your Name.",
+				"pt-BR": "Santíssima Trindade, tende piedade de nós. Senhor, purificai-nos dos nossos pecados. Soberano, perdoai as nossas faltas. Santíssimo, visitai e curai as nossas enfermidades, por amor do Vosso Nome."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord, have mercy. (Three times)",
+				"pt-BR": "Senhor, tende piedade. (Três vezes)"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and unto ages of ages. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		}
+	]
+}

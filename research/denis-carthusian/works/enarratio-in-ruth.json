@@ -1,0 +1,70 @@
+{
+  "parts": [
+    {
+      "volume": "operaomniainunum03deni",
+      "leaves": [
+        "0241",
+        "0242",
+        "0243",
+        "0244",
+        "0245",
+        "0246",
+        "0247",
+        "0248",
+        "0249",
+        "0250",
+        "0251",
+        "0252",
+        "0253",
+        "0254",
+        "0255",
+        "0256",
+        "0257",
+        "0258",
+        "0259",
+        "0260",
+        "0261",
+        "0262",
+        "0263",
+        "0264"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/commentaries/enarratio-in-ruth",
+  "slug": "enarratio-in-ruth",
+  "draft": false,
+  "meta": {
+    "id": "denis-enarratio-in-ruth",
+    "cover": "label",
+    "name": {
+      "la": "Enarratio in librum Ruth",
+      "en-US": "Commentary on Ruth",
+      "pt-BR": "Comentário a Rute"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Enarratio in librum Ruth.",
+      "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum03deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. III (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  },
+  "toc_group": {
+    "pattern": "CAP\\.?\\s*([IVXLCUH]+)\\b",
+    "label": {
+      "la": "Caput {n}",
+      "en-US": "Chapter {n}",
+      "pt-BR": "Capítulo {n}"
+    }
+  }
+}

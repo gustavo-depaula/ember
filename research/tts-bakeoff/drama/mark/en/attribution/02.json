@@ -1,0 +1,278 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Mark; brisk, plain storytelling, including his own Scripture citations."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth, about thirty; calm authority, teaching, commanding and healing."
+  },
+  "scribes": {
+   "name": "Scribes",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Teachers of the law; suspicious and accusing."
+  },
+  "crowd": {
+   "name": "Crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The people gathered around Jesus in Capharnaum; amazed, or relaying a message to him."
+  },
+  "scribes-and-pharisees": {
+   "name": "Scribes and Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Scribes and Pharisees together at Levi's feast; scandalised, questioning the disciples."
+  },
+  "bystanders": {
+   "name": "Questioners",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Unnamed people who come to ask Jesus why his disciples do not fast; puzzled, challenging."
+  },
+  "pharisees": {
+   "name": "Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Strict observers of the law; reproachful about the sabbath."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And again he entered into Capharnaum after some days."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And it was heard that he was in the house, and many came together, so that there was no room, not even at the door: and he spoke to them the word."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And they came to him, bringing one sick of the palsy, who was carried by four."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And when they could not offer him to him for the multitude, they uncovered the roof where he was: and opening it, they let down the bed wherein the man sick of the palsy lay."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And when Jesus saw their faith, he saith to the sick of the palsy:"
+   },
+   {
+    "s": "jesus",
+    "t": "Son, thy sins are forgiven thee."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And some of the Scribes were sitting there, and thinking in their hearts:"
+   }
+  ],
+  "7": [
+   {
+    "s": "scribes",
+    "t": "Why doth this man speak thus? He blasphemeth. Who can forgive sins, but God only?",
+    "q": "Unspoken thoughts (\"thinking in their hearts\"), not said aloud; could be read by the narrator instead"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Which Jesus presently knowing in his spirit, that they so thought within themselves, saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Why think you these things in your hearts?"
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "Which is easier, to say to the sick of the palsy: Thy sins are forgiven thee; or to say: Arise, take up thy bed, and walk?"
+   }
+  ],
+  "10": [
+   {
+    "s": "jesus",
+    "t": "But that you may know that the Son of man hath power on earth to forgive sins,"
+   },
+   {
+    "s": "narrator",
+    "t": "(he saith to the sick of the palsy,)"
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "I say to thee, Arise, take up thy bed, and go into thy house."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And immediately he arose: and taking up his bed, went his way in the sight of all: so that all wondered, and glorified God, saying:"
+   },
+   {
+    "s": "crowd",
+    "t": "We never saw the like."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And he went forth again to the sea side: and all the multitude came to him, and he taught them."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And when he was passing by, he saw Levi, the son of Alpheus, sitting at the receipt of custom; and he saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Follow me."
+   },
+   {
+    "s": "narrator",
+    "t": "And rising up, he followed him."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, that as he sat at meat in his house, many publicans and sinners sat down together with Jesus and his disciples: for they were many, who also followed him."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And the Scribes and Pharisees, seeing that he did eat with publicans and sinners, said to his disciples:"
+   },
+   {
+    "s": "scribes-and-pharisees",
+    "t": "Why doth your master eat and drink with publicans and sinners?",
+    "q": "Text names \"the Scribes and Pharisees\" jointly; a combined id is used rather than either canonical one"
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Jesus hearing this, saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "They that are well have no need of a physician, but they that are sick: for I came not to call the just, but sinners."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Now the disciples of John, and the Pharisees, used to fast:, and they come and say to him:"
+   },
+   {
+    "s": "bystanders",
+    "t": "Why do the disciples of John, and of the Pharisees fast; but thy disciples do not fast?",
+    "q": "\"They\" is indefinite; the question names John's disciples and the Pharisees in the third person, so unnamed questioners are assumed (Mt 9:14 gives John's disciples)"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And Jesus saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Can the children of the marriage fast, as long as the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast."
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "But the days will come, when the bridegroom shall be taken away from them: and then they shall fast in those days."
+   }
+  ],
+  "21": [
+   {
+    "s": "jesus",
+    "t": "No man seweth a piece of raw cloth to an old garment: otherwise the new piecing taketh away from the old, and there is made a greater rent."
+   }
+  ],
+  "22": [
+   {
+    "s": "jesus",
+    "t": "And no man putteth new wine into old bottles: otherwise the wine will burst the bottles, and both the wine will be spilled, and the bottles will be lost. But new wine must be put into new bottles."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass again, as the Lord walked through the corn-fields on the sabbath, that his disciples began to go forward and to pluck the ears of corn."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And the Pharisees said to him:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Behold, why do they on the sabbath-day that which is not lawful?"
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Have you never read what David did, when he had need, and was hungry, he and they that were with him?"
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "How he went into the house of God, under Abiathar, the high priest, and did eat the loaves of proposition, which it was not lawful to eat but for the priests, and gave to them who were with him?"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "The sabbath was made for man, and not man for the sabbath."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "Therefore the Son of man is Lord also of the sabbath."
+   }
+  ]
+ }
+}

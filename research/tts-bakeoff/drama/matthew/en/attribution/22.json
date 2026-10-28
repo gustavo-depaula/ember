@@ -1,0 +1,388 @@
+{
+ "pericopes": [
+  1,
+  15,
+  23,
+  34,
+  41
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; narrating the questions put to Jesus in the temple."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; telling the parable of the marriage feast, then answering each trap with calm authority."
+  },
+  "pharisees-and-herodians": {
+   "name": "Pharisees and Herodians",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Disciples of the Pharisees with the Herodians, sent to trap him over the tribute; smooth, flattering, insincere."
+  },
+  "sadducees": {
+   "name": "The Sadducees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Sadducees, who deny the resurrection; posing their riddle with sceptical, faintly mocking confidence."
+  },
+  "scribe-who-asks": {
+   "name": "The doctor of the law who asks about the great commandment",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A Pharisee, a doctor of the law; here putting his question as a test."
+  },
+  "pharisees": {
+   "name": "The Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Pharisees gathered together; a short, confident answer."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Jesus answering, spoke again in parables to them, saying:"
+   }
+  ],
+  "2": [
+   {
+    "s": "jesus",
+    "t": "The kingdom of heaven is likened to a king who made a marriage for his son."
+   }
+  ],
+  "3": [
+   {
+    "s": "jesus",
+    "t": "And he sent his servants to call them that were invited to the marriage: and they would not come."
+   }
+  ],
+  "4": [
+   {
+    "s": "jesus",
+    "t": "Again he sent other servants, saying: Tell them that were invited, Behold, I have prepared my dinner: my beeves and fatlings are killed, and all things are ready. Come ye to the marriage."
+   }
+  ],
+  "5": [
+   {
+    "s": "jesus",
+    "t": "But they neglected and went their ways, one to his farm and another to his merchandise."
+   }
+  ],
+  "6": [
+   {
+    "s": "jesus",
+    "t": "And the rest laid hands on his servants and, having treated them contumeliously, put them to death."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "But when the king had heard of it, he was angry: and sending his armies, he destroyed those murderers and burnt their city."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "Then he saith to his servants: The marriage indeed is ready; but they that were invited were not worthy."
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "Go ye therefore into the highways; and as many as you shall find, call to the marriage."
+   }
+  ],
+  "10": [
+   {
+    "s": "jesus",
+    "t": "And his servants going forth into the ways, gathered together all that they found, both bad and good: and the marriage was filled with guests."
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "And the king went in to see the guests: and he saw there a man who had not on a wedding garment."
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "And he saith to him: Friend, how camest thou in hither not having on a wedding garment? But he was silent."
+   }
+  ],
+  "13": [
+   {
+    "s": "jesus",
+    "t": "Then the king said to the waiters: Bind his hands and feet, and cast him into the exterior darkness. There shall be weeping and gnashing of teeth."
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "For many are called, but few are chosen."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Then the Pharisees going, consulted among themselves how to insnare him in his speech."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And they sent to him their disciples with the Herodians, saying:"
+   },
+   {
+    "s": "pharisees-and-herodians",
+    "t": "Master, we know that thou art a true speaker and teachest the way of God in truth. Neither carest thou for any man: for thou dost not regard the person of men."
+   }
+  ],
+  "17": [
+   {
+    "s": "pharisees-and-herodians",
+    "t": "Tell us therefore what dost thou think? Is it lawful to give tribute to Caesar, or not?"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "But Jesus knowing their wickedness, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Why do you tempt me, ye hypocrites?"
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "Shew me the coin of the tribute."
+   },
+   {
+    "s": "narrator",
+    "t": "And they offered him a penny."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And Jesus saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Whose image and inscription is this?"
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "They say to him:"
+   },
+   {
+    "s": "pharisees-and-herodians",
+    "t": "Caesar's."
+   },
+   {
+    "s": "narrator",
+    "t": "Then he saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Render therefore to Caesar the things that are Caesar's; and to God, the things that are God's."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And hearing this, they wondered and, leaving him, went their ways."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "That day there came to him the Sadducees, who say there is no resurrection; and asked him,"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "sadducees",
+    "t": "Master, Moses said: If a man die having no son, his brother shall marry his wife and raise up issue to his brother."
+   }
+  ],
+  "25": [
+   {
+    "s": "sadducees",
+    "t": "Now there were with us seven brethren: and the first having married a wife, died; and not having issue, left his wife to his brother."
+   }
+  ],
+  "26": [
+   {
+    "s": "sadducees",
+    "t": "In like manner the second and the third and so on, to the seventh."
+   }
+  ],
+  "27": [
+   {
+    "s": "sadducees",
+    "t": "And last of all the woman died also."
+   }
+  ],
+  "28": [
+   {
+    "s": "sadducees",
+    "t": "At the resurrection therefore, whose wife of the seven shall she be? For they all had her."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And Jesus answering, said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "You err, not knowing the Scriptures nor the power of God."
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "For in the resurrection they shall neither marry nor be married, but shall be as the angels of God in heaven."
+   }
+  ],
+  "31": [
+   {
+    "s": "jesus",
+    "t": "And concerning the resurrection of the dead, have you not read that which was spoken by God, saying to you:"
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "I am the God of Abraham and the God of Isaac and the God of Jacob? He is not the God of the dead but of the living."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And the multitudes hearing it were in admiration at his doctrine."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "But the Pharisees, hearing that he had silenced the Sadducees, came together."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And one of them, a doctor of the law, asked him, tempting him:"
+   }
+  ],
+  "36": [
+   {
+    "s": "scribe-who-asks",
+    "t": "Master, which is the great commandment in the law?",
+    "q": "Matthew's doctor of the law is the scribe of Mark 12:28 (same question, same place); Mark's id kept rather than `lawyer`"
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "Jesus said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thou shalt love the Lord thy God with thy whole heart and with thy whole soul and with thy whole mind."
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "This is the greatest and the first commandment."
+   }
+  ],
+  "39": [
+   {
+    "s": "jesus",
+    "t": "And the second is like to this: Thou shalt love thy neighbour as thyself."
+   }
+  ],
+  "40": [
+   {
+    "s": "jesus",
+    "t": "On these two commandments dependeth the whole law and the prophets."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "And the Pharisees being gathered together, Jesus asked them,"
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "What think you of Christ? Whose son is he?"
+   },
+   {
+    "s": "narrator",
+    "t": "They say to him:"
+   },
+   {
+    "s": "pharisees",
+    "t": "David's."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "He saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "How then doth David in spirit call him Lord, saying:"
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "The Lord said to my Lord: Sit on my right hand, until I make thy enemies thy footstool?"
+   }
+  ],
+  "45": [
+   {
+    "s": "jesus",
+    "t": "If David then call him Lord, how is he his son?"
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "And no man was able to answer him a word: neither durst any man from that day forth ask him any more questions."
+   }
+  ]
+ }
+}

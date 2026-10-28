@@ -1,0 +1,2481 @@
+{
+ "id": "sanctorale.12-14",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 14 decembris"
+       ],
+       [
+        "S. Ioannis a Cruce, presbyteri et Ecclesiæ doctoris"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "14 de dezembro"
+       ],
+       [
+        "São João da Cruz, presbítero e doutor da Igreja"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "December 14"
+       ],
+       [
+        "St. John of the Cross, priest and Doctor of the Church"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memorial"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "14 de diciembre"
+       ],
+       [
+        "San Juan de la Cruz, presbítero y doctor de la Iglesia"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "14 dicembre"
+       ],
+       [
+        "San Giovanni della Croce, sacerdote e dottore della Chiesa"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 14 décembre"
+       ],
+       [
+        "Saint Jean de la Croix, prêtre et docteur de l'Église"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memoria"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "14. Dezember"
+       ],
+       [
+        "Hl. Johannes vom Kreuz, Ordenspriester, Kirchenlehrer"
+       ]
+      ]
+     },
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Gedenktag"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Loquimur Dei sapientiam in mysterio."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios"
+       ]
+      ],
+      "cite": "2, 1-10a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ego, cum veníssem ad vos, fratres, veni non per sublimitátem sermónis aut sapiéntiæ annúntians vobis mystérium Dei."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non enim iudicávi scire me áliquid inter vos nisi Iesum Christum et hunc crucifíxum. Et ego in infirmitáte et timóre et tremóre multo fui apud vos, et sermo meus et prædicátio mea non in persuasibílibus sapiéntiæ verbis sed in ostensióne Spíritus et virtútis, ut fides vestra non sit in sapiéntia hóminum sed in virtúte Dei."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sapiéntiam autem lóquimur inter perféctos, sapiéntiam vero non huius sǽculi neque príncipum huius sǽculi, qui destruúntur, sed lóquimur Dei sapiéntiam in mystério, quæ abscóndita est, quam prædestinávit Deus ante sǽcula in glóriam nostram, quam nemo príncipum huius sǽculi cognóvit; si enim cognovíssent, numquam Dóminum glóriæ crucifixíssent. Sed sicut scriptum est: «Quod óculus non vidit, nec auris audívit, nec in cor hóminis ascéndit, quæ præparávit Deus his, qui díligunt illum». Nobis autem revelávit Deus per Spíritum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Falamos, si, da misteriosa sabedoria de Deus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Paulo aos Coríntios"
+       ]
+      ],
+      "role": "announcement",
+      "cite": "2, 1-10a"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos, quando fui à vossa cidade anunciar-vos o mistério de Deus, não recorri a uma linguagem elevada ou ao prestígio da sabedoria humana. Pois, entre vós, não julguei saber coisa alguma, a não ser Jesus Cristo, e este, crucificado. Aliás, eu estive junto de vós, com fraqueza e receio, e muito tremor. Também a minha palavra e a minha pregação não tinham nada dos discursos persuasivos da sabedoria, mas eram uma demonstração do poder do Espírito, para que a vossa fé se baseasse no poder de Deus e não na sabedoria dos homens. Entre os perfeitos nós falamos de sabedoria, não da sabedoria deste mundo nem da sabedoria dos poderosos deste mundo, que, afinal, estão votados à destruição. Falamos, sim, da misteriosa sabedoria de Deus, sabedoria escondida, que, desde a eternidade, Deus destinou para nossa glória. Nenhum dos poderosos deste mundo conheceu essa sabedoria. Pois, se a tivessem conhecido, não teriam crucificado o Senhor da glória. Mas, como está escrito, \"o que Deus preparou para os que o amam é algo que os olhos jamais viram nem os ouvidos ouviram nem coração algum jamais pressentiu\". A nós Deus revelou esse mistério mediante o Espírito."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first letter of St. Paul to the Corinthians"
+       ]
+      ],
+      "cite": "2:1-10",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "As for me, brothers, when I came to you, it was not with any show of oratory or philosophy, but simply to tell you what God had guaranteed. During my stay with you, the only knowledge I claimed to have was about Jesus, and only about him as the crucified Christ. Far from relying on any power of my own, I came among you in great 'fear and trembling' and in my speeches and the sermons that I gave, there were none of the arguments that belong to philosophy; only a demonstration of the power of the Spirit. And I did this so that your faith should not depend on human philosophy but on the power of God. But still we have a wisdom to offer those who have reached maturity: not a philosophy of our age, it is true, still less of the masters of our age, which are coming to their end. The hidden wisdom of God which we teach in our mysteries is the wisdom that God predestined to be for our glory before the ages began. lt is a wisdom that none of the masters of this age have ever known, or they would not have crucified the Lord of Glory; we teach what scripture calls: the things that no eye has seen and no ear has heard, things beyond the mind of man, all that God has prepared for those who love him. These are the very things that God has revealed to us through the Spirit."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Enseñamos una sabiduría divina, misteriosa"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pablo a los Corintios"
+       ]
+      ],
+      "cite": "2, 1-10a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo mismo, hermanos, cuando vine a vosotros a anunciaros el misterio de Dios, no lo hice con sublime elocuencia o sabiduría, pues nunca entre vosotros me precié de saber cosa alguna, sino a Jesucristo, y este crucificado."
+       ],
+       [
+        "También yo me presenté a vosotros débil y temblando de miedo; mi palabra y mi predicación no fue con persuasiva sabiduría humana, sino en la manifestación y el poder del Espíritu, para que vuestra fe no se apoye en la sabiduría de los hombres, sino en el poder de Dios."
+       ],
+       [
+        "Sabiduría, sí, hablamos entre los perfectos; pero una sabiduría que no es de este mundo ni de los príncipes de este mundo, condenados a perecer, sino que enseñamos una sabiduría divina, misteriosa, escondida, predestinada por Dios antes de los siglos para nuestra gloria."
+       ],
+       [
+        "Ninguno de los príncipes de este mundo la ha conocido, pues, si la hubiesen conocido, nunca hubieran crucificado al Señor de la gloria."
+       ],
+       [
+        "Sino que, como está escrito: «Ni el ojo vio, ni el oído oyó, ni el hombre puede pensar lo que Dios ha preparado para los que lo aman»."
+       ],
+       [
+        "Y Dios nos lo ha revelado por el Espíritu."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parliamo della sapienza di Dio, che è nel mistero."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima Lettera di san Paolo apostolo ai Corinzi"
+       ]
+      ],
+      "cite": "2, l-10a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io, fratelli, quando venni tra voi, non mi presentai ad annunciarvi il mistero di Dio con l'eccellenza della parola o della sapienza. Io ritenni infatti di non sapere altro in mezzo a voi se non Gesù Cristo, e Cristo crocifisso."
+       ],
+       [
+        "Mi presentai a voi nella debolezza e con molto timore e trepidazione. La mia parola e la mia predicazione non si basarono su discorsi persuasivi di sapienza, ma sulla manifestazione dello Spirito e della sua potenza, perché la vostra fede non fosse fondata sulla sapienza umana, ma sulla potenza di Dio."
+       ],
+       [
+        "Tra coloro che sono perfetti parliamo, sì, di sapienza, ma di una sapienza che non è di questo mondo, né dei dominatori di questo mondo, che vengono ridotti al nulla. Parliamo invece della sapienza di Dio, che è nel mistero, che è rimasta nascosta e che Dio ha stabilito prima dei secoli per la nostra gloria."
+       ],
+       [
+        "Nessuno dei dominatori di questo mondo l'ha conosciuta; se l'avessero conosciuta, non avrebbero crocifisso il Signore della gloria. Ma, come sta scritto:"
+       ],
+       [
+        "«Quelle cose che occhio non vide, né orecchio udì, né mai entrarono in cuore di uomo, Dio le ha preparate per coloro che lo amano». Ma a noi Dio le ha rivelate per mezzo dello Spirito."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Paul Apôtre aux Corinthiens"
+       ]
+      ],
+      "cite": "2, 1-10a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, quand je suis venu chez vous, je ne suis pas venu vous annoncer le mystère de Dieu avec le prestige du langage ou de la sagesse. Parmi vous, je n'ai rien voulu connaître d'autre que Jésus Christ, ce Messie crucifié. Et c'est dans la faiblesse, craintif et tout tremblant, que je me suis présenté à vous. Mon langage, ma proclamation de l'Évangile, n'avaient rien d'un langage de sagesse qui veut convaincre ; mais c'est l'Esprit et sa puissance qui se manifestaient, pour que votre foi repose, non pas sur la sagesse des hommes, mais sur la puissance de Dieu. Pourtant, c'est bien de sagesse que nous parlons devant ceux qui sont adultes dans la foi, mais ce n'est pas la sagesse de ce monde, la sagesse de ceux qui dirigent ce monde et qui vont à leur destruction. Au contraire, ce dont nous parlons, c'est de la sagesse du mystère de Dieu, sagesse tenue cachée, établie par lui dès avant les siècles, pour nous donner la gloire. Aucun de ceux qui dirigent ce monde ne l'a connue, car, s'ils l'avaient connue, ils n'auraient jamais crucifié le Seigneur de gloire. Mais ce que nous proclamons, c'est, comme dit l'Écriture : ce que l'œil n'a pas vu, ce que l'oreille n'a pas entendu, ce qui n'est pas venu à l'esprit de l'homme, ce que Dieu a préparé pour ceux dont il est aimé. Et c'est à nous que Dieu, par l'Esprit, en a fait la révélation."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+       ]
+      ],
+      "cite": "2, 1-10a",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Als ich zu euch kam, Brüder, kam ich nicht, um glänzende Reden oder gelehrte Weisheit vorzutragen, sondern um euch das Zeugnis Gottes zu verkündigen."
+       ],
+       [
+        "Denn ich hatte mich entschlossen, bei euch nichts zu wissen außer Jesus Christus, und zwar als den Gekreuzigten. Zudem kam ich in Schwäche und in Furcht, zitternd und bebend zu euch. Meine Botschaft und Verkündigung war nicht Überredung durch gewandte und kluge Worte, sondern war mit dem Erweis von Geist und Kraft verbunden, damit sich euer Glaube nicht auf Menschenweisheit stützte, sondern auf die Kraft Gottes."
+       ],
+       [
+        "Und doch verkündigen wir Weisheit unter den Vollkommenen, aber nicht Weisheit dieser Welt oder der Machthaber dieser Welt, die einst entmachtet werden. Vielmehr verkündigen wir das Geheimnis der verborgenen Weisheit Gottes, die Gott vor allen Zeiten vorausbestimmt hat zu unserer Verherrlichung. Keiner der Machthaber dieser Welt hat sie erkannt; denn hätten sie die Weisheit Gottes erkannt, so hätten sie den Herrn der Herrlichkeit nicht gekreuzigt. Nein, wir verkündigen, wie es in der Schrift heißt, was kein Auge gesehen und kein Ohr gehört hat, was keinem Menschen in den Sinn gekommen ist: das Große, das Gott denen bereitet hat, die ihn lieben. Denn uns hat es Gott enthüllt durch den Geist."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.doctors.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.doctors.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 36(37), 3-4. 5-6. 30-31 (R.: 30a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 36, 3-4. 5-6. 30-31 (R.: 30a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dal Salmo 36 (37)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 36, 3-4. 5-6. 30-31 (R.: 30a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 37 (36), 3-4. 5-6. 30-31 (R.: vgl. 30a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os iusti meditábitur sapiéntiam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O justo tem nos lábios o que é sábio."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The mouth of the righteous utters wisdom."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La boca del justo expone la sabiduría."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La bocca del giusto medita la sapienza."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La bocca del giusto medita la sapienza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le lèvres du juste redisent la sagesse."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mund des Gerechten spricht Worte der Weisheit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Spera in Dómino et fac bonitátem,"
+       ],
+       [
+        "et inhabitábis terram et pascéris in fide."
+       ],
+       [
+        "Delectáre in Dómino,"
+       ],
+       [
+        "et dabit tibi petitiónes cordis tui."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confia no Senhor e faze o bem, e sobre a terra habitarás em segurança. Coloca no Senhor tua alegria, e ele dará o que pedir teu coração."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Trust in the Lord and do good"
+       ],
+       [
+        "that you may dwell in the land and live secure."
+       ],
+       [
+        "Find your delight in the Lord"
+       ],
+       [
+        "who will give you your heart's desire."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confía en el Señor y haz el bien:"
+       ],
+       [
+        "habitarás tu tierra y reposarás en ella en fidelidad;"
+       ],
+       [
+        "sea el Señor tu delicia,"
+       ],
+       [
+        "y él te dará lo que pide tu corazón."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confida nel Signore e fa' il bene:"
+       ],
+       [
+        "abiterai la terra e vi pascolerai con sicurezza."
+       ],
+       [
+        "Cerca la gioia nel Signore:"
+       ],
+       [
+        "esaudirà i desideri del tuo cuore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fais confiance au Seigneur, agis bien,"
+       ],
+       [
+        "habite la terre et reste fidèle ;"
+       ],
+       [
+        "mets ta joie dans le Seigneur :"
+       ],
+       [
+        "il comblera les désirs de ton cœur."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vertrau auf den Herrn und tu das Gute,"
+       ],
+       [
+        "bleib wohnen im Land und bewahre Treue!"
+       ],
+       [
+        "Freu dich innig am Herrn!"
+       ],
+       [
+        "Dann gibt er dir, was dein Herz begehrt."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os iusti meditábitur sapiéntiam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O justo tem nos lábios o que é sábio."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The mouth of the righteous utters wisdom."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La boca del justo expone la sabiduría."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La bocca del giusto medita la sapienza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le lèvres du juste redisent la sagesse."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mund des Gerechten spricht Worte der Weisheit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Commítte Dómino viam tuam et spera in eo,"
+       ],
+       [
+        "et ipse fáciet;"
+       ],
+       [
+        "et edúcet quasi lumen iustítiam tuam,"
+       ],
+       [
+        "et iudícium tuum tamquam merídiem."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deixa aos cuidados do Senhor o teu destino; confia nele, e com certeza ele agirá. Fará brilhar tua inocência como a luz, e o teu direito, como o sol do meio-dia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Commit your way to the Lord;"
+       ],
+       [
+        "trust in him and he will acte"
+       ],
+       [
+        "and make your righteousness shine like the dawn,"
+       ],
+       [
+        "your justice like noonday."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Encomienda tu camino al Señor,"
+       ],
+       [
+        "confía en él, y él actuará:"
+       ],
+       [
+        "hará tu justicia como el amanecer,"
+       ],
+       [
+        "tu derecho como el mediodía."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Affida al Signore la tua via,"
+       ],
+       [
+        "confida in lui ed egli agirà:"
+       ],
+       [
+        "farà brillare come luce la tua giustizia,"
+       ],
+       [
+        "il tuo diritto come il mezzogiorno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dirige ton chemin vers le Seigneur,"
+       ],
+       [
+        "fais-lui confiance, et lui, il agira."
+       ],
+       [
+        "Il fera lever comme le jour ta justice,"
+       ],
+       [
+        "et ton droit comme le plein midi."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Befiehl dem Herrn deinen Weg und vertrau ihm;"
+       ],
+       [
+        "er wird es fügen."
+       ],
+       [
+        "Er bringt deine Gerechtigkeit heraus wie das Licht"
+       ],
+       [
+        "und dein Recht so hell wie den Mittag."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os iusti meditábitur sapiéntiam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O justo tem nos lábios o que é sábio."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The mouth of the righteous utters wisdom."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La boca del justo expone la sabiduría."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La bocca del giusto medita la sapienza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le lèvres du juste redisent la sagesse."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mund des Gerechten spricht Worte der Weisheit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Os iusti meditábitur sapiéntiam,"
+       ],
+       [
+        "et lingua eius loquétur iudícium;"
+       ],
+       [
+        "lex Dei eius in corde ipsíus,"
+       ],
+       [
+        "et non vacillábunt gressus eius."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O justo tem nos lábios o que é sábio, sua língua tem palavras de justiça; traz a Aliança do seu Deus no coração, e seus passos não vacilam no caminho."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        ";"
+       ],
+       [
+        "his tongue speaks what is right."
+       ],
+       [
+        "God's teaching is in his heart;"
+       ],
+       [
+        "his steps do not falter."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La boca del justo expone la sabiduría,"
+       ],
+       [
+        "su lengua explica el derecho;"
+       ],
+       [
+        "porque lleva en el corazón la ley de su Dios,"
+       ],
+       [
+        "y sus pasos no vacilan."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La bocca del giusto medita la sapienza"
+       ],
+       [
+        "e la sua lingua esprime il diritto;"
+       ],
+       [
+        "la legge del suo Dio è nel suo cuore:"
+       ],
+       [
+        "i suoi passi non vacilleranno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Les lèvres du juste redisent la sagesse"
+       ],
+       [
+        "et sa bouche énonce le droit."
+       ],
+       [
+        "La loi de son Dieu est dans son cœur ;"
+       ],
+       [
+        "il va, sans craindre les faux pas."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Mund des Gerechten bewegt Worte der Weisheit,"
+       ],
+       [
+        "und seine Zunge redet, was recht ist."
+       ],
+       [
+        "Er hat die Weisung seines Gottes im Herzen,"
+       ],
+       [
+        "seine Schritte wanken nicht."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Os iusti meditábitur sapiéntiam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O justo tem nos lábios o que é sábio."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The mouth of the righteous utters wisdom."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La boca del justo expone la sabiduría."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "La bocca del giusto medita la sapienza."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le lèvres du juste redisent la sagesse."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mund des Gerechten spricht Worte der Weisheit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.doctors.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beáti páuperes spíritu,"
+       ],
+       [
+        "quóniam ipsórum est regnum cælórum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Felizes os humildes de espírito, porque deles é o Reino dos Céus!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Mt 5:3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Happy the poor in spirit; the kingdom of heaven is theirs!"
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bienaventurados los pobres en el espíritu,"
+       ],
+       [
+        "porque de ellos es el reino de los cielos."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Beati i poveri in spirito, perché di essi è il regno dei cieli."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beáti páuperes spíritu,"
+       ],
+       [
+        "quóniam ipsórum est regnum cælórum."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Mt 5, 3",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig, die arm sind vor Gott; denn ihnen gehört das Himmelreich."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "from": "common.holy-men-and-women.acclamation.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui non renuntiat omnibus quæ possidet, non potest meus esse discipulus."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Lucam"
+       ]
+      ],
+      "cite": "14, 25-33",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+       ]
+      ],
+      "cite": "14, 25-33",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Luke"
+       ]
+      ],
+      "cite": "14:25-33",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aquel que no renuncia a todos sus bienes no puede ser discípulo mío"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Lucas"
+       ]
+      ],
+      "cite": "14, 25-33",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi non rinuncia a tutti i suoi averi, non può essere mio discepolo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Luca"
+       ]
+      ],
+      "cite": "14, 25-33",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Luc"
+       ]
+      ],
+      "cite": "14, 25-33",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Lukas"
+       ]
+      ],
+      "cite": "14, 25-33",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.23"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.23"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ibant turbæ multæ cum Iesu, et convérsus dixit ad illos: «Si quis venit ad me et non odit patrem suum et matrem et uxórem et fílios et fratres et soróres, adhuc et ánimam suam, non potest esse meus discípulus. Et, qui non báiulat crucem suam et venit post me, non potest esse meus discípulus."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quis enim ex vobis volens turrem ædificáre, non prius sedens cómputat sumptus, si habet ad perficiéndum? Ne, posteáquam posúerit fundaméntum et non potúerit perfícere, omnes, qui vident, incípiant illúdere ei dicéntes: “Hic homo cœpit ædificáre et non pótuit consummáre”."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aut quis rex, itúrus commíttere bellum advérsus álium regem, non sedens prius cógitat, si possit cum decem mílibus occúrrere ei, qui cum vigínti mílibus venit ad se? Alióquin, adhuc illo longe agénte, legatiónem mittens rogat ea, quæ pacis sunt."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sic ergo omnis ex vobis, qui non renúntiat ómnibus, quæ póssidet, non potest meus esse discípulus»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, grandes multidões acompanhavam Jesus. Voltando-se, ele lhes disse: \"Se alguém vem a mim, mas não se desapega de seu pai e sua mãe, sua mulher e seus filhos, seus irmãos e suas irmãs e até da sua própria vida, não pode ser meu discípulo. Quem não carrega sua cruz e não caminha atrás de mim, não pode ser meu discípulo. Com efeito: qual de vós, querendo construir uma torre, não se senta primeiro e calcula os gastos, para ver se tem o suficiente para terminar? Caso contrário, ele vai lançar o alicerce e não será capaz de acabar. E todos os que virem isso começarão a caçoar, dizendo: 'Este homem começou a construir e não foi capaz de acabar!' Ou ainda: Qual o rei que ao sair para guerrear com outro, não se senta primeiro e examina bem se com dez mil homens poderá enfrentar o outro que marcha contra ele com vinte mil? Se ele vê que não pode, enquanto o outro rei ainda está longe, envia mensageiros para negociar as condições de paz. Do mesmo modo, portanto, qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!\""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Great crowds accompanied Jesus on his way and he turned and spoke to them. If any man comes to me without hating his father, mother, wife, children, brothers, sisters, yes and his own life too, he cannot be my disciple. Anyone who does not carry his cross and come after me cannot be my disciple. 'And indeed, which of you here, intending to build a tower, would not first sit down and work out the cost to see if he had enough to complete it? Otherwise, if he laid the foundation and then found himself unable to finish the work, the onlookers would all start making fun of him and saying, \"' Here is a man who started to build and was unable to finish\". Or again, what king marching to war against another king would not first sit down and consider whether with ten thousand men he could stand up to the other who advanced against him with twenty thousand? If not, then while the other king was still a long way off, he would send envoys to sue for peace. So in the same way, none of you can be my disciple unless he gives up all his possessions."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, mucha gente acompañaba a Jesús; él se volvió y les dijo:"
+       ],
+       [
+        "«Si alguno viene a mí y no pospone a su padre y a su madre, a su mujer y a sus hijos, a sus hermanos y a sus hermanas, e incluso a sí mismo, no puede ser discípulo mío."
+       ],
+       [
+        "Quien no carga con su cruz y viene en pos de mí, no puede ser discípulo mío."
+       ],
+       [
+        "Así, ¿quién de vosotros, si quiere construir una torre, no se sienta primero a calcular los gastos, a ver si tiene para terminarla? No sea que, si echa los cimientos y no puede acabarla, se pongan a burlarse de él los que miran, diciendo:"
+       ],
+       [
+        "“Este hombre empezó a construir y no pudo acabar”."
+       ],
+       [
+        "¿O qué rey, si va a dar la batalla a otro rey, no se sienta primero a deliberar si con diez mil hombres podrá salir al paso del que lo ataca con veinte mil?"
+       ],
+       [
+        "Y si no, cuando el otro está todavía lejos, envía legados para pedir condiciones de paz."
+       ],
+       [
+        "Así pues, todo aquel de entre vosotros que no renuncia a todos sus bienes no puede ser discípulo mío»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, una folla numerosa andava con Gesù. Egli si voltò e disse loro:"
+       ],
+       [
+        "«Se uno viene a me e non mi ama più di quanto ami suo padre, la madre, la moglie, i figli, i fratelli, le sorelle e perfino la propria vita, non può essere mio discepolo."
+       ],
+       [
+        "Colui che non porta la propria croce e non viene dietro a me, non può essere mio discepolo."
+       ],
+       [
+        "Chi di voi, volendo costruire una torre, non siede prima a calcolare la spesa e a vedere se ha i mezzi per portarla a termine? Per evitare che, se getta le fondamenta e non è in grado di finire il lavoro, tutti coloro che vedono comincino a deriderlo, dicendo: \"Costui ha iniziato a costruire, ma non è stato capace di finire il lavoro\"."
+       ],
+       [
+        "Oppure quale re, partendo in guerra contro un altro re, non siede prima a esaminare se può affrontare con diecimila uomini chi gli viene incontro con ventimila? Se no, mentre l'altro è ancora lontano, gli manda dei messaggeri per chiedere pace."
+       ],
+       [
+        "Così chiunque di voi non rinuncia a tutti i suoi averi, non può essere mio discepolo»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, de grandes foules faisaient route avec Jésus ; il se retourna et leur dit : \" Si quelqu'un vient à moi sans me préférer à son père, sa mère, sa femme, ses enfants, ses frères et sœurs, et même à sa propre vie, il ne peut pas être mon disciple. Celui qui ne porte pas sa croix pour marcher à ma suite ne peut pas être mon disciple."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quel est celui d'entre vous qui, voulant bâtir une tour, ne commence par s'asseoir pour calculer la dépense et voir s'il a de quoi aller jusqu'au bout ? Car, si jamais il pose les fondations et n'est pas capable d'achever, tous ceux qui le verront vont se moquer de lui : \"Voilà un homme qui a commencé à bâtir et n'a pas été capable d'achever !\" Et quel est le roi qui, partant en guerre contre un autre roi, ne commence par s'asseoir pour voir s'il peut, avec dix mille hommes, affronter l'autre qui marche contre lui avec vingt mille ? S'il ne le peut pas, il envoie, pendant que l'autre est encore loin, une délégation pour demander les conditions de paix."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ainsi donc, celui d'entre vous qui ne renonce pas à tout ce qui lui appartient ne peut pas être mon disciple. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit,"
+       ],
+       [
+        "als viele Menschen Jesus begleiteten, wandte er sich an sie und sagte: Wenn jemand zu mir kommt und nicht Vater und Mutter, Frau und Kinder, Brüder und Schwestern, ja sogar sein Leben gering achtet, dann kann er nicht mein Jünger sein. Wer nicht sein Kreuz trägt und mir nachfolgt, der kann nicht mein Jünger sein."
+       ],
+       [
+        "Wenn einer von euch einen Turm bauen will, setzt er sich dann nicht zuerst hin und rechnet, ob seine Mittel für das ganze Vorhaben ausreichen? Sonst könnte es geschehen, dass er das Fundament gelegt hat, dann aber den Bau nicht fertigstellen kann. Und alle, die es sehen, würden ihn verspotten und sagen: Der da hat einen Bau begonnen und konnte ihn nicht zu Ende führen."
+       ],
+       [
+        "Oder wenn ein König gegen einen anderen in den Krieg zieht, setzt er sich dann nicht zuerst hin und überlegt, ob er sich mit seinen zehntausend Mann dem entgegenstellen kann, der mit zwanzigtausend gegen ihn anrückt? Kann er es nicht, dann schickt er eine Gesandtschaft, solange der andere noch weit weg ist, und bittet um Frieden."
+       ],
+       [
+        "Darum kann keiner von euch mein Jünger sein, wenn er nicht auf seinen ganzen Besitz verzichtet."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.23"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.holy-men-and-women.gospel.23"
+  }
+ ],
+ "title": {
+  "la": "S. Ioannis a Cruce, presbyteri et Ecclesiæ doctoris",
+  "pt-BR": "São João da Cruz, presbítero e doutor da Igreja",
+  "en-US": "Saint John of the Cross, priest and Doctor of the Church",
+  "es": "San Juan de la Cruz, presbítero y doctor de la Iglesia",
+  "it": "San Giovanni della Croce, sacerdote e dottore della Chiesa",
+  "fr": "Saint Jean de la Croix, prêtre et docteur de l'Église",
+  "de": "Hl. Johannes vom Kreuz, Ordenspriester, Kirchenlehrer"
+ }
+}

@@ -1,0 +1,139 @@
+{
+ "cast": {
+  "job": {
+   "name": "Job",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Upright man of Hus, father of ten grown children, stricken and lamenting."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "job",
+    "t": "The life of man upon earth is a warfare, and his days are like the days of a hireling."
+   }
+  ],
+  "2": [
+   {
+    "s": "job",
+    "t": "As a servant longeth for the shade, as the hireling looketh for the end of his work;"
+   }
+  ],
+  "3": [
+   {
+    "s": "job",
+    "t": "So I also have had empty months, and have numbered to myself wearisome nights."
+   }
+  ],
+  "4": [
+   {
+    "s": "job",
+    "t": "If I lie down to sleep, I shall say: When shall I rise? and again, I shall look for the evening, and shall be filled with sorrows even till darkness."
+   }
+  ],
+  "5": [
+   {
+    "s": "job",
+    "t": "My flesh is clothed with rottenness and the filth of dust; my skin is withered and drawn together."
+   }
+  ],
+  "6": [
+   {
+    "s": "job",
+    "t": "My days have passed more swiftly than the web is cut by the weaver, and are consumed without any hope."
+   }
+  ],
+  "7": [
+   {
+    "s": "job",
+    "t": "Remember that my life is but wind, and my eye shall not return to see good things."
+   }
+  ],
+  "8": [
+   {
+    "s": "job",
+    "t": "Nor shall the sight of man behold me: thy eyes are upon me, and I shall be no more."
+   }
+  ],
+  "9": [
+   {
+    "s": "job",
+    "t": "As a cloud is consumed, and passeth away: so he that shall go down to hell shall not come up."
+   }
+  ],
+  "10": [
+   {
+    "s": "job",
+    "t": "Nor shall he return any more into his house, neither shall his place know him any more"
+   }
+  ],
+  "11": [
+   {
+    "s": "job",
+    "t": "Wherefore, I will not spare my mouth, I will speak in the affliction of my spirit: I will talk with the bitterness of my soul."
+   }
+  ],
+  "12": [
+   {
+    "s": "job",
+    "t": "Am I a sea, or a whale, that thou hast enclosed me in a prison?"
+   }
+  ],
+  "13": [
+   {
+    "s": "job",
+    "t": "If I say: My bed shall comfort me, and I shall be relieved, speaking with myself on my couch:"
+   }
+  ],
+  "14": [
+   {
+    "s": "job",
+    "t": "Thou wilt frighten me with dreams, and terrify me with visions."
+   }
+  ],
+  "15": [
+   {
+    "s": "job",
+    "t": "So that my soul rather chooseth hanging, and my bones death."
+   }
+  ],
+  "16": [
+   {
+    "s": "job",
+    "t": "I have done with hope, I shall now live no longer: spare me, for my days are nothing."
+   }
+  ],
+  "17": [
+   {
+    "s": "job",
+    "t": "What is a man, that thou shouldst magnify him or why dost thou set thy heart upon him?"
+   }
+  ],
+  "18": [
+   {
+    "s": "job",
+    "t": "Thou visitest him early in the morning, and thou provest him suddenly."
+   }
+  ],
+  "19": [
+   {
+    "s": "job",
+    "t": "How long wilt thou not spare me, nor suffer me to swallow down my spittle?"
+   }
+  ],
+  "20": [
+   {
+    "s": "job",
+    "t": "I have sinned: what shall I do to thee, O keeper of men? why hast thou set me opposite to thee. and am I become burdensome to myself?"
+   }
+  ],
+  "21": [
+   {
+    "s": "job",
+    "t": "Why dost thou not remove my sin, and why dost thou not take away my iniquity? Behold now I shall sleep in the dust: and if thou seek me in the morning, I shall not be."
+   }
+  ]
+ }
+}

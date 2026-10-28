@@ -20,24 +20,29 @@ export function owedAt(block: TimeBlock, time: string | null | undefined): numbe
 }
 
 /**
- * The day's plan as a stop light. A practice is late an hour past when it is
- * owed (owedAt). The day is on track until something has waited
- * that hour (delayed), and at risk once something has waited three.
+ * The day's plan as a stop light, moved by the essential practices alone: an
+ * ideal or extra one left unprayed never counts against the day. An essential
+ * practice is late an hour past when it is owed (owedAt). The day is on track
+ * until one has waited that hour (delayed), and at risk once one has waited
+ * three.
  */
 export function planStanding(
-  blocks: { block: TimeBlock; slots: { id: string; name: string; owed?: number }[] }[],
+  blocks: {
+    block: TimeBlock
+    slots: { id: string; name: string; essential: boolean; owed?: number }[]
+  }[],
   doneIds: Set<string>,
   now: number,
 ): { entries: PlanEntry[]; done: number; standing: DayStanding } {
   let worst = -Infinity
   let done = 0
   const entries = blocks.flatMap(({ block, slots }) =>
-    slots.map(({ id, name, owed }): PlanEntry => {
+    slots.map(({ id, name, essential, owed }): PlanEntry => {
       if (doneIds.has(id)) {
         done++
         return { id, name, block, status: 'done' }
       }
-      const overdue = now - (owed ?? Infinity)
+      const overdue = essential ? now - (owed ?? Infinity) : -Infinity
       worst = Math.max(worst, overdue)
       return { id, name, block, status: overdue >= delayedAfter ? 'late' : 'pending' }
     }),

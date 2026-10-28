@@ -16,8 +16,15 @@ const plan = [
 ]
 const blocks = plan.map(({ block, slots }) => ({
   block,
-  slots: slots.map(([id, time]) => ({ id, name: id, owed: owedAt(block, time) })),
+  slots: slots.map(([id, time]) => ({
+    id,
+    name: id,
+    essential: true,
+    owed: owedAt(block, time),
+  })),
 }))
+const withTier = (essential: boolean) =>
+  blocks.map((b) => ({ ...b, slots: b.slots.map((s) => ({ ...s, essential })) }))
 const ids = (entries: { id: string }[]) => entries.map((e) => e.id)
 const at = dayMinutes
 const morningDone = new Set(['offering', 'lauds'])
@@ -57,6 +64,12 @@ describe('planStanding', () => {
     expect(planStanding(blocks, done, at('23:00')).standing).toBe('ontrack')
     expect(planStanding(blocks, done, at('01:30')).standing).toBe('delayed')
     expect(planStanding(blocks, new Set([...done, 'compline']), at('01:30')).standing).toBe('done')
+  })
+
+  it('is moved only by essential practices', () => {
+    const day = planStanding(withTier(false), new Set(), at('21:00'))
+    expect(day.standing).toBe('ontrack')
+    expect(day.entries.every((e) => e.status === 'pending')).toBe(true)
   })
 })
 

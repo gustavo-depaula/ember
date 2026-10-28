@@ -1,0 +1,509 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ember — your account on every device</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+@font-face { font-family: Junicode; font-style: normal; src: url('__JUNICODE__'); }
+@font-face { font-family: Junicode; font-style: italic; src: url('__JUNICODE_ITALIC__'); }
+
+/* apps/app/src/config/themes.ts */
+.light {
+  --bg: #FFFFFF; --surface: #F5F5F5; --ink: #2C2418; --muted: #6B5D4F; --accent: #C9A84C; --accentSubtle: #D4C088;
+  --line: #E5DDD2; --burgundy: #6B1D2A; --green: #2D6A4F; --destructive: #B4322A; --blue: #3D5A80;
+  --lift: 0 2px 8px rgba(0,0,0,.06); --flourish: url('__FLOURISH_LIGHT__'); --flourishRatio: 2172 / 386;
+  --dawn: #D4883A; --noon: #4A6FA0; --dusk: #B83A3A;
+}
+.dark {
+  --bg: #0E0D0C; --surface: #252220; --ink: #EDE4D8; --muted: #A89A8C; --accent: #D4A63A; --accentSubtle: #6E5C32;
+  --line: #5C5248; --burgundy: #D45A4C; --green: #52A878; --destructive: #D4584E; --blue: #7A9EC8;
+  --lift: 0 2px 8px rgba(0,0,0,.5); --flourish: url('__FLOURISH_DARK__'); --flourishRatio: 2172 / 457;
+  --dawn: #B87830; --noon: #3B5E8A; --dusk: #9A2E2E;
+}
+:root { --head: Cinzel, 'Trajan Pro', serif; --title: Junicode, 'EB Garamond', serif; --body: 'EB Garamond', Georgia, serif; }
+
+* { box-sizing: border-box; }
+body { margin: 0; padding: 34px 32px 80px; background: #E4DCCB; color: #2C2418; font: 18px/25px var(--body); }
+h1 { font: 400 20px var(--head); letter-spacing: 3px; margin: 0 0 6px; color: #4A3C22; text-transform: uppercase; }
+.lede { max-width: 860px; margin: 0 0 12px; color: #5D5039; }
+.group { margin-top: 56px; }
+.group h2 { font: 400 15px var(--head); letter-spacing: 2.5px; margin: 0 0 4px; color: #4A3C22; text-transform: uppercase; }
+.group > p { max-width: 860px; margin: 0 0 18px; color: #5D5039; }
+.strip { display: flex; flex-wrap: wrap; gap: 40px 34px; align-items: flex-start; padding: 8px 8px 30px; }
+.frame { flex: 0 0 390px; width: 390px; }
+.cap { font: 400 11px/15px var(--head); letter-spacing: 2px; color: #7C6E55; text-transform: uppercase; margin: 0 0 14px 4px; min-height: 30px;
+  display: flex; align-items: flex-end; }
+.cap b { font-weight: 400; color: #4A3C22; margin-right: 8px; }
+.note { font-size: 15px; line-height: 20px; font-style: italic; color: #6E6149; margin: 16px 6px 0; }
+
+/* ── the phone ─────────────────────────────────────────────────────────── */
+.phone { width: 390px; min-height: 760px; background: var(--bg); color: var(--ink); border-radius: 38px; overflow: hidden; position: relative;
+  box-shadow: 0 0 0 8px #15120E, 0 22px 44px rgba(0,0,0,.3); display: flex; flex-direction: column; font: 16px/23px var(--body); }
+.phone.short { min-height: 0; }
+.statusbar { height: 47px; flex: none; padding: 16px 30px 0; font: 600 15px/20px -apple-system, system-ui, sans-serif; position: relative; z-index: 2; }
+/* ScreenLayout: paddingHorizontal $lg; a screen's own YStack gap $lg, paddingVertical $lg */
+.screen { flex: 1; padding: 24px 24px 40px; display: flex; flex-direction: column; gap: 24px; }
+.screen.centered { justify-content: center; align-items: center; text-align: center; padding-bottom: 110px; }
+.grow { flex: 1; }
+
+/* Typography variants */
+.screen-title { font: italic 400 48px/56px var(--title); margin: -16px 0 -8px; }
+.label { font: 400 18px/24px var(--head); letter-spacing: 1.5px; text-transform: uppercase; }
+.section { font: 400 18px/24px var(--head); }
+.sacred { font: 400 30px/37px var(--title); }
+.b3 { font-size: 19px; line-height: 27px; }
+.b2 { font-size: 16px; line-height: 23px; }
+.b1 { font-size: 14px; line-height: 20px; }
+.muted { color: var(--muted); }
+.italic { font-style: italic; }
+.accent { color: var(--accent); }
+.center { text-align: center; }
+.stack { display: flex; flex-direction: column; }
+.g4 { gap: 4px; } .g8 { gap: 8px; } .g12 { gap: 12px; } .g16 { gap: 16px; } .g24 { gap: 24px; }
+.rowx { display: flex; align-items: center; }
+.between { justify-content: space-between; }
+svg.ic { flex: none; fill: none; stroke: currentColor; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
+.nums { font-variant-numeric: lining-nums tabular-nums; }
+
+/* SectionDivider */
+.divider { display: flex; align-items: center; gap: 16px; padding: 24px 0; margin: -24px 0; font: 400 18px var(--head); color: var(--accent); }
+.divider::before, .divider::after { content: ''; flex: 1; border-bottom: 1px solid var(--line); }
+
+/* The settings surface: backgroundSurface, radius $lg, padding $md. No border. */
+.surface { background: var(--surface); border-radius: 12px; padding: 16px; }
+.surface.lift { box-shadow: var(--lift); }
+.surface.rows { padding: 0 16px; }
+.surface.rows > .r { padding: 14px 0; border-top: 1px solid color-mix(in srgb, var(--line) 55%, transparent); }
+.surface.rows > .r:first-child { border-top: 0; }
+.r { display: flex; align-items: center; gap: 12px; }
+.r .tx { flex: 1; min-width: 0; }
+.r .chev { color: var(--muted); opacity: .7; }
+.textbtn { font: 400 15px/20px var(--head); color: var(--accent); letter-spacing: .5px; }
+.surface.button { text-align: center; color: var(--accent); }
+
+/* PrayBar — the app's one filled button */
+.pill { height: 50px; border-radius: 25px; background: var(--accent); color: var(--bg); display: flex; align-items: center; justify-content: center;
+  font: 400 18px/24px var(--head); letter-spacing: 1.5px; align-self: stretch; }
+.pill.off { opacity: .4; }
+.quiet { min-height: 44px; display: flex; align-items: center; justify-content: center; font: 400 15px/20px var(--head); letter-spacing: 1.5px; color: var(--accent); }
+
+.dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); flex: none; }
+.dot.wait { background: none; border: 1.5px solid var(--muted); }
+.switch { flex: none; width: 51px; height: 31px; border-radius: 16px; background: var(--line); position: relative; }
+.switch::after { content: ''; position: absolute; top: 2px; left: 2px; width: 27px; height: 27px; border-radius: 50%; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,.25); }
+.switch.on { background: var(--accent); }
+.switch.on::after { left: 22px; }
+/* AnimatedCheckbox: a round box, 2px borderColor, gold when ticked */
+.check { flex: none; width: 24px; height: 24px; border-radius: 50%; border: 2px solid var(--line); }
+
+/* ── Me ────────────────────────────────────────────────────────────────── */
+.flourish { position: absolute; top: -12px; left: -48.75px; width: 487.5px; aspect-ratio: var(--flourishRatio); background: var(--flourish) center / contain no-repeat; pointer-events: none; }
+.me { padding-top: 0; }
+.me .spacer { aspect-ratio: var(--flourishRatio); width: 487.5px; margin: -59px 0 -16px -72.75px; flex: none; }
+.gear { color: var(--accent); }
+.beads text { font-family: var(--head); }
+.shelf { display: flex; gap: 12px; margin-right: -24px; overflow: hidden; }
+.shelf i { flex: 0 0 120px; height: 180px; border-radius: 4px; background: #2a2118 center / cover; box-shadow: 0 4px 10px rgba(0,0,0,.2); }
+.fade { position: absolute; left: 0; right: 0; bottom: 0; height: 70px; background: linear-gradient(transparent, var(--bg)); }
+.acct { display: flex; align-items: center; gap: 14px; }
+.acct .who { width: 40px; height: 40px; border-radius: 50%; background: var(--bg); color: var(--accent); display: flex; align-items: center; justify-content: center; flex: none; }
+.acct .who.off { color: var(--muted); }
+.acct .tx { flex: 1; min-width: 0; }
+
+/* ── joining ───────────────────────────────────────────────────────────── */
+.qr { align-self: center; background: #fff; border-radius: 12px; padding: 18px; box-shadow: var(--lift); line-height: 0; }
+.dark .qr { box-shadow: none; }
+.code { font: 500 38px/46px var(--body); letter-spacing: 5px; word-spacing: 10px; text-align: center; }
+.big { font: 500 76px/84px var(--body); letter-spacing: 16px; margin-right: -16px; text-align: center; }
+.steps { align-self: center; max-width: 300px; }
+.finder { position: relative; height: 320px; border-radius: 12px; overflow: hidden; background: linear-gradient(160deg, #3b352e, #171411 70%); margin: 0 -8px; }
+.finder .seen { position: absolute; left: 50%; top: 50%; width: 150px; height: 150px; margin: -78px 0 0 -70px; background: #e9e4da; border-radius: 10px; transform: rotate(-7deg);
+  filter: blur(2.5px); opacity: .8; padding: 18px; line-height: 0; }
+.finder .aim { position: absolute; left: 50%; top: 50%; width: 208px; height: 208px; margin: -104px 0 0 -104px; }
+.finder .aim i { position: absolute; width: 34px; height: 34px; border: 3px solid #EDE4D8; }
+.finder .aim i:nth-child(1) { left: 0; top: 0; border-right: 0; border-bottom: 0; border-top-left-radius: 12px; }
+.finder .aim i:nth-child(2) { right: 0; top: 0; border-left: 0; border-bottom: 0; border-top-right-radius: 12px; }
+.finder .aim i:nth-child(3) { left: 0; bottom: 0; border-right: 0; border-top: 0; border-bottom-left-radius: 12px; }
+.finder .aim i:nth-child(4) { right: 0; bottom: 0; border-left: 0; border-top: 0; border-bottom-right-radius: 12px; }
+.finder .hint { position: absolute; left: 0; right: 0; bottom: 16px; text-align: center; color: #EDE4D8; font-size: 16px; }
+.field { background: var(--surface); border-radius: 12px; padding: 14px 16px; text-align: center; font: 500 32px/40px var(--body); letter-spacing: 5px; word-spacing: 10px; }
+.field .todo { color: var(--line); }
+.field .caret { display: inline-block; width: 2px; height: 30px; background: var(--accent); vertical-align: -5px; margin: 0 4px 0 -3px; animation: blink 1.1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+.progress { align-self: stretch; height: 2px; background: var(--line); border-radius: 1px; overflow: hidden; margin: 8px 40px 0; }
+.progress i { display: block; height: 100%; width: 62%; background: var(--accent); animation: fill 6s ease-in-out infinite alternate; }
+@keyframes fill { from { width: 18%; } to { width: 86%; } }
+.peak { font: 400 44px/50px var(--title); color: var(--accent); }
+.ghost { opacity: .38; }
+</style>
+</head>
+<body>
+<h1>Your account on every device</h1>
+<p class="lede">The account card on Me, the Account page, and the two ways a new device joins: showing a code to scan, or typing it and comparing a number. Every frame is drawn twice, in the light theme and in Tenebrae, with the app's own colours, faces, surfaces and flourish. All pages are pushed pages; none is a sheet.</p>
+<div id="app"></div>
+
+<script>
+const icon = (d, size = 22) => `<svg class="ic" width="${size}" height="${size}" viewBox="0 0 24 24">${d}</svg>`
+// lucide, as the app draws its line icons
+const icons = {
+  gear: '<path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/>',
+  phone: '<rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/>',
+  laptop: '<path d="M20 16V7a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v9m16 0H4m16 0 1.28 2.55a1 1 0 0 1-.9 1.45H3.62a1 1 0 0 1-.9-1.45L4 16"/>',
+  chevron: '<path d="m9 18 6-6-6-6"/>',
+  more: '<circle cx="12" cy="12" r="1"/><circle cx="19" cy="12" r="1"/><circle cx="5" cy="12" r="1"/>',
+  user: '<circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/>',
+  cloudOff: '<path d="m2 2 20 20"/><path d="M5.782 5.782A7 7 0 0 0 9 19h8.5a4.5 4.5 0 0 0 1.307-.193"/><path d="M21.532 16.5A4.5 4.5 0 0 0 17.5 10h-1.79A7.008 7.008 0 0 0 10 5.07"/>',
+  cloudDown: '<path d="M12 13v8l-4-4"/><path d="m12 21 4-4"/><path d="M4.393 15.269A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.436 8.284"/>',
+}
+
+// A plausible-looking code: finder squares, timing lines, seeded noise. It scans to nothing.
+function qr(size, ink = '#2C2418') {
+  const n = 29
+  let seed = 48210937
+  const rand = () => ((seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296)
+  const finder = (r, c, r0, c0) => {
+    const y = r - r0, x = c - c0
+    if (y < -1 || y > 7 || x < -1 || x > 7) return undefined
+    if (y === -1 || y === 7 || x === -1 || x === 7) return false
+    return y === 0 || y === 6 || x === 0 || x === 6 || (y >= 2 && y <= 4 && x >= 2 && x <= 4)
+  }
+  const at = (r, c) => {
+    for (const [r0, c0] of [[0, 0], [0, n - 7], [n - 7, 0]]) {
+      const f = finder(r, c, r0, c0)
+      if (f !== undefined) return f
+    }
+    const ay = Math.abs(r - (n - 7)), ax = Math.abs(c - (n - 7))
+    if (ay <= 2 && ax <= 2) return Math.max(ay, ax) !== 1
+    if (r === 6 || c === 6) return (r + c) % 2 === 0
+    return rand() < 0.48
+  }
+  let d = ''
+  for (let r = 0; r < n; r++) for (let c = 0; c < n; c++) if (at(r, c)) d += `M${c},${r}h1v1h-1z`
+  return `<svg width="${size}" height="${size}" viewBox="0 0 ${n} ${n}" shape-rendering="crispEdges"><path d="${d}" fill="${ink}"/></svg>`
+}
+
+const header = (title) => `<div class="screen-title">${title}</div>`
+const divider = '<div class="divider">✦</div>'
+const status = (kind, text) => `<div class="rowx g8 b2 muted"><span class="dot ${kind === 'wait' ? 'wait' : ''}"></span>${text}</div>`
+
+// ── 1 · Me ────────────────────────────────────────────────────────────────
+const accountCards = {
+  none: `<div class="surface lift acct">
+      <div class="who">${icon(icons.user)}</div>
+      <div class="tx"><div class="b3" style="line-height:24px">Keep your prayer life on every device</div></div>
+      <div class="textbtn">Set up</div>
+    </div>`,
+  synced: `<div class="surface lift acct">
+      <div class="who">${icon(icons.user)}</div>
+      <div class="tx"><div class="b3">Gustavo</div>${status('ok', 'Up to date · 3 devices')}</div>
+      <div class="muted">${icon(icons.chevron, 20)}</div>
+    </div>`,
+  waiting: `<div class="surface lift acct">
+      <div class="who off">${icon(icons.cloudOff)}</div>
+      <div class="tx"><div class="b3">Gustavo</div><div class="b2 muted" style="line-height:21px">Waiting for a connection — your changes are kept here</div></div>
+      <div class="muted">${icon(icons.chevron, 20)}</div>
+    </div>`,
+}
+
+function beads() {
+  const items = ['m:Morning:dawn', 'b:9:dawn', 'b:6:dawn', 'm:Day:noon', 'b:8:noon', 'b:5:noon', 'h:6:noon', 'm:Night:dusk', 'b:7:dusk', 'b:9:dusk']
+  const w = 342, x = (i) => 16 + i * ((w - 32) / (items.length - 1)), y = (i) => 50 + 11 * Math.sin((i / (items.length - 1)) * Math.PI * 2)
+  const thread = items.map((_, i) => `${i ? 'L' : 'M'}${x(i)},${y(i)}`).join(' ')
+  const marks = items.map((item, i) => {
+    const [kind, v, hue] = item.split(':')
+    if (kind === 'm') return `<circle cx="${x(i)}" cy="${y(i)}" r="10" fill="var(--bg)" stroke="var(--${hue})" stroke-width="1.2"/>
+      <text x="${x(i)}" y="${y(i) + 4.5}" text-anchor="middle" font-size="12" fill="var(--${hue})">✠</text>
+      <text x="${i ? x(i) : x(i) - 12}" y="${y(i) + 30}" text-anchor="${i ? 'middle' : 'start'}" font-size="8.5" letter-spacing="1" fill="var(--muted)">${v.toUpperCase()}</text>`
+    if (kind === 'h') return `<circle cx="${x(i)}" cy="${y(i)}" r="${v}" fill="var(--bg)" stroke="var(--${hue})" stroke-width="1.5"/>
+      <text x="${x(i)}" y="${y(i) - 14}" text-anchor="middle" font-size="8.5" letter-spacing="1" fill="var(--muted)">FRI</text>`
+    return `<circle cx="${x(i)}" cy="${y(i)}" r="${v}" fill="var(--${hue})"/>`
+  }).join('')
+  return `<svg class="beads" width="${w}" height="112"><path d="${thread}" stroke="var(--muted)" stroke-opacity=".5" stroke-width="1.2" fill="none"/>${marks}</svg>`
+}
+
+const me = (card) => `
+  <div class="flourish"></div>
+  <div class="statusbar"></div>
+  <div class="screen me">
+    <div class="spacer"></div>
+    <div class="rowx between">
+      <div class="stack g4"><div class="label">Your life of prayer</div><div class="screen-title" style="margin:0">You, with God</div></div>
+      <div class="gear">${icon(icons.gear, 28)}</div>
+    </div>
+    ${accountCards[card]}
+    <div class="stack g8">
+      <div class="rowx between" style="min-height:44px">
+        <div class="rowx g4"><span class="label">Plan of Life</span><span class="accent" style="margin-top:-2px">${icon(icons.chevron, 24)}</span></div>
+        <span class="accent">${icon(icons.cloudDown)}</span>
+      </div>
+      ${beads()}
+      <div class="b2 muted center">5 practices · 7 times</div>
+    </div>
+    <div class="stack g8">
+      <div class="rowx g8"><span class="label">Holy cards</span><span class="label accent">→</span></div>
+      <div class="shelf"><i style="background-image:url(__CARD_1__)"></i><i style="background-image:url(__CARD_2__)"></i><i style="background-image:url(__CARD_3__)"></i><i style="background-image:url(__CARD_4__)"></i></div>
+    </div>
+  </div>
+  <div class="fade"></div>`
+
+// ── 2 · Account, none yet ─────────────────────────────────────────────────
+const accountNew = `
+  <div class="statusbar">9:41</div>
+  <div class="screen">
+    ${header('Account')}
+    <div class="stack g16 b3">
+      <div>Everything you pray, read and save follows you to every device you use.</div>
+      <div class="muted">It is kept private. Only your own devices can read it — not even we can.</div>
+    </div>
+    <div class="grow"></div>
+    <div class="stack g8">
+      <div class="pill">Start with this device</div>
+      <div class="quiet">I already have an account</div>
+    </div>
+  </div>`
+
+// ── 3 · Account, signed in ────────────────────────────────────────────────
+const device = (ic, name, seen, open) => `
+  <div class="r" style="align-items:flex-start">
+    <span class="muted" style="margin-top:2px">${icon(icons[ic])}</span>
+    <div class="tx">
+      <div class="b2">${name}</div>
+      <div class="b1 muted">${seen}</div>
+      ${open ? `<div class="rowx g24" style="padding-top:12px"><span class="textbtn">Rename</span><span class="textbtn" style="color:var(--burgundy)">Remove</span></div>` : ''}
+    </div>
+    <span class="muted" style="margin-top:2px;${open ? 'color:var(--accent)' : ''}">${icon(icons.more)}</span>
+  </div>`
+
+const field = (label, value) => `
+  <div class="r"><div class="b2 muted" style="width:84px">${label}</div>
+    <div class="tx b2" style="text-align:right">${value ?? '<span class="accent">Add</span>'}</div></div>`
+
+const leave = (title, caption, destructive) => `
+  <div class="r"><div class="tx"><div class="b2" ${destructive ? 'style="color:var(--destructive)"' : ''}>${title}</div><div class="b1 muted">${caption}</div></div>
+    <span class="chev">${icon(icons.chevron, 20)}</span></div>`
+
+const accountIn = `
+  <div class="statusbar">9:41</div>
+  <div class="screen">
+    <div class="stack g16">${header('Account')}${status('ok', 'Up to date · just now')}</div>
+
+    <div class="stack g16">
+      <div class="section">Devices</div>
+      <div class="surface rows">
+        ${device('phone', 'Gustavo’s iPhone', 'This device')}
+        ${device('phone', 'Gustavo’s Pixel', 'Last seen 2 hours ago', true)}
+        ${device('laptop', 'MacBook — browser', 'Last seen yesterday')}
+      </div>
+      <div class="pill">Add a device</div>
+    </div>
+
+    ${divider}
+
+    <div class="stack g16">
+      <div class="stack g4"><div class="section">About you</div><div class="b1 muted">All optional.</div></div>
+      <div class="surface rows">
+        ${field('Name', 'Gustavo')}
+        <div class="r" style="flex-direction:column;align-items:stretch;gap:12px">
+          <div class="rowx g12"><div class="b2 muted" style="width:84px">Email</div><div class="tx b2" style="text-align:right">gustavo@example.com</div></div>
+          <div class="rowx g12"><span class="check"></span><div class="b2">Send me news about Ember</div></div>
+        </div>
+        ${field('Phone')}
+        ${field('Birthday')}
+      </div>
+      <div class="surface stack g8">
+        <div class="rowx between"><div class="b2">Keep a recovery copy</div><span class="switch on"></span></div>
+        <div class="b1 muted">If you lose every device, we can help you get back in through this email.</div>
+      </div>
+    </div>
+
+    ${divider}
+
+    <div class="stack g16">
+      <div class="section">Leaving</div>
+      <div class="surface rows">
+        ${leave('Remove this device', 'Erases Ember’s data on this device. Your account stays.')}
+        ${leave('Keep only on this device', 'Deletes your account and erases your other devices. This one keeps everything.')}
+        ${leave('Delete my account', 'Erases everything, everywhere.', true)}
+      </div>
+    </div>
+  </div>`
+
+// ── 4 · I already have an account (the new device) ────────────────────────
+const joinNotice = `
+  <div class="statusbar">9:41</div>
+  <div class="screen">
+    ${header('Welcome back')}
+    <div class="stack g16 b3">
+      <div>Joining replaces what’s on this device.</div>
+      <div class="muted">A backup copy is saved first.</div>
+    </div>
+    <div class="grow"></div>
+    <div class="stack g8">
+      <div class="pill">Continue</div>
+      <div class="quiet">Not now</div>
+    </div>
+  </div>`
+
+const joinShow = `
+  <div class="statusbar">9:41</div>
+  <div class="screen">
+    ${header('Welcome back')}
+    <div class="b3">On a device that’s already signed in, open <span style="white-space:nowrap">Me → Account → Add a device</span>.</div>
+    <div class="qr">${qr(232)}</div>
+    <div class="stack g4">
+      <div class="b1 muted center" style="font-family:var(--head);letter-spacing:1.5px;text-transform:uppercase">or type this code there</div>
+      <div class="code nums">4821 0937</div>
+    </div>
+    <div class="b2 muted center">This code lasts 10 minutes · <span class="count nums">9:42</span></div>
+  </div>`
+
+// ── 5 · typed path, step two (the new device) ─────────────────────────────
+const joinCompare = `
+  <div class="statusbar">9:41</div>
+  <div class="screen">
+    ${header('Welcome back')}
+    <div class="b3">Check that both devices show the same number.</div>
+    <div class="grow" style="max-height:60px"></div>
+    <div class="big nums">5271</div>
+    <div class="b2 muted center">Then tap “Yes, it matches” on the other device.</div>
+    <div class="grow"></div>
+    <div class="quiet">It’s a different number</div>
+  </div>`
+
+// ── 6 · Add a device (the signed-in device) ───────────────────────────────
+const addScan = `
+  <div class="statusbar">9:41</div>
+  <div class="screen">
+    ${header('Add a device')}
+    <div class="b3">On the new device, open Ember and choose <span style="white-space:nowrap">“I already have an account”</span>.</div>
+    <div class="finder">
+      <div class="seen">${qr(114, '#3a342c')}</div>
+      <div class="aim"><i></i><i></i><i></i><i></i></div>
+      <div class="hint">Point the camera at its code</div>
+    </div>
+    <div class="stack g12">
+      <div class="section">Type the code instead</div>
+      <div class="field nums">4821 09<span class="caret"></span><span class="todo">––</span></div>
+      <div class="pill off">Continue</div>
+    </div>
+  </div>`
+
+// ── 7 · Add a device, typed path, confirm ─────────────────────────────────
+const addConfirm = `
+  <div class="statusbar">9:41</div>
+  <div class="screen">
+    ${header('Add a device')}
+    <div class="b3">Does the other device show this number?</div>
+    <div class="grow" style="max-height:60px"></div>
+    <div class="big nums">5271</div>
+    <div class="grow"></div>
+    <div class="stack g12">
+      <div class="pill">Yes, it matches</div>
+      <div class="surface button b2" style="color:var(--ink)">No</div>
+      <div class="b1 muted center">If it doesn’t match, nothing is shared.</div>
+    </div>
+  </div>`
+
+// ── 8 · joining, then done (the new device) ───────────────────────────────
+const joining = `
+  <div class="statusbar">9:41</div>
+  <div class="screen centered">
+    <div class="sacred" style="max-width:290px">Bringing your prayer life over…</div>
+    <div class="progress"><i></i></div>
+    <div class="b2 muted">Your plan, your reading, your holy cards.</div>
+  </div>`
+
+const joined = `
+  <div class="statusbar">9:41</div>
+  <div class="screen" style="text-align:center">
+    <div class="grow"></div>
+    <div class="peak">✠</div>
+    <div class="sacred">All set</div>
+    <div class="b3 muted" style="max-width:280px;align-self:center">Everything from your other devices is here now.</div>
+    <div class="grow"></div>
+    <div class="pill">Go to Today</div>
+  </div>`
+
+// ── 9 · the privacy row in Settings ───────────────────────────────────────
+const privacy = `
+  <div class="screen" style="padding-top:32px">
+    <div class="stack g16 ghost">
+      <div class="section">Storage</div>
+      <div class="surface button b2" style="color:var(--burgundy)">Clear unpinned content</div>
+    </div>
+    ${divider}
+    <div class="stack g16">
+      <div class="section">Privacy</div>
+      <div class="surface stack g8">
+        <div class="rowx between"><div class="b2">Help improve Ember</div><span class="switch on"></span></div>
+        <div class="b1 muted">Shares which features are used, without your name or account.</div>
+      </div>
+    </div>
+    ${divider}
+    <div class="stack g16 ghost">
+      <div class="section">About</div>
+      <div class="surface stack g8">
+        <div class="rowx between b2"><span class="muted">Version</span><span>1.9.0</span></div>
+        <div class="rowx between b2"><span class="muted">Revision</span><span class="nums">3f9a02c1</span></div>
+      </div>
+    </div>
+  </div>`
+
+const groups = [
+  { title: '1 · Me, with the account card',
+    note: 'One card under the masthead, the settings surface with a soft shadow and no border. Before an account exists it invites; afterwards it is a quiet line that opens the Account page.',
+    frames: [
+      { n: '1a', cap: 'No account yet', html: me('none') },
+      { n: '1b', cap: 'In sync', html: me('synced') },
+      { n: '1c', cap: 'Can’t reach the server', html: me('waiting'), note: 'Not an error: no red. The icon goes quiet and the line says the changes are safe.' },
+    ] },
+  { title: '2 – 3 · The Account page',
+    note: 'A pushed page with the utility title, like Settings. Signed in, it is unrolled here to its full length.',
+    frames: [
+      { n: '2', cap: 'No account', html: accountNew },
+      { n: '3', cap: 'Signed in', html: accountIn, note: 'The second device is shown with its ⋯ opened in place: Rename and Remove appear in the row rather than in a menu or sheet. This device offers Rename only; leaving it is under Leaving.' },
+    ] },
+  { title: '4 – 5 · On the new device: “I already have an account”',
+    note: 'The new device shows; the signed-in device scans or types. The notice comes first only when this device already holds something.',
+    frames: [
+      { n: '4a', cap: 'Notice, if this device has data', html: joinNotice },
+      { n: '4b', cap: 'The code to scan or type', html: joinShow },
+      { n: '5', cap: 'Typed path, step two', html: joinCompare, note: 'Appears once the other device has typed the code.' },
+    ] },
+  { title: '6 – 7 · On the signed-in device: “Add a device”',
+    note: '',
+    frames: [
+      { n: '6', cap: 'Scan, or type the code', html: addScan },
+      { n: '7', cap: 'Typed path, confirm', html: addConfirm },
+    ] },
+  { title: '8 · Joining, then done',
+    note: 'Back on the new device.',
+    frames: [
+      { n: '8a', cap: 'In progress', html: joining },
+      { n: '8b', cap: 'Done', html: joined },
+    ] },
+  { title: '9 · Settings: the privacy row',
+    note: 'A new Privacy section between Storage and About; its neighbours are dimmed here.',
+    frames: [{ n: '9', cap: 'Help improve Ember', html: privacy, short: true }] },
+]
+
+const strip = (theme, frames) => `<div class="strip">${frames.map((f) => `
+  <div class="frame"><div class="cap"><b>${f.n}</b>${f.cap} · ${theme === 'dark' ? 'Tenebrae' : 'light'}</div>
+    <div class="phone ${theme} ${f.short ? 'short' : ''}">${f.html}</div>
+    ${f.note ? `<div class="note">${f.note}</div>` : ''}</div>`).join('')}</div>`
+
+document.getElementById('app').innerHTML = groups.map((g) => `
+  <section class="group"><h2>${g.title}</h2><p>${g.note}</p>${strip('light', g.frames)}${strip('dark', g.frames)}</section>`).join('')
+
+// "This code lasts 10 minutes": a live countdown, restarting when it runs out.
+let left = 9 * 60 + 42
+setInterval(() => {
+  left = left > 0 ? left - 1 : 600
+  const text = `${Math.floor(left / 60)}:${String(left % 60).padStart(2, '0')}`
+  for (const el of document.querySelectorAll('.count')) el.textContent = text
+}, 1000)
+</script>
+</body>
+</html>

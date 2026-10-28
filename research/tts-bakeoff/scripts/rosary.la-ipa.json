@@ -1,0 +1,426 @@
+{
+ "lang": "la",
+ "mysteries": "glorious",
+ "clips": {
+  "sign-of-cross": "in nˈɔmine pˈatris, et fˈilii, et spˈiritʊs sˈankti. ˈamen.",
+  "apostles-creed": "krˈɛdo in dˈɛʊm pˈatrem omnipotˈɛntem, kreatˈɔrem ʧˈɛli et tˈɛrːe. et in jˈɛzʊm krˈistʊm, fˈiliʊm ˈɛjʊs ˈunikʊm, dˈɔminʊm nˈɔstrʊm, kwˈi konʧˈɛptʊs est de spˈiritʊ sˈankto, nˈatʊs eks marˈia vˈirʤine, pˈasːʊs sʊb pˈɔnʦio pilˈato, krʊʧifˈiksʊs, mˈɔrtʊʊs, et sepˈultʊs, deʃˈɛndit ad ˈinferos, tˈɛrʦia dˈie rezʊrːˈɛksit a mˈɔrtʊis, aʃˈɛndit ad ʧˈɛlos, sˈɛdet ad dˈɛksteram dˈɛi pˈatris omnipotˈɛntis, ˈinde ventˈurʊs est jʊdikˈare vˈivos et mˈɔrtʊos. krˈɛdo in spˈiritʊm sˈanktʊm, sˈanktam ekːlˈɛziam katˈɔlikam, sanktˈɔrʊm komːʊniˈɔnem, remisːiˈɔnem pekːatˈɔrʊm, kˈarnis rezʊrːekʦiˈɔnem, vˈitam etˈɛrnam. ˈamen.",
+  "our-father": "pˈater nˈɔster, kwˈi es in ʧˈɛlis, sanktifiʧˈɛtʊr nˈɔmen tˈuʊm. advˈɛniat rˈɛɲʊm tˈuʊm. fˈiat volˈuntas tˈua, sˈikʊt in ʧˈɛlo et in tˈɛrːa. pˈanem nˈɔstrʊm kwotidiˈanʊm dˈa nˈɔbis ˈɔdie, et dimˈitːe nˈɔbis dˈɛbita nˈɔstra, sˈikʊt et nos dimˈitːimʊs debitˈɔribʊs nˈɔstris. et ne nos indˈukas in tentaʦiˈɔnem, sed lˈibera nos a mˈalo. ˈamen.",
+  "our-father.v": "pˈater nˈɔster, kwˈi es in ʧˈɛlis, sanktifiʧˈɛtʊr nˈɔmen tˈuʊm. advˈɛniat rˈɛɲʊm tˈuʊm. fˈiat volˈuntas tˈua, sˈikʊt in ʧˈɛlo et in tˈɛrːa.",
+  "our-father.r": "pˈanem nˈɔstrʊm kwotidiˈanʊm dˈa nˈɔbis ˈɔdie, et dimˈitːe nˈɔbis dˈɛbita nˈɔstra, sˈikʊt et nos dimˈitːimʊs debitˈɔribʊs nˈɔstris. et ne nos indˈukas in tentaʦiˈɔnem, sed lˈibera nos a mˈalo. ˈamen.",
+  "hail-mary": "ˈave marˈia, ɡrˈaʦia plˈɛna, dˈɔminʊs tˈɛkʊm. benedˈikta tˈu in mʊliˈɛribʊs, et benedˈiktʊs frˈuktʊs vˈɛntris tˈui, jˈɛzʊs. sˈankta marˈia, mˈater dˈɛi, ˈɔra pro nˈɔbis pekːatˈɔribʊs, nˈunk et in ˈɔra mˈɔrtis nˈɔstre. ˈamen.",
+  "hail-mary.v": "ˈave marˈia, ɡrˈaʦia plˈɛna, dˈɔminʊs tˈɛkʊm. benedˈikta tˈu in mʊliˈɛribʊs, et benedˈiktʊs frˈuktʊs vˈɛntris tˈui, jˈɛzʊs.",
+  "hail-mary.r": "sˈankta marˈia, mˈater dˈɛi, ˈɔra pro nˈɔbis pekːatˈɔribʊs, nˈunk et in ˈɔra mˈɔrtis nˈɔstre. ˈamen.",
+  "hail-mary.t1": "ˈave marˈia, ɡrˈaʦia plˈɛna, dˈɔminʊs tˈɛkʊm. benedˈikta tˈu in mʊliˈɛribʊs, et benedˈiktʊs frˈuktʊs vˈɛntris tˈui, jˈɛzʊs. sˈankta marˈia, mˈater dˈɛi, ˈɔra pro nˈɔbis pekːatˈɔribʊs, nˈunk et in ˈɔra mˈɔrtis nˈɔstre. ˈamen.",
+  "hail-mary.t2": "ˈave marˈia, ɡrˈaʦia plˈɛna, dˈɔminʊs tˈɛkʊm. benedˈikta tˈu in mʊliˈɛribʊs, et benedˈiktʊs frˈuktʊs vˈɛntris tˈui, jˈɛzʊs. sˈankta marˈia, mˈater dˈɛi, ˈɔra pro nˈɔbis pekːatˈɔribʊs, nˈunk et in ˈɔra mˈɔrtis nˈɔstre. ˈamen.",
+  "hail-mary.t3": "ˈave marˈia, ɡrˈaʦia plˈɛna, dˈɔminʊs tˈɛkʊm. benedˈikta tˈu in mʊliˈɛribʊs, et benedˈiktʊs frˈuktʊs vˈɛntris tˈui, jˈɛzʊs. sˈankta marˈia, mˈater dˈɛi, ˈɔra pro nˈɔbis pekːatˈɔribʊs, nˈunk et in ˈɔra mˈɔrtis nˈɔstre. ˈamen.",
+  "glory-be": "ɡlˈɔria pˈatri, et fˈilio, et spirˈitʊi sˈankto. sˈikʊt ˈɛrat in prinʧˈipio, et nˈunk, et sˈɛmper, et in sˈɛkʊla sekʊlˈɔrʊm. ˈamen.",
+  "glory-be.v": "ɡlˈɔria pˈatri, et fˈilio, et spirˈitʊi sˈankto.",
+  "glory-be.r": "sˈikʊt ˈɛrat in prinʧˈipio, et nˈunk, et sˈɛmper, et in sˈɛkʊla sekʊlˈɔrʊm. ˈamen.",
+  "mystery-1": "prˈimʊm mistˈɛriʊm ɡloriˈɔzʊm: rezʊrːˈɛkʦio dˈɔmini.",
+  "fatima-prayer": "ˈɔ mˈi jˈɛzʊ, dimˈitːe nˈɔbis dˈɛbita nˈɔstra, sˈalva nos ab ˈiɲe infˈɛrni, pˈɛrdʊk in ʧˈɛlʊm ˈɔmnes ˈanimas, prezˈɛrtim ˈɛas kwˈɛ mizerikˈɔrdie tˈue mˈaksime indˈiʤent.",
+  "mystery-2": "sekˈundʊm mistˈɛriʊm ɡloriˈɔzʊm: aʃˈɛnsio dˈɔmini.",
+  "mystery-3": "tˈɛrʦiʊm mistˈɛriʊm ɡloriˈɔzʊm: mˈisːio spˈiritʊs sˈankti.",
+  "mystery-4": "kwˈartʊm mistˈɛriʊm ɡloriˈɔzʊm: asːˈumpʦio beˈate marˈie vˈirʤinis.",
+  "mystery-5": "kwˈintʊm mistˈɛriʊm ɡloriˈɔzʊm: koronˈaʦio beˈate marˈie vˈirʤinis.",
+  "hail-holy-queen": "sˈalve, reʤˈina, mˈater mizerikˈɔrdie, vˈita, dʊlʧˈɛdo, et spˈɛs nˈɔstra, sˈalve. ad tˈɛ klamˈamʊs, ˈɛkssʊles fˈilii ˈɛve. ad tˈɛ sʊspirˈamʊs, ʤemˈɛntes et flˈɛntes in ˈak lakrimˈarʊm vˈalːe. ˈɛja ˈɛrɡo, advokˈata nˈɔstra, ˈilːos tˈuos mizerikˈɔrdes ˈɔkʊlos ad nos konvˈɛrte. et jˈɛzʊm, benedˈiktʊm frˈuktʊm vˈɛntris tˈui, nˈɔbis pˈɔst ˈɔk ekssˈiliʊm ostˈɛnde. ˈɔ klˈɛmens, ˈɔ pˈia, ˈɔ dˈulʧis vˈirɡo marˈia."
+ },
+ "sequence": [
+  {
+   "clip": "sign-of-cross",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "apostles-creed",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-1",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-2",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-3",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-4",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-5",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-holy-queen",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "sign-of-cross",
+   "pauseMs": 1200,
+   "role": "leader"
+  }
+ ],
+ "variant": "la-ipa",
+ "speakAs": "ipa"
+}

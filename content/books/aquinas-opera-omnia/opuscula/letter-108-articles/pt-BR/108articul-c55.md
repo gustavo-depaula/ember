@@ -1,0 +1,3 @@
+# Artigo 54
+
+O que se põe em quinquagésimo quarto lugar: *Deus Pai, na mesma espécie, a saber, em si mesmo ou na sua essência, entende-se a si e todas as coisas; por isso gera de si a mesma espécie, isto é, o Filho, para proferir a si e todas as coisas*, foi dito impropriamente, assim como também se se dissesse: Deus Pai gera de si a sabedoria; seria, porém, dito com propriedade, se dissesse: gera de si o Filho, sabedoria; porque é a mesma espécie de proferir. Ora, o proferir sobrevém ao dizer; por isso se diria mais convenientemente: Deus Pai gera de si o Filho para dizer a si e todas as coisas; pois o Pai diz a si e todas as outras coisas pelo seu Verbo, que é o Filho. O objetante, porém, expõe mal proferir, isto é, como produzir.

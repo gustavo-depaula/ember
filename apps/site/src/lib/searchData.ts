@@ -18,7 +18,7 @@ export type ExtraEntry = {
 }
 
 export type SearchData = {
-  /** The app's index (practices, collections, books), each result with its page. */
+  /** The app's index (practices, collections, books, chants), each result with its page. */
   catalog: (IndexEntry & { url: string })[]
   extra: ExtraEntry[]
 }
@@ -36,9 +36,12 @@ export async function buildSearchData(locale: Locale): Promise<SearchData> {
           ? href.prayer(locale, id)
           : kind === 'book'
             ? href.book(locale, id)
-            : href.collection(locale, id)
-      // Descriptions make the index several times larger for a weak signal.
-      return { ...entry, description: undefined, url }
+            : kind === 'chant'
+              ? href.chant(locale, id)
+              : href.collection(locale, id)
+      // Descriptions and opening lines make the index several times larger
+      // for a weak signal.
+      return { ...entry, description: undefined, lines: undefined, url }
     })
     const extra: ExtraEntry[] = [
       ...saints.saints.map((saint) => ({

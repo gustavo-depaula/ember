@@ -2,13 +2,16 @@
   "id": "pamphilus-exposition-on-the-acts-of-the-apostles",
   "cover": "quarter",
   "name": {
-    "en-US": "Exposition on the Acts of the Apostles"
+    "en-US": "Exposition on the Acts of the Apostles",
+    "pt-BR": "Exposição sobre os Atos dos Apóstolos"
   },
   "author": {
-    "en-US": "Pamphilus"
+    "en-US": "Pamphilus",
+    "pt-BR": "Pânfilo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Exposition on the Acts of the Apostles"
+        "en-US": "Exposition on the Acts of the Apostles",
+        "pt-BR": "Exposição sobre os Atos dos Apóstolos"
       }
     }
   ]

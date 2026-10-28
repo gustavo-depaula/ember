@@ -1,0 +1,513 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; steady narration of the journey toward Jerusalem."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; authoritative with the Pharisees, tender with the children and the rich man, sober foretelling his Passion, gentle with Bartimaeus."
+  },
+  "pharisees": {
+   "name": "The Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Pharisees testing him on divorce; cool, legalistic, laying a trap."
+  },
+  "rich-man": {
+   "name": "The rich man",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A wealthy man who runs up and kneels; eager and sincere, sure of his own observance."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The twelve; astonished and dismayed at the saying about riches, murmuring among themselves."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Apostle; speaking up for the twelve, a little anxious and self-justifying."
+  },
+  "james-and-john": {
+   "name": "James and John",
+   "kind": "group",
+   "gender": "male",
+   "age": "young",
+   "note": "The sons of Zebedee; ambitious and overconfident, asking for the places of honour."
+  },
+  "bartimaeus": {
+   "name": "Bartimaeus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The blind beggar of Jericho, son of Timaeus; shouting insistently over the crowd, then simple and trusting."
+  },
+  "crowd": {
+   "name": "The crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Those in the multitude at Jericho who call the blind man; encouraging and kindly."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "E saindo dali, foi Jesus para os confins da Judeia, na banda dalém do Jordão: E voltaram as gentes a ajuntar-se com ele: E de novo os ensinava, como sempre costumara."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "E chegando os fariseus, lhe perguntavam:"
+   },
+   {
+    "s": "pharisees",
+    "t": "É lícito ao marido repudiar a sua mulher?"
+   },
+   {
+    "s": "narrator",
+    "t": "o que eles diziam para o tentarem."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Mas ele respondendo, lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Que é o que vos mandou Moisés?"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Responderam eles:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Moisés permitiu escrever libelo de repúdio e reenviá-la."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Aos quais respondendo Jesus, disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Pela dureza de vosso coração é que ele vos deixou escrito esse mandamento:"
+   }
+  ],
+  "6": [
+   {
+    "s": "jesus",
+    "t": "Porém ao princípio da criação, fê-los Deus macho e fêmea."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "Por isto deixará o homem a seu pai, e a sua mãe, e se ajuntará a sua mulher."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "E serão dois numa só carne. Assim que eles já não são dois, mas uma só carne."
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "O que Deus pois ajuntou, não o separe o homem."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "E tornaram a fazer-lhe seus discípulos em casa perguntas sobre a mesma matéria."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Ele lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Qualquer que repudiar a sua mulher, e se casar com outra, comete adultério contra a sua primeira mulher."
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "E se a mulher repudiar a seu marido, e se casar com outro, comete adultério."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Então lhe apresentavam uns meninos para que os tocasse. Mas os discípulos ameaçavam aos que lhos apresentavam."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "O que vendo Jesus, levou-o muito a mal e disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "Deixai vir a mim os pequeninos, e não os embaraceis: Porque dos tais é o reino de Deus."
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "Em verdade vos digo: Que todo o que não receber o reino de Deus como pequenino não entrará nele."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "E abraçando-os, e pondo sobre eles as mãos, os abençoava."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "E tendo saído Jesus para se pôr a caminho, veio correndo um homem, e com o joelho em terra diante dele, lhe fez esta súplica:"
+   },
+   {
+    "s": "rich-man",
+    "t": "Bom Mestre, que devo eu fazer para alcançar a vida eterna?"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "E Jesus lhe disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Por que me chamas tu bom? Ninguém é bom senão só Deus."
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "Tu sabes os mandamentos: Não cometas adultério, não mates, não furtes, não digas falso testemunho, não cometas fraudes, honra a teu pai e a tua mãe."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Então ele respondendo, lhe disse:"
+   },
+   {
+    "s": "rich-man",
+    "t": "Mestre, todos estes mandamentos tenho eu observado desde a minha mocidade."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "E Jesus, pondo nele os olhos, lhe mostrou agrado, e lhe disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Uma coisa só te falta: Vai, vende quanto tens, dá-o aos pobres, e terás um tesouro no Céu: E vem, segue-me."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "O homem desgostoso das palavras que ouvira, foi-se todo triste: Porque era muito afazendado."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "E Jesus, olhando em roda, disse a seus discípulos:"
+   },
+   {
+    "s": "jesus",
+    "t": "Com quanta dificuldade entrarão no reino de Deus os que têm riquezas!"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "E os discípulos se assombravam das suas palavras. Mas Jesus continuando por diante lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Filhinhos, quão difícil coisa é entrarem no reino de Deus os que confiam nas riquezas!"
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "Mais fácil é passar um camelo pelo fundo duma agulha, do que entrar no reino de Deus um rico."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Eles ainda ficaram muito mais cheios de espanto, e diziam uns para os outros:"
+   },
+   {
+    "s": "disciples",
+    "t": "Quem pode logo salvar-se?"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Então Jesus olhando para eles, disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Para os homens coisa é esta que não pode ser, mas não para Deus: Porque para Deus todas as coisas são possíveis."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "E começou Pedro a dizer-lhes:"
+   },
+   {
+    "s": "peter",
+    "t": "Eis aqui estamos nós que largamos tudo, e te seguimos."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Respondendo Jesus, disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Na verdade vos digo: Que não há nenhum que haja deixado casa, ou irmãos, ou irmãs, ou pai, ou mãe, ou filhos, ou terras por amor de mim, e por amor do Evangelho,"
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "que não venha a receber, já de presente neste mesmo século, a cento por um: Das casas, e dos irmãos, e das irmãs, e das mães, e dos filhos, e das terras, com as perseguições, e no século futuro a vida eterna."
+   }
+  ],
+  "31": [
+   {
+    "s": "jesus",
+    "t": "Porém haverá muitos que, sendo os primeiros, serão os últimos, e muitos que, sendo os últimos, serão os primeiros."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "E estavam no caminho para subir a Jerusalém: E Jesus ia adiante deles, do que os mesmos se espantavam: E o seguiam com medo. E tornando a tomar de parte aos doze, começou a declarar-lhes as coisas que tinham de lhe acontecer."
+   }
+  ],
+  "33": [
+   {
+    "s": "jesus",
+    "t": "Eis aqui está que nós subimos a Jerusalém, e o Filho do homem será entregue aos príncipes dos sacerdotes, e aos escribas, e aos anciãos; e sentenciá-lo-ão à morte, e o entregarão aos gentios:"
+   }
+  ],
+  "34": [
+   {
+    "s": "jesus",
+    "t": "E o escarnecerão, e lhe cuspirão no rosto, e o açoutarão, e lhe tirarão a vida: E ao terceiro dia ressurgirá."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Então se chegaram a ele Tiago e João, filhos de Zebedeu, dizendo-lhe:"
+   },
+   {
+    "s": "james-and-john",
+    "t": "Mestre, queremos que nos concedas tudo o que te pedirmos."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "E ele lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Que quereis vós que eu vos faça?"
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "E eles responderam:"
+   },
+   {
+    "s": "james-and-john",
+    "t": "Concede-nos que nos sentemos na tua glória, um à tua direita e outro à tua esquerda."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Mas Jesus lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Não sabeis o que pedis: Podeis vós beber o cálice que eu estou para beber? Ou ser batizados no batismo em que eu estou para ser batizado?"
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "E eles lhe disseram:"
+   },
+   {
+    "s": "james-and-john",
+    "t": "Podemos."
+   },
+   {
+    "s": "narrator",
+    "t": "E Jesus lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Vós com efeito haveis de beber o cálice que eu estou para beber: E haveis de ser batizados no batismo em que eu estou para ser batizado."
+   }
+  ],
+  "40": [
+   {
+    "s": "jesus",
+    "t": "Mas pelo que toca a terdes assento à minha destra, ou à minha esquerda, não me pertence a mim o conceder-vo-lo, porém, essa honra é para aqueles para quem ela está preparada."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "E ouvindo isto os outros dez começaram a indignar-se contra Tiago e João."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "Mas Jesus, chamando-os, lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Vós sabeis que os que têm autoridade entre os povos, esses são os que os dominam, e que os seus príncipes têm poder sobre eles."
+   }
+  ],
+  "43": [
+   {
+    "s": "jesus",
+    "t": "Porém entre vós não deve ser assim, mas todo o que quiser ser o maior, esse deve ser o que vos ministre:"
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "E todo o que entre vós quiser ser o primeiro, esse deve fazer-se servo de todos."
+   }
+  ],
+  "45": [
+   {
+    "s": "jesus",
+    "t": "Porque o mesmo Filho do homem não veio a ser servido, mas a servir, e a dar a sua vida para redenção de muitos."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "Depois foram a Jericó; e ao sair de Jericó ele, e os seus discípulos, e muitíssimo povo com eles, Bartimeu, que era cego, filho de Timeu, estava assentado junto ao caminho pedindo esmola."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "O qual, como ouviu que passava Jesus Nazareno, começou a gritar, e a dizer:"
+   },
+   {
+    "s": "bartimaeus",
+    "t": "Jesus, filho de Davi, tem misericórdia de mim."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "E ameaçavam-no muitos, para que se calasse. Mas ele cada vez gritava muito mais:"
+   },
+   {
+    "s": "bartimaeus",
+    "t": "Filho de Davi, tem misericórdia de mim."
+   }
+  ],
+  "49": [
+   {
+    "s": "narrator",
+    "t": "Parando então Jesus mandou que lho chamassem. E chamaram o cego, dizendo-lhe:"
+   },
+   {
+    "s": "crowd",
+    "t": "Tem boas esperanças, levanta-te, que ele te chama."
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "Ele, deitando fora de si a capa, saltando, veio ter com ele."
+   }
+  ],
+  "51": [
+   {
+    "s": "narrator",
+    "t": "E falando Jesus, lhe disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Que queres tu que eu te faça?"
+   },
+   {
+    "s": "narrator",
+    "t": "O cego pois lhe respondeu:"
+   },
+   {
+    "s": "bartimaeus",
+    "t": "Mestre, que eu tenha vista."
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "Então lhe disse Jesus:"
+   },
+   {
+    "s": "jesus",
+    "t": "Vai, a tua fé te sarou."
+   },
+   {
+    "s": "narrator",
+    "t": "E no mesmo ponto viu, e o foi seguindo pelo caminho."
+   }
+  ]
+ }
+}

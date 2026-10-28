@@ -8,7 +8,7 @@ import { drainShieldEvents } from './shieldEvents'
 import { syncCommitmentSnapshots } from './syncSnapshots'
 
 /**
- * Boot the module once the DB is ready and the corpus has seeded: notification
+ * Boot the module once the DB is ready and the corpus has loaded: notification
  * categories now, reconciliation after interactions settle, and a foreground
  * listener that drains shield events the native extensions queued meanwhile.
  */

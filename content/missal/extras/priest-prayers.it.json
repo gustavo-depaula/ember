@@ -1,0 +1,11890 @@
+{
+ "id": "priest-prayers.it",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "html"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "TEMPORA"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h1",
+      "lines": [
+       [
+        "Missale Romanum"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Devotionarium"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacerdotale"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "IGMR"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "MR"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "ESPOSIZIONE E DELLA BENEDIZIONE EUCARISTICA"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pange, lingua, gloriósi"
+       ],
+       [
+        "Córporis mystérium,"
+       ],
+       [
+        "Sanguinísque pretiósi,"
+       ],
+       [
+        "quem in mundi prétium"
+       ],
+       [
+        "fructus ventris generósi"
+       ],
+       [
+        "Rex effúdit géntium."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canta, o mia lingua,"
+       ],
+       [
+        "il mistero del corpo glorioso"
+       ],
+       [
+        "e del sangue prezioso"
+       ],
+       [
+        "che il Re delle nazioni,"
+       ],
+       [
+        "frutto benedetto di un grembo generoso,"
+       ],
+       [
+        "sparse per il riscatto del mondo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "* * *"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tantum ergo sacraméntum"
+       ],
+       [
+        "venerémur cérnui,"
+       ],
+       [
+        "et antiquum documéntum"
+       ],
+       [
+        "novo cedat rítui;"
+       ],
+       [
+        "præstet fides suppleméntum"
+       ],
+       [
+        "sénsuum deféctui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Adoriamo, dunque, prostrati"
+       ],
+       [
+        "un sì gran sacramento;"
+       ],
+       [
+        "l'antica legge"
+       ],
+       [
+        "ceda alla nuova,"
+       ],
+       [
+        "e la fede supplisca"
+       ],
+       [
+        "al difetto dei nostri sensi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Genitóri Genitóque"
+       ],
+       [
+        "laus et iubilátio,"
+       ],
+       [
+        "salus, honor, virtus quoque"
+       ],
+       [
+        "sit et benedíctio;"
+       ],
+       [
+        "procedénti ab utróque"
+       ],
+       [
+        "compar sit laudátio."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gloria e lode,"
+       ],
+       [
+        "salute, onore,"
+       ],
+       [
+        "potenza e benedizione"
+       ],
+       [
+        "al Padre e al Figlio:"
+       ],
+       [
+        "pari lode sia allo Spirito Santo,"
+       ],
+       [
+        "che procede da entrambi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Panem de cælo præstitísti eis ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "Allelúia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Omne delectamén­tum in se habéntem ",
+        {
+         "m": "rubric",
+         "t": "(T. P. "
+        },
+        "Allelúia",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preghiamo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "ORÉMUS"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dopo una breve pausa di silenzio, prosegue:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Deus, qui nobis sub sacraménto mirábili passiónis tuæ memóriam Reliquísti,"
+       ],
+       [
+        "tríbue, quǽsumus,"
+       ],
+       [
+        "ita nos Córporis et Sánguinis tui sacra mystéria venerári,"
+       ],
+       [
+        "ut redemptiónis tuæ fructum in nobis iúgiter sentiámus."
+       ],
+       [
+        "Qui vivís et regnas in sǽcula sǽculórum."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore Gesù Cristo,"
+       ],
+       [
+        "che nel mirabile sacramento dell'Eucaristia"
+       ],
+       [
+        "ci hai lasciato il memoriale della tua Pasqua,"
+       ],
+       [
+        "fa' che adoriamo con viva fede"
+       ],
+       [
+        "il santo mistero del tuo corpo e del tuo sangue,"
+       ],
+       [
+        "per sentire sempre in noi i benefici della redenzione."
+       ],
+       [
+        "Tu che vivi e regni nei secoli dei secoli."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/﻿. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "* * *"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio sia benedetto"
+       ],
+       [
+        "Benedetto il Suo santo Nome."
+       ],
+       [
+        "Benedetto Gesù Cristo, vero Dio e vero Uomo."
+       ],
+       [
+        "Benedetto il Nome di Gesù."
+       ],
+       [
+        "Benedetto il Suo Sacratissimo Cuore."
+       ],
+       [
+        "Benedetto il Suo Preziosissimo Sangue."
+       ],
+       [
+        "Benedetto Gesù nel Santissimo Sacramento dell'altare."
+       ],
+       [
+        "Benedetto lo Spirito Santo Paraclito."
+       ],
+       [
+        "Benedetta la gran Madre di Dio, Maria Santissima."
+       ],
+       [
+        "Benedetta la Sua santa e Immacolata Concezione."
+       ],
+       [
+        "Benedetta la Sua gloriosa Assunzione."
+       ],
+       [
+        "Benedetto il Nome di Maria, Vergine e Madre."
+       ],
+       [
+        "Benedetto San Giuseppe, suo castissimo Sposo."
+       ],
+       [
+        "Benedetto Iddio nei suoi Angeli e nei suoi Santi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "* * *"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Laudáte Dóminum omnes gentes:"
+       ],
+       [
+        "laudáte eum, omnes pópuli."
+       ],
+       [
+        "Quóniam confirmáta est super nos misericórdia eius,"
+       ],
+       [
+        "et véritas Dómini manet in ætérnum."
+       ],
+       [
+        "Glória Patri, et Fílio, et Spirítui Sancto."
+       ],
+       [
+        "Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "RITO DELLA PENITENZA"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il penitente rivolge il saluto abituale e si fa il segno della croce. Il sacerdote dice:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Il Signore sia nel tuo cuore, perché tu possa pentirti e confessare umilmente i tuoi peccati."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote o il penitente può dire alcune parole della Sacra Scrittura sulla misericordia di Dio e la penitenza, ad esempio:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sai tutto, o Signore, tu sai che ti amo. ",
+        {
+         "m": "rubric",
+         "t": "(Gv 21,17)"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il penitente confessa poi i suoi peccati. Il sacerdote gli dà i consigli opportuni e gli impone la penitenza ed invita il penitente a manifestare la contrizione, dicendo ad esempio:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Signore Gesù, Figlio di Dio, abbi pietà di me peccatore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Dio, Padre di misericordia, che ha riconciliato a sé il mondo nella morte e risurrezione del suo Figlio, e ha effuso lo Spirito Santo per la remissione dei peccati, ti conceda, mediante il ministero della Chiesa, il perdono e la pace."
+       ],
+       [
+        "E IO TI ASSOLVO DAI TUOI PECCATI NEL NOME DEL PADRE E DEL FIGLIO ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " E DELLO SPIRITO SANTO."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "La passione di Gesù Cristo nostro Signore, l'intercessione della Beata Vergine Maria e di tutti i santi, il bene che farai e il male che dovrai sopportare ti giovino per il perdono dei peccati, l'aumento della grazia e il premio della vita eterna. Va' in pace."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "LA SANTA COMUNIONE FUORI DELLA MESSA"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "RITI INIZIALI"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il ministro saluta i presenti."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Il Signore sia con voi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "E con il tuo spirito."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Fratelli, riconosciamo i nostri peccati e chiediamo il perdono del Signore per esser degni di partecipare a questa sacra celebrazione."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si fa una breve pausa di silenzio. Poi tutti insieme fanno la confessione:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confesso a Dio onnipotente e a voi, fratelli,"
+       ],
+       [
+        "che ho molto peccato"
+       ],
+       [
+        "in pensieri, parole, opere e omissioni,"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "e, battendosi il petto, dicono:"
+        }
+       ],
+       [
+        "per mia colpa, mia colpa, mia grandissima colpa."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "E proseguono:"
+        }
+       ],
+       [
+        "E supplico la beata sempre vergine Maria,"
+       ],
+       [
+        "gli angeli, i santi e voi, fratelli,"
+       ],
+       [
+        "di pregare per me il Signore Dio nostro."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Dio onnipotente abbia misericordia di noi,"
+       ],
+       [
+        "perdoni i nostri peccati,"
+       ],
+       [
+        "e ci conduca alla vita eterna."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Omessa a questo punto la celebrazione della parola di Dio, uno dei presenti o il ministro stesso legge, secondo l'opportunità, un breve testo della sacra Scrittura, in cui si accenna al pane della vita come, per esempio, uno dei seguenti che si può introdurre con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dice il Signore:"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io sono il pane vivo, disceso dal cielo."
+       ],
+       [
+        "Se uno mangia di questo pane vivrà in eterno"
+       ],
+       [
+        "e il pane che io darò è la mia carne"
+       ],
+       [
+        "per la vita del mondo."
+       ]
+      ],
+      "cite": "Gv 6, 51"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ],
+      "cite": "Gv 6, 54-55"
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi mangia la mia carne"
+       ],
+       [
+        "e beve il mio sangue"
+       ],
+       [
+        "ha la vita eterna"
+       ],
+       [
+        "e io lo risusciterò nell'ultimo giorno."
+       ],
+       [
+        "Perché la mia carne è vero cibo"
+       ],
+       [
+        "e il mio sangue vera bevanda."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il ministro prende la pisside con il corpo del Signore, la depone sull'altare e genuflette. Quindi fa l'introduzione alla preghiera del Signore con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Obbedienti alla parola del Salvatore"
+       ],
+       [
+        "e formati al suo divino insegnamento,"
+       ],
+       [
+        "osiamo dire:"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "e tutti insieme dicono:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre nostro, che sei nei cieli,"
+       ],
+       [
+        "sia santificato il tuo nome,"
+       ],
+       [
+        "venga il tuo regno,"
+       ],
+       [
+        "sia fatta la tua volontà, come in cielo così in terra."
+       ],
+       [
+        "Dacci oggi il nostro pane quotidiano,"
+       ],
+       [
+        "e rimetti a noi i nostri debiti"
+       ],
+       [
+        "come noi li rimettiamo ai nostri debitori,"
+       ],
+       [
+        "e non ci indurre in tentazione, ma liberaci dal male."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Poi il ministro genuflette, prende l'ostia e tenendola alquanto sollevata sulla pisside, rivolto ai comunicandi, dice:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Beati gli invitati alla Cena del Signore."
+       ],
+       [
+        "Ecco l'Agnello di Dio,"
+       ],
+       [
+        "che toglie i peccati del mondo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E i comunicandi soggiungono insieme:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Signore, non sono degno"
+       ],
+       [
+        "di partecipare alla tua mensa:"
+       ],
+       [
+        "ma di' soltanto una parola e io sarò salvato."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Prende poi la pisside, si reca verso i comunicandi, e presenta a ognuno l'ostia tenendola alquanto sollevata e dice:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Il corpo di Cristo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E riceve la comunione."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Terminata la distribuzione della comunione, il ministro fa cadere nella pisside gli eventuali frammenti rimasti sulla patena e, secondo l'opportunità, si lava le mani. Se avanzano particole, ripone il Sacramento nel tabernacolo e genuflette."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi, secondo l'opportunità, si può fare una pausa di sacro silenzio."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Poi il ministro dice l'orazione conclusiva:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Preghiamo."
+       ],
+       [
+        "Signore Gesù Cristo,"
+       ],
+       [
+        "che nel mirabile sacramento dell'Eucaristia"
+       ],
+       [
+        "ci hai lasciato il memoriale della tua Pasqua,"
+       ],
+       [
+        "fa' che adoriamo con viva fede"
+       ],
+       [
+        "il santo mistero del tuo corpo e del tuo sangue,"
+       ],
+       [
+        "per sentire sempre in noi i benefici della redenzione."
+       ],
+       [
+        "Tu che vivi e regni nei secoli dei secoli."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure NEL TEMPO DI PASQUA:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Preghiamo."
+       ],
+       [
+        "Infondi in noi, o Padre,"
+       ],
+       [
+        "lo Spirito della tua carità,"
+       ],
+       [
+        "perché saziati con i sacramenti pasquali,"
+       ],
+       [
+        "viviamo concordi nel vincolo del tuo amore."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi il ministro, se è sacerdote o diacono, rivolto verso il popolo, aprendo le braccia dice:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Il Signore sia con voi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "E con il tuo spirito."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Vi benedica Dio onnipotente, Padre e Figlio ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e Spirito Santo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E fatta la debita riverenza, il ministro si ritira."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "LA SANTA COMUNIONE AGLI INFERMI"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "RITI INIZIALI"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il ministro, entrando dal malato, rivolge a lui e a tutti i presenti un fraterno saluto. Lo può fare con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Pace a questa casa e a quanti vi abitano."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Poi, deposto il Santissimo sulla mensa, lo adora insieme con i presenti."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quindi, secondo l'opportunità, asperge con l'acqua benedetta l'infermo e la stanza, dicendo la formula seguente:"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Ravviva in noi, Signore,"
+       ],
+       [
+        "nel segno di quest'acqua benedetta,"
+       ],
+       [
+        "il ricordo del Battesimo"
+       ],
+       [
+        "e la nostra adesione a Cristo Signore,"
+       ],
+       [
+        "crocifisso e risorto per la nostra salvezza."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il ministro invita l'infermo e i presenti a fare l'atto penitenziale con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Fratelli, riconosciamo i nostri peccati e chiediamo il perdono del Signore per esser degni di partecipare a questo santo rito insieme al nostro fratello infermo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si fa una breve pausa di silenzio. Poi tutti insieme fanno la confessione:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confesso a Dio onnipotente e a voi, fratelli,"
+       ],
+       [
+        "che ho molto peccato"
+       ],
+       [
+        "in pensieri, parole, opere e omissioni,"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "e, battendosi il petto, dicono:"
+        }
+       ],
+       [
+        "per mia colpa, mia colpa, mia grandissima colpa."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "E proseguono:"
+        }
+       ],
+       [
+        "E supplico la beata sempre vergine Maria,"
+       ],
+       [
+        "gli angeli, i santi e voi, fratelli,"
+       ],
+       [
+        "di pregare per me il Signore Dio nostro."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Dio onnipotente abbia misericordia di noi,"
+       ],
+       [
+        "perdoni i nostri peccati,"
+       ],
+       [
+        "e ci conduca alla vita eterna."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A questo punto, secondo l'opportunità, uno dei presenti o lo stesso ministro può leggere un brano della sacra Scrittura come, per esempio, uno dei seguenti che si può introdurre con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dice il Signore:"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io sono il pane vivo, disceso dal cielo."
+       ],
+       [
+        "Se uno mangia di questo pane vivrà in eterno"
+       ],
+       [
+        "e il pane che io darò è la mia carne"
+       ],
+       [
+        "per la vita del mondo."
+       ]
+      ],
+      "cite": "Gv 6, 51"
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ],
+      "cite": "Gv 6, 54-55"
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi mangia la mia carne"
+       ],
+       [
+        "e beve il mio sangue"
+       ],
+       [
+        "ha la vita eterna"
+       ],
+       [
+        "e io lo risusciterò nell'ultimo giorno."
+       ],
+       [
+        "Perché la mia carne è vero cibo"
+       ],
+       [
+        "e il mio sangue vera bevanda."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il ministro introduce la preghiera del Signore con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E ora, tutti insieme, rivolgiamo al Padre la preghiera,"
+       ],
+       [
+        "che Gesù Cristo nostro Signore ci ha insegnato."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E tutti insieme dicono:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre nostro, che sei nei cieli,"
+       ],
+       [
+        "sia santificato il tuo nome,"
+       ],
+       [
+        "venga il tuo regno,"
+       ],
+       [
+        "sia fatta la tua volontà, come in cielo così in terra."
+       ],
+       [
+        "Dacci oggi il nostro pane quotidiano,"
+       ],
+       [
+        "e rimetti a noi i nostri debiti"
+       ],
+       [
+        "come noi li rimettiamo ai nostri debitori,"
+       ],
+       [
+        "e non ci indurre in tentazione, ma liberaci dal male."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il ministro fa l'ostensione del santissimo Sacramento dicendo:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Beati gli invitati alla Cena del Signore."
+       ],
+       [
+        "Ecco l'Agnello di Dio,"
+       ],
+       [
+        "che toglie i peccati del mondo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "L'infermo e gli altri che desiderano comunicarsi, dicono:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Signore, non sono degno"
+       ],
+       [
+        "di partecipare alla tua mensa:"
+       ],
+       [
+        "ma di' soltanto una parola e io sarò salvato."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il ministro si accosta all'infermo e gli presenta il Sacramento, dicendo:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Il corpo di Cristo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E riceve la comunione."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Terminata la distribuzione della comunione, il ministro fa le necessarie abluzioni."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Secondo l'opportunità, si può fare una pausa di sacro silenzio."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Poi il ministro dice l'orazione conclusiva:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Preghiamo."
+       ],
+       [
+        "Signore, Padre santo,"
+       ],
+       [
+        "la comunione al Corpo [Sangue] del tuo Figlio"
+       ],
+       [
+        "protegga e conforti questo nostro fratello,"
+       ],
+       [
+        "gli rechi sollievo nel corpo e nello spirito"
+       ],
+       [
+        "e sia per lui pegno sicuro di vita eterna."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure NEL TEMPO DI PASQUA:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Preghiamo."
+       ],
+       [
+        "Infondi in noi, o Padre,"
+       ],
+       [
+        "lo Spirito della tua carità,"
+       ],
+       [
+        "perché saziati con i sacramenti pasquali,"
+       ],
+       [
+        "viviamo concordi nel vincolo del tuo amore."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi il ministro, se è sacerdote o diacono, rivolto verso il popolo, aprendo le braccia dice:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Il Signore sia con voi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "E con il tuo spirito."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Vi benedica Dio onnipotente, Padre e Figlio ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e Spirito Santo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "BENEDIZIONE DELL'ACQUA LUSTRALE FUORI DELLA MESSA"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Premesse"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Tra i segni di cui la Chiesa si serve per benedire i fedeli, è di uso frequente, per antica consuetudine, quello dell'acqua. L'acqua benedetta richiama alla mente dei fedeli Cristo Signore in lui si compendia la benedizione divina, che si riversa su di noi, è lui che ha chiamato se stesso «acqua viva», e ha istituito per noi il Battesimo, sacramento dell'acqua, segno della benedizione che salva."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "La benedizione e l'aspersione dell'acqua si fa d'../misal_todo in domenica, secondo il rito prescritto nel Messale Romano. Quando invece la benedizione dell'acqua viene fatta fuori della Messa, si usa il formulario seguente."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il rito qui proposto può essere usato dal sacerdote e dal diacono."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Nel rispetto della struttura del rito e dei suoi elementi essenziali, si potranno adattare le singole parti alle circostanze di persone e di luoghi."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Rito della benedizione"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "INIZIO"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando tutti sono riuniti, si esegue un canto adatto o si fa una pausa di raccoglimento. Poi tutti si fanno il segno della croce, mentre il ministro dice:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nel nome del Padre e del Figlio e dello Spirito Santo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "SALUTO"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il ministro saluta i presenti con le seguenti parole o altre adatte, tratte di preferenza dalla Sacra Scrittura:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio, che ci ha rigenerati in Cristo"
+       ],
+       [
+        "dall'acqua e dallo Spirito Santo,"
+       ],
+       [
+        "sia con tutti voi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "E con il tuo spirito."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "o in un altro modo adatto."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "MONIZIONE INTRODUTTIVA"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il ministro introduce il rito di benedizione con queste parole o altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Con la benedizione dell'acqua noi facciamo memoria di Cristo, acqua viva, e del sacramento della nostra rinascita dall'acqua e dallo Spirito Santo. Ogni volta che ne saremo aspersi, o faremo con essa il segno della croce all'entrata della chiesa o nelle nostre case, renderemo grazie a Dio per il dono inestimabile del Battesimo e imploreremo il suo aiuto, perché possiamo confermare con la vita ciò che è stato trasmesso nella fede."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "LETTURA DELLA PAROLA DI DIO"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Un lettore o uno dei presenti legge un testo della Sacra Scrittura: Ez 36,25-26"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dice il Signore:"
+       ],
+       [
+        "«Vi prenderò dalle genti,"
+       ],
+       [
+        "vi radunerò da ogni terra e vi condurrò sul vostro suolo."
+       ],
+       [
+        "Vi aspergerò con acqua pura e sarete purificati;"
+       ],
+       [
+        "io vi purificherò da tutte le vostre sozzure"
+       ],
+       [
+        "e da tutti i vostri idoli;"
+       ],
+       [
+        "vi darò un cuore nuovo,"
+       ],
+       [
+        "metterò dentro di voi uno spirito nuovo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Breve silenzio."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "PREGHIERA DI BENEDIZIONE"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi il ministro dice:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preghiamo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Tutti pregano per qualche momento in silenzio."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "* Segue la preghiera del Signore:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre nostro."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il ministro, con le braccia allargate, pronuncia la preghiera di benedizione:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sii benedetto, Signore, Dio onnipotente,"
+       ],
+       [
+        "che in Cristo, acqua viva della nostra salvezza,"
+       ],
+       [
+        "ci hai colmato di ogni benedizione"
+       ],
+       [
+        "e hai fatto di noi una creatura nuova."
+       ],
+       [
+        "Fa' che, mediante l'aspersione"
+       ],
+       [
+        "e il devoto uso di quest'acqua,"
+       ],
+       [
+        "richiamiamo la realtà del Battesimo,"
+       ],
+       [
+        "perché purificati e fortificati"
+       ],
+       [
+        "con la grazia del tuo Spirito,"
+       ],
+       [
+        "ricuperiamo la giovinezza interiore"
+       ],
+       [
+        "e camminiamo sempre in novità di vita."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre santo, sorgente di ogni benedizione,"
+       ],
+       [
+        "volgi il tuo sguardo su di noi"
+       ],
+       [
+        "redenti dal tuo Figlio"
+       ],
+       [
+        "e rinati dall'acqua e dallo Spirito"
+       ],
+       [
+        "mediante il Battesimo;"
+       ],
+       [
+        "fa' che aspersi con quest'acqua benedetta,"
+       ],
+       [
+        "ci rinnoviamo nel corpo e nell'anima,"
+       ],
+       [
+        "per renderti un servizio puro e santo."
+       ],
+       [
+        "A te lode e gloria nei secoli."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Dopo la preghiera di benedizione, il ministro asperge se stesso e i presenti con l'acqua benedetta dicendo, secondo l'opportunità:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ravviva in noi, Signore,"
+       ],
+       [
+        "nel segno di quest'acqua benedetta,"
+       ],
+       [
+        "il ricordo del Battesimo e l'adesione a Cristo Signore,"
+       ],
+       [
+        "crocifisso e risorto per la nostra salvezza."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Nel frattempo si può eseguire un canto adatto."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "RITO PER CONFERIRE L'ASSOLUZIONE DALLE CENSURE"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Per i peccati attualmente riservati, o per se stessi o per effetto della censura, nessun cambiamento si apporta alla formula dell'assoluzione: basta che il confessore intenda assolvere anche da questi peccati riservati il penitente ben disposto, osservando - fino a nuove disposizioni e se la situazione lo comporta - le norme del diritto vigente sull'obbligo del ricorso all'Autorità competente. Il confessore tuttavia può, prima di assolvere dai peccati, assolvere dalla censura con la formula qui sotto proposta per l'uso fuori del sacramento della Penitenza."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando il sacerdote, a norma del diritto, assolve un penitente dalla censura fuori del sacramento della Penitenza, usa la formula seguente:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In forza del potere a me concesso"
+       ],
+       [
+        "io ti assolvo dal vincolo di scomunica"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "o sospensione o interdetto",
+        {
+         "m": "rubric",
+         "t": ")"
+        },
+        "."
+       ],
+       [
+        "Nel nome del Padre e del Figlio ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e dello Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amén."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "LA DISPENSA DALL' IRREGOLARITA'"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se il penitente è incorso in qualche irregolarità, il sacerdote che a norma del diritto, lo dispensa dall'irregolarità stessa, sia in confessione, dopo l'assoluzione, sia fuori del sacramento della Penitenza, dice:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In forza del potere a me concesso,"
+       ],
+       [
+        "io ti dispenso"
+       ],
+       [
+        "dall'irregolarità in cui sei incorso."
+       ],
+       [
+        "Nel nome del Padre e del Figlio ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e dello Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amén."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "L'UNZIONE SOTTO CONDIZIONE"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Nel dubbio se l'infermo sia ancora in vita, il sacerdote può conferire l'Unzione in questo modo:"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Accostandosi all'infermo, dice anzitutto, se ne ha il tempo:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rivolgiamo al Signore la preghiera della fede per il nostro fratello, ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", perché il Signore nella sua misericordia venga a visitarlo e confortarlo con la santa Unzione."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/."
+        },
+        " Ascoltaci, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E subito gli conferisce l'Unzione, adattando la formula in questo modo:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se vivi, per questa santa Unzione"
+       ],
+       [
+        "e la sua piissima misericordia"
+       ],
+       [
+        "ti aiuti il Signore con la grazia dello Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E, liberandoti dai peccati, ti salvi"
+       ],
+       [
+        "e nella sua bontà ti sollevi."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Estrema necessità"
+       ],
+       [
+        "(Battesimo, Confermazione, Penitenza, Unzione)"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Battesimo"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", io ti battezzo nel nome del Padre"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "(prima infusione)"
+        }
+       ],
+       [
+        "e del Figlio"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "(seconda infusione)"
+        }
+       ],
+       [
+        "e dello Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "(terza immersione o infusione)"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amén."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Cnfermazione"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In caso di estrema necessità, è sufficiente fare la crismazione con la formula sacramentale:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", ricevi il sigillo dello Spirito Santo che ti è dato in dono."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E il cresimato, se lo può, risponde:"
+        },
+        " Amén."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Penitenza"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io ti assolvo dai tuoi peccati nel nome del Padre e del Figlio ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e dello Spirito Santo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Unzione"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se si deve benedire l'olio, il sacerdote pronunzia questa formula di benedizione:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedici, ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Signore, quest'olio"
+       ],
+       [
+        "e benedici il nostro fratello infermo,"
+       ],
+       [
+        "che ne riceve l'Unzione e il conforto."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote prende l'Olio santo e unge l'infermo sulla fronte e sulle mani, dicendo una sola volta:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Per questa santa Unzione"
+       ],
+       [
+        "e la sua piissima misericordia"
+       ],
+       [
+        "ti aiuti il Signore con la grazia dello Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amén."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Para que, libre de tus pecados, te conceda la salvación y te conforte en tu enfermedad."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amén."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "E, liberandoti dai peccati, ti salvi"
+       ],
+       [
+        "e nella sua bontà ti sollevi."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amén."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "LA CONFERMAZIONE IN PERICOLO DI MORTE"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In caso di urgenza, il sacerdote impone le mani sull'infermo, dicendo:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio onnipotente,"
+       ],
+       [
+        "Padre del Signore nostro Gesù Cristo,"
+       ],
+       [
+        "che hai rigenerato questo tuo figlio"
+       ],
+       [
+        "dall'acqua e dallo Spirito Santo"
+       ],
+       [
+        "liberandolo dal peccato,"
+       ],
+       [
+        "infondi in lui il tuo santo Spirito Paràclito:"
+       ],
+       [
+        "spirito di sapienza e di intelletto,"
+       ],
+       [
+        "spirito di consiglio e di fortezza,"
+       ],
+       [
+        "spirito di scienza e di pietà,"
+       ],
+       [
+        "e riempilo dello spirito del tuo santo timore."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi, intinta nel Crisma l'estremità del pollice della mano destra, traccia con il pollice stesso un segno di croce sulla fronte del cresimando, dicendo:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ", ricevi il sigillo dello Spirito Santo che ti è dato in dono."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Amén."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Nei singoli casi, e tenute presenti le circostanze, si possono aggiungere altri elementi della preparazione e della conclusione, come indicato nel Rito della Confermazione."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "RITO CONTINUO DELLA PENITENZA, DELL'UNZIONE E DEL VIATICO"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se l'infermo desidera confessarsi, il sacerdote ascolti possibilmente la confessione prima del conferimento dell'Unzione e del Viatico. Nel caso che solo durante la celebrazione sia possibile al sacerdote ascoltare la confessione sacramentale dell'infermo, l'ascolti all'inizio del rito, prima dell'Unzione. Quando durante il rito non si fa la confessione, è bene inserire l'atto penitenziale."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "In caso di pericolo prossimo, si dia prontamente all'infermo l'Unzione sulla fronte soltanto e poi il Viatico."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se il pericolo si fa imminente, gli si dia subito il Viatico, a norma del n. 30, in modo che nel suo passaggio da questa all'altra vita, rinvigorito dal Corpo di Cristo, abbia il sostegno e il conforto del pegno della risurrezione: in pericolo di morte infatti, c'è l'obbligo per i fedeli di ricevere l'Eucaristia."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "La Confermazione in pericolo di morte e l'Unzione degli infermi non si dovrebbero conferire con rito continuo, per evitare che si faccia confusione tra due sacramenti diversi, conferiti entrambi con il segno dell'unzione."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se però fosse necessario, si conferisca la Confermazione immediatamente prima della benedizione dell'olio degli infermi, omettendo l'imposizione delle mani indicata nel rito dell'Unzione."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "RITI INIZIALI"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote, entrando dal malato, rivolge a lui e a tutti i presenti un fraterno saluto. Lo può fare con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pace a questa casa e a quanti vi abitano."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La pace del Signore sia con voi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Poi, deposto il Santissimo sulla mensa, lo adora insieme con i presenti."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "* Lo può fare con una delle seguenti antifone o con altre formule."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O sacro convito, in cui Cristo è nostro cibo,"
+       ],
+       [
+        "si perpetua il memoriale della sua Pasqua,"
+       ],
+       [
+        "l'anima nostra è colmata di grazia,"
+       ],
+       [
+        "e ci è dato il pegno della gloria futura."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ecco il pane degli angeli,"
+       ],
+       [
+        "pane dei pellegrini,"
+       ],
+       [
+        "vero pane dei figli."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Buon pastore, vero pane,"
+       ],
+       [
+        "o Gesù, pietà di noi:"
+       ],
+       [
+        "nutrici e difendici,"
+       ],
+       [
+        "portaci ai beni eterni"
+       ],
+       [
+        "nella terra dei viventi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu che tutto sai e puoi,"
+       ],
+       [
+        "che ci nutri sulla terra,"
+       ],
+       [
+        "conduci i tuoi fratelli"
+       ],
+       [
+        "alla tavola del cielo"
+       ],
+       [
+        "nella gioia dei tuoi santi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Adoriamo, o Cristo, il tuo corpo glorioso,"
+       ],
+       [
+        "nato dalla Vergine Maria;"
+       ],
+       [
+        "per noi hai voluto soffrire,"
+       ],
+       [
+        "per noi ti sei offerto vittima sulla croce"
+       ],
+       [
+        "e dal tuo fianco squarciato"
+       ],
+       [
+        "hai versato l'acqua e il sangue del nostro riscatto."
+       ],
+       [
+        "Sii nostro conforto nell'ultimo passaggio"
+       ],
+       [
+        "e accoglici benigno nella casa del Padre:"
+       ],
+       [
+        "o Gesù dolce, o Gesù pio,"
+       ],
+       [
+        "o Gesù, Figlio di Maria."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi, secondo l'opportunità, asperge con l'acqua benedetta l'infermo e la stanza, dicendo la formula seguente:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ravviva in noi, Signore,"
+       ],
+       [
+        "nel segno di quest'acqua benedetta,"
+       ],
+       [
+        "il ricordo del Battesimo"
+       ],
+       [
+        "e la nostra adesione a Cristo Signore,"
+       ],
+       [
+        "crocifisso e risorto per la nostra salvezza."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se necessario, il sacerdote prepari fraternamente l'infermo alla celebrazione dei sacramenti, suggerendo, secondo l'opportunità, qualche breve testo del Vangelo, che richiami la penitenza e l'amor di Dio. Può anche fare questa monizione, o un' altra simile, meglio adatta alla condizione dell'infermo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli carissimi, Cristo Gesù nostro Signore è sempre in mezzo a noi e ci sostiene con la grazia dei suoi sacramenti: per mezzo dei sacerdoti suoi ministri egli assolve i peccatori pentiti, conforta gli infermi con la santa Unzione e in coloro che attendono la sua venuta rafforza la speranza della vita eterna col santo Viatico del suo Corpo. Uniti dunque nella carità e nella preghiera, aiutiamo questo nostro fratello nel suo cammino verso il Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "PENITENZA"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Confessione sacramentale"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se necessario, il sacerdote riceva la confessione sacramentale dell'infermo; in caso di necessità, e nell'impossibilità di un'altra soluzione, la confes­sione può essere generica."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Atto penitenziale"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando l'infermo non fa la confessione sacramentale o quando vi sono altri che desiderano comunicarsi, il sacerdote invita l'infermo e i presenti a fare l'atto penitenziale con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, riconosciamo i nostri peccati"
+       ],
+       [
+        "e chiediamo il perdono del Signore"
+       ],
+       [
+        "per esser degni di partecipare a questo santo rito."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si fa una breve pausa di silenzio."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Poi tutti insieme fanno la confessione:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confesso a Dio onnipotente e a voi, fratelli,"
+       ],
+       [
+        "che ho molto peccato"
+       ],
+       [
+        "in pensieri, parole, opere e omissioni,"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "e, battendosi il petto, dicono:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "per mia colpa, mia colpa, mia grandissima colpa."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E proseguono:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E supplico la beata sempre vergine Maria,"
+       ],
+       [
+        "gli angeli, i santi e voi, fratelli,"
+       ],
+       [
+        "di pregare per me il Signore Dio nostro."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote conclude:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente abbia misericordia di noi,"
+       ],
+       [
+        "perdoni i nostri peccati"
+       ],
+       [
+        "e ci conduca alla vita eterna."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Indulgenza plenaria"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacramento della Penitenza o l'atto penitenziale si può concludere con l'indulgenza plenaria in articulo mortis. Il sacerdote la concede con questa formula:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In virtù della facoltà datami dalla Sede Apostolica,"
+       ],
+       [
+        "io ti concedo l'indulgenza plenaria"
+       ],
+       [
+        "e la remissione di tutti i peccati,"
+       ],
+       [
+        "nel nome del Padre e del Figlio",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e dello Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per i santi misteri della nostra redenzione,"
+       ],
+       [
+        "Dio onnipotente ti condoni ogni pena"
+       ],
+       [
+        "della vita presente e futura,"
+       ],
+       [
+        "ti apra le porte del paradiso"
+       ],
+       [
+        "e ti conduca alla gioia eterna."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "PROFESSIONE DI FEDE E PREGHIERA LITANICA"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi, se le condizioni dell'infermo lo permettono, si fa la professione di fede del Battesimo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote si rivolge all'infermo con queste parole:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Credi in Dio, Padre onnipotente,"
+       ],
+       [
+        "creatore del cielo e della terra?"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Credo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Credi in Gesù Cristo,"
+       ],
+       [
+        "suo unico Figlio, nostro Signore,"
+       ],
+       [
+        "che nacque da Maria Vergine,"
+       ],
+       [
+        "mori e fu sepolto,"
+       ],
+       [
+        "è risuscitato dai morti"
+       ],
+       [
+        "e siede alla destra del Padre?"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Credo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Credi nello Spirito Santo,"
+       ],
+       [
+        "la santa Chiesa cattolica,"
+       ],
+       [
+        "la comunione dei santi,"
+       ],
+       [
+        "la remissione dei peccati,"
+       ],
+       [
+        "la risurrezione della carne e la vita eterna?"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Credo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le invocazioni che seguono si possono anche formulare diversamente, per meglio esprimere la preghiera del malato e dei presenti."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " sta per ricevere il conforto dei sacramenti della fede; in unione con i familiari e con tutta la santa Chiesa, preghiamo il Signore dicendo:"
+       ],
+       [
+        "Ascoltaci, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Perché il Padre veda in lui il volto sofferente del suo Figlio, preghiamo."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. Ascoltaci, Signore."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perché nel suo amore lo aiuti e lo salvi, preghiamo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascoltaci, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perché gli doni la sua forza e la sua pace, preghiamo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascoltaci, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "CONFERMAZIONE"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se nel rito continuo si conferisce il sacramento della Confermazione, il sacerdote si regola come viene indicato più oltre, nei nn. 205-206. Poi, omessa l'imposizione delle mani, di cui al n. 178, conferisce l'Unzione, come descritto qui sotto."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "SACRA UNZIONE"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Imposizione delle mani"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote impone le mani sul capo dell'infermo, senza nulla dire."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Rendimento di grazie sull'Olio già benedetto"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi il sacerdote dice la seguente preghiera di rendimento di grazie sull'Olio già benedetto."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedetto sei tu, o Dio, Padre onnipotente,"
+       ],
+       [
+        "che per noi e per la nostra salvezza"
+       ],
+       [
+        "hai mandato nel mondo il tuo Figlio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, Signore!"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedetto sei tu, o Dio, Figlio Unigenito,"
+       ],
+       [
+        "che ti sei fatto uomo per guarire le nostre infermità."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, Signore!"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedetto sei tu, o Dio, Spirito Santo Paràclito,"
+       ],
+       [
+        "che con la tua forza inesauribile"
+       ],
+       [
+        "sostieni la nostra debolezza."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, Signore!"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore, il nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "che riceve nella fede l'unzione di questo santo Olio,"
+       ],
+       [
+        "vi trovi sollievo nei suoi dolori"
+       ],
+       [
+        "e conforto nelle sue sofferenze."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se si deve benedire l'olio, il sacerdote pronunzia questa formula di benedizione:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedici, ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Signore, quest'olio"
+       ],
+       [
+        "e benedici il nostro fratello infermo,"
+       ],
+       [
+        "che ne riceve l'unzione e il conforto."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Unzione"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote prende l'Olio santo e unge l'infermo sulla fronte e sulle mani, dicendo una sola volta:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per questa santa Unzione"
+       ],
+       [
+        "e la sua piissima misericordia"
+       ],
+       [
+        "ti aiuti il Signore con la grazia dello Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E, liberandoti dai peccati, ti salvi"
+       ],
+       [
+        "e nella sua bontà ti sollevi."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi il sacerdote può dire la seguente orazione:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preghiamo."
+       ],
+       [
+        "O Dio, nostro Padre, consolatore degli afflitti,"
+       ],
+       [
+        "esaudisci la preghiera di questo nostro fratello infermo"
+       ],
+       [
+        "che si affida alla tua misericordia:"
+       ],
+       [
+        "fa' che la grazia di questa santa Unzione"
+       ],
+       [
+        "lo conforti nella sua sofferenza"
+       ],
+       [
+        "e che il Viatico del Corpo e Sangue del tuo Figlio"
+       ],
+       [
+        "lo sostenga nel passaggio alla vita eterna."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote invita i presenti a recitare la preghiera del Signore, introducendola con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E ora, tutti insieme, rivolgiamo al Padre la preghiera,"
+       ],
+       [
+        "che Gesù Cristo nostro Signore ci ha insegnato."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E tutti insieme dicono:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre nostro, che sei nei cieli,"
+       ],
+       [
+        "sia santificato il tuo nome,"
+       ],
+       [
+        "venga il tuo regno,"
+       ],
+       [
+        "sia fatta la tua volontà,"
+       ],
+       [
+        "come in cielo cosi in terra."
+       ],
+       [
+        "Dacci oggi il nostro. pane quotidiano,"
+       ],
+       [
+        "e rimetti a noi i nostri debiti"
+       ],
+       [
+        "come noi li rimettiamo ai nostri debitori,"
+       ],
+       [
+        "e non ci indurre in tentazione,"
+       ],
+       [
+        "ma liberaci dal male."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote fa l' ostensione del Santissimo Sacramento dicendo:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Beati gli invitati alla cena del Signore."
+       ],
+       [
+        "Ecco l'Agnello di Dio, che toglie i peccati del mondo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "L'infermo, se può, e gli altri che desiderano comunicarsi, dicono:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Signore, non sono degno di partecipare alla tua mensa: ma di' soltanto una parola e io sarò salvato."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote si accosta all'infermo e gli presenta il Sacramento, dicendo:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Corpo di Cristo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Sangue di Cristo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "L'infermo risponde: Amen."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E subito il sacerdote aggiunge:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Egli ti custodisca e ti conduca alla vita eterna."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "L'infermo risponde: Amen."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E riceve la Comunione."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "I presenti che desiderano comunicarsi ricevono il Sacramento nel modo solito."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Terminata la distribuzione della Comunione, il sacerdote fa le necessarie abluzioni."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Secondo l'opportunità, si può fare una pausa di sacro silenzio."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote dice poi l'orazione conclusiva:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preghiamo."
+       ],
+       [
+        "Guarda, o Padre, a questo nostro fratello"
+       ],
+       [
+        "che si affida alla tua promessa"
+       ],
+       [
+        "nella fede in Cristo, via, verità e vita,"
+       ],
+       [
+        "e fa' che, fortificato dal Corpo ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "Sangue",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " del tuo Figlio,"
+       ],
+       [
+        "venga incontro a te nella pace del tuo regno."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O Dio,"
+       ],
+       [
+        "salvezza eterna di chi crede in te,"
+       ],
+       [
+        "fa' che il nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "sostenuto da questo sacramento,"
+       ],
+       [
+        "viatico per la vita eterna,"
+       ],
+       [
+        "giunga senza timore"
+       ],
+       [
+        "nella luce della tua casa."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore, Padre santo,"
+       ],
+       [
+        "la comunione al Corpo ",
+        {
+         "m": "rubric",
+         "t": "["
+        },
+        "Sangue",
+        {
+         "m": "rubric",
+         "t": "]"
+        },
+        " del tuo Figlio"
+       ],
+       [
+        "protegga e conforti questo nostro fratello,"
+       ],
+       [
+        "gli rechi sollievo nel corpo e nello spirito"
+       ],
+       [
+        "e sia per lui pegno sicuro di vita eterna."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "RITI DI CONCLUSIONE"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi il sacerdote benedice l'infermo e i presenti o tracciando su di essi il segno della croce con la pisside, se ancora vi è il Sacramento, o usando una delle seguenti formule o altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vi benedica Dio onnipotente, Padre e Figlio X e Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore Gesù Cristo sia accanto a te per proteggerti."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sia dinanzi a te per guidarti, sia dietro a te per difenderti."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rivolga a te il suo sguardo, ti assista e ti benedica."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E su voi tutti qui presenti, scenda la benedizione di Dio onnipotente, Padre e Figlio ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "RITO DELL'UNZIONE SENZA IL VIATICO"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se, date le circostanze, ci si dovesse limitare a conferire all'infermo in pericolo prossimo di morte l'Unzione soltanto, senza il Viatico, si compia il seguente rito: "
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "RITI INIZIALI"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote, entrando dal malato, rivolge a lui e a tutti i presenti un fraterno saluto. Lo può fare con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pace a questa casa e a quanti vi abitano."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "La pace del Signore sia con voi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi, secondo l'opportunità, asperge con l'acqua benedetta l'infermo e la stanza, dicendo la formula seguente:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ravviva in noi, Signore,"
+       ],
+       [
+        "nel segno di quest'acqua benedetta,"
+       ],
+       [
+        "il ricordo del Battesimo"
+       ],
+       [
+        "e la nostra adesione a Cristo Signore,"
+       ],
+       [
+        "crocifisso e risorto per la nostra salvezza."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se necessario, il sacerdote prepari fraternamente l'infermo alla celebrazione dei sacramenti, suggerendo, secondo l'opportunità, qualche breve testo del Vangelo, che richiami la penitenza e l'amor di Dio. Può anche fare questa monizione, o un' altra simile, meglio adatta alla condizione dell'infermo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli carissimi, Cristo Gesù, nostro Signore, ci dice, per mezzo dell'apostolo Giacomo: «Chi è malato, chiami a sé i presbiteri della Chiesa e preghino su di lui, dopo averlo unto con olio, nel nome del Signore. E la preghiera fatta con fede salverà il malato: il Signore lo rialzerà e se ha commesso peccati, gli saranno perdonati ». Raccomandiamo dunque il nostro fratello infermo alla bontà e alla potenza di Cristo, perché gli dia sollievo e salvezza."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "PENITENZA"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Confessione sacramentale"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se necessario, il sacerdote riceva la confessione sacramentale dell'infermo; in caso di necessità, e nell'impossibilità di un'altra soluzione, la confes­sione può essere generica."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Atto penitenziale"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando l'infermo non fa la confessione sacramentale o quando vi sono altri che desiderano comunicarsi, il sacerdote invita l'infermo e i presenti a fare l'atto penitenziale con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, riconosciamo i nostri peccati"
+       ],
+       [
+        "e chiediamo il perdono del Signore"
+       ],
+       [
+        "per esser degni di partecipare a questo santo rito."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si fa una breve pausa di silenzio."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Poi tutti insieme fanno la confessione:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confesso a Dio onnipotente e a voi, fratelli,"
+       ],
+       [
+        "che ho molto peccato"
+       ],
+       [
+        "in pensieri, parole, opere e omissioni,"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "e, battendosi il petto, dicono:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "per mia colpa, mia colpa, mia grandissima colpa."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E proseguono:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E supplico la beata sempre vergine Maria,"
+       ],
+       [
+        "gli angeli, i santi e voi, fratelli,"
+       ],
+       [
+        "di pregare per me il Signore Dio nostro."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote conclude:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio onnipotente abbia misericordia di noi,"
+       ],
+       [
+        "perdoni i nostri peccati"
+       ],
+       [
+        "e ci conduca alla vita eterna."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Indulgenza plenaria"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacramento della Penitenza o l'atto penitenziale si può concludere con l'indulgenza plenaria in articulo mortis. Il sacerdote la concede con questa formula:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In virtù della facoltà datami dalla Sede Apostolica,"
+       ],
+       [
+        "io ti concedo l'indulgenza plenaria"
+       ],
+       [
+        "e la remissione di tutti i peccati,"
+       ],
+       [
+        "nel nome del Padre e del Figlio",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e dello Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per i santi misteri della nostra redenzione,"
+       ],
+       [
+        "Dio onnipotente ti condoni ogni pena"
+       ],
+       [
+        "della vita presente e futura,"
+       ],
+       [
+        "ti apra le porte del paradiso"
+       ],
+       [
+        "e ti conduca alla gioia eterna."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "PROFESSIONE DI FEDE E PREGHIERA LITANICA"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi, se le condizioni dell'infermo lo permettono, si fa la professione di fede del Battesimo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote si rivolge all'infermo con queste parole:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Credi in Dio, Padre onnipotente,"
+       ],
+       [
+        "creatore del cielo e della terra?"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Credo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Credi in Gesù Cristo,"
+       ],
+       [
+        "suo unico Figlio, nostro Signore,"
+       ],
+       [
+        "che nacque da Maria Vergine,"
+       ],
+       [
+        "mori e fu sepolto,"
+       ],
+       [
+        "è risuscitato dai morti"
+       ],
+       [
+        "e siede alla destra del Padre?"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Credo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Credi nello Spirito Santo,"
+       ],
+       [
+        "la santa Chiesa cattolica,"
+       ],
+       [
+        "la comunione dei santi,"
+       ],
+       [
+        "la remissione dei peccati,"
+       ],
+       [
+        "la risurrezione della carne e la vita eterna?"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Credo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Le invocazioni che seguono si possono anche formulare diversamente, per meglio esprimere la preghiera del malato e dei presenti."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        " sta per ricevere il conforto dei sacramenti della fede; in unione con i familiari e con tutta la santa Chiesa, preghiamo il Signore dicendo:"
+       ],
+       [
+        "Ascoltaci, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Perché il Padre veda in lui il volto sofferente del suo Figlio, preghiamo."
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. Ascoltaci, Signore."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perché nel suo amore lo aiuti e lo salvi, preghiamo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascoltaci, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perché gli doni la sua forza e la sua pace, preghiamo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ascoltaci, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "CONFERMAZIONE"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se nel rito continuo si conferisce il sacramento della Confermazione, il sacerdote si regola come viene indicato più oltre, nei nn. 205-206. Poi, omessa l'imposizione delle mani, di cui al n. 178, conferisce l'Unzione, come descritto qui sotto."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "SACRA UNZIONE"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Imposizione delle mani"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote impone le mani sul capo dell'infermo, senza nulla dire."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Rendimento di grazie sull'Olio già benedetto"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi il sacerdote dice la seguente preghiera di rendimento di grazie sull'Olio già benedetto."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedetto sei tu, o Dio, Padre onnipotente,"
+       ],
+       [
+        "che per noi e per la nostra salvezza"
+       ],
+       [
+        "hai mandato nel mondo il tuo Figlio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, Signore!"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedetto sei tu, o Dio, Figlio Unigenito,"
+       ],
+       [
+        "che ti sei fatto uomo per guarire le nostre infermità."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, Signore!"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedetto sei tu, o Dio, Spirito Santo Paràclito,"
+       ],
+       [
+        "che con la tua forza inesauribile"
+       ],
+       [
+        "sostieni la nostra debolezza."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, Signore!"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore, il nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "che riceve nella fede l'unzione di questo santo Olio,"
+       ],
+       [
+        "vi trovi sollievo nei suoi dolori"
+       ],
+       [
+        "e conforto nelle sue sofferenze."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se si deve benedire l'olio, il sacerdote pronunzia questa formula di benedizione:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedici, ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Signore, quest'olio"
+       ],
+       [
+        "e benedici il nostro fratello infermo,"
+       ],
+       [
+        "che ne riceve l'unzione e il conforto."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Unzione"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote prende l'Olio santo e unge l'infermo sulla fronte e sulle mani, dicendo una sola volta:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per questa santa Unzione"
+       ],
+       [
+        "e la sua piissima misericordia"
+       ],
+       [
+        "ti aiuti il Signore con la grazia dello Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E, liberandoti dai peccati, ti salvi"
+       ],
+       [
+        "e nella sua bontà ti sollevi."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacerdote invita i presenti a recitare la preghiera del Signore, introducendola con queste parole o con altre simili:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E ora, tutti insieme, rivolgiamo al Padre la preghiera,"
+       ],
+       [
+        "che Gesù Cristo nostro Signore ci ha insegnato."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "E tutti insieme dicono:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre nostro, che sei nei cieli,"
+       ],
+       [
+        "sia santificato il tuo nome,"
+       ],
+       [
+        "venga il tuo regno,"
+       ],
+       [
+        "sia fatta la tua volontà,"
+       ],
+       [
+        "come in cielo cosi in terra."
+       ],
+       [
+        "Dacci oggi il nostro. pane quotidiano,"
+       ],
+       [
+        "e rimetti a noi i nostri debiti"
+       ],
+       [
+        "come noi li rimettiamo ai nostri debitori,"
+       ],
+       [
+        "e non ci indurre in tentazione,"
+       ],
+       [
+        "ma liberaci dal male."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quindi il sacerdote prosegue dicendo una delle seguenti orazioni:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Per una persona anziana:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guarda con bontà, Signore, questo nostro fratello"
+       ],
+       [
+        "che ha ricevuto con fede la santa Unzione,"
+       ],
+       [
+        "sostegno alla debolezza della sua tarda età;"
+       ],
+       [
+        "confortalo nel corpo e nell'anima"
+       ],
+       [
+        "con la pienezza del tuo Santo Spirito,"
+       ],
+       [
+        "perché sia sempre saldo nella fede, sereno nella speranza"
+       ],
+       [
+        "e lieto di dare a tutti testimonianza del tuo amore."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Per un infermo in grave pericolo:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore Gesù, redentore del mondo,"
+       ],
+       [
+        "che hai preso su di te i nostri dolori"
+       ],
+       [
+        "e hai portato nella tua passione"
+       ],
+       [
+        "le nostre sofferenze,"
+       ],
+       [
+        "ascolta la preghiera che ti rivolgiamo"
+       ],
+       [
+        "per il nostro fratello infermo:"
+       ],
+       [
+        "donagli fiducia e ravviva la sua speranza"
+       ],
+       [
+        "perché sia sollevato nel corpo e nello spirito."
+       ],
+       [
+        "Tu che vivi e regni nei secoli dei secoli."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Per un agonizzante:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Padre clementissimo,"
+       ],
+       [
+        "che conosci il cuore degli uomini e accogli i figli"
+       ],
+       [
+        "che tornano a te,"
+       ],
+       [
+        "abbi pietà del nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "nella sua agonia;"
+       ],
+       [
+        "fa' che la santa Unzione"
+       ],
+       [
+        "con la preghiera della nostra fede"
+       ],
+       [
+        "lo sostenga e lo conforti"
+       ],
+       [
+        "perché nella gioia del tuo perdono"
+       ],
+       [
+        "si abbandoni fiducioso"
+       ],
+       [
+        "tra le braccia della tua misericordia."
+       ],
+       [
+        "Per Cristo Gesù, tuo Figlio e nostro Signore,"
+       ],
+       [
+        "che ha vinto la morte"
+       ],
+       [
+        "e ci ha aperto il passaggio alla vita eterna,"
+       ],
+       [
+        "e vive e regna con te per tutti i secoli dei secoli."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Poi il sacerdote benedice l'infermo e i presenti:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vi benedica Dio onnipotente, Padre e Figlio ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Indulgenza plenaria"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Il sacramento della Penitenza o l'atto penitenziale si può concludere con l'indulgenza plenaria in articulo mortis. Il sacerdote la concede con questa formula:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In virtù della facoltà datami dalla Sede Apostolica,"
+       ],
+       [
+        "io ti concedo l'indulgenza plenaria"
+       ],
+       [
+        "e la remissione di tutti i peccati,"
+       ],
+       [
+        "nel nome del Padre e del Figlio ",
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " e dello Spirito Santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si no hay sacerdote, la Iglesia concede esa misma indulgencia plenaria con tal que esa persona haya rezado habitualmente algunas oraciones a lo largo de su vida. En este caso, la Iglesia suple las tres condiciones habituales para ganar la indulgencia plenaria."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "RACCOMANDAZIONE DEI MORIBONDI"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "L'amore verso il prossimo deve spingere i cristiani a star vicino ai loro fratelli moribondi e ad esprimere la loro fraternità implorando con essi e per essi la misericordia di Dio e il conforto della fiducia in Cristo Gesù."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si propongono qui orazioni, litanie, giaculatorie, salmi, letture bibliche diverse. Esse hanno lo scopo di aiutare il moribondo, ancora in possesso delle sue facoltà, ad accettare, sull'esempio di Cristo morente in croce, l'innata ansietà della morte e a superarla nella speranza della risurrezione e della vita, con la forza divina di Cristo, che morendo ha distrutto la nostra morte."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Coloro che assistono il moribondo, anche se questi avesse già perduto la conoscenza, possono trarre un grande conforto da queste preghiere, che si richiamano al senso pasquale della morte cristiana; ed è bene riaffermare anche con un gesto visibile questo senso pasquale, tracciando sulla fronte del moribondo il segno della croce, quel segno stesso che fu per la prima volta tracciato su di lui nel giorno del suo Battesimo."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Delle preghiere e delle letture qui indicate è pienamente libera la scelta; se ne possono anzi aggiungere delle altre, purché adatte alle condizioni spirituali e fisiche del moribondo e alle altre circostanze di luogo e di persona. Si recitino lentamente, a voce sommessa, intercalando momenti di silenzio o suggerendo a intervalli le brevi giaculatorie proposte, eventualmente riprese e ripetute dal moribondo stesso."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Appena il morente sarà spirato, tutti si inginocchiano, e il sacerdote o il diacono o uno dei presenti recita l'orazione indicata."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "I sacerdoti e i diaconi procurino, per quanto possibile, di trovarsi perso­nalmente accanto ai moribondi e di recitare con i familiari le preghiere della raccomandazione e quelle dell'ultimo respiro: con la loro presenza essi esprimono con maggior evidenza che il cristiano muore nella comunione della Chiesa. Qualora non potessero, per altri gravi compiti pastorali, essere personalmente presenti, raccomandino a laici ben preparati che nell'assistere i moribondi recitino con loro queste o altre preghiere, servendosi di opportuni sussidi."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "FORMULE BREVI, PAROLE DI GESÙ, GIACULATORIE"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Chi ci separerà dall'amore di Cristo? ",
+        {
+         "m": "rubric",
+         "t": "Rm 8, 35"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Sia che viviamo, sia che moriamo, siamo del Signore. ",
+        {
+         "m": "rubric",
+         "t": "Rm 14, 8"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Riceveremo una dimora eterna nei cieli. ",
+        {
+         "m": "rubric",
+         "t": "2 Cor 5, 1"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Saremo sempre con il Signore. ",
+        {
+         "m": "rubric",
+         "t": "1 Ts 4,17"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Vedremo Dio così come egli è. ",
+        {
+         "m": "rubric",
+         "t": "1 Gv 3, 2"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Siamo passati dalla morte alla vita, perché amiamo i fratelli. ",
+        {
+         "m": "rubric",
+         "t": "1 Gv 3, 14"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " A te, Signore, innalzo l'anima mia. ",
+        {
+         "m": "rubric",
+         "t": "Sal 24,1"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Il Signore è la mia luce e la mia salvezza. ",
+        {
+         "m": "rubric",
+         "t": "Sal 26,1"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Sono certo di contemplare la bontà del Signore nella terra dei viventi. ",
+        {
+         "m": "rubric",
+         "t": "Sal 26,13"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " L'anima mia ha sete del Dio vivente. ",
+        {
+         "m": "rubric",
+         "t": "Sal 41,3"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Se dovessi camminare in una valle oscura, non temerei alcun male, perché tu sei con me. ",
+        {
+         "m": "rubric",
+         "t": "Sal 22, 4"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " «Venite, benedetti del Padre mio, ricevete in eredità il regno preparato per voi». ",
+        {
+         "m": "rubric",
+         "t": "Mt 25, 34"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " «In verità ti dico, oggi sarai con me nel paradiso ». ",
+        {
+         "m": "rubric",
+         "t": "Lc 23, 43"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " «Nella casa del Padre mio vi sono molti posti». ",
+        {
+         "m": "rubric",
+         "t": "Gv 14, 2"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " «Io vado a prepararvi un posto, e vi prenderò con me». ",
+        {
+         "m": "rubric",
+         "t": "Gv 14, 2-3"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " «Voglio che siano con me dove sono io». ",
+        {
+         "m": "rubric",
+         "t": "Gv 17,24"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Chiunque crede nel Figlio ha la vita eterna. ",
+        {
+         "m": "rubric",
+         "t": "Gv 6, 40"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Mi affido alle tue mani, Signore. ",
+        {
+         "m": "rubric",
+         "t": "Sal 30, 6a"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Signore Gesù, accogli il mio spirito. ",
+        {
+         "m": "rubric",
+         "t": "At 7, 59"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Santa Maria, prega per me."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " San Giuseppe, prega per me."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "–"
+        },
+        " Gesù, Giuseppe, Maria, assistetemi nell'ultima agonia."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "LETTURA DELLA PAROLA DI DIO"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "i può fare una scelta tra le letture bibliche indicate più oltre nel Lezionario o tra le seguenti:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Is 35,3-4.6c-7.10"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irrobustite le mani fiacche,"
+       ],
+       [
+        "rendete salde le ginocchia vacillanti."
+       ],
+       [
+        "Dite agli smarriti di cuore:"
+       ],
+       [
+        "«Coraggio! Non temete;"
+       ],
+       [
+        "ecco il vostro Dio,"
+       ],
+       [
+        "giunge la vendetta,"
+       ],
+       [
+        "la ricompensa divina."
+       ],
+       [
+        "Egli viene a salvarvi»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allora scaturiranno acque nel deserto,"
+       ],
+       [
+        "scorreranno torrenti nella steppa."
+       ],
+       [
+        "La terra bruciata diventerà una palude,"
+       ],
+       [
+        "il luogo riarso si muterà in sorgenti d'acqua."
+       ],
+       [
+        "I luoghi dove si sdraiavano gli sciacalli"
+       ],
+       [
+        "diventeranno canneti e giuncaie."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Su di essa ritorneranno i riscattati dal Signore"
+       ],
+       [
+        "e verranno in Sion con giubilo;"
+       ],
+       [
+        "felicità perenne splenderà sul loro capo;"
+       ],
+       [
+        "gioia e felicità li seguiranno"
+       ],
+       [
+        "e fuggiranno tristezza e pianto."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Gb 19, 1.23-27"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rispondendo Giobbe disse:"
+       ],
+       [
+        "«Oh, se le mie parole si scrivessero,"
+       ],
+       [
+        "se si fissassero in un libro,"
+       ],
+       [
+        "fossero impresse con stilo di ferro sul piombo,"
+       ],
+       [
+        "s'incidessero per sempre sulla roccia!"
+       ],
+       [
+        "Io lo so che il mio Redentore è vivo"
+       ],
+       [
+        "e che, ultimo, si ergerà sulla polvere!"
+       ],
+       [
+        "Dopo che questa mia pelle sarà distrutta,"
+       ],
+       [
+        "senza la mia carne, vedrò Dio."
+       ],
+       [
+        "Io lo vedrò, io stesso,"
+       ],
+       [
+        "e i miei occhi lo contempleranno non da straniero»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Sal 22"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Su pascoli erbosi il Signore mi fa riposare,"
+       ],
+       [
+        "ad acque tranquille mi conduce."
+       ],
+       [
+        "Mi rinfranca, mi guida per il giusto cammino,"
+       ],
+       [
+        "per amore del suo nome."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se dovessi camminare in una valle oscura,"
+       ],
+       [
+        "non temerei alcun male, perché tu sei con me."
+       ],
+       [
+        "Il tuo bastone e il tuo vincàstro mi danno sicurezza."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Davanti a me tu prepari una mensa"
+       ],
+       [
+        "sotto gli occhi dei miei nemici;"
+       ],
+       [
+        "cospargi di olio il mio capo. Il mio calice trabocca."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Felicità e grazia mi saranno compagne tutti i giorni della mia vita, e abiterò nella casa del Signore per lunghissimi anni."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Signore è il mio pastore: non manco di nulla."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Sal 24"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A te, Signore, innalzo l'anima mia."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fammi conoscere, Signore, le tue vie,"
+       ],
+       [
+        "insegnami i tuoi sentieri."
+       ],
+       [
+        "Guidami nella tua verità e istruiscimi,"
+       ],
+       [
+        "perché sei tu il Dio della mia salvezza."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A te, Signore, innalzo l'anima mia."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ricordati, Signore, del tuo amore,"
+       ],
+       [
+        "della tua fedeltà che è da sempre."
+       ],
+       [
+        "N on ricordare i peccati della mia giovinezza:"
+       ],
+       [
+        "ricordati di me nella tua misericordia,"
+       ],
+       [
+        "per la tua bontà, Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A te, Signore, innalzo l'anima mia."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Buono e retto è il Signore, la via giusta addita ai peccatori;"
+       ],
+       [
+        "guida gli umili secondo giustizia,"
+       ],
+       [
+        "insegna ai poveri le sue vie."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A te, Signore, innalzo l'anima mia."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tutti i sentieri del Signore sono verità e grazia"
+       ],
+       [
+        "per chi osserva il suo patto e i suoi precetti."
+       ],
+       [
+        "Per il tuo nome, Signore,"
+       ],
+       [
+        "perdona il mio peccato anche se grande."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "A te, Signore, innalzo l'anima mia."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Sal 90"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Proteggimi, Signore: è in te la mia speranza."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu che abiti al riparo dell' Altissimo"
+       ],
+       [
+        "e dimori all'ombra dell'Onnipotente,"
+       ],
+       [
+        "di' al Signore: «Mio rifugio e mia fortezza,"
+       ],
+       [
+        "mio Dio, in cui confido»."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Proteggimi, Signore: è in te la mia speranza."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Egli ti libererà dal laccio del cacciatore,"
+       ],
+       [
+        "dalla peste che distrugge."
+       ],
+       [
+        "Ti coprirà con le sue penne"
+       ],
+       [
+        "sotto le sue ali troverai rifugio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Proteggimi, Signore: è in te la mia speranza."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lo salverò, perché a me si è affidato;"
+       ],
+       [
+        "lo esalterò, perché ha conosciuto il mio nome."
+       ],
+       [
+        "Mi invocherà e gli darò risposta;"
+       ],
+       [
+        "presso di lui sarò nella sventura,"
+       ],
+       [
+        "lo salverò e lo renderò glorioso."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Proteggimi, Signore: è in te la mia speranza."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Sal 113"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Dio vivo è con noi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando Israele uscì dall'Egitto,"
+       ],
+       [
+        "la casa di Giacobbe da un popolo barbaro,"
+       ],
+       [
+        "Giuda divenne il suo santuario,"
+       ],
+       [
+        "Israele il suo dominio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Dio vivo è con noi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il mare vide e si ritrasse,"
+       ],
+       [
+        "il Giordano si volse indietro,"
+       ],
+       [
+        "i monti saltellarono come arieti,"
+       ],
+       [
+        "le colline come agnelli di un gregge."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Dio vivo è con noi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Che hai tu, mare, per fuggire,"
+       ],
+       [
+        "e tu, Giordano, perché torni indietro?"
+       ],
+       [
+        "Perché voi monti saltellate come arieti"
+       ],
+       [
+        "e voi colline come agnelli di un gregge?"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Dio vivo è con noi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Trema, o terra, davanti al Signore,"
+       ],
+       [
+        "davanti al Dio di Giacobbe,"
+       ],
+       [
+        "che muta la rupe in un lago,"
+       ],
+       [
+        "la roccia in sorgenti d'acqua."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il Dio vivo è con noi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Sal 114"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ti esalto, o Signore, perché mi hai salvato."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Amo il Signore perché ascolta"
+       ],
+       [
+        "il grido della mia preghiera."
+       ],
+       [
+        "Verso di me ha teso l'orecchio"
+       ],
+       [
+        "nel giorno in cui lo invocavo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ti esalto, o Signore, perché mi hai salvato."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mi stringevano funi di morte,"
+       ],
+       [
+        "ero preso nei lacci degli ìnferi."
+       ],
+       [
+        "Mi opprimevano tristezza e angoscia"
+       ],
+       [
+        "e ho invocato il nome del Signore:"
+       ],
+       [
+        "«Ti prego, Signore, salvami."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ti esalto, o Signore, perché mi hai salvato."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Buono e giusto è il Signore,"
+       ],
+       [
+        "il nostro Dio è misericordioso."
+       ],
+       [
+        "Il Signore protegge gli umili:"
+       ],
+       [
+        "ero misero ed egli mi ha salvato."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ti esalto, o Signore, perché mi hai salvato."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Sal 120"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il mio aiuto viene dal Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alzo gli occhi verso i monti:"
+       ],
+       [
+        "da dove mi verrà l'aiuto?"
+       ],
+       [
+        "Il mio aiuto viene dal Signore,"
+       ],
+       [
+        "che ha fatto cielo e terra."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il mio aiuto viene dal Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non lascerà vacillare il tuo piede,"
+       ],
+       [
+        "non si addormenterà il tuo custode."
+       ],
+       [
+        "Non si addormenterà, non prenderà sonno,"
+       ],
+       [
+        "il custode d'Israele."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il mio aiuto viene dal Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il Signore è il tuo custode,"
+       ],
+       [
+        "il Signore è come ombra che ti copre,"
+       ],
+       [
+        "e sta alla tua destra."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Il mio aiuto viene dal Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Sal 122"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sei con noi, Signore, nell'ora della prova."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A te levo i miei occhi,"
+       ],
+       [
+        "a te che abiti nei cieli."
+       ],
+       [
+        "Ecco, come gli occhi dei servi"
+       ],
+       [
+        "alla mano dei loro padroni."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sei con noi, Signore, nell'ora della prova."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Come gli occhi della schiava"
+       ],
+       [
+        "alla mano della sua padrona,"
+       ],
+       [
+        "così i nostri occhi sono rivolti al Signore nostro Dio,"
+       ],
+       [
+        "finché abbia pietà di noi."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Tu sei con noi, Signore, nell'ora della prova."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1 Cor 15, 1-8"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vi rendo noto, fratelli, il vangelo che vi ho annunziato e che voi avete ricevuto, nel quale restate saldi, e dal quale anche ricevete la salvezza, se lo mantenete in quella forma in cui ve l'ho annunziato. Altrimenti, avreste creduto invano!"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vi ho trasmesso dunque, anzitutto, quello che anch'io ho ricevuto: che cioè Cristo morì per i nostri peccati secondo le Scritture, fu sepolto ed è risuscitato il terzo giorno secondo le Scritture."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "1 Gv 4, 16"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Noi abbiamo riconosciuto e creduto all'amore"
+       ],
+       [
+        "che Dio ha per noi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dio è amore; chi sta nell'amore dimora in Dio"
+       ],
+       [
+        "e Dio in lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Ap 21, 1-7"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Io, Giovanni, vidi un nuovo cielo e una nuova terra, perché il cielo e la terra di prima erano scomparsi e il mare non c'era più. Vidi anche la città santa, la nuova Gerusalemme, scendere dal cielo, da Dio, pronta come una sposa adorna per il suo sposo. Udii allora una voce potente che usciva dal trono:"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Ecco la dimora di Dio con gli uomini!"
+       ],
+       [
+        "Egli dimorerà tra di loro ed essi saranno suo popolo ed egli sarà il \"Dio-con-loro\"."
+       ],
+       [
+        "E tergerà ogni lacrima dai loro occhi;"
+       ],
+       [
+        "non ci sarà più la morte, né lutto, né lamento, né affanno,"
+       ],
+       [
+        "perché le cose di prima sono passate»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E Colui che sedeva sul trono disse:"
+       ],
+       [
+        "«Ecco, io faccio nuove tutte le cose."
+       ],
+       [
+        "lo sono l'Alfa e l'Omèga, il Principio e la Fine."
+       ],
+       [
+        "A colui che ha sete"
+       ],
+       [
+        "darò gratuitamente acqua della fonte della vita."
+       ],
+       [
+        "Chi sarà vittorioso erediterà questi beni;"
+       ],
+       [
+        "io sarò il suo Dio ed egli sarà mio figlio»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Mt 25, 1-13"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse ai suoi discepoli questa para­bola: «Il regno dei cieli è simile a dieci vergini che, prese le loro lampade, uscirono incontro allo sposo. Cinque di esse erano stolte e cinque sagge; le stolte presero le lampade, ma non presero con sé olio; le sagge invece, insieme alle lampade, presero anche dell'olio in piccoli vasi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Poiché lo sposo tardava, si assopirono tutte e dormirono. A mezzanotte si levò un grido: Ecco lo sposo, andategli incontro! Allora tutte quelle vergini si destarono e prepararono le loro lampade."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E le stolte dissero alle sagge: Dateci del vostro olio, perché le nostre lampade si spengono. Ma le sagge risposero: No, che non abbia a mancare per noi e per voi; andate piuttosto dai venditori e compratevene."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ora, mentre quelle andavano per comprare l'olio, arrivò lo sposo e le vergini che erano pronte entrarono con lui alle nozze, e la porta fu chiusa."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Più tardi arrivarono anche le altre vergini e incominciarono a dire: Signore, signore, aprici! Ma egli rispose: In verità vi dico: non vi conosco."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vegliate dunque, perché non sapete né il giorno né l'ora»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Mc 15,33-37"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venuto mezzogiorno, si fece buio su tutta la terra, fino alle tre del pomeriggio. Alle tre Gesù gridò con voce forte:"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Eloì, Eloì, lamà sabactàni ?, che significa: Dio mio, Dio mio, perché mi hai abbandonato? Alcuni dei presenti, udito ciò, dicevano: «Ecco, chiama Elìa!». Uno corse a inzuppare di aceto una spugna e, postala su una canna, gli dava da bere, dicendo: «Aspettate, vediamo se viene Elìa a toglierlo dalla croce». Ma Gesù dando un forte grido, spirò."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Mc 16, 1-8"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Passato il sabato, Maria di Màgdala, Maria di Giacomo e Salòme comprarono oli aromatici per andare a imbalsamare Gesù. Di buon mattino, il primo giorno dopo il sabato, vennero al sepolcro al levar del sole."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esse dicevano tra loro: «Chi ci rotolerà via il masso dall'ingresso del sepolcro?». Ma, guardando, videro che il masso era già stato rotolato via,. benché fosse molto grande."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Entrando nel sepolcro, videro un giovane, seduto sulla destra, vestito d'una veste bianca, ed ebbero paura. Ma egli disse loro: «Non abbiate paura! Voi cercate Gesù Nazareno, il crocifisso. È risorto, non è qui. Ecco il luogo dove l'avevano deposto. Ora andate, dite ai suoi discepoli e a Pietro che egli vi precede in Galilea. Là lo vedrete, come vi ha detto»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ed esse, uscite, fuggirono via dal sepolcro perché erano piene di timore e di spavento. E non dissero niente a nessuno, perché avevano paura."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Lc 22,39-46"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gesù, dopo aver cenato con i suoi discepoli uscì e se ne andò, come al solito, al monte degli Ulivi; anche i discepoli lo seguirono. Giunto sul luogo, disse loro: «Pregate, per non entrare in tentazione». Poi si allontanò da loro quasi un tiro di sasso e inginocchiatosi, pregava: «Padre, se vuoi, allontana da me questo calice! Tuttavia non sia fatta la mia, ma la tua volontà». Gli apparve allora un angelo dal cielo a confortarlo. In preda all'angoscia, pregava più intensamente; e il suo sudore diventò come gocce di sangue che cadevano a terra. Poi, rialzatosi dalla preghiera, andò dai discepoli e li trovò che dormivano per la tristezza. E disse loro: «Perché dormite? Alzatevi e pregate, per non entrare in tentazione»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Lc 23, 42-43"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Uno dei malfattori appesi alla croce disse: «Gesù, ricordati di me quando entrerai nel tuo regno»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gesù gli rispose: «In verità ti dico, oggi sarai con me nel paradiso»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Lc 24, 1-8"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il primo giorno dopo il sabato, di buon mattino, le donne si recarono alla tomba, portando con sé gli aromi che avevano preparato. Trovarono la pietra rotolata via dal sepolcro; ma, entrate, non trovarono il corpo del Signore Gesù."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mentre erano ancora incerte, ecco due uomini apparire vicino a loro in vesti sfolgoranti. Essendosi le donne impaurite e avendo chinato il volto a terra, essi dissero loro: «Perché cercate tra i morti colui che è vivo? Non è qui, è risuscitato. Ricordatevi come vi parlò quando era ancora in Galilea, dicendo che bisognava che il Figlio dell'uomo fosse consegnato in mano ai peccatori, che fosse crocifisso e risuscitasse il terzo giorno»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ed esse si ricordarono delle sue parole."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Gv 6, 37-40"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse alle folle: «Tutto ciò che il Padre mi dà, verrà a me; colui che viene a me, non lo respingerò, perché sono disceso dal cielo non per fare la mia volontà, ma la volontà di colui che mi ha mandato. E questa è la volontà di colui che mi ha mandato, che io non perda nulla di quanto egli mi ha dato, ma lo risusciti nell'ultimo giorno."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Questa infatti è la volontà del Padre mio, che chiunque vede il Figlio e crede in lui abbia la vita eterna; io lo risusciterò nell'ultimo giorno»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Gv 14, 1-6.23.27"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Non sia turbato il vostro cuore. Abbiate fede in Dio e abbiate fede anche in me. Nella casa del Padre mio vi sono molti posti. Se no, ve l'avrei detto. lo vado a prepararvi un posto; quando sarò andato e vi avrò preparato un posto, ritornerò e vi prenderò con me, perché siate anche voi dove sono io. E del luogo dove io vado, voi conoscete la via»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gli disse Tommaso: «Signore, non sappiamo dove vai e come possiamo conoscere la via?». Gli disse Gesù: «Io sono la via, la verità e la vita. Nessuno viene al Padre se non per mezzo di me."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Se uno mi ama, osserverà la mia parola e il Padre mio lo amerà e noi verremo a lui e prenderemo dimora presso di lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vi lascio la pace, vi do la mia pace. Non come la dà il mondo, io la do a voi. Non sia turbato il vostro cuore e non abbia timore»."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "LITANIE DEI SANTI"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Se il moribondo può partecipare alla preghiera anche se prolungata, si può eventualmente continuare pregando per lui con quelli che lo assistono, recitando le litanie dei santi (o anche scegliendone alcune invocazioni), con la risposta «Prega per lui», senza dimenticarsi di menzionare in modo particolare il santo o i santi patroni del moribondo o della sua famiglia."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si possono anche recitare le formule comuni di preghiera del cristiano."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore, pietà ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Kyrie, eléison",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Signore, pietà ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Kyrie, eléison",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cristo, pietà ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Christe, eléison",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Cristo, pietà ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Christe, eléison",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Signore, pietà ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Kyrie, eléison",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Signore, pietà ",
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Kyrie, eléison",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santa Maria, Madre di Dio",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Michele ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santi angeli di Dio",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "pregate per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Coro universale dei Giusti ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "pregate per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Giovanni Battista ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Giuseppe ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santi Pietro e Paolo ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "pregate per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sant'Andrea ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Giovanni ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santi apostoli ed evangelisti ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "pregate per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santa Maria Maddalena ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santi discepoli del Signore",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "pregate per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santo Stefano ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Lorenzo ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santa Lucia ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santa Maria Goretti",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santi Martiri di Cristo",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "pregate per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Silvestro",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Gregorio",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sant' Agostino",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Benedetto ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Francesco",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Camillo de' Lellis",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Giovanni di Dio ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "San Vincenzo de' Paoli",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santa Caterina da Siena",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "prega per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Santi e Sante di Dio ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "pregate per lui."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nella tua misericordia ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "salvalo, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nella tua misericordia ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "salvalo, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nella tua misericordia ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "salvalo, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Da ogni male ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "salvalo, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Da ogni peccato ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "salvalo, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla morte eterna ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "salvalo, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per la tua incarnazione",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "salvalo, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per la tua morte e risurrezione ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "salvalo, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Per il dono dello Spirito Santo ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "salvalo, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Noi peccatori ti preghiamo ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "ascoltaci, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perché tu perdoni i suoi peccati ",
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "ascoltaci, Signore."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gesù, Figlio del Dio vivente, ascolta la nostra supplica"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gesù, Figlio del Dio vivente, ascolta la nostra supplica."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "ORAZIONI"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Quando sembra ormai imminente il momento della morte, uno dei presenti può recitare, secondo le disposizioni spirituali del moribondo, qualcuna delle orazioni seguenti:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parti, anima cristiana, da questo mondo,"
+       ],
+       [
+        "nel nome di Dio Padre onnipotente che ti ha creato,"
+       ],
+       [
+        "nel nome di Gesù Cristo, Figlio del Dio vivo,"
+       ],
+       [
+        "che è morto per te sulla croce,"
+       ],
+       [
+        "nel nome dello Spirito Santo, che ti è stato dato in dono;"
+       ],
+       [
+        "la tua dimora sia oggi nella pace della santa Gerusalemme,"
+       ],
+       [
+        "con la Vergine Maria, Madre di Dio,"
+       ],
+       [
+        "con san Giuseppe,"
+       ],
+       [
+        "con tutti gli angeli e i santi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti raccomando, fratello carissimo, a Dio onnipotente:"
+       ],
+       [
+        "ti affido a lui come a sua creatura,"
+       ],
+       [
+        "perché tu possa tornare al tuo creatore,"
+       ],
+       [
+        "che ti ha formato dalla polvere della terra."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quando lascerai questa vita,"
+       ],
+       [
+        "ti venga incontro la Vergine Maria"
+       ],
+       [
+        "con gli angeli e i santi."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venga a liberarti Cristo Signore,"
+       ],
+       [
+        "che per te ha dato la sua vita;"
+       ],
+       [
+        "venga a liberarti Cristo Signore,"
+       ],
+       [
+        "che per te è morto sulla croce;"
+       ],
+       [
+        "ti accolga in paradiso Cristo Signore,"
+       ],
+       [
+        "Figlio del Dio vivo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Egli, divino Pastore,"
+       ],
+       [
+        "ti riconosca tra le pecorelle del suo gregge,"
+       ],
+       [
+        "ti assolva tutti i tuoi peccati"
+       ],
+       [
+        "e ti riceva tra gli eletti nel suo regno."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mite e festoso ti appaia il volto di Cristo"
+       ],
+       [
+        "e possa tu contemplarlo"
+       ],
+       [
+        "per tutti i secoli in eterno."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Accogli, Signore, il tuo servo ",
+        {
+         "m": "rubric",
+         "t": "N."
+        }
+       ],
+       [
+        "nel luogo di salvezza"
+       ],
+       [
+        "che egli spera dalla tua misericordia."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Libera il tuo servo, Signore,"
+       ],
+       [
+        "da ogni pena e da ogni tribolazione."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Libera il tuo servo, Signore,"
+       ],
+       [
+        "come liberasti Noè dal diluvio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Libera il tuo servo, Signore,"
+       ],
+       [
+        "come liberasti Abramo dalla regione dei Caldei."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Libera il tuo servo, Signore,"
+       ],
+       [
+        "come liberasti Giobbe dalle sue afflizioni."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Libera il tuo servo, Signore,"
+       ],
+       [
+        "come liberasti Mosè dalla mano del Faraone."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Libera il tuo servo, Signore,"
+       ],
+       [
+        "come liberasti Daniele dalla fossa dei leoni."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Libera il tuo servo, Signore,"
+       ],
+       [
+        "come liberasti i tre fanciulli dalla fornace ardente"
+       ],
+       [
+        "e dalle mani di un re iniquo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Libera il tuo servo, Signore,"
+       ],
+       [
+        "come liberasti Susanna dai suoi calunniatori."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Libera il tuo servo, Signore,"
+       ],
+       [
+        "come liberasti Davide dalle mani del re Saul"
+       ],
+       [
+        "e dalle mani di Golia."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Libera il tuo servo, Signore,"
+       ],
+       [
+        "come liberasti dal carcere"
+       ],
+       [
+        "gli apostoli Pietro e Paolo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Libera il tuo servo, Signore,"
+       ],
+       [
+        "per Gesù Cristo, nostro Salvatore,"
+       ],
+       [
+        "che è morto per noi sulla croce."
+       ],
+       [
+        "e ci ha fatto dono della vita eterna."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti raccomandiamo, o Padre, questo nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ":"
+       ],
+       [
+        "se nella sua vita ha peccato,"
+       ],
+       [
+        "egli ha conservato la sua fede in te,"
+       ],
+       [
+        "Padre, Figlio e Spirito Santo,"
+       ],
+       [
+        "creatore e Signore di tutte le cose."
+       ],
+       [
+        "Gesù Salvatore del mondo,"
+       ],
+       [
+        "che nel tuo amore per lui sei disceso sulla terra,"
+       ],
+       [
+        "accòglilo nella gioia del tuo regno."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Si può anche dire la seguente antifona:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salve, Regina, Madre di misericordia;"
+       ],
+       [
+        "vita, dolcezza e speranza nostra, salve."
+       ],
+       [
+        "A te ricorriamo, noi esuli figli di Eva:"
+       ],
+       [
+        "a te sospiriamo, gementi e piangenti"
+       ],
+       [
+        "in questa valle di lacrime."
+       ],
+       [
+        "Orsù, dunque, avvocata nostra,"
+       ],
+       [
+        "rivolgi a noi quegli occhi tuoi misericordiosi."
+       ],
+       [
+        "E mostraci dopo questo esilio Gesù,"
+       ],
+       [
+        "il frutto benedetto del tuo seno."
+       ],
+       [
+        "O clemente, o pia, o dolce Vergine Maria."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Appena il morente avrà esalato l'ultimo respiro, si dice:"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Venite, santi di Dio,"
+       ],
+       [
+        "accorrete, angeli del Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Accogliete la sua anima"
+       ],
+       [
+        "e presentatela al trono dell' Altissimo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "Ti accolga Cristo, che ti ha chiamato,"
+       ],
+       [
+        "e gli angeli ti conducano con Abramo in paradiso."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Accogliete la sua anima"
+       ],
+       [
+        "e presentatela al trono dell' Altissimo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "V/. "
+        },
+        "L'eterno riposo donagli, o Signore,"
+       ],
+       [
+        "e splenda a lui la luce perpetua."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Accogliete la sua anima"
+       ],
+       [
+        "e presentatela al trono dell' Altissimo."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Preghiamo."
+       ],
+       [
+        "Ti raccomandiamo, Signore,"
+       ],
+       [
+        "l'anima fedele del nostro fratello ",
+        {
+         "m": "rubric",
+         "t": "N."
+        },
+        ","
+       ],
+       [
+        "perché, lasciato questo mondo, viva in te,"
+       ],
+       [
+        "e in tutto ciò che ha peccato per la fragilità"
+       ],
+       [
+        "della condizione umana,"
+       ],
+       [
+        "ottenga dalla tua clemenza"
+       ],
+       [
+        "il perdono e la pace."
+       ],
+       [
+        "Per Cristo nostro Signore."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Amen."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "ABC <=> ABC"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "12 => 13"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "12 => 11"
+       ]
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "title": {
+  "*": "Missale Romanum"
+ }
+}

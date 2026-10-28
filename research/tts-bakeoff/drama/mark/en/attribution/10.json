@@ -1,0 +1,517 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; steady narration of the journey toward Jerusalem."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; authoritative with the Pharisees, tender with the children and the rich man, sober foretelling his Passion, gentle with Bartimaeus."
+  },
+  "pharisees": {
+   "name": "The Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Pharisees testing him on divorce; cool, legalistic, laying a trap."
+  },
+  "rich-man": {
+   "name": "The rich man",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A wealthy man who runs up and kneels; eager and sincere, sure of his own observance."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The twelve; astonished and dismayed at the saying about riches, murmuring among themselves."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Apostle; speaking up for the twelve, a little anxious and self-justifying."
+  },
+  "james-and-john": {
+   "name": "James and John",
+   "kind": "group",
+   "gender": "male",
+   "age": "young",
+   "note": "The sons of Zebedee; ambitious and overconfident, asking for the places of honour."
+  },
+  "bartimaeus": {
+   "name": "Bartimaeus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The blind beggar of Jericho, son of Timaeus; shouting insistently over the crowd, then simple and trusting."
+  },
+  "crowd": {
+   "name": "The crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Those in the multitude at Jericho who call the blind man; encouraging and kindly."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And rising up from thence, he cometh into the borders of Judea, beyond the Jordan: and the multitudes flock to him again. And as he was accustomed, he taught them again."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And the Pharisees coming to him, asked him:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Is it lawful for a man to put away his wife?"
+   },
+   {
+    "s": "narrator",
+    "t": "tempting him."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "But he answering, saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "What did Moses command you?"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "They said:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Moses permitted to write a bill of divorce, and to put her away."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Jesus answering, said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Because of the hardness of your heart, he wrote you that precept."
+   }
+  ],
+  "6": [
+   {
+    "s": "jesus",
+    "t": "But from the beginning of the creation, God made them male and female."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "For this cause a man shall leave his father and mother, and shall cleave to his wife."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "And they two shall be in one flesh. Therefore now they are not two, but one flesh."
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "What therefore God hath joined together, let not man put asunder."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And in the house again his disciples asked him concerning the same thing."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And he saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Whosoever shall put away his wife, and marry another, committeth adultery against her."
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "And if the wife shall put away her husband, and be married to another, she committeth adultery."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And they brought to him young children, that he might touch them. And the disciples rebuked them that brought them."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Whom when Jesus saw, he was much displeased, and said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Suffer the little children to come to me, and forbid them not: for of such is the kingdom of God."
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "Amen, I say to you, whosoever shall not receive the kingdom of God as a little child, shall not enter into it."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And embracing them, and laying his hands upon them, he blessed them."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And when he was gone forth into the way, a certain man running up and kneeling before him, asked him:"
+   },
+   {
+    "s": "rich-man",
+    "t": "Good Master, what shall I do that I may receive life everlasting?"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And Jesus said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Why callest thou me good? None is good but one; that is God."
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "Thou knowest the commandments: Do not commit adultery, do not kill, do not steal, bear not false witness, do not fraud, honour thy father and mother."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "But he answering, said to him:"
+   },
+   {
+    "s": "rich-man",
+    "t": "Master, all these things I have observed from my youth."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And Jesus looking on him, loved him; and said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "One thing is wanting unto thee: go, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, follow me."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "But he being struck sad at the saying, went away sorrowful: for he had great possessions."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And Jesus looking round about, saith to his disciples:"
+   },
+   {
+    "s": "jesus",
+    "t": "How hardly shall they who have riches, enter into the kingdom of God!"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And the disciples were astonished at his words. But Jesus answering again, saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Children, how hard is it for them that trust in riches, to enter into the kingdom of God!"
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "It is easier for a camel to pass through the eye of a needle, than for a rich man to enter into the kingdom of God."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "They wondered the more, saying among themselves:"
+   },
+   {
+    "s": "disciples",
+    "t": "Who then can be saved?"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And Jesus looking on them, saith:"
+   },
+   {
+    "s": "jesus",
+    "t": "With men it is impossible; but not with God: for all things are possible with God."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And Peter began to say to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Behold, we have left all things, and have followed thee."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Jesus answering, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen, I say to you, there is no man, who hath left house, or brethren, or sisters, or father, or mother, or children, or lands, for my sake and for the gospel,"
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "Who shall not receive a hundred times as much, now in this time; houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions: and in the world to come life everlasting."
+   }
+  ],
+  "31": [
+   {
+    "s": "jesus",
+    "t": "But many that are first, shall be last, and the last, first."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And they were in the way going up to Jerusalem: and Jesus went before them, and they were astonished: and following, were afraid. And taking again the twelve, he began to tell them the things that should befall him."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "Behold we go up to Jerusalem, and the Son of man shall be betrayed to the chief priests, and to the Scribes and ancients, and they shall condemn him to death, and shall deliver him to the Gentiles."
+   }
+  ],
+  "34": [
+   {
+    "s": "jesus",
+    "t": "And they shall mock him, and spit on him, and scourge him, and kill him: and the third day he shall rise again."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And James, and John, the sons of Zebedee, came to him, saying:"
+   },
+   {
+    "s": "james-and-john",
+    "t": "Master, we desire that whatsoever we shall ask, thou wouldst do it for us."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "But he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "What would you that I should do for you?"
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And they said:"
+   },
+   {
+    "s": "james-and-john",
+    "t": "Grant to us, that we may sit, one on thy right hand, and the other on thy left hand, in thy glory."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And Jesus said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "You know not what you ask. Can you drink of the chalice that I drink of: or be baptized with the baptism wherewith I am baptized?"
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "But they said to him:"
+   },
+   {
+    "s": "james-and-john",
+    "t": "We can."
+   },
+   {
+    "s": "narrator",
+    "t": "And Jesus saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "You shall indeed drink of the chalice that I drink of: and with the baptism wherewith I am baptized, you shall be baptized:"
+   }
+  ],
+  "40": [
+   {
+    "s": "jesus",
+    "t": "But to sit on my right hand, or on my left, is not mine to give to you, but to them for whom it is prepared."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "And the ten hearing it, began to be much displeased at James and John."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "But Jesus calling them, saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "You know that they who seem to rule over the Gentiles, lord it over them: and their princes have power over them."
+   }
+  ],
+  "43": [
+   {
+    "s": "jesus",
+    "t": "But it is not so among you: but whosoever will be greater, shall be your minister."
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "And whosoever will be first among you, shall be the servant of all."
+   }
+  ],
+  "45": [
+   {
+    "s": "jesus",
+    "t": "For the Son of man also is not come to be ministered unto, but to minister, and to give his life a redemption for many."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "And they came to Jericho: and as he went out of Jericho, with his disciples and a very great multitude, Bartimaeus, the blind man, the son of Timaeus, sat by the way side, begging."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "And when he had heard that it was Jesus of Nazareth, he began to cry out, and to say:"
+   },
+   {
+    "s": "bartimaeus",
+    "t": "Jesus, Son of David, have mercy on me."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "And many rebuked him, that he might hold his peace. But he cried a great deal the more:"
+   },
+   {
+    "s": "bartimaeus",
+    "t": "Son of David, have mercy on me."
+   }
+  ],
+  "49": [
+   {
+    "s": "narrator",
+    "t": "And Jesus standing still, commanded him to be called. And they call the blind man, saying to him:"
+   },
+   {
+    "s": "crowd",
+    "t": "Be of better comfort: arise, he calleth thee."
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "He casting off his garment, leaped up, and came to him."
+   }
+  ],
+  "51": [
+   {
+    "s": "narrator",
+    "t": "And Jesus answering, said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "What wilt thou that I should do to thee?"
+   },
+   {
+    "s": "narrator",
+    "t": "And the blind man said to him:"
+   },
+   {
+    "s": "bartimaeus",
+    "t": "Rabboni, that I may see."
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "And Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go thy way, thy faith hath made thee whole."
+   },
+   {
+    "s": "narrator",
+    "t": "And immediately he saw, and followed him in the way."
+   }
+  ]
+ }
+}

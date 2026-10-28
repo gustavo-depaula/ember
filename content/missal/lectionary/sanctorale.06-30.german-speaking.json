@@ -1,0 +1,39 @@
+{
+ "id": "sanctorale.06-30.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "30. Juni"
+       ],
+       [
+        "Hl. Otto, Bischof von Bamberg, Glaubensbote in Pommern"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mark": "readings"
+  }
+ ],
+ "title": {
+  "*": "Hl. Otto, Bischof von Bamberg, Glaubensbote in Pommern"
+ }
+}

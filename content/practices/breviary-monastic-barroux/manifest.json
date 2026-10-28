@@ -14,6 +14,16 @@
     "liturgical"
   ],
   "estimatedMinutes": 15,
+  "hourMinutes": {
+    "Matutinum": 40,
+    "Laudes": 17,
+    "Prima": 16,
+    "Tertia": 6,
+    "Sexta": 5,
+    "Nona": 5,
+    "Vespera": 10,
+    "Completorium": 9
+  },
   "description": {
     "en-US": "The Benedictine Divine Office, hour by hour — choose the hour and the monastic round of psalms, lessons, and prayer is assembled for today.",
     "pt-BR": "O Ofício Divino beneditino, hora por hora — escolha a hora e o ciclo monástico de salmos, lições e oração é montado para hoje."

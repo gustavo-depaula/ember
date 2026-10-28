@@ -1,7 +1,7 @@
-import { everyRegion, ofCalendarRefs, ofDateCelebrations } from '@ember/mass'
+import { celebrationsOn, everyRegion, sanctoralIds } from '@ember/missal'
 import { addDays, ascending, eachDay, isSunday, toDate, yearOf } from './dates'
 import { feastDays, seasonsStartingIn } from './seasons'
-import type { Act, CardId, Catalog, EngineInput, Grant, IsoDate } from './types'
+import type { Act, Calendar, CardId, Catalog, EngineInput, Grant, IsoDate } from './types'
 
 /**
  * A rule reads the input and returns the cards its door gave. Rules are
@@ -46,17 +46,33 @@ export function celebrates(celebration: string | undefined, ref: string): boolea
 }
 
 /**
+ * The celebrations Mass on `date` gives the cards of: the day on the reader's
+ * own calendar, then the saints only another region keeps. A saint the reader's
+ * calendar has is given on the reader's date alone: Spain keeps Faustina on
+ * 8 October, which is not her day anywhere else.
+ */
+export function celebrationsFor(date: IsoDate, calendar: Calendar) {
+  const day = toDate(date)
+  const { statics, regions, transfers } = calendar
+  const own = sanctoralIds(statics, regions)
+  return [
+    ...celebrationsOn(day, statics, { regions, transfers }),
+    ...celebrationsOn(day, statics, { regions: everyRegion }).filter(
+      (c) => c.kind === 'sanctoral' && !own.has(c.id),
+    ),
+  ]
+}
+
+/**
  * Mass gives one of the date's saints — every saint the calendar puts on the
  * date, outranked or not, in order of precedence — or, when none has a card,
  * a liturgical card drawn at redeem.
  */
 export const massRule: Rule = ({ acts, calendar, catalog }, since) =>
   datesOf(acts, 'mass', since).flatMap((date): Grant[] => {
-    const celebrations = ofDateCelebrations(toDate(date), calendar.statics, {
-      scope: everyRegion,
-    })
+    const celebrations = celebrationsFor(date, calendar)
     const saints = celebrations.flatMap((c) =>
-      catalog.saints.filter((s) => celebrates(s.celebration, c.ref)).map((s) => s.id),
+      catalog.saints.filter((s) => celebrates(s.celebration, c.id)).map((s) => s.id),
     )
     const base = { id: `mass:${date}`, door: 'mass' as const, date, deadline: nextDay(date) }
     if (saints.length > 0) return [{ ...base, choice: saints }]
@@ -66,22 +82,36 @@ export const massRule: Rule = ({ acts, calendar, catalog }, since) =>
 
 /**
  * The Office gives the saints who have no Mass on any region's calendar, each
- * on its assigned day.
+ * on its assigned day; so does a prayed day, the Office of those who don't
+ * pray it. A day kept both ways gives two of the day's saints, where it has two.
  */
 export const officeRule: Rule = ({ acts, calendar, catalog }, since) => {
-  const dates = datesOf(acts, 'office', since)
-  if (dates.length === 0) return []
-  const onCalendar = ofCalendarRefs(calendar.statics.sanctoral, everyRegion)
+  const doors = (['office', 'prayedDay'] as const).map(
+    (door) => [door, new Set(datesOf(acts, door, since))] as const,
+  )
+  const dates = new Set(doors.flatMap(([, kept]) => [...kept]))
+  if (dates.size === 0) return []
+  const onCalendar = sanctoralIds(calendar.statics, everyRegion)
   const byDay = new Map<string, CardId[]>()
   for (const s of catalog.saints) {
     if (!s.day || (s.celebration && onCalendar.has(s.celebration))) continue
     const key = `${String(s.day.month).padStart(2, '0')}-${String(s.day.day).padStart(2, '0')}`
     byDay.set(key, [...(byDay.get(key) ?? []), s.id])
   }
-  return dates.flatMap((date): Grant[] => {
+  return [...dates].flatMap((date): Grant[] => {
     const choice = byDay.get(date.slice(5))
     if (!choice) return []
-    return [{ id: `office:${date}`, door: 'office', date, choice, deadline: nextDay(date) }]
+    return doors
+      .filter(([, kept]) => kept.has(date))
+      .slice(0, choice.length)
+      .map(([door]) => ({
+        id: `${door}:${date}`,
+        door,
+        date,
+        choice,
+        group: `office:${date}`,
+        deadline: nextDay(date),
+      }))
   })
 }
 
@@ -90,12 +120,12 @@ export const officeRule: Rule = ({ acts, calendar, catalog }, since) => {
  * weekday card: Mass on two thirds of its weekdays, given with the Mass that
  * reaches them.
  */
-export const seasonRule: Rule = ({ acts, catalog }, since) => {
+export const seasonRule: Rule = ({ acts, calendar, catalog }, since) => {
   const masses = acts.filter((a) => a.kind === 'mass').map((a) => a.date)
   const attended = new Set(masses)
   const years = new Set(masses.filter((d) => d >= since).flatMap((d) => [yearOf(d) - 1, yearOf(d)]))
   return [...years]
-    .flatMap((year) => seasonsStartingIn(year).map((w) => ({ ...w, year })))
+    .flatMap((year) => seasonsStartingIn(year, calendar.transfers).map((w) => ({ ...w, year })))
     .filter((w) => w.end >= since)
     .flatMap((w): Grant[] => {
       const cards = catalog.seasons[w.season]

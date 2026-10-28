@@ -31,9 +31,13 @@ export function ReadingParagraph({
   base = 'regular',
   color = '$color',
   language,
+  ragged,
   testID,
   accessibilityLabel,
 }: {
+  /** A line of verse: set ragged even where the reader asked for justified
+   *  text, because its breaks are the poet's and a wrapped line must not spread. */
+  ragged?: boolean
   /** A meditation is italic throughout. */
   base?: TextStyleName
   color?: ComponentProps<typeof Text>['color']
@@ -80,6 +84,7 @@ export function ReadingParagraph({
   const justify =
     source !== undefined &&
     reading.textAlign === 'justify' &&
+    !ragged &&
     !platformBreaks &&
     !lead &&
     !text.includes('\n')
@@ -91,6 +96,7 @@ export function ReadingParagraph({
         testID={testID}
         accessibilityLabel={accessibilityLabel}
         {...reading}
+        {...(ragged ? { textAlign: 'left' as const, style: undefined } : {})}
         color={color}
         {...face}
         minHeight={guard.minHeight}

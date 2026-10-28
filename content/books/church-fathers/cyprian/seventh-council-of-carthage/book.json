@@ -2,13 +2,16 @@
   "id": "cyprian-seventh-council-of-carthage",
   "cover": "quarter",
   "name": {
-    "en-US": "The Seventh Council of Carthage"
+    "en-US": "The Seventh Council of Carthage",
+    "pt-BR": "O Sétimo Concílio de Cartago"
   },
   "author": {
-    "en-US": "Cyprian of Carthage"
+    "en-US": "Cyprian of Carthage",
+    "pt-BR": "Cipriano de Cartago"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Seventh Council of Carthage"
+        "en-US": "The Seventh Council of Carthage",
+        "pt-BR": "O Sétimo Concílio de Cartago"
       }
     }
   ]

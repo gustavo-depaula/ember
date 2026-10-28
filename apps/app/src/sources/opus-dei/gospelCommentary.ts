@@ -1,4 +1,3 @@
-import { Platform } from 'react-native'
 import type { LinkPrimitive, Primitive } from '@/content/primitives'
 import type { SourceFetchContext } from '../types'
 import { fetchPage } from './fetchPage'
@@ -14,7 +13,7 @@ function attribution(lang: Lang, url: string): LinkPrimitive {
   return { type: 'link', text: { primary: text }, href: url }
 }
 
-// Web (CORS-blocked) or any fetch/parse failure: a graceful link-out.
+// Any fetch/parse failure: a graceful link-out.
 function unavailable(lang: Lang, url: string): LinkPrimitive {
   const text =
     lang === 'pt-BR'
@@ -23,8 +22,8 @@ function unavailable(lang: Lang, url: string): LinkPrimitive {
   return { type: 'link', text: { primary: text }, href: url }
 }
 
-// Opus Dei's commentary on today's Gospel, scraped from opusdei.org (native),
-// degrading to a link-out on web or failure. `dateScoped` keys the cache per day.
+// Opus Dei's commentary on today's Gospel, scraped from opusdei.org,
+// degrading to a link-out on failure. `dateScoped` keys the cache per day.
 export const opusDeiGospelCommentarySource = {
   id: 'producer/opus-dei-gospel-commentary',
   version: '2',
@@ -33,7 +32,6 @@ export const opusDeiGospelCommentarySource = {
   async fetch(ctx: SourceFetchContext): Promise<Primitive | Primitive[]> {
     const lang = narrowLang(ctx.prefs.lang)
     const url = gospelUrl(lang, ctx.date)
-    if (Platform.OS === 'web') return unavailable(lang, url)
     try {
       const blocks = parseGospelCommentary(await fetchPage(url), lang)
       return [{ type: 'prose', blocks }, attribution(lang, url)]

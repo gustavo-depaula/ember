@@ -8,10 +8,25 @@ import { useReadingStyle } from '@/hooks/useReadingStyle'
 import type { StyledSegment } from '@/lib/typography/justifyText'
 import { BilingualBlock } from './prayer/BilingualBlock'
 import { parseDoInline } from './prayer/DoInline'
+import { composeStyle } from './prayer/InlineMarkdown'
+import { parseInline } from './prayer/parseMarkdown'
 import { ResponseMark } from './prayer/ResponseMark'
 import { verseRefLabel, verseRefScale, verseRefTracking } from './prayer/VerseRef'
 import { ReadingParagraph } from './ReadingParagraph'
 import { Typography } from './typography'
+
+const loneAsterisk = /(^|\s)\*(\s|$)/
+
+// A rubric set inside a verse ("(or: Kýrie, eléison.)") arrives as *emphasis*.
+// A psalm's lone mediant asterisk stands between spaces and is left alone.
+const emphasisOf = (text: string) =>
+  loneAsterisk.test(text) ? [{ type: 'text' as const, text }] : parseInline(text)
+
+// What a screen reader is given: the words without their emphasis marks.
+const spoken = (text: string) =>
+  emphasisOf(text)
+    .map((node) => node.text)
+    .join('')
 
 /**
  * A prayed verse, optionally led by its citation.
@@ -56,6 +71,8 @@ function Verse({
   )
   const runs = useMemo(() => (markup === 'do' ? parseDoInline(text) : undefined), [markup, text])
 
+  const emphasised = useMemo(() => emphasisOf(text), [text])
+
   const source = useMemo<StyledSegment[]>(() => {
     const base = bold ? ('bold' as const) : ('regular' as const)
     if (runs) {
@@ -75,8 +92,11 @@ function Verse({
         return { text: run.text, style: base, render: doMarkRender[run.kind] }
       })
     }
-    const verse = { text, style: base }
-    if (!citation) return [verse]
+    const verse = emphasised.map((node) => ({
+      text: node.text,
+      style: composeStyle(node.type, base),
+    }))
+    if (!citation) return verse
     return [
       {
         text: verseRefLabel(citation),
@@ -86,9 +106,9 @@ function Verse({
         render: citationRender,
         atomic: true,
       },
-      verse,
+      ...verse,
     ]
-  }, [text, citation, bold, reading.fontSize, citationRender, runs, doMarkRender])
+  }, [emphasised, citation, bold, reading.fontSize, citationRender, runs, doMarkRender])
 
   return (
     <ReadingParagraph
@@ -98,7 +118,7 @@ function Verse({
       // nested <Text> into its parent's accessibility label, so a screen reader
       // would spell the citation before every verse. Labelling the block with
       // the prayed text alone suppresses it on both platforms.
-      accessibilityLabel={runs ? runs.map((r) => r.text).join('') : text}
+      accessibilityLabel={(runs ?? emphasised).map((r) => r.text).join('')}
     />
   )
 }
@@ -127,8 +147,8 @@ export function VersesBlock({
                 alignItems="baseline"
                 accessibilityLabel={
                   item.mark === 'Ant.'
-                    ? t('a11y.antiphon', { text: item.text.primary })
-                    : `${item.mark} ${item.text.primary}`
+                    ? t('a11y.antiphon', { text: spoken(item.text.primary) })
+                    : `${item.mark} ${spoken(item.text.primary)}`
                 }
               >
                 <ResponseMark value={item.mark} fontSize={reading.fontSize} />
@@ -147,7 +167,7 @@ export function VersesBlock({
               gap={4}
               alignItems="baseline"
               accessibilityLabel={t(isResponse ? 'a11y.response' : 'a11y.versicle', {
-                text: item.text.primary,
+                text: spoken(item.text.primary),
               })}
             >
               <ResponseMark value={isResponse ? '℟' : '℣'} width={18} />

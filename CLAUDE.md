@@ -1,13 +1,13 @@
 # Ember
 
-A multilingual Catholic prayer app (English + Brazilian Portuguese) built with Expo (web + iOS + Android), and a platform for preserving and distributing the Catholic literary tradition in open formats. Three pillars: **Fidelity** (plan of life), **Devotion** (saints, liturgical milestones — collectibles that teach, not trophies), **Wisdom** (library, formation, study tools).
+A multilingual Catholic prayer app (English + Brazilian Portuguese) built with Expo (iOS + Android) with a companion website, and a platform for preserving and distributing the Catholic literary tradition in open formats. Three pillars: **Fidelity** (plan of life), **Devotion** (saints, liturgical milestones — collectibles that teach, not trophies), **Wisdom** (library, formation, study tools).
 
 Personal project with a single user, so schema changes are made in place: add a database migration only when asked.
 
 ## Layout
 
 pnpm workspaces + turborepo:
-- `apps/app/` — Expo app · `apps/site/` — public read-only website (Astro, static) · `apps/backend/` — Mass-times API (Cloudflare Workers) · `apps/hearth/` — GitHub Pages landing page · `apps/workshop/` — content preview
+- `apps/app/` — Expo app · `apps/site/` — public read-only website (Astro, static) · `apps/backend/` — Mass-times API (Cloudflare Workers) · `apps/hearth/` — GitHub Pages landing page · `apps/workshop/` — content preview · `apps/admin/` — admin panel (Cloudflare Worker behind Access); its first desk reviews Mass-time suggestions (Claude Code drafts in a container, you approve)
 - `packages/` — shared libraries; `content/` — source of truth for the corpus, one flat dir per kind
 - `research/` — long-running investigations (method + dataset, not app code). Deliberately unstructured: let structure emerge from the work there
 - `docs/` — a few references (content authoring, content sources, design)
@@ -18,8 +18,9 @@ pnpm workspaces + turborepo:
 - **Practices are pure JSON** (`manifest.json` + `flow.json`, no app code). The flow DSL's reference is its types in `packages/content-engine/src/types.ts`; the engine stays practice-agnostic.
 - **Renderer pipeline:** engine output → `apps/app/src/content/preprocessFlow.ts` (async; resolves every `reading`/`psalmody`/`include` through the ContentSource registry) → `PrimitiveBlock` (synchronous switch over `apps/app/src/content/primitives.ts`). Block components never fetch.
 - Author structured content as flow DSL in the data; renderers stay free of text-parsing heuristics, because cues like `Cantors:`/`Refrão:` differ per language.
-- Each liturgical form has one calendar authority driving both its Mass and every display surface: `resolveOfDay` (`@ember/mass`) for the OF, the Divinum Officium engine's `resolveDay` for the EF. Build new calendar features on those, so the Mass and the calendar can never disagree.
-- **Text read from its publisher (CCC from vatican.va, Escrivá, Lírio Católico, …) never enters `content/`, the corpus, or any CI-built artifact.** It is fetched at runtime by a source in `apps/app/src/sources/` and cached on-device only.
+- Each liturgical form has one calendar authority driving both its Mass and every display surface: `resolveOfDay` (`@ember/missal`) for the OF, the Divinum Officium engine's `resolveDay` for the EF. Build new calendar features on those, so the Mass and the calendar can never disagree.
+- The Brazilian Liturgy of the Hours is its own engine and corpus (`@ember/loth`, `content/loth/`). It reckons the year with the Mass (`temporalDay`) but keeps the breviary's own calendar of saints, and is held hour for hour to a reference of 2020-2040 (`.claude/rules/loth.md`).
+- **Text read from its publisher (CCC from vatican.va, Escrivá, iBreviary, …) never enters `content/`, the corpus, or any CI-built artifact.** It is fetched at runtime by a source in `apps/app/src/sources/` and cached on-device only.
 - **The website is another platform target of the content layer.** `apps/site` imports the app's own resolver, preprocessor, sources and feature logic from `apps/app/src`, and swaps the device-bound modules (blob store, Hearth fetch, SQLite, i18n detection, the source registry) for Node ones listed in `apps/site/seam.mjs`. Logic the site should share lives in a plain `.ts` module beside the hook or component that uses it; a new React Native or Expo import in such a module breaks the site build.
 - `content/do/` is the Divinum Officium repo as a git submodule — read-only. A new clone or worktree needs `git submodule update --init --depth 1 content/do` before `build:corpus`.
 
@@ -32,6 +33,7 @@ pnpm test                   # all workspace tests (from apps/app/: app tests onl
 pnpm build:corpus           # content/ → _site/hearth/v2 (app tests need this)
 pnpm hearth                 # build + serve the corpus on :4100 for the dev app
 pnpm validate-flows         # validate practice flow JSON
+pnpm admin                  # admin panel on :4210 via `wrangler dev` (needs Docker; local D1 shared with apps/backend)
 pnpm --filter @ember/site dev    # website on :4321 (needs build:corpus); `build` + `preview` for the static site
 pnpm biome check --write .  # format + lint
 ```

@@ -1,0 +1,166 @@
+---
+import { flowReference, sourceUrl } from '~/lib/developers/flowReference'
+import { chooser, inline } from '~/lib/developers/text'
+import type { Locale } from '~/lib/locale'
+import { href } from '~/routes'
+import Code from './Code.astro'
+import DevShell from './DevShell.astro'
+import FlowFields from './FlowFields.astro'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const l = chooser(locale)
+const reference = flowReference()
+
+// Every word of it is the corpus's own (the Angelus and the Little Offices).
+const minimal = `{
+  "sections": [
+    { "type": "rubric", "text": { "en-US": "Kneeling", "pt-BR": "De joelhos" } },
+    { "type": "prayer", "ref": "our-father" },
+    { "type": "prayer", "ref": "hail-mary" },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": { "en-US": "Pray for us, O holy Mother of God.", "pt-BR": "Rogai por nós, Santa Mãe de Deus." },
+          "r": { "en-US": "That we may be made worthy of the promises of Christ.", "pt-BR": "Para que sejamos dignos das promessas de Cristo." }
+        }
+      ]
+    }
+  ]
+}`
+
+const usedBy = (n: number) =>
+  n === 0
+    ? l('not used in a practice or chapter yet', 'ainda não usado em nenhuma prática ou capítulo')
+    : l(`used by ${n} ${n === 1 ? 'item' : 'items'}`, `usado em ${n} ${n === 1 ? 'item' : 'itens'}`)
+
+const toc = [
+  { id: 'shape', label: l('A practice', 'Uma prática') },
+  { id: 'definition', label: l('The flow', 'O fluxo') },
+  { id: 'LocalizedText', label: l('Languages', 'Idiomas') },
+  { id: 'sections', label: l('Section types', 'Tipos de seção') },
+  { id: 'pipeline', label: l('From flow to page', 'Do fluxo à página') },
+]
+
+const pipeline = [
+  l(
+    `The [engine](${sourceUrl('packages/content-engine')}) walks the flow for a day and a language: it picks options, repeats decades and cycles days. It knows nothing about any one practice.`,
+    `O [motor](${sourceUrl('packages/content-engine')}) percorre o fluxo para um dia e um idioma: escolhe opções, repete dezenas e alterna os dias. Ele não sabe nada de nenhuma prática em particular.`,
+  ),
+  l(
+    `A [preprocessor](${sourceUrl('apps/app/src/content/preprocessFlow.ts')}) resolves every ref, reading and \`include\` through the content sources: a prayer by ref, a chapter of Scripture, the readings of the day.`,
+    `Um [pré-processador](${sourceUrl('apps/app/src/content/preprocessFlow.ts')}) resolve cada ref, leitura e \`include\` pelas fontes de conteúdo: uma oração pela ref, um capítulo da Escritura, as leituras do dia.`,
+  ),
+  l(
+    `A renderer draws about a dozen [primitives](${sourceUrl('apps/app/src/content/primitives.ts')}). The app and this [website](${href.section(locale, 'prayers')}) share everything up to this step.`,
+    `Um renderizador desenha cerca de uma dúzia de [primitivas](${sourceUrl('apps/app/src/content/primitives.ts')}). O aplicativo e este [site](${href.section(locale, 'prayers')}) compartilham tudo até este passo.`,
+  ),
+]
+---
+
+<DevShell
+  locale={locale}
+  alternates={alternates}
+  doc="flows"
+  title={l('Flow DSL', 'DSL de fluxos')}
+  kicker={l('Developers · Reference', 'Desenvolvedores · Referência')}
+  lede={l(
+    `Every prayer in Ember is data: a JSON flow of ${reference.sections.length} section types that the engine turns into text to pray, in any language the flow carries. This page is read from the engine’s own types, and each example is taken from the corpus.`,
+    `Toda oração do Ember é dado: um fluxo JSON de ${reference.sections.length} tipos de seção que o motor transforma em texto para rezar, em qualquer idioma que o fluxo traga. Esta página é lida dos próprios tipos do motor, e cada exemplo vem do acervo.`,
+  )}
+  toc={toc}
+>
+  <section class="dev-section" id="shape">
+    <h2 class="t-section">{l('A practice', 'Uma prática')}</h2>
+    <p set:html={inline(l(
+      `A practice is a folder in [content/practices](${sourceUrl('content/practices')}): a \`manifest.json\` with its names, description and length, and a \`flow.json\` with what is prayed. There is no code: the same engine runs the Rosary, a novena and the Office. A short prayer is a practice too, and other flows include it by ref. The smallest useful flow:`,
+      `Uma prática é uma pasta em [content/practices](${sourceUrl('content/practices')}): um \`manifest.json\` com seus nomes, descrição e duração, e um \`flow.json\` com o que se reza. Não há código: o mesmo motor roda o Rosário, uma novena e o Ofício. Uma oração curta também é uma prática, e outros fluxos a incluem pela ref. O menor fluxo útil:`,
+    ))} />
+    <Code locale={locale} code={minimal} json label="flow.json" />
+    <p class="t-annotation" set:html={inline(l(
+      'Run `pnpm validate-flows` in the repository to check every flow against these rules.',
+      'Rode `pnpm validate-flows` no repositório para conferir todos os fluxos contra estas regras.',
+    ))} />
+    {locale === 'pt-BR' && (
+      <p class="t-annotation">
+        As notas sobre cada tipo e campo vêm dos comentários do código do motor e estão em inglês.
+      </p>
+    )}
+  </section>
+
+  <section class="dev-section" id="definition">
+    <h2 class="t-section">{l('The flow', 'O fluxo')}</h2>
+    <FlowFields locale={locale} fields={reference.definition} />
+  </section>
+
+  <section class="dev-section" id="LocalizedText">
+    <h2 class="t-section">{l('Languages', 'Idiomas')}</h2>
+    <p>
+      {l(
+        'Text is an object keyed by language, and a reader sees the one they pray in, with the other beside it when they ask. Prayed text may carry Latin too.',
+        'O texto é um objeto com o idioma como chave, e quem lê vê aquele em que reza, com o outro ao lado quando pede. O texto rezado pode trazer também o latim.',
+      )}
+    </p>
+    <dl class="dev-facts">
+      <dt><code>LocalizedText</code></dt>
+      <dd><code>{reference.localized.LocalizedText}</code></dd>
+      <dt id="LocalizedContent"><code>LocalizedContent</code></dt>
+      <dd><code>{reference.localized.LocalizedContent}</code></dd>
+      <dt id="PickerStyle"><code>PickerStyle</code></dt>
+      <dd><code>{reference.localized.PickerStyle}</code></dd>
+    </dl>
+    <p class="t-annotation" set:html={inline(l(
+      'Any section may set `lang` to show only in that language. A ref without a kind, such as `"ref": "our-father"`, names a practice (`practice/our-father`).',
+      'Qualquer seção pode definir `lang` para aparecer só naquele idioma. Uma ref sem tipo, como `"ref": "our-father"`, indica uma prática (`practice/our-father`).',
+    ))} />
+  </section>
+
+  <section class="dev-section" id="sections">
+    <h2 class="t-section">{l('Section types', 'Tipos de seção')}</h2>
+    <ul class="type-index">
+      {reference.sections.map((s) => (
+        <li><a href={`#section-${s.type}`}><code>{s.type}</code></a></li>
+      ))}
+    </ul>
+
+    {reference.sections.map((s) => (
+      <article class="op" id={`section-${s.type}`}>
+        <header class="op-head">
+          <code class="op-path">{s.type}</code>
+          <span class="t-annotation">{usedBy(s.usedBy)}</span>
+        </header>
+        {s.variants.map((v, i) => (
+          <div class="variant">
+            {s.variants.length > 1 && <p class="t-kicker">{l('Form', 'Forma')} {i + 1}</p>}
+            {v.doc && <p class="op-desc" set:html={inline(v.doc)} />}
+            {v.fields.length > 0 ? (
+              <FlowFields locale={locale} fields={v.fields} />
+            ) : (
+              <p class="t-annotation" set:html={inline(l('No fields beyond `type`.', 'Nenhum campo além de `type`.'))} />
+            )}
+            {v.example && (
+              <>
+                <Code locale={locale} code={v.example.json} json label={`${l('From', 'De')} ${v.example.item}`} />
+                <p class="example-source">
+                  <a class="xref" href={sourceUrl(v.example.source)} rel="noopener">{v.example.source}</a>
+                </p>
+              </>
+            )}
+          </div>
+        ))}
+      </article>
+    ))}
+  </section>
+
+  <section class="dev-section" id="pipeline">
+    <h2 class="t-section">{l('From flow to page', 'Do fluxo à página')}</h2>
+    <ol class="dev-list numbered">
+      {pipeline.map((step) => <li set:html={inline(step)} />)}
+    </ol>
+  </section>
+</DevShell>

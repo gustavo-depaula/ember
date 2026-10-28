@@ -65,6 +65,7 @@
 					"la": "Regina caeli, laetare, alleluia:\nquia quem meruisti portare, alleluia,\nresurrexit sicut dixit, alleluia.\nOra pro nobis Deum, alleluia."
 				}
 			},
+			{"type": "chant", "ref": "chant/regina-caeli"},
 			{
 				"type": "divider"
 			},

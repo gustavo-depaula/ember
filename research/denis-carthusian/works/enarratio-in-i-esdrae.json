@@ -1,0 +1,74 @@
+{
+  "parts": [
+    {
+      "volume": "operaomniainunum05deni",
+      "leaves": [
+        "0223",
+        "0224",
+        "0225",
+        "0226",
+        "0227",
+        "0228",
+        "0229",
+        "0230",
+        "0231",
+        "0232",
+        "0233",
+        "0234",
+        "0235",
+        "0236",
+        "0237",
+        "0238",
+        "0239",
+        "0240",
+        "0241",
+        "0242",
+        "0243",
+        "0244",
+        "0245",
+        "0246",
+        "0247",
+        "0248",
+        "0249",
+        "0250"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/commentaries/enarratio-in-i-esdrae",
+  "slug": "enarratio-in-i-esdrae",
+  "draft": false,
+  "meta": {
+    "id": "denis-enarratio-in-i-esdrae",
+    "cover": "label",
+    "name": {
+      "la": "Enarratio in librum primum Esdræ",
+      "en-US": "Commentary on Ezra",
+      "pt-BR": "Comentário a Esdras"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Enarratio in librum primum Esdræ.",
+      "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum05deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. V (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  },
+  "toc_group": {
+    "pattern": "CAP\\.?\\s*([IVXLCUH]+)\\b",
+    "label": {
+      "la": "Caput {n}",
+      "en-US": "Chapter {n}",
+      "pt-BR": "Capítulo {n}"
+    }
+  }
+}

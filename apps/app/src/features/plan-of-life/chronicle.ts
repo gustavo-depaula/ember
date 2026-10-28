@@ -1,8 +1,9 @@
 import { format, parseISO, subDays } from 'date-fns'
 
+import { pinsAgree } from '@/content/pins'
 import type { TimeBlock } from '@/db/schema'
 
-import { type RuleSnapshot, snapshotAt } from './record'
+import { type Prayed, type RuleSnapshot, snapshotAt } from './record'
 import { isApplicableOn, type ScheduleContext } from './schedule'
 import { dayMinutes } from './timeBlocks'
 
@@ -36,9 +37,15 @@ export type ChronicleProgram = {
   practiceId: string
   time: string | null
   dates: (string | undefined)[]
+  /**
+   * For a program the calendar brings round: the dates of each round the plan
+   * takes. A day is numbered within its own round, and no round begins or ends
+   * the program.
+   */
+  rounds?: string[][]
 }
 
-type DayCompletion = { practiceId: string; subId: string | null; completedAt: number }
+type DayCompletion = Prayed & { practiceId: string; completedAt: number }
 
 // Where a time-less slot sits among timed ones: at its block's opening.
 const blockMinutes: Record<TimeBlock, number> = {
@@ -56,7 +63,8 @@ function minutesOf(time: string | null, block: TimeBlock = 'flexible'): number {
  * A day against the plan as it stood that day. Each practice's rule is the one
  * in force on the date; a time added that same day shows only if prayed, as
  * `keepingOn` counts it. A completion outside any due time of its practice
- * fills that practice's unkept time before it counts as extra. A program shows
+ * fills that practice's unkept time — one that doesn't pin another choice —
+ * before it counts as extra. A program shows
  * on the dates its current run gives it, or where an earlier run was prayed.
  * Today, a time still ahead is `ahead`, not missed.
  */
@@ -113,7 +121,12 @@ export function chronicleDay({
     )
     for (const slot of due) {
       if (kept.has(slot.id)) continue
-      const spare = take((c) => c.practiceId === practiceId && !dueIds.has(c.subId ?? 'default'))
+      const spare = take(
+        (c) =>
+          c.practiceId === practiceId &&
+          !dueIds.has(c.subId ?? 'default') &&
+          pinsAgree(slot.pins, c.pins),
+      )
       if (spare) kept.add(slot.id)
     }
     for (const slot of due) {
@@ -131,8 +144,9 @@ export function chronicleDay({
   }
 
   if (date <= today) {
-    for (const { practiceId, time, dates } of programs) {
-      const index = dates.indexOf(date)
+    for (const { practiceId, time, dates, rounds } of programs) {
+      const run = rounds ? (rounds.find((r) => r.includes(date)) ?? []) : dates
+      const index = run.indexOf(date)
       const prayed = take((c) => c.practiceId === practiceId)
       if (index === -1 && !prayed) continue
       placed.push({
@@ -145,6 +159,7 @@ export function chronicleDay({
       })
       // A program that waits for its prayers only projects its days: it begins
       // when its first is prayed, and its last ends it once prayed or past.
+      if (rounds) continue
       if (index === 0 && prayed) notes.push({ kind: 'programBegan', practiceId })
       if (index !== -1 && index === dates.length - 1 && (prayed || date < today)) {
         notes.push({ kind: 'programEnded', practiceId })

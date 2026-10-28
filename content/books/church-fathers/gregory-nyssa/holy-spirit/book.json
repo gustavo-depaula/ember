@@ -2,13 +2,16 @@
   "id": "gregory-nyssa-holy-spirit",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Holy Spirit (Against the Followers of Macedonius)"
+    "en-US": "On the Holy Spirit (Against the Followers of Macedonius)",
+    "pt-BR": "Sobre o Espírito Santo (Contra os seguidores de Macedônio)"
   },
   "author": {
-    "en-US": "Gregory of Nyssa"
+    "en-US": "Gregory of Nyssa",
+    "pt-BR": "Gregório de Nissa"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Holy Spirit (Against the Followers of Macedonius)"
+        "en-US": "On the Holy Spirit (Against the Followers of Macedonius)",
+        "pt-BR": "Sobre o Espírito Santo (Contra os seguidores de Macedônio)"
       }
     }
   ]

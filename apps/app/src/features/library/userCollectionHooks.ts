@@ -6,6 +6,8 @@
  */
 
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import { useMemo } from 'react'
+import { useTranslation } from 'react-i18next'
 import { saveItem, unsaveItem } from '@/db/repositories/savedItems'
 import {
   addItemToCollection,
@@ -19,8 +21,11 @@ import {
   renameUserCollection,
   reorderCollectionItems,
   setUserCollectionTone,
+  type UserCollection,
 } from '@/db/repositories/userCollections'
 
+import { favoriteItems, favoritesId } from './favorites'
+import { useSavedItems } from './savedHooks'
 import { buildUserCollectionManifest, userCollectionRef } from './userCollectionManifest'
 
 export function useUserCollections() {
@@ -30,10 +35,27 @@ export function useUserCollections() {
   })
 }
 
+/** Favorites reads through here too, assembled from the saved items. */
 export function useUserCollection(id: string | undefined) {
-  return useQuery({
+  const { t } = useTranslation()
+  const isFavorites = id === favoritesId
+  const saved = useSavedItems()
+  const favorites = useMemo(() => {
+    if (!isFavorites || !saved.data) return undefined
+    const collection: UserCollection = {
+      id: favoritesId,
+      name: t('library.favorites'),
+      coverTone: 0,
+      createdAt: 0,
+      updatedAt: 0,
+    }
+    const items = favoriteItems(saved.data)
+    return { collection, items, manifest: buildUserCollectionManifest(collection, items) }
+  }, [isFavorites, saved.data, t])
+
+  const stored = useQuery({
     queryKey: ['user-collection', id],
-    enabled: !!id,
+    enabled: !!id && !isFavorites,
     queryFn: async () => {
       if (!id) return undefined
       const [collection, items] = await Promise.all([
@@ -44,6 +66,10 @@ export function useUserCollection(id: string | undefined) {
       return { collection, items, manifest: buildUserCollectionManifest(collection, items) }
     },
   })
+
+  return isFavorites
+    ? { data: favorites, isPending: saved.isPending }
+    : { data: stored.data, isPending: stored.isPending }
 }
 
 export function useCollectionsContainingRef(ref: string | undefined) {

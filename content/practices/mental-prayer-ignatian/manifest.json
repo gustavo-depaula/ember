@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 30,
+	"duration": { "type": "chosen", "default": 30, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "What is commonly called *the* Ignatian method: the three powers of the soul — memory, understanding, will — applied in order to a subject chosen the night before. The most elaborate method ever built, and the most thorough.",
 		"pt-BR": "O que comumente se chama *o* método inaciano: as três potências da alma — memória, entendimento, vontade — aplicadas em ordem a um tema escolhido na véspera. O método mais elaborado que já se construiu, e o mais completo."

@@ -206,3 +206,47 @@ if (outline && flow) {
     if ((event.target as Element).closest('.picker')) window.setTimeout(draw)
   })
 }
+
+// A score is engraved when the reader first comes to it; the engraver is a
+// large module, fetched only then (scripts/engrave.ts).
+async function engraveIn(score: Element) {
+  const { engrave } = await import('./engrave')
+  for (const chant of score.querySelectorAll<HTMLElement>('.chant:not([data-engraved])')) {
+    const sheet = chant.querySelector<HTMLElement>('.chant-sheet')
+    if (!sheet) continue
+    chant.dataset.engraved = ''
+    engrave(sheet, chant.dataset.gabc ?? '', chant.dataset.name ?? '')
+  }
+}
+
+// A text and its chant are two faces of one block: the staff by the title
+// turns it, as it does in the app.
+for (const block of document.querySelectorAll<HTMLElement>('.sung')) {
+  const mark = block.querySelector<HTMLButtonElement>('.sung-mark')
+  const text = block.querySelector<HTMLElement>('.sung-text')
+  const score = block.querySelector<HTMLElement>('.sung-score')
+  if (!mark || !text || !score) continue
+  mark.addEventListener('click', () => {
+    const sung = score.hidden
+    score.hidden = !sung
+    text.hidden = sung
+    mark.setAttribute('aria-pressed', String(sung))
+    const label = (sung ? mark.dataset.hide : mark.dataset.show) ?? ''
+    mark.setAttribute('aria-label', label)
+    mark.title = label
+    if (sung) engraveIn(score)
+  })
+}
+
+// A chant with no text to turn from stands open, and is engraved as it nears the screen.
+const nearing = new IntersectionObserver(
+  (entries) => {
+    for (const entry of entries) {
+      if (!entry.isIntersecting) continue
+      nearing.unobserve(entry.target)
+      engraveIn(entry.target)
+    }
+  },
+  { rootMargin: '400px' },
+)
+for (const score of document.querySelectorAll('.sung-score:not([hidden])')) nearing.observe(score)

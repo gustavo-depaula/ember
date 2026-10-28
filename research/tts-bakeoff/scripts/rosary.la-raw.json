@@ -1,0 +1,426 @@
+{
+ "lang": "la",
+ "mysteries": "glorious",
+ "clips": {
+  "sign-of-cross": "In nómine Patris, et Fílii, et Spíritus Sancti. Amen.",
+  "apostles-creed": "Credo in Deum Patrem omnipoténtem, Creatórem caeli et terrae. Et in Iesum Christum, Fílium eius únicum, Dóminum nostrum, qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus, descéndit ad ínferos, tértia die resurréxit a mórtuis, ascéndit ad caelos, sedet ad déxteram Dei Patris omnipoténtis, inde ventúrus est iudicáre vivos et mórtuos. Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, sanctórum communiónem, remissiónem peccatórum, carnis resurrectiónem, vitam aetérnam. Amen.",
+  "our-father": "Pater noster, qui es in caelis, sanctificétur nomen tuum. Advéniat regnum tuum. Fiat volúntas tua, sicut in caelo et in terra. Panem nostrum quotidiánum da nobis hódie, et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris. Et ne nos indúcas in tentatiónem, sed líbera nos a malo. Amen.",
+  "our-father.v": "Pater noster, qui es in caelis, sanctificétur nomen tuum. Advéniat regnum tuum. Fiat volúntas tua, sicut in caelo et in terra.",
+  "our-father.r": "Panem nostrum quotidiánum da nobis hódie, et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris. Et ne nos indúcas in tentatiónem, sed líbera nos a malo. Amen.",
+  "hail-mary": "Ave María, grátia plena, Dóminus tecum. Benedícta tu in muliéribus, et benedíctus fructus ventris tui, Iesus. Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostrae. Amen.",
+  "hail-mary.v": "Ave María, grátia plena, Dóminus tecum. Benedícta tu in muliéribus, et benedíctus fructus ventris tui, Iesus.",
+  "hail-mary.r": "Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostrae. Amen.",
+  "hail-mary.t1": "Ave María, grátia plena, Dóminus tecum. Benedícta tu in muliéribus, et benedíctus fructus ventris tui, Iesus. Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostrae. Amen.",
+  "hail-mary.t2": "Ave María, grátia plena, Dóminus tecum. Benedícta tu in muliéribus, et benedíctus fructus ventris tui, Iesus. Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostrae. Amen.",
+  "hail-mary.t3": "Ave María, grátia plena, Dóminus tecum. Benedícta tu in muliéribus, et benedíctus fructus ventris tui, Iesus. Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostrae. Amen.",
+  "glory-be": "Glória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sáecula saeculórum. Amen.",
+  "glory-be.v": "Glória Patri, et Fílio, et Spirítui Sancto.",
+  "glory-be.r": "Sicut erat in princípio, et nunc, et semper, et in sáecula saeculórum. Amen.",
+  "mystery-1": "Primum mystérium gloriósum: Resurréctio Dómini.",
+  "fatima-prayer": "O mi Iesu, dimítte nobis débita nostra, salva nos ab igne inférni, perduc in caelum omnes ánimas, praesértim eas quae misericórdiae tuae máxime indígent.",
+  "mystery-2": "Secúndum mystérium gloriósum: Ascénsio Dómini.",
+  "mystery-3": "Tértium mystérium gloriósum: Míssio Spíritus Sancti.",
+  "mystery-4": "Quartum mystérium gloriósum: Assúmptio Beátae Maríae Vírginis.",
+  "mystery-5": "Quintum mystérium gloriósum: Coronátio Beátae Maríae Vírginis.",
+  "hail-holy-queen": "Salve, Regína, Mater misericórdiae, vita, dulcédo, et spes nostra, salve. Ad te clamámus, éxsules fílii Evae. Ad te suspirámus, geméntes et flentes in hac lacrimárum valle. Eia ergo, advocáta nostra, illos tuos misericórdes óculos ad nos convérte. Et Iesum, benedíctum fructum ventris tui, nobis post hoc exsílium osténde. O clemens, o pia, o dulcis Virgo María."
+ },
+ "sequence": [
+  {
+   "clip": "sign-of-cross",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "apostles-creed",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-1",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-2",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-3",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-4",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-5",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-holy-queen",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "sign-of-cross",
+   "pauseMs": 1200,
+   "role": "leader"
+  }
+ ],
+ "variant": "la-raw",
+ "speakAs": "it"
+}

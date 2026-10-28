@@ -5,7 +5,7 @@ import { beforeAll, describe, expect, it } from 'vitest'
 import { setCatalog } from '@/content/contentIndex'
 import type { Completion } from '@/db/schema'
 
-import { liturgicalActs } from '../acts'
+import { liturgicalActs, prayedDayActs, roundActs } from '../acts'
 
 // The built corpus catalog (`pnpm build:corpus`): forms get their group's
 // liturgicalAct at build, and that's what the app reads.
@@ -15,7 +15,7 @@ beforeAll(() => {
 })
 
 const prayed = (prayed_id: string, sub_id = 'default'): Completion => ({
-  id: 0,
+  id: '0',
   practice_id: 'practice/plan-practice',
   sub_id,
   date: '2026-10-04',
@@ -32,7 +32,6 @@ describe('liturgicalActs', () => {
   it('counts every form of the breviaries and the Liturgy of the Hours as the Office', () => {
     const office = [
       'liturgy-of-the-hours',
-      'divine-office',
       'breviary-1955',
       'breviary-office-of-the-dead',
       'breviary-little-office-bvm',
@@ -42,10 +41,97 @@ describe('liturgicalActs', () => {
   })
 
   it('does not count a standalone Little Office, or a devotion', () => {
-    expect(kinds('little-office-bvm', 'little-office-bvm-carmelite', 'rosary')).toEqual([])
+    expect(kinds('little-office-bvm-roman', 'little-office-bvm-carmelite', 'rosary')).toEqual([])
   })
 
   it('ignores backfilled days', () => {
     expect(liturgicalActs([prayed('mass', 'backfill')])).toEqual([])
+  })
+})
+
+describe('roundActs', () => {
+  const manifest = JSON.parse(
+    readFileSync(
+      resolve(__dirname, '../../../../../../content/practices/ember-days/manifest.json'),
+      'utf-8',
+    ),
+  )
+  const acts = (p: ReturnType<typeof plan>) => roundActs(p, today, () => manifest).acts
+
+  // Advent 2026: Wednesday 16, Friday 18 and Saturday 19 December.
+  const plan = (marked: Record<string, string>) => {
+    const completions = new Map(
+      Object.entries(marked).map(([date, on], i): [string, Completion] => [
+        String(i),
+        {
+          id: String(i),
+          practice_id: 'ember-days',
+          sub_id: 'default',
+          date,
+          completed_at: new Date(`${on}T12:00:00`).getTime(),
+        },
+      ]),
+    )
+    return {
+      slots: new Map([
+        [
+          'slot',
+          {
+            id: 'slot',
+            practice_id: 'ember-days',
+            enabled: 1,
+            sort_order: 0,
+            tier: 'extra' as const,
+            time: null,
+            time_block: 'flexible' as const,
+            notify: null,
+            schedule: '{"type":"ember-days"}',
+          },
+        ],
+      ]),
+      cursors: new Map(),
+      completions,
+      completionsByPractice: new Map([['ember-days', new Set(completions.keys())]]),
+    }
+  }
+  const today = new Date(2026, 11, 20)
+
+  it("gives the season's act once all three days are kept, dated the Saturday", () => {
+    const kept = plan({
+      '2026-12-16': '2026-12-16',
+      '2026-12-18': '2026-12-18',
+      '2026-12-19': '2026-12-19',
+    })
+    expect(acts(kept)).toEqual([{ kind: 'emberDaysFinished', ember: 'advent', date: '2026-12-19' }])
+  })
+
+  it('gives nothing for a week with a day missed, or one ticked the day after', () => {
+    expect(acts(plan({ '2026-12-16': '2026-12-16', '2026-12-19': '2026-12-19' }))).toEqual([])
+    const late = plan({
+      '2026-12-16': '2026-12-16',
+      '2026-12-18': '2026-12-19',
+      '2026-12-19': '2026-12-19',
+    })
+    expect(acts(late)).toEqual([])
+  })
+})
+
+describe('prayedDayActs', () => {
+  const day = (...ids: string[]) => prayedDayActs(ids.map((id) => prayed(id)))
+
+  it('counts a day with the offering, the rosary and the examen, in any of their forms', () => {
+    const kept = [{ kind: 'prayedDay', date: '2026-10-04' }]
+    expect(day('morning-offering', 'rosary', 'examination-of-conscience')).toEqual(kept)
+    expect(day('morning-offering-carmelite', 'rosary', 'examination-of-conscience')).toEqual(kept)
+  })
+
+  it('does not count a day missing one, or one made up by a backfill', () => {
+    expect(day('morning-offering', 'rosary', 'rosary-54-day-novena')).toEqual([])
+    const backfilled = [
+      prayed('morning-offering'),
+      prayed('rosary'),
+      prayed('examination-of-conscience', 'backfill'),
+    ]
+    expect(prayedDayActs(backfilled)).toEqual([])
   })
 })

@@ -12,4 +12,6 @@ Os exercícios pessoais não se devem fazer publicamente, mais seguro é pratic�
 
 À volta das festas principais devemos renovar os nossos bons exercícios e com mais fervor implorar a intercessão dos santos. De uma para outra festividade devemos preparar-nos, como se então houvéssemos de sair deste mundo e chegar à festividade eterna. Por isso, devemos aparelhar-nos diligentemente, nos tempos de devoção, com vida mais piedosa e observância mais fiel de todas as regras, como se houvéssemos de receber em breve o galardão do nosso trabalho.
 
-E, se for adiada essa hora, tenhamos por certo que não estamos ainda bem preparados nem dignos de tamanha glória que, a seu tempo, se revelará em nós, e tratemos de nos preparar para a morte. Bem-aventurado o servo. Diz o evangelista São Lucas, a quem o Senhor, quando vier, achar vigiando. Em verdade vos digo que o constituirá sobre todos os seus bens (12, 37 e 43).
+E, se for adiada essa hora, tenhamos por certo que não estamos ainda bem preparados nem dignos de tamanha glória que, a seu tempo, se revelará em nós, e tratemos de nos preparar para a morte. Bem-aventurado o servo. Diz o evangelista São Lucas, a quem o Senhor, quando vier, achar vigiando. Em verdade vos digo que o constituirá sobre todos os seus bens (12, 37 e 43).[^1]
+
+[^1]: Lucas 12, 43 e 44.

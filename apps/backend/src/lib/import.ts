@@ -74,7 +74,7 @@ export function buildRows(dump: ChurchDump[], prior: IdMapping[] = []): BuiltRow
 
 // Deterministic per-church service id (`churchId:hash(slot)`) so a `correction` can target one Mass
 // and a re-import keeps the same id for an unchanged slot — strictly more stable than a random UUID.
-function serviceId(churchId: string, s: ServiceDump): string {
+export function serviceId(churchId: string, s: ServiceDump): string {
   const sig = [s.kind, s.rrule, s.startTime, s.endTime ?? '', s.language ?? '', s.rite ?? ''].join(
     '|',
   )
@@ -107,7 +107,9 @@ export async function importRows(db: Db, rows: BuiltRows): Promise<void> {
 function excludedSet(table: typeof church): Record<string, ReturnType<typeof sql.raw>> {
   const set: Record<string, ReturnType<typeof sql.raw>> = {}
   for (const [key, col] of Object.entries(getTableColumns(table))) {
-    if (col.primary) continue
+    // A church's parish is recorded by a moderator and has no place in the dump, so a re-import
+    // must leave it standing.
+    if (col.primary || key === 'parishId') continue
     set[key] = sql.raw(`excluded."${col.name}"`)
   }
   return set
@@ -140,7 +142,7 @@ export function mappingToJsonl(mapping: IdMapping[]): string {
   return mapping.map((m) => JSON.stringify(m)).join('\n')
 }
 
-function inlineParams(sql: string, params: unknown[]): string {
+export function inlineParams(sql: string, params: unknown[]): string {
   let i = 0
   return sql.replace(/\?/g, () => sqlLiteral(params[i++]))
 }
@@ -160,7 +162,7 @@ function uniqueSlug(parts: (string | undefined)[], used: Set<string>): string {
   return id
 }
 
-function slugify(s: string): string {
+export function slugify(s: string): string {
   return s
     .toLowerCase()
     .normalize('NFKD')

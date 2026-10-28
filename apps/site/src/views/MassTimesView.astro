@@ -1,9 +1,11 @@
 ---
 import enUS from '@/lib/i18n/locales/en-US'
 import ptBR from '@/lib/i18n/locales/pt-BR'
+import ChurchChanges from '~/components/ChurchChanges.astro'
 import Base from '~/layouts/Base.astro'
 import type { Locale } from '~/lib/locale'
 import { massTimesApi, places } from '~/lib/massTimes/data'
+import { changesStrings } from '~/lib/massTimes/changes'
 import { makeT } from '~/lib/massTimes/t'
 import { href } from '~/routes'
 
@@ -44,6 +46,7 @@ const description = pt
       <>
         <p class="back"><a class="go" href={href.section(locale, 'massTimes')}>← {t('massTimes.title')}</a></p>
         <article data-church><p class="mt-none">…</p></article>
+        <ChurchChanges locale={locale} />
       </>
     ) : (
       <>
@@ -84,6 +87,8 @@ const description = pt
               </ul>
             </section>
           )}
+
+          <p class="changes-link"><a class="go" href={href.massTimesChanges(locale)}>{changesStrings[locale].title} →</a></p>
 
           <p class="t-annotation about">
             {pt
@@ -143,6 +148,7 @@ const description = pt
     padding-inline: 4px;
   }
   .places,
+  .changes-link,
   .about {
     padding-top: var(--space-xl);
   }

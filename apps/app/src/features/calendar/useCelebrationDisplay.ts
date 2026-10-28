@@ -1,8 +1,10 @@
+import { descriptionOf } from '@ember/missal'
 import { useTranslation } from 'react-i18next'
 
 import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalDayName, type ResolvedCelebration } from '@/lib/liturgical'
-import { useMassFormulary } from '@/lib/mass-of/useMassFormulary'
+import { useMassFormulary } from '@/lib/missal/useMassFormulary'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 /**
  * A celebration's display name and description.
@@ -16,6 +18,7 @@ export function useCelebrationDisplay(celebration: ResolvedCelebration | undefin
   description: string
 } {
   const { t } = useTranslation()
+  const transfers = useOfTransfers()
   const { data: formulary } = useMassFormulary(celebration?.entry.id)
 
   if (!celebration) return { name: '', description: '' }
@@ -23,11 +26,14 @@ export function useCelebrationDisplay(celebration: ResolvedCelebration | undefin
   const name =
     localizeContent(celebration.entry.name) ||
     (formulary?.title ? localizeContent(formulary.title) : '') ||
-    getLiturgicalDayName(celebration.date, 'of', { t: (k, o) => t(k, o) as string })
+    getLiturgicalDayName(celebration.date, 'of', { t: (k, o) => t(k, o) as string }, transfers)
 
-  const description = formulary?.description
-    ? localizeContent(formulary.description)
-    : localizeContent(celebration.entry.description)
+  const note = {
+    'en-US': descriptionOf(formulary ?? undefined, 'en-US'),
+    'pt-BR': descriptionOf(formulary ?? undefined, 'pt-BR'),
+    la: descriptionOf(formulary ?? undefined, 'la'),
+  }
+  const description = localizeContent(note) || localizeContent(celebration.entry.description)
 
   return { name, description }
 }

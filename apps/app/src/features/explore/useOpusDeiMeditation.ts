@@ -1,5 +1,4 @@
 import { useQuery } from '@tanstack/react-query'
-import { Platform } from 'react-native'
 import { useToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import { fetchMeditationSummary } from '@/sources/opus-dei/meditation'
@@ -13,7 +12,6 @@ export function useOpusDeiMeditation() {
   const { data } = useQuery({
     queryKey: ['opus-dei-meditation-summary', lang, dateSlug(today)],
     queryFn: () => fetchMeditationSummary(lang, today),
-    enabled: Platform.OS !== 'web',
     staleTime: 6 * 60 * 60 * 1000,
     gcTime: 12 * 60 * 60 * 1000,
     retry: 1,

@@ -6,9 +6,12 @@ import BibleChapterView from '~/views/BibleChapterView.astro'
 import BibleView from '~/views/BibleView.astro'
 import BooksView from '~/views/BooksView.astro'
 import ChurchView from '~/views/ChurchView.astro'
+import MassTimesChangesView from '~/views/MassTimesChangesView.astro'
 import MassTimesView from '~/views/MassTimesView.astro'
 import PlaceView from '~/views/PlaceView.astro'
 import PlansView from '~/views/PlansView.astro'
+import ConnectView from '~/views/ConnectView.astro'
+import DevelopersView from '~/views/developers/DevelopersView.astro'
 import SearchView from '~/views/SearchView.astro'
 import VoicesView from '~/views/VoicesView.astro'
 import CalendarDayView from '~/views/CalendarDayView.astro'
@@ -19,6 +22,8 @@ import OfficeView from '~/views/OfficeView.astro'
 import SaintsView from '~/views/SaintsView.astro'
 import SaintView from '~/views/SaintView.astro'
 import BookView from '~/views/BookView.astro'
+import ChantsView from '~/views/ChantsView.astro'
+import ChantView from '~/views/ChantView.astro'
 import ChapterView from '~/views/ChapterView.astro'
 import CollectionsView from '~/views/CollectionsView.astro'
 import CollectionView from '~/views/CollectionView.astro'
@@ -65,10 +70,15 @@ const { page, locale, alternates, canonical } = entry
 {page.view === 'latinMass' && <LatinMassView locale={locale} alternates={alternates} date={parseIsoDate(page.date)} isToday={page.today} />}
 {page.view === 'office' && <OfficeView locale={locale} alternates={alternates} date={parseIsoDate(page.date)} hour={page.hour} isToday={page.today} form={page.form} />}
 {page.view === 'massTimes' && <MassTimesView locale={locale} alternates={alternates} />}
+{page.view === 'massTimesChanges' && <MassTimesChangesView locale={locale} alternates={alternates} />}
 {page.view === 'churchShell' && <MassTimesView locale={locale} alternates={alternates} church />}
 {page.view === 'church' && <ChurchView locale={locale} alternates={alternates} id={page.id} />}
 {page.view === 'place' && <PlaceView locale={locale} alternates={alternates} country={page.country} place={page.place} />}
 {page.view === 'search' && <SearchView locale={locale} alternates={alternates} />}
+{page.view === 'connect' && <ConnectView locale={locale} alternates={alternates} />}
 {page.view === 'plans' && <PlansView locale={locale} alternates={alternates} />}
 {page.view === 'plan' && <PlansView locale={locale} alternates={alternates} id={page.id} />}
 {page.view === 'voices' && <VoicesView locale={locale} alternates={alternates} />}
+{page.view === 'chants' && <ChantsView locale={locale} alternates={alternates} />}
+{page.view === 'chant' && <ChantView locale={locale} alternates={alternates} id={page.id} />}
+{page.view === 'developers' && <DevelopersView locale={locale} alternates={alternates} doc={page.doc} />}

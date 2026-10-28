@@ -15,30 +15,26 @@ and even if in certain encounters you know how to behave humbly, it is more supe
 real and profound humility. Humility is truth and therefore tells you
 that, having of your own only sin, by right of
 justice what belongs to you is only humiliation and contempt. If
-
-
 you were really convinced of this, you would find very just
 that all should humble you, treat you badly, despise you.
 For in fact, what honors and regards does one deserve who has
 offended his Creator, when one single sin, even
 venial, is more deplorable and merits greater contempt than
-
-
 any state of misery, poverty, or earthly ignobility?
 
 Deeply persuaded of this, the Saints never
 considered humiliations inflicted on them too grave,
 indeed they always found them inferior to what they thought they
-deserved. "I have never heard so much evil said of me -
+deserved. “I have never heard so much evil said of me -
 said St. Teresa of Jesus - without seeing at the same time that
 it was still too little. If they accused me falsely on
 one point, I saw that I had offended the Lord on many
-others and that they did me a great charity by not speaking of them"
+others and that they did me a great charity by not speaking of them”
 (Way 15, 3).
 
-"Have patience, then, in your humiliations, because,
+“Have patience, then, in your humiliations, because,
 as gold is tested by fire, so man in the crucible
-of humiliation" (cf. Sir. 2, 4 and 5). If you feel the weight of
+of humiliation” (cf. Sir. 2, 4 and 5). If you feel the weight of
 your pride and truly desire to be freed from it, accept
 every humiliation and through them the Lord will break your pride.
 
@@ -64,8 +60,6 @@ you react and reject them with resentment,
 with annoyance, and grow indignant against those who procure them?
 
 Certainly, humiliation cannot be pleasing to our
-
-
 proud and touchy nature; nevertheless, though feeling
 its bitterness, you must strive to accept it willingly,
 repeating in your heart: good for me, O Lord, that I have
@@ -76,18 +70,18 @@ of humiliations will become sweet and gentle to you; but to this
 gentleness one arrives only after long exercise,
 for besides, what counts most is not gentleness,
 but the will to accept all that
-humiliates us. "Let yourself be taught, let yourself be commanded, let yourself be subjected and
-you will be perfect" (J.C. S.C. II, 33).
+humiliates us. “Let yourself be taught, let yourself be commanded, let yourself be subjected and
+you will be perfect” (J.C. S.C. II, 33).
 
 ### Colloquy
 
-"O Lord, what injury can ever be done to a
+“O Lord, what injury can ever be done to a
 person like me who has deserved to be tormented by
 demons for all eternity? If they treat me badly in this world, is it not perhaps with justice? Truly, O Lord,
 in this respect I really have nothing to offer You... I acknowledge myself so guilty before You that I see those who
 injure me still treat me too well, when,
 not knowing who I am, as You know me,
-they believe they offend me" (T.G. Way 36, 2).
+they believe they offend me” (T.G. Way 36, 2).
 
 My God, it is very true! the only thing that to me, a sinner,
 belongs by right is humiliation, injury, contempt.
@@ -121,6 +115,4 @@ want to drink to the last drop every humiliation.
 But help me Yourself,
 O sweetest Jesus who willed to know humiliation,
 because without You I know only how to fail in my
-
-
 resolutions.

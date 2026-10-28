@@ -7,6 +7,10 @@
 		"en-US": "Litany of All Saints",
 		"pt-BR": "Ladainha de Todos os Santos"
 	},
+	"source": {
+		"en-US": "Closing collect: *Deus, cui proprium est*, the first of the collects that end the Litany of the Saints in the Roman Ritual and Breviary. Latin and Portuguese from Divinum Officium (*Psalterium/Special/Preces*); English in the traditional rendering.",
+		"pt-BR": "Coleta final: *Deus, cui proprium est*, a primeira das coletas que encerram a Ladainha de Todos os Santos no Ritual e no Breviário Romano. Latim e português do Divinum Officium (*Psalterium/Special/Preces*); inglês na versão tradicional."
+	},
 	"categories": [
 		"litany",
 		"saints",

@@ -20,12 +20,13 @@ export function HolyCardEnvelopes({ pending }: { pending: Grant[] }) {
   const top = pending[0]
   const named = top.choice.length === 1 ? byId[top.choice[0]]?.name : undefined
   const won = howWon(top, t)
-  // A named envelope reads its saint; a starter asks for a choice; any other
-  // choice says what's to choose.
+  // A named envelope reads its saint; a starter asks for a choice; a drawn one
+  // has nothing to choose; any other choice says what's to choose.
   const { title, subtitle } = (() => {
     const due = [won, openBy(top, today, t)].filter(Boolean).join(' · ')
     if (named) return { title: named, subtitle: due }
     if (top.door === 'starter') return { title: won, subtitle: t('saints.redeem.chooseStarter') }
+    if (top.drawn) return { title: t('home.events.drawn'), subtitle: due }
     return { title: t('saints.redeem.choose'), subtitle: due }
   })()
 

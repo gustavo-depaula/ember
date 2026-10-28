@@ -2,13 +2,16 @@
   "id": "peter-canonical-epistle",
   "cover": "quarter",
   "name": {
-    "en-US": "The Canonical Epistle"
+    "en-US": "The Canonical Epistle",
+    "pt-BR": "A Epístola Canônica"
   },
   "author": {
-    "en-US": "Peter of Alexandria"
+    "en-US": "Peter of Alexandria",
+    "pt-BR": "São Pedro de Alexandria"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Canonical Epistle"
+        "en-US": "The Canonical Epistle",
+        "pt-BR": "A Epístola Canônica"
       }
     }
   ]

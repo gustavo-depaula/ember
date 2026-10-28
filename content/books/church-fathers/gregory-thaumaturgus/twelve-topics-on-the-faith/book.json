@@ -2,13 +2,16 @@
   "id": "gregory-thaumaturgus-twelve-topics-on-the-faith",
   "cover": "quarter",
   "name": {
-    "en-US": "Twelve Topics on the Faith"
+    "en-US": "Twelve Topics on the Faith",
+    "pt-BR": "Doze Capítulos sobre a Fé"
   },
   "author": {
-    "en-US": "Gregory Thaumaturgus"
+    "en-US": "Gregory Thaumaturgus",
+    "pt-BR": "Gregório Taumaturgo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Twelve Topics on the Faith"
+        "en-US": "Twelve Topics on the Faith",
+        "pt-BR": "Doze Capítulos sobre a Fé"
       }
     }
   ]

@@ -1,0 +1,68 @@
+{
+  "parts": [
+    {
+      "volume": "operaomniainunum10deni",
+      "leaves": [
+        "0583",
+        "0584",
+        "0585",
+        "0586",
+        "0587",
+        "0588",
+        "0589",
+        "0590",
+        "0591",
+        "0592",
+        "0593",
+        "0594",
+        "0595",
+        "0596",
+        "0597",
+        "0598",
+        "0599",
+        "0600",
+        "0601",
+        "0602",
+        "0603",
+        "0604"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/commentaries/enarratio-in-nahum",
+  "slug": "enarratio-in-nahum",
+  "draft": false,
+  "meta": {
+    "id": "denis-enarratio-in-nahum",
+    "cover": "label",
+    "name": {
+      "la": "Enarratio in Nahum",
+      "en-US": "Commentary on Nahum",
+      "pt-BR": "Comentário a Naum"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Enarratio in Nahum.",
+      "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum10deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. X (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  },
+  "toc_group": {
+    "pattern": "CAP\\.?\\s*([IVXLCUH]+)\\b",
+    "label": {
+      "la": "Caput {n}",
+      "en-US": "Chapter {n}",
+      "pt-BR": "Capítulo {n}"
+    }
+  }
+}

@@ -1,0 +1,390 @@
+{
+ "pericopes": [
+  1,
+  9,
+  15,
+  18,
+  31,
+  35
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Luke; measured, orderly storytelling, including the words that introduce speech."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth on the way to Jerusalem and in the temple; calm authority, teaching in parables, warning and healing."
+  },
+  "rich-man": {
+   "name": "The rich ruler",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A wealthy ruler asking about everlasting life; respectful and sincere, sure of his own observance."
+  },
+  "bystanders": {
+   "name": "Bystanders",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Those who heard the saying about the rich; dismayed, asking who can be saved."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Apostle; speaking up for the twelve, a little anxious about what they have given up."
+  },
+  "bartimaeus": {
+   "name": "The blind man of Jericho",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The blind beggar by the wayside near Jericho (Bartimaeus in Mark; unnamed in Luke); shouting insistently over the crowd, then simple and trusting."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And he spoke also a parable to them, that we ought always to pray and not to faint,"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "There was a judge in a certain city, who feared not God nor regarded man."
+   }
+  ],
+  "3": [
+   {
+    "s": "jesus",
+    "t": "And there was a certain widow in that city; and she came to him, saying: Avenge me of my adversary."
+   }
+  ],
+  "4": [
+   {
+    "s": "jesus",
+    "t": "And he would not for a long time. But afterwards he said within himself: Although I fear not God nor regard man,"
+   }
+  ],
+  "5": [
+   {
+    "s": "jesus",
+    "t": "Yet because this widow is troublesome to me, I will avenge her, lest continually coming she weary me."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Hear what the unjust judge saith."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "And will not God revenge his elect who cry to him day and night? And will he have patience in their regard?"
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "I say to you that he will quickly revenge them. But yet the Son of man, when he cometh, shall he find, think you, faith on earth?"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And to some who trusted in themselves as just and despised others, he spoke also this parable:"
+   }
+  ],
+  "10": [
+   {
+    "s": "jesus",
+    "t": "Two men went up into the temple to pray: the one a Pharisee and the other a publican."
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "The Pharisee standing, prayed thus with himself: O God, I give thee thanks that I am not as the rest of men, extortioners, unjust, adulterers, as also is this publican."
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "I fast twice in a week: I give tithes of all that I possess."
+   }
+  ],
+  "13": [
+   {
+    "s": "jesus",
+    "t": "And the publican, standing afar off, would not so much as lift up his eyes towards heaven; but struck his breast, saying: O God, be merciful to me a sinner."
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "I say to you, this man went down into his house justified rather than the other: because every one that exalteth himself shall be humbled: and he that humbleth himself shall be exalted."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And they brought unto him also infants, that he might touch them. Which when the disciples saw, they rebuked them."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "But Jesus, calling them together, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Suffer children to come to me and forbid them not: for of such is the kingdom of God."
+   }
+  ],
+  "17": [
+   {
+    "s": "jesus",
+    "t": "Amen, I say to you: Whosoever shall not receive the kingdom of God as a child shall not enter into it."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And a certain ruler asked him, saying:"
+   },
+   {
+    "s": "rich-man",
+    "t": "Good master, what shall I do to possess everlasting life?"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And Jesus said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Why dost thou call me good? None is good but God alone."
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "Thou knowest the commandments: Thou shalt not kill. Thou shalt not commit adultery: Thou shalt not steal: Thou shalt not bear false witness: Honour thy father and mother."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Who said:"
+   },
+   {
+    "s": "rich-man",
+    "t": "All these things have I kept from my youth."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Which when Jesus had heard, he said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Yet one thing is wanting to thee. Sell all whatever thou hast and give to the poor: and thou shalt have treasure in heaven. And come, follow me."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "He having heard these things, became sorrowful: for he was very rich."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And Jesus seeing him become sorrowful, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "How hardly shall they that have riches enter into the kingdom of God"
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "For it is easier for a camel to pass through the eye of a needle than for a rich man to enter into the kingdom of God."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And they that heard it said:"
+   },
+   {
+    "s": "bystanders",
+    "t": "Who then can be saved?"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "He said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "The things that are impossible with men are possible with God."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Then Peter said:"
+   },
+   {
+    "s": "peter",
+    "t": "Behold, we have left all things and have followed thee."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Who said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen, I say to you, there is no man that hath left home or parents or brethren or wife or children, for the kingdom of God's sake,"
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "Who shall not receive much more in this present time, and in the world to come life everlasting."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Then Jesus took unto him the twelve and said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Behold, we go up to Jerusalem; and all things shall be accomplished which were written by the prophets concerning the Son of man."
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "For he shall be delivered to the Gentiles and shall be mocked and scourged and spit upon."
+   }
+  ],
+  "33": [
+   {
+    "s": "jesus",
+    "t": "And after they have scourged him, they will put him to death. And the third day he shall rise again."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And they understood none of these things, and this word was hid from them: and they understood not the things that were said."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Now it came to pass, when he drew nigh to Jericho, that a certain blind man sat by the way side, begging."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And when he heard the multitude passing by, he asked what this meant."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And they told him that Jesus of Nazareth was passing by."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And he cried out, saying:"
+   },
+   {
+    "s": "bartimaeus",
+    "t": "Jesus, Son of David, have mercy on me."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And they that went before rebuked him, that he should hold his peace: but he cried out much more:"
+   },
+   {
+    "s": "bartimaeus",
+    "t": "Son of David, have mercy on me."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And Jesus standing, commanded him to be brought unto him. And when he was come near, he asked him,"
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "Saying;"
+   },
+   {
+    "s": "jesus",
+    "t": "What wilt thou that I do to thee?"
+   },
+   {
+    "s": "narrator",
+    "t": "But he said:"
+   },
+   {
+    "s": "bartimaeus",
+    "t": "Lord, that I may see."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "And Jesus said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Receive thy sight: thy faith hath made thee whole."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "And immediately he saw and followed him, glorifying God. And all the people, when they saw it, gave praise to God."
+   }
+  ]
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "baldad": {
+   "name": "Baldad the Suhite",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Second of Job's friends; his brief third speech on God's majesty and man's uncleanness."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Then Baldad the Suhite answered, and said:"
+   }
+  ],
+  "2": [
+   {
+    "s": "baldad",
+    "t": "Power and terror are with him, who maketh peace in his high places."
+   }
+  ],
+  "3": [
+   {
+    "s": "baldad",
+    "t": "Is there any numbering of his soldiers? and upon whom shall not his light arise?"
+   }
+  ],
+  "4": [
+   {
+    "s": "baldad",
+    "t": "Can man be justified compared with God, or he that is born of a woman appear clean?"
+   }
+  ],
+  "5": [
+   {
+    "s": "baldad",
+    "t": "Behold even the moon doth not shine, and the stars are not pure in his sight."
+   }
+  ],
+  "6": [
+   {
+    "s": "baldad",
+    "t": "How much less man that is rottenness and the son of man who is a worm?"
+   }
+  ]
+ }
+}

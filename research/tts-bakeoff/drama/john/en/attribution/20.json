@@ -1,0 +1,333 @@
+{
+ "pericopes": [
+  1,
+  11,
+  19,
+  24,
+  30
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist telling the Passion and Resurrection; grave, steady."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord in his Passion and risen; calm, sovereign, tender with his own."
+  },
+  "mary-magdalene": {
+   "name": "Mary Magdalen",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "Disciple weeping at the tomb; distraught, then overjoyed."
+  },
+  "angel": {
+   "name": "Angels at the tomb",
+   "kind": "angel",
+   "gender": "male",
+   "age": "adult",
+   "note": "Two angels in white sitting in the sepulchre; gentle."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The apostles together; glad witnesses, plain fishermen."
+  },
+  "thomas": {
+   "name": "Thomas",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Apostle called Didymus; stubborn doubt, then adoration."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And on the first day of the week, Mary Magdalen cometh early, when it was yet dark, unto the sepulchre: and she saw the stone taken away from the sepulchre."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "She ran therefore and cometh to Simon Peter and to the other disciple whom Jesus loved and saith to them:"
+   },
+   {
+    "s": "mary-magdalene",
+    "t": "They have taken away the Lord out of the sepulchre: and we know not where they have laid him."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Peter therefore went out, and the other disciple: and they came to the sepulchre."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And they both ran together: and that other disciple did outrun Peter and came first to the sepulchre."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And when he stooped down, he saw the linen cloths lying: but yet he went not in."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Then cometh Simon Peter, following him, and went into the sepulchre: and saw the linen cloths lying,"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And the napkin that had been about his head, not lying with the linen cloths, but apart, wrapped up into one place."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Then that other disciple also went in, who came first to the sepulchre: and he saw and believed."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "For as yet they knew not the scripture, that he must rise again from the dead."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "The disciples therefore departed again to their home."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "But Mary stood at the sepulchre without, weeping. Now as she was weeping, she stooped down and looked into the sepulchre,"
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And she saw two angels in white, sitting, one at the head, and one at the feet, where the body of Jesus had been laid."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "They say to her:"
+   },
+   {
+    "s": "angel",
+    "t": "Woman, why weepest thou?"
+   },
+   {
+    "s": "narrator",
+    "t": "She saith to them:"
+   },
+   {
+    "s": "mary-magdalene",
+    "t": "Because they have taken away my Lord: and I know not where they have laid him."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "When she had thus said, she turned herself back and saw Jesus standing: and she knew not that it was Jesus."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Woman, why weepest thou? Whom seekest thou?"
+   },
+   {
+    "s": "narrator",
+    "t": "She, thinking that it was the gardener, saith to him:"
+   },
+   {
+    "s": "mary-magdalene",
+    "t": "Sir, if thou hast taken him hence, tell me where thou hast laid him: and I will take him away."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Mary."
+   },
+   {
+    "s": "narrator",
+    "t": "She turning, saith to him:"
+   },
+   {
+    "s": "mary-magdalene",
+    "t": "Rabboni"
+   },
+   {
+    "s": "narrator",
+    "t": "(which is to say, Master)."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Do not touch me: for I am not yet ascended to my Father. But go to my brethren and say to them: I ascend to my Father and to your Father, to my God and to your God."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Mary Magdalen cometh and telleth the disciples:"
+   },
+   {
+    "s": "mary-magdalene",
+    "t": "I have seen the Lord; and these things he said to me."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Now when it was late the same day, the first of the week, and the doors were shut, where the disciples were gathered together, for fear of the Jews, Jesus came and stood in the midst and said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Peace be to you."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And when he had said this, he shewed them his hands and his side. The disciples therefore were glad, when they saw the Lord."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "He said therefore to them again:"
+   },
+   {
+    "s": "jesus",
+    "t": "Peace be to you. As the Father hath sent me, I also send you."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "When he had said this, he breathed on them; and he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Receive ye the Holy Ghost."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "Whose sins you shall forgive, they are forgiven them: and whose sins you shall retain, they are retained."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Now Thomas, one of the twelve, who is called Didymus, was not with them when Jesus came."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "The other disciples therefore said to him:"
+   },
+   {
+    "s": "disciples",
+    "t": "We have seen the Lord."
+   },
+   {
+    "s": "narrator",
+    "t": "But he said to them:"
+   },
+   {
+    "s": "thomas",
+    "t": "Except I shall see in his hands the print of the nails and put my finger into the place of the nails and put my hand into his side, I will not believe."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And after eight days, again his disciples were within, and Thomas with them. Jesus cometh, the doors being shut, and stood in the midst and said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Peace be to you."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Then he said to Thomas:"
+   },
+   {
+    "s": "jesus",
+    "t": "Put in thy finger hither and see my hands. And bring hither the hand and put it into my side. And be not faithless, but believing."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Thomas answered and said to him:"
+   },
+   {
+    "s": "thomas",
+    "t": "My Lord and my God."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Because thou hast seen me, Thomas, thou hast believed: blessed are they that have not seen and have believed."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "Many other signs also did Jesus in the sight of his disciples, which are not written in this book."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "But these are written, that you may believe that Jesus is the Christ, the Son of God: and that believing, you may have life in his name."
+   }
+  ]
+ }
+}

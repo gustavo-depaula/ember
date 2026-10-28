@@ -1,0 +1,3 @@
+# Artigo 21
+
+O que se põe em vigésimo primeiro lugar: *a essência é princípio dos atos nocionais enquanto conjunta com as propriedades pessoais*, não dá lugar a censura pelo fato de dizer que a essência é conjunta com as propriedades do modo que foi exposto acima. Parece antes dar lugar a censura pelo que se diz: *a essência é princípio dos atos nocionais*; pois é falso, se se entende que a essência é princípio de tais atos como gerante ou espirante; mas, se se entende que é princípio dos atos nocionais como aquilo pelo qual, concorda com o que diz o Mestre na distinção VII do livro I, onde diz que a potência de gerar é a essência divina; ora, a potência de gerar é princípio da geração como aquilo pelo qual o gerante gera.

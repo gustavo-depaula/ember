@@ -17,37 +17,61 @@
   <p class="meta"><a href="#pt">Português</a></p>
 
   <h1>Privacy Policy</h1>
-  <p class="meta">Ember — Catholic prayer app and website · Last updated 6 October 2026</p>
+  <p class="meta">Ember — Catholic prayer app and website · Last updated 14 October 2026</p>
 
-  <p>Ember works without an account. What you pray, read and write is kept on your device, and backed up through sync so that a lost phone does not lose it. Before anything leaves your device it is encrypted with a key only your devices hold, so that Ember's service stores it without being able to read it.</p>
+  <p>Ember works without an account. What you pray, read and write is kept on your device, and stays there unless you choose to sync it. If you do, each entry is encrypted on your device before it leaves, so that Ember's service stores it without being able to read it. Separately, the app sends counts of which parts of Ember are used, under a random identifier that is not tied to you; you can switch that off.</p>
 
   <h2>What stays on your device</h2>
-  <p>Your plan of life, the record of what you prayed, reading positions, bookmarks, highlights and notes, your collections, your saved churches and Mass check-ins, and your settings are stored in the app's local database. They leave your device only through sync, encrypted as described below, or not at all if you turn sync off. Uninstalling the app, or <em>Settings → Reset Database</em>, deletes them from the device. On Android, the system's own backup may include this data in your Google account's device backup, under Google's control and yours.</p>
+  <p>Your plan of life, the record of what you prayed, reading positions, bookmarks, highlights and notes, your collections, your saved churches and Mass check-ins, and your settings are stored in the app's local database. They leave your device only if you start sync, encrypted as described below. Your theme, reading fonts and layout, downloads and search history are never synced. Uninstalling the app, or <em>Settings → Reset Database</em>, deletes them from the device. On Android, the system's own backup may include this data in your Google account's device backup, under Google's control and yours.</p>
 
   <h2>Sync</h2>
-  <p>Sync keeps the same prayer life on your phone, your tablet and the website, and serves as a backup. It is on from the first time you open Ember, so that your data is protected from the start, and you can turn it off at any time. It is being introduced gradually: until it appears in your version of Ember, nothing in this section or the next applies to you.</p>
+  <p>Sync keeps the same prayer life on every device you use, and serves as a backup. It is off until you choose it: <em>You → Account → Start with this device</em>. Until then, none of the data above leaves your device. It is being introduced gradually: it appears as <em>Account</em> on the You page once your version of Ember has it.</p>
   <ul>
-    <li><strong>A key instead of an account.</strong> The first time you open Ember, your device creates a long random key. Another device joins by scanning a code from the first one, or by entering the key from the recovery sheet you can print. No name, email or password is asked for.</li>
-    <li><strong>Encrypted before it leaves.</strong> The data listed under <em>What stays on your device</em> is encrypted with that key on your device and only then uploaded. Ember's service stores it under a random identifier and cannot read it.</li>
-    <li><strong>Where the key is kept.</strong> On your devices. Where your phone offers it, the key may also be carried in iCloud Keychain or in Google's device backup, under your Apple or Google account, so that a replacement phone can restore it.</li>
-    <li><strong>If the key is lost.</strong> Without the key, a device that holds it, or recovery (below), the synced copy cannot be opened by anyone, including us.</li>
-    <li><strong>Turning it off.</strong> <em>Settings → Sync</em> turns it off, and <em>Delete synced data</em> erases the copy held by Ember's service. Your devices keep their own.</li>
+    <li><strong>A secret instead of a password.</strong> Starting creates a long random secret on your device. No name, email or password is required. Everything Ember's service is shown — an account identifier, the credentials your devices use to reach it — is derived from that secret. The secret itself is not sent to the service; the one exception is the recovery copy described below, if you keep one.</li>
+    <li><strong>What syncs.</strong> Your plan of life, the record of what you prayed, programs, holy cards, book positions, bookmarks, highlights and notes, your shelf and collections, favourite churches and Mass check-ins, your Bible reading position, reminders, and the settings that follow you: Bible translation, languages, calendar jurisdiction and display mode. Your theme, reading fonts and layout, downloads and search history stay on each device.</li>
+    <li><strong>Encrypted before it leaves.</strong> Each entry is encrypted on your device, with a key derived from the secret, before it is uploaded. Ember's service, hosted on Cloudflare, stores the encrypted entries under an identifier derived from the secret. It cannot read them, and cannot see even when an entry was made or what kind of entry it is. The names of your devices are inside the encrypted data.</li>
+    <li><strong>What the service does see.</strong> The account identifier, a random id for each device and when each device last connected, and the size of what is stored. If you fill in <em>About you</em>, it also sees what you wrote there.</li>
+    <li><strong>Adding a device.</strong> The new device shows a QR code and a short 8-digit code, valid for 10 minutes. A device already in your account scans the QR code or has the short code typed into it. The camera is used only for this scan, and nothing is recorded. With a typed code, both devices show a 4-digit number for you to compare. The secret travels encrypted from one device to the other; the service relays it without being able to open it.</li>
+    <li><strong>Joining replaces.</strong> A device that joins an account takes on that account's data in place of what it held. A backup copy of what it held is saved first, as a file on that device; in a browser, it is downloaded.</li>
   </ul>
 
-  <h2>Recovery</h2>
-  <p>You may add a way to get your key back: an email address, or signing in with Apple or Google. This is a second, separate choice, and it changes what Ember holds:</p>
+  <h2>About you</h2>
+  <p>In <em>You → Account</em> you may tell us who you are: a name, an email address, a phone number, a birthday. All four are optional, each can be left empty, and you can change or remove them there at any time.</p>
+  <p>Unlike your synced data, these are stored by Ember's service in readable form, beside your account identifier, so that we know who uses Ember and can contact them. The email address and phone number are not verified.</p>
+  <p>We send you news about Ember only if you tick <em>Send me news about Ember</em>. It is unticked to begin with, and you can untick it again at any time.</p>
+
+  <h2>Recovery copy</h2>
+  <p>When you give an email address or a phone number, a switch appears: <em>Keep a recovery copy</em>. It is on by default and you can turn it off. It changes what Ember holds:</p>
   <ul>
-    <li>Ember's service stores the identifier you chose (your email address, or the identifier Apple or Google gives us for you) and a copy of your sync key.</li>
-    <li>That copy is itself encrypted with a secret kept apart from the database. With recovery on, however, the service is able to unlock your key in order to return it to you. We do not use this to read your data.</li>
-    <li>An email address is used only to send you sign-in links, through an email delivery provider acting on our instructions.</li>
-    <li>Removing recovery deletes the identifier and the copy of the key.</li>
+    <li>With it on, the service stores a copy of your account's secret, encrypted to a recovery key whose private half is kept offline, apart from the service and its database.</li>
+    <li>If you lose every device, we can then help you get back in, after confirming that the email address or phone number is yours. For now this is done by hand, through the contact address at the end of this page.</li>
+    <li>It also means that, for an account with a recovery copy, whoever holds the offline recovery key together with the stored data could open that account's data. We do not do so except to return an account to its owner.</li>
+    <li>Turning the switch off, or removing both your email address and your phone number, deletes the copy.</li>
+    <li>Without a recovery copy, and with every device lost, nobody can open the data, including us.</li>
   </ul>
+
+  <h2>Leaving</h2>
+  <p>There are three ways out, all in <em>You → Account</em>:</p>
+  <ul>
+    <li><strong>Remove this device.</strong> Erases Ember's data on that device; the account stays. A device can also be removed from another device, and is then erased the next time it opens Ember.</li>
+    <li><strong>Keep only on this device.</strong> Deletes the account and everything the service holds. Your other devices are erased when they next open Ember; this device keeps everything.</li>
+    <li><strong>Delete my account.</strong> Deletes the account and everything the service holds, and erases every device.</li>
+  </ul>
+  <p>Deleting removes the encrypted data, the details about you and the recovery copy at once. The service keeps only the bare fact that that identifier was deleted, which is what tells your other devices to erase themselves.</p>
+
+  <h2>Usage statistics</h2>
+  <p>To learn which parts of Ember are used, the app sends counts of actions and screens: for example that a practice was prayed and which one from Ember's catalogue (the Rosary, say), that a book was opened and for how many minutes it was read, that an item was saved. Each count carries the day and hour it happened on your device's clock. With them go the app version and which update of it is running, the platform (iOS, Android or web) and the language, under a random identifier created on your device for this purpose alone.</p>
+  <p>These statistics are never sent together with an account, a name or an email. They contain nothing you wrote: no notes, no names of your own collections or practices, no church or location. Your network address is not stored with them. They go only to Ember's own service on Cloudflare; no third-party analytics is used.</p>
+  <p>This is on by default. You can switch it off in <em>Settings → Privacy → Help improve Ember</em>; switching it off also discards that identifier.</p>
 
   <h2>Religious data</h2>
-  <p>A record of prayer says something about a person's religious beliefs, which data-protection law (the GDPR in Europe, the LGPD in Brazil) treats as specially protected. This is why sync is built so that Ember never holds such a record in a form it can read or tie to a person: what the service stores is encrypted with a key it does not have, under a random identifier, with no name or email beside it. Adding recovery is the one step that attaches an identifier to it, and it is taken only by your own explicit choice. You can turn sync off and delete the synced data at any time.</p>
+  <p>A record of prayer says something about a person's religious beliefs, which data-protection law (the GDPR in Europe, the LGPD in Brazil) treats as specially protected. This is why sync is built so that Ember's service holds your record only in a form it cannot read: every entry is encrypted with a key the service does not have.</p>
+  <p>If you fill in <em>About you</em>, those details sit beside your account identifier, and so tell us that a person uses Ember. The prayer record itself remains encrypted.</p>
+  <p>The recovery copy is the one thing that could make an account's record openable, by whoever holds the offline recovery key together with the stored data. It exists only if you have given an email address or a phone number and left the switch on, and we do not use it except to return an account to its owner.</p>
+  <p>Usage statistics do say which prayers an install prays. That install is unnamed: the statistics are kept apart from accounts, are not tied to a person, and can be turned off.</p>
 
   <h2>Your rights</h2>
-  <p>You can see and export everything Ember holds for you from the app itself, correct it there, and delete it as described above. If you have used recovery, you may also ask us what is stored against your identifier and have it erased. You may complain to your data-protection authority. Requests go to the address at the end of this page.</p>
+  <p>You can see and correct everything Ember holds for you in the app itself, and delete it as described under <em>Leaving</em>. For anything held against your details, write to the address at the end of this page. You may complain to your data-protection authority.</p>
 
   <h2>Location</h2>
   <p>Ember asks for your location only for Mass Times, in the app and on the website, and only when you use it. It is used to centre the map on you and to show how far each church is. To find churches, Ember sends the area of the map you are looking at — its centre and edges — to Ember's Mass Times service. That request carries no account or name. Like any web request it may appear in the service's short-lived technical logs. You can decline the permission; the map then starts from a default city and everything else works.</p>
@@ -62,58 +86,82 @@
   <p>Fetching content means contacting the server that holds it, which necessarily sees your network address:</p>
   <ul>
     <li><strong>Ember's content and website</strong> (prayers, books, images, pages) — served from GitHub Pages.</li>
-    <li><strong>Ember's Mass Times and sync services</strong> — hosted on Cloudflare, which processes data on our behalf.</li>
+    <li><strong>Ember's Mass Times, sync and usage-statistics services</strong> — hosted on Cloudflare, which processes data on our behalf.</li>
     <li><strong>App updates</strong> — the app checks Expo's update service for a newer version of itself.</li>
     <li><strong>Map tiles</strong> — Apple Maps on iOS; OpenFreeMap (OpenStreetMap data) on Android and on the website.</li>
     <li><strong>Texts read from their publisher</strong>, only when you open them in the app: the Holy See (vatican.va, vaticannews.va), Opus Dei (opusdei.org, escriva.org), iBreviary, and the Claretian Missionaries (biblia.parresia.com) for the Ave Maria Bible.</li>
     <li><strong>YouTube</strong>, only when you play an embedded video.</li>
   </ul>
-  <p>Each of these applies its own privacy policy. Ember sends them nothing about you beyond the request itself.</p>
+  <p>Each of these applies its own privacy policy. Beyond what this page describes, Ember sends them nothing about you but the request itself.</p>
 
   <h2>Notifications and photos</h2>
-  <p>Reminders are scheduled on your device; no push service is involved. A photo is read only when you pick one to attach to a correction.</p>
+  <p>Reminders are scheduled on your device; no push service is involved. A photo is read only when you pick one to attach to a correction. The camera is used only to scan the code when you add a device to your account.</p>
 
   <h2>Children</h2>
-  <p>Ember is suitable for all ages and can be used in full without giving any personal information. Recovery, which asks for an email address or a sign-in, is meant for people old enough to consent for themselves under the law of their country; a younger person needs a parent or guardian to set it up.</p>
+  <p>Ember is suitable for all ages and can be used in full without giving any personal information. Giving a name, email address, phone number or birthday, or keeping a recovery copy, is meant for people old enough to consent for themselves under the law of their country; a younger person needs a parent or guardian to do it for them.</p>
 
   <h2>Changes and contact</h2>
-  <p>If this policy changes, the new text will be published here with a new date, and a change to how synced data is handled will be announced in the app before it takes effect. Questions and requests: <a href="https://github.com/gustavo-depaula/ember/issues">github.com/gustavo-depaula/ember/issues</a>. Ember is open source, so everything described here can be checked in the <a href="https://github.com/gustavo-depaula/ember">code</a>.</p>
+  <p>If this policy changes, the new text will be published here with a new date. Questions and requests: <a href="https://github.com/gustavo-depaula/ember/issues">github.com/gustavo-depaula/ember/issues</a>. Ember is open source, so everything described here can be checked in the <a href="https://github.com/gustavo-depaula/ember">code</a>.</p>
 
   <hr>
 
   <div id="pt" lang="pt-BR">
     <h1>Política de Privacidade</h1>
-    <p class="meta">Ember — aplicativo e site católico de oração · Atualizada em 6 de outubro de 2026</p>
+    <p class="meta">Ember — aplicativo e site católico de oração · Atualizada em 14 de outubro de 2026</p>
 
-    <p>O Ember funciona sem conta. O que você reza, lê e escreve fica guardado no seu aparelho, com uma cópia de segurança feita pela sincronização, para que um celular perdido não leve tudo consigo. Antes de sair do aparelho, tudo é criptografado com uma chave que só os seus aparelhos têm, de modo que o serviço do Ember guarda os dados sem conseguir lê-los.</p>
+    <p>O Ember funciona sem conta. O que você reza, lê e escreve fica guardado no seu aparelho, e permanece ali a menos que você decida sincronizar. Nesse caso, cada registro é criptografado no aparelho antes de sair, de modo que o serviço do Ember o guarda sem conseguir lê-lo. À parte disso, o aplicativo envia contagens de quais partes do Ember são usadas, sob um identificador aleatório que não é ligado a você; você pode desligar isso.</p>
 
     <h2>O que fica no seu aparelho</h2>
-    <p>Seu plano de vida, o registro do que você rezou, as posições de leitura, marcadores, destaques e notas, suas coleções, as igrejas salvas e os registros de Missa, e suas configurações são guardados no banco de dados local do aplicativo. Só saem do aparelho pela sincronização, criptografados como descrito abaixo, ou não saem, se você a desligar. Desinstalar o aplicativo, ou <em>Ajustes → Redefinir Banco de Dados</em>, apaga tudo do aparelho. No Android, o backup do próprio sistema pode incluir esses dados no backup do aparelho na sua conta Google, sob o controle do Google e seu.</p>
+    <p>Seu plano de vida, o registro do que você rezou, as posições de leitura, marcadores, destaques e notas, suas coleções, as igrejas salvas e os registros de Missa, e suas configurações são guardados no banco de dados local do aplicativo. Só saem do aparelho se você iniciar a sincronização, criptografados como descrito abaixo. O tema, as fontes e o layout de leitura, os downloads e o histórico de busca nunca são sincronizados. Desinstalar o aplicativo, ou <em>Ajustes → Redefinir Banco de Dados</em>, apaga tudo do aparelho. No Android, o backup do próprio sistema pode incluir esses dados no backup do aparelho na sua conta Google, sob o controle do Google e seu.</p>
 
     <h2>Sincronização</h2>
-    <p>A sincronização mantém a mesma vida de oração no celular, no tablet e no site, e serve de cópia de segurança. Ela vem ligada desde a primeira vez que você abre o Ember, para que seus dados estejam protegidos desde o início, e você pode desligá-la quando quiser. Ela está sendo introduzida aos poucos: enquanto não aparecer na sua versão do Ember, nada desta seção nem da seguinte se aplica a você.</p>
+    <p>A sincronização mantém a mesma vida de oração em todos os aparelhos que você usa, e serve de cópia de segurança. Ela fica desligada até você escolhê-la: <em>Você → Conta → Começar com este aparelho</em>. Até lá, nenhum dos dados acima sai do seu aparelho. Ela está sendo introduzida aos poucos: aparece como <em>Conta</em> na página Você quando a sua versão do Ember já a tiver.</p>
     <ul>
-      <li><strong>Uma chave em vez de uma conta.</strong> Na primeira vez que você abre o Ember, seu aparelho cria uma chave longa e aleatória. Outro aparelho entra lendo um código mostrado pelo primeiro, ou digitando a chave da folha de recuperação que você pode imprimir. Não se pede nome, e-mail nem senha.</li>
-      <li><strong>Criptografado antes de sair.</strong> Os dados listados em <em>O que fica no seu aparelho</em> são criptografados com essa chave no seu aparelho e só então enviados. O serviço do Ember os guarda sob um identificador aleatório e não consegue lê-los.</li>
-      <li><strong>Onde a chave fica.</strong> Nos seus aparelhos. Quando o celular oferece, a chave também pode ser levada nas Chaves do iCloud ou no backup do aparelho do Google, na sua conta Apple ou Google, para que um celular novo a recupere.</li>
-      <li><strong>Se a chave se perder.</strong> Sem a chave, sem um aparelho que a tenha e sem recuperação (abaixo), a cópia sincronizada não pode ser aberta por ninguém, nem por nós.</li>
-      <li><strong>Para desligar.</strong> <em>Ajustes → Sincronização</em> a desliga, e <em>Apagar dados sincronizados</em> apaga a cópia guardada pelo serviço do Ember. Seus aparelhos conservam a deles.</li>
+      <li><strong>Um segredo em vez de uma senha.</strong> Ao começar, seu aparelho cria um segredo longo e aleatório. Não se exige nome, e-mail nem senha. Tudo o que o serviço do Ember chega a ver — um identificador da conta, as credenciais que seus aparelhos usam para acessá-lo — é derivado desse segredo. O segredo em si não é enviado ao serviço; a única exceção é a cópia de recuperação descrita abaixo, se você a mantiver.</li>
+      <li><strong>O que é sincronizado.</strong> Seu plano de vida, o registro do que você rezou, os programas, os santinhos, as posições, marcadores, destaques e notas dos livros, sua estante e suas coleções, as igrejas favoritas e os registros de Missa, a posição de leitura da Bíblia, os lembretes, e as configurações que acompanham você: tradução da Bíblia, idiomas, jurisdição do calendário e modo de exibição. O tema, as fontes e o layout de leitura, os downloads e o histórico de busca ficam em cada aparelho.</li>
+      <li><strong>Criptografado antes de sair.</strong> Cada registro é criptografado no seu aparelho, com uma chave derivada do segredo, antes de ser enviado. O serviço do Ember, hospedado na Cloudflare, guarda os registros criptografados sob um identificador derivado do segredo. Ele não consegue lê-los, e não vê nem mesmo quando um registro foi feito ou de que tipo ele é. Os nomes dos seus aparelhos estão dentro dos dados criptografados.</li>
+      <li><strong>O que o serviço vê.</strong> O identificador da conta, um id aleatório para cada aparelho e quando cada aparelho se conectou pela última vez, e o tamanho do que está guardado. Se você preencher <em>Sobre você</em>, ele vê também o que você escreveu ali.</li>
+      <li><strong>Para acrescentar um aparelho.</strong> O aparelho novo mostra um código QR e um código curto de 8 dígitos, válidos por 10 minutos. Um aparelho que já está na sua conta lê o código QR, ou você digita nele o código curto. A câmera é usada só para essa leitura, e nada é gravado. Com o código digitado, os dois aparelhos mostram um número de 4 dígitos para você comparar. O segredo viaja criptografado de um aparelho ao outro; o serviço o repassa sem conseguir abri-lo.</li>
+      <li><strong>Entrar substitui.</strong> Um aparelho que entra numa conta passa a ter os dados dessa conta no lugar do que tinha. Antes disso, uma cópia de segurança do que ele tinha é salva como arquivo no próprio aparelho; no navegador, ela é baixada.</li>
     </ul>
 
-    <h2>Recuperação</h2>
-    <p>Você pode acrescentar um meio de reaver sua chave: um endereço de e-mail, ou entrar com a Apple ou o Google. É uma segunda escolha, separada, e muda o que o Ember guarda:</p>
+    <h2>Sobre você</h2>
+    <p>Em <em>Você → Conta</em> você pode nos dizer quem é: um nome, um endereço de e-mail, um telefone, uma data de aniversário. Os quatro são opcionais, cada um pode ficar em branco, e você pode alterá-los ou removê-los ali quando quiser.</p>
+    <p>Ao contrário dos dados sincronizados, estes são guardados pelo serviço do Ember em forma legível, ao lado do identificador da sua conta, para que saibamos quem usa o Ember e possamos entrar em contato. O e-mail e o telefone não são verificados.</p>
+    <p>Só enviamos novidades do Ember se você marcar <em>Quero receber novidades do Ember</em>. A opção vem desmarcada, e você pode desmarcá-la de novo quando quiser.</p>
+
+    <h2>Cópia de recuperação</h2>
+    <p>Quando você informa um e-mail ou um telefone, aparece uma chave: <em>Manter uma cópia de recuperação</em>. Ela vem ligada e você pode desligá-la. Ela muda o que o Ember guarda:</p>
     <ul>
-      <li>O serviço do Ember guarda o identificador que você escolheu (seu e-mail, ou o identificador que a Apple ou o Google nos fornece para você) e uma cópia da sua chave de sincronização.</li>
-      <li>Essa cópia é, por sua vez, criptografada com um segredo mantido à parte do banco de dados. Com a recuperação ativada, porém, o serviço consegue destravar sua chave para devolvê-la a você. Não usamos isso para ler seus dados.</li>
-      <li>O e-mail é usado apenas para enviar a você os links de acesso, por meio de um provedor de envio de e-mails que age sob nossas instruções.</li>
-      <li>Remover a recuperação apaga o identificador e a cópia da chave.</li>
+      <li>Com ela ligada, o serviço guarda uma cópia do segredo da sua conta, criptografada para uma chave de recuperação cuja metade privada é mantida offline, à parte do serviço e do seu banco de dados.</li>
+      <li>Se você perder todos os aparelhos, podemos então ajudar você a voltar, depois de confirmar que o e-mail ou o telefone é seu. Por enquanto isso é feito à mão, pelo endereço de contato no fim desta página.</li>
+      <li>Isso também significa que, para uma conta com cópia de recuperação, quem tiver a chave de recuperação offline junto com os dados guardados poderia abrir os dados dessa conta. Não fazemos isso, a não ser para devolver uma conta ao seu dono.</li>
+      <li>Desligar a chave, ou remover tanto o e-mail quanto o telefone, apaga a cópia.</li>
+      <li>Sem cópia de recuperação, e com todos os aparelhos perdidos, ninguém consegue abrir os dados, nem nós.</li>
     </ul>
+
+    <h2>Para sair</h2>
+    <p>Há três saídas, todas em <em>Você → Conta</em>:</p>
+    <ul>
+      <li><strong>Remover este aparelho.</strong> Apaga os dados do Ember naquele aparelho; a conta continua. Um aparelho também pode ser removido a partir de outro, e é então apagado na próxima vez que abrir o Ember.</li>
+      <li><strong>Manter só neste aparelho.</strong> Exclui a conta e tudo o que o serviço guarda. Seus outros aparelhos são apagados quando abrirem o Ember de novo; este aparelho conserva tudo.</li>
+      <li><strong>Excluir minha conta.</strong> Exclui a conta e tudo o que o serviço guarda, e apaga todos os aparelhos.</li>
+    </ul>
+    <p>A exclusão remove de imediato os dados criptografados, as informações sobre você e a cópia de recuperação. O serviço conserva apenas o simples fato de que aquele identificador foi excluído, que é o que avisa os seus outros aparelhos para se apagarem.</p>
+
+    <h2>Estatísticas de uso</h2>
+    <p>Para saber quais partes do Ember são usadas, o aplicativo envia contagens de ações e telas: por exemplo, que uma prática foi rezada e qual delas, do catálogo do Ember (o Rosário, digamos), que um livro foi aberto e por quantos minutos foi lido, que um item foi salvo. Cada contagem leva o dia e a hora em que aconteceu, pelo relógio do seu aparelho. Junto vão a versão do aplicativo e qual atualização dela está em uso, a plataforma (iOS, Android ou web) e o idioma, sob um identificador aleatório criado no seu aparelho apenas para esse fim.</p>
+    <p>Essas estatísticas nunca são enviadas junto com uma conta, um nome ou um e-mail. Não contêm nada do que você escreveu: nem notas, nem nomes das suas próprias coleções ou práticas, nem igreja ou localização. Seu endereço de rede não é guardado com elas. Vão apenas para o serviço do próprio Ember na Cloudflare; não se usa nenhuma ferramenta de análise de terceiros.</p>
+    <p>Isso vem ligado. Você pode desligar em <em>Ajustes → Privacidade → Ajudar a melhorar o Ember</em>; ao desligar, esse identificador também é descartado.</p>
 
     <h2>Dados religiosos</h2>
-    <p>Um registro de oração diz algo sobre a convicção religiosa de uma pessoa, o que a lei de proteção de dados (a LGPD no Brasil, o GDPR na Europa) trata como dado sensível. É por isso que a sincronização é feita de modo que o Ember nunca tenha esse registro em forma que possa ler ou ligar a uma pessoa: o que o serviço guarda está criptografado com uma chave que ele não tem, sob um identificador aleatório, sem nome nem e-mail ao lado. Acrescentar a recuperação é o único passo que liga um identificador a esses dados, e só acontece por sua escolha expressa. Você pode desligar a sincronização e apagar os dados sincronizados quando quiser.</p>
+    <p>Um registro de oração diz algo sobre a convicção religiosa de uma pessoa, o que a lei de proteção de dados (a LGPD no Brasil, o GDPR na Europa) trata como dado sensível. É por isso que a sincronização é feita de modo que o serviço do Ember só tenha o seu registro em forma que não consegue ler: cada registro é criptografado com uma chave que o serviço não tem.</p>
+    <p>Se você preencher <em>Sobre você</em>, essas informações ficam ao lado do identificador da sua conta, e assim nos dizem que uma pessoa usa o Ember. O registro de oração em si continua criptografado.</p>
+    <p>A cópia de recuperação é a única coisa que poderia tornar possível abrir o registro de uma conta, por quem tiver a chave de recuperação offline junto com os dados guardados. Ela só existe se você informou um e-mail ou um telefone e deixou a chave ligada, e não a usamos a não ser para devolver uma conta ao seu dono.</p>
+    <p>As estatísticas de uso dizem, sim, quais orações uma instalação reza. Essa instalação não tem nome: as estatísticas ficam separadas das contas, não são ligadas a uma pessoa, e podem ser desligadas.</p>
 
     <h2>Seus direitos</h2>
-    <p>Você pode ver e exportar tudo o que o Ember guarda para você pelo próprio aplicativo, corrigir ali mesmo, e apagar como descrito acima. Se usou a recuperação, pode também nos perguntar o que está guardado junto ao seu identificador e pedir que seja apagado. Você pode reclamar à autoridade de proteção de dados (no Brasil, a ANPD). Os pedidos vão para o endereço no fim desta página.</p>
+    <p>Você pode ver e corrigir tudo o que o Ember guarda para você pelo próprio aplicativo, e apagar como descrito em <em>Para sair</em>. Para qualquer coisa guardada junto às suas informações, escreva para o endereço no fim desta página. Você pode reclamar à autoridade de proteção de dados (no Brasil, a ANPD).</p>
 
     <h2>Localização</h2>
     <p>O Ember pede sua localização apenas para os Horários de Missa, no aplicativo e no site, e apenas quando você os usa. Ela serve para centralizar o mapa em você e mostrar a distância até cada igreja. Para encontrar igrejas, o Ember envia a área do mapa que você está vendo — o centro e as bordas — ao serviço de Horários de Missa do Ember. Esse pedido não leva conta nem nome. Como qualquer requisição na web, pode aparecer nos registros técnicos de curta duração do serviço. Você pode recusar a permissão; o mapa então começa por uma cidade padrão e todo o resto funciona.</p>
@@ -128,22 +176,22 @@
     <p>Buscar um conteúdo significa contatar o servidor que o guarda, que necessariamente vê o seu endereço de rede:</p>
     <ul>
       <li><strong>Conteúdo e site do Ember</strong> (orações, livros, imagens, páginas) — servidos pelo GitHub Pages.</li>
-      <li><strong>Serviços de Horários de Missa e de sincronização do Ember</strong> — hospedados na Cloudflare, que trata os dados em nosso nome.</li>
+      <li><strong>Serviços de Horários de Missa, de sincronização e de estatísticas de uso do Ember</strong> — hospedados na Cloudflare, que trata os dados em nosso nome.</li>
       <li><strong>Atualizações do aplicativo</strong> — o aplicativo consulta o serviço de atualizações da Expo por uma versão mais nova de si mesmo.</li>
       <li><strong>Mapas</strong> — Apple Maps no iOS; OpenFreeMap (dados do OpenStreetMap) no Android e no site.</li>
       <li><strong>Textos lidos de quem os publica</strong>, apenas quando você os abre no aplicativo: a Santa Sé (vatican.va, vaticannews.va), o Opus Dei (opusdei.org, escriva.org), o iBreviary, e os Missionários Claretianos (biblia.parresia.com) para a Bíblia Ave Maria.</li>
       <li><strong>YouTube</strong>, apenas quando você reproduz um vídeo incorporado.</li>
     </ul>
-    <p>Cada um deles aplica a própria política de privacidade. O Ember não lhes envia nada sobre você além do próprio pedido.</p>
+    <p>Cada um deles aplica a própria política de privacidade. Fora o que esta página descreve, o Ember não lhes envia nada sobre você além do próprio pedido.</p>
 
     <h2>Notificações e fotos</h2>
-    <p>Os lembretes são agendados no seu aparelho; nenhum serviço de notificações externo é usado. Uma foto só é lida quando você escolhe uma para anexar a uma correção.</p>
+    <p>Os lembretes são agendados no seu aparelho; nenhum serviço de notificações externo é usado. Uma foto só é lida quando você escolhe uma para anexar a uma correção. A câmera é usada apenas para ler o código quando você acrescenta um aparelho à sua conta.</p>
 
     <h2>Crianças</h2>
-    <p>O Ember é adequado a todas as idades e pode ser usado por inteiro sem fornecer nenhuma informação pessoal. A recuperação, que pede um e-mail ou um login, destina-se a quem tem idade para consentir por si mesmo segundo a lei do seu país; os mais novos precisam que o pai, a mãe ou o responsável a configure.</p>
+    <p>O Ember é adequado a todas as idades e pode ser usado por inteiro sem fornecer nenhuma informação pessoal. Informar nome, e-mail, telefone ou data de aniversário, ou manter uma cópia de recuperação, destina-se a quem tem idade para consentir por si mesmo segundo a lei do seu país; os mais novos precisam que o pai, a mãe ou o responsável o faça por eles.</p>
 
     <h2>Alterações e contato</h2>
-    <p>Se esta política mudar, o novo texto será publicado aqui com nova data, e uma mudança na forma de tratar os dados sincronizados será avisada no aplicativo antes de valer. Dúvidas e pedidos: <a href="https://github.com/gustavo-depaula/ember/issues">github.com/gustavo-depaula/ember/issues</a>. O Ember é de código aberto; tudo o que está descrito aqui pode ser conferido no <a href="https://github.com/gustavo-depaula/ember">código</a>.</p>
+    <p>Se esta política mudar, o novo texto será publicado aqui com nova data. Dúvidas e pedidos: <a href="https://github.com/gustavo-depaula/ember/issues">github.com/gustavo-depaula/ember/issues</a>. O Ember é de código aberto; tudo o que está descrito aqui pode ser conferido no <a href="https://github.com/gustavo-depaula/ember">código</a>.</p>
   </div>
 </body>
 </html>

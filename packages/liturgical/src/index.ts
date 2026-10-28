@@ -11,14 +11,7 @@ export {
   type ResolvedDayEntry,
   resolveLiturgicalDay,
 } from './liturgical-day-resolver'
-export {
-  getLiturgicalYear,
-  getOfLiturgicalPosition,
-  getSundayCycle,
-  getWeekdayCycle,
-  type OfLiturgicalPosition,
-  type OfSeason,
-} from './of-position'
+export * from './of-temporal'
 export type OfficeHour = 'morning' | 'evening' | 'compline'
 export { getCelebrationsForDate } from './calendar-builder'
 export type {
@@ -31,8 +24,14 @@ export type {
   RankOF,
   ResolvedCelebration,
 } from './calendar-types'
+export {
+  type EmberSeason,
+  type EmberWeek,
+  emberWeekOn,
+  emberWeeks,
+  nextEmberWeek,
+} from './ember'
 export { type AbstinenceLevel, type DayObligations, getDayObligations } from './obligations'
-export { ofTemporeIds } from './of-tempore'
 export { formatPsalmRef, formatPsalmRefs, type PsalmRef, parsePsalmRef } from './psalter'
 export { rankColors } from './rank-colors'
 export { computeAnchors } from './resolve-date'

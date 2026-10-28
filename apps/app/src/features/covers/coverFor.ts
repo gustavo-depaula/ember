@@ -1,3 +1,4 @@
+import { minutesText, practiceMinutes } from '@/content/duration'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { localizeContent } from '@/lib/i18n'
 
@@ -27,7 +28,7 @@ export type CollectionCoverStyle = (typeof collectionCoverStyles)[number]
  */
 export type TileCover =
   | { kind: 'book'; format: BookCoverFormat; author?: string }
-  | { kind: 'practice'; icon?: string; minutes?: number }
+  | { kind: 'practice'; icon?: string; minutes?: string }
   | { kind: 'prayer'; icon?: string }
   | { kind: 'breviary' }
   | { kind: 'collection'; style: CollectionCoverStyle; volumes?: number; prayers?: number }
@@ -72,9 +73,9 @@ export function coverFor(entry: CatalogEntry): TileCover | undefined {
       format: bookCoverFormat(entry.cover),
       author: entry.author ? localizeContent(entry.author) : undefined,
     }
-  if (entry.kind !== 'practice' && entry.kind !== 'mass') return undefined
+  if (entry.kind !== 'practice') return undefined
   if (entry.form !== 'prayer')
-    return { kind: 'practice', icon: entry.icon, minutes: entry.estimatedMinutes }
+    return { kind: 'practice', icon: entry.icon, minutes: minutesText(practiceMinutes(entry)) }
   if (entry.liturgical) return { kind: 'breviary' }
   return { kind: 'prayer', icon: entry.icon }
 }

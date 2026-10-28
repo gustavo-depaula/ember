@@ -51,9 +51,10 @@ export function narrowHour(raw: unknown): HourId {
   throw new Error(`ibreviary: unknown hour param ${JSON.stringify(raw)}`)
 }
 
-// iBreviary's `pt` is the European Portuguese LOTH edition — accepted for
-// pt-BR users (Brazil's CNBB edition isn't available there). `la` is the
-// Liturgia Horarum editio typica.
+// iBreviary's `pt` is the European Portuguese LOTH edition. The hours of a
+// pt-BR reader come from the corpus instead, which has Brazil's
+// (`sources/loth`); this still serves them the Office of Readings' reading
+// on its own. `la` is the Liturgia Horarum editio typica.
 export function ibLangFor(appLang: string): IbLang {
   if (appLang === 'pt-BR') return 'pt'
   if (appLang === 'la') return 'la'

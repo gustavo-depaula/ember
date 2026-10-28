@@ -5,7 +5,7 @@ import { useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Typography } from '@/components'
 import { mediumTap } from '@/lib/haptics'
 import type { CheckIn } from '../checkins'
-import { useCheckInsStore, useRecentCheckIns } from '../checkins'
+import { removeCheckIn, useRecentCheckIns } from '../checkins'
 import { AnimatedRow } from './AnimatedRow'
 import { clockFigures, Hairline, SmallCaps, timeColumnWidth } from './SheetType'
 
@@ -18,7 +18,6 @@ export function MassLog({
 }) {
   const { t, i18n } = useTranslation()
   const checkins = useRecentCheckIns()
-  const remove = useCheckInsStore((s) => s.remove)
 
   if (checkins.length === 0) {
     return (
@@ -42,7 +41,7 @@ export function MassLog({
             locale={i18n.language}
             onPress={() => onSelectChurch({ id: item.churchId, name: item.churchName })}
             onRemove={() => {
-              remove(item.id).catch(() => Alert.alert(t('massTimes.saveFailed')))
+              removeCheckIn(item.id).catch(() => Alert.alert(t('massTimes.saveFailed')))
             }}
           />
         </AnimatedRow>

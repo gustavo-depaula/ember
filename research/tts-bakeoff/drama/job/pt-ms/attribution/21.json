@@ -1,0 +1,224 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "job": {
+   "name": "Job",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The afflicted just man of Hus, answering his friends and pleading his cause before God."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Job, respondendo, disse:"
+   }
+  ],
+  "2": [
+   {
+    "s": "job",
+    "t": "Ouvi, vos peço, as minhas palavras, dai-me, ao menos, esta consolação."
+   }
+  ],
+  "3": [
+   {
+    "s": "job",
+    "t": "Sofrei que eu fale, e depois, se vos parecer, zombai das minhas palavras."
+   }
+  ],
+  "4": [
+   {
+    "s": "job",
+    "t": "Porventura é com algum homem a minha disputa? Como não hei-de impacientar-me?"
+   }
+  ],
+  "5": [
+   {
+    "s": "job",
+    "t": "Olhai para mim, e pasmai, e ponde a mão sobre a vossa boca;"
+   }
+  ],
+  "6": [
+   {
+    "s": "job",
+    "t": "e eu mesmo, quando me recordo, me assombro, e estremece toda a minha carne."
+   }
+  ],
+  "7": [
+   {
+    "s": "job",
+    "t": "Por que razão vivem os impios e envelhecem, aumentando á sua força?"
+   }
+  ],
+  "8": [
+   {
+    "s": "job",
+    "t": "Seus filhos conservam-se diante deles, uma multidão de parentes e de netos está na sua presença."
+   }
+  ],
+  "9": [
+   {
+    "s": "job",
+    "t": "As suas casas estão seguras e em paz, a vara de Deus não os fere."
+   }
+  ],
+  "10": [
+   {
+    "s": "job",
+    "t": "Os seus louros são sempre fecundos, as suas vacas dão à luz e não se lhes malogram as suas crias."
+   }
+  ],
+  "11": [
+   {
+    "s": "job",
+    "t": "Os seus filhos saem (de casa) como manadas, os seus pequenos saltam e brincam."
+   }
+  ],
+  "12": [
+   {
+    "s": "job",
+    "t": "Cantam ao som do tímpano e da citara, e alegram-se ao som da flauta."
+   }
+  ],
+  "13": [
+   {
+    "s": "job",
+    "t": "Passam os seus dias em delicias, e num momento descem a o sepulcro."
+   }
+  ],
+  "14": [
+   {
+    "s": "job",
+    "t": "Estes são os que disseram a Deus: Retira-te de nós, pois não queremos saber nada dos teus caminhos."
+   }
+  ],
+  "15": [
+   {
+    "s": "job",
+    "t": "Quem é o Omnipotente para que o sirvamos? Que nos aproveita que lhe façamos orações?"
+   }
+  ],
+  "16": [
+   {
+    "s": "job",
+    "t": "Mas, porque não estão na sua mão os seus bens, longe esteja de mim o modo de pensar dos impios."
+   }
+  ],
+  "17": [
+   {
+    "s": "job",
+    "t": "Quantas vezes se apagará a lucerna dos impios, lhes sobrevirá uma inundação (de males), e (Deus) na sua ira lhes repartirá as dores?"
+   }
+  ],
+  "18": [
+   {
+    "s": "job",
+    "t": "Serão como as palhas ao soprar do vento, e como a cinza espalhada, pelo redemoinho."
+   }
+  ],
+  "19": [
+   {
+    "s": "job",
+    "t": "(Vós dizeis que) Deus reservará para os filhos a pena (merecida pelos pecados) do pai. Mas que Deus lhe dê o pago a ele, que ele próprio o tenha;"
+   }
+  ],
+  "20": [
+   {
+    "s": "job",
+    "t": "que os seus olhos vejam a própria ruína, e ele beba do furor do Omnipotente."
+   }
+  ],
+  "21": [
+   {
+    "s": "job",
+    "t": "Pois, que se lhe dá a ele do que será feito da sua casa depois da sua morte, depois de serem cortados os seus dias?"
+   }
+  ],
+  "22": [
+   {
+    "s": "job",
+    "t": "Porventura poderá alguém ensinar alguma coisa a Deus, que julga os seres mais elevados?"
+   }
+  ],
+  "23": [
+   {
+    "s": "job",
+    "t": "Um morre em plena prosperidade, tranqüilo e feliz,"
+   }
+  ],
+  "24": [
+   {
+    "s": "job",
+    "t": "com os flancos cobertos de gordura, e a medula dos ossos suculenta;"
+   }
+  ],
+  "25": [
+   {
+    "s": "job",
+    "t": "outro, porém, morre na amargura da sua alma, sem nenhuns bens."
+   }
+  ],
+  "26": [
+   {
+    "s": "job",
+    "t": "E todavia ambos dormirão igualmente no pó, e os vermes cobrem os dois."
+   }
+  ],
+  "27": [
+   {
+    "s": "job",
+    "t": "Eu conheço bem os vossos pensamentos, e os vossos injustos juízos contra mim."
+   }
+  ],
+  "28": [
+   {
+    "s": "job",
+    "t": "Vós dizeis: Onde está a casa deste (Job, que era como um) príncipe? Onde estão as tendas dos ímpios?"
+   }
+  ],
+  "29": [
+   {
+    "s": "job",
+    "t": "Perguntai a qualquer dos viandantes; não podeis desconhecer a resposta que darão."
+   }
+  ],
+  "30": [
+   {
+    "s": "job",
+    "t": "No dia da desgraça, o mau é poupado, no dia da cólera escapa ao castigo."
+   }
+  ],
+  "31": [
+   {
+    "s": "job",
+    "t": "Quem reprova diante dele o seu proceder? Quem lhe dará o pago do mal que fez?"
+   }
+  ],
+  "32": [
+   {
+    "s": "job",
+    "t": "É levado (honorificamente) ao sepulcro, e no seu túmulo há paz."
+   }
+  ],
+  "33": [
+   {
+    "s": "job",
+    "t": "São-lhe leves os torrões do vale; arrasta atrás de si todos os homens, e diante de si uma inumerável multidão."
+   }
+  ],
+  "34": [
+   {
+    "s": "job",
+    "t": "Como pois me consolais em vão, tendo-se visto que as vossas respostas se opõem à verdade?"
+   }
+  ]
+ }
+}

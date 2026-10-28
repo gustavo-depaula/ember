@@ -15,6 +15,10 @@
 		"en-US": "Stations of the Cross",
 		"pt-BR": "Via Sacra"
 	},
+	"source": {
+		"en-US": "Opening prayer: the preparatory prayer of St. Alphonsus Liguori's *Way of the Cross* (1761), in the English text common to current parish booklets; the Portuguese is the translation by the Christo Nihil Praeponere team (padrepauloricardo.org) from the Latin. Closing prayer: USCCB, *Scriptural Stations of the Cross*; the Portuguese renders the English.",
+		"pt-BR": "Oração inicial: a oração preparatória da *Via Sacra* de Santo Afonso Maria de Ligório (1761); o português é a tradução da equipe Christo Nihil Praeponere (padrepauloricardo.org) a partir do latim, e o inglês é o texto corrente nos livretos paroquiais. Oração final: USCCB, *Scriptural Stations of the Cross*; o português verte o inglês."
+	},
 	"categories": [
 		"lenten",
 		"meditation",

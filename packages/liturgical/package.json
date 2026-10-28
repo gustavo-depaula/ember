@@ -6,5 +6,8 @@
   "types": "src/index.ts",
   "scripts": {
     "test": "vitest run"
+  },
+  "dependencies": {
+    "@ember/divinum-officium": "workspace:*"
   }
 }

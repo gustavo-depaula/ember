@@ -14,8 +14,10 @@ import {
   useSlots,
 } from '@/features/plan-of-life'
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
+import { scheduleContextFor } from '@/features/plan-of-life/due'
 import { useStableToday, useToday } from '@/hooks/useToday'
-import { getCelebrationsForDate, getLiturgicalSeason } from '@/lib/liturgical'
+import { getLiturgicalSeason } from '@/lib/liturgical'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 /**
  * The plan of life as it stands on the day Today shows: the slots due that day
@@ -28,18 +30,18 @@ export function useTodayPlan() {
   const now = useToday()
   const selectedDate = format(now, 'yyyy-MM-dd')
   const anchorDate = format(useStableToday(), 'yyyy-MM-dd')
-  const season = useMemo(() => getLiturgicalSeason(now), [now])
+  const transfers = useOfTransfers()
+  const season = useMemo(() => getLiturgicalSeason(now, 'of', transfers), [now, transfers])
 
   const slots = useSlots()
   const completedIds = useCompletedSlots(selectedDate)
   const { data: yearCalendar } = useYearCalendar(now.getFullYear())
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: memoize by date string
-  const scheduleCtx: ScheduleContext | undefined = useMemo(() => {
-    if (!yearCalendar) return undefined
-    const dayCalendar = getCelebrationsForDate(yearCalendar, now)
-    return { season, dayCalendar }
-  }, [yearCalendar, season, selectedDate])
+  const scheduleCtx: ScheduleContext | undefined = useMemo(
+    () => scheduleContextFor(now, transfers, yearCalendar),
+    [yearCalendar, transfers, selectedDate],
+  )
 
   const programHides = useProgramHidesForDate(selectedDate)
   const todaySlots = useMemo(

@@ -28,8 +28,10 @@ export const planCardSize = 160
 const pad = planCardSize * 0.09
 const shownEntries = 5
 
-// The heading band is the day's light: green on track, gold once a practice
-// has waited well past its time, red once one is at risk of being missed.
+// The heading band is the day's light: green on track, gold once an essential
+// practice has waited well past its time, red once one is at risk of being
+// missed. A day with nothing to pray — no plan, or a plan that leaves the day
+// empty — takes the red too, to be noticed.
 const bandTone: Record<DayStanding, BlockTone> = {
   done: jewelTones.green,
   ontrack: jewelTones.green,
@@ -40,10 +42,11 @@ const bandTone: Record<DayStanding, BlockTone> = {
 /**
  * Today's plan of life as a page of the Ordo: the band carries the day's
  * standing and count, and beneath the title the practices around this time of
- * day — missed ones in rubric, prayed ones faded.
+ * day — missed ones in rubric, prayed ones faded. With no plan yet the page
+ * invites one instead.
  */
 export function PlanOfLifeCard({
-  plan: { todaySlots, completedIds, pinnedFlows },
+  plan: { slots, todaySlots, completedIds, pinnedFlows },
   onPress,
 }: {
   plan: TodayPlan
@@ -60,6 +63,7 @@ export function PlanOfLifeCard({
         slots: def.slots.map((s) => ({
           id: s.id,
           name: getSlotPinLabel(s) ?? getSlotName(s, t),
+          essential: s.tier === 'essential',
           owed: owedAt(block, s.time),
         })),
       })),
@@ -71,27 +75,35 @@ export function PlanOfLifeCard({
     return { day, shown: entriesAround(day.entries, current, shownEntries) }
   }, [blocks, completedIds, now])
   const total = day.entries.length
+  const noPlan = slots.length === 0
+  const tone = total > 0 ? bandTone[day.standing] : jewelTones.red
 
   return (
     <AnimatedPressable
       onPress={onPress}
       accessibilityRole="button"
-      accessibilityLabel={t('a11y.openTodayPlan')}
+      accessibilityLabel={noPlan ? t('home.planSetUp') : t('a11y.openTodayPlan')}
     >
       <YStack width={planCardSize} gap="$sm">
         <View style={[styles.shadow, { width: planCardSize, height: planCardSize }]}>
-          <OrdoSheet tone={bandTone[day.standing]} s={planCardSize} />
+          <OrdoSheet tone={tone} s={planCardSize} />
 
-          {total > 0 && (
-            <View style={[styles.abs, styles.band]}>
+          <View style={[styles.abs, styles.band]}>
+            {total > 0 ? (
+              <>
+                <Kicker color={coverInk.cream}>
+                  {t('home.planCount', { done: day.done, total }).toLocaleUpperCase()}
+                </Kicker>
+                <Kicker color={coverInk.gold}>
+                  {t(`home.planStanding.${day.standing}`).toLocaleUpperCase()}
+                </Kicker>
+              </>
+            ) : (
               <Kicker color={coverInk.cream}>
-                {t('home.planCount', { done: day.done, total }).toLocaleUpperCase()}
+                {t(noPlan ? 'home.planToBegin' : 'home.planEmptyDay').toLocaleUpperCase()}
               </Kicker>
-              <Kicker color={coverInk.gold}>
-                {t(`home.planStanding.${day.standing}`).toLocaleUpperCase()}
-              </Kicker>
-            </View>
-          )}
+            )}
+          </View>
 
           <View style={[styles.abs, styles.title]}>
             {/* Fixed size: CoverText's shrink-to-fit collapses it on device. */}
@@ -101,17 +113,28 @@ export function PlanOfLifeCard({
           </View>
 
           <View style={[styles.abs, styles.entries]}>
-            {day.standing === 'done' && total > 0 ? (
-              <Text fontFamily="$body" fontStyle="italic" fontSize={12} color={coverInk.textSoft}>
-                Pax Christi.
-              </Text>
-            ) : (
-              shown.map((e) => <Entry key={e.id} entry={e} />)
-            )}
+            {(() => {
+              if (total === 0)
+                return (
+                  <>
+                    <Note>{t(noPlan ? 'home.planInvite' : 'home.planNothingToday')}</Note>
+                    <RNText
+                      allowFontScaling={false}
+                      style={[styles.entry, { color: coverInk.rubric }]}
+                    >
+                      {t(
+                        noPlan ? 'home.planSetUpAction' : 'home.emptyPlanAction',
+                      ).toLocaleUpperCase()}
+                    </RNText>
+                  </>
+                )
+              if (day.standing === 'done') return <Note>Pax Christi.</Note>
+              return shown.map((e) => <Entry key={e.id} entry={e} />)
+            })()}
           </View>
         </View>
         <Text fontFamily="$heading" fontSize="$2" color="$color" numberOfLines={2}>
-          {t('home.planForToday')}
+          {t(noPlan ? 'home.planSetUp' : 'home.planForToday')}
         </Text>
       </YStack>
     </AnimatedPressable>
@@ -123,6 +146,14 @@ function Kicker({ children, color }: { children: string; color: string }) {
     <CoverKicker s={planCardSize} color={color} scale={0.053}>
       {children}
     </CoverKicker>
+  )
+}
+
+function Note({ children }: { children: string }) {
+  return (
+    <Text fontFamily="$body" fontStyle="italic" fontSize={12} color={coverInk.textSoft}>
+      {children}
+    </Text>
   )
 }
 

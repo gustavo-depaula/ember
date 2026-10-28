@@ -89,6 +89,16 @@
       }
     },
     {
+      "ref": "particular-examination",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "12:05",
+      "note": {
+        "en-US": "Right after the Angelus, two or three minutes on the one point settled with your director — the predominant defect to uproot or the virtue to win — counting the morning's falls and setting a purpose for the afternoon.",
+        "pt-BR": "Logo depois do Ângelus, dois ou três minutos sobre o único ponto combinado com o seu diretor — o defeito dominante a arrancar ou a virtude a conquistar —, contando as quedas da manhã e fazendo um propósito para a tarde."
+      }
+    },
+    {
       "ref": "rosary",
       "tier": "essential",
       "schedule": { "type": "daily" },

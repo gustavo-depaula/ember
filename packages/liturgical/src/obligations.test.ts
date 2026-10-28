@@ -123,6 +123,22 @@ describe('getDayObligations', () => {
     expect(result.abstinence).toBe('partial')
   })
 
+  it('EF September Ember days follow the third Sunday of September', () => {
+    // 2026: the 1962 missal keeps them on 23, 25 and 26 September; the week of
+    // the 16th is the older reckoning.
+    const fastOn = (day: number) =>
+      getDayObligations(new Date(2026, 8, day), 'ef', undefined, efCal).fast
+    expect([16, 18, 19].map(fastOn)).toEqual([false, false, false])
+    expect([23, 25, 26].map(fastOn)).toEqual([true, true, true])
+  })
+
+  it('EF Advent Ember days stay in one week when 13 December falls midweek', () => {
+    const fastOn = (day: number) =>
+      getDayObligations(new Date(2028, 11, day), 'ef', undefined, efCal).fast
+    expect([15, 16].map(fastOn)).toEqual([false, false])
+    expect([20, 22, 23].map(fastOn)).toEqual([true, true, true])
+  })
+
   it('EF Vigil of Christmas: fast + full abstinence', () => {
     const result = getDayObligations(new Date(2026, 11, 24), 'ef', undefined, efCal)
     expect(result.fast).toBe(true)

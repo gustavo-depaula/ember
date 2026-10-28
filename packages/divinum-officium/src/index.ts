@@ -24,6 +24,7 @@ export {
   ydaysToDate,
 } from './kalendar/date'
 export { createDirectorium, type Directorium } from './kalendar/directorium'
+export { type EmberSeason, type EmberWeek, emberDays } from './kalendar/ember'
 export {
   checkLatinFileExists,
   climit1960,

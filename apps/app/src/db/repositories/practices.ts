@@ -1,24 +1,13 @@
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
+import { randomId } from '@/lib/id'
 import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
-import { emit, emitBatch, resolveCompletions, useEventStore } from '../events'
+import { emit, emitBatch, nextId, resolveCompletions, useEventStore } from '../events'
 import type { SlotState } from '../events/state'
 import type { Completion, CompletionVia, Tier, TimeBlock, UserPractice } from '../schema'
 
 function getSortedSlots(): SlotState[] {
   const store = useEventStore.getState()
   return [...store.slots.values()].sort((a, b) => a.sort_order - b.sort_order)
-}
-
-function nextSlotUniqueId(practiceId: string): string {
-  const store = useEventStore.getState()
-  let max = 0
-  for (const [key, slot] of store.slots) {
-    if (slot.practice_id === practiceId) {
-      const num = Number.parseInt(parseSlotKey(key).slotId, 10)
-      if (!Number.isNaN(num) && num > max) max = num
-    }
-  }
-  return String(max + 1)
 }
 
 function maxSortOrder(): number {
@@ -73,13 +62,21 @@ export async function updatePractice(
   await emit({ type: 'PracticeUpdated', practiceId, ...data })
 }
 
-type SlotInput = { tier?: Tier; time?: string; schedule?: string; pins?: Record<string, string> }
+type SlotInput = {
+  tier?: Tier
+  time?: string
+  schedule?: string
+  pins?: Record<string, string>
+  // Where the slot stands in the plan; after every other when absent.
+  sortOrder?: number
+}
 
-// `offset` spaces the ids and sort orders of slots built together in one batch,
-// before any of them reaches the store the counters read from.
+// A slot is the user's own making, so its id is one no other device can give
+// another slot: two devices adding a time to the same practice keep both.
+// `offset` spaces the sort orders of slots built together in one batch, before
+// any of them reaches the store the counter reads from.
 function buildSlotAddedEvent(practiceId: string, data: SlotInput, offset = 0) {
-  const uniqueId = String(Number(nextSlotUniqueId(practiceId)) + offset)
-  const slotKey = composeSlotKey(practiceId, uniqueId)
+  const slotKey = composeSlotKey(practiceId, randomId())
   const time = data.time ?? null
   return {
     event: {
@@ -90,7 +87,7 @@ function buildSlotAddedEvent(practiceId: string, data: SlotInput, offset = 0) {
       time,
       timeBlock: deriveTimeBlock(time),
       schedule: data.schedule ?? '{"type":"daily"}',
-      sortOrder: maxSortOrder() + 1 + offset,
+      sortOrder: data.sortOrder ?? maxSortOrder() + 1 + offset,
       enabled: 1,
       ...(data.pins ? { pins: data.pins } : {}),
     },
@@ -201,6 +198,7 @@ export async function updateSlot(
     notify: string | null
     schedule: string
     pins: Record<string, string>
+    minutes: number
   }>,
 ): Promise<void> {
   if (data.time !== undefined && data.timeBlock === undefined) {
@@ -252,26 +250,25 @@ export async function logCompletion(
   subId: string,
   prayedId: string,
   via: CompletionVia,
+  pins?: Record<string, string>,
 ): Promise<void> {
-  const completionId = useEventStore.getState().nextCompletionId
   await emit({
     type: 'CompletionLogged',
-    completionId,
+    completionId: nextId(),
     practiceId,
     subId,
     date,
     completedAt: Date.now(),
     prayedId,
     via,
+    ...(pins ? { pins } : {}),
   })
 }
 
 export async function backfillMissedDays(practiceId: string, dates: string[]): Promise<void> {
   const ts = Date.now()
-  const store = useEventStore.getState()
-  let nextId = store.nextCompletionId
   const entries = dates.map((date) => ({
-    completionId: nextId++,
+    completionId: nextId(),
     date,
     subId: 'backfill',
     completedAt: ts,
@@ -279,7 +276,7 @@ export async function backfillMissedDays(practiceId: string, dates: string[]): P
   await emit({ type: 'CompletionsBatchLogged', practiceId, entries })
 }
 
-export async function removeCompletion(id: number): Promise<void> {
+export async function removeCompletion(id: string): Promise<void> {
   const completion = useEventStore.getState().completions.get(id)
   if (!completion) return
   await emit({
@@ -292,7 +289,7 @@ export async function removeCompletion(id: number): Promise<void> {
 }
 
 /** Refile a completion under another slot, keeping when and how it was made. */
-export async function moveCompletion(id: number, slotKey: string): Promise<void> {
+export async function moveCompletion(id: string, slotKey: string): Promise<void> {
   const store = useEventStore.getState()
   const completion = store.completions.get(id)
   if (!completion) return
@@ -307,18 +304,19 @@ export async function moveCompletion(id: number, slotKey: string): Promise<void>
     },
     {
       type: 'CompletionLogged',
-      completionId: store.nextCompletionId,
+      completionId: nextId(),
       practiceId,
       subId: slotId,
       date: completion.date,
       completedAt: completion.completed_at,
       prayedId: completion.prayed_id,
       via: completion.via,
+      pins: completion.pins,
     },
   ])
 }
 
-function resolve(ids: Set<number> | undefined): Completion[] {
+function resolve(ids: Set<string> | undefined): Completion[] {
   return resolveCompletions(ids, useEventStore.getState().completions)
 }
 

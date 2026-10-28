@@ -9,13 +9,15 @@
     "userInterfaceStyle": "automatic",
     "backgroundColor": "#0E0D0C",
     "ios": {
-      "supportsTablet": false,
+      "supportsTablet": true,
       "icon": {
         "light": "./assets/icon.png",
         "dark": "./assets/icon-dark.png",
         "tinted": "./assets/icon-tinted.png"
       },
       "bundleIdentifier": "me.dpgu.ember",
+      "appleTeamId": "F3D9WF9H7X",
+      "associatedDomains": ["applinks:ember.dpgu.me"],
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -28,12 +30,18 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "package": "me.dpgu.ember",
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "autoVerify": true,
+          "data": [
+            { "scheme": "https", "host": "ember.dpgu.me", "pathPattern": "/prayers/..*" },
+            { "scheme": "https", "host": "ember.dpgu.me", "pathPattern": "/pt/oracoes/..*" }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ],
       "softwareKeyboardLayoutMode": "resize"
-    },
-    "web": {
-      "bundler": "metro",
-      "output": "static",
-      "favicon": "./assets/favicon.png"
     },
     "experiments": {
       "typedRoutes": true
@@ -49,6 +57,13 @@
       "expo-router",
       "expo-sqlite",
       "expo-font",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Ember uses the camera to scan the code on a device you are adding to your account.",
+          "recordAudioAndroid": false
+        }
+      ],
       [
         "expo-notifications",
         {

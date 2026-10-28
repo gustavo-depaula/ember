@@ -15,6 +15,10 @@
 		"en-US": "Chaplet of the Seven Sorrows",
 		"pt-BR": "Coroa das Sete Dores"
 	},
+	"source": {
+		"en-US": "Closing versicle and collect (*Interveniat pro nobis*): the ending of the Chaplet of the Seven Dolours in the *Raccolta*, Latin and English from Ambrose St. John's edition (1857); the Portuguese is the translation published at padrepauloricardo.org.",
+		"pt-BR": "Versículo e coleta finais (*Interveniat pro nobis*): o fecho da Coroa das Sete Dores na *Raccolta*, latim e inglês da edição de Ambrose St. John (1857); o português é a tradução publicada em padrepauloricardo.org."
+	},
 	"categories": [
 		"marian",
 		"chaplet",

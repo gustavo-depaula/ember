@@ -2,13 +2,16 @@
   "id": "jerome-prefaces",
   "cover": "quarter",
   "name": {
-    "en-US": "Prefaces"
+    "en-US": "Prefaces",
+    "pt-BR": "Prefácios"
   },
   "author": {
-    "en-US": "Jerome"
+    "en-US": "Jerome",
+    "pt-BR": "São Jerônimo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Prefaces"
+        "en-US": "Prefaces",
+        "pt-BR": "Prefácios"
       }
     }
   ]

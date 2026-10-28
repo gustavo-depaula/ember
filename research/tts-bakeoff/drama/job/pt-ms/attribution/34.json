@@ -1,0 +1,242 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story and introduces each speech."
+  },
+  "eliu": {
+   "name": "Eliu",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Son of Barachel the Buzite; the angry young bystander who speaks after the three friends fall silent."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Continuando, pois, Eliú o seu discurso, disse:"
+   }
+  ],
+  "2": [
+   {
+    "s": "eliu",
+    "t": "Ouvi, sábios, as minhas palavras, eruditos, prestai-me atenção,"
+   }
+  ],
+  "3": [
+   {
+    "s": "eliu",
+    "t": "porque o ouvido julga as palavras, assim como o paladar distingue os manjares pelo gosto."
+   }
+  ],
+  "4": [
+   {
+    "s": "eliu",
+    "t": "Examinemos entre nós a causa, e vejamos de comum acordo o que seja melhor."
+   }
+  ],
+  "5": [
+   {
+    "s": "eliu",
+    "t": "Job disse: Eu sou justo, e Deus recusa-me justiço,"
+   }
+  ],
+  "6": [
+   {
+    "s": "eliu",
+    "t": "Padeço, contra o meu direito, atroz é a minha chaga, sem eu ter pecado algum."
+   }
+  ],
+  "7": [
+   {
+    "s": "eliu",
+    "t": "Que homem há (pois) semelhante a Job, que bebe o escárnio como água,"
+   }
+  ],
+  "8": [
+   {
+    "s": "eliu",
+    "t": "que anda com os que cometem a iniquidade, que caminha com os homens impios?"
+   }
+  ],
+  "9": [
+   {
+    "s": "eliu",
+    "t": "Porque ele disse: Não aproveita ao homem estar de bem com Deus."
+   }
+  ],
+  "10": [
+   {
+    "s": "eliu",
+    "t": "Vós, pois, ó homens sensatos, ouvi-me: Longe de Deus a iniquidade! Longe do Omnipotente a injustiça!"
+   }
+  ],
+  "11": [
+   {
+    "s": "eliu",
+    "t": "Em verdade ele dá ao homem segundo as suas obras, recompensa cada um segundo o seu proceder."
+   }
+  ],
+  "12": [
+   {
+    "s": "eliu",
+    "t": "De certo Deus não condena sem razão, nem o Omnipotente atropela a justiça."
+   }
+  ],
+  "13": [
+   {
+    "s": "eliu",
+    "t": "Quem lhe deu a terra para ele a governar? Quem fez o mundo inteiro?"
+   }
+  ],
+  "14": [
+   {
+    "s": "eliu",
+    "t": "Se ele (Deus) chamasse a si o seu espírito, se retraísse o seu sopro e o seu alento;"
+   }
+  ],
+  "15": [
+   {
+    "s": "eliu",
+    "t": "toda a carne perecera num instante, e o homem voltaria ao pó."
+   }
+  ],
+  "16": [
+   {
+    "s": "eliu",
+    "t": "Portanto, se tens entendimento, ouve isto, escuta o som das minhas palavras."
+   }
+  ],
+  "17": [
+   {
+    "s": "eliu",
+    "t": "Acaso poderia governar, aquele que não ama a justiça? Como condenas tu, pois, afoutamente aquele que é sumamente justo?"
+   }
+  ],
+  "18": [
+   {
+    "s": "eliu",
+    "t": "Ele que diz a um rei: \"Homem vil!\" e trata os nobres como ímpios,"
+   }
+  ],
+  "19": [
+   {
+    "s": "eliu",
+    "t": "Não faz aceitação da pessoa dos poderosos, não antepõe o rico ao pobre, porque todos são obra das suas mãos."
+   }
+  ],
+  "20": [
+   {
+    "s": "eliu",
+    "t": "Eles morrerão de improviso, desaparecerão; no meio da noite os povos se sublevarão, e derrubarão o tirano sem esforço."
+   }
+  ],
+  "21": [
+   {
+    "s": "eliu",
+    "t": "Com efeito os olhos de Deus estão sobre os caminhos dos homens, ele considera todos os seus passos."
+   }
+  ],
+  "22": [
+   {
+    "s": "eliu",
+    "t": "Não há trevas, e não há sombra de morte, onde possam esconder-se os que praticam a iniquidade."
+   }
+  ],
+  "23": [
+   {
+    "s": "eliu",
+    "t": "(Deus) não precisa de olhar um homem duas vezes, para o citar a comparecer no seu tribunal."
+   }
+  ],
+  "24": [
+   {
+    "s": "eliu",
+    "t": "Abate os poderosos, sem andar em averiguações, e põe outros em seu lugar."
+   }
+  ],
+  "25": [
+   {
+    "s": "eliu",
+    "t": "Conhecedor das suas obras, derruba-os numa noite, e eles ficam aniquilados."
+   }
+  ],
+  "26": [
+   {
+    "s": "eliu",
+    "t": "Fere-os como ímpios, à vista de todos,"
+   }
+  ],
+  "27": [
+   {
+    "s": "eliu",
+    "t": "porque se apartaram dele, não quiseram conhecer os seus caminhos,"
+   }
+  ],
+  "28": [
+   {
+    "s": "eliu",
+    "t": "de sorte que fizeram com que chegasse até ele o clamor do oprimido, e lhe fizeram ouvir a voz dos pobres."
+   }
+  ],
+  "29": [
+   {
+    "s": "eliu",
+    "t": "Se ele se cala, quem há que o condene? Se esconde o seu rosto, quem o poderá contemplar, quer se trate das nações, quer de um particular?"
+   }
+  ],
+  "30": [
+   {
+    "s": "eliu",
+    "t": "Ele não deixa que o impio reine, que o povo fique sujeito a tropeçar."
+   }
+  ],
+  "31": [
+   {
+    "s": "eliu",
+    "t": "E, já que falei de Deus, também te não estorvarei a ti de falar."
+   }
+  ],
+  "32": [
+   {
+    "s": "eliu",
+    "t": "Se eu errei, corrigi-me, se falei com iniquidade, não direi mais nada."
+   }
+  ],
+  "33": [
+   {
+    "s": "eliu",
+    "t": "Porventura pedir-te-á Deus conta do que eu falei, que te desagradou? mas tu foste o primeiro a falar, e não eu; e, se sabes coisa melhor, dize-a."
+   }
+  ],
+  "34": [
+   {
+    "s": "eliu",
+    "t": "Falem-me homens atilados, assim conto o homem sábio que me escuta."
+   }
+  ],
+  "35": [
+   {
+    "s": "eliu",
+    "t": "Job falou nèsciamente, as sua palavras não foram acertadas."
+   }
+  ],
+  "36": [
+   {
+    "s": "eliu",
+    "t": "Oxalá que seja provado Job até ao fim, pelas suas respostas de homem iníquo,"
+   }
+  ],
+  "37": [
+   {
+    "s": "eliu",
+    "t": "porque ao seu pecado junta a revolta; bate palmas contra nós, e multiplica queixas contra Deus."
+   }
+  ]
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "mark": {
+  "en": "The Holy Gospel of Jesus Christ, according to Saint Mark.",
+  "pt": "O Santo Evangelho de Jesus Cristo, segundo São Marcos."
+ },
+ "job": {
+  "en": "The Book of Job.",
+  "pt": "O Livro de Jó."
+ },
+ "luke": {
+  "en": "The Holy Gospel of Jesus Christ, according to Saint Luke.",
+  "pt": "O Santo Evangelho de Jesus Cristo, segundo São Lucas."
+ },
+ "john": {
+  "en": "The Holy Gospel of Jesus Christ, according to Saint John.",
+  "pt": "O Santo Evangelho de Jesus Cristo, segundo São João."
+ },
+ "matthew": {
+  "en": "The Holy Gospel of Jesus Christ, according to Saint Matthew.",
+  "pt": "O Santo Evangelho de Jesus Cristo, segundo São Mateus."
+ },
+ "acts": {
+  "en": "The Acts of the Apostles.",
+  "pt": "Os Atos dos Apóstolos."
+ },
+ "genesis": {
+  "en": "The Book of Genesis.",
+  "pt": "O Livro do Gênesis."
+ },
+ "exodus": {
+  "en": "The Book of Exodus.",
+  "pt": "O Livro do Êxodo."
+ },
+ "apocalypse": {
+  "en": "The Apocalypse of Saint John the Apostle.",
+  "pt": "O Apocalipse de São João."
+ },
+ "tobias": {
+  "en": "The Book of Tobias.",
+  "pt": "O Livro de Tobias."
+ },
+ "ruth": {
+  "en": "The Book of Ruth.",
+  "pt": "O Livro de Rute."
+ },
+ "jonas": {
+  "en": "The Prophecy of Jonas.",
+  "pt": "A Profecia de Jonas."
+ },
+ "judith": {
+  "en": "The Book of Judith.",
+  "pt": "O Livro de Judite."
+ },
+ "esther": {
+  "en": "The Book of Esther.",
+  "pt": "O Livro de Ester."
+ }
+}

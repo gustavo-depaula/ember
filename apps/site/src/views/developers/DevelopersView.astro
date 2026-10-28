@@ -1,0 +1,21 @@
+---
+import type { Locale } from '~/lib/locale'
+import type { DevDoc } from '~/routes'
+import ApiView from './ApiView.astro'
+import CorpusView from './CorpusView.astro'
+import FlowsView from './FlowsView.astro'
+import OverviewView from './OverviewView.astro'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  doc: DevDoc
+}
+
+const { locale, alternates, doc } = Astro.props
+---
+
+{doc === 'overview' && <OverviewView locale={locale} alternates={alternates} />}
+{doc === 'api' && <ApiView locale={locale} alternates={alternates} />}
+{doc === 'corpus' && <CorpusView locale={locale} alternates={alternates} />}
+{doc === 'flows' && <FlowsView locale={locale} alternates={alternates} />}

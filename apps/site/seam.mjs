@@ -31,12 +31,31 @@ const replacedPackages = {
   'react-i18next': 'reactI18next.ts',
 }
 
-const byAbsolutePath = new Map(
-  Object.entries(replacedAppModules).map(([mod, file]) => [
-    resolve(appSrc, mod),
-    resolve(platform, file),
-  ]),
-)
+// What runs in a reader's browser: a browser that is one of an account's
+// devices keeps the app's database in SQLite compiled to WebAssembly.
+const browserAppModules = {
+  'db/client': 'browser/dbClient.ts',
+  'lib/backupFile': 'browser/backupFile.ts',
+  'content/store': 'browser/store.ts',
+  'lib/hearth': 'browser/hearth.ts',
+  'stores/preferencesStore': 'browser/preferencesStore.ts',
+  'lib/i18n/detectLanguage': 'browser/detectLanguage.ts',
+}
+
+const browserPackages = {
+  'expo-crypto': 'browser/expoCrypto.ts',
+  expo: 'browser/expo.ts',
+  'expo-application': 'browser/expo.ts',
+  'expo-device': 'browser/expo.ts',
+}
+
+const byPath = (modules) =>
+  new Map(
+    Object.entries(modules).map(([mod, file]) => [resolve(appSrc, mod), resolve(platform, file)]),
+  )
+const byAbsolutePath = byPath(replacedAppModules)
+// Later entries win: a browser stand-in replaces the build's.
+const inBrowserByAbsolutePath = new Map([...byAbsolutePath, ...byPath(browserAppModules)])
 
 function stripExtension(path) {
   return path.replace(/\?.*$/, '').replace(/\.(ts|tsx|js|mjs)$/, '')
@@ -59,8 +78,9 @@ export function platformSeam() {
   return {
     name: 'ember-platform-seam',
     enforce: 'pre',
-    resolveId(source, importer) {
-      const pkg = replacedPackages[source]
+    resolveId(source, importer, options) {
+      const browser = !options?.ssr
+      const pkg = replacedPackages[source] ?? (browser ? browserPackages[source] : undefined)
       if (pkg) return resolve(platform, pkg)
 
       // `~/` is the site's own source root (tsconfig `paths` covers the type side).
@@ -73,8 +93,9 @@ export function platformSeam() {
           : undefined
       if (!base) return undefined
 
+      const replacements = browser ? inBrowserByAbsolutePath : byAbsolutePath
       const replaced =
-        byAbsolutePath.get(stripExtension(base)) ?? byAbsolutePath.get(`${stripExtension(base)}/index`)
+        replacements.get(stripExtension(base)) ?? replacements.get(`${stripExtension(base)}/index`)
       if (replaced) return replaced
       // Only the `@/` alias needs resolving here; relative imports resolve natively.
       return source.startsWith('@/') ? resolveAppPath(base) : undefined

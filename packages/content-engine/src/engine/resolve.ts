@@ -23,7 +23,6 @@ import {
   RANK_LABELS,
   type RenderedLiturgicalColor,
 } from './labels'
-import { type ChoiceRichTextSection, resolveChoiceRichText } from './sections/choice-rich-text'
 import { getCycleIndex } from './sections/cycle'
 import { resolveCanticleRef, resolveInlinePrayer, resolvePrayerRef } from './sections/prayer'
 import { resolveRepeat } from './sections/repeat'
@@ -112,6 +111,9 @@ export function resolveSection(
           attribution: section.attribution ? ec.localize(section.attribution) : undefined,
         },
       ]
+
+    case 'chant':
+      return [{ type: 'chant', ref: section.ref }]
 
     case 'prayer':
       if ('ref' in section) {
@@ -447,9 +449,6 @@ export function resolveSection(
         return resolveSection(substituted, context, ec)
       })
     }
-
-    case 'choice-rich-text':
-      return resolveChoiceRichText(section as ChoiceRichTextSection, context, ec)
 
     case 'collapsible': {
       const sections = section.sections.flatMap((s) => resolveSection(s, context, ec))

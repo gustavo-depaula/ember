@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Disputed Question on Spiritual Creatures",
-    "la": "Quaestio Disputata de Spiritualibus Creaturis"
+    "la": "Quaestio Disputata de Spiritualibus Creaturis",
+    "pt-BR": "Questão Disputada sobre as Criaturas Espirituais"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A single disputed question of eleven articles on the metaphysics of immaterial substances — chiefly the angels and the human soul — held during Aquinas's stay at the papal *studium* of Viterbo or Rome.",
-    "la": "Quaestio disputata una undecim articulorum, de metaphysica substantiarum immaterialium — angelorum praecipue et animae humanae."
+    "la": "Quaestio disputata una undecim articulorum, de metaphysica substantiarum immaterialium — angelorum praecipue et animae humanae.",
+    "pt-BR": "Uma única questão disputada, de onze artigos, sobre a metafísica das substâncias imateriais — principalmente os anjos e a alma humana —, sustentada durante a estada de Tomás de Aquino no *studium* pontifício de Viterbo ou de Roma."
   },
   "composed": "1267–1268",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,84 +39,96 @@
       "id": "prologue",
       "title": {
         "en-US": "Prologue — Prologue",
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "ch001",
       "title": {
         "en-US": "Article 1 — Whether a spiritual substance is composed of matter and form",
-        "la": "Articulus 1"
+        "la": "Articulus 1",
+        "pt-BR": "Artigo 1 — Se a substância espiritual é composta de matéria e forma"
       }
     },
     {
       "id": "ch002",
       "title": {
         "en-US": "Article 2 — Whether a spiritual substance can be united to a body",
-        "la": "Articulus 2"
+        "la": "Articulus 2",
+        "pt-BR": "Artigo 2 — Se a substância espiritual pode unir-se ao corpo"
       }
     },
     {
       "id": "ch003",
       "title": {
         "en-US": "Article 3 — Whether the spiritual substance, which is the human soul, is united to the body through a medium",
-        "la": "Articulus 3"
+        "la": "Articulus 3",
+        "pt-BR": "Artigo 3 — Se a substância espiritual que é a alma humana se une ao corpo por meio de um intermediário"
       }
     },
     {
       "id": "ch004",
       "title": {
         "en-US": "Article 4 — Whether the whole soul is in every part of the body",
-        "la": "Articulus 4"
+        "la": "Articulus 4",
+        "pt-BR": "Artigo 4 — Se a alma inteira está em cada parte do corpo"
       }
     },
     {
       "id": "ch005",
       "title": {
         "en-US": "Article 5 — Whether there is any created spiritual substance that is not united to a body",
-        "la": "Articulus 5"
+        "la": "Articulus 5",
+        "pt-BR": "Artigo 5 — Se há alguma substância espiritual criada que não esteja unida a um corpo"
       }
     },
     {
       "id": "ch006",
       "title": {
         "en-US": "Article 6 — Whether a spiritual substance is united to a heavenly body",
-        "la": "Articulus 6"
+        "la": "Articulus 6",
+        "pt-BR": "Artigo 6 — Se a substância espiritual se une a um corpo celeste"
       }
     },
     {
       "id": "ch007",
       "title": {
         "en-US": "Article 7 — Whether a spiritual substance is united to an ethereal body",
-        "la": "Articulus 7"
+        "la": "Articulus 7",
+        "pt-BR": "Artigo 7 — Se a substância espiritual se une a um corpo aéreo"
       }
     },
     {
       "id": "ch008",
       "title": {
         "en-US": "Article 8 — Whether all angels differ in species from one another",
-        "la": "Articulus 8"
+        "la": "Articulus 8",
+        "pt-BR": "Artigo 8 — Se todos os anjos diferem entre si em espécie"
       }
     },
     {
       "id": "ch009",
       "title": {
         "en-US": "Article 9 — Whether the potential intellect is one in all men",
-        "la": "Articulus 9"
+        "la": "Articulus 9",
+        "pt-BR": "Artigo 9 — Se o intelecto possível é um só em todos os homens"
       }
     },
     {
       "id": "ch010",
       "title": {
         "en-US": "Article 10 — Whether the agent intellect is one intellect belonging to all men",
-        "la": "Articulus 10"
+        "la": "Articulus 10",
+        "pt-BR": "Artigo 10 — Se o intelecto agente é um só intelecto de todos os homens"
       }
     },
     {
       "id": "ch011",
       "title": {
         "en-US": "Article 11 — Whether the powers of the soul are the same as the essence of the soul",
-        "la": "Articulus 11"
+        "la": "Articulus 11",
+        "pt-BR": "Artigo 11 — Se as potências da alma são o mesmo que a essência da alma"
       }
     }
   ]

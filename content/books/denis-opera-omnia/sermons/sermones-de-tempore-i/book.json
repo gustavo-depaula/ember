@@ -1,0 +1,1949 @@
+{
+  "id": "denis-sermones-de-tempore-i",
+  "cover": "label",
+  "name": {
+    "la": "Sermones de tempore, pars prima",
+    "en-US": "Sermons for the Sundays, Part One (Advent to Easter)",
+    "pt-BR": "Sermões dominicais, primeira parte (do Advento à Páscoa)"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "Sermones de tempore, pars prima.",
+    "en-US": "Sermons of Denis the Carthusian for the Church's year.",
+    "pt-BR": "Sermões de Dionísio, o Cartuxo, para o ano litúrgico."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniainunum29deni",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXIX (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Initium",
+        "en-US": "Opening",
+        "pt-BR": "Abertura"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Præfatio",
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Præfatio",
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
+      }
+    },
+    {
+      "id": "g001",
+      "title": {
+        "la": "Dominica prima Adventus",
+        "en-US": "Dominica prima Adventus",
+        "pt-BR": "Dominica prima Adventus"
+      },
+      "children": [
+        {
+          "id": "c004",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Sermo 8",
+            "en-US": "Sermon 8",
+            "pt-BR": "Sermão 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g002",
+      "title": {
+        "la": "Dominica secunda Adventus",
+        "en-US": "Dominica secunda Adventus",
+        "pt-BR": "Dominica secunda Adventus"
+      },
+      "children": [
+        {
+          "id": "c014",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g003",
+      "title": {
+        "la": "Dominica tertia Adventus",
+        "en-US": "Dominica tertia Adventus",
+        "pt-BR": "Dominica tertia Adventus"
+      },
+      "children": [
+        {
+          "id": "c023",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g004",
+      "title": {
+        "la": "Dominica quarta Adventus",
+        "en-US": "Dominica quarta Adventus",
+        "pt-BR": "Dominica quarta Adventus"
+      },
+      "children": [
+        {
+          "id": "c031",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g005",
+      "title": {
+        "la": "Dominica prima",
+        "en-US": "Dominica prima",
+        "pt-BR": "Dominica prima"
+      },
+      "children": [
+        {
+          "id": "c040",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c044",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c045",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g006",
+      "title": {
+        "la": "Dominica secunda",
+        "en-US": "Dominica secunda",
+        "pt-BR": "Dominica secunda"
+      },
+      "children": [
+        {
+          "id": "c049",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c051",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c052",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c053",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c054",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c055",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c057",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        },
+        {
+          "id": "c058",
+          "title": {
+            "la": "Sermo 8",
+            "en-US": "Sermon 8",
+            "pt-BR": "Sermão 8"
+          }
+        },
+        {
+          "id": "c059",
+          "title": {
+            "la": "Sermo 9",
+            "en-US": "Sermon 9",
+            "pt-BR": "Sermão 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g007",
+      "title": {
+        "la": "Dominica tertia",
+        "en-US": "Dominica tertia",
+        "pt-BR": "Dominica tertia"
+      },
+      "children": [
+        {
+          "id": "c060",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c061",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c062",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c063",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c064",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c065",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c066",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c067",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c068",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g008",
+      "title": {
+        "la": "Dominica quarta",
+        "en-US": "Dominica quarta",
+        "pt-BR": "Dominica quarta"
+      },
+      "children": [
+        {
+          "id": "c069",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c070",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c071",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c072",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c073",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c074",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c075",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c076",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c077",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g009",
+      "title": {
+        "la": "Dominica quinta",
+        "en-US": "Dominica quinta",
+        "pt-BR": "Dominica quinta"
+      },
+      "children": [
+        {
+          "id": "c078",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c079",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c080",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c081",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c082",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c083",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c084",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c085",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c086",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g010",
+      "title": {
+        "la": "Dominica sexta",
+        "en-US": "Dominica sexta",
+        "pt-BR": "Dominica sexta"
+      },
+      "children": [
+        {
+          "id": "c087",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c088",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c089",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c090",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c091",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c092",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c093",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c094",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c095",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g011",
+      "title": {
+        "la": "Dominica Septuagesimæ",
+        "en-US": "Dominica Septuagesimæ",
+        "pt-BR": "Dominica Septuagesimæ"
+      },
+      "children": [
+        {
+          "id": "c096",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c097",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c098",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c099",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c100",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c101",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c102",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c103",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c104",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g012",
+      "title": {
+        "la": "Dominica Sexagesimæ",
+        "en-US": "Dominica Sexagesimæ",
+        "pt-BR": "Dominica Sexagesimæ"
+      },
+      "children": [
+        {
+          "id": "c105",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c106",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c107",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c108",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c109",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c110",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c111",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c112",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c113",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g013",
+      "title": {
+        "la": "Dominica Quinquagesimæ",
+        "en-US": "Dominica Quinquagesimæ",
+        "pt-BR": "Dominica Quinquagesimæ"
+      },
+      "children": [
+        {
+          "id": "c114",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c115",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c116",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c117",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c118",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c119",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c120",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c121",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c122",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        },
+        {
+          "id": "c123",
+          "title": {
+            "la": "Sermo 8",
+            "en-US": "Sermon 8",
+            "pt-BR": "Sermão 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g014",
+      "title": {
+        "la": "Dominica prima Quadragesimæ",
+        "en-US": "Dominica prima Quadragesimæ",
+        "pt-BR": "Dominica prima Quadragesimæ"
+      },
+      "children": [
+        {
+          "id": "c124",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c125",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c126",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c127",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c128",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c129",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c130",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c131",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c132",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g015",
+      "title": {
+        "la": "Dominica secunda Quadragesimæ",
+        "en-US": "Dominica secunda Quadragesimæ",
+        "pt-BR": "Dominica secunda Quadragesimæ"
+      },
+      "children": [
+        {
+          "id": "c133",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c134",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c135",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c136",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c137",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c138",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c139",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c140",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g016",
+      "title": {
+        "la": "Dominica tertia Quadragesimæ",
+        "en-US": "Dominica tertia Quadragesimæ",
+        "pt-BR": "Dominica tertia Quadragesimæ"
+      },
+      "children": [
+        {
+          "id": "c141",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c142",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c143",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c144",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c145",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c146",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c147",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c148",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c149",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g017",
+      "title": {
+        "la": "Dominica quarta Quadragesimæ",
+        "en-US": "Dominica quarta Quadragesimæ",
+        "pt-BR": "Dominica quarta Quadragesimæ"
+      },
+      "children": [
+        {
+          "id": "c150",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c151",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c152",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c153",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c154",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c155",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c156",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c157",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c158",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g018",
+      "title": {
+        "la": "Dominica Passionis",
+        "en-US": "Dominica Passionis",
+        "pt-BR": "Dominica Passionis"
+      },
+      "children": [
+        {
+          "id": "c159",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c160",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c161",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c162",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c163",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c164",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c165",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c166",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c167",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g019",
+      "title": {
+        "la": "Dominica Palmarum",
+        "en-US": "Dominica Palmarum",
+        "pt-BR": "Dominica Palmarum"
+      },
+      "children": [
+        {
+          "id": "c168",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c169",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c170",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c171",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c172",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c173",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c174",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c175",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c176",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g020",
+      "title": {
+        "la": "Dominica Paschæ",
+        "en-US": "Dominica Paschæ",
+        "pt-BR": "Dominica Paschæ"
+      },
+      "children": [
+        {
+          "id": "c177",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c178",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c179",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c180",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c181",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c182",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c183",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c184",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c185",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g021",
+      "title": {
+        "la": "Dominica in octava Paschæ",
+        "en-US": "Dominica in octava Paschæ",
+        "pt-BR": "Dominica in octava Paschæ"
+      },
+      "children": [
+        {
+          "id": "c186",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c187",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c188",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c189",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c190",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c191",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c192",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c193",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c194",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g022",
+      "title": {
+        "la": "Dominica secunda post Pascha",
+        "en-US": "Dominica secunda post Pascha",
+        "pt-BR": "Dominica secunda post Pascha"
+      },
+      "children": [
+        {
+          "id": "c195",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c196",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c197",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c198",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c199",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c200",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c201",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c202",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        },
+        {
+          "id": "c203",
+          "title": {
+            "la": "Sermo 7",
+            "en-US": "Sermon 7",
+            "pt-BR": "Sermão 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g023",
+      "title": {
+        "la": "Dominica tertia post Pascha",
+        "en-US": "Dominica tertia post Pascha",
+        "pt-BR": "Dominica tertia post Pascha"
+      },
+      "children": [
+        {
+          "id": "c204",
+          "title": {
+            "la": "Enarratio in epistolam",
+            "en-US": "Enarratio in epistolam",
+            "pt-BR": "Enarratio in epistolam"
+          }
+        },
+        {
+          "id": "c205",
+          "title": {
+            "la": "Sermo 1",
+            "en-US": "Sermon 1",
+            "pt-BR": "Sermão 1"
+          }
+        },
+        {
+          "id": "c206",
+          "title": {
+            "la": "Enarratio in evangelium",
+            "en-US": "Enarratio in evangelium",
+            "pt-BR": "Enarratio in evangelium"
+          }
+        },
+        {
+          "id": "c207",
+          "title": {
+            "la": "Sermo 2",
+            "en-US": "Sermon 2",
+            "pt-BR": "Sermão 2"
+          }
+        },
+        {
+          "id": "c208",
+          "title": {
+            "la": "Sermo 3",
+            "en-US": "Sermon 3",
+            "pt-BR": "Sermão 3"
+          }
+        },
+        {
+          "id": "c209",
+          "title": {
+            "la": "Sermo 4",
+            "en-US": "Sermon 4",
+            "pt-BR": "Sermão 4"
+          }
+        },
+        {
+          "id": "c210",
+          "title": {
+            "la": "Sermo 5",
+            "en-US": "Sermon 5",
+            "pt-BR": "Sermão 5"
+          }
+        },
+        {
+          "id": "c211",
+          "title": {
+            "la": "Sermo 6",
+            "en-US": "Sermon 6",
+            "pt-BR": "Sermão 6"
+          }
+        }
+      ]
+    }
+  ]
+}

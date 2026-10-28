@@ -50,7 +50,7 @@
       }
     },
     {
-      "ref": "divine-office",
+      "ref": "liturgy-of-the-hours",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "07:30",

@@ -1,0 +1,2715 @@
+{
+ "id": "sanctorale.07-20.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20. Juli"
+       ],
+       [
+        "Hl. Margareta, Jungfrau, Märtyrin"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Liberasti me, secundum magnitudinem misericordiæ et nominis tui."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Ecclesiástici"
+       ]
+      ],
+      "cite": "51, 1-12",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confitébor tibi, Dómine rex; et collaudábo te Deum salvatórem meum. Confitébor nómini tuo, quóniam adiútor et protéctor factus es mihi et liberásti corpus meum a perditióne, a láqueo linguæ iníquæ et a lábiis operántium mendácium, et in conspéctu insurgéntium factus es mihi adiútor. Et liberásti me, secúndum magnitúdinem misericórdiæ et nóminis tui, a láqueis præparátis ad escam, de mánibus quæréntium ánimam meam et de multis tribulatiónibus, quæ circumdedérunt me, a pressúra flammæ, quæ circúmdedit me, et de médio ignis, ubi non sum æstuátus; de altitúdine ventris ínferi et a lingua coinquináta et a verbo mendácii, a iáculo linguæ iniústæ. Appropinquávit usque ad mortem ánima mea, et vita mea appropínquans erat in inférno deórsum. Circumdedérunt me úndique, et non erat qui adiuváret; respíciens eram ad adiutórium hóminum, et non erat. Memorátus autem sum misericórdiæ tuæ, Dómine, et operatiónis tuæ, quæ a sæculo est, quóniam éruis sustinéntes te, Dómine, et líberas eos de mánibus iniquórum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu me libertaste, segundo a grandeza da tua misericórdia e do teu nome."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura do Livro do Eclesiástico"
+       ]
+      ],
+      "cite": "51, 1-8",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\"Vou glorificar-te, ó Senhor, meu rei, e louvar-te, ó Deus, meu Salvador. Vou dar gloria ao teu nome, pois foste para mim protetor e socorro. Livraste meu corpo da ruína, da cilada da língua perversa e dos lábios que forjam a mentira; na presença dos inimigos foste o meu amparo e me libraste, segundo a grandeza da tua misericórdia e do teu nome, das mordeduras daqueles que estavam prontos para me devorar, da mão dos que procuravam tirar-me a vida, das muitas tribulações que sofri; livraste-me da fogueira sufocante que me cercava e do meio do fogo que não acendi, do seio profundo do inferno, da língua impura e da palavra mentirosa, e dos ataques de uma língua injusta. Corri risco de vida e cheguei bem perto do abismo. Cercavam-me por toda parte, e não havia quem me socorresse; eu olhava, procurando o amparo dos homens, e não existia. Librei-me então da tua misericórdia, Senhor, e de teus benefícios desde toda a eternidade, pois tu libertas aqueles que confiam em ti, Senhor, e os salvas das mãos dos malvados.\""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Book of Sirach"
+       ]
+      ],
+      "cite": "51, 1-12",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I give you thanks, LORD and King, I praise you, God my savior!"
+       ],
+       [
+        "I declare your name, refuge of my life,"
+       ],
+       [
+        "because you have ransomed my life from death;"
+       ],
+       [
+        "You held back my body from the pit,"
+       ],
+       [
+        "and delivered my foot from the power of Sheol."
+       ],
+       [
+        "You have preserved me from the scourge of the slanderous tongue,"
+       ],
+       [
+        "and from the lips of those who went over to falsehood."
+       ],
+       [
+        "You were with me against those who rise up against me."
+       ],
+       [
+        "You have rescued me according to your abundant mercy."
+       ],
+       [
+        "From the snare of those who look for my downfall,"
+       ],
+       [
+        "and from the power of those who seek my life."
+       ],
+       [
+        "From many dangers you have saved me,"
+       ],
+       [
+        "from flames that beset me on every side,"
+       ],
+       [
+        "From the midst of fire till there was not a whiff of it,"
+       ],
+       [
+        "from the deep belly of Sheol,"
+       ],
+       [
+        "From deceiving lips and painters of lies,"
+       ],
+       [
+        "from the arrows of a treacherous tongue."
+       ],
+       [
+        "I was at the point of death,"
+       ],
+       [
+        "my life was nearing the depths of Sheol;"
+       ],
+       [
+        "I turned every way, but there was no one to help;"
+       ],
+       [
+        "I looked for support but there was none."
+       ],
+       [
+        "Then I remembered the mercies of the Lord,"
+       ],
+       [
+        "his acts of kindness through ages past;"
+       ],
+       [
+        "For he saves those who take refuge in him,"
+       ],
+       [
+        "and rescues them from every evil."
+       ],
+       [
+        "So I raised my voice from the grave;"
+       ],
+       [
+        "from the gates of Sheol I cried for help."
+       ],
+       [
+        "I called out: LORD, you are my Father,"
+       ],
+       [
+        "my champion, my savior!"
+       ],
+       [
+        "Do not abandon me in time of trouble,"
+       ],
+       [
+        "in the midst of storms and dangers."
+       ],
+       [
+        "I will always praise your name"
+       ],
+       [
+        "and remember you in prayer!"
+       ],
+       [
+        "Then the Lord heard my voice,"
+       ],
+       [
+        "and listened to my appeal."
+       ],
+       [
+        "He saved me from every evil"
+       ],
+       [
+        "and preserved me in time of trouble."
+       ],
+       [
+        "For this reason I thank and praise him;"
+       ],
+       [
+        "I bless the name of the Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Me liberaste, por tu inmensa misericordia y por tu nombre"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura del libro del Eclesiástico"
+       ]
+      ],
+      "cite": "51, 1-8",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Te doy gracias, Señor y Rey,"
+       ],
+       [
+        "te alabo, oh Dios mi salvador,"
+       ],
+       [
+        "a tu nombre doy gracias."
+       ],
+       [
+        "Porque fuiste mi protector y mi auxilio,"
+       ],
+       [
+        "y libraste mi cuerpo de la perdición,"
+       ],
+       [
+        "del lazo de una lengua traicionera,"
+       ],
+       [
+        "de los labios que urden mentiras;"
+       ],
+       [
+        "frente a mis adversarios"
+       ],
+       [
+        "fuiste mi auxilio y me liberaste,"
+       ],
+       [
+        "por tu inmensa misericordia y por tu nombre,"
+       ],
+       [
+        "de las dentelladas de los que iban a devorarme,"
+       ],
+       [
+        "de la mano de los que buscaban mi vida,"
+       ],
+       [
+        "de las muchas tribulaciones que he sufrido;"
+       ],
+       [
+        "de las llamas sofocantes que me envolvían,"
+       ],
+       [
+        "de un fuego que yo no había encendido;"
+       ],
+       [
+        "de las entrañas del abismo,"
+       ],
+       [
+        "de la lengua impura, de la palabra mentirosa,"
+       ],
+       [
+        "calumnia de una lengua injusta ante el rey."
+       ],
+       [
+        "Yo estaba a punto de morir,"
+       ],
+       [
+        "mi vida tocaba el abismo profundo."
+       ],
+       [
+        "Por todas partes me asediaban y nadie me auxiliaba,"
+       ],
+       [
+        "buscaba a alguien que me ayudara y no había nadie."
+       ],
+       [
+        "Entonces me acordé, Señor, de tu misericordia"
+       ],
+       [
+        "y de tus obras que son desde siempre,"
+       ],
+       [
+        "de que tú sostienes a los que esperan en ti"
+       ],
+       [
+        "y los salvas de la mano de los enemigos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mi hai liberato, secondo la grandezza della tua misericordia."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del Siracide"
+       ]
+      ],
+      "cite": "51, 1-12 (NV) [gr 51, 1-8]",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ti loderò, Signore, re,"
+       ],
+       [
+        "e ti canterò, Dio, mio salvatore, loderò il tuo nome,"
+       ],
+       [
+        "perché sei stato mio riparo e mio aiuto,"
+       ],
+       [
+        "salvando il mio corpo dalla perdizione,"
+       ],
+       [
+        "dal laccio di una lingua calunniatrice,"
+       ],
+       [
+        "dalle labbra di quelli che proferiscono menzogna,"
+       ],
+       [
+        "e di fronte a quanti mi circondavano"
+       ],
+       [
+        "sei stato il mio aiuto e mi hai liberato,"
+       ],
+       [
+        "secondo la grandezza della tua misericordia e del tuo nome,"
+       ],
+       [
+        "dai morsi di chi stava per divorarmi,"
+       ],
+       [
+        "dalla mano di quelli che insidiavano la mia vita,"
+       ],
+       [
+        "dalle molte tribolazioni di cui soffrivo,"
+       ],
+       [
+        "dal soffocamento di una fiamma avvolgente"
+       ],
+       [
+        "e dal fuoco che non avevo acceso,"
+       ],
+       [
+        "dal profondo del seno degli inferi,"
+       ],
+       [
+        "dalla lingua impura e dalla parola falsa"
+       ],
+       [
+        "e dal colpo di una lingua ingiusta."
+       ],
+       [
+        "La mia anima era vicina alla morte, la mia vita era giù, vicino agli inferi."
+       ],
+       [
+        "Mi assalivano da ogni parte e nessuno mi aiutava; mi rivolsi al soccorso degli uomini, e non c'era."
+       ],
+       [
+        "Allora mi ricordai della tua misericordia, Signore, e dei tuoi benefici da sempre, perché tu liberi quelli che sperano in te e li salvi dalla mano dei nemici."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de Ben Sirac le Sage"
+       ]
+      ],
+      "cite": "51, 1-12",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Confitébor tibi, Dómine rex; et collaudábo te Deum salvatórem meum. Confitébor nómini tuo, quóniam adiútor et protéctor factus es mihi et liberásti corpus meum a perditióne, a láqueo linguæ iníquæ et a lábiis operántium mendácium, et in conspéctu insurgéntium factus es mihi adiútor. Et liberásti me, secúndum magnitúdinem misericórdiæ et nóminis tui, a láqueis præparátis ad escam, de mánibus quæréntium ánimam meam et de multis tribulatiónibus, quæ circumdedérunt me, a pressúra flammæ, quæ circúmdedit me, et de médio ignis, ubi non sum æstuátus; de altitúdine ventris ínferi et a lingua coinquináta et a verbo mendácii, a iáculo linguæ iniústæ. Appropinquávit usque ad mortem ánima mea, et vita mea appropínquans erat in inférno deórsum. Circumdedérunt me úndique, et non erat qui adiuváret; respíciens eram ad adiutórium hóminum, et non erat. Memorátus autem sum misericórdiæ tuæ, Dómine, et operatiónis tuæ, quæ a sæculo est, quóniam éruis sustinéntes te, Dómine, et líberas eos de mánibus iniquórum."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Jesus Sirach"
+       ]
+      ],
+      "cite": "51, 1-8 (1-12)",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich will dich preisen, mein Herr und König, ich will dich loben, Gott meines Heils. Ich will deinen Namen verkünden, du Hort meines Lebens, denn du hast mich vom Tod errettet. Du hast meinen Leib vor dem Grab bewahrt, meinen Fuß dem Griff der Unterwelt entrissen. Du hast mich befreit von der Geißel böser Zungen, von den Lippen treuloser Lügner. Gegen meine Widersacher standest du mir zur Seite, in deiner großen Huld hast du mir geholfen aus der Schlinge derer, die auf meinen Fall lauern, aus der Hand jener, die mir nach dem Leben trachten."
+       ],
+       [
+        "Aus vielen Nöten hast du mich erlöst, aus der Bedrängnis der Flammen, die mich umringten, aus Gluten, die nicht wirklich geschürt, aus dem Schoß der Flut, nicht wirklich von Wasser, sondern von schändlichen Lippen und Erfindern von Lüge, von den Pfeilen der falschen Zunge. Schon war ich dem Tod nahe und mein Leben den Tiefen der Unterwelt. Ich wandte mich nach allen Seiten und fand keinen Helfer, ich spähte nach einem Beistand, doch keiner war da. Da dachte ich an das Erbarmen des Herrn, an die Taten seiner Huld, die seit Ewigkeit bestehen. Er hilft allen, die auf ihn vertrauen, und erlöst sie aus jeder Gefahr."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.martyrs.first-reading.6"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.martyrs.first-reading.6"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 5b)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 33(34), 2-3. 4-5. 6-7. 8-9 (R.: 5b)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 5b)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 33, 2-3. 4-5. 6-7. 8-9 (R.: 5b)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dal Salmo 33 (34)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 33, 2-3. 4-5. 6-7. 8-9 (R.: 5b)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 34 (33), 2-3. 4-5. 6-7. 8-9 (R.: vgl. 5b)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.martyrs.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ex ómnibus terróribus meis erípuit me, Dóminus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De todos os temores o Senhor me libertou."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Lord set me free from all my fears."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor me libró de todas mis ansias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ho cercato il Signore: da ogni paura mi ha liberato"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Il Signore ascolta il povero: lo salva da tutte le sue angosce."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De toutes mes frayeurs, le Seigneur me délivre."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "All meinen Ängsten hat mich der Herr entrissen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedícam Dóminum in omni témpore,"
+       ],
+       [
+        "semper laus eius in ore meo."
+       ],
+       [
+        "In Dómino gloriábitur ánima mea,"
+       ],
+       [
+        "áudiant mansuéti et læténtur."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bendirei o Senhor Deus em todo o tempo, seu louvor estará sempre em minha boca. Minha alma se gloria no Senhor; que ouçam os humildes e se alegrem."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I will bless the Lord at all times his praise always on my lips; in the Lord may soul shall make its boast. The humble shall hear and be glad."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bendigo al Señor en todo momento,"
+       ],
+       [
+        "su alabanza está siempre en mi boca;"
+       ],
+       [
+        "mi alma se gloría en el Señor:"
+       ],
+       [
+        "que los humildes lo escuchen y se alegren."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Benedirò il Signore in ogni tempo,"
+       ],
+       [
+        "sulla mia bocca sempre la sua lode."
+       ],
+       [
+        "Io mi glorio nel Signore:"
+       ],
+       [
+        "i poveri ascoltino e si rallegrino."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Je bénirai le Seigneur en tout temps,"
+       ],
+       [
+        "sa louange sans cesse à mes lèvres."
+       ],
+       [
+        "Je me glorifierai dans le Seigneur :"
+       ],
+       [
+        "que les pauvres m'entendent et soient en fête !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich will den Herrn allezeit preisen;"
+       ],
+       [
+        "immer sei sein Lob in meinem Mund."
+       ],
+       [
+        "Meine Seele rühme sich des Herrn;"
+       ],
+       [
+        "die Armen sollen es hören und sich freuen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ex ómnibus terróribus meis erípuit me, Dóminus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De todos os temores o Senhor me libertou."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Lord set me free from all my fears."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor me libró de todas mis ansias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ho cercato il Signore: da ogni paura mi ha liberato"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Il Signore ascolta il povero: lo salva da tutte le sue angosce."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De toutes mes frayeurs, le Seigneur me délivre."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "All meinen Ängsten hat mich der Herr entrissen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Magnificáte Dóminum mecum,"
+       ],
+       [
+        "et exaltémus nomen eius in idípsum."
+       ],
+       [
+        "Exquisívi Dóminum, et exaudívit me,"
+       ],
+       [
+        "et ex ómnibus terróribus meis erípuit me."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Comigo engrandecei ao Senhor Deus, exaltemos todos juntos o seu nome! Todas as vezes que o busquei, ele me ouviu, e de todos os temores me livrou."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Glorify the Lord with me. Together let us praise his name. I sought the Lord and he answered me; from all my terrors he set me free."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamad conmigo la grandeza del Señor,"
+       ],
+       [
+        "ensalcemos juntos su nombre."
+       ],
+       [
+        "Yo consulté al Señor, y me respondió,"
+       ],
+       [
+        "me libró de todas mis ansias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Magnificate con me il Signore,"
+       ],
+       [
+        "esaltiamo insieme il suo nome."
+       ],
+       [
+        "Ho cercato il Signore: mi ha risposto"
+       ],
+       [
+        "e da ogni mia paura mi ha liberato."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Magnifiez avec moi le Seigneur,"
+       ],
+       [
+        "exaltons tous ensemble son nom."
+       ],
+       [
+        "Je cherche le Seigneur, il me répond :"
+       ],
+       [
+        "de toutes mes frayeurs, il me délivre."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verherrlicht mit mir den Herrn,"
+       ],
+       [
+        "lasst uns gemeinsam seinen Namen rühmen."
+       ],
+       [
+        "Ich suchte den Herrn, und er hat mich erhört,"
+       ],
+       [
+        "er hat mich all meinen Ängsten entrissen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ex ómnibus terróribus meis erípuit me, Dóminus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De todos os temores o Senhor me libertou."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Lord set me free from all my fears."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor me libró de todas mis ansias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ho cercato il Signore: da ogni paura mi ha liberato"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Il Signore ascolta il povero: lo salva da tutte le sue angosce."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De toutes mes frayeurs, le Seigneur me délivre."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "All meinen Ängsten hat mich der Herr entrissen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Respícite ad eum, et illuminámini,"
+       ],
+       [
+        "et fácies vestræ non confundéntur."
+       ],
+       [
+        "Iste pauper clamávit, et Dóminus exaudívit eum,"
+       ],
+       [
+        "et de ómnibus tribulatiónibus eius salvávit eum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Contemplai a sua face e alegrai-vos, e vosso rosto não se cubra de vergonha! Este infeliz gritou a Deus, e foi ouvido, e o Senhor o libertou de toda angústia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Look towards him and be radiant; let your faces not be abashed. This poor man called; the Lord heard him and rescued him from all his distress."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Contempladlo, y quedaréis radiantes,"
+       ],
+       [
+        "vuestro rostro no se avergonzará."
+       ],
+       [
+        "El afligido invocó al Señor,"
+       ],
+       [
+        "él lo escuchó y lo salvó de sus angustias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Guardate a lui e sarete raggianti,"
+       ],
+       [
+        "i vostri volti non dovranno arrossire."
+       ],
+       [
+        "Questo povero grida e il Signore lo ascolta,"
+       ],
+       [
+        "lo salva da tutte le sue angosce."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui regarde vers lui resplendira,"
+       ],
+       [
+        "sans ombre ni trouble au visage."
+       ],
+       [
+        "Un pauvre crie ; le Seigneur entend :"
+       ],
+       [
+        "il le sauve de toutes ses angoisses."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Blickt auf zu ihm, so wird euer Gesicht leuchten,"
+       ],
+       [
+        "und ihr braucht nicht zu erröten."
+       ],
+       [
+        "Da ist ein Armer; er rief, und der Herr erhörte ihn."
+       ],
+       [
+        "Er half ihm aus all seinen Nöten."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ex ómnibus terróribus meis erípuit me, Dóminus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De todos os temores o Senhor me libertou."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Lord set me free from all my fears."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor me libró de todas mis ansias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ho cercato il Signore: da ogni paura mi ha liberato"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Il Signore ascolta il povero: lo salva da tutte le sue angosce."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De toutes mes frayeurs, le Seigneur me délivre."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "All meinen Ängsten hat mich der Herr entrissen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vallábit ángelus Dómini in circúitu timéntes eum,"
+       ],
+       [
+        "et erípiet eos."
+       ],
+       [
+        "Gustáte et vidéte quóniam suávis est Dóminus;"
+       ],
+       [
+        "beátus vir qui sperat in eo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O anjo do Senhor vem acampar ao redor dos que o temem, e os salva. Provai e vede quão suave é o Senhor! Feliz o homem que tem nele o seu refúgio!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The angel of the Lord is encamped around those who revere him, to rescue them. Taste and see that the Lord is good. He is happy who seeks refuge in him."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El ángel del Señor acampa en torno a quienes lo temen y los protege."
+       ],
+       [
+        "Gustad y ved qué bueno es el Señor,"
+       ],
+       [
+        "dichoso el que se acoge a él."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'angelo del Signore si accampa"
+       ],
+       [
+        "attorno a quelli che lo temono, e li libera."
+       ],
+       [
+        "Gustate e vedete com'è buono il Signore;"
+       ],
+       [
+        "beato l'uomo che in lui si rifugia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "L'ange du Seigneur campe alentour,"
+       ],
+       [
+        "pour libérer ceux qui le craignent."
+       ],
+       [
+        "Goûtez et voyez : le Seigneur est bon !"
+       ],
+       [
+        "Heureux qui trouve en lui son refuge !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Der Engel des Herrn umschirmt alle, die ihn fürchten und ehren,"
+       ],
+       [
+        "und er befreit sie."
+       ],
+       [
+        "Kostet und seht, wie gütig der Herr ist;"
+       ],
+       [
+        "wohl dem, der zu ihm sich flüchtet!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ex ómnibus terróribus meis erípuit me, Dóminus."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De todos os temores o Senhor me libertou."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Lord set me free from all my fears."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Señor me libró de todas mis ansias."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ho cercato il Signore: da ogni paura mi ha liberato"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oppure:"
+        }
+       ],
+       [
+        "Il Signore ascolta il povero: lo salva da tutte le sue angosce."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "De toutes mes frayeurs, le Seigneur me délivre."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "All meinen Ängsten hat mich der Herr entrissen."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.martyrs.psalm.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "1 Petr 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Si exprobrámini in nómine Christi, beáti,"
+       ],
+       [
+        "quóniam Spíritus Dei super vos requiéscit."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "1 Pd 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Felizes sereis vós, se fordes ultrajados, por causa de Jesus, pois, repousa sobre vós o Espírito de Deus!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "1 P 4:14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "If you are insulted for the name of Christ, blessed are you, for the Spirit of God rests upon you."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "1 Petr 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Si os ultrajan por el nombre de Cristo, bienaventurados vosotros,"
+       ],
+       [
+        "porque el Espíritu de Dios reposa sobre vosotros."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "1 Pt 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Beati voi, se venite insultati per il nome di Cristo, perché lo Spirito di Dio riposa su di voi."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "1 Petr 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Si l'on vous insulte pour le nom du Christ, heureux êtes-vous : l'Esprit de Dieu repose sur vous."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "vgl. 1 Petr 4, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Wenn man euch um des Namens Christi willen beschimpft, seid ihr selig zu preisen; denn der Geist Gottes ruht auf euch."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "from": "common.martyrs.acclamation.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Qui perdiderit animam suam propter me, hic salvem faciet illam."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Lucam"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quem perder a sua vida por causa de mim, esse a salvará."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Luke"
+       ]
+      ],
+      "cite": "9:23-26",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "El que pierda su vida por mi causa la salvará"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Lucas"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chi perderà la propria vita per causa mia, la salverà"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Luca"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Luc"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Lukas"
+       ]
+      ],
+      "cite": "9, 23-26",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.martyrs.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.martyrs.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dicébat Iesus ad omnes:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Si quis vult post me veníre, ábneget semetípsum et tollat crucem suam cotídie et sequátur me. Qui enim volúerit ánimam suam salvam fácere, perdet illam; qui autem perdíderit ánimam suam propter me, hic salvam fáciet illam. Quid enim próficit homo, si lucrétur univérsum mundum, se autem ipsum perdat vel detriméntum sui fáciat? Nam qui me erubúerit et meos sermónes, hunc Fílius hóminis erubéscet, cum vénerit in glória sua et Patris et sanctórum angelórum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, Jesus disse a todos: \"Se alguém me quer seguir, renuncie a si mesmo, tome a sua cruz cada dia, e siga-me. Pois quem quiser salvar a sua vida, vai perdê-la; e quem perder a sua vida por causa de mim, esse a salvará. Com efeito, de que adianta ao homem ganhar o mundo inteiro, se se perde e se destrói a si mesmo? Se alguém se envergonhar de mim e das minhas palavras, o Filho do homem também se envergonhará dele, quando vier na sua glória, na glória do Pai e dos santos Anjos\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Then he said to all, “If anyone wishes to come after me, he must deny himself and take up his cross daily and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will save it. What profit is there for one to gain the whole world yet lose or forfeit himself? Whoever is ashamed of me and of my words, the Son of Man will be ashamed of when he comes in his glory and in the glory of the Father and of the holy angels.”"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, decía Jesús a todos:"
+       ],
+       [
+        "«Si alguno quiere venir en pos de mí, que se niegue a sí mismo, tome su cruz cada día y me siga. Pues el que quiera salvar su vida la perderá; pero el que pierda su vida por mi causa la salvará. ¿De qué le sirve a uno ganar el mundo entero sí se pierde o se arruina a sí mismo?"
+       ],
+       [
+        "Pues si uno se avergüenza de mí y de mis palabras, también el Hijo del hombre se avergonzará de él cuando venga en su gloria, en la del Padre y en la de los ángeles santos»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù, a tutti, diceva:"
+       ],
+       [
+        "«Se qualcuno vuole venire dietro a me, rinneghi se stesso, prenda la sua croce ogni giorno e mi segua."
+       ],
+       [
+        "Chi vuole salvare la propria vita, la perderà, ma chi perderà la propria vita per causa mia, la salverà."
+       ],
+       [
+        "Infatti, quale vantaggio ha un uomo che guadagna il mondo intero, ma perde o rovina se stesso?"
+       ],
+       [
+        "Chi si vergognerà di me e delle mie parole, di lui si vergognerà il Figlio dell'uomo quando verrà nella gloria sua e del Padre e degli angeli santi»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à tous :"
+       ],
+       [
+        "\" Celui qui veut marcher à ma suite, qu'il renonce à lui-même, qu'il prenne sa croix chaque jour et qu'il me suive. Car celui qui veut sauver sa vie la perdra ; mais celui qui perdra sa vie à cause de moi la sauvera. Quel avantage un homme aura-t-il à gagner le monde entier, s'il se perd ou se ruine lui-même ? Celui qui a honte de moi et de mes paroles, le Fils de l'homme aura honte de lui, quand il viendra dans la gloire, la sienne, celle du Père et des saints anges. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu der Menge:"
+       ],
+       [
+        "Wer mein Jünger sein will, der verleugne sich selbst, nehme täglich sein Kreuz auf sich und folge mir nach. Denn wer sein Leben retten will, wird es verlieren; wer aber sein Leben um meinetwillen verliert, der wird es retten. Was nützt es einem Menschen, wenn er die ganze Welt gewinnt, dabei aber sich selbst verliert und Schaden nimmt? Denn wer sich meiner und meiner Worte schämt, dessen wird sich der Menschensohn schämen, wenn er in seiner Hoheit kommt und in der Hoheit des Vaters und der heiligen Engel."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.martyrs.gospel.4"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.martyrs.gospel.4"
+  }
+ ],
+ "title": {
+  "*": "Hl. Margareta, Jungfrau, Märtyrin"
+ }
+}

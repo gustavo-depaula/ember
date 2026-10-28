@@ -2,13 +2,16 @@
   "id": "miscellaneous-treatise-against-the-heretic-novatian",
   "cover": "quarter",
   "name": {
-    "en-US": "A Treatise Against the Heretic Novatian (c. 255)"
+    "en-US": "A Treatise Against the Heretic Novatian (c. 255)",
+    "pt-BR": "Tratado contra o Herege Novaciano (c. 255)"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "A Treatise Against the Heretic Novatian (c. 255)"
+        "en-US": "A Treatise Against the Heretic Novatian (c. 255)",
+        "pt-BR": "Tratado contra o Herege Novaciano (c. 255)"
       }
     }
   ]

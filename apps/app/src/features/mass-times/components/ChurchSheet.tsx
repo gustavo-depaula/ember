@@ -1,40 +1,34 @@
 import { CalendarCheck, ChevronLeft, ChevronRight, Search, X } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import {
-  BackHandler,
-  FlatList,
-  Keyboard,
-  Platform,
-  ScrollView,
-  StyleSheet,
-  View,
-} from 'react-native'
+import { BackHandler, FlatList, Keyboard, StyleSheet, View } from 'react-native'
 import { KeyboardAwareScrollView } from 'react-native-keyboard-controller'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Input, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Skeleton, Typography } from '@/components'
+import { useMinuteOfDay } from '@/hooks/useCurrentHour'
+import { selectionTick } from '@/lib/haptics'
 import type { NearbyChurch } from '@/lib/mass-times'
-import { nextService, useChurch, useChurchSearch, wallClockNow } from '@/lib/mass-times'
+import { useChurch, useChurchSearch } from '@/lib/mass-times'
 import { useDebounced } from '@/lib/useDebounced'
+import { type AgendaRow, agenda, type Bucket, bucketOf, type TravelMode } from '../agenda'
 import { useCheckInCount } from '../checkins'
-import { useFavoritesStore } from '../favorites'
-import { dayLabel, daysAway, formatDistanceKm, formatTimeOfDay } from '../format'
-import { type MassFilter, type MassTimesNearby, passesFilter } from '../useMassTimesNearby'
+import type { MassFilter, MassTimesNearby } from '../useMassTimesNearby'
+import { AgendaListItem } from './AgendaListItem'
 import { ChurchDetail } from './ChurchDetail'
 import { ChurchesMap } from './ChurchesMap'
-import { ChurchListItem } from './ChurchListItem'
 import { type ChurchRowData, ChurchSearchRow } from './ChurchSearchRow'
-import { FilterChips } from './FilterChips'
 import { useGlassTile } from './glass'
+import { IntentSentence } from './IntentSentence'
 import { LocationBar } from './LocationBar'
 import { MapSheet, type SheetDetent } from './MapSheet'
 import { MassLog } from './MassLog'
 import type { CameraIdle } from './NativeChurchesMap'
 import { QueryError } from './QueryError'
 import { SavedChurches } from './SavedChurches'
-import { clockFigures, Hairline, SectionLabel } from './SheetType'
+import { Hairline, SectionLabel } from './SheetType'
 import { SheetLiftContext } from './sheetLift'
+import { VisitListItem } from './VisitListItem'
 
 type Selected = { id: string; name: string; lat?: number; lng?: number }
 type SheetView = { kind: 'browse' } | { kind: 'detail'; church: Selected } | { kind: 'log' }
@@ -92,11 +86,10 @@ export function ChurchSheet({
     return () => sub.remove()
   }, [inBrowse])
 
-  // Android's keyboard draws over the sheet rather than pushing it, so a field in
-  // the lower half would sit under it. Forms lift the sheet as they open (see
+  // The keyboard draws over the sheet rather than pushing it, so a field in the
+  // lower half would sit under it. Forms lift the sheet as they open (see
   // `sheetLift`); this catches a field focused after the sheet was dragged back down.
   useEffect(() => {
-    if (Platform.OS !== 'android') return
     const sub = Keyboard.addListener('keyboardDidShow', () => setDetent('full'))
     return () => sub.remove()
   }, [])
@@ -145,12 +138,6 @@ export function ChurchSheet({
   )
 }
 
-// On Android the pane scrolls a focused field clear of the keyboard itself; the
-// iOS sheet already moves with the keyboard.
-const PaneScroll = (
-  Platform.OS === 'android' ? KeyboardAwareScrollView : ScrollView
-) as typeof KeyboardAwareScrollView
-
 // Place mode: the full church detail in the sheet, with a back affordance to the browse list.
 function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () => void }) {
   const insets = useSafeAreaInsets()
@@ -158,7 +145,9 @@ function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () =
   return (
     <View style={styles.fill}>
       <SheetPaneHeader onBack={onBack} ruled={scrolled} />
-      <PaneScroll
+      {/* Neither sheet makes way for the keyboard — Android's is drawn over, and the iOS one fills
+          through the bottom safe area, keyboard included — so the pane scrolls a focused field clear. */}
+      <KeyboardAwareScrollView
         nestedScrollEnabled
         keyboardShouldPersistTaps="handled"
         // Room under the focused field for the buttons that submit it.
@@ -177,7 +166,7 @@ function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () =
         showsVerticalScrollIndicator={false}
       >
         <ChurchDetail churchId={churchId} />
-      </PaneScroll>
+      </KeyboardAwareScrollView>
     </View>
   )
 }
@@ -270,11 +259,36 @@ function BrowseSearch({
   const checkInCount = useCheckInCount()
   const churches = nearby.churches ?? []
 
+  const [mode, setMode] = useState<TravelMode>('foot')
+
   const debounced = useDebounced(query.trim(), 250)
   const searching = debounced.length >= 2
-  const search = useChurchSearch(debounced, nearby.kind, nearby.center)
-  const favorites = useFavoritesStore((s) => s.favorites)
-  const results = (search.data ?? []).filter((c) => passesFilter(c, filter, favorites))
+  // Search finds a church by name whatever it holds, so it ignores the sentence's kind.
+  const search = useChurchSearch(debounced, undefined, nearby.center)
+
+  const { intent, when } = filter
+  // The timetable is cut from now, so it is recut as each minute turns.
+  const minute = useMinuteOfDay()
+  // biome-ignore lint/correctness/useExhaustiveDependencies: `minute` recuts the list from the new now
+  const items = useMemo<ListItem[]>(() => {
+    if (searching)
+      return (search.data ?? []).map((church) => ({ type: 'search', id: church.id, church }))
+    if (intent === 'visit')
+      return churches.map((church) => ({ type: 'visit', id: church.id, church }))
+    let last: Bucket | undefined
+    return agenda(churches, intent, when).flatMap((row): ListItem[] => {
+      const bucket = bucketOf(row, when)
+      const id = `${row.church.id}-${row.upcoming.instant.toISOString()}-${row.upcoming.service.kind}`
+      const item: ListItem = { type: 'row', id, row }
+      if (bucket === last) return [item]
+      last = bucket
+      return [{ type: 'bucket', id: `bucket-${bucket}`, bucket }, item]
+    })
+  }, [searching, search.data, intent, when, churches, minute])
+  const rowCount = items.filter((i) => i.type === 'row').length
+  // Travel advice only for today, and only once we know where you are.
+  const located = nearby.location.status === 'granted'
+  const travelMode = located && (when === 'now' || when === 'today') ? mode : undefined
 
   return (
     <View style={styles.fill}>
@@ -320,7 +334,7 @@ function BrowseSearch({
         </XStack>
       </XStack>
       <YStack paddingBottom="$sm">
-        <FilterChips filter={filter} onChange={onFilter} />
+        <IntentSentence filter={filter} onChange={onFilter} />
       </YStack>
 
       <FlatList
@@ -328,28 +342,57 @@ function BrowseSearch({
         nestedScrollEnabled
         keyboardShouldPersistTaps="handled"
         keyboardDismissMode="on-drag"
-        data={searching ? results : churches}
-        keyExtractor={(c) => c.id}
-        renderItem={({ item }) =>
-          searching ? (
-            <ChurchSearchRow church={item as ChurchRowData} onSelect={onSelectRow} />
-          ) : (
-            <ChurchListItem
-              church={item as NearbyChurch}
-              locale={locale}
-              kind={nearby.kind}
-              onSelect={onSelectNearby}
-            />
-          )
-        }
-        ItemSeparatorComponent={Hairline}
+        data={items}
+        keyExtractor={(item) => item.id}
+        renderItem={({ item, index }) => {
+          // Rows draw their own top rule, so a bucket's label is never ruled off from its first row.
+          const ruled = index > 0 && items[index - 1]?.type !== 'bucket'
+          switch (item.type) {
+            case 'search':
+              return (
+                <YStack>
+                  {ruled ? <Hairline /> : null}
+                  <ChurchSearchRow church={item.church} onSelect={onSelectRow} />
+                </YStack>
+              )
+            case 'visit':
+              return (
+                <YStack>
+                  {ruled ? <Hairline /> : null}
+                  <VisitListItem
+                    church={item.church}
+                    when={when}
+                    locale={locale}
+                    onSelect={onSelectNearby}
+                  />
+                </YStack>
+              )
+            case 'bucket':
+              return (
+                <YStack paddingTop={index > 0 ? '$lg' : 0} paddingBottom={2}>
+                  <SectionLabel>{t(`massTimes.bucket.${item.bucket}`)}</SectionLabel>
+                </YStack>
+              )
+            case 'row':
+              return (
+                <YStack>
+                  {ruled ? <Hairline /> : null}
+                  <AgendaListItem
+                    row={item.row}
+                    mode={travelMode}
+                    locale={locale}
+                    onSelect={onSelectNearby}
+                  />
+                </YStack>
+              )
+          }
+        }}
         contentContainerStyle={{ paddingHorizontal: 20, paddingBottom: insets.bottom + 24 }}
         showsVerticalScrollIndicator={false}
         ListHeaderComponent={
           searching ? null : (
             <YStack gap="$lg" paddingTop="$sm" paddingBottom={4}>
               <LocationBar location={nearby.location} />
-              <NextMassNearby churches={churches} locale={locale} onSelect={onSelectNearby} />
               <SavedChurches onSelect={onSelectRow} />
               {checkInCount > 0 ? (
                 <AnimatedPressable
@@ -367,8 +410,19 @@ function BrowseSearch({
                   </XStack>
                 </AnimatedPressable>
               ) : null}
-              {churches.length > 0 ? (
-                <SectionLabel rule>{t('massTimes.nearbyHeading')}</SectionLabel>
+              {items.length > 0 ? (
+                <XStack alignItems="center" gap="$md">
+                  <YStack flex={1}>
+                    <SectionLabel rule>
+                      {intent === 'visit'
+                        ? t('massTimes.nearbyHeading')
+                        : t('massTimes.agendaCount', { count: rowCount })}
+                    </SectionLabel>
+                  </YStack>
+                  {travelMode && intent !== 'visit' ? (
+                    <TravelToggle mode={mode} onChange={setMode} />
+                  ) : null}
+                </XStack>
               ) : null}
             </YStack>
           )
@@ -396,10 +450,21 @@ function BrowseSearch({
                 <Skeleton key={i} height={56} borderRadius={8} />
               ))}
             </YStack>
-          ) : (
+          ) : nearby.mode === 'counts' ? (
+            <YStack paddingTop="$md" alignItems="center">
+              <Typography variant="annotation">{t('massTimes.zoomIn')}</Typography>
+            </YStack>
+          ) : churches.length === 0 ? (
             <YStack gap="$xs" paddingTop="$md" alignItems="center">
               <Typography variant="interface">{t('massTimes.empty')}</Typography>
               <Typography variant="annotation">{t('massTimes.emptyHint')}</Typography>
+            </YStack>
+          ) : (
+            <YStack gap="$xs" paddingTop="$md" alignItems="center">
+              <Typography variant="interface">
+                {t('massTimes.agendaEmpty', { when: t(`massTimes.sentence.when.${when}`) })}
+              </Typography>
+              <Typography variant="annotation">{t('massTimes.agendaEmptyHint')}</Typography>
             </YStack>
           )
         }
@@ -408,84 +473,56 @@ function BrowseSearch({
   )
 }
 
-// How many of the nearest churches compete for "next Mass near you" — a Mass starting in five
-// minutes across town isn't the answer to "where can I go now".
-const nextMassCandidates = 10
+type ListItem =
+  | { type: 'search'; id: string; church: ChurchRowData }
+  | { type: 'visit'; id: string; church: NearbyChurch }
+  | { type: 'bucket'; id: string; bucket: Bucket }
+  | { type: 'row'; id: string; row: AgendaRow }
 
-// The devotional headline: the soonest upcoming Mass among the nearest churches, time first so the
-// answer never truncates. Tapping opens that church.
-function NextMassNearby({
-  churches,
-  locale,
-  onSelect,
+// On foot or by car: the travel estimate behind "leave in 12 min". Two words in a soft pill, the
+// chosen one lifted.
+function TravelToggle({
+  mode,
+  onChange,
 }: {
-  churches: NearbyChurch[]
-  locale: string
-  onSelect: (church: NearbyChurch) => void
+  mode: TravelMode
+  onChange: (mode: TravelMode) => void
 }) {
   const { t } = useTranslation()
-
-  const soonest = useMemo(() => {
-    let best: { church: NearbyChurch; instant: Date; date: Date; startTime: string } | undefined
-    for (const church of churches.slice(0, nextMassCandidates)) {
-      const next = nextService(church.services, { timezone: church.timezone, kind: 'mass' })
-      if (!next) continue
-      if (!best || next.instant < best.instant) {
-        best = {
-          church,
-          instant: next.instant,
-          date: next.occurrence.date,
-          startTime: next.occurrence.startTime,
-        }
-      }
-    }
-    return best
-  }, [churches])
-
-  if (!soonest) return null
-  const { church } = soonest
-  const now = wallClockNow(church.timezone)
-  const isToday = daysAway(soonest.date, now) <= 0
-
+  const tile = useGlassTile()
+  const strong = useGlassTile(true)
   return (
-    <AnimatedPressable
-      onPress={() => onSelect(church)}
-      accessibilityRole="button"
-      accessibilityLabel={t('massTimes.nextMassNearby')}
-    >
-      <YStack gap="$sm">
-        <SectionLabel cross>{t('massTimes.nextMassNearby')}</SectionLabel>
-        <XStack alignItems="center" gap="$md">
-          <Typography
-            variant="sacred-title"
-            fontSize={44}
-            lineHeight={52}
-            fontVariant={[...clockFigures]}
+    <XStack backgroundColor={tile} borderRadius={10} padding={2}>
+      {(['foot', 'car'] as const).map((m) => (
+        <AnimatedPressable
+          key={m}
+          onPress={() => {
+            void selectionTick()
+            onChange(m)
+          }}
+          hitSlop={6}
+          accessibilityRole="button"
+          accessibilityLabel={t(`massTimes.mode.${m}`)}
+          accessibilityState={{ selected: mode === m }}
+        >
+          <XStack
+            height={28}
+            paddingHorizontal={10}
+            borderRadius={8}
+            alignItems="center"
+            backgroundColor={mode === m ? strong : 'transparent'}
           >
-            {formatTimeOfDay(soonest.startTime)}
-          </Typography>
-          {/* Two tight lines spanning the time's height: the name's cap line level with the top of
-              the figures, the day on their baseline. One line for the name, so the span holds. */}
-          <YStack flex={1} top={-7}>
-            <Typography variant="interface" fontSize={19} lineHeight={22} numberOfLines={1}>
-              {church.name}
+            <Typography
+              variant="interface"
+              fontSize="$1"
+              color={mode === m ? '$color' : '$colorSecondary'}
+            >
+              {t(`massTimes.mode.${m}`)}
             </Typography>
-            <Typography variant="annotation" fontSize={16} lineHeight={17}>
-              <Typography
-                variant="annotation"
-                fontSize={16}
-                color={isToday ? '$colorBurgundy' : '$colorSecondary'}
-              >
-                {dayLabel(soonest.date, now, t, locale)}
-              </Typography>
-              {church.distanceKm === undefined
-                ? ''
-                : ` · ${formatDistanceKm(church.distanceKm, locale)}`}
-            </Typography>
-          </YStack>
-        </XStack>
-      </YStack>
-    </AnimatedPressable>
+          </XStack>
+        </AnimatedPressable>
+      ))}
+    </XStack>
   )
 }
 

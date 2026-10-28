@@ -1,7 +1,4 @@
-import { Platform } from 'react-native'
-
 async function fire(fn: () => Promise<void>) {
-  if (Platform.OS === 'web') return
   try {
     await fn()
   } catch {}

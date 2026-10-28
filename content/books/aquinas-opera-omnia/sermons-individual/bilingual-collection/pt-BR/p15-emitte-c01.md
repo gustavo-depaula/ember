@@ -1,0 +1,3 @@
+# Prólogo
+
+Devemos falar daquele sem o qual ninguém pode falar retamente e que pode fazer, ou faz, todos falarem com abundância. E verdadeiramente sem ele não podemos falar retamente. Nem é de admirar, pois diz-se no livro da Sabedoria 9: *quem* poderá conhecer *o sentido* da verdade de Deus, *se* ele não enviar *do alto o seu espírito*? Sem o sentido da verdade ninguém diz a verdade. Igualmente, o Espírito Santo faz todos falarem com abundância; por isso Gregório: *os que ele enche, torna-os sábios*. Hoje isto é manifesto, quando os apóstolos *ficaram cheios do Espírito Santo e começaram a falar em várias línguas*. Rogaremos, pois, a este que faz falar com abundância até o mudo, que me conceda falar etc.

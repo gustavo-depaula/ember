@@ -2,13 +2,16 @@
   "id": "papias-fragments",
   "cover": "quarter",
   "name": {
-    "en-US": "Fragments"
+    "en-US": "Fragments",
+    "pt-BR": "Fragmentos"
   },
   "author": {
-    "en-US": "Papias"
+    "en-US": "Papias",
+    "pt-BR": "Papias"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Fragments"
+        "en-US": "Fragments",
+        "pt-BR": "Fragmentos"
       }
     }
   ]

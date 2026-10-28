@@ -2,13 +2,16 @@
   "id": "mar-jacob-homily-on-habib-the-martyr",
   "cover": "quarter",
   "name": {
-    "en-US": "Homily on Habib the Martyr"
+    "en-US": "Homily on Habib the Martyr",
+    "pt-BR": "Homilia sobre Habib, o Mártir"
   },
   "author": {
-    "en-US": "Mar Jacob (452-521)"
+    "en-US": "Mar Jacob (452-521)",
+    "pt-BR": "Mar Jacó (452-521)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Homily on Habib the Martyr"
+        "en-US": "Homily on Habib the Martyr",
+        "pt-BR": "Homilia sobre Habib, o Mártir"
       }
     }
   ]

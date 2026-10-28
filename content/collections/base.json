@@ -71,6 +71,10 @@
 				},
 				{
 					"kind": "item",
+					"ref": "practice/daily-liturgy"
+				},
+				{
+					"kind": "item",
 					"ref": "practice/grace-meals"
 				},
 				{
@@ -266,10 +270,6 @@
 						{
 							"kind": "item",
 							"ref": "practice/spiritual-communion"
-						},
-						{
-							"kind": "item",
-							"ref": "practice/thanksgiving-mass"
 						},
 						{
 							"kind": "item",

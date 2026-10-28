@@ -194,7 +194,27 @@ function readMetrics(path) {
     glyphOf.set(cp, g)
   }
 
-  return { unitsPerEm, widths, kern: readKerning(b, tables, glyphOf) }
+  // How far a glyph's ink runs past its own box: left of its origin, and
+  // right of its advance (the hook of an `f`, the tail of a `Q` or a `J`).
+  // Android 15 measures a line by its ink, so the letter a line begins or
+  // ends with needs this much more room than its advance. Read from the
+  // glyph's bounds in `glyf`; a face with CFF outlines carries none.
+  const overhangs = {}
+  if (tables.glyf && tables.loca) {
+    const long = i16(tables.head.off + 50) === 1
+    const offsetOf = (g) =>
+      long ? u32(tables.loca.off + g * 4) : u16(tables.loca.off + g * 2) * 2
+    for (const [cp, g] of glyphOf) {
+      if (offsetOf(g) === offsetOf(g + 1)) continue
+      const header = tables.glyf.off + offsetOf(g)
+      const left = Math.max(0, -i16(header + 2))
+      const right = Math.max(0, i16(header + 6) - widths[cp])
+      // Under half a percent of an em is under a tenth of a pixel at any reading size.
+      if (Math.max(left, right) * 200 >= unitsPerEm) overhangs[cp] = [left, right]
+    }
+  }
+
+  return { unitsPerEm, widths, overhangs, kern: readKerning(b, tables, glyphOf) }
 }
 
 const ligatureForms = { ff: 0xfb00, fi: 0xfb01, fl: 0xfb02, ffi: 0xfb03, ffl: 0xfb04 }
@@ -531,7 +551,10 @@ const emitFace = (m) => {
   const cps = Object.keys(m.widths).map(Number).sort((a, b) => a - b)
   const k = m.kern
   const kern = `kern: { left: [${k.left.join(',')}], right: [${k.right.join(',')}], rows: [${k.rows.map((r) => `'${r}'`).join(',')}] }`
-  return `{ unitsPerEm: ${m.unitsPerEm}, codepoints: [${cps.join(',')}], advances: [${cps.map((c) => m.widths[c]).join(',')}], ${kern} }`
+  const overhang = Object.entries(m.overhangs)
+    .map(([cp, [left, right]]) => `${cp},${left},${right}`)
+    .join(',')
+  return `{ unitsPerEm: ${m.unitsPerEm}, codepoints: [${cps.join(',')}], advances: [${cps.map((c) => m.widths[c]).join(',')}], overhang: [${overhang}], ${kern} }`
 }
 const body = Object.entries(out)
   .map(
@@ -557,6 +580,11 @@ export type FaceMetrics = {
   /** Sorted codepoints, parallel to \`advances\`. */
   codepoints: number[]
   advances: number[]
+  /**
+   * Ink past the glyph's box, as \`codepoint, left, right\` triples in font
+   * units: left of its origin, right of its advance. Only glyphs that have any.
+   */
+  overhang: number[]
   /**
    * GPOS pair kerning over the reading alphabet, resolved per codepoint pair
    * and re-derived into classes (left = distinct rows, right = distinct

@@ -8,6 +8,8 @@ import type { Primitive } from '@/content/primitives'
 export type ProducerPrefs = {
   lang: string // content language: 'en-US' | 'pt-BR'
   translation: string // bible translation code: 'DRB' | 'CPDV' | 'AM' | ...
+  // The reader's calendar region ('BR', 'US'); absent, the General Calendar.
+  jurisdiction?: string
 }
 
 export type SourceAccessor = {

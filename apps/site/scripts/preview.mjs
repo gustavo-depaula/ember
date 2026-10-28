@@ -5,7 +5,7 @@ import { createReadStream, existsSync, readFileSync, statSync } from 'node:fs'
 import { createServer } from 'node:http'
 import { extname, join, normalize, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { asAppPage } from './landing.mjs'
+import { asAppPage, landingPaths } from './landing.mjs'
 
 const siteRoot = resolve(fileURLToPath(import.meta.url), '../..')
 const dist = resolve(siteRoot, 'dist')
@@ -25,7 +25,11 @@ const types = {
   '.jpg': 'image/jpeg',
   '.webp': 'image/webp',
   '.woff2': 'font/woff2',
+  '.wasm': 'application/wasm',
 }
+
+const landingLang = (pathname) =>
+  Object.keys(landingPaths).find((lang) => landingPaths[lang] === pathname)
 
 function fileFor(pathname) {
   const hearth = '/hearth/v2/'
@@ -37,8 +41,8 @@ function fileFor(pathname) {
   if (existsSync(path) && statSync(path).isFile()) return path
   const index = join(path, 'index.html')
   if (existsSync(index)) return index
-  // The landing page (apps/hearth) is published at `/app/`, its assets at the root.
-  const page = join(landing, normalize(decodeURIComponent(rel === '/app/' ? 'index.html' : rel)))
+  // The landing page (apps/hearth) is published at `/app/` and `/pt/app/`, its assets at the root.
+  const page = join(landing, normalize(decodeURIComponent(landingLang(rel) ? 'index.html' : rel)))
   return root === dist && page.startsWith(landing) && existsSync(page) && statSync(page).isFile()
     ? page
     : undefined
@@ -67,7 +71,7 @@ createServer(async (req, res) => {
     ...(extname(file) === '.html' && { 'cache-control': 'no-store' }),
   })
   if (file === join(landing, 'index.html')) {
-    res.end(asAppPage(readFileSync(file, 'utf-8')))
+    res.end(asAppPage(readFileSync(file, 'utf-8'), landingLang(pathname)))
     return
   }
   createReadStream(file).pipe(res)

@@ -1,0 +1,365 @@
+{
+ "pericopes": [
+  1,
+  5,
+  14,
+  18,
+  23,
+  28
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Matthew: orderly, grave, a teacher's storyteller."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord healing and commanding with few words; gentle to the sick, sovereign over storm and devils."
+  },
+  "leper": {
+   "name": "The leper",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A leper kneeling in adoration, pleading with humble trust."
+  },
+  "centurion": {
+   "name": "The centurion",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Roman officer of Capharnaum; soldierly, humble, full of faith."
+  },
+  "would-be-follower": {
+   "name": "Would-be follower",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A scribe who volunteers to follow Jesus anywhere; eager."
+  },
+  "would-be-follower-2": {
+   "name": "Second would-be follower",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A disciple who asks first to bury his father; respectful, hesitant."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "In the boat: terrified in the storm, then hushed with wonder."
+  },
+  "legion": {
+   "name": "The devils of the Gerasens",
+   "kind": "spirit",
+   "gender": "male",
+   "age": "adult",
+   "note": "The devils speaking through the two possessed men: loud, cringing, afraid."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And when he was come down from the mountain, great multitudes followed him:"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And behold a leper came and adored him, saying:"
+   },
+   {
+    "s": "leper",
+    "t": "Lord, if thou wilt, thou canst make me clean."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And Jesus stretching forth his hand, touched him, saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "I will, be thou made clean."
+   },
+   {
+    "s": "narrator",
+    "t": "And forthwith his leprosy was cleansed."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "See thou tell no man: but go, shew thyself to the priest, and offer the gift which Moses commanded, for a testimony unto them."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And when he had entered into Capharnaum, there came to him a centurion, beseeching him,"
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And saying,"
+   },
+   {
+    "s": "centurion",
+    "t": "Lord, my servant lieth at home sick of the palsy, and is grievously tormented."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "I will come and heal him."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And the centurion, making answer, said:"
+   },
+   {
+    "s": "centurion",
+    "t": "Lord, I am not worthy that thou shouldst enter under my roof; but only say the word, and my servant shall be healed."
+   }
+  ],
+  "9": [
+   {
+    "s": "centurion",
+    "t": "For I also am a man subject to authority, having under me soldiers; and I say to this, Go, and he goeth, and to another Come, and he cometh, and to my servant, Do this, and he doeth it."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And Jesus hearing this, marvelled; and said to them that followed him."
+   },
+   {
+    "s": "jesus",
+    "t": "Amen I say to you, I have not found so great faith in Israel."
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "And I say to you that many shall come from the east and the west, and shall sit down with Abraham, and Isaac and Jacob in the kingdom of heaven:"
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "But the children of the kingdom shall be cast out into the exterior darkness: there shall be weeping and gnashing of teeth."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And Jesus said to the centurion:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go, and as thou hast believed, so be it done to thee."
+   },
+   {
+    "s": "narrator",
+    "t": "And the servant was healed at the same hour."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And when Jesus was come into Peter's house, he saw his wife's mother lying, and sick of a fever;"
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And he touched her hand, and the fever left her, and she arose and ministered to them."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And when evening was come, they brought to him many that were possessed with devils: and he cast out the spirits with his word: and all that were sick he healed:"
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "That it might be fulfilled, which was spoken by the prophet Isaias, saying: He took our infirmities, and bore our diseases."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And Jesus seeing great multitudes about him, gave orders to pass over the water."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And a certain scribe came and said to him:"
+   },
+   {
+    "s": "would-be-follower",
+    "t": "Master, I will follow thee whithersoever thou shalt go.",
+    "q": "a scribe here; given Luke 9:57's id for the same saying"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "The foxes have holes, and the birds of the air nests; but the Son of man hath not where to lay his head."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And another of his disciples said to him:"
+   },
+   {
+    "s": "would-be-follower-2",
+    "t": "Lord, suffer me first to go and bury my father."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "But Jesus said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Follow me, and let the dead bury their dead."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And when he entered into the boat, his disciples followed him:"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And behold a great tempest arose in the sea, so that the boat was covered with waves, but he was asleep."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And they came to him, and awaked him, saying:"
+   },
+   {
+    "s": "disciples",
+    "t": "Lord, save us, we perish."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And Jesus saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Why are you fearful, O ye of little faith?"
+   },
+   {
+    "s": "narrator",
+    "t": "Then rising up, he commanded the winds, and the sea, and there came a great calm."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "But the men wondered, saying:"
+   },
+   {
+    "s": "disciples",
+    "t": "What manner of man is this, for the winds and the sea obey him?",
+    "q": "'the men' taken as the disciples in the boat, as in Mark 4 and Luke 8"
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And when he was come on the other side of the water, into the country of the Gerasens, there met him two that were possessed with devils, coming out of the sepulchres, exceeding fierce, so that none could pass by that way."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And behold they cried out, saying:"
+   },
+   {
+    "s": "legion",
+    "t": "What have we to do with thee, Jesus Son of God? art thou come hither to torment us before the time?",
+    "q": "two possessed men cry out; the devils speak through them, so the Mark/Luke id legion is reused though the name is not given here"
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And there was, not far from them, a herd of many swine feeding."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And the devils besought him, saying:"
+   },
+   {
+    "s": "legion",
+    "t": "If thou cast us out hence, send us into the herd of swine."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go."
+   },
+   {
+    "s": "narrator",
+    "t": "But they going out went into the swine, and behold the whole herd ran violently down a steep place into the sea: and they perished in the waters."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And they that kept them fled: and coming into the city, told every thing, and concerning them that had been possessed by the devils."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And behold the whole city went out to meet Jesus, and when they saw him, they besought him that he would depart from their coast."
+   }
+  ]
+ }
+}

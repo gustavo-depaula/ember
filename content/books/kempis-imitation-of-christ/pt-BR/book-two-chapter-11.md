@@ -8,4 +8,8 @@ Oh! Quanto pode o amor puro de Jesus, sem mistura de interesse ou amor-próprio!
 
 É raro achar um homem tão espiritual que esteja desapegado de tudo. Pois o verdadeiro pobre de espírito e desprendido de toda criatura - quem o descobrirá? Tesouro precioso que é necessário buscar nos confins do mundo (Prov 31,10). Se o homem der toda a fortuna, não é nada. E se fizer grande penitência, ainda é pouco. Compreenda embora todas as ciências, ainda estão muito longe. E se tiver grande virtude de devoção ardente, muito ainda lhe falta, a saber: uma coisa que lhe é sumamente necessária. Que coisa será esta? Que, deixado tudo, se deixa a si mesmo e saia totalmente de si, sem reservar amor-próprio algum, e, depois de feito tudo que soube fazer, reconheça que nada fez.
 
-Não tenha em grande conta o pouco que nele possa ser avaliado por grande: antes, confesse sinceramente que é um servo inútil, como nos ensina a Verdade. Quando tiverdes cumprido tudo que vos for mandado, dizei: Somos servos inúteis (Lc 17,10). Então, sim, o homem poderá chamar-se verdadeiramente pobre de espírito e dizer com o profeta: Sou pobre e só neste mundo (Sl 24,16). Entretanto, ninguém é mais poderoso, ninguém mais livre que aquele que sabe deixar-se a si e a todas as coisas e colocar-se no último lugar.
+Não tenha em grande conta o pouco que nele possa ser avaliado por grande: antes, confesse sinceramente que é um servo inútil, como nos ensina a Verdade. Quando tiverdes cumprido tudo que vos for mandado, dizei: Somos servos inúteis (Lc 17,10).[^1] Então, sim, o homem poderá chamar-se verdadeiramente pobre de espírito e dizer com o profeta: Sou pobre e só neste mundo (Sl 24,16).[^2] Entretanto, ninguém é mais poderoso, ninguém mais livre que aquele que sabe deixar-se a si e a todas as coisas e colocar-se no último lugar.
+
+[^1]: Lucas 17,10.
+
+[^2]: Salmos 24,16.

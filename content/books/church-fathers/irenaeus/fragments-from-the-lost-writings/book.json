@@ -2,13 +2,16 @@
   "id": "irenaeus-fragments-from-the-lost-writings",
   "cover": "quarter",
   "name": {
-    "en-US": "Fragments from the Lost Writings of Irenaeus"
+    "en-US": "Fragments from the Lost Writings of Irenaeus",
+    "pt-BR": "Fragmentos das obras perdidas de Irineu"
   },
   "author": {
-    "en-US": "Irenaeus of Lyons"
+    "en-US": "Irenaeus of Lyons",
+    "pt-BR": "Santo Irineu de Lião"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Fragments from the Lost Writings of Irenaeus"
+        "en-US": "Fragments from the Lost Writings of Irenaeus",
+        "pt-BR": "Fragmentos das obras perdidas de Irineu"
       }
     }
   ]

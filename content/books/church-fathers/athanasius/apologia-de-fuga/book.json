@@ -2,13 +2,16 @@
   "id": "athanasius-apologia-de-fuga",
   "cover": "quarter",
   "name": {
-    "en-US": "Apologia de Fuga"
+    "en-US": "Apologia de Fuga",
+    "pt-BR": "Apologia de Fuga"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Apologia de Fuga"
+        "en-US": "Apologia de Fuga",
+        "pt-BR": "Apologia de Fuga"
       }
     }
   ]

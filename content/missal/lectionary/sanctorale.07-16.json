@@ -1,0 +1,2791 @@
+{
+ "id": "sanctorale.07-16",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 16 iulii"
+       ],
+       [
+        "Beatæ Maríæ Virginis de Monte Carmelo"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 de Julho"
+       ],
+       [
+        "Nossa Senhora do Carmo"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "July 16"
+       ],
+       [
+        "Our Lady of Mount Carmel"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 de julio"
+       ],
+       [
+        "Nuestra Señora del Carmen"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 luglio"
+       ],
+       [
+        "B. V. Maria Del Monte Carmelo"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16 juillet"
+       ],
+       [
+        "Bienheureuse Vierge Marie du Mont Carmel"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "16. Juli"
+       ],
+       [
+        "Gedenktag Unserer Lieben Frau auf dem Berge Karmel"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lætare, filia Sion, ecce ego venio."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio libri Zacharíæ prophétæ"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Iúbila et lætáre, fília Sion, quia ecce ego vénio et habitábo in médio tui, ait Dóminus. Et applicabúntur gentes multæ ad Dóminum in die illa et erunt ei in pópulum. Et habitábo in médio tui, et scies quia Dóminus exercítuum misit me ad te."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et possidébit Dóminus Iudam partem suam super terram sanctam et éliget adhuc Ierúsalem. Síleat omnis caro a fácie Dómini, quia consurréxit de habitáculo sancto suo»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rejubila, alegra-te, cidade de Sião, eis que venho para habitar no meio de ti."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Profecia de Zacarias"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\"Rejubila, alegra-te, cidade de Sião, eis que venho para habitar no meio de ti, diz o Senhor. Muitas nações se aproximarão do Senhor, naquele dia, e serão o seu povo. Habitarei no meio de ti, e saberás que o Senhor dos exércitos me enviou a ti. O Senhor entrará em posse de Judá, como sua porção na terra santa, e escolherá de novo Jerusalém. Emudeça todo mortal diante do Senhor, ele acaba de levantar-se de sua santa habitação\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Prophecy of Zechariah"
+       ]
+      ],
+      "cite": "2:14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sing, rejoice, daughter of Zion; for I am coming to dwell in the middle of you - it is the Lord who speaks. Many nations will join the Lord, on that day; they will become his people. (But he will remain among you, and you will know that the Lord of hosts has sent me to you.) But the Lord will hold Judah as his portion in the Holy Land, and again make Jerusalem his very own. Let all mankind be silent before the Lord! For he is awaking and is coming from his holy dwelling."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Goza, Sion, que yo vengo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la profecía de Zacarías"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alégrate y goza, Sion,"
+       ],
+       [
+        "pues voy a habitar en medio de ti"
+       ],
+       [
+        "—oráculo del Señor—."
+       ],
+       [
+        "Aquel día se asociarán al Señor"
+       ],
+       [
+        "pueblos sin número;"
+       ],
+       [
+        "ellos serán mi pueblo,"
+       ],
+       [
+        "y habitaré en medio de ti."
+       ],
+       [
+        "Entonces reconocerás"
+       ],
+       [
+        "que el Señor del universo"
+       ],
+       [
+        "me ha enviado a ti."
+       ],
+       [
+        "Judá será la herencia del Señor,"
+       ],
+       [
+        "su lote en la tierra santa,"
+       ],
+       [
+        "y volverá a elegir a Jerusalén."
+       ],
+       [
+        "¡Silencio todo el mundo"
+       ],
+       [
+        "ante el Señor que se levanta"
+       ],
+       [
+        "de su morada santa!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rallegrati, figlia di Sion, perché, ecco, io vengo."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dal libro del profeta Zaccaria"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Rallegrati, esulta, figlia di Sion,"
+       ],
+       [
+        "perché, ecco, io vengo ad abitare in mezzo a te."
+       ],
+       [
+        "Oracolo del Signore."
+       ],
+       [
+        "Nazioni numerose aderiranno in quel giorno al Signore"
+       ],
+       [
+        "e diverranno suo popolo,"
+       ],
+       [
+        "ed egli dimorerà in mezzo a te"
+       ],
+       [
+        "e tu saprai che il Signore degli eserciti"
+       ],
+       [
+        "mi ha inviato a te."
+       ],
+       [
+        "Il Signore si terrà Giuda come eredità nella terra santa ed eleggerà di nuovo Gerusalemme."
+       ],
+       [
+        "Taccia ogni mortale davanti al Signore, poiché egli si è destato dalla sua santa dimora."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Livre de Zacharie"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Chante et réjouis-toi, fille de Sion ; voici que je viens, j'habiterai au milieu de toi - oracle du Seigneur. Ce jour-là, des nations nombreuses s'attacheront au Seigneur ; elles seront pour moi un peuple, et j'habiterai au milieu de toi. Alors tu sauras que le Seigneur de l'univers m'a envoyé vers toi. Le Seigneur prendra possession de Juda, son domaine sur la terre sainte ; il choisira de nouveau Jérusalem. Que tout être de chair fasse silence devant le Seigneur, car il se réveille et sort de sa Demeure sainte."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Buch Sachárja"
+       ]
+      ],
+      "cite": "2, 14-17",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Juble und freue dich, Tochter Zion; denn siehe, ich komme und wohne in deiner Mitte – Spruch des Herrn. An jenem Tag werden sich viele Völker dem Herrn anschließen, und sie werden mein Volk sein, und ich werde in deiner Mitte wohnen. Dann wirst du erkennen, dass der Herr der Heere mich zu dir gesandt hat."
+       ],
+       [
+        "Der Herr aber wird Juda in Besitz nehmen; es wird sein Anteil im Heiligen Land sein. Und er wird Jerusalem wieder auserwählen. Alle Welt schweige in der Gegenwart des Herrn. Denn er tritt hervor aus seiner heiligen Wohnung."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.blessed-virgin-mary.first-reading.11"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.blessed-virgin-mary.first-reading.11"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Lk 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Lc 1, 46-47. 48-49. 50-51. 52-53. 54-55 (R.: 49)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Lk 1, 46b-48. 49-50. 51 u. 53. 54-55 (R.: 49)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Fecit mihi magna, qui potens est, et sanctum nomen eius"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel "
+        },
+        "Beáta Virgo María, quæ portásti ætérni Patris Fílium!"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Poderoso fez por mim maravilhas e Santo é o seu nome."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Almighty has done great things for me and holy is his name."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Poderoso ha hecho obras grandes por mí: su nombre es santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        },
+        "Bienaventurada eres Virgen María, que llevaste en tu seno al Hijo del Padre eterno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Puissant fit pour moi des merveilles ; Saint est son nom !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou "
+        },
+        "Heureuse Vierge Marie, qui portas en toi le Fils du Père éternel !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mächtige hat Großes an mir getan, und sein Name ist heilig."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Selig bist du, Jungfrau Maria, du hast den Sohn des ewigen Vaters getragen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Magníficat ánima mea Dóminum,"
+       ],
+       [
+        "et exsultávit spíritus meus in Deo salvatóre meo."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A minha alma engrandece ao Senhor,"
+       ],
+       [
+        "e se alegrou o meu espírito em Deus, meu Salvador."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "My soul glorifies the Lord, my spirit rejoices in God, my savior"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclama mi alma la grandeza del Señor,"
+       ],
+       [
+        "se alegra mi espíritu en Dios, mi salvador."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Mon âme exalte le Seigneur,"
+       ],
+       [
+        "exulte mon esprit en Dieu, mon Sauveur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Meine Seele preist die Größe des Herrn,"
+       ],
+       [
+        "und mein Geist jubelt über Gott, meinen Retter."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Fecit mihi magna, qui potens est, et sanctum nomen eius"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel "
+        },
+        "Beáta Virgo María, quæ portásti ætérni Patris Fílium!"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Poderoso fez por mim maravilhas e Santo é o seu nome."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Almighty has done great things for me and holy is his name."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Poderoso ha hecho obras grandes por mí: su nombre es santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        },
+        "Bienaventurada eres Virgen María, que llevaste en tu seno al Hijo del Padre eterno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Puissant fit pour moi des merveilles ; Saint est son nom !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou "
+        },
+        "Heureuse Vierge Marie, qui portas en toi le Fils du Père éternel !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mächtige hat Großes an mir getan, und sein Name ist heilig."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Selig bist du, Jungfrau Maria, du hast den Sohn des ewigen Vaters getragen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quia respéxit humilitátem ancíllæ suæ."
+       ],
+       [
+        "Ecce enim ex hoc beátam me dicent omnes generatiónes,"
+       ],
+       [
+        "quia fecit mihi magna, qui potens est,"
+       ],
+       [
+        "et sanctum nomen eius."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pois, ele viu a pequenez de sua serva,"
+       ],
+       [
+        "eis que agora as gerações hão de chamar-me de bendita."
+       ],
+       [
+        "O Poderoso fez por mim maravilhas e Santo é o seu nome!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He looks on his servant in her nothingness; henceforth all ages will call me blessed. The Almighty works marvels for me. Holy is his name!"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Porque ha mirado la humildad de su esclava."
+       ],
+       [
+        "Desde ahora me felicitarán todas las generaciones, porque el Poderoso ha hecho obras grandes en mí:"
+       ],
+       [
+        "su nombre es santo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il s'est penché sur son humble servante ;"
+       ],
+       [
+        "désormais tous les âges me diront bienheureuse."
+       ],
+       [
+        "Le Puissant fit pour moi des merveilles ;"
+       ],
+       [
+        "Saint est son nom !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Denn auf die Niedrigkeit seiner Magd hat er geschaut."
+       ],
+       [
+        "Siehe, von nun an preisen mich selig alle Geschlechter."
+       ],
+       [
+        "Denn der Mächtige hat Großes an mir getan,"
+       ],
+       [
+        "und sein Name ist heilig."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Fecit mihi magna, qui potens est, et sanctum nomen eius"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel "
+        },
+        "Beáta Virgo María, quæ portásti ætérni Patris Fílium!"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Poderoso fez por mim maravilhas e Santo é o seu nome."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Almighty has done great things for me and holy is his name."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Poderoso ha hecho obras grandes por mí: su nombre es santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        },
+        "Bienaventurada eres Virgen María, que llevaste en tu seno al Hijo del Padre eterno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Puissant fit pour moi des merveilles ; Saint est son nom !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou "
+        },
+        "Heureuse Vierge Marie, qui portas en toi le Fils du Père éternel !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mächtige hat Großes an mir getan, und sein Name ist heilig."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Selig bist du, Jungfrau Maria, du hast den Sohn des ewigen Vaters getragen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et misericórdia eius in progénies et progénies"
+       ],
+       [
+        "timéntibus eum."
+       ],
+       [
+        "Fecit poténtiam in bráchio suo,"
+       ],
+       [
+        "dispérsit supérbos mente cordis sui."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Seu amor, de geração em geração, chega a todos que o respeitam."
+       ],
+       [
+        "Demonstrou o poder de seu braço, dispersou os orgulhosos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "His mercy is from age to age, on those who fear him. He puts forth his arm in strength and scatters the proud-hearted."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Y su misericordia llega a sus fieles"
+       ],
+       [
+        "de generación en generación."
+       ],
+       [
+        "Él hace proezas con su brazo:"
+       ],
+       [
+        "dispersa a los soberbios de corazón."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sa miséricorde s'étend d'âge en âge"
+       ],
+       [
+        "sur ceux qui le craignent."
+       ],
+       [
+        "Déployant la force de son bras,"
+       ],
+       [
+        "il disperse les superbes."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Er erbarmt sich von Geschlecht zu Geschlecht"
+       ],
+       [
+        "über alle, die ihn fürchten."
+       ],
+       [
+        "Er vollbringt mit seinem Arm machtvolle Taten:"
+       ],
+       [
+        "Er zerstreut, die im Herzen voll Hochmut sind."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Fecit mihi magna, qui potens est, et sanctum nomen eius"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel "
+        },
+        "Beáta Virgo María, quæ portásti ætérni Patris Fílium!"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Poderoso fez por mim maravilhas e Santo é o seu nome."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Almighty has done great things for me and holy is his name."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Poderoso ha hecho obras grandes por mí: su nombre es santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        },
+        "Bienaventurada eres Virgen María, que llevaste en tu seno al Hijo del Padre eterno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Puissant fit pour moi des merveilles ; Saint est son nom !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou "
+        },
+        "Heureuse Vierge Marie, qui portas en toi le Fils du Père éternel !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mächtige hat Großes an mir getan, und sein Name ist heilig."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Selig bist du, Jungfrau Maria, du hast den Sohn des ewigen Vaters getragen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Depósuit poténtes de sede"
+       ],
+       [
+        "et exaltávit húmiles;"
+       ],
+       [
+        "esuriéntes implévit bonis"
+       ],
+       [
+        "et dívites dimísit inánes."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Derrubou os poderosos de seus tronos e os humildes exaltou."
+       ],
+       [
+        "De bens saciou os famintos e despediu, sem nada, os ricos."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He casts the mighty from their thrones and raises the lowly. He fills the starving with good things, sends the rich away empty."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Derriba del trono a los poderosos"
+       ],
+       [
+        "y enaltece a los humildes,"
+       ],
+       [
+        "a los hambrientos los colma de bienes"
+       ],
+       [
+        "y a los ricos los despide vacíos."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il renverse les puissants de leurs trônes,"
+       ],
+       [
+        "il élève les humbles."
+       ],
+       [
+        "Il comble de biens les affamés,"
+       ],
+       [
+        "renvoie les riches les mains vides."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Die Hungernden beschenkt er mit seinen Gaben"
+       ],
+       [
+        "und lässt die Reichen leer ausgehen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Fecit mihi magna, qui potens est, et sanctum nomen eius"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel "
+        },
+        "Beáta Virgo María, quæ portásti ætérni Patris Fílium!"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Poderoso fez por mim maravilhas e Santo é o seu nome."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Almighty has done great things for me and holy is his name."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Poderoso ha hecho obras grandes por mí: su nombre es santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        },
+        "Bienaventurada eres Virgen María, que llevaste en tu seno al Hijo del Padre eterno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Puissant fit pour moi des merveilles ; Saint est son nom !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou "
+        },
+        "Heureuse Vierge Marie, qui portas en toi le Fils du Père éternel !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mächtige hat Großes an mir getan, und sein Name ist heilig."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Selig bist du, Jungfrau Maria, du hast den Sohn des ewigen Vaters getragen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Suscépit Israel púerum suum,"
+       ],
+       [
+        "recordátus misericórdiæ,"
+       ],
+       [
+        "sicut locútus est ad patres nostros,"
+       ],
+       [
+        "Abraham et sémini eius in sǽcula."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acolheu Israel, seu servidor, fiel ao seu amor,"
+       ],
+       [
+        "como havia prometido aos nossos pais,"
+       ],
+       [
+        "em favor de Abraão e de seus filhos, para sempre."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He protects Israel, his servant, remembering his mercy, the mercy promised to our fathers, to Abraham and his sons for ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Auxilia a Israel, su siervo, acordándose de la misericordia"
+       ],
+       [
+        "—como lo había prometido a nuestros padres— en favor de Abrahán y su descendencia por siempre."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Il relève Israël son serviteur,"
+       ],
+       [
+        "il se souvient de son amour,"
+       ],
+       [
+        "de la promesse faite à nos pères,"
+       ],
+       [
+        "en faveur d'Abraham et sa descendance à jamais."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Er nimmt sich seines Knechtes Israel an"
+       ],
+       [
+        "und denkt an sein Erbarmen,"
+       ],
+       [
+        "das er unsern Vätern verheißen hat,"
+       ],
+       [
+        "Abraham und seinen Nachkommen auf ewig."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Fecit mihi magna, qui potens est, et sanctum nomen eius"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel "
+        },
+        "Beáta Virgo María, quæ portásti ætérni Patris Fílium!"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "O Poderoso fez por mim maravilhas e Santo é o seu nome."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "The Almighty has done great things for me and holy is his name."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "El Poderoso ha hecho obras grandes por mí: su nombre es santo."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien:"
+        },
+        "Bienaventurada eres Virgen María, que llevaste en tu seno al Hijo del Padre eterno."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Le Puissant fit pour moi des merveilles ; Saint est son nom !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "ou "
+        },
+        "Heureuse Vierge Marie, qui portas en toi le Fils du Père éternel !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Der Mächtige hat Großes an mir getan, und sein Name ist heilig."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Selig bist du, Jungfrau Maria, du hast den Sohn des ewigen Vaters getragen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Lc 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beáti qui áudiunt verbum Dei,"
+       ],
+       [
+        "et custódiunt."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Lc 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Feliz quem ouve e observa a palavra de Deus!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        " Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Lk 11:28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Happy are they who hear the word of God and keep it."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Lc 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Bienaventurados los que escuchan la palabra de Dios y la cumplen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "Lc 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia, alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Beati coloro che ascoltano la parola di Dio e la osservano."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Lc 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Heureux plutôt ceux qui écoutent la parole de Dieu, et qui la gardent !"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Lk 11, 28",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Selig, die das Wort Gottes hören und es befolgen."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "from": "common.blessed-virgin-mary.acclamation.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Extendens manum suam in discípulos suos dixit:"
+       ],
+       [
+        "«Ecce mater mea et fratres mei»."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Matthǽum"
+       ]
+      ],
+      "cite": "12, 46-50",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "E, estendendo a mão para os discípulos, Jesus disse: «Eis minha mãe e meus irmãos»"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+       ]
+      ],
+      "cite": "12, 46-50",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to Matthew"
+       ]
+      ],
+      "cite": "12:46-50",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Extendiendo su mono hacia los discípulos, dijo: «Estos son mi madre y mis hermanos»"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Mateo"
+       ]
+      ],
+      "cite": "12, 46-50",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tendendo la mano verso i suoi discepoli, disse: «Ecco mia madre e i miei fratelli!»."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Matteo"
+       ]
+      ],
+      "cite": "12, 46-50",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Matthieu"
+       ]
+      ],
+      "cite": "12, 46-50",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Matthäus"
+       ]
+      ],
+      "cite": "12, 46-50",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "gospel",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Loquénte Iesu ad turbas, ecce mater et fratres eius stabant foris quæréntes loqui ei. Dixit autem ei quidam: «Ecce mater tua et fratres tui foris stant quæréntes loqui tecum»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "At ille respóndens dicénti sibi ait: «Quæ est mater mea, et qui sunt fratres mei?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Et exténdens manum suam in discípulos suos dixit: «Ecce mater mea et fratres mei. Quicúmque enim fécerit voluntátem Patris mei, qui in cælis est, ipse meus frater et soror et mater est»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo: Enquanto Jesus estava falando às multidões, sua mãe e seus irmãos ficaram do lado de fora, procurando falar com ele. Alguém disse a Jesus: \"Olha! Tua mãe e teus irmãos estão aí fora, e querem falar contigo\". Jesus perguntou àquele que tinha falado: \"Quem é minha mãe, e quem são meus irmãos?\" E, estendendo a mão para os discípulos, Jesus disse: \"Eis minha mãe e meus irmãos. Pois todo aquele que faz a vontade do meu Pai, que está nos céus, esse é meu irmão, minha irmã e minha mãe\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus was speaking to the crowds when his mother and his brothers appeared; they were standing outside and were anxious to have a word with him. But to the man who told him this Jesus replied, 'Who is my mother? Who are my brothers?' And stretching out his hand towards his disciples he said, 'Here are my mother and my brothers. Anyone who does the will of my Father in heaven, he is my brother and sister and mother.'"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, estaba Jesús hablando a la gente, cuando su madre y sus hermanos se presentaron fuera, tratando de hablar con él."
+       ],
+       [
+        "Uno se lo avisó:"
+       ],
+       [
+        "«Tu madre y tus hermanos están fuera y quieren hablar contigo»."
+       ],
+       [
+        "Pero él contestó al que le avisaba:"
+       ],
+       [
+        "«¿Quién es mi madre y quiénes son mis hermanos?»."
+       ],
+       [
+        "Y, extendiendo su mano hacia sus discípulos, dijo:"
+       ],
+       [
+        "«Estos son mi madre y mis hermanos. El que haga la voluntad de mi Padre que está en los cielos, ese es mi hermano y mi hermana y mi madre»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, mentre Gesù parlava ancora alla folla, ecco, sua madre e i suoi fratelli stavano fuori e cercavano di parlargli."
+       ],
+       [
+        "Qualcuno gli disse: «Ecco, tua madre e i tuoi fratelli stanno fuori e cercano di parlarti»."
+       ],
+       [
+        "Ed egli, rispondendo a chi gli parlava, disse: «Chi è mia madre e chi sono i miei fratelli?». Poi, tendendo la mano verso i suoi discepoli, disse: «Ecco mia madre e i miei fratelli! Perché chiunque fa la volontà del Padre mio che è nei cieli, egli è per me fratello, sorella e madre»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, comme Jésus parlait encore aux foules, voici que sa mère et ses frères se tenaient au-dehors, cherchant à lui parler. Quelqu'un lui dit : \" Ta mère et tes frères sont là, dehors, qui cherchent à te parler. \" Jésus lui répondit : \" Qui est ma mère, et qui sont mes frères ? \" Puis, étendant la main vers ses disciples, il dit : \" Voici ma mère et mes frères. Car celui qui fait la volonté de mon Père qui est aux cieux, celui-là est pour moi un frère, une sœur, une mère. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit,"
+       ],
+       [
+        "als Jesus mit den Leuten redete, standen seine Mutter und seine Brüder vor dem Haus und wollten mit ihm sprechen. Da sagte jemand zu ihm: Deine Mutter und deine Brüder stehen draußen und wollen mit dir sprechen."
+       ],
+       [
+        "Dem, der ihm das gesagt hatte, erwiderte er: Wer ist meine Mutter, und wer sind meine Brüder?"
+       ],
+       [
+        "Und er streckte die Hand über seine Jünger aus und sagte: Das hier sind meine Mutter und meine Brüder. Denn wer den Willen meines himmlischen Vaters erfüllt, der ist für mich Bruder und Schwester und Mutter."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel"
+  }
+ ],
+ "title": {
+  "la": "Beatæ Maríæ Virginis de Monte Carmelo",
+  "pt-BR": "Bem-Aventurada Virgem Maria do Monte Carmelo",
+  "en-US": "Our Lady of Mount Carmel",
+  "es": "Nuestra Señora del Carmen",
+  "it": "B. V. Maria Del Monte Carmelo",
+  "fr": "Bienheureuse Vierge Marie du Mont Carmel",
+  "de": "Gedenktag Unserer Lieben Frau auf dem Berge Karmel"
+ }
+}

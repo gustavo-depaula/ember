@@ -192,6 +192,22 @@ function creditBreakEdges(items: ParagraphItems['items'], runs: readonly JustifR
   }
 }
 
+/**
+ * Room for the ink a line's first and last letters set outside their boxes.
+ * justif's protrusion credits are room a box gives back at a line's edge; a
+ * negative credit is room it takes.
+ */
+function reserveEdgeInk(items: ParagraphItems['items'], runs: readonly JustifRun[]) {
+  for (const item of items) {
+    if (item.type !== ItemType.Box || !item.text) continue
+    const run = runs[item.run]
+    const ink = run.metrics.overhang(item.text, run.sizePx)
+    item.lp -= ink.start
+    item.lpFirst -= ink.start
+    item.rp -= ink.end
+  }
+}
+
 export type JustifyOptions = {
   /** Plain text, or styled segments when the line carries inline emphasis. */
   source: string | StyledSegment[]
@@ -199,6 +215,19 @@ export type JustifyOptions = {
   fontSizePx: number
   fontFamilyId: ReadingFontId
   language?: string
+  /**
+   * The size the platform draws a nominal size at, where the two differ
+   * (Android sets type in whole device pixels). Every advance is priced at
+   * the drawn size; the lines still name the nominal one, which is what the
+   * platform is asked for.
+   */
+  drawnSizePx?: (nominalPx: number) => number
+  /**
+   * Set where the platform measures a line by its ink and not its advances
+   * (Android 15): the line's first and last letters are given the room their
+   * overhang takes, so a line ending in `f` does not run past the measure.
+   */
+  inkAtEdges?: boolean
 }
 
 /**
@@ -216,6 +245,8 @@ export function justifyText({
   fontSizePx,
   fontFamilyId,
   language,
+  drawnSizePx = (nominalPx) => nominalPx,
+  inkAtEdges = false,
 }: JustifyOptions): JustifiedLine[] | undefined {
   const segments: StyledSegment[] = (
     typeof source === 'string' ? [{ text: source, style: 'regular' as const }] : source
@@ -255,7 +286,7 @@ export function justifyText({
     const metrics = getFontMetrics(fontFamilyId, segment.style)
     if (!metrics) return undefined
 
-    const sizePx = segment.fontSizePx ?? fontSizePx
+    const sizePx = drawnSizePx(segment.fontSizePx ?? fontSizePx)
     const letterSpacingPx = segment.letterSpacing ?? 0
     if (!(sizePx > 0)) return undefined
     const spaceWidth = metrics.width(' ', sizePx) + letterSpacingPx
@@ -334,6 +365,7 @@ export function justifyText({
     }))
     const para = buildItems(texts, runs, buildOptions, measure)
     creditBreakEdges(para.items, runs)
+    if (inkAtEdges) reserveEdgeInk(para.items, runs)
     const breaks = breakParagraph(para, widthPx, { ...defaultBreakOptions })
     const lines = layoutLines(para, breaks, widthPx, buildOptions)
     if (!lines?.length) return undefined

@@ -2,13 +2,16 @@
   "id": "venantius-poem-on-easter",
   "cover": "quarter",
   "name": {
-    "en-US": "Poem on Easter"
+    "en-US": "Poem on Easter",
+    "pt-BR": "Poema sobre a Páscoa"
   },
   "author": {
-    "en-US": "Venantius"
+    "en-US": "Venantius",
+    "pt-BR": "Venâncio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Poem on Easter"
+        "en-US": "Poem on Easter",
+        "pt-BR": "Poema sobre a Páscoa"
       }
     }
   ]

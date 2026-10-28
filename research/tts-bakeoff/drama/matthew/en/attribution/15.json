@@ -1,0 +1,364 @@
+{
+ "pericopes": [
+  1,
+  21,
+  29,
+  32
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Matthew; orderly, measured storytelling, including his own Scripture citations."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth; calm authority, teaching in parables, commanding and healing."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus' followers speaking together; questioning, practical and anxious, slow to understand, awed in the boat."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Spokesman of the twelve; impulsive, frightened on the water, firm in his confession, then presuming to rebuke."
+  },
+  "pharisees-and-scribes": {
+   "name": "The scribes and Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Religious authorities from Jerusalem; fault-finding and accusing."
+  },
+  "syrophoenician-woman": {
+   "name": "The woman of Canaan",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "A Gentile mother begging for her possessed daughter; crying out, humble and quick-witted."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Then came to him from Jerusalem scribes and Pharisees, saying:"
+   }
+  ],
+  "2": [
+   {
+    "s": "pharisees-and-scribes",
+    "t": "Why do thy disciples transgress the tradition of the ancients? For they wash not their hands when they eat bread."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "But he answering, said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Why do you also transgress the commandment of God for your tradition? For God said:"
+   }
+  ],
+  "4": [
+   {
+    "s": "jesus",
+    "t": "Honour thy father and mother: And: He that shall curse father or mother, let him die the death."
+   }
+  ],
+  "5": [
+   {
+    "s": "jesus",
+    "t": "But you say: Whosoever shall say to father or mother, The gift whatsoever proceedeth from me, shall profit thee."
+   }
+  ],
+  "6": [
+   {
+    "s": "jesus",
+    "t": "And he shall not honour his father or his mother: and you have made void the commandment of God for your tradition."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "Hypocrites, well hath Isaias prophesied of you, saying:"
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "This people honoureth me with their lips: but their heart is far from me."
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "And in vain do they worship me, teaching doctrines and commandments of men."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And having called together the multitudes unto him, he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Hear ye and understand."
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "Not that which goeth into the mouth defileth a man: but what cometh out of the mouth, this defileth a man."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Then came his disciples, and said to him:"
+   },
+   {
+    "s": "disciples",
+    "t": "Dost thou know that the Pharisees, when they heard this word, were scandalized?"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "But he answering, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Every plant which my heavenly Father hath not planted, shall be rooted up."
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "Let them alone: they are blind, and leaders of the blind. And if the blind lead the blind, both fall into the pit."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And Peter answering, said to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Expound to us this parable."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "But he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Are you also yet without understanding?"
+   }
+  ],
+  "17": [
+   {
+    "s": "jesus",
+    "t": "Do you not understand, that whatsoever entereth into the mouth, goeth into the belly, and is cast out into the privy?"
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "But the things which proceed out of the mouth, come forth from the heart, and those things defile a man."
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "For from the heart come forth evil thoughts, murders, adulteries, fornications, thefts, false testimonies, blasphemies."
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "These are the things that defile a man. But to eat with unwashed hands doth not defile a man."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And Jesus went from thence, and retired into the coast of Tyre and Sidon."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And behold a woman of Canaan who came out of those coasts, crying out, said to him:"
+   },
+   {
+    "s": "syrophoenician-woman",
+    "t": "Have mercy on me, O Lord, thou son of David: my daughter is grievously troubled by a devil."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Who answered her not a word. And his disciples came and besought him, saying:"
+   },
+   {
+    "s": "disciples",
+    "t": "Send her away, for she crieth after us:"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And he answering, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "I was not sent but to the sheep, that are lost of the house of Israel."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "But she came and adored him, saying:"
+   },
+   {
+    "s": "syrophoenician-woman",
+    "t": "Lord, help me."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Who answering, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "It is not good to take the bread of the children, and to cast it to the dogs."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "But she said:"
+   },
+   {
+    "s": "syrophoenician-woman",
+    "t": "Yea, Lord; for the whelps also eat of the crumbs that fall from the table of their masters."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Then Jesus answering, said to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "O woman, great is thy faith: be it done to thee as thou wilt:"
+   },
+   {
+    "s": "narrator",
+    "t": "and her daughter was cured from that hour."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And when Jesus had passed away from thence, he came nigh the sea of Galilee: and going up into a mountain, he sat there."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And there came to him great multitudes, having with them the dumb, the blind, the lame, the maimed, and many others: and they cast them down at his feet, and he healed them:"
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "So that the multitudes marvelled seeing the dumb speak, the lame walk, the blind see: and they glorified the God of Israel."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And Jesus called together his disciples, and said:"
+   },
+   {
+    "s": "jesus",
+    "t": "I have compassion on the multitudes, because they continue with me now three days, and have not what to eat, and I will not send them away fasting, lest they faint in the way."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And the disciples say unto him:"
+   },
+   {
+    "s": "disciples",
+    "t": "Whence then should we have so many loaves in the desert, as to fill so great a multitude?"
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And Jesus said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "How many loaves have you?"
+   },
+   {
+    "s": "narrator",
+    "t": "But they said:"
+   },
+   {
+    "s": "disciples",
+    "t": "Seven, and a few little fishes."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And he commanded the multitude to sit down upon the ground."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And taking the seven loaves and the fishes, and giving thanks, he brake, and gave to his disciples, and the disciples gave to the people."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And they did all eat, and had their fill. And they took up seven baskets full, of what remained of the fragments."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And they that did eat, were four thousand men, beside children and women."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And having dismissed the multitude, he went up into a boat, and came into the coasts of Magedan."
+   }
+  ]
+ }
+}

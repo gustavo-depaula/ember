@@ -2,13 +2,16 @@
   "id": "john-chrysostom-three-homilies-on-the-power-of-satan",
   "cover": "quarter",
   "name": {
-    "en-US": "Three Homilies on the Power of Satan"
+    "en-US": "Three Homilies on the Power of Satan",
+    "pt-BR": "Três homilias sobre o poder de Satanás"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Three Homilies on the Power of Satan"
+        "en-US": "Three Homilies on the Power of Satan",
+        "pt-BR": "Três homilias sobre o poder de Satanás"
       }
     }
   ]

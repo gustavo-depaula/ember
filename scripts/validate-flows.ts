@@ -129,6 +129,7 @@ const KNOWN_SECTION_TYPES = new Set([
   'divider',
   'heading',
   'image',
+  'chant',
   'prayer',
   'hymn',
   'canticle',
@@ -150,7 +151,6 @@ const KNOWN_SECTION_TYPES = new Set([
   'fragment',
   'call',
   'include',
-  'choice-rich-text',
   'liturgical-color',
   'liturgical-color-scope',
   'celebration-banner',
@@ -198,6 +198,16 @@ function visit(node: unknown, path: string, ctx: WalkCtx): void {
         message: `include missing string \`ref\` field`,
       })
     }
+    if (obj.type === 'chant' && typeof obj.ref === 'string') {
+      const chant = join(REPO_ROOT, 'content', 'chants', `${obj.ref.replace(/^chant\//, '')}.gabc`)
+      if (!obj.ref.startsWith('chant/') || !existsSync(chant)) {
+        issues.push({
+          file: ctx.file,
+          path,
+          message: `chant.ref="${obj.ref}" — no score with that id exists in content/chants/`,
+        })
+      }
+    }
     if (obj.type === 'prayer' && typeof obj.ref === 'string' && !obj.ref.includes('{{')) {
       const ref = obj.ref
       const status = resolvePrayerRef(ref, ctx.practiceIds)
@@ -217,22 +227,6 @@ function visit(node: unknown, path: string, ctx: WalkCtx): void {
     }
     if (obj.type === 'prose' && typeof obj.book === 'string') {
       for (const issue of validateProseChapter(obj, ctx.file, path)) issues.push(issue)
-    }
-    if (obj.type === 'choice-rich-text') {
-      if (typeof obj.slot !== 'string') {
-        issues.push({
-          file: ctx.file,
-          path,
-          message: `choice-rich-text missing string \`slot\` field`,
-        })
-      }
-      if (!obj.label || typeof obj.label !== 'object') {
-        issues.push({
-          file: ctx.file,
-          path,
-          message: `choice-rich-text missing \`label\` localized text`,
-        })
-      }
     }
     if (obj.type === 'gallery') {
       validateGallery(obj, ctx.file, path)
@@ -407,6 +401,34 @@ function validateManifest(file: string): void {
         })
       }
     }
+  }
+  // An hour misnamed here is no error at runtime: the practice just falls back
+  // to the span of its hours, and the wrong minutes go unnoticed.
+  if (m.hourMinutes && typeof m.hourMinutes === 'object' && typeof m.flow === 'string') {
+    const flowPath = join(file, '..', m.flow)
+    const hours = existsSync(flowPath) ? hourOptionIds(flowPath) : undefined
+    for (const hour of Object.keys(m.hourMinutes)) {
+      if (hours && !hours.has(hour)) {
+        issues.push({
+          file,
+          path: `$.hourMinutes.${hour}`,
+          message: `hourMinutes names "${hour}", not an option of the flow's hour select`,
+        })
+      }
+    }
+  }
+}
+
+function hourOptionIds(flowPath: string): Set<string> | undefined {
+  try {
+    const flow = JSON.parse(readFileSync(flowPath, 'utf-8')) as {
+      sections?: { type?: string; on?: unknown; pin?: boolean; options?: { id: string }[] }[]
+    }
+    const select = flow.sections?.find((s) => s.type === 'select' && s.pin && s.on === 'hour')
+    return new Set(select?.options?.map((o) => o.id) ?? [])
+  } catch {
+    // A malformed flow is reported where flows are validated.
+    return undefined
   }
 }
 

@@ -16,11 +16,10 @@ in time; if such degree is great, in a
 great degree of love and glory we shall be established forever,
 but if we have reached a small degree, we shall not have
 more for all eternity. Once the flow of time is over,
-no progress is possible anymore. "Therefore, while we have opportunity, let us do good to all" (Gal. 6, 10).
-"It is a matter of giving each instant the maximum love,
-of making the fleeing instant eternal by giving it the value of eternity" (Sr. Carmela d. Sp. S., O.C.D.): this is the best way to use the time God grants us.
+no progress is possible anymore. “Therefore, while we have opportunity, let us do good to all” (Gal. 6, 10).
+“It is a matter of giving each instant the maximum love,
+of making the fleeing instant eternal by giving it the value of eternity” (Sr. Carmela d. Sp. S., O.C.D.): this is the best way to use the time God grants us.
 Charity allows us to adhere with docility and love to
-
 the will of God, and thus at the end of life we shall have realized
 the divine plan for our soul, we shall have reached that
 degree of love that God expects from each of us and with
@@ -44,11 +43,11 @@ and this in fact joins at once the capital of charity it possesses,
 immediately increasing its degree and intensity.
 
 To grow in love we have only the short day
-of this earthly life, and if we want to draw from it the greatest possible fruit, we must apply ourselves to doing our good works "with all the heart," overcoming inertia and natural tepidity.
+of this earthly life, and if we want to draw from it the greatest possible fruit, we must apply ourselves to doing our good works “with all the heart,” overcoming inertia and natural tepidity.
 Then love will grow beyond measure and
 the soul will be able, with St. Teresa of the Child Jesus, to say to the Lord:
-"Your love has grown with me and now has become an
-abyss whose depths I cannot sound" (St. 10). We ought to hurry while we still have time, because then "night comes, when no one can work"
+“Your love has grown with me and now has become an
+abyss whose depths I cannot sound” (St. 10). We ought to hurry while we still have time, because then “night comes, when no one can work”
 (Jn. 9, 4).
 
 ### Colloquy
@@ -59,7 +58,7 @@ help but lament over myself and repeat to You:
 how little I have loved You, my God! How badly I have used
 my time!
 
-"How slowly my desires are kindled, while
+“How slowly my desires are kindled, while
 You so early began to draw me and call me,
 so that I might occupy myself wholly with You! But have
 You perhaps cast out the miserable? Have
@@ -69,21 +68,21 @@ this is the moment to show whether my soul deceives itself when, thinking of los
 instant You can make me recover it.
 I seem to rave, because, according to what they say, lost time cannot be recovered.
 
-"Blessed be my God! I recognize, Lord,
+“Blessed be my God! I recognize, Lord,
 Your sovereign power. You are powerful: yes, You truly are. And then,
 what is impossible to Him who can do all?
 
-"You know well, my God, that, despite my great miseries, I have never ceased to acknowledge Your sovereign
+“You know well, my God, that, despite my great miseries, I have never ceased to acknowledge Your sovereign
 power and mercy.
 At least in this I have not offended You;
 and You, Lord, take account of it. Recover for me, O my God,
 the time I have lost, pouring into me Your grace for the
 present and for the future, so that I may appear before You
-with the wedding garment. If You will, You can" (T.G. Es. 4).
+with the wedding garment. If You will, You can” (T.G. Es. 4).
 
 For my part, O Lord, I see no better way
 to recover lost time than to apply myself with all
-my strength to the exercise of love. Yes, my love will increase if I know how to do for You "with all my heart," that is, "with all good will," every duty of mine, every
+my strength to the exercise of love. Yes, my love will increase if I know how to do for You “with all my heart,” that is, “with all good will,” every duty of mine, every
 good work. But I am so weak and feeble, so indolent, inclined to flee effort, to avoid or at least diminish sacrifice; my nature always tends to what is easier,
 less tiring and falls so easily into
 negligence,

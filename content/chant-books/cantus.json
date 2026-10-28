@@ -1,0 +1,119 @@
+{
+  "id": "chant-book/cantus",
+  "name": {
+    "en-US": "Hymns and antiphons",
+    "pt-BR": "Hinos e antífonas"
+  },
+  "description": {
+    "en-US": "The chant of prayers the Church has always sung: the antiphons of Our Lady, the hymns of the Office and of the Blessed Sacrament, the sequences.",
+    "pt-BR": "O canto de orações que a Igreja sempre cantou: as antífonas de Nossa Senhora, os hinos do Ofício e do Santíssimo Sacramento, as sequências."
+  },
+  "source": "GregoBase (CC0)",
+  "list": "chants",
+  "sections": [
+    {
+      "id": "antiphons",
+      "title": {
+        "en-US": "Antiphons",
+        "pt-BR": "Antífonas"
+      },
+      "chants": [
+        "chant/alma-redemptoris",
+        "chant/ave-regina-caelorum",
+        "chant/loquere-domine",
+        "chant/regina-caeli",
+        "chant/salve-regina",
+        "chant/sub-tuum-praesidium",
+        "chant/ubi-caritas"
+      ]
+    },
+    {
+      "id": "hymns",
+      "title": {
+        "en-US": "Hymns",
+        "pt-BR": "Hinos"
+      },
+      "chants": [
+        "chant/a-solis-ortus-cardine",
+        "chant/ad-regias-agni-dapes",
+        "chant/adoro-te-devote",
+        "chant/aeterne-rex-altissime",
+        "chant/aeterne-rerum-conditor",
+        "chant/audi-benigne-conditor",
+        "chant/aurora-caelum",
+        "chant/ave-maris-stella",
+        "chant/beata-nobis-gaudia",
+        "chant/caelestis-urbs-jerusalem",
+        "chant/creator-alme-siderum",
+        "chant/crudelis-herodes-deum",
+        "chant/custodes-hominum",
+        "chant/decora-lux-aeternitatis",
+        "chant/deus-tuorum-militum",
+        "chant/en-clara-vox",
+        "chant/exsultet-orbis-gaudiis",
+        "chant/iste-confessorum-domini",
+        "chant/jam-lucis-orto-sidere",
+        "chant/jam-sol-recedit-igneus",
+        "chant/jesu-redemptor-omnium",
+        "chant/jesu-corona-virginum",
+        "chant/jesu-dulcis-memoria",
+        "chant/lucis-creator-optime",
+        "chant/nunc-sancte-nobis",
+        "chant/o-gloriosa-virginum",
+        "chant/o-salutaris-hostia",
+        "chant/o-sol-salutis-intimis",
+        "chant/pange-lingua-corporis",
+        "chant/panis-angelicus",
+        "chant/placare-christe-servulis",
+        "chant/quem-terra-pontus-sidera",
+        "chant/quicumque-christum",
+        "chant/rector-potens",
+        "chant/rerum-deus",
+        "chant/sacris-solemniis",
+        "chant/salutis-humanae-sator",
+        "chant/salvete-flores-martyrum",
+        "chant/sanctorum-meritis",
+        "chant/splendor-paternae-gloriae",
+        "chant/stabat-mater",
+        "chant/te-deum",
+        "chant/te-ioseph",
+        "chant/te-lucis-ante-terminum",
+        "chant/te-splendor-et-virtus",
+        "chant/ut-queant-laxis",
+        "chant/verbum-supernum-prodiens-nec"
+      ]
+    },
+    {
+      "id": "sequences",
+      "title": {
+        "en-US": "Sequences",
+        "pt-BR": "Sequências"
+      },
+      "chants": [
+        "chant/dies-irae",
+        "chant/lauda-sion",
+        "chant/veni-sancte-spiritus-et-emitte",
+        "chant/victimae-paschali"
+      ]
+    },
+    {
+      "id": "other",
+      "title": {
+        "en-US": "Other chants",
+        "pt-BR": "Outros cantos"
+      },
+      "chants": [
+        "chant/anima-christi",
+        "chant/ave-maria",
+        "chant/ave-verum",
+        "chant/benedictus",
+        "chant/benedictus-deus",
+        "chant/credo-in-deum",
+        "chant/lux-aeterna",
+        "chant/magnificat",
+        "chant/memorare",
+        "chant/sancte-michael-archangele"
+      ]
+    }
+  ]
+}

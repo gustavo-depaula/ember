@@ -1,0 +1,296 @@
+---
+import { getCatalog } from '@/content/contentIndex'
+import { sourceUrl } from '~/lib/developers/flowReference'
+import { chooser, inline } from '~/lib/developers/text'
+import type { Locale } from '~/lib/locale'
+import { href } from '~/routes'
+import Code from './Code.astro'
+import DevShell from './DevShell.astro'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const l = chooser(locale)
+const site = Astro.site ?? new URL('https://ember.dpgu.me')
+const base = new URL('/hearth/v2', site).href
+const catalog = getCatalog()
+const counts = Object.values(catalog.items).reduce<Record<string, number>>((out, entry) => {
+  out[entry.kind] = (out[entry.kind] ?? 0) + 1
+  return out
+}, {})
+const count = (...kinds: string[]) =>
+  kinds.reduce((sum, k) => sum + (counts[k] ?? 0), 0).toLocaleString(locale)
+
+// Kinds a reader of the corpus meets first, then the liturgical data the engines assemble from.
+const kinds: { kinds: string[]; what: string; example?: string }[] = [
+  {
+    kinds: ['practice'],
+    what: l(
+      'A prayer or devotion: its names, descriptions and length, and its flow, inline as `flow` or by `flowHash`.',
+      'Uma oração ou devoção: seus nomes, descrições e duração, e seu fluxo, embutido em `flow` ou por `flowHash`.',
+    ),
+    example: 'practice/rosary',
+  },
+  {
+    kinds: ['book'],
+    what: l(
+      'A book: its `toc`, and each chapter’s Markdown under `chapters[node][language]`.',
+      'Um livro: seu `toc`, e o Markdown de cada capítulo em `chapters[node][language]`.',
+    ),
+    example: 'book/kempis-imitation-of-christ',
+  },
+  {
+    kinds: ['chapter'],
+    what: l('A short reading, written as a flow (`contentHash`).', 'Uma leitura curta, escrita como fluxo (`contentHash`).'),
+    example: 'chapter/about-montfort',
+  },
+  {
+    kinds: ['collection'],
+    what: l(
+      'A curated index: sections of refs to other items, with notes on each.',
+      'Um índice organizado: seções de refs para outros itens, com notas sobre cada um.',
+    ),
+    example: 'collection/alphonsus-liguori',
+  },
+  {
+    kinds: ['plan-of-life-template'],
+    what: l('A rule of life: the practices it keeps, with their schedules.', 'Um plano de vida: as práticas que ele guarda, com sua frequência.'),
+    example: 'plan-of-life-template/beginner-minimum',
+  },
+  {
+    kinds: ['creator'],
+    what: l(
+      'A Catholic voice: a biography and podcast, YouTube or RSS channels.',
+      'Uma voz católica: uma biografia e canais de podcast, YouTube ou RSS.',
+    ),
+    example: 'creator/ariel-lazari',
+  },
+  {
+    kinds: ['chant'],
+    what: l(
+      'A Gregorian chant. Its blob is the score itself, in GABC, from GregoBase (CC0).',
+      'Um canto gregoriano. Seu blob é a própria partitura, em GABC, do GregoBase (CC0).',
+    ),
+    example: 'chant/a-solis-ortus-cardine',
+  },
+  {
+    kinds: ['chant-book', 'chant-index', 'chant-bundle'],
+    what: l(
+      'Books of chant for browsing, and the tables that set a sung text to its score.',
+      'Livros de canto para navegar, e as tabelas que ligam um texto cantado à sua partitura.',
+    ),
+  },
+  {
+    kinds: ['mass-calendar', 'mass-formulary', 'mass-lectionary', 'mass-order', 'mass-prefaces', 'mass-eucharistic-prayer', 'mass-extra'],
+    what: l(
+      'The Roman Missal of the ordinary form: its calendar, the propers and readings of each Mass, the Order of Mass, prefaces and Eucharistic Prayers. `@ember/missal` assembles a day’s Mass from them.',
+      'O Missal Romano da forma ordinária: seu calendário, os próprios e as leituras de cada Missa, o Ordinário da Missa, os prefácios e as Orações Eucarísticas. O `@ember/missal` monta com eles a Missa do dia.',
+    ),
+  },
+  {
+    kinds: ['loth-calendar', 'loth-index', 'loth-parts', 'loth-library', 'loth-extras'],
+    what: l(
+      'The Brazilian Liturgy of the Hours, which `@ember/loth` assembles hour by hour.',
+      'A Liturgia das Horas do Brasil, que o `@ember/loth` monta hora por hora.',
+    ),
+  },
+  {
+    kinds: ['do-data'],
+    what: l(
+      'The Divinum Officium data the extraordinary form’s Mass and Office are assembled from.',
+      'Os dados do Divinum Officium com que se montam a Missa e o Ofício da forma extraordinária.',
+    ),
+  },
+  { kinds: ['checkup'], what: l('Data for the app’s spiritual check-up.', 'Dados do check-up espiritual do aplicativo.') },
+]
+const described = new Set(kinds.flatMap((k) => k.kinds))
+const undescribed = Object.keys(counts).filter((k) => !described.has(k))
+if (undescribed.length) throw new Error(`Developer portal: describe the corpus kinds ${undescribed.join(', ')}`)
+
+const catalogExample = JSON.stringify(
+  {
+    version: 2,
+    generated: catalog.generated,
+    items: { 'practice/rosary': catalog.items['practice/rosary'] },
+  },
+  null,
+  2,
+)
+
+const readBook = `const base = '${base}'
+const blob = (hash) => fetch(\`\${base}/blobs/\${hash.slice(0, 2)}/\${hash.slice(2, 4)}/\${hash}\`)
+
+const { items } = await (await fetch(\`\${base}/catalog.json\`)).json()
+const book = await (await blob(items['book/kempis-imitation-of-christ'].hash)).json()
+
+${l(
+  '// The table of contents names each chapter; chapters[id][language] is its Markdown.',
+  '// O sumário nomeia cada capítulo; chapters[id][idioma] é o seu Markdown.',
+)}
+const first = book.toc.find((node) => book.chapters[node.id])
+const markdown = await (await blob(book.chapters[first.id]['pt-BR'].hash)).text()`
+
+const verify = `${l(
+  "// A blob's name is the SHA-256 of its bytes, so a copy can be checked anywhere.",
+  '// O nome de um blob é o SHA-256 dos seus bytes, então uma cópia pode ser conferida em qualquer lugar.',
+)}
+const bytes = await (await blob(hash)).arrayBuffer()
+const digest = await crypto.subtle.digest('SHA-256', bytes)
+const ok = [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, '0')).join('') === hash`
+
+const sync = `${l('# Keep a mirror current: ask for the catalog with the ETag you hold', '# Para manter um espelho em dia: peça o catálogo com o ETag que você tem')}
+curl -s -D - -o catalog.json -H 'If-None-Match: "${l('<the ETag you saved>', '<o ETag que você guardou>')}"' '${base}/catalog.json'
+${l(
+  "# 304 → nothing changed. 200 → fetch the hashes you don't have yet; the rest are unchanged.",
+  '# 304 → nada mudou. 200 → baixe os hashes que você ainda não tem; o resto não mudou.',
+)}`
+
+const toc = [
+  { id: 'layout', label: l('Layout', 'Estrutura') },
+  { id: 'catalog', label: l('The catalog', 'O catálogo') },
+  { id: 'blobs', label: 'Blobs' },
+  { id: 'kinds', label: l('Kinds', 'Tipos') },
+  { id: 'refs', label: 'Refs' },
+  { id: 'reading', label: l('Reading a book', 'Lendo um livro') },
+  { id: 'mirror', label: l('Keeping a mirror', 'Mantendo um espelho') },
+  { id: 'explorer', label: l('Explorer', 'Explorador') },
+]
+
+const catalogKb = Math.round(JSON.stringify(catalog).length / 1024)
+const facts = [
+  { term: l('Base URL', 'URL base'), text: `\`${base}\``, copy: base },
+  {
+    term: l('Catalog', 'Catálogo'),
+    text: l(`\`/catalog.json\`, every item by id (about ${catalogKb} KB)`, `\`/catalog.json\`, todos os itens pelo id (cerca de ${catalogKb} KB)`),
+  },
+  {
+    term: 'Blobs',
+    text: l(
+      '`/blobs/{ab}/{cd}/{hash}`, where `ab` and `cd` are the hash’s first four characters',
+      '`/blobs/{ab}/{cd}/{hash}`, onde `ab` e `cd` são os quatro primeiros caracteres do hash',
+    ),
+  },
+  {
+    term: l('Hosting', 'Hospedagem'),
+    text: l(
+      `GitHub Pages: any origin, \`ETag\`s, \`max-age=600\`. Rebuilt from [content/](${sourceUrl('content')}) on every change.`,
+      `GitHub Pages: qualquer origem, \`ETag\`s, \`max-age=600\`. Refeito a partir de [content/](${sourceUrl('content')}) a cada mudança.`,
+    ),
+  },
+]
+---
+
+<DevShell
+  locale={locale}
+  alternates={alternates}
+  doc="corpus"
+  title={l('The corpus', 'O acervo')}
+  kicker={l('Developers · Guide', 'Desenvolvedores · Guia')}
+  lede={l(
+    `Everything Ember prays and reads is published as ${Object.keys(catalog.items).length.toLocaleString('en-US')} items of static JSON and text: one catalog, and blobs named by their hash. Any HTTP client can read it, and a copy can be checked byte for byte.`,
+    `Tudo o que o Ember reza e lê está publicado em ${Object.keys(catalog.items).length.toLocaleString('pt-BR')} itens de JSON e texto estáticos: um catálogo, e blobs que têm o hash como nome. Qualquer cliente HTTP consegue lê-lo, e uma cópia pode ser conferida byte a byte.`,
+  )}
+  toc={toc}
+>
+  <section class="dev-section" id="layout">
+    <h2 class="t-section">{l('Layout', 'Estrutura')}</h2>
+    <dl class="dev-facts">
+      {facts.map((fact) => (
+        <>
+          <dt>{fact.term}</dt>
+          <dd>
+            <span set:html={inline(fact.text)} />
+            {fact.copy && <button class="code-copy inline" type="button" data-copy={fact.copy}>{l('Copy', 'Copiar')}</button>}
+          </dd>
+        </>
+      ))}
+    </dl>
+  </section>
+
+  <section class="dev-section" id="catalog">
+    <h2 class="t-section">{l('The catalog', 'O catálogo')}</h2>
+    <p set:html={inline(l(
+      'One file maps each item’s id to its `kind` and the `hash` and `size` of its blob. It also carries what a list needs without opening the item: names, authors, tags, length, languages.',
+      'Um único arquivo liga o id de cada item ao seu `kind` e ao `hash` e ao `size` do seu blob. Ele traz também o que uma lista precisa sem abrir o item: nomes, autores, tags, duração, idiomas.',
+    ))} />
+    <Code locale={locale} code={catalogExample} json label={l('catalog.json, one item of it', 'catalog.json, um dos itens')} />
+  </section>
+
+  <section class="dev-section" id="blobs">
+    <h2 class="t-section">Blobs</h2>
+    <p set:html={inline(l(
+      'An item’s blob is usually a JSON manifest, and a manifest points at more blobs by hash: a practice at its flow, a book at the Markdown of each chapter, any item at its images. Blobs are served as `application/octet-stream`, so parse a JSON one yourself. JSON blobs are written canonically, with sorted keys, no spaces and UTF-8, so the same content always has the same name.',
+      'O blob de um item é quase sempre um manifesto JSON, e um manifesto aponta para outros blobs pelo hash: uma prática para o seu fluxo, um livro para o Markdown de cada capítulo, qualquer item para suas imagens. Os blobs são servidos como `application/octet-stream`, então interprete você mesmo os que são JSON. Os blobs JSON são escritos de forma canônica, com chaves ordenadas, sem espaços e em UTF-8, para que o mesmo conteúdo tenha sempre o mesmo nome.',
+    ))} />
+    <Code locale={locale} code={verify} label="JavaScript" />
+    <p class="t-annotation">
+      {l(
+        'Because a changed text gets a new name, a fix to one prayer publishes one new flow blob, one new manifest and a new catalog. A client fetches those three files and nothing else.',
+        'Como um texto alterado ganha um nome novo, corrigir uma oração publica um novo blob de fluxo, um novo manifesto e um novo catálogo. Um cliente baixa esses três arquivos e nada mais.',
+      )}
+    </p>
+  </section>
+
+  <section class="dev-section" id="kinds">
+    <h2 class="t-section">{l('Kinds', 'Tipos')}</h2>
+    <table class="fields kinds">
+      <tbody>
+        {kinds.map((k) => (
+          <tr>
+            <th scope="row">
+              {k.kinds.map((kind) => <code class="kind">{kind}</code>)}
+              <span class="count">{count(...k.kinds)}</span>
+            </th>
+            <td>
+              <p set:html={inline(k.what)} />
+              {k.example && <button class="xref linkish" type="button" data-explore={k.example}>{l('Open', 'Abrir')} {k.example}</button>}
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    <p class="t-annotation" set:html={inline(l(
+      `Each manifest’s shape is a TypeScript type in [manifestTypes.ts](${sourceUrl('apps/app/src/content/manifestTypes.ts')}).`,
+      `A forma de cada manifesto é um tipo TypeScript em [manifestTypes.ts](${sourceUrl('apps/app/src/content/manifestTypes.ts')}).`,
+    ))} />
+  </section>
+
+  <section class="dev-section" id="refs">
+    <h2 class="t-section">Refs</h2>
+    <p set:html={inline(l(
+      `Items point at one another by id: \`practice/our-father\`, \`book/augustine-confessions\`. A fragment names a place inside an item (\`book/augustine-confessions#book-eight\`). Inside a flow a bare ref such as \`sign-of-cross\` means a practice. Texts in several languages are objects keyed by language, \`{ "en-US": …, "pt-BR": …, "la": … }\`; the [flow DSL](${href.developers(locale, 'flows')}) describes them.`,
+      `Os itens apontam uns para os outros pelo id: \`practice/our-father\`, \`book/augustine-confessions\`. Um fragmento indica um lugar dentro do item (\`book/augustine-confessions#book-eight\`). Dentro de um fluxo, uma ref sem tipo, como \`sign-of-cross\`, é uma prática. Textos em vários idiomas são objetos com o idioma como chave, \`{ "en-US": …, "pt-BR": …, "la": … }\`; a [DSL de fluxos](${href.developers(locale, 'flows')}) os descreve.`,
+    ))} />
+  </section>
+
+  <section class="dev-section" id="reading">
+    <h2 class="t-section">{l('Reading a book', 'Lendo um livro')}</h2>
+    <Code locale={locale} code={readBook} label="JavaScript" />
+  </section>
+
+  <section class="dev-section" id="mirror">
+    <h2 class="t-section">{l('Keeping a mirror', 'Mantendo um espelho')}</h2>
+    <p set:html={inline(l(
+      'Blobs never change, so a mirror only ever adds files. Poll the catalog with the `ETag` you hold, and on a change fetch only the hashes you don’t have yet.',
+      'Os blobs nunca mudam, então um espelho só acrescenta arquivos. Consulte o catálogo com o `ETag` que você tem e, quando mudar, baixe só os hashes que ainda não tem.',
+    ))} />
+    <Code locale={locale} code={sync} label={l('Shell', 'Terminal')} />
+  </section>
+
+  <section class="dev-section" id="explorer">
+    <h2 class="t-section">{l('Explorer', 'Explorador')}</h2>
+    <p>{l('Open any item and follow its hashes and refs, straight from the published corpus.', 'Abra qualquer item e siga seus hashes e refs, direto do acervo publicado.')}</p>
+    <div class="explorer" data-explorer data-base={base}>
+      <form class="try-bar" data-explorer-form>
+        <input name="id" list="corpus-ids" placeholder="practice/rosary" aria-label={l('Item id or blob hash', 'Id do item ou hash do blob')} autocomplete="off" spellcheck="false" />
+        <datalist id="corpus-ids"></datalist>
+        <button class="try-send" type="submit">{l('Open', 'Abrir')}</button>
+      </form>
+      <ol class="trail" data-trail></ol>
+      <div class="try-result" data-result hidden></div>
+    </div>
+  </section>
+</DevShell>

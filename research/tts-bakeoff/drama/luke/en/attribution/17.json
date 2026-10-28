@@ -1,0 +1,310 @@
+{
+ "pericopes": [
+  1,
+  5,
+  11,
+  20
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Luke; measured, orderly storytelling, including the words that introduce speech."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth on the way to Jerusalem and in the temple; calm authority, teaching in parables, warning and healing."
+  },
+  "disciples": {
+   "name": "Disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus' apostles and followers speaking together; earnest, asking, or acclaiming him with joy."
+  },
+  "lepers": {
+   "name": "The ten lepers",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Ten lepers standing afar off, crying out together for mercy."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And he said to his disciples:"
+   },
+   {
+    "s": "jesus",
+    "t": "It is impossible that scandals should not come. But woe to him through whom they come!"
+   }
+  ],
+  "2": [
+   {
+    "s": "jesus",
+    "t": "It were better for him that a millstone were hanged about his neck and he cast into the sea, than that he should scandalize one of these little ones."
+   }
+  ],
+  "3": [
+   {
+    "s": "jesus",
+    "t": "Take heed to yourselves. If thy brother sin against thee, reprove him: and if he do penance, forgive him."
+   }
+  ],
+  "4": [
+   {
+    "s": "jesus",
+    "t": "And if he sin against thee seven times in a day, and seven times in a day be converted unto thee, saying: I repent: forgive him."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And the apostles said to the Lord:"
+   },
+   {
+    "s": "disciples",
+    "t": "Increase our faith."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said:"
+   },
+   {
+    "s": "jesus",
+    "t": "If you had faith like to a grain of mustard seed, you might say to this mulberry tree: Be thou rooted up and be thou transplanted into the sea. And it would obey you."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "But which of you, having a servant ploughing or feeding cattle, will say to him, when he is come from the field: Immediately go. Sit down to meat."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "And will not rather say to him: Make ready my supper and gird thyself and serve me, whilst I eat and drink; and afterwards thou shalt eat and drink?"
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "Doth he thank that servant for doing the things which he commanded him?"
+   }
+  ],
+  "10": [
+   {
+    "s": "jesus",
+    "t": "I think not. So you also, when you shall have done all these things that are commanded you, say: We are unprofitable servants; we have done that which we ought to do."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, as he was going to Jerusalem, he passed through the midst of Samaria and Galilee."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And as he entered into a certain town, there met him ten men that were lepers, who stood afar off."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And lifted up their voice, saying:"
+   },
+   {
+    "s": "lepers",
+    "t": "Jesus, Master, have mercy on us."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Whom when he saw, he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go, shew yourselves to the priests."
+   },
+   {
+    "s": "narrator",
+    "t": "And it came to pass, as they went, they were made clean."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And one of them, when he saw that he was made clean, went back, with a loud voice glorifying God."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And he fell on his face before his feet, giving thanks. And this was a Samaritan."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And Jesus answering, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Were not ten made clean? And where are the nine?"
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "There is no one found to return and give glory to God, but this stranger."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And he said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Arise, go thy way; for thy faith hath made thee whole."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And being asked by the Pharisees when the kingdom of God should come, he answering them and said:"
+   },
+   {
+    "s": "jesus",
+    "t": "The kingdom of God cometh not with observation."
+   }
+  ],
+  "21": [
+   {
+    "s": "jesus",
+    "t": "Neither shall they say: Behold here, or behold there. For lo, the kingdom of God is within you."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And he said to his disciples:"
+   },
+   {
+    "s": "jesus",
+    "t": "The days will come when you shall desire to see one day of the Son of man. And you shall not see it."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "And they will say to you: See here, and see there. Go ye not after, nor follow them."
+   }
+  ],
+  "24": [
+   {
+    "s": "jesus",
+    "t": "For as the lightning that lighteneth from under heaven shineth unto the parts that are under heaven, so shall the Son of man be in his day."
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "But first he must suffer many things and be rejected by this generation."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "And as it came to pass in the days of Noe, so shall it be also in the days of the Son of man."
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "They did eat and drink, they married wives and were given in marriage, until the day that Noe entered into the ark and the flood came and destroyed them all."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "Likewise as it came to pass in the days of Lot. They did eat and drink, they bought and sold, they planted and built."
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "And in the day that Lot went out of Sodom, it rained fire and brimstone from heaven and destroyed them all."
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "Even thus shall it be in the day when the Son of man shall be revealed."
+   }
+  ],
+  "31": [
+   {
+    "s": "jesus",
+    "t": "In that hour, he that shall be on the housetop, and his goods in the house, let him not go down to take them away: and he that shall be in the field, in like manner, let him not return back."
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "Remember Lot's wife."
+   }
+  ],
+  "33": [
+   {
+    "s": "jesus",
+    "t": "Whosoever shall seek to save his life shall lose it: and whosoever shall lose it shall preserve it."
+   }
+  ],
+  "34": [
+   {
+    "s": "jesus",
+    "t": "I say to you: In that night there shall be two men in one bed. The one shall be taken and the other shall be left."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "Two women shall be grinding together. The one shall be taken and the other shall be left. Two men shall be in the field. The one shall be taken and the other shall be left."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "They answering, say to him:"
+   },
+   {
+    "s": "disciples",
+    "t": "Where, Lord?"
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "Who said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Wheresoever the body shall be, thither will the eagles also be gathered together."
+   }
+  ]
+ }
+}

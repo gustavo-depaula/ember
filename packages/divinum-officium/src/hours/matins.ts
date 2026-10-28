@@ -270,8 +270,10 @@ async function stJamesRule(
   const { version } = state.day.ctx
   const w = { ...wIn }
   let w1: Sections | undefined
+  // The rank is read from the Latin winner, whatever the column's language.
+  const latinRank = state.day.winnerSections.Rank ?? ''
 
-  if (/Dominica/i.test(w.Rank ?? '') && (await prevdayl1(state, sIn, lang))) {
+  if (/Dominica/i.test(latinRank) && (await prevdayl1(state, sIn, lang))) {
     const kd = `${state.day.ctx.dayname[0]}-1`
     w1 =
       (await setupstring(
@@ -281,7 +283,7 @@ async function stJamesRule(
   }
 
   if (
-    /Jacobi|Joannis/.test(w.Rank ?? '') &&
+    /Jacobi|Joannis/.test(latinRank) &&
     new RegExp(`!.*?(${sIn}) `, 'i').test(state.day.scripturaSections.Lectio1 ?? '')
   ) {
     w1 = scripturaOf(state, lang)
@@ -890,14 +892,18 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
   }
   let text = w[`Lectio${n}`] ?? ''
 
+  // Some saints' I-nocturn lessons (from the Commune) hold only in Lent, or
+  // only when an Ember day occurs with them (12-23 Hartmannus). The Perl's
+  // && binds tighter than its ||, so the Ember-day test has no nocturn guard.
   if (
-    nocturnNum === 1 &&
-    /Lectio1 Quad/i.test(rule) &&
-    !/Quad(\d|p3-[3456])/i.test(ctx.dayname[0])
+    (nocturnNum === 1 &&
+      /Lectio1 Quad/i.test(rule) &&
+      !/Quad(\d|p3-[3456])/i.test(ctx.dayname[0])) ||
+    (/Lectio1 QT/i.test(rule) && !/Quattuor/i.test(state.day.commemoratioSections.Rank ?? ''))
   ) {
     text = ''
-    rule = rule.replace(/in 1 Nocturno L.*loco/, '')
-    state.rule = state.rule.replace(/in 1 Nocturno L.*loco/, '')
+    rule = rule.replace(/in 1 Nocturno L.*loco/i, '')
+    state.rule = state.rule.replace(/in 1 Nocturno L.*loco/i, '')
   }
 
   if (
@@ -1115,7 +1121,7 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
       (state.day.rank > 4 ||
         (state.day.rank >= 3 && /Trident/i.test(version)) ||
         homilyflag === 1 ||
-        state.votive !== 'Hodie')
+        (!!state.votive && state.votive !== 'Hodie'))
     ) {
       wl = commemoratioOf(state, lang)
       wc = wl[`Lectio${j0}`] ?? ''
@@ -1147,6 +1153,7 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
             ? commLines[3]
             : commLines[1]
         text = `!${commentText ?? ''}\n${wc}`
+        L9winnerflag = true
       }
     }
 
@@ -1171,7 +1178,10 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
       !L9winnerflag &&
       ((/sancti/i.test(state.day.commemoratio) &&
         /[SB]\. /i.test(state.day.commemoratioSections.Rank ?? '')) ||
-        /infra octavam/i.test(state.day.commemoratioSections.Rank ?? '')) &&
+        /infra octavam/i.test(state.day.commemoratioSections.Rank ?? '') ||
+        // Perl: `$commeoratio !~ /Sancti/i` misspells the variable, so that
+        // half is always true and only the second commemoration is tested.
+        /sancti/i.test(state.day.commemoentries[1] ?? '')) &&
       (!/tempora/i.test(state.day.winner) ||
         num((state.day.winnerSections.Rank ?? '').split(';;')[2]) < 5) &&
       (!/1955/.test(version) || state.day.comrank > 4) &&
@@ -1204,7 +1214,8 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
 
       if (
         !wc2 &&
-        /infra octav/i.test(state.day.commemoratioSections.Rank ?? '') &&
+        (/infra octav/i.test(state.day.commemoratioSections.Rank ?? '') ||
+          /tempora/i.test(state.day.commemoratio)) &&
         !/Monastic/.test(version)
       ) {
         const commemo1 = state.day.commemoentries[1]
@@ -1253,7 +1264,7 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
       let i = 5
       while (i < 7) {
         const w1 = w[`Lectio${i}`]
-        if (!w1 || /!/.test(w1)) break
+        if (!w1 || /^!/.test(w1)) break
         const m = /([\s\S]*?)_/.exec(text)
         if (m) text = m[1]
         text += w1

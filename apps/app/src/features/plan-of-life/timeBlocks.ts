@@ -71,28 +71,89 @@ export function deriveTimeBlock(time: string | null | undefined): TimeBlock {
   return getCurrentTimeBlock(hour)
 }
 
-export function getBlockState(
-  block: TimeBlock,
-  currentBlock: TimeBlock,
-  completedIds: Set<string>,
-  blockSlotIds: string[],
-): BlockState {
-  const blockIndex = blockOrder.indexOf(block)
-  const currentIndex = blockOrder.indexOf(currentBlock)
-  const allDone = blockSlotIds.every((id) => completedIds.has(id))
-
-  // Flexible block always expanded unless all done
-  if (block === 'flexible') return allDone ? 'collapsed' : 'expanded'
-
-  if (blockIndex < currentIndex) return allDone ? 'collapsed' : 'expanded'
-  if (blockIndex === currentIndex) return 'expanded'
-  return 'preview'
-}
-
 export function getBlockCompletion(
   blockSlotIds: string[],
   completedIds: Set<string>,
 ): { completed: number; total: number } {
   const completed = blockSlotIds.filter((id) => completedIds.has(id)).length
   return { completed, total: blockSlotIds.length }
+}
+
+// The day cut finer than the stored time blocks, for surfaces that list or
+// colour a long plan: a practice falls in the part its time names, and one
+// with no time in the middle part of its block.
+export type DayPart = 'dawn' | 'morning' | 'midday' | 'afternoon' | 'evening' | 'night' | 'flexible'
+
+export const dayPartOrder: DayPart[] = [
+  'dawn',
+  'morning',
+  'midday',
+  'afternoon',
+  'evening',
+  'night',
+  'flexible',
+]
+
+// The clock hour each part begins at, latest first. Night runs past midnight
+// to the end of the logical day.
+const partStarts: [DayPart, number][] = [
+  ['night', 21],
+  ['evening', 18],
+  ['afternoon', 14],
+  ['midday', 12],
+  ['morning', 8],
+  ['dawn', dayStart / 60],
+]
+
+const untimedPart: Record<TimeBlock, DayPart> = {
+  morning: 'morning',
+  daytime: 'afternoon',
+  evening: 'evening',
+  flexible: 'flexible',
+}
+
+export function dayPartOfHour(hour: number): DayPart {
+  return partStarts.find(([, start]) => hour >= start)?.[0] ?? 'night'
+}
+
+export function dayPartOf(slot: Pick<SlotState, 'time' | 'time_block'>): DayPart {
+  if (slot.time) return dayPartOfHour(Number.parseInt(slot.time.slice(0, 2), 10))
+  return untimedPart[slot.time_block] ?? 'flexible'
+}
+
+/** The parts of the day that hold a practice, each in the order it is prayed, untimed ones last. */
+export function getActiveDayParts(slots: SlotState[]): { part: DayPart; slots: SlotState[] }[] {
+  const owed = (s: SlotState) => (s.time ? dayMinutes(s.time) : Infinity)
+  return dayPartOrder
+    .map((part) => ({
+      part,
+      slots: slots.filter((s) => dayPartOf(s) === part).sort((a, b) => owed(a) - owed(b)),
+    }))
+    .filter(({ slots }) => slots.length > 0)
+}
+
+/**
+ * How each part of the day shows in the checklist. One part lies open: the
+ * first from this hour on with something left to pray. The others fold to a
+ * line — a preview naming what is still unprayed, or bare once all is prayed —
+ * so a long plan never opens as one long list. Any-time practices stay open
+ * until prayed.
+ */
+export function dayPartStates(
+  parts: { part: DayPart; slots: { id: string }[] }[],
+  hour: number,
+  completedIds: Set<string>,
+): Map<DayPart, BlockState> {
+  const now = dayPartOrder.indexOf(dayPartOfHour(hour))
+  const allDone = (slots: { id: string }[]) => slots.every((s) => completedIds.has(s.id))
+  const open = parts.find(
+    ({ part, slots }) =>
+      part !== 'flexible' && dayPartOrder.indexOf(part) >= now && !allDone(slots),
+  )?.part
+  return new Map(
+    parts.map(({ part, slots }): [DayPart, BlockState] => {
+      if (allDone(slots)) return [part, 'collapsed']
+      return [part, part === open || part === 'flexible' ? 'expanded' : 'preview']
+    }),
+  )
 }

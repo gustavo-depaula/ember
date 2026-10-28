@@ -22,6 +22,7 @@ import type {
 } from '@/content/manifestTypes'
 import { CardRow } from '@/features/explore/CardRow'
 import { localizeContent } from '@/lib/i18n'
+import { columnWidth } from '@/lib/layout'
 
 import { CollectionTile } from './CollectionTile'
 import { TodoCard } from './TodoCard'
@@ -29,7 +30,11 @@ import { TodoCard } from './TodoCard'
 export function CollectionProse({ prose }: { prose: CollectionProseBody }) {
   const text = localizeContent(prose.body)
   if (!text) return null
-  return <PrayerProseBlock text={{ primary: text }} />
+  return (
+    <YStack maxWidth={columnWidth}>
+      <PrayerProseBlock text={{ primary: text }} />
+    </YStack>
+  )
 }
 
 type ItemBlock = { kind: 'item' } & CollectionItem
@@ -69,7 +74,13 @@ export function SectionView({
       <SectionMarker title={localizeContent(section.title)} depth={depth} />
 
       {section.description && (
-        <Typography variant="interface" tone="muted" fontSize={15} fontStyle="italic">
+        <Typography
+          variant="interface"
+          tone="muted"
+          fontSize={15}
+          fontStyle="italic"
+          maxWidth={columnWidth}
+        >
           {localizeContent(section.description.body)}
         </Typography>
       )}

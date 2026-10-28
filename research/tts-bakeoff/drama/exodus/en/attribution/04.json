@@ -1,0 +1,350 @@
+{
+ "pericopes": [
+  1,
+  10,
+  18,
+  27
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Israel in Egypt and the call of Moses."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking, from the burning bush and afterwards; majestic, patient, then stern."
+  },
+  "moses": {
+   "name": "Moses",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Hebrew raised in Pharaoh's house, shepherd in Madian; hesitant and awed before God, pleading for his people."
+  },
+  "jethro": {
+   "name": "Jethro (Raguel)",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Priest of Madian, Moses' father in law; hospitable and kindly."
+  },
+  "sephora": {
+   "name": "Sephora",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "Moses' wife, daughter of Jethro; urgent and distressed at the inn."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Moses answered, and said:"
+   },
+   {
+    "s": "moses",
+    "t": "They will not believe me, nor hear my voice, but they will say: The Lord hath not appeared to thee."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Then he said to him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "What is that thou holdest in thy hand?"
+   },
+   {
+    "s": "narrator",
+    "t": "He answered:"
+   },
+   {
+    "s": "moses",
+    "t": "A rod."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Cast it down upon the ground."
+   },
+   {
+    "s": "narrator",
+    "t": "He cast it down, and it was turned into a serpent, so that Moses fled from it."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Put out thy hand, and take it by the tail."
+   },
+   {
+    "s": "narrator",
+    "t": "He put forth his hand, and took hold of it, and it was turned into a rod."
+   }
+  ],
+  "5": [
+   {
+    "s": "the-lord",
+    "t": "That they may believe,"
+   },
+   {
+    "s": "narrator",
+    "t": "saith he,"
+   },
+   {
+    "s": "the-lord",
+    "t": "that the Lord God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared to thee."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said again:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Put thy hand into thy bosom."
+   },
+   {
+    "s": "narrator",
+    "t": "And when he had put it into his bosom, he brought it forth leprous as snow."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Put back thy hand into thy bosom."
+   },
+   {
+    "s": "narrator",
+    "t": "He put it back, and brought it out again, and it was like the other flesh."
+   }
+  ],
+  "8": [
+   {
+    "s": "the-lord",
+    "t": "If they will not believe thee,"
+   },
+   {
+    "s": "narrator",
+    "t": "saith he,"
+   },
+   {
+    "s": "the-lord",
+    "t": "nor hear the voice of the former sign, they will believe the word of the latter sign."
+   }
+  ],
+  "9": [
+   {
+    "s": "the-lord",
+    "t": "But if they will not even believe these two signs, nor hear thy voice: take of the river water, and pour it out upon the dry land, and whatsoever thou drawest out of the river, shall be turned into blood."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Moses said:"
+   },
+   {
+    "s": "moses",
+    "t": "I beseech thee, Lord, I am not eloquent from yesterday and the day before; and since thou hast spoken to thy servant, I have more impediment and slowness of tongue."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "The Lord said to him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Who made man's mouth? or who made the dumb and the deaf, the seeing and the blind? did not I?"
+   }
+  ],
+  "12": [
+   {
+    "s": "the-lord",
+    "t": "Go therefore, and I will be in thy mouth; and I will teach thee what thou shalt speak."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "But he said:"
+   },
+   {
+    "s": "moses",
+    "t": "I beseech thee, Lord, send whom thou wilt send."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "The Lord being angry at Moses, said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Aaron the Levite is thy brother, I know that he is eloquent: behold he cometh forth to meet thee, and seeing thee, shall be glad at heart."
+   }
+  ],
+  "15": [
+   {
+    "s": "the-lord",
+    "t": "Speak to him, and put my words in his mouth: and I will be in thy mouth, and in his month, and will shew you what you must do."
+   }
+  ],
+  "16": [
+   {
+    "s": "the-lord",
+    "t": "He shall speak in thy stead to the people, and shall be thy mouth: but thou shalt be to him in those things that pertain to God."
+   }
+  ],
+  "17": [
+   {
+    "s": "the-lord",
+    "t": "And take this rod in thy hand. wherewith thou shalt do the signs."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Moses went his way, and returned to Jethro his father in law, and said to him;"
+   },
+   {
+    "s": "moses",
+    "t": "I will go and return to my brethren into Egypt, that I may see if they be yet alive."
+   },
+   {
+    "s": "narrator",
+    "t": "And Jethro said to him:"
+   },
+   {
+    "s": "jethro",
+    "t": "Go in peace."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Moses, in Madian:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Go, and return into Egypt; for they are all dead that sought thy life."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Moses therefore took his wife, and his sons, and set them upon an ass; and returned into Egypt, carrying the rod of God in his hand."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to him as he was returning into Egypt:"
+   },
+   {
+    "s": "the-lord",
+    "t": "See that thou do all the wonders before Pharao, which I have put in thy hand: I shall harden his heart, and he will not let the people go."
+   }
+  ],
+  "22": [
+   {
+    "s": "the-lord",
+    "t": "And thou shalt say to him: Thus saith the Lord: Israel is my son, my firstborn."
+   }
+  ],
+  "23": [
+   {
+    "s": "the-lord",
+    "t": "I have said to thee: Let my son go, that he may serve me, and thou wouldst not let him go: behold I will kill thy son, thy firstborn."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And when he was in his journey, in the inn, the Lord met him, and would have killed him."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Immediately Sephora took a very sharp stone, and circumcised the foreskin of her son, and touched his feet, and said:"
+   },
+   {
+    "s": "sephora",
+    "t": "A bloody spouse art thou to me."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And he let him go after she had said:"
+   },
+   {
+    "s": "sephora",
+    "t": "A bloody spouse art thou to me, because of the circumcision.",
+    "q": "\"because of the circumcision\" kept in her speech as the Douay punctuates it; it may be the narrator's explanation"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Aaron:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Go into the desert to meet Moses."
+   },
+   {
+    "s": "narrator",
+    "t": "And he went forth to meet him in the mountain of God, and kissed him."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And Moses told Aaron all the words of the Lord, by which he had sent him, and the signs that he had commanded."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And they came together, and they assembled all the ancients of the children of Israel."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And Aaron spoke all the words which the Lord had said to Moses: and he wrought the signs before the people."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And the people believed. And they heard that the Lord had visited the children of Israel, and that he had looked upon their affliction: and falling down they adored."
+   }
+  ]
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "job": {
+   "name": "Job",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The afflicted just man of Hus, answering his friends and pleading his cause before God."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Then Job answered, and said:"
+   }
+  ],
+  "2": [
+   {
+    "s": "job",
+    "t": "I have often heard such things as these: you are all troublesome comforters."
+   }
+  ],
+  "3": [
+   {
+    "s": "job",
+    "t": "Shall windy words have no end? or is it any trouble to thee to speak?"
+   }
+  ],
+  "4": [
+   {
+    "s": "job",
+    "t": "I also could speak like you: and would God your soul were for my soul."
+   }
+  ],
+  "5": [
+   {
+    "s": "job",
+    "t": "I would comfort you also with words, and would wag my head over you."
+   }
+  ],
+  "6": [
+   {
+    "s": "job",
+    "t": "I would strengthen you with my mouth, and would move my lips, as sparing you."
+   }
+  ],
+  "7": [
+   {
+    "s": "job",
+    "t": "But what shall I do? If I speak, my pain will not rest: and if I hold my peace, it will not depart from me."
+   }
+  ],
+  "8": [
+   {
+    "s": "job",
+    "t": "But now my sorrow hath oppressed me, and all my limbs are brought to nothing."
+   }
+  ],
+  "9": [
+   {
+    "s": "job",
+    "t": "My wrinkles bear witness against me, and a false speaker riseth up against my face, contradicting me."
+   }
+  ],
+  "10": [
+   {
+    "s": "job",
+    "t": "He hath gathered together his fury against me, and threatening me he hath gnashed with his teeth upon me: my enemy hath beheld me with terrible eyes."
+   }
+  ],
+  "11": [
+   {
+    "s": "job",
+    "t": "They have opened their mouths upon me, and reproaching me they have struck me on the cheek, they are filled with my pains."
+   }
+  ],
+  "12": [
+   {
+    "s": "job",
+    "t": "God hath shut me up with the unjust man, and hath delivered me into the hands of the wicked."
+   }
+  ],
+  "13": [
+   {
+    "s": "job",
+    "t": "I that was formerly so wealthy, am all on a sudden broken to pieces: he hath taken me by my neck, he hath broken me, and hath set me up to be his mark."
+   }
+  ],
+  "14": [
+   {
+    "s": "job",
+    "t": "He hath compassed me round about with his lances, he hath wounded my loins, he hath not spared, and hath poured out my bowels on the earth,"
+   }
+  ],
+  "15": [
+   {
+    "s": "job",
+    "t": "He hath torn me with wound upon wound, he hath rushed in upon me like a giant."
+   }
+  ],
+  "16": [
+   {
+    "s": "job",
+    "t": "I have sowed sackcloth upon my skin, and have covered my flesh with ashes."
+   }
+  ],
+  "17": [
+   {
+    "s": "job",
+    "t": "My face is swollen with weeping, and my eyelids are dim."
+   }
+  ],
+  "18": [
+   {
+    "s": "job",
+    "t": "These things have I suffered without the iniquity of my hand, when I offered pure prayers to God."
+   }
+  ],
+  "19": [
+   {
+    "s": "job",
+    "t": "O earth, cover not thou my blood, neither let my cry find a hiding place in thee."
+   }
+  ],
+  "20": [
+   {
+    "s": "job",
+    "t": "For behold my witness is in heaven, and he that knoweth my conscience is on high."
+   }
+  ],
+  "21": [
+   {
+    "s": "job",
+    "t": "My friends are full of words: my eye poureth out tears to God."
+   }
+  ],
+  "22": [
+   {
+    "s": "job",
+    "t": "And O that a man might so be judged with God, as the son of man is judged with his companion!"
+   }
+  ],
+  "23": [
+   {
+    "s": "job",
+    "t": "For behold short years pass away, and I am walking in a path by which I shall not return."
+   }
+  ]
+ }
+}

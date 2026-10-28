@@ -1,0 +1,69 @@
+---
+import { overviewPage } from '~/lib/developers/overview'
+import { inline } from '~/lib/developers/text'
+import type { Locale } from '~/lib/locale'
+import Code from './Code.astro'
+import DevShell from './DevShell.astro'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const page = overviewPage(locale, Astro.site ?? new URL('https://ember.dpgu.me'))
+const toc = [
+  { id: 'start', label: page.start.title },
+  { id: 'manners', label: page.manners.title },
+  { id: 'source', label: page.sources.title },
+]
+---
+
+<DevShell locale={locale} alternates={alternates} doc="overview" title={page.title} lede={page.lede} toc={toc}>
+  <div class="dev-doors">
+    {page.doors.map((d) => (
+      <a class="dev-door" href={d.to}>
+        <span class="t-kicker">{d.kicker}</span>
+        <span class="t-sacred">{d.title}</span>
+        <span class="body">{d.body}</span>
+        {d.base && <code class="base">{d.base}</code>}
+        <span class="go">{d.cta}&nbsp;→</span>
+      </a>
+    ))}
+  </div>
+
+  <section class="dev-section" id="start">
+    <h2 class="t-section">{page.start.title}</h2>
+    <p>{page.start.intro}</p>
+    <Code locale={locale} code={page.start.shell} label={page.shellLabel} />
+    {page.start.prayer && (
+      <>
+        <p>{page.start.prayer.intro}</p>
+        <Code locale={locale} code={page.start.prayer.code} label="JavaScript" />
+      </>
+    )}
+  </section>
+
+  <section class="dev-section" id="manners">
+    <h2 class="t-section">{page.manners.title}</h2>
+    <ul class="dev-list">
+      {page.manners.items.map((m) => <li set:html={inline(m)} />)}
+    </ul>
+  </section>
+
+  <section class="dev-section" id="source">
+    <h2 class="t-section">{page.sources.title}</h2>
+    <ul class="rows">
+      {page.sources.items.map((source) => (
+        <li>
+          <a class="row" href={source.url} rel="noopener">
+            <span class="grow">
+              <span class="row-title">{source.path}</span>
+              <span class="t-caption" style="display:block">{source.what}</span>
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+</DevShell>

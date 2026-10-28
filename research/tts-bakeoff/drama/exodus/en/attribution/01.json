@@ -1,0 +1,184 @@
+{
+ "pericopes": [
+  1,
+  8,
+  15
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Israel in Egypt and the call of Moses."
+  },
+  "pharaoh": {
+   "name": "Pharaoh",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "King of Egypt; calculating, haughty and harsh toward the Hebrews."
+  },
+  "midwives": {
+   "name": "The Hebrew midwives",
+   "kind": "group",
+   "gender": "female",
+   "age": "adult",
+   "note": "Sephora and Phua, answering the king; God-fearing, deferential but shrewd."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "These are the names of the children of Israel, that went into Egypt with Jacob: they went in every man with his household:"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Ruben, Simeon, Levi, Juda,"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Issachar, Zabulon, and Benjamin,"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Dan, and Nephthali, Gad and Aser."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And all the souls that came out of Jacob's thigh, were seventy: but Joseph was in Egypt."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "After he was dead, and all his brethren, and all that generation,"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "The children of Israel increased, and sprung up into multitudes, and growing exceedingly strong they filled the land."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "In the mean time there arose a new king over Egypt, that knew not Joseph:"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And he said to his people:"
+   },
+   {
+    "s": "pharaoh",
+    "t": "Behold the people of the children of Israel are numerous and stronger than we."
+   }
+  ],
+  "10": [
+   {
+    "s": "pharaoh",
+    "t": "Come let us wisely oppress them, lest they multiply: and if any war shall rise against us, join with our enemies, and having overcome us, depart out of the land."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Therefore he set over them masters of the works, to afflict them with burdens: and they built for Pharao cities of tabernacles, Phithom, and Ramesses."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "But the more they oppressed them, the more they were multiplied and increased."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And the Egyptians hated the children of Israel, and afflicted them and mocked them:"
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And they made their life bitter with hard works in clay and brick, and with all manner of service, wherewith they were overcharged in the works of the earth."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And the king of Egypt spoke to the midwives of the Hebrews: of whom one was called Sephora, the other Phua,"
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Commanding them:"
+   },
+   {
+    "s": "pharaoh",
+    "t": "When you shall do the office of midwives to the Hebrew women, and the time of delivery is come: if it be a man child, kill it: if a woman, keep it alive."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "But the midwives feared God, and did not do as the king of Egypt had commanded, but saved the men children."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And the king called for them and said:"
+   },
+   {
+    "s": "pharaoh",
+    "t": "What is it that you meant to do, that you would save the men children?"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "They answered:"
+   },
+   {
+    "s": "midwives",
+    "t": "The Hebrew women are not as the Egyptian women: for they themselves are skilful in the office of a midwife; and they are delivered before we come to them."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Therefore God dealt well with the midwives: and the people multiplied and grew exceedingly strong."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And because the midwives feared God, he built them houses."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Pharao therefore charged all his people, saying:"
+   },
+   {
+    "s": "pharaoh",
+    "t": "Whatsoever shall be born of the male sex, ye shall cast into the river: whatsoever of the female, ye shall save alive."
+   }
+  ]
+ }
+}

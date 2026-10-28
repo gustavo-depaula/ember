@@ -1,0 +1,413 @@
+{
+  "id": "chant-book/kyriale",
+  "name": {
+    "en-US": "Kyriale",
+    "pt-BR": "Kyriale"
+  },
+  "description": {
+    "en-US": "The chants of the Ordinary of the Mass — Kyrie, Gloria, Credo, Sanctus and Agnus Dei — in the eighteen Masses of the Roman Gradual.",
+    "pt-BR": "Os cantos do Ordinário da Missa — Kyrie, Gloria, Credo, Sanctus e Agnus Dei — nas dezoito Missas do Gradual Romano."
+  },
+  "source": "Graduale Romanum, 1961 · GregoBase (CC0)",
+  "sections": [
+    {
+      "id": "asperges",
+      "title": {
+        "en-US": "At the Sprinkling of Holy Water",
+        "pt-BR": "Na aspersão da água benta"
+      },
+      "chants": [
+        "chant/asperges-me",
+        "chant/vidi-aquam",
+        "chant/asperges-me-ad-libitum-i",
+        "chant/asperges-me-ad-libitum-ii"
+      ]
+    },
+    {
+      "id": "mass-i",
+      "title": {
+        "en-US": "Mass I",
+        "pt-BR": "Missa I"
+      },
+      "occasion": {
+        "en-US": "In Paschal Time",
+        "pt-BR": "No Tempo Pascal"
+      },
+      "chants": [
+        "chant/kyrie-i",
+        "chant/gloria-i",
+        "chant/sanctus-i",
+        "chant/agnus-dei-i",
+        "chant/ite-i-a",
+        "chant/ite-i-b"
+      ],
+      "name": "Lux et origo"
+    },
+    {
+      "id": "mass-ii",
+      "title": {
+        "en-US": "Mass II",
+        "pt-BR": "Missa II"
+      },
+      "occasion": {
+        "en-US": "For feasts of the I class",
+        "pt-BR": "Para as festas de I classe"
+      },
+      "chants": [
+        "chant/kyrie-ii",
+        "chant/gloria-ii",
+        "chant/sanctus-ii",
+        "chant/agnus-dei-ii",
+        "chant/ite-ii-a",
+        "chant/ite-ii-b",
+        "chant/benedicamus-ii"
+      ],
+      "name": "Kyrie fons bonitatis"
+    },
+    {
+      "id": "mass-iii",
+      "title": {
+        "en-US": "Mass III",
+        "pt-BR": "Missa III"
+      },
+      "occasion": {
+        "en-US": "For feasts of the I class",
+        "pt-BR": "Para as festas de I classe"
+      },
+      "chants": [
+        "chant/kyrie-iii",
+        "chant/gloria-iii",
+        "chant/sanctus-iii",
+        "chant/agnus-dei-iii",
+        "chant/ite-ii-b",
+        "chant/benedicamus-ii"
+      ],
+      "name": "Kyrie Deus sempiterne"
+    },
+    {
+      "id": "mass-iv",
+      "title": {
+        "en-US": "Mass IV",
+        "pt-BR": "Missa IV"
+      },
+      "occasion": {
+        "en-US": "For feasts of the II class",
+        "pt-BR": "Para as festas de II classe"
+      },
+      "chants": [
+        "chant/kyrie-iv",
+        "chant/gloria-iv",
+        "chant/sanctus-iv",
+        "chant/agnus-dei-iv",
+        "chant/ite-iv"
+      ],
+      "name": "Cunctipotens Genitor Deus"
+    },
+    {
+      "id": "mass-v",
+      "title": {
+        "en-US": "Mass V",
+        "pt-BR": "Missa V"
+      },
+      "occasion": {
+        "en-US": "For feasts of the II class",
+        "pt-BR": "Para as festas de II classe"
+      },
+      "chants": [
+        "chant/kyrie-v",
+        "chant/gloria-v",
+        "chant/sanctus-v",
+        "chant/agnus-dei-v",
+        "chant/ite-v"
+      ],
+      "name": "Kyrie magnae Deus potentiae"
+    },
+    {
+      "id": "mass-vi",
+      "title": {
+        "en-US": "Mass VI",
+        "pt-BR": "Missa VI"
+      },
+      "occasion": {
+        "en-US": "For feasts of the II class",
+        "pt-BR": "Para as festas de II classe"
+      },
+      "chants": [
+        "chant/kyrie-vi",
+        "chant/gloria-vi",
+        "chant/sanctus-vi",
+        "chant/agnus-dei-vi",
+        "chant/ite-vi"
+      ],
+      "name": "Kyrie Rex Genitor"
+    },
+    {
+      "id": "mass-vii",
+      "title": {
+        "en-US": "Mass VII",
+        "pt-BR": "Missa VII"
+      },
+      "occasion": {
+        "en-US": "For feasts of the II class",
+        "pt-BR": "Para as festas de II classe"
+      },
+      "chants": [
+        "chant/kyrie-vii",
+        "chant/gloria-vii",
+        "chant/sanctus-vii",
+        "chant/agnus-dei-vii",
+        "chant/ite-vii"
+      ],
+      "name": "Kyrie Rex splendens"
+    },
+    {
+      "id": "mass-viii",
+      "title": {
+        "en-US": "Mass VIII",
+        "pt-BR": "Missa VIII"
+      },
+      "occasion": {
+        "en-US": "For feasts of the II class",
+        "pt-BR": "Para as festas de II classe"
+      },
+      "chants": [
+        "chant/kyrie-viii",
+        "chant/gloria-viii",
+        "chant/sanctus-viii",
+        "chant/agnus-dei-viii",
+        "chant/ite-viii"
+      ],
+      "name": "De Angelis"
+    },
+    {
+      "id": "mass-ix",
+      "title": {
+        "en-US": "Mass IX",
+        "pt-BR": "Missa IX"
+      },
+      "occasion": {
+        "en-US": "For feasts of the Blessed Virgin Mary",
+        "pt-BR": "Para as festas da Bem-aventurada Virgem Maria"
+      },
+      "chants": [
+        "chant/kyrie-ix",
+        "chant/gloria-ix",
+        "chant/sanctus-ix",
+        "chant/agnus-dei-ix",
+        "chant/ite-ix"
+      ],
+      "name": "Cum jubilo"
+    },
+    {
+      "id": "mass-x",
+      "title": {
+        "en-US": "Mass X",
+        "pt-BR": "Missa X"
+      },
+      "occasion": {
+        "en-US": "For feasts of the Blessed Virgin Mary",
+        "pt-BR": "Para as festas da Bem-aventurada Virgem Maria"
+      },
+      "chants": [
+        "chant/kyrie-x",
+        "chant/gloria-x",
+        "chant/sanctus-x",
+        "chant/agnus-dei-x",
+        "chant/ite-ix"
+      ],
+      "name": "Alme Pater"
+    },
+    {
+      "id": "mass-xi",
+      "title": {
+        "en-US": "Mass XI",
+        "pt-BR": "Missa XI"
+      },
+      "occasion": {
+        "en-US": "For Sundays through the year",
+        "pt-BR": "Para os domingos durante o ano"
+      },
+      "chants": [
+        "chant/kyrie-xi",
+        "chant/gloria-xi",
+        "chant/sanctus-xi",
+        "chant/agnus-dei-xi",
+        "chant/ite-xi"
+      ],
+      "name": "Orbis factor"
+    },
+    {
+      "id": "mass-xii",
+      "title": {
+        "en-US": "Mass XII",
+        "pt-BR": "Missa XII"
+      },
+      "occasion": {
+        "en-US": "For feasts of the III class",
+        "pt-BR": "Para as festas de III classe"
+      },
+      "chants": [
+        "chant/kyrie-xii",
+        "chant/gloria-xii",
+        "chant/sanctus-xii",
+        "chant/agnus-dei-xii",
+        "chant/ite-xii"
+      ],
+      "name": "Pater cuncta"
+    },
+    {
+      "id": "mass-xiii",
+      "title": {
+        "en-US": "Mass XIII",
+        "pt-BR": "Missa XIII"
+      },
+      "occasion": {
+        "en-US": "For feasts of the III class",
+        "pt-BR": "Para as festas de III classe"
+      },
+      "chants": [
+        "chant/kyrie-xiii",
+        "chant/gloria-xiii",
+        "chant/sanctus-xiii",
+        "chant/agnus-dei-xiii",
+        "chant/ite-xiii"
+      ],
+      "name": "Stelliferi Conditor orbis"
+    },
+    {
+      "id": "mass-xiv",
+      "title": {
+        "en-US": "Mass XIV",
+        "pt-BR": "Missa XIV"
+      },
+      "occasion": {
+        "en-US": "For feasts of the III class",
+        "pt-BR": "Para as festas de III classe"
+      },
+      "chants": [
+        "chant/kyrie-xiv",
+        "chant/gloria-xiv",
+        "chant/sanctus-xiv",
+        "chant/agnus-dei-xiv",
+        "chant/ite-xiv"
+      ],
+      "name": "Jesu Redemptor"
+    },
+    {
+      "id": "mass-xv",
+      "title": {
+        "en-US": "Mass XV",
+        "pt-BR": "Missa XV"
+      },
+      "occasion": {
+        "en-US": "For commemorations and the ferias of Christmastide",
+        "pt-BR": "Para as comemorações e as férias do Tempo do Natal"
+      },
+      "chants": [
+        "chant/kyrie-xv",
+        "chant/gloria-xv",
+        "chant/sanctus-xv",
+        "chant/agnus-dei-xv",
+        "chant/ite-xv-xvi"
+      ],
+      "name": "Dominator Deus"
+    },
+    {
+      "id": "mass-xvi",
+      "title": {
+        "en-US": "Mass XVI",
+        "pt-BR": "Missa XVI"
+      },
+      "occasion": {
+        "en-US": "For ferias through the year",
+        "pt-BR": "Para as férias durante o ano"
+      },
+      "chants": [
+        "chant/kyrie-xvi",
+        "chant/sanctus-xvi",
+        "chant/agnus-dei-xvi",
+        "chant/ite-xv-xvi",
+        "chant/benedicamus-ad-libitum"
+      ]
+    },
+    {
+      "id": "mass-xvii",
+      "title": {
+        "en-US": "Mass XVII",
+        "pt-BR": "Missa XVII"
+      },
+      "occasion": {
+        "en-US": "For the Sundays of Advent and Lent",
+        "pt-BR": "Para os domingos do Advento e da Quaresma"
+      },
+      "chants": [
+        "chant/kyrie-xvii",
+        "chant/kyrie-xvii-c",
+        "chant/sanctus-xvii",
+        "chant/agnus-dei-xvii"
+      ]
+    },
+    {
+      "id": "mass-xviii",
+      "title": {
+        "en-US": "Mass XVIII",
+        "pt-BR": "Missa XVIII"
+      },
+      "occasion": {
+        "en-US": "For the ferias of Advent and Lent, vigils, Ember days and Rogation days",
+        "pt-BR": "Para as férias do Advento e da Quaresma, vigílias, Têmporas e Rogações"
+      },
+      "chants": [
+        "chant/kyrie-xviii",
+        "chant/sanctus-xviii",
+        "chant/agnus-dei-xviii",
+        "chant/benedicamus-ad-libitum"
+      ],
+      "name": "Deus Genitor alme"
+    },
+    {
+      "id": "credo",
+      "title": {
+        "en-US": "Credo",
+        "pt-BR": "Credo"
+      },
+      "chants": [
+        "chant/credo-i",
+        "chant/credo-ii",
+        "chant/credo-iii",
+        "chant/credo-iv",
+        "chant/credo-v",
+        "chant/credo-vi"
+      ]
+    },
+    {
+      "id": "ad-libitum",
+      "title": {
+        "en-US": "Chants ad libitum",
+        "pt-BR": "Cantos ad libitum"
+      },
+      "chants": [
+        "chant/kyrie-ad-libitum-i",
+        "chant/kyrie-ad-libitum-ii",
+        "chant/kyrie-ad-libitum-iii",
+        "chant/kyrie-ad-libitum-iv",
+        "chant/kyrie-ad-libitum-v",
+        "chant/kyrie-ad-libitum-vi",
+        "chant/kyrie-ad-libitum-vii",
+        "chant/kyrie-ad-libitum-viii",
+        "chant/kyrie-ad-libitum-ix",
+        "chant/kyrie-ad-libitum-x",
+        "chant/kyrie-ad-libitum-xi",
+        "chant/gloria-ad-libitum-i",
+        "chant/gloria-ad-libitum-ii",
+        "chant/gloria-ad-libitum-iii",
+        "chant/gloria-ad-libitum-iv",
+        "chant/sanctus-ad-libitum-i",
+        "chant/sanctus-ad-libitum-ii",
+        "chant/sanctus-ad-libitum-iii",
+        "chant/agnus-dei-ad-libitum-i",
+        "chant/agnus-dei-ad-libitum-ii"
+      ]
+    }
+  ]
+}

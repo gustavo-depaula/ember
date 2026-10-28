@@ -1,0 +1,170 @@
+{
+ "pericopes": [
+  1,
+  15
+ ],
+ "cast": {
+  "narrator": {
+   "name": "John (narrator)",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "old",
+   "note": "John the Apostle on Patmos, recounting his vision in the first person with awe."
+  },
+  "ancients": {
+   "name": "The twenty-four ancients",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "The twenty-four ancients fallen on their faces, giving thanks to God in solemn unison."
+  },
+  "heavenly-voices": {
+   "name": "Heavenly voices",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "A great multitude or choir of heaven crying out together in praise."
+  },
+  "a-voice-from-heaven": {
+   "name": "A voice from heaven",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "An unnamed single voice from heaven, the throne or the altar, giving a command."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And there was given me a reed, like unto a rod. And it was said to me:"
+   },
+   {
+    "s": "a-voice-from-heaven",
+    "t": "Arise, and measure the temple of God and the altar and them that adore therein.",
+    "q": "speaker unnamed (\"it was said to me\"); \"my two witnesses\" in v3 suggests God or Christ"
+   }
+  ],
+  "2": [
+   {
+    "s": "a-voice-from-heaven",
+    "t": "But the court which is without the temple, cast out and measure it not: because it is given unto the Gentiles. And the holy city they shall tread under foot, two and forty months:"
+   }
+  ],
+  "3": [
+   {
+    "s": "a-voice-from-heaven",
+    "t": "And I will give unto my two witnesses: and they shall prophesy, a thousand two hundred sixty days, clothed in sackcloth.",
+    "q": "speech ended here, as most modern editions do; vv. 4-10 (future tense, \"their Lord\" in the third person) read as John's prophecy"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "These are the two olive trees and the two candlesticks that stand before the Lord of the earth."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And if any man will hurt them, fire shall come out of their mouths and shall devour their enemies. And if any man will hurt them, in this manner must he be slain."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "These have power to shut heaven, that it rain not in the days of their prophecy: And they have power over waters, to turn them into blood and to strike the earth with all plagues, as often as they will."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And when they shall have finished their testimony, the beast that ascendeth out of the abyss shall make war against them and shall overcome them and kill them."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And their bodies shall lie in the streets of the great city which is called spiritually, Sodom and Egypt: where their Lord also was crucified."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And they of the tribes and peoples and tongues and nations shall see their bodies for three days and a half: and they shall not suffer their bodies to be laid in sepulchres."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And they that dwell upon the earth shall rejoice over them and make merry: and shall send gifts one to another, because these two prophets tormented them that dwelt upon the earth."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And after three days and a half, the spirit of life from God entered into them. And they stood upon their feet: and great fear fell upon them that saw them."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And they heard a great voice from heaven, saying to them:"
+   },
+   {
+    "s": "a-voice-from-heaven",
+    "t": "Come up hither."
+   },
+   {
+    "s": "narrator",
+    "t": "And they went up to heaven in a cloud: and their enemies saw them."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And at that hour there was made a great earthquake: and the tenth part of the city fell. And there were slain in the earthquake, names of men, seven thousand: and the rest were cast into a fear and gave glory to the God of heaven."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "The second woe is past: and behold the third woe will come quickly."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And the seventh angel sounded the trumpet: and there were great voices in heaven, saying:"
+   },
+   {
+    "s": "heavenly-voices",
+    "t": "The kingdom of this world is become our Lord's and his Christ's, and he shall reign for ever and ever. Amen."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And the four and twenty ancients who sit on their seats in the sight of God, fell on their faces and adored God, saying:"
+   }
+  ],
+  "17": [
+   {
+    "s": "ancients",
+    "t": "We give thee thanks, O Lord God Almighty, who art and who wast and who art to come: because thou hast taken to thee thy great power, and thou hast reigned."
+   }
+  ],
+  "18": [
+   {
+    "s": "ancients",
+    "t": "And the nations were angry: and thy wrath is come. And the time of the dead, that they should be judged and that thou shouldest render reward to thy servants the prophets and the saints, and to them that fear thy name, little and great: and shouldest destroy them who have corrupted the earth."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And the temple of God was opened in heaven: and the ark of his testament was seen in his temple. And there were lightnings and voices and an earthquake and great hail."
+   }
+  ]
+ }
+}

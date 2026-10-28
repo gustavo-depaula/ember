@@ -1,6 +1,6 @@
 /**
- * YouTube IFrame player. Uses the official IFrame API in a `react-native-webview`
- * on native and a plain `<iframe>` on web. We never extract audio or proxy
+ * YouTube IFrame player: the official IFrame API in a `react-native-webview`.
+ * We never extract audio or proxy
  * video — that violates YouTube ToS.
  *
  * Reports playback errors (e.g. embedding disabled by uploader) via `onError`
@@ -18,7 +18,8 @@
  */
 
 import { useCallback, useMemo } from 'react'
-import { Platform, View } from 'react-native'
+import { View } from 'react-native'
+import WebView from 'react-native-webview'
 
 const EMBED_ORIGIN = 'https://ember.dpgu.me'
 
@@ -52,9 +53,6 @@ html,body{margin:0;padding:0;background:#000;height:100%;}
   }
 </script></body></html>`
 
-// biome-ignore lint/suspicious/noExplicitAny: WebView type not exported
-const WebView: any = Platform.OS !== 'web' ? require('react-native-webview').default : undefined
-
 type Props = {
   videoId: string
   onError?: (code: number) => void
@@ -74,25 +72,6 @@ export function YouTubePlayer({ videoId, onError }: Props) {
     },
     [onError],
   )
-
-  if (Platform.OS === 'web') {
-    const origin = typeof window !== 'undefined' ? window.location.origin : ''
-    const src = `https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1&playsinline=1&enablejsapi=1${
-      origin ? `&origin=${encodeURIComponent(origin)}` : ''
-    }`
-    return (
-      <View style={{ aspectRatio: 16 / 9, width: '100%', backgroundColor: '#000' }}>
-        <iframe
-          title="YouTube"
-          src={src}
-          style={{ width: '100%', height: '100%', border: 'none' }}
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen
-          referrerPolicy="strict-origin-when-cross-origin"
-        />
-      </View>
-    )
-  }
 
   return (
     <View style={{ aspectRatio: 16 / 9, width: '100%', backgroundColor: '#000' }}>

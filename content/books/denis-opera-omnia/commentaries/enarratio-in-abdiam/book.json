@@ -1,0 +1,55 @@
+{
+  "id": "denis-enarratio-in-abdiam",
+  "cover": "label",
+  "name": {
+    "la": "Enarratio in Abdiam",
+    "en-US": "Commentary on Obadiah",
+    "pt-BR": "Comentário a Abdias"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "Enarratio in Abdiam.",
+    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniainunum10deni",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. X (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Proœmium",
+        "en-US": "Proem",
+        "pt-BR": "Proêmio"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Articulus 1",
+        "en-US": "Article 1",
+        "pt-BR": "Artigo 1"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Articulus 2",
+        "en-US": "Article 2",
+        "pt-BR": "Artigo 2"
+      }
+    }
+  ]
+}

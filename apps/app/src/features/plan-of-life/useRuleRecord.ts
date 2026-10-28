@@ -17,10 +17,18 @@ import { useYearCalendar } from '@/features/calendar'
 import { useMinuteOfDay } from '@/hooks/useCurrentHour'
 import { useToday } from '@/hooks/useToday'
 import { getCelebrationsForDate, getLiturgicalSeason } from '@/lib/liturgical'
+import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 import { type ChronicleDay, type ChronicleProgram, chronicleDay } from './chronicle'
-import { programDayDates } from './program'
-import { planFidelity, practiceRecord, recordWall, ruleTimeline, type TimedEvent } from './record'
+import { joinsRound, programDayDates, programRounds } from './program'
+import {
+  planFidelity,
+  practiceRecord,
+  recordWall,
+  ruleTimeline,
+  ruleTimelines,
+  type TimedEvent,
+} from './record'
 import { parseSchedule } from './schedule'
 
 const ruleEventTypes = [
@@ -28,6 +36,7 @@ const ruleEventTypes = [
   'PracticeArchived',
   'PracticeUnarchived',
   'PracticeDeleted',
+  'PracticeMerged',
   'SlotAdded',
   'SlotUpdated',
   'SlotDeleted',
@@ -41,7 +50,7 @@ function useRuleEvents(signature: string): TimedEvent[] | undefined {
     queryFn: async () => {
       const placeholders = ruleEventTypes.map(() => '?').join(', ')
       const rows = await getDb().getAllAsync<Pick<StoredEvent, 'payload' | 'timestamp'>>(
-        `SELECT payload, timestamp FROM events WHERE type IN (${placeholders}) ORDER BY sequence`,
+        `SELECT payload, timestamp FROM events WHERE type IN (${placeholders}) ORDER BY id`,
         ruleEventTypes,
       )
       return rows.map((r) => ({ event: JSON.parse(r.payload) as AppEvent, timestamp: r.timestamp }))
@@ -56,15 +65,16 @@ function useContextFor() {
   const today = useToday()
   const { data: thisYear } = useYearCalendar(today.getFullYear())
   const { data: lastYear } = useYearCalendar(today.getFullYear() - 1)
+  const transfers = useOfTransfers()
   return useMemo(
     () => (date: Date) => {
       const year = date.getFullYear() === today.getFullYear() ? thisYear : lastYear
       return {
-        season: getLiturgicalSeason(date),
+        season: getLiturgicalSeason(date, 'of', transfers),
         dayCalendar: year ? getCelebrationsForDate(year, date) : undefined,
       }
     },
-    [today, thisYear, lastYear],
+    [today, thisYear, lastYear, transfers],
   )
 }
 
@@ -90,7 +100,8 @@ export function useRuleRecord(practiceId: string, wallDays: number) {
     useShallow((s) => ({ ids: s.completionsByPractice.get(practiceId), all: s.completions })),
   )
   const completions = useMemo(
-    () => resolveCompletions(ids, all).map((c) => ({ date: c.date, subId: c.sub_id })),
+    () =>
+      resolveCompletions(ids, all).map((c) => ({ date: c.date, subId: c.sub_id, pins: c.pins })),
     [ids, all],
   )
 
@@ -123,13 +134,12 @@ export function usePlanFidelity(weeks: number) {
 
   return useMemo(() => {
     if (!events) return undefined
-    const practiceIds = new Set<string>()
-    for (const { event } of events) if ('practiceId' in event) practiceIds.add(event.practiceId)
-    const timelines = new Map([...practiceIds].map((id) => [id, ruleTimeline(id, events)]))
+    const timelines = ruleTimelines(events)
     const completions = [...all.values()].map((c) => ({
       date: c.date,
       practiceId: c.practice_id,
       subId: c.sub_id,
+      pins: c.pins,
     }))
     const start = startOfWeek(subWeeks(today, weeks - 1), { weekStartsOn: 1 })
     const days = differenceInCalendarDays(today, start) + 1
@@ -199,7 +209,16 @@ export function useChronicle():
             today,
           })
         : []
-      list.push({ practiceId, time: slot?.time ?? null, dates })
+      // Rounds since it was joined: one before that was never hers to miss.
+      const joinedOn = cursors.get(`program/${practiceId}`)?.started_at ?? ''
+      const rounds =
+        slot && program.days
+          ? programRounds(program, today)
+              .filter((r) => joinsRound(parseSchedule(slot.schedule), r))
+              .filter((r) => (r.days.at(-1) as string) >= joinedOn)
+              .map((r) => r.days)
+          : undefined
+      list.push({ practiceId, time: slot?.time ?? null, dates, rounds })
     }
     return list
   }, [slots, practices, cursors, completions, completionsByPractice, today])
@@ -207,25 +226,21 @@ export function useChronicle():
   const base = useMemo(() => {
     if (!events) return undefined
     const programIds = new Set(programs.map((p) => p.practiceId))
-    const practiceIds = new Set<string>()
-    for (const { event } of events) {
-      if ('practiceId' in event && !programIds.has(event.practiceId)) {
-        practiceIds.add(event.practiceId)
-      }
-    }
     // A practice never enabled in the plan asks nothing of any day.
     const timelines = new Map(
-      [...practiceIds]
-        .map((id) => [id, ruleTimeline(id, events)] as const)
-        .filter(([, timeline]) => timeline.some((s) => s.slots.length > 0)),
+      [...ruleTimelines(events)].filter(
+        ([id, timeline]) => !programIds.has(id) && timeline.some((s) => s.slots.length > 0),
+      ),
     )
-    const byDate = new Map<
-      string,
-      { practiceId: string; subId: string | null; completedAt: number }[]
-    >()
+    const byDate = new Map<string, Parameters<typeof chronicleDay>[0]['completions']>()
     for (const c of completions.values()) {
       const list = byDate.get(c.date) ?? []
-      list.push({ practiceId: c.practice_id, subId: c.sub_id, completedAt: c.completed_at })
+      list.push({
+        practiceId: c.practice_id,
+        subId: c.sub_id,
+        pins: c.pins,
+        completedAt: c.completed_at,
+      })
       byDate.set(c.date, list)
     }
     const first = [format(events[0]?.timestamp ?? today, 'yyyy-MM-dd'), ...byDate.keys()].sort()[0]

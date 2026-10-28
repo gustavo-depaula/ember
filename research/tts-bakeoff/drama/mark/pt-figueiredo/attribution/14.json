@@ -1,0 +1,687 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; sober, urgent storytelling, grave through the Passion."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; authoritative and prophetic in ch. 13, sorrowful yet resolute in the Passion, commanding after the Resurrection."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus' followers; earnest questions, then dismay at the supper."
+  },
+  "chief-priests": {
+   "name": "The chief priests",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "Temple leaders, here speaking together with the scribes; scheming in private, mocking at the cross."
+  },
+  "indignant-guests": {
+   "name": "Indignant guests at Bethania",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Some at table in Simon's house, grumbling at the waste of the ointment."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Simon Peter; vehement in his promises, frightened and blustering in his denials."
+  },
+  "judas": {
+   "name": "Judas Iscariot",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The betrayer; low and furtive giving the sign, falsely warm in his greeting."
+  },
+  "false-witnesses": {
+   "name": "False witnesses",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Men testifying against Jesus before the council; assertive but inconsistent."
+  },
+  "high-priest": {
+   "name": "The high priest",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Presides over the council; imperious, then theatrically outraged."
+  },
+  "council-members": {
+   "name": "Members of the council",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Some of those who condemned Jesus, jeering as they strike him blindfolded."
+  },
+  "servant-girl": {
+   "name": "Maid-servant of the high priest",
+   "kind": "individual",
+   "gender": "female",
+   "age": "young",
+   "note": "A servant in the courtyard; sharp and accusing as she recognises Peter."
+  },
+  "bystanders": {
+   "name": "Bystanders",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Those standing by: pressing Peter in the courtyard; mishearing Jesus' cry at the cross."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Faltavam pois dois dias para chegar a Páscoa, em que se começava a comer os pães asmos: E os príncipes dos sacerdotes, e os escribas andavam buscando modo como prenderiam por traição a Jesus, para o matarem."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Mas eles diziam:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "Não convém que isto se faça no dia da festa, por não suceder que no povo se excite algum motim.",
+    "q": "spoken by the chief priests and the scribes together (14:1)"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "E estando Jesus em Betânia, em casa de Simão o leproso, e sentado à mesa: Chegou uma mulher que trazia uma redoma de alabastro cheia de precioso bálsamo feito de espigas de nardo, e quebrada a redoma, lho derramou sobre a sua cabeça:"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "E alguns dos que estavam presentes indignaram-se lá entre si do que viam e disseram:"
+   },
+   {
+    "s": "indignant-guests",
+    "t": "Para que foi este desperdício de bálsamo?"
+   }
+  ],
+  "5": [
+   {
+    "s": "indignant-guests",
+    "t": "Pois podia ele vender-se por mais de trezentos dinheiros, e dar-se este produto aos pobres."
+   },
+   {
+    "s": "narrator",
+    "t": "E murmuravam fortemente contra ela."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Mas Jesus lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Deixai-a; por que a molestais? ela fez-me uma boa obra."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "Porque vós sempre tendes convosco os pobres: Para que quando lhes queirais fazer bem, lho possais fazer: Porém a mim não me tendes sempre."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "Ela fez o que cabia nas suas forças: Foi isto embalsamar-me antecipadamente o corpo para a sepultura."
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "Em verdade vos digo: Onde quer que for pregado este Evangelho, que será em todo o mundo, será também contado para sua memória, o que esta obrou."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Então se retirou Judas Iscariotes, que era um dos doze, a buscar os príncipes dos sacerdotes, para lhes entregar a Jesus."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Eles ouvindo isto se alegraram, e prometeram dar-lhe dinheiro. E buscava Judas ocasião oportuna para o entregar."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "E no primeiro dia em que se comiam os pães asmos, quando se imolava o Cordeiro Pascal, disseram-lhe seus discípulos:"
+   },
+   {
+    "s": "disciples",
+    "t": "Onde queres tu que nós vamos preparar-te o que é necessário para comeres a Páscoa?"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Enviou ele pois a dois de seus discípulos, e disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "Ide à cidade, e lá vos sairá ao encontro um homem que levará uma bilha de água; ide atrás dele:"
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "E onde quer que ele entrar: Dizei ao dono da casa que o Mestre diz: Onde é o aposento em que eu poderei comer a Páscoa com meus discípulos?"
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "E ele vos mostrará um cenáculo, todo mobilado, e preparai-nos lá o que é necessário."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "E partiram seus discípulos, e chegaram à cidade, e acharam tudo como ele lhes havia dito, e prepararam a Páscoa."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "E chegada a tarde, foi Jesus com os doze."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "E quando eles estavam à mesa e ceavam, disse-lhes Jesus:"
+   },
+   {
+    "s": "jesus",
+    "t": "Em verdade vos digo, que um de vós que comigo come, me há de entregar."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Então se começaram eles a entristecer, e cada um de per si lhe perguntava:"
+   },
+   {
+    "s": "disciples",
+    "t": "Sou eu?",
+    "q": "said by each disciple in turn, not in unison"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Respondeu-lhes Jesus:"
+   },
+   {
+    "s": "jesus",
+    "t": "É um dos doze que mete comigo a mão no prato."
+   }
+  ],
+  "21": [
+   {
+    "s": "jesus",
+    "t": "E quanto ao Filho do homem, ele vai segundo o que dele está escrito: Mas ai daquele homem, por meio do qual será entregue o Filho do homem: Melhor lhe fora, se esse homem não houvera nascido."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "E quando eles estavam comendo, tomou Jesus o pão, e depois de o benzer, partiu-o e deu-lho, e disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Tomai, este é o meu Corpo."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "E tendo tomado o cálice, depois que deu graças, lho deu: E todos beberam dele."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "E Jesus lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Este é o meu sangue do Novo Testamento, que será derramado por muitos."
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "Em verdade vos digo, que eu não beberei jamais deste fruto da vide até chegar aquele dia em que o beba de novo no reino de Deus."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "E depois de cantado o hino, saíram para o Monte das Oliveiras."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Então lhes disse Jesus:"
+   },
+   {
+    "s": "jesus",
+    "t": "A todos vós serei eu esta noite uma ocasião de escândalo: Pois está escrito: Eu ferirei o pastor, e as ovelhas se porão em desarranjo."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "Mas depois que eu ressurgir, ir-vos-ei esperar em Galileia."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Disse-lhe então Pedro:"
+   },
+   {
+    "s": "peter",
+    "t": "Ainda quando todos se escandalizarem a teu respeito, eu contudo me não hei de escandalizar."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "E Jesus lhe respondeu:"
+   },
+   {
+    "s": "jesus",
+    "t": "Em verdade te digo, que hoje, nesta mesma noite, antes que o galo cante a segunda vez, me hás de tu negar três vezes."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Mas Pedro, insistindo no mesmo, acrescentava:"
+   },
+   {
+    "s": "peter",
+    "t": "Ainda no caso de eu me ver precisado a morrer contigo, não te hei eu de negar."
+   },
+   {
+    "s": "narrator",
+    "t": "E o mesmo disseram também todos os mais."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "Vieram depois para uma herdade chamada Getsêmane. Então Jesus disse a seus discípulos:"
+   },
+   {
+    "s": "jesus",
+    "t": "Assentai-vos aqui, enquanto eu oro."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "E levou consigo a Pedro, e a Tiago, e a João: E começou a ter pavor, e angustiar-se em extremo."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Então lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "A minha alma está numa tristeza mortal: Detende-vos aqui, e vigiai."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "E tendo-se adiantado alguns passos, prostrou-se em terra: E orava que, se era possível, passasse dele aquela hora:"
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "E disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Abba, Pai, todas as coisas te são possíveis; traspassa de mim este cálice, porém não se faça o que eu quero senão o que tu queres."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "Depois veio, e achou-os dormindo. Então disse a Pedro:"
+   },
+   {
+    "s": "jesus",
+    "t": "Simão, dormes? não pudeste vigiar uma hora?"
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "Vigiai, e orai, para que não entreis em tentação. O espírito na verdade está pronto, mas a carne é fraca."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "E foi outra vez a orar, dizendo as mesmas palavras."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "E tornando a vir, achou-os outra vez dormindo, (porque tinham carregados os olhos) e não sabiam que lhe respondessem."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "E veio terceira vez, e disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "Dormi agora, e descansai. Basta: É chegada a hora: Eis aqui vai o Filho do homem a ser entregue em mãos de pecadores."
+   }
+  ],
+  "42": [
+   {
+    "s": "jesus",
+    "t": "Levantai-vos, vamos: Eis aí vem chegando quem me há de entregar."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "Ainda bem Jesus não tinha acabado de falar, quando chega Judas Iscariotes, um dos doze, e com ele uma grande tropa de gente armada de espadas e de varapaus, da parte dos príncipes dos sacerdotes, e dos escribas, e dos anciãos."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "Ora, o traidor tinha-lhes dado uma senha, dizendo:"
+   },
+   {
+    "s": "judas",
+    "t": "Aquele a quem eu der um ósculo, esse é que é, prendei-o e levai-o com cuidado."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "E tanto que chegou, indo logo ter com Jesus, lhe disse:"
+   },
+   {
+    "s": "judas",
+    "t": "Deus te salve, Mestre:"
+   },
+   {
+    "s": "narrator",
+    "t": "E deu-lhe um ósculo."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "Então eles lhe lançaram as mãos, e o prenderam."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "E um certo dos circunstantes, tirando da espada, feriu a um servo do sumo sacerdote, e lhe cortou uma orelha."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "E respondendo Jesus lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Como se eu fora algum ladrão viestes com espadas, e varapaus a prender-me?"
+   }
+  ],
+  "49": [
+   {
+    "s": "jesus",
+    "t": "Todos os dias estava eu convosco ensinando no templo e não me prendestes. Mas isto acontece para que se cumpram as Escrituras."
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "Então desamparando-o os seus discípulos, fugiram todos."
+   }
+  ],
+  "51": [
+   {
+    "s": "narrator",
+    "t": "Ia-o, porém, seguindo um mancebo, coberto com um lençol sobre o corpo nu: E o prenderam."
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "Mas ele, largando o lençol, lhes escapou nu."
+   }
+  ],
+  "53": [
+   {
+    "s": "narrator",
+    "t": "E levaram Jesus à casa do sumo sacerdote. E se ajuntaram todos os sacerdotes, e os escribas, e os anciãos."
+   }
+  ],
+  "54": [
+   {
+    "s": "narrator",
+    "t": "Mas Pedro o foi seguindo de longe até dentro do pátio do sumo sacerdote: E estava assentado ao fogo com os oficiais, e ali se aquentava."
+   }
+  ],
+  "55": [
+   {
+    "s": "narrator",
+    "t": "E os príncipes dos sacerdotes, e todo o conselho buscavam algum testemunho contra Jesus, para o fazerem morrer, e não o achavam."
+   }
+  ],
+  "56": [
+   {
+    "s": "narrator",
+    "t": "Porque muitos, sim, depunham falsamente contra ele: Mas não concordavam os seus depoimentos."
+   }
+  ],
+  "57": [
+   {
+    "s": "narrator",
+    "t": "E levantando-se uns, atestavam falsamente contra ele, dizendo:"
+   }
+  ],
+  "58": [
+   {
+    "s": "false-witnesses",
+    "t": "Nós outros lhe ouvimos dizer: Eu destruirei este templo, obra de mãos, e em três dias edificarei outro, que não será obra de mãos."
+   }
+  ],
+  "59": [
+   {
+    "s": "narrator",
+    "t": "Mas esta sua mesma deposição não era coerente."
+   }
+  ],
+  "60": [
+   {
+    "s": "narrator",
+    "t": "Então levantando-se no meio do conselho o sumo sacerdote, perguntou a Jesus, dizendo:"
+   },
+   {
+    "s": "high-priest",
+    "t": "Não respondes alguma coisa ao que estes atestam contra ti?"
+   }
+  ],
+  "61": [
+   {
+    "s": "narrator",
+    "t": "Mas ele estava em silêncio, e nada respondeu. Tornou a perguntar-lhe o sumo sacerdote, e lhe disse:"
+   },
+   {
+    "s": "high-priest",
+    "t": "És tu o Cristo, Filho de Deus bendito?"
+   }
+  ],
+  "62": [
+   {
+    "s": "narrator",
+    "t": "E Jesus lhe disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Eu o sou: E vós vereis o Filho do homem assentado à destra do poder de Deus, e vir sobre as nuvens do Céu."
+   }
+  ],
+  "63": [
+   {
+    "s": "narrator",
+    "t": "Então o sumo sacerdote, rasgando as suas vestiduras, disse:"
+   },
+   {
+    "s": "high-priest",
+    "t": "Para que desejamos nós ainda mais testemunhas?"
+   }
+  ],
+  "64": [
+   {
+    "s": "high-priest",
+    "t": "Vós acabais de ouvir a blasfêmia: Que vos parece?"
+   },
+   {
+    "s": "narrator",
+    "t": "A sentença que todos eles deram foi que era réu de morte."
+   }
+  ],
+  "65": [
+   {
+    "s": "narrator",
+    "t": "Então começaram alguns a cuspir nele e a tapar-lhe o rosto, e a dar-lhe punhadas, e a dizer-lhe:"
+   },
+   {
+    "s": "council-members",
+    "t": "Adivinha:",
+    "q": "the \"some\" who mock are taken as members of the council that just condemned him"
+   },
+   {
+    "s": "narrator",
+    "t": "E os oficiais lhe davam bofetadas."
+   }
+  ],
+  "66": [
+   {
+    "s": "narrator",
+    "t": "E estando Pedro embaixo no pátio, chegou uma das criadas do sumo sacerdote:"
+   }
+  ],
+  "67": [
+   {
+    "s": "narrator",
+    "t": "E quando viu a Pedro, que se aquentava, encarando nele, disse-lhe:"
+   },
+   {
+    "s": "servant-girl",
+    "t": "Tu também estavas com Jesus Nazareno."
+   }
+  ],
+  "68": [
+   {
+    "s": "narrator",
+    "t": "Mas ele o negou, dizendo:"
+   },
+   {
+    "s": "peter",
+    "t": "Nem o conheço, nem sei o que dizes."
+   },
+   {
+    "s": "narrator",
+    "t": "E saiu fora onde era a entrada do pátio, e neste tempo cantou o galo."
+   }
+  ],
+  "69": [
+   {
+    "s": "narrator",
+    "t": "E tendo-o visto outra vez a criada, começou a dizer aos que estavam presentes:"
+   },
+   {
+    "s": "servant-girl",
+    "t": "Este é lá daqueles.",
+    "q": "text says \"a maid-servant\"; taken as the same maid as 14:66-67 (Matthew has another maid)"
+   }
+  ],
+  "70": [
+   {
+    "s": "narrator",
+    "t": "Mas ele o negou segunda vez. E pouco depois ainda os que ali estavam, diziam a Pedro:"
+   },
+   {
+    "s": "bystanders",
+    "t": "Verdadeiramente tu és daqueles; porque és também galileu."
+   }
+  ],
+  "71": [
+   {
+    "s": "narrator",
+    "t": "E ele começou a praguejar-se, e a jurar:"
+   },
+   {
+    "s": "peter",
+    "t": "Não conheço esse homem de quem falais."
+   }
+  ],
+  "72": [
+   {
+    "s": "narrator",
+    "t": "E no mesmo ponto cantou o galo a segunda vez. E então se lembrou Pedro da palavra que Jesus lhe havia dito:"
+   },
+   {
+    "s": "jesus",
+    "t": "Antes que o galo cante duas vezes, me negarás três vezes.",
+    "q": "Jesus' earlier words (14:30) recalled by Peter inside narration; given to Jesus as a remembered voice, could be narrator"
+   },
+   {
+    "s": "narrator",
+    "t": "E começou a chorar."
+   }
+  ]
+ }
+}

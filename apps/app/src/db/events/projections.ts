@@ -49,16 +49,12 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       break
     }
 
+    // Deleting a practice or a slot takes it out of the plan. What was prayed
+    // stays prayed: another device may have recorded it since.
     case 'PracticeDeleted': {
       draft.practices.delete(event.practiceId)
       for (const [key, slot] of draft.slots) {
         if (slot.practice_id === event.practiceId) draft.slots.delete(key)
-      }
-      for (const [id, completion] of draft.completions) {
-        if (completion.practice_id === event.practiceId) {
-          removeCompletionFromIndexes(draft, id, completion.date, completion.practice_id)
-          draft.completions.delete(id)
-        }
       }
       break
     }
@@ -145,17 +141,12 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       if (c.notify !== undefined) slot.notify = c.notify
       if (c.schedule !== undefined) slot.schedule = c.schedule
       if (c.pins !== undefined) slot.pins = c.pins
+      if (c.minutes !== undefined) slot.minutes = c.minutes
       break
     }
 
     case 'SlotDeleted': {
       draft.slots.delete(event.slotKey)
-      for (const [id, completion] of draft.completions) {
-        if (completion.practice_id === event.practiceId && completion.sub_id === event.slotId) {
-          removeCompletionFromIndexes(draft, id, completion.date, completion.practice_id)
-          draft.completions.delete(id)
-        }
-      }
       break
     }
 
@@ -176,12 +167,10 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
         completed_at: event.completedAt,
         prayed_id: event.prayedId,
         via: event.via,
+        pins: event.pins,
       }
       draft.completions.set(event.completionId, completion)
       addCompletionToIndexes(draft, event.completionId, event.date, event.practiceId)
-      if (event.completionId >= draft.nextCompletionId) {
-        draft.nextCompletionId = event.completionId + 1
-      }
       break
     }
 
@@ -202,9 +191,6 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
         }
         draft.completions.set(entry.completionId, completion)
         addCompletionToIndexes(draft, entry.completionId, entry.date, event.practiceId)
-        if (entry.completionId >= draft.nextCompletionId) {
-          draft.nextCompletionId = entry.completionId + 1
-        }
       }
       break
     }
@@ -242,6 +228,134 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       break
     }
 
+    case 'ItemSaved': {
+      if (draft.savedItems.has(event.itemId)) break
+      draft.savedItems.set(event.itemId, {
+        itemId: event.itemId,
+        kind: event.kind,
+        savedAt: event.savedAt,
+      })
+      break
+    }
+
+    case 'ItemUnsaved': {
+      draft.savedItems.delete(event.itemId)
+      break
+    }
+
+    case 'CollectionCreated': {
+      draft.collections.set(event.collectionId, {
+        id: event.collectionId,
+        name: event.name,
+        description: event.description,
+        coverTone: event.coverTone,
+        createdAt: event.at,
+        updatedAt: event.at,
+        refs: [],
+      })
+      break
+    }
+
+    case 'CollectionUpdated': {
+      const collection = draft.collections.get(event.collectionId)
+      if (!collection) break
+      if (event.name !== undefined) collection.name = event.name
+      if (event.description !== undefined) collection.description = event.description ?? undefined
+      if (event.coverTone !== undefined) collection.coverTone = event.coverTone
+      collection.updatedAt = event.at
+      break
+    }
+
+    case 'CollectionDeleted': {
+      draft.collections.delete(event.collectionId)
+      break
+    }
+
+    case 'CollectionItemAdded': {
+      const collection = draft.collections.get(event.collectionId)
+      if (!collection) break
+      if (!collection.refs.some((r) => r.ref === event.ref)) {
+        collection.refs.push({ ref: event.ref, addedAt: event.at })
+      }
+      collection.updatedAt = event.at
+      break
+    }
+
+    case 'CollectionItemRemoved': {
+      const collection = draft.collections.get(event.collectionId)
+      if (!collection) break
+      collection.refs = collection.refs.filter((r) => r.ref !== event.ref)
+      collection.updatedAt = event.at
+      break
+    }
+
+    case 'CollectionItemsReordered': {
+      const collection = draft.collections.get(event.collectionId)
+      if (!collection) break
+      // A member the order doesn't name — added on another device meanwhile —
+      // keeps its place after those it does.
+      const place = (ref: string) => {
+        const i = event.orderedRefs.indexOf(ref)
+        return i === -1 ? event.orderedRefs.length : i
+      }
+      collection.refs.sort((a, b) => place(a.ref) - place(b.ref))
+      collection.updatedAt = event.at
+      break
+    }
+
+    case 'ChurchFavorited': {
+      draft.favoriteChurches.set(event.church.id, event.church)
+      break
+    }
+
+    case 'ChurchUnfavorited': {
+      draft.favoriteChurches.delete(event.churchId)
+      break
+    }
+
+    case 'CheckInLogged': {
+      draft.checkIns.set(event.checkIn.id, event.checkIn)
+      break
+    }
+
+    case 'CheckInRemoved': {
+      draft.checkIns.delete(event.checkInId)
+      break
+    }
+
+    case 'ReadingLogged': {
+      const read = draft.reading.get(event.bookId) ?? { ms: 0, days: new Set<string>() }
+      read.ms += event.ms
+      read.days.add(event.date)
+      draft.reading.set(event.bookId, read)
+      break
+    }
+
+    case 'PreferenceSet': {
+      if (event.value === null) draft.preferences.delete(event.key)
+      else draft.preferences.set(event.key, event.value)
+      break
+    }
+
+    case 'DeviceNamed': {
+      const device = draft.devices.get(event.deviceId)
+      if (device) device.name = event.name
+      else {
+        draft.devices.set(event.deviceId, {
+          id: event.deviceId,
+          name: event.name,
+          platform: event.platform,
+          addedAt: event.at,
+        })
+      }
+      break
+    }
+
+    case 'DeviceRemoved': {
+      draft.devices.delete(event.deviceId)
+      break
+    }
+
     case 'ProgramRestarted': {
       const cursor = draft.cursors.get(event.cursorId)
       if (!cursor) break
@@ -257,7 +371,7 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
 
 function addCompletionToIndexes(
   draft: WritableDraft<EventStoreState>,
-  completionId: number,
+  completionId: string,
   date: string,
   practiceId: string,
 ): void {
@@ -278,7 +392,7 @@ function addCompletionToIndexes(
 
 function removeCompletionFromIndexes(
   draft: WritableDraft<EventStoreState>,
-  completionId: number,
+  completionId: string,
   date: string,
   practiceId: string,
 ): void {

@@ -16,3 +16,7 @@ Run from `apps/backend/`:
 ## Smoke test
 
 `GET /health`, `GET /churches/near?lat=&lng=&radiusKm=`, then one `POST /churches/:id/verify` — 200 first, 429 on rapid repeats confirms the rate-limit binding fires remotely. `pnpm exec wrangler tail` should show no errors.
+
+## Moderation
+
+Corrections land in D1 as `pending` and are settled from the admin panel (apps/admin, the `ember-admin` Worker), which binds this same database. This Worker has no admin routes. The SQL a resolution turns into lives in `src/lib/moderation.ts`, and the desk's own tables (`moderation_*`) are migrated from here with the rest.

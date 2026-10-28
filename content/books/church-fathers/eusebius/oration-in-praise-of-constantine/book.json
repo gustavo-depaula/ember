@@ -2,13 +2,16 @@
   "id": "eusebius-oration-in-praise-of-constantine",
   "cover": "quarter",
   "name": {
-    "en-US": "Oration in Praise of Constantine"
+    "en-US": "Oration in Praise of Constantine",
+    "pt-BR": "Discurso em louvor de Constantino"
   },
   "author": {
-    "en-US": "Eusebius of Caesarea (c. 265-c. 340)"
+    "en-US": "Eusebius of Caesarea (c. 265-c. 340)",
+    "pt-BR": "Eusébio de Cesareia (c. 265-c. 340)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Oration in Praise of Constantine"
+        "en-US": "Oration in Praise of Constantine",
+        "pt-BR": "Discurso em louvor de Constantino"
       }
     }
   ]

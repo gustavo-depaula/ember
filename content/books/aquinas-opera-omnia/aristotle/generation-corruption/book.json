@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on the De Generatione et Corruptione",
-    "la": "Sententia super De Generatione et Corruptione"
+    "la": "Sententia super De Generatione et Corruptione",
+    "pt-BR": "Comentário ao De Generatione et Corruptione"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on Aristotle's *De Generatione et Corruptione* — on substantial change, the elements, and prime matter.",
-    "la": "Expositio *De Generatione et Corruptione* Aristotelis — de mutatione substantiali, de elementis, de materia prima."
+    "la": "Expositio *De Generatione et Corruptione* Aristotelis — de mutatione substantiali, de elementis, de materia prima.",
+    "pt-BR": "Comentário de Santo Tomás de Aquino ao *De Generatione et Corruptione* de Aristóteles — sobre a mudança substancial, os elementos e a matéria primeira."
   },
   "composed": "c. 1272–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Book 1 — Prologue",
-        "la": "Liber 1"
+        "la": "Liber 1",
+        "pt-BR": "Livro 1"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo"
           }
         }
       ]
@@ -51,133 +57,152 @@
       "id": "g2",
       "title": {
         "en-US": "Book 2",
-        "la": "Liber 2"
+        "la": "Liber 2",
+        "pt-BR": "Livro 2"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Aristotle's Preface. Various previous opinions on the difference between generation and alteration.",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — The basic reason for these differing opinions on generation and alteration.",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — What must be treated. Opinions of Democritus and Leucippus.",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — Democritus' argument that natural bodies are composed out of indivisible bodies.",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Lecture 5 — Resolution of Democritus' argument",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Lecture 6 — Does simple generation exist? Problem and solution.",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g2-c007",
           "title": {
             "en-US": "Lecture 7 — The cause on the part of matter why generation never fails.",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g2-c008",
           "title": {
             "en-US": "Lecture 8 — Why, in mutual generation and corruption, there, is sometimes absolute generation and qualified corruption, and conversely.",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g2-c009",
           "title": {
             "en-US": "Lecture 9 — The cause of the difference between absolute and qualified generation in things not reciprocally generated.",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g2-c010",
           "title": {
             "en-US": "Lecture 10 — The difference between generation and alteration.",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g2-c011",
           "title": {
             "en-US": "Lecture 11 — Growth differs from generation and alteration both as to subject and to manner.",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g2-c012",
           "title": {
             "en-US": "Lecture 12 — The subject of growth is not something incorporeal or lacking size.",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g2-c013",
           "title": {
             "en-US": "Lecture 13 — Matter, even as conceived by Platonists, cannot lack size and be the subject of growth.",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g2-c014",
           "title": {
             "en-US": "Lecture 14 — Problems on the nature of that by which something grows.",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g2-c015",
           "title": {
             "en-US": "Lecture 15 — Solution of the difficulty proposed in the previous lecture.",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         },
         {
           "id": "g2-c016",
           "title": {
             "en-US": "Lecture 16 — How growth takes place. Its difference from generation.",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16"
           }
         },
         {
           "id": "g2-c017",
           "title": {
             "en-US": "Lecture 17 — Comparison of growth, to food. How diminution occurs.",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17"
           }
         },
         {
           "id": "g2-c018",
           "title": {
             "en-US": "Lecture 18 — Continuation of Commentary by an Anonymous Commentator",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18"
           }
         }
       ]
@@ -186,14 +211,16 @@
       "id": "g3",
       "title": {
         "en-US": "Book 3",
-        "la": "Liber 3"
+        "la": "Liber 3",
+        "pt-BR": "Livro 3"
       },
       "children": [
         {
           "id": "g3-pr",
           "title": {
             "en-US": "Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo"
           }
         }
       ]

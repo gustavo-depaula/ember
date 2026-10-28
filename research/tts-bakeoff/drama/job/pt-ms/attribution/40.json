@@ -1,0 +1,188 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story and introduces each speech."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God, answering Job out of the whirlwind and judging the friends."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Respondendo o Senhor a Job, do meio do remoinho, disse:"
+   }
+  ],
+  "2": [
+   {
+    "s": "the-lord",
+    "t": "Cinge os teus rins como homem; eu te interrogarei, e me responderás."
+   }
+  ],
+  "3": [
+   {
+    "s": "the-lord",
+    "t": "Porventura queres reduzir a nada a minha justiça, e condenar-me a mim, para te justificares a ti?"
+   }
+  ],
+  "4": [
+   {
+    "s": "the-lord",
+    "t": "Se tu tens um braço (forte) como Deus, e trovejas com voz semelhante,"
+   }
+  ],
+  "5": [
+   {
+    "s": "the-lord",
+    "t": "reveste-te de grandeza e majestade, cobre-te de esplendor e de glória."
+   }
+  ],
+  "6": [
+   {
+    "s": "the-lord",
+    "t": "Lança, em torrentes, a tua ira, e humilha os arrogantes com um só olhar."
+   }
+  ],
+  "7": [
+   {
+    "s": "the-lord",
+    "t": "Com um só olhar humilha os soberbos, aniquila os ímpios no seu lugar."
+   }
+  ],
+  "8": [
+   {
+    "s": "the-lord",
+    "t": "Sepulta-os todos juntos no pó, mergulha em trevas a sua face."
+   }
+  ],
+  "9": [
+   {
+    "s": "the-lord",
+    "t": "Então eu próprio confessarei que a tua dextra poderá salvar-te."
+   }
+  ],
+  "10": [
+   {
+    "s": "the-lord",
+    "t": "Considera o Beemot, criado por mim, como tu, ele come feno como o boi."
+   }
+  ],
+  "11": [
+   {
+    "s": "the-lord",
+    "t": "A sua fortaleza está nos seus lombos, e o seu vigor nos músculos dos seus flancos."
+   }
+  ],
+  "12": [
+   {
+    "s": "the-lord",
+    "t": "Levanta a sua cauda como cedro, os nervos dos seus músculos estão entrelaçados uns nos outros."
+   }
+  ],
+  "13": [
+   {
+    "s": "the-lord",
+    "t": "Os seus ossos são como canas de bronze, a sua estrutura é de barras de ferro."
+   }
+  ],
+  "14": [
+   {
+    "s": "the-lord",
+    "t": "É obra-prima de Deus; aquele que o fez, dotou-o de uma espada."
+   }
+  ],
+  "15": [
+   {
+    "s": "the-lord",
+    "t": "Os montes produzem-lhe ervas; e todos os animais do campo vêm retouçar ali (junto dele)."
+   }
+  ],
+  "16": [
+   {
+    "s": "the-lord",
+    "t": "Dorme à sombra dos lotos, no retiro dos canaviais dos pântanos."
+   }
+  ],
+  "17": [
+   {
+    "s": "the-lord",
+    "t": "Os lotos o cobrem com a sua sombra, os salgueiros da torrente o circundam,"
+   }
+  ],
+  "18": [
+   {
+    "s": "the-lord",
+    "t": "Se o rio crescer, ele não se espanta; ainda que um Jordão lhe chegue à garganta, fica tranquilo."
+   }
+  ],
+  "19": [
+   {
+    "s": "the-lord",
+    "t": "Quem poderá apanhá-lo de frente, e atravessar-lhe as narinas com laços?"
+   }
+  ],
+  "20": [
+   {
+    "s": "the-lord",
+    "t": "Porventura poderás tirar com anzol o Leviatan, e ligar a sua língua com uma corda?"
+   }
+  ],
+  "21": [
+   {
+    "s": "the-lord",
+    "t": "Porventura porás uma argola nos teus narizes, ou furarás a sua queixada com um anel?"
+   }
+  ],
+  "22": [
+   {
+    "s": "the-lord",
+    "t": "Porventura multiplicará os rogos diante de ti, ou te dirá palavras ternas?"
+   }
+  ],
+  "23": [
+   {
+    "s": "the-lord",
+    "t": "Porventura fará ele concerto contigo, e recebê-lo-ás tu por escravo para sempre?"
+   }
+  ],
+  "24": [
+   {
+    "s": "the-lord",
+    "t": "Porventura brincarás com ele como com um pássaro ou o atarás para divertir teus filhos?"
+   }
+  ],
+  "25": [
+   {
+    "s": "the-lord",
+    "t": "Colhê-lo-ão os pescadores em suas redes, dividi-lo-ão os negociantes?"
+   }
+  ],
+  "26": [
+   {
+    "s": "the-lord",
+    "t": "Crivarás de dardos a sua pele, espetarás o arpão na sua cabeça?"
+   }
+  ],
+  "27": [
+   {
+    "s": "the-lord",
+    "t": "Põe a tua mão sobre ele: ficarás escarmentado, não tornarás a fazê-lo."
+   }
+  ],
+  "28": [
+   {
+    "s": "the-lord",
+    "t": "Eis que (quem quiser capturar tal monstro) se enganará nas suas esperanças; a vista (do monstro) bastará para o aterrar."
+   }
+  ]
+ }
+}

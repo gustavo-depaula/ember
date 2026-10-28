@@ -1,0 +1,5 @@
+# Prólogo
+
+O Apóstolo atesta, com estas palavras, que há duas coisas contrárias entre si: *o espírito*, diz ele, *cobiça contra a carne, e a carne contra o espírito*; e, no entanto, de uma e de outra pode vir o pecado: umas vezes há pecado pela fraqueza da carne, outras pela ignorância do espírito; donde diz o Apóstolo aos Coríntios: *purifiquemo-nos de toda mancha da carne e do espírito*. E, assim como o pecado que vem da carne provém da fraqueza da carne — donde em Mateus: *o espírito está pronto, mas a carne é fraca* —, assim o pecado do espírito provém da ignorância do espírito, isto é, quando o espírito é enganado. E por isso, neste domingo, somos armados contra um e outro pecado. Contra o pecado que vem da fraqueza da carne somos armados pelo Apóstolo, na epístola, que diz: *somos devedores à carne, não para vivermos segundo a carne*; contra o pecado que vem do engano do espírito somos armados no evangelho, onde se diz: ***guardai-vos dos falsos profetas*** etc.
+
+Roguemos ao Salvador, que quis que fôssemos cautelosos contra um e outro pecado, que ele mesmo me conceda dizer algo que seja para o seu louvor etc.

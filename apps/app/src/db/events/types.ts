@@ -1,4 +1,11 @@
-import type { CompletionVia, HolyCardCopy, Tier, TimeBlock } from '../schema'
+import type {
+  CheckIn,
+  CompletionVia,
+  FavoriteChurch,
+  HolyCardCopy,
+  Tier,
+  TimeBlock,
+} from '../schema'
 
 type PracticeCreated = {
   type: 'PracticeCreated'
@@ -66,6 +73,7 @@ type SlotUpdated = {
     notify: string | null
     schedule: string
     pins: Record<string, string>
+    minutes: number
   }>
 }
 
@@ -95,18 +103,19 @@ export type PracticeEvent =
 
 type CompletionLogged = {
   type: 'CompletionLogged'
-  completionId: number
+  completionId: string
   practiceId: string
   subId: string | null
   date: string
   completedAt: number
   prayedId?: string
   via?: CompletionVia
+  pins?: Record<string, string>
 }
 
 type CompletionRemoved = {
   type: 'CompletionRemoved'
-  completionId: number
+  completionId: string
   practiceId: string
   date: string
   subId: string | null
@@ -115,7 +124,7 @@ type CompletionRemoved = {
 type CompletionsBatchLogged = {
   type: 'CompletionsBatchLogged'
   practiceId: string
-  entries: { completionId: number; date: string; subId: string; completedAt: number }[]
+  entries: { completionId: string; date: string; subId: string; completedAt: number }[]
 }
 
 export type CompletionEvent = CompletionLogged | CompletionRemoved | CompletionsBatchLogged
@@ -152,12 +161,114 @@ type HolyCardRedeemed = { type: 'HolyCardRedeemed' } & HolyCardCopy
 
 export type HolyCardEvent = HolyCardRedeemed
 
-export type AppEvent = PracticeEvent | CompletionEvent | CursorEvent | HolyCardEvent
+type ItemSaved = { type: 'ItemSaved'; itemId: string; kind: string; savedAt: number }
+
+type ItemUnsaved = { type: 'ItemUnsaved'; itemId: string }
+
+export type SavedItemEvent = ItemSaved | ItemUnsaved
+
+// `at` is when the collection changed: it orders the shelf, most recent first.
+type CollectionCreated = {
+  type: 'CollectionCreated'
+  collectionId: string
+  name: string
+  description?: string
+  coverTone: number
+  at: number
+}
+
+type CollectionUpdated = {
+  type: 'CollectionUpdated'
+  collectionId: string
+  name?: string
+  description?: string | null
+  coverTone?: number
+  at: number
+}
+
+type CollectionDeleted = { type: 'CollectionDeleted'; collectionId: string }
+
+type CollectionItemAdded = {
+  type: 'CollectionItemAdded'
+  collectionId: string
+  ref: string
+  at: number
+}
+
+type CollectionItemRemoved = {
+  type: 'CollectionItemRemoved'
+  collectionId: string
+  ref: string
+  at: number
+}
+
+type CollectionItemsReordered = {
+  type: 'CollectionItemsReordered'
+  collectionId: string
+  orderedRefs: string[]
+  at: number
+}
+
+export type CollectionEvent =
+  | CollectionCreated
+  | CollectionUpdated
+  | CollectionDeleted
+  | CollectionItemAdded
+  | CollectionItemRemoved
+  | CollectionItemsReordered
+
+type ChurchFavorited = { type: 'ChurchFavorited'; church: FavoriteChurch }
+
+type ChurchUnfavorited = { type: 'ChurchUnfavorited'; churchId: string }
+
+type CheckInLogged = { type: 'CheckInLogged'; checkIn: CheckIn }
+
+type CheckInRemoved = { type: 'CheckInRemoved'; checkInId: string }
+
+export type ChurchEvent = ChurchFavorited | ChurchUnfavorited | CheckInLogged | CheckInRemoved
+
+// Time spent reading a book on `date`. Each is an addition, so what two
+// devices read apart sums; `ms: 0` only marks the day as one the book was read.
+type ReadingLogged = { type: 'ReadingLogged'; bookId: string; date: string; ms: number }
+
+export type ReadingEvent = ReadingLogged
+
+// A preference that follows the person from device to device; null clears it.
+type PreferenceSet = { type: 'PreferenceSet'; key: string; value: string | null }
+
+export type PreferenceEvent = PreferenceSet
+
+// The devices signed in to the account, as the account's own devices tell
+// it: the relay knows a device only by an id it can't put a name to.
+type DeviceNamed = {
+  type: 'DeviceNamed'
+  deviceId: string
+  name: string
+  platform: string
+  at: number
+}
+type DeviceRemoved = { type: 'DeviceRemoved'; deviceId: string }
+
+export type DeviceEvent = DeviceNamed | DeviceRemoved
+
+export type AppEvent =
+  | PracticeEvent
+  | CompletionEvent
+  | CursorEvent
+  | HolyCardEvent
+  | SavedItemEvent
+  | CollectionEvent
+  | ChurchEvent
+  | ReadingEvent
+  | PreferenceEvent
+  | DeviceEvent
 
 export type StoredEvent = {
   sequence: number
+  id: string
   type: string
   payload: string
   timestamp: number
   version: number
+  synced: number
 }

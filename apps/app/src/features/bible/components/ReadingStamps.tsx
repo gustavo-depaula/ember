@@ -1,9 +1,8 @@
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
-import { useWindowDimensions } from 'react-native'
 import { ScrollView, Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, usePageWidth } from '@/components'
 import { PracticeCard } from '@/features/covers'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { type BlockTone, jewelTones } from '@/features/explore/bgColor'
@@ -17,8 +16,7 @@ const screenMargin = 24
 
 // The home row's stamp size, shrunk so two still fit side by side on a narrow phone.
 function useStampSize(): number {
-  const { width } = useWindowDimensions()
-  const content = Math.min(width, 640) - screenMargin * 2
+  const content = usePageWidth()
   return Math.min(160, Math.floor((content - gutter) / 2))
 }
 

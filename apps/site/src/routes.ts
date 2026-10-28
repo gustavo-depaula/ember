@@ -1,7 +1,7 @@
 // The site's URL space. Section names are localized (`/prayers/`, `/pt/oracoes/`);
 // item slugs are the corpus ids the app uses (`rosary`, `kempis-imitation-of-christ`),
 // so a link, a saved item or a reading position means the same thing in both.
-import { type Locale, localePrefix } from './lib/locale'
+import { type Locale, localePrefix } from './lib/locales'
 
 const sections = {
   'en-US': {
@@ -18,9 +18,12 @@ const sections = {
     massTimes: 'mass-times',
     plans: 'plans-of-life',
     voices: 'voices',
+    chant: 'chant',
     search: 'search',
     library: 'library',
     day: 'day',
+    connect: 'connect',
+    developers: 'developers',
   },
   'pt-BR': {
     prayers: 'oracoes',
@@ -36,9 +39,12 @@ const sections = {
     massTimes: 'horarios-de-missa',
     plans: 'planos-de-vida',
     voices: 'vozes',
+    chant: 'canto',
     search: 'busca',
     library: 'biblioteca',
     day: 'dia',
+    connect: 'conectar',
+    developers: 'desenvolvedores',
   },
 } as const satisfies Record<Locale, Record<string, string>>
 
@@ -84,6 +90,8 @@ function join(locale: Locale, ...parts: (string | number | undefined)[]): string
   return `${localePrefix[locale]}/${path}${path ? '/' : ''}`
 }
 
+export const shareDirs: Record<Locale, string> = { 'en-US': 'en', 'pt-BR': 'pt' }
+
 /** Corpus ids are `kind/slug`; URLs carry the slug. */
 export function slugOf(id: string): string {
   const slash = id.indexOf('/')
@@ -104,15 +112,21 @@ export function parseIsoDate(iso: string): Date {
 export const href = {
   home: (l: Locale) => join(l),
   /**
-   * The page that presents the app (apps/hearth), published at `/app/`. It
+   * The page that presents the app (apps/hearth), published at `/app/` and `/pt/app/`. It
    * holds both languages and opens in the one asked for.
    */
-  landing: (l: Locale) => (l === 'pt-BR' ? '/app/?lang=pt' : '/app/'),
+  landing: (l: Locale) => (l === 'pt-BR' ? '/pt/app/' : '/app/'),
   privacy: () => '/privacy.html',
   section: (l: Locale, section: Section) => join(l, sections[l][section]),
   prayer: (l: Locale, id: string) => join(l, sections[l].prayers, slugOf(id)),
   prayerDay: (l: Locale, id: string, day: number) =>
     join(l, sections[l].prayers, slugOf(id), `${sections[l].day}-${day}`),
+  /**
+   * The image a prayer's link unfolds into where it is shared. The card is
+   * built as a page at this path without the extension, and photographed after
+   * the build (scripts/share-cards.mjs).
+   */
+  shareCard: (l: Locale, id: string) => `/share/${shareDirs[l]}/${slugOf(id)}.jpg`,
   collection: (l: Locale, id: string) => join(l, sections[l].collections, slugOf(id)),
   book: (l: Locale, id: string) => join(l, sections[l].books, slugOf(id)),
   bookChapter: (l: Locale, id: string, chapter: string) =>
@@ -131,10 +145,31 @@ export const href = {
   office: (l: Locale, date?: Date, hour?: OfficeHour, form?: string) =>
     join(l, sections[l].office, form, date && isoDate(date), hour && hourSlugs[l][hour]),
   massTimesPlace: (l: Locale, ...place: string[]) => join(l, sections[l].massTimes, ...place),
+  /** What the moderators changed in the directory, newest first. */
+  massTimesChanges: (l: Locale) =>
+    join(l, sections[l].massTimes, l === 'pt-BR' ? 'mudancas' : 'changes'),
   church: (l: Locale, id: string) =>
     join(l, sections[l].massTimes, l === 'pt-BR' ? 'igreja' : 'church', id),
   plan: (l: Locale, id: string) => join(l, sections[l].plans, slugOf(id)),
   voice: (l: Locale, id: string) => join(l, sections[l].voices, slugOf(id)),
+  chant: (l: Locale, id: string) => join(l, sections[l].chant, slugOf(id)),
+  /** The developer portal: its overview, or one of its guides. */
+  developers: (l: Locale, doc: DevDoc = 'overview') =>
+    join(l, sections[l].developers, devDocSlugs[l][doc] || undefined),
+}
+
+export const devDocs = ['overview', 'api', 'corpus', 'flows'] as const
+export type DevDoc = (typeof devDocs)[number]
+
+/**
+ * The guides the portal publishes. Only the Mass-times API is open to developers for now; the
+ * corpus and flow DSL guides are written and build, but get no pages and no links until listed.
+ */
+export const publishedDevDocs: readonly DevDoc[] = ['overview', 'api']
+
+const devDocSlugs: Record<Locale, Record<DevDoc, string>> = {
+  'en-US': { overview: '', api: 'api', corpus: 'corpus', flows: 'flows' },
+  'pt-BR': { overview: '', api: 'api', corpus: 'acervo', flows: 'fluxos' },
 }
 
 /** The page for a corpus ref (`practice/rosary`, `book/x#chapter`), if the site has one. */
@@ -147,6 +182,7 @@ export function hrefForRef(l: Locale, ref: string): string | undefined {
   if (kind === 'book') return fragment ? href.bookChapter(l, id, fragment) : href.book(l, id)
   if (kind === 'plan-of-life-template') return href.plan(l, id)
   if (kind === 'creator') return href.voice(l, id)
+  if (kind === 'chant') return href.chant(l, id)
   return undefined
 }
 

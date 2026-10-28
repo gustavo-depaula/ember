@@ -1,0 +1,126 @@
+{
+  "parts": [
+    {
+      "volume": "operaomniainunum10deni",
+      "leaves": [
+        "0688",
+        "0689",
+        "0690",
+        "0691",
+        "0692",
+        "0693",
+        "0694",
+        "0695",
+        "0696",
+        "0697",
+        "0698",
+        "0699",
+        "0700",
+        "0701",
+        "0702",
+        "0703",
+        "0704",
+        "0705",
+        "0706",
+        "0707",
+        "0708",
+        "0709",
+        "0710",
+        "0711",
+        "0712",
+        "0713",
+        "0714",
+        "0715",
+        "0716",
+        "0717",
+        "0718",
+        "0719",
+        "0720",
+        "0721",
+        "0722",
+        "0723",
+        "0724",
+        "0725",
+        "0726",
+        "0727",
+        "0728",
+        "0729",
+        "0730",
+        "0731",
+        "0732",
+        "0733",
+        "0734",
+        "0735",
+        "0736",
+        "0737",
+        "0738",
+        "0739",
+        "0740",
+        "0741",
+        "0742",
+        "0743",
+        "0744",
+        "0745",
+        "0746",
+        "0747",
+        "0748",
+        "0749",
+        "0750",
+        "0751",
+        "0752",
+        "0753",
+        "0754",
+        "0755",
+        "0756",
+        "0757",
+        "0758",
+        "0759",
+        "0760",
+        "0761",
+        "0762",
+        "0763",
+        "0764",
+        "0765",
+        "0766",
+        "0767"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/commentaries/enarratio-in-zachariam",
+  "slug": "enarratio-in-zachariam",
+  "draft": false,
+  "meta": {
+    "id": "denis-enarratio-in-zachariam",
+    "cover": "label",
+    "name": {
+      "la": "Enarratio in Zachariam",
+      "en-US": "Commentary on Zechariah",
+      "pt-BR": "Comentário a Zacarias"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Enarratio in Zachariam.",
+      "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum10deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. X (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  },
+  "toc_group": {
+    "pattern": "CAP\\.?\\s*([IVXLCUH]+)\\b",
+    "label": {
+      "la": "Caput {n}",
+      "en-US": "Chapter {n}",
+      "pt-BR": "Capítulo {n}"
+    }
+  }
+}

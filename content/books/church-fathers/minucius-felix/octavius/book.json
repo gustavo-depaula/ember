@@ -2,13 +2,16 @@
   "id": "minucius-felix-octavius",
   "cover": "quarter",
   "name": {
-    "en-US": "Octavius"
+    "en-US": "Octavius",
+    "pt-BR": "Otávio"
   },
   "author": {
-    "en-US": "Minucius Felix"
+    "en-US": "Minucius Felix",
+    "pt-BR": "Minúcio Félix"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Octavius"
+        "en-US": "Octavius",
+        "pt-BR": "Otávio"
       }
     }
   ]

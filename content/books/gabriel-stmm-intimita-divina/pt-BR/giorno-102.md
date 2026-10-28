@@ -16,8 +16,7 @@ inspirada pelo Espírito Santo, e todavia recuso deliberadamente
 cumpri-la, isso não pode ser sem verdadeira e própria
 imperfeição. Neste caso, minha recusa do melhor
 não pode ser considerada boa, nem pode ser justificada
-pelo pensamento de que, não existindo nenhuma lei ou comando que me imponha aquela ação melhor, eu possa omiti-
-la unicamente para usar minha liberdade; isso seria
+pelo pensamento de que, não existindo nenhuma lei ou comando que me imponha aquela ação melhor, eu possa omiti-la unicamente para usar minha liberdade; isso seria
 abuso da liberdade, a qual me foi dada por Deus não
 senão para tornar-me capaz de aderir ao bem, sem
 deixar-me influenciar pelas paixões. E de fato, em última
@@ -29,15 +28,11 @@ Considerada assim, é claro que a imperfeição voluntária
 nunca pode ser conforme à vontade de Deus,
 portanto também ela, como o pecado, vai na direção oposta da caridade, a qual tende à plena conformidade
 com a vontade divina. Eis portanto a importância,
-
-
 para uma alma que busca a perfeição, de eliminar da sua
-
-
 conduta qualquer imperfeição voluntária. É precisamente
-neste sentido que S. João da Cruz adverte: "Para que a alma
-venha a unir-se perfeitamente com Deus por vontade e amor... requer-se que não consinta com conhecimento e advertência em nenhuma imperfeição"; e ensina
-que basta o apego a uma imperfeição voluntária habitual para impedir "não só a união divina, mas também o progresso na perfeição" (S. I, 11, 3).
+neste sentido que S. João da Cruz adverte: “Para que a alma
+venha a unir-se perfeitamente com Deus por vontade e amor... requer-se que não consinta com conhecimento e advertência em nenhuma imperfeição”; e ensina
+que basta o apego a uma imperfeição voluntária habitual para impedir “não só a união divina, mas também o progresso na perfeição” (S. I, 11, 3).
 
 
 **2** — Querendo descer mais ao concreto, podem considerar-se outros tipos de imperfeição e antes de tudo a transgressão
@@ -49,18 +44,14 @@ proporcionado e suficiente para faltar a uma dessas leis,
 muito facilmente tais transgressões se tornarão pecado
 venial por falta de fim moralmente bom. De fato,
 como ensina S. Tomás, o homem está obrigado a agir sempre
-
-
 por um motivo razoável, por um fim bom. Se o
-
-
 fim é viciado - como seria, por exemplo, transgredir a
 lei do silêncio, do recolhimento ou da modéstia religiosa por
 curiosidade, por comodidade própria e semelhantes - a ação
-torna-se por isso mesmo pecaminosa; e em geral tratar-se-á de "pecados, ao menos leves, de preguiça espiritual, de
+torna-se por isso mesmo pecaminosa; e em geral tratar-se-á de “pecados, ao menos leves, de preguiça espiritual, de
 inconstância, de ingratidão e de certa dureza de coração que não
 aprecia suficientemente o socorro que Deus nos dá para as
-obras melhores" (Salmanticenses). Outro gênero de imperfeição
+obras melhores” (Salmanticenses). Outro gênero de imperfeição
 é certa falta de completude que se verifica num
 ato substancialmente bom, mas executado, por exemplo, com
 um pouco de estreiteza, ou sem empregar nele toda a
@@ -71,8 +62,6 @@ deriva sempre de falta de esforço, de vigor, de ímpeto
 na vida espiritual. É sempre o egoísmo que, de um modo
 ou de outro, tira alguma coisa de Deus para contentar
 o eu. Somos demasiado calculistas, temos medo de dar
-
-
 demais e assim o egoísmo nos corta as asas e nos impede de chegar à plena união com Deus.
 
 ### Colóquio
@@ -83,8 +72,6 @@ egoísmo. Oh, como o sinto, que é precisamente este
 egoísmo a causa de tantas pequenas infidelidades minhas, de tantas
 imperfeições em que caio habitualmente e das quais não
 me importa corrigir-me com o pretexto de que não são
-
-
 pecados!
 
 Mas tais faltas não são sem importância para
@@ -111,11 +98,7 @@ coração, que quero dar-me inteiramente a ti, sabes que meus
 pobres desejos são sinceros, embora ineficazes. Pois bem,
 dá-me Tu um amor real, operativo, capaz de vencer
 todas as resistências do egoísmo, de desmantelar todos os
-
-
 planos dele. Tu que és caridade infinita, fogo consumidor, infunde
-
-
 na minha alma uma centelha do teu amor, para que destrua e queime toda tendência egoísta minha. Se o egoísmo
 é o peso que tenta retardar meu ímpeto para ti,
 faze que teu amor seja um peso ainda mais forte que me

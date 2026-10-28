@@ -1,0 +1,199 @@
+{
+ "cast": {
+  "job": {
+   "name": "Job",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The afflicted just man of Hus, defending his innocence before his friends and God."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "job",
+    "t": "Porém, agora zombam de mim os mais novos que eu, cujos pais noutro tempo não dignaria eu pôr com os cães do meu rebanho!"
+   }
+  ],
+  "2": [
+   {
+    "s": "job",
+    "t": "De que me serviria a força dos seus braços? Não têm vigor algum."
+   }
+  ],
+  "3": [
+   {
+    "s": "job",
+    "t": "Mirrados pela pobreza e pela fome, roem o deserto, terra, de há muito, árida e desolada;"
+   }
+  ],
+  "4": [
+   {
+    "s": "job",
+    "t": "apanham ervas e cascas de árvores, alimentam-se de raízes de giesta."
+   }
+  ],
+  "5": [
+   {
+    "s": "job",
+    "t": "Escorraçados do meio da sociedade, perseguidos com gritos como ladrões,"
+   }
+  ],
+  "6": [
+   {
+    "s": "job",
+    "t": "habitam em horríveis desfiladeiros, nas cavernas da terra, ou nos penhascos,"
+   }
+  ],
+  "7": [
+   {
+    "s": "job",
+    "t": "rugindo entre os silvados e reunindo-se debaixo dos espinheiros."
+   }
+  ],
+  "8": [
+   {
+    "s": "job",
+    "t": "Filhos de ignóbeis e desprezíveis, são mais pisados que a terra."
+   }
+  ],
+  "9": [
+   {
+    "s": "job",
+    "t": "Agora cheguei a ser o assunto das cantigas, o objecto dos escárnios destes tais."
+   }
+  ],
+  "10": [
+   {
+    "s": "job",
+    "t": "Eles abominam-me, fogem para longe de mim, e não receiam cuspir-me no rosto."
+   }
+  ],
+  "11": [
+   {
+    "s": "job",
+    "t": "Perdido todo o respeito, me insultam, não se refreiam na minha presença."
+   }
+  ],
+  "12": [
+   {
+    "s": "job",
+    "t": "A meu lado se levanta a gentalha, e procura caminhos para me perder."
+   }
+  ],
+  "13": [
+   {
+    "s": "job",
+    "t": "Destroem as minhas veredas, preparam a minha ruína, e ninguém os contém."
+   }
+  ],
+  "14": [
+   {
+    "s": "job",
+    "t": "Como por uma larga brecha, irrompem sobre mim, surgem do meio das ruínas."
+   }
+  ],
+  "15": [
+   {
+    "s": "job",
+    "t": "Assaltam-me terrores, a minha prosperidade passou como vento, a minha felicidade passou como nuvem."
+   }
+  ],
+  "16": [
+   {
+    "s": "job",
+    "t": "E agora dentro de mim mesmo se murcha a minha alma, e os dias de aflição apoderam-se de mim."
+   }
+  ],
+  "17": [
+   {
+    "s": "job",
+    "t": "De noite os meus ossos são traspassados de dores, os (males) que me devoram, não dormem."
+   }
+  ],
+  "18": [
+   {
+    "s": "job",
+    "t": "Pela sua violência, a minha veste é deformada; aperta-me como a gola da minha túnica."
+   }
+  ],
+  "19": [
+   {
+    "s": "job",
+    "t": "Atirou-me ao lodo, e sou semelhante ao pó e à cinza."
+   }
+  ],
+  "20": [
+   {
+    "s": "job",
+    "t": "Clamo a ti, e não me ouves, ponho-me diante de ti, e não olhas para mim."
+   }
+  ],
+  "21": [
+   {
+    "s": "job",
+    "t": "Trocaste-te em severo para comigo, e cora a dureza da tua mão me combates."
+   }
+  ],
+  "22": [
+   {
+    "s": "job",
+    "t": "Elevas-me, e, pondo-me sobre o vento, fazes-me debater no meio da tormenta."
+   }
+  ],
+  "23": [
+   {
+    "s": "job",
+    "t": "Sei que me entregarás à morte, onde há casa estabelecida para todo o vivente."
+   }
+  ],
+  "24": [
+   {
+    "s": "job",
+    "t": "Porventura o que vai perecer não estende as mãos, e, na sua infelicidade, não lança um grito?"
+   }
+  ],
+  "25": [
+   {
+    "s": "job",
+    "t": "Eu chorava outrora com aquele que estava aflito, e a minha alma compadecia-se do pobre."
+   }
+  ],
+  "26": [
+   {
+    "s": "job",
+    "t": "Esperava bens, e vieram-me males; esperava a luz, e saíram-me trevas."
+   }
+  ],
+  "27": [
+   {
+    "s": "job",
+    "t": "As minhas entranhas estão-se abrasando sem descanso algum; os dias da aflição surpreenderam-me."
+   }
+  ],
+  "28": [
+   {
+    "s": "job",
+    "t": "Caminho triste, sem conforto, ponho-me a gritar no meio da multidão."
+   }
+  ],
+  "29": [
+   {
+    "s": "job",
+    "t": "Sou (como) irmão dos chacais e companheiro dos avestruzes."
+   }
+  ],
+  "30": [
+   {
+    "s": "job",
+    "t": "A minha pele está denegrida e vai caindo, e os meus ossos secaram-se pelo ardor."
+   }
+  ],
+  "31": [
+   {
+    "s": "job",
+    "t": "A minha citara trocou-se em pranto, e a minha lira em lamentos."
+   }
+  ]
+ }
+}

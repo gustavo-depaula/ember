@@ -77,3 +77,28 @@ export function nextService(
   const kinds = kind ? [kind] : undefined
   return expandUpcoming(services, { from, kinds }).find((u) => u.instant >= from)
 }
+
+// When a service ends: its listed end time, or an hour in when none is listed (about a Mass's length).
+const assumedLengthMs = 60 * 60_000
+
+export function serviceEnd({ service, occurrence, instant }: UpcomingService): Date {
+  return service.endTime && timePattern.test(service.endTime)
+    ? occurrenceInstant({ ...occurrence, startTime: service.endTime })
+    : new Date(instant.getTime() + assumedLengthMs)
+}
+
+// A visitor counts as there for a service from half an hour before it starts until it ends.
+const arriveEarlyMs = 30 * 60_000
+
+// The service on at the church right now, if any: the one whose start is nearest `now` among those
+// whose window holds it.
+export function serviceUnderway(
+  services: Service[],
+  { timezone, now }: { timezone: string; now?: Date },
+): UpcomingService | undefined {
+  const at = (now ?? wallClockNow(timezone)).getTime()
+  const distance = (u: UpcomingService) => Math.abs(u.instant.getTime() - at)
+  return expandUpcoming(services, { from: new Date(at), perService: 1 })
+    .filter((u) => u.instant.getTime() - arriveEarlyMs <= at && at <= serviceEnd(u).getTime())
+    .sort((a, b) => distance(a) - distance(b))[0]
+}

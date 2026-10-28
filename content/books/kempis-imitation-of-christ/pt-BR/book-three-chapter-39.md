@@ -6,4 +6,6 @@ A alma: Senhor, de mui boa vontade vos confio todas as coisas, porque pouco adia
 
 Jesus: Filho, muitas vezes procura o homem com ânsia uma coisa que deseja; logo, porém, que a alcança, muda de parecer, porque as afeições não persistem muito ao mesmo objeto, mas facilmente passam de um para outro. Pelo que, não é pouco renunciar-se o homem a si mesmo, ainda nas coisas pequenas.
 
-O verdadeiro progresso do homem consiste na abnegação de si mesmo, e quem assim se abnegou, goza grande liberdade e segurança. Contudo, o antigo inimigo, o adversário de todo o bem não desiste da tentação, armando dia e noite perigosas ciladas, para ver se pode precipitar algum incauto no laço do seu engano. Vigiai e orai, diz o Senhor, para que não entreis em tentação (Mt 26, 41).
+O verdadeiro progresso do homem consiste na abnegação de si mesmo, e quem assim se abnegou, goza grande liberdade e segurança. Contudo, o antigo inimigo, o adversário de todo o bem não desiste da tentação, armando dia e noite perigosas ciladas, para ver se pode precipitar algum incauto no laço do seu engano. Vigiai e orai, diz o Senhor, para que não entreis em tentação (Mt 26, 41).[^1]
+
+[^1]: Mateus 16, 41.

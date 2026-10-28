@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Disputed Question on the Union of the Incarnate Word",
-    "la": "Quaestio Disputata de Unione Verbi Incarnati"
+    "la": "Quaestio Disputata de Unione Verbi Incarnati",
+    "pt-BR": "Questão Disputada sobre a União do Verbo Encarnado"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short disputed question of five articles on the hypostatic union — Aquinas's late mature treatment of the metaphysics of the Incarnation, contemporaneous with the *Tertia Pars*.",
-    "la": "Quaestio disputata brevis quinque articulorum de unione hypostatica — tractatio Thomae mature serotina de metaphysica Incarnationis, *Tertiae Parti* coaeva."
+    "la": "Quaestio disputata brevis quinque articulorum de unione hypostatica — tractatio Thomae mature serotina de metaphysica Incarnationis, *Tertiae Parti* coaeva.",
+    "pt-BR": "Breve questão disputada de cinco artigos sobre a união hipostática — o tratamento maduro e tardio de Tomás sobre a metafísica da Encarnação, contemporâneo da *Tertia Pars*."
   },
   "composed": "1272",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,42 +39,48 @@
       "id": "prologue",
       "title": {
         "en-US": "Prologue — Prologue",
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "ch001",
       "title": {
         "en-US": "Article 1 — Whether this union was brought about in the person or in the nature",
-        "la": "Articulus 1"
+        "la": "Articulus 1",
+        "pt-BR": "Artigo 1 — Se esta união se fez na pessoa ou na natureza"
       }
     },
     {
       "id": "ch002",
       "title": {
         "en-US": "Article 2 — Whether there is only one hypostasis or suppositum in Christ or two",
-        "la": "Articulus 2"
+        "la": "Articulus 2",
+        "pt-BR": "Artigo 2 — Se em Cristo há uma só hipóstase ou supósito, ou dois"
       }
     },
     {
       "id": "ch003",
       "title": {
         "en-US": "Article 3 — Whether Christ is one or two in the neuter",
-        "la": "Articulus 3"
+        "la": "Articulus 3",
+        "pt-BR": "Artigo 3 — Se Cristo é um ou dois no neutro"
       }
     },
     {
       "id": "ch004",
       "title": {
         "en-US": "Article 4 — Whether there is only one being in Christ",
-        "la": "Articulus 4"
+        "la": "Articulus 4",
+        "pt-BR": "Artigo 4 — Se em Cristo há um só ser"
       }
     },
     {
       "id": "ch005",
       "title": {
         "en-US": "Article 5 — Whether in Christ there is only one activity",
-        "la": "Articulus 5"
+        "la": "Articulus 5",
+        "pt-BR": "Artigo 5 — Se em Cristo há uma só operação"
       }
     }
   ]

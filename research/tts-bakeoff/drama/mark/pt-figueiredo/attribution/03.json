@@ -1,0 +1,313 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Mark; brisk, plain storytelling, including his own Scripture citations."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth, about thirty; calm authority, teaching, commanding and healing."
+  },
+  "unclean-spirit": {
+   "name": "Unclean spirit",
+   "kind": "spirit",
+   "gender": "male",
+   "age": "adult",
+   "note": "Demon(s) crying out through the possessed on recognising Jesus; shrieking, terrified."
+  },
+  "friends-of-jesus": {
+   "name": "Jesus' friends",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "His own people who set out to lay hold on him; alarmed, dismissive."
+  },
+  "scribes": {
+   "name": "Scribes",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Teachers of the law; suspicious and accusing."
+  },
+  "crowd": {
+   "name": "Crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The people gathered around Jesus in Capharnaum; amazed, or relaying a message to him."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "E entrou Jesus outra ocasião na Sinagoga: E achava-se ali um homem que tinha ressecada uma das mãos."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "E os judeus o estavam observando, se curaria em dia de sábado, para o acusarem."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "E disse ao homem que tinha a mão ressecada:"
+   },
+   {
+    "s": "jesus",
+    "t": "Levanta-te para o meio."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "E lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "É lícito em dia de sábado fazer bem, ou mal? salvar a vida, ou tirá-la?"
+   },
+   {
+    "s": "narrator",
+    "t": "Mas eles ficaram em silêncio."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "E olhando-os em roda com indignação, condoído da cegueira de seus corações, disse ao homem:"
+   },
+   {
+    "s": "jesus",
+    "t": "Estende a tua mão."
+   },
+   {
+    "s": "narrator",
+    "t": "E ele a estendeu, e foi-lhe restabelecida a mão."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Mas os fariseus saindo dali, entraram logo em conselho contra ele com os herodianos, para ver como o haviam de arruinar."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Mas Jesus se retirou com os seus discípulos para a parte do mar: E o foi seguindo uma grande multidão de povo da Galileia, e da Judeia,"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "e de Jerusalém, e da Idumeia, e do Além-Jordão: E da Comarca de Tiro, e de Sidônia vieram em grande número ter com ele, quando ouviram as coisas que fazia."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "E mandou aos seus discípulos que lhe aprontassem uma barca em que pudesse entrar, para que o tropel da gente o não oprimisse:"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Porque curava a muitos, de tal maneira que todos os que padeciam algum mal, se arrojavam sobre ele para o tocarem."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "E quando os espíritos imundos o viam, se prostravam diante dele: E gritavam, dizendo:"
+   }
+  ],
+  "12": [
+   {
+    "s": "unclean-spirit",
+    "t": "Tu és o Filho de Deus.",
+    "q": "Many unclean spirits cry out together here; the canonical singular id is used"
+   },
+   {
+    "s": "narrator",
+    "t": "Mas ele fazia-lhes grandes ameaças, que o não dessem a conhecer."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Depois, tendo subido a um monte, chamou Jesus para si os que quis: E vieram a ele."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "E escolheu doze para que andassem com ele: E para os enviar a pregar."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "E lhes deu o poder de curar enfermidades e de expelir demônios."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "A saber, a Simão, a quem pôs o nome de Pedro:"
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "E a Tiago, filho de Zebedeu, e a João, irmão de Tiago, aos quais ele deu o nome de Boanerges, que quer dizer, filhos do trovão:"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "E a André, e a Filipe, e a Bartolomeu, e a Mateus, e a Tomé, e a Tiago, filho de Alfeu, e a Tadeu, e a Simão Cananeu:"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "E a Judas Iscariotes, que foi o mesmo que o entregou."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "E vieram a casa: E concorreu de novo tanta gente, que nem ainda podiam tomar o alimento."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "E quando isto ouviram os seus, saíram para o prender: Porque diziam:"
+   },
+   {
+    "s": "friends-of-jesus",
+    "t": "Ele está furioso.",
+    "q": "\"They said\" may mean his friends/kin or people in general; taken as his friends"
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "E os escribas, que haviam baixado de Jerusalém, diziam:"
+   },
+   {
+    "s": "scribes",
+    "t": "Ele está possesso de Belzebu, e em virtude do príncipe dos demônios, é que expele os demônios."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "E havendo-os convocados, lhes dizia em parábolas:"
+   },
+   {
+    "s": "jesus",
+    "t": "Como pode satanás lançar fora a satanás?"
+   }
+  ],
+  "24": [
+   {
+    "s": "jesus",
+    "t": "E se um reino está dividido contra si mesmo, não pode durar aquele reino."
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "E se uma casa está dividida contra si mesma, não pode permanecer aquela casa."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "E se satanás se levantar contra si mesmo, dividido está, e não poderá subsistir; antes está para acabar."
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "Ninguém pode entrar na casa do valente a roubar as suas alfaias, se primeiro não ata ao valente, para poder depois saquear a sua casa."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "Na verdade vos digo, que aos filhos dos homens perdoados lhes serão todos os pecados, e as blasfêmias que proferirem."
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "Mas o que blasfemar contra o Espírito Santo, nunca jamais terá perdão, mas será réu de eterno delito."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "Porquanto diziam:"
+   },
+   {
+    "s": "scribes",
+    "t": "Está possesso do espírito imundo.",
+    "q": "Narrator's aside recalling the scribes' charge from 3:22"
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "E chegaram sua mãe e seus irmãos: E ficando da parte de fora, o mandaram chamar."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "E estava sentado à roda dele um crescido número de gente, e lhe disseram:"
+   },
+   {
+    "s": "crowd",
+    "t": "Olha que tua mãe e teus irmãos te buscam ali fora."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "E ele lhes respondeu, dizendo:"
+   },
+   {
+    "s": "jesus",
+    "t": "Quem é minha mãe, e meus irmãos?"
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "E olhando para os que estavam sentados à roda de si, lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Eis aqui minha mãe e meus irmãos."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "Porque o que fizer a vontade de Deus, esse é meu irmão, e minha irmã, e minha mãe."
+   }
+  ]
+ }
+}

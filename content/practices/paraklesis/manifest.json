@@ -1,0 +1,53 @@
+{
+	"id": "paraklesis",
+	"icon": "mary",
+	"name": {
+		"en-US": "Paraklesis",
+		"pt-BR": "Paráclese"
+	},
+	"source": {
+		"en-US": "English text from the [Paraklesis booklet](https://mci.archpitt.org/liturgy/Paraklesis.html) of the Metropolitan Cantor Institute, Byzantine Catholic Archeparchy of Pittsburgh (2009), whose foundational text is the *Iereiskij Molitvoslov* (Rome, 1950), set out here as prayed without a priest. The Gospel is read from the Bible; Psalm 142 and the psalm verses are the Douay-Rheims. Psalm 50 as in the corpus's Byzantine morning rule. The Portuguese is translated from that English for this app, with the common prayers from the *Pequeno Devocionário Ortodoxo* (Ortodoxia.pt, 2019) and Psalm 142 and the psalm verses from Matos Soares.",
+		"pt-BR": "Texto inglês do [livreto da Paráclese](https://mci.archpitt.org/liturgy/Paraklesis.html) do Metropolitan Cantor Institute, Arquieparquia Católica Bizantina de Pittsburgh (2009), cujo texto de base é o *Iereiskij Molitvoslov* (Roma, 1950), disposto aqui como se reza sem sacerdote. O Evangelho lê-se da Bíblia; o Salmo 142 e os versículos dos salmos são da Douay-Rheims. O Salmo 50 como na regra matinal bizantina do corpus. O português foi traduzido desse inglês para este aplicativo, com as orações comuns do *Pequeno Devocionário Ortodoxo* (Ortodoxia.pt, 2019) e o Salmo 142 e os versículos dos salmos de Matos Soares."
+	},
+	"categories": [
+		"marian",
+		"byzantine"
+	],
+	"estimatedMinutes": 35,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The Office of Consolation to the Most Holy Theotokos: a canon of supplication sung to the Mother of God in any need of soul or body.",
+		"pt-BR": "O Ofício de Consolação à Santíssima Mãe de Deus: um cânon de súplica cantado à Mãe de Deus em qualquer necessidade da alma ou do corpo."
+	},
+	"history": {
+		"en-US": "*Paraklesis* is Greek for consolation or supplication. The canon at its heart is the work of the monk Theosteriktos, of the ninth century. The Byzantine churches sing it in times of sickness, distress or temptation, and on the evenings of the Dormition fast, from the first to the fourteenth of August.",
+		"pt-BR": "*Paráclese* é o grego para consolação ou súplica. O cânon que está no seu centro é obra do monge Teostericto, do século IX. As Igrejas bizantinas o cantam em tempo de doença, angústia ou tentação, e nas tardes do jejum da Dormição, de primeiro a catorze de agosto."
+	},
+	"howToPray": {
+		"en-US": "Pray standing before an icon of the Mother of God, for yourself or for someone in need, whom you may name before you begin. The refrain *O most holy Theotokos, save us* is said before each verse of the canon. When time is short, the canon itself, from the first ode to the ninth, can be prayed alone.",
+		"pt-BR": "Reze de pé diante de um ícone da Mãe de Deus, por si ou por alguém em necessidade, que pode nomear antes de começar. O refrão *Santíssima Mãe de Deus, salvai-nos* diz-se antes de cada estrofe do cânon. Quando o tempo é curto, pode-se rezar só o cânon, da primeira ode à nona."
+	},
+	"tags": [
+		"byzantine",
+		"eastern",
+		"marian",
+		"theotokos",
+		"canon",
+		"supplication",
+		"sickness"
+	],
+	"defaults": {
+		"sortOrder": 22,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

@@ -1,0 +1,57 @@
+{
+  "parts": [
+    {
+      "volume": "operaomnia38deni",
+      "leaves": [
+        "0257",
+        "0258",
+        "0259",
+        "0260",
+        "0261",
+        "0262",
+        "0263",
+        "0264",
+        "0265",
+        "0266",
+        "0267",
+        "0268",
+        "0269",
+        "0270",
+        "0271",
+        "0272",
+        "0273",
+        "0274",
+        "0275"
+      ]
+    }
+  ],
+  "path": "denis-opera-omnia/opera-minora/de-reformatione-monialium",
+  "slug": "de-reformatione-monialium",
+  "draft": false,
+  "meta": {
+    "id": "denis-de-reformatione-monialium",
+    "cover": "label",
+    "name": {
+      "la": "De reformatione monialium dialogus",
+      "en-US": "Dialogue on the Reform of Nuns",
+      "pt-BR": "Diálogo sobre a reforma das monjas"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "De reformatione monialium dialogus.",
+      "en-US": "One of Denis the Carthusian's minor works.",
+      "pt-BR": "Uma das obras menores de Dionísio, o Cartuxo."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomnia38deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XXXVIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  }
+}

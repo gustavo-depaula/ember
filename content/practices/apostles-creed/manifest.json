@@ -40,7 +40,8 @@
 					"sl": "Verujem v Boga Očeta vsemogočnega, stvarnika nebes in zemlje.\n\nIn v Jezusa Kristusa, Sina njegovega edinega, Gospoda našega; ki je bil spočet od Svetega Duha, rojen iz Marije Device; trpel pod Poncijem Pilatom, križan bil, umrl in bil v grob položen; šel pred pekel, tretji dan od mrtvih vstal; šel v nebesa; sedi na desnici Boga Očeta vsemogočnega; od ondod bo prišel sodit žive in mrtve.\n\nVerujem v Svetega Duha; sveto katoliško Cerkev, občestvo svetnikov; odpuščanje grehov; vstajenje mesa in večno življenje. Amen.",
 					"sv": "Jag tror på Gud, den allsmäktige Fadern, himlens och jordens skapare.\n\nOch på Jesus Kristus, hans ende Son, vår Herre, som blev avlad genom den helige Ande, föddes av jungfru Maria, led under Pontius Pilatus, korsfästes, dog och begravdes, steg ner till dödsriket, uppstod på tredje dagen från de döda, steg upp till himlen, sitter på Guds, den allsmäktige Faderns, högra sida och skall komma därifrån för att döma levande och döda.\n\nJag tror på den helige Ande, den heliga, katolska kyrkan, de heligas gemenskap, syndernas förlåtelse, köttets uppståndelse och det eviga livet. Amen."
 				}
-			}
+			},
+			{"type": "chant", "ref": "chant/credo-in-deum"}
 		]
 	}
 }

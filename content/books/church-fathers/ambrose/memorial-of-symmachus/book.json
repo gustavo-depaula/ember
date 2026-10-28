@@ -2,13 +2,16 @@
   "id": "ambrose-memorial-of-symmachus",
   "cover": "quarter",
   "name": {
-    "en-US": "Memorial of Symmachus"
+    "en-US": "Memorial of Symmachus",
+    "pt-BR": "Memorial de Símaco"
   },
   "author": {
-    "en-US": "Ambrose (340-397)"
+    "en-US": "Ambrose (340-397)",
+    "pt-BR": "Santo Ambrósio (340-397)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Memorial of Symmachus"
+        "en-US": "Memorial of Symmachus",
+        "pt-BR": "Memorial de Símaco"
       }
     }
   ]

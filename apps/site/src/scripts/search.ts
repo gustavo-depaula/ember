@@ -56,12 +56,12 @@ if (root) {
     const results = searchIndex(data.catalog as IndexEntry[], query)
     const of = (kind: string) =>
       results
-        .filter((r) => r.kind === kind)
-        .map((r) =>
+        .filter((hit) => hit.result.kind === kind)
+        .map(({ result: r, caption }) =>
           row(
             urls.get(`${r.kind}/${r.id}`) ?? '#',
             r.title,
-            'subtitle' in r ? r.subtitle : undefined,
+            caption ?? ('subtitle' in r ? r.subtitle : undefined),
           ),
         )
     const html = [
@@ -72,6 +72,7 @@ if (root) {
       ),
       group('collection', of('collection')),
       group('book', of('book')),
+      group('chant', of('chant')),
       group(
         'bible',
         extraMatches('bible', tokens).map((e) => row(e.url, e.title, e.sub)),

@@ -1,0 +1,202 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Ember Days — the page of days</title>
+<style>
+  @font-face { font-family: Junicode; src: url('__JUNICODE__'); }
+  @font-face { font-family: Junicode; font-style: italic; src: url('__JUNICODE_ITALIC__'); }
+  @font-face { font-family: Garamond; src: url('__GARAMOND__'); }
+  @font-face { font-family: Garamond; font-style: italic; src: url('__GARAMOND_ITALIC__'); }
+  @font-face { font-family: Cinzel; src: url('__CINZEL__'); }
+
+  /* The app's light theme. */
+  :root { --bg: #ffffff; --ink: #2c2418; --muted: #6b5d4f; --gold: #c9a84c; --goldSubtle: #d4c088;
+          --border: #e5ddd2; --burgundy: #6b1d2a; --wallEmpty: #ece6da; }
+  body { margin: 0; padding: 32px 28px 48px; background: #e4dccb; color: var(--ink);
+         font: 19px/27px Garamond, Georgia, serif; }
+  h1 { font: 400 20px Cinzel; letter-spacing: 3px; margin: 0 0 6px; color: #4a3c22; }
+  .lede { max-width: 860px; margin: 0 0 28px; color: #5d5039; font-size: 18px; line-height: 25px; }
+  .shelf { display: flex; flex-wrap: wrap; gap: 30px 26px; align-items: flex-start; }
+  .state { width: 390px; }
+  .state h2 { font: 400 13px Cinzel; letter-spacing: 2px; margin: 0 0 2px; color: #4a3c22; }
+  .state p.when { margin: 0 0 10px; font-size: 15px; line-height: 20px; color: #6f6149; font-style: italic; }
+  .phone { background: var(--bg); border-radius: 34px; padding: 30px 24px 26px; min-height: 780px;
+           box-shadow: 0 1px 0 #fff inset, 0 10px 30px rgba(60, 45, 20, .18); box-sizing: border-box; }
+
+  .head { display: flex; align-items: center; gap: 16px; }
+  .head .half { flex: 1; display: flex; align-items: center; gap: 16px; }
+  .rule { flex: 1; height: 0; border-top: .5px solid var(--border); }
+  .chev { font-size: 26px; line-height: 20px; margin-left: -3px; color: var(--ink); }
+  .cross { color: var(--burgundy); font-size: 16px; }
+  .title { font: 400 46px/58px Junicode; text-align: center; padding-top: 32px; }
+  .caption { font-style: italic; color: var(--muted); font-size: 18px; line-height: 24px; text-align: center;
+             padding: 4px 0 24px; }
+
+  .stars { display: flex; justify-content: center; gap: 46px; padding: 16px 0 8px; }
+  .stars .cell { width: 34px; display: flex; flex-direction: column; align-items: center; gap: 4px; }
+  .stars .dow { font: 10px Cinzel; letter-spacing: 1px; color: var(--muted); }
+  .stars .glyph { height: 26px; line-height: 26px; }
+  .stars .num { font-size: 16px; line-height: 20px; color: var(--muted); }
+  .stars .num.now { color: var(--ink); }
+  .month { font: 10px Cinzel; letter-spacing: 1.5px; color: var(--muted); text-align: center; padding-bottom: 14px;
+           border-bottom: .5px solid var(--border); }
+
+  .hero { display: flex; flex-direction: column; align-items: center; padding-top: 30px; }
+  .numeral { font: 26px/34px Junicode; color: var(--gold); }
+  .name { font: italic 30px/38px Junicode; text-align: center; }
+  .sub { font: italic 18px/24px Junicode; color: var(--muted); }
+  .excerpt { font-size: 21px; line-height: 28px; padding-top: 22px; text-align: justify; hyphens: auto;
+             display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+  .verse { font-size: 21px; line-height: 28px; padding-top: 18px; text-align: center; font-style: italic;
+           color: var(--muted); }
+  .note { font-size: 17px; line-height: 23px; padding-top: 16px; text-align: center; font-style: italic;
+          color: var(--muted); }
+  .bar { align-self: stretch; margin: 24px 30px 0; height: 50px; border-radius: 25px; display: flex;
+         align-items: center; justify-content: center; font: 18px Cinzel; letter-spacing: 1.5px; }
+  .bar.pray { background: var(--gold); color: var(--bg); }
+  .bar.date { border: 1px solid var(--goldSubtle); color: var(--gold); font-size: 15px; }
+  .foot { color: var(--muted); font-size: 21px; min-height: 48px; display: flex; align-items: center; }
+  .feet { display: flex; justify-content: center; gap: 24px; padding-top: 14px; }
+
+  .fleuron { display: flex; align-items: center; gap: 16px; padding: 30px 0 14px; color: var(--gold); }
+  .fleuron i { flex: 1; border-top: .5px solid var(--goldSubtle); }
+
+  .line { display: flex; align-items: baseline; gap: 8px; min-height: 36px; padding: 4px 0; box-sizing: border-box; }
+  .line .n { font: 16px Junicode; min-width: 40px; color: var(--muted); }
+  .line .t { white-space: nowrap; }
+  .line .t.faded { color: var(--muted); }
+  .line .dots { flex: 1; overflow: hidden; white-space: nowrap; font-size: 14px; color: var(--muted); opacity: .6; }
+  .line .end { font-size: 14px; color: var(--muted); white-space: nowrap; }
+  .line .end.star { color: var(--gold); font-size: 16px; }
+  .line .end.missed { font-style: italic; }
+
+  .cards { display: flex; justify-content: space-between; padding-top: 10px; }
+  .cardcell { width: 76px; text-align: center; }
+  .card { width: 76px; height: 114px; border-radius: 7px; border: 1.5px solid var(--gold); overflow: hidden;
+          background: #f3e9d2; box-sizing: border-box; }
+  .card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  /* Not held yet: the card as an uncoloured print. */
+  .card.veiled { border-color: var(--goldSubtle); }
+  .card.veiled img { filter: grayscale(1) sepia(.9) contrast(.85) brightness(1.18); opacity: .5; }
+  .cardcell span { display: block; font: 9px Cinzel; letter-spacing: 1px; color: var(--muted); padding-top: 5px; }
+  .card.big { width: 150px; height: 225px; border-width: 2px; border-radius: 12px; margin-top: 22px; }
+</style>
+</head>
+<body>
+<h1>EMBER DAYS · THE PAGE OF DAYS</h1>
+<p class="lede">One page, opened from the rule, from browsing and from the Ember cards, in the five states it can be in. It is the novena's page of days with two changes: its three days are never begun or restarted, they simply come round; and beneath them it keeps the year's four cards. The prayer itself is one tap further, as it is for a novena.</p>
+<div class="shelf" id="root"></div>
+<script>
+const seasons = __SEASONS__
+const collects = __COLLECTS__
+const advent = seasons[0]
+const dayNames = ['Ember Wednesday', 'Ember Friday', 'Ember Saturday']
+const numerals = ['I', 'II', 'III']
+const dow = ['WED', 'FRI', 'SAT']
+const short = (iso) => new Date(`${iso}T00:00:00`).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })
+const dayOf = (iso) => Number(iso.slice(8))
+
+// A day is 'kept', 'missed', 'today' or 'ahead'.
+const glyphs = {
+  kept: ['✦', 18, 'var(--gold)'],
+  today: ['✧', 18, 'var(--muted)'],
+  missed: ['○', 10, 'var(--muted)'],
+  ahead: ['●', 4, 'var(--wallEmpty)'],
+}
+
+const header = (caption) => `
+  <div class="head"><div class="half"><span class="chev">‹</span><i class="rule"></i></div>
+    <span class="cross">✠</span><i class="rule"></i></div>
+  <div class="title">Ember Days</div>
+  <div class="caption">${caption}</div>
+  <div class="head"><i class="rule"></i></div>`
+
+const stars = (marks) => `
+  <div class="stars">${marks.map((m, i) => {
+    const [char, size, color] = glyphs[m]
+    return `<div class="cell"><span class="dow">${dow[i]}</span>
+      <span class="glyph" style="font-size:${size}px;color:${color}">${char}</span>
+      <span class="num ${m === 'today' ? 'now' : ''}">${dayOf(advent.days[i])}</span></div>`
+  }).join('')}</div>
+  <div class="month">DECEMBER</div>`
+
+const line = (n, name, end, kind = '') => `
+  <div class="line"><span class="n">${n}</span><span class="t ${kind ? 'faded' : ''}">${name}</span>
+    <span class="dots">${' ·'.repeat(60)}</span><span class="end ${kind}">${end}</span></div>`
+
+const dayLines = (marks, skip) => marks.map((m, i) => i === skip ? '' : line(numerals[i], dayNames[i],
+  m === 'kept' ? '✦' : m === 'missed' ? 'missed' : short(advent.days[i]),
+  m === 'kept' ? 'star' : m === 'missed' ? 'missed' : '')).join('')
+
+const fleuron = '<div class="fleuron"><i></i>❦<i></i></div>'
+
+const cards = (held) => `<div class="cards">${seasons.map((s) => `
+  <div class="cardcell"><div class="card ${held.includes(s.id) ? '' : 'veiled'}"><img src="${s.art}"></div>
+  <span>${s.name.replace(' Ember Days', '').replace('Lenten', 'Lent').toUpperCase()}</span></div>`).join('')}</div>`
+
+const today = (i, marks) => `
+  <div class="hero"><span class="numeral">${numerals[i]}</span><span class="name">${dayNames[i]}</span>
+    <span class="sub">Advent</span><div class="excerpt">${collects[i]}</div>
+    <div class="bar pray">PRAY</div></div>`
+
+const states = [
+  {
+    title: 'A · NOT YET IN THE RULE',
+    when: '9 October. Reached from browsing or from a card.',
+    body: () => `${header('Three days, four times a year')}
+      <div class="hero"><div class="verse" style="font-style:normal;color:var(--ink)">Wednesday, Friday and Saturday of fast and prayer: in Lent, at Pentecost, in September and in Advent.</div>
+        <div class="bar pray">ADD TO MY RULE</div>
+        <div class="feet"><span class="foot">Read the prayer ›</span></div></div>
+      ${fleuron}
+      ${seasons.map((s, i) => line(['I', 'II', 'III', 'IV'][i], s.name.replace(' Ember Days', '').replace('Lenten', 'Lent'),
+        `${s.days.map(dayOf).join(' · ')} ${short(s.days[0]).split(' ')[1]}`)).join('')}
+      <div style="height:22px"></div>${cards([])}`,
+  },
+  {
+    title: 'B · IN THE RULE, THE WEEK FAR OFF',
+    when: '9 October. The days wait for their dates.',
+    body: () => `${header('Advent · in 68 days')}${stars(['ahead', 'ahead', 'ahead'])}
+      <div class="hero"><span class="name">${advent.name}</span>
+        <div class="verse">${advent.verse}</div>
+        <div class="bar date">WEDNESDAY, 16 DECEMBER</div>
+        <div class="feet"><span class="foot">Read ahead</span></div></div>
+      ${fleuron}${dayLines(['ahead', 'ahead', 'ahead'])}
+      <div style="height:22px"></div>${cards([])}
+      <div class="feet"><span class="foot">In my rule ›</span></div>`,
+  },
+  {
+    title: 'C · A WEEK UNDER WAY',
+    when: 'Ember Friday, 18 December. Wednesday was kept.',
+    body: () => `${header('1 of 3 kept')}${stars(['kept', 'today', 'ahead'])}
+      ${today(1)}${fleuron}${dayLines(['kept', 'today', 'ahead'], 1)}
+      <div style="height:22px"></div>${cards([])}
+      <div class="feet"><span class="foot">In my rule ›</span></div>`,
+  },
+  {
+    title: 'D · A WEEK KEPT WHOLE',
+    when: 'Sunday, 20 December. The card is given.',
+    body: () => `${header('3 of 3 kept')}${stars(['kept', 'kept', 'kept'])}
+      <div class="hero"><span class="name">The Ember Days<br>of Advent are kept</span>
+        <div class="card big"><img src="${advent.art}"></div>
+        <div class="note">Their card is yours. Lent's begin on 17 February.</div></div>
+      ${fleuron}${dayLines(['kept', 'kept', 'kept'])}
+      <div style="height:22px"></div>${cards(['advent'])}`,
+  },
+  {
+    title: 'E · A DAY MISSED',
+    when: 'Ember Saturday, 19 December. Friday went by.',
+    body: () => `${header('1 of 3 kept')}${stars(['kept', 'missed', 'today'])}
+      ${today(2)}
+      <div class="note">Friday went by unkept, and a fast can't be made up: this week gives no card. Lent's begin on 17 February.</div>
+      ${fleuron}${dayLines(['kept', 'missed', 'today'], 2)}
+      <div style="height:22px"></div>${cards([])}
+      <div class="feet"><span class="foot">In my rule ›</span></div>`,
+  },
+]
+
+document.getElementById('root').innerHTML = states.map((s) => `
+  <div class="state"><h2>${s.title}</h2><p class="when">${s.when}</p><div class="phone">${s.body()}</div></div>`).join('')
+</script>
+</body>
+</html>

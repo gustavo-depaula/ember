@@ -1,0 +1,437 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; sober, urgent storytelling, grave through the Passion."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; authoritative and prophetic in ch. 13, sorrowful yet resolute in the Passion, commanding after the Resurrection."
+  },
+  "chief-priests": {
+   "name": "The chief priests",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "Temple leaders, here speaking together with the scribes; scheming in private, mocking at the cross."
+  },
+  "bystanders": {
+   "name": "Bystanders",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Those standing by: pressing Peter in the courtyard; mishearing Jesus' cry at the cross."
+  },
+  "pilate": {
+   "name": "Pontius Pilate",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Roman governor; cool, puzzled, half-mocking, yielding to the crowd."
+  },
+  "crowd": {
+   "name": "The crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The multitude before Pilate, stirred up by the chief priests; shouting."
+  },
+  "soldiers": {
+   "name": "The soldiers",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Roman soldiers of the band; coarse mock homage."
+  },
+  "passers-by": {
+   "name": "Passers-by at the cross",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "People passing Golgotha, wagging their heads and taunting."
+  },
+  "bystander-with-sponge": {
+   "name": "Bystander with the sponge",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "One of those at the cross who runs to offer vinegar; curious, half-mocking."
+  },
+  "centurion": {
+   "name": "The centurion",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Roman officer facing the cross; awed confession."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Logo pela manhã, tiveram conselho os príncipes dos sacerdotes com os anciães, os escribas e com todo o Sinédrio. Manietando Jesus, o levaram e entregaram a Pilatos."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Pilatos perguntou-lhe:"
+   },
+   {
+    "s": "pilate",
+    "t": "\"Tu és o Rei dos Judeus?\""
+   },
+   {
+    "s": "narrator",
+    "t": "Ele respondeu-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Tu o dizes.\""
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Os príncipes dos sacerdotes acusavam-no de muitas coisas."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Pilatos interrogou-o novamente:"
+   },
+   {
+    "s": "pilate",
+    "t": "\"Não respondes coisa alguma? Vê de quantas coisas te acusam.\""
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Mas Jesus não respondeu mais nada, de sorte que Pilatos estava admirado."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Ora ele costumava no dia da festa (de Páscoa) soltar-lhes um dos presos, qualquer que eles pedissem."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Havia um chamado Barrabás, que estava preso com outros sediciosos, o qual, num motim, tinha cometido um homicídio."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Juntando-se o povo, começou a pedir o (indulto) que sempre lhes concedia."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Pilatos respondeu-lhes:"
+   },
+   {
+    "s": "pilate",
+    "t": "\"Quereis que vos solte o Rei dos Judeus?\""
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Porque sabia que os príncipes dos sacerdotes o tinham entregado por inveja."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Porém, os príncipes dos sacerdotes, incitaram o povo a que pedisse antes a liberdade de Barrabás."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Pilatos, falando outra vez, disse-lhes:"
+   },
+   {
+    "s": "pilate",
+    "t": "\"Que quereis pois que eu faça ao Rei dos Judeus?\""
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Eles tornaram a gritar:"
+   },
+   {
+    "s": "crowd",
+    "t": "\"Crucifica-o!\""
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Pilatos, porém, dizia-lhes:"
+   },
+   {
+    "s": "pilate",
+    "t": "\"Que mal fez ele?\""
+   },
+   {
+    "s": "narrator",
+    "t": "Mas eles cada vez gritavam mais:"
+   },
+   {
+    "s": "crowd",
+    "t": "\"Crucifica-o!\""
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Então Pilatos, querendo satisfazer o povo, soltou-lhes Barrabás. Depois de fazer açoutar Jesus, entregou-o para ser crucificado."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Os soldados conduziram-no ao interior do átrio, isto é, ao Pretório, e ali juntaram toda a coorte."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Revestiram-no de púrpura e cingiram-lhe a cabeça com uma coroa entretecida de espinhos."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "E começaram a saudá-lo:"
+   },
+   {
+    "s": "soldiers",
+    "t": "\"Salve, Rei dos Judeus!\""
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "E davam-lhe na cabeça com uma cana, cuspiam-lhe no rosto, e, pondo-se de joelhos, faziam-lhe reverências."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Depois de o terem escarnecido, despojaram-no da púrpura, vestiram-lhe os seus vestidos, e levaram-no para o crucificar."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Obrigarem um certo homem que a a passar, Simão de Cirene, que vinha do campo, pai de Alexandre e de Rufo, a levar a cruz."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Conduziram-no ao lugar do Gólgota, que quer dizer lugar do Crânio."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Davam-lhe a beber vinho misturado com mirra, mas ele não o tomou."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Tendo-o crucificado, dividiram os seus vestidos, lançando sortes sobre eles, para ver a parte que cada um levaria."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Era a hora tércia quando o crucificaram."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "A causa da sua condenação estava escrita nesta inscrição: O REI DOS JUDEUS.",
+    "q": "the written inscription \"The King of the Jews.\" is read by the narrator, not spoken by anyone"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Com ele crucificaram dois ladrões, um à sua direita, e outro à esquerda."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Cumpriu-se a Escritura, que diz: Foi contado entre os maus."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Os que iam passando blasfemavam, abanando as suas cabeças, e dizendo:"
+   },
+   {
+    "s": "passers-by",
+    "t": "\"Ah! tu, que destróis o templo de Deus, e o reedificas em três dias,"
+   }
+  ],
+  "30": [
+   {
+    "s": "passers-by",
+    "t": "salva-te a ti mesmo, descendo da cruz.\""
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Do mesmo modo, escarnecendo-o também os príncipes dos sacerdotes e os escribas, diziam entre si:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "\"Salvou os outros, e não se pode salvar a si mesmo.",
+    "q": "spoken by the chief priests with the scribes"
+   }
+  ],
+  "32": [
+   {
+    "s": "chief-priests",
+    "t": "O Cristo, o Rei de Israel desça agora da cruz, para que vejamos e acreditemos.\""
+   },
+   {
+    "s": "narrator",
+    "t": "Também os que tinham sido crucificados com ele o insultavam."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Chegada a hora sexta, cobriu-se toda a terra de trevas até à hora nona."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "E, à hora nona, exclamou Jesus em alta voz:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Eloí, Eloí, lamma sabachtani?\""
+   },
+   {
+    "s": "narrator",
+    "t": "que quer dizer: \"Deus meu. Deus meu, porque me desamparaste?\"",
+    "q": "the translation \"My God, my God, why hast thou forsaken me?\" is the narrator's gloss per convention; could be voiced by Jesus; introduced as a gloss (\"que quer dizer:\") though printed in quotes; kept with the narrator as in the English"
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Ouvindo isto, alguns dos circunstantes diziam:"
+   },
+   {
+    "s": "bystanders",
+    "t": "\"Eis que chama por Elias.\""
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "Correndo um, e ensopando uma esponja em vinagre, e atando-a numa cana, dava-lhe de beber, dizendo:"
+   },
+   {
+    "s": "bystander-with-sponge",
+    "t": "\"Deixai, vejamos se Elias vem tirá-lo.\""
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "Mas Jesus, dando um grande brado, expirou."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "O véu do templo rasgou-se em duas partes, de alto a baixo."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "O centurião, que estava defronte, vendo que Jesus expirava dando este brado, disse:"
+   },
+   {
+    "s": "centurion",
+    "t": "\"Verdadeiramente este homem era Filho de Deus.\""
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "Encontravam-se também ali algumas mulheres vindo de longe, entre as quais estava Maria Madalena, Maria, mãe de Tiago menor e de José, e Salomé,"
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "as quais já o seguiam e serviam quando ele estava na Galileia, e muitas outras, que, juntamente com ele, tinham subido a Jerusalém."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "Quando era já tarde - pois era a Preparação, isto é, a vigília de sábado -,"
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "foi José de Arimateia, membro ilustre do Sinédrio, que também esperava o reino de Deus, apresentou-se corajosamente a Pilatos, e pediu-lhe o corpo de Jesus."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "Pilatos admirou-se de que estivesse já morto; mandando chamar o centurião, perguntou-lhe se estava já morto."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "Informado pelo centurião, deu o corpo a José."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "José, tendo comprado um lençol, e tirando-o da cruz, envolveu-o no lençol, depositou-o num sepulcro, que estava aberto na rocha, e rolou uma pedra para diante da boca do sepulcro."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "Entretanto Maria Madalena e Maria, mãe de José, estavam observando onde era depositado."
+   }
+  ]
+ }
+}

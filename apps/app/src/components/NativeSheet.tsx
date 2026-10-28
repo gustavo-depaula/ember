@@ -2,11 +2,13 @@ import { BottomSheet, Group, Host, RNHostView } from '@expo/ui/swift-ui'
 import {
   type PresentationDetent,
   presentationBackground,
+  presentationBackgroundInteraction,
   presentationDetents,
   presentationDragIndicator,
+  presentationSizing,
 } from '@expo/ui/swift-ui/modifiers'
 import { type ReactElement, useEffect } from 'react'
-import { Platform, StyleSheet, useWindowDimensions } from 'react-native'
+import { Platform, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme } from 'tamagui'
 
@@ -23,6 +25,9 @@ function sheetDetents(fraction: number): PresentationDetent[] {
   return detents
 }
 
+// What the page sheet leaves of the window above and below it.
+const pageSheetMargin = 80
+
 /**
  * A native iOS sheet over the screen, opening to `fraction` of it. `children`
  * gets the props for its list, the height its content should fill, and whether
@@ -31,10 +36,13 @@ function sheetDetents(fraction: number): PresentationDetent[] {
 export function NativeSheet({
   sheet,
   fraction = 0.6,
+  letsThrough = false,
   children,
 }: {
   sheet: SheetController
   fraction?: number
+  /** Part-way up, the screen behind stays in use: it scrolls and takes taps, undimmed. */
+  letsThrough?: boolean
   children: (state: {
     scroll: { scrollEnabled: boolean } & ReturnType<typeof pullDown>
     height: number
@@ -49,9 +57,17 @@ export function NativeSheet({
   const { width, height } = useWindowDimensions()
   const detents = sheetDetents(fraction)
   const expanded = detent === detents.length - 1
+  // An iPad window wide enough for the regular size class floats the sheet in
+  // the middle and ignores detents. Its default form sheet is a small card that
+  // clipped a list sized to the window, so it gets the taller page sheet.
+  const floating = Platform.OS === 'ios' && Platform.isPad && width >= 700
   // The native sheet hosts its content at a fixed size, so the content follows
   // the detent; the full one sits under the status bar.
-  const contentHeight = expanded ? height - insets.top : height * fraction
+  const contentHeight = (() => {
+    if (floating) return height - insets.top - insets.bottom - pageSheetMargin
+    if (expanded) return height - insets.top
+    return height * fraction
+  })()
   // Part-way up, a drag moves the sheet rather than the list, so the list
   // scrolls only at full height — and a pull at its top there brings the sheet
   // back down part-way, where the native drag takes over.
@@ -64,12 +80,7 @@ export function NativeSheet({
   useEffect(() => () => sheet.store.setState({ phase: 'closed', reopen: false }), [sheet])
 
   return (
-    // On web a stand-in draws the sheet inside the Host, so there it spans the
-    // screen and lets taps through to the screen.
-    <Host
-      style={Platform.OS === 'web' ? StyleSheet.absoluteFill : { position: 'absolute', width }}
-      pointerEvents={Platform.OS === 'web' ? 'box-none' : 'none'}
-    >
+    <Host style={{ position: 'absolute', width }} pointerEvents="none">
       <BottomSheet
         isPresented={phase === 'open'}
         onIsPresentedChange={(presented) => !presented && sheet.close()}
@@ -83,7 +94,16 @@ export function NativeSheet({
                 sheet.store.setState({ detent: d === 'large' ? detents.length - 1 : 0 }),
             }),
             presentationDragIndicator('visible'),
+            ...(floating ? [presentationSizing('page')] : []),
             presentationBackground(theme.background.val),
+            ...(letsThrough
+              ? [
+                  presentationBackgroundInteraction({
+                    type: 'enabledUpThrough',
+                    detent: detents[0],
+                  }),
+                ]
+              : []),
           ]}
         >
           <RNHostView>{children({ scroll, height: contentHeight, bodyShown })}</RNHostView>

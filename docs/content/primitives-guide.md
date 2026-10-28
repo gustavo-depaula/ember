@@ -113,6 +113,7 @@ The `verses` *primitive* is engine output, not something authors write.
 - **`hymn`** (`ref` or `inline`) / **`canticle`** (`ref`, or `inline` with `title`): like `prayer`, with their own chrome.
 - **`prose`**: markdown from a `file`, or a `book` + `chapter`.
 - **`image`**, **`gallery`** (`carousel` / `stack` / `row`), **`holy-card`**.
+- **`chant`** (`{ "type": "chant", "ref": "chant/salve-regina" }`): the score of the text above it, from `content/chants/`. It makes one block of that section and its score: a small staff by the section's title turns the text to the score in square notes, as does sliding the block sideways. Put it directly after the section it sets. `scripts/import-gregobase.py --prayers` finds a prayer's score by its Latin text and places the node.
 - **`select`** shows one option (chosen by context or by the user); **`options`** offers every alternative as a picker.
 - **`repeat`**: a template N times, or once per item of flow-local data (`from`).
 - **`cycle`** / **`lectio`** / **`include`**: content resolved at runtime (day-indexed data, reading-plan progress, content sources).

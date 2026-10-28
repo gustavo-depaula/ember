@@ -50,3 +50,9 @@
 7. **"Fratello mio"**: Translated as "Irmão meu" — Liguori's fraternal address to the reader.
 8. **"Lettor mio"**: Translated as "Leitor meu" — direct address to reader in ch. 35.
 9. **Bible abbreviations**: Book of Job = "Jó" (not "Jo", which is João/John).
+
+- Notas da fonte não localizadas no português de `considerazione-06.md` (o trecho a que se referem não foi encontrado): [^9], [^12].
+
+- Notas da fonte não localizadas no português de `considerazione-17.md` (o trecho a que se referem não foi encontrado): [^26].
+
+- Notas da fonte não localizadas no português de `considerazione-32.md` (o trecho a que se referem não foi encontrado): [^34].

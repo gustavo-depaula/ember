@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Colossians",
-    "la": "Super Colossenses lectura"
+    "la": "Super Colossenses lectura",
+    "pt-BR": "Comentário à Epístola aos Colossenses"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on the Letter to the Colossians.",
-    "la": "Expositio Thomae in Epistolam ad Colossenses."
+    "la": "Expositio Thomae in Epistolam ad Colossenses.",
+    "pt-BR": "Comentário de Tomás à Epístola aos Colossenses."
   },
   "composed": "1268–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Chapter 1 — I Maccabees 3:3",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1 — 1 Macabeus 3, 3"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — I Maccabees 3:3",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — 1 Macabeus 3, 3"
           }
         }
       ]
@@ -51,49 +57,56 @@
       "id": "g2",
       "title": {
         "en-US": "Chapter 2 — The Incarnation",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2 — A encarnação"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Greeting",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Saudação"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — The truth of the Gospel",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A verdade do Evangelho"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — Prayer for the Colossians",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Oração pelos colossenses"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — Creation through Christ",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A criação por Cristo"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Lecture 5 — Reconciliation through Christ",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A reconciliação por Cristo"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Lecture 6 — Paul’s labor for Christ",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — O trabalho de Paulo por Cristo"
           }
         }
       ]
@@ -102,35 +115,40 @@
       "id": "g3",
       "title": {
         "en-US": "Chapter 3 — Life in Christ",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3 — A vida em Cristo"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — Instruction and care",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Instrução e solicitude"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2 — Walk in Christ",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Andai em Cristo"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3 — Buried and raised with Christ",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Sepultados e ressuscitados com Cristo"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Lecture 4 — Legal precepts abolished",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Os preceitos legais são abolidos"
           }
         }
       ]
@@ -139,35 +157,40 @@
       "id": "g4",
       "title": {
         "en-US": "Chapter 4 — Moral Precepts",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4 — Preceitos morais"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Mortify the body",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Mortificai o corpo"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2 — Putting on the new man",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Revestindo-vos do homem novo"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3 — All in the name of Christ",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Tudo em nome de Cristo"
           }
         },
         {
           "id": "g4-c004",
           "title": {
             "en-US": "Lecture 4 — Precepts towards neighbors",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Preceitos para com o próximo"
           }
         }
       ]
@@ -176,14 +199,16 @@
       "id": "g5",
       "title": {
         "en-US": "Chapter 5 — Conclusion",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5 — Conclusão"
       },
       "children": [
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — Farewell",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Despedida"
           }
         }
       ]

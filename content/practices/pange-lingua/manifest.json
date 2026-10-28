@@ -54,7 +54,8 @@
 					"la": "Pange, lingua, gloriosi\nCorporis mysterium,\nSanguinisque pretiosi,\nquem in mundi pretium\nfructus ventris generosi\nRex effudit gentium.\n\nNobis datus, nobis natus\nex intacta Virgine,\net in mundo conversatus,\nsparso verbi semine,\nsui moras incolatus\nmiro clausit ordine.\n\nIn supremae nocte cenae\nrecumbens cum fratribus,\nobservata lege plene\ncibis in legalibus,\ncibum turbae duodenae\nse dat suis manibus.\n\nVerbum caro, panem verum\nverbo carnem efficit:\nfitque sanguis Christi merum,\net si sensus deficit,\nad firmandum cor sincerum\nsola fides sufficit.\n\nTantum ergo Sacramentum\nveneremur cernui:\net antiquum documentum\nnovo cedat ritui:\npraestet fides supplementum\nsensuum defectui.\n\nGenitori, Genitoque\nlaus et iubilatio,\nsalus, honor, virtus quoque\nsit et benedictio:\nprocedenti ab utroque\ncompar sit laudatio. Amen.",
 					"pt-BR": "Canta, ó língua, do glorioso\nCorpo o mistério,\ne do Sangue precioso\nque, em preço do mundo,\nfruto de ventre generoso,\no Rei das nações derramou.\n\nA nós dado, por nós nascido\nde uma Virgem imaculada,\ne no mundo conversando,\nespalhada a semente da Palavra,\nfechou os dias de sua morada\ncom admirável ordem.\n\nNa noite da última Ceia,\nreclinado com os irmãos,\ncumprida plenamente a Lei\nquanto aos alimentos legais,\npor alimento aos doze\nse dá com suas próprias mãos.\n\nO Verbo encarnado, o pão verdadeiro\npela palavra em carne converte,\ne em Sangue de Cristo se faz o vinho;\ne, se o sentido falha,\npara firmar o coração sincero\nbasta somente a fé.\n\nTão sublime Sacramento,\nprostrados, veneremos:\ne o antigo documento\nceda lugar ao novo rito;\nsupra a fé o défice\ndos nossos sentidos.\n\nAo Pai e ao Filho gerado\nlouvor e júbilo,\nsalvação, honra, poder também\ne bênção sejam dados:\nao que d'Ambos procede\nseja igual a aclamação. Amém."
 				}
-			}
+			},
+			{"type": "chant", "ref": "chant/pange-lingua-corporis"}
 		]
 	}
 }

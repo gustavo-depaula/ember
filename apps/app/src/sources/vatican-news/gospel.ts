@@ -1,12 +1,12 @@
-import { Platform } from 'react-native'
+import type { Lang as MissalLang } from '@ember/missal'
 import type { Primitive, ProseBlock, TextPrimitive } from '@/content/primitives'
-import { emberLang, loadGospelOfDay } from '@/lib/mass-of/gospelOfDay'
+import { loadGospelOfDay } from '@/lib/missal/gospelOfDay'
 import type { SourceFetchContext } from '../types'
 import { fetchDay } from './fetchPage'
 import { paragraphText, parseSection } from './parse'
 import { type Lang, narrowLang } from './url'
 
-// Split mass-of plain gospel text into prose paragraph blocks (blank line →
+// Split the corpus's plain gospel text into prose paragraph blocks (blank line →
 // new paragraph; single newline → line break within a paragraph).
 function textToBlocks(text: string): ProseBlock[] {
   return text
@@ -31,10 +31,10 @@ function gospelPrimitives(citation: string | undefined, body: ProseBlock[]): Pri
   return out
 }
 
-// Offline / web fallback: the corpus-computed Gospel from the `mass-of`
-// DataSource (the same reading Explore's Gospel of the Day shows).
+// Offline fallback: the corpus-computed Gospel of the day's Mass
+// (the same reading Explore's Gospel of the Day shows).
 async function fallback(ctx: SourceFetchContext, lang: Lang): Promise<Primitive[] | TextPrimitive> {
-  const gospel = await loadGospelOfDay(ctx.date, emberLang(lang))
+  const gospel = await loadGospelOfDay(ctx.date, lang as MissalLang, ctx.prefs.jurisdiction)
   if (!gospel) {
     const message =
       lang === 'pt-BR'
@@ -52,15 +52,27 @@ const verseRef = String.raw`\d+[a-e]?(?:[\s.,:;–-]+\d+[a-e]?)*`
 // A bare scripture reference like "3,16-18" / "3:16-18" / "9,43b-45".
 const isVerseRef = (text: string): boolean => new RegExp(`^${verseRef}$`).test(text.trim())
 
-// The incipit is the first paragraph ("From the Gospel according to John" /
-// "Proclamação … segundo João"). The verse reference may ride inline in that
-// same paragraph (EN, via <br>) or sit in its own following paragraph (PT) —
-// fold a trailing bare-reference paragraph into the citation either way, so it
-// never leaks into the passage (and its trailing blank-line <br>s don't open a
-// gap before the text).
+// The incipit opens the block ("From the Gospel according to John" /
+// "Proclamação … segundo João"). Vatican News lays the rest out three ways:
+// the verse reference inline in that paragraph (EN, via <br>), in a paragraph
+// of its own (PT), or the incipit, reference and whole passage in one <p>
+// separated only by <br>s (PT, some days). The citation is everything up to
+// and including the reference, wherever the paragraph boundaries fall, so the
+// reference never leaks into the passage (and the blank-line <br>s after it
+// don't open a gap before the text).
 export function splitCitation(blocks: ProseBlock[]): { citation?: string; body: ProseBlock[] } {
-  if (blocks.length < 2) return { body: blocks }
-  const parts = [paragraphText(blocks[0])]
+  const [first, ...rest] = blocks
+  if (first?.kind !== 'paragraph') return { body: blocks }
+  const refAt = first.inline.findIndex((i) => i.kind === 'text' && isVerseRef(i.text))
+  const tail = refAt < 0 ? [] : first.inline.slice(refAt + 1)
+  const passageAt = tail.findIndex((i) => i.kind !== 'break')
+  if (passageAt >= 0) {
+    return {
+      citation: paragraphText({ kind: 'paragraph', inline: first.inline.slice(0, refAt + 1) }),
+      body: [{ kind: 'paragraph', inline: tail.slice(passageAt) }, ...rest],
+    }
+  }
+  const parts = [paragraphText(first)]
   let bodyStart = 1
   while (bodyStart < blocks.length && isVerseRef(paragraphText(blocks[bodyStart]))) {
     parts.push(paragraphText(blocks[bodyStart]))
@@ -80,8 +92,7 @@ export function compactCitation(full: string | undefined): string | undefined {
 }
 
 // Today's Gospel as plain citation + text, for compact surfaces (the Explore
-// "Evangelho do Dia" card). Native only — returns undefined on web or any
-// fetch/parse failure so the caller can fall back to the offline mass-of
+// "Evangelho do Dia" card). Returns undefined on any fetch/parse failure so the caller can fall back to the offline mass-of
 // Gospel, keeping the card consistent with the practice's Gospel tab.
 export async function fetchVaticanGospelText(
   lang: Lang,
@@ -97,17 +108,16 @@ export async function fetchVaticanGospelText(
   }
 }
 
-// Today's Gospel from vaticannews.va (native), falling back to the offline
-// mass-of Gospel on web (CORS-blocked) or any fetch/parse failure — so the
+// Today's Gospel from vaticannews.va, falling back to the offline
+// mass-of Gospel on any fetch/parse failure — so the
 // Gospel tab is always populated. `dateScoped` keys the cache per day.
 export const gospelOfTheDaySource = {
   id: 'producer/gospel-of-the-day',
-  version: '2',
+  version: '3',
   prefsDeps: ['lang' as const],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[] | TextPrimitive> {
     const lang = narrowLang(ctx.prefs.lang)
-    if (Platform.OS === 'web') return fallback(ctx, lang)
 
     try {
       const html = await fetchDay(lang, ctx.date)

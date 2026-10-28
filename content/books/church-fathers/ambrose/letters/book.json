@@ -2,13 +2,16 @@
   "id": "ambrose-letters",
   "cover": "quarter",
   "name": {
-    "en-US": "Letters"
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
   },
   "author": {
-    "en-US": "Ambrose (340-397)"
+    "en-US": "Ambrose (340-397)",
+    "pt-BR": "Santo Ambrósio (340-397)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,73 +24,85 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Letter 17"
+        "en-US": "Letter 17",
+        "pt-BR": "Carta 17"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Letter 18"
+        "en-US": "Letter 18",
+        "pt-BR": "Carta 18"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Letter 20"
+        "en-US": "Letter 20",
+        "pt-BR": "Carta 20"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Letter 21"
+        "en-US": "Letter 21",
+        "pt-BR": "Carta 21"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Letter 22"
+        "en-US": "Letter 22",
+        "pt-BR": "Carta 22"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Letter 40"
+        "en-US": "Letter 40",
+        "pt-BR": "Carta 40"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Letter 41"
+        "en-US": "Letter 41",
+        "pt-BR": "Carta 41"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Letter 51"
+        "en-US": "Letter 51",
+        "pt-BR": "Carta 51"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Letter 57"
+        "en-US": "Letter 57",
+        "pt-BR": "Carta 57"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Letter 61"
+        "en-US": "Letter 61",
+        "pt-BR": "Carta 61"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Letter 62"
+        "en-US": "Letter 62",
+        "pt-BR": "Carta 62"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "en-US": "Letter 63"
+        "en-US": "Letter 63",
+        "pt-BR": "Carta 63"
       }
     }
   ]

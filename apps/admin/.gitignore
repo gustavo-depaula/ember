@@ -1,0 +1,5 @@
+dist/
+.wrangler/
+.dev.vars
+# The local desk this replaced kept its drafts and log here
+.data/

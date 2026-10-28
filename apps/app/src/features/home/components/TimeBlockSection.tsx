@@ -1,4 +1,5 @@
 import { AlertTriangle, Check, ChevronRight } from 'lucide-react-native'
+import { Fragment, type ReactNode } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
@@ -27,6 +28,7 @@ export function TimeBlockSection({
   onToggle,
   onToggleCollapse,
   onPressItem,
+  renderBelow,
 }: {
   label: string
   items: ChecklistItem[]
@@ -39,6 +41,8 @@ export function TimeBlockSection({
   onToggle: (item: ChecklistItem, completed: boolean) => void
   onToggleCollapse: () => void
   onPressItem?: (item: ChecklistItem) => void
+  /** A line hung under a row: where the Mass ticked here was. */
+  renderBelow?: (item: ChecklistItem) => ReactNode
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
@@ -98,7 +102,10 @@ export function TimeBlockSection({
             </Typography>
           </XStack>
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" opacity={0.6}>
-            {items.map((i) => i.name).join(' · ')}
+            {items
+              .filter((i) => !completedIds.has(i.id))
+              .map((i) => i.name)
+              .join(' · ')}
           </Text>
         </YStack>
       </Pressable>
@@ -142,79 +149,85 @@ export function TimeBlockSection({
         const dots = tierDotCount[item.tier]
         const spokenName = item.pinned ? `${item.name}, ${item.subtitle}` : item.name
         return (
-          <Pressable
-            key={item.id}
-            onPress={() => onPressItem?.(item)}
-            accessibilityRole="button"
-            accessibilityLabel={
-              dots > 0 && !done
-                ? `${t('a11y.viewPractice', { name: spokenName })}, ${t(`tier.${item.tier}`)}`
-                : t('a11y.viewPractice', { name: spokenName })
-            }
-            testID={`slot-row-${item.practice_id}`}
-          >
-            <XStack paddingVertical="$md" paddingHorizontal="$xs" alignItems="center" gap="$md">
-              {needsRestart ? (
-                <AlertTriangle size={22} color={theme.accent?.val} />
-              ) : readOnly ? (
-                <View width={24} height={24} alignItems="center" justifyContent="center">
+          <Fragment key={item.id}>
+            <Pressable
+              onPress={() => onPressItem?.(item)}
+              accessibilityRole="button"
+              accessibilityLabel={
+                dots > 0 && !done
+                  ? `${t('a11y.viewPractice', { name: spokenName })}, ${t(`tier.${item.tier}`)}`
+                  : t('a11y.viewPractice', { name: spokenName })
+              }
+              testID={`slot-row-${item.practice_id}`}
+            >
+              <XStack paddingVertical="$md" paddingHorizontal="$xs" alignItems="center" gap="$md">
+                {needsRestart ? (
+                  <AlertTriangle size={22} color={theme.accent?.val} />
+                ) : readOnly ? (
+                  <View width={24} height={24} alignItems="center" justifyContent="center">
+                    <Text
+                      fontFamily="$body"
+                      fontSize="$3"
+                      color={done ? '$accent' : '$colorSecondary'}
+                      opacity={0.5}
+                    >
+                      {done ? '✓' : '–'}
+                    </Text>
+                  </View>
+                ) : (
+                  <View width={24} height={24} alignItems="center" justifyContent="center">
+                    <AnimatedCheckbox
+                      checked={done}
+                      size={24}
+                      subtle
+                      onToggle={() => {
+                        lightTap()
+                        onToggle(item, !done)
+                      }}
+                      accessibilityLabel={
+                        done
+                          ? t('a11y.untogglePractice', { name: item.name })
+                          : t('a11y.togglePractice', { name: item.name })
+                      }
+                      testID={`slot-toggle-${item.practice_id}`}
+                    />
+                  </View>
+                )}
+                <PracticeIcon name={item.icon} size={20} />
+                <YStack flex={1}>
                   <Text
                     fontFamily="$body"
-                    fontSize="$3"
-                    color={done ? '$accent' : '$colorSecondary'}
-                    opacity={0.5}
+                    fontSize="$4"
+                    color={done ? '$colorSecondary' : '$color'}
                   >
-                    {done ? '✓' : '–'}
+                    {item.name}
                   </Text>
-                </View>
-              ) : (
-                <View width={24} height={24} alignItems="center" justifyContent="center">
-                  <AnimatedCheckbox
-                    checked={done}
-                    size={24}
-                    subtle
-                    onToggle={() => {
-                      lightTap()
-                      onToggle(item, !done)
-                    }}
-                    accessibilityLabel={
-                      done
-                        ? t('a11y.untogglePractice', { name: item.name })
-                        : t('a11y.togglePractice', { name: item.name })
-                    }
-                    testID={`slot-toggle-${item.practice_id}`}
-                  />
-                </View>
-              )}
-              <PracticeIcon name={item.icon} size={20} />
-              <YStack flex={1}>
-                <Text fontFamily="$body" fontSize="$4" color={done ? '$colorSecondary' : '$color'}>
-                  {item.name}
-                </Text>
-                {item.pinned && (
-                  <Typography tone="muted" fontSize="$2" numberOfLines={1}>
-                    {item.subtitle}
-                  </Typography>
-                )}
-                {needsRestart && (
-                  <XStack alignItems="center" gap={4}>
-                    <AlertTriangle size={12} color={theme.accent?.val} />
-                    <Text
-                      fontFamily="$heading"
-                      fontSize="$1"
-                      color="$accent"
-                      letterSpacing={1.5}
-                      textTransform="uppercase"
-                    >
-                      {t('program.restartNeeded')}
-                    </Text>
-                  </XStack>
-                )}
-              </YStack>
-              {dots > 0 && !done && <TierDots tier={item.tier} />}
-              <ChevronRight size={16} color={theme.accentSubtle?.val} />
-            </XStack>
-          </Pressable>
+                  {item.pinned && (
+                    <Typography tone="muted" fontSize="$2" numberOfLines={1}>
+                      {item.subtitle}
+                    </Typography>
+                  )}
+                  {needsRestart && (
+                    <XStack alignItems="center" gap={4}>
+                      <AlertTriangle size={12} color={theme.accent?.val} />
+                      <Text
+                        fontFamily="$heading"
+                        fontSize="$1"
+                        color="$accent"
+                        letterSpacing={1.5}
+                        textTransform="uppercase"
+                      >
+                        {t('program.restartNeeded')}
+                      </Text>
+                    </XStack>
+                  )}
+                </YStack>
+                {dots > 0 && !done && <TierDots tier={item.tier} />}
+                <ChevronRight size={16} color={theme.accentSubtle?.val} />
+              </XStack>
+            </Pressable>
+            {renderBelow?.(item)}
+          </Fragment>
         )
       })}
     </YStack>

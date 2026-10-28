@@ -1,0 +1,372 @@
+{
+ "pericopes": [
+  1,
+  12,
+  17,
+  27,
+  33
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Luke: orderly, warm, unhurried storyteller."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord: calm authority, tender with the suffering, firm with his critics."
+  },
+  "peter": {
+   "name": "Simon Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Galilean fisherman, blunt and impulsive; awed and weary here."
+  },
+  "leper": {
+   "name": "The leper",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A man full of leprosy, face to the ground, pleading with humble trust."
+  },
+  "pharisees": {
+   "name": "Pharisees and scribes",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Religious critics, indignant and fault-finding."
+  },
+  "crowd": {
+   "name": "The crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Onlookers seized with awe, glorifying God."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, that when the multitudes pressed upon him to hear the word of God, he stood by the lake of Genesareth,"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And saw two ships standing by the lake: but the fishermen were gone out of them and were washing their nets."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And going into one of the ships that was Simon's, he desired him to draw back a little from the land. And sitting, he taught the multitudes out of the ship."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Now when he had ceased to speak, he said to Simon:"
+   },
+   {
+    "s": "jesus",
+    "t": "Launch out into the deep and let down your nets for a draught."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And Simon answering said to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Master, we have laboured all the night and have taken nothing: but at thy word I will let down the net."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And when they had done this, they enclosed a very great multitude of fishes: and their net broke."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And they beckoned to their partners that were in the other ship, that they should come and help them. And they came and filled both the ships, so that they were almost sinking."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Which when Simon Peter saw, he fell down at Jesus' knees, saying:"
+   },
+   {
+    "s": "peter",
+    "t": "Depart from me, for I am a sinful man, O Lord."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "For he was wholly astonished, and all that were with him, at the draught of the fishes which they had taken."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And so were also James and John, the sons of Zebedee, who were Simon's partners. And Jesus saith to Simon:"
+   },
+   {
+    "s": "jesus",
+    "t": "Fear not: from henceforth thou shalt catch men."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And having brought their ships to land, leaving all things, they followed him."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, when he was in a certain city, behold a man full of leprosy who, seeing Jesus and falling on his face, besought him saying:"
+   },
+   {
+    "s": "leper",
+    "t": "Lord, if thou wilt, thou canst make me clean."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And stretching forth his hand, he touched him, saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "I will. Be thou cleansed."
+   },
+   {
+    "s": "narrator",
+    "t": "And immediately the leprosy departed from him."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And he charged him that he should tell no man, but:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go, shew thyself to the priest and offer for thy cleansing according as Moses commanded, for a testimony to them."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "But the fame of him went abroad the more: and great multitudes came together to hear and to be healed by him of their infirmities."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And he retired into the desert; and prayed."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass on a certain day, as he sat teaching, that there were also Pharisees and doctors of the law sitting by, that were come out of every town of Galilee and Judea and Jerusalem: and the power of the Lord was to heal them."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And behold, men brought in a bed a man who had the palsy: and they sought means to bring him in and to lay him before him."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And when they could not find by what way they might bring him in, because of the multitude, they went up upon the roof and let him down through the tiles with his bed into the midst before Jesus."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Whose faith when he saw, he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Man, thy sins are forgiven thee."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And the scribes and Pharisees began to think, saying:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Who is this who speaketh blasphemies? Who can forgive sins, but God alone?",
+    "q": "unspoken thoughts of the scribes and Pharisees, voiced as group speech; one id used for the mixed group"
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And when Jesus knew their thoughts, answering he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "What is it you think in your hearts?"
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "Which is easier to say: Thy sins are forgiven thee; or to say: Arise and walk?"
+   }
+  ],
+  "24": [
+   {
+    "s": "jesus",
+    "t": "But that you may know that the Son of man hath the power on earth to forgive sins"
+   },
+   {
+    "s": "narrator",
+    "t": "(he saith to the sick of the palsy),"
+   },
+   {
+    "s": "jesus",
+    "t": "I say to thee to: Arise, take up thy bed and go into thy house."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And immediately rising up before them, he took up the bed on which he lay: and he went away to his own house, glorifying God."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And all were astonished: and they glorified God. And they were filled with fear, saying:"
+   },
+   {
+    "s": "crowd",
+    "t": "We have seen wonderful things to-day."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And after these things, he went forth and saw a publican named Levi, sitting at the receipt of custom: and he said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Follow me."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And leaving all things, he rose up and followed him."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And Levi made him a great feast in his own house: And there was a great company of publicans and of others that were at table with them."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "But the Pharisees and scribes murmured, saying to his disciples:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Why do you eat and drink with publicans and sinners?"
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And Jesus answering, said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "They that are whole need not the physician: but they that are sick."
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "I came not to call the just, but sinners to penance."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And they said to him:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Why do the disciples of John fast often and make prayers, and the disciples of the Pharisees in like manner; but thine eat and drink?",
+    "q": "\"they\" taken as the Pharisees and scribes of v30, though they name the Pharisees in the third person"
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "To whom he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Can you make the children of the bridegroom fast whilst the bridegroom is with them?"
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "But the days will come when the bridegroom shall be taken away from them: then shall they fast in those days."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And he spoke also a similitude to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "That no man putteth a piece from a new garment upon an old garment: otherwise he both rendeth the new, and the piece taken from the new agreeth not with the old.",
+    "q": "introduced by \"That\", half-indirect; read as the opening of the spoken similitude"
+   }
+  ],
+  "37": [
+   {
+    "s": "jesus",
+    "t": "And no man putteth new wine into old bottles: otherwise the new wine will break the bottles; and it will be spilled and the bottles will be lost."
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "But new wine must be put into new bottles: and both are preserved."
+   }
+  ],
+  "39": [
+   {
+    "s": "jesus",
+    "t": "And no man drinking old hath presently a mind to new: for he saith: The old is better."
+   }
+  ]
+ }
+}

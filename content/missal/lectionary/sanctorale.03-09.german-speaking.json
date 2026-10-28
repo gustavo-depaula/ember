@@ -1,0 +1,2094 @@
+{
+ "id": "sanctorale.03-09.german-speaking",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "[in den Diözesen deutscher Sprache]"
+        }
+       ]
+      ]
+     },
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "9. März"
+       ],
+       [
+        "Hl. Bruno von Querfurt, Bischof, Glaubensbote, Märtyrer"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Neque mors neque vita poterit nos separare a caritate Dei."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ béati Pauli apóstoli ad Romános"
+       ]
+      ],
+      "cite": "8, 31b-39",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratres:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Si Deus pro nobis, quis contra nos? Qui Fílio suo non pepércit, sed pro nobis ómnibus trádidit illum, quómodo non étiam cum illo ómnia nobis donábit? Quis accusábit advérsus eléctos Dei? Deus, qui iustíficat? Quis est qui condémnet? Christus Iesus, qui mórtuus est, immo qui suscitátus est, qui et est ad déxteram Dei, qui étiam interpéllat pro nobis?"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quis nos separábit a caritáte Christi? Tribulátio an angústia an persecútio an fames an núditas an perículum an gládius? Sicut scriptum est: «Propter te mortificámur tota die, æstimáti sumus ut oves occisiónis». Sed in his ómnibus supervíncimus per eum, qui diléxit nos."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Certus sum enim quia neque mors neque vita neque ángeli neque principátus neque instántia neque futúra neque virtútes neque altitúdo neque profúndum neque ália quælibet creatúra póterit nos separáre a caritáte Dei, quæ est in Christo Iesu Dómino nostro."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nem a morte nem a vida serão capazes de nos separar do amor de Deus por nós."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Carta de São Paulo aos Romanos"
+       ]
+      ],
+      "cite": "8, 31-39",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Irmãos: Se Deus é por nós, quem será contra nós? Deus que não poupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? Quem acusará os escolhidos de Deus? Deus, que os declara justos? Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? Pois é assim que está escrito: \"Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro\". Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! Tenho a certeza de que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, nem a altura, nem a profundeza, nem outra criatura qualquer será capazes de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the Letter of Saint Paul to the Romans"
+       ]
+      ],
+      "cite": "8:31-39",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "With God on our side who can be against us? 'Since God did not spare his own Son, but gave him up to benefit us all, we may be certain, after such a gift, that he will not refuse anything he can give. Could anyone accuse those that God has chosen? When God acquits, could anyone condemn? Could Christ Jesus? No! He not only died for us - he rose from the dead, and there at God's right hand he stands and pleads for us. Nothing therefore can come between us and the love of Christ, even if we are troubled or worried, or being persecuted, or lacking food or clothes, or being threatened or even attacked. As scripture promised: For your sake we are being massacred daily, and reckoned as sheep for the slaughter. These are the trials through which we triumph, by the power of him who loved us. For I am certain of this: neither death nor life, no angel, no prince, nothing that exists, nothing still to come, not any power, or height or depth, nor any created thing, can ever come between us and the love of God made visible in Christ Jesus our Lord."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ni muerte, ni vida podrán separarnos del amor de Dios"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la carta del apóstol san Pablo a los Romanos"
+       ]
+      ],
+      "cite": "8, 31-39",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hermanos:"
+       ],
+       [
+        "Si Dios está con nosotros, ¿quién estará contra nosotros? El que no se reservó a su propio Hijo, sino que lo entregó por todos nosotros, ¿cómo no nos dará todo con él? ¿Quién acusará a los elegidos de Dios? Dios es el que justifica. ¿Quién condenará? ¿Acaso Cristo Jesús, que murió, más todavía, resucitó y está a la derecha de Dios y que además intercede por nosotros? ¿Quién nos separará del amor de Cristo?, ¿la tribulación?, ¿la angustia?, ¿la persecución?, ¿el hambre?, ¿la desnudez?, ¿el peligro?, ¿la espada?; como está escrito:"
+       ],
+       [
+        "«Por tu causa nos degüellan cada día, nos tratan como a ovejas de matanza»."
+       ],
+       [
+        "Pero en todo esto vencemos de sobra gracias a aquel que nos ha amado. Pues estoy convencido de que ni muerte, ni vida, ni ángeles, ni principados, ni presente, ni futuro, ni potencias, ni altura, ni profundidad, ni ninguna otra criatura podrá separarnos del amor de Dios manifestado en Cristo Jesús, nuestro Señor."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Né morte né vita potrà mai separarci dall'amore di Dio, che è in Cristo Gesù."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla lettera di san Paolo apostolo ai Romani"
+       ]
+      ],
+      "cite": "8, 31b-39",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Fratelli, se Dio è per noi, chi sarà contro di noi? Egli, che non ha risparmiato il proprio Figlio, ma lo ha consegnato per tutti noi, non ci donerà forse ogni cosa insieme a lui? Chi muoverà accuse contro coloro che Dio ha scelto? Dio è colui che giustifica! Chi condannerà? Cristo Gesù è morto, anzi è risorto, sta alla destra di Dio e intercede per noi!"
+       ],
+       [
+        "Chi ci separerà dall'amore di Cristo? Forse la tribolazione, l'angoscia, la persecuzione, la fame, la nudità, il pericolo, la spada? Come sta scritto: «Per causa tua siamo messi a morte tutto il giorno, siamo considerati come pecore da macello»."
+       ],
+       [
+        "Ma in tutte queste cose noi siamo più che vincitori grazie a colui che ci ha amati. Io sono infatti persuaso che né morte né vita, né angeli né principati, né presente né avvenire, né potenze, né altezza né profondità, né alcun'altra creatura potrà mai separarci dall'amore di Dio, che è in Cristo Gesù, nostro Signore."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lettre de saint Paul Apôtre aux Romains"
+       ]
+      ],
+      "cite": "8, 31b-39",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Frères, si Dieu est pour nous, qui sera contre nous ? Il n'a pas épargné son propre Fils, mais il l'a livré pour nous tous : comment pourrait-il, avec lui, ne pas nous donner tout ? Qui accusera ceux que Dieu a choisis ? Dieu est celui qui rend juste : alors, qui pourra condamner ? Le Christ Jésus est mort ; bien plus, il est ressuscité, il est à la droite de Dieu, il intercède pour nous : alors, qui pourra nous séparer de l'amour du Christ ? la détresse ? l'angoisse ? la persécution ? la faim ? le dénuement ? le danger ? le glaive ? En effet, il est écrit : C'est pour toi qu'on nous massacre sans arrêt, qu'on nous traite en brebis d'abattoir. Mais, en tout cela nous sommes les grands vainqueurs grâce à celui qui nous a aimés. J'en ai la certitude : ni la mort ni la vie, ni les anges ni les Principautés célestes, ni le présent ni l'avenir, ni les Puissances, ni les hauteurs, ni les abîmes, ni aucune autre créature, rien ne pourra nous séparer de l'amour de Dieu qui est dans le Christ Jésus notre Seigneur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem Brief des Apostels Paulus an die Römer"
+       ]
+      ],
+      "cite": "8, 31b-39",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Ist Gott für uns, wer ist dann gegen uns? Er hat seinen eigenen Sohn nicht verschont, sondern ihn für uns alle hingegeben - wie sollte er uns mit ihm nicht alles schenken? Wer kann die Auserwählten Gottes anklagen? Gott ist es, der gerecht macht. Wer kann sie verurteilen? Christus Jesus, der gestorben ist, mehr noch: der auferweckt worden ist, sitzt zur Rechten Gottes und tritt für uns ein."
+       ],
+       [
+        "Was kann uns scheiden von der Liebe Christi? Bedrängnis oder Not oder Verfolgung, Hunger oder Kälte, Gefahr oder Schwert? In der Schrift steht: Um deinetwillen sind wir den ganzen Tag dem Tod ausgesetzt; wir werden behandelt wie Schafe, die man zum Schlachten bestimmt hat. Doch all das überwinden wir durch den, der uns geliebt hat."
+       ],
+       [
+        "Denn ich bin gewiss: Weder Tod noch Leben, weder Engel noch Mächte, weder Gegenwärtiges noch Zukünftiges, weder Gewalten der Höhe oder Tiefe noch irgendeine andere Kreatur können uns scheiden von der Liebe Gottes, die in Christus Jesus ist, unserem Herrn."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.martyrs.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.martyrs.second-reading.2"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 116(117), 1. 2 (R.: Mc 16, 15)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mk 16, 15)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 116, 1. 2 (R.: Mc 16, 15)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Dal Salmo 116(117)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 116, 1. 2 (R.: Mc 16, 15)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 117 (116), 1. 2 (R.: vgl. Mk 16, 15)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm",
+   "from": "common.pastors.psalm.8"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eúntes in mundum univérsum, prædicáte Evangélium."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel: "
+        },
+        "Allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ide, por todo o mundo, e a todos pregai o Evangelho"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Go out to all the world and tell the Good News."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Id al mundo entero y proclamad el Evangelio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andate in tutto il mondo e proclamate il Vangelo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Allez dans le monde entier. Proclamez l'Évangile."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        },
+        "Alléluia"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Geht hinaus in die ganze Welt, und verkündet allen das Evangelium!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.8"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Laudáte Dóminum, omnes gentes,"
+       ],
+       [
+        "collaudáte eum, omnes pópuli."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cantai louvores ao Senhor, todas as gentes, povos todos, festejai-o!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "O praise the Lord, all you nations, acclaim him all you peoples!"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alabad al Señor todas las naciones,"
+       ],
+       [
+        "aclamadlo todos los pueblos."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Genti tutte, lodate il Signore,"
+       ],
+       [
+        "popoli tutti, cantate la sua lode."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Louez le Seigneur, tous les peuples ;"
+       ],
+       [
+        "fêtez-le, tous les pays !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lobet den Herrn, alle Völker,"
+       ],
+       [
+        "preist ihn, alle Nationen!"
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.8"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eúntes in mundum univérsum, prædicáte Evangélium."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel: "
+        },
+        "Allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ide, por todo o mundo, e a todos pregai o Evangelho"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Go out to all the world and tell the Good News."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Id al mundo entero y proclamad el Evangelio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andate in tutto il mondo e proclamate il Vangelo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Allez dans le monde entier. Proclamez l'Évangile."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        },
+        "Alléluia"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Geht hinaus in die ganze Welt, und verkündet allen das Evangelium!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.8"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Quóniam confirmáta est super nos misericórdia eius,"
+       ],
+       [
+        "et véritas Dómini manet in ætérnum."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pois comprovado é seu amor para conosco, para sempre ele é fiel!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Strong is his love for us; he is faithful for ever."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Firme es su misericordia con nosotros,"
+       ],
+       [
+        "su fidelidad dura por siempre."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Perché forte è il suo amore per noi"
+       ],
+       [
+        "e la fedeltà del Signore dura per sempre."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Son amour envers nous s'est montré le plus fort ;"
+       ],
+       [
+        "éternelle est la fidélité du Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Denn mächtig waltet über uns seine Huld,"
+       ],
+       [
+        "die Treue des Herrn währt in Ewigkeit."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "verse",
+   "part": "psalm",
+   "from": "common.pastors.psalm.8"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eúntes in mundum univérsum, prædicáte Evangélium."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "vel: "
+        },
+        "Allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ide, por todo o mundo, e a todos pregai o Evangelho"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Go out to all the world and tell the Good News."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Id al mundo entero y proclamad el Evangelio."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "O bien: "
+        },
+        "Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Andate in tutto il mondo e proclamate il Vangelo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Allez dans le monde entier. Proclamez l'Évangile."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Ou bien: "
+        },
+        "Alléluia"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Geht hinaus in die ganze Welt, und verkündet allen das Evangelium!"
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "Oder: "
+        },
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "psalm",
+   "from": "common.pastors.psalm.8"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Io 15, 15b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Vos dixi amícos, dicit Dóminus,"
+       ],
+       [
+        "quia ómnia quæ audívi a Patre meo nota feci vobis."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Allelúia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Jo 15, 15b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia, aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Eu vos chamo, meus amigos, pois vos dei a conhecer o que o Pai me revelou."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluia.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "I call you my friends, says the Lord, for I have made known to you all what the Father has told me."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 15, 15b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "A vosotros os llamo amigos —dice el Señor—,"
+       ],
+       [
+        "porque todo lo que he oído a mi Padre"
+       ],
+       [
+        "os lo he dado a conocer."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Aleluya.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "Gv 15, 15b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Vi ho chiamato amici, dice il Signore, perché tutto ciò che ho udito dal Padre mio l'ho fatto conoscere a voi."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Io 15, 15b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "Je vous appelle mes amis, dit le Seigneur, car tout ce que j'ai entendu auprès de mon Père, je vous l'ai fait connaître."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Alléluia",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Joh 15, 15b",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja. Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ],
+       [
+        "(So spricht der Herr:) Ich habe euch Freunde genannt; denn ich habe euch alles mitgeteilt, was ich von meinem Vater gehört habe."
+       ],
+       [
+        {
+         "m": "rubric",
+         "t": "("
+        },
+        "Halleluja.",
+        {
+         "m": "rubric",
+         "t": ")"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation",
+   "from": "common.pastors.acclamation.1"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non vos me elegistis, sed ego elegi vos."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Ioánnem"
+       ]
+      ],
+      "cite": "15, 9-17",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Já não vos chamo servos; mas vos chamo amigos."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo João"
+       ]
+      ],
+      "cite": "15, 9-17",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to John"
+       ]
+      ],
+      "cite": "15:9-17",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ya no os llamo siervos; a vosotros os llamo amigos"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo evangelio según san Juan"
+       ]
+      ],
+      "cite": "15, 9-17",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non vi chiamo più servi, ma vi ho chiamato amici."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Giovanni"
+       ]
+      ],
+      "cite": "15, 9-17",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Jean"
+       ]
+      ],
+      "cite": "15, 9-17",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Johannes"
+       ]
+      ],
+      "cite": "15, 9-17",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.11"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.11"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In illo témpore: Dixit Iesus discípulis suis:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«Sicut diléxit me Pater, et ego diléxi vos; manéte in dilectióne mea. Si præcépta mea servavéritis, manébitis in dilectióne mea, sicut ego Patris mei præcépta servávi et máneo in eius dilectióne."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hæc locútus sum vobis, ut gáudium meum in vobis sit, et gáudium vestrum impleátur."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Hoc est præcéptum meum, ut diligátis ínvicem, sicut diléxi vos; maiórem hac dilectiónem nemo habet, ut ánimam suam quis ponat pro amícis suis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vos amíci mei estis, si fecéritis, quæ ego præcípio vobis. Iam non dico vos servos, quia servus nescit quid facit dóminus eius; vos autem dixi amícos, quia ómnia, quæ audívi a Patre meo, nota feci vobis."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Non vos me elegístis, sed ego elégi vos et pósui vos, ut vos eátis et fructum afferátis, et fructus vester máneat, ut quodcúmque petiéritis Patrem in nómine meo, det vobis. Hæc mando vobis, ut diligátis ínvicem»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Naquele tempo, disse Jesus aos seus discípulos: Como meu Pai me amou, assim também eu vos amei. Permanecei no meu amor. Se guardardes os meus mandamentos, permanecereis no meu amor, assim como eu guardei os mandamentos do meu Pai e permaneço no seu amor. Eu vos disse isto, para que a minha alegria esteja em vós e a vossa alegria seja plena. Este é o meu mandamento: amai-vos uns aos outros, assim como eu vos amei. Ninguém tem amor maior do que aquele que dá sua vida pelos amigos. Vós sois meus amigos, se fizerdes o que eu vos mando. Já não vos chamo servos, pois o servo não sabe o que faz o seu senhor. Eu vos chamo amigos, porque vos dei a conhecer tudo o que ouvi de meu Pai. Não fostes vós que me escolhestes, mas fui eu que vos escolhi e vos designei para irdes e para que produzais fruto e o vosso fruto permaneça. O que então pedirdes ao Pai em meu nome, ele vo-lo concederá. Isto é o que vos ordeno: amai-vos uns aos outros."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus said to his disciples: As the Father has loved me, so I have loved you. Remain in my love, If you keep my commandments you will remain in my love, just as I have kept my Father's commandments and remain in his love. I have told you this so that my own joy may be in you and your joy be complete. This is my commandment: love one another, as I have loved you. A man can have no greater love than to lay down his life for his friends. You are my friends, if you do what I command you. I shall not call you servants any more, because a servant does not know his master's business; I call you friends, because I have made known to you everything I have learnt from my Father. You did not choose me, no, I chose you; and I commissioned you to go out and to bear fruit, fruit that will last; and then the Father will give you anything you ask him in my name. What I command you is to love one another."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En aquel tiempo, dijo Jesús a sus discípulos:"
+       ],
+       [
+        "«Como el Padre me ha amado, así os he amado yo; permaneced en mi amor."
+       ],
+       [
+        "Si guardáis mis mandamientos, permaneceréis en mi amor; lo mismo que yo he guardado los mandamientos de mi Padre y permanezco en su amor."
+       ],
+       [
+        "Os he hablado de esto para que mi alegría esté en vosotros, y vuestra alegría llegue a plenitud."
+       ],
+       [
+        "Este es mi mandamiento: que os améis unos a otros como yo os he amado."
+       ],
+       [
+        "Nadie tiene amor más grande que el que da la vida por sus amigos."
+       ],
+       [
+        "Vosotros sois mis amigos si hacéis lo que yo os mando. Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor: a vosotros os llamo amigos, porque todo lo que he oído a mi Padre os lo he dado a conocer."
+       ],
+       [
+        "No sois vosotros los que me habéis elegido, soy yo quien os he elegido y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca."
+       ],
+       [
+        "De modo que lo que pidáis al Padre en mi nombre os lo dé. Esto os mando: que os améis unos a otros»"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, Gesù disse ai suoi discepoli:"
+       ],
+       [
+        "«Come il Padre ha amato me, anche io ho amato voi. Rimanete nel mio amore. Se osserverete i miei comandamenti, rimarrete nel mio amore, come io ho osservato i comandamenti del Padre mio e rimango nel suo amore. Vi ho detto queste cose perché la mia gioia sia in voi e la vostra gioia sia piena."
+       ],
+       [
+        "Questo è il mio comandamento: che vi amiate gli uni gli altri come io ho amato voi. Nessuno ha un amore più grande di questo: dare la sua vita per i propri amici. Voi siete miei amici, se fate ciò che io vi comando. Non vi chiamo più servi, perché il servo non sa quello che fa il suo padrone; ma vi ho chiamato amici, perché tutto ciò che ho udito dal Padre mio l'ho fatto conoscere a voi."
+       ],
+       [
+        "Non voi avete scelto me, ma io ho scelto voi e vi ho costituiti perché andiate e portiate frutto e il vostro frutto rimanga; perché tutto quello che chiederete al Padre nel mio nome, ve lo conceda. Questo vi comando: che vi amiate gli uni gli altri»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "En ce temps-là, Jésus disait à ses disciples :"
+       ],
+       [
+        "\" Comme le Père m'a aimé, moi aussi je vous ai aimés. Demeurez dans mon amour. Si vous gardez mes commandements, vous demeurerez dans mon amour, comme moi, j'ai gardé les commandements de mon Père, et je demeure dans son amour. Je vous ai dit cela pour que ma joie soit en vous, et que votre joie soit parfaite. Mon commandement, le voici : Aimez-vous les uns les autres comme je vous ai aimés. Il n'y a pas de plus grand amour que de donner sa vie pour ceux qu'on aime. Vous êtes mes amis si vous faites ce que je vous commande. Je ne vous appelle plus serviteurs, car le serviteur ne sait pas ce que fait son maître ; je vous appelle mes amis, car tout ce que j'ai entendu de mon Père, je vous l'ai fait connaître. Ce n'est pas vous qui m'avez choisi, c'est moi qui vous ai choisis et établis afin que vous alliez, que vous portiez du fruit, et que votre fruit demeure. Alors, tout ce que vous demanderez au Père en mon nom, il vous le donnera. Voici ce que je vous commande : c'est de vous aimer les uns les autres. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit sprach Jesus zu seinen Jüngern:"
+       ],
+       [
+        "Wie mich der Vater geliebt hat, so habe auch ich euch geliebt. Bleibt in meiner Liebe! Wenn ihr meine Gebote haltet, werdet ihr in meiner Liebe bleiben, so wie ich die Gebote meines Vaters gehalten habe und in seiner Liebe bleibe."
+       ],
+       [
+        "Dies habe ich euch gesagt, damit meine Freude in euch ist und damit eure Freude vollkommen wird."
+       ],
+       [
+        "Das ist mein Gebot: Liebt einander, so wie ich euch geliebt habe. Es gibt keine größere Liebe, als wenn einer sein Leben für seine Freunde hingibt."
+       ],
+       [
+        "Ihr seid meine Freunde, wenn ihr tut, was ich euch auftrage. Ich nenne euch nicht mehr Knechte; denn der Knecht weiß nicht, was sein Herr tut. Vielmehr habe ich euch Freunde genannt; denn ich habe euch alles mitgeteilt, was ich von meinem Vater gehört habe."
+       ],
+       [
+        "Nicht ihr habt mich erwählt, sondern ich habe euch erwählt und dazu bestimmt, dass ihr euch aufmacht und Frucht bringt und dass eure Frucht bleibt. Dann wird euch der Vater alles geben, um was ihr ihn in meinem Namen bittet. Dies trage ich euch auf: Liebt einander!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.11"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.11"
+  }
+ ],
+ "title": {
+  "*": "Hl. Bruno von Querfurt, Bischof, Glaubensbote, Märtyrer"
+ }
+}

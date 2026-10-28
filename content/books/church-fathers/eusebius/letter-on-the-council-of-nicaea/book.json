@@ -2,13 +2,16 @@
   "id": "eusebius-letter-on-the-council-of-nicaea",
   "cover": "quarter",
   "name": {
-    "en-US": "Letter on the Council of Nicaea"
+    "en-US": "Letter on the Council of Nicaea",
+    "pt-BR": "Carta sobre o Concílio de Niceia"
   },
   "author": {
-    "en-US": "Eusebius of Caesarea (c. 265-c. 340)"
+    "en-US": "Eusebius of Caesarea (c. 265-c. 340)",
+    "pt-BR": "Eusébio de Cesareia (c. 265-c. 340)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Letter on the Council of Nicaea"
+        "en-US": "Letter on the Council of Nicaea",
+        "pt-BR": "Carta sobre o Concílio de Niceia"
       }
     }
   ]

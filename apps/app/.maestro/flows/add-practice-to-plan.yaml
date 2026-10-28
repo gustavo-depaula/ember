@@ -1,7 +1,7 @@
 appId: me.dpgu.ember
 name: Add Practice to Plan
 ---
-# Catalog → detail → Add to Plan. We seed without enabling any slot, so the
+# Catalog → detail → ⊕ → Add to Plan. We seed without enabling any slot, so the
 # home screen is empty. After adding, the practice should appear on home.
 - runFlow:
     file: ../subflows/reset.yaml
@@ -22,6 +22,9 @@ name: Add Practice to Plan
 - tapOn:
     id: "practice-card-practice/grace-meals"
 
+# Add to Plan lives in the sheet behind the header's ⊕.
+- tapOn:
+    id: "practice-more"
 - assertVisible:
     id: "add-to-plan-button"
 - tapOn:

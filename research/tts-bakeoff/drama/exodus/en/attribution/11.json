@@ -1,0 +1,108 @@
+{
+ "pericopes": [
+  1,
+  4
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of the Passover and the going out of Egypt: measured, solemn, unhurried."
+  },
+  "the-lord": {
+   "name": "The Lord God",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to Moses: sovereign and calm, announcing judgment on Egypt and laying down the law of the Passover."
+  },
+  "moses": {
+   "name": "Moses",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Leader of Israel, about eighty; stern before Pharao, steady and commanding with the people, exultant in the canticle."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Yet one plague more will I bring upon Pharao and Egypt, and after that he shall let you go, and thrust you out."
+   }
+  ],
+  "2": [
+   {
+    "s": "the-lord",
+    "t": "Therefore thou shalt tell all the people, that every man ask of his friend, and every woman of her neighbour, vessels of silver and of gold."
+   }
+  ],
+  "3": [
+   {
+    "s": "the-lord",
+    "t": "And the Lord will give favour to his people in the sight of the Egyptians.",
+    "q": "Read as the close of the Lord's speech (future tense in the Douay); could be narration."
+   },
+   {
+    "s": "narrator",
+    "t": "And Moses was a very great man in the land of Egypt, in the sight of Pharao's servants, and of all the people."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "moses",
+    "t": "Thus saith the Lord: At midnight I will enter into Egypt:"
+   }
+  ],
+  "5": [
+   {
+    "s": "moses",
+    "t": "And every firstborn in the land of the Egyptians shall die, from the firstborn of Pharao who sitteth on his throne, even to the firstborn of the handmaid that is at the mill, and all the firstborn of beasts."
+   }
+  ],
+  "6": [
+   {
+    "s": "moses",
+    "t": "And there shall be a great cry in all the land of Egypt, such as neither hath been before, nor shall be hereafter."
+   }
+  ],
+  "7": [
+   {
+    "s": "moses",
+    "t": "But with all the children of Israel there shall not a dog make the least noise, from man even to beast; that you may know how wonderful a difference the Lord maketh between the Egyptians and Israel."
+   }
+  ],
+  "8": [
+   {
+    "s": "moses",
+    "t": "And all these thy servants shall come down to me, and shall worship me, saying: Go forth thou, and all the people that is under thee: after that we will go out."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And he went out from Pharao exceeding angry. But the Lord said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Pharao will not hear you, that many signs may be done in the land of Egypt."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And Moses and Aaron did all the wonders that are written, before Pharao. And the Lord hardened Pharao's heart, neither did he let the children of Israel go out of his land."
+   }
+  ]
+ }
+}

@@ -1,24 +1,18 @@
-import { beforeEach, describe, expect, it, vi } from 'vitest'
+import { beforeEach, describe, expect, it } from 'vitest'
 
-vi.mock('@/db/repositories/cursors', () => {
-  const cursors = new Map<string, { id: string; position: string; started_at: string }>()
-  return {
-    getCursor: (id: string) => cursors.get(id),
-    setCursor: async (id: string, position: string) => {
-      cursors.set(id, { id, position, started_at: '2026-06-06' })
-    },
-    readingStreakCursorId: (bookId: string) => `book/${bookId}/streak`,
-    __mock: cursors,
-  }
-})
+import { createEventsTable, useEventStore } from '@/db/events'
+import { setDb } from '@/db/instance'
+import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
-const { getReadingStreak, touchReadingStreak } = await import('../readingStreak')
-const { __mock } = (await import('@/db/repositories/cursors')) as unknown as {
-  __mock: Map<string, { id: string; position: string }>
-}
+import { getReadingStreak, touchReadingStreak } from '../readingStreak'
+import { addReadingTime, getReadingTimeMs } from '../readingTime'
 
-beforeEach(() => {
-  __mock.clear()
+beforeEach(async () => {
+  resetAllTestDbs()
+  const db = await openDatabaseAsync('reading.db')
+  setDb(db as never)
+  await createEventsTable(db as never)
+  useEventStore.getState().reset()
 })
 
 describe('readingStreak', () => {
@@ -52,5 +46,11 @@ describe('readingStreak', () => {
   it('getReadingStreak returns 0 when the last touch is older than yesterday', async () => {
     await touchReadingStreak('book/a', new Date('2026-06-01T10:00:00'))
     expect(getReadingStreak('book/a', new Date('2026-06-06T10:00:00'))).toBe(0)
+  })
+
+  it('adds up the time each session read', async () => {
+    await addReadingTime('book/a', 30_000)
+    await addReadingTime('book/a', 15_000)
+    expect(getReadingTimeMs('book/a')).toBe(45_000)
   })
 })

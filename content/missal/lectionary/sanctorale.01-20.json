@@ -1,0 +1,2557 @@
+{
+ "id": "sanctorale.01-20",
+ "items": [
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Die 20 ianuarii"
+       ],
+       [
+        "S. Fabiani, papæ et martyris"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 de Janeiro"
+       ],
+       [
+        "São Fabiano, papa e mártir"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "Ianuary 20"
+       ],
+       [
+        "St. Fabian, pope and martyr"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 de enero"
+       ],
+       [
+        "San Fabián, papa y mártir"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 Gennaio"
+       ],
+       [
+        "San Fabiano, papa e martire"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20 janvier"
+       ],
+       [
+        "Saint Fabien, pape et martyr"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "20. Januar"
+       ],
+       [
+        "Hl. Fabian, Papst, Märtyrer"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectio prior"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Consinior et testis Christi passionum."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Léctio Epístolæ primæ beáti Petri apóstoli"
+       ]
+      ],
+      "cite": "5, 1-4",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimi:"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senióres, qui in vobis sunt, óbsecro, consénior et testis Christi passiónum, qui et eius, quæ in futúro revelánda est, glóriæ communicátor: Páscite, qui est in vobis, gregem Dei, providéntes non coácto sed spontánee secúndum Deum, neque turpis lucri grátia sed voluntárie, neque ut dominántes in cleris sed formæ facti gregis. Et cum apparúerit Princeps pastórum, percipiétis immarcescíbilem glóriæ coro nam."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primeira Leitura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sede pastores do rebanho de Deus, confiado a vós."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Leitura da Primeira Carta de São Pedro"
+       ]
+      ],
+      "cite": "5, 1-4",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Caríssimos: Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra do Senhor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "First Reading"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "A reading from the first Letter of Saint Peter"
+       ]
+      ],
+      "cite": "5:1-4",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I have something to tell your elders: I am an elder myself, and a witness to the sufferings of Christ, and with you I have a share in the glory that is to be revealed. Be the shepherds of the flock of God that is entrusted to you: watch over it, not simply as a duty but gladly, because God wants it; not for sordid money, but because you are eager to do it. Never be a dictator over any group that is put in your charge, but be an example that the whole flock can follow. When the chief shepherd appears, you will be given the crown of unfading glory."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Word of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Primera Lectura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pastoread el rebaño de Dios que tenéis a vuestro cargo"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lectura de la primera carta del apóstol san Pedro"
+       ]
+      ],
+      "cite": "5, 1-4",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Queridos hermanos:"
+       ],
+       [
+        "A los presbíteros entre vosotros, yo presbítero con ellos, testigo de la pasión de Cristo y partícipe de la gloria que se va a revelar, os exhorto: pastoread el rebaño de Dios que tenéis a vuestro cargo, mirad por él, no a la fuerza, sino de buena gana, como Dios quiere; no por sórdida ganancia, sino con entrega generosa; no como déspotas con quienes os ha tocado en suerte, sino convirtiéndoos en modelos del rebaño."
+       ],
+       [
+        "Y, cuando aparezca el Pastor supremo, recibiréis la corona inmarcesible de la gloria."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra de Dios."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Prima lettura"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pascete il gregge di Dio che vi è affidato."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dalla prima lettera dì san Pietro apostolo"
+       ]
+      ],
+      "cite": "5, 1-4",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Carissimi, esorto gli anziani che sono tra voi, quale anziano come loro, testimone delle sofferenze di Cristo e partecipe della gloria che deve manifestarsi: pascete il gregge di Dio che vi è affidato, sorvegliandolo non perché costretti ma volentieri, come piace a Dio, non per vergognoso interesse, ma con animo generoso, non come padroni delle persone a voi affidate, ma facendovi modelli del gregge. E quando apparirà il Pastore supremo, riceverete la corona della gloria che non appassisce."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola di Dio."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lecture"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Première lettre de saint Pierre Apôtre"
+       ]
+      ],
+      "cite": "5, 1-4",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Bien-aimés, les anciens en fonction parmi vous, je les exhorte, moi qui suis ancien comme eux et témoin des souffrances du Christ, communiant à la gloire qui va se révéler : soyez les pasteurs du troupeau de Dieu qui se trouve chez vous ; veillez sur lui, non par contrainte mais de plein gré, selon Dieu ; non par cupidité mais par dévouement ; non pas en commandant en maîtres à ceux qui vous sont confiés, mais en devenant les modèles du troupeau. Et, quand se manifestera le Chef des pasteurs, vous recevrez la couronne de gloire qui ne se flétrit pas."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parole du Seigneur."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Erste Lesung"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Lesung aus dem ersten Brief des Apostels Petrus"
+       ]
+      ],
+      "cite": "5, 1-4",
+      "role": "announcement"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Brüder!"
+       ],
+       [
+        "Eure Ältesten ermahne ich, da ich ein Ältester bin wie sie und ein Zeuge der Leiden Christi und auch an der Herrlichkeit teilhaben soll, die sich offenbaren wird: Sorgt als Hirten für die euch anvertraute Herde Gottes, nicht aus Zwang, sondern freiwillig, wie Gott es will; auch nicht aus Gewinnsucht, sondern aus Neigung; seid nicht Beherrscher eurer Gemeinden, sondern Vorbilder für die Herde! Wenn dann der oberste Hirt erscheint, werdet ihr den nie verwelkenden Kranz der Herrlichkeit empfangen."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Wort des lebendigen Gottes."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.13"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Deo gratias."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Graças a Deus."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Thanks be to God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Te alabamos, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Rendiamo grazie a Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Nous rendons grâce à Dieu."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Dank sei Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "firstReading",
+   "from": "common.pastors.second-reading.13"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psalmus Responsorius"
+       ]
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
+      "role": "title"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sl 39, 2 e 4ab. 7. 8-9. 10 (R.: 8a e 9a)",
+      "role": "title"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Responsorial Psalm"
+       ]
+      ],
+      "cite": "Ps 39, 2 and 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a and 9a)",
+      "role": "title"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsorial"
+       ]
+      ],
+      "cite": "Sal 39, 2 y 4ab. 7. 8-9. 10 (R.: 8a y 9a)",
+      "role": "title"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Salmo Responsoriale"
+       ]
+      ],
+      "cite": "Salmo 39 (40)",
+      "role": "title"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Psaume"
+       ]
+      ],
+      "cite": "Ps 39, 2 et 4ab. 7-8a. 8b-9. 10 (R.: cf. 8a et 9a)",
+      "role": "title"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Antwortpsalm"
+       ]
+      ],
+      "cite": "Ps 40 (39), 2 u. 4ab. 7-8. 9-10 (R.: vgl. 8a. 9a)",
+      "role": "title"
+     }
+    ]
+   },
+   "part": "psalm"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here I am, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Exspéctans exspectávi Dóminum,"
+       ],
+       [
+        "et inténdit mihi."
+       ],
+       [
+        "Et immísit in os meum cánticum novum,"
+       ],
+       [
+        "carmen Deo nostro."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Esperando, esperei no Senhor e inclinando-se ouviu meu clamor."
+       ],
+       [
+        "Um canto novo ele pôs em meus lábios, um poema em louvor ao Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "I waited, I waited for the Lord and he stooped down to me. He put a new song into my mouth, praise of our God."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Yo esperaba con ansia al Señor;"
+       ],
+       [
+        "él se inclinó y escuchó mi grito."
+       ],
+       [
+        "Me puso en la boca un cántico nuevo,"
+       ],
+       [
+        "un himno a nuestro Dios."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ho sperato, ho sperato nel Signore,"
+       ],
+       [
+        "ed egli su di me si è chinato,"
+       ],
+       [
+        "ha dato ascolto al mio grido."
+       ],
+       [
+        "Mi ha messo sulla bocca un canto nuovo,"
+       ],
+       [
+        "una lode al nostro Dio."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "D'un grand espoir j'espérais le Seigneur : *"
+       ],
+       [
+        "il s'est penché vers moi."
+       ],
+       [
+        "En ma bouche il a mis un chant nouveau,"
+       ],
+       [
+        "une louange à notre Dieu. *"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ich hoffte, ja ich hoffte auf den Herrn."
+       ],
+       [
+        "Da neigte er sich mir zu und hörte mein Schreien."
+       ],
+       [
+        "Er legte mir ein neues Lied in den Mund,"
+       ],
+       [
+        "einen Lobgesang auf ihn, unsern Gott."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrifícium et oblatiónem noluísti,"
+       ],
+       [
+        "aures autem fodísti mihi."
+       ],
+       [
+        "Holocáustum et pro peccáto non postulásti,"
+       ],
+       [
+        "tunc dixi: «Ecce vénio»."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrifício e oblação não quisestes, mas abristes, Senhor, meus ouvidos; não pedistes ofertas nem vítimas, holocaustos por nossos pecados, e então eu vos disse: \"Eis que venho!\"."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "You do not ask for sacrifice and offerings, but an open ear. You do not ask for holocaust and victim. Instead, here am I."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tú no quieres sacrificios ni ofrendas, y, en cambio, me abriste el oído;"
+       ],
+       [
+        "no pides holocaustos ni sacrificios expiatorios; entonces yo digo: «Aquí estoy»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sacrificio e offerta non gradisci,"
+       ],
+       [
+        "gli orecchi mi hai aperto,"
+       ],
+       [
+        "non hai chiesto olocausto né sacrificio per il peccato."
+       ],
+       [
+        "Allora ho detto: «Ecco, io vengo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Tu ne voulais ni offrande ni sacrifice,"
+       ],
+       [
+        "tu as ouvert mes oreilles ; *"
+       ],
+       [
+        "tu ne demandais ni holocauste ni victime,"
+       ],
+       [
+        "alors j'ai dit : \" Voici, je viens."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "An Schlacht- und Speiseopfern hast du kein Gefallen,"
+       ],
+       [
+        "Brand- und Sündopfer forderst du nicht."
+       ],
+       [
+        "Doch das Gehör hast du mir eingepflanzt;"
+       ],
+       [
+        "darum sage ich: Ja, ich komme."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«In volúmine libri scriptum est de me"
+       ],
+       [
+        "fácere voluntátem tuam."
+       ],
+       [
+        "Deus meus, vólui,"
+       ],
+       [
+        "et lex tua in præcórdiis meis»."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Sobre mim está escrito no livro: \"Com prazer faço a vossa vontade, guardo em meu coração vossa lei!\""
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In the scroll of the book it stands written that I should do your will. My God, I delight in your law in the depth of my heart."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "«—Como está escrito en mi libro— para hacer tu voluntad."
+       ],
+       [
+        "Dios mío, lo quiero, y llevo tu ley en las entrañas»."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Nel rotolo del libro su di me è scritto"
+       ],
+       [
+        "di fare la tua volontà:"
+       ],
+       [
+        "mio Dio, questo io desidero;"
+       ],
+       [
+        "la tua legge è nel mio intimo»."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "\" Dans le livre, est écrit pour moi"
+       ],
+       [
+        "ce que tu veux que je fasse. *"
+       ],
+       [
+        "Mon Dieu, voilà ce que j'aime :"
+       ],
+       [
+        "ta loi me tient aux entrailles. \""
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In dieser Schriftrolle steht, was an mir geschehen ist."
+       ],
+       [
+        "Deinen Willen zu tun, mein Gott, macht mir Freude,"
+       ],
+       [
+        "deine Weisung trag‘ ich im Herzen."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Annuntiávi iustítiam tuam in ecclésia magna;"
+       ],
+       [
+        "ecce lábia mea non prohibébo, Dómine, tu scisti."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Boas novas de vossa justiça anunciei numa grande assembleia; vós sabeis: não fechei os meus lábios!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Your justice I have proclaim in the great assembly. My lips I have not sealed; you know it, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "He proclamado tu justicia"
+       ],
+       [
+        "ante la gran asamblea;"
+       ],
+       [
+        "no he cerrado los labios, Señor, tú lo sabes."
+       ],
+       [
+        "No me he guardado en el pecho tu justicia,"
+       ],
+       [
+        "he contado tu fidelidad y tu salvación."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ho annunciato la tua giustizia"
+       ],
+       [
+        "nella grande assemblea;"
+       ],
+       [
+        "vedi: non tengo chiuse le labbra,"
+       ],
+       [
+        "Signore, tu lo sai."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "J'annonce la justice"
+       ],
+       [
+        "dans la grande assemblée ;"
+       ],
+       [
+        "vois, je ne retiens pas mes lèvres,"
+       ],
+       [
+        "Seigneur, tu le sais."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gerechtigkeit verkünde ich in großer Gemeinde,"
+       ],
+       [
+        "meine Lippen verschließe ich nicht; Herr, du weißt es."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "verse"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecce vénio, Dómine, ut fáciam voluntátem tuam."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Eis que venho fazer com prazer a vossa vontade, Senhor!"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Here am I, Lord; I come to do your will."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Aquí estoy, Señor, para hacer tu voluntad."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Ecco, Signore, io vengo per fare la tua volontà."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Me voici, Seigneur, je viens faire ta volonté."
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Mein Gott, ich komme; deinen Willen zu tun macht mir Freude."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "psalm",
+   "role": "people"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia"
+       ]
+      ],
+      "cite": "Io 10, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Allelúia."
+       ],
+       [
+        "Ego sum pastor bonus, dicit Dóminus,"
+       ],
+       [
+        "et cognósco oves meas, et cognóscunt me meæ."
+       ],
+       [
+        "Allelúia."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aclamação ao Evangelho"
+       ]
+      ],
+      "cite": "Jo 10, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluia, aleluia."
+       ],
+       [
+        "Eu sou o bom Pastor, conheço minhas ovelhas e elas me conhecem, assim fala o Senhor."
+       ],
+       [
+        "Aleluia."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel Acclamation"
+       ]
+      ],
+      "cite": "Jn 10:14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "I am the good shepherd, says the Lord; I know my sheep, and mine know me."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya"
+       ]
+      ],
+      "cite": "Jn 10, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Aleluya."
+       ],
+       [
+        "Yo soy el Buen Pastor —dice el Señor—"
+       ],
+       [
+        "que conozco a mis ovejas,"
+       ],
+       [
+        "y las mías me conocen."
+       ],
+       [
+        "Aleluya."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Canto al Vangelo"
+       ]
+      ],
+      "cite": "Gv 10, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alleluia, alleluia."
+       ],
+       [
+        "Io sono il buon pastore, dice il Signore, conosco le mie pecore e le mie pecore conoscono me."
+       ],
+       [
+        "Alleluia."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ]
+      ],
+      "cite": "Io 10, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Alléluia"
+       ],
+       [
+        "e suis le Bon Pasteur, dit le Seigneur ; je connais mes brebis et mes brebis me connaissent."
+       ],
+       [
+        "Alléluia"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ruf vor dem Evangelium"
+       ]
+      ],
+      "cite": "Joh 10, 14",
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Halleluja. Halleluja."
+       ],
+       [
+        "(So spricht der Herr:) Ich bin der gute Hirt. Ich kenne die Meinen, und die Meinen kennen mich."
+       ],
+       [
+        "Halleluja."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "acclamation"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pasce agnos meos, pasce oves meas."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Léctio sancti Evangélii secúndum Ioánnem"
+       ]
+      ],
+      "cite": "21, 15-17",
+      "role": "announcement"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelho"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apascenta os meus cordeiros, apascenta as minhas ovelhas."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Proclamação do Evangelho de Jesus Cristo segundo João"
+       ]
+      ],
+      "cite": "21, 15-17",
+      "role": "announcement"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Gospel"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " A reading from the holy Gospel according to John"
+       ]
+      ],
+      "cite": "21:15-17",
+      "role": "announcement"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelio"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Apacienta mis corderos, apacienta mis ovejas"
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Lectura del santo Evangelio según san Juan"
+       ]
+      ],
+      "cite": "21, 15-17",
+      "role": "announcement"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Vangelo"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Pasci i miei agnelli, pasci le mie pecore."
+       ]
+      ],
+      "role": "summary"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Dal Vangelo secondo Giovanni"
+       ]
+      ],
+      "cite": "21, 15-17",
+      "role": "announcement"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Proclamation de l'Évangile"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Évangile de Jésus-Christ selon saint Jean"
+       ]
+      ],
+      "cite": "21, 15-17",
+      "role": "announcement"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium"
+       ]
+      ],
+      "role": "title"
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "cross",
+         "t": "✠"
+        },
+        " Aus dem heiligen Evangelium nach Johannes"
+       ]
+      ],
+      "cite": "21, 1. 15-17",
+      "role": "announcement"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.12"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria tibi, Domine."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glory to you, O Lord."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a te, o Signore."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloire à toi, Seigneur !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Ehre sei dir, o Herr."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.12"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Cum [manifestásset se Iesus discípulis suis et] prandísset cum eis, dicit Simóni Petro Iesus: «Simon Ioánnis, díligis me plus his?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit ei: «Etiam, Dómine, tu scis quia amo te»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit ei: «Pasce agnos meos»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit ei íterum secúndo: «Simon Ioánnis, díligis me?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ait illi: «Etiam, Dómine, tu scis quia amo te»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit ei: «Pasce oves meas»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit ei tértio: «Simon Ioánnis, amas me?»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Contristátus est Petrus quia dixit ei tértio: «Amas me?», et dicit ei: «Dómine, tu ómnia scis, tu cognóscis quia amo te»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Dicit ei: «Pasce oves meas»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Verbum Dómini."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus manifestou-se aos seus discípulos e, depois de comerem com eles, perguntou a Simão Pedro: \"Simão, filho de João, tu me amas mais do que estes?\" Pedro respondeu: \"Sim, Senhor, tu sabes que eu te amo\". Jesus disse: \"Apascenta os meus cordeiros\". E disse de novo a Pedro: \"Simão, filho de João, tu me amas?\" Pedro disse: \"Sim, Senhor, tu sabes que eu te amo\" Jesus lhe disse: \"Apascenta as minhas ovelhas\". Pela terceira vez, perguntou a Pedro: \"Simão, filho de João, tu me amas?\" Pedro ficou triste, porque Jesus perguntou três vezes se ele o amava. Respondeu: \"Senhor, tu sabes tudo; tu sabes que eu te amo\". Jesus disse-lhe: \"Apascenta as minhas ovelhas\"."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palavra da Salvação."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jesus showed himself to his disciples, and after they had eaten he said to Simon Peter, 'Simon son of John, do you love me more than these others do?' He answered, 'Yes Lord, you know I love you'. Jesus said to him, 'Feed my lambs'. A second time he said to him, 'Simon son of John, do you love me?' He replied, 'Yes, Lord, you know I love you'. Jesus said to him, 'Look after my sheep'. Then he said to him a third time, 'Simon son of John, do you love me?' Peter was upset that he asked him the third time, 'Do you love me?' and said, 'Lord, you know everything; you know I love you'. Jesus said to him, 'Feed my sheep."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "The Gospel of the Lord."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Habiéndose aparecido Jesús a sus discípulos, después de comer, le dice a Simón Pedro:"
+       ],
+       [
+        "«Simón, hijo de Juan, ¿me amas más que estos?»."
+       ],
+       [
+        "Él le contestó:"
+       ],
+       [
+        "«Sí, Señor, tú sabes que te quiero»."
+       ],
+       [
+        "Jesús le dice:"
+       ],
+       [
+        "«Apacienta mis corderos»."
+       ],
+       [
+        "Por segunda vez le pregunta:"
+       ],
+       [
+        "«Simón, hijo de Juan, ¿me amas?»."
+       ],
+       [
+        "Él le contesta:"
+       ],
+       [
+        "«Sí, Señor, tú sabes que te quiero»."
+       ],
+       [
+        "Él le dice:"
+       ],
+       [
+        "«Pastorea mis ovejas»."
+       ],
+       [
+        "Por tercera vez le pregunta:"
+       ],
+       [
+        "«Simón, hijo de Juan, ¿me quieres?»."
+       ],
+       [
+        "Se entristeció Pedro de que le preguntara por tercera vez: «¿Me quieres?» y le contestó:"
+       ],
+       [
+        "«Señor, tú conoces todo, tú sabes que te quiero»."
+       ],
+       [
+        "Jesús le dice:"
+       ],
+       [
+        "«Apacienta mis ovejas»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Palabra del Señor."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In quel tempo, quando [si fu manifestato ai discepoli ed essi] ebbero mangiato, Gesù disse a Simon Pietro: «Simone, figlio di Giovanni, mi ami più di costoro?». Gli rispose: «Certo, Signore, tu lo sai che ti voglio bene». Gli disse: «Pasci i miei agnelli»."
+       ],
+       [
+        "Gli disse di nuovo, per la seconda volta: «Simone, figlio di Giovanni, mi ami?». Gli rispose: «Certo, Signore, tu lo sai che ti voglio bene». Gli disse: «Pascola le mie pecore»."
+       ],
+       [
+        "Gli disse per la terza volta: «Simone, figlio di Giovanni, mi vuoi bene?». Pietro rimase addolorato che per la terza volta gli domandasse: «Mi vuoi bene?», e gli disse: «Signore, tu conosci tutto; tu sai che ti voglio bene». Gli rispose Gesù: «Pasci le mie pecore»."
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Parola del Signore."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Jésus se manifesta à ses disciples au bord du lac. Quand ils eurent mangé,"
+       ],
+       [
+        "il dit à Simon-Pierre :"
+       ],
+       [
+        "\" Simon, fils de Jean, m'aimes-tu vraiment, plus que ceux-ci ? \" Il lui"
+       ],
+       [
+        "répond : \" Oui, Seigneur ! Toi, tu le sais : je t'aime. \" Jésus lui dit :"
+       ],
+       [
+        "\" Sois le berger de mes agneaux. \" Il lui dit une deuxième fois :"
+       ],
+       [
+        "\" Simon, fils de Jean, m'aimes-tu vraiment ? \" Il lui répond :"
+       ],
+       [
+        "\" Oui, Seigneur ! Toi, tu le sais : je t'aime. \" Jésus lui dit :"
+       ],
+       [
+        "\" Sois le pasteur de mes brebis. \" Il lui dit, pour la troisième fois :"
+       ],
+       [
+        "\" Simon, fils de Jean, m'aimes-tu ? \" Pierre fut peiné parce que, la"
+       ],
+       [
+        "troisième fois, Jésus lui demandait : \" M'aimes-tu ? \" Il lui répond :"
+       ],
+       [
+        "\" Seigneur, toi, tu sais tout : tu sais bien que je t'aime. \" Jésus lui dit"
+       ],
+       [
+        ": \" Sois le berger de mes brebis. \""
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Acclamons la Parole de Dieu !"
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "In jener Zeit offenbarte sich Jesus den Jüngern noch einmal. Es war am See von Tiberias, und er offenbarte sich in folgender Weise."
+       ],
+       [
+        "Als sie gegessen hatten, sagte Jesus zu Simon Petrus: Simon, Sohn des Johannes, liebst du mich mehr als diese?"
+       ],
+       [
+        "Er antwortete ihm: Ja, Herr, du weißt, dass ich dich liebe."
+       ],
+       [
+        "Jesus sagte zu ihm: Weide meine Lämmer!"
+       ],
+       [
+        "Zum zweiten Mal fragte er ihn: Simon, Sohn des Johannes, liebst du mich?"
+       ],
+       [
+        "Er antwortete ihm: Ja, Herr, du weißt, dass ich dich liebe."
+       ],
+       [
+        "Jesus sagte zu ihm: Weide meine Schafe!"
+       ],
+       [
+        "Zum dritten Mal fragte er ihn: Simon, Sohn des Johannes, liebst du mich?"
+       ],
+       [
+        "Da wurde Petrus traurig, weil Jesus ihn zum dritten Mal gefragt hatte: Hast du mich lieb? Er gab ihm zur Antwort: Herr, du weißt alles; du weißt, dass ich dich liebhabe."
+       ],
+       [
+        "Jesus sagte zu ihm: Weide meine Schafe!"
+       ]
+      ]
+     },
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Evangelium unseres Herrn Jesus Christus."
+       ]
+      ],
+      "role": "conclusion"
+     }
+    ]
+   },
+   "part": "gospel",
+   "from": "common.pastors.gospel.12"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Laus tibi, Christe."
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Glória a vós, Senhor."
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Praise to you, Lord Jesus Christ."
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Gloria a ti, Señor Jesús."
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Lode a te, o Cristo."
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "R/. "
+        },
+        "Louange à toi, Seigneur Jésus !"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "A: "
+        },
+        "Lob sei dir, Christus."
+       ]
+      ]
+     }
+    ]
+   },
+   "role": "people",
+   "part": "gospel",
+   "from": "common.pastors.gospel.12"
+  }
+ ],
+ "title": {
+  "la": "S. Fabiani, papæ et martyris",
+  "pt-BR": "São Fabiano, papa e mártir",
+  "en-US": "Saint Fabian, pope and martyr",
+  "es": "San Fabián, papa y mártir",
+  "it": "San Fabiano, papa e martire",
+  "fr": "Saint Fabien, pape et martyr",
+  "de": "Hl. Fabian, Papst, Märtyrer"
+ }
+}

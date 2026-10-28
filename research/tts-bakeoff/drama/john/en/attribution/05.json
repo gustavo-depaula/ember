@@ -1,0 +1,357 @@
+{
+ "pericopes": [
+  1,
+  19,
+  31
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist telling the story."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; teaching with authority, calm and grave."
+  },
+  "infirm-man": {
+   "name": "The infirm man",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Paralytic of thirty-eight years at the pond of Probatica; weary, then defensive."
+  },
+  "the-jews": {
+   "name": "The Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Jewish authorities and opponents in Jerusalem and Capharnaum; challenging, hostile."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "After these things was a festival day of the Jews: and Jesus went up to Jerusalem."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Now there is at Jerusalem a pond, called Probatica, which in Hebrew is named Bethsaida, having five porches."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "In these lay a great multitude of sick, of blind, of lame, of withered: waiting for the moving of the water."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And an angel of the Lord descended at certain times into the pond and the water was moved. And he that went down first into the pond after the motion of the water was made whole of whatsoever infirmity he lay under."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And there was a certain man there that had been eight and thirty years under his infirmity."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Him when Jesus had seen lying, and knew that he had been now a long time, he saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Wilt thou be made whole?"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "The infirm man answered him:"
+   },
+   {
+    "s": "infirm-man",
+    "t": "Sir, I have no man, when the water is troubled, to put me into the pond. For whilst I am coming, another goeth down before me."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Arise, take up thy bed and walk."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And immediately the man was made whole: and he took up his bed and walked. And it was the sabbath that day."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "The Jews therefore said to him that was healed:"
+   },
+   {
+    "s": "the-jews",
+    "t": "It is the sabbath. It is not lawful for thee to take up thy bed."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "He answered them:"
+   },
+   {
+    "s": "infirm-man",
+    "t": "He that made me whole, he said to me: Take up thy bed and walk."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "They asked him therefore:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Who is that man who said to thee: Take up thy bed and walk?"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "But he who was healed knew not who it was: for Jesus went aside from the multitude standing in the place."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Afterwards, Jesus findeth him in the temple and saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Behold thou art made whole: sin no more, lest some worse thing happen to thee."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "The man went his way and told the Jews that it was Jesus who had made him whole."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Therefore did the Jews persecute Jesus, because he did these things on the sabbath."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "But Jesus answered them:"
+   },
+   {
+    "s": "jesus",
+    "t": "My Father worketh until now; and I work."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Hereupon therefore the Jews sought the more to kill him, because he did not only break the sabbath but also said God was his Father, making himself equal to God."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Then Jesus answered and said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say unto you, the Son cannot do any thing of himself, but what he seeth the Father doing: for what things soever he doth, these the Son also doth in like manner."
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "For the Father loveth the Son and sheweth him all things which himself doth: and greater works than these will he shew him, that you may wonder."
+   }
+  ],
+  "21": [
+   {
+    "s": "jesus",
+    "t": "For as the Father raiseth up the dead and giveth life: so the Son also giveth life to whom he will."
+   }
+  ],
+  "22": [
+   {
+    "s": "jesus",
+    "t": "For neither does the Father judge any man: but hath given all judgment to the Son."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "That all men may honour the Son, as they honour the Father. He who honoureth not the Son honoureth not the Father who hath sent him."
+   }
+  ],
+  "24": [
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say unto you that he who heareth my word and believeth him that sent me hath life everlasting: and cometh not into judgment, but is passed from death to life."
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say unto you, that the hour cometh, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "For as the Father hath life in himself, so he hath given to the Son also to have life in himself."
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "And he hath given him power to do judgment, because he is the Son of man."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "Wonder not at this: for the hour cometh wherein all that are in the graves shall hear the voice of the Son of God."
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "And they that have done good things shall come forth unto the resurrection of life: but they that have done evil, unto the resurrection of judgment."
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "I cannot of myself do any thing. As I hear, so I judge. And my judgment is just: because I seek not my own will. but the will of him that sent me."
+   }
+  ],
+  "31": [
+   {
+    "s": "jesus",
+    "t": "If I bear witness of myself, my witness is not true."
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "There is another that beareth witness of me: and I know that the witness which he witnesseth of me is true."
+   }
+  ],
+  "33": [
+   {
+    "s": "jesus",
+    "t": "You sent to John: and he gave testimony to the truth."
+   }
+  ],
+  "34": [
+   {
+    "s": "jesus",
+    "t": "But I receive not testimony from man: but I say these things, that you may be saved."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "He was a burning and a shining light: and you were willing for a time to rejoice in his light."
+   }
+  ],
+  "36": [
+   {
+    "s": "jesus",
+    "t": "But I have a greater testimony than that of John: for the works which the Father hath given me to perfect, the works themselves which I do, give testimony of me, that the Father hath sent me."
+   }
+  ],
+  "37": [
+   {
+    "s": "jesus",
+    "t": "And the Father himself who hath sent me hath given testimony of me: neither have you heard his voice at any time, nor seen his shape."
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "And you have not his word abiding in you: for whom he hath sent, him you believe not."
+   }
+  ],
+  "39": [
+   {
+    "s": "jesus",
+    "t": "Search the scriptures: for you think in them to have life everlasting. And the same are they that give testimony of me."
+   }
+  ],
+  "40": [
+   {
+    "s": "jesus",
+    "t": "And you will not come to me that you may have life."
+   }
+  ],
+  "41": [
+   {
+    "s": "jesus",
+    "t": "I receive not glory from men."
+   }
+  ],
+  "42": [
+   {
+    "s": "jesus",
+    "t": "But I know you, that you have not the love of God in you."
+   }
+  ],
+  "43": [
+   {
+    "s": "jesus",
+    "t": "I am come in the name of my Father, and you receive me not: if another shall come in his own name, him you will receive."
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "How can you believe, who receive glory one from another: and the glory which is from God alone, you do not seek?"
+   }
+  ],
+  "45": [
+   {
+    "s": "jesus",
+    "t": "Think not that I will accuse you to the Father. There is one that accuseth you, Moses, in whom you trust."
+   }
+  ],
+  "46": [
+   {
+    "s": "jesus",
+    "t": "For if you did believe Moses, you would perhaps believe me also: for he wrote of me."
+   }
+  ],
+  "47": [
+   {
+    "s": "jesus",
+    "t": "But if you do not believe his writings, how will you believe my words?"
+   }
+  ]
+ }
+}

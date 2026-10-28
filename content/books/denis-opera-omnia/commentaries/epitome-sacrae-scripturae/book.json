@@ -1,0 +1,399 @@
+{
+  "id": "denis-epitome-sacrae-scripturae",
+  "cover": "label",
+  "name": {
+    "la": "Epitome Sacræ Scripturæ",
+    "en-US": "Summary of Holy Scripture",
+    "pt-BR": "Epítome da Sagrada Escritura"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "Epitome Sacræ Scripturæ.",
+    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniainunum14deni",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XIV (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Prologus",
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
+      }
+    },
+    {
+      "id": "g001",
+      "title": {
+        "la": "Liber: Genesis",
+        "en-US": "Book: Genesis",
+        "pt-BR": "Livro: Genesis"
+      },
+      "children": [
+        {
+          "id": "c002",
+          "title": {
+            "la": "Liber: Genesis",
+            "en-US": "Book: Genesis",
+            "pt-BR": "Livro: Genesis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g002",
+      "title": {
+        "la": "Liber: Exodi",
+        "en-US": "Book: Exodi",
+        "pt-BR": "Livro: Exodi"
+      },
+      "children": [
+        {
+          "id": "c003",
+          "title": {
+            "la": "Liber: Exodi",
+            "en-US": "Book: Exodi",
+            "pt-BR": "Livro: Exodi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g003",
+      "title": {
+        "la": "Liber: Leviticus",
+        "en-US": "Book: Leviticus",
+        "pt-BR": "Livro: Leviticus"
+      },
+      "children": [
+        {
+          "id": "c004",
+          "title": {
+            "la": "Liber: Leviticus",
+            "en-US": "Book: Leviticus",
+            "pt-BR": "Livro: Leviticus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g004",
+      "title": {
+        "la": "Liber: Numeri",
+        "en-US": "Book: Numeri",
+        "pt-BR": "Livro: Numeri"
+      },
+      "children": [
+        {
+          "id": "c005",
+          "title": {
+            "la": "Liber: Numeri",
+            "en-US": "Book: Numeri",
+            "pt-BR": "Livro: Numeri"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g005",
+      "title": {
+        "la": "Liber: Deuteronomii",
+        "en-US": "Book: Deuteronomii",
+        "pt-BR": "Livro: Deuteronomii"
+      },
+      "children": [
+        {
+          "id": "c006",
+          "title": {
+            "la": "Liber: Deuteronomii",
+            "en-US": "Book: Deuteronomii",
+            "pt-BR": "Livro: Deuteronomii"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g006",
+      "title": {
+        "la": "Liber: Josue",
+        "en-US": "Book: Josue",
+        "pt-BR": "Livro: Josue"
+      },
+      "children": [
+        {
+          "id": "c007",
+          "title": {
+            "la": "Liber: Josue",
+            "en-US": "Book: Josue",
+            "pt-BR": "Livro: Josue"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g007",
+      "title": {
+        "la": "Liber: Judicum",
+        "en-US": "Book: Judicum",
+        "pt-BR": "Livro: Judicum"
+      },
+      "children": [
+        {
+          "id": "c008",
+          "title": {
+            "la": "Liber: Judicum",
+            "en-US": "Book: Judicum",
+            "pt-BR": "Livro: Judicum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g008",
+      "title": {
+        "la": "Liber: Ruth",
+        "en-US": "Book: Ruth",
+        "pt-BR": "Livro: Ruth"
+      },
+      "children": [
+        {
+          "id": "c009",
+          "title": {
+            "la": "Liber: Ruth",
+            "en-US": "Book: Ruth",
+            "pt-BR": "Livro: Ruth"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g009",
+      "title": {
+        "la": "Liber: Regum primus",
+        "en-US": "Book: Regum primus",
+        "pt-BR": "Livro: Regum primus"
+      },
+      "children": [
+        {
+          "id": "c010",
+          "title": {
+            "la": "Liber: Regum primus",
+            "en-US": "Book: Regum primus",
+            "pt-BR": "Livro: Regum primus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g010",
+      "title": {
+        "la": "Liber: Regum secundus",
+        "en-US": "Book: Regum secundus",
+        "pt-BR": "Livro: Regum secundus"
+      },
+      "children": [
+        {
+          "id": "c011",
+          "title": {
+            "la": "Liber: Regum secundus",
+            "en-US": "Book: Regum secundus",
+            "pt-BR": "Livro: Regum secundus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g011",
+      "title": {
+        "la": "Liber: Regum tertius",
+        "en-US": "Book: Regum tertius",
+        "pt-BR": "Livro: Regum tertius"
+      },
+      "children": [
+        {
+          "id": "c012",
+          "title": {
+            "la": "Liber: Regum tertius",
+            "en-US": "Book: Regum tertius",
+            "pt-BR": "Livro: Regum tertius"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g012",
+      "title": {
+        "la": "Liber: Regum quartus",
+        "en-US": "Book: Regum quartus",
+        "pt-BR": "Livro: Regum quartus"
+      },
+      "children": [
+        {
+          "id": "c013",
+          "title": {
+            "la": "Liber: Regum quartus",
+            "en-US": "Book: Regum quartus",
+            "pt-BR": "Livro: Regum quartus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g013",
+      "title": {
+        "la": "Liber: Paralipomenon primus",
+        "en-US": "Book: Paralipomenon primus",
+        "pt-BR": "Livro: Paralipomenon primus"
+      },
+      "children": [
+        {
+          "id": "c014",
+          "title": {
+            "la": "Liber: Paralipomenon primus",
+            "en-US": "Book: Paralipomenon primus",
+            "pt-BR": "Livro: Paralipomenon primus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g014",
+      "title": {
+        "la": "Liber: Paralipomenon secundus",
+        "en-US": "Book: Paralipomenon secundus",
+        "pt-BR": "Livro: Paralipomenon secundus"
+      },
+      "children": [
+        {
+          "id": "c015",
+          "title": {
+            "la": "Liber: Paralipomenon secundus",
+            "en-US": "Book: Paralipomenon secundus",
+            "pt-BR": "Livro: Paralipomenon secundus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g015",
+      "title": {
+        "la": "Liber: Judith",
+        "en-US": "Book: Judith",
+        "pt-BR": "Livro: Judith"
+      },
+      "children": [
+        {
+          "id": "c016",
+          "title": {
+            "la": "Liber: Judith",
+            "en-US": "Book: Judith",
+            "pt-BR": "Livro: Judith"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g016",
+      "title": {
+        "la": "Liber: Esther",
+        "en-US": "Book: Esther",
+        "pt-BR": "Livro: Esther"
+      },
+      "children": [
+        {
+          "id": "c017",
+          "title": {
+            "la": "Liber: Esther",
+            "en-US": "Book: Esther",
+            "pt-BR": "Livro: Esther"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g017",
+      "title": {
+        "la": "Liber: Job",
+        "en-US": "Book: Job",
+        "pt-BR": "Livro: Job"
+      },
+      "children": [
+        {
+          "id": "c018",
+          "title": {
+            "la": "Liber: Job",
+            "en-US": "Book: Job",
+            "pt-BR": "Livro: Job"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g018",
+      "title": {
+        "la": "Liber: Proverbiorum",
+        "en-US": "Book: Proverbiorum",
+        "pt-BR": "Livro: Proverbiorum"
+      },
+      "children": [
+        {
+          "id": "c019",
+          "title": {
+            "la": "Liber: Proverbiorum",
+            "en-US": "Book: Proverbiorum",
+            "pt-BR": "Livro: Proverbiorum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g019",
+      "title": {
+        "la": "Liber: Ecclesiastici",
+        "en-US": "Book: Ecclesiastici",
+        "pt-BR": "Livro: Ecclesiastici"
+      },
+      "children": [
+        {
+          "id": "c020",
+          "title": {
+            "la": "Liber: Ecclesiastici",
+            "en-US": "Book: Ecclesiastici",
+            "pt-BR": "Livro: Ecclesiastici"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g020",
+      "title": {
+        "la": "Liber: Actuum apostolorum",
+        "en-US": "Book: Actuum apostolorum",
+        "pt-BR": "Livro: Actuum apostolorum"
+      },
+      "children": [
+        {
+          "id": "c021",
+          "title": {
+            "la": "Liber: Actuum apostolorum",
+            "en-US": "Book: Actuum apostolorum",
+            "pt-BR": "Livro: Actuum apostolorum"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -2,13 +2,16 @@
   "id": "augustine-proceedings-of-pelagius",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Proceedings of Pelagius"
+    "en-US": "On the Proceedings of Pelagius",
+    "pt-BR": "Sobre as Atas de Pelágio"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Proceedings of Pelagius"
+        "en-US": "On the Proceedings of Pelagius",
+        "pt-BR": "Sobre as Atas de Pelágio"
       }
     }
   ]

@@ -1,57 +1,34 @@
-import { create } from 'zustand'
-import { immer } from 'zustand/middleware/immer'
-import { useShallow } from 'zustand/react/shallow'
-import { loadJson, saveJson } from './persisted'
+import { useMemo } from 'react'
 
-// Saved churches (a home parish, places you visit). Persisted as one JSON blob in the generic
-// preferences KV store — no schema/migration. We keep a light snapshot per church (not just the id)
-// so the Saved list renders instantly without a network round-trip.
+import { emit, useEventStore } from '@/db/events'
+import type { FavoriteChurch } from '@/db/schema'
 
-const storageKey = 'mass-times.favorites'
+// Saved churches (a home parish, places you visit). Each keeps a light snapshot
+// of the church (not just the id) so the Saved list renders instantly without
+// a network round-trip.
 
-export type FavoriteChurch = {
-  id: string
-  name: string
-  city?: string
-  region?: string
+export type { FavoriteChurch }
+
+/** Rejects, leaving the list as it was, when the change could not be saved. */
+export async function toggleFavorite(church: FavoriteChurch): Promise<void> {
+  const saved = useEventStore.getState().favoriteChurches.has(church.id)
+  await emit(
+    saved
+      ? { type: 'ChurchUnfavorited', churchId: church.id }
+      : { type: 'ChurchFavorited', church },
+  )
 }
 
-type FavoritesState = {
-  favorites: Record<string, FavoriteChurch>
-  hydrated: boolean
-  /** Rejects, leaving the list as it was, when the change could not be saved. */
-  toggle: (church: FavoriteChurch) => Promise<void>
-  hydrate: () => Promise<void>
+/** The saved churches by id. */
+export function useFavorites(): Map<string, FavoriteChurch> {
+  return useEventStore((s) => s.favoriteChurches)
 }
-
-export const useFavoritesStore = create<FavoritesState>()(
-  immer((set, get) => ({
-    favorites: {},
-    hydrated: false,
-
-    toggle: async (church) => {
-      const { [church.id]: saved, ...others } = get().favorites
-      const next = saved ? others : { ...others, [church.id]: church }
-      await saveJson(storageKey, next)
-      set((state) => {
-        state.favorites = next
-      })
-    },
-
-    hydrate: async () => {
-      const stored = await loadJson<Record<string, FavoriteChurch>>(storageKey, {})
-      set((state) => {
-        state.favorites = stored
-        state.hydrated = true
-      })
-    },
-  })),
-)
 
 export function useIsFavorite(id: string): boolean {
-  return useFavoritesStore((s) => Boolean(s.favorites[id]))
+  return useEventStore((s) => s.favoriteChurches.has(id))
 }
 
 export function useFavoriteChurches(): FavoriteChurch[] {
-  return useFavoritesStore(useShallow((s) => Object.values(s.favorites)))
+  const favorites = useFavorites()
+  return useMemo(() => [...favorites.values()], [favorites])
 }

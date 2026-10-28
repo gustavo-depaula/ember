@@ -2,13 +2,16 @@
   "id": "ephraim-for-the-feast-of-the-epiphany",
   "cover": "quarter",
   "name": {
-    "en-US": "For the Feast of the Epiphany"
+    "en-US": "For the Feast of the Epiphany",
+    "pt-BR": "Para a Festa da Epifania"
   },
   "author": {
-    "en-US": "Ephraim the Syrian (306-373)"
+    "en-US": "Ephraim the Syrian (306-373)",
+    "pt-BR": "Efrém, o Sírio (306-373)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "For the Feast of the Epiphany"
+        "en-US": "For the Feast of the Epiphany",
+        "pt-BR": "Para a Festa da Epifania"
       }
     }
   ]

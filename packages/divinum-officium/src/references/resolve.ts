@@ -104,14 +104,11 @@ function flattenFile(file: SectionedDoFile, fname: string, ctx: RubricContext): 
   return out
 }
 
-// Port of setupstring()'s layered load (without @-resolution): requested
-// language sections over fallback over Latin, with the Rank/Officium merge
-// safeguard. Returns undefined when nothing exists in any language.
-async function loadLayered(
-  session: DoSession,
-  lang: string,
-  fname: string,
-): Promise<Sections | undefined> {
+type Layer = { area: DoArea; lang: string; fname: string }
+
+// Port of setupstring_layers: where a (language, file) pair lives — its area,
+// language dir and file name after the directory fallbacks.
+async function setupstringLayers(session: DoSession, lang: string, fname: string): Promise<Layer> {
   let area = session.area
   let effLang = lang
 
@@ -135,31 +132,119 @@ async function loadLayered(
   ) {
     effArea = 'horas'
   }
+  return { area: effArea, lang: effLang, fname: effFname }
+}
+
+// Port of section_in_own_layer: whether the translation in `lang` has a text
+// of its own for the section, rather than a gap or another @-inclusion.
+async function sectionInOwnLayer(
+  session: DoSession,
+  lang: string,
+  fname: string,
+  section: string,
+): Promise<boolean> {
+  if (!lang || lang === 'Latin' || !fname) return false
+  const layer = await setupstringLayers(session, lang, fname)
+  const parsed = await session.loader.load(`${layer.area}/${layer.lang}/${layer.fname}`)
+  if (!parsed || !isSectioned(parsed)) return false
+  const own = flattenFile(parsed, layer.fname, session.ctx)[section]
+  if (own === undefined || !/\S/.test(own)) return false
+  return !/^\s*@[^\n]*\s*$/m.test(own)
+}
+
+// Port of pure_inclusion: the section body is nothing but @-inclusions, after
+// any leading !-citation lines and blank lines.
+function pureInclusion(text: string | undefined): boolean {
+  if (text === undefined) return false
+  return /^(?:(?:\s*![^\n]*\n|[^\S\n]*\n)*\s*@[^\n]*(?:\n(?:\s*@[^\n]*))*)\s*$/.test(text)
+}
+
+// Sections that drive day selection, ranking, rule guards or the display name
+// always keep the fallback language's value.
+const notAProper = /^(?:__preamble|Rank|Officium|Name)$/
+
+// Port of prefer_latin_inclusion: where the fallback language wrote a proper
+// out in full and Latin only refers to another proper, keep the Latin
+// reference when every proper it names exists in the requested language, so
+// that it resolves there instead of dropping to the fallback's text.
+async function preferLatinInclusion(
+  session: DoSession,
+  merged: Sections,
+  base: Sections | undefined,
+  calledLang: string,
+  latinLang: string,
+  fname: string,
+): Promise<void> {
+  if (!calledLang || calledLang === latinLang) return
+  if (!base) return
+  const latin = await loadLayered(session, latinLang, fname)
+  if (!latin) return
+
+  for (const key of Object.keys(base)) {
+    if (notAProper.test(key)) continue
+    if (merged[key]) continue
+    if (!pureInclusion(latin[key])) continue
+
+    let refs: string[] = []
+    for (const line of latin[key].split('\n')) {
+      if (/^\s*$/.test(line) || /^\s*!/.test(line)) continue
+      const m = inclusionLineRegex.exec(line)
+      if (!m || !(await sectionInOwnLayer(session, calledLang, m[1] || fname, m[2] || key))) {
+        refs = []
+        break
+      }
+      refs.push(line)
+    }
+    if (refs.length === 0) continue
+
+    // The fallback already satisfies the section by reference, with
+    // substitutions adapted to its language (names): leave those in place.
+    if (pureInclusion(base[key])) continue
+
+    merged[key] = `${refs.join('\n')}\n`
+  }
+}
+
+// Port of setupstring()'s layered load (without @-resolution): requested
+// language sections over fallback over Latin, with the Rank/Officium merge
+// safeguard. Returns undefined when nothing exists in any language.
+async function loadLayered(
+  session: DoSession,
+  lang: string,
+  fname: string,
+): Promise<Sections | undefined> {
+  const {
+    area: effArea,
+    lang: effLang,
+    fname: effFname,
+  } = await setupstringLayers(session, lang, fname)
 
   const cacheKey = `${session.ctx.version}|${effArea}|${effLang}|${effFname}`
   const cached = session.sectionCache.get(cacheKey)
   if (cached) return cached
 
   const promise = (async (): Promise<Sections | undefined> => {
-    let base: Sections = { __preamble: '' }
+    const latinLang = lang.includes('../missa') ? '../missa/Latin' : 'Latin'
+    // Only for a language that is neither Latin nor the fallback: for those
+    // the layer below already is Latin.
+    const checkLatinInclusion =
+      effLang !== '' &&
+      effLang !== 'Latin' &&
+      effLang !== session.fallbackLang &&
+      !effLang.includes('-')
+
+    let loadedBase: Sections | undefined
     if (effLang === session.fallbackLang && effLang !== 'Latin') {
-      base = (await loadLayered(
-        session,
-        lang.includes('../missa') ? '../missa/Latin' : 'Latin',
-        fname,
-      )) ?? {
-        __preamble: '',
-      }
+      loadedBase = await loadLayered(session, latinLang, fname)
     } else if (effLang.includes('-')) {
-      base = (await loadLayered(session, effLang.replace(/-[^-]+$/, ''), fname)) ?? {
-        __preamble: '',
-      }
+      loadedBase = await loadLayered(session, effLang.replace(/-[^-]+$/, ''), fname)
     } else if (effLang && effLang !== 'Latin') {
       const fb = lang.includes('../missa')
         ? `../missa/${session.fallbackLang}`
         : session.fallbackLang
-      base = (await loadLayered(session, fb, fname)) ?? { __preamble: '' }
+      loadedBase = await loadLayered(session, fb, fname)
     }
+    const base: Sections = loadedBase ?? { __preamble: '' }
 
     const parsed = await session.loader.load(`${effArea}/${effLang}/${effFname}`)
     let merged: Sections
@@ -174,6 +259,11 @@ async function loadLayered(
             merged[`HymnusM ${m[1]}`] = merged[key]
           }
         }
+      }
+
+      // Before the layer below is merged in, while the gaps are still gaps.
+      if (checkLatinInclusion) {
+        await preferLatinInclusion(session, merged, loadedBase, lang, latinLang, effFname)
       }
 
       if (merged.__preamble !== (base.__preamble ?? '')) {
@@ -197,7 +287,15 @@ async function loadLayered(
         merged.Rank = newRank.join(';;')
       }
     } else {
-      merged = base
+      // No file of its own: the fallback provides everything, except where a
+      // Latin reference can be satisfied in the requested language.
+      merged = {}
+      if (checkLatinInclusion) {
+        await preferLatinInclusion(session, merged, loadedBase, lang, latinLang, effFname)
+      }
+      for (const key of Object.keys(base)) {
+        if (!merged[key]) merged[key] = base[key]
+      }
     }
 
     const hasContent = Object.keys(merged).some((k) => k !== '__preamble' || merged[k])

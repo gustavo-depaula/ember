@@ -1,0 +1,335 @@
+{
+  "id": "denis-enarratio-in-i-corinthios",
+  "cover": "label",
+  "name": {
+    "la": "Enarratio in Epistolam I ad Corinthios",
+    "en-US": "Commentary on 1 Corinthians",
+    "pt-BR": "Comentário a 1 Coríntios"
+  },
+  "author": {
+    "la": "Dionysius Cartusianus",
+    "en-US": "Denis the Carthusian",
+    "pt-BR": "Dionísio, o Cartuxo"
+  },
+  "description": {
+    "la": "Enarratio in Epistolam I ad Corinthios.",
+    "en-US": "Denis the Carthusian's commentary, literal and then mystical, from the Montreuil edition.",
+    "pt-BR": "O comentário de Dionísio, o Cartuxo, literal e depois místico, da edição de Montreuil."
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniainunum13deni",
+      "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tom. XIII (Monstrolii–Tornaci, 1896–1913). Text read from the scans with dots.mocr, and proofread page by page by Claude against the scans (research/denis-carthusian)."
+    }
+  ],
+  "languages": [
+    "la"
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Præfatio",
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
+      }
+    },
+    {
+      "id": "g001",
+      "title": {
+        "la": "Caput 1",
+        "en-US": "Chapter 1",
+        "pt-BR": "Capítulo 1"
+      },
+      "children": [
+        {
+          "id": "c002",
+          "title": {
+            "la": "Articulus 1",
+            "en-US": "Article 1",
+            "pt-BR": "Artigo 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g002",
+      "title": {
+        "la": "Caput 2",
+        "en-US": "Chapter 2",
+        "pt-BR": "Capítulo 2"
+      },
+      "children": [
+        {
+          "id": "c003",
+          "title": {
+            "la": "Articulus 2",
+            "en-US": "Article 2",
+            "pt-BR": "Artigo 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g003",
+      "title": {
+        "la": "Caput 3",
+        "en-US": "Chapter 3",
+        "pt-BR": "Capítulo 3"
+      },
+      "children": [
+        {
+          "id": "c004",
+          "title": {
+            "la": "Articulus 3",
+            "en-US": "Article 3",
+            "pt-BR": "Artigo 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g004",
+      "title": {
+        "la": "Caput 4",
+        "en-US": "Chapter 4",
+        "pt-BR": "Capítulo 4"
+      },
+      "children": [
+        {
+          "id": "c005",
+          "title": {
+            "la": "Articulus 4",
+            "en-US": "Article 4",
+            "pt-BR": "Artigo 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g005",
+      "title": {
+        "la": "Caput 5",
+        "en-US": "Chapter 5",
+        "pt-BR": "Capítulo 5"
+      },
+      "children": [
+        {
+          "id": "c006",
+          "title": {
+            "la": "Articulus 5",
+            "en-US": "Article 5",
+            "pt-BR": "Artigo 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g006",
+      "title": {
+        "la": "Caput 6",
+        "en-US": "Chapter 6",
+        "pt-BR": "Capítulo 6"
+      },
+      "children": [
+        {
+          "id": "c007",
+          "title": {
+            "la": "Articulus 6",
+            "en-US": "Article 6",
+            "pt-BR": "Artigo 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g007",
+      "title": {
+        "la": "Caput 7",
+        "en-US": "Chapter 7",
+        "pt-BR": "Capítulo 7"
+      },
+      "children": [
+        {
+          "id": "c008",
+          "title": {
+            "la": "Articulus 7",
+            "en-US": "Article 7",
+            "pt-BR": "Artigo 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g008",
+      "title": {
+        "la": "Caput 8",
+        "en-US": "Chapter 8",
+        "pt-BR": "Capítulo 8"
+      },
+      "children": [
+        {
+          "id": "c009",
+          "title": {
+            "la": "Articulus 8",
+            "en-US": "Article 8",
+            "pt-BR": "Artigo 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g009",
+      "title": {
+        "la": "Caput 9",
+        "en-US": "Chapter 9",
+        "pt-BR": "Capítulo 9"
+      },
+      "children": [
+        {
+          "id": "c010",
+          "title": {
+            "la": "Articulus 9",
+            "en-US": "Article 9",
+            "pt-BR": "Artigo 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g010",
+      "title": {
+        "la": "Caput 10",
+        "en-US": "Chapter 10",
+        "pt-BR": "Capítulo 10"
+      },
+      "children": [
+        {
+          "id": "c011",
+          "title": {
+            "la": "Articulus 10",
+            "en-US": "Article 10",
+            "pt-BR": "Artigo 10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g011",
+      "title": {
+        "la": "Caput 11",
+        "en-US": "Chapter 11",
+        "pt-BR": "Capítulo 11"
+      },
+      "children": [
+        {
+          "id": "c012",
+          "title": {
+            "la": "Articulus 11",
+            "en-US": "Article 11",
+            "pt-BR": "Artigo 11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g012",
+      "title": {
+        "la": "Caput 12",
+        "en-US": "Chapter 12",
+        "pt-BR": "Capítulo 12"
+      },
+      "children": [
+        {
+          "id": "c013",
+          "title": {
+            "la": "Articulus 12",
+            "en-US": "Article 12",
+            "pt-BR": "Artigo 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g013",
+      "title": {
+        "la": "Caput 13",
+        "en-US": "Chapter 13",
+        "pt-BR": "Capítulo 13"
+      },
+      "children": [
+        {
+          "id": "c014",
+          "title": {
+            "la": "Articulus 13",
+            "en-US": "Article 13",
+            "pt-BR": "Artigo 13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g014",
+      "title": {
+        "la": "Caput 14",
+        "en-US": "Chapter 14",
+        "pt-BR": "Capítulo 14"
+      },
+      "children": [
+        {
+          "id": "c015",
+          "title": {
+            "la": "Articulus 14",
+            "en-US": "Article 14",
+            "pt-BR": "Artigo 14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g015",
+      "title": {
+        "la": "Caput 15",
+        "en-US": "Chapter 15",
+        "pt-BR": "Capítulo 15"
+      },
+      "children": [
+        {
+          "id": "c016",
+          "title": {
+            "la": "Articulus 15",
+            "en-US": "Article 15",
+            "pt-BR": "Artigo 15"
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Articulus 16",
+            "en-US": "Article 16",
+            "pt-BR": "Artigo 16"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g016",
+      "title": {
+        "la": "Caput 16",
+        "en-US": "Chapter 16",
+        "pt-BR": "Capítulo 16"
+      },
+      "children": [
+        {
+          "id": "c018",
+          "title": {
+            "la": "Articulus 17",
+            "en-US": "Article 17",
+            "pt-BR": "Artigo 17"
+          }
+        }
+      ]
+    }
+  ]
+}

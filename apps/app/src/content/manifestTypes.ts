@@ -16,12 +16,23 @@ export type CatalogItemKind =
   | 'practice'
   | 'chapter'
   | 'book'
-  | 'mass'
-  | 'of-ordinary'
-  | 'of-preface'
-  | 'of-eucharistic-prayer'
-  | 'of-data'
+  | 'mass-formulary'
+  | 'mass-lectionary'
+  | 'mass-eucharistic-prayer'
+  | 'mass-order'
+  | 'mass-extra'
+  | 'mass-prefaces'
+  | 'mass-calendar'
+  | 'loth-calendar'
+  | 'loth-index'
+  | 'loth-parts'
+  | 'loth-extras'
+  | 'loth-library'
   | 'do-data'
+  | 'chant'
+  | 'chant-book'
+  | 'chant-index'
+  | 'chant-bundle'
   | 'collection'
   | 'plan-of-life-template'
   | 'checkup'
@@ -70,14 +81,35 @@ export type CatalogEntry = {
   form?: 'prayer'
   liturgical?: boolean
   estimatedMinutes?: number
+  // An office's shortest and longest hour, in place of its `hourMinutes`.
+  minutesRange?: [number, number]
+  duration?: PracticeDuration
   cover?: string
   subtitle?: LocalizedText
+  /** A chant's mode, as its book numbers it (`1`–`8`, or a letter for a tonus). */
+  mode?: string
   // Praying this practice is Mass or the Office (holy cards); forms carry their
   // group primary's, resolved at build.
   liturgicalAct?: LiturgicalAct
+  // Praying this practice is one of the three prayers of a prayed day (holy
+  // cards); carried to forms as `liturgicalAct` is.
+  dayPrayer?: DayPrayer
 }
 
 export type LiturgicalAct = 'mass' | 'office'
+
+/**
+ * A length the text can't give. `chosen`: as long as the person gives it
+ * (mental prayer, a holy hour) — the plan keeps their choice among `choices`.
+ * `by-day`: as long as the celebration, which Sundays and holy days of
+ * obligation lengthen (Mass).
+ */
+export type PracticeDuration =
+  | { type: 'chosen'; default: number; choices: number[] }
+  | { type: 'by-day'; weekday: number; sunday: number }
+
+/** The morning offering, the rosary and the examination of conscience: all three prayed on one day give what the Office gives. */
+export type DayPrayer = 'offering' | 'rosary' | 'examen'
 
 export type Catalog = {
   version: 2
@@ -125,6 +157,22 @@ export type ProgramConfig = {
    * day counts back from it.
    */
   ends?: string | { anchor: LiturgicalAnchor; offset: number }
+  /**
+   * The calendar rule that dates the days of a program the calendar brings
+   * round (the Ember days): each round is `totalDays` long and has a key. Its
+   * days are never begun or restarted: a day missed stays missed, and the days
+   * after it are still offered.
+   */
+  days?: { type: 'ember-days' }
+  /**
+   * Kept on the calendar's dates alone, so there is no first day to choose
+   * (the Christmas novena). A program dated by `days` is always so.
+   */
+  fixedDates?: boolean
+  /** The cards of a program dated by `days`, by round: given for a round kept whole. */
+  holyCard?: Record<string, string>
+  /** The line a day shows on the program's page, read from a source on its date. */
+  excerpt?: { ref: string; params?: Record<string, unknown> }
 }
 
 export type PracticeManifest = {
@@ -136,7 +184,15 @@ export type PracticeManifest = {
   history?: LocalizedText
   howToPray?: LocalizedText
   categories?: string[]
+  // Minutes to pray it. What a manifest leaves out is counted from its text at
+  // build: `estimatedMinutes`, and for an office `hourMinutes` (by option id
+  // of its hour select). An office an engine assembles has no text to count:
+  // its `hourMinutes` are measured by scripts/measure-hour-minutes.ts.
+  // `duration` is for a length no text gives. Read them through
+  // `practiceMinutes`.
   estimatedMinutes?: number
+  hourMinutes?: Record<string, number>
+  duration?: PracticeDuration
   icon?: string
   image?: string
   thumbnail?: string
@@ -147,6 +203,9 @@ export type PracticeManifest = {
   // Praying this counts as attending Mass or praying the Divine Office (holy
   // cards). Set on a form group's primary; the build gives it to every form.
   liturgicalAct?: LiturgicalAct
+  // Praying this is one of the three prayers of a prayed day (holy cards). Set
+  // on a form group's primary; the build gives it to every form.
+  dayPrayer?: DayPrayer
   // Saint of the Day: the holy cards a new user picks two starters from.
   holyCardStarters?: string[]
   // A novena: the holy card it gives once finished (its saint or feast), or the
@@ -159,6 +218,13 @@ export type PracticeManifest = {
   vars?: Record<string, string>
   pack?: string
   tags?: string[]
+  // What search reads beyond the names, by language. Written by the corpus
+  // build: `keywords` are the manifest's own plus the collection headings the
+  // practice is filed under; `lines` open the prayers its flow words itself.
+  search?: {
+    keywords?: Partial<Record<string, string[]>>
+    lines?: Partial<Record<string, string[]>>
+  }
   defaults?: { sortOrder?: number; slots?: SlotDefault[] }
   notifications?: NotificationsManifest
   /** Inline flow — alternative to a separate flow.json hashed into flowHash. */
@@ -224,12 +290,6 @@ export type BookEntry = {
   // Stemmed inverted index per language, fetched on first in-book search.
   // See scripts/build-corpus.py:build_search_index_for_book for the shape.
   searchIndex?: Record<string, BlobRef>
-}
-
-export type LangSplitItemManifest = {
-  id: string
-  shape: BlobRef
-  langs: Record<string, BlobRef>
 }
 
 export type DataItemManifest = {

@@ -72,6 +72,7 @@ const navKey: Partial<Record<Section | 'home', Section | 'home'>> = {
   collections: 'library',
   readings: 'library',
   voices: 'library',
+  chant: 'library',
   plans: 'prayers',
 }
 const active = section ? (navKey[section] ?? section) : undefined
@@ -93,6 +94,7 @@ const tabKey: Partial<Record<Section | 'home', string>> = {
   collections: 'library',
   readings: 'library',
   voices: 'library',
+  chant: 'library',
   calendar: 'saints',
 }
 const activeTab = section ? (tabKey[section] ?? section) : undefined
@@ -202,6 +204,7 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
                 <li><a href={href.section(locale, 'bible')}>{s('navBible')}</a></li>
                 <li><a href={href.section(locale, 'books')}>{locale === 'pt-BR' ? 'Livros' : 'Books'}</a></li>
                 <li><a href={href.section(locale, 'collections')}>{locale === 'pt-BR' ? 'Coleções' : 'Collections'}</a></li>
+                <li><a href={href.section(locale, 'chant')}>{locale === 'pt-BR' ? 'Canto gregoriano' : 'Gregorian chant'}</a></li>
                 <li><a href={href.section(locale, 'saints')}>{s('navSaints')}</a></li>
               </ul>
             </div>
@@ -209,6 +212,8 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
               <h2>{s('footEmber')}</h2>
               <ul>
                 <li><a href={href.landing(locale)}>{s('theApp')}</a></li>
+                <li><a href={href.section(locale, 'connect')}>{s('connect')}</a></li>
+                <li><a href={href.developers(locale)}>{s('developers')}</a></li>
                 <li><a href={href.privacy()}>{s('privacy')}</a></li>
                 <li><a href="https://github.com/gustavo-depaula/ember" rel="noopener">{s('source')}</a></li>
                 <li><a href={otherHref} hreflang={htmlLang[other]}>{s('otherLanguage')}</a></li>
@@ -244,6 +249,7 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
 
     <script>
       import '~/scripts/chrome'
+      import '~/personal/boot'
     </script>
   </body>
 </html>

@@ -49,9 +49,7 @@ Key principles:
 
 2. **Survey the original-language files.** List all `.md` files in the source directory. Read a few to understand the author's style, structure, and any patterns (numbered paragraphs, Latin quotations, footnotes, blockquotes).
 
-3. **Identify footnote policy.** Original-language files may contain:
-   - **Author footnotes** — part of the work. Translate these.
-   - **Editor footnotes** — scholarly apparatus added by a later editor. Ask the user whether to keep, drop, or summarize these. Default: drop editor footnotes, since the translation itself can clarify what the editor was explaining.
+3. **Survey the footnotes.** Every footnote in the source file — the author's, an editor's, or the source edition's translator's — is translated with the text, marker and definition, so the reader of the translation has the same apparatus as the reader of the source.
 
 4. **Clean up the target directory.** If re-translating, delete existing translation files (`.html` or `.md`) but keep `style.css`.
 
@@ -124,8 +122,9 @@ Key principles:
 
 ### Footnotes
 
-- **Drop editor footnotes** unless the user explicitly asks to keep them.
-- **Add translator notes sparingly** — only when a modern reader genuinely needs context to understand the text. Use markdown footnote syntax:
+- **Translate every source footnote**, author's or editor's: same `[^N]` marker at the same place, same definition, translated. A note that only cites a reference (`[^12]: 1 Corinthians 3:17.`) takes the target language's book name.
+- **Keep every inline note of the edition** in its place and markup, such as the Leonine critical apparatus `*(*possimus.—possumus* codices et edd. *a b*.)*`: the Latin readings and sigla stay as they are, the editor's own words are translated. No note of the source is left out.
+- **Add translator notes where they genuinely help** — a wordplay or etymology the translation cannot carry, a term of art, an obscure person, place, custom or allusion; short, never commentary on the doctrine. Density follows the text: roughly one per 3,000–5,000 words, more where the original plays on words, fewer in plain narrative, very few where the edition's own notes already abound. A note claims only what is certain: a precise locus (book, chapter, edition) only when sure, otherwise the plain fact. Number them after the source's notes and list them in the journal. Use markdown footnote syntax:
   ```
   [^1]: *Translator's note:* explanation here.
   ```
@@ -162,8 +161,7 @@ The journal is a reference document. It ships with the book files but is not ren
 1. Source: 12 French `.md` files in `fr-FR/` (preface through consecration)
 2. Created translation journals for en-US and pt-BR
 3. Launched two background agents (one per language), each translating all 12 files sequentially
-4. Dropped all 1891 editor footnotes (by Canon Didiot) — not by Montfort
-5. Added translator notes only where needed (e.g., explaining a Latin prayer's attribution)
-6. Modernized "mahométans" → "Muslims" / "muçulmanos", noted in journals
-7. Updated `book.json` with new language entries and TOC titles
-8. Built with `pnpm build:corpus`, verified new blobs + catalog entries
+4. Added translator notes only where needed (e.g., explaining a Latin prayer's attribution)
+5. Modernized "mahométans" → "Muslims" / "muçulmanos", noted in journals
+6. Updated `book.json` with new language entries and TOC titles
+7. Built with `pnpm build:corpus`, verified new blobs + catalog entries

@@ -13,9 +13,9 @@ fazer-nos compreender que nos ama.
 
 Se a consideração da justiça infinita pode levar-nos a maior fidelidade no serviço de Deus, quanto mais nos
 leva a consideração do seu amor infinito! Santa Teresa
-do Menino Jesus dizia: "A minha natureza é tal que o temor me faz
+do Menino Jesus dizia: “A minha natureza é tal que o temor me faz
 recuar; com o amor, ao contrário, não só vou adiante, mas
-voo" (St. 8).
+voo” (St. 8).
 
 E Jesus, o Deus-Menino, está aqui, no meio de nós, precisamente para mudar a antiga lei do temor para a nova
 do amor.
@@ -27,10 +27,10 @@ Menino e, desde o primeiro instante da sua vida terrena,
 abraçar plenamente as nossas misérias, até não ter por berço
 senão uma manjedoura, por leito um pouco de feno, por coberta miseráveis paninhos... oh, não podemos mais duvidar
 do seu amor. Deus nos ama! Jesus nos ama! Sim, repitamo-lo e
-repitamo-lo sem fim: "Conhecemos e cremos na caridade que Deus tem por nós" (1 Jo. 4, 16). Senhor,
+repitamo-lo sem fim: “Conhecemos e cremos na caridade que Deus tem por nós” (1 Jo. 4, 16). Senhor,
 eu creio no teu amor por mim! Senhor, aumenta a minha fé.
 
-**2** — "Deus é caridade!" O tesouro encerrado nesta palavra é imenso, e é o tesouro que Deus abre e revela à
+**2** — “Deus é caridade!” O tesouro encerrado nesta palavra é imenso, e é o tesouro que Deus abre e revela à
 alma que se concentra toda na contemplação do
 Verbo Encarnado. Enquanto não se compreende que Deus é
 amor infinito, infinita benevolência que se dá e se estende
@@ -42,9 +42,8 @@ da divina caridade, a sua vida espiritual se torna plena e madura.
 
 Não podemos entender melhor o amor infinito do
 nosso Deus do que aproximando-nos da pobre manjedoura onde
-Ele jaz, feito carne por nós. "As virtudes e os atributos
-divinos se descobrem em Deus por meio dos mistérios do Homem-
-Deus", ensina São João da Cruz (cf. C. 37, 2), e entre
+Ele jaz, feito carne por nós. “As virtudes e os atributos
+divinos se descobrem em Deus por meio dos mistérios do Homem-Deus”, ensina São João da Cruz (cf. C. 37, 2), e entre
 esses atributos o primeiro é sempre o da caridade, que
 constitui o próprio ser divino. Da contemplação
 amorosa e silenciosa de Jesus Menino nasce facilmente em nós
@@ -63,7 +62,7 @@ saberá dar-se a ele sem medida: dar-se totalmente.
 Senhor, eu creio no teu amor por mim! Como poderia
 ainda duvidar?
 
-"Tu desceste da grande altura da tua divindade
+“Tu desceste da grande altura da tua divindade
 até ao lodo da nossa humanidade, porque a baixeza do meu entendimento não podia nem compreender, nem olhar
 a tua altura. Para que com a minha pequenez eu pudesse
 ver a tua grandeza, Tu te fizeste menino,
@@ -75,9 +74,8 @@ exaltada e honrada por teu Deus, de não conhecer que Deus,
 pela sua inestimável caridade, desceu da altura da
 Deidade até à baixeza do lodo da tua humanidade. Ó
 amor inestimável, ó amor inestimável, que dizes tu,
-
 alma minha? Digo a ti, Pai eterno, suplico a ti, benigníssimo Deus, que comuniques a nós e a todos os teus servos o
-fogo da tua caridade" (Santa Catarina de Sena).
+fogo da tua caridade” (Santa Catarina de Sena).
 
 Ó Deus, como tenho necessidade de conhecer o teu amor infinito! Conhecer para crer, crer para amar, amar
 para dar-me totalmente a ti, sem reserva, assim como Tu te

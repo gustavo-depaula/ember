@@ -1,0 +1,340 @@
+{
+ "id": "sanctorale.06-09.brazil",
+ "kind": "sanctoral",
+ "items": [
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "(nas dioceses do Brasil)"
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title",
+   "role": "rubric"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h2",
+      "lines": [
+       [
+        "9 de junho"
+       ],
+       [
+        "São José de Anchieta, presbítero"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h3",
+      "lines": [
+       [
+        "Memória"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "José de Anchieta nasceu a 19 de março de 1534 em Tenerife, nas Ilhas\nCanárias. Tendo ingressado na Província portuguesa da Companhia de\nJesus, foi enviado dois anos depois às missões do Brasil. Ordenado\nsacerdote em 1566, foi escolhido para superior da Comunidade de São\nVicente e depois de São Paulo. Dez anos mais tarde foi nomeado\nprovincial de toda a missão no Brasil, revelando-se um superior cheio de\nsabedoria e segurança. Escreveu na língua dos indígenas uma gramática e,\ndepois, um catecismo. Foi agraciado com o epíteto de \"apóstolo do\nBrasil\". Faleceu a 9 de junho de 1597."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        {
+         "m": "rubric",
+         "t": "Comum dos pastores:para missionários"
+        },
+        {
+         "m": "link",
+         "t": "10",
+         "to": "common.doctors.1"
+        },
+        " ",
+        {
+         "m": "rubric",
+         "t": "."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "title"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da entrada"
+       ]
+      ],
+      "cite": "Cf Is 52,7"
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Como são belos sobre os montes os pés do mensageiro que anuncia a paz, que anuncia a felicidade e prega a salvação."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "entranceAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Oração do dia"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Derramai, Senhor, sobre nós a vossa graça, a fim de que, a exemplo do presbítero São José de Anchieta, Apóstolo do Brasil, sirvamos fielmente ao Evangelho, tornando-nos tudo para todos, e nos esforcemos em ganhar para vós novos irmãos no amor de Cristo. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "collect"
+  },
+  {
+   "mark": "readings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Sobre as oferendas"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor, atendei benigno as nossas súplicas, e livrai-nos de toda a culpa, para que, por vossa graça purificadora, sejamos perdoados pelos mistérios que celebramos. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "prayerOverOfferings"
+  },
+  {
+   "text": {
+    "la": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Præfatio"
+       ]
+      ]
+     }
+    ],
+    "pt-BR": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefácio"
+       ]
+      ]
+     }
+    ],
+    "en-US": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Preface"
+       ]
+      ]
+     }
+    ],
+    "es": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefacio"
+       ]
+      ]
+     }
+    ],
+    "it": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Prefazio"
+       ]
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Préface"
+       ]
+      ]
+     }
+    ],
+    "de": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Präfation"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "preface"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Antífona da comunhão"
+       ]
+      ],
+      "cite": "Cf. Mc 16,15"
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Ide pelo mundo inteiro e anunciai o Evangelho!"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "communionAntiphon"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "h4",
+      "lines": [
+       [
+        "Depois da comunhão"
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  },
+  {
+   "text": {
+    "*": [
+     {
+      "k": "p",
+      "lines": [
+       [
+        "Senhor nosso Deus, os sacramentos que recebemos alimentem em nós a mesma fé transmitida pela pregação apostólica e que São José de Anchieta guardou com solicitude. Por Cristo, nosso Senhor."
+       ]
+      ]
+     }
+    ]
+   },
+   "part": "postcommunion"
+  }
+ ],
+ "prefaces": [
+  "preface.56"
+ ],
+ "commons": [
+  "common.doctors.1"
+ ],
+ "title": {
+  "*": "São José de Anchieta, presbítero"
+ }
+}

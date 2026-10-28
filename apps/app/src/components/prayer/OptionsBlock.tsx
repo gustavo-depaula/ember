@@ -18,18 +18,27 @@ export function OptionsBlock<T>({
   options,
   renderSection,
   pickerStyle = 'chips',
+  initialId,
 }: {
   label: string
+  // The option shown until another is picked; the first by default.
+  initialId?: string
   options: Option<T>[]
   renderSection: (section: T, index: number) => React.ReactNode
   pickerStyle?: PickerStyle
 }) {
-  const [selected, setSelected] = useState(0)
+  const [selected, setSelected] = useState(() =>
+    Math.max(
+      0,
+      options.findIndex((option) => option.id === initialId),
+    ),
+  )
   const current = options[selected]
 
   return (
     <YStack gap="$sm">
-      <SectionHeading>{label}</SectionHeading>
+      {/* A choice set under a title of its own needs no second one. */}
+      {label !== '' && <SectionHeading>{label}</SectionHeading>}
 
       {pickerStyle === 'cards' ? (
         <YStack gap="$xs">

@@ -2,6 +2,8 @@ import {
   churchesQuerySchema,
   churchIndexQuerySchema,
   nearQuerySchema,
+  tileParamSchema,
+  tileQuerySchema,
   verificationsQuerySchema,
 } from '@ember/api'
 import { zValidator } from '@hono/zod-validator'
@@ -9,7 +11,7 @@ import { Hono } from 'hono'
 import type { Env } from '../../app'
 import { createDb } from '../../db'
 import { churchIndexPage, verificationsForChurch } from './queries'
-import { churchDetail, nearbyChurches, searchChurches, viewport } from './service'
+import { churchDetail, nearbyChurches, searchChurches, tile, viewport } from './service'
 
 // Public read routes (cacheable; pure geo — no server-side time computation). `GET /` answers a
 // name search (`q`) with `{ churches }`, or a map viewport (`bbox`) with `{ churches, clusters }`. '/near' is registered
@@ -36,6 +38,18 @@ export const churchesRouter = new Hono<{ Bindings: Env }>()
     if (q !== undefined) return c.json({ churches: await searchChurches(db, { q, near, ...rest }) })
     return c.json(await viewport(db, { bbox: bbox as NonNullable<typeof bbox>, ...rest }))
   })
+  // A tile's address is all it depends on, and church data changes by the day: an hour fresh, then
+  // served as it is for a day more while a new copy is fetched.
+  .get(
+    '/tiles/:cell',
+    zValidator('param', tileParamSchema),
+    zValidator('query', tileQuerySchema),
+    async (c) => {
+      const db = createDb(c.env.DB)
+      c.header('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400')
+      return c.json(await tile(db, c.req.valid('param').cell, c.req.valid('query').kind))
+    },
+  )
   .get('/:id/verifications', zValidator('query', verificationsQuerySchema), async (c) => {
     const db = createDb(c.env.DB)
     const verifications = await verificationsForChurch(db, c.req.param('id'), c.req.valid('query'))
