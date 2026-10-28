@@ -395,13 +395,28 @@
   .pc { position: relative; background: var(--surface); border-radius: 14px; padding: 12px 48px 13px 14px; box-shadow: 0 5px 12px #0006; }
   .pc .sw, .pc .in { position: absolute; top: 6px; right: 4px; width: 40px; height: 40px; display: grid; place-items: center; }
   .pc .nm11 { font-size: 20px; line-height: 25px; }
+  /* Round twelve: A, with the tier's painting faded behind its title */
+  .chap.art { position: relative; margin: 30px -24px 0; padding: 40px 36px 22px; isolation: isolate; }
+  .chap.art::before { content: ''; position: absolute; inset: 0; z-index: -2; background: var(--img) center 30% / cover; opacity: var(--fade, .25); }
+  .chap.art::after { content: ''; position: absolute; inset: 0; z-index: -1; background: linear-gradient(var(--bg), #0e0d0c00 32%, #0e0d0c00 58%, var(--bg)), radial-gradient(ellipse at center, #0e0d0c00 40%, #0e0d0c99 100%); }
+  .chap.art h5 { text-shadow: 0 1px 12px #000c; }
+  .chap.art p { color: #c9bba8; text-shadow: 0 1px 8px #000; }
 </style>
 
 <main>
   <header>
     <h1>Acrescentar à regra</h1>
-    <p><b style="color:var(--ink);font-weight:400">Round eleven is at the top:</b> five tiers, each practice with its why, drawn three ways. </p>
+    <p><b style="color:var(--ink);font-weight:400">Round twelve is at the top:</b> layout A with its paintings, and a fuller fifth tier. </p>
   </header>
+
+  <section class="q">
+    <h2>Rodada 12 · O devocionário, com as pinturas</h2>
+    <h3>Layout A, with each tier's painting faded behind its title</h3>
+    <p>Nothing moves: the same chapters, entries and lesson. Each chapter title now sits on its tier's painting, faded into the page at the top and bottom. The two pictured phones differ only in how strongly the painting shows. The fifth tier gains five practices: the Way of the Cross, the Holy Hour, the Little Office of Our Lady, the Seven Sorrows and the Jesus Prayer.</p>
+    <div class="strip" id="r12"></div>
+  </section>
+
+  <div class="round">Rodada 11</div>
 
   <section class="q">
     <h2>Rodada 11 · Cinco degraus, cada um com o seu porquê</h2>
@@ -1428,16 +1443,17 @@
       ['Ofício Divino', 'Manhã e tarde · 15 min', 'A oração da Igreja nas horas do dia; une a sua voz à de padres e religiosos no mundo inteiro.', 'manhã'],
     ]],
   ]
-  function mount11(phone, look) {
+  function mount11(phone, look, tiers = tiers11) {
     const st = { view: 'add', added: new Set(), inRule: false }
     const scr = phone.querySelector('.screen'), bar = phone.querySelector('.bar')
     const bead = (it) => it[4] ? inBead(momentHue[it[3]]) : `<button class="sw ${st.added.has(it[0]) ? 'on' : ''}" data-n="${it[0]}" aria-label="Acrescentar ${it[0]}"><span class="a">${plusBead(40).replace('<svg', '<svg class="bead"')}</span><span class="b">${doneBead(momentHue[it[3]]).replace('<svg', '<svg class="bead"')}</span></button>`
     const meta = (it) => it[4] ? `Na regra · ${it[1]}` : it[1]
     const text = (it) => `<div class="nm11">${it[0]}</div><div class="meta11">${meta(it)}</div><div class="why11">${it[2]}</div>`
     const body = {
-      book: () => tiers11.map(([n, title, line, , items]) => `<div class="chap"><div class="num">${n}</div><h5>${title}</h5><p>${line}</p><div class="orn">· ✠ ·</div></div>` + items.map((it) => `<div class="dv"><div class="t">${text(it)}</div>${bead(it)}</div>`).join('')).join(''),
-      cord: () => `<div class="cord">${tiers11.map(([n, title, line, , items], k) => `<div class="seg ${k > 2 ? 'd' : ''}" style="--o:${[.7, .6, .5, .4, .3][k]}"><div class="mk"><i>✠</i><b>${title}<span>${line}</span></b></div>${items.map((it) => `<div class="cd">${bead(it)}<div>${text(it)}</div></div>`).join('')}</div>`).join('')}</div>`,
-      painted: () => tiers11.map(([n, title, line, art, items]) => `<div class="band" style="background-image:url(art/${art}.jpg)"><small>${n}</small><b>${title}</b><span>${line}</span></div><div class="pcs">${items.map((it) => `<div class="pc">${text(it)}${bead(it)}</div>`).join('')}</div>`).join(''),
+      book: () => tiers.map(([n, title, line, , items]) => `<div class="chap"><div class="num">${n}</div><h5>${title}</h5><p>${line}</p><div class="orn">· ✠ ·</div></div>` + items.map((it) => `<div class="dv"><div class="t">${text(it)}</div>${bead(it)}</div>`).join('')).join(''),
+      cord: () => `<div class="cord">${tiers.map(([n, title, line, , items], k) => `<div class="seg ${k > 2 ? 'd' : ''}" style="--o:${[.7, .6, .5, .4, .3][k]}"><div class="mk"><i>✠</i><b>${title}<span>${line}</span></b></div>${items.map((it) => `<div class="cd">${bead(it)}<div>${text(it)}</div></div>`).join('')}</div>`).join('')}</div>`,
+      painted: () => tiers.map(([n, title, line, art, items]) => `<div class="band" style="background-image:url(art/${art}.jpg)"><small>${n}</small><b>${title}</b><span>${line}</span></div><div class="pcs">${items.map((it) => `<div class="pc">${text(it)}${bead(it)}</div>`).join('')}</div>`).join(''),
+      art: () => tiers.map(([n, title, line, art, items]) => `<div class="chap art" style="--img:url(art/${art}.jpg);--fade:${phone.dataset.fade}"><div class="num">${n}</div><h5>${title}</h5><p>${line}</p><div class="orn">· ✠ ·</div></div>` + items.map((it) => `<div class="dv"><div class="t">${text(it)}</div>${bead(it)}</div>`).join('')).join(''),
     }[look]
     const markInline = `<span class="inl">${icon('calPlus', 20)}</span>`
     const lesson = `<div class="lesson" style="margin-top:30px"><div class="kick">E qualquer outra oração</div><h5>Entra na regra pela sua própria página</h5>
@@ -1488,6 +1504,24 @@
   mount11(document.getElementById('p11a'), 'book')
   mount11(document.getElementById('p11b'), 'cord')
   mount11(document.getElementById('p11c'), 'painted')
+
+  // ── Round twelve: A with paintings, and more in the fifth tier ──
+  const tiers12 = tiers11.map((t, k) => k < 4 ? t : [t[0], t[1], t[2], t[3], [...t[4],
+    ['Via Sacra', 'Às sextas-feiras · 30 min', 'Acompanhar Cristo da condenação ao sepulcro, estação por estação, no dia em que Ele morreu.', 'tarde'],
+    ['Hora Santa', 'Às quintas · 1 h', 'Uma hora diante do Santíssimo na noite em que Ele pediu aos seus que vigiassem com Ele no Getsêmani.', 'noite'],
+    ['Pequeno Ofício de Nossa Senhora', '15 min', 'Uma forma breve do Ofício, toda dedicada a Maria, rezada por leigos há séculos.', 'manhã'],
+    ['Coroa das Sete Dores', '25 min', 'As sete dores de Maria, meditadas para aprender com ela a ficar de pé junto à Cruz.', 'tarde'],
+    ['Oração de Jesus', '5 min', 'A breve oração do Oriente cristão, repetida devagar, para aprender a rezar sem cessar.', 'dia'],
+  ]])
+  const live12 = (id, fade) => `<div class="phone" id="${id}" data-fade="${fade}"><div class="screen" style="gap:6px"></div>${bar3}</div>`
+  document.getElementById('r12').innerHTML = [
+    col('A · Pintura suave', 'Layout A unchanged. Behind each chapter title, the tier’s painting at a quarter strength, dissolving into the page above and below so the title still reads as type on paper.', live12('p12a', .25), true),
+    col('A · Pintura presente', 'The same, with the painting at half strength. The tiers are told apart more by picture than by numeral; the title needs its shadow.', live12('p12b', .5)),
+    col('A · Sem pintura', 'Round eleven’s A, kept for comparison, with the fifth tier’s new practices.', live12('p12c', 0)),
+  ].join('')
+  mount11(document.getElementById('p12a'), 'art', tiers12)
+  mount11(document.getElementById('p12b'), 'art', tiers12)
+  mount11(document.getElementById('p12c'), 'book', tiers12)
 
   // Live marks on page A: an open bead fills, and the bar counts.
   let added = 0
