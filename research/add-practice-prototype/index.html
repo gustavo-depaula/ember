@@ -401,13 +401,37 @@
   .chap.art::after { content: ''; position: absolute; inset: 0; z-index: -1; background: linear-gradient(var(--bg), #0e0d0c00 32%, #0e0d0c00 58%, var(--bg)), radial-gradient(ellipse at center, #0e0d0c00 40%, #0e0d0c99 100%); }
   .chap.art h5 { text-shadow: 0 1px 12px #000c; }
   .chap.art p { color: #c9bba8; text-shadow: 0 1px 8px #000; }
+  /* Round thirteen: the app's own header and action glyphs */
+  .hdr { display: flex; align-items: center; gap: 14px; height: 26px; }
+  .hdr .half { flex: 1; display: flex; align-items: center; gap: 14px; }
+  .hdr button { background: none; border: 0; padding: 0; margin-left: -5px; cursor: pointer; display: grid; place-items: center; }
+  .hdr .rl { flex: 1; height: .5px; background: var(--border); }
+  .hdr .x { color: #b5543c; font-size: 15px; line-height: 20px; }
+  .acts { display: flex; align-items: center; gap: 14px; padding-top: 16px; }
+  .acts .rl { flex: 1; height: .5px; background: var(--border); }
+  .acts .gl { display: flex; gap: 26px; }
+  .acts button, .acts span { background: none; border: 0; padding: 0; display: grid; place-items: center; cursor: pointer; position: relative; }
+  .acts .teach::after { content: ''; position: absolute; inset: -9px; border-radius: 50%; border: 1.5px solid var(--accent); animation: ring 1.6s ease-out infinite; }
+  .ttl13 { font: italic 400 34px/42px var(--title); text-align: center; padding-top: 18px; }
+  .cap13 { font: italic 400 17px/23px var(--title); color: var(--muted); text-align: center; }
+  .lesson .mini .ttl13 { font-size: 24px; line-height: 28px; padding-top: 10px; color: var(--ink); }
+  .lesson .mini .acts { padding-top: 10px; }
 </style>
 
 <main>
   <header>
     <h1>Acrescentar à regra</h1>
-    <p><b style="color:var(--ink);font-weight:400">Round twelve is at the top:</b> layout A with its paintings, and a fuller fifth tier. </p>
+    <p><b style="color:var(--ink);font-weight:400">Round thirteen is at the top:</b> layout A, settled, with the app's own header and glyphs. </p>
   </header>
+
+  <section class="q">
+    <h2>Rodada 13 · O devocionário, acertado</h2>
+    <h3>A with soft paintings, the app's own back and the practice page's own glyphs</h3>
+    <p>The fifth tier drops the Little Office and the Holy Hour. The bare “‹” is replaced by the header every practice page draws (PracticeHeader): the chevron, a hairline, the ✠. The lesson's miniature now copies a practice page as it is: centered title, a hairline running into the glyphs, and lucide's CalendarPlus, Star, Type and Ellipsis at 22px and stroke 1.5 in secondary ink, the calendar turning to CalendarCheck in ink once added.</p>
+    <div class="strip" id="r13"></div>
+  </section>
+
+  <div class="round">Rodada 12</div>
 
   <section class="q">
     <h2>Rodada 12 · O devocionário, com as pinturas</h2>
@@ -1522,6 +1546,68 @@
   mount11(document.getElementById('p12a'), 'art', tiers12)
   mount11(document.getElementById('p12b'), 'art', tiers12)
   mount11(document.getElementById('p12c'), 'book', tiers12)
+
+  // ── Round thirteen: A with soft paintings, the app's header and glyphs ──
+  const lu = {
+    chevronLeft: '<path d="m15 18-6-6 6-6"/>',
+    calendarPlus: '<path d="M16 19h6"/><path d="M16 2v4"/><path d="M19 16v6"/><path d="M21 12.598V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h8.5"/><path d="M3 10h18"/><path d="M8 2v4"/>',
+    calendarCheck: '<path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/><path d="m9 16 2 2 4-4"/>',
+    star: '<path d="M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z"/>',
+    type: '<path d="M12 4v16"/><path d="M4 7V5a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v2"/><path d="M9 20h6"/>',
+    ellipsis: '<circle cx="12" cy="12" r="1"/><circle cx="19" cy="12" r="1"/><circle cx="5" cy="12" r="1"/>',
+    search: '<path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/>',
+  }
+  // As lucide-react-native draws them: stroke 1.5, ink when active, secondary ink otherwise.
+  const luc = (n, size = 22, ink = 'var(--muted)') => `<svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="${ink}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color:${ink}">${lu[n]}</svg>`
+  const header13 = (to) => `<div class="hdr"><div class="half">${to ? `<button data-go="${to}" aria-label="Voltar">${luc('chevronLeft', 24, 'var(--ink)')}</button>` : ''}<span class="rl"></span></div><span class="x">✠</span><span class="rl"></span></div>`
+  const actions13 = (inRule, teach) => `<div class="acts"><span class="rl"></span><div class="gl"><button data-plan class="${teach ? 'teach' : ''}" aria-label="${inRule ? 'Na regra' : 'Adicionar ao Plano'}">${luc(inRule ? 'calendarCheck' : 'calendarPlus', 22, inRule ? 'var(--ink)' : 'var(--muted)')}</button><span>${luc('star')}</span><span>${luc('type')}</span><span>${luc('ellipsis')}</span></div></div>`
+  const tiers13 = tiers12.map((t) => [t[0], t[1], t[2], t[3], t[4].filter((it) => !['Pequeno Ofício de Nossa Senhora', 'Hora Santa'].includes(it[0]))])
+  function mount13(phone) {
+    const st = { view: 'add', added: new Set(), inRule: false }
+    const scr = phone.querySelector('.screen'), bar = phone.querySelector('.bar')
+    const bead = (it) => it[4] ? inBead(momentHue[it[3]]) : `<button class="sw ${st.added.has(it[0]) ? 'on' : ''}" data-n="${it[0]}" aria-label="Acrescentar ${it[0]}"><span class="a">${plusBead(40).replace('<svg', '<svg class="bead"')}</span><span class="b">${doneBead(momentHue[it[3]]).replace('<svg', '<svg class="bead"')}</span></button>`
+    const text = (it) => `<div class="nm11">${it[0]}</div><div class="meta11">${it[4] ? `Na regra · ${it[1]}` : it[1]}</div><div class="why11">${it[2]}</div>`
+    const chapters = tiers13.map(([n, title, line, art, items]) => `<div class="chap art" style="--img:url(art/${art}.jpg);--fade:.25"><div class="num">${n}</div><h5>${title}</h5><p>${line}</p><div class="orn">· ✠ ·</div></div>` + items.map((it) => `<div class="dv"><div class="t">${text(it)}</div>${bead(it)}</div>`).join('')).join('')
+    const lesson = `<div class="lesson" style="margin-top:30px"><div class="kick">E qualquer outra oração</div><h5>Entra na regra pela sua própria página</h5>
+        <div class="mini">${header13()}<div class="ttl13">Ladainha de Nossa Senhora</div>${actions13(false, true)}</div>
+        <ol><li>Abra a oração que quiser, em Orações ou na Busca.</li><li>Toque em <span class="inl">${luc('calendarPlus', 20, '#dacab2')}</span> ao lado do título.</li><li>Escolha os dias e a hora.</li></ol>
+        <div class="btn" data-go="pray">Abrir Orações</div></div>`
+    const views = {
+      add: () => `${header13('-')}<div class="ptitle" style="padding-top:14px">Acrescentar à regra</div><div class="lede">Uma regra de vida se constrói de cima para baixo: comece pelos primeiros degraus e desça quando cada um já for hábito.</div>${chapters}${lesson}`,
+      pray: () => `${header13('add')}<div class="otitle" style="padding:14px 0 4px">Orações</div>
+        <div class="search">${luc('search', 18)}Buscar uma oração</div>
+        <div>${others.map(([n, m], i) => `<div class="orow" data-go="${i === 0 ? 'page' : ''}">${icon(i === 0 ? 'mary' : 'prayer')}<b>${n}</b><span>${m} min</span></div>`).join('')}</div>
+        <div class="whisper" style="text-align:left;padding-top:6px">Toque na Ladainha.</div>`,
+      page: () => `${header13('pray')}<div class="ttl13" style="font-size:40px;line-height:50px;padding-top:28px">Ladainha de Nossa Senhora</div><div class="cap13">Ladainha Lauretana · 10 min</div>${actions13(st.inRule)}
+        <div class="verse" style="padding-top:22px">Senhor, tende piedade.<br><i>R.</i> Senhor, tende piedade.</div>
+        <div class="verse">Cristo, tende piedade.<br><i>R.</i> Cristo, tende piedade.</div>
+        <div class="verse">Senhor, tende piedade.<br><i>R.</i> Senhor, tende piedade.</div>
+        <div class="verse">Cristo, ouvi-nos.<br><i>R.</i> Cristo, atendei-nos.</div>`,
+    }
+    function render() {
+      scr.innerHTML = views[st.view]()
+      const n = st.added.size + (st.inRule ? 1 : 0)
+      bar.hidden = st.view !== 'add' || n === 0
+      bar.querySelector('span').textContent = n === 1 ? '1 prática acrescentada' : `${n} práticas acrescentadas`
+      phone.querySelector('.toast')?.remove()
+      if (st.view === 'page' && st.inRule) phone.insertAdjacentHTML('beforeend', `<div class="toast"><span>Na regra · todo dia às 12h</span><b data-go="add">Ver ›</b></div>`)
+    }
+    phone.addEventListener('click', (e) => {
+      const go = e.target.closest('[data-go]'), b = e.target.closest('.sw'), plan = e.target.closest('[data-plan]')
+      const keep = scr.scrollTop
+      if (b) st.added.has(b.dataset.n) ? st.added.delete(b.dataset.n) : st.added.add(b.dataset.n)
+      else if (plan && st.view === 'page') st.inRule = !st.inRule
+      else if (go && views[go.dataset.go]) { st.view = go.dataset.go; scr.scrollTop = 0 }
+      else return
+      render()
+      if (b) scr.scrollTop = keep
+    })
+    render()
+  }
+  document.getElementById('r13').innerHTML = [
+    col('A · O devocionário', 'The prayer-book page with its paintings at a quarter strength. The back is now the practice page’s own header: lucide’s chevron in ink, a hairline and the red ✠. The lesson draws a practice page’s real header and its four glyphs in secondary ink. Follow “Abrir Orações” to see the same header and glyphs on the Orações and prayer pages.', live9('p13a'), true),
+  ].join('')
+  mount13(document.getElementById('p13a'))
 
   // Live marks on page A: an open bead fills, and the bar counts.
   let added = 0
