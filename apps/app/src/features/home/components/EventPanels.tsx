@@ -1,4 +1,4 @@
-import { addDays, format, parseISO } from 'date-fns'
+import { addDays, differenceInCalendarDays, format, parseISO } from 'date-fns'
 import { Image, type ImageSource } from 'expo-image'
 import { useRouter } from 'expo-router'
 import { type ReactNode, useState } from 'react'
@@ -100,14 +100,21 @@ export function EventPanel({
 const actGlyph = { mass: 'chalice', office: 'book', prayedDay: 'day' } as const
 
 /**
- * Today's holy cards as a ledger: a line per card, what to do on the left and
+ * A day's holy cards as a ledger: a line per card, what to do on the left and
  * the card it gives on the right. A card won opens its envelope; one still to
- * win opens its page, which says more of the ways to it.
+ * win opens its page, which says more of the ways to it. Without a `date` the
+ * day is today.
  */
-export function TodayPanel({ cards }: { cards: TodayCard[] }) {
+export function TodayPanel({ cards, date }: { cards: TodayCard[]; date?: string }) {
   const { t } = useTranslation()
   const router = useRouter()
   const today = useToday()
+  const day = date ? parseISO(date) : today
+  const heading = (() => {
+    if (!date) return t('home.events.cardsToday')
+    if (differenceInCalendarDays(day, today) === 1) return t('home.events.cardsTomorrow')
+    return t('home.events.cardsOn', { weekday: formatLocalized(day, 'EEEE') })
+  })()
   const { byId } = useSaintsCatalog()
   const held = useHeldCards()
 
@@ -121,10 +128,10 @@ export function TodayPanel({ cards }: { cards: TodayCard[] }) {
           textTransform="uppercase"
           color="$colorBurgundy"
         >
-          {t('home.events.cardsToday')}
+          {heading}
         </Typography>
         <Typography variant="annotation" fontStyle="italic">
-          {formatLocalized(today, t('program.dayDateFormat'))}
+          {formatLocalized(day, t('program.dayDateFormat'))}
         </Typography>
       </XStack>
       {cards.map((card) => {
@@ -171,7 +178,7 @@ export function TodayPanel({ cards }: { cards: TodayCard[] }) {
               )
                 return router.push({
                   pathname: '/divine-office',
-                  params: { saints: grant.choice.join(','), date: format(today, 'yyyy-MM-dd') },
+                  params: { saints: grant.choice.join(','), date: format(day, 'yyyy-MM-dd') },
                 })
               if (first)
                 return router.push({ pathname: '/saints/[index]', params: { index: first.id } })

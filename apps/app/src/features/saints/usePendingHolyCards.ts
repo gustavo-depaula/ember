@@ -12,7 +12,7 @@ import {
   type Season,
 } from '@ember/holy-cards'
 import { useMutation, useQuery } from '@tanstack/react-query'
-import { format } from 'date-fns'
+import { addDays, format, parseISO } from 'date-fns'
 import { useMemo } from 'react'
 import { useShallow } from 'zustand/react/shallow'
 
@@ -208,6 +208,25 @@ export function useCardsToday(): TodayCard[] | undefined {
       ),
     [rules, copies],
   )
+}
+
+/** A day ahead and the holy cards its Mass, Office and prayed day will give. */
+export type CardsAhead = { date: string; cards: TodayCard[] }
+
+/**
+ * The cards each of the next `days` days will give, tomorrow first, each asked
+ * of the rules as today's are. A day that gives none is left out. Undefined
+ * while the calendar and the cards load.
+ */
+export function useCardsAhead(days: number): CardsAhead[] | undefined {
+  const rules = useHolyCardInput()
+  return useMemo(() => {
+    if (!rules) return undefined
+    const today = parseISO(rules.today)
+    return Array.from({ length: days }, (_, i) => format(addDays(today, i + 1), 'yyyy-MM-dd'))
+      .map((date) => ({ date, cards: todayCards(offersToday(rules.input, date), new Map()) }))
+      .filter((day) => day.cards.length > 0)
+  }, [rules, days])
 }
 
 /** Redeem an envelope: store its copy for good. `card` is the pick when it offers a choice. */

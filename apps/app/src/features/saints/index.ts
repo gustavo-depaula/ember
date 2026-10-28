@@ -9,7 +9,9 @@ export { envelopeDate, howWon, openBy } from './redeem/envelopeText'
 export { RedeemFlow } from './redeem/RedeemFlow'
 export { type HolyCard, useHolyCards } from './useHolyCards'
 export {
+  type CardsAhead,
   type TodayCard,
+  useCardsAhead,
   useCardsToday,
   usePendingHolyCards,
   useRedeemHolyCard,

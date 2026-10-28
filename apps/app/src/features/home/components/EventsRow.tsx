@@ -1,3 +1,4 @@
+import { differenceInCalendarDays, format, parseISO } from 'date-fns'
 import { Image, type ImageSource } from 'expo-image'
 import { type ReactNode, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -8,14 +9,17 @@ import { Text, useTheme, View, YStack } from 'tamagui'
 import { AnimatedPressable, Typography } from '@/components'
 import { toneForKey } from '@/features/explore/bgColor'
 import {
+  type CardsAhead,
   cardFrame,
   cardInk,
   EnvelopeStack,
   type TodayCard,
+  useCardsAhead,
   useCardsToday,
   useHeldCards,
   useSaintsCatalog,
 } from '@/features/saints'
+import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 
 import type { ProgramEvent } from '../programEvents'
@@ -24,18 +28,30 @@ import { EventPanel, ProgramPanel, TodayPanel } from './EventPanels'
 import { cardFace, useProgramCard } from './eventCard'
 
 const medallion = 78
+// The days ahead whose holy cards the row shows, one medallion each.
+const cardDaysAhead = 7
 // ScreenLayout's page padding, which the strip bleeds through.
 const pagePadding = 24
 
+const rank = (e: Entry) => (e.kind === 'program' ? 0 : 1)
+
+// What the strip holds after today's cards, in the order it shows them.
+type Entry =
+  | { kind: 'program'; key: string; date: string; event: ProgramEvent }
+  | { kind: 'day'; key: string; date: string; day: CardsAhead }
+
 /**
  * Today's events, under the Daily Meditations: a strip of medallions — first
- * the holy cards today can give, then the novenas under way and those about
- * to begin — with the one chosen opened beneath it, in place. Today's is open
- * when the page loads; a tap on the open one closes it.
+ * the holy cards today can give, then the novenas under way, then the novenas
+ * about to begin and the cards of the week's coming days, by date — with the
+ * one chosen opened beneath it, in place. Today's is open when the page loads;
+ * a tap on the open one closes it.
  */
 export function EventsRow() {
   const { t } = useTranslation()
+  const today = format(useToday(), 'yyyy-MM-dd')
   const cards = useCardsToday()
+  const ahead = useCardsAhead(cardDaysAhead)
   const programs = useProgramEvents()
   const [chosen, setChosen] = useState<string | undefined>('today')
   // Where each medallion sits in the strip, and how far the strip is scrolled:
@@ -44,10 +60,21 @@ export function EventsRow() {
   const [scrolled, setScrolled] = useState(0)
 
   const hasCards = !!cards && cards.length > 0
-  if (!hasCards && programs.length === 0) return null
+  // A novena under way sits by today; one still to begin, on its first day,
+  // before that day's cards.
+  const entries: Entry[] = [
+    ...programs.map((event): Entry => {
+      const date = event.day === undefined ? (event.start ?? today) : today
+      return { kind: 'program', key: event.manifest.id, date, event }
+    }),
+    ...(ahead ?? []).map(
+      (day): Entry => ({ kind: 'day', key: `day:${day.date}`, date: day.date, day }),
+    ),
+  ].sort((a, b) => a.date.localeCompare(b.date) || rank(a) - rank(b))
+  if (!hasCards && entries.length === 0) return null
 
-  const program = programs.find((p) => p.manifest.id === chosen)
-  const open = chosen === 'today' ? (hasCards ? 'today' : undefined) : program?.manifest.id
+  const entry = entries.find((e) => e.key === chosen)
+  const open = chosen === 'today' ? (hasCards ? 'today' : undefined) : entry?.key
   const toggle = (key: string) => setChosen((now) => (now === key ? undefined : key))
   const place = (key: string) => (x: number) =>
     setPlaces((now) => (now[key] === x ? now : { ...now, [key]: x }))
@@ -74,19 +101,35 @@ export function EventsRow() {
             onPlace={place('today')}
           />
         )}
-        {programs.map((event) => (
-          <ProgramMedallion
-            key={event.manifest.id}
-            event={event}
-            selected={open === event.manifest.id}
-            onPress={() => toggle(event.manifest.id)}
-            onPlace={place(event.manifest.id)}
-          />
-        ))}
+        {entries.map((e) =>
+          e.kind === 'program' ? (
+            <ProgramMedallion
+              key={e.key}
+              event={e.event}
+              selected={open === e.key}
+              onPress={() => toggle(e.key)}
+              onPlace={place(e.key)}
+            />
+          ) : (
+            <DayMedallion
+              key={e.key}
+              day={e.day}
+              away={differenceInCalendarDays(parseISO(e.date), parseISO(today))}
+              selected={open === e.key}
+              onPress={() => toggle(e.key)}
+              onPlace={place(e.key)}
+            />
+          ),
+        )}
       </ScrollView>
       <EventPanel open={open} nib={nib - pagePadding}>
         {open === 'today' && cards ? <TodayPanel cards={cards} /> : null}
-        {program && open === program.manifest.id ? <ProgramPanel event={program} /> : null}
+        {entry && open === entry.key && entry.kind === 'program' ? (
+          <ProgramPanel event={entry.event} />
+        ) : null}
+        {entry && open === entry.key && entry.kind === 'day' ? (
+          <TodayPanel cards={entry.day.cards} date={entry.day.date} />
+        ) : null}
       </EventPanel>
     </YStack>
   )
@@ -217,6 +260,72 @@ function TodayMedallion({
   )
 }
 
+/**
+ * A coming day's holy cards, as today's are shown: the card of the day's first
+ * saint face up on the illuminated back — its sepia print until it is held,
+ * when it is marked as a novena joined is.
+ */
+function DayMedallion({
+  day,
+  away,
+  selected,
+  onPress,
+  onPlace,
+}: {
+  day: CardsAhead
+  away: number
+  selected: boolean
+  onPress: () => void
+  onPlace: (x: number) => void
+}) {
+  const { t } = useTranslation()
+  const { byId } = useSaintsCatalog()
+  const held = useHeldCards()
+  const named = day.cards.find((c) => !c.grant.drawn)?.grant.choice[0]
+  const saint = named ? byId[named] : undefined
+  const holds = !!saint && held.has(saint.id)
+  const face = cardFace(saint, holds)
+  const label = away === 1 ? t('home.events.tomorrow') : t('home.events.days', { count: away })
+  return (
+    <Medallion
+      label={label}
+      name={saint?.name ?? t('home.events.massCard')}
+      selected={selected}
+      onPress={onPress}
+      onPlace={onPlace}
+    >
+      <MiniCard turn={-10} shift={face ? -9 : 0} />
+      {face && <MiniCard face={face} turn={7} shift={9} />}
+      {holds && <HeldMark />}
+    </Medallion>
+  )
+}
+
+// The ✦ in a medallion's corner: a novena joined, or a day's card already held.
+function HeldMark() {
+  return (
+    <View
+      position="absolute"
+      right={-2}
+      bottom={-2}
+      width={24}
+      height={24}
+      borderRadius={12}
+      backgroundColor="$background"
+      alignItems="center"
+      justifyContent="center"
+      shadowColor="#000"
+      shadowOffset={{ width: 0, height: 1 }}
+      shadowOpacity={0.2}
+      shadowRadius={3}
+    >
+      <Typography color="$accent" fontSize={13} lineHeight={16}>
+        ✦
+      </Typography>
+    </View>
+  )
+}
+
 function ProgramMedallion({
   event,
   selected,
@@ -294,27 +403,7 @@ function ProgramMedallion({
           </Text>
         )}
       </View>
-      {event.joined && (
-        <View
-          position="absolute"
-          right={-2}
-          bottom={-2}
-          width={24}
-          height={24}
-          borderRadius={12}
-          backgroundColor="$background"
-          alignItems="center"
-          justifyContent="center"
-          shadowColor="#000"
-          shadowOffset={{ width: 0, height: 1 }}
-          shadowOpacity={0.2}
-          shadowRadius={3}
-        >
-          <Typography color="$accent" fontSize={13} lineHeight={16}>
-            ✦
-          </Typography>
-        </View>
-      )}
+      {event.joined && <HeldMark />}
     </Medallion>
   )
 }
