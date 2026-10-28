@@ -358,13 +358,69 @@
   .ess small { font-size: 13.5px; line-height: 17px; color: #dacab2; }
   .ess .sw, .ess .in { position: absolute; top: 4px; right: 4px; width: 36px; height: 36px; }
   .ess svg.bead { width: 36px; height: 36px; }
+  /* Round eleven */
+  .why11 { font-size: 15.5px; line-height: 21px; color: var(--muted); font-style: italic; padding-top: 3px; }
+  .meta11 { font: 400 11.5px/16px var(--display); letter-spacing: 1.8px; text-transform: uppercase; color: var(--accent); opacity: .85; padding-top: 2px; }
+  .nm11 { font-size: 21px; line-height: 26px; }
+  /* A · devocionário */
+  .chap { padding-top: 30px; text-align: center; }
+  .chap .num { font: 400 15px/20px var(--display); letter-spacing: 4px; color: #c0503e; }
+  .chap h5 { font: italic 400 30px/34px var(--title); padding-top: 2px; }
+  .chap p { font-size: 16px; line-height: 22px; color: var(--muted); font-style: italic; padding: 4px 12px 0; }
+  .chap .orn { color: var(--accentSubtle); letter-spacing: 8px; font-size: 13px; padding-top: 8px; }
+  .dv { display: flex; gap: 12px; padding: 14px 0; border-bottom: 0.5px solid #5c524855; align-items: flex-start; }
+  .dv:last-child { border-bottom: 0; }
+  .dv .t { flex: 1; min-width: 0; }
+  .dv .sw, .dv .in { width: 40px; height: 40px; flex: none; margin: -4px -6px 0 0; display: grid; place-items: center; }
+  .dv svg.bead, .cd svg.bead, .pc svg.bead { width: 40px; height: 40px; }
+  /* B · o cordão */
+  .cord { position: relative; padding-top: 14px; }
+  .cord .seg { position: relative; padding-bottom: 6px; }
+  .cord .seg::before { content: ''; position: absolute; left: 21px; top: 0; bottom: 0; border-left: 1.3px solid var(--accent); opacity: var(--o, .55); }
+  .cord .seg.d::before { border-left-style: dashed; }
+  .cord .mk { position: relative; display: grid; grid-template-columns: 44px 1fr; align-items: center; padding: 18px 0 6px; }
+  .cord .mk i { justify-self: center; font-style: normal; color: var(--accent); font-size: 17px; background: var(--bg); line-height: 24px; padding: 2px 0; }
+  .cord .mk b { font: 400 12.5px/17px var(--display); letter-spacing: 2.5px; text-transform: uppercase; color: var(--accent); font-weight: 400; }
+  .cord .mk span { display: block; font: italic 400 15px/20px var(--body); letter-spacing: 0; text-transform: none; color: var(--muted); }
+  .cd { position: relative; display: grid; grid-template-columns: 44px 1fr; gap: 4px; padding: 8px 0; }
+  .cd .sw, .cd .in { justify-self: center; width: 44px; height: 44px; display: grid; place-items: center; background: var(--bg); border-radius: 22px; }
+  /* C · capítulos pintados */
+  .band { position: relative; margin: 26px -24px 0; height: 132px; background-size: cover; background-position: center 30%; display: flex; flex-direction: column; justify-content: flex-end; padding: 0 24px 12px; }
+  .band::before { content: ''; position: absolute; inset: 0; background: linear-gradient(#0e0d0c22, #0e0d0c00 30%, #0e0d0cdd); }
+  .band > * { position: relative; }
+  .band small { font: 400 11.5px/16px var(--display); letter-spacing: 2.5px; text-transform: uppercase; color: #e8c97a; }
+  .band b { font: italic 400 30px/34px var(--title); color: var(--blockInk); font-weight: 400; }
+  .band span { font-size: 15px; line-height: 20px; color: #dacab2; font-style: italic; }
+  .pcs { display: flex; flex-direction: column; gap: 10px; padding-top: 12px; }
+  .pc { position: relative; background: var(--surface); border-radius: 14px; padding: 12px 48px 13px 14px; box-shadow: 0 5px 12px #0006; }
+  .pc .sw, .pc .in { position: absolute; top: 6px; right: 4px; width: 40px; height: 40px; display: grid; place-items: center; }
+  .pc .nm11 { font-size: 20px; line-height: 25px; }
 </style>
 
 <main>
   <header>
     <h1>Acrescentar à regra</h1>
-    <p><b style="color:var(--ink);font-weight:400">Round ten is at the top:</b> the essentials, what goes further, and how to add any other prayer from its own page. Earlier rounds stay below for reference. Three questions there, each as phones to compare: where the button sits in the Plan of Life sheet, what the page it opens looks like, and what a tap on a practice does. Drawn on the You tab's sheet, in Tenebrae and pt-BR. Practice names, minutes, suggested hours and tradition counts are the corpus's own; the small icons stand in for the watercolour ones.</p>
+    <p><b style="color:var(--ink);font-weight:400">Round eleven is at the top:</b> five tiers, each practice with its why, drawn three ways. </p>
   </header>
+
+  <section class="q">
+    <h2>Rodada 11 · Cinco degraus, cada um com o seu porquê</h2>
+    <h3>The sacraments, the day's essentials, prayer through the day, closer to Christ, and what some are called to</h3>
+    <p>Five tiers instead of two, each with a line saying what it is for, and every practice with a sentence of why. The order is the guidance: begin at the top and go down as each step becomes habit. Three ways to draw the same page. All work: beads add, “Abrir Orações” walks to a prayer's page and its calendar mark.</p>
+    <div class="strip" id="r11"></div>
+  </section>
+
+  <section class="note">
+    <b>To settle</b>
+    <ul>
+      <li><b>The third tier's name.</b> Drawn as “Ao longo do dia”. Others: “O dia rezado”, “Pausas no dia”, “Com Maria e a Palavra” (it holds the Angelus, the Rosary and the Gospel).</li>
+      <li><b>The fourth and fifth.</b> “Mais perto de Cristo” and “Se o coração pedir”. For the fifth, also “Se você se sentir chamado” or “Conforme a sua vocação”.</li>
+      <li><b>The sentences of why</b> are mine, short and in plain words; the manifests' own descriptions could replace them, or they could become a field of their own.</li>
+      <li><b>Daily Mass</b> is the Mass practice with a weekday schedule, not a new practice.</li>
+    </ul>
+  </section>
+
+  <div class="round">Rodada 10</div>
 
   <section class="q">
     <h2>Rodada 10 · Montar uma regra, passo a passo</h2>
@@ -1345,6 +1401,93 @@
   ].join('')
   mount10(document.getElementById('p10a'), 'list')
   mount10(document.getElementById('p10b'), 'guide')
+
+  // ── Round eleven: five tiers, each practice with its why ──
+  // [name, meta, why, part of day, in the rule]
+  const tiers11 = [
+    ['I', 'Os sacramentos', 'Onde a vida da graça começa e se renova.', 'eucharistic', [
+      ['Santa Missa', 'Aos domingos e dias santos', 'O Dia do Senhor. É o centro da semana cristã e o primeiro mandamento da Igreja.', 'dia', true],
+      ['Confissão', 'Uma vez por mês', 'A Igreja pede ao menos uma vez por ano; os santos aconselham com frequência. É o recomeço que Deus sempre oferece.', 'dia'],
+    ]],
+    ['II', 'O essencial de cada dia', 'Abrir e fechar o dia com Deus.', 'tpl-little-way', [
+      ['Oferecimento do Dia', 'Ao acordar · 1 min', 'Entregar a Deus o dia antes que ele comece, para que o trabalho e o cansaço também sejam oração.', 'manhã', true],
+      ['Exame de Consciência', 'Antes de dormir · 5 min', 'Olhar o dia com Deus: agradecer, pedir perdão e propor-se a recomeçar amanhã.', 'noite', true],
+    ]],
+    ['III', 'Ao longo do dia', 'Pausas que fazem do dia inteiro uma oração.', 'marian', [
+      ['Angelus', 'Ao meio-dia · 3 min', 'Parar no meio do trabalho e lembrar que Deus se fez homem, com as palavras do anjo a Maria.', 'dia'],
+      ['Santo Rosário', '20 min', 'A vida de Cristo, mistério por mistério, contemplada com sua Mãe. Os papas não cessaram de recomendá-lo.', 'tarde'],
+      ['Evangelho do Dia', '5 min', 'Alguns minutos com as palavras de Cristo que a Igreja lê hoje em todas as Missas.', 'manhã'],
+    ]],
+    ['IV', 'Mais perto de Cristo', 'Para quem quer aprofundar a amizade com Ele.', 'mental-prayer', [
+      ['Visita ao Santíssimo', '3 min', 'Cristo está no sacrário. Passar alguns minutos diante d’Ele, de passagem, como quem visita um amigo.', 'dia'],
+      ['Oração Mental', '15 min', 'Um tempo a sós com Deus, em silêncio, conversa de amigos, como dizia Santa Teresa.', 'manhã'],
+      ['Missa diária', 'Durante a semana · 40 min', 'Quem pode ir também nos dias de semana encontra Cristo todos os dias na Eucaristia.', 'manhã'],
+    ]],
+    ['V', 'Se o coração pedir', 'Devoções a que alguns se sentem chamados.', 'sacred-heart', [
+      ['Terço da Divina Misericórdia', 'Às 15h · 10 min', 'A oração que Jesus confiou a Santa Faustina, pedindo misericórdia para nós e para o mundo inteiro.', 'dia'],
+      ['Ofício Divino', 'Manhã e tarde · 15 min', 'A oração da Igreja nas horas do dia; une a sua voz à de padres e religiosos no mundo inteiro.', 'manhã'],
+    ]],
+  ]
+  function mount11(phone, look) {
+    const st = { view: 'add', added: new Set(), inRule: false }
+    const scr = phone.querySelector('.screen'), bar = phone.querySelector('.bar')
+    const bead = (it) => it[4] ? inBead(momentHue[it[3]]) : `<button class="sw ${st.added.has(it[0]) ? 'on' : ''}" data-n="${it[0]}" aria-label="Acrescentar ${it[0]}"><span class="a">${plusBead(40).replace('<svg', '<svg class="bead"')}</span><span class="b">${doneBead(momentHue[it[3]]).replace('<svg', '<svg class="bead"')}</span></button>`
+    const meta = (it) => it[4] ? `Na regra · ${it[1]}` : it[1]
+    const text = (it) => `<div class="nm11">${it[0]}</div><div class="meta11">${meta(it)}</div><div class="why11">${it[2]}</div>`
+    const body = {
+      book: () => tiers11.map(([n, title, line, , items]) => `<div class="chap"><div class="num">${n}</div><h5>${title}</h5><p>${line}</p><div class="orn">· ✠ ·</div></div>` + items.map((it) => `<div class="dv"><div class="t">${text(it)}</div>${bead(it)}</div>`).join('')).join(''),
+      cord: () => `<div class="cord">${tiers11.map(([n, title, line, , items], k) => `<div class="seg ${k > 2 ? 'd' : ''}" style="--o:${[.7, .6, .5, .4, .3][k]}"><div class="mk"><i>✠</i><b>${title}<span>${line}</span></b></div>${items.map((it) => `<div class="cd">${bead(it)}<div>${text(it)}</div></div>`).join('')}</div>`).join('')}</div>`,
+      painted: () => tiers11.map(([n, title, line, art, items]) => `<div class="band" style="background-image:url(art/${art}.jpg)"><small>${n}</small><b>${title}</b><span>${line}</span></div><div class="pcs">${items.map((it) => `<div class="pc">${text(it)}${bead(it)}</div>`).join('')}</div>`).join(''),
+    }[look]
+    const markInline = `<span class="inl">${icon('calPlus', 20)}</span>`
+    const lesson = `<div class="lesson" style="margin-top:30px"><div class="kick">E qualquer outra oração</div><h5>Entra na regra pela sua própria página</h5>
+        <div class="mini"><b>Ladainha de Nossa Senhora</b><div class="glyphs" style="padding:10px 0 2px"><span class="g teach">${gl('calPlus')}</span><span class="g">${gl('star', 'var(--muted)')}</span><span class="g">${gl('type', 'var(--muted)')}</span><span class="g">${gl('dots', 'var(--muted)')}</span></div></div>
+        <ol><li>Abra a oração que quiser, em Orações ou na Busca.</li><li>Toque em ${markInline} ao lado do título.</li><li>Escolha os dias e a hora.</li></ol>
+        <div class="btn" data-go="pray">Abrir Orações</div></div>`
+    const views = {
+      add: () => `<div class="back">‹</div><div class="ptitle">Acrescentar à regra</div><div class="lede">Uma regra de vida se constrói de cima para baixo: comece pelos primeiros degraus e desça quando cada um já for hábito.</div>${body()}${lesson}`,
+      pray: () => `<div class="back" data-go="add" style="cursor:pointer">‹</div><div class="otitle" style="padding-bottom:4px">Orações</div>
+        <div class="search">${icon('book', 18, '#a89a8c')}Buscar uma oração</div>
+        <div>${others.map(([n, m], i) => `<div class="orow" data-go="${i === 0 ? 'page' : ''}">${icon(i === 0 ? 'mary' : 'prayer')}<b>${n}</b><span>${m} min</span></div>`).join('')}</div>
+        <div class="whisper" style="text-align:left;padding-top:6px">Toque na Ladainha.</div>`,
+      page: () => `<div class="back" data-go="pray" style="cursor:pointer">‹</div>
+        <div class="ptitle" style="font-size:34px;line-height:38px">Ladainha de Nossa Senhora</div>
+        <div style="font: italic 400 20px/26px var(--title);color:var(--muted)">Ladainha Lauretana · 10 min</div>
+        <div class="glyphs"><button class="g" data-plan aria-label="${st.inRule ? 'Na regra' : 'Adicionar ao Plano'}">${gl(st.inRule ? 'calCheck' : 'calPlus')}</button><span class="g">${gl('star', 'var(--muted)')}</span><span class="g">${gl('type', 'var(--muted)')}</span><span class="g">${gl('dots', 'var(--muted)')}</span></div>
+        <div class="hair" style="margin:10px 0 4px"></div>
+        <div class="verse">Senhor, tende piedade.<br><i>R.</i> Senhor, tende piedade.</div>
+        <div class="verse">Cristo, tende piedade.<br><i>R.</i> Cristo, tende piedade.</div>
+        <div class="verse">Senhor, tende piedade.<br><i>R.</i> Senhor, tende piedade.</div>
+        <div class="verse">Cristo, ouvi-nos.<br><i>R.</i> Cristo, atendei-nos.</div>`,
+    }
+    function render() {
+      scr.innerHTML = views[st.view]()
+      const n = st.added.size + (st.inRule ? 1 : 0)
+      bar.hidden = st.view !== 'add' || n === 0
+      bar.querySelector('span').textContent = n === 1 ? '1 prática acrescentada' : `${n} práticas acrescentadas`
+      phone.querySelector('.toast')?.remove()
+      if (st.view === 'page' && st.inRule) phone.insertAdjacentHTML('beforeend', `<div class="toast"><span>Na regra · todo dia às 12h</span><b data-go="add">Ver ›</b></div>`)
+    }
+    phone.addEventListener('click', (e) => {
+      const go = e.target.closest('[data-go]'), b = e.target.closest('.sw'), plan = e.target.closest('[data-plan]')
+      if (b) st.added.has(b.dataset.n) ? st.added.delete(b.dataset.n) : st.added.add(b.dataset.n)
+      else if (plan) st.inRule = !st.inRule
+      else if (go && go.dataset.go) { st.view = go.dataset.go; scr.scrollTop = 0 }
+      else return
+      const keep = scr.scrollTop
+      render()
+      if (b) scr.scrollTop = keep
+    })
+    render()
+  }
+  document.getElementById('r11').innerHTML = [
+    col('A · O devocionário', 'Each tier is a chapter of a prayer book: a rubric numeral, its title, a line on what it is for, an ornament. The practices read as entries, the why in italics beneath. Quiet, all type, no pictures.', live9('p11a')),
+    col('B · O cordão', 'The rule’s own string runs down the page. Each tier is a cross on it, each practice a bead to hang; the thread fades and turns dashed as the tiers become more personal, so the drawing itself says “begin here”.', live9('p11b'), true),
+    col('C · Capítulos pintados', 'Each tier opens under a band of its painting, as Explore’s collections do, and its practices are cards on the surface below. The richest of the three; the paintings tell the tiers apart at a glance while scrolling.', live9('p11c')),
+  ].join('')
+  mount11(document.getElementById('p11a'), 'book')
+  mount11(document.getElementById('p11b'), 'cord')
+  mount11(document.getElementById('p11c'), 'painted')
 
   // Live marks on page A: an open bead fills, and the bar counts.
   let added = 0
