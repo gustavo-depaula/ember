@@ -28,5 +28,9 @@
         "pt-BR": "Vida de Malco, o Monge Cativo"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "pt-BR": "2026-10-02"
+  }
 }

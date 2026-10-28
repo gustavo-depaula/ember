@@ -133,5 +133,9 @@
         }
       ]
     }
-  ]
+  ],
+  "commentsOn": ["malachias"],
+  "arrived": {
+    "la": "2026-10-21"
+  }
 }

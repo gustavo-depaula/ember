@@ -619,5 +619,9 @@
         "pt-BR": "Capítulo 73"
       }
     }
-  ]
+  ],
+  "commentsOn": ["romans", "1-corinthians", "2-corinthians", "galatians", "ephesians", "philippians", "colossians", "1-thessalonians", "2-thessalonians", "1-timothy", "2-timothy", "titus", "philemon", "hebrews"],
+  "arrived": {
+    "la": "2026-10-21"
+  }
 }

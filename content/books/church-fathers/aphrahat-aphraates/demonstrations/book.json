@@ -66,5 +66,8 @@
         "en-US": "Demonstration XXII"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

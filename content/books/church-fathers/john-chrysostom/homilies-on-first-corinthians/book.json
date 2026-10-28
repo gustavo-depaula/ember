@@ -288,5 +288,9 @@
         "en-US": "Homily 44"
       }
     }
-  ]
+  ],
+  "commentsOn": ["1-corinthians"],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

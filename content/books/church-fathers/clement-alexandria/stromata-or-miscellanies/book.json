@@ -66,5 +66,8 @@
         "en-US": "Book VIII"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

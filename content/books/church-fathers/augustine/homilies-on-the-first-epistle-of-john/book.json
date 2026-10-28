@@ -78,5 +78,9 @@
         "en-US": "Homily 10"
       }
     }
-  ]
+  ],
+  "commentsOn": ["1-john"],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

@@ -1,0 +1,11 @@
+{
+  "name": {
+    "en-US": "St. Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
+  },
+  "century": 13,
+  "saint": "thomas_aquinas",
+  "matches": [
+    "St. Thomas Aquinas"
+  ]
+}

@@ -472,5 +472,8 @@
         "en-US": "Saint Wenceslas"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-22"
+  }
 }

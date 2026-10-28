@@ -1,0 +1,11 @@
+{
+  "name": {
+    "en-US": "St. Gregory Nazianzen",
+    "pt-BR": "São Gregório Nazianzeno"
+  },
+  "century": 4,
+  "saint": "basil_gregory",
+  "matches": [
+    "Gregory Nazianzen"
+  ]
+}

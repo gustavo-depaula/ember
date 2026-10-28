@@ -198,5 +198,9 @@
         "en-US": "Homily 30"
       }
     }
-  ]
+  ],
+  "commentsOn": ["2-corinthians"],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

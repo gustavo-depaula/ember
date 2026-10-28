@@ -63,5 +63,10 @@
         "pt-BR": "Capítulo 6"
       }
     }
-  ]
+  ],
+  "commentsOn": ["galatians"],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "pt-BR": "2026-10-24"
+  }
 }

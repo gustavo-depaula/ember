@@ -107,5 +107,9 @@
         }
       ]
     }
-  ]
+  ],
+  "commentsOn": ["2-timothy"],
+  "arrived": {
+    "la": "2026-10-21"
+  }
 }

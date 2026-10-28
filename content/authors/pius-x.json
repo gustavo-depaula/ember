@@ -1,0 +1,11 @@
+{
+  "name": {
+    "en-US": "St. Pius X",
+    "pt-BR": "São Pio X"
+  },
+  "century": 20,
+  "saint": "pius_x",
+  "matches": [
+    "Pope Saint Pius X"
+  ]
+}

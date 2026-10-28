@@ -1,0 +1,12 @@
+{
+  "name": {
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho"
+  },
+  "century": 5,
+  "saint": "augustine",
+  "matches": [
+    "Augustine of Hippo",
+    "Augustine, Saint, Bishop of Hippo (345-430)"
+  ]
+}

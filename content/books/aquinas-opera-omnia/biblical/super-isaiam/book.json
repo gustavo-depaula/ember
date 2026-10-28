@@ -507,5 +507,10 @@
         "la": "Chapter 66"
       }
     }
-  ]
+  ],
+  "commentsOn": ["isaias"],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "la": "2026-06-04"
+  }
 }

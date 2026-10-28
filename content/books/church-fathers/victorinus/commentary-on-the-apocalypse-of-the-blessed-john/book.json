@@ -28,5 +28,10 @@
         "pt-BR": "Comentário ao Apocalipse do Bem-aventurado João"
       }
     }
-  ]
+  ],
+  "commentsOn": ["apocalypse"],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "pt-BR": "2026-10-19"
+  }
 }

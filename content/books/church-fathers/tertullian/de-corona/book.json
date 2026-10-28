@@ -28,5 +28,9 @@
         "pt-BR": "De Corona (A Coroa)"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "pt-BR": "2026-10-02"
+  }
 }

@@ -132,5 +132,9 @@
         "en-US": "Homily 18"
       }
     }
-  ]
+  ],
+  "commentsOn": ["1-timothy"],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

@@ -387,5 +387,11 @@
         "pt-BR": "Capítulo 42 — Instrução do restante"
       }
     }
-  ]
+  ],
+  "commentsOn": ["jeremias"],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "la": "2026-06-04",
+    "pt-BR": "2026-10-24"
+  }
 }

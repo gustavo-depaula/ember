@@ -331,5 +331,9 @@
         }
       ]
     }
-  ]
+  ],
+  "commentsOn": ["1-corinthians"],
+  "arrived": {
+    "la": "2026-10-21"
+  }
 }

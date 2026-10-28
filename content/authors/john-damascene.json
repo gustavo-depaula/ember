@@ -1,0 +1,11 @@
+{
+  "name": {
+    "en-US": "St. John of Damascus",
+    "pt-BR": "São João Damasceno"
+  },
+  "century": 8,
+  "saint": "john_damascene",
+  "matches": [
+    "John of Damascus"
+  ]
+}

@@ -42,5 +42,10 @@
         "pt-BR": "Salmo 131/130"
       }
     }
-  ]
+  ],
+  "commentsOn": ["psalms"],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "pt-BR": "2026-10-18"
+  }
 }

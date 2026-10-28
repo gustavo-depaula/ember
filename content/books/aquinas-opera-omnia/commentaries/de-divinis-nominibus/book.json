@@ -136,5 +136,9 @@
         "la": "Conclusion of the Exposition"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "la": "2026-06-04"
+  }
 }

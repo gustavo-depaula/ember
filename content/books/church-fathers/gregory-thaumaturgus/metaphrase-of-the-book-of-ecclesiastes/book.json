@@ -28,5 +28,10 @@
         "pt-BR": "Metáfrase do Livro do Eclesiastes"
       }
     }
-  ]
+  ],
+  "commentsOn": ["ecclesiastes"],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "pt-BR": "2026-10-18"
+  }
 }

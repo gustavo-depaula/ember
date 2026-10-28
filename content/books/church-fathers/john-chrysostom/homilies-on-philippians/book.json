@@ -114,5 +114,9 @@
         "en-US": "Homily 15"
       }
     }
-  ]
+  ],
+  "commentsOn": ["philippians"],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

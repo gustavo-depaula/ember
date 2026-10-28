@@ -1,0 +1,76 @@
+{
+	"version": "1.0.0",
+	"cover": "boxed",
+	"name": {
+		"en-US": "A Page a Day",
+		"pt-BR": "Uma página por dia"
+	},
+	"description": {
+		"en-US": "Books meant to be prayed a little each day, not read at one go.",
+		"pt-BR": "Livros para rezar um pouco a cada dia, não para ler de uma vez."
+	},
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"reading-list"
+	],
+	"prologue": {
+		"body": {
+			"en-US": "Each of these is divided for daily prayer: a meditation for the day of the year, a visit for the day of the month, a consideration at a time.",
+			"pt-BR": "Cada um destes é dividido para a oração diária: uma meditação para o dia do ano, uma visita para o dia do mês, uma consideração de cada vez."
+		}
+	},
+	"sections": [
+		{
+			"id": "books",
+			"title": {
+				"en-US": "Books",
+				"pt-BR": "Livros"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/liguori-meditacoes",
+					"annotation": {
+						"context": {
+							"en-US": "A short meditation for every day and feast of the year, set out in points.",
+							"pt-BR": "Uma meditação breve para cada dia e festa do ano, dividida em pontos."
+						}
+					}
+				},
+				{
+					"kind": "item",
+					"ref": "book/gabriel-stmm-intimita-divina",
+					"annotation": {
+						"context": {
+							"en-US": "A meditation for each day of the liturgical year.",
+							"pt-BR": "Uma meditação para cada dia do ano litúrgico."
+						}
+					}
+				},
+				{
+					"kind": "item",
+					"ref": "book/liguori-visite-al-ss-sacramento",
+					"annotation": {
+						"context": {
+							"en-US": "Thirty-one visits, one for each day of the month.",
+							"pt-BR": "Trinta e uma visitas, uma para cada dia do mês."
+						}
+					}
+				},
+				{
+					"kind": "item",
+					"ref": "book/liguori-apparecchio-alla-morte",
+					"annotation": {
+						"context": {
+							"en-US": "Considerations on the last things, one at a time.",
+							"pt-BR": "Considerações sobre os novíssimos, uma de cada vez."
+						}
+					}
+				}
+			]
+		}
+	]
+}

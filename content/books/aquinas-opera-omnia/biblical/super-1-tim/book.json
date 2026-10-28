@@ -91,5 +91,11 @@
         "pt-BR": "C. 6 - Os perigos das riquezas"
       }
     }
-  ]
+  ],
+  "commentsOn": ["1-timothy"],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "la": "2026-06-04",
+    "pt-BR": "2026-10-18"
+  }
 }

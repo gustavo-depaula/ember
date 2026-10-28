@@ -90,5 +90,9 @@
         "en-US": "Homily 12"
       }
     }
-  ]
+  ],
+  "commentsOn": ["colossians"],
+  "arrived": {
+    "en-US": "2026-06-04"
+  }
 }

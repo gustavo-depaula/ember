@@ -28,5 +28,9 @@
         "pt-BR": "Discurso aos Gregos"
       }
     }
-  ]
+  ],
+  "arrived": {
+    "en-US": "2026-06-04",
+    "pt-BR": "2026-09-16"
+  }
 }
