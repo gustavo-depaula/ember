@@ -76,7 +76,7 @@ export default function ReadingListScreen() {
   )
 }
 
-// The number sits on the title's first line, and number, cover and text share one top edge.
+// Cover and text share one top edge; the number stands centred on the whole entry.
 const titleLine = 24
 
 function ListEntry({
@@ -105,6 +105,7 @@ function ListEntry({
           fontSize="$5"
           lineHeight={titleLine}
           width={22}
+          alignSelf="center"
           fontVariant={['tabular-nums']}
         >
           {number}
