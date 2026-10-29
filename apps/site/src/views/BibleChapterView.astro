@@ -38,6 +38,11 @@ const label = (ref: { book: { id: string; title: string }; chapter: number }) =>
   description={description}
   alternates={alternates}
   section="bible"
+  breadcrumbs={[
+    { name: s('navBible'), path: href.section(locale, 'bible') },
+    { name: page.book.title, path: href.bibleBook(locale, slug) },
+    { name: heading, path: alternates[locale] ?? Astro.url.pathname },
+  ]}
   ogType="article"
   jsonLd={{
     '@context': 'https://schema.org',

@@ -1,10 +1,11 @@
 ---
+import { formatDistanceKm } from '@/features/mass-times/format'
 import enUS from '@/lib/i18n/locales/en-US'
 import ptBR from '@/lib/i18n/locales/pt-BR'
 import ChurchChanges from '~/components/ChurchChanges.astro'
 import Base from '~/layouts/Base.astro'
 import type { Locale } from '~/lib/locale'
-import { fetchChurch, slug } from '~/lib/massTimes/data'
+import { churchById, countryName, nearestChurches, placeOf } from '~/lib/massTimes/data'
 import { makeT } from '~/lib/massTimes/t'
 import { churchHtml } from '~/lib/massTimes/view'
 import { href } from '~/routes'
@@ -18,13 +19,31 @@ interface Props {
 const { locale, alternates, id } = Astro.props
 const t = makeT('massTimes', (locale === 'pt-BR' ? ptBR : enUS).massTimes)
 const pt = locale === 'pt-BR'
-const church = await fetchChurch(id)
+const found = await churchById(id)
+if (!found) throw new Error(`Church ${id} is not in the directory`)
+// The page reads the state and city as the directory's place pages name them, not as imported.
+const church = {
+  ...found,
+  city: found.located.city ?? found.city,
+  region: found.located.region?.name ?? found.region,
+}
+const { country, region, city } = await placeOf(found)
 const name = church.longName ?? church.name
 const where = [church.city, church.region].filter(Boolean).join(', ')
 const html = churchHtml(church, { t, locale, churchHref: (other) => href.church(locale, other) })
 const description = pt
-  ? `Horários de Missa, confissão e adoração: ${name}${where ? `, ${where}` : ''}.`
-  : `Mass, confession and adoration times at ${name}${where ? `, ${where}` : ''}.`
+  ? `Horários de Missa, confissão e adoração: ${name}${where ? `, ${where}` : ''}. Endereço, telefone e como chegar.`
+  : `Mass, confession and adoration times at ${name}${where ? `, ${where}` : ''}. Address, phone and directions.`
+const nearby = nearestChurches(found, region?.churches ?? country.churches)
+
+const trail = [
+  { name: pt ? 'Horários de Missa' : 'Mass times', path: href.section(locale, 'massTimes') },
+  { name: countryName(country.code, locale), path: href.massTimesPlace(locale, country.code) },
+  ...(region ? [{ name: region.name, path: href.massTimesPlace(locale, country.code, region.slug) }] : []),
+  ...(region && city ? [{ name: city.name, path: href.massTimesPlace(locale, country.code, region.slug, city.slug) }] : []),
+  { name, path: href.church(locale, id) },
+]
+const up = trail[trail.length - 2]
 ---
 
 <Base
@@ -33,29 +52,63 @@ const description = pt
   description={description}
   alternates={alternates}
   section="massTimes"
+  breadcrumbs={trail}
   jsonLd={{
     '@context': 'https://schema.org',
-    '@type': 'CatholicChurch',
-    name,
-    address: {
-      '@type': 'PostalAddress',
-      streetAddress: church.address ?? undefined,
-      addressLocality: church.city ?? undefined,
-      addressRegion: church.region ?? undefined,
-      postalCode: church.postalCode ?? undefined,
-      addressCountry: church.countryCode ?? undefined,
+    '@type': 'WebPage',
+    dateModified: church.lastVerifiedAt ?? church.updatedAt ?? undefined,
+    mainEntity: {
+      '@type': 'CatholicChurch',
+      name,
+      url: new URL(href.church(locale, id), Astro.site).href,
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: church.address ?? undefined,
+        addressLocality: church.city ?? undefined,
+        addressRegion: church.region ?? undefined,
+        postalCode: church.postalCode ?? undefined,
+        addressCountry: church.countryCode ?? undefined,
+      },
+      geo: { '@type': 'GeoCoordinates', latitude: church.lat, longitude: church.lng },
+      hasMap: `https://www.google.com/maps/search/?api=1&query=${church.lat},${church.lng}`,
+      telephone: church.phoneE164 ?? undefined,
+      email: church.email ?? undefined,
+      sameAs: church.links.length ? church.links.map((link) => link.url) : undefined,
     },
-    geo: { '@type': 'GeoCoordinates', latitude: church.lat, longitude: church.lng },
-    telephone: church.phoneE164 ?? undefined,
   }}
 >
   <div class="column" style="padding-top:24px">
     <p style="padding-bottom:16px">
-      <a class="go" href={church.countryCode && church.region ? href.massTimesPlace(locale, church.countryCode.toLowerCase(), slug(church.region)) : href.section(locale, 'massTimes')}>
-        ← {church.region ?? t('massTimes.title')}
-      </a>
+      <a class="go" href={up.path}>← {up.name}</a>
     </p>
     <article set:html={html} />
+    {nearby.length > 0 && (
+      <section class="nearby">
+        <h2 class="t-label">{pt ? 'Igrejas próximas' : 'Churches nearby'}</h2>
+        <ul class="rows">
+          {nearby.map(({ church: other, km }) => (
+            <li>
+              <a class="row" href={href.church(locale, other.id)}>
+                <span class="grow">
+                  <span class="row-title">{other.longName ?? other.name}</span>
+                  <span class="t-annotation" style="display:block">{other.located.city ?? other.address}</span>
+                </span>
+                <span class="t-annotation">{formatDistanceKm(km, locale)}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
     <ChurchChanges locale={locale} id={id} />
   </div>
 </Base>
+
+<style>
+  .nearby {
+    margin-top: var(--space-xl);
+  }
+  .nearby h2 {
+    margin-bottom: var(--space-sm);
+  }
+</style>

@@ -62,14 +62,21 @@ const pillars = pt
 
 <Base
   locale={locale}
-  title={s('siteName')}
+  title={pt
+    ? 'Ember Catholic App — Liturgia diária, santo do dia, orações e horários de Missa'
+    : 'Ember Catholic App — Daily Mass readings, saint of the day, prayers and Mass times'}
   alternates={alternates}
   section="home"
   jsonLd={{
     '@context': 'https://schema.org',
     '@type': 'WebSite',
+    // Search results take the site name from the subdomain's root alone, and pass over a name
+    // as common as "Ember" (Ember.js, the mug) unless a more distinctive one stands behind it.
     name: 'Ember',
-    url: new URL(href.home(locale), Astro.site).href,
+    alternateName: pt
+      ? ['Ember App Católico', 'Ember Catholic App']
+      : ['Ember Catholic App', 'Ember App Católico'],
+    url: new URL('/', Astro.site).href,
     description: s('description'),
     inLanguage: locale,
     potentialAction: {

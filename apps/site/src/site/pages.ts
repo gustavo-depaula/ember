@@ -9,7 +9,7 @@ import { bootCorpus } from '~/lib/corpus'
 import { calendarYears, liturgyDates } from '~/lib/dates'
 import { officeDates, officeForms } from '~/lib/liturgy'
 import { type Locale, locales } from '~/lib/locale'
-import { indexedChurches, places } from '~/lib/massTimes/data'
+import { cityPageMin, directory } from '~/lib/massTimes/data'
 import { listPrayers } from '~/lib/prayers'
 import { saintsCatalog } from '~/lib/saints'
 import { today } from '~/lib/today'
@@ -47,7 +47,7 @@ export type Page =
   | { view: 'churchShell' }
   | { view: 'massTimesChanges' }
   | { view: 'church'; id: string }
-  | { view: 'place'; country: string; place: string }
+  | { view: 'place'; country: string; region?: string; city?: string }
   | { view: 'search' }
   | { view: 'connect' }
   | { view: 'plans' }
@@ -201,14 +201,33 @@ async function drafts(): Promise<Draft[]> {
     path: (l) => href.massTimesPlace(l, l === 'pt-BR' ? 'igreja' : 'church'),
   })
   out.push({ page: { view: 'massTimesChanges' }, path: (l) => href.massTimesChanges(l) })
-  for (const church of await indexedChurches()) {
-    out.push({ page: { view: 'church', id: church.id }, path: (l) => href.church(l, church.id) })
-  }
-  for (const place of await places()) {
-    out.push({
-      page: { view: 'place', country: place.country, place: place.slug },
-      path: (l) => href.massTimesPlace(l, place.country, place.slug),
-    })
+  // A country's churches and places are published in its own language only (`churchLocale`).
+  for (const country of await directory()) {
+    const only = [country.locale]
+    const place = (region?: string, city?: string) =>
+      out.push({
+        page: { view: 'place', country: country.code, region, city },
+        locales: only,
+        path: (l) =>
+          href.massTimesPlace(
+            l,
+            ...[country.code, region, city].filter((p): p is string => p !== undefined),
+          ),
+      })
+    place()
+    for (const region of country.regions) {
+      place(region.slug)
+      for (const city of region.cities) {
+        if (city.churches.length >= cityPageMin) place(region.slug, city.slug)
+      }
+    }
+    for (const church of country.churches) {
+      out.push({
+        page: { view: 'church', id: church.id },
+        locales: only,
+        path: (l) => href.church(l, church.id),
+      })
+    }
   }
 
   out.push({ page: { view: 'search' }, path: (l) => href.section(l, 'search') })

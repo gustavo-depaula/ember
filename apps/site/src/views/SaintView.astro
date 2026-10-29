@@ -31,6 +31,19 @@ const chapters = [
 const numerals = ['I', 'II', 'III', 'IV', 'V', 'VI']
 const numeral = (key: string) => numerals[chapters.findIndex((c) => c.key === key)]
 
+// Named for what the page holds, the way a saint is looked up ("história de São Bento", "oração a
+// São Bento"): the life, a prayer, the feast day, each only when the page has it.
+const title = (() => {
+  const holds = [
+    (page.life || saint.reflection) && (pt ? 'história' : 'life'),
+    page.pray.length > 0 && (pt ? 'oração' : 'prayer'),
+    saint.feastLabel && (pt ? 'festa' : 'feast day'),
+  ].filter(Boolean) as string[]
+  if (!holds.length) return saint.name
+  const and = pt ? ' e ' : ' and '
+  const list = holds.length > 1 ? `${holds.slice(0, -1).join(', ')}${and}${holds[holds.length - 1]}` : holds[0]
+  return `${saint.name}: ${list}${saint.feastLabel ? ` (${saint.feastLabel})` : ''}`
+})()
 const lifeText = page.life?.opening.replace(/<[^>]+>/g, ' ')
 const description = plainExcerpt(
   [saint.feastLabel && `${saint.name}, ${saint.feastLabel}.`, saint.patronOf && `${saint.patronOf}.`, lifeText ?? saint.reflection]
@@ -42,10 +55,14 @@ const image = saint.cardImage.uri as string
 
 <Base
   locale={locale}
-  title={saint.feastLabel ? `${saint.name} — ${saint.feastLabel}` : saint.name}
+  title={title}
   description={description}
   alternates={alternates}
   section="saints"
+  breadcrumbs={[
+    { name: pt ? 'Santos' : 'Saints', path: href.section(locale, 'saints') },
+    { name: saint.name, path: alternates[locale] ?? Astro.url.pathname },
+  ]}
   ogType="article"
   image={image}
   jsonLd={{

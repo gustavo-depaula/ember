@@ -8,7 +8,7 @@ import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import Base from '~/layouts/Base.astro'
 import { bibleRefFor } from '~/lib/citations'
-import { longDate } from '~/lib/dates'
+import { longDate, plainDate } from '~/lib/dates'
 import { loadOfDay, loadOfMass } from '~/lib/liturgy'
 import { type Locale, translator } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
@@ -34,11 +34,20 @@ const slotLabel = pt
   : { first: 'First reading', psalm: 'Responsorial psalm', second: 'Second reading', gospel: 'Gospel' }
 const principal = day.celebrations[0]
 const heading = pt ? 'Santa Missa' : 'Holy Mass'
-const title = `${pt ? 'Missa do dia' : 'Mass of the day'}: ${principal?.title ?? day.dayName} — ${longDate(date, locale)}`
+const celebration = principal?.title ?? day.dayName
+const gospel = day.readings.find((r) => r.slot === 'gospel')?.citation
+// Worded as the day's readings are searched for ("liturgia diária 29 de outubro", "evangelho de
+// hoje"). The undated page is today's every day, and a result can show its title for days after.
+const title = (() => {
+  if (isToday) return pt ? 'Liturgia diária de hoje: Evangelho do dia e leituras da Missa' : "Today's Mass readings: Gospel of the day and readings"
+  const when = plainDate(date, locale)
+  if (pt) return `Liturgia diária de ${when}${gospel ? `: Evangelho ${gospel}` : ''}`
+  return `Daily Mass readings for ${when}${gospel ? `: Gospel ${gospel}` : ''}`
+})()
 const citations = day.readings.map((r) => r.citation).join('; ')
 const description = pt
-  ? `${longDate(date, locale)}: ${principal?.title ?? day.dayName}. Leituras da Missa: ${citations}.`
-  : `${longDate(date, locale)}: ${principal?.title ?? day.dayName}. Mass readings: ${citations}.`
+  ? `${longDate(date, locale)}: ${celebration}. Leituras da Missa: ${citations}.`
+  : `${longDate(date, locale)}: ${celebration}. Mass readings: ${citations}.`
 ---
 
 <Base locale={locale} title={title} description={description} alternates={alternates} section="mass" ogType="article">

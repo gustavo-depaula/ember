@@ -133,7 +133,9 @@ jobs:
         env:
           NODE_OPTIONS: --max-old-space-size=8192
           EMBER_SITE_OF_TEXTS: ${{ vars.SITE_OF_TEXTS }}
-          EMBER_SITE_CHURCHES: ${{ vars.SITE_CHURCHES }}
+          # Brazil's churches until the directory's other countries are as well kept; a repository
+          # variable widens it (`BR,US`, `all`) without a change here.
+          EMBER_SITE_CHURCHES: ${{ vars.SITE_CHURCHES || 'BR' }}
           EMBER_APP_STORE_ID: ${{ vars.APP_STORE_ID }}
 
       - uses: actions/upload-pages-artifact@v3

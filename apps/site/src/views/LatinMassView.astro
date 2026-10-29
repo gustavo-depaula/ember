@@ -6,7 +6,7 @@ import RailTools from '~/components/RailTools.astro'
 import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import Base from '~/layouts/Base.astro'
-import { longDate } from '~/lib/dates'
+import { longDate, plainDate } from '~/lib/dates'
 import { loadEfDay, loadEfMass } from '~/lib/liturgy'
 import { type Locale, translator } from '~/lib/locale'
 import { href } from '~/routes'
@@ -24,7 +24,11 @@ const pt = locale === 'pt-BR'
 const day = await loadEfDay(date, locale)
 const mass = await loadEfMass(date, locale)
 const heading = pt ? 'Santa Missa' : 'Holy Mass'
-const title = `${pt ? 'Missa tridentina' : 'Traditional Latin Mass'}: ${day.name} — ${longDate(date, locale)}`
+const title = (() => {
+  if (isToday) return pt ? 'Missa tridentina de hoje: próprio do Missal de 1962' : 'Latin Mass propers for today: the 1962 Missal'
+  const when = plainDate(date, locale)
+  return pt ? `Missa tridentina de ${when}: ${day.name}` : `Latin Mass propers for ${when}: ${day.name}`
+})()
 const description = pt
   ? `${longDate(date, locale)}: ${day.name} (${day.rankText}). O próprio e o Ordinário da Missa no Missal de 1962, em latim e português, lado a lado.`
   : `${longDate(date, locale)}: ${day.name} (${day.rankText}). The propers and the Ordinary of the Mass in the 1962 Missal, Latin and English side by side.`

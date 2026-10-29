@@ -23,7 +23,7 @@ const description = pt
   : `${page.name}${page.section ? ` (${page.section.title})` : ''} in square notes, from the Kyriale of the Roman Gradual.`
 ---
 
-<Base locale={locale} title={page.subtitle ? `${page.name} — ${page.subtitle}` : page.name} description={description} alternates={alternates} section="chant">
+<Base locale={locale} title={`${page.subtitle ? `${page.name} — ${page.subtitle}` : page.name} · ${pt ? 'partitura gregoriana' : 'Gregorian chant score'}`} description={description} alternates={alternates} section="chant">
   <article class="chant">
     <header class="title-page">
       {page.section && (

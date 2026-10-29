@@ -3,7 +3,11 @@
 // and walking it needs the API's `/churches/index` route.
 //   EMBER_SITE_CHURCHES=BR,US   churches with service times in those countries
 //   EMBER_SITE_CHURCHES=all     every church with service times
+import type { Locale } from '~/lib/locale'
+import { type Located, locateAll, slug } from './places'
 import type { ChurchDetail } from './view'
+
+export { slug }
 
 export const massTimesApi = (
   import.meta.env.PUBLIC_MASS_TIMES_URL ?? 'https://ember-mass-times.dpgu.workers.dev'
@@ -42,45 +46,154 @@ async function walkIndex(): Promise<IndexedChurch[]> {
   return out
 }
 
-let index: Promise<IndexedChurch[]> | undefined
-
-export function indexedChurches(): Promise<IndexedChurch[]> {
-  index ??= walkIndex()
-  return index
-}
-
 export async function fetchChurch(id: string): Promise<ChurchDetail> {
   const res = await fetch(`${massTimesApi}/churches/${encodeURIComponent(id)}`)
   if (!res.ok) throw new Error(`Church ${id}: HTTP ${res.status}`)
   return res.json() as Promise<ChurchDetail>
 }
 
-export function slug(text: string): string {
-  return text
-    .normalize('NFKD')
-    .replace(/[̀-ͯ]/g, '')
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-|-$/g, '')
+// Thousands of churches, one request each: a build that asked for them one page at a time would
+// spend most of its hour waiting, and one that asked all at once would be throttled.
+async function fetchAll(ids: string[], concurrency = 16): Promise<ChurchDetail[]> {
+  const out: ChurchDetail[] = new Array(ids.length)
+  let next = 0
+  const worker = async () => {
+    while (next < ids.length) {
+      const i = next++
+      for (let attempt = 1; ; attempt++) {
+        try {
+          out[i] = await fetchChurch(ids[i])
+          break
+        } catch (error) {
+          if (attempt === 3) throw error
+          await new Promise((resolve) => setTimeout(resolve, 1000 * attempt))
+        }
+      }
+    }
+  }
+  await Promise.all(Array.from({ length: concurrency }, worker))
+  return out
 }
 
-export type Place = { country: string; region: string; slug: string; churches: IndexedChurch[] }
+// A church is published in the language of its country: a Brazilian parish is searched for in
+// Portuguese, and a page in both languages would only compete with itself.
+const portuguese = new Set(['BR', 'PT', 'AO', 'MZ', 'CV', 'GW', 'ST', 'TL'])
 
-/** Churches by country and region: the pages a "Mass times in São Paulo" search lands on. */
-export async function places(): Promise<Place[]> {
-  const byPlace = new Map<string, Place>()
-  for (const church of await indexedChurches()) {
-    if (!church.countryCode || !church.region) continue
-    const country = church.countryCode.toLowerCase()
-    const key = `${country}/${slug(church.region)}`
-    const place = byPlace.get(key) ?? {
-      country,
-      region: church.region,
-      slug: slug(church.region),
-      churches: [],
-    }
-    place.churches.push(church)
-    byPlace.set(key, place)
+export function churchLocale(countryCode: string | null): Locale {
+  return portuguese.has((countryCode ?? '').toUpperCase()) ? 'pt-BR' : 'en-US'
+}
+
+export type DirectoryChurch = ChurchDetail & {
+  /** Lower-case ISO country code, as it appears in a place's path. */
+  country: string
+  locale: Locale
+  located: Located
+}
+
+export type City = { name: string; slug: string; churches: DirectoryChurch[] }
+export type Region = { name: string; slug: string; churches: DirectoryChurch[]; cities: City[] }
+export type Country = {
+  code: string
+  locale: Locale
+  churches: DirectoryChurch[]
+  regions: Region[]
+}
+
+/** A city has a page of its own once it has this many churches; a smaller one is listed in its state. */
+export const cityPageMin = 2
+
+function group<T>(items: T[], keyOf: (item: T) => string | undefined): Map<string, T[]> {
+  const out = new Map<string, T[]>()
+  for (const item of items) {
+    const key = keyOf(item)
+    if (key === undefined) continue
+    out.set(key, [...(out.get(key) ?? []), item])
   }
-  return [...byPlace.values()].sort((a, b) => a.region.localeCompare(b.region))
+  return out
+}
+
+// The spelling most of a city's churches use ("São Paulo" over "Sao Paulo").
+function commonest(names: string[]): string {
+  const counts = group(names, (name) => name)
+  return [...counts.entries()].sort((a, b) => b[1].length - a[1].length)[0][0]
+}
+
+async function build(): Promise<Country[]> {
+  const indexed = await walkIndex()
+  const details = await fetchAll(indexed.map((church) => church.id))
+  const placed = locateAll(details)
+  const churches: DirectoryChurch[] = details
+    .filter((church) => church.countryCode)
+    .map((church) => ({
+      ...church,
+      country: (church.countryCode as string).toLowerCase(),
+      locale: churchLocale(church.countryCode),
+      located: placed.get(church) ?? {},
+    }))
+  const byName = (a: { name: string }, b: { name: string }) => a.name.localeCompare(b.name)
+  return [...group(churches, (c) => c.country).entries()]
+    .map(([code, inCountry]) => ({
+      code,
+      locale: inCountry[0].locale,
+      churches: inCountry,
+      regions: [...group(inCountry, (c) => c.located.region?.slug).values()]
+        .map((inRegion) => ({
+          name: inRegion[0].located.region?.name as string,
+          slug: inRegion[0].located.region?.slug as string,
+          churches: inRegion,
+          cities: [...group(inRegion, (c) => c.located.city && slug(c.located.city)).entries()]
+            .filter(([key]) => key)
+            .map(([key, inCity]) => ({
+              name: commonest(inCity.map((c) => c.located.city as string)),
+              slug: key,
+              churches: inCity,
+            }))
+            .sort(byName),
+        }))
+        .sort(byName),
+    }))
+    .sort((a, b) => b.churches.length - a.churches.length)
+}
+
+let directoryPromise: Promise<Country[]> | undefined
+
+/** The published churches by country, state and city. */
+export function directory(): Promise<Country[]> {
+  directoryPromise ??= build()
+  return directoryPromise
+}
+
+export async function churchById(id: string): Promise<DirectoryChurch | undefined> {
+  for (const country of await directory()) {
+    const church = country.churches.find((c) => c.id === id)
+    if (church) return church
+  }
+  return undefined
+}
+
+/** Where a church sits: its country, state and city, each as far as it is known. */
+export async function placeOf(church: DirectoryChurch) {
+  const country = (await directory()).find((c) => c.code === church.country) as Country
+  const region = country.regions.find((r) => r.slug === church.located.region?.slug)
+  const city = region?.cities.find((c) => c.slug === slug(church.located.city ?? ''))
+  return { country, region, city: city && city.churches.length >= cityPageMin ? city : undefined }
+}
+
+/** The churches nearest this one, within its state: the next places a reader near it might go. */
+export function nearestChurches(church: DirectoryChurch, among: DirectoryChurch[], count = 6) {
+  const km = (a: DirectoryChurch, b: DirectoryChurch) => {
+    const rad = Math.PI / 180
+    const x = (b.lng - a.lng) * rad * Math.cos(((a.lat + b.lat) / 2) * rad)
+    const y = (b.lat - a.lat) * rad
+    return Math.sqrt(x * x + y * y) * 6371
+  }
+  return among
+    .filter((other) => other.id !== church.id)
+    .map((other) => ({ church: other, km: km(church, other) }))
+    .sort((a, b) => a.km - b.km)
+    .slice(0, count)
+}
+
+export function countryName(code: string, locale: Locale): string {
+  return new Intl.DisplayNames([locale], { type: 'region' }).of(code.toUpperCase()) ?? code
 }

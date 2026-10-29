@@ -39,12 +39,16 @@ const shortToc = book.toc.reduce((n, item) => n + 1 + item.children.length, 0) <
 
 <Base
   locale={locale}
-  title={book.author ? `${book.title} — ${book.author}` : book.title}
+  title={`${book.author ? `${book.title} — ${book.author}` : book.title} · ${pt ? 'ler online' : 'read online'}`}
   description={description}
   alternates={alternates}
   canonical={canonical}
   noindex={!!canonical}
   section="books"
+  breadcrumbs={[
+    { name: s('navLibrary'), path: href.section(locale, 'library') },
+    { name: book.title, path: alternates[locale] ?? Astro.url.pathname },
+  ]}
   ogType="book"
   jsonLd={{
     '@context': 'https://schema.org',

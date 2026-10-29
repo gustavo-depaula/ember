@@ -3,12 +3,19 @@ import { listPages, type PageEntry } from '~/site/pages'
 /** A sitemap may hold 50,000 URLs; these stay well under, grouped so each file is one kind of page. */
 const groups: Record<string, (entry: PageEntry) => boolean> = {
   pages: (e) =>
-    !['chapter', 'bibleChapter', 'calendarDay', 'mass', 'latinMass', 'office', 'church'].includes(
-      e.page.view,
-    ),
+    ![
+      'chapter',
+      'bibleChapter',
+      'calendarDay',
+      'mass',
+      'latinMass',
+      'office',
+      'church',
+      'place',
+    ].includes(e.page.view),
   bible: (e) => e.page.view === 'bibleChapter',
   liturgy: (e) => ['calendarDay', 'mass', 'latinMass', 'office'].includes(e.page.view),
-  churches: (e) => e.page.view === 'church',
+  churches: (e) => e.page.view === 'church' || e.page.view === 'place',
 }
 
 // Client-rendered shells: nothing for a crawler to read.

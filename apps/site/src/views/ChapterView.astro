@@ -9,6 +9,7 @@ import { loadChapterPage } from '~/lib/books'
 import { plainExcerpt } from '~/lib/html'
 import { htmlLang, type Locale } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
+import { href } from '~/routes'
 
 interface Props {
   locale: Locale
@@ -24,6 +25,11 @@ if (!page) throw new Error(`No chapter ${id}#${nodeId}`)
 
 const text = page.html?.replace(/<[^>]+>/g, ' ') ?? ''
 const description = plainExcerpt(text.replace(page.title, '')) || `${page.title} — ${page.bookTitle}`
+const breadcrumbs = [
+  { name: s('navLibrary'), path: href.section(locale, 'library') },
+  ...page.trail.flatMap((crumb) => (crumb.href ? [{ name: crumb.title, path: crumb.href }] : [])),
+  { name: page.title, path: alternates[locale] ?? Astro.url.pathname },
+]
 const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
 ---
 
@@ -34,6 +40,7 @@ const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
   alternates={alternates}
   section="books"
   ogType="article"
+  breadcrumbs={breadcrumbs}
   jsonLd={{
     '@context': 'https://schema.org',
     '@type': 'Chapter',
