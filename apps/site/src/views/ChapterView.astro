@@ -5,7 +5,7 @@ import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import TocList from '~/components/TocList.astro'
 import Base from '~/layouts/Base.astro'
-import { loadChapterPage } from '~/lib/books'
+import { chaptersIndexedElsewhere, loadChapterPage } from '~/lib/books'
 import { plainExcerpt } from '~/lib/html'
 import { htmlLang, type Locale } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
@@ -40,6 +40,7 @@ const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
   alternates={alternates}
   section="books"
   ogType="article"
+  noindex={chaptersIndexedElsewhere.has(id)}
   breadcrumbs={breadcrumbs}
   jsonLd={{
     '@context': 'https://schema.org',

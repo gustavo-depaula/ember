@@ -271,3 +271,18 @@ export async function bookManifest(id: string): Promise<BookEntry | undefined> {
   const entry = getEntry(id)
   return entry && !isMetaId(id) ? ensureManifestBody<BookEntry>(entry.hash) : undefined
 }
+
+/**
+ * Books whose chapters are left out of search engines' index, the book's own page kept in it.
+ * Their text is published elsewhere, long ranked there (New Advent's encyclopedia and Summa), or
+ * on this site already (the Douay-Rheims under /bible/, the Confessions in our own edition): a
+ * search engine shows one copy of a text, and thousands of copies it will pass over cost the pages
+ * it would show. Readers still open and read every chapter; a book taken off this list is indexed
+ * again on the next build.
+ */
+export const chaptersIndexedElsewhere = new Set([
+  'book/catholic-encyclopedia',
+  'book/aquinas-summa-theologica-new-advent',
+  'book/augustine-confessions-schaff',
+  'book/douay-rheims-challoner',
+])
