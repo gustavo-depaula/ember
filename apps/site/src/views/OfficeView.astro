@@ -6,7 +6,7 @@ import RailTools from '~/components/RailTools.astro'
 import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import Base from '~/layouts/Base.astro'
-import { longDate } from '~/lib/dates'
+import { longDate, plainDate } from '~/lib/dates'
 import { hasOfficePage, loadOfficeDay, loadOfficeHour, officeForms } from '~/lib/liturgy'
 import type { Locale } from '~/lib/locale'
 import { hourNames, href, type OfficeHour, officeHours } from '~/routes'
@@ -31,9 +31,14 @@ const day = await loadOfficeDay(date, form.version)
 const primitives = hour ? await loadOfficeHour(date, hour, locale, form) : undefined
 const names = hourNames[locale]
 const breviary = form.familyName
-const title = hour
-  ? `${names[hour]} — ${breviary} (${form.label}), ${longDate(date, locale)}`
-  : `${pt ? 'Ofício Divino' : 'Divine Office'} — ${breviary} (${form.label}), ${longDate(date, locale)}`
+// The hour and the day first, as they are searched for ("vésperas de hoje"); the breviary last.
+const officeName = pt ? 'Ofício Divino' : 'Divine Office'
+const named = hour ? names[hour] : officeName
+const title = (() => {
+  if (isToday) return pt ? `${named} de hoje — ${breviary} (${form.label})` : `${named} for today — ${breviary} (${form.label})`
+  const when = plainDate(date, locale)
+  return pt ? `${named} de ${when} — ${breviary} (${form.label})` : `${named} for ${when} — ${breviary} (${form.label})`
+})()
 const subject = votive ? form.label : day.name
 const description = pt
   ? `${hour ? `${names[hour]} do ` : ''}${breviary} (${form.label}) para ${longDate(date, locale)}: ${subject}. Latim e português lado a lado.`

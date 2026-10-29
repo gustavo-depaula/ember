@@ -1,46 +1,160 @@
 ---
+import { formatTimeOfDay } from '@/features/mass-times/format'
+import { weeklySchedule } from '@/lib/mass-times/weekly'
 import Base from '~/layouts/Base.astro'
 import type { Locale } from '~/lib/locale'
-import { places } from '~/lib/massTimes/data'
+import {
+  cityPageMin,
+  countryName,
+  type DirectoryChurch,
+  directory,
+} from '~/lib/massTimes/data'
 import { href } from '~/routes'
 
 interface Props {
   locale: Locale
   alternates: Partial<Record<Locale, string>>
   country: string
-  place: string
+  region?: string
+  city?: string
 }
 
-const { locale, alternates, country, place: placeSlug } = Astro.props
+const { locale, alternates, country: code, region: regionSlug, city: citySlug } = Astro.props
 const pt = locale === 'pt-BR'
-const place = (await places()).find((p) => p.country === country && p.slug === placeSlug)
-if (!place) throw new Error(`No place ${country}/${placeSlug}`)
-const churches = [...place.churches].sort((a, b) => (a.longName ?? a.name).localeCompare(b.longName ?? b.name, locale))
-const title = pt ? `Horários de Missa em ${place.region}` : `Mass times in ${place.region}`
+const country = (await directory()).find((c) => c.code === code)
+if (!country) throw new Error(`No country ${code}`)
+const region = regionSlug ? country.regions.find((r) => r.slug === regionSlug) : undefined
+if (regionSlug && !region) throw new Error(`No region ${code}/${regionSlug}`)
+const city = citySlug ? region?.cities.find((c) => c.slug === citySlug) : undefined
+if (citySlug && !city) throw new Error(`No city ${code}/${regionSlug}/${citySlug}`)
+
+const countryLabel = countryName(code, locale)
+const section = pt ? 'Horários de Missa' : 'Mass times'
+const placeName = city ? `${city.name}, ${region?.name}` : (region?.name ?? countryLabel)
+const churches = city?.churches ?? region?.churches ?? country.churches
+const count = churches.length
+const counted = new Intl.NumberFormat(locale).format(count)
+// Portuguese gives most states and countries an article: "no Brasil", "na Bahia", "em Goiás".
+const contracted: Record<string, string> = {
+  'no ': 'acre amapa amazonas ceara distrito-federal espirito-santo maranhao mato-grosso mato-grosso-do-sul para parana piaui rio-de-janeiro rio-grande-do-norte rio-grande-do-sul tocantins br',
+  'na ': 'bahia paraiba',
+}
+const preposition = (key: string) =>
+  Object.entries(contracted).find(([, keys]) => keys.split(' ').includes(key))?.[0] ?? 'em '
+const into = (() => {
+  if (!pt) return 'in '
+  if (city) return city.slug.startsWith('rio-') ? 'no ' : 'em '
+  return preposition(region?.slug ?? code)
+})()
+const from: Record<string, string> = { 'em ': 'de ', 'no ': 'do ', 'na ': 'da ' }
+const title = pt
+  ? `Horários de Missa ${into}${placeName} — ${counted} igrejas`
+  : `Mass times in ${placeName} — ${counted} churches`
 const description = pt
-  ? `${churches.length} igrejas católicas em ${place.region} com horários de Missa, confissão e adoração.`
-  : `${churches.length} Catholic churches in ${place.region} with Mass, confession and adoration times.`
+  ? `Horários de Missa, confissão e adoração em ${counted} igrejas católicas ${from[into]}${placeName}, com os horários de domingo de cada uma.`
+  : `Mass, confession and adoration times at ${counted} Catholic churches in ${placeName}, with each one's Sunday Masses.`
+
+const trail = [
+  { name: section, path: href.section(locale, 'massTimes') },
+  { name: countryLabel, path: href.massTimesPlace(locale, code) },
+  ...(region ? [{ name: region.name, path: href.massTimesPlace(locale, code, region.slug) }] : []),
+  ...(region && city ? [{ name: city.name, path: href.massTimesPlace(locale, code, region.slug, city.slug) }] : []),
+]
+
+const byName = (a: DirectoryChurch, b: DirectoryChurch) =>
+  (a.longName ?? a.name).localeCompare(b.longName ?? b.name, locale)
+// Sunday's Masses, the first thing a reader choosing a church compares.
+const sunday = (church: DirectoryChurch) =>
+  weeklySchedule(church.services, 'mass')
+    .days.find((day) => day.dow === 0)
+    ?.times.map(formatTimeOfDay)
+    .join(' · ')
+
+// In a state, a city with a page is one row; the churches of the smaller towns are listed below.
+const cityRows = region?.cities.filter((c) => c.churches.length >= cityPageMin) ?? []
+const loose = region && !city
+  ? region.churches
+      .filter((church) => !cityRows.some((c) => c.churches.includes(church)))
+      .sort(byName)
+  : []
+const listed = city ? [...city.churches].sort(byName) : loose
 ---
 
-<Base locale={locale} title={title} description={description} alternates={alternates} section="massTimes">
+<Base locale={locale} title={title} description={description} alternates={alternates} section="massTimes" breadcrumbs={trail}>
   <div class="column">
     <header class="page-head">
-      <p class="t-kicker"><a href={href.section(locale, 'massTimes')}>{pt ? 'Horários de Missa' : 'Mass times'}</a></p>
-      <h1 class="t-screen" style="font-size:clamp(32px,5vw,44px)">{place.region}</h1>
+      <nav class="t-kicker crumbs" aria-label={pt ? 'Caminho' : 'Breadcrumb'}>
+        {trail.slice(0, -1).map((crumb) => <><a href={crumb.path}>{crumb.name}</a><span aria-hidden="true"> › </span></>)}
+      </nav>
+      <h1 class="t-screen" style="font-size:clamp(32px,5vw,44px)">{city?.name ?? region?.name ?? countryLabel}</h1>
       <p class="lede">{description}</p>
     </header>
-    <ul class="rows">
-      {churches.map((church) => (
-        <li>
-          <a class="row" href={href.church(locale, church.id)}>
-            <span class="grow">
-              <span class="row-title">{church.longName ?? church.name}</span>
-              {church.city && <span class="t-annotation" style="display:block">{church.city}</span>}
-            </span>
-            <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
-          </a>
-        </li>
-      ))}
-    </ul>
+
+    {!region && (
+      <ul class="rows">
+        {country.regions.map((r) => (
+          <li>
+            <a class="row" href={href.massTimesPlace(locale, code, r.slug)}>
+              <span class="grow row-title">{r.name}</span>
+              <span class="t-annotation">{r.churches.length}</span>
+              <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )}
+
+    {region && !city && cityRows.length > 0 && (
+      <section>
+        <h2 class="t-label list-head">{pt ? 'Cidades' : 'Cities'}</h2>
+        <ul class="rows">
+          {cityRows.map((c) => (
+            <li>
+              <a class="row" href={href.massTimesPlace(locale, code, region.slug, c.slug)}>
+                <span class="grow row-title">{c.name}</span>
+                <span class="t-annotation">{c.churches.length}</span>
+                <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {listed.length > 0 && (
+      <section>
+        {region && !city && cityRows.length > 0 && <h2 class="t-label list-head">{pt ? 'Outras cidades' : 'Other towns'}</h2>}
+        <ul class="rows">
+          {listed.map((church) => {
+            const times = sunday(church)
+            return (
+              <li>
+                <a class="row" href={href.church(locale, church.id)}>
+                  <span class="grow">
+                    <span class="row-title">{church.longName ?? church.name}</span>
+                    <span class="t-annotation" style="display:block">
+                      {[city ? church.address : church.located.city, times && `${pt ? 'Domingo' : 'Sunday'}: ${times}`]
+                        .filter(Boolean)
+                        .join(' — ')}
+                    </span>
+                  </span>
+                  <svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6" /></svg>
+                </a>
+              </li>
+            )
+          })}
+        </ul>
+      </section>
+    )}
   </div>
 </Base>
+
+<style>
+  .crumbs a {
+    color: inherit;
+  }
+  .list-head {
+    margin-top: var(--space-lg);
+    margin-bottom: var(--space-sm);
+  }
+</style>

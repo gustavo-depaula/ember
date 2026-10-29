@@ -31,6 +31,13 @@ export function longDate(date: Date, locale: Locale): string {
   }).format(date)
 }
 
+/** "29 de outubro de 2026", "October 29, 2026": a date as it is searched for, without its weekday. */
+export function plainDate(date: Date, locale: Locale): string {
+  return new Intl.DateTimeFormat(locale, { day: 'numeric', month: 'long', year: 'numeric' }).format(
+    date,
+  )
+}
+
 export function monthName(year: number, month: number, locale: Locale): string {
   const name = new Intl.DateTimeFormat(locale, { month: 'long', year: 'numeric' }).format(
     new Date(year, month - 1, 1),

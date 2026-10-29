@@ -4,7 +4,7 @@ import DayNav from '~/components/DayNav.astro'
 import SaintCard from '~/components/SaintCard.astro'
 import Base from '~/layouts/Base.astro'
 import { bibleRefFor } from '~/lib/citations'
-import { calendarYears, inLiturgyWindow, longDate, monthName } from '~/lib/dates'
+import { calendarYears, inLiturgyWindow, longDate, monthName, plainDate } from '~/lib/dates'
 import { loadEfDay, loadOfDay } from '~/lib/liturgy'
 import { type Locale, translator } from '~/lib/locale'
 import { saintsCatalog, saintsOn } from '~/lib/saints'
@@ -26,14 +26,40 @@ const hasDay = (d: Date) => years.includes(d.getFullYear())
 const when = longDate(date, locale)
 const principal = of.celebrations[0]
 const windowed = inLiturgyWindow(date)
-const title = `${when}: ${principal?.title ?? of.dayName}`
+// "Santo do dia" is how most people look a day up: a day kept for a saint is titled by the saint,
+// one of the calendar's own (a Sunday, a solemnity) by its celebration.
+// Only a weekday or a memorial is the saint's: a Sunday, a feast or a solemnity (the
+// Transfiguration, All Souls) is the calendar's own, whatever holy card shares its date.
+const memorial = ['memorial', 'optional_memorial']
+const saint = ['weekday', ...memorial].includes(principal?.rankKey ?? '')
+  ? (of.celebrations.find((c) => memorial.includes(c.rankKey))?.title ?? cards[0]?.name)
+  : undefined
+const title = (() => {
+  const day = plainDate(date, locale)
+  if (saint) return pt ? `Santo do dia ${day}: ${saint}` : `Saint of the day, ${day}: ${saint}`
+  return pt
+    ? `${day}: ${principal?.title ?? of.dayName} — calendário litúrgico`
+    : `${day}: ${principal?.title ?? of.dayName} — liturgical calendar`
+})()
 const description = pt
   ? `${when} no calendário litúrgico: ${of.celebrations.map((c) => c.title).join('; ')}. No calendário de 1962: ${ef.name}.`
   : `${when} in the liturgical calendar: ${of.celebrations.map((c) => c.title).join('; ')}. In the 1962 calendar: ${ef.name}.`
 const details = of.obligations.details.map((d) => (d as Record<string, string | undefined>)[locale] ?? d['en-US']).filter(Boolean)
 ---
 
-<Base locale={locale} title={title} description={description} alternates={alternates} section="calendar" ogType="article">
+<Base
+  locale={locale}
+  title={title}
+  description={description}
+  alternates={alternates}
+  section="calendar"
+  ogType="article"
+  breadcrumbs={[
+    { name: pt ? 'Calendário' : 'Calendar', path: href.section(locale, 'calendar') },
+    { name: monthName(date.getFullYear(), date.getMonth() + 1, locale), path: href.calendarMonth(locale, date.getFullYear(), date.getMonth() + 1) },
+    { name: plainDate(date, locale), path: alternates[locale] ?? Astro.url.pathname },
+  ]}
+>
   <article class="column">
     <header class="title-page">
       <div class="cross-rule" aria-hidden="true">✠</div>

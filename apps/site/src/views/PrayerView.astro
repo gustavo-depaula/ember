@@ -21,13 +21,21 @@ interface Props {
 
 const { locale, alternates, canonical, id, day } = Astro.props
 const s = siteStrings(locale)
+const pt = locale === 'pt-BR'
 const t = translator(locale)
 const page = await loadPrayerPage(id, locale, day === undefined ? undefined : day - 1)
 if (!page) throw new Error(`No practice ${id}`)
 
 const dayEntry = day ? page.days[(day - 1) % Math.max(1, page.days.length)] : undefined
 const dayLabel = day ? s('day', { n: day }) : undefined
-const title = dayLabel ? `${page.name} — ${dayLabel}` : page.name
+// A prayer is searched for by its name and what one wants of it: the words, how to pray it, a
+// novena's days. The suffix says which of these the page gives.
+const title = (() => {
+  if (dayLabel) return `${page.name} — ${dayLabel}`
+  if (page.dayCount > 1) return pt ? `${page.name} — os ${page.dayCount} dias` : `${page.name} — all ${page.dayCount} days`
+  if (page.howToPray) return pt ? `${page.name}: como rezar, passo a passo` : `${page.name}: how to pray it, step by step`
+  return pt ? `${page.name} — oração completa` : `${page.name} — full text`
+})()
 const description = plainExcerpt(
   dayEntry?.excerpt ?? page.description ?? page.subtitle ?? page.history ?? page.name,
 )
@@ -46,6 +54,11 @@ const about = [
   canonical={canonical}
   noindex={!!canonical}
   section="prayers"
+  breadcrumbs={[
+    { name: s('navPrayers'), path: href.section(locale, 'prayers') },
+    { name: page.name, path: href.prayer(locale, id) },
+    ...(dayLabel ? [{ name: dayLabel, path: alternates[locale] ?? Astro.url.pathname }] : []),
+  ]}
   ogType="article"
   image={href.shareCard(locale, id)}
   jsonLd={{

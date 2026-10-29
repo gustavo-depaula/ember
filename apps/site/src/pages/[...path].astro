@@ -73,7 +73,7 @@ const { page, locale, alternates, canonical } = entry
 {page.view === 'massTimesChanges' && <MassTimesChangesView locale={locale} alternates={alternates} />}
 {page.view === 'churchShell' && <MassTimesView locale={locale} alternates={alternates} church />}
 {page.view === 'church' && <ChurchView locale={locale} alternates={alternates} id={page.id} />}
-{page.view === 'place' && <PlaceView locale={locale} alternates={alternates} country={page.country} place={page.place} />}
+{page.view === 'place' && <PlaceView locale={locale} alternates={alternates} country={page.country} region={page.region} city={page.city} />}
 {page.view === 'search' && <SearchView locale={locale} alternates={alternates} />}
 {page.view === 'connect' && <ConnectView locale={locale} alternates={alternates} />}
 {page.view === 'plans' && <PlansView locale={locale} alternates={alternates} />}

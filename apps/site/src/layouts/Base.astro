@@ -21,6 +21,8 @@ interface Props {
   image?: string
   ogType?: 'website' | 'article' | 'book'
   jsonLd?: unknown
+  /** The trail from the site down to this page, for search results; the page itself last. */
+  breadcrumbs?: { name: string; path: string }[]
   noindex?: boolean
   /** Liturgy read as in a missal: Latin beside the text from the start on a wide screen. */
   latinWide?: boolean
@@ -36,6 +38,7 @@ const {
   image,
   ogType = 'website',
   jsonLd,
+  breadcrumbs,
   noindex,
   latinWide,
 } = Astro.props
@@ -46,7 +49,9 @@ const abs = (path: string) => new URL(path, site).href
 const self = alternates[locale] ?? Astro.url.pathname
 const other = locales.find((l) => l !== locale) as Locale
 const otherHref = alternates[other] ?? href.home(other)
-const fullTitle = section === 'home' ? `${s('siteName')} — ${s('tagline')}` : `${title} · ${s('siteName')}`
+// Results cut a title near 60 characters: a long one keeps its date and subject over the site's name.
+const fullTitle =
+  section === 'home' || title.length > 52 ? title : `${title} · ${s('siteName')}`
 const metaDescription = description ?? s('description')
 
 const icon = await getImage({ src: appIcon, width: 96, format: 'webp' })
@@ -123,7 +128,7 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
     )}
     <meta property="og:site_name" content={s('siteName')} />
     <meta property="og:type" content={ogType} />
-    <meta property="og:title" content={section === 'home' ? fullTitle : title} />
+    <meta property="og:title" content={title} />
     <meta property="og:description" content={metaDescription} />
     <meta property="og:url" content={abs(self)} />
     <meta property="og:image" content={abs(ogImage)} />
@@ -147,6 +152,22 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
         />
       )
     }
+    {breadcrumbs && breadcrumbs.length > 1 && (
+      <script
+        is:inline
+        type="application/ld+json"
+        set:html={JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: breadcrumbs.map((crumb, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            name: crumb.name,
+            item: abs(crumb.path),
+          })),
+        })}
+      />
+    )}
   </head>
   <body>
     <div class="shell">
