@@ -166,9 +166,6 @@ export function churchIndexPage(
   db: Db,
   page: { after?: string; scheduled?: boolean; limit: number },
 ): Promise<ChurchIndexRow[]> {
-  const conds: SQL[] = []
-  if (page.after) conds.push(gt(church.id, page.after))
-  if (page.scheduled) conds.push(eq(church.hasStructuredSchedule, true))
   return db
     .select({
       id: church.id,
@@ -181,9 +178,24 @@ export function churchIndexPage(
       updatedAt: church.updatedAt,
     })
     .from(church)
-    .where(conds.length ? and(...conds) : undefined)
+    .where(indexWhere(page))
     .orderBy(asc(church.id))
     .limit(page.limit)
+}
+
+/** The same walk with whole rows, for a build that renders every church it lists. */
+export function churchIndexFullPage(
+  db: Db,
+  page: { after?: string; scheduled?: boolean; limit: number },
+): Promise<Church[]> {
+  return db.select().from(church).where(indexWhere(page)).orderBy(asc(church.id)).limit(page.limit)
+}
+
+function indexWhere(page: { after?: string; scheduled?: boolean }) {
+  const conds: SQL[] = []
+  if (page.after) conds.push(gt(church.id, page.after))
+  if (page.scheduled) conds.push(eq(church.hasStructuredSchedule, true))
+  return conds.length ? and(...conds) : undefined
 }
 
 export async function churchById(db: Db, id: string): Promise<Church | undefined> {
@@ -204,6 +216,47 @@ export async function churchKin(
     db.select(kin).from(church).where(eq(church.parishId, c.id)).orderBy(asc(church.name)),
   ])
   return { parish: parishes[0], chapels }
+}
+
+// D1 binds at most 100 parameters to a statement.
+const boundLimit = 90
+
+/** `churchKin` for many churches, a statement per hundred ids rather than two per church. */
+export async function kinOfMany(
+  db: Db,
+  churches: Pick<Church, 'id' | 'parishId'>[],
+): Promise<Map<string, { parish?: ChurchKin; chapels: ChurchKin[] }>> {
+  const kin = { id: church.id, name: church.name, parishId: church.parishId }
+  const chunks = <T>(items: T[]) =>
+    Array.from({ length: Math.ceil(items.length / boundLimit) }, (_, i) =>
+      items.slice(i * boundLimit, (i + 1) * boundLimit),
+    )
+  const parishIds = [...new Set(churches.flatMap((c) => (c.parishId ? [c.parishId] : [])))]
+  const [parishes, chapels] = await Promise.all([
+    Promise.all(
+      chunks(parishIds).map((ids) => db.select(kin).from(church).where(inArray(church.id, ids))),
+    ),
+    Promise.all(
+      chunks(churches.map((c) => c.id)).map((ids) =>
+        db.select(kin).from(church).where(inArray(church.parishId, ids)).orderBy(asc(church.name)),
+      ),
+    ),
+  ])
+  const parishById = new Map(parishes.flat().map((p) => [p.id, { id: p.id, name: p.name }]))
+  const chapelsOf = new Map<string, ChurchKin[]>()
+  for (const chapel of chapels.flat()) {
+    const of = chapel.parishId as string
+    chapelsOf.set(of, [...(chapelsOf.get(of) ?? []), { id: chapel.id, name: chapel.name }])
+  }
+  return new Map(
+    churches.map((c) => [
+      c.id,
+      {
+        parish: c.parishId ? parishById.get(c.parishId) : undefined,
+        chapels: chapelsOf.get(c.id) ?? [],
+      },
+    ]),
+  )
 }
 
 export function verificationsForChurch(

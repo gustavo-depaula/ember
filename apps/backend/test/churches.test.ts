@@ -325,6 +325,17 @@ describe('GET /churches/index', () => {
     expect(second.next).toBeUndefined()
   })
 
+  it('gives each church whole with full=1, as its own route does', async () => {
+    await env.DB.prepare("UPDATE church SET parish_id = 'st-mary-a' WHERE id = 'st-joseph-b'").run()
+    const full = (await (await app.request('/churches/index?full=1', {}, env)).json()) as {
+      churches: { id: string }[]
+    }
+    for (const id of ['st-mary-a', 'st-joseph-b']) {
+      const own = await (await app.request(`/churches/${id}`, {}, env)).json()
+      expect(full.churches.find((c) => c.id === id)).toEqual(own)
+    }
+  })
+
   it('is not swallowed by the church-by-id route', async () => {
     const res = await app.request('/churches/index', {}, env)
     expect(res.status).toBe(200)

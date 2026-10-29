@@ -21,7 +21,9 @@ import {
   churchesInTile,
   churchesInViewport,
   churchIdsMatchingText,
+  churchIndexFullPage,
   churchKin,
+  kinOfMany,
   storedCellCounts,
   type TileChurch,
   type ViewportFilter,
@@ -74,6 +76,22 @@ export async function churchDetail(db: Db, id: string): Promise<ChurchDetail | u
     links: c.links ?? [],
     ...(await churchKin(db, c)),
   }
+}
+
+/** A page of the directory with each church whole, as `churchDetail` gives one. */
+export async function churchIndexDetails(
+  db: Db,
+  page: { after?: string; scheduled?: boolean; limit: number },
+): Promise<ChurchDetail[]> {
+  const churches = await churchIndexFullPage(db, page)
+  const kin = await kinOfMany(db, churches)
+  return churches.map((c) => ({
+    ...c,
+    services: c.services ?? [],
+    texts: c.texts ?? [],
+    links: c.links ?? [],
+    ...(kin.get(c.id) ?? { chapels: [] }),
+  }))
 }
 
 // A one-church cluster names its church, so the map can show it as that church's pin.

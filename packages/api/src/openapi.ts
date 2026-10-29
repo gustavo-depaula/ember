@@ -263,8 +263,8 @@ export function openApiDocument(serverUrl: string, lang: 'en' | 'pt' = 'en') {
             'O diretório inteiro, uma página por vez',
           ),
           description: l(
-            'Every church in id order, with the few fields a sitemap needs. Pass the `next` of one page as the `after` of the next; a page without `next` is the last.',
-            'Todas as igrejas na ordem do id, com os poucos campos de que um sitemap precisa. Passe o `next` de uma página como o `after` da seguinte; uma página sem `next` é a última.',
+            'Every church in id order, with the few fields a sitemap needs, or with `full=1` each church whole, as `/churches/{id}` gives it. Pass the `next` of one page as the `after` of the next; a page without `next` is the last.',
+            'Todas as igrejas na ordem do id, com os poucos campos de que um sitemap precisa, ou com `full=1` cada igreja inteira, como `/churches/{id}` a dá. Passe o `next` de uma página como o `after` da seguinte; uma página sem `next` é a última.',
           ),
           parameters: parameters('query', churchIndexQuerySchema),
           responses: {

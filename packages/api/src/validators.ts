@@ -70,6 +70,12 @@ export const churchIndexQuerySchema = z.object({
   after: z.string().max(256).optional().describe('The last id of the previous page'),
   scheduled: z.enum(['1']).optional().describe('Only churches with service times on record'),
   limit: z.coerce.number().int().min(1).max(1000).default(500),
+  full: z
+    .enum(['1'])
+    .optional()
+    .describe(
+      'Each church whole, as /churches/{id} gives it: schedule, texts, links, parish and chapels',
+    ),
 })
 
 // The changes the moderators applied, newest first, a page at a time. Ids begin with the moment

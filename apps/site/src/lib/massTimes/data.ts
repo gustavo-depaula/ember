@@ -24,22 +24,28 @@ export type IndexedChurch = {
 
 const wanted = (process.env.EMBER_SITE_CHURCHES ?? '').trim()
 
-async function walkIndex(): Promise<IndexedChurch[]> {
+// The directory a page of whole churches at a time (`full=1`): a few dozen requests for what was
+// one per church. A backend from before `full` answers with the bare index; its churches are then
+// fetched one by one, so a site build never depends on which of the two deployed first.
+async function walkIndex(): Promise<ChurchDetail[]> {
   if (!wanted) return []
   const countries =
     wanted === 'all' ? undefined : new Set(wanted.split(',').map((c) => c.trim().toUpperCase()))
-  const out: IndexedChurch[] = []
+  const out: ChurchDetail[] = []
   let after: string | undefined
   do {
     const res = await fetch(
-      `${massTimesApi}/churches/index?scheduled=1&limit=1000${after ? `&after=${encodeURIComponent(after)}` : ''}`,
+      `${massTimesApi}/churches/index?scheduled=1&full=1&limit=500${after ? `&after=${encodeURIComponent(after)}` : ''}`,
     )
     if (!res.ok) throw new Error(`Mass times index: HTTP ${res.status} from ${massTimesApi}`)
-    const page = (await res.json()) as { churches: IndexedChurch[]; next?: string }
+    const page = (await res.json()) as { churches: (IndexedChurch | ChurchDetail)[]; next?: string }
+    const kept = page.churches.filter(
+      (c) => !countries || countries.has((c.countryCode ?? '').toUpperCase()),
+    )
     out.push(
-      ...page.churches.filter(
-        (c) => !countries || countries.has((c.countryCode ?? '').toUpperCase()),
-      ),
+      ...(kept.every((c) => 'services' in c)
+        ? (kept as ChurchDetail[])
+        : await fetchAll(kept.map((c) => c.id))),
     )
     after = page.next
   } while (after)
@@ -52,8 +58,6 @@ export async function fetchChurch(id: string): Promise<ChurchDetail> {
   return res.json() as Promise<ChurchDetail>
 }
 
-// Thousands of churches, one request each: a build that asked for them one page at a time would
-// spend most of its hour waiting, and one that asked all at once would be throttled.
 async function fetchAll(ids: string[], concurrency = 16): Promise<ChurchDetail[]> {
   const out: ChurchDetail[] = new Array(ids.length)
   let next = 0
@@ -119,8 +123,7 @@ function commonest(names: string[]): string {
 }
 
 async function build(): Promise<Country[]> {
-  const indexed = await walkIndex()
-  const details = await fetchAll(indexed.map((church) => church.id))
+  const details = await walkIndex()
   const placed = locateAll(details)
   const churches: DirectoryChurch[] = details
     .filter((church) => church.countryCode)

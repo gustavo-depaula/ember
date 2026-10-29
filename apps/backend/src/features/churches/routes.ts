@@ -11,7 +11,14 @@ import { Hono } from 'hono'
 import type { Env } from '../../app'
 import { createDb } from '../../db'
 import { churchIndexPage, verificationsForChurch } from './queries'
-import { churchDetail, nearbyChurches, searchChurches, tile, viewport } from './service'
+import {
+  churchDetail,
+  churchIndexDetails,
+  nearbyChurches,
+  searchChurches,
+  tile,
+  viewport,
+} from './service'
 
 // Public read routes (cacheable; pure geo — no server-side time computation). `GET /` answers a
 // name search (`q`) with `{ churches }`, or a map viewport (`bbox`) with `{ churches, clusters }`. '/near' is registered
@@ -25,8 +32,9 @@ export const churchesRouter = new Hono<{ Bindings: Env }>()
   })
   .get('/index', zValidator('query', churchIndexQuerySchema), async (c) => {
     const db = createDb(c.env.DB)
-    const { after, scheduled, limit } = c.req.valid('query')
-    const churches = await churchIndexPage(db, { after, scheduled: scheduled === '1', limit })
+    const { after, scheduled, limit, full } = c.req.valid('query')
+    const page = { after, scheduled: scheduled === '1', limit }
+    const churches = full ? await churchIndexDetails(db, page) : await churchIndexPage(db, page)
     // A full page may have more behind it; a short one is the end.
     const next = churches.length === limit ? churches[churches.length - 1].id : undefined
     return c.json({ churches, next })
