@@ -5,7 +5,7 @@ import SaintCard from '~/components/SaintCard.astro'
 import Base from '~/layouts/Base.astro'
 import { bibleRefFor } from '~/lib/citations'
 import { calendarYears, inLiturgyWindow, longDate, monthName, plainDate } from '~/lib/dates'
-import { loadEfDay, loadOfDay } from '~/lib/liturgy'
+import { hasDailyOffice, loadEfDay, loadOfDay } from '~/lib/liturgy'
 import { type Locale, translator } from '~/lib/locale'
 import { saintsCatalog, saintsOn } from '~/lib/saints'
 import { href } from '~/routes'
@@ -103,7 +103,7 @@ const details = of.obligations.details.map((d) => (d as Record<string, string | 
         {windowed && (
           <div class="stack-sm">
             <a class="go" href={href.latinMass(locale, date)}>{pt ? 'Missa tridentina' : 'Traditional Latin Mass'} →</a>
-            <a class="go" href={href.office(locale, date)}>{pt ? 'Ofício Divino' : 'Divine Office'} →</a>
+            {hasDailyOffice(date) && <a class="go" href={href.office(locale, date)}>{pt ? 'Ofício Divino' : 'Divine Office'} →</a>}
           </div>
         )}
       </section>

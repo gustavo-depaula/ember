@@ -41,7 +41,6 @@ import type { SourceFetchContext } from '@/sources/types'
 import { isoDate, type OfficeHour, slugOf } from '~/routes'
 import { ofTexts } from './config'
 import { bootCorpus } from './corpus'
-import { inLiturgyWindow, liturgyDates } from './dates'
 import { jurisdiction, type Locale, translator, withLocale } from './locale'
 import { renderPractice } from './practice'
 import { addDays, today } from './today'
@@ -286,29 +285,39 @@ export async function officeForms(locale: Locale): Promise<OfficeForm[]> {
   )
 }
 
-// Every form is built for every hour of every day it covers, so only the
-// breviary most people pray gets the long window. The others cover the days
-// around the build, which the daily rebuild moves along; a reader a timezone
-// away still finds their own yesterday or tomorrow.
-function officeWindow(form: OfficeForm): { past: number; future: number } | undefined {
-  if (!form.slug) return undefined
+// Every form is built for every hour of every day it covers, and an hour is the
+// costliest page of the build (the whole Divinum Officium engine runs for it),
+// so the Office covers the days around the build, which the daily rebuild
+// moves along: the week ahead and a few days back for the breviary most people
+// pray, a day either side of today for the others. A reader a timezone away
+// still finds their own yesterday or tomorrow.
+const dailyWindow = { past: 3, future: 7 }
+
+function officeWindow(form: OfficeForm): { past: number; future: number } {
+  if (!form.slug) return dailyWindow
   return form.votive === 'Hodie' ? { past: 1, future: 3 } : { past: 1, future: 1 }
 }
 
 export function officeDates(form: OfficeForm): Date[] {
   const window = officeWindow(form)
-  if (!window) return liturgyDates()
   const out: Date[] = []
   for (let offset = -window.past; offset <= window.future; offset++)
     out.push(addDays(today, offset))
   return out
 }
 
-export function hasOfficePage(form: OfficeForm, date: Date): boolean {
-  const window = officeWindow(form)
-  if (!window) return inLiturgyWindow(date)
+function inWindow(window: { past: number; future: number }, date: Date): boolean {
   const days = Math.round((date.getTime() - today.getTime()) / 86_400_000)
   return days >= -window.past && days <= window.future
+}
+
+export function hasOfficePage(form: OfficeForm, date: Date): boolean {
+  return inWindow(officeWindow(form), date)
+}
+
+/** Whether the default breviary has a page for this day, for the pages that link a day to its Office. */
+export function hasDailyOffice(date: Date): boolean {
+  return inWindow(dailyWindow, date)
 }
 
 export type OfficeDayView = {

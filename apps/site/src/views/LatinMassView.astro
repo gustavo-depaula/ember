@@ -7,7 +7,7 @@ import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import Base from '~/layouts/Base.astro'
 import { longDate, plainDate } from '~/lib/dates'
-import { loadEfDay, loadEfMass } from '~/lib/liturgy'
+import { hasDailyOffice, loadEfDay, loadEfMass } from '~/lib/liturgy'
 import { type Locale, translator } from '~/lib/locale'
 import { href } from '~/routes'
 
@@ -43,7 +43,7 @@ const description = pt
         <p class="rail-title">{pt ? 'Este dia' : 'This day'}</p>
         <div class="rail-list">
           <a href={href.mass(locale, date)}>{pt ? 'Missa, forma ordinária' : 'Mass, Ordinary Form'}</a>
-          <a href={href.office(locale, date)}>{pt ? 'Ofício Divino' : 'Divine Office'}</a>
+          {hasDailyOffice(date) && <a href={href.office(locale, date)}>{pt ? 'Ofício Divino' : 'Divine Office'}</a>}
           <a href={href.calendarDay(locale, date)}>{pt ? 'Calendário' : 'Calendar'}</a>
         </div>
       </nav>
@@ -69,7 +69,7 @@ const description = pt
 
     <nav class="stack-sm also narrow-only">
       <a class="go" href={href.mass(locale, date)}>{pt ? 'Missa do dia na forma ordinária' : 'The Mass of this day in the Ordinary Form'} →</a>
-      <a class="go" href={href.office(locale, date)}>{pt ? 'Ofício Divino deste dia' : 'The Divine Office of this day'} →</a>
+      {hasDailyOffice(date) && <a class="go" href={href.office(locale, date)}>{pt ? 'Ofício Divino deste dia' : 'The Divine Office of this day'} →</a>}
     </nav>
     <p class="t-annotation credit">
       {pt ? 'Textos do projeto Divinum Officium.' : 'Texts from the Divinum Officium project.'}

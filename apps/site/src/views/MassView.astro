@@ -9,7 +9,7 @@ import ReaderTools from '~/components/ReaderTools.astro'
 import Base from '~/layouts/Base.astro'
 import { bibleRefFor } from '~/lib/citations'
 import { longDate, plainDate } from '~/lib/dates'
-import { loadOfDay, loadOfMass } from '~/lib/liturgy'
+import { hasDailyOffice, loadOfDay, loadOfMass } from '~/lib/liturgy'
 import { type Locale, translator } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
 import { href } from '~/routes'
@@ -59,7 +59,7 @@ const description = pt
         <p class="rail-title">{pt ? 'Este dia' : 'This day'}</p>
         <div class="rail-list">
           <a href={href.latinMass(locale, date)}>{pt ? 'Missa tridentina' : 'Traditional Latin Mass'}</a>
-          <a href={href.office(locale, date)}>{pt ? 'Ofício Divino' : 'Divine Office'}</a>
+          {hasDailyOffice(date) && <a href={href.office(locale, date)}>{pt ? 'Ofício Divino' : 'Divine Office'}</a>}
           <a href={href.calendarDay(locale, date)}>{pt ? 'Calendário' : 'Calendar'}</a>
         </div>
       </nav>
@@ -128,7 +128,7 @@ const description = pt
 
     <nav class="also stack-sm narrow-only">
       <a class="go" href={href.latinMass(locale, date)}>{pt ? 'Missa tridentina deste dia' : 'The Traditional Latin Mass of this day'} →</a>
-      <a class="go" href={href.office(locale, date)}>{pt ? 'Ofício Divino deste dia' : 'The Divine Office of this day'} →</a>
+      {hasDailyOffice(date) && <a class="go" href={href.office(locale, date)}>{pt ? 'Ofício Divino deste dia' : 'The Divine Office of this day'} →</a>}
       <a class="go" href={href.calendarDay(locale, date)}>{pt ? 'Este dia no calendário' : 'This day in the calendar'} →</a>
     </nav>
     </article>
