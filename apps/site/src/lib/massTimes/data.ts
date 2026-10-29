@@ -25,9 +25,9 @@ export type IndexedChurch = {
 const wanted = (process.env.EMBER_SITE_CHURCHES ?? '').trim()
 
 // The directory a page of whole churches at a time (`full=1`), only the countries asked for: a few
-// dozen requests for what was
-// one per church. A backend from before `full` answers with the bare index; its churches are then
-// fetched one by one, so a site build never depends on which of the two deployed first.
+// dozen requests for what was one per church. A backend from before `full` answers with the bare
+// index; its churches are then fetched one by one, so a site build never depends on which of the
+// two deployed first.
 async function walkIndex(): Promise<ChurchDetail[]> {
   if (!wanted) return []
   const countries =
