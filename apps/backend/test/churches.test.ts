@@ -336,6 +336,12 @@ describe('GET /churches/index', () => {
     }
   })
 
+  it('keeps to the countries asked for', async () => {
+    await env.DB.prepare("UPDATE church SET country_code = 'BR' WHERE id = 'st-peter-c'").run()
+    expect((await page('?country=br')).churches.map((c) => c.id)).toEqual(['st-peter-c'])
+    expect((await page('?country=BR,ZZ')).churches.map((c) => c.id)).toEqual(['st-peter-c'])
+  })
+
   it('is not swallowed by the church-by-id route', async () => {
     const res = await app.request('/churches/index', {}, env)
     expect(res.status).toBe(200)

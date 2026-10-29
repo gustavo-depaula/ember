@@ -162,10 +162,7 @@ export type ChurchIndexRow = Pick<
 // The catalogue in id order, keyset-paged: each page is one range scan of the primary key, so
 // walking every church costs the table once however deep the walk goes. Rows are the few columns a
 // sitemap or a place listing needs, not the embedded schedule.
-export function churchIndexPage(
-  db: Db,
-  page: { after?: string; scheduled?: boolean; limit: number },
-): Promise<ChurchIndexRow[]> {
+export function churchIndexPage(db: Db, page: IndexPage): Promise<ChurchIndexRow[]> {
   return db
     .select({
       id: church.id,
@@ -184,17 +181,17 @@ export function churchIndexPage(
 }
 
 /** The same walk with whole rows, for a build that renders every church it lists. */
-export function churchIndexFullPage(
-  db: Db,
-  page: { after?: string; scheduled?: boolean; limit: number },
-): Promise<Church[]> {
+export function churchIndexFullPage(db: Db, page: IndexPage): Promise<Church[]> {
   return db.select().from(church).where(indexWhere(page)).orderBy(asc(church.id)).limit(page.limit)
 }
 
-function indexWhere(page: { after?: string; scheduled?: boolean }) {
+export type IndexPage = { after?: string; scheduled?: boolean; countries?: string[]; limit: number }
+
+function indexWhere(page: IndexPage) {
   const conds: SQL[] = []
   if (page.after) conds.push(gt(church.id, page.after))
   if (page.scheduled) conds.push(eq(church.hasStructuredSchedule, true))
+  if (page.countries?.length) conds.push(inArray(church.countryCode, page.countries))
   return conds.length ? and(...conds) : undefined
 }
 

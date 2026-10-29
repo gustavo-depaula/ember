@@ -32,8 +32,9 @@ export const churchesRouter = new Hono<{ Bindings: Env }>()
   })
   .get('/index', zValidator('query', churchIndexQuerySchema), async (c) => {
     const db = createDb(c.env.DB)
-    const { after, scheduled, limit, full } = c.req.valid('query')
-    const page = { after, scheduled: scheduled === '1', limit }
+    const { after, scheduled, country, limit, full } = c.req.valid('query')
+    const countries = country?.toUpperCase().split(',')
+    const page = { after, scheduled: scheduled === '1', countries, limit }
     const churches = full ? await churchIndexDetails(db, page) : await churchIndexPage(db, page)
     // A full page may have more behind it; a short one is the end.
     const next = churches.length === limit ? churches[churches.length - 1].id : undefined

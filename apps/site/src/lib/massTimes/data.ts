@@ -24,7 +24,8 @@ export type IndexedChurch = {
 
 const wanted = (process.env.EMBER_SITE_CHURCHES ?? '').trim()
 
-// The directory a page of whole churches at a time (`full=1`): a few dozen requests for what was
+// The directory a page of whole churches at a time (`full=1`), only the countries asked for: a few
+// dozen requests for what was
 // one per church. A backend from before `full` answers with the bare index; its churches are then
 // fetched one by one, so a site build never depends on which of the two deployed first.
 async function walkIndex(): Promise<ChurchDetail[]> {
@@ -34,9 +35,10 @@ async function walkIndex(): Promise<ChurchDetail[]> {
   const out: ChurchDetail[] = []
   let after: string | undefined
   do {
-    const res = await fetch(
-      `${massTimesApi}/churches/index?scheduled=1&full=1&limit=500${after ? `&after=${encodeURIComponent(after)}` : ''}`,
-    )
+    const query = new URLSearchParams({ scheduled: '1', full: '1', limit: '500' })
+    if (countries) query.set('country', [...countries].join(','))
+    if (after) query.set('after', after)
+    const res = await fetch(`${massTimesApi}/churches/index?${query}`)
     if (!res.ok) throw new Error(`Mass times index: HTTP ${res.status} from ${massTimesApi}`)
     const page = (await res.json()) as { churches: (IndexedChurch | ChurchDetail)[]; next?: string }
     const kept = page.churches.filter(

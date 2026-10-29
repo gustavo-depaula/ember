@@ -69,6 +69,11 @@ export const churchesQuerySchema = z
 export const churchIndexQuerySchema = z.object({
   after: z.string().max(256).optional().describe('The last id of the previous page'),
   scheduled: z.enum(['1']).optional().describe('Only churches with service times on record'),
+  country: z
+    .string()
+    .regex(/^[A-Za-z]{2}(,[A-Za-z]{2})*$/)
+    .optional()
+    .describe('Only churches in these countries: ISO codes, comma-separated (BR,PT)'),
   limit: z.coerce.number().int().min(1).max(1000).default(500),
   full: z
     .enum(['1'])

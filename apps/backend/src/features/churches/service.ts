@@ -23,6 +23,7 @@ import {
   churchIdsMatchingText,
   churchIndexFullPage,
   churchKin,
+  type IndexPage,
   kinOfMany,
   storedCellCounts,
   type TileChurch,
@@ -79,10 +80,7 @@ export async function churchDetail(db: Db, id: string): Promise<ChurchDetail | u
 }
 
 /** A page of the directory with each church whole, as `churchDetail` gives one. */
-export async function churchIndexDetails(
-  db: Db,
-  page: { after?: string; scheduled?: boolean; limit: number },
-): Promise<ChurchDetail[]> {
+export async function churchIndexDetails(db: Db, page: IndexPage): Promise<ChurchDetail[]> {
   const churches = await churchIndexFullPage(db, page)
   const kin = await kinOfMany(db, churches)
   return churches.map((c) => ({
