@@ -1,3 +1,4 @@
+import { chaptersIndexedElsewhere } from '~/lib/books'
 import { listPages, type PageEntry } from '~/site/pages'
 
 /** A sitemap may hold 50,000 URLs; these stay well under, grouped so each file is one kind of page. */
@@ -31,7 +32,9 @@ export async function sitemapFiles(): Promise<SitemapFile[]> {
   const files: SitemapFile[] = Object.entries(groups)
     .map(([name, belongs]) => ({ name, entries: indexable.filter(belongs) }))
     .filter((file) => file.entries.length)
-  const chapters = indexable.filter((e) => e.page.view === 'chapter')
+  const chapters = indexable.filter(
+    (e) => e.page.view === 'chapter' && !chaptersIndexedElsewhere.has(e.page.id),
+  )
   for (let i = 0; i < chapters.length; i += chapterChunk) {
     files.push({
       name: `books-${i / chapterChunk + 1}`,
