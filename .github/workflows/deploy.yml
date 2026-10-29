@@ -135,6 +135,7 @@ jobs:
           EMBER_SITE_OF_TEXTS: ${{ vars.SITE_OF_TEXTS }}
           EMBER_SITE_CHURCHES: ${{ vars.SITE_CHURCHES }}
           EMBER_APP_STORE_ID: ${{ vars.APP_STORE_ID }}
+          EMBER_SITE_ANALYTICS_TOKEN: ${{ vars.SITE_ANALYTICS_TOKEN }}
 
       - uses: actions/upload-pages-artifact@v3
         with:

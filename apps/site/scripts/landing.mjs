@@ -9,6 +9,7 @@ import { mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 const site = process.env.EMBER_SITE_URL ?? 'https://ember.dpgu.me'
+const analyticsToken = process.env.EMBER_SITE_ANALYTICS_TOKEN
 
 /** Where each language's copy is published. */
 export const landingPaths = { en: '/app/', pt: '/pt/app/' }
@@ -66,6 +67,11 @@ function head(lang) {
     '<meta property="og:image:height" content="630">',
     `<meta property="og:locale" content="${h.locale}">`,
     '<meta name="twitter:card" content="summary_large_image">',
+    ...(analyticsToken
+      ? [
+          `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${analyticsToken}"}'></script>`,
+        ]
+      : []),
   ]
     .map((tag) => `  ${tag}`)
     .join('\n')

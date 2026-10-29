@@ -2,7 +2,7 @@
 import { getImage } from 'astro:assets'
 import appIcon from '../../../app/assets/icon.png'
 import Icon from '~/components/Icon.astro'
-import { appStoreId } from '~/lib/config'
+import { analyticsToken, appStoreId } from '~/lib/config'
 import { htmlLang, type Locale, locales } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
 import { themeCss } from '~/lib/theme'
@@ -137,6 +137,16 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
     <style is:inline set:html={themeCss}></style>
     <script is:inline set:html={boot}></script>
     {jsonLd && <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+    {
+      analyticsToken && (
+        <script
+          is:inline
+          defer
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon={JSON.stringify({ token: analyticsToken })}
+        />
+      )
+    }
   </head>
   <body>
     <div class="shell">

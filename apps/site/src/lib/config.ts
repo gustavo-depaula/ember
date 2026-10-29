@@ -11,3 +11,9 @@ export const ofTexts = process.env.EMBER_SITE_OF_TEXTS !== '0'
  * "open in the App Store" bar on every page. Unset until the app is listed.
  */
 export const appStoreId = process.env.EMBER_APP_STORE_ID || undefined
+
+/**
+ * The Cloudflare Web Analytics token for ember.dpgu.me. Set only by the deploy,
+ * so local and preview builds never count visits.
+ */
+export const analyticsToken = process.env.EMBER_SITE_ANALYTICS_TOKEN || undefined
