@@ -300,6 +300,14 @@ function buildHostHtml({
   config: FoliateConfig
   fontFaces: ReaderFontFace[]
 }): string {
+  // First, so a script that fails to parse on an old WebView (the engine needs
+  // Chromium 97+) is reported rather than leaving the reader on its title page.
+  // The bootstrap installs its own handler once it runs.
+  const errorReporter = `window.onerror = (m, _u, l) => {
+  const json = JSON.stringify({ type: 'error', message: String(m) + ' @' + l });
+  if (window.ReactNativeWebView) window.ReactNativeWebView.postMessage(json);
+  else if (window.parent !== window) window.parent.postMessage(json, '*');
+};`
   // Both scripts are .raw.js files bundled into TS modules by bundle.mjs and
   // run inside the WebView, not in this RN JS context.
   const initCall = `window.__foliateInit(${JSON.stringify(config)}, ${JSON.stringify(chapterCount)}, ${JSON.stringify(initialIndex)}, ${JSON.stringify(initialFraction)}, ${JSON.stringify(initialChapter)}, ${JSON.stringify(initialElement ?? null)}, ${JSON.stringify(fontFaces)});`
@@ -311,6 +319,7 @@ function buildHostHtml({
 <style>html, body { margin: 0; padding: 0; height: 100%; background: ${config.background}; }</style>
 </head>
 <body>
+<script>${errorReporter}</script>
 <script>${paginatorScript}</script>
 <script>${bootstrapScript}</script>
 <script>${initCall}</script>

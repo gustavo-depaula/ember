@@ -372,6 +372,12 @@ export function BookReader({ bookId, chapter }: Props) {
   // section is justified, so only `painted` means text is on screen. Until then
   // the title page stays up instead of a blank sheet.
   const [painted, setPainted] = useState(false)
+  // A script error inside the WebView while nothing is painted yet: an outdated
+  // Android System WebView can't parse the engine and would otherwise leave the
+  // title page up forever. The engine stays mounted, since an error can be
+  // transient and a later paint still wins; retrying mounts a fresh WebView.
+  const [engineError, setEngineError] = useState<string>()
+  const [engineMount, setEngineMount] = useState(0)
   // Scrubber dot fractions = anchor.startOffset / chapter plain-text length.
   // Foliate's column-flow doesn't expose offset→page in RN, but the linear
   // approximation is plenty accurate for a 5pt dot on a 200pt scrubber.
@@ -599,6 +605,10 @@ export function BookReader({ bookId, chapter }: Props) {
         }
         case 'ready':
           setFoliateReady(true)
+          return
+        case 'error':
+          // The first error is the cause; what follows is fallout from it.
+          setEngineError((first) => first ?? msg.message)
           return
         case 'crossRefTap': {
           // Cross-book anchor refs ("book/ccc#1-25"): resolve the anchor to a
@@ -968,6 +978,7 @@ export function BookReader({ bookId, chapter }: Props) {
   return (
     <View flex={1} backgroundColor={config.background}>
       <FoliateReader
+        key={engineMount}
         ref={foliateRef}
         chapterCount={leaves.length}
         initialChapter={initialChapter}
@@ -1015,14 +1026,31 @@ export function BookReader({ bookId, chapter }: Props) {
 
       {!painted && (
         <View style={StyleSheet.absoluteFill}>
-          <LoadingPane
-            background={config.background}
-            color={config.color}
-            isDark={config.isDark}
-            title={bookTitle}
-            author={bookEntry.author ? localizeContent(bookEntry.author) : undefined}
-            onClose={() => router.back()}
-          />
+          {engineError ? (
+            <ReaderFrame
+              background={config.background}
+              color={config.color}
+              isDark={config.isDark}
+              onClose={() => router.back()}
+            >
+              <ReaderErrorState
+                detail={engineError}
+                onRetry={() => {
+                  setEngineError(undefined)
+                  setEngineMount((n) => n + 1)
+                }}
+              />
+            </ReaderFrame>
+          ) : (
+            <LoadingPane
+              background={config.background}
+              color={config.color}
+              isDark={config.isDark}
+              title={bookTitle}
+              author={bookEntry.author ? localizeContent(bookEntry.author) : undefined}
+              onClose={() => router.back()}
+            />
+          )}
         </View>
       )}
 
