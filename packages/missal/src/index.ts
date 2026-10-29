@@ -1,6 +1,7 @@
 // The Ordinary Form of the Mass: its calendar and the assembly of a day's
 // Mass from the corpus in `content/missal/`.
 
+export { bookOf, withBook } from './books'
 export {
   type Celebration,
   celebrationsOn,

@@ -1,3 +1,4 @@
+import { withBook } from './books'
 import type { Block, Item, Lang, Line, Localized, Seg, TextKey } from './types'
 
 export const segText = (seg: Seg): string => (typeof seg === 'string' ? seg : seg.t)
@@ -47,14 +48,15 @@ export function forDay(blocks: Block[], active: ReadonlySet<string>): Block[] {
     .filter((block) => block.lines.length > 0 || block.k === 'hr')
 }
 
-/** A reading's own words and its citation, without the furniture around it. */
+/** A reading's own words and its citation, book included, without the furniture around it. */
 export function readingOf(items: Item[], lang: Lang): { text: string; citation?: string } {
   const lines: string[] = []
   let citation: string | undefined
   for (const item of items) {
     if (item.role === 'people' || item.role === 'rubric') continue
     for (const block of blocksIn(item, lang) ?? []) {
-      if (block.role === 'announcement' || block.role === 'title') citation ??= block.cite
+      if ((block.role === 'announcement' || block.role === 'title') && block.cite && !citation)
+        citation = withBook(block.cite, block.lines.map(lineText).join(' '), lang)
       if (block.k !== 'p' || block.role) continue
       lines.push(...block.lines.map(lineText).filter(Boolean))
     }
