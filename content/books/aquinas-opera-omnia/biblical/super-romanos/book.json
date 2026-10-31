@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Romans",
-    "la": "Super Epistolam ad Romanos Lectura"
+    "la": "Super Epistolam ad Romanos Lectura",
+    "pt-BR": "Comentário à Epístola aos Romanos"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's most extensive and mature Pauline commentary, on the Epistle to the Romans. Composed during his second Paris regency. The summit of his Pauline exegesis.",
-    "la": "Expositio Pauline Thomae maxima et matura, in Epistolam ad Romanos. Composita in regentia secunda Parisiensi. Culmen exegeseos Paulinae apud Thomam."
+    "la": "Expositio Pauline Thomae maxima et matura, in Epistolam ad Romanos. Composita in regentia secunda Parisiensi. Culmen exegeseos Paulinae apud Thomam.",
+    "pt-BR": "O mais extenso e maduro comentário paulino de Tomás de Aquino, sobre a Epístola aos Romanos. Composto durante sua segunda regência em Paris. O ponto culminante de sua exegese paulina."
   },
   "composed": "1265–1272",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,119 +39,136 @@
       "id": "rom-c01",
       "title": {
         "en-US": "Pr. - Acts 9:15",
-        "la": "Pr. - Acts 9:15"
+        "la": "Pr. - Acts 9:15",
+        "pt-BR": "Pr. - Atos 9:15"
       }
     },
     {
       "id": "rom-c02",
       "title": {
         "en-US": "C. 1 - Salutation and Introduction",
-        "la": "C. 1 - Salutation and Introduction"
+        "la": "C. 1 - Salutation and Introduction",
+        "pt-BR": "C. 1 - Saudação e introdução"
       }
     },
     {
       "id": "rom-c03",
       "title": {
         "en-US": "C. 2 - Divine Judgment and the Jewish Law",
-        "la": "C. 2 - Divine Judgment and the Jewish Law"
+        "la": "C. 2 - Divine Judgment and the Jewish Law",
+        "pt-BR": "C. 2 - O juízo divino e a Lei judaica"
       }
     },
     {
       "id": "rom-c04",
       "title": {
         "en-US": "C. 3 - Faith and the Purpose of the Law",
-        "la": "C. 3 - Faith and the Purpose of the Law"
+        "la": "C. 3 - Faith and the Purpose of the Law",
+        "pt-BR": "C. 3 - A fé e a finalidade da Lei"
       }
     },
     {
       "id": "rom-c05",
       "title": {
         "en-US": "C. 4 - Abraham’s Justification",
-        "la": "C. 4 - Abraham’s Justification"
+        "la": "C. 4 - Abraham’s Justification",
+        "pt-BR": "C. 4 - A justificação de Abraão"
       }
     },
     {
       "id": "rom-c06",
       "title": {
         "en-US": "C. 5 - Redemption from Death by Christ",
-        "la": "C. 5 - Redemption from Death by Christ"
+        "la": "C. 5 - Redemption from Death by Christ",
+        "pt-BR": "C. 5 - A redenção da morte por Cristo"
       }
     },
     {
       "id": "rom-c07",
       "title": {
         "en-US": "C. 6 - Dying and Rising with Christ",
-        "la": "C. 6 - Dying and Rising with Christ"
+        "la": "C. 6 - Dying and Rising with Christ",
+        "pt-BR": "C. 6 - Morrer e ressuscitar com Cristo"
       }
     },
     {
       "id": "rom-c08",
       "title": {
         "en-US": "C. 7 - The Law and Sin",
-        "la": "C. 7 - The Law and Sin"
+        "la": "C. 7 - The Law and Sin",
+        "pt-BR": "C. 7 - A Lei e o pecado"
       }
     },
     {
       "id": "rom-c09",
       "title": {
         "en-US": "C. 8 - Redemption of the Flesh",
-        "la": "C. 8 - Redemption of the Flesh"
+        "la": "C. 8 - Redemption of the Flesh",
+        "pt-BR": "C. 8 - A redenção da carne"
       }
     },
     {
       "id": "rom-c10",
       "title": {
         "en-US": "C. 9 - God’s Wrath and Mercy",
-        "la": "C. 9 - God’s Wrath and Mercy"
+        "la": "C. 9 - God’s Wrath and Mercy",
+        "pt-BR": "C. 9 - A ira e a misericórdia de Deus"
       }
     },
     {
       "id": "rom-c11",
       "title": {
         "en-US": "C. 10 - Faith and Confession for Salvation",
-        "la": "C. 10 - Faith and Confession for Salvation"
+        "la": "C. 10 - Faith and Confession for Salvation",
+        "pt-BR": "C. 10 - Fé e confissão para a salvação"
       }
     },
     {
       "id": "rom-c12",
       "title": {
         "en-US": "C. 11 - Salvation of Both Jews and Gentiles",
-        "la": "C. 11 - Salvation of Both Jews and Gentiles"
+        "la": "C. 11 - Salvation of Both Jews and Gentiles",
+        "pt-BR": "C. 11 - A salvação dos judeus e dos gentios"
       }
     },
     {
       "id": "rom-c13",
       "title": {
         "en-US": "C. 12 - The New Life in Christ",
-        "la": "C. 12 - The New Life in Christ"
+        "la": "C. 12 - The New Life in Christ",
+        "pt-BR": "C. 12 - A vida nova em Cristo"
       }
     },
     {
       "id": "rom-c14",
       "title": {
         "en-US": "C. 13 - Obedience and Love",
-        "la": "C. 13 - Obedience and Love"
+        "la": "C. 13 - Obedience and Love",
+        "pt-BR": "C. 13 - Obediência e amor"
       }
     },
     {
       "id": "rom-c15",
       "title": {
         "en-US": "C. 14 - Avoidance of Scandal",
-        "la": "C. 14 - Avoidance of Scandal"
+        "la": "C. 14 - Avoidance of Scandal",
+        "pt-BR": "C. 14 - Evitar o escândalo"
       }
     },
     {
       "id": "rom-c16",
       "title": {
         "en-US": "C. 15 - The Gospel for Both Jews and Gentiles",
-        "la": "C. 15 - The Gospel for Both Jews and Gentiles"
+        "la": "C. 15 - The Gospel for Both Jews and Gentiles",
+        "pt-BR": "C. 15 - O Evangelho para os judeus e os gentios"
       }
     },
     {
       "id": "rom-c17",
       "title": {
         "en-US": "C. 16 - Personal Greetings and Doxology",
-        "la": "C. 16 - Personal Greetings and Doxology"
+        "la": "C. 16 - Personal Greetings and Doxology",
+        "pt-BR": "C. 16 - Saudações pessoais e doxologia"
       }
     }
   ],
