@@ -1,0 +1,3 @@
+# Capítulo 27. Lamenta ter passado tanto tempo sem Deus.
+
+**38.** Tarde demais vos amei, ó Beleza tão antiga e, contudo, tão nova! Tarde demais vos amei! Pois eis que estáveis dentro, e eu fora, e ali vos buscava; eu, sem beleza, precipitava-me irrefletidamente entre as coisas belas que fizestes. Estáveis comigo, mas eu não estava convosco. Mantinham-me longe de vós aquelas coisas que, se não existissem em vós, não existiriam. Chamastes, gritastes e rompestes minha surdez. Reluzistes e brilhais, e dissipais minha cegueira. Exalastes perfumes, e eu aspirei e por vós suspiro. Provei, e tenho fome e sede. Tocastes-me, e ardi por vossa paz.

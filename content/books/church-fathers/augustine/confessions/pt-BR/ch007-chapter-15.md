@@ -1,0 +1,3 @@
+# Capítulo 15. Tudo o que existe deve seu ser a Deus.
+
+**21.** E voltei o olhar para as outras coisas e percebi que a vós deviam seu ser e que todas estavam delimitadas em vós; mas de outra maneira, não como se estivessem no espaço, e sim porque tendes verdadeiramente todas as coisas em vossa mão: e todas as coisas são verdadeiras na medida em que têm ser; nem há falsidade alguma, a não ser quando se pensa que existe aquilo que não existe. E vi que todas as coisas se harmonizavam, não somente com seus lugares, mas também com seus tempos. E que vós, o único eterno, não começastes a agir depois de inumeráveis espaços de tempo; pois todos os espaços de tempo, tanto os que passaram como os que passarão, não vão nem vêm senão por vós, que agis e permaneceis.

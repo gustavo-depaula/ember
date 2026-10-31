@@ -1,0 +1,3 @@
+# Capítulo 10. Suplica a Deus que possa viver na luz verdadeira e ser instruído nos mistérios dos livros sagrados.
+
+**10.** Oh, que me fale a Verdade, luz de meu coração, e não minhas próprias trevas! Desci a elas e me obscureci. Mas dali, mesmo dali, eu vos amei. Desviei-me e me lembrei de Vós. Ouvi vossa voz atrás de mim, ordenando-me que voltasse, e mal a ouvi por causa dos tumultos dos inquietos. E agora, eis que volto, ardendo e ofegante em busca de vossa fonte. Ninguém me impeça; dela beberei e assim terei vida. Que eu não seja minha própria vida; por mim mesmo vivi mal — fui morte para mim mesmo; em Vós revivo. Falai comigo; conversai comigo. Em vossos livros acreditei, e suas palavras são muito profundas.

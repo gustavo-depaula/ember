@@ -1,0 +1,3 @@
+# Capítulo 4. Da matéria sem forma surgiu o belo mundo.
+
+**4.** Como, então, se deveria chamá-la, para que de algum modo pudesse ser apresentada às mentes menos perspicazes, senão por alguma palavra convencional? Mas o que se pode encontrar, em todas as partes do mundo, mais próximo de uma total ausência de forma do que a terra e o abismo? Pois, por ocuparem a posição mais baixa, são menos belos que as outras partes superiores, todas transparentes e luminosas. Por que, portanto, não posso considerar que a ausência de forma da matéria — que criastes sem configuração, para dela fazer este mundo bem configurado — é adequadamente indicada aos homens pelo nome de terra invisível e informe?

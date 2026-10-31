@@ -1,0 +1,3 @@
+# Capítulo 19. Ignoramos de que maneira Deus ensina as coisas futuras.
+
+**25.** Vós, portanto, que governais vossas criaturas, qual é o modo pelo qual ensinais às almas as coisas futuras? Pois ensinastes a vossos profetas. Qual é o caminho pelo qual Vós, para quem nada é futuro, ensinais as coisas futuras; ou, antes, acerca das coisas futuras ensinais as presentes? Pois aquilo que não existe certamente não pode ser ensinado. Esse caminho está longe demais de minha vista; é elevado demais para mim, não posso alcançá-lo; mas por Vós poderei, quando mo concederdes, doce luz de meus olhos ocultos.

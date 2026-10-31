@@ -1,0 +1,3 @@
+# Capítulo 29. Toda esperança está na misericórdia de Deus.
+
+**40.** E toda a minha esperança está somente em vossa imensa misericórdia. Dai o que ordenais e ordenai o que quiserdes. Vós nos impondes a continência; “contudo, quando percebi”, diz alguém, “que não poderia obtê-la de outro modo, a não ser que Deus ma desse; . . . também era sinal de sabedoria saber de quem ela era dom”. Sabedoria 8:21 Pois pela continência somos reunidos e reconduzidos à unidade, da qual nos havíamos dispersado na multiplicidade. Pois vos ama pouco quem ama convosco alguma coisa que não ama por vós, ó amor, que sempre ardeis e nunca vos apagais! Ó caridade, meu Deus, abrasai-me! Ordenais a continência; dai o que ordenais e ordenai o que quiserdes.

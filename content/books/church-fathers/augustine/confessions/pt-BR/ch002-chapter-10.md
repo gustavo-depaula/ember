@@ -1,0 +1,3 @@
+# Capítulo 10. Em Deus há verdadeiro repouso e vida imutável.
+
+**18.** Quem pode desatar esse nó torcido e emaranhado? É repugnante. Odeio pensar nele. Odeio olhá-lo. Mas por vós anseio, ó justiça e inocência, belas e formosas a todos os olhos virtuosos, que dais uma satisfação que nunca enjoa! Convosco estão o repouso perfeito e a vida imutável. Quem entra em vós entra na alegria de seu Senhor, Mateus 25:21 e não terá medo, e viverá de modo excelente naquele que é o mais Excelente. Afastei-me de vós e afundei, ó meu Deus; na juventude, vaguei para muito longe de vós, meu amparo, e tornei-me para mim mesmo uma terra estéril.

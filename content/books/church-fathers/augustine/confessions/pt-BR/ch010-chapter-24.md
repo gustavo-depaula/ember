@@ -1,0 +1,3 @@
+# Capítulo 24. Quem encontra a verdade encontra Deus.
+
+**35.** Vede quanto me estendi em minha memória ao vos buscar, Senhor; e fora dela não vos encontrei. Tampouco encontrei coisa alguma a vosso respeito que não tivesse conservado na memória desde que vos conheci. Pois, desde que vos conheci, nunca vos esqueci. Onde encontrei a verdade, ali encontrei meu Deus, que é a própria Verdade, da qual não me esqueci desde que a conheci. Assim, desde que vos conheci, permaneceis em minha memória; e ali vos encontro sempre que vos recordo e em vós me deleito. Estas são minhas santas delícias, que me concedestes em vossa misericórdia, olhando para minha pobreza.

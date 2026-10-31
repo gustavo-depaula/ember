@@ -1,0 +1,3 @@
+# Capítulo 16. O tempo só pode ser percebido ou medido enquanto passa.
+
+**21.** E, contudo, Senhor, percebemos intervalos de tempo, comparamos uns com os outros e dizemos que alguns são mais longos, outros mais breves. Medimos até quanto este tempo é mais breve ou mais longo do que aquele; e respondemos: “Este é o dobro ou o triplo, enquanto aquele é simples, ou apenas igual àquele.” Mas medimos os tempos que passam quando os medimos ao percebê-los; os tempos passados, porém, que já não existem, ou os futuros, que ainda não existem, quem pode medi-los? A menos que, talvez, alguém ouse dizer que se pode medir aquilo que não existe. Portanto, enquanto o tempo passa, pode ser percebido e medido; mas, depois que passou, não pode, pois já não existe.

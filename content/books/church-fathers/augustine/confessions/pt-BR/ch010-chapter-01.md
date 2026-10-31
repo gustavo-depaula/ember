@@ -1,0 +1,3 @@
+# Capítulo 1. Somente em Deus estão a esperança e a alegria do homem.
+
+**1.** Que eu vos conheça, ó vós que me conheceis; que eu vos conheça como sou conhecido. 1 Coríntios 13:12 Ó força de minha alma, entrai nela e preparai-a para vós, para que a tenhais e conserveis sem “mancha nem ruga”. Efésios 5:27 Essa é minha esperança, “por isso falei”; e nessa esperança me alegro, quando me alegro com sobriedade. As outras coisas desta vida tanto menos deveriam ser lamentadas quanto mais são lamentadas; e tanto mais deveriam ser lamentadas quanto menos os homens as lamentam. Pois eis que “desejais a verdade”, visto que aquele que a pratica “vem para a luz”. João 3:20 É isso que desejo fazer, confessando em meu coração diante de vós e escrevendo diante de muitas testemunhas.

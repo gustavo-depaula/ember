@@ -1,0 +1,3 @@
+# Capítulo 41. Tendo vencido seu tríplice desejo, chega à salvação.
+
+**66.** Assim refleti sobre as fadigas de meus pecados, naquela tríplice “concupiscência”, e invoquei vossa mão direita em meu auxílio. Pois com o coração ferido vi vosso esplendor e, repelido, exclamei: “Quem pode alcançá-lo?” “Fui afastado de diante de vossos olhos.” Sois a Verdade, que preside a todas as coisas; mas eu, por minha cobiça, não queria perder-vos e, contudo, queria possuir convosco uma mentira; assim como ninguém deseja falar falsamente a ponto de ignorar ele próprio a verdade. Assim vos perdi, porque não vos dignais ser possuído juntamente com uma mentira.

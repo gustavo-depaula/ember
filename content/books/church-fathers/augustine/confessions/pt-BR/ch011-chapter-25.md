@@ -1,0 +1,3 @@
+# Capítulo 25. Invoca a Deus para que ilumine sua mente.
+
+**32.** E confesso diante de Vós, Senhor, que ainda ignoro o que é o tempo; e novamente confesso diante de Vós, Senhor, que sei que digo estas coisas no tempo, que já há muito tempo falo do tempo e que esse próprio “muito tempo” só é longo pela duração do tempo. Como, então, sei isso, se não sei o que é o tempo? Ou será, talvez, que não sei de que modo exprimir o que sei? Ai de mim, que nem sequer conheço a extensão de minha própria ignorância! Eis, ó meu Deus, que diante de Vós não minto. Tal como falo, assim está meu coração. Acendereis minha lâmpada; Vós, Senhor meu Deus, iluminareis minhas trevas.

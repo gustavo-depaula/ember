@@ -1,0 +1,3 @@
+# Capítulo 16. Ninguém, exceto a Luz imutável, conhece a si mesmo.
+
+**19.** Pois, tal como sois em toda a vossa plenitude, só Vós vos conheceis, Vós que sois imutavelmente, conheceis imutavelmente e quereis imutavelmente. E vossa Essência conhece e quer imutavelmente; e vosso Conhecimento é e quer imutavelmente; e vossa Vontade é e conhece imutavelmente. Tampouco vos parece justo que a Luz imutável seja conhecida pelo que é iluminado e mutável assim como ela conhece a si mesma. Por isso minha alma é diante de Vós como “terra onde não há água”, porque, assim como não pode por si mesma iluminar-se, também não pode por si mesma saciar-se. Pois em Vós está a fonte da vida, assim como em vossa luz veremos a luz.

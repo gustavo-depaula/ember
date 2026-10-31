@@ -1,0 +1,3 @@
+# Capítulo 8. Com o auxílio de Deus, chega aos poucos à verdade.
+
+**12.** “Mas vós, Senhor, permanecereis para sempre”; contudo, não vos irais para sempre contra nós, porque vos compadeceis de nosso pó e de nossas cinzas; e foi de vosso agrado reformar minha deformidade, e com aguilhões interiores me inquietáveis, para que eu permanecesse insatisfeito até que vós vos tornásseis uma certeza para meu olhar interior. E, pela mão secreta de vosso remédio, meu inchaço foi diminuindo, e a visão perturbada e obscurecida de minha mente era, dia após dia, curada pelas ardentes unções de dores salutares.
