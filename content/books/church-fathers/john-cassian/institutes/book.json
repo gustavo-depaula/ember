@@ -2,13 +2,16 @@
   "id": "john-cassian-institutes",
   "cover": "quarter",
   "name": {
-    "en-US": "Institutes"
+    "en-US": "Institutes",
+    "pt-BR": "Instituições"
   },
   "author": {
-    "en-US": "John Cassian (c. 360-c. 435)"
+    "en-US": "John Cassian (c. 360-c. 435)",
+    "pt-BR": "João Cassiano (c. 360-c. 435)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,67 +24,78 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Book IV"
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Book V"
+        "en-US": "Book V",
+        "pt-BR": "Livro V"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Book VII"
+        "en-US": "Book VII",
+        "pt-BR": "Livro VII"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Book VIII"
+        "en-US": "Book VIII",
+        "pt-BR": "Livro VIII"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Book IX"
+        "en-US": "Book IX",
+        "pt-BR": "Livro IX"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Book X"
+        "en-US": "Book X",
+        "pt-BR": "Livro X"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Book XI"
+        "en-US": "Book XI",
+        "pt-BR": "Livro XI"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Book XII"
+        "en-US": "Book XII",
+        "pt-BR": "Livro XII"
       }
     }
   ],
