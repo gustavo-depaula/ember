@@ -2,13 +2,16 @@
   "id": "john-cassian-conferences",
   "cover": "quarter",
   "name": {
-    "en-US": "Conferences"
+    "en-US": "Conferences",
+    "pt-BR": "Conferências"
   },
   "author": {
-    "en-US": "John Cassian (c. 360-c. 435)"
+    "en-US": "John Cassian (c. 360-c. 435)",
+    "pt-BR": "São João Cassiano (c. 360-c. 435)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,133 +24,155 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "CONFERENCE 1."
+        "en-US": "CONFERENCE 1.",
+        "pt-BR": "CONFERÊNCIA 1."
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "CONFERENCE 2."
+        "en-US": "CONFERENCE 2.",
+        "pt-BR": "CONFERÊNCIA 2."
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "CONFERENCE 3."
+        "en-US": "CONFERENCE 3.",
+        "pt-BR": "CONFERÊNCIA 3."
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "CONFERENCE 4."
+        "en-US": "CONFERENCE 4.",
+        "pt-BR": "CONFERÊNCIA 4."
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "CONFERENCE 5."
+        "en-US": "CONFERENCE 5.",
+        "pt-BR": "CONFERÊNCIA 5."
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "CONFERENCE 6."
+        "en-US": "CONFERENCE 6.",
+        "pt-BR": "CONFERÊNCIA 6."
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "CONFERENCE 7."
+        "en-US": "CONFERENCE 7.",
+        "pt-BR": "CONFERÊNCIA 7."
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "CONFERENCE 8."
+        "en-US": "CONFERENCE 8.",
+        "pt-BR": "CONFERÊNCIA 8."
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "CONFERENCE 9."
+        "en-US": "CONFERENCE 9.",
+        "pt-BR": "CONFERÊNCIA 9."
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "CONFERENCE 10."
+        "en-US": "CONFERENCE 10.",
+        "pt-BR": "CONFERÊNCIA 10."
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "CONFERENCE 11."
+        "en-US": "CONFERENCE 11.",
+        "pt-BR": "CONFERÊNCIA 11."
       }
     },
     {
       "id": "ch012",
       "title": {
-        "en-US": "CONFERENCE 13."
+        "en-US": "CONFERENCE 13.",
+        "pt-BR": "CONFERÊNCIA 13."
       }
     },
     {
       "id": "ch013",
       "title": {
-        "en-US": "CONFERENCE 14."
+        "en-US": "CONFERENCE 14.",
+        "pt-BR": "CONFERÊNCIA 14."
       }
     },
     {
       "id": "ch014",
       "title": {
-        "en-US": "CONFERENCE 15."
+        "en-US": "CONFERENCE 15.",
+        "pt-BR": "CONFERÊNCIA 15."
       }
     },
     {
       "id": "ch015",
       "title": {
-        "en-US": "CONFERENCE 16."
+        "en-US": "CONFERENCE 16.",
+        "pt-BR": "CONFERÊNCIA 16."
       }
     },
     {
       "id": "ch016",
       "title": {
-        "en-US": "CONFERENCE 17."
+        "en-US": "CONFERENCE 17.",
+        "pt-BR": "CONFERÊNCIA 17."
       }
     },
     {
       "id": "ch017",
       "title": {
-        "en-US": "CONFERENCE 18."
+        "en-US": "CONFERENCE 18.",
+        "pt-BR": "CONFERÊNCIA 18."
       }
     },
     {
       "id": "ch018",
       "title": {
-        "en-US": "CONFERENCE 19."
+        "en-US": "CONFERENCE 19.",
+        "pt-BR": "CONFERÊNCIA 19."
       }
     },
     {
       "id": "ch019",
       "title": {
-        "en-US": "CONFERENCE 20."
+        "en-US": "CONFERENCE 20.",
+        "pt-BR": "CONFERÊNCIA 20."
       }
     },
     {
       "id": "ch020",
       "title": {
-        "en-US": "CONFERENCE 21."
+        "en-US": "CONFERENCE 21.",
+        "pt-BR": "CONFERÊNCIA 21."
       }
     },
     {
       "id": "ch021",
       "title": {
-        "en-US": "CONFERENCE 23."
+        "en-US": "CONFERENCE 23.",
+        "pt-BR": "CONFERÊNCIA 23."
       }
     },
     {
       "id": "ch022",
       "title": {
-        "en-US": "CONFERENCE 24."
+        "en-US": "CONFERENCE 24.",
+        "pt-BR": "CONFERÊNCIA 24."
       }
     }
   ],
