@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Isaiah",
-    "la": "Expositio super Isaiam"
+    "la": "Expositio super Isaiam",
+    "pt-BR": "Comentário a Isaías"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "One of Aquinas's earliest Scripture commentaries — the literal exposition of the Book of Isaiah from his bachelor-of-Scripture period at Paris and Cologne.",
-    "la": "Una ex primis expositionibus Sacrae Scripturae Thomae — *expositio ad litteram* libri Isaiae ex annis baccalauratus biblici Parisiensis et Coloniensis."
+    "la": "Una ex primis expositionibus Sacrae Scripturae Thomae — *expositio ad litteram* libri Isaiae ex annis baccalauratus biblici Parisiensis et Coloniensis.",
+    "pt-BR": "Um dos primeiros comentários de Tomás de Aquino à Sagrada Escritura — a exposição literal do Livro de Isaías, do período em que foi bacharel em Sagrada Escritura em Paris e Colônia."
   },
   "composed": "1248–1252",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,476 +39,544 @@
       "id": "isaiah-c01",
       "title": {
         "en-US": "Prologue of St. Thomas",
-        "la": "Prologue of St. Thomas"
+        "la": "Prologue of St. Thomas",
+        "pt-BR": "Prólogo de Santo Tomás"
       }
     },
     {
       "id": "isaiah-c02",
       "title": {
         "en-US": "Preface of St. Jerome",
-        "la": "Preface of St. Jerome"
+        "la": "Preface of St. Jerome",
+        "pt-BR": "Prefácio de São Jerônimo"
       }
     },
     {
       "id": "isaiah-c03",
       "title": {
         "en-US": "Chapter 1",
-        "la": "Chapter 1"
+        "la": "Chapter 1",
+        "pt-BR": "Capítulo 1"
       }
     },
     {
       "id": "isaiah-c04",
       "title": {
         "en-US": "Chapter 2",
-        "la": "Chapter 2"
+        "la": "Chapter 2",
+        "pt-BR": "Capítulo 2"
       }
     },
     {
       "id": "isaiah-c05",
       "title": {
         "en-US": "Chapter 3",
-        "la": "Chapter 3"
+        "la": "Chapter 3",
+        "pt-BR": "Capítulo 3"
       }
     },
     {
       "id": "isaiah-c06",
       "title": {
         "en-US": "Chapter 4",
-        "la": "Chapter 4"
+        "la": "Chapter 4",
+        "pt-BR": "Capítulo 4"
       }
     },
     {
       "id": "isaiah-c07",
       "title": {
         "en-US": "Chapter 5",
-        "la": "Chapter 5"
+        "la": "Chapter 5",
+        "pt-BR": "Capítulo 5"
       }
     },
     {
       "id": "isaiah-c08",
       "title": {
         "en-US": "Chapter 6",
-        "la": "Chapter 6"
+        "la": "Chapter 6",
+        "pt-BR": "Capítulo 6"
       }
     },
     {
       "id": "isaiah-c09",
       "title": {
         "en-US": "Chapter 7",
-        "la": "Chapter 7"
+        "la": "Chapter 7",
+        "pt-BR": "Capítulo 7"
       }
     },
     {
       "id": "isaiah-c10",
       "title": {
         "en-US": "Chapter 8",
-        "la": "Chapter 8"
+        "la": "Chapter 8",
+        "pt-BR": "Capítulo 8"
       }
     },
     {
       "id": "isaiah-c11",
       "title": {
         "en-US": "Chapter 9",
-        "la": "Chapter 9"
+        "la": "Chapter 9",
+        "pt-BR": "Capítulo 9"
       }
     },
     {
       "id": "isaiah-c12",
       "title": {
         "en-US": "Chapter 10",
-        "la": "Chapter 10"
+        "la": "Chapter 10",
+        "pt-BR": "Capítulo 10"
       }
     },
     {
       "id": "isaiah-c13",
       "title": {
         "en-US": "Chapter 11",
-        "la": "Chapter 11"
+        "la": "Chapter 11",
+        "pt-BR": "Capítulo 11"
       }
     },
     {
       "id": "isaiah-c14",
       "title": {
         "en-US": "Chapter 12",
-        "la": "Chapter 12"
+        "la": "Chapter 12",
+        "pt-BR": "Capítulo 12"
       }
     },
     {
       "id": "isaiah-c15",
       "title": {
         "en-US": "Chapter 13",
-        "la": "Chapter 13"
+        "la": "Chapter 13",
+        "pt-BR": "Capítulo 13"
       }
     },
     {
       "id": "isaiah-c16",
       "title": {
         "en-US": "Chapter 14",
-        "la": "Chapter 14"
+        "la": "Chapter 14",
+        "pt-BR": "Capítulo 14"
       }
     },
     {
       "id": "isaiah-c17",
       "title": {
         "en-US": "Chapter 15",
-        "la": "Chapter 15"
+        "la": "Chapter 15",
+        "pt-BR": "Capítulo 15"
       }
     },
     {
       "id": "isaiah-c18",
       "title": {
         "en-US": "Chapter 16",
-        "la": "Chapter 16"
+        "la": "Chapter 16",
+        "pt-BR": "Capítulo 16"
       }
     },
     {
       "id": "isaiah-c19",
       "title": {
         "en-US": "Chapter 17",
-        "la": "Chapter 17"
+        "la": "Chapter 17",
+        "pt-BR": "Capítulo 17"
       }
     },
     {
       "id": "isaiah-c20",
       "title": {
         "en-US": "Chapter 18",
-        "la": "Chapter 18"
+        "la": "Chapter 18",
+        "pt-BR": "Capítulo 18"
       }
     },
     {
       "id": "isaiah-c21",
       "title": {
         "en-US": "Chapter 19",
-        "la": "Chapter 19"
+        "la": "Chapter 19",
+        "pt-BR": "Capítulo 19"
       }
     },
     {
       "id": "isaiah-c22",
       "title": {
         "en-US": "Chapter 20",
-        "la": "Chapter 20"
+        "la": "Chapter 20",
+        "pt-BR": "Capítulo 20"
       }
     },
     {
       "id": "isaiah-c23",
       "title": {
         "en-US": "Chapter 21",
-        "la": "Chapter 21"
+        "la": "Chapter 21",
+        "pt-BR": "Capítulo 21"
       }
     },
     {
       "id": "isaiah-c24",
       "title": {
         "en-US": "Chapter 22",
-        "la": "Chapter 22"
+        "la": "Chapter 22",
+        "pt-BR": "Capítulo 22"
       }
     },
     {
       "id": "isaiah-c25",
       "title": {
         "en-US": "Chapter 23",
-        "la": "Chapter 23"
+        "la": "Chapter 23",
+        "pt-BR": "Capítulo 23"
       }
     },
     {
       "id": "isaiah-c26",
       "title": {
         "en-US": "Chapter 24",
-        "la": "Chapter 24"
+        "la": "Chapter 24",
+        "pt-BR": "Capítulo 24"
       }
     },
     {
       "id": "isaiah-c27",
       "title": {
         "en-US": "Chapter 25",
-        "la": "Chapter 25"
+        "la": "Chapter 25",
+        "pt-BR": "Capítulo 25"
       }
     },
     {
       "id": "isaiah-c28",
       "title": {
         "en-US": "Chapter 26",
-        "la": "Chapter 26"
+        "la": "Chapter 26",
+        "pt-BR": "Capítulo 26"
       }
     },
     {
       "id": "isaiah-c29",
       "title": {
         "en-US": "Chapter 27",
-        "la": "Chapter 27"
+        "la": "Chapter 27",
+        "pt-BR": "Capítulo 27"
       }
     },
     {
       "id": "isaiah-c30",
       "title": {
         "en-US": "Chapter 28",
-        "la": "Chapter 28"
+        "la": "Chapter 28",
+        "pt-BR": "Capítulo 28"
       }
     },
     {
       "id": "isaiah-c31",
       "title": {
         "en-US": "Chapter 29",
-        "la": "Chapter 29"
+        "la": "Chapter 29",
+        "pt-BR": "Capítulo 29"
       }
     },
     {
       "id": "isaiah-c32",
       "title": {
         "en-US": "Chapter 30",
-        "la": "Chapter 30"
+        "la": "Chapter 30",
+        "pt-BR": "Capítulo 30"
       }
     },
     {
       "id": "isaiah-c33",
       "title": {
         "en-US": "Chapter 31",
-        "la": "Chapter 31"
+        "la": "Chapter 31",
+        "pt-BR": "Capítulo 31"
       }
     },
     {
       "id": "isaiah-c34",
       "title": {
         "en-US": "Chapter 32",
-        "la": "Chapter 32"
+        "la": "Chapter 32",
+        "pt-BR": "Capítulo 32"
       }
     },
     {
       "id": "isaiah-c35",
       "title": {
         "en-US": "Chapter 33",
-        "la": "Chapter 33"
+        "la": "Chapter 33",
+        "pt-BR": "Capítulo 33"
       }
     },
     {
       "id": "isaiah-c36",
       "title": {
         "en-US": "Chapter 34",
-        "la": "Chapter 34"
+        "la": "Chapter 34",
+        "pt-BR": "Capítulo 34"
       }
     },
     {
       "id": "isaiah-c37",
       "title": {
         "en-US": "Chapter 35",
-        "la": "Chapter 35"
+        "la": "Chapter 35",
+        "pt-BR": "Capítulo 35"
       }
     },
     {
       "id": "isaiah-c38",
       "title": {
         "en-US": "Chapter 36",
-        "la": "Chapter 36"
+        "la": "Chapter 36",
+        "pt-BR": "Capítulo 36"
       }
     },
     {
       "id": "isaiah-c39",
       "title": {
         "en-US": "Chapter 37",
-        "la": "Chapter 37"
+        "la": "Chapter 37",
+        "pt-BR": "Capítulo 37"
       }
     },
     {
       "id": "isaiah-c40",
       "title": {
         "en-US": "Chapter 38",
-        "la": "Chapter 38"
+        "la": "Chapter 38",
+        "pt-BR": "Capítulo 38"
       }
     },
     {
       "id": "isaiah-c41",
       "title": {
         "en-US": "Chapter 39",
-        "la": "Chapter 39"
+        "la": "Chapter 39",
+        "pt-BR": "Capítulo 39"
       }
     },
     {
       "id": "isaiah-c42",
       "title": {
         "en-US": "Chapter 40",
-        "la": "Chapter 40"
+        "la": "Chapter 40",
+        "pt-BR": "Capítulo 40"
       }
     },
     {
       "id": "isaiah-c43",
       "title": {
         "en-US": "Chapter 41",
-        "la": "Chapter 41"
+        "la": "Chapter 41",
+        "pt-BR": "Capítulo 41"
       }
     },
     {
       "id": "isaiah-c44",
       "title": {
         "en-US": "Chapter 42",
-        "la": "Chapter 42"
+        "la": "Chapter 42",
+        "pt-BR": "Capítulo 42"
       }
     },
     {
       "id": "isaiah-c45",
       "title": {
         "en-US": "Chapter 43",
-        "la": "Chapter 43"
+        "la": "Chapter 43",
+        "pt-BR": "Capítulo 43"
       }
     },
     {
       "id": "isaiah-c46",
       "title": {
         "en-US": "Chapter 44",
-        "la": "Chapter 44"
+        "la": "Chapter 44",
+        "pt-BR": "Capítulo 44"
       }
     },
     {
       "id": "isaiah-c47",
       "title": {
         "en-US": "Chapter 45",
-        "la": "Chapter 45"
+        "la": "Chapter 45",
+        "pt-BR": "Capítulo 45"
       }
     },
     {
       "id": "isaiah-c48",
       "title": {
         "en-US": "Chapter 46",
-        "la": "Chapter 46"
+        "la": "Chapter 46",
+        "pt-BR": "Capítulo 46"
       }
     },
     {
       "id": "isaiah-c49",
       "title": {
         "en-US": "Chapter 47",
-        "la": "Chapter 47"
+        "la": "Chapter 47",
+        "pt-BR": "Capítulo 47"
       }
     },
     {
       "id": "isaiah-c50",
       "title": {
         "en-US": "Chapter 48",
-        "la": "Chapter 48"
+        "la": "Chapter 48",
+        "pt-BR": "Capítulo 48"
       }
     },
     {
       "id": "isaiah-c51",
       "title": {
         "en-US": "Chapter 49",
-        "la": "Chapter 49"
+        "la": "Chapter 49",
+        "pt-BR": "Capítulo 49"
       }
     },
     {
       "id": "isaiah-c52",
       "title": {
         "en-US": "Chapter 50",
-        "la": "Chapter 50"
+        "la": "Chapter 50",
+        "pt-BR": "Capítulo 50"
       }
     },
     {
       "id": "isaiah-c53",
       "title": {
         "en-US": "Chapter 51",
-        "la": "Chapter 51"
+        "la": "Chapter 51",
+        "pt-BR": "Capítulo 51"
       }
     },
     {
       "id": "isaiah-c54",
       "title": {
         "en-US": "Chapter 52",
-        "la": "Chapter 52"
+        "la": "Chapter 52",
+        "pt-BR": "Capítulo 52"
       }
     },
     {
       "id": "isaiah-c55",
       "title": {
         "en-US": "Chapter 53",
-        "la": "Chapter 53"
+        "la": "Chapter 53",
+        "pt-BR": "Capítulo 53"
       }
     },
     {
       "id": "isaiah-c56",
       "title": {
         "en-US": "Chapter 54",
-        "la": "Chapter 54"
+        "la": "Chapter 54",
+        "pt-BR": "Capítulo 54"
       }
     },
     {
       "id": "isaiah-c57",
       "title": {
         "en-US": "Chapter 55",
-        "la": "Chapter 55"
+        "la": "Chapter 55",
+        "pt-BR": "Capítulo 55"
       }
     },
     {
       "id": "isaiah-c58",
       "title": {
         "en-US": "Chapter 56",
-        "la": "Chapter 56"
+        "la": "Chapter 56",
+        "pt-BR": "Capítulo 56"
       }
     },
     {
       "id": "isaiah-c59",
       "title": {
         "en-US": "Chapter 57",
-        "la": "Chapter 57"
+        "la": "Chapter 57",
+        "pt-BR": "Capítulo 57"
       }
     },
     {
       "id": "isaiah-c60",
       "title": {
         "en-US": "Chapter 58",
-        "la": "Chapter 58"
+        "la": "Chapter 58",
+        "pt-BR": "Capítulo 58"
       }
     },
     {
       "id": "isaiah-c61",
       "title": {
         "en-US": "Chapter 59",
-        "la": "Chapter 59"
+        "la": "Chapter 59",
+        "pt-BR": "Capítulo 59"
       }
     },
     {
       "id": "isaiah-c62",
       "title": {
         "en-US": "Chapter 60",
-        "la": "Chapter 60"
+        "la": "Chapter 60",
+        "pt-BR": "Capítulo 60"
       }
     },
     {
       "id": "isaiah-c63",
       "title": {
         "en-US": "Chapter 61",
-        "la": "Chapter 61"
+        "la": "Chapter 61",
+        "pt-BR": "Capítulo 61"
       }
     },
     {
       "id": "isaiah-c64",
       "title": {
         "en-US": "Chapter 62",
-        "la": "Chapter 62"
+        "la": "Chapter 62",
+        "pt-BR": "Capítulo 62"
       }
     },
     {
       "id": "isaiah-c65",
       "title": {
         "en-US": "Chapter 63",
-        "la": "Chapter 63"
+        "la": "Chapter 63",
+        "pt-BR": "Capítulo 63"
       }
     },
     {
       "id": "isaiah-c66",
       "title": {
         "en-US": "Chapter 64",
-        "la": "Chapter 64"
+        "la": "Chapter 64",
+        "pt-BR": "Capítulo 64"
       }
     },
     {
       "id": "isaiah-c67",
       "title": {
         "en-US": "Chapter 65",
-        "la": "Chapter 65"
+        "la": "Chapter 65",
+        "pt-BR": "Capítulo 65"
       }
     },
     {
       "id": "isaiah-c68",
       "title": {
         "en-US": "Chapter 66",
-        "la": "Chapter 66"
+        "la": "Chapter 66",
+        "pt-BR": "Capítulo 66"
       }
     }
   ],
