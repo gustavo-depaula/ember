@@ -139,9 +139,25 @@ pushPending() {
   git fetch -q origin main || return 1
   [[ -n $(git rev-list origin/main..HEAD) ]] || return 0
   if ! git merge-base --is-ancestor origin/main HEAD; then
+    # Replayed in a scratch worktree, not here: running drivers keep files of
+    # this checkout dirty (a Summa part appends to the journal another part
+    # just committed), and `reset --keep` refuses those.
     local mine=($(git rev-list --reverse origin/main..HEAD)) tip=$(git rev-parse HEAD)
-    git reset -q --keep origin/main || return 1
-    git cherry-pick $mine > /dev/null || { git cherry-pick --abort; git reset -q --keep $tip; return 1; }
+    local scratch=$(mktemp -d)/replay
+    git worktree add -q --detach $scratch origin/main || return 1
+    if ! (cd $scratch && HUSKY=0 git cherry-pick $mine > /dev/null); then
+      git worktree remove --force $scratch; return 1
+    fi
+    local new=$(git -C $scratch rev-parse HEAD)
+    git worktree remove --force $scratch
+    # Move the branch without touching the working tree, then check out what
+    # main changed in files this checkout has not modified.
+    local dirty=($(git diff --name-only $tip)) changed=($(git diff --name-only $tip $new))
+    git reset -q $new
+    for f in $changed; do
+      (( ${dirty[(Ie)$f]} )) && continue
+      if git cat-file -e $new:$f 2> /dev/null; then git checkout -q $new -- $f; else rm -f $f; fi
+    done
   fi
   git push -q origin HEAD:main
 }
