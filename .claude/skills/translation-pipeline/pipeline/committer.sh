@@ -28,7 +28,8 @@ for src in sorted(glob.glob(d + "/" + lang + "/" + scope + "*.md")):
     b = [p for p in paras(tgt) if not (p.startswith("[^") and "Nota do tradutor" in p)]
     if len(a) != len(b):
         problems.append("%s: %d vs %d paragraphs" % (name, len(a), len(b))); continue
-    refs = lambda s: sorted(re.findall(r"\d+:\d+", s))
+    # OCR reads 1 as l in the English editions ("Galatians 6:l", "Luke 7:12-l5").
+    refs = lambda s: sorted(r.replace("l", "1") for r in re.findall(r"\d+:[\dl]+\b", s))
     # The English editions also cite in Roman numerals ("1 Cor. XI. 5", "iii. 1"),
     # which a translation writes as 11:5; those may appear in pt-BR only.
     roman = lambda r: sum({"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}[c] * (-1 if k + 1 < len(r) and {"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}[c] < {"i": 1, "v": 5, "x": 10, "l": 50, "c": 100}[r[k + 1]] else 1) for k, c in enumerate(r))
