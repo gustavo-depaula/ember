@@ -2,13 +2,16 @@
   "id": "augustine-city-of-god",
   "cover": "quarter",
   "name": {
-    "en-US": "City of God"
+    "en-US": "City of God",
+    "pt-BR": "A Cidade de Deus"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,133 +24,155 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book 1"
+        "en-US": "Book 1",
+        "pt-BR": "Livro 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book 2"
+        "en-US": "Book 2",
+        "pt-BR": "Livro 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Book 3"
+        "en-US": "Book 3",
+        "pt-BR": "Livro 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Book 4"
+        "en-US": "Book 4",
+        "pt-BR": "Livro 4"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Book 5"
+        "en-US": "Book 5",
+        "pt-BR": "Livro 5"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Book 6"
+        "en-US": "Book 6",
+        "pt-BR": "Livro 6"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Book 7"
+        "en-US": "Book 7",
+        "pt-BR": "Livro 7"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Book 8"
+        "en-US": "Book 8",
+        "pt-BR": "Livro 8"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Book 9"
+        "en-US": "Book 9",
+        "pt-BR": "Livro 9"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Book 10"
+        "en-US": "Book 10",
+        "pt-BR": "Livro 10"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Book 11"
+        "en-US": "Book 11",
+        "pt-BR": "Livro 11"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "en-US": "Book 12"
+        "en-US": "Book 12",
+        "pt-BR": "Livro 12"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "en-US": "Book 13"
+        "en-US": "Book 13",
+        "pt-BR": "Livro 13"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "en-US": "Book 14"
+        "en-US": "Book 14",
+        "pt-BR": "Livro 14"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "en-US": "Book 15"
+        "en-US": "Book 15",
+        "pt-BR": "Livro 15"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "en-US": "Book 16"
+        "en-US": "Book 16",
+        "pt-BR": "Livro 16"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "en-US": "Book 17"
+        "en-US": "Book 17",
+        "pt-BR": "Livro 17"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "en-US": "Book 18"
+        "en-US": "Book 18",
+        "pt-BR": "Livro 18"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "en-US": "Book 19"
+        "en-US": "Book 19",
+        "pt-BR": "Livro 19"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "en-US": "Book 20"
+        "en-US": "Book 20",
+        "pt-BR": "Livro 20"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "en-US": "Book 21"
+        "en-US": "Book 21",
+        "pt-BR": "Livro 21"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "en-US": "Book 22"
+        "en-US": "Book 22",
+        "pt-BR": "Livro 22"
       }
     }
   ],
