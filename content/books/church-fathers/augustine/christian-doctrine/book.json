@@ -2,13 +2,16 @@
   "id": "augustine-christian-doctrine",
   "cover": "quarter",
   "name": {
-    "en-US": "Christian Doctrine"
+    "en-US": "Christian Doctrine",
+    "pt-BR": "A Doutrina Cristã"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,31 +24,36 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "PREFACE"
+        "en-US": "PREFACE",
+        "pt-BR": "PREFÁCIO"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "On Christian Doctrine (Book I)"
+        "en-US": "On Christian Doctrine (Book I)",
+        "pt-BR": "Sobre a Doutrina Cristã (Livro I)"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "On Christian Doctrine (Book II)"
+        "en-US": "On Christian Doctrine (Book II)",
+        "pt-BR": "Sobre a Doutrina Cristã (Livro II)"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "On Christian Doctrine (Book III)"
+        "en-US": "On Christian Doctrine (Book III)",
+        "pt-BR": "Sobre a Doutrina Cristã (Livro III)"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "On Christian Doctrine (Book IV)"
+        "en-US": "On Christian Doctrine (Book IV)",
+        "pt-BR": "Sobre a Doutrina Cristã (Livro IV)"
       }
     }
   ],
