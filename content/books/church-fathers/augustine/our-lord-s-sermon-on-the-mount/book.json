@@ -2,13 +2,16 @@
   "id": "augustine-our-lord-s-sermon-on-the-mount",
   "cover": "quarter",
   "name": {
-    "en-US": "Our Lord's Sermon on the Mount"
+    "en-US": "Our Lord's Sermon on the Mount",
+    "pt-BR": "O Sermão de Nosso Senhor na Montanha"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,17 +24,21 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book One"
+        "en-US": "Book One",
+        "pt-BR": "Livro Primeiro"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book Two"
+        "en-US": "Book Two",
+        "pt-BR": "Livro Segundo"
       }
     }
   ],
-  "commentsOn": ["matthew"],
+  "commentsOn": [
+    "matthew"
+  ],
   "arrived": {
     "en-US": "2026-06-04"
   }
