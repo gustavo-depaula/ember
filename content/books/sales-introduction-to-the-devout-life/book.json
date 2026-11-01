@@ -2,29 +2,44 @@
   "id": "sales-introduction-to-the-devout-life",
   "cover": "classic",
   "name": {
+    "fr-FR": "Introduction à la vie dévote",
     "en-US": "Introduction to the Devout Life",
     "pt-BR": "Introdução à Vida Devota"
   },
   "languages": [
+    "fr-FR",
     "en-US",
     "pt-BR"
   ],
   "author": {
+    "fr-FR": "Saint François de Sales",
     "en-US": "St. Francis of Sales",
     "pt-BR": "São Francisco de Sales"
   },
   "composed": 1609,
   "sources": [
     {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Introduction_à_la_vie_dévote_(Boulenger)/Texte_entier",
+      "edition": "Introduction à la vie dévote, texte de 1619 établi par Fernand Boulenger, Paris: Garnier, 1909 (original spelling, modernized only in typography). Proofread transcription on French Wikisource (validated, category \"Bon pour export\"), taken from the \"Texte entier\" page.",
+      "description": "Francis's text with Boulenger's footnotes, kept as markdown footnotes. Boulenger's front matter (Mgr Baunard's letter, the introduction \"La Philothée de Saint François de Sales\"), the lexicon and the table of contents are not included.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; Boulenger's edition was published in 1909 (public domain in the US, published before 1930) and Boulenger died in 1934, so his notes are public domain in France too (life+70, since 2005). Wikisource's transcription is CC BY-SA, but the underlying text is public domain."
+    },
+    {
       "language": "en-US",
       "url": "https://www.ccel.org/ccel/desales/devout_life/",
-      "description": "Christian Classics Ethereal Library (ccel.org)"
+      "description": "Christian Classics Ethereal Library (ccel.org)",
+      "tier": "A",
+      "tierEvidence": "Anonymous nineteenth-century translation; CCEL marks it Public Domain.",
+      "edition": "Introduction to the Devout Life, anonymous translation, Rivingtons edition (CCEL e-text)."
     }
   ],
   "toc": [
     {
       "id": "title-page",
       "title": {
+        "fr-FR": "Page de titre",
         "en-US": "Title Page",
         "pt-BR": "Página de Rosto"
       },
@@ -32,6 +47,7 @@
         {
           "id": "title-page-preface-by",
           "title": {
+            "fr-FR": "Préface de l’auteur",
             "en-US": "Preface by the Author",
             "pt-BR": "Prefácio do Autor"
           }
@@ -41,6 +57,7 @@
     {
       "id": "part-i",
       "title": {
+        "fr-FR": "PREMIÈRE PARTIE. Contenant les avis et exercices requis pour conduire l’âme dès son premier désir de la vie dévote jusques à une entière résolution de l’embrasser.",
         "en-US": "PART I. COUNSELS AND PRACTICES SUITABLE FOR THE SOUL'S GUIDANCE FROM THE FIRST ASPIRATION AFTER A DEVOUT LIFE TO THE POINT WHEN IT ATTAINS A CONFIRMED RESOLUTION TO FOLLOW THE SAME.",
         "pt-BR": "PARTE I. CONSELHOS E PRÁTICAS APROPRIADOS À ORIENTAÇÃO DA ALMA DESDE A PRIMEIRA ASPIRAÇÃO À VIDA DEVOTA ATÉ O MOMENTO EM QUE ELA ATINGE UMA RESOLUÇÃO FIRME DE SEGUI-LA."
       },
@@ -48,6 +65,7 @@
         {
           "id": "part-i-chapter-i",
           "title": {
+            "fr-FR": "CHAPITRE I. Description de la vraie dévotion.",
             "en-US": "CHAPTER I. What true Devotion is.",
             "pt-BR": "CAPÍTULO I. Que coisa é a verdadeira Devoção."
           }
@@ -55,6 +73,7 @@
         {
           "id": "part-i-chapter-ii",
           "title": {
+            "fr-FR": "CHAPITRE II. Propriété et excellence de la dévotion.",
             "en-US": "CHAPTER II. The Nature and Excellence of Devotion.",
             "pt-BR": "CAPÍTULO II. Da Natureza e Excelência da Devoção."
           }
@@ -62,6 +81,7 @@
         {
           "id": "part-i-chapter-iii",
           "title": {
+            "fr-FR": "CHAPITRE III. Que la dévotion est convenable a toutes sortes de vocations et professions.",
             "en-US": "CHAPTER III. Devotion is suitable to every Vocation and Profession.",
             "pt-BR": "CAPÍTULO III. A Devoção convém a toda Vocação e Profissão."
           }
@@ -69,6 +89,7 @@
         {
           "id": "part-i-chapter-iv",
           "title": {
+            "fr-FR": "CHAPITRE IV. De la nécessité d’un conducteur pour entrer et faire progrès en la dévotion.",
             "en-US": "CHAPTER IV. The Need of a Guide for those who would enter upon and advance in the Devout Life.",
             "pt-BR": "CAPÍTULO IV. Da Necessidade de um Guia para os que querem entrar e adiantar-se na Vida Devota."
           }
@@ -76,6 +97,7 @@
         {
           "id": "part-i-chapter-v",
           "title": {
+            "fr-FR": "CHAPITRE V. Qu’il faut commencer par la purgation de l’âme.",
             "en-US": "CHAPTER V. The First Step must be Purifying the Soul.",
             "pt-BR": "CAPÍTULO V. O Primeiro Passo deve ser Purificar a Alma."
           }
@@ -83,6 +105,7 @@
         {
           "id": "part-i-chapter-vi",
           "title": {
+            "fr-FR": "CHAPITRE VI. De la première purgation, qui est celle des péchés mortels.",
             "en-US": "CHAPTER VI. The First Purification, namely, from Mortal Sin.",
             "pt-BR": "CAPÍTULO VI. A Primeira Purificação, isto é, do Pecado Mortal."
           }
@@ -90,6 +113,7 @@
         {
           "id": "part-i-chapter-vii",
           "title": {
+            "fr-FR": "CHAPITRE VII. De la seconde purgation, qui est celle des affections du péché.",
             "en-US": "CHAPTER VII. The Second Purification, from all Sinful Affections.",
             "pt-BR": "CAPÍTULO VII. A Segunda Purificação, de todas as Afeições Pecaminosas."
           }
@@ -97,6 +121,7 @@
         {
           "id": "part-i-chapter-viii",
           "title": {
+            "fr-FR": "CHAPITRE VIII. Du moyen de faire cette seconde purgation.",
             "en-US": "CHAPTER VIII. How to effect this Second Purification.",
             "pt-BR": "CAPÍTULO VIII. Como efetuar esta Segunda Purificação."
           }
@@ -104,6 +129,7 @@
         {
           "id": "part-i-chapter-ix",
           "title": {
+            "fr-FR": "CHAPITRE IX. Méditation I. De la création.",
             "en-US": "CHAPTER IX. FIRST MEDITATION.",
             "pt-BR": "CAPÍTULO IX. PRIMEIRA MEDITAÇÃO."
           }
@@ -111,6 +137,7 @@
         {
           "id": "part-i-chapter-x",
           "title": {
+            "fr-FR": "CHAPITRE X. Méditation II. De la fin pour laquelle nous sommes créés.",
             "en-US": "CHAPTER X. SECOND MEDITATION",
             "pt-BR": "CAPÍTULO X. SEGUNDA MEDITAÇÃO"
           }
@@ -118,6 +145,7 @@
         {
           "id": "part-i-chapter-xi",
           "title": {
+            "fr-FR": "CHAPITRE XI. Méditation III. Des bénéfices de Dieu.",
             "en-US": "CHAPTER XI. THIRD MEDITATION.",
             "pt-BR": "CAPÍTULO XI. TERCEIRA MEDITAÇÃO."
           }
@@ -125,6 +153,7 @@
         {
           "id": "part-i-chapter-xii",
           "title": {
+            "fr-FR": "CHAPITRE XII. Méditation IV. Des péchés.",
             "en-US": "CHAPTER XII. FOURTH MEDITATION.",
             "pt-BR": "CAPÍTULO XII. QUARTA MEDITAÇÃO."
           }
@@ -132,6 +161,7 @@
         {
           "id": "part-i-chapter-xiii",
           "title": {
+            "fr-FR": "CHAPITRE XIII. Méditation V. De la mort.",
             "en-US": "CHAPTER XIII. FIFTH MEDITATION.",
             "pt-BR": "CAPÍTULO XIII. QUINTA MEDITAÇÃO."
           }
@@ -139,6 +169,7 @@
         {
           "id": "part-i-chapter-xiv",
           "title": {
+            "fr-FR": "CHAPITRE XIV. Méditation VI. Du jugement.",
             "en-US": "CHAPTER XIV. SIXTH MEDITATION.",
             "pt-BR": "CAPÍTULO XIV. SEXTA MEDITAÇÃO."
           }
@@ -146,6 +177,7 @@
         {
           "id": "part-i-chapter-xv",
           "title": {
+            "fr-FR": "CHAPITRE XV. Méditation VII. De l’enfer.",
             "en-US": "CHAPTER XV. SEVENTH MEDITATION.",
             "pt-BR": "CAPÍTULO XV. SÉTIMA MEDITAÇÃO."
           }
@@ -153,6 +185,7 @@
         {
           "id": "part-i-chapter-xvi",
           "title": {
+            "fr-FR": "CHAPITRE XVI. Méditation VIII. Du paradis.",
             "en-US": "CHAPTER XVI. EIGHTH MEDITATION.",
             "pt-BR": "CAPÍTULO XVI. OITAVA MEDITAÇÃO."
           }
@@ -160,6 +193,7 @@
         {
           "id": "part-i-chapter-xvii",
           "title": {
+            "fr-FR": "CHAPITRE XVII. Méditation IX. Par manière d’élection et choix du paradis.",
             "en-US": "CHAPTER XVII. NINTH MEDITATION.",
             "pt-BR": "CAPÍTULO XVII. NONA MEDITAÇÃO."
           }
@@ -167,6 +201,7 @@
         {
           "id": "part-i-chapter-xviii",
           "title": {
+            "fr-FR": "CHAPITRE XVIII. Méditation X. Par manière d’élection et choix que l’âme fait de la vie dévote.",
             "en-US": "CHAPTER XVIII. TENTH MEDITATION.",
             "pt-BR": "CAPÍTULO XVIII. DÉCIMA MEDITAÇÃO."
           }
@@ -174,6 +209,7 @@
         {
           "id": "part-i-chapter-xix",
           "title": {
+            "fr-FR": "CHAPITRE XIX. Comme il faut faire la confession générale.",
             "en-US": "CHAPTER XIX. How to make a General Confession.",
             "pt-BR": "CAPÍTULO XIX. Como fazer uma Confissão Geral."
           }
@@ -181,6 +217,7 @@
         {
           "id": "part-i-chapter-xx",
           "title": {
+            "fr-FR": "CHAPITRE XX. Protestation authentique pour graver en l’âme la résolution de servir Dieu et conclure les actes de pénitence.",
             "en-US": "CHAPTER XX. A hearty Protest made with the object of confirming the Soul's resolution to serve God, as a conclusion to its acts of Penitence.",
             "pt-BR": "CAPÍTULO XX. Protestação fervorosa feita com o objetivo de confirmar a Resolução da Alma de servir a Deus, como conclusão dos seus atos de Penitência."
           }
@@ -188,6 +225,7 @@
         {
           "id": "part-i-chapter-xxi",
           "title": {
+            "fr-FR": "CHAPITRE XXI. Conclusion pour cette première purgation.",
             "en-US": "CHAPTER XXI. Conclusion of this First Purification.",
             "pt-BR": "CAPÍTULO XXI. Conclusão desta Primeira Purificação."
           }
@@ -195,6 +233,7 @@
         {
           "id": "part-i-chapter-xxii",
           "title": {
+            "fr-FR": "CHAPITRE XXII. Qu’il se faut purger des affections que l’on a aux péchés véniels.",
             "en-US": "CHAPTER XXII. The Necessity of Purging away all tendency to Venial Sins.",
             "pt-BR": "CAPÍTULO XXII. Da Necessidade de Purgar toda Inclinação aos Pecados Veniais."
           }
@@ -202,6 +241,7 @@
         {
           "id": "part-i-chapter-xxiii",
           "title": {
+            "fr-FR": "CHAPITRE XXIII. Qu’il se faut purger de l’affection aux choses inutiles et dangereuses.",
             "en-US": "CHAPTER XXIII. It is needful to put away all Inclination for Useless and Dangerous Things.",
             "pt-BR": "CAPÍTULO XXIII. É preciso afastar toda Inclinação por Coisas Inúteis e Perigosas."
           }
@@ -209,6 +249,7 @@
         {
           "id": "part-i-chapter-xxiv",
           "title": {
+            "fr-FR": "CHAPITRE XXIV. Qu’il se faut purger des mauvaises inclinations.",
             "en-US": "CHAPTER XXIV. All Evil Inclinations must be purged away.",
             "pt-BR": "CAPÍTULO XXIV. Todas as Más Inclinações devem ser purgadas."
           }
@@ -218,6 +259,7 @@
     {
       "id": "part-ii",
       "title": {
+        "fr-FR": "SECONDE PARTIE. Contenant divers avis pour l’élévation de l’âme à Dieu par l’oraison et les sacrements.",
         "en-US": "PART II. CONTAINING SUNDRY COUNSELS AS TO UPLIFTING THE SOUL TO GOD IN PRAYER AND THE USE OF THE SACRAMENTS.",
         "pt-BR": "PARTE II. CONTENDO DIVERSOS CONSELHOS PARA ELEVAR A ALMA A DEUS PELA ORAÇÃO E PELO USO DOS SACRAMENTOS."
       },
@@ -225,6 +267,7 @@
         {
           "id": "part-ii-chapter-i",
           "title": {
+            "fr-FR": "CHAPITRE I. De la nécessité de l’oraison.",
             "en-US": "CHAPTER I. The Necessity of Prayer.",
             "pt-BR": "CAPÍTULO I. A Necessidade da Oração."
           }
@@ -232,6 +275,7 @@
         {
           "id": "part-ii-chapter-ii",
           "title": {
+            "fr-FR": "CHAPITRE II. Brève méthode pour la méditation, et premièrement de la présence de Dieu, premier point de la préparation.",
             "en-US": "CHAPTER II. A short Method of Meditation. And first, the Presence of God, the First Point of Preparation.",
             "pt-BR": "CAPÍTULO II. Breve Método de Meditação. E primeiramente, a Presença de Deus, Primeiro Ponto da Preparação."
           }
@@ -239,6 +283,7 @@
         {
           "id": "part-ii-chapter-iii",
           "title": {
+            "fr-FR": "CHAPITRE III. De l’invocation, second point de la préparation.",
             "en-US": "CHAPTER III. Invocation, the Second Point of Preparation.",
             "pt-BR": "CAPÍTULO III. A Invocação, Segundo Ponto da Preparação."
           }
@@ -246,6 +291,7 @@
         {
           "id": "part-ii-chapter-iv",
           "title": {
+            "fr-FR": "CHAPITRE IV. De la proposition du mystère, troisième point de la préparation.",
             "en-US": "CHAPTER IV. The Third Point of Preparation, representing the Mystery to be meditated to Your Imagination.",
             "pt-BR": "CAPÍTULO IV. Terceiro Ponto da Preparação: Representar à Imaginação o Mistério a Meditar."
           }
@@ -253,6 +299,7 @@
         {
           "id": "part-ii-chapter-v",
           "title": {
+            "fr-FR": "CHAPITRE V. Des considérations, seconde partie de la méditation.",
             "en-US": "CHAPTER V. Considerations, the Second Part of Meditation.",
             "pt-BR": "CAPÍTULO V. As Considerações, Segunda Parte da Meditação."
           }
@@ -260,6 +307,7 @@
         {
           "id": "part-ii-chapter-vi",
           "title": {
+            "fr-FR": "CHAPITRE VI. Des affections et résolutions, troisième partie de la méditation.",
             "en-US": "CHAPTER VI. The Third Part of Meditation, Affections and Resolutions.",
             "pt-BR": "CAPÍTULO VI. Terceira Parte da Meditação: Afetos e Resoluções."
           }
@@ -267,6 +315,7 @@
         {
           "id": "part-ii-chapter-vii",
           "title": {
+            "fr-FR": "CHAPITRE VII. De la conclusion et bouquet spirituel.",
             "en-US": "CHAPTER VII. The Conclusion and Spiritual Bouquet.",
             "pt-BR": "CAPÍTULO VII. A Conclusão e o Ramalhete Espiritual."
           }
@@ -274,6 +323,7 @@
         {
           "id": "part-ii-chapter-viii",
           "title": {
+            "fr-FR": "CHAPITRE VIII. Quelques avis très utiles sur le sujet de la méditation.",
             "en-US": "CHAPTER VIII. Some Useful Hints as to Meditation.",
             "pt-BR": "CAPÍTULO VIII. Alguns Conselhos Úteis sobre a Meditação."
           }
@@ -281,6 +331,7 @@
         {
           "id": "part-ii-chapter-ix",
           "title": {
+            "fr-FR": "CHAPITRE IX. Pour les sécheresses qui arrivent en la méditation.",
             "en-US": "CHAPTER IX. Concerning Dryness in Meditation.",
             "pt-BR": "CAPÍTULO IX. Sobre a Aridez na Meditação."
           }
@@ -288,6 +339,7 @@
         {
           "id": "part-ii-chapter-x",
           "title": {
+            "fr-FR": "CHAPITRE X. Exercice pour le matin.",
             "en-US": "CHAPTER X. Morning Prayer.",
             "pt-BR": "CAPÍTULO X. A Oração da Manhã."
           }
@@ -295,6 +347,7 @@
         {
           "id": "part-ii-chapter-xi",
           "title": {
+            "fr-FR": "CHAPITRE XI. De l’exercice du soir et de l’examen de conscience.",
             "en-US": "CHAPTER XI. Evening Prayer and Examination of Conscience.",
             "pt-BR": "CAPÍTULO XI. A Oração da Noite e o Exame de Consciência."
           }
@@ -302,6 +355,7 @@
         {
           "id": "part-ii-chapter-xii",
           "title": {
+            "fr-FR": "CHAPITRE XII. De la retraite spirituelle.",
             "en-US": "CHAPTER XII. On Spiritual Retirement.",
             "pt-BR": "CAPÍTULO XII. Sobre o Retiro Espiritual."
           }
@@ -309,6 +363,7 @@
         {
           "id": "part-ii-chapter-xiii",
           "title": {
+            "fr-FR": "CHAPITRE XIII. Des aspirations, oraisons jaculatoires et bonnes pensées.",
             "en-US": "CHAPTER XIII. Aspirations, Ejaculatory Prayer and Holy Thoughts.",
             "pt-BR": "CAPÍTULO XIII. Aspirações, Oração Jaculatória e Pensamentos Santos."
           }
@@ -316,6 +371,7 @@
         {
           "id": "part-ii-chapter-xiv",
           "title": {
+            "fr-FR": "CHAPITRE XIV. De la très sainte messe et comme il la faut ouïr.",
             "en-US": "CHAPTER XIV. Of Holy Communion, and how to join in it.",
             "pt-BR": "CAPÍTULO XIV. Da Sagrada Comunhão e como participar dela."
           }
@@ -323,6 +379,7 @@
         {
           "id": "part-ii-chapter-xv",
           "title": {
+            "fr-FR": "CHAPITRE XV. Des autres exercices publics et communs.",
             "en-US": "CHAPTER XV. Of the other Public Offices of the Church.",
             "pt-BR": "CAPÍTULO XV. Dos demais Ofícios Públicos da Igreja."
           }
@@ -330,6 +387,7 @@
         {
           "id": "part-ii-chapter-xvi",
           "title": {
+            "fr-FR": "CHAPITRE XVI. Qu’il faut honorer et invoquer les saints.",
             "en-US": "CHAPTER XVI. How the Saints are united to us.",
             "pt-BR": "CAPÍTULO XVI. Como os Santos Se Unem a Nós."
           }
@@ -337,6 +395,7 @@
         {
           "id": "part-ii-chapter-xvii",
           "title": {
+            "fr-FR": "CHAPITRE XVII. Comme il faut ouïr et lire la parole de Dieu.",
             "en-US": "CHAPTER XVII. How to Hear and Read God's Word.",
             "pt-BR": "CAPÍTULO XVII. Como Ouvir e Ler a Palavra de Deus."
           }
@@ -344,6 +403,7 @@
         {
           "id": "part-ii-chapter-xviii",
           "title": {
+            "fr-FR": "CHAPITRE XVIII. Comme il faut recevoir les inspirations.",
             "en-US": "CHAPTER XVIII. How to receive Inspirations.",
             "pt-BR": "CAPÍTULO XVIII. Como Receber as Inspirações."
           }
@@ -351,6 +411,7 @@
         {
           "id": "part-ii-chapter-xix",
           "title": {
+            "fr-FR": "CHAPITRE XIX. De la sainte confession.",
             "en-US": "CHAPTER XIX. On Confession.",
             "pt-BR": "CAPÍTULO XIX. Sobre a Confissão."
           }
@@ -358,6 +419,7 @@
         {
           "id": "part-ii-chapter-xx",
           "title": {
+            "fr-FR": "CHAPITRE XX. De la fréquente communion.",
             "en-US": "CHAPTER XX. Of Frequent Communion.",
             "pt-BR": "CAPÍTULO XX. Da Comunhão Frequente."
           }
@@ -365,6 +427,7 @@
         {
           "id": "part-ii-chapter-xxi",
           "title": {
+            "fr-FR": "CHAPITRE XXI. Comme il faut communier.",
             "en-US": "CHAPTER XXI. How to Communicate.",
             "pt-BR": "CAPÍTULO XXI. Como Comungar."
           }
@@ -374,6 +437,7 @@
     {
       "id": "part-iii",
       "title": {
+        "fr-FR": "TROISIÈME PARTIE. Contenant plusieurs avis touchant l’exercice des vertus.",
         "en-US": "PART III. CONTAINING COUNSELS CONCERNING THE PRACTICE OF VIRTUE.",
         "pt-BR": "PARTE III. CONTENDO CONSELHOS A RESPEITO DA PRÁTICA DA VIRTUDE."
       },
@@ -381,6 +445,7 @@
         {
           "id": "part-iii-chapter-i",
           "title": {
+            "fr-FR": "CHAPITRE I. Du choix que l’on doit faire quant à l’exercice des vertus.",
             "en-US": "CHAPTER I. How to select that which we should chiefly Practise.",
             "pt-BR": "CAPÍTULO I. Como Escolher Aquilo que Principalmente Devemos Praticar."
           }
@@ -388,6 +453,7 @@
         {
           "id": "part-iii-chapter-ii",
           "title": {
+            "fr-FR": "CHAPITRE II. Suite du même discours du choix des vertus.",
             "en-US": "CHAPTER II. The same Subject continued.",
             "pt-BR": "CAPÍTULO II. Continuação do Mesmo Assunto."
           }
@@ -395,6 +461,7 @@
         {
           "id": "part-iii-chapter-iii",
           "title": {
+            "fr-FR": "CHAPITRE III. De la patience.",
             "en-US": "CHAPTER III. On Patience.",
             "pt-BR": "CAPÍTULO III. Da Paciência."
           }
@@ -402,6 +469,7 @@
         {
           "id": "part-iii-chapter-iv",
           "title": {
+            "fr-FR": "CHAPITRE IV. De l’humilité pour l’extérieur.",
             "en-US": "CHAPTER IV. On Greater Humility.",
             "pt-BR": "CAPÍTULO IV. Da Humildade Maior."
           }
@@ -409,6 +477,7 @@
         {
           "id": "part-iii-chapter-v",
           "title": {
+            "fr-FR": "CHAPITRE V. De l’humilité plus intérieure.",
             "en-US": "CHAPTER V. On Interior Humility.",
             "pt-BR": "CAPÍTULO V. Da Humildade Interior."
           }
@@ -416,6 +485,7 @@
         {
           "id": "part-iii-chapter-vi",
           "title": {
+            "fr-FR": "CHAPITRE VI. Que l’humilité nous fait aimer notre propre abjection.",
             "en-US": "CHAPTER VI. Humility makes us rejoice in our own Abjection.",
             "pt-BR": "CAPÍTULO VI. A Humildade nos Faz Alegrar com a Nossa Própria Abjeção."
           }
@@ -423,6 +493,7 @@
         {
           "id": "part-iii-chapter-vii",
           "title": {
+            "fr-FR": "CHAPITRE VII. Comme il faut conserver la bonne renommée pratiquant l’humilité.",
             "en-US": "CHAPTER VII. How to combine due care for a Good Reputation with Humility.",
             "pt-BR": "CAPÍTULO VII. Como Conciliar o Devido Cuidado da Boa Fama com a Humildade."
           }
@@ -430,6 +501,7 @@
         {
           "id": "part-iii-chapter-viii",
           "title": {
+            "fr-FR": "CHAPITRE VIII. De la douceur envers le prochain et remède contre l’ire.",
             "en-US": "CHAPTER VIII. Gentleness towards others and Remedies against Anger.",
             "pt-BR": "CAPÍTULO VIII. Da Mansidão para com os Outros e Remédios contra a Ira."
           }
@@ -437,6 +509,7 @@
         {
           "id": "part-iii-chapter-ix",
           "title": {
+            "fr-FR": "CHAPITRE IX. De la douceur envers nous-mêmes.",
             "en-US": "CHAPTER IX. On Gentleness towards Ourselves.",
             "pt-BR": "CAPÍTULO IX. Da Mansidão para Conosco Mesmos."
           }
@@ -444,6 +517,7 @@
         {
           "id": "part-iii-chapter-x",
           "title": {
+            "fr-FR": "CHAPITRE X. Qu’il faut traiter des affaires avec soin, et sans empressement ni souci.",
             "en-US": "CHAPTER X. We must attend to the Business of Life carefully, but without Eagerness or Over-anxiety.",
             "pt-BR": "CAPÍTULO X. Devemos Atender aos Negócios da Vida com Cuidado, mas sem Afã nem Ansiedade Excessiva."
           }
@@ -451,6 +525,7 @@
         {
           "id": "part-iii-chapter-xi",
           "title": {
+            "fr-FR": "CHAPITRE XI. De l’obéissance.",
             "en-US": "CHAPTER XI. On Obedience.",
             "pt-BR": "CAPÍTULO XI. Da Obediência."
           }
@@ -458,6 +533,7 @@
         {
           "id": "part-iii-chapter-xii",
           "title": {
+            "fr-FR": "CHAPITRE XII. De la nécessité de la chasteté.",
             "en-US": "CHAPTER XII. On Purity.",
             "pt-BR": "CAPÍTULO XII. Da Pureza."
           }
@@ -465,6 +541,7 @@
         {
           "id": "part-iii-chapter-xiii",
           "title": {
+            "fr-FR": "CHAPITRE XIII. Avis pour conserver la chasteté.",
             "en-US": "CHAPTER XIII. How to maintain Purity.",
             "pt-BR": "CAPÍTULO XIII. Como Conservar a Pureza."
           }
@@ -472,6 +549,7 @@
         {
           "id": "part-iii-chapter-xiv",
           "title": {
+            "fr-FR": "CHAPITRE XIV. De la pauvreté d’esprit observée entre les richesses.",
             "en-US": "CHAPTER XIV. On Poverty of Spirit amid Riches.",
             "pt-BR": "CAPÍTULO XIV. Da Pobreza de Espírito em meio às Riquezas."
           }
@@ -479,6 +557,7 @@
         {
           "id": "part-iii-chapter-xv",
           "title": {
+            "fr-FR": "CHAPITRE XV. Comme il faut pratiquer la pauvreté réelle, demeurant néanmoins réellement riche.",
             "en-US": "CHAPTER XV. How to exercise real Poverty, although actually Rich.",
             "pt-BR": "CAPÍTULO XV. Como Exercer a Verdadeira Pobreza, ainda que Efetivamente Rico."
           }
@@ -486,6 +565,7 @@
         {
           "id": "part-iii-chapter-xvi",
           "title": {
+            "fr-FR": "CHAPITRE XVI. Pour pratiquer la richesse d’esprit emmi la pauvreté réelle.",
             "en-US": "CHAPTER XVI. How to possess a rich Spirit amid real Poverty.",
             "pt-BR": "CAPÍTULO XVI. Como Possuir um Espírito Rico em Meio à Pobreza Real."
           }
@@ -493,6 +573,7 @@
         {
           "id": "part-iii-chapter-xvii",
           "title": {
+            "fr-FR": "CHAPITRE XVII. De l’amitié, et premièrement de la mauvaise et frivole.",
             "en-US": "CHAPTER XVII. On Friendship: Evil and Frivolous Friendship.",
             "pt-BR": "CAPÍTULO XVII. Da Amizade: Amizades Más e Frívolas."
           }
@@ -500,6 +581,7 @@
         {
           "id": "part-iii-chapter-xviii",
           "title": {
+            "fr-FR": "CHAPITRE XVIII. Des amourettes.",
             "en-US": "CHAPTER XVIII. On Frivolous Attachments.",
             "pt-BR": "CAPÍTULO XVIII. Dos Apegos Frívolos."
           }
@@ -507,6 +589,7 @@
         {
           "id": "part-iii-chapter-xix",
           "title": {
+            "fr-FR": "CHAPITRE XIX. Des vraies amitiés.",
             "en-US": "CHAPTER XIX. Of Real Friendship.",
             "pt-BR": "CAPÍTULO XIX. Da Verdadeira Amizade."
           }
@@ -514,6 +597,7 @@
         {
           "id": "part-iii-chapter-xx",
           "title": {
+            "fr-FR": "CHAPITRE XX. De la différence des vraies et des vaines amitiés.",
             "en-US": "CHAPTER XX. Of the Difference between True and False Friendship.",
             "pt-BR": "CAPÍTULO XX. Da Diferença entre a Verdadeira e a Falsa Amizade."
           }
@@ -521,6 +605,7 @@
         {
           "id": "part-iii-chapter-xxi",
           "title": {
+            "fr-FR": "CHAPITRE XXI. Avis et remèdes contre les mauvaises amitiés.",
             "en-US": "CHAPTER XXI. Remedies against Evil Friendships.",
             "pt-BR": "CAPÍTULO XXI. Remédios contra as Más Amizades."
           }
@@ -528,6 +613,7 @@
         {
           "id": "part-iii-chapter-xxii",
           "title": {
+            "fr-FR": "CHAPITRE XXII. Quelques autres avis sur le sujet des amitiés.",
             "en-US": "CHAPTER XXII. Further Advice concerning Intimacies.",
             "pt-BR": "CAPÍTULO XXII. Outros Conselhos a Respeito das Intimidades."
           }
@@ -535,6 +621,7 @@
         {
           "id": "part-iii-chapter-xxiii",
           "title": {
+            "fr-FR": "CHAPITRE XXIII. Des exercices de la mortification extérieure.",
             "en-US": "CHAPTER XXIII. On The Practice of Bodily Mortification.",
             "pt-BR": "CAPÍTULO XXIII. Da Prática da Mortificação Corporal."
           }
@@ -542,6 +629,7 @@
         {
           "id": "part-iii-chapter-xxiv",
           "title": {
+            "fr-FR": "CHAPITRE XXIV. Des conversations et de la solitude.",
             "en-US": "CHAPTER XXIV. Of Society and Solitude.",
             "pt-BR": "CAPÍTULO XXIV. Da Sociedade e da Solidão."
           }
@@ -549,6 +637,7 @@
         {
           "id": "part-iii-chapter-xxv",
           "title": {
+            "fr-FR": "CHAPITRE XXV. De la bienséance des habits.",
             "en-US": "CHAPTER XXV. On Modesty in Dress.",
             "pt-BR": "CAPÍTULO XXV. Da Modéstia no Vestir."
           }
@@ -556,6 +645,7 @@
         {
           "id": "part-iii-chapter-xxvi",
           "title": {
+            "fr-FR": "CHAPITRE XXVI. Du parler, et premièrement comme il faut parler de Dieu.",
             "en-US": "CHAPTER XXVI. Of Conversation; and, first, how to Speak of God.",
             "pt-BR": "CAPÍTULO XXVI. Da Conversação; e, Primeiramente, como Falar de Deus."
           }
@@ -563,6 +653,7 @@
         {
           "id": "part-iii-chapter-xxvii",
           "title": {
+            "fr-FR": "CHAPITRE XXVII. De l’honnêteté des paroles et du respect que l’on doit aux personnes.",
             "en-US": "CHAPTER XXVII. Of Unseemly Words, and the Respect due to Others.",
             "pt-BR": "CAPÍTULO XXVII. Das Palavras Inconvenientes e do Respeito Devido aos Outros."
           }
@@ -570,6 +661,7 @@
         {
           "id": "part-iii-chapter-xxviii",
           "title": {
+            "fr-FR": "CHAPITRE XXVIII. Des jugements téméraires.",
             "en-US": "CHAPTER XXVIII. Of Hasty Judgments.",
             "pt-BR": "CAPÍTULO XXVIII. Dos Juízos Temerários."
           }
@@ -577,6 +669,7 @@
         {
           "id": "part-iii-chapter-xxix",
           "title": {
+            "fr-FR": "CHAPITRE XXIX. De la médisance.",
             "en-US": "CHAPTER XXIX. On Slander.",
             "pt-BR": "CAPÍTULO XXIX. Da Maledicência."
           }
@@ -584,6 +677,7 @@
         {
           "id": "part-iii-chapter-xxx",
           "title": {
+            "fr-FR": "CHAPITRE XXX. Quelques autres avis touchant le parler.",
             "en-US": "CHAPTER XXX. Further Counsels as to Conversation.",
             "pt-BR": "CAPÍTULO XXX. Outros Conselhos sobre a Conversação."
           }
@@ -591,6 +685,7 @@
         {
           "id": "part-iii-chapter-xxxi",
           "title": {
+            "fr-FR": "CHAPITRE XXXI. Des passe-temps et récréations, et premièrement des loisibles et louables.",
             "en-US": "CHAPTER XXXI. Of Amusements and Recreations: what are allowable.",
             "pt-BR": "CAPÍTULO XXXI. Dos divertimentos e recreações: quais são lícitos."
           }
@@ -598,6 +693,7 @@
         {
           "id": "part-iii-chapter-xxxii",
           "title": {
+            "fr-FR": "CHAPITRE XXXII. Des jeux défendus.",
             "en-US": "CHAPTER XXXII. Of Forbidden Amusements.",
             "pt-BR": "CAPÍTULO XXXII. Dos divertimentos proibidos."
           }
@@ -605,6 +701,7 @@
         {
           "id": "part-iii-chapter-xxxiii",
           "title": {
+            "fr-FR": "CHAPITRE XXXIII. Des bals et passe-temps loisibles mais dangereux.",
             "en-US": "CHAPTER XXXIII. Of Balls, and other Lawful but Dangerous Amusements.",
             "pt-BR": "CAPÍTULO XXXIII. Dos bailes e outros divertimentos lícitos, mas perigosos."
           }
@@ -612,6 +709,7 @@
         {
           "id": "part-iii-chapter-xxxiv",
           "title": {
+            "fr-FR": "CHAPITRE XXXIV. Quand on peut jouer ou danser.",
             "en-US": "CHAPTER XXXIV. When to use such Amusements rightly.",
             "pt-BR": "CAPÍTULO XXXIV. Quando se podem usar retamente tais divertimentos."
           }
@@ -619,6 +717,7 @@
         {
           "id": "part-iii-chapter-xxxv",
           "title": {
+            "fr-FR": "CHAPITRE XXXV. Qu’il faut être fidèle ès grandes et petites occasions.",
             "en-US": "CHAPTER XXXV. We must be Faithful in Things Great and Small.",
             "pt-BR": "CAPÍTULO XXXV. Devemos ser fiéis nas coisas grandes e pequenas."
           }
@@ -626,6 +725,7 @@
         {
           "id": "part-iii-chapter-xxxvi",
           "title": {
+            "fr-FR": "CHAPITRE XXXVI. Qu’il faut avoir l’esprit juste et raisonnable.",
             "en-US": "CHAPTER XXXVI. Of a Well-Balanced, Reasonable Mind.",
             "pt-BR": "CAPÍTULO XXXVI. Do espírito equilibrado e razoável."
           }
@@ -633,6 +733,7 @@
         {
           "id": "part-iii-chapter-xxxvii",
           "title": {
+            "fr-FR": "CHAPITRE XXXVII. Des désirs.",
             "en-US": "CHAPTER XXXVII. Of Wishes.",
             "pt-BR": "CAPÍTULO XXXVII. Dos Desejos."
           }
@@ -640,6 +741,7 @@
         {
           "id": "part-iii-chapter-xxxviii",
           "title": {
+            "fr-FR": "CHAPITRE XXXVIII. Avis pour les gens mariés.",
             "en-US": "CHAPTER XXXVIII. Counsels to Married People.",
             "pt-BR": "CAPÍTULO XXXVIII. Conselhos aos casados."
           }
@@ -647,6 +749,7 @@
         {
           "id": "part-iii-chapter-xxxix",
           "title": {
+            "fr-FR": "CHAPITRE XXXIX. De l’honnêteté du lit nuptial.",
             "en-US": "CHAPTER XXXIX. The Sanctity of the Marriage Bed.",
             "pt-BR": "CAPÍTULO XXXIX. Da santidade do leito conjugal."
           }
@@ -654,6 +757,7 @@
         {
           "id": "part-iii-chapter-xl",
           "title": {
+            "fr-FR": "CHAPITRE XL. Avis pour les veuves.",
             "en-US": "CHAPTER XL. Counsels to Widows.",
             "pt-BR": "CAPÍTULO XL. Conselhos às viúvas."
           }
@@ -661,6 +765,7 @@
         {
           "id": "part-iii-chapter-xli",
           "title": {
+            "fr-FR": "CHAPITRE XLI. Un mot aux vierges.",
             "en-US": "CHAPTER XLI. One Word to Maidens.",
             "pt-BR": "CAPÍTULO XLI. Uma palavra às virgens."
           }
@@ -670,6 +775,7 @@
     {
       "id": "part-iv",
       "title": {
+        "fr-FR": "QUATRIÈME PARTIE. Contenant les avis nécessaires contre les tentations plus ordinaires.",
         "en-US": "PART IV. CONTAINING NEEDFUL COUNSELS CONCERNING SOME ORDINARY TEMPTATIONS.",
         "pt-BR": "PARTE IV. CONTENDO CONSELHOS NECESSÁRIOS A RESPEITO DE ALGUMAS TENTAÇÕES COMUNS."
       },
@@ -677,6 +783,7 @@
         {
           "id": "part-iv-chapter-i",
           "title": {
+            "fr-FR": "CHAPITRE I. Qu’il ne faut point s’amuser aux paroles des enfants du monde.",
             "en-US": "CHAPTER I. We must not trifle with the Words of Worldly Wisdom.",
             "pt-BR": "CAPÍTULO I. Não Devemos Brincar com as Palavras da Sabedoria Mundana."
           }
@@ -684,6 +791,7 @@
         {
           "id": "part-iv-chapter-ii",
           "title": {
+            "fr-FR": "CHAPITRE II. Qu’il faut avoir bon courage.",
             "en-US": "CHAPTER II. The need of a Good Courage.",
             "pt-BR": "CAPÍTULO II. Da Necessidade do Bom Ânimo."
           }
@@ -691,6 +799,7 @@
         {
           "id": "part-iv-chapter-iii",
           "title": {
+            "fr-FR": "CHAPITRE III. De la nature des, tentations et de la différence qu’il y a entre sentir la tentation et consentir à icelle.",
             "en-US": "CHAPTER III. Of Temptations, and the difference between experiencing them and consenting to them.",
             "pt-BR": "CAPÍTULO III. Das Tentações e da Diferença entre Experimentá-las e Consentir Nelas."
           }
@@ -698,6 +807,7 @@
         {
           "id": "part-iv-chapter-iv",
           "title": {
+            "fr-FR": "CHAPITRE IV. Deux beaux exemples sur ce sujet.",
             "en-US": "CHAPTER IV. Two striking Illustrations of the same.",
             "pt-BR": "CAPÍTULO IV. Dois Exemplos Marcantes da Mesma Matéria."
           }
@@ -705,6 +815,7 @@
         {
           "id": "part-iv-chapter-v",
           "title": {
+            "fr-FR": "CHAPITRE V. Encouragement à l’âme qui est ès tentations.",
             "en-US": "CHAPTER V. Encouragement for the Tempted Soul.",
             "pt-BR": "CAPÍTULO V. Encorajamento para a Alma Tentada."
           }
@@ -712,6 +823,7 @@
         {
           "id": "part-iv-chapter-vi",
           "title": {
+            "fr-FR": "CHAPITRE VI. Comme la tentation et délectation peuvent être péché.",
             "en-US": "CHAPTER VI. When Temptation and Delectation are Sin.",
             "pt-BR": "CAPÍTULO VI. Quando a Tentação e a Deleitação são Pecado."
           }
@@ -719,6 +831,7 @@
         {
           "id": "part-iv-chapter-vii",
           "title": {
+            "fr-FR": "CHAPITRE VII. Remèdes aux grandes tentations.",
             "en-US": "CHAPTER VII. Remedies for Great Occasions.",
             "pt-BR": "CAPÍTULO VII. Remédios para as Grandes Ocasiões."
           }
@@ -726,6 +839,7 @@
         {
           "id": "part-iv-chapter-viii",
           "title": {
+            "fr-FR": "CHAPITRE VIII. Qu’il faut résister aux menues tentations.",
             "en-US": "CHAPTER VIII. How to resist Minor Temptations.",
             "pt-BR": "CAPÍTULO VIII. Como Resistir às Tentações Menores."
           }
@@ -733,6 +847,7 @@
         {
           "id": "part-iv-chapter-ix",
           "title": {
+            "fr-FR": "CHAPITRE IX. Comme il faut remédier aux menues tentations.",
             "en-US": "CHAPTER IX. How remedy Minor Temptations.",
             "pt-BR": "CAPÍTULO IX. Como Remediar as Tentações Menores."
           }
@@ -740,6 +855,7 @@
         {
           "id": "part-iv-chapter-x",
           "title": {
+            "fr-FR": "CHAPITRE X. Comme il faut fortifier son cœur contre les tentations.",
             "en-US": "CHAPTER X. How to strengthen the Heart against Temptation.",
             "pt-BR": "CAPÍTULO X. Como Fortalecer o Coração contra a Tentação."
           }
@@ -747,6 +863,7 @@
         {
           "id": "part-iv-chapter-xi",
           "title": {
+            "fr-FR": "CHAPITRE XI. De l’inquiétude.",
             "en-US": "CHAPTER XI. Anxiety of Mind.",
             "pt-BR": "CAPÍTULO XI. Da Inquietação da Alma."
           }
@@ -754,6 +871,7 @@
         {
           "id": "part-iv-chapter-xii",
           "title": {
+            "fr-FR": "CHAPITRE XII. De la tristesse.",
             "en-US": "CHAPTER XII. Of Sadness and Sorrow.",
             "pt-BR": "CAPÍTULO XII. Da Tristeza e da Dor."
           }
@@ -761,6 +879,7 @@
         {
           "id": "part-iv-chapter-xiii",
           "title": {
+            "fr-FR": "CHAPITRE XIII. Des consolations spirituelles et sensibles, et comme il se faut comporter en icelles.",
             "en-US": "CHAPTER XIII. Of Spiritual and Sensible Consolations, and how to receive them.",
             "pt-BR": "CAPÍTULO XIII. Das Consolações Espirituais e Sensíveis, e como recebê-las."
           }
@@ -768,6 +887,7 @@
         {
           "id": "part-iv-chapter-xiv",
           "title": {
+            "fr-FR": "CHAPITRE XIV. Des sécheresses et stérilités spirituelles.",
             "en-US": "CHAPTER XIV. Of Dryness and Spiritual Barrenness.",
             "pt-BR": "CAPÍTULO XIV. Da Aridez e da Esterilidade Espiritual."
           }
@@ -775,6 +895,7 @@
         {
           "id": "part-iv-chapter-xv",
           "title": {
+            "fr-FR": "CHAPITRE XV. Confirmation et éclaircissements de ce qui a été dit, par un exemple notable.",
             "en-US": "CHAPTER XV. An Illustration.",
             "pt-BR": "CAPÍTULO XV. Um Exemplo."
           }
@@ -784,6 +905,7 @@
     {
       "id": "part-v",
       "title": {
+        "fr-FR": "CINQUIÈME PARTIE. Contenant des exercices et avis pour renouveler l’ame et la confirmer dans la dévotion.",
         "en-US": "PART V. CONTAINING COUNSELS AND PRACTICES FOR RENEWING AND CONFIRMING THE SOUL IN DEVOTION.",
         "pt-BR": "PARTE V. CONTENDO CONSELHOS E PRÁTICAS PARA RENOVAR E CONFIRMAR A ALMA NA DEVOÇÃO."
       },
@@ -791,6 +913,7 @@
         {
           "id": "part-v-chapter-i",
           "title": {
+            "fr-FR": "CHAPITRE I. Qu’il faut chaque année renouveler les bons propos par les exercices suivants.",
             "en-US": "CHAPTER I. It is well yearly to renew Good Resolutions by means of the following Exercises.",
             "pt-BR": "CAPÍTULO I. Convém renovar todos os anos as Boas Resoluções por meio dos seguintes Exercícios."
           }
@@ -798,6 +921,7 @@
         {
           "id": "part-v-chapter-ii",
           "title": {
+            "fr-FR": "CHAPITRE II. Considération sur le bénéfice que Dieu nous fait, nous appelant à son service, selon la protestation mise ci-dessus.",
             "en-US": "CHAPTER II. Meditation on the Benefit conferred on us by God in calling us to His Service.",
             "pt-BR": "CAPÍTULO II. Meditação sobre o Benefício que Deus nos concedeu chamando-nos ao seu Serviço."
           }
@@ -805,6 +929,7 @@
         {
           "id": "part-v-chapter-iii",
           "title": {
+            "fr-FR": "CHAPITRE III. De l’examen de notre âme sur son avancement en la vie dévote.",
             "en-US": "CHAPTER III. Examination of the Soul as to its Progress in the Devout Life.",
             "pt-BR": "CAPÍTULO III. Exame da Alma quanto ao seu Progresso na Vida Devota."
           }
@@ -812,6 +937,7 @@
         {
           "id": "part-v-chapter-iv",
           "title": {
+            "fr-FR": "CHAPITRE IV. Examen de l’état de notre âme envers Dieu.",
             "en-US": "CHAPTER IV. Examination of the Soul's Condition as regards God.",
             "pt-BR": "CAPÍTULO IV. Exame da Condição da Alma quanto a Deus."
           }
@@ -819,6 +945,7 @@
         {
           "id": "part-v-chapter-v",
           "title": {
+            "fr-FR": "CHAPITRE V. Examen de notre état envers nous-mêmes.",
             "en-US": "CHAPTER V. Examination of your Condition as regards yourself.",
             "pt-BR": "CAPÍTULO V. Exame da tua Condição quanto a ti mesma."
           }
@@ -826,6 +953,7 @@
         {
           "id": "part-v-chapter-vi",
           "title": {
+            "fr-FR": "CHAPITRE VI. Examen de l’état de notre âme envers le prochain.",
             "en-US": "CHAPTER VI. Examination of the Soul's Condition as regards our Neighbour.",
             "pt-BR": "CAPÍTULO VI. Exame da Condição da Alma quanto ao Próximo."
           }
@@ -833,6 +961,7 @@
         {
           "id": "part-v-chapter-vii",
           "title": {
+            "fr-FR": "CHAPITRE VII. Examen sur les affections de notre âme.",
             "en-US": "CHAPTER VII. Examination as to the Affectations of the Soul.",
             "pt-BR": "CAPÍTULO VII. Exame quanto aos Afetos da Alma."
           }
@@ -840,6 +969,7 @@
         {
           "id": "part-v-chapter-viii",
           "title": {
+            "fr-FR": "CHAPITRE VIII. Affections qu’il faut faire après l’examen.",
             "en-US": "CHAPTER VIII. The Affections to be excited after such Examination.",
             "pt-BR": "CAPÍTULO VIII. Os Afetos a serem despertados depois deste Exame."
           }
@@ -847,6 +977,7 @@
         {
           "id": "part-v-chapter-ix",
           "title": {
+            "fr-FR": "CHAPITRE IX. Des considérations propres pour renouveler nos bons propos.",
             "en-US": "CHAPTER IX. Reflections suitable to the renewal of Good Resolutions.",
             "pt-BR": "CAPÍTULO IX. Reflexões adequadas à Renovação das Boas Resoluções."
           }
@@ -854,6 +985,7 @@
         {
           "id": "part-v-chapter-x",
           "title": {
+            "fr-FR": "CHAPITRE X. Considération première : de l’excellence de nos âmes.",
             "en-US": "CHAPTER X. First Consideration--of the Worth of Souls.",
             "pt-BR": "CAPÍTULO X. Primeira Consideração — do Valor das Almas."
           }
@@ -861,6 +993,7 @@
         {
           "id": "part-v-chapter-xi",
           "title": {
+            "fr-FR": "CHAPITRE XI. Seconde considération : de l’excellence des vertus.",
             "en-US": "CHAPTER XI. Second Consideration--on the Excellence of Virtue.",
             "pt-BR": "CAPÍTULO XI. Segunda Consideração — sobre a Excelência da Virtude."
           }
@@ -868,6 +1001,7 @@
         {
           "id": "part-v-chapter-xii",
           "title": {
+            "fr-FR": "CHAPITRE XII. Troisième considération : sur l’exemple des saints.",
             "en-US": "CHAPTER XII. The Example of the Saints.",
             "pt-BR": "CAPÍTULO XII. O Exemplo dos Santos."
           }
@@ -875,6 +1009,7 @@
         {
           "id": "part-v-chapter-xiii",
           "title": {
+            "fr-FR": "CHAPITRE XIII. Quatrième considération : de l’amour que Jésus-Christ nous porte.",
             "en-US": "CHAPTER XIII. The Love which Jesus Christ bears to us.",
             "pt-BR": "CAPÍTULO XIII. O Amor que Jesus Cristo nos tem."
           }
@@ -882,6 +1017,7 @@
         {
           "id": "part-v-chapter-xiv",
           "title": {
+            "fr-FR": "CHAPITRE XIV. Cinquième considération : de l’amour éternel de Dieu envers nous.",
             "en-US": "CHAPTER XIV. The Eternal Love of God for us.",
             "pt-BR": "CAPÍTULO XIV. O Amor Eterno de Deus por nós."
           }
@@ -889,6 +1025,7 @@
         {
           "id": "part-v-chapter-xv",
           "title": {
+            "fr-FR": "CHAPITRE XV. Affections générales sur les considérations précédentes, et conclusion de l’exercice.",
             "en-US": "CHAPTER XV. General Affections which should result from these Considerations, and Conclusion of the Exercise.",
             "pt-BR": "CAPÍTULO XV. Afetos Gerais que devem resultar destas Considerações, e Conclusão do Exercício."
           }
@@ -896,6 +1033,7 @@
         {
           "id": "part-v-chapter-xvi",
           "title": {
+            "fr-FR": "CHAPITRE XVI. Des ressentiments qu’il faut garder après cet exercice.",
             "en-US": "CHAPTER XVI. The Impressions which should remain after this Exercise.",
             "pt-BR": "CAPÍTULO XVI. As Impressões que devem permanecer depois deste Exercício."
           }
@@ -903,6 +1041,7 @@
         {
           "id": "part-v-chapter-xvii",
           "title": {
+            "fr-FR": "CHAPITRE XVII. Réponse à deux objections qui peuvent être faites sur cette Introduction.",
             "en-US": "CHAPTER XVII. An Answer to Two Objections which may be made to this Book.",
             "pt-BR": "CAPÍTULO XVII. Resposta a Duas Objeções que se podem fazer a este Livro."
           }
@@ -910,6 +1049,7 @@
         {
           "id": "part-v-chapter-xviii",
           "title": {
+            "fr-FR": "CHAPITRE XVIII. Trois derniers et principaux avis pour cette Introduction.",
             "en-US": "CHAPTER XVIII. Three Important and Final Counsels.",
             "pt-BR": "CAPÍTULO XVIII. Três Conselhos Importantes e Finais."
           }
@@ -918,7 +1058,28 @@
     }
   ],
   "arrived": {
+    "fr-FR": "2026-11-01",
     "en-US": "2026-05-19",
     "pt-BR": "2026-05-19"
+  },
+  "description": {
+    "fr-FR": "Le guide de saint François de Sales (1608-1609, texte définitif de 1619) pour mener la vie chrétienne au milieu du monde : cinq parties de conseils et d’exercices, écrits pour Philothée, qui veut aimer Dieu dans sa condition ordinaire.",
+    "en-US": "St. Francis de Sales's guide (1609; definitive text 1619) to living a devout life in the midst of the world: five parts of counsels and exercises written for Philothea, who wishes to love God in her ordinary state of life. The original French is Boulenger's edition of the 1619 text; the English is an anonymous nineteenth-century translation.",
+    "pt-BR": "O guia de São Francisco de Sales (1609; texto definitivo de 1619) para viver a vida devota no meio do mundo: cinco partes de conselhos e exercícios escritos para Filoteia, que deseja amar a Deus em seu estado de vida comum."
+  },
+  "work": "francis-de-sales/introduction",
+  "editions": {
+    "fr-FR": {
+      "editor": "Fernand Boulenger",
+      "year": 1909
+    },
+    "en-US": {
+      "translator": "Anonymous (Rivingtons edition)"
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "year": 2026,
+      "from": "en-US"
+    }
   }
 }

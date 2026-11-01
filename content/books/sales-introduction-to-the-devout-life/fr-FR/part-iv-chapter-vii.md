@@ -1,0 +1,15 @@
+# CHAPITRE VII. Remèdes aux grandes tentations.
+
+Sitôt que vous sentez en vous quelques tentations, faites comme les petits enfants, quand ils voient le loup ou l’ours en la campagne ; car tout aussitôt, ils courent entre les bras de leur père et de leur mère, ou pour le moins les appellent à leur aide et secours. Recourez de même à Dieu, réclamant sa miséricorde et son secours : c’est le remède que Notre Seigneur enseigne : « Priez, afin que vous n’entriez point en tentation ».
+
+Si vous voyez que néanmoins la tentation persévère ou qu’elle accroisse, courez en esprit embrasser la sainte Croix, comme si vous voyiez Jésus-Christ crucifié devant vous ; protestez que vous ne consentirez point à la tentation et demandez-lui secours contre icelle, et continuez toujours à protester de ne vouloir point consentir, tandis que la tentation durera.
+
+Mais en faisant ces protestations et ces refus de consentement, ne regardez point au visage de la tentation, ains seulement regardez Notre Seigneur ; car si vous regardez la tentation, principalement quand elle est forte, elle pourrait ébranler votre courage.
+
+Divertissez votre esprit par quelques occupations bonnes et louables ; car ces occupations, entrant dedans votre cœur et prenant place, elles chasseront les tentations et suggestions malignes.
+
+Le grand remède contre toutes tentations, grandes ou petites, c’est de déployer son cœur, et de communiquer les suggestions, ressentiments et affections que nous avons, à notre directeur ; car notez que la première condition que le malin fait avec l’âme qu’il veut séduire, c’est du silence, comme font ceux qui veulent séduire les femmes et les filles, qui de prime abord défendent qu’elles ne communiquent point les propositions aux pères ni aux maris : où au contraire Dieu, en ses inspirations, demande sur toutes choses que nous les fassions reconnaître par nos supérieurs et conducteurs.
+
+Que si, après tout cela, la tentation s’opiniâtre à nous travailler et persécuter, nous n’avons rien à faire, sinon à nous opiniâtrer de notre côté en la protestation de ne vouloir point consentir ; car, comme les filles ne peuvent être mariées, pendant qu’elles disent que non, ainsi l’âme, quoique troublée, ne peut jamais être offensée, pendant qu’elle dit que non.
+
+Ne disputez point avec votre ennemi et ne lui répondez jamais une seule parole, sinon celle que Notre Seigneur lui répondit, avec laquelle il le confondit : « Arrière, O Satan, tu adoreras le Seigneur ton Dieu et à lui seul serviras ». Et comme la chaste femme ne doit répondre un seul mot, ni regarder en face le vilain poursuivant, qui lui propose quelque deshonnêteté, mais le quittant tout court, doit à même instant retourner son cœur du côté de son époux, et rejurer la fidélité qu’elle lui a promise, sans s’amuser à barguigner, ainsi la dévote âme, se voyant assaillie de quelque tentation, ne doit nullement s’amuser à disputer ni répondre, mais tout simplement se retourner du côté de Jésus-Christ son époux, et lui protester derechef de sa fidélité, et de vouloir être à jamais uniquement toute sienne.

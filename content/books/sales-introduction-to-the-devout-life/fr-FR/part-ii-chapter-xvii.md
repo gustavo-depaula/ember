@@ -1,0 +1,13 @@
+# CHAPITRE XVII. Comme il faut ouïr et lire la parole de Dieu.
+
+Soyez dévote à la parole de Dieu : soit que vous l’écoutiez en devis familiers avec vos amis spirituels, soit que vous l’écoutiez au sermon, oyez-la toujours avec attention et révérence ; faites-en bien votre profit et ne permettez pas qu’elle tombe à terre, ains recevez-la comme un précieux baume dans votre cœur, à l’imitation de la très sainte Vierge, qui conservait soigneusement dedans le sien toutes les paroles que l’on disait à la louange de son Enfant. Et souvenez-vous que Notre Seigneur recueille les paroles que nous lui disons en nos prières, à mesure que nous recueillons celles qu’il nous dit par la prédication.
+
+Ayez toujours auprès de vous quelque beau livre de dévotion, comme sont ceux de saint Bonaventure, de Gerson, de Denis le Chartreux, de Louis Blosius, de Grenade, de Stella, d’Arias, de Pinelli, de Du Pont, d’Avila, le *Combat spirituel*, les *Confessions* de saint Augustin, les épîtres de saint Jérôme, et semblables ; et lisez-en tous les jours un peu avec grande dévotion, comme si vous lisiez des lettres missives que les saints vous eussent envoyées du ciel, pour vous montrer le chemin et vous donner le courage d’y aller.
+
+Lisez aussi les histoires et Vies des Saints, esquelles, comme dans un miroir, vous verrez le portrait de la vie chrétienne ; et accommodez leurs actions à votre profit selon votre vacation, Car bien que beaucoup des actions des saints ne soient pas absolument imitables par ceux qui vivent emmi le monde, si est-ce que toutes peuvent être suivies ou de près ou de loin ; la solitude de saint Paul, premier ermite, est imitée en vos retraites spirituelles et réelles, desquelles nous parlerons[^1], et avons parlé[^2] ci-dessus ; l’extrême pauvreté de saint François, par les pratiques de la pauvreté telles que nous les marquerons[^3], et ainsi des autres. Il est vrai qu’il y a certaines histoires qui donnent plus de lumière pour la conduite de notre vie que d’autres, comme la vie de la bienheureuse mère Thérèse, laquelle est admirable pour cela, les vies des premiers Jésuites, celle de saint Charles Borromée, archevêque de Milan, de saint Louis, de saint Bernard, les *Chroniques de saint François* et autres pareilles. Il y en a d’autres où il y a plus de sujet d’admiration que d’imitation, comme celle de sainte Marie Égyptienne, de saint Siméon Stylite, des deux saintes Catherine de Sienne et de Gênes, de sainte Angèle et autres telles, lesquelles ne laissent pas néanmoins de donner un grand goût général du saint amour de Dieu.
+
+[^1]: Dans la cinquième partie.
+
+[^2]: Chapitre XII.
+
+[^3]: Au chapitre XV de la troisième partie.

@@ -1,0 +1,3 @@
+# CHAPITRE IX. Des considérations propres pour renouveler nos bons propos.
+
+Après avoir fait l’examen, et avoir bien conféré avec quelque digne conducteur sur les défauts et sur les remèdes d’iceux, vous prendrez les considérations suivantes, en faisant une chaque jour par manière de méditation ; y employant le temps de votre oraison, et ce toujours avec la même méthode, pour la préparation et les affections, de laquelle vous avez usé ès méditations de la première Partie ; vous mettant avant toutes choses en la présence de Dieu ; implorant sa grâce pour vous bien établir en son saint amour et service.
