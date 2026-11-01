@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Catena Aurea on Matthew",
-    "la": "Catena Aurea in Evangelium secundum Matthaeum"
+    "la": "Catena Aurea in Evangelium secundum Matthaeum",
+    "pt-BR": "Catena Áurea sobre Mateus"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's verse-by-verse gloss on the Gospel of Matthew, weaving the Greek and Latin Fathers into a single continuous commentary. The first volume of the *Golden Chain*, commissioned by Pope Urban IV.",
-    "la": "Glossa textualis super Evangelium secundum Matthaeum, ex commentariis sanctorum patrum graecorum et latinorum confecta, Urbano IV pontifice iubente. Catenae Aureae volumen primum."
+    "la": "Glossa textualis super Evangelium secundum Matthaeum, ex commentariis sanctorum patrum graecorum et latinorum confecta, Urbano IV pontifice iubente. Catenae Aureae volumen primum.",
+    "pt-BR": "Glosa textual sobre o Evangelho segundo Mateus, composta a partir dos comentários dos santos Padres gregos e latinos, por ordem do papa Urbano IV. Primeiro volume da *Catena Áurea*."
   },
   "composed": "1262–1263",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Chapter 1 — Dedication",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Dedication",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Proêmio"
           }
         }
       ]
@@ -51,14 +57,16 @@
       "id": "g2",
       "title": {
         "en-US": "Chapter 2 — Prologue",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2"
       },
       "children": [
         {
           "id": "g2-pr",
           "title": {
             "en-US": "Prologue — Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Proêmio"
           }
         }
       ]
@@ -67,105 +75,120 @@
       "id": "g3",
       "title": {
         "en-US": "Chapter 3",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — The Title of the Book",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2 — Abraham to Judah",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3 — Judah to King David",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g3-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g3-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g3-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g3-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g3-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g3-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g3-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g3-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g3-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g3-c014",
           "title": {
             "en-US": "Lecture 14",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         }
       ]
@@ -174,84 +197,96 @@
       "id": "g4",
       "title": {
         "en-US": "Chapter 4",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g4-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g4-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g4-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g4-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g4-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g4-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g4-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g4-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         }
       ]
@@ -260,63 +295,72 @@
       "id": "g5",
       "title": {
         "en-US": "Chapter 5",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5"
       },
       "children": [
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g5-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g5-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g5-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g5-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g5-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g5-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g5-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         }
       ]
@@ -325,63 +369,72 @@
       "id": "g6",
       "title": {
         "en-US": "Chapter 6",
-        "la": "Caput 6"
+        "la": "Caput 6",
+        "pt-BR": "Capítulo 6"
       },
       "children": [
         {
           "id": "g6-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g6-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g6-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g6-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g6-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g6-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g6-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g6-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         }
       ]
@@ -390,168 +443,192 @@
       "id": "g7",
       "title": {
         "en-US": "Chapter 7",
-        "la": "Caput 7"
+        "la": "Caput 7",
+        "pt-BR": "Capítulo 7"
       },
       "children": [
         {
           "id": "g7-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g7-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g7-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g7-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g7-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g7-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g7-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g7-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g7-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g7-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g7-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g7-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g7-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g7-c014",
           "title": {
             "en-US": "Lecture 14",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g7-c015",
           "title": {
             "en-US": "Lecture 15",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         },
         {
           "id": "g7-c016",
           "title": {
             "en-US": "Lecture 16",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16"
           }
         },
         {
           "id": "g7-c017",
           "title": {
             "en-US": "Lecture 17",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17"
           }
         },
         {
           "id": "g7-c018",
           "title": {
             "en-US": "Lecture 18",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18"
           }
         },
         {
           "id": "g7-c019",
           "title": {
             "en-US": "Lecture 19",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19"
           }
         },
         {
           "id": "g7-c020",
           "title": {
             "en-US": "Lecture 20",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20"
           }
         },
         {
           "id": "g7-c021",
           "title": {
             "en-US": "Lecture 21",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21"
           }
         },
         {
           "id": "g7-c022",
           "title": {
             "en-US": "Lecture 22",
-            "la": "Lectio 22"
+            "la": "Lectio 22",
+            "pt-BR": "Lição 22"
           }
         },
         {
           "id": "g7-c023",
           "title": {
             "en-US": "Lecture 23",
-            "la": "Lectio 23"
+            "la": "Lectio 23",
+            "pt-BR": "Lição 23"
           }
         }
       ]
@@ -560,154 +637,176 @@
       "id": "g8",
       "title": {
         "en-US": "Chapter 8",
-        "la": "Caput 8"
+        "la": "Caput 8",
+        "pt-BR": "Capítulo 8"
       },
       "children": [
         {
           "id": "g8-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g8-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g8-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g8-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g8-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g8-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g8-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g8-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g8-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g8-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g8-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g8-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g8-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g8-c014",
           "title": {
             "en-US": "Lecture 14",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g8-c015",
           "title": {
             "en-US": "Lecture 15",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         },
         {
           "id": "g8-c016",
           "title": {
             "en-US": "Lecture 16",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16"
           }
         },
         {
           "id": "g8-c017",
           "title": {
             "en-US": "Lecture 17",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17"
           }
         },
         {
           "id": "g8-c018",
           "title": {
             "en-US": "Lecture 18",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18"
           }
         },
         {
           "id": "g8-c019",
           "title": {
             "en-US": "Lecture 19",
-            "la": "Lectio 19"
+            "la": "Lectio 19",
+            "pt-BR": "Lição 19"
           }
         },
         {
           "id": "g8-c020",
           "title": {
             "en-US": "Lecture 20",
-            "la": "Lectio 20"
+            "la": "Lectio 20",
+            "pt-BR": "Lição 20"
           }
         },
         {
           "id": "g8-c021",
           "title": {
             "en-US": "Lecture 21",
-            "la": "Lectio 21"
+            "la": "Lectio 21",
+            "pt-BR": "Lição 21"
           }
         }
       ]
@@ -716,84 +815,96 @@
       "id": "g9",
       "title": {
         "en-US": "Chapter 9",
-        "la": "Caput 9"
+        "la": "Caput 9",
+        "pt-BR": "Capítulo 9"
       },
       "children": [
         {
           "id": "g9-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g9-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g9-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g9-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g9-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g9-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g9-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g9-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g9-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g9-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g9-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         }
       ]
@@ -802,63 +913,72 @@
       "id": "g10",
       "title": {
         "en-US": "Chapter 10",
-        "la": "Caput 10"
+        "la": "Caput 10",
+        "pt-BR": "Capítulo 10"
       },
       "children": [
         {
           "id": "g10-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g10-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g10-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g10-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g10-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g10-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g10-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g10-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         }
       ]
@@ -867,63 +987,72 @@
       "id": "g11",
       "title": {
         "en-US": "Chapter 11",
-        "la": "Caput 11"
+        "la": "Caput 11",
+        "pt-BR": "Capítulo 11"
       },
       "children": [
         {
           "id": "g11-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g11-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g11-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g11-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g11-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g11-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g11-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g11-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         }
       ]
@@ -932,112 +1061,128 @@
       "id": "g12",
       "title": {
         "en-US": "Chapter 12",
-        "la": "Caput 12"
+        "la": "Caput 12",
+        "pt-BR": "Capítulo 12"
       },
       "children": [
         {
           "id": "g12-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g12-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g12-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g12-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g12-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g12-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g12-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g12-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g12-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g12-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g12-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g12-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g12-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g12-c014",
           "title": {
             "en-US": "Lecture 14",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g12-c015",
           "title": {
             "en-US": "Lecture 15",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         }
       ]
@@ -1046,77 +1191,88 @@
       "id": "g13",
       "title": {
         "en-US": "Chapter 13",
-        "la": "Caput 13"
+        "la": "Caput 13",
+        "pt-BR": "Capítulo 13"
       },
       "children": [
         {
           "id": "g13-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g13-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g13-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g13-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g13-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g13-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g13-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g13-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g13-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g13-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         }
       ]
@@ -1125,112 +1281,128 @@
       "id": "g14",
       "title": {
         "en-US": "Chapter 14",
-        "la": "Caput 14"
+        "la": "Caput 14",
+        "pt-BR": "Capítulo 14"
       },
       "children": [
         {
           "id": "g14-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g14-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g14-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g14-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g14-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g14-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g14-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g14-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g14-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g14-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g14-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g14-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g14-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g14-c014",
           "title": {
             "en-US": "Lecture 14",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g14-c015",
           "title": {
             "en-US": "Lecture 15",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         }
       ]
@@ -1239,98 +1411,112 @@
       "id": "g15",
       "title": {
         "en-US": "Chapter 15",
-        "la": "Caput 15"
+        "la": "Caput 15",
+        "pt-BR": "Capítulo 15"
       },
       "children": [
         {
           "id": "g15-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g15-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g15-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g15-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g15-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g15-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g15-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g15-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g15-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g15-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g15-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g15-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g15-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         }
       ]
@@ -1339,49 +1525,56 @@
       "id": "g16",
       "title": {
         "en-US": "Chapter 16",
-        "la": "Caput 16"
+        "la": "Caput 16",
+        "pt-BR": "Capítulo 16"
       },
       "children": [
         {
           "id": "g16-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g16-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g16-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g16-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g16-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g16-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         }
       ]
@@ -1390,56 +1583,64 @@
       "id": "g17",
       "title": {
         "en-US": "Chapter 17",
-        "la": "Caput 17"
+        "la": "Caput 17",
+        "pt-BR": "Capítulo 17"
       },
       "children": [
         {
           "id": "g17-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g17-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g17-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g17-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g17-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g17-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g17-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         }
       ]
@@ -1448,56 +1649,64 @@
       "id": "g18",
       "title": {
         "en-US": "Chapter 18",
-        "la": "Caput 18"
+        "la": "Caput 18",
+        "pt-BR": "Capítulo 18"
       },
       "children": [
         {
           "id": "g18-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g18-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g18-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g18-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g18-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g18-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g18-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         }
       ]
@@ -1506,56 +1715,64 @@
       "id": "g19",
       "title": {
         "en-US": "Chapter 19",
-        "la": "Caput 19"
+        "la": "Caput 19",
+        "pt-BR": "Capítulo 19"
       },
       "children": [
         {
           "id": "g19-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g19-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g19-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g19-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g19-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g19-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g19-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         }
       ]
@@ -1564,56 +1781,64 @@
       "id": "g20",
       "title": {
         "en-US": "Chapter 20",
-        "la": "Caput 20"
+        "la": "Caput 20",
+        "pt-BR": "Capítulo 20"
       },
       "children": [
         {
           "id": "g20-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g20-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g20-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g20-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g20-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g20-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g20-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         }
       ]
@@ -1622,56 +1847,64 @@
       "id": "g21",
       "title": {
         "en-US": "Chapter 21",
-        "la": "Caput 21"
+        "la": "Caput 21",
+        "pt-BR": "Capítulo 21"
       },
       "children": [
         {
           "id": "g21-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g21-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g21-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g21-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g21-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g21-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g21-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         }
       ]
@@ -1680,42 +1913,48 @@
       "id": "g22",
       "title": {
         "en-US": "Chapter 22",
-        "la": "Caput 22"
+        "la": "Caput 22",
+        "pt-BR": "Capítulo 22"
       },
       "children": [
         {
           "id": "g22-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g22-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g22-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g22-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g22-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         }
       ]
@@ -1724,56 +1963,64 @@
       "id": "g23",
       "title": {
         "en-US": "Chapter 23",
-        "la": "Caput 23"
+        "la": "Caput 23",
+        "pt-BR": "Capítulo 23"
       },
       "children": [
         {
           "id": "g23-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g23-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g23-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g23-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g23-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g23-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g23-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         }
       ]
@@ -1782,42 +2029,48 @@
       "id": "g24",
       "title": {
         "en-US": "Chapter 24",
-        "la": "Caput 24"
+        "la": "Caput 24",
+        "pt-BR": "Capítulo 24"
       },
       "children": [
         {
           "id": "g24-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g24-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g24-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g24-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g24-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         }
       ]
@@ -1826,91 +2079,104 @@
       "id": "g25",
       "title": {
         "en-US": "Chapter 25",
-        "la": "Caput 25"
+        "la": "Caput 25",
+        "pt-BR": "Capítulo 25"
       },
       "children": [
         {
           "id": "g25-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g25-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g25-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g25-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g25-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g25-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g25-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g25-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g25-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g25-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g25-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g25-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         }
       ]
@@ -1919,98 +2185,112 @@
       "id": "g26",
       "title": {
         "en-US": "Chapter 26",
-        "la": "Caput 26"
+        "la": "Caput 26",
+        "pt-BR": "Capítulo 26"
       },
       "children": [
         {
           "id": "g26-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g26-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g26-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g26-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g26-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g26-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g26-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g26-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g26-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g26-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g26-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g26-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g26-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         }
       ]
@@ -2019,35 +2299,40 @@
       "id": "g27",
       "title": {
         "en-US": "Chapter 27",
-        "la": "Caput 27"
+        "la": "Caput 27",
+        "pt-BR": "Capítulo 27"
       },
       "children": [
         {
           "id": "g27-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g27-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g27-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g27-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         }
       ]
@@ -2056,126 +2341,144 @@
       "id": "g28",
       "title": {
         "en-US": "Chapter 28",
-        "la": "Caput 28"
+        "la": "Caput 28",
+        "pt-BR": "Capítulo 28"
       },
       "children": [
         {
           "id": "g28-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g28-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g28-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g28-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g28-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g28-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g28-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g28-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g28-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g28-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g28-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g28-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         },
         {
           "id": "g28-c013",
           "title": {
             "en-US": "Lecture 13",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13"
           }
         },
         {
           "id": "g28-c014",
           "title": {
             "en-US": "Lecture 14",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14"
           }
         },
         {
           "id": "g28-c015",
           "title": {
             "en-US": "Lecture 15",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15"
           }
         },
         {
           "id": "g28-c016",
           "title": {
             "en-US": "Lecture 16",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16"
           }
         },
         {
           "id": "g28-c017",
           "title": {
             "en-US": "Lecture 17",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17"
           }
         }
       ]
@@ -2184,91 +2487,104 @@
       "id": "g29",
       "title": {
         "en-US": "Chapter 29",
-        "la": "Caput 29"
+        "la": "Caput 29",
+        "pt-BR": "Capítulo 29"
       },
       "children": [
         {
           "id": "g29-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g29-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g29-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g29-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         },
         {
           "id": "g29-c005",
           "title": {
             "en-US": "Lecture 5",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5"
           }
         },
         {
           "id": "g29-c006",
           "title": {
             "en-US": "Lecture 6",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6"
           }
         },
         {
           "id": "g29-c007",
           "title": {
             "en-US": "Lecture 7",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7"
           }
         },
         {
           "id": "g29-c008",
           "title": {
             "en-US": "Lecture 8",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8"
           }
         },
         {
           "id": "g29-c009",
           "title": {
             "en-US": "Lecture 9",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9"
           }
         },
         {
           "id": "g29-c010",
           "title": {
             "en-US": "Lecture 10",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10"
           }
         },
         {
           "id": "g29-c011",
           "title": {
             "en-US": "Lecture 11",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11"
           }
         },
         {
           "id": "g29-c012",
           "title": {
             "en-US": "Lecture 12",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12"
           }
         }
       ]
@@ -2277,41 +2593,48 @@
       "id": "g30",
       "title": {
         "en-US": "Chapter 30",
-        "la": "Caput 30"
+        "la": "Caput 30",
+        "pt-BR": "Capítulo 30"
       },
       "children": [
         {
           "id": "g30-c001",
           "title": {
             "en-US": "Lecture 1",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1"
           }
         },
         {
           "id": "g30-c002",
           "title": {
             "en-US": "Lecture 2",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2"
           }
         },
         {
           "id": "g30-c003",
           "title": {
             "en-US": "Lecture 3",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3"
           }
         },
         {
           "id": "g30-c004",
           "title": {
             "en-US": "Lecture 4",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4"
           }
         }
       ]
     }
   ],
-  "commentsOn": ["matthew"],
+  "commentsOn": [
+    "matthew"
+  ],
   "arrived": {
     "en-US": "2026-06-04",
     "la": "2026-06-04"
