@@ -9,6 +9,18 @@
     "en-US",
     "pt-BR"
   ],
+  "work": "augustine/confessions",
+  "editions": {
+    "en-US": {
+      "translator": "Albert C. Outler",
+      "year": 1955
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "year": 2026,
+      "from": "en-US"
+    }
+  },
   "author": {
     "en-US": "Augustine, Saint, Bishop of Hippo (345-430)",
     "pt-BR": "Agostinho, Santo, Bispo de Hipona (345-430)"

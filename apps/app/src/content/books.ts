@@ -10,7 +10,13 @@
  * rely on the engine calling `prepareBooks` (wired to `loadBooks`) first.
  */
 
-import { canonicalize, ensureManifestBody, getEntry, getRememberedManifest } from './contentIndex'
+import {
+  canonicalize,
+  ensureManifestBody,
+  getAllEntries,
+  getEntry,
+  getRememberedManifest,
+} from './contentIndex'
 import type { BookEntry, CatalogEntry } from './manifestTypes'
 import { getText } from './store'
 
@@ -37,6 +43,36 @@ export function getBookCatalogEntry(bookId: string): CatalogEntry | undefined {
   const canonical = canonicalize(bookId, 'book')
   const entry = canonical ? getEntry(canonical) : undefined
   return entry?.kind === 'book' ? entry : undefined
+}
+
+/** Every edition of `bookId`'s work, itself first; only itself when it names no work. */
+export function editionsOfWork(
+  bookId: string,
+  entries: ReadonlyMap<string, CatalogEntry> = getAllEntries(),
+): string[] {
+  const id = canonicalize(bookId, 'book') ?? bookId
+  const work = entries.get(id)?.work
+  if (!work) return [id]
+  const others = [...entries]
+    .filter(([other, e]) => other !== id && e.kind === 'book' && e.work === work)
+    .map(([other]) => other)
+  return [id, ...others]
+}
+
+/**
+ * The book to open for a reader in `lang`: `bookId` when it reads in `lang`,
+ * else the first other edition of its work that does, else `bookId`. A
+ * reference names one edition; this lets it reach the reader's language.
+ */
+export function editionForLanguage(
+  bookId: string,
+  lang: string,
+  entries: ReadonlyMap<string, CatalogEntry> = getAllEntries(),
+): string {
+  const [self, ...others] = editionsOfWork(bookId, entries)
+  const reads = (id: string) => entries.get(id)?.langs?.includes(lang) ?? false
+  if (reads(self)) return self
+  return others.find(reads) ?? self
 }
 
 /** The manifest if already loaded; undefined otherwise (never fetches). */

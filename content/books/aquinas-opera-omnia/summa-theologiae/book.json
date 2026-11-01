@@ -22,6 +22,22 @@
     "la",
     "pt-BR"
   ],
+  "work": "aquinas/summa-theologiae",
+  "editions": {
+    "la": {
+      "editor": "Leonine Commission",
+      "year": 1888
+    },
+    "en-US": {
+      "translator": "Laurence Shapcote, revised by the Aquinas Institute",
+      "year": 1911
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "year": 2026,
+      "from": "la"
+    }
+  },
   "sources": [
     {
       "language": "en-US",

@@ -13,6 +13,18 @@
     "en-US",
     "pt-BR"
   ],
+  "work": "augustine/confessions",
+  "editions": {
+    "en-US": {
+      "translator": "J. G. Pilkington",
+      "year": 1876
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "year": 2026,
+      "from": "en-US"
+    }
+  },
   "sources": [
     {
       "language": "en-US",

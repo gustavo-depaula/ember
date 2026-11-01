@@ -13,6 +13,13 @@
   "languages": [
     "en-US"
   ],
+  "work": "aquinas/summa-theologiae",
+  "editions": {
+    "en-US": {
+      "translator": "Fathers of the English Dominican Province",
+      "year": 1920
+    }
+  },
   "sources": [
     {
       "language": "en-US",

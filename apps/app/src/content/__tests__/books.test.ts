@@ -2,6 +2,8 @@ import { resolveFlowAsync } from '@ember/content-engine'
 import { beforeEach, describe, expect, it, vi } from 'vitest'
 
 import {
+  editionForLanguage,
+  editionsOfWork,
   findBookImage,
   getBookCatalogEntry,
   getResidentBook,
@@ -194,5 +196,42 @@ describe('engine resolution', () => {
       createEngineContext(undefined, { contentLanguage: 'pt-BR' }),
     )
     expect(sections[0]).toMatchObject({ type: 'heading', text: { primary: 'Primeira meditação' } })
+  })
+})
+
+describe('editions of a work', () => {
+  const book = (langs: string[], work?: string) => ({
+    kind: 'book' as const,
+    hash: 'h',
+    size: 1,
+    langs,
+    work,
+  })
+
+  beforeEach(() => {
+    setCatalog({
+      version: 2,
+      generated: '2026-11-01T00:00:00Z',
+      items: {
+        'book/trent-catechism': book(['en-US'], 'council-of-trent/roman-catechism'),
+        'book/trent-catechism-vozes': book(['pt-BR'], 'council-of-trent/roman-catechism'),
+        'book/lonely': book(['en-US']),
+      },
+    })
+  })
+
+  it('lists the other editions of the work after the book itself', () => {
+    expect(editionsOfWork('trent-catechism')).toEqual([
+      'book/trent-catechism',
+      'book/trent-catechism-vozes',
+    ])
+    expect(editionsOfWork('book/lonely')).toEqual(['book/lonely'])
+  })
+
+  it("sends a reference to the edition in the reader's language, else keeps it", () => {
+    expect(editionForLanguage('book/trent-catechism', 'pt-BR')).toBe('book/trent-catechism-vozes')
+    expect(editionForLanguage('book/trent-catechism', 'en-US')).toBe('book/trent-catechism')
+    expect(editionForLanguage('book/trent-catechism', 'la')).toBe('book/trent-catechism')
+    expect(editionForLanguage('book/lonely', 'pt-BR')).toBe('book/lonely')
   })
 })

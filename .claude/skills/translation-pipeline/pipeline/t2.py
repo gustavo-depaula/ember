@@ -15,7 +15,7 @@ in the message, so a call is one read of its span plus the answer.
                                               problems when the answer is unusable
   t2.py check <bookdir>                       final structural check; exits 1 on problems
 """
-import glob, json, os, re, sys
+import glob, json, os, re, sys, time
 
 unitWords = 9000
 here = os.path.dirname(os.path.abspath(__file__))
@@ -253,6 +253,10 @@ def write(book, k, ans):
             print("book.json: new top-level fields %s" % sorted(set(new) - set(old))); sys.exit(1)
         if "pt-BR" not in new.get("languages", []):
             new["languages"] = old.get("languages", []) + ["pt-BR"]
+        # The call sends book.json back whole or in part: a field it leaves out
+        # (work, editions, sources…) keeps its value, in its place.
+        new = {**old, **new}
+        new.setdefault("editions", {})["pt-BR"] = {"translator": "Ember", "from": lang(book), "year": time.localtime().tm_year}
         open(book + "/book.json", "w").write(json.dumps(new, ensure_ascii=False, indent=2) + "\n")
         if not os.path.exists(journalPath(book)):
             print("no journal in call 1"); sys.exit(1)

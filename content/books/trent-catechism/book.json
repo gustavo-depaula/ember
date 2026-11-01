@@ -18,6 +18,17 @@
     "en-US",
     "pt-BR"
   ],
+  "work": "council-of-trent/roman-catechism",
+  "editions": {
+    "en-US": {
+      "translator": "John A. McHugh and Charles J. Callan",
+      "year": 1923
+    },
+    "pt-BR": {
+      "translator": "Frei Leopoldo Pires Martins, OFM",
+      "year": 1951
+    }
+  },
   "sources": [
     {
       "language": "en-US",

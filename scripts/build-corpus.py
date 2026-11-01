@@ -1061,6 +1061,20 @@ def _validate_book_titles(bid: str, meta: dict, chapter_paths: dict) -> None:
                     print(f"        TOC: {toc_title}")
 
 
+def _validate_book_editions(bid: str, meta: dict) -> None:
+    """`work` is `<author>/<work>`; `editions` describes languages the book has."""
+    work = meta.get("work")
+    if work is not None and not re.fullmatch(r"[a-z0-9-]+/[a-z0-9-]+", work):
+        raise ValueError(f"book {bid}: work {work!r} is not '<author>/<work>'")
+    langs = set(meta.get("languages", []))
+    for lang, edition in (meta.get("editions") or {}).items():
+        if lang not in langs:
+            raise ValueError(f"book {bid}: edition for {lang}, which is not in languages")
+        source = edition.get("from")
+        if source is not None and source not in langs:
+            raise ValueError(f"book {bid}: {lang} translated from {source}, which is not in languages")
+
+
 def _build_book_index_worker(
     job: tuple[str, dict[str, dict[str, dict]], dict[str, dict[str, tuple[str, bool]]]],
 ) -> tuple[str, dict[str, dict], dict[str, int]]:
@@ -1140,6 +1154,7 @@ def build_books(b: Builder, authors: dict[str, str]) -> None:
                     chapter_paths.setdefault(chap_id, {})[lang] = (str(ff), True)
 
         _validate_book_titles(bid, meta, chapter_paths)
+        _validate_book_editions(bid, meta)
 
         images = []
         img_dir = d / "images"
@@ -1211,6 +1226,9 @@ def build_books(b: Builder, authors: dict[str, str]) -> None:
             catalog_entry["tags"] = meta["tags"]
         if "cover" in meta:
             catalog_entry["cover"] = meta["cover"]
+        # Every edition of a work names it, so the app can offer the others.
+        if "work" in meta:
+            catalog_entry["work"] = meta["work"]
         # What the Books screen lists books by, without a manifest fetch.
         if minutes_by_bid.get(bid):
             catalog_entry["minutes"] = minutes_by_bid[bid]

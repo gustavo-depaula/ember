@@ -81,6 +81,8 @@ export type CatalogEntry = {
   commentsOn?: string[]
   /** Its author's `author/<id>` entry, without the prefix. */
   authorRef?: string
+  /** The work this book is an edition of (`augustine/confessions`), shared by every edition of it. */
+  work?: string
   // Author hints (build_authors).
   /** The century most of the author's work was written in; absent for anonymous collections. */
   century?: number
@@ -282,6 +284,19 @@ export type TocNode = {
 // on `'type' in ref`.
 export type ChapterRef = (BlobRef & { format?: 'html' }) | { type: 'external'; url: string }
 
+/**
+ * Who made one language's text of a book. A book is one source edition plus
+ * the translations made from it; other editions of the same work are other
+ * books sharing its `work`.
+ */
+export type BookEdition = {
+  editor?: string
+  translator?: string
+  /** The language of this book it was translated from (`la`, `es-ES`). */
+  from?: string
+  year?: number | string
+}
+
 export type BookEntry = {
   id: string
   name: LocalizedText
@@ -289,6 +304,10 @@ export type BookEntry = {
   description?: LocalizedText
   composed?: number | string
   languages?: string[]
+  /** See CatalogEntry.work. */
+  work?: string
+  /** Per language. */
+  editions?: Record<string, BookEdition>
   toc?: TocNode[]
   image?: string
   style?: BlobRef
