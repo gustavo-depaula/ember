@@ -1,0 +1,11 @@
+{
+  "name": {
+    "en-US": "St. Benedict of Nursia",
+    "pt-BR": "São Bento de Núrsia"
+  },
+  "century": 6,
+  "saint": "benedict",
+  "matches": [
+    "St. Benedict of Nursia"
+  ]
+}

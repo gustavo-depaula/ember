@@ -1,0 +1,576 @@
+{
+  "id": "benedict-rule",
+  "cover": "quarter",
+  "name": {
+    "la": "Regula monasteriorum",
+    "en-US": "The Holy Rule of St. Benedict",
+    "pt-BR": "Regra de São Bento"
+  },
+  "author": {
+    "la": "Sanctus Benedictus de Nursia",
+    "en-US": "St. Benedict of Nursia",
+    "pt-BR": "São Bento de Núrsia"
+  },
+  "description": {
+    "la": "Regula monachorum a sancto Benedicto in Monte Cassino conscripta: prologus et capita septuaginta tria de abbate, oboedientia, humilitate, opere Dei, disciplina et vita communi monasterii.",
+    "en-US": "The Rule St. Benedict wrote for his monks at Monte Cassino in the sixth century: a Prologue and seventy-three chapters on the abbot, obedience, silence and humility, the Divine Office, discipline, work and the common life. Western monasticism has lived by it ever since. Latin text in the modern critical orthography, with the English translation of Boniface Verheyen OSB (Atchison, 1902; 1949 printing), whose Scripture references are kept.",
+    "pt-BR": "A Regra que São Bento escreveu para os seus monges em Monte Cassino, no século VI: um Prólogo e setenta e três capítulos sobre o abade, a obediência, o silêncio e a humildade, o Ofício Divino, a disciplina, o trabalho e a vida comum. Desde então, o monaquismo ocidental vive segundo ela."
+  },
+  "composed": "c. 530–547",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "benedict/rule",
+  "editions": {
+    "la": {
+      "editor": "The Latin Library transcription, corrected against Wölfflin (1895)"
+    },
+    "en-US": {
+      "translator": "Boniface Verheyen, OSB",
+      "year": 1949,
+      "from": "la"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.thelatinlibrary.com/benedict.html",
+      "edition": "The Latin Library, Regula S.P.N. Benedicti (the same transcription as la.wikisource, https://la.wikisource.org/wiki/Regula_sancti_Benedicti), in the orthography of the modern critical texts (Obsculta, conple, oboedientia).",
+      "tier": "B",
+      "description": "Tier B: the sixth-century text has no author copyright and the transcription circulates freely with no claim; its orthography follows the modern critical editions (Hanslik, CSEL 75; de Vogüé, SC 181–182), so it is not counted as A. Some sixty transcription typos (pastotis, delinquentiump, futum, omnimo, a doubled sentence in ch. 73…) were corrected against the tier-A witness Wölfflin, Benedicti Regula monachorum (Leipzig: Teubner, 1895; https://archive.org/details/benedictiregula00wlgoog); readings of the critical text that differ from Wölfflin's were kept."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.ccel.org/ccel/benedict/rule",
+      "edition": "Boniface Verheyen OSB, The Holy Rule of Our Most Holy Father Benedict (Atchison, Kansas: St. Benedict's Abbey; 1st ed. 1902), CCEL e-text of the 1949 printing with added Scripture references.",
+      "tier": "A",
+      "description": "Tier A: CCEL marks it 'Rights: Public Domain'; Verheyen died in 1923 and the 1949 printing credits no reviser."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-01",
+    "en-US": "2026-11-01"
+  },
+  "toc": [
+    {
+      "id": "prologue",
+      "title": {
+        "la": "Prologus",
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
+      }
+    },
+    {
+      "id": "ch01",
+      "title": {
+        "la": "Caput 1: De generibus monachorum",
+        "en-US": "Chapter I: Of the Kinds or the Life of Monks"
+      }
+    },
+    {
+      "id": "ch02",
+      "title": {
+        "la": "Caput 2: Qualis debeat esse abbas",
+        "en-US": "Chapter II: What Kind of Man the Abbot Ought to Be"
+      }
+    },
+    {
+      "id": "ch03",
+      "title": {
+        "la": "Caput 3: De adhibendis ad consilium fratribus",
+        "en-US": "Chapter III: Of Calling the Brethren for Counsel"
+      }
+    },
+    {
+      "id": "ch04",
+      "title": {
+        "la": "Caput 4: Quæ sunt instrumenta bonorum operum",
+        "en-US": "Chapter IV: The Instruments of Good Works"
+      }
+    },
+    {
+      "id": "ch05",
+      "title": {
+        "la": "Caput 5: De oboedientia",
+        "en-US": "Chapter V: Of Obedience"
+      }
+    },
+    {
+      "id": "ch06",
+      "title": {
+        "la": "Caput 6: De taciturnitate",
+        "en-US": "Chapter VI: Of Silence"
+      }
+    },
+    {
+      "id": "ch07",
+      "title": {
+        "la": "Caput 7: De humilitate",
+        "en-US": "Chapter VII: Of Humility"
+      }
+    },
+    {
+      "id": "ch08",
+      "title": {
+        "la": "Caput 8: De officiis divinis in noctibus",
+        "en-US": "Chapter VIII: Of the Divine Office during the Night"
+      }
+    },
+    {
+      "id": "ch09",
+      "title": {
+        "la": "Caput 9: Quanti psalmi dicendi sunt nocturni",
+        "en-US": "Chapter IX: How Many Psalms Are to Be Said at the Night Office"
+      }
+    },
+    {
+      "id": "ch10",
+      "title": {
+        "la": "Caput 10: Qualiter æstatis tempore agatur nocturna laus",
+        "en-US": "Chapter X: How the Office Is to Be Said during the Summer Season"
+      }
+    },
+    {
+      "id": "ch11",
+      "title": {
+        "la": "Caput 11: Qualiter diebus dominicis vigiliæ agantur",
+        "en-US": "Chapter XI: How the Night Office Is to Be Said on Sundays"
+      }
+    },
+    {
+      "id": "ch12",
+      "title": {
+        "la": "Caput 12: Quomodo matutinorum sollemnitas agatur",
+        "en-US": "Chapter XII: How Lauds Are to Be Said"
+      }
+    },
+    {
+      "id": "ch13",
+      "title": {
+        "la": "Caput 13: Privatis diebus qualiter agantur matutini",
+        "en-US": "Chapter XIII: How Lauds Are to Be Said on Week Days"
+      }
+    },
+    {
+      "id": "ch14",
+      "title": {
+        "la": "Caput 14: In nataliciis sanctorum qualiter agantur vigiliæ",
+        "en-US": "Chapter XIV: How the Night Office Is to Be Said on the Feasts of the Saints"
+      }
+    },
+    {
+      "id": "ch15",
+      "title": {
+        "la": "Caput 15: Alleluia quibus temporibus dicatur",
+        "en-US": "Chapter XV: At What Times the Alleluia Is to Be Said"
+      }
+    },
+    {
+      "id": "ch16",
+      "title": {
+        "la": "Caput 16: Qualiter divina opera per diem agantur",
+        "en-US": "Chapter XVI: How the Work of God Is to Be Performed during the Day"
+      }
+    },
+    {
+      "id": "ch17",
+      "title": {
+        "la": "Caput 17: Quot psalmi per easdem horas dicendi sunt",
+        "en-US": "Chapter XVII: How Many Psalms Are to Be Sung at These Hours"
+      }
+    },
+    {
+      "id": "ch18",
+      "title": {
+        "la": "Caput 18: Quo ordine ipsi psalmi dicendi sunt",
+        "en-US": "Chapter XVIII: In What Order the Psalms Are to Be Said"
+      }
+    },
+    {
+      "id": "ch19",
+      "title": {
+        "la": "Caput 19: De disciplina psallendi",
+        "en-US": "Chapter XIX: Of the Manner of Reciting the Psalter"
+      }
+    },
+    {
+      "id": "ch20",
+      "title": {
+        "la": "Caput 20: De reverentia orationis",
+        "en-US": "Chapter XX: Of Reverence at Prayer"
+      }
+    },
+    {
+      "id": "ch21",
+      "title": {
+        "la": "Caput 21: De decanis monasterii",
+        "en-US": "Chapter XXI: Of the Deans of the Monastery"
+      }
+    },
+    {
+      "id": "ch22",
+      "title": {
+        "la": "Caput 22: Quomodo dormiant monachi",
+        "en-US": "Chapter XXII: How the Monks Are to Sleep"
+      }
+    },
+    {
+      "id": "ch23",
+      "title": {
+        "la": "Caput 23: De excommunicatione culparum",
+        "en-US": "Chapter XXIII: Of Excommunication for Faults"
+      }
+    },
+    {
+      "id": "ch24",
+      "title": {
+        "la": "Caput 24: Qualis debet esse modus excommunicationis",
+        "en-US": "Chapter XXIV: What the Manner of Excommunication Should Be"
+      }
+    },
+    {
+      "id": "ch25",
+      "title": {
+        "la": "Caput 25: De gravioribus culpis",
+        "en-US": "Chapter XXV: Of Graver Faults"
+      }
+    },
+    {
+      "id": "ch26",
+      "title": {
+        "la": "Caput 26: De his qui sine iussione iungunt se excommunicatis",
+        "en-US": "Chapter XXVI: Of Those Who without the Command of the Abbot Associate with the Excommunicated"
+      }
+    },
+    {
+      "id": "ch27",
+      "title": {
+        "la": "Caput 27: Qualiter debeat abbas sollicitus esse circa excommunicatos",
+        "en-US": "Chapter XXVII: How Concerned the Abbot Should Be about the Excommunicated"
+      }
+    },
+    {
+      "id": "ch28",
+      "title": {
+        "la": "Caput 28: De his qui sæpius correpti emendare noluerint",
+        "en-US": "Chapter XXVIII: Of Those Who Having Often Been Corrected Do Not Amend"
+      }
+    },
+    {
+      "id": "ch29",
+      "title": {
+        "la": "Caput 29: Si debeant fratres exeuntes de monasterio item recipi",
+        "en-US": "Chapter XXIX: Whether Brethren Who Leave the Monastery Ought to Be Received Again"
+      }
+    },
+    {
+      "id": "ch30",
+      "title": {
+        "la": "Caput 30: De pueris minori ætate qualiter corripiantur",
+        "en-US": "Chapter XXX: How Young Boys Are to Be Corrected"
+      }
+    },
+    {
+      "id": "ch31",
+      "title": {
+        "la": "Caput 31: De cellarario monasterii qualis sit",
+        "en-US": "Chapter XXXI: The Kind of Man the Cellarer of the Monastery Ought to Be"
+      }
+    },
+    {
+      "id": "ch32",
+      "title": {
+        "la": "Caput 32: De ferramentis vel rebus monasterii",
+        "en-US": "Chapter XXXII: Of the Tools and Goods of the Monastery"
+      }
+    },
+    {
+      "id": "ch33",
+      "title": {
+        "la": "Caput 33: Si quid debeant monachi proprium habere",
+        "en-US": "Chapter XXXIII: Whether Monks Ought to Have Anything of Their Own"
+      }
+    },
+    {
+      "id": "ch34",
+      "title": {
+        "la": "Caput 34: Si omnes æqualiter debeant necessaria accipere",
+        "en-US": "Chapter XXXIV: Whether All Should Receive in Equal Measure What Is Necessary"
+      }
+    },
+    {
+      "id": "ch35",
+      "title": {
+        "la": "Caput 35: De septimanariis coquinæ",
+        "en-US": "Chapter XXXV: Of the Weekly Servers in the Kitchen"
+      }
+    },
+    {
+      "id": "ch36",
+      "title": {
+        "la": "Caput 36: De infirmis fratribus",
+        "en-US": "Chapter XXXVI: Of the Sick Brethren"
+      }
+    },
+    {
+      "id": "ch37",
+      "title": {
+        "la": "Caput 37: De senibus vel infantibus",
+        "en-US": "Chapter XXXVII: Of the Aged and Children"
+      }
+    },
+    {
+      "id": "ch38",
+      "title": {
+        "la": "Caput 38: De ebdomadario lectore",
+        "en-US": "Chapter XXXVIII: Of the Weekly Reader"
+      }
+    },
+    {
+      "id": "ch39",
+      "title": {
+        "la": "Caput 39: De mensura cibi",
+        "en-US": "Chapter XXXIX: Of the Quantity of Food"
+      }
+    },
+    {
+      "id": "ch40",
+      "title": {
+        "la": "Caput 40: De mensura potus",
+        "en-US": "Chapter XL: Of the Quantity of Drink"
+      }
+    },
+    {
+      "id": "ch41",
+      "title": {
+        "la": "Caput 41: Quibus horis oportet reficere fratres",
+        "en-US": "Chapter XLI: At What Times the Brethren Should Take Their Refection"
+      }
+    },
+    {
+      "id": "ch42",
+      "title": {
+        "la": "Caput 42: Ut post conpletorium nemo loquatur",
+        "en-US": "Chapter XLII: That No One Speak after Complin"
+      }
+    },
+    {
+      "id": "ch43",
+      "title": {
+        "la": "Caput 43: De his qui ad opus Dei vel ad mensam tarde occurrunt",
+        "en-US": "Chapter XLIII: Of Those Who Are Tardy in Coming to the Work of God or to Table"
+      }
+    },
+    {
+      "id": "ch44",
+      "title": {
+        "la": "Caput 44: De his qui excommunicantur quomodo satisfaciant",
+        "en-US": "Chapter XLIV: Of Those Who Are Excommunicated—How They Make Satisfaction"
+      }
+    },
+    {
+      "id": "ch45",
+      "title": {
+        "la": "Caput 45: De his qui falluntur in oratorio",
+        "en-US": "Chapter XLV: Of Those Who Commit a Fault in the Oratory"
+      }
+    },
+    {
+      "id": "ch46",
+      "title": {
+        "la": "Caput 46: De his qui in aliis quibuslibet rebus delinquunt",
+        "en-US": "Chapter XLVI: Of Those Who Fail in Any Other Matters"
+      }
+    },
+    {
+      "id": "ch47",
+      "title": {
+        "la": "Caput 47: De significanda hora operis Dei",
+        "en-US": "Chapter XLVII: Of Giving the Signal for the Time of the Work of God"
+      }
+    },
+    {
+      "id": "ch48",
+      "title": {
+        "la": "Caput 48: De opera manuum cotidiana",
+        "en-US": "Chapter XLVIII: Of the Daily Work"
+      }
+    },
+    {
+      "id": "ch49",
+      "title": {
+        "la": "Caput 49: De quadragesimæ observatione",
+        "en-US": "Chapter XLIX: On the Keeping of Lent"
+      }
+    },
+    {
+      "id": "ch50",
+      "title": {
+        "la": "Caput 50: De fratribus qui longe ab oratorio laborant aut in via sunt",
+        "en-US": "Chapter L: Of Brethren Who Work a Long Distance from the Oratory or Are on a Journey"
+      }
+    },
+    {
+      "id": "ch51",
+      "title": {
+        "la": "Caput 51: De fratribus qui non longe satis proficiscuntur",
+        "en-US": "Chapter LI: Of the Brethren Who Do Not Go Very Far Away"
+      }
+    },
+    {
+      "id": "ch52",
+      "title": {
+        "la": "Caput 52: De oratorio monasterii",
+        "en-US": "Chapter LII: Of the Oratory of the Monastery"
+      }
+    },
+    {
+      "id": "ch53",
+      "title": {
+        "la": "Caput 53: De hospitibus suscipiendis",
+        "en-US": "Chapter LIII: Of the Reception of Guests"
+      }
+    },
+    {
+      "id": "ch54",
+      "title": {
+        "la": "Caput 54: Si debeat monachus litteras vel aliquid suscipere",
+        "en-US": "Chapter LIV: Whether a Monk Should Receive Letters or Anything Else"
+      }
+    },
+    {
+      "id": "ch55",
+      "title": {
+        "la": "Caput 55: De vestiario vel calciario fratrum",
+        "en-US": "Chapter LV: Of the Clothing and the Footgear of the Brethren"
+      }
+    },
+    {
+      "id": "ch56",
+      "title": {
+        "la": "Caput 56: De mensa abbatis",
+        "en-US": "Chapter LVI: Of the Abbot's Table"
+      }
+    },
+    {
+      "id": "ch57",
+      "title": {
+        "la": "Caput 57: De artificibus monasterii",
+        "en-US": "Chapter LVII: Of the Artists of the Monastery"
+      }
+    },
+    {
+      "id": "ch58",
+      "title": {
+        "la": "Caput 58: De disciplina suscipiendorum fratrum",
+        "en-US": "Chapter LVIII: Of the Manner of Admitting Brethren"
+      }
+    },
+    {
+      "id": "ch59",
+      "title": {
+        "la": "Caput 59: De filiis nobilium aut pauperum qui offeruntur",
+        "en-US": "Chapter LIX: Of the Children of the Noble and of the Poor Who Are Offered"
+      }
+    },
+    {
+      "id": "ch60",
+      "title": {
+        "la": "Caput 60: De sacerdotibus qui forte voluerint in monasterio habitare",
+        "en-US": "Chapter LX: Of Priests Who May Wish to Live in the Monastery"
+      }
+    },
+    {
+      "id": "ch61",
+      "title": {
+        "la": "Caput 61: De monachis peregrinis qualiter suscipiantur",
+        "en-US": "Chapter LXI: How Stranger Monks Are to Be Received"
+      }
+    },
+    {
+      "id": "ch62",
+      "title": {
+        "la": "Caput 62: De sacerdotibus monasterii",
+        "en-US": "Chapter LXII: Of the Priests of the Monastery"
+      }
+    },
+    {
+      "id": "ch63",
+      "title": {
+        "la": "Caput 63: De ordine congregationis",
+        "en-US": "Chapter LXIII: Of the Order in the Monastery"
+      }
+    },
+    {
+      "id": "ch64",
+      "title": {
+        "la": "Caput 64: De ordinando abbate",
+        "en-US": "Chapter LXIV: Of the Election of the Abbot"
+      }
+    },
+    {
+      "id": "ch65",
+      "title": {
+        "la": "Caput 65: De præposito monasterii",
+        "en-US": "Chapter LXV: Of the Prior of the Monastery"
+      }
+    },
+    {
+      "id": "ch66",
+      "title": {
+        "la": "Caput 66: De hostiariis monasterii",
+        "en-US": "Chapter LXVI: Of the Porter of the Monastery"
+      }
+    },
+    {
+      "id": "ch67",
+      "title": {
+        "la": "Caput 67: De fratribus in viam directis",
+        "en-US": "Chapter LXVII: Of the Brethren Who Are Sent on a Journey"
+      }
+    },
+    {
+      "id": "ch68",
+      "title": {
+        "la": "Caput 68: Si fratri inpossibilia iniungantur",
+        "en-US": "Chapter LXVIII: If a Brother Is Commanded to Do Impossible Things"
+      }
+    },
+    {
+      "id": "ch69",
+      "title": {
+        "la": "Caput 69: Ut in monasterio non præsumat alter alterum defendere",
+        "en-US": "Chapter LXIX: That in the Monastery No One Presume to Defend Another"
+      }
+    },
+    {
+      "id": "ch70",
+      "title": {
+        "la": "Caput 70: Ut non præsumat passim aliquis cædere",
+        "en-US": "Chapter LXX: That No One Presume to Strike Another"
+      }
+    },
+    {
+      "id": "ch71",
+      "title": {
+        "la": "Caput 71: Ut oboedientes sibi sint invicem",
+        "en-US": "Chapter LXXI: That the Brethren Be Obedient to One Another"
+      }
+    },
+    {
+      "id": "ch72",
+      "title": {
+        "la": "Caput 72: De zelo bono quod debent monachi habere",
+        "en-US": "Chapter LXXII: Of the Virtuous Zeal Which the Monks Ought to Have"
+      }
+    },
+    {
+      "id": "ch73",
+      "title": {
+        "la": "Caput 73: De hoc quod non omnis iustitiæ observatio in hac sit regula constituta",
+        "en-US": "Chapter LXXIII: Of This, that Not the Whole Observance of Righteousness Is Laid Down in this Rule"
+      }
+    }
+  ]
+}
