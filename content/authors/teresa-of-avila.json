@@ -1,0 +1,15 @@
+{
+  "name": {
+    "en-US": "St. Teresa of Ávila",
+    "pt-BR": "Santa Teresa de Ávila"
+  },
+  "century": 16,
+  "saint": "teresa",
+  "matches": [
+    "St. Teresa of Ávila",
+    "St. Teresa of Avila",
+    "St. Teresa of Jesus",
+    "Teresa of Avila, St.",
+    "Teresa, of Avila, Saint, 1515-1582"
+  ]
+}

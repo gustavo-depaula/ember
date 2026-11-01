@@ -1,0 +1,25 @@
+# Prólogo
+
+*Este tratado, llamado castillo interior, escribió Teresa de Jesús, monja de Nuestra Señora del Carmen, a sus hermanas y hijas las monjas carmelitas descalzas.*[^1]
+
+JHS
+
+Pocas cosas que me ha mandado la obediencia, se me han hecho tan dificultosas como escribir ahora cosas de oración; lo uno, porque no me parece me da el Señor espíritu para hacerlo, ni deseo; lo otro, por tener la cabeza tres meses ha con un ruido y flaqueza tan grande, que aun los negocios forzosos escribo con pena. Mas, entendiendo que la fuerza de la obediencia suele allanar cosas que parecen imposibles, la voluntad se determina a hacerlo muy de buena gana, aunque el natural parece que se aflige mucho; porque no me ha dado el Señor tanta virtud, que el pelear con la enfermedad contina y con ocupaciones de muchas maneras, se pueda hacer sin gran contradición suya. Hágalo el que ha hecho otras cosas más dificultosas por hacerme merced, en cuya misericordia confío.
+
+Bien creo he de saber decir poco más que lo que he dicho en otras cosas que me han mandado escribir, antes temo que han de ser casi todas las mesmas; porque ansí como los pájaros que enseñan a hablar, no saben más de lo que les muestran u oyen, y esto repiten muchas veces, so[^2] yo al pie de la letra. Si el Señor quisiere diga algo nuevo, Su Majestad lo dará u será servido traerme a la memoria lo que otras veces he dicho, que aun con esto me contentaría, por tenerla tan mala, que me holgaría de atinar a algunas cosas, que decían estaban bien dichas, por si se hubieren perdido. Si tampoco me diere el Señor esto, con cansarme y acrecentar el mal de cabeza por obediencia, quedaré con ganancia, aunque de lo que dijere no se saque ningún provecho.
+
+Y ansí comienzo a cumplirla hoy, día de la Santísima Trenidad[^3], año de MDLXXVII, en este monesterio de San Josef del Carmen en Toledo, adonde a el presente estoy, sujetándome en todo lo que dijere a el parecer de quien me lo manda escribir, que son personas de grandes letras. Si alguna cosa dijere que no vaya conforme a lo que tiene la santa Ilesia Católica Romana[^4], será por inorancia y no por malicia. Esto se puede tener por cierto, y que siempre estoy y estaré sujeta, por la bondad de Dios, y lo he estado a ella. Sea por siempre bendito, amén, y glorificado.
+
+Díjome quien me mandó escribir, que como estas monjas de estos monesterios de Nuestra Señora del Carmen tienen necesidad de quien algunas dudas de oración las declare, y que le parecía que mejor se entienden el lenguaje unas mujeres de otras, y[^5] con el amor que me tienen les haría más al caso lo que yo les dijese, tiene entendido por esta causa será de alguna importancia si se acierta a decir alguna cosa; y por esto[^6] iré hablando con ellas en lo que escribiré, y porque parece desatino pensar que puede hacer al caso a otras personas: harta merced me hará Nuestro Señor si a alguna de ellas se aprovechare para alabarle algún poquito más. Bien sabe Su Majestad que yo no pretendo otra cosa; y está muy claro que, cuando algo se atinare a decir, entenderán no es mío, pues no hay causa para ello, si no fuere tener tan poco entendimiento como yo habilidad para cosas semejantes, si el Señor, por su misericordia, no la da.
+
+[^1]: En la parte superior de la segunda cara de la hoja primera del autógrafo, se leen estas líneas de letra de la misma Santa Teresa. Un poco más abajo puso el P. Francisco de Ribera la siguiente interesante nota, hasta el presente atribuida a Fr. Luis de León, como ya queda dicho en la Introducción. «En este libro está muchas veces borrado lo que escrivió la Santa Madre, y añadidas otras palabras o puestas glosas a la margen, y ordinariamente está mal borrado, y estava mejor primero como se escrivió, y veráse en que a la sentencia viene mejor, y la Santa Madre lo viene después a declarar, y lo que se enmienda muchas veces no viene bien con lo que se dize después, y ansí se pudieran muy bien escusar las enmiendas y las glosas. Y porque lo he leydo y mirado todo con algún cuydado, me pareció avisar a quien lo leyere, que lea como escrivió la Santa Madre, que lo entendía y dezía mejor, y dexe todo lo añadido; y lo borrado de la letra de la Santa délo por no borrado, si no fuere cuando estuviere enmendado o borrado de su misma mano, que es pocas vezes. Y ruego por caridad a quien leyere este libro, que reverencie las palabras y letras hechas por aquella tan santa mano, y procure entenderlo bien y verá que no hay que enmendar, y, aunque no lo entienda, crea que quien lo escrivió lo sabía mejor, y que no se pueden corregir bien las palabras, si no es llegando a alcanzar enteramente el sentido dellas; porque si no se alcanza lo que está muy propiamente dicho, parecerá impropio, y desa manera se vienen a estragar y echar a perder los libros».
+
+[^2]: Omite la y por comenzar con la misma letra la siguiente palabra. 
+
+[^3]: 2 de Junio de 1577. Trenidad por Trinidad.
+
+[^4]: Católica, Romana. Estas dos palabras están puestas entre líneas por la Santa.
+
+[^5]: Y que, había escrito, u borró el que,
+
+[^6]: Y por esta causa, escribió primero, pero enmendó luego la frase. Por esto, lee también Fr. Luis de León
