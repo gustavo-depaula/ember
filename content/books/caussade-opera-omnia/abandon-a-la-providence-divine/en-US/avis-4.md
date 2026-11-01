@@ -1,0 +1,13 @@
+# Counsel IV
+
+*Conduct after Faults.*
+
+*Concerning our conduct after having committed faults.*
+
+1st. Endure with humility before God the humiliation of your faults. After having been unfaithful to grace and after accidental failings remember always that you are nothing and have a holy contempt of yourself. This is the great advantage that God allows us to gain even from our faults.
+
+2nd. Fear, especially if carried to excess after whatever fault you may have committed proceeds from the devil. Instead of giving in to this dangerous illusion use every effort to repel it, and cast uneasiness away as you would cast a stone into the depths of the sea, and never dwell upon it voluntarily. However, should this feeling, by God's permission be stronger than the will, then have recourse to the second remedy, which consists in allowing ourselves to be crucified in peace according as God permits and as the martyrs abandoned themselves to their tortures.
+
+3rd. What is said about the fears that go with conspicuous faults applies equally to that feeling of uneasiness and distress which proceeds from constant little infidelities. This oppression of the heart is occasioned also by the devil. Despise and combat it as if it were a real temptation. Sometimes, however, God makes use of this anguish and excessive terror that certain souls suffer in order to purify them and make them die to themselves. If it is impossible to succeed in driving them away, the only remedy left is to endure this interior crucifixion peacefully in a spirit of absolute resignation to the divine will. This is the way to regain the peace and calm of a soul truly resigned to the will of God.
+
+4th. The fears roused about the recitation of the Office are nothing but a mere temptation because actual attention is not necessary. In order that prayer may have all its merit it is sufficient to make it with virtual attention which is nothing more than an intention to pray well formed before beginning, and this, no distraction even though voluntary can recall. So you can say the Office quite well while at the same time enduring continual involuntary distractions, as the trouble caused by these distractions is the best proof that the wish to pray well is heartfelt; it is also a sign that the wish is genuine. Therefore this wish makes the prayer a good and true prayer. Although hidden from the soul, on account of the trouble occasioned by these distractions the good intention, nevertheless, exists and is not hidden from the sight of God who gives us a double grace, first in hearing our prayers as He does all prayers rightly made, and then in concealing this from us in order that we may be mortified in everything, and on all occasions.

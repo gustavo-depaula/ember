@@ -1,0 +1,544 @@
+{
+  "id": "caussade-abandon-providence-divine",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "L’Abandon à la Providence divine",
+    "en-US": "Abandonment to Divine Providence",
+    "pt-BR": "O abandono à Providência divina"
+  },
+  "author": {
+    "fr-FR": "Jean-Pierre de Caussade (attribué)",
+    "en-US": "Jean-Pierre de Caussade (attributed)",
+    "pt-BR": "Jean-Pierre de Caussade (atribuído)"
+  },
+  "description": {
+    "fr-FR": "Le traité de l’abandon : le devoir de chaque moment comme voile de l’action divine, la vertu puis l’état d’abandon, ses épreuves et l’assistance paternelle de Dieu, suivi des Avis spirituels et d’une prière. Publié en 1861 par le P. Henri Ramière, qui l’a mis en ordre d’après des copies de lettres et d’instructions des visitandines de Nancy, et attribué à Jean-Pierre de Caussade, S.J. (1675-1751) ; l’attribution est aujourd’hui contestée (l’ouvrage serait en partie de l’une de ces religieuses), d’où la mention « attribué ». Texte de la 7e édition de 1874, avec l’avant-propos de Ramière. Les Lettres de la seconde partie ne sont pas incluses.",
+    "en-US": "The treatise on abandonment: the duty of each moment as the veil of the divine action, then the virtue and the state of abandonment, its trials and God's fatherly assistance, followed by the Spiritual Counsels and a prayer. Published in 1861 by Fr. Henri Ramière, who arranged it from copies of letters and instructions kept by the Visitation nuns of Nancy, and attributed to Jean-Pierre de Caussade, S.J. (1675-1751); the attribution is now disputed (the work may be partly by one of those nuns), hence \"attributed\". The text of the 7th edition of 1874 in French, and E. J. Strickland's 1921 English, which follows Ramière's arrangement section for section; the Second Part (Letters) is not included. Ramière's preface is in the French only.",
+    "pt-BR": "O tratado do abandono: o dever de cada momento como véu da ação divina, depois a virtude e o estado de abandono, suas provações e a assistência paterna de Deus, seguido dos Avisos espirituais e de uma oração. Publicado em 1861 pelo P. Henri Ramière, que o ordenou a partir de cópias de cartas e instruções conservadas pelas visitandinas de Nancy, e atribuído a Jean-Pierre de Caussade, S.J. (1675-1751); a atribuição é hoje contestada, daí o \"atribuído\". As Cartas da segunda parte não estão incluídas."
+  },
+  "composed": "c. 1740",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "caussade/abandon-a-la-providence-divine",
+  "editions": {
+    "fr-FR": {
+      "editor": "P. Henri Ramière, S.J. (7th ed., Paris: Périsse)",
+      "year": 1874
+    },
+    "en-US": {
+      "translator": "E. J. Strickland",
+      "year": 1921
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/labandonlaprovid0001caus",
+      "edition": "L’Abandon à la Providence divine, ouvrage posthume du P. J.-P. de Caussade, 7e édition augmentée, revue et mise en ordre par le P. H. Ramière, t. I, Paris: Librairie catholique de Périsse Frères (Bourguet, Calas et Cie), 1874. Internet Archive scan, OCR text.",
+      "description": "Ramière's Avant-propos with its four footnotes, the Première partie (Traité de l’abandon: Livre I chapters I-II, Livre II chapters I-IV, each split by its numbered sections), the Avis spirituels I-V and the Prière. The approbation, title pages, table of contents and the Seconde partie (Lettres) are not imported. Running heads, page numbers and line-end hyphens were stripped, and the OCR was corrected against a French spelling dictionary plus hand-made fixes for about 400 recurrent misreadings; some residual OCR slips may remain (e.g. words fused by lost spaces, a few garbled words in the Avis).",
+      "tier": "A",
+      "tierEvidence": "Caussade died in 1751 and Ramière in 1884; the 1874 edition is public domain everywhere."
+    },
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/d/decaussade/abandonment/cache/abandonment.txt",
+      "edition": "Abandonment to Divine Providence, translated by E. J. Strickland from the 10th French edition (Ramière), with a preface by Dom Arnold, St. Louis: B. Herder / Exeter: Catholic Records Press, 1921. Christian Classics Ethereal Library plain text (proofed).",
+      "description": "Book I, Book II and the Spiritual Counsels with the prayers, in the same sections as the French. Dom Arnold's preface, the translator's front matter and the Second Part (Letters) are not imported. Strickland translates freely, 'more regard paid to the meaning than to the literal exactness'.",
+      "tier": "A",
+      "tierEvidence": "Published in 1921: public domain in the US (before 1931). CCEL marks the text 'Rights: Public Domain'."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avant-propos",
+      "title": {
+        "fr-FR": "Avant-propos"
+      }
+    },
+    {
+      "id": "l1c1",
+      "title": {
+        "fr-FR": "Livre I, chapitre I. La sainteté consiste dans la fidélité à l’ordre de Dieu et dans l’abandon à son action",
+        "en-US": "Book I, Chapter I. Sanctity consists in fidelity to the order established by God, and in submission to all His operations"
+      },
+      "children": [
+        {
+          "id": "l1c1-s1",
+          "title": {
+            "fr-FR": "§ I",
+            "en-US": "§ I"
+          }
+        },
+        {
+          "id": "l1c1-s2",
+          "title": {
+            "fr-FR": "§ II",
+            "en-US": "§ II"
+          }
+        },
+        {
+          "id": "l1c1-s3",
+          "title": {
+            "fr-FR": "§ III",
+            "en-US": "§ III"
+          }
+        },
+        {
+          "id": "l1c1-s4",
+          "title": {
+            "fr-FR": "§ IV",
+            "en-US": "§ IV"
+          }
+        },
+        {
+          "id": "l1c1-s5",
+          "title": {
+            "fr-FR": "§ V",
+            "en-US": "§ V"
+          }
+        },
+        {
+          "id": "l1c1-s6",
+          "title": {
+            "fr-FR": "§ VI",
+            "en-US": "§ VI"
+          }
+        },
+        {
+          "id": "l1c1-s7",
+          "title": {
+            "fr-FR": "§ VII",
+            "en-US": "§ VII"
+          }
+        },
+        {
+          "id": "l1c1-s8",
+          "title": {
+            "fr-FR": "§ VIII",
+            "en-US": "§ VIII"
+          }
+        },
+        {
+          "id": "l1c1-s9",
+          "title": {
+            "fr-FR": "§ IX",
+            "en-US": "§ IX"
+          }
+        }
+      ]
+    },
+    {
+      "id": "l1c2",
+      "title": {
+        "fr-FR": "Livre I, chapitre II. L’action divine travaille sans relâche à la sanctification des âmes",
+        "en-US": "Book I, Chapter II. The divine action works unceasingly for the sanctification of souls"
+      },
+      "children": [
+        {
+          "id": "l1c2-s1",
+          "title": {
+            "fr-FR": "§ I",
+            "en-US": "§ I"
+          }
+        },
+        {
+          "id": "l1c2-s2",
+          "title": {
+            "fr-FR": "§ II",
+            "en-US": "§ II"
+          }
+        },
+        {
+          "id": "l1c2-s3",
+          "title": {
+            "fr-FR": "§ III",
+            "en-US": "§ III"
+          }
+        },
+        {
+          "id": "l1c2-s4",
+          "title": {
+            "fr-FR": "§ IV",
+            "en-US": "§ IV"
+          }
+        },
+        {
+          "id": "l1c2-s5",
+          "title": {
+            "fr-FR": "§ V",
+            "en-US": "§ V"
+          }
+        },
+        {
+          "id": "l1c2-s6",
+          "title": {
+            "fr-FR": "§ VI",
+            "en-US": "§ VI"
+          }
+        },
+        {
+          "id": "l1c2-s7",
+          "title": {
+            "fr-FR": "§ VII",
+            "en-US": "§ VII"
+          }
+        },
+        {
+          "id": "l1c2-s8",
+          "title": {
+            "fr-FR": "§ VIII",
+            "en-US": "§ VIII"
+          }
+        },
+        {
+          "id": "l1c2-s9",
+          "title": {
+            "fr-FR": "§ IX",
+            "en-US": "§ IX"
+          }
+        },
+        {
+          "id": "l1c2-s10",
+          "title": {
+            "fr-FR": "§ X",
+            "en-US": "§ X"
+          }
+        },
+        {
+          "id": "l1c2-s11",
+          "title": {
+            "fr-FR": "§ XI",
+            "en-US": "§ XI"
+          }
+        },
+        {
+          "id": "l1c2-s12",
+          "title": {
+            "fr-FR": "§ XII",
+            "en-US": "§ XII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "l2c1",
+      "title": {
+        "fr-FR": "Livre II, chapitre I. Nature et excellence de l’état d’abandon",
+        "en-US": "Book II, Chapter I. On the nature and excellence of the state of abandonment"
+      },
+      "children": [
+        {
+          "id": "l2c1-s1",
+          "title": {
+            "fr-FR": "§ I",
+            "en-US": "§ I"
+          }
+        },
+        {
+          "id": "l2c1-s2",
+          "title": {
+            "fr-FR": "§ II",
+            "en-US": "§ II"
+          }
+        },
+        {
+          "id": "l2c1-s3",
+          "title": {
+            "fr-FR": "§ III",
+            "en-US": "§ III"
+          }
+        },
+        {
+          "id": "l2c1-s4",
+          "title": {
+            "fr-FR": "§ IV",
+            "en-US": "§ IV"
+          }
+        },
+        {
+          "id": "l2c1-s5",
+          "title": {
+            "fr-FR": "§ V",
+            "en-US": "§ V"
+          }
+        },
+        {
+          "id": "l2c1-s6",
+          "title": {
+            "fr-FR": "§ VI",
+            "en-US": "§ VI"
+          }
+        },
+        {
+          "id": "l2c1-s7",
+          "title": {
+            "fr-FR": "§ VII",
+            "en-US": "§ VII"
+          }
+        },
+        {
+          "id": "l2c1-s8",
+          "title": {
+            "fr-FR": "§ VIII",
+            "en-US": "§ VIII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "l2c2",
+      "title": {
+        "fr-FR": "Livre II, chapitre II. Devoirs des âmes que Dieu appelle à l’état d’abandon",
+        "en-US": "Book II, Chapter II. The duties of those souls called by God to the state of abandonment"
+      },
+      "children": [
+        {
+          "id": "l2c2-s1",
+          "title": {
+            "fr-FR": "§ I",
+            "en-US": "§ I"
+          }
+        },
+        {
+          "id": "l2c2-s2",
+          "title": {
+            "fr-FR": "§ II",
+            "en-US": "§ II"
+          }
+        },
+        {
+          "id": "l2c2-s3",
+          "title": {
+            "fr-FR": "§ III",
+            "en-US": "§ III"
+          }
+        },
+        {
+          "id": "l2c2-s4",
+          "title": {
+            "fr-FR": "§ IV",
+            "en-US": "§ IV"
+          }
+        },
+        {
+          "id": "l2c2-s5",
+          "title": {
+            "fr-FR": "§ V",
+            "en-US": "§ V"
+          }
+        },
+        {
+          "id": "l2c2-s6",
+          "title": {
+            "fr-FR": "§ VI",
+            "en-US": "§ VI"
+          }
+        },
+        {
+          "id": "l2c2-s7",
+          "title": {
+            "fr-FR": "§ VII",
+            "en-US": "§ VII"
+          }
+        },
+        {
+          "id": "l2c2-s8",
+          "title": {
+            "fr-FR": "§ VIII",
+            "en-US": "§ VIII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "l2c3",
+      "title": {
+        "fr-FR": "Livre II, chapitre III. Épreuves attachées à l’état d’abandon",
+        "en-US": "Book II, Chapter III. The trials connected with the state of abandonment"
+      },
+      "children": [
+        {
+          "id": "l2c3-s1",
+          "title": {
+            "fr-FR": "§ I",
+            "en-US": "§ I"
+          }
+        },
+        {
+          "id": "l2c3-s2",
+          "title": {
+            "fr-FR": "§ II",
+            "en-US": "§ II"
+          }
+        },
+        {
+          "id": "l2c3-s3",
+          "title": {
+            "fr-FR": "§ III",
+            "en-US": "§ III"
+          }
+        },
+        {
+          "id": "l2c3-s4",
+          "title": {
+            "fr-FR": "§ IV",
+            "en-US": "§ IV"
+          }
+        },
+        {
+          "id": "l2c3-s5",
+          "title": {
+            "fr-FR": "§ V",
+            "en-US": "§ V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "l2c4",
+      "title": {
+        "fr-FR": "Livre II, chapitre IV. De l’assistance paternelle dont Dieu entoure les âmes qui s’abandonnent à lui",
+        "en-US": "Book II, Chapter IV. The assistance rendered by the fatherly providence of God to those souls who have abandoned themselves to Him"
+      },
+      "children": [
+        {
+          "id": "l2c4-s1",
+          "title": {
+            "fr-FR": "§ I",
+            "en-US": "§ I"
+          }
+        },
+        {
+          "id": "l2c4-s2",
+          "title": {
+            "fr-FR": "§ II",
+            "en-US": "§ II"
+          }
+        },
+        {
+          "id": "l2c4-s3",
+          "title": {
+            "fr-FR": "§ III",
+            "en-US": "§ III"
+          }
+        },
+        {
+          "id": "l2c4-s4",
+          "title": {
+            "fr-FR": "§ IV",
+            "en-US": "§ IV"
+          }
+        },
+        {
+          "id": "l2c4-s5",
+          "title": {
+            "fr-FR": "§ V",
+            "en-US": "§ V"
+          }
+        },
+        {
+          "id": "l2c4-s6",
+          "title": {
+            "fr-FR": "§ VI",
+            "en-US": "§ VI"
+          }
+        },
+        {
+          "id": "l2c4-s7",
+          "title": {
+            "fr-FR": "§ VII",
+            "en-US": "§ VII"
+          }
+        },
+        {
+          "id": "l2c4-s8",
+          "title": {
+            "fr-FR": "§ VIII",
+            "en-US": "§ VIII"
+          }
+        },
+        {
+          "id": "l2c4-s9",
+          "title": {
+            "fr-FR": "§ IX",
+            "en-US": "§ IX"
+          }
+        },
+        {
+          "id": "l2c4-s10",
+          "title": {
+            "fr-FR": "§ X",
+            "en-US": "§ X"
+          }
+        },
+        {
+          "id": "l2c4-s11",
+          "title": {
+            "fr-FR": "§ XI",
+            "en-US": "§ XI"
+          }
+        },
+        {
+          "id": "l2c4-s12",
+          "title": {
+            "fr-FR": "§ XII",
+            "en-US": "§ XII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "avis",
+      "title": {
+        "fr-FR": "Avis spirituels",
+        "en-US": "Spiritual Counsels"
+      },
+      "children": [
+        {
+          "id": "avis-1",
+          "title": {
+            "fr-FR": "Avis I",
+            "en-US": "Counsel I"
+          }
+        },
+        {
+          "id": "avis-2",
+          "title": {
+            "fr-FR": "Avis II",
+            "en-US": "Counsel II"
+          }
+        },
+        {
+          "id": "avis-3",
+          "title": {
+            "fr-FR": "Avis III",
+            "en-US": "Counsel III"
+          }
+        },
+        {
+          "id": "avis-4",
+          "title": {
+            "fr-FR": "Avis IV",
+            "en-US": "Counsel IV"
+          }
+        },
+        {
+          "id": "avis-5",
+          "title": {
+            "fr-FR": "Avis V",
+            "en-US": "Counsel V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "priere",
+      "title": {
+        "fr-FR": "Prière du Père de Caussade pour obtenir le saint abandon",
+        "en-US": "Prayer"
+      }
+    }
+  ]
+}

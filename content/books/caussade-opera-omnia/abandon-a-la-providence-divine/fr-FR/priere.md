@@ -1,0 +1,7 @@
+# Prière du Père de Caussade pour obtenir le saint abandon
+
+O mon Dieu, quand vous plaira-t-il de me faire la grâce de demeurer habituellement dans cette union de ma volonté avec votre volonté adorable, où sans rien dire on dit tout, où l’on fait tout en vous laissant faire; où l’on a des occupations immenses, puisqu’on se conforme de plus en plus à votre bon plaisir, et où pourtant on est dispensé de tout travail, puisqu’on vous remet le soin de toutes choses, et qu’on ne songe qu’à se reposer pleinement en vous; état délicieux, et qui, en l’absence même de toute foi sensible, offre à l’âme un goût intérieur et tout spirituel? Que je dise donc continuellement par la disposition habituelle de mon cœur : Fiat; oui, mon Dieu, oui, tout ce qu’il vous plaira; que toutes vos volontés saintes s’accomplissent en tout; je renonce aux miennes, qui sont très-aveugles , perverses et corrompues, par ce misérable amour-propre, le mortel ennemi de votre grâce et de votre pur amour, de votre gloire et de ma sanctification.
+
+## Prière qu’on peut faire dans les tentations
+
+O mon Dieu, préservez-moi, par votre grâce, de tout péché ; mais pour la peine qui fait le martyre de mon amour-propre, et pour les saintes abjections qui crucifient mon orgueil, je les accepte de tout mon cœur, non pas tant comme les effets de votre justice, que comme les bienfaits de votre grande miséricorde. Ayez donc pitié de moi, mon Seigneur, et assistez-moi.
