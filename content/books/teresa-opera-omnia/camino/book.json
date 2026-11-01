@@ -1,0 +1,363 @@
+{
+  "id": "teresa-camino",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Camino de perfección",
+    "en-US": "The Way of Perfection",
+    "pt-BR": "Caminho de perfeição"
+  },
+  "author": {
+    "es-ES": "Santa Teresa de Jesús",
+    "en-US": "St. Teresa of Ávila",
+    "pt-BR": "Santa Teresa de Ávila"
+  },
+  "description": {
+    "es-ES": "Avisos y consejos de Santa Teresa a sus monjas de San José de Ávila: la pobreza, el amor de unas con otras, el desasimiento y la humildad, y la oración, enseñada sobre el Paternóster. Segunda redacción (autógrafo de Valladolid), texto crítico del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "St. Teresa's counsels to her nuns of St. Joseph's at Ávila: poverty, love for one another, detachment and humility, and prayer, taught through the Our Father. The second redaction (Valladolid autograph) in P. Silverio de Santa Teresa's critical text with his notes; English translation by the Benedictines of Stanbrook, edited by Benedict Zimmerman, with the Escorial variants in brackets.",
+    "pt-BR": "Conselhos de Santa Teresa às suas monjas de São José de Ávila: a pobreza, o amor mútuo, o desapego e a humildade, e a oração, ensinada a partir do Pai-Nosso."
+  },
+  "composed": "c. 1566–1569",
+  "languages": [
+    "es-ES",
+    "en-US"
+  ],
+  "work": "teresa-of-avila/camino",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1916
+    },
+    "en-US": {
+      "translator": "Benedictines of Stanbrook",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesantatere03tere",
+      "edition": "Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. III: Camino de perfección (Biblioteca Mística Carmelitana 3), Burgos: El Monte Carmelo, 1916, pp. 1–206: the Valladolid autograph. Princeton Theological Seminary scan, primary OCR.",
+      "description": "Spanish critical text of the second redaction with Silverio's notes kept as footnotes; his introduction and the appendices (the Escorial autograph and the Toledo codex) are not included. OCR of two independent scans merged word by word, then proofread against both.",
+      "tier": "A",
+      "tierEvidence": "Teresa died in 1582; the volume was published in 1916 (public domain in the US) and P. Silverio died in 1954, so his notes are public domain under life+70 since 1 January 2025."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdestateresa03tere",
+      "edition": "The same volume, Wellesley College scan, used as the second witness.",
+      "tier": "A",
+      "tierEvidence": "Same edition as above."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thewayofperfecti00tereuoft",
+      "edition": "The Way of Perfection, translated from the autograph by the Benedictines of Stanbrook, including all the variants from both the Escorial and Valladolid editions, revised with notes and an introduction by Benedict Zimmerman, O.C.D., 2nd ed., London: Thomas Baker, 1919. University of Toronto scan, OCR cleaned against the 1st ed. (1911, archive.org/details/wayofperfection00tere_0).",
+      "description": "English translation with Zimmerman's notes and paragraph summaries; his introduction and the index are not included.",
+      "tier": "A",
+      "tierEvidence": "Published 1911/1919 (before 1930: public domain in the US); anonymous corporate translation published over 70 years ago (UK); Zimmerman died in 1937. archive.org marks the scan NOT_IN_COPYRIGHT."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo",
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "es-ES": "Capítulo I",
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "es-ES": "Capítulo II",
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "es-ES": "Capítulo III",
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "es-ES": "Capítulo IV",
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "es-ES": "Capítulo V",
+        "en-US": "Chapter V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "es-ES": "Capítulo VI",
+        "en-US": "Chapter VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "es-ES": "Capítulo VII",
+        "en-US": "Chapter VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "es-ES": "Capítulo VIII",
+        "en-US": "Chapter VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "es-ES": "Capítulo IX",
+        "en-US": "Chapter IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "es-ES": "Capítulo X",
+        "en-US": "Chapter X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "es-ES": "Capítulo XI",
+        "en-US": "Chapter XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "es-ES": "Capítulo XII",
+        "en-US": "Chapter XII"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "es-ES": "Capítulo XIII",
+        "en-US": "Chapter XIII"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "es-ES": "Capítulo XIV",
+        "en-US": "Chapter XIV"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "es-ES": "Capítulo XV",
+        "en-US": "Chapter XV"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "es-ES": "Capítulo XVI",
+        "en-US": "Chapter XVI"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "es-ES": "Capítulo XVII",
+        "en-US": "Chapter XVII"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "es-ES": "Capítulo XVIII",
+        "en-US": "Chapter XVIII"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "es-ES": "Capítulo XIX",
+        "en-US": "Chapter XIX"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "es-ES": "Capítulo XX",
+        "en-US": "Chapter XX"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "es-ES": "Capítulo XXI",
+        "en-US": "Chapter XXI"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "es-ES": "Capítulo XXII",
+        "en-US": "Chapter XXII"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "es-ES": "Capítulo XXIII",
+        "en-US": "Chapter XXIII"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "es-ES": "Capítulo XXIV",
+        "en-US": "Chapter XXIV"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "es-ES": "Capítulo XXV",
+        "en-US": "Chapter XXV"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "es-ES": "Capítulo XXVI",
+        "en-US": "Chapter XXVI"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "es-ES": "Capítulo XXVII",
+        "en-US": "Chapter XXVII"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "es-ES": "Capítulo XXVIII",
+        "en-US": "Chapter XXVIII"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "es-ES": "Capítulo XXIX",
+        "en-US": "Chapter XXIX"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "es-ES": "Capítulo XXX",
+        "en-US": "Chapter XXX"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "es-ES": "Capítulo XXXI",
+        "en-US": "Chapter XXXI"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "es-ES": "Capítulo XXXII",
+        "en-US": "Chapter XXXII"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "es-ES": "Capítulo XXXIII",
+        "en-US": "Chapter XXXIII"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "es-ES": "Capítulo XXXIV",
+        "en-US": "Chapter XXXIV"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "es-ES": "Capítulo XXXV",
+        "en-US": "Chapter XXXV"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "es-ES": "Capítulo XXXVI",
+        "en-US": "Chapter XXXVI"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "es-ES": "Capítulo XXXVII",
+        "en-US": "Chapter XXXVII"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "es-ES": "Capítulo XXXVIII",
+        "en-US": "Chapter XXXVIII"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "es-ES": "Capítulo XXXIX",
+        "en-US": "Chapter XXXIX"
+      }
+    },
+    {
+      "id": "c40",
+      "title": {
+        "es-ES": "Capítulo XL",
+        "en-US": "Chapter XL"
+      }
+    },
+    {
+      "id": "c41",
+      "title": {
+        "es-ES": "Capítulo XLI",
+        "en-US": "Chapter XLI"
+      }
+    },
+    {
+      "id": "c42",
+      "title": {
+        "es-ES": "Capítulo XLII",
+        "en-US": "Chapter XLII"
+      }
+    }
+  ]
+}
