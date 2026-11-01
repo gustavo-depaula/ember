@@ -40,8 +40,10 @@ If `content/authors/` has no file whose `matches` covers the book's `author["en-
 
 - `python3 scripts/check-book.py content/books/<…>/<work>` must exit 0; fix every error and every H1/TOC warning you can.
 - Spot-check word counts against the report's figures; a big shortfall means lost text.
-- **Commit each book on its own** with only that book's files (and the author file): `Import <Author>'s <Work> (<langs>)`, a body naming the sources and their tiers. No `Co-Authored-By` line.
-- Then `git pull --rebase origin main && git push origin HEAD:main` (retry the pull on a rejected push).
+- You work in the main checkout (`/Users/gustavo/Documents/prayer`, branch `main`) beside other agents and unrelated uncommitted files: **commit only your paths**, `git add -- <book dir> <author file>` then `git commit -m "…" -- <book dir> <author file>`. Never `git add -A`, `git stash`, `git reset` or `git checkout` of other paths. If git reports `index.lock`, wait a few seconds and retry.
+- **Commit each book on its own**: `Import <Author>'s <Work> (<langs>)`, a body naming the sources and their tiers. No `Co-Authored-By` line.
+- Then `git pull --rebase --autostash origin main && git push origin HEAD:main` (retry on a rejected push).
+- Disk space is tight (a few GB free): keep downloads lean, delete scratch files you no longer need, and keep large scans out of the repo.
 - Do not run the translation pipeline. `pnpm build:corpus` is not needed.
 
 ## Requests
