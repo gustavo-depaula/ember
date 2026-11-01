@@ -1,0 +1,96 @@
+{
+  "id": "john-of-the-cross-llama-a",
+  "name": {
+    "es-ES": "Llama de amor viva (primera redacción)",
+    "en-US": "The Living Flame of Love",
+    "pt-BR": "Chama viva de amor (primeira redação)"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "es-ES": "Declaración de las canciones de la Llama de amor viva, escrita para doña Ana de Peñalosa (h. 1585–1586), sobre la unión transformante del alma en Dios; primera redacción. Texto crítico del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "St. John of the Cross's commentary on his poem of the Living Flame of Love, written for Doña Ana de Peñalosa (c. 1585–1586), on the transforming union of the soul in God; the first redaction. Spanish critical text of P. Silverio de Santa Teresa with his notes; English translation by David Lewis, revised by Benedict Zimmerman.",
+    "pt-BR": "Comentário de São João da Cruz ao seu poema da Chama viva de amor, escrito para Dona Ana de Peñalosa (c. 1585–1586), sobre a união transformante da alma em Deus; primeira redação."
+  },
+  "composed": "1585–1586",
+  "languages": [
+    "es-ES",
+    "en-US"
+  ],
+  "work": "john-of-the-cross/llama-a",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1931
+    },
+    "en-US": {
+      "translator": "David Lewis, revised by Benedict Zimmerman",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesanjuande04john",
+      "edition": "Obras de San Juan de la Cruz, Doctor de la Iglesia, ed. P. Silverio de Santa Teresa, C.D., t. IV (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1931, pp. 3–102 (first redaction). Princeton Theological Seminary scan.",
+      "description": "Spanish critical text with Silverio's notes (manuscript variants, scripture references) kept as footnotes. OCR of the scan; page furniture removed; footnotes matched to their references page by page; OCR errors corrected by consulting P. Eulogio Pacho's modern text (Editorial Monte Carmelo, via Documenta Catholica Omnia), which was used only to find errors and never copied. Chapter summaries are taken from Silverio's own table of contents.",
+      "tier": "A",
+      "tierEvidence": "San Juan de la Cruz died in 1591. Silverio's edition was published in 1931 (before 1931: public domain in the US) and P. Silverio de Santa Teresa died in 1954, so his text and notes are public domain under life+70 since 1 January 2025. Caveat: Spain applies life+80 to authors who died before 1987, so in Spain alone his notes stay protected until 2035."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/johnofthecross00johnuoft",
+      "edition": "The Living Flame of Love, with his Letters, Poems, and Minor Writings, translated by David Lewis, with corrections and an introduction by Benedict Zimmerman, O.C.D., London: Thomas Baker, 1912, reprinted 1919. University of Toronto scan.",
+      "description": "The Living Flame only, with its scripture references as footnotes; Wiseman's essay, Zimmerman's introduction and the minor writings are not included here. Lewis translates the first redaction (A): e.g. stanza 1, 'So powerful a purgation is the lot of but few souls, namely of those whom He intends to lift by contemplation to some degree of union' renders A's 'sólo en aquellas que él quiere levantar por contemplación a algún grado de unión', which B rewrote; and his stanza lengths follow A's.",
+      "tier": "A",
+      "tierEvidence": "Published 1919 (before 1931: public domain in the US); the translator David Lewis died in 1895 and the reviser Benedict Zimmerman in 1937, both more than 70 years ago."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo",
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "canciones",
+      "title": {
+        "es-ES": "Canciones del alma",
+        "en-US": "Stanzas"
+      }
+    },
+    {
+      "id": "c1",
+      "title": {
+        "es-ES": "Canción I",
+        "en-US": "Stanza I"
+      }
+    },
+    {
+      "id": "c2",
+      "title": {
+        "es-ES": "Canción II",
+        "en-US": "Stanza II"
+      }
+    },
+    {
+      "id": "c3",
+      "title": {
+        "es-ES": "Canción III",
+        "en-US": "Stanza III"
+      }
+    },
+    {
+      "id": "c4",
+      "title": {
+        "es-ES": "Canción IV",
+        "en-US": "Stanza IV"
+      }
+    }
+  ]
+}
