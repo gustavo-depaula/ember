@@ -1,0 +1,1049 @@
+{
+  "id": "catherine-dialogo",
+  "name": {
+    "it": "Il Dialogo della divina provvidenza",
+    "en-US": "The Dialogue of Divine Providence",
+    "pt-BR": "O Diálogo da divina providência"
+  },
+  "author": {
+    "it": "Santa Caterina da Siena",
+    "en-US": "St. Catherine of Siena",
+    "pt-BR": "Santa Catarina de Sena"
+  },
+  "description": {
+    "it": "Il «Libro della divina dottrina», detto Dialogo della divina provvidenza, dettato da santa Caterina in estasi ai suoi segretari nell'autunno 1377-78: il colloquio dell'anima con Dio Padre, che risponde alle sue quattro petizioni (per sé, per la Chiesa, per il mondo, per la provvidenza) e insegna nei quattro trattati della discrezione, dell'orazione, della provvidenza e dell'obbedienza la via del Ponte, Cristo crocifisso. Testo critico di Matilde Fiorilli (Bari: Laterza, 1912, «Scrittori d'Italia») secondo il codice senese T. II. 9, con l'ortografia del codice; il Proemio è la rubrica latina e il titolo del libro. Si omettono la Nota introduttiva, la descrizione dei codici, l'indice e le varianti della curatrice.",
+    "en-US": "The \"Book of Divine Doctrine\", known as the Dialogue of Divine Providence, dictated by St. Catherine in ecstasy to her secretaries in 1377-78: the soul's conversation with God the Father, who answers her four petitions (for herself, for the Church, for the world, for providence) and teaches, in four treatises on discretion, prayer, providence and obedience, the way of the Bridge, Christ crucified. The critical text of Matilde Fiorilli (Bari: Laterza, 1912) after the Sienese codex T. II. 9, in the codex's spelling, in 167 chapters. The editor's introductory note, description of the manuscripts, index and variants are not included.",
+    "pt-BR": "O «Livro da divina doutrina», chamado Diálogo da divina providência, ditado por Santa Catarina em êxtase a seus secretários em 1377-78: o colóquio da alma com Deus Pai, que responde a suas quatro petições (por si, pela Igreja, pelo mundo, pela providência) e ensina, em quatro tratados sobre a discrição, a oração, a providência e a obediência, o caminho da Ponte, Cristo crucificado. Texto crítico de Matilde Fiorilli (Bari: Laterza, 1912), em 167 capítulos."
+  },
+  "composed": "1377-1378",
+  "languages": [
+    "it"
+  ],
+  "work": "catherine-of-siena/dialogo",
+  "editions": {
+    "it": {
+      "editor": "Matilde Fiorilli",
+      "year": 1912
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.gutenberg.org/ebooks/26961",
+      "edition": "Santa Caterina da Siena, Libro della divina dottrina volgarmente detto Dialogo della divina provvidenza, nuova edizione secondo un inedito codice senese a cura di Matilde Fiorilli, Bari: Gius. Laterza & Figli, 1912 (Scrittori d'Italia). Project Gutenberg #26961, plain text proofread by Distributed Proofreaders.",
+      "description": "The Proemio (title and Latin rubric) and chapters I-CLXVII with their rubrics and the colophon; the four treatise headings (Discrezione, Orazione, Providenzia, Obedienzia) appear as a line under the first chapter of each. Fiorilli's Nota (introductory essay with footnotes), the description of the codices, the index of names and the Aggiunta are not imported. The codex spelling is kept (decto, sancto, bontá, cognoscimento); dialogue dashes '--' became em dashes and _italics_ became *italics*.",
+      "tier": "A",
+      "tierEvidence": "Catherine of Siena died in 1380; the 1912 critical edition was published before 1931, so it is public domain in the US, and Project Gutenberg distributes the transcription."
+    }
+  ],
+  "toc": [
+    {
+      "id": "proemio",
+      "title": {
+        "it": "Proemio"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "it": "Capitolo I. Come l'anima per orazione s'unisce con Dio, e come questa anima, de la quale qui si parla, essendo levata in contemplazione, faceva a Dio quatro petizioni."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "it": "Capitolo II. Come el desiderio di questa anima crebbe, essendole mostrato da Dio la necessitá del mondo."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "it": "Capitolo III. Come l'operazioni finite non sono sufficienti a punire né a remunerare senza l'affecto de la caritá continuo."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "it": "Capitolo IV. Come el desiderio e la contriczione del cuore satisfa a la colpa e a la pena in sé e in altrui, e come tale volta satisfa a la colpa e none a la pena."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "it": "Capitolo V. Come molto è piacevole a Dio el desiderio di volere portare per lui."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "it": "Capitolo VI. Come ogni virtú e ogni defecto si fa col mezzo del proximo."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "it": "Capitolo VII. Come le virtú s'aoperano col mezzo del proximo, e perché le virtú sono poste tanto differenti ne le creature."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "it": "Capitolo VIII. Come le virtú si pruovano e fortificano per li loro contrari."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "it": "Capitolo IX. Qui comincia el tractato de la discrezione. E prima, come l'affecto non si die ponere principalmente ne la penitenzia ma ne le virtú. E come la discrezione riceve vita da l'umilitá, e come rende ad ciascuno el debito suo."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "it": "Capitolo X. Similitudine come la caritá, l'umilitá e la discrezione sono unite insieme; a la quale similitudine l'anima si debba conformare."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "it": "Capitolo XI. Come la penitenzia e gli altri exercizi corporali si debbono prendere per strumento da venire a virtú e non per principale affecto. E del lume de la discrezione in diversi altri modi e operazioni."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "it": "Capitolo XII. Repetizione d'alcune cose giá decte, e come Dio promecte refrigerio a' servi suoi e la reformazione de la sancta Chiesa col mezzo del molto sostenere."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "it": "Capitolo XIII. Come questa anima per la responsione divina crebbe insiememente e mancò in amaritudine; e come fa orazione a Dio per la Chiesa sancta sua e per lo popolo suo."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "it": "Capitolo XIV. Come Dio si lamenta del popolo cristiano, e singularmente de' ministri suoi, toccando alcuna cosa del sacramento del Corpo di Cristo e del benefizio de la Incarnazione."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "it": "Capitolo XV. Come la colpa è piú gravemente punita doppo la passione di Cristo che prima, e come Dio promecte di fare misericordia al mondo e a la sancta Chiesa col mezzo dell'orazione e del patire de' servi suoi."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "it": "Capitolo XVI. Come questa anima cognoscendo piú de la divina bontá, non rimaneva contenta di pregare solamente per lo popolo cristiano e per la sancta Chiesa, ma pregava per tucto quanto el mondo."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "it": "Capitolo XVII. Come Dio si lamenta de le sue creature razionali e maximamente per l'amore proprio che regna in loro, confortando la predecta anima ad orazione e lagrime."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "it": "Capitolo XVIII. Come neuno può uscire de le mani di Dio, però che o egli vi sta per misericordia o elli vi sta per giustizia."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "it": "Capitolo XIX. Come questa anima crescendo nell'amoroso fuoco desiderava di sudare di sudore di sangue; e reprendendo se medesima faceva singulare orazione per lo padre dell'anima sua."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "it": "Capitolo XX. Come senza tribolazioni portate con pazienzia non si può piacere a Dio; e però Dio conforta lei e il padre suo a portare con vera pazienzia."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "it": "Capitolo XXI. Come, essendo rotta la strada d'andare al cielo per la disobedienzia d'Adam, Dio fece del suo Figliuolo ponte per lo quale si potesse passare."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "it": "Capitolo XXII. Come Dio induce la predecta anima a raguardare la grandezza d'esso ponte, cioè per che modo tiene da la terra al cielo."
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "it": "Capitolo XXIII. Come tutti siamo lavoratori messi da Dio a lavorare ne la vigna de la sancta Chiesa. E come ciascuno ha la vigna propria da se medesimo; e come noi tralci ci conviene essere uniti ne la vera vite del Figliuolo di Dio."
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "it": "Capitolo XXIV. Per che modo Dio pota i tralci uniti con la predecta vite, cioè i servi suoi, e come la vigna di ciascuno è tanto unita con quella del proximo, che neuno può lavorare o guastare la sua che non lavori o guasti quella del proximo."
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "it": "Capitolo XXV. Come la predecta anima, doppo alcune laude rendute a Dio, el prega che le mostri coloro che vanno per lo ponte predecto e quelli che non vi vanno."
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "it": "Capitolo XXVI. Come questo benedecto ponte ha tre scaloni, per li quali si significano tre stati dell'anima. E come questo ponte, essendo levato in alto, non è però separato da la terra. E come s'intende quella parola che Cristo dixe: «Se Io sarò levato in alto, ogni cosa trarrò a me»."
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "it": "Capitolo XXVII. Come questo ponte è murato di pietre, le quali significano le vere e reali virtú, e come in sul ponte è una bottiga, dove si dá el cibo a' viandanti; e come chi tiene per lo ponte va ad vita, ma chi tiene di sotto per lo fiume, va ad perdizione e ad morte."
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "it": "Capitolo XXVIII. Come per ciascuna di queste due strade si va con fadiga, cioè per lo ponte e per lo fiume. E del dilecto che l'anima sente in andare per lo ponte."
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "it": "Capitolo XXIX. Come questo ponte, essendo salito al cielo el dí de la Ascensione, non si partí però di terra."
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "it": "Capitolo XXX. Come questa anima, maravigliandosi de la misericordia di Dio, raconta molti doni e grazie procedute da essa divina misericordia ad l'umana generazione."
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "it": "Capitolo XXXI. De la indignitá di quelli che passano per lo fiume, di sotto al ponte decto; e come l'anima, che passa di sotto, Dio la chiama arbore di morte, el quale tiene le radici sue principalmente in quatro vizi."
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "it": "Capitolo XXXII. Come e' fructi di questo arbore tanto sono diversi quanto sono diversi e' peccati. E prima del peccato de la carnalitade."
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "it": "Capitolo XXXIII. Come el fructo d'alcuni altri è l'avarizia. E de' mali che procedono da essa."
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "it": "Capitolo XXXIV. Come d'alcuni altri, e' quali tengono stato di signoria, el loro fructo è ingiustizia."
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "it": "Capitolo XXXV. Come per questi e per altri defecti si cade nel falso giudicio. E de la indignitá ne la quale perciò si viene."
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "it": "Capitolo XXXVI. Qui parla sopra quella parola che dixe Cristo quando dixe: «Io mandarò el Paraclito che riprenderá el mondo de la ingiustizia e del falso giudicio». E qui dice come una di queste reprensioni è continua."
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "it": "Capitolo XXXVII. De la seconda reprensione, ne la quale si riprende de la ingiustizia e del falso giudicio in generale e in particulare."
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "it": "Capitolo XXXVIII. Di quattro principali tormenti de' danpnati; a' quali seguitano tucti gli altri e in singularitá della ladiezza del demonio."
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "it": "Capitolo XXXIX. De la terza reprensione, la quale si fará nel dí del giudicio."
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "it": "Capitolo XL. Come i danpnati non possono desiderare alcuno bene."
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "it": "Capitolo XLI. De la gloria de' beati."
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "it": "Capitolo XLII. Come doppo el giudicio generale crescerá la pena de' danpnati."
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "it": "Capitolo XLIII. De la utilitá de le temptazioni, e come ogni anima ne la extremitá de la morte vede e gusta el luogo suo, prima che essa anima sia separata dal corpo, cioè o pena o gloria che debba ricevere."
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "it": "Capitolo XLIV. Come el demonio sempre piglia l'anime sotto colore d'alcuno bene. E come quelli che tengono per lo fiume, e non per lo ponte predecto, sono ingannati, però che volendo fuggire le pene caggiono ne le pene; ponendo qui la visione d'uno arbore che questa anima ebbe una volta."
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "it": "Capitolo XLV. Come, avendo el mondo per lo peccato germinato spine e triboli, chi sono quelli ad cui queste spine non fanno male, bene che neuno passi questa vita senza pena."
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "it": "Capitolo XLVI. De' mali che procedono da la cechitá dell'occhio de l'intellecto. E come li beni che non sono facti in stato di grazia non vagliono ad vita etterna."
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "it": "Capitolo XLVII. Come non si possono observare i comandamenti che non si observino i consigli. E come in ogni stato che la persona vuole essere, avendo sancta e buona volontá, è piacevole a Dio."
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "it": "Capitolo XLVIII. Come li mondani con ciò che posseggono non si possono saziare; e de la pena che dá loro la perversa volontá pur in questa vita."
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "it": "Capitolo XLIX. Come el timore servile non è sufficiente a dare vita eterna; e come exercitando questo timore si viene ad amore de le virtú."
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "it": "Capitolo L. Come questa anima venne in grande amaritudine per la cechitá di quelli che s'annegavano giú per lo fiume."
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "it": "Capitolo LI. Come i tre scaloni figurati nel ponte giá decto, cioè nel Figliuolo di Dio, significano le tre potenzie dell'anima."
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "it": "Capitolo LII. Come, se le predecte tre potenzie dell'anima non sono unite insieme, non si può avere perseveranzia, senza la quale neuno giogne al termine suo."
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "it": "Capitolo LIII. Exposizione sopra quella parola che dixe Cristo: «Chi ha sete venga ad me e beia»."
+      }
+    },
+    {
+      "id": "c054",
+      "title": {
+        "it": "Capitolo LIV. Che modo debba tenere generalmente ogni creatura razionale per potere escire del pelago del mondo e andare per lo predecto sancto ponte."
+      }
+    },
+    {
+      "id": "c055",
+      "title": {
+        "it": "Capitolo LV. Repetizione in somma d'alcune cose giá decte."
+      }
+    },
+    {
+      "id": "c056",
+      "title": {
+        "it": "Capitolo LVI. Come Dio, volendo mostrare a questa devota anima che i tre scaloni del sancto ponte sono significati in particulare per li tre stati dell'anima, dice che ella levi sé sopra di sé a raguardare questa veritá."
+      }
+    },
+    {
+      "id": "c057",
+      "title": {
+        "it": "Capitolo LVII. Come questa devota anima, raguardando nel divino specchio, vedeva le creature andare in diversi modi."
+      }
+    },
+    {
+      "id": "c058",
+      "title": {
+        "it": "Capitolo LVIII. Come el timore servile, senza l'amore de le virtú, non è sufficiente a dare vita eterna. E come la legge del timore e quella dell'amore sono unite insieme."
+      }
+    },
+    {
+      "id": "c059",
+      "title": {
+        "it": "Capitolo LIX. Come, exercitandosi nel timore servile, el quale è stato d'inperfeczione (per lo quale s'intende el primo scalone del sancto ponte), si viene al secondo, el quale è stato di perfeczione."
+      }
+    },
+    {
+      "id": "c060",
+      "title": {
+        "it": "Capitolo LX. De la inperfeczione di quelli che amano e servono Dio per propria utilitá e dilecto e consolazione."
+      }
+    },
+    {
+      "id": "c061",
+      "title": {
+        "it": "Capitolo LXI. In che modo Dio manifesta se medesimo all'anima che l'ama."
+      }
+    },
+    {
+      "id": "c062",
+      "title": {
+        "it": "Capitolo LXII. Perché Cristo non dixe: «Io manifestarò el Padre mio», ma dixe: «Io manifestarò me medesimo»."
+      }
+    },
+    {
+      "id": "c063",
+      "title": {
+        "it": "Capitolo LXIII. Che modo tiene l'anima per salire lo scalone secondo del sancto ponte, essendo giá salita el primo."
+      }
+    },
+    {
+      "id": "c064",
+      "title": {
+        "it": "Capitolo LXIV. Come, amando Dio inperfectamente, inperfectamente s'ama el proximo. E de' segni di questo amore inperfecto."
+      }
+    },
+    {
+      "id": "c065",
+      "title": {
+        "it": "Capitolo LXV. Del modo che tiene l'anima per giognere ad l'amore schietto e liberale. E qui comincia el tractato dell'orazione."
+      }
+    },
+    {
+      "id": "c066",
+      "title": {
+        "it": "Capitolo LXVI. Qui, toccando alcuna cosa del sacramento del Corpo di Cristo, dá piena doctrina come l'anima venga da l'orazione vocale a la mentale; e narra qui una visione che questa devota anima ebbe una volta."
+      }
+    },
+    {
+      "id": "c067",
+      "title": {
+        "it": "Capitolo LXVII. De lo inganno che ricevono gli uomini mondani, e' quali amano e servono Dio per propria consolazione e dilecto."
+      }
+    },
+    {
+      "id": "c068",
+      "title": {
+        "it": "Capitolo LXVIII. De lo inganno che ricevono e' servi di Dio, e' quali ancora amano Dio di questo amore imperfecto predecto."
+      }
+    },
+    {
+      "id": "c069",
+      "title": {
+        "it": "Capitolo LXIX. Di quelli e' quali, per non lassare la loro pace e consolazione, non sovengono al proximo ne le sue necessitadi."
+      }
+    },
+    {
+      "id": "c070",
+      "title": {
+        "it": "Capitolo LXX. De lo inganno che ricevono quelli li quali hanno posto tucto el loro affecto ne le consolazioni e visioni mentali."
+      }
+    },
+    {
+      "id": "c071",
+      "title": {
+        "it": "Capitolo LXXI. Come i predecti, che si dilectano de le consolazioni e visioni mentali, possono essere ingannati ricevendo el demonio transfigurato in forma di luce. E de' segni a' quali si può cognoscere quando la visitazione è da Dio, o dal demonio."
+      }
+    },
+    {
+      "id": "c072",
+      "title": {
+        "it": "Capitolo LXXII. Come l'anima, che in veritá cognosce se medesima, saviamente si guarda da tucti li predecti inganni."
+      }
+    },
+    {
+      "id": "c073",
+      "title": {
+        "it": "Capitolo LXXIII. Per che modi l'anima si parte da l'amore inperfecto e giogne ad l'amore perfecto dell'amico e filiale."
+      }
+    },
+    {
+      "id": "c074",
+      "title": {
+        "it": "Capitolo LXXIV. De' segni a' quali si cognosce che l'anima sia venuta all'amore perfecto."
+      }
+    },
+    {
+      "id": "c075",
+      "title": {
+        "it": "Capitolo LXXV. Come gl'imperfecti vogliono seguitare solamente el Padre, ma i perfecti seguitano el Figliuolo. E d'una visione che ebbe questa devota anima, ne la quale si narra di diversi baptesmi e d'alcune altre belle e utili cose."
+      }
+    },
+    {
+      "id": "c076",
+      "title": {
+        "it": "Capitolo LXXVI. Come l'anima, essendo salita el terzo scalone del sancto ponte, cioè pervenuta a la bocca, piglia incontenente l'offizio de la bocca. E come la propria volontá essendo morta è vero segno che ella v'è gionta."
+      }
+    },
+    {
+      "id": "c077",
+      "title": {
+        "it": "Capitolo LXXVII. De le operazioni de l'anima poi che è salita el predecto sancto terzo scalone."
+      }
+    },
+    {
+      "id": "c078",
+      "title": {
+        "it": "Capitolo LXXVIII. Del quarto stato, el quale non è però separato dal terzo; e de le operazioni de l'anima che è gionta a questo stato; e come Dio non si parte mai da essa per continuo sentimento."
+      }
+    },
+    {
+      "id": "c079",
+      "title": {
+        "it": "Capitolo LXXIX. Come Dio da' predecti perfectissimi non si sottrae per sentimento né per grazia, ma sí per unione."
+      }
+    },
+    {
+      "id": "c080",
+      "title": {
+        "it": "Capitolo LXXX. Come li mondani rendono gloria e loda a Dio, vogliano essi o no."
+      }
+    },
+    {
+      "id": "c081",
+      "title": {
+        "it": "Capitolo LXXXI. Come eziandio li demòni rendono gloria e loda a Dio."
+      }
+    },
+    {
+      "id": "c082",
+      "title": {
+        "it": "Capitolo LXXXII. Come l'anima, poi che è passata di questa vita, vede pienamente la gloria e loda del nome di Dio in ogni creatura. E come in essa è finita la pena del desiderio, ma non el desiderio."
+      }
+    },
+    {
+      "id": "c083",
+      "title": {
+        "it": "Capitolo LXXXIII. Come, poi che sancto Paulo appostolo fu tracto a vedere la gloria de' beati, desiderava d'essere sciolto dal corpo; la qual cosa fanno anche quelli che sono giunti al terzo e al quarto santo stato predecto."
+      }
+    },
+    {
+      "id": "c084",
+      "title": {
+        "it": "Capitolo LXXXIV. Per quali cagioni l'anima desidera d'essere sciolta dal corpo. La quale cosa non potendo essere, non discorda però dalla volontá di Dio; ma piú tosto si gloria in questa e in ogni altra pena per onore di Dio."
+      }
+    },
+    {
+      "id": "c085",
+      "title": {
+        "it": "Capitolo LXXXV. Come quelli che sono gionti al predecto stato unitivo, sono illuminati nell'occhio dell'intellecto loro di lume sopranaturale infuso per grazia; e come è meglio andare per consiglio de la salute dell'anima ad uno umile con sancta coscienzia, che a uno superbo licterato."
+      }
+    },
+    {
+      "id": "c086",
+      "title": {
+        "it": "Capitolo LXXXVI. Repetizione utile di molte cose giá decte; e come Dio induce questa devota anima a pregarlo per ogni creatura e per la sancta Chiesa."
+      }
+    },
+    {
+      "id": "c087",
+      "title": {
+        "it": "Capitolo LXXXVII. Come questa devota anima fa petizione a Dio di volere sapere de li stati e fructi de le lagrime."
+      }
+    },
+    {
+      "id": "c088",
+      "title": {
+        "it": "Capitolo LXXXVIII. Come sono cinque maniere di lagrime."
+      }
+    },
+    {
+      "id": "c089",
+      "title": {
+        "it": "Capitolo LXXXIX. De la differenzia d'esse lagrime, discorrendo per li predecti stati dell'anima."
+      }
+    },
+    {
+      "id": "c090",
+      "title": {
+        "it": "Capitolo XC. Repetizione breve del precedente capitolo. E come el demonio fugge da quelli che sono gionti a le quinte lagrime. E come le molestie del dimonio sono verace via da giognere a questo stato."
+      }
+    },
+    {
+      "id": "c091",
+      "title": {
+        "it": "Capitolo XCI. Come quelli, che desiderano le lagrime degli occhi e non le possono avere, hanno quelle del fuoco. E per che cagione Dio sottrae le lagrime corporali."
+      }
+    },
+    {
+      "id": "c092",
+      "title": {
+        "it": "Capitolo XCII. Come li quatro stati di questi predecti cinque stati de le lagrime dánno infinite varietadi di lagrime. E come Dio vuole essere servito con cosa infinita e non con cosa finita."
+      }
+    },
+    {
+      "id": "c093",
+      "title": {
+        "it": "Capitolo XCIII. Del fructo de le lagrime degli uomini mondani."
+      }
+    },
+    {
+      "id": "c094",
+      "title": {
+        "it": "Capitolo XCIV. Come li predecti piangitori mondani sono percossi da quatro diversi venti."
+      }
+    },
+    {
+      "id": "c095",
+      "title": {
+        "it": "Capitolo XCV. De' fructi de le seconde e de le terze lagrime."
+      }
+    },
+    {
+      "id": "c096",
+      "title": {
+        "it": "Capitolo XCVI. Del fructo de le quarte e unitive lagrime."
+      }
+    },
+    {
+      "id": "c097",
+      "title": {
+        "it": "Capitolo XCVII. Come questa devota anima, ringraziando Dio de la dechiarazione de' predecti stati de le lagrime, gli fa tre petizioni."
+      }
+    },
+    {
+      "id": "c098",
+      "title": {
+        "it": "Capitolo XCVIII. Come el lume de la ragione è necessario ad ogni anima che vuole a Dio in veritá servire. E prima, del lume generale."
+      }
+    },
+    {
+      "id": "c099",
+      "title": {
+        "it": "Capitolo XCIX. Di quelli e' quali hanno posto piú el loro desiderio in mortificare el corpo che in uccidere la propria volontá; el quale è uno lume perfecto piú che il generale, ed è questo el secondo lume."
+      }
+    },
+    {
+      "id": "c100",
+      "title": {
+        "it": "Capitolo C. Del terzo e perfectissimo lume de la ragione. E dell'opere che fa l'anima quando è venuta a esso lume. E d'una bella visione che questa devota anima ebbe una volta, ne la quale si tracta pienamente del modo da venire ad perfecta puritá, e dove anco si parla del non giudicare."
+      }
+    },
+    {
+      "id": "c101",
+      "title": {
+        "it": "Capitolo CI. Per che modo ricevono l'arra di vita eterna in questa vita quelli che stanno nel predecto terzo perfectissimo lume."
+      }
+    },
+    {
+      "id": "c102",
+      "title": {
+        "it": "Capitolo CII. Per che modo si debba reprendere el proximo, a ciò che la persona non caggia in falso giudizio."
+      }
+    },
+    {
+      "id": "c103",
+      "title": {
+        "it": "Capitolo CIII. Come, se, pregando per alcuna persona, Dio la manifestasse, ne la mente di chi prega, piena di tenebre, non si debba però giudicare in colpa."
+      }
+    },
+    {
+      "id": "c104",
+      "title": {
+        "it": "Capitolo CIV. Come la penitenzia non si die pigliare per fondamento né per principale affecto, ma l'affecto e l'amore de le virtú."
+      }
+    },
+    {
+      "id": "c105",
+      "title": {
+        "it": "Capitolo CV. Repetizione in somma de le predecte cose, con una agiunta sopra la reprensione del proximo."
+      }
+    },
+    {
+      "id": "c106",
+      "title": {
+        "it": "Capitolo CVI. De' segni da cognoscere quando le visitazioni e visioni mentali sono da Dio o dal demonio."
+      }
+    },
+    {
+      "id": "c107",
+      "title": {
+        "it": "Capitolo CVII. Come Dio è adempitore de' sancti desidèri de' servi suoi, e come molto gli piace chi dimanda e bussa a la porta de la sua Veritá con perseveranzia."
+      }
+    },
+    {
+      "id": "c108",
+      "title": {
+        "it": "Capitolo CVIII. Come questa devota anima, rendendo grazie a Dio, s'umilia. Poi fa orazione per tucto el mondo e singularmente per lo corpo mistico de la sancta Chiesa e per li figliuoli suoi spirituali e per li due padri de l'anima sua. E, doppo queste cose, dimanda d'udire parlare de' defecti de' ministri de la sancta Chiesa."
+      }
+    },
+    {
+      "id": "c109",
+      "title": {
+        "it": "Capitolo CIX. Come Dio rende sollicita la predecta anima all'orazione, rispondendo ad alcuna de le predecte petizioni."
+      }
+    },
+    {
+      "id": "c110",
+      "title": {
+        "it": "Capitolo CX. De la dignitá de' sacerdoti, e del sacramento del Corpo di Cristo. E di quelli che comunicano degnamente e indegnamente."
+      }
+    },
+    {
+      "id": "c111",
+      "title": {
+        "it": "Capitolo CXI. Come i sentimenti corporali tucti sono ingannati del predecto sacramento, ma non quelli dell'anima; e però con quelli si debba vedere, gustare e toccare. E d'una bella visione che questa anima ebbe sopra questa materia."
+      }
+    },
+    {
+      "id": "c112",
+      "title": {
+        "it": "Capitolo CXII. De la excellenzia dove l'anima sta, la quale piglia el predecto sacramento in grazia."
+      }
+    },
+    {
+      "id": "c113",
+      "title": {
+        "it": "Capitolo CXIII. Come le predecte cose, che sono decte intorno a la excellenzia del sacramento, sono decte per meglio cognoscere la dignitá de' sacerdoti. E come Dio richiede in essi maggiore puritá che nell'altre creature."
+      }
+    },
+    {
+      "id": "c114",
+      "title": {
+        "it": "Capitolo CXIV. Come li sacramenti non si debbono vendere né comprare, e come quelli che el ricevono debbono sovenire li ministri de le cose temporali, quali essi ministri debbono dispensare in tre parti."
+      }
+    },
+    {
+      "id": "c115",
+      "title": {
+        "it": "Capitolo CXV. De la dignitá de' sacerdoti, e come la virtú de' sacramenti non diminuisce per le colpe di chi gli ministra o riceve. E come Dio non vuole che li secolari s'inpaccino di corrèggiarli."
+      }
+    },
+    {
+      "id": "c116",
+      "title": {
+        "it": "Capitolo CXVI. Come la persecuzione, che si fa a la sancta Chiesa o vero a' ministri, Dio la reputa facta a sé, e come questa colpa piú è grave che neuna altra."
+      }
+    },
+    {
+      "id": "c117",
+      "title": {
+        "it": "Capitolo CXVII. Qui si parla contra li persecutori de la sancta Chiesa e de' ministri, in diversi modi."
+      }
+    },
+    {
+      "id": "c118",
+      "title": {
+        "it": "Capitolo CXVIII. Repetizione breve sopra le predecte cose de la sancta Chiesa e de' ministri."
+      }
+    },
+    {
+      "id": "c119",
+      "title": {
+        "it": "Capitolo CXIX. De la excellenzia e de le virtú e de le operazioni sancte de' virtuosi e sancti ministri. E come essi hanno la condiczione del sole. E de la correczione loro verso de' subditi."
+      }
+    },
+    {
+      "id": "c120",
+      "title": {
+        "it": "Capitolo CXX. Repetizione in somma del precedente capitolo; e de la reverenzia che si debba rendere a' sacerdoti, o buoni o rei che siano."
+      }
+    },
+    {
+      "id": "c121",
+      "title": {
+        "it": "Capitolo CXXI. De' defecti e de la mala vita degl'iniqui sacerdoti e ministri."
+      }
+    },
+    {
+      "id": "c122",
+      "title": {
+        "it": "Capitolo CXXII. Come ne' predecti iniqui ministri regna la ingiustizia, e singularmente non correggendo i subditi."
+      }
+    },
+    {
+      "id": "c123",
+      "title": {
+        "it": "Capitolo CXXIII. Di molti altri defecti de' predecti ministri, e singularmente dell'andare per le taverne e del giocare e del tenere le concubine."
+      }
+    },
+    {
+      "id": "c124",
+      "title": {
+        "it": "Capitolo CXXIV. Come ne' predecti ministri regna el peccato contra natura, e d'una bella visione che questa anima ebbe sopra questa materia."
+      }
+    },
+    {
+      "id": "c125",
+      "title": {
+        "it": "Capitolo CXXV. Come per gli predecti defecti li subditi non si correggono. E de' defecti de' religiosi. E come, per lo non correggere li predecti mali, molti altri ne seguitano."
+      }
+    },
+    {
+      "id": "c126",
+      "title": {
+        "it": "Capitolo CXXVI. Come ne' predecti iniqui ministri regna el peccato de la luxuria."
+      }
+    },
+    {
+      "id": "c127",
+      "title": {
+        "it": "Capitolo CXXVII. Come ne' predecti ministri regna l'avarizia, prestando ad usura; ma singularmente vendendo e comprando li benefizi e le prelazioni. E de' mali che per questa cupiditá sono advenuti ne la sancta Chiesa."
+      }
+    },
+    {
+      "id": "c128",
+      "title": {
+        "it": "Capitolo CXXVIII. Come ne' predecti ministri regna la superbia, per la quale si perde el cognoscimento; e come, avendo perduto el cognoscimento, caggiono in questo defecto, cioè che fanno vista di consecrare e non consacrano."
+      }
+    },
+    {
+      "id": "c129",
+      "title": {
+        "it": "Capitolo CXXIX. Di molti altri defecti e' quali per superbia e per l'amore proprio si comectono."
+      }
+    },
+    {
+      "id": "c130",
+      "title": {
+        "it": "Capitolo CXXX. Di molti altri defecti e' quali comectono li predecti iniqui ministri."
+      }
+    },
+    {
+      "id": "c131",
+      "title": {
+        "it": "Capitolo CXXXI. De la differenzia de la morte de' giusti ad quella de' peccatori. E prima, de la morte de' giusti."
+      }
+    },
+    {
+      "id": "c132",
+      "title": {
+        "it": "Capitolo CXXXII. De la morte de' peccatori e de le pene loro nel punto de la morte."
+      }
+    },
+    {
+      "id": "c133",
+      "title": {
+        "it": "Capitolo CXXXIII. Repetizione breve sopra molte cose giá decte, e come Dio in tucto vieta che i sacerdoti non siano toccati per le mani de' secolari, e come invita la predecta anima a piangere sopra essi miseri sacerdoti."
+      }
+    },
+    {
+      "id": "c134",
+      "title": {
+        "it": "Capitolo CXXXIV. Come questa devota anima, laudando e ringraziando Dio, fa orazione per la sancta Chiesa."
+      }
+    },
+    {
+      "id": "c135",
+      "title": {
+        "it": "Capitolo CXXXV. Qui comincia el tractato de la providenzia di Dio. E prima de la providenzia in generale, cioè come providde creando l'uomo a la imagine e similitudine sua. E come provide con la incarnazione del Figliuolo suo, essendo serrata la porta del paradiso per lo peccato d'Adam. E come providde dandocisi in cibo continuamente nell'altare."
+      }
+    },
+    {
+      "id": "c136",
+      "title": {
+        "it": "Capitolo CXXXVI. Come Dio providde dando la speranza ne le sue creature. E come chi piú perfectamente spera, piú perfectamente gusta la providenzia sua."
+      }
+    },
+    {
+      "id": "c137",
+      "title": {
+        "it": "Capitolo CXXXVII. Come Dio provide nel Testamento vecchio con la legge e co' profeti; e poi con mandare el Verbo; poi con gli apostoli, co' martiri e con gli altri sancti uomini. Come nulla adiviene a le creature, che tucto non sia providenzia di Dio."
+      }
+    },
+    {
+      "id": "c138",
+      "title": {
+        "it": "Capitolo CXXXVIII. Come ciò che Dio ci permecte è solamente per nostro bene e per nostra salute. E come sono ciechi e ingannati quelli che giudicano el contrario."
+      }
+    },
+    {
+      "id": "c139",
+      "title": {
+        "it": "Capitolo CXXXIX. Come Dio providde in alcuno caso particulare a la salute di quella anima ad cui adivenne el caso."
+      }
+    },
+    {
+      "id": "c140",
+      "title": {
+        "it": "Capitolo CXL. Qui, narrando Dio la providenzia sua verso de le sue creature in diversi altri modi, si lagna de la infedelitá d'esse sue creature. Ed exponendo una figura del vecchio Testamento, dá una utile doctrina."
+      }
+    },
+    {
+      "id": "c141",
+      "title": {
+        "it": "Capitolo CXLI. Come Dio provede verso di noi, che noi siamo tribolati per la nostra salute. E de la miseria di quelli che si confidano in sé e non ne la providenzia sua. E de la excellenzia di quelli che si confidano in essa providenzia."
+      }
+    },
+    {
+      "id": "c142",
+      "title": {
+        "it": "Capitolo CXLII. Come Dio providde verso de l'anime dando i sacramenti, e come provede a' servi suoi affamati del sacramento del Corpo di Cristo; narrando come providde piú volte, per mirabile modo, verso d'una anima affamata d'esso sacramento."
+      }
+    },
+    {
+      "id": "c143",
+      "title": {
+        "it": "Capitolo CXLIII. De la providenzia di Dio verso di coloro che sono in peccato mortale."
+      }
+    },
+    {
+      "id": "c144",
+      "title": {
+        "it": "Capitolo CXLIV. De la providenzia che Dio usa verso di coloro che sono ancora nell'amore inperfecto."
+      }
+    },
+    {
+      "id": "c145",
+      "title": {
+        "it": "Capitolo CXLV. De la providenzia che Dio usa verso di coloro che sono ne la caritá perfecta."
+      }
+    },
+    {
+      "id": "c146",
+      "title": {
+        "it": "Capitolo CXLVI. Repetizione breve de le predecte cose. Poi parla sopra quella parola che dixe Cristo a sancto Pietro, quando dixe: «Mecte la rete da la parte dextra de la nave»."
+      }
+    },
+    {
+      "id": "c147",
+      "title": {
+        "it": "Capitolo CXLVII. Come la predecta rete la gitta piú perfectamente uno che un altro, unde piglia piú pesci. E de la excellenzia di questi perfecti."
+      }
+    },
+    {
+      "id": "c148",
+      "title": {
+        "it": "Capitolo CXLVIII. De la providenzia di Dio in generale, la quale usa verso le sue creature in questa vita e nell'altra."
+      }
+    },
+    {
+      "id": "c149",
+      "title": {
+        "it": "Capitolo CXLIX. De la providenzia che Dio usa verso de' poveri servi suoi, sovenendoli ne le cose temporali."
+      }
+    },
+    {
+      "id": "c150",
+      "title": {
+        "it": "Capitolo CL. Dei mali che procedono dal tenere o desiderare disordinatamente le ricchezze temporali."
+      }
+    },
+    {
+      "id": "c151",
+      "title": {
+        "it": "Capitolo CLI. De la excellenzia de' poveri per spirituale intenzione. E come Cristo ci amaestrò di questa povertá non solamente per parole, ma per exemplo. E de la providenzia di Dio verso di quelli che questa povertá pigliano."
+      }
+    },
+    {
+      "id": "c152",
+      "title": {
+        "it": "Capitolo CLII. Repetizione in somma de la predecta divina providenzia."
+      }
+    },
+    {
+      "id": "c153",
+      "title": {
+        "it": "Capitolo CLIII. Come questa anima, laudando e ringraziando Dio, el prega che esso le parli de la virtú de la obedienzia."
+      }
+    },
+    {
+      "id": "c154",
+      "title": {
+        "it": "Capitolo CLIV. Qui comincia el tractato dell'obedienzia. E prima, dove l'obedienzia si truova, e che è quello che ce la tolle, e quale è il segno che l'uomo l'abbi o no, e chi è la sua compagna e da cui è notricata."
+      }
+    },
+    {
+      "id": "c155",
+      "title": {
+        "it": "Capitolo CLV. Come l'obedienzia è una chiave con la quale si disera el cielo, e come debba avere el funicello e debbasi portare attaccata a la cintura. E de le excellenzie sue."
+      }
+    },
+    {
+      "id": "c156",
+      "title": {
+        "it": "Capitolo CLVI. Qui insiememente si parla de la miseria de li inobedienti e de la excellenzia de li obedienti."
+      }
+    },
+    {
+      "id": "c157",
+      "title": {
+        "it": "Capitolo CLVII. Di quelli e' quali pongono tanto amore all'obedienzia che non rimangono contenti de la obedienzia generale de' comandamenti, ma pigliano l'obedienzia particulare."
+      }
+    },
+    {
+      "id": "c158",
+      "title": {
+        "it": "Capitolo CLVIII. Per che modo si viene da l'obedienzia generale a la particulare. E de la excellenzia de le religioni."
+      }
+    },
+    {
+      "id": "c159",
+      "title": {
+        "it": "Capitolo CLIX. De la excellenzia de li obedienti e de la miseria de li inobedienti, li quali vivono ne lo stato de la religione."
+      }
+    },
+    {
+      "id": "c160",
+      "title": {
+        "it": "Capitolo CLX. Come li veri obedienti ricevono per uno cento e vita eterna. E che s'intende per quello uno e per quello cento."
+      }
+    },
+    {
+      "id": "c161",
+      "title": {
+        "it": "Capitolo CLXI. De la perversitá, miserie e fadighe de lo inobediente. E de' miserabili fructi che procedono da la inobedienzia."
+      }
+    },
+    {
+      "id": "c162",
+      "title": {
+        "it": "Capitolo CLXII. De la inperfeczione di quelli che tiepidamente vivono ne la religione, avengaché si guardino da peccato mortale. E del remedio da uscire de la loro tiepiditade."
+      }
+    },
+    {
+      "id": "c163",
+      "title": {
+        "it": "Capitolo CLXIII. De la excellenzia de la obedienzia, e de' beni che dá a chi in veritá la piglia."
+      }
+    },
+    {
+      "id": "c164",
+      "title": {
+        "it": "Capitolo CLXIV. Distinczione di due obedienzie, cioè di quella de' religiosi e di quella che si rende ad alcuna persona fuore de la religione."
+      }
+    },
+    {
+      "id": "c165",
+      "title": {
+        "it": "Capitolo CLXV. Come Dio non merita secondo la fadiga de l'obedienzia né secondo longhezza di tempo, ma secondo la grandezza de la caritá. E de la prontitudine de' veri obedienti, e de' miracoli che Dio ha mostrati per questa virtú. E de la discrezione nell'obedire, e dell'opere e del premio del vero obediente."
+      }
+    },
+    {
+      "id": "c166",
+      "title": {
+        "it": "Capitolo CLXVI. Questa è una repetizione in somma quasi di tucto questo presente libro."
+      }
+    },
+    {
+      "id": "c167",
+      "title": {
+        "it": "Capitolo CLXVII. Come questa devotissima anima, ringraziando e laudando Dio, fa orazione per tucto el mondo e per la Chiesa sancta. E, comendando la virtú de la fede, fa fine a questa opera."
+      }
+    }
+  ]
+}

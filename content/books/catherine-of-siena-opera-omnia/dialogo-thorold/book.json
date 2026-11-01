@@ -1,0 +1,929 @@
+{
+  "id": "catherine-dialogo-thorold",
+  "name": {
+    "en-US": "The Dialogue of St. Catherine of Siena",
+    "it": "Il Dialogo della divina provvidenza (trad. inglese di Thorold)",
+    "pt-BR": "O Diálogo de Santa Catarina de Sena (tradução inglesa de Thorold)"
+  },
+  "author": {
+    "it": "Santa Caterina da Siena",
+    "en-US": "St. Catherine of Siena",
+    "pt-BR": "Santa Catarina de Sena"
+  },
+  "description": {
+    "en-US": "Algar Thorold's complete English translation (1896) of the Dialogue, dictated by St. Catherine in ecstasy in 1377-78: the soul's conversation with God the Father in four treatises on divine providence, discretion, prayer and obedience. Thorold divides the text into 148 chapters, not the 167 of Fiorilli's Italian edition (see the book Il Dialogo della divina provvidenza, which has the same work), so it is a separate book. Thorold's long introduction on the life and times of the saint is not included.",
+    "it": "La traduzione inglese integrale di Algar Thorold (1896) del Dialogo, in 148 capitoli (non i 167 dell'edizione Fiorilli, per cui è un libro separato dello stesso lavoro). Non include la lunga introduzione di Thorold.",
+    "pt-BR": "A tradução inglesa integral de Algar Thorold (1896) do Diálogo, em 148 capítulos (não os 167 da edição italiana de Fiorilli, por isso é um livro separado da mesma obra). Não inclui a longa introdução de Thorold."
+  },
+  "composed": "1377-1378",
+  "languages": [
+    "en-US"
+  ],
+  "work": "catherine-of-siena/dialogo",
+  "editions": {
+    "en-US": {
+      "translator": "Algar Thorold",
+      "year": 1896
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/seraphicvirginca00cathuoft",
+      "edition": "The Dialogue of the Seraphic Virgin Catherine of Siena, dictated by her, while in a state of ecstasy, to her secretaries, and completed in the year of Our Lord 1370 [sic], translated from the original Italian, and preceded by an introduction on the life and times of the saint, by Algar Thorold, London: Kegan Paul, Trench, Trübner & Co., 1896. Internet Archive scan, OCR text.",
+      "description": "Chapters I-CXLVIII with their rubrics, the treatise heading under the first chapter of each of the four treatises. Thorold's introduction, preface and contents are not imported. Running heads, page numbers and line-end hyphens were stripped, broken words were rejoined by comparing the text with itself and a dictionary, small-capital chapter openings were normalised and about thirty OCR slips were fixed by hand; some residual OCR errors may remain. The 1907 abridged edition (CCEL) was not used.",
+      "tier": "A",
+      "tierEvidence": "Published in 1896 and Thorold died in 1936; the 1896 translation is public domain in the US (before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "en-US": "Chapter I. How a soul, elevated by desire of the honour of God, and of the salvation of her neighbours, exercising herself in humble prayer, after she had seen the union of the soul, through love, with God, asked of God four requests."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "en-US": "Chapter II. How the desire of this soul grew when God showed her the neediness of the world."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "en-US": "Chapter III. How finite works are not sufficient for punishment or recompense without the perpetual affection of love."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "en-US": "Chapter IV. How desire and contrition of heart satisfies, both for the guilt and the penalty in oneself and in others; and how sometimes it satisfies for the guilt only, and not the penalty."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "en-US": "Chapter V. How very pleasing to God is the willing desire to suffer for Him."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "en-US": "Chapter VI. How every virtue and every defect is obtained by means of our neighbour."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "en-US": "Chapter VII. How virtues are accomplished by means of our neighbour, and how it is that virtues differ to such an extent in creatures."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "en-US": "Chapter VIII. How virtues are proved and fortified by their contraries."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "en-US": "Chapter IX. How the affection should not place reliance chiefly on penance, but rather on virtues; and how discretion receives life from humility, and renders to each man his due."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "en-US": "Chapter X. A parable showing how love, humility, and discretion are united; and how the soul should conform herself to this parable."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "en-US": "Chapter XI. How penance and other corporal exercises are to be taken as instru ments for arriving at virtue, and not as the principal affection of the soul; and of the light of discretion in various other modes and operations."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "en-US": "Chapter XII. A repetition of several things already said, and how God promises refreshments to His servants, and the reformation of the Holy Church, together with the means of much endurance."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "en-US": "Chapter XIII. How this soul grew by means of the divine response, and how her sorrows grew less, and how she prayed to God for the Holy Church, and for her own people."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "en-US": "Chapter XIV. How God grieves over the Christian people, and particularly over His ministers; and touches on the subject of the Sacrament of Christ’s Body, and the benefit of the Incarnation."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "en-US": "Chapter XV. How sin is more gravely punished after the Passion of Christ than before; and how God promises to do mercy to the world, and to the Holy Church, by means of the prayers and sufferings of His servants."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "en-US": "Chapter XVI. How this soul, knowing the Divine Goodness, did not remain content to pray only for Christians, but prayed in general for the whole world."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "en-US": "Chapter XVII. How God laments over His rational creatures, principally on account of the self-love which reigns in them; strengthening the above mentioned soul for greater efforts of prayer and tears."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "en-US": "Chapter XVIII. How no man can escape from the hands of God, for God visits him either in Mercy or in Justice."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "en-US": "Chapter XIX. How this soul, growing in amorous heat, yearned to sweat blood; and, accusing herself, made a particular prayer for the spiritual father of her soul."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "en-US": "Chapter XX. How, without enduring tribulations with patience, it is impossible to please God; and how God comforts her and her spiritual father to endure with true patience."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "en-US": "Chapter XXI. How the road to Heaven being broken through the disobedience of Adam, God made of his Son a Bridge by which man could pass."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "en-US": "Chapter XXII. How God induces the soul to look at the greatness of this Bridge, inasmuch as it reaches from earth to Heaven."
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "en-US": "Chapter XXIII. How we are all labourers of God in the vineyard of the Holy Church; and how each man has his own vine; and how we all must be united in the Son of God, the True Vine."
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "en-US": "Chapter XXIV. How God farms and prunes His vine; and how each man’s vine is so closely united with his neighbour’s, that he cannot either cultivate or ruin the one without the other."
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "en-US": "Chapter XXV. How this soul prays God to show her those who cross by the aforesaid Bridge, and those who do not."
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "en-US": "Chapter XXVI. How this Bridge has three steps, which signify the three states of the soul; and how, being lifted on high, yet it is not separated from the earth; and how these words are to be understood: “// I am lifted up from the earth, I will draw all things unto Me”"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "en-US": "Chapter XXVII. How this Bridge is built of stones which signify virtues; and how on the Bridge is a hostelry where food is given to the travellers; and how he who goes over the Bridge goes to life, while he who goes under It goes to perdition and death."
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "en-US": "Chapter XXVIII. How travelling on both of these roads, that is the Bridge and the River, is fatiguing; and of the delight which the soul feels in travelling by the Bridge."
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "en-US": "Chapter XXIX. How this Bridge, having reached to Heaven on the day of the Ascension, did not for that reason leave the earth."
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "en-US": "Chapter XXX. How this soul wondering at the mercy of God, relates many gifts and graces given to the human race."
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "en-US": "Chapter XXXI. Of the baseness of those who pass by the river under the Bridge; and how the soul, that passes underneath, is called by God the tree of death, whose roots are held in four vices."
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "en-US": "Chapter XXXII. How the fruits of this tree are as diverse as are the sins; and first, of the sin of sensuality."
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "en-US": "Chapter XXXIII. How the fruit of others is avarice; and of the evils that proceed"
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "en-US": "Chapter XXXIV. How some others hold positions of authority, and bring forth fruits of injustice."
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "en-US": "Chapter XXXV. How through these and through other defects, one falls into false judgment; and of the indignity to which one comes."
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "en-US": "Chapter XXXVI. Of the words that Christ said: “/ will send the Holy Spirit, who will reprove the world of injustice and of false judgment “; and how one of these reproofs is continuous."
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "en-US": "Chapter XXXVII. Of the second reproof of injustice, and of false judgment, in general and in particular."
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "en-US": "Chapter XXXVIII. Of the four principal torments of the damned, from which follow all the others; and particularly of the foulness of the Devil."
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "en-US": "Chapter XXXIX. Of the third reproof which is made on the Day of Judgment."
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "en-US": "Chapter XL. How the damned cannot desire any good."
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "en-US": "Chapter XLI. Of the glory of the Blessed."
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "en-US": "Chapter XLII. How, after the General Judgment, the pain of the damned will increase."
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "en-US": "Chapter XLIII. Of the use of temptations, and how every soul in her extremity sees her final place either of pain or of glory, before she is sepa rated from the body."
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "en-US": "Chapter XLIV. How the Devil gets hold of souls, under pretence of some good: and, how those are deceived who keep by the river, and not by the aforesaid Bridge, for, wishing to fly pains, they fall into them; and of the vision of a tree, that this soul once had."
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "en-US": "Chapter XLV. How, the world having germinated thorns, who those are whom they do not harm; although no one passes.this life without pain."
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "en-US": "Chapter XLVI. Of the evils which proceed from the blindness of the intellect; and how good works not done in a state of grace are not profitable for eternal life."
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "en-US": "Chapter XLVII. How the commandments cannot be observed by those who do not observe the counsels; and how every state, which a man may choose, if he have a good and holy will, is pleasing to God."
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "en-US": "Chapter XLVIII. How worldly men cannot be satisfied with their possessions; and of the suffering their perverse will causes them even in this life."
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "en-US": "Chapter XLIX. How servile fear is not sufficient to give eternal life; and how, by the exercise of this fear, one arrives at the love of virtue."
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "en-US": "Chapter L. How this soul was in great bitterness, on account of the blindness of those who are drowned below in the river."
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "en-US": "Chapter LI. How the three steps figured in the Bridge, that is, in the Son of GOD, signify the three powers of the soul."
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "en-US": "Chapter LII. How if the three aforesaid powers are not united, there cannot be perseverance, without which no man arrives at his end."
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "en-US": "Chapter LIII. An exposition on Christ’s words: “Whosoever thirtieth, let him come to Me and drink.”"
+      }
+    },
+    {
+      "id": "c054",
+      "title": {
+        "en-US": "Chapter LIV. The general method by which every rational creature can come out of the sea of the world, and go by the aforesaid holy Bridge."
+      }
+    },
+    {
+      "id": "c055",
+      "title": {
+        "en-US": "Chapter LV. A brief repetition of some things already said."
+      }
+    },
+    {
+      "id": "c056",
+      "title": {
+        "en-US": "Chapter LVI. How GOD, wishing to show to this devoted soul that the three steps of the holy Bridge, signify in particular the three states of the soul, tells her that she should rise above herself, to consider this truth."
+      }
+    },
+    {
+      "id": "c057",
+      "title": {
+        "en-US": "Chapter LVII. How this devoted soul looking in the Divine mirror saw the creatures going in diverse ways."
+      }
+    },
+    {
+      "id": "c058",
+      "title": {
+        "en-US": "Chapter LVIII. How servile fear is not sufficient, without the love of virtue, to give eternal life; and how the law of fear and that of love are united."
+      }
+    },
+    {
+      "id": "c059",
+      "title": {
+        "en-US": "Chapter LIX. How, by exercising oneself in servile fear, which is the state of imperfection, by which is meant the first step of the holy Bridge, one arrives at the second step, which is the state of perfection."
+      }
+    },
+    {
+      "id": "c060",
+      "title": {
+        "en-US": "Chapter LX. Of the imperfection of those who love GOD for their own profit, delight and consolation."
+      }
+    },
+    {
+      "id": "c061",
+      "title": {
+        "en-US": "Chapter LXI. Of the way in which GOD manifests Himself to the soul who loves Him."
+      }
+    },
+    {
+      "id": "c062",
+      "title": {
+        "en-US": "Chapter LXII. Why Christ did not say / will manifest My Father, but I will manifest Myself."
+      }
+    },
+    {
+      "id": "c063",
+      "title": {
+        "en-US": "Chapter LXIII. How the soul, after having mounted the first step of the Bridge, should proceed to mount the second."
+      }
+    },
+    {
+      "id": "c064",
+      "title": {
+        "en-US": "Chapter LXIV. How an imperfect lover of GOD loves his neighbour also imperfectly, and of the signs of this imperfect love."
+      }
+    },
+    {
+      "id": "c065",
+      "title": {
+        "en-US": "Chapter LXV. Of the means which the soul takes to arrive at pure and generous love; and here begins the Treatise of Prayer."
+      }
+    },
+    {
+      "id": "c066",
+      "title": {
+        "en-US": "Chapter LXVI. Here, touching something concerning the Sacrament of the Body of Christ, the complete doctrine is given; and how the soul proceeds from vocal to mental prayer, and a vision is related which this devout soul once received."
+      }
+    },
+    {
+      "id": "c067",
+      "title": {
+        "en-US": "Chapter LXVII. Of the mistake which worldly men make who desire to serve God for their own consolation and delight."
+      }
+    },
+    {
+      "id": "c068",
+      "title": {
+        "en-US": "Chapter LXVIII. How the servants of God are deceived who go on loving God in the aforesaid way."
+      }
+    },
+    {
+      "id": "c069",
+      "title": {
+        "en-US": "Chapter LXIX. Of those who, in order not to lose their own peace of mind and consolations, do not succour their neighbour in his necessities."
+      }
+    },
+    {
+      "id": "c070",
+      "title": {
+        "en-US": "Chapter LXX. Of the deception, which those fall into, who have placed all their affections in consolations and mental visions."
+      }
+    },
+    {
+      "id": "c071",
+      "title": {
+        "en-US": "Chapter LXXI. How it is possible for the aforesaid souls, who take delight in consolations and mental visions, to be deceived by the Devil in a form of light; and how to know when a vision is from GOD, and when from the Devil."
+      }
+    },
+    {
+      "id": "c072",
+      "title": {
+        "en-US": "Chapter LXXII. How the soul who truly knows herself, wisely guards against all the aforesaid deceptions."
+      }
+    },
+    {
+      "id": "c073",
+      "title": {
+        "en-US": "Chapter LXXIII. Of the method by which the soul separates herself from imperfect love, and attains to perfect love, friendly and filial."
+      }
+    },
+    {
+      "id": "c074",
+      "title": {
+        "en-US": "Chapter LXXIV. Of the signs by which the soul knows she has arrived at perfect love."
+      }
+    },
+    {
+      "id": "c075",
+      "title": {
+        "en-US": "Chapter LXXV. How they who are imperfect desire to follow the Father alone, but they who are perfect desire to follow the Son. And of a vision, which this holy soul had, concerning diverse baptisms, and of many other beautiful and useful things."
+      }
+    },
+    {
+      "id": "c076",
+      "title": {
+        "en-US": "Chapter LXXVI. How the soul, having mounted the third step of the holy Bridge, that is, having arrived at the Mouth, at once makes use of it—and how the death of self-will is the true sign that the soul has arrived there."
+      }
+    },
+    {
+      "id": "c077",
+      "title": {
+        "en-US": "Chapter LXXVII. Of the works of the soul after she has ascended the aforesaid holy step."
+      }
+    },
+    {
+      "id": "c078",
+      "title": {
+        "en-US": "Chapter LXXVIII. Of the fourth state, which is, nevertheless, not separated from the third, and of the works of the soul who has arrived at this state, and how she is never left by GOD, Who remains with her in continual sentiment."
+      }
+    },
+    {
+      "id": "c079",
+      "title": {
+        "en-US": "Chapter LXXIX. How GOD does not withdraw Himself from the aforesaid perfect ones by sentiment or by grace, but how He withdraws the union of Himself from them."
+      }
+    },
+    {
+      "id": "c080",
+      "title": {
+        "en-US": "Chapter LXXX. How worldly people render glory and praise to GOD, whether they will or no."
+      }
+    },
+    {
+      "id": "c081",
+      "title": {
+        "en-US": "Chapter LXXXI. How even the devils render glory and praise to GOD."
+      }
+    },
+    {
+      "id": "c082",
+      "title": {
+        "en-US": "Chapter LXXXII. How the soul, after she has passed through this life, sees fully the praise and glory of My Name in everything, and, though, in her the pain of desire is ended, the desire is not."
+      }
+    },
+    {
+      "id": "c083",
+      "title": {
+        "en-US": "Chapter LXXXIII. How after Saint Paul was drawn to the glory of the blessed, he desired to be loosened from the body, as they do, who have reached the aforesaid third and fourth states."
+      }
+    },
+    {
+      "id": "c084",
+      "title": {
+        "en-US": "Chapter LXXXIV. How the soul who finds herself in the unitive state desires infinitely to leave the barren earthly state and unite herself to GOD."
+      }
+    },
+    {
+      "id": "c085",
+      "title": {
+        "en-US": "Chapter LXXXV. How they, who are arrived at the aforesaid unitive state, have the eye of their intellect illuminated by supernatural light infused by grace. And how it is better to go for counsel for the salvation of the soul, to a humble and holy conscience than to a proud lettered man."
+      }
+    },
+    {
+      "id": "c086",
+      "title": {
+        "en-US": "Chapter LXXXVI. A useful repetition of many things already said and how GOD leads this devout soul to pray to Him for every creature, and for the Holy Church."
+      }
+    },
+    {
+      "id": "c087",
+      "title": {
+        "en-US": "Chapter LXXXVII. How this devout soul seeks knowledge from God concerning the state and fruit of tears."
+      }
+    },
+    {
+      "id": "c088",
+      "title": {
+        "en-US": "Chapter LXXXVIII. How there are five kinds of tears."
+      }
+    },
+    {
+      "id": "c089",
+      "title": {
+        "en-US": "Chapter LXXXIX. Of the difference of these tears, arising from the explanation of the aforesaid states of the soul."
+      }
+    },
+    {
+      "id": "c090",
+      "title": {
+        "en-US": "Chapter XC. A repetition of the preceding chapter: and how the Devil flees those who have arrived at the fifth kind of tears, and how the assaults of the Devil are the true means of reaching this stage."
+      }
+    },
+    {
+      "id": "c091",
+      "title": {
+        "en-US": "Chapter XCI. How those who desire the tears of the eyes and cannot have them, have tears of fire; and why God withdraws from them physical tears."
+      }
+    },
+    {
+      "id": "c092",
+      "title": {
+        "en-US": "Chapter XCII. How the four stages of the soul, to which belong the five aforesaid states of tears, produce tears of infinite value: and how God wishes to be served as the Infinite, and not as anything finite."
+      }
+    },
+    {
+      "id": "c093",
+      "title": {
+        "en-US": "Chapter XCIII. Of the fruit of worldly men’s tears."
+      }
+    },
+    {
+      "id": "c094",
+      "title": {
+        "en-US": "Chapter XCIV. How the aforesaid worldly weepers are struck by four different winds."
+      }
+    },
+    {
+      "id": "c095",
+      "title": {
+        "en-US": "Chapter XCV. Of the fruit of the second and third kinds of tears."
+      }
+    },
+    {
+      "id": "c096",
+      "title": {
+        "en-US": "Chapter XCVI. Of the fruit of the fourth and unitive tears."
+      }
+    },
+    {
+      "id": "c097",
+      "title": {
+        "en-US": "Chapter XCVII. Y"
+      }
+    },
+    {
+      "id": "c098",
+      "title": {
+        "en-US": "Chapter XCVIII. How the light of reason is necessary to every soul that wishes to serve God in truth; and first of the light of reason in general."
+      }
+    },
+    {
+      "id": "c099",
+      "title": {
+        "en-US": "Chapter XCIX. Of those who have placed their desire rather in the mortification of the body than in the destruction of their own will; and of the second light, more perfect than the former general one."
+      }
+    },
+    {
+      "id": "c100",
+      "title": {
+        "en-US": "Chapter C. Of the third and most perfect state, and of reason, and of the works done by the soul who has arrived at this light. And of a beautiful vision which this devout soul once received, in which the method of arriving at perfect purity is fully treated, and the means to avoid judging our neighbour is spoken of."
+      }
+    },
+    {
+      "id": "c101",
+      "title": {
+        "en-US": "Chapter CI. In what way they, who stand in the above-mentioned third most perfect light, receive the earnest of eternal life in this life."
+      }
+    },
+    {
+      "id": "c102",
+      "title": {
+        "en-US": "Chapter CII. How one should reprove one’s neighbour, without falling into false judgment."
+      }
+    },
+    {
+      "id": "c103",
+      "title": {
+        "en-US": "Chapter CIII. How, if God should manifest to a person, praying for another, the mind of that other full of darkness, he should not be judged on that account to be in a state of sin."
+      }
+    },
+    {
+      "id": "c104",
+      "title": {
+        "en-US": "Chapter CIV. How penance should not be taken for the foundation or principal end in itself: but rather the affection and love of virtue."
+      }
+    },
+    {
+      "id": "c105",
+      "title": {
+        "en-US": "Chapter CV. A brief repetition of the above-mentioned things; with an addition concerning the reprehension of the neighbour."
+      }
+    },
+    {
+      "id": "c106",
+      "title": {
+        "en-US": "Chapter CVI. Of the means of knowing when visitations and mental visions come from God or the Devil."
+      }
+    },
+    {
+      "id": "c107",
+      "title": {
+        "en-US": "Chapter CVII. How God is the Fulfiller of the holy desires of His servants; and how they please Him much who ask and knock at the door of His Truth with perseverance."
+      }
+    },
+    {
+      "id": "c108",
+      "title": {
+        "en-US": "Chapter CVIII. How this soul, rendering thanks to God, humiliates herself; then she prays for the whole world and particularly for the mystical body of the holy Church, and for her spiritual children, and for the two fathers of her soul; and, after these things, she asks to hear something about the defects of the ministers of the holy Church."
+      }
+    },
+    {
+      "id": "c109",
+      "title": {
+        "en-US": "Chapter CIX. How God renders this soul attentive to prayer, replying to one of the above mentioned petitions."
+      }
+    },
+    {
+      "id": "c110",
+      "title": {
+        "en-US": "Chapter CX. Of the dignity of the priest; and of the Sacrament of the Body of Christ; and of worthy and unworthy communicants."
+      }
+    },
+    {
+      "id": "c111",
+      "title": {
+        "en-US": "Chapter CXI. How the bodily sentiments are all deceived in the aforesaid Sacrament, but not those of the soul, therefore it is, with the latter, that one must see, taste, and touch It; and of a beautiful vision this soul had upon this subject."
+      }
+    },
+    {
+      "id": "c112",
+      "title": {
+        "en-US": "Chapter CXII. Of the excellent state of the soul who receives the sacrament in grace."
+      }
+    },
+    {
+      "id": "c113",
+      "title": {
+        "en-US": "Chapter CXIII. How the things which have been said about the excellence of this- Sacrament, have been said that we might know better the dignity of priests; and how God demands in them greater purity than in other creatures."
+      }
+    },
+    {
+      "id": "c114",
+      "title": {
+        "en-US": "Chapter CXIV. How the Sacraments should not be sold or bought, and how they who receive them should succour the ministers in temporal things, which the ministers should dispense in three divisions."
+      }
+    },
+    {
+      "id": "c115",
+      "title": {
+        "en-US": "Chapter CXV. Of the dignity of priests; and how the virtue of the Sacraments is not diminished by the faults either of the minister or of the recipient; And how God does not wish seculars to occupy themselves in correcting the clergy."
+      }
+    },
+    {
+      "id": "c116",
+      "title": {
+        "en-US": "Chapter CXVI. How God considers persecutions directed against the holy Church or her ministers as directed against Himself; and how this sin is graver than any other."
+      }
+    },
+    {
+      "id": "c117",
+      "title": {
+        "en-US": "Chapter CXVII. Here God speaks against those, who persecute the holy Church and His ministers, in various ways."
+      }
+    },
+    {
+      "id": "c118",
+      "title": {
+        "en-US": "Chapter CXVIII. A brief repetition of the above things, concerning the holy Church and her ministers."
+      }
+    },
+    {
+      "id": "c119",
+      "title": {
+        "en-US": "Chapter CXIX. Of the excellence, virtues, and holy works of virtuous and holy ministers; and how such are like the sun."
+      }
+    },
+    {
+      "id": "c120",
+      "title": {
+        "en-US": "Chapter CXX. A brief repetition of the preceding chapter; and of the reverence which should be paid to priests, whether they are good or bad."
+      }
+    },
+    {
+      "id": "c121",
+      "title": {
+        "en-US": "Chapter CXXI. Of the sins and evil life of wicked priests and ministers."
+      }
+    },
+    {
+      "id": "c122",
+      "title": {
+        "en-US": "Chapter CXXII. How injustice reigns in the above-mentioned wicked ministers; and that particularly in that they do not correct their subjects."
+      }
+    },
+    {
+      "id": "c123",
+      "title": {
+        "en-US": "Chapter CXXIII. Of many other defects of the said ministers; and in particular of their frequenting taverns and gambling and harlotry."
+      }
+    },
+    {
+      "id": "c124",
+      "title": {
+        "en-US": "Chapter CXXIV. How among the said ministers reigns unnatural sin; and of a beautiful vision which this soul had on the subject."
+      }
+    },
+    {
+      "id": "c125",
+      "title": {
+        "en-US": "Chapter CXXV. How, through the above-mentioned defects, subjects do not receive correction; and of the defects of religious; and how, from these evils not being corrected, many others follow."
+      }
+    },
+    {
+      "id": "c126",
+      "title": {
+        "en-US": "Chapter CXXVI. How among these wicked ministers reigns the sin of lustfulness."
+      }
+    },
+    {
+      "id": "c127",
+      "title": {
+        "en-US": "Chapter CXXVII. How avarice reigns among the said ministers, who not only lend money with usury, but also sell and buy benefices and prelacies; and of the evils which have been brought about in Holy Church by this cupidity."
+      }
+    },
+    {
+      "id": "c128",
+      "title": {
+        "en-US": "Chapter CXXVIII. How pride reigns among these ministers, by which they lose their knowledge; and how, having lost their knowledge, they fall into the sin of seeming to consecrate, while they do not really do so."
+      }
+    },
+    {
+      "id": "c129",
+      "title": {
+        "en-US": "Chapter CXXIX. Of many other sins which are committed through pride and self-love."
+      }
+    },
+    {
+      "id": "c130",
+      "title": {
+        "en-US": "Chapter CXXX. Of many other sins which the said wretched ministers commit."
+      }
+    },
+    {
+      "id": "c131",
+      "title": {
+        "en-US": "Chapter CXXXI. Of the difference between the death of a just man and that of a sinner, and first of the death of the just man."
+      }
+    },
+    {
+      "id": "c132",
+      "title": {
+        "en-US": "Chapter CXXXII. Of the death of sinners, and of their pains in the hour of death."
+      }
+    },
+    {
+      "id": "c133",
+      "title": {
+        "en-US": "Chapter CXXXIII. A brief repetition of many things said above, and how GOD alto gether forbids that priests should be touched by the hand of seculars: and how He invites this soul to weep over these wretched priests."
+      }
+    },
+    {
+      "id": "c134",
+      "title": {
+        "en-US": "Chapter CXXXIV. How this devout soul, praising and thanking GOD, made a prayer for the Holy Church."
+      }
+    },
+    {
+      "id": "c135",
+      "title": {
+        "en-US": "Chapter CXXXV. Here begins the treatise of obedience, and first of where obedience may be found, and what it is that destroys it, and what is the sign of a man’s possessing it, and what accompanies and nourishes obedience."
+      }
+    },
+    {
+      "id": "c136",
+      "title": {
+        "en-US": "Chapter CXXXVI. How obedience is the key with which Heaven is opened, and how the soul should fasten it by means of a cord to her girdle, and of the excellences of obedience."
+      }
+    },
+    {
+      "id": "c137",
+      "title": {
+        "en-US": "Chapter CXXXVII. Here both the misery of the disobedient and the excellence of the obedient are spoken of."
+      }
+    },
+    {
+      "id": "c138",
+      "title": {
+        "en-US": "Chapter CXXXVIII. Of those who have such love for obedience that they do not remain content with the general obedience of precepts, but take on themselves a particular obedience."
+      }
+    },
+    {
+      "id": "c139",
+      "title": {
+        "en-US": "Chapter CXXXIX. How a soul advances from general to particular obedience; and of the excellence of the religous orders."
+      }
+    },
+    {
+      "id": "c140",
+      "title": {
+        "en-US": "Chapter CXL. Of the excellence of the obedient, and of the misery of the disobedient members of the religious orders."
+      }
+    },
+    {
+      "id": "c141",
+      "title": {
+        "en-US": "Chapter CXLI. How the truly obedient receive a hundredfold for one, and also eternal life; and what is meant by this one, and this hundred fold."
+      }
+    },
+    {
+      "id": "c142",
+      "title": {
+        "en-US": "Chapter CXLII. Of the perversities, miseries, and labours of the disobedient man; and of the miserable fruits which proceed from disobedience."
+      }
+    },
+    {
+      "id": "c143",
+      "title": {
+        "en-US": "Chapter CXLIII. Of the imperfection of those who live tepidly in religion, because they guard against mortal sin only; and of the remedy by which they can be cured of their tepidity."
+      }
+    },
+    {
+      "id": "c144",
+      "title": {
+        "en-US": "Chapter CXLIV. Of the excellence of obedience, and of the advantages which it brings to him who truly lays hold of it."
+      }
+    },
+    {
+      "id": "c145",
+      "title": {
+        "en-US": "Chapter CXLV. A distinction between two kinds of obedience; the one that of religious, and the other that paid to any secular person."
+      }
+    },
+    {
+      "id": "c146",
+      "title": {
+        "en-US": "Chapter CXLVI. How God does not reward merit according to the labour of the obedient, nor according to the length of time which it takes, but according to the love and promptitude of the truly obedient; and of the miracles which God has performed by means of this virtue; and of discretion in obedience, and of the works and reward of the truly obedient man."
+      }
+    },
+    {
+      "id": "c147",
+      "title": {
+        "en-US": "Chapter CXLVII. This is a brief repetition of the entire book."
+      }
+    },
+    {
+      "id": "c148",
+      "title": {
+        "en-US": "Chapter CXLVIII. How this most devout soul, thanking and praising God, makes prayer for the whole world and for the Holy Church, and commending the virtue of faith brings this work to an end."
+      }
+    }
+  ]
+}

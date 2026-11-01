@@ -1,0 +1,18 @@
+{
+  "name": {
+    "en-US": "St. Catherine of Siena",
+    "pt-BR": "Santa Catarina de Sena"
+  },
+  "century": 14,
+  "saint": "catherine_siena",
+  "matches": [
+    "Catherine of Siena",
+    "Catherine of Siena, Saint",
+    "Catherine of Siena, St.",
+    "St. Catherine of Siena",
+    "Catherine of Siena (St.)",
+    "Caterina da Siena",
+    "Caterina da Siena, santa",
+    "Caterina da Siena (santa)"
+  ]
+}
