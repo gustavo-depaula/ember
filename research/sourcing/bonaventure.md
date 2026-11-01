@@ -189,3 +189,7 @@ Searched: archive.org (advancedsearch: titles and creators "Boaventura/Bonaventu
 | (spurious) *Psalterium B. V. Mariae* | Lisbon printings 1611, 1651, 1673 are **Latin** (BNP 262166, 262161, 262496) | — | — | Not Portuguese. |
 
 **pt-BR reference:** there is no usable free modern Portuguese for any Bonaventure work. Our pt-BR has to come from the pipeline, translating from Quaracchi and the *Decem opuscula* and checking against the PD English. For the *Itinerarium*, the published Brazilian (De Boni–Schneider) and Portuguese (Soares Pinheiro) versions are the references to consult, both tier C. Marcos de Lisboa's 1562 *Perfeição da vida* and *Árvore da vida* are a PD witness of how 16th-century Portuguese friars rendered these two works, useful for vocabulary but not as a model for pt-BR.
+
+## Mirror
+
+The Wayback-only witnesses are mirrored, and gitignored. The poliba `ff_leggendamaggiore_lat.html` and `ff_leggendaminore_lat.html` are complete in `research/sourcing/francis-of-assisi/mirror-bari/`. The franciscanos.net `fuentes/legmaior.htm` and `fuentes/legminor.htm` are complete in `.../mirror-franciscanos-net/`. That mirror also holds `document/itinerl.htm`, a 2007 capture of the franciscanos.net Latin *Itinerarium*: the Itinerarium entry above says no Wayback copy was found, but one exists. See `## Mirror` in `francis-of-assisi.md` for how complete these copies are.
