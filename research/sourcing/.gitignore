@@ -1,0 +1,3 @@
+# Raw downloads and scratch scripts stay local; only the reports are tracked.
+*/
+!_scripts/

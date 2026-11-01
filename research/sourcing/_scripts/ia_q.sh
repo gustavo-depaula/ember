@@ -1,0 +1,3 @@
+#!/bin/bash
+# archive.org advancedsearch, prints id|date|title|lang. usage: ia_q.sh QUERY
+curl -s -A 'EmberCorpusResearch/1.0' -G 'https://archive.org/advancedsearch.php' --data-urlencode "q=$1" --data-urlencode 'fl[]=identifier' --data-urlencode 'fl[]=title' --data-urlencode 'fl[]=date' --data-urlencode 'fl[]=language' --data-urlencode 'rows=60' --data-urlencode 'output=json' | python3 -c 'import json,sys; d=json.load(sys.stdin)["response"]; print(" n=",d["numFound"]); [print(" ",x.get("identifier"),"|",str(x.get("date"))[:4],"|",str(x.get("title"))[:120],"|",x.get("language")) for x in d["docs"]]'

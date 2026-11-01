@@ -1,0 +1,2 @@
+#!/bin/bash
+curl -s -m 90 -G "https://archive.org/advancedsearch.php" --data-urlencode "q=$1" --data-urlencode "fl[]=identifier" --data-urlencode "fl[]=title" --data-urlencode "fl[]=date" --data-urlencode "fl[]=language" --data-urlencode "fl[]=volume" --data-urlencode "rows=${2:-100}" --data-urlencode "output=json" | python3 -c "import json,sys; [print(d['identifier'],'|',str(d.get('date',''))[:4],'|',str(d.get('language','')),'|',str(d.get('volume','')),'|',str(d.get('title',''))[:120]) for d in json.load(sys.stdin)['response']['docs']]"
