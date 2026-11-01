@@ -1,3 +1,4 @@
+import type { ReactNode } from 'react'
 import { type Href, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
@@ -20,6 +21,8 @@ export function BookHero({
   format,
   scrollY,
   readHref,
+  renderCover,
+  byline,
 }: {
   name: string
   author?: string
@@ -30,6 +33,10 @@ export function BookHero({
   scrollY: SharedValue<number>
   /** Reader route — wrapped in Link.AppleZoom so the capsule morphs into the reader. */
   readHref: Href
+  /** PROTOTYPE: replaces the cover (edition picker variant D). */
+  renderCover?: (width: number) => ReactNode
+  /** PROTOTYPE: a line under the author (edition picker variant E). */
+  byline?: ReactNode
 }) {
   const router = useRouter()
   const { t } = useTranslation()
@@ -81,7 +88,11 @@ export function BookHero({
         paddingHorizontal="$lg"
         paddingBottom={40}
       >
-        <BookCover title={name} author={author} tone={tone} format={format} width={coverWidth} />
+        {renderCover ? (
+          renderCover(coverWidth)
+        ) : (
+          <BookCover title={name} author={author} tone={tone} format={format} width={coverWidth} />
+        )}
         <YStack alignItems="center" gap="$xs">
           <Typography
             variant="sacred-title"
@@ -105,6 +116,7 @@ export function BookHero({
               {author}
             </Typography>
           )}
+          {byline}
         </YStack>
       </YStack>
 

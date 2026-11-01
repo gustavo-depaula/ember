@@ -13,6 +13,12 @@ import { ZoomLink } from '@/components/ZoomLink'
 import type { TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
+import {
+  EditionPickerPrototype,
+  EditionShelf,
+  HeroByline,
+  HeroCovers,
+} from '@/features/books/EditionPickerPrototype'
 import { useBookManifest } from '@/features/books/hooks'
 import {
   ancestorGroupIds,
@@ -52,7 +58,7 @@ function formatMinutes(minutes: number): string {
 }
 
 export default function BookDetailScreen() {
-  const { bookId } = useLocalSearchParams<{ bookId: string }>()
+  const { bookId, variant, offer, sheet, peek, page } = useLocalSearchParams<{ bookId: string; variant?: string; offer?: string; sheet?: string; peek?: string; page?: string }>()
   const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
@@ -208,6 +214,8 @@ export default function BookDetailScreen() {
       format={bookCoverFormat(entry.cover)}
       scrollY={scrollY}
       readHref={readerHref()}
+      renderCover={variant === 'D' ? (w) => <HeroCovers bookRef={bookRef} lang={lang} width={w} page={page ? Number(page) : undefined} /> : undefined}
+      byline={variant === 'E' ? <HeroByline bookRef={bookRef} lang={lang} /> : undefined}
     />
   )
   const actions = (
@@ -240,6 +248,7 @@ export default function BookDetailScreen() {
     />
   ) : null
   const tocList = {
+    ListFooterComponent: variant === 'F' ? <EditionShelf bookRef={bookRef} lang={lang} /> : undefined,
     data: flatToc,
     keyExtractor: tocKeyExtractor,
     getItemLayout: tocGetItemLayout,
@@ -289,6 +298,7 @@ export default function BookDetailScreen() {
                     </Typography>
                   )}
                 </YStack>
+                <EditionPickerPrototype bookRef={bookRef} lang={lang} variant={variant ?? 'A'} offer={offer === '1'} sheet={sheet === '1'} />
                 {description && <PrologueProse text={description} />}
                 {sumario}
               </YStack>
@@ -373,6 +383,10 @@ export default function BookDetailScreen() {
                 backgroundColor="$background"
               >
                 {actions}
+
+                <EditionPickerPrototype bookRef={bookRef} lang={lang} variant={variant ?? 'A'} offer={offer === '1'} sheet={sheet === '1'} />
+
+                {peek === '1' && variant === 'F' ? <EditionShelf bookRef={bookRef} lang={lang} /> : null}
 
                 {progress}
 
