@@ -1,0 +1,571 @@
+{
+  "id": "lallemant-doctrine-spirituelle",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "La Doctrine spirituelle",
+    "en-US": "The Spiritual Doctrine",
+    "pt-BR": "A doutrina espiritual"
+  },
+  "author": {
+    "fr-FR": "Père Louis Lallemant, S.J.",
+    "en-US": "Father Louis Lallemant, S.J.",
+    "pt-BR": "Padre Louis Lallemant, S.J."
+  },
+  "description": {
+    "fr-FR": "L’enseignement du P. Louis Lallemant (1588-1635), maître des tertiaires jésuites et de toute une génération de spirituels (Surin, Rigoleuc, Saint-Jure), qui n’a rien écrit lui-même : ses disciples ont recueilli ses leçons, et le P. Pierre Champion les a ordonnées en sept principes (la vue de la fin, l’idée de la perfection, la pureté du cœur, la docilité à l’Esprit Saint, le recueillement et la vie intérieure, l’union avec Notre-Seigneur, l’ordre et les degrés de la vie spirituelle), publiées en 1694 avec sa Vie du P. Lallemant. Texte de la nouvelle édition de 1908 (Lecoffre-Gabalda), avec l’Addition de pensées recueillies par Surin.",
+    "en-US": "The teaching of Father Louis Lallemant (1588-1635), instructor of the Jesuit tertians and of a whole generation of spiritual writers (Surin, Rigoleuc, Saint-Jure), who wrote nothing himself: his disciples noted down his lessons, and Father Pierre Champion arranged them in seven principles (the consideration of the end, the idea of perfection, purity of heart, docility to the Holy Spirit, recollection and the interior life, union with our Lord, the order and steps of the spiritual life) and published them in 1694 with his Life of Father Lallemant. The French is the 1908 new edition (Lecoffre-Gabalda), with the Additions of thoughts gathered by Surin; the English is the 1855 translation edited by F. W. Faber, which follows the same divisions chapter for chapter.",
+    "pt-BR": "O ensinamento do Pe. Louis Lallemant (1588-1635), mestre dos terceiros-probantes jesuítas e de toda uma geração de espirituais (Surin, Rigoleuc, Saint-Jure), que nada escreveu: seus discípulos recolheram as lições, e o Pe. Pierre Champion as ordenou em sete princípios (a consideração do fim, a ideia da perfeição, a pureza de coração, a docilidade ao Espírito Santo, o recolhimento e a vida interior, a união com Nosso Senhor, a ordem e os graus da vida espiritual) e as publicou em 1694 com a Vida do Pe. Lallemant."
+  },
+  "composed": "1694",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "lallemant/doctrine-spirituelle",
+  "editions": {
+    "fr-FR": {
+      "editor": "P. Pierre Champion, S.J. (nouvelle édition, Paris: Lecoffre / Gabalda)",
+      "year": 1908
+    },
+    "en-US": {
+      "translator": "anonymous, ed. F. W. Faber",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/DoctrineSpirituelle",
+      "edition": "La Doctrine spirituelle du P. Louis Lallemant, de la Compagnie de Jésus, précédée de sa vie, nouvelle édition, Paris: Librairie Victor Lecoffre, J. Gabalda & Cie (Penn State copy, Google scan). Internet Archive OCR text.",
+      "description": "Champion's Avertissement and Vie du P. Lallemant, the seven principles with every section, chapter and article, and the Addition (pensées recueillies par le P. Surin, chapters I-X). Running heads, page numbers, § marks and line-end hyphens were stripped; the paragraph numbers (§) are dropped. The OCR was corrected with a French spelling dictionary and hand-made fixes for several hundred misreadings, so some OCR slips remain, mostly in Latin quotations and fused or split words. Article titles are kept as the first line of each article where the edition prints one. The table of contents and the Table des matières are not imported.",
+      "tier": "A",
+      "tierEvidence": "Lallemant died in 1635; the text was compiled by Champion (d. 1701) and published in 1694; the 19th and early 20th century edition is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/spiritualdoctri00fabegoog",
+      "edition": "The Spiritual Doctrine of Father Louis Lallemant, of the Company of Jesus, preceded by some account of his life, translated from the French (Lecoffre 1846), edited by Frederick William Faber, London: Burns & Lambert, 1855. Oxford copy, Google scan, OCR text; the Advertisement and the Life are taken from the Sadlier reprint (New York, c. 1885; archive.org fatherlouislalle00lalluoft) because the Faber scan lacks its first pages.",
+      "description": "Chapters, articles and additions as in the French, same ids. The English OCR was cleaned of running heads and corrected only for the commonest misreadings, so more OCR slips remain than in the French. Faber's front matter is not imported.",
+      "tier": "A",
+      "tierEvidence": "Published in 1855 (London) and reprinted c. 1885: public domain. Translator anonymous; Faber died in 1863."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avertissement",
+      "title": {
+        "fr-FR": "Avertissement",
+        "en-US": "Advertisement"
+      }
+    },
+    {
+      "id": "vie",
+      "title": {
+        "fr-FR": "La vie du P. Louis Lallemant",
+        "en-US": "The life of Father Louis Lallemant"
+      }
+    },
+    {
+      "id": "p1",
+      "title": {
+        "fr-FR": "Premier principe. La vue de la fin",
+        "en-US": "First Principle. The consideration of the end"
+      },
+      "children": [
+        {
+          "id": "p1-c1",
+          "title": {
+            "fr-FR": "Chapitre I. Que Dieu seul peut nous rendre heureux",
+            "en-US": "Chapter I. God alone can make us happy"
+          }
+        },
+        {
+          "id": "p1-c2",
+          "title": {
+            "fr-FR": "Chapitre II. Que notre félicité dépend de notre parfait assujettissement à Dieu, qui seul doit régner dans notre cœur",
+            "en-US": "Chapter II. Our happiness depends on our perfect submission to God, who ought to reign alone in our hearts"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": {
+        "fr-FR": "Deuxième principe. L’idée de la perfection",
+        "en-US": "Second Principle. The idea of perfection"
+      },
+      "children": [
+        {
+          "id": "p2-s1",
+          "title": {
+            "fr-FR": "Section I. De la perfection en général",
+            "en-US": "Section I. Of perfection in general"
+          },
+          "children": [
+            {
+              "id": "p2-s1-c1",
+              "title": {
+                "fr-FR": "Chapitre I. Le premier acte d’une âme qui tend à la perfection",
+                "en-US": "Chapter I. The first act of a soul seeking perfection"
+              }
+            },
+            {
+              "id": "p2-s1-c2",
+              "title": {
+                "fr-FR": "Chapitre II. Moyens principaux de la perfection",
+                "en-US": "Chapter II. The principal means of perfection"
+              }
+            },
+            {
+              "id": "p2-s1-c3",
+              "title": {
+                "fr-FR": "Chapitre III. L’exemple des vertus les plus nécessaires pour la perfection",
+                "en-US": "Chapter III. The exercise of the virtues that are most necessary to perfection"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p2-s2",
+          "title": {
+            "fr-FR": "Section II. De la perfection propre à la Compagnie de Jésus",
+            "en-US": "Section II. Of the perfection peculiar to the Company of Jesus"
+          },
+          "children": [
+            {
+              "id": "p2-s2-c1",
+              "title": {
+                "fr-FR": "Chapitre I. En quoi consiste la perfection propre de cette Compagnie",
+                "en-US": "Chapter I. Wherein consists the perfection peculiar to this Company"
+              }
+            },
+            {
+              "id": "p2-s2-c2",
+              "title": {
+                "fr-FR": "Chapitre II. Diverses dispositions des religieux à l’égard de la perfection",
+                "en-US": "Chapter II. Of the different dispositions of religious with regard to perfection"
+              }
+            },
+            {
+              "id": "p2-s2-c3",
+              "title": {
+                "fr-FR": "Chapitre III. Les motifs qui nous portent à prendre soin de notre perfection",
+                "en-US": "Chapter III. The motives that induce us to labour at our perfection"
+              }
+            },
+            {
+              "id": "p2-s2-c4",
+              "title": {
+                "fr-FR": "Chapitre IV. Les moyens de perfection propres de notre Compagnie",
+                "en-US": "Chapter IV. The means of perfection peculiar to our Company"
+              }
+            },
+            {
+              "id": "p2-s2-c5",
+              "title": {
+                "fr-FR": "Chapitre V. Le zèle du salut et de la perfection du prochain",
+                "en-US": "Chapter V. Zeal for the salvation and perfection of our neighbour"
+              }
+            },
+            {
+              "id": "p2-s2-c6",
+              "title": {
+                "fr-FR": "Chapitre VI. Divers avis",
+                "en-US": "Chapter VI. Divers counsels"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": {
+        "fr-FR": "Troisième principe. La pureté du cœur",
+        "en-US": "Third Principle. Purity of heart"
+      },
+      "children": [
+        {
+          "id": "p3-c1",
+          "title": {
+            "fr-FR": "Chapitre I. Sa nature et ses propriétés",
+            "en-US": "Chapter I. Its nature and its properties"
+          }
+        },
+        {
+          "id": "p3-c2",
+          "title": {
+            "fr-FR": "Chapitre II. Les choses dont on doit purifier le cœur",
+            "en-US": "Chapter II. The things from which we must cleanse our hearts"
+          }
+        },
+        {
+          "id": "p3-c3",
+          "title": {
+            "fr-FR": "Chapitre III. Le soin qu’il faut avoir de la pureté de cœur dans l’action",
+            "en-US": "Chapter III. The care we ought to take to preserve purity of heart in action"
+          }
+        },
+        {
+          "id": "p3-c4",
+          "title": {
+            "fr-FR": "Chapitre IV. Les principes de la corruption du cœur du côté de l’esprit",
+            "en-US": "Chapter IV. Mental causes of the corruption of the heart"
+          }
+        },
+        {
+          "id": "p3-c5",
+          "title": {
+            "fr-FR": "Chapitre V. Les principes de la corruption du cœur au dedans et à l’extérieur",
+            "en-US": "Chapter V. External causes of the corruption of the heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": {
+        "fr-FR": "Quatrième principe. La docilité à la conduite du Saint-Esprit",
+        "en-US": "Fourth Principle. Docility to the guidance of the Holy Spirit"
+      },
+      "children": [
+        {
+          "id": "p4-c1",
+          "title": {
+            "fr-FR": "Chapitre I. La docilité à la conduite du Saint-Esprit",
+            "en-US": "Chapter I. The nature of docility to the guidance of the Holy Spirit"
+          }
+        },
+        {
+          "id": "p4-c2",
+          "title": {
+            "fr-FR": "Chapitre II. Les motifs qui nous portent à cette docilité",
+            "en-US": "Chapter II. The motives which lead us to the practice of this docility"
+          }
+        },
+        {
+          "id": "p4-c3",
+          "title": {
+            "fr-FR": "Chapitre III. Des dons du Saint-Esprit en général",
+            "en-US": "Chapter III. Of the gifts of the Holy Spirit in general"
+          }
+        },
+        {
+          "id": "p4-c4",
+          "title": {
+            "fr-FR": "Chapitre IV. Des dons du Saint-Esprit en particulier",
+            "en-US": "Chapter IV. Of the gifts of the Holy Spirit in detail"
+          }
+        },
+        {
+          "id": "p4-c5",
+          "title": {
+            "fr-FR": "Chapitre V. Des fruits du Saint-Esprit",
+            "en-US": "Chapter V. Of the fruits of the Holy Spirit"
+          }
+        },
+        {
+          "id": "p4-c6",
+          "title": {
+            "fr-FR": "Chapitre VI. Les obstacles qu’on trouve de la part du démon dans la pratique de la docilité à la conduite du Saint-Esprit",
+            "en-US": "Chapter VI. The obstacles which the devil puts in our way in the practice of docility to the guidance of the Holy Spirit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "title": {
+        "fr-FR": "Cinquième principe. Le recueillement et la vie intérieure",
+        "en-US": "Fifth Principle. Recollection, or the interior life"
+      },
+      "children": [
+        {
+          "id": "p5-c1",
+          "title": {
+            "fr-FR": "Chapitre I. De la nature et des causes de la vie intérieure",
+            "en-US": "Chapter I. Of the nature and causes of the interior life"
+          }
+        },
+        {
+          "id": "p5-c2",
+          "title": {
+            "fr-FR": "Chapitre II. Des motifs qui nous portent à la vie intérieure",
+            "en-US": "Chapter II. Of the motives that lead us to the interior life"
+          }
+        },
+        {
+          "id": "p5-c3",
+          "title": {
+            "fr-FR": "Chapitre III. Les occupations de la vie intérieure",
+            "en-US": "Chapter III. The occupations of the interior life"
+          }
+        },
+        {
+          "id": "p5-c4",
+          "title": {
+            "fr-FR": "Chapitre IV. Avis pour la vie intérieure",
+            "en-US": "Chapter IV. Advice for the interior life"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "title": {
+        "fr-FR": "Sixième principe. L’union avec Notre-Seigneur",
+        "en-US": "Sixth Principle. Union with our Lord"
+      },
+      "children": [
+        {
+          "id": "p6-s1",
+          "title": {
+            "fr-FR": "Section I. Connaissance de Notre-Seigneur",
+            "en-US": "Section I. Of the knowledge of our Lord"
+          },
+          "children": [
+            {
+              "id": "p6-s1-c1",
+              "title": {
+                "fr-FR": "Chapitre I. Du mystère de l’Homme-Dieu",
+                "en-US": "Chapter I. Of the mystery of the Man-God"
+              }
+            },
+            {
+              "id": "p6-s1-c2",
+              "title": {
+                "fr-FR": "Chapitre II. Les propriétés de l’Homme-Dieu",
+                "en-US": "Chapter II. The properties of the Man-God"
+              }
+            },
+            {
+              "id": "p6-s1-c3",
+              "title": {
+                "fr-FR": "Chapitre III. Les divers états de la vie de Jésus-Christ",
+                "en-US": "Chapter III. The different states of the life of Jesus Christ"
+              }
+            },
+            {
+              "id": "p6-s1-c4",
+              "title": {
+                "fr-FR": "Chapitre IV. De la sainte Vierge",
+                "en-US": "Chapter IV. Of the Blessed Virgin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p6-s2",
+          "title": {
+            "fr-FR": "Section II. L’amour de Notre-Seigneur",
+            "en-US": "Section II. The love of our Lord"
+          },
+          "children": [
+            {
+              "id": "p6-s2-c1",
+              "title": {
+                "fr-FR": "Chapitre I. Les raisons d’aimer Notre-Seigneur en lui-même",
+                "en-US": "Chapter I. Motives for loving our Lord in Himself"
+              }
+            },
+            {
+              "id": "p6-s2-c2",
+              "title": {
+                "fr-FR": "Chapitre II. Les raisons d’aimer Notre-Seigneur au saint Sacrement de l’autel",
+                "en-US": "Chapter II. Motives for loving our Lord in the Holy Sacrament of the altar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p6-s3",
+          "title": {
+            "fr-FR": "Section III. De l’imitation de Notre-Seigneur",
+            "en-US": "Section III. Of the imitation of our Lord"
+          },
+          "children": [
+            {
+              "id": "p6-s3-c1",
+              "title": {
+                "fr-FR": "Chapitre I. Les raisons d’imiter Notre-Seigneur",
+                "en-US": "Chapter I. Motives for imitating our Lord"
+              }
+            },
+            {
+              "id": "p6-s3-c2",
+              "title": {
+                "fr-FR": "Chapitre II. Imiter Notre-Seigneur dans la séparation de toutes les créatures",
+                "en-US": "Chapter II. On imitating our Lord in separation from all creatures"
+              }
+            },
+            {
+              "id": "p6-s3-c3",
+              "title": {
+                "fr-FR": "Chapitre III. Imiter Notre-Seigneur en sa pauvreté",
+                "en-US": "Chapter III. On imitating our Lord in His poverty"
+              }
+            },
+            {
+              "id": "p6-s3-c4",
+              "title": {
+                "fr-FR": "Chapitre IV. Imiter Notre-Seigneur en sa chasteté",
+                "en-US": "Chapter IV. On imitating our Lord in His chastity"
+              }
+            },
+            {
+              "id": "p6-s3-c5",
+              "title": {
+                "fr-FR": "Chapitre V. Imiter Notre-Seigneur en son obéissance",
+                "en-US": "Chapter V. On imitating our Lord in His obedience"
+              }
+            },
+            {
+              "id": "p6-s3-c6",
+              "title": {
+                "fr-FR": "Chapitre VI. Imiter Notre-Seigneur en son humilité",
+                "en-US": "Chapter VI. On imitating our Lord in His humility"
+              }
+            },
+            {
+              "id": "p6-s3-c7",
+              "title": {
+                "fr-FR": "Chapitre VII. Imiter Notre-Seigneur en sa vie intérieure",
+                "en-US": "Chapter VII. On imitating our Lord in His interior life"
+              }
+            },
+            {
+              "id": "p6-s3-c8",
+              "title": {
+                "fr-FR": "Chapitre VIII. Combien le mystère de l’Incarnation nous est utile pour la perfection",
+                "en-US": "Chapter VIII. How greatly the mystery of the Incarnation serves to advance us in the way of perfection"
+              }
+            },
+            {
+              "id": "p6-s3-c9",
+              "title": {
+                "fr-FR": "Chapitre IX. Pratique pour honorer solidement le Verbe incarné, la sainte Vierge et saint Joseph",
+                "en-US": "Chapter IX. A mode of effectually honouring the Incarnate Word, the Blessed Virgin, and St. Joseph"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "title": {
+        "fr-FR": "Septième principe. L’ordre et les degrés de la vie spirituelle",
+        "en-US": "Seventh Principle. The order and steps of the spiritual life"
+      },
+      "children": [
+        {
+          "id": "p7-c1",
+          "title": {
+            "fr-FR": "Chapitre I. De l’oraison en général",
+            "en-US": "Chapter I. Of prayer in general"
+          }
+        },
+        {
+          "id": "p7-c2",
+          "title": {
+            "fr-FR": "Chapitre II. De la méditation",
+            "en-US": "Chapter II. Of meditation"
+          }
+        },
+        {
+          "id": "p7-c3",
+          "title": {
+            "fr-FR": "Chapitre III. De l’oraison affective",
+            "en-US": "Chapter III. Of affective prayer"
+          }
+        },
+        {
+          "id": "p7-c4",
+          "title": {
+            "fr-FR": "Chapitre IV. De la contemplation",
+            "en-US": "Chapter IV. Of contemplation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "add",
+      "title": {
+        "fr-FR": "Addition. Pensées recueillies par le P. Surin en 1630",
+        "en-US": "Additions. Thoughts collected by Father Surin in 1630"
+      },
+      "children": [
+        {
+          "id": "add-c1",
+          "title": {
+            "fr-FR": "Chapitre I. De la perfection en général",
+            "en-US": "Chapter I. Of perfection in general"
+          }
+        },
+        {
+          "id": "add-c2",
+          "title": {
+            "fr-FR": "Chapitre II. De la pureté de cœur",
+            "en-US": "Chapter II. Of purity of heart"
+          }
+        },
+        {
+          "id": "add-c3",
+          "title": {
+            "fr-FR": "Chapitre III. En quoi consiste le vrai service de Dieu",
+            "en-US": "Chapter III. In what the faithful service of God consists"
+          }
+        },
+        {
+          "id": "add-c4",
+          "title": {
+            "fr-FR": "Chapitre IV. Avis important pour l’avancement des âmes",
+            "en-US": "Chapter IV. Important advice for the advancement of souls"
+          }
+        },
+        {
+          "id": "add-c5",
+          "title": {
+            "fr-FR": "Chapitre V. De l’humilité",
+            "en-US": "Chapter V. Of humility"
+          }
+        },
+        {
+          "id": "add-c6",
+          "title": {
+            "fr-FR": "Chapitre VI. De la sainte simplicité",
+            "en-US": "Chapter VI. Of holy simplicity"
+          }
+        },
+        {
+          "id": "add-c7",
+          "title": {
+            "fr-FR": "Chapitre VII. De l’esprit de dévotion",
+            "en-US": "Chapter VII. Of the spirit of devotion"
+          }
+        },
+        {
+          "id": "add-c8",
+          "title": {
+            "fr-FR": "Chapitre VIII. Des diverses sortes de religieux et des choses qui sont les plus préjudiciables à quelques saintes communautés",
+            "en-US": "Chapter VIII. Of different kinds of religious, and of the things that are most prejudicial to certain holy communities"
+          }
+        },
+        {
+          "id": "add-c9",
+          "title": {
+            "fr-FR": "Chapitre IX. De l’esprit de la Compagnie de Jésus",
+            "en-US": "Chapter IX. Of the spirit of the Company of Jesus"
+          }
+        },
+        {
+          "id": "add-c10",
+          "title": {
+            "fr-FR": "Chapitre X. Du royaume de Dieu dans les âmes",
+            "en-US": "Chapter X. Of the kingdom of God in souls"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Advertisement
+
+Father Louis Lallemant left behind him an odor of sanctity which still survives amongst us. It is to preserve it and transmit it to posterity that I have undertaken to give to the public his Spiritual Doctrine, together with a short account of his life. I should have fulfilled my object better, had I had access to the documents which were placed in the hands of one of our Fathers of the province of Champagne, who had engaged to write a complete biography of this holy man.
+
+The following narrative is supported by the public testimony of all who knew him, and particularly his own disciples. His interior graces, which it was not possible to learn from himself were observed by certain of his confessors and most intimate friends, as F. Peter Meflant, F. John Bagot, F. Antony Vaher, F. James Grandami, four theologians who, by their eminent virtues and great abilities, were worthy of being admitted to his confidence.
+
+His Spiritual Doctrine was carefully compiled by F. John Rigoleu, who was born in 1595, and died in 1658 ; and who, so far from detracting from the-force and unction of the work, rather added thereto. The collection which he made was preserved by another holy man, whom we are bound in gratitude to mention, F. Vincent Huby, under whose influence it was that I undertook the little works to which I devote the small portion of time which my occupations leave at my disposal.
+
+I lately discovered among the papers of F. John Joseph Seurin, who was born in 1600, and died on the 21st of April, 1665, a manuscript, in which he had written with his own hand certain pious sentiments of his director, F. Louis Lallement. As it was no longer possible to insert them each in its appropriate place in the collection of F. Kigoleu, they have been given separately, just as F. Seurin had noted them down.
+
+And now, that I may comply with the decrees of Urban VIII. and other Sovereign Pontiffs, I protest that as regards the Life of F. Lallemant I ask from the reader but a human faith ; and that in speaking of this Father as a Saint, I in no wise pretend to invest him with a title which it belongs only to the Apostolic See to give to those whom it fudges worthy of it.

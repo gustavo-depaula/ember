@@ -1,0 +1,3 @@
+# Chapter III. In what the faithful service of God consists
+
+To serve God faithfully is to serve Him : 1st, with exactness in all things, even the smallest j 2dly, in simple faith without the aid of consolations, or any large supply of interior lights ; 3dly, without assurance that our services are agreeable to Him, and without seeking for considerations calculated to give this assurance ; 4thly, without a hope of recompense, or thought of our own interests, or solicitude whether we are furthering our own ends in promoting those of God ; 5thly, contented with the little God gives us, though it be the lowest place in Paradise ; just as a beggar asking alms at a gate, after having long waited, receives with joy a morsel of dry bread bestowed upon him.

@@ -1,0 +1,3 @@
+# Chapitre III. En quoi consiste le vrai service de Dieu
+
+Servir Dieu fidèlement, c’est le servir : 1. avec exactitude en toutes choses, même dans les plus petites; 2. dans la foi, nue sans l’aide des consolations, sans une grande abondance de lumières ; 3. sans assurance que nos services lui soient agréables et sans admettre des réflexions qui nous puissent donner cette assurance ; 4. sans espérance de récompense et sans penser à nos intérêts, sans regarder si nous faisons nos propres affaires en faisant celles de Dieu; 5. c’est nous contenter du peu que Dieu nous donne, quand ce ne serait que la dernière place du paradis, de même qu’un pauvre qui demande l’aumône à une porte, après avoir longtemps attendu, reçoit avec joie un morceau de pain sec qu’on lui donne.

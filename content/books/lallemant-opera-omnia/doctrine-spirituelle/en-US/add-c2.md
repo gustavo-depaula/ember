@@ -1,0 +1,15 @@
+# Chapter II. Of purity of heart
+
+That the soul may be free to converse with God, it has need of being delivered from three sorts of hindrances : 1. from sins; 2. from passions; 3. from importunate distractions. These three sorts of hindrances are of very different degrees.
+
+There are three degrees in true purity of heart. The first is, to do nothing in which there is appearance of sin. The second is, to attach the affections to nothing, either good or bad, which may interfere with perfect liberty of heart ; but to study complete detachment from all created things. The third, never to perform an unprofitable act, or entertain any vain or petty thought, but always to be occupied in what promotes the glory of Grod. This is an excellent rule of life, which may be followed even in a state of dryness and interior suffering ; affording, as it does, ample scope for the exercise of virtue, and au excellent test of our fidelity in the service of God.
+
+The slightest faults and the least imperfections, when voluntary, inflict four evils on the soul : 1. they darken and blind it more and more ; 2. they sully it ; 3. they disturb and oppress it ; 4. they diminish its strength and enfeeble it. The practice of virtue produces four contrary effects.
+
+The resolution to leave some fault, whatever it may be, uncorrected, although such resolution be tacit and not express, although it be glossed over by excuses and reasons plausible in appearance, prevents in the soul any powerful operations on the part of God, and hinders the effects of the Holy Eucharist.
+
+One of the causes which most retards the progress we might make in perfection, which keeps the soul in its native littleness, and of which we are least aware, is the allowing ourselves to be occupied with a thousand useless things. We ought to avoid all waste of time, and never do or think of any thing which is not to the glory of God. For want of this we make very little progress, and attach our heart to a thousand objects which disturb and distract it in prayer. One of the greatest efforts of fervour is directed to watching over self, and avoiding every thing unprofitable.
+
+Until we combat as strenuously against the first disorderly movement of the heart as against sin itself, we shall never thoroughly correct our vices. And the reason that there is so little amendment in us is, that we fancy ourselves in the possession of virtue, notwithstanding the contrary movements of which we are sensible, not reflecting that such movements proceed from principles of sin which we take no pains to destroy. Thus we remain idle, under the pretext that first movements are not in our own power, instead of labouring with all our might to tear up the root of them. It is impossible to say how much harm we do ourselves by this error and self-indulgence.
+
+There are three sorts of dangerous poisons which flow insensibly into the heart : 1. that of the pleasure of vain-glory ; 2. that of sensuality and immodest love j 3. that of anger and bitterness of spirit.
