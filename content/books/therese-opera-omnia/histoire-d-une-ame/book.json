@@ -1,0 +1,153 @@
+{
+  "id": "therese-histoire-d-une-ame",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Histoire d’une âme",
+    "en-US": "The Story of a Soul",
+    "pt-BR": "História de uma alma"
+  },
+  "author": {
+    "fr-FR": "Sainte Thérèse de l’Enfant-Jésus",
+    "en-US": "St. Thérèse of Lisieux",
+    "pt-BR": "Santa Teresinha do Menino Jesus"
+  },
+  "description": {
+    "fr-FR": "L’histoire de la petite fleur cueillie par Jésus : l’enfance à Alençon et aux Buissonnets, l’entrée au Carmel de Lisieux à quinze ans, la petite voie d’enfance spirituelle et l’offrande à l’Amour miséricordieux, racontées par la sainte elle-même, suivies du récit de sa mort et des conseils recueillis par ses novices. Texte de 1898, revu et divisé en chapitres par Mère Agnès de Jésus, d’après l’édition de 1912, avec ses notes.",
+    "en-US": "The story of the little flower gathered by Jesus: childhood at Alençon and Les Buissonnets, entry into the Carmel of Lisieux at fifteen, the little way of spiritual childhood and the offering to Merciful Love, told by the saint herself, followed by the account of her death and the counsels her novices remembered. The 1898 text as edited and divided into chapters by Mother Agnes of Jesus, in T. N. Taylor's 1912 translation.",
+    "pt-BR": "A história da pequena flor colhida por Jesus: a infância, a entrada no Carmelo de Lisieux aos quinze anos, a pequena via da infância espiritual e a oferta ao Amor misericordioso, contadas pela própria santa, seguidas do relato de sua morte e dos conselhos recolhidos por suas noviças. Texto de 1898, editado por Madre Inês de Jesus."
+  },
+  "composed": "1895–1897",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "therese-of-lisieux/histoire-d-une-ame",
+  "editions": {
+    "fr-FR": {
+      "editor": "Mère Agnès de Jésus (Pauline Martin)",
+      "year": 1912
+    },
+    "en-US": {
+      "translator": "T. N. Taylor",
+      "year": 1912
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Histoire_d’une_âme",
+      "edition": "Histoire d’une âme écrite par elle-même, Lisieux: Carmel de Lisieux / Paris: Office central de Lisieux, édition de 1912 (the 1898 text). Wikisource transcription, proofread against the page scans, subpages /1/1–/1/12 (chapters) and /2/1 (Conseils et souvenirs).",
+      "description": "The twelve chapters (I–XI by Thérèse as edited by Mother Agnès, XII Mother Agnès's account of her last months and death) and the appendix of Conseils et souvenirs, with the edition's notes as footnotes. The front matter (approbations, preface, introduction), the plates and their captions (including the quotations printed under each chapter's frontispiece), the prayers, letters, poems and Pluie de roses are not included. Checked word by word against the 1911 printing (Gutenberg 36708); 19 Wikisource slips, mostly words dropped at page breaks, were corrected from it.",
+      "tier": "A",
+      "tierEvidence": "Thérèse died in 1897 and Mother Agnès de Jésus, the editor and annotator, in 1951: public domain under life+70 since 1 January 2022. Published 1898/1912, public domain in the US. The Wikisource transcription adds no copyrightable matter."
+    },
+    {
+      "language": "fr-FR",
+      "url": "https://www.gutenberg.org/ebooks/36708",
+      "edition": "Histoire d’une âme, édition de 1911 (imprimatur 18 February 1911), Project Gutenberg / Distributed Proofreaders text, used as the second witness.",
+      "tier": "A",
+      "tierEvidence": "Same text as above, an earlier printing; the 'Tous droits réservés' of the original book has lapsed."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/16772",
+      "edition": "Soeur Thérèse of Lisieux, the Little Flower of Jesus: A New and Complete Translation of L’Histoire d’une Âme, ed. T. N. Taylor, London: Burns, Oates & Washbourne, 1912. Project Gutenberg text.",
+      "description": "Chapters I–XI (the autobiography), the Epilogue (the French chapter XII) and Counsels and Reminiscences, with Taylor's notes. Taylor abridges and reorders a few passages, so paragraphs do not always match the French. His preface, the letters, prayers, poems and Shower of Roses are not included.",
+      "tier": "A",
+      "tierEvidence": "Published in 1912: public domain in the US (before 1931). Taylor's death date is unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "fr-FR": "Chapitre I",
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "fr-FR": "Chapitre II",
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "fr-FR": "Chapitre III",
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "fr-FR": "Chapitre IV",
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "fr-FR": "Chapitre V",
+        "en-US": "Chapter V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "fr-FR": "Chapitre VI",
+        "en-US": "Chapter VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "fr-FR": "Chapitre VII",
+        "en-US": "Chapter VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "fr-FR": "Chapitre VIII",
+        "en-US": "Chapter VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "fr-FR": "Chapitre IX",
+        "en-US": "Chapter IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "fr-FR": "Chapitre X",
+        "en-US": "Chapter X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "fr-FR": "Chapitre XI",
+        "en-US": "Chapter XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "fr-FR": "Chapitre XII",
+        "en-US": "Epilogue"
+      }
+    },
+    {
+      "id": "conseils",
+      "title": {
+        "fr-FR": "Conseils et souvenirs",
+        "en-US": "Counsels and Reminiscences"
+      }
+    }
+  ]
+}
