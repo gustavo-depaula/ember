@@ -886,6 +886,13 @@ export default {
     minutesLeft_other: '~{{count}} min',
     chapterNotTranslated:
       'Este capítulo ainda não está disponível em {{wanted}}; segue o texto em {{language}}.',
+    editionsTitle: 'Edições',
+    otherEditions_one: 'Outra edição ›',
+    otherEditions_other: 'Outras {{count}} edições ›',
+    editionTranslated: '{{language}} · tradução de {{by}}, do {{from}}',
+    editionBy: '{{language}} · {{by}}',
+    editionByYear: '{{language}} · {{by}}, {{year}}',
+    alsoIn: 'Também em {{language}} ›',
     footnote: 'Nota de rodap\u00e9',
     backToPrevious: 'Voltar \u00e0 posi\u00e7\u00e3o anterior',
     search: 'Buscar no livro',
@@ -1864,6 +1871,8 @@ export default {
     },
   },
   a11y: {
+    otherEditions: 'Mostrar as outras edições deste livro',
+    openEdition: 'Abrir a edição: {{edition}}',
     openShelfItem: 'Abrir {{name}}',
     addToRule: 'Acrescentar {{name}} à regra',
     inRule: '{{name}}, na regra',

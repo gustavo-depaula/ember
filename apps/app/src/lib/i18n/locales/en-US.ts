@@ -882,6 +882,13 @@ export default {
     minutesLeft_other: '~{{count}} min',
     chapterNotTranslated:
       'This chapter is not yet available in {{wanted}}; it is shown in {{language}}.',
+    editionsTitle: 'Editions',
+    otherEditions_one: 'Another edition ›',
+    otherEditions_other: '{{count}} other editions ›',
+    editionTranslated: '{{language}} · translated by {{by}} from {{from}}',
+    editionBy: '{{language}} · {{by}}',
+    editionByYear: '{{language}} · {{by}}, {{year}}',
+    alsoIn: 'Also in {{language}} ›',
     footnote: 'Footnote',
     backToPrevious: 'Back to previous location',
     search: 'Search book',
@@ -1858,6 +1865,8 @@ export default {
     },
   },
   a11y: {
+    otherEditions: 'Show the other editions of this book',
+    openEdition: 'Open the edition: {{edition}}',
     openShelfItem: 'Open {{name}}',
     addToRule: 'Add {{name}} to your rule',
     inRule: '{{name}}, in your rule',

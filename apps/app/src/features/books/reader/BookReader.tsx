@@ -70,6 +70,8 @@ import { useReadingFlow } from './useReadingFlow'
 type Props = {
   bookId: string
   chapter?: string
+  /** One of the book's languages, chosen as its edition; else the reader's language. */
+  lang?: string
 }
 
 type SheetKind = 'menu' | 'toc' | 'settings' | 'search' | 'bookmarks' | 'highlights' | null
@@ -166,7 +168,7 @@ function LoadingPane({
   )
 }
 
-export function BookReader({ bookId, chapter }: Props) {
+export function BookReader({ bookId, chapter, lang: edition }: Props) {
   const { t } = useTranslation()
   const router = useRouter()
   const insets = useSafeAreaInsets()
@@ -186,8 +188,8 @@ export function BookReader({ bookId, chapter }: Props) {
 
   const lang = useMemo(() => {
     if (!bookEntry) return 'en-US'
-    return bookLang(bookEntry.languages ?? [], contentLanguage)
-  }, [bookEntry, contentLanguage])
+    return bookLang(bookEntry.languages ?? [], edition ?? contentLanguage)
+  }, [bookEntry, contentLanguage, edition])
 
   const { flow: leaves, readableIds } = useReadingFlow(bookEntry, lang)
 

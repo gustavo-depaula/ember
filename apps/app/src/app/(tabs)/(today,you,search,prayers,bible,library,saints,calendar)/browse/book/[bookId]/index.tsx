@@ -13,6 +13,7 @@ import { ZoomLink } from '@/components/ZoomLink'
 import type { TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
+import { EditionLine } from '@/features/books/EditionLine'
 import { useBookManifest } from '@/features/books/hooks'
 import {
   ancestorGroupIds,
@@ -52,7 +53,8 @@ function formatMinutes(minutes: number): string {
 }
 
 export default function BookDetailScreen() {
-  const { bookId } = useLocalSearchParams<{ bookId: string }>()
+  // `lang` picks one of the book's editions (EditionLine); else the reader's language.
+  const { bookId, lang: edition } = useLocalSearchParams<{ bookId: string; lang?: string }>()
   const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
@@ -82,8 +84,8 @@ export default function BookDetailScreen() {
   const { data: book, entry } = useBookManifest(bookId)
 
   const lang = useMemo(
-    () => bookLang(book?.languages ?? entry?.langs ?? [], contentLanguage),
-    [book?.languages, entry?.langs, contentLanguage],
+    () => bookLang(book?.languages ?? entry?.langs ?? [], edition ?? contentLanguage),
+    [book?.languages, entry?.langs, contentLanguage, edition],
   )
 
   const { flow: leaves, readableIds } = useReadingFlow(book, lang)
@@ -194,7 +196,7 @@ export default function BookDetailScreen() {
 
   const readerHref = (chapter?: string): Href => ({
     pathname: '/browse/book/[bookId]/read',
-    params: chapter ? { bookId, chapter } : { bookId },
+    params: { bookId, ...(chapter ? { chapter } : {}), ...(edition ? { lang: edition } : {}) },
   })
 
   const hasToc = !!book?.toc && book.toc.length > 0
@@ -289,6 +291,7 @@ export default function BookDetailScreen() {
                     </Typography>
                   )}
                 </YStack>
+                <EditionLine bookRef={bookRef} lang={lang} contentLanguage={contentLanguage} />
                 {description && <PrologueProse text={description} />}
                 {sumario}
               </YStack>
@@ -373,6 +376,8 @@ export default function BookDetailScreen() {
                 backgroundColor="$background"
               >
                 {actions}
+
+                <EditionLine bookRef={bookRef} lang={lang} contentLanguage={contentLanguage} />
 
                 {progress}
 

@@ -15,18 +15,13 @@
   },
   "composed": 1566,
   "languages": [
-    "en-US",
-    "pt-BR"
+    "en-US"
   ],
   "work": "council-of-trent/roman-catechism",
   "editions": {
     "en-US": {
       "translator": "John A. McHugh and Charles J. Callan",
       "year": 1923
-    },
-    "pt-BR": {
-      "translator": "Frei Leopoldo Pires Martins, OFM",
-      "year": 1951
     }
   },
   "sources": [
@@ -34,11 +29,6 @@
       "language": "en-US",
       "url": "http://www.catholicapologetics.info/thechurch/catechism/trentc.htm",
       "description": "McHugh & Callan translation, first published 1923 (Joseph F. Wagner, New York). Public domain in the United States. HTML edition retrieved from CatholicApologetics.info."
-    },
-    {
-      "language": "pt-BR",
-      "url": "https://archive.org/details/catecismos-da-igreja-catolica",
-      "description": "Tradução de Frei Leopoldo Pires Martins, OFM. Editora Vozes Limitada, Petrópolis, 1951. Edição com Pórtico, Notícia Histórica, Ensaio Crítico e Anexos da edição brasileira."
     }
   ],
   "toc": [
@@ -374,7 +364,6 @@
     }
   ],
   "arrived": {
-    "en-US": "2026-05-19",
-    "pt-BR": "2026-05-19"
+    "en-US": "2026-05-19"
   }
 }

@@ -10,6 +10,7 @@ import {
   loadBook,
   loadBookChapterText,
   loadChapterSource,
+  oneEditionPerWork,
   registerChapterProducer,
 } from '../books'
 import { resetContentIndex, setCatalog } from '../contentIndex'
@@ -226,6 +227,26 @@ describe('editions of a work', () => {
       'book/trent-catechism-vozes',
     ])
     expect(editionsOfWork('book/lonely')).toEqual(['book/lonely'])
+  })
+
+  it("lists each work once, in the reader's edition, and every book without a work", () => {
+    const books = [
+      ['book/trent-catechism', book(['en-US'], 'council-of-trent/roman-catechism')],
+      ['book/trent-catechism-vozes', book(['pt-BR'], 'council-of-trent/roman-catechism')],
+      ['book/lonely', book(['en-US'])],
+    ] as [string, ReturnType<typeof book>][]
+    expect(oneEditionPerWork(books, 'pt-BR').map(([id]) => id)).toEqual([
+      'book/trent-catechism-vozes',
+      'book/lonely',
+    ])
+    expect(oneEditionPerWork(books, 'en-US').map(([id]) => id)).toEqual([
+      'book/trent-catechism',
+      'book/lonely',
+    ])
+    expect(oneEditionPerWork(books, 'la').map(([id]) => id)).toEqual([
+      'book/trent-catechism',
+      'book/lonely',
+    ])
   })
 
   it("sends a reference to the edition in the reader's language, else keeps it", () => {

@@ -5,11 +5,13 @@
  * descriptions.
  */
 
+import { oneEditionPerWork } from '@/content/books'
 import { getEntriesByKind, getRememberedManifest } from '@/content/contentIndex'
 import type { BookEntry } from '@/content/manifestTypes'
 import { getAllManifests, isAlternateForm } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
 import { normalizeForSearch, searchWords } from '@/lib/search'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 import type { IndexEntry, Phrase } from './searchScore'
 
 export {
@@ -101,7 +103,9 @@ export function buildSearchIndex(): IndexEntry[] {
     })
   }
 
-  for (const [id, entry] of getEntriesByKind('book')) {
+  // A work is found once, in the edition the reader reads.
+  const contentLanguage = usePreferencesStore.getState().contentLanguage
+  for (const [id, entry] of oneEditionPerWork(getEntriesByKind('book'), contentLanguage)) {
     const body = getRememberedManifest<BookEntry>(entry.hash)
     const nameSrc = body?.name ?? entry.name
     if (!nameSrc) continue

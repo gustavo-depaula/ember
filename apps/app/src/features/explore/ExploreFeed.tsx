@@ -3,8 +3,8 @@ import type { Href } from 'expo-router'
 import { useRouter } from 'expo-router'
 import { type ReactNode, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-
 import { useGridCells, useWidthClass } from '@/components'
+import { oneEditionPerWork } from '@/content/books'
 import { bareId, getEntriesByKind, getEntry, isMetaId } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
@@ -24,6 +24,7 @@ import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalSeason } from '@/lib/liturgical'
 import { useGospelOfTheDay } from '@/lib/missal/use-gospel-of-the-day'
 import { useOfTransfers } from '@/lib/missal/useOfTransfers'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 import { ArtCarousel } from './ArtCarousel'
 import { artFor } from './artMap'
 import { toneForCelebration, toneForKey, toneForSeason } from './bgColor'
@@ -67,10 +68,15 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
 
   // Re-derive only when the catalog warms in (catalogVersion), not on every
   // unrelated re-render (clock tick, theme, gospel/saint query settling).
+  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
   const books = useMemo(
-    () => getEntriesByKind('book').filter(([id]) => !isMetaId(id)),
-    [catalogVersion],
+    () =>
+      oneEditionPerWork(
+        getEntriesByKind('book').filter(([id]) => !isMetaId(id)),
+        contentLanguage,
+      ),
+    [catalogVersion, contentLanguage],
   )
   const goBook = (id: string) => router.push(bookHref(id))
   const goCollection = (id: string) => {

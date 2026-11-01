@@ -75,6 +75,25 @@ export function editionForLanguage(
   return others.find(reads) ?? self
 }
 
+/**
+ * Book entries with each work listed once: the edition that reads in `lang`,
+ * else the work's first. Books naming no work all stay.
+ */
+export function oneEditionPerWork<T extends [string, CatalogEntry]>(
+  books: readonly T[],
+  lang: string,
+): T[] {
+  const chosen = new Map<string, T>()
+  for (const book of books) {
+    const work = book[1].work
+    if (!work) continue
+    const held = chosen.get(work)
+    if (!held || (!held[1].langs?.includes(lang) && book[1].langs?.includes(lang)))
+      chosen.set(work, book)
+  }
+  return books.filter((book) => !book[1].work || chosen.get(book[1].work) === book)
+}
+
 /** The manifest if already loaded; undefined otherwise (never fetches). */
 export function getResidentBook(bookId: string): BookEntry | undefined {
   const entry = getBookCatalogEntry(bookId)
