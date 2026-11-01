@@ -1,0 +1,1104 @@
+{
+  "id": "bede-historia-ecclesiastica",
+  "cover": "quarter",
+  "name": {
+    "la": "Historia ecclesiastica gentis Anglorum",
+    "en-US": "Ecclesiastical History of the English People",
+    "pt-BR": "História Eclesiástica do Povo Inglês"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "Historia ecclesiastica gentis Anglorum libri quinque, a Baeda presbytero monasterii Uiuraemuthensis et Ingyruensis anno 731 perfecta, cum continuatione posteriore.",
+    "en-US": "Bede's history of the Church among the English, finished at Jarrow in 731: from Roman Britain and St. Alban through Augustine's mission, the conversion of the English kingdoms, the Easter controversy and Whitby, Theodore, Cuthbert and Wilfrid, to Bede's own day, closing with his account of himself and his works. Latin text of Charles Plummer (Oxford, 1896); English translation of A. M. Sellar (London, 1907), a revision of Giles, with Sellar's notes. The Continuation is a later set of annals.",
+    "pt-BR": "A história da Igreja entre os ingleses que São Beda concluiu em Jarrow no ano de 731: da Britânia romana e de Santo Albano, pela missão de Agostinho e a conversão dos reinos ingleses, a controvérsia da Páscoa e Whitby, Teodoro, Cuteberto e Wilfrido, até os dias do próprio Beda, que termina falando de si e das suas obras."
+  },
+  "composed": "731",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "bede/historia-ecclesiastica",
+  "editions": {
+    "la": {
+      "editor": "Charles Plummer",
+      "year": 1896
+    },
+    "en-US": {
+      "translator": "A. M. Sellar",
+      "year": 1907,
+      "from": "la"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.thelatinlibrary.com/bede.html",
+      "edition": "Charles Plummer, Venerabilis Baedae Opera historica, vol. 1 (Oxford: Clarendon, 1896), as transcribed by The Latin Library (the same text as la.wikisource, Historia Ecclesiastica gentis Anglorum). Chapter titles from Plummer's capitula, https://archive.org/details/venerabilisbaed01bede.",
+      "tier": "A",
+      "description": "Tier A: Plummer's edition was published in 1896 and he died in 1927. Some forty OCR slips the transcription shares with Wikisource (agerc, sacpius, suac, nequc…) were corrected against Plummer's printed text; the chapter titles were read from the OCR of Plummer's capitula and checked against his chapter headings."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/38326",
+      "edition": "A. M. Sellar, Bede's Ecclesiastical History of England: A Revised Translation (London: George Bell, 1907), a revision of J. A. Giles's translation, with Sellar's notes (Project Gutenberg #38326). Her introduction and index are left out.",
+      "tier": "A",
+      "description": "Tier A: published in London in 1907; Project Gutenberg releases it as public domain, and the translation is more than a century old."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-01",
+    "en-US": "2026-11-01"
+  },
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber primus",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      },
+      "children": [
+        {
+          "id": "b1-c01",
+          "title": {
+            "la": "Caput I. De situ Brittaniae uel Hiberniae, et priscis earum incolis",
+            "en-US": "Chapter I. Of the Situation of Britain and Ireland, and of their ancient inhabitants."
+          }
+        },
+        {
+          "id": "b1-c02",
+          "title": {
+            "la": "Caput II. Ut Brittaniam primus Romanorum Gaius Iulius adierit",
+            "en-US": "Chapter II. How Caius Julius Caesar was the first Roman that came into Britain."
+          }
+        },
+        {
+          "id": "b1-c03",
+          "title": {
+            "la": "Caput III. Ut eandem secundus Romanorum Claudius adiens, Orcadas etiam insulas Romano adiecerit imperio; sed et Uespasianus ab eo missus Uectam quoque insulam Romanis subdiderit",
+            "en-US": "Chapter III. How Claudius, the second of the Romans who came into Britain, brought the islands Orcades into subjection to the Roman empire; and Vespasian, sent by him, reduced the Isle of Wight under the dominion of the Romans."
+          }
+        },
+        {
+          "id": "b1-c04",
+          "title": {
+            "la": "Caput IV. Ut Lucius Brittanorum rex, missis ad Eleutherum papam litteris, Christianum se fieri petierit",
+            "en-US": "Chapter IV. How Lucius, king of Britain, writing to Pope Eleutherus, desired to be made a Christian."
+          }
+        },
+        {
+          "id": "b1-c05",
+          "title": {
+            "la": "Caput V. Ut Seuerus receptam Brittaniae partem uallo a cetera distinxerit",
+            "en-US": "Chapter V. How the Emperor Severus divided from the rest by a rampart that part of Britain which had been recovered."
+          }
+        },
+        {
+          "id": "b1-c06",
+          "title": {
+            "la": "Caput VI. De imperio Diocletiani, et ut Christianos persecutus sit",
+            "en-US": "Chapter VI. Of the reign of Diocletian, and how he persecuted the Christians."
+          }
+        },
+        {
+          "id": "b1-c07",
+          "title": {
+            "la": "Caput VII. Passio sancti Albani et sociorum eius, qui eodem tempore pro Domino sanguinem fuderunt",
+            "en-US": "Chapter VII. The Passion of St. Alban and his companions, who at that time shed their blood for our Lord."
+          }
+        },
+        {
+          "id": "b1-c08",
+          "title": {
+            "la": "Caput VIII. Ut, hac cessante persecutione, ecclesia in Brittaniis aliquantulam, usque ad tempora Arrianae uesaniae, pacem habuerit",
+            "en-US": "Chapter VIII. How, when the persecution ceased, the Church in Britain enjoyed peace till the time of the Arian heresy."
+          }
+        },
+        {
+          "id": "b1-c09",
+          "title": {
+            "la": "Caput IX. Ut, regnante Gratiano, Maximus in Brittania imperator creatus, cum magno exercitu Galliam redierit",
+            "en-US": "Chapter IX. How during the reign of Gratian, Maximus, being created Emperor in Britain, returned into Gaul with a mighty army."
+          }
+        },
+        {
+          "id": "b1-c10",
+          "title": {
+            "la": "Caput X. Ut, Arcadio regnante, Pelagius Bretto contra gratiam Dei superba bella susceperit",
+            "en-US": "Chapter X. How, in the reign of Arcadius, Pelagius, a Briton, insolently impugned the Grace of God."
+          }
+        },
+        {
+          "id": "b1-c11",
+          "title": {
+            "la": "Caput XI. Ut, regnante Honorio, Gratianus et Constantinus in Brittania tyranni creati; et mox prior in Brittania, secundus in Gallia sint interemti",
+            "en-US": "Chapter XI. How during the reign of Honorius, Gratian and Constantine were created tyrants in Britain; and soon after the former was slain in Britain, and the latter in Gaul."
+          }
+        },
+        {
+          "id": "b1-c12",
+          "title": {
+            "la": "Caput XII. Ut Brettones a Scottis uastati Pictisque, Romanorum auxilia quaesierint, qui secundo uenientes murum trans insulam fecerint; sed hoc confestim a praefatis hostibus interrupto, maiore sint calamitate depressi",
+            "en-US": "Chapter XII. How the Britons, being ravaged by the Scots and Picts, sought succour from the Romans, who coming a second time, built a wall across the island; but when this was broken down at once by the aforesaid enemies, they were reduced to greater distress than before."
+          }
+        },
+        {
+          "id": "b1-c13",
+          "title": {
+            "la": "Caput XIII. Ut, regnante Theodosio minore, cuius tempore Palladius ad Scottos in Christum credentes missus est, Brettones ab Aetio consule auxilium flagitantes non inpetrauerint",
+            "en-US": "Chapter XIII. How in the reign of Theodosius the younger, in whose time Palladius was sent to the Scots that believed in Christ, the Britons begging assistance of Ætius, the consul, could not obtain it. [446 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c14",
+          "title": {
+            "la": "Caput XIV. Ut Brettones fame famosa coacti, barbaros suis e finibus pepulerint; nec mora, frugum copia, luxuria, pestilentia, et exterminium gentis secutum sit",
+            "en-US": "Chapter XIV. How the Britons, compelled by the great famine, drove the barbarians out of their territories; and soon after there ensued, along with abundance of corn, decay of morals, pestilence, and the downfall of the nation."
+          }
+        },
+        {
+          "id": "b1-c15",
+          "title": {
+            "la": "Caput XV. Ut inuitata Brittaniam gens Anglorum, primo quidem aduersarios longius eiecerit; sed non multo post, iuncto cum his foedere, in socios arma uerterit",
+            "en-US": "Chapter XV. How the Angles, being invited into Britain, at first drove off the enemy; but not long after, making a league with them, turned their weapons against their allies."
+          }
+        },
+        {
+          "id": "b1-c16",
+          "title": {
+            "la": "Caput XVI. Ut Brettones primam de gente Anglorum uictoriam, duce Ambrosio, Romano homine, sumserint",
+            "en-US": "Chapter XVI. How the Britons obtained their first victory over the Angles, under the command of Ambrosius, a Roman."
+          }
+        },
+        {
+          "id": "b1-c17",
+          "title": {
+            "la": "Caput XVII. Ut Germanus episcopus cum Lupo Brittaniam nauigans, et primo maris, et postmodum Pelagianorum tempestatem diuina uirtute sedauerit",
+            "en-US": "Chapter XVII. How Germanus the Bishop, sailing into Britain with Lupus, first quelled the tempest of the sea, and afterwards that of the Pelagians, by Divine power. [429 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c18",
+          "title": {
+            "la": "Caput XVIII. Ut idem filiam tribuni caecam inluminauerit, ac deinde ad sanctum Albanum perueniens, reliquias ibidem et ipsius acceperit, et beatorum apostolorum siue aliorum martyrum posuerit",
+            "en-US": "Chapter XVIII. How the some holy man gave sight to the blind daughter of a tribune, and then coming to St. Alban, there received of his relics, and left other relics of the blessed Apostles and other martyrs. [429 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c19",
+          "title": {
+            "la": "Caput XIX. Ut idem causa infirmitatis ibidem detentus, et incendia domorum orando restinxerit, et ipse per uisionem a suo sit langore curatus",
+            "en-US": "Chapter XIX. How the same holy man, being detained there by sickness, by his prayers quenched a fire that had broken out among the houses, and was himself cured of his infirmity by a vision. [429 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c20",
+          "title": {
+            "la": "Caput XX. Ut idem episcopi Brettonibus in pugna auxilium caeleste tulerint, sicque domum reuersi sint",
+            "en-US": "Chapter XX. How the same Bishops brought help from Heaven to the Britons in a battle, and then returned home. [430 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c21",
+          "title": {
+            "la": "Caput XXI. Ut, renascentibus uirgultis Pelagianae pestis, Germanus cum Seuero Brittaniam reuersus, prius claudo iuueni incessum, deinde et populo Dei, condemnatis siue emendatis haereticis, gressum recuperarit fidei",
+            "en-US": "Chapter XXI. How, when the Pelagian heresy began to spring up afresh, Germanus, returning to Britain with Severus, first restored bodily strength to a lame youth, then spiritual health to the people of God, having condemned or converted the Heretics. [447 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c22",
+          "title": {
+            "la": "Caput XXII. Ut Brettones quiescentibus ad tempus exteris, ciuilibus sese bellis contriuerint, simul et maioribus flagitiis submerserint",
+            "en-US": "Chapter XXII. How the Britons, being for a time at rest from foreign invasions, wore themselves out by civil wars, and at the same time gave themselves up to more heinous crimes."
+          }
+        },
+        {
+          "id": "b1-c23",
+          "title": {
+            "la": "Caput XXIII. Ut sanctus papa Gregorius Augustinum cum monachis ad praedicandum genti Anglorum mittens, epistula quoque illos exhortatoria, ne a laborando cessarent, confortauerit",
+            "en-US": "Chapter XXIII. How the holy Pope Gregory sent Augustine, with other monks, to preach to the English nation, and encouraged them by a letter of exhortation, not to desist from their labour. [596 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c24",
+          "title": {
+            "la": "Caput XXIV. Ut Arelatensi episcopo epistulam pro eorum susceptione miserit",
+            "en-US": "Chapter XXIV. How he wrote to the bishop of Arles to entertain them. [596 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c25",
+          "title": {
+            "la": "Caput XXV. Ut ueniens Brittaniam Augustinus primo in insula Tanato regi Cantuariorum praedicarit; et sic accepta ab eo licentia, Cantiam praedicaturus intrauerit",
+            "en-US": "Chapter XXV. How Augustine, coming into Britain, first preached in the Isle of Thanet to the King of Kent, and having obtained licence from him, went into Kent, in order to preach therein. [597 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c26",
+          "title": {
+            "la": "Caput XXVI. Ut idem in Cantia primitiuae ecclesiae et doctrinam sit imitatus, et uitam, atque in urbe regis sedem episcopatus acceperit",
+            "en-US": "Chapter XXVI. How St. Augustine in Kent followed the doctrine and manner of life of the primitive Church, and settled his episcopal see in the royal city. [597 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c27",
+          "title": {
+            "la": "Caput XXVII. Ut idem episcopus factus Gregorio papae, quae sint Brittaniae gesta mandarit, simul et necessariis eius responsa petens acceperit",
+            "en-US": "Chapter XXVII. How St. Augustine, being made a bishop, sent to acquaint Pope Gregory with what had been done in Britain, and asked and received replies, of which he stood in need. [597-601 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c28",
+          "title": {
+            "la": "Caput XXVIII. Ut papa Gregorius epistulam Arelatensi episcopo, pro adiuuando in opere Dei Augustino, miserit",
+            "en-US": "Chapter XXVIII. How Pope Gregory wrote to the bishop of Arles to help Augustine in the work of God. [601 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c29",
+          "title": {
+            "la": "Caput XXIX. Ut idem Augustino pallium et epistulam et plures uerbi ministros miserit",
+            "en-US": "Chapter XXIX. How the same Pope sent to Augustine the Pall and a letter, along with several ministers of the Word. [601 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c30",
+          "title": {
+            "la": "Caput XXX. Exemplar epistulae, quam Mellito abbati Brittaniam pergenti misit",
+            "en-US": "Chapter XXX. A copy of the letter which Pope Gregory sent to the Abbot Mellitus, then going into Britain. [601 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c31",
+          "title": {
+            "la": "Caput XXXI. Ut Augustinum per litteras, ne de uirtutibus suis gloriaretur, hortatus sit",
+            "en-US": "Chapter XXXI. How Pope Gregory, by letter, exhorted Augustine not to glory in his miracles. [601 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c32",
+          "title": {
+            "la": "Caput XXXII. Ut Aedilbercto regi litteras et dona miserit",
+            "en-US": "Chapter XXXII. How Pope Gregory sent letters and gifts to King Ethelbert. [601 A.D.]"
+          }
+        },
+        {
+          "id": "b1-c33",
+          "title": {
+            "la": "Caput XXXIII. Ut Augustinus ecclesiam Saluatoris instaurauerit, et monasterium beati Petri apostoli fecerit; et de primo eius abbate Petro",
+            "en-US": "Chapter XXXIII. How Augustine repaired the church of our Saviour, and built the monastery of the blessed Peter the Apostle; and concerning Peter the first abbot of the same."
+          }
+        },
+        {
+          "id": "b1-c34",
+          "title": {
+            "la": "Caput XXXIV. Ut Aedilfrid rex Nordanhymbrorum Scottorum gentes proelio conterens ab Anglorum finibus expulerit",
+            "en-US": "Chapter XXXIV. How Ethelfrid, king of the Northumbrians, having vanquished the nations of the Scots, expelled them from the territories of the English. [603 A.D.]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber secundus",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      },
+      "children": [
+        {
+          "id": "b2-c01",
+          "title": {
+            "la": "Caput I. De obitu beati papae Gregorii",
+            "en-US": "Chapter I. Of the death of the blessed Pope Gregory. [604 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c02",
+          "title": {
+            "la": "Caput II. Ut Augustinus Brettonum episcopos pro pace catholica, etiam miraculo caelesti coram eis facto, monuerit; quaeue illos spernentes ultio secuta sit",
+            "en-US": "Chapter II. How Augustine admonished the bishops of the Britons on behalf of Catholic peace, and to that end wrought a heavenly miracle in their presence; and of the vengeance that pursued them for their contempt. [Circ. 603 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c03",
+          "title": {
+            "la": "Caput III. Ut idem Mellitum ac Iustum episcopos fecerit; et de obitu ipsius",
+            "en-US": "Chapter III. How St. Augustine made Mellitus and Justus bishops; and of his death. [604 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c04",
+          "title": {
+            "la": "Caput IV. Ut Laurentius cum coepiscopis suis Scottos unitatem sanctae ecclesiae maxime in pascha obseruando sequi monuerit, et ut Mellitus Romam uenerit",
+            "en-US": "Chapter IV. How Laurentius and his bishops admonished the Scots to observe the unity of the Holy Church, particularly in keeping of Easter; and how Mellitus went to Rome."
+          }
+        },
+        {
+          "id": "b2-c05",
+          "title": {
+            "la": "Caput V. Ut defunctis Aedilbercto et Sabercto regibus successores eorum idolatriam resuscitarint, ob quod et Mellitus ac Iustus a Brittania discesserint",
+            "en-US": "Chapter V. How, after the death of the kings Ethelbert and Sabert, their successors restored idolatry; for which reason, both Mellitus and Justus departed out of Britain. [616 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c06",
+          "title": {
+            "la": "Caput VI. Ut correptus ab apostolo Petro Laurentius Aeodbaldum regem ad Christum conuerterit, qui mox Mellitum et Iustum ad praedicandum reuocauerit",
+            "en-US": "Chapter VI. How Laurentius, being reproved by the Apostle Peter, converted King Eadbald to Christ; and how the king soon recalled Mellitus and Justus to preach the Word. [617-618 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c07",
+          "title": {
+            "la": "Caput VII. Ut Mellitus episcopus flammas ardentis suae ciuitatis orando restinxerit",
+            "en-US": "Chapter VII. How Bishop Mellitus by prayer quenched a fire in his city. [619 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c08",
+          "title": {
+            "la": "Caput VIII. Ut Bonifatius papa Iusto successori eius pallium et epistulam miserit",
+            "en-US": "Chapter VIII. How Pope Boniface sent the Pall and a letter to Justus, successor to Mellitus. [624 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c09",
+          "title": {
+            "la": "Caput IX. De imperio regis Aeduini, et ut ueniens ad euangelizandum ei Paulinus primo filiam eius cum aliis fidei Christianae sacramentis inbuerit",
+            "en-US": "Chapter IX. Of the reign of King Edwin, and how Paulinus, coming to preach the Gospel, first converted his daughter and others to the mysteries of the faith of Christ. [625-626 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c10",
+          "title": {
+            "la": "Caput X. Ut papa Bonifatius eundem regem missis litteris sit hortatus ad fidem",
+            "en-US": "Chapter X. How Pope Boniface, by letter, exhorted the same king to embrace the faith. [Circ. 625 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c11",
+          "title": {
+            "la": "Caput XI. Ut coniugem ipsius, per epistulam, salutis illius sedulam agere curam monuerit",
+            "en-US": "Chapter XI. How Pope Boniface advised the king’s consort to use her best endeavours for his salvation. [Circ. 625 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c12",
+          "title": {
+            "la": "Caput XII. Ut Aeduini per uisionem quondam sibi exuli ostensam sit ad credendum prouocatus",
+            "en-US": "Chapter XII. How Edwin was persuaded to believe by a vision which he had once seen when he was in exile. [Circ. 616 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c13",
+          "title": {
+            "la": "Caput XIII. Quale consilium idem cum primatibus suis de percipienda fide Christi habuerit; et ut pontifex eius suas aras profanauerit",
+            "en-US": "Chapter XIII. Of the Council he held with his chief men concerning their reception of the faith of Christ, and how the high priest profaned his own altars. [627 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c14",
+          "title": {
+            "la": "Caput XIV. Ut idem Aeduini cum sua gente fidelis sit factus; et ubi Paulinus baptizauerit",
+            "en-US": "Chapter XIV. How King Edwin and his nation became Christians; and where Paulinus baptized them. [627 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c15",
+          "title": {
+            "la": "Caput XV. Ut prouincia Orientalium Anglorum fidem Christi susceperit",
+            "en-US": "Chapter XV. How the province of the East Angles received the faith of Christ. [627-628 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c16",
+          "title": {
+            "la": "Caput XVI. Ut Paulinus in prouincia Lindissi praedicauerit, et de qualitate regni Aeduini",
+            "en-US": "Chapter XVI. How Paulinus preached in the province of Lindsey; and of the character of the reign of Edwin. [Circ. 628 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c17",
+          "title": {
+            "la": "Caput XVII. Ut idem ab Honorio papa exhortatorias litteras acceperit, qui etiam Paulino pallium miserit",
+            "en-US": "Chapter XVII. How Edwin received letters of exhortation from Pope Honorius, who also sent the pall to Paulinus. [634 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c18",
+          "title": {
+            "la": "Caput XVIII. Ut Honorius, qui Iusto in episcopatum Dorouernensis ecclesiae successit, ab eodem papa Honorio pallium et litteras acceperit",
+            "en-US": "Chapter XVIII. How Honorius, who succeeded Justus in the bishopric of Canterbury, received the pall and letters from Pope Honorius. [634 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c19",
+          "title": {
+            "la": "Caput XIX. Ut primo idem Honorius et post Iohannes litteras genti Scottorum pro pascha simul et pro Pelagiana heresi miserit",
+            "en-US": "Chapter XIX. How the aforesaid Honorius first, and afterwards John, wrote letters to the nation of the Scots, concerning the observance of Easter, and the Pelagian heresy. [640 A.D.]"
+          }
+        },
+        {
+          "id": "b2-c20",
+          "title": {
+            "la": "Caput XX. Ut occiso Aeduine Paulinus Cantiam rediens Hrofensis ecclesiae praesulatum susceperit",
+            "en-US": "Chapter XX. How Edwin being slain, Paulinus returned into Kent, and had the bishopric of Rochester conferred upon him. [633 A.D.]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber tertius",
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
+      },
+      "children": [
+        {
+          "id": "b3-c01",
+          "title": {
+            "la": "Caput I. Ut primi successores Aeduini regis et fidem suae gentis prodiderint, et regnum porro Osuald christianissimus rex utrumque restaurauerit",
+            "en-US": "Chapter I. How King Edwin’s next successors lost both the faith of their nation and the kingdom; but the most Christian King Oswald retrieved both. [633 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c02",
+          "title": {
+            "la": "Caput II. Ut de Ligno crucis, quod idem rex contra barbaros pugnaturus erexerat, inter innumera sanitatum miracula, quidam a dolentis brachii sit langore curatus",
+            "en-US": "Chapter II. How, among innumerable other miracles of healing wrought by the wood of the cross, which King Oswald, being ready to engage against the barbarians, erected, a certain man had his injured arm healed. [634 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c03",
+          "title": {
+            "la": "Caput III. Ut idem rex postulans de gente Scottorum antistitem acceperit Aidanum, eidemque in insula Lindisfarnensi sedem episcopatus donauerit",
+            "en-US": "Chapter III. How the same king Oswald, asking a bishop of the Scottish nation, had Aidan sent him, and granted him an episcopal see in the Isle of Lindisfarne. [635 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c04",
+          "title": {
+            "la": "Caput IV. Quando gens Pictorum fidem Christi perceperit",
+            "en-US": "Chapter IV. When the nation of the Picts received the faith of Christ. [565 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c05",
+          "title": {
+            "la": "Caput V. De uita Aidani episcopi",
+            "en-US": "Chapter V. Of the life of Bishop Aidan. [635 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c06",
+          "title": {
+            "la": "Caput VI. De religione ac pietate miranda Osualdi regis",
+            "en-US": "Chapter VI. Of King Oswald’s wonderful piety and religion. [635-642 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c07",
+          "title": {
+            "la": "Caput VII. Ut prouincia Occidentalium Saxonum uerbum Dei, praedicante Birino, susceperit; et de successoribus eius Agilbercto et Leutherio",
+            "en-US": "Chapter VII. How the West Saxons received the Word of God by the preaching of Birinus; and of his successors, Agilbert and Leutherius. [635-670 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c08",
+          "title": {
+            "la": "Caput VIII. Ut rex Cantuariorum Earconberct idola destrui praeceperit; et de filia eius Ercongota et propinqua Aedilbergae, sacratis Deo uirginibus",
+            "en-US": "Chapter VIII. How Earconbert, King of Kent, ordered the idols to be destroyed; and of his daughter Earcongota, and his kinswoman Ethelberg, virgins consecrated to God. [640 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c09",
+          "title": {
+            "la": "Caput IX. Ut in loco, in quo occisus est rex Osuald, crebra sanitatum miracula facta; utque ibi primo iumentum cuiusdam uiantis ac deinde puella sit paralitica curata",
+            "en-US": "Chapter IX. How miracles of healing have been frequently wrought in the place where King Oswald was killed; and how, first, a traveller’s horse was restored and afterwards a young girl cured of the palsy. [642 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c10",
+          "title": {
+            "la": "Caput X. Ut puluis loci illius contra ignem ualuerit",
+            "en-US": "Chapter X. How the dust of that place prevailed against fire. [After 642 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c11",
+          "title": {
+            "la": "Caput XI. Ut super reliquias eius lux caelestis tota nocte steterit; et ut per eas sint daemoniaci curati",
+            "en-US": "Chapter XI. How a light from Heaven stood all night over his relics, and how those possessed with devils were healed by them. [679-697 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c12",
+          "title": {
+            "la": "Caput XII. Ut ad tumbam eius sit puerulus a febre curatus",
+            "en-US": "Chapter XII. How a little boy was cured of a fever at his tomb."
+          }
+        },
+        {
+          "id": "b3-c13",
+          "title": {
+            "la": "Caput XIII. Ut in Hibernia sit quidam per reliquias eius a mortis articulo reuocatus",
+            "en-US": "Chapter XIII. How a certain person in Ireland was restored, when at the point of death, by his relics."
+          }
+        },
+        {
+          "id": "b3-c14",
+          "title": {
+            "la": "Caput XIV. Ut, defuncto Paulino, Ithamar pro eo Hrofensis ecclesiae praesulatum susceperit; et de humilitate mirabili regis Osuini, qui ab Osuiu crudeli caede peremtus est",
+            "en-US": "Chapter XIV. How on the death of Paulinus, Ithamar was made bishop of Rochester in his stead; and of the wonderful humility of King Oswin, who was cruelly slain by Oswy. [644-651 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c15",
+          "title": {
+            "la": "Caput XV. Ut episcopus Aidan nautis et tempestatem futuram praedixerit, et oleum sanctum, quo hanc sedarent, dederit",
+            "en-US": "Chapter XV. How Bishop Aidan foretold to certain seamen that a storm would arise, and gave them some holy oil to calm it. [Between 642 and 645 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c16",
+          "title": {
+            "la": "Caput XVI. Ut idem admotum ab hostibus urbi regiae ignem orando amouerit",
+            "en-US": "Chapter XVI. How the same Aidan, by his prayers, saved the royal city when it was fired by the enemy [Before 651 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c17",
+          "title": {
+            "la": "Caput XVII. Ut apposta ecclesiae, cui idem adcumbens obierat, ardente cetera domu, flammis absumi nequiuerit; et de interna uita eius",
+            "en-US": "Chapter XVII. How a prop of the church on which Bishop Aidan was leaning when he died, could not be consumed when the rest of the Church was on fire; and concerning his inward life. [651 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c18",
+          "title": {
+            "la": "Caput XVIII. De uita uel morte religiosi regis Sigbercti",
+            "en-US": "Chapter XVIII. Of the life and death of the religious King Sigbert. [Circ. 631 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c19",
+          "title": {
+            "la": "Caput XIX. Ut Furseus apud Orientales Anglos monasterium fecerit; et de uisionibus uel sanctitate eius, cui etiam caro post mortem incorrupta testimonium perhibuerit",
+            "en-US": "Chapter XIX. How Fursa built a monastery among the East Angles, and of his visions and sanctity, to which, his flesh remaining uncorrupted after death bore testimony. [Circ. 633 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c20",
+          "title": {
+            "la": "Caput XX. Ut, defuncto Honorio, pontificatu sit functus Deusdedit; et qui tempore illo Orientalium Anglorum, qui Hrofensis ecclesiae fuerint antistites",
+            "en-US": "Chapter XX. How, when Honorius died, Deusdedit became Archbishop of Canterbury; and of those who were at that time bishops of the East Angles, and of the church of Rochester. [653 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c21",
+          "title": {
+            "la": "Caput XXI. Ut prouincia Mediterraneorum Anglorum sub rege Peada christiana sit facta",
+            "en-US": "Chapter XXI. How the province of the Midland Angles became Christian under King Peada. [653 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c22",
+          "title": {
+            "la": "Caput XXII. Ut Orientales Saxones fidem, quam dudum abiecerant, sub rege Sigbercto, praedicante Ceddo receperint",
+            "en-US": "Chapter XXII. How under King Sigbert, through the preaching of Cedd, the East Saxons again received the faith, which they had before cast off. [653 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c23",
+          "title": {
+            "la": "Caput XXIII. Ut idem episcopus Cedd locum monasterii construendi ab Oidilualdo rege accipiens orationibus et ieiuniis Domino consecrauerit; et de obitu ipsius",
+            "en-US": "Chapter XXIII. How Bishop Cedd, having a place for building a monastery given him by King Ethelwald, consecrated it to the Lord with prayer and fasting; and concerning his death. [659-664 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c24",
+          "title": {
+            "la": "Caput XXIV. Ut prouincia Merciorum, occiso rege Penda, fidem Christi susceperit; et Osuiu, pro adepta uictoria, possessiones et territoria Deo ad construenda monasteria dederit",
+            "en-US": "Chapter XXIV. How when King Penda was slain, the province of the Mercians received the faith of Christ, and Oswy gave possessions and territories to God, for building monasteries, as a thank offering for the victory obtained. [655 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c25",
+          "title": {
+            "la": "Caput XXV. Ut quaestio sit mota de tempore paschae aduersus eos, qui de Scottia uenerant",
+            "en-US": "Chapter XXV. How the question arose about the due time of keeping Easter, with those that came out of Scotland. [664 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c26",
+          "title": {
+            "la": "Caput XXVI. Ut Colman uictus domum redierit; et Tuda pro illo episcopatu sit functus; qualisque illis doctoribus fuerit habitus ecclesiae",
+            "en-US": "Chapter XXVI. How Colman, being worsted, returned home; and Tuda succeeded him in the bishopric; and of the state of the church under those teachers. [664 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c27",
+          "title": {
+            "la": "Caput XXVII. Ut Ecgberct, uir sanctus de natione Anglorum, monachicam in Hibernia uitam duxerit",
+            "en-US": "Chapter XXVII. How Egbert, a holy man of the English nation, led a monastic life in Ireland. [664 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c28",
+          "title": {
+            "la": "Caput XXVIII. Ut defuncto Tuda, Uilfrid in Gallia, Ceadda apud Occidentales Saxones, in prouinciam Nordanhymbrorum sint ordinati episcopi",
+            "en-US": "Chapter XXVIII. How, when Tuda was dead, Wilfrid was ordained, in Gaul, and Ceadda, among the West Saxons, to be bishops for the province of the Northumbrians. [664 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c29",
+          "title": {
+            "la": "Caput XXIX. Ut Uighard presbyter ordinandus in archiepiscopum Romam de Brittania sit missus; quem remissa mox scripta papae apostolici ibidem obisse narrauerint",
+            "en-US": "Chapter XXIX. How the priest Wighard was sent from Britain to Rome, to be ordained archbishop; of his death there, and of the letters of the Apostolic Pope giving an account thereof. [667 A.D.]"
+          }
+        },
+        {
+          "id": "b3-c30",
+          "title": {
+            "la": "Caput XXX. Ut Orientales Saxones tempore mortalitatis ad idolatriam reuersi, sed per instantiam Iarumanni episcopi mox sint ab errore correcti",
+            "en-US": "Chapter XXX. How the East Saxons, during a pestilence, returned to idolatry, but were soon brought back from their error by the zeal of Bishop Jaruman. [665 A.D.]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber quartus",
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
+      },
+      "children": [
+        {
+          "id": "b4-c01",
+          "title": {
+            "la": "Caput I. Ut defuncto Deusdedit, Uighard ad suscipiendum episcopatum Romam sit missus; sed illo ibidem defuncto, Theodorus archiepiscopus ordinatus, et cum Hadriano abbate sit Brittaniam missus",
+            "en-US": "Chapter I. How when Deusdedit died, Wighard was sent to Rome to receive the episcopate; but he dying there, Theodore was ordained archbishop, and sent into Britain with the Abbot Hadrian. [664-669 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c02",
+          "title": {
+            "la": "Caput II. Ut Theodoro cuncta peragrante, Anglorum ecclesiae cum catholica ueritate, litterarum quoque sanctarum coeperint studiis inbui; et ut Putta pro Damiano Hrofensis ecclesiae sit factus antistes",
+            "en-US": "Chapter II. How Theodore visited all places; how the Churches of the English began to be instructed in the study of Holy Scripture, and in the Catholic truth; and how Putta was made bishop of the Church of Rochester in the room of Damianus. [669 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c03",
+          "title": {
+            "la": "Caput III. Ut Ceadda, de quo supra dictum est, prouinciae Merciorum sit episcopus datus, et de uita et obitu et sepultura eius",
+            "en-US": "Chapter III. How the above-mentioned Ceadda was made Bishop of the province of Mercians. Of his life, death, and burial. [669 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c04",
+          "title": {
+            "la": "Caput IV. Ut Colman episcopus, relicta Brittania, duo monasteria in Scottia, unum Scottis, alterum Anglis, quos secum adduxerat, fecerit",
+            "en-US": "Chapter IV. How Bishop Colman, having left Britain, built two monasteries in the country of the Scots; the one for the Scots, the other for the English whom he had taken along with him. [667 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c05",
+          "title": {
+            "la": "Caput V. De morte Osuiu et Ecgbercti regum, et de synodo facta ad locum Herutforda, cui praesidebat archiepiscopus Theodorus",
+            "en-US": "Chapter V. Of the death of the kings Oswy and Egbert, and of the synod held at the place Herutford, in which Archbishop Theodore presided. [670-673 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c06",
+          "title": {
+            "la": "Caput VI. Ut deposito Uynfrido, Saexuulf episcopatum eius acceperit, et Earconuald Orientalibus Saxonibus sit episcopus datus",
+            "en-US": "Chapter VI. How Wynfrid being deposed, Sexwulf received his bishopric, and Earconwald was made bishop of the East Saxons. [675 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c07",
+          "title": {
+            "la": "Caput VII. Ut in monasterio Bericinensi, ubi corpora sanctimonialium feminarum poni deberent, caelesti sit luce monstratum",
+            "en-US": "Chapter VII. How it was indicated by a light from heaven where the bodies of the nuns should be buried in the monastery of Berecingum. [675 A.D.?]"
+          }
+        },
+        {
+          "id": "b4-c08",
+          "title": {
+            "la": "Caput VIII. Ut in eodem monasterio puerulus moriens uirginem, quae se erat secutura, clamauerit; utque alia de corpore egressura, iam particulam futurae lucis aspexerit",
+            "en-US": "Chapter VIII. How a little boy, dying in the same monastery, called upon a virgin that was to follow him; and how another nun, at the point of leaving her body, saw some small part of the future glory. [675 A.D.?]"
+          }
+        },
+        {
+          "id": "b4-c09",
+          "title": {
+            "la": "Caput IX. Quae sint ostensa caelitus signa, cum et ipsa mater congregationis illius e mundo transiret",
+            "en-US": "Chapter IX. Of the signs which were shown from Heaven when the mother of that community departed this life. [675 A.D.?]"
+          }
+        },
+        {
+          "id": "b4-c10",
+          "title": {
+            "la": "Caput X. Ut ad cymiterium eiusdem monasterii orans caeca lucem receperit",
+            "en-US": "Chapter X. How a blind woman, praying in the burial-place of that monastery, was restored to her sight. [675 A.D.?]"
+          }
+        },
+        {
+          "id": "b4-c11",
+          "title": {
+            "la": "Caput XI. Ut rex eiusdem prouinciae Sebbi in monachica uitam conuersatione finierit",
+            "en-US": "Chapter XI. How Sebbi, king of the same province, ended his life in a monastery. [694 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c12",
+          "title": {
+            "la": "Caput XII. Ut episcopatum Occidentalium Saxonum pro Leutherio Haeddi, episcopatum Hrofensis ecclesiae pro Putta Cuichelm, et pro ipso Gefmund acceperit; et qui tunc Nordanhymbrorum fuerint episcopi",
+            "en-US": "Chapter XII. How Haedde succeeded Leutherius in the bishopric of the West Saxons; how Cuichelm succeeded Putta in the bishopric of the church of Rochester, and was himself succeeded by Gebmund; and who were then bishops of the Northumbrians. [673-681 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c13",
+          "title": {
+            "la": "Caput XIII. Ut Uilfrid episcopus prouinciam Australium Saxonum ad Christum conuerterit",
+            "en-US": "Chapter XIII. How Bishop Wilfrid converted the province of the South Saxons to Christ. [681 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c14",
+          "title": {
+            "la": "Caput XIV. Ut intercessione Osualdi regis pestifera mortalitas sit sublata",
+            "en-US": "Chapter XIV. How a pestilence ceased through the intercession of King Oswald. [681-686 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c15",
+          "title": {
+            "la": "Caput XV. Ut Caedualla rex Geuissorum, interfecto rege Aedilualch, prouinciam illam saeua caede ac depopulatione attriuerit",
+            "en-US": "Chapter XV. How King Caedwalla, king of the Gewissae, having slain Ethelwalch, wasted that Province with cruel slaughter and devastation. [685 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c16",
+          "title": {
+            "la": "Caput XVI. Ut Uecta insula christianos incolas susceperit, cuius regii duo pueri statim post acceptum baptisma sint interemti",
+            "en-US": "Chapter XVI. How the Isle of Wight received Christian inhabitants, and two royal youths of that island were killed immediately after Baptism. [686 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c17",
+          "title": {
+            "la": "Caput XVII. De synodo facta in campo Haethfelda, praesidente archiepiscopo Theodoro",
+            "en-US": "Chapter XVII. Of the Synod held in the plain of Haethfelth, Archbishop Theodore being president. [680 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c18",
+          "title": {
+            "la": "Caput XVIII. De Iohanne cantatore sedis apostolicae, qui propter docendum Brittaniam uenerit",
+            "en-US": "Chapter XVIII. Of John, the precentor of the Apostolic see, who came into Britain to teach. [680 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c19",
+          "title": {
+            "la": "Caput XIX. Ut Edilthryd regina uirgo perpetua permanserit, cuius nec corpus in monumento corrumpi potuerit",
+            "en-US": "Chapter XIX. How Queen Ethelthryth always preserved her virginity, and her body suffered no corruption in the grave. [660-696 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c20",
+          "title": {
+            "la": "Caput XX. Hymnus de illa",
+            "en-US": "Chapter XX. A Hymn concerning her."
+          }
+        },
+        {
+          "id": "b4-c21",
+          "title": {
+            "la": "Caput XXI. Ut Theodorus episcopus inter Ecgfridum et Aedilredum reges pacem fecerit",
+            "en-US": "Chapter XXI. How Bishop Theodore made peace between the kings Egfrid and Ethelred. [679 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c22",
+          "title": {
+            "la": "Caput XXII. Ut uincula cuiusdam captiui, cum pro eo missae cantarentur, soluta sint",
+            "en-US": "Chapter XXII. How a certain captive’s chains fell off when Masses were sung for him. [679 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c23",
+          "title": {
+            "la": "Caput XXIII. De uita et obitu Hildae abbatissae",
+            "en-US": "Chapter XXIII. Of the life and death of the Abbess Hilda. [614-680 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c24",
+          "title": {
+            "la": "Caput XXIV. Quod in monasterio eius fuerit frater, cui donum canendi sit diuinitus concessum",
+            "en-US": "Chapter XXIV. That there was in her monastery a brother, on whom the gift of song was bestowed by Heaven. [680 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c25",
+          "title": {
+            "la": "Caput XXV. Qualis uisio cuidam uiro Dei apparuerit, priusquam monasterium Coludanae urbis esset incendio consumtum",
+            "en-US": "Chapter XXV. Of the vision that appeared to a certain man of God before the monastery of the city Coludi was burned down."
+          }
+        },
+        {
+          "id": "b4-c26",
+          "title": {
+            "la": "Caput XXVI. De morte Ecgfridi et Hlotheri regum",
+            "en-US": "Chapter XXVI. Of the death of the Kings Egfrid and Hlothere. [684-685 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c27",
+          "title": {
+            "la": "Caput XXVII. Ut uir Domini Cudberct sit episcopus factus; utque in monachica adhuc uita positus uixerit uel docuerit",
+            "en-US": "Chapter XXVII. How Cuthbert, a man of God, was made bishop; and how he lived and taught whilst still in the monastic life. [685 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c28",
+          "title": {
+            "la": "Caput XXVIII. Ut idem in uita anchoretica et fontem de arente terra orando produxerit, et segetem de labore manuum ultra tempus serendi acceperit",
+            "en-US": "Chapter XXVIII. How the same St. Cuthbert, living the life of an Anchorite, by his prayers obtained a spring in a dry soil, and had a crop from seed sown by the labour of his hands out of season. [676 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c29",
+          "title": {
+            "la": "Caput XXIX. Ut idem iam episcopus obitum suum proxime futurum Heribercto anchoritae praedixerit",
+            "en-US": "Chapter XXIX. How this bishop foretold that his own death was at hand to the anchorite Herebert. [687 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c30",
+          "title": {
+            "la": "Caput XXX. Ut corpus illius post XI annos sepulturae sit corruptionis inmune reppertum; nec multo post successor episcopatus eius de mundo transierit",
+            "en-US": "Chapter XXX. How his body was found altogether uncorrupted after it had been buried eleven years; and how his successor in the bishopric departed this world not long after. [698 A.D.]"
+          }
+        },
+        {
+          "id": "b4-c31",
+          "title": {
+            "la": "Caput XXXI. Ut quidam ad tumbam eius sit a paralysi sanatus",
+            "en-US": "Chapter XXXI. Of one that was cured of a palsy at his tomb."
+          }
+        },
+        {
+          "id": "b4-c32",
+          "title": {
+            "la": "Caput XXXII. Ut alter ad reliquias eius nuper fuerit ab oculi langore curatus",
+            "en-US": "Chapter XXXII. Of one who was lately cured of a disease in his eye at the relics of St. Cuthbert."
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "title": {
+        "la": "Liber quintus",
+        "en-US": "Book V",
+        "pt-BR": "Livro V"
+      },
+      "children": [
+        {
+          "id": "b5-c01",
+          "title": {
+            "la": "Caput I. Ut Oidiluald successor Cudbercti in anachoretica uita, laborantibus in mari fratribus, tempestatem orando sedauerit",
+            "en-US": "Chapter I. How Ethelwald, successor to Cuthbert, leading a hermit’s life, calmed a tempest by his prayers when the brethren were in danger at sea. [687-699 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c02",
+          "title": {
+            "la": "Caput II. Ut episcopus Iohannes mutum benedicendo curauerit",
+            "en-US": "Chapter II. How Bishop John cured a dumb man by his blessing. [687 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c03",
+          "title": {
+            "la": "Caput III. Ut puellam languentem orando sanauerit",
+            "en-US": "Chapter III. How he healed a sick maiden by his prayers. [705 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c04",
+          "title": {
+            "la": "Caput IV. Ut coniugem comitis infirmam aqua benedicta curauerit",
+            "en-US": "Chapter IV. How he healed a thegn’s wife that was sick, with holy water."
+          }
+        },
+        {
+          "id": "b5-c05",
+          "title": {
+            "la": "Caput V. Ut item puerum comitis orando a morte reuocauerit",
+            "en-US": "Chapter V. How he likewise recalled by his prayers a thegn’s servant from death."
+          }
+        },
+        {
+          "id": "b5-c06",
+          "title": {
+            "la": "Caput VI. Ut clericum suum cadendo contritum, aeque orando ac benedicendo a morte reuocauerit",
+            "en-US": "Chapter VI. How, both by his prayers and blessing, he recalled from death one of his clerks, who had bruised himself by a fall."
+          }
+        },
+        {
+          "id": "b5-c07",
+          "title": {
+            "la": "Caput VII. Ut Caedualla rex Occidentalium Saxonum baptizandus Romam uenerit; sed et successor eius Ini eadem beatorum apostolorum limina deuotus adierit",
+            "en-US": "Chapter VII. How Caedwalla, king of the West Saxons, went to Rome to be baptized; and his successor Ini, also devoutly journeyed to the same threshold of the holy Apostles. [688 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c08",
+          "title": {
+            "la": "Caput VIII. Ut Theodoro defuncto archiepiscopatus gradum Berctuald susceperit; et inter plurimos, quos ordinauit, etiam Tobiam uirum doctissimum Hrofensi ecclesiae fecerit antistitem",
+            "en-US": "Chapter VIII. How, when Archbishop Theodore died, Bertwald succeeded him as archbishop, and, among many others whom he ordained, he made the learned Tobias bishop of the church of Rochester. [690 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c09",
+          "title": {
+            "la": "Caput IX. Ut Ecgberct uir sanctus ad praedicandum in Germaniam uenire uoluerit, nec ualuerit; porro Uictberct aduenerit quidem, sed quia nec ipse aliquid profecisset, rursum in Hiberniam, unde uenerat, redierit",
+            "en-US": "Chapter IX. How the holy man, Egbert, would have gone into Germany to preach, but could not; and how Wictbert went, but because he availed nothing, returned into Ireland, whence he came. [Circ. 688 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c10",
+          "title": {
+            "la": "Caput X. Ut Uilbrord in Fresia praedicans multos ad Christum conuerterit; et ut socii eius Heuualdi sint martyrium passi",
+            "en-US": "Chapter X. How Wilbrord, preaching in Frisland, converted many to Christ; and how his two companions, the Hewalds, suffered martyrdom. [690 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c11",
+          "title": {
+            "la": "Caput XI. Ut uiri uenerabiles Suidberct in Brittaniis, Uilbrord Romae sint in Fresiam ordinati episcopi",
+            "en-US": "Chapter XI. How the venerable Suidbert in Britain, and Wilbrord at Rome, were ordained bishops for Frisland. [692 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c12",
+          "title": {
+            "la": "Caput XII. Ut quidam in prouincia Nordanhymbrorum a mortuis resurgens multa et tremenda et desideranda, quae uiderat, narrauerit",
+            "en-US": "Chapter XII. How one in the province of the Northumbrians, rose from the dead, and related many things which he had seen, some to be greatly dreaded and some to be desired. [Circ. 696 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c13",
+          "title": {
+            "la": "Caput XIII. Ut econtra alter ad mortem ueniens oblatum sibi a daemonibus codicem suorum uiderit peccatorum",
+            "en-US": "Chapter XIII. How another contrarywise before his death saw a book containing his sins, which was shown him by devils. [704-709 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c14",
+          "title": {
+            "la": "Caput XIV. Ut item alius moriturus deputatum sibi apud inferos locum poenarum uiderit",
+            "en-US": "Chapter XIV. How another in like manner, being at the point of death, saw the place of punishment appointed for him in Hell."
+          }
+        },
+        {
+          "id": "b5-c15",
+          "title": {
+            "la": "Caput XV. Ut plurimae Scottorum ecclesiae, instante Adamnano, catholicum pascha susceperint; utque idem librum de locis sanctis scripserit",
+            "en-US": "Chapter XV. How divers churches of the Scots, at the instance of Adamnan, adopted the Catholic Easter; and how the same wrote a book about the holy places. [703 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c16",
+          "title": {
+            "la": "Caput XVI. Quae in eodem libro de loco dominicae natiuitatis, passionis, et resurrectionis commemorauerit",
+            "en-US": "Chapter XVI. The account given in the aforesaid book of the place of our Lord’s Nativity, Passion, and Resurrection."
+          }
+        },
+        {
+          "id": "b5-c17",
+          "title": {
+            "la": "Caput XVII. Quae item de loco ascensionis dominicae et sepulchris patriarcharum",
+            "en-US": "Chapter XVII. What he likewise wrote of the place of our Lord’s Ascension, and the tombs of the patriarchs."
+          }
+        },
+        {
+          "id": "b5-c18",
+          "title": {
+            "la": "Caput XVIII. Ut Australes Saxones episcopos acceperint Eadberctum et Eallan, Occidentales Danihelem et Aldhelmum; et de scriptis eiusdem Aldhelmi",
+            "en-US": "Chapter XVIII. How the South Saxons received Eadbert and Eolla, and the West Saxons, Daniel and Aldhelm, for their bishops; and of the writings of the same Aldhelm. [705 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c19",
+          "title": {
+            "la": "Caput XIX. Ut Coinred Merciorum et Offa Orientalium Saxonum rex in monachico habitu Romae uitam finierint; et de uita uel obitu Uilfridi episcopi",
+            "en-US": "Chapter XIX. How Coinred, king of the Mercians, and Offa, king of the East Saxons, ended their days at Rome, in the monastic habit; and of the life and death of Bishop Wilfrid. [709 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c20",
+          "title": {
+            "la": "Caput XX. Ut religioso abbati Hadriano Albinus, Uilfrido in episcopatum Acca successerit",
+            "en-US": "Chapter XX. How Albinus succeeded to the godly Abbot Hadrian, and Acca to Bishop Wilfrid. [709 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c21",
+          "title": {
+            "la": "Caput XXI. Ut Ceolfrid abbas regi Pictorum architectos ecclesiae, simul et epistulam de catholico pascha uel de tonsura miserit",
+            "en-US": "Chapter XXI. How the Abbot Ceolfrid sent master-builders to the King of the Picts to build a church, and with them an epistle concerning the Catholic Easter and the Tonsure. [710 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c22",
+          "title": {
+            "la": "Caput XXII. Ut Hiienses monachi cum subiectis sibi monasteriis canonicum praedicante Ecgbercto celebrare pascha coeperint",
+            "en-US": "Chapter XXII. How the monks of Hii, and the monasteries subject to them, began to celebrate the canonical Easter at the preaching of Egbert. [716 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c23",
+          "title": {
+            "la": "Caput XXIII. Qui sit in praesenti status gentis Anglorum uel Brittaniae totius",
+            "en-US": "Chapter XXIII. Of the present state of the English nation, or of all Britain. [725-731 A.D.]"
+          }
+        },
+        {
+          "id": "b5-c24",
+          "title": {
+            "la": "Caput XXIV. Recapitulatio chronica totius operis; et de persona auctoris",
+            "en-US": "Chapter XXIV. Chronological recapitulation of the whole work: also concerning the author himself."
+          }
+        }
+      ]
+    },
+    {
+      "id": "continuatio",
+      "title": {
+        "la": "Continuatio",
+        "en-US": "Continuation",
+        "pt-BR": "Continuação"
+      }
+    }
+  ]
+}
