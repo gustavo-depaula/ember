@@ -1,0 +1,118 @@
+{
+  "id": "ignatius-ejercicios",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Ejercicios espirituales",
+    "en-US": "The Spiritual Exercises",
+    "pt-BR": "Exercícios Espirituais"
+  },
+  "author": {
+    "es-ES": "San Ignacio de Loyola",
+    "en-US": "St. Ignatius of Loyola",
+    "pt-BR": "Santo Inácio de Loyola"
+  },
+  "description": {
+    "es-ES": "El libro de los Ejercicios de San Ignacio (1522–1548): anotaciones, cuatro semanas, tres modos de orar, misterios de la vida de Cristo y reglas de discreción de espíritus, con la numeración tradicional [1]–[370]. Texto del Autógrafo.",
+    "en-US": "St. Ignatius's book of the Exercises (1522–1548): annotations, four weeks, three methods of prayer, mysteries of the life of Christ and rules for the discernment of spirits. Spanish text of the Autograph, with its traditional numbering [1]–[370]; English translation from the Autograph by Fr. Elder Mullan, S.J. (1914), with his notes on the manuscript.",
+    "pt-BR": "O livro dos Exercícios de Santo Inácio (1522–1548): anotações, quatro semanas, três modos de orar, mistérios da vida de Cristo e regras de discernimento dos espíritos."
+  },
+  "composed": "1522–1548",
+  "languages": [
+    "es-ES",
+    "en-US"
+  ],
+  "work": "ignatius-of-loyola/ejercicios",
+  "editions": {
+    "es-ES": {
+      "editor": "Autógrafo (Concordancia ignaciana text, via Documenta Catholica Omnia)",
+      "year": 1544
+    },
+    "en-US": {
+      "translator": "Elder Mullan, S.J.",
+      "year": 1914
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://www.documentacatholicaomnia.eu/03d/1491-1556,_Ignacio_Loyola,_Ejercicios_Espirituales,_ES.pdf",
+      "edition": "Ejercicios espirituales, Autógrafo, with the traditional paragraph numbers [1]-[370] and sixteenth-century orthography; Documenta Catholica Omnia text layer (47 pp.). The index repeated at the end of the PDF is omitted.",
+      "description": "Spanish text of the Autograph copy corrected by Ignatius. Rubrics, printed in capitals in the PDF, are set as headings in sentence case with accents restored; the body text is unchanged. No editors' notes in this text.",
+      "tier": "B",
+      "tierEvidence": "Ignatius died in 1556 and the Autograph dates from the 1540s; the modern edition's text is the Autograph itself, distributed by Documenta Catholica Omnia without any copyright claim or licence (its copyright page is a generic notice); free in practice."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.ccel.org/ccel/ignatius/exercises.html",
+      "edition": "The Spiritual Exercises of St. Ignatius of Loyola, translated from the Autograph by Father Elder Mullan, S.J., New York: P. J. Kenedy & Sons, 1914. CCEL proofed e-text. Introductory matter, the papal approbations, the contents list and the index are not included.",
+      "description": "English translation following the Autograph closely. Mullan's footnotes on the manuscript (the saint's handwritten corrections) are kept as footnotes. The paragraph numbers [1]-[370] are not in this e-text, so they appear in the Spanish only; the chapters follow the Spanish.",
+      "tier": "A",
+      "tierEvidence": "Published in New York in 1914 (public domain in the US, published before 1930); Mullan died in 1925. CCEL marks it Public Domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "anotaciones",
+      "title": {
+        "es-ES": "Anotaciones",
+        "en-US": "Annotations"
+      }
+    },
+    {
+      "id": "primera-semana",
+      "title": {
+        "es-ES": "Primera semana",
+        "en-US": "The First Week"
+      }
+    },
+    {
+      "id": "segunda-semana",
+      "title": {
+        "es-ES": "Segunda semana",
+        "en-US": "The Second Week"
+      }
+    },
+    {
+      "id": "tercera-semana",
+      "title": {
+        "es-ES": "Tercera semana",
+        "en-US": "The Third Week"
+      }
+    },
+    {
+      "id": "cuarta-semana",
+      "title": {
+        "es-ES": "Cuarta semana y Contemplación para alcanzar amor",
+        "en-US": "The Fourth Week and the Contemplation to Gain Love"
+      }
+    },
+    {
+      "id": "modos-de-orar",
+      "title": {
+        "es-ES": "Tres modos de orar",
+        "en-US": "Three Methods of Prayer"
+      }
+    },
+    {
+      "id": "misterios",
+      "title": {
+        "es-ES": "Los misterios de la vida de Cristo nuestro Señor",
+        "en-US": "The Mysteries of the Life of Christ Our Lord"
+      }
+    },
+    {
+      "id": "reglas-discrecion",
+      "title": {
+        "es-ES": "Reglas para sentir y conocer las varias mociones del ánima",
+        "en-US": "Rules for the Discernment of Spirits"
+      }
+    },
+    {
+      "id": "reglas-limosnas-iglesia",
+      "title": {
+        "es-ES": "Reglas sobre limosnas, escrúpulos y el sentir con la Iglesia",
+        "en-US": "Rules on Alms, Scruples and Thinking with the Church"
+      }
+    }
+  ]
+}

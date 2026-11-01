@@ -1,0 +1,13 @@
+{
+  "name": {
+    "en-US": "St. Ignatius of Loyola",
+    "pt-BR": "Santo Inácio de Loyola"
+  },
+  "century": 16,
+  "saint": "ignatius_loyola",
+  "matches": [
+    "St. Ignatius of Loyola",
+    "Ignatius of Loyola, Saint",
+    "Ignatius of Loyola, Saint, 1491-1556"
+  ]
+}
