@@ -1,0 +1,69 @@
+{
+  "id": "council-vatican-i",
+  "cover": "quarter",
+  "name": {
+    "la": "Concilium Vaticanum I: Constitutiones dogmaticae",
+    "en-US": "The First Vatican Council (1869–1870): Dogmatic Constitutions",
+    "pt-BR": "Concílio Vaticano I (1869–1870): Constituições dogmáticas"
+  },
+  "author": {
+    "la": "Concilia",
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
+  },
+  "description": {
+    "la": "Constitutiones dogmaticae Concilii Vaticani: Dei Filius de fide catholica (sessio III, 24 aprilis 1870) et Pastor aeternus de Ecclesia Christi (sessio IV, 18 iulii 1870).",
+    "en-US": "The two dogmatic constitutions of the twentieth ecumenical council: Dei Filius on the Catholic faith (Session III, 24 April 1870), on God the Creator, revelation, faith, and faith and reason, with its canons; and Pastor Aeternus on the Church of Christ (Session IV, 18 July 1870), on the primacy of Peter and his successors and the infallible teaching of the Roman Pontiff. Latin text with the English translation printed by Vincent McNabb, O.P. (1907).",
+    "pt-BR": "As duas constituições dogmáticas do vigésimo concílio ecumênico: Dei Filius, sobre a fé católica (sessão III, 24 de abril de 1870), e Pastor Aeternus, sobre a Igreja de Cristo (sessão IV, 18 de julho de 1870), que define o primado e o magistério infalível do Romano Pontífice."
+  },
+  "composed": "1870",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "councils/vatican-i",
+  "editions": {
+    "la": {
+      "editor": "Acta Sanctae Sedis V (1870) and the authentic edition of Pastor aeternus (Rome, 1870), as transcribed on Latin Wikisource",
+      "year": 1870
+    },
+    "en-US": {
+      "translator": "Authorized English translation (H. E. Manning, 1871), ed. Vincent McNabb, O.P.",
+      "year": 1907
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Dei_Filius",
+      "edition": "Dei Filius: Latin Wikisource, transcribed from Acta Sanctae Sedis, vol. V (1869–1870), pp. 481–493. Pastor aeternus: Latin Wikisource, https://la.wikisource.org/wiki/Pastor_Aeternus, proofread from a scan of the 1870 printing (Wikisource file 'Costituzione dogmatica sulla fede cattolica 18 luglio 1870 (Pio IX).djvu').",
+      "description": "Both constitutions complete, with their canons. Collated word by word against Acta et decreta sacrosancti oecumenici Concilii Vaticani (Collectio Lacensis VII, Freiburg: Herder, 1892), archive.org actaetdecretasac00unse (OCR), which corrected 28 transcription errors (e.g. 'quam meno principum' → 'quam nemo principum', 'evelli' → 'evehi', 'a Chisto' → 'a Christo'); orthographic differences between the printings (umquam/unquam, eius/ejus) are left as transcribed. Dei Filius keeps the inline scripture and council references of the Acta Sanctae Sedis text; Pastor aeternus keeps its printed notes as footnotes. The Wikisource transcriber's source note is not reproduced. Not included: the opening decrees and the profession of faith of Sessions I–II, and the dating clause 'Datum Romae in publica Sessione…', which these printings omit.",
+      "tier": "A",
+      "tierEvidence": "Promulgated in 1870 and printed in Acta Sanctae Sedis V (1870) and the Roman edition of 1870; the 1892 Acta used for collation is likewise public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://en.wikisource.org/wiki/The_Decrees_of_the_Vatican_Council",
+      "edition": "The Decrees of the Vatican Council, edited by Vincent McNabb, O.P., New York/Chicago: Benziger Brothers, 1907 (Wikisource transcription of the scan, pages validated).",
+      "description": "Dei Filius (prologue, four chapters, canons) and Pastor Aeternus (prologue, four chapters), with the book's notes as footnotes and the attestation of Joseph Fessler, Bishop of St. Pölten, Secretary of the Council. The translation is the English published by Archbishop H. E. Manning in 1871 (The Vatican Council and its Definitions; Petri Privilegium), whose wording it follows (checked against archive.org thevaticancounci00mannuoft) (e.g. 'Moreover, that the supreme power of teaching is also included in the apostolic primacy'). McNabb's preface 'To the Reader' and the chronology are not included.",
+      "tier": "A",
+      "tierEvidence": "Published 1907 (before 1931: public domain in the US); Manning died in 1892 and McNabb in 1943, more than 70 years ago."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dei-filius",
+      "title": {
+        "la": "Constitutio dogmatica Dei Filius de fide catholica",
+        "en-US": "Dogmatic Constitution Dei Filius on the Catholic Faith"
+      }
+    },
+    {
+      "id": "pastor-aeternus",
+      "title": {
+        "la": "Constitutio dogmatica prima Pastor aeternus de Ecclesia Christi",
+        "en-US": "First Dogmatic Constitution Pastor Aeternus on the Church of Christ"
+      }
+    }
+  ]
+}
