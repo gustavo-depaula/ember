@@ -77,7 +77,9 @@ Words are the original-language text of the author's own works, measured or esti
 6. **Where no usable English exists (Vincent de Paul…), the pipeline will also translate into English**, later.
 7. **Medieval vernaculars get their own language folders:** `dum/` (Middle Dutch, Ruusbroec) and `gmh/` (Middle High German, Suso, Tauler).
 
-Not started yet.
+8. **Works and editions.** A **work** is what the author wrote; an **edition** is one concrete text of it (one language, one source: an editor, a translator, or the author's own redaction). A **book** is one source edition plus the translations made from it, at most one per language: our pt-BR translations stay in the book of the text they were translated from (`pt-BR/` beside `es-ES/`), and an imported translation may stay there too when its chapters follow the source's (as Montfort's `en-US/` does). Every other edition of the same work is its own book, linked by a `work` field. `book.json` gains `"work": "<author>/<work>"` and `"editions": { "<lang>": { editor | translator, from?, year, sources } }`; the corpus build groups books by work; the reader and book page get an edition picker (look to be agreed with the user first). Switching edition does not keep the reading position: editions need not share chapters. Near-duplicates (`augustine-confessions` and `church-fathers/augustine/confessions`; the New Advent and opera omnia Summas; the Vozes `trent-catechism` pt-BR) move under shared works.
+
+Order: build works/editions first, then import the first wave into it.
 
 ## Before anything is lost
 
