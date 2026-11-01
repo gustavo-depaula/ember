@@ -1,0 +1,9 @@
+# Prólogo
+
+**I.** *Mateus, da Judeia, assim como é colocado em primeiro lugar na ordem, foi também o primeiro a escrever um Evangelho na Judeia; foi chamado ao Senhor quando exercia o ofício de publicano. Na geração de Cristo, toma como ponto de partida as origens de dois homens: um, em quem primeiro se realizou a circuncisão na carne; outro, cuja eleição foi segundo o coração; pois de ambos os pais procede Cristo. E assim, dispondo de três modos o número quatro, estendendo o princípio desde o termo da fé até o tempo da eleição, conduzindo-o da eleição até o dia da transmigração e delimitando-o desde o dia da transmigração até Cristo, mostra o curso da geração até a vinda do Senhor, atendendo tanto ao número como ao tempo; para mostrar também quem ele próprio era e, manifestando a obra de Deus em si mesmo, não negar, mesmo naqueles cuja linhagem apresentou, o testemunho de Cristo que opera desde o princípio*.
+
+**II.** *O tempo, a ordem, o número, a disposição ou a razão de todas essas coisas — aquilo que é necessário à fé — é Cristo Deus, que, feito de mulher, feito sob a lei, nascido de uma virgem, tendo padecido na carne, fixou todas as coisas na cruz, para que, triunfando sobre elas em si mesmo, ressuscitando no corpo e restituindo ao Filho o nome do Pai nos pais, e ao Pai o nome do Filho nos filhos, sem princípio, sem fim, mostrasse ser um com o Pai, porque é um*.
+
+**III.** *Neste Evangelho, é útil aos que desejam Deus conhecer assim as coisas primeiras, intermediárias e perfeitas, para que, lendo-o por inteiro, compreendam tanto a vocação do Apóstolo como a obra do Evangelho e o amor do Deus que nasce na carne, e reconheçam nele aquilo em que foram repreendidos e que desejam apreender*.
+
+**IV.** *Quanto a nós, neste estudo do argumento, tivemos por propósito transmitir a fé no acontecimento realizado e não deixar de dizer aos que buscam que é preciso compreender diligentemente a disposição de Deus que opera*.
