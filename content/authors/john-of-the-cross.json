@@ -1,0 +1,15 @@
+{
+  "name": {
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "century": 16,
+  "saint": "john_of_the_cross",
+  "matches": [
+    "St. John of the Cross",
+    "Saint John of the Cross",
+    "John of the Cross, St.",
+    "John of the Cross, Saint, 1542-1591",
+    "San Juan de la Cruz"
+  ]
+}

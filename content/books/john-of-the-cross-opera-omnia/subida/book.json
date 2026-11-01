@@ -1,0 +1,739 @@
+{
+  "id": "john-of-the-cross-subida",
+  "name": {
+    "es-ES": "Subida del Monte Carmelo",
+    "en-US": "The Ascent of Mount Carmel",
+    "pt-BR": "Subida do Monte Carmelo"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "es-ES": "El primero de los grandes tratados de San Juan de la Cruz (h. 1578–1585): la noche activa del sentido y del espíritu, por la que el alma se desnuda de todo apetito y camina en pura fe, esperanza y caridad hacia la unión con Dios. Quedó sin terminar. Texto crítico del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "The first of St. John of the Cross's great treatises (c. 1578–1585): the active night of sense and spirit, in which the soul strips itself of every desire and walks in pure faith, hope and charity towards union with God. It was left unfinished. Spanish critical text of P. Silverio de Santa Teresa with his notes; English translation by David Lewis, revised by Benedict Zimmerman.",
+    "pt-BR": "O primeiro dos grandes tratados de São João da Cruz (c. 1578–1585): a noite ativa do sentido e do espírito, em que a alma se despoja de todo apetite e caminha em pura fé, esperança e caridade rumo à união com Deus. Ficou inacabado."
+  },
+  "composed": "1578–1585",
+  "languages": [
+    "es-ES",
+    "en-US"
+  ],
+  "work": "john-of-the-cross/subida",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1929
+    },
+    "en-US": {
+      "translator": "David Lewis, revised by Benedict Zimmerman",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesanjuande02john",
+      "edition": "Obras de San Juan de la Cruz, Doctor de la Iglesia, ed. P. Silverio de Santa Teresa, C.D., t. II (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1929, pp. 1–358. Princeton Theological Seminary scan.",
+      "description": "Spanish critical text with Silverio's notes (manuscript variants, scripture references) kept as footnotes. OCR of the scan; page furniture removed; footnotes matched to their references page by page; OCR errors corrected by consulting P. Eulogio Pacho's modern text (Editorial Monte Carmelo, via Documenta Catholica Omnia), which was used only to find errors and never copied. Chapter summaries are taken from Silverio's own table of contents.",
+      "tier": "A",
+      "tierEvidence": "San Juan de la Cruz died in 1591. Silverio's edition was published in 1929 (before 1931: public domain in the US) and P. Silverio de Santa Teresa died in 1954, so his text and notes are public domain under life+70 since 1 January 2025. Caveat: Spain applies life+80 to authors who died before 1987, so in Spain alone his notes stay protected until 2035."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/ascentofmountcar00johnuoft",
+      "edition": "The Ascent of Mount Carmel, translated by David Lewis, with corrections and a prefatory essay by Benedict Zimmerman, O.C.D., 3rd ed., London: Thomas Baker, 1922. University of Toronto scan.",
+      "description": "English translation with Lewis's scripture references as footnotes. Zimmerman's essay, the contents and the indexes are not included. Lewis's chapters follow the Spanish one for one, except that his 'Argument' of Book III is Silverio's chapter III.1, so his III.n is our l3-c(n+1).",
+      "tier": "A",
+      "tierEvidence": "Published 1922 (before 1931: public domain in the US); the translator David Lewis died in 1895 and the reviser Benedict Zimmerman in 1937, both more than 70 years ago."
+    }
+  ],
+  "toc": [
+    {
+      "id": "argumento",
+      "title": {
+        "es-ES": "Argumento",
+        "en-US": "Argument"
+      }
+    },
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo",
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "l1",
+      "title": {
+        "es-ES": "Libro primero",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "l1-c1",
+          "title": {
+            "es-ES": "Capítulo I",
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "l1-c2",
+          "title": {
+            "es-ES": "Capítulo II",
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "l1-c3",
+          "title": {
+            "es-ES": "Capítulo III",
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "l1-c4",
+          "title": {
+            "es-ES": "Capítulo IV",
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "l1-c5",
+          "title": {
+            "es-ES": "Capítulo V",
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "l1-c6",
+          "title": {
+            "es-ES": "Capítulo VI",
+            "en-US": "Chapter VI"
+          }
+        },
+        {
+          "id": "l1-c7",
+          "title": {
+            "es-ES": "Capítulo VII",
+            "en-US": "Chapter VII"
+          }
+        },
+        {
+          "id": "l1-c8",
+          "title": {
+            "es-ES": "Capítulo VIII",
+            "en-US": "Chapter VIII"
+          }
+        },
+        {
+          "id": "l1-c9",
+          "title": {
+            "es-ES": "Capítulo IX",
+            "en-US": "Chapter IX"
+          }
+        },
+        {
+          "id": "l1-c10",
+          "title": {
+            "es-ES": "Capítulo X",
+            "en-US": "Chapter X"
+          }
+        },
+        {
+          "id": "l1-c11",
+          "title": {
+            "es-ES": "Capítulo XI",
+            "en-US": "Chapter XI"
+          }
+        },
+        {
+          "id": "l1-c12",
+          "title": {
+            "es-ES": "Capítulo XII",
+            "en-US": "Chapter XII"
+          }
+        },
+        {
+          "id": "l1-c13",
+          "title": {
+            "es-ES": "Capítulo XIII",
+            "en-US": "Chapter XIII"
+          }
+        },
+        {
+          "id": "l1-c14",
+          "title": {
+            "es-ES": "Capítulo XIV",
+            "en-US": "Chapter XIV"
+          }
+        },
+        {
+          "id": "l1-c15",
+          "title": {
+            "es-ES": "Capítulo XV",
+            "en-US": "Chapter XV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "title": {
+        "es-ES": "Libro segundo",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "l2-c1",
+          "title": {
+            "es-ES": "Capítulo I",
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "l2-c2",
+          "title": {
+            "es-ES": "Capítulo II",
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "l2-c3",
+          "title": {
+            "es-ES": "Capítulo III",
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "l2-c4",
+          "title": {
+            "es-ES": "Capítulo IV",
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "l2-c5",
+          "title": {
+            "es-ES": "Capítulo V",
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "l2-c6",
+          "title": {
+            "es-ES": "Capítulo VI",
+            "en-US": "Chapter VI"
+          }
+        },
+        {
+          "id": "l2-c7",
+          "title": {
+            "es-ES": "Capítulo VII",
+            "en-US": "Chapter VII"
+          }
+        },
+        {
+          "id": "l2-c8",
+          "title": {
+            "es-ES": "Capítulo VIII",
+            "en-US": "Chapter VIII"
+          }
+        },
+        {
+          "id": "l2-c9",
+          "title": {
+            "es-ES": "Capítulo IX",
+            "en-US": "Chapter IX"
+          }
+        },
+        {
+          "id": "l2-c10",
+          "title": {
+            "es-ES": "Capítulo X",
+            "en-US": "Chapter X"
+          }
+        },
+        {
+          "id": "l2-c11",
+          "title": {
+            "es-ES": "Capítulo XI",
+            "en-US": "Chapter XI"
+          }
+        },
+        {
+          "id": "l2-c12",
+          "title": {
+            "es-ES": "Capítulo XII",
+            "en-US": "Chapter XII"
+          }
+        },
+        {
+          "id": "l2-c13",
+          "title": {
+            "es-ES": "Capítulo XIII",
+            "en-US": "Chapter XIII"
+          }
+        },
+        {
+          "id": "l2-c14",
+          "title": {
+            "es-ES": "Capítulo XIV",
+            "en-US": "Chapter XIV"
+          }
+        },
+        {
+          "id": "l2-c15",
+          "title": {
+            "es-ES": "Capítulo XV",
+            "en-US": "Chapter XV"
+          }
+        },
+        {
+          "id": "l2-c16",
+          "title": {
+            "es-ES": "Capítulo XVI",
+            "en-US": "Chapter XVI"
+          }
+        },
+        {
+          "id": "l2-c17",
+          "title": {
+            "es-ES": "Capítulo XVII",
+            "en-US": "Chapter XVII"
+          }
+        },
+        {
+          "id": "l2-c18",
+          "title": {
+            "es-ES": "Capítulo XVIII",
+            "en-US": "Chapter XVIII"
+          }
+        },
+        {
+          "id": "l2-c19",
+          "title": {
+            "es-ES": "Capítulo XIX",
+            "en-US": "Chapter XIX"
+          }
+        },
+        {
+          "id": "l2-c20",
+          "title": {
+            "es-ES": "Capítulo XX",
+            "en-US": "Chapter XX"
+          }
+        },
+        {
+          "id": "l2-c21",
+          "title": {
+            "es-ES": "Capítulo XXI",
+            "en-US": "Chapter XXI"
+          }
+        },
+        {
+          "id": "l2-c22",
+          "title": {
+            "es-ES": "Capítulo XXII",
+            "en-US": "Chapter XXII"
+          }
+        },
+        {
+          "id": "l2-c23",
+          "title": {
+            "es-ES": "Capítulo XXIII",
+            "en-US": "Chapter XXIII"
+          }
+        },
+        {
+          "id": "l2-c24",
+          "title": {
+            "es-ES": "Capítulo XXIV",
+            "en-US": "Chapter XXIV"
+          }
+        },
+        {
+          "id": "l2-c25",
+          "title": {
+            "es-ES": "Capítulo XXV",
+            "en-US": "Chapter XXV"
+          }
+        },
+        {
+          "id": "l2-c26",
+          "title": {
+            "es-ES": "Capítulo XXVI",
+            "en-US": "Chapter XXVI"
+          }
+        },
+        {
+          "id": "l2-c27",
+          "title": {
+            "es-ES": "Capítulo XXVII",
+            "en-US": "Chapter XXVII"
+          }
+        },
+        {
+          "id": "l2-c28",
+          "title": {
+            "es-ES": "Capítulo XXVIII",
+            "en-US": "Chapter XXVIII"
+          }
+        },
+        {
+          "id": "l2-c29",
+          "title": {
+            "es-ES": "Capítulo XXIX",
+            "en-US": "Chapter XXIX"
+          }
+        },
+        {
+          "id": "l2-c30",
+          "title": {
+            "es-ES": "Capítulo XXX",
+            "en-US": "Chapter XXX"
+          }
+        },
+        {
+          "id": "l2-c31",
+          "title": {
+            "es-ES": "Capítulo XXXI",
+            "en-US": "Chapter XXXI"
+          }
+        },
+        {
+          "id": "l2-c32",
+          "title": {
+            "es-ES": "Capítulo XXXII",
+            "en-US": "Chapter XXXII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "title": {
+        "es-ES": "Libro tercero",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "l3-c1",
+          "title": {
+            "es-ES": "Capítulo I",
+            "en-US": "Argument"
+          }
+        },
+        {
+          "id": "l3-c2",
+          "title": {
+            "es-ES": "Capítulo II",
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "l3-c3",
+          "title": {
+            "es-ES": "Capítulo III",
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "l3-c4",
+          "title": {
+            "es-ES": "Capítulo IV",
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "l3-c5",
+          "title": {
+            "es-ES": "Capítulo V",
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "l3-c6",
+          "title": {
+            "es-ES": "Capítulo VI",
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "l3-c7",
+          "title": {
+            "es-ES": "Capítulo VII",
+            "en-US": "Chapter VI"
+          }
+        },
+        {
+          "id": "l3-c8",
+          "title": {
+            "es-ES": "Capítulo VIII",
+            "en-US": "Chapter VII"
+          }
+        },
+        {
+          "id": "l3-c9",
+          "title": {
+            "es-ES": "Capítulo IX",
+            "en-US": "Chapter VIII"
+          }
+        },
+        {
+          "id": "l3-c10",
+          "title": {
+            "es-ES": "Capítulo X",
+            "en-US": "Chapter IX"
+          }
+        },
+        {
+          "id": "l3-c11",
+          "title": {
+            "es-ES": "Capítulo XI",
+            "en-US": "Chapter X"
+          }
+        },
+        {
+          "id": "l3-c12",
+          "title": {
+            "es-ES": "Capítulo XII",
+            "en-US": "Chapter XI"
+          }
+        },
+        {
+          "id": "l3-c13",
+          "title": {
+            "es-ES": "Capítulo XIII",
+            "en-US": "Chapter XII"
+          }
+        },
+        {
+          "id": "l3-c14",
+          "title": {
+            "es-ES": "Capítulo XIV",
+            "en-US": "Chapter XIII"
+          }
+        },
+        {
+          "id": "l3-c15",
+          "title": {
+            "es-ES": "Capítulo XV",
+            "en-US": "Chapter XIV"
+          }
+        },
+        {
+          "id": "l3-c16",
+          "title": {
+            "es-ES": "Capítulo XVI",
+            "en-US": "Chapter XV"
+          }
+        },
+        {
+          "id": "l3-c17",
+          "title": {
+            "es-ES": "Capítulo XVII",
+            "en-US": "Chapter XVI"
+          }
+        },
+        {
+          "id": "l3-c18",
+          "title": {
+            "es-ES": "Capítulo XVIII",
+            "en-US": "Chapter XVII"
+          }
+        },
+        {
+          "id": "l3-c19",
+          "title": {
+            "es-ES": "Capítulo XIX",
+            "en-US": "Chapter XVIII"
+          }
+        },
+        {
+          "id": "l3-c20",
+          "title": {
+            "es-ES": "Capítulo XX",
+            "en-US": "Chapter XIX"
+          }
+        },
+        {
+          "id": "l3-c21",
+          "title": {
+            "es-ES": "Capítulo XXI",
+            "en-US": "Chapter XX"
+          }
+        },
+        {
+          "id": "l3-c22",
+          "title": {
+            "es-ES": "Capítulo XXII",
+            "en-US": "Chapter XXI"
+          }
+        },
+        {
+          "id": "l3-c23",
+          "title": {
+            "es-ES": "Capítulo XXIII",
+            "en-US": "Chapter XXII"
+          }
+        },
+        {
+          "id": "l3-c24",
+          "title": {
+            "es-ES": "Capítulo XXIV",
+            "en-US": "Chapter XXIII"
+          }
+        },
+        {
+          "id": "l3-c25",
+          "title": {
+            "es-ES": "Capítulo XXV",
+            "en-US": "Chapter XXIV"
+          }
+        },
+        {
+          "id": "l3-c26",
+          "title": {
+            "es-ES": "Capítulo XXVI",
+            "en-US": "Chapter XXV"
+          }
+        },
+        {
+          "id": "l3-c27",
+          "title": {
+            "es-ES": "Capítulo XXVII",
+            "en-US": "Chapter XXVI"
+          }
+        },
+        {
+          "id": "l3-c28",
+          "title": {
+            "es-ES": "Capítulo XXVIII",
+            "en-US": "Chapter XXVII"
+          }
+        },
+        {
+          "id": "l3-c29",
+          "title": {
+            "es-ES": "Capítulo XXIX",
+            "en-US": "Chapter XXVIII"
+          }
+        },
+        {
+          "id": "l3-c30",
+          "title": {
+            "es-ES": "Capítulo XXX",
+            "en-US": "Chapter XXIX"
+          }
+        },
+        {
+          "id": "l3-c31",
+          "title": {
+            "es-ES": "Capítulo XXXI",
+            "en-US": "Chapter XXX"
+          }
+        },
+        {
+          "id": "l3-c32",
+          "title": {
+            "es-ES": "Capítulo XXXII",
+            "en-US": "Chapter XXXI"
+          }
+        },
+        {
+          "id": "l3-c33",
+          "title": {
+            "es-ES": "Capítulo XXXIII",
+            "en-US": "Chapter XXXII"
+          }
+        },
+        {
+          "id": "l3-c34",
+          "title": {
+            "es-ES": "Capítulo XXXIV",
+            "en-US": "Chapter XXXIII"
+          }
+        },
+        {
+          "id": "l3-c35",
+          "title": {
+            "es-ES": "Capítulo XXXV",
+            "en-US": "Chapter XXXIV"
+          }
+        },
+        {
+          "id": "l3-c36",
+          "title": {
+            "es-ES": "Capítulo XXXVI",
+            "en-US": "Chapter XXXV"
+          }
+        },
+        {
+          "id": "l3-c37",
+          "title": {
+            "es-ES": "Capítulo XXXVII",
+            "en-US": "Chapter XXXVI"
+          }
+        },
+        {
+          "id": "l3-c38",
+          "title": {
+            "es-ES": "Capítulo XXXVIII",
+            "en-US": "Chapter XXXVII"
+          }
+        },
+        {
+          "id": "l3-c39",
+          "title": {
+            "es-ES": "Capítulo XXXIX",
+            "en-US": "Chapter XXXVIII"
+          }
+        },
+        {
+          "id": "l3-c40",
+          "title": {
+            "es-ES": "Capítulo XL",
+            "en-US": "Chapter XXXIX"
+          }
+        },
+        {
+          "id": "l3-c41",
+          "title": {
+            "es-ES": "Capítulo XLI",
+            "en-US": "Chapter XL"
+          }
+        },
+        {
+          "id": "l3-c42",
+          "title": {
+            "es-ES": "Capítulo XLII",
+            "en-US": "Chapter XLI"
+          }
+        },
+        {
+          "id": "l3-c43",
+          "title": {
+            "es-ES": "Capítulo XLIII",
+            "en-US": "Chapter XLII"
+          }
+        },
+        {
+          "id": "l3-c44",
+          "title": {
+            "es-ES": "Capítulo XLIV",
+            "en-US": "Chapter XLIII"
+          }
+        },
+        {
+          "id": "l3-c45",
+          "title": {
+            "es-ES": "Capítulo XLV",
+            "en-US": "Chapter XLIV"
+          }
+        }
+      ]
+    }
+  ]
+}
