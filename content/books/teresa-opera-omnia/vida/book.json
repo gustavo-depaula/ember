@@ -1,0 +1,356 @@
+{
+  "id": "teresa-vida",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Libro de la Vida",
+    "en-US": "The Life of St. Teresa of Jesus",
+    "pt-BR": "Livro da Vida"
+  },
+  "author": {
+    "es-ES": "Santa Teresa de Jesús",
+    "en-US": "St. Teresa of Ávila",
+    "pt-BR": "Santa Teresa de Ávila"
+  },
+  "description": {
+    "es-ES": "La vida de Santa Teresa escrita por ella misma por mandado de sus confesores (1562–1565): su niñez, su conversión, los cuatro grados de oración y la fundación de San José de Ávila. Texto crítico del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "St. Teresa's account of her life, written at her confessors' command (1562–1565): her childhood and conversion, the four degrees of prayer, and the founding of St. Joseph's at Ávila. Spanish critical text of P. Silverio de Santa Teresa with his notes; English translation by David Lewis, 3rd edition (1904).",
+    "pt-BR": "A vida de Santa Teresa escrita por ela mesma por ordem de seus confessores (1562–1565): a infância, a conversão, os quatro graus de oração e a fundação de São José de Ávila."
+  },
+  "composed": "1562–1565",
+  "languages": [
+    "es-ES",
+    "en-US"
+  ],
+  "work": "teresa-of-avila/vida",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1915
+    },
+    "en-US": {
+      "translator": "David Lewis",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesantatere01tere",
+      "edition": "Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. I: Libro de la Vida (Biblioteca Mística Carmelitana 1), Burgos: El Monte Carmelo, 1915. Princeton Theological Seminary scan, primary OCR.",
+      "description": "Spanish critical text from the Escorial autograph, with Silverio's notes kept as footnotes; his introduction, appendices and indexes are not included. OCR of two independent scans merged word by word, then proofread against both.",
+      "tier": "A",
+      "tierEvidence": "Teresa died in 1582; the edition was published in 1915 (public domain in the US) and P. Silverio died in 1954, so his notes are public domain under life+70 since 1 January 2025."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdestateresa01tere",
+      "edition": "The same volume, Wellesley College scan, used as the second witness.",
+      "tier": "A",
+      "tierEvidence": "Same edition as above."
+    },
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/teresa/life",
+      "edition": "The Life of St. Teresa of Jesus, of the Order of Our Lady of Carmel, written by herself, translated by David Lewis, 3rd ed. with an introduction by Benedict Zimmerman, London: Thomas Baker; New York: Benziger, 1904. CCEL proofed e-text (= Project Gutenberg #8120).",
+      "description": "Lewis's translation with his notes; Zimmerman's introduction, the Relations and the index are not included here.",
+      "tier": "A",
+      "tierEvidence": "Published 1904 (public domain in the US); David Lewis died in 1895 and Zimmerman in 1937 (life+70 passed). CCEL marks it Public Domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo",
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "es-ES": "Capítulo I",
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "es-ES": "Capítulo II",
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "es-ES": "Capítulo III",
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "es-ES": "Capítulo IV",
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "es-ES": "Capítulo V",
+        "en-US": "Chapter V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "es-ES": "Capítulo VI",
+        "en-US": "Chapter VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "es-ES": "Capítulo VII",
+        "en-US": "Chapter VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "es-ES": "Capítulo VIII",
+        "en-US": "Chapter VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "es-ES": "Capítulo IX",
+        "en-US": "Chapter IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "es-ES": "Capítulo X",
+        "en-US": "Chapter X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "es-ES": "Capítulo XI",
+        "en-US": "Chapter XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "es-ES": "Capítulo XII",
+        "en-US": "Chapter XII"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "es-ES": "Capítulo XIII",
+        "en-US": "Chapter XIII"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "es-ES": "Capítulo XIV",
+        "en-US": "Chapter XIV"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "es-ES": "Capítulo XV",
+        "en-US": "Chapter XV"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "es-ES": "Capítulo XVI",
+        "en-US": "Chapter XVI"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "es-ES": "Capítulo XVII",
+        "en-US": "Chapter XVII"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "es-ES": "Capítulo XVIII",
+        "en-US": "Chapter XVIII"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "es-ES": "Capítulo XIX",
+        "en-US": "Chapter XIX"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "es-ES": "Capítulo XX",
+        "en-US": "Chapter XX"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "es-ES": "Capítulo XXI",
+        "en-US": "Chapter XXI"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "es-ES": "Capítulo XXII",
+        "en-US": "Chapter XXII"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "es-ES": "Capítulo XXIII",
+        "en-US": "Chapter XXIII"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "es-ES": "Capítulo XXIV",
+        "en-US": "Chapter XXIV"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "es-ES": "Capítulo XXV",
+        "en-US": "Chapter XXV"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "es-ES": "Capítulo XXVI",
+        "en-US": "Chapter XXVI"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "es-ES": "Capítulo XXVII",
+        "en-US": "Chapter XXVII"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "es-ES": "Capítulo XXVIII",
+        "en-US": "Chapter XXVIII"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "es-ES": "Capítulo XXIX",
+        "en-US": "Chapter XXIX"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "es-ES": "Capítulo XXX",
+        "en-US": "Chapter XXX"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "es-ES": "Capítulo XXXI",
+        "en-US": "Chapter XXXI"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "es-ES": "Capítulo XXXII",
+        "en-US": "Chapter XXXII"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "es-ES": "Capítulo XXXIII",
+        "en-US": "Chapter XXXIII"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "es-ES": "Capítulo XXXIV",
+        "en-US": "Chapter XXXIV"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "es-ES": "Capítulo XXXV",
+        "en-US": "Chapter XXXV"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "es-ES": "Capítulo XXXVI",
+        "en-US": "Chapter XXXVI"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "es-ES": "Capítulo XXXVII",
+        "en-US": "Chapter XXXVII"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "es-ES": "Capítulo XXXVIII",
+        "en-US": "Chapter XXXVIII"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "es-ES": "Capítulo XXXIX",
+        "en-US": "Chapter XXXIX"
+      }
+    },
+    {
+      "id": "c40",
+      "title": {
+        "es-ES": "Capítulo XL",
+        "en-US": "Chapter XL"
+      }
+    },
+    {
+      "id": "carta",
+      "title": {
+        "es-ES": "Carta al P. García de Toledo",
+        "en-US": "Letter to Father García de Toledo"
+      }
+    }
+  ]
+}
