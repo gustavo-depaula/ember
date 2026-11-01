@@ -1,0 +1,204 @@
+{
+  "id": "lawrence-pratique-presence-de-dieu",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "La Pratique de la présence de Dieu",
+    "en-US": "The Practice of the Presence of God",
+    "pt-BR": "A prática da presença de Deus"
+  },
+  "author": {
+    "fr-FR": "Frère Laurent de la Résurrection",
+    "en-US": "Brother Lawrence of the Resurrection",
+    "pt-BR": "Frei Lourenço da Ressurreição"
+  },
+  "description": {
+    "fr-FR": "Tout ce qui reste de Nicolas Herman, frère convers carme déchaussé du couvent de Paris (v. 1614-1691), cuisinier puis cordonnier, maître de la présence de Dieu au milieu des casseroles : ses Maximes spirituelles, ses seize Lettres et les quatre Entretiens que l'abbé Joseph de Beaufort recueillit de sa bouche en 1666-1667, avec l'Éloge et les Mœurs du frère Laurent, qui sont de Beaufort et non de Laurent. Texte des éditions de 1692-1694 donné par la réédition de 1924 (Fischbacher), dont les préfaces de Beaufort sont abrégées.",
+    "en-US": "Everything that survives of Nicolas Herman, lay brother of the Discalced Carmelites in Paris (c. 1614-1691), cook and then sandal-mender, master of the presence of God among the pots and pans: his Spiritual Maxims, his sixteen Letters and the four Conversations that Abbé Joseph de Beaufort took down from his lips in 1666-1667, with the Eulogy and the Character of Brother Lawrence, which are Beaufort's and not Lawrence's. The text of the 1692-1694 editions as reprinted in 1924 (Fischbacher), where Beaufort's two prefaces are abridged.",
+    "pt-BR": "Tudo o que resta de Nicolas Herman, irmão leigo carmelita descalço do convento de Paris (c. 1614-1691), cozinheiro e depois sapateiro, mestre da presença de Deus entre as panelas: suas Máximas espirituais, as dezesseis Cartas e as quatro Conversas que o abade Joseph de Beaufort recolheu de seus lábios em 1666-1667, com o Elogio e os Costumes do irmão Lourenço, que são de Beaufort e não de Lourenço. Texto das edições de 1692-1694 conforme a reedição de 1924, em que os dois prefácios de Beaufort aparecem abreviados."
+  },
+  "composed": "1666-1691",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "brother-lawrence/pratique-de-la-presence-de-dieu",
+  "editions": {
+    "fr-FR": {
+      "editor": "Librairie Fischbacher / Société chrétienne des Amis (from the Paris 1692 Maximes and the Châlons 1693-94 Mœurs et entretiens, ed. Joseph de Beaufort)",
+      "year": 1924
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/laurent-de-la-resurrection-la-pratique-de-la-presence-de-dieu",
+      "edition": "Laurent de la Résurrection, La Pratique de la Présence de Dieu, Niterói: Valdemar Teodoro Éditeur, 2026, a born-digital re-edition of the Paris, Librairie Fischbacher / Société chrétienne des Amis, 1924 text, which reproduces Maximes spirituelles (Paris 1692, BnF D 37601) and Mœurs et Entretiens (Châlons 1693/94, BnF) without modernising them.",
+      "description": "Préambule of the 1924 editors, Éloge and Mœurs (Beaufort), Entretiens I-IV, Maximes spirituelles in their six sections, Lettres I-XVI. The 2026 front matter, credits and table of contents are left out. The 1924 editors cut passages of Beaufort's two prefaces (Éloge and Mœurs); Lawrence's own texts are complete. Page headers and numbers were stripped, line wraps rejoined into paragraphs by line length (the PDF text has no paragraph marks) and a few evident misreadings corrected (lame for l'âme, nies for mes, cloute, clans, er mitage, Da pratique, eu cette vie, Hésimini read as Hérimenil after the English Herimenil, Chaalas as Châlons). Not checked against a scan of the 1692-94 originals (Gallica was unreachable).",
+      "tier": "A",
+      "tierEvidence": "Lawrence died in 1691 and Beaufort, his editor, in the early 18th century; the 1692-94 texts and the 1924 Paris edition are public domain (Beaufort's life+70 expired long ago; 1924 publication is before 1931 in the US). The 2026 re-edition states 'Toute copie et diffusion sont autorisées, à condition d'en citer la source' (B) for its own front matter, which is not imported."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preambule",
+      "title": {
+        "fr-FR": "Préambule de l’édition de 1924"
+      }
+    },
+    {
+      "id": "eloge",
+      "title": {
+        "fr-FR": "Éloge du frère Laurent"
+      }
+    },
+    {
+      "id": "moeurs",
+      "title": {
+        "fr-FR": "Mœurs du frère Laurent"
+      }
+    },
+    {
+      "id": "entretiens",
+      "title": {
+        "fr-FR": "Entretiens",
+        "en-US": "Conversations"
+      },
+      "children": [
+        {
+          "id": "entretien-1",
+          "title": {
+            "fr-FR": "Entretien I : 3 août 1666"
+          }
+        },
+        {
+          "id": "entretien-2",
+          "title": {
+            "fr-FR": "Entretien II : 28 septembre 1666"
+          }
+        },
+        {
+          "id": "entretien-3",
+          "title": {
+            "fr-FR": "Entretien III : 22 Novembre 1666"
+          }
+        },
+        {
+          "id": "entretien-4",
+          "title": {
+            "fr-FR": "Entretien IV : 25 novembre 1667"
+          }
+        }
+      ]
+    },
+    {
+      "id": "maximes",
+      "title": {
+        "fr-FR": "Maximes spirituelles"
+      }
+    },
+    {
+      "id": "lettres",
+      "title": {
+        "fr-FR": "Lettres",
+        "en-US": "Letters"
+      },
+      "children": [
+        {
+          "id": "lettre-01",
+          "title": {
+            "fr-FR": "Lettre I"
+          }
+        },
+        {
+          "id": "lettre-02",
+          "title": {
+            "fr-FR": "Lettre II"
+          }
+        },
+        {
+          "id": "lettre-03",
+          "title": {
+            "fr-FR": "Lettre III"
+          }
+        },
+        {
+          "id": "lettre-04",
+          "title": {
+            "fr-FR": "Lettre IV"
+          }
+        },
+        {
+          "id": "lettre-05",
+          "title": {
+            "fr-FR": "Lettre V"
+          }
+        },
+        {
+          "id": "lettre-06",
+          "title": {
+            "fr-FR": "Lettre VI"
+          }
+        },
+        {
+          "id": "lettre-07",
+          "title": {
+            "fr-FR": "Lettre VII"
+          }
+        },
+        {
+          "id": "lettre-08",
+          "title": {
+            "fr-FR": "Lettre VIII"
+          }
+        },
+        {
+          "id": "lettre-09",
+          "title": {
+            "fr-FR": "Lettre IX"
+          }
+        },
+        {
+          "id": "lettre-10",
+          "title": {
+            "fr-FR": "Lettre X"
+          }
+        },
+        {
+          "id": "lettre-11",
+          "title": {
+            "fr-FR": "Lettre XI"
+          }
+        },
+        {
+          "id": "lettre-12",
+          "title": {
+            "fr-FR": "Lettre XII"
+          }
+        },
+        {
+          "id": "lettre-13",
+          "title": {
+            "fr-FR": "Lettre XIII"
+          }
+        },
+        {
+          "id": "lettre-14",
+          "title": {
+            "fr-FR": "Lettre XIV"
+          }
+        },
+        {
+          "id": "lettre-15",
+          "title": {
+            "fr-FR": "Lettre XV"
+          }
+        },
+        {
+          "id": "lettre-16",
+          "title": {
+            "fr-FR": "Lettre XVI"
+          }
+        }
+      ]
+    }
+  ]
+}
