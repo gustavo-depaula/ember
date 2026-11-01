@@ -67,6 +67,18 @@ Words are the original-language text of the author's own works, measured or esti
 
 **Total ≈ 95M words**, about twice what is left to translate in the corpus today.
 
+## Decisions (2026-11-01)
+
+1. **pt-BR is translated from the original language** (es, fr, it, la…), with the English as a reference, as the pipeline already does for Latin. It needs `t2.py`/`r2.py` to take `languages[0]` as the source. Translation waits until the imports are done.
+2. **Critical editions of 1912–1963 are used with their editors' notes kept** (as footnotes), e.g. Silverio's John of the Cross and Teresa, Sala Balust's John of Ávila.
+3. **Chesterton's 1931–36 books are imported** (St Thomas Aquinas, The Well and the Shallows, the Autobiography, The Scandal of Father Brown…): public domain in Brazil.
+4. **`trent-catechism` keeps its Vozes 1951 pt-BR for now.** A translation of our own may come later as a separate book (the corpus has no linked-editions feature: a second translation is its own book id).
+5. **Bridget of Sweden is imported** from the best Latin source.
+6. **Where no usable English exists (Vincent de Paul…), the pipeline will also translate into English**, later.
+7. **Medieval vernaculars get their own language folders:** `dum/` (Middle Dutch, Ruusbroec) and `gmh/` (Middle High German, Suso, Tauler).
+
+Not started yet.
+
 ## Before anything is lost
 
 Three tier-A/B sources survive only on the Wayback Machine and should be mirrored now: Bossuet (Abbaye de Port-Valais transcription), Mary Magdalene de' Pazzi (O.Carm. *Tutte le opere*, already saved in `mary-magdalene-de-pazzi/raw/`), and the Bari Franciscan sources.
