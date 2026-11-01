@@ -127,6 +127,15 @@ runStep() { # name promptfile engine [claude model]
 }
 
 R2() { python3.13 $here/r2.py "$@"; }
+# A call made while the network is down fails at once, with no answer. That is
+# not an unusable answer: counting it as one sent a book to the agent-session
+# fallback, which deletes the translation so far. Wait and call again instead.
+netDown() { grep -qsE "Can't reach the API server|ENOTFOUND|EAI_AGAIN|ECONNREFUSED|error sending request" "$@"; }
+waitForNetwork() {
+  log "$1: network down; calling again once it is back"
+  until curl -s -m 10 -o /dev/null https://api.anthropic.com; do checkDeadline; sleep 60; done
+}
+
 print v2 > $run/pipeline
 
 # One tool-less claude-work call; the watchdog may stop it, and then it reruns
@@ -140,8 +149,11 @@ claudeCall() { # system-prompt-file input output.json [effort]
     DISABLE_PROMPT_CACHING=1 CLAUDE_CONFIG_DIR=$HOME/.claude-work $HOME/.local/bin/claude -p --tools "" --strict-mcp-config \
       --system-prompt "$(<$1)" --model opus --effort ${4:-high} --output-format json --no-session-persistence \
       < $2 > $3 2> ${3%.json}.log
-    [[ -f $here/HALT ]] && (( $(<$here/HALT) >= started )) || break
-    log "${3:t:r}: stopped by the watchdog near the session limit; rerunning after the reset"
+    if [[ -f $here/HALT ]] && (( $(<$here/HALT) >= started )); then
+      log "${3:t:r}: stopped by the watchdog near the session limit; rerunning after the reset"; continue
+    fi
+    netDown $3 ${3%.json}.log || break
+    waitForNetwork ${3:t:r}
   done
   python3 -c "import json,sys; d=json.load(open(sys.argv[1])); open(sys.argv[2],'w').write(d.get('result') or '')" $3 ${3%.json}.last.md 2>> ${3%.json}.log
 }
@@ -155,8 +167,13 @@ genCall() { # system-prompt-file input output.json
     checkDeadline
     local out=${3%.json}
     { cat $1; print; print -- ---; print; cat $2 } > $out.codex.md
-    codex exec -s read-only --skip-git-repo-check -C $evidence -c model_reasoning_effort=high -o $out.last.md - \
-      < $out.codex.md > $out.log 2>&1
+    while true; do
+      rm -f $out.last.md
+      codex exec -s read-only --skip-git-repo-check -C $evidence -c model_reasoning_effort=high -o $out.last.md - \
+        < $out.codex.md > $out.log 2>&1
+      [[ ! -s $out.last.md ]] && netDown $out.log || break
+      waitForNetwork ${out:t}
+    done
   else
     claudeCall "$@"
   fi
