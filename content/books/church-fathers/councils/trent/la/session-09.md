@@ -1,0 +1,11 @@
+# Sessio IX
+
+*21 apr. 1547*
+
+## Decretum prorogationis sessionis
+
+Haec sacrosancta oecumenica et generalis synodus quae dudum in civitate Tridenti congregata erat nunc Bononiae in Spiritu Sancto legitime congregata praesidentibus in ea nomine sanctissimi in Christo patris et domini nostri domini Pauli divina providentia papae III eisdem reverendissimis dominis Ioanne Maria episcopo Praenestino de Monte et Marcello tituli sanctae crucis in Hierusalem presbytero sanctae Romanae Ecclesiae cardinalibus et apostolicis de latere legatis considerans quod die undecima mensis martii praesentis anni in generali publica sessione in eadem civitate Tridenti et in loco consueto celebrata omnibusque agendis de more peractis ex causis tunc instantibus urgentibus et legitimis interveniente etiam auctoritate sanctae Sedis Apostolicae eiusdem reverendissimis praesidentibus etiam specialiter concessa decrevit et ordinavit concilium ex eo loco in hanc civitatem transferendum esse sicuti transtulit itemque sessionem pro praesenti die vigesima prima aprilis illic indictam (ut de sacramentorum et reformationis materiis de quibus tractandum proposuerat canones sancirentur et promulgarentur) in hac ipsa civitate Bononiae celebrari debere. Consideransque nonnullos ex patribus qui in hoc concilio interesse consueverunt his superioribus maioris ebdomadae et solemnitatis paschalis diebus in propriis ecclesiis occupatos aliquos etiam aliis impedimentis detentos huc nondum accessisse quos tamen brevi affuturos sperandum est ac propterea factum esse ut non ea quam sancta Synodus desiderabat praelatorum frequentia potuerint materiae ipsae sacramentorum et reformationis examinari ac discuti: ut omnia maturo consilio et cum dignitate et gravitate debita fiant bonum opportunum et expediens censuit censetque sessionem praedictam quae hoc ipso die (ut praefertur) celebranda erat ad diem iovis infra octavam penthecostes proxime futuram quoad ipsas materias expediendas differendam et prorogandam esse quemadmodum differt et prorogat.
+
+Quam diem et rei gerendae maxime opportunam et patribus praesertim absentibus percommodam iudicavit et iudicat.
+
+Hoc tamen adiecto quod terminum ipsum ipsa sancta Synodus pro eius arbitrio et voluntate sicuti rebus concilii putaverit expedire etiam in privata congregatione restringere et imminuere possit et valeat.

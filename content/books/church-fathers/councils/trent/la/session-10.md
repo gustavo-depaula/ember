@@ -1,0 +1,7 @@
+# Sessio X
+
+*2 iun. 1547*
+
+## Decretum prorogationis sessionis
+
+Quamvis haec sacrosancta oecumenica et generalis synodus sessionem quae die vigesima prima mensis aprilis proxime praeteriti super sacramentorum et reformationis materiis in hac inclyta civitate Bononiae ex decreto in urbe Tridentina in publica sessione die undecima mensis martii promulgato celebranda erat propter aliquas causas ac praesertim propter absentiam nonnullorum patrum quos brevi affuturos sperabat ad hunc praesentem diem differendam et prorogandam esse censuerit volens tamen cum iis qui non venerunt etiam adhuc benigne agere eadem sacrosancta Synodus in Spiritu Sancto legitime congregata praesidentibus in eadem eisdem sanctae Romanae Ecclesiae cardinalibus et Apostolicae Sedis legatis statuit et decrevit sessionem ipsam quam hac die secunda mensis iunii praesentis anni millesimi quingentesimi quadragesimi septimi celebrare decreverat ad diem iovis post festum nativitatis beatae Mariae virginis quae erit decima quinta mensis septembris proxime futuri quoad praedictas et alias materias expediendas differendam et prorogandam esse quemadmodum differt et prorogat ita tamen quod prosecutio discussionis et examinationis tam eorum quae ad dogmata quam ad reformationem pertinent interim non omittatur et terminum ipsum ipsa sancta Synodus pro eius libito et voluntate etiam in privata congregatione abbreviare et prorogare libere possit et valeat.

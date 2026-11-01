@@ -1,0 +1,230 @@
+{
+  "id": "council-trent",
+  "cover": "quarter",
+  "name": {
+    "la": "Concilium Tridentinum: Canones et Decreta",
+    "en-US": "The Council of Trent (1545–1563): Canons and Decrees",
+    "pt-BR": "Concílio de Trento (1545–1563): Cânones e Decretos"
+  },
+  "author": {
+    "la": "Concilia",
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
+  },
+  "description": {
+    "la": "Canones et decreta sacrosancti oecumenici et generalis Concilii Tridentini, sessionibus I–XXV (1545–1563) sub Paulo III, Iulio III et Pio IV celebratis.",
+    "en-US": "The canons and decrees of the nineteenth ecumenical council, held at Trent (and for a time at Bologna) in twenty-five sessions under Paul III, Julius III and Pius IV: the doctrinal decrees on Scripture and tradition, original sin, justification, the sacraments and the Mass, with their canons, and the decrees of reformation. Latin text with J. Waterworth's English translation of 1848.",
+    "pt-BR": "Os cânones e decretos do décimo nono concílio ecumênico, reunido em Trento em vinte e cinco sessões (1545–1563) sob Paulo III, Júlio III e Pio IV: os decretos doutrinais sobre a Escritura e a tradição, o pecado original, a justificação, os sacramentos e a Missa, com seus cânones, e os decretos de reforma."
+  },
+  "composed": "1545–1563",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "councils/trent",
+  "editions": {
+    "la": {
+      "editor": "Sacrosanctum Concilium Tridentinum (Padua: Manfrè, 1738), as transcribed on Latin Wikisource",
+      "year": 1738
+    },
+    "en-US": {
+      "translator": "J. Waterworth",
+      "year": 1848
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Concilium_Tridentinum",
+      "edition": "Latin Wikisource, Concilium Tridentinum: Canones et Decreta, 1545–1563, whose header names the edition Sacrosanctum Concilium Tridentinum, Patavii: apud Joannem Manfrè, 1738 (scan: https://archive.org/details/bub_gb_R9lFeEQ_eEgC). Wikitext fetched through action=raw.",
+      "description": "Sessions I–XXV, all decrees, canons and reform decrees. The transcription is the plain-punctuation text circulated by Documenta Catholica Omnia (bracketed editorial headings, lowercase deus/dominus in places, hard line breaks). Changes made: line breaks joined into paragraphs (a short line closing a sentence ends a paragraph), bracketed headings turned into markdown headings, and the digitisation's split enclitics rejoined (\"ideo que\" → \"ideoque\", \"placet ne vobis\" → \"placetne vobis\", \"-ve\"). Spelling otherwise as transcribed (e.g. \"pro Dei floria\" in Sess. XXV, an evident typo, is kept). The source omits the acclamations of the Fathers, the confirmation, Pius IV's bull Benedictus Deus and the list of prelates (marked […omissis…] at the end of Sess. XXV), and Paul III's bull of indiction.",
+      "tier": "A",
+      "tierEvidence": "The decrees date from 1545–1563 and the named edition from 1738. Caveat: the transcription's form (bracketed headings, stripped punctuation, the same text as Documenta Catholica Omnia's Canones et Decreta) suggests it derives from the Library of Latin Texts / COD (Bologna 1962) digitisation rather than directly from the 1738 print; if so it is tier B (a critical edition's text of a public-domain work carries at most a neighbouring right that has run out, 20–25 years, and has no original expression of its own; see research/sourcing/councils.md)."
+    },
+    {
+      "language": "en-US",
+      "url": "https://history.hanover.edu/texts/trent/trentall.html",
+      "edition": "J. Waterworth, The Canons and Decrees of the Sacred and Oecumenical Council of Trent, London: C. Dolman, 1848. Hanover Historical Texts Project, scanned by Hanover College students in 1995.",
+      "description": "Complete from Paul III's bull of indiction (1542, placed at the head of Session I) to Pius IV's bull of confirmation (1564, with the acclamations and the attestation of confirmation, at the end of Session XXV). Waterworth's page numbers removed. About 60 scanning errors of the Hanover file corrected against the 1848 printing (archive.org cu31924029369760), e.g. \"maintain a new o be the est penance, as to Fake away\" → \"maintain a new life to be the best penance, as to take away\" (Sess. XIV, ch. 8); the list is in the conversion script's FIXES table. Waterworth's historical essay and notes, which the Hanover file does not carry, are not included.",
+      "tier": "A",
+      "tierEvidence": "Published 1848; James Waterworth died in 1876."
+    }
+  ],
+  "toc": [
+    {
+      "id": "session-01",
+      "title": {
+        "la": "Sessio I",
+        "en-US": "Session I"
+      }
+    },
+    {
+      "id": "session-02",
+      "title": {
+        "la": "Sessio II",
+        "en-US": "Session II"
+      }
+    },
+    {
+      "id": "session-03",
+      "title": {
+        "la": "Sessio III",
+        "en-US": "Session III"
+      }
+    },
+    {
+      "id": "session-04",
+      "title": {
+        "la": "Sessio IV",
+        "en-US": "Session IV"
+      }
+    },
+    {
+      "id": "session-05",
+      "title": {
+        "la": "Sessio V",
+        "en-US": "Session V"
+      }
+    },
+    {
+      "id": "session-06",
+      "title": {
+        "la": "Sessio VI",
+        "en-US": "Session VI"
+      }
+    },
+    {
+      "id": "session-07",
+      "title": {
+        "la": "Sessio VII",
+        "en-US": "Session VII"
+      }
+    },
+    {
+      "id": "session-08",
+      "title": {
+        "la": "Sessio VIII",
+        "en-US": "Session VIII"
+      }
+    },
+    {
+      "id": "session-09",
+      "title": {
+        "la": "Sessio IX",
+        "en-US": "Session IX"
+      }
+    },
+    {
+      "id": "session-10",
+      "title": {
+        "la": "Sessio X",
+        "en-US": "Session X"
+      }
+    },
+    {
+      "id": "session-11",
+      "title": {
+        "la": "Sessio XI",
+        "en-US": "Session XI"
+      }
+    },
+    {
+      "id": "session-12",
+      "title": {
+        "la": "Sessio XII",
+        "en-US": "Session XII"
+      }
+    },
+    {
+      "id": "session-13",
+      "title": {
+        "la": "Sessio XIII",
+        "en-US": "Session XIII"
+      }
+    },
+    {
+      "id": "session-14",
+      "title": {
+        "la": "Sessio XIV",
+        "en-US": "Session XIV"
+      }
+    },
+    {
+      "id": "session-15",
+      "title": {
+        "la": "Sessio XV",
+        "en-US": "Session XV"
+      }
+    },
+    {
+      "id": "session-16",
+      "title": {
+        "la": "Sessio XVI",
+        "en-US": "Session XVI"
+      }
+    },
+    {
+      "id": "session-17",
+      "title": {
+        "la": "Sessio XVII",
+        "en-US": "Session XVII"
+      }
+    },
+    {
+      "id": "session-18",
+      "title": {
+        "la": "Sessio XVIII",
+        "en-US": "Session XVIII"
+      }
+    },
+    {
+      "id": "session-19",
+      "title": {
+        "la": "Sessio XIX",
+        "en-US": "Session XIX"
+      }
+    },
+    {
+      "id": "session-20",
+      "title": {
+        "la": "Sessio XX",
+        "en-US": "Session XX"
+      }
+    },
+    {
+      "id": "session-21",
+      "title": {
+        "la": "Sessio XXI",
+        "en-US": "Session XXI"
+      }
+    },
+    {
+      "id": "session-22",
+      "title": {
+        "la": "Sessio XXII",
+        "en-US": "Session XXII"
+      }
+    },
+    {
+      "id": "session-23",
+      "title": {
+        "la": "Sessio XXIII",
+        "en-US": "Session XXIII"
+      }
+    },
+    {
+      "id": "session-24",
+      "title": {
+        "la": "Sessio XXIV",
+        "en-US": "Session XXIV"
+      }
+    },
+    {
+      "id": "session-25",
+      "title": {
+        "la": "Sessio XXV",
+        "en-US": "Session XXV"
+      }
+    }
+  ]
+}

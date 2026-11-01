@@ -1,0 +1,21 @@
+# Sessio II
+
+*7 ian. 1546*
+
+## Decretum de modo vivendi, et aliis in Concilio servandis
+
+Sacrosancta Tridentina Synodus in Spiritu Sancto legitime congregata in ea praesidentibus eisdem tribus Apostolicae Sedis legatis agnoscens cum beato Iacobo apostolo quod omne datum optimum et omne donum perfectum desursum est descendens a Patre luminum qui iis qui postulant a se sapientiam dat omnibus affluenter et non improperat eis; et simul sciens quod initium sapientiae est timor Domini:
+
+statuit et decrevit omnes et singulos christifideles in civitate Tridentina congregatos exhortandos esse (prout exhortatur) ut se a malis et peccatis hactenus commissis emendare ac de cetero in timore domini ambulare et desideria carnis non perficere orationibus instare saepius confiteri Eucharistiae sacramentum sumere ecclesias frequentare praecepta denique dominica (quantum quisque poterit) adimplere necnon quotidie pro pace principum christianorum et unitate Ecclesiae privatim orare velint; episcopos vero et quoscunque alios in ordine sacerdotali constitutos oecumenicum concilium in ea civitate concelebrantes ut assidue in Dei laudibus incumbere hostias laudes et preces offerre sacrificium Missae quolibet saltem die dominico (in quo Deus lucem condidit et a mortuis resurrexit ac Spiritum Sanctum in discipulos infudit) peragere satagant facientes sicut idem spiritus sanctus per apostolum praecipit obsecrationes orationes postulationes gratiarum actiones pro sanctissimo domino nostro papa pro imperatore pro regibus et ceteris qui in sublimitate constituti sunt et pro omnibus hominibus ut quietam et tranquillam vitam agamus pace fruamur et fidei incrementum videamus.
+
+Praeterea hortatur ut ieiunent saltem singulis sextis feriis in memoriam passionis Domini et eleemosynas pauperibus erogent.
+
+In Ecclesia autem cathedrali singulis quintis feriis celebretur Missa de Spiritu Sancto cum laetaniis et aliis orationibus ad hoc institutis; in aliis vero ecclesiis eadem die dicantur ad minus laetaniae et orationes.
+
+Tempore autem quo sacra peraguntur collocutiones et confabulationes non fiant sed ore et animo celebranti assistatur.
+
+Et quoniam oportet episcopos esse irreprehensibiles sobrios castos domui suae bene praepositos: hortatur etiam ut ante omnia quilibet in mensa servet sobrietatem moderationemque ciborum; deinde cum in eo loco saepe otiosi sermones oriri soleant ut in ipsorum episcoporum mensis divinarum scripturarum lectio admisceatur. Familiares vero suos unusquisque instruat et erudiat ne sint rixosi vinosi impudici cupidi elati blasphemi et voluptatum amatores; vitia demum fugiant et virtutes amplectantur et in vestitu et cultu et omnibus actibus honestatem prae se ferant sicut decet ministros ministrorum Dei.
+
+Ad haec cum huius sacrosancti concilii praecipua cura sollicitudo et intentio sit ut propulsatis haeresum tenebris (quae per tot annos operuerunt terram) catholicae veritatis lux (Iesu Christo qui vera lux est annuente) candor puritasque refulgeat et ea quae reformatione egent reformentur: ipsa synodus hortatur omnes catholicos hic congregatos et congregandos atque eos praesertim qui sacrarum litterarum peritiam habent ut sedula meditatione diligenter se cum ipsi cogitent quibus potissimum viis et modis ipsius synodi intentio dirigi et optatum effectum sortiri possit quo maturius et consultius damnari damnanda et probanda probari queant ut per totum orbem omnes uno ore et eadem fidei confessione glorificent Deum et Patrem Domini nostri Iesu Christi. In sententiis vero dicendis iuxta Toletani concilii statutum in loco benedictionis considentibus domini sacerdotibus nullus debeat aut immodestis vocibus perstrepere aut tumultibus perturbare nullis etiam falsis vanisve aut obstinatis disceptationibus contendere; sed quidquid dicatur sic mitissima verborum prolatione temperetur ut nec audientes offendantur nec recti iudicii acies perturbato animo inflectatur.
+
+Insuper ipsa sacra synodus statuit ac decrevit quod si forte contigerit aliquos debito in loco non sedere et sententiam etiam sub verbo placet proferre congregationibus interesse et alios quoscumque actus facere concilio durante nulli propterea praeiudicium generetur nullique novum ius acquiratur.
