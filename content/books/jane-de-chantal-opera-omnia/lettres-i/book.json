@@ -1,0 +1,2202 @@
+{
+  "id": "chantal-lettres-i",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Lettres, tome I (1606–1621)",
+    "en-US": "Letters, volume I (1606–1621)",
+    "pt-BR": "Cartas, tomo I (1606–1621)"
+  },
+  "author": {
+    "fr-FR": "Sainte Jeanne-Françoise Frémyot de Chantal",
+    "en-US": "St. Jane Frances de Chantal",
+    "pt-BR": "Santa Joana Francisca de Chantal"
+  },
+  "description": {
+    "fr-FR": "Les lettres de sainte Jeanne-Françoise de Chantal, tome I de la correspondance de l’édition Plon (lettres 1 à 361), rangées par ordre chronologique : à saint François de Sales, aux premières Mères de la Visitation, aux Sœurs, à des évêques, des princes et des personnes du monde. Avec les notes et les sommaires des éditeurs.",
+    "en-US": "The letters of St. Jane Frances de Chantal, volume I of the correspondence in the Plon edition (letters 1 to 361), in chronological order: to St. Francis de Sales, the first Mothers of the Visitation, the Sisters, bishops, princes and people in the world. With the editors’ notes and summaries.",
+    "pt-BR": "As cartas de santa Joana Francisca de Chantal, tomo I da correspondência da edição Plon (cartas 1 a 361), em ordem cronológica: a são Francisco de Sales, às primeiras Madres da Visitação, às Irmãs, a bispos, príncipes e pessoas do mundo. Com as notas e os sumários dos editores."
+  },
+  "composed": "1606–1621",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "jane-de-chantal/lettres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses du Premier Monastère de la Visitation d’Annecy",
+      "year": 1877
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/8DSUP48_4",
+      "edition": "Sainte Jeanne-Françoise Frémyot de Chantal, sa vie et ses œuvres, Plon, Paris, 1874–1879 (Édition authentique publiée par les soins des Religieuses du Premier Monastère de la Visitation Sainte-Marie d’Annecy), tome 4: Lettres, tome I. Scan of the Bibliothèque Sainte-Geneviève copy; text from the archive.org OCR.",
+      "description": "OCR text cleaned: running heads and page numbers removed, hyphenation joined, page-bottom notes turned into footnotes. The addressee and the editors’ summary head each letter (the summary in italics). Spelling is that of the 1870s edition. Letters whose number heading the OCR lost are folded into the previous letter, so a few numbers are missing. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Saint Jane de Chantal died in 1641; Plon edition 1877–79; the letters are public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l0001",
+      "title": {
+        "fr-FR": "Lettre 1"
+      }
+    },
+    {
+      "id": "l0002",
+      "title": {
+        "fr-FR": "Lettre 2. À Madame de Boisy"
+      }
+    },
+    {
+      "id": "l0003",
+      "title": {
+        "fr-FR": "Lettre 3"
+      }
+    },
+    {
+      "id": "l0004",
+      "title": {
+        "fr-FR": "Lettre 4. Au Même"
+      }
+    },
+    {
+      "id": "l0005",
+      "title": {
+        "fr-FR": "Lettre 5. À la Sœur Claude-Françoise Roget"
+      }
+    },
+    {
+      "id": "l0006",
+      "title": {
+        "fr-FR": "Lettre 6. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0007",
+      "title": {
+        "fr-FR": "Lettre 7. À Monsieur Legros"
+      }
+    },
+    {
+      "id": "l0008",
+      "title": {
+        "fr-FR": "Lettre 8. Au Duc de Savoie <"
+      }
+    },
+    {
+      "id": "l0009",
+      "title": {
+        "fr-FR": "Lettre 9. À Saixte Jeanne-Françoise de Chantal"
+      }
+    },
+    {
+      "id": "l0010",
+      "title": {
+        "fr-FR": "Lettre 10. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0011",
+      "title": {
+        "fr-FR": "Lettre 11. Au Même"
+      }
+    },
+    {
+      "id": "l0012",
+      "title": {
+        "fr-FR": "Lettre 12. Au Même"
+      }
+    },
+    {
+      "id": "l0013",
+      "title": {
+        "fr-FR": "Lettre 13. Au Même"
+      }
+    },
+    {
+      "id": "l0014",
+      "title": {
+        "fr-FR": "Lettre 14. À Madamk d'Auxerru"
+      }
+    },
+    {
+      "id": "l0015",
+      "title": {
+        "fr-FR": "Lettre 15"
+      }
+    },
+    {
+      "id": "l0016",
+      "title": {
+        "fr-FR": "Lettre 16"
+      }
+    },
+    {
+      "id": "l0017",
+      "title": {
+        "fr-FR": "Lettre 17"
+      }
+    },
+    {
+      "id": "l0018",
+      "title": {
+        "fr-FR": "Lettre 18. Au Même"
+      }
+    },
+    {
+      "id": "l0019",
+      "title": {
+        "fr-FR": "Lettre 19. Au Même"
+      }
+    },
+    {
+      "id": "l0020",
+      "title": {
+        "fr-FR": "Lettre 20. Aux Sœurs du Monastère de la Visitation d'Annecy'"
+      }
+    },
+    {
+      "id": "l0021",
+      "title": {
+        "fr-FR": "Lettre 21. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0022",
+      "title": {
+        "fr-FR": "Lettre 22. À la Même"
+      }
+    },
+    {
+      "id": "l0023",
+      "title": {
+        "fr-FR": "Lettre 23. À la Même"
+      }
+    },
+    {
+      "id": "l0024",
+      "title": {
+        "fr-FR": "Lettre 24. À la Sœur Marie-Marguerite Milletot"
+      }
+    },
+    {
+      "id": "l0025",
+      "title": {
+        "fr-FR": "Lettre 25. À la Sœur Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0026",
+      "title": {
+        "fr-FR": "Lettre 26. À la Mère Jeanne-Charlotte de Bréghard"
+      }
+    },
+    {
+      "id": "l0027",
+      "title": {
+        "fr-FR": "Lettre 27. À la Même"
+      }
+    },
+    {
+      "id": "l0028",
+      "title": {
+        "fr-FR": "Lettre 28. À la Même"
+      }
+    },
+    {
+      "id": "l0029",
+      "title": {
+        "fr-FR": "Lettre 29. À la Sœur Marie-Adrienne Fichet"
+      }
+    },
+    {
+      "id": "l0030",
+      "title": {
+        "fr-FR": "Lettre 30. À la Sœur Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0031",
+      "title": {
+        "fr-FR": "Lettre 31. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0032",
+      "title": {
+        "fr-FR": "Lettre 32. À la Même"
+      }
+    },
+    {
+      "id": "l0033",
+      "title": {
+        "fr-FR": "Lettre 33. À la Même"
+      }
+    },
+    {
+      "id": "l0034",
+      "title": {
+        "fr-FR": "Lettre 34. À Monsieur Michel Favre"
+      }
+    },
+    {
+      "id": "l0035",
+      "title": {
+        "fr-FR": "Lettre 35. Au Même"
+      }
+    },
+    {
+      "id": "l0036",
+      "title": {
+        "fr-FR": "Lettre 36. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0037",
+      "title": {
+        "fr-FR": "Lettre 37. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0038",
+      "title": {
+        "fr-FR": "Lettre 38. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0039",
+      "title": {
+        "fr-FR": "Lettre 39. À la Même"
+      }
+    },
+    {
+      "id": "l0040",
+      "title": {
+        "fr-FR": "Lettre 40. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0041",
+      "title": {
+        "fr-FR": "Lettre 41. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0042",
+      "title": {
+        "fr-FR": "Lettre 42"
+      }
+    },
+    {
+      "id": "l0043",
+      "title": {
+        "fr-FR": "Lettre 43. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0044",
+      "title": {
+        "fr-FR": "Lettre 44. À la Même"
+      }
+    },
+    {
+      "id": "l0045",
+      "title": {
+        "fr-FR": "Lettre 45. À la Même"
+      }
+    },
+    {
+      "id": "l0046",
+      "title": {
+        "fr-FR": "Lettre 46. À la Même"
+      }
+    },
+    {
+      "id": "l0047",
+      "title": {
+        "fr-FR": "Lettre 47. À la Même"
+      }
+    },
+    {
+      "id": "l0048",
+      "title": {
+        "fr-FR": "Lettre 48. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0049",
+      "title": {
+        "fr-FR": "Lettre 49. À la Sœur Marie -Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0050",
+      "title": {
+        "fr-FR": "Lettre 50. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0051",
+      "title": {
+        "fr-FR": "Lettre 51. Aux Sœurs Peronne-Marië de Chatel et Marie-Aimee de Blonay"
+      }
+    },
+    {
+      "id": "l0052",
+      "title": {
+        "fr-FR": "Lettre 52. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0053",
+      "title": {
+        "fr-FR": "Lettre 53. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0054",
+      "title": {
+        "fr-FR": "Lettre 54. Aux Sœurs Péronne-Marie de Chatel et Marie-Aimée de Blomav"
+      }
+    },
+    {
+      "id": "l0055",
+      "title": {
+        "fr-FR": "Lettre 55. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0056",
+      "title": {
+        "fr-FR": "Lettre 56"
+      }
+    },
+    {
+      "id": "l0057",
+      "title": {
+        "fr-FR": "Lettre 57. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0058",
+      "title": {
+        "fr-FR": "Lettre 58. À la Même"
+      }
+    },
+    {
+      "id": "l0059",
+      "title": {
+        "fr-FR": "Lettre 59. À la Même"
+      }
+    },
+    {
+      "id": "l0060",
+      "title": {
+        "fr-FR": "Lettre 60. À la Même"
+      }
+    },
+    {
+      "id": "l0061",
+      "title": {
+        "fr-FR": "Lettre 61. À la Même"
+      }
+    },
+    {
+      "id": "l0062",
+      "title": {
+        "fr-FR": "Lettre 62. Aux Sœurs Péronne-Marie de Chatel et Marie-Aimée du Rlonay"
+      }
+    },
+    {
+      "id": "l0063",
+      "title": {
+        "fr-FR": "Lettre 63. À Monsieur Michel Favre"
+      }
+    },
+    {
+      "id": "l0064",
+      "title": {
+        "fr-FR": "Lettre 64. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0065",
+      "title": {
+        "fr-FR": "Lettre 65. Au Même"
+      }
+    },
+    {
+      "id": "l0066",
+      "title": {
+        "fr-FR": "Lettre 66. Au Même"
+      }
+    },
+    {
+      "id": "l0067",
+      "title": {
+        "fr-FR": "Lettre 67. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0068",
+      "title": {
+        "fr-FR": "Lettre 68. À Monsieur Michel Favre"
+      }
+    },
+    {
+      "id": "l0069",
+      "title": {
+        "fr-FR": "Lettre 69"
+      }
+    },
+    {
+      "id": "l0070",
+      "title": {
+        "fr-FR": "Lettre 70. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0071",
+      "title": {
+        "fr-FR": "Lettre 71. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0072",
+      "title": {
+        "fr-FR": "Lettre 72. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0073",
+      "title": {
+        "fr-FR": "Lettre 73. À la Même"
+      }
+    },
+    {
+      "id": "l0074",
+      "title": {
+        "fr-FR": "Lettre 74. À la Même"
+      }
+    },
+    {
+      "id": "l0075",
+      "title": {
+        "fr-FR": "Lettre 75. À la Même"
+      }
+    },
+    {
+      "id": "l0076",
+      "title": {
+        "fr-FR": "Lettre 76. À Madame de Gouffier '"
+      }
+    },
+    {
+      "id": "l0077",
+      "title": {
+        "fr-FR": "Lettre 77. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0078",
+      "title": {
+        "fr-FR": "Lettre 78. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0079",
+      "title": {
+        "fr-FR": "Lettre 79. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0080",
+      "title": {
+        "fr-FR": "Lettre 80. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0081",
+      "title": {
+        "fr-FR": "Lettre 81"
+      }
+    },
+    {
+      "id": "l0082",
+      "title": {
+        "fr-FR": "Lettre 82. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0083",
+      "title": {
+        "fr-FR": "Lettre 83. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0084",
+      "title": {
+        "fr-FR": "Lettre 84. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0085",
+      "title": {
+        "fr-FR": "Lettre 85. À la Même"
+      }
+    },
+    {
+      "id": "l0086",
+      "title": {
+        "fr-FR": "Lettre 86. À la Même"
+      }
+    },
+    {
+      "id": "l0087",
+      "title": {
+        "fr-FR": "Lettre 87. À Madamk de Gouffieb"
+      }
+    },
+    {
+      "id": "l0088",
+      "title": {
+        "fr-FR": "Lettre 88. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0089",
+      "title": {
+        "fr-FR": "Lettre 89. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0090",
+      "title": {
+        "fr-FR": "Lettre 90. À la Mère Jeanne-Charlotte de Bréghard"
+      }
+    },
+    {
+      "id": "l0091",
+      "title": {
+        "fr-FR": "Lettre 91. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0092",
+      "title": {
+        "fr-FR": "Lettre 92. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0093",
+      "title": {
+        "fr-FR": "Lettre 93. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0094",
+      "title": {
+        "fr-FR": "Lettre 94. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0095",
+      "title": {
+        "fr-FR": "Lettre 95. À la Mère Jeanne-Charlotte de Rréchard"
+      }
+    },
+    {
+      "id": "l0096",
+      "title": {
+        "fr-FR": "Lettre 96. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0097",
+      "title": {
+        "fr-FR": "Lettre 97. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0098",
+      "title": {
+        "fr-FR": "Lettre 98. À la Sœur Marie-Avoye Humbert"
+      }
+    },
+    {
+      "id": "l0099",
+      "title": {
+        "fr-FR": "Lettre 99. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0100",
+      "title": {
+        "fr-FR": "Lettre 100. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0101",
+      "title": {
+        "fr-FR": "Lettre 101. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0102",
+      "title": {
+        "fr-FR": "Lettre 102. À la Même"
+      }
+    },
+    {
+      "id": "l0103",
+      "title": {
+        "fr-FR": "Lettre 103. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0104",
+      "title": {
+        "fr-FR": "Lettre 104. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0105",
+      "title": {
+        "fr-FR": "Lettre 105. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0106",
+      "title": {
+        "fr-FR": "Lettre 106. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0107",
+      "title": {
+        "fr-FR": "Lettre 107. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0108",
+      "title": {
+        "fr-FR": "Lettre 108. À la Même"
+      }
+    },
+    {
+      "id": "l0109",
+      "title": {
+        "fr-FR": "Lettre 109"
+      }
+    },
+    {
+      "id": "l0110",
+      "title": {
+        "fr-FR": "Lettre 110. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0111",
+      "title": {
+        "fr-FR": "Lettre 111. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0112",
+      "title": {
+        "fr-FR": "Lettre 112. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0113",
+      "title": {
+        "fr-FR": "Lettre 113. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0114",
+      "title": {
+        "fr-FR": "Lettre 114. À la Même"
+      }
+    },
+    {
+      "id": "l0115",
+      "title": {
+        "fr-FR": "Lettre 115. À la Même"
+      }
+    },
+    {
+      "id": "l0116",
+      "title": {
+        "fr-FR": "Lettre 116. À la Meme"
+      }
+    },
+    {
+      "id": "l0117",
+      "title": {
+        "fr-FR": "Lettre 117. À la Même"
+      }
+    },
+    {
+      "id": "l0118",
+      "title": {
+        "fr-FR": "Lettre 118. À la Mère Jeanne-Charlotte de Bréghard"
+      }
+    },
+    {
+      "id": "l0119",
+      "title": {
+        "fr-FR": "Lettre 119. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0120",
+      "title": {
+        "fr-FR": "Lettre 120. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0121",
+      "title": {
+        "fr-FR": "Lettre 121. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0122",
+      "title": {
+        "fr-FR": "Lettre 122. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0123",
+      "title": {
+        "fr-FR": "Lettre 123. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0124",
+      "title": {
+        "fr-FR": "Lettre 124. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0125",
+      "title": {
+        "fr-FR": "Lettre 125. À la Même"
+      }
+    },
+    {
+      "id": "l0126",
+      "title": {
+        "fr-FR": "Lettre 126. À M. Dk Xeuchèze"
+      }
+    },
+    {
+      "id": "l0127",
+      "title": {
+        "fr-FR": "Lettre 127. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0128",
+      "title": {
+        "fr-FR": "Lettre 128. À Madame de la Fléchêre"
+      }
+    },
+    {
+      "id": "l0129",
+      "title": {
+        "fr-FR": "Lettre 129"
+      }
+    },
+    {
+      "id": "l0130",
+      "title": {
+        "fr-FR": "Lettre 130. Au Meaie"
+      }
+    },
+    {
+      "id": "l0131",
+      "title": {
+        "fr-FR": "Lettre 131. Au Même"
+      }
+    },
+    {
+      "id": "l0132",
+      "title": {
+        "fr-FR": "Lettre 132. Au Même"
+      }
+    },
+    {
+      "id": "l0133",
+      "title": {
+        "fr-FR": "Lettre 133. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0134",
+      "title": {
+        "fr-FR": "Lettre 134. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0135",
+      "title": {
+        "fr-FR": "Lettre 135. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0136",
+      "title": {
+        "fr-FR": "Lettre 136. À la Même"
+      }
+    },
+    {
+      "id": "l0137",
+      "title": {
+        "fr-FR": "Lettre 137"
+      }
+    },
+    {
+      "id": "l0138",
+      "title": {
+        "fr-FR": "Lettre 138. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0139",
+      "title": {
+        "fr-FR": "Lettre 139. À la Même"
+      }
+    },
+    {
+      "id": "l0140",
+      "title": {
+        "fr-FR": "Lettre 140. À la Sœur Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0141",
+      "title": {
+        "fr-FR": "Lettre 141. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0142",
+      "title": {
+        "fr-FR": "Lettre 142"
+      }
+    },
+    {
+      "id": "l0143",
+      "title": {
+        "fr-FR": "Lettre 143. À M. Michel Favre"
+      }
+    },
+    {
+      "id": "l0144",
+      "title": {
+        "fr-FR": "Lettre 144. À la Sœur Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0145",
+      "title": {
+        "fr-FR": "Lettre 145. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0146",
+      "title": {
+        "fr-FR": "Lettre 146. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0147",
+      "title": {
+        "fr-FR": "Lettre 147. À la Sœur Pacle-Jéroiwyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0148",
+      "title": {
+        "fr-FR": "Lettre 148. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0149",
+      "title": {
+        "fr-FR": "Lettre 149. À la Sœur Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0150",
+      "title": {
+        "fr-FR": "Lettre 150. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0151",
+      "title": {
+        "fr-FR": "Lettre 151. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0152",
+      "title": {
+        "fr-FR": "Lettre 152. À la Même"
+      }
+    },
+    {
+      "id": "l0153",
+      "title": {
+        "fr-FR": "Lettre 153. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0154",
+      "title": {
+        "fr-FR": "Lettre 154. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0155",
+      "title": {
+        "fr-FR": "Lettre 155"
+      }
+    },
+    {
+      "id": "l0156",
+      "title": {
+        "fr-FR": "Lettre 156. À la Même"
+      }
+    },
+    {
+      "id": "l0157",
+      "title": {
+        "fr-FR": "Lettre 157. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0158",
+      "title": {
+        "fr-FR": "Lettre 158. À la Même"
+      }
+    },
+    {
+      "id": "l0159",
+      "title": {
+        "fr-FR": "Lettre 159"
+      }
+    },
+    {
+      "id": "l0160",
+      "title": {
+        "fr-FR": "Lettre 160. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0161",
+      "title": {
+        "fr-FR": "Lettre 161. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0162",
+      "title": {
+        "fr-FR": "Lettre 162. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0163",
+      "title": {
+        "fr-FR": "Lettre 163. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0164",
+      "title": {
+        "fr-FR": "Lettre 164. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0165",
+      "title": {
+        "fr-FR": "Lettre 165. À la Mère Jeanne-Charlotte de Bréghard"
+      }
+    },
+    {
+      "id": "l0166",
+      "title": {
+        "fr-FR": "Lettre 166. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0167",
+      "title": {
+        "fr-FR": "Lettre 167. À Monseigneur l'Archevêque de Bourges"
+      }
+    },
+    {
+      "id": "l0168",
+      "title": {
+        "fr-FR": "Lettre 168. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0169",
+      "title": {
+        "fr-FR": "Lettre 169. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0170",
+      "title": {
+        "fr-FR": "Lettre 170. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l0171",
+      "title": {
+        "fr-FR": "Lettre 171. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0172",
+      "title": {
+        "fr-FR": "Lettre 172. À la Même"
+      }
+    },
+    {
+      "id": "l0173",
+      "title": {
+        "fr-FR": "Lettre 173. Aux Sœurs de la Visitation d'Annecy"
+      }
+    },
+    {
+      "id": "l0174",
+      "title": {
+        "fr-FR": "Lettre 174. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0175",
+      "title": {
+        "fr-FR": "Lettre 175. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0176",
+      "title": {
+        "fr-FR": "Lettre 176. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l0177",
+      "title": {
+        "fr-FR": "Lettre 177. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0178",
+      "title": {
+        "fr-FR": "Lettre 178. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0179",
+      "title": {
+        "fr-FR": "Lettre 179. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0180",
+      "title": {
+        "fr-FR": "Lettre 180"
+      }
+    },
+    {
+      "id": "l0181",
+      "title": {
+        "fr-FR": "Lettre 181. À la Mère Jeanne-Charlotte de Rréchard"
+      }
+    },
+    {
+      "id": "l0182",
+      "title": {
+        "fr-FR": "Lettre 182. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0183",
+      "title": {
+        "fr-FR": "Lettre 183. À la Mère Jeanne-Charlotte de Bréghard"
+      }
+    },
+    {
+      "id": "l0184",
+      "title": {
+        "fr-FR": "Lettre 184. À la Même"
+      }
+    },
+    {
+      "id": "l0185",
+      "title": {
+        "fr-FR": "Lettre 185. À Madame de Charmoisy •"
+      }
+    },
+    {
+      "id": "l0186",
+      "title": {
+        "fr-FR": "Lettre 186. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0187",
+      "title": {
+        "fr-FR": "Lettre 187. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0188",
+      "title": {
+        "fr-FR": "Lettre 188. À la Même"
+      }
+    },
+    {
+      "id": "l0189",
+      "title": {
+        "fr-FR": "Lettre 189. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0190",
+      "title": {
+        "fr-FR": "Lettre 190. À Madame de Jars <"
+      }
+    },
+    {
+      "id": "l0191",
+      "title": {
+        "fr-FR": "Lettre 191. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0192",
+      "title": {
+        "fr-FR": "Lettre 192. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0193",
+      "title": {
+        "fr-FR": "Lettre 193. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0194",
+      "title": {
+        "fr-FR": "Lettre 194. Aux Novices de la Visitation de Bourges"
+      }
+    },
+    {
+      "id": "l0195",
+      "title": {
+        "fr-FR": "Lettre 195. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0196",
+      "title": {
+        "fr-FR": "Lettre 196. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0197",
+      "title": {
+        "fr-FR": "Lettre 197. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0198",
+      "title": {
+        "fr-FR": "Lettre 198. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0199",
+      "title": {
+        "fr-FR": "Lettre 199. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0200",
+      "title": {
+        "fr-FR": "Lettre 200. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0201",
+      "title": {
+        "fr-FR": "Lettre 201. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0202",
+      "title": {
+        "fr-FR": "Lettre 202. À la Révérende Mère de la Trinité"
+      }
+    },
+    {
+      "id": "l0203",
+      "title": {
+        "fr-FR": "Lettre 203. À Madame du Tertre"
+      }
+    },
+    {
+      "id": "l0204",
+      "title": {
+        "fr-FR": "Lettre 204. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0205",
+      "title": {
+        "fr-FR": "Lettre 205. À Madame de Jars"
+      }
+    },
+    {
+      "id": "l0206",
+      "title": {
+        "fr-FR": "Lettre 206. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0207",
+      "title": {
+        "fr-FR": "Lettre 207. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0208",
+      "title": {
+        "fr-FR": "Lettre 208. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0209",
+      "title": {
+        "fr-FR": "Lettre 209. À M. le Collatéral Flocaiîi)"
+      }
+    },
+    {
+      "id": "l0210",
+      "title": {
+        "fr-FR": "Lettre 210. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0211",
+      "title": {
+        "fr-FR": "Lettre 211. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0212",
+      "title": {
+        "fr-FR": "Lettre 212. À la Sœur Marie-Avoye Humbert"
+      }
+    },
+    {
+      "id": "l0213",
+      "title": {
+        "fr-FR": "Lettre 213. Aux Sœurs de la Visitation de Moulins"
+      }
+    },
+    {
+      "id": "l0214",
+      "title": {
+        "fr-FR": "Lettre 214. À la Sœur Françoise-Marguerite Favrot"
+      }
+    },
+    {
+      "id": "l0215",
+      "title": {
+        "fr-FR": "Lettre 215. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0216",
+      "title": {
+        "fr-FR": "Lettre 216. À Madame du Tertre"
+      }
+    },
+    {
+      "id": "l0217",
+      "title": {
+        "fr-FR": "Lettre 217. Aux Sœurs de la Visitation de Moulins"
+      }
+    },
+    {
+      "id": "l0218",
+      "title": {
+        "fr-FR": "Lettre 218. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0219",
+      "title": {
+        "fr-FR": "Lettre 219. À la Même"
+      }
+    },
+    {
+      "id": "l0220",
+      "title": {
+        "fr-FR": "Lettre 220. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0221",
+      "title": {
+        "fr-FR": "Lettre 221. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0222",
+      "title": {
+        "fr-FR": "Lettre 222. À M. Michel Favre"
+      }
+    },
+    {
+      "id": "l0223",
+      "title": {
+        "fr-FR": "Lettre 223. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0225",
+      "title": {
+        "fr-FR": "Lettre 225. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0226",
+      "title": {
+        "fr-FR": "Lettre 226. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0227",
+      "title": {
+        "fr-FR": "Lettre 227. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0228",
+      "title": {
+        "fr-FR": "Lettre 228. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0229",
+      "title": {
+        "fr-FR": "Lettre 229. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0230",
+      "title": {
+        "fr-FR": "Lettre 230. À Madame Dl' Tertrf"
+      }
+    },
+    {
+      "id": "l0231",
+      "title": {
+        "fr-FR": "Lettre 231. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0232",
+      "title": {
+        "fr-FR": "Lettre 232"
+      }
+    },
+    {
+      "id": "l0233",
+      "title": {
+        "fr-FR": "Lettre 233. S.l l'Ille"
+      }
+    },
+    {
+      "id": "l0234",
+      "title": {
+        "fr-FR": "Lettre 234. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0235",
+      "title": {
+        "fr-FR": "Lettre 235. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0236",
+      "title": {
+        "fr-FR": "Lettre 236. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0237",
+      "title": {
+        "fr-FR": "Lettre 237"
+      }
+    },
+    {
+      "id": "l0238",
+      "title": {
+        "fr-FR": "Lettre 238. À Madame du Tertre"
+      }
+    },
+    {
+      "id": "l0239",
+      "title": {
+        "fr-FR": "Lettre 239. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0240",
+      "title": {
+        "fr-FR": "Lettre 240. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0241",
+      "title": {
+        "fr-FR": "Lettre 241. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0242",
+      "title": {
+        "fr-FR": "Lettre 242. À la Sœur Marie-Marthe Legros"
+      }
+    },
+    {
+      "id": "l0243",
+      "title": {
+        "fr-FR": "Lettre 243. Si Pille"
+      }
+    },
+    {
+      "id": "l0244",
+      "title": {
+        "fr-FR": "Lettre 244. À M. Michel Favre"
+      }
+    },
+    {
+      "id": "l0245",
+      "title": {
+        "fr-FR": "Lettre 245. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0246",
+      "title": {
+        "fr-FR": "Lettre 246. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0247",
+      "title": {
+        "fr-FR": "Lettre 247. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0248",
+      "title": {
+        "fr-FR": "Lettre 248. À la Même"
+      }
+    },
+    {
+      "id": "l0249",
+      "title": {
+        "fr-FR": "Lettre 249. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0250",
+      "title": {
+        "fr-FR": "Lettre 250. À Madame du Tertre"
+      }
+    },
+    {
+      "id": "l0251",
+      "title": {
+        "fr-FR": "Lettre 251. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0252",
+      "title": {
+        "fr-FR": "Lettre 252. À Monsieur Michel Favre"
+      }
+    },
+    {
+      "id": "l0253",
+      "title": {
+        "fr-FR": "Lettre 253. À Madame du Tertre"
+      }
+    },
+    {
+      "id": "l0254",
+      "title": {
+        "fr-FR": "Lettre 254. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0255",
+      "title": {
+        "fr-FR": "Lettre 255. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0256",
+      "title": {
+        "fr-FR": "Lettre 256. À la Sœur Marie -Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0257",
+      "title": {
+        "fr-FR": "Lettre 257. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0258",
+      "title": {
+        "fr-FR": "Lettre 258. À la Même"
+      }
+    },
+    {
+      "id": "l0259",
+      "title": {
+        "fr-FR": "Lettre 259. À la Même"
+      }
+    },
+    {
+      "id": "l0260",
+      "title": {
+        "fr-FR": "Lettre 260. À Madame du Tertre"
+      }
+    },
+    {
+      "id": "l0261",
+      "title": {
+        "fr-FR": "Lettre 261. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0262",
+      "title": {
+        "fr-FR": "Lettre 262. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0263",
+      "title": {
+        "fr-FR": "Lettre 263. À la Sœur Marie-Aimee I)!"
+      }
+    },
+    {
+      "id": "l0264",
+      "title": {
+        "fr-FR": "Lettre 264. À la Même"
+      }
+    },
+    {
+      "id": "l0265",
+      "title": {
+        "fr-FR": "Lettre 265. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0266",
+      "title": {
+        "fr-FR": "Lettre 266. À Monsieur de Palierne"
+      }
+    },
+    {
+      "id": "l0267",
+      "title": {
+        "fr-FR": "Lettre 267. À M Ai) a Aie du Tertre"
+      }
+    },
+    {
+      "id": "l0268",
+      "title": {
+        "fr-FR": "Lettre 268. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0269",
+      "title": {
+        "fr-FR": "Lettre 269. À Monsieur de Palierne"
+      }
+    },
+    {
+      "id": "l0270",
+      "title": {
+        "fr-FR": "Lettre 270. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0271",
+      "title": {
+        "fr-FR": "Lettre 271. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0272",
+      "title": {
+        "fr-FR": "Lettre 272. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0273",
+      "title": {
+        "fr-FR": "Lettre 273. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0274",
+      "title": {
+        "fr-FR": "Lettre 274. À Monsieur de Palierne"
+      }
+    },
+    {
+      "id": "l0275",
+      "title": {
+        "fr-FR": "Lettre 275. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0276",
+      "title": {
+        "fr-FR": "Lettre 276. À Madame du Tertre"
+      }
+    },
+    {
+      "id": "l0277",
+      "title": {
+        "fr-FR": "Lettre 277. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0278",
+      "title": {
+        "fr-FR": "Lettre 278. À Monsieur de Palierne"
+      }
+    },
+    {
+      "id": "l0279",
+      "title": {
+        "fr-FR": "Lettre 279. À Madame du Tertre"
+      }
+    },
+    {
+      "id": "l0280",
+      "title": {
+        "fr-FR": "Lettre 280. À la Sœur Marie-Aimée de Morville"
+      }
+    },
+    {
+      "id": "l0281",
+      "title": {
+        "fr-FR": "Lettre 281. À Monsieur de Palierne"
+      }
+    },
+    {
+      "id": "l0282",
+      "title": {
+        "fr-FR": "Lettre 282. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0283",
+      "title": {
+        "fr-FR": "Lettre 283. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0284",
+      "title": {
+        "fr-FR": "Lettre 284. À M. Michel Favre"
+      }
+    },
+    {
+      "id": "l0285",
+      "title": {
+        "fr-FR": "Lettre 285. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0286",
+      "title": {
+        "fr-FR": "Lettre 286. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0287",
+      "title": {
+        "fr-FR": "Lettre 287. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0288",
+      "title": {
+        "fr-FR": "Lettre 288. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0289",
+      "title": {
+        "fr-FR": "Lettre 289. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0290",
+      "title": {
+        "fr-FR": "Lettre 290. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0291",
+      "title": {
+        "fr-FR": "Lettre 291. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0292",
+      "title": {
+        "fr-FR": "Lettre 292. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0293",
+      "title": {
+        "fr-FR": "Lettre 293. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0294",
+      "title": {
+        "fr-FR": "Lettre 294. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0295",
+      "title": {
+        "fr-FR": "Lettre 295. À M. Michel Favre"
+      }
+    },
+    {
+      "id": "l0296",
+      "title": {
+        "fr-FR": "Lettre 296. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0297",
+      "title": {
+        "fr-FR": "Lettre 297. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0298",
+      "title": {
+        "fr-FR": "Lettre 298. À la Sœur Françoise-Marguerite Favrot"
+      }
+    },
+    {
+      "id": "l0299",
+      "title": {
+        "fr-FR": "Lettre 299. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0300",
+      "title": {
+        "fr-FR": "Lettre 300. À la Sœur Marie-Marthe Legros"
+      }
+    },
+    {
+      "id": "l0301",
+      "title": {
+        "fr-FR": "Lettre 301. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0302",
+      "title": {
+        "fr-FR": "Lettre 302. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0303",
+      "title": {
+        "fr-FR": "Lettre 303. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0304",
+      "title": {
+        "fr-FR": "Lettre 304. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l0305",
+      "title": {
+        "fr-FR": "Lettre 305. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0306",
+      "title": {
+        "fr-FR": "Lettre 306. À la Sœur Marie-Aimée de Morville"
+      }
+    },
+    {
+      "id": "l0307",
+      "title": {
+        "fr-FR": "Lettre 307. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0308",
+      "title": {
+        "fr-FR": "Lettre 308. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0309",
+      "title": {
+        "fr-FR": "Lettre 309. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0310",
+      "title": {
+        "fr-FR": "Lettre 310. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0311",
+      "title": {
+        "fr-FR": "Lettre 311. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0312",
+      "title": {
+        "fr-FR": "Lettre 312. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0313",
+      "title": {
+        "fr-FR": "Lettre 313. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0314",
+      "title": {
+        "fr-FR": "Lettre 314. À la Sœur Françoise-Marguerite Favrot"
+      }
+    },
+    {
+      "id": "l0315",
+      "title": {
+        "fr-FR": "Lettre 315. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0316",
+      "title": {
+        "fr-FR": "Lettre 316. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0317",
+      "title": {
+        "fr-FR": "Lettre 317. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0318",
+      "title": {
+        "fr-FR": "Lettre 318. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l0319",
+      "title": {
+        "fr-FR": "Lettre 319. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0320",
+      "title": {
+        "fr-FR": "Lettre 320. À la Sœur Marie -Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0321",
+      "title": {
+        "fr-FR": "Lettre 321. À la Même"
+      }
+    },
+    {
+      "id": "l0322",
+      "title": {
+        "fr-FR": "Lettre 322. À la Sœur Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0323",
+      "title": {
+        "fr-FR": "Lettre 323. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0324",
+      "title": {
+        "fr-FR": "Lettre 324. À la Sœur Krancoise-Gabrielle Ballv"
+      }
+    },
+    {
+      "id": "l0325",
+      "title": {
+        "fr-FR": "Lettre 325. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0326",
+      "title": {
+        "fr-FR": "Lettre 326. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0327",
+      "title": {
+        "fr-FR": "Lettre 327. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0328",
+      "title": {
+        "fr-FR": "Lettre 328. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0329",
+      "title": {
+        "fr-FR": "Lettre 329. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l0330",
+      "title": {
+        "fr-FR": "Lettre 330. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0331",
+      "title": {
+        "fr-FR": "Lettre 331. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0332",
+      "title": {
+        "fr-FR": "Lettre 332. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0333",
+      "title": {
+        "fr-FR": "Lettre 333. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0334",
+      "title": {
+        "fr-FR": "Lettre 334"
+      }
+    },
+    {
+      "id": "l0335",
+      "title": {
+        "fr-FR": "Lettre 335. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0336",
+      "title": {
+        "fr-FR": "Lettre 336. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0337",
+      "title": {
+        "fr-FR": "Lettre 337. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0338",
+      "title": {
+        "fr-FR": "Lettre 338. À Madame de Tol'Lonjon"
+      }
+    },
+    {
+      "id": "l0339",
+      "title": {
+        "fr-FR": "Lettre 339. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0340",
+      "title": {
+        "fr-FR": "Lettre 340. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0341",
+      "title": {
+        "fr-FR": "Lettre 341. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0342",
+      "title": {
+        "fr-FR": "Lettre 342. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0343",
+      "title": {
+        "fr-FR": "Lettre 343. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0344",
+      "title": {
+        "fr-FR": "Lettre 344"
+      }
+    },
+    {
+      "id": "l0345",
+      "title": {
+        "fr-FR": "Lettre 345. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0346",
+      "title": {
+        "fr-FR": "Lettre 346. À la Sœur Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0347",
+      "title": {
+        "fr-FR": "Lettre 347. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0348",
+      "title": {
+        "fr-FR": "Lettre 348. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0349",
+      "title": {
+        "fr-FR": "Lettre 349. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0350",
+      "title": {
+        "fr-FR": "Lettre 350. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0351",
+      "title": {
+        "fr-FR": "Lettre 351. À M. Michel Favre"
+      }
+    },
+    {
+      "id": "l0352",
+      "title": {
+        "fr-FR": "Lettre 352. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0353",
+      "title": {
+        "fr-FR": "Lettre 353. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l0354",
+      "title": {
+        "fr-FR": "Lettre 354"
+      }
+    },
+    {
+      "id": "l0355",
+      "title": {
+        "fr-FR": "Lettre 355. À la Sœur Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0356",
+      "title": {
+        "fr-FR": "Lettre 356. À Saint François de Sales"
+      }
+    },
+    {
+      "id": "l0357",
+      "title": {
+        "fr-FR": "Lettre 357. À Madame de la Fléchére"
+      }
+    },
+    {
+      "id": "l0358",
+      "title": {
+        "fr-FR": "Lettre 358. À Madame de Toulonjon"
+      }
+    },
+    {
+      "id": "l0359",
+      "title": {
+        "fr-FR": "Lettre 359. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0360",
+      "title": {
+        "fr-FR": "Lettre 360. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0361",
+      "title": {
+        "fr-FR": "Lettre 361. À la Sœur Marie-Aimée de Blonay"
+      }
+    }
+  ]
+}
