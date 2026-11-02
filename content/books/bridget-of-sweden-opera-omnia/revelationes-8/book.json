@@ -13,18 +13,23 @@
   },
   "description": {
     "la": "Liber celestis imperatoris ad reges: reuelaciones ad reges et principes, cum Epistola solitarii (Alphonsi Pecha) de examine visionum.",
-    "en-US": "The Heavenly Emperor's Book to Kings: revelations for kings and princes, preceded by the Epistola solitarii (Alfonso of Jaén) on the discernment of visions.",
+    "en-US": "The Heavenly Emperor's Book to Kings: revelations for kings and princes, preceded by the Epistola solitarii (Alfonso of Jaén) on the discernment of visions. The Latin is the SSFS critical text; the English (anonymous, from catholic-saints.net) covers only the few chapters it contains.",
     "pt-BR": "O Livro do Imperador Celeste aos reis: revelações para reis e príncipes, precedido da Epístola do solitário (Afonso de Jaén) sobre o discernimento das visões."
   },
   "composed": "c. 1344-1373",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "bridget-of-sweden/revelationes-8",
   "editions": {
     "la": {
       "editor": "Hans Aili (Svenska fornskriftsällskapet critical edition)",
       "year": 2002
+    },
+    "en-US": {
+      "translator": "Anonymous (catholic-saints.net)",
+      "year": 2013
     }
   },
   "sources": [
@@ -35,6 +40,14 @@
       "description": "Word-file transcription distributed by Documenta Catholica Omnia (also circulated as the Riksarkivet CRB texts), book \"VIII\". Cleaned by research/sourcing/_scripts/bridget_build.py: drop-cap braces and stray quotes removed, hyperlink artefacts removed, the edition's inline verse numbers dropped (paragraphs break at verse boundaries), chapter rubrics kept in italics under each heading.",
       "tier": "B",
       "tierEvidence": "Freely distributed online transcription of a medieval text."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/the-prophecies-and-revelations-of-saint-bridget-of-sweden",
+      "edition": "The Prophecies and Revelations of Saint Bridget of Sweden, texts from www.Catholic-Saints.net (Jazzybee Verlag, 2013); translator not named.",
+      "description": "OCR of the ebook text, paragraphs rejoined across page breaks and line-end hyphens closed; each chapter keeps its rubric in italics. ",
+      "tier": "B",
+      "tierEvidence": "Distributed freely online under a Creative Commons Attribution-ShareAlike licence."
     }
   ],
   "toc": [
@@ -329,7 +342,8 @@
     {
       "id": "c048",
       "title": {
-        "la": "Caput 48"
+        "la": "Caput 48",
+        "en-US": "Chapter 48"
       }
     },
     {
@@ -377,7 +391,8 @@
     {
       "id": "c056",
       "title": {
-        "la": "Caput 56"
+        "la": "Caput 56",
+        "en-US": "Chapter 56"
       }
     },
     {
