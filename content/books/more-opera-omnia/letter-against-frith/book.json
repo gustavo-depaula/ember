@@ -1,0 +1,51 @@
+{
+  "id": "more-letter-against-frith",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Letter against Frith",
+    "pt-BR": "Carta contra Frith"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "More's letter of 1533 against John Frith's denial of the Real Presence and of purgatory.",
+    "pt-BR": "A carta de More (1533) contra a negação da Presença Real e do purgatório por John Frith."
+  },
+  "composed": 1533,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/letter-against-frith",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More (London: William Rastell, 1533)",
+      "year": 1533
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A07704",
+      "edition": "A letter of syr Tho. More knyght impugnynge the erronyouse writyng of Johan Fryth, EEBO-TCP A07704.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 22 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1533 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Chapter 2"
+      }
+    }
+  ]
+}

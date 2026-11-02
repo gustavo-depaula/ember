@@ -1,0 +1,21 @@
+{
+ "id": "more-letter-against-frith",
+ "dir": "more-opera-omnia/letter-against-frith",
+ "slug": "letter-against-frith",
+ "work": "more/letter-against-frith",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A07704.xml",
+ "name": "A Letter against Frith",
+ "name_pt": "Carta contra Frith",
+ "desc": "More's letter of 1533 against John Frith's denial of the Real Presence and of purgatory.",
+ "desc_pt": "A carta de More (1533) contra a negação da Presença Real e do purgatório por John Frith.",
+ "composed": 1533,
+ "editor": "Thomas More (London: William Rastell, 1533)",
+ "year": 1533,
+ "url": "https://github.com/textcreationpartnership/A07704",
+ "edition": "A letter of syr Tho. More knyght impugnynge the erronyouse writyng of Johan Fryth, EEBO-TCP A07704.",
+ "front": true,
+ "parts": true
+}
