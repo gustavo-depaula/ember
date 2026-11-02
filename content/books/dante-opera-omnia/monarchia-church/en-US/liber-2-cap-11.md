@@ -6,15 +6,7 @@ For first of all, when a quarrel arose about the settling in Italy of Father Æn
 
 Again, when two peoples had grown up in Italy, both sprung from the Trojan stem, namely, the Romans and the Albans, and they had long striven whose should be the sign of the eagle,[^269] and the Penates of Troy, and the honours of empire; at last by mutual consent, in order to have certain knowledge of the case in hand, the three Horatii, who were brethren, and the three Curatii, who were also brethren, fought together before the kings and all the people anxiously waiting on either side; and since the three Alban champions were killed, while one Roman survived, the palm of victory fell to the Romans, in the reign of Hostilius the king. This story has been diligently put together by Livy, in the first part of his history, and Orosius also gives similar testimony.[^270]
 
-Next they fought for empire with their neighbours the Sabines and Samnites, as Livy tells us; all the laws of war were kept; and though those who fought were very many in number, the war was in the form of a combat between man and man. In the contest with the Samnites, Fortune nearly repented her of what she had begun, as Lucan instances in the second book of his *Pharsalia*:[^271] "How many companies lay dead by the Colline gate then, when the headship of the world and universal empire well-nigh were transferred to other seats, and the Samnite heaped the corpses of Rome beyond the numbers[^272] of the Caudine Forks."
-
-[Footnote 272:
-
-"Romanaque Samnis Ultra Caudinas superavit vulnera furcas."
-
-Another reading is "speravit."]
-
-But after that the intestine quarrels of Italy had ceased, and while the issue of the strife with Greece and Carthage was not yet made certain by the judgment of God--for both Greece and Carthage aimed at empire--then Fabricius for Rome, and Pyrrhus for Greece, fought with vast hosts for the glory of empire, and Rome gained the day. And when Scipio for Rome, and Hannibal for Carthage, fought man to man, the Africans fell before the Italians, as Livy and all the other Roman historians strive to tell.
+Next they fought for empire with their neighbours the Sabines and Samnites, as Livy tells us; all the laws of war were kept; and though those who fought were very many in number, the war was in the form of a combat between man and man. In the contest with the Samnites, Fortune nearly repented her of what she had begun, as Lucan instances in the second book of his *Pharsalia*:[^271] "How many companies lay dead by the Colline gate then, when the headship of the world and universal empire well-nigh were transferred to other seats, and the Samnite heaped the corpses of Rome beyond the numbers[^272] of the Caudine Forks." But after that the intestine quarrels of Italy had ceased, and while the issue of the strife with Greece and Carthage was not yet made certain by the judgment of God--for both Greece and Carthage aimed at empire--then Fabricius for Rome, and Pyrrhus for Greece, fought with vast hosts for the glory of empire, and Rome gained the day. And when Scipio for Rome, and Hannibal for Carthage, fought man to man, the Africans fell before the Italians, as Livy and all the other Roman historians strive to tell.
 
 Who then is so dull of understanding as not to see that this glorious people has won the crown of all the world, by the decision of combat? Surely the Roman may repeat Paul's words to Timothy: "There is laid up for me a crown of righteousness," laid up, that is, in the eternal providence of God. Let, then, the presumptuous Jurists see how far they stand below that watch-tower of reason whence the mind of man regards these principles: and let them be silent, content to show forth counsel and judgment according to the meaning of the law.
 
@@ -25,3 +17,5 @@ It has now become manifest that it was by combat of man against man that the Rom
 [^270]: Liv. i. 24; Oros. ii. 4.
 
 [^271]: II. 135.
+
+[^272]: "Romanaque Samnis Ultra Caudinas superavit vulnera furcas." Another reading is "speravit."
