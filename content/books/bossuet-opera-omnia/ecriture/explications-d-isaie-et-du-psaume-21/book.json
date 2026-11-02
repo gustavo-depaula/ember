@@ -1,0 +1,154 @@
+{
+  "id": "bossuet-explications-d-isaie-et-du-psaume-21",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Explication de la prophétie d’Isaïe sur l’enfantement de la Vierge et du psaume XXI",
+    "en-US": "Explanation of Isaiah’s Prophecy of the Virgin’s Childbearing and of Psalm 21",
+    "pt-BR": "Explicação da profecia de Isaías sobre o parto da Virgem e do salmo 21"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Trois lettres sur la prophétie d’Isaïe (« Voici que la Vierge concevra ») contre l’interprétation juive et socinienne, et l’explication littérale du psaume XXI sur la Passion et le délaissement du Christ, avec une traduction d’après l’hébreu et les Septante. Édition Lachat (1862).",
+    "en-US": "Three letters on Isaiah’s prophecy (“Behold, a virgin shall conceive”) against the Jewish and Socinian interpretation, and the literal explanation of Psalm 21 on the Passion and the abandonment of Christ, with a translation from the Hebrew and the Septuagint. Lachat edition (1862).",
+    "pt-BR": "Três cartas sobre a profecia de Isaías («Eis que a Virgem conceberá») contra a interpretação judaica e sociniana, e a explicação literal do salmo 21 sobre a Paixão e o abandono de Cristo, com tradução segundo o hebraico e a Septuaginta. Edição Lachat (1862)."
+  },
+  "composed": "1690",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/explications-d-isaie-et-du-psaume-21",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume002/001.htm, 003.htm, 004.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume II, pages 001, 003, 004. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques-historiques",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "isaie",
+      "title": {
+        "fr-FR": "Explication de la prophétie d’Isaïe sur l’enfantement de la sainte Vierge"
+      },
+      "children": [
+        {
+          "id": "lettre-0",
+          "title": {
+            "fr-FR": "Explication de la prophétie d’Isaïe sur l’enfantement de la sainte Vierge"
+          }
+        },
+        {
+          "id": "lettre-001",
+          "title": {
+            "fr-FR": "Premiere lettre"
+          }
+        },
+        {
+          "id": "lettre-002",
+          "title": {
+            "fr-FR": "Seconde lettre"
+          }
+        },
+        {
+          "id": "lettre-003",
+          "title": {
+            "fr-FR": "Troisieme lettre"
+          }
+        }
+      ]
+    },
+    {
+      "id": "psaume-21",
+      "title": {
+        "fr-FR": "Explication littérale du psaume XXI sur la Passion et le délaissement de Notre-Seigneur"
+      },
+      "children": [
+        {
+          "id": "section-001",
+          "title": {
+            "fr-FR": "§ I. Remarques préliminaires, où l'on présuppose quelques vérités constantes"
+          }
+        },
+        {
+          "id": "section-002",
+          "title": {
+            "fr-FR": "§ II. On met aux fidèles la clef de la prophétie à la main"
+          }
+        },
+        {
+          "id": "section-003",
+          "title": {
+            "fr-FR": "§ III. On va au-devant de quelques objections"
+          }
+        },
+        {
+          "id": "section-004",
+          "title": {
+            "fr-FR": "Traduction du psaume xxi selon l'hébreu et les septante"
+          }
+        },
+        {
+          "id": "section-005",
+          "title": {
+            "fr-FR": "§ IV"
+          }
+        },
+        {
+          "id": "section-006",
+          "title": {
+            "fr-FR": "§ V. Observations sur les textes"
+          }
+        },
+        {
+          "id": "section-007",
+          "title": {
+            "fr-FR": "§ VI. Explication du Psaume XXI selon saint Jérôme, et sa division en deux parties"
+          }
+        },
+        {
+          "id": "section-008",
+          "title": {
+            "fr-FR": "§ VII. Première partie du Psaume, où est exprimé le délaissement de Jésus-Christ"
+          }
+        },
+        {
+          "id": "section-009",
+          "title": {
+            "fr-FR": "§ viii. Seconde partie du Psaume: Jésus-Christ invoque Dieu de nouveau: à ce coup il est écouté: il ressuscite et convertit les Gentils"
+          }
+        },
+        {
+          "id": "section-010",
+          "title": {
+            "fr-FR": "§ IX. Différence des Septante d'avec l'hébreu"
+          }
+        },
+        {
+          "id": "section-011",
+          "title": {
+            "fr-FR": "§ X. Réflexion sur le délaissement de Jésus-Christ"
+          }
+        }
+      ]
+    }
+  ]
+}
