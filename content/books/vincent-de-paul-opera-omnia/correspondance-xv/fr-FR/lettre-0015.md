@@ -1,0 +1,3 @@
+# Lettre 15. À Louise de Marillac
+
+La lettre n° 370 de l’édition Coste (t. I, p. 555-556), adressée à Louise de Marillac vers 1638, a été publiée par Coste d’après l’édition Pémartin (1880), t, II, p. 3. Depuis, l’original de cette lettre a été retrouvé (1942) à l’hôpital de Tarbes, desservi par les Filles de la Charité. Le texte conforme à l’original a été publié dans les *Annales de la Congrégation de la Mission *1941-1942, p. 559. Les différences avec le texte Pémartin-Coste sont insignifiantes, c’est pourquoi nous n’estimons pas utile de reproduire ici ce texte. Une photographie de cette pièce figure dans les Archives de la Mission.

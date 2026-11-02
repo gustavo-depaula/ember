@@ -1,0 +1,3 @@
+# Lettre 64. Aux Administrateurs du Grand Hôpital du Mans
+
+Cette lettre est donnée dans l’édition Coste (lettre n° 1333, t. IV, p. 164) d’après l’édition Pémartin (lettre n° 780, t. II, p. 319). L’original qu’a vraisemblablement vu Pémartin est perdu. Antérieurement à l’édition Pémartin, cet original a été inséré dans J.L.A.M. Lochet. *Saint Vincent de Paul et ses institutions dans le Maine. *(Angers, 1859), p. 77-78. Les *Annales de la C.M. *(1951, p. 377-378) reproduisent ce texte avec son orthographe. Notons en passant que le texte de Pémartin est fidèle, pour une fois on est heureux de le constater.

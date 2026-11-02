@@ -1,0 +1,1075 @@
+{
+  "id": "vincent-correspondance-xv",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres inédites de saint Vincent de Paul (Mission et Charité, 1970)",
+    "en-US": "Unpublished Letters of St. Vincent de Paul (Mission et Charité, 1970)",
+    "pt-BR": "Cartas inéditas de São Vicente de Paulo (Mission et Charité, 1970)"
+  },
+  "author": {
+    "fr-FR": "Saint Vincent de Paul",
+    "en-US": "St. Vincent de Paul",
+    "pt-BR": "São Vicente de Paulo"
+  },
+  "description": {
+    "fr-FR": "Les lettres inédites de saint Vincent publiées dans Mission et Charité nos 19-20 (janvier-juin 1970), présentées comme « tome XV » de l’édition de Pierre Coste : lettres de Vincent et à Vincent, avec les notes de l’éditeur.",
+    "en-US": "Letters 1 to 144 of St. Vincent’s Correspondence, vol. XV of Pierre Coste’s edition (1630-1660), one letter per chapter and grouped by year, with the letters addressed to Vincent that Coste interleaves, his source notices and notes.",
+    "pt-BR": "As cartas 1 a 144 da Correspondência de São Vicente, tomo XV da edição de Pierre Coste (1630-1660)."
+  },
+  "composed": "1630-1660",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "vincent-de-paul/correspondance-xv",
+  "editions": {
+    "fr-FR": {
+      "editor": "Mission et Charité (Congrégation de la Mission)",
+      "year": 1970
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/vincent_de_paul.html",
+      "edition": "Lettres inédites de saint Vincent, Mission et Charité nos 19-20, janvier-juin 1970 (presented as tome XV of Coste’s edition); digital edition by P. Claude Lautissier C.M. and the Daughters of Charity on JesusMarie.com.",
+      "description": "All letters of the tome, one per chapter, including the letters to Vincent that Coste prints among them, with Coste’s source notices and footnotes kept as notes. Coste’s introduction is not included; letters whose heading the transcription lost stay inside the preceding chapter.",
+      "tier": "B",
+      "tierEvidence": "Freely distributed on JesusMarie.com; the underlying letters are by Vincent (d. 1660) and the editorial notes are those of the 1970 issue."
+    }
+  ],
+  "toc": [
+    {
+      "id": "groupe-01",
+      "title": {
+        "fr-FR": "Année 1630"
+      },
+      "children": [
+        {
+          "id": "lettre-0001",
+          "title": {
+            "fr-FR": "Lettre 1. Lettre de G. Pluyette à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0002",
+          "title": {
+            "fr-FR": "Lettre 2. Lettre de G. Pluyette à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0003",
+          "title": {
+            "fr-FR": "Lettre 3. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0004",
+          "title": {
+            "fr-FR": "Lettre 4. Lettre de G. Pluyette à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0005",
+          "title": {
+            "fr-FR": "Lettre 5. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-02",
+      "title": {
+        "fr-FR": "Année 1631"
+      },
+      "children": [
+        {
+          "id": "lettre-0006",
+          "title": {
+            "fr-FR": "Lettre 6. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0007",
+          "title": {
+            "fr-FR": "Lettre 7. Lettre de G. Pluyette à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0008",
+          "title": {
+            "fr-FR": "Lettre 8. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0009",
+          "title": {
+            "fr-FR": "Lettre 9. Lettre Dedicatoire de R. Dognoni à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0010",
+          "title": {
+            "fr-FR": "Lettre 10. À la Sœur Helene-Angélique Lhuillier"
+          }
+        },
+        {
+          "id": "lettre-0011",
+          "title": {
+            "fr-FR": "Lettre 11. À M. de Montholon"
+          }
+        },
+        {
+          "id": "lettre-0012",
+          "title": {
+            "fr-FR": "Lettre 12. Lettre de M. Colombet (1) à Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-03",
+      "title": {
+        "fr-FR": "Année 1637"
+      },
+      "children": [
+        {
+          "id": "lettre-0013",
+          "title": {
+            "fr-FR": "Lettre 13. * J.-J. Olier à Saint Vincent*"
+          }
+        },
+        {
+          "id": "lettre-0014",
+          "title": {
+            "fr-FR": "Lettre 14. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0015",
+          "title": {
+            "fr-FR": "Lettre 15. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-04",
+      "title": {
+        "fr-FR": "Année 1638"
+      },
+      "children": [
+        {
+          "id": "lettre-0016",
+          "title": {
+            "fr-FR": "Lettre 16. À François du Festel"
+          }
+        },
+        {
+          "id": "lettre-0017",
+          "title": {
+            "fr-FR": "Lettre 17. Lettre de G.pluyette à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0018",
+          "title": {
+            "fr-FR": "Lettre 18. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0019",
+          "title": {
+            "fr-FR": "Lettre 19. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-05",
+      "title": {
+        "fr-FR": "Année 1639"
+      },
+      "children": [
+        {
+          "id": "lettre-0020",
+          "title": {
+            "fr-FR": "Lettre 20. À la Communauté de Saint-Nicolas-du-Chardonnet"
+          }
+        },
+        {
+          "id": "lettre-0021",
+          "title": {
+            "fr-FR": "Lettre 21. Guillaume Compaing à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0022",
+          "title": {
+            "fr-FR": "Lettre 22. À N *"
+          }
+        },
+        {
+          "id": "lettre-0023",
+          "title": {
+            "fr-FR": "Lettre 23. Au Frère Jean Duhamel, Diacre"
+          }
+        },
+        {
+          "id": "lettre-0024",
+          "title": {
+            "fr-FR": "Lettre 24. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0025",
+          "title": {
+            "fr-FR": "Lettre 25. Lettre de G. Pluyette à Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-06",
+      "title": {
+        "fr-FR": "Année 1641"
+      },
+      "children": [
+        {
+          "id": "lettre-0026",
+          "title": {
+            "fr-FR": "Lettre 26. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0027",
+          "title": {
+            "fr-FR": "Lettre 27. À Sainte Jeanne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0028",
+          "title": {
+            "fr-FR": "Lettre 28. À Sylvestre de Crusy de Marcillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-07",
+      "title": {
+        "fr-FR": "Année 1642"
+      },
+      "children": [
+        {
+          "id": "lettre-0029",
+          "title": {
+            "fr-FR": "Lettre 29. À Bernard Codoing"
+          }
+        },
+        {
+          "id": "lettre-0030",
+          "title": {
+            "fr-FR": "Lettre 30. À Jacques Chiroye"
+          }
+        },
+        {
+          "id": "lettre-0031",
+          "title": {
+            "fr-FR": "Lettre 31. À François du Festel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-08",
+      "title": {
+        "fr-FR": "Année 1643"
+      },
+      "children": [
+        {
+          "id": "lettre-0032",
+          "title": {
+            "fr-FR": "Lettre 32. Frère Mathieu Regnard à M. Vincent"
+          }
+        },
+        {
+          "id": "lettre-0033",
+          "title": {
+            "fr-FR": "Lettre 33. À Bernard Codoing"
+          }
+        },
+        {
+          "id": "lettre-0034",
+          "title": {
+            "fr-FR": "Lettre 34. À François du Festel"
+          }
+        },
+        {
+          "id": "lettre-0035",
+          "title": {
+            "fr-FR": "Lettre 35. À Bernard Codoing,"
+          }
+        },
+        {
+          "id": "lettre-0036",
+          "title": {
+            "fr-FR": "Lettre 36. Lettre de Saint Vincent — Aux Prêtres de la Mission de Marseille"
+          }
+        },
+        {
+          "id": "lettre-0037",
+          "title": {
+            "fr-FR": "Lettre 37. À Bernard Codoing,"
+          }
+        },
+        {
+          "id": "lettre-0038",
+          "title": {
+            "fr-FR": "Lettre 38. Lettre du Père Félicien à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0039",
+          "title": {
+            "fr-FR": "Lettre 39. Lettre Adressée à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0040",
+          "title": {
+            "fr-FR": "Lettre 40. À Bernard Codoing,"
+          }
+        },
+        {
+          "id": "lettre-0041",
+          "title": {
+            "fr-FR": "Lettre 41. *lettre du Marquis de Fabert*"
+          }
+        },
+        {
+          "id": "lettre-0042",
+          "title": {
+            "fr-FR": "Lettre 42. Lettre du Chevalier Simiane de la Coste — À Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-09",
+      "title": {
+        "fr-FR": "Année 1644"
+      },
+      "children": [
+        {
+          "id": "lettre-0043",
+          "title": {
+            "fr-FR": "Lettre 43. Lettre à Antoine Portail (1),"
+          }
+        },
+        {
+          "id": "lettre-0044",
+          "title": {
+            "fr-FR": "Lettre 44. À Antoine Portail, Prêtre de la Mission à St Lazare"
+          }
+        },
+        {
+          "id": "lettre-0045",
+          "title": {
+            "fr-FR": "Lettre 45. A ANTOINE PORTAIL, Prêtre de la Mission, a Saint-Lazare"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-10",
+      "title": {
+        "fr-FR": "Année 1646"
+      },
+      "children": [
+        {
+          "id": "lettre-0046",
+          "title": {
+            "fr-FR": "Lettre 46. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0047",
+          "title": {
+            "fr-FR": "Lettre 47. À Guillaume Delattre (1),"
+          }
+        },
+        {
+          "id": "lettre-0048",
+          "title": {
+            "fr-FR": "Lettre 48. À Boniface Nouelly (1),"
+          }
+        },
+        {
+          "id": "lettre-0049",
+          "title": {
+            "fr-FR": "Lettre 49. À Jean de Horgny,"
+          }
+        },
+        {
+          "id": "lettre-0050",
+          "title": {
+            "fr-FR": "Lettre 50. À Guillaume Delville (1),"
+          }
+        },
+        {
+          "id": "lettre-0051",
+          "title": {
+            "fr-FR": "Lettre 51. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0052",
+          "title": {
+            "fr-FR": "Lettre 52. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0053",
+          "title": {
+            "fr-FR": "Lettre 53. Lettre Dedicatoire — De Charles Aubert (1) à Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-11",
+      "title": {
+        "fr-FR": "Année 1647"
+      },
+      "children": [
+        {
+          "id": "lettre-0054",
+          "title": {
+            "fr-FR": "Lettre 54. A JEAN-FRANÇOIS DE GONDI, Archevêque de Paris"
+          }
+        },
+        {
+          "id": "lettre-0055",
+          "title": {
+            "fr-FR": "Lettre 55. LETTRE *(de Pluyette) *A JEAN DEHORGNY, Prêtre de la Mission"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-12",
+      "title": {
+        "fr-FR": "Année 1648"
+      },
+      "children": [
+        {
+          "id": "lettre-0056",
+          "title": {
+            "fr-FR": "Lettre 56. Lettre Dédicataire — De J.-B. de la Place (1) à Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-13",
+      "title": {
+        "fr-FR": "Année 1649"
+      },
+      "children": [
+        {
+          "id": "lettre-0057",
+          "title": {
+            "fr-FR": "Lettre 57. À Lambert aux Couteaux (1),"
+          }
+        },
+        {
+          "id": "lettre-0058",
+          "title": {
+            "fr-FR": "Lettre 58. Lettre de M. Martin Levasseur à Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-14",
+      "title": {
+        "fr-FR": "Année 1650"
+      },
+      "children": [
+        {
+          "id": "lettre-0059",
+          "title": {
+            "fr-FR": "Lettre 59. Lettre du Chancelier Séguier (1) à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0060",
+          "title": {
+            "fr-FR": "Lettre 60. LETTRE DU P. VITET (1), religieux de Chancelade, A SAINT VINCENT"
+          }
+        },
+        {
+          "id": "lettre-0061",
+          "title": {
+            "fr-FR": "Lettre 61. Lettre de Louis Eudo de Kerlivio (1), à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0062",
+          "title": {
+            "fr-FR": "Lettre 62. À Claude Dufour (1), Prêtre de la Mission, à Sedan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-15",
+      "title": {
+        "fr-FR": "Année 1651"
+      },
+      "children": [
+        {
+          "id": "lettre-0063",
+          "title": {
+            "fr-FR": "Lettre 63. EDME DESCHAMP (1), Prêtre de la Mission, A SAINT VINCENT"
+          }
+        },
+        {
+          "id": "lettre-0064",
+          "title": {
+            "fr-FR": "Lettre 64. Aux Administrateurs du Grand Hôpital du Mans"
+          }
+        },
+        {
+          "id": "lettre-0065",
+          "title": {
+            "fr-FR": "Lettre 65. Lettre des Évêques d’Alet (1) et de Pamiers — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0066",
+          "title": {
+            "fr-FR": "Lettre 66. À Eudo de Kerlivio (1), à Hennebont"
+          }
+        },
+        {
+          "id": "lettre-0067",
+          "title": {
+            "fr-FR": "Lettre 67. Au R.p. Charles Frémont (1), de l’Ordre de Grandmont"
+          }
+        },
+        {
+          "id": "lettre-0068",
+          "title": {
+            "fr-FR": "Lettre 68. Lettre du R.p. Ch. Frémont à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0069",
+          "title": {
+            "fr-FR": "Lettre 69. LETTRE DE FRANÇOIS BOSQUET, évêque de Lodève, — À Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-16",
+      "title": {
+        "fr-FR": "Année 1652"
+      },
+      "children": [
+        {
+          "id": "lettre-0070",
+          "title": {
+            "fr-FR": "Lettre 70. A ANNE-MARGUERITE GUÉRIN (1), Religieuse de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-0071",
+          "title": {
+            "fr-FR": "Lettre 71. AU COMTE D’ARGENSON (1), Ambassadeur de France à Venise"
+          }
+        },
+        {
+          "id": "lettre-0072",
+          "title": {
+            "fr-FR": "Lettre 72. À la Mère Marie-Agnès Chevalier"
+          }
+        },
+        {
+          "id": "lettre-0073",
+          "title": {
+            "fr-FR": "Lettre 73. A CHARLES BAYART (1), Prêtre de la Mission, à Montmirail"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-17",
+      "title": {
+        "fr-FR": "Année 1653"
+      },
+      "children": [
+        {
+          "id": "lettre-0074",
+          "title": {
+            "fr-FR": "Lettre 74. A MARTIN HUSSON (1), à Montmirail"
+          }
+        },
+        {
+          "id": "lettre-0075",
+          "title": {
+            "fr-FR": "Lettre 75. À l’Abbesse d’Etival"
+          }
+        },
+        {
+          "id": "lettre-0076",
+          "title": {
+            "fr-FR": "Lettre 76. François Hallier (1) à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0077",
+          "title": {
+            "fr-FR": "Lettre 77. 78. — François Hallier et Jérôme Lagault — À Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-18",
+      "title": {
+        "fr-FR": "Année 1654"
+      },
+      "children": [
+        {
+          "id": "lettre-0079",
+          "title": {
+            "fr-FR": "Lettre 79. PIERRE SCARRON (1), évêque de Grenoble, A SAINT VINCENT"
+          }
+        },
+        {
+          "id": "lettre-0080",
+          "title": {
+            "fr-FR": "Lettre 80. A Etienne BLATIRON, Prêtre de la Mission, Supérieur à Gênes"
+          }
+        },
+        {
+          "id": "lettre-0081",
+          "title": {
+            "fr-FR": "Lettre 81. A EMERAND BAJOUE, Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0082",
+          "title": {
+            "fr-FR": "Lettre 82. À la Congrégation de la Propagande, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0083",
+          "title": {
+            "fr-FR": "Lettre 83. À Adrien Gambart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-19",
+      "title": {
+        "fr-FR": "Année 1656"
+      },
+      "children": [
+        {
+          "id": "lettre-0084",
+          "title": {
+            "fr-FR": "Lettre 84. À Mademoiselle de Villers (1), en Pologne"
+          }
+        },
+        {
+          "id": "lettre-0085",
+          "title": {
+            "fr-FR": "Lettre 85. SÉGUIER, Théologal de Paris, à SAINT VINCENT"
+          }
+        },
+        {
+          "id": "lettre-0086",
+          "title": {
+            "fr-FR": "Lettre 86. A JEAN DES LIONS, Doyen de Senlis"
+          }
+        },
+        {
+          "id": "lettre-0087",
+          "title": {
+            "fr-FR": "Lettre 87. A MARIE-ANTOINETTE BRIDOUL (1), Abbesse des Brigittines d’Arras"
+          }
+        },
+        {
+          "id": "lettre-0088",
+          "title": {
+            "fr-FR": "Lettre 88. A JEAN DES LIONS, Doyen de Senlis"
+          }
+        },
+        {
+          "id": "lettre-0089",
+          "title": {
+            "fr-FR": "Lettre 89. A JEAN MARTINI, Prêtre de Mission, Supérieur a Turin"
+          }
+        },
+        {
+          "id": "lettre-0090",
+          "title": {
+            "fr-FR": "Lettre 90. A JEAN DES LIONS, Doyen de Senlis"
+          }
+        },
+        {
+          "id": "lettre-0091",
+          "title": {
+            "fr-FR": "Lettre 91. A JEAN DES LIONS, Doyen de Senlis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-20",
+      "title": {
+        "fr-FR": "Année 1657"
+      },
+      "children": [
+        {
+          "id": "lettre-0092",
+          "title": {
+            "fr-FR": "Lettre 92. HENRI DE BOURBON (1), Abbé de Saint-Germain-des-Près, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0093",
+          "title": {
+            "fr-FR": "Lettre 93. A JEAN DES LIONS, Doyen de Senlis"
+          }
+        },
+        {
+          "id": "lettre-0094",
+          "title": {
+            "fr-FR": "Lettre 94. Le Chanoine Pierre Ducasse (1) à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0095",
+          "title": {
+            "fr-FR": "Lettre 95. A PIERRE CABEL (1), Prêtre de la Mission, Supérieur à Sedan"
+          }
+        },
+        {
+          "id": "lettre-0096",
+          "title": {
+            "fr-FR": "Lettre 96. A JEAN PARRE (1), Frère de la Mission, à Rethel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-21",
+      "title": {
+        "fr-FR": "Année 1658"
+      },
+      "children": [
+        {
+          "id": "lettre-0097",
+          "title": {
+            "fr-FR": "Lettre 97. A LA MÈRE MARIE-AGNÈS LE ROY (1) Religieuse de la Visitation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-22",
+      "title": {
+        "fr-FR": "Année 1659"
+      },
+      "children": [
+        {
+          "id": "lettre-0098",
+          "title": {
+            "fr-FR": "Lettre 98. A JEAN PARRE, Frère de la Mission, à Saint-Quentin"
+          }
+        },
+        {
+          "id": "lettre-0099",
+          "title": {
+            "fr-FR": "Lettre 99. Au R.p. Hilarion (1) à Rome"
+          }
+        },
+        {
+          "id": "lettre-0100",
+          "title": {
+            "fr-FR": "Lettre 100. A JEAN PARREI, Frère de la Mission à Saint-Quentin"
+          }
+        },
+        {
+          "id": "lettre-0101",
+          "title": {
+            "fr-FR": "Lettre 101. A EDME JOLLY, Prêtre de la Mission, Supérieur a Rome"
+          }
+        },
+        {
+          "id": "lettre-0103",
+          "title": {
+            "fr-FR": "Lettre 103. Lettre d’Henri Arnauld (1), Évêque d’Angers, à Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-23",
+      "title": {
+        "fr-FR": "Année 1660"
+      },
+      "children": [
+        {
+          "id": "lettre-0104",
+          "title": {
+            "fr-FR": "Lettre 104. A GABRIEL DE LESPINAY (1), Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0105",
+          "title": {
+            "fr-FR": "Lettre 105. A GABRIEL DE LESPINAY, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0106",
+          "title": {
+            "fr-FR": "Lettre 106. A FIRMIN GET, Prêtre de la Mission,"
+          }
+        },
+        {
+          "id": "lettre-0107",
+          "title": {
+            "fr-FR": "Lettre 107. A GABRIEL DE LESPINAY, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0108",
+          "title": {
+            "fr-FR": "Lettre 108. A GABRIEL DE LESPINAY, Prêtre de la Mission à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0109",
+          "title": {
+            "fr-FR": "Lettre 109. A DOMINIQUE LHUILLIER (1), Prêtre de la Mission. Supérieur à Crécy"
+          }
+        },
+        {
+          "id": "lettre-0110",
+          "title": {
+            "fr-FR": "Lettre 110. A GABRIEL DE LESPINAY, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0111",
+          "title": {
+            "fr-FR": "Lettre 111. A GABRIEL DE LESPINAY, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0112",
+          "title": {
+            "fr-FR": "Lettre 112. A DOMINIQUE LHUILLIER, Prêtre de la Mission à Crécy"
+          }
+        },
+        {
+          "id": "lettre-0113",
+          "title": {
+            "fr-FR": "Lettre 113. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0114",
+          "title": {
+            "fr-FR": "Lettre 114. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0115",
+          "title": {
+            "fr-FR": "Lettre 115. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0116",
+          "title": {
+            "fr-FR": "Lettre 116. A FIRMIN GET, Prêtre de la Mission, Supérieur a Marseille"
+          }
+        },
+        {
+          "id": "lettre-0117",
+          "title": {
+            "fr-FR": "Lettre 117. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0118",
+          "title": {
+            "fr-FR": "Lettre 118. A GABRIEL DE LESPINAY, Prêtre de la Mission à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0119",
+          "title": {
+            "fr-FR": "Lettre 119. A GABRIEL DE LESPINAY, Prêtre de la Mission à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0120",
+          "title": {
+            "fr-FR": "Lettre 120. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0121",
+          "title": {
+            "fr-FR": "Lettre 121. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0122",
+          "title": {
+            "fr-FR": "Lettre 122. A FIRMIN GET, Prêtre de la Mission, Supérieur a Marseille"
+          }
+        },
+        {
+          "id": "lettre-0123",
+          "title": {
+            "fr-FR": "Lettre 123. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0124",
+          "title": {
+            "fr-FR": "Lettre 124. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0125",
+          "title": {
+            "fr-FR": "Lettre 125. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0126",
+          "title": {
+            "fr-FR": "Lettre 126. A JEAN PARRE, Frère de la Mission, a Rethel"
+          }
+        },
+        {
+          "id": "lettre-0127",
+          "title": {
+            "fr-FR": "Lettre 127. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0128",
+          "title": {
+            "fr-FR": "Lettre 128. A FIRMIN GET, Prêtre de la Mission, Supérieur a Marseille"
+          }
+        },
+        {
+          "id": "lettre-0129",
+          "title": {
+            "fr-FR": "Lettre 129. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0130",
+          "title": {
+            "fr-FR": "Lettre 130. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0131",
+          "title": {
+            "fr-FR": "Lettre 131. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0132",
+          "title": {
+            "fr-FR": "Lettre 132. A DOMINIQUE LHUILLIER, Prêtre de la Mission, à Crécy"
+          }
+        },
+        {
+          "id": "lettre-0133",
+          "title": {
+            "fr-FR": "Lettre 133. A FIRMIN GET, Prêtre de la Mission, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0134",
+          "title": {
+            "fr-FR": "Lettre 134. Sainte Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0135",
+          "title": {
+            "fr-FR": "Lettre 135. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0136",
+          "title": {
+            "fr-FR": "Lettre 136. Sainte Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0137",
+          "title": {
+            "fr-FR": "Lettre 137. 138. — aux Administrateurs de l’Hôpital de Nantes — Et à Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0139",
+          "title": {
+            "fr-FR": "Lettre 139. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0140",
+          "title": {
+            "fr-FR": "Lettre 140. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0141",
+          "title": {
+            "fr-FR": "Lettre 141. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0142",
+          "title": {
+            "fr-FR": "Lettre 142. Au Père Hilarion Rancati"
+          }
+        },
+        {
+          "id": "lettre-0143",
+          "title": {
+            "fr-FR": "Lettre 143. A X… (destinataire Inconnu)"
+          }
+        },
+        {
+          "id": "lettre-0144",
+          "title": {
+            "fr-FR": "Lettre 144. Lettre de G. Pluyette à Saint Vincent"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}

@@ -1,0 +1,17 @@
+# Lettre 77. 78. — François Hallier et Jérôme Lagault — À Saint Vincent
+
+[de Rome] fin juillet 1653 [^1].
+
+Texte tiré de Collet (t. I, p. 560-561).
+
+"Les Députés que le Pape retenait à Rome, et qu’il y comblait de bienfaits, craignirent que Vincent ne se laissât prendre à des marques équivoques de soumission, qu’il n’en crut trop aisément sur leur parole des gens, qui ne devaient être crus qu’à l’épreuve. Hallier et Lagault lui écrivirent donc chacun en particulier : comme leurs lettres sont dictées par le même esprit, nous donnerons tout à la fois un précis de l’une et de l’autre…
+
+Après avoir dit au Serviteur de Dieu, qu’il fait paraître sa charité dans les peines qu’il se donne pour ramener les Jansénistes à la soumission et à l’obéissance, in spiritu lenitatis ; *et lui avoir témoigné le plaisir qu’ils ont eu d’apprendre que *plusieurs *de ceux qui avaient pris un mauvais parti, étaient revenus à l’unité, ils entrent en matière. Ils approuvent extrêmement, qu’on n’insulte pas à ces Messieurs, et *qu’on les reçoive avec douceur et respect : *mais ils soutiennent en même temps qu’il ne faut ni *les employer, *ni les *conserver dans les places où *ils pourraient *semer leurs erreurs, à moins qu’ils ne témoignent un véritable repentir du passé ; *qu’on se doit défier de ceux qui, après avoir enseigné le Jansénisme, prétendent n’avoir rien enseigné qui soit condamné par la Bulle du Pape ; qu’on doit regarder *comme très pernicieux à l’Eglise, *ceux qui, pour écarter le vrai, l’unique point de la Censure, ont *recours à leur distinction [^2] de divers sens ridicules et chimériques ; *que quand il s’agit *de conserver la pureté de la religion, il faut être raide, et ne plier jamais ; que la plus grande prudence est de n’avoir aucune condescendance pour les personnes, quand *par une conduite contraire, on peut *exposer au danger les vérités catholiques et les âmes simples ; *qu’on sait à Rome et qu’on sait certainement, qu’il y a en France bien des gens disposés à la révolte qu’il est de craindre que la soumission de quelques autres ne soit qu’extérieure ; et qu’enfin *la dissimulation est ordinaire aux hérétiques ainsi que le témoigne S. Jérôme *par ces paroles : *Haeresis semper simulat poenitentiam, ut docendi in Ecclesiis habeat facultatem ne si aperta luce se prodiderit, foras expulsa moriatur… Je vous conjure *donc, *Monsieur, *disait Hallier, *de faire vos efforts, afin qu’on ne souffre point, qu’aucun enseigne, prêche, instruise les autres de bouche ou par écrit, *si sa *conversion n’est bien assurée, et sa droiture reconnue. C’est l’avis de tous les gens de bien *de ce pays ; et cet avis *est appuyé sur tous les canons ecclésiastiques, et les Règles des Saints Pères… Que si l’on fait autrement, ou l’erreur continuera, ou il couvera quelque temps sous la cendre, pour éclater après avec plus de ferveur. Considérez, s’il vous plaît, cette vérité, et me croyez, Monsieur, votre etc." [^3] [^4]
+
+[^1]: Date vraisemblable ; la matière de ces deux lettres indique qu’elles suivent de près la lettre du 21 juillet 1653.
+
+[^2]: Allusion à la trop célèbre distinction "du droit et du fait" proposée par Arnauld et Nicole.
+
+[^3]: 78. — Originaux perdus. Collet donne des extraits de l’une et l’autre lettres, sans qu’on puisse savoir à qui attribuer les citations textuelles, sauf le dernier passage donné expressément par Collet comme étant de Hallier.
+
+[^4]: Jérôme Lagault. docteur de Sorbonne, mort eu octobre 1653, à son retour de Rome.

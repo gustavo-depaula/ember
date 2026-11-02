@@ -1,0 +1,7 @@
+# Lettre 143. A X… (destinataire Inconnu)
+
+Extrait d’Abelly (L.), *La vie du Vénérable Serviteur de Dieu, Vincent de Paul… *Paris, 1664, 3 Livres (Livre I, p. 253-254) [^1]. "Il remettait quelquefois aux siens, devant les yeux la pensée de la mort comme une des plus salutaires, et les exhortait à s’y préparer par de bonnes œuvres, les assurant que c’était là le meilleur et le plus assuré moyen pour bien mourir. Il voulait pourtant que cette pensée de la mort fut animée de confiance en la bonté de Dieu, et non pas telle qu’elle nous causât aucun abattement ou inquiétude d’esprit. Ce fut l’avis qu’il fit donner à une personne, qui ayant une vive appréhension de la mort, l’avait incessamment dans la pensée, car il lui fit dire, comme il se voit dans une lettre qu’il écrivit sur ce sujet, que la pensée de la mort était bonne, et que Notre-Seigneur l’avait conseillée et recommandée ; mais qu’elle devait être modérée, et qu’il n’était pas nécessaire ni expédient que cette personne l’eût incessamment présente en son esprit, qu’il suffisait qu’elle y pensât deux ou trois fois le jour, sans s’y arrêter néanmoins beaucoup de temps, et même si elle s’en trouvait inquiétée, qu’elle ne s’y arrêtât point du tout, et qu’elle s’en divertît doucement." [^2]
+
+[^1]: Ce texte a été repris par Collet (P.), La vie de Saint Vincent de Paul…. Nancy, 1748, 2 tomes (t. II, p. 109) avec quelques modifications sans importance.
+
+[^2]: Non datée.
