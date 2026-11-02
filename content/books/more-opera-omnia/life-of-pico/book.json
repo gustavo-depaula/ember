@@ -1,0 +1,541 @@
+{
+  "id": "more-life-of-pico",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Life of John Picus, Earl of Mirandula",
+    "pt-BR": "A Vida de João Pico, Conde da Mírandola"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "More's English version (c. 1510) of the life of Giovanni Pico della Mirandola by his nephew Gianfrancesco Pico, with Pico's letters, twelve rules, twelve weapons and a prayer, and More's own verses.",
+    "pt-BR": "A versão inglesa de More (c. 1510) da vida de Giovanni Pico della Mirandola por seu sobrinho Gianfrancesco Pico, com cartas, doze regras e doze armas e uma oração de Pico, e versos de More."
+  },
+  "composed": 1510,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/life-of-pico",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More, tr. (London: Wynkyn de Worde, 1525)",
+      "year": 1525
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A09627",
+      "edition": "Here is co[n]teyned the lyfe of Iohan Picus erle of Myrandula (London: 1525), EEBO-TCP A09627.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 99 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1525 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Unto his ryght entyerly beloued syster in chryst Ioyeuce Leygh Thomas more gretyng in our lorde"
+      }
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "The lyfe of Iohn̄ Picus Erle of Mirandula"
+      },
+      "children": [
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Chapter 3"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Of his parentes and tyme of his byrth"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Of the wondre that appered before his byrth"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Of his persone"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Of his settynge forthe to scole and study in humanyte"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Of his study in Canone"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Of his study in phylosophye & deuynyte"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Of his mynde and vayngloryouse dispicious of Rome"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Of the chaunge of his lyfe"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "Of the fame of his vertue and the r • sorte vnto hym therfore"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "The burnyng of wanton bokes"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "Of his study and dilygence in holy scrypture"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "Of his lernynge vnyuersally"
+          }
+        },
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "Fyue causes yt in so shorte tyme brought hym to se meruclouse connynge"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "Of his condycyons and his vertue"
+          }
+        },
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "Of the sale of his lordeshyppes and almysse"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "Of ye volūtary afflecciō & paynīg of his own body"
+          }
+        },
+        {
+          "id": "chapter-20",
+          "title": {
+            "en-US": "Of his placabilite or benygne nature"
+          }
+        },
+        {
+          "id": "chapter-21",
+          "title": {
+            "en-US": "How he eschewed dygnites"
+          }
+        },
+        {
+          "id": "chapter-22",
+          "title": {
+            "en-US": "Of the dispysynge of worldly glorye"
+          }
+        },
+        {
+          "id": "chapter-23",
+          "title": {
+            "en-US": "How moche he set more by deuceyon then connynge"
+          }
+        },
+        {
+          "id": "chapter-24",
+          "title": {
+            "en-US": "Of his liberalite & contempt of rychesse"
+          }
+        },
+        {
+          "id": "chapter-25",
+          "title": {
+            "en-US": "Of his louynge mynde & • tuouse behauour to his frēndes"
+          }
+        },
+        {
+          "id": "chapter-26",
+          "title": {
+            "en-US": "what he hated & what he loued"
+          }
+        },
+        {
+          "id": "chapter-27",
+          "title": {
+            "en-US": "Of his feruent loue to god"
+          }
+        },
+        {
+          "id": "chapter-28",
+          "title": {
+            "en-US": "Of his deth"
+          }
+        },
+        {
+          "id": "chapter-29",
+          "title": {
+            "en-US": "Of his behauyour in the extremes of his lyfe"
+          }
+        },
+        {
+          "id": "chapter-30",
+          "title": {
+            "en-US": "How his deth was taken"
+          }
+        },
+        {
+          "id": "chapter-31",
+          "title": {
+            "en-US": "Of the state of his soule"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "Here foloweth thre epistles of y• sayd Picus of which thre: two be wryten vnto Iohan Fraunsces his neuew / the"
+      },
+      "children": [
+        {
+          "id": "chapter-32",
+          "title": {
+            "en-US": "The argument & mater of the fyrst epystle of Picus vnto his neuew Iohan Fraunsces"
+          }
+        },
+        {
+          "id": "chapter-33",
+          "title": {
+            "en-US": "Iohan Picus erle of Mirandula to Iohan Fraunsces his neuew by his brother helth in hym that is very helth"
+          }
+        },
+        {
+          "id": "chapter-34",
+          "title": {
+            "en-US": "The mater or argument of the epistle of Picus to Andrewe Corncus"
+          }
+        },
+        {
+          "id": "chapter-35",
+          "title": {
+            "en-US": "Iohan Picus erle of Myrandula to Andrewe Corneus gretynge"
+          }
+        },
+        {
+          "id": "chapter-36",
+          "title": {
+            "en-US": "The argument of the epystle folowynge"
+          }
+        },
+        {
+          "id": "chapter-37",
+          "title": {
+            "en-US": "Iohan Picꝰ erle of Myrandula to Fraū sces his neuew gretynge in our lorde"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chapter-38",
+      "title": {
+        "en-US": "The interpretacion of Iohan Picꝰ vpon this psalme Conserua me domine"
+      }
+    },
+    {
+      "id": "part-6",
+      "title": {
+        "en-US": "Here begyn.xij. rules of Iohan Picus erle of Myrandula partely excytyng partely dytectynge a man in spyrytuall"
+      },
+      "children": [
+        {
+          "id": "chapter-39",
+          "title": {
+            "en-US": "Chapter 39"
+          }
+        },
+        {
+          "id": "chapter-40",
+          "title": {
+            "en-US": "The seconde rule"
+          }
+        },
+        {
+          "id": "chapter-41",
+          "title": {
+            "en-US": "The thyrde rule"
+          }
+        },
+        {
+          "id": "chapter-42",
+          "title": {
+            "en-US": "The fourth rule"
+          }
+        },
+        {
+          "id": "chapter-43",
+          "title": {
+            "en-US": "The fyft rule"
+          }
+        },
+        {
+          "id": "chapter-44",
+          "title": {
+            "en-US": "The syxte rule"
+          }
+        },
+        {
+          "id": "chapter-45",
+          "title": {
+            "en-US": "The.vii. rule"
+          }
+        },
+        {
+          "id": "chapter-46",
+          "title": {
+            "en-US": "The viii. rule"
+          }
+        },
+        {
+          "id": "chapter-47",
+          "title": {
+            "en-US": "The.x. rule"
+          }
+        },
+        {
+          "id": "chapter-48",
+          "title": {
+            "en-US": "The.xj. rule"
+          }
+        },
+        {
+          "id": "chapter-49",
+          "title": {
+            "en-US": "The.xij. rule"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-7",
+      "title": {
+        "en-US": "Part 7"
+      },
+      "children": [
+        {
+          "id": "chapter-50",
+          "title": {
+            "en-US": "Part 7"
+          }
+        },
+        {
+          "id": "chapter-51",
+          "title": {
+            "en-US": "The pleasure lytle and short"
+          }
+        },
+        {
+          "id": "chapter-52",
+          "title": {
+            "en-US": "The folowers gryefe & heuynes"
+          }
+        },
+        {
+          "id": "chapter-53",
+          "title": {
+            "en-US": "The losse of a better thyng"
+          }
+        },
+        {
+          "id": "chapter-54",
+          "title": {
+            "en-US": "This lyfe a dreme and a shadow"
+          }
+        },
+        {
+          "id": "chapter-55",
+          "title": {
+            "en-US": "Deth at our hand and vnware"
+          }
+        },
+        {
+          "id": "chapter-56",
+          "title": {
+            "en-US": "Fere of impenitent departynge"
+          }
+        },
+        {
+          "id": "chapter-57",
+          "title": {
+            "en-US": "Eternall rewarde eternall payne"
+          }
+        },
+        {
+          "id": "chapter-58",
+          "title": {
+            "en-US": "The nature and dygnite of man"
+          }
+        },
+        {
+          "id": "chapter-59",
+          "title": {
+            "en-US": "The peace of a good mynde"
+          }
+        },
+        {
+          "id": "chapter-60",
+          "title": {
+            "en-US": "The grete benefyces of god"
+          }
+        },
+        {
+          "id": "chapter-61",
+          "title": {
+            "en-US": "The paynfull crosse of chryst"
+          }
+        },
+        {
+          "id": "chapter-62",
+          "title": {
+            "en-US": "The wytnes of martyrs & example of sayntes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-8",
+      "title": {
+        "en-US": "The.xij. ꝓpertees or cōdicyons of a louer"
+      },
+      "children": [
+        {
+          "id": "chapter-63",
+          "title": {
+            "en-US": "The.xij. ꝓpertees or cōdicyons of a louer"
+          }
+        },
+        {
+          "id": "chapter-64",
+          "title": {
+            "en-US": "Chapter 64"
+          }
+        },
+        {
+          "id": "chapter-65",
+          "title": {
+            "en-US": "The seconde properte"
+          }
+        },
+        {
+          "id": "chapter-66",
+          "title": {
+            "en-US": "The thyrde properte"
+          }
+        },
+        {
+          "id": "chapter-67",
+          "title": {
+            "en-US": "The fourth properte"
+          }
+        },
+        {
+          "id": "chapter-68",
+          "title": {
+            "en-US": "The fyft properte"
+          }
+        },
+        {
+          "id": "chapter-69",
+          "title": {
+            "en-US": "The.vi. properte"
+          }
+        },
+        {
+          "id": "chapter-70",
+          "title": {
+            "en-US": "The.vii. properte"
+          }
+        },
+        {
+          "id": "chapter-71",
+          "title": {
+            "en-US": "The.viii. properte"
+          }
+        },
+        {
+          "id": "chapter-72",
+          "title": {
+            "en-US": "The.ix. properte"
+          }
+        },
+        {
+          "id": "chapter-73",
+          "title": {
+            "en-US": "The.x. properte"
+          }
+        },
+        {
+          "id": "chapter-74",
+          "title": {
+            "en-US": "The.xi. properte"
+          }
+        },
+        {
+          "id": "chapter-75",
+          "title": {
+            "en-US": "The.xii. properte"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chapter-76",
+      "title": {
+        "en-US": "A prayer of Picus Mirandula vnto god"
+      }
+    },
+    {
+      "id": "chapter-77",
+      "title": {
+        "en-US": "Chapter 77"
+      }
+    }
+  ]
+}

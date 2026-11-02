@@ -1,0 +1,3 @@
+# How his deth was taken
+
+What sorowe and heuynes his departyng out of this worlde was: both to ryche and pore hygh & lowe: well testyfyeth the prynces of Italye / well wytnesseth the citees & people / well recordeth the grete benygnyte and synguler curtesye of Charles kynge of fraūce / which as he came to florence entendynge from thens to Rome and so forth in his vyage agaynst the Realme of Naples herynge of the sykenes of Picus in all conuenyent haste he sent hym two of his owne phisicions as embassiatours both to viset hym and to do hym all y• helpe they myght. And ouer that sent vnto hym letters susbcribed with his owne hande full of suche humanyte and courteyse offres: as the bene volent mynde of suche a noble prince and the worthy vertues of Picus required.

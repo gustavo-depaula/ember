@@ -1,0 +1,3 @@
+# Of his study in Canone
+
+IN the fouretene yere of his age by the commaundement of his mother (whiche longed vere sore to haue hym preest) he departed to Bononye to study in ye lawes of the chyrche / whiche whan he had two yere tasted / perceyuynge that the faculte leyned to nothinge but onely mery tradicions and ordinaunces: his mynde fyll frome hit / yet lost he not his tyme therin for in that two yere yet beynge a chylde he cō pyled a breuyary or a summe vpon all the decretalles in whiche as brefly as possyble was he comprysed theffecte of all ye hole grete volume and made a boke no sclēder thyng to ryght cōnyng & perfyte doctours.

@@ -1,0 +1,3 @@
+# Of his settynge forthe to scole and study in humanyte
+
+UNder ye rule and gouernaunce of his mother he was set to maysters & to lernynge: where with so ardent mynde he labored the studyes of humanite: ye within shorte whyle he was (and not without a cause) accompted amonge the chyef Oratours and Poetes of that tyme in lernynge meruaylously swyfte and of so redy a wyt / that y• versis whiche he herde ones red: he wolde agayne bothe forwarde and bakwarde to the grete wonder of the herers reherse / and ouer that wolde holde hit in sure remembraunce whiche in other folkes wonte comenly to happen contrary. For they yt are swyfte in takyng be oftentymes slowe in remembrynge / and they yt with more labour & dyffyculte receyue hit: more fast & suerely holde hit.

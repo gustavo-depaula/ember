@@ -1,0 +1,3 @@
+# Of his study in phylosophye & deuynyte
+
+AFter this as a desyrours enserchour of the secretes of nature he lefte these commyn troden pathes and gaue hym sefe hole to speculation & philosophy as well humane as deuyne. For the purchasynge wherof (afte the maner of Plato and Appollonius) he scrupulously sought out / all the famous doctours of his tyme. visytynge studeously all the vnyuersytes and scoles not onely through Italy but also through fraunce. And so infatigable laboure gaue he to those studies: that yet a chylde and berdles he was bothe reputed and was in dede bothe a perfyte philosophre and a perfyte deuyne.

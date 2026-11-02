@@ -1,0 +1,3 @@
+# How he eschewed dygnites
+
+Whan he sawe many men wt grete labour & money desyre & bysely purchase ye offices & dygnites of y• ch[…]che (whiche are now a dayes alas y• whyle […]munely bought & solde) him selfe refused to recyue them: whan two kynges offred thē: whan an other man offred hym grete worldely ꝓmocyon yf he wolde go to ye kynges courte: he gaue hym suche an answere / that he sholde well knowe that he neyther desyred worship ne worldly ryches but rather set thē at nought y• he might y• more quyetly gyue hym selfe to study & y• seruyce of god: this wyse he ꝑsuaded / y• to a phylosophre and hym y• seketh for wysedome it was no prayse to gather rychesse but to refuse them.

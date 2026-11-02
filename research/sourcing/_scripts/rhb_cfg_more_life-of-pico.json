@@ -1,0 +1,21 @@
+{
+ "id": "more-life-of-pico",
+ "dir": "more-opera-omnia/life-of-pico",
+ "slug": "life-of-pico",
+ "work": "more/life-of-pico",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A09627.xml",
+ "name": "The Life of John Picus, Earl of Mirandula",
+ "name_pt": "A Vida de João Pico, Conde da Mírandola",
+ "desc": "More's English version (c. 1510) of the life of Giovanni Pico della Mirandola by his nephew Gianfrancesco Pico, with Pico's letters, twelve rules, twelve weapons and a prayer, and More's own verses.",
+ "desc_pt": "A versão inglesa de More (c. 1510) da vida de Giovanni Pico della Mirandola por seu sobrinho Gianfrancesco Pico, com cartas, doze regras e doze armas e uma oração de Pico, e versos de More.",
+ "composed": 1510,
+ "editor": "Thomas More, tr. (London: Wynkyn de Worde, 1525)",
+ "year": 1525,
+ "url": "https://github.com/textcreationpartnership/A09627",
+ "edition": "Here is co[n]teyned the lyfe of Iohan Picus erle of Myrandula (London: 1525), EEBO-TCP A09627.",
+ "front": true,
+ "parts": true
+}

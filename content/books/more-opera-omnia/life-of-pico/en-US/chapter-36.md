@@ -1,0 +1,3 @@
+# The argument of the epystle folowynge
+
+AFter that Iohan Fraunsces ye neuew of Picus had (as hit apereth in ye fyrst epistle of Picꝰ to hym) begon a chaūge in his lyuynge: hit semeth by this lettre y• the cōpany of the court where he was cōuersaunt diuersly (as hit is there vnmanerly maner) descanted therof to his rebuke as them thought: but as trueth was vnto theyr owne. Some of them iuged hit foly / some called hit ypocresy / some scorned him / some sclaundred hym / of all whiche demeanour (as we maye of this epistle cōiecture) he wrote vnto this erle Picus his vncle whiche in this lettre cōforted & encourageth him as hit is in y• course therof euydent.
