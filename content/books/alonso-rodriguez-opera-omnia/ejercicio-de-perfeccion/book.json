@@ -1,0 +1,2976 @@
+{
+  "id": "alonso-rodriguez-ejercicio-de-perfeccion",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Ejercicio de perfección y virtudes cristianas",
+    "en-US": "The Practice of Perfection and Christian Virtues",
+    "pt-BR": "Exercício de perfeição e virtudes cristãs"
+  },
+  "author": {
+    "es-ES": "P. Alonso Rodríguez, S.J.",
+    "en-US": "Alonso Rodríguez, S.J.",
+    "pt-BR": "Pe. Alonso Rodríguez, S.J."
+  },
+  "description": {
+    "es-ES": "Clásico de la espiritualidad ascética del Siglo de Oro, escrito por el maestro de novicios de la Compañía de Jesús (Valladolid, 1538 – Sevilla, 1616; no el hermano coadjutor San Alonso Rodríguez): tres partes de ocho tratados cada una, sobre el aprovechamiento espiritual, la oración, la presencia de Dios, la conformidad con la voluntad divina, la mortificación, la humildad, las tentaciones, la Pasión y la Comunión, y sobre el estado religioso, los votos y la obediencia. Sevilla, 1609. Texto en edición digital modernizada (sin las autoridades latinas); en inglés, la traducción de Joseph Rickaby, S.J. (1929), capítulo por capítulo.",
+    "en-US": "The classic of Golden Age ascetical spirituality by the Jesuit novice master Alonso Rodríguez (Valladolid, 1538 – Seville, 1616; not the lay brother St. Alphonsus Rodriguez): three parts of eight treatises each, on spiritual progress, prayer, the presence of God, conformity with the divine will, mortification, humility, temptations, the Passion and Communion, and on the religious state, the vows and obedience. Seville, 1609. Spanish in a modernised digital edition (without the Latin authorities); in English, Joseph Rickaby's translation (1929), chapter for chapter.",
+    "pt-BR": "Clássico da espiritualidade ascética do Século de Ouro, escrito pelo mestre de noviços da Companhia de Jesus Alonso Rodríguez (Valladolid, 1538 – Sevilha, 1616; não o irmão coadjutor Santo Afonso Rodríguez): três partes de oito tratados cada uma, sobre o aproveitamento espiritual, a oração, a presença de Deus, a conformidade com a vontade divina, a mortificação, a humildade, as tentações, a Paixão e a Comunhão, e sobre o estado religioso, os votos e a obediência."
+  },
+  "composed": "1609",
+  "languages": [
+    "es-ES",
+    "en-US"
+  ],
+  "work": "alonso-rodriguez/ejercicio-de-perfeccion",
+  "editions": {
+    "es-ES": {
+      "editor": "modern digital edition (Latin authorities omitted)",
+      "year": 2010
+    },
+    "en-US": {
+      "translator": "Joseph Rickaby, S.J.",
+      "year": 1929
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/ejercicio-de-perfeccion-y-virtudes-cristianas-primera-parte-alonso-rodriguez",
+      "edition": "Ejercicio de perfección y virtudes cristianas, primera/segunda/tercera parte, modern digital edition in modern spelling (archive.org uploads; Parts II and III at the same URL pattern, ...-segunda-parte-... and ...-tercera-parte-...), text of Seville 1609.",
+      "description": "The editor drops the Latin authorities, puts the author's untranslated citations in square brackets and modernises archaic forms. Bracketed Latin-free text kept as is; three of the editor's footnotes were left out.",
+      "tier": "unverified"
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/practiceofperfec0001alph",
+      "edition": "Alphonsus Rodriguez, Practice of Perfection and Christian Virtues, newly translated from the original Spanish by Joseph Rickaby, S.J., 3 vols, Chicago: Loyola University Press, 1929 (archive.org practiceofperfec0001alph, 0002alph, 0003alph).",
+      "description": "OCR; chapters follow the Spanish one for one (377 chapters).",
+      "tier": "A"
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1",
+      "title": {
+        "es-ES": "Primera parte",
+        "en-US": "Part One",
+        "pt-BR": "Primeira parte"
+      },
+      "children": [
+        {
+          "id": "p1-prologo",
+          "title": {
+            "es-ES": "A los religiosos de la Compañía de Jesús",
+            "pt-BR": "Aos religiosos da Companhia de Jesus"
+          }
+        },
+        {
+          "id": "p1-t1",
+          "title": {
+            "es-ES": "De la estima, deseo y afición que hemos de tener a lo que toca a nuestro aprovechamiento espiritual",
+            "en-US": "On the esteem, desire and affection we ought to have for what concerns our spiritual progress",
+            "pt-BR": "Da estima, desejo e afeição que devemos ter ao que toca ao nosso aproveitamento espiritual"
+          },
+          "children": [
+            {
+              "id": "p1-t1-c01",
+              "title": {
+                "es-ES": "Del aprecio y estima que debemos tener de las cosas espirituales",
+                "en-US": "The Great Value We Ought to Set on Spiritual Things"
+              }
+            },
+            {
+              "id": "p1-t1-c02",
+              "title": {
+                "es-ES": "De la afición y deseo que habemos de tener a la virtud y perfección",
+                "en-US": "Of the Affection and Desire that We Should Have for Virtue and Perfection"
+              }
+            },
+            {
+              "id": "p1-t1-c03",
+              "title": {
+                "es-ES": "Que el tener gran deseo de nuestro aprovechamiento es un medio muy principal y una disposición muy grande para que el Señor nos haga mercedes",
+                "en-US": "That an Excellent Means and a Very Great Preparation to Receive Favors from the Lord Is to Keep Up a Great Desire of Spiritual Improvement"
+              }
+            },
+            {
+              "id": "p1-t1-c04",
+              "title": {
+                "es-ES": "Que mientras uno más se da a las cosas espirituales, más hambre y deseo tiene de ellas",
+                "en-US": "That the More a Man Gives Himself to Spiritual Things, the More Hunger and Desire He Has of Them"
+              }
+            },
+            {
+              "id": "p1-t1-c05",
+              "title": {
+                "es-ES": "Que es gran señal de estar uno en gracia de Dios el andar con deseo de crecer e ir adelante en su aprovechamiento",
+                "en-US": "That a Desire of Growing and Going Forward in Self- Improvement Is a Great Sign of One’s Being in the Grace of God"
+              }
+            },
+            {
+              "id": "p1-t1-c06",
+              "title": {
+                "es-ES": "En que se declara cómo el no ir adelante es volver atrás",
+                "en-US": "Showing How Not to Advance Is to Go Back"
+              }
+            },
+            {
+              "id": "p1-t1-c07",
+              "title": {
+                "es-ES": "Que ayuda mucho para alcanzar la perfección olvidarse uno del bien pasado y poner los ojos en lo que le falta",
+                "en-US": "That It Is a Great Aid to the Attainment of Perfection to Forget Any Good Done in the Past, and Fix Our Eye on What Remains Still to be Done"
+              }
+            },
+            {
+              "id": "p1-t1-c08",
+              "title": {
+                "es-ES": "Que ayuda mucho para alcanzar la perfección ponerlos ojos en cosas altas y aventajadas",
+                "en-US": "That lt Is a Great Aid to Perfection to Fix Our Eyes on Lofty and Exalted Things"
+              }
+            },
+            {
+              "id": "p1-t1-c09",
+              "title": {
+                "es-ES": "Cuánto importa hacer caso de cosas pequeñas y no menospreciarlas",
+                "en-US": "How Important It Is to Set Store by Little Things and Not Despise Them"
+              }
+            },
+            {
+              "id": "p1-t1-c10",
+              "title": {
+                "es-ES": "De otra razón muy principal por la cual nos importa mucho hacer caso de cosas pequeñas",
+                "en-US": "Another Weighty Reason for Setting Great Store by Little Things"
+              }
+            },
+            {
+              "id": "p1-t1-c11",
+              "title": {
+                "es-ES": "Que no habemos de tomar el negocio de nuestro aprovechamiento en general, sino en particular; y cuánto importa el ir poniendo por obra los buenos propósitos y deseos que el Señor nos da",
+                "en-US": "That the Business of Our Spiritual Advancement Is Not To Be Taken in General, but in Particular; and of How Great Importance It Is to Put Into Execution Those Good Purposes Wherewith God Inspires Us"
+              }
+            },
+            {
+              "id": "p1-t1-c12",
+              "title": {
+                "es-ES": "Que nos ayudará mucho para alcanzar la perfección no hacer faltas de propósito ni aflojar en el fervor",
+                "en-US": "That It Will Be a Great Aid to the Attainment of Perfection Not to Commit Faults on Purpose, and Never Relax in Fervor"
+              }
+            },
+            {
+              "id": "p1-t1-c13",
+              "title": {
+                "es-ES": "De otros tres medios que nos ayudarán para ir adelante en la virtud",
+                "en-US": "Of Three Other Means That Will Enable Us to Advance in Virtue"
+              }
+            },
+            {
+              "id": "p1-t1-c14",
+              "title": {
+                "es-ES": "Que nos ayudará mucho habernos siempre como el primer día que entramos en la Religión",
+                "en-US": "That It Will Help Us Much Always to Behave As We Did the First Day We Entered Religion"
+              }
+            },
+            {
+              "id": "p1-t1-c15",
+              "title": {
+                "es-ES": "Que ayudará mucho preguntarse cada uno a sí mismo a menudo: ¿A qué viniste a la Religión?",
+                "en-US": "That It Will Be a Great Help for Everyone to Ask Himself Frequently: “What Did You Enter Religion for?”"
+              }
+            },
+            {
+              "id": "p1-t1-c16",
+              "title": {
+                "es-ES": "De algunas otras cosas que nos ayudarán para ir adelante en nuestro aprovechamiento y alcanzar la perfección",
+                "en-US": "Of Some Other Things That Will Help Us to Go On in Self- Improvement and Gain Perfection"
+              }
+            },
+            {
+              "id": "p1-t1-c17",
+              "title": {
+                "es-ES": "De la perseverancia que habemos de tener en la virtud y lo que nos ayudará a tenerla",
+                "en-US": "Of the Perseverance We Ought to Have in Virtue, and What Will Aid Us Thereto"
+              }
+            },
+            {
+              "id": "p1-t1-c18",
+              "title": {
+                "es-ES": "De otro medio para aprovechar en virtud, que son las exhortaciones y pláticas espirituales, y cómo nos aprovecharemos de ellas",
+                "en-US": "Of Another Means to Advance in Virtue; Namely, Spiritual Exhortations and Conferences, and How to Profit by Them"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p1-t2",
+          "title": {
+            "es-ES": "De la perfección de las obras ordinarias",
+            "en-US": "On the perfection of our ordinary actions",
+            "pt-BR": "Da perfeição das obras ordinárias"
+          },
+          "children": [
+            {
+              "id": "p1-t2-c01",
+              "title": {
+                "es-ES": "Que nuestro aprovechamiento y perfección está en hacer las obras ordinarias que hacemos, bien hechas",
+                "en-US": "That Our Advancement and Perfection Consists in Doing Ordinary Actions Extraordinarily Well"
+              }
+            },
+            {
+              "id": "p1-t2-c02",
+              "title": {
+                "es-ES": "Que nos ha de animar mucho a la perfección el habérnosla Dios puesto en una cosa muy fácil",
+                "en-US": "That It Ought Greatly to Animate Us to Perfection, That God Has Put It in Something That Is Very Easy"
+              }
+            },
+            {
+              "id": "p1-t2-c03",
+              "title": {
+                "es-ES": "En qué consiste la bondad y perfección de nuestras obras, y de algunos medios para hacerlas bien",
+                "en-US": "In What the Goodness and Perfection of Our Actions Consists, and of Some Means to Do Them Well"
+              }
+            },
+            {
+              "id": "p1-t2-c04",
+              "title": {
+                "es-ES": "De otro medio para hacer bien las obras, que es hacerlas como si no tuviésemos otra cosa que hacer",
+                "en-US": "Of Another Means to Do Our Actions Well, Which Is to Do Them as if We Had Nothing Else to Do"
+              }
+            },
+            {
+              "id": "p1-t2-c05",
+              "title": {
+                "es-ES": "De otro medio, que es hacer cada obra como si aquélla hubiese de ser la postrera de nuestra vida",
+                "en-US": "Of Another Means, Which Is to Do Every Action as if It Were to Be the Last of Our Life"
+              }
+            },
+            {
+              "id": "p1-t2-c06",
+              "title": {
+                "es-ES": "De otro medio para hacer bien las obras, que es no hacer cuenta más que de hoy",
+                "en-US": "Of Another Means of Doing Our Actions Well, Which Is to Take No Account of Anything beyond Today"
+              }
+            },
+            {
+              "id": "p1-t2-c07",
+              "title": {
+                "es-ES": "De otro medio, que es acostumbrarse uno a hacer bien las obras",
+                "en-US": "Of Another Means to Do Our Actions Well, Which Is to Get into a Way of So Doing Them"
+              }
+            },
+            {
+              "id": "p1-t2-c08",
+              "title": {
+                "es-ES": "Cuánto le importa al religioso no aflojaren el camino de la virtud",
+                "en-US": "Of How Great Importance It Is for a Religious Not to Slow Down in the Way of Virtue"
+              }
+            },
+            {
+              "id": "p1-t2-c09",
+              "title": {
+                "es-ES": "Cuánto les importa a los novicios aprovecharse del tiempo del noviciado, y acostumbrarse en él a hacer los ejercicios de la Religión bien hechos",
+                "en-US": "How Important It Is for Novices to Make Progress during the Time of Their Novitiate, and Accustom Themselves to Do the Exercises of Religion Well"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p1-t3",
+          "title": {
+            "es-ES": "De la rectitud y pureza de intención que habemos de tener en las obras",
+            "en-US": "On rectitude and purity of intention in our actions",
+            "pt-BR": "Da retidão e pureza de intenção nas obras"
+          },
+          "children": [
+            {
+              "id": "p1-t3-c01",
+              "title": {
+                "es-ES": "Que debemos huir en nuestras obras del vicio de la vanagloria",
+                "en-US": "That in Our Actions We Ought to Shun the Vice of Vainglory"
+              }
+            },
+            {
+              "id": "p1-t3-c02",
+              "title": {
+                "es-ES": "En qué consiste la malicia de este vicio de la vanagloria",
+                "en-US": "In What the Malice of Vainglory Consists"
+              }
+            },
+            {
+              "id": "p1-t3-c03",
+              "title": {
+                "es-ES": "Del daño que trae consigo la vanagloria",
+                "en-US": "Of the Loss That Vainglory Entails"
+              }
+            },
+            {
+              "id": "p1-t3-c04",
+              "title": {
+                "es-ES": "Que la tentación de vanagloria no solamente es de los que comienzan, sino también de los que van adelante en la virtud",
+                "en-US": "That the Temptation to Vainglory Assails Not Only Beginners, but Also Those Who Are Well-Advanced in Virtue"
+              }
+            },
+            {
+              "id": "p1-t3-c05",
+              "title": {
+                "es-ES": "De la necesidad particular que tienen de guardarse de este vicio de la vanagloria los que tienen oficio de ayudar a los prójimos",
+                "en-US": "Of the Special Need That There Is to Beware of the Vice of Vainglory in Those Who Have the Office of Helping Their Neighbor —"
+              }
+            },
+            {
+              "id": "p1-t3-c06",
+              "title": {
+                "es-ES": "De algunos remedios contra la vanagloria",
+                "en-US": "Of Sundry Remedies Against Vainglory"
+              }
+            },
+            {
+              "id": "p1-t3-c07",
+              "title": {
+                "es-ES": "Del fin e intención buena que hemos de tener en las obras",
+                "en-US": "Of the End and Good Intention That We Ought to Have in Our Actions"
+              }
+            },
+            {
+              "id": "p1-t3-c08",
+              "title": {
+                "es-ES": "En que se declara cómo haremos las obras con gran rectitud y pureza de intención",
+                "en-US": "In Which It Is Explained How We May Do Our Actions with Great Rectitude and Purity of Intention"
+              }
+            },
+            {
+              "id": "p1-t3-c09",
+              "title": {
+                "es-ES": "Que la causa de hallarnos algunas veces distraídos y desaprovechados no son las ocupaciones exteriores, sino el no hacerlas como debemos",
+                "en-US": "That the Reason Why We Find Ourselves Sometimes Distracted and Thrown Back in Our Spirituality by"
+              }
+            },
+            {
+              "id": "p1-t3-c10",
+              "title": {
+                "es-ES": "Del bien y ganancia grande que hay en hacer las obras de la manera que habemos dicho",
+                "en-US": "Of the Great Benefit and Gain to Be Found in Doing One’s Actions in the Manner Aforesaid"
+              }
+            },
+            {
+              "id": "p1-t3-c11",
+              "title": {
+                "es-ES": "Declárase más la rectitud y puridad de intención que habemos de tener en nuestras obras",
+                "en-US": "A Further Declaration of the Rectitude and Purity of Intention Which We Ought to Have in Our Actions"
+              }
+            },
+            {
+              "id": "p1-t3-c12",
+              "title": {
+                "es-ES": "De algunas señales en que se conocerá cuándo hace uno las cosas puramente por Dios, y cuándo se busca en ellas a sí mismo",
+                "en-US": "Of Some Signs Whereby It Will be Known When One Goes After Things Purely for God, and When One Goes After Them for Oneself"
+              }
+            },
+            {
+              "id": "p1-t3-c13",
+              "title": {
+                "es-ES": "Cómo habemos de ir creciendo y subiendo en la rectitud y puridad de intención",
+                "en-US": "How We Ought to Go on Growing and Mounting in Rectitude and Purity of Intention"
+              }
+            },
+            {
+              "id": "p1-t3-c14",
+              "title": {
+                "es-ES": "De tres grados de perfección, por los cuales podemos ir subiendo a gran pureza de intención y a grande y perfecto amor de Dios",
+                "en-US": "Of Three Degrees of Perfection Whereby We May Ascend to Great Purity of Intention and Great Love of God"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p1-t4",
+          "title": {
+            "es-ES": "De la unión y caridad fraterna",
+            "en-US": "On union and fraternal charity",
+            "pt-BR": "Da união e caridade fraterna"
+          },
+          "children": [
+            {
+              "id": "p1-t4-c01",
+              "title": {
+                "es-ES": "Del valor y excelencia de la caridad y unión fraterna",
+                "en-US": "Of the Merit and Excellence of Charity and Fraternal Union"
+              }
+            },
+            {
+              "id": "p1-t4-c02",
+              "title": {
+                "es-ES": "De la necesidad que tenemos de esta unión y caridad, y de algunos medios para conservarnos en ella",
+                "en-US": "Of the Need We Have of This Charity and Union, and of Some Means to Preserve Us in the Same"
+              }
+            },
+            {
+              "id": "p1-t4-c03",
+              "title": {
+                "es-ES": "De algunas razones sacadas de la Sagrada Escritura que nos obligan a tener caridad y unión con nuestros hermanos",
+                "en-US": "Of Some Reasons from Holy Scripture Binding Us to Keep Charity and Union with Our Brethren"
+              }
+            },
+            {
+              "id": "p1-t4-c04",
+              "title": {
+                "es-ES": "De qué manera ha de ser la unión que habemos detener con nuestros hermanos",
+                "en-US": "Of the Manner and Character of the Union Which We Ought to Have with Our Brethren"
+              }
+            },
+            {
+              "id": "p1-t4-c05",
+              "title": {
+                "es-ES": "Se comienza a declarar en particular qué es lo que nos pide la unión y caridad fraterna, y lo que nos ayudará, a conservarla",
+                "en-US": "Here We Begin to Declare in Particular What It Is That Union and Fraternal Charity Requires of Us, and What Will Help Us to Keep It"
+              }
+            },
+            {
+              "id": "p1-t4-c06",
+              "title": {
+                "es-ES": "De otras dos cosas que pide la caridad y unión",
+                "en-US": "Of Two Other Conditions of Charity and Union"
+              }
+            },
+            {
+              "id": "p1-t4-c07",
+              "title": {
+                "es-ES": "De otra cosa que nos pide la caridad y nos ayudará a conservarla, que es tener y mostrar mucha estima de nuestros hermanos y hablar siempre bien de ellos",
+                "en-US": "Of Another Thing That Charity Requires, and Which Will Help Much to Preserve It, Which Is to Have and Show a Great Esteem for Our Brothers and Always Speak Well of Them"
+              }
+            },
+            {
+              "id": "p1-t4-c08",
+              "title": {
+                "es-ES": "Que nos debemos guardar mucho de decir a otro: «Fulano dijo esto de vos», siendo cosa que le puede amargar",
+                "en-US": "That We Ought Much to Beware of Telling Another, “Soand-So Has Said This and That of You,’ Where It May Give Him Any Offense"
+              }
+            },
+            {
+              "id": "p1-t4-c09",
+              "title": {
+                "es-ES": "Que las palabras buenas y blandas ayudan mucho a conservar la unión y caridad, y las no tales le son contrarias",
+                "en-US": "That Good and Fair Words Help Very Much to Preserve Charity, While Their Contraries Have a Contrary Effect"
+              }
+            },
+            {
+              "id": "p1-t4-c10",
+              "title": {
+                "es-ES": "Que nos debemos guardar mucho de palabras picantes que pueden lastimar o disgustar a nuestro hermano",
+                "en-US": "That We Ought to Be Much on Our Guard Against Biting Words That May Offend Our Brother or Give Him Any Displeasure"
+              }
+            },
+            {
+              "id": "p1-t4-c11",
+              "title": {
+                "es-ES": "Que nos hemos de guardar de porfiar, contradecir, reprender y de otras palabras semejantes",
+                "en-US": "That We Ought to Beware of Wrangling, Contradicting, and Reprehending"
+              }
+            },
+            {
+              "id": "p1-t4-c12",
+              "title": {
+                "es-ES": "Del buen modo y buenas palabras con que se ha de ejercitar el oficio de caridad",
+                "en-US": "Of the Good Grace and Good Words with Which an Office of Charity Should Be Exercised"
+              }
+            },
+            {
+              "id": "p1-t4-c13",
+              "title": {
+                "es-ES": "Cómo nos debemos haber cuando hubo algún encuentro o disgusto con nuestro hermano",
+                "en-US": "Of What We Are to Do When We Have Had Any Passage of Arms or Disagreement with Our Brother"
+              }
+            },
+            {
+              "id": "p1-t4-c14",
+              "title": {
+                "es-ES": "De tres avisos que habemos de guardar cuando otro nos dio alguna ocasión de disgusto",
+                "en-US": "Of Three Directions to Be Observed When Another Has Given Us Some Occasion of Annoyance"
+              }
+            },
+            {
+              "id": "p1-t4-c15",
+              "title": {
+                "es-ES": "De los juicios temerarios; declárase en qué consiste su malicia y gravedad",
+                "en-US": "Of Rash Judgments, Explaining in What Their Malice and Gravity Consists"
+              }
+            },
+            {
+              "id": "p1-t4-c16",
+              "title": {
+                "es-ES": "De las causas y raíces de donde proceden los juicios temerarios, y de sus remedios",
+                "en-US": "Of the Causes and Roots Whence Rash Judgments Proceed, and Their Remedies"
+              }
+            },
+            {
+              "id": "p1-t4-c17",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "In Which the Above Is Confirmed by Sundry Examples"
+              }
+            },
+            {
+              "id": "p1-t4-c18",
+              "title": {
+                "es-ES": "De tres maneras de unión y amistades no buenas",
+                "en-US": "Of Other Manners of Union and Friendships Not Good"
+              }
+            },
+            {
+              "id": "p1-t4-c19",
+              "title": {
+                "es-ES": "De la segunda manera de amistades y juntas no buenas",
+                "en-US": "Of the Second Manner of Friendships and Associations That Are Not Good"
+              }
+            },
+            {
+              "id": "p1-t4-c20",
+              "title": {
+                "es-ES": "De la tercera manera de unión y junta unta muy perjudicial a la Religión. La tercera manera de juntas y amistades particulares es peor y",
+                "en-US": "Of a Third Sort of Union and Association Very Harmful to Religion"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p1-t5",
+          "title": {
+            "es-ES": "De la oración",
+            "en-US": "On prayer",
+            "pt-BR": "Da oração"
+          },
+          "children": [
+            {
+              "id": "p1-t5-c01",
+              "title": {
+                "es-ES": "Del valor y excelencia de la oración",
+                "en-US": "Of the Value and Excellence of Prayer"
+              }
+            },
+            {
+              "id": "p1-t5-c02",
+              "title": {
+                "es-ES": "De la necesidad que tenemos de la oración",
+                "en-US": "Of the Need in Which We Stand of Prayer"
+              }
+            },
+            {
+              "id": "p1-t5-c03",
+              "title": {
+                "es-ES": "Que debemos mucho a Dios por habernos hecho tan fácil una cosa por una parte tan excelente y por otra tan necesaria",
+                "en-US": "That We Owe Much to God for Having Made So Easy for Us a Thing at Once So Excellent and So Necessary"
+              }
+            },
+            {
+              "id": "p1-t5-c04",
+              "title": {
+                "es-ES": "De dos maneras de oración mental",
+                "en-US": "Of Two Sorts of Mental Prayer"
+              }
+            },
+            {
+              "id": "p1-t5-c05",
+              "title": {
+                "es-ES": "Cómo la Sagrada Escritura nos declara estas dos maneras de oración",
+                "en-US": "How Holy Writ Lays Before Us These Two Sorts of Prayer"
+              }
+            },
+            {
+              "id": "p1-t5-c06",
+              "title": {
+                "es-ES": "En que se declara y confirma más esta doctrina",
+                "en-US": "Wherein This Doctrine Is Further Explained and Confirmed"
+              }
+            },
+            {
+              "id": "p1-t5-c07",
+              "title": {
+                "es-ES": "De la oración mental ordinaria",
+                "en-US": "Of Ordinary Mental Prayer"
+              }
+            },
+            {
+              "id": "p1-t5-c08",
+              "title": {
+                "es-ES": "De la necesidad de la meditación",
+                "en-US": "Of the Necessity of Meditation"
+              }
+            },
+            {
+              "id": "p1-t5-c09",
+              "title": {
+                "es-ES": "De un bien y provecho grande que habemos de sacar de la meditación, y cómo se ha de tener para aprovecharnos de ella",
+                "en-US": "Of One Good Result and Great Advantage That We Should Draw from Meditation, and of the Method to Adopt in Order to Profit Thereby"
+              }
+            },
+            {
+              "id": "p1-t5-c10",
+              "title": {
+                "es-ES": "De otros bienes y provechos que hay en la meditación",
+                "en-US": "Of Other Good Things and Advantages That There Are in Meditation"
+              }
+            },
+            {
+              "id": "p1-t5-c11",
+              "title": {
+                "es-ES": "Del modo que se ha de tener en la oración, y el fruto que habemos de sacar de ella",
+                "en-US": "Of the Conduct to Be Held in Meditation, and the Fruit to Be Gathered from It"
+              }
+            },
+            {
+              "id": "p1-t5-c12",
+              "title": {
+                "es-ES": "De cuánta importancia sea el detenernos en los actos y afectos de la voluntad",
+                "en-US": "How Important It Is to Dwell on the Acts and Affections of the Will"
+              }
+            },
+            {
+              "id": "p1-t5-c13",
+              "title": {
+                "es-ES": "En que se satisface a la queja de los que dicen que no pueden o no saben meditar ni discutir con el entendimiento",
+                "en-US": "Satisfying the Complaint of Those Who Say They Are Unable, and Have No Idea How, to Meditate and Reason with the Understanding"
+              }
+            },
+            {
+              "id": "p1-t5-c14",
+              "title": {
+                "es-ES": "De dos avisos que nos ayudarán mucho para tener buena oración y sacar fruto de ella",
+                "en-US": "Two Pieces of Advice Calculated to Aid Us Much in Making Our Meditation Well and Drawing Fruit Therefrom"
+              }
+            },
+            {
+              "id": "p1-t5-c15",
+              "title": {
+                "es-ES": "Cómo se entiende que en la oración habemos de tomar a pechos una cosa, aquella de que tenemos más necesidad, e insistir en ella hasta alcanzarla",
+                "en-US": "How It Is to Be Understood That in Meditation We Should Take to Heart One Thing, That of Which We Have Greatest Need, and Insist Thereon Until We Get It"
+              }
+            },
+            {
+              "id": "p1-t5-c16",
+              "title": {
+                "es-ES": "Cómo nos podremos detener mucho en la oración en una misma cosa, y, se pone la práctica de un modo de oración muy provechoso, que es ir descendiendo a casos particulares",
+                "en-US": "How We May Dwell Long in Meditation on One and the Same Thing; and a Very Profitable, Practical Method of Meditation by Descending to Particular Cases"
+              }
+            },
+            {
+              "id": "p1-t5-c17",
+              "title": {
+                "es-ES": "Que en la consideración de los misterios hemos de ir también despacio, y no pasar por ellos superficialmente, y de algunos medios que nos ayudarán para esto",
+                "en-US": "That in the Consideration of the Divine Mysteries We Should Also Proceed Leisurely, and Not Pass Over Them Superficially; and of Some Means to Help Us to Do This"
+              }
+            },
+            {
+              "id": "p1-t5-c18",
+              "title": {
+                "es-ES": "Muéstrese prácticamente cómo está en nuestra mano tener siempre buena oración y sacar fruto de ella",
+                "en-US": "Showing in Practice How It Is in Our Power Always to Make a Good Meditation and Gather Fruit from It"
+              }
+            },
+            {
+              "id": "p1-t5-c19",
+              "title": {
+                "es-ES": "De algunos medios y modos fáciles para tener buena y provechosa oración",
+                "en-US": "Of Some Other Easy Means and Methods How to Make a Good and Profitable Meditation"
+              }
+            },
+            {
+              "id": "p1-t5-c20",
+              "title": {
+                "es-ES": "Que nos habemos de contentar con la oración que hemos dicho, y no andar congojados ni quejosos por no llegar a otra más alta",
+                "en-US": "That We Must Be Content with the Prayer Described, and Not Repine or Complain at Not Reaching Anything Higher"
+              }
+            },
+            {
+              "id": "p1-t5-c21",
+              "title": {
+                "es-ES": "De las causas de la distracción en la oración y de sus remedios",
+                "en-US": "Of the Causes of Distraction at Prayer, and Remedies for It"
+              }
+            },
+            {
+              "id": "p1-t5-c22",
+              "title": {
+                "es-ES": "De algunos medios para estar con atención y reverencia en la oración",
+                "en-US": "Of Other Means of Keeping Up Attention and Reverence at Meditation"
+              }
+            },
+            {
+              "id": "p1-t5-c23",
+              "title": {
+                "es-ES": "De un consuelo grande para los que son molestados de distracciones en la oración",
+                "en-US": "A Great Comfort for Those Who Are Troubled with Distractions at Prayer"
+              }
+            },
+            {
+              "id": "p1-t5-c24",
+              "title": {
+                "es-ES": "De la tentación del sueño, de dónde proviene y de los remedios para ella",
+                "en-US": "Of the Temptation to Sleep, Whence It Comes, and the Remedies to Meet It"
+              }
+            },
+            {
+              "id": "p1-t5-c25",
+              "title": {
+                "es-ES": "Cuánto conviene tomar algunos tiempos extraordinarios para darnos más a la oración",
+                "en-US": "How Proper It Is to Take Some Extraordinary Times to Give Ourselves More to Prayer"
+              }
+            },
+            {
+              "id": "p1-t5-c26",
+              "title": {
+                "es-ES": "Del fruto que debemos, sacar cuando nos recogemos a estos ejercicios",
+                "en-US": "Of the Fruit That We Should Gather When We Betake Ourselves to These Exercises"
+              }
+            },
+            {
+              "id": "p1-t5-c27",
+              "title": {
+                "es-ES": "De algunos avisos que nos ayudarán para aprovecharnos más de estos ejercicios",
+                "en-US": "Some Directions That Will Help Us to Profit More by These Exercises"
+              }
+            },
+            {
+              "id": "p1-t5-c28",
+              "title": {
+                "es-ES": "De la lección espiritual, cuán importante sea, y de algunos medios que nos ayudarán a tenerla bien y provechosamente",
+                "en-US": "Of Spiritual Reading, How Important It Is, and of Sundry Means That Will Help Us to Make It Well and Profitably"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p1-t6",
+          "title": {
+            "es-ES": "De la presencia de Dios",
+            "en-US": "On the presence of God",
+            "pt-BR": "Da presença de Deus"
+          },
+          "children": [
+            {
+              "id": "p1-t6-c01",
+              "title": {
+                "es-ES": "De la excelencia de este ejercicio y de los bienes grandes que hay en él",
+                "en-US": "Of the Excellence of This Exercise and the Great Benefits That It Contains"
+              }
+            },
+            {
+              "id": "p1-t6-c02",
+              "title": {
+                "es-ES": "En qué consiste este ejercicio de andar siempre en la presencia de Dios",
+                "en-US": "In What This Practice of Walking Always in the Presence vf God Consists"
+              }
+            },
+            {
+              "id": "p1-t6-c03",
+              "title": {
+                "es-ES": "De los actos de la voluntad en que consiste principalmente este ejercicio, y cómo nos habemos de ejercitar en ellos",
+                "en-US": "Of the Acts of the Will, in Which This Exercise Chiefly Consists, and How We Are to Practise Them"
+              }
+            },
+            {
+              "id": "p1-t6-c04",
+              "title": {
+                "es-ES": "Se declara más la práctica de este ejercicio y se pone un modo de andar en la presencia de Dios muy fácil y provechoso y de mucha perfección",
+                "en-US": "Further Explanation of This Exercise, and a Method of Walking in the Presence of God Very Easy and Profitable and Leading to Great Perfection"
+              }
+            },
+            {
+              "id": "p1-t6-c05",
+              "title": {
+                "es-ES": "De algunas diferencias y ventajas que hay de este ejercicio de andar en la presencia de Dios a otros",
+                "en-US": "Of Some Differences and Advantages Which This Particular Exercise of Walking Always in the Presence of God Has over Others"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p1-t7",
+          "title": {
+            "es-ES": "Del examen de la conciencia",
+            "en-US": "On the examination of conscience",
+            "pt-BR": "Do exame de consciência"
+          },
+          "children": [
+            {
+              "id": "p1-t7-c01",
+              "title": {
+                "es-ES": "Cuán importante es el examen de la conciencia",
+                "en-US": "The Importance of Examination of Conscience"
+              }
+            },
+            {
+              "id": "p1-t7-c02",
+              "title": {
+                "es-ES": "De qué casas se ha de hacer el examen particular",
+                "en-US": "On What Subjects the Particular Examen Should Be Made"
+              }
+            },
+            {
+              "id": "p1-t7-c03",
+              "title": {
+                "es-ES": "De dos avisos importantes para acertar a elegir de qué cosa se ha de traer el examen particular",
+                "en-US": "Of Two Important Pieces of Advice How to Hit Upon and Choose the Right Subject for Particular Examen"
+              }
+            },
+            {
+              "id": "p1-t7-c04",
+              "title": {
+                "es-ES": "Que el examen particular se ha de traer de una cosa sola",
+                "en-US": "That the Particular Examen Must Be Made on One Thing Only"
+              }
+            },
+            {
+              "id": "p1-t7-c05",
+              "title": {
+                "es-ES": "Cómo se ha de traer y dividir el examen particular por las partes y grados de las virtudes",
+                "en-US": "How to Divide the Particular Examen According to the Parts and Degrees of Virtues"
+              }
+            },
+            {
+              "id": "p1-t7-c06",
+              "title": {
+                "es-ES": "Que no se ha de mudar fácilmente la materia del examen particular y qué tanto tiempo será bien traerle de una misma cosa",
+                "en-US": "That the Matter of the Particular Examen Should Not Be Lightly Changed, and for What Length of Time It Is Well to Keep It on the Same Subject"
+              }
+            },
+            {
+              "id": "p1-t7-c07",
+              "title": {
+                "es-ES": "Cómo se ha de hacer el examen particular",
+                "en-US": "How the Particular Examen Is To Be Made"
+              }
+            },
+            {
+              "id": "p1-t7-c08",
+              "title": {
+                "es-ES": "Que en el examen habemos de insistir y detenernos principalmente en el dolor y propósito de la enmienda",
+                "en-US": "That in the Examen We Should Insist and Dwell Principally on Sorrow and Purpose of Amendment"
+              }
+            },
+            {
+              "id": "p1-t7-c09",
+              "title": {
+                "es-ES": "Que ayuda mucho añadir al examen algunas penitencias",
+                "en-US": "That It Is a Very Helpful Thing to Add Some Penances to the Examen"
+              }
+            },
+            {
+              "id": "p1-t7-c10",
+              "title": {
+                "es-ES": "Del examen general de la conciencia",
+                "en-US": "Of the General Examination of Conscience"
+              }
+            },
+            {
+              "id": "p1-t7-c11",
+              "title": {
+                "es-ES": "Que el examen de la conciencia es medio para poner por obra todos los demás medios y avisos espirituales, y que la causa de no aprovechar es no hacerlo como debemos",
+                "en-US": "That the Examen of Conscience Is a Means of Putting into Execution All Other Spiritual Methods and Directions, and the Reason Why We Do Not Profit by It Is That We Do Not Make It As We Ought"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p1-t8",
+          "title": {
+            "es-ES": "De la conformidad con la voluntad de Dios",
+            "en-US": "On conformity with the will of God",
+            "pt-BR": "Da conformidade com a vontade de Deus"
+          },
+          "children": [
+            {
+              "id": "p1-t8-c01",
+              "title": {
+                "es-ES": "En que se ponen dos fundamentos principales",
+                "en-US": "In Which Two Fundamental Principles Are Laid Down"
+              }
+            },
+            {
+              "id": "p1-t8-c02",
+              "title": {
+                "es-ES": "En que se declara más el segundo fundamento",
+                "en-US": "Further Explanation of the Second Fundamental Principle"
+              }
+            },
+            {
+              "id": "p1-t8-c03",
+              "title": {
+                "es-ES": "De los bienes y provechos grandes que encierra en sí esta conformidad con la voluntad de Dios",
+                "en-US": "Of the Great Benefits and Advantages Contained in This Conformity to the Will of God"
+              }
+            },
+            {
+              "id": "p1-t8-c04",
+              "title": {
+                "es-ES": "Que esta perfecta conformidad con la voluntad de Dios es una felicidad y bienaventuranza en la tierra",
+                "en-US": "That This Perfect Conformity to the Will of God Is Happiness and Bliss on Earth"
+              }
+            },
+            {
+              "id": "p1-t8-c05",
+              "title": {
+                "es-ES": "Que en sólo Dios se halla contento y el que le pusiera en otra cosa no podrá tener verdadero contento",
+                "en-US": "That in God Alone Satisfaction Is to Be Found, and He Who Shall Set Up His Rest in Anything Else Shall Never Find True Satisfaction"
+              }
+            },
+            {
+              "id": "p1-t8-c06",
+              "title": {
+                "es-ES": "En que se declara por otra vía cómo el conformarnos con la voluntad de Dios es medio para tener contento",
+                "en-US": "Another Way of Showing How Conforming Ourselves to the Will of God Is the Way to Find Contentment"
+              }
+            },
+            {
+              "id": "p1-t8-c07",
+              "title": {
+                "es-ES": "De otros bienes y provechos que hay en esta conformidad con la voluntad de Dios",
+                "en-US": "Of Other Benefits and Advantages That There Are in This Conformity to the Will of God"
+              }
+            },
+            {
+              "id": "p1-t8-c08",
+              "title": {
+                "es-ES": "En que se confirma con algunos ejemplos cuánto agrada a Dios este ejercicio de la conformidad con su voluntad, y la perfección grande que hay en él",
+                "en-US": "In Which It Is Confirmed by Examples How Pleasing to God Is This Exercise of Conformity to His Will, and the Great Perfection There Is in It"
+              }
+            },
+            {
+              "id": "p1-t8-c09",
+              "title": {
+                "es-ES": "De algunas cosas que nos harán fácil y suave este ejercicio de la conformidad con la voluntad de Dios",
+                "en-US": "Of Some Facts That Will Render This Exercise of Conformity with the Will of God Easy and Pleasant"
+              }
+            },
+            {
+              "id": "p1-t8-c10",
+              "title": {
+                "es-ES": "De la providencia paternal y particular que tiene Dios de nosotros, y de la confianza filial que habemos de tener nosotros en El",
+                "en-US": "Of the Paternal and Particular Providence That God Has over Us, and of the Filial Confidence That We Should Have in Him"
+              }
+            },
+            {
+              "id": "p1-t8-c11",
+              "title": {
+                "es-ES": "De algunos lugares y ejemplos de la Sagrada Escritura que nos ayudarán para alcanzar esta familiar y filial confianza en Dios",
+                "en-US": "Of Some Passages and Examples of Holy Scripture to Aid Us in Gaining This Familiar and Filial Confidence in God"
+              }
+            },
+            {
+              "id": "p1-t8-c12",
+              "title": {
+                "es-ES": "De cuánto provecho y perfección sea aplicar la oración a este ejercicio de la conformidad con la voluntad de Dios, y cómo ha-",
+                "en-US": "How Profitable and Perfect a Thing It Would Be to Apply Meditation to This Exercise of Conformity to the Will of God; and How We Should Descend to Particulars Until We Reach the Third Degree of Conformity"
+              }
+            },
+            {
+              "id": "p1-t8-c13",
+              "title": {
+                "es-ES": "De la indiferencia y conformidad con la voluntad de Dios que ha de tener el religioso para ir y estar en cualquier parte del mundo donde la obediencia le enviare",
+                "en-US": "Of the Indifference and Conformity Which a Religious Should Have for Being in Any Part of the World Whither Obedience May Send Him"
+              }
+            },
+            {
+              "id": "p1-t8-c14",
+              "title": {
+                "es-ES": "De la indiferencia y conformidad con la voluntad de Dios que ha de tener el religioso para cualquier oficio y ocupación en que la obediencia le quisiere poner",
+                "en-US": "Of the Indifference and Conformity to the Will of God Which a Religious Should Have for Any Office and Occupation in Which Obedience May Place Him"
+              }
+            },
+            {
+              "id": "p1-t8-c15",
+              "title": {
+                "es-ES": "De la conformidad que habernos de tener con la voluntad de Dios en el repartimiento de los talentos y dones naturales",
+                "en-US": "Of the Conformity That We Should Have to the Will of God in the Distribution of Natural Gifts and Talents"
+              }
+            },
+            {
+              "id": "p1-t8-c16",
+              "title": {
+                "es-ES": "De la conformidad que habemos de tener con la voluntad de Dios en las enfermedades",
+                "en-US": "Of the Conformity That We Should Have to the Will of God in Times of Sickness"
+              }
+            },
+            {
+              "id": "p1-t8-c17",
+              "title": {
+                "es-ES": "Que no habemos de poner nuestra confianza en los médicos ni en",
+                "en-US": "That We Ought Not to Put Our Trust in Doctors or Drugs, but in God; and Conform Ourselves to His Will Not Only in the Sickness Itself, but in All the Incidents of the Same"
+              }
+            },
+            {
+              "id": "p1-t8-c18",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "In Which What Has Been Said Is Confirmed by Some Examples"
+              }
+            },
+            {
+              "id": "p1-t8-c19",
+              "title": {
+                "es-ES": "De la conformidad que habemos de tener con la voluntad de Dios, así en la muerte como en la vida",
+                "en-US": "Of the Conformity We Should Have to the Will of God in Death as in Life"
+              }
+            },
+            {
+              "id": "p1-t8-c20",
+              "title": {
+                "es-ES": "De algunas razones y motivos por los cuales podemos desear la muerte lícita y santamente",
+                "en-US": "Of Sundry Reasens and Motives for Which We May Lawfully and Holily Desire Death"
+              }
+            },
+            {
+              "id": "p1-t8-c21",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "What Has Been Said in the Preceding Chapter, Confirmed by Examples"
+              }
+            },
+            {
+              "id": "p1-t8-c22",
+              "title": {
+                "es-ES": "De la conformidad que habernos de tener con la voluntad de Dios en los trabajos y calamidades generales que nos envía",
+                "en-US": "Of the Conformity Which We Should Have to the Will of God in the General Afflictions and Calamities Which He Sends Us"
+              }
+            },
+            {
+              "id": "p1-t8-c23",
+              "title": {
+                "es-ES": "De un medio que nos ayudará mucho para llevar bien y con mucha conformidad los trabajos que el Señor nos envía, así particulares como generales, que es conocer y sentir nuestros pecados",
+                "en-US": "Of a Means That Will Help Us Much to Bear Well and with Conformity the Afflictions That the Lord Sends Us, As Well Particular As General, Which Is the Knowledge and Inward Consciousness of Our Own Sins"
+              }
+            },
+            {
+              "id": "p1-t8-c24",
+              "title": {
+                "es-ES": "De la conformidad que habemos de tener con la voluntad de Dios en la sequedad y desconsuelos de la oración, y qué entendemos aquí por sequedad y desconsuelo",
+                "en-US": "Of the Conformity That We Ought to Have with the Will of God in Dryness and Desolation in Prayer"
+              }
+            },
+            {
+              "id": "p1-t8-c25",
+              "title": {
+                "es-ES": "En que se satisface a la queja de los que sienten sequedales y desconsuelos en la oración",
+                "en-US": "Satisfying the Complaint of Those Who Are Dry and Disconsolate at Meditation"
+              }
+            },
+            {
+              "id": "p1-t8-c26",
+              "title": {
+                "es-ES": "Como convertiremos la sequedad y desconsuelos en muy buena y provechosa oración",
+                "en-US": "How to Turn Aridity and Desolation into a Good and Profitable Prayer"
+              }
+            },
+            {
+              "id": "p1-t8-c27",
+              "title": {
+                "es-ES": "De otras razones que hay para consolarnos y conformarnos con la voluntad de Dios en las sequedades y desconsuelos de la oración",
+                "en-US": "Other Reasons to Comfort and Conform Us to the Will of God in Dryness and Desolation at Meditation"
+              }
+            },
+            {
+              "id": "p1-t8-c28",
+              "title": {
+                "es-ES": "Que es grave engaño y grande tentación dejar la oración por hallarse en ella de la manera dicha",
+                "en-US": "That lt Is a Great Mistake and Grave Temptation to Give Over Meditation for Finding Ourselves in the Condition Aforesaid"
+              }
+            },
+            {
+              "id": "p1-t8-c29",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "What Has Been Said Is Confirmed by Some Examples"
+              }
+            },
+            {
+              "id": "p1-t8-c30",
+              "title": {
+                "es-ES": "De la conformidad que habemos de tener con la voluntad de Dios en el repartimiento de las demás virtudes y dones sobrenaturales",
+                "en-US": "Of Conformity to the Will of God in the Distribution of Virtues and Supernatural Gifts"
+              }
+            },
+            {
+              "id": "p1-t8-c31",
+              "title": {
+                "es-ES": "De la conformidad que habemos de tener con la voluntad de Dios en los bienes de gloria",
+                "en-US": "Of the Conformity That We Should Have to the Will of God As Regards the Good Things of Heavenly Glory"
+              }
+            },
+            {
+              "id": "p1-t8-c32",
+              "title": {
+                "es-ES": "De la conformidad y unión y amor perfecto cm con Dios, y cómo nos habemos de ejercitar en este ejercicio",
+                "en-US": "Of Conformity and Union and Perfect Love for God, and How We Should Practise This Exercise"
+              }
+            },
+            {
+              "id": "p1-t8-c33",
+              "title": {
+                "es-ES": "Cuán encomendado y repetido es este ejercicio en la Escritura divina",
+                "en-US": "How Much This Exercise Is Recommended and Repeated in Holy Scripture"
+              }
+            },
+            {
+              "id": "p1-t8-c34",
+              "title": {
+                "es-ES": "Cómo nos podremos extender más en este ejercicio",
+                "en-US": "How We May Further Extend This Exercise"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": {
+        "es-ES": "Segunda parte",
+        "en-US": "Part Two",
+        "pt-BR": "Segunda parte"
+      },
+      "children": [
+        {
+          "id": "p2-prologo",
+          "title": {
+            "es-ES": "Al lector",
+            "pt-BR": "Ao leitor"
+          }
+        },
+        {
+          "id": "p2-t1",
+          "title": {
+            "es-ES": "De la mortificación",
+            "en-US": "On mortification",
+            "pt-BR": "Da mortificação"
+          },
+          "children": [
+            {
+              "id": "p2-t1-c01",
+              "title": {
+                "es-ES": "Que es menester juntar la mortificación con la oración, y que estas dos cosas se han de ayudar la una a la otra",
+                "en-US": "That We Must Join Mortification to Prayer, and That These Two Things Must Help One Another"
+              }
+            },
+            {
+              "id": "p2-t1-c02",
+              "title": {
+                "es-ES": "En qué consiste la mortificación, y de la necesidad que de ella tenemos",
+                "en-US": "In What Mortification Consists, and the Need in Which We Stand of It"
+              }
+            },
+            {
+              "id": "p2-t1-c03",
+              "title": {
+                "es-ES": "Que es de los mayores castigos de Dios el entregar a uno a sus apetitos y deseos, dejándole que se vaya tras ellos",
+                "en-US": "That One of the Greatest Chastisements of God Is to Give a Man Over to His Appetites and Desires, Abandoning Him So That He Goes After Them"
+              }
+            },
+            {
+              "id": "p2-t1-c04",
+              "title": {
+                "es-ES": "Del odio santo de sí mismo y del espíritu de mortificación y penitencia que de él nace",
+                "en-US": "Of Holy Hatred of Oneself, and the Spirit of Mortification and Penance That Is Born of It"
+              }
+            },
+            {
+              "id": "p2-t1-c05",
+              "title": {
+                "es-ES": "Que nuestro aprovechamiento y perfección está en la mortificación",
+                "en-US": "That All Our Spiritual Advancement and Perfection Consists in Mortification"
+              }
+            },
+            {
+              "id": "p2-t1-c06",
+              "title": {
+                "es-ES": "Que a los religiosos, y especialmente a los que tratan con prójimos, les es más particularmente necesaria la mortificación",
+                "en-US": "That Mortification Is Especially Necessary for Religious, Particularly for Such as Have to Do with Their Neighbor"
+              }
+            },
+            {
+              "id": "p2-t1-c07",
+              "title": {
+                "es-ES": "De las maneras que hay de mortificación y penitencia, y cómo ambas las abraza y usa la Compañía",
+                "en-US": "Of Two Sorts of Mortification and Penance, and How the Society Embraces and Practises Both"
+              }
+            },
+            {
+              "id": "p2-t1-c08",
+              "title": {
+                "es-ES": "Que la mortificación no es odio, sino verdadero amor, no sólo de nuestra ánima, sino también de nuestro mismo cuerpo",
+                "en-US": "That Mortification Is Not a Hatred, but a True Love, Not of Our Soul Alone, but Even of Our Very Body"
+              }
+            },
+            {
+              "id": "p2-t1-c09",
+              "title": {
+                "es-ES": "Que el que no trata de mortificarse, no solo no vive vida espiritual, pero ni racional",
+                "en-US": "That He Who Makes No Effort to Mortify Himself Does Not Only Not Live the Life of a Spiritual, but Not Even of a Rational, Being"
+              }
+            },
+            {
+              "id": "p2-t1-c10",
+              "title": {
+                "es-ES": "Que es mayor trabajo no tratar uno de mortificarse que el tratar de eso",
+                "en-US": "That There Is Greater Trouble in Not Practising Mortification Than in Practising It"
+              }
+            },
+            {
+              "id": "p2-t1-c11",
+              "title": {
+                "es-ES": "Se comienza a tratar del ejercicio de mortificación",
+                "en-US": "Here We Begin to Treat of That Practice of Mortification"
+              }
+            },
+            {
+              "id": "p2-t1-c12",
+              "title": {
+                "es-ES": "Cómo se ha de ir poniendo en práctica el ejercicio de la mortificación",
+                "en-US": "How the Exercise of Mortification Ought to Be Put in Practice ieee ON being the principal means available on"
+              }
+            },
+            {
+              "id": "p2-t1-c13",
+              "title": {
+                "es-ES": "Cómo nos hemos de mortificar en las cosas lícitas y también en las cosas necesarias",
+                "en-US": "How We Should Mortify Ourselves in Lawful Things, and in Necessary Things, Too"
+              }
+            },
+            {
+              "id": "p2-t1-c14",
+              "title": {
+                "es-ES": "Que principalmente nos habernos de mortificar en aquel vicio o pasión que reina más en nosotros y nos hace caer en mayores faltas",
+                "en-US": "That We Should Chiefly Mortify Ourselves in That Vice or Passion Which Has the Greater Sway Over Us and Makes Us Fall into Our Greatest Faults"
+              }
+            },
+            {
+              "id": "p2-t1-c15",
+              "title": {
+                "es-ES": "Que no hemos de dejar las mortificaciones en cosas pequeñas y cuán provechosas y agradables sean a Dios estas mortificaciones",
+                "en-US": "That We Ought Not to Omit Mortifications in Small Things, and How Profitable and Pleasing to God These Mortifications Are"
+              }
+            },
+            {
+              "id": "p2-t1-c16",
+              "title": {
+                "es-ES": "Del mal y daño que se sigue de menospreciar las mortificaciones en cosas pequeñas",
+                "en-US": "Of the Harm and Mischief That Comes of Neglecting Mortification in Small Things"
+              }
+            },
+            {
+              "id": "p2-t1-c17",
+              "title": {
+                "es-ES": "En que se ponen tres avisos importantes en esta materta",
+                "en-US": "Three Important Admonitions Upon This Subject"
+              }
+            },
+            {
+              "id": "p2-t1-c18",
+              "title": {
+                "es-ES": "Que por bueno y aprovechado que uno sea, siempre tiene necesidad de ejercitarse en la mortificación",
+                "en-US": "That It Is Always Necessary to Exercise Ourselves in Mortification, How Good and Advanced Soever We May Be in Virtue"
+              }
+            },
+            {
+              "id": "p2-t1-c19",
+              "title": {
+                "es-ES": "De dos medios que nos harán fácil y suave el ejercicio de la mortificación, que son la gracia del Señor y su santo amor",
+                "en-US": "Of Two Means That Will Make the Practice of Mortification Easy and Sweet, Which Are the Grace of God and His Holy Love"
+              }
+            },
+            {
+              "id": "p2-t1-c20",
+              "title": {
+                "es-ES": "De otro medio que nos facilitará y hará gustoso el ejercicio de la mortificación, que es la esperanza del galardón",
+                "en-US": "Of Another Motive That Will Facilitate and Make Agreeable the Practice of Mortification, Namely, the Hope of Reward"
+              }
+            },
+            {
+              "id": "p2-t1-c21",
+              "title": {
+                "es-ES": "En que se confirma con algunos ejemplos lo dicho en el capítulo pasado",
+                "en-US": "What Has Been Said in the Preceding Chapter Is Confirmed by Some Examples"
+              }
+            },
+            {
+              "id": "p2-t1-c22",
+              "title": {
+                "es-ES": "De otro medio que nos ayudará y hará fácil el ejercicio de la mortificación, que es el ejemplo de Cristo nuestro Redentor",
+                "en-US": "Of Another Motive That Will Help Us, and Render the Practice of Mortification Easy, Which Is the Example of Christ Our Redeemer"
+              }
+            },
+            {
+              "id": "p2-t1-c23",
+              "title": {
+                "es-ES": "De tres grados de mortificación",
+                "en-US": "Of Three Degrees of Mortification"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p2-t2",
+          "title": {
+            "es-ES": "De la modestia y silencio",
+            "en-US": "On modesty and silence",
+            "pt-BR": "Da modéstia e do silêncio"
+          },
+          "children": [
+            {
+              "id": "p2-t2-c01",
+              "title": {
+                "es-ES": "Cuán necesaria es la modestia para edificar y aprovechar a nuestros prójimos",
+                "en-US": "How Necessary Modesty Is for the Edification and Profit of Our Neighbor"
+              }
+            },
+            {
+              "id": "p2-t2-c02",
+              "title": {
+                "es-ES": "Cuan necesaria es la modestia para nuestro propio aprovechamiento",
+                "en-US": "How Necessary Modesty Is for Our Own Advancement"
+              }
+            },
+            {
+              "id": "p2-t2-c03",
+              "title": {
+                "es-ES": "Del engaño de algunos que hacen poco caso de estas cosas exteriores, diciendo que no está en eso la perfección",
+                "en-US": "Of the Mistake of Those Who Make Small Account of These Exterior Things, Saying that Perfection Does Not Consist in Them"
+              }
+            },
+            {
+              "id": "p2-t2-c04",
+              "title": {
+                "es-ES": "Del silencio y de los bienes y provechos grandes que hay en él",
+                "en-US": "Of Silence, and the Great Blessings and Advantages There Are in It"
+              }
+            },
+            {
+              "id": "p2-t2-c05",
+              "title": {
+                "es-ES": "Que el silencio es mi medio muy importante para ser hombres de oración",
+                "en-US": "That Silence Is a Very Important Means to Be a Man of Prayer"
+              }
+            },
+            {
+              "id": "p2-t2-c06",
+              "title": {
+                "es-ES": "Que el silencio es medio muy principal para aprovechar y alcanzar la perfección",
+                "en-US": "That Silence Is a Direct Means of Spiritual Advancement and the Attainment of Perfection"
+              }
+            },
+            {
+              "id": "p2-t2-c07",
+              "title": {
+                "es-ES": "Que andar uno andar uno con modestia, silencio y recogimiento no es vida triste, sino muy alegre",
+                "en-US": "That to Live in Modest Silence and Recollection Is Not a Sad but a Very Cheerful Life"
+              }
+            },
+            {
+              "id": "p2-t2-c08",
+              "title": {
+                "es-ES": "De las circunstancias que hemos de guardar en el hablar",
+                "en-US": "Of the Circumstances Necessary for Speaking Well"
+              }
+            },
+            {
+              "id": "p2-t2-c09",
+              "title": {
+                "es-ES": "Del vicio de la murmuración",
+                "en-US": "Of the Vice of Backbiting or Detraction"
+              }
+            },
+            {
+              "id": "p2-t2-c10",
+              "title": {
+                "es-ES": "Que no hemos de dar oído a murmuraciones",
+                "en-US": "That We Should Not Lend Our Ears to Detractions"
+              }
+            },
+            {
+              "id": "p2-t2-c11",
+              "title": {
+                "es-ES": "Que nos hemos de guardar de todo género de mentiras",
+                "en-US": "That We Must Beware of All Manner of Lies"
+              }
+            },
+            {
+              "id": "p2-t2-c12",
+              "title": {
+                "es-ES": "Que nos hemos de guardar de palabras juglares y ridículas y de decir gracias y donatres",
+                "en-US": "That We Should Beware of Jocose and Ridiculous Expressions, and Saying Smart and Witty Things"
+              }
+            },
+            {
+              "id": "p2-t2-c13",
+              "title": {
+                "es-ES": "Que nuestras pláticas y conversaciones han de ser Dios, y fe algunos medios que nos ayudarán para esto",
+                "en-US": "That Our Talk and Conversations Ought to Be of God, and of Some Means to Make Them So"
+              }
+            },
+            {
+              "id": "p2-t2-c14",
+              "title": {
+                "es-ES": "De otra razón muy principal, por la cual nos conviene mucho que nuestras pláticas y conversaciones con los prójimos sean de Dios",
+                "en-US": "Of Another Chief Reason Making It Highly Befitting that Our Talks and Conversations with Our Neighbors Should Be about God"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p2-t3",
+          "title": {
+            "es-ES": "De la virtud de la humildad",
+            "en-US": "On the virtue of humility",
+            "pt-BR": "Da virtude da humildade"
+          },
+          "children": [
+            {
+              "id": "p2-t3-c01",
+              "title": {
+                "es-ES": "De la excelencia de la virtud de la humildad, y de la necesidad que de ella tenemos",
+                "en-US": "Of the Excellence of the Virtue of Humility, and the Need We Have of It"
+              }
+            },
+            {
+              "id": "p2-t3-c02",
+              "title": {
+                "es-ES": "Que la humildad es fundamento de todas las virtudes",
+                "en-US": "That Humility Is the Foundation of All Virtues"
+              }
+            },
+            {
+              "id": "p2-t3-c03",
+              "title": {
+                "es-ES": "En que se declara más en particular cómo la humildad es fundamento de todas las virtudes, discurriendo por las más principales",
+                "en-US": "In Which lt Is Shown More in Detail How Humility Is the j Foundation of All Virtues, by Going Through the Chief of Them"
+              }
+            },
+            {
+              "id": "p2-t3-c04",
+              "title": {
+                "es-ES": "De la necesidad particular que tienen de esta virtud los que profesan ayudar a le salvación de los prójimos",
+                "en-US": "Of the Particular Need in Which They Stand of This Virtue, Whose Profession It Is to Help On the Salvation of Their Neighbor"
+              }
+            },
+            {
+              "id": "p2-t3-c05",
+              "title": {
+                "es-ES": "Del primer grado de humildad, que, es tenerse uno en poco y sentir bajamente de sí mismo",
+                "en-US": "Of the First Degree of Humility, Which Is to Make Little Account of Oneself and Always Think Poorly of Oneself"
+              }
+            },
+            {
+              "id": "p2-t3-c06",
+              "title": {
+                "es-ES": "Del propio conocimiento, que es la raíz, el medio único y necesario para alcanzar la humildad",
+                "en-US": "Of Self-Knowledge as the Root, and the Sole and Necessary Means to Attain Humility"
+              }
+            },
+            {
+              "id": "p2-t3-c07",
+              "title": {
+                "es-ES": "De un medio muy principal para conocerse el hombre a sí mismo y alcanzar la humildad, que es la consideración de sus pecados",
+                "en-US": "Of Another Main Motive for a Man to Know Himself and Gain Humility, Which Is the Consideration of His Sins"
+              }
+            },
+            {
+              "id": "p2-t3-c08",
+              "title": {
+                "es-ES": "Cómo nos habremos de ejercitar en el propio conocimiento para no desmayar ni desconfiar",
+                "en-US": "How We Should So Exercise Ourselves in Self-Knowledge as Not to Be Discouraged or Lose Confidence"
+              }
+            },
+            {
+              "id": "p2-t3-c09",
+              "title": {
+                "es-ES": "De los bienes y provechos grandes que hay en el ejercicio del propio conocimiento",
+                "en-US": "Of the Good Things and Great Advantages That There Are in the Exercise of Self-Knowledge"
+              }
+            },
+            {
+              "id": "p2-t3-c10",
+              "title": {
+                "es-ES": "Que el propio conocimiento no causa desmayo, sino antes ánimo y fortaleza",
+                "en-US": "That Self-Knowledge Does Not Bring Discouragement, but Rather Courage and Strength"
+              }
+            },
+            {
+              "id": "p2-t3-c11",
+              "title": {
+                "es-ES": "De otros bienes y provechos grandes que hay en el ejercicio del propio conocimiento",
+                "en-US": "Of Other Great Goods and Advantages That There Are in Self-Knowledge"
+              }
+            },
+            {
+              "id": "p2-t3-c12",
+              "title": {
+                "es-ES": "Cuánto conviene ejercitarnos en nuestro propio conocimiento",
+                "en-US": "How Much It Behooves Us to Exercise Ourselves in Self-Knowledge"
+              }
+            },
+            {
+              "id": "p2-t3-c13",
+              "title": {
+                "es-ES": "Del segundo grado de humildad: declarase en que consiste este grado",
+                "en-US": "Of the Second Degree of Humility, Explaining in What It Consists"
+              }
+            },
+            {
+              "id": "p2-t3-c14",
+              "title": {
+                "es-ES": "De algunos grados y escalones por donde hemos de subir a la perfección de este segundo grado de humildad",
+                "en-US": "Of Some Degrees and Steps Whereby to Mount to the Perfection of This Second Degree of Humility"
+              }
+            },
+            {
+              "id": "p2-t3-c15",
+              "title": {
+                "es-ES": "Del cuarto escalón, que es desear ser despreciados y tenidos en poco y holgarnos con ello",
+                "en-US": "Of the Fourth Step, Which Is to Desire to Be Run Down, and Go for Little or Nothing, and to Rejoice Therein"
+              }
+            },
+            {
+              "id": "p2-t3-c16",
+              "title": {
+                "es-ES": "Que la perfección de la humildad y de las demás virtudes, está en hacer sus actos con deleite y gusto, y cuánto importa esto para perseverar en la virtud",
+                "en-US": "That the Perfection of Humility and Other Virtues Lies in Doing the Acts Thereof with Delight and Pleasure, and How Important This Is for Perseverance in Virtue"
+              }
+            },
+            {
+              "id": "p2-t3-c17",
+              "title": {
+                "es-ES": "Declarase más la perfección a que hemos de procurar subir en este segundo grado de humildad",
+                "en-US": "A Further Explanation of the Perfection That Must Be Secured to Mount to This Second Degree of Humility"
+              }
+            },
+            {
+              "id": "p2-t3-c18",
+              "title": {
+                "es-ES": "De algunos medios para alcanzar este segundo grado de humildad, y particularmente del ejemplo de Cristo nuestro Señor",
+                "en-US": "Of Some Means to Gain This Second Degree of Humility, and Particularly the Example of Christ Our Lord"
+              }
+            },
+            {
+              "id": "p2-t3-c19",
+              "title": {
+                "es-ES": "De algunas razones y consideraciones humanas de que nos hemos de ayudar para ser humildes",
+                "en-US": "Of Some Human Reasons and Considerations That We Have at Hand to Help Us to Be Humble"
+              }
+            },
+            {
+              "id": "p2-t3-c20",
+              "title": {
+                "es-ES": "De otras razones humanas que nos ayudaran a ser humildes",
+                "en-US": "Of Some Other Human Considerations to Help to Make Us Humble"
+              }
+            },
+            {
+              "id": "p2-t3-c21",
+              "title": {
+                "es-ES": "Que el camino cierto para ser tenido y estimado de los hombres es darse a la virtud y a la humildad",
+                "en-US": "That a Sure Way to Be Regarded and Esteemed by Men Is to Give Oneself Up to the Virtue of Humility"
+              }
+            },
+            {
+              "id": "p2-t3-c22",
+              "title": {
+                "es-ES": "Que la humildad es medio para alcanzar la paz interior del alma, y que sin ella, nunca la tendremos",
+                "en-US": "That Humility Is the Means to Attain True Peace of Soul, and We Shall Never Arrive at That without It"
+              }
+            },
+            {
+              "id": "p2-t3-c23",
+              "title": {
+                "es-ES": "De otro género de medios más eficaz para alcanzar la virtud de la humildad, que es el ejercicio de ella",
+                "en-US": "Of Another Manner of Means More Effectual for Gaining the Virtue of Humility: By Practising It"
+              }
+            },
+            {
+              "id": "p2-t3-c24",
+              "title": {
+                "es-ES": "Confirmarse lo dicho con algunos ejemplos",
+                "en-US": "What Has Been Said Is Confirmed by Some Examples"
+              }
+            },
+            {
+              "id": "p2-t3-c25",
+              "title": {
+                "es-ES": "Del ejercicio de humildad que tenemos en la Religión",
+                "en-US": "Of the Exercise of Humility That We Have in Religion"
+              }
+            },
+            {
+              "id": "p2-t3-c26",
+              "title": {
+                "es-ES": "Que nos hemos de guardar de hablar palabras que pueden redundar en nuestro loor",
+                "en-US": "That We Must Be on Our Guard against Uttering Words That May Redound to Our Praise"
+              }
+            },
+            {
+              "id": "p2-t3-c27",
+              "title": {
+                "es-ES": "Cómo nos hemos de ejercitar en la oración en este segundo grado de humildad",
+                "en-US": "How We Should Exercise Ourselves at Meditation in the Second Degree of Humility"
+              }
+            },
+            {
+              "id": "p2-t3-c28",
+              "title": {
+                "es-ES": "Cómo hemos de traer examen particular de la virtud de la humildad",
+                "en-US": "How We Are to Make the Particular Examen on the Virtue of Humility"
+              }
+            },
+            {
+              "id": "p2-t3-c29",
+              "title": {
+                "es-ES": "Como con la humildad se puede compadecer el querer ser tenidos y estimados de los hombres",
+                "en-US": "How Humility Is Compatible with Seeking to Be Regarded and Esteemed by Men"
+              }
+            },
+            {
+              "id": "p2-t3-c30",
+              "title": {
+                "es-ES": "Del tercer grado de humildad",
+                "en-US": "Of the Third Degree of Humility"
+              }
+            },
+            {
+              "id": "p2-t3-c31",
+              "title": {
+                "es-ES": "Declarase en qué consiste el tercer grado de humildad",
+                "en-US": "Further Elucidation of the Third Degree of Humility"
+              }
+            },
+            {
+              "id": "p2-t3-c32",
+              "title": {
+                "es-ES": "Declarase más lo sobredicho",
+                "en-US": "Further Elucidation of the Same"
+              }
+            },
+            {
+              "id": "p2-t3-c33",
+              "title": {
+                "es-ES": "Declarase más el tercer grado de humildad, y que de ahí nace que el verdadero humilde se tiene en menos que todos",
+                "en-US": "Further Elucidation of the Third Degree of Humility, and How It Comes Thereof that the Truly Humble Takes Himself for the Least of Ail"
+              }
+            },
+            {
+              "id": "p2-t3-c34",
+              "title": {
+                "es-ES": "Como los buenos y los Santos pueden con verdad tenerse en menos que todos, y decir que son los mayores pecadores del mundo",
+                "en-US": "How Good and Holy Men Can with Truth Hold Themselves to Be the Least of All and Say that They Are the Greatest Sinners in the World"
+              }
+            },
+            {
+              "id": "p2-t3-c35",
+              "title": {
+                "es-ES": "Que este tercer grado de humildad es medio para vencer todas las tentaciones y alcanzar la perfección de todas las virtudes",
+                "en-US": "That This Third Degree of Humility Is the Means to Overcome All Temptations and Obtain the Perfection of All Virtues"
+              }
+            },
+            {
+              "id": "p2-t3-c36",
+              "title": {
+                "es-ES": "Que la humildad no es contraria a la magnanimidad, antes es fundamento y causa de ella",
+                "en-US": "That Humility Is Not Contrary to Magnanimity, but Is the Foundation and Cause Thereof"
+              }
+            },
+            {
+              "id": "p2-t3-c37",
+              "title": {
+                "es-ES": "De otros bienes y provechos grandes que hay en este tercer grado de humildad",
+                "en-US": "Of Other Good Things and Great Advantages There Are in This Third Degree of Humility"
+              }
+            },
+            {
+              "id": "p2-t3-c38",
+              "title": {
+                "es-ES": "De los favores y mercedes grandes que hace Dios a los humildes, y cuál es la causa de porqué los levanta tanto",
+                "en-US": "Of the Great Favors and Benefits That God Does to the Humble, and What Is the Reason Why He Exalts Them So Much"
+              }
+            },
+            {
+              "id": "p2-t3-c39",
+              "title": {
+                "es-ES": "Cuánto nos importa acogernos a la humildad, para suplir con ella lo que nos falta de virtud y perfección, y para que no nos humille y castigue Dios",
+                "en-US": "How Important It Is for Us to Betake Ourselves to Humility to Make Up Thereby for What Is Wanting to Us in Virtue and Perfection, and That God May Not Humble and Chastise Us"
+              }
+            },
+            {
+              "id": "p2-t3-c40",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "In Which What Has Been Said Is Confirmed by Some Examples ULPICIUS SEVERUS relates, and Surius in the “Life of"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p2-t4",
+          "title": {
+            "es-ES": "De las tentaciones",
+            "en-US": "On temptations",
+            "pt-BR": "Das tentações"
+          },
+          "children": [
+            {
+              "id": "p2-t4-c01",
+              "title": {
+                "es-ES": "Que en esta vida no han de faltar tentación,",
+                "en-US": "fhat Temptations Cannot Fail to Come in This Life"
+              }
+            },
+            {
+              "id": "p2-t4-c02",
+              "title": {
+                "es-ES": "Cómo unos son tentados al principio de su conversión, otros después",
+                "en-US": "How Some Are Tempted at the Beginning of Their Entry into Religion, or into the Church, Others Afterwards"
+              }
+            },
+            {
+              "id": "p2-t4-c03",
+              "title": {
+                "es-ES": "Por qué quiere el Señor que tengamos tentaciones, y de la utilidad y provecho que de ellas se sigue",
+                "en-US": "Why the Lord Wishes Us to Have Temptations, and of the Utility and Profit That Ensue Upon Them"
+              }
+            },
+            {
+              "id": "p2-t4-c04",
+              "title": {
+                "es-ES": "De otros bienes y provechos que traen consigo las tentaciones",
+                "en-US": "Of Other Benefits and Advantages That Temptations Bring with Them"
+              }
+            },
+            {
+              "id": "p2-t4-c05",
+              "title": {
+                "es-ES": "Que las tentaciones aprovechan mucho para que nos conozcamos y humillemos, y para que acudamos más a Dios",
+                "en-US": "That Temptations Avail Us Greatly to Know and Humble Ourselves, and Have More Recourse to God"
+              }
+            },
+            {
+              "id": "p2-t4-c06",
+              "title": {
+                "es-ES": "Que en las tentaciones se prueban y purifican más los justos y se arraiga más la virtud",
+                "en-US": "That in Temptations the Just Are Further Proved and Purified, and Take Root Better in Virtue"
+              }
+            },
+            {
+              "id": "p2-t4-c07",
+              "title": {
+                "es-ES": "Que las tentaciones hacen al hombre diligente y fervoroso",
+                "en-US": "That Temptations Make a Man Diligent and Fervent"
+              }
+            },
+            {
+              "id": "p2-t4-c08",
+              "title": {
+                "es-ES": "Que los Santos y siervos de Dios, no solamente no se entristecían con las tentaciones, antes se holgaban por el provecho que con ellas sentían",
+                "en-US": "That the Saints and Servants of God Not Only Do Not Grow Sorrowful over Their Temptations, but Rather Rejoice for the Profit They Make Thereby"
+              }
+            },
+            {
+              "id": "p2-t4-c09",
+              "title": {
+                "es-ES": "Que en las tentaciones es uno enseñado, no solamente para sí, sino para otros",
+                "en-US": "That in Temptations One Learns Lessons Not for Oneself Only, but for Others"
+              }
+            },
+            {
+              "id": "p2-t4-c10",
+              "title": {
+                "es-ES": "Se comienza a tratar de los remedios contra las tentaciones, y primeramente del ánimo, esfuerzo y alegría que hemos de tener en ellas",
+                "en-US": "Here Begins the Enumeration of Remedies against Temptations, and First on the Part of the Mind, the Strength and Cheerfulness Which We Should Keep in Dealing with Them"
+              }
+            },
+            {
+              "id": "p2-t4-c11",
+              "title": {
+                "es-ES": "Cuán poco es lo que el demonio puede contra nosotros",
+                "en-US": "How Little It Is That the Devil Can Do against Us"
+              }
+            },
+            {
+              "id": "p2-t4-c12",
+              "title": {
+                "es-ES": "Que nos ha de dar grande ánimo y esfuerzo para pelear en las tentaciones considerar que nos está mirando Dios",
+                "en-US": "That We Should Draw Great Courage and Confidence for Struggling with Temptations from the Consideration That God Is Looking at Us"
+              }
+            },
+            {
+              "id": "p2-t4-c13",
+              "title": {
+                "es-ES": "De dos razones muy buenas para pelear con grande ánimo y confianza en las tentaciones",
+                "en-US": "Of Two Excellent Reasons for Fighting with Great Courage and Confidence under Temptation"
+              }
+            },
+            {
+              "id": "p2-t4-c14",
+              "title": {
+                "es-ES": "Que Dios no permite que nadie sea tentado más de lo que puede llevar, y que no debemos desmayar cuando crece o dura la tentación",
+                "en-US": "That God Permits No One to Be Tempted beyond His Strength, and That We Must Not Be Discouraged ~ at the Temptation Growing or Continuing"
+              }
+            },
+            {
+              "id": "p2-t4-c15",
+              "title": {
+                "es-ES": "Que el desconfiar de sí y poner toda su confianza en Dios es grande medio para vencer las tentaciones, y por qué acude Dios tanto a los que confían en El",
+                "en-US": "That to Distrust Ourselves, and Place Our Whole Confidence in God Is a Great Means to Overcome Temptations, and Why God So Readily Comes to the Help of Those Who Trust in Him"
+              }
+            },
+            {
+              "id": "p2-t4-c16",
+              "title": {
+                "es-ES": "Del remedio de la oración, y se ponen algunas oraciones jaculatorias. acomodadas para el tiempo de las tentaciones",
+                "en-US": "Of Prayer as a Remedy: Some Ejaculatory Prayers Suitable for Time of Temptation"
+              }
+            },
+            {
+              "id": "p2-t4-c17",
+              "title": {
+                "es-ES": "De otros remedios contra las tentaciones",
+                "en-US": "Of Two Other Remedies against Temptations"
+              }
+            },
+            {
+              "id": "p2-t4-c18",
+              "title": {
+                "es-ES": "De otros dos remedios muy principales, que son: resistir a los princlpios y nunca estar ociosos",
+                "en-US": "Of Two Other Chief Remedies, Which Are to Resist Temptation in Its Beginnings, and Never to Be Idle"
+              }
+            },
+            {
+              "id": "p2-t4-c19",
+              "title": {
+                "es-ES": "A las tentaciones que vienen con apariencia de bien, y que es gran remedio contra todas las tentaciones el conocerlas y tenerlas por tales",
+                "en-US": "Of Temptations Which Come under the Appearance of Good, and that the Great Remedy for All Such ; Temptations Is to Recognize and Hold Them for What They Are"
+              }
+            },
+            {
+              "id": "p2-t4-c20",
+              "title": {
+                "es-ES": "Cómo nos hemos de haber en las tentaciones de pensamientos malos y feos, y de los remedios contra ellas",
+                "en-US": "How We Should Behave in Temptations of Evil and Impure Thoughts, and of Remedies against Them"
+              }
+            },
+            {
+              "id": "p2-t4-c21",
+              "title": {
+                "es-ES": "Que en diferentes tentaciones, diferentemente nos hemos de haber en el modo de resistir",
+                "en-US": "That in Different Temptations We Should Behave Differently as to Our Manner of Resisting Them"
+              }
+            },
+            {
+              "id": "p2-t4-c22",
+              "title": {
+                "es-ES": "De algunos avisos importantes para el tiempo de la tentación",
+                "en-US": "Some Important Pieces of Advice for the Time of Temptation"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p2-t5",
+          "title": {
+            "es-ES": "De la afición desordenada de parientes",
+            "en-US": "On inordinate affection for relatives",
+            "pt-BR": "Da afeição desordenada aos parentes"
+          },
+          "children": [
+            {
+              "id": "p2-t5-c01",
+              "title": {
+                "es-ES": "Cuánto le importa al religioso huir visitas de parientes y las idas a su tierra",
+                "en-US": "How Important It Is for a Religious to Avoid Visits to Relations and Journeys to His Own Native Place"
+              }
+            },
+            {
+              "id": "p2-t5-c02",
+              "title": {
+                "es-ES": "Que el religioso ha de evitar también, cuanto pudiere el ser visitado de parientes y la comunicación por cartas",
+                "en-US": "That a Religious Should Also Avoid, as Far as Possible, Being Visited by His Relations and Any Communication with Them by Letter"
+              }
+            },
+            {
+              "id": "p2-t5-c03",
+              "title": {
+                "es-ES": "Que aunque sea con título de predicar, ha de huir el religioso el trato de parientes y las idas a su tierra",
+                "en-US": "That Even though It Be under Plea of Preaching, a Religious Should Shun Intercourse with His Relations and Visits to His Native Place"
+              }
+            },
+            {
+              "id": "p2-t5-c04",
+              "title": {
+                "es-ES": "Qué particularmente se ha de guardar mucho el religioso de ocuparse en negocios de parientes",
+                "en-US": "That a Religious Should Stand Particularly on His Guard against Occupying Himself with the Business Affairs of His Relations"
+              }
+            },
+            {
+              "id": "p2-t5-c05",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "What Has Been Said Is Confirmed by Some Examples"
+              }
+            },
+            {
+              "id": "p2-t5-c06",
+              "title": {
+                "es-ES": "De otros males y daños que causa la afición a los parientes, y cómo nos enseñó Cristo nuestro Redentor el desvío de ellos",
+                "en-US": "Of Other Evils and Losses Caused by Affection for Kindred, and How Christ Our Redeemer Taught Us to Keep Out of Their Way"
+              }
+            },
+            {
+              "id": "p2-t5-c07",
+              "title": {
+                "es-ES": "Cómo se suele disfrazar esta tentación con título, no sólo de piedad, sino de obligación, del remedio para esto",
+                "en-US": "How This Temptation Is Apt to Disguise Itself Not Only under the Appearance of Piety, but of That of Duty, and the Remedy to Be Applied Thereunto"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p2-t6",
+          "title": {
+            "es-ES": "De la tristeza y alegría",
+            "en-US": "On sadness and joy",
+            "pt-BR": "Da tristeza e da alegria"
+          },
+          "children": [
+            {
+              "id": "p2-t6-c01",
+              "title": {
+                "es-ES": "De los daños grandes que se siguen de la tristeza",
+                "en-US": "Of the Great Mischiefs That Follow from Sadness"
+              }
+            },
+            {
+              "id": "p2-t6-c02",
+              "title": {
+                "es-ES": "En que se dan algunas razones por las cuales nos conviene mucho servir a Dios con alegría",
+                "en-US": "In Which Are Given Sundry Reasons Why It Befits Us to Serve God Cheerfully"
+              }
+            },
+            {
+              "id": "p2-t6-c03",
+              "title": {
+                "es-ES": "Que no han de bastar las culpas ordinarias en que caemos para quitarnos esta alegría",
+                "en-US": "That the Ordinary Faults into Which We Fall Should Not Be Enough to Make Us Abandon This Cheerfulness"
+              }
+            },
+            {
+              "id": "p2-t6-c04",
+              "title": {
+                "es-ES": "De las raíces y causas de la tristeza, y de sus medios",
+                "en-US": "Of the Roots and Causes of Sadness, and Its Remedies"
+              }
+            },
+            {
+              "id": "p2-t6-c05",
+              "title": {
+                "es-ES": "Que es muy gran remedio para desechar la tristeza acudir a la oración",
+                "en-US": "That Recourse to Prayer Is a Grand Means for Getting Rid of Sadness"
+              }
+            },
+            {
+              "id": "p2-t6-c06",
+              "title": {
+                "es-ES": "De una raíz muy ordinaria de la tristeza, que es no andar uno como debe en el servicio de Dios y de la alegría grande que causa la buena conciencia",
+                "en-US": "Of Another Very Ordinary Root of Sadness, Which Is the Not Going on As We Should Do in the Service of God; and of the Great Cheerfulness That Comes of a Good Conscience"
+              }
+            },
+            {
+              "id": "p2-t6-c07",
+              "title": {
+                "es-ES": "Que alguna tristeza hay buena y santa",
+                "en-US": "That There Is Such a Thing as Good and Holy Sadness"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p2-t7",
+          "title": {
+            "es-ES": "Del tesoro y bienes que tenemos en Cristo y del modo que hemos de tener en meditar los misterios de su Pasión",
+            "en-US": "On the treasure and goods we have in Christ, and the way to meditate on the mysteries of His Passion",
+            "pt-BR": "Do tesouro e bens que temos em Cristo e do modo de meditar os mistérios da sua Paixão"
+          },
+          "children": [
+            {
+              "id": "p2-t7-c01",
+              "title": {
+                "es-ES": "Del tesoro y bienes grandes que tenemos en Cristo",
+                "en-US": "Of the Treasures and Great Blessings That We Have in Christ"
+              }
+            },
+            {
+              "id": "p2-t7-c02",
+              "title": {
+                "es-ES": "Cuán provechosa y agradable sea a Dios la meditación de la Pasión de Cristo nuestro Redentor",
+                "en-US": "How Profitable and Pleasing to God Is Meditation on the Passion of Christ. Our Redeemer"
+              }
+            },
+            {
+              "id": "p2-t7-c03",
+              "title": {
+                "es-ES": "Del modo que hemos de meditar la Pasión de Cristo nuestro Redentor, y del afecto de compasión que hemos de sacar de ella",
+                "en-US": "Of the Method to Be Followed in Meditating the Passion of Christ Our Redeemer, and of the Sentiment of Compassion Which We Should Draw from Thence"
+              }
+            },
+            {
+              "id": "p2-t7-c04",
+              "title": {
+                "es-ES": "Del afecto del dolor y contrición de nuestros pecados, que hemos de sacar de la meditación de la Pasión de Cristo nuestro Señor",
+                "en-US": "Of the Sentiment of Sorrow and Contrition for Our Sins, Which We Should Gather from the Meditation on the Passion of Christ Our Lord"
+              }
+            },
+            {
+              "id": "p2-t7-c05",
+              "title": {
+                "es-ES": "Del afecto de amor de Dios",
+                "en-US": "Of the Sentiment of Love of God"
+              }
+            },
+            {
+              "id": "p2-t7-c06",
+              "title": {
+                "es-ES": "Del afecto de gratitud y hacimiento de gracias",
+                "en-US": "Of the Sentiment of Gratitude and Thanksgiving"
+              }
+            },
+            {
+              "id": "p2-t7-c07",
+              "title": {
+                "es-ES": "De los afectos de admiración y esperanza",
+                "en-US": "Of the Sentiments of Admiration and Hope"
+              }
+            },
+            {
+              "id": "p2-t7-c08",
+              "title": {
+                "es-ES": "De la imitación de Cristo que hemos de sacar de la meditación de sus misterios",
+                "en-US": "Of the Imitation of Christ as the Fruit Which We Should Gather from Meditation on His Mysteries"
+              }
+            },
+            {
+              "id": "p2-t7-c09",
+              "title": {
+                "es-ES": "En que se confirma con algunos ejemplos cuán provechoso y agradable sea a Dios la meditación de la Pasión de Cristo nuestro Redentor",
+                "en-US": "In Which Is Established by Sundry Examples How Profitable and Agreeable to God Is Meditation on the Passion of Christ Our Redeemer"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p2-t8",
+          "title": {
+            "es-ES": "De la sagrada Comunión y santo sacrificio de la Misa",
+            "en-US": "On holy Communion and the holy sacrifice of the Mass",
+            "pt-BR": "Da sagrada Comunhão e santo sacrifício da Missa"
+          },
+          "children": [
+            {
+              "id": "p2-t8-c01",
+              "title": {
+                "es-ES": "Del beneficio inestimable y amor grande que el Señor nos mostró en instituir este divino Sacramento",
+                "en-US": "Of the Inestimable Benefit and Great Love That the Lord Has Shown Us in the Institution of This Divine Sacrament"
+              }
+            },
+            {
+              "id": "p2-t8-c02",
+              "title": {
+                "es-ES": "De las excelencias y cosas maravillosas que la fe nos enseña que hemos de creer en este divino Sacramento",
+                "en-US": "Of the Excellent and Wonderful Things That Faith Teaches for Our Belief in This Divine Sacrament"
+              }
+            },
+            {
+              "id": "p2-t8-c03",
+              "title": {
+                "es-ES": "Se comienza a tratar de la preparación que pide la excelencia y dignidad de este divino Sacramento",
+                "en-US": "Here Begins the Discourse on the Preparation Which the Excellence and Dignity of the Divine Sacrament Requires"
+              }
+            },
+            {
+              "id": "p2-t8-c04",
+              "title": {
+                "es-ES": "De la limpieza y puridad, no sólo de pecados mortales sino también de veniales e imperfecciones, con que nos hemos de llegar a la sagrada Comunión",
+                "en-US": "Of the Cleanness and Purity, Not Only from Mortal Sins, but Also from Venial Sins and Imperfections, with Which We Should Approach Holy Communion"
+              }
+            },
+            {
+              "id": "p2-t8-c05",
+              "title": {
+                "es-ES": "De otra disposición y preparación más particular con que nos hemos de llegar este divino Sacramento",
+                "en-US": "Of a More Particular Disposition and Preparation Wherewith We Should Approach This Divine Sacrament"
+              }
+            },
+            {
+              "id": "p2-t8-c06",
+              "title": {
+                "es-ES": "En que se ponen otras consideraciones y modos de prepararse para la sagrada Comunión muy provechosas",
+                "en-US": "Other Considerations and Modes of Preparation, Very Useful for Holy Communion"
+              }
+            },
+            {
+              "id": "p2-t8-c07",
+              "title": {
+                "es-ES": "De lo que hemos de hacer después de haber recibido este divino Sacramento, y cuál ha de ser el hacimiento de gracias",
+                "en-US": "What We Are to Do After Having Received the Divine Sacrament, and What Should Be Our Thanksgiving"
+              }
+            },
+            {
+              "id": "p2-t8-c08",
+              "title": {
+                "es-ES": "De otras maneras de acción de gracias",
+                "en-US": "Of Other Methods of Thanksgiving"
+              }
+            },
+            {
+              "id": "p2-t8-c09",
+              "title": {
+                "es-ES": "Del fruto que hemos de sacar de la sagrada Comunión",
+                "en-US": "Of the Fruit That We Should Gather from Holy Communion"
+              }
+            },
+            {
+              "id": "p2-t8-c10",
+              "title": {
+                "es-ES": "Que el frecuentar la sagrada Contusión es gran remedio contra todas las tentaciones, y particularmente para conservar la castidad",
+                "en-US": "That the Frequentation of Holy Communion Is a Great Remedy against All Temptations, and Particularly for the Preservation of Chastity"
+              }
+            },
+            {
+              "id": "p2-t8-c11",
+              "title": {
+                "es-ES": "De otro fruto principal que hemos de sacar de la sagrada Comunión, que es unirnos y transformarnos en Cristo",
+                "en-US": "Of the Chief Fruit to Be Gathered from Holy Communion, Which Is Our Union with and Transformation into Christ"
+              }
+            },
+            {
+              "id": "p2-t8-c12",
+              "title": {
+                "es-ES": "De otro puto muy principal que hemos de sacar de la sagrada Comunión, que es ofrecernos y resignarnos enteramente en las manos de Dios; y de la preparación y hacimiento de gracias que conforme a esto hemos de hacer",
+                "en-US": "Of Another Main Fruit Which We Should Gather from Holy Communion, Which Is te Offer and Resign Ourselves Entirely into the Hands of God; and of the Preparation and Thanksgiving to Be Made Conformably Thereto"
+              }
+            },
+            {
+              "id": "p2-t8-c13",
+              "title": {
+                "es-ES": "Qué es la causa que obrando este divino Sacramento tan maravillosos electos, algunos que le frecuentan no los sienten en sí",
+                "en-US": "Seeing that This Divine Sacrament Works Such Wonderful Effects, What Is the Reason Why Some Who Frequent It Do Not Experience Them in Themselves"
+              }
+            },
+            {
+              "id": "p2-t8-c14",
+              "title": {
+                "es-ES": "Del santo sacrificio de la Misa",
+                "en-US": "Of the Holy Sacrifice of the Mass"
+              }
+            },
+            {
+              "id": "p2-t8-c15",
+              "title": {
+                "es-ES": "De qué manera se ha de oír la Misa",
+                "en-US": "How to Hear Mass"
+              }
+            },
+            {
+              "id": "p2-t8-c16",
+              "title": {
+                "es-ES": "Algunos ejemplos acerca de la devoción de oír Misa y decirla cada día, y la reverencia con que hemos de estar en ella",
+                "en-US": "Some Examples on the Devotion of Hearing Mass, and Saying It Every Day, and the Reverence That We Should Have in Assisting at It"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": {
+        "es-ES": "Tercera parte",
+        "en-US": "Part Three",
+        "pt-BR": "Terceira parte"
+      },
+      "children": [
+        {
+          "id": "p3-prologo",
+          "title": {
+            "es-ES": "Al lector",
+            "pt-BR": "Ao leitor"
+          }
+        },
+        {
+          "id": "p3-t1",
+          "title": {
+            "es-ES": "Del fin e instituto de la Compañía de Jesús, y de algunos medios que nos ayudarán a conseguirlo",
+            "en-US": "On the end and institute of the Society of Jesus, and some means that will help us to attain it",
+            "pt-BR": "Do fim e instituto da Companhia de Jesus e de alguns meios para alcançá-lo"
+          },
+          "children": [
+            {
+              "id": "p3-t1-c01",
+              "title": {
+                "es-ES": "Cuál sea el fin e instituto de la Compañía de Jesús",
+                "en-US": "The End and Institute of the Society of Jesus"
+              }
+            },
+            {
+              "id": "p3-t1-c02",
+              "title": {
+                "es-ES": "De excelencia de esta empresa de ganar almas, y de su grande mérito y valor",
+                "en-US": "Of the Excellence of This Enterprise of Saving Souls, and of Its Great Merit and Value"
+              }
+            },
+            {
+              "id": "p3-t1-c03",
+              "title": {
+                "es-ES": "Que esta empresa es de todos los de la Compañía, y todos tienen mucha parte en ella, aunque no sean sacerdotes",
+                "en-US": "That This Enterprise Belongs to All Members of the Society, and that All Have Their Share in It, Even though They Be Not Priests"
+              }
+            },
+            {
+              "id": "p3-t1-c04",
+              "title": {
+                "es-ES": "Cuán necesario sea pura este fin fundarnos primero muy bien en virtud",
+                "en-US": "How Necessary It Is for This End First to Ground Ourselves Right Weill in Virtue"
+              }
+            },
+            {
+              "id": "p3-t1-c05",
+              "title": {
+                "es-ES": "Que por los prójimos no nos hemos de descuidar de nosotros; antes por eso tenemos necesidad de andar con más cuidado de nuestro aprovechamiento",
+                "en-US": "That Not Only Ought We Not to Neglect Our Own Advancement to Help Our Neighbor, but We Need to Be More Careful of It and More Diligent about It on His Account"
+              }
+            },
+            {
+              "id": "p3-t1-c06",
+              "title": {
+                "es-ES": "Que nos hemos de guardar de otro extremo, que es mirarnos del trato de los prójimos, so color de atender a nosotros",
+                "en-US": "That We Must Beware of the Other Extreme, Which Would Be Withdrawing from All Intercourse with Our Neighbor under Pretense of Attending to Ourselves"
+              }
+            },
+            {
+              "id": "p3-t1-c07",
+              "title": {
+                "es-ES": "De algunos remedios contra la pusilanimidad de los que por miedo de perderse se retiran de ayudar a los prójimos",
+                "en-US": "Sundry Remedies against the Pusillanimity of Those Who Withdraw from Helping Their Neighbor for Fear of Losing Their Own Souls"
+              }
+            },
+            {
+              "id": "p3-t1-c08",
+              "title": {
+                "es-ES": "Del primer medio para hacer fruto en los prójimos, que es la buena y santa vida",
+                "en-US": "Of the First Means of Doing Good to Our Neighbor, Which Is a Good and Holy Life"
+              }
+            },
+            {
+              "id": "p3-t1-c09",
+              "title": {
+                "es-ES": "Del segundo medio para ayudar a los prójimos, que es la oración",
+                "en-US": "Of Another Means of Helping Our Neighbor, Which Is Prayer"
+              }
+            },
+            {
+              "id": "p3-t1-c10",
+              "title": {
+                "es-ES": "Del tercer medio para aprovechar a los prójimos, que es el celo de las almas",
+                "en-US": "Of a Third Means of Doing Good to Our Neighbor, Which Is Zeal for Souls"
+              }
+            },
+            {
+              "id": "p3-t1-c11",
+              "title": {
+                "es-ES": "Cuán eficaz medio sea este celo pura ayudar y aprovechar a los prójimos",
+                "en-US": "What an Efficacious Means This Zeal Is for Helping and Improving Our Neighbor"
+              }
+            },
+            {
+              "id": "p3-t1-c12",
+              "title": {
+                "es-ES": "De tres cosas que nos ayudarán a tener este celo",
+                "en-US": "Of Three Things That Will Help Us to Have This Zeal"
+              }
+            },
+            {
+              "id": "p3-t1-c13",
+              "title": {
+                "es-ES": "Cuál es el bueno y verdadero celo que agrada a Dios, y cuál no",
+                "en-US": "What Is the Good and True Zeal That Pleases God, and What Not"
+              }
+            },
+            {
+              "id": "p3-t1-c14",
+              "title": {
+                "es-ES": "De otro medio para hacer bien nuestros ministerios, que es poner los ojos en lo interior de las almas, y no en lo exterior que se parece de fuera",
+                "en-US": "Of Another Means to Do Our Ministrations Well Is to Keep Our Eyes on the Soul That Makes the Inner Man, and Not on Outward and Exterior Appearances"
+              }
+            },
+            {
+              "id": "p3-t1-c15",
+              "title": {
+                "es-ES": "De otro medio para aprovechar a los prójimos, que es desconfiar de nosotros y poner toda nuestra confianza en Dios",
+                "en-US": "Of Another Means of Helping Our Neighbor, Which Is to Abandon All Confidence in Ourselves and Put Our Whole Trust in God"
+              }
+            },
+            {
+              "id": "p3-t1-c16",
+              "title": {
+                "es-ES": "De la eficacia grande de este medio de confiar en Dios para alcanzar mercedes de su mano",
+                "en-US": "Of the Great Efficacy of This Practice of Putting Confidence in God for the Obtaining of Blessings at His Hands"
+              }
+            },
+            {
+              "id": "p3-t1-c17",
+              "title": {
+                "es-ES": "Cuánto desagrada a Dios la desconfianza",
+                "en-US": "How Very Displeasing to God Is Want of Confidence"
+              }
+            },
+            {
+              "id": "p3-t1-c18",
+              "title": {
+                "es-ES": "Que no hemos de desmayar ni desanimarnos aunque veamos que se hace poco fruto en los prójimos",
+                "en-US": "That We Must Not Be Discouraged nor Lose Heart, Though We See Little Fruit Produced by Our Labors among Our Neighbors"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p3-t2",
+          "title": {
+            "es-ES": "De los votos esenciales de la Religión, y bienes grandes que hay en ella",
+            "en-US": "On the essential vows of religion and the great goods in it",
+            "pt-BR": "Dos votos essenciais da religião e dos grandes bens que há nela"
+          },
+          "children": [
+            {
+              "id": "p3-t2-c01",
+              "title": {
+                "es-ES": "Que la perfección del religioso consiste en la perfecta guarda de los votos que hace de pobreza, castidad y obediencia",
+                "en-US": "That the Perfection of a Religious Consists in the Perfect Observance of the Three Vows That He Makes of Poverty, Chastity, and Obedience"
+              }
+            },
+            {
+              "id": "p3-t2-c02",
+              "title": {
+                "es-ES": "Por qué se hacen y confirman estas cosas con voto",
+                "en-US": "Why These Things Are Done and Confirmed Under Vow"
+              }
+            },
+            {
+              "id": "p3-t2-c03",
+              "title": {
+                "es-ES": "De otros bienes y provechos grandes que trae el obligarse con votos",
+                "en-US": "Of Other Great Benefits and Advantages That the Obligation of the Vows Carries with It"
+              }
+            },
+            {
+              "id": "p3-t2-c04",
+              "title": {
+                "es-ES": "Por qué llaman los Santos otro segundo bautismo y martirio a esta entrega, que hace uno de sí a la Religión por estos tres votos",
+                "en-US": "Why the Surrender That One Makes of Oneself to Religion by These Three Vows Is Called by the Saints a Second Baptism and a Martyrdom"
+              }
+            },
+            {
+              "id": "p3-t2-c05",
+              "title": {
+                "es-ES": "Que no se quita ni disminuye la libertad por los votos, antes se perfecciona",
+                "en-US": "That Liberty Is Not Given Up or Diminished by Vows, but Rather Is Perfected"
+              }
+            },
+            {
+              "id": "p3-t2-c06",
+              "title": {
+                "es-ES": "De los bienes grandes que hay en la Religión, y del agradecimiento que debemos a Dios por hemos traído a ella",
+                "en-US": "Of the Great Blessings That There Are in Religion, and the Gratitude That We Owe to God for Having Called Us to It"
+              }
+            },
+            {
+              "id": "p3-t2-c07",
+              "title": {
+                "es-ES": "Se prosigue lo mismo que en el capítulo pasado",
+                "en-US": "Continuation of the Subject of the Previous Chapter"
+              }
+            },
+            {
+              "id": "p3-t2-c08",
+              "title": {
+                "es-ES": "De la renovación de los votos que usa la Compañía, y del fin y fruto que con ella se pretende",
+                "en-US": "Of the Renovation of Vows Practised in the Society, and of the Fruit Meant to Be Gained Thereby"
+              }
+            },
+            {
+              "id": "p3-t2-c09",
+              "title": {
+                "es-ES": "Se prosigue lo mismo que en el capítulo pasado",
+                "en-US": "Continuation of the Subject of the Previous Chapter"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p3-t3",
+          "title": {
+            "es-ES": "Del voto de la pobreza",
+            "en-US": "On the vow of poverty",
+            "pt-BR": "Do voto de pobreza"
+          },
+          "children": [
+            {
+              "id": "p3-t3-c01",
+              "title": {
+                "es-ES": "Que el voto de la pobreza es el fundamento de la perfección evangélica",
+                "en-US": "That the Vow of Poverty Is the Foundation of Evangelical Perfection"
+              }
+            },
+            {
+              "id": "p3-t3-c02",
+              "title": {
+                "es-ES": "Del premio con que el Señor premia a los pobres de espíritu",
+                "en-US": "Of the Great Reward Wherewith the Lord Rewards the Poor of Spirit"
+              }
+            },
+            {
+              "id": "p3-t3-c03",
+              "title": {
+                "es-ES": "Oso no sólo en la otra vida, sino también en ésta, paga Dios a los pobres de espíritu",
+                "en-US": "That God Rewards the Poor in Spirit Not Only in the Next Life but Also in This"
+              }
+            },
+            {
+              "id": "p3-t3-c04",
+              "title": {
+                "es-ES": "En qué consiste la pobreza de espíritu",
+                "en-US": "In What Poverty of Spirit Consists"
+              }
+            },
+            {
+              "id": "p3-t3-c05",
+              "title": {
+                "es-ES": "De los religiosos que, habiendo dejado cosas mayores, se aficionan en la Religión a cosas menores",
+                "en-US": "Of Religious Who, Having Left Greater Things, Get a Passion in Religion for Lesser Things"
+              }
+            },
+            {
+              "id": "p3-t3-c06",
+              "title": {
+                "es-ES": "De tres grados de pobreza",
+                "en-US": "Of Three Degrees of Poverty"
+              }
+            },
+            {
+              "id": "p3-t3-c07",
+              "title": {
+                "es-ES": "De algunos medios para alcanzar la pobreza de espíritu y conservamos en ella",
+                "en-US": "Of Some Means to Arrive at Poverty in Spirit and Preserve Ourselves Therein"
+              }
+            },
+            {
+              "id": "p3-t3-c08",
+              "title": {
+                "es-ES": "De otro medio que nos ayudará mucho para alcanzar la pobreza de espíritu y conservarnos en ella",
+                "en-US": "Of Another Means That Will Greatiy Help Us to Attain Poverty in Spirit and Keep Us in the Same"
+              }
+            },
+            {
+              "id": "p3-t3-c09",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "What Has Been Said Is Confirmed by Some Examples"
+              }
+            },
+            {
+              "id": "p3-t3-c10",
+              "title": {
+                "es-ES": "A qué y cómo obliga al religioso el voto de la pobreza",
+                "en-US": "To What and How a Religious Is Bound by the Vow of Poverty"
+              }
+            },
+            {
+              "id": "p3-t3-c11",
+              "title": {
+                "es-ES": "En que se declara cómo es contra el voto de la pobreza recibir o dar alguna cosa sin licencia del superior, aunque la tal cosa no fuese de la casa",
+                "en-US": "Explaining How It Is against the Vow of Poverty to Receive or Give Anything without Leave of the Superior, Even though the Thing Be Not Belonging to the House"
+              }
+            },
+            {
+              "id": "p3-t3-c12",
+              "title": {
+                "es-ES": "Se desciende a algunos casos particulares que son contra el voto de la pobreza",
+                "en-US": "Coming Down to Particular Cases of Certain Things Contrary to the Vow of Poverty"
+              }
+            },
+            {
+              "id": "p3-t3-c13",
+              "title": {
+                "es-ES": "Se responde a una objeción, con que se declara mucho esta materia",
+                "en-US": "An Answer to an Objection Which Throws Much Light on This Matter"
+              }
+            },
+            {
+              "id": "p3-t3-c14",
+              "title": {
+                "es-ES": "Que ele loto de la pobreza obliga a pecado mortal, y qué cantidad bastará para que lo sea",
+                "en-US": "That the Vow of Poverty Binds under Mortal Sin, and What Quantity Is Enough to Make a Mortal Sin"
+              }
+            },
+            {
+              "id": "p3-t3-c15",
+              "title": {
+                "es-ES": "Si puede el religioso recibir dineros para repartir en obras pías sin licencia del superior, y cuándo pecará en esto contra el voto de la pobreza",
+                "en-US": "Whether a Religious Can Receive Money to Lay Out in Pious Works without Leave of the Superior, and When He Would Sin Therein against the Vow of Poverty"
+              }
+            },
+            {
+              "id": "p3-t3-c16",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "What Has Been Said Is Confirmed by Some Examples"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p3-t4",
+          "title": {
+            "es-ES": "De la virtud de la castidad",
+            "en-US": "On the virtue of chastity",
+            "pt-BR": "Da virtude da castidade"
+          },
+          "children": [
+            {
+              "id": "p3-t4-c01",
+              "title": {
+                "es-ES": "De la excelencia de la virtud de la castidad, y de los grados por donde hemos de subir a la perfección de ella",
+                "en-US": "Of the Excellence of the Virtue of Chastity, and the Degrees Whereby We Are to Mount to the Perfection Thereof"
+              }
+            },
+            {
+              "id": "p3-t4-c02",
+              "title": {
+                "es-ES": "Que para conservar la castidad es necesaria la mortificación y guarda de los sentidos, y especialmente de los ojos",
+                "en-US": "That to Preserve Chastity, Mortification of All the Senses, and Especially of the Eyes, Is Necessary"
+              }
+            },
+            {
+              "id": "p3-t4-c03",
+              "title": {
+                "es-ES": "Que en esta virtud de la castidad especialmente es necesario hacer mucho caso de cosas pequeñas",
+                "en-US": "That, Particularly in This Virtue of Chastity, It Is Necessary to Make Much Account of Small Things"
+              }
+            },
+            {
+              "id": "p3-t4-c04",
+              "title": {
+                "es-ES": "Que especialmente en la confesión hemos de hacer caso de cualquiera cosa que sea contra la castidad",
+                "en-US": "That in Confession We Should Take Particular Account of Anything Contrary to Chastity"
+              }
+            },
+            {
+              "id": "p3-t4-c05",
+              "title": {
+                "es-ES": "Cuán vehemente y peligrosa es la pasión del amor, y cuanto la debemos temer",
+                "en-US": "How Violent and Dangerous Is the Passion of Love, and How Much We Ought to Fear It"
+              }
+            },
+            {
+              "id": "p3-t4-c06",
+              "title": {
+                "es-ES": "De algunos remedios contra las tentaciones deshonestas",
+                "en-US": "Of Some Remedies against Impure Temptations"
+              }
+            },
+            {
+              "id": "p3-t4-c07",
+              "title": {
+                "es-ES": "Que la penitencia y mortificación de la carne es muy propio y principal remedio contra la tentación",
+                "en-US": "That Penance and Mortification of the Flesh Is a Very Good Remedy against Temptations to Impurity"
+              }
+            },
+            {
+              "id": "p3-t4-c08",
+              "title": {
+                "es-ES": "De otros remedios contra las tentaciones",
+                "en-US": "Of Other Remedies against Impure Temptations"
+              }
+            },
+            {
+              "id": "p3-t4-c09",
+              "title": {
+                "es-ES": "Del temor de Dios",
+                "en-US": "Of the Fear of God"
+              }
+            },
+            {
+              "id": "p3-t4-c10",
+              "title": {
+                "es-ES": "De los bienes grandes que hay en este temor de Dios",
+                "en-US": "Of the Great Advantages That There Are in This Fear of God"
+              }
+            },
+            {
+              "id": "p3-t4-c11",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "In Which What Has Been Said Is Confirmed by Some Examples"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p3-t5",
+          "title": {
+            "es-ES": "De la virtud de la obediencia",
+            "en-US": "On the virtue of obedience",
+            "pt-BR": "Da virtude da obediência"
+          },
+          "children": [
+            {
+              "id": "p3-t5-c01",
+              "title": {
+                "es-ES": "De la excelencia de la virtud de la obediencia",
+                "en-US": "Of the Excellence of the Virtue of Obedience"
+              }
+            },
+            {
+              "id": "p3-t5-c02",
+              "title": {
+                "es-ES": "De la necesidad que tenemos de la virtud de la obediencia",
+                "en-US": "Of the Need That We Have of the Virtue of Obedience"
+              }
+            },
+            {
+              "id": "p3-t5-c03",
+              "title": {
+                "es-ES": "Del primer grado de obediencia",
+                "en-US": "Of the First Degree of Obedience"
+              }
+            },
+            {
+              "id": "p3-t5-c04",
+              "title": {
+                "es-ES": "Del segundo grado de obediencia",
+                "en-US": "Of the Second Degree of Obedience"
+              }
+            },
+            {
+              "id": "p3-t5-c05",
+              "title": {
+                "es-ES": "Del tercer grado de obediencia",
+                "en-US": "Of the Third Degree of Obedience"
+              }
+            },
+            {
+              "id": "p3-t5-c06",
+              "title": {
+                "es-ES": "De la obediencia ciega",
+                "en-US": "Of Blind Obedience"
+              }
+            },
+            {
+              "id": "p3-t5-c07",
+              "title": {
+                "es-ES": "De la obediencia que se ha de tener en las cosas espirituales",
+                "en-US": "Of the Obedience Necessary in Spiritual Things"
+              }
+            },
+            {
+              "id": "p3-t5-c08",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "In Which What Has Been Said Is Confirmed by Some Examples"
+              }
+            },
+            {
+              "id": "p3-t5-c09",
+              "title": {
+                "es-ES": "De dónde nace el tener juicios contra la obediencia, y de qué medios nos ayudaremos contra ellos",
+                "en-US": "Of the Source and Origin of Judgments Contrary to Obedience, and the Means Whereby We May Help Ourselves against Them"
+              }
+            },
+            {
+              "id": "p3-t5-c10",
+              "title": {
+                "es-ES": "Se declaran tres razones que da el Apóstol San Pablo para obedecer",
+                "en-US": "An Explanation of the Three Reasons That the Apostle St. Paul Gives for Obedience"
+              }
+            },
+            {
+              "id": "p3-t5-c11",
+              "title": {
+                "es-ES": "De un medio muy principal y eficaz para alcanzar la perfección de la virtud de la obediencia, que es obedecer al superior como a Cristo nuestro Señor",
+                "en-US": "Of a Very Main and Efficacious Means for Gaining the Virtue of Obedience in Its Perfection, Which Is to Obey the Superior as Christ Our Lord"
+              }
+            },
+            {
+              "id": "p3-t5-c12",
+              "title": {
+                "es-ES": "Que este medio de obedecer al superior como a Cristo es necesario para alcanzar la virtud de la obediencia,",
+                "en-US": "That It Is a Necessary Means for Acquiring the Virtue of Obedience to Obey the Superior as Christ"
+              }
+            },
+            {
+              "id": "p3-t5-c13",
+              "title": {
+                "es-ES": "De otros bienes grandes que hay en obedecer al superior como a Cristo",
+                "en-US": "Of Other Great Advantages There Are in Obeying the Superior as Christ"
+              }
+            },
+            {
+              "id": "p3-t5-c14",
+              "title": {
+                "es-ES": "Que toma Dios por suya la injuria y murmuración contra el superior",
+                "en-US": "That God Takes as Spoken against Himself Any Disparaging and Complaining Words Spoken against the Superior"
+              }
+            },
+            {
+              "id": "p3-t5-c15",
+              "title": {
+                "es-ES": "Que la obediencia no quita el proponer y el modo que se ha de tener en esto",
+                "en-US": "That Obedience Does Not Prevent Our Exposing Our Wants, and of the Conduct to Be Observed in Such a Case"
+              }
+            },
+            {
+              "id": "p3-t5-c16",
+              "title": {
+                "es-ES": "De la solicitud demasiada de lo que toca al cuerpo, y cuánto conviene huir en esto las singularidades",
+                "en-US": "Of Excessive Solicitude in What Regards the Body, and How Proper It Is to Avoid Singularities Here"
+              }
+            },
+            {
+              "id": "p3-t5-c17",
+              "title": {
+                "es-ES": "Se responde al escrúpulo de la obligación de mirar por la salud",
+                "en-US": "An Answer to a Scruple about the Duty of Looking After One’s Health"
+              }
+            },
+            {
+              "id": "p3-t5-c18",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "_ What Has Been Said Is Confirmed by Some Examples"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p3-t6",
+          "title": {
+            "es-ES": "De la observancia de las reglas",
+            "en-US": "On the observance of the rules",
+            "pt-BR": "Da observância das regras"
+          },
+          "children": [
+            {
+              "id": "p3-t6-c01",
+              "title": {
+                "es-ES": "De la merced y beneficio grande que nos hizo el Señor en cercarnos con reglas",
+                "en-US": "Of the Great Favor and Benefit God Has Done Us in Encompassing Us with Rules"
+              }
+            },
+            {
+              "id": "p3-t6-c02",
+              "title": {
+                "es-ES": "Que nuestra perfección consiste en la observancia de las reglas",
+                "en-US": "That Our Perfection Consists in the Observance of the Rules"
+              }
+            },
+            {
+              "id": "p3-t6-c03",
+              "title": {
+                "es-ES": "Que nuestras reglas no obligan a pecado; pero no hemos de tomar de ahí ocasión para dejarlas de guardar",
+                "en-US": "That though Our Rules Do Not Bind under Sin, We Should Not Make That an Excuse for Neglecting to Observe Them"
+              }
+            },
+            {
+              "id": "p3-t6-c04",
+              "title": {
+                "es-ES": "Que el ser cosa pequeña lo que manda la regla no excusa, antes acusa más al que no la guarda",
+                "en-US": "That although the Matter about Which a Rule Deals Is Trifling, This Is No Excuse, but Tells Rather against Him Who Does Not Keep It"
+              }
+            },
+            {
+              "id": "p3-t6-c05",
+              "title": {
+                "es-ES": "Del daño grande que se sigue de hacer poco caso de las reglas, aunque sea en cosas pequeñas",
+                "en-US": "Of the Great Mischief That Comes of Making Light of the Rules, Even though It Be in Small Things"
+              }
+            },
+            {
+              "id": "p3-t6-c06",
+              "title": {
+                "es-ES": "De los bienes grandes que se siguen de guardar las reglas y hacer mucho caso de ellas, aunque sea en cosas pequeñas",
+                "en-US": "Of the Great Blessings That Follow Upon Observance of Rules, and Setting Much Store by Them, Even in Small Things"
+              }
+            },
+            {
+              "id": "p3-t6-c07",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "What Has Been Said Is Confirmed by Some Examples"
+              }
+            },
+            {
+              "id": "p3-t6-c08",
+              "title": {
+                "es-ES": "De algunas otras cosas que suelen ser causa de faltar en las reglas, y del remedio para ellas",
+                "en-US": "Of Some Other Things Which Cause Us to Fail in the Observance of the Rules, and of the Remedy for Them"
+              }
+            },
+            {
+              "id": "p3-t6-c09",
+              "title": {
+                "es-ES": "De otros medios que nos ayudarán para guardar las reglas",
+                "en-US": "Of Other Means to Help Us in Keeping the Rules"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p3-t7",
+          "title": {
+            "es-ES": "De la claridad que se ha de tener con los superiores y padres espirituales, dándoles entera cuenta de la conciencia",
+            "en-US": "On openness with superiors and spiritual fathers, giving them full account of conscience",
+            "pt-BR": "Da clareza com os superiores e pais espirituais, dando-lhes inteira conta da consciência"
+          },
+          "children": [
+            {
+              "id": "p3-t7-c01",
+              "title": {
+                "es-ES": "Cuán importante y necesario es andar con claridad con nuestros superiores",
+                "en-US": "How Important and Necessary It Is to Deal Openly with Our Superiors"
+              }
+            },
+            {
+              "id": "p3-t7-c02",
+              "title": {
+                "es-ES": "Cuán gran descanso y consuelo es andar uno con claridad con su superior y padre espiritual, y los bienes y provechos grandes que hay en ello",
+                "en-US": "What a Great Relief and Consolation It Is for a Man to Be Open with His Superior and Spiritual: Father, and the Blessings and Benefits That Ensue Therefrom"
+              }
+            },
+            {
+              "id": "p3-t7-c03",
+              "title": {
+                "es-ES": "Que el descubrir las tentaciones al superior o padre espiritual es medio muy eficaz contra ellas",
+                "en-US": "That to Discover Temptations to the Superior or Spiritual Father Is a Very Efficacious Means to Take against Them"
+              }
+            },
+            {
+              "id": "p3-t7-c04",
+              "title": {
+                "es-ES": "Que ninguno ha de dejar de descubrir sus tentaciones a su padre espiritual, por parecerle que ya sabe los remedios que le ha de dar",
+                "en-US": "That No One Ought to Omit Telling His Temptations to His Spiritual Father on the Plea That He Already Knows the Means to Be Taken to Meet Them"
+              }
+            },
+            {
+              "id": "p3-t7-c05",
+              "title": {
+                "es-ES": "Que ninguno ha de dejar de manifestar las cosas por parecerle pequeñas",
+                "en-US": "That None Should Omit Manifesting Things because They Look Trifling"
+              }
+            },
+            {
+              "id": "p3-t7-c06",
+              "title": {
+                "es-ES": "Se comienza a satisfacer a las dificultades que suelen impedir esta claridad",
+                "en-US": "Some First Answers to the Difficulties That Usually Hinder This Openness in Manifestation"
+              }
+            },
+            {
+              "id": "p3-t7-c07",
+              "title": {
+                "es-ES": "Se satisface a la dificultad principal que suele impedir esta claridad",
+                "en-US": "Meeting the Main Difficulty That Is Apt to Stand in the Way of Openness in Manifestation"
+              }
+            },
+            {
+              "id": "p3-t7-c08",
+              "title": {
+                "es-ES": "Se responde por otra vía a la dificultad pasada",
+                "en-US": "Another Way of Meeting the Aforesaid Difficulty"
+              }
+            },
+            {
+              "id": "p3-t7-c09",
+              "title": {
+                "es-ES": "Que debemos mucho a Dios por habernos hecho tan fácil y tan suave en la Compañía el dar cuenta de la conciencia, y de las causas de esta facilidad y suavidad",
+                "en-US": "That We Owe Much Gratitude to God for Making the Account of Conscience in the Society so Easy and Pleasant, and How It Comes to Be So"
+              }
+            },
+            {
+              "id": "p3-t7-c10",
+              "title": {
+                "es-ES": "Del modo que hemos de tener de dar cuenta de la conciencia",
+                "en-US": "Of the Method to Be Observed in Giving an Account of Conscience"
+              }
+            },
+            {
+              "id": "p3-t7-c11",
+              "title": {
+                "es-ES": "En que se responde a algunas dudas que resultan de lo dicho",
+                "en-US": "Answers to Certain Doubts Arising from the Above"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p3-t8",
+          "title": {
+            "es-ES": "De la corrección fraterna",
+            "en-US": "On fraternal correction",
+            "pt-BR": "Da correção fraterna"
+          },
+          "children": [
+            {
+              "id": "p3-t8-c01",
+              "title": {
+                "es-ES": "Que la corrección es señal de amor y del bien grande que hay en ella",
+                "en-US": "That Correction Is a Mark of Love, and the Great Good There Is in It"
+              }
+            },
+            {
+              "id": "p3-t8-c02",
+              "title": {
+                "es-ES": "Que la causa de no recibir bien la corrección es la soberbia",
+                "en-US": "That Pride Is the Cause of Our Not Taking Correction Well"
+              }
+            },
+            {
+              "id": "p3-t8-c03",
+              "title": {
+                "es-ES": "De los inconvenientes y daños que se siguen de no recibir bien la corrección",
+                "en-US": "Of the Inconveniences and Losses That Follow from Not Taking Correction Well"
+              }
+            },
+            {
+              "id": "p3-t8-c04",
+              "title": {
+                "es-ES": "Cuánto importa recibir bien la corrección y el aviso",
+                "en-US": "How Important It Is to Take Correction and Admonition Well"
+              }
+            },
+            {
+              "id": "p3-t8-c05",
+              "title": {
+                "es-ES": "En que se confirma lo dicho con algunos ejemplos",
+                "en-US": "What Has Been Said in the Foregoing Chapter Confirmed by Examples"
+              }
+            },
+            {
+              "id": "p3-t8-c06",
+              "title": {
+                "es-ES": "De la regla y constitución que tenemos en la Compañía de descubrir las faltas de nuestros hermanos inmediatamente al superior",
+                "en-US": "Of the Rule and Constitution That We Have in the Society, of Discovering the Faults of Our Brethren Immediately to the Superior"
+              }
+            },
+            {
+              "id": "p3-t8-c07",
+              "title": {
+                "es-ES": "De algunos avisos importantes en esta materia",
+                "en-US": "Sundry Important Warnings in This Matter"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
