@@ -1,0 +1,63 @@
+{
+  "id": "bellarmine-controversiae-de-exemptione-clericorum",
+  "cover": "classic",
+  "name": {
+    "la": "De exemptione clericorum",
+    "en-US": "On the Exemption of Clerics",
+    "pt-BR": "Sobre a isenção dos clérigos"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De exemptione clericorum. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the exemption of clerics from civil jurisdiction. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre a isenção dos clérigos."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-exemptione-clericorum",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia06bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 6 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I",
+        "en-US": "Caput I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. An exemptio clericorum sit juris divini naturalis",
+        "en-US": "Caput II. An exemptio clericorum sit juris divini naturalis"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Solvuntur argumenta contraria",
+        "en-US": "Caput III. Solvuntur argumenta contraria"
+      }
+    }
+  ]
+}
