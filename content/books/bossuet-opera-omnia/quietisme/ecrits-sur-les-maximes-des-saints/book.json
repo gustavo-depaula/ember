@@ -1,0 +1,144 @@
+{
+  "id": "bossuet-ecrits-sur-les-maximes-des-saints",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Écrits sur les Maximes des saints de Fénelon",
+    "en-US": "Writings on Fénelon’s Maxims of the Saints",
+    "pt-BR": "Escritos sobre as Máximas dos santos de Fénelon"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Mémoires, préface, sections et réponses de Bossuet dans la controverse qui l’opposa à Fénelon sur l’Explication des maximes des saints (1697-1698) : l’amour pur, la charité et l’espérance, l’abandon, les cinq écrits à l’archevêque de Cambrai, le Sommaire de la doctrine, la Déclaration des trois évêques et la Réponse à quatre lettres. Édition Lachat (1864).",
+    "en-US": "Memoranda, preface, sections and replies of Bossuet in the controversy with Fénelon over the Explanation of the Maxims of the Saints (1697-98): pure love, charity and hope, abandonment, the five papers to the Archbishop of Cambrai, the Summary of the doctrine, the Declaration of the three bishops and the Reply to four letters. Lachat edition (1864).",
+    "pt-BR": "Memórias, prefácio, seções e respostas de Bossuet na controvérsia com Fénelon sobre a Explicação das máximas dos santos (1697-1698): o amor puro, a caridade e a esperança, o abandono, os cinco escritos ao arcebispo de Cambrai, o Sumário da doutrina, a Declaração dos três bispos e a Resposta a quatro cartas. Edição Lachat (1864)."
+  },
+  "composed": "1697",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/ecrits-sur-les-maximes-des-saints",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume019/005.htm to 021.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XIX, pages 005-021. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "reponse-maisonfort",
+      "title": {
+        "fr-FR": "Réponse aux difficultés de Mme de Maisonfort"
+      }
+    },
+    {
+      "id": "reponse-lettre-de-cambrai",
+      "title": {
+        "fr-FR": "Réponse à une lettre de M. de Cambrai"
+      }
+    },
+    {
+      "id": "divers-ecrits",
+      "title": {
+        "fr-FR": "Divers écrits ou mémoires sur le livre intitulé Explication des maximes des saints"
+      }
+    },
+    {
+      "id": "preface-instruction-pastorale",
+      "title": {
+        "fr-FR": "Préface sur l’instruction pastorale"
+      }
+    },
+    {
+      "id": "sections-1-2",
+      "title": {
+        "fr-FR": "Sections I-II"
+      }
+    },
+    {
+      "id": "sections-3-4",
+      "title": {
+        "fr-FR": "Sections III-IV"
+      }
+    },
+    {
+      "id": "sections-5-6",
+      "title": {
+        "fr-FR": "Sections V-VI"
+      }
+    },
+    {
+      "id": "sections-7-10",
+      "title": {
+        "fr-FR": "Sections VII-X"
+      }
+    },
+    {
+      "id": "sections-10-13",
+      "title": {
+        "fr-FR": "Sections X-XIII et conclusion"
+      }
+    },
+    {
+      "id": "ecrit-1",
+      "title": {
+        "fr-FR": "Premier écrit ou mémoire de M. l’évêque de Meaux à M. l’archevêque de Cambrai"
+      }
+    },
+    {
+      "id": "ecrit-2",
+      "title": {
+        "fr-FR": "Second écrit"
+      }
+    },
+    {
+      "id": "ecrit-3",
+      "title": {
+        "fr-FR": "Troisième écrit"
+      }
+    },
+    {
+      "id": "ecrit-4",
+      "title": {
+        "fr-FR": "Quatrième écrit"
+      }
+    },
+    {
+      "id": "ecrit-5",
+      "title": {
+        "fr-FR": "Cinquième écrit"
+      }
+    },
+    {
+      "id": "sommaire",
+      "title": {
+        "fr-FR": "Sommaire de la doctrine du livre Explication des maximes des saints, et lettre au cardinal Spada"
+      }
+    },
+    {
+      "id": "declaration",
+      "title": {
+        "fr-FR": "Déclaration des sentiments des trois évêques"
+      }
+    },
+    {
+      "id": "reponse-quatre-lettres",
+      "title": {
+        "fr-FR": "Réponse à quatre lettres de Mgr l’archevêque duc de Cambrai"
+      }
+    }
+  ]
+}
