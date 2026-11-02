@@ -1,0 +1,57 @@
+{
+  "id": "augustine-de-adulterinis-coniugiis",
+  "cover": "quarter",
+  "name": {
+    "la": "De adulterinis coniugiis",
+    "en-US": "On Adulterous Marriages",
+    "pt-BR": "Os casamentos adulterinos"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "De adulterinis coniugiis. Textus Latinus secundum editionem Maurinorum.",
+    "en-US": "On Adulterous Marriages (419-420), by St. Augustine of Hippo. Latin text of the Maurist edition; no public-domain English translation has been imported yet.",
+    "pt-BR": "Os casamentos adulterinos (419-420), de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos."
+  },
+  "composed": "419-420",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/de-adulterinis-coniugiis",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/connubi_adulterini/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages connubi_adulterini of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Liber I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber II"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
