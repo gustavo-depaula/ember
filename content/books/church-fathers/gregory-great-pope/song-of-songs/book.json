@@ -1,0 +1,50 @@
+{
+  "id": "gregory-great-pope-song-of-songs",
+  "cover": "classic",
+  "name": {
+    "la": "Expositio in Canticum Canticorum",
+    "en-US": "Exposition on the Song of Songs",
+    "pt-BR": "Exposição sobre o Cântico dos Cânticos"
+  },
+  "author": {
+    "la": "Gregorius Magnus, Papa (c. 540-604)",
+    "en-US": "Gregory the Great, Pope (c. 540-604)",
+    "pt-BR": "São Gregório Magno, Papa (c. 540-604)"
+  },
+  "description": {
+    "la": "Expositio Gregorii in Canticum Canticorum, quae primos octo versus libri explicat, a Gregorio in Cantico canticorum 1,1-8 conscripta (post 595).",
+    "en-US": "Gregory's short commentary on the first eight verses of the Song of Songs (Cant 1:1-8): why Scripture speaks of the soul's love in the words of bodily love, and how kisses, breasts and the beloved's beauty lead the soul from earthly longing to the love of God. The Latin text, in the orthography of the Corpus Corporum edition; no public-domain English translation is known.",
+    "pt-BR": "O breve comentário de Gregório aos oito primeiros versículos do Cântico dos Cânticos (Ct 1,1-8): por que a Escritura fala do amor da alma com palavras de amor corporal, e como os beijos, os seios e a beleza da amada conduzem a alma do desejo terreno ao amor de Deus."
+  },
+  "composed": "c. 595",
+  "languages": [
+    "la"
+  ],
+  "work": "gregory-the-great/expositio-in-canticum",
+  "editions": {
+    "la": {
+      "editor": "Corpus Corporum (Univ. of Zurich) transcription, labelled Migne 1849, PL 79; in the u-for-v orthography of the critical edition (CCSL 144)"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Expositio_in_Canticum_Canticorum_(Gregorius_Magnus)",
+      "edition": "Expositio in Canticum Canticorum (Gregorius Magnus) on Latin Wikisource, from the Corpus Corporum (http://www.mlat.uzh.ch). The page names Migne 1849, but its orthography (uita, ueniens) is that of Verbraken's CCSL 144 (1963), so the underlying edition is uncertain.",
+      "description": "Wikitext removed; the first words, set as a heading in the wikitext, rejoined to the text; one chapter.",
+      "tier": "B",
+      "tierEvidence": "Text of a 6th-century work; the edition behind the transcription is unverified (see edition)."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "expositio",
+      "title": {
+        "la": "Expositio in Canticum Canticorum"
+      }
+    }
+  ]
+}

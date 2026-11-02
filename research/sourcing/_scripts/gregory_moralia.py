@@ -5,12 +5,12 @@ G = ROOT + 'research/sourcing/gregory-the-great/'
 LW = G + 'ws/Moralia_/Moralia_'
 ROMLC = [r.lower() for r in ROM]
 
-def strip_page_numbers(t):
+def strip_page_numbers(t, maxjump=3):
     # The TEI page counter is inlined as a bare number; real numerals in the text are rare and never chain by +1..3.
     ms = list(re.finditer(r'(?<=[A-Za-z,;:?!).])\s(\d{1,4})\s(?=\S)', t))
     vals = [int(m.group(1)) for m in ms]
     def near(k, j):
-        return 1 <= abs(vals[k] - vals[j]) <= 3 and (vals[k] - vals[j]) * (k - j) > 0 and abs(ms[k].start() - ms[j].start()) > 120
+        return 1 <= abs(vals[k] - vals[j]) <= maxjump and (vals[k] - vals[j]) * (k - j) > 0 and abs(ms[k].start() - ms[j].start()) > 120
     drop = [m for k, m in enumerate(ms) if (k > 0 and near(k, k-1)) or (k + 1 < len(ms) and near(k+1, k))]
     for m in reversed(drop):
         t = t[:m.start()] + ' ' + t[m.end():]

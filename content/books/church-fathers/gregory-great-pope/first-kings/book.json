@@ -1,0 +1,86 @@
+{
+  "id": "gregory-great-pope-first-kings",
+  "cover": "classic",
+  "name": {
+    "la": "In primum Regum expositionum libri VI",
+    "en-US": "Exposition on the First Book of Kings",
+    "pt-BR": "Exposição sobre o Primeiro Livro dos Reis"
+  },
+  "author": {
+    "la": "Gregorius Magnus, Papa (c. 540-604)",
+    "en-US": "Gregory the Great, Pope (c. 540-604)",
+    "pt-BR": "São Gregório Magno, Papa (c. 540-604)"
+  },
+  "description": {
+    "la": "In primum librum Regum expositionum libri sex, cum prooemio; opus Gregorio traditum, sed ab recentioribus Petro Cavensi (saec. XII) fere adscriptum.",
+    "en-US": "A six-book allegorical exposition of the First Book of Samuel (Vulgate 1 Kings), handed down under Gregory's name in the Maurist edition (PL 79). Its authorship is doubtful: scholars once defended it as Gregory's lectures redacted by Claudius, but it is now generally ascribed to Peter of Cava (12th century). Latin only; no public-domain English translation is known.",
+    "pt-BR": "Exposição alegórica, em seis livros, do Primeiro Livro de Samuel (1 Reis na Vulgata), transmitida sob o nome de Gregório na edição beneditina (PL 79). Sua autoria é duvidosa: já foi defendida como lições de Gregório redigidas por Cláudio, mas hoje se atribui em geral a Pedro de Cava (séc. XII)."
+  },
+  "composed": "doubtful (c. 6th-12th c.)",
+  "languages": [
+    "la"
+  ],
+  "work": "gregory-the-great/in-primum-regum",
+  "editions": {
+    "la": {
+      "editor": "Maurist edition (Sainte-Marthe, 1705), as reprinted in Migne, PL 79 (1849)"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Commentarii_in_librum_I_Regum",
+      "edition": "Commentarii in librum I Regum (prooemium and books I-VI) on Latin Wikisource, from the Corpus Corporum TEI of PL 79 (Migne 1849).",
+      "description": "Wikitext removed; the inline PL page counter stripped; one file per book.",
+      "tier": "A",
+      "tierEvidence": "Migne's 1849 reprint of the 1705 Maurist edition: public domain. Authorship doubtful."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "prooemium",
+      "title": {
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I"
+      }
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II"
+      }
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III"
+      }
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber IV"
+      }
+    },
+    {
+      "id": "b5",
+      "title": {
+        "la": "Liber V"
+      }
+    },
+    {
+      "id": "b6",
+      "title": {
+        "la": "Liber VI"
+      }
+    }
+  ]
+}
