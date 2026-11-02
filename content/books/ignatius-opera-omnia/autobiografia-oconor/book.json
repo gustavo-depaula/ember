@@ -1,0 +1,100 @@
+{
+  "id": "ignatius-autobiografia-oconor",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Autobiography of St. Ignatius",
+    "pt-BR": "A Autobiografia de Santo Inácio (O'Conor)"
+  },
+  "author": {
+    "es-ES": "San Ignacio de Loyola",
+    "en-US": "St. Ignatius of Loyola",
+    "pt-BR": "Santo Inácio de Loyola"
+  },
+  "description": {
+    "en-US": "The account of his life dictated by St. Ignatius to Fr. Gonçalves da Câmara (1553–1555), in the English of J. F. X. O'Conor, S.J. (1900), made from the Latin version of Annibal du Coudret and divided into eight chapters. It follows the Latin, so it parts from the Spanish and Italian here and there; the Spanish edition, with its own division, is a separate book.",
+    "pt-BR": "O relato da vida ditado por Santo Inácio ao P. Gonçalves da Câmara (1553–1555), na versão inglesa de J. F. X. O'Conor, S.J. (1900), feita a partir da tradução latina de Annibal du Coudret."
+  },
+  "composed": "1553–1555",
+  "languages": [
+    "en-US"
+  ],
+  "work": "ignatius-of-loyola/autobiografia",
+  "editions": {
+    "en-US": {
+      "translator": "J. F. X. O'Conor, S.J.",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/24534",
+      "edition": "The Autobiography of St. Ignatius, edited by J. F. X. O'Conor, S.J., New York: Benziger Brothers, 1900; Project Gutenberg #24534. The editor's preface and the writer's (Câmara's) preface are kept; the front matter, illustrations, table of contents and the editor's appendix on the Jesuit plan of education are left out.",
+      "description": "Chapter summaries are set in italics under each chapter title. Translated from the Latin version, not from the Spanish and Italian.",
+      "tier": "A",
+      "tierEvidence": "Published in New York in 1900 (public domain in the US); Project Gutenberg e-text."
+    }
+  ],
+  "toc": [
+    {
+      "id": "editors-preface",
+      "title": {
+        "en-US": "Editor's Preface"
+      }
+    },
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface of the Writer"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter VI"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter VII"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter VIII"
+      }
+    }
+  ]
+}

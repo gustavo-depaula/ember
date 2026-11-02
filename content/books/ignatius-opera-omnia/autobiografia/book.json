@@ -1,0 +1,108 @@
+{
+  "id": "ignatius-autobiografia",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Autobiografía (Relato del peregrino)",
+    "en-US": "Autobiography (The Pilgrim's Story)",
+    "pt-BR": "Autobiografia (Relato do peregrino)"
+  },
+  "author": {
+    "es-ES": "San Ignacio de Loyola",
+    "en-US": "St. Ignatius of Loyola",
+    "pt-BR": "Santo Inácio de Loyola"
+  },
+  "description": {
+    "es-ES": "El relato de su vida que San Ignacio dictó al P. Luis Gonçalves da Câmara entre 1553 y 1555: desde la herida de Pamplona y la conversión hasta la fundación de la Compañía en Roma, con la numeración tradicional [1]–[101]. Los párrafos [1]–[78] son el español dictado; desde [79] el original es italiano y este texto es su versión española.",
+    "en-US": "The account of his life that St. Ignatius dictated to Fr. Luis Gonçalves da Câmara in 1553–1555, from the wound at Pamplona and his conversion to the founding of the Society in Rome, with the traditional numbering [1]–[101]. Paragraphs [1]–[78] are the Spanish as dictated; from [79] the original is Italian and this text is a Spanish rendering of it.",
+    "pt-BR": "O relato da vida que Santo Inácio ditou ao P. Luís Gonçalves da Câmara em 1553–1555, da ferida de Pamplona e da conversão até a fundação da Companhia em Roma, com a numeração tradicional [1]–[101]."
+  },
+  "composed": "1553–1555",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "ignatius-of-loyola/autobiografia",
+  "editions": {
+    "es-ES": {
+      "editor": "Documenta Catholica Omnia text of the Acta (Gonçalves da Câmara)",
+      "year": 1555
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://www.documentacatholicaomnia.eu/03d/1491-1556,_Ignacio_Loyola,_Autobiografia_pro_el_P_Goncalves_De_Camara_1553-15555,_ES.pdf",
+      "edition": "Autobiografía de San Ignacio de Loyola (texto recogido por el P. Luis Gonçalves da Câmara entre 1553 y 1555), Documenta Catholica Omnia text layer, paragraphs [1]-[101]. DCO's chapter headings stop at VIII and XI; chapters IX and X are restored from the division of the es.wikisource edition (paragraphs 87 and 92). Page numbers removed.",
+      "description": "Paragraphs [1]-[78] are the Spanish text as Ignatius dictated it (Câmara's amanuensis); from [79], where the dictation passes into Italian, the text is a modern Spanish translation of the Italian. The Italian original (MHSI, Scripta de S. Ignatio I, 1904) is not yet transcribed.",
+      "tier": "B",
+      "tierEvidence": "Ignatius died in 1556 and the Acta were dictated in 1553-55; distributed by Documenta Catholica Omnia without any copyright claim or licence, identical in wording to es.wikisource's Spanish for [1]-[78]; free in practice."
+    }
+  ],
+  "toc": [
+    {
+      "id": "capitulo-1",
+      "title": {
+        "es-ES": "Capítulo I"
+      }
+    },
+    {
+      "id": "capitulo-2",
+      "title": {
+        "es-ES": "Capítulo II"
+      }
+    },
+    {
+      "id": "capitulo-3",
+      "title": {
+        "es-ES": "Capítulo III"
+      }
+    },
+    {
+      "id": "capitulo-4",
+      "title": {
+        "es-ES": "Capítulo IV"
+      }
+    },
+    {
+      "id": "capitulo-5",
+      "title": {
+        "es-ES": "Capítulo V"
+      }
+    },
+    {
+      "id": "capitulo-6",
+      "title": {
+        "es-ES": "Capítulo VI"
+      }
+    },
+    {
+      "id": "capitulo-7",
+      "title": {
+        "es-ES": "Capítulo VII"
+      }
+    },
+    {
+      "id": "capitulo-8",
+      "title": {
+        "es-ES": "Capítulo VIII"
+      }
+    },
+    {
+      "id": "capitulo-9",
+      "title": {
+        "es-ES": "Capítulo IX"
+      }
+    },
+    {
+      "id": "capitulo-10",
+      "title": {
+        "es-ES": "Capítulo X"
+      }
+    },
+    {
+      "id": "capitulo-11",
+      "title": {
+        "es-ES": "Capítulo XI"
+      }
+    }
+  ]
+}

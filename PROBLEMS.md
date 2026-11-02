@@ -94,3 +94,4 @@ These books have no English because the only public-domain translations are badl
 - `church-fathers/councils/trent`: the Latin lacks the bull of indiction, the acclamations and the confirmation, which are in English only.
 - `church-fathers/gregory-great-pope/dialogues`: the Latin Book II has 6 sections against the English's 38 chapters.
 - `church-fathers/gregory-great-pope/register-of-letters`: Latin only for the 420 letters NPNF translates. About 440 more exist only in Latin.
+- `ignatius-opera-omnia/autobiografia`: paragraphs [79]-[101] (from the Italian part of the dictation, in the MHSI text, Paris section onward) are DCO's Spanish rendering of the Italian, not Ignatius's own Italian; the MHSI 1904 OCR (`monumentaignati00ignagoog`) is too noisy to transcribe without a facing edition. No Câmara preface in the Spanish. The English (O'Conor, from du Coudret's Latin) is its own book, `autobiografia-oconor`, with 8 chapters.
