@@ -1,0 +1,561 @@
+{
+  "id": "bellarmine-controversiae-de-conciliis-et-ecclesia-militante",
+  "cover": "classic",
+  "name": {
+    "la": "De conciliis et ecclesia militante",
+    "en-US": "On Councils and the Church Militant",
+    "pt-BR": "Sobre os concílios e a Igreja militante"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De conciliis et ecclesia militante. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): councils, and the Church militant, its notes and its members. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre os concílios e a Igreja militante."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-conciliis-et-ecclesia-militante",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia02bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 2 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I",
+            "en-US": "Caput I"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Qui scripserint de Conciliis",
+            "en-US": "Caput II. Qui scripserint de Conciliis"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III",
+            "en-US": "Caput III"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Concilia generalia approbata",
+            "en-US": "Caput V. Concilia generalia approbata"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. Concilia generalia reprobata",
+            "en-US": "Caput VI. Concilia generalia reprobata"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. Concilia partim confirmata, partivi reprobata",
+            "en-US": "Caput VII. Concilia partim confirmata, partivi reprobata"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. De Concilio nec manifeste probato, nec manifeste reprobato",
+            "en-US": "Caput VIII. De Concilio nec manifeste probato, nec manifeste reprobato"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. De utilitate vel etiam necessitate celebrandorum Conciliorum",
+            "en-US": "Caput IX. De utilitate vel etiam necessitate celebrandorum Conciliorum"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. Concilia generalia utilia esse, et suo quodam modo necessaria, non tamen absolute, et simpliciter",
+            "en-US": "Caput X. Concilia generalia utilia esse, et suo quodam modo necessaria, non tamen absolute, et simpliciter"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. Concilia Episcoporum aliqua simpliciter esse necessaria",
+            "en-US": "Caput XI. Concilia Episcoporum aliqua simpliciter esse necessaria"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. Cujus sit congregare Concilia",
+            "en-US": "Caput XII. Cujus sit congregare Concilia"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII",
+            "en-US": "Caput XIII"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. Explicantur dubitationes qucedam",
+            "en-US": "Caput XIV. Explicantur dubitationes qucedam"
+          }
+        },
+        {
+          "id": "b1c15",
+          "title": {
+            "la": "Caput XV. Quinam sint ad Concilium convocandi",
+            "en-US": "Caput XV. Quinam sint ad Concilium convocandi"
+          }
+        },
+        {
+          "id": "b1c16",
+          "title": {
+            "la": "Caput XVI. Solvuntur objectiones adversariorum",
+            "en-US": "Caput XVI. Solvuntur objectiones adversariorum"
+          }
+        },
+        {
+          "id": "b1c17",
+          "title": {
+            "la": "Caput XVII. Quot Episcopi requirantur ad generale Concilium",
+            "en-US": "Caput XVII. Quot Episcopi requirantur ad generale Concilium"
+          }
+        },
+        {
+          "id": "b1c18",
+          "title": {
+            "la": "Caput XVIII. Episcopos in Conciliis non Consiliarios, sed Judices esse",
+            "en-US": "Caput XVIII. Episcopos in Conciliis non Consiliarios, sed Judices esse"
+          }
+        },
+        {
+          "id": "b1c19",
+          "title": {
+            "la": "Caput XIX",
+            "en-US": "Caput XIX"
+          }
+        },
+        {
+          "id": "b1c20",
+          "title": {
+            "la": "Caput XX. Solvuntur argumenta adversariorum",
+            "en-US": "Caput XX. Solvuntur argumenta adversariorum"
+          }
+        },
+        {
+          "id": "b1c21",
+          "title": {
+            "la": "Caput XXI. Refutantur conditiones, quas Lutherani requirunt in Concilio celebrando",
+            "en-US": "Caput XXI. Refutantur conditiones, quas Lutherani requirunt in Concilio celebrando"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. CAPUT II",
+            "en-US": "Caput I. CAPUT II"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. Argumentum et partitio hujus libri",
+            "en-US": "Caput II. Argumentum et partitio hujus libri"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. Idem pj'obatur ex Patribus",
+            "en-US": "Caput III. Idem pj'obatur ex Patribus"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. Idem ostenditur argumentis a ratione ductis",
+            "en-US": "Caput IV. Idem ostenditur argumentis a ratione ductis"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. Concilia particularia, a Pontifice approbata, errare non posse.,",
+            "en-US": "Caput V. Concilia particularia, a Pontifice approbata, errare non posse.,"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI",
+            "en-US": "Caput VI"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. Solvuntur argumenta petita ex testimoniis veterum Patrum",
+            "en-US": "Caput VII. Solvuntur argumenta petita ex testimoniis veterum Patrum"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. Solvuntur argumenta ex Conciliorum erratis",
+            "en-US": "Caput VIII. Solvuntur argumenta ex Conciliorum erratis"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. Solvitur objectio, ducta ex ratione",
+            "en-US": "Caput IX. Solvitur objectio, ducta ex ratione"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. Concilia particularia, non probata a summo",
+            "en-US": "Caput X. Concilia particularia, non probata a summo"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. Concilia generalia, ante confirmationem summi Pontificis, errare posse, nisi Patres in definiendo sequantur Pontificis instructionem",
+            "en-US": "Caput XI. Concilia generalia, ante confirmationem summi Pontificis, errare posse, nisi Patres in definiendo sequantur Pontificis instructionem"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. An sit major auctoritas Concilii, quam Scripturae",
+            "en-US": "Caput XII. An sit major auctoritas Concilii, quam Scripturae"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII. An Concilium sit supra Pontificem",
+            "en-US": "Caput XIII. An Concilium sit supra Pontificem"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. Explicantur opiniones diversce",
+            "en-US": "Caput XIV. Explicantur opiniones diversce"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. Non esse in Concilio summam potestatem",
+            "en-US": "Caput XVI. Non esse in Concilio summam potestatem"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. Summum Pontificem absolute esse supra Concilium",
+            "en-US": "Caput XVII. Summum Pontificem absolute esse supra Concilium"
+          }
+        },
+        {
+          "id": "b2c19",
+          "title": {
+            "la": "Caput XIX",
+            "en-US": "Caput XIX"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I",
+            "en-US": "Caput I"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. De definitione Ecclesiae",
+            "en-US": "Caput II. De definitione Ecclesiae"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV. De Haereticis et Apostatis",
+            "en-US": "Caput IV. De Haereticis et Apostatis"
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI. De excommunicatis",
+            "en-US": "Caput VI. De excommunicatis"
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. De praedestinatis",
+            "en-US": "Caput VII. De praedestinatis"
+          }
+        },
+        {
+          "id": "b3c08",
+          "title": {
+            "la": "Caput VIII. De non perfectis",
+            "en-US": "Caput VIII. De non perfectis"
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX. De magnis peccatoribus",
+            "en-US": "Caput IX. De magnis peccatoribus"
+          }
+        },
+        {
+          "id": "b3c10",
+          "title": {
+            "la": "Caput X. De infidelibus occultis",
+            "en-US": "Caput X. De infidelibus occultis"
+          }
+        },
+        {
+          "id": "b3c11",
+          "title": {
+            "la": "Caput XI. Proponitur altera controversia: An Ecclesia sit semper visibilis, sive, an errare et deficere",
+            "en-US": "Caput XI. Proponitur altera controversia: An Ecclesia sit semper visibilis, sive, an errare et deficere"
+          }
+        },
+        {
+          "id": "b3c13",
+          "title": {
+            "la": "Caput XIII. Ecclesiam visibilem non posse deficere",
+            "en-US": "Caput XIII. Ecclesiam visibilem non posse deficere"
+          }
+        },
+        {
+          "id": "b3c14",
+          "title": {
+            "la": "Caput XIV. Ecclesiam non posse errare",
+            "en-US": "Caput XIV. Ecclesiam non posse errare"
+          }
+        },
+        {
+          "id": "b3c15",
+          "title": {
+            "la": "Caput XV. Solvuntur argumenta, quibus adstruitur Ecclesia invisibilis",
+            "en-US": "Caput XV. Solvuntur argumenta, quibus adstruitur Ecclesia invisibilis"
+          }
+        },
+        {
+          "id": "b3c16",
+          "title": {
+            "la": "Caput XVI",
+            "en-US": "Caput XVI"
+          }
+        },
+        {
+          "id": "b3c17",
+          "title": {
+            "la": "Caput XVII. Solvuntur argumenta, quibus adversarii probant, pastores Ecclesice omnes simul errare posse",
+            "en-US": "Caput XVII. Solvuntur argumenta, quibus adversarii probant, pastores Ecclesice omnes simul errare posse"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "b4c01",
+          "title": {
+            "la": "Caput I. Tractationem de Notis EcclesicE utilissimam esse",
+            "en-US": "Caput I. Tractationem de Notis EcclesicE utilissimam esse"
+          }
+        },
+        {
+          "id": "b4c02",
+          "title": {
+            "la": "Caput II. Refellitur sententia haereticorum",
+            "en-US": "Caput II. Refellitur sententia haereticorum"
+          }
+        },
+        {
+          "id": "b4c03",
+          "title": {
+            "la": "Caput III. Proponuntur verce Notce Ecclesice",
+            "en-US": "Caput III. Proponuntur verce Notce Ecclesice"
+          }
+        },
+        {
+          "id": "b4c04",
+          "title": {
+            "la": "Caput IV. Explicatur prima Nota",
+            "en-US": "Caput IV. Explicatur prima Nota"
+          }
+        },
+        {
+          "id": "b4c05",
+          "title": {
+            "la": "Caput V. Nota secunda",
+            "en-US": "Caput V. Nota secunda"
+          }
+        },
+        {
+          "id": "b4c06",
+          "title": {
+            "la": "Caput VI. Nota tertia",
+            "en-US": "Caput VI. Nota tertia"
+          }
+        },
+        {
+          "id": "b4c07",
+          "title": {
+            "la": "Caput VII. Nota quarta",
+            "en-US": "Caput VII. Nota quarta"
+          }
+        },
+        {
+          "id": "b4c08",
+          "title": {
+            "la": "Caput VIII. Nota quinta",
+            "en-US": "Caput VIII. Nota quinta"
+          }
+        },
+        {
+          "id": "b4c09",
+          "title": {
+            "la": "Caput IX. Nota sexta",
+            "en-US": "Caput IX. Nota sexta"
+          }
+        },
+        {
+          "id": "b4c10",
+          "title": {
+            "la": "Caput X. Nota septima",
+            "en-US": "Caput X. Nota septima"
+          }
+        },
+        {
+          "id": "b4c11",
+          "title": {
+            "la": "Caput XI. Nota octava",
+            "en-US": "Caput XI. Nota octava"
+          }
+        },
+        {
+          "id": "b4c12",
+          "title": {
+            "la": "Caput XII. Nota nona",
+            "en-US": "Caput XII. Nota nona"
+          }
+        },
+        {
+          "id": "b4c13",
+          "title": {
+            "la": "Caput XIII. Nota decima",
+            "en-US": "Caput XIII. Nota decima"
+          }
+        },
+        {
+          "id": "b4c15",
+          "title": {
+            "la": "Caput XV. Nota duodecima",
+            "en-US": "Caput XV. Nota duodecima"
+          }
+        },
+        {
+          "id": "b4c16",
+          "title": {
+            "la": "Caput XVI. Nota decimatertia",
+            "en-US": "Caput XVI. Nota decimatertia"
+          }
+        },
+        {
+          "id": "b4c17",
+          "title": {
+            "la": "Caput XVII. Nota decimaquarta",
+            "en-US": "Caput XVII. Nota decimaquarta"
+          }
+        },
+        {
+          "id": "b4c18",
+          "title": {
+            "la": "Caput XVIII. Nota decimaquinta",
+            "en-US": "Caput XVIII. Nota decimaquinta"
+          }
+        }
+      ]
+    }
+  ]
+}
