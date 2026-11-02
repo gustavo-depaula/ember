@@ -1,0 +1,189 @@
+{
+  "id": "bellarmine-controversiae-de-laicis",
+  "cover": "classic",
+  "name": {
+    "la": "De laicis sive saecularibus",
+    "en-US": "On the Laity",
+    "pt-BR": "Sobre os leigos"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De laicis sive saecularibus. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the laity and secular power, the civil magistrate. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre os leigos."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-laicis",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia03bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 3 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Ordo totius Disputationis",
+        "en-US": "Caput I. Ordo totius Disputationis"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Proponitur prima quaestio: An politica potestas sit bona, et Christianis licita",
+        "en-US": "Caput II. Proponitur prima quaestio: An politica potestas sit bona, et Christianis licita"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Ex Scripturis asseritur politicus Magistratus",
+        "en-US": "Caput III. Ex Scripturis asseritur politicus Magistratus"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Idem asseritur ex fine principatus",
+        "en-US": "Caput V. Idem asseritur ex fine principatus"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Idem asseritur ratione ducta ab efficiente",
+        "en-US": "Caput VI. Idem asseritur ratione ducta ab efficiente"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Idem asseritur ex antiquitate",
+        "en-US": "Caput VII. Idem asseritur ex antiquitate"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Principatum sive dominium in impiis esse posse",
+        "en-US": "Caput VIII. Principatum sive dominium in impiis esse posse"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Proponitur queestio de potestate magistratus",
+        "en-US": "Caput IX. Proponitur queestio de potestate magistratus"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Prima Propositio",
+        "en-US": "Caput X. Prima Propositio"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI",
+        "en-US": "Caput XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Tertia propositio",
+        "en-US": "Caput XII. Tertia propositio"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Quarta propositio",
+        "en-US": "Caput XIII. Quarta propositio"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Licere Christianis aliquando bella gerere. lL",
+        "en-US": "Caput XIV. Licere Christianis aliquando bella gerere. lL"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Quot sint, et quee justi belli conditiones",
+        "en-US": "Caput XV. Quot sint, et quee justi belli conditiones"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Licere bellum gerere Christianus contra Tureas,",
+        "en-US": "Caput XVI. Licere bellum gerere Christianus contra Tureas,"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Ad magistratum non pertinere judicium de Religione",
+        "en-US": "Caput XVII. Ad magistratum non pertinere judicium de Religione"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. Ad magistratum pertinere defensionem Religionis",
+        "en-US": "Caput XVIII. Ad magistratum pertinere defensionem Religionis"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. Non posse conciliari Catholicos cum haereticis",
+        "en-US": "Caput XIX. Non posse conciliari Catholicos cum haereticis"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. Libros haereticorum, abolendos esse",
+        "en-US": "Caput XX. Libros haereticorum, abolendos esse"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. Posse haereticos ab Ecclesia damnatos, temporalibus poenis, et etiam morte mulctari",
+        "en-US": "Caput XXI. Posse haereticos ab Ecclesia damnatos, temporalibus poenis, et etiam morte mulctari"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. Solvuntur objectiones",
+        "en-US": "Caput XXII. Solvuntur objectiones"
+      }
+    }
+  ]
+}
