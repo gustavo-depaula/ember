@@ -681,17 +681,3 @@ O Lord, have mercy upon us: have mercy upon us.
 O Lord, let Thy mercy be shewed upon us: as we have hoped in Thee.
 
 O Lord, in Thee have I hoped: let me not be confounded for ever.
-
-PRINTED IN GREAT BRITAIN
-
-BV BALLANTYNE, HANSON & CO. LTD.
-
-EDINBURGH &* LONDON
-
-BX
-
-.W2
-
-V4,
-
-Vexilla Regis
