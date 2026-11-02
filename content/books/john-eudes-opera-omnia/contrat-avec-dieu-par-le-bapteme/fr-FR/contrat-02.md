@@ -1,90 +1,4 @@
-# Le Contrat (2): Contrat de l'homme avec dieu
-
-## Contrat de l'homme avec dieu
-
-## Par le saint bapteme
-
-CHAPITRE I.- Que celui qui a été baptisé a fait un Contrat avec Dieu, de très
-
-## grande importance
-
-C'est une chose déplorable à larmes de sang, de voir que, d'un si grand nombre d'hommes dont la terre est peuplée, qui ont été baptisés, et par conséquent admis au rang des enfants de Dieu, des membres de Jésus-Christ et des temples vivants du Saint-Esprit, et obligés à mener une vie conforme à ces divines qualités, il y en a néanmoins beaucoup plus qui vivent en bêtes, en païens et même en démons, qu'il n'y en a qui se comportent en véritables chrétiens.
-
-Quelle est la cause d'un si grand mal ? Il y en a plusieurs. Mais l'une des principales est que la plus grande partie de ces mêmes chrétiens est ensevelie dans un tel abîme de ténèbres et dans une si prodigieuse ignorance des choses qui appartiennent à leur profession, que même ils ne savent pas ce que c'est que d'avoir été baptisés. Ils ne connaissent point ce que c'est que d'être chrétiens; ils ne considèrent presque jamais les grâces indicibles et les faveurs incompréhensibles que Dieu leur a départies par le saint sacrement du Baptême, et ils passent toute leur vie sans penser une seule fois comme il faut aux promesses solennelles qu'ils ont faites à sa divine Majesté , et aux obligations très importantes dans lesquelles ils se sont engagés lorsqu'ils sont sortis de la famille d'Adam pour entrer en celle de Jésus-Christ, par le saint et sacré Contrat qu'ils ont fait avec lui dans leur Baptême.
-
-C'est ce qui m'a fait croire que c'est une chose utile et avantageuse à la gloire de Dieu et au salut de plusieurs, de tirer ce Contrat des trésors de l'Église qui en est la dépositaire, pour l'exposer au public et pour le mettre entre les mains et devant les yeux de tous les chrétiens, afin qu'en le voyant et en considérant les conventions qui y sont portées, ils apprennent: ce que c'est qu'un homme baptisé; ce que Dieu lui est; ce qu'il est à Dieu; quelle est la dignité et la sainteté de sa condition; quelle doit être sa vie en ce monde; quelle est la gloire qui lui est préparée dans le ciel, s'il vit en chrétien; et quels sont les supplices qui lui sont destinés dans l'enfer, s'il n'est pas fidèle à tenir le pacte qu'il a fait avec Dieu lorsqu'il a reçu le saint sacrement du Baptême.
-
-Car, qui que vous soyez qui avez été baptisé, vous devez savoir que, dans votre Baptême, vous avez fait un Contrat de la plus haute importance qui puisse être: Contrat public et solennel, dont le ciel et la terre sont témoins; Contrat écrit, non pas de la main des hommes, mais de celle des Anges; non pas avec de l'encre, mais avec le sang précieux de Jésus-Christ; non pas sur le papier ou parchemin, mais dans les livres éternels de la divine Miséricorde; Contrat où il s'agit, non pas de quelque somme d'argent ou de quelque chose temporelle et terrestre, mais d'un empire céleste et éternel, rempli d'un immensité de trésors, de gloire, de grandeurs et de félicités incompréhensibles.
-
-Quelle est la qualité de ce Contrat ? C'est un Contrat de donation, et de la plus grande donation et la plus favorable pour vous qui se puisse dire. Car, par ce Contrat, vous vous êtes donné à Dieu, et Dieu s'est donné à vous, et s'y est donné, comme vous verrez ci-après, en la manière la plus avantageuse pour vous qui puisse être imaginée.
-
-C'est un Contrat d'achat, selon ces divines paroles: Empti estis pretio magno 11 . Car vous étiez sous la puissance et dans l'appartenance de Satan, auquel vous aviez été vendu par votre premier père; mais votre très aimable Sauveur vous a acheté par le prix infini de son propre sang, et vous a retiré de ce misérable état, pour vous remettre entre les mains de votre Père céleste.
-
-Enfin, c'est un Contrat de société et d'alliance, et de la plus noble, plus riche et plus honorable alliance que l'esprit humain puisse concevoir, ainsi que vous verrez au chapitre suivant.
-
-Si les enfants du siècle sont si soigneux de lire et relire, d'examiner et étudier les contrats qu'ils ont faits les uns avec les autres, dans les choses temporelles et périssables de ce monde, et de se bien instruire de toutes les clauses et conditions qui y sont contenues, afin de savoir les droits et appartenances qu'ils leur donnent, et d'en conserver ou recouvrer la possession: avec quelle diligence et affection les enfants de la lumière doivent-ils considérer et méditer le merveilleux Contrat qu'ils ont fait avec Dieu par leur Baptême, afin de connaître les droits infiniment avantageux dans lesquels ils sont entrés, et les obligations très étroites qu'ils se sont imposées par ce même Contrat ?
-
-C'est pourquoi je vous conjure, vous qui tenez en main ce petit livre, qui est une fidèle copie ou un extrait véritable du susdit Contrat, je vous conjure, dis-je, par le sacré nom de Chrétien que vous avez l'honneur de porter, et par le saint Baptême que Dieu vous a fait la grâce de recevoir, de lire soigneusement et plus d'une fois les choses qui y sont contenues; de les considérer attentivement; de prier Dieu instamment qu'il les grave bien avant dans votre cœur; et d'apporter de votre part tout ce que vous pourrez, afin de les exprimer dans vos mœurs, à la gloire de Celui qui est le fondateur, le chef et le sanctificateur de la Religion chrétienne.
-
-Plaise à son infinie miséricorde, par les mérites et prières de sa bienheureuse Mère, de verser abondamment ses saintes bénédictions sur ce petit ouvrage et sur tous ceux qui s'en serviront, pour ressusciter ou renouveler en eux la grâce de leur Baptême et l'esprit du christianisme.
-
-CHAPITRE II.- De l'alliance merveilleuse en laquelle l'homme est entré avec Dieu
-
-## par le susdit Contrat
-
-Le Fils de Dieu ne s'est pas contenté de rompre le malheureux pacte que nous avions fait avec la mort et avec l'enfer, et de nous délivrer de l'alliance infâme que nous avions contractée avec Satan par le péché. Mais, par un excès inconcevable d'amour, il a voulu nous faire entrer dans une société merveilleuse avec lui et avec son Père, selon ces paroles de deux grands apôtres, saint Paul et saint Jean: Vocati estis, dit le premier, in societatem Filii ejus 12 : « Vous avez été appelés en l'alliance du Fils de Dieu. » Societas nostra, dit le second, cum Patre et cum Filio ejus Jesu Christo 13 :« Nous sommes en société avec le Père et avec son Fils Jésus-Christ.»
-
-Or, c'est par le Contrat que nous avons fait avec Dieu en notre Baptême, que nous sommes entrés dans cette sainte alliance. Alliance la plus noble, la plus étroite et la plus avantageuse qui puisse être.
-
-11 __ I Cor. VI, 20.__
-
-13 __ I Joan. I, 3.__ Alliance non pas seulement d'un ami avec son ami, d'un frère avec son frère, d'une épouse avec son époux; mais d'un membre avec son chef, qui est la plus intime de toutes les alliances.
-
-Alliance et union si excellente, que l'union des sarments avec le cep de la vigne, de la greffe avec l'arbre sur lequel elle est entée, et des membres d'un corps humain avec leur tête, n'en est que l'ombre et la figure.
-
-Alliance qui est comme la continuation, l'extension, et l'imitation de l'ineffable alliance de l'humanité sacrée du Sauveur avec sa personne adorable.
-
-Alliance cimentée par le précieux Sang de Jésus-Christ.
-
-Alliance dont le Saint-Esprit, qui est l'unité du Père et du Fils, est le lien divin.
-
-Alliance si admirable, qu'elle mérite d'être comparée par le Fils de Dieu même avec l'unité qui est entre lui et son Père éternel, selon ces paroles qu'il lui adresse, lui parlant de tous ses véritables membres: Pro eis rogo ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in nobis unum sint 14: « Je vous demande pour eux, mon Père, qu'ils ne soient tous qu'un, comme vous, mon Père, êtes en moi et comme je suis en vous, qu'ainsi, ils ne soient qu'un en nous. » Ego claritatem quam dedisti mihi dedi eis, ut sint unum sicut et nos unum sumus 15 :« Je leur ai donné la gloire que vous m'avez donnée, afin qu'ils soient un, comme nous ne sommes qu'un.» Ego in eis et tu in me, ut sint consummati in unum 16 : « Je suis en eux, et vous êtes en moi, afin qu'ils soient consommés en unité. »
-
-De sorte que l'unité du Père et du Fils est l'exemplaire et le modèle de l'union que vous avez avec Dieu par le Baptême; et cette même union est l'image vive de cette adorable unité.
-
-O union incomparable ! O société ineffable ! O alliance admirable ! O grandeur très sublime de la Religion chrétienne O sainteté, ô dignité inexplicable du Baptême ! O saint et sacré Contrat de Dieu avec l'homme et de l'homme avec Dieu ! O incompréhensible bonté de Dieu ! O inconcevable bonheur de l'homme ! Oh ! combien Dieu est-il abaissé et humilié par cette alliance! Oh ! combien l'homme y est-il relevé et glorifié !
-
-Non seulement, ô homme, tu es délivré de la servitude du péché, de la tyrannie de Satan et de l'esclavage de l'enfer; mais tu entres en société avec Dieu, et en la plus étroite et glorieuse société qui puisse être imaginée. Tu étais membre de Satan, et tu es fait membre de Jésus- Christ. Tu étais enfant du diable, et tu deviens enfant de Dieu. Tu étais héritier du prince de l'enfer, et tu es déclaré héritier du Roi du ciel, et cohéritier de son Fils unique.
-
-Voilà, mon cher frère, les effets du Contrat que vous avez fait avec Dieu dans votre Baptême.
-
-Mais, en suite de cela, vous devez savoir que tout contrat porte quelques conventions et obligations réciproques de la part de ceux qui contractent. Aussi, dans ce Contrat, le grand Dieu, par un excès de bonté indicible, a voulu s'imposer des obligations au regard de vous; et, de votre côté, vous vous êtes pareillement obligé à certaines choses, sans lesquelles ce même Contrat ne peut subsister. C'est pourquoi, il est très important que vous les considériez, afin d'y satisfaire.
-
-Mais, voyons auparavant les choses auxquelles la divine Majesté s'est voulu engager vers vous, afin que vous lui en rendiez grâces.
-
-CHAPITRE III.- Promesses et obligations esquelles il a plu à Dieu, par un excès
-
-## d'amour incomparable, de s'engager vers l'homme par le susdit
-
-## Contrat
-
-16 __ Joan. XVII, 23.__ Le Père éternel vous ayant fait l'honneur de vous recevoir en société avec lui par le Baptême, comme l'un de ses enfants et comme l'un des membres de son Fils, il s'est obligé de vous regarder du même oeil, de vous aimer du même cœur et de vous traiter avec le même amour dont il regarde, aime et traite ce même Fils; puisque vous n'êtes qu'un avec lui, comme le membre n'est qu'un avec son chef. Ce qui fait dire à Notre-Seigneur, parlant à son Père de ceux qu'il lui a donnés pour être ses membres: Notum feci eis nomen tuum... ut dilectio qua dilexisti me, in ipsis sit 17 : « Je leur ai fait connaître votre nom, afin que vous les aimiez du même amour que vous m'aimez. » Et un peu auparavant, il lui dit: Dilexisti eos, sicut et me dilexisti 18 : « Vous les avez aimés comme vous m'avez aimé.»
-
-Voulez-vous voir les effets prodigieux de cet amour du Père céleste vers vous? Voyez les dons inénarrables qu'il vous a faits, lorsqu'il vous a reçu en son alliance par le sacrement du Baptême.
-
-Premièrement, il a mis sa grâce dans votre âme, dont le moindre degré vaut mieux que tous les empires de la terre.
-
-Ensuite, il y a mis la foi, qui est un don inconcevable; l'espérance qui est un trésor sans prix: la charité, qui est un abîme de biens inestimables; toutes les autres vertus, tous les dons et tous les fruits du Saint-Esprit, et toutes les béatitudes évangéliques.
-
-Et ce qui est bien plus, c'est qu'il s'est donné lui-même à vous avec son Fils et son SaintEsprit, et est venu faire sa demeure dans votre cœur. Et, si vous ne l'en avez point chassé, il y a toujours demeuré, selon cette promesse de la Vérité éternelle: Si quis dilixit me, Pater meus diliget eum: et ad eum veniemus, et mansionem apud eum faciemus 19 : « Si quelqu'un m'aime, mon Père l'aimera: et nous viendrons à lui, et nous ferons notre demeure chez lui.»
-
-Et depuis ce temps-là, ses yeux paternels ont toujours été fixés sur vous, selon ces paroles: Firmabo super te oculos meos 20; son esprit a été continuellement occupé à penser à vous; son cœur a été perpétuellement appliqué à vous aimer; sa puissance, sa sagesse, sa bonté ont été sans cesse employées à vous protéger, vous conduire et vous faire une infinité de biens, tant corporels que spirituels .
-
-Et, après tout cela il vous promet que, si vous êtes fidèle dans les conventions de votre Contrat, vous serez son héritier dans le ciel, et cohéritier de son Fils 21; et que vous posséderez éternellement des biens si grands et si admirables, qu'ils n'ont jamais été vus par aucun oeil, ni entendus par aucune oreille, ni compris par aucun esprit 22 , Voilà à quoi ce Père divin s'est obligé vers vous. Voyons maintenant à quoi le Fils s'est engagé.
-
-Lorsqu'il vous a reçu en son alliance, comme l'un de ses membres, il s'est obligé par 17 __Joan. XVII, 26.__
-
-21 __ « Si autem filii, et heredes: heredes quidem Dei, coheredes autem Christi: si tamen compatimur, ut et conglorificemur.» Rom.
+# Le Contrat (2)
 
 ## Viii,17.__
 
@@ -126,7 +40,9 @@ Ne vous étonnez pas de toutes ces choses qui sont si grandes et si admirables. 
 
 Voilà, mon cher frère, les obligations que votre adorable chef s'est voulu imposer au regard de vous, lorsqu'il vous a incorporé avec lui comme l'un de ses membres par le saint Baptême. Sachez qu'il s'appelle Fidelis et verax 52 , « le fidèle et le véritable »; et par conséquent, qu'il accomplira très fidèlement et très véritablement toutes ses promesses, si vous êtes fidèle à vous acquitter des vôtres. Oh! quelle bonté ! oh ! quelles louanges et quelles actions de grâce lui devez-vous rendre pour tant de faveurs ! Confiteantur Domino misericordiae ejus, et mirabilia ejus filiis hominum 53.«Que toutes les miséricordes du Seigneur envers les enfants des hommes, et toutes les merveilles qu'il opère pour eux, le louent et le glorifient éternellement 54 . »
 
-Mais voyons maintenant à quoi vous êtes obligé de votre part par votre Contrat. CHAPITRE IV.- Promesses de l'homme à Dieu contenues dans le Contrat précédent.
+Mais voyons maintenant à quoi vous êtes obligé de votre part par votre Contrat.
+
+CHAPITRE IV.- Promesses de l'homme à Dieu contenues dans le Contrat précédent.
 
 Lorsque vous êtes entré en alliance avec Dieu par le saint et sacré Contrat du Baptême, vous vous êtes offert, donné et consacré à sa divine Majesté, et vous vous êtes obligé à deux grandes choses.
 
@@ -140,7 +56,9 @@ De sorte que, quiconque a été enté en ce divin arbre et incorporé en cet ado
 
 Voilà les obligations dans lesquelles vous vous êtes engagé par les promesses de votre Baptême. Promesses que vous avez faites, non pas à un enfant ou à un homme mortel, mais au grand Dieu immortel. Promesses faites à Dieu publiquement et solennellement, en la face de toute l'Église. Promesses écrites de la main des Anges, dit saint Augustin: Angelis conscribentibus; écrites du sang de Jésus-Christ; écrites dans les livres de l'Éternité. Promesses consacrées par la sainteté d'un grand sacrement, tel qu'est le sacrement du Baptême, auquel elles sont attachées.
 
-Promesses desquelles tous les Papes qui ont été, sont et seront, ne peuvent pas vous dispenser. Promesses que vous avez faites, à la vérité par la bouche de votre parrain et de votre marraine, mais que vous avez ratifiées, ou expressément ou du moins tacitement, lorsque, ayant l'usage de raison, vous êtes venu à l'église et que vous avez reçu quelque sacrement, ou que vous avez fait quelque action de chrétien. Promesses par lesquelles vous êtes chrétien, et qui contiennent la véritable vie chrétienne; et sans l'accomplissement desquelles il est impossible que vous viviez en chrétien, et par conséquent que vous puissiez espérer le Paradis. CHAPITRE V.- Obligations de l'homme vers Dieu, attachées aux susdites
+Promesses desquelles tous les Papes qui ont été, sont et seront, ne peuvent pas vous dispenser. Promesses que vous avez faites, à la vérité par la bouche de votre parrain et de votre marraine, mais que vous avez ratifiées, ou expressément ou du moins tacitement, lorsque, ayant l'usage de raison, vous êtes venu à l'église et que vous avez reçu quelque sacrement, ou que vous avez fait quelque action de chrétien. Promesses par lesquelles vous êtes chrétien, et qui contiennent la véritable vie chrétienne; et sans l'accomplissement desquelles il est impossible que vous viviez en chrétien, et par conséquent que vous puissiez espérer le Paradis.
+
+CHAPITRE V.- Obligations de l'homme vers Dieu, attachées aux susdites
 
 ## promesses
 
@@ -158,21 +76,107 @@ Et n'entendez-vous pas saint Pierre qui crie à tous ceux qui ont été baptisé
 
 N'est-ce pas aussi ce que le Saint des saints vous annonce lui-même, quand il dit: Estote perfecti sicut Pater vester coelestis perfectus est 64 : « Soyez parfaits comme votre Père céleste est parfait? »
 
+## 3. Il s'ensuit que, quiconque pèche mortellement il fait cinq grands maux:
+
+Premièrement, il rompt et viole la sainte et sacrée alliance dans laquelle il était entre avec Dieu par le Baptême.
+
+Secondement, il profane et foule aux pieds le précieux sang du Fils de Dieu, qui est le fondement et le ciment de cette divine alliance.
+
+Troisièmement, il éteint et étouffe en soi l'esprit de Dieu, qui en est le lien sacré.
+
+Quatrièmement, il rend la vie, la passion et la mort de notre Rédempteur vaine et inutile au regard de lui, puisqu'il s'est incarné, a souffert et est mort pour nous faire entrer en cette même alliance.
+
+Cinquièmement, il renonce à Jésus-Christ, à la dignité d'enfant de Dieu et au droit qu'il avait d'être son héritier. Et il se donne derechef à Satan, devient membre du diable et enfant de Lucifer; et, par conséquent, ne peut en cet état prétendre d'autre héritage que celui de son père, c'est-à-dire les feux, les flammes, les tourments et les rages éternelles de l'enfer.
+
+4. Il s'ensuit que vous serez jugé, à l'heure de la mort, sur le Contrat qui s'est passé entre Dieu et vous dans votre Baptême, et sur les promesses que vous y avez faites. Car alors on vous représentera ce Contrat, on vous produira ces promesses, que vous ne pourrez pas désavouer. On vous demandera si vous les avez gardées. Si vous l'avez fait, le Fils de Dieu vous dira: « Venez, le 59 __ Jac. IV,4.__ 60 __I Joan. XVII, 16.__ 61 __I Thess. IV, 3.__ 62 __Eph. I, 4.__ 63 __ I Petr. I, 15-16. __ 64 __ Matth. V, 48.__ béni de mon Père, posséder le Royaume qui vous est préparé dès la constitution du monde. » Si vous ne l'avez pas fait, il vous dira: « Misérable, je t'avais fait tant d'honneur que de te recevoir en mon alliance et en celle de mon Père: et tu as fait plus d'état de la société infâme des démons que de celle de ton Dieu. Va, malheureux; puisque tu as mieux aimé la compagnie du prince de l'enfer que celle du Roi du ciel, tu le suivras dans sa damnation, tu seras compagnon de ses supplices, tu seras esclave de sa tyrannie, tu brûleras, tu enrageras, tu souffriras éternellement avec lui: Discede a me, maledicte, in ignem aeternum, qui paratus est diabolo et Angelis ejus 65 : « Retire-toi de moi, maudit, et va dans le feu éternel qui est préparé au diable et à ses anges.»
+
+O épouvantable tonnerre ! ô malédiction effroyable! Mon cher frère, si vous craignez que ce foudre ne vous tombe sur la tête, fuyez le péché qui seul vous peut séparer d'avec Dieu, et donnezvous à lui tout maintenant, pour bien garder les promesses que vous lui avez faites en votre Baptême.
+
+CHAPITRE VI.- Confirmation des vérités précédentes par l'explication des
+
+## cérémonies du Baptême
+
+La sainte Église étant conduite en toutes choses par son chef qui est Jésus-Christ, et par son gouverneur qui est le Saint-Esprit, personne ne peut douter que toutes les cérémonies qu'elle pratique dans l'administration des saints sacrements, et dans toutes ses autres fonctions, ne lui aient été inspirées par cet adorable chef, et par ce divin Esprit; et, par conséquent, qu'elles ne soient instituées pour des fins très saintes, très sublimes et très dignes de la grandeur de leur instituteur, et qu'elles ne renferment en soi de très grands mystères.
+
+Vous l'allez voir dans celles du Baptême, là où je remarque douze cérémonies qui contiennent plusieurs choses merveilleuses et très importantes, attachées à ce sacrement, auxquelles pourtant vous n'avez peut-être pas pensé bien sérieusement. C'est pourquoi je vous conjure de donner maintenant votre attention à la considération de ces choses. Vous y allez voir la confirmation et l'éclaircissement de tout ce que j'ai dit ci-dessus.
+
+I.--Premièrement, lorsqu'on vous a présenté à l'église pour recevoir le saint Baptême, la première chose que le prêtre qui vous a baptisé a faite, a été de vous traiter comme un possédé, en vous exorcisant et en commandant au diable de se retirer de vous et de faire place au Saint-Esprit.
+
+Ce qui vous doit faire souvenir que vous étiez en la possession, appartenance et alliance de l'Esprit malin par le péché originel, et que vous étiez sa demeure, et que le Saint-Esprit est venu en vous pour l'en chasser, pour prendre sa place et pour vous réconcilier et réunir avec Dieu.
+
+II.--Secondement, le prêtre vous a imprimé le signe de la croix sur le front et sur le cœur, qui sont les deux principales parties du corps, et dans lesquelles l'âme réside plus excellemment et exerce ses fonctions plus noblement. Ce qui vous donne à entendre trois grandes choses.
+
+La première est que ce caractère extérieur de Jésus-Christ, qui est la croix, signifie un autre caractère intérieur du même Jésus-Christ, qui est gravé dans votre âme par le sacrement de Baptême, et qui y est gravé si avant qu'il n'y a rien qui l'en puisse effacer; et qu'étant ainsi marqué de son sceau au corps et en l'âme, vous n'êtes plus à vous: Non estis vestri 66; mais vous appartenez à ce divin Rédempteur qui vous a achetés par le prix infini de son sang et de sa croix: Vos autem Christi 67 ; et qu'ainsi vous n'avez plus de droit de vivre que pour Celui qui a immolé sa vie pour vous dans la mort de la croix, selon ces divines paroles de son grand Apôtre: Pro omnibus mortuus
+
+est Christus: ut et qui vivunt, jam non sibi vivant, sed ei qui pro ipsis mortuus est et resurrexit 68 .
+
+La deuxième, que le front étant le siège de la honte, et le cœur celui de l'amour, vous ne devez pas rougir de porter la croix avec Jésus-Christ, et de vivre selon les divines maximes de cet adorable Crucifié; mais qu'au contraire, vous devez mettre votre gloire, votre amour et votre félicité à le suivre en sa pauvreté, en ses humiliations et en ses mortifications, et à faire hautement profession de préférer ses saintes maximes à celles du monde et de l'enfer, et de vous appliquer de tout votre cœur aux actions chrétiennes.
+
+La troisième, que par le saint Baptême, qui tire toute sa vertu de la Croix de Jésus-Christ, votre corps et votre âme, et toutes les parties de l'un et l'autre, ont été consacrées à la très sainte Trinité, et d'une consécration plus sainte, plus auguste, plus divine que celle par laquelle les temples matériels, les autels, les calices et les ciboires lui sont consacrés: celle-ci ne se faisant que par quelques cérémonies et prières, et celle-là par un grand sacrement. D'où il s'ensuit qu'il ne vous est point permis d'employer aucune partie de votre corps ni de votre âme, qui sont le temple vivant de la très sainte Trinité, que pour la gloire de celui auquel ils ont été dédiés d'une manière si sainte et si solennelle.
+
+III.--En troisième lieu, le prêtre ayant béni du sel, qui est le symbole de la sagesse, il vous en a mis quelques grains dans la bouche. Ce qui représente:
+
+l. Que Notre-Seigneur, qui est la Sagesse éternelle, s'est donné à vous et est venu en vous par le saint Baptême, et qu'il s'y est donné et y est venu pour être votre premier aliment, votre principale nourriture, votre vie, votre force, votre conduite, et pour vous incorporer et transformer en lui d'une manière plus excellente que celle par laquelle le pain et la viande corporelle que vous mangez, est incorporé et transformé en vous-même.
+
+2. Que vous ne devez plus avoir ni estime, ni affection, ni goût pour les choses temporelles et terrestres; mais que vous ne devez plus estimer, ni aimer, ni désirer, ni avoir faim ni soif que pour les choses célestes et éternelles: qui est ce en quoi consiste la vraie sagesse.
+
+3. Que vous ne devez plus vous conduire selon les sens, comme les bêtes; ni selon la raison humaine seulement, comme les philosophes païens; ni selon les lois de la prudence et de la sagesse du monde, qui n'est que mort et folie; mais selon les maximes évangéliques que la Sagesse incréée et incarnée a puisées dans le sein du Père des lumières, et nous a apportées en ce monde.
+
+IV.--En quatrième lieu, le prêtre ayant mis de la salive de sa bouche dans sa main, et y ayant trempé le bout de son doigt, il vous l'a appliqué sur l'organe de l'ouïe, en disant ces paroles: Ephpheta, quod est adaperire 69 . Ce qui signifie:
+
+1. Le don inestimable de la Foi, qui a été infusé dans votre âme par le saint Baptême. Foi qui vous a été méritée et acquise par le Verbe incarné, lequel est sorti de la bouche adorable de son Père, ainsi qu'il l'atteste lui-même en ces paroles: Ego ex ore Altissimi prodivi 70 ; Foi qui vous est donnée par le Père éternel représenté par la personne du prêtre; Foi qui vous est appliquée par le Saint-Esprit, lequel est le doigt de Dieu; Foi enfin qui, selon l'Apôtre, est infusé dans l'âme du chrétien par le moyen de l'ouïe, lorsque Dieu l'ouvre à sa sainte parole: Fides ex auditu, auditus autem per verbum Christi 71 .
+
+Mais cette divine princesse, qui est la Foi, n'était pas seule lorsqu'elle a fait son entrée dans
+
+69 __ Marc. VII, 34.__
+
+votre âme. Elle était accompagnée de l'Espérance, de la Charité et de toutes les autres vertus; comme aussi de toutes les Béatitudes évangéliques et de tous les dons et fruits du Saint-Esprit, et de la source même primitive de toutes ces grâces, qui est la très sainte Trinité, laquelle est venue dans votre cœur et y a établi sa demeure, comme dans sa maison et dans son temple, lorsque la Foi en a pris possession.
+
+2. C'est pour vous donner à connaître que, depuis que la miséricorde du Père, la bonté du Fils et la charité du Saint-Esprit ont ouvert vos oreilles à la divine parole, par le moyen de laquelle la foi et l'auteur même de la foi sont entrés dans votre cœur, au lieu qu'auparavant elles étaient fermées à la voix de Dieu et ouvertes à celle du diable, elles doivent être désormais entièrement fermées à la voix de Satan, du monde, de la chair et du péché, et ne s'ouvrir plus qu'à celle de votre Dieu et de votre Rédempteur.
+
+## V -- En cinquième lieu, le prêtre vous a introduit dans l'église, pour vous montrer:
+
+1. Que Notre-Seigneur Jésus-Christ vous a donné, par le saint Baptême, son Église pour être votre Mère, et, par conséquent, qu'il vous a donné son Père pour être votre Père. Car, comme il est vrai de dire que celui qui n'aura point l'Église pour mère, n'aura point Dieu pour père: aussi, il est très certain que quiconque est vraiment enfant de l'Église, il est véritablement enfant de Dieu.
+
+2. Que pour conserver la nouvelle vie que l'Église vous a donnée par la régénération baptismale, il est nécessaire que vous demeuriez toujours dans le sein de votre Mère, hors laquelle il n'y a que mort et perdition pour vous; et que vous vous repaissiez souvent des aliments célestes qu'elle vous présente, qui sont la parole de Dieu, les divins Sacrements, et les saints exemples de la vie de votre Sauveur, de sa bienheureuse Mère et de ses Saints.
+
+3. Que l'Église étant votre mère, vous lui devez toute sorte d'honneur de respect et d'obéissance. Vous devez regarder, estimer et révérer tous ses sacrements et mystères, toutes ses fonctions et observances, toutes ses cérémonies et usages, comme choses très saintes qui lui ont été inspirées et enseignées par le Saint-Esprit, lequel la gouverne en toutes choses. Vous devez vous soumettre à toutes ses lois et ordonnances, comme à celles même de Jésus-Christ, puisque c'est lui qui est son chef, et qu'elle ne commande ni défend rien que par son mouvement. Vous devez enfin suivre en tout et partout sa doctrine, ses maximes, sa conduite et son esprit, qui n'est autre que celui de Dieu.
+
+VI.--Après cela, l'on vous a conduit aux saints fonts baptismaux, là où le prêtre vous a demandé par trois fois si vous renonciez au diable, à toutes ses pompes et à toutes ses œuvres; et vous avez répondu trois fois par la bouche de votre parrain et de votre marraine: Abrenuntio, « Oui, j'y renonce.» Et ensuite on vous a demandé si vous croyiez en Dieu le Père tout-puissant, et en son Fils unique, Jésus-Christ Notre-Seigneur, et au Saint-Esprit Paraclet; et vous avez répondu: Credo,. « Oui, j'y crois. »
+
+Paroles qui sont équivalentes avec les termes dont on usait autrefois en l'administration ancienne du Baptême, lorsque le baptisé se tournant premièrement vers l'Occident, lequel représente la mort et l'auteur de la mort qui est Satan, disait: Abrenuntio tibi, Satana, « Je te renonce, ô Satan »; puis se tournant vers l'Orient, qui signifie Notre-Seigneur Jésus-Christ, ainsi appelé dans ses Écritures: Ecce servus meus Oriens 72 , il prononçait ces paroles: Adhaereo tibi, Christe, « J'adhère à vous, ô Jésus-Christ 73 . » Car croire en Jésus-Christ et adhérer à JésusChrist c'est la même chose, puisque c'est par la foi vive et parfaite, accompagnée de l'espérance et animée de la charité, que nous sommes faits enfants de Dieu et membres de Jésus-Christ.
+
+Voilà les promesses que l'Église a exigées de vous, auparavant que de vous donner le Baptême, pour montrer que, pour être chrétien, il est nécessaire absolument de renoncer à Satan, au péché et au monde, et d'adhérer à Jésus-Christ, comme le membre est adhérent à son chef. 72 __ Zach. III, 8.__ 73 __ Entretiens intérieurs, XIIe entretien, 3e point.__
+
+VII.--Après avoir protesté que vous renonciez à Satan, à ses pompes et à ses œuvres, le prêtre a oint votre poitrine et vos épaules de l'huile sacrée, pour vous faire entendre que, par le Baptême, vous avez été enrôlé en la milice de Jésus-Christ, afin de combattre généreusement contre ses ennemis, qui sont le péché, le diable, le monde et la chair; et que, si vous les surmontez, il accomplira en vous cette promesse: Celui qui vaincra, je le ferai asseoir avec moi dans mon trône, comme j'ai vaincu et suis assis dans le trône de mon Père 74.
+
+VIII.--Ensuite, le prêtre vous a baptisé au nom du Père, et du Fils, et du Saint-Esprit. Et ç'a été en ce moment que vous avez été fait enfant du Père céleste, frère et membre de son Fils unique, temple et sanctuaire du Saint-Esprit, et que vous avez été tout dédié et consacré à la gloire de la très sainte Trinité.
+
+IX.--Sitôt que vous avez été baptisé, le prêtre vous a oint du chrême de salut, au sommet de la tête. Ce qui signifie trois faveurs incomparables que le Fils de Dieu vous a faites, en vous incorporant avec lui par le saint Baptême.
+
+La première est, qu'il vous a revêtu de sa royauté éternelle, afin que vous régniez sur vos passions, sur le monde, sur le péché, sur l'enfer; et qu'ensuite vous régniez avec lui éternellement, dans la possession du même royaume que son Père lui a donné.
+
+La deuxième est, qu'il vous a rendu participant en quelque manière de son divin sacerdoce, afin que vous lui offriez un perpétuel sacrifice de louange et d'amour, et que vous vous immoliez sans cesse vous-même et tout ce qui vous appartient, à la gloire de sa divine Majesté. Ce qui fait que le Christianisme est appelé par saint Pierre, Regale sacerdotium 75 , « Sacerdoce royal »; et que tous les chrétiens portent la qualité de rois et de prêtres dans les saintes Écritures: Fecisti nos Deo nostro reges et sacerdotes 76.
+
+La troisième est, qu'il vous a donné son propre Nom. Il s'appelle Christus, c'est-à-dire Oint; et vous vous appelez aussi de même en suite de cette sacrée onction. Car vous avez été oints au Baptême, non seulement en votre corps par l'huile sainte, mais aussi en votre âme par la divine onction de la grâce chrétienne, qui est de même nature et de même espèce que celle dont l'âme sainte de Jésus-Christ a été ointe et sanctifiée dès le moment de son Incarnation.
+
+Sur quoi saint Augustin s'étonne et s'écrie, disant: Videte, fratres, et miramini: Ecce Christi facti sumus: « Voyez, mes frères, et admirez les excès de la bonté de Dieu vers nous, et la sublimité de notre condition: Voilà que tous, nous autres chrétiens, nous sommes autant de Christs. »
+
+Grand sujet d'étonnement à la vérité, mais qui cessera, si nous considérons que, n'étant qu'un avec Jésus-Christ comme les membres avec leur chef, nous devons être sanctifiés par la même grâce et sainteté qui sanctifie notre chef, et que nous ne devons porter qu'un même nom avec lui.
+
+X.-- Cette onction royale, sacerdotale et divine étant faite, le prêtre vous a revêtu d'une robe ou d'un chrémeau blanc, en vous disant ces paroles: « Recevez cette robe blanche, et la portez devant le tribunal de Jésus- Christ, afin que vous puissiez obtenir la vie éternelle et vivre aux siècles des siècles. »
+
+Qu'est-ce que cette robe blanche ? C'est l'innocence, la grâce et la sainteté dont votre âme est revêtue par le sacrement du Baptême. C'est le saint habit de la sainte religion chrétienne dans laquelle vous êtes entré lorsque vous avez été baptisé. C'est Jésus-Christ même, qui est le vrai habit 74 __« Qui vicerit, dabo ei sedere mecum in throno meo; sicut et ego vici, et sedi cum Patre meo in throno ejus. » Apoc. III, 21.__
+
+de sa religion. N'entendez-vous pas son Apôtre qui crie, parlant à tous les chrétiens: Quicumque baptizati estis, Christum induistis 77 : « Tous tant que vous êtes, qui avez été baptisés, vous avez été revêtus de Jésus-Christ? » À raison de quoi, comme l'on voit plus l'habit que la personne qui en est revêtue, ainsi le chrétien doit être tellement revêtu de Jésus-Christ, c'est-à-dire de ses saintes mœurs, de ses qualités célestes et de ses divines vertus, qu'on ne voie en lui que l'humilité, l'obéissance, la charité, la patience, la mansuétude, la modestie, la pureté et la sainteté de Jésus-Christ.
+
+XI.--Lorsque vous avez été revêtu de ce divin habit, le prêtre vous a mis dans la main droite un flambeau ardent, pour montrer que votre foi, qui est désignée par la lumière, doit être ardente et luisante tout ensemble: ardente dans l'intérieur, luisante dans l'extérieur; ardente dans l'oraison, luisante dans l'action; ardente devant Dieu, luisante devant les hommes, selon ces paroles du Sauveur: Sic luceat lux vestra coram hominibus, ut videant opera vestra bona, et glorificent Patrem vestrum qui in coelis est 78 : «Que votre lumière luise de telle sorte devant les hommes, qu'ils voient vos bonnes œuvres, afin qu'ils en glorifient votre Père qui est aux cieux. »
+
+XII.--Enfin, on a sonné toutes les cloches de l'église en laquelle vous avez été baptisé, pour témoigner la joie que tous les habitants du ciel ont reçue, lorsque vous avez été retiré de la puissance de Satan et de la famille d'Adam, pour être admis en la sainte famille de Jésus- Christ et en la divine société des Anges, des Saints, de la Mère de Dieu, et même des trois Personnes éternelles. Ce qui vous oblige de vivre de telle sorte que vous donniez toujours sujet de réjouissance à toute l'Église et triomphante et militante, par la pureté de vos mœurs , par la sainteté de vos actions, par la pratique des vertus chrétiennes et par une constante fidélité à garder les promesses que vous avez faites à Dieu en votre Baptême; comme aussi de mettre toute votre joie et votre contentement en ces mêmes choses, pour l'amour de Celui qui est tout amour vers vous, et qui vous a fait tant de faveurs lors même que vous ne le connaissiez point.
+
 ---
 
 *Notes de l’éditeur (Œuvres complètes, 1905–11)*
-
-12 __I Cor. I, 9.__
-
-14 __Joan. XVII, 21.__
-
-15 __Ibid. 22.__
-
-18 __Ibid. 23.__
-
-19 __Joan. XIV, 23.__
-
-20 __Ps. XXXI, 8.__
 
 23 __Joan. XV, 9.__
 
@@ -197,3 +201,19 @@ N'est-ce pas aussi ce que le Saint des saints vous annonce lui-même, quand il d
 45 __« Ut filii Dei nominemur et simus.» I Joan. III, 1.__
 
 56 __I Joan. II, 6.__
+
+65 __ Matth. XXV, 41.__
+
+66 __I Cor. VI,19.__
+
+67 __I Cor.III, 23.__
+
+68 __II Cor. V,15.__
+
+70 __ Eccli. XXIV, 5. __
+
+71 __Rom. X, 17.__
+
+75 __ I Petr. II, 9.__
+
+76 __Apoc,I, 6; V, 10.__

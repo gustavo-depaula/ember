@@ -1,38 +1,4 @@
-# Le Contrat (1)
-
-Dieu, afin que notre société soit avec notre Père céleste, et avec son Fils Jésus-Christ. »
-
-MÉDITATION (Bérulle, Opusc.pp.535-565m Retraite de M.Bérulle)
-
-Sur le choix d'une condition.
-
-I Considérez qu'il ne vous est point permis de choisir aucune condition, que celle que Dieu a choisie pour vous de toute éternité; et que vous ne devez prendre aucun emploi, que celui auquel il lui plaira de vous appeler, parce que vous n'êtes pas à vous, mais à lui, et par une infinité de titres: par le titre de la création, de la conservation, de la rédemption, de la justification, de la souveraineté qu'il a sur toutes ses créatures, et par autant de droits que le Fils de Dieu a eu de pensées, a dit de paroles, a fait d'actions, a porté de souffrances et a répandu de gouttes de sang, pour vous racheter de l'esclavage du diable et du péché.
-
-À raison de quoi c'est à lui à disposer de vous, de votre vie et de vos emplois, puisque vous lui appartenez plus infiniment qu'un sujet n'appartient à son roi, un esclave à son maître, une maison à celui qui l'a achetée, et un enfant à son père. Et partant, renoncez à vous-même, donnez-vous à Dieu, protestez-lui que non seulement vous voulez être à lui et le servir, mais que vous désirez le servir en la manière qui lui sera la plus agréable, et en l'état auquel il lui plaira de vous appeler. Priez-le qu'il vous fasse connaître sa sainte volonté là-dessus, et prenez résolution d'apporter de votre part toutes les dispositions requises, afin d'en avoir connaissance et de la suivre. II Considérez que, pour vous disposer à connaître la divine volonté touchant votre vocation, vous avez sept choses à faire.
-
-La première est de vous humilier profondément, reconnaissant que vous êtes infiniment indigne de servir Dieu, en quelque état et condition que ce puisse être; qu'étant rempli de ténèbres, vous ne pouvez pas vous-même connaître la volonté de Dieu sur ce sujet, et que vous ne méritez point qu'il vous communique ses divines lumières à cette fin.
-
-La seconde est de bien purifier votre âme de toute sorte de péché et d'affection au péché, par le moyen d'une vraie pénitence et d'une confession extraordinaire, afin d'ôter de vous ce qui pourrait mettre empêchement aux lumières et aux grâces du ciel dont vous avez besoin en cette occasion.
-
-La troisième, de protester à Dieu que vous désirez être à lui absolument, pour le servir de tout votre cœur et pour l'amour de lui-même, dans le genre de vie auquel il lui plaira de vous appeler.
-
-La quatrième, de vous mettre dans une entière indifférence au regard de toutes les professions dans lesquelles on peut plaire à Dieu, et [de] vous dépouiller de toutes sortes de desseins et de prétentions, mettant aux pieds de Notre-Seigneur tous vos sentiments, volontés désirs et inclinations, afin qu'il vous revête des siennes; lui résignant pleinement votre liberté, afin qu'il dispose de vous selon son bon plaisir; et mettant votre cœur entre ses mains comme une cire molle, ou comme une carte blanche, afin qu'il y grave et écrive les caractères de sa très adorable volonté.
-
-La cinquième, de le prier instamment et avec grande confiance, que par son infinie miséricorde, encore que vous en soyez infiniment indigne, il vous mette dans l'état qu'il a daigné choisir pour vous de toute éternité; et qu'il vous donne les lumières et les grâces nécessaires et convenables, tant pour y entrer que pour l'y servir fidèlement.
-
-La sixième, d'accompagner votre prière de quelques mortifications, aumônes, ou autres bonnes œuvres corporelles ou spirituelles.
-
-La septième, d'implorer le secours de la bienheureuse Vierge, de saint Joseph, de votre bon Ange, et de tous les autres Anges et Saints, afin qu'ils vous obtiennent la grâce de connaître et de suivre ce que Dieu demande de vous.
-
-Voilà les sept choses que vous avez à faire pour vous disposer à connaître la vocation de Dieu sur vous. Priez-le qu'il vous donne la grâce de les pratiquer; et de votre côté tâchez de le faire, moyennant son aide.
-
-III Si après avoir pratiqué les choses susdites, et être entré dans les dispositions qui y sont marquées, vous sentez quelque mouvement et inclination à quelque genre de vie, vous ne devez pas le suivre tout aussitôt, mais le bien examiner auparavant, de peur de prendre les instincts de votre propre volonté, ou de votre amour-propre, ou de l'esprit malin, pour ceux de l'esprit de Dieu. Et afin de n'y être pas trompé, considérez soigneusement: 1. si la condition à laquelle vous êtes attiré est telle que vous y puissiez facilement servir Dieu et faire votre salut; -- 2. si Dieu vous a donné les qualités de corps et d'esprit qui y sont convenables, et les conditions qui sont requises pour y entrer; -- 3. si le désir que vous en avez est stable et permanent; -- 4. si le motif qui vous y porte est pur et désintéressé, n'ayant point d'autre intention que d'honorer Dieu et d'accomplir sa très sainte volonté; -- 5. si votre dessein est approuvé et confirmé par le conseil de quelques serviteurs de Dieu, capables de vous diriger dans une affaire de si grande conséquence.
-
-Voilà cinq marques de la véritable vocation de Dieu. Si elles se rencontrent dans le désir que vous avez de quelque état ou genre de vie, il ne reste qu'à prendre une puissante résolution de le mettre en effet; à chercher les moyens qui vous peuvent conduire à cette fin; à prier Dieu qu'il vous donne toutes les grâces qui vous sont nécessaires pour y parvenir, et pour l'y servir et honorer selon tous les desseins qu'il daigne avoir sur vous; et à invoquer pour cette fin les intercessions de la très sacrée Vierge, des Anges et des Saints.
-
-ORAISON JACULATOIRE: Notam fac mihi viam in qua ambulem, quia ad te levavi animam meam 107 : « Seigneur, faites-moi connaître la voie par laquelle je dois marcher; car j'ai élevé mon cœur vers vous, attendant cette grâce de votre seule bonté. »
-
-## Vive jésus et marie !
+# Le Contrat (1): Contrat de l'homme avec dieu
 
 ## Contrat de l'homme avec dieu
 
@@ -112,16 +78,110 @@ Je supplie de tout mon cœur Celui qui est l'alpha et l'oméga, le principe et l
 
 Je supplie, de toute l'étendue de mon âme, la très précieuse Vierge Marie, sa Mère, de lui présenter cette mienne requête, et d'en obtenir l'effet, pour la gloire de son saint Nom.
 
+## Contrat de l'homme avec dieu
+
+## Par le saint bapteme
+
+CHAPITRE I.- Que celui qui a été baptisé a fait un Contrat avec Dieu, de très
+
+## grande importance
+
+C'est une chose déplorable à larmes de sang, de voir que, d'un si grand nombre d'hommes dont la terre est peuplée, qui ont été baptisés, et par conséquent admis au rang des enfants de Dieu, des membres de Jésus-Christ et des temples vivants du Saint-Esprit, et obligés à mener une vie conforme à ces divines qualités, il y en a néanmoins beaucoup plus qui vivent en bêtes, en païens et même en démons, qu'il n'y en a qui se comportent en véritables chrétiens.
+
+Quelle est la cause d'un si grand mal ? Il y en a plusieurs. Mais l'une des principales est que la plus grande partie de ces mêmes chrétiens est ensevelie dans un tel abîme de ténèbres et dans une si prodigieuse ignorance des choses qui appartiennent à leur profession, que même ils ne savent pas ce que c'est que d'avoir été baptisés. Ils ne connaissent point ce que c'est que d'être chrétiens; ils ne considèrent presque jamais les grâces indicibles et les faveurs incompréhensibles que Dieu leur a départies par le saint sacrement du Baptême, et ils passent toute leur vie sans penser une seule fois comme il faut aux promesses solennelles qu'ils ont faites à sa divine Majesté , et aux obligations très importantes dans lesquelles ils se sont engagés lorsqu'ils sont sortis de la famille d'Adam pour entrer en celle de Jésus-Christ, par le saint et sacré Contrat qu'ils ont fait avec lui dans leur Baptême.
+
+C'est ce qui m'a fait croire que c'est une chose utile et avantageuse à la gloire de Dieu et au salut de plusieurs, de tirer ce Contrat des trésors de l'Église qui en est la dépositaire, pour l'exposer au public et pour le mettre entre les mains et devant les yeux de tous les chrétiens, afin qu'en le voyant et en considérant les conventions qui y sont portées, ils apprennent: ce que c'est qu'un homme baptisé; ce que Dieu lui est; ce qu'il est à Dieu; quelle est la dignité et la sainteté de sa condition; quelle doit être sa vie en ce monde; quelle est la gloire qui lui est préparée dans le ciel, s'il vit en chrétien; et quels sont les supplices qui lui sont destinés dans l'enfer, s'il n'est pas fidèle à tenir le pacte qu'il a fait avec Dieu lorsqu'il a reçu le saint sacrement du Baptême.
+
+Car, qui que vous soyez qui avez été baptisé, vous devez savoir que, dans votre Baptême, vous avez fait un Contrat de la plus haute importance qui puisse être: Contrat public et solennel, dont le ciel et la terre sont témoins; Contrat écrit, non pas de la main des hommes, mais de celle des Anges; non pas avec de l'encre, mais avec le sang précieux de Jésus-Christ; non pas sur le papier ou parchemin, mais dans les livres éternels de la divine Miséricorde; Contrat où il s'agit, non pas de quelque somme d'argent ou de quelque chose temporelle et terrestre, mais d'un empire céleste et éternel, rempli d'un immensité de trésors, de gloire, de grandeurs et de félicités incompréhensibles.
+
+Quelle est la qualité de ce Contrat ? C'est un Contrat de donation, et de la plus grande donation et la plus favorable pour vous qui se puisse dire. Car, par ce Contrat, vous vous êtes donné à Dieu, et Dieu s'est donné à vous, et s'y est donné, comme vous verrez ci-après, en la manière la plus avantageuse pour vous qui puisse être imaginée.
+
+C'est un Contrat d'achat, selon ces divines paroles: Empti estis pretio magno 11 . Car vous étiez sous la puissance et dans l'appartenance de Satan, auquel vous aviez été vendu par votre premier père; mais votre très aimable Sauveur vous a acheté par le prix infini de son propre sang, et vous a retiré de ce misérable état, pour vous remettre entre les mains de votre Père céleste.
+
+Enfin, c'est un Contrat de société et d'alliance, et de la plus noble, plus riche et plus honorable alliance que l'esprit humain puisse concevoir, ainsi que vous verrez au chapitre suivant.
+
+Si les enfants du siècle sont si soigneux de lire et relire, d'examiner et étudier les contrats qu'ils ont faits les uns avec les autres, dans les choses temporelles et périssables de ce monde, et de se bien instruire de toutes les clauses et conditions qui y sont contenues, afin de savoir les droits et appartenances qu'ils leur donnent, et d'en conserver ou recouvrer la possession: avec quelle diligence et affection les enfants de la lumière doivent-ils considérer et méditer le merveilleux Contrat qu'ils ont fait avec Dieu par leur Baptême, afin de connaître les droits infiniment avantageux dans lesquels ils sont entrés, et les obligations très étroites qu'ils se sont imposées par ce même Contrat ?
+
+C'est pourquoi je vous conjure, vous qui tenez en main ce petit livre, qui est une fidèle copie ou un extrait véritable du susdit Contrat, je vous conjure, dis-je, par le sacré nom de Chrétien que vous avez l'honneur de porter, et par le saint Baptême que Dieu vous a fait la grâce de recevoir, de lire soigneusement et plus d'une fois les choses qui y sont contenues; de les considérer attentivement; de prier Dieu instamment qu'il les grave bien avant dans votre cœur; et d'apporter de votre part tout ce que vous pourrez, afin de les exprimer dans vos mœurs, à la gloire de Celui qui est le fondateur, le chef et le sanctificateur de la Religion chrétienne.
+
+Plaise à son infinie miséricorde, par les mérites et prières de sa bienheureuse Mère, de verser abondamment ses saintes bénédictions sur ce petit ouvrage et sur tous ceux qui s'en serviront, pour ressusciter ou renouveler en eux la grâce de leur Baptême et l'esprit du christianisme.
+
+CHAPITRE II.- De l'alliance merveilleuse en laquelle l'homme est entré avec Dieu
+
+## par le susdit Contrat
+
+Le Fils de Dieu ne s'est pas contenté de rompre le malheureux pacte que nous avions fait avec la mort et avec l'enfer, et de nous délivrer de l'alliance infâme que nous avions contractée avec Satan par le péché. Mais, par un excès inconcevable d'amour, il a voulu nous faire entrer dans une société merveilleuse avec lui et avec son Père, selon ces paroles de deux grands apôtres, saint Paul et saint Jean: Vocati estis, dit le premier, in societatem Filii ejus 12 : « Vous avez été appelés en l'alliance du Fils de Dieu. » Societas nostra, dit le second, cum Patre et cum Filio ejus Jesu Christo 13 :« Nous sommes en société avec le Père et avec son Fils Jésus-Christ.»
+
+Or, c'est par le Contrat que nous avons fait avec Dieu en notre Baptême, que nous sommes entrés dans cette sainte alliance. Alliance la plus noble, la plus étroite et la plus avantageuse qui puisse être.
+
+11 __ I Cor. VI, 20.__
+
+13 __ I Joan. I, 3.__ Alliance non pas seulement d'un ami avec son ami, d'un frère avec son frère, d'une épouse avec son époux; mais d'un membre avec son chef, qui est la plus intime de toutes les alliances.
+
+Alliance et union si excellente, que l'union des sarments avec le cep de la vigne, de la greffe avec l'arbre sur lequel elle est entée, et des membres d'un corps humain avec leur tête, n'en est que l'ombre et la figure.
+
+Alliance qui est comme la continuation, l'extension, et l'imitation de l'ineffable alliance de l'humanité sacrée du Sauveur avec sa personne adorable.
+
+Alliance cimentée par le précieux Sang de Jésus-Christ.
+
+Alliance dont le Saint-Esprit, qui est l'unité du Père et du Fils, est le lien divin.
+
+Alliance si admirable, qu'elle mérite d'être comparée par le Fils de Dieu même avec l'unité qui est entre lui et son Père éternel, selon ces paroles qu'il lui adresse, lui parlant de tous ses véritables membres: Pro eis rogo ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in nobis unum sint 14: « Je vous demande pour eux, mon Père, qu'ils ne soient tous qu'un, comme vous, mon Père, êtes en moi et comme je suis en vous, qu'ainsi, ils ne soient qu'un en nous. » Ego claritatem quam dedisti mihi dedi eis, ut sint unum sicut et nos unum sumus 15 :« Je leur ai donné la gloire que vous m'avez donnée, afin qu'ils soient un, comme nous ne sommes qu'un.» Ego in eis et tu in me, ut sint consummati in unum 16 : « Je suis en eux, et vous êtes en moi, afin qu'ils soient consommés en unité. »
+
+De sorte que l'unité du Père et du Fils est l'exemplaire et le modèle de l'union que vous avez avec Dieu par le Baptême; et cette même union est l'image vive de cette adorable unité.
+
+O union incomparable ! O société ineffable ! O alliance admirable ! O grandeur très sublime de la Religion chrétienne O sainteté, ô dignité inexplicable du Baptême ! O saint et sacré Contrat de Dieu avec l'homme et de l'homme avec Dieu ! O incompréhensible bonté de Dieu ! O inconcevable bonheur de l'homme ! Oh ! combien Dieu est-il abaissé et humilié par cette alliance! Oh ! combien l'homme y est-il relevé et glorifié !
+
+Non seulement, ô homme, tu es délivré de la servitude du péché, de la tyrannie de Satan et de l'esclavage de l'enfer; mais tu entres en société avec Dieu, et en la plus étroite et glorieuse société qui puisse être imaginée. Tu étais membre de Satan, et tu es fait membre de Jésus- Christ. Tu étais enfant du diable, et tu deviens enfant de Dieu. Tu étais héritier du prince de l'enfer, et tu es déclaré héritier du Roi du ciel, et cohéritier de son Fils unique.
+
+Voilà, mon cher frère, les effets du Contrat que vous avez fait avec Dieu dans votre Baptême.
+
+Mais, en suite de cela, vous devez savoir que tout contrat porte quelques conventions et obligations réciproques de la part de ceux qui contractent. Aussi, dans ce Contrat, le grand Dieu, par un excès de bonté indicible, a voulu s'imposer des obligations au regard de vous; et, de votre côté, vous vous êtes pareillement obligé à certaines choses, sans lesquelles ce même Contrat ne peut subsister. C'est pourquoi, il est très important que vous les considériez, afin d'y satisfaire.
+
+Mais, voyons auparavant les choses auxquelles la divine Majesté s'est voulu engager vers vous, afin que vous lui en rendiez grâces.
+
+CHAPITRE III.- Promesses et obligations esquelles il a plu à Dieu, par un excès
+
+## d'amour incomparable, de s'engager vers l'homme par le susdit
+
+## Contrat
+
+16 __ Joan. XVII, 23.__ Le Père éternel vous ayant fait l'honneur de vous recevoir en société avec lui par le Baptême, comme l'un de ses enfants et comme l'un des membres de son Fils, il s'est obligé de vous regarder du même oeil, de vous aimer du même cœur et de vous traiter avec le même amour dont il regarde, aime et traite ce même Fils; puisque vous n'êtes qu'un avec lui, comme le membre n'est qu'un avec son chef. Ce qui fait dire à Notre-Seigneur, parlant à son Père de ceux qu'il lui a donnés pour être ses membres: Notum feci eis nomen tuum... ut dilectio qua dilexisti me, in ipsis sit 17 : « Je leur ai fait connaître votre nom, afin que vous les aimiez du même amour que vous m'aimez. » Et un peu auparavant, il lui dit: Dilexisti eos, sicut et me dilexisti 18 : « Vous les avez aimés comme vous m'avez aimé.»
+
+Voulez-vous voir les effets prodigieux de cet amour du Père céleste vers vous? Voyez les dons inénarrables qu'il vous a faits, lorsqu'il vous a reçu en son alliance par le sacrement du Baptême.
+
+Premièrement, il a mis sa grâce dans votre âme, dont le moindre degré vaut mieux que tous les empires de la terre.
+
+Ensuite, il y a mis la foi, qui est un don inconcevable; l'espérance qui est un trésor sans prix: la charité, qui est un abîme de biens inestimables; toutes les autres vertus, tous les dons et tous les fruits du Saint-Esprit, et toutes les béatitudes évangéliques.
+
+Et ce qui est bien plus, c'est qu'il s'est donné lui-même à vous avec son Fils et son SaintEsprit, et est venu faire sa demeure dans votre cœur. Et, si vous ne l'en avez point chassé, il y a toujours demeuré, selon cette promesse de la Vérité éternelle: Si quis dilixit me, Pater meus diliget eum: et ad eum veniemus, et mansionem apud eum faciemus 19 : « Si quelqu'un m'aime, mon Père l'aimera: et nous viendrons à lui, et nous ferons notre demeure chez lui.»
+
+Et depuis ce temps-là, ses yeux paternels ont toujours été fixés sur vous, selon ces paroles: Firmabo super te oculos meos 20; son esprit a été continuellement occupé à penser à vous; son cœur a été perpétuellement appliqué à vous aimer; sa puissance, sa sagesse, sa bonté ont été sans cesse employées à vous protéger, vous conduire et vous faire une infinité de biens, tant corporels que spirituels .
+
+Et, après tout cela il vous promet que, si vous êtes fidèle dans les conventions de votre Contrat, vous serez son héritier dans le ciel, et cohéritier de son Fils 21; et que vous posséderez éternellement des biens si grands et si admirables, qu'ils n'ont jamais été vus par aucun oeil, ni entendus par aucune oreille, ni compris par aucun esprit 22 , Voilà à quoi ce Père divin s'est obligé vers vous. Voyons maintenant à quoi le Fils s'est engagé.
+
+Lorsqu'il vous a reçu en son alliance, comme l'un de ses membres, il s'est obligé par 17 __Joan. XVII, 26.__
+
+21 __ « Si autem filii, et heredes: heredes quidem Dei, coheredes autem Christi: si tamen compatimur, ut et conglorificemur.» Rom.
+
 ---
 
 *Notes de l’éditeur (Œuvres complètes, 1905–11)*
-
-106 Ps. LXXII, 28; I Joan, I. 3.
-
-107 Ps. CXLII, 8.
 
 3 __Contrat, ch. V, 2.__
 
 5 __Inventaire D. 20.681.__
 
 10 __ Contrato del hombre con Dos. Barcelona, Imprenta de Pablo Riera, 1861.__
+
+12 __I Cor. I, 9.__
+
+14 __Joan. XVII, 21.__
+
+15 __Ibid. 22.__
+
+18 __Ibid. 23.__
+
+19 __Joan. XIV, 23.__
+
+20 __Ps. XXXI, 8.__
