@@ -1,0 +1,159 @@
+{
+  "id": "chesterton-heretics",
+  "cover": "classic",
+  "name": {
+    "en-US": "Heretics",
+    "pt-BR": "Hereges"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's first book of religious polemic: twenty essays on the leading writers and fashions of Edwardian England (Kipling, Shaw, Wells, Moore, Whistler, the aesthetes, the Celtophiles, the slum novelists), each judged by a single test, whether it has a philosophy of the universe. Orthodoxy (1908) is its answer.",
+    "pt-BR": "O primeiro livro de polêmica religiosa de Chesterton: vinte ensaios sobre os principais escritores e modas da Inglaterra eduardiana (Kipling, Shaw, Wells, Moore, Whistler, os esteticistas, os celtófilos, os romancistas dos cortiços), todos julgados por um só critério: ter ou não uma filosofia do universo. Ortodoxia (1908) é a sua resposta."
+  },
+  "composed": "1905",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/heretics",
+  "editions": {
+    "en-US": {
+      "editor": "John Lane (The Bodley Head)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/470",
+      "edition": "Heretics (New York: John Lane, 12th ed., 1919), Project Gutenberg #470.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1905 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-introductory-remarks-on-the-importance-of-orthodoxy",
+      "title": {
+        "en-US": "I. Introductory Remarks on the Importance of Orthodoxy"
+      }
+    },
+    {
+      "id": "ch02-on-the-negative-spirit",
+      "title": {
+        "en-US": "II. On the negative spirit"
+      }
+    },
+    {
+      "id": "ch03-on-mr-rudyard-kipling-and-making-the",
+      "title": {
+        "en-US": "III. On Mr. Rudyard Kipling and Making the World Small"
+      }
+    },
+    {
+      "id": "ch04-mr-bernard-shaw",
+      "title": {
+        "en-US": "IV. Mr. Bernard Shaw"
+      }
+    },
+    {
+      "id": "ch05-mr-h-g-wells-and-the-giants",
+      "title": {
+        "en-US": "V. Mr. H. G. Wells and the Giants"
+      }
+    },
+    {
+      "id": "ch06-christmas-and-the-aesthetes",
+      "title": {
+        "en-US": "VI. Christmas and the Aesthetes"
+      }
+    },
+    {
+      "id": "ch07-omar-and-the-sacred-vine",
+      "title": {
+        "en-US": "VII. Omar and the Sacred Vine"
+      }
+    },
+    {
+      "id": "ch08-the-mildness-of-the-yellow-press",
+      "title": {
+        "en-US": "VIII. The Mildness of the Yellow Press"
+      }
+    },
+    {
+      "id": "ch09-the-moods-of-mr-george-moore",
+      "title": {
+        "en-US": "IX. The Moods of Mr. George Moore"
+      }
+    },
+    {
+      "id": "ch10-on-sandals-and-simplicity",
+      "title": {
+        "en-US": "X. On Sandals and Simplicity"
+      }
+    },
+    {
+      "id": "ch11-science-and-the-savages",
+      "title": {
+        "en-US": "XI. Science and the Savages"
+      }
+    },
+    {
+      "id": "ch12-paganism-and-mr-lowes-dickinson",
+      "title": {
+        "en-US": "XII. Paganism and Mr. Lowes Dickinson"
+      }
+    },
+    {
+      "id": "ch13-celts-and-celtophiles",
+      "title": {
+        "en-US": "XIII. Celts and Celtophiles"
+      }
+    },
+    {
+      "id": "ch14-on-certain-modern-writers-and-the-institution",
+      "title": {
+        "en-US": "XIV. On Certain Modern Writers and the Institution of the Family"
+      }
+    },
+    {
+      "id": "ch15-on-smart-novelists-and-the-smart-set",
+      "title": {
+        "en-US": "XV. On Smart Novelists and the Smart Set"
+      }
+    },
+    {
+      "id": "ch16-on-mr-mccabe-and-a-divine-frivolity",
+      "title": {
+        "en-US": "XVI. On Mr. McCabe and a Divine Frivolity"
+      }
+    },
+    {
+      "id": "ch17-on-the-wit-of-whistler",
+      "title": {
+        "en-US": "XVII. On the Wit of Whistler"
+      }
+    },
+    {
+      "id": "ch18-the-fallacy-of-the-young-nation",
+      "title": {
+        "en-US": "XVIII. The Fallacy of the Young Nation"
+      }
+    },
+    {
+      "id": "ch19-slum-novelists-and-the-slums",
+      "title": {
+        "en-US": "XIX. Slum Novelists and the Slums"
+      }
+    },
+    {
+      "id": "ch20-concluding-remarks-on-the-importance-of-orthodoxy",
+      "title": {
+        "en-US": "XX. Concluding Remarks on the Importance of Orthodoxy"
+      }
+    }
+  ]
+}
