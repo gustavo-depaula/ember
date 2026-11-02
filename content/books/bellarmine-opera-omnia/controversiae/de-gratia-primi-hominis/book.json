@@ -1,0 +1,161 @@
+{
+  "id": "bellarmine-controversiae-de-gratia-primi-hominis",
+  "cover": "classic",
+  "name": {
+    "la": "De gratia primi hominis",
+    "en-US": "On the Grace of the First Man",
+    "pt-BR": "Sobre a graça do primeiro homem"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De gratia primi hominis. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the grace and state of the first man before the fall. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre a graça do primeiro homem."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-gratia-primi-hominis",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia05bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 5 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Proponitur controversia, fuerit necne primus homo cum dono aliquo supematurali conditus",
+        "en-US": "Caput I. Proponitur controversia, fuerit necne primus homo cum dono aliquo supematurali conditus"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Primum hominem gratiam gratum facientem in creatione accepisse",
+        "en-US": "Caput III. Primum hominem gratiam gratum facientem in creatione accepisse"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Non eguisse primum hominem in statu innocentia; auxilio speciali, quo excitaretur ad bene operandum, vel ad vitanda peccata",
+        "en-US": "Caput IV. Non eguisse primum hominem in statu innocentia; auxilio speciali, quo excitaretur ad bene operandum, vel ad vitanda peccata"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Super natur ale donum fuisse rectitudinem, quam primus homo in creatione accepit",
+        "en-US": "Caput V. Super natur ale donum fuisse rectitudinem, quam primus homo in creatione accepit"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI",
+        "en-US": "Caput VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Refelluntur argumenta contra superiorem sententiam",
+        "en-US": "Caput VII. Refelluntur argumenta contra superiorem sententiam"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX",
+        "en-US": "Caput IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Paradisum terrestrem, corporalemque fuisse, in quo Adam in statu innocentiae habitavit",
+        "en-US": "Caput X. Paradisum terrestrem, corporalemque fuisse, in quo Adam in statu innocentiae habitavit"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Solvuntur objectiones",
+        "en-US": "Caput XI. Solvuntur objectiones"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Locum terrestris paradisi, a cognitione humana remotissimum esse",
+        "en-US": "Caput XII. Locum terrestris paradisi, a cognitione humana remotissimum esse"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Solvuntur objectiones",
+        "en-US": "Caput XIII. Solvuntur objectiones"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Paradisum adhuc superesse",
+        "en-US": "Caput XIV. Paradisum adhuc superesse"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. In paradiso non solum homines,, in statu innocentiae, sed etiam animantia rationis expertia habitatura fuisse",
+        "en-US": "Caput XV. In paradiso non solum homines,, in statu innocentiae, sed etiam animantia rationis expertia habitatura fuisse"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Cherubin custodientia paradisum, non spectra aliqua, sed veros, sanclosque Angelos fuisse",
+        "en-US": "Caput XVI. Cherubin custodientia paradisum, non spectra aliqua, sed veros, sanclosque Angelos fuisse"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Cur diceretur lignum quoddam arbor scienlix boni et mali",
+        "en-US": "Caput XVII. Cur diceretur lignum quoddam arbor scienlix boni et mali"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. Lignum vitx perfectam immortalitatem afferre potuisse",
+        "en-US": "Caput XVIII. Lignum vitx perfectam immortalitatem afferre potuisse"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. Solvuntur objectiones",
+        "en-US": "Caput XIX. Solvuntur objectiones"
+      }
+    }
+  ]
+}
