@@ -1,0 +1,48 @@
+{
+  "id": "bossuet-defense-de-l-histoire-des-variations",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Défense de l’Histoire des variations contre la réponse de M. Basnage",
+    "en-US": "Defence of the History of the Variations against the Reply of M. Basnage",
+    "pt-BR": "Defesa da História das variações contra a resposta do Sr. Basnage"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Réponse de Bossuet au pasteur Jacques Basnage, qui avait défendu la Réforme contre l’Histoire des variations : la preuve par les variations et la succession de la vraie Église. Publié en 1691. Édition Lachat (1864).",
+    "en-US": "Bossuet’s reply to the pastor Jacques Basnage, who had defended the Reformation against the History of the Variations: the argument from variations and the succession of the true Church. Published in 1691. Lachat edition (1864).",
+    "pt-BR": "Resposta de Bossuet ao pastor Jacques Basnage, que defendera a Reforma contra a História das variações: a prova pelas variações e a sucessão da verdadeira Igreja. Publicado em 1691. Edição Lachat (1864)."
+  },
+  "composed": "1691",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/defense-de-l-histoire-des-variations",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume015/011.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XV, page 011. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "defense",
+      "title": {
+        "fr-FR": "Défense de l’Histoire des variations contre la réponse de M. Basnage"
+      }
+    }
+  ]
+}
