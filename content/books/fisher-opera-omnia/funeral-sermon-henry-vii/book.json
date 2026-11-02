@@ -1,0 +1,45 @@
+{
+  "id": "fisher-funeral-sermon-henry-vii",
+  "cover": "classic",
+  "name": {
+    "en-US": "Sermon at the Funeral of Henry VII",
+    "pt-BR": "Sermão nas Exequias de Henrique VII"
+  },
+  "author": {
+    "en-US": "St. John Fisher",
+    "pt-BR": "São João Fisher"
+  },
+  "description": {
+    "en-US": "Fisher's funeral sermon for King Henry VII, preached at St Paul's in May 1509.",
+    "pt-BR": "O sermão fúnebre de Fisher por Henrique VII, pregado em São Paulo em maio de 1509."
+  },
+  "composed": 1509,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fisher/funeral-sermon-henry-vii",
+  "editions": {
+    "en-US": {
+      "editor": "John Fisher (London: W. de Worde, 1509; EEBO-TCP A00779)",
+      "year": 1509
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A00779",
+      "edition": "This sermon ... at the moneth mynde of ... Henry the VII, EEBO-TCP A00779.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 5 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. John Fisher died in 1535; the edition is of 1509 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    }
+  ]
+}

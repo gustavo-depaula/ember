@@ -1,0 +1,19 @@
+{
+ "id": "fisher-funeral-sermon-henry-vii",
+ "dir": "fisher-opera-omnia/funeral-sermon-henry-vii",
+ "slug": "funeral-sermon-henry-vii",
+ "work": "fisher/funeral-sermon-henry-vii",
+ "author": "St. John Fisher",
+ "author_pt": "São João Fisher",
+ "died": 1535,
+ "src": "A00779.xml",
+ "name": "Sermon at the Funeral of Henry VII",
+ "name_pt": "Sermão nas Exequias de Henrique VII",
+ "desc": "Fisher's funeral sermon for King Henry VII, preached at St Paul's in May 1509.",
+ "desc_pt": "O sermão fúnebre de Fisher por Henrique VII, pregado em São Paulo em maio de 1509.",
+ "composed": 1509,
+ "editor": "John Fisher (London: W. de Worde, 1509; EEBO-TCP A00779)",
+ "year": 1509,
+ "url": "https://github.com/textcreationpartnership/A00779",
+ "edition": "This sermon ... at the moneth mynde of ... Henry the VII, EEBO-TCP A00779."
+}
