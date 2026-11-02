@@ -1,0 +1,104 @@
+{
+  "id": "therese-lettres-1898",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Lettres choisies (édition de 1898)",
+    "en-US": "Selected Letters (1898 selection)",
+    "pt-BR": "Cartas escolhidas (edição de 1898)"
+  },
+  "author": {
+    "fr-FR": "Sainte Thérèse de l’Enfant-Jésus",
+    "en-US": "St. Thérèse of Lisieux",
+    "pt-BR": "Santa Teresinha do Menino Jesus"
+  },
+  "description": {
+    "fr-FR": "Les lettres de Thérèse que Mère Agnès de Jésus joignit à l’« Histoire d’une âme » de 1898 : vingt lettres à Céline, huit fragments à Mère Agnès, six lettres à Marie du Sacré-Cœur, quatre à Sœur Françoise-Thérèse, deux à Marie Guérin, une à Jeanne Guérin et dix aux deux missionnaires, ses frères spirituels. C’est le texte retouché de l’édition d’alors, non le texte authentique des Lettres complètes, donné à part.",
+    "en-US": "The letters of Thérèse that Mother Agnes of Jesus added to the 1898 “Histoire d’une âme”: twenty letters to Céline, eight fragments to Mother Agnes, six letters to Sister Mary of the Sacred Heart, four to Sister Frances Teresa, two to Marie Guérin, one to Jeanne Guérin and ten to her two missionary brothers. This is the edited text of the time, not the authentic text of the complete letters, which is a separate book.",
+    "pt-BR": "As cartas de Teresinha que Madre Inês de Jesus juntou à «História de uma alma» de 1898: vinte cartas a Celina, oito fragmentos a Madre Inês, seis cartas a Maria do Sagrado Coração, quatro à irmã Francisca Teresa, duas a Maria Guérin, uma a Joana Guérin e dez aos dois missionários, seus irmãos espirituais. É o texto retocado da edição de então, não o texto autêntico das cartas completas, que é outro livro."
+  },
+  "composed": "1887–1897",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "therese-of-lisieux/lettres-1898",
+  "editions": {
+    "fr-FR": {
+      "editor": "Mère Agnès de Jésus (Pauline Martin), Carmel de Lisieux",
+      "year": 1898
+    },
+    "en-US": {
+      "translator": "T. N. Taylor",
+      "year": 1912
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Histoire_d’une_âme/3",
+      "edition": "Histoire d’une âme. Histoire et poésies (1898), 1912 printing, pp. 311-368, the section of letters (Wikisource subpages /3/1 to /3/7, proofread against the page scans). The text as Mother Agnes edited it in 1898, not the authentic letters.",
+      "description": "Letters only; the footnotes of the edition are kept as footnotes. Wikisource's page apparatus is removed and paragraphs split at page turns are joined. The letters are numbered anew within each chapter (the Wikisource text numbers Letter XIII \"XII\" a second time).",
+      "tier": "A",
+      "tierEvidence": "Published in 1898 (reprinted 1912); Thérèse died in 1897 and the editor Mother Agnès (d. 1951) compiled and retouched; the 1898 edition is public domain in the US."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/16772",
+      "edition": "T. N. Taylor (tr.), Soeur Thérèse of Lisieux, the Little Flower of Jesus, London: Burns Oates & Washbourne, 1912, the section \"Letters of Soeur Thérèse\" (Project Gutenberg 16772). A translation of the same 1898 selection, in the same seven groups and letter by letter.",
+      "description": "Letters only, one chapter per group, footnotes kept and renumbered within each chapter. The editor's opening line in capitals (DEAREST CÉLINE,—) is kept as printed.",
+      "tier": "A",
+      "tierEvidence": "Published in London in 1912; T. N. Taylor's death date was not verified, but the date of publication makes the text public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l-celine",
+      "title": {
+        "fr-FR": "Lettres à sa sœur Céline",
+        "en-US": "Letters to Her Sister Céline"
+      }
+    },
+    {
+      "id": "l-agnes",
+      "title": {
+        "fr-FR": "Lettres à Mère Agnès de Jésus",
+        "en-US": "Letters to Mother Agnes of Jesus"
+      }
+    },
+    {
+      "id": "l-marie",
+      "title": {
+        "fr-FR": "Lettres à Sœur Marie du Sacré-Cœur",
+        "en-US": "Letters to Sister Mary of the Sacred Heart"
+      }
+    },
+    {
+      "id": "l-francoise",
+      "title": {
+        "fr-FR": "Lettres à Sœur Françoise-Thérèse",
+        "en-US": "Letters to Sister Frances Teresa"
+      }
+    },
+    {
+      "id": "l-marie-guerin",
+      "title": {
+        "fr-FR": "Lettres à sa cousine Marie Guérin",
+        "en-US": "Letters to Her Cousin Marie Guérin"
+      }
+    },
+    {
+      "id": "l-jeanne",
+      "title": {
+        "fr-FR": "Lettre à sa cousine Jeanne Guérin",
+        "en-US": "Letter to Her Cousin Jeanne Guérin"
+      }
+    },
+    {
+      "id": "l-missionnaires",
+      "title": {
+        "fr-FR": "Lettres aux deux missionnaires, ses frères spirituels",
+        "en-US": "Letters to Her Brother Missionaries"
+      }
+    }
+  ]
+}
