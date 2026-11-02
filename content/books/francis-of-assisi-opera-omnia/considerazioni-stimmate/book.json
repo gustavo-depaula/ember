@@ -1,0 +1,119 @@
+{
+  "id": "francis-considerazioni-stimmate",
+  "cover": "classic",
+  "name": {
+    "it": "Considerazioni sulle sacre sante stimmate",
+    "en-US": "Considerations on the Holy Stigmata",
+    "pt-BR": "Considerações sobre os sagrados estigmas"
+  },
+  "author": {
+    "it": "Anonimo (XIV secolo)",
+    "en-US": "Anonymous (14th century)",
+    "pt-BR": "Anônimo (século XIV)"
+  },
+  "description": {
+    "it": "Le cinque Considerazioni sulle sacre sante stimmate di san Francesco, che chiudono i Fioretti: la solitudine del monte della Verna, le apparizioni, la visione del Serafino e le stimmate, la fine della vita e i miracoli.",
+    "en-US": "The five Considerations on the Holy Stigmata of St. Francis, the appendix to the Fioretti: the mountain of La Verna, the apparitions, the vision of the Seraph and the stigmata, the end of his life and the miracles. Italian.",
+    "pt-BR": "As cinco Considerações sobre os sagrados estigmas de São Francisco, apêndice dos Fioretti."
+  },
+  "composed": "c. 1370-1385",
+  "languages": [
+    "it"
+  ],
+  "work": "francis-of-assisi/considerazioni-stimmate",
+  "editions": {
+    "it": {
+      "editor": "transcription by M. Mastrorilli, Politecnico di Bari; edition not stated (the Cesari text family)"
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_stimmatefrancesco_ita.html",
+      "edition": "Considerazioni sulle stimmate, poliba.it (Wayback Machine snapshot).",
+      "description": "Thirteen chapters as divided in the source (the five Considerazioni with their sub-chapters). English (the Hudleston revision of the 1864 translation, CCEL) divides the five Considerations differently and is not imported.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cap-001",
+      "title": {
+        "it": "Della prima considerazione, delle sacre sante Istimate."
+      }
+    },
+    {
+      "id": "cap-002",
+      "title": {
+        "it": "Della seconda considerazione delle sacre sante Istimate."
+      }
+    },
+    {
+      "id": "cap-003",
+      "title": {
+        "it": "Della terza considerazione delle sacre sante Istimate."
+      }
+    },
+    {
+      "id": "cap-004",
+      "title": {
+        "it": "Della quarta considerazione delle sacre sante Istimate."
+      }
+    },
+    {
+      "id": "cap-005",
+      "title": {
+        "it": "Come Messere Jeronimo toccò, e vide le sacre e sante Istimate di Santo Francesco, che prima non le credea."
+      }
+    },
+    {
+      "id": "cap-006",
+      "title": {
+        "it": "Del dì, e dello anno della morte di Santo Francesco."
+      }
+    },
+    {
+      "id": "cap-007",
+      "title": {
+        "it": "Della Canonizzazione di Santo Francesco."
+      }
+    },
+    {
+      "id": "cap-008",
+      "title": {
+        "it": "Della quinta, e ultima considerazione delle sacre sante Istimate."
+      }
+    },
+    {
+      "id": "cap-009",
+      "title": {
+        "it": "Come uno santo Frate, leggendo la leggenda di Santo Francesco nel capitolo delle sacre sante Istimate, delle segrete parole, le quali disse il Serafino a Santo Francesco quando gli apparve, pregò tanto Iddio, che S. Frarncesco gliele rivelò."
+      }
+    },
+    {
+      "id": "cap-010",
+      "title": {
+        "it": "Come Santo Francesco essendo morto apparve a Frate Giovanni della Verna, stando in orazione."
+      }
+    },
+    {
+      "id": "cap-011",
+      "title": {
+        "it": "D'uno santo Frate, che vide una mirabile visione di uno suo compagno, essendo morto."
+      }
+    },
+    {
+      "id": "cap-012",
+      "title": {
+        "it": "Come uno nobile Cavaliere divoto di Santo Francesco fu certificato della morte, e delle sacre sante Istimate di Santo Francesco."
+      }
+    },
+    {
+      "id": "cap-013",
+      "title": {
+        "it": "Come Papa Gregorio Nono, dubitando delle Istimate di Santo Francesco, ne fu chiarito."
+      }
+    }
+  ]
+}
