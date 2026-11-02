@@ -174,3 +174,10 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 - Chapter titles are title-cased from the capitals of the print (proper nouns and some small words may be off); OCR slips in headings were fixed only where seen.
 - The Common Rules of the Congregation (1658) are not a separate chapter: they appear only through the assembly documents of `documents` (part 2) and the conferences of `entretiens-missionnaires`. Tome XIV (index) is left out.
 - Not imported: Pémartin's 1880 selection and other pre-Coste editions (older readings; not needed as the Coste text is complete).
+
+### Bérulle (opera omnia)
+- The only source is the archive.org OCR of Migne 1856 (two columns, fair quality). The text was cleaned by script, not by hand: running heads, page numbers and hyphenation are removed and obvious character errors are corrected by a vote against the corpus vocabulary, but residual OCR slips remain throughout (e.g. `l`/`i`/`t` swaps, `ii` for `u`/`n`), and Latin passages are worse. A proofreading pass against the Migne page images is still due.
+- On some pages the OCR read the two Migne columns line by line, so sentences interleave (most often in the Élévations, the Vœux and the Vie de Jésus); those paragraphs need re-reading from the image.
+- Chapter and discourse headings the scan lost are not split: `grandeurs-de-jesus` `discours-10` holds discours X and XI; `vie-de-jesus` `chapitre-02` holds chapters 2-3 and `chapitre-04` chapters 4-5 (the titles say so); `elevation-sainte-madeleine`: chapter 1 stays at the end of `avant-propos` (after the epistle). Chapter titles were taken from the print's capitals only where the OCR read them cleanly; the others are numbered only.
+- Page-bottom footnotes (biblical references) stay in the running text.
+- English: none (every translation is in print); pt-BR is to come from the pipeline.

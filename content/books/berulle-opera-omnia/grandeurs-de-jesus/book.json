@@ -1,0 +1,114 @@
+{
+  "id": "berulle-grandeurs-de-jesus",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Discours de l’état et des grandeurs de Jésus",
+    "en-US": "Discourses on the State and Grandeurs of Jesus",
+    "pt-BR": "Discursos sobre o estado e as grandezas de Jesus"
+  },
+  "author": {
+    "fr-FR": "Cardinal Pierre de Bérulle",
+    "en-US": "Cardinal Pierre de Bérulle",
+    "pt-BR": "Cardeal Pierre de Bérulle"
+  },
+  "description": {
+    "fr-FR": "Le chef-d’œuvre de Bérulle (1623) : douze discours sur le mystère de l’Incarnation, l’unité de Dieu et les trois naissances de Jésus, précédés de la dédicace, des approbations et de la préface.",
+    "en-US": "Bérulle’s masterpiece (1623): twelve discourses on the mystery of the Incarnation, the unity of God and the three births of Jesus, preceded by the dedication, the approbations and the preface.",
+    "pt-BR": "A obra-prima de Bérulle (1623): doze discursos sobre o mistério da Encarnação, a unidade de Deus e os três nascimentos de Jesus, precedidos da dedicatória, das aprovações e do prefácio."
+  },
+  "composed": 1623,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "berulle/grandeurs-de-jesus",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescompl00br",
+      "edition": "Œuvres complètes du cardinal de Bérulle, éd. Migne, Paris, 1856 (reprint of Bourgoing’s 1644 collected edition); archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors, merged columns and some chapter openings the scan lost remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Bérulle died in 1629; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avant-propos",
+      "title": {
+        "fr-FR": "Dédicace, approbations et préface"
+      }
+    },
+    {
+      "id": "discours-01",
+      "title": {
+        "fr-FR": "Discours 1"
+      }
+    },
+    {
+      "id": "discours-02",
+      "title": {
+        "fr-FR": "Discours 2"
+      }
+    },
+    {
+      "id": "discours-03",
+      "title": {
+        "fr-FR": "Discours 3"
+      }
+    },
+    {
+      "id": "discours-04",
+      "title": {
+        "fr-FR": "Discours 4"
+      }
+    },
+    {
+      "id": "discours-05",
+      "title": {
+        "fr-FR": "Discours 5. De la communication’ de Dieu en ce mystère"
+      }
+    },
+    {
+      "id": "discours-06",
+      "title": {
+        "fr-FR": "Discours 6"
+      }
+    },
+    {
+      "id": "discours-07",
+      "title": {
+        "fr-FR": "Discours 7"
+      }
+    },
+    {
+      "id": "discours-08",
+      "title": {
+        "fr-FR": "Discours 8. Pe la communication de Dieu en ce mystère"
+      }
+    },
+    {
+      "id": "discours-09",
+      "title": {
+        "fr-FR": "Discours 9. Mystère"
+      }
+    },
+    {
+      "id": "discours-10",
+      "title": {
+        "fr-FR": "Discours 10–11"
+      }
+    },
+    {
+      "id": "discours-12",
+      "title": {
+        "fr-FR": "Discours 12"
+      }
+    }
+  ]
+}
