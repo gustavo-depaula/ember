@@ -1,0 +1,60 @@
+{
+  "id": "eudes-lieux-saints",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Traité de l’honneur dû aux lieux saints",
+    "en-US": "Treatise on the Honour Due to Holy Places",
+    "pt-BR": "Tratado da honra devida aos lugares santos"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Une véhémente exhortation contre la profanation des églises et des cimetières, détachée du Royaume de Jésus de 1648.",
+    "en-US": "A vehement exhortation against the profanation of churches and cemeteries, detached from the 1648 Kingdom of Jesus.",
+    "pt-BR": "Uma veemente exortação contra a profanação das igrejas e dos cemitérios, destacada do Reino de Jesus de 1648."
+  },
+  "composed": 1648,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/lieux-saints",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_2)_000000347.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 2, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lieux-01",
+      "title": {
+        "fr-FR": "Traité (1): Traité"
+      }
+    },
+    {
+      "id": "lieux-02",
+      "title": {
+        "fr-FR": "Traité (2)"
+      }
+    },
+    {
+      "id": "lieux-03",
+      "title": {
+        "fr-FR": "Traité (3): Contre plusieurs autres profanations des lieux saints"
+      }
+    }
+  ]
+}

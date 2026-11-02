@@ -1,0 +1,195 @@
+# Traité (1): Traité
+
+Numérisé par cotejr8@videotron.ca
+
+## Traité
+
+## De l'honneur du aux lieux saints
+
+## Introduction
+
+En rééditant le Royaume de Jésus de 1648, le P. Eudes y inséra, dans la VIe Partie, avant l'Exercice pour la sainte Messe, ce qu'on a appelé depuis un « traité » sur l'honneur dû aux lieux saints. On le retrouve dans la plupart des éditions publiées par le Vénérable. Il fait défaut dans toutes les éditions modernes.
+
+II faut avouer, du reste, que ce traité contraste singulièrement, pour le fond comme pour la forme, avec le Royaume de Jésus.
+
+Ce livre, on le sait, s'adresse aux âmes pieuses. C'est un manuel d'initiation à la vie intérieure. Il se compose surtout d'exercices destinés à aider les âmes à s'unir à Jésus par l'imitation de ses vertus, la participation à ses mystères, et spécialement par l'amour de son tout aimable cœur. Le style en est sobre et précis. C'est le langage doux et fort qui convient à une piété aussi tendre qu'ardente.
+
+Le Traité de l'honneur dû aux lieux saints est, au contraire, presque d'un bout à l'autre, une véhémente sortie contre la profanation des églises et des cimetières. Il vise les chrétiens sans piété auxquels l'auteur reproche leurs sacrilèges dans des apostrophes indignées. C'est un écho des paroles foudroyantes que le P. Eudes fit entendre dans diverses missions, dans celle de Beaune par exemple 1 , contre les profanations des lieux saints, si même ce n'est pas la reproduction textuelle d'un de ses sermons. À ce titre, il est précieux, car il nous permet de nous faire une idée de l'éloquence véhémente du célèbre Missionnaire, dont les sermons sont malheureusement perdus. Mais, dans le Royaume de Jésus il n'est qu'un hors-d'œuvre, et c'est pourquoi nous l'en avons détaché pour le publier à part.
+
+On est tenté, à la lecture, de trouver le tableau tracé par le P. Eudes un peu chargé. En réalité il n'en est rien. Les abus contre lesquels il s'élève ne sont que trop certains. Il serait aisé de s'en convaincre en recourant aux écrits du temps. Cela même n'est pas nécessaire. Les textes de Conciles cités par le Vénérable, et d'autres écrits que nous avons de lui et qui n'ont rien d'oratoire, suffisent à montrer qu'il n'a point exagéré. C'est ainsi par exemple que, dans un Mémoire adressé à la Reine mère, précisément en 1648, il demande l'intervention du gouvernement pour faire cesser quelquesuns de ces abus 2 . La plupart des autres sont signalés, soit dans un Avis qu'il fit afficher aux portes des chapelles de sa Congrégation, pour prévenir les fidèles que ces désordres n'y seraient pas tolérés, soit dans les Constitutions qu'il donna à ses enfants, où il consacre un chapitre presque entier à l'énumération des abus qu'il faut empêcher dans les églises 3. Ces deux textes résument le traité dont nous nous occupons, et celui-ci, à son tour, en est un lumineux commentaire.
+
+## Traité de l'honneur du aux lieux saints
+
+## I.- De l'honneur et de la vénération qui est due aux saints temples et autres lieux sacrés
+
+Entre les privilèges et avantages signalés de la religion chrétienne, l'un des plus considérables c'est la dignité, la sainteté et la majesté de ses temples, qui contiennent en soi des trésors immenses et des merveilles incomparables. Plût à Dieu que les chrétiens voulussent un peu ouvrir les yeux de la foi, pour envisager la gloire, la beauté et les richesses incompréhensibles de la maison du Seigneur ! Certainement ils diraient avec Jacob: Vraiment ce lieu-ici est saint, et nous ne le savions pas 4.
+
+Qu'est-ce, je vous prie, qu'un temple des chrétiens ? Le voulez-vous savoir: jetez les yeux sur cet ancien et fameux temple de Salomon, et écoutez ce qu'en dit un des plus célèbres et des plus pieux auteurs de ce temps, le Révérend Père Jean-Baptiste de Saint-Jure de la Compagnie de Jésus:
+
+« De tous les bâtiments, dit-il, tant saints que profanes, qui ont jamais été, le plus beau, et le plus riche, et le plus magnifique a été sans controverse le très renommé temple de Salomon. Car il avait seul plus de richesses, plus d'ornements et de perfections, que les sept tant fameux miracles du monde n'en avaient tous ensemble. Il était si riche, qu'à le faire et pour l'achever, on dépensa bien, selon la plus exacte supputation des hommes savants, fondés sur l'Écriture sainte, trois mille millions d'or, c'est-à-dire, trente fois cent millions d'or, qui est le plus grand et le plus prodigieux trésor qui ait encore été en l'univers. Après quoi il y avait au moins quatre cent mille vases, comme coupes, plats, encensoirs, tables, trompettes et autres, tous de fin or; et un million cinquante mille de pur argent. Pour les bois et les pierres, les communes en étaient bannies; il n'y avait que le cèdre, le marbre, le porphyre, le jaspe et autres pierres de prix, qui y fussent mises en œuvre, le tout arrangé avec un si bel ordre, avec une proportion si exquise et avec un rapport si agréable des parties, que l'artifice surpassait de beaucoup la matière 5. »
+
+Or que pensez-vous que ce fût que cet édifice incomparable ? Rien autre chose qu'une figure et une ombre de nos temples. Car saint Paul nous assure que tout le corps de la Loi mosaïque n'était qu'une figure de la Loi évangélique: Omnia in figura contingebant illis 6 . Si bien que et la loi, et son temple, et ses sacrifices, et ses cérémonies, et toutes les choses qui étaient dans le temple, n'étaient que les ombres de la religion chrétienne et de notre sacrifice, de nos temples et des choses admirables qui y sont contenues. Jugez donc de là quelle est la dignité et la sainteté d'un temple des chrétiens. Certainement cela est indicible et incompréhensible à toute langue et à tout esprit. C'est une chose si noble, si précieuse et si admirable, qu'elle peut être comparée au sein divin du Père éternel, puisque le même Fils unique de Dieu, qui est demeurant de toute éternité dans le sein de son Père, est aussi résidant et reposant continuellement dans nos temples et sur nos autels il y a plus de seize cents ans, et y sera jusques à la consommation des siècles. C'est un ciel de gloire et de grandeur, et un paradis de délices pour celui qui a dit, parlant des hommes et de son Église : Mes délices sont d'être avec les enfants des hommes 7 . C'est ici que je veux prendre mon
+
+repos aux siècles des siècles; c'est ici que je ferai ma demeure, d'autant que je l'ai choisie 8 . Aussi n'entendez-vous pas cette grande voix du ciel, qui part du trône de Dieu, et qui vous dit, parlant de chaque église chrétienne: Voilà les tabernacles de Dieu avec les hommes, et il demeurera avec eux, et ils seront son peuple, et le même Dieu leur sera Dieu habitant avec eux 9 ?
+
+Ce n'est donc pas sans raison que je dis que tous nos temples sont autant de cieux et de paradis terrestres, puisque le même Dieu qui est au ciel y est résidant actuellement et véritablement, et que tout ce qu'il y a de plus saint et de plus admirable dans le ciel et dans le paradis, se trouve réellement sur nos autels. Car la même foi qui nous oblige de croire que Jésus-Christ NotreSeigneur, l'amour et les délices du ciel et de la terre, est assis dans le ciel à la dextre de son Père, environné de ses Anges, nous commande-t-elle pas aussi de l'adorer comme présent réellement et personnellement dans nos églises: là où il est accompagné de son Père et de son Saint-Esprit, d'un million de milliasses de Chérubins et d'autres esprits célestes; là ou il contient en soi tout ce qu'il y a de grand, de riche, de précieux, de glorieux et d'estimable dans la divinité, et dans tous les Anges et Saints du ciel empirée.
+
+O mon Dieu, que vos bontés sont excessives au regard des hommes, qui ont si peu d'amour pour vous ! Oh ! quelle obligation nous vous avons, d'avoir ainsi fait descendre et renfermé le ciel dans la terre, et d'avoir ainsi changé la terre en un ciel ! O chrétien, ouvre les yeux et regarde où tu vas, quand tu t'achemines en une église; et lorsque tu y entres, souviens-toi que tu entres dans un ciel et dans un paradis.
+
+Après cela, je ne m'étonne pas si les premiers chrétiens et tant de saints qui se conduisaient non selon les sens comme des bêtes, mais selon la foi comme fidèles, ont eu tant de respect et de vénération pour les lieux saints .
+
+Je ne m'étonne pas si l'empereur Constantin voulut être enterré devant le portail du temple de saint Pierre et saint Paul, qu'il aurait fait bâtir en la ville de Constantinople, par honneur et par respect à la maison de Dieu. À raison de quoi saint Chrysostome dit, qu'au lieu que les grands de ce monde tiennent à grande gloire d'être les gardes et les portiers des palais des empereurs, les empereurs se tiennent bien honorés d'être les portiers et les gardes de la maison des pêcheurs qui ont suivi Jésus-Christ, le Roi des rois et le souverain monarque de l'univers 10 .
+
+Je ne m'étonne pas de ce qu'on écrit de l'empereur Théodose, qu'il respectait tellement les lieux saints, que 8 «Haec requies mea in saeculum saeculi: hic habito, quoniam elegi eam. » Ps.
+
+## Cxxxi, 14
+
+9 « Ecce tabernaculum Dei cum hominihus, et habitabit cum eis. Et ipsi populus ejus erunt, et ipse Deus cum eis erit eorum Deus. » Apoc. XXI, 3.
+
+10 « Nam et hic (Constantinopoli) quoque Constantinum Magnum filius ita demum ingenti honore se affecturum existimavit, si eum in piscatoris vestibulo conderet: quodque imperatoribus sunt in aulis janitores, hoc in sepulchro piscatoribus sunt imperatores. » S. Joan. Chrys. in epist. II ad Cor. hom. XXVI.
+
+jamais il n'y entrait avec son diadème, ou avec des armes, laissant tout cela au portail 11.
+
+Je ne m'étonne pas qu'anciennement, ni les princes, ni les rois, ni les empereurs n'entraient jamais dans le chœur de l'église, que pour y venir à l'offrande. Témoin ce qui arriva au susdit empereur Théodose, comme il est écrit en la vie de saint Ambroise, que pendant qu'il était à Milan, étant entré dans le chœur pour y venir à l'offrande, et ensuite s'y étant arrêté pour y entendre le reste de la messe, parce que personne ne l'avait encore instruit en cette matière: saint Ambroise lui envoya dire qu'il sortît, et que ce n'était pas là sa place, ains seulement des prêtres; et que la pourpre peut bien faire des empereurs, mais non pas des prêtres. A quoi il obéit humblement et promptement, et depuis ne se voulut jamais seoir dans le chœur 12.
+
+Je ne m'étonne pas si saint Martin se comportait dans l'église avec tant de révérence et de dévotion , que jamais on ne le vit assis, mais toujours à genoux ou debout, la face pâle et tout tremblant; et lorsqu'on lui demandait pourquoi il tremblait: « Comment, disait-il, n'aurais-je pas crainte et ne tremblerais-je pas, étant devant la face de mon Dieu et de mon juge 13? »
+
+Je ne m'étonne pas si saint Grégoire de Nazianze loue sa mère Nonna, de ce que jamais elle n'a parlé en l'église, jamais elle n'a tourné le dos à l'autel, jamais elle n'a craché sur le pavé de l'église 14 .
+
+Je ne m'étonne pas de ce que, comme saint Chrysostome nous l'apprend , la coutume était, dans la primitive Église, que les chrétiens par respect baisaient la porte de l'église, auparavant que d'y entrer 15 .
+
+Je ne m'étonne pas de ce que sainte Radegonde, reine le France, comme il est rapporté en sa vie, se tenait bien heureuse de baiser le marche-pied de l'autel, et se croyait très honorée d'avoir la 11 « Inter acta autem Ephesini Concilii, hac ipsa coustitutio... invenitur, ubi inter alia notatu digna, de seipso, cum primum omnium ei se imperator (Theodosius) reddere voluit obsequentem, haec ait: Nos qui legitimi imperii armis nunquam non circumdamur, quosque sine armatis stipatoribus esse non convenit, Dei templum ingressuri, foris arma relinquimus, et ipsum etiam diademn regia majestatis insigne humiliter deponimus, et sacra altaria munerum tantuul offerendorum causa accedimus: quibus quoque oblatis, ad extimum communeque atrium mox nos recipimus. » Concil. Ephes. cap. 21, apud Baronium, tom. 5, ad annum 431.
+
+12 « Per archidiaconum hac ei significavit: Interiora loca, Imperator, solis sacerdotibus patent. Reliquis omnibus inaccessa sunt et intacta Nam purpura imperatores facit, non sacerdotes. » Theodoret, Hist. eccl. 1. V. c. 18.
+
+13 « In ecclesia nemo unquam illum sedere conspexit. » Sulp. Severus, Dialog. 2, c. 1.
+
+14 « Cur non illi (Nonna) quoque ad laudem magnum sit, quod silentio sancta (mysteria) honorarit, quod veneranda mensa nunquam terga obverterit, nec in divinum pavimentum expuerit ? » S. Greg. Nazianz. orat. XVIII. Cf. etiam carmen
+
+## Lxvi
+
+Lapide in II ad Cor. XIII, 12. Or Cornelius a Lapide s'appuie, non sur saint Cyrille, mais sur saint Jean Chrysostome dont voici le texte: « Templum Christi sumus: itaque templi vestibula et aditum osculamur cum alii alios osculamur. Annon cernitis quoniam homines etiam hujusce templi vestibula oscolentur, partim inclinato capite, partim manu tenentes atque ori manum admoventes ? » In II ad Cor., homil. 33.
+
+liberté de le balayer et l'essuyer de ses habits royaux; ensuite de quoi elle ramassait dans sa robe la poussière qui en sortait, et ne voulait pas qu'on la mît parmi les ordures ordinaires, mais dans un lieu à part, comme une chose sacrée et honorable 16.
+
+Je ne m'étonne pas s'il s'est trouvé même des évêques, qui ont voulu et ont tenu à grand honneur d'être enterrés sous les gouttières de l'église, comme le bon Geoffroy, évêque de Coutances, ainsi qu'il est écrit dans les archives de l'église cathédrale dudit lieu 17 .
+
+Je ne m'étonne pas, dis-je, de toutes ces choses; mais je m'étonne et ne puis assez m'étonner de ce que les chrétiens d'aujourd'hui, qui adorent le même Dieu et le même Jésus-Christ que tous ceux-là, qui sont dans la même Église, qui entendent prêcher le même Évangile, et qui sont dans la même créance, se comportent néanmoins avec moins de respect dans les temples du vrai Dieu, que les païens et infidèles ne font dans les temples du diable.
+
+Oui, qu'on lise les histoires anciennes des profanes, et on verra que les idolâtres rendaient beaucoup plus d'honneur aux temples de leurs faux dieux, qui étaient de vrais enfers et les cavernes des dragons infernaux, que les chrétiens n'en rendent aux églises du vrai Dieu, qui sont autant de paradis dans lesquels Dieu est continuellement résidant, accompagné d'une armée innombrable d'Anges.
+
+Qu'on aille parmi les Turcs, et on verra qu'ils feront honte aux chrétiens en ce sujet, et qu'ils leur feront leçon du respect qu'ils doivent porter aux lieux sacrés; car ils n'entrent jamais dans leur mosquée que nu-pieds et tête nue. D'y tourner la tête ce serait un crime pour eux, aussi bien que d'y tousser, ou cracher, ou dire un mot à l'oreille de son compagnon.
+
+Grand Dieu, où en sommes-nous, qu'il faille renvoyer des chrétiens à l'école des païens et des Turcs, pour apprendre d'eux les devoirs qu'ils sont obligés de vous rendre dans votre maison ? Faisons mieux; apprenons dans l'école de la foi et de l'Église chrétienne, en laquelle les Anges mêmes ont appris des secrets qu'ils ne savaient pas, apprenons, dis-je, qu'un temple des chrétiens, c'est un ciel, un paradis, et l'habitation de Dieu et de ses Anges; et que par conséquent ceux qui y entrent devraient, s'il était possible, être purs comme des Anges, puisqu'il est écrit que rien de souillé n'entrera dans le ciel 18 .
+
+Apprenons que lorsque nous allons à l'église, et que nous nous sentons coupables de quelque crime, nous devons avoir soin de nous purifier par un vrai esprit de pénitence, imitant le pauvre Publicain qui demeure au bas du temple, n'osant lever les yeux au ciel, mais frappant sa poitrine et disant: O Dieu, soyez propice à ce misérable pécheur 19 , afin que par ce moyen nous paraissions devant la face de Dieu, non pas comme ses ennemis, et comme rebelles ayant les armes au poing pour lui faire la guerre; mais comme sujets qui viennent rendre leurs hommages à leur roi, comme serviteurs qui se présentent à leur maître pour accomplir ses volontés, comme enfants qui viennent rendre leur obéissance et leurs devoirs à leur père, ou au moins comme criminels repentants qui 16 « Ipsa tamen cum sua veste pavimentum nitidans, circa altare vero cum facitergio jacentem pulverem colligens, foras eum reverentia recondebat potiusquam verrebat. » S. Fortunat. Vita S. Radegundis, c. 2; apud Bolland., Aug. tom. 3, p. 68.
+
+17 « Le Livre Noir dit positivement [que Geoffroy de Membray fut inhumé] sous la gouttière, in stillicidio ecclesia. » Lecanu, Hist. des évêques de Coutances, p. 129, en note. Coutances, 1839
+
+19 « Et Publicanus a longe stans, nolebat nec oculos ad caelum levare: sed percutiebat pectus suum, dicens: Deus, propitius esto mihi peccatori. » Luc.
+
+## Xviii, 13
+
+implorent la clémence de leur prince qu'ils reconnaissent avoir offensé.
+
+Apprenons que, lorsque nous entrons dans l'église, la première disposition que nous devons avoir, c'est une disposition d'humiliation et d'abaissement très profond, non pas seulement en la vue de nos péchés, mais en la vue de l'anéantissement de Jésus-Christ Notre-Seigneur au très saint Sacrement de l'autel. Car de quelle grâce pouvons-nous paraître devant le Roi de gloire anéanti pour nous, sinon en nous prosternant d'esprit et de cœur à ses pieds, et en nous anéantissant autant qu'il est possible, pour rendre hommage à son anéantissement ?
+
+Apprenons enfin que la maison de Dieu est la maison d'oraison, et partant qu'on n'y doit venir que pour le prier, l'adorer, le louer, lui rendre grâces, lui demander pardon de nos péchés, lui offrir avec les prêtres le très saint Sacrifice de l'autel, assister avec dévotion au service divin, entendre sa sainte parole avec attention, et impétrer de sa bonté toutes les grâces qui nous sont nécessaires pour accomplir en tout et partout sa très aimable volonté. Et pendant qu'on y est, s'y comporter avec toute sorte de piété et de révérence, tant en l'intérieur qu'à l'extérieur, se maintenant dans une posture respectueuse, dans un silence profond et dans une modestie et dévotion digne de la sainteté du lieu, digne de la grandeur des saints et redoutables mystères qui s'y traitent, digne de la majesté de Dieu qui est présent, et digne de la présence des Anges et des Puissances célestes qui tremblent devant sa face: Tremunt Potestates.
+
+Oui, les Anges et les Archanges, les Puissances et les Dominations, les Chérubins et les Séraphins plus purs que le soleil, qui ne l'ont jamais offensé et qui ne lui ont jamais rendu que tout honneur et obéissance, tremblent néanmoins devant sa face. Et toi, criminel de mille crimes, qui es tout pourri des ordures de tes vices, et qui mérites mille enfers, tu entres dans le sanctuaire du Dieu vivant, la tête levée, les yeux égarés et sans aucune crainte. Tu te présentes devant le tribunal formidable de ton Juge, par les mains duquel ton âme passera bientôt, et qui la fera rendre compte jusques à une parole oiseuse, avec aussi peu de retenue que s'il n'était rien. Tu es si osé que de paraître devant Dieu, les mains toutes sanglantes du sang de son Fils unique et bien-aimé, que tu as crucifié et massacré autant de fois que tu l'as offensé mortellement. Tu ne pâlis point, tu ne rougis point, tu ne trembles point; mais tu causes, tu ris, tu prends des postures indécentes et même insolentes, comme si tu venais là exprès afin de l'outrager et d'allumer le feu de sa colère contre toi. Il te voit, il te considère, il te souffre pour un temps, il t'attend à pénitence; mais si tu méprises les richesses de sa bonté, si les excès de sa miséricorde et de sa patience ne servent qu'à endurcir ton cœur impénitent, sache que tu fais un amas de colères, de châtiments et de malédictions, qui tout d'un coup viendront à fondre sur ta tête, et à te précipiter dans le gouffre de la perdition éternelle; et tant plus que Dieu aura exercé sa patience au regard de toi, tant plus, il te fera sentir les terribles rigueurs de sa divine vengeance.
+
+I I . - Contre plusieurs sortes de personnes qui profanent les saints temples.
+
+Je ne puis, en cette occasion en laquelle il est question des temples et des lieux consacrés à Dieu, que je ne témoigne plus, amplement et plus fortement les douleurs très sensibles qui me navrent le cœur, de voir les maisons de mon grand Maître et de ma très chère Maîtresse, si horriblement profanées comme elles sont aujourd'hui en toutes les parties du monde. C'est une chose épouvantable d'entendre ce qui s'est passé en nos jours, dans les guerres d'Allemagne, là où les hérétiques ont pillé, saccagé, brûlé tant de milliers d'églises; mais c'est encore une chose plus effroyable de voir tous les jours profaner nos temples par les catholiques, en mille manières.
+
+À la vérité, c'est un grand sujet de joie de voir quelle a été la piété et le zèle de nos ancêtres, qui ont bâti tant de si belles églises à la gloire de Dieu et à l'honneur de sa très sainte Mère et de ses Saints. Mais c'est un malheur digne d'être déploré à larmes de sang, de les voir profanées en tant de façons par ceux-mêmes qui se disent enfants de l'Église. Ne voit-on pas aujourd'hui les chrétiens entrer dans les églises et y demeurer avec moins de respect que dans une maison profane ? Au lieu d'y venir pour adorer Dieu et pour trembler devant sa face, comme des criminels qui ont mérité mille fois l'enfer, et pour pleurer leurs péchés et apaiser son ire par leurs larmes, vous diriez qu'ils y viennent pour se moquer de lui. Car vous les voyez entrer dans sa maison la tête levée, sans aucune retenue ni modestie, et se comporter devant sa divine Majesté avec aussi peu de crainte et de religion que si c'était un Dieu de néant. Vous les voyez tourner la tête et jeter les yeux tantôt d'un côté, tantôt d'un autre, par la légèreté, curiosité et vanité, pour voir et pour être vus, et bien souvent pour repaître leurs yeux sacrilèges d'infamies et d'abominations. Vous les voyez tantôt assis insolemment, pendant même que JésusChrist, le Roi du ciel, est prosterné et anéanti pour eux devant la face de son Père sur son autel; tantôt debout et se promener impudemment, comme s'ils étaient dans une rue; tantôt mettre un genou en terre et l'autre en l'air, comme s'ils voulaient morguer le souverain Seigneur du ciel et de la terre, et le traiter ainsi que les Juifs l'ont traité, lorsqu'après avoir fléchi les genoux devant lui, ils lui crachaient au visage et le meurtrissaient de coups.
+
+Vous y entendez les uns causer et discourir, les autres rire, les autres crier tout haut comme dans une halle. Vous voyez les pauvres, qui devraient demeurer à la porte des églises, environner les autels, non pas pour y adorer Dieu, mais pour troubler ceux qui l'adorent, parlant souvent plus haut que les prêtres qui célèbrent les divins mystères; et ce nonobstant les défenses très expresses de plusieurs saints Conciles dont voici les propres termes: Nous défendons aux pauvres mendiants, dit le Concile d'Aix, de chercher l'aumône dans les églises, et leur ordonnons de demeurer à la porte de dehors 20 . Nous ordonnons, dit le Concile de Bourges, à ceux qui doivent avoir le soin des églises, d'empêcher que les pauvres mendiants n'y cherchent l'aumône; mais de les obliger de l'attendre dehors à la porte 21.
+
+Vous y voyez souvent des troupes de chiens, qui s'entremordent, qui aboient, qui font leurs ordures contre les autels, qui troublent le service divin, et qui contraignent quelquefois les prédicateurs de se taire, à cause du grand bruit qu'ils font. Et non seulement personne n'a soin de les chasser, mais plusieurs les amènent avec eux dans les lieux saints; voire même il y en a qui les y apportent. Ils auraient honte que l'on vît un chapelet en leur main, ou un livre de dévotion sous leur bras, dans le lieu d'oraison; et ils ne rougissent point d'y porter des chiens, comme s'ils craignaient de n'avoir pas assez de distractions en leurs prières, et comme s'ils allaient à l'église ainsi qu'à un lieu de divertissement. Je voudrais bien demander si ces personnes, s'ils avaient à se présenter devant un roi terrestre, ou en qualité de criminels pour lui demander grâce, ou en qualité de suppliants pour obtenir de lui quelque faveur, ou même en qualité de bons et fidèles sujets pour lui faire la révérence et lui rendre leurs devoirs, s'ils mèneraient avec eux où s'ils porteraient des chiens sous leurs bras. Je ne le pense pas. Qu'ils considèrent donc de quelle façon ils traitent le Roi des rois, et que ce n'est pas sans raison que plusieurs saints Conciles, et spécialement le susdit Concile de Bourges, défendent à toutes personnes d'introduire des chiens dans l'église: Nemo canes in ecclesiam introducat 22 .
+
+Ce n'est pas tout: vous voyez les laïques, tant hommes que femmes, entrer dans le chœur et dans le sanctuaire, prendre la place des prêtres, se placer quelquefois au dessus d'eux, se mettre contre les autels et même s'y appuyer. De sorte qu'au lieu qu'ils ne doivent être environnés que 20 « Mendici eleemosyna quaritanda causa ne in ecclesiis vagentur, sed extra januam consistant. » Concil.. Aquense, anno 1585, De ecclesiis.
+
+21 « Curabunt custodes ecclesiarum ne mendici per ecclesiam vagentur aut chorum introeant petenda eleemosyna praetextu, divini officii vel concionis tempore: sed in foribus ecclesiarum eleemosynas expectent. »Concil. Bituricense, anno 1584. De ecclesiis, can. 6.
+
+d'Anges, non seulement invisibles, mais aussi visibles (qui sont les ecclésiastiques), ils sont assiégés d'hommes et de femmes, qui ont moins de respect pour Dieu que les démons, puisque ceux-ci tremblent devant sa face: Daemones contremiscunt 23 et que ceux-là n'y apportent que de l'irrévérence et de l'impiété.
+
+Ce qui paraît davantage aux fêtes solennelles dans les églises cathédrales. Car c'est alors que vous y voyez accourir une multitude de peuple, composée d'hommes et de femmes, de grands et de petits, qui entrent à la foule dans le chœur, non pas pour y adorer Dieu, mais pour s'y tenir debout entre l'autel et les prêtres qui célèbrent le divin office, ayant le dos tourne au Saint-Sacrement, afin de regarder ceux qui chantent, par une curiosité impertinente et injurieuse à sa divine Majesté. Et cependant on n'apporte point de remède à ce désordre.
+
+Chose étrange, on approuve, on aime, on désire l'ordre partout, excepté dans la maison de Dieu, là où il doit être néanmoins en souverain degré. On veut qu'il soit gardé exactement dans les maisons particulières, dans les compagnies et assemblées civiles et politiques, et même dans les armées qui ne sont que dérèglement. Mais les chrétiens d'aujourd'hui ne peuvent s'assujettir à aucun ordre, non pas même dans l'église. Tout y est en confusion; il n'y a plus ni règle, ni discipline; chacun y est maître, tout y est égal. Il n'y a plus de discernement entre les prêtres et les laïques; et, ce qui est honteux, les prêtres et les femmes n'ont plus qu'une même place.
+
+Il n'y a plus de sanctuaire, ni de lieu réservé aux sacrés ministres du Saint des saints. Tout y est ouvert, non seulement aux hommes laïques, aux femmes mondaines, aux mauvais pauvres, qui n'entrent dans les lieux saints que pour les profaner; mais même aux chiens qu'on souffre s'y promener et y faire tout ce qu'ils veulent. Ce n'est plus la maison d'oraison; c'est une caverne de larrons, une retraite de bêtes et un lieu de profanation, là où Dieu est plus déshonoré et traité avec plus de mépris que dans les lieux les plus profanes et les plus indignes. Saint Paul a beau crier: Que toutes choses se fassent avec ordre 24 ; on n'a point d'oreilles pour l'entendre, non plus que pour la voix des sacrés Conciles de l'Église, qui parlent en cette façon: Que personne ne soit si hardi, dit le Concile d'Aix, que de se promener dans l'église, ou d'y causer, ou d'y badiner, ou d'y traiter des affaires, ou de se mettre contre les autels et contre les fonts baptismaux, ou de s'arrêter à la porte ou devant le portail de l'église, ou de tourner le dos au Saint Sacrement, ou de troubler les choses divines en quelque façon que ce soit, ou de faire quelque autre irrévérence 25.
+
+Que les laïques, dit le Concile de Tours, n'aient jamais la présomption de demeurer entre l'autel et les clercs qui sont dans le chœur? lequel ne doit être ouvert qu'à ceux qui célèbrent le divin office, si ce n'est pour recevoir la sainte communion 26 .
+
+Que les femmes, dit le Concile d'Aix, ne se mettent point proche des autels; et que jamais, 23 Jac. II. 19.
+
+25 « In ecclesia nemo hac audeat: deambulare, nugari, circulos habere, negotiis operam dare... altaribus vel fontibus baptismi adharere, in limine aut ante fores immorari, aversum ab Eucharistia sacramento irreverenter sedere..., aut quovismodo divina perturbare, aud irreverenter in ecclesia versari. » Concil. Aquense, anno 1585, De ecclesiis.
+
+26 « Laïci secus altare quo sancta mysteria celebrantur inter clericos, tam ad Vigilias quam ad Missas, stare penitus non praesumant: sed pars illa qua a cancellis versus altare dividitur, choris tantum psallentium pateat clericorum. Ad communicandum vero laicis et foeminis, sicut mos est, pateant Sancta sanctorum. » Concil. Touron, an. 570, Cap. 4.
+
+pour quelque cause que ce soit, elles n'entrent dans le chœur, ou dans les lieux qui sont élevés sur le chœur, pendant que l'on célèbre l'office ou que l'on prêche la parole de Dieu, ou aux Heures que les clercs, tant séculiers que réguliers, s'y doivent trouver. Que si, après avoir été averties, elles ne veulent pas sortir, ou qu'elles aient la présomption d'y rentrer, nous les déclarons excommuniées. Et si ceux qui président au chœur consentent même tacitement, qu'elles y entrent, ou étant entrées, ne les avertissent, par eux ou par autrui, de se retirer, outre l'excommunication qu'ils encoureront en même temps, nous les dénonçons suspens de leur office ou bénéfice pour six mois 27 . Nous voulons, dit le Concile de Chartres, que dans les églises, les femmes soient hors le chœur et qu'elles soient séparées d'avec les hommes, et qu'autant que faire se pourra, elles se mettent en la partie postérieure de l'église 28 .
+
+Les mêmes saints Conciles ordonnent, sous peine de punition exemplaire, qu'on ne mette et qu'on ne fasse point d'ordures, non seulement contre les murailles des églises par dehors, mais même contre celles des cimetières: Qu'on ne profane point, dit le Concile de Toulouse, les murailles extérieures des églises, des oratoires et même des cimetières, en y faisant de l'eau, ou en les salissant par du fumier ou par quelques autres ordures. Et que celui qui violera ce décret soit châtié au jugement de l'évêque 29. Et cependant combien voit-on de chrétiens qui ont assez d'impudence et d'impiété pour faire effrontément leurs saletés, non pas seulement contre les murailles des cimetières, mais même contre celles des temples sacrés du grand Dieu; des temples, dis-je, qui ont été consacrés si solennellement et si saintement par la main des évêques; des temples, qui sont l'objet de la vénération des Anges et de la frayeur des démons; des temples, qui sont des lieux contenant en soi tout ce qu'il y a de plus grand et de plus admirable dans le ciel empirée; des temples, qui sont l'habitation des esprits célestes et la demeure de la très sainte Trinité; des temples, qui sont la figure et l'image de l'humanité adorable du Fils de Dieu, laquelle est le temple vivant de la divinité; des temples enfin, dans lesquels tout est saint et vénérable, jusques aux [plus] petites choses. À raison de quoi les saints Conciles ont fait ces belles et saintes ordonnances.
+
+Que les églises, dit le Concile de Toulouse, les chapelles, les oratoires, les autels, les linges, les vaisseaux, les vêtements et toutes les autres choses qui sont à l'usage des lieux saints, soient conservés dans une grande netteté, jusqu'au pavé même de l'église; qu'elles ne servent jamais à des usages communs; que l'on ne les prête point aux séculiers, et qu'elles ne soient pas profanées en 27 « Foeminae vero cujuscumque conditionis et status sint, nullo unquam tempore nullave ex causa, dum divina officia celebrantur aut verbum Dei praedicatur, denique iis horis quibus clerici tam saeculares quam regulares in choro praesentes esse debent, intra eumdem chorum, aliquemve ejus locum secretum etiam superiorem admittantur. Quod si adversus hanc prohibitionem factum id fuerit, aut permissum, ipsa foeminae si monitae statim non recesserint, vel iterum coutumaciter ingredi praesumpserint, sint eo ipso excommunicatae: qui vero choro praesunt, si eorum ingressum etiam tacitum concesserint, permiserintve, et non statim illas monuerint aut per alium monere fecerint ut discednnt, praeter excommunicationem, in quam ipso facto incurrunt, sint ab officio et beneficio per sex menses ipso itidem facto suspensi. » Concil. Aquense, De choro.
+
+28 Le P. Eudes renvoie à un Concile de Chartres, tenu en 1526, dont nous n'avons pu trouver le texte.
+
+29 « Ecclesia, oratoriorum, vel etiam coemeterii externi parietes nec effuso lotio, nec aliunde allatis sordibus deturpentur. Poena secus facientibus justo episcopi arbitrio infligatur » Concil. Tolosanum,anno 1590, De ecclesiis, n. 2.
+
+permettant indifféremment à toutes sortes de personnes de les toucher 30.
+
+Que désormais, dit le même Concile, on ne bâtisse point de boutiques ni d'autres petites maisons contre les murailles des temple , ni même des cimetières; et que l'on démolisse peu à peu celles qui y sont bâties 31.
+
+Que les linges, dit le Concile de Saumur, qui servent tant à l`autel qu'aux prêtres dans les fonctions cléricales, c'est-à-dire, les nappes, les aubes, les amicts, les surplis, soient conservés blancs et entiers; et que lorsqu'on les blanchira, on ne les mette pas avec d'autres linges communs 32 .
+
+Que les cloches, dit le Concile d'Aix, qui sont consacrées par la bénédiction de l'Église, ne soient pas employées à appeler le peuple pour des affaires séculières; et qu'il ne soit point permis de les sonner à d'autres qu'à des clercs, autant que faire se pourra 33 . Et qu'on ne leur fasse jamais dire, non plus qu'aux orgues, dit le Concile de Bourges, des airs, ou des chants mondains et profanes 34 .
+
+Que la sacristie, dit encore le Concile d'Aix, ne soit pas ouverte aux laïques, si ce n'est pour chose nécessaire; et que le silence y soit gardé soigneusement 35.
+
+Qu'il ne soit pas permis, dit le Concile de Toulouse cité par ci-devant, d'employer les matériaux d'une église ruinée, en des choses indécentes et qui ne sont pas honnêtes. Voire même, qu'il ne soit pas loisible de les appliquer à des usages communs, quoique honnêtes, sans en avoir une licence expresse de l'évêque.
+
+Vous voyez par tous ces saints décrets, avec quel respect le Saint-Esprit veut que l'on traite toutes les choses qui appartiennent à l'église; et que ce n'est pas sans raison que l'on a fait écrire ces paroles sur les murailles
+
+sanctissima majorum pracepit religio, tabulas sanctorumque imagines, justo nitore relucere, imo et pavimentum etiam nitidum conservari severe episcopi pracipiant .. Qua, sacris rerum divinarum usibus, vestes, vasa, aliaque id genus erunt comparata, ea sollicita nitoris custodia asserventur, nec unquam profanis usibus inservienda mutuo concedantur, nec promiscua saecularium attrectatione polluantur. » Conc. Tolos. 1. c. n. 1, 3.
+
+31 « Domunculae, et officina, ad templorum aut coemeterii parietos deinceps non extruantur; extrucla paulatim diruantur » Conc. Tolos.1.c. n. 8.
+
+32 « Altaris linteamina, indumenta sacerdotalia... sine appositione aliorum pannolum, quoties opus fuerit, abluantur, et munda et integra serventur. " Concil. Salmuriense, an. 1253, cap. 3.
+
+33 Et ubi commode fieri potest, ne ab alio quam a clericis [campana pulsari permittantur: neque earum sonitu et clangore, qua consecrata sunt, convocentur homines ad sacularia pertractanda.» Conc. Aqyense, an. 1585, De ecclesiis, can.11.
+
+34 « Profanas autem cantilenas [campana] non resonent'» Concil. Bituricense, nn. 1585, De ecclesiis, can. 11.
+
+35 « In sacristia ipsa silentium servetur accurate, neque in ea pateat aditus laicis, nisi necessarium fuerit.» Conc. Aquense, an. 1585, De Sacristia.
+
+de plusieurs églises de Paris:
+
+---
+
+*Notes de l’éditeur (Œuvres complètes, 1905–11)*
+
+1 Cf. Martine, Vie du P. Eudes, 1, p. 273.
+
+2 Cf. Martine, Vie du P. Eudes, I, p. 290.
+
+3 Constitutions de la Congrégation de Jésus et Marie, 3. p., ch. 4.
+
+4 « Vere Dominus est in loco isto, et ego nesciebam. » Gen. XXVIII, 16.
+
+5 Saint-Jure: De la connaissance et de l'amour de Notre-Seigneur Jésus-Christ.
+
+6 I. Cor. X, 11.
+
+7 « Et deliciae mea esse cum filiis hominum. » Prov. VIII, 31.
+
+15 Le V. P. Eudes en appelle au témoignage de saint Cyrille cité par Corn. a
+
+18 « Non intrabit in eam aliquod coinquinatum. » Apoc. XXI, 27
+
+22 Concil. Bituricense, 1. c. can. 5.
+
+24 « Omnia secundnm ordinem fiant ». I Cor. XIV, 40,
+
+30 Ecclesias, capellas, altaria, oratoria, quaque ad illorum ornatum apponi
