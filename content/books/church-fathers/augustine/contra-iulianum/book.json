@@ -1,0 +1,117 @@
+{
+  "id": "augustine-contra-iulianum",
+  "cover": "quarter",
+  "name": {
+    "la": "Contra Iulianum libri sex",
+    "en-US": "Against Julian",
+    "pt-BR": "Contra Juliano"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Contra Iulianum libri sex. Textus Latinus secundum editionem Maurinorum.",
+    "en-US": "Against Julian (421-422), by St. Augustine of Hippo. Latin text of the Maurist edition; no public-domain English translation has been imported yet.",
+    "pt-BR": "Contra Juliano (421-422), de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos."
+  },
+  "composed": "421-422",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/contra-iulianum",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/contro_giuliano/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages contro_giuliano of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Epistula ad Claudium"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber III, Capita 1–18"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber III, Capita 19–26"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber IV, Capita 1–3"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber IV, Capita 4–16"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Liber V, Capita 1–7"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Liber V, Capita 8–16"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Liber VI, Capita 1–10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Liber VI, Capita 11–19"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Liber VI, Capita 20–26"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
