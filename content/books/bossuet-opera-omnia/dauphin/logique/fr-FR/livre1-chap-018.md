@@ -1,0 +1,3 @@
+# Chapitre XVIII. A chaque objet chaque idée
+
+De ce que l'idée est née pour représenter son objet, il s'ensuit que chaque objet précisément pris, ne peut avoir qu'une idée qui lui réponde dans l'esprit, parce que tant que l'objet sera regardé comme un, une seule idée l'épuisera tout, c'est à-dire en découvrira la vérité toute entière. Ainsi en ne regardant le triangle que comme triangle et dans la raison du triangle, je n'en puis avoir qu'une seule idée, parce qu'une seule contient tellement le tout, que ce qui est au delà n'est rien ; d'où s'ensuit cette vérité incontestable; *A chaque objet chaque idée*; c'est-à-dire: *Au même objet pris de même, il ne répond dans l'esprit qu'une seule idée*.

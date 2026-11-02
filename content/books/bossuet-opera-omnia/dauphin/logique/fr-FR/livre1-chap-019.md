@@ -1,0 +1,5 @@
+# Chapitre XIX. Un même objet peut être considéré diversement
+
+Mais comme on peut tirer plusieurs lignes du même point, ainsi on peut rapporter un même objet à diverses choses. C'est la même âme qui conçoit, qui veut, qui sent et qui imagine ; mais on la peut considérer en tant qu'elle sent, en tant qu'elle imagine, en tant qu'elle entend ou qu'elle veut ; et selon ces diverses considérations, lui donner non-seulement divers noms, mais encore divers attributs; l'appeler, par exemple, partie raisonnable, partie sensitive, partie imaginative, et déterminer ce qui lui convient sous chacune des idées que ces noms ramènent à l'esprit.
+
+C’est la même substance appelée corps, qui est étendue en longueur, largeur et profondeur : mais on la peut considérer en tant que longue seulement, ou en tant que longue et large, ou en tant que longue, large et profonde tout ensemble. Par exemple, pour mesurer un chemin, on n'a que faire de sa largeur, et il faut seulement le considérer comme long ; pour concevoir un plan, on n'a pas besoin de sa profondeur, il suffit de le regarder comme long et large, c'est-à-dire d'en considérer la superficie; et ainsi du reste.

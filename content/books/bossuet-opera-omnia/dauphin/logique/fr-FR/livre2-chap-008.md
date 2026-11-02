@@ -1,0 +1,29 @@
+# Chapitre VIII. Propriétés remarquables des propositions précédentes
+
+Il sera maintenant aisé d'entendre certaines propriétés des propositions universelles et particulières, affirmatives et négatives, sur lesquelles toute la force du raisonnement est fondée.
+
+La proposition universelle, soit affirmative, soit négative, enferme la particulière de même qualité et de mêmes termes. Cette affirmative : *Tout corps est mobile*, enferme celle-ci : *Quelque corps est mobile*, ou : *Ce corps particulier est mobile*; et cette négative : *Nul corps ne raisonne*, enferme celle-ci : *Quelque corps*, ou *: Ce corps particulier ne raisonne pas*. La raison est que ce terme tout enferme tous les particuliers, et que ce terme nul les exclut tous. Qui dit *tout corps*, dit chaque corps, de quelque espèce qu'il soit, et tous les corps particuliers sans exception; qui dit *nul corps*, exclut chaque corps, et tous les corps en particulier, sans rien réserver : de sorte que s'il était vrai que tout corps est mobile, sans qu'il fût vrai que quelque corps tût mobile, il serait vrai que la partie ne serait pas dans son tout.
+
+Par la même raison il paraît que la particulière n'enferme pas l'universelle, parce qu'étant contenue, elle ne peut être contenante. Ainsi : *Quelque homme est juste*, n'enferme pas : *Tout homme est juste*; et ces choses sont claires de soi.
+
+De là suit avec la même évidence, que la particulière détruit l’universelle d'une autre qualité qu'elle ; je veux dire que la particulière négative détruit l'universelle affirmative, et au contraire. S’il y a un seul riche qui ne soit pas heureux (et il n'y en a pas pour un), c'en est assez pour conclure qu'il est faux que tout riche soit heureux, ou que les richesses fassent le bonheur. Et s'il y a un seul homme exempt de péché, c'en est assez pour nier que nul homme ne soit sans péché. Et la particulière d'une qualité ne détruit pas seulement l'universelle de l'autre, mais encore elle détruit en quelque façon l'universelle de même qualité. Si, je dis seulement : *Quelque homme est blanc*, je fais entendre par là que quelque homme aussi n'est pas blanc, et qu'il y a des hommes qui ne le sont pas : autrement j'aurais plus tôt fait de dire, en général : *Tout homme est blanc*, puisque même *quelque homme est blanc* y serait compris.
+
+Ainsi quand je me réduis à la particulière affirmative, je fais voir que je nie l'universelle affirmative, ou du moins que j'en doute; c'est pourquoi ce n'est pas assez de dire que quelque homme de bien est estimable; car alors il semblerait qu'on doutât du moins que tout homme de bien le fût : de sorte qu'il est véritable que la particulière affirmative détruit en quelque façon, l'universelle de même qualité, puisqu'elle la rend toujours ou fausse ou douteuse.
+
+Ici commence l'art des conséquences, puisqu'on voit déjà que celle de l'universel au particulier est bonne, et non au contraire; et nous verrons dans la suite que le raisonnement est fondé sur cela.
+
+Il y a même ici quelque raisonnement, puisqu'il y a une proposition induite d'une autre : mais ce raisonnement n'a que deux propositions, comme il paraît.
+
+Les propositions affirmatives et négatives ont aussi leurs propriétés, qui ne sont pas moins remarquables, et qui ne servent pas moins au raisonnement ; et les voici.
+
+Dans toute proposition affirmative, soit qu'elle soit universelle ou particulière, l'attribut se prend toujours particulièrement; et dans toute proposition négative, soit qu'elle soit particulière ou universelle, l'attribut se prend toujours universellement. Quand je dis : *Tout homme est animal*, ou : *Quelque homme est animal*, je ne veux pas dire que tout homme, c'est-à-dire chaque homme en particulier, et encore moins quelque homme, soit tout animal, mais seulement qu'il est quelqu'un des animaux; autrement un homme serait éléphant, ou cheval aussi bien qu'homme. Mais quand je dis *: Quelque homme n’est pas injuste*, je neveux pas dire seulement qu'il n'est pas quelqu'un, mais qu'il n'est aucun des injustes; et quand je dis : *Nul homme de bien n'est abandonné de Dieu*, je veux dire qu'il n'y en a aucun en parti' culier qui ne soit exclu de tout le nombre de ceux que Dieu abandonne.
+
+C'est ce qui fait dire à Aristote que la négation est d'une nature malfaisante, et qu'elle ôte toujours plus que ne pose l’affirmation. Car l'affirmation ne pose l'attribut qu'avec restriction : *Tout homme est animal*, c'est-à-dire *tout homme est quelque animal*; et la négation l'exclut dans toute son étendue. Si je disais : *Nul homme n'est animal*, je voudrais dire que l'homme ne serait aucun des animaux.
+
+Et la raison est qu'afin qu'il soit vrai de dire : *L'homme est animal*, il suffît qu'il soit quelqu'un des animaux; mais afin qu'il lût vrai de dire : *L'homme n'est pas animal*, il faudrait qu'il n'en fat aucun.
+
+Ces propriétés des propositions affirmatives et négatives sont fondées sur la nature de l'affirmation et de la négation, dont l'une est d'identifier et d'unir les termes dans leur signification, et l'autre de les séparer; or je puis identifier et unir ces deux termes : *homme* et *animal*, pourvu qu'il soit vrai de dire que l'homme est quelqu'un des animaux : d'où il s'ensuit que pour les séparer, il faut que l'homme n'en soit aucun.
+
+C'est pour cela que les deux termes d'une négation véritable s'excluent absolument l'un l'autre. Si nulle plante n'est animal, nul animal n'est plante; et si nul animal n'est plante, nulle plante n’est animal ; au lieu que les deux termes de l'affirmation ne s'unissent pas absolument l'un à l'autre ; car de ce que tout homme est animal, il s'ensuit bien que quelque animal est homme, et non pas que tout animal est homme.
+
+C'est une seconde propriété des propositions affirmatives et négatives, que nous allons expliquer en parlant des conversions.

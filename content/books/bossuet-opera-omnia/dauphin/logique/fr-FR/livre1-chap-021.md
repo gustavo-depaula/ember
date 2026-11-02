@@ -1,0 +1,9 @@
+# Chapitre XXI. Divers objets peuvent être considérés sous une même raison, et être entendus par une seule idée
+
+Nous avons vu qu'un même objet, en tant qu'il peut être considère selon divers rapports et sous différentes raisons, est multiplié et donne lieu à des idées différentes. Il est vrai aussi que divers objets, en tant qu'ils peuvent être considérés sous une même raison, sont réunis ensemble, et ne demandent qu'une même idée pour être entendus : par exemple, quand je considère plusieurs cercles, je considère sans difficulté plusieurs objets : l'un sera plus petit, l'autre plus grand; ils seront diversement situa; l'un sera en mouvement et l'autre en repos, et ainsi du reste. Mais outre que je les puis considérer selon toutes ces différences, je puis aussi considérer que le plus petit aussi bien que le plus grand, celui qui est en repos aussi bien que celui qui est en mouvement, a tous les points de sa circonférence également éloignés du milieu. A les regarder en ce sens et sous cette raison commune, ils ne font tous ensemble qu'un seul objet, et sont conçus sous la même idée.
+
+Ainsi plusieurs hommes et plusieurs arbres sont sans difficulté plusieurs objets, mais qui étant entendus sous la raison commune d'hommes et d'arbres, n'en deviennent qu'un seul à cet égard, et sont compris dans la même idée qui répond à ces mots d'homme et arbre.
+
+Ce n'est pas que la raison d'homme, ou celle de cercle en général, subsiste en elle-même distinguée de tous les hommes ou de tous les cercles particuliers ; mais c'est que plusieurs cercles et plusieurs hommes se ressemblent tellement en tant qu'hommes et en tant que cercles, qu'il n'y en a aucun à qui l'idée d'homme et celle de cercle prise en général, ne convienne parfaitement.
+
+Ces idées qui représentent plusieurs choses s'appellent universelles, ainsi qu'il sera expliqué plus amplement dans la suite.

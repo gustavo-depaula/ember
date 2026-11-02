@@ -1,0 +1,3 @@
+# Chapitre XII. Du sorite
+
+Le *sorite*, c'est-à-dire *entasseur*, argument usité parmi les stoïciens, appelé de ce nom parce qu'en effet il entasse un grand nombre de propositions dont il tire une seule conséquence, comme qui dirait, par exemple : *Qui autorise les violentes entreprises, ruine la justice; qui ruine la justice, rompt le lien qui unit les citoyens ; qui rompt le lien de société, fait naître les divisions dans un Etat, qui fait naître les divisions dans un Etat, l'expose à un péril évident : donc qui autorise les entreprises violentes, expose l'Etat à un péril évident*. On voit par là que le sorite n'est pas tant un singulier argument que plusieurs arguments enchaînés ensemble.

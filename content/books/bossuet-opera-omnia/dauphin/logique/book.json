@@ -1,0 +1,684 @@
+{
+  "id": "bossuet-logique",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "La Logique",
+    "en-US": "Logic",
+    "pt-BR": "A Lógica"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Traité de logique composé pour l’éducation du Dauphin, en trois livres selon les trois opérations de l’esprit : concevoir, juger, raisonner. Écrit vers 1677-1678, publié en 1828. Édition Lachat (1864).",
+    "en-US": "A treatise on logic composed for the education of the Dauphin, in three books following the three operations of the mind: conceiving, judging, reasoning. Written around 1677-78 and published in 1828. Lachat edition (1864).",
+    "pt-BR": "Tratado de lógica composto para a educação do Delfim, em três livros segundo as três operações do espírito: conceber, julgar, raciocinar. Escrito por volta de 1677-1678 e publicado em 1828. Edição Lachat (1864)."
+  },
+  "composed": "1677",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/logique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume023/008.htm to 010.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXIII, pages 008-010. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "livre-1",
+      "title": {
+        "fr-FR": "Livre premier : de la première opération de l’esprit"
+      },
+      "children": [
+        {
+          "id": "livre1-chap-0",
+          "title": {
+            "fr-FR": "Préambule"
+          }
+        },
+        {
+          "id": "livre1-chap-001",
+          "title": {
+            "fr-FR": "Chapitre Premier. De l'entendement"
+          }
+        },
+        {
+          "id": "livre1-chap-002",
+          "title": {
+            "fr-FR": "Chapitre II. Des idées et de leur définition"
+          }
+        },
+        {
+          "id": "livre1-chap-003",
+          "title": {
+            "fr-FR": "Chapitre III. Des termes, et de leur liaison avec les idées"
+          }
+        },
+        {
+          "id": "livre1-chap-004",
+          "title": {
+            "fr-FR": "Chapitre IV. Des trois opérations de l’entendement, et de leur rapport avec les idées"
+          }
+        },
+        {
+          "id": "livre1-chap-005",
+          "title": {
+            "fr-FR": "Chapitre V. De l'attention, qui est commune aux trois opérations de l'esprit"
+          }
+        },
+        {
+          "id": "livre1-chap-006",
+          "title": {
+            "fr-FR": "Chapitre VI. De la première opération de l'esprit, qui est la conception des idées"
+          }
+        },
+        {
+          "id": "livre1-chap-007",
+          "title": {
+            "fr-FR": "Chapitre VII. Dénombrement de plusieurs idées"
+          }
+        },
+        {
+          "id": "livre1-chap-008",
+          "title": {
+            "fr-FR": "Chapitre VIII. Division générale des idées"
+          }
+        },
+        {
+          "id": "livre1-chap-009",
+          "title": {
+            "fr-FR": "Chapitre IX. Autre division générale des idées"
+          }
+        },
+        {
+          "id": "livre1-chap-010",
+          "title": {
+            "fr-FR": "Chapitre X. Plusieurs exemples d'idées claires et obscures"
+          }
+        },
+        {
+          "id": "livre1-chap-011",
+          "title": {
+            "fr-FR": "Chapitre XI. Diverses propriétés des idées, et premièrement qu'elles ont toutes un objet réel et véritable"
+          }
+        },
+        {
+          "id": "livre1-chap-012",
+          "title": {
+            "fr-FR": "Chapitre XII. Si, et comment on peut dire qu'on a de fausses idées"
+          }
+        },
+        {
+          "id": "livre1-chap-013",
+          "title": {
+            "fr-FR": "Chapitre XIII. De ce qu'on appelle êtres de raison, et quelle idée on en a"
+          }
+        },
+        {
+          "id": "livre1-chap-014",
+          "title": {
+            "fr-FR": "Chapitre XIV. Le néant n'est pas entendu, et n'a point d'idée"
+          }
+        },
+        {
+          "id": "livre1-chap-015",
+          "title": {
+            "fr-FR": "Chapitre XV. Des êtres appelés négatifs et privatifs"
+          }
+        },
+        {
+          "id": "livre1-chap-016",
+          "title": {
+            "fr-FR": "Chapitre XVI. Les idées sont positives, quoique souvent exprimées en termes négatifs"
+          }
+        },
+        {
+          "id": "livre1-chap-017",
+          "title": {
+            "fr-FR": "Chapitre XVII. Dans les termes négatifs, il faut toujours regarder ce qui leur répond de positif dans l'esprit"
+          }
+        },
+        {
+          "id": "livre1-chap-018",
+          "title": {
+            "fr-FR": "Chapitre XVIII. A chaque objet chaque idée"
+          }
+        },
+        {
+          "id": "livre1-chap-019",
+          "title": {
+            "fr-FR": "Chapitre XIX. Un même objet peut être considéré diversement"
+          }
+        },
+        {
+          "id": "livre1-chap-020",
+          "title": {
+            "fr-FR": "Chapitre XX. Un même objet considéré diversement se multiplie en quelque façon et multiplie les idées"
+          }
+        },
+        {
+          "id": "livre1-chap-021",
+          "title": {
+            "fr-FR": "Chapitre XXI. Divers objets peuvent être considérés sous une même raison, et être entendus par une seule idée"
+          }
+        },
+        {
+          "id": "livre1-chap-022",
+          "title": {
+            "fr-FR": "Chapitre XXII. Ce que c'est que précision et idée ou raison précise"
+          }
+        },
+        {
+          "id": "livre1-chap-023",
+          "title": {
+            "fr-FR": "Chapitre XXIII. La précision n'est point une erreur"
+          }
+        },
+        {
+          "id": "livre1-chap-024",
+          "title": {
+            "fr-FR": "Chapitre XXIV. La précision loin d’être une erreur, est le secours le plus nécessaire pour nous faire connaître distinctement la vérité"
+          }
+        },
+        {
+          "id": "livre1-chap-025",
+          "title": {
+            "fr-FR": "Chapitre XXV. De la distinction de raison, et de la distinction réelle"
+          }
+        },
+        {
+          "id": "livre1-chap-026",
+          "title": {
+            "fr-FR": "Chapitre XXVI. Toute multiplicité dans les idées présuppose multiplicité du côté des choses mêmes"
+          }
+        },
+        {
+          "id": "livre1-chap-027",
+          "title": {
+            "fr-FR": "Chapitre XXVII. Nous aurions moins d'idées, si notre esprit était plus parfait"
+          }
+        },
+        {
+          "id": "livre1-chap-028",
+          "title": {
+            "fr-FR": "Chapitre XXVIII. Les idées gui représentent plusieurs objets sous une même raison, sont universelles"
+          }
+        },
+        {
+          "id": "livre1-chap-029",
+          "title": {
+            "fr-FR": "Chapitre XXIX. Tout est individuel et particulier dans la nature"
+          }
+        },
+        {
+          "id": "livre1-chap-030",
+          "title": {
+            "fr-FR": "Chapitre XXX. L'universel est dans la pensée ou dans l’idée"
+          }
+        },
+        {
+          "id": "livre1-chap-031",
+          "title": {
+            "fr-FR": "Chapitre XXXI. La nature de l'universel expliquée par la doctrine précédente"
+          }
+        },
+        {
+          "id": "livre1-chap-032",
+          "title": {
+            "fr-FR": "Chapitre XXXII. Des êtres qui différent en espèce, et de ceux qui ne diffèrent qu'en nombre"
+          }
+        },
+        {
+          "id": "livre1-chap-033",
+          "title": {
+            "fr-FR": "Chapitre XXXIII. Nous ne connaissons pas ce qui fait précisément la différence numérique ou individuelle"
+          }
+        },
+        {
+          "id": "livre1-chap-034",
+          "title": {
+            "fr-FR": "Chapitre XXXIV. Toutes nos idées sont universelles, et les unes plus que les autres"
+          }
+        },
+        {
+          "id": "livre1-chap-035",
+          "title": {
+            "fr-FR": "Chapitre XXXV. Comment nous connaissons les choses qui différent seulement en nombre"
+          }
+        },
+        {
+          "id": "livre1-chap-036",
+          "title": {
+            "fr-FR": "Chapitre XXXVI. Les idées regardent des vérités éternelles, et non ce qui existe et ce qui se fait dans le temps"
+          }
+        },
+        {
+          "id": "livre1-chap-037",
+          "title": {
+            "fr-FR": "Chapitre XXXVII. Ce que c'est que les essences, et comment elles sont éternelles"
+          }
+        },
+        {
+          "id": "livre1-chap-038",
+          "title": {
+            "fr-FR": "Chapitre XXXVIII. Quand on a trouvé l'essence, et ce qui répond aux idées, on peut dire qu'il est impossible que les choses soient autrement"
+          }
+        },
+        {
+          "id": "livre1-chap-039",
+          "title": {
+            "fr-FR": "Chapitre XXXIX. Par quelle idée nous connaissons l'existence actuelle des choses"
+          }
+        },
+        {
+          "id": "livre1-chap-040",
+          "title": {
+            "fr-FR": "Chapitre XL. En toutes choses, excepté en Dieu, l'idée de l'essence et l'idée de l'existence sont distinguées"
+          }
+        },
+        {
+          "id": "livre1-chap-041",
+          "title": {
+            "fr-FR": "Chapitre XLI. De ce que dans la créature les idées de l'essence et de l'existence sont différentes, il ne s'ensuit pas que l'essence des créatures soit distinguée réellement de leur existence"
+          }
+        },
+        {
+          "id": "livre1-chap-042",
+          "title": {
+            "fr-FR": "Chapitre XLII. Des différents genres de termes, et en particulier des termes abstraits et concrets"
+          }
+        },
+        {
+          "id": "livre1-chap-043",
+          "title": {
+            "fr-FR": "Chapitre XLIII. Quelle est la force de ces termes"
+          }
+        },
+        {
+          "id": "livre1-chap-044",
+          "title": {
+            "fr-FR": "Chapitre XLIV. Les cinq termes de Porphyre, ou les cinq universaux"
+          }
+        },
+        {
+          "id": "livre1-chap-045",
+          "title": {
+            "fr-FR": "Chapitre XLV. Explication particulière des cinq universaux; et premièrement du genre, de l’espèce et de la différence"
+          }
+        },
+        {
+          "id": "livre1-chap-046",
+          "title": {
+            "fr-FR": "Chapitre XLVI. De la propriété et de l'accident"
+          }
+        },
+        {
+          "id": "livre1-chap-047",
+          "title": {
+            "fr-FR": "Chapitre XLVII. Diverses façons d'exprimer la nature des universaux"
+          }
+        },
+        {
+          "id": "livre1-chap-048",
+          "title": {
+            "fr-FR": "Chapitre XL VIII. Autres façons d'exprimer l'universalité, où est expliqué ce qui s'appelle univoque, analogue, et équivoque"
+          }
+        },
+        {
+          "id": "livre1-chap-049",
+          "title": {
+            "fr-FR": "Chapitre XLIX. Suite, où sont expliquées d'autres expressions accommodées à l'universel"
+          }
+        },
+        {
+          "id": "livre1-chap-050",
+          "title": {
+            "fr-FR": "Chapitre L. De quelle manière chaque terme universel est énoncé de ses inférieurs"
+          }
+        },
+        {
+          "id": "livre1-chap-051",
+          "title": {
+            "fr-FR": "Chapitre LI. Des dix catégories ou prédicaments d'Aristote"
+          }
+        },
+        {
+          "id": "livre1-chap-052",
+          "title": {
+            "fr-FR": "Chapitre LII. De la substance et de l’accident, en général"
+          }
+        },
+        {
+          "id": "livre1-chap-053",
+          "title": {
+            "fr-FR": "Chapitre LIII. De la substance en particulier"
+          }
+        },
+        {
+          "id": "livre1-chap-054",
+          "title": {
+            "fr-FR": "Chapitre LIV. De la quantité"
+          }
+        },
+        {
+          "id": "livre1-chap-055",
+          "title": {
+            "fr-FR": "Chapitre LV. De la relation"
+          }
+        },
+        {
+          "id": "livre1-chap-056",
+          "title": {
+            "fr-FR": "Chapitre LVI. De la qualité"
+          }
+        },
+        {
+          "id": "livre1-chap-057",
+          "title": {
+            "fr-FR": "Chapitre LVII. Des six autres catégories"
+          }
+        },
+        {
+          "id": "livre1-chap-058",
+          "title": {
+            "fr-FR": "Chapitre LVIII. Des opposés"
+          }
+        },
+        {
+          "id": "livre1-chap-059",
+          "title": {
+            "fr-FR": "Chapitre LIX. De la priorité et postériorité"
+          }
+        },
+        {
+          "id": "livre1-chap-060",
+          "title": {
+            "fr-FR": "Chapitre LX. Des termes complexes et incomplexes"
+          }
+        },
+        {
+          "id": "livre1-chap-061",
+          "title": {
+            "fr-FR": "Chapitre LXI. Récapitulation: et premièrement des idées"
+          }
+        },
+        {
+          "id": "livre1-chap-062",
+          "title": {
+            "fr-FR": "Chapitre LXII. Propriété des idées, en tant qu'elles sont universelles"
+          }
+        },
+        {
+          "id": "livre1-chap-063",
+          "title": {
+            "fr-FR": "Chapitre LXIII. Des termes"
+          }
+        },
+        {
+          "id": "livre1-chap-064",
+          "title": {
+            "fr-FR": "Chapitre LXIV. Préceptes de la logique tirés de doctrine précédente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-2",
+      "title": {
+        "fr-FR": "Livre II : de la seconde opération de l’esprit"
+      },
+      "children": [
+        {
+          "id": "livre2-chap-001",
+          "title": {
+            "fr-FR": "Chapitre Premier. Les idées peuvent être unies ou séparées, c'est-à-dire ou affirmées ou niées, les unes des autres; et cela s'appelle proposition, ou énonciation"
+          }
+        },
+        {
+          "id": "livre2-chap-002",
+          "title": {
+            "fr-FR": "Chapitre II. Quelle est la signification du Verbe est dans la proposition"
+          }
+        },
+        {
+          "id": "livre2-chap-003",
+          "title": {
+            "fr-FR": "Chapitre III. Divisions des propositions"
+          }
+        },
+        {
+          "id": "livre2-chap-004",
+          "title": {
+            "fr-FR": "Chapitre IV. — Des propositions complexes et incomplexes"
+          }
+        },
+        {
+          "id": "livre2-chap-005",
+          "title": {
+            "fr-FR": "Chapitre V. Des propositions simples et composées, et des propositions modales"
+          }
+        },
+        {
+          "id": "livre2-chap-006",
+          "title": {
+            "fr-FR": "Chapitre VI. Des propositions absolues et conditionnées"
+          }
+        },
+        {
+          "id": "livre2-chap-007",
+          "title": {
+            "fr-FR": "Chapitre VII. Des propositions universelles et particulières, affirmatives et négatives"
+          }
+        },
+        {
+          "id": "livre2-chap-008",
+          "title": {
+            "fr-FR": "Chapitre VIII. Propriétés remarquables des propositions précédentes"
+          }
+        },
+        {
+          "id": "livre2-chap-009",
+          "title": {
+            "fr-FR": "Chapitre IX. Des propositions qui se convertissent"
+          }
+        },
+        {
+          "id": "livre2-chap-010",
+          "title": {
+            "fr-FR": "Chapitre X. Comment les propositions universelles et particulières, affirmatives et négatives, conviennent ou s'excluent universellement; et des propositions équipollentes"
+          }
+        },
+        {
+          "id": "livre2-chap-011",
+          "title": {
+            "fr-FR": "Chapitre XI. Des propositions véritables et fausses"
+          }
+        },
+        {
+          "id": "livre2-chap-012",
+          "title": {
+            "fr-FR": "Chapitre XII. Des propositions connues par elles-mêmes"
+          }
+        },
+        {
+          "id": "livre2-chap-013",
+          "title": {
+            "fr-FR": "Chapitre XIII. De la définition et de son usage"
+          }
+        },
+        {
+          "id": "livre2-chap-014",
+          "title": {
+            "fr-FR": "Chapitre XIV. De la division et de son usage"
+          }
+        },
+        {
+          "id": "livre2-chap-015",
+          "title": {
+            "fr-FR": "Chapitre XV. Préceptes tirés de la doctrine précédente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-3",
+      "title": {
+        "fr-FR": "Livre III : de la troisième opération de l’esprit"
+      },
+      "children": [
+        {
+          "id": "livre3-chap-0",
+          "title": {
+            "fr-FR": "Préambule"
+          }
+        },
+        {
+          "id": "livre3-chap-001",
+          "title": {
+            "fr-FR": "Chapitre II. En quoi consiste la force du raisonnement"
+          }
+        },
+        {
+          "id": "livre3-chap-002",
+          "title": {
+            "fr-FR": "Chapitre III. De la structure du raisonnement"
+          }
+        },
+        {
+          "id": "livre3-chap-003",
+          "title": {
+            "fr-FR": "Chapitre IV. Première division de l'argument, en régulier et irrégulier"
+          }
+        },
+        {
+          "id": "livre3-chap-004",
+          "title": {
+            "fr-FR": "Chapitre V. Régies générales des syllogismes"
+          }
+        },
+        {
+          "id": "livre3-chap-005",
+          "title": {
+            "fr-FR": "Chapitre VI. Des figures du syllogisme"
+          }
+        },
+        {
+          "id": "livre3-chap-006",
+          "title": {
+            "fr-FR": "Chapitre VII. Des modes des syllogismes"
+          }
+        },
+        {
+          "id": "livre3-chap-007",
+          "title": {
+            "fr-FR": "Chapitre VIII. Des moyens de prouver la bonté des arguments, et premièrement de la réduction à l'impossible"
+          }
+        },
+        {
+          "id": "livre3-chap-008",
+          "title": {
+            "fr-FR": "Chapitre IX. Autre moyen de prouver la bonté des arguments, en les réduisant à la première figure"
+          }
+        },
+        {
+          "id": "livre3-chap-009",
+          "title": {
+            "fr-FR": "Chapitre X. Troisième moyen de prouver la bonté d'un argument par le syllogisme expositoire"
+          }
+        },
+        {
+          "id": "livre3-chap-010",
+          "title": {
+            "fr-FR": "Chapitre XI. De l'enthymème"
+          }
+        },
+        {
+          "id": "livre3-chap-011",
+          "title": {
+            "fr-FR": "Chapitre XII. Du sorite"
+          }
+        },
+        {
+          "id": "livre3-chap-012",
+          "title": {
+            "fr-FR": "Chapitre XIII. De l'argument hypothétique, ou par supposition"
+          }
+        },
+        {
+          "id": "livre3-chap-013",
+          "title": {
+            "fr-FR": "Chapitre XIV. De l'argument qui jette dans l'inconvénient"
+          }
+        },
+        {
+          "id": "livre3-chap-014",
+          "title": {
+            "fr-FR": "Chapitre XV. Du dilemme, ou syllogisme disjonctif"
+          }
+        },
+        {
+          "id": "livre3-chap-015",
+          "title": {
+            "fr-FR": "Chapitre XVI. Division de l'argument en démonstratif et probable, et premièrement du démonstratif"
+          }
+        },
+        {
+          "id": "livre3-chap-016",
+          "title": {
+            "fr-FR": "Chapitre XVII. De l'argument probable"
+          }
+        },
+        {
+          "id": "livre3-chap-017",
+          "title": {
+            "fr-FR": "Chapitre XVIII. Autre division de l'argument, en argument tiré de raison, et en argument tiré de l'autorité"
+          }
+        },
+        {
+          "id": "livre3-chap-018",
+          "title": {
+            "fr-FR": "Chapitre XIX. Du consentement de l'esprit, qui est le fruit du raisonnement"
+          }
+        },
+        {
+          "id": "livre3-chap-019",
+          "title": {
+            "fr-FR": "Chapitre XX. Des moyens de preuve tirés de la nature de la chose"
+          }
+        },
+        {
+          "id": "livre3-chap-020",
+          "title": {
+            "fr-FR": "Chapitre XXI. De l'exemple ou induction"
+          }
+        },
+        {
+          "id": "livre3-chap-021",
+          "title": {
+            "fr-FR": "Chapitre XXII. Des lieux extérieurs, c'est-à-dire des lieux tirés de l’autorité"
+          }
+        },
+        {
+          "id": "livre3-chap-022",
+          "title": {
+            "fr-FR": "Chapitre XXIII. Des diverses habitudes gui se forment dans l'esprit en vertu des preuves"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Chapitre II. En quoi consiste la force du raisonnement
+
+La force du raisonnement consiste dans une proposition qui en contient une autre, et qui par conséquent est universelle. Par exemple, cette proposition affirmative : *Le prince doit réprimer les violences*, est enfermée dans cette proposition pareillement affirmative : *Tout homme qui a en main la puissance publique, doit réprimer les violences*; et savoir tirer l'une de l'autre, c'est go qui s'appelle *argument* ou *raisonnement*.
+
+Il en est de même des propositions négatives ; par exemple, celle-ci : *Nul sujet ne doit se révolter contre son prince*, est renfermée dans cette autre : *Nul particulier ne doit troubler le repos public*.
+
+Ainsi la force du raisonnement consiste à trouver une proposition qui contienne en soi celle dont on veut faire la preuve : c'est ce qu'on appelle dans l'Ecole : *Dici de omni, dici de nullo*; c'est-à-dire que tout ce qui convient à une chose, convient à tout ce à quoi cette chose convient, et au contraire. Par exemple, ce qui convient à un homme sage en général, convient à chaque homme sage; et au contraire ce qui est nié de tout homme sage en général, est nié de tout homme sage en particulier. Autre exemple : ce qui convient en général à tout triangle, convient en particulier à l'isocèle et aux autres ; et au contraire ce qui est nié de tout triangle en général, est nié de l'isocèle et de tous les autres en particulier.
