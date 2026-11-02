@@ -1,0 +1,3 @@
+# Caput. xv. de sexto gradu superbiae, id est arrogantia
+
+Credit quod audit, laudat quod agit, et quod intendat non attendit. Obliviscitur intentionem dum amplectitur opinionem. Quique de omni alia re plus sibi credit, quam aliis, de se solo plus aliis credit, quam sibi: ut non jam verbo tenus, aut sola operum ostentatione suam praeferat religionem, sed intimo cordis credat affectu omnibus se sanctiorem: et quidquid de se laudatum agnoverit, non ignorantiae aut benevolentiae laudatoris, sed suis meritis arroganter ascribit. Unde post singularitatem, sextum sibi gradum jure arrogantia vindicat. Post hanc praesumptio invenitur, in qua septimus gradus constituitur.

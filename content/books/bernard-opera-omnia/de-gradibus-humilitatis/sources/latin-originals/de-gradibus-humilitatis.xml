@@ -1,0 +1,2372 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De gradibus humilitatis et superbiae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 182</title>
+           <idno>BerCla.DeGrHuE</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  <note>XML corrections by Jan Ctibor in 2023: isolated heads moved to corresponding divs</note>
+      </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <emph>558</emph> ADMONITIO IN OPUSCULUM VII.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Primus Bernardi fetus est libellus sequens, inscriptus  « de Gradibus Humilitatis, »  primusque nominatur
+tum a Bernardo ipso, tum a Gaufrido monacho, ejus Vitae scriptore. Bernardi haec verba sunt in epistola
+decima octava, ad Petrum cardinalem:  « Et ut sciatis quid petatis, scio me scripsisse libellum, qui inscribitur
+de Humilitate, et quatuor Homilias, »  etc. Haec epistola sub annum 1127 exarata est. Gaufridus vero in
+libro tertio de ejus Vita, cap. 8,  « Si quis, »  inquit,  « nosse desiderat, quam sollicitus ab initio sui ipsius
+dijudicator et scrutator exstiterit, primum opus illius de Gradibus Humilitatis inspiciat. »  Rationem hujusce
+tituli reddit Vir sanctus in Censura seu Retractatione libri, quam in fronte operis praefigi voluit. Cum enim
+quoddam verbum, quasi e Scriptura sacra prolatum, ipsi excidisset, et quamdam de Seraphim expositionem,
+quam in Patribus non legerat, adduxisset; hoc comperto, incunctanter sententiam ipse suam emendare non
+dubitavit. Tantus erat in sancto Doctore veritatis amor! tanta in Patres reverentia! Hic Manricus graviter
+monet exemplo Bernardi auctores mysticos ac theologicos nonnullos,  « qui vel in litteralibus, vel in altissimis
+theologiae sacrae sensibus novitates non solum inducunt, sed etiam profitentur: dum Bernardus, theologia
+divinitus infusa praeditus, in sensu mystico quod a Patribus non acceperat, suspectum habet, nec satis credit
+suae conscientiae factum, donec rem a se excogitatam retractaret. »  Quanquam alio in loco quiddam amplius
+sibi licere permisit, nempe in fine homiliarum super</hi> Missus est, <hi>ubi ita ait,  « Si quid dictum est praeter Patres,
+quod non sit contra Patres; nec Patribus arbitror, nec cuiquam displicere debere: »  et in epistola septuagesima
+septima,  « Sane ibi unusquisque in suo sensu securus abundet, ubi aut certae rationi, aut non contemnendae
+auctoritati quod sentitur non obviat. »  Haec sanctus doctor, priorem sententiam temperans, nec tam
+novos sensus, si ratione ducantur, quam affectatum eorum studium reprehendens.</hi> </p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ <hi>Tempus scripti libri de Gradibus Humilitatis colligimus ex praelaudata epistola decima octava sub annum
+1127 scripta. Tunc enim Bernardus quatuor tantum opuscula dictaverat cum aliquot epistolis, quorum
+opusculorum cum primum fuerit de Humilitate, ante annum 1125 scriptum dici debet. Certe ad Godefridum
+Clarae-Vallis Priorem ac consanguineum suum, postea Lingonensem episcopum, ad quem epistola trecentesima
+vigesima. Hunc  « filium, fratrem, socium, et profectus sui participem »  vocat hic n. 24. In codice Colbertino,
+notato 3964, haec inscriptio libri legitur post libros de Consideratione:  « Incipit liber ejusdem de Gradibus
+Humilitatis, ad Godefridum tunc in Clara-Valle Priorem, postea Lingonicae civitatis episcopum. »  Deest in
+hoc codice Retractatio, quae in quatuor aliis manuscriptis libro praemittitur. Unde eam in hunc locum restituere
+visum est, quam Horstius ad calcem rejecerat.</hi> 
+</p>
+          <p>
+            <emph>RETRACTATIO S. BERNARDI IN TRACTATUM DE GRADIBUS HUMILITATIS.</emph>
+          </p>
+<p> <hi>In hoc Opusculo, cum illud de Evangelio, quod Dominus ait, diem ultimi judicii se nescire, ad aliquam
+sententiam confirmandam atque corroborandam proferrem in medium <note>(cap. 1, n. 1)</note>
+            </hi>, <hi>improvide quidem apposui,
+quod in Evangelio scriptum non esse postea deprehendi. Nam cum textus habeat tantummodo, neque filius
+scit; ego deceptus magis, quam fallere volens, litterae quippe immemor, sed non sensus,  « Nec ipse, »  inquam,
+ « Filius hominis scit. »  Unde etiam totam ordiens sequentem disputationem, ex eo quod non veraciter posui,
+veram conatus sum approbare assertionem. Sed quia talem errorem meum multo post, quam a me idem
+libellus editus, et a pluribus jam transcriptus fuit, deprehendi; cum non potui per tot jam libellos sparsum
+persequi mendacium, necessarium credidi confugere ad confessionis remedium. Alio quoque in loco <note>(Cap. 10,
+n. 35)</note> quamdam de Seraphim opinionem posui, quam nunquam audivi, nusquam legi. Ubi sane lector meus
+attendat, quod proinde temperanter,  « puto, »  dixerim: volens videlicet non aliud, quam putari, quod certum
+reddere de Scripturis non valui. Titulus quoque ipse qui de Gradibus Humilitatis inscribitur, pro eo forsitan
+quod non humilitatis, sed superbiae potius hic distingui describique gradus videntur, calumniam patietur, sed
+hoc a minus vel intelligentibus, vel attendentibus ejus tituli rationem, quam tamen in fine opusculi ipse breviter
+intimare curavi.</hi> 
+</p>
+        </div3>
+      </div1>
+
+
+<div1>
+        <head>PRIMA PARS.</head>
+        <pb n="0941"/>
+        <head> <emph>559</emph> PRAEFATIO.</head>
+
+<pb n="0941A"/>
+<p>Rogasti me, frater Godefride, ut ea quae de gradibus
+humilitatis coram fratribus locutus fueram,
+pleniori tibi tractatu dissererem. Cui tuae petitioni
+digne, ut dignum erat, et volens satisfacere, et timens
+non posse, evangelici consilii memor, non
+prius, fateor, incipere ausus sum, quam sedens
+computavi, si sufficerent sumptus ad perficiendum <note>(Luc. XIV, 28)</note>.
+Cum autem charitas hunc foras misisset
+timorem, quo mihi timebam illudi de opere
+non consummando, subintravit alius timor de contrario,
+quo coepi timere gravius periculum de gloria
+si perfecissem, quam de ignominia si defecissem.
+Unde inter hunc timorem et charitatem, velut in
+quodam bivio positus, diu haesitavi, cui viarum
+<pb n="0941B"/>
+tuto me crederem; metuens aut loquendo utiliter
+de humilitate, ipse humilis non inveniri; aut tacendo
+humiliter, inutilis fieri. Cumque neutram viam tutam,
+alterutram tamen mihi tenendam esse conspicerem;
+elegi potius tibi, si quem possem, communicare
+fructum sermonis, quam tutari me solum
+portu silentii: simul fiduciam habens, si quid forte,
+quod approbes, dixerim, tuis precibus posse me non
+superbire; sin autem (quod magis puto) nihil tuo
+studio dignum effecerim, de nihilo superbire non posse.</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>Christum esse viam humilitatis, qua pervenitur ad veritatem.</hi> </head>
+<div3>
+            <head>1.</head>
+            <p>
+ Locuturus ergo de gradibus humilitatis, quos
+<pb n="0941C"/>
+beatus Benedictus non numerandos, sed ascendendos
+proponit <note>(Reg. cap. 7)</note>, prius ostendo, si possum,
+quo per illos perveniendum sit, ut audito fructu perventionis,
+minus gravet labor ascensionis. Proponit
+itaque Dominus nobis viae laborem, laboris mercedem <hi>Ego sum,</hi> 
+ inquit, <hi>via, veritas, et vita <note>(Joan.
+XIV, 6)</note>
+            </hi>. Viam dicit humilitatem, quae ducit ad veritatem.
+Altera labor, altera fructus laboris est.
+Unde sciam, inquis, quod ibi de humilitate locutus
+sit, cum indeterminate dixerit: <hi>Ego sum via?</hi> Audi
+apertius: <hi>Discite a me quia mitis sum et humilis
+corde <note>(Matth. XI. 29)</note>
+            </hi>. Se ergo proponit humilitatis
+exemplum, mansuetudinis formam. Si imitaris eum,
+non ambulas in tenebris, sed habebis lumen vitae <note>(Joan. VIII, 12)</note>.
+Quid est lumen vitae, nisi veritas;
+<pb n="0942A"/>
+quae illuminans omnem hominem venientem in hunc
+mundum, ostendit ubi sit vera vita? Ideo cum dixisset, <hi>Ego um via et veritas,</hi> 
+ subdidit, <hi>et vita:</hi> ac
+si diceret: Ego sum via, quae ad veritatem duco;
+ego sum veritas quae vitam promitto: ego sum
+vita, quam do. <hi>Haec est enim,</hi> ait, <hi>vita aeterna,
+ut cognoscent te verum Deum: et quem misisti Jesum
+Christum <note>(Matth. XVII, 3)</note>
+            </hi>. Vel sic, quasi tu dicas:
+Viam considero, id est humilitatem: fructum desidero,
+veritatem. Sed quid si tantus est labor viae, ut
+ad optatum lucrum non possim pervenire? Respondet: <hi>Ego sum via,</hi> 
+ id est viaticum, quo sustenteris
+in via. Clamat igitur errantibus, et viam ignorantibus, <hi>Ego sum via:</hi> 
+ dubitantibus, et non credentibus, <hi>Ego sum veritas:</hi> 
+ jam ascendentibus, sed lassescentibus,
+<pb n="0942B"/> <hi>Ego sum vita.</hi> 
+ Satis, ut reor, ostensum est
+ex proposito capitulo Evangelii, <emph>560</emph> cognitionem
+veritatis fructum esse humilitatis. Accipe et aliud. <hi>Confiteor tibi, Pater, Domine coeli et terrae, quia abscondisti
+haec,</hi> 
+ haud dubium quin veritatis secreta, <hi>a sapientibus et prudentibus,</hi> 
+ id est a superbis, <hi>et
+revelasti ea parvulis <note>(Luc. X, 21)</note>
+            </hi>, hoc est humilibus.
+Et in hoc apparet quod veritas, quae superbis absconditur,
+humilibus revelatur.</p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ Humilitatis vero talis potest esse definitio:
+Humilitas est virtus, qua homo verissima sui agnitione
+sibi ipsi vilescit. Haec autem convenit his qui
+ascensionibus in corde suo dispositis, de virtute in
+virtutem, id est de gradu in gradum proficiunt, donec
+ad culmen humilitatis perveniant, in quo velut
+<pb n="0942C"/>
+in Sion, id est in speculatione, positi, veritatem
+prospiciant. <hi>Etenim,</hi> inquit, <hi>benedictionem dabit legislator <note>(Psal. LXXXIII, 8)</note>
+            </hi>:
+quia qui dedit legem,
+dabit et benedictionem; hoc est, qui jussit humilitatem,
+perducet ad veritatem. Quis vero est hic
+legislator, nisi dulcis et rectus Dominus qui legem
+dedit delinquentibus in via? <note>(Psal. XXIV, 8.)</note> In via
+quippe delinquunt, qui veritatem derelinquunt. Sed
+nunquid vel sic a dulci Domino derelinquuntur?
+Ipsis ergo dulcis et rectus Dominus legem dat
+viam humilitatis, per quam redeant ad cognitionem
+veritatis. Dat occasionem recuperandae salutis, quia
+dulcis est; non tamen absque disciplina legis, quia
+rectus est. Dulcis, quia perire non patitur; rectus,
+quia punire non obliviscitur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II. <hi>Quo fructu ascendantur gradus humilitatis.</hi> </head>
+<div3>
+            <head>3.</head>
+            <p>
+ Hanc itaque legem, qua reditur ad veritatem,
+<pb n="0943A"/>beatus Benedictus per duodecim gradus disponit:
+ut sicut per decem praecepta legis ac geminam circumcisionem
+(in quo duodenarius numerus adimpletur)
+ad Christum venitur; ita his duodecim gradibus
+ascensis, veritas apprehendatur. Illud quoque
+quod in scala illa, quae in typo humilitatis Jacob
+monstrata est, Dominus desuper innixus apparuit <note>(Gen. XXVIII, 12, 13)</note>,
+quid nobis aliud innuit, nisi
+quod in culmine humilitatis constituitur cognitio
+veritatis? Dominus quippe de summitate scalae prospiciebat
+super filios hominum tanquam Veritas,
+<pb n="0943B"/>
+cujus oculi sicut fallere nolunt, ita falli non norunt,
+ut videret si est intelligens aut requirens Deum. An
+non tibi de alto videtur clamare ac dicere requirentibus
+se (novit enim qui sunt ejus): <hi>Transite ad me,
+omnes qui concupiscitis me, et a generationibus meis
+implemini? <note>(Eccli. XXIV, 26)</note>
+            </hi> et illud: <hi>Venite ad me,
+omnes qui laboratis et onerati estis, et ego vos reficiam <note>(Matth. XI, 28)</note>
+            </hi>.
+Venite, inquit. Quo? Ad me veritatem.
+Qua? Per humilitatem. Quo fructu? Ego vos
+reficiam. Sed quae est refectio, quam Veritas ascendentibus
+promittit, pervenientibus reddit? An forte
+ipsa est charitas? Ad hanc quippe, ut ait beatus
+Benedictus, ascensis omnibus humilitatis gradibus
+monachus mox perveniet <note>(Reg. cap. 7, grad. 12)</note>.
+Vere dulcis et suavis cibus charitas, quae fessos allevat,
+debiles roborat, moestos laetificat. Jugum denique
+<pb n="0943C"/>
+Veritatis facit suave, et onus leve.</p>
+          </div3>
+<div3>
+            <head>4.</head>
+            <p>
+ Bonus cibus charitas, quae media in ferculo
+Salomonis consistens <note>(Cantic. III, 9, 10)</note>, diversarum
+odore virtutum, velut diversi generis fragrantia
+pigmentorum, esurientes reficit, <emph>561</emph> jucundat reficientes.
+Ibi siquidem apponitur pax, patientia,
+benignitas, longanimitas, gaudium in Spiritu sancto:
+et si quae sunt aliae veritatis seu sapientiae generationes,
+apparantur [ <hi>al.</hi> apponuntur] in illa. Habet
+et humilitas in eodem ferculo suas epulas, panem
+scilicet doloris et vinum compunctionis, quas primo
+Veritas incipientibus offert, quibus utique dicitur: <hi>Surgite postquam sederitis, qui manducatis panem
+doloris 
+ <note>(Psal. CXXVI, 2)</note>
+            </hi>. Habet ibidem contemplatio
+<pb n="0943D"/>
+ex adipe frumenti solidum cibum sapientiae, cum
+vino quod laetificat cor hominis, ad quae Veritas
+perfectos invitat, dicens: <hi>Comedite, amici mei, et
+bibite; et inebriamini, charissimi <note>(Cantic. V, 1)</note>
+            </hi>. <hi>Media,</hi> 
+inquit, <hi>charitate constravit propter filias Jerusalem <note>(id. II, 10)</note>
+            </hi>;
+propter imperfectas videlicet animas,
+quae, dum adhuc illum solidum cibum minus capere
+possunt, lacte interim charitatis pro pane, oleo pro
+vino nutriendae sunt. Quae recte <hi>media</hi> describitur,
+quia ejus suavitas nec incipientibus praesto est,
+prohibente timore; nec perfectis satis est, pro abundantiori
+contemplationis dulcedine. Hi adhuc a
+noxiis carnalium delectationum humoribus, timoris
+amarissima potione purgandi, nondum lactis dulcedinem
+experiuntur: illi jam avulsi a lacte, epulari
+<pb n="0944A"/>
+ab introitu gloriae gloriosius delectantur: solis mediis,
+id est proficientibus, ita jam melleas quasdam
+sorbitiunculas charitatis expertis, ut illis interim pro
+sui teneritudine contenti sint.</p>
+          </div3>
+<div3>
+            <head>5.</head>
+            <p>
+ Primus ergo cibus est humilitatis, purgatorius
+cum amaritudine: secundus charitatis, consolatorius
+cum dulcedine: tertius contemplationis, solidus
+cum fortitudine. Heu mihi, Domine Deus virtutum!
+quousque irasceris super orationem servi tui,
+cibabis me pane lacrymarum, et potum dabis mihi
+in lacrymis? Quis me invitabit ad illud vel medium
+ac dulce charitatis convivium: ubi justi epulantur
+in conspectu Dei, et delectantur in laetitia, ut jam
+non loquens in amaritudine animae meae, dicam Deo,
+Noli me condemnare: sed epulando in azymis sinceritatis
+<pb n="0944B"/>
+et veritatis, laetus cantem in viis Domini,
+quoniam magna est gloria Domini? Bona tamen via
+humilitatis, qua veritas inquiritur, charitas acquiritur,
+generationes sapientiae participantur. Denique
+sicut finis legis Christus, sic perfectio humilitatis,
+cognitio veritatis. Christus cum venit attulit gratiam:
+Veritas quibus innotuerit, dat charitatem. Innotescit
+autem humilibus: humilibus ergo dat gratiam.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III. <hi>Quo ordine gradus humilitatis ad propositum bravium veritatis perducant: et quomodo Christus per passionem didicit misericordiam.</hi> </head>
+<div3>
+            <head>6.</head>
+            <p>
+ Dixi, ut potui, quo fructu humilitatis gradus
+ascendi debeant: dicam, ut potero, quo ordine ad
+propositum bravium veritatis perducant. Sed, quia
+<pb n="0944C"/>
+ipsa quoque veritatis agnitio in tribus gradibus consistit,
+ipsos breviter, si possum, distinguo: quatenus
+ex hoc clarius innotescat, ad quem trium veritatis,
+duodecimus humilitatis pertingat. Inquirimus
+namque veritatem in nobis, in proximis, in sui natura.
+In nobis, nosmetipsos dijudicando: in proximis,
+eorum malis compatiendo: in sui natura mundo
+corde contemplando. Observa sicut numerum, ita
+et ordinem. Primo te doceat Veritas ipsa, quod
+prius in proximis quam in sui debeat inquiri natura.
+Post hoc accipies, cur prius in te, quam in
+proximis inquirere debeas. In numero siquidem beatitudinum,
+quas suo sermone distinxit Dominus,
+prius misericordes, quam mundicordes posuit <note>(Matth.
+V, 7, 8)</note>. Misericordes quippe cito in proximis veritatem
+<pb n="0944D"/>
+deprehendunt, dum suos affectus in illos extendunt:
+dum sic per charitatem se illis conformant,
+ut illorum vel bona, vel mala, tanquam propria
+sentiant. Cum infirmis infirmantur, cum scandalizatis
+uruntur <note>(II Cor. XI, 29)</note>. Gaudere cum
+gaudentibus, flere cum flentibus consueverunt <note>(Rom.
+XII, 15)</note>. Hac charitate fraterna cordis acie mundata,
+veritatem delectantur in sui contemplari <emph>362</emph> 
+natura, pro cujus amore mala tolerant aliena. Qui
+vero ita se fratribus non consociant, sed e contrario
+aut flentibus insultant, aut gaudentibus derogant,
+dum quod in illis est, in se esse non sentiunt, quia
+similiter affecti non sunt, veritatem in proximis
+qualiter deprehendere possunt? Bene namque convenit
+<pb n="0945A"/>
+illis illud vulgare proverbium: Nescit sanus
+quid sentiat aeger, aut plenus quid patiatur jejunus.
+Et aeger aegro, et jejunus jejuno quanto propinquius,
+tanto familiarius compatiuntur. Sicut enim pura veritas
+non nisi puro corde videtur; sic miseria fratris
+verius misero corde sentitur. Sed ut ob alienam
+miseriam miserum cor habeas, oportet ut tuam prius
+agnoscas: ut proximi mentem in tua invenias, et
+ex te noveris, qualiter illi subvenias, exemplo scilicet
+Salvatoris nostri, qui pati voluit, ut compati
+sciret; miser fieri, ut misereri disceret, ut quomodo
+de ipso scriptum est, <hi>Didicit ex his quae passus est
+obedientiam <note>(Hebr. V, 8)</note>
+            </hi>, ita et misericordiam disceret.
+Non quod ante misereri nesciret, cujus misericordia
+ab aeterno, et usque in aeternum: sed, quod
+<pb n="0945B"/>
+natura sciebat ab aeterno, temporali didicit experimento.</p>
+          </div3>
+<div3>
+            <head>7.</head>
+            <p>
+ Sed forte durum tibi videtur, quod dixi Dei
+sapientiam Christum didicisse misericordiam; quasi
+is per quem omnia facta sunt, aliquid aliquando
+ignorasset ex iis quae sunt: maxime cum illud quod
+ex Epistola ad Hebraeos ad id comprobandum commemoravi,
+alio sensu, qui non ita videatur absurdus,
+possit intelligi; ut hoc quod dictum est, <hi>didicit,</hi> 
+non ad ipsum caput referatur in sui persona,
+sed ad corpus ejus, quod est Ecclesia; et ita sit sensus: <hi>Et didicit ex iis quae passus est obedientiam,</hi> 
+ hoc
+est, obedientiam didicit in suo corpore ex iis quae
+passus est in capite. Nam illa mors, illa crux, opprobria,
+sputa, flagella, quae omnia caput nostrum
+<pb n="0945C"/>
+Christus pertransiit, quid aliud corpori ejus, id est
+nobis, quam praeclara obedientiae documenta fuerunt? <hi>Christus</hi> 
+ enim, ait Paulus, <hi>factus est obediens
+Patri usque ad mortem, mortem autem crucis <note>(Philipp.
+II, 8)</note>
+            </hi>. Qua necessitate? Respondeat apostolus Petrus: <hi>Christus passus est pro nobis, vobis relinquens
+exemplum, ut sequamini,</hi> 
+ inquit, <hi>vestigia ejus <note>(I Petr.
+II, 21)</note>
+            </hi>, id est, ut imitemini obedientiam ejus. Ex
+his ergo quae passus est, discimus quanta nos, qui
+puri homines sumus, oporteat pro obedientia perpeti,
+pro qua is, qui et Deus erat, non dubitaverit
+mori. Et hoc modo, inquis, non inconveniens erit,
+si dicatur Christus vel obedientiam, vel misericordiam,
+seu aliquid aliud in suo corpore didicisse:
+dum tamen sibi in sua persona nil, quod se ante latuerit,
+<pb n="0945D"/>
+credatur ex tempore potuisse accedere. Sicque
+ipse sit qui misereri doceat aut obedire, ipse
+qui discat: quia caput et corpus unus est Christus.</p>
+          </div3>
+<div3>
+            <head>8.</head>
+            <p>
+ Non nego hunc intellectum, quin rectus sit:
+sed ex alio loco ipsius Epistolae, superior interpretatio
+videtur approbari, ubi dicitur: <hi>Nusquam enim
+Angelos apprehendit, sed semen Abrahae apprehendit:
+unde debuit per omnia fratribus assimilari, ut misericors
+fieret <note>(Hebr. II, 16, 17)</note>
+            </hi>. Puto quod haec verba
+sic ad caput referenda sunt, ut corpori penitus
+aptari non possint. De Verbo utique Dei dictum est
+quod <hi>non Angelos apprehendit,</hi> hoc est, non in unam
+sibi personam assumpsit, <hi>sed semen Abrahae.</hi> Neque
+enim legitur, Verbum angelus factum est, sed
+<pb n="0946A"/> <hi>Verbum caro factum est 
+ <note>(Joan. I, 14)</note>
+            </hi>, et caro de
+carne Abrahae, juxta promissionem, quae illi primum
+facta est. <hi>Unde,</hi> id est ex qua seminis assumptione, <hi>debuit per omnia fratribus assimilari;</hi> 
+ id est, oportuit
+ac necesse fuit, ut similis nobis passibilis, nostrarum
+omnia, excepto peccato, genera miseriarum
+percurreret. Si quaeris, qua necessitate? <hi>Ut misericors,</hi> 
+inquit, <hi>fieret.</hi> Et hoc, ais, cur non recte ad
+corpus referri potest? Sed audi quod paulo post sequitur: <hi>In eo enim, in quo passus est ipse et tentatus,
+potens est et eis qui tentantur auxiliari 
+ <note>(Hebr. II, 18)</note>
+            </hi>.
+In quibus verbis quid melius intelligi possit non video;
+nisi quod ideo pati ac tentari, omnibusque,
+absque peccato, humanis voluit communicare miseriis
+(quod est per omnia fratribus simulari), ut similiter
+<pb n="0946B"/>
+passis ac tentatis misereri ac compati ipse
+disceret experimento. <emph>563</emph>
+</p>
+          </div3>
+<div3>
+            <head>9.</head>
+            <p>
+ Quo quidem experimento non dico ut sapientior
+efficeretur, sed propinquior videretur: quatenus
+infirmi filii Adam, quos suos fieri et appellari
+fratres non dedignatus est <note>(Ibid. 11)</note>, suas illi infirmitates
+committere non dubitarent, qui sanare illas
+et posset ut Deus, et vellet ut proximus, et cognosceret
+ut eadem passus. Unde Isaias virum eum appellat <hi>dolorum, et scientem infirmitatem 
+ <note>(Isa. LIII,
+3)</note>
+            </hi>; et Apostolus: <hi>Non enim habemus,</hi> inquit, <hi>Pontificem
+qui non possit compati infirmitatibus nostris.</hi> 
+Unde autem possit, indicans adjungit: <hi>Tentatum
+autem per omnia pro similitudine, absque peccato</hi> 
+<pb n="0946C"/> <note>(Hebr. IV, 15)</note>.
+Beatus quippe Deus, beatus Dei Filius,
+in ea forma, qua non rapinam arbitratus est
+esse se aequalem Patri, procul dubio impassibilis,
+priusquam se exinanisset formam servi accipiens <note>(Philipp. II, 6, 7)</note>,
+sicut miseriam vel subjectionem
+expertus non erat, sic misericordiam vel obedientiam
+non noverat experimento. Sciebat quidem per
+naturam, non autem sciebat per experientiam. At
+ubi minoratus est non solum a seipso, sed etiam
+paulo minus ab Angelis, qui et ipsi impassibiles sunt
+per gratiam, non per naturam, usque ad illam formam,
+in qua pati et subjici posset, quod utique (sicut
+dictum est) in sua non posset; et in passione expertus
+est misericordiam, et in subjectione obedientiam.
+Per quam tamen experientiam, non illi (ut
+<pb n="0946D"/>
+dixi) scientia, sed nobis fiducia crevit, dum ex hoc
+misero genere cognitionis, is a quo longe erraveramus,
+factus est propior nobis. Quando enim illi appropinquare
+auderemus, in sua impassibilitate manenti?
+Nunc autem, Apostolo suadente, monemur <hi>cum fiducia</hi> 
+ adire <hi>thronum gratiae ipsius <note>(Hebr. IV,
+16)</note>
+            </hi>, quem nimirum, sicut alibi scriptum est, <hi>languores
+nostros</hi> tulisse, <hi>et dolores nostros</hi> portasse cognoscimus <note>(Isa. LIII, 4)</note>,
+et in eo quo passus est
+ipse, nobis compati posse non dubitamus.</p>
+          </div3>
+<div3>
+            <head>10.</head>
+            <p>
+ Non ergo debet absurdum videri, si dicitur,
+Christum non quidem aliquid scire coepisse, quod
+aliquando nescierit; scire tamen alio modo misericordiam
+ab aeterno per divinitatem, et aliter in tempore
+<pb n="0947A"/>
+didicisse per carnem. Vide ne et simili locutionis
+modo illud dictum sit, quod Dominus requirentibus
+discipulis de die ultimo se nescire respondit.
+Nam quomodo diem illum ille nesciebat, in quo omnes
+sapientiae et scientiae thesauri sunt absconditi? <note>(Coloss. II, 3.)</note> 
+ Cur ergo se scire negabat, quod certum
+est quia nescire non poterat? Numquid forte
+mendaciter eos voluit celare, quod utiliter non valuit
+innotescere? Absit. Sicut nil ignorare poterat,
+cum sapientia sit: sic nec mentiri, cum veritas sit.
+Sed volens discipulos ab inutilis inquisitionis curiositate
+compescere, quod inquirebant, se scire negavit:
+non omnino quidem, sed tali quodam modo,
+quo negare veraciter potuit. Nam, etsi suae divinitatis
+intuitu aeque omnia, praeterita scilicet, praesentia
+<pb n="0947B"/>
+atque futura perlustrando, diem quoque illum palam
+habebat; non tamen ullis carnis suae sensibus experiendo
+agnoverat. Alioquin jam spiritu oris sui Antichristum
+interfecerat, jam auribus sui corporis archangelum
+vociferantem, et tubam sonantem, in
+quo strepitu mortui suscitandi sunt, audierat: jam
+oculis suae carnis oves haedosque, qui ab invicem
+segregandi sunt, perspexerat.</p>
+          </div3>
+<div3>
+            <head>11.</head>
+            <p>
+ Denique ut intelligas, quod illa tantum cognitione,
+quae per carnem fit, se illum diem nescire
+perhibuerit, vigilanter respondens, non ait: Nec ego
+scio, sed <hi>nec ipse,</hi> inquit, <hi>Filius</hi> hominis <hi>scit <note>(Marc. XIII, 32)</note>
+            </hi>.
+Quid est Filius hominis, nisi nomen
+assumptae carnis? Quo siquidem nomine intelligi datur,
+quia dicens se aliquid nescire, non juxta quod
+<pb n="0947C"/>
+Deus est, sed secundum hominem loquitur. Alias
+quippe loquens de se secundum suam divinitatem,
+non Filius, vel Filium hominis; Sed ego, vel Me,
+saepius ponere consuevit, ut ibi: <hi>Amen, amen dico
+vobis, antequam Abraham fieret, ego sum <note>(Joan. VIII,
+58)</note>
+            </hi>. <hi>Ego sum,</hi> ait: non, Filius hominis est. Nec
+dubium, quin de illa essentia diceret, qua ante
+Abraham et sine initio est, non qua post Abraham
+et ex Abraham factus est. Alibi quoque hominum
+de se opinionem a discipulis inquirens, <hi>Quem dicunt,</hi> 
+inquit, <hi>homines esse,</hi> <emph>564</emph> non me, sed <hi>Filium hominis?</hi> 
+Rursus eosdem interrogans, qui de se ipsi
+quoque sentirent: <hi>Vos autem,</hi> non quem Filium
+hominis, sed <hi>quem me,</hi> ait, <hi>esse dicitis?</hi> Carnalis
+<pb n="0947D"/>
+videlicet populi sententiam de carne inquirens, nomen
+carnis, quod proprie est <hi>Filius hominis,</hi> posuit:
+spirituales vero discipulos de sua divinitate interrogans,
+non Filium hominis, sed signanter <hi>me</hi> dixit.
+Quod denique Petrus intelligens, quid per hoc quod
+dixerat, <hi>me.</hi> requisiti fuissent, sua responsione aperuit: <hi>Tu es,</hi> 
+ inquiens, non Jesus filius Virginis, sed <hi>Christus Filius Dei 
+ <note>(Matth. XVI, 13-16)</note>
+            </hi>. Quod utique
+si respondisset, nihilominus veritatem dixisset:
+sed in verbis interrogationis sensum interrogantis
+prudenter advertens, competenter proprieque ad
+interrogata respondit, dicens: <hi>Tu es Christus, Filius
+Dei.</hi> 
+<pb n="0948A"/>
+</p>
+          </div3>
+<div3>
+            <head>12. </head>
+            <p>
+Cum igitur videas Christum in una quidem
+persona duas habere naturas, unam qua semper fuit,
+alteram qua esse coepit; et secundum sempiternum
+suum quidem esse, semper omnia nosse; secundum
+temporalem vero, multa temporaliter expertum
+fuisse: cur fateri dubitas, ut esse in tempore coepit
+ex carne, sic carnis quoque miserias scire coepisse,
+illo duntaxat modo cognitionis, quem docet defectio
+carnis? Quod utique genus scientiae protoplasti sapientius
+feliciusque nescirent, quando id attingere
+nisi stulte misereque non poterant. Sed plasmator
+eorum Deus requirens quod perierat, opus suum
+miseratus prosecutus est, descendens et ipse misericorditer,
+quo illi ceciderant miserabiliter. Voluit
+experiri in se, quod illi faciendo contra se merito
+<pb n="0948B"/>
+paterentur, non simili quidem curiositate, sed mirabili
+charitate: non ut miser cum miseris remaneret,
+sed ut misericors factus miseros liberaret. Factus,
+inquam, misericors, non illa misericordia, quam
+felix manens habuit ab aeterno, sed quam mediante
+miseria reperit in habitu nostro. Porro pietatis opus,
+quod per illam coepit, in ista perfecit: non quod sola
+illa non posset perficere; sed quia nobis non potuit
+absque ista sufficere. Utraque siquidem necessaria;
+sed nobis haec magis congrua fuit. O ineffabilis pietatis
+excogitatio! Quando nos illam miram misericordiam
+cogitaremus, quam praecedens miseria non
+informat? Quando illam adverteremus incognitam
+nobis compassionem, quae non passione praeventa,
+<pb n="0948C"/>
+cum impassibilitate perdurat? Attamen si illa, quae
+miseriam nescit misericordia non praecessisset, ad
+hanc, cujus miseria mater est, non accessisset. Si
+non accessisset, non attraxisset: si non attraxisset,
+non extraxisset. Unde autem extraxit, nisi de lacu
+miseriae, et de luto faecis? <note>(Psal. XXXIX, 3.)</note> Nec illam
+tamen misericordiam deseruit, sed hanc inseruit:
+non mutavit, sed multiplicavit, sicut scriptum est: <hi>Homines et jumenta salvabis, Domine, quemadmodum
+multiplicasti misericordiam tuam, Deus 
+ <note>(Psal. XXXV,
+7, 8)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Primus veritatis gradus est, primum seipsum attendere, seu propriam miseriam agnoscere.</hi> </head>
+<div3>
+            <head>13.</head>
+            <p>
+ Sed jam ad propositum redeamus. Si ergo se
+<pb n="0948D"/>
+miserum fecit, qui miser non erat, ut experiretur
+quod et ante sciebat: quanto magis tu, non dico ut
+te facias quod non es, sed ut attendas quod es, quia
+vere miser es, et sic discas misereri, qui hoc aliter
+scire non potes! ne forte, si proximi malum consideres,
+et tuum non attendas, movearis non ad
+miserationem, sed ad indignationem; non ad adjuvandum,
+sed ad judicandum: denique non ad instruendum
+in spiritu lenitatis, sed ad destruendum
+in spiritu furoris. <hi>Vos, qui spirituales estis,</hi> ait Apostolus, <hi>hujusmodi instruite in spiritu lenitatis.</hi> 
+ Apostoli
+consilium sive etiam praeceptum est, ut mansueto,
+id est eo spiritu fratri aegrotanti subvenias,
+<pb n="0949A"/>
+quo tibi vis subveniri cum aegrotas. Et ut scias qualiter
+erga delinquentem mansuescere possis, <hi>Considerans,</hi> 
+inquit, <hi>teipsum, ne et tu tenteris <note>(Galat.
+VI, 1)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ Considerare libet, quam bene discipulus Veritatis
+ordinem sequatur Magistri. In beatitudinibus,
+quas <emph>565</emph> supra memoravi <note>(num. 6)</note>, sicut prius
+misericordes quam mundicordes, sic prius mites
+quam misericordes pronuntiati sunt <note>(Matth. V, 4, 7,
+8)</note>. Et Apostolus cum spirituales hortaretur ad instruendum
+carnales, adjunxit, <hi>in spiritu lenitatis.</hi> 
+Instructio quippe fratrum pertinet ad misericordes;
+spiritus lenitatis, ad mites. Ac si diceret: Inter misericordes
+deputari non potest, qui in semetipso
+mitis non est. Ecce Apostolus aperte ostendit, quod
+<pb n="0949B"/>
+superius me ostensurum promisi <note>(num. 6)</note>, prius
+videlicet veritatem inquirendam esse in nobis, quam
+in proximis; <hi>considerans,</hi> inquiens, <hi>teipsum,</hi> id est,
+quam facilis ad tentandum, quam pronus ad peccandum:
+quatenus ex tui consideratione mitescas, sicque
+ad succurrendum aliis in spiritu lenitatis accedas.
+Alioquin si monentem non audis discipulum,
+arguentem time Magistrum: <hi>Hypocrita, ejice primum
+trabem de oculo tuo; et sic videbis festucam ejicere
+de oculo fratris tui <note>(Matth. VII, 5)</note>
+            </hi>. Trabes in oculo
+grandis et grossa, superbia in mente est: quae quadam
+corpulentia sui vana, non sana; tumida, non
+solida, oculum mentis obscurat, veritatem obumbrat:
+ita ut, si tuam occupaverit mentem, jam tu te
+<pb n="0949C"/>
+videre, jam te talem, qualis es, vel qualis esse potes,
+non possis sentire: sed qualem te amas, talem te
+vel putes esse, vel speres fore. Quid enim aliud
+est superbia, quam <note>(ut quidam sanctus definit <hi>[S.
+AUGUSTINUS, de Genesi ad litteram, lib. XI, nn.
+24, 25, et alibi]</hi> )</note>, amor propriae excellentiae? Unde et
+nos possumus dicere per contrarium, humilitatem
+propriae et excellentiae esse contemptum. Amor
+vero, sicut nec odium, veritatis judicium nescit. Vis
+judicium Veritatis audire! <hi>Sicut audio, sic judico <note>(Joan. V, 30)</note>
+            </hi>.
+Non sicut odi, non sicut amo, non
+sicut timeo. Est judicium odii, ut illud: <hi>Nos legem habemus,
+et secundum legem nostram debet mori <note>(Joan.
+XIX, 7)</note>
+            </hi>. Est et timoris, ut illud: <hi>Si dimittimus eum
+sic, venient Romani et tollent nostrum locum et genem</hi> 
+<pb n="0949D"/> <note>(Joan. XI, 48)</note>.
+Judicium vero amoris, ut David
+de filio parricida: <hi>Parcite,</hi> inquit, <hi>puero Absalon <note>(II Reg. XVIII, 5)</note>
+            </hi>.
+Et legibus humanis statutum, et
+in causis, tam ecclesiasticis, quam saecularibus servatum
+scio, speciales amicos causantium non debere
+admitti ad judicium: ne vel fallant, vel fallantur
+amore suorum. Quod si culpam amici tuo judicio
+amor illius aut minuit, aut prorsus abscondit:
+quanto magis amor tui tuum contra te judicium
+fallit!</p>
+          </div3>
+<div3>
+            <head>15.</head>
+            <p>
+ Qui ergo plene veritatem in se cognoscere
+curat, necesse est ut semota trabe superbiae, quae
+oculum arcet a luce, ascensiones in corde suo disponat,
+per quas seipsum in seipso inquirat, et sic
+<pb n="0950A"/>
+post duodecimum humilitatis ad primum veritatis
+gradum pertingat. Cum autem veritate inventa in
+se, imo se invento in veritate, dicere potuerit, <hi>Credidi, propter quod locutus sum; ego autem humiliatus
+sum nimis:</hi> 
+ ascendat homo ad cor altum, ut
+exaltetur veritas, et ad gradum secundum perveniens
+dicat in excessu suo: <hi>Omnis homo mendax <note>(Psal. CXV, 10, 11)</note>
+            </hi>.
+Putas, hunc ordinem David
+non tenuit! Putas, hoc non sensit Propheta, quod
+Dominus, quod Apostolus, quod et nos post ipsos,
+et per ipsos sentimus! <hi>Credidi,</hi> inquit, Veritati dicenti: <hi>Qui sequitur me, non ambulat in tenebris <note>(Joan. VIII, 12)</note>
+            </hi>.
+ <hi>Credidi</hi> ergo sequendo, <hi>propter
+quod locutus sum</hi> confitendo. Quid confitendo! Veritatem
+quam cognovi credendo. Postquam autem
+<pb n="0950B"/>
+et credidi ad justitiam, et locutus sum ad salutem, <hi>humiliatus sum nimis,</hi> 
+ hoc est perfecte. Tanquam
+diceret: Quia veritatem cognitam in me confiteri
+contra me non erubui, ad perfectionem humilitatis
+profeci. <hi>Nimis</hi> enim pro Perfecte potest intelligi;
+ut ibi: <hi>In mandatis ejus volet nimis <note>(Psal. CXI, 1)</note>
+            </hi>.
+Quod si quis contendat, <hi>nimis</hi> hic pro Valde positum
+non pro Perfecte, quia et expositores id ipsum videntur
+astruere; neque hoc discordat a sensu Prophetae,
+ut sic sentiamus eum dixisse: Ego quidem,
+cum adhuc veritatem non nossem, aliquid me putabam
+esse, cum nihil essem. At postquam in Christum
+credendo, id est ejus humilitatem imitando,
+veritatem agnovi; ipsa quidem exaltata est in me
+<pb n="0950C"/>
+ex mea confessione: sed ego <hi>humiliatus sum nimis,</hi> 
+id est, valde vilui mihi ex mei consideratione.
+<emph>566</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V. <hi>Secundus gradus veritatis est, ex agnitione propriae infirmitatis, compati miseriae proximi.</hi> </head>
+<div3>
+            <head>16.</head>
+            <p>
+ Humiliatus ergo Propheta in hoc primo gradu
+veritatis, ut ait in alio psalmo: <hi>Et in veritate tua
+humiliasti me <note>(Psal. CXVIII, 75)</note>
+            </hi>; semetipsum attendat,
+et ex propria miseria generalem perpendat:
+sicque ad secundum transiens dicat in excessu suo, <hi>Omnis homo mendax.</hi> 
+ In quo excessu suo? In illo
+procul dubio, quo sese excedens, ac veritati adhaerens,
+seipsum dijudicat. In illo ergo excessu suo
+dicat, non indignando aut insultando, sed miserando
+et compatiendo: <hi>Omnis homo mendax.</hi> Quid est,
+<pb n="0950D"/> <hi>Omnis homo mendax?</hi> 
+ Omnis homo infirmus, omnis
+homo miser et impotens, qui nec se, nec alium possit
+salvare. Sicut dicitur: <hi>Fallax equus ad salutem <note>(Psal. XXXII, 17)</note>
+            </hi>,
+non quod equus aliquem fallat,
+sed quia is seipsum fallit, qui in fortitudine ejus
+confidit: sic omnis homo dicitur mendax, id est
+fragilis, mutabilis, a quo salus non possit vel sua,
+vel aliena sperari: quin potius maledictionem incurrat,
+qui spem suam in homine ponit <note>(Jerem.
+XVII, 5)</note>. Proficiens itaque humilis Propheta per ducatum
+veritatis, quodque in se lugebat videns in
+aliis, dum apponit scientiam, apponat et dolorem,
+ac generaliter, sed veraciter dicat: <hi>Omnis homo
+mendax.</hi> 
+<pb n="0951A"/>
+</p>
+          </div3>
+<div3>
+            <head>17. </head>
+            <p>
+Vide quam longe aliud senserit de se Pharisaeus
+ille superbus. Quid deprompsit in excessu
+suo? <hi>Deus, gratias ago tibi, quia non sum sicut caeteri
+hominum <note>(Luc. XVIII, 11)</note>
+            </hi>. Dum in se singulariter
+exsultat, aliis arroganter insultat. David autem
+aliter. Ait enim: <hi>Omnis homo mendax.</hi> Neminem
+excipit, ne quem decipiat: sciens quia omnes peccaverunt,
+et omnes egent gloria Dei <note>(Rom. III, 23)</note>.
+Pharisaeus se solum decipit, quem solum excipit,
+dum caeteros damnat. Propheta se non excipit a communi
+miseria, ne excipiatur a misericordia: Pharisaeus
+exsufflat misericordiam, dum dissimulat miseriam.
+Propheta affirmat tam de omnibus, quam
+de se: <hi>Omnis homo mendax:</hi> Pharisaeus confirmat
+de omnibus praeter se, <hi>Non sum,</hi> inquiens, <hi>sicut
+<pb n="0951B"/>
+caeteri hominum</hi> Et gratias agit, non quia bonus,
+sed quia solus: non tam de bonis quae habet, quam
+de malis quae in aliis videt. Nondum de suo trabem
+ejecerat, et festucas in oculis fratrum enumerat.
+Nam subdit: <hi>Injusti, captores <note>(Luc. XVIII, 11)</note>
+            </hi>. Non
+frustra, ut arbitror, excessum a proposito feci, si
+utriusque excessus differentiam intellexisti.</p>
+          </div3>
+<div3>
+            <head>18.</head>
+            <p>
+ Jam ad propositum redeundum est. Quos
+itaque veritas sibi jam innotescere, ac per hoc vilescere
+fecit, necesse est, ut cuncta, quae amare
+solebant, et ipsi sibi amarescant. Statuentes nimirum
+se ante se, tales se videre cogunt, quales vel a
+se videri erubescunt. Dumque sibi displicet quod
+sunt, et ad id suspirant quod non sunt, quod utique
+<pb n="0951C"/>
+per se fore diffidunt; vehementer sese lugentes id
+solum consolationis inveniunt, ut severi judices sui,
+qui scilicet amore veri esuriant et sitiant justitiam,
+usque ad contemptum sui districtissimam de se exigant
+satisfactionem, et de caetero emendationem.
+Sed, cum se ad id sufficere non posse conspiciunt
+(cum enim fecerint omnia quae mandata fuerint sibi,
+servos se inutiles dicunt <note>(Luc. XVII, 10)</note>, de justitia ad
+misericordiam confugiunt. Ut autem illam consequantur,
+consilium Veritatis sequuntur: <hi>Beati misericordes,
+quoniam ipsi misericordiam consequentur <note>(Matth. V, 7)</note>
+            </hi>.
+Et hic est secundus gradus veritatis,
+quo eam in proximis inquirunt; dum de suis aliorum
+necessitates exquirunt; dum ex iis quae patiuntur,
+patientibus compati sciunt.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI. <hi>Tertius gradus veritatis, mundare oculum cordis ad contemplanda coelestia et divina.</hi> </head>
+<div3>
+            <head>19.</head>
+            <p>
+ In his ergo tribus quae dicta sunt, id est in
+<pb n="0951D"/>luctu poenitentiae, in desiderio justitiae, in operibus
+misericordiae si perseverant, a tribus impedimentis,
+quae <emph>567</emph> aut ignorantia, aut infirmitate, aut studio
+contraxerunt, cordis aciem mundant, quo per contemplationem
+ad tertium veritatis gradum pertranseant.
+Hae sunt viae, quae videntur hominibus bonae,
+illis duntaxat exceptis, qui laetantur cum male fecerint,
+et exsultant in rebus pessimis <note>(Prov. II, 14)</note>, ac
+se de infirmitate vel ignorantia tegunt ad excusandas
+excusationes in peccatis <note>(Psal. CXL, 4)</note>. Sed
+frustra sibi de infirmitate, vel ignorantia blandiuntur,
+<pb n="0952A"/>
+qui ut liberius peccent, libenter ignorant, vel infirmantur.
+Putas, primo homini profuit, licet ipse non
+libenter peccavit, quod se per uxorem, tanquam per
+carnis infirmitatem, defendit <note>(Gen. III, 12)</note>? aut
+primi martyris lapidatores, quoniam aures suas continuerunt <note>(Act. VII, 56)</note>,
+per ignorantiam excusabiles
+erunt? Qui igitur studio et amore peccandi a veritate
+se sentiunt alienatos, infirmitate et ignorantia
+pressos; studium in gemitum, amorem in moerorem
+convertant, infirmitatem carnis fervore justitiae vincant,
+ignorantiam liberalitate repellant: ne si nunc
+egentem, nudam et infirmam veritatem ignorant,
+cum potestate magna et virtute venientem, terrentem,
+arguentem, sero cum rubore cognoscant, frustra
+cum tremore respondeant: <hi>Quando te vidimus egere,
+<pb n="0952B"/>
+et non ministravimus tibi? <note>(Matth. XXV, 44.)</note>
+            </hi> Cognoscetur
+certe Dominus judicia faciens <note>(Psal. IX, 17)</note>, qui
+nunc ignoratur misericordiam quaerens. Denique
+videbunt in quem transfixerunt <note>(Joan. XIX, 37)</note>:
+similiter et avari quem contempserunt. Ab omni
+ergo labe, infirmitate, ignorantia studiove contracta,
+flendo, justitiam esuriendo, operibus misericordiae
+insistendo, mundatur oculus cordis, cui se in sui
+puritate Veritas videndam promittit: <hi>Beati mundo
+corde, quoniam ipsi Deum videbunt <note>(Matth. V, 8)</note>
+            </hi>.
+Cum sint itaque tres gradus seu status veritatis, ad
+primum ascendimus per laborem humilitatis, ad
+secundum per affectum compassionis, ad tertium
+per excessum contemplationis. In primo veritas reperitur
+severa; in secundo, pia; in tertio, pura. Ad
+<pb n="0952C"/>
+primum ratio ducit, qua nos discutimus; ad secundum
+affectus perducit, quo aliis miseremur; ad
+tertium puritas rapit, qua ad invisibilia sublevamur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Quomodo sancta Trinitas hos tres veritatis gradus in nobis operetur.</hi> </head>
+<div3>
+            <head>20.</head>
+            <p>
+ Interlucet hic mihi mira quaedam ac divisa
+individuae Trinitatis operatio, si quo modo tamen ab
+homine sedente in tenebris ineffabilis illa possit capi
+cooperantium sibi personarum divisio. In primo siquidem
+gradu Filius, in secundo Spiritus sanctus,
+in tertio mihi Pater operari videtur. Vis audire Filii
+operationem? <hi>Si ego,</hi> inquit, <hi>lavi vobis pedes Dominus
+<pb n="0952D"/>
+et magister, quanto magis et vos debetis alter alterius
+lavare pedes? <note>(Joan. XIII, 14.)</note>
+            </hi> Tradebat discipulis
+humilitatis formam veritatis Magister, qua in
+primo gradu primum eis veritas innotesceret. Attende
+et opus Spiritus sancti: <hi>Charitas Dei diffusa
+est in cordibus nostris per Spiritum sanctum qui datus
+est nobis <note>(Rom. V, 5)</note>
+            </hi>. Charitas quippe donum est
+Spiritus sancti, qua fit ut qui sub disciplina Filii per
+humilitatem ad primum usque gradum veritatis jam
+profecerunt, ad secundum per compassionem proximi,
+sub magisterio Spiritus sancti perveniant.
+Audi et de Patre, <hi>Beatus es, Simon Bar Jona, quia
+caro et sanguis non revelavit tibi, sed Pater meus qui est
+in coelis <note>(Matth. XVI, 17)</note>
+            </hi>; et illud, <hi>Pater filiis notam faciet
+veritatem suam <note>(Isai. XXXVIII, 19)</note>
+            </hi>; et, <hi>Confiteor tibi,
+<pb n="0953A"/>
+Pater, quia abscondisti haec a sapientibus, et revelasti
+ea parvulis <note>(Matth. XI, 25)</note>
+            </hi>: Vides quia quos verbo et
+exemplo prius Filius humiliavit, super quos deinde
+Spiritus sanctus charitatem effudit, hos tandem in
+gloria Pater recepit? Filius facit discipulos, Paraclitus
+consolatur amicos, Pater exaltat filios. Quia
+vero non solum Filius, sed et Pater et Spiritus
+sanctus veraciter Veritas appellantur; constat quod
+una eademque Veritas, servata proprietate personarum,
+tria haec in tribus gradibus operatur. Primo
+scilicet instruit, ut magister: secundo consolatur,
+ut amicus vel frater: tertio astringit, ut filios
+pater. <emph>568</emph>
+</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Dei quippe Filius, Verbum scilicet ac
+sapientia Patris, primum quidem illam animae nostrae
+<pb n="0953B"/>
+potentiam, quae ratio dicitur, cum reperit carne
+depressam, peccato captivam, ignorantia caecam,
+exterioribus deditam; clementer assumens, potenter
+erigens, prudenter instruens, introrsum trahens,
+ac mirabiliter utens tanquam pro se vicaria, ipsam
+sibi judicem statuit, ita ut pro reverentia Verbi cui
+conjungitur, ipsa sui accusatrix, testis, et judex,
+contra se Veritatis fungatur officio. Ex qua prima
+conjunctione Verbi et rationis humilitas nascitur.
+Aliam deinde partem, quae dicitur voluntas, veneno
+quidem carnis infectam, sed jam ratione discussam,
+Spiritus sanctus dignanter visitans, suaviter pugnans,
+ardenter afficiens, misericordem facit: ita ut more
+pellis, quae uncta extenditur, ipsa quoque unctione
+perfusa coelesti usque ad inimicos per affectum dilatetur.
+<pb n="0953C"/>
+Et sic ex hac secunda conjunctione Spiritus
+Dei et voluntatis humanae, charitas efficitur. Utramque
+vero partem, rationem scilicet et voluntatem,
+alteram verbo veritatis instructam, alteram spiritu
+veritatis afflatam; illam hyssopo humilitatis aspersam,
+hanc igne charitatis succensam; tandem jam
+perfectam animam, propter humilitatem sine macula,
+propter charitatem sine ruga; cum nec voluntas
+rationi repugnat, nec ratio veritatem dissimulat,
+gloriosam sibi sponsam Pater conglutinat: ita
+ut nec ratio de se, nec voluntas de proximo cogitare
+sinatur, sed hoc solum beata illa anima dicere delectetur, <hi>Introduxit me Rex in cubiculum suum.</hi> 
+ Digna
+certe, quae de schola humilitatis, in qua primum
+<pb n="0953D"/>
+sub magistro Filio ad seipsam intrare didicit, juxta
+comminationem ad se factam, <hi>Si ignoras te, egredere
+et pasce haedos tuos <note>(Cantic. I, 3, 7)</note>
+            </hi>; digna
+ergo, quae de schola illa humilitatis duce Spiritu
+sancto in cellaria charitatis (quae nimirum proximorum
+pectora intelligenda sunt) per affectionem
+introduceretur; unde suffulta floribus, ac stipata
+malis, bonis scilicet moribus et virtutibus sanctis,
+ad Regis demum cubiculum, cujus amore languet,
+admitteretur. Ibi modicum, hora videlicet quasi dimidia,
+silentio facto in coelo, inter desideratos amplexus
+suaviter quiescens, ipsa quidem dormit, sed
+cor ejus vigilat, quo utique interim veritatis arcana
+rimatur: quorum postmodum memoria statim ad
+se reditura pascatur. Ibi videt invisibilia, audit ineffabilia,
+<pb n="0954A"/>
+quae non licet homini loqui. Excedunt
+quippe omnem illam, quam nox nocti indicat, scientiam:
+dies tamen diei eructat verbum, et inter sapientes
+sapientiam loqui et spiritualibus spiritualia
+licet conferri.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>Gradus iidem in raptu sancti Pauli declarantur.</hi> </head>
+<div3>
+            <head>22.</head>
+            <p>
+ Putas, hos gradus Paulus non transierat, qui
+usque ad tertium coelum se raptum fuisse testatur? <note>(II Cor. XII, 2.)</note> 
+ Sed quare raptum, et non potius
+ductum? Ut videlicet si tantus Apostolus raptum
+se dicit fuisse, quo nec doctus scivit, nec ductus
+potuit ire; me, qui procul dubio minor sum Paulo,
+ad tertium coelum nulla mea virtute, nullo meo labore
+<pb n="0954B"/>
+pervenire posse praesumam: ne vel de virtute
+confidam, vel pro labore diffidam. Qui enim docetur
+aut ducitur, ex hoc ipso quod docentem vel ducentem
+sequitur, laborare convincitur, et aliquid ex
+se agit, ut ad destinatum locum vel sensum pertrabatur,
+ita ut dicere possit: <hi>Non autem ego, sed
+gratia Dei mecum <note>(I Cor. XV, 10)</note>
+            </hi>. Qui vero rapitur,
+non suis viribus, sed alienis innixus, tanquam nescius
+quocunque portatur, nec de toto in se, nec de
+parte gloriatur, ubi nec per se, nec cum alio aliquid
+operatur. Ad primum itaque sive ad medium
+coelum ductus vel adjutus Apostolus ascendere potuit:
+ad tertium autem ut perveniret, rapi oportuit.
+Nam ad hoc et Filius legitur descendisse, ut vocaret
+et juvaret ascensuros ad primum: et Spiritus sanctus
+<pb n="0954C"/>
+missus fuisse, qui perduceret ad secundum.
+Pater vero, licet Filio et Spiritui sancto semper
+cooperetur, nunquam tamen aut de coelo descendisse,
+aut <emph>569</emph> ad terras legitur missus fuisse. Lego
+certe, quod <hi>misericordia Domini plena est terra <note>(Psal. XXXII, 5)</note>
+            </hi>;
+et, <hi>Pleni sunt coeli et terra gloria
+tua,</hi> et multa hujusmodi. Lego et de Filio, <hi>Postquam
+venit plenitudo temporis, misit Deus Filium suum <note>(Galat. IV, 4)</note>
+            </hi>.
+Et ipse Filius loquitur de se, <hi>Spiritus
+Domini misit me <note>(Isa. LXI, 1)</note>
+            </hi>. Et per eumdem prophetam: <hi>Et nunc,</hi> 
+ inquit, <hi>Dominus misit me et
+Spiritus ejus <note>(Isa. XLVIII, 16)</note>
+            </hi>. Lego et de Spiritu
+sancto, <hi>Paraclitus autem Spiritus sanctus, quem
+mittet Pater in nomine meo <note>(Joan. XIV, 26)</note>
+            </hi>; et, <hi>Cum
+<pb n="0954D"/>
+assumptus fuero, mittam vobis eum <note>(Joan. XVI, 7)</note>
+            </hi>, haud
+dubium quin Spiritum sanctum. Patrem autem in
+sua persona, licet nusquam non sit, nusquam tamen
+invenio nisi in coelis, ut in Evangelio, <hi>Et Pater
+meus qui in coelis est <note>(Matth. XXIII, 9)</note>
+            </hi>; et in oratione, <hi>Pater noster qui es in coelis 
+ <note>(Matth. VI, 9)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>23.</head>
+            <p>
+ Unde nimirum colligo, quod quia Pater non
+descendit, Apostolus ut eum videret, ad tertium
+coelum ascendere quidem non potuit, quo tamen se
+raptum memoravit. Denique, <hi>Nemo ascendit in coelum,
+nisi qui descendit de coelo Filius hominis <note>(Joan.
+III, 13)</note>
+            </hi>. Et ne putes de primo dictum vel secundo, dicit
+tibi David: <hi>A summo coelo egressio ejus <note>(Psal. XVIII,
+7)</note>
+            </hi>. Ad quod iterum non subito raptus, non furtim
+sublatus, sed, <hi>Videntibus,</hi> inquit, <hi>illis,</hi> id est Apostolis,
+<pb n="0955A"/> <hi>elevatus est 
+ <note>(Act. I, 9)</note>
+            </hi>. Non sicut Elias, qui
+unum <note>(IV Reg. II)</note>; non sicut Paulus, qui nullum
+(vix enim vel seipsum testem aut arbitrum habere
+potuit, ipso perhibente, <hi>Nescio, Deus scit <note>II Cor.XII, 2]</note>
+            </hi>):
+sed ut Omnipotens, qui quando voluit descendit,
+quando voluit ascendit, pro suo arbitrio arbitros
+et spectatores, locum et tempus, diem et horam
+exspectans, <hi>videntibus illis,</hi> quos scilicet tanta visione
+dignatur, <hi>elevatus est.</hi> Raptus est Paulus,
+raptus est Elias, translatus est Enoch <note>(Eccli. XLIV,
+16)</note>: Redemptor vero noster legitur <hi>elevatus,</hi> hoc
+est, ex seipso levatus, non aliunde adjutus. Denique
+non currus vehiculo, non angeli adminiculo, sed
+propria virtute subnixum <hi>suscepit eum nubes ab oculis
+eorum <note>(Act. I, 9)</note>
+            </hi>. Cur hoc? An fessum juvit? an
+<pb n="0955B"/>
+pigrum impulit? an cadentem sustinuit? Absit. Sed
+suscepit eum ab oculis carnalibus discipulorum:
+qui, etsi Christum noverant secundum carnem, sed
+ultra jam non noscerent. Quos ergo per humilitatem
+ad primum coelum Filius vocat, hos in secundo per
+charitatem Spiritus aggregat, ad tertium per contemplationem
+Pater exaltat. Primo humiliantur in
+veritate, et dicunt, <hi>In veritate tua humiliasti me <note>(Psal. CXVIII, 75)</note>
+            </hi>.
+Secundo congaudent veritati, et
+psallunt, <hi>Ecce quam bonum, et quam jucundum habitare
+fratres in unum? <note>(Psal. CXXXII, 1.)</note>
+            </hi> De charitate
+quippe scriptum est, <hi>Congaudet autem, veritati <note>(I Cor. XIII, 6)</note>
+            </hi>.
+Tertio ad arcana veritatis rapiuntur,
+et aiunt, <hi>Secretum meum mihi, secretum meum
+mihi <note>(Isa. XXIV, 16)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX. <hi>Gemitus et suspiria sancti Bernardi, ad Veritatem anhelantis.</hi> </head>
+<div3>
+            <head>24.</head>
+            <p>
+ Sed quid ego miser superflua magis loquacitate,
+<pb n="0955C"/>quam spiritus vivacitate duos coelos superiores
+percurro, qui manibus pedibusque repens adhuc
+sub inferiore laboro? Ad quod tamen jam, ipso juvante,
+quo et vocante, mihi scalam erexi. Illic siquidem
+iter est, quo ostendat mihi salutare Dei. Jam
+Dominum desuper innixum suspicio, jam ad vocem
+veritatis exsulto. Vocavit me, et ego respondi illi: <hi>Operi manuum tuarum porriges dexteram 
+ <note>(Job XIV,
+15)</note>
+            </hi>. Tu quidem, Domine, gressus meos dinumeras,
+sed ego lentus ascensor, fessus viator, diverticula
+<pb n="0955D"/>
+quaero. Vae mihi, si tenebrae me comprehendant,
+aut si mea fuga fiat in hieme, vel in Sabbato: dum
+nunc ad lucem, cum tempus acceptabile et dies
+salutis sunt, proficisci dissimulo. Quid moror? Ora
+pro me, fili, frater, socie, et particeps profectus
+mei, si quis est, in Domino. Ora Omnipotentem,
+quatenus sic pigrum roboret pedem, ut tamen non
+veniat mihi pes superbiae. Etsi enim pes piger, ut ad
+veritatis gradum ascendat, idoneus non est: tolerabilior
+tamen est isto, qui in ea stare non potest, ut
+habes ibi: <hi>Expulsi sunt, nec potuerunt stare <note>(Psal.
+XXXV, 12, 13)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>25.</head>
+            <p>
+ Et hoc quidem de superbis. Sed quid de illorum
+capite? quid de illo, qui dicitur <hi>rex super omnes
+filios superbiae? <note>(Job. XLI, 25.)</note>
+            </hi> Et <hi>ipse,</hi> inquit,
+<pb n="0956A"/> <hi>in veritate non stetit 
+ <note>(Joan. VIII, 44)</note>
+            </hi>: et alibi, <emph>570</emph> <hi>Videbam Satanam sicut fulgur cadentem de coelo <note>(Luc. X, 18)</note>
+            </hi>.
+Quare hoc, nisi propter superbiam?
+Vae mihi, si et me viderit, qui alta a longe cognoscit,
+superbientem; et illam in me terribilem intonet
+vocem: Tu quidem filius Excelsi eras, sed sicut
+homo morieris, et sicut unus de principibus cades <note>(Psal. LXXXI, 6, 7)</note>.
+Quis non ab hujus tonitrui voce
+formidet? O quam salubrius ad tactum angeli nervus
+femoris Jacob emarcuit <note>(Gen. XXXII, 25)</note>, quam
+angeli superbientis intumuit, evanuit, ruit. Utinam
+et meum nervum angelus tangat ut marcescat, si
+forte ex hac infirmitate incipiam proficere, qui ex
+mea firmitate non possum nisi deficere. Lego profecto: <hi>Quod infirmum est Dei, fortius est hominibus</hi> 
+<pb n="0956B"/> <note>(I Cor. I, 25)</note>.
+Sic quoque Apostolus de suo nervo
+conquestus, quem angelus non Domini, sed Satanae
+colaphizabat, responsum audivit: <hi>Sufficit tibi gratia
+mea; nam virtus in infirmitate perficitur.</hi> Quae virtus?
+Ipse Apostolus respondeat: <hi>Libenter gloriabor
+in infirmitatibus meis, ut inhabitet in me virtus
+Christi <note>(II Cor. XII, 9)</note>
+            </hi>. Sed nondum forsitan intelligis,
+de qua specialiter dixerit, quia Christus omnes
+virtutes habuit. Sed, cum omnes habuerit, prae
+omnibus tamen unam, id est humilitatem, nobis in
+se commendavit, cum ait: <hi>Discite a me quia mitis
+sum et humilis corde <note>(Matth. XI, 29)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>26.</head>
+            <p>
+ Libenter igitur et ego, Domine Jesu, gloriabor,
+si potero, in mea infirmitate, in mei nervi
+contractione, ut tua virtus, id est humilitas, perficiatur
+<pb n="0956C"/>
+in me. Nam sufficit mihi gratia tua, cum defecerit
+virtus mea. Pedem profecto gratiae fortiter
+figens, et meum qui infirmus est, leniter trahens,
+securus ascendam per scalam humilitatis: donec
+veritati adhaerens, ad latitudinem transeam charitatis.
+Tunc psallam cum gratiarum actione, et dicam: <hi>Statuisti in loco spatioso pedes meos 
+ <note>(Psal. XXX, 9)</note>
+            </hi>.
+Sic arcta via cautius inceditur strictim, sic ardua
+scala tutius pedetentim ascenditur; sic miro modo
+licet pigrius, ad veritatem tamen firmius claudicando
+ascenditur. Sed, heu mihi! quia incolatus
+meus prolongatus est? <note>(Psal. CXIX, 5.)</note> Quis dabit
+mihi pennas sicut columbae, quibus celerius volem
+ad veritatem, ut jam requiescam in charitate? <hi>(Psal.
+<pb n="0956D"/>
+LIV, 7.)</hi> Quae quoniam desunt, deduc me, Domine,
+in via tua, et ingrediar in veritate tua, et veritas
+liberabit me. Vae mihi quod de illa descendi. Nisi
+enim prius leviter, inaniter descendissem; in ascendendo
+tamdiu, tam graviter non laborassem. Sed
+quid dico, Descendi? nam fortasse rectius Cecidi
+dixerim. Nisi quia forte sicut nemo repente fit summus,
+sed gradatim quisque ascendit; sic nemo repente
+fit pessimus, sed paulatim descendit. Alioquin
+quomodo stabit illud: <hi>Impius cunctis diebus vitae
+suae superbit? <note>(Job XV, 20.)</note>
+            </hi> Denique sunt viae, quae
+videntur hominibus bonae, et tamen ad malum deducunt.</p>
+          </div3>
+<div3>
+            <head>27.</head>
+            <p>
+ Est ergo via descensionis, sicut et ascensionis.
+Et via est ad bonum, et via est ad malum. Cave
+<pb n="0957A"/>
+malam, elige bonam. Si per te non potes, ora cum
+propheta, et dic: <hi>Viam iniquitatis amove a me.</hi> 
+Quomodo? <hi>Et de lege tua miserere mei;</hi> illa scilicet
+lege, quam dedisti delinquentibus in via, id est derelinquentibus
+veritatem, de quibus unus ego sum,
+qui vere a veritate cecidi. Sed numquid qui cadit,
+non adjiciet ut resurgat? Propter hoc <hi>viam veritatis
+elegi,</hi> qua ascendam humiliatus, unde superbiendo
+descendi. Ascendam, inquam, et psallam: <hi>Bonum
+mihi, Domine, quod humiliasti me; bonum mihi lex
+oris tui super millia auri et argenti <note>(Psal. CXVIII, 29, 30, 71, 72)</note>
+            </hi>. Duas tibi vias videtur David proposuisse,
+sed unam noveris esse; ipsam tamen a se diversam,
+et diversis nominibus appellatam, aut <hi>iniquitatis</hi> 
+propter descendentes, aut <hi>veritatis</hi> propter ascendentes:
+<pb n="0957B"/>
+quia et iidem gradus sunt ascendentium in
+solium, et descendentium; et eadem via accedentium
+ad civitatem, et recedentium; et unum ostium
+<pb n="0958A"/>
+est ingredientium domum, et egredientium. Per
+unam denique scalam ascendentes Angeli, et descendentes
+Jacob apparuerunt <note>(Gen. XXVIII, 12)</note>. Quo
+spectant haec? Ut videlicet si ad veritatem redire
+cupis, non necesse sit viam quaerere novam quam
+non nosti, sed notam qua descendisti: quatenus
+reciprocis gressibus tua ipse vestigia sequens, per
+eosdem gradus humiliatus ascendas, per quos superbiendo <emph>571</emph> 
+ descenderas: ita ut qui duodecimus
+superbiae fuit descendenti, primus humilitatis sit
+ascendenti; undecimus, inveniatur secundus; decimus,
+tertius; nonus, quartus; octavus, quintus;
+septimus, sextus; sextus, septimus; quintus, octavus;
+quartus, nonus; tertius, decimus; secundus,
+undecimus; primus, duodecimus. Quibus superbiae
+<pb n="0958B"/>
+gradibus in te inventis, imo recognitis, jam non laboras
+in quaerendo viam humilitatis.
+</p>
+          </div3>
+        </div2>
+      </div1>
+
+<div1>
+        <head>ALTERA PARS TRACTATUS DE DUODECIM GRADIBUS SUPERBIAE.</head>
+<div2>
+          <head>CAPUT X. <hi>De primo superbiae gradu, qui est curiositas</hi> .</head>
+<div3>
+            <head>28.</head>
+            <p>
+ Primus itaque superbiae gradus est curiositas.
+<pb n="0957B"/>Hanc autem talibus indiciis deprehendes. Si videris
+monachum, de quo prius bene confidebas, ubicunque
+stat, ambulat, sedet, oculis incipientem vagari,
+<pb n="0957C"/>
+caput erectum, aures portare suspensas; e motibus
+exterioris hominis interiorem immutatum agnoscas.
+Vir quippe perversus annuit oculo, terit pede, digito
+loquitur <note>(Prov. VI, 12, 13)</note>; et ex insolenti corporis
+motu, recens animae morbus deprehenditur: quam,
+dum a sui circumspectione torpescit incuria sui,
+curiosam in alios facit. Quia enim seipsam ignorat,
+foras mittitur, ut haedos pascat <note>(Cantic. I, 7)</note>. Haedos
+quippe, qui peccatum significant, recte oculos auresque
+appellaverim: quoniam sicut mors per peccatum
+in orbem, sic per has fenestras intrat ad
+mentem. In his ergo pascendis se occupat curiosus,
+dum scire non curat qualem se reliquerit intus.
+Et vere si te vigilanter, homo, attendas, mirum est
+<pb n="0957D"/>
+si ad aliud unquam intendas. Audi, curiose, Salomonem;
+audi, stulte, Sapientem. <hi>Omni custodia,</hi> 
+inquit, <hi>custodi cor tuum <note>(Prov. IV, 23)</note>
+            </hi>: ut omnes
+videlicet sensus tui vigilent ad id, unde vita procedit,
+custodiendum. Quo enim a te, o curiose, recedis?
+Cui te interim committis? Utquid audes oculos
+levare ad coelum, qui peccasti in coelum? Terram
+intuere, ut cognoscas teipsum. Ipsa te tibi repraesentabit,
+quia terra es, et in terram ibis.</p>
+          </div3>
+<div3>
+            <head>29.</head>
+            <p>
+ Duabus tamen ex causis inculpabiliter oculos
+levas, ut vel petas auxilium, vel impendas. Levavit
+oculos David in montes, ut peteret <note>(Psal. CXX, 1)</note>:
+levavit et Dominus super turbas, ut impenderet <note>(Joan. VI, 5)</note>.
+Alter miserabiliter, alter misericorditer,
+<pb n="0958B"/>
+ambo inculpabiliter. Tu quoque si locum,
+tempus et causam considerans, tua vel fratris necessitate
+oculos levas; non solum non culpo, sed et
+plurimum laudo. Hoc enim excusat miseria, illud
+commendat misericordia. Sin alias, non Prophetae,
+non Domini, sed Dinae aut Evae, imo ipsius Satanae
+<pb n="0958C"/>
+imitatorem te dixerim. Dina namque dum ad pascendos
+haedos egreditur, ipsa patri, et sua sibi virginitas
+rapitur <note>(Gen. XXXIV, 1, 2)</note>. O Dina, quid necesse
+est ut videas mulieres alienigenas? Qua necessitate?
+qua utilitate? An sola curiositate? Etsi
+tu otiose vides, sed non otiose videris. Tu curiose
+spectas, sed curiosius spectaris. Quis crederet tunc
+illam tuam curiosam otiositatem, vel otiosam curiositatem,
+fore post sic non otiosam, sed tibi, tuis,
+hostibusque tam perniciosam?</p>
+          </div3>
+<div3>
+            <head>30.</head>
+            <p>
+ Tu quoque, o Eva, in paradiso posita es, ut
+cum viro tuo opereris et custodias illum: si injunctum
+perfeceris, quandoque transitura ad melius,
+ubi nec opus sit te in aliquo opere occupari, nec de
+<pb n="0958D"/>
+custodia sollicitari. Omne lignum paradisi tibi conceditur
+ad vescendum, praeter illud, quod dicitur <hi>scientiae boni et mali 
+ <note>(Gen. II, 15-17)</note>
+            </hi>. Si enim caetera
+bona sunt, et sapiunt bonum, quid est opus edere
+de ligno, quod sapit etiam malum? <hi>Non plus sapere,
+quam oportet sapere <note>(Rom. XII, 3)</note>
+            </hi>. Sapere enim malum,
+sapere non est, sed desipere. Serva ergo commissum,
+exspecta promissum; cave prohibitum,
+ne perdas concessum. Quid tuam mortem tam intente
+intueris? Quid illo tam crebro vagantia lumina
+jacis? Quid spectare libet, quod manducare
+non licet? Oculos, inquis, tendo, non manum. <emph>572</emph> 
+ Non est interdictum ne videam, sed ne comedam.
+An non licet oculos quo volo levare, quos Deus
+<pb n="0959A"/>
+in mea posuit potestate? Ad quod Apostolus: <hi>Omnia
+mihi licent, sed non omnia expediunt <note>(I Cor. VI, 12)</note>
+            </hi>.
+Etsi culpa non est, culpae tamen indicium est. Nisi
+enim mens minus se curiose servaret, tua curiositas
+tempus vacuum non haberet. Etsi culpa non est,
+culpae tamen occasio est, et indicium commissae,
+et causa est committendae. Te enim intenta ad aliud,
+latenter interim in cor tuum serpens illabitur,
+blande alloquitur. Blanditiis rationem, mendaciis
+timorem compescit. <hi>Nequaquam,</hi> inquiens, <hi>morieris <note>(Gen. III, 4)</note>
+            </hi>. Auget curam, dum incitat gulam:
+acuit curiositatem, dum suggerit cupiditatem. Offert
+tandem prohibitum, et aufert concessum: porrigit
+pomum, et subripit paradisum. Hauris virus peritura,
+et perituros paritura. Perit salus, non destitit
+<pb n="0959B"/>
+partus. Nascimur, morimur: ideoque nascimur morituri,
+quia prius morimur nascituri. Propterea
+grave jugum super omnes filios tuos usque in hodiernum
+diem.</p>
+          </div3>
+<div3>
+            <head>31.</head>
+            <p>
+ Sed et tu, signaculum similitudinis, non in
+paradiso, sed in deliciis paradisi Dei positus es <note>(Ezech. XXVIII, 12, 13)</note>.
+Quid amplius quaerere debes?
+Plenus ergo sapientia, et perfectus decore, altiora
+te ne quaesieris, et fortiora te ne scrutatus fueris.
+Sta in te, ne cadas a te, si ambulas in magnis et in
+mirabilibus super te. Sed quid interim ex obliquo
+intendis ad aquilonem? Jam te video, jam te perspicio
+nescio quae supra te curiosius alta rimantem. <hi>Ponam,</hi> 
+ inquit, <hi>sedem meam ad aquilonem <note>(Isa. XIV,
+13)</note>
+            </hi>. Caeteris astantibus coelicolis, dum tu solus sedere
+<pb n="0959C"/>
+affectas, fratrum concordiam, totius coelestis
+patriae pacem, ipsius, quantum in te est, quietem
+Trinitatis infestas. Quo te tua, miser, curiositas
+ducit, ut praesumptione singulari non dubites civibus
+scandalum, injuriam facere Regi? Millia millium
+ministrant ei, et decies centena millia assistunt
+ei <note>(Dan VII, 10)</note>, ubi nemo sedere perhibetur, nisi
+solus is qui sedet super Cherubim, cui a caeteris
+ministratur: et tu nescio quae prae caeteris perspiciendo
+differentius, curiosius inquirendo, irreverentius
+pervadendo, sedem tibi collocas in coelo, ut sis
+similis Altissimo? Quo fine? qua fiducia? Metire,
+insipiens, vires, pensa finem, excogita modum.
+Sciente hoc Altissimo praesumis, an nesciente? volente,
+<pb n="0959D"/>
+an non volente? Sed quomodo malum quodcunque
+machinaris, aut velle, aut ignorare potest,
+cujus optima voluntas, cujus perfecta scientia est?
+Numquid autem et scire, et nolle non dubitas, sed
+non posse resistere putas? At vero nisi te conditum
+esse dubitaveris, dubitare te non crediderim de
+omnipotentia, sive de omnimoda scientia ac bonitate
+Conditoris, qui te de nihilo potuit, talem scivit,
+tantum condere voluit. Quomodo ergo Deum consentire
+aestimas, quod fieri nolit, ac refellere possit?
+An forte in te video compleri, imo a te initiari,
+quod post te, et per te a tui similibus in terris frequentatum
+solet vulgariter dici: Privatus dominus
+temerarios nutrit [ <hi>al. add.</hi> satellites]? An oculos
+tuus nequam est, quia ille bonus? De cujus bonitate
+<pb n="0960A"/>
+dum fiduciam nefariam sumis, factus es et contra
+scientiam impudens, et contra potentiam audax.</p>
+          </div3>
+<div3>
+            <head>32.</head>
+            <p>
+ Hoc est enim, o impie, hoc est quod cogitas;
+haec est iniquitas, quam meditaris in cubili tuo, et
+dicis: Putas Creator opus suum destruat? Scio quidem
+quia non latet Deum qualiscunque cogitatio
+mea: Deus enim est. Nec placet ei talis cogitatio
+mea, quia bonus est. Sed nec si velit effugiam manus
+ejus, quia potens est. Nunquid tamen mihi timendum
+est? Si enim cum bonus sit, non potest illi
+placere malum meum, quanto minus suum? Meum
+quippe dixerim contra ejus voluntatem aliquid velle:
+suum autem, si vindicet sese. Tam ergo quodeunque
+scelus non valet velle ulcisci, quam nec vult, nec
+valet sua bonitate privari. Fallis te, miser, fallis te,
+<pb n="0960B"/>
+non Deum. Te, inquam, fallis, et mentitur iniquitas
+sibi, non Deo. Dolose quidem agis, sed in conspectu
+ejus. Te ergo fallis, non Deum. Et quia de magno
+ejus bono in te, <emph>573</emph> tu magnum in eum excogitas
+malum, merito iniquitas tua invenitur ad odium.
+Quae major namque iniquitas, quam ut inde a te
+Creator contemnatur, unde plus amari merebatur?
+Quae major iniquitas, quam cum de potentia Dei non
+dubites, quin te scilicet destruere possit qui condere
+potuit; confisus tamen de multa ejus dulcedine, qua
+speras eum nolle vindicare cum possit; mala pro
+bonis, odium pro dilectione retribuas?</p>
+          </div3>
+<div3>
+            <head>33.</head>
+            <p>
+ Haec, inquam, iniquitas, non ira momentanea,
+sed odio digna est sempiterno, qua tuo dulcissimo
+et altissimo Domino, licet invito, desideras tamen ac
+<pb n="0960C"/>
+speras aequari, quatenus semper videat quod dolcat,
+dum te socium habeat cum nolit, nec dejiciat cum
+possit; quin potius eligat ipse dolere, quam te patiatur
+perire; possit quidem dejicere si velit, sed
+prae dulcedine, ut aestimas, velle non possit. Certe
+si talis est qualem putas, tanto nequius agis, si non
+amas. Et si ille patitur aliquid fieri contra se potius,
+quam ipse aliquid faciat contra te; quanta
+malitia est, ut vel tu non parcas illi, qui sibi non
+parcit, parcendo tibi? Absit tamen ab ejus perfectione,
+ut quia dulcis est, justus non sit, quasi simul
+dulcis et justus esse non possit: cum melior sit
+justa dulcedo, quam remissa; imo virtus non sit
+dulcedo sine justitia. Quia igitur gratuitae Dei bonitati,
+<pb n="0960D"/>
+qua gratis factus es, ingratus existis, justitiam
+vero quam expertus non es, non metuis; ideoque
+audacter committis culpam, de qua falso tibi promittis
+impunitatem: jam ecce justum senties, quem
+bonum nosti, cadens in foveam, quam paras auctori:
+ut dum scilicet talem in eum poenam machinaris,
+qua tamen valeat carere si velit, sed ut putas non
+valeat velle; et ideo nec carere ea utique bonitate,
+qua neminem expertus es illum punisse: talem justus
+Deus justissime in te retorqueat poenam, qui
+nec valet, nec debet pati suam impune bonitatem
+offendi: sic utique temperans in vindicta sententiam,
+ut, si velis resipiscere, non neget veniam; secundum
+tamen duritiam tuam et cor impoenitens, non possis
+velle, et ideo nec poena carere.
+<pb n="0961A"/>
+</p>
+          </div3>
+<div3>
+            <head>34. </head>
+            <p>
+Sed jam audi calumniam: <hi>Coelum,</hi> inquit, <hi>mihi
+sedes est, terra autem scabellum pedum meorum <note>(Isa.
+LXVI, 1)</note>
+            </hi>. Non dixit, Oriens, aut Occidens, aut Una
+aliqua coeli plaga: sed, Totum coelum mihi sedes est.
+Non potes ergo in parte sedere coeli, cum ille totum
+elegerit sibi. In terra non potes, quia scabellum pedum
+ejus est. Terra etenim locus solidus est, ubi
+sedet Ecclesia, fundata supra firmam petram. Quid
+facies? E coelo pulsus, in terra remanere non potes.
+Elige ergo tibi in aere locum, non ad sedendum, sed
+ad volandum: ut qui tentasti concutere statum aeternitatis,
+poenam sentias propriae fluctuationis. Te
+ergo fluctuante inter coelum et terram, sedet Dominus
+super solium excelsum et elevatum, et plena est
+omnis terra majestate ejus <note>(Isa. VI, 3)</note>, ut nusquam
+<pb n="0961B"/>
+nisi in aere invenias locum.</p>
+          </div3>
+<div3>
+            <head>35.</head>
+            <p>
+ Seraphim namque aliis quidem alis suae contemplationis
+de throno ad scabellum, de scabello ad
+thronum volantia, aliis caput Domini pedesque velantia,
+ad hoc ibi posita puto, ut sicut homini peccanti
+paradisi per Cherubin prohibetur ingressus, ita
+et per Seraphin tuae curiositati modus imponatur: 
+quatenus nec coeli jam magis impudenter,
+quam prudenter arcana rimeris, nec Ecclesiae mysteria
+cognoscas in terris; sed solis contentus sis cordibus
+superborum, qui nec in terra dignantur esse
+sicut caeteri hominum, nec sicut Angeli volant ad
+coelum. Licet vero et caput in coelo, et pedes in
+terra a te abscondantur; quiddam tamen tibi medium
+videndum ad invidendum duntaxat permittitur:
+<pb n="0961C"/>
+dum suspensus in aere, descendentes quidem per te,
+et ascendentes Angelos intueris; sed quid vel audiant
+in coelis, vel nuntient terris, penitus nescis.</p>
+          </div3>
+<div3>
+            <head>36.</head>
+            <p>
+ O Lucifer, qui mane oriebaris, imo non jam
+lucifer, sed noctifer, aut etiam mortifer, rectus
+cursus tuus erat ab oriente ad meridiem, et tu praepostero
+ordine tendis ad aquilonem? Quanto <emph>574</emph> 
+magis ad alta festinas, tanto celerius ad occasum
+declinas. Velim tamen curiosius, o curiose, intentionem
+tuae curiositatis inquirere. <hi>Ponam,</hi> inquit, <hi>sedem meam ad aquilonem 
+ <note>(Isa. XIV, 13)</note>
+            </hi>. Nec aquilonem
+hunc corporalem, nec sedem hanc (cum sis
+spiritus) intelligo materialem. Puto autem per <hi>aquilonem,</hi> 
+reprobandos homines fuisse designatos; per
+<pb n="0961D"/> <hi>sedem,</hi> 
+ potestatem in illos. Quos utique in praescientia
+Dei, quanto ei vicinior, tanto caeteris perspicacior
+praevidens, nullo quidem sapientiae radio coruscantes,
+nullo spiritus amore ferventes, velut vacuum
+repereris locum, affectasti super illos dominium,
+quos quadam tuae astutiae claritate perfunderes, tuae
+malitiae aestibus inflammares: ut quomodo Altissimus
+sua sapientia ac bonitate omnibus filiis obedientiae
+praeerat, ita et tu super omnes filios superbiae
+rex constitutus, tua eos astuta malitia, ac malitiosa
+astutia regeres, per quod Altissimo similis
+esses. Sed miror cum in praesentia Dei tuum praevideris
+principatum, cur non in eadem praevidisti et
+<pb n="0962A"/>
+praecipitium? Nam si praevidisti, quae insania fuit,
+ut cum tanta miseria cuperes principari, ut malles
+misere praeesse, quam feliciter subesse? An non
+expediebat participem esse plagarum illarum luminosarum,
+quam principem tenebrarum harum? Sed
+credibilius est, quod non praevidisti: aut propter
+illam causam, quam superius dixi, quia Dei bonitatem
+attendens, dixisti in corde tuo. <hi>Non requiret <note>(Psal. X, 13)</note>
+            </hi>,
+propter quod, o impie, Deum irritasti;
+aut quia viso principatu, statim in oculo superbiae
+trabes excrevit, qua interposita casum videre non
+potuisti.</p>
+          </div3>
+<div3>
+            <head>37.</head>
+            <p>
+ Sic Joseph cum praevidisset exaltationem
+suam <note>(Gen. XXXVII, 7-9)</note>, non tamen praescivit sui
+venditionem, quamvis propior esset venditio, quam
+<pb n="0962B"/>
+exaltatio. Non quod tantum patriarcham in superbiam
+crediderim incidisse: sed ut ejus exemplo
+pateat, quod hi qui futura praevident per spiritum
+prophetiae, etsi non omnia, non ideo tamen putandi
+sunt nulla praevidisse. Quod si quis contendat in eo
+quod somnia sua adhuc adolescentulus narrabat,
+quorum tunc mysterium ignorabat, vanitatem posse
+notari; ego tamen mysterio magis sive simplicitati
+pueri deputandum arbitror, quam vanitati. Quae
+tamen, si qua fuit, per ea quae passus legitur, potuit
+expiari. Nonnullis enim aliqua aliquando de se per
+revelationem jucunda monstrantur, quae etsi humanus
+animus absque ulla vanitate scire non potest,
+non minus ideo eveniet quod monstratum est; sic
+<pb n="0962C"/>
+tamen ut illa vanitas impunita non sit, qua de
+magnitudine revelationis aut promissionis in se vel
+leviter exsultavit. Sicut enim medicus, non solum
+unguento, sed igne utitur et ferro, quo omne quod
+in vulnere sanando superfluum excreverit, secet et
+urat, ne sanitatem, quae ex unguento procedit,
+impediat: sic medicus animarum Deus hujusmodi
+animae procurat tentationes, immittit tribulationes,
+quibus afflicta et humiliata, gaudium vertat in luctum,
+revelationem putet illusionem. Unde fit ut
+vanitate careat, et veritas revelationis non pereat.
+Sic Pauli extollentia per stimulos carnis reprimitur <note>(II Cor. XII, 7)</note>,
+et ipse revelationibus crebris attollitur.
+Sic Zachariae infidelitas linguae obligatione
+mulctatur <note>(Luc. I, 20)</note>, et angeli veritas suo in 
+<pb n="0962D"/>tempore
+manifestanda non mutatur. Sic per gloriam et
+ignobilitatem sancti proficiunt, dum inter singularia
+dona quae recipiunt, communi hominum vanitate
+pulsari se sentiunt: ut dum per gratiam supra se
+aliquid cernunt, non obliviscantur quod sunt.</p>
+          </div3>
+<div3>
+            <head>38.</head>
+            <p>
+ Sed quid de revelationibus ad curiositatem?
+De quibus ut haec per excessum intermiscerem, inde
+occasio sumpta est, cum ostendere vellem, reprobum
+angelum ante casum suum sic potuisse praevidere
+illam, quam post accepit, in reprobos homines dominationem,
+ut tamen suam non praesciret damnationem.
+De quo etiam nonnullis quaestiunculis motis
+<pb n="0963A"/>
+magis, quam solutis, totius disputatiunculae haec
+summa sit: quod per curiositatem a veritate
+ceciderit, quia prius <emph>575</emph> spectavit curiose, quod
+affectavit illicite, speravit praesumptuose. Jure igitur
+in gradibus superbiae primum curiositas vindicat sibi,
+quae etiam inventa est initium esse omnis peccati.
+Sed nisi haec citius cohibeatur, in levitatem animi,
+quae secundus gradus est, cito delabitur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI. <hi>De secundo gradu superbiae, qui est levitas animi</hi> .</head>
+<div3>
+            <head>39.</head>
+            <p>
+ Monachus enim, qui sui negligens, alios curiose
+circumspicit, dum quosdam suspicit superiores,
+quosdam despicit inferiores: et in aliis quidem
+videt quod invidet, in aliis quod irridet. Inde fit ut
+pro mobilitate oculorum levigatus animus, nulla utique
+<pb n="0963B"/>
+sui cura aggravatus, modo per superbiam ad
+alta se erigat, modo per invidiam in ima demergat:
+nunc per invidiam nequiter tabescit, nunc per excellentiam
+pueriliter hilarescit. In altero nequam, in
+altero vanus, in utroque superbus existit: quia et
+quod superari se dolet, et quod superare se gaudet,
+amor propriae excellentiae facit. Has autem animi
+vicissitudines nunc pauca et mordacia, nunc
+multa et inania; nunc risu, nunc luctu plena, semper
+vero irrationabilia indicant verba. Compara, si vis,
+hos duos primos superbiae gradus supremis duobus
+humilitatis: et vide si non in ultimo curiositas, in
+penultimo levitas cohibetur. Id ipsum in caeteris reperies,
+si alterutrum comparentur. Sed jam ad tertium
+docendo, non descendendo veniamus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII. <hi>De tertio gradu superbiae, qui est inepta laetitia</hi> .</head>
+<div3>
+            <head>40.</head>
+            <p>
+ Proprium est superborum, laeta semper appetere,
+<pb n="0963C"/>et tristia devitare, juxta illud: <hi>Cor stultorum
+ubi laetitia <note>(Eccle. VII, 5)</note>
+            </hi>. Unde et monachus, qui
+duos jam superbiae gradus descendit, dum per curiositatem
+ad animi levitatem devenit, cum gaudium
+quod semper appetit, frequenti videt interpolari
+tristitia, quam de bonis alterius contrahit, impatiens
+suae humiliationis, fugit ad consilium falsae consolationis.
+Ex illa denique parte, qua sibi sua vilitas, et
+aliena excellentia monstratur, restringit curiositatem,
+ut totum se transferat in contrariam partem:
+quatenus in quo ipse videtur praecellere curiosius
+notet; in quo alter praecellit, semper dissimulet: ut
+<pb n="0963D"/>
+dum devitat quod triste putatur, laetitia continuetur.
+Sicque fit ut quem sibi vicissim vindicabant gaudium
+et tristitia, sola possidere incipiat inepta laetitia. In
+hac autem, in qua tertium tibi gradum constituto,
+accipe quibus eam signis vel in te deprehendas, vel
+in altero. Illum qui ejusmodi est, aut nunquam, aut
+raro gementem audies, aut lacrymantem videbis.
+Putes, si attendas, aut sui oblitum, aut ablutum a
+culpis. In signis scurrilitas, in fronte hilaritas, vanitas
+apparet in incessu. Pronus ad jocum, facilis
+<pb n="0964A"/>
+ac promptus in risu. Cunctis quippe quae in se contemptibilia,
+et ideo tristia noverat, a memoria rasis;
+bonisque, si qua sentit in se, adunatis vel simulatis
+ante oculos mentis, dum nil cogitat nisi quod libet,
+nec attendit si licet; jam risum tenere, jam ineptam
+laetitiam dissimulare non valet. Ut enim vesica collecto
+turgida vento, punctoque perforata exiguo, si
+stringitur, crepitat dum detumescit; ac ventus egrediens
+non passim effusus, sed strictim emissus crebros
+quosdam sonitus reddit: sic monachus, ubi
+vanis scurrilibusque cor suum cogitationibus impleverit,
+propter disciplinam silentii non inveniens
+ventus vanitatis qua plenius egrediatur, inter angustias
+faucium per cachinnos excutitur. Saepe vultum
+pudibundus abscondit, claudit labia, dentes
+<pb n="0964B"/>
+stringit; ridet non volens, cachinnat invitus. Cumque
+os pugnis obstruxerit suis, per nares adhuc
+sternutare auditur.
+<emph>576</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>De quarto gradu superbiae, qui est jactantia</hi> .</head>
+<div3>
+            <head>41.</head>
+            <p>
+ At postquam vanitas crescere, et vesica grossescere
+coeperit, necesse est ut ampliori foramine,
+laxato sinu, ventositas eructetur, alioquin rumpetur.
+Sic monachus inepta redundante laetitia dum
+risu, vel signis eam aperire non sufficit, in Heliu
+verba prorumpit: <hi>En venter meus, quasi mustum
+absque spiraculo, quod novas lagunculas dirumpit <note>(Job. XXXII, 19)</note>
+            </hi>.
+Aut loquetur ergo, aut rumpetur.
+Plenus est enim sermonibus, et coarctat eum spiritus
+<pb n="0964C"/>
+uteri sui. Esurit et sitit auditores, quibus suas
+jactitet vanitates, quibus omne quod sentit, effundat:
+quibus, qualis, et quantus sit, innotescat. Inventa
+autem occasione loquendi, si de litteris sermo
+exoritur, vetera proferuntur, et nova; volant sententiae,
+verba resonant ampullosa. Praevenit interrogantem,
+non quaerenti respondet. Ipse quaerit,
+ipse solvit, et verba collocutoris imperfecta praescindit.
+Cum autem pulsato signo necesse est interrumpi
+colloquium, horam longam, breve queritur intervallum;
+quaerit licentiam, ut ad fabulas revertatur
+post horam, non ut quempiam aedificet, sed ut
+scientiam jactet. Aedificare potest, sed non aedificare
+intendit. Non curat te docere, vel a te doceri ipse
+quod nescit; sed ut scire sciatur quod scit. Quod si
+<pb n="0964D"/>
+de religione agitur, statim visiones et somnia proferuntur.
+Denique laudat jejunia, commendat vigilias,
+super omnia orationes exaltat; de patientia, de humilitate,
+et de singulis virtutibus plenissime, sed
+vanissime disputat: ut tu scilicet, si audieris, dicas,
+quod <hi>ex abundantia cordis os loquitur,</hi> et quia <hi>bonus
+homo de bono thesauro suo profert bona <note>(Luc. VI,
+43)</note>
+            </hi>. Si ad ludicra sermo convertitur, in his quanto
+assuetior, tanto loquacior invenitur. Dicas, si audias
+rivum vanitatis, fluvium esse scurrilitatis os
+<pb n="0965A"/>
+ejus, ita ut severos quoque et graves animos in levitatem
+concitet risus. Et ut totum in brevi colligam,
+in multiloquio nota jactantiam. In hoc habes
+quartum gradum et descriptum, et nominatum. Fuge
+rem, et tene nomen. Hac eadem cautela jam accede
+ad quintum, quem nomino singularitatem.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV. <hi>De quinto gradu superbiae, qui dicitur singularitas</hi> .</head>
+<div3>
+            <head>42.</head>
+            <p>
+ Turpe est ei, qui se supra caeteros jactat, si
+non plus caeteris aliquid agat, per quod ultra caeteros
+appareat. Proinde non sufficit ei quod communis
+monasterii regula, vel majorum cohortantur exempla.
+Nec tamen melior esse studet, sed videri. Non
+melius vivere, sed videri vivere gestit, quatenus
+<pb n="0965B"/>
+dicere possit: <hi>Non sum sicut caeteri hominum <note>(Luc.
+XVIII, 11)</note>
+            </hi>. Plus sibi blanditur de uno jejunio, quod
+caeteris prandentibus facit, quam si cum caeteris
+septem dies jejunaverit. Commodior sibi videtur
+una oratiuncula peculiaris, quam tota psalmodia
+unius noctis. Inter prandendum crebro solet oculos
+jactare per mensas, ut si quem minus comedere viderit,
+victum se doleat, et incipiat idipsum sibi crudeliter
+subtrahere, quod necessarium victui indulgendum
+praeviderat, plus gloriae metuens detrimentum,
+quam famis cruciatum. Si quem macriorem, si
+quem pallidiorem perspexerit, vilem se aestimat,
+nunquam requiescit. Et quoniam vultum ipse suum
+videre non potest, qualem scilicet se intuentibus
+offert, manus quas potest et brachia spectans, palpat
+<pb n="0965C"/>
+costas, humeros attrectat et lumbos: ut secundum
+quod corporis sui membra, vel minus, vel satis
+exilia probat, pallorem oris ac colorem discernat.
+Ad omnia denique sua strenuus, ad communia piger.
+Vigilat in lecto, dormit in choro: cumque
+aliis psallentibus ad vigilias tota nocte dormitet,
+post vigilias aliis in claustro quiescentibus
+solus in oratorio remanet: exscreat, et tussit, gemitibus
+ac suspiriis aures foris sedentium <emph>577</emph> de
+angulo implet. Cum autem ex his quae singulariter,
+sed inaniter agit, apud simpliciores ejus opinio excreverit,
+qui profecto opera probant quae cernunt,
+sed unde prodeant non discernunt; dum miserum
+beatificant, in errorem inducunt <note>(Isa. III, 12)</note>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT. XV. <hi>De sexto gradu superbiae, id est arrogantia</hi> .</head>
+<div3>
+            <head>43.</head>
+            <p>
+ Credit quod audit, laudat quod agit, et quod
+<pb n="0965D"/>intendat non attendit. Obliviscitur intentionem dum
+amplectitur opinionem. Quique de omni alia re plus
+sibi credit, quam aliis, de se solo plus aliis credit,
+quam sibi: ut non jam verbo tenus, aut sola operum
+ostentatione suam praeferat religionem, sed
+<pb n="0966A"/>
+intimo cordis credat affectu omnibus se sanctiorem:
+et quidquid de se laudatum agnoverit, non ignorantiae
+aut benevolentiae laudatoris, sed suis meritis
+arroganter ascribit. Unde post singularitatem,
+sextum sibi gradum jure arrogantia vindicat. Post
+hanc praesumptio invenitur, in qua septimus gradus
+constituitur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVI. <hi>De septimo gradu superbiae, qui est praesumptio</hi> .</head>
+<div3>
+            <head>44.</head>
+            <p>
+ Qui enim alios se praecellere putat, quomodo
+non plus de se, quam de aliis praesumat? Primus
+in conventibus residet, in consiliis primus respondet:
+non vocatus accedit, non jussus se intromittit:
+reordinat ordinata, reficit facta. Quidquid ipse non
+<pb n="0966B"/>
+fecerit aut ordinaverit, nec recte factum, nec pulchre
+existimat ordinatum, Judicat judicantes, praejudicat
+judicaturis. Si, cum tempus advenerit, non
+promoveatur ad Prioratum; suum abbatem aut invidum
+judicat, aut deceptum. Quod si mediocris ei
+aliqua obedientia injuncta fuerit, indignatur, aspernatur,
+arbitrans se non esse minoribus occupandum,
+qui se ad majora sentit idoneum. Sed qui sic
+promptulus ad omnia se magis temere, quam libere
+consuevit ingerere, impossibile est eum aliquando
+non errare. Ad praelatum autem pertinet errantem
+arguere. Sed quomodo culpam suam confitebitur,
+qui nec esse putat, nec putari culpabilis patitur?
+Propterea cum ei culpa imputatur, crescit, non amputatur.
+Si ergo cum argutus fuerit, declinare cor
+<pb n="0966C"/>
+ejus videris in verba malitiae, in octavum gradum,
+qui dicitur defensio peccatorum, noveris corruisse.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII. <hi>De octavo gradu superbiae, qui est defensio peccatorum</hi> .</head>
+<div3>
+            <head>45.</head>
+            <p>
+ Multis vero modis fiunt excusationes in peccatis.
+Aut enim dicit qui se excusat, Non feci; aut,
+Feci quidem, sed bene feci; aut, Si male, non multum
+male; aut, Si multum male, non mala intentione.
+Si autem et de illa, sicut Adam vel Eva, convincitur,
+aliena suasione excusare se nititur. Sed
+qui procaciter etiam aperta defendit, quando occultas
+et malas cogitationes, cordi suo advenientes,
+humiliter revelaret abbati?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVIII. <hi>De nono gradu superbiae, qui est simulata confessio</hi> .</head>
+<div3>
+            <head>46.</head>
+            <p>
+ Licet vero genera haec excusationis eatenus
+<pb n="0966D"/>mala judicentur, quatenus ore prophetico <hi>verba malitiae</hi> 
+appellantur <note>(Psal. CXL, 4)</note>; multo tamen periculosior
+est fallax ac superba confessio, quam pervicax
+<pb n="0967A"/>
+[ <hi>al.</hi> procax] et obstinata defensio. Nonnulli
+enim cum de apertioribus arguuntur, scientes quod
+si se defenderent, sibi non crederetur, subtilius
+inveniunt argumentum defensionis, verba respondentes
+dolosae confessionis. <hi>Est quippe,</hi> ut scriptum
+est, <hi>qui nequiter humiliat se, et interiora ejus plena
+sunt dolo <note>(Eccli. XIX, 23)</note>
+            </hi>. Vultus demittitur, prosternitur
+corpus: aliquas sibi lacrymulas extorquent, si
+possunt; vocem <emph>578</emph> suspiriis, verba gemitibus
+interrumpunt. Nec solum qui ejusmodi est, objecta
+non excusat, sed ipse quoque culpam exaggerat:
+ut dum impossibile aliquid aut incredibile culpae
+suae ore ipsius additum audis, etiam illud, quod
+ratum putabas, discredere possis; et ex eo quod
+falsum esse non dubitas dum confitetur, in dubium
+<pb n="0967B"/>
+veniat quod quasi certum tenebatur. Dumque affirmant
+quod credi nolunt, confitendo culpam defendunt,
+et aperiendo tegunt; quando et confessio laudabiliter
+sonat in ore, et adhuc iniquitas occultatur
+in corde: quatenus magis ex humilitate quam ex
+veritate confiteri putet qui audit, aptans eis illud
+Scripturae: <hi>Justus in principio sermonis accusator
+est sui <note>(Prov. XVIII, 17)</note>
+            </hi>. Malunt enim apud homines
+veritate periclitari, quam humilitate, cum apud
+Deum periclitentur utrinque. Aut si adeo culpa manifesta
+sit quod nulla penitus versutia tegi possit;
+nihilominus tamen vocem, non cor poenitentis assumunt,
+qua notam, non culpam deleant, dum ignorantiam
+manifestae transgressionis, decore recompensant
+publicae confessionis.
+<pb n="0967C"/>
+</p>
+          </div3>
+<div3>
+            <head>47. </head>
+            <p>
+Gloriosa res humilitas, qua ipsa quoque
+superbia palliare se appetit, ne vilescat! Sed haec
+cito tergiversatio a praelato deprehenditur, si ad
+hanc superbam humilitatem non leviter flectitur,
+quo magis dissimulat culpam, vel differat poenam.
+Vasa figuli probat fornax, et tribulatio vere poenitentes
+discernit. Qui enim veraciter poenitet, laborem
+poenitentiae non abhorret: sed quidquid sibi pro
+culpa quam odit injungitur, tacita conscientia patienter
+amplectitur. In ipsa quoque obedientia duris
+ac contrariis rebus obortis, quibuslibet irrogatis
+injuriis sustinens non lassescit, ut in quarto gradu
+se stare indicet humilitatis. Cujus vero simulata
+confessio est, una vel levi contumelia, aut exigua
+<pb n="0967D"/>
+poena interrogatus, jam humilitatem simulare,
+jam simulationem dissimulare non potest. Murmurat,
+frendet, irascitur; nec in quarto stare humilitatis,
+sed in nonum superbiae gradum corruisse probatur,
+qui secundum quod descriptus est, recte simulata
+confessio appellari potest. Quanta putas
+tunc confusio sit in corde superbi cum fraus decipitur,
+pax amittitur, laus minuitur, nec culpa diluitur?
+Tandem notatur ab omnibus, judicatur ab
+omnibus: eoque vehementius omnes indignantur,
+quo falsum conspiciunt quidquid de eo prius opinabantur.
+Tunc opus est praelato, ut eo minus illi
+<pb n="0968A"/>
+parcendum putet, quo magis omnes offenderet, si
+uni parcere.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIX. <hi>De decimo gradu superbiae, qui est rebellio</hi> .</head>
+<div3>
+            <head>48.</head>
+            <p>
+ Hic nisi eum miseratio superna respiciat,
+(quod valde difficile talibus est) universorum judiciis
+tacitus acquiescat; frontosus mox et impudens
+factus, tanto deterius, quanto desperatius in decimum
+gradum per rebellionem corruit: quippe prius
+latenter arrogans fratres contempserat, jam patenter
+inobediens etiam magistrum contemnit.</p>
+          </div3>
+<div3>
+            <head>49.</head>
+            <p>
+ Sciendum autem est, quod omnes gradus,
+quos in duodecim partitus sum, in tres tantummodo
+<pb n="0968B"/>
+colligi possunt: ut in sex superioribus contemptus
+fratrum, in quatuor sequentibus contemptus magistri,
+in duobus, qui restant, consummetur contemptus
+Dei. Notandum quoque, quod hi duo superbiae
+gradus ultimi, qui et humilitatis ascendendo primi
+inveniuntur; sicut extra congregationem ascendendi
+sunt, ita in congregatione descendi non possunt.
+Quod autem ante ascendi debeant, ex hoc
+aperte datur intelligi, quod de tertio gradu in Regula
+legitur:  « Tertius, »  inquit,  « gradus est, ut quis
+pro Dei amore omni obedientia se subdat majori. » <note>(Regul. 7, 31.)</note> 
+ Si ergo in tertio gradu subjectio collocatur,
+quae procul dubio fit, quando novitius primum
+conventui sociatur; consequens est, quod duo
+jam anteriores transcensi intelligantur. Denique ubi
+<pb n="0968C"/>
+fratrum concordiam, et magistri sententiam monachus
+spernit, quid ultra in monasterio, nisi scandalum
+facit?
+<emph>579</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XX. <hi>De undecimo gradu superbiae, qui est libertas peccandi</hi> </head>
+<div3>
+            <head>50.</head>
+            <p>
+ Post decimum itaque gradum, qui rebellio dictus
+est, expulsus vel egressus de monasterio statim
+excipitur ab undecimo. Et tunc ingreditur vias, quae
+videntur hominibus bonae, quarum finis (nisi forte
+Deus eas illi sepierit) demerget eum in profundum
+inferni, id est in contemptum Dei. Impius siquidem
+cum venerit in profundum malorum, contemnit <hi>(Prov.
+<pb n="0968D"/>
+XVIII, 3)</hi>. Potest autem undecimus gradus appellari
+libertas peccandi, per quam monachus, cum jam nec
+magistrum videt quem timeat, nec fratres quos revereatur,
+tanto securius, quanto liberius sua desideria
+implere delectatur, a quibus in monasterio tam pudore,
+quam timore prohibebatur. Sed etsi jam vel
+fratres, vel abbatem non timet, nondum tamen Dei
+penitus formidine caret. Hanc ratio, tenuiter adhuc
+submurmurans, voluntati proponit, nec sine aliqua
+dubitatione quaeque primum illicita perficit; sed,
+sicut is qui vadum tentat, pedetentim, non cursim
+vitiorum gurgitem intrat.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXI. <hi>De duodecimo gradu superbiae, qui est consuetudo peccandi</hi> </head>
+<div3>
+            <head>51.</head>
+            <p>
+ At postquam terribili Dei judicio prima flagitia
+<pb n="0969A"/>impunitas sequitur, experta voluptas libenter repetitur,
+repetita blanditur. Concupiscentia reviviscente
+sopitur ratio, ligat consuetudo. Trahitur
+miser in profundum malorum, traditur captivus
+tyrannidi vitiorum, ita ut carnalium voragine desideriorum
+absorptus, suae rationis divinique timoris
+oblitus, dicat insipiens in corde suo: <hi>Non est Deus <note>(Psal. XIII, 1)</note>
+            </hi>.
+Jam indifferenter libitis pro licitis
+utitur, jam ab illicitis cogitandis, patrandis, investigandis
+animus, manus, vel pedes non prohibentur:
+sed quidquid in cor, in buccam, ad manum venerit,
+<pb n="0969B"/>
+machinatur, garrit et operatur, malevolus, vaniloquus,
+facinorosus. Quemadmodum denique ascensis
+his omnibus gradibus, corde jam alacri et absque
+labore pro bona consuetudine justus currit ad vitam:
+sic descensis impius eisdem, pro malo usu non ratione
+se gubernans, non timoris freno retentans, intrepidus
+festinat ad mortem. Medii sunt qui fatigantur,
+angustiantur: qui nunc metu cruciantur gehennae,
+nunc pristina retardati consuetudine, descendendo
+vel ascendendo laborant. Supremus tantum et infimus
+currunt absque impedimento, et absque labore.
+Ad mortem hic, ad vitam ille festinat; alter alacrior,
+alter proclivior. Illum alacrem charitas, hunc proclivem
+cupiditas facit. In altero amor, in altero
+stupor laborem non sentit. In illo denique perfecta
+<pb n="0969C"/>
+charitas, in isto consummata iniquitas foras mittit
+timorem. Illi veritas, huic caecitas dat securitatem.
+Potest ergo duodecimus gradus appellari consuetudo
+peccandi, qua Dei metus amittitur, contemptus incurritur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXII. <hi>An et quomodo orandum pro desperatis, et mortuis secundum animam.</hi> </head>
+<div3>
+            <head>52.</head>
+            <p>
+ <hi>Pro tali</hi> jam, inquit Joannes apostolus, <hi>non
+dico ut quis oret <note>(I Joan. V, 16)</note>
+            </hi>. Sed nunquid dicis,
+o Apostole, ut quis desperet? Imo gemat qui illum
+amat. Non praesumat orare, nec desistat plorare.
+Quid est quod dico? An forte ullum remanet spei
+refugium, ubi oratio non invenit locum? Audi credentem,
+audi sperantem, nec tamen orantem. <hi>Domine,</hi> 
+<pb n="0969D"/>
+inquit, <hi>si fuisses hic, frater meus non fuisset
+mortuus.</hi> Magna fides, qua credidit sua praesentia
+Dominum nortem prohibere potuisse si adfuisset.
+Modo autem quid? Absit ut quem credidit vivum
+potuisse servare, mortuum dubitet posse resuscitare. <hi>Sed nunc,</hi> 
+ inquit, <hi>scio quia quaecunque poposceris
+a Deo, dabit tibi Deus.</hi> Deinde quaerenti ubi posuissent <emph>580</emph> 
+ eum, respondet: <hi>Veni, et vide.</hi> Quamobrem?
+O Martha, magna nobis tuae fidei insignia
+tribuis: sed quomodo cum tanta fide diffidis? <hi>Veni,</hi> 
+inquis, <hi>et vide.</hi> Cur et, si non desperas, non sequeris,
+et dicis, Et resuscita? si autem desperas, cur
+Magistrum sine causa fatigas? An forte fides aliquando
+<pb n="0970A"/>
+recipit, quod oratio non praesumit? Denique appropinquantem
+cadaveri prohibes, et dicis: <hi>Domine, jam
+fetet; quatriduanus enim est <note>(Joan. XI, 21, 22, 34,
+39)</note>
+            </hi>. Desperando dicis hoc, an dissimulando? Sic
+quippe ipse Dominus post resurrectionem finxit se
+longius ire <note>(Luc. XXIV, 28)</note>, cum mallet cum discipulis
+remanere. O sanctae mulieres Christi familiares,
+si fratrem vestrum amatis, cur ejus misericordiam
+non flagitatis, de cujus potentia dubitare,
+pietate diffidere non potetis? Respondent: Sic melius
+tanquam non orantes oramus, sic efficacius
+tanquam diffidentes confidimus. Exhibemus fidem,
+perhibemus affectum: scit ipse, cui non est opus ut
+aliquid dicatur, quid desideremus. Scimus quidem
+quod omnia potest: sed hoc tam grande miraculum,
+<pb n="0970B"/>
+tam novum, tam inauditum, etsi ejus subest potentiae,
+multum tamen excedit universa merita humilitatis
+nostrae. Sufficit nobis potentiae locum, pietati
+dedisse occasionem; malentes patienter exspectare
+quid velit quam impudenter quaerere quod forsitan
+nolit. Denique quod nostris meritis deest, verecundia
+fortasse supplebit. Petri quoque post gravem
+lapsum lacrymam quidem video, sed precem non
+audio: nec tamen de indulgentia dubito.</p>
+          </div3>
+<div3>
+            <head>53.</head>
+            <p>
+ Disce et in Matre Domini magnam in mirabilibus
+fidem habere, in magna fide verecundiam retinere.
+Disce verecundia decorare fidem, reprimere
+praesumptionem. <hi>Vinum,</hi> inquit, <hi>non habent <note>(Joan.
+II, 3)</note>
+            </hi>. Quam breviter, quam reverenter suggessit,
+unde pie fuit sollicita! Et ut discas in hujusmodi
+<pb n="0970C"/>
+magis pie gemere, quam petere praesumptuose; pietatis
+aestum pudoris temperans umbra, conceptam
+precis fiduciam verecunde suppressit. Non frontose
+accessit, non palam locuta est, ut audacter coram
+omnibus diceret: Obsecro, fili, deficit vinum, contristantur
+convivae, confunditur sponsus; ostende
+quid possis. Sed licet haec aut multo plura pectus
+aestuans, fervens loqueretur affectus; privatim tamen
+potentem pia Filium mater adiit, non potentiam
+tentans, sed voluntatem explorans. <hi>Vinum,</hi> inquit, <hi>non habent.</hi> 
+ Quid modestius? quid fidelius? Non
+defuit pietati fides, voci gravitas, efficacia voto. Si
+ergo illa, cum mater sit, sese matrem oblita non
+audet petere miraculum vini; ego vile mancipium,
+<pb n="0970D"/>
+cui permagnum est Filii simul ac Matris esse vernaculum,
+qua fronte praesumo pro vita petere quatriduani?</p>
+          </div3>
+<div3>
+            <head>54.</head>
+            <p>
+ Duo etiam in Evangelio caeci visum, alter accepisse,
+alter recepisse leguntur: alter quem amiserat,
+alter quem nunquam habuerat; unus scilicet
+excaecatus, alter caecus natus. Sed qui excaecatus,
+miserabilibus mirisque clamoribus miram misericordiam
+meruit: qui vero caecus natus, tanto misericordius,
+quanto mirabilius nullis suis precibus
+praeventum sui illuminatoris beneficium nihilominus
+sensit. Illi denique dictum est, <hi>Fides tua te salvum
+fecit:</hi> huic autem non <hi>(Luc. XVIII, 35-43; Joan.
+<pb n="0971A"/>
+IX)</hi>. Duos quoque recenter mortuos, tertium jam
+quatriduanum, lego resuscitatos: solam tamen Archisynagogi
+filiam, in domo adhuc positam, precibus
+patris; duos autem ex insperata magnitudine pietatis <note>(Marc. V, 35-42; Luc. VII, 11-15; Joan. XI)</note>.</p>
+          </div3>
+<div3>
+            <head>55.</head>
+            <p>
+ Simili etiam forma si contigerit (quod Deus
+avertat) aliquem de fratribus nostris, non in corpore,
+sed in anima mori; quandiu adhuc inter nos erit,
+pulsabo et ego meis qualiscunque peccator, pulsabo
+et fratrum precibus Salvatorem. Si revixerit, lucrati
+erimus fratrem: sin vero non mereamur exaudiri,
+ubi jam vel tolerare vivos, vel tolerari a vivis non
+poterit, sed incipiet efferri, semper quidem fideliter
+gemo, sed jam non ita fiducialiter oro. Non aperte
+audeo dicere, Veni, Domine, suscita mortuum nostrum:
+<pb n="0971B"/>
+corde tamen suspenso, tremulus intus clamare
+non cesso, Si forte, si forte, si forte desiderium
+pauperum exaudiet Dominus, praeparationem cordis
+eorum audiet auris ejus; et illud, <hi>Nunquid mortuis
+facies mirabilia,</hi> <emph>581</emph> <hi>aut medici suscitabunt, et confitebuntur
+tibi?</hi> et de quatriduano: <hi>Nunquid narrabit
+aliquis in sepulcro misericordiam tuam, et veritatem
+tuam in perditione? <note>(Psal. LXXXVII, 11, 12.)</note>
+            </hi> Potest
+interim Salvator, si vult, insperate et improvise
+occurrere nobis, lacrymisque portantium motus, non
+precibus, mortui vitam reddere vivis, aut certe jam
+sepultum revocare a mortuis. Mortuum autem dixerim
+illum, qui sua peccata defendens, in octavum
+jam corruit gradum. A mortuo enim, tanquam qui
+non est, perit confessio <note>(Eccli. XVII, 26)</note>. Post decimum
+<pb n="0971C"/>
+vero, qui tertius est ab octavo, jam effertur in
+libertatem peccandi, quando expellitur a consortio
+monasterii. At postquam quartum transierit, jam
+<pb n="0972A"/>
+recte quatriduanus dicitur, dum in quintum decidens
+per consuetudinem sepelitur.</p>
+          </div3>
+<div3>
+            <head>56.</head>
+            <p>
+ Absit autem a nobis, ut etiam pro talibus, etsi
+palam non praesumimus, vel in cordibus nostris orare
+cessemus: cum Paulus eos quoque lugeret, quos
+sine poenitentia mortuos sciret <note>(II Cor. XII, 21)</note>.
+Etsi enim a communibus orationibus ipsi se excludunt,
+sed ab affectibus omnino non possunt. Viderint
+tamen in quanto periculo sint, pro quibus Ecclesia
+palam orare non audeat, quae fidenter etiam
+pro Judaeis, pro haereticis, pro Gentilibus orat. Cum
+enim in Parasceve nominatim oretur pro quibuslibet
+malis, nulla tamen mentio fit de excommunicatis.</p>
+          </div3>
+<div3>
+            <head>57.</head>
+            <p>
+ Dicis forte, frater Godefride, me aliud quam
+tu quaesisti, et quam ipse promisi, tandem exhibuisse,
+<pb n="0972B"/>
+cum pro gradibus humilitatis, superbiae gradus
+videar descripsisse. Ad quod ego: Non potui docere
+nisi quod didici. Non putavi congruum me describere
+ascensiones, qui plus descendere, quam ascendere
+novi. Proponat tibi beatus Benedictus gradus
+humilitatis, quos ipse prius in corde suo disposuit:
+ego quid proponam non habeo, nisi ordinem meae
+descensionis. In quo tamen, si diligenter inspicitur,
+via forsitan ascensionis reperitur. Si enim tibi Romam
+tendenti homo inde veniens obviaret, quaesitus
+viam, quid melius quam illam, qua venit, ostenderet?
+Dum castella, villas, urbes, fluvios, ac montes,
+per quos transierit, nominat, suum denuntians iter,
+tuum tibi praenuntiat: ita ut eadem loca recognoscas
+eundo, quae ille pertransiit veniendo. In hac
+<pb n="0972C"/>
+similiter nostra descensione gradus ascensorios fortasse
+reperies, quos ascendendo melius tu in tuo
+corde, quam in nostro codice leges. Amen.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>

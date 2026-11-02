@@ -1,0 +1,186 @@
+{
+  "id": "bernard-de-gradibus-humilitatis",
+  "cover": "classic",
+  "name": {
+    "la": "De gradibus humilitatis et superbiae",
+    "en-US": "The Steps of Humility and Pride",
+    "pt-BR": "Os graus da humildade e da soberba"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Tractatus Bernardi ad Godefridum de gradibus humilitatis et superbiae: duodecim humilitatis gradus ad veritatem, duodecim superbiae ad curiositatem et inde ad consuetudinem peccandi.",
+    "en-US": "Bernard’s first treatise, written for his cousin Godfrey: the twelve steps of humility by which one climbs to truth, and the twelve of pride by which one falls from curiosity to the habit of sin, with Mabillon’s admonitio. Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "pt-BR": "O primeiro tratado de Bernardo, escrito para seu primo Godofredo: os doze graus da humildade que levam à verdade e os doze da soberba que levam da curiosidade ao hábito do pecado."
+  },
+  "composed": "c. 1124",
+  "languages": [
+    "la"
+  ],
+  "work": "bernard/de-gradibus-humilitatis",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/browser?path=/38/2268/6156",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 182 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), work 6156, from machine-corrected OCR.",
+      "description": "The complete text with Mabillon’s admonitio, chapter headings and summaries. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "admonitio",
+      "title": {
+        "la": "Admonitio Mabillonii"
+      }
+    },
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Christum esse viam humilitatis, qua pervenitur ad veritatem"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Quo fructu ascendantur gradus humilitatis"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Quo ordine gradus humilitatis ad propositum bravium veritatis perducant: et quomodo Christus per passionem didicit misericordiam"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Primus veritatis gradus est, primum seipsum attendere, seu propriam miseriam agnoscere"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Secundus gradus veritatis est, ex agnitione propriae infirmitatis, compati miseriae proximi"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Tertius gradus veritatis, mundare oculum cordis ad contemplanda coelestia et divina"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Quomodo sancta Trinitas hos tres veritatis gradus in nobis operetur"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Gradus iidem in raptu sancti Pauli declarantur"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Gemitus et suspiria sancti Bernardi, ad Veritatem anhelantis"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. De primo superbiae gradu, qui est curiositas"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. De secundo gradu superbiae, qui est levitas animi"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. De tertio gradu superbiae, qui est inepta laetitia"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. De quarto gradu superbiae, qui est jactantia"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. De quinto gradu superbiae, qui dicitur singularitas"
+      }
+    },
+    {
+      "id": "pars",
+      "title": {
+        "la": "Caput. xv. de sexto gradu superbiae, id est arrogantia"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XVI. De septimo gradu superbiae, qui est praesumptio"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVII. De octavo gradu superbiae, qui est defensio peccatorum"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVIII. De nono gradu superbiae, qui est simulata confessio"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XIX. De decimo gradu superbiae, qui est rebellio"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XX. De undecimo gradu superbiae, qui est libertas peccandi"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XXI. De duodecimo gradu superbiae, qui est consuetudo peccandi"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXII. An et quomodo orandum pro desperatis, et mortuis secundum animam"
+      }
+    }
+  ]
+}
