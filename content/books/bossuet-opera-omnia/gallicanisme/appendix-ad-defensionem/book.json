@@ -1,0 +1,360 @@
+{
+  "id": "bossuet-appendix-ad-defensionem-declarationis",
+  "cover": "classic",
+  "name": {
+    "la": "Appendix ad defensionem declarationis cleri gallicani",
+    "en-US": "Appendix to the Defence of the Declaration of the Gallican Clergy",
+    "pt-BR": "Apêndice à Defesa da Declaração do clero galicano"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "la": "Appendix ad Defensionem declarationis cleri gallicani. Editio Lachat (1865).",
+    "en-US": "Appendix to the Latin Defence of the Declaration of the Gallican Clergy, answering objections to the Four Articles. Lachat edition (1865).",
+    "pt-BR": "Apêndice à Defesa latina da Declaração do clero galicano, respondendo às objeções aos Quatro Artigos. Edição Lachat (1865)."
+  },
+  "composed": "1685",
+  "languages": [
+    "la"
+  ],
+  "work": "bossuet/appendix-ad-defensionem",
+  "editions": {
+    "la": {
+      "editor": "Abbé F. Lachat",
+      "year": 1865
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://web.archive.org/web/2022/https://www.bibliotheque-monastique.ch/bibliotheque/bibliotheque/bossuet/volume022/Defensioappendix.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Bibliothèque monastique (Abbaye Saint-Benoît de Port-Valais), Wayback Machine",
+      "description": "Typed transcription of volume XXII, appendix.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "liber-01",
+      "title": {
+        "la": "Liber I"
+      },
+      "children": [
+        {
+          "id": "liber-01-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-01-002",
+          "title": {
+            "la": "Caput primum"
+          }
+        },
+        {
+          "id": "liber-01-003",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "liber-01-004",
+          "title": {
+            "la": "Caput III. Circa Florentinum formulam solemnis distinctio : quod Romanus Pontifex regat universalem Ecclesiam distributivè non collective ; de ea distinctione Andreæ Duvallii lo…"
+          }
+        },
+        {
+          "id": "liber-01-005",
+          "title": {
+            "la": "Caput IV. Ex ante dictis probatur cleri Gallicani Declarationem jam in tuto esse, nondum licet prolatis probationibus : Leonis X concilio Lateranensi et adversus Lutherum acta, …"
+          }
+        },
+        {
+          "id": "liber-01-006",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "liber-01-007",
+          "title": {
+            "la": "Caput VI"
+          }
+        },
+        {
+          "id": "liber-01-008",
+          "title": {
+            "la": "Caput VII. Quo sensu explicarent : Rogavi pro te, ut non deficiat fides tua, Luc., xxii, 32. Ea de re Glossa notabilis, qua maxime utebantur : sancti Thomæ, sancti Bonaventuræ e…"
+          }
+        },
+        {
+          "id": "liber-01-009",
+          "title": {
+            "la": "Caput VIII. Scholam Parisiensem in Alliacensis et Gersonis sententia perstitisse, toti orbi notum ; eam sententiam egregii viri ubique docuerunt : cur Parisiensium doctrina dict…"
+          }
+        },
+        {
+          "id": "liber-01-010",
+          "title": {
+            "la": "Caput IX"
+          }
+        },
+        {
+          "id": "liber-01-011",
+          "title": {
+            "la": "Caput X. Idem Dionysius Carthusianus exponit qua auctoritate in aliis præter fidem causis, Romanus Pontifex à concilio judicari possit"
+          }
+        },
+        {
+          "id": "liber-01-012",
+          "title": {
+            "la": "Caput XI. De Lovaniensi Facultate : eam cum Parisiensi et Coloniensi circa Constantiensem Basileensemque doctrinam consensisse : Nicolai Dubois Professoris Lovaniensis vana argu…"
+          }
+        },
+        {
+          "id": "liber-01-013",
+          "title": {
+            "la": "Caput XII. Adrianus Florentius, mox Adrianus Papa VI, facultatis Lovaniensis ornamentum, Parisiensium sententiam sequitur : quorumdam Lovaniensium cavillationes"
+          }
+        },
+        {
+          "id": "liber-01-014",
+          "title": {
+            "la": "Caput XIII. An sit verisimile Parisiensium doctrinam post Adrianum VI à Lorantensibus condemnatam ? Lovaniensium erga Adrianum reverentia singularis"
+          }
+        },
+        {
+          "id": "liber-01-015",
+          "title": {
+            "la": "Caput XIV. Jacobi Latomi, Doctoris Lovaniensis, sententia"
+          }
+        },
+        {
+          "id": "liber-01-016",
+          "title": {
+            "la": "Caput XV. Joannis Driedonis Lovaniensis sententia, de fide Petri nunquam defectura"
+          }
+        },
+        {
+          "id": "liber-01-017",
+          "title": {
+            "la": "Caput XVI. Articuli Lovaniensis Facultatis, anni 1544, ex præcedente doctrina explicantur, et cum Parisiensibus, anni 1542, conferuntur : Cathedra Petri nunquam defectura"
+          }
+        },
+        {
+          "id": "liber-01-018",
+          "title": {
+            "la": "Caput XVII. Joannis Driedonis sententia de superioritate Papæ eum Parisiensium sententia congruit : horum reverentia in summum Pontificem ; locus Majoris"
+          }
+        },
+        {
+          "id": "liber-01-019",
+          "title": {
+            "la": "Caput XVIII. Alii Driedonis loci excutiuntur. Iterum de Cathedræ Petri auctoritate, ex eodem scriptore"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-02",
+      "title": {
+        "la": "Liber II"
+      },
+      "children": [
+        {
+          "id": "liber-02-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-02-002",
+          "title": {
+            "la": "Caput primum. Joannes à Turrecrematâ pontificiæ potestatis sub Eugenio IV defensor præcipuas, in fidei quæstionibus concilii auctoritatem Papæ auctoritati anteponebat : communis…"
+          }
+        },
+        {
+          "id": "liber-02-003",
+          "title": {
+            "la": "Caput II. Alii Turrecrematæ loci de concilii potiori auctoritate in materia fidei ; quodque Summus Pontifex erronea solemniter definire possit. De pontificia infallibilitate lud…"
+          }
+        },
+        {
+          "id": "liber-02-004",
+          "title": {
+            "la": "Caput III. Antonii de Rosellis ejusdem ævi canonistæ Eugenianarum partium sententia"
+          }
+        },
+        {
+          "id": "liber-02-005",
+          "title": {
+            "la": "Caput IV. Sanctus Antoninus archiepiscopus Florentinus, an bona fide relatus ab anonymo auctore, qui de libertatibus Gallicanis scripsit"
+          }
+        },
+        {
+          "id": "liber-02-006",
+          "title": {
+            "la": "Caput V. Thomas à Vio, cardinalis Cajetanus, pontificiam infallibilitatem asserit, nulla in adversarios censuræ nota : primus omnium docuit erroneam esse sententiam quæ superior…"
+          }
+        },
+        {
+          "id": "liber-02-007",
+          "title": {
+            "la": "Caput VI. Idem Jacobatius cardinalis, pontificiæ superioritatis assertor, in infallibilitatis quæstione quid sentiat"
+          }
+        },
+        {
+          "id": "liber-02-008",
+          "title": {
+            "la": "Caput VII. De fide Petri nunquam defectura, ejusdem Cardinalis loci"
+          }
+        },
+        {
+          "id": "liber-02-009",
+          "title": {
+            "la": "Caput VIII. Bellarmini judicium : ab illo concilii Lateranensis auctoritas trepidé profertur de sententia superioritatem synodis vindicante : ejusdem censuræ titubantes"
+          }
+        },
+        {
+          "id": "liber-02-010",
+          "title": {
+            "la": "Caput IX. Bellarmini circa pontificiam infallibilitatem censura æque anceps : vis notarum ex Melchiore Cano"
+          }
+        },
+        {
+          "id": "liber-02-011",
+          "title": {
+            "la": "Caput X. Suarez Parisiensium de superioritate sententiam relinquit integram : ipse suam de infallibilitate censuram infringit, falsaque ex Leone X adversus Lutherum refert"
+          }
+        },
+        {
+          "id": "liber-02-012",
+          "title": {
+            "la": "Caput XI. Andreas Duvallius Parisiensium de superioritate conciliorum sententiam, et Parisiensis facultatis esse agnoscit, et ab omni hæresis, erroris atque etiam temeritatis no…"
+          }
+        },
+        {
+          "id": "liber-02-013",
+          "title": {
+            "la": "Caput XII. Dominicus à sancta Trinitate, Carmelita discalceatus, libro Romæ recens excuso, docet pontificiam infallibilitatem aut superioritatem nullo Ecclesiœ decreto clare def…"
+          }
+        },
+        {
+          "id": "liber-02-014",
+          "title": {
+            "la": "Caput XIII. Recentiorum Lovaniensium aliorumque sententia, ipso progressu immodestior et aperte nimia"
+          }
+        },
+        {
+          "id": "liber-02-015",
+          "title": {
+            "la": "Caput XIV. Quanta sit Scholasticorum auctoritas, ex Melchiore Cano constituitur, atque hinc efficitur ab omni nos erroris notâ esse liberos"
+          }
+        },
+        {
+          "id": "liber-02-016",
+          "title": {
+            "la": "Caput XV. Aliæ notæ : quæ ad fidem pertinent paucis diluuntur : sapiens hæresim, male sonans, periculosum in fide quid sit' : schismaticum à D. Strigoniensi inustum, sed ne huju…"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-03",
+      "title": {
+        "la": "Liber III"
+      },
+      "children": [
+        {
+          "id": "liber-03-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-03-002",
+          "title": {
+            "la": "Caput primum"
+          }
+        },
+        {
+          "id": "liber-03-003",
+          "title": {
+            "la": "Caput II. Falso imputari Parisiensibus, quod saltem in fidei causis, recursus ad concilium semper sit necessarius"
+          }
+        },
+        {
+          "id": "liber-03-004",
+          "title": {
+            "la": "Caput III. Quod si unus vel alter Romanus Pontifex in decreto fidei aberraret, nihil fidei Romane, nihil Romanæ cathedræ Sedique apostolicæ noceretur"
+          }
+        },
+        {
+          "id": "liber-03-005",
+          "title": {
+            "la": "Caput IV. Adversarii quæstionem de superior itate Papæ ad vana redigunt ; casui hæresis evertit eorum generales regulas : Cajetani argutiæ recitantur"
+          }
+        },
+        {
+          "id": "liber-03-006",
+          "title": {
+            "la": "Caput V. Suaris labores æque irriti circa depositionem Papæ in hæresim lapsi"
+          }
+        },
+        {
+          "id": "liber-03-007",
+          "title": {
+            "la": "Caput VI. Cajetani ac Suaris absurda effugia, nonnisi aliis absurdioribus evitari posse. Alberti Pighii sententia, quod Papa, nec ut privatus, fieri possit hæreticus ; alii quoq…"
+          }
+        },
+        {
+          "id": "liber-03-008",
+          "title": {
+            "la": "Caput VII. Papam etiam certum, non modò hæreticum, sed et absque hæresi, schismaticum fieri posse Duvallius docet ex Turrecrematà et Gajetano cardinalibus, eumque Ecclesiæ aucto…"
+          }
+        },
+        {
+          "id": "liber-03-009",
+          "title": {
+            "la": "Caput VIII. De concilii auctoritate, qua Papa teneatur in fidei causis, Duvallii locus"
+          }
+        },
+        {
+          "id": "liber-03-010",
+          "title": {
+            "la": "Caput IX. Propter quæ scelera in Pontificem animadverti possit ; canonistas fere omnes, non iisdem licet verbis, in eamdem rerum summam convenire"
+          }
+        },
+        {
+          "id": "liber-03-011",
+          "title": {
+            "la": "Caput X. De infallibilitate, positis quæ necessario conceduntur, nullam superesse veram difficultatem : unum Albertum Pighium consentanea dixisse, sed nova, et inaudita, et fere…"
+          }
+        },
+        {
+          "id": "liber-03-012",
+          "title": {
+            "la": "Caput XI. Ex his consequi Romanos Pontifices in hac quæstione non se commoturos, cuius rei multa sunt argumenta : primum, ex Declarationibus sacræ Facultatis, anno 1663, toto re…"
+          }
+        },
+        {
+          "id": "liber-03-013",
+          "title": {
+            "la": "Caput XII. Expositio Doctrinae catholicæ illustrissimi ac reverendissimi Domini Meldensis Episcopi in medium adducitur ; duo Innocentii XI Brevia ad eam approbandam : his consen…"
+          }
+        },
+        {
+          "id": "liber-03-014",
+          "title": {
+            "la": "Caput XIII. Explosa hæreseos, erroris ac schismatis nota, aliæ notæ excutiuntur ; articulos Gallicanos neque esse temerarios, neque scandalosos, neque piarum aurium offensivos ;…"
+          }
+        }
+      ]
+    }
+  ]
+}
