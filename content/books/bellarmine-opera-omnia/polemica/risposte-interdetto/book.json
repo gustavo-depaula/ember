@@ -1,0 +1,126 @@
+{
+  "id": "bellarmine-risposte-interdetto",
+  "cover": "classic",
+  "name": {
+    "it": "Risposte alle opposizioni del Senato di Venezia",
+    "en-US": "Replies in the Venetian Interdict Controversy",
+    "pt-BR": "Respostas na questão do Interdito de Veneza"
+  },
+  "author": {
+    "it": "Roberto Bellarmino",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "it": "Gli scritti italiani di Bellarmino durante l'Interdetto di Venezia (1606): risposte ai sette teologi della Repubblica e ad altri opuscoli. Testo dell'edizione Vivès (1870-74), tomo VIII, da scansione OCR.",
+    "en-US": "Bellarmine's Italian writings during the Venetian Interdict (1606): replies to the Republic's theologians and other pamphlets. Italian only: the Vivès edition (1870-74), volume 8, from an OCR scan.",
+    "pt-BR": "Os escritos italianos de Belarmino durante o Interdito de Veneza (1606)."
+  },
+  "composed": "1606",
+  "languages": [
+    "it"
+  ],
+  "work": "bellarmine/risposte-interdetto",
+  "editions": {
+    "it": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://archive.org/details/operaomnia08bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 8 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p01",
+      "title": {
+        "it": "Pars 1",
+        "en-US": "Part 1"
+      }
+    },
+    {
+      "id": "p02",
+      "title": {
+        "it": "Pars 2",
+        "en-US": "Part 2"
+      }
+    },
+    {
+      "id": "p03",
+      "title": {
+        "it": "Pars 3",
+        "en-US": "Part 3"
+      }
+    },
+    {
+      "id": "p04",
+      "title": {
+        "it": "Pars 4",
+        "en-US": "Part 4"
+      }
+    },
+    {
+      "id": "p05",
+      "title": {
+        "it": "Pars 5",
+        "en-US": "Part 5"
+      }
+    },
+    {
+      "id": "p06",
+      "title": {
+        "it": "Pars 6",
+        "en-US": "Part 6"
+      }
+    },
+    {
+      "id": "p07",
+      "title": {
+        "it": "Pars 7",
+        "en-US": "Part 7"
+      }
+    },
+    {
+      "id": "p08",
+      "title": {
+        "it": "Pars 8",
+        "en-US": "Part 8"
+      }
+    },
+    {
+      "id": "p09",
+      "title": {
+        "it": "Pars 9",
+        "en-US": "Part 9"
+      }
+    },
+    {
+      "id": "p10",
+      "title": {
+        "it": "Pars 10",
+        "en-US": "Part 10"
+      }
+    },
+    {
+      "id": "p11",
+      "title": {
+        "it": "Pars 11",
+        "en-US": "Part 11"
+      }
+    },
+    {
+      "id": "p12",
+      "title": {
+        "it": "Pars 12",
+        "en-US": "Part 12"
+      }
+    }
+  ]
+}
