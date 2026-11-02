@@ -1,0 +1,162 @@
+{
+  "id": "bonaventure-commentarius-in-librum-sapientiae",
+  "cover": "classic",
+  "name": {
+    "la": "Commentarius in librum Sapientiae",
+    "en-US": "Commentary on the Book of Wisdom",
+    "pt-BR": "Comentário ao livro da Sabedoria"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Commentarius in librum Sapientiae (auctoritas Bonaventurae disputatur). Textus ex editione Quaracchi (Opera omnia VI, 1893), ex scanno OCR, sine notis criticis.",
+    "en-US": "A commentary on the Book of Wisdom, attributed to Bonaventure (the attribution is disputed). The Latin is the Quaracchi edition (Opera omnia VI, 1893) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Comentário ao livro da Sabedoria."
+  },
+  "composed": "c. 1254-1257",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/commentarius-in-librum-sapientiae",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1893
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic06bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. VI (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1893), pp. 105-235.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type notes are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain. Chapters are cut at the page whose running head names them.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1893 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prooemium",
+      "title": {
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Capitulum I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Capitulum II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Capitulum III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Capitulum IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Capitulum V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Capitulum VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Capitulum VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Capitulum VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Capitulum IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Capitulum X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Capitulum XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Capitulum XII"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Capitulum XIII"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Capitulum XIV"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Capitulum XV"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Capitulum XVI"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Capitulum XVII"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Capitulum XVIII"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Capitulum XIX"
+      }
+    }
+  ]
+}
