@@ -1,0 +1,60 @@
+{
+  "id": "fenelon-opuscules-litteraires",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Opuscules littéraires : correspondance avec La Motte, jugement sur un poète, poésies",
+    "en-US": "Literary Opuscules: Correspondence with La Motte, Judgment on a Poet, Poems",
+    "pt-BR": "Opúsculos literários: correspondência com La Motte, juízo sobre um poeta, poesias"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les lettres de Fénelon à Houdar de La Motte sur l’Iliade et sur la critique (1714-1715), son jugement sur un poète de son temps et ses poésies.",
+    "en-US": "Fénelon’s letters to Houdar de La Motte on the Iliad and on criticism (1714-15), his judgment on a poet of his time, and his poems.",
+    "pt-BR": "As cartas de Fénelon a Houdar de La Motte sobre a Ilíada e a crítica (1714-1715), seu juízo sobre um poeta de seu tempo e suas poesias."
+  },
+  "composed": "1693–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/opuscules-litteraires",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte06fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 6, p. 650–680; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-correspondance-la-motte",
+      "title": {
+        "fr-FR": "Correspondance littéraire avec La Motte"
+      }
+    },
+    {
+      "id": "02-jugement-sur-un-poete",
+      "title": {
+        "fr-FR": "Jugement de Fénelon sur un poète de son temps"
+      }
+    },
+    {
+      "id": "03-poesies",
+      "title": {
+        "fr-FR": "Poésies"
+      }
+    }
+  ]
+}
