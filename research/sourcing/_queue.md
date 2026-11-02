@@ -10,7 +10,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Louis of Granada. Left: the Latin works (sermons, Rhetorica, Silva, Collectanea; scans need fresh OCR), the Portuguese original of the Compendio, English translations (Hopkins, Meres, Gibbons, Chester…), and headings lost in the Guía primitiva and Cartas
 - [x] Alonso Rodríguez · Luis de León. Left: Luis's letters and trial writings, his Latin Opera, the Job tercets and about 19k words of poems (Mayans 1761 / BAE 37)
 - [x] Elisabeth of the Trinity · Curé of Ars. Left: Elisabeth's complete letters, poems, Journal and notes (no clean text online); the French Esprit, the Curé's letters, English sermons
-- [ ] Francis de Sales (rest)
+- [x] Francis de Sales (French complete, 25 books). Left: letters 231–270 and MMXI–MMXLVII (from archive.org Annecy XII and XXI OCR), splitting run-together sermons; English (Mackey Controversy, Letters, Canticle, Spiritual Directory) for the English pass
 - [ ] Jane de Chantal
 - [ ] Vincent de Paul
 - [ ] Caussade · Lallemant · Brother Lawrence (rest) · Surin
