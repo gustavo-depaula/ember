@@ -25,9 +25,9 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Benedict · Bede (rest) · Gregory the Great (rest). Left: Bede's Gospel Homilies (Wikisource text garbled; use Giles vol. 5 / PL 94), Martyrology, De locis sanctis, grammatical works; English for Felix, Letters, Apocalypse; Gregory's doubtful hymns
 - [x] Anselm (rest) · Bernard (rest). Left: Anselm letters III–IV need re-OCR/proofread (draft, Tesseract eng model), dubia; English (Webb, Eales, Mount Melleray, Lewis, Mills, Williams)
 - [x] Victorines (39 books). Left: Hugh's Sermones centum and minor arts works, Godfrey, Andrew, Achard's treatises, full Liber exceptionum (not in Corpus Corporum); Gautier's Latin of Adam
-- [ ] Peter Lombard (rest)
+- [x] Peter Lombard (rest: Psalms, Collectanea). Left: sermons (under Hildebert in PL 171), letters
 - [ ] Bellarmine
-- [ ] Thomas à Kempis (rest)
+- [ ] Thomas à Kempis (rest; 13 books done: Orationes, Sermones ad novicios, Hortulus, Vallis, Chronicle, Lydwine, minor pieces). Continuing: Pohl I–IV remaining works
 - [ ] Bridget of Sweden
 - [ ] Gertrude · Mechtilde
 - [ ] Rhineland mystics (Ruusbroec, Suso, Tauler)
