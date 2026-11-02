@@ -7,8 +7,8 @@ import sys, os, json, re
 sys.path.insert(0, os.path.dirname(__file__))
 import newman_nr as n
 
-def plan(path):
-    for u in n.index_links(path):
+def plan(path, tree=False):
+    for u in (n.tree_links if tree else n.index_links)(path):
         bl = n.blocks(n.body(u))
         h = next((n.norm(b) for t, b in bl if t in ('h1', 'h2')), '?')
         w = len(re.findall(r"\w+", n.norm(' '.join(b for t, b in bl))))
@@ -88,5 +88,6 @@ def sample(slug, pgfile, k=60):
 
 if __name__ == '__main__':
     if sys.argv[1] == 'plan': plan(sys.argv[2])
+    elif sys.argv[1] == 'tplan': plan(sys.argv[2], True)
     elif sys.argv[1] == 'build': build(json.load(open(sys.argv[2])))
     elif sys.argv[1] == 'sample': sample(sys.argv[2], sys.argv[3])

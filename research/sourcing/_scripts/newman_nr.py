@@ -33,7 +33,7 @@ def inline(h, para=True):
         t = m.group(0)
         num = re.search(r'name="return(\d+)"', t) or re.search(r'(?:Notes?|Name)\s*(\d+)', re.sub(r'<[^>]*>', ' ', t)) or re.search(r'href="#note(\d+)"', t)
         return '\x00%s\x01' % (num.group(1) if num else '1')
-    h = re.sub(r'\[(?:(?!\]).){0,250}?href="#note\s*\d*"[^>]*>(?:\s|<[^>]*>)*(?:Notes?|Name)[\s\d]*</a>(?:</u>)?\]', _marker, h, flags=re.S)
+    h = re.sub(r'\[(?:(?!\]).){0,250}?href="#note\s*\d*"[^>]*>(?:\s|<[^>]*>)*(?:Notes?|Name)[\s\d]*</a>(?:\s|<[^>]*>)*\]', _marker, h, flags=re.S)
     h = re.sub(r'<a href="#return\d+">Return to text</a>', '', h)
     h = re.sub(r'<a name="[^"]*"></a>', '', h)
     h = re.sub(r'<br\s*/?>', '\x02', h)
@@ -117,6 +117,7 @@ def convert(url, title=None, keep_first_heading=False):
     """-> (markdown, warnings). title: H1 text; the page's first h2 is dropped (it is the title)."""
     bl = blocks(body(url))
     nidx = next((k for k, (t, b) in enumerate(bl) if t == 'h3' and norm(b) in ('Note', 'Notes')), len(bl))
+    if nidx < len(bl) and all(t in ('hr', 'h1', 'h2') or not n_.strip() for t, n_ in bl[:nidx]) and title and 'Notes' in title: nidx = len(bl)
     notes, last = {}, None
     hm = re.search(r'name="note\s*(\d+)"', bl[nidx][1]) if nidx < len(bl) else None
     nxt = int(hm.group(1)) if hm else 1
@@ -164,3 +165,20 @@ def convert(url, title=None, keep_first_heading=False):
     unused = set(notes) - set(refs)
     if unused: warn.append('%s: notes without refs %s' % (url, sorted(unused, key=int)))
     return re.sub(r'\n{3,}', '\n\n', text), warn
+
+def tree_links(path):
+    """Like index_links, but follows sub-indexes (preorder), for works with nested indexes."""
+    url = ROOT + path
+    d = url.rsplit('/', 1)[0] + '/'
+    out, seen = [], {url}
+    def walk(u):
+        for h in re.findall(r'href="([^"#]+)', body(u)):
+            v = urllib.parse.urljoin(u, h)
+            if not (v.startswith(d) and v.endswith('.html')) or v in seen: continue
+            seen.add(v)
+            try: load(v)
+            except OSError: continue
+            if v.endswith('index.html'): walk(v)
+            else: out.append(v)
+    walk(url)
+    return out

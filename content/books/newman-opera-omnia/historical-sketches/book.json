@@ -1,0 +1,300 @@
+{
+  "id": "newman-historical-sketches",
+  "cover": "classic",
+  "name": {
+    "en-US": "Historical Sketches",
+    "pt-BR": "Esboços Históricos"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "The historical essays Newman wrote as a Catholic, gathered in the Historical Sketches of 1872-73: nine lectures on the Turks in their relation to Europe (1853), The Mission of St. Benedict and The Benedictine Schools, the Rise and Progress of Universities, The Northmen and Normans in England and Ireland, and Medieval Oxford. The earlier Anglican pieces of the same volumes (Church of the Fathers, the Cicero and Apollonius essays, Primitive Christianity, Convocation of Canterbury) are not in this book.",
+    "pt-BR": "Os ensaios históricos que Newman escreveu como católico, reunidos nos Historical Sketches de 1872-73: nove conferências sobre os turcos em sua relação com a Europa (1853), A Missão de São Bento e As Escolas Beneditinas, Origem e Progresso das Universidades, Os Normandos na Inglaterra e na Irlanda e Oxford Medieval. As peças anglicanas anteriores dos mesmos volumes (A Igreja dos Padres, os ensaios sobre Cícero e Apolônio, o Cristianismo Primitivo, a Convocação de Cantuária) não estão neste livro."
+  },
+  "composed": "1853-1859",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/historical-sketches",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans, uniform edition, vols. 1-3; Newman Reader)",
+      "year": 1872
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/historical/volume1/index.html",
+      "edition": "Historical Sketches, vols. 1-3 (London: Longmans, Green, 1872-73), as transcribed by the Newman Reader.",
+      "description": "36 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Only the pieces written as a Catholic (1853 on). The Turks' table of dynasties (122 words) is left out. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "turks",
+      "title": {
+        "en-US": "The Turks in their Relation to Europe",
+        "pt-BR": "Os turcos em sua relação com a Europa"
+      },
+      "children": [
+        {
+          "id": "turks-lecture-1",
+          "title": {
+            "en-US": "Lecture 1. The Tribes of the North"
+          }
+        },
+        {
+          "id": "turks-lecture-2",
+          "title": {
+            "en-US": "Lecture 2. The Tartars"
+          }
+        },
+        {
+          "id": "turks-lecture-3",
+          "title": {
+            "en-US": "Lecture 3. The Tartar and the Turk"
+          }
+        },
+        {
+          "id": "turks-lecture-4",
+          "title": {
+            "en-US": "Lecture 4. The Turk and the Saracen"
+          }
+        },
+        {
+          "id": "turks-lecture-5",
+          "title": {
+            "en-US": "Lecture 5. The Turk and the Christian"
+          }
+        },
+        {
+          "id": "turks-lecture-6",
+          "title": {
+            "en-US": "Lecture 6. The Pope and the Turk"
+          }
+        },
+        {
+          "id": "turks-lecture-7",
+          "title": {
+            "en-US": "Lecture 7. Barbarism and Civilization"
+          }
+        },
+        {
+          "id": "turks-lecture-8",
+          "title": {
+            "en-US": "Lecture 8. The Past and Present of the Ottomans"
+          }
+        },
+        {
+          "id": "turks-lecture-9",
+          "title": {
+            "en-US": "Lecture 9. The Future of the Ottomans"
+          }
+        },
+        {
+          "id": "turks-notes",
+          "title": {
+            "en-US": "The Turks: Notes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "benedictine",
+      "title": {
+        "en-US": "The Benedictines",
+        "pt-BR": "Os beneditinos"
+      },
+      "children": [
+        {
+          "id": "benedict-mission",
+          "title": {
+            "en-US": "The Mission of St. Benedict"
+          }
+        },
+        {
+          "id": "benedict-schools",
+          "title": {
+            "en-US": "The Benedictine Schools"
+          }
+        }
+      ]
+    },
+    {
+      "id": "universities",
+      "title": {
+        "en-US": "Rise and Progress of Universities",
+        "pt-BR": "Origem e progresso das universidades"
+      },
+      "children": [
+        {
+          "id": "universities-advertisement",
+          "title": {
+            "en-US": "Rise and Progress of Universities: Advertisement"
+          }
+        },
+        {
+          "id": "universities-chapter-1",
+          "title": {
+            "en-US": "Chapter 1. Introductory"
+          }
+        },
+        {
+          "id": "universities-chapter-2",
+          "title": {
+            "en-US": "Chapter 2. What is a University?"
+          }
+        },
+        {
+          "id": "universities-chapter-3",
+          "title": {
+            "en-US": "Chapter 3. Site of a University"
+          }
+        },
+        {
+          "id": "universities-chapter-4",
+          "title": {
+            "en-US": "Chapter 4. University Life: Athens"
+          }
+        },
+        {
+          "id": "universities-chapter-5",
+          "title": {
+            "en-US": "Chapter 5. Free Trade in Knowledge: The Sophists"
+          }
+        },
+        {
+          "id": "universities-chapter-6",
+          "title": {
+            "en-US": "Chapter 6. Discipline and Influence"
+          }
+        },
+        {
+          "id": "universities-chapter-7",
+          "title": {
+            "en-US": "Chapter 7. Athenian Schools: Influence"
+          }
+        },
+        {
+          "id": "universities-chapter-8",
+          "title": {
+            "en-US": "Chapter 8. Macedonian and Roman Schools: Discipline"
+          }
+        },
+        {
+          "id": "universities-chapter-9",
+          "title": {
+            "en-US": "Chapter 9. Downfall and Refuge of Ancient Civilization: The Lombards"
+          }
+        },
+        {
+          "id": "universities-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. The Tradition of Civilization: The Isles of the North"
+          }
+        },
+        {
+          "id": "universities-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. A Characteristic of the Popes: St. Gregory the Great"
+          }
+        },
+        {
+          "id": "universities-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. Moral of that Characteristic of the Popes: Pius the Ninth"
+          }
+        },
+        {
+          "id": "universities-chapter-13",
+          "title": {
+            "en-US": "Chapter 13. Schools of Charlemagne: Paris"
+          }
+        },
+        {
+          "id": "universities-chapter-14",
+          "title": {
+            "en-US": "Chapter 14. Supply and Demand: The Schoolmen"
+          }
+        },
+        {
+          "id": "universities-chapter-15",
+          "title": {
+            "en-US": "Chapter 15. Professors and Tutors"
+          }
+        },
+        {
+          "id": "universities-chapter-16",
+          "title": {
+            "en-US": "Chapter 16. The Strength and Weakness of Universities: Abelard"
+          }
+        },
+        {
+          "id": "universities-chapter-17",
+          "title": {
+            "en-US": "Chapter 17. The Ancient University of Dublin"
+          }
+        },
+        {
+          "id": "universities-chapter-18",
+          "title": {
+            "en-US": "Chapter 18. Colleges the Corrective of Universities: Oxford"
+          }
+        },
+        {
+          "id": "universities-chapter-19",
+          "title": {
+            "en-US": "Chapter 19. Abuses of the Colleges: Oxford"
+          }
+        },
+        {
+          "id": "universities-chapter-20",
+          "title": {
+            "en-US": "Chapter 20. Universities and Seminaries: L'Ecole des Hautes Etudes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "northmen",
+      "title": {
+        "en-US": "The Northmen and Normans in England and Ireland",
+        "pt-BR": "Os normandos na Inglaterra e na Irlanda"
+      },
+      "children": [
+        {
+          "id": "northmen-section-1",
+          "title": {
+            "en-US": "The Northmen and Normans in England and Ireland, § 1"
+          }
+        },
+        {
+          "id": "northmen-section-2",
+          "title": {
+            "en-US": "The Northmen and Normans in England and Ireland, § 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oxford",
+      "title": {
+        "en-US": "Medieval Oxford",
+        "pt-BR": "Oxford medieval"
+      },
+      "children": [
+        {
+          "id": "medieval-oxford",
+          "title": {
+            "en-US": "Medieval Oxford"
+          }
+        }
+      ]
+    }
+  ]
+}

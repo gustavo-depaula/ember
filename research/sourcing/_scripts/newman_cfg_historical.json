@@ -1,0 +1,228 @@
+{
+ "slug": "historical-sketches",
+ "id": "newman-historical-sketches",
+ "name": "Historical Sketches",
+ "name_pt": "Esboços Históricos",
+ "desc": "The historical essays Newman wrote as a Catholic, gathered in the Historical Sketches of 1872-73: nine lectures on the Turks in their relation to Europe (1853), The Mission of St. Benedict and The Benedictine Schools, the Rise and Progress of Universities, The Northmen and Normans in England and Ireland, and Medieval Oxford. The earlier Anglican pieces of the same volumes (Church of the Fathers, the Cicero and Apollonius essays, Primitive Christianity, Convocation of Canterbury) are not in this book.",
+ "desc_pt": "Os ensaios históricos que Newman escreveu como católico, reunidos nos Historical Sketches de 1872-73: nove conferências sobre os turcos em sua relação com a Europa (1853), A Missão de São Bento e As Escolas Beneditinas, Origem e Progresso das Universidades, Os Normandos na Inglaterra e na Irlanda e Oxford Medieval. As peças anglicanas anteriores dos mesmos volumes (A Igreja dos Padres, os ensaios sobre Cícero e Apolônio, o Cristianismo Primitivo, a Convocação de Cantuária) não estão neste livro.",
+ "composed": "1853-1859",
+ "editor": "John Henry Newman (Longmans, uniform edition, vols. 1-3; Newman Reader)",
+ "year": 1872,
+ "index": "historical/volume1/index.html",
+ "edition": "Historical Sketches, vols. 1-3 (London: Longmans, Green, 1872-73), as transcribed by the Newman Reader.",
+ "note": "Only the pieces written as a Catholic (1853 on). The Turks' table of dynasties (122 words) is left out.",
+ "parts": [
+  {
+   "id": "turks",
+   "title": "The Turks in their Relation to Europe",
+   "title_pt": "Os turcos em sua relação com a Europa",
+   "from": "turks-lecture-1"
+  },
+  {
+   "id": "benedictine",
+   "title": "The Benedictines",
+   "title_pt": "Os beneditinos",
+   "from": "benedict-mission"
+  },
+  {
+   "id": "universities",
+   "title": "Rise and Progress of Universities",
+   "title_pt": "Origem e progresso das universidades",
+   "from": "universities-advertisement"
+  },
+  {
+   "id": "northmen",
+   "title": "The Northmen and Normans in England and Ireland",
+   "title_pt": "Os normandos na Inglaterra e na Irlanda",
+   "from": "northmen-section-1"
+  },
+  {
+   "id": "oxford",
+   "title": "Medieval Oxford",
+   "title_pt": "Oxford medieval",
+   "from": "medieval-oxford"
+  }
+ ],
+ "chapters": [
+  [
+   "historical/volume1/turks/lecture1.html",
+   "turks-lecture-1",
+   "Lecture 1. The Tribes of the North"
+  ],
+  [
+   "historical/volume1/turks/lecture2.html",
+   "turks-lecture-2",
+   "Lecture 2. The Tartars"
+  ],
+  [
+   "historical/volume1/turks/lecture3.html",
+   "turks-lecture-3",
+   "Lecture 3. The Tartar and the Turk"
+  ],
+  [
+   "historical/volume1/turks/lecture4.html",
+   "turks-lecture-4",
+   "Lecture 4. The Turk and the Saracen"
+  ],
+  [
+   "historical/volume1/turks/lecture5.html",
+   "turks-lecture-5",
+   "Lecture 5. The Turk and the Christian"
+  ],
+  [
+   "historical/volume1/turks/lecture6.html",
+   "turks-lecture-6",
+   "Lecture 6. The Pope and the Turk"
+  ],
+  [
+   "historical/volume1/turks/lecture7.html",
+   "turks-lecture-7",
+   "Lecture 7. Barbarism and Civilization"
+  ],
+  [
+   "historical/volume1/turks/lecture8.html",
+   "turks-lecture-8",
+   "Lecture 8. The Past and Present of the Ottomans"
+  ],
+  [
+   "historical/volume1/turks/lecture9.html",
+   "turks-lecture-9",
+   "Lecture 9. The Future of the Ottomans"
+  ],
+  [
+   "historical/volume1/turks/notes.html",
+   "turks-notes",
+   "The Turks: Notes"
+  ],
+  [
+   "historical/volume2/benedictine/mission.html",
+   "benedict-mission",
+   "The Mission of St. Benedict"
+  ],
+  [
+   "historical/volume2/benedictine/schools.html",
+   "benedict-schools",
+   "The Benedictine Schools"
+  ],
+  [
+   "historical/volume3/universities/advertisement.html",
+   "universities-advertisement",
+   "Rise and Progress of Universities: Advertisement"
+  ],
+  [
+   "historical/volume3/universities/chapter1.html",
+   "universities-chapter-1",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter2.html",
+   "universities-chapter-2",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter3.html",
+   "universities-chapter-3",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter4.html",
+   "universities-chapter-4",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter5.html",
+   "universities-chapter-5",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter6.html",
+   "universities-chapter-6",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter7.html",
+   "universities-chapter-7",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter8.html",
+   "universities-chapter-8",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter9.html",
+   "universities-chapter-9",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter10.html",
+   "universities-chapter-10",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter11.html",
+   "universities-chapter-11",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter12.html",
+   "universities-chapter-12",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter13.html",
+   "universities-chapter-13",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter14.html",
+   "universities-chapter-14",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter15.html",
+   "universities-chapter-15",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter16.html",
+   "universities-chapter-16",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter17.html",
+   "universities-chapter-17",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter18.html",
+   "universities-chapter-18",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter19.html",
+   "universities-chapter-19",
+   null
+  ],
+  [
+   "historical/volume3/universities/chapter20.html",
+   "universities-chapter-20",
+   null
+  ],
+  [
+   "historical/volume3/northmen/section1.html",
+   "northmen-section-1",
+   "The Northmen and Normans in England and Ireland, § 1"
+  ],
+  [
+   "historical/volume3/northmen/section2.html",
+   "northmen-section-2",
+   "The Northmen and Normans in England and Ireland, § 2"
+  ],
+  [
+   "historical/volume3/oxford.html",
+   "medieval-oxford",
+   "Medieval Oxford"
+  ]
+ ]
+}
