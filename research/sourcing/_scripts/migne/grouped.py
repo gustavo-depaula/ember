@@ -49,7 +49,7 @@ def build_groups(L, a, b, found, outdir, prefix, label, group, series_title, lea
     return res
 
 
-def build_chunks(L, a, b, outdir, prefix, title, size=7000, lead_title=None, nums=True, extra=None):
+def build_chunks(L, a, b, outdir, prefix, title, size=7000, lead_title=None, nums=True, extra=None, unit='partie'):
     """No usable headings: cut the cleaned text into parts of about `size` words at paragraph ends."""
     paras = clean_paras(blocks(L[a:b], extra))
     parts, cur, w = [], [], 0
@@ -65,7 +65,7 @@ def build_chunks(L, a, b, outdir, prefix, title, size=7000, lead_title=None, num
     res = []
     for k, ps in enumerate(parts, 1):
         cid = f'{prefix}-{k:02d}' if len(parts) > 1 else prefix
-        t = f'{title}, partie {k}' if len(parts) > 1 else title
+        t = f'{title}, {unit} {k}' if len(parts) > 1 else title
         outdir.mkdir(parents=True, exist_ok=True)
         (outdir / f'{cid}.md').write_text(f'# {t}\n\n' + '\n\n'.join(ps) + '\n', encoding='utf-8')
         res.append((cid, t, sum(len(p.split()) for p in ps)))

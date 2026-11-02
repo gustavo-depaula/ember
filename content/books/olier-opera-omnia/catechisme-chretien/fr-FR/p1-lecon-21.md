@@ -1,0 +1,7 @@
+# Partie 1, leçon 21
+
+9u mystère du crucifiement et de sa grâce.
+
+Je suis satisfait de ce que vous m’avez dit du grand et saint mystère de l’incarnation ; mais pour le mystère du crucifiement, quelle grâce opère-t-il en nous? — Il nous donne la grâce et la force de crucifier tous nos membres , par la vertu de l’Esprit de Dieu , qui est comme notre meurtrier et l’exécuteur de la sentence prononcée contre la chair. Les clous dont il se sert sont lès vertus qui attachent à la croix notre amour-propre et nos désirs charnels. Cet état de crucifiement suppose que l’âme est vivante à soi , qu’elle combat encore et que l’Esprit divin use de Tiolence et de véhémence sur le corps, pour le meurtrir et le crucifier. Mortifiez eus membres qui sont sur la terre , dit saint Paul, Mortificate ergo membravestraquœ sunt super terram ( Col., III, 5 ). Ainsi cet état dit résistance à l’esprit de la part de la chair; et souvent même, dans ces agonies, ou est travaillé de peines excessives.
+
+Que faut-il faire quand on sent en soi quelques désirs qui se soulèvent et qui donnent de la peine ?— 11 faut s’adresser à l’Esprit saint, le prier qu’il use de sa puissance contre chair, etlui dire qu’il agisse en maître;que, de notre côté, nous renonçons à tous nos désirs, et que nous nous unissons à lui pour agir en sa vertu contre nous-mêmes , nous confondant et détruisant tous ces soulèvements en nous, autant que nous le pouvons, comme une victime que Dieu prend plaisir à voir immoler à sa justice.

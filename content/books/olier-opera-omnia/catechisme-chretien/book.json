@@ -1,0 +1,282 @@
+{
+  "id": "olier-catechisme-chretien",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Catéchisme chrétien pour la vie intérieure",
+    "en-US": "Catechism of the Interior Life",
+    "pt-BR": "Catecismo cristão para a vida interior"
+  },
+  "author": {
+    "fr-FR": "Jean-Jacques Olier",
+    "en-US": "Jean-Jacques Olier",
+    "pt-BR": "Jean-Jacques Olier"
+  },
+  "description": {
+    "fr-FR": "Deux parties en leçons par questions et réponses : l’esprit chrétien, la croix et les mystères du Christ, puis la prière et la communion.",
+    "en-US": "Two parts in lessons of questions and answers: the Christian spirit, the cross and the mysteries of Christ, then prayer and communion.",
+    "pt-BR": "Duas partes em lições de perguntas e respostas: o espírito cristão, a cruz e os mistérios de Cristo, depois a oração e a comunhão."
+  },
+  "composed": 1656,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "olier/catechisme-chretien",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/uvrescompltesd00olie",
+      "edition": "Œuvres complètes de M. Olier, éd. Migne, Paris, 1856; archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Olier died in 1657; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1-lecon-01",
+      "title": {
+        "fr-FR": "Partie 1, leçon 1"
+      }
+    },
+    {
+      "id": "p1-lecon-02",
+      "title": {
+        "fr-FR": "Partie 1, leçon 2. De la perte de la grâce après le baptême, et du travail de la pénitence pour la recouvrer"
+      }
+    },
+    {
+      "id": "p1-lecon-03",
+      "title": {
+        "fr-FR": "Partie 1, leçon 3"
+      }
+    },
+    {
+      "id": "p1-lecon-04",
+      "title": {
+        "fr-FR": "Partie 1, leçon 4"
+      }
+    },
+    {
+      "id": "p1-lecon-05",
+      "title": {
+        "fr-FR": "Partie 1, leçon 5"
+      }
+    },
+    {
+      "id": "p1-lecon-06",
+      "title": {
+        "fr-FR": "Partie 1, leçon 6"
+      }
+    },
+    {
+      "id": "p1-lecon-07",
+      "title": {
+        "fr-FR": "Partie 1, leçon 7"
+      }
+    },
+    {
+      "id": "p1-lecon-08",
+      "title": {
+        "fr-FR": "Partie 1, leçon 8"
+      }
+    },
+    {
+      "id": "p1-lecon-09",
+      "title": {
+        "fr-FR": "Partie 1, leçon 9"
+      }
+    },
+    {
+      "id": "p1-lecon-10",
+      "title": {
+        "fr-FR": "Partie 1, leçon 10"
+      }
+    },
+    {
+      "id": "p1-lecon-11",
+      "title": {
+        "fr-FR": "Partie 1, leçon 11"
+      }
+    },
+    {
+      "id": "p1-lecon-12",
+      "title": {
+        "fr-FR": "Partie 1, leçon 12"
+      }
+    },
+    {
+      "id": "p1-lecon-13",
+      "title": {
+        "fr-FR": "Partie 1, leçon 13"
+      }
+    },
+    {
+      "id": "p1-lecon-14",
+      "title": {
+        "fr-FR": "Partie 1, leçon 14"
+      }
+    },
+    {
+      "id": "p1-lecon-15",
+      "title": {
+        "fr-FR": "Partie 1, leçon 15. Explication de la doctrine précédente"
+      }
+    },
+    {
+      "id": "p1-lecon-16",
+      "title": {
+        "fr-FR": "Partie 1, leçon 16"
+      }
+    },
+    {
+      "id": "p1-lecon-17",
+      "title": {
+        "fr-FR": "Partie 1, leçon 17. Que notre chair est tout opposée et rebelle à"
+      }
+    },
+    {
+      "id": "p1-lecon-18",
+      "title": {
+        "fr-FR": "Partie 1, leçon 18"
+      }
+    },
+    {
+      "id": "p1-lecon-19",
+      "title": {
+        "fr-FR": "Partie 1, leçon 19"
+      }
+    },
+    {
+      "id": "p1-lecon-20",
+      "title": {
+        "fr-FR": "Partie 1, leçon 20"
+      }
+    },
+    {
+      "id": "p1-lecon-21",
+      "title": {
+        "fr-FR": "Partie 1, leçon 21"
+      }
+    },
+    {
+      "id": "p1-lecon-22",
+      "title": {
+        "fr-FR": "Partie 1, leçon 22"
+      }
+    },
+    {
+      "id": "p1-lecon-23",
+      "title": {
+        "fr-FR": "Partie 1, leçon 23. Du mystère de la sépulture, et en quoi sa grâce diffère de celle de la mort"
+      }
+    },
+    {
+      "id": "p1-lecon-24",
+      "title": {
+        "fr-FR": "Partie 1, leçon 24"
+      }
+    },
+    {
+      "id": "p1-lecon-25",
+      "title": {
+        "fr-FR": "Partie 1, leçon 25"
+      }
+    },
+    {
+      "id": "p2-lecon-01",
+      "title": {
+        "fr-FR": "Partie 2, leçon 1"
+      }
+    },
+    {
+      "id": "p2-lecon-02",
+      "title": {
+        "fr-FR": "Partie 2, leçon 2"
+      }
+    },
+    {
+      "id": "p2-lecon-03",
+      "title": {
+        "fr-FR": "Partie 2, leçon 3"
+      }
+    },
+    {
+      "id": "p2-lecon-04",
+      "title": {
+        "fr-FR": "Partie 2, leçon 4"
+      }
+    },
+    {
+      "id": "p2-lecon-05",
+      "title": {
+        "fr-FR": "Partie 2, leçon 5. Que Notre-Seigneur Jésus-Christ habite en nous, et que nous pouvons en tout temps communier spirituellement"
+      }
+    },
+    {
+      "id": "p2-lecon-06",
+      "title": {
+        "fr-FR": "Partie 2, leçon 6"
+      }
+    },
+    {
+      "id": "p2-lecon-07",
+      "title": {
+        "fr-FR": "Partie 2, leçon 7"
+      }
+    },
+    {
+      "id": "p2-lecon-08",
+      "title": {
+        "fr-FR": "Partie 2, leçon 8"
+      }
+    },
+    {
+      "id": "p2-lecon-09",
+      "title": {
+        "fr-FR": "Partie 2, leçon 9. Nous pouvons prier Dieu, quoique nous ne le connaissions point parfaitement et que nous ignorions même nos propres besoins"
+      }
+    },
+    {
+      "id": "p2-lecon-10",
+      "title": {
+        "fr-FR": "Partie 2, leçon 10"
+      }
+    },
+    {
+      "id": "p2-lecon-11",
+      "title": {
+        "fr-FR": "Partie 2, leçon 11"
+      }
+    },
+    {
+      "id": "p2-lecon-12",
+      "title": {
+        "fr-FR": "Partie 2, leçon 12"
+      }
+    },
+    {
+      "id": "p2-lecon-13",
+      "title": {
+        "fr-FR": "Partie 2, leçon 13"
+      }
+    },
+    {
+      "id": "p2-lecon-14",
+      "title": {
+        "fr-FR": "Partie 2, leçon 14"
+      }
+    },
+    {
+      "id": "p2-lecon-15",
+      "title": {
+        "fr-FR": "Partie 2, leçon 15"
+      }
+    }
+  ]
+}

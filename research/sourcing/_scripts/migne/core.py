@@ -84,7 +84,7 @@ def merge(paras):
     for p in paras:
         if res and not END.search(res[-1]) and p[:1].islower() and not res[-1].startswith('#'):
             prev = res[-1]
-            res[-1] = prev + ' ' + p
+            res[-1] = (prev[:-1] + p) if re.search(r'[A-Za-zà-ÿ]-$', prev) else prev + ' ' + p
         else:
             res.append(p)
     return res
