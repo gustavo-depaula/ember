@@ -1,0 +1,126 @@
+{
+  "id": "bellarmine-controversiae-de-ordine",
+  "cover": "classic",
+  "name": {
+    "la": "De sacramento ordinis",
+    "en-US": "On the Sacrament of Order",
+    "pt-BR": "Sobre o sacramento da ordem"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De sacramento ordinis. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the sacrament of holy orders. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre o sacramento da ordem."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-ordine",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia05bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 5 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Ordinationem vere ac proprie Sacramentum esse none legis, qui negaverint c.v hxreticis",
+        "en-US": "Caput I. Ordinationem vere ac proprie Sacramentum esse none legis, qui negaverint c.v hxreticis"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Ordinationem Sacramentum esse demonstratur ex divinis litteris",
+        "en-US": "Caput II. Ordinationem Sacramentum esse demonstratur ex divinis litteris"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Ordinationem Sacramentum esse, probatur ex traditione",
+        "en-US": "Caput III. Ordinationem Sacramentum esse, probatur ex traditione"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Idem ostenditur ratione",
+        "en-US": "Caput IV. Idem ostenditur ratione"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Episcopalem Ordinationem Sacramentum esse",
+        "en-US": "Caput V. Episcopalem Ordinationem Sacramentum esse"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Diaconatum esso verum Sacramentum",
+        "en-US": "Caput VI. Diaconatum esso verum Sacramentum"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Subdiaconatum esse etiam Sacramentum",
+        "en-US": "Caput VII. Subdiaconatum esse etiam Sacramentum"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Minores etiam Ordines Sacramenta esse",
+        "en-US": "Caput VIII. Minores etiam Ordines Sacramenta esse"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Manus impositionem ad essentiam Sacramenti Ordinis perlinere",
+        "en-US": "Caput IX. Manus impositionem ad essentiam Sacramenti Ordinis perlinere"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. De effectu hujus Sacramenti",
+        "en-US": "Caput X. De effectu hujus Sacramenti"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. De Ministro",
+        "en-US": "Caput XI. De Ministro"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. De Caeremoniis",
+        "en-US": "Caput XII. De Caeremoniis"
+      }
+    }
+  ]
+}
