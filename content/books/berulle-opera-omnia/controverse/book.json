@@ -1,0 +1,132 @@
+{
+  "id": "berulle-controverse",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Œuvres de controverse",
+    "en-US": "Works of Controversy",
+    "pt-BR": "Obras de controvérsia"
+  },
+  "author": {
+    "fr-FR": "Cardinal Pierre de Bérulle",
+    "en-US": "Cardinal Pierre de Bérulle",
+    "pt-BR": "Cardeal Pierre de Bérulle"
+  },
+  "description": {
+    "fr-FR": "Les discours de controverse (mission des pasteurs, sacrifice de la messe, présence réelle), les discours sur l’Eucharistie et les opuscules contre les hérétiques.",
+    "en-US": "The controversy discourses (the mission of pastors, the sacrifice of the Mass, the real presence), the discourses on the Eucharist and the minor writings against the heretics.",
+    "pt-BR": "Os discursos de controvérsia (missão dos pastores, sacrifício da missa, presença real), os discursos sobre a Eucaristia e os opúsculos contra os hereges."
+  },
+  "composed": 1609,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "berulle/controverse",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescompl00br",
+      "edition": "Œuvres complètes du cardinal de Bérulle, éd. Migne, Paris, 1856 (reprint of Bourgoing’s 1644 collected edition); archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors, merged columns and some chapter openings the scan lost remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Bérulle died in 1629; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "controverse-01",
+      "title": {
+        "fr-FR": "Discours de controverse 1"
+      }
+    },
+    {
+      "id": "controverse-02",
+      "title": {
+        "fr-FR": "Discours de controverse 2"
+      }
+    },
+    {
+      "id": "controverse-03",
+      "title": {
+        "fr-FR": "Discours de controverse 3. De la présence du corps dk Jésus-Christ en la sainte Eucharistie"
+      }
+    },
+    {
+      "id": "controverse-04",
+      "title": {
+        "fr-FR": "Discours de controverse 4"
+      }
+    },
+    {
+      "id": "eucharistie-avis",
+      "title": {
+        "fr-FR": "Discours sur l’Eucharistie : avis au lecteur"
+      }
+    },
+    {
+      "id": "eucharistie-01",
+      "title": {
+        "fr-FR": "Sur l’Eucharistie, discours 1"
+      }
+    },
+    {
+      "id": "eucharistie-02",
+      "title": {
+        "fr-FR": "Sur l’Eucharistie, discours 2"
+      }
+    },
+    {
+      "id": "eucharistie-04",
+      "title": {
+        "fr-FR": "Sur l’Eucharistie, discours 4"
+      }
+    },
+    {
+      "id": "eucharistie-05",
+      "title": {
+        "fr-FR": "Sur l’Eucharistie, discours 5"
+      }
+    },
+    {
+      "id": "eucharistie-06",
+      "title": {
+        "fr-FR": "Sur l’Eucharistie, discours 6"
+      }
+    },
+    {
+      "id": "eucharistie-07",
+      "title": {
+        "fr-FR": "Sur l’Eucharistie, discours 7"
+      }
+    },
+    {
+      "id": "eucharistie-09",
+      "title": {
+        "fr-FR": "Sur l’Eucharistie, discours 9"
+      }
+    },
+    {
+      "id": "eucharistie-10",
+      "title": {
+        "fr-FR": "Sur l’Eucharistie, discours 10"
+      }
+    },
+    {
+      "id": "opuscules-01",
+      "title": {
+        "fr-FR": "Opuscules divers contre les hérétiques, partie 1"
+      }
+    },
+    {
+      "id": "opuscules-02",
+      "title": {
+        "fr-FR": "Opuscules divers contre les hérétiques, partie 2"
+      }
+    }
+  ]
+}
