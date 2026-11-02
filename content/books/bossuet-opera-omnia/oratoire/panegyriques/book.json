@@ -1,0 +1,180 @@
+{
+  "id": "bossuet-panegyriques",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Panégyriques des saints",
+    "en-US": "Panegyrics of the Saints",
+    "pt-BR": "Panegíricos dos santos"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Les panégyriques et précis de panégyriques de Bossuet, prononcés de 1655 à 1668 : saint André, saint Jean, saint Thomas de Cantorbéry, saint François de Sales, saint Joseph, saint Benoît, saint François de Paule, saint Pierre, saint Paul, saint Bernard, saint François d’Assise, sainte Thérèse, sainte Catherine et d’autres. Édition Lachat (1863).",
+    "en-US": "Bossuet’s panegyrics and outlines of panegyrics, preached between 1655 and 1668: Saint Andrew, Saint John, Saint Thomas of Canterbury, Saint Francis de Sales, Saint Joseph, Saint Benedict, Saint Francis of Paola, Saints Peter and Paul, Saint Bernard, Saint Francis of Assisi, Saint Teresa, Saint Catherine and others. Lachat edition (1863).",
+    "pt-BR": "Os panegíricos e esboços de panegíricos de Bossuet, pregados entre 1655 e 1668: santo André, são João, são Tomás de Cantuária, são Francisco de Sales, são José, são Bento, são Francisco de Paula, são Pedro, são Paulo, são Bernardo, são Francisco de Assis, santa Teresa, santa Catarina e outros. Edição Lachat (1863)."
+  },
+  "composed": "1655–1668",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/panegyriques",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1863
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume012/001.htm to 023.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of the Lachat edition, volume012/001.htm to 023.htm. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "pan-001",
+      "title": {
+        "fr-FR": "Panégyrique de Saint André, Apôtre"
+      }
+    },
+    {
+      "id": "pan-002",
+      "title": {
+        "fr-FR": "Panégyrique de Saint Jean, Apôtre"
+      }
+    },
+    {
+      "id": "pan-003",
+      "title": {
+        "fr-FR": "Panégyrique de Saint Thomas de Cantorbéry"
+      }
+    },
+    {
+      "id": "pan-004",
+      "title": {
+        "fr-FR": "Panégyrique de Saint Sulpice"
+      }
+    },
+    {
+      "id": "pan-005",
+      "title": {
+        "fr-FR": "Panégyrique de Saint François de Sales"
+      }
+    },
+    {
+      "id": "pan-006",
+      "title": {
+        "fr-FR": "Panégyrique de Saint Pierre de Nolasque"
+      }
+    },
+    {
+      "id": "pan-007",
+      "title": {
+        "fr-FR": "Premier Panégyrique de Saint Joseph"
+      }
+    },
+    {
+      "id": "pan-008",
+      "title": {
+        "fr-FR": "Second Panégyrique de Saint Joseph"
+      }
+    },
+    {
+      "id": "pan-009",
+      "title": {
+        "fr-FR": "Panégyrique de Saint Benoît"
+      }
+    },
+    {
+      "id": "pan-010",
+      "title": {
+        "fr-FR": "Premier Panégyrique de Saint François de Paule"
+      }
+    },
+    {
+      "id": "pan-011",
+      "title": {
+        "fr-FR": "Second Panégyrique de Saint François de Paule"
+      }
+    },
+    {
+      "id": "pan-012",
+      "title": {
+        "fr-FR": "Panégyrique de l'Apôtre Saint Pierre"
+      }
+    },
+    {
+      "id": "pan-013",
+      "title": {
+        "fr-FR": "Panégyrique de l'Apôtre Saint Paul"
+      }
+    },
+    {
+      "id": "pan-014",
+      "title": {
+        "fr-FR": "Précis d'un Panégyrique de l'Apôtre Saint Paul"
+      }
+    },
+    {
+      "id": "pan-015",
+      "title": {
+        "fr-FR": "Panégyrique de Saint Victor"
+      }
+    },
+    {
+      "id": "pan-016",
+      "title": {
+        "fr-FR": "Précis d'un Panégyrique pour la Fête de Saint Jacques"
+      }
+    },
+    {
+      "id": "pan-017",
+      "title": {
+        "fr-FR": "Panégyrique de Saint Bernard"
+      }
+    },
+    {
+      "id": "pan-018",
+      "title": {
+        "fr-FR": "Premier Panégyrique de Saint Gorgon"
+      }
+    },
+    {
+      "id": "pan-019",
+      "title": {
+        "fr-FR": "Second Panégyrique de Saint Gorgon"
+      }
+    },
+    {
+      "id": "pan-020",
+      "title": {
+        "fr-FR": "Panégyrique pour la Fête des Anges Gardiens"
+      }
+    },
+    {
+      "id": "pan-021",
+      "title": {
+        "fr-FR": "Panégyrique de Saint François d'Assise ; Exorde pour un panégyrique de Saint François d'Assise"
+      }
+    },
+    {
+      "id": "pan-022",
+      "title": {
+        "fr-FR": "Panégyrique de Sainte Thérèse ; Seconde allocution pour le panégyrique de Sainte Thérèse"
+      }
+    },
+    {
+      "id": "pan-023",
+      "title": {
+        "fr-FR": "Panégyrique de Sainte Catherine ; Seconde Péroraison pour le panégyrique de Sainte Catherine"
+      }
+    }
+  ]
+}
