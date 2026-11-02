@@ -1,0 +1,54 @@
+{
+  "id": "bossuet-traite-de-l-usure-et-memoires",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Traité de l’usure et mémoires sur l’impression des ouvrages de doctrine",
+    "en-US": "Treatise on Usury and Memoranda on the Printing of Works of Doctrine",
+    "pt-BR": "Tratado da usura e memórias sobre a impressão de obras de doutrina"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Le Traité de l’usure, en propositions tirées de l’Écriture et de la tradition (la défense de l’usure dans l’ancienne loi, son esprit, la doctrine des chrétiens), suivi des mémoires de Bossuet au chancelier sur l’impression des ouvrages de doctrine. Édition Lachat (1866).",
+    "en-US": "The Treatise on Usury, in propositions drawn from Scripture and tradition (the prohibition of usury in the old law, its spirit, the teaching of Christians), followed by Bossuet’s memoranda to the chancellor on the printing of works of doctrine. Lachat edition (1866).",
+    "pt-BR": "O Tratado da usura, em proposições tiradas da Escritura e da tradição (a proibição da usura na antiga lei, seu espírito, a doutrina dos cristãos), seguido das memórias de Bossuet ao chanceler sobre a impressão de obras de doutrina. Edição Lachat (1866)."
+  },
+  "composed": "1700",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/traite-de-l-usure-et-memoires",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1866
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume031/002.htm to 003.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXXI, pages 002-003. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "traite-de-l-usure",
+      "title": {
+        "fr-FR": "Traité de l’usure"
+      }
+    },
+    {
+      "id": "memoires-sur-l-impression",
+      "title": {
+        "fr-FR": "Mémoires au sujet de l’impression des ouvrages de doctrine"
+      }
+    }
+  ]
+}

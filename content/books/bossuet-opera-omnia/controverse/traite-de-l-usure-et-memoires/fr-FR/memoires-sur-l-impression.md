@@ -1,0 +1,432 @@
+# Mémoires au sujet de l’impression des ouvrages de doctrine
+
+## MÉMOIRES AU SUJET DE L'IMPRESSION DES OUVRAGES DE DOCTRINE COMPOSÉS PAR LES ÉVÊQUES .
+
+## EXTRAIT DES LETTRES DU CHANCELIER DE PONTCHARTRAIN.
+
+### LE CHANCELIER.
+
+Monsieur le cardinal dira qu'une censure, en un point de doctrine, ne peut être soumise à l'examen de ceux qu'emploie un[^1][^2] chancelier sur le fait des livres qu'on veut faire imprimer. Je contesterais fort cette réponse, si je voulais : je lui dirais, et dirais par principe, qu'il a droit sans doute de faire tant de censures qu'il lui plaira ; mais qu'il n'a pas droit pour cela de les faire imprimer sans privilège. Qu'il fasse faire, si bon lui semble, mille et mille copies de ses censures dans son secrétariat, qu'il les rende publiques...; ce n'est point mon affaire, c'est son droit: mais veut-il imprimer, c'est mon affaire, c'est mon droit.....; peut-être ne l'étendrais-je pas jusqu'à faire discuter sa censure, etc.
+
+suffrages et fait l'admiration de tous les théologiens : et voilà que l'on défère tout à coup l'enseignement de ce grand docteur, de ce grand évêque, à l'examen d'un simple prêtre ! Cette injure faite au pontife et cette atteinte portée à la liberté frappait du même coup tout l'épiscopat; ce renversement de l'ordre dans l'Eglise et dans l'Etat allait droit à soumettre, et M. de Pontchartrain prétendait effectivement soumettre, à la censure tous les ouvrages de doctrine et de liturgie publiés par les évêques, les mandements, les livres de prières, les missels, les vespéraux, les rituels, etc.
+
+Bossuet, ce génie qu'on invoque à l'appui du despotisme, s'arma de tout son zèle et de toute son énergie pour la défense de la liberté. Avant toutes choses, il s'assura l'appui du cardinal de Noailles et la médiation toujours si religieuse de Madame de Maintenon; puis, pour observer toutes les convenances, il porta ses réclamations devant M. de Pontchartrain : il lui adressa une requête aussi ferme de langage que forte de raisons; il eut avec lui trois conférences, dont une en présence du cardinal de Noailles archevêque de Paris : rien ne put vaincre son inconcevable opiniâtreté.
+
+Alors Bossuet monta chez le roi, et fit quatre mémoires pour répondre successivement aux objections du ministre. Ces mémoires sont d'une grande force et tout ensemble d'une admirable simplicité; le langage en est respectueux, et la doctrine inflexible; car en ce temps-là, le respect s'allioit à l'indépendance. Nous ne signalerons pas le développement de la discussion ; le lecteur le suivra facilement.
+
+Louis XIV, éclairé, dit un mot, et l'on vit s'opérer une révolution soudaine : M. de Pontchartrain retira la défense qu'il avait faite au libraire Anisson, et laissa paraître sans formalité l'Ordonnance et la première, puis bientôt la seconde *Instruction contre la Version de Trévoux*. En même temps il donna, dit l'abbé Ledieu, « toute liberté aux évêques pour leurs ordonnances, statuts, censures» et autres ouvrages de doctrine, de piété et de liturgie.
+
+Tel fut le zèle de Bossuet pour la liberté de l'Eglise. Rien n’aurait pu vaincre son courage et sa constance. Il dit dans une lettre qu'on lira plus loin : Nous faudra-t-il « prendre l'attache de M. le chancelier, et achever de mettre l'Eglise sous le joug? Pour moi j'y mettrais la tête : je ne relâcherai rien de ce côté-là, ni ne déshonorerai le ministère dans une occasion où la gloire de mon métropolitain, autant que l'intérêt de l'épiscopat, se trouve mêlée. »
+
+Aujourd'hui l'Etat n'a plus de docteur, parce qu'il n'a plus de doctrine, pour examiner les écrits des évêques; mais il a un droit de timbre et un brevet d'imprimeur. Qu'on nous dise quel avantage le siècle de la liberté nous offre sur le siècle du despotisme.
+
+BOSSUET.
+
+On voit par là que la censure, dès qu'on la voudra imprimer, deviendra soumise à son jugement, et qu'il en pourra refuser le privilège; ce qui s'étendra pareillement aux Catéchismes, Missels, Rituels, etc.
+
+LE CHANCELIER.
+
+Ma peine ne roule que sur l'impression des maximes avancées par M. l'archevêque, dans le manifeste de sa censure.
+
+BOSSUET.
+
+Il y a de l'affectation à distinguer ce qu'il appelle le manifeste, c'est-à-dire le préparatoire à la censure, d'avec la censure même.
+
+LE CHANCELIER.
+
+Le nom de l'auteur du *Nouveau Testament de Trévoux*, me paraissant fort suspect..., le privilège fut accordé le 26 mars 1702, mais sous la condition de faire une infinité de corrections dans la nouvelle édition.
+
+BOSSUET.
+
+Ainsi dans le fond, il est constant que le livre en question méritait la censure en l'état où il était, ne s'agissant point d'un livre à venir dans la censure de M. le cardinal, mais de celui dont l'auteur est fort suspect, et qui avait besoin d'une infinité de corrections.
+
+LE CHANCELIER.
+
+Que M. l'archevêque trouve mille choses à reprendre dans le livre, tel qu'il est imprimé à Trévoux, il ne fait que ce que j'ai fait moi-même. Qu'il me donne là-dessus ses avis...: qu'il attende ensuite que le livre soit imprimé...; s'il trouve encore des erreurs, qu'il se plaigne, etc.
+
+BOSSUET.
+
+Par ce moyen le livre où M. le chancelier, comme M. l'archevêque, trouve mille choses à reprendre, et même des erreurs, passera sans répréhension ; et l'erreur demeurera entre les mains de tout le monde, sans qu'il reste autre chose à un archevêque que de se plaindre à M. le chancelier.
+
+LE CHANCELIER.
+
+La seule question est de savoir si quelque loi me défend d'accorder des permissions d'imprimer toutes sortes de livres, même des versions de l'Ecriture, sans m'être préalablement muni de l'approbation des ordinaires ; et s'il est permis à un prélat d'avancer.....des maximes qui ne tendent qu'à cette fin.
+
+BOSSUET.
+
+Les prélats n'ont jamais seulement songé que pour accorder son privilège, M. le chancelier dût se munir de l'approbation des ordinaires. Il donne son privilège indépendamment, et suppose que les auteurs font leur devoir. Il n'y a point de lois qui défendent aux évêques de faire exécuter aux particuliers les règles de la discipline établie dans les conciles; et si l'auteur l'eût fait, il aurait évité l'inconvénient où il est tombé, en sorte que visiblement il est dans son tort.
+
+LE CHANCELIER.
+
+M. l'archevêque d Auch s'assujettit à cette règle, il y a dix-huit mois. Il me présenta l'exemplaire de son Rituel, pour être examiné à l'ordinaire. Il en fut dispensé, attendu son mérite personnel : le titre en fait foi.
+
+BOSSUET.
+
+C'est ainsi que sous prétexte de dispense, on voudrait engager les évêques à soumettre à l'examen ordinaire, c'est-à-dire au jugement d'un docteur, jusqu'à leurs Rituels et tous les autres livres ecclésiastiques.
+
+## MÉMOIRE DE BOSSUET AU CHANCELIER.
+
+Le fait est que depuis trente à quarante ans que je défends la cause de l'Eglise contre toutes sortes d'erreurs, cinq chanceliers consécutifs, depuis M. Séguier jusqu'à celui qui remplit aujourd'hui cette grande place, ne m'ont jamais soumis à aucun examen pour obtenir leur privilège. Us ont voulu honorer par là la grâce que sa Majesté m'avait faite de me confier l'instruction de Monseigneur le Dauphin, et si j'ose le dire, le bonheur que ma doctrine, loin d'avoir reçu aucune atteinte, a toujours eu d'être approuvée par tout le clergé de France et même par les Papes.
+
+Après cela, quand on verra dorénavant paraître mes écrits avec l'attestation d'un examen, cette nouvelle précaution fera dire que ma doctrine commence à devenir suspecte, et je ne serai pas longtemps sans en essuyer les reproches des protestans.
+
+Par ce moyen, le privilège avantageux dont j'ai été honoré, et l'exemption perpétuelle de tout examen sous cinq chanceliers consécutifs, me tournera à confusion, et on croira que je m'en suis rendu indigne. Il est malheureux pour moi d'être le premier des évêques au livre duquel paroisse cette attestation d'examen. La première fois qu'on la verra dans mes écrits arrivera justement au sujet du pernicieux livre de M. Simon, et je n'ai pas besoin d'expliquer que cela pourra faire dire qu'on m'impute à faute de l'avoir attaqué.
+
+Enfin sous un chancelier qui m'honore publiquement de son amitié depuis si longtemps, j'aurai reçu un traitement qui jamais ne me sera arrivé sous les autres, qui auront été élevés à cette charge.
+
+Quand il plaira à celui qui la remplit si dignement d'user de quelque distinction à mon égard, il ne fera pour moi que ce qu'il a déjà fait pour d'autres évêques ; et j'ai peine à croire que cette grâce soit tirée à conséquence.
+
+## LETTRE A M. LE CARDINAL DE NOAILLES. A Germigny, ce 25 octobre 1702.
+
+La réponse, Monseigneur, que j'ai reçue me fait voir qu'il n'y a rien à espérer de M. l'abbé Bignon, qui, à quelque prix que ce soit, veut faire des difficultés à ceux qui sont en état de découvrir les erreurs cachées de M. Simon, plus dangereuses encore que celle qu'il débite à découvert. Ainsi il est temps que Votre Eminence fasse les derniers efforts pour la défense de la religion et de l’épiscopat.
+
+J'envoie à Votre Eminence, par cet exprès, le mémoire que j'ai dressé pour sa Majesté : ce sera à Votre Eminence à le faire valoir ; et je l'en supplie par toute l'amitié dont elle m'honore depuis si longtemps, et par tout le zèle qu'elle a pour la religion.
+
+Il me sera bien douloureux d'être le premier qu'on assujettisse à un traitement si rigoureux : mais le plus grand mal est que ce ne sera qu'un passage pour mettre les autres sous le joug. Il est vrai qu'il y a un règlement de l'an passé, fondé sur lettres-patentes, pour obliger ceux qui ont des privilèges généraux à remettre leurs manuscrits à M. le chancelier, pour être examinés : mais il est vrai aussi qu'il ne s'est point pratiqué, du moins à mon égard et à celui des évêques. Celui qu'on a ajouté, de mettre l'attestation du docteur à la tête de l'impression, est tout nouveau et fait à cette occasion : ainsi il est tout visible qu'il est fait en faveur de M. Simon et en haine de notre censure.
+
+Quand on a dit à M. le chancelier qu'il était étrange d'assujettir les évêques à ne pouvoir enseigner que dépendamment des prêtres, et à subir un examen sur la foi, il a répondu qu'il fallait être attentif à ce qu'ils pourraient écrire contre l'Etat. Mais les évêques sont gens connus et pour ainsi dire bien domiciliés ; et c'est une étrange oppression, sous prétexte qu'il peut arriver .qu'il y en ait quelques-uns qui manquent à leur devoir pour le temporel (ce qui néanmoins est si rare et n'arrive point ), d’assujettir tous les autres, et de leur lier les mains en ce qui regarde la foi, qui est l'essentiel de leur ministère et le fondement de l'Eglise. Le roi ne le souffrira pas, et notre ressource est toute dans sa piété.
+
+Surtout, Monseigneur, il faut tâcher de faire entrer dans l'esprit du roi par combien d'artifices l'esprit socinien sait s'introduire, par combien de détours et par combien de dangereuses insinuations ; en sorte que nous sommes tous obligés à lui dire qu'il n'a jamais eu et ne peut avoir pour la religion d'affaires plus périlleuses. Peu de personnes connaissent cette dangereuse hérésie, parce qu'elle met toute sa finesse à se cacher, et qu'elle a pour elle tous les libertins. J'ai cru être obligé de m'appliquer à découvrir ses finesses, appréhendant avec raison d'avoir quelque jour à les combattre. Le temps en est venu, et voilà qu'on m'arrête dès le premier pas, faute d'être instruit sur ce sujet et parce qu'on n'a pas voulu nous en croire.
+
+J'ai averti M. le chancelier avec toute la sincérité que je devais : je l'ai trouvé, je l'oserai dire, si prévenu sur les droits de sa charge, qu'il n'écoutait rien autre chose, et semblait prêta abandonner l'Ecriture à ceux qui s'affranchiraient de l'autorité des évêques, à qui l'interprétation en est confiée, comme étant le fondement du salut. Faute de s'assujettir à cette règle, l'Evangile deviendra ce qu'on voudra, et bientôt on ne le connaîtra plus.
+
+J'implore le secours de Madame de Maintenon, à qui je n'ose en écrire. Votre Eminence fera ce qu'il faut ; Dieu nous la conserve. On nous croira à la fin, et le temps découvrira la vérité : mais il est à craindre que ce ne soit trop tard, et lorsque le mal aura fait de trop grands progrès : j'ai le cœur percé de cette crainte. Dieu vous a mis où vous êtes pour y obvier. Respect, obéissance et soumission.
+
++ J. Bénigne, Ev. de Meaux.
+
+J'ai cru qu'il serait utile de joindre au mémoire une copie de mon privilège. J'ai voulu tout dire dans le mémoire, afin que Votre Eminence choisisse ce qu'il y aura de plus utile.
+
+### PRIVILÈGE DU ROI.
+
+Louis, par la grâce de Dieu, etc, : le sieur Jacques-Bénigne Bossuet, etc, nous a fait remontrer qu'outre plusieurs ouvrages qu'il a ci-devant donnés au public, et dont les privilèges sont expirés ou prêts à expirer, il travaille encore à d'autres ouvrages, tant pour l'instruction de son diocèse que pour le bien général de l'Eglise, lesquels il désirerait faire imprimer, s'il nous plaisait lui en accorder la permission et nos lettres sur ce nécessaires : et voulant donner moyen audit sieur évêque de continuer à communiquer au public les lumières qui ont toujours été si nécessaires au salut des âmes et si avantageuses au bien de notre sainte religion, nous lui avons permis, etc., pour l'espace de dix années, etc.
+
+Donné à Versailles, le vingt-sixième jour de février 1701.
+
+## PREMIER MÉMOIRE. Présenté à Sa Majesté, le 2 novembre 1702.
+
+L'évêque de Meaux se croit obligé de représenter très-humblement à sa Majesté le nouveau traitement qu'on lui fait, au sujet d'un livre qu'il se croit obligé d'imprimer contre la version et les notes du Nouveau Testament de Trévoux.
+
+Cette version et ces notes sont pernicieuses, et tendent à l'entière subversion de la religion ; et la censure de M. le cardinal de Noailles ne pouvait être ni plus juste ni plus nécessaire.
+
+L'ouvrage de l'évêque de Meaux donne aussi des instructions très-nécessaires sur cette nouvelle version, et explique les erreurs de ce livre, d'une manière encore plus particulière que ne peut faire une censure.
+
+Cependant on lui fait des incidents, sur lesquels il ne croit pas devoir passer outre, sans les avoir exposés à Sa Majesté, en toute humilité et respect.
+
+Cet évêque écrit depuis trente à quarante ans pour la défense de l'Eglise contre toutes sortes d'erreurs ; et cinq chanceliers de France consécutifs, depuis M. Séguier,y compris celui qui remplit si bien aujourd'hui cette charge, lui ont toujours fait expédier le privilège, sans le soumettre jamais à aucun examen.
+
+Cette confiance qu'on lui a marquée doit être attribuée, premièrement à son caractère d'évêque ; secondement, à ce que sa doctrine a été connue, non-seulement dans tout le royaume, mais encore, s'il ose le dire, dans toute la chétienté, sans jamais avoir reçu aucune atteinte ; et au contraire elle a été approuvée, non-seulement par tout le clergé de France, mais encore par les papes : en troisième lieu, à l'honneur que lui a fait Sa Majesté de lui confier l'instruction de monseigneur le Dauphin, et de le tenir toujours en divers emplois près de sa personne, ce qui est le plus certain témoignage d'une doctrine irréprochable.
+
+C'est aussi ce qui a donné lieu à M. le chancelier d'aujourd'hui de lui accorder un privilège général.
+
+Il en usait de bonne foi, en découvrant les erreurs de ce livre pernicieux, quand au commencement de ce mois il est venu un ordre de M. le chancelier de porter le manuscrit de cet évêque à M. Pirot, pour en subir l'examen.
+
+Quoique jamais l'évêque de Meaux n'ait été assujetti à rien de pareil ; comme en de semblables rencontres, il a pris ordinairement de lui-même le conseil de ce docteur, il lui a tout remis ; et M. Pirot donne sans hésiter son témoignage.
+
+Il est encore venu un nouvel ordre et règlement de M. le chancelier, pour faire imprimer à la tête du privilège l'attestation du docteur ; ce qui serait un témoignage public de l'assujettissement des évêques à la censure des docteurs.
+
+C'est ce que cet évêque croit tout à fait opposé à son honneur, et à celui de son caractère.
+
+Premièrement, parce que cela n'a jamais été pratiqué à son égard. Il a imprimé, même sous M. le chancelier d'aujourd'hui, en 1700 et 1701, deux livres pour l'instruction des nouveaux catholiques, sans qu'il y ait paru rien de semblable.
+
+Secondement, non-seulement cela n'a jamais été pratiqué à son égard, mais encore ne l'a jamais été à l'égard d'aucun ouvrage imprimé par les évêques, et même par leur ordre. Il y en a un exemple bien récent dans un livre imprimé par ordre de M. l'évêque de Montpellier, le 6 juillet dernier, sans qu'il y paroisse rien de pareil.
+
+Troisièmement, il n'est pas besoin d'entrer dans les règlements qu'on a pu faire sur les examens des livres à imprimer, puisqu'on a toujours distingué les évêques dans l'exécution des règlements les plus généraux ; paraissant tout à fait extraordinaire qu'eux, qui ont reçu de Jésus-Christ le dépôt de la doctrine, ne la puissent enseigner que dépendamment des prêtres qui leur sont soumis de droit divin.
+
+Quatrièmement, cette nouvelle formalité dans les ouvrages de l'évêque de Meaux, fera dire que sa doctrine commence à devenir suspecte, et il aura bientôt à essuyer sur ce sujet le reproche des protestants.
+
+Cinquièmement, cette précaution extraordinaire, qu'on prend à l'occasion d'un livre si justement flétri par M. le cardinal de Noailles, sera bien remarquée, et fera dire à tout le monde qu'on lui a voulu donner de l'appui ; ce qui est d'une périlleuse conséquence.
+
+Sixièmement, cet auteur fut déjà flétri par l'arrêt du conseil d'en haut, le 19 juin 1678, *signé* Colbert, où son livre intitulé : *Histoire critique du Vieux Testament*, fut supprimé, avec défenses de le réimprimer, même sous prétexte de changer de titre, ou de corrections. Le lieutenant de police, à qui l'exécution de l'arrêt fut renvoyée, était alors M. de la Reynie, qui pourrait, en cas de besoin, rendre compte à Sa Majesté de ce qu'on craignait alors de ce dangereux auteur.
+
+Pour ces considérations, et en attendant que Sa Majesté ait fait justice aux évêques, sur le droit qui leur est donné par leur caractère d'être les premiers docteurs de la vérité dans l'Eglise ; l'évêque de Meaux espère de la bonté et de la justice de Sa Majesté, qu'elle voudra bien ordonner que le livre en question passe comme ses autres ouvrages, sans qu'il soit rien innové dans la manière de l'imprimer et débiter, afin de laisser la réputation saine et entière à un évêque qui a blanchi dans la défense de la vraie foi, et dans le service de Sa Majesté, en des emplois d'une si grande confiance.
+
+## LETTRE A M. LE CARDINAL DE NOAILLES. A Germigny, ce 24 octobre 1702.
+
+Comme je crois, Monseigneur, Votre Eminence présentement de retour de ses visites, et que le moment approche où elle verra le roi, il est temps que j'aie l'honneur de lui parler sur le traitement qu'on me fait. J'ai dissimulé la première injure, de me donner un examinateur ; ce que cinq chanceliers de suite, à commencer par M. Séguier, n'ont jamais songé : j'ai, dis-je, dissimulé dans le dessein d'avancer l'impression. Elle est achevée; cela va bien de ce côté-là : mais on passe à une autre injure, de vouloir que l'attestation de l'examinateur soit à sa tête. C'est, monseigneur, à quoi je ne consentirai jamais ; parce que c'est une injure à tous les évêques, qu'on veut mettre par là sous le joug, dans le point qui les touche le plus, dans l'essentiel de leur ministère, qui est la foi.
+
+En vérité, Monseigneur, s'il ne s'agissait que de moi, je pourrais encore m'y soumettre, dans l'espérance que le roi nous ferait justice : mais si j'abandonnais la cause, on la croirait finie par mon consentement et par mon exemple.
+
+J'ai mandé à M. Anisson ce qu'il avait à dire sur cela, pour empêcher qu'on n'en vînt à l'effet. J'attends la réponse ; et je ne l'aurai pas plutôt que je prendrai mon parti.
+
+J'espère tout, après Dieu, du secours et de la protection de Votre Eminence, que Dieu n'a mise dans une si grande place, avec tant de lumières, de piété et de crédit, que pour soutenir l'Eglise. Je m'aiderai de mon côté, et j'espère en Dieu qu'il nous tirera de cette oppression, si nous ne perdons point courage : si j'en manquais, Votre Eminence serait la première à me redresser. Il faut éviter l'examen aux évêques. Je dresserai une requête, que je prierai Votre Eminence de présenter et d’appuyer. J'attends, pour la dresser, que j'aie une réponse précise, afin d'en régler la conclusion et les paroles. J'espère que Votre Eminence préviendra le roi, qu'on n'aura pas manqué de bien préparer contre nous. Je compte demain avoir réponse, et écrire plus précisément à Votre Eminence par mon neveu, que je suivrai, si je puis.
+
+Je crois que mon livre sera utile, principalement parce que se conformant en tout point à votre censure, il fera voir l'esprit socinien dans l'ouvrage qu'elle a condamné. Cela paraît devoir avoir un grand effet pour faire revenir les plus prévenus, et faire sentir à tout le monde le grand péril de l'Eglise. Dieu nous aidera; et pour moi, je combattrai sous vos ordres jusqu'au dernier soupir. Vous savez mon obéissance, monseigneur.
+
++ J. Bénigne, Ev. de Meaux. .
+
+## IIe MÉMOIRE, ou REQUÊTE AU ROI, PRÉSENTÉE PAR M. L'ÉVÊQUE DE MEAUX.
+
+Sire,
+
+Ce qui se passe en votre ville royale, dans votre Cour, à vos yeux, est d'une si grande conséquence pour la religion, que je me sens obligé par les devoirs les plus étroits de la conscience, de me jeter à vos pieds, pour supplier Votre Majesté en toute soumission et respect de vouloir s'y rendre attentive.
+
+Le Nouveau Testament de Trévoux, justement flétri par la plus savante censure qui ait été faite depuis plusieurs années, non-seulement se débite impunément dans Paris, où la censure en a été publiée ; mais encore en ôte aux évoques mêmes tous les moyens de combattre l'erreur par une saine doctrine. Cette censure à la vérité se soutient par sa propre force : mais comme il n'est pas possible de tout dire dans un ouvrage de cette nature, j'ai cru devoir découvrir par un petit livre les artifices dont l'auteur de cette version a coutume de se servir, pour imposera ceux qui le lisent sans précaution, ou qui ne le connaissent pas assez ; et on arrête mon livre dès le premier pas.
+
+J'ai déjà eu l'honneur de représenter humblement à Votre Majesté, que jusqu'ici mes ouvrages n'ont jamais été soumis à aucun examen, sous cinq chanceliers consécutifs ; et encore l'année passée, j'en ai publié deux, l'un pour l'instruction des nouveaux catholiques, et un autre à l'occasion du dernier jubilé qui a pour titre : Méditations sur la rémission des péchés. On a commencé à me faire des difficultés pour l'examen de ma doctrine, que lorsque je me suis élevé avec toute sorte de modération et de vérité contre un livre qui tend à l'entière subversion de la religion, en la corrompant dans sa source, c'est-à-dire dans les paroles sacrées de Jésus-Christ et de ses apôtres. Alors pour la première fois, non-seulement j'ai été contraint de subir l'examen d'un docteur particulier, mais encore on a voulu que le témoignage en fût mis à la tête de mon livre ; ce qui n'a jamais été pratiqué ni pour mes écrits, ni même pour ceux d'aucun évêque.
+
+Au lieu de me continuer le traitement qui m'avait toujours été fait, on m'astreint encore à des lois plus dures, et on ne me laisse pas la liberté de défendre dans mon diocèse par une ordonnance publique, la lecture de la nouvelle version, ni de donner ce témoignage authentique de ma conformité avec la doctrine de mon métropolitain; c'est-à-dire qu'on veut ôter aux évêques le droit d'enseigner leurs peuples par écrit, comme ils le font de vive voix ; et c'est par moi que l'on veut commencer à établir cette servitude.
+
+S'il y avait quelque chose dans mon ordonnance qui blessât les lois du royaume, je serais le premier à la corriger; mais, Sire, ce qu'on improuve dans un évêque, c'est d'avoir blâmé l'auteur de la version, parce qu'il a osé la publier sans l'approbation de l'Ordinaire. Je n'ai pourtant fait que suivre l'exemple de mon métropolitain, qui, comme ses prédécesseurs et tous les autres évêques, a enseigné la même vérité. C'est un métropolitain si distingué en dignité et en mérite, et enfin si appliqué par lui-même à la piété et à la doctrine, que l'on attaque en ma personne. On me veut faire désavouer ses saintes maximes ; sinon toute la liberté d'enseigner mon peuple et de résister à l'erreur me sera ôtée ; ce que Votre Majesté ne souffrira pas.
+
+Ce ne fut jamais l'intention de Votre Majesté ni celle des rois vos prédécesseurs, que les décrets des évêques, leurs statuts, leurs mandements, leurs ordonnances, dépendissent de vos magistrats ; et tous les évêques de votre royaume sont et ont toujours été dans une possession incontestable de les publier, selon la règle de leur conscience.
+
+Il nous est fâcheux, Sire, d'avoir à importuner Votre Majesté de la lecture de nos raisons : mais à qui l'Eglise aura-t-elle recours, sinon au prince de qui seul elle tient toute la conservation de ses droits sacrés, sans lesquels il n'y aurait point de religion sur la terre, et par conséquent point de stabilité dans les royaumes? Votre Majesté a toujours daigné nous entendre par elle-même ; et nous ne craignons pas de lui déplaire en la suppliant à genoux, comme nous faisons, que notre jugement parte de son trône et vienne immédiatement de sa bouche.
+
+Dans cette espérance, nous osons dire aux yeux du ciel et de la terre, et en la présence sacrée de Votre Majesté, qui nous représente celui dont nous sommes les ministres, qu'on n'a rien ici à nous reprocher. Quand nous disons « qu'il est dangereux d'exposer au public des versions de la sainte Ecriture sans la permission et l'approbation des évêques de France, » nous ne faisons que répéter la maxime fondamentale qui a servi de motif à cet arrêt solennel de 1667, sorti de la propre bouche de Votre Majesté, et que M. le cardinal de Noailles a inséré dans son ordonnance.
+
+Mais peut-être qu'on blâmera les évêques d'alléguer le concile de Trente, même dans les cas où ce concile ne fait autre chose que d'appuyer les coutumes inviolables du royaume. Il n'y a qu'à voir les décrets du concile de Sens, tenu à Paris en 1528, sous les yeux d'un de nos rois et par un archevêque chancelier de France, pour y lire de mot à mot la défense de publier les traductions des saints Livres sans l'autorité de l'Ordinaire. C'est un des plus vénérables monuments de l'Eglise gallicane dans les derniers temps, qui a servi de préliminaire au concile de Trente, et qui a été suivi par les conciles des autres provinces, sans que personne ait jamais songé à les contredire.
+
+On dit qu'il n'est point parlé dans l'ordonnance de Blois de cette permission de l'Ordinaire, pour publier les Livres sacrés. Qu'avait-on besoin de confirmer par une ordonnance expresse, ce qui était la règle publique de tout le royaume, et en particulier celle de la province de Sens, dont la ville et la province de Paris est obligée plus que toutes les autres de garder les salutaires décrets, comme l'héritage de ses pères ?
+
+Qu'il soit donc permis, Sire, aux évêques de cette province de conserver une si sainte institution, et qu'on ne leur fasse point un crime de s'y conformer.
+
+Quand il en faudrait venir à l'ordonnance de Blois, on en connaît la disposition dans l'article XXXVI, touchant l'Eglise, où il est expressément défendu d'exposer en vente aucuns almanachs ou pronostications, que premièrement ils n'aient été vus et visités par l'archevêque, évêque, etc. Cette ordonnance n'a fait que répéter l'article XXVI de celle d'Orléans.
+
+Si le moindre rapport à la religion, tel qu'il peut être dans ces almanachs et pronostics, a obligé les rois vos prédécesseurs à les renvoyer aux Ordinaires, par des ordonnances si authentiques, combien plus leur faut-il renvoyer la connaissance des versions, où il s'agit de conserver la substance même du Testament de Jésus-Christ.
+
+Si cette loi n'est inviolable, on publiera donc sans les évêques des catéchismes et des formules de prières publiques et particulières : ce qui à la vérité est de la dernière importance ; mais qui est encore beaucoup au-dessous des versions de l'Ecriture sainte et de celles de l'Evangile, où consiste le fondement et l'essence même de la religion.
+
+On objecte, et je le confesse, que les particuliers n'ont pas toujours observé cette règle aussi soigneusement que le méritait son importance. Mais, Sire, la négligence, ou même l'inadvertance ne sont pas un titre pour prescrire contre la loi. Il suffit de bien connaître une fois quel est l'esprit de la règle : elle subsiste dans les bons exemples. Le P. Amelotle fit sa version par l'ordre du clergé de France, et ne se crut pas assez autorisé sans la permission de l'Ordinaire. M. de Vence était évêque, et s'autorisa dans la sienne par une permission semblable. Ces deux exemples sont du temps de M. de Péréfixe, archevêque de Paris, il y a trente à quarante ans. Les Pères jésuites ont attendu longtemps la permission de M. l'archevêque d'aujourd'hui, et ont suspendu la publication de leur Nouveau Testament, jusqu'à ce qu'ils l'eussent obtenue.
+
+Lorsqu'on envoya aux réunis dans les provinces, par les ordres charitables de Votre Majesté, un si grand nombre de Nouveaux Testaments, celui du Père Amelotte fut choisi seul, comme approuvé par l'Ordinaire : et Votre Majesté se fit elle-même une loi de n'employer aucune autre version, que celle où elle trouva ce caractère d'approbation de l'évêque.
+
+La même chose s'est observée dans les catéchismes et dans les formules de prières. M. l'évêque de Montpellier vient d'imprimer à Paris un catéchisme ; mais il a pris la permission de l'Ordinaire. Sous feu M. l'archevêque, le P. Brossamin publia pour les nouveaux convertis un formulaire de prières; mais pour agir dans la règle, il en prit l'ordre de ce prélat. Ce serait une trop légère remarque, de dire que les évêques ont laissé passer tant d'ouvrages de piété sans en prendre connaissance. Ils demeurent en possession dans les grands actes, dans les versions principales, dans les catéchismes et dans les œuvres de cette nature, qui servent de règle aux autres.
+
+J'oserai dire avec un profond respect, à Votre Majesté, Sire, que bien loin de nous empêcher d'exécuter cette règle, si elle n'était pas faite, ou qu'elle eût perdu quelque chose de sa vigueur, il la faudrait faire ou renouveler, et obliger les évêques à la pratiquer plus sévèrement que jamais, sans en négliger l'observance en quelque occasion que ce soit; et la conjoncture où nous sommes en fait voir la nécessité.
+
+La version du Nouveau Testament de Trévoux fait aujourd'hui dans Paris une espèce de schisme sur la doctrine. Les vrais enfants de l'Eglise écoutent la voix de leur pasteur; les autres ne craignent pas de s'attacher à un livre qu'il a défendu.
+
+Votre parlement de Paris, par son arrêt du 29 d'août 1685, rendu en exécution de vos ordres et à la requête de votre procureur général, invita l'archevêque de cette ville royale à dresser une liste des mauvais livres. Feu M. l'archevêque de Paris, en conformité de cet arrêt, en fit l'état dans son Ordonnance du premier de septembre suivant ; laquelle ayant été portée au parlement, il intervint un arrêt du 6 de septembre de la même année; et les mauvais livres furent défendus par le concours unanime des deux puissances, après le jugement de l'Eglise : et maintenant on débite un livre flétri par une censure juridique; ce que l'auteur aurait évité, en le soumettant dès l'origine au jugement de l'évêque diocésain.
+
+Il paraît encore en cette occasion quelque chose de plus étrange : l'auteur condamné imprime dans Paris contre la censure, sous le titre de Remontrance. Il y met son nom, et couvre sa désobéissance de vains prétextes. Mais j'ose dire qu'il serait déjà confondu, si l'on n'arrêtait nos réponses, Oui, Sire, après cinquante ans de doctorat, et plus de trente ans employés dans l'épiscopat à défendre la cause de l'Eglise sans reproche, Votre Majesté aura la bonté de me pardonner, si je parle avec quelque confiance, puisqu'enfin je ne la mets qu'en Dieu, qui m'a toujours aidé jusqu'ici.
+
+Pour ces raisons, Sire, il plaira à Votre Majesté d'ordonner que le placard de mon Ordonnance me sera incessamment délivré par l'imprimeur, afin qu'elle soit publiée dans mon diocèse, selon que me l'a dictée ma conscience, et comme le Saint-Esprit, que j'ai invoqué avec foi, me l'a fait juger nécessaire.
+
+Je supplie pareillement Votre Majesté d'ordonner que mon livre, qui est imprimé, verra le jour sans autres formalités que celles qui ont toujours été pratiquées à mon égard, puisque, Dieu merci, je n'ai rien fait qui me rende digne d'un plus rude traitement, et que dans cette occasion la doctrine que j'enseigne se trouvera plus irréprochable et plus nécessaire que jamais.
+
+Je vous demande pareillement, Sire, en toute humilité et respect, que la liberté dont je n'ai jamais abusé me soit rendue pour mes autres écrits, qui tourneront, s'il plaît à Dieu, à l'édification de l'Eglise, puisque au reste je suis toujours sous les yeux de Votre Majesté, en état de lui rendre compte de ma conduite. Aussi puisse-je ajouter, Sire, que je n'ai jamais rien écrit sans le conseil des plus grands prélats et des plus habiles docteurs de votre royaume.
+
+Je n'entreprends pas de plaider la cause des autres évêques : j'ose espérer toutefois que Votre Majesté croyant avec toute l'Eglise catholique, comme un article de sa foi, que les évêques sont établis de Jésus-Christ les dépositaires de la doctrine et les supérieurs des prêtres, elle ne voudra pas les assujettir à ceux que le Saint-Esprit amis sous leur autorité et gouvernement.
+
+Pour les mandements, censures et autres actes authentiques des évêques, on convient qu'ils les peuvent faire indépendamment de la puissance temporelle à condition de les faire écrire à la main, et ce n'est qu'à raison de l'impression qu'on les y veut assujettir. Si cela est, il faut, Sire, de deux choses l'une, ou que l'Eglise soit privée seule du secours et de la commodité de l'impression, ou qu'elle l'achète en assujettissant ses décrets, ses catéchismes, et jusqu'aux missels et aux bréviaires, et tout ce que la religion a de plus intime, à l'examen des magistrats ; ce qui n'entre pas dans la pensée. Chacun fait imprimer ses *factums* pour les distribuer à ses juges : l'Eglise ne pourra pas faire imprimer ses instructions et ses prières, pour les distribuer à ses enfants et à ses ministres !
+
+Quant au livre du sieur Simon, Votre Majesté est très-humblement suppliée de se souvenir que c'est le même auteur qui, ayant écrit il y a vingt-cinq ans sur l'Ancien Testament, fut noté par un arrêt solennel de votre conseil d'en haut, du 19 de juin 1678. Il attaque présentement, avec une pareille hardiesse, la pureté du Nouveau Testament, comme s'il avait entrepris de ne laisser aucune partie de la religion en son entier. C'est le témoignage sincère et véritable que notre caractère nous oblige à rendre à Votre Majesté : nous ne pouvons le dissimuler, sans nous attirer de votre part le plus juste de tous les reproches, et sans nous charger de la plus honteuse prévarication.
+
+Nous ne doutons point, Sire, que Votre Majesté ne nous écoute avec sa bonté et sa piété ordinaire. Ainsi Votre Majesté, Sire, continuera de mériter l'éloge immortel de protecteur de la religion, qu'elle s'est acquis au-dessus de tous les princes du monde, et verra prospérer ses justes desseins sous la puissante assistance de Dieu.
+
++ J. Bénigne, Ev. de Meaux.
+
+## IIIe MEMOIRE. SUR LA CENSURE D’UN DOCTEUR, A LAQUELLE ON VOUDRAIT ASSUJETTIR LES ÉVÊQUES ( *a*).
+
+Sa Majesté est très-humblement suppliée de considérer la formule dont on se sert pour commettre les docteurs à l'examen des livres.
+
+La voici de mot à mot, ainsi qu'elle est imprimée : « M. *** prendra, s'il lui plaît, la peine d'examiner ce (le nom du livre), avec le plus de diligence qu'il lui sera possible, pour en donner incessamment son jugement à M. le chancelier. Ce... 170...
+
+*Signé* l'abbé Bignon. »
+
+On voit qu'il s'agit d'un jugement que doit donner le docteur.
+
+On s'est servi de cette formule envers l'évêque de Meaux, en remplissant les blancs du nom de M. Pirot et du titre du livre, pareillement signée l'abbé Bignon. Ainsi c'est le jugmen.t d'un prêtre que les évêques ont à subir.
+
+Le jugement de ce prêtre est celui qu'on veut faire imprimer à la tête du livre. Sa Majesté est très-humblement suppliée de considérer s'il convient que tout le royaume, et toute la chrétienté,[^3] voie à la tête des livres, même des évêques, un semblable assujettissement.
+
+La dispense qu'on nous offre est captieuse, parce qu'elle suppose la loi, qu'on sera toujours en état de faire exécuter aux évêques quand on voudra.
+
+## LETTRE A M. LE CARDINAL DE NOAILLES. Ce 27 octobre 1702.
+
+La lettre du 26, pleine de bontés, que je reçois de Votre Eminence, me console dans les mauvais traitements qu'on me. fait, et que je ressens d'autant plus que le contre-coup en retombe sur l'épiscopat. Il semble à présent que ce soit une des affaires des plus importantes que de nous humilier. Il ne nous reste d'espérance, du côté du monde, qu'au roi et à votre médiation auprès de Sa Majesté.
+
+Je vous ai envoyé, Monseigneur, un mémoire : votre lettre m'assure déjà que vous prendrez soin de le faire valoir. Si le roi ne voulait rien décider d'abord au fond, il suffirait, en attendant, que Sa Majesté trouvât bon qu'on laissât passer mon livre à l'ordinaire ; ce qui pourrait être regardé, si M. le chancelier le voulait, comme une dispense verbale. Ce qui me donne cette vue, c'est qu'il en a ainsi usé avec M. d'Auch, ainsi que M. Pirot me l’a écrit
+
++ J. Bénigne, Ev. de Meaux.
+
+J'aurais de la peine à une impression hors du royaume, et que le livre pût être défendu et saisi comme de contrebande.
+
+## LETTRE A M. LE CARDINAL DE NOAILLES. A Meaux, ce 30 octobre 1702.
+
+Je reçois, Monseigneur, la lettre du 28, de Votre Eminence, et je vois les remerciements que je lui dois, et pour l'épiscopat en général, et pour moi en particulier. Je ne manquerai pas de me rendre auprès de vous après la fête, à peu près dans le même temps qu'on reviendra de Marly, c'est-à-dire vers le 8 novembre.
+
+Vous croyez bien, Monseigneur, que je ne suis pressé de voir mon livre paraître que par son utilité, pour faire connaître le dangereux caractère de l'auteur ; car du reste je différerai tant qu'il sera utile et selon vos ordres.
+
+M. Phelippeaux notre intendant, étant arrivé à Meaux samedi dernier, je n'ai pas cru pouvoir me dispenser de lui parler du mauvais traitement que M. le chancelier me faisait. Je n'ai point cru devoir lui parler d'autre chose que de ce que j'aurais dû attendre en particulier d'un chancelier ami, en suivant l'exemple de ses prédécesseurs : du reste j'ai évité exprès de dire un mot de la cause de l'épiscopat, que nous avons à traiter devant un tribunal plus haut et moins prévenu. Quoique je n'aie prétendu autre chose que de donner à M. Phelippeaux, qui agissait bonnement avec moi, une ouverture pour M. le chancelier à me faire un commencement de justice, j'avoue pourtant que j'aurais parlé avec plus de circonspection, si j'eusse reçu votre lettre. Mais après tout, n'ayant point parlé de la cause de l'épiscopat, je l'ai réservée toute entière, et je prendrai garde à ne mollir point sur l'intérêt commun, quand on me donnerait satisfaction en particulier pour cette occasion : car aussi bien, si on ne va à la source, ce sera à recommencer. J'ai donné un mémoire à M. Phelippeaux, conforme à cette intention, et je vous rendrai compte de tout ce qui pourra en arriver, vous assurant que je ne ferai rien qui affaiblisse la cause. Respect, soumission et obéissance.
+
++ J. Bénigne, Ev. de Meaux.
+
+## LETTRE A M. LE CARDINAL DE NOAILLES. A Meaux, ce 31 octobre 1702.
+
+Pour rendre compte de tout à Votre Eminence, j'aurai, Monseigneur, l'honneur de lui dire qu'outre tout ce qui s'est passé,
+
+Anisson a eu une nouvelle défense de laisser sortir une seule feuille de mon Ordonnance et de mon livre, jusqu'à ce que M. le chancelier en eût conféré avec moi : il n'y avait plus qu'à tirer le placard qui est composé. On a poussé la défense jusqu'à ôter la faculté de m'en envoyer à moi un imprimé. On me considère beaucoup, dit-on ; mais c'est qu'il y a quelques termes dans le préambule de l'Ordonnance, qui le regardent et qui le blessent. Ce ne peut être autre chose que ce que j'ai dit, conformément à votre Ordonnance, sur la prohibition du concile de Trente, d'imprimer sans la permission de l'Ordinaire. Ainsi M. le chancelier entrera dans l'intime de nos Ordonnances, et il faudra lui en rendre compte. Je n'ai fait que répéter èn abrégé ce que porte votre Ordonnance : on n'ose s'en prendre à vous, on retombe sur la partie foible, et vous serez censuré en ma personne. Il faut donc, Monseigneur, plus que jamais avoir recours à Dieu, et espérer que celui qui tourne, comme il lui plaît, les cœurs des rois, fera trouver à l'Eglise, si violemment attaquée, un protecteur dans le nôtre, qui est si disposé à lui rendre justice.
+
+Je prendrai garde, Monseigneur, plus que jamais, à tout concerter avec Votre Eminence, jusqu'aux moindres demandes; et je me rendrai à Paris le plus tôt qu'il me sera possible, pour avoir le loisir de convenir de tout. Vos sentiments que la piété et la prudence inspirent, seront des ordres pour moi. Je finis, Monseigneur, en vous assurant de mon obéissance.
+
+Si Votre Eminence voit le roi avant Marly, elle saura bien ce qu'elle aura à lui dire. Quoi! il ne nous sera pas permis d'alléguer le concile de Trente ! Cela est dur et inconcevable.
+
+Je ne doute point du secours de Madame de Maintenon.
+
++ J. Bénigne, Ev. de Meaux.
+
+Je sais que les magistrats flattent M. le chancelier, sur ce que l'endroit du concile dont il s'agit, n'est pas reçu dans l'Ordonnance de Blois. C'est sur cela qu'il faut combattre de toute sa force, pour ne point abandonner l'Evangile à la fantaisie des Simon et des docteurs qui leur passent tout.
+
+## LETTRE A M***. A Meaux, ce 1er novembre 1702.
+
+Je reçois votre lettre du 31 octobre, et j'avais appris la même chose de M. Anisson par une lettre reçue hier. Je n'ai pas tardé un moment à en donner avis à M. le cardinal. Enfin, Monsieur, on se déclare : nos Ordonnances seront sujettes à l'examen, comme nos autres ouvrages, et on me fera un crime d'avoir suivi les sentiments de mon métropolitain : ce sera lui qui sera censuré sous mon nom. Dieu soit loué ; et puisqu'on pousse tout à bout contre nous, c'est le temps d'attendre le secours d'en haut contre l'Eglise oppressée. Je sais le fait de M. de Châlons-sur-Saône : mais c'est autre chose de supprimer un livre de statuts, quand il y a quelque chose contre l'Ordonnance (ce qui pourrait être arrivé à M. de Châlons, ce que pourtant je ne sais pas); autre chose que, pour exercer nos fonctions il nous faille prendre l'attache de M. le chancelier, et achever de mettre l'Eglise sous le joug. Pour moi j'y mettrais la tête : je ne relâcherai rien de ce côté-là, ni je ne déshonorerai le ministère dans une occasion où la gloire de mon métropolitain, autant que l'intérêt de l'épiscopat, se trouve mêlée.
+
+Je ne doute pas que M. Simon ne trouve de la protection dans les Etats protestants, où l'on ne demande pas mieux que de voir exercer une liberté sans bornes. Au lieu de se juger indigne d'écrire, il ne songe plus qu'à donner une version corrigée : mais le service de Dieu demande qu'on lui ôte le moyen de nuire, en lui ôtant celui d'écrire. Il faut pour cela le faire connaître : c'est à quoi mon livre et mon ordonnance sont bons, et c'est aussi la seule raison qui m'obligeait d'en presser la publication : mais il faut prendre les moments propres, et souffrir avec patience le retardement. Je vous remercie de tous vos soins. Je suis à vous, comme vous savez, de tout mon cœur.
+
++ J. Bénigne, Ev. de Meaux.
+
+## LETTRE A M. LE CARDINAL DE NOAILLES. A Germigny, ce 5 novembre 1702.
+
+Je reçois, Monseigneur, votre lettre du 3, de Conflans. L'Eglise est attaquée dans le plus intime ; Dieu nous aidera. J'avais commencé un mémoire ; mais il a fallu l'interrompre par quelques remèdes, plus par précaution que par maladie. L'écrit est d'une insolence parfaite, et mériterait une animadversion publique. Il se vante des lois du royaume : mais ce n'est pas la loi du royaume qu'on élève ouvertement contre la doctrine du prélat; les arrêts y sont contraires. M. de la Reynie disait autrefois que de telles gens dévoient être renfermés comme des pestes publiques : c'était au sujet de la critique du Vieux Testament. Pour joindre l'instruction à l'autorité, je médite une préface à mon livre, qui ne laissera aucune réplique; mais il faudrait auparavant la mainlevée : on permet aux moindres parties d'imprimer un Factura. Il faut toujours parler avec respect d'un magistrat de cette importance : mais l'état de l'Eglise serait bien triste, si elle ne pouvait pas même se défendre. C'est un scandale public, qu'on ose publiquement écrire contre une censure d'un prélat de votre autorité; au lieu qu'il n'y aurait qu'à se soumettre. Je compte être jeudi à Paris, s'il n'arrive quelque accident. Respect et obéissance.
+
++ J. Bénigne, Ev. de Meaux.
+
+## LETTRE A MADAME DE MAINTENON. A Versailles, ce jeudi 16 novembre 1702.
+
+Voici, Madame, les deux mémoires : le premier, qui est très-court, est celui qui fera connaître au roi la manière de juger des livres, si Sa Majesté daigne y jeter les yeux.
+
+Le second contient les extraits des lettres de M. le chancelier, que M. le cardinal de Noailles souhaite que vous voyiez.
+
+J'y joins en tout cas les pièces entières pour un plus grand éclaircissement, si vous croyez, Madame, en avoir besoin.
+
+Je dois, Madame, vous avertir que ces lettres sont un secret que M. le cardinal vous recommande.
+
+Il est pourtant bien nécessaire que vous vous donniez la peine d'entendre les prétentions et procédures inouïes de M. le chancelier, pour en rendre au roi le compte que vous trouverez à propos, n'y ayant rien au fond de plus convaincant. Respect et obéissance.
+
++ J. Bénigne, Ev. de Meaux.
+
+## LETTRE A M. LE CARDINAL DE NOAILLES. A Versailles, samedi matin 18 novembre 1702.
+
+Le roi vient de me dire, Monseigneur, que M. le chancelier met à présent la difficulté en ce que nous nous sommes servis du terme de permission ; ce qui ne convient qu'à l'autorité royale ; les évêques peuvent examiner et approuver; le roi seul peut permettre. Ni M. de Péréfixe, ni aucun autre évêque n'ont permis; ils ont seulement examiné et approuvé. C'est une nouvelle chicane, qui réduirait la question à une dispute de mots.
+
+Venez, Monseigneur; votre présence, s'il plaît à Dieu, déterminera. Prenez la peine de vous munir de la censure première de M. de Péréfixe contre Mons, pour voir de quel terme il s'est servi. Il faut aussi avoir les versions d'Amelotte, de Godeau et de Bouhours, pour voir pareillement quels termes on a employés. Je vous supplie de faire chercher les formules où nous nous servons du mot de *permettre*.
+
+J'ai bien dit au roi que nos permissions ne faisaient aucun tort aux siennes. Nous permettons selon la conscience, et lui selon le temporel : nous permettons de faire les fonctions de vicaires en telle paroisse, de lire les livres défendus, de manger des viandes défendues, d'absoudre de l'hérésie et des autres cas réservés; cela s'entend pour la conscience.
+
+Le roi m'a commandé de faire un mémoire : je le tiendrai prêt, si Votre Eminence me fait la grâce de m'envoyer les censures et permissions de M. de Péréfixe : si je puis les avoir dès aujourd'hui, Votre Eminence trouvera le mémoire fait. Je la supplie de n'oublier pas la permission donnée par Votre Eminence au catéchisme de Montpellier.
+
+Le roi ne croira qu'aux faits constants. J'espère que se réduisant à ces chicanes, M. le chancelier sera confondu. Respect et obéissance.
+
++ J. Bénigne, Ev. de Meaux.
+
+Il faudrait l'arrêt de 1667, cité dans l'ordonnance de Son Eminence, pour voir si le mot de *permission* y est formel, comme il paraît.
+
+## LETTRE A M. LE CARDINAL DE NOAILLES. A Versailles, samedi soir 18 novembre 1702.
+
+Je viens, Monseigneur, de trouver l'équivalent de la censure de Mons, et il ne manque que la date : ainsi j'espère mettre demain matin le mémoire en état d'être présenté lundi prochain. J'espère en Dieu, et je crois qu'il déterminera le roi, sur qui la vérité et la justice peuvent beaucoup. Plus je recevrai de mémoires, plus je fortifierai le raisonnement. Je rends compte à Votre Eminence, afin qu'elle prenne son temps : plus elle sera proche, plus je ferai tôt : mais elle peut venir en assurance qu'elle trouvera, s'il plaît à Dieu, le mémoire. Il faudra le revoir, le fortifier, le polir. Respect et obéissance.
+
++ J. Bénigne, Ev. de Meaux.
+
+## IVe MÉMOIRE. SUR LES ORDONNANCES DES ÉVÊQUES, Pour répondre à la difficulté principale que faisait M. le chancelier.
+
+Il plut au roi, par sa grande bonté, de m'appeler dans son cabinet, samedi 18 de novembre, pour me dire de sa propre bouche en quoi consistait la difficulté que formait M. le chancelier, sur l'ordonnance de M. le cardinal de Noailles et sur la mienne.
+
+Ce sage ministre prétend qu'il n'a innové en rien, et que M. le cardinal de Noailles a innové en se servant des termes dont M. de Péréfixe, archevêque de Paris, ne s'est jamais servi : à quoi il ajoutait, comme par maxime, qu'il ne convenait aux évêques que d'examiner et d'approuver ; mais que tout ce qui s'appelait *permission* ou *permettre* était une appartenance de l'autorité royale : et c'est à quoi Sa Majesté, avec sa justesse et sa précision ordinaire, réduisait la prétention de M. le chancelier.
+
+Le Roi m'ayant commandé d'avoir l'honneur de lui présenter un mémoire sur ce sujet, je suis obligé de lui dire ce fait constant, que ceux qui ont informé ce grand ministre, sauf respect, ne lui ont pas dit la vérité.
+
+Il n'y a qu'à ouvrir les yeux pour en être convaincu, et à lire l'Ordonnance du 18 de novembre 1667, de M. de Péréfixe, portant censure du Nouveau Testament de Mons, pour y voir en termes formels que le fondement de la censure de cette version est, « qu'on y a manifestement contrevenu aux ordonnances et décrets des conciles, qui ont défendu d'imprimer les Livres sacrés sans autorité et permission spéciale des évêques, dans leurs diocèses : » à quoi l'ordonnance ajoute qu'il est nécessaire « de réprimer une telle contravention ; » et que ce prélat « voyait avec douleur qu'au préjudice de cet ordre et d'une police si saintement établie, on débitait dans la ville métropolitaine sans sa permission, une nouvelle traduction du Nouveau Testament en français, imprimée en la ville de Mons. » Voilà donc déjà le terme de *permission* employé par M. de Péréfixe, en cas pareil à celui-ci.
+
+Si l'on impute à nouveauté à M. de Paris d'aujourd'hui, de s'être appuyé du concile de Trente, il n'y a qu'à lire ces mots dans la censure de M. de Péréfixe : « Le sacré concile de Trente a très-expressément défendu, et sous peine d'anathème, toutes sortes d'impressions des Livres sacrés, sans la permission des supérieurs ecclésiastiques, » etc.
+
+Si M. de Paris d'aujourd'hui s'appuie de l'autorité du concile de Sens, il le fait encore à l'exemple de M. de Péréfixe, son prédécesseur, qui produit ce même concile, où se trouve en termes exprès la nécessité de l'autorité « et permission spéciale des évêques, » répétée deux ou trois fois, pour prévenir les désordres des versions et interprétations arbitraires. C'est ce qui est contenu dans les décrets des mœurs du même concile, chapitres XXXIII et XXXIV.
+
+On n'a pas besoin de remarquer combien fut célèbre ce concile ( *a*), où se trouvèrent en personne tous les évêques de la province à la réserve de celui d'Orléans, qui fut présent par un vicaire; et tous ayant à leur tête un archevêque chancelier de France. Mais on ne doit pas oublier que personne n'a jamais repris ce concile, ni quand il a été tenu en l'an 1528, ni quand il a été allégué par M. de Péréfixe en l'an 1667.
+
+Le même M. de Péréfixe cite encore, en confirmation de la même discipline, comme a fait M. de Paris son successeur, les conciles de Bourges de 1584, et de Narbonne de 1609, et ajoute qu'une discipline si sainte et si utile devait retenir ceux qui font gloire d'être du nombre des enfants de l'Eglise, de rien avancer contre des ordonnances faites avec tant de justice et souvent réitérées.
+
+Si l'on veut descendre au particulier, on trouvera dans l'Ordonnance de M. de Péréfixe, comme dans celle de M. le cardinal de Noailles, ces trois défenses expresses : la première, « à tous les[^4] fidèles de lire ni retenir cette traduction; » la seconde, « aux libraires et imprimeurs de la débiter et imprimer; » et la troisième, « aux prêtres et directeurs d'en conseiller la lecture : » et si cette dernière défense est décernée sous peine d'excommunication ipso facto, dans l'Ordonnance d'aujourd'hui, M. de Péréfixe avait usé dans la sienne d'une pareille distinction : de sorte qu'en tout et partout, et comme de mot à mot, son successeur n'a fait que le suivre.
+
+La seule différence qu'on peut remarquer entre l'Ordonnance de M. de Péréfixe et celle de M. le cardinal de Noailles, c'est que la dernière est fondée sur les erreurs particulières de la version de Trévoux, au lieu que M. de Péréfixe n'appuie sa censure que sur le défaut de sa permission ; ce qui montre mieux combien ce défaut est essentiel.
+
+Voilà donc le droit des évêques bien établi. M. le cardinal de Noailles a pu alléguer la nécessité de la permission des Ordinaires, puisque son prédécesseur l'a établie pour fondement de sa censure. M. Séguier, qui «toit alors chancelier de France, ne crut point que cette maxime donnât atteinte aux droits de sa charge; et quatre jours après, la censure de M. de Péréfixe fut suivie d'un arrêt du conseil d'en haut, qui portait suppression de l'édition de Mons, sur ce fondement dont M. de Péréfixe s'était servi, qui est « qu'il est dangereux d'exposer au public des versions de la sainte Ecriture, sans la permission et approbation des évêques de France. » L'arrêt se sert du terme de permission, ainsi que fait l'Ordonnance de M. de Péréfixe. La procédure de ce prélat est expressément autorisée par le roi; et Sa Majesté ne souffrirait pas, ni qu'on affaiblît la censure du Nouveau Testament de Mons, ni qu'on flétrît la mémoire de M. de Péréfixe, comme s'il avait attenté sur les droits du roi et du royaume.
+
+Il sera donc toujours véritable qu'il est dangereux de ne pas prendre la permission des évêques; et ce danger ne peut regarder que la foi, puisqu'il s'agit des versions de l'Ecriture, qui en est le fondement.
+
+Il n'y eut que les partisans du Nouveau Testament de Mons qui formèrent quelques difficultés sur l'allégation des décrets des conciles de Sens et de Trente : ce sont les mêmes difficultés qu'on objecte encore aujourd'hui contre ces mêmes allégations dans l'Ordonnance de M. le cardinal de Noailles.
+
+Il est pourtant remarquable qu'ils s'étaient eux-mêmes munis de la permission de M. l'archevêque de Cambray, dans le diocèse duquel on supposait que le livre avait été imprimé, comme il paraît par acte du 12 d'octobre 1665, signé de cet archevêque : tant il passait pour constant que cette permission était nécessaire.
+
+Par ce moyen, il demeure plus clair que le jour qu'on a surpris M. le chancelier, et que nous n'avançons rien sur la censure de M. de Péréfixe, qui ne soit précisément la vérité même.
+
+Ce ministre reproche aux évêques qu'on veut rendre ses privilèges dépendants de leur permission; mais c'est à quoi on n'a seulement pas pensé. Les privilèges se donnent indépendamment, et on y suppose que les auteurs font ce qu'ils doivent.
+
+Mon Ordonnance, qui ne fait que suivre celle de mon métropolitain, est également irréprochable. J'en dis même beaucoup moins que lui : non que je n'approuve ce qu'il a dit des libraires et imprimeurs par rapport aux règles de la conscience; mais parce qu'il n'en est pas question dans la ville de Meaux, où il n'y a point d'imprimeur.
+
+J'ai dit seulement que c'était mal fait à l'auteur de la version de Trévoux, d'avoir méprisé les bons exemples de ceux qui avaient pris les permissions des évêques, et que l'affectation d'agir indépendamment de leur autorité avait des inconvénients que j'ai prouvés par l'Evangile; ce que l'expérience n'a que trop fait voir.
+
+Pourquoi donc faire des difficultés aux évêques, qui n'ont fait que suivre les exemples autorisés? C'est aussi sans fondement qu'on dit que les permissions n'appartiennent qu'à la seule autorité royale. Qui peut défendre, peut permettre. Tout est plein dans leur secrétariat de permissions à tel et tel d'exercer telle et telle fonction, de lire les livres défendus, de passer outre aux mariages nonobstant les temps prohibés, et autres choses dépendantes du ministère ecclésiastique. Ces permissions n'ont rien de commun avec celles que donnent les rois. Les évêques lèvent les empêchemens qui proviennent de la religion, comme le prince dispense de ceux qui dépendent de l'ordre public ou de la police : cette distinction est claire et reçue de tout le monde.
+
+Pour me renfermer précisément dans les permissions qui regardent les Livres sacrés, le 28 avril 1668, M. de Péréfixe accorda au P. Amelotte la permission de faire imprimer sa traduction de tout le Nouveau Testament, dans son diocèse, avec ses notes françaises et latines, et de les exposer au public
+
+Feu M. l'archevêque de Paris, le lundi 13 de mai 1688, censura plusieurs livres répandus dans son diocèse, parce qu'ils n'étaient pas « autorisés de la permission des archevêques, » et confirma la sentence de son officiai, qui s'était servi pour les défendre, de l'autorité des conciles de Sens et de Trente. On a toujours agi sans contradiction et de bonne foi sur ces maximes.
+
+Le 15 de septembre 1696, M. l'archevêque d'aujourd'hui accorda en ces termes, aux Pères Jésuites la permission qu'ils lui demandaient : « Avons permis le débit et la lecture de cette version française. »
+
+Tout nouvellement, le 15 de juin 1702, il s'est encore servi de ces termes : « Nous permettons le débit, l'usage et la lecture, dans notre diocèse, d'un livre intitulé : *Instructions générales*, etc., imprimé par ordre de M. l'évêque de Montpellier. »
+
+On n'imagine pas seulement qu'il y ait en ceci la moindre entreprise sur l'autorité royale, ni que pour avoir la permission de l'évêque, on en ait moins besoin du privilège du roi. Chaque puissance permet ce qui est en elle, et il arrive souvent que le bien public consiste dans leur concours.
+
+Je me renferme ici précisément dans les homes qu'il a plu à Sa Majesté de me prescrire, et auxquelles elle a daigné m'assurer que M. le chancelier se réduisait.[^5]
+
+## Ve MÉMOIRE. SUR LES RÈGLEMENTS DE L'IMPRIMERIE.
+
+On objecte aux évêques les règlements faits sur l'imprimerie, et surtout celui qui fut fait à Fontainebleau le second jour d'octobre 1701, qui ordonne que tous les livres à imprimer, même ceux qui ont des privilèges généraux, seront portés à M. le chancelier, pour être mis entre les mains d'un censeur qui les examinera et en portera son jugement, lequel sera imprimé et mis à la tête du livre avec le privilège.
+
+On dit que les évêques étant soumis à la police du royaume, ils doivent pareillement être soumis à cette loi générale.
+
+Mais il est sans doute qu'elle souffre beaucoup d'exceptions.
+
+Il faut d'abord excepter les catéchismes publiés par l'autorité des évêques, pour ne pas tomber dans l'inconvénient de faire dépendre de leurs inférieurs la doctrine qu'ils proposent authentiquement à leurs peuples, et de la soumettre à l'examen de M. le chancelier.
+
+Pour la même raison, il faut excepter de la même règle les Mandements, Ordonnances, Censures, Statuts synodaux et autres actes juridiques, qui n'ont jamais été sujets à l'examen, et ne le peuvent être, sans soumettre la doctrine de la foi et toute la discipline ecclésiastique à la puissance séculière.
+
+Il faut, à plus forte raison, excepter de cette règle lies bréviaires, missels, processionnels, rituels et autres livres contenant les prières publiques de l'Eglise, et les formules d'administrer les sacrements. Autrement tout le service de l'Eglise sera à la puissance d'un prêtre commis par M. le chancelier, et la religion ne sera plus qu'une politique.
+
+Cette exception doit s'étendre à tous les livres de doctrine qui seront publiés par les évêques, parce qu'ils sont toujours censés écrire pour l'instruction de leur troupeau, et qu'il y aurait un inconvénient manifeste de les soumettre à leurs inférieurs de droit divin, et quelque chose de scandaleux et de mal édifiant de leur faire cette injure à la face de tout le royaume et de toute la chrétienté.
+
+Aussi est-il vrai que cette règle ne fut jamais faite pour eux, ni exécutée à leur égard.
+
+L'évêque de Meaux a fait imprimer deux livres depuis le règlement, en 1701 et 1702, sans qu'on ait seulement songé à le soumettre à aucun examen, bien loin de mettre à la tête de ses livres le jugement et l'approbation d'un docteur.
+
+J'en dis autant d'un catéchisme de M. de Montpellier, imprimé le 6 de juillet 1702, il y a à peine trois ou quatre mois.
+
+Le Bréviaire de Sens vient d'être imprimé, le premier d'août de la présente année 1702, sans aucune de ces formalités.
+
+On ne laisse pas d'obtenir des privilèges pour ces impressions; mais ces privilèges se donnent sans examen, et on les demande pour trois raisons : premièrement, afin que les actes des évêques demeurent toujours éclairés par la puissance publique; secondement pour faire foi qu'il n'y a aucune falsification, et que les ouvrages sont véritablement des évêques; troisièmement, pour empêcher qu'ils ne soient contrefaits et en danger d'être altérés : ce qui regarde aussi la sûreté des libraires et la commodité du débit.
+
+On dit, et c'est ici la grande objection, que les évêques ont déjà trop de pouvoir, et qu'il est bon de les tenir dans la dépendance. Mais premièrement, si leur pouvoir est grand pour les affaires du ciel, ils n'en ont aucun pour les affaires de la .terre qui ne soit emprunté des rois, et entièrement soumis à leur puissance.
+
+En second lieu, [le pouvoir qu'ils ont d'enseigner la foi et de faire les autres fonctions de leur ministère, leur étant donné de Jésus-Christ, on ne peut le leur ôter, ni le diminuer sans leur faire injure, et sans mettre en sujétion la doctrine de la foi.
+
+La dispense qu'on leur offre serait une acceptation de la loi, et un assujettissement de la religion et de l'Eglise.
+
+Pour ces raisons, il plaira à Sa Majesté :
+
+Premièrement, de vouloir bien faire lever les défenses de M. le chancelier, d'imprimer et débiter l'Ordonnance de l'évêque de Meaux, du 29 de septembre; attendu que cette Ordonnance est conforme à celle du premier de septembre de M. le cardinal de Noailles, qui est conforme elle-même à celles de ses prédécesseurs, et entre autres à celle de M. de Péréfixe, du 18 de novembre 1667, sans qu'il y ait autre chose de changé que les noms et les titres des livres.
+
+Secondement, il plaira à Sadite Majesté de faire pareillement lever les défenses de débiter le livre de cet évêque, intitulé: *Instruction contre la version de Trévoux*.
+
+Troisièmement, il plaira encore à Sadite Majesté d'ordonner que ledit évêque pourra faire imprimer à l'avenir les livres qu'il jugera nécessaires, tant sur cette matière que sur toute autre, sans aucune autre formalité que celles qui ont été pratiquées à son égard depuis quarante ans.
+
+Et pour faire justice aux évêques, Sadite Majesté est très-humblement suppliée d'empêcher qu'ils ne soient soumis à l'examen et au jugement de leurs inférieurs dans leurs livres de théologie, lesdits évêques demeurant garans envers toute l'Eglise, et même envers le roi et le public, de la doctrine qu'ils enseigneront selon les droits et obligations de leur caractère.
+
+FIN DES MÉMOIRES.
+
+
+[^1]: Le lecteur connaît Richard Simon.
+
+Cet auteur à doctrine douteuse, ami du paradoxe et se recherchant lui-même dans les opinions les plus étranges, fit paraître en 1678 un livre que Bossuet signala comme « un amas d'impiétés et un rempart de libertinage » intellectuel, l *'Histoire critique de l'Ancien Testament*, qui fut supprimé par un décret du conseil d'en haut. Non content de ce premier essai, toujours impatient d'étaler son érudition, le bizarre écrivain produisit en 1702 une traduction du Nouveau Testament, connue sous le nom de Version de Trévoux. La sentinelle qui veillait aux portes d'Israël, démêla bientôt le nouveau stratagème de l'ennemi : Bossuet vit que, si le novateur ébranlait dans son premier ouvrage l'authenticité des Ecritures canoniques, il en détruisait l'inspiration dans le second : et pour déjouer ces perfides manœuvres, il composa l'Ordonnance et les deux Instructions pastorales que nous avons publiées dans un autre volume (1).
+
+Comme l'Ordonnance et la première Instruction se trouvaient sur le point de paraître, le chancelier de Pontchartrain défendit à l'imprimeur, Anisson, d'en livrer les exemplaires, déclarant que les deux ouvrages dévoient être examinés par un censeur, qu'il nommait dans la personne du docteur Pirot.
+
+Mesure étrange, en vérité ! Pendant quarante ans, sous cinq chanceliers consécutifs, Bossuet avait fait imprimer ses écrits sans formalité légale en vertu d'un privilège permanent, que M. de Pontchartrain avait renouvelé lui-même; sa doctrine, bien loin de soulever la moindre réclamation, avait obtenu les
+
+[^2]: Vol. III, p. 312 et suit.
+
+[^3]: Ce petit Mémoire fut joint au précédent. Il avait pour but de montrer au roi que la formule légale, en nommant le censeur, soumettait à son *jugement* le livre qu'il devait examiner.
+
+[^4]: Le concile de Sens se réunit contre les erreurs des luthériens, et pour la réformation des abus introduits dans l'Eglise. Le président fut le cardinal Antoine du Prat, archevêque de Sens et chancelier de France.
+
+[^5]: Il avait accordé la même permission, le 19 novembre 1665, pour l'impression des quatre Evangiles.
