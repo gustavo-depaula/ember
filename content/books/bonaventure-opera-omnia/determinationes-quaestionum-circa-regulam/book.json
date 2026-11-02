@@ -1,0 +1,54 @@
+{
+  "id": "bonaventure-determinationes-quaestionum-circa-regulam",
+  "cover": "classic",
+  "name": {
+    "la": "Determinationes quaestionum circa Regulam Fratrum Minorum",
+    "en-US": "Determinations of Questions on the Rule of the Friars Minor",
+    "pt-BR": "Determinações de questões sobre a Regra dos Frades Menores"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Determinationes quaestionum circa Regulam Fratrum Minorum, in duabus partibus (opus dubium). Textus ex editione Quaracchi (Opera omnia VIII, 1898), ex scanno OCR, sine notis criticis.",
+    "en-US": "Determinations of questions on the Rule of the Friars Minor, in two parts (a work of doubtful authorship attributed to Bonaventure). The Latin is the Quaracchi edition (Opera omnia VIII, 1898) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Determinações de questões sobre a Regra dos Frades Menores."
+  },
+  "composed": "13th century",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/determinationes-quaestionum-circa-regulam",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1898
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic08bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. VIII (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1898), pp. 337-374.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type scholia are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1898 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Pars I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Pars II"
+      }
+    }
+  ]
+}
