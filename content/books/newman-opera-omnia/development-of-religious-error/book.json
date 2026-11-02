@@ -1,0 +1,51 @@
+{
+  "id": "newman-development-of-religious-error",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Development of Religious Error",
+    "pt-BR": "O Desenvolvimento do Erro Religioso"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's 1885 reply, in the Contemporary Review, to Principal Fairbairn's charge that his thought rests on an underlying scepticism, with the sections he appended to it in Stray Essays on Controversial Points (1890). Newman explains how, in his view, religious truth is kept by authority while error grows by private judgment, and answers the charge of philosophical scepticism.",
+    "pt-BR": "A resposta de Newman (1885), na Contemporary Review, à acusação do Principal Fairbairn de que seu pensamento repousa num ceticismo subjacente, com as seções que ele lhe acrescentou nos Stray Essays on Controversial Points (1890). Newman explica como, a seu ver, a verdade religiosa se conserva pela autoridade enquanto o erro cresce pelo juízo privado, e responde à acusação de ceticismo filosófico."
+  },
+  "composed": "1885",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/development-of-religious-error",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Contemporary Review, Oct. 1885; Stray Essays, 1890)",
+      "year": 1885
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/error/index.html",
+      "edition": "The Development of Religious Error (Contemporary Review, Oct. 1885) and the sections appended in Stray Essays on Controversial Points (privately printed, 1890), as transcribed by the Newman Reader.",
+      "description": "2 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Fairbairn's two articles and Barry's reply, which share the Newman Reader's index, are by others and are left out. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "development-of-religious-error",
+      "title": {
+        "en-US": "The Development of Religious Error"
+      }
+    },
+    {
+      "id": "appended-sections",
+      "title": {
+        "en-US": "Sections Appended to the Article"
+      }
+    }
+  ]
+}
