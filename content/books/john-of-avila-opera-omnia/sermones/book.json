@@ -1,0 +1,308 @@
+{
+  "id": "avila-sermones",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Sermones (Tercera parte de las Obras)",
+    "en-US": "Sermons (Third Part of the Works)",
+    "pt-BR": "Sermões (Terceira parte das Obras)"
+  },
+  "author": {
+    "es-ES": "San Juan de Ávila",
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "description": {
+    "es-ES": "Tratados-sermón de san Juan de Ávila de la Tercera parte de sus Obras (Madrid 1596): veintiséis sobre el Santísimo Sacramento (el Corpus, la comunión, sus efectos), cuatro sobre el Espíritu Santo y trece sobre la Virgen María. Edición del Apostolado de la Prensa (1941) con sumarios, que reproduce el Apostolado Mariano; el Tratado primero del Sacramento es el Tratado del amor de Dios, que tiene su propio libro.",
+    "en-US": "Sermon-treatises of St. John of Ávila from the Third Part of his Works (Madrid 1596): twenty-six on the Blessed Sacrament (Corpus Christi, communion and its effects), four on the Holy Spirit and thirteen on the Virgin Mary. The Apostolado de la Prensa edition (1941) with its summaries, reprinted by Apostolado Mariano; the first treatise on the Sacrament is the Treatise on the Love of God, which is its own book.",
+    "pt-BR": "Tratados-sermão de São João de Ávila da Terceira parte de suas Obras (Madri 1596): vinte e seis sobre o Santíssimo Sacramento, quatro sobre o Espírito Santo e treze sobre a Virgem Maria."
+  },
+  "composed": "c. 1530–1569",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-avila/sermones",
+  "editions": {
+    "es-ES": {
+      "editor": "Apostolado de la Prensa (1941), reprinted by Apostolado Mariano",
+      "year": 2008
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obras-de-san-juan-de-avila-tomo-2",
+      "edition": "Obras de San Juan de Ávila, tomos III (Libro del Santísimo Sacramento) and IV (Libro del Espíritu Santo, Libro de la Virgen Santa María), Madrid: Apostolado de la Prensa 1941 / Sevilla: Apostolado Mariano 2008; archive.org uploads, Tesseract OCR.",
+      "description": "Tratados 2-27 of the Sacramento, 1-4 of the Holy Spirit and 2-14 of the Virgin; the editor's sumario headings are kept as section headings, his footnotes as footnotes. Page numbers and running heads removed. Not included: Sacramento 1 (the Tratado del amor de Dios, its own book); Espíritu Santo 5 and Virgen 1 (De la Encarnación), whose text the OCR file lacks; the Lecciones sobre la primera Canónica de San Juan (a separate work).",
+      "tier": "B",
+      "tierEvidence": "Ávila's sermons are public domain (Tercera parte 1596, Montaña 1901, Apostolado de la Prensa 1927); the 1941 edition is freely posted on archive.org."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/A073128",
+      "edition": "Tercera parte de las Obras, Sevilla 1603. Reference only.",
+      "description": "Not imported.",
+      "tier": "A",
+      "tierEvidence": "Printed 1603."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sacramento-02",
+      "title": {
+        "es-ES": "Santísimo Sacramento 2. La procesión del Corpus"
+      }
+    },
+    {
+      "id": "sacramento-03",
+      "title": {
+        "es-ES": "Santísimo Sacramento 3. La comunión alimento del alma"
+      }
+    },
+    {
+      "id": "sacramento-04",
+      "title": {
+        "es-ES": "Santísimo Sacramento 4. La comunión y la vida divina"
+      }
+    },
+    {
+      "id": "sacramento-05",
+      "title": {
+        "es-ES": "Santísimo Sacramento 5. Caída de Adán y Eva"
+      }
+    },
+    {
+      "id": "sacramento-06",
+      "title": {
+        "es-ES": "Santísimo Sacramento 6. Suavidad de Jesús sacramentado"
+      }
+    },
+    {
+      "id": "sacramento-07",
+      "title": {
+        "es-ES": "Santísimo Sacramento 7. La comunión y la Pasión de Cristo"
+      }
+    },
+    {
+      "id": "sacramento-08",
+      "title": {
+        "es-ES": "Santísimo Sacramento 8. Del propio conocimiento"
+      }
+    },
+    {
+      "id": "sacramento-09",
+      "title": {
+        "es-ES": "Santísimo Sacramento 9. La comunión remedio contra la concupiscencia"
+      }
+    },
+    {
+      "id": "sacramento-10",
+      "title": {
+        "es-ES": "Santísimo Sacramento 10. Cristo es nuestra cabeza"
+      }
+    },
+    {
+      "id": "sacramento-11",
+      "title": {
+        "es-ES": "Santísimo Sacramento 11. Preparación para la comunión"
+      }
+    },
+    {
+      "id": "sacramento-12",
+      "title": {
+        "es-ES": "Santísimo Sacramento 12. Señales de la verdadera Iglesia"
+      }
+    },
+    {
+      "id": "sacramento-13",
+      "title": {
+        "es-ES": "Santísimo Sacramento 13. Reverencia en la procesión del Corpus"
+      }
+    },
+    {
+      "id": "sacramento-14",
+      "title": {
+        "es-ES": "Santísimo Sacramento 14. El pan celestial"
+      }
+    },
+    {
+      "id": "sacramento-15",
+      "title": {
+        "es-ES": "Santísimo Sacramento 15. La Eucaristía, retablo de las maravillas de Dios"
+      }
+    },
+    {
+      "id": "sacramento-16",
+      "title": {
+        "es-ES": "Santísimo Sacramento 16. A comunión prenda de vida eterna"
+      }
+    },
+    {
+      "id": "sacramento-17",
+      "title": {
+        "es-ES": "Santísimo Sacramento 17. La comunión remedio contra el pecado venial"
+      }
+    },
+    {
+      "id": "sacramento-18",
+      "title": {
+        "es-ES": "Santísimo Sacramento 18. Fiesta y procesión del Corpus"
+      }
+    },
+    {
+      "id": "sacramento-19",
+      "title": {
+        "es-ES": "Santísimo Sacramento 19. El maná celestial"
+      }
+    },
+    {
+      "id": "sacramento-20",
+      "title": {
+        "es-ES": "Santísimo Sacramento 20. El corazón de Dios padre"
+      }
+    },
+    {
+      "id": "sacramento-21",
+      "title": {
+        "es-ES": "Santísimo Sacramento 21. Una persona mística con Cristo"
+      }
+    },
+    {
+      "id": "sacramento-22",
+      "title": {
+        "es-ES": "Santísimo Sacramento 22. La Eucaristía, dulce remedio del alma"
+      }
+    },
+    {
+      "id": "sacramento-23",
+      "title": {
+        "es-ES": "Santísimo Sacramento 23. Un caso de conciencia sobre la comunión"
+      }
+    },
+    {
+      "id": "sacramento-24",
+      "title": {
+        "es-ES": "Santísimo Sacramento 24. Empeño del amor divino"
+      }
+    },
+    {
+      "id": "sacramento-25",
+      "title": {
+        "es-ES": "Santísimo Sacramento 25. La comunión realza nuestras buenas obras"
+      }
+    },
+    {
+      "id": "sacramento-26",
+      "title": {
+        "es-ES": "Santísimo Sacramento 26. ¡Acordaos de mí!"
+      }
+    },
+    {
+      "id": "sacramento-27",
+      "title": {
+        "es-ES": "Santísimo Sacramento 27. Efectos de la comunión"
+      }
+    },
+    {
+      "id": "espiritu-01",
+      "title": {
+        "es-ES": "Espíritu Santo 1. Apercibimiento para la venida del Espíritu Santo"
+      }
+    },
+    {
+      "id": "espiritu-02",
+      "title": {
+        "es-ES": "Espíritu Santo 2. El Espíritu de Cristo"
+      }
+    },
+    {
+      "id": "espiritu-03",
+      "title": {
+        "es-ES": "Espíritu Santo 3. La venida del Espíritu Santo"
+      }
+    },
+    {
+      "id": "espiritu-04",
+      "title": {
+        "es-ES": "Espíritu Santo 4. El Espíritu Santo en las almas"
+      }
+    },
+    {
+      "id": "virgen-02",
+      "title": {
+        "es-ES": "Virgen 2. Matrimonio de la Virgen y San José"
+      }
+    },
+    {
+      "id": "virgen-03",
+      "title": {
+        "es-ES": "Virgen 3. Natividad de la Santísima Virgen María (I)"
+      }
+    },
+    {
+      "id": "virgen-04",
+      "title": {
+        "es-ES": "Virgen 4. Presentación de la Santísima Virgen María"
+      }
+    },
+    {
+      "id": "virgen-05",
+      "title": {
+        "es-ES": "Virgen 5. Visitación de la Santísima Virgen María"
+      }
+    },
+    {
+      "id": "virgen-06",
+      "title": {
+        "es-ES": "Virgen 6. Natividad de la Santísima Virgen María (II)"
+      }
+    },
+    {
+      "id": "virgen-07",
+      "title": {
+        "es-ES": "Virgen 7. Purificación de la Santísima Virgen María"
+      }
+    },
+    {
+      "id": "virgen-08",
+      "title": {
+        "es-ES": "Virgen 8. Soledad de la Santísima Virgen María"
+      }
+    },
+    {
+      "id": "virgen-09",
+      "title": {
+        "es-ES": "Virgen 9. Festividad de la Santísima Virgen de las Nieves"
+      }
+    },
+    {
+      "id": "virgen-10",
+      "title": {
+        "es-ES": "Virgen 10. Asunción de la Santísima Virgen María (I)"
+      }
+    },
+    {
+      "id": "virgen-11",
+      "title": {
+        "es-ES": "Virgen 11. Asunción de la Santísima Virgen María (II)"
+      }
+    },
+    {
+      "id": "virgen-12",
+      "title": {
+        "es-ES": "Virgen 12. Natividad de la Santísima Virgen María (III)"
+      }
+    },
+    {
+      "id": "virgen-13",
+      "title": {
+        "es-ES": "Virgen 13. Anunciación de la Virgen María (II)"
+      }
+    },
+    {
+      "id": "virgen-14",
+      "title": {
+        "es-ES": "Virgen 14. Festividad de todos los Santos"
+      }
+    }
+  ]
+}
