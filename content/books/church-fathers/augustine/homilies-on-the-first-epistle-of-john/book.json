@@ -2,15 +2,26 @@
   "id": "augustine-homilies-on-the-first-epistle-of-john",
   "cover": "quarter",
   "name": {
+    "la": "In epistulam Iohannis ad Parthos tractatus decem",
     "en-US": "Homilies on the First Epistle of John"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo"
   },
   "languages": [
+    "la",
     "en-US"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/commento_lsg/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages commento_lsg of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1702.htm",
@@ -21,66 +32,90 @@
     {
       "id": "ch001",
       "title": {
+        "la": "Tractatus 1",
         "en-US": "Homily 1"
       }
     },
     {
       "id": "ch002",
       "title": {
+        "la": "Tractatus 2",
         "en-US": "Homily 2"
       }
     },
     {
       "id": "ch003",
       "title": {
+        "la": "Tractatus 3",
         "en-US": "Homily 3"
       }
     },
     {
       "id": "ch004",
       "title": {
+        "la": "Tractatus 4",
         "en-US": "Homily 4"
       }
     },
     {
       "id": "ch005",
       "title": {
+        "la": "Tractatus 5",
         "en-US": "Homily 5"
       }
     },
     {
       "id": "ch006",
       "title": {
+        "la": "Tractatus 6",
         "en-US": "Homily 6"
       }
     },
     {
       "id": "ch007",
       "title": {
+        "la": "Tractatus 7",
         "en-US": "Homily 7"
       }
     },
     {
       "id": "ch008",
       "title": {
+        "la": "Tractatus 8",
         "en-US": "Homily 8"
       }
     },
     {
       "id": "ch009",
       "title": {
+        "la": "Tractatus 9",
         "en-US": "Homily 9"
       }
     },
     {
       "id": "ch010",
       "title": {
+        "la": "Tractatus 10",
         "en-US": "Homily 10"
       }
     }
   ],
-  "commentsOn": ["1-john"],
+  "commentsOn": [
+    "1-john"
+  ],
   "arrived": {
-    "en-US": "2026-06-04"
+    "en-US": "2026-06-04",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/in-epistulam-iohannis-ad-parthos",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "H",
+      "year": 1888
+    }
   }
 }
