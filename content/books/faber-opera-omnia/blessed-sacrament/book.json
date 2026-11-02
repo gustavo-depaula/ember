@@ -1,0 +1,257 @@
+{
+  "id": "faber-blessed-sacrament",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Blessed Sacrament, or the Works and Ways of God",
+    "pt-BR": "O Santíssimo Sacramento, ou as Obras e os Caminhos de Deus"
+  },
+  "author": {
+    "en-US": "Fr. Frederick William Faber",
+    "pt-BR": "Pe. Frederick William Faber"
+  },
+  "description": {
+    "en-US": "Faber's treatise of 1855 on the Eucharist as the summit of God's works: a prologue on the triumph of the Blessed Sacrament, four books (the Blessed Sacrament the greatest work of God, the devotion of Catholics, a picture of God, a picture of Jesus) and an epilogue on reparation.",
+    "pt-BR": "O tratado de Faber (1855) sobre a Eucaristia como o cume das obras de Deus: um prólogo sobre o triunfo do Santíssimo Sacramento, quatro livros (o Santíssimo Sacramento, a maior obra de Deus; a devoção dos católicos; um retrato de Deus; um retrato de Jesus) e um epílogo sobre a reparação."
+  },
+  "composed": 1855,
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/blessed-sacrament",
+  "editions": {
+    "en-US": {
+      "editor": "Fr. Frederick William Faber (American edition, Baltimore: Murphy, 1855)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/theblessedsacram00fabeuoft",
+      "edition": "The Blessed Sacrament, or the Works and Ways of God (American edition, 1855), University of Toronto scan, Internet Archive full-text OCR.",
+      "description": "The preface, the prologue and the epilogue are kept; the publisher's note, the analytic table of contents and the index are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Fr. Frederick William Faber died in 1863 and the edition is of 1855, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue: Triumph"
+      }
+    },
+    {
+      "id": "book-1",
+      "title": {
+        "en-US": "Book I. The Blessed Sacrament the Greatest Work of God"
+      },
+      "children": [
+        {
+          "id": "book-1-section-1",
+          "title": {
+            "en-US": "Section I. The Canons of the Divine Works"
+          }
+        },
+        {
+          "id": "book-1-section-2",
+          "title": {
+            "en-US": "Section II. These Canons United in Transubstantiation"
+          }
+        },
+        {
+          "id": "book-1-section-3",
+          "title": {
+            "en-US": "Section III. Four Great Works of God: Creation, Incarnation, Jus Tification and Glorification"
+          }
+        },
+        {
+          "id": "book-1-section-4",
+          "title": {
+            "en-US": "Section IV. The Theology of Transubstantiation"
+          }
+        },
+        {
+          "id": "book-1-section-5",
+          "title": {
+            "en-US": "Section V. The Theology of Transubstantiation Continued"
+          }
+        },
+        {
+          "id": "book-1-section-6",
+          "title": {
+            "en-US": "Section VI. Transubstantiation Compared with the Other Works of God"
+          }
+        },
+        {
+          "id": "book-1-section-7",
+          "title": {
+            "en-US": "Section VII. The Beauty of Glory and the Beauty of the Blessed Sacrament"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-2",
+      "title": {
+        "en-US": "Book II. The Blessed Sacrament the Devotion of Catholics"
+      },
+      "children": [
+        {
+          "id": "book-2-section-1",
+          "title": {
+            "en-US": "Section I. The Blessed Sacrament the Subject of a Special Devotion"
+          }
+        },
+        {
+          "id": "book-2-section-2",
+          "title": {
+            "en-US": "Section II. The Spirit of the Blessed Sacrament"
+          }
+        },
+        {
+          "id": "book-2-section-3",
+          "title": {
+            "en-US": "Section III. The Babe and the Host"
+          }
+        },
+        {
+          "id": "book-2-section-4",
+          "title": {
+            "en-US": "Section IV. The Mother and the Son"
+          }
+        },
+        {
+          "id": "book-2-section-5",
+          "title": {
+            "en-US": "Section V. The Foster-father and his Child"
+          }
+        },
+        {
+          "id": "book-2-section-6",
+          "title": {
+            "en-US": "Section VI. Bethlehem, Egypt and Nazareth"
+          }
+        },
+        {
+          "id": "book-2-section-7",
+          "title": {
+            "en-US": "Section VII. Altar-flowers"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-3",
+      "title": {
+        "en-US": "Book III. The Blessed Sacrament a Picture of God"
+      },
+      "children": [
+        {
+          "id": "book-3-section-1",
+          "title": {
+            "en-US": "Section I. The Trinity in Unity"
+          }
+        },
+        {
+          "id": "book-3-section-2",
+          "title": {
+            "en-US": "Section II. The Creator in His own Creation"
+          }
+        },
+        {
+          "id": "book-3-section-3",
+          "title": {
+            "en-US": "Section III. God Sought and Found"
+          }
+        },
+        {
+          "id": "book-3-section-4",
+          "title": {
+            "en-US": "Section IV. The Material World"
+          }
+        },
+        {
+          "id": "book-3-section-5",
+          "title": {
+            "en-US": "Section V. God's Ways with Minds and Wills"
+          }
+        },
+        {
+          "id": "book-3-section-6",
+          "title": {
+            "en-US": "Section VI. God in Theology and in the Church"
+          }
+        },
+        {
+          "id": "book-3-section-7",
+          "title": {
+            "en-US": "Section VII. The Works and Ways, the Weights and Measures, the Failure and Success, of God"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-4",
+      "title": {
+        "en-US": "Book IV. The Blessed Sacrament a Picture of Jesus"
+      },
+      "children": [
+        {
+          "id": "book-4-section-1",
+          "title": {
+            "en-US": "Section I. The Incarnation"
+          }
+        },
+        {
+          "id": "book-4-section-2",
+          "title": {
+            "en-US": "Section II. Nature, Grace, and Glory"
+          }
+        },
+        {
+          "id": "book-4-section-3",
+          "title": {
+            "en-US": "Section III. The Incarnation a World of its own"
+          }
+        },
+        {
+          "id": "book-4-section-4",
+          "title": {
+            "en-US": "Section IV. The Thirty-three Years"
+          }
+        },
+        {
+          "id": "book-4-section-5",
+          "title": {
+            "en-US": "Section V. The Blessed Sacrament All for Men"
+          }
+        },
+        {
+          "id": "book-4-section-6",
+          "title": {
+            "en-US": "Section VI. The Magnet of Souls"
+          }
+        },
+        {
+          "id": "book-4-section-7",
+          "title": {
+            "en-US": "Section VII. The Life of the Church"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epilogue",
+      "title": {
+        "en-US": "Epilogue: Reparation"
+      }
+    }
+  ]
+}

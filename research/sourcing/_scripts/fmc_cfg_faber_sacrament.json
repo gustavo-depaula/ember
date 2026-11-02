@@ -1,0 +1,72 @@
+{
+ "id": "faber-blessed-sacrament",
+ "dir": "faber-opera-omnia/blessed-sacrament",
+ "slug": "blessed-sacrament",
+ "work": "faber/blessed-sacrament",
+ "name": "The Blessed Sacrament, or the Works and Ways of God",
+ "name_pt": "O Sant\u00edssimo Sacramento, ou as Obras e os Caminhos de Deus",
+ "author": "Fr. Frederick William Faber",
+ "author_pt": "Pe. Frederick William Faber",
+ "died": 1863,
+ "desc": "Faber's treatise of 1855 on the Eucharist as the summit of God's works: a prologue on the triumph of the Blessed Sacrament, four books (the Blessed Sacrament the greatest work of God, the devotion of Catholics, a picture of God, a picture of Jesus) and an epilogue on reparation.",
+ "desc_pt": "O tratado de Faber (1855) sobre a Eucaristia como o cume das obras de Deus: um pr\u00f3logo sobre o triunfo do Sant\u00edssimo Sacramento, quatro livros (o Sant\u00edssimo Sacramento, a maior obra de Deus; a devo\u00e7\u00e3o dos cat\u00f3licos; um retrato de Deus; um retrato de Jesus) e um ep\u00edlogo sobre a repara\u00e7\u00e3o.",
+ "composed": 1855,
+ "editor": "Fr. Frederick William Faber (American edition, Baltimore: Murphy, 1855)",
+ "year": 1855,
+ "url": "https://archive.org/details/theblessedsacram00fabeuoft",
+ "edition": "The Blessed Sacrament, or the Works and Ways of God (American edition, 1855), University of Toronto scan, Internet Archive full-text OCR.",
+ "srcnote": "The preface, the prologue and the epilogue are kept; the publisher's note, the analytic table of contents and the index are dropped.",
+ "src": "faber/ia/theblessedsacram00fabeuoft_djvu.txt",
+ "start": 1232,
+ "end": 20640,
+ "levels": [
+  "BOOK",
+  "SECTION"
+ ],
+ "fn": true,
+ "front": [
+  {
+   "id": "preface",
+   "title": "Preface",
+   "from": 115,
+   "to": 195
+  },
+  {
+   "id": "prologue",
+   "title": "Prologue: Triumph",
+   "from": 294,
+   "to": 1226
+  }
+ ],
+ "back": [
+  {
+   "id": "epilogue",
+   "title": "Epilogue: Reparation",
+   "from": 20644,
+   "to": 21526
+  }
+ ],
+ "label": {
+  "SECTION": "Section"
+ },
+ "romanheads": true,
+ "ptitles": {
+  "1": "The Blessed Sacrament the Greatest Work of God",
+  "2": "The Blessed Sacrament the Devotion of Catholics",
+  "3": "The Blessed Sacrament a Picture of God",
+  "4": "The Blessed Sacrament a Picture of Jesus"
+ },
+ "fixlines": {
+  "14979": "",
+  "11032": "SECTION III."
+ },
+ "titles": {
+  "1.1": "The Canons of the Divine Works",
+  "2.1": "The Blessed Sacrament the Subject of a Special Devotion",
+  "3.2": "The Creator in His own Creation",
+  "3.3": "God Sought and Found",
+  "3.7": "The Works and Ways, the Weights and Measures, the Failure and Success, of God",
+  "4.3": "The Incarnation a World of its own",
+  "4.7": "The Life of the Church"
+ }
+}

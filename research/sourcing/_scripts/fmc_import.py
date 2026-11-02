@@ -33,7 +33,7 @@ def capsy(l):
     return len(a) >= 2 and sum(c.isupper() for c in a) >= 0.7 * len(a)
 def title_case(t):
     t = re.sub(r'\s+', ' ', t).strip().rstrip('.,')
-    ws = t.lower().split(' ')
+    ws = ['of' if w == 'op' else w for w in t.lower().split(' ')]
     SM = {'of', 'the', 'and', 'in', 'to', 'a', 'an', 'by', 'for', 'on', 'with', 'from', 'at', 'or', 'as', 'is', 'his', 'her', 'our', 'its', 'but', 'not'}
     return ' '.join(w if (i and w in SM) else re.sub(r"^(\W*)(\w)", lambda m: m.group(1) + m.group(2).upper(), w) for i, w in enumerate(ws))
 def split_units(lines, cfg):
@@ -85,6 +85,10 @@ def is_head(t, counts, strict):
     if up >= 0.6 and hasnum and not re.search(r'[a-z]{4,}', t): return True
     if up >= 0.9 and counts[key] >= 3 and len(w) <= 10: return True
     return False
+def smallcaps(p):
+    m = re.match(r"^(\W*)([A-Z]{2,})(\s+)([a-z])", p)
+    if m and m.group(2).lower() in E.W and m.group(2) not in ('OF',): return m.group(1) + m.group(2).capitalize() + p[m.end(2):]
+    return p
 def process(lines, cfg, counts, fnstate):
     """lines -> markdown paragraph list with footnotes; fnstate: dict(n=count, notes={})"""
     bl = [norm(E.join_lines(b)) for b in blocks_of(lines)]
@@ -112,6 +116,8 @@ def process(lines, cfg, counts, fnstate):
                 if body: body[-1] = body[-1] + ref
                 else: out.append(ref)
         out.extend(body)
+    if cfg.get('romanheads'): out = ['## ' + p if re.fullmatch(r'[IVX]{1,5}\.', p) else p for p in out]
+    out = [smallcaps(p) for p in out]
     merged = []
     for p in out:
         plain = re.sub(r'\[\^\d+\]', '', merged[-1]) if merged else ''
