@@ -1,0 +1,126 @@
+{
+ "id": "benson-christ-in-the-church",
+ "dir": "benson-opera-omnia/christ-in-the-church",
+ "slug": "christ-in-the-church",
+ "name": "Christ in the Church: A Volume of Religious Essays",
+ "name_pt": "Cristo na Igreja",
+ "desc": "Benson's apologetic study of 1911, 'a volume of religious essays', which argues that the Catholic Church is the continuation of Christ's own life: Part I the thesis, Part II His life and ministry, Part III the Passion and rejection, Part IV the Cross, the Sepulture and the Resurrection, each read as repeated in the Church.",
+ "desc_pt": "O estudo apologético de Benson (1911), 'um volume de ensaios religiosos', que sustenta que a Igreja Católica é o prolongamento da própria vida de Cristo: a Parte I a tese, a II a vida e o ministério, a III a Paixão e a rejeição, a IV a Cruz, a sepultura e a Ressurreição, cada uma lida como repetida na Igreja.",
+ "composed": 1911,
+ "editor": "Robert Hugh Benson (London: Longmans, Green, 1911)",
+ "year": 1911,
+ "url": "https://archive.org/details/christinchurchv00bens",
+ "edition": "Christ in the Church: A Volume of Religious Essays (London: Longmans, Green, 1911), Internet Archive full-text OCR (christinchurchv00bens).",
+ "src": "robert-hugh-benson/ia/christinchurchv00bens_djvu.txt",
+ "manual": [
+  [
+   144,
+   "Preface"
+  ],
+  [
+   186,
+   "__skip"
+  ],
+  [
+   278,
+   "Part I: The Thesis: Christ in the Church",
+   "part"
+  ],
+  [
+   285,
+   "I. Introductory"
+  ],
+  [
+   401,
+   "Chapter II"
+  ],
+  [
+   863,
+   "Chapter III"
+  ],
+  [
+   1271,
+   "Chapter IV"
+  ],
+  [
+   1521,
+   "Part II: Life and Ministry",
+   "part"
+  ],
+  [
+   1523,
+   "I. Shepherds and Kings"
+  ],
+  [
+   1898,
+   "II. The Hidden Life"
+  ],
+  [
+   2163,
+   "III. The Temptation"
+  ],
+  [
+   2559,
+   "IV. A Characteristic of the Public Ministry"
+  ],
+  [
+   3015,
+   "V. Miracles, and Summary"
+  ],
+  [
+   3656,
+   "Part III: Passion and Rejection",
+   "part"
+  ],
+  [
+   3658,
+   "I. Gethsemane"
+  ],
+  [
+   3869,
+   "II. Christ’s Failure"
+  ],
+  [
+   4134,
+   "III. Judas"
+  ],
+  [
+   4374,
+   "IV. Caiphas"
+  ],
+  [
+   4649,
+   "V. Pilate"
+  ],
+  [
+   4896,
+   "VI. Herod"
+  ],
+  [
+   5124,
+   "VII. The Way of the Cross, and Summary"
+  ],
+  [
+   5563,
+   "Part IV: Failure and Triumph",
+   "part"
+  ],
+  [
+   5565,
+   "I. The Cross"
+  ],
+  [
+   6131,
+   "II. The Sepulture"
+  ],
+  [
+   6414,
+   "III. The Resurrection"
+  ]
+ ],
+ "start": 144,
+ "end": 7094,
+ "label": "",
+ "mode": "ia",
+ "died": 1914
+}

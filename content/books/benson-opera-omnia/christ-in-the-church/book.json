@@ -1,0 +1,191 @@
+{
+  "id": "benson-christ-in-the-church",
+  "cover": "classic",
+  "name": {
+    "en-US": "Christ in the Church: A Volume of Religious Essays",
+    "pt-BR": "Cristo na Igreja"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's apologetic study of 1911, 'a volume of religious essays', which argues that the Catholic Church is the continuation of Christ's own life: Part I the thesis, Part II His life and ministry, Part III the Passion and rejection, Part IV the Cross, the Sepulture and the Resurrection, each read as repeated in the Church.",
+    "pt-BR": "O estudo apologético de Benson (1911), 'um volume de ensaios religiosos', que sustenta que a Igreja Católica é o prolongamento da própria vida de Cristo: a Parte I a tese, a II a vida e o ministério, a III a Paixão e a rejeição, a IV a Cruz, a sepultura e a Ressurreição, cada uma lida como repetida na Igreja."
+  },
+  "composed": 1911,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/christ-in-the-church",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Longmans, Green, 1911)",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/christinchurchv00bens",
+      "edition": "Christ in the Church: A Volume of Religious Essays (London: Longmans, Green, 1911), Internet Archive full-text OCR (christinchurchv00bens).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1911, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I: The Thesis: Christ in the Church"
+      },
+      "children": [
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "I. Introductory"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II: Life and Ministry"
+      },
+      "children": [
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "I. Shepherds and Kings"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "II. The Hidden Life"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "III. The Temptation"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "IV. A Characteristic of the Public Ministry"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "V. Miracles, and Summary"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part III: Passion and Rejection"
+      },
+      "children": [
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "I. Gethsemane"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "II. Christ’s Failure"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "III. Judas"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "IV. Caiphas"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "V. Pilate"
+          }
+        },
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "VI. Herod"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "VII. The Way of the Cross, and Summary"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "Part IV: Failure and Triumph"
+      },
+      "children": [
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "I. The Cross"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "II. The Sepulture"
+          }
+        },
+        {
+          "id": "chapter-20",
+          "title": {
+            "en-US": "III. The Resurrection"
+          }
+        }
+      ]
+    }
+  ]
+}
