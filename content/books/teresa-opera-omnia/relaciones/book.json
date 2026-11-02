@@ -1,0 +1,451 @@
+{
+  "id": "teresa-relaciones",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Relaciones espirituales (Cuentas de conciencia)",
+    "en-US": "Spiritual Testimonies (Accounts of Conscience)",
+    "pt-BR": "Relações espirituais (Contas de consciência)"
+  },
+  "author": {
+    "es-ES": "Santa Teresa de Jesús",
+    "en-US": "St. Teresa of Ávila",
+    "pt-BR": "Santa Teresa de Ávila"
+  },
+  "description": {
+    "es-ES": "Las sesenta y siete Relaciones espirituales de Santa Teresa a sus confesores y las mercedes que recibió de Dios, escritas entre 1560 y 1581. Texto del P. Silverio de Santa Teresa, con sus notas; una relación por capítulo.",
+    "en-US": "The sixty-seven Spiritual Testimonies St. Teresa wrote for her confessors, recording the graces she received from God, 1560-1581. P. Silverio de Santa Teresa's text with his notes, one relation per chapter (Spanish only; Lewis's English groups the same pieces differently).",
+    "pt-BR": "As sessenta e sete Relações espirituais de Santa Teresa aos seus confessores sobre as graças recebidas de Deus (1560-1581), uma por capítulo."
+  },
+  "composed": "1560–1581",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "teresa-of-avila/relaciones",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1915
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesantatere02tere",
+      "edition": "Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. 2: Relaciones espirituales y Apéndices al Libro de la Vida (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1915, pp. 1–88. Princeton Theological Seminary scan, primary OCR.",
+      "description": "Spanish critical text with Silverio's notes kept as footnotes; his introduction and appendices are not included. OCR of two independent scans merged word by word.",
+      "tier": "A",
+      "tierEvidence": "Teresa died in 1582; the volume was published in 1915 (public domain in the US) and P. Silverio died in 1954, so his notes are public domain under life+70 since 1 January 2025."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdestateresa02tere",
+      "edition": "The same volume, Wellesley College scan, used as the second witness.",
+      "tier": "A",
+      "tierEvidence": "Same edition as above."
+    }
+  ],
+  "toc": [
+    {
+      "id": "r01",
+      "title": {
+        "es-ES": "Relación I"
+      }
+    },
+    {
+      "id": "r02",
+      "title": {
+        "es-ES": "Relación II"
+      }
+    },
+    {
+      "id": "r03",
+      "title": {
+        "es-ES": "Relación III"
+      }
+    },
+    {
+      "id": "r04",
+      "title": {
+        "es-ES": "Relación IV"
+      }
+    },
+    {
+      "id": "r05",
+      "title": {
+        "es-ES": "Relación V"
+      }
+    },
+    {
+      "id": "r06",
+      "title": {
+        "es-ES": "Relación VI"
+      }
+    },
+    {
+      "id": "r07",
+      "title": {
+        "es-ES": "Relación VII"
+      }
+    },
+    {
+      "id": "r08",
+      "title": {
+        "es-ES": "Relación VIII"
+      }
+    },
+    {
+      "id": "r09",
+      "title": {
+        "es-ES": "Relación IX"
+      }
+    },
+    {
+      "id": "r10",
+      "title": {
+        "es-ES": "Relación X"
+      }
+    },
+    {
+      "id": "r11",
+      "title": {
+        "es-ES": "Relación XI"
+      }
+    },
+    {
+      "id": "r12",
+      "title": {
+        "es-ES": "Relación XII"
+      }
+    },
+    {
+      "id": "r13",
+      "title": {
+        "es-ES": "Relación XIII"
+      }
+    },
+    {
+      "id": "r14",
+      "title": {
+        "es-ES": "Relación XIV"
+      }
+    },
+    {
+      "id": "r15",
+      "title": {
+        "es-ES": "Relación XV"
+      }
+    },
+    {
+      "id": "r16",
+      "title": {
+        "es-ES": "Relación XVI"
+      }
+    },
+    {
+      "id": "r17",
+      "title": {
+        "es-ES": "Relación XVII"
+      }
+    },
+    {
+      "id": "r18",
+      "title": {
+        "es-ES": "Relación XVIII"
+      }
+    },
+    {
+      "id": "r19",
+      "title": {
+        "es-ES": "Relación XIX"
+      }
+    },
+    {
+      "id": "r20",
+      "title": {
+        "es-ES": "Relación XX"
+      }
+    },
+    {
+      "id": "r21",
+      "title": {
+        "es-ES": "Relación XXI"
+      }
+    },
+    {
+      "id": "r22",
+      "title": {
+        "es-ES": "Relación XXII"
+      }
+    },
+    {
+      "id": "r23",
+      "title": {
+        "es-ES": "Relación XXIII"
+      }
+    },
+    {
+      "id": "r24",
+      "title": {
+        "es-ES": "Relación XXIV"
+      }
+    },
+    {
+      "id": "r25",
+      "title": {
+        "es-ES": "Relación XXV"
+      }
+    },
+    {
+      "id": "r26",
+      "title": {
+        "es-ES": "Relación XXVI"
+      }
+    },
+    {
+      "id": "r27",
+      "title": {
+        "es-ES": "Relación XXVII"
+      }
+    },
+    {
+      "id": "r28",
+      "title": {
+        "es-ES": "Relación XXVIII"
+      }
+    },
+    {
+      "id": "r29",
+      "title": {
+        "es-ES": "Relación XXIX"
+      }
+    },
+    {
+      "id": "r30",
+      "title": {
+        "es-ES": "Relación XXX"
+      }
+    },
+    {
+      "id": "r31",
+      "title": {
+        "es-ES": "Relación XXXI"
+      }
+    },
+    {
+      "id": "r32",
+      "title": {
+        "es-ES": "Relación XXXII"
+      }
+    },
+    {
+      "id": "r33",
+      "title": {
+        "es-ES": "Relación XXXIII"
+      }
+    },
+    {
+      "id": "r34",
+      "title": {
+        "es-ES": "Relación XXXIV"
+      }
+    },
+    {
+      "id": "r35",
+      "title": {
+        "es-ES": "Relación XXXV"
+      }
+    },
+    {
+      "id": "r36",
+      "title": {
+        "es-ES": "Relación XXXVI"
+      }
+    },
+    {
+      "id": "r37",
+      "title": {
+        "es-ES": "Relación XXXVII"
+      }
+    },
+    {
+      "id": "r38",
+      "title": {
+        "es-ES": "Relación XXXVIII"
+      }
+    },
+    {
+      "id": "r39",
+      "title": {
+        "es-ES": "Relación XXXIX"
+      }
+    },
+    {
+      "id": "r40",
+      "title": {
+        "es-ES": "Relación XL"
+      }
+    },
+    {
+      "id": "r41",
+      "title": {
+        "es-ES": "Relación XLI"
+      }
+    },
+    {
+      "id": "r42",
+      "title": {
+        "es-ES": "Relación XLII"
+      }
+    },
+    {
+      "id": "r43",
+      "title": {
+        "es-ES": "Relación XLIII"
+      }
+    },
+    {
+      "id": "r44",
+      "title": {
+        "es-ES": "Relación XLIV"
+      }
+    },
+    {
+      "id": "r45",
+      "title": {
+        "es-ES": "Relación XLV"
+      }
+    },
+    {
+      "id": "r46",
+      "title": {
+        "es-ES": "Relación XLVI"
+      }
+    },
+    {
+      "id": "r47",
+      "title": {
+        "es-ES": "Relación XLVII"
+      }
+    },
+    {
+      "id": "r48",
+      "title": {
+        "es-ES": "Relación XLVIII"
+      }
+    },
+    {
+      "id": "r49",
+      "title": {
+        "es-ES": "Relación XLIX"
+      }
+    },
+    {
+      "id": "r50",
+      "title": {
+        "es-ES": "Relación L"
+      }
+    },
+    {
+      "id": "r51",
+      "title": {
+        "es-ES": "Relación LI"
+      }
+    },
+    {
+      "id": "r52",
+      "title": {
+        "es-ES": "Relación LII"
+      }
+    },
+    {
+      "id": "r53",
+      "title": {
+        "es-ES": "Relación LIII"
+      }
+    },
+    {
+      "id": "r54",
+      "title": {
+        "es-ES": "Relación LIV"
+      }
+    },
+    {
+      "id": "r55",
+      "title": {
+        "es-ES": "Relación LV"
+      }
+    },
+    {
+      "id": "r56",
+      "title": {
+        "es-ES": "Relación LVI"
+      }
+    },
+    {
+      "id": "r57",
+      "title": {
+        "es-ES": "Relación LVII"
+      }
+    },
+    {
+      "id": "r58",
+      "title": {
+        "es-ES": "Relación LVIII"
+      }
+    },
+    {
+      "id": "r59",
+      "title": {
+        "es-ES": "Relación LIX"
+      }
+    },
+    {
+      "id": "r60",
+      "title": {
+        "es-ES": "Relación LX"
+      }
+    },
+    {
+      "id": "r61",
+      "title": {
+        "es-ES": "Relación LXI"
+      }
+    },
+    {
+      "id": "r62",
+      "title": {
+        "es-ES": "Relación LXII"
+      }
+    },
+    {
+      "id": "r63",
+      "title": {
+        "es-ES": "Relación LXIII"
+      }
+    },
+    {
+      "id": "r64",
+      "title": {
+        "es-ES": "Relación LXIV"
+      }
+    },
+    {
+      "id": "r65",
+      "title": {
+        "es-ES": "Relación LXV"
+      }
+    },
+    {
+      "id": "r66",
+      "title": {
+        "es-ES": "Relación LXVI"
+      }
+    },
+    {
+      "id": "r67",
+      "title": {
+        "es-ES": "Relación LXVII"
+      }
+    }
+  ]
+}
