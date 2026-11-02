@@ -1,0 +1,31 @@
+# Lettre 1318. Alain de Solminihac à Saint Vincent
+
+A Mercuès, ce 25 janvier 1651.
+
+Monsieur,
+
+J’ai cru vous devoir informer en particulier de l’accident qui m’arriva ces fêtes de Noël à Cahors. Je vous dirai que, mon vicaire général m’ayant fait consulter à quatre médecins de la ville, celui qui nous sert d’ordinaire en ayant fait le rapport aux autres, et de la quantité du sang que j’avais rendu, ils demeurèrent d’accord qu’il était arrivé par la rupture d’une veine dans le poumon, laquelle demeurait ouverte après trois effusions diverses, èsquelles j’avais perdu beaucoup de sang, j’en devais mourir ; et étant venus tous quatre à l’évêché comme j’étais sur le point de prendre mon carrosse pour m’en venir ici, ils m’annoncèrent publiquement la mort en bonne compagnie, car ils n’appréhendèrent pas seulement que cette veine ne se refermât pas, mais encore qu’après s’être fermée il se fit un ulcère, comme il arrive d’ordinaire, qui causerait enfin la mort. Néanmoins il est arrivé tout le contraire, car cette plaie s’est refermée sans aucun ulcère ; et certes j’en devais mourir non seulement par ces raisons, mais encore par les grands efforts que je fis à crier pour faire venir quelqu’un la nuit de Noël, après être revenu de Matines, lorsque je rendais le sang en abondance. Notre-Seigneur sans doute m’a voulu laisser la vie pour réparer les fautes que j’ai commises en ma charge, et faire pénitence de mes péchés.
+
+Voilà ce qui a donné sujet à envoyer des courriers extraordinaires pour demander notre évêché et encore notre abbaye, à ce que j’appris ; et ce bruit avait tellement préoccupé les esprits qu’ils ne pouvaient perdre cette opinion, quoique j’aie toujours signé toute sorte d’expéditions.
+
+Cet accident n’a pas eu les suites que les médecins avaient cru ; mais ils demeurent tous d’accord qu’il y a beaucoup à craindre, au moins jusqu’après l’automne, que le même accident ne m’arrive encore, si je fais ou souffre aucune violence du corps ou de l’esprit. C’est pourquoi ils m’ont ordonné de me tenir dans un grandissime repos ; ce que j’ai fait jusques ici, n’étant sorti que pour aller dire la messe tous les jours à notre chapelle, et à la salle, depuis peu de jours, quand il vient des personnes de condition. le continuerai selon leur avis.
+
+Cependant, parce qu’il y a toujours du danger, j’ai cru qu’il était nécessaire d’en informer la reine, comme je vous en supplie, et faire ressouvenir Sa Majesté que, prenant congé d’elle l’an 1646, je la suppliai très humblement, lorsqu’elle apprendrait la nouvelle de ma mort, de vouloir faire choix d’une personne apostolique pour mettre en mon évêché ; ce que Sa Majesté me promit et réitéra la promesse. Je crois qu’il vous souviendra que je vous en fis le récit.
+
+Je ne vous saurais dire l’étonnement et le déplaisir de tous les gens de bien de mon diocèse lors de cet accident, non pas peur de perte de moi, ô Dieu ! nenni, mais pour l’appréhension ou de demeurer longtemps sans avoir d’évêque, ou d’en avoir quelqu’un qui s’attacherait plutôt à jouir des grandeurs de cet évêché, que de maintenir le bien qu’il a plu à Dieu d’établir dans ce diocèse, qui demanderait un évêque qui soit plus qu’homme. Je vous prie, au nom de Dieu, d’en reporter bien l’importance à la reine, et que c’est un des plus grands services qu’elle saurait faire à Notre-Seigneur, que d’y mettre un apôtre, quand il plaira à Dieu nous retirer de ce monde ; que j’en conjure Sa Majesté par la Sacrée Passion de notre Sauveur. Je sais bien que je n’ai pas mérité cet effet de sa bonté ; néanmoins puisqu’il lui a plu me le promettre, j’espère qu’elle me l’accordera, d’autant plus volontiers que je crois qu’elle y est obligée, ainsi qu’elle-même me dit, lorsque je lui fis cette supplication. Elle peut se réserver absolument la disposition de cet évêché, et, si cela arrive pendant la minorité du roi, la lui demander. J’offre sans cesse mes prières à Dieu pour la conservation de Sa Majesté. Si elle m’accorde cette grâce, elle m obligera à les redoubler.
+
+Je vous prie aussi de lui représenter comme quoi le feu roi a laissé aux religieux l’élection de l’abbé de Chancelade, afin que, si on la lui demande, ainsi que j’ai appris qu’on a fait, elle les renvoie et die qu’elle la conserve au chapitre de ladite abbaye.
+
+Je vous conjure de ne dire à personne, ni au Père Vitet, ni à notre official, ce que je vous écris de cet accident. Je vous demande aussi de tout mon cœur cet effet de votre affection en mon endroit, que si vous entendez dire que cet accident me soit arrivé derechef et m’ait emporté, que vous alliez tout incontinent trouver Sa Majesté pour la sommer de [tenir] sa promesse et employer tout votre crédit pour faire en sorte que mon évêché soit pourvu d’une personne qui ait toutes les qualités que je lui souhaite, pour conserver aux religieux de Chancelade l’élection et nomination de l’abbé.
+
+Obligez-moi de me mander ce que la reine vous aura dit quand vous lui aurez parlé ; et, s’il vous plaît, que ce soit dans une lettre particulière, afin que je la puisse garder et m’en servir en temps et lieu.
+
+Et parce que vous avez la bonté de me recommander de me conserver, je vous dirai que j’en ai jusqu’à présent tout le soin qui se peut, par l’avis des médecins, que je suis absolument ayant pris tous les remèdes qu’ils m’ont ordonnés. Il est vrai que je les ai priés de me laisser vivre comme j’avais accoutumé ; ce qu’ils ont fait, si ce n’est qu’ils m’ont ordonné de prendre un cordial au commencement du repas, et un peu de fruit à la fin, et d’ajouter deux heures de sommeil.
+
+Après tout si faut-il mourir de quelque accident en faisant nos fonctions ; car autrement je vous assure que je crois que je vivrais plus d’un siècle. Je suis dans la 58e année et vous puis assurer avec vérité que je n’ai jamais eu plus de santé qu’à présent, hors de cet accident, plus de force et de vigueur pour travailler et souffrir toute sorte de travail et de fatigue. Dieu nous donnera selon son bon plaisir, que nous adorerons toujours avec sa grâce et nous y soumettrons entièrement et dirons avec l’Apôtre : "Mihi vivere Christus est et mori lucrum." Je le supplie qu’il vous continue ses grâces en parfaite santé, comme étant, Monsieur…
+
+ALAIN,
+
+év de Cahors. [^1]
+
+[^1]: Arch. de l’évêché de Cahors, cahier, copie prise sur l’original.

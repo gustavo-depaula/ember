@@ -1,0 +1,21 @@
+# Lettre 1555. À Marc Coglée, Supérieur, à Sedan
+
+Du 25 septembre 1652.
+
+Je vous remercie de l’avis que vous m’avez donné touchant M… J’ai grande douleur de son procédé, pource qu’il en arrivera des effets capitalement mauvais. Il l’a fait par une exubérance de zèle, pensant par ce moyen procurer quelque soulagement au pauvre peuple. Je lui en ai écrit mon petit sentiment. Il est vrai qu’en l’âme de M…. il y a un bon fonds de bonté, bien qu’il ait un extérieur trop actif et peu réglé ; de ceci il en faut supporter une partie et le porter à se corriger de l’autre par des avertissements faits à propos et en esprit de charité, doucement et affectueusement.
+
+Il ne faut pas faire état des plaintes que l’on fait de nous, quand c’est pour chose bonne dont l’usage est dans la compagnie, comme de n’aller point manger chez les externes. M. de Santeuil n’est pas homme à trouver mauvais que vous n’alliez pas manger chez lui, si vous lui en dites la raison, qui est, d’un côté, notre maxime, laquelle nous défend cela, et, de l’autre, la conséquence du contraire, si nous passions par-dessus.
+
+Pour ce qui est de vous ouvrir davantage que vous ne faites aux principaux habitants, je n’y vois point d’inconvénient pour les choses principales de la paroisse qui regardent son bien et votre office pastoral, pourvu que vous ne passiez pas de ces affaires extérieures aux intérieures de La maison, ni aux nouvelles du monde.
+
+Non, vous ne feriez pas bien de demander avis à M. le gouverneur sur les choses à dire dans vos prédications, soit qu’elles regardent les points controversés, ou non ; et je m’étonne que vous en ayez eu la pensée. Vous vous êtes proposé, quand vous serez chez cette personne [^1], de l’avertir en particulier de ce qu’elle dira moins bien à propos. Je pense, Monsieur, que c’est ce que vous ne devez pas faire, tant pource que, trouvant son excuse dans sa bonne intention, il pourrait recevoir l’avertissement en mauvaise part, que pource qu’il est plus sage sans doute que nous, tant que nous sommes.
+
+Vous avez bien fait de vous mettre bien avec les Pères jésuites de Charleville ; mais de dire que c’est afin qu’ils nous soutiennent lorsqu’on leur dira mal de nous, c’est un motif bien bas et bien éloigné de l’esprit de Jésus-Christ, selon lequel nous devons regarder Dieu purement en nos actions et faire servir toutes choses à l’amour que nous lui devons ; et vous, au contraire, ayant en vue votre réputation, vous voulez faire servir la charité qui vous lie avec ces Pères à la conservation de cette réputation, qui est une chose vaine, si elle n’est fondée sur la vertu ; et si elle est établie sur un tel fondement, que craignez-vous ?
+
+Vous m’écrivez une autre chose qui ne sent pas moins son respect humain, à savoir que, quand vous m’écrirez du bien de quelques personnes, je fasse en sorte que leurs amis le sachent, afin qu’ils les en avertissent. Mon Dieu ! Monsieur, à quoi vous amusez-vous ? Où est la simplicité d’un missionnaire qui doit aller droit à Dieu ? Si vous ne reconnaissez du bien en ces personnes, n’en dites pas ; mais si vous y en trouvez, parlez-en pour honorer Dieu en elles, parce que tout bien procède de lui. Notre-Seigneur reprit un homme qui l’appelait bon, pource qu’il ne le faisait pas à bonne intention ; combien plus aurait-il sujet de vous reprendre, si vous louez les hommes par complaisance, pour être bien auprès d’eux, ou pour quelqu’autre fin grossière, encore que cette fin en ait une autre qui soit bonne, comme la vôtre ! Car je sais que vous ne cherchez à vous mettre dans l’estime ou l’affection d’aucun que pour avancer la gloire de Dieu et le bien de la compagnie ; mais souvenez-vous que la duplicité n’est pas agréable à Dieu et que nous ne devons considérer que lui pour être véritablement simples.
+
+Vous dites de plus qu’un de ces Pères jésuites a prêché dans votre église le jour du saint patron, et vous désirez savoir si, en cas pareil, vous leur rendrez le réciproque, supposé qu’ils le désirent. Non, Monsieur, je vous prie de vous en excuser sur ce que notre façon de prêcher est pour les pauvres gens de la campagne et que nous n’avons ni grâce ni habitude pour prêcher dans les villes. [^2]
+
+[^1]: Le gouverneur de Sedan.
+
+[^2]: Reg. 2, p. 153.

@@ -1,0 +1,9 @@
+# Lettre 1292. A Etienne Blatiron, Supérieur, à Gênes
+
+Du 2 décembre 1650.
+
+Je loue Dieu de ce qu’il vous a inspiré de faire prêcher Monsieur Richard et qu’il a béni sa prédication. Nous commençons à reconnaître notre faute de n’avoir pas assez exercé par le passé notre jeunesse, non plus ici qu’aux autres maisons ; de là est venu que les anciens se sont consumés et que les jeunes ne se sont formés que fort tard. Nous ferons donc bien, Monsieur, de les appliquer désormais à tout. Je vous prie d’en user ainsi à l’égard des vôtres, les faisant prêcher et catéchiser à la campagne et les exerçant à toutes nos fonctions. même à la maison ; car ainsi par l’expérience ils se formeront suffisamment, ils s’encourageront et se rendront capables de rendre service à Dieu. Nos ordinations passées ont été toujours dirigées par l’un de nos plus anciens ; mais nous sommes résolus d’en laisser la conduite pour ce coup à M. Duport, qui est nouveau [^1], et de donner le soin de la première académie à deux jeunes prêtres, dont l’un n’est prêtre que depuis un ou deux mois, et l’autre depuis deux ans. Nous n’en demeurerons pas là ; mais j’espère de mettre de bonne heure tout le monde en besogne désormais, doucement pourtant et avec prudence. Nous avons grand besoin d’ouvriers et nous n’en aurons jamais assez, si nous n’en faisons. [^2]
+
+[^1]: Nicolas Duport avait des qualités qui le rendaient digne de remplir cet emploi. Il était né à Soissons le 22 mars 1619, avait reçu la prêtrise le 15 juin 1647, était entré dans la congrégation de la Mission le 5 mai 1648 et avait prononcé les vœux le 6 mai 1650. Placé à Gênes en 1652, il y mourut de la peste le 24 juillet 1657. On trouve dans le ms. 774 de la bibliothèque municipale de Lyon (f° 232-233) un bref abrégé de ses vertus.
+
+[^2]: Reg. 2, p. 35.

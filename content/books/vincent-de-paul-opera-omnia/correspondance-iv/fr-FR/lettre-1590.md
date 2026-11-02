@@ -1,0 +1,7 @@
+# Lettre 1590. À Etienne Blatiron, Supérieur. à Gênes
+
+Du 21 février 1653
+
+Vous avez bien fait, Monsieur, de laisser prendre son cours à la petite altération de M…., sans lui rien dire d’es manquements où il s’est laissé aller ; le remède s’en trouve mieux dans le support et la patience que dans la correction pendant ces indispositions d’esprit, desquelles il y a sujet d’espérer qu’il reviendra. Peut-être s’est-il excusé de prêcher à ces filles, pour l’aversion grande que quelques-uns ont de toute sorte de communication avec ce sexe. Je suis seulement marri de ce que toute la charge tombe sur vous ; mais que ne vous déchargez-vous sur d’autres ! Vous devez exercer tout votre monde à la prédication et l’employer au dehors ; autrement, ils ne se rendront jamais bons ouvriers. Je sais bien qu’ils ne feront autant de fruit que vous en pourriez faire, ma. s ils en feront autant qu’il plaira à Dieu. Et à ce propos, je vous rapporterai ce que j’ai ouï dire à M. Lambert, dont je me ressouviendrai longtemps, que, quand Dieu ne nous a pas donné d’excellents sujets pour réussir en nos fonctions, il a fort agréable que nous y appliquions ceux que nous avons, quoique chétifs. J’appréhende toujours que vous preniez trop sur vous et que vos grands travaux ne vous accablent ; ce n’est pas que, hors cette crainte, je n’en sois grandement consolé et que même je n’en console souvent la compagnie. Il n’y a que deux jours que je lui racontais les grandes et fréquentes missions que vous faites et les singulières grâces dont Dieu les bénit. [^1]
+
+[^1]: Reg 2, p 203

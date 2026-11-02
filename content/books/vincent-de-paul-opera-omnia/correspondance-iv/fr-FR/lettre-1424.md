@@ -1,0 +1,11 @@
+# Lettre 1424. À Mathurin Gentil, Prêtre de la Mission, au Mans
+
+Du 22 novembre 1651.
+
+La compassion que je vous porte dans vos fatigues fait que je prie souvent Notre-Seigneur qu’il soit votre force. La maison du Mans vous est beaucoup obligée des peines que vous prenez pour elle et des exemples que vous lui donnez, auxquels il est à souhaiter que vous ajoutiez celui-ci. de n’entreprendre aucun bâtiment, ni de grosses réparations, sans un ordre exprès du général, non plus que les menues réparations sans la permission du supérieur particulier ; ce qui est conforme aux règles et à l’usage de la compagnie.
+
+M. Lambert l’a bien reconnu, m’ayant témoigné, avant son départ pour la Pologne, quelque syndérèse [^1] de vous avoir dit en sa visite que vous fissiez faire et défaire ce que vous jugeriez à propos sans en prendre avis du supérieur ; qui est une grande faute ; et partant j’annule cette permission, et je vous prie de vous en tenir indispensablement à la pratique des autres maisons, qui est conforme au règlement et telle que je viens de dire. Je ne doute pas que vous n’ayez agréable cet avis, venant d’une personne qui vous chérit tendrement, et que vous ne soyez d’autant plus aise de cesser toute dépense pour ce regard que vous avez moins de moyen de payer vos pensions et nous de vous aider. Vous savez que nous sommes en avances de grosses sommes pour votre maison, payant environ mille écus tous les ans à sa décharge à M. l’abbé Lucas et à d’autres. Cependant vous dites que vous ne pouvez fournir au reste des charges. Quelle apparence donc d’avoir quasi toujours des ouvriers qui remuent, changent, détruisent, relèvent, agencent et qui emportent beaucoup d’argent pour journées et pour fournitures ! Vous me direz que les fermes menacent de ruine et qu’elles ont besoin d’être réparées. Cela n’est que trop véritable, Monsieur ; mais ce n’est pas là où vous faites travailler ; c’est à la maison, qui n’en a pas tant de besoin. Il faut pourtant se résoudre à tourner vos soins du côté de ces métairies et demander au plus tôt permission de vendre des bois pour la dépense qu’il y convient faire. Dieu nous fasse la grâce de contribuer au bon ordre, de bien employer le peu de moyens que Dieu nous donne, et à même temps de faire usage de la sainte pauvreté ! [^2]
+
+[^1]: * Syndérese* regret.
+
+[^2]: Reg 2, p-315

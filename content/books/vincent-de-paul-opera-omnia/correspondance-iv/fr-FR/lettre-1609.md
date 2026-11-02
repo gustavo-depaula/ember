@@ -1,0 +1,11 @@
+# Lettre 1609. À un Chartreux
+
+Mon Révérend Père,
+
+La grâce de N.-S. soit avec vous pour jamais !
+
+J’ai lu votre lettre avec respect et certes, avec confusion, à cause que vous vous adressez au plus sensuel et moins spirituel des hommes, et reconnu tel d’un chacun : Je ne laisserai pas néanmoins de vous dire mes petites pensées sur ce que vous me proposez, non pas par manière d’avis, mais par la pure condescendance que N.-S. veut que nous rendions à notre prochain, ou, pour mieux dire, par pure obéissance. Je commencerai donc par vous dire, mon Révérend Père, que j’ai été consolé de voir les attraits que vous avez à l’union parfaite avec N.-S., la fidèle correspondance que vous avez à cela et les caresses dont sa divine bonté vous a souvent prévenu, les grandes difficultés et les contradictions que vous avez rencontrées dans les divers états par lesquels vous avez passé, et enfin des filtres d’amour que vous avez pour cette grande maîtresse de la vie spirituelle, sainte Thérèse.
+
+Or, encore que cela soit ainsi, je pense, mon Révérend Père, qu’il y a plus de sûreté en la vie commune de votre saint Ordre et de vous soumettre entièrement à la direction de votre supérieur : 1° pource que c’est une maxime que le religieux doit aspirer à s’animer de l’esprit de son Ordre ; et autrement ce serait être religieux d’un Ordre d’habit seulement et non d’esprit. Et comme votre saint Ordre est reconnu le plus parfait de l’Église, et que pour cela tous les autres peuvent passer aux Chartreux, c’est ainsi que vous avez plus grande obligation de travailler à l’acquisition de cet esprit. Et comme l’esprit de votre saint Ordre consiste au silence, à la solitude et à l’oraison vocale, animée de la mentale, c’est ainsi, mon Révérend Père, que je pense que vous ferez bien de vous donner à N.-S. pour entrer dans cet esprit. 2° C’est une maxime que l’esprit de N.-S. agit doucement et suavement, et celui de la nature et de l’esprit malin agit au contraire âprement et aigrement. Or, il paraît par tout ce que vous me dites que vos allures sont âpres et aigres et qu’elles vous font tenir tenacement à vos sentiments contre ceux de vos supérieurs, joint d’ailleurs que votre complexion naturelle vous porte à cela. [^1]
+
+[^1]: Reg. I, f° 21 copie prise sur la "minute de la main"

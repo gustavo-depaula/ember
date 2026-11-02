@@ -1,0 +1,7 @@
+# Lettre 1506. À Achille le Vazeux, Prêtre de la Mission, à Rome
+
+Juin 1652.
+
+Sur ce que vous me dites des intrigues dont on use à présent pour faire les affaires, et que même l’on s’en sert contre nous, prions Dieu qu’il nous garde de cet esprit ; puisque nous le blâmons en autrui, il est plus raisonnable de l’éloigner de nous comme un défaut contre la Providence divine, lequel rend ceux qui le commettent indignes des soins qu’elle prend de chaque chose. Établissons-nous dans l’entière dépendance de Dieu et dans la confiance qu’en ce faisant tout ce que les hommes diront ou feront contre nous se tournera en bien. Oui, Monsieur, et quand toute la terre s’élèverait pour nous détruire, il n’en sera que ce qu’il plaira à Dieu, en qui nous avons mis notre espérance. Je vous prie d’entrer dans ce sentiment et d’y demeurer si bien que jamais plus vous n’occupiez votre esprit de ces appréhensions inutiles, tenant pour certain que de ces mêmes intrigues par lesquelles les autres pourront tâcher de nous nuire pour parvenir à leurs établissements, Dieu s’en servira pour nous défendre. Pour moi, je demande pardon à sa bonté si jusqu’à présent j’ai écouté les choses que vous m’avez écrites sur ce sujet, et des réponses que je puis vous avoir faites, qui n’ont pas tout à fait tendu à cet abandon à Dieu dans lequel nous devons être. Je le prie qu’il nous fasse désormais la grâce de ne craindre ni désirer que lui seul, en qui je suis, Monsieur, votre… [^1]
+
+[^1]: Reg 2, p. 258.

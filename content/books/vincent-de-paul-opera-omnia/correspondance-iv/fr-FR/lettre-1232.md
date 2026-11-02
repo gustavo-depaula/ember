@@ -1,0 +1,7 @@
+# Lettre 1232. À René Alméras, Supérieur, à Rome
+
+Du 15 juillet 1650.
+
+Je suis de votre avis au sujet de… ; je ne crois pas que jamais il revienne de l’état où il est ; au contraire, je crains qu’il nuise beaucoup à cette maison ; et non seulement je le crains, mais nous l’expérimentons déjà, et je vous avoue que… et lui et encore quelqu’autre l’ont grandement ébranlée. L’un est dehors, après l’avoir supporté autant qu’il nous a été possible ; et il serait expédient que les autres en fussent bien loin ; ce serait faire justice à la compagnie d’en couper les membres gangrenés. Cela est vrai, et la prudence le requiert. Mais pource qu’il faut donner lieu à toutes les vertus, nous exerçons maintenant la patience, la longanimité et la charité même, dans le désir de leur amendement. Nous appliquons des remèdes au mal par divers emplâtres de douceur, de menaces, de prières et d’avertissements ; et tout cela, sans espérance d’autre bien que celui qu’il plaira à Dieu d’y opérer par lui-même. Notre-Seigneur ne chassa pas saint Pierre pour l’avoir renié diverses fois, ni même Judas, quoiqu’il dût mourir en son péché. Ainsi j’estime que sa divine bonté a bien agréable l’extension de celle de la compagnie sur nos dyscoles pour leur faire reste de droit et ne rien épargner pour les gagner à Dieu. Ce n’est pas qu’enfin nous n’en venions au retranchement ; car c’est une nécessité. [^1]
+
+[^1]: Reg. 2 p. 48.

@@ -1,0 +1,9 @@
+# Lettre 1486. À Jean Dehorgny, Supérieur, à Rome
+
+19 avril 1652.
+
+Je vous ai mandé qu’il me semblait que M. [Le Vazeux [^1]] allait un peu vite en votre absence ; ce qui m a paru particulièrement au décret qu’il a poursuivi en la Sacrée Congrégation contre le dessein de M. de Ventadour, sans attendre notre avis, ni, je pense, le vôtre ; ce qui a choqué quantité de personnes de condition qui ont charité pour nous ; et j’ai été obligé d’aller trouver ce bon Monsieur, de lui faire nos excuses et de l’assurer que nous n’apporterons aucun empêchement aux séminaires qu’il veut établir, comme de sa part il m’a promis qu’ils ne prendront autre nom que celui que le Pape leur donnera, sur ce que je lui ai représenté les inconvénients à craindre de la ressemblance des noms. Ils demandent que ces séminaires-là aient rapport et dépendance au collège de la Propagation de Rome. Si cette œuvre est de Dieu, nous aurions grand tort de la traverser ; et si elle ne l’est pas, Dieu la détruira, quand il lui plaira. Quant à nous, nous devons désirer que tout le monde prophétise et que les ouvriers évangéliques se multiplient. Pour moi, j’estime que c’en est là un bon moyen, et pour cela j’en souhaite de bon cœur le succès. Pour beaucoup qu’il y en ait dans l’Église de Dieu, nous ne manquerons jamais d’occupation, tant que nous lui serons fidèles. M. [Le Vazeux] prend ombrage de tout ; il a des vues qui vont trop avant, et prend des précautions qu’il ne faudrait pas. Il se faut confier en Dieu, nous attacher à nos fonctions et commettre le reste à la Providence ; c’est ce que je lui ai fait sentir. Et sur ce qu’il fait instance à demander une extension de notre bulle pour pouvoir travailler dans les villes et aux pays des infidèles, je l’ai prié de suspendre ces propositions et d’attendre notre résolution. [^2]
+
+[^1]: Voir lettre 1483
+
+[^2]: Reg 2, p 228
