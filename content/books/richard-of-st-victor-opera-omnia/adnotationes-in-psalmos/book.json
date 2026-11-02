@@ -1,0 +1,222 @@
+{
+  "id": "richard-adnotationes-in-psalmos",
+  "cover": "classic",
+  "name": {
+    "la": "Adnotationes mysticae in Psalmos",
+    "en-US": "Mystical Notes on the Psalms",
+    "pt-BR": "Anotações místicas sobre os Salmos"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "Adnotationes mysticae in Psalmos.",
+    "en-US": "Richard’s mystical notes on a selection of the Psalms. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "As anotações místicas de Ricardo sobre uma seleção de Salmos."
+  },
+  "composed": "c. 1150-1173",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/adnotationes-in-psalmos",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.AdMyInP",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.AdMyInP, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Adnotatio in psalmum II."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Adnotatio in psalmum XXX."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Adnotatio in psalmum XXV."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Adnotatio in psalmum XXVIII. (pars 1)"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Adnotatio in psalmum XXVIII. (pars 2)"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Adnotatio in psalmum XXVIII. (pars 3)"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Adnotatio in psalmum XXVIII. (pars 4)"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Adnotatio in psalmum XL."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Adnotatio in psalmum XLIV."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Adnotatio in psalmum LXXIV."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Adnotatio in psalmum LXXX."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Adnotatio in psalmum LXXX."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Adnotatio in psalmum LXXXIV."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Adnotatio in psalmum XCVIII."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Adnotatio in psalmum CIV."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Adnotatio in psalmum CXIII."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Adnotatio in psalmum CXVII."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Adnotatio in psalmum CXVIII."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Adnotatio in psalmum CXVIII."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Adnotatio in psalmum CXVIII."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Adnotatio in psalmum CXXI."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Adnotatio in psalmum CXXXIV."
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Adnotatio in psalmum CXXXIV."
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Adnotatio in psalmum CXXXVIII."
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "Adnotatio in psalmum CXXXVI."
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "Adnotatio in psalmum CXXXIX."
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Adnotatio in psalmum CXLIII."
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "Adnotatio in psalmum LXXI."
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "Adnotatio in psalmum XC."
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "Expositio cantici habacuc."
+      }
+    }
+  ]
+}
