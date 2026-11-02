@@ -1,0 +1,181 @@
+{
+  "id": "kempis-hortulus-rosarum",
+  "cover": "classic",
+  "name": {
+    "la": "Hortulus rosarum",
+    "en-US": "The Little Garden of Roses",
+    "pt-BR": "O Pequeno Jardim de Rosas"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Hortulus rosarum de valle lacrimarum: duodeviginti capitula de bona societate, de sancta solitudine, de poenitentia, de passione Christi et de caelesti patria. Textus ex editione Pohl (1918), versio Anglica anni 1867.",
+    "en-US": "The first of Thomas's two companion garden books, in eighteen short chapters on good company, silence, repentance, the Passion and the heavenly homeland, each opening on a scripture verse. The Latin is Pohl's critical edition (Freiburg 1918), from a raw OCR of the printed volume; the English is the anonymous 1867 Baltimore translation.",
+    "pt-BR": "O primeiro dos dois livros-jardim de Tomás, em dezoito capítulos curtos sobre a boa companhia, o silêncio, a penitência, a Paixão e a pátria celeste."
+  },
+  "composed": "c. 1420-1430",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "thomas-a-kempis/hortulus-rosarum",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1918
+    },
+    "en-US": {
+      "translator": "anonymous (Murphy, Baltimore)",
+      "year": 1867
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia0000thom_q8k7",
+      "edition": "Thomae Hemerken a Kempis Hortulus rosarum, ed. M. J. Pohl (Freiburg: Herder 1918), Opera omnia IV; archive.org raw OCR (Pohl 1918 volume).",
+      "description": "The eighteen chapters of the Hortulus rosarum. Line numbers, running heads and page breaks stripped by script; Pohl's critical footnotes and introduction are not imported. Chapter titles are Pohl's upper-case titles recased (u/v normalised by script). Raw OCR: drop capitals at chapter openings and isolated letters are often garbled.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1918; Thomas died in 1471."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/littlegardenrose00thom",
+      "edition": "The Little Garden of Roses and Valley of Lilies, anonymous English translation (Baltimore: Murphy 1867); archive.org OCR.",
+      "description": "The eighteen chapters of the Hortulus, matched chapter by chapter with the Latin. The English prints each chapter's Latin scripture motto and its translation. Raw OCR with residual slips.",
+      "tier": "A",
+      "tierEvidence": "Published 1867."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1-01",
+      "title": {
+        "la": "1. De bona societate quaerenda et mala cavenda",
+        "en-US": "1. On seeking the company of the good, and flying that of the bad"
+      }
+    },
+    {
+      "id": "p1-02",
+      "title": {
+        "la": "2. De fuga saeculi et laqueis diaboli",
+        "en-US": "2. On flying the world, and the snares of the devil"
+      }
+    },
+    {
+      "id": "p1-03",
+      "title": {
+        "la": "3. De vera sapientia quaerenda apud deum",
+        "en-US": "3. True wisdom must be sought of God"
+      }
+    },
+    {
+      "id": "p1-04",
+      "title": {
+        "la": "4. RQ renum caelorum vim patitur. j QQ Multorum est incipere; paucorum proficere: paucissimorum ad perfectionem pervenire. Aut enim ad carnem nimis labimur; aut in",
+        "en-US": "4. On warring against our own vices"
+      }
+    },
+    {
+      "id": "p1-05",
+      "title": {
+        "la": "5. De devotionis gratia acquirenda",
+        "en-US": "5. On the necessity of acquiring the grace of devotion"
+      }
+    },
+    {
+      "id": "p1-06",
+      "title": {
+        "la": "6. De auditione et lectione divini sermonis",
+        "en-US": "6. On hearing and reading the divine word"
+      }
+    },
+    {
+      "id": "p1-07",
+      "title": {
+        "la": "7. De divina consolatione in tribulatione",
+        "en-US": "7. On divine consolation in tribulation"
+      }
+    },
+    {
+      "id": "p1-08",
+      "title": {
+        "la": "8. De gaudio bonae conscientiae in spiritu sancto",
+        "en-US": "8. On the joy of a good con- science in the Holy spirit"
+      }
+    },
+    {
+      "id": "p1-09",
+      "title": {
+        "la": "9. De bonis moribus humilis fratris",
+        "en-US": "9. On the edifying demeanor of an humble brother"
+      }
+    },
+    {
+      "id": "p1-10",
+      "title": {
+        "la": "10. De instabilitate humani cordis",
+        "en-US": "10. On the instability of the human heart"
+      }
+    },
+    {
+      "id": "p1-11",
+      "title": {
+        "la": "11. De fiducia in deo habenda tempore angustiae",
+        "en-US": "11. On trust in God in time of trouble"
+      }
+    },
+    {
+      "id": "p1-12",
+      "title": {
+        "la": "12. De virtute orationis et utilitate sacrae lectionis",
+        "en-US": "12. On the efficacy of prayer, and the advantages of pious reading"
+      }
+    },
+    {
+      "id": "p1-13",
+      "title": {
+        "la": "13. De laude caritatis et fructibus eius",
+        "en-US": "13. On the praises of charity, and its fruits"
+      }
+    },
+    {
+      "id": "p1-14",
+      "title": {
+        "la": "14. De vigili cura et labore contra temptationes",
+        "en-US": "14. On watching and striving against temptations"
+      }
+    },
+    {
+      "id": "p1-15",
+      "title": {
+        "la": "15. De fraterno onere invicem portando",
+        "en-US": "15. On bearing one another's burthens"
+      }
+    },
+    {
+      "id": "p1-16",
+      "title": {
+        "la": "16. De amore Christi et odio mundi",
+        "en-US": "16. On the love of Christ, and hatred of the world"
+      }
+    },
+    {
+      "id": "p1-17",
+      "title": {
+        "la": "17. De imitatione sanctissimae vitae Domini nostri Iesu Christi",
+        "en-US": "17. On thfr imitation of the most Holy life of our Lord Jesus Christ"
+      }
+    },
+    {
+      "id": "p1-18",
+      "title": {
+        "la": "18. De aeterna laude Dei",
+        "en-US": "18. On the eternal praise of God"
+      }
+    }
+  ]
+}

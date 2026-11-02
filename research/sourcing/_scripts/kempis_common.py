@@ -68,6 +68,8 @@ def clean_en(lines):
             continue
         if re.match(r'^[\d\sivxlcIVXLC.,]*$', s) and len(s) < 9:
             continue
+        if sum(ch.isalpha() for ch in s) < 0.6 * len(s):
+            continue  # scan noise
         if s.isupper() and len(s) < 36 and not s.startswith('CHAPTER'):
             continue  # running head
         out.append(s)
@@ -120,7 +122,7 @@ def segments(lines, marker, start, end, groups=(), title_before=False):
     for i in idx:
         j = i
         k = i - 1
-        while k > start and (not lines[k].strip() or (lines[k].strip().isupper() and 'SERMONES' not in lines[k] and len(lines[k].split()) < 12)) and i - k < 8:
+        while k > start and (not lines[k].strip() or (lines[k].strip().isupper() and not re.search(r'SERMONES|EXPLICIT|INCIPIT|LILIORVM|ROSARVM|LIBRVM', lines[k]) and len(lines[k].split()) < 12)) and i - k < 8:
             if lines[k].strip():
                 j = k
             k -= 1

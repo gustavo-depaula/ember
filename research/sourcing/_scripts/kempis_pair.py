@@ -13,6 +13,7 @@ AU = {'la': 'Thomas a Kempis', 'en-US': 'Thomas à Kempis', 'pt-BR': 'Tomás de 
 def title_of(p):
     t = re.sub(r'^[€¢\s]+', '', p).strip().rstrip('.:')
     t = re.sub(r'\s+', ' ', t)
+    t = re.sub(r'\b(god|christ|christi|jesus|iesu|iesus|lord|mary|mariae|dei|domini|domine|david|agnetis|john|joseph|peter|paul|spiritus|sancti|ghost|holy|virgin|virginis|lazarus|ioseph|petri)\b', lambda m: m.group(1).capitalize(), t)
     return t[:160]
 
 
@@ -30,16 +31,36 @@ def chapters(cfg, lang):
     cl = clean if lang == 'la' else clean_en
     res = []
     for gi, ls, pt in segs:
+        if lang != 'la' and cfg.get('caps_title'):
+            k = 0
+            while k < len(ls) and not ls[k].strip():
+                k += 1
+            tl = []
+
+            def capsline(x):
+                letters = re.sub(r'[^A-Za-z]', '', x)
+                return len(letters) > 2 and sum(ch.isupper() for ch in letters) >= 0.7 * len(letters)
+            while k < len(ls) and len(tl) < 6 and (not ls[k].strip() or capsline(ls[k])):
+                if ls[k].strip():
+                    tl.append(re.sub(r'\s+', ' ', ls[k]).strip())
+                elif not tl:
+                    pass
+                elif k + 1 < len(ls) and not capsline(ls[k + 1]) and ls[k + 1].strip():
+                    break
+                k += 1
+            pt = re.sub(r'^ox\b', 'on', ' '.join(tl).lower()).rstrip('.')
+            pt = pt[:1].upper() + pt[1:]
+            ls = ls[k:]
         raw = cl(ls)
         if pt:
-            raw = [uptitle(pt)] + raw
+            raw = [uptitle(pt) if lang == 'la' else pt] + raw
         if not raw:
             res.append((gi, '', []))
             continue
         first, rest = raw[0], raw[1:]
         while lang == 'la' and not pt and not first.rstrip().endswith('.') and rest and len(first) < 150:
             first, rest = first + ' ' + rest[0], rest[1:]
-        if lang != 'la':
+        if lang != 'la' and not cfg.get('caps_title'):
             m = re.search(r'\s([A-Z]{3,}[,.;]?(?:\s|$))', first)
             if m and m.start() > 8:
                 first, rest = first[:m.start()], [first[m.start():].strip()] + rest
@@ -47,9 +68,11 @@ def chapters(cfg, lang):
         ps = mend(rest)
         if lang == 'la':
             ps = [fix(p) for p in ps]
-        else:
+        elif not cfg.get('caps_title'):
             ps = [decap(p) for p in ps[:1]] + ps[1:]
         res.append((gi, title, ps))
+    for n, t in cfg.get('titles', {}).items():
+        res[n] = (res[n][0], t, res[n][2])
     prep = mend(cl(pre))
     if lang == 'la':
         prep = [fix(p) for p in prep]
