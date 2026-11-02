@@ -1,0 +1,59 @@
+{
+  "id": "john-of-the-cross-opuscula",
+  "name": {
+    "es-ES": "Cautelas, Consejos a un religioso y Censura",
+    "en-US": "Precautions, Counsels to a Religious and Censure",
+    "pt-BR": "Cautelas, Conselhos a um religioso e Censura"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "es-ES": "Los escritos breves de San Juan de la Cruz: las Cautelas contra el mundo, el demonio y la carne, los Consejos (cuatro avisos) a un religioso para alcanzar la perfección y la Censura y parecer sobre el espíritu de una religiosa. Texto crítico del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "The short writings of St. John of the Cross: the Precautions against the world, the devil and the flesh, the Counsels (four warnings) to a religious for attaining perfection, and the Censure and opinion on the spirit of a nun. Spanish critical text of P. Silverio de Santa Teresa with his notes.",
+    "pt-BR": "Os escritos breves de São João da Cruz: as Cautelas contra o mundo, o demônio e a carne, os Conselhos (quatro avisos) a um religioso para alcançar a perfeição e a Censura e parecer sobre o espírito de uma religiosa."
+  },
+  "composed": "1578–1591",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-the-cross/opuscula",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1931
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesanjuande04john",
+      "edition": "Obras de San Juan de la Cruz, Doctor de la Iglesia, ed. P. Silverio de Santa Teresa, C.D., t. IV (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1931, Cautelas, Consejos a un religioso, Documentos varios. Princeton Theological Seminary scan.",
+      "description": "Spanish critical text with Silverio's notes (manuscript variants, scripture references) kept as footnotes. OCR of the scan; page furniture removed; footnotes matched to their references page by page; OCR errors corrected by consulting P. Eulogio Pacho's modern text (Editorial Monte Carmelo, via Documenta Catholica Omnia), which was used only to find errors and never copied. Chapter summaries are taken from Silverio's own table of contents.",
+      "tier": "A",
+      "tierEvidence": "San Juan de la Cruz died in 1591. Silverio's edition was published in 1931 (before 1931: public domain in the US) and P. Silverio de Santa Teresa died in 1954, so his text and notes are public domain under life+70 since 1 January 2025. Caveat: Spain applies life+80 to authors who died before 1987, so in Spain alone his notes stay protected until 2035."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cautelas",
+      "title": {
+        "es-ES": "Cautelas"
+      }
+    },
+    {
+      "id": "consejos",
+      "title": {
+        "es-ES": "Consejos a un religioso para alcanzar la perfección"
+      }
+    },
+    {
+      "id": "censura",
+      "title": {
+        "es-ES": "Censura y parecer sobre el espíritu de una religiosa"
+      }
+    }
+  ]
+}
