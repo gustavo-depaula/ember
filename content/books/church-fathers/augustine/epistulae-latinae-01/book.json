@@ -1,0 +1,219 @@
+{
+  "id": "augustine-epistulae-latinae-01",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistulae 12–140",
+    "en-US": "Letters 12–140 (Latin)",
+    "pt-BR": "Cartas 12–140 (latim)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Epistulae Augustini 12–140, quae in versione Anglica non exstant. Textus Latinus.",
+    "en-US": "29 of Augustine's letters (12 to 140), Latin text of the Maurist edition (with the post-Maurist additions of Divjak, Dolbeau and others where the source numbers them). These are the letters not in the English NPNF book; no English translation imported.",
+    "pt-BR": "29 cartas de Santo Agostinho (12 a 140), texto latino da edição dos Maurinos e dos acréscimos posteriores."
+  },
+  "composed": "date varies",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/epistulae",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/lettere/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages lettere of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Epistula 12"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Epistula 24"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Epistula 32"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Epistula 45"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Epistula 49"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Epistula 52"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Epistula 56"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Epistula 57"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Epistula 70"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Epistula 80"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Epistula 92/A"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Epistula 94"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Epistula 105"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Epistula 106"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Epistula 107"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Epistula 108"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Epistula 109"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Epistula 110"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Epistula 112"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "Epistula 113"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "la": "Epistula 114"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "la": "Epistula 119"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "la": "Epistula 120"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "la": "Epistula 121"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "la": "Epistula 127"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "la": "Epistula 128"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "la": "Epistula 129"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "la": "Epistula 134"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "la": "Epistula 140"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
