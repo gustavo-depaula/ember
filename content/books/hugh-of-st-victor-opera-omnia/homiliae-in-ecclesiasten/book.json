@@ -1,0 +1,174 @@
+{
+  "id": "hugh-homiliae-in-ecclesiasten",
+  "cover": "classic",
+  "name": {
+    "la": "Homiliae in Ecclesiasten",
+    "en-US": "Homilies on Ecclesiastes",
+    "pt-BR": "Homilias sobre o Eclesiastes"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "Homiliae in Salomonis Ecclesiasten, XIX.",
+    "en-US": "Hugh’s nineteen homilies on Ecclesiastes, read with the Preacher’s question what profit a man has from his toil. Latin only, from the Migne text (Patrologia Latina 175, 1854), a machine-corrected OCR.",
+    "pt-BR": "As dezenove homilias de Hugo sobre o Eclesiastes."
+  },
+  "composed": "c. 1125-1130",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/homiliae-in-ecclesiasten",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 175)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.HoInEc",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.HoInEc, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Praefatio. De varia sacrae Scripturae expositione, et de Salomonis intentione."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Homilia prima. De titulo operis, Salomonis nominibus, et libris, et principiis hujus operis, de vanitatum explanatione. (pars 1)"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Homilia prima. De titulo operis, Salomonis nominibus, et libris, et principiis hujus operis, de vanitatum explanatione. (pars 2)"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Homilia II. De probatione vanitatis omnium sub coelo: Per elementorum corruptionem, per rerum generationem, successionem, et eorum, quae fuerunt oblivionem. (pars 1)"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Homilia II. De probatione vanitatis omnium sub coelo: Per elementorum corruptionem, per rerum generationem, successionem, et eorum, quae fuerunt oblivionem. (pars 2)"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Homilia III. Quomodo Ecclesiastes probet per sua opera omnia hominum opera vana, cum praedictorum epilogo."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Homilia IV. De rerum vanitate, et hominum occupatione pessima."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Homilia V. De dictorum verborum Ecclesiastae litterali et morali expositione."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Homilia VI. Quid sit distendi in occupatione pessima."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Homilia VII. Quod perversi difficile corrigantur, etc."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Homilia VIII. Quod homo a veritate aufugit: Ut Adam in paradiso fugit, et abscondit se."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Homilia IX. De diversis vanis Ecclesiastae conatibus."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Homilia X. De reliquis vanitatibus usque in eum locum: « Stultus in tenebris ambulat. »"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Homilia XI. Qui sint fines terrae in quibus sunt oculi stultorum: Et quomodo sapientia attingit a fine usque ad finem fortiter, etc."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Homilia XII. In illud, secundum aliam translationem: Oculi stultorum in finibus terrae; ubi nostra habet: Stultus in tenebris ambulat, et in reliqua capitis secundi."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Homilia XIII. Quomodo omnia tempus suum habeant."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Homilia XIV. Reliquorum quae tempus suum habent declaratio et dictorum repetitio."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Homilia XV. De tempore et tempori subjectis per aliam interpretationem."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Homilia XVI. De spirituali intelligentia eorum quae de tempore dicta sunt."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Homilia XVII. De animorum confusione ex temporum transitu."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Homilia XVIII. De perversis hominum moribus: Et quid ex eis censuerit Ecclesiastes."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Homilia XIX. De innocentium oppressione, et derelictione: Et vario ac stulto impiorum de hac vita judicio."
+      }
+    }
+  ]
+}
