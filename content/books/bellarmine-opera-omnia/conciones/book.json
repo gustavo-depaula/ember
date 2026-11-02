@@ -1,0 +1,322 @@
+{
+  "id": "bellarmine-conciones-lovanienses",
+  "cover": "classic",
+  "name": {
+    "la": "Conciones habitae Lovanii",
+    "en-US": "The Louvain Sermons",
+    "pt-BR": "Sermões de Lovaina"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Conciones quas Bellarminus Lovanii habuit (1570-76), per anni liturgici dies et festa ordinatae. Textus ex editione Vivès (1870-74), tomo IX, ex scanno OCR.",
+    "en-US": "The sermons Bellarmine preached at Louvain (1570-76), arranged by the days and feasts of the liturgical year. Latin only: the Vivès edition (1870-74), volume 9, from an OCR scan.",
+    "pt-BR": "Os sermões pregados por Belarmino em Lovaina (1570-76), ordenados pelos dias e festas do ano litúrgico."
+  },
+  "composed": "1570-76",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/conciones",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia09bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 9 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "la": "Concio 1. In FESTO S. ANDRE/E",
+        "en-US": "Concio 1. In FESTO S. ANDRE/E"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Concio 2",
+        "en-US": "Concio 2"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Concio 3",
+        "en-US": "Concio 3"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Concio 4",
+        "en-US": "Concio 4"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Concio 5",
+        "en-US": "Concio 5"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Concio 6",
+        "en-US": "Concio 6"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Concio 7",
+        "en-US": "Concio 7"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Concio 8. De eadem dominica tertia adventus",
+        "en-US": "Concio 8. De eadem dominica tertia adventus"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Concio 9",
+        "en-US": "Concio 9"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Concio 10",
+        "en-US": "Concio 10"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Concio 11. De eodem festo",
+        "en-US": "Concio 11. De eodem festo"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Concio 12",
+        "en-US": "Concio 12"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Concio 13. In FESTO SANCTI STEPHANI",
+        "en-US": "Concio 13. In FESTO SANCTI STEPHANI"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Concio 14",
+        "en-US": "Concio 14"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Concio 15",
+        "en-US": "Concio 15"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Concio 16",
+        "en-US": "Concio 16"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Concio 17. De dominica septuagesima",
+        "en-US": "Concio 17. De dominica septuagesima"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Concio 18",
+        "en-US": "Concio 18"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Concio 19",
+        "en-US": "Concio 19"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Concio 20",
+        "en-US": "Concio 20"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Concio 21",
+        "en-US": "Concio 21"
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Concio 22. De eadem dominica quinquagesimae",
+        "en-US": "Concio 22. De eadem dominica quinquagesimae"
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Concio 24. De eadem dominica quinquagesima",
+        "en-US": "Concio 24. De eadem dominica quinquagesima"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Concio 27",
+        "en-US": "Concio 27"
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "Concio 28",
+        "en-US": "Concio 28"
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "Concio 29",
+        "en-US": "Concio 29"
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "Concio 30. In DOMINICA PASSIONIS",
+        "en-US": "Concio 30. In DOMINICA PASSIONIS"
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "Concio 31. De resurrectione domini",
+        "en-US": "Concio 31. De resurrectione domini"
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "Concio 32. De resurrectione domini",
+        "en-US": "Concio 32. De resurrectione domini"
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "Concio 34. De resurrectione domini",
+        "en-US": "Concio 34. De resurrectione domini"
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "la": "Concio 37",
+        "en-US": "Concio 37"
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "la": "Concio 38",
+        "en-US": "Concio 38"
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "la": "Concio 39",
+        "en-US": "Concio 39"
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "la": "Concio 40",
+        "en-US": "Concio 40"
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "la": "Concio 41",
+        "en-US": "Concio 41"
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "la": "Concio 42",
+        "en-US": "Concio 42"
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "la": "Concio 44",
+        "en-US": "Concio 44"
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "la": "Concio 45",
+        "en-US": "Concio 45"
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "la": "Concio 46. De dominica vigesima prima post pentecosten. 4h",
+        "en-US": "Concio 46. De dominica vigesima prima post pentecosten. 4h"
+      }
+    }
+  ]
+}
