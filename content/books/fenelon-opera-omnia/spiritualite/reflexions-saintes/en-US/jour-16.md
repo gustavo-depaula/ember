@@ -1,0 +1,9 @@
+# Sixteenth Day. Of our daily bread
+
+I. ' Give us this day our daily bread.'' By this bread is meant not only the bodily food, which Prpvidence supplies us with, but also that iioiirisliment of trutli, which he daily provides for our souls; it is the bread 'which nourishethto eternal life;'' which makes the soul increase, and grow strong in tlie trials of faith. This God allots us each day; appointing precisely those inward dispositions and outward circumstances, which are most proper to make us advance in faith and self-denial; and we receive our dailv bread from him, in accepting, as from his hand, all his appointments.
+
+IL Hunger gives a relish to food, and makes it digest. Why have we not an hunger and thirst for righteousness? Why are not our spiritual appetites as keen as those of the body? We think the man sick who has lost hi* appetite: and so it is with oui? souls; they languish and are in an evil state, as long as they aVe without spiritual hunger for that
+
+C2 food which cometh from God. The nourishment of the soul is truth and ri2:hteousness. To know what is truly good, to be filled with it, to be strengthened ])y it, that is the spiritual food, the bread of heaven we arc to feed upon. Let us then appear ])efore God with the earnestness of beggars who crave for some bread to subsist on. The worst kind of poverty is, not to be sen- Tible of our wants. Let us, therefore, read and pray with this mental hunger for that which should feed our souls; with this vehement thirst for that water "which springeth up into everlasting life. Nothing but an earnest and continual desire of instruction, can qualify us for the knowledge of the wondrous things of God's law. Every one receives this knowledge only in proportion as he desires it. A great degree of this desire is the
+
+Seventeenth Day 59 proper preparation for receiving the Sacrament of the Lord's Supper.

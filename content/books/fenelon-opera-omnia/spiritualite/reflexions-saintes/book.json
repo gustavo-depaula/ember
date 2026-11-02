@@ -1,0 +1,272 @@
+{
+  "id": "fenelon-reflexions-saintes",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Réflexions saintes pour tous les jours du mois",
+    "en-US": "Pious Reflections for Every Day of the Month",
+    "pt-BR": "Reflexões santas para todos os dias do mês"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Trente et une courtes méditations, une pour chaque jour du mois : la foi, la prière, la patience, la douceur, la confiance en Dieu, la préparation à la mort, l’amour de Dieu. Fénelon les donna dans son livre de prières pour le diocèse de Cambrai (1710).",
+    "en-US": "Thirty-one short meditations, one for each day of the month: faith, prayer, patience, meekness, trust in God, preparing for death, the love of God. Fénelon gave them in his prayer book for the diocese of Cambrai (1710). The English is the anonymous eighteenth-century translation as printed at Boston in 1818.",
+    "pt-BR": "Trinta e uma meditações breves, uma para cada dia do mês: a fé, a oração, a paciência, a mansidão, a confiança em Deus, a preparação para a morte, o amor de Deus. Fénelon as deu em seu livro de orações para a diocese de Cambrai (1710)."
+  },
+  "composed": 1710,
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "fenelon/reflexions-saintes",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby",
+      "year": 1850
+    },
+    "en-US": {
+      "translator": "anonymous (Boston: Charles Ewer, 1818)",
+      "year": 1818
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Réflexions_saintes_pour_tous_les_jours_du_mois",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1850, tome 6, p. 28ff (Wikisource, text quality 100%)",
+      "description": "Proofread transcription on fr.wikisource.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the edition is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/piousreflections00fn",
+      "edition": "Pious Reflections for every day of the month, translated from the French of Fenelon, Boston: Charles Ewer, 1818 (NYPL scan); the translator’s Life of the author is not included.",
+      "description": "archive.org OCR, lightly cleaned (running heads, hyphenation); residual OCR errors remain.",
+      "tier": "A",
+      "tierEvidence": "Published before 1900; public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "jour-01",
+      "title": {
+        "fr-FR": "Premier jour. Sur le peu de foi qu’il y a dans le monde",
+        "en-US": "First Day. Of the scarceness of true faith"
+      }
+    },
+    {
+      "id": "jour-02",
+      "title": {
+        "fr-FR": "Deuxième jour. Sur l’unique chemin du ciel",
+        "en-US": "Second Day. Of the only way to heaven"
+      }
+    },
+    {
+      "id": "jour-03",
+      "title": {
+        "fr-FR": "Troisième jour. Sur la véritable dévotion",
+        "en-US": "Third Day. Of true devotion"
+      }
+    },
+    {
+      "id": "jour-04",
+      "title": {
+        "fr-FR": "Quatrième jour. Sur la véritable dévotion",
+        "en-US": "Fourth Day. Concerning imperfect conversions"
+      }
+    },
+    {
+      "id": "jour-05",
+      "title": {
+        "fr-FR": "Cinquième jour. Sur le bon esprit",
+        "en-US": "Fifth Day. Of renouncing the world"
+      }
+    },
+    {
+      "id": "jour-06",
+      "title": {
+        "fr-FR": "Sixième jour. Sur la patience dans les peines",
+        "en-US": "Sixth Day. Of patience in sufferings"
+      }
+    },
+    {
+      "id": "jour-07",
+      "title": {
+        "fr-FR": "Septième jour. Sur la soumission et la conformité à la volonté de Dieu",
+        "en-US": "Seventh Day. Of submission and conforudtij to the will of God"
+      }
+    },
+    {
+      "id": "jour-08",
+      "title": {
+        "fr-FR": "Huitième jour. Sur les avantages de la prière",
+        "en-US": "Eighth Day. Of prayer"
+      }
+    },
+    {
+      "id": "jour-09",
+      "title": {
+        "fr-FR": "Neuvième jour. Sur l’attention à la voix de Dieu",
+        "en-US": "Ninth Day. Of hearkening to the voice of God. T.  Lord; to whom shall we"
+      }
+    },
+    {
+      "id": "jour-10",
+      "title": {
+        "fr-FR": "Dixième jour. Sur le bon usage des croix",
+        "en-US": "Tenth Day. Of the right use of affiictions"
+      }
+    },
+    {
+      "id": "jour-11",
+      "title": {
+        "fr-FR": "Onzième jour. Sur la douceur et l’humilité",
+        "en-US": "Eleventh Day. Of meekness and humility"
+      }
+    },
+    {
+      "id": "jour-12",
+      "title": {
+        "fr-FR": "Douzième jour. Sur les défauts d’autrui",
+        "en-US": "Twelfth Day. Of the faults of others"
+      }
+    },
+    {
+      "id": "jour-13",
+      "title": {
+        "fr-FR": "Treizième jour. Sur l’unique nécessaire",
+        "en-US": "Thirteenth Day. Of the one thing necessary"
+      }
+    },
+    {
+      "id": "jour-14",
+      "title": {
+        "fr-FR": "Quatorzième jour. Sur la préparation à la mort",
+        "en-US": "Fourteenth Day. Of preiiaviv. for death"
+      }
+    },
+    {
+      "id": "jour-15",
+      "title": {
+        "fr-FR": "Quinzième jour. Sur les espérances éternelles",
+        "en-US": "Fifteenth Day. Of our hopes in eternity"
+      }
+    },
+    {
+      "id": "jour-16",
+      "title": {
+        "fr-FR": "Seizième jour. Sur notre pain quotidien",
+        "en-US": "Sixteenth Day. Of our daily bread"
+      }
+    },
+    {
+      "id": "jour-17",
+      "title": {
+        "fr-FR": "Dix-septième jour. Sur la paix de l’âme",
+        "en-US": "Seventeenth Day. Of inward peace"
+      }
+    },
+    {
+      "id": "jour-18",
+      "title": {
+        "fr-FR": "Dix-huitième jour. Sur les joies trompeuses",
+        "en-US": "Eighteenth Day. Of deceitful joys"
+      }
+    },
+    {
+      "id": "jour-19",
+      "title": {
+        "fr-FR": "Dix-neuvième jour. Sur les saintes larmes",
+        "en-US": "Nineteenth Day. Of holy tears"
+      }
+    },
+    {
+      "id": "jour-20",
+      "title": {
+        "fr-FR": "Vingtième jour. Sur la prudence du siècle",
+        "en-US": "Twentieth Day. Of ivorldly wisdom"
+      }
+    },
+    {
+      "id": "jour-21",
+      "title": {
+        "fr-FR": "Vingt et unième jour. Sur la confiance en Dieu",
+        "en-US": "Twenty-first Day. Of trust in God"
+      }
+    },
+    {
+      "id": "jour-22",
+      "title": {
+        "fr-FR": "Vingt-deuxième jour. Sur la profondeur de la miséricorde de Dieu",
+        "en-US": "Twenty-second Day. Of the depth of God's inercy"
+      }
+    },
+    {
+      "id": "jour-23",
+      "title": {
+        "fr-FR": "Vingt-troisième jour. Sur la douceur du joug de Jésus-Christ",
+        "en-US": "Twenty-third Day. Of the easiness of ChrisVs yoke"
+      }
+    },
+    {
+      "id": "jour-24",
+      "title": {
+        "fr-FR": "Vingt-quatrième jour. Sur la fausse liberté",
+        "en-US": "Twenty-fourth Day. Of false liberty"
+      }
+    },
+    {
+      "id": "jour-25",
+      "title": {
+        "fr-FR": "Vingt-cinquième jour. Sur la détermination entière à être à Dieu",
+        "en-US": "Twenty-fifth Day. Of the jyerfect devoting of ourselves to God"
+      }
+    },
+    {
+      "id": "jour-26",
+      "title": {
+        "fr-FR": "Vingt-sixième jour. Sur la capitulation qu’on voudroit faire avec Dieu",
+        "en-US": "Twenty-sixth Day. Of the terms men would make with God"
+      }
+    },
+    {
+      "id": "jour-27",
+      "title": {
+        "fr-FR": "Vingt-septième jour. Sur le bon emploi du temps",
+        "en-US": "Twenty-seventh Day. Of spending our time well"
+      }
+    },
+    {
+      "id": "jour-28",
+      "title": {
+        "fr-FR": "Vingt-huitième jour. Sur la présence de Dieu",
+        "en-US": "Twenty-eighth Day. Of the presence of God"
+      }
+    },
+    {
+      "id": "jour-29",
+      "title": {
+        "fr-FR": "Vingt-neuvième jour. Sur l’amour que Dieu a pour nous",
+        "en-US": "Twenty-ninth Day. On the love God hath for us"
+      }
+    },
+    {
+      "id": "jour-30",
+      "title": {
+        "fr-FR": "Trentième jour. Sur l’amour que nous devons avoir pour Dieu",
+        "en-US": "Thirtieth Day. Of the love we ought to have for God"
+      }
+    },
+    {
+      "id": "jour-31",
+      "title": {
+        "fr-FR": "Trente et unième jour. Sur les sentimens de l’amour-divin",
+        "en-US": "Thirty-first Day. Sentiments of divine love"
+      }
+    }
+  ]
+}

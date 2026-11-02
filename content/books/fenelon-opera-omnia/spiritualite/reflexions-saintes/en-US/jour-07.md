@@ -1,0 +1,9 @@
+# Seventh Day. Of submission and conforudtij to the will of God
+
+I. 'Thy will be done in earth m it is in heaven,' Kothingis
+
+36 Bejiections, done here, any more than in heaven, but by the will or per- -eiission of God; but men do not always love that will, because it is often opposite to their desires. If we sincerely loved this will of Grod, and only this, we should change our earth into a heaven. We should thank God for every thing: for evil as well as good; because evil becomes good from his hand. We should not then murmur at the ways of Providence, but approve and adore its wisdom. 0 iiiv God! what do 1 see in the course of the stars, in the revolutions of the seasons in the events of life, but the accomplishment of thy will: may it also be accomplished in me; may I love it; may it sweeten and endear all events to me; may [ annihilate m own, to cause thy will tu reign in me! For it Is thane, O Lord, to will, and Uiine to obi'v.
+
+II. Thou hast said, O Lord Jesus, of thyself, with relation to thy heavenly Father, " That thou always didst what pleased him." John viii. 29. Teach us how far that example should lead us. Thou art our pattern. I'hou didst nothing upon earth l)ut according to the will of thy Father, who vouchsafes also to be called ours. Do thou fulfil his will in us, as thou didst in thyself. Grant, that we, being inseparably united to thee, may never seek to do our own will, but his; so that not only our religious actions, but even our eating, sleeping, conversing, may all be done with no other view but that of pleasing him. Then shall our whole conduct be sanctified; then shall all our (keikn become a continual sacrifice, incessant prayers, and uninterrupted love. When, O Lord, shall we arrive at this disposition?
+
+Do thou vouchsafe to conduct us to it; do thou vouchsafe to subdue our rebellious will by thy grace, for it knows not what it would have, and nothing is truly good; but a conformity to thy will.
