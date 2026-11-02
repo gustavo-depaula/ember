@@ -1,0 +1,72 @@
+{
+  "id": "bossuet-remarques-sur-dupin-et-la-mystique-cite",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Remarques sur Dupin et sur la Mystique Cité de Dieu",
+    "en-US": "Remarks on Dupin and on the Mystical City of God",
+    "pt-BR": "Observações sobre Dupin e sobre a Mística Cidade de Deus"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Mémoire de Bossuet sur ce qu’il faut corriger dans la Nouvelle bibliothèque des auteurs ecclésiastiques de Louis Ellies Dupin (1691-1693), remarques sur son histoire des conciles d’Éphèse et de Chalcédoine, et remarques sur la Mystique Cité de Dieu de Marie d’Agreda. Édition Lachat (1864).",
+    "en-US": "Bossuet’s memorandum on what needs correcting in Louis Ellies Dupin’s New Library of Ecclesiastical Authors (1691-93), remarks on his history of the councils of Ephesus and Chalcedon, and remarks on the Mystical City of God by Mary of Ágreda. Lachat edition (1864).",
+    "pt-BR": "Memória de Bossuet sobre o que se deve corrigir na Nova biblioteca dos autores eclesiásticos de Louis Ellies Dupin (1691-1693), observações sobre sua história dos concílios de Éfeso e Calcedônia, e observações sobre a Mística Cidade de Deus de Maria de Ágreda. Edição Lachat (1864)."
+  },
+  "composed": "1693",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/remarques-sur-dupin-et-la-mystique-cite",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume020/014.htm to 019.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XX, pages 014-019 (page 016 not captured). The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "memoire-dupin",
+      "title": {
+        "fr-FR": "Mémoire sur ce qui est à corriger dans la nouvelle bibliothèque des auteurs ecclésiastiques de M. Dupin"
+      }
+    },
+    {
+      "id": "conciles-ephese-chalcedoine",
+      "title": {
+        "fr-FR": "Remarques sur l’histoire des conciles d’Éphèse et de Chalcédoine, de M. Dupin"
+      }
+    },
+    {
+      "id": "dupin-3",
+      "title": {
+        "fr-FR": "Remarques sur Dupin, chapitre III"
+      }
+    },
+    {
+      "id": "dupin-4",
+      "title": {
+        "fr-FR": "Remarques sur Dupin, chapitre IV"
+      }
+    },
+    {
+      "id": "mystique-cite",
+      "title": {
+        "fr-FR": "Remarques sur le livre intitulé La Mystique Cité de Dieu"
+      }
+    }
+  ]
+}
