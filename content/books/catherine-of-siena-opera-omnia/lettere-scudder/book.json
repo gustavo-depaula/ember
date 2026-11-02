@@ -1,0 +1,438 @@
+{
+  "id": "catherine-lettere-scudder",
+  "cover": "classic",
+  "name": {
+    "en-US": "Saint Catherine of Siena as Seen in Her Letters",
+    "it": "Santa Caterina da Siena nelle sue lettere (scelta inglese di Scudder)",
+    "pt-BR": "Santa Catarina de Sena em suas cartas (seleção inglesa de Scudder)"
+  },
+  "author": {
+    "it": "Santa Caterina da Siena",
+    "en-US": "St. Catherine of Siena",
+    "pt-BR": "Santa Catarina de Sena"
+  },
+  "description": {
+    "en-US": "A selection of sixty-odd letters of St. Catherine of Siena (1347-1380) in English by Vida D. Scudder (1905), arranged by period of her life and linked by Scudder’s narrative and headnotes: letters to her mother, her brothers and her friends, to Raymond of Capua, to Gregory XI and Urban VI, to the Florentines, to the Queen of Naples, and the accounts of her last years. Several letters are abridged. It is a selection, not the epistolary, and does not follow the chapters of the Italian Lettere (not yet imported in full).",
+    "it": "Scelta di una sessantina di lettere di santa Caterina da Siena (1347-1380) in inglese, di Vida D. Scudder (1905), con le note e il racconto che le collegano; alcune sono abbreviate. È una scelta, non l’epistolario completo.",
+    "pt-BR": "Seleção de cerca de sessenta cartas de santa Catarina de Sena (1347-1380) em inglês, por Vida D. Scudder (1905), com a narrativa e as notas que as ligam; várias estão abreviadas. É uma seleção, não o epistolário completo."
+  },
+  "composed": "1370-1380",
+  "languages": [
+    "en-US"
+  ],
+  "work": "catherine-of-siena/lettere",
+  "editions": {
+    "en-US": {
+      "translator": "Vida D. Scudder",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/7403",
+      "edition": "Vida D. Scudder, Saint Catherine of Siena as seen in her letters, London: Dent / New York: Dutton, 1905. Project Gutenberg #7403 (Distributed Proofreaders).",
+      "description": "Scudder’s introduction, her two chronologies, and each letter with its headnote; the section headings and narrative between letters open the first letter of each section. The tables of contents and of persons addressed are not imported.",
+      "tier": "A",
+      "tierEvidence": "Scudder died in 1954; the 1905 translation of letters by a 14th-century author is public domain in the US (published before 1931)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "chronology",
+      "title": {
+        "en-US": "Chief events in the life of Saint Catherine, and contemporary public events"
+      }
+    },
+    {
+      "id": "l01",
+      "title": {
+        "en-US": "Letter 1. To Monna Alessa dei Saracini"
+      }
+    },
+    {
+      "id": "l02",
+      "title": {
+        "en-US": "Letter 2. To Benincasa her Brother when He was in Florence"
+      }
+    },
+    {
+      "id": "l03",
+      "title": {
+        "en-US": "Letter 3. To the Venerable Religious, Brother Antonio of Nizza, of the Order of the Hermit Brothers of Saint Augustine at the Wood of the Lake"
+      }
+    },
+    {
+      "id": "l04",
+      "title": {
+        "en-US": "Letter 4. To Monna Agnese who was the Wife of Messer Orso Malavolti"
+      }
+    },
+    {
+      "id": "l05",
+      "title": {
+        "en-US": "Letter 5. To Sister Eugenia, her Niece at the Convent of Saint Agnes of Montepulciano"
+      }
+    },
+    {
+      "id": "l06",
+      "title": {
+        "en-US": "Letter 6. To Nanna, Daughter of Benincasa a Little Maid, her Niece, in Florence"
+      }
+    },
+    {
+      "id": "l07",
+      "title": {
+        "en-US": "Letter 7. To Brother William of England of the Hermit Brothers of St. Augustine"
+      }
+    },
+    {
+      "id": "l08",
+      "title": {
+        "en-US": "Letter 8. To Daniella of Orvieto Clothed with the Habit of St. Dominic"
+      }
+    },
+    {
+      "id": "l09",
+      "title": {
+        "en-US": "Letter 9. To Monna Agnese Wife of Francesco, a Tailor of Florence"
+      }
+    },
+    {
+      "id": "l10",
+      "title": {
+        "en-US": "Letter 10. To Monna Orsa Wife of Bartolo Usimbardi and to Monna Agnese Wife of Francesco di Pipino Tailor of Florence"
+      }
+    },
+    {
+      "id": "l11",
+      "title": {
+        "en-US": "Letter 11. To a Religious Man in Florence who was Shocked at her Ascetic Practices"
+      }
+    },
+    {
+      "id": "l12",
+      "title": {
+        "en-US": "Letter 12. To Brother Bartolomeo Dominici of the Order of the Preachers when He was Bible Reader at Florence"
+      }
+    },
+    {
+      "id": "l13",
+      "title": {
+        "en-US": "Letter 13. To Brother Matteo di Francesco Tolomei of the Order of the Preachers"
+      }
+    },
+    {
+      "id": "l14",
+      "title": {
+        "en-US": "Letter 14. To a Mantellata of Saint Dominic Called Catarina di Scetto"
+      }
+    },
+    {
+      "id": "l15",
+      "title": {
+        "en-US": "Letter 15. To Monna Giovanna and her Other Daughters in Siena"
+      }
+    },
+    {
+      "id": "l16",
+      "title": {
+        "en-US": "Letter 16. To Messer John the Soldier of Fortune and Head of the Company That Came in the Time of Famine"
+      }
+    },
+    {
+      "id": "l17",
+      "title": {
+        "en-US": "Letter 17. To Monna Colomba in Lucca"
+      }
+    },
+    {
+      "id": "l18",
+      "title": {
+        "en-US": "Letter 18. To Brother Raimondo of Capua of the Order of the Preachers"
+      }
+    },
+    {
+      "id": "l19",
+      "title": {
+        "en-US": "Letter 19. To Gregory XI"
+      }
+    },
+    {
+      "id": "l20",
+      "title": {
+        "en-US": "Letter 20. To Gregory XI"
+      }
+    },
+    {
+      "id": "l21",
+      "title": {
+        "en-US": "Letter 21. To Gregory XI"
+      }
+    },
+    {
+      "id": "l22",
+      "title": {
+        "en-US": "Letter 22. To Brother Raimondo of Capua at Avignon"
+      }
+    },
+    {
+      "id": "l23",
+      "title": {
+        "en-US": "Letter 23. To Catarina of the Hospital and Giovanna di Capo"
+      }
+    },
+    {
+      "id": "l24",
+      "title": {
+        "en-US": "Letter 24. To Sister Daniella of Orvieto Clothed with the Habit of Saint Dominic who Not Being Able to Carry Out her Great Penances Had Fallen Into Deep Affliction"
+      }
+    },
+    {
+      "id": "l25",
+      "title": {
+        "en-US": "Letter 25. To Brother Raimondo of Capua of the Order of the Preachers"
+      }
+    },
+    {
+      "id": "l26",
+      "title": {
+        "en-US": "Letter 26. To Sister Bartolomea della Seta Nun in the Convent of Santo Stefano at Pisa"
+      }
+    },
+    {
+      "id": "l27",
+      "title": {
+        "en-US": "Letter 27. To Gregory XI"
+      }
+    },
+    {
+      "id": "l28",
+      "title": {
+        "en-US": "Letter 28. To the King of France"
+      }
+    },
+    {
+      "id": "l29",
+      "title": {
+        "en-US": "Letter 29. To the Eight of War Chosen by the Commune of Florence, at Whose Instance the Saint Went to Pope Gregory XI"
+      }
+    },
+    {
+      "id": "l30",
+      "title": {
+        "en-US": "Letter 30. To Buonaccorso di Lapo in Florence Written when the Saint was at Avignon"
+      }
+    },
+    {
+      "id": "l31",
+      "title": {
+        "en-US": "Letter 31. To Gregory XI"
+      }
+    },
+    {
+      "id": "l32",
+      "title": {
+        "en-US": "Letter 32. To Monna Lapa her Mother Before She Returned from Avignon"
+      }
+    },
+    {
+      "id": "l33",
+      "title": {
+        "en-US": "Letter 33. To Monna Giovanna di Corrado Maconi"
+      }
+    },
+    {
+      "id": "l34",
+      "title": {
+        "en-US": "Letter 34. To Messer Ristoro Canigiani"
+      }
+    },
+    {
+      "id": "l35",
+      "title": {
+        "en-US": "Letter 35. To the Anziani and Consuls and Gonfalonieri of Bologna"
+      }
+    },
+    {
+      "id": "l36",
+      "title": {
+        "en-US": "Letter 36. To Nicholas of Osimo"
+      }
+    },
+    {
+      "id": "l37",
+      "title": {
+        "en-US": "Letter 37. To Misser Lorenzo del Pino of Bologna, Doctor in Decretals (written in Trance)"
+      }
+    },
+    {
+      "id": "l38",
+      "title": {
+        "en-US": "Letter 38. To Monna Lapa her Mother and to Monna Cecca in the Monastery of Saint Agnes at Montepulciano, when She was at Rocca"
+      }
+    },
+    {
+      "id": "l39",
+      "title": {
+        "en-US": "Letter 39. To Monna Catarina of the Hospital and to Giovanna di Capo in Siena"
+      }
+    },
+    {
+      "id": "l40",
+      "title": {
+        "en-US": "Letter 40. To Monna Alessa Clothed with the Habit of Saint Dominic, when She was at Rocca"
+      }
+    },
+    {
+      "id": "l41",
+      "title": {
+        "en-US": "Letter 41. To Gregory XI"
+      }
+    },
+    {
+      "id": "l42",
+      "title": {
+        "en-US": "Letter 42. To Raimondo of Capua of the Order of the Preachers"
+      }
+    },
+    {
+      "id": "l43",
+      "title": {
+        "en-US": "Letter 43. To Urban VI"
+      }
+    },
+    {
+      "id": "l44",
+      "title": {
+        "en-US": "Letter 44. To her Spiritual Children in Siena"
+      }
+    },
+    {
+      "id": "l45",
+      "title": {
+        "en-US": "Letter 45. To Brother William and to Messer Matteo of the Misericordia"
+      }
+    },
+    {
+      "id": "l46",
+      "title": {
+        "en-US": "Letter 46. To Sano di Maco and All her Other Sons in Siena"
+      }
+    },
+    {
+      "id": "l47",
+      "title": {
+        "en-US": "Letter 47. To Brother Raimondo of Capua of the Order of the Preachers"
+      }
+    },
+    {
+      "id": "l48",
+      "title": {
+        "en-US": "Letter 48. To Urban VI"
+      }
+    },
+    {
+      "id": "l49",
+      "title": {
+        "en-US": "Letter 49. To Don Giovanni of the Cells of Vallombrosa"
+      }
+    },
+    {
+      "id": "l50",
+      "title": {
+        "en-US": "Letter 50. To Monna Alessa when the Saint was at Florence"
+      }
+    },
+    {
+      "id": "l51",
+      "title": {
+        "en-US": "Letter 51. To Sano di Maco and to the Other Sons in Christ While She was in Florence"
+      }
+    },
+    {
+      "id": "l52",
+      "title": {
+        "en-US": "Letter 52. To Three Italian Cardinals"
+      }
+    },
+    {
+      "id": "l53",
+      "title": {
+        "en-US": "Letter 53. To Giovanna Queen of Naples"
+      }
+    },
+    {
+      "id": "l54",
+      "title": {
+        "en-US": "Letter 54. To Sister Daniella of Orvieto"
+      }
+    },
+    {
+      "id": "l55",
+      "title": {
+        "en-US": "Letter 55. To Stefano Maconi"
+      }
+    },
+    {
+      "id": "l56",
+      "title": {
+        "en-US": "Letter 56. To Certain Holy Hermits who Had Been Invited to Rome by the Pope"
+      }
+    },
+    {
+      "id": "l57",
+      "title": {
+        "en-US": "Letter 57. To Brother William of England and Brother Antonio of Nizza at Lecceto"
+      }
+    },
+    {
+      "id": "l58",
+      "title": {
+        "en-US": "Letter 58. To Brother Andrea of Lucca to Brother Baldo and to Brother Lando Servants of God in Spoleto, when They Were Summoned by the Holy Father"
+      }
+    },
+    {
+      "id": "l59",
+      "title": {
+        "en-US": "Letter 59. To Brother Antonio of Nizza of the Hermit Brothers of Saint Augustine at the Convent of Lecceto Near Siena"
+      }
+    },
+    {
+      "id": "l60",
+      "title": {
+        "en-US": "Letter 60. To Queen Giovanna of Naples (written in Trance)"
+      }
+    },
+    {
+      "id": "l61",
+      "title": {
+        "en-US": "Letter 61. To Brother Raimondo of the Preaching Order when He was in Genoa"
+      }
+    },
+    {
+      "id": "l62",
+      "title": {
+        "en-US": "Letter 62. To Urban VI"
+      }
+    },
+    {
+      "id": "l63",
+      "title": {
+        "en-US": "Letter 63. To Master Raimondo of Capua"
+      }
+    },
+    {
+      "id": "l64",
+      "title": {
+        "en-US": "Letter 64. To Master Raimondo of Capua of the Order of the Preachers"
+      }
+    }
+  ]
+}
