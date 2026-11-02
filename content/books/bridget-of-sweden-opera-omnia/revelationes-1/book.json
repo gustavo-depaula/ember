@@ -13,18 +13,23 @@
   },
   "description": {
     "la": "Primus liber reuelacionum, cum prologo magistri Mathie de Suecia: verba Christi et Marie ad Birgittam de incarnacione, de fide et de statu Ecclesie.",
-    "en-US": "The first book of the Revelations, with Master Matthias's prologue: words of Christ and of Mary to Bridget on the Incarnation, the faith and the state of the Church.",
+    "en-US": "The first book of the Revelations, with Master Matthias's prologue: words of Christ and of Mary to Bridget on the Incarnation, the faith and the state of the Church. The Latin is the SSFS critical text; the English is the anonymous translation circulated by catholic-saints.net.",
     "pt-BR": "O primeiro livro das Revelações, com o prólogo do mestre Matias: palavras de Cristo e de Maria a Brígida sobre a Encarnação, a fé e o estado da Igreja."
   },
   "composed": "c. 1344-1349",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "bridget-of-sweden/revelationes-1",
   "editions": {
     "la": {
       "editor": "Carl-Gustaf Undhagen (Svenska fornskriftsällskapet critical edition)",
       "year": 1978
+    },
+    "en-US": {
+      "translator": "Anonymous (catholic-saints.net)",
+      "year": 2013
     }
   },
   "sources": [
@@ -35,6 +40,14 @@
       "description": "Word-file transcription distributed by Documenta Catholica Omnia (also circulated as the Riksarkivet CRB texts), book \"I\". Cleaned by research/sourcing/_scripts/bridget_build.py: drop-cap braces and stray quotes removed, hyperlink artefacts removed, the edition's inline verse numbers dropped (paragraphs break at verse boundaries), chapter rubrics kept in italics under each heading.",
       "tier": "B",
       "tierEvidence": "Freely distributed online transcription of a medieval text."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/the-prophecies-and-revelations-of-saint-bridget-of-sweden",
+      "edition": "The Prophecies and Revelations of Saint Bridget of Sweden, texts from www.Catholic-Saints.net (Jazzybee Verlag, 2013); translator not named.",
+      "description": "OCR of the ebook text, paragraphs rejoined across page breaks and line-end hyphens closed; each chapter keeps its rubric in italics. ",
+      "tier": "B",
+      "tierEvidence": "Distributed freely online under a Creative Commons Attribution-ShareAlike licence."
     }
   ],
   "toc": [
@@ -47,361 +60,421 @@
     {
       "id": "c001",
       "title": {
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "en-US": "Chapter 1"
       }
     },
     {
       "id": "c002",
       "title": {
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "en-US": "Chapter 2"
       }
     },
     {
       "id": "c003",
       "title": {
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "en-US": "Chapter 3"
       }
     },
     {
       "id": "c004",
       "title": {
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "en-US": "Chapter 4"
       }
     },
     {
       "id": "c005",
       "title": {
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "en-US": "Chapter 5"
       }
     },
     {
       "id": "c006",
       "title": {
-        "la": "Caput 6"
+        "la": "Caput 6",
+        "en-US": "Chapter 6"
       }
     },
     {
       "id": "c007",
       "title": {
-        "la": "Caput 7"
+        "la": "Caput 7",
+        "en-US": "Chapter 7"
       }
     },
     {
       "id": "c008",
       "title": {
-        "la": "Caput 8"
+        "la": "Caput 8",
+        "en-US": "Chapter 8"
       }
     },
     {
       "id": "c009",
       "title": {
-        "la": "Caput 9"
+        "la": "Caput 9",
+        "en-US": "Chapter 9"
       }
     },
     {
       "id": "c010",
       "title": {
-        "la": "Caput 10"
+        "la": "Caput 10",
+        "en-US": "Chapter 10"
       }
     },
     {
       "id": "c011",
       "title": {
-        "la": "Caput 11"
+        "la": "Caput 11",
+        "en-US": "Chapter 11"
       }
     },
     {
       "id": "c012",
       "title": {
-        "la": "Caput 12"
+        "la": "Caput 12",
+        "en-US": "Chapter 12"
       }
     },
     {
       "id": "c013",
       "title": {
-        "la": "Caput 13"
+        "la": "Caput 13",
+        "en-US": "Chapter 13"
       }
     },
     {
       "id": "c014",
       "title": {
-        "la": "Caput 14"
+        "la": "Caput 14",
+        "en-US": "Chapter 14"
       }
     },
     {
       "id": "c015",
       "title": {
-        "la": "Caput 15"
+        "la": "Caput 15",
+        "en-US": "Chapter 15"
       }
     },
     {
       "id": "c016",
       "title": {
-        "la": "Caput 16"
+        "la": "Caput 16",
+        "en-US": "Chapter 16"
       }
     },
     {
       "id": "c017",
       "title": {
-        "la": "Caput 17"
+        "la": "Caput 17",
+        "en-US": "Chapter 17"
       }
     },
     {
       "id": "c018",
       "title": {
-        "la": "Caput 18"
+        "la": "Caput 18",
+        "en-US": "Chapter 18"
       }
     },
     {
       "id": "c019",
       "title": {
-        "la": "Caput 19"
+        "la": "Caput 19",
+        "en-US": "Chapter 19"
       }
     },
     {
       "id": "c020",
       "title": {
-        "la": "Caput 20"
+        "la": "Caput 20",
+        "en-US": "Chapter 20"
       }
     },
     {
       "id": "c021",
       "title": {
-        "la": "Caput 21"
+        "la": "Caput 21",
+        "en-US": "Chapter 21"
       }
     },
     {
       "id": "c022",
       "title": {
-        "la": "Caput 22"
+        "la": "Caput 22",
+        "en-US": "Chapter 22"
       }
     },
     {
       "id": "c023",
       "title": {
-        "la": "Caput 23"
+        "la": "Caput 23",
+        "en-US": "Chapter 23"
       }
     },
     {
       "id": "c024",
       "title": {
-        "la": "Caput 24"
+        "la": "Caput 24",
+        "en-US": "Chapter 24"
       }
     },
     {
       "id": "c025",
       "title": {
-        "la": "Caput 25"
+        "la": "Caput 25",
+        "en-US": "Chapter 25"
       }
     },
     {
       "id": "c026",
       "title": {
-        "la": "Caput 26"
+        "la": "Caput 26",
+        "en-US": "Chapter 26"
       }
     },
     {
       "id": "c027",
       "title": {
-        "la": "Caput 27"
+        "la": "Caput 27",
+        "en-US": "Chapter 27"
       }
     },
     {
       "id": "c028",
       "title": {
-        "la": "Caput 28"
+        "la": "Caput 28",
+        "en-US": "Chapter 28"
       }
     },
     {
       "id": "c029",
       "title": {
-        "la": "Caput 29"
+        "la": "Caput 29",
+        "en-US": "Chapter 29"
       }
     },
     {
       "id": "c030",
       "title": {
-        "la": "Caput 30"
+        "la": "Caput 30",
+        "en-US": "Chapter 30"
       }
     },
     {
       "id": "c031",
       "title": {
-        "la": "Caput 31"
+        "la": "Caput 31",
+        "en-US": "Chapter 31"
       }
     },
     {
       "id": "c032",
       "title": {
-        "la": "Caput 32"
+        "la": "Caput 32",
+        "en-US": "Chapter 32"
       }
     },
     {
       "id": "c033",
       "title": {
-        "la": "Caput 33"
+        "la": "Caput 33",
+        "en-US": "Chapter 33"
       }
     },
     {
       "id": "c034",
       "title": {
-        "la": "Caput 34"
+        "la": "Caput 34",
+        "en-US": "Chapter 34"
       }
     },
     {
       "id": "c035",
       "title": {
-        "la": "Caput 35"
+        "la": "Caput 35",
+        "en-US": "Chapter 35"
       }
     },
     {
       "id": "c036",
       "title": {
-        "la": "Caput 36"
+        "la": "Caput 36",
+        "en-US": "Chapter 36"
       }
     },
     {
       "id": "c037",
       "title": {
-        "la": "Caput 37"
+        "la": "Caput 37",
+        "en-US": "Chapter 37"
       }
     },
     {
       "id": "c038",
       "title": {
-        "la": "Caput 38"
+        "la": "Caput 38",
+        "en-US": "Chapter 38"
       }
     },
     {
       "id": "c039",
       "title": {
-        "la": "Caput 39"
+        "la": "Caput 39",
+        "en-US": "Chapter 39"
       }
     },
     {
       "id": "c040",
       "title": {
-        "la": "Caput 40"
+        "la": "Caput 40",
+        "en-US": "Chapter 40"
       }
     },
     {
       "id": "c041",
       "title": {
-        "la": "Caput 41"
+        "la": "Caput 41",
+        "en-US": "Chapter 41"
       }
     },
     {
       "id": "c042",
       "title": {
-        "la": "Caput 42"
+        "la": "Caput 42",
+        "en-US": "Chapter 42"
       }
     },
     {
       "id": "c043",
       "title": {
-        "la": "Caput 43"
+        "la": "Caput 43",
+        "en-US": "Chapter 43"
       }
     },
     {
       "id": "c044",
       "title": {
-        "la": "Caput 44"
+        "la": "Caput 44",
+        "en-US": "Chapter 44"
       }
     },
     {
       "id": "c045",
       "title": {
-        "la": "Caput 45"
+        "la": "Caput 45",
+        "en-US": "Chapter 45"
       }
     },
     {
       "id": "c046",
       "title": {
-        "la": "Caput 46"
+        "la": "Caput 46",
+        "en-US": "Chapter 46"
       }
     },
     {
       "id": "c047",
       "title": {
-        "la": "Caput 47"
+        "la": "Caput 47",
+        "en-US": "Chapter 47"
       }
     },
     {
       "id": "c048",
       "title": {
-        "la": "Caput 48"
+        "la": "Caput 48",
+        "en-US": "Chapter 48"
       }
     },
     {
       "id": "c049",
       "title": {
-        "la": "Caput 49"
+        "la": "Caput 49",
+        "en-US": "Chapter 49"
       }
     },
     {
       "id": "c050",
       "title": {
-        "la": "Caput 50"
+        "la": "Caput 50",
+        "en-US": "Chapter 50"
       }
     },
     {
       "id": "c051",
       "title": {
-        "la": "Caput 51"
+        "la": "Caput 51",
+        "en-US": "Chapter 51"
       }
     },
     {
       "id": "c052",
       "title": {
-        "la": "Caput 52"
+        "la": "Caput 52",
+        "en-US": "Chapter 52"
       }
     },
     {
       "id": "c053",
       "title": {
-        "la": "Caput 53"
+        "la": "Caput 53",
+        "en-US": "Chapter 53"
       }
     },
     {
       "id": "c054",
       "title": {
-        "la": "Caput 54"
+        "la": "Caput 54",
+        "en-US": "Chapter 54"
       }
     },
     {
       "id": "c055",
       "title": {
-        "la": "Caput 55"
+        "la": "Caput 55",
+        "en-US": "Chapter 55"
       }
     },
     {
       "id": "c056",
       "title": {
-        "la": "Caput 56"
+        "la": "Caput 56",
+        "en-US": "Chapter 56"
       }
     },
     {
       "id": "c057",
       "title": {
-        "la": "Caput 57"
+        "la": "Caput 57",
+        "en-US": "Chapter 57"
       }
     },
     {
       "id": "c058",
       "title": {
-        "la": "Caput 58"
+        "la": "Caput 58",
+        "en-US": "Chapter 58"
       }
     },
     {
       "id": "c059",
       "title": {
-        "la": "Caput 59"
+        "la": "Caput 59",
+        "en-US": "Chapter 59"
       }
     },
     {
       "id": "c060",
       "title": {
-        "la": "Caput 60"
+        "la": "Caput 60",
+        "en-US": "Chapter 60"
       }
     }
   ]
