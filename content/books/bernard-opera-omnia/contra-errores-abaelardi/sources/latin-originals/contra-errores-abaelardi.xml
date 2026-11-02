@@ -1,0 +1,1275 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Contra quaedam Capitula errorum Abaelardi</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 182</title>
+           <idno>BerCla.CoQuCaE</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <emph>644</emph> PRAEFATIO.</head>
+
+<pb n="1053D"/>
+<p>Amantissimo patri domino INNOCENTIO summo
+Pontifici, frater BERNARDUS Clarae-Vallis vocatus
+abbas, modicum id quod est.</p>
+<p>Oportet ad vestrum referri apostolatum pericula
+quaeque et scandala emergentia in regno Dei, ea
+praesertim quae de fide contingunt. Dignum namque
+arbitror ibi potissimum resarciri damna fidei, ubi
+non possit fides sentire defectum. Haec quippe hujus
+praerogativa Sedis. Cui enim alteri aliquando dictum
+<pb n="1054D"/>
+est: <hi>Ego pro te rogavi, Petre, ut non deficiat fides
+tua?</hi> Ergo quod sequitur, a Petri successore exigitur: <hi>Et tu aliquando conversus confirma fratres
+tuos 
+ <note>(Luc. XXII, 32)</note>
+          </hi>. Id quidem modo necessarium.
+Tempus est ut vestrum agnoscatis, Pater amantissime,
+principatum; probetis zelum, ministerium
+honoretis. In eo plane Petri impletis vicem, cujus
+tenetis et sedem, si vestra admonitione corda in
+fide fluctuantia confirmatis, si vestra auctoritate
+conteritis fidei corruptores.
+</p>
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>Impia Abaelardi de sancta Trinitate dogmata recenset, et explodit.</hi> </head>
+<div3>
+            <head>1.</head>
+            <p>
+ Habemus in Francia novum de veteri magistro
+<pb n="1055A"/>theologum, qui ab ineunte aetate sua in arte dialectica
+lusit, et nunc in Scripturis sanctis insanit. Olim
+damnata et sopita dogmata, tam sua videlicet, quam
+aliena, suscitare conatur, insuper et nova addit.
+Qui dum omnium quae sunt in coelo sursum, et quae
+in terra deorsum, nihil, praeter solum Nescio,
+nescire dignatur; ponit in coelum os suum, et scrutatur
+alta Dei, rediensque ad nos refert verba ineffabilia,
+quae non licet homini loqui et dum paratus
+est de omnibus reddere rationem, etiam quae sunt
+supra rationem, et contra rationem praesumit, et
+<pb n="1055B"/>
+contra fidem. Quid enim magis contra rationem,
+quam ratione rationem conari transcendere? Et
+quid magis contra fidem, quam credere nolle, quidquid
+non possit ratione attingere? Denique exponere
+volens illud Sapientis [ <hi>al.</hi> Salomonis], <hi>Qui credit
+cito, levis est corde <note>(Eccli. XIX, 4.)</note>
+            </hi>  « Cito credere
+est, »  inquit,  « adhibere fidem ante rationem: » 
+cum hoc Salomon non de fide in Deum, sed de
+mutua inter nos credulitate loquatur. Nam illam
+quae in Deum est fidem beatus papa Gregorius negat
+plane habere meritum, si ei humana ratio praebeat
+experimentum: laudat autem Apostolos, quod ad
+unius jussionis vocem secuti sunt Redemptorem. <note>(Homilia 26 in Evang.)</note> 
+ Scit nimirum pro laude dictum, <hi>In auditu auris obedivit mihi 
+ <note>(Psal. XVII, 45)</note>
+            </hi>;
+<pb n="1055C"/>
+increpatos e regione discipulos, quod tardius credidissent <note>(Marc. XVI, 14)</note>.
+Denique laudatur Maria,
+quod rationem fide praevenit; et punitur Zacharias
+quod fidem ratione tentavit <note>(Luc. I, 45, 20)</note>; et
+rursum Abraham commendatur qui contra spem,
+in spem credidit <note>(Rom. IV, 18)</note>. <emph>645</emph>
+</p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ At contra theologus noster:  « Quid, » 
+inquit,  « ad doctrinam loqui proficit, si quod docere
+volumus, exponi non potest, ut intelligatur? » 
+Et sic promittens intellectum auditoribus suis, in
+his etiam quae sublimiora et sacratiora profundo illo
+<pb n="1056A"/>
+sinu sacrae fidei continentur, ponit in Trinitate gradus,
+in majestate modos, numeros in aeternitate.
+Denique constituit  « Deum Patrem plenam esse potentiam,
+Filium quamdam potentiam, Spiritum
+sanctum nullam potentiam: atque hoc esse Filium
+ad Patrem, quod quamdam potentiam ad potentiam,
+quod speciem ad genus, quod materiatum ad materiam,
+quod hominem ad animal, quod aereum sigillum
+ad aes. »  Nonne plus quam Arius hic?
+Quis haec ferat? quis non claudat aures ad voces
+sacrilegas? quis non horreat profanas novitates et
+vocum, et sensuum? Dicit etiam  « Spiritum sanctum
+procedere quidem ex Patre et Filio, sed minime de
+Patris esse Filiive substantia. Unde ergo? an
+forte ex nihilo, sicut et universa quae facta sunt?
+<pb n="1056B"/>
+Nam et ipsa ex Deo esse non diffitetur Apostolus,
+nec veretur dicere: <hi>Ex quo omnia <note>(Rom. XI, 36)</note>
+            </hi>.
+Quid igitur? dicemus ex Patre et Filio Spiritum
+sanctum non alio prorsus procedere modo, quam
+omnia, id est non essentialiter, sed creabiliter; ac
+perinde creatum sicut et omnia? aut numquid tertium
+inveniet sibi modum, quo eum ex Patre Filioque
+producat, homo qui nova semper inquirit,
+et quae non invenit fingit, affirmans ea quae non
+sunt, tanquam ea quae sunt?  « At si esset, »  inquit,
+ « de substantia Patris, profecto genitus esset, et duos
+Pater filios haberet. »  Quasi vero omne quod de
+substantia aliqua est, continuo ipsum a quo est
+habeat genitorem. Num vero pediculi, aut lendes
+<pb n="1056C"/>
+[ <hi>al.</hi> lentes], aut phlegmata [ <hi>al.</hi> fleumata], vel filii
+carnis sunt, vel non sunt de substantia carnis?
+aut vermes de ligno putrido prodeuntes, aliunde
+quam de ligni substantia sunt, qui tamen filii ligni
+non sunt? Sed et tineae de substantia pannorum
+substantiam habent, generationem non habent: et
+multa in hunc modum.</p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ Miror autem hominem acutum et sciolum,
+ut quidem ipse sibi videtur, quomodo cum Spiritum <emph>646</emph> 
+ sanctum fateatur Patri et Filio consubstantialem,
+neget tamen ex Patris Filiique prodire substantia.
+Nisi forte illos ex ipsius procedere velit:
+<pb n="1057A"/>
+quod quidem inauditum est, et nefandum. Si autem
+nec is de illorum, nec illi de hujus substantia sunt;
+ubi, quaeso, consubstantialitas? Aut ergo fateatur
+cum Ecclesia, Spiritum sanctum de substantia illorum
+esse, a quibus non negat procedere; aut certe
+cum Ario consubstantialitatem deneget, et praedicet
+aperte creationem. Deinde si Filius de substantia
+Patris est, Spiritus sanctus non est: differant necesse
+est a se invicem, non solum quia Spiritus sanctus
+genitus non est, quod Filius est; sed etiam quod
+Filius de substantia Patris est, quod Spiritus sanctus
+non est. Quam quidem posteriorem differentiam
+Catholica huc usque nescivit. Si eam admittimus,
+ubi Trinitas, ubi Unitas? Siquidem Spiritu
+sancto Filioque nova a se differentiarum numerositate
+<pb n="1057B"/>
+distantibus, unitas dissipatur: praesertim cum
+substantialem esse pateat differentiam, quam iste
+conatur inducere. Porro autem Spiritu sancto a
+Patris Filiique substantia recedente, non Trinitas
+remanet, sed dualitas. Neque enim dignum est
+in Trinitate admitti personam, quae nil habeat in
+substantia commune cum reliquis. Desinat ergo
+Spiritus sancti processionem a Patris Filiique substantia
+separare; ne duplici impietate numerum et
+Trinitati minuat, et tribuat Unitati: quod utrumque
+fides abnuit christiana. Et ne de re tanta solis videar
+humanis inniti rationibus, legat epistolam Hieronymi
+ad Avitum: et certe videbit inter caeteras quas
+redarguit Origenis blasphemias, etiam hoc cum
+detestantem quod dixerit, Spiritum sanctum de substantia
+<pb n="1057C"/>
+Patris non esse. Beatus Athanasius in libro
+de unita Trinitate ita loquitur:  « Solum Deum ubi
+memoratus sum, non solam personam Patris indicavi:
+quia Filium et Spiritum sanctum de hac ipsa
+sola substantia Patris esse non abnegavi. »  Hoc
+Athanasius.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II. <hi>In Trinitate non esse admittendam ullam disparitatem, sed omnimodam aequalitatem.</hi> </head>
+<div3>
+            <head>4.</head>
+            <p>
+ Videt Sanctitas vestra, quomodo isto non
+disputante, sed dementante, et Trinitas non cohaeret,
+et Unitas pendet; nec istud sane absque injuria
+majestatis. Quidquid namque illud est quod Deus
+sit, id sine dubio est, quo non possit majus aliquid
+<pb n="1057D"/>
+cogitari. Si ergo in hac unica et summa majestate
+juxta considerationem personarum vel parum
+aliquid claudicare recipimus, dum quod uni plus
+datur, alteri minuitur; minus profecto est totum ab
+eo, quo nihil majus valeat cogitari. Majus enim sine
+dubio est quod totum maximum est, quam quod
+ex parte. Ille vero digne pro sua possibilitate divinam
+aestimat magnificentiam, qui nil in ea cogitat
+dispar, ubi est totum summum; nil distans, ubi
+<pb n="1058A"/>
+totum est unum; nil hians, ubi totum est integrum;
+nil denique imperfectum vel egens, ubi totum est
+totum. Totum nempe est Pater, quod Pater et Filius
+et Spiritus sanctus; totum Filius, <emph>647</emph> quod ipse
+et Pater et Spiritus sanctus; totum Spiritus sanctus,
+quod et ipse et Pater et Filius. Et totum, unum est
+totum, nec superabundans in tribus, nec imminutum
+in singulis. Nec enim verum summumque bonum,
+quod sunt, inter se particulariter dividunt:
+quoniam nec participaliter id possident, sed hoc
+ipsum essentialiter sunt. Nam quod alter ex altero,
+vel alter ad alterum veracissime dicitur, personarum
+sane designatio est, non unitatis divisio. Licet
+namque in hac ineffabili et incomprehensibili Deitatis
+essentia, alter et alter (id quidem requirentibus
+<pb n="1058B"/>
+proprietatibus personarum) sobrie catholiceque dicatur;
+non tamen ibi est alterum, et alterum, sed
+simplex unum: ut nec praejudicium faciat Unitati
+Trinitatis confessio; nec proprietatum sit exclusio,
+vera assertio Unitatis. Tam longe proinde fiat a sensibus
+nostris, quam est et a regula veritatis exsecranda
+illa de genere et specie non similitudo, sed
+dissimilitudo; et nihilominus illa de aere
+aereoque sigillo: quoniam cum genus quidem et species,
+quod ad se invicem sunt, alterum superius,
+altera inferior sit, Deus autem unus sit; nunquam
+bene profecto conveniet tantae aequalitati, et tantae
+disparitati. Et rursum de aere, et quodam aere, quod
+est aereum sigillum, quoniam quod inde in eamdem
+usurpatur similitudinis rationem, simile est huic,
+<pb n="1058C"/>
+idem judicium. Cum enim species, ut dixi, minor
+sit et inferior genere, absit ut hanc in Patre et Filio
+diversitatem cogitemus; absit ut huic acquiescamus
+dicenti, hoc esse Filium ad Patrem, quod
+speciem ad genus, quod hominem ad animal, quod
+aereum sigillum ad aes, quod aliquam potentiam ad
+potentiam. Sunt quippe cuncta haec, mutua suae
+connexione naturae, ad se invicem superiora et inferiora:
+et ob hoc nulla prorsus admittenda similitudo
+ex his ad illud, ubi nihil est inaequale, nihil dissimile.
+Videtis de quanta vel imperitia, vel impietate
+descendat harum adinventio similitudinum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III. <hi>Absurdum dogma Abaelardi, nomina absoluta et essentialia uni personae proprie et specialiter attribuentis, oppugnat.</hi> </head>
+<div3>
+            <head>5.</head>
+            <p>
+ Adhuc advertite clarius quid sentiat, doceat,
+<pb n="1058D"/>scribat. Dicit proprie et specialiter ad Patrem potentiam,
+ad Filium sapientiam pertinere: quod
+quidem falsum. Nam et Pater sapientia, et Filius
+potentia verissime sunt, sanissimeque dicuntur: et
+quod est commune amborum, non erit proprium
+singulorum. Alia illa sunt profecto vocabula, quae
+non ad seipsos dicuntur, sed ad alterutrum: et
+<pb n="1059A"/>
+ideo est cuique suum, et non commune cum altero.
+Nam qui Pater est, Filius non est; et qui Filius est,
+Pater non est: quoniam non quod ad se, sed quod
+ad Filium Pater est, Patris nomine designatur; et
+item nomine Filii, non quod ad se Filius, sed quod
+est ad Patrem, exprimitur. Non sic potentia, non
+sic sapientia, neque alia multa, quae ad se dicuntur:
+et Pater et Filius non singulariter, alter respectu
+alterius. « Non, »  inquit,  « sed ad proprietatem
+personae Patris proprie vel specialiter invenimus
+omnipotentiam attinere, quod non solum cum caeteris
+duabus personis aeque omnia efficere potest, verum
+etiam ipse solus a se, non ab alio existere
+habet: et sicut habet ex se existere, ita etiam ex
+se habet posse. »  <hi>(ABAELARDI Theologiae libro I, pag.
+<pb n="1059B"/>
+990.)</hi> O alterum Aristotelem! An non eadem ratione,
+si hoc ratio esset, et sapientia et benignitas
+proprie pertinerent ad Patrem: cum et sapere, et
+benignum esse, aeque a se Pater, et non ab alio
+habeat, quemadmodum et esse, et posse? Quod si
+non abnuit (nec enim de ratione potest), quid,
+quaeso, facturus est de illa nobili sua partitione, in
+qua ut Patri potentiam, sic Filio sapientiam, sic
+Spiritui sancto benignitatem proprie ac specialiter
+assignavit? Non enim una et eadem res proprie poterit
+convenire duobus, hoc est, ut cuique propria
+sit. Eligat quod vult: aut det sapientiam <emph>648</emph> Filio,
+et tollat eam Patri; aut Patri tribuat, et auferat
+Filio; et rursum benignitatem aut Spiritui sancto
+sine Patre, aut Patri sine Spiritu sancto assignet:
+<pb n="1059C"/>
+aut certe desinat nomina communia propria facere,
+et Patri, quoniam a seipso habet potentiam, non
+ideo tamen audeat concedere propriam: ne et benignitatem
+simul et sapientiam, quas a se nihilo minus
+habet, identidem proprias ipsi sua ratione assignare
+cogatur.</p>
+          </div3>
+<div3>
+            <head>6.</head>
+            <p>
+ Sed exspectemus adhuc, et videamus, quam
+theorice noster theologus invisibilia Dei contempletur.
+Dicit, ut dixi, proprie omnipotentiam pertinere
+ad Patrem; atque hanc, ut sit integra et perfecta,
+in gerendo et discernendo constituit. Porro
+Filio, ut jam dictum est, assignat sapientiam, ipsamque
+non simpliciter quidem potentiam, sed quamdam
+in Deo potentiam esse definit, id est potentiam
+<pb n="1059D"/>
+tantum discernendi. Forte timet injuriam facere
+Patri, si tantum tribuat Filio, quantum et ipsi: et
+cui non audet potentiam dare integram, concedit
+dimidiam. Et quod dicit, manifestis declarat exemplis,
+asserens potentiam discernendi, quae est Filius,
+ita quamdam esse potentiam, quemadmodum homo
+quoddam est animal, et sigillum aereum quoddam
+est aes: atque hoc esse potentiam discernendi, ad
+gerendi discernendique potentiam, id est Filium ad
+Patrem, quod homo ad animal est, quod aereum sigillum
+ad aes. « Sicut enim, »  inquit,  « ex eo quod
+est aereum sigillum, exigit necessario ut aes sit; et
+<pb n="1060A"/>
+ex eo quod est homo, ut animal sit, sed non e converso:
+ita divina sapientia, quae est potentia discernendi,
+exigit quod sit divina potentia, sed non e
+converso <note>(ABAELARDI Theologiae lib. II, pag. 1083)</note>. » 
+Quid igitur? vis ut juxta tuam similitudinem, ad
+instar praecedentium, etiam ex hoc quod Filius est,
+exigat ut Pater sit; hoc est, ut qui Filius est, Pater
+sit, quanquam non e converso! Si hoc dicis, haereticus
+es: si non dicis, vacat similitudo.</p>
+          </div3>
+<div3>
+            <head>7.</head>
+            <p>
+ Ad quid enim tibi ipsam tanto circuitu de
+longe positis rebus, et minus convenientibus emendicas,
+tanto labore colligis, tanta inculcas inani
+multiplicitate verborum, tantis effers laudibus, si
+non facit ad quod adducitur, ut videlicet membra
+ad membra congruis proportionibus reducantur!
+<pb n="1060B"/>
+Nonne hoc opus, hic labor est, ut per ipsam nos
+doceas eam, quae est inter Patrem et Filium, habitudinem!
+Tenemus autem te docente ad hominis positionem
+poni animal, sed non e converso secundum
+regulam dialecticae tuae: qua non quidem posito genere
+ponitur species, sed posita specie ponitur genus.
+Cum ergo Patrem ad genus, Filium ad speciem
+referas; non id ratio similitudinis postulat, ut similiter
+posito Filio, Patrem poni ostendas, et non
+converti? ut quomodo qui homo est, necessario
+animal est, sed non convertitur; ita quoque qui
+Filius est necessario Pater sit, et aeque non
+convertatur. Sed contradicit tibi in hoc catholica
+fides, quae profecto utrumque recusat, tam Patrem
+videlicet esse qui Filius est, quam esse Filium qui
+<pb n="1060C"/>
+Pater est. Nam alius procul dubio Pater, atque alius
+Filius: quamvis non aliud Pater, quam Filius. Nam
+per Alius et Aliud, novit pietas fidei caute inter personarum
+proprietates et individuam essentiae unitatem
+discernere; et medium iter tenens, regia incedere
+via: ut nec declinet ad dexteram, confundendo
+personas; nec respiciat ad sinistram, substantiam
+dividendo. Quod si per simplex esse dicas vere
+consequi ut si Filius est, necessario Pater sit; nil te
+juvat, cum ratio relationis necessario exigat, ut
+convertatur, et eadem veritas comitetur conversam:
+quod non congruit adductae de genere et specie, vel
+de aere, aereoque sigillo similitudini. Neque enim,
+sicut per simplex esse duntaxat verissime dicitur.
+<pb n="1060D"/>
+Si Pater est, Filius est; et si Filius est, Pater est:
+ita etiam possumus inter hominem et animal, sive
+inter aereum sigillum et aes, in veritate convertibilem
+texere consequentiam. Nam etsi verum sit dicere,
+Si homo est, animal est: non tamen vera est
+conversa, qua dicitur, Si animal est, homo est. Et
+item si sigillum aereum est, necessario sequitur <emph>649</emph> 
+ ut aes sit; non tamen si aes sit, necessario sequitur
+ut sigillum aereum sit. Sed jam pergamus ad
+reliqua.</p>
+          </div3>
+<div3>
+            <head>8.</head>
+            <p>
+ En juxta istum habemus omnipotentiam in
+Patre, quamdam potentiam in Filio: dicat nobis
+<pb n="1061A"/>
+etiam de Spiritu sancto quid sentiat. « Benignitas
+ipsa, »  inquit,  « quae hoc nomine quod est Spiritus
+sanctus demonstratur, non est in Deo potentia, sive
+sapientia <note>(ABAELARDI Theologiae libro II, pag. 1085)</note>. » 
+Videbam. Satanam tanquam fulgur cadentem de coelo <note>(Luc. X, 18)</note>.
+Sic debet cadere, qui ambulat in magnis
+et mirabilibus super se. Vides, Pater sancte,
+quas scalas, imo quae praecipitia iste sibi paraverit
+ad ruinam. Omnipotentiam, semipotentiam, nullam
+potentiam. Ipso auditu horreo, et ipsum horrorem
+puto sufficere ad refellendum. Verumtamen testimonium
+pono, quod turbato interim occurrit ad removendam
+Spiritus sancti injuriam. In Isaia legitur, <hi>Spiritus sapientiae, Spiritus fortitudinis 
+ <note>(Isa. XI, 2)</note>
+            </hi>;
+per quod utique satis aperte istius audacia, etsi non
+<pb n="1061B"/>
+comprimitur, convincitur tamen. O lingua magniloqua!
+Esto ut injuria Filii vel Patris remittatur
+tibi: numquid blasphemia Spiritus? Manet angelus
+Domini qui secet te medium: dixisti enim,  « Non
+est Spiritus sanctus in Deo potentia, sive sapientia. » 
+Ita pes superbiae ruit cum irruit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Refellit definitionem fidei, qua dicit Abaelardus fidem esse aestimationem.</hi> </head>
+<div3>
+            <head>9.</head>
+            <p>
+ Nec mirum si homo, qui non curat quae dicat,
+irruens in arcana fidei, thesauros absconditos pietatis
+tam irreverenter invadit atque discerpit; cum de
+ipsa pietate fidei nec pie, nec fideliter sentiat. Denique
+in primo limine Theologiae, vel potius Stultilogiae
+suae, fidem definit aestimationem <hi>(Theologiae
+<pb n="1061C"/>
+libro I, pagg. 977 et 1061)</hi>. Quasi cuique in ea sentire
+et loqui quae libeat liceat; aut pendeant sub incerto
+in vagis ac variis opinionibus nostrae fidei sacramenta,
+et non magis certa veritate subsistant.
+Nonne si fluctuat fides, inanis est et spes nostra?
+Stulti ergo martyres nostri, sustinentes tam acerba
+propter incerta, nec dubitantes sub dubio remunerationis
+praemio durum per exitum diuturnum inire
+exsilium. Sed absit ut putemus in fide vel spe nostra
+aliquid, ut is putat, dubia aestimatione pendulum;
+et non magis totum quod in ea est, certa ac solida
+veritate subnixum, oraculis et miraculis divinitus
+persuasum, stabilitum et consecratum partu Virginis,
+sanguine Redemptoris, gloria resurgentis. Testimonia
+ista credibilia facta sunt nimis. Si quo
+<pb n="1061D"/>
+minus, ipse postremo Spiritus reddit testimonium
+spiritui nostro, quod filii Dei sumus. Quomodo
+ergo fidem quis audet dicere aestimationem, nisi qui
+Spiritum istum nondum accepit, quive Evangelium
+aut ignoret, aut fabulam putet? <hi>Scio cui credidi, et
+certus sum,</hi> clamat Apostolus <note>(II Tim. I, 12)</note>: et tu
+mihi subsibilas,  « Fides est aestimatio? »  Tu mihi
+ambiguum garris, quo nihil est certius. Sed Augustinus
+aliter:  « Fides, »  ait,  « non conjectando
+<pb n="1062A"/>
+vel opinando habetur in corde in quo est, ab eo
+cujus est; sed certa scientia, acclamante conscientia. » 
+Absit ergo, absit ut hos fines fides habeat
+christiana. Academicorum sint istae aestimationes,
+quorum est dubitare de omnibus, scire nihil. Ego
+vero securus in Magistri Gentium sententiam
+pergo, et scio quoniam non confundar. Placet mihi,
+fateor, illius de fide definitio, etsi iste etiam ipsam
+latenter insimulet. <hi>Fides est,</hi> ait, <hi>substantia rerum
+sperandarum, argumentum non apparentium <note>(Hebr.
+XI, 1)</note>
+            </hi>. <hi>Substantia,</hi> inquit, <hi>rerum sperandarum,</hi> non
+inanium phantasia conjecturarum. Audis substantiam.
+Non licet tibi in fide putare, vel disputare pro
+libitu; non hac illacque vagari per inania opinionum,
+per devia errorum. Substantiae nomine aliquid
+<pb n="1062B"/>
+tibi certum fixumque praefigitur: certis clauderis
+finibus, certis limitibus coarctaris. Non est enim
+fides aestimatio, sed certitudo.</p>
+          </div3>
+<div3>
+            <head>10.</head>
+            <p>
+ Sed advertite caetera. Omitto quod dicit spiritum <emph>650</emph> 
+ timoris Domini non fuisse in Domino;
+timorem Domini castum in futuro saeculo non futurum;
+post consecrationem panis et calicis, priora
+accidentia, quae remanent, pendere in aere; daemonum
+in nobis suggestiones contactu fieri lapidum et
+herbarum, prout illorum sagax malitia novit harum
+rerum vires diversas diversis incitandis et incendendis
+vitiis convenire; Spiritum sanctum esse
+animam mundi; mundum, juxta Platonem, tanto
+excellentius animal esse, quanto meliorem animam
+habet Spiritum sanctum. Ubi dum multum sudat,
+<pb n="1062C"/>
+quomodo Platonem faciat christianum, se probat
+ethnicum. Haec, inquam, omnia, aliasque istiusmodi
+naenias ejus non paucas praetereo: venio ad graviora.
+Non quod vel ad ipsa cuncta respondeam; magis
+enim opus voluminibus esset: illa loquor quae tacere
+non possunt.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V. <hi>Arguit Abaelardum, sua sensa aut somnia unanimi Patrum sententiae praeferentem; praesertim ubi dicit Christum non ideo incarnatum, ut hominem liberaret de potestate Satanae.</hi> </head>
+<div3>
+            <head>11.</head>
+            <p>
+ Mysterium nostrae redemptionis, sicut in libro
+quodam Sententiarum ipsius, et item in quadam ejus
+expositione Epistolae ad Romanos legi, temerarius
+<pb n="1062D"/>
+scrutator majestatis aggrediens, in ipso statim
+suae disputationis exordio, ecclesiastieorum
+doctorum unam omnium de hac re dicit esse sententiam,
+et ipsam ponit ac spernit, et gloriatur se
+habere meliorem: non veritus contra praeceptum
+Sapientis transgredi terminos antiquos, quos posuerunt
+patres nostri <note>(Prov. XXII, 28)</note>. « Sciendum
+est, »  ait, quod omnes doctores nostri post Apostolos
+in hoc conveniunt, quod diabolus dominium et
+<pb n="1063A"/>
+potestatem habebat super hominem, et jure eum
+possidebat: ideo scilicet quod homo ex libertate arbitrii,
+quam habebat, sponte diabolo consensit.
+Aiunt namque, quod si quis aliquem vicerit, victus
+jure victoris servus constituitur. Ideo, »  inquit,  « sicut
+dicunt doctores, hac necessitate incarnatus est
+Filius Dei, ut homo, qui aliter liberari non poterat,
+per mortem innocentis jure liberaretur a jugo diaboli.
+Sed, ut nobis videtur, »  ait,  « nec diabolus
+unquam jus aliquod in homine habuit, nisi forte
+Deo permittente, ut carcerarius: nec Filius Dei ut
+hominem liberaret, carnem assumpsit. »  Quid in his
+verbis intolerabilius judicem, blasphemiam, an arrogantiam?
+quid damnabilius, temeritatem, an impietatem?
+An non justius os loquens talia fustibus
+<pb n="1063B"/>
+tunderetur, quam rationibus refelleretur? Nonne
+omnium merito in se provocat manus, cujus manus
+contra omnes? Omnes, inquit, sic: sed non ego sic.
+Quid ergo tu? quid melius affers? quid subtilius invenis?
+quid secretius tibi revelatum jactas, quod tot
+praeterierit sanctos, effugerit sapientes? Aquas furtivas
+et panes absconditos, puto, apponet nobis
+iste.</p>
+          </div3>
+<div3>
+            <head>12.</head>
+            <p>
+ Dic tamen, dic quidquid illud est, quod tibi
+videtur, et nulli alteri. An quod Filius Dei non ut
+hominem liberaret, hominem induit? Hoc plane nemini,
+te excepto, videtur: tu videris ubi videris.
+Non enim hoc a sapiente, non a propheta, non ab
+apostolo, non denique ab ipso Domino accepisti.
+Magister Gentium accepit a Domino, quod et tradidit
+<pb n="1063C"/>
+nobis <note>(I Cor. XI, 23)</note>. Magister omnium suam
+doctrinam fatetur non esse suam: <hi>Non enim,</hi> ait, <hi>a
+meipso loquor <note>(Joan. VII, 16; XIV, 10)</note>
+            </hi>. Tu vero
+de tuo nobis tradis, et quod a nemine accepisti. Qui
+loquitur mendacium, de proprio loquitur <note>(Joan. VIII,
+44)</note>. Tibi proinde sint, quae tua sunt. Ego prophetas
+et apostolos audio, obedio Evangelio, sed non Evangelio
+secundum Petrum. Tu novum nobis condis
+Evangelium? Quintum Ecclesia evangelistam
+non recipit. Quid Lex, quid Prophetae, quid Apostoli,
+quid apostolici viri nobis aliud evangelizant,
+quam quod solus tu negas, Deum videlicet factum
+hominem, <emph>651</emph> ut hominem liberaret? Et si angelus
+de coelo aliud nobis evangelizaverit, anathema
+<pb n="1063D"/>
+sit.</p>
+          </div3>
+<div3>
+            <head>13.</head>
+            <p>
+ Sed qui venerunt post apostolos, doctores
+non recipis, homo qui super omnes docentes te intellexisti.
+Denique non erubescis dicere, quod adversum
+te omnes sentiant, cum ab invicem non dissentiant.
+Frustra proinde illorum tibi fidem doctrinamque
+proponerem, quos jam proscripsisti: ad
+Prophetas te ducam. Loquitur sub typo Jerusalem
+ad populum acquisitionis, non propheta, sed in
+propheta, Dominus, dicens: <hi>Salvabo te, et liberabo
+te, noli timere <note>(Soph. III, 16, 17)</note>
+            </hi>. Quaeris
+a qua potestate? Non enim vis ut diabolus in hominem
+habeat, vel habuerit potestatem: fateor, nec
+<pb n="1064A"/>
+ego. Non tamen idcirco non habet, quia ego et tu
+hoc nolumus. Hoc si non confiteris tu, nec cognoscis:
+cognoscunt et dicunt <hi>qui redempti sunt a Domino,
+quos redemit de manu inimici.</hi> Quod minime
+negares et tu, si non esses sub manu inimici. Non
+potes gratias agere cum redemptis, qui redemptus
+non es. Nam si redemptus esses, Redemptorem agnosceres,
+et non negares redemptionem. Nec quaerit
+redimi, qui se nescit captivum. Qui autem scierunt, <hi>clamaverunt ad Dominum, et Dominus exaudivit eos,
+et redemit eos de manu inimici.</hi> 
+ Et ut intelligas hunc
+inimicum qui sit, <hi>Quos redemit,</hi> ait, <hi>de manu inimici,
+de regionibus congregavit eos <note>(Psal. CVI, 2, 6)</note>
+            </hi>.
+Sed primum quidem agnosce hunc congregatorem,
+de Caiphas prophetat in Evangelio, quia Jesus moreretur
+<pb n="1064B"/>
+pro gente. Et qui narrat, sequitur dicens: <hi>Non tantum pro gente; sed ut filios Dei, qui erunt
+dispersi, congregaret in unum 
+ <note>(Joan XI, 51, 52)</note>
+            </hi>. Quo
+erant dispersi? In omnes regiones. Ergo quos redemit,
+de regionibus congregavit eos. Non congregaret,
+nisi redimeret. Erant enim non solum dispersi,
+sed et captivi. Redemit, et congregavit: <hi>redemit</hi> autem <hi>de manu inimici.</hi> 
+ Non dicit, inimicorum; sed, <hi>inimici.</hi> 
+ Inimicus unus, regiones multae. Siquidem
+non de regione, sed <hi>de regionibus congregavit eos, a
+solis ortu et occasu, ab aquilone et mari <note>(Psal. CVI,
+3)</note>
+            </hi>. Quis iste unus tam potens dominus, qui non uni
+praefuit regioni, sed omnibus? Non alius, ut arbitror,
+quam ille, qui ab alio propheta dicitur absorbere
+fluvium, id est genus humanum, et non mirari:
+<pb n="1064C"/>
+habere autem fiduciam, quod et Jordanis,
+hoc est electio ipsa, influat in os ejus <note>(Job XL, 18)</note>.
+Beati qui sic influunt ut effluant, qui sic intrant ut
+exeant.</p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ Sed quid? Nondum forte credis Prophetis, sic
+sibi concinentibus de diaboli potestate in hominem.
+Veni mecum et ad Apostolos. Dixisti nempe te non
+sentire cum illis qui post Apostolos venerunt. Assentias
+vel Apostolis, si forte et tibi contingat quod
+unus eorum loquitur de quibusdam: <hi>Nequando,</hi> inquiens, <hi>det illis Deus poenitentiam ad cognoscendam
+veritatem, ut resipiscant a diaboli laqueis, a quo captivi
+tenentur ad ipsius voluntatem 
+ <note>(II Tim. XXV, 26)</note>
+            </hi>.
+Paulus est iste, qui homines a diabolo captivos teneri
+<pb n="1064D"/>
+asserit ad ejus voluntatem. Audis <hi>ad ejus voluntatem,</hi> 
+et negas potestatem? Si et Paulo non
+credis, veni jam ad ipsum Dominum; si forte audias,
+et quiescas. Nempe ab ipso appellatur <hi>Princeps
+hujus mundi <note>(Joan. XIV, 30)</note>
+            </hi>, et <hi>fortis armatus <note>(Luc.
+XI, 21)</note>
+            </hi>, possessorque vasorum <note>(Matth. XII, 29)</note>: et
+dicis eum non habere potestatem in homines? Nisi
+tu aliud putas hoc loco intelligi atrium, quam mundum;
+vasa, quam homines. Quod si atrium diaboli,
+mundus erat; et homines vasa ejus; quomodo non
+dominabatur hominibus? ait item Dominus capientibus
+se: <hi>Haec est hora vestra, et potestas tenebrarum <note>(Luc. XXII, 53)</note>
+            </hi>.
+Potestas ista non latuit illum
+<pb n="1065A"/>
+qui dicebat: <hi>Qui eruit nos de potestate tenebrarum,
+et transtulit in regnum Filii claritatis suae <note>(Coloss. I,
+13)</note>
+            </hi>. Hanc ergo Dominus ne in se quidem negavit
+diaboli potestatem, sicut nec Pilati, qui membrum
+erat diaboli. Ait siquidem: <hi>Non haberes potestatem
+in me ullam, nisi data tibi fuisset desuper <note>(Joan.
+XIX, 11)</note>
+            </hi>. Quod si in viride lignum in tantum grassata
+est ista desuper data potestas, aridum quomodo
+non fuit ausa contingere? Nec injustam puto iste
+causabitur potestatem datam desuper. Discat ergo
+diabolum non solum potestatem, sed et justam habuisse
+in homines: ut consequenter et hoc videat,
+venisse utique <emph>652</emph> in carne Dei Filium propter
+liberandos homines. Caeterum etsi justam dicimus
+diaboli potestatem, non tamen et voluntatem. Unde
+<pb n="1065B"/>
+non diabolus qui invasit; non homo qui meruit:
+sed justus Dominus qui exposuit. Non enim a potestate,
+sed a voluntate justus injustusve quis dicitur.
+Hoc ergo diaboli quoddam in hominem jus, etsi non
+jure acquisitum, sed nequiter usurpatum; juste tamen
+permissum. Sic itaque homo juste captivus
+tenebatur, ut tamen nec in homine, nec in diabolo
+illa esset justitia, sed in Deo.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI. <hi>In opere liberationis humanae non solum misericordiam, sed et justitiam relucere.</hi> </head>
+<div3>
+            <head>15.</head>
+            <p>
+ Juste igitur homo addictus, sed misericorditer
+liberatus; sic tamen misericorditer, ut non defuerit
+justitia quaedam et in ipsa liberatione: quoniam
+hoc quoque fuit de misericordia liberantis, ut
+<pb n="1065C"/>
+(quod congruebat remediis liberandi) justitia magis
+contra invasorem, quam potentia uteretur. Quid
+namque ex se agere poterat, ut semel amissam justitiam
+recuperaret homo servus peccati, vinctus
+diaboli? Assignata est ei proinde aliena, qui caruit
+sua; et ipsa sic est. Venit princeps hujus mundi, et
+in Salvatore non invenit quidquam: et cum nihilominus
+innocenti manus injecit, justissime quos tenebat
+amisit: quando is qui morti nihil debebat,
+accepta mortis injuria, jure illum, qui obnoxius
+erat, et mortis debito, et diaboli solvit dominio.
+Qua enim justitia id secundo homo exigeretur? Homo
+siquidem qui debuit, homo qui solvit. Nam <hi>si unus,</hi> 
+inquit, <hi>pro omnibus mortuus est, ergo omnes mortui
+<pb n="1065D"/>
+sunt <note>(II Cor. V, 14)</note>
+            </hi>: ut videlicet satisfactio unius
+omnibus imputetur, sicut omnium peccata unus ille
+portavit; nec alter jam inveniatur qui forefecit,
+alter qui satisfecit: quia caput et corpus unus est
+Christus. Satisfecit ergo caput pro membris, Christus
+pro visceribus suis, quando juxta Evangelium
+Pauli, quo convincitur mendacium Petri, mortuus
+pro nobis <hi>convivificavit nos sibi, donans nobis
+omnia delicta, delens quod adversum nos erat chirographum
+decreti, quod erat contrarium nobis; et
+ipsum tulit de medio, affigens illud cruci, exspolians
+principatus et potestates <note>(Coloss. II, 13, 14)</note>
+            </hi>.
+<pb n="1066A"/>
+</p>
+          </div3>
+<div3>
+            <head>16. </head>
+            <p>
+Utinam ego inveniar in his spoliis, quibus
+spoliatae sunt contrariae potestates, traductus et ipso
+in possessionem Domini! Si me insecutus Laban
+arguerit, quod recesserim clam ab eo, audiat clam
+me accessisse ad eum, et ob hoc clam recessisse.
+Subjecit me illi causa secretior peccati: subduxit
+me illi ratio occultioris justitiae. Aut si gratis venumdatus
+sum, gratis non redimar? Si Assur sine
+causa calumniatus est mihi, sine causa causam
+exigit evasionis. Quod si dixerit, Pater tuus addixit
+te; respondebo, Sed frater meus redemit me. Cur
+non aliunde justitia, cum aliunde reatus? Alius qui
+peccatorem constituit, alius qui justificat a peccato;
+alter in semine, alter in sanguine. An peccatum
+in semine peccatoris, et non justitia in Christi
+<pb n="1066B"/>
+sanguine? Sed justitia, inquiet, sit cujus est: quid
+ad te? Esto. Sed sit etiam culpa cujus est: quid ad
+me? An justitia justi super eum erit, et impietas
+impii non erit super eum? Non convenit filium portare
+iniquitatem patris, et fraternae fieri exsortem
+justitiae. Nunc ergo per hominem mors, et per hominem
+vita. Sicut enim <hi>in Adam omnes moriuntur,
+ita et in Christo vivificabuntur <note>(I Cor. XV, 21, 22)</note>
+            </hi>:
+quoniam non sic illi attineo, ut non et isti. Si illi
+per carnem; et per fidem huic: et si infectus ex
+illo originali concupiscentia; etiam Christi gratia
+spirituali perfusus sum. Quid mihi plus imputatur de
+praevaricatore? Si generatio, regenerationem oppono:
+nisi quod spiritualis est ista, illa carnalis,
+nec patitur ratio aequitatis ut ex aequo contendant:
+<pb n="1066C"/>
+sed vincat necesse est spiritus carnem, et sit efficacior
+causa, cujus potior est et natura; quo plus videlicet
+prosit generatio secunda, quam prima nocuerit. Sane
+pervenit delictum ad me, sed pervenit et gratia. <emph>653</emph> <hi>Et non sicut delictum, ita et donum. Nam judicium ex
+uno in condemnationem; gratia autem ex multis delictis
+in justificationem 
+ <note>(Rom. V, 16)</note>
+            </hi>. A primo homine
+manavit delictum, a summo coelo egressio gratiae.
+Utrumque a parente, illud a primo, ista a summo.
+Terrena nativitas perdit me: et non multo magis
+generatio coelestis conservat me? Nec vereor sic
+erutus de potestate tenebrarum repelli a Patre luminum,
+justificatus gratis in sanguine Filii ejus.
+Nempe ipse qui justificat: quis est qui condemnet?
+<pb n="1066D"/>
+Non condemnabit justum, qui misertus est peccatori.
+Justum me dixerim, sed illius justitia. Quaenam
+ipsa? <hi>Finis legis Christus, ad justitiam omni credenti <note>(Rom. X, 4)</note>
+            </hi>.
+Denique <hi>qui factus est nobis,</hi> inquit, <hi>justitia
+a Deo Patre <note>(I Cor. I, 30)</note>
+            </hi>. Quae ergo mihi
+justitia facta est, mea non est? Si mea traducta
+culpa, cur non eet mea indulta justitia? Et sane
+mihi tutior donata, quam innata. Nam ista quidem
+gloriam habet, sed non apud Deum: illa autem,
+cum sit salutis efficax, materiam non habet gloriandi
+nisi in Domino. Nam <hi>etsi justus fuero,</hi> inquit, <hi>non levabo
+caput <note>(Job X, 15)</note>
+            </hi>; ne videlicet responsum accipiat:
+<pb n="1067A"/> <hi>Quid habes quod non accepisti? Si autem accepisti,
+quid gloriaris, quasi non acceperis? 
+ <note>(I Cor.
+IV, 7.)</note>
+            </hi> 
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Abaelardum perstringit, impie ac temere Dei secreta scrutantem et extenuantem.</hi> </head>
+<div3>
+            <head>17.</head>
+            <p>
+ Haec est justitia hominis in sanguine Redemptoris:
+quam homo perditionis exsufflans et subsannans,
+in tantum evacuare conatur, ut totum quod
+Dominus gloriae semetipsum exinanivit, quod minoratus
+est ab Angelis, quod natus de femina, quod
+conversatus in mundo, quod expertus infima, quod
+passus indigna, quod demum per mortem crucis in
+sua reversus: ad id solum putet et disputet redigendum,
+ut traderet hominibus formam vitae vivendo
+<pb n="1067B"/>
+et docendo, patiendo autem et moriendo charitatis
+metam praefigeret. Ergo docuit justitiam, et non dedit;
+ostendit charitatem, sed non infudit; et sic rediit in
+sua? Itane hoc totum est <hi>magnum</hi> illud <hi>pietatis sacramentum,
+quod manifestatum est in carne, justificatum
+est in spiritu, apparuit Angelis, praedicatum est
+gentibus, creditum est in mundo, assumptum est in
+gloria? <note>(I Tim. III, 16)</note>
+            </hi>. Incomparabilis doctor, qui
+etiam profunda Dei sibi aperiens, et ea quibus vult
+lucida et pervia faciens, altissimum sacramentum,
+et mysterium absconditum a saeculis, sic nobis suo
+mendacio planum et apertum reddit, ut transire
+leviter per illud possit quivis, etiam incircumcisus
+et immundus: quasi Dei sapientia cavere nescierit
+aut neglexerit quod ipsa prohibuit, sed dederit et
+<pb n="1067C"/>
+ipsa sanctum canibus, et margaritas porcis. Sed
+non est ita. Nam etsi manifestatum est in carne,
+sed tamen justificatum est in spiritu: ut et spiritualibus
+spiritualia conferantur; et animalis homo
+non percipiat quae sunt spiritus Dei; nec fides nostra
+sit in sapientia verbi, sed in virtute Dei. Unde
+Salvator ait, <hi>Confiteor tibi, Pater, Domine coeli et
+terrae, quia abscondisti haec a sapientibus et prudentibus,
+et revelasti ea parvulis <note>(Matth. XI, 25)</note>
+            </hi>; et
+Apostolus: <hi>Etsi,</hi> inquit, <hi>opertum est Evangelium
+meum, in his est opertum qui pereunt <note>(II Cor.
+IV, 3)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>18.</head>
+            <p>
+ Denique advertite hominem irridentem quae
+sunt spiritus Dei, quoniam stultitia illi videntur; et
+insultantem Apostolo loquenti Dei sapientiam in
+<pb n="1067D"/>
+mysterio absconditam; invehentem in Evangelium,
+Dominum blasphemantem. Quam prudentius
+quod non valet comprehendere, credere dignaretur,
+nec auderet contemnere, aut conculcare sacrum reverendumque
+mysterium. Longum est ad omnes
+ejus ineptias et calumnias, quas divino struit consilio,
+respondere. Pauca tamen infero, e quibus caetera
+aestimentur. « Cum solos, »  inquit,  « electos
+liberaverit Christus, quomodo eos <emph>654</emph> diabolus
+possidebat, sive in hoc saeculo, sive in futuro magis,
+<pb n="1068A"/>
+quam modo? »  Respondemus: Imo quia diabolus
+electos Dei possidebat, a quo, sicut dicit Apostolus,
+captivi tenebantur ad ipsius voluntatem <note>(II Tim. II,
+26)</note>: ut Dei propositum de ipsis impleretur, opus
+fuit liberatore. Oportuit autem liberari in hoc saeculo,
+ut liberos haberent in futuro. Deinde infert:  « Nunquid
+etiam pauperem illum, qui in sinu Abrahae
+requiescebat, sicut et divitem damnatum, diabolus
+cruciabat; aut etiam in ipsum Abraham dominium
+habebat, caeterosque electos? »  Non: sed habuisset,
+si non liberati fuissent fide venturi, sicut de ipso
+Abraham scriptum est: <hi>Credidit Abraham Deo, et
+reputatum est ei ad justitiam <note>(Gen. XV, 6)</note>
+            </hi>; item: <hi>Abraham exsultavit ut videret diem meum; et vidit,
+et gavisus est 
+ <note>(Joan. XVIII)</note>
+            </hi>. Propterea jam tunc sanguis
+<pb n="1068B"/>
+Christi rorabat etiam Lazaro ne flammas sentiret:
+quod et ipse credidisset in eum qui erat
+passurus. Sic de omnibus electis illius temporis
+sentiendum, natos quidem et ipsos, aeque ut nos, sub
+potestate tenebrarum, propter originale peccatum:
+sed erutos antequam morerentur, et nonnisi in sanguine
+Christi. Scriptum est enim: <hi>Turbae
+autem quae praecedebant, et quae sequebantur, clamabant
+dicentes: Hosanna filio David, benedictus qui
+venit in nomine Domini <note>(Matth. XXI, 9)</note>
+            </hi>. Ergo Christo
+in carne venienti, et antequam veniret, et post,
+benedictum est a turbis benedictorum: quamvis
+praeeuntes plenam minime tunc consecuti sint benedictionem,
+servata nimirum hac praerogativa tempori
+gratiae.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>Quare Christus tam gravem ac laboriosum nos liberandi modum susceperit, cum sola ejus voluntas seu jussio sufficeret.</hi> </head>
+<div3>
+            <head>19.</head>
+            <p>
+ Deinde laborans docere et persuadere, diabolum
+<pb n="1068C"/>nullum sibi jus in hominem vindicare potuisse
+aut debuisse, nisi permissu Dei, et quod sine injuria
+diaboli jure Deus profugum suum, si vellet misereri,
+repetere, et solo verbo eripere posset, quasi hoc quis
+diffiteatur, post multa aliquando infert:  « Quae itaque
+necessitas, aut quae ratio, aut quod opus fuit,
+cum sola jussione sua, divina miseratio liberare
+hominem a peccato posset; propter redemptionem
+nostram Filium Dei carne suscepta, tot et tantas
+inedias, opprobria, flagella, sputa, denique ipsam
+<pb n="1068D"/>
+crucis ignominiosam et asperrimam mortem sustinere,
+ut cum iniquis patibulum sustineret. » 
+Respondemus: Necessitas nostra fuit, et necessitas
+dura sedentium in tenebris et umbra mortis. Opus,
+aeque nostrum, et Dei ipsius, et sanctorum Angelorum.
+Nostrum, ut auferret jugum captivitatis nostrae:
+suum, ut impleretur propositum voluntatis
+ejus: Angelorum, ut numerus impleretur eorum.
+Porro ratio hujus facti fuit dignatio facientis. Quis
+negat Omnipotenti ad manum fuisse alios et alios
+<pb n="1069A"/>
+modos nostrae redemptionis, justificationis, liberationis?
+Verum hoc non praejudicat hujus, quem e
+multis elegit, efficaciae. Et fortasse is praestat, per
+quem in terra oblivionis, gravedinis, lapsus nostri,
+tot et tantis gravaminibus Reparatoris fortius et
+vivacius admoneremur. Alias autem nemo hominum
+novit, nec noscere ad plenum potest, quid boni ad
+gratiam, quid congruentiae ad sapientiam, quid decori
+ad gloriam, quid commodi ad salutem, penes se
+ipsam contineat hujus venerandi mysterii inscrutabilis
+altitudo: quam propheta considerans expavit,
+non penetravit <note>(Habac. III, 2, juxta LXX)</note>; et praecursor
+Domini indignum se judicavit qui penetraret <note>(Joan. I, 27)</note>.</p>
+          </div3>
+<div3>
+            <head>20.</head>
+            <p>
+ Caeterum si non licet perscrutari divinae sacramentum
+<pb n="1069B"/>
+voluntatis, licet tamen sentire effectum
+operis, fructum utilitatis percipere. Et quod licet
+scire, non licet tacere: quia <hi>gloria regum celare verbum,
+et gloria Dei investigare sermonem <note>(Prov.
+XXV, 27)</note>
+            </hi>. Fidelis sermo, et omni acceptione dignus!
+quoniam cum adhuc peccatores essemus, reconciliati
+sumus Deo per mortem Filii ejus <note>(Rom. V, 10)</note>. <emph>655</emph> 
+Ubi reconciliatio, et remissio peccatorum. Nam si, dicente
+Scriptura, <hi>Peccata nostra separant inter nos et
+Deum <note>(Isai. LIX, 2)</note>
+            </hi>, manente peccato, non est reconciliatio.
+In quo ergo remissio peccatorum? <hi>Hic calix,</hi> 
+inquit, <hi>novi testamenti in meo sanguine, qui pro
+vobis effundetur in remissionem peccatorum <note>(Matth.
+XXVI, 28; Luc. XXII, 20)</note>
+            </hi>. Itaque ubi reconciliatio,
+ibi remissio peccatorum. Et quid ipsa, nisi justificatio?
+<pb n="1069C"/>
+Sive igitur reconciliatio, sive remissio peccatorum,
+sive justificatio sit; sive etiam redemptio,
+vel liberatio de vinculis diaboli a quo captivi tenebamur
+ad ipsius voluntatem: intercedente morte
+Unigeniti obtinemus, justificati gratis in sanguine
+ipsius, <hi>in quo,</hi> sicut idem dicit, <hi>habemus redemptionem
+per sanguinem ejus et remissionem peccatorum,
+secundum divitias gratiae ejus <note>(Ephes. I, 7)</note>
+            </hi>. Cur, inquis,
+per sanguinem, quod potuit facere per sermonem?
+Ipsum interroga. Mihi scire licet quod ita:
+cur ita, non licet. Nunquid dicit figmentum ei qui
+se finxit: Quid me finxisti sic!</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Sed haec stultitia ei videntur: non potest
+tenere risum. Audite cachinnos. « Quomodo, »  ait,
+ « justificari nos vel reconciliari Deo per mortem
+<pb n="1069D"/>
+Filii ejus dicit Apostolus, qui tanto amplius adversus
+hominem irasci debuit, quanto amplius homines
+in crucifigendo Filium suum deliquerunt, quam in
+transgrediendo primum ejus praeceptum unius pomi
+gustu? »  Quasi non potuerit Deo in uno eodemque et
+facto displicere iniquitas malignantium, et placere
+pietas patientis. Et ait:  « Quod si tantum fuerat
+<pb n="1070A"/>
+illud Adae peccatum, ut expiari non posset nisi
+morte Christi, quam expiationem habebit ipsum
+homocidium, quod in Christo commissum est? » 
+Breviter respondemus, ipsum sanguinem quem fuderunt
+et interpellationem ipsius quem occiderunt.
+Addit etiam:  « Nunquid mors innocentis Filii in
+tantum Deo Patri placuit, ut per ipsam reconciliaretur
+nobis, qui hoc peccando commisimus, propter
+quod innocens Dominus est occisus: nec nisi hoc
+maximum fieret peccatum, illud multo levius potuit
+ignoscere? »  Non mors, sed voluntas placuit sponte
+morientis, et illa morte expungentis mortem operantis
+salutem, restituentis innocentiam, triumphantis
+principatus et potestates, spoliantis inferos,
+ditantis superos, pacificantis quae in coelo sunt et
+<pb n="1070B"/>
+quae in terra, omnia instaurantis. Et quoniam haec
+tam pretiosa mors, voluntarie suscipienda adversus
+peccatum, non tamen poterat fieri nisi per peccatum,
+non delectatus quidem, sed tamen bene usus malitia
+sceleratorum, et mortem de morte, et de peccato
+damnavit peccatum. Et quanto illorum major iniquitas,
+tanto ejus voluntas sanctior, et eo potentior,
+ad salvandum: quatenus tanta mediante potentia
+antiquum illud, quamvis grande peccatum, necessario
+tamen huic, quod in Christo, commissum est,
+cederet, tanquam minus majori. Nec peccato sive
+peccantibus ascribitur haec victoria; sed bene
+utenti peccato, et peccantes fortiter perferenti, et
+convertenti in usum pietatis, quidquid in ipsum
+ausa est crudelitas impiorum.
+<pb n="1070C"/>
+</p>
+          </div3>
+<div3>
+            <head>22. </head>
+            <p>
+Fuit vero sanguis qui effusus est, tam multus
+ad ignoscendum, ut ipsum quoque peccatum maximum,
+quo factum est, ut effunderetur, deleret; ac
+per hoc de antiqui illius, utpote levioris, deletione
+nullam omnino dubietatem relinqueret. Deinde iste.
+ « Cui vero, »  inquit,  « non crudele et iniquum videtur,
+ut sanguinem innocentis in pretium aliquod
+quis requisierit, ut ullo modo ei placuerit innocentem
+interfici; nedum Deus tam acceptam Filii mortem
+habuerit, ut per ipsam universo reconciliatus
+sit mundo? »  Non requisivit Deus Pater sanguinem
+Filii, sed tamen acceptavit oblatum; non sanguinem
+sitiens, sed salutem, quia salus erat in sanguine.
+Salus plane, et non, sicut iste sapit et scribit, sola
+charitatis ostensio. <emph>656</emph> Sic enim concludit tot calumnias
+<pb n="1070D"/>
+et invectiones suas, quas in Deum tam impie,
+quam imperite evomuit, ut dicat:  « Totum
+esse quod Deus in carne apparuit, nostram de verbo
+et exemplo ipsius institutionem, sive, et postmodum
+dicit, instructionem; totum quod passus et mortuus
+est, suae erga nos charitatis ostensionem vel commendationem.
+» 
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX. <hi>Christum venisse in mundum, non solius instructionis nostrae, sed et liberationis causa.</hi> </head>
+<div3>
+            <head>23.</head>
+            <p>
+ Caeterum quid prodest quod nos instituit, si
+<pb n="1071A"/>non restituit? Aut nunquid frustra instruimur, si
+non prius destruatur in nobis corpus peccati, ut
+ultra non serviamus peccato? Si omne quod profuit
+Christus, in sola fuit ostensione virtutum; restat ut
+dicatur, quod Adam quoque ex sola peccati ostensione
+nocuerit: siquidem pro qualitate vulneris allata
+est medicina. <hi>Sicut</hi> enim <hi>in Adam omnes moriuntur,
+ita et in Christo omnes vivificabuntur <note>(I Cor.
+XV, 22)</note>
+            </hi>. Ergo sicut hoc, ita et illud. Si vita, quam
+dat Christus, non est alia, quam institutio ejus; nec
+mors utique, quam dedit Adam, alia erit similiter
+<pb n="1071B"/>
+quam institutio ejus: ut ille quidem ad peccatum
+exemplo suo, hic vero exemplo et verbo ad bene vivendum,
+et se diligendum homines informarent. Aut
+si christianae fidei, et non haeresi Pelagianae acquiescentes,
+generatione, non institutione traductum in
+nos confitemur Adae peccatum, et per peccatum
+mortem; fateamur necesse est, et a Christo nobis,
+non institutione, sed regeneratione restitutam justitiam,
+et per justitiam vitam: <hi>ut sicut per unius
+delictum in omnes homines in condemnationem, sic
+et per unius justitiam in omnes homines in justificationem
+vitae <note>(Rom. V, 18)</note>
+            </hi>. Et si ita est, quomodo
+is dicit,  « consilium et causam incarnationis fuisse,
+ut mundum luce suae sapientiae illuminaret, et
+ad amorem suum accenderet. »  Ubi ergo redemptio?
+<pb n="1071C"/>
+A Christo nempe ut fateri dignatur, illuminatio et
+provocatio ad amorem: redemptio et liberatio a
+quo</p>
+          </div3>
+<div3>
+            <head>24.</head>
+            <p>
+ Esto quod Christi adventus illis prosit, qui
+se illi possunt conformare per vitam, et vicem ei
+dilectionis rependere: quid de parvulis? quam dabit
+lucem sapientiae vix adhuc captantibus lucem
+vitae? unde accendet [ <hi>al.</hi> ascendent] ad Dei amorem,
+qui necdum matres suas amare noverunt?
+Nihilne proderit eis adventus Christi? nihil quod
+complantati sunt similitudini mortis ejus per Baptismum,
+quoniam nondum possunt, prohibente
+aetate, Christum sapere aut amare?  « Redemptio
+itaque, »  ait,  « nostra est, illa summa in nobis per
+<pb n="1071D"/>
+Christi passionem dilectio. »  Ergo parvuli non habent
+redemptionem, quia non habent summam illam
+dilectionem. An sicut non habent unde diligant, ita
+nec unde pereant, ut non sit eis in Christo necessaria
+regeneratio, utpote quibus generatio ex Adam
+nihil nocuerit? Si hoc sapit, cum Pelagio desipit.
+Quidquid horum sentiat, patet quantum humanae
+sacramento salutis invideat; quantum, quod in ipso
+<pb n="1072A"/>
+est, evacuet alti dispensationem mysterii, qui totum
+de salute tribuit devotioni, regenerationi nihil: qui
+nostrae gloriam redemptionis, et summam salutis,
+non in virtute crucis, non in pretio sanguinis, sed
+in nostrae constituit conversationis profectibus. Mihi
+autem absit gloriari, nisi in cruce Domini nostri
+Jesu Christi <hi>(Galat, VI, 14)</hi>, in qua est salus, vita et
+resurrectio nostra.</p>
+          </div3>
+<div3>
+            <head>25.</head>
+            <p>
+ Et quidem tria quaedam praecipua in hoc
+opere nostrae salutis intueor: formam humilitatis,
+in qua Deus semetipsum exinanivit; charitatis mensuram,
+quam usque ad mortem, et mortem crucis
+extendit; redemptionis sacramentum, quo ipsam
+mortem, quam pertulit, sustulit. Horum duo priora
+sine ultimo sic <emph>657</emph> sunt, ac si super inane pingas.
+<pb n="1072B"/>
+Magnum profecto et valde necessarium humilitatis,
+magnum et omni acceptione dignum charitatis exemplum:
+sed non habent fundamentum, ac proinde
+nec statum, si desit redemptio. Volo totis nisibus
+humilem sequi Jesum; cupio eum qui dilexit me, et
+tradidit semetipsum pro me, quibusdam brachiis
+vicariae dilectionis amplecti: sed oportet me et Agnum
+manducare paschalem. Nisi enim manducavero
+carnem ejus, et bibero ejus sanguinem, non
+habebo vitam in memetipso. Aliud sequi Jesum,
+aliud tenere, aliud manducare. Sequi, salubre consilium;
+tenere et amplecti, solemne gaudium; manducare,
+vita beata. Caro enim ejus vere est cibus,
+et sanguis ejus vere est potus. Panis est Dei qui de
+coelo descendit, et dat vitam mundo <hi>(Joan. VI, 56,
+<pb n="1072C"/>
+33)</hi>. Quis status gaudio, sive consilio, absque vita?
+Nempe haud alius quam picturae absque solido.
+Ergo nec humilitatis exempla, nec charitatis insignia,
+praeter redemptionis sacramentum, sunt aliquid.</p>
+          </div3>
+<div3>
+            <head>26.</head>
+            <p>
+ Haec, Domine, Pater, de labore manuum
+pueri vestri qualiacunque tenetis, adversus pauca
+quidem novae haereseos capitula: ubi etsi non aliud
+quam zelum agnoscitis meum, tamen propriae interim
+conscientiae satisfeci. Nam cum non esset quod
+agerem pro injuria fidei quam dolebam; operae mihi
+pretium arbitror, si illum monui, cujus arma potentia
+a Deo ad destructionem contrariarum assertionum,
+ad destruendam omnem altitudinem extollentem
+<pb n="1072D"/>
+se adversus scientiam Dei, et in captivitatem
+redigendum omnem intellectum in obsequium Christi.
+Sunt et alia in aliis ejus scriptis non pauca,
+nec minus mala capitula, ad quae nec temporis, nec
+epistolae angustia respondere permittit. Quanquam
+nec necessarium putem, cum sint adeo manifesta,
+ut ipsa etiam vulgata fide facile refellantur. Collegi
+tamen aliqua, et transmisi.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>

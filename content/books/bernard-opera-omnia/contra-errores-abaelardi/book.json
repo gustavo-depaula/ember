@@ -1,0 +1,102 @@
+{
+  "id": "bernard-contra-errores-abaelardi",
+  "cover": "classic",
+  "name": {
+    "la": "Contra quaedam capitula errorum Abaelardi",
+    "en-US": "Against Certain Chapters of Abelard’s Errors",
+    "pt-BR": "Contra alguns capítulos dos erros de Abelardo"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Epistola Bernardi 190 seu tractatus ad Innocentium papam contra quaedam capitula errorum Abaelardi.",
+    "en-US": "Bernard’s Letter 190, the treatise sent to Pope Innocent II against nineteen propositions drawn from Abelard (on the Trinity, redemption, grace and the person of Christ). Mabillon moved it from the letters to the treatises. Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "pt-BR": "A carta 190 de Bernardo, o tratado enviado ao papa Inocêncio II contra proposições extraídas de Abelardo (sobre a Trindade, a redenção, a graça e a pessoa de Cristo)."
+  },
+  "composed": "1140",
+  "languages": [
+    "la"
+  ],
+  "work": "bernard/contra-errores-abaelardi",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/browser?path=/38/2268/6150",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 182 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), work 6150, from machine-corrected OCR.",
+      "description": "The complete text with Mabillon’s admonitio, chapter headings and summaries. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Impia Abaelardi de sancta Trinitate dogmata recenset, et explodit"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. In Trinitate non esse admittendam ullam disparitatem, sed omnimodam aequalitatem"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Absurdum dogma Abaelardi, nomina absoluta et essentialia uni personae proprie et specialiter attribuentis, oppugnat"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Refellit definitionem fidei, qua dicit Abaelardus fidem esse aestimationem"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Arguit Abaelardum, sua sensa aut somnia unanimi Patrum sententiae praeferentem; praesertim ubi dicit Christum non ideo incarnatum, ut hominem liberaret de potestate Satanae"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. In opere liberationis humanae non solum misericordiam, sed et justitiam relucere"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Abaelardum perstringit, impie ac temere Dei secreta scrutantem et extenuantem"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Quare Christus tam gravem ac laboriosum nos liberandi modum susceperit, cum sola ejus voluntas seu jussio sufficeret"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Christum venisse in mundum, non solius instructionis nostrae, sed et liberationis causa"
+      }
+    }
+  ]
+}
