@@ -1,0 +1,144 @@
+{
+  "id": "berulle-lettres",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Lettres",
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
+  },
+  "author": {
+    "fr-FR": "Cardinal Pierre de Bérulle",
+    "en-US": "Cardinal Pierre de Bérulle",
+    "pt-BR": "Cardeal Pierre de Bérulle"
+  },
+  "description": {
+    "fr-FR": "Les lettres de Bérulle imprimées par Migne : aux carmélites, aux Pères de l’Oratoire, à diverses personnes, sur le mariage d’Henriette de France, et des fragments.",
+    "en-US": "Bérulle’s letters as printed by Migne: to the Carmelite nuns, to the Fathers of the Oratory, to various people, on the marriage of Henrietta Maria, and fragments.",
+    "pt-BR": "As cartas de Bérulle impressas por Migne: às carmelitas, aos Padres do Oratório, a diversas pessoas, sobre o casamento de Henriqueta Maria, e fragmentos."
+  },
+  "composed": "1604–1629",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "berulle/lettres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescompl00br",
+      "edition": "Œuvres complètes du cardinal de Bérulle, éd. Migne, Paris, 1856 (reprint of Bourgoing’s 1644 collected edition); archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors, merged columns and some chapter openings the scan lost remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Bérulle died in 1629; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "carmelites-001-019",
+      "title": {
+        "fr-FR": "Aux religieuses carmélites, lettre 1–19"
+      }
+    },
+    {
+      "id": "carmelites-025-040",
+      "title": {
+        "fr-FR": "Aux religieuses carmélites, lettre 25–40"
+      }
+    },
+    {
+      "id": "carmelites-045-060",
+      "title": {
+        "fr-FR": "Aux religieuses carmélites, lettre 45–60"
+      }
+    },
+    {
+      "id": "carmelites-061-079",
+      "title": {
+        "fr-FR": "Aux religieuses carmélites, lettre 61–79"
+      }
+    },
+    {
+      "id": "carmelites-081-100",
+      "title": {
+        "fr-FR": "Aux religieuses carmélites, lettre 81–100"
+      }
+    },
+    {
+      "id": "carmelites-101-120",
+      "title": {
+        "fr-FR": "Aux religieuses carmélites, lettre 101–120"
+      }
+    },
+    {
+      "id": "carmelites-121-121",
+      "title": {
+        "fr-FR": "Aux religieuses carmélites, lettre 121"
+      }
+    },
+    {
+      "id": "oratoire-01",
+      "title": {
+        "fr-FR": "Aux Pères de l’Oratoire, partie 1"
+      }
+    },
+    {
+      "id": "oratoire-02",
+      "title": {
+        "fr-FR": "Aux Pères de l’Oratoire, partie 2"
+      }
+    },
+    {
+      "id": "oratoire-03",
+      "title": {
+        "fr-FR": "Aux Pères de l’Oratoire, partie 3"
+      }
+    },
+    {
+      "id": "diverses-01",
+      "title": {
+        "fr-FR": "À diverses personnes, partie 1"
+      }
+    },
+    {
+      "id": "diverses-02",
+      "title": {
+        "fr-FR": "À diverses personnes, partie 2"
+      }
+    },
+    {
+      "id": "diverses-03",
+      "title": {
+        "fr-FR": "À diverses personnes, partie 3"
+      }
+    },
+    {
+      "id": "diverses-04",
+      "title": {
+        "fr-FR": "À diverses personnes, partie 4"
+      }
+    },
+    {
+      "id": "diverses-05",
+      "title": {
+        "fr-FR": "À diverses personnes, partie 5"
+      }
+    },
+    {
+      "id": "mariage-henriette",
+      "title": {
+        "fr-FR": "Lettres relatives au mariage d’Henriette de France"
+      }
+    },
+    {
+      "id": "fragments",
+      "title": {
+        "fr-FR": "Fragments divers"
+      }
+    }
+  ]
+}
