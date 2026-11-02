@@ -1,0 +1,124 @@
+{
+  "id": "fenelon-jansenisme-reponses-bissy-saint-pons",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Jansénisme III : réponses à l’évêque de Meaux (Bissy), à un théologien et à l’évêque de Saint-Pons (1706)",
+    "en-US": "Jansenism III: Replies to the Bishop of Meaux (Bissy), to a Theologian and to the Bishop of Saint-Pons (1706)",
+    "pt-BR": "Jansenismo III: respostas ao bispo de Meaux (Bissy), a um teólogo e ao bispo de Saint-Pons (1706)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les réponses de Fénelon à Mgr de Bissy sur ses Instructions pastorales, la lettre à un théologien, et les deux réponses aux lettres de l’évêque de Saint-Pons sur le Silence respectueux (Paris, 1706), avec les lettres de ses contradicteurs que l’édition imprime à leur suite.",
+    "en-US": "Fénelon’s replies to Bishop de Bissy on his Pastoral Instructions, the letter to a theologian, and the two replies to the letters of the Bishop of Saint-Pons on Respectful Silence (Paris, 1706), with the letters of his opponents that the edition prints beside them.",
+    "pt-BR": "As respostas de Fénelon a dom de Bissy sobre suas Instruções pastorais, a carta a um teólogo e as duas respostas às cartas do bispo de Saint-Pons sobre o Silêncio respeitoso (Paris, 1706), com as cartas de seus contraditores que a edição imprime ao lado."
+  },
+  "composed": "1706",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/reponses-a-bissy-et-saint-pons",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte04fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 4, p. 338–449; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-reponses-a-un-eveque",
+      "title": {
+        "fr-FR": "Réponses de M. l’archevêque de Cambrai à un évêque (M. de Bissy)"
+      },
+      "children": [
+        {
+          "id": "01-reponses-a-un-eveque-01",
+          "title": {
+            "fr-FR": "Réponses de M. l’archevêque de Cambrai à un évêque (M. de Bissy), partie 1"
+          }
+        },
+        {
+          "id": "01-reponses-a-un-eveque-02",
+          "title": {
+            "fr-FR": "Réponses de M. l’archevêque de Cambrai à un évêque (M. de Bissy), partie 2"
+          }
+        },
+        {
+          "id": "01-reponses-a-un-eveque-03",
+          "title": {
+            "fr-FR": "Réponses de M. l’archevêque de Cambrai à un évêque (M. de Bissy), partie 3"
+          }
+        },
+        {
+          "id": "01-reponses-a-un-eveque-04",
+          "title": {
+            "fr-FR": "Réponses de M. l’archevêque de Cambrai à un évêque (M. de Bissy), partie 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-lettre-a-un-theologien",
+      "title": {
+        "fr-FR": "Lettre à un théologien au sujet de ses Instructions pastorales"
+      }
+    },
+    {
+      "id": "03-reponses-saint-pons",
+      "title": {
+        "fr-FR": "Réponses à deux lettres de l’évêque de Saint-Pons sur le Silence respectueux"
+      },
+      "children": [
+        {
+          "id": "03-reponses-saint-pons-01",
+          "title": {
+            "fr-FR": "Réponses à deux lettres de l’évêque de Saint-Pons sur le Silence respectueux, partie 1"
+          }
+        },
+        {
+          "id": "03-reponses-saint-pons-02",
+          "title": {
+            "fr-FR": "Réponses à deux lettres de l’évêque de Saint-Pons sur le Silence respectueux, partie 2"
+          }
+        },
+        {
+          "id": "03-reponses-saint-pons-03",
+          "title": {
+            "fr-FR": "Réponses à deux lettres de l’évêque de Saint-Pons sur le Silence respectueux, partie 3"
+          }
+        },
+        {
+          "id": "03-reponses-saint-pons-04",
+          "title": {
+            "fr-FR": "Réponses à deux lettres de l’évêque de Saint-Pons sur le Silence respectueux, partie 4"
+          }
+        },
+        {
+          "id": "03-reponses-saint-pons-05",
+          "title": {
+            "fr-FR": "Réponses à deux lettres de l’évêque de Saint-Pons sur le Silence respectueux, partie 5"
+          }
+        },
+        {
+          "id": "03-reponses-saint-pons-06",
+          "title": {
+            "fr-FR": "Réponses à deux lettres de l’évêque de Saint-Pons sur le Silence respectueux, partie 6"
+          }
+        }
+      ]
+    }
+  ]
+}
