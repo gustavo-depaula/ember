@@ -1,0 +1,718 @@
+{
+  "id": "richard-benjamin-major",
+  "cover": "classic",
+  "name": {
+    "la": "Benjamin major (De gratia contemplationis)",
+    "en-US": "Benjamin Major: The Mystical Ark",
+    "pt-BR": "Benjamin maior: a arca mística"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "Benjamin major, sive De gratia contemplationis, in quinque libris: arca mystica et sex genera contemplationis.",
+    "en-US": "Richard’s Grace of Contemplation in five books: the ark of the covenant as the figure of contemplation, its six kinds and the ecstasy of the mind above itself. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "A Graça da contemplação de Ricardo em cinco livros: a arca da aliança como figura da contemplação, os seus seis gêneros e o êxtase do espírito acima de si mesmo."
+  },
+  "composed": "c. 1153-1162",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/benjamin-major",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.BenMaj",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.BenMaj, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "Liber primus"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "Caput primum. De contemplatione ejusque commendatione."
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "Caput II. Quod sit utilis, vel grata haec gratia proficientibus in ea."
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Caput III. De contemplationis proprietate, vel in quo differat a meditatione, vel cogitatione."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Caput IV. Definitio singulorum, contemplationis, meditationis, cogitationis."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Caput V. Quod contemplationis modus multiformiter agitur."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Caput VI. Quot sint vel quae contemplationis genera."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Caput VII Quae, quibus sint communia."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Caput VIII. Quae sint singulorum propria."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Caput IX. Qua sibi quaeque proportione respondeant, vel quomodo invicem permiscere soleant."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Caput X. Quod vix soli perfecti ad omnia sex contemplationum genera proficiunt."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Caput XI. Quomodo prima quatuor contemplationum genera mystice describantur."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Caput XII. Quomodo novissima duo contemplationum genera mystice designentur."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Liber secundus"
+      },
+      "children": [
+        {
+          "id": "c013",
+          "title": {
+            "la": "Caput primum. Primum contemplationis genus consistit in consideratione et admiratione rerum visibilium."
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Caput II. Quod sit copiosa hujus contemplationis materia, vel quomodo philosophi se exercuerunt in ea."
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Caput III. De triplici distinctione primae speculationis."
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Caput IV. Quod primus gradus hujus speculationis consideratur in materia, forma et natura."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Caput V Quod secundus gradus consideratur in operatione naturae et industriae."
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Caput VI. Quod tertius hujus speculationis gradus consistat tam in humanis quam in divinis constitutionibus."
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Caput VII. Quod secundum contemplationis genus constat in consideranda et admiranda rerum visibilium ratione"
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Caput VIII. Quam sit copiosa hujus contemplationis materia."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Caput IX. Quomodo philosophi se in hujus contemplationis materia exercuerint."
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Caput X. De distinctione secundae contemplationis."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Caput XI. De proprietate secundae contemplationis."
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Caput XII. De tertio contemplationis genere."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Caput XIII. Quomodo in hoc contemplationis genere incipiat homo fieri spiritualis."
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Caput XIV. De distinctione eorum quae ad hanc speculationem pertinent."
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Caput XV. Quod hoc contemplationis genus recte in quinque gradus dividitur."
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Caput XVI. Quod illa quae ad hanc speculationem pertinent aliter adhuc distingui possunt."
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Caput XVII. Quod in hac speculatione corporeae similitudinis manuductione utimur."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Caput XVIII. Quod hoc contemplationis genus constat in ratione secundum imaginationem."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Caput XIX. Quomodo ad permissionem, vel operationem Dei pertineat quidquid radius contemplationis perlustrat."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Caput XX. Quod Dei sapientia, cum sit simplex et una, diversis considerationibus in contemplationem adducitur, et modo scientia, modo praescientia, modo dispositio vel praedestinatio nominatur."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Caput XXI. Quod divina sapientia secundum diversos contemplationis modos in quibusdam videatur mirabilior, in quibusdam jucundior."
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Caput XXII. In qua speculatione divina praescientia, vel scientia appareat mirabilior."
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Caput XXIII. In qua speculatione divina praedestinatio appareat jucundior."
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Caput XXIV. In qua rerum speculatione soleat divina dispositio jucundior apparere."
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Caput XXV. Quod contemplationis spectaculum semper comitari debent magna admiratio et ingens exsultatio."
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Caput XXVI. Quod secundum modum admirationis et exsultationis variatur modus contemplationis."
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Caput XXVII. Quod in omni rerum mutabilium contemplatione necesse sit divinae sapientiae considerationi inhaerere."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Liber tertius"
+      },
+      "children": [
+        {
+          "id": "c040",
+          "title": {
+            "la": "Caput primum. De materia quartae contemplationis ejusque proprietate."
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Caput II. Quomodo differat, vel quantum emineat hoc contemplationis genus primo vel secundo."
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Caput III. Item quomodo differat, vel superemineat secundo."
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Caput IV. Quomodo differat, vel quantum superemineat tertio."
+          }
+        },
+        {
+          "id": "c044",
+          "title": {
+            "la": "Caput V. Quantum valeat fortiter insistere huic contemplationi, vel quomodo ad ipsam proficiat mens ex multa consideratione et cognitione sui."
+          }
+        },
+        {
+          "id": "c045",
+          "title": {
+            "la": "Caput VI. Quomodo ex speculatione sui spiritualium intelligentia comparatur, seu etiam amissa reparatur."
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Caput VII. Quomodo ex speculatione sui accepta intelligentia ad omnia dilatatur."
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Caput VIII. De sensu triplici, per quos discurrere habet consideratio sui."
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Caput IX. De sensu intellectuali, quo solo possunt invisibilia videri."
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Caput X. De intellectuali specula, ejusque supereminentia."
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Caput XI. De triplici distinctione quartae speculationis."
+          }
+        },
+        {
+          "id": "c051",
+          "title": {
+            "la": "Caput XII. De subdistinctione primi gradus hujus contemplationis."
+          }
+        },
+        {
+          "id": "c052",
+          "title": {
+            "la": "Caput XIII. Quomodo in primo hujus contemplationis gradu meus exercere se debeat, vel quantum ejusmodi exercitatio valeat."
+          }
+        },
+        {
+          "id": "c053",
+          "title": {
+            "la": "Caput XIV. Designatio eorum, quae in hoc speculationis gradu comprehendi non possunt."
+          }
+        },
+        {
+          "id": "c054",
+          "title": {
+            "la": "Caput XV. Quod nec illa negligere debemus, quae nonnisi ex parte comprehendimus."
+          }
+        },
+        {
+          "id": "c055",
+          "title": {
+            "la": "Caput XVI. De subdistinctione secundi gradus contemplationis."
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Caput XVII. Quod quaedam similiter in secundo hujus contemplationis gradu sunt, quae comprehendi non possunt."
+          }
+        },
+        {
+          "id": "c057",
+          "title": {
+            "la": "Caput XVIII. De prima et secunda distinctione hujus contemplationis, earumque differentia."
+          }
+        },
+        {
+          "id": "c058",
+          "title": {
+            "la": "Caput XIX. Quod nullo sensu nostro comprehendi valeant quae ad tertiam diffinitionem spectant."
+          }
+        },
+        {
+          "id": "c059",
+          "title": {
+            "la": "Caput XX. Quomodo hoc contemplationis genus possit in quinque gradus dividi, et quae pertineant ad primum gradum."
+          }
+        },
+        {
+          "id": "c060",
+          "title": {
+            "la": "Caput XXI. De consideratione eorum quae pertinent ad secundum gradum."
+          }
+        },
+        {
+          "id": "c061",
+          "title": {
+            "la": "Caput XXII. De consideratione eorum quae pertinent ad gradum tertium."
+          }
+        },
+        {
+          "id": "c062",
+          "title": {
+            "la": "Caput XXIII. De consideratione eorum quae pertinent ad gradum quartum."
+          }
+        },
+        {
+          "id": "c063",
+          "title": {
+            "la": "Caput XXIV. De consideratione eorum quae pertinent ad gradum quintum."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Liber quartus"
+      },
+      "children": [
+        {
+          "id": "c064",
+          "title": {
+            "la": "Caput primum. De quinto et sexto contemplationum generibus."
+          }
+        },
+        {
+          "id": "c065",
+          "title": {
+            "la": "Caput II. Quod rationem humanam excedant, quae ad has novissimas speculationes spectant."
+          }
+        },
+        {
+          "id": "c066",
+          "title": {
+            "la": "Caput III. Quod ea quae supra rationem sunt, gemina distributione distingui possunt, et quae cui generi subsunt."
+          }
+        },
+        {
+          "id": "c067",
+          "title": {
+            "la": "Caput IV. Quod sint aliena ab omni imaginatione quae pertinent ad haec contemplationum genera."
+          }
+        },
+        {
+          "id": "c068",
+          "title": {
+            "la": "Caput V. Quae sit supereminentia harum novissimarum contemplationum."
+          }
+        },
+        {
+          "id": "c069",
+          "title": {
+            "la": "Caput VI. Quod sit arduum, vel difficile in haec novissima contemplationum genera gratiam sibi comparare."
+          }
+        },
+        {
+          "id": "c070",
+          "title": {
+            "la": "Caput VII. Quod frustra homo ad hos theoricos excessus nititur, nisi divinis revelationibus adjuvetur."
+          }
+        },
+        {
+          "id": "c071",
+          "title": {
+            "la": "Caput VIII. Quod quintum contemplationis genus similitudinum rationem admittit, sextum vero totius similitudinis proprietatem excedit."
+          }
+        },
+        {
+          "id": "c072",
+          "title": {
+            "la": "Caput IX. Quomodo per haec duo contemplationum genera temperatur cuigue amor, et approbatio sui."
+          }
+        },
+        {
+          "id": "c073",
+          "title": {
+            "la": "Caput X. Cum quanta animi aviditate debeant, vel soleant spirituales viri his novissimis contemplationum generibus inhiare."
+          }
+        },
+        {
+          "id": "c074",
+          "title": {
+            "la": "Caput XI. Quomodo post multam desiderii sui fatigationem alii soleant, alii non soleant ex visitante gratia super semetipsos levari."
+          }
+        },
+        {
+          "id": "c075",
+          "title": {
+            "la": "Caput XII. Quod ea quae per excessum mentis solent videri, alia possunt, alia omnino non possunt ad communem intelligentiam inclinari."
+          }
+        },
+        {
+          "id": "c076",
+          "title": {
+            "la": "Caput XIII. Quod omni hora anima sancta et contemplativa ad susceptionem gratiae debeat esse parata."
+          }
+        },
+        {
+          "id": "c077",
+          "title": {
+            "la": "Caput XIV. Quam sit paucorum, ad susceptionem gratiae animum semper habere paratum."
+          }
+        },
+        {
+          "id": "c078",
+          "title": {
+            "la": "Caput XV. Quod sit arduum, vel difficile, cuivis perfectae animae seipsam ad semetipsam totam colligere, et in solo Divinitatis desiderio requiescere."
+          }
+        },
+        {
+          "id": "c079",
+          "title": {
+            "la": "Caput XVI. Quum sit pene impossibile cuivis animae seipsam extra semetipsam totam effundere, et supra semetipsam ire."
+          }
+        },
+        {
+          "id": "c080",
+          "title": {
+            "la": "Caput XVII. De his quae specialiter pertinent ad quintum genus contemplationis."
+          }
+        },
+        {
+          "id": "c081",
+          "title": {
+            "la": "Caput XVIII. De his quae specialiter pertinent ad sextum genus contemplationis."
+          }
+        },
+        {
+          "id": "c082",
+          "title": {
+            "la": "Caput XIX. De mutua collatione duarum novissimarum speculationum."
+          }
+        },
+        {
+          "id": "c083",
+          "title": {
+            "la": "Caput XX. De mutua collatione trium novissimarum speculationum."
+          }
+        },
+        {
+          "id": "c084",
+          "title": {
+            "la": "Caput XXI. Quod frequentationem trium novissimarum speculationum semper comitetur frequentia divinarum revelationum."
+          }
+        },
+        {
+          "id": "c085",
+          "title": {
+            "la": "Caput XXII. Quod in omni contemplationis genere contingit contemplantem mente excedere."
+          }
+        },
+        {
+          "id": "c086",
+          "title": {
+            "la": "Caput XXIII. Quod excedendi donum alii fortuitum habent, alii tam quasi ex virtute possident."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "Liber quintus"
+      },
+      "children": [
+        {
+          "id": "c087",
+          "title": {
+            "la": "Caput primum. Quod tribus modis in gratiam contemplationis proficimus."
+          }
+        },
+        {
+          "id": "c088",
+          "title": {
+            "la": "Caput II. Quibus modis soleat omnis contemplatio contingere, mentis videlicet dilatatione, mentis sublevatione, mentis alienatione."
+          }
+        },
+        {
+          "id": "c089",
+          "title": {
+            "la": "Caput III. De mentis dilatatione, quibus modis soleat accrescere."
+          }
+        },
+        {
+          "id": "c090",
+          "title": {
+            "la": "Caput IV. De mentis sublevatione, quibus soleat gradibus assurgere."
+          }
+        },
+        {
+          "id": "c091",
+          "title": {
+            "la": "Caput V. Quod triplici ex causa fieri soleat humanae mentis excessus."
+          }
+        },
+        {
+          "id": "c092",
+          "title": {
+            "la": "Caput VI. Quod primus excedendi modus surgat ex magnitudine devotionis."
+          }
+        },
+        {
+          "id": "c093",
+          "title": {
+            "la": "Caput VII. Quod primus excedendi modus, quandoque fiat ex sola ferventis desiderii exaestuatione."
+          }
+        },
+        {
+          "id": "c094",
+          "title": {
+            "la": "Caput VIII. Quod primus excedendi modus, quandoque fiat, tam exaestuanti devotione, quam ex adjuncta sibi divina revelatione."
+          }
+        },
+        {
+          "id": "c095",
+          "title": {
+            "la": "Caput IX. Quod secundus excedendi modus fieri soleat ex magnitudine admirationis."
+          }
+        },
+        {
+          "id": "c096",
+          "title": {
+            "la": "Caput X. Quod secundus excedendi modus quandoque a sola admiratione incipit, et in ferventissimum devotionis desiderium desinit."
+          }
+        },
+        {
+          "id": "c097",
+          "title": {
+            "la": "Caput XI. Quod secundus excedendi modus, quandoque a sola admiratione inchoat, et in eodem tenore perseverat."
+          }
+        },
+        {
+          "id": "c098",
+          "title": {
+            "la": "Caput XII. Quod in secundo excedendi modo, quandoque divina revelatio nostrae meditationi occurrit."
+          }
+        },
+        {
+          "id": "c099",
+          "title": {
+            "la": "Caput XIII. Quod in secundo excedendi modo, divina revelatio quandoque etiam nostram meditationem praevenit."
+          }
+        },
+        {
+          "id": "c100",
+          "title": {
+            "la": "Caput XIV. Quod tertius excedendi modus fieri soleat ex magnitudine jucunditatis."
+          }
+        },
+        {
+          "id": "c101",
+          "title": {
+            "la": "Caput XV. Quod quilibet mentis excessus humanae industriae vel meriti modum excedit."
+          }
+        },
+        {
+          "id": "c102",
+          "title": {
+            "la": "Caput XVI. Quod in tertio maxime excedendi modo totum pendet ex divino beneficio."
+          }
+        },
+        {
+          "id": "c103",
+          "title": {
+            "la": "Caput XVII. Qui ad hunc tertium ejusmodi gratiae gradum profecerit, unde in idipsum adjuvari possit."
+          }
+        },
+        {
+          "id": "c104",
+          "title": {
+            "la": "Caput XVIII. Quid maxime soleat valere ad innovationem ejusmodi gratiae."
+          }
+        },
+        {
+          "id": "c105",
+          "title": {
+            "la": "Caput XIX. Quibus gradibus excrescat humanae mentis excessus."
+          }
+        },
+        {
+          "id": "c106",
+          "title": {
+            "la": "Nonnullae allegoriae tabernaculi foederis Cum recapitulatione brevissima contentorum in praefato opere de gratia contemplationis."
+          }
+        }
+      ]
+    }
+  ]
+}
