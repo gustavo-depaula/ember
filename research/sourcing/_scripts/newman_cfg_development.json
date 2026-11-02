@@ -1,0 +1,81 @@
+{
+ "slug": "development-of-christian-doctrine",
+ "id": "newman-development-of-christian-doctrine",
+ "name": "An Essay on the Development of Christian Doctrine",
+ "name_pt": "Ensaio sobre o Desenvolvimento da Doutrina Cristã",
+ "desc": "Newman's essay, begun as an Anglican in 1844 and finished on the eve of his reception into the Church in 1845, in the revised edition of 1878. It asks how the Christianity of the first centuries relates to the Catholic Church of later ages, proposes that ideas develop, sets out seven notes to tell a true development from a corruption, and applies them to doctrine, worship and discipline.",
+ "desc_pt": "O ensaio de Newman, iniciado como anglicano em 1844 e concluído às vésperas de sua recepção na Igreja em 1845, na edição revista de 1878. Pergunta como o cristianismo dos primeiros séculos se relaciona com a Igreja católica das épocas seguintes, propõe que as ideias se desenvolvem, apresenta sete notas para distinguir o desenvolvimento verdadeiro da corrupção e as aplica à doutrina, ao culto e à disciplina.",
+ "composed": "1845 (revised 1878)",
+ "editor": "John Henry Newman (revised edition of 1878; Newman Reader follows the Longmans fourteenth impression, 1909)",
+ "year": 1878,
+ "index": "development/index.html",
+ "edition": "An Essay on the Development of Christian Doctrine, new edition (London: Longmans, Green, 1878), as transcribed by the Newman Reader from the Longmans fourteenth impression of 1909.",
+ "note": "Chapter 6 joins three Newman Reader pages. The first edition of 1845 is a distinct text and is not included.",
+ "chapters": [
+  [
+   "development/introduction.html",
+   "introduction",
+   null
+  ],
+  [
+   "development/chapter1.html",
+   "chapter-1",
+   null
+  ],
+  [
+   "development/chapter2.html",
+   "chapter-2",
+   null
+  ],
+  [
+   "development/chapter3.html",
+   "chapter-3",
+   null
+  ],
+  [
+   "development/chapter4.html",
+   "chapter-4",
+   null
+  ],
+  [
+   "development/chapter5.html",
+   "chapter-5",
+   null
+  ],
+  [
+   "development/chapter6-1.html+development/chapter6-2.html+development/chapter6-3.html",
+   "chapter-6",
+   "Chapter 6. Application of the Seven Notes to the Existing Developments of Christian Doctrine"
+  ],
+  [
+   "development/chapter7.html",
+   "chapter-7",
+   null
+  ],
+  [
+   "development/chapter8.html",
+   "chapter-8",
+   null
+  ],
+  [
+   "development/chapter9.html",
+   "chapter-9",
+   null
+  ],
+  [
+   "development/chapter10.html",
+   "chapter-10",
+   null
+  ],
+  [
+   "development/chapter11.html",
+   "chapter-11",
+   null
+  ],
+  [
+   "development/chapter12.html",
+   "chapter-12",
+   null
+  ]
+ ]
+}

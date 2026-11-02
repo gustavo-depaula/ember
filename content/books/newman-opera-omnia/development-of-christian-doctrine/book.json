@@ -1,0 +1,117 @@
+{
+  "id": "newman-development-of-christian-doctrine",
+  "cover": "classic",
+  "name": {
+    "en-US": "An Essay on the Development of Christian Doctrine",
+    "pt-BR": "Ensaio sobre o Desenvolvimento da Doutrina Cristã"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's essay, begun as an Anglican in 1844 and finished on the eve of his reception into the Church in 1845, in the revised edition of 1878. It asks how the Christianity of the first centuries relates to the Catholic Church of later ages, proposes that ideas develop, sets out seven notes to tell a true development from a corruption, and applies them to doctrine, worship and discipline.",
+    "pt-BR": "O ensaio de Newman, iniciado como anglicano em 1844 e concluído às vésperas de sua recepção na Igreja em 1845, na edição revista de 1878. Pergunta como o cristianismo dos primeiros séculos se relaciona com a Igreja católica das épocas seguintes, propõe que as ideias se desenvolvem, apresenta sete notas para distinguir o desenvolvimento verdadeiro da corrupção e as aplica à doutrina, ao culto e à disciplina."
+  },
+  "composed": "1845 (revised 1878)",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/development-of-christian-doctrine",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (revised edition of 1878; Newman Reader follows the Longmans fourteenth impression, 1909)",
+      "year": 1878
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/development/index.html",
+      "edition": "An Essay on the Development of Christian Doctrine, new edition (London: Longmans, Green, 1878), as transcribed by the Newman Reader from the Longmans fourteenth impression of 1909.",
+      "description": "13 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Chapter 6 joins three Newman Reader pages. The first edition of 1845 is a distinct text and is not included. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter 1. On the Development of Ideas"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter 2. On the Antecedent Argument in behalf of Developments in Christian Doctrine"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter 3. On the Historical Argument in behalf of the Existing Developments"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter 4. Instances in Illustration"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter 5. Genuine Developments Contrasted with Corruptions"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter 6. Application of the Seven Notes to the Existing Developments of Christian Doctrine"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter 7. Application of the Second Note of a True Development—Continuity of Principles"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter 8. Application of the Third Note of a True Development—Assimilative Power"
+      }
+    },
+    {
+      "id": "chapter-9",
+      "title": {
+        "en-US": "Chapter 9. Application of the Fourth Note of a True Development—Logical Sequence"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Chapter 10. Application of the Fifth Note of a True Development—Anticipation of Its Future"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Chapter 11. Application of the Sixth Note of a True Development—Conservative Action on Its Past"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Chapter 12. Application of the Seventh Note of a True Development—Chronic Vigour"
+      }
+    }
+  ]
+}
