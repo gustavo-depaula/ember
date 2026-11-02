@@ -5,7 +5,7 @@ ORDN = {'PRIMUS': 1, 'SECUNDUS': 2, 'TERTIUS': 3, 'QUARTUS': 4, 'QUINTUS': 5, 'S
 CAPN = {'PRIMUM': 'I'}
 LIB = re.compile(r'^(?:INCIPIT\s+)?(?:LIBER|Liber)\s+(PRIMUS|SECUNDUS|TERTIUS|QUARTUS|QUINTUS|SEXTUS|SEPTIMUS|primus|secundus|tertius|quartus|quintus|sextus|septimus)\b.*$')
 CAP = re.compile(r'^(?:CAPUT|CAP\.)\s+([IVXLC]+|PRIMUM|\d+)\b\.?\s*(.*)$')
-SUB = re.compile(r'^(PRAEFATIO|Praefatio|PROLOGUS|Prologus|PROOEMIUM|EPISTOLA[^\n]*|ARGUMENTUM[^\n]*|INCIPIT (?:LIBER|EXPOSITIO)\.?|Explicit[^\n]*)\.?\s*(?:AD [A-Z ,]+)?\.?$')
+SUB = re.compile(r'^(PRAEFATIO|Praefatio|PROLOGUS|Prologus|PROOEMIUM|EPISTOLA[^\n]*|ARGUMENTUM[^\n]*|EPIGRAMMA[^\n]*|INCIPIT (?:LIBER|EXPOSITIO)\.?|Explicit[^\n]*)\.?\s*(?:AD [A-Z ,]+)?\.?$')
 def units(text, restart=False, label='Liber'):
     """text -> list of (title, [md blocks]); units cut at LIBER lines (or at a CAPUT PRIMUM restart)."""
     cur = ('Praefatio', []); out = [cur]; seen_cap = 0; n = 0
@@ -37,8 +37,7 @@ def units(text, restart=False, label='Liber'):
     return out
 def tcase2(s):
     s = s.rstrip('.').strip()
-    return s[:1].upper() + s[1:].lower() if s.isupper() else s
-def build(srcs, restart=False):
+XXf build(srcs, restart=False):
     """srcs: list of (ws name, unit title or None). Returns (toc, chapters, rawtext)."""
     toc = []; chs = {}; raw = []
     k = 0
@@ -119,6 +118,10 @@ BOOKS = [
   'Super septem epistolas catholicas expositio.',
   "Bede's exposition of the seven Catholic Epistles (James, 1-2 Peter, 1-3 John, Jude).",
   'A exposição de Beda às sete Epístolas Católicas (Tiago, 1-2 Pedro, 1-3 João, Judas).'),
+ ('apocalypsis', 'bede-explanatio-apocalypsis', 'explanatio-apocalypsis', [('Explanatio_Apocalypsis', None)], 'Explanatio Apocalypsis', 'Explanation of the Apocalypse', 'Explicação do Apocalipse', 'c. 703-716',
+  'Explanatio Apocalypsis libris tribus, cum epistola ad Eusebium (Hwaetberhtum) et epigrammate de Ioanne.',
+  "Bede's three-book exposition of the Apocalypse of St. John, written for Abbot Eusebius (Hwaetberht) of Wearmouth-Jarrow, following Primasius and Tyconius and reading the book as the history of the Church.",
+  'A exposição de Beda ao Apocalipse de São João, em três livros, escrita para o abade Eusébio (Hwaetberht) de Wearmouth-Jarrow, seguindo Primásio e Ticônio e lendo o livro como história da Igreja.'),
 ]
 if __name__ == '__main__':
     only = sys.argv[1:]
