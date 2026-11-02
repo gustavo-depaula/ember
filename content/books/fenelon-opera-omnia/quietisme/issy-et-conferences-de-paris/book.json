@@ -1,0 +1,124 @@
+{
+  "id": "fenelon-quietisme-issy-conferences",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Querelle du quiétisme I : Issy, Molinos et les conférences de Paris (1694-1697)",
+    "en-US": "The Quietism Dispute I: Issy, Molinos and the Paris Conferences (1694-1697)",
+    "pt-BR": "Querela do quietismo I: Issy, Molinos e as conferências de Paris (1694-1697)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les premières pièces de Fénelon dans la querelle du quiétisme : sa déclaration et ses mémoires pendant les conférences d’Issy (1694-1695), l’explication et la réfutation des 68 propositions de Molinos condamnées par Innocent XI, puis ses mémoires, éclaircissemens et réponses sur le livre des Maximes des saints adressés aux évêques de Paris, de Chartres et de Meaux (1697). Ces écrits défendent un livre que le bref d’Innocent XII (1699) a condamné.",
+    "en-US": "Fénelon’s first pieces in the Quietism dispute: his declaration and memoranda during the Issy conferences (1694-1695), the explanation and refutation of the 68 propositions of Molinos condemned by Innocent XI, then his memoranda, clarifications and replies on the book of the Maxims of the Saints addressed to the bishops of Paris, Chartres and Meaux (1697). These writings defend a book that Innocent XII’s brief (1699) condemned.",
+    "pt-BR": "As primeiras peças de Fénelon na querela do quietismo: sua declaração e memoriais durante as conferências de Issy (1694-1695), a explicação e refutação das 68 proposições de Molinos condenadas por Inocêncio XI, depois seus memoriais, esclarecimentos e respostas sobre o livro das Máximas dos santos dirigidos aos bispos de Paris, Chartres e Meaux (1697). Esses escritos defendem um livro que o breve de Inocêncio XII (1699) condenou."
+  },
+  "composed": "1694–1697",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/issy-et-conferences-de-paris",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1848
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Livre:Œuvres_complètes_de_Fénelon_(1848-1852),_tome_2.djvu",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1848-1852 (éd. Gosselin, Saint-Sulpice), tome 2, p. 223–285; text layer of the Wikimedia Commons djvu scan.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1848-52 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-pieces-d-issy",
+      "title": {
+        "fr-FR": "Pièces relatives aux conférences d’Issy (1694-1695)"
+      }
+    },
+    {
+      "id": "02-propositions-de-molinos",
+      "title": {
+        "fr-FR": "Explication et réfutation des LXVIII propositions de Molinos"
+      },
+      "children": [
+        {
+          "id": "02-propositions-de-molinos-01",
+          "title": {
+            "fr-FR": "Explication et réfutation des LXVIII propositions de Molinos, partie 1"
+          }
+        },
+        {
+          "id": "02-propositions-de-molinos-02",
+          "title": {
+            "fr-FR": "Explication et réfutation des LXVIII propositions de Molinos, partie 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03-refus-d-approbation",
+      "title": {
+        "fr-FR": "Mémoire sur le refus d’approuver l’Instruction de M. de Meaux sur les états d’oraison"
+      }
+    },
+    {
+      "id": "04-vingt-questions-paris",
+      "title": {
+        "fr-FR": "Vingt questions proposées à l’archevêque de Paris"
+      }
+    },
+    {
+      "id": "05-memoire-nouvel-examen",
+      "title": {
+        "fr-FR": "Mémoire sur le projet d’examiner de nouveau le livre des Maximes"
+      }
+    },
+    {
+      "id": "06-eclaircissements-chartres",
+      "title": {
+        "fr-FR": "Éclaircissemens adressés à l’évêque de Chartres sur le livre des Maximes"
+      },
+      "children": [
+        {
+          "id": "06-eclaircissements-chartres-01",
+          "title": {
+            "fr-FR": "Éclaircissemens adressés à l’évêque de Chartres sur le livre des Maximes, partie 1"
+          }
+        },
+        {
+          "id": "06-eclaircissements-chartres-02",
+          "title": {
+            "fr-FR": "Éclaircissemens adressés à l’évêque de Chartres sur le livre des Maximes, partie 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "07-eclaircissements-questions",
+      "title": {
+        "fr-FR": "Éclaircissemens en forme de questions sur la doctrine du livre des Maximes"
+      }
+    },
+    {
+      "id": "08-reponse-difficultes-paris",
+      "title": {
+        "fr-FR": "Réponse aux difficultés de l’archevêque de Paris (conférence du 18 juillet 1697)"
+      }
+    },
+    {
+      "id": "09-lettres-a-un-ami",
+      "title": {
+        "fr-FR": "Lettres à un ami (1697)"
+      }
+    }
+  ]
+}
