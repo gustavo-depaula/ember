@@ -1,0 +1,252 @@
+{
+  "id": "canisius-summa-garnet",
+  "cover": "label",
+  "name": {
+    "en-US": "A Summe of Christian Doctrine",
+    "pt-BR": "Suma da Doutrina Cristã"
+  },
+  "author": {
+    "en-US": "Peter Canisius, translated by Henry Garnet",
+    "pt-BR": "Pedro Canísio, traduzido por Henry Garnet"
+  },
+  "description": {
+    "en-US": "Henry Garnet's English translation (London, secret press, c. 1592-96) of St Peter Canisius's Summa doctrinae christianae, the great catechism of the Counter-Reformation: five chapters on faith (the Creed), hope (the Our Father and Hail Mary), charity (the Commandments and precepts of the Church), the sacraments and Christian justice, with an appendix on the fall of man and justification, and the translator's exposition of hallowed creatures, pilgrimage and indulgences. In the original spelling, with the marginal references as notes.",
+    "pt-BR": "A tradução inglesa de Henry Garnet (Londres, prensa clandestina, c. 1592-96) da Summa doctrinae christianae de São Pedro Canísio, o grande catecismo da Contrarreforma: cinco capítulos sobre a fé (o Credo), a esperança (o Pai-Nosso e a Ave-Maria), a caridade (os mandamentos e os preceitos da Igreja), os sacramentos e a justiça cristã, com um apêndice sobre a queda do homem e a justificação, e a exposição do tradutor sobre as criaturas bentas, a peregrinação e as indulgências. Na grafia original, com as referências marginais em notas."
+  },
+  "composed": 1555,
+  "languages": [
+    "en-US"
+  ],
+  "work": "canisius/summa-doctrinae-christianae",
+  "editions": {
+    "en-US": {
+      "translator": "Henry Garnet",
+      "year": 1592
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A69066",
+      "description": "EEBO-TCP Phase II A69066, 'A summe of Christian doctrine' (STC 4553 et al.), keyed from ProQuest page images; CC0 1.0 Public Domain Dedication. Tier A: a 1590s text. Early-modern spelling kept (long s as s; u/v and i/j as printed); the printer's macron abbreviations are expanded to n or m, line-end hyphens joined, illegible characters dropped. The marginal references are footnotes; the tables of contents are left out. Not the Latin: Garnet's text is a translation of the Summa, not chapter for chapter the 1566 Latin."
+    }
+  ],
+  "toc": [
+    {
+      "id": "epigraph",
+      "title": {
+        "en-US": "Against Those Who Are Ignorant of Things Necessary to Salvation"
+      }
+    },
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "The Preface to the Reader"
+      }
+    },
+    {
+      "id": "printer-to-the-reader",
+      "title": {
+        "en-US": "The Printer to the Reader"
+      }
+    },
+    {
+      "id": "catalogue-of-fathers-and-councils",
+      "title": {
+        "en-US": "A Catalogue of Fathers and Councils Cited in This Book"
+      }
+    },
+    {
+      "id": "chapter-1-faith",
+      "title": {
+        "en-US": "Chapter 1: Of Faith, and of the Creed"
+      }
+    },
+    {
+      "id": "chapter-2-hope",
+      "title": {
+        "en-US": "Chapter 2: Of Hope"
+      }
+    },
+    {
+      "id": "angelical-salutation",
+      "title": {
+        "en-US": "Of the Angelical Salutation"
+      }
+    },
+    {
+      "id": "chapter-3-charity",
+      "title": {
+        "en-US": "Chapter 3: Of Charity, and the Ten Commandments"
+      }
+    },
+    {
+      "id": "precepts-of-the-church",
+      "title": {
+        "en-US": "Of the Precepts of the Church"
+      }
+    },
+    {
+      "id": "chapter-4-sacraments",
+      "title": {
+        "en-US": "Chapter 4: Of the Sacraments"
+      }
+    },
+    {
+      "id": "baptism",
+      "title": {
+        "en-US": "Of the Sacrament of Baptism"
+      }
+    },
+    {
+      "id": "confirmation",
+      "title": {
+        "en-US": "Of the Sacrament of Confirmation"
+      }
+    },
+    {
+      "id": "eucharist",
+      "title": {
+        "en-US": "Of the Sacrament of the Eucharist"
+      }
+    },
+    {
+      "id": "penance",
+      "title": {
+        "en-US": "Of the Sacrament of Penance"
+      }
+    },
+    {
+      "id": "extreme-unction",
+      "title": {
+        "en-US": "Of the Sacrament of Extreme Unction"
+      }
+    },
+    {
+      "id": "orders",
+      "title": {
+        "en-US": "Of the Sacrament of Orders"
+      }
+    },
+    {
+      "id": "matrimony",
+      "title": {
+        "en-US": "Of the Sacrament of Matrimony"
+      }
+    },
+    {
+      "id": "chapter-5-justice",
+      "title": {
+        "en-US": "Chapter 5: Of Christian Justice"
+      }
+    },
+    {
+      "id": "seven-capital-sins",
+      "title": {
+        "en-US": "Of the Seven Capital Sins"
+      }
+    },
+    {
+      "id": "alien-sins",
+      "title": {
+        "en-US": "Of Alien Sins"
+      }
+    },
+    {
+      "id": "sins-against-the-holy-ghost",
+      "title": {
+        "en-US": "Of Sins against the Holy Ghost"
+      }
+    },
+    {
+      "id": "sins-that-cry-to-heaven",
+      "title": {
+        "en-US": "Of Sins That Cry unto Heaven"
+      }
+    },
+    {
+      "id": "purging-of-sins",
+      "title": {
+        "en-US": "Of the Purging of Sins"
+      }
+    },
+    {
+      "id": "three-sorts-of-good-works",
+      "title": {
+        "en-US": "Of Three Sorts of Good Works"
+      }
+    },
+    {
+      "id": "alms-and-works-of-mercy",
+      "title": {
+        "en-US": "Of Alms and the Works of Mercy"
+      }
+    },
+    {
+      "id": "cardinal-virtues",
+      "title": {
+        "en-US": "Of the Cardinal Virtues"
+      }
+    },
+    {
+      "id": "gifts-and-fruits-of-the-holy-ghost",
+      "title": {
+        "en-US": "Of the Gifts and Fruits of the Holy Ghost"
+      }
+    },
+    {
+      "id": "eight-beatitudes",
+      "title": {
+        "en-US": "Of the Eight Beatitudes"
+      }
+    },
+    {
+      "id": "evangelical-counsels",
+      "title": {
+        "en-US": "Of the Evangelical Counsels"
+      }
+    },
+    {
+      "id": "four-last-things",
+      "title": {
+        "en-US": "Of the Four Last Things of a Man"
+      }
+    },
+    {
+      "id": "appendix-fall-and-justification",
+      "title": {
+        "en-US": "Appendix: Of the Fall of Man and Justification"
+      }
+    },
+    {
+      "id": "translator-to-the-reader",
+      "title": {
+        "en-US": "The Translator to the Reader"
+      }
+    },
+    {
+      "id": "exposition",
+      "title": {
+        "en-US": "An Exposition of Certain Questions Not Handled in This Book"
+      }
+    },
+    {
+      "id": "hallowed-creatures",
+      "title": {
+        "en-US": "Of Hallowed and Sanctified Creatures in God's Church"
+      }
+    },
+    {
+      "id": "pilgrimage",
+      "title": {
+        "en-US": "Of Pilgrimage"
+      }
+    },
+    {
+      "id": "indulgences",
+      "title": {
+        "en-US": "Of Indulgences, or Pardons"
+      }
+    }
+  ]
+}
