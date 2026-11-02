@@ -1,0 +1,84 @@
+{
+  "id": "fenelon-odyssee",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "L’Odyssée d’Homère",
+    "en-US": "Homer’s Odyssey",
+    "pt-BR": "A Odisseia de Homero"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "L’Odyssée en vingt-quatre livres, traduite et résumée en prose par Fénelon pour le duc de Bourgogne (publiée dans l’édition Didot de 1792) : le texte suit Homère livre à livre, certains livres sont traduits en entier, d’autres en précis.",
+    "en-US": "The Odyssey in twenty-four books, translated and abridged in prose by Fénelon for the Duke of Burgundy (published in the Didot edition of 1792): the text follows Homer book by book, some books translated in full, others in summary.",
+    "pt-BR": "A Odisseia em vinte e quatro livros, traduzida e resumida em prosa por Fénelon para o duque de Borgonha (publicada na edição Didot de 1792): o texto segue Homero livro a livro, alguns livros traduzidos por inteiro, outros em resumo."
+  },
+  "composed": "1690–1700",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/odyssee",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte06fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 6, p. 681–740; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md). Books are headed only by running heads in the OCR, so the text is cut into parts of about 7,000 words.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-odyssee-01",
+      "title": {
+        "fr-FR": "L’Odyssée d’Homère : précis et traduction en prose, partie 1"
+      }
+    },
+    {
+      "id": "01-odyssee-02",
+      "title": {
+        "fr-FR": "L’Odyssée d’Homère : précis et traduction en prose, partie 2"
+      }
+    },
+    {
+      "id": "01-odyssee-03",
+      "title": {
+        "fr-FR": "L’Odyssée d’Homère : précis et traduction en prose, partie 3"
+      }
+    },
+    {
+      "id": "01-odyssee-04",
+      "title": {
+        "fr-FR": "L’Odyssée d’Homère : précis et traduction en prose, partie 4"
+      }
+    },
+    {
+      "id": "01-odyssee-05",
+      "title": {
+        "fr-FR": "L’Odyssée d’Homère : précis et traduction en prose, partie 5"
+      }
+    },
+    {
+      "id": "01-odyssee-06",
+      "title": {
+        "fr-FR": "L’Odyssée d’Homère : précis et traduction en prose, partie 6"
+      }
+    },
+    {
+      "id": "01-odyssee-07",
+      "title": {
+        "fr-FR": "L’Odyssée d’Homère : précis et traduction en prose, partie 7"
+      }
+    }
+  ]
+}
