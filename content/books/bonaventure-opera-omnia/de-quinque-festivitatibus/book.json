@@ -1,0 +1,48 @@
+{
+  "id": "bonaventure-de-quinque-festivitatibus",
+  "cover": "classic",
+  "name": {
+    "la": "De quinque festivitatibus pueri Iesu",
+    "en-US": "The Five Feasts of the Child Jesus",
+    "pt-BR": "As cinco festas do Menino Jesus"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Meditationes de quinque festivitatibus pueri Iesu: nativitate, circumcisione, epiphania, praesentatione et occursu in templo. Textus ex editione Quaracchi (Decem opuscula, 1900), ex scanno OCR, sine notis criticis.",
+    "en-US": "Meditations on the five feasts of the Child Jesus: his birth, circumcision, epiphany, presentation and the finding in the temple. The Latin is the Quaracchi text of the Decem opuscula (1900), from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Meditações sobre as cinco festas do Menino Jesus: o nascimento, a circuncisão, a epifania, a apresentação e o encontro no templo."
+  },
+  "composed": "c. 1255",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/de-quinque-festivitatibus",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/decemopusculaadt00bona",
+      "edition": "S. Bonaventurae Decem opuscula ad theologiam mysticam spectantia, ed. 2 (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1900).",
+      "description": "Archive.org OCR of the octavo edition. Page heads, the editors’ footnotes (variant readings and cross-references) and note markers are removed; line-end hyphens are joined; recognisable OCR slips are corrected by comparison with the other Quaracchi scans, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1900 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "textus",
+      "title": {
+        "la": "De quinque festivitatibus pueri Iesu"
+      }
+    }
+  ]
+}
