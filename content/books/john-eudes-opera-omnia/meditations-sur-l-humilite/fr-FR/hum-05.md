@@ -48,7 +48,23 @@ Considérons que plusieurs grands Saints sont entrés dans ces sentiments de Not
 
 redemptione ne salute crucifixus, similitudinem gessit hominis a Deo maledicti; et pro tali reputatus est ab hominibus, juxta quod apud eumdem prophetam (Isaiam) legitur: Cum sceleratis reputatus est. Hunc intellectum confirmat alter ejusdem Apostoli locus, quo Christus pro nobis factus dicitur peccatum, id est, ob paenam peccatoribus similis et pro tali reputatus. Nec ab hoc sensu discrepant Hieronymi. Augustini et Graecorum commentarii. » Estius in h. 1.
 
-qui leur donnait ces pensées et ces sentiments, et par conséquent ils étaient fondés sur la vérité. Car
+qui leur donnait ces pensées et ces sentiments, et par conséquent ils étaient fondés sur la vérité. Car c'est l'Esprit de vérité, et non pas de mensonge. Et il ne faut pas demander comment est-ce que cela se peut accorder, que saint Paul soit le premier de tous les pécheurs, si c'est saint François qui est le plus grand pécheur ? Et comment est-ce saint François, si c'est saint Bernard? Car, encore que l'esprit et la raison humaine n'y voie goutte, cela s'accorde bien néanmoins devant Dieu, et selon l'esprit de Dieu. C'est à nous à suivre non pas les lumières de notre propre esprit, qui ne sont que ténèbres, mais à tirer cette conclusion et ce fruit de ces sentiments des Saints: Si j'avais les lumières de ces Saints, je verrais clairement comme ils ont cru avec fondement être les premiers de tous les pécheurs. Et si ces grands Saints ont vécu dans ces sentiments et se sont traités et estimés comme tels, quel sentiment dois-je avoir de moi-même, et combien davantage dois-je croire que je suis primus omnium peccatorum, le premier de tous les pécheurs, et en suite me traiter et me réjouir d'être traité comme tel.
+
+Honorons ces sentiments dans les Saints, bénissons Dieu qui les leur a donnés, remercionsles du bon usage qu'ils en ont fait. Prions Notre-Seigneur par leur intercession de nous en rendre participants. Prions saint Paul, saint François etc. d'imprimer dans nos cœurs ces mêmes sentiments.
+
+3e Point.
+
+Encore que le raisonnement humain n'ait que des ténèbres pour les choses de Dieu, et pour les vérités et maximes évangéliques, néanmoins voici quelques raisons pour nous faire voir que nous sommes primi peccatorum, les premiers d'entre les pécheurs.
+
+Premièrement, il est bien aisé de nous mettre à l'égal de Lucifer, de Judas et de l'Antéchrist, puisque, comme enfants d'Adam, nous avons en nous le principe de tous les péchés de la terre et de l'enfer. Mais, afin de nous mettre au-dessous de Judas, de Lucifer et de l'Antéchrist, nous devons croire, avec saint François, que si Dieu faisait au plus grand de tous les pécheurs les grâces qu'il nous fait, il serait meilleur que nous; et que si Dieu nous laissait à nous-mêmes et retirait ses grâces de nous, comme il les retirera de l'Antéchrist, nous serions pires que lui 107 .
+
+Secondement, nous ne devons pas comparer nos péchés aux péchés des autres, mais aux grâces que nous avons reçues de Dieu. Or nous avons plus reçu de grâces de sa divine bonté que tous les païens, Juifs, hérétiques, et même que tous les autres chrétiens, si nous sommes prêtres. Car la grâce du sacerdoce surpasse toutes les autres. Et par conséquent les péchés des prêtres sont plus grands que les péchés de tous les autres hommes. Et un seul de nos péchés nous rend autant et plus coupables que tous les péchés des autres ensemble.
+
+Troisièmement, en qualité de prêtres, nous sommes obligés, à l'imitation du souverain Prêtre, de prendre sur nous tous les péchés des autres, et de les regarder comme nôtres, et d'en porter l'humiliation et la pénitence, comme si c'étaient nos propres péchés. Et ainsi chaque prêtre doit s'humilier et se traiter, et être bien aise d'être traité et humilié, comme s'il avait lui seul tous
+
+proferebat: Filios et filias adhuc habere (e.i. peccata varia committere) possem, nolite laudare securum. Nemo laudandus cujus incertus est exitus. Ista quidem laudantibus, ad se autem sic: Latroni si tanta contulisset Altissimus, gratior te foret, Francisce.. . Frater (quidam) solerter ab eo quaesivit quid de seipso sentiret: Videor, ait, maximus peccatorum. Cui quum frater diceret ex adverso quod hoc non posset sana conscientia dicere, nec sentire, subjunxit: si quantumcumque sceleratum hominem tanta fuisset Christus misericordia prosecutus, arbitror sane quod multo, quam ego, Deo gratior esset. S. Bonaventure, Legenda S. Francisci. c. 6. Cf. S. Frnnçois de Sales, Traité de l'amour de Dieu, II. I, ch. 11. les péchés du monde ensemble sur lui, et par conséquent comme s'il était le premier et le plus grand de tous les pécheurs.
+
+Prions Notre-Seigneur qu'il imprime en nous ces vérités et ces sentiments. Désirons de les avoir. Donnons-nous à l'Esprit de Dieu pour nous regarder et traiter désormais, et pour vouloir être regardés et traités des autres en cette façon. ORAISON JACULATOIRE: Deus, propitius esto mihi vilissimo peccatori 108 .
 
 ---
 
@@ -71,3 +87,7 @@ qui leur donnait ces pensées et ces sentiments, et par conséquent ils étaient
 105 Ad Gal, III, 12. « Dicitur factus pro nobis maledictum, quia pro nostra
 
 106 l Tim. I. 15.
+
+107 «Saepe dum (Franciscus) beatificaretur a pluribus, verbum hujusmodi
+
+108 Luc. XVIII, 13.

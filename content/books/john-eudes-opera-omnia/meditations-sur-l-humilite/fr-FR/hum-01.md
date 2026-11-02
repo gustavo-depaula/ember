@@ -1,13 +1,5 @@
 # Méditations sur l’humilité (1): Méditations sur l'humilité
 
-vero praemissas inhibitiones animo petulanti contempserint, prator processum ordinariornm et deputandorum ab ipsis divinae ultionis et nostra poterunt acrimoniam formidare. » Concil. Lugdunense II, an. 1274., De immunitate ecclesiarum. Le Concile de Chartres en 1526, celui de Sens en 1528 (Decreta morum, n. XVI), celui de Rouen en 1581 (De cultu divino, n. 8) ont reproduit le canon du Concile de Lyon, en y faisant quelques additions insérées par le V. P. Eudes dans sa traduction.
-
-videat.., ut ecclesia Dei suum habeat honorem, simul et altaria secundum suam dignitatem venerentur, et non sit domus Dei et altaria sacrata pervia canibus, et ut vasa sacrata Deo cum magna veneratione habeuntur..; et ut saecularia negotia vel vaniloquia in ecclesiis non agantur.., et ut intentos habeant animos ad Deum quando veniunt ad missarum solemnia, et ut non exeant ante completionem benedictionis sacerdotalis. » Caroli Magni capitulare ecclesiasticum datum Aquis, an. 789, cap. 70; MIGNE, Pat. Lat. tom. 97 Col. 175.
-
-paroles, gestes ou autres actions indécentes, ni d'occuper le sanctuaire des autels; enjoignant à tous juges, qu'ils aient à garder et faire garder ladite ordonnance, et à procéder, si besoin est, contre les coupables, par informations, décrets, condamnations et autres actes de justice 75.
-
-75 C'est dans l'édition de 1665, que nous trouvons mention pour la première fois de cette ordonnance de Louis XIV.
-
 ## Méditations sur l'humilité
 
 ## Approbations
@@ -169,12 +161,6 @@ ORAISON JACULATOIRE: Domine Jesu Christe, nihil sumus.
 ---
 
 *Notes de l’éditeur (Œuvres complètes, 1905–11)*
-
-72 « Item placuit nobis admonere reverentiam vestram ut unusquisque vestrum
-
-73 Henri II, Édit de Chateaubriant (1551), art. 40.
-
-74 Henri III aux États de Blois, art :39.
 
 1 « Discite a me quia mitis sum et humilis corde. » Matth. XI. 29.
 

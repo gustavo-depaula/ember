@@ -50,9 +50,7 @@ Quatrièmement, qu'il n'y a que Dieu seul qui nous puisse humilier autant que no
 
 ## Treizieme méditation
 
-qu'il n'y a que Dieu qui puisse la connaître, parce que plus on la pénètre et plus on la trouve horrible.» J. d'Avila, Audi filia, ch. 79. Voici le texte de Jérémie: « Pravum est cor omnium et inscrutabile: quis cognoscet illud ? Ego Dominus scrutans cor et probans renes. »
-
-Sur ces mêmes paroles: NATURA FILII IRAE.
+qu'il n'y a que Dieu qui puisse la connaître, parce que plus on la pénètre et plus on la trouve horrible.» J. d'Avila, Audi filia, ch. 79. Voici le texte de Jérémie: « Pravum est cor omnium et inscrutabile: quis cognoscet illud ? Ego Dominus scrutans cor et probans renes. » Sur ces mêmes paroles: NATURA FILII IRAE.
 
 ## Que nous avons mérité l'ire de dieu et de toutes les créatures
 
@@ -74,9 +72,7 @@ Non seulement les damnés sont l'objet de l'ire de Dieu; mais aussi ils sont l'o
 
 ## Lxxxvii,
 
-17.
-
-terrarum contra insensatos 78 .
+17. terrarum contra insensatos 78 .
 
 Premiêrement, la Vierge, tous les Anges et tous les Saints du ciel, lesquels sont tous animés de l'ire de Dieu contre eux. Car Dieu leur communique tous ses sentiments; et plus ils sont unis à Dieu, plus ils participent à ses inclinations. C'est pourquoi ils aiment ce que Dieu aime, et ils haïssent ce qu'il hait. De là vient que la sainte Vierge a plus de colère elle seule contre les damnés, que tous les Anges et tous les Saints ensemble; et ainsi en est-il à proportion de tous les autres Saints.
 
@@ -96,9 +92,7 @@ Nous avons mérité tout cela, et par conséquent nous avons beaucoup davantage 
 
 3.
 
-81 Le P. Lessius a décrit les diverses peines des damnés, et en particulier celles que V. P. Eudes énumère ici, dans son excellent ouvrage: De perfectionibus divinis, I. XIII, c. xxix.
-
-la vanité, de l'estime de nous-mêmes; de croire qu'on nous doive quelque chose, et de ne pouvoir souffrir aucune humiliation. Et prions Dieu qu'il grave puissamment dans notre esprit la connaissance de nos trois partages à savoir: le néant, le péché, l'ire de Dieu et de toutes les créatures de Dieu, et les peines éternelles. C'est ce qui est exprimé dans ces paroles de notre profession d'humilité: Nihil possumus, nihil valemus, servi inutiles sumus, nihil habemus praeter peccatum, natura filii irae. Ne passons aucun jour sans nous en souvenir et sans les considérer, afin qu'en toutes les occasions auxquelles nous aurons besoin de nous humilier, qui se rencontrent à toute heure, nous ayons ces partages toujours présents dans l'esprit, et qu'ils nous servent pour nous humilier sans cesse et en toutes choses, selon cet enseignement du Saint-Esprit: Humilia te in omnibus, etc. 82 ORAISON JACULATOIRE: Nobis peccatoribus confusio et ignominia, tibi autem honor et gloria in saecula saeculorum Amen.
+81 Le P. Lessius a décrit les diverses peines des damnés, et en particulier celles que V. P. Eudes énumère ici, dans son excellent ouvrage: De perfectionibus divinis, I. XIII, c. xxix. la vanité, de l'estime de nous-mêmes; de croire qu'on nous doive quelque chose, et de ne pouvoir souffrir aucune humiliation. Et prions Dieu qu'il grave puissamment dans notre esprit la connaissance de nos trois partages à savoir: le néant, le péché, l'ire de Dieu et de toutes les créatures de Dieu, et les peines éternelles. C'est ce qui est exprimé dans ces paroles de notre profession d'humilité: Nihil possumus, nihil valemus, servi inutiles sumus, nihil habemus praeter peccatum, natura filii irae. Ne passons aucun jour sans nous en souvenir et sans les considérer, afin qu'en toutes les occasions auxquelles nous aurons besoin de nous humilier, qui se rencontrent à toute heure, nous ayons ces partages toujours présents dans l'esprit, et qu'ils nous servent pour nous humilier sans cesse et en toutes choses, selon cet enseignement du Saint-Esprit: Humilia te in omnibus, etc. 82 ORAISON JACULATOIRE: Nobis peccatoribus confusio et ignominia, tibi autem honor et gloria in saecula saeculorum Amen.
 
 ## Quatorzieme méditation
 
