@@ -1,0 +1,28 @@
+# IX. — Confirmation de cette preuve, parce que saint Jean a évité d'appeler du nom d'adultère la prostituée de son Apocalypse
+
+Loin de marquer la prostituée comme une église corrompue, nous avons montré clairement qu'il a pris des idées toutes contraires à celles-là, puisqu'au lieu de produire une Jérusalem infidèle, ou du moins une Samarie, autrefois partie du peuple saint, comme il aurait fait s'il avait voulu nous représenter une église corrompue, il nous propose une Babylone qui jamais n'a été nommée dans l'alliance de Dieu. Nous avons aussi remarqué[^1] qu'il n'avait jamais donné à la prostituée le titre d'épouse infidèle ou répudiée, mais que partout il s'était servi du terme de fornication et de tous ceux qui revenaient au même sens. Je sais que ces mots se confondent quelquefois avec celui d'adultère ; mais le fort du raisonnement consiste en ce que, de propos délibéré, saint Jean évite toujours ce dernier mot, qui marquerait la foi violée, le mariage souillé et l'alliance rompue : tout au contraire de ce que Dieu fait en parlant de Juda et d'Israël, de Jérusalem et de Samarie, à qui il ne cesse de reprocher *qu'elles sont des adultères*, qui ont méprisé *leur premier Epoux*, en s'abandonnant aux dieux étrangers. C'est pourquoi il parle ainsi dans Ezéchiel ; « Je t'ai, dit-il, introduite au lit nuptial : je t'ai engagé ma foi par serment : j'ai fait avec toi un contrat, et tu es devenue mienne; et cependant, poursuit-il, tu as prostitué ta beauté aux dieux étrangers : ainsi, conclut-il, je te jugerai du jugement dont on condamne les femmes adultères, parce que tu es du nombre de celles qui ont abandonné leur époux[^2]. » C'est ce que le même prophète répète en un autre endroit : «Samarie et Jérusalem, dit-il, sont des femmes adultères, et elles seront jugées comme on juge de telles femmes; elles seront lapidées[^3] ; » qui est, comme on sait, le supplice des épouses infidèles, afin que rien ne manque à la figure. Mais qu'y a-t-il de plus clair que ce qu'il avait dit auparavant ? « Tu t'es bâti un lieu infâme, » c'est-à-dire un temple d'idoles ; « et tu n'y as pas été comme une femme publique qui se fait valoir en faisant la dédaigneuse, mais comme une femme adultère, qui reçoit des étrangers dans la couche de son époux[^4]. » Le Saint-Esprit a jugé cette image si propre à donner aux Juifs et aux chrétiens qui manqueraient à la foi promise à Dieu une juste horreur de leur infidélité, qu'il la met sans cesse à la bouche de tous ses prophètes ; car écoutez Jérémie : « Un mari ne recherche plus la femme qu'il a quittée et qui s'est donnée à un autre homme : tu t'es abandonnée à tes amans ; toutefois reviens à moi, je te recevrai. Viens me dire : Vous êtes celui à qui j'ai été donnée étant vierge[^5]. » Et dans une autre vision : « J'ai répudié la rebelle et l'infidèle Israël à cause de ses adultères, et je lui ai envoyé la lettre de divorce; mais l'infidèle Juda, sa sœur, n'a point profité de cet exemple, s'abandonnant elle-même à ses amans et commettant adultère avec les idoles de bois et de pierre. Revenez néanmoins, convertissez-vous, parce que je suis votre époux[^6]. » Isaïe n'en dit pas moins : « Quelles sont les lettres de divorce que j'ai envoyées à votre mère[^7]? » Et Osée : « Jugez, jugez votre mère, parce qu'elle n'est plus ma femme, et je ne suis plus son mari ; qu'elle efface ses adultères (3). » Et un peu après : « Elle reviendra, et me dira : O mon cher époux[^8]. » Tout est plein d'expressions semblables dans les prophètes : mais j'en ai rapporté assez pour faire voir que le Saint-Esprit s'y plaît, parce qu'en effet il n'y en a point de plus propre à nous faire sentir l'horreur de nos prévarications contre Dieu, la justice de ses vengeances quand il nous punit, et l'excès de sa bonté quand il nous pardonne. Si donc la prostituée que saint Jean dépeint avec de si horribles couleurs, est une église infidèle, comme Jérusalem et Samarie, pourquoi évite-t-il si soigneusement de lui donner les mêmes titres ? Pourquoi Dieu ne marque-t-il en aucun endroit qu'il punit en elle la foi méprisée? Que ne lui reproche-t-il, comme à l'infidèle Jérusalem, « les joyaux » qu'il lui a donnés en l'épousant, « l'eau sainte dont il l'a lavée, et les immenses richesses dont il l'a dotée dans sa misère[^9] ? » Saint Jean, à qui l'ange dit[^10], comme on a vu[^11], que pour écrire son Apocalypse, il a été rempli de l'esprit de tous les prophètes, et qui en effet emploie toutes leurs plus belles figures pour en montrer dans ce divin livre un parfait accomplissement : que n'a-t-il du moins une fois donné à la prostituée le nom de *répudiée et d'adultère* ? Jésus-Christ avait bien appelé les Juifs, *race mauvaise et adultère*[^12], les regardant comme un peuple qui violait l'alliance. Mais saint Jean évite exprès toutes les expressions semblables, comme nous l'avons démontré ; sa prostituée n'est jamais une épouse corrompue, comme le furent Samarie et Jérusalem ; elle n'est qu'une femme publique, et ne reçoit de reproches que ceux que nous avons vu1 qu'on faisait à une Tyr, à une Ninive, à une Babylone, à une Sodome, à une Egypte, tous peuples qui n'avaient jamais rien eu de commun avec le peuple de Dieu et n'avaient jamais été compris dans son alliance.
+
+
+[^1]: *Préf.*, n. 9, 10.
+
+[^2]: *Ezech.*, XVI, 8, 15, 31, 32, 38, 45.
+
+[^3]: *Ezech.*, XXIII, 37, 45, 47.
+
+[^4]: *Ezech.*, XVI, 31.
+
+[^5]: *Jerem.*, III, 1, 4.
+
+[^6]: *Jerem.*, III, 8, 9, 14.
+
+[^7]: *Isa.*, L, 1. *Ose.*, II, 2.
+
+[^8]: *Ibid.*, 16.
+
+[^9]: *Ezech.*, XVI, 9, 10 et seq.
+
+[^10]: *Apoc.*, XXII, 6.
+
+[^11]: Voyez ci-dessus *Préf.*, n. 1, 2.
+
+[^12]: *Matth.*, XII, 19; XVI, 4; *Marc*, VIII, 38.

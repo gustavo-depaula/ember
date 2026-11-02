@@ -1,0 +1,540 @@
+{
+  "id": "bossuet-avertissement-aux-protestants-sur-les-propheties",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Avertissement aux protestants sur leur prétendu accomplissement des prophéties",
+    "en-US": "Warning to the Protestants on Their Supposed Fulfilment of the Prophecies",
+    "pt-BR": "Advertência aos protestantes sobre o pretenso cumprimento das profecias"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Réfutation du commentaire de Jurieu sur l’Apocalypse (L’Accomplissement des prophéties) : l’identification de Rome et du pape avec la Babylone et l’Antéchrist, le nombre 666, les sept têtes, les 1260 jours et l’idolâtrie reprochée à l’Église, suivie d’une récapitulation. Publié en 1686. Édition Lachat (1862).",
+    "en-US": "A refutation of Jurieu’s commentary on the Apocalypse (The Accomplishment of the Prophecies): the identification of Rome and the pope with Babylon and Antichrist, the number 666, the seven heads, the 1260 days and the charge of idolatry against the Church, followed by a recapitulation. Published in 1686. Lachat edition (1862).",
+    "pt-BR": "Refutação do comentário de Jurieu sobre o Apocalipse (O cumprimento das profecias): a identificação de Roma e do papa com a Babilônia e o Anticristo, o número 666, as sete cabeças, os 1260 dias e a acusação de idolatria contra a Igreja, seguida de uma recapitulação. Publicado em 1686. Edição Lachat (1862)."
+  },
+  "composed": "1686",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/avertissement-sur-les-propheties",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume003/002.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume III, page 002. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "section-001",
+      "title": {
+        "fr-FR": "I. — Que les interprétations des prophéties, et surtout de l’Apocalypse, proposées par les ministres, sont une manifeste profanation du texte sacré. Trois vérités démontrées sur ce sujet dans ce discours"
+      }
+    },
+    {
+      "id": "section-002",
+      "title": {
+        "fr-FR": "II. — Premier défaut. Que le système des protestants n'a aucun principe. Preuve par eux-mêmes, et par le ministre Jurieu"
+      }
+    },
+    {
+      "id": "section-003",
+      "title": {
+        "fr-FR": "III. — Que les ministres n'ont aucun principe pour prouver que la Babylone de l’Apocalypse fût une Église chrétienne, et que cela est impossible"
+      }
+    },
+    {
+      "id": "section-004",
+      "title": {
+        "fr-FR": "IV. — Démonstration que saint Jean ne parle ni du Pape ni d'aucun pasteur de l'Eglise chrétienne. Vaines objections des ministres"
+      }
+    },
+    {
+      "id": "section-005",
+      "title": {
+        "fr-FR": "V. — Que le mystère écrit sur le front de la prostituée, ne prouve point que ce soit une Église chrétienne"
+      }
+    },
+    {
+      "id": "section-006",
+      "title": {
+        "fr-FR": "VI. — Conte ridicule de Scaliger, méprisé par Drusius, protestant, et relevé par le ministre Jurieu"
+      }
+    },
+    {
+      "id": "section-007",
+      "title": {
+        "fr-FR": "VII.— Sur le mot Lateinos; qu'il n'a rien de commun avec le Pape. Démonstration par saint Irénée, duquel il est pris"
+      }
+    },
+    {
+      "id": "section-008",
+      "title": {
+        "fr-FR": "VIII. — Evidence de la démonstration précédente"
+      }
+    },
+    {
+      "id": "section-009",
+      "title": {
+        "fr-FR": "IX. — Confirmation de cette preuve, parce que saint Jean a évité d'appeler du nom d'adultère la prostituée de son Apocalypse"
+      }
+    },
+    {
+      "id": "section-010",
+      "title": {
+        "fr-FR": "X. — Deux endroits de l’Apocalypse produits par les protestants, et leur inutilité"
+      }
+    },
+    {
+      "id": "section-011",
+      "title": {
+        "fr-FR": "XI. — Autre objection ridicule sur un jeu de mots. Ce que c'est dans l’Apocalypse que vendre les âmes. Témoignage des savants protestants"
+      }
+    },
+    {
+      "id": "section-012",
+      "title": {
+        "fr-FR": "XII. — Réflexion sur ce qui vient d'être dit. On passe au second défaut du système des protestants, qui est de détruire tous les caractères marqués dans l’Apocalypse"
+      }
+    },
+    {
+      "id": "section-013",
+      "title": {
+        "fr-FR": "XIII. — Les chapitres XIII et XVII de l’Apocalypse: deux choses à considérer"
+      }
+    },
+    {
+      "id": "section-014",
+      "title": {
+        "fr-FR": "XIV. — Les sept têtes pour les sept formes de gouvernements. Première illusion des protestants"
+      }
+    },
+    {
+      "id": "section-015",
+      "title": {
+        "fr-FR": "XV. — Incertitude des protestants et renversement prodigieux de l'histoire dans leur système"
+      }
+    },
+    {
+      "id": "section-016",
+      "title": {
+        "fr-FR": "XVI. — Renversement de tout le système, démontré par un seul mot de l’Apocalypse"
+      }
+    },
+    {
+      "id": "section-017",
+      "title": {
+        "fr-FR": "XVII. — Illusion des ministres sur la courte durée de la septième tête"
+      }
+    },
+    {
+      "id": "section-018",
+      "title": {
+        "fr-FR": "XVIII. — Réponses des ministres Dumoulin et Jurieu; et manifeste corruption du texte sacré"
+      }
+    },
+    {
+      "id": "section-019",
+      "title": {
+        "fr-FR": "XIX. — Blasphème du ministre Jurieu"
+      }
+    },
+    {
+      "id": "section-020",
+      "title": {
+        "fr-FR": "XX. — Que les protestants font dire à saint Jean sur les sept gouvernements de Rome des choses, non-seulement peu convenables, mais encore visiblement fausses"
+      }
+    },
+    {
+      "id": "section-021",
+      "title": {
+        "fr-FR": "XXI. — Illusion des protestants sur les dix rois qui doivent d'abord favoriser Rome, et ensuite la détruire"
+      }
+    },
+    {
+      "id": "section-022",
+      "title": {
+        "fr-FR": "XXII. — Illusion sur l'explication du chapitre un, et sur la seconde bête qui y est représentée"
+      }
+    },
+    {
+      "id": "section-023",
+      "title": {
+        "fr-FR": "XXIII. — Réflexion sur le nom Lateinos et sur le nombre 666"
+      }
+    },
+    {
+      "id": "section-024",
+      "title": {
+        "fr-FR": "XXIV. — Système des protestants sur les douze cent soixante jours de la persécution. Démonstration que ces jours ne peuvent pas être des années comme les ministres le veulent"
+      }
+    },
+    {
+      "id": "section-025",
+      "title": {
+        "fr-FR": "XXV. — Contradiction du ministre Dumoulin sur le sujet des douze cent soixante jours"
+      }
+    },
+    {
+      "id": "section-026",
+      "title": {
+        "fr-FR": "XXVI.— Plus grossière contradiction du ministre Jurieu sur le même sujet"
+      }
+    },
+    {
+      "id": "section-027",
+      "title": {
+        "fr-FR": "XXVII. — En accordant aux ministres que les jours sont des années, l'embarras ne fait qu'augmenter, et ils ne savent où placer leurs douze cent soixante ans"
+      }
+    },
+    {
+      "id": "section-028",
+      "title": {
+        "fr-FR": "XXVIII. — Les ministres forcés d'imputer l'idolâtrie à l'Eglise du quatrième siècle"
+      }
+    },
+    {
+      "id": "section-029",
+      "title": {
+        "fr-FR": "XXIX. — Prodigieuse proposition du ministre Jurieu"
+      }
+    },
+    {
+      "id": "section-030",
+      "title": {
+        "fr-FR": "XXX. — Réponse du ministre Jurieu"
+      }
+    },
+    {
+      "id": "section-031",
+      "title": {
+        "fr-FR": "XXXI. — Le ministre établit le commencement de l'idolâtrie dans les miracles que Dieu fait pour confondre Julien l'Apostat"
+      }
+    },
+    {
+      "id": "section-032",
+      "title": {
+        "fr-FR": "XXXII. — Autre parole prodigieuse du même ministre"
+      }
+    },
+    {
+      "id": "section-033",
+      "title": {
+        "fr-FR": "XXXIII. — Que les Pères que ce ministre accuse d'idolâtrie, sont de son aveu les plus grands théologiens de l'Eglise"
+      }
+    },
+    {
+      "id": "section-034",
+      "title": {
+        "fr-FR": "XXXIV. — Etrange idée du christianisme dans le parti protestant"
+      }
+    },
+    {
+      "id": "section-035",
+      "title": {
+        "fr-FR": "XXXV. — Démonstration que, de l'aveu du ministre, il n'y a rien dans l’Apocalypse qui marque sa prétendue idolâtrie ecclésiastique, quoique rien ne s'y dût trouver davantage selon ses principes"
+      }
+    },
+    {
+      "id": "section-036",
+      "title": {
+        "fr-FR": "XXXVI. — Examen d'un passage de saint Paul, où le ministre prétend trouver, après Joseph Mède, son idolâtrie régnante dans l'Eglise"
+      }
+    },
+    {
+      "id": "section-037",
+      "title": {
+        "fr-FR": "XXXVII. — Le ministre entraîne dans ses excès par le désespoir de sa cause"
+      }
+    },
+    {
+      "id": "section-038",
+      "title": {
+        "fr-FR": "XXXVIII. — La conformité que les protestants ont imaginée entre la théologie et le culte des Pères du premier siècle et les païens, détruite par les principes"
+      }
+    },
+    {
+      "id": "section-039",
+      "title": {
+        "fr-FR": "XXXIX. — Que l'interprétation des protestants brouille toutes les idées de l’Apocalypse et ne discerne ni les idolâtres, ni les saints dont parle saint Jean"
+      }
+    },
+    {
+      "id": "section-040",
+      "title": {
+        "fr-FR": "XL.— Vaines interprétations du chapitre XVI"
+      }
+    },
+    {
+      "id": "section-041",
+      "title": {
+        "fr-FR": "XLI. — Sur le commandement de sortir de Babylone: qu'on ne sait ce que veut dire ce commandement, selon l'idée des protestants"
+      }
+    },
+    {
+      "id": "section-042",
+      "title": {
+        "fr-FR": "XLII. — Question, si les protestants rebutés de l'absurdité du système de Joseph Mède et de M. Jurieu, en peuvent forger un autre plus soutenable"
+      }
+    },
+    {
+      "id": "section-043",
+      "title": {
+        "fr-FR": "XLIII. — Conclusion de ce qui regarde le chapitre XVIII de l’Apocalypse"
+      }
+    },
+    {
+      "id": "section-044",
+      "title": {
+        "fr-FR": "XLIV. — Si les protestants peuvent admettre une double chute de Rome"
+      }
+    },
+    {
+      "id": "section-045",
+      "title": {
+        "fr-FR": "XLV. — Prédiction de saint Paul, II Thess., II"
+      }
+    },
+    {
+      "id": "section-046",
+      "title": {
+        "fr-FR": "XLVI. — La première circonstance de la venue de l'Antéchrist mal expliquée par les protestants"
+      }
+    },
+    {
+      "id": "section-047",
+      "title": {
+        "fr-FR": "XLVII. — La seconde, également mal entendue"
+      }
+    },
+    {
+      "id": "section-048",
+      "title": {
+        "fr-FR": "XLVIII. — En accordant aux protestants tout ce qu'ils demandent, ils ne concluent rien de cette parole de saint Paul: Celui qui tient"
+      }
+    },
+    {
+      "id": "section-049",
+      "title": {
+        "fr-FR": "XLIX.— S'il y a quelque avantage à tirer des Pères qui font venir l'Antéchrist et le jugement à la chute de l'Empire romain"
+      }
+    },
+    {
+      "id": "section-050",
+      "title": {
+        "fr-FR": "L. — Que le sentiment des Pères est directement contraire au système protestant, en ce qu'ils reconnaissent l'Antéchrist pour un seul homme"
+      }
+    },
+    {
+      "id": "section-051",
+      "title": {
+        "fr-FR": "LI. — Que les protestants ne s'accordent ni avec les Pères, ni avec saint Paul, ni avec eux-mêmes"
+      }
+    },
+    {
+      "id": "section-052",
+      "title": {
+        "fr-FR": "LII. — Froideur des allégories des protestants"
+      }
+    },
+    {
+      "id": "section-053",
+      "title": {
+        "fr-FR": "LIII. — Ce que l'on peut dire de certain de l'Antéchrist"
+      }
+    },
+    {
+      "id": "section-054",
+      "title": {
+        "fr-FR": "LIV. — Que le méchant de saint Paul ne peut être aucune des bêtes de saint Jean, et qu'il n'y a de rapport entre saint Paul et l’Apocalypse, que dans le chapitre XX de cette dernière prophétie"
+      }
+    },
+    {
+      "id": "section-055",
+      "title": {
+        "fr-FR": "LV. — Qu'il y a, selon le ministre, un autre Antéchrist à qui, malgré qu'il en ait, les paroles de saint Paul conviennent mieux"
+      }
+    },
+    {
+      "id": "section-056",
+      "title": {
+        "fr-FR": "LVI. — Promesse de l'auteur sur Daniel. L'explication de saint Paul, I Tim., IV, 1, déjà donnée. Conclusion de la seconde partie de cet Avertissement"
+      }
+    },
+    {
+      "id": "section-057",
+      "title": {
+        "fr-FR": "LVII. — Les protestants toujours trompés par leurs prophètes"
+      }
+    },
+    {
+      "id": "section-058",
+      "title": {
+        "fr-FR": "LVIII. — Ridicules interprétations de Dumoulin. Pourquoi il s'arrête à l'année 1689"
+      }
+    },
+    {
+      "id": "section-059",
+      "title": {
+        "fr-FR": "LIX. — Raisonnement de Dumoulin improuvé par M. Jurieu"
+      }
+    },
+    {
+      "id": "section-060",
+      "title": {
+        "fr-FR": "LX.— Comment M. Jurieu a tâché de revenir à l'interprétation de son aïeul après l'avoir méprisée"
+      }
+    },
+    {
+      "id": "section-061",
+      "title": {
+        "fr-FR": "LXI. — Pourquoi cette Récapitulation, ce qu'il y faudra observer"
+      }
+    },
+    {
+      "id": "section-062",
+      "title": {
+        "fr-FR": "LXII. — Première démonstration, que la destruction de la prostituée aux chap. XVII, XVIII et XIX de l’Apocalypse, par les principes des protestants, est une chose accomplie; et ainsi qu'on y cherche en vain la chute future de la Papauté"
+      }
+    },
+    {
+      "id": "section-063",
+      "title": {
+        "fr-FR": "LXIII. — Seconde démonstration du chap. Xviii. Preuve par les protestants que l'Eglise romaine est la vraie Eglise"
+      }
+    },
+    {
+      "id": "section-064",
+      "title": {
+        "fr-FR": "LXIV. — Troisième démonstration, en ce que la Babylone, la bête et la prostituée de saint Jean ne peut pas être une Église corrompue"
+      }
+    },
+    {
+      "id": "section-065",
+      "title": {
+        "fr-FR": "LXV. — Que le ministre Jurieu a senti la force de cette démonstration, et par là le faible de sa cause"
+      }
+    },
+    {
+      "id": "section-066",
+      "title": {
+        "fr-FR": "LXVI. — Nouvelle réflexion sur la preuve précédente, et confirmation de cette preuve"
+      }
+    },
+    {
+      "id": "section-067",
+      "title": {
+        "fr-FR": "LXVII. — Quatrième démonstration par les principes généraux. Les persécutions de l’Apocalypse très-courtes, selon saint Jean. Ce que c'est que le peu de temps des ministres, qui dure douze cent soixante ans. Illusion des jours prophétiques. Confusion, absurdité et impiété manifeste"
+      }
+    },
+    {
+      "id": "section-068",
+      "title": {
+        "fr-FR": "LXVIII. — Que les protestants ne se sauvent pas en prenant un autre système que M. Jurieu"
+      }
+    },
+    {
+      "id": "section-069",
+      "title": {
+        "fr-FR": "LXIX.— Cinquième et dernière démonstration par les principes généraux"
+      }
+    },
+    {
+      "id": "section-070",
+      "title": {
+        "fr-FR": "LXX. — Quels saints et quels martyrs les protestants ont trouvé dans l’Apocalypse, et qu'à la fin ils sont obligés de les dégrader. Passage exprès du ministre Jurieu"
+      }
+    },
+    {
+      "id": "section-071",
+      "title": {
+        "fr-FR": "LXXI. — Preuves tirées des chapitres particuliers. Abrégé de celles du chap. XI, où l'on commence à comparer notre système avec celui des protestais. Illusions pitoyables du ministre Jurieu sur les deux témoins"
+      }
+    },
+    {
+      "id": "section-072",
+      "title": {
+        "fr-FR": "LXXII. — Abrégé des preuves du chap. XII. Confirmation convaincante de celle qui détruit les douze cent soixante ans. Le système protestant se dénient de tous côtés"
+      }
+    },
+    {
+      "id": "section-073",
+      "title": {
+        "fr-FR": "LXXIII. — La bête aux sept têtes et aux dix cornes, et les sept formes de gouvernement ruinées par de nouvelles remarques"
+      }
+    },
+    {
+      "id": "section-074",
+      "title": {
+        "fr-FR": "LXXIV. — Suite du chapitre XIII. La bête qui meurt et qui revit, n'a point de sens chez les protestants"
+      }
+    },
+    {
+      "id": "section-075",
+      "title": {
+        "fr-FR": "LXXV. — Autre inconvénient du système. Il faut trouver au chapitre XIII pour une troisième fois les douze cent soixante ans"
+      }
+    },
+    {
+      "id": "section-076",
+      "title": {
+        "fr-FR": "LXXVI. — Suite du même chapitre. La seconde bête. Dix caractères exclusifs du Pape. Deux défauts sur le nombre de six cent soixante-six"
+      }
+    },
+    {
+      "id": "section-077",
+      "title": {
+        "fr-FR": "LXXVII. — Les chapitres XIV, XV et XVI"
+      }
+    },
+    {
+      "id": "section-078",
+      "title": {
+        "fr-FR": "LXXVIII. — La fin du chapitre XVII avec les suites, où le système protestant se dément le plus"
+      }
+    },
+    {
+      "id": "section-079",
+      "title": {
+        "fr-FR": "LXXIX. L'explication protestante n'entre qu'avec violence dans les esprits, et c'est l'ouvrage de la haine"
+      }
+    },
+    {
+      "id": "section-080",
+      "title": {
+        "fr-FR": "LXXX. — Abrégé des preuves contre l'interprétation des protestants sur la II aux Thess., II"
+      }
+    },
+    {
+      "id": "section-081",
+      "title": {
+        "fr-FR": "LXXXI. — Caractères de l'Antéchrist dans les ministres. Leurs allégories tournées contre eux"
+      }
+    },
+    {
+      "id": "section-082",
+      "title": {
+        "fr-FR": "LXXXII. — Contradiction manifeste du ministre Jurieu sur le sujet de l'Antéchrist de saint Paul"
+      }
+    },
+    {
+      "id": "section-083",
+      "title": {
+        "fr-FR": "LXXXIII. — Pitoyables extrémités où s'engagent les protestants. Conclusion de ce discours"
+      }
+    }
+  ]
+}

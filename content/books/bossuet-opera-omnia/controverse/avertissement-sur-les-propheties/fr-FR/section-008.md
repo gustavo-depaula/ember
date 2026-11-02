@@ -1,0 +1,3 @@
+# VIII. — Evidence de la démonstration précédente
+
+De là résulte ce raisonnement. Saint Jean a voulu donner à la bête qu'il nous a montrée, des caractères par où on la pourrait reconnaître : je le prouve. Il a voulu que l'on connût Rome ; il l'a si bien caractérisée, qu'il n'y a personne qui ne croie la voir dans sa situation par ses sept montagnes, et dans sa dignité par son empire sur tous les rois de la terre. S'il avait voulu marquer l'Eglise, il ne l'aurait pas désignée moins clairement : or dans toute son *Apocalypse* on ne trouve pas un seul mot qui marque la bête, ni la prostituée comme une église corrompue. Donc, démonstrativement, ce n'est pas là ce qu'il a voulu marquer.

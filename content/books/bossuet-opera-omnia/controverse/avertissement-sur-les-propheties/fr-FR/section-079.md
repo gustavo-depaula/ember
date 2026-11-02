@@ -1,0 +1,24 @@
+# LXXIX. L'explication protestante n'entre qu'avec violence dans les esprits, et c'est l'ouvrage de la haine
+
+Aussi voit-on par expérience que des interprétations si forcées ne tiennent pas à l'esprit; la haine les fait inventer : tout le monde dit sans savoir pourquoi : « Sortez de Babylone, mon peuple ; » on s'anime contre une Rome quelle qu'elle soit, et sans distinguer l'ancienne d'avec la nouvelle. Dans l'histoire des Papes, on ne veut voir que le mal toujours inséparable des choses humaines; et on impute à l'Eglise tous les désordres vrais ou faux, comme si elle en faisait autant de dogmes : sous des figures hideuses on croit voir le Pape partout, et on frémit jusqu'à l'aspect de sa mitre, où l'on croit lire imprimé le mot de *Mystère*. Il vient des gens plus modérés ; un Grotius, un Hammond ; enfin on commence à voir que le Pape n'est pas si Antéchrist ; et M. Jurieu m'apprend lui-même[^1] que de nos jours un savant homme de Paris s'étudia un an durant à prouver *à ses disciples*, que le Pape ne pouvait pas être l'Antéchrist : ce savant homme était donc un docteur et un professeur; on ne lui dit mot, mais néanmoins les emportés prévalent; et il faut que l'ancienne opinion nécessaire à la politique du parti subsiste, quand ce serait une erreur : nous en avons vu les témoignages[^2]. A la fin les plus outrés mollissent eux-mêmes; et un M. Jurieu, dans ses *Préjugés légitimes*[^3], n'ose dire que la chose soit certaine, et a unanimement reçue. » De là ce bel artifice qui règne par tout ce livre, de produire toutes ses preuves sans en excepter une seule, et de dire en même temps qu'on n'entreprend pas de prouver, par un secret sentiment, que ces preuves ne sont pas des preuves. Chose étrange . dans l' *Accomplissement des prophéties* S le ministre nous renvoie à ses[^4]
+
+*Préjugés légitimes*, comme à un ouvrage où il a fait tout ce qu'il voulait faire contre le Pape, « autant qu'il est capable de le faire. » Mais il a oublié de remarquer que ce qui n'était « qu'un préjugé, et non pas une démonstration[^5], » en devient une maintenant la plus évidente qu'on puisse supposer; en sorte qu'un protestant qui la méprise n'est plus ni protestant, ni même chrétien. Cependant il reste encore des gens qui rougissent des excès de ce ministre; le bruit en est venu jusqu'à nous : un M. Allix l'incommode ; il se plaint ouvertement d'autres gens qui s'emportent « jusqu'à vouloir, disent-ils, faire connaître au public que tous les réformés ne donnent pas dans ces visions apocalyptiques[^6]. » On le laisse faire cependant, car il faut bien laisser amuser le peuple à quelqu'un aux dépens des oracles divins. Notre ministre attaque ces mauvais protestants par le synode de Gap : « Cela, dit-il, y est passé en article de foi, et en article de foi des plus solennels; article qui n'a jamais été révoqué, en sorte que tout protestant qui le nie renonce à la foi et à la communion de l'Eglise réformée de France, car c'est un synode national[^7]. » faible protestant vous-même, lui diront-ils[^8], qui nous élevez si haut ce synode national avec son « article omis » dans les confessions de foi, et qui vous-même en méprisez avec un dédain si visible les autres décisions, comme celle qu'on y fit contre Piscator, quoique jurée par tous les ministres et soutenue par trois autres synodes nationaux. Vous nous reprochez que nous méprisons tous les anciens Pères : voulez-vous donc que nous recevions dorénavant leur autorité comme une loi? Mais qui les méprise plus que vous? Et si c'est ici la seule matière où vous vouliez les en croire, que ne dites-vous avec eux que l'Antéchrist est un seul homme[^9] et qu'on ne le verra qu'à la fin du monde, car tous les anciens l'ont dit? Enfin si cet article est si important, si pour être bon réformé il faut croire nécessairement que la bête et son caractère soient le Pape et le papisme, pourquoi, après l'avoir tant répété, l'oubliez-vous à la fin jusque dans votre livre de l' *Accomplissement des* prophéties (6) ? Pourquoi est-ce que, selon vous, les anciens martyrs, les martyrs des trois premiers siècles nous sont représentés dans l *’Apocalypse*, comme ceux qui ont méprisé la bête et son caractère ? Ce n'était donc pas le papisme, ou bien avec les papistes il faudra mettre la Papauté jusque dans ces siècles bienheureux. Qui vous a fait dégrader les Vaudois, les Albigeois et les Vicléfites? Reconnaissez de bonne foi que ces explications forcées ne tiennent pas à l'esprit ; pour peu qu'on soit dans le calme et qu'on cesse de s'irriter soi-même, elles échappent : ce sont articles de haine, et non pas de dogme.
+
+
+[^1]: *Lett.* XII.
+
+[^2]: *Avert.*, n. 1.
+
+[^3]: *Avert.*, n. 2.
+
+[^4]: Accomp., Ière part., chap. VI, p. 12 et suiv.
+
+[^5]: *Avert.*, *ibid.*; *Préj*., *ibid.*
+
+[^6]: *Lett.* XII, 93.
+
+[^7]: Lett. XI, 85; *Avert.*, n. 2.
+
+[^8]: *Ibid.*
+
+[^9]: *Lett.* XII. *Sup*., n. 71.
