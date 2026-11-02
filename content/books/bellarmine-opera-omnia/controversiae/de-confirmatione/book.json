@@ -1,0 +1,158 @@
+{
+  "id": "bellarmine-controversiae-de-confirmatione",
+  "cover": "classic",
+  "name": {
+    "la": "De confirmatione",
+    "en-US": "On Confirmation",
+    "pt-BR": "Sobre a confirmação"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De confirmatione. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the sacrament of confirmation. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre a confirmação."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-confirmatione",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia03bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 3 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De erroribus, et mendaciis circa Sacramentum Confirmationis",
+            "en-US": "Caput I. De erroribus, et mendaciis circa Sacramentum Confirmationis"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Probatur ex Scriptura Sacramentum Confirmationis",
+            "en-US": "Caput II. Probatur ex Scriptura Sacramentum Confirmationis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. Probatur veritas testimoniis SS. Pontificum",
+            "en-US": "Caput III. Probatur veritas testimoniis SS. Pontificum"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. Idem probatur ex Conciliis",
+            "en-US": "Caput IV. Idem probatur ex Conciliis"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. Idem propatur ex Patribus Grcecis",
+            "en-US": "Caput V. Idem propatur ex Patribus Grcecis"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. Idem probatur ex Latinis",
+            "en-US": "Caput VI. Idem probatur ex Latinis"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. Diluuntur solutiones adversariorum ad Patrum testimonia, quae sunt etiam argumenta ipsorum contra veritatem",
+            "en-US": "Caput VII. Diluuntur solutiones adversariorum ad Patrum testimonia, quae sunt etiam argumenta ipsorum contra veritatem"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. De materia Sacramenti Confirmationis",
+            "en-US": "Caput VIII. De materia Sacramenti Confirmationis"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. CAPUT IX",
+            "en-US": "Caput IX. CAPUT IX"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. De forma Sacramenti Confirmationis",
+            "en-US": "Caput X. De forma Sacramenti Confirmationis"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. De effectu hujus Sacramenti",
+            "en-US": "Caput XI. De effectu hujus Sacramenti"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. De ministro hujus Sacramenti",
+            "en-US": "Caput XII. De ministro hujus Sacramenti"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII",
+            "en-US": "Caput XIII"
+          }
+        }
+      ]
+    }
+  ]
+}
