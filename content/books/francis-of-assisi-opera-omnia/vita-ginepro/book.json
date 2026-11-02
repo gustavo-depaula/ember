@@ -1,0 +1,131 @@
+{
+  "id": "francis-vita-ginepro",
+  "cover": "classic",
+  "name": {
+    "it": "Vita di frate Ginepro",
+    "en-US": "The Life of Brother Juniper",
+    "pt-BR": "Vida de frei Junípero"
+  },
+  "author": {
+    "it": "Anonimo (XIV secolo)",
+    "en-US": "Anonymous (14th century)",
+    "pt-BR": "Anônimo (século XIV)"
+  },
+  "description": {
+    "it": "Vita di frate Ginepro, il «buon giullare di Dio» compagno di san Francesco, in quindici capitoli, dalla raccolta dei Fioretti.",
+    "en-US": "The Life of Brother Juniper, Francis’s companion and “God’s good jester”, in fifteen chapters, from the Fioretti family of texts. Italian.",
+    "pt-BR": "A Vida de frei Junípero, companheiro de São Francisco, em quinze capítulos, da família dos Fioretti."
+  },
+  "composed": "14th century",
+  "languages": [
+    "it"
+  ],
+  "work": "francis-of-assisi/vita-ginepro",
+  "editions": {
+    "it": {
+      "editor": "transcription by M. Mastrorilli, Politecnico di Bari; edition not stated (the Cesari text family)"
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_vitaginepro_ita.html",
+      "edition": "Vita di frate Ginepro, poliba.it (Wayback Machine snapshot).",
+      "description": "Fifteen chapters. The English of the CCEL Hudleston revision (Part II) is not imported.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cap-001",
+      "title": {
+        "it": "CAPITOLO I."
+      }
+    },
+    {
+      "id": "cap-002",
+      "title": {
+        "it": "CAPITOLO II."
+      }
+    },
+    {
+      "id": "cap-003",
+      "title": {
+        "it": "CAPITOLO III."
+      }
+    },
+    {
+      "id": "cap-004",
+      "title": {
+        "it": "CAPITOLO IV."
+      }
+    },
+    {
+      "id": "cap-005",
+      "title": {
+        "it": "CAPITOLO V."
+      }
+    },
+    {
+      "id": "cap-006",
+      "title": {
+        "it": "CAPITOLO VI."
+      }
+    },
+    {
+      "id": "cap-007",
+      "title": {
+        "it": "CAPITOLO VII."
+      }
+    },
+    {
+      "id": "cap-008",
+      "title": {
+        "it": "CAPITOLO VIII."
+      }
+    },
+    {
+      "id": "cap-009",
+      "title": {
+        "it": "CAPITOLO IX."
+      }
+    },
+    {
+      "id": "cap-010",
+      "title": {
+        "it": "CAPITOLO X."
+      }
+    },
+    {
+      "id": "cap-011",
+      "title": {
+        "it": "CAPITOLO XI."
+      }
+    },
+    {
+      "id": "cap-012",
+      "title": {
+        "it": "CAPITOLO XII."
+      }
+    },
+    {
+      "id": "cap-013",
+      "title": {
+        "it": "CAPITOLO XIII."
+      }
+    },
+    {
+      "id": "cap-014",
+      "title": {
+        "it": "CAPITOLO XIV."
+      }
+    },
+    {
+      "id": "cap-015",
+      "title": {
+        "it": "CAPITOLO XV."
+      }
+    }
+  ]
+}
