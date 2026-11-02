@@ -1,0 +1,21 @@
+{
+ "id": "more-utopia-burnet",
+ "dir": "more-opera-omnia/utopia-burnet",
+ "slug": "utopia-burnet",
+ "work": "more/utopia",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A51327.xml",
+ "name": "Utopia (Gilbert Burnet's translation)",
+ "name_pt": "Utopia (tradução de Gilbert Burnet)",
+ "desc": "Gilbert Burnet's English version of More's Utopia (1684), the most read English translation, in the spelling of its first printing.",
+ "desc_pt": "A versão inglesa de Gilbert Burnet (1684) da Utopia de More, a tradução inglesa mais lida, na grafia da primeira impressão.",
+ "composed": 1516,
+ "editor": "Thomas More, tr. Gilbert Burnet (London: Richard Chiswell, 1684; EEBO-TCP A51327)",
+ "year": 1684,
+ "url": "https://github.com/textcreationpartnership/A51327",
+ "edition": "Utopia, translated by Gilbert Burnet (London: 1684), EEBO-TCP A51327.",
+ "front": true,
+ "parts": true
+}

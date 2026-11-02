@@ -1,0 +1,77 @@
+{
+  "id": "more-utopia-burnet",
+  "cover": "classic",
+  "name": {
+    "en-US": "Utopia (Gilbert Burnet's translation)",
+    "pt-BR": "Utopia (tradução de Gilbert Burnet)"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "Gilbert Burnet's English version of More's Utopia (1684), the most read English translation, in the spelling of its first printing.",
+    "pt-BR": "A versão inglesa de Gilbert Burnet (1684) da Utopia de More, a tradução inglesa mais lida, na grafia da primeira impressão."
+  },
+  "composed": 1516,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/utopia",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More, tr. Gilbert Burnet (London: Richard Chiswell, 1684; EEBO-TCP A51327)",
+      "year": 1684
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A51327",
+      "edition": "Utopia, translated by Gilbert Burnet (London: 1684), EEBO-TCP A51327.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 13 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1684 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "THE PREFACE"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "THE Author's Epistle TO PETER GILES"
+      }
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "The Discourses of RAPHAEL HYTHLODAY, Of the best State of a Common-Wealth"
+      },
+      "children": [
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Chapter 4"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "The Second Book"
+          }
+        }
+      ]
+    }
+  ]
+}
