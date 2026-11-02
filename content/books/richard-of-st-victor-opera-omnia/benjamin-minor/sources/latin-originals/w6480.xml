@@ -1,0 +1,4177 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Benjamin minor</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.BenMin</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+
+<div2>
+        <head>CAPUT PRIMUM. <hi>De studio sapientiae, et ejus commendatione. Benjamin adolescentulus in mentis excessu <note>(Psal. LXVII)</note>
+          </hi>.</head>
+
+<pb n="0001A"/>
+<p>Audiant adolescentuli sermonem de adolescente,
+evigilent ad vocem Prophetae: Benjamin
+adolescentulus, in mentis excessu. Quis sit Benjamin
+iste, multi noverunt, alii per scientiam, alii
+per experientiam. Qui per doctrinam noverunt
+audiant patienter; qui per experientiam didicerunt,
+audiant libenter. Qui enim eum experientiae magisterio
+semel nosse potuit (fidenter loquor), sermo
+de eo, quamvis prolixus, illum satiare non poterit.
+Sed quis de eo digne loqui sufficiat? Est enim speciosus
+forma prae omnibus filiis Jacob, et qualem
+Rachel generare decuit. Nam Lia quidem, quamvis
+<pb n="0001B"/>
+plures, pulchriores tamen liberos habere non potuit.
+Duas namque, ut legitis, uxores Jacob habuisse
+cognoscitur. Una Lia, altera Rachel dicebatur: Lia
+fecundior; Rachel, formosior. Lia fecunda, sed
+lippa; Rachel fere sterilis, sed forma singularis.
+Sed jam, quae sint istae duae uxores Jacob, videamus,
+ut qui sint earum filii facilius intelligamus.
+Rachel, doctrina veritatis, Lia disciplina virtutis.
+Rachel, studium sapientiae, Lia desiderium
+justitiae. Sed scimus Jacob septem annis pro Rachel
+servisse, et tamen videbantur ei dies pauci,
+prae amoris magnitudine. Quid miraris? Secundum
+magnitudinem pulchritudinis erat magnitudo dilectionis.
+Certe si in laudem sapientiae aliquid tentare
+<pb n="0001C"/>
+voluero, minus erit quantumcunque dixero.
+Quid enim sapientia ardentius diligitur, dulcius
+possidetur? Ejus decor omnem superat pulchritudinem,
+ejus dulcor omnem excedit suavitatem. Est
+enim, ut ait quidam, speciosior sole, et super
+omnem stellarum dispositionem: <hi>Luci comparata,
+invenitur prior <note>(Sap. VII)</note>
+          </hi>. Illi enim succedit nox,
+<pb n="0002A"/>
+sapientiam autem non vincit malitia: <hi>Attingit ergo
+a fine usque ad finem fortiter, et disponit omnia suaviter.
+Hanc amavi,</hi> inquit, <hi>et exquisivi a juventute
+mea, et quaesivi sponsam mihi eam assumere, et amator
+factus sum formae illius <note>(Sap. VIII)</note>
+          </hi>. Quid ergo
+mirum, si Jacob in hujusmodi sponsae amore flagrabat,
+si talis ignis, si tantae dilectionis flammas
+temperare non poterat? O quantum amabat, o qualiter
+in ejus amore flagrabat, qui dixit: <hi>Super salutem
+et omnem pulchritudinem dilexi sapientiam! <note>(Sap. VII.)</note>
+          </hi> 
+ Nihil enim hac, ut diximus, sapientia,
+ardentius diligitur, nil dulcius possidetur. Hinc est
+enim quod sapientes omnes esse volunt, pauci
+tamen admodum sapientes esse possunt.</p>
+</div2>
+
+<div2>
+        <head>CAPUT II. <hi>De desiderio justitiae, et ejus proprietate.</hi> </head>
+
+<pb n="0002B"/>
+<p>Nunquid de justitia similiter dicimus. Nunquid
+aeque justi omnes esse volumus, sed justi forte esse
+non possumus. Imo omnes utique justi esse potuissent,
+si esse justi perfecte voluissent. Justitiam
+enim perfecte diligere, est jam justum esse.
+Sapientiam et multum amare potes, et ipsa carere
+potes. Omnino, et absque dubio, quanto amplius
+justitiam dilexeris, tanto justior eris. Sed videamus
+nunc quae sint instituta verae justitiae, et inveniemus
+cur homines tantum detestantur connubia Liae.
+Quaerendum namque est, cur fere omnes conjugia
+Liae tantopere abhorreant, qui in amplexus Rachel
+tantum suspirant? Perfecta justitia jubet inimicos
+<pb n="0002C"/>
+diligere, parentes; propria quaeque relinquere,
+illata mala patienter ferre, oblatam gloriam ubique
+declinare. Sed ab hujus mundi amatoribus, quid
+stultius, quid laboriosius esse reputatur. Hinc est
+quod ab eis Lia, et lippa creditur, et laboriosa vocatur.
+Lia namque <hi>laboriosa</hi> interpretatur. Magnus
+namque labor, sed non minor error videtur eis esse,
+<pb n="0003A"/>
+in tribulatione gaudere, prospera mundi quasi
+pestem fugere. Sed quia copiam mundi ad necessitatem
+non respuit, et ad voluptatem non admittit,
+Liam lippam, non caecam vocant, quam in rerum
+judicio errare putant. Si igitur per Liam desiderium
+justitiae, per Rachel vero studium sapientiae
+intelligitur, patet ratio quare vel Lia ab omnibus
+fere contemnitur, vel Rachel tantum diligitur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III. <hi>De gemino totius boni fonte, ratione videlicet et affectione.</hi> </head>
+<p>Sed libet adhuc de his duabus uxoribus Jacob
+diligentius inquirere, et quidquid inde animus suggerit
+manifestius aperire. Omni spiritui rationali
+<pb n="0003B"/>
+gemina quaedam vis data est ab illo Patre luminum,
+a quo est omne datum optimum, et omne donum
+perfectum. Una est ratio, altera est affectio: ratio,
+qua discernamus, affectio, qua diligamus; ratio, ad
+veritatem, affectio, ad virtutem. Hae sunt sorores
+illae duae a Domino desponsatae: Oolla et Ooliba,
+Hierusalem et Samaria. Hae sunt spiritus rationalis
+geminae uxores, ex quibus oritur generosa proles,
+et regni coelestis haeredes. Ex ratione oriuntur
+consilia recta; ex affectione, desideria sancta. Ex
+illa, spirituales sensus; ex ista, ordinati affectus.
+Ex ista denique, omnis virtus; ex illa vero, veritas
+omnis. Sciendum itaque est quod affectio tunc veraciter
+incipit Lia esse, quando satagit seipsam ad
+normam justitiae componere. Et ratio Rachel esse
+<pb n="0003C"/>
+indubitanter asseritur, quando illius summae et verae
+sapientiae luce illustratur. Sed quis ignorat quam
+sit illud laboriosum, quam sit istud jucundum?
+Utique non sine labore magno animi affectio ab
+illicitis ad licita restringitur; et recte talis uxor
+Lia (hoc est <hi>laboriosa</hi> ) vocatur. Quid vero dulcius,
+quidve jucundius potest esse quam oculum mentis
+ad summae sapientiae contemplationem erigere? Ad
+hanc itaque contemplandam cum ratio dilatatur,
+merito Rachelis nomine honoratur. Rachel <hi>videns
+principium</hi> vel <hi>ovis</hi> interpretatur. Ut ergo tali nomine
+digna sit, impleat quod scriptum invenit: <hi>Sentite
+de Domino in bonitate, et in simplicitate cordis
+quaerite illum <note>(Sap. I)</note>
+          </hi>. Utique qui de Domino sentit
+<pb n="0003D"/>
+in bonitate, jam illum, qui est principium omnium,
+fidei oculo cernit. Sed et ovis veraciter est, si in
+simplicitate quaerit. Videsne quemadmodum non
+quaelibet, sed summa sapientia simpliciter quaesita
+facit esse Rachel. Jam, ut arbitror, non miraris
+quod Rachel tantum diligitur, cum ejus etiam pedissequa
+(sapientia mundi loquor, quae in dominae
+suae comparatione, stultitia reputatur), tanto, ut cernimus,
+amore a mundi philosophis requiratur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IV. <hi>Quomodo per studium sapientiae animus latenter saepe inducitur ad exercitia justitiae.</hi> </head>
+<p>Quemadmodum autem Lia supponitur, dum Rachel
+speratur, facile recognoscunt qui hoc quam
+saepe contingat non tam audiendo quam experiendo
+<pb n="0004A"/>
+didicerunt. Saepe contingit ut animus antiquae conversationis
+sordibus minus mundatus, et ad coelestium
+contemplationem nondum idoneus, dum se
+in cubiculo Rachel collocat; dum se in ejus amplexus
+totum parat; dum illam jam sese tenere
+putat, subito et inopinate inter amplexus Liae se
+esse deprehendat. Quid enim Scripturam sacram,
+nisi Rachel cubiculum dicimus, in qua sapientiam
+divinam sub decenti allegoriarum velamine latitare
+non dubitamus? In tali cubiculo, Rachel toties quaeritur,
+quoties in lectione sacra spiritualis intelligentia
+indagatur. Sed quandiu adhuc ad sublimia
+penetranda minime sufficimus, diu cupitam, diligenter
+quaesitam Rachel nondum invenimus. Incipimus
+ergo gemere, suspirare, nostram caecitatem
+<pb n="0004B"/>
+non solum plangere, sed et erubescere. Dolentibus
+ergo nobis et quaerentibus unde hanc caecitatem
+meruimus, occurrunt mala quae fecimus. Quinimo
+ipsa divina lectio nobis nolentibus, et aliud quiddam
+in ea molientibus, foeditatem nostram frequenter
+ingerit, et corda nostra in ejus consideratione compungit.
+Quoties ergo in divina lectione, pro contemplatione,
+compunctionem reperimus, in cubiculo
+Rachel, non ipsam, sed Liam, nos invenisse non
+dubitemus. Nam sicut Rachelis est meditari, contemplari,
+discernere, intelligere; sic profecto pertinet
+ad Liam flere, gemere, dolere, suspirare. Nam
+Lia, ut dictum est, affectio est divina inspiratione
+inflammata; Rachel est ratio divina revelatione
+illuminata. Lia, affectio ad normam justitiae seipsam
+<pb n="0004C"/>
+componens; Rachel, ratio se in coelestis sapientiae
+contemplationem attollens. Sed de his hactenus.
+Nunc de earum ancillis videamus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT V. <hi>Quomodo imaginatio subserviat rationi, sensualitas affectioni.</hi> </head>
+<p>Accepit ergo utraque illarum ancillam suam.
+Affectio, sensualitatem; ratio, imaginationem. Obsequitur
+sensualitas affectioni; imaginatio famulatur
+rationi. Intantum unaquaeque ancillarum dominae
+suae necessaria esse cognoscitur, ut sine illis totus
+mundus nil eis posse conferre videretur. Nam sine
+imaginatione, ratio nihil sciret; sine sensualitate,
+affectio nil saperet. Utquid enim Lia circa labentium
+<pb n="0004D"/>
+rerum amorem tam vehementer afficitur, nisi
+quia in eis, per ancillae suae (hoc est sensualitatis)
+obsequium, multiformiter delectatur. Item, cum
+scriptum sit: <hi>Quia invisibilia Dei, a creatura mundi
+per ea, quae facta sunt, intellecta conspiciuntur <note>(Rom I)</note>
+          </hi>,
+inde manifeste colligitur quia ad invisibilium
+cognitionem nunquam ratio assurgeret, nisi ei
+ancilla sua, imaginatio videlicet, rerum visibilium
+formam repraesentaret. Per rerum enim visibilium
+speciem surgit ad rerum invisibilium cognitionem,
+quoties ex his ad illam quamdam trahit similitudinem.
+Sed constat quia sine imaginatione corporalia
+nesciret, sine quorum cognitione ad coelestium contemplationem
+non ascenderet. Visibilia enim solus
+intuetur sensus carnis, invisibilia vero solus oculus
+<pb n="0005A"/>
+videt cordis. Est ergo sensus carnis totus extrinsecus,
+sensus vero cordis totus intrinsecus. Ratio
+foras exire non potest, sensus corporeus ad illam
+intrare non valet. Non enim decebat filiam delicatam,
+et teneram, et singulariter formosam foris per
+plateas discurrere, sed nec servum conveniebat
+dominae suae penetralia secretoria irreverenter irrumpere.
+Discurrit ergo imaginatio (utpote ancilla)
+inter dominam et servum, inter rationem et sensum;
+et quidquid extrinsecus haurit per sensum carnis,
+intus repraesentat ad obsequium rationis. Semper
+ergo imaginatio rationi assistit, nec ad momentum
+quidem ab ejus famulatu se subtrahit. Nam sensu
+etiam deficiente, ipsa ministrare non desinit. Nam
+in tenebris positus, nihil video, sed quaelibet illic
+<pb n="0005B"/>
+imaginari possum, si volo. Sic semper et in omnibus
+imaginatio praesto est, et ejus obsequio ubique
+ratio uti potest. Sed et sensualitas nihilominus
+satagit et sollicita est circa frequens ministerium,
+et ipsa utique semper et ubique ad dominae suae Liae
+parata obsequium. Haec est, quae illi solet carnalium
+delectationem cibos condire, et apponere, et
+ad earum usum ante horam invitare, et ultra mensuram
+provocare. Quae enim alia est quam sensualitas,
+quae animi affectionem carnalium voluptatum
+desiderio inflammat, et earum delectatione inebriat.
+Haec est quae laboriosam illam dominam suam
+egredientem praecedit, et huc illucque circumducit.
+Nam quia Lia lippa est et parum videt, illius manuductionem
+sequi eam non pudet. Hinc est quod Lia
+<pb n="0005C"/>
+(animi videlicet affectio) nunc contemnenda diligit,
+nunc diligenda contemnit; quia, dum ejus oculus
+in rerum judicio caligat, carnis appetitum sequi non
+erubescit. Haec sunt duarum uxorum Jacob ancillae
+duae, quas Scriptura nominat Zelpham et Balam,
+Balam Rachelis, et Zelpham Liae.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI. <hi>De vitio imaginationis et sensualitatis.</hi> </head>
+<p>Vidimus de earum obsequio, sed nec de earum
+vitio silendum puto. Est enim Bala, garrula; Zelpha,
+tumulenta. Bala namque loquacitatem nec
+ipsa ejus domina Rachel compescere potest; sed
+et Zelphae quidem sitim dominae suae copia tanta
+omnino exstinguere non potest. Vinum, quod Zelpha
+<pb n="0005D"/>
+sitit, gaudium est voluptatis. De quo quanto plus
+bibit, tanto amplius sitit: nam ad satiandum sensualitatis
+appetitum, totus mundus non sufficit. Quia
+ergo quantumcunque bibat, semper ad bibendum
+inhiat, recte Zelpha, hoc est <hi>os inhians,</hi> vocatur,
+sitis cujus nunquam exstinguitur. Imaginatio autem
+cum tanta importunitate in auribus cordis perstrepit,
+quatenus ejus clamorem, ut diximus, ipsa
+Rachel vix vel omnino cohibere non possit. Hinc
+est quod saepe dum psallimus vel oramus, phantasias
+cogitationum vel quaslibet imagines rerum ab
+oculis cordis amovere volumus, nec valemus. Quoniam
+ergo hujusmodi perstrepentium cogitationum
+quotidie etiam inviti patimur, qualis vel quanta sit
+Balae garrulitas quotidiano experimento docemur.
+<pb n="0006A"/>
+Quaeque etenim visa, vel audita, quandoque quae
+ipsi gessimus vel diximus, ad memoriam revocat, et
+quae ipsa jam enarrando explicaverit, eadem iterum
+atque iterum replicare non cessat. Et saepe,
+cum nulla voluntas cordis ei audiendi assensum
+praebeat, ipsa nihilominus (quamvis nullo quasi
+audiente) narrationem suam explicat. Sic utique
+decrepiti senes, vel inveteratae anus, solent quaelibet
+absque omni auditore referre, et quasi aliquibus
+praesentibus cum eis sermonem conferre. Unde
+non immerito Bala (hoc est <hi>inveterata</hi> ) dicitur,
+quae inveteratorum morem imitatur. Sed de garrulitate
+Balae, et temulentia Zelphae quis nesciat, nisi
+forte qui seipsum ignorat?</p>
+</div2>
+
+<div2>
+        <head>CAPUT VII. <hi>Qui sint affectus principales, et quo ordine vel modo redigantur in virtutes.</hi> </head>
+
+<pb n="0006B"/>
+<p>Nunc de earum filiis, et prius de filiis Liae dicendum
+videtur: nam et ipsa prior peperisse legitur.
+Filii Jacob ex Lia, ut diximus, nihil aliud sunt
+quam ordinati affectus. Qui quidem si inordinati
+sunt, ejus utique filii dici non possunt. Septenaria
+itaque Liae proles, septem sunt virtutes. Siquidem
+nihil aliud est virtus quam animi affectus ordinatus
+et moderatus. Ordinatus quidem, quando illud est
+ad quod esse debet; moderatus, quando tantus est
+quantus esse debet. Principales ergo affectus septem
+sunt qui ab una animi affectione alternatim surgunt.
+Spes videlicet et timor, gaudium et dolor, odium,
+amor et pudor. Isti omnes possunt esse ordinati,
+<pb n="0006C"/>
+modo inordinati; sed, cum fuerint ordinati, tunc
+tantum inter Jacob filios deputandi. Si non esset
+timor inordinatus, sermo divinus minime dixisset: <hi>Illic trepidaverunt timore, ubi non erat timor 
+ <note>(Psal.
+XIII)</note>
+          </hi>. Item, si non esset timor ordinatus, scriptum
+non esset: <hi>Timor Domini sanctus permanet in saeculum
+saeculi <note>(Psal. XVIII)</note>
+          </hi>. Item, si non esset amor
+modo ordinatus, modo inordinatus, Scriptura sacra
+nec hunc praeciperet, nec illum prohiberet: <hi>Diliges,</hi> 
+inquit, <hi>Deum tuum ex toto corde tuo, et ex tota
+mente tua, et ex tota virtute tua, et proximum tuum
+sicut teipsum <note>(Deut. VI)</note>
+          </hi>. Et alibi: <hi>Nolite diligere
+mundum, nec ea quae in mundo sunt <note>(Joan. II)</note>
+          </hi>. Similiter
+debemus et de aliis affectibus intelligere, aliquando
+<pb n="0006D"/>
+ordinatos, et idcirco bonos; aliquando
+inordinatos, et idcirco malos esse. De bonis autem,
+quos et Jacob filios esse diximus, nunc quo ordine
+generentur videamus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VIII. <hi>Quomodo, vel unde oriatur ordinatus timor.</hi> </head>
+<p>Scriptum est: <hi>Initium sapientiae timor Domini <note>(Psal. CX)</note>
+          </hi>.
+Haec ergo est prima virtutum proles,
+sine qua caeteras habere non potes. Qui talem filium
+habere desiderat, mala quae fecit, non solum
+frequenter, sed et diligenter attendat; hinc magnitudinem
+sui sceleris, illinc potentiam judicantis. Ex
+tali consideratione timor nascitur, scilicet filius ille
+qui jure Ruben, hoc est <hi>filius visionis</hi> vocatur.
+Quodammodo etenim caecus est, et minime videt,
+<pb n="0007A"/>
+qui peccare non timet, qui futura mala non praevidet,
+qui non erubescit pravitatem suam, qui non
+expavescit potestatem divinam. Sed, si incipiat ista
+videre, incipiet pariter et timere, et quanto perfectius
+cognoverit, tanto vehementius timebit.
+Vides, ut arbitror, quam juste Ruben vocetur, qui
+ex tali visione generatur. Recte, eo nato, mater
+ejus exclamat: <hi>Vidit Deus humilitatem meam <note>(Gen.
+XXIX)</note>
+          </hi>, eo quod tunc veraciter incipiat videre, et
+videri; Deum cognoscere, et a Deo cognosci; videre
+Deum per intuitum formidinis, videri a Deo per respectum
+pietatis.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IX. <hi>Quomodo oriatur vel ordinetur dolor.</hi> </head>
+<p>
+          <pb n="0007B"/>Primo filio nato, et paulatim crescente, secundus
+nascitur, quia magnum timorem necesse est ut dolor
+sequatur. Quanto enim vehementius quis metuit
+poenam quam meruit, tanto acerbius plangit culpam
+quam fecit. Sed sciendum quia, quacunque
+hora peccator conversus fuerit et ingemuerit, salvus
+erit, secundum illud: <hi>Cor contritum et humiliatum,
+Deus, non despicies <note>(Psal. L)</note>
+          </hi>. Quid tibi videtur?
+Nonne merito talis filius Simeon, id est <hi>exauditio,</hi> 
+vocatur. Qui enim vere poenitet, qui veraciter dolet,
+absque dubio et absque mora indulgentiam accipiet.
+Oratio quae ex corde contrito et humiliato
+profertur, citius exauditur: humiliato per timorem,
+contrito per dolorem. Per Ruben humiliatur,
+per Simeonem conteritur, et in fletu compungitur:
+<pb n="0007C"/>
+sed <hi>Beati qui lugent, quoniam ipsi consolabuntur <note>(Matth. V)</note>
+          </hi>.</p>
+</div2>
+
+<div2>
+        <head>CAPUT X. <hi>Quomodo oriatur vel ordinetur spes.</hi> </head>
+<p>Sed quae, quaeso, consolatio potest esse poenitentibus
+vere, et lugentibus amare, nisi una spes
+veniae? Hic est ille tertius filiorum Jacob, qui idcirco
+Levi, hoc est <hi>additus,</hi> vel <hi>additio</hi> vocatur,
+quia duobus illis prioribus prius datis hic superadditur.
+Non datum, sed additum sermo divinus
+hunc filium nominat, ne ante timorem et condignum
+poenitentiae dolorem quis de spe veniae praesumat.
+Qui enim post perpetrata scelera sine satisfactione
+sibi impunitate blanditur, non tam spe
+<pb n="0007D"/>
+erigitur, quam praesumptione eliditur. Ex tali itaque
+nomine voluit nos Scriptura divina certos efficere,
+hunc nos videlicet filium, nec ante duos illos priores
+posse habere, nec post illos praecedentes hunc
+tertium posse deesse. Vere enim et absque dubio
+quanto quis frequentius, quantoque vehementius
+de suo reatu interno dolore afficitur, tanto certior,
+tanto securior per indulgentiae veniam efficitur: <hi>Secundum multitudinem,</hi> 
+ inquit, <hi>dolorum meorum
+in corde meo consolationes laetificaverunt animam
+meam <note>(Psal. XCIII)</note>
+          </hi>. Hinc namque est quod Spiritus
+sanctus Paracletus, hoc est <hi>Consolator</hi> dicitur, quia
+animam poenitentiae lacrymis afflictam tam frequenter
+quam libenter consolatur. Illam namque
+frequenter visitat, illam libenter confortat, et ad
+<pb n="0008A"/>
+veniae fiduciam plene reformat, quam sua scelera
+flendo damnare, et damnando flere considerat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XI. <hi>Quando oriatur vel ordinetur amor.</hi> </head>
+<p>Incipit extunc quaedam familiaritas inter Deum et
+animam fieri, et amicitia confoederari, eo quod haec
+se sentiat ab illo saepius visitari, et ex ejus adventu
+non tantum jam consolari, imo aliquoties quodam
+ineffabili gaudio repleri. Hanc amicitiae confoederationem
+(nisi fallor) Lia praesenserat, quando jam
+nato Levi cum magna exsultatione proclamabat: <hi>Nunc copulabitur mihi vir meus 
+ <note>(Gen. XXIX)</note>
+          </hi>. Verus
+animae sponsus Deus est, quem tunc veraciter
+nobis copulamus, quando ei per verum amorem inhaeremus.
+Imo vero tunc sibi nos ille connectit,
+<pb n="0008B"/>
+quando nos quibusdam interius commerciis ad suum
+amorem accendit, et arctius astringit. Quod est
+enim cor tam durum et tam ferreum, quod divina
+pietas sua praesentia non emolliat, et sua dulcedine
+non alliciat? Unde fit ut quem prius consueverat
+multum formidare, incipiat postmodum ardenter
+amare. Vides jam, ut arbitror, quod quemadmodum
+post crescentem quotidie timorem, necessario subortus
+est dolor, sic utique post spem natam, et
+per quotidiana incrementa proficientem nascitur
+amor. Hic itaque est ille filiorum Jacob, qui quarto
+loco nascitur, et Judas, id est <hi>confitens,</hi> in Scriptura
+nominatur. Cujus nominis, si rationem quaerimus,
+citius inveniemus. Scimus namque quia
+quisque quod approbat, hoc amat, et quo plus
+<pb n="0008C"/>
+amat, tanto amplius approbat. Et quid est approbare,
+nisi laudare? Illa, illa utique est vera laudatio,
+illa est pura confessio, quae ex casta dilectione surgit,
+quae ex laudis admiratione procedit. Vultis
+nosse apertius quae sit vox exsultationis et confessionis
+quae novit Judas solus, vel caeteris omnibus
+excellentius?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XII. <hi>Quid sit proprium amoris.</hi> </head>
+<p>Attende nunc animum aliquem nimium amantem;
+et nimio amore ferventem. Attende quid sentiat,
+quid secum loquatur de eo quem multum amat,
+quem valde miratur. Quid ergo dicit? Quid secum
+tacitus loquitur? O, inquit, quam bonus, quam
+<pb n="0008D"/>
+benignus, o quam suavis, quam dulcis, o quam
+amandus, quantum amplectendus, quam totus admirabilis,
+quam totus desiderabilis! O beatum
+quem amat! o felicem, quem suo amore dignum
+judicat! Me felicem, si eo frui liceat; me beatum,
+si eum possidere contingat! Haec, nisi fallor, est
+illa vox exsultationis et confessionis qui semper ex
+ore Judae resonat in auribus divinae pietatis. Quid
+tu dicis, Lia? Quid tu proclamas pro Juda? Quid
+tu reddis Domino? Quid retribuis pro tali puero?
+Nunc, inquit, confitebor Domino: <hi>Confitebor,</hi> inquit, <hi>Domino nimis in ore meo 
+ <note>(Psal. CVIII)</note>
+          </hi>. Vere
+utique et absque dubio non solum frequenter, sed
+etiam indesinenter Domino confiteris, si tamen perfecte
+diligis: <hi>Benedicam,</hi> inquit, <hi>Dominum in omni
+<pb n="0009A"/>
+tempore, semper laus ejus in ore meo <note>(Psal. XXXIII)</note>
+          </hi>.
+Semper quidem laudas, si semper amas et semper
+desideras. Nam non amares, si non approbares.
+Quid est enim, ut dictum est, approbare, nisi laudare?
+Et ipsa laudatio, ipsa est confessio. Nec
+putes quod sufficiat Judae confiteri tantum corde,
+nisi etiam confiteatur et ore. Cupit enim Judas et
+aliis commendare, et ad ejus amorem accendere,
+quem omnium amore dignum judicat, et ab omnibus
+amari desiderat. Haec omnia dicta sunt de confessione
+laudis. Sed quid dicemus de confessione criminis.
+An forte Judas istam ignorat, quamvis illam
+tam excellenter agnoscat? Ego non sic existimo,
+quia et hanc et illam ad honorem Dei multum pertinere
+cognosco. Et scio quia qui veraciter diligit,
+<pb n="0009B"/>
+libenter facit quidquid honori Dei militare cognoverit?
+Multum commendat bonitatem Dei non solum
+largitas sua, sed etiam iniquitas nostra, Si
+enim magnum est nil promerentibus gratis impendere
+multa, quale quantumve erit tribuere bona
+promerentibus mala? O qualis pietas, quam nulla
+nostra superare potest impietas! Alia sunt quae misericorditer
+ignoscit, alia quae affluenter tribuit.
+Ignoscit mala nostra, largitur bona sua. Semper
+praesto ad ignoscendum, semper paratus ad largiendum.
+Hic pius, illic largus; utrobique benignus,
+ubique bonus. Confiteamur ergo illi mala
+nostra; confiteamur illi bona nostra. Confiteamur a
+nobis esse mala nostra; ut pie ignoscat, confiteamur
+ab ipso esse bona nostra, ut conservet, et
+<pb n="0009C"/>
+augeat. Haec Judas incessanter actitat, ne ingratus
+appareat, vel de indulta venia, vel de concessa
+gratia. Recte ergo, ut arbitror, hic filius Judas, id
+est <hi>confitens,</hi> vocatur, quia verus amor semper
+confitetur. Denique, cum scriptum sit: <hi>Quia Deus
+veritas est <note>(I Joan. V)</note>
+          </hi>, Deum non amare convincitur
+quisquis veritatem confiteri erubescit: <hi>Justus,</hi> inquit
+Scriptura, <hi>in initio accusator est sui <note>(Prov. XVIII)</note>
+          </hi>.
+Habet ergo quid agat, qui se credit, vel cupit esse
+amatorem Dei, nisi forte putet aliud esse amare
+Deum, quam amare justitiam Dei. Ecce jam habemus
+de quatuor filiis Liae. Primus est timor poenae,
+secundus dolor poenitentiae, tertius spes veniae, quartus
+amor justitiae, et posthaec desinit parere. Sufficere
+<pb n="0009D"/>
+enim sibi posse existimat, cum se vera bona
+veraciter amare considerat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIII. <hi>Quomodo per invisibilium amorem mens instigetur ad invisibilium investigationem.</hi> </head>
+<p>Sed quid putas in corde Rachel agitur, quibus
+putas desideriorum aestibus agitatur, cum videat
+Liam sororem suam matrem filiorum laetantem, se
+autem sterilem permanentem? Audiamus quid dicat,
+et intelligamus quid doleat. Quid ergo dicit Jacob
+viro suo: <hi>Da mihi,</hi> inquit, <hi>liberos, alioquin moriar <note>(Gen. XXIX)</note>
+          </hi>.
+Absque dubio studium sapientiae si non
+proficit, citius deficit. Sed quaeramus diligenter
+quidnam esse possit, quod, nato Juda, Rachel ad
+amorem prolis solito amplius inardescit. Diximus
+<pb n="0010A"/>
+superius quia sicut ad Liam, id est animi affectionem,
+pertinet diligere; sic Rachelis, id est rationis,
+est cognoscere. Ex illa namque oritur quilibet affectus
+ordinatus, ex ista sensus seu intellectus purus.
+Sed quid aliud per Judam intelligimus, nisi amorem
+ordinatum, amorem coelestium, amorem Dei, amorem
+summi boni. Nato itaque Juda, id est, bonorum
+invisibilium desiderio exsurgente atque fervente,
+incipit Rachel amore prolis aestuare, quia
+incipit velle cognoscere. Ubi amor, ibi oculus.
+Libenter aspicimus quem multum diligimus. Nulli
+dubium quia qui potuit invisibilia diligere, quin
+velit statim cognoscere, et per intelligentiam videre,
+et quanto plus crescit Judas (affectus videlicet diligendi),
+tanto amplius in Rachel fervet desiderium
+<pb n="0010B"/>
+pariendi, hoc est studium cognoscendi.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIV. <hi>Quae sit prima via omni ingredienti ad invisibilium contemplationem, videlicet per imaginationem.</hi> </head>
+<p>Sed quis nesciat quam sit difficile, imo quam
+pene impossibile mentem carnalem, et adhuc in
+studiis spiritualibus rudem, ad invisibilium intelligentiam
+assurgere, et in illis contemplationis oculum
+figere? Nulla quippe novit adhuc, nisi corporalia;
+nil aliud adhuc cogitanti occurrit, nisi quae
+cogitare consuevit sola visibilia. Quaerit invisibilia
+videre, et nil occurrit nisi formae rerum visibilium;
+desiderat intueri incorporea, et nil somniat nisi
+imagines rerum corporalium. Quid igitur faciat,
+<pb n="0010C"/>
+quid agat? Nonne melius est qualicunque modo illa
+cogitare, quam oblivioni vel negligentiae tradere?
+Imo, si bene amat mens, ea non facile obliviscitur,
+multo tamen difficilius ad eorum contemplationem
+sublevatur. Facit tamen quod potest, intuetur ea
+quomodo potest. Cogitat per imaginationem, quia
+necdum videre valet per intelligentiae puritatem.
+Haec, ut arbitror, est causa cur Rachel prius liberos
+habeat de ancilla, quam generet de seipsa; quia
+dulce est ei saltem imaginando eorum memoriam
+retinere, quorum intelligentiam nondum valet ratiocinando
+apprehendere. Sicut enim Rachel rationem,
+sic per ejus ancillam intelligimus imaginationem.
+Suadet ergo ratio commodius esse qualicunque
+modo vera bona cogitare, et imaginaria quadam
+<pb n="0010D"/>
+saltem pulchritudine ad eorum desiderium animum
+accendere, quam in falsis et deceptoriis bonis cogitationem
+figere: et haec est ratio cur Rachel voluerit
+ancillam suam viro suo tradere. Hanc esse
+primam viam omni ingredienti ad invisibilium contemplationem
+nemo ignorat, nisi forte, quem ad
+hanc scientiam necdum experientia informat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XV. <hi>Quomodo infirmorum speculationi divinae Scripturae alludant.</hi> </head>
+<p>Sed nec hoc praetereundum, quomodo Scripturae
+divinae huic speculationi alludant et humanae infirmitati
+condescendant. Res enim invisibiles, per
+rerum visibilium formas describunt, et earum memoriam
+per quarumdam concupiscibilium specierum
+<pb n="0011A"/>
+pulchritudinem mentibus nostris imprimunt.
+Hinc est quod nunc terram lacte et melle manantem
+promittunt; nunc flores, nunc odores nominant,
+nunc per cantus hominum, nunc per concentus
+avium coelestium gaudiorum harmoniam designant.
+Legite Apocalypsim Joannis et invenietis coelestis
+Hierusalem ornatum per aurum, et argentum, per
+margaritas vel alias quaslibet gemmas pretiosas
+multipliciter descriptum. Et scimus quidem quia
+horum omnium nihil ibi est, ubi tamen nihil
+omnino deesse potest. Talium namque nihil ibi est
+per speciem, ubi tamen totum est per similitudinem.
+In his omnibus habet Bala unde dominae suae utiliter
+deserviat, quandoquidem ei horum omnium memoriam,
+ubi et quando voluerit pro voto repraesentat.
+<pb n="0011B"/>
+Haec enim statim cum voluerimus imaginari possumus.
+Nunquam imaginatio rationi utilior esse
+poterit, quam cum ei in tali obsequio deservit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVI. <hi>Quod imaginatio alia sit bestialis, alia rationalis.</hi> </head>
+<p>Sed, ut de Balae filiis quae dicenda sunt prosequamur,
+sciendum est quod imaginatio alia bestialis,
+alia rationalis. Bestialis autem inter filios Jacob
+annumerari non debet, nec tamen aliquando Rachel
+adoptivum sibi filium facere volet. Bestialis itaque
+imaginatio est, quando per ea quae paulo ante vidimus,
+vel fecimus, sine ulla utilitate, absque omni
+deliberatione huc illucque vaga mente discurrimus.
+<pb n="0011C"/>
+Haec utique bestialis est: nam et hoc bestia facere
+potest. Rationalis autem est illa, quando ex his quae
+per sensum corporeum novimus, aliquid imaginabiliter
+fingimus. Verbi gratia: Aurum vidimus, domum
+vidimus, auream autem domum nunquam
+vidimus. Auream tamen domum imaginari possumus
+si volumus. Hoc utique bestia facere non potest,
+soli rationabili creaturae possibile. Hujusmodi
+imaginatione saepe utimur, cum quae sint futurae
+vitae bona, vel mala diligentius rimamur. Nusquam
+hic sola bona, nusquam hic sola mala, sed permista
+simul et bona et mala. Et, quamvis in utroque genere
+sint multa, nunquam tamen inveniuntur sola.
+Ibi inveniri possunt et bona sine admistione malorum,
+et mala nihilominus sine admistione bonorum.
+<pb n="0011D"/>
+Item hic sicut nec sola, sic nec summa invenimus.
+Ibi, et summa et impermista bona, et mala esse
+non dubitamus. Quoties igitur ex multis bonis, vel
+malis quae in hac vita sensus corporeus experitur,
+quale, vel quantum esse possit illud futurae vitae
+summum bonum sive malum colligitur, et ex horum
+imaginatione, quaedam futurorum imago figuratur,
+talis utique imaginatio rationalis esse facile
+convincitur, et ad Balam, et ad Rachel pertinere
+videtur. Ad Balam pertinet, in quantum imaginatio
+est; ad Rachel autem, in quantum rationalis est.
+Talis itaque proles, et imaginationis est per nativitatem,
+et rationis per adoptionem. Hujusmodi
+enim prolem una generat, sed altera educit. Ex
+Bala namque nascitur, sed per Rachel moderatur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVII. <hi>Quod cum imaginationem, rationem, voluntatem dicimus, diversis modis id accipimus.</hi> </head>
+
+<pb n="0012A"/>
+<p>Neminem conturbet quod et matrem et prolem
+imaginationem appellem. Sed hoc volo esse inter
+matrem et filium, quod est inter instrumentum et
+actum, vel hoc est inter matrem et prolem ejus,
+quod est inter genus et speciem. Nam genus adjuncta
+sibi differentia ex se speciem generat, quemadmodum
+copula viri feminam ad prolem fecundat.
+Et saepe instrumentum et ejus actionem uno nomine
+appellamus: nam illud quod videmus, et illud quo videmus,
+visum vocamus. Sic cum ratio, vel voluntas,
+vel intellectus nominatur, aliquando instrumentum,
+aliquando ejus actio intelligitur. Et scimus quidem
+<pb n="0012B"/>
+quia instrumentum quam ejus actio semper prius
+est, et sine ipsa esse potest. Habet ergo ab instrumento
+actio esse, non instrumentum ab actione.
+Unde nec inconveniens est, per instrumentum matrem,
+per actionem autem filium ejus intelligere.
+Imaginatio ergo, quando instrumentum significat, est
+vis illa animae qua cum voluerit quodlibet imaginari
+valet. Hoc instrumento cum ad aliquid imaginandum
+mens utitur, actio procul dubio quaedam
+efficitur, quae similiter imaginatio nominatur. Haec
+volui breviter commemorare, sed in his immorari
+diutius non est necesse. Sed nunc ad prosecutionis
+ordinem revertamur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVIII. <hi>De gemina speculatione, quae surgit ex imaginatione.</hi> </head>
+
+<pb n="0012C"/>
+<p>Diximus quia sola rationalis imaginatio ad Rachel
+pertinere videatur, et quae rationalis non est, ejus
+adoptione prorsus indigna judicatur. Sed rationalis
+imaginatio alia est per rationem disposita, alia intelligentiae
+permista. Illa utimur, quando secundum
+visibilium rerum cognitam speciem visibile aliud
+aliquid mente disponimus, nec tamen ex eo invisibile
+aliquid cogitamus. Ista vero tunc utimur, quando
+per visibilium rerum speciem ad invisibilium cognitionem
+ascendere nitimur. In illa est imaginatio
+non sine ratione, in ista intelligentia non absque
+imaginatione. Isti sunt duo filii Balae, quorum primogenitus
+Dan dicitur, posterior Nephtalim nominatur.
+Ad Dan itaque specialiter pertinet consideratio
+<pb n="0012D"/>
+futurorum malorum: ad Nephtalim autem speculatio
+futurorum bonorum. Dan nihil novit nisi
+corporalia, sed ea tamen rimatur quae longe sunt
+a sensu corporeo remota. Nephtalim per rerum visibilium
+formam surgit ad rerum invisibilium intelligentiam.
+Infernalia tormenta longe a sensu corporeo
+remota non dubitamus, quia ubi vel qualia sint videre
+non possumus, sed tamen haec quoties volumus,
+per ministerium Dan prae oculis cordis habemus.
+Nemo fidelium cum infernum, flammam gehennae,
+tenebras exteriores in Scripturis sanctis
+legit, haec figuraliter dicta credit, sed ista veraciter
+et corporaliter alicubi esse non diffidit. Unde fit
+nimirum ut, quamvis quispiam haec ante oculos
+cordis per imaginationem ponat, non statim eorum
+<pb n="0013A"/>
+significationem per spiritalem intelligentiam quaerat,
+quia haec non tam figuraliter quam historialiter
+dicta, non dubitat. Recte ergo considerationem
+ad Dan specialiter pertinere jam diximus, ubi sola
+imaginatione opus habemus, quamvis eam in tali
+negotio non sine rationis dispositione tractamus.
+Sed cum terram lacte et melle manantem, coelestis
+Hierusalem muros ex lapidibus pretiosis, portas ex
+margaritis, plateas ex auro legerit, quis sani sensus
+homo haec juxta litteram accipere velit? Unde statim
+ad spiritualem intelligentiam recurrit, et quid
+ibi mysticum contineatur, inquirit. Videsne quomodo
+haec talis futurorum descriptio ad Nephtalim
+tantum pertinere videatur, ubi sine intelligentia,
+sola imaginatio sufficere non posse minime ignoratur.
+<pb n="0013B"/>
+Recte ergo dictum est quod ad Dan specialiter
+pertineat consideratio futurorum malorum, ad Nephtalim
+autem maxime speculatio futurorum bonorum.
+Multa tamen, et quae de tormentis malorum
+scripta sunt, mystice accipienda sunt, et multa similiter
+de futurae vitae bonis (quamvis corporalia
+describantur) simpliciter intelligenda.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIX. <hi>De prima speculatione, et ejus proprietate.</hi> </head>
+<p>Illud autem sciendum est, imo nec hoc ignorari
+potest, quia illa consideratio meditanti facilius
+occurrit, quae in sola imaginatione consistit. Nam
+illa, quae cum sola intelligentia permiscetur, quanto
+subtilior, tanto difficilius invenitur. Unde est quod
+<pb n="0013C"/>
+Dan prior, Nephtalim vero posterior nascitur. Hoc
+autem in hac gemina consideratione valde notabile,
+quod Dan scilicet per praesentium rerum imaginationem
+veram repraesentat rerum futurarum imaginationem
+fictam. Nephtalim vero saepe per descriptae
+rei imaginationem fictam surgit ad intelligentiam
+veram. Neque enim licet de futuris et invisibilibus
+bonis per spiritualem intelligentiam aliquid falsum
+fingere, quamvis absque culpa sit, tormenta malorum
+multo aliter quam sunt per imaginationem cernere.
+Quis enim ea omnino prout sunt in hac vita
+contemplari sufficiat? Sed quisque ea pro arbitrio
+mentis non qualia sunt, sed qualia fingere novit,
+figurando describit. Unde fortassis hic talis filius
+Dan, id est <hi>judicium,</hi> vocatur, quia in tali repraesentatione
+<pb n="0013D"/>
+non experientiae documentum, sed suae
+discretionis sequitur arbitrium. Nam, quoniam
+Dan futurarum rerum repraesentationem in cujusque
+mente ex proprio judicio format, recte
+quis, ut arbitror, artificem talium Dan in judicium
+vocat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XX. <hi>De officio primae speculationis.</hi> </head>
+<p>Est tamen hujus nominis alia ratio, quae forte
+quanto subtilior, tanto etiam invenitur et utilior:
+sancti etenim viri quoties se sentiunt turpibus cogitationibus
+pulsari, et ad illicitam delectationem
+incitari, toties solent in ipso etiam tentationis aditu
+futura tormenta ante mentis oculos ponere, et ex
+tali consideratione, quidquid mens illicitum suggerit,
+<pb n="0014A"/>
+ante turpem delectationem exstinguere. Hoc igitur
+modo in se statim, per considerationem poenae
+ulciscuntur, et damnant blandimenta culpae. Quia
+ergo per officium Dan illecebrosae cogitationes deprehendimus,
+arguimus, damnamus, castigamus,
+recte eum Dan, id est judicium, vocamus. Sed, quid
+hoc de turpibus tantum cogitatibus loquimur, quandoquidem
+vanas et inutiles perfecti viri non leviter
+abominantur, propter illud quod scriptum invenitur: <hi>Vae qui cogitatis inutile! 
+ <note>(Mich. I.)</note>
+          </hi> Et illud: <hi>Spiritus
+sanctus disciplinae effugiet fictum, et auferet se a cogitationibus
+quae sunt sine intellectu <note>(Sap. I)</note>
+          </hi>. Quid
+ergo, quaeso, fiet de his quae sentimus non sine quodam
+illicito affectu, quando Spiritus sanctus aufert
+se ab his etiam quae sunt sine intellectu? Saepe fit
+<pb n="0014B"/>
+ut in oratione constituti, quasdam cogitationum
+phantasias cum importunitate se magna ingerentes
+corde toleremus. Sed nunquid eas sine nostra reprehensione
+negligere debemus? Nonne magis eas oportet
+acriter arguere, et, ut dictum est, per repraesentationem
+poenae reprimere irritationem culpae et cogitationibus
+castigare? Unde scriptum est: <hi>Dan judicabit
+populum suum sicut alia tribus in Israel <note>(Gen.
+XLIX)</note>
+          </hi>. Ad filios quippe Zelphae pertinet disciplina
+operum, ad filios Liae dispositio voluntatum: ad
+filios Rachel sententia assertionum, ad filios vero
+Balae moderatio cogitationum. Quaelibet ergo cogitatio
+quasi in sua tribu judicatur, quando omne erratum
+per suum simile corrigitur, quando voluntas
+voluntate emendatur, quando opus opere castigatur,
+<pb n="0014C"/>
+assertio assertione corrigitur. Quoties ergo falsum
+aliquid sentimus, quoties injustum aliquid volumus,
+quoties inordinatum aliquid agimus, statim nos reprehensibiles
+esse minime ignoramus. Sed nunquid
+aeque omnes reprehensione dignos se esse judicant,
+quando aliquid inutile vel inordinatum cogitant?
+Multorum est se ipsos reprehendere de perverso
+opere vel prava voluntate; pauci sunt qui seipsos
+dijudicent de inordinata cogitatione. Sed, quia perfecti
+viri hoc faciunt, et facere eos oportet qui perfecti
+esse volunt, idcirco Jacob praedicit vel praecipit,
+dicens: <hi>Dan judicabit populum suum sicut alia tribus
+in Israel.</hi> </p>
+</div2>
+
+<div2>
+        <head>CAPUT XXI. <hi>De utilitate primae speculationis.</hi> </head>
+
+<pb n="0014D"/>
+<p>Si enim Dan populum suum districte custodiat, si
+judicium suum diligenter exerceat, fiet ut in caeteris
+tribubus raro inveniatur quod jure damnari debeat.
+Mens enim quae statim in ipsa suggestione praecidit
+illecebrosam cogitationem, non facile rapitur in pravam
+delectationem, sicut et culpa quae cohibetur
+ante pravum consensum, nunquam transit in actum.
+Debet ergo Dan prae caeteris omnibus vigil et districtus
+in judicio esse, ut detur aliis tribubus ex majori
+parte absque lite et disceptatione vivere. Semper
+inveniet Dan in sua tribu quod examinare debeat,
+quod juste reprehendat, quamvis in aliis possit fieri
+ut aliquando aliqua earum sine culpa valeat inveniri.
+Aliarum namque culpa est in voluntate, hujus
+<pb n="0015A"/>
+autem exordinatio saepe est in necessitate. Nunquam
+enim malum approbo, nunquam malo consentio,
+nunquam malum perficio, nisi ipse voluero; malum
+autem per cogitationem occurrere potest etiam invito.
+Sed ad Dan pertinet exsurgens malum statim,
+cum per cogitationem pulsat in judicium adducere,
+diligenter discutere, deprehensum damnare, et deceptoriam
+cogitationem ex alia consideratione percutere,
+et tentantia mala ex tormentorum recordatione
+exstinguere. Vides jam, ut arbitror, quam recte
+hic filius Dan, id est judicium, vocetur, de quo
+solo dubitatur utrumnam populum suum judicare
+habeat, cum solus, si fieri posset, ne caeteri habeant
+quid judicent, non solum assidue sed et districte
+judicare debeat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXII. <hi>De secunda speculatione, et ejus proprietate.</hi> </head>
+
+<pb n="0015B"/>
+<p>Sed, sicut ad officium Dan spectat per repraesentationem
+poenae reprimere exsurgentia vitia; sic ad
+Nephtalim pertinet per considerationem praemiorum
+inflammare desideria bona. Mirabiliter enim animum
+nostrum Nephtalim ad eorum desiderium accendit,
+quoties aeternorum bonorum imaginem ante
+mentis oculos adducit, quod tamen duobus modis
+facere consuevit. Utitur namque aliquando translatione,
+aliquando autem comparatione. Comparatione,
+quando ex praesentium bonorum multitudine
+vel magnitudine colligit illa futurae vitae gaudia, quot
+vel quanta esse possint. Verbi gratia: Inspecta
+saepe solis claritate (corporeo videlicet lumine) considerat
+<pb n="0015C"/>
+quanta futura erit lux illa spiritualis, si tanta
+tamque mirabilis est lux ista corporalis. Quanta
+namque putas erit lux illa quae erit nobis communis
+cum angelis, si tanta est ista quam habemus communem
+cum bestiis! Qualis erit lux futura beatorum,
+si talis est praesens lux ista miserorum! Item
+multiplicitatem bonorum invisibilium conjicit ex
+multitudine bonorum visibilium. Quot ergo putamus
+ea esse? Sed quis ea possit dinumerare? Quot sunt
+oblectamenta oculorum, quot oblectamenta aurium
+caeterorumque sensuum? Quot sunt colores, quot
+odores, quot sapores? Si ergo tot sunt deliciae corporum,
+quot erunt deliciae spirituum? Si tanta possidemus
+in tempore, quanta sunt quae exspectamus
+<pb n="0015D"/>
+in aeternitate? In hunc igitur modum utitur comparatione:
+utitur nihilominus, ut dictum est, translatione,
+quando rerum visibilium descriptionem
+transfert ad rerum invisibilium significationem.
+Verbi gratia: Audit in Scripturis nominari lucem,
+sicut de Deo scriptum est: <hi>Quia habitat lucem inaccessibilem <note>(I Tim. VI)</note>
+          </hi>.
+Quaerit ergo quae sit lux ista
+incorporea quam inhabitat invisibilis et incorporea
+Dei natura, et invenit quia lux ista est ipsa Dei sapientia,
+quia ipsa est lux vera. Sicut enim lux ista
+exterior illuminat oculos corporum, ita illa absque
+dubio illuminare consuevit oculos cordium. Ecce
+quomodo Nephtalim per rerum visibilium qualitatem
+surgit ad rerum invisibilium cognitionem. Patet
+ergo quam recte secundum utramque interpretationem
+<pb n="0016A"/>
+Nephtalim dicatur. Nephtalim namque <hi>comparatio</hi> 
+vel <hi>conversio</hi> interpretatur. Solet namque cognitam
+quamlibet rerum visibilium naturam convertere
+ad spiritalem intelligentiam. Quia ergo pene quidquid
+scriptum reperit, ad spiritualem intelligentiam
+convertit, recte conversionis nomen accepit. Et
+item quia assidue, ut dictum est, comparatione utitur,
+recte nihilominus Nephtalim, id est comparatio,
+nominatur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXIII. <hi>Quid sit familiare, seu etiam speciale speculationi secundae.</hi> </head>
+<p>Sciendum autem quia illud contemplationis genus,
+quod in pura intelligentia versatur, hujusmodi speculatione,
+quae per Nephtalim designatur, quanto
+<pb n="0016B"/>
+subtilius, tanto nimirum excellentius esse cognoscitur.
+Habet tamen hujusmodi speculatio aliquid singulare
+valdeque notabile. Est enim prae caeteris
+rudibus quidem adhuc mentibus, minusque exercitatis,
+et ad intelligendum facilior, et ad audiendum
+jucundior. Siquidem haec meditanti facilius occurrit
+et audientem dulcius afficit. Est plane et promptior
+in meditatione, et affabilior in sermone. Unde et
+per Jacob de Nephtalim dicitur: <hi>Nephtalim cervus
+emissus, dans eloquia pulchritudinis <note>(Gen. XLIX)</note>
+          </hi>.
+Cervus namque dicitur, propter currendi facilitatem;
+emissus, propter currendi aviditatem. Cervus animal
+velox nimis multum currere potest, et multum
+currere cupit, qui emissus est. Recte ergo, nisi
+fallor, Nephtalim, cervus emissus dicitur, quia per
+<pb n="0016C"/>
+contemplationis gratiam multa percurrere valet, et
+propter contemplationis dulcedinem, multum ei
+currere placet. In tanta enim velocitate Nephtalim
+iste contemplantis animum (in hujusmodi tamen
+negotio aliquantulum exercitatum) nunc ad summa
+erigit, nunc ad ima deponit, nunc per innumera
+rapit, ut ipse animus, qui haec patitur, semetipsum
+saepe miretur felici magisterio edoctus quam convenienter
+Nephtalim noster cervus emissus dicatur.
+Notandum sane quam recte, non avi volanti, sed
+cervo currenti comparatur: nam avis quidem volando
+longe a terra suspenditur, cervus autem ad
+dandos saltus, terrae innititur, sed nec in ipsis suis
+saltibus, longius a terra separatur. Sic nimirum,
+<pb n="0016D"/>
+sic Nephtalim, dum per rerum visibilium formam,
+rerum invisibilium naturam quaerit, quosdam saltus
+dare, non autem ad plenum volatum convalescere
+consuevit, quia in eo quod se ad summa erigit, rerum
+corporearum secum umbram trahens ima omnino
+non deserit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXIV. <hi>Quanta sit jucunditas speculationis secundae.</hi> </head>
+<p>Ecce quomodo sit cervus emissus. Sed quomodo
+dans eloquia pulchritudinis, fortassis hoc per exempla
+evidentius ostendemus, persuadebimus plenius.
+Vultis audire eloquia pulchritudinis, eloquia suavitatis,
+plena decore, plena dulcedine, qualia Nephtalim
+formare consuevit, vel qualia eum formare convenit: <hi>Osculetur me,</hi> 
+ inquit, <hi>osculo oris sui <note>(Cant. I)</note>
+          </hi>.
+<pb n="0017A"/> <hi>Fulcite me floribus, stipate me malis, quia amore
+langueo 
+ <note>(Cant. II)</note>
+          </hi>. <hi>Favus distillans labia tua, mel et
+lac sub lingua tua, et odor vestimentorum tuorum sicut
+odor thuris <note>(Cant. IV)</note>
+          </hi>. Quid, quaeso, dulcius hujusmodi
+eloquiis, quid jucundius invenitur? Quid
+talibus eloquiis libentius, quid avidius auditur? Ista
+verba carnale aliquid sonare videntur, et tamen
+spiritualia sunt quae per ipsa describuntur. Sic novit
+Nephtalim carnalia cum spiritualibus permiscere, et
+per corporalia incorporea describere, ut utraque hominis
+natura in ejus dictis inveniat unde se mirabiliter
+reficiat qui ex corporea et incorporea natura
+constat. Hinc est fortasse quod homini tam suaviter
+sapiunt, quod quodammodo, ut dictum est, utramque
+ejus naturam reficiunt. Illud autem in ejus dictis
+<pb n="0017B"/>
+est valde mirabile dignumque admiratione quod
+tunc fere semper delectabilius blanditur, quando
+juxta litterae sensum nihil sonare videntur quale est
+illud: <hi>Capilli tui sicut greges caprarum quae ascenderunt
+de monte Galaad. Dentes tui sicut greges tonsarum,
+quae ascenderunt de lavacro <note>(Cant. IV)</note>
+          </hi>. <hi>Nasus
+tuus sicut turris Libani quae respicit contra Damascum,
+caput tuum sicut Carmelus <note>(Cant. VII)</note>
+          </hi>. Haec et
+hujusmodi alia cum audiuntur, vel leguntur, jucunda
+valde esse videntur, et tamen in his omnibus, si solum
+litterae sensum sequimur, nil in eis invenimus quod
+digne miremur. Sed forte in hujusmodi dictis hoc
+est quod tam libenter amplectimur, quod ex jucunda
+quadam, ut ita dicam, litterae fatuitate ad spiritualem
+intelligentiam confugere coarctamur. Si ergo pensamus,
+<pb n="0017C"/>
+iste noster Nephtalim quam sit expeditus in
+meditatione, quam sit jucundus in sermone, citius
+advertere licet quam recte de eo Scriptura pronuntiet: <hi>Nephtalim cervus emissus dans eloquia pulchritudinis.</hi> </p>
+</div2>
+
+<div2>
+        <head>CAPUT XXV. <hi>De gemina virtutum prole quae nascitur ex edomita sensualitate.</hi> </head>
+<p>Sed haec interim filiis Balae dicta sufficere volumus;
+restat nunc de filiis Zelphae aliquid loquamur.
+Videns itaque Lia sororem suam Rachel de adoptiva
+jam prole gaudere, provocatur et ipsa ancillam suam
+viro suo tradere, ut possit et ipsa cum sorore sua de
+filiorum adoptione exsultare. Si igitur, ut superius
+<pb n="0017D"/>
+dictum est, per Zelpham sensualitatem debemus
+accipere, quam aliam, quaeso, virtutis prolem potest
+ipsa gignere, nisi ut discat et in rebus prosperis temperanter
+vivere, et in adversis patientiam habere?
+Isti sunt Gad, et Aser, duo filii Zelphae, rigor videlicet
+abstinentiae et vigor patientiae. Gad itaque nascitur
+prior, Aser autem gignitur posterior, quia prius
+est ut temperantes simus ad bona propria; postea
+etiam ut fortes simus ad toleranda mala aliena. Haec
+est gemina virtutum proles, quam Zelpha quidem
+parit in dolore, verumtamen ad magnam beatitudinem
+dominae suae. Per abstinentiam siquidem vel
+patientiam caro quidem affligitur, sed ad magnam
+inde pacem et tranquillitatem animus componitur.
+Hinc est quod, nato Gad, Lia exclamat, dicens: <hi>Feliciter;</hi> 
+<pb n="0018A"/>
+et iterum Aser nascendo pronuntiat, dicens: <hi>Hoc pro beatitudine mea 
+ <note>(Gen. XXX)</note>
+          </hi>. Mea, inquit,
+non sua. Unde enim sensualitas per carnem exterius
+atteritur, inde cordis affectio ad puritatis integritatem
+reparatur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXVI. <hi>De rigore abstinentiae, et vigore patientiae, et eorum proprietate.</hi> </head>
+<p>Quanta enim putas pax cordis est, vel tranquillitas,
+nulla hujus mundi oblectamenta concupiscere,
+nulla ejus adversa formidare? Quorum unum
+per Gad adipiscitur, alterum per Aser obtinetur.
+Quid enim de hujus mundi oblectamentis concupiscat,
+qui oblata delectamenta amore abstinentiae
+recusat? Vel quid de hujus mundi adversis timeat,
+<pb n="0018B"/>
+qui virtute patientiae roboratus de illatis etiam malis
+triumphat? Sicut de apostolis scriptum est: <hi>Ibant apostoli gaudentes a conspectu concilii, quoniam
+digni habiti sunt pro nomine Jesu contumeliam
+pati 
+ <note>(Act. V)</note>
+          </hi>; et sicut per Paulum praecipitur: <hi>In
+tribulatione gaudentes <note>(Rom. XII)</note>
+          </hi>. Quid igitur illius
+gaudium imminuat, qui etiam de illata contumelia
+vel qualibet pressura exsultat? Ad beatitudinem ergo
+animi spectat, quidquid pro Dei amore caro durum
+tolerat. Unde enim corpus atteritur, conscientia
+exhilaratur. Et quo exterius videtur infelicior, eo
+interius constat esse beatior. Duo enim sunt ex
+quibus constat gaudium beatitudinis, carere eo, scilicet
+quod nolis, et habere quod velis. Felicem siquidem
+dicimus qui nil patitur quod nolit, et illum
+<pb n="0018C"/>
+beatum judicamus cui suppetunt quae cupit. Qui
+igitur pro coelestium desiderio saeculi voluptatem
+odit, profecto per abstinentiam hostem suum ubique
+declinare poterit. Recte ergo rigor abstinentiae
+Gad, id est <hi>felicitas</hi> dicitur, qui ubique calcat saeculi
+blandimenta quae detestatur. Item qui pro
+amore Dei afflictionem corporis diligit, ubi, quaeso,
+non inveniat aliquid unde affligi possit? Si ergo
+jure beatus creditur, qui ubique invenit quod amat,
+juste vigor patientiae. Aser, hoc est <hi>beatus,</hi> nominatur,
+cui undique obviat quod desiderat. Ecce duo
+amatores, unus Dei, alter saeculi. Iste propter Deum
+diligit temporalem afflictionem, ille desiderat temporalem
+bonorum plenitudinem. Ille quidem ubique
+<pb n="0018D"/>
+invenire potest quod propter Deum diligit, iste
+nusquam apprehendere potest bonorum plenitudinem
+quam sitit. Quis horum beatior? Item ecce alii
+duo, quorum unus odit mundi hujus adversitatem,
+alter autem detestatur mundanam voluptatem. Sed
+ubi, quaeso, vel ille hostem suum declinare poterit,
+vel iste inimicum suum calcare non possit? Quis
+horum, quaeso, felicior? <hi>Beatus,</hi> inquit Scriptura, <hi>qui
+post aurum non abiit, nec speravit in pecuniae thesauris <note>(Eccli. XXXI)</note>
+          </hi>.
+Et item: <hi>Beatus vir qui suffert
+tentationem, quoniam, cum probatus fuerit, accipiet
+coronam vitae <note>(Jac. I)</note>
+          </hi>. Isti sunt Gad et Aser, quorum
+prior calcat mundanam gloriam, alter propter
+Deum libenter patitur mundi pressuram. Valde itaque
+notandum et profunde retinendum quod Scriptura
+<pb n="0019A"/>
+sacra abstinentiae laborem non calamitatem,
+sed felicitatem appellare voluit, et patientiae rigorem
+non miserum, sed beatum appellare decrevit.
+Hoc autem breviter hic commemorare volumus,
+quod per Gad non solam illam quae in cibo et potu
+est abstinentiam intelligere debemus; imo per Gad
+et Aser intelligimus omnis superfluae delectationis,
+aut cujuslibet corporalis afflictionis abstinentiam
+vel patientiam, in omnibus quae per quinque sensus
+carnem delectant aut cruciant.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXVII. <hi>Quod sensualitatis appetitus non temperatur, si imaginationis evagatio non restringitur.</hi> </head>
+<p>Sed quando, quaeso, Lia ancillam suam viro suo traderet,
+vel tales filios adoptaret, nisi sororis suae exemplo
+<pb n="0019B"/>
+provocata fuisset? Prius enim semper est ut ancilla
+Rachel redigatur sub viri potestate quam ancilla
+Liae. Si enim imaginationis evagatio quae fit per inutiles
+cogitationes prius non reprimitur, absque dubio
+sensualitatis appetitus immoderatus minime
+temperatur. Qui igitur vult corporalium voluptatum
+desideria temperare, prius assuescat carnales delicias
+nunquam, vel saltem raro cogitare. Profecto
+namque quanto talia rarius cogitaveris, tanto rarius,
+tanto tepidius nimirum ea desiderabis. Haec,
+nisi fallor, est causa cur sub virili dominio prior
+incurvetur Bala quam Zelpha. Patet nihilominus
+quod de Gad et Aser abstinentia, videlicet et patientia,
+nunquam adoptivos filios faceret, nisi sororis
+<pb n="0019C"/>
+suae Rachel adoptivam sobolem assidue cerneret. Quis
+enim unquam affectioni cordis posset persuadere
+mundi hujus prospera contemnere, et ejus adversa
+formidare, nisi suggerentibus Dan et Nephtalim
+futurae vitae tormenta, vel praemia aeterna, non solum
+frequenter, imo pene indesinenter cogeretur aspicere?
+Nunc autem per assiduam considerationem
+futurorum malorum facile ei persuadetur contemptus
+praesentium bonorum. Et iterum per jugem
+contemplationem aeternae felicitatis inflammatur ad
+voluntariam tolerantiam pressurae temporalis. Hoc
+est, ut arbitror, cur Dan et Nephtalim prius nascantur,
+et cur Gad et Aser posterius generentur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXVIII. <hi>Quomodo per abstinentiam et patientiam animus roboratur ad omnem obedientiam.</hi> </head>
+
+<pb n="0019D"/>
+<p>Natis itaque Gad et Aser, jam tempus instat quo
+Ruben mandragoras inveniat, si tamen eum foras
+exire non pigeat. Sed cur eum velle exire dubitemus,
+quem jam ad exeundum, vel introeundum
+idoneum esse cognoscimus? Credendum est enim
+eum post tot natos matris suae, post tot liberos
+Balae vel Zelphae, jam adultum, et posse et velle ad
+patris sui imperium exire et intrare. Sed, si per
+Ruben, ut superius dictum est, timorem Dei accipimus,
+quid per ejus introitum vel exitum accipere
+debemus? Quid est eum vel intus esse, vel foras
+exire? Ruben intus est, quando in secreto cordis in
+conspectu Dei de nostra conscientia trepidamus.
+Ruben tunc foras exit, quando propter Deum hominibus
+<pb n="0020A"/>
+etiam nos ad omnem obedientiam inclinamus.
+Timere itaque Deum propter seipsum, homines autem
+propter Deum est Ruben nunc intus morari,
+nunc foris inveniri. Exit ergo Ruben tempore messis
+triticeae, quando ex imperio obedientiae exercet
+se in operibus justitiae. Sed, quando putas Ruben ad
+perfectam obedientiam convalescere, nisi eum Gad
+et Aser (id est amor abstinentiae et patientiae) ad
+contemptum voluptatis, vel ad tolerantiam tribulationis
+animasset? Duo enim sunt quae solent imperfectionem
+obedientiae praepedire, id est ne cogamur
+vel amata deserere, vel aspera tolerare. Sed, si
+semel animus amore abstinentiae vel patientiae perfecte
+incaluerit, protinus Ruben ad omnem obedientiam
+absque ulla contradictione se subdit. Qui
+<pb n="0020B"/>
+enim tam adversa perpeti quam in prosperis non
+delectari apud semetipsum statuit, quae difficultas
+ejus obedientiam ulterius minuere poterit? Si enim
+dura et aspera quaeque pro Dei amore etiam per
+memetipsum appeto, cur non magis haec ex adjuncta
+obedientia ad majoris meriti gloriam tolero?
+Recte ergo post natum Gad et Aser Ruben exire
+dicitur, quia timor Domini ex voluntaria abstinentia
+et patientia ad omnem obedientiam roboratur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXIX. <hi>Quomodo ex abstinentia, humana laus surgit, et quam caute ejus appetitus temperandus sit.</hi> </head>
+<p>Sed quantus qualisque bonae opinionis odor de
+seipso circumquaque spargitur, qui nulla modestia,
+<pb n="0020C"/>
+nulla inopia a studio obedientiae praepeditur? Hae
+sunt mandragorae quas Ruben invenit, quas ab ipso
+mater ejus Lia accepit. Quid enim per mandragoras
+quae odorem suum solent late spargere, nisi bonae
+opinionis famam debemus accipere? Quas quidem
+tunc Lia accipit, quando oblata laus affectum tangit,
+quando in laudis suae praeconiis animus afficitur,
+et in aura popularis favoris perversae delectatur.
+Harum partem Rachel petit, Lia concedit, ut virum
+accipiat, quae prolis desideria flagrat. Mentem etenim
+quae, suadente ratione, appetitum vanae laudis
+non temperat, profecto Spiritus sanctus ad virtutis
+prolem minime fecundat. Unus itaque Spiritus est
+qui utramque sororem prolis fecunditate ditat, quia
+idem Spiritus et rationem ad veritatis cognitionem
+<pb n="0020D"/>
+illuminat, et affectionem ad virtutis amorem inflammat.
+Suadet ergo affectioni ratio humani favoris
+appetitum sub uno moderamine temperare, si ad
+multiplicandam virtutum prolem cupit de divini
+Spiritus copula gaudere. Mandragorarum itaque
+possessio sub Rachel potestate redigitur, quando
+laudis appetitus sub rationis dominio moderatur.</p>
+<p>Notandum sanc quam temperate Rachel non mandragoras,
+sed mandragorarum partem petat: nam
+nec hoc rationem latet valde esse difficile ut animus
+quamvis renitens ex oblata laude non hilareseat.
+Debet itaque amor humanae laudis prius temperari;
+postmodum, si posset fieri, debet etiam penitus
+abscindi. Unde est quod Rachel partem mandragorarum
+petiisse legitur; Lia vero postmodum ad Jacob
+<pb n="0021A"/>
+loquens, non de sola parte gloriatur. <hi>Ad me,</hi> 
+inquit, <hi>intrabis: mercede enim conduxi te pro mandragoris
+filii mei <note>(Gen. XXX)</note>
+          </hi>. Pro mandragoris, inquit,
+non pro parte mandragorarum filii mei. Absente
+adhuc viro, vix Lia partem concedit, sed in
+ejus adventu ejus desiderio uberius accensa, nihil
+sibi ex eis ulterius reservari voluit. Sic nimirum
+mens hominis dum spirituali dulcedine tangitur,
+quidquid prius de humana laude concupierat libenter
+obliviscitur. In hunc modum mandragorae utiliter
+de possessione Liae, rediguntur sub Rachel potestate.
+Novit enim Rachel quam Lia mandragoris
+melius uti: nam quidquid affectio cordis usurpat ad
+laudem sui, rectius sane ratio retorquet ad gloriam
+Dei. Sed quid hoc dicimus esse quod prae caeteris
+<pb n="0021B"/>
+filiis Liae, Ruben bonae opinionis mandragoras potuit
+invenire.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXX. <hi>Unde maxime soleat laus surgere, et quod vera laus sit de recta voluntate.</hi> </head>
+<p>Sed scimus quia virtutum opera quae caeteras
+virtutes nutriunt, pene semper humilitatem exstinguunt.
+Solent enim quae per Gad et Aser fiunt hominibus
+miranda, abstinentiae videlicet et patientiae
+opera, operantem non timidum, sed tumidum reddere;
+non tam humilem, quam contumacem efficere.
+Quid igitur amplius mirandum? quid magis omnium
+laude praedicandum, quam cum unde in aliis saepe
+exstinguitur, divini timoris reverentia non minuitur,
+sed augetur? Quia ergo solemus singulari laude
+<pb n="0021C"/>
+efferre, quem videmus etiam post virtutum opera
+non solum de Dei, sed de hominum parva offensa
+non parum trepidare, recte Ruben mandragoras
+post natos Gad et Aser invenisse dicitur; quia
+quemlibet ex operibus praeclaris ad tumorem non ad
+timorem profecisse miramur.</p>
+<p>Notandum sane quod hae, de quibus locuti sumus
+mandragorae, nec post natos tot Liae, nec post geminos
+liberos Balae, sed post nativitatem filiorum
+Zelphae statim leguntur inventae. Ad filios namque
+Liae voluntates, ad filios Balae cogitationes, ad filios
+Zelphae pertinent actiones. Voluntates itaque seu
+cogitationes, quamvis rectas, quantumlibet utiles,
+quomodo miramur, vel quando laudabimus quas
+<pb n="0021D"/>
+minime videmus? Et quamvis vera laus sit de recta
+voluntate, eam tamen non laudamus nisi appareat
+in opere. Per opus enim bonum bona voluntas innotescit,
+ut jure bonae opinionis laudem, quasi quasdam
+late fragrantes mandragoras invenire possit.
+Quasi ergo post partum Zelphae, proles Liae mandragoras
+invenire creditur, quando voluntas bona, per
+bonum opus manifesta, miris laudum praeconiis undique
+honoratur.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXXI. <hi>Quomodo virtutibus praedictis muniatur tam disciplina cordis, quam corporis.</hi> </head>
+<p>Hoc autem de duarum istarum filiis ancillarum
+non negligenter praetereundum, sed jugi memoria
+retinendum, quod ex eorum jugi vigilantia vigilique
+<pb n="0022A"/>
+custodia, conscientiae nostrae civitas mire custoditur,
+multumque progreditur. Primogenitus namque
+Balae eam componit intrinsecus; primogenitus vero
+Zelphae munit eam extrinsecus. Per Dan reprimuntur
+mala intus exsurgentia; per Gad repelluntur
+mala exterius insurgentia. Omnes namque scimus,
+quia omnis tentatio surgit, aut exterius, aut interius:
+interius, per cogitatum; exterius, per sensum. Modo
+enim intus per cogitationem pulsat; modo de exterioribus
+per sensus irrumpere parat. Solet nimirum
+inimicus nunc ab intus ministrare consilia erroris,
+nunc a foris admovere incitamenta voluptatis.
+Sed, quia ad Dan pertinet disciplina cogitationum,
+ad Gad autem spectat disciplina sensuum, debet
+utique Dan evigilare ad discretionis judicium, Gad
+<pb n="0022B"/>
+dimicare fortiter per abstinentiae exercitium. Unius
+est sedare civilem discordiam; alterius est repellere
+hostilem pugnam. Hic vigilat contra civium proditionem;
+ille contra hostium incursionem. Iste contra
+perfidiam, ille contra violentiam. Dan namque
+negligente, mens facile decipitur; Gad segnius agente,
+subito ad turpem delectationem rapitur. Sed quid
+interest utrum civitas cordis nostri per vim an
+per fraudem pereat, utrum discordia civilis an manus
+hostilis eam subvertat?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXXII. <hi>Quod disciplina cogitationum non possit custodiri sine disciplina sensuum.</hi> </head>
+<p>Hoc autem nosse oportet, quia disciplina corporis,
+<pb n="0022C"/>
+sine disciplina cordis, absque dubio inutilis
+est; disciplina vero cogitationum, sine disciplina
+sensuum, omnino observari non potest. Unde satis
+constat quia sine adjutorio Gad, qui contra exteriora
+vigilare debet, Dan, in componenda civium
+pace, intus inaniter laborat. Quid enim juvat,
+judicante Dan populum suum, assidue causam
+discordiae amputare, nisi studeat Gad per portas
+sensuum irritamenta vitiorum (quemdam videlicet
+quasi hostilem exercitium) non admittere? Quamvis
+enim Dan assidue in throno judicii resideat, quamvis
+rixas altercantium cogitationum indesinenter
+componat, frustra utique in componenda civium
+discordia desudat, nisi eodem studio Gad ad civitatem
+nostram per sensuum disciplinam muniat, et
+<pb n="0022D"/>
+hostilia vitiorum agmina abstinentiae praelio acriter
+feriat. Unde etiam scriptum est: <hi>Gad, accinctus praeliabitur
+ante eum <note>(Gen. XLIX)</note>
+          </hi>. Tunc enim utiliter Dan
+contra proditorum perfidiam intrinsecus vigilat, cum
+Gad extrinsecus occursantes hostes excludit et oppugnat.
+Prius itaque Gad accingitur, ut fortiter postmodum
+praelietur. Gad procul dubio tunc se accingit, quando
+sensuum dissolutionem per disciplinam restringit.
+Tunc Gad forti praelio dimicat, quando desideria
+carnalia per carnis mortificationem trucidat. Magna
+namque hostium strages efficitur, citiusque odiosus
+ille vitiorum exercitus in fugam convertitur, cum
+sensus corporis per disciplinam ab evagatione restringitur,
+et appetitus carnis per abstinentiam a
+voluptate refrenatur. In hunc itaque modum, ut
+<pb n="0023A"/>
+omnes experiri possumus, Dan civitatem nostram
+componit intrinsecus, Gad munit extrinsecus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXXIII. <hi>Quomodo in cordis custodia vicissim sibi virtutes praedictae cooperentur.</hi> </head>
+<p>Assistunt autem et eis fratres sui, non segnes
+quidem ad auxilia ferenda, Nephtalim intus cum
+Dan in civium pace componenda, Aser exterius cum
+Gad in violentia hostium expugnanda. Gad itaque et
+Aser vigilant contra hostes; Dan et Nephtalim solliciti
+sunt circa cives. Hinc ergo Dan minatur; illinc Nephtalim
+blanditur. Dan terret minis, Nephtalim fovet promissis.
+Ille punit malos, iste remunerat bonos. Unus
+gehennae terrore corda perterret, alter spe felicitatis
+aeternae animos demulcet. Quantum ergo putas
+<pb n="0023B"/>
+Nephtalim iste, dans eloquia pulchritudinis, fratrem
+suum in tali negotio adjuvat, qui animos auditorum
+dulcedine eloquii sui, pene absque mora, quo
+vult inclinat? Adjuvat et Aser exterius nihilominus
+fratrem suum, muniuntque ambo civitatem contra
+hostium incursum. Hic latus unum protegit, ille alterum
+defendit. Gad certat in dextro, Aser dimicat
+in sinistro. Gad insidiatur, mundi hujus prosperitas;
+Aser vero persequitur, mundana adversitas. Sed
+Aser hosti suo facile illudit, dum partem tuetur,
+alta patientiae rupe munitam conspicit, et idcirco de
+tuto stationis loco hostes suos tam inaniter quam
+ab imo reluctantes deridet ac despicit. Unde fit ut
+eum hostes sui sua impugnatione non tam vexent
+quam ei triumphandi assidue materiam ministrent.
+<pb n="0023C"/>
+Hinc est quod, spretis suis impugnatoribus (mundanis
+videlicet adversitatibus), in fratris sui persecutores
+(carnales scilicet delectationes) totus effertur,
+et eos magna animadversione persequitur. Tantus
+autem terror impugnatores Gad subito invadit,
+cum ei se Aser in praelii sui certamine adjungit, ut
+omnes absque mora ad fugam se convertant, cum
+nec ad horam quidem, vicissim sibi fratribus auxilium
+ferentibus, resistere audeant. Veri utique
+animae hostes carnales sunt delectationes. Sed quis,
+quaeso, locus pravae delectationi inter tormenta relinquitur,
+quae iste noster Aser propter Deum non
+solum patienter ferre, sed etiam ardenter appetere
+comprobatur? O quam recte Aser, id est beatus,
+<pb n="0023D"/>
+dicitur, secundum illam Domini sententiam: <hi>Beati
+qui persecutionem patiuntur propter justitiam! <note>(Matth. V.)</note>
+          </hi> </p>
+</div2>
+
+<div2>
+        <head>CAPUT XXXIV. <hi>Quod perfectam patientiam semper comitatur misericordia.</hi> </head>
+<p>Quis illud Dominicum praeceptum: <hi>Dimittite, et
+dimittetur vobis <note>(Luc. VI)</note>
+          </hi>, tam magnifice implere
+potuit? Quis tam facile, quis tam ex corde sibi illatas
+injurias ignoscere, valuit, quam qui de corporis
+sui cruciatibus exsultare magis quam contristari
+didicit? Utquid enim inimicos non diligat, cur eis
+libenter non indulgeat, qui hoc ei inferunt quod desiderat?
+Magis itaque quam suo corpori, suis miseretur
+persecutoribus, ut sit iterum atque iterum
+<pb n="0024A"/>
+beatus: <hi>Beati</hi> enim <hi>misericordes, quoniam ipsi misericordiam
+consequentur <note>(Matth. V)</note>
+          </hi>. O virum gloriosum,
+o terque quaterque beatum! Beatus, propter
+justitiae esuriem; beatus, propter voluntariam passionem;
+beatus, propter mansuetudinem; beatus,
+propter misericordiae compassionem. Sicut enim
+beati, qui esuriunt et sitiunt justitiam; sicut beati,
+qui persecutionem patiuntur propter ipsam; sic
+nihilominus beati mites, beati misericordes. Et hic
+noster Aser, ut sit veraciter multipliciterque beatus,
+justitiam ardenter sitiens, propter ipsam libenter
+patitur, nesciens irasci, facile miseretur. Quamvis
+enim multum esuriat panem justitiae, dedignatur
+tamen eum comedere, nisi sit conspersus oleo misericordiae.
+Ex multa divitiarum etenim affluentia
+<pb n="0024B"/>
+quae sibi superabundant, ex spoliis hostium pro frequenti
+victoria, multum est delicatus effectus; nec
+ei jam sapit panis ullus, quantumlibet nitidus, nisi
+sit oleo conspersus, in tantum ut de eo Scriptura
+manifeste denuntiet, dicens quia <hi>Aser, pinguis panis
+ejus <note>(Gen. XLIX)</note>
+          </hi>. Quis putas sic deliciis affluit
+ut ipse, ut veraciter possit psallere: <hi>In via testimoniorum
+tuorum delectatus sum, sicut in omnibus divitiis? <note>(Psal. CXVIII)</note>
+          </hi>.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXXV. <hi>Commendatio perfectae patientiae.</hi> </head>
+<p>Quantum namque putas Aser iste abundat divitiis
+spiritualium consolationum, quantumve affluit deliciis
+spiritualium gaudiorum, cujus divitias quaelibet
+adversitas non tam minuere quam augere solet,
+<pb n="0024C"/>
+cujus delicias quodvis tormentum nec saltem
+interpolare valet. Nam quanto durius premitur exterius,
+tanto delectabilius gloriatur interius. Hae sunt
+illae deliciae, quas tantum sitiunt, quas tam gratanter
+accipiunt, non dico pauperes et ignobiles, sed
+etiam ipsi reges vel principes. Mentior, si haec de
+ipso ipsa Scriptura non loquitur. <hi>Aser,</hi> inquit, <hi>pinguis
+panis ejus, et praebebit delicias regibus.</hi> Quod
+enim putamus suaviter pascuntur, quam mirabiliter
+credimus delectantur, non quilibet reges, sed illi
+utique vere reges, quibus ille Rex regum et Dominus
+dominantium restituit imperium corporis
+sui, et quibus distribuit regnum Patris sui; talibus,
+inquam, regibus, quam putamus dulce sit, quam
+<pb n="0024D"/>
+intime eis sapit, cum videant hominem justitiae
+amore tormenta non timere, et inter ipsas persecutiones
+pacem cordis animique tranquillitatem non
+amittere. Si enim <hi>gaudium est in coelo super uno
+peccatore poenitentiam agente <note>(Luc. XV)</note>
+          </hi>, quanta tunc
+solemnitas erit super quolibet justo, pro justitia libenter
+moriente? Vere Aser pinguis panis ejus, et
+praebebit delicias regibus. O qualis panis, panis ejus!
+O quales deliciae, deliciae ejus, quae tantum sapiunt
+regibus, regibus talibus! Certe reges isti jam ad
+nuptias Agni introierunt, jam ad illud aeternum convivium
+sederunt, jam illo angelorum pane, deliciisque
+aeternis vescuntur, jam torrente voluptatis inebriantur,
+et adhuc hujus Aser delicias insatiabiliter
+esuriunt, et usque hodie esurientes, et sitientes justitiam,
+<pb n="0025A"/>
+in tanta coelestium gaudiorum abundantia
+hanc suam famem vel sitim sedare non possunt.
+Aser, pinguis panis ejus, et praebebit delicias regibus.
+Quam putas largus esse potest in necessitates
+pauperum, cui superabundat parare delicias regum?
+Quantum putas mirantur, quantumve gratulantur
+in ejus constantia, quos viventes adhuc in valle lacrymarum
+premit infirmitas sua, si tantum delectantur
+in ejus operibus illi etiam quos jam absorbuit
+felicitas illa aeterna? Aser, pinguis panis ejus,
+et praebebit delicias regibus. Et unde ei tanta divitiarum
+abundantia, tanta deliciarum copia, nisi, ut
+dictum est, de hostium spoliis in tam frequenti victoria?
+Constat namque quia quanto amplius atteruntur
+hostes justitiae, tanto uberius cumulantur
+<pb n="0025B"/>
+gaudia conscientiae: <hi>Gloria et divitiae in domo ejus,</hi> 
+ait Psalmista <note>(Psal. CXI)</note>. Et Apostolus de hujusmodi
+gloria et divitiis, quasi exponendo, loquitur ita: <hi>Gloria nostra haec est: testimonium conscientiae nostrae <note>(II Cor. I)</note>
+          </hi>.
+Haec est domus, vel civitas illa,
+conscientia videlicet nostra, in qua spiritualium
+bonorum divitiae abundant, cum eam praedictarum
+ancillarum filii vigili sollicitudine custodiunt: Dan
+videlicet et Nephtalim satagentibus in confirmanda
+pace civium, Gad et Aser viriliter agentibus in expugnatione
+hostium. Horum namque prudentia cives
+pacificantur, illorum constantia hostes expugnantur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXXVI. <hi>Quomodo, vel quo ordine oriatur verum gaudium.</hi> </head>
+<p>
+          <pb n="0025C"/>Hostibus itaque fugatis, civibusque pacificatis,
+nil jam obstat, ut arbitror, quin illa nostra civitas
+experiatur quae sit illa Dei <hi>pax quae exsuperat omnem
+sensum <note>(Philip. IV)</note>
+          </hi>; vel <hi>quam</hi> sit <hi>magna multitudo
+dulcedinis, quam abscondit Deus diligentibus se <note>(Psal. XXX)</note>
+          </hi>.
+Abscondit, inquit. Quid ergo mirum,
+eam si quilibet mundi amator nescit, quam Deus
+diligentibus se abscondit? Qui enim in bonis falsis
+et deceptoriis spem figunt, quae sint vera bona invenire
+non possunt; unde est quod dicunt: <hi>Quis
+ostendit nobis bona <note>(Psal. IV)</note>
+          </hi>. Est enim manna
+absconditum, et nisi gustantibus, omnino incognitum.
+Est namque hujusmodi dulcedo, cordis, non
+carnis; unde nec eam noscere potest quilibet carnalis:
+<pb n="0025D"/> <hi>Dedisti,</hi> 
+ inquit, <hi>laetitiam in corde meo (ibid)</hi>.
+Corporales deliciae, sicut et ipsum corpus, corporeo
+oculo videri possunt; delicias cordis, sicut nec ipsum
+cor, oculi carnis videre nequeunt. Qua ergo ratione
+spirituales delicias cognoscat, nisi qui ad cor suum
+intrare, et intus habitare non dissimulat? Unde et
+ei dicitur: <hi>Intra in gaudium Domini tui <note>(Matth. XXV)</note>
+          </hi>.
+Hoc itaque internum gaudium, spiritualibus solis; illa
+dulcedo, quae intus sentitur, est ille filius Liae, qui
+ei quinto loco nascitur. Est enim gaudium, ut
+superius jam diximus, unus de principalibus affectibus.
+Hic autem cum ordinatus est, recte inter
+filios Jacob et Liae annumerari potest. Ordinatum
+autem et verum gaudium veraciter tunc habemus,
+quando de veris et internis bonis gaudemus. Ad
+<pb n="0026A"/>
+talis prolis desiderium Apostolus nos animare voluit,
+cum dixit: <hi>Gaudete in Domino semper, iterum
+dico, gaudete <note>(Philip. IV)</note>
+          </hi>. Et Propheta: <hi>Laetamini
+in Domino, et exsultate, justi, et gloriamini, omnes
+recti corde <note>(Psal. XXXI)</note>
+          </hi>. Pro tali prole Lia mandragoras
+libenter contempsit, ut talem filium habere
+possit. Mens etenim, quae in laude hominum delectatur,
+quod sit internum gaudium experiri non
+meretur. Recte autem post nativitatem Gad et Aser,
+Lia talem filium genuit; quia, nisi per abstinentiam
+et patientiam, mens humana ad verum gaudium non
+pertingit. Oportet ergo non solum falsam delectationem,
+sed etiam vanam perturbationem excludere
+eum qui vult de veritate gaudere. Qui enim adhuc
+in infimis delectatur, interna utique jucunditate
+<pb n="0026B"/>
+indignus est; et qui vano timore perturbatur, spirituali
+dulcedine non potest perfrui. Falsam laetitiam
+Veritas damnabat, cum dicebat: <hi>Vae vobis qui
+nunc ridetis <note>(Luc. VI)</note>
+          </hi>. Vanam perturbationem exstirpabat,
+cum auditores suos admonebat, dicens: <hi>Nolite timere eos qui occidunt corpus, animam autem
+non possunt occidere 
+ <note>(Matth. X)</note>
+          </hi>. Horum autem unum
+abstinendo superamus, alterum patiendo calcamus.
+Itaque per Gad exstirpatur falsa delectatio, per
+Aser vero vana perturbatio. Isti sunt Gad et Aser,
+qui excludunt gaudium falsum, et introducunt gaudium
+verum. Jam, ut aestimo, nulla erit deinceps
+quaestio, cur hic talis filius Issachar dicatur, si quidem
+Isachar <hi>merces</hi> interpretatur. Quid enim aliud
+tot tantisque laboribus quaerimus? quid, inquam,
+<pb n="0026C"/>
+aliud quam verum gaudium, tam perseveranti longanimitate
+exspectamus? Hujus mercedis toties
+quasi quasdam primitias, et velut arrham quamdam
+accipimus, quoties ad illud Domini nostri
+gaudium internum intramus, et ex parte aliqua gustamus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXXVII. <hi>Comparatio interioris et exterioris dulcedinis.</hi> </head>
+<p>Hanc autem internae dulcedinis degustationem
+Scriptura sacra nunc gustum, nunc ebrietatem
+vocat, ut quam sit parva, vel magna ostendat, parva
+quidem ad comparationem futurae plenitudinis,
+magna autem in comparatione cujuslibet mundanae
+jucunditatis. Praesens etenim spiritualium virorum
+<pb n="0026D"/>
+delectatio futurae vitae gaudiis comparata, quantumlibet
+excrescens invenitur parva, in cujus comparatione
+tamen omnis exteriorum delectationum suavitas
+est nulla. O dulcedo miranda, dulcedo tam
+magna, dulcedo tam parva! Quomodo non magna?
+quae mundanam omnem excedis. Quomodo non
+parva? quae de illa plenitudine vix stillam modicam
+decerpis. Modicum quidem de tanto felicitatis
+pelago mentibus instillas, mentem tamen quam
+infundis, plene inebrias. Merito tantillum de tanto,
+gustus quidem dicitur, merito nihilominus quae
+mentem a seipsa alienat, ebrietas nominatur.
+Gustus ergo est, et ebrietas jure dici potest: <hi>Gustate,</hi> 
+inquit Propheta, <hi>et videte quoniam suavis est
+Dominus <note>(Psal. XXXIII)</note>
+          </hi>. Et Apostolus Petrus: <hi>Si
+<pb n="0027A"/>
+tamen gustatis quoniam dulcis est Dominus <note>(I Petr. II)</note>
+          </hi>.
+Et de ebrietate idem Propheta: <hi>Visitasti terram, et
+inebriasti eam <note>(Psal. LXIV)</note>
+          </hi>. Audi hominem hac
+ebrietate madentem, et quid circa se agatur omnino
+ignorantem: <hi>Sive in corpore,</hi> inquit, <hi>sive extra
+corpus, nescio, Deus scit <note>(I Cor. XII)</note>
+          </hi>. Quomodo putas
+inebriatus erat, quomodo mundus ei in oblivionem
+venerat, qui seipsum nesciebat?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXXVIII. <hi>Quid soleat impedire illud internum gaudium.</hi> </head>
+<p>Hac utique dulcedine inebriari non merentur,
+qui adhuc carnalium desideriorum fluctibus agitantur: <hi>Visitasti,</hi> 
+ inquit, <hi>terram, et inebriasti eam <note>(Psal. LXIV)</note>
+          </hi>.
+Quid putas est causae, quod solam terram
+Dominus dicitur inebriasse, cur non etiam et
+<pb n="0027B"/>
+mare? Sed scimus quia mens, quae per varia desideria
+fluctuat, quam adhuc saecularium curarum
+procella exagitat, ad illud internum gaudium non
+admittitur, et illo torrente voluptatis non potatur,
+quanto minus inebriatur? Scimus quia mare semper
+fluctuat, terra autem in aeternum stat. Sic et
+caetera elementa semper in motu sunt, et sola terra
+stante, stare caetera nesciunt. Quid igitur per terram,
+nisi fixam cordis stabilitatem debemus accipere?
+debet igitur fluctuationem cordis restringere,
+et ad unius veri gaudii desiderium cogitationum
+affectionumque motus colligere, qui se cupit, vel
+credit illo verae sobrietatis poculo inebriandum
+fore. Haec est illa vere beata terra, mentis videlicet
+stabilitas tranquilla, quando mens in seipsa tota
+<pb n="0027C"/>
+colligitur, et in uno aeternitatis desiderio immobiliter
+figitur. Haec est illa terra quam Veritas promittebat,
+cum dicebat: <hi>Beati mites, quoniam ipsi possidebunt
+terram <note>(Matth. V)</note>
+          </hi>. Haec est illa terra de qua Psalmista
+promittens admonebat, et admonens promittebat: <hi>Inhabita,</hi> 
+ inquit, <hi>terram, et pasceris in divitiis
+ejus <note>(Psal. XXXVI)</note>
+          </hi>. Haec est illa terra quam iste
+Issachar, asinus fortis, vidit et concupivit, et in
+ejus concupiscentias mirabiliter exarsit: <hi>Issachar,</hi> 
+inquit, <hi>asinus fortis habitans inter terminos, vidit
+requiem quod esset bona, et terram quod esset
+optima, et supposuit humerum suum ad portandum,
+et factus est tributis serviens <note>(Gen. XLIX)</note>
+          </hi>. Oportet
+ergo nos transire de terra ad terram, de terra
+<pb n="0027D"/>
+aliena ad terram propriam, de exsilio ad patriam,
+de gente ad gentem, et de regno ad populum alterum,
+de terra morientium ad terram viventium, si
+volumus experiendo nosse verum et internum gaudium.
+Concupiscamus et nos terram illam quam
+Issachar iste vidit, et concupivit. Si enim non vidisset,
+non cognovisset; et si non cognovisset, non
+concupisset.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXXIX. <hi>Quomodo interna dulcedo soleat animum et ad fortia roborare, et ad humilia inclinare.</hi> </head>
+<p>Pro hac terra asinus factus, et fortis effectus,
+libenter supposuit humerum suum ad portandum,
+et factus est tributis serviens. Multum sibi subito
+viluerat, qui se asinum, animal videlicet pene prae
+<pb n="0028A"/>
+caeteris vilius reputabat. Multum concupivit terram
+quam vidit, pro qua ad omnem laborem fortis perduravit.
+Viderat sane quod ad pulchritudinem terrae
+illius <hi>omnes justitiae nostrae</hi> erant <hi>ut pannus</hi> mulieris <hi>menstruatae 
+ <note>(Isa. LXIV)</note>
+          </hi>. Viderat nihilominus <hi>quod
+non sunt condignae passiones hujus temporis ad futuram
+gloriam, quae revelabitur in nobis <note>(Rom. VIII)</note>
+          </hi>.
+In uno ergo sibi vilis, in altero fortis effectus; de
+uno humiliatus, de altero roboratus, fortitudinis
+suae humerum ad omnem laborem libenter inclinavit,
+et in acquirenda divina gloria non sua, vero
+Regi dignum tributum persolvit. Vultis autem audire,
+et alterum simili ratione sibi viluisse, et ad
+omnem nihilominus laborem convaluisse: <hi>Ut jumentum,</hi> 
+inquit, <hi>factus apud te <note>(Psal. LXXII)</note>
+          </hi>. Et alibi:
+<pb n="0028B"/> <hi>Propter te,</hi> 
+ inquit, <hi>mortificamur tota die <note>(Psal. XLIII)</note>
+          </hi>.
+Ecce quam vilis, ecce quam fortis: vilis ut jumentum,
+fortis ad se mortificandum. Issachar asinus
+fortis habitans inter terminos, vidit requiem quod
+esset bona, et terram quod esset optima. Pene ergo,
+non plene, hanc morientium terram deseruerat; pene,
+non plene, illam viventium terram apprehenderat,
+qui inter terminos habitabat. Quia vilissimis, quia
+paucissimis hujus vitae bonis contentus erat, hujus
+terrae miserae extrema tenebat. Quia per frequentes
+mentis excessus perennis vitae bona praegustabat,
+illius beatae terrae initia tangebat. Issachar asinus
+fortis, habitans inter terminos, quia hujus vitae ad
+bona necessitatem non respuebat, hanc terram penitus
+non deserebat, quia futurae vitae nonnisi novissima
+<pb n="0028C"/>
+quaedam capere poterat. Illam omnino non
+apprehendebat, et ideo inter terminos habitabat.
+Istam tolerabat ad necessitatem, illam concupierat
+ad jucunditatem, et idcirco inter terminos habitabat.
+Satagebat penitus istam deserere, nec poterat,
+ambiebat in illam totus intrare, nec valebat. Fecit
+ergo quod potuit, inter terminos habitavit. Quotidie
+ad illam nitebatur, quotidie ad istam relabebatur,
+et in hunc modum inter terminos morabatur. Issachar
+asinus fortis, habitans inter terminos, vidit
+requiem quod esset bona, et terram quod esset
+optima. Quid ergo mirum quod eam vidit, qui in
+ejus confinio habitavit? Quid, inquam, mirum quod
+vidit, quod visam cognovit, quod cognitam concupivit?
+<pb n="0028D"/>
+Et idcirco supposuit humerum suum ad portandum,
+et factus est tributis serviens. Vidit, inquit,
+requiem quod esset bona. Requies ergo ibi est, et
+requies bona. Si enim ibi non esset, ibi eam minime
+vidisset. Et si bona non esset, propter eam
+humerum suum ad portandum minime supposuisset: <hi>Mansueti autem,</hi> 
+ ait Propheta, <hi>haereditabunt terram,
+et delectabuntur in multitudine pacis <note>(Psal. XXXVI)</note>
+          </hi>.
+Ecce qualis terra. Pax ibi est, requies ibi est. Pax
+plena, requies bona; pax quieta, quies pacifica.
+Vidit requiem quod esset bona, et terram quod esset
+optima. In illa labor non est, sed ad illam sine
+labore perveniri non potest. Propter ipsam laboratur,
+sed in ipsa non laboratur. Extra hanc terram
+non invenitur requies vera; nullus penitus labor
+<pb n="0029A"/>
+invenitur in hac terra. Duo sunt, terra et requies.
+Duo contra duo. Duo bona contra duo mala. Duo
+sunt magna mala, miseria et concupiscentia, poena
+scilicet et culpa. Duo magna bona, tranquillitas et
+stabilitas. Contra miseriam mentis tranquillitas, concupiscentiam
+cordis stabilitas. Nullam molestiam
+sentire, est bene requiescere. Nullis concupiscentiae
+fluctibus agitari, est procul dubio jam in terra morari.
+In terra tali, requies talis. Mens, quae ad internum
+gaudium nondum tota colligitur, quae sit vera requies
+minime experitur. Vae mihi misero, qui usque hodie
+vivo vagus, et profugus super terram; vagus, sequendo
+concupiscentiam; profugus, declinando miseriam.
+Semper deest quod concupiscam, ubique invenio
+quod fugiam. Concupiscentia me facit vagum, miseria
+<pb n="0029B"/>
+me efficit profugum. Profecto terra mala,
+terra miseriae, talis terra in qua taliter vivo: terra
+miseriae et tenebrarum, ubi umbra mortis est et
+nullus ordo. Est procul dubio terra talis non stabilitas
+cordis, sed duritia et insensibilitas mentis: sed, <hi>Spiritus tuus bonus, Domine, deducet me in terram
+rectam 
+ <note>(Psal. CXLII)</note>
+          </hi>. Et qualem denique Issachar
+vidit, et concupivit, eo quod esset ibi requies bona,
+et ipsa terra optima. O felicem, qui potuit, vel ad
+horam, malorum omnium oblivisci, et illa interna
+pace vel requie (saltem ad modicum) potiri! Felicem
+nihilominus, cui datum est dispersiones cordis
+in unum colligere, et in illo verae felicitatis fonte
+desiderium figere. Illud utique bonum, verumtamen
+hoc optimum. Juxta quod Issachar vidit requiem
+<pb n="0029C"/>
+quod esset bona, et terram quod esset optima.
+Quia bonum quidem est longe esse ab omni malo,
+multo tamen melius, imo optimum inhaesisse
+summo bono. Novit hoc Issachar, et idcirco a tali
+terra longius discedere nolebat, sed habitans inter
+terminos in ejus vicinia manebat, cupiens et ambiens
+eam raptim quidem et furtim per raros
+saltem excessus tangere, sed et de illius terrae fructibus
+frequentius comedere. Est enim, ut nosse
+potestis, fructus terrae illius sublimis, fructus mirabilis,
+fructus singularis. Hujus siquidem terrae fructibus
+mens hominis saepius satiata, et aliquatenus
+impinguata, mirandum subito contra omnia pericula
+fortitudinem accipit, in tantum mox ad omnium
+<pb n="0029D"/>
+vitiorum odium convalescit, ut parum jam ei
+sit nullum in seipso per consensum recipere, nisi
+studeat ea et in aliis viriliter persequi, et forti animadversione
+percutere.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XL. <hi>Quomodo vel quo ordine oriatur in nobis odium vitiorum.</hi> </head>
+<p>Sit ergo mox tam fortis contra omne periculum,
+quam ferox hostis vitiorum omnium. Hinc est quod
+post Issachar, Zabulon nascitur, qui <hi>habitaculum
+fortitudinis</hi> interpretatur. Quid enim per Zabulon
+intelligimus, nisi odium vitiorum. Odium bonum,
+odium ordinatum, odium vitiorum. Hunc procul
+dubio in nobis affectum Propheta ordinare cupiebat
+cum dixit: <hi>Irascimini, et nolite peccare <note>(Psal. IV)</note>
+          </hi>.
+<pb n="0030A"/>
+Quid est enim irascendo non peccare, et non peccando
+irasci, nisi homines utiliter non ad oculum
+amando, eorum vitiis indignari? Hunc habere se
+filium idem Propheta significabat, cum alias dixit: <hi>Perfecto odio oderam illos 
+ <note>(Psal. CXXXVIII)</note>
+          </hi>. Et alibi: <hi>Omnem viam iniquam odio habui 
+ <note>(Psal. CXVIII)</note>
+          </hi>. Hic
+est egregius ille miles Dei, qui bella Domini praeliari
+non cessat, et quem usitato vocabulo Scriptura sacra
+zelum Domini vel zelum rectitudinis appellat: <hi>Zelus
+domus tuae,</hi> Domine, <hi>comedit me, et opprobria exprobrantium
+tibi ceciderunt super me <note>(Psal. LXVIII)</note>
+          </hi>. Et iterum: <hi>Tabescere me fecit zelus meus, quia obliti sunt
+verba tua inimici mei 
+ <note>(Psal. CXVIII)</note>
+          </hi>. Et Elias: <hi>Zelo,</hi> inquit, <hi>zelatus sum propter Dominum 
+ <note>(III Reg. XIX)</note>
+          </hi>. Et
+Phinees bellavit zelum Domini, et accepit sacerdotium
+<pb n="0030B"/>
+aeternum <note>(Num. XXV)</note>. Sed unde istis putas fortitudo
+tanta, tam mira constantia? Elias solus contra centum
+quinquaginta prophetas Baal insurrexit, Phinees
+solus contra castra Madianitarum irrumpens,
+adulterantes gladio transverberavit. Ecce quantum
+roboris accipiunt, ecce quam fortes fiunt, qui de
+illius praedictae terrae fructibus comedunt, qui se interna
+suavitate reficiunt. Recte ergo post Issachar,
+qui <hi>merces</hi> interpretatur, Zabulon, id est <hi>habitaculum
+fortitudinis</hi> nascitur, quia post degustatam
+aeternae retributionis dulcedinem, animus contra
+tentationum argumenta mirabiliter roboratur, sua
+subito pericula parvipendens, Domini injurias fortiter
+ulciscitur. Hinc est quod Moyses, ille mitissimus
+omnium qui morabantur in terra, post quadraginta
+<pb n="0030C"/>
+dierum jejunium, spiritualium deliciarum
+refectus satietate mirifica, in tantum subito zelum
+contra fabricatores vel cultores idoli exarsit, ut
+statim adjunctis sibi qui Domini erant, per medium
+castrorum, de porta ad portam percutiendo transiret,
+et hominum praevaricatorum tria millia in mortem
+prosterneret <note>(Exod. XXXII)</note>. Sic sic post Issachar
+Zabulon gignitur, quia per internae dulcedinis degustationem
+odium vitiorum generatur, et verae
+formidinis robur acquiritur. Iste est Zabulon, qui
+irascendo iram Dei placare consuevit, qui pie saeviendo
+dum hominum vitia percutit, eis quasi non
+parcendo melius parcit. Absque dubio nihil sic placet
+Deo, nihil sic placat Deum, quomodo zelus animarum.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XLI. <hi>Quam sit rarum ex vero vitiorum odio, zelum rectitudinis habere.</hi> </head>
+
+<pb n="0030D"/>
+<p>O quam multi multas caeterarum virtutum proles
+ex Dei gratia mente conceperunt, et de se genuerunt,
+qui hunc filium habere non potuerunt! Quam
+multos hodie videmus spiritu pauperes, spe gaudentes,
+charitate ferventes, multum abstinentes,
+admodum patientes, ad zelum tamen animarum nimis
+tepidos, multumque torpentes! Alii, quasi ob
+custodiam humilitatis, delinquentes increpare non
+praesumunt; alii, ne charitatem fraternam perturbare
+videantur, peccantes arguere metuunt. Sic et
+alii aliis, et aliis adhuc modis, quod zelare pro Domino
+<pb n="0031A"/>
+nolunt, virtutis hoc esse fingunt, vel virtutum
+esse credunt. Econtra multi, quod absque dubio
+agunt in spiritu furoris, agere se arbitrantur zelo
+rectitudinis, et quae veraciter exsequuntur odio hominum,
+exercere se putant vel simulant odio vitiorum.
+Sed, quaeso, interrogent qui hujusmodi sunt
+qui Zabulon jam genuisse se credunt, seipsos; quaeso,
+interrogent utrum in veritate diligant (quos quasi
+instigante Zabulon) tam acerbe castigant? Forte
+adhuc quae sint illae spirituales deliciae per experientiam
+scire minime potuerunt, ad quas eos quos arguunt
+vel flagellant, suis invitare flagellis, vel etiam
+increpationibus videri volunt. Illi enim pietate, potius
+quam crudelitate delinquentes, persequi credendi
+sunt, qui interna illa gaudia, ad quae eos tot
+<pb n="0031B"/>
+doloribus invitant, per experientiam noverunt. Judam
+et Issachar, prius quam Zabulon, Liam peperisse
+legimus; et per Judam charitatem, per Issachar
+spiritualium gaudiorum experientiam significari jam
+diximus. Prius Judam et Issachar nasci necesse est,
+quoniam mens quae charitatis et internae suavitatis
+adhuc expers est, rectitudinis normam in suo zelo
+minime servare potest. Charitas enim docet quomodo
+tractare oporteat quos Zabulon castigat. Spiritualium
+notitia docet quae sit illa suavitas ad quam
+invitantur, vel etiam compelluntur, quibus exterius
+jucunditas (carnalis videlicet voluptas) interdicitur,
+pro qua saepe Zabulon urgente, durius arguuntur.
+Judas itaque docere debet modum, Issachar autem
+<pb n="0031C"/>
+causam correptionis, ut, moderante Juda, fiat in spiritu
+lenitatis, et Issachar suggerente, fiat nihilominus
+causa utilitatis. Utilitatem eorum Zabulon quaerat,
+non suam, ut quod delinquentes ferit ad utilitatem
+sit, non ad vindictam.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XLII. <hi>Quod sit officium veri zelatoris.</hi> </head>
+<p>Debet autem Zabulon non solum delinquentes
+corripere, sed eos etiam tempore tribulationis contra
+persequentes defendere, alioquin verus zelus
+non est, nec Zabulon veraciter dici potest, si paratior
+est ad feriendum quam ad protegendum. Non
+enim frustra iste sextus idemque novissimus filiorum
+Liae habitaculum fortitudinis dicitur: nam Zabulon,
+ut superius jam dictum est, <hi>habitaculum fortitudinis</hi> 
+<pb n="0031D"/>
+interpretatur. Vide ergo quomodo domus inhabitantes
+quosque superius protegit, et ab omni parte
+cingit, et tamen nisi fortis et firmiter munita sit,
+habitaculum fortitudinis non erit. Sic nimirum sic
+perfectus zelus, ut Zabulon jure possit dici, imo
+veraciter esse, debet infirmiores contra aereas potestates
+doctrina et oratione protegere, et contra mundana
+pericula undique munire, et in utroque non
+solum infatigabilis, sed etiam insuperabilis perseverare.
+Vigilare ergo oportet hinc contra insidias
+diaboli, illinc contra pressuras mundi. Procul
+dubio quisquis es in utroque fortis, habitaculum es
+fortitudinis, et digne Zabulon dici mereris. Debet
+esse Zabulon promptior, imo semper paratior
+ad mala ferenda quam ad mala inferenda. Et
+<pb n="0032A"/>
+quia habet necesse pro culpa quandoque subjectis
+irasci, amplius utique dolet, cum cogitur eos
+pro culpa percutere, quam cum cogitur pro eorum
+defensione punire. Libenter ergo se occurrentibus
+periculis objicit, et contra saevientium tempestatum
+procellas se sponte opponit. Alioquin, frustra in littore
+maris habitat, frustra in statione navium habitationem
+parat, si contra marina mundanae pressurae
+discrimina trepidat, nisi tempestatibus diu fatigatos,
+et tandem littoribus ejectos blande excipiat, et benigne
+foveat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XLIII. <hi>Quod veri zelatoris sit vigilare, non solum contra saevitiam, sed etiam contra fraudulentiam.</hi> </head>
+<p> <hi>Zabulon,</hi> inquit, <hi>in littore maris habitabit, et in
+<pb n="0032B"/>
+statione navium, pertingens usque ad Sidonem <note>(Gen.
+XLIX)</note>
+          </hi>. Quae ergo causa est, putas, cur habitet in littore,
+nisi ut muniat extrema terrae, et utpote habitaculum
+fortitudinis protegat infirmiora membra
+Ecclesiae? Illorum ergo se periculis opponit, quos
+assiduis persecutionum procellis fatigari conspicit.
+Ut enim naufragantibus semper paratus sit ad ferendum
+auxilium, manet, ut de eo scriptum est, in
+statione navium. Diuturnis namque tentationibus
+oppressos, et quasi quaedam naufragia passos, et
+pene jam fractos scit blanda consolatione fovere, et
+ad statum securitatis erigere et ad quemdam quasi
+tranquillitatis portum revocare. In hunc itaque modum
+Zabulon in littore maris habitabit in statione
+<pb n="0032C"/>
+navium, pertingens usque ad Sidonem. Extendens
+ergo se latius per littora maris, et huc illucque
+discurrens, dum undique vigilat circa suorum protectionem,
+dum ubique se parat contra hostium incursionem,
+pertingit etiam usque ad Sidonem. Sidon <hi>venatio</hi> 
+ interpretatur, per quam recte satis deceptionum
+fraudulentia intelligitur. Satagit ergo Zabulon
+iste non solum imbecilles quosque erigere contra
+furorem persequentium, sed quoslibet etiam simplices
+eripere de laqueo venantium. Ad Sidonem
+ergo usque pertingit, quoties versuti hostis insidias
+detegit, quoties fratrum falsorum fraudulenta consilia
+deprehendit: <hi>Qualium sermo,</hi> teste Apostolo, <hi>ut
+cancer serpit <note>(II Tim. II)</note>
+          </hi>. Hic est enim ille laqueus
+venatorum, et quasi quoddam rete spirituum malignorum
+<pb n="0032D"/>
+animas simplices venantium, lingua videlicet
+adulantium, lingua detrahentium, seminantium
+inter fratres discordias, concitantium iras, rixas.
+Pertingit ergo Zabulon usque ad Sidonem, quoties
+praevenit insidiatorem dolosam machinationem, sive
+malignorum spirituum, sive perfidorum hominum.
+Scimus enim fieri hujusmodi venationem animarum,
+aliquando per occultam suggestionem daemonum,
+aliquando per apertam persuasionem hominum. Verumtamen
+novit utramque Zabulon caute deprehendere,
+et in cautis detegere. Figit ergo fortitudinis
+suae habitaculum e regione maris, in confinio Sidonis,
+ut hinc vigilet contra saevitiam persequentium,
+illinc contra fraudulentiam insidiantium, et impleatur
+quod de eo scriptum legitur: Zabulon in littore
+<pb n="0033A"/>
+maris habitabit, in statione navium, pertingens usque
+ad Sidonem.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XLIV. <hi>Quale sit, vel quantum habere perfectum zelum animarum.</hi> </head>
+<p>Cogitet qui potest qualis sit hic filius, quanta sit
+ejus virtus, cujus officio quisque non solum seipsum
+contra vitia munit, sed etiam alios a peccati laqueis
+eripere contendit, et quorum non potest
+malitiam in melius mutare, nititur saltem resistendo
+reprimere. Nescio si potest homo aliquid a Deo in
+hac vita majus accipere; ignoro an possit hac gratia
+interim majorem aliquam Deus homini conferre
+quam ut ejus ministerio perversi homines in melius
+mutentur, ut de filiis diaboli filii Dei efficiantur. An
+<pb n="0033B"/>
+forte cuiquam magis videbitur esse mortuos suscitare?
+Ergone majus erit suscitare carnem iterum
+morituram, quam animam in aeternum victuram?
+Ergone majus erit carnem revocare ad gaudia mundi,
+quam animae restituere gaudia coeli? Ergone majus
+erit restituere carni bona transeuntia iterum peritura,
+quam animae reddere bona aeterna in aeternum
+mansura? O qualis dos, quanta dignitas talem gratiam
+a Deo accipere! Non debuit Dei sponsa a
+sponso suo dotem aliam accipere, non decuit coelestem
+sponsum sponsae suae dotem aliam donare,
+quam ut per adoptionis gratiam possit multos Deo
+filios gignere, et de filiis irae filiisque gehennae, regni
+coelestis haeredes ascribere. Merito ergo Zabulon
+nato exclamat mater ejus Lia: <hi>Ditavit me Deus dote
+<pb n="0033C"/>
+bona <note>(Gen. XXX)</note>
+          </hi>. Videsne quale, quantumve sit zelum
+justitiae veraciter possidere, et vitiorum ex
+corde gerere, in veritate exercere? Qui talem filium
+genuit, cum Propheta fiducialiter psallit: <hi>Omnem
+viam iniquam odio habui <note>(Psal. CXVIII)</note>
+          </hi>.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XLV. <hi>Quomodo, vel unde oriatur ordinatus pudor.</hi> </head>
+<p>Sed nunquid post has sex virtutum soboles, saltem
+dabitur cuivis sine peccato vivere, ut saltem
+post vitiorum odium, possit sine vitio esse? Quis
+hoc praesumat? Quis hoc in hac vita vel sperare
+audeat cum apostolus dicat: <hi>Si dixerimus quia peccatum
+non habemus nosipsos seducimus, et veritas in
+nobis non est? <note>(I Joan. I.)</note>
+          </hi> Quis est, ut de caeteris
+<pb n="0033D"/>
+taceam, qui ipsa saltem peccata ignorantiae possit
+in hac vita plene deserere, perfecte devitare? Nunquid
+vel ipsi qui aliorum culpas corripiunt se ab
+omni peccati contagio penitus exuunt? Imo eos saepe
+per quos Deus aliorum errata corrigere disponit, ex
+magnae pietatis dispensatione graviter cadere permittit,
+ut ex propria culpa discant quam misericordes
+in aliorum correptione esse debeant. Sed quantum
+putas erubescunt, cum quali se humilitate deliciunt,
+cum se in id unde alios corripiunt, vel forte
+in aliquid gravius lapsos conspiciunt, qui aliis in
+statu rectitudinis formam praebere debuerunt? Quis
+putas digne pensare sufficiat quanta confusio corda
+eorum transfigat, cum in sua vita videant quod jure
+valeat ab ipsis etiam reprehendi, quos pro culpa eorum
+<pb n="0034A"/>
+reminiscuntur a se saepe et acerbius corripi et
+durius castigari? Hinc est quod post Zabulon nascitur
+Dina, quia nimirum saepe nimium zelum, interveniente
+culpa, sequitur verecundia. Nihil enim
+aliud, intelligimus per Dinam nisi verecundiam, sed
+ordinatam; solum peccatum erubescere, est bonam,
+est ordinatam verecundiam habere. Sed qui Zabulon
+nondum gignere meruit, frustra Dinam se posse gignere
+credit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XLVI. <hi>Quis, vel qualis sit ordinatus pudor.</hi> </head>
+<p>Disce prius peccatum odisse, et tunc illud incipies
+veraciter erubescere. Si veraciter odis, erubescis
+citius illud. Ille pudor verus esse cognosciutr,
+quem vitiorum odium praecedit et comitatur. Alioquin,
+<pb n="0034B"/>
+si in peccato deprehenderis et deprehensus pudore
+confunderis, non te credo erubescere culpam,
+sed infamiam. Non enim verecundia talis descendit
+tam ab ipso peccato quam de famae detrimento. Non
+est ergo unde glorieris quasi Dinam genueris. Habent
+utique etiam homines perversi verecundiam,
+sed utinam bonam, utinam ordinatam! Nam utique
+si bonam haberent, perversi forsitan non essent.
+Peccatum etenim si perfecte erubescerent, non tam
+facile committerent. Qualis putas pudor est erubescere
+paupertatem, erubescere humilitatem? Illud
+non pudet eos erubescere ad quod docendum non
+puduit coelestem magistrum de coelo descendere: <hi>Discite
+a me,</hi> inquit, <hi>quia mitis sum, et humilis corde <note>(Matth. XI)</note>
+          </hi>.
+At isti econtra magis abominantes quam
+<pb n="0034C"/>
+sectantes humilitatem, multo amplius erubescunt
+habere sordidam vestem quam sordidam mentem.
+Quam multi hodie sunt, quos magis puderet in oratione
+fecisse barbarismum contra regulam Prisciani,
+quam protulisse mendacium in suo sermone contra
+regulam Christi. Sed quid haec de istis loquimur
+qui saepe sua etiam crimina jactant, quandoquidem
+illi etiam qui spirituales videntur, hunc pudorem
+haud facile superant? Saepe dum in praedicationis
+officio proximorum utilitati deserviunt, dum forte
+contra superbiam disputant, contingit eos saepe superbire,
+unde constat eos contra superbiam subtiliter
+disserere. Et si forte inter loquendum (quod
+fieri solet) brevem accentum producerent, magis eos
+<pb n="0034D"/>
+fortassis puderet de vitio orationis, quam de vitio
+elationis. Crede mihi non est credendum hanc esse
+illam verecundiam quam intelligere debemus per
+Dinam.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XLVII. <hi>Quam sit rarum habere pudorem verum.</hi> </head>
+<p>Vultis adhuc melius nosse quam sit rarum humanam
+verecundiam perfecte calcasse, et hanc veram
+et ordinatam habere quodque est Dinam genuisse?
+Ecce de carnalibus omitto, cum spiritualibus tantum
+interim sit mihi sermo. Ecce quisquis es qui te credis
+jam Dinam genuisse, si cogeris coram multitudine
+nudo corpore transire, nunquid posses non
+erubescere? Cogita ergo si tantum confunderis
+quando immunda cogitatione in mente sordidaris.
+<pb n="0035A"/>
+Cur te jactes amplius Dinam genuisse et ordinatam
+verecundiam habere, si minus erubescis pudenda
+cordis quam corporis? Si magis vereris vultum hominum
+quam conspectum angelorum? Siccine magis
+est erubescendum quod Deus fecit bene, quam quod
+tu male fecisti? Certe illas etiam corporis partes
+(quas pudenda vocamus) Deus fecit; pudenda autem
+cordis nonnisi tu fecisti. Diligenter ergo consideranti,
+recteque discernenti quam sit rarum, vel
+quam sit paucorum humanam verecundiam plene
+vicisse, et solam illam quae ordinata est possidere,
+non erit, ut arbitror, unde amplius quis admirari
+debeat talem prolem tam sero Lia concipiat, vel
+pariat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XLVIII. <hi>Quid sit proprium pudoris.</hi> </head>
+
+<pb n="0035B"/>
+<p>Sed ne de nominis ratione tacite praeteriisse videamur,
+Dina <hi>judicium istud</hi> interpretatur. Hoc itaque
+est illud judicium quo quisque a propria conscientia
+convenitur, convincitur, condemnatur, et
+digna confusionis poena multatur. Si enim sibi conscius
+non esset, non esset utique unde erubescere
+deberet. Et confusio quidem si nulla poena
+esset, non esset unde eam quisquam tam detestari,
+vel tantum devitare debuisset. Miro itaque modo
+mens cujusque de propria conscientia convicta, et
+condigna confusione dejecta, uno eodemque tempore
+ipsa contra seipsam dictat sententiam, ipsa de
+seipsa sumit vindictam. Hoc itaque est illud judicium
+<pb n="0035C"/>
+in quo unus idemque est ille qui judicat, et ille
+qui judicatur; idem ipse qui condemnat, et idem
+ipse qui condemnatur; unus idem qui punitur et ipse
+qui punit. Non ergo sine causa fuit quod hoc tale
+judicium Scriptura sacra non sine demonstratione
+nominare voluit. Istud enim demonstrationem semper
+significat, et quid aliud haec adjectio quam animum
+audientis in admirationem excitat? Verum judicium
+mirabile dignumque admiratione, digneque
+pronuntiandum cum demonstratione, in quo quidem
+judicio quanto quisque seipsum ardentius diligit,
+tanto in seipsum acrius saevit; et quo parci sibi
+vehementius cupit, tanto minus ipse sibi parcit; quia
+quo amplius suam confusionem formidat, eo acerbius
+sua quemque confusio vexat. Sed hoc fortassis
+<pb n="0035D"/>
+cuiquam mirandum videtur si haec inter alias virtutes
+digne annumeratur, cur per femineum, et non
+potius per virilem sexum exprimitur? Sed scimus
+omnes quia in feminis quam in viris, quamvis sit
+forma pulchritudinis major, est tamen ad opera virtutum
+constantia fortitudinis minor. Quis nesciat
+verecundia quantumlibet honesta cordis robur quantum
+emolliat, et quam saepe fortia opera praepediat,
+dum animus hominis ultra modum confundi devitat?
+Est itaque Dina non vir sed femina, non filius
+sed filia.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XLIX. <hi>De utilitate et venustate verecundiae.</hi> </head>
+<p>Et forte non sine causa fuit quod, post natum
+Zabulon, Deus Liae non filium, sed filiam donare
+<pb n="0036A"/>
+decrevit, quae fratris audaciam blande mitigaret, et
+furentis animos blanditiis deliniret. Habet enim, ut
+ex praedictis apparet, Zabulon impetus vastos, et
+ingentes gerit animos. Sed sciunt, ut omnes novimus,
+feminae quam viri tumentes animos blandius
+alloqui, et iratis dulcius blandiri. Valde ergo opportunum
+videtur quod post Zabulon Dina nascitur,
+ut ex sororis lenitate fratris ferocitas temperetur.
+Multum enim per omnem modum zelantis animi
+impetum temperat, cum in seipso invenit quis unde
+erubescat. Haec utique est ratio, ni fallor, cur post
+Zabulon Dina nascitur, ut ejus modestia fratris sui
+impetus moderetur. Sed quia Dina nil utile, nil magnificum
+molitur, tribum in populo Israel facere non
+meretur. Imo etiam saepe, ut dictum est, dum plus
+<pb n="0036B"/>
+justo confundi metuit, ad fortia et virilia non solum
+non convalescit, sed ea etiam praepedire consuevit.
+Sed quamvis pavida sit (utpote femina) ad
+opera fortitudinis invenitur, tamen provida et circumspecta
+ad custodiam honestatis; et quamvis nesciat
+placere per fortitudinem, novit tamen placere
+per formae pulchritudinem. Est enim Dina admirandae
+pulchritudinis et formae singularis, et quae
+intuentium oculos in sui admirationem facile trahat,
+et admirantium animos cito sua dilectione alliciat.
+Quis enim ignorat quomodo modestia verecundiae
+homines omnibus et commendabiles reddat, et amabiles
+efficiat? Unde namque est quod verecundos
+homines fere semper caeteris charius amplectimur,
+<pb n="0036C"/>
+nisi quod, in eis dum verecundiae modestiam modestiaeque
+gratiam miramur, Dinae quodammodo pulchritudine
+allicimur, et pulchritudinis suae magnitudine
+in ejus amorem captivamur? O quam singularis
+hujus Dinae pulchritudo! quam celebris hujus
+dilectio, cujus pulchritudinem pene nemo non miratur,
+cujus dilectione pene nemo non delectatur!
+Hujus rei Sichem filius ille Emor testis sit, qui ei
+tam ardenti amore inhaesit, ut mallet omnes mares
+suos absque mora circumcidere quam illam non
+habere.</p>
+</div2>
+
+<div2>
+        <head>CAPUT L. <hi>Quomodo verecunda mens modestiae metas transgreditur, cum per superbiam et vanam gloriam corrumpitur.</hi> </head>
+<p>
+          <pb n="0036D"/>O quam multi usque hodie sunt qui, quod pro Deo
+facere voluerunt, saepe pro amore Dinae efficere non
+differunt, et pudendorum superflua, quae pro Deo
+amputare debuerant, orta confusionis occasione,
+pro evitando verecundiae detrimento amputare non
+tardant, et malunt in amputandis vitae suae superfluis
+circumcisionis molestiam subire, quam impudentes
+videri, et sine verecundia esse! Sed quis est
+Sichem, vel quis pater ejus? Vel quid sibi volunt
+hujusmodi nomina Sichem, quod interpretatur <hi>humerus</hi> 
+vel <hi>labor,</hi> et Emor quod sonat <hi>asinus?</hi> Sed si
+eorum facto consulimus, qui sint citius invenimus.
+Qui enim sunt qui solent non tam pro Deo quam
+pro Dina, non tam pro conscientia quam pro verecundia
+pudenda sua circumcidere: qui, inquam, alii
+<pb n="0037A"/>
+erunt, quam amor propriae excellentiae et amor
+vanae gloriae. Talis filius de tali patre, de amore
+propriae excellentiae amor vanae gloriae. Attende
+nunc ergo hunc Emor, quam sit stultus; et invenies
+quam recte nuncupetur asinus. Videamus ergo unde
+extollitur, unde glorietur. Si de eo quod non habet,
+sed habere se credit, hac, quaeso, stultitia quid stultius
+excogitari potest? Si autem habet, audiat quid
+ei Apostolus dicat: <hi>Quid habes quod non accepisti?
+Si autem accepisti, quid gloriaris quasi non acceperis? <note>(I Cor. IV.)</note>
+          </hi> 
+ Et quidem accepisse non accipientis,
+sed veraciter est gloria dantis. Quid enim habet
+homo proprium nisi peccatum? Et quale erit gloriari
+de malo proprio, sive de bono alieno? Talis
+itaque gloriator, quam vere est stultus, tam recte
+<pb n="0037B"/>
+appellatur et asinus. Sed et quod Sichem humerus
+vel labor dicitur, ad idem pertinere videtur. Humeris
+enim onera portamus, et hoc agendo utique
+laboramus. Supponit itaque Sichem humerum suum
+ad portandum, et libenter desudat, sed ad solum
+nomen sibi faciendum. Recolamus modo quod de
+Issachar legimus: <hi>Issachar,</hi> inquit, <hi>asinus fortis vidit
+requiem quod esset bona, et terram quod esset
+optima, et supposuit humerum suum ad portandum <note>(Gen. XLIX)</note>
+          </hi>.
+Ibi Issachar asinum se reputat, et humerum
+suum ad portandum inclinat. Hic Emor asinus
+dicitur, et Sichem laboriosum humerum habere
+demonstratur. Videtis quia quidquid agitur pro laetitia
+vera, totum exercetur pro laetitia vana. Issachar
+laborat pro requie quam vidit. Sichem pro
+<pb n="0037C"/>
+laudis vanitate quam concupiscit. Recte tamen non
+laboriosus, sed labor appellatur, quia per suum laborem
+ad veram requiem non perducitur. Quod autem
+recte labor dicatur, testatur labor hypocritarum,
+qui tantum laborant pro adipiscendo vano favore
+hominum.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LI. <hi>Quomodo verecunda mens ab intentionis suae rectitudine dejicitur.</hi> </head>
+<p>Hic itaque est ille Sichem qui egredienti Dinae
+occurrit, oppressamque corrumpit. Integritatem
+ergo quam intus fortassis conservare potuit, egressa
+amittit. Nam quoniam verecundiae venustas ab omnibus
+fere commendatur, laudatur, amatur, Dinam
+<pb n="0037D"/>
+egredientem et intima sua deserentem, et quae eam
+humiliare consueverat infirmitatis suae memoriam
+cito obliviscentem, subito hominum laudes excipiunt,
+et eam, dum favoribus demulcent, corrumpunt.
+Dum enim in oblata laude delectatur, quid
+aliud quam per Sichem (amorem videlicet vanae
+gloriae) corrumpitur? Verumtamen tunc Dina corruptionis
+suae damna violentia quadam potius quam
+voluntate patitur, cum blandienti pravae delectationi
+quantum potest reluctatur. Toties enim Sichem
+quasi nolentem opprimit, quoties mentem corruptionis
+suae confusionem erubescentem, et idcirco
+fortiter reluctantem, etiam invitam usque ad turpem
+delectationem trahit. Sed quid putas causae
+accidit quae eam sua intima deserere, et ad exteriora
+<pb n="0038A"/>
+vagari compulit, nisi quod saepe dum infirma
+nostra nimis erubescimus, unde forte alii easdem
+infirmitates in se sentiant, mirari incipimus,
+et videtur nobis quoddam solatii genus invenisse, si
+deprehendamus nos in nostra saltem dejectione
+vel socios habere? Inde fit ut incipiamus aliorum
+studia curiosius quaerere, nunc vultum, nunc gestum,
+totiusque corporis habitum frequenter circumspicere,
+eorum occulta ex aliorum relatu libenter
+addiscere. Dum igitur Dina in aliis animarum
+statum ex signis exterioribus deprehendere
+nititur, quid aliud quam sua deserens ad videndas
+mulieres foras egreditur, forisque vagatur? Dum
+ergo Dina mulierum formas curiose circumspicit,
+alias multum, alias minus pulchras nimirum invenit.
+<pb n="0038B"/>
+Et dum secum tacita saepe comparat, quam
+multas pulchritudinis suae magnitudine longe antecedat,
+quid mirum si appetitus eam vanae gloriae
+vehementius pulsat? Cujus impetum dum resistendo
+repellere non sufficit, quid aliud quam viribus Sichem
+victa succumbit?</p>
+</div2>
+
+<div2>
+        <head>CAPUT LII <hi>Quomodo sub uno eodemque tempore unde una corrumpitur, inde aliae virtutes quandoque nutriuntur.</hi> </head>
+<p>Notandum sane quod uno eodemque tempore et
+Dina corrumpitur, et ejus in suis pecoribus pascendis
+fratres occupantur. Mens etenim quae charitate
+caeterisque virtutibus pollet, sicut de suis malis
+dolere, sic et de proximorum bonis gaudere solet.
+<pb n="0038C"/>
+Dum igitur proximorum vitam lustrando eorum
+bona considerat, suaque cum illorum bonis comparat,
+sicut non potest suis saepe favoribus non favere,
+sic et de aliorum eam bonis congratulari erit necesse.
+Mens utique pia dum aliorum profectum, aliorum
+defectum, horum infirmitatem, illorum perfectionem
+diligentius intuetur, variis nimirum, nunc his,
+nunc illis vicissim affectibus tangitur. Incipit ergo
+pro aliis timere, pro aliis dolere, de his bona, de
+illis meliora sperare. Videt in aliis quae diligat
+pro quibus et gaudeat invenit, et in quibusdam quae
+juste abhorreat, pro quibus et juste dolere debeat.
+In hunc itaque modum dum affectus boni simplicibus
+cogitationibus alludunt, quae ex inspecta et sibi
+<pb n="0038D"/>
+complacita proximorum disciplina hinc inde occurrunt,
+quid aliud fratres Dinae, filii Liae, quam pecora
+sua pascunt? Videsne quomodo uno eodemque
+tempore aliud verus amor proximi, atque aliud
+operatur vanus amor sui? Verus amor proximi
+pascendis pecoribus fratrum pascua praestat, vanus
+amor sui corruptionis Dinae occasionem administrat.
+Quod autem res patrem non latet, etiam priusquam
+ad fratres sermo perveniret, quid aliud nobis insinuat,
+nisi quod corruptelae notitia animum prius
+per cogitationem quam per affectum pulsat? Sed
+cum res diutius in corde versatur, saepius per cogitationem
+replicatur, quandoque usque ad intima
+cordis penetrat, cordisque affectum transverberat.
+Cum igitur rei sollicitudine animus afficitur, variisque
+<pb n="0039A"/>
+affectibus vicissim tangitur, jam usque ad
+filios Liae, fratres autem Dinae sermo pervenisse
+non dubitatur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LIII. <hi>Cum quanta instantia, vel cautela corrigenda sit intentio depravata.</hi> </head>
+<p>Sed quomodo putas insaniunt, cum sororis suae
+corruptionem jam ignorare, vel saltem dissimulare
+ulterius non possunt? Quid enim de eis ait Scriptura,
+nisi quod irati sunt vade; et iterum quod essent
+soevientes ob stuprum sororis suae? <note>(Gen. XXXIV.)</note> 
+Docet utique nos haec fratrum ira, vel potius insania,
+quantum sibi debeat quisque irasci, qualiter
+indignari, quomodo seipsum arguere, quam acriter
+<pb n="0039B"/>
+increpare, cum se agnoscit conscientiam suam inani
+gloriatione foedasse. Debet ergo, quicunque est, ad
+sanandum mentis tumorem infirmitates suas ante
+oculos ponere, et culpas suas, sine quibus nemo
+hanc vitam transigit, ad memoriam revocare, quam
+inhonesta saepe in opere, quam indigna in ore, quam
+immunda versetur in cogitatione diligenter attendere,
+ut inde manifeste colligat quam multa in
+suis moribus invenire queat quae jure debeant amputari,
+si vere vult, et non impudenter gloriari.
+Cum igitur hujusmodi conditionis retractatio mente
+revolvitur, quid aliud quam cum filio Emor circumcisionis
+pactum statuitur. Nam quid est aliud dicere:
+Morum tuorum pudenda abscinde, quam masculorum
+<pb n="0039C"/>
+tuorum praeputia circumcide? Et quid est dicere:
+Alioquin non poteris non impudenter gloriari, quam
+alioquin non poteris Dinae copulari? Si enim Sichem
+gloriatio, si digna verecundia, quid aliud erit
+gloriatio impudens, gloriatio sine verecundia, quam
+Sichem sine Dina? Recte autem inveteratae consuetudines
+quae difficile superantur, per masculinum
+sexum designantur. Isti sunt mares quos fratres
+Dinae circumcidi voluerunt; teste tamen Scriptura
+hanc circumcisionis conditionem Sichem in dolo
+proposuerunt. Ecce, ut facile advertere possimus,
+nullo modo marito tali sororem suam dare disponebant,
+et quamvis propositae conditionis conventionem
+explere potuisset, nullatenus tamen eum tali
+matrimonio dignum judicabant. Et quidem etiam si
+<pb n="0039D"/>
+possemus omnia inhonesta nostra de nostra penitus
+vita amputare, et ab omnibus omnino mundari,
+nihilominus tamen deberemus non de nostris meritis,
+sed tantum in Domino gloriari. Et idcirco
+fortassis fratres Dinae dura ei proponebant, ut eum
+de sororis suae copula omnino desperarent. Sed
+paratior est Sichem quaelibet, vel quamlibet aspera
+tolerare quam adamatae Dinae divortia sustinere. Et
+fit quidem saepe quod et superius praelocuti sumus,
+ut ea quae ab animo extorquere non potuimus,
+quando pro Deo illa facere disponebamus, eadem
+nobis ipsa sit facile perficere, cum pro eis timeamus
+incurrere detrimenta verecundiae.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LIV. <hi>Quomodo, vel quam caute oporteat intentionem mutare, et morum honesta non deserere.</hi> </head>
+
+<pb n="0040A"/>
+<p>Quid ad ista dicemus? An forte melius erit tacite
+gemere quam aliquid respondere, qui ista negare
+non possumus? Illud sane dixerim quod digne fratribus
+merito displicuit, merito eos placare non potuit
+circumcisio, quae non tam pro Deo quam pro
+Dina, non tam pro institutione divina quam pro
+verecundia humana fuit facta. Malum tamen in eis
+fuit justae severitatis modum excedere, et in ulciscenda
+injuria aequitatis mensuram minime servasse.
+Merito ergo Jacob inconsultam eorum audaciam
+redarguit, severitatemque tam indiscretam juste
+reprehendit. O quanto satius erat viros quamvis
+<pb n="0040B"/>
+non tam pro Deo, quam pro Dina circumcisos ad
+verum Dei cultum paulatim perducere, quam inopinata
+et repentina morte percutere! Hinc itaque
+colligat, hinc diligenter attendat quomodo quisque
+debeat circumcisis suis parcere, quos tamen se meminit
+non propter Deum circumcidisse. Qui sunt
+istiusmodi circumcisi, nisi mores non bona intentione
+correcti? Nec tamen in talibus debemus morum
+honesta destruere, sed intentionem mutare.
+Errant ergo, utique errant qui abjiciunt opera
+bona, quamvis forte inchoata sint intentione mala.
+Erratuum ergo suorum ultores hujusmodi quid aliud
+faciunt, quam super circumcisos cum Simeon et
+Levi irruentes violenter occidunt?</p>
+</div2>
+
+<div2>
+        <head>CAPUT LV. <hi>Qua maxime consideratione debeamus intentionis depravationem castigare.</hi> </head>
+
+<pb n="0040C"/>
+<p>Opere pretium est illud etiam diligenter attendere
+quonam modo tam pauci tantam potuerunt
+stragem efficere. Sed nimirum adjuvit eos electa
+opportunitas temporis, quando ipsos circumcisos,
+et ab ipsis occidendos oppresserat acerbitas doloris.
+Ad hoc electus est circumcisionis dies ille tertius,
+in quo teste Scriptura, dolor solet esse gravissimus.
+Sed qui sunt isti dies, vel cur tantum dicuntur
+esse tres? Si per noctem ignorantia, recte per
+diem intelligitur notitia. Primus itaque dies est cognitio
+eorum quae sunt extra nos, secundus dies,
+cognitio eorum quae sunt intra nos; dies tertius,
+<pb n="0040D"/>
+cognitio eorum quae sunt supra nos. Extra nos
+corporalia, intra nos spiritualia, supra nos divina.
+Eorum itaque qui se circumcidunt, verumtamen
+non propter Deum hoc faciunt, prima consideratio
+esse debet, vel potius esse solet, cum diligenter
+attendunt quid asperitatis extrinsecus pertulerunt.
+Secunda consideratio esse debet quid intus acquisierunt
+per tot cruciatus corporis, imo quantum
+intus veraciter perdiderunt per naevum sinistrae intentionis.
+Tertia consideratio erit quid retributionis
+de Deo exspectare debeant, quem simulatae servitutis
+obsequio non tam placasse quam exasperasse
+non dubitant. Primo itaque die considerationis
+primae recurrit ad memoriam amputata licentia
+amatae consuetudinis, et absque dubio dolor efficitur,
+<pb n="0041A"/>
+dolor utique gravis; quia non relinquitur sine
+dolore quod possidebatur cum amore. Secundo die
+considerationis secundae invenit se animus per detrimenta
+corporis pervenisse ad damna mentis, et
+fit utique dolor quanto justior, tanto fortassis et
+gravior. Tertio die considerationis tertiae deprehendit
+se gravia pertulisse de sententia propria, sed
+graviora exspectare debere de sententia divina.
+Hic est ille dies tertius in quo, testante Scriptura,
+dolor solet esse gravissimus. Quantus enim putas
+dolor mentem transverberat cum diligenter considerat
+malum quod pertulit, malum quod commisit,
+malum quod promeruit, malum quod pertulit exterius
+in cruciatu corporis, malum quod contraxit
+intrinsecus in reatu criminis, malum quod promeruit
+<pb n="0041B"/>
+divinitus in conspectu Creatoris. Profecto non
+solum graviter, sed etiam gravissime doluit quisquis
+inutiliter circumcisorum ad hanc diem pervenire
+potuit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LVI. <hi>Quod mens in omni corruptione sua debeat et patienter dolere, et de sua correctione non desperare.</hi> </head>
+<p>Debet tamen mens sui criminis conscia et de sua
+infirmitate confusa, et patienter dolere, et de sua
+correctione non desperare. Oportet eam sane et
+dolere de corruptione et sperare nihilominus de
+correctione, ut per moderatum dolorem afflicta, et
+per spei fiduciam erecta, et satisfaciat de praeterito,
+et provideat de futuro. Superius autem jam diximus
+quomodo dolorem et spem per Simeonem, et Levi
+<pb n="0041C"/>
+intelligere debemus. Isti sunt duo illi Dinae fratres
+Simeon et Levi injuriarum suarum ultores saevi, sed
+utinam quam fortes, tam forent et discreti! Ad Simeon
+pertinet satisfacere de eo quod malefactum
+est, ad Levi pertinet animum erigere ad id quod in
+posterum providendum est. Si ergo doles de corruptione,
+desperes autem de correctione, est tibi
+Simeon, sed solus. Si negligis de satisfactione praeteriti,
+speres tamen de cautela futuri, est ibi Levi,
+sed solus. Ad tantum ergo negotium necesse est ut
+uterque conveniat, et uterque alteri opem ferat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LVII. <hi>Quomodo, vel quam caute per exprobrationem peccati vel per exactionem debiti, debeat corrupta mens flagellari.</hi> </head>
+
+<pb n="0041D"/>
+<p>Sed considerandum est iterum quod saepe in eo
+quod fortiter agunt, modum justi libraminis excedunt,
+quod facile convincimus ex hoc eorum opere
+quod inter manus habemus. Arreptis enim gladiis,
+confoederatos sibi societatis pacto violenter occidunt,
+et pro unius pudicitia violata, tot virorum tam subitam
+stragem fecerunt. Gladius Simeonis exprobratio,
+gladius Levi est exactio. Solet enim Simeon corruptae
+menti exprobrare vehementer malum quod fecit,
+Levi vero solet vehementer exigere bonum quod fieri
+oportuit. Quid igitur aliud est eos his gladiis pugnare,
+quam exprobrationis et exactionis stimulis
+mentem flagellare? His stimulis quorumdam mens
+vehementer accensa, saepe inconsolabiliter plangit
+<pb n="0042A"/>
+ea etiam quae nullo modo potest evitare. His stimulis
+exagitata ea etiam saepe inchoare praesumit, quae
+nullatenus valet consummare. Hinc illa quorumdam
+immoderata tristitia; hinc illa etiam indiscreta
+abstinentia, quae non solum vires corporis, verum
+etiam evacuant virtutem mentis. Quosdam etenim,
+saeviente Simeone, vidimus tam irrationabili tristitia
+absorberi, ut nullius possent aliquatenus consolatione
+relevari. Alios cognovimus per immoderatam
+abstinentiam tam graviter corruisse, ut nulla postmodum
+deliciarum copia, nulla coquorum diligentia
+posset eis satisfacere. Ecce bellatores isti (Simeon
+loquor et Levi) quomodo pugnant, qualiter se vindicant.
+Quid est enim aliud eos, arreptis gladiis,
+Dinae amatores interficere, quam exprobratione inevitabilium
+<pb n="0042B"/>
+vel exactione impossibilium eo usque
+non solum vires corporis, verum etiam vigorem
+mentis attenuare, ut pro humana saltem verecundia
+non possit se mens a suis excessibus temperare?
+Unde eis recte per Jacob dicitur: <hi>Simeon, et Levi
+fratres vasa iniquitatis bellantia, in consilium eorum
+non veniat anima mea, et in coetu eorum non sit
+gloria mea <note>(Gen. XLIX)</note>
+          </hi>. O quales bellatores, qui dum
+fortiter egisse videri volunt, pacis suae socios tam
+crudeliter quam violenter occidunt! Vasa iniquitatis
+bellantia, sed in consilium eorum non veniat anima
+mea. O viros inconsultos, qui dum hic praesumunt
+quod efficere non possunt, illud etiam amittunt
+quod efficere potuerunt! In consilium ergo eorum
+non veniat anima mea, et in coetu eorum non sit
+<pb n="0042C"/>
+gloria mea. Non est bona gloriatio ambulare in
+magnis, et in mirabilibus super se, quo possit quasi
+de sua gloriari virtute. Non est, inquam, hujusmodi
+bona gloriatio. In coetu ergo eorum non sit gloria
+mea: <hi>Quia,</hi> inquit, <hi>in furore suo occiderunt virum,
+et in voluntate sua suffoderunt murum <note>(ibid.)</note>
+          </hi>.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LVIII. <hi>Quomodo per nimiam afflictionem mens quandoque usque ad impudentiam effrenatur.</hi> </head>
+<p>Quid per virum nisi vigor mentis? quid per murum
+nisi disciplina intelligitur corporis? Vir itaque ille
+amator Dinae tunc veraciter occiditur, quando per
+afflictionem nimiam vigore mentis exhausto, usque
+ad apertam impudentiam animus effrenatur. Tunc
+<pb n="0042D"/>
+amator Dinae absque dubio gladio perit, quando per
+afflictionis nimietatem vigor mentis eo usque deficit,
+ut a suis, ut dictum est, excessibus pro humana
+saltem verecundia se temperare non possit. Tunc
+murus destruitur, quando per immoderatam abstinentiam
+rigor prioris disciplinae penitus dissipatur.
+Sed hoc est in hujusmodi bellatoribus prae omnibus
+admirabile, imo supra omnia detestabile, quod nullius
+unquam quamlibet prudentis viri consilio acquiescunt,
+imo nec propriae saltem experientiae cedunt,
+nec tunc quidem cum jam incipiunt et corpore deficere,
+et corde tabescere. Quorum pertinacia maledictionis
+jaculo percutitur, cum ad illos per Jacob
+dicitur: <hi>Maledictus furor eorum, quia pertinax, et
+indignatio corum, quia dura <note>(Gen. XLIX)</note>
+          </hi>. Mirabilis
+<pb n="0043A"/>
+pertinacia, sed non minor insania, ab impetu cursus
+sui, a devio erroris sui, nonnisi solo impossibilitatis
+freno posse retineri. Ecce quomodo praeliari
+norunt vasa iniquitatis bellantia, ecce quanta faciunt,
+ecce quanta fiunt pro Dina. Pro Dina masculi circumciduntur,
+pro Dina circumcisi perimuntur. Totum
+hoc fit pro Dina, totum pro humana verecundia.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LIX. <hi>Quod nec ordinata verecundia sit bona, nisi sit et moderata.</hi> </head>
+<p>Sed miraris forte cum humanam verecundiam
+superius reprobaverimus, cur eam modo ad Dinam
+pertinere doceamus, cum per Dinam solam ordinatam
+verecundiam intelligere debeamus. Sed aliud est
+<pb n="0043B"/>
+homines erubescere propter Deum, et aliud eosdem
+erubescere propter seipsos: <hi>Sic luceat lux vestra,</hi> 
+dicit Scriptura, <hi>ut videant opera vestra bona, et glorificetur
+Pater vester qui in coelis est <note>(Matth. V)</note>
+          </hi>. Bonum
+est ergo erubescere infamiam, non tam ad nostram
+quam ad gloriam divinam. Et hoc est forte Dinam
+exire, hominum infamiam propter Deum erubescere.
+Nam tunc procul dubio Dina intus invenitur, quando
+de occultis etiam suis coram Deo conscientia nostra
+confunditur. Homines itaque propter Deum erubescere,
+est bonam verecundiam habere, et qualem
+non dubitamus ad Dinam pertinere. Verecundia itaque
+talis et ordinata est, et juxta aliquid recte humana
+dici potest. Revera tamen hujusmodi bona
+<pb n="0043C"/>
+est, si non sit nimia. Certe si Dina adhuc parvula
+esset, vel intra thalami sui secreta seipsam cohiberet,
+corruptionis maculam non incurrisset, et tantorum
+malorum causa non exstitisset.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LX. <hi>De principalium affectuum numero, et ordinandi modo compendiosa recapitulatio.</hi> </head>
+<p>Haec est Dina quae post Issachar et Zabulon nascitur,
+quia post degustatum internae dulcedinis gaudium,
+et post verum vitiorum odium, quanto verius
+tanto vehementius quisque de sua infirmitate confunditur.
+Per Issachar etenim intelligimus gaudium
+conscientiae, per Zabulon odium malitiae, per Dinam
+venustatem verecundiae: et sunt quidem hi novissimi
+<pb n="0043D"/>
+tres liberorum Liae. Quos si cum quatuor superioribus
+annumeramus, septem esse absque dubio invenimus.
+Principales enim affectus septem esse longe
+superius jam diximus: quos cum in nobis ordinamus
+in numerum virtutum redigimus. Primo itaque ordinatur
+timor, deinde dolor, post hos spes et amor.
+Post hos quatuor ordinantur laetitia et ira; novissime
+autem omnium verecundia. Itaque nihil aliud
+est Jacob hujusmodi liberos ex Lia genuisse, quam
+animum affectionis suae motus ordinando dignam virtutum
+sobolem de seipso procreasse. Per Ruben igitur
+primogenitum Jacob intelligimus ordinatum timorem,
+per Simeonem ordinatum dolorem, per Levi
+et Judam ordinatam spem et ordinatum amorem.
+Per Issachar autem intelligitur ordinata laetitia, per
+<pb n="0044A"/>
+Zabulon ordinata ira, per Dinam ordinata verecundia.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXI. <hi>Quod affectus ordinati veraciter sunt boni, si sunt et moderati.</hi> </head>
+<p>Sciendum autem quod affectus isti tunc veraciter
+creduntur boni, quando sunt non solum ordinati,
+sed etiam moderati. Saepe namque cum discretionis
+moderamen excedunt, virtutis nomen amittunt. Sed
+hoc fortassis melius per exemplum ostendemus, si
+de ipso fratrum primogenito exempla sumamus.
+Certe si timor immoderatus periculosus non esset,
+Jacob ad Ruben loquens minime dixisset: <hi>Effusus
+es sicut aqua; non crescas, quia ascendisti cubile patris
+tui, et maculasti stratum ejus <note>(Gen. XLIX)</note>
+          </hi>. Si per
+<pb n="0044B"/>
+Ruben debemus ordinatum timorem intelligere, cur,
+quaeso, jubet eum Jacob non crescere, nisi quia
+malum est in quolibet ordinato timore modum aequitatis
+excedere?</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXII. <hi>Quibus modis timor mensuram aequitatis transgreditur.</hi> </head>
+<p>Duobus autem modis hic filius aequitatis mensuram
+saepe supergreditur, aut quia circa unum aliquid
+minus extenditur, aut quia ad innumera, vel
+etiam inutilia passim dilatatur. Quis neget Judam
+post proditionis scelus jure timere debuisse? Sed
+illud in eo quis non videat supra omnia exsecrabile
+fuisse, quod, dum in suo timore modum servare
+noluit vel nescivit, semetipsum desperando malum
+<pb n="0044C"/>
+quod corrigere potuit, detestabiliori exitu quam exordio
+cumulavit? Sed illa timoris nimietas quae se
+passim ad multiplicia rerum effundit facilius decipit:
+perfectis etenim viris quandoque subrepit. Quis
+namque praelatorum quamlibet perfectus dum subjectis
+suis vitae necessaria providet, ita sollicitudinis
+suae curas temperet, ut pro adversis rerum
+casibus nunquam plus justo formidet? Pertinet autem
+ad Ruben tunc tantum timor hujusmodi, cum
+surgit quidem, et non ex amore mundi, sed de dilectione
+proximi. Sed quis enumerare sufficiat omnes
+ancipites incommodorum casus hinc indeque
+surgentium, pro quibus eum trepidare cogit et si
+non sua, suorum saltem infirmitas subjectorum? Et
+<pb n="0044D"/>
+quis non videat quam sit difficile, imo quam pene
+impossibile justae formidinis metas nunquam excedere?
+Inde fit saepe ut quanto quis prudentior, tanto
+inveniatur et sollicitior; et quanto quisque novit
+perspicacius circumstantium periculorum casus ancipites
+prospicere, tanto cogitur timidae sollicitudinis
+suae habenas multiplicius relaxare. De quo et
+illud convenienter intelligitur quod a Ruben per
+Jacob dicitur: <hi>Effusus es sicut aqua, non crescas <note>(Gen. XLIX)</note>
+          </hi>.
+Solet enim per aquam quandoque carnis
+prudentia, sicut per vinum intelligi saepe specialis
+intelligentia. Haec aqua cuique tunc in vinum
+vertitur, quando aspirante Deo, per exterioris scientiae
+scalam ad invisibilium intelligentiam sublevatur,
+quando invisibilia Dei a creatura mundi per ea quae
+<pb n="0045A"/>
+facta sunt intellecta conspiciuntur <note>(Rom. I)</note>. Hujusmodi
+cuique aqua eo amplius abundat, quo ejus
+animus in exteriorum scientia copiosius se dilatat.
+Haec utique aqua quanto uberius excrescit, dum
+omnia caute circumspicit, tanto procul dubio formidolosae
+sollicitudinis silvam densiorem gignit, et
+latius expandit, unde recte hic dicitur: <hi>Effusus es
+sicut aqua, non crescas.</hi> Cavendum itaque summopere
+est, cum mundanae scientiae aqua abundat, ne multiplicis
+sollicitudinis timor ultra mensuram excrescat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXIII. <hi>Ad quam impudentem evagationem nimius timor mentem prostituit.</hi> </head>
+<p>Certe cum Ruben adhuc parvulus esset, et annos
+<pb n="0045B"/>
+pueriles ageret, patris sui cubile incestare non praesumpsit,
+vel quia non potuit, vel quia minime ausus
+fuit. Adultus tamen in tantam, ut de ipso legitur,
+prorupit audaciam ut patris sui corrumperet concubinam,
+Balam videlicet Rachelis ancillam. Sed si
+per Balam imaginatio intelligitur, quomodo putamus
+hujusmodi ancilla corrumpitur? Sed quae est
+Balae corruptio, nisi cogitationis, vel imaginationis
+inordinata et impudens evagatio? In tantum enim
+quandoque timor superfluus imaginationem, non dicam,
+corrumpit, sed prostituit ut in tempore quidem
+orationis a suis se fornicationibus temperare vix,
+aut omnino non possit. Cum enim prae nimia sollicitudine
+inter orandum etiam saepe mundanorum
+negotiorum phantasias mens per imaginationem recipit,
+<pb n="0045C"/>
+quid aliud Bala quam ad fornicationes Ruben
+sinum suum expandit? Cogita nunc ergo quam sit
+ineptum, ut eo tempore quo debes pro aeternis malis
+removendis Domino supplicare, incipias temporalia
+tantum pericula prae oculis habere, et illa sola
+corde revolvere, illorum propter quae veneras oblivisci,
+illa quorum oblivisci debueras sola reminisci.
+Hinc est quod mens saepe, quae prius solebat per
+imaginationem sola sibi futurorum bona vel mala
+omni hora anteponere, postmodum per superfluum
+timorem subacta non possit vel ad modicum curarum
+saecularium incursus a cordis secretario excludere.
+Quia igitur saepe imaginatio per superfluum
+timorem ad tam imprudentem cogitationum evagationem
+<pb n="0045D"/>
+deducitur, recte ad Ruben pater suus de
+corruptione Balae ei improperando loquitur. <hi>Effusus
+es sicut aqua, non crescas, quia ascendisti cubile
+patris tui, et maculasti stratum ejus.</hi> </p>
+</div2>
+
+<div2>
+        <head>CAPUT LXIV. <hi>De vi, vel efficacia timoris sine quo nec mala deserimus, nec bona inchoamus.</hi> </head>
+<p>Sed ut de hoc affectu aliquid loquamur apertius,
+majorem prae caeteris sive ad bonum, sive ad malum
+efficaciam habere videtur. Siquidem ab illo frequenter
+a suo mens rectitudinis statu dejicitur, sed quolibet
+modo dejecta sine illo nunquam reparatur.
+Quis enim de quovis peccato quamlibet parvo sine
+timore liberatur? Sine timore mala nostra nunquam
+deserimus; sine timore bona operari, nec saltem
+<pb n="0046A"/>
+inchoamus. Nonne de eo hoc illa verba Jacob manifeste
+loquuntur, si recte intelligantur ubi dicitur: <hi>Ruben primogenitus meus, tu fortitudo mea,
+principium doloris mei, primus in donis, major imperio <note>(Gen. XLIX)</note>
+          </hi>.
+Ubi et illud sequitur, de quo aliqua
+jam diximus: <hi>Effusus es sicut aqua, non crescas.</hi> 
+Quomodo autem iste Ruben sit primogenitus, vel
+quomodo sit principium doloris ex superius jam
+dictis satis, ut arbitror, manifestum est; quomodo
+autem sit ejus fortitudo, et caetera quae de eo dicuntur,
+facile ostendi potest: <hi>Tu,</hi> inquit, <hi>fortitudo
+mea.</hi> Quis enim in illo unquam praelio victor exstitit,
+ubi spiritus adversus carnem, caro adversus
+spiritum concupiscit? Quis, inquam, tam numerosum
+concupiscentiarum suarum exercitum debellavit, si
+<pb n="0046B"/>
+sine timore pugnavit? Recte ergo primogenitus,
+quia a timore Domini omne bonum inchoatur, recte
+fortitudo dicitur, quia per timorem Domini cor contra
+concupiscentias suas roboratur, recte principium
+doloris sui, quia timorem Domini utilis dolor comitatur.
+Ut enim animi dolor cuique suus sit, et
+sibi utilis existat, necesse est ut eum timor Domini
+praecedat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXV. <hi>De principalitate timoris, et aliis affectibus qui quibus principentur.</hi> </head>
+<p> <hi>Primus,</hi> inquit, <hi>in donis, major imperio.</hi> Inter
+omnia Dei dona quae ad salutem hominis spectare
+videntur primum et principale donum bona voluntas
+esse cognoscitur, per quam in nobis divinae
+<pb n="0046C"/>
+similitudinis imago reparatur. Quidquid homo agat,
+bonum esse non potest, nisi ex bona voluntate
+procedat. Quidquid ex bona voluntate fit, malum
+esse non poterit. Sine bona voluntate omnino salvari
+non potes, cum bona voluntate omnino perire non
+potes. O donum mirabile! o donum singulare! Hoc
+est illud primum, vel principale donum quod primogenito
+Ruben tribuitur, quia absque dubio per
+timorem Domini voluntas mala in bonam commutatur.
+Cur itaque primus in donis non sit qui primum
+et principale donum accipit? Primum quia a
+bona voluntate bonum omne inchoatur; principale,
+quia bona voluntate hominibus utilius nihil datur. <hi>Primus in donis, major imperio.</hi> 
+ Quis hunc Ruben
+<pb n="0046D"/>
+prae caeteris imperio majorem esse neget, qui caeteris
+omnibus fratribus suis persaepe etiam imperare
+solet? Ante ejus conspectum Levi cedit, quia superveniente
+timore spes cadit, ad ejus imperium saepe
+Judas secedit. Zabulon accedit quia, cogente timore,
+saepe charitas refrigescit, odium exsurgit. Ad nutum
+ipsius Issachar egreditur, et Simeon ingreditur,
+quia subintrante timore, saepe et gaudium excluditur,
+et dolor admittitur. Vidimus quomodo Ruben
+quandoque fratribus suis etiam imperare consuevit,
+videamus quomodo imperium suum prae caeteris
+latius extendit. Certe alia sunt quae amamus, alia
+sunt quae odio habemus, sed pro utrisque timere
+solemus, dum saepe ista amittere, illa formidamus
+incurrere. Dividunt itaque Judas, et Zabulon inter
+<pb n="0047A"/>
+se regnum, sed Ruben se extendit ad totum, quia
+verus amor ad sola bona, verum odium ad sola mala,
+timor se effundit ad hoc, et ad illa. Zabulon in partis
+suae partem fratrem suum admittit Simeonem.
+Pro adversis siquidem dolemus, sed non pro omnibus,
+quia non omnia sustinemus. Levi quam Judas
+imperio est minor, multo tamen quam Issachar
+imperio est major. Plura enim sunt quae debemus
+diligere, quam quae audeamus sperare. Sed constat
+nihilominus copiosiorem esse materiam sperandi
+quam gaudendi, quia habita de quibus gaudemus
+pauca sunt ad ea quae habenda speramus. Judas itaque
+et Zabulon imperii sui magnitudine caeteros
+fratres vincunt, verumtamen ad mensuram Ruben
+extendere se minime possunt. Omnes itaque Ruben
+<pb n="0047B"/>
+antecedit, qui caeteros primus longe post se relinquit.
+Omnia enim quae constat homines amare,
+sperare, odisse, pro quibus dolere, vel gaudere solent,
+multiplicis timoris causas ex se gignere valent.
+Saepe etenim circa unam rem quam diligimus, plures
+timendi causas invenimus. Quot modis siquidem
+perdi potest, tot timoris occasiones dare potest.
+Multum itaque regnum suum Ruben iste dilatat,
+sed vires ei administrat, non solum multiplicitas
+occultorum, sed etiam mutabilitas apparentium. De
+quo enim securus esse possum, qui nil habeo quod
+perdere non possum? Quando hic ad scientiae certitudinem
+pertingo, qui innumerabiliter plura nescio
+quam scio? Quia igitur timor caeteris affectibus latius
+<pb n="0047C"/>
+diffunditur, recte Ruben fratrum comparatione
+imperio major esse perhibetur. Et ne crescat a patre
+suo prohibetur, sed eo videlicet tempore quo
+sicut aqua diffusus erat, quando jam patris cubile
+ascenderat, stratumque ejus jam maculaverat: <hi>Ruben,</hi> 
+inquit, <hi>primogenitus meus, tu fortitudo mea, principium
+doloris mei, primus in donis, major imperio,
+effusus es sicut aqua, non cresces, quia ascendisti cubile
+patris tui, et maculasti stratum ejus.</hi> Ecce Ruben
+quantum malum praesumpsit, quia ultra modum
+excrevit. Cito magnum periculum incurritur, si timor
+noster per discretionem non moderatur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXVI. <hi>Quomodo virtutes in vitia vertantur nisi per discretionem moderentur.</hi> </head>
+<p>
+          <pb n="0047D"/>Sic et de aliis affectibus credere debemus, periculosos
+quidem esse, nisi eos intra aequitatis metas
+coerceamus. Certe quam malum sit dolorem et spem
+modum excedere ex praedicto Simeonis et Levi facto
+facile possumus advertere: de quibus per Jacob
+dicitur: <hi>Maledictus furor eorum quia pertinax, et
+indignatio eorum quia dura <note>(Gen. XLIX)</note>
+          </hi>. Caute ergo
+circa omnes debet custodiri, ut non solum sint ordinati,
+sed etiam moderati. Timor enim nimius saepe
+cadit in desperationem, dolor nimius in amaritudinem,
+spes immoderata in praesumptionem, amor
+superfluus in adulationem, laetitia supervacua in
+dissolutionem, ira intemperata in furorem. In hunc
+itaque modum virtutes in vitia vertuntur, si per
+discretionem minime moderentur. Videsne quemadmodum
+<pb n="0048A"/>
+caeterae omnes virtutem discretionis requirant,
+ne virtutis nomen amittant.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXVII. <hi>Quomodo, vel quam sero oriatur discretio cum sit prima proles rationis.</hi> </head>
+<p>Hic est ille Joseph qui quidem sero nascitur, sed
+a patre plus caeteris amatur. Quis enim nesciat vera
+bona animi sine discretione nec posse acquiri, nec
+posse conservari? Merito ergo illa virtus singulariter
+diligitur sine qua nulla conquiritur, nulla consummatur,
+nulla conservatur. Sed vix sero talem
+filium accipere meremur, quia ad discretionis perfectionem
+non sine magno usu, nonnisi per magna
+experimenta erudimur. Prius non oportet in singulis
+virtutibus exerceri, et quid in unaquaque possimus
+<pb n="0048B"/>
+experiri, quam possimus de omnibus plenam scientiam
+percipere, et de singulis sufficienter judicare.
+Multa quidem de discretione legendo, multa discimus
+audiendo, multa ex insito nobis rationis judicio:
+verumtamen nunquam de hac ad plenum erudimur
+sine experientiae magisterio. Post omnes sequi
+oportet qui de omnibus judicare debet. Primum
+ergo est ut satagamus singulis virtutibus studium
+frequens impendere, quod dum facimus, necesse
+est nos saepius cadere: oportet ergo nos saepe resurgere,
+et per frequentem lapsum addiscere qua
+vigilantia, qua cautela oporteat virtutum bona aquierere
+vel custodire. Sic sic dum longo usu virtutum
+disciplina addiscitur, quandoque mens diu exercitata
+<pb n="0048C"/>
+ad plenam morum discretionem perducitur,
+et quasi de nato Joseph jure laetatur. Ante hujus
+nativitatem ejus fratres dum adhuc omnia sine discretione
+agunt, quanto ultra vires suas multa praesumunt,
+tanto saepe deterius, atque deformius ruunt.
+Unde est, sicut jam diximus, quod post eos Dina
+nascitur, quia frequenter deformem lapsum pudoris
+confusio comitatur. Sed post natam Dinam et
+quasi per confusionis ignominiam fratres sui inveniunt,
+et per experimentum addiscunt, nihil melius
+esse quam consilio regi: <hi>Quia melior est vir prudens
+viro forti <note>(Prov. XVI)</note>
+          </hi>. <hi>Vir enim prudens loquitur
+victorias, et qui cum consilio cuncta agit, in aeternum
+non poenitebit <note>(Prov. XXI)</note>
+          </hi>. Cum igitur consilii necessaria
+utilitas per experimentum cognoscitur, et
+<pb n="0048D"/>
+per studium attentius quaeritur et invenitur, Joseph
+quodammodo nascitur, per quem virtus discretionis
+intelligitur. Patet autem ratio cur ancillarum nulla,
+cur nec ipsa quidem Lia, sed Rachel sola potuerit
+talem filium gignere, siquidem non est sensualitatis,
+non imaginationis, non denique ipsius affectionis,
+sed solius est rationis discernere sicut et intelligere.
+Si igitur per Rachel rationem intelligimus, cur nonnisi
+de Rachel Joseph nasci possit citius invenimus,
+quia quod de sola ratione discretio oriatur minime
+dubitamus. Talis proles de tali matre. Joseph
+de Rachele, discretio de ratione.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXVIII. <hi>De discretionis utilitate, vel ejus proprietate.</hi> </head>
+<p>Hic est ille Joseph qui solus inter fratres tunica
+<pb n="0049A"/>
+talari vestitur, quia sola illa actio ad consummationis
+talum debitique finis terminum perducitur,
+quae per discretionis prudentiam moderatur. Hic est
+ille Joseph qui a patre plus cunctis fratribus amatur,
+quia cunctarum virtutum virtus custos caeteris jure
+praefertur. Hic est ille Joseph sommiator somniorumque
+interpretator; quia vera discretio in ipso
+tentationis articulo, inter ipsa suggestionum phantasmata
+ex eorum qualitate futura pericula deprehendit,
+et aliis quibuslibet ad cogitationum suarum
+confessionem imminentium malorum insidias detegit,
+et de futuris periculis cautos reddit. Hic est Joseph
+quem aemulantur sui, venerantur alieni, quem
+vendunt Hebraei, emunt Aegyptii, quia citius consilio
+acquiescunt, faciliusque alienae prudentiae cedunt
+<pb n="0049B"/>
+erroris sui tenebras cognoscentes, quam de justitia
+sua, vel prudentia praesumentes. Hic est ille Joseph
+sponsus virginis, amator, non violator castitatis,
+quia discretio custos non corruptor esse solet internae
+puritatis. Hic est ille puer, et nuntius qui
+beato Job in omni persecutione sua solus remanere
+potuit, qui ei perpetrata damna statim renuntiare
+studuit, quia nisi per discretionem, virtutum damna
+animus nec cognoscit, nec corrigit. Nescit puer ille
+cum pereuntibus perire; nescit discretio per rerum
+detrimenta, per tentationum augmenta deficere, sed
+proficere. Quanto enim acrioribus tentationibus
+urgemur, quanto crebrioribus periculis exercemur,
+tanto perfectius ad discretionem erudimur, et saepe
+aliarum virtutum damna, discretionis sunt lucra.
+<pb n="0049C"/>
+Novit itaque Joseph non solum cum crescentibus
+crescere, non solum cum proficientibus proficere,
+verum etiam ex fratrum defectu ad profectum tendere,
+et ex aliorum detrimentis prudentiae lucra acquirere.
+Merito talis filius Joseph nuncupatur, Joseph
+siquidem <hi>augmentum</hi> interpretatur. Unde recte
+de ipso per patrem ejus dicitur: <hi>Filius accrescens
+Joseph, filius accrescens, et decorus aspectu <note>(Gen.
+XLIX)</note>
+          </hi>. Recte itaque augmentum nominatur, recte
+filius accrescens dicitur qui semper augmentatur,
+cujus incrementum usque in finem non finitur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXIX. <hi>Quam sit utile et item quam sit difficile discretioni perfecte obtemperare.</hi> </head>
+<p>
+          <pb n="0049D"/>Quanta autem hujus virtutis sit excellentia testantur
+ipsa Joseph somnia, testantur patris ejus verba,
+ubi legitur: <hi>Nunquid ego, et mater tua, et fratres tui
+adorabimus te super terram? <note>(Gen. XXXVII.)</note>
+          </hi> Hunc Joseph
+et pater, et mater, et fratres adorant, quia aut
+spontanea voluntate, aut coacti necessitate quandoque
+discretioni obtemperant. Per discretionem
+siquidem sol ille mundi intellectualis interior ille
+oculus cordis intentio videlicet mentis dirigitur,
+per discretionem de qua oritur subtilitas rationis
+acuitur, per discretionem illa tota virtutum fraterna
+germanitas modificatur, et virtutum quaelibet quae
+ejus consilio non acquiescit, quae se discretioni, non
+subdit, citius virtutis nomen amittit. Ipse est qui
+fratrum suorum negligentias non negligit, ipse est
+<pb n="0050A"/>
+qui eorum excessus arguit. Ipso praesente, non licet
+eis quidquam ultra vires praesumere; ipso praesente,
+nihil per negligentiam praetermittere. In ejus praesentia
+non eis licet sive ad dexteram sive ad sinistram
+declinare, nil segniter, nil praecipitanter
+agere, nil ante tempus praesumere, nil ultra temporis
+opportunitatem differre. Hinc illa inter ipsum et
+fratres discordia gravis, et ita pene implacabilis,
+de qua Scriptura non tacet, cum manifeste pronuntiet,
+qui oderant eum fratres sui, nec poterant ei
+quidquam pacifice loqui. Monita enim Joseph videntur
+eis valde gravia, dura instituta, consilia importabilia.
+Quid enim durius, quid difficilius, quam nil
+faciendum negligere, et in omni suo facto nunquam
+modum perturbare, nunquam ordine confundere,
+<pb n="0050B"/>
+nunquam mensuram excedere? Crede mihi, nihil a
+se animus difficilius extorquet, quam ut in omni
+affectione sua modum servet. Saepe etenim fratres
+Joseph magnum aliquid molientes dum eis undique
+acclamatur: Euge, euge, solent non solum ad
+inutilia, verum etiam ad impossibilia conatus sui
+manus extendere. Frequenter siquidem animi affectus
+ex hujusmodi adulantium acclamatione, ad
+immoderatam praesumptionum audaciam effrenatur,
+imo etiam multoties mentis intentione depravata
+usque ad hypocrisis crimen deducitur atque dejicitur.
+Hoc est illud crimen pessimum et prae caeteris
+abominandum quia Deo prae omnibus odiosum, de
+quo Joseph fratres suos apud patrem suum accusat,
+sicut Scriptura ipsa manifeste declarat, cum dicit:
+<pb n="0050C"/> <hi>Accusavit Joseph fratres suos apud patrem crimine
+pessimo 
+ <note>(Ibid.)</note>
+          </hi>. Vitium quod Deus singulariter detestatur,
+nullum aliud quam hypocrisis rectius intelligitur.
+Augustino namque attestante, simulata
+aequitas non est aequitas, sed duplex iniquitas. Hoc
+vitium per Joseph detegitur, quando insidians malum
+per discretionem deprehenditur, et arguitur.
+Hoc vitium tunc filios corrumpit, hoc vitium tunc
+pater corrigit, quando affectum tangens durius pulsat,
+diutius occupat, verumtamen animum usque ad
+consensum non inclinat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXX. <hi>De multiplici officio verae discretionis.</hi> </head>
+<p>Pertinet itaque ad Joseph non modo hoc vitium
+<pb n="0050D"/>
+sed quodlibet insidians malum, et latens adhuc
+provide circumspicere, caute praevidere, callide
+deprehendere, citius detegere, acerbius arguere. Ad
+officium Joseph spectat cura, et custodia omnium
+fratrum suorum, ad ipsum spectat disciplina singulorum,
+ad ipsum dispositio gerendorum, ad ipsum
+providentia futurorum. Ad ejus officium pertinet diligenter
+attendere, frequenter discutere, quantum
+animus quotidie proficiat, vel quantum forte deficiat,
+quibus cogitationibus magis incursetur, quibus affectibus
+frequentius tangatur. Ipse Joseph debet non
+solum vitia cordis, verum etiam invalitudines corporis
+perfecte cognoscere, et secundum quod unumquodque
+exigit, salutis remedia quaerere, quaesita
+adhibere. Ipsum nosse oportet non solum vitia sua,
+<pb n="0051A"/>
+sed et gratiarum munera et virtutum merita, sed et
+ipsa diligenter distinguere, et quae sint bona naturae,
+vel quae dona gratiae subtiliter pensare. Promptum
+habere debet quibus tentationum machinis malignus
+eum spiritus impugnet, quantis spiritualium gaudiorum
+consolationibus abundet, quam frequenter
+divinus eum spiritus visitet, quomodo ab ipso cum
+sit unus non tamen uniformiter, eodemque modo
+semper tangitur, sed nunc spiritu sapientiae, nunc
+spiritu intellectus, nunc spiritu consilii, vel aliis
+quibuslibet ejus affectibus repletur. Et ut totum breviter
+concludam, debet hic noster Joseph totum
+interioris et exterioris hominis statum et habitum
+inquantum possibile est, plene cognoscere, nec solum
+qualis sit, verum etiam qualis esse debeat
+<pb n="0051B"/>
+subtiliter quaerere, diligenter investigare</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXI. <hi>De gemina prole rationis, gratia videlicet discretionis, et gratia contemplationis.</hi> </head>
+<p>Per hunc itaque Joseph animus assidue eruditur,
+et quandoque perducitur ad plenam cognitionem
+sui, sicut per uterinum fratrem ejus Benjamin,
+quandoque sublevatur ad contemplationem Dei.
+Sicut enim per Joseph gratiam discretionis, sic per
+Benjamin intelligimus gratiam contemplationis.
+Uterque de eadem matre nascitur quia et Dei cognitio,
+et sui ex ratione percipitur. Longe post Joseph
+Benjamin gignitur, quia animus qui in sui cognitione
+diu exercitatus, pleneque eruditus non est,
+<pb n="0051C"/>
+ad Dei cognitionem non sustollitur? Frustra cordis
+oculum erigit ad videndum Deum, qui nondum
+idoneus est ad videndum seipsum. Prius discat
+homo cognoscere invisibilia sua, quam praesumat
+posse apprehendere invisibilia divina. Prius est ut
+cognoscas invisibilia spiritus tui, quam possis esse
+idoneus ad cognoscendum invisibilia Dei. Alioquin
+si non potes cognoscere te, qua fronte praesumis
+apprehendere ea quae sunt supra te?</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXII. <hi>Quomodo per plenam cognitionem sui, sublevetur animus ad contemplationem Dei.</hi> </head>
+<p>Praecipuum et principale speculum ad videndum
+Deum, animus rationalis, absque dubio invenit seipsum.
+Si enim invisibilia Dei per ea quae facta
+<pb n="0051D"/>
+sunt, intellecta conspiciuntur <note>(Rom. I)</note>, ubi, quaeso,
+quam in ejus imagine cognitionis vestigia expressius
+impressa, reperiuntur? Hominem secundum
+animam ad Dei similitudinem factum et legimus <note>(Gen. I)</note>,
+et credimus, et idcirco quandiu per fidem,
+et non per speciem ambulamus <note>(II Cor. V)</note>, quandiu
+adhuc per speculum et in aenigmate videmus <note>(I
+Cor. XIII)</note>, ad ejus, ut ita dixerim, imaginariam visionem
+aptius speculum, quam spiritum rationalem
+invenire non possumus. Tergat ergo speculum
+suum, mundet spiritum suum, quisquis sitit videre
+Deum suum. Hoc itaque speculum non desinit verus
+Joseph tenere, tergere, indesinenter inspicere. Tenere,
+ne deorsum, corruens terrae per amorem
+inhaereat; tergere, ne in inanium cogitationum
+pulvere sordescat; inspicere, ne ad inania studia
+<pb n="0052A"/>
+intentionis suae oculum reflectat. Exterso autem
+speculo et diu diligenter inspecto, incipit ei quaedam
+divini luminis claritas interlucere, et immensus
+quidam insolitae visionis radius, oculis ejus apparere.
+Hoc lumen oculos ejus irradiaverat, qui dicebat: <hi>Signatum est super nos lumen vultus tui,
+Domine, dedisti laetitiam in corde meo 
+ <note>(Psal. IV)</note>
+          </hi>. Ex
+hujus igitur luminis visione quam admiratur in se,
+mirum in modum accenditur animus, et animatur
+ad videndum lumen, quod est supra se. Ex hac,
+inquam, visione videndi Deum flammam desiderii
+conspicit et fiduciam sumit. Mens itaque, quae jam
+visionis hujus desiderio flagrat, si jam sperat,
+quod desiderat, jam se Benjamin concepisse cognoscat.
+Sperando enim concipit, desiderando parturit,
+<pb n="0052B"/>
+et quanto amplius crescit desiderium, tanto
+appropinquat ad partum.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXIII. <hi>Quam sit arduum, vel difficile gratiam contemplationis obtinere.</hi> </head>
+<p>Sed scimus nihilominus (nam et hoc, Scriptura
+docente, didicimus): <hi>Quia spes quae differtur, affligit
+animum <note>(Prov. XIII)</note>
+          </hi>. Nihil enim sic afficit animum,
+quomodo impatiens desiderium. Quid autem hujus visionis
+dulcedine expetitur salubrius? quid sentitur suavius?
+quid animus experitur jucundius? Novit hoc
+Rachel, nam nec rationem hoc latere potest, quia in
+hujus suavitatis comparatione omnis dulcedo amare
+est. Hinc est quod nec studium suum laxare, nec
+<pb n="0052C"/>
+desiderium suum temperare potest. Hinc illa tanta
+parientis anxietas et doloris immensitas. Unde namque
+putas tanta doloris magnitudo, nisi ex indesinenti
+studio, et impatienti desiderio? Crescit quotidie,
+et ex desiderio labor, et ex labore dolor. Augmentatur
+assidue, et ex studio desiderium et ex
+desiderio studium. Scit tamen Rachel hoc negotium
+supra vires suas esse, nec tamen valet
+studium suum, vel desiderium temperare. Ad tantam
+namque gratiam, nunquam pertingit mens per
+propriam industriam. Dei est hoc donum, non hominis
+meritum. Sed absque dubio talem, tantamque
+gratiam accipit nemo, sine ingenti studio et ardenti
+desiderio. Novit haec Rachel, et idcirco studium
+multiplicat, et desiderium suum quotidianis incrementis
+<pb n="0052D"/>
+acrius inflammat. In tanta namque quotidiani
+conatus anxietate, in hujusmodi doloris immensitate,
+et Benjamin nascitur, et Rachel moritur,
+quia cum mens hominis supra seipsam rapitur,
+omnes humanae ratiocinationis, angustias supergreditur.
+Ad illud enim quod supra se elevata, et in
+extasi rapta, de divinitatis lumine conspicit, omnis
+humana ratio succumbit. Quid est enim Rachelis
+interitus, nisi rationis defectus?</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXIV. <hi>De illo contemplationis genere, quod est supra rationem.</hi> </head>
+<p>Benjamin itaque nascente, Rachel moritur, quia
+mens ad contemplationem rapta, quantus sit humanae
+rationis defectus experitur. Nonne Rachel mortua
+tunc erat, et omnis humanae rationis sensus in
+<pb n="0053A"/>
+Apostolo defecerat, cum dicebat: <hi>Sive in corpore,
+sive extra corpus, nescio, Deus scit <note>(II Cor XII)</note>
+          </hi>. Nemo
+ergo se existimet ad illius divini luminis claritatem,
+argumentando posse penetrare; nemo se credat humana
+illud ratiocinatione posse comprehendere. Si
+enim aliqua argumentatione adiri potuisset lumen
+illud divinum, utique inaccessibile non fuisset. Denique
+Apostolus gloriatur, ad illud se non quidem,
+isse, sed absque dubio raptum fuisse: <hi>Scio,</hi> inquit, <hi>hominem, sive in corpore, sive extra corpus; nescio,
+Deus scit, raptum hujusmodi usque ad tertium coelum <note>(ibid.)</note>
+          </hi>.
+Sed quod est coelum hoc tertium quod
+est inter terram et coelum, hoc est inter corpus et
+spiritum. Sed alia est dignitas spiritus humani, alia
+autem spiritus angelici, et longe alia est excellentia
+<pb n="0053B"/>
+spiritus divini. Humani siquidem spiritus dignitatem
+qui subjacet poenae et culpae longe supergreditur
+utriusque expers, excellentia scilicet angelicae
+naturae, sed incomparabiliter, utrosque praecedit
+spiritus ille qui fecit utrumque. Ad horum igitur
+coelorum quodlibet cujusvis animus, tunc veraciter
+exigitur, quando terrenarum cogitationum ima deserens,
+in eorum contemplatione defigitur. Ad primum
+itaque coelum pertinet cognitio sui, ad tertium
+autem pertinet contemplatio Dei. Ad hoc
+itaque tertium coelum quis putas ascendit, nisi
+qui et descendit Filius hominis qui est in coelo,
+itaque et si sint qui ascendunt usque ad coelos, et
+descendunt usque ad abyssos, non tamen ascendunt
+nisi forte ad primum et secundum, non enim possunt
+usque ad tertium. Ad hoc utique coelum homines
+<pb n="0053C"/>
+rapi possunt: nam ipsi ascendere omnino
+non possunt. Possumus tamen illa quae in hac vita
+haberi potest, Dei cognitionem, tribus gradibus distinguere,
+et secundum triplicem graduum differentiam
+per tres coelos dividere. Aliter siquidem Deus
+videtur per fidem, aliter cognoscitur per rationem,
+atque aliter cernitur per contemplationem. Prima
+ergo visio ad primum coelum, secunda ad secundum,
+tertia pertinet ad tertium. Prima est infra rationem,
+tertia supra rationem. Ad primum itaque
+et secundum contemplationis coelum, homines sane
+ascendere possunt, sed ad illud quod est supra rationem,
+nisi per mentis excessum supra seipsos
+rapti nunquam pertingunt. Quod autem per Benjamin
+<pb n="0053D"/>
+illud contemplationis genus, quod supra rationem
+est, intelligere debeamus, ex matris ejus
+morte convenienter satis conjicere possumus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXV. <hi>De supereminentia spiritualium theoriarum.</hi> </head>
+<p>Ad hujusmodi ergo contemplationis celsitudinem
+quaelibet creaturarum cognitio angusta est, et in
+imo jacet, terrae morae in coeli respectu, et vix
+puncti vicem tenet. Ad cognitionem siquidem Creatoris,
+quantalibet cognitio creaturarum, quid aliud
+est quam quod terra ad coelum, quod centrum ad
+totius circuli ambitum? Habet tamen haec terra, habet
+haec inferior inferiorum scientia, montes et
+colles, campos et valles. Secundum differentiam
+creaturarum, erit et differentia scientiarum. Ut
+<pb n="0054A"/>
+enim ab imo incipiamus, magna est distantia inter
+corpus et corpus. Siquidem sunt corpora coelestia,
+sunt et corpora terrestria. Major tamen est distantia
+cujuslibet corporis ad spiritum, quam quorumlibet,
+et quamlibet dissimilium corporum. Sed et
+ipsorum spirituum alii sunt irrationales, alii sunt
+rationales. Oculos ergo quasi in imo defixos habere
+videntur, qui sola adhuc corporea mirantur. Sed
+jam quasi ad alta ascendunt, qui se ad spiritualium
+investigationem convertunt. Animus qui ad scientiae
+altitudinem nititur ascendere, primum et principale
+sit ei studium seipsum cognoscere. Magna altitudo
+scientiae seipsum perfecte cognovisse. Mons magnus
+et altus, plena cognitio rationalis spiritus. Omnium
+mundanarum scientiarum cacumina mons iste
+<pb n="0054B"/>
+transcendit, omnem philosophiam, omnem mundi
+scientiam ab alto despicit. Quid tale Aristoteles,
+quid tale Plato invenit, quid tanta philosophorum
+turba, tale invenire potuit? Vere, et absque dubio,
+si hunc montem ingenii sui acumini ascendere potuissent,
+si ad seipsos inveniendos, eorum eis studia
+sufficerent, si seipsos plene cognovissent nunquam
+idola coluissent, nunquam creaturae collum inclinassent,
+nunquam contra Creatorem cervicem erexissent.
+Hic defecerunt scrutantes scrutinio. Hic, inquam,
+defecerunt, et hunc in montem minime ascendere
+poterant. <hi>Ascendat homo ad cor altum, et exaltabitur
+Deus <note>(Psal. LXIII)</note>
+          </hi>. Disce homo cogitare, disce cogitare
+teipsum, et ascendisti ad cor altum. Quantum quotidie
+in tui cognitionem proficis, tantum ad altiora
+super tendis. Qui ad perfectam sui cognitionem
+<pb n="0054C"/>
+pervenit, jam montis verticem apprehendit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXVI. <hi>Quam sit rarum, vel quam jucundum, spirituales theorias in usum adducere et in oblectamentum vertere.</hi> </head>
+<p>O quam rari sunt, vel quia nolunt, vel quia nequeunt
+qui hucusque ascendunt. Rarum valde in
+hunc montem ascendere, sed multo rarius in ejus
+vertice stare, et ibi moram facere; rarissimum autem
+ibi habitare et mente requiescere: <hi>Quis,</hi> inquit, <hi>ascendet in montem Domini, aut quis stabit in loco
+sancto ejus? 
+ <note>(Psal. XXIII)</note>
+          </hi>. Prius ascendere est, postea
+stare. In stando quidem labor, sed in ascendendo
+major. Multi quidem in ipsa ascensione defecerunt,
+propter nimium laborem ascendendi, multi
+<pb n="0054D"/>
+ab arduo ejus vertice ocius descenderunt, propter
+laborem standi. Hoc fortassis eis intolerabile videbatur,
+quoniam non solum in hunc montem, nisi
+per magnum laborem non ascenditur, verum etiam
+sine magna difficultate ibi immorari non datur. Sed
+forte jam ascendisti, jam ibi stare didicisti, nec hoc
+sufficiat tibi. Disce ibi habitare et mansionem facere,
+et qualicunque mentis evagationem abstractus
+illuc super redire. Absque dubio per multum usum
+quandoque vertetur tibi in oblectamentum, intantum,
+ut absque ulla laboris difficultate possis ibi
+assiduus esse, quinimo poena potius tibi sit alibi,
+quam ibi moram aliquam facere. Mira jucunditas in
+hoc monte sine labore morari posse. Petro attestante,
+qui tanta et tam insolita suavitate allectus,
+<pb n="0055A"/>
+exclamat: <hi>Bonum est nos hic esse <note>(Matth. XVII)</note>
+          </hi>. O
+felicem qui potuit in hunc montem ascendere, et
+mente requiescere! O quam magnum! O quam rarum! <hi>Domine quis habitavit in tabernaculo tuo?
+aut quis requiescet in monte sancto tuo? 
+ <note>(Psal. XIV.)</note>
+          </hi> 
+Et quidem magnum est ascendere posse et stare;
+majus tamen est posse inhabitare, posse requiescere.
+Ascendere et stare, est virtutis; inhabitare et
+requiescere, est felicitatis. Utrumque utique magnum,
+utrumque admiratione dignum. Utrumque Propheta
+miratur, sed illud pro magnitudine difficultatis, istud
+pro magnitudine jucunditatis. Admiratio difficultatis
+est illa exclamatio: <hi>Quis ascendet in montem
+Domini, aut quis stabit in loco sancto ejus? <note>(Psal. XXIII)</note>
+          </hi>.
+Admiratio jucunditatis est illa exclamatio:
+<pb n="0055B"/> <hi>Domine quis habitabit in tabernaculo tuo, aut
+quis requiescet in monte sancto tuo? 
+ <note>(Psal. XIV.)</note>
+          </hi> 
+Ascendere et stare, o quanta, qualisque fortitudo,
+inhabitare, et requiescere, o quanta, qualisque
+beatitudo! Quis ad id opus idoneus, quis hoc
+munere dignus? <hi>Domine, quis ascendet; Domine,
+quis stabit in monte sancto tuo? Emitte lucem
+tuam et veritatem tuam, ipsa me deduxerunt
+et adduxerunt in montem sanctum tuum, et in tabernacula
+tua <note>(Psal. XLII)</note>
+          </hi>.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXVII. <hi>Quod frustra nitimur ad summa sine praeveniente gratia.</hi> </head>
+<p>Videsne quod nonnisi veritas in hunc montem
+<pb n="0055C"/>
+deducit, et adducit? Ipsa ducit, ipsa est
+quae perducit. Libenter sequor veritatem non
+habeo suspectum talem ducem. Novit veritas ducere,
+nescit veritas seducere. Sed quid est veritas?
+Quid tu dicis, doctor bone, doctor Christe,
+quid est veritas? <hi>Ego sum,</hi> inquit, <hi>via, veritas et
+vita <note>(Joan. XIV)</note>
+          </hi>. Sequatur ergo veritatem, qui
+vult ascendere in montem. Sequere Christum, quicunque
+cupis ascendere in montem istum. Docente
+evangelista, didicimus? <hi>Quia assumpsit Jesus discipulos
+suos, Petrum videlicet, Jacobum et Joannem,
+et duxit eos in montem excelsum seorsum <note>(Matth.
+XVII)</note>
+          </hi>. Ducuntur ergo discipuli Jesu sursum et seorsum,
+ut possint apprehendere montem istum excelsum.
+Via ardua, via secreta et multis incognita,
+<pb n="0055D"/>
+quae ducit ad montis hujus fastigia. Illi soli ut arbitror,
+sine errore currunt, illi soli sine impedimento
+perveniunt, qui Christum sequuntur, qui a veritate
+ducuntur. Quisquis ad alta properas, securus eas,
+si te praecedit veritas: nam sine ipsa frustra laboras.
+Tam non vult fallere, quam non valet veritas
+falli. Christum ergo sequere, si non vis errare.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXVIII. <hi>Quantum valeat plena cognitio sui.</hi> </head>
+<p>Sed ne te perterreat vel retrahat labor itineris, difficultas
+ascensionis, audi et attende quis sit fructus
+perventionis. In hujus montis cacumine Jesus transfiguratur;
+in ipso Moyses cum Elia videtur, et sine
+indice uterque cognoscitur, in ipso vox Patris ad
+<pb n="0056A"/>
+Filium auditur. Quid horum non mirabile? quid
+horum non desiderabile? Vis videre Christum transfiguratum?
+Ascende in montem istum, disce cognoscere
+teipsum. Vis videre et absque ullo indice
+cognoscere Moysen et Eliam, vis absque doctore,
+sine expositore intelligere legem et prophetiam?
+Ascende in montem istum, disce cognoscere teipsum.
+Vis paterni secreti arcanum, ascende in
+montem istum, disce cognoscere teipsum. De coelo
+enim descendit, cum dixit: <foreign xml:lang="greek">γνωτι σεαυτὸν</foreign> illud id
+est <hi>Nosce teipsum.</hi> Videsne adhuc quantum valeat
+montis hujus ascensio, quam utilis sit suis
+ipsius plena cognitio?</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXIX. <hi>Quibus modis ad scientiae altitudinem pertingimus.</hi> </head>
+<p>
+          <pb n="0056B"/>Sed quid hoc esse dicimus, quod sine tribus discipulis
+in hunc montem ascendere noluit, nec plus
+quam tres secum Christus duceri quaesivit? Sed
+forte in hoc opere docemur, quod sine triplici studio
+ad hujus cognitionis celsitudinem non perducitur.
+Per studium operis, per studium meditationis, per
+studium orationis paulatim promovemur, et quandoque
+producimur ad perfectionem cognitionis.
+Multa enim experimur operando, multa invenimus
+investigando, multa extorquemus orando. Innumera
+siquidem, quae nec per experientiam operis, nec
+per investigationem rationis invenire valemus, per
+importunitatem orationis, edocere meremur, ex
+revelatione divinae inspirationis. His tribus comitibus
+<pb n="0056C"/>
+sibi adjunctis, veritas in nobis proficit, et in alta
+se attollit, et eousque se per quotidiana incrementa
+exaltat, donec praedicti montis verticem tangat. O
+quam multos hodie videmus, studiosos in lectione,
+desidiosos in opere, tepidos in oratione, praesumentes
+tamen montis hujus cacumina posse apprehendere.
+Sed quando, quaeso, apprehendent, qui
+Christum ducem non habent? Neque enim ducit eos
+Christus, qui ascendere non vult, nisi cum discipulis
+tribus. Jungat ergo studio lectionis studium operis
+et orationis, qui Christum quaerit habere ducem
+itineris, ductorem ascensionis. Absque dubio sine
+ingenti exercitio, sine frequenti studio, sine ardenti
+desiderio, ad perfectam scientiae altitudinem, mens
+non sublevatur, qui Christi vestigia perfecte non
+<pb n="0056D"/>
+sequitur, qui viam veritatis haud recte ingreditur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXX. <hi>Quomodo summis conatibus nostris, divina revelatio occurrat.</hi> </head>
+<p>Sed nec hoc silendum, quod multi montis hujus
+jam se credunt apprehendisse suprema, cum constat
+eos ejus vix tetigisse extrema. Sit tibi certum
+signum quia montis hujus verticem minime apprehendisti,
+si Christum clarificatum nondum videre
+meruisti. Mox ut te dux tuus Christus collocaverit
+in summo, apparet tibi in habitu alio, et te coram
+induitur lumine sicut vestimento, et sicut evangelista
+testatur, fiunt mox vestimenta ejus alba sicut
+nix, et qualia non potest fullo facere super terram,
+<pb n="0057A"/>
+quia ille divinae sapientiae splendor, qui ab alto speculationis
+vertice prospicitur, omnino definiri non
+potest per humani sensus prudentiam. Animadverte
+ergo quia aliam in valle, et aliam vestem Christus
+habet in monte. In valle sane habet vestem integram,
+sed in monte tantum, habet vestem gloriosam.
+Nescit penitus simplex veritas schismatum
+scissuras, et idcirco sive in valle, sive in monte non
+induit Christus nisi vestes integras. Sed multum
+interest inter vestem integram et vestem gloriosam.
+Vultis vestium ejus differentiam nosse, et inter
+vestem, et vestem distinctionem apertam accipere? <hi>Si terrena,</hi> 
+ inquit, <hi>dixi vobis, et non creditis, quomodo
+si dixero vobis coelestia credetis? <note>(Joan. III.)</note>
+          </hi> Distingue
+ergo inter doctrinam et doctrinam, et invenies
+<pb n="0057B"/>
+vestium differentiam. O quantum est inter
+doctrinam qua docentur terrena, et inter doctrinam
+qua docentur coelestia, et quidem non sine Christo,
+quia sine veritate non cognoscuntur, vel ista, vel illa!
+Quid enim verum scitur, ubi veritas non loquitur?
+Christus ergo est qui docet utraque, sed terrena in
+valle, coelestia in monte. Quandiu ergo adhuc in valle
+moraris, quandiu ad alta non ascendis, non te docet
+Christus nisi de rebus terrenis et infimis.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXXI. <hi>Quam suspecta debeat esse omnis revelatio, quam non comitatur Scripturarum attestatio.</hi> </head>
+<p>Sed si jam te existimas ascendisse ad cor altum,
+et apprehendisse montem illum excelsum et magnum,
+si jam te credis Christum videre transfiguratum,
+<pb n="0057C"/>
+quidquid in illo videas, quidquid ab illo audias
+non ei facile credas, nisi occurrant ei Moyses
+et Elias. Scimus quia in ore duorum vel trium stat
+omne testimonium. Suspecta est mihi omnis veritas
+quam non confirmat Scripturarum auctoritas nec
+Christum in sua clarificatione recipio, si non assistant
+ei Moyses et Elias. Et in valle, et in montis
+ascensione Christum saepe recipio sine teste, nunquam
+autem in montis vertice, vel in sua clarificatione.
+Si Christus docet me de rebus exterioribus,
+vel de intimis meis facile recipio, utpote in his
+quae comprobare possum proprio experimento, verum
+ubi ad alta mens ducitur, quoniam de coelestibus
+quaestio ventilatur, ubi de profundis rebus agitur,
+in tantae sublimitatis vertice non recipio Christum
+<pb n="0057D"/>
+sine teste, nec rata poterit esse quamlibet verisimilis
+revelatio sine attestatione Moysis et Eliae,
+sine Scripturarum auctoritate. Adhibeat igitur sibi
+Christus duo testimonia in transfiguratione sua, si
+vult ut non sit mihi suspecta claritatis suae lux
+illa tam magna, et tam insolita. Ut ergo secundum
+hujus rei documentum, in ore duorum vel trium
+suum confirmet testimonium, ad comprobandam
+revelationis suae veritatem, non solum figurative,
+sed etiam apertae Scripturae exhibeat auctoritatem.
+Pulchrum spectaculum, valdeque jucundum, cum
+in revelatione veritatis, hinc procedit manifesta
+ratio, et ad confirmationem revelationis illinc
+occurrit tam aperta, quam figurata locutio. Alioquin
+ab altitudine diei timebo, verens ne forte seducar
+<pb n="0058A"/>
+a doemonio meridiano. Unde enim tot haereses,
+unde tot errores, nisi quia spiritus erroris
+transfigurat se in angelum lucis? Vides certe, quia
+uterque se transfigurat, Christus videlicet, et diabolus,
+sed Christus lucis suae veritatem confirmat
+in duobus testibus. Apparent itaque Moyses et Elias
+cum Domino in hoc monte; apparent autem in majestate,
+non in obscuritate litterae, sed in claritate
+spiritualis intelligentiae.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXXII. <hi>Quam sint incomprehensibilia, quae mens per excessum videt ex revelatione divina.</hi> </head>
+<p>Ecce quam magna sunt, quae in hoc monte geruntur,
+sed adhuc his majora sunt ea quae sequuntur.
+Hoc enim totum discipuli stantes aspiciunt,
+<pb n="0058B"/>
+nondum in faciem cadunt. Nondum paterna vox
+auditur, nondum auditor prosternitur. Nondum
+Rachel moritur, nondum Benjamin nascitur. Mox
+enim ut paterna vox intonuit, discipulos prostravit.
+Ad tonitruum itaque divinae vocis auditor cadit,
+quia ad id quod divinitus inspiratur, humani sensus
+capacitas succumbit, et nisi humanae ratiocinationis
+angustias deserat, ad capiendum divinae inspirationis
+arcanum intelligentiae sinum non dilatat. Ibi
+itaque auditor cadit, ubi humana ratio deficit. Ibi
+Rachel moritur, ut Benjamin oriatur. Idem itaque,
+nisi fallor, per mortem Rachel, et casum discipulorum
+figuratur, nisi quod trium in tribus discipulis,
+sensus videlicet, memoriae et rationis defectus ostenditur.
+Ibi enim sensus corporeus, ibi exteriorum
+<pb n="0058C"/>
+memoria, ibi ratio humana intercipitur, ubi mens
+supra semetipsam rapta in superna elevatur. Attendamus
+quam comprehensibile sit quod paterna vox
+insonuit, et intelligemus quam recte auditor succumbit: <hi>Hic est,</hi> 
+ inquit, <hi>Filius meus dilectus in quo
+mihi complacui <note>(Matth. XI)</note>
+          </hi>. Aliud est dicere complacui,
+et aliud est dicere complacuit: et tamen
+hoc unus, illud alter evangelista posuit. Consequens
+est autem ut, si ibi veraciter dictum est complacui,
+sensus qui ab alio evangelista ponitur, possit veraciter
+intelligi, sed non potest converti. Vere et absque
+contradictione, in ipso mihi complacuit, in quo
+ipse mihi complacui, sed non statim in quocunque
+mihi complacuit, in illo ipse mihi complacui. Si
+igitur complacui ibi dictum non esset, nullo modo
+<pb n="0058D"/>
+evangelista hoc dicere auderet: <hi>Hic est,</hi> inquit, <hi>Filius meus in quo mihi complacui.</hi> 
+ Certe si Filius
+aliud quam Pater esset, posset Patri in Filio complacere,
+sed ipse sibi Pater in Filio complacere
+non posset. Quid est dicere complacui, nisi
+quomodo placui mihi, in meipso, ita placui mihi
+in Filio. An forte in eo quod dicit, mihi complacui,
+in hoc suo beneplacito socium se habere ostendit?
+Quia quomodo Pater complacet in Filio, sic in Filio
+complacet et Spiritui sancto. Vel forte idcirco dicitur
+complacui, ut inde detur intelligi, quia quomodo
+Pater sibi complacet in Filio, sic sibi nimirum
+complacet in Spiritu sancto. Quid horum rectius
+dicitur? An potius totum hoc, quam unum horum
+aliquod singulariter intelligitur? Haec adhuc verba
+<pb n="0059A"/>
+aliter atque aliter distingui possent, si ad ministerii
+profunditatem intimandam, minus ista sufficerent.
+Certum est autem, quia quidquid horum eligitur,
+unitatem substantiae in diversis personis astruit, si
+recte intelligatur. Nam illud quod dicitur, hic est
+Filius meus, personarum diversitatem ostendit:
+unus enim atque idem sibi ipsi, et Pater et Filius
+esse non posset. Sed quid sensus hoc capiat, quomodo
+unus ad alium sit, alius in persona, idem in
+essentia? Si exemplum quaeris, nusquam creaturarum
+invenis, quod tibi satisfacere valeat, si rationem
+consulas, omnis humana ratio reclamat. Intantum
+enim est ista assertio, supra omnem humanam
+aestimationem et praeter omnem humanam rationem,
+ut nunquam ei ratio acquiesceret, nisi ad hujus rei
+<pb n="0059B"/>
+certitudinem fides eam sublevaret. Merito ergo in
+hujus mysterii revelatione auditor cadit, sensus deficit,
+humana ratio succumbit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXXIII. <hi>Quod illa mens divinas revelationes percipit, quae in intimis stare consuevit.</hi> </head>
+<p>Merito talis revelatio non est facta nisi in monte
+neque enim mysterii hujus, tam profunda sublimitas,
+et tam sublimis profunditas debuit manifestari
+in valle. Qui enim conversatione vel cogitatione
+adhuc in imo sunt, hujus muneris dignatione indignos
+se ostendunt. Ascendat ergo homo ad cor altum
+ascendat in montem istum, si vult illa capere, si
+vult illa cognoscere, quae sunt supra sensum humanum.
+Ascendat per semetipsum supra semetipsum.
+<pb n="0059C"/>
+Per cognitionem sui, ad cognitionem Dei. Discat
+prius homo in Dei imagine, discat in ejus similitudine
+quid debeat de Deo cogitare. Montis ascensio,
+ut dictum est, pertinet ad cognitionem sui, ea quae
+supra montem geruntur, provehunt ad cognitionem
+Dei. Illud ad Joseph, ista ad Benjamin pertinere
+dubium non est. Ante Benjamin Joseph nasci necesse
+est. Mens quae se ad sui considerationem non
+sublevat, quomodo ad ea quae supra ipsam sunt,
+penna contemplationis evolat? In hunc montem
+Dominus descendit, Moyses ascendit. In hoc monte,
+de tabernaculi constructione, Dominus docuit,
+Moyses didicit. Quid per tabernaculum foederis, nisi
+status intelligitur perfectionis? Qui igitur montem
+<pb n="0059D"/>
+ascendit, qui diligenter attendit, qui diutius quaerit,
+qui tandem invenit qualis sit, restat ut ex divina
+revelatione cognoscat qualis esse debeat, quale
+mentis aedificium Deo praeparare, quibus obsequiis
+Deum placare oporteat. Mens igitur, quae adhuc
+per varia desideria spargitur, quae variis cogitationibus
+huc illucque distrahitur, quando putas hanc
+gratiam accipere merebitur? Quae nondum potest
+seipsam in unum colligere, quae necdum novit, ad
+semetipsam intrare, quando poterit, ad ea quae
+supra seipsam sunt contemplatione ascendere?</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXXIV. <hi>Quomodo mens se ad interiora colligere debeat, quae in coelestium contemplationem anhelat.</hi> </head>
+<p>Discat ergo dispersiones Israelis congregare,
+<pb n="0060A"/>
+studeat evagationes mentis restringere, assuescat
+in intimis suis immorari, exteriora omnia
+oblivisci, qui ad coelestium contemplationem
+anhelat, qui in divinorum notitiam suspirat. Faciat
+ecclesiam non solum desideriorum, verum etiam
+cognitionum, ut discat verum bonum, solum amare,
+et ipsum solum indesinenter cogitare: <hi>In ecclesiis,</hi> 
+inquit, <hi>benedicite Deo <note>(Psal. LXVII)</note>
+          </hi>. In hac namque
+gemina ecclesia, cogitationum videlicet et desideriorum,
+in hac gemina unanimitate studiorum et
+voluntatum, Benjamin in excelsum rapitur, et mens
+divinitus afflata in superna elevatur: <hi>Ibi,</hi> inquit, <hi>Benjamin adolescentulus in mentis excessu 
+ <note>(ibid.)</note>
+          </hi>.
+Ubi putas nisi in ecclesiis? In ecclesiis, benedicite
+Deo, Domino de fontibus Israel. Ibi Benjamin adolescentulus
+<pb n="0060B"/>
+in mentis excessu. Prius tamen est cuique
+ut faciat de cogitationibus, vel desideriis suis
+Synagogam, quam Ecclesiam. Nostis satis quod
+Synagoga <hi>congregatio,</hi> Ecclesia interpretatur <hi>convocatio.</hi> 
+Aliud est sine voluntate seu contra voluntatem,
+aliqua in unum cogere, atque aliud per seipsa
+ad nutum jubentis, sponte occurrere. Insensibilia,
+et bruta congregari possunt, convocari autem non
+possunt. Sed et ipsorum quoque rationalium concursus,
+spontaneo nutu fit, ut jure convocatio dici possit.
+Vides ergo quantum sit inter convocationem et
+congregationem, et inter Ecclesiam et Synagogam.
+Si igitur praesenseris desideria tua circa exteriores
+delectationes affici, et cogitationes tuas, in eis jugiter
+occupari, cum magna sollicitudine compelle intrare,
+<pb n="0060C"/>
+ut possis saltem ex eis interim Synagogam
+facere. Quoties enim evagationes mentis, in unum
+colligimus, et omnes cordis motus in uno aeternitatis
+desiderio figimus, quid aliud quam de illa interna
+familia Synagogam facimus? Sed cum jam illa
+desideriorum nostrorum, cogitationumque frequentia,
+illius internae dulcedinis degustatione allecta,
+ad nutum rationis, sponte occurrere, et in intimis
+fixa stare didicerit, Ecclesiae utique nomine, ulterius
+digna censeri poterit. Discamus ergo sola interiora
+bona amare, discamus sola illa frequentius cogitare,
+et quales Benjamin diligere scimus, procul
+dubio ecclesias efficimus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXXV. <hi>Quam sit jucundum, et dulce contemplationis gratiam familiare habere.</hi> </head>
+
+<pb n="0060D"/>
+<p>In hujusmodi siquidem ecclesiis Benjamin, libenter
+immoratur, mirabiliter delectatur, et cum seipsum
+prae gaudio jam capere non possit, supra seipsum
+ducitur, et per excessum mentis in summa
+elevatur. Nisi enim in interiorum contemplatione,
+Benjamin noster delectabiliter requiesceret, de eo
+procul dubio per Moysen scriptum non esset: <hi>Benjamin,</hi> 
+ait, <hi>amantissimus Domini habitabit in eo confidenter,
+tota die quasi in thalamo commorabitur, et
+inter humeros illius requiescet <note>(Deut. XXXIII)</note>
+          </hi>. Quid
+putas causae est quod iste Benjamin tota die in thalamo
+moram facit, quod ibi jugiter requiescit, intantum
+ut nec ad horam saltem exire velit? Illud
+<pb n="0061A"/>
+autem scimus quod in thalamis soleant sponsus et
+sponsa simul morari, amoris obsequiis, in alterutrum
+occupari, mutuis amplexibus, et charitate
+alterna confoveri. Mirandae ergo pulchritudinis, et
+formae singularis, ni fallor, praerogativa pollet,
+quaecunque sit illa Benjamin nostri dilecta, et cujus
+contubernium nunquam fastidire valet, et a cujus
+amplexibus, nec ad horam abesse volet. Sed si jam
+vocem hujus Benjamin, esse noscimus, quantae
+pulchritudinis sit ejus dilecta minime dubitamus: <hi>Dixi sapientiae, soror mea es, et prudentiam vocavi
+amicam meam 
+ <note>(Prov. VII)</note>
+          </hi>. Vultis audire quod non
+possit fastidire hujus dilectae suae pulchritudinem,
+quam sororem et amicam vocat, propter castam et
+ardentissimam dilectionem? <hi>Intrans in domum meam,</hi> 
+<pb n="0061B"/>
+inquit, <hi>conquiescam cum illa. Non enim habet amaritudinem
+conversatio illius, nec taedium convictus
+ipsius, sed laetitiam, et gaudium, et in amicitia ipsius
+delectatio bona <note>(Sap. VIII)</note>
+          </hi>. Dicat quisque quid sentiat,
+ego aliam causam non invenio, quae illum intrinsecus
+ita ligatum teneat, ut nec ad modicum
+quidem exire valeat. Unum autem scio, quia quisquis
+hujusmodi amicae desiderio flagrat, quanto
+eam familiarius novit, tanto amplius amat, et quo
+frequentius ejus fruitur amplexibus, eo vehementius
+ejus desiderio aestuat. Ejus siquidem frequens
+conturbernium, solet sane desiderium, non minuere,
+sed augere, et amoris incendium acrius inflammare.
+Mirum ergo non est, cur iste Benjamin,
+tota die quasi in thalamo commoratur, qui talis
+<pb n="0061C"/>
+sponsae dulcedine fruitur, et inter humeros illius
+requiescens, ejus amore jugiter delectatur. Quam
+putas frequentes mentis excessus patitur, quam
+saepe in extasim raptus, supra seipsum ducitur, dum
+pulchritudinis ejus magnitudine attonitus, in ejus
+admiratione suspenditur, et impletur absque dubio
+quod de eo legitur: <hi>Benjamin adolescentulus in
+mentis excessu.</hi> </p>
+<p>Notandum sane quomodo sibi occurrant testimonia
+Scripturarum. Quod enim propheta per Rachelis
+interitum, quod evangelista designat per casum
+discipulorum, Psalmista exprimit in Benjamin, per
+mentis excessum.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT LXXXVI. <hi>De duobus generibus contemplationum.</hi> </head>
+
+<pb n="0061D"/>
+<p>Possumus tamen per mortem Rachel, et per excessum
+Benjamin, diversa contemplationum genera,
+non inconvenienter intelligere. Constat siquidem
+duo contemplationum genera, supra rationem esse,
+et utrumque ad Benjamin pertinere. Et primum
+quidem est supra rationem, sed non praeter rationem;
+secundum autem et supra rationem et praeter
+rationem. Illa sane supra rationem, sed praeter rationem
+non sunt; quae quamvis ratio patitur esse,
+nulla tamen ratione investigari vel convinci possunt.
+Illa autem dicimus, et supra rationem, et
+praeter rationem esse quibus videtur omnis ratio
+humana contraire. Qualia sunt ea, quae de Trinitatis
+unitate credimus, et multa quae de corpore
+<pb n="0062A"/>
+Christi indubitata fidei auctoritate tenemus. Quod
+enim in una, et simplici natura triplex persona sit,
+vel quod unum idemque corpus eodem in tempore,
+in diversis locis esse possit, nulla humana ratio patitur,
+et hujusmodi assertionibus omnis absque dubio
+ratiocinatio reclamare videtur. Haec sunt itaque
+duo genera illa contemplationum, quorum unum ad
+mortem Rachel, alterum pertinet ad Benjamin
+excessum. In primo Benjamin interficit matrem, ubi
+omnem supergreditur rationem; in secundo autem
+etiam seipsum excedit, ubi in eo, quod ex divina
+revelatione cognoscitur, humanae intelligentiae modum
+transcendit. Hoc autem non solum in Benjamin,
+sed et in omnibus fratribus oportet attendere,
+imo et in innumeris Scripturarum locis, diligenter
+<pb n="0062B"/>
+observare, quomodo soleat Scriptura divina, circa
+eamdem rem, nunc significationem extendere,
+modo restringere, vel etiam mutare. Solet autem
+hos alternantium significationum modos, modis
+multis determinare, et modo per locum, modo per
+actum, vel aliis quibusque circumstantiis, sensum
+suum aperire. Per locum determinatur sicut est illud,
+ubi Benjamin in Aegyptum descendisse legitur.
+Per actum, sicut ibi, ubi Joseph et Benjamin, in
+mutuos amplexus ruunt, et alterna oscula jungunt.</p>
+</div2>
+
+<div2>
+        <head>CAPUT LXXXVII. <hi>Quomodo contemplatio desinat in meditationem, vel quomodo meditatio surgat in contemplationem.</hi> </head>
+<p>Quid est Benjamin in Aegyptum descendere, nisi
+ab aeternorum contemplatione, ad temporalia contemplanda,
+<pb n="0062C"/>
+intuitum mentis revocare, et ab aeternitatis
+luce, quasi de vertice coeli, usque ad mutabilitatis
+tenebras, intelligentiae radios deponere, et in
+tanta alternantium rerum confusione, divinorum
+judiciorum rationem perpendere, et ex magna parte
+penetrare? Et quid est quod Joseph et Benjamin
+conveniunt, et oscula jungunt, nisi quod meditatio
+et contemplatio saepe invicem sibi cum rationis attestatione
+occurrunt? Nam quantum ad generalem
+considerationem pertinet, sicut per Benjamin gratia
+contemplationis, sic per Joseph intelligi valet gratia
+meditationis. Proprie tamen et expressius per
+Benjamin designatur intelligentia pura, per Joseph
+vero prudentia vera. Per Benjamin, scilicet illud
+genus contemplationis, quod est de invisibilibus;
+<pb n="0062D"/>
+per Joseph, illud genus meditationis quod est in
+moribus. Comprehensio siquidem rerum invisibilium
+pertinet ad intelligentiam puram, circumspectio
+vero morum pertinet ad prudentiam veram.
+Intelligentiam puram dicimus, quae est sine admistione
+imaginationis; prudentiam autem veram,
+ad differentiam ejus quae dicitur prudentia carnis.
+Prudentia vera est de acquirendis, multiplicandis,
+conservandis veris bonis; prudentia autem carnis
+est, de bonis transitoriis, secundum quam filii hujus
+saeculi dicuntur prudentiores filiis lucis <note>(Luc. XVI)</note>.
+Toties ergo Joseph super collum Benjamin ruit,
+quoties meditatie in contemplationem desinit. Tunc
+Benjamin fratrem suum super se ruentem excipit,
+<pb n="0063A"/>
+quando ex studio meditationis, animus in contemplationem
+surgit. Tunc Benjamin et Joseph oscula
+jungunt, quando divina revelatio et humana ratiocinatio
+in una veritatis attestatione consentiunt.
+Videsne quomodo divina Scriptura circa unam
+eamdemque rem significationis modum alternat,
+<pb n="0064A"/>
+ubique tamen aliquid adjungit unde sensum suum
+ex toto latere non sinat. In morte Rachel contemplatio
+supra rationem ascendit, in introitu Benjamin
+in Aegyptum, contemplatio usque ad imaginationem
+descendit, in deosculatione Benjamin et
+Joseph, divinae revelatione humana ratio applaudit.
+</p>
+
+</div2>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,564 @@
+{
+  "id": "richard-benjamin-minor",
+  "cover": "classic",
+  "name": {
+    "la": "Benjamin minor (De praeparatione animi ad contemplationem)",
+    "en-US": "Benjamin Minor: The Twelve Patriarchs",
+    "pt-BR": "Benjamin menor: os doze patriarcas"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "Benjamin minor, sive De praeparatione animi ad contemplationem: per historiam filiorum Jacob, ordo virtutum et affectuum quibus anima ad contemplationem praeparatur.",
+    "en-US": "Richard’s treatise on the preparation of the soul for contemplation, read through the story of Jacob’s twelve sons, Rachel and the youngest, Benjamin: how reason and affection are ordered by the virtues before the mind is lifted up. 87 chapters. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "O tratado de Ricardo sobre a preparação da alma para a contemplação, lido na história dos doze filhos de Jacó, de Raquel e do caçula Benjamim: como a razão e o afeto são ordenados pelas virtudes antes que o espírito se eleve. 87 capítulos."
+  },
+  "composed": "c. 1153-1162",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/benjamin-minor",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.BenMin",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.BenMin, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Caput primum. De studio sapientiae, et ejus commendatione. Benjamin adolescentulus in mentis excessu (Psal. Lxvii)."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput II. De desiderio justitiae, et ejus proprietate."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput III. De gemino totius boni fonte, ratione videlicet et affectione."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput IV. Quomodo per studium sapientiae animus latenter saepe inducitur ad exercitia justitiae."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput V. Quomodo imaginatio subserviat rationi, sensualitas affectioni."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput VI. De vitio imaginationis et sensualitatis."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput VII. Qui sint affectus principales, et quo ordine vel modo redigantur in virtutes."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput VIII. Quomodo, vel unde oriatur ordinatus timor."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput IX. Quomodo oriatur vel ordinetur dolor."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput X. Quomodo oriatur vel ordinetur spes."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput XI. Quando oriatur vel ordinetur amor."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput XII. Quid sit proprium amoris."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Caput XIII. Quomodo per invisibilium amorem mens instigetur ad invisibilium investigationem."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Caput XIV. Quae sit prima via omni ingredienti ad invisibilium contemplationem, videlicet per imaginationem."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Caput XV. Quomodo infirmorum speculationi divinae Scripturae alludant."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Caput XVI. Quod imaginatio alia sit bestialis, alia rationalis."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Caput XVII. Quod cum imaginationem, rationem, voluntatem dicimus, diversis modis id accipimus."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Caput XVIII. De gemina speculatione, quae surgit ex imaginatione."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Caput XIX. De prima speculatione, et ejus proprietate."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Caput XX. De officio primae speculationis."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Caput XXI. De utilitate primae speculationis."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Caput XXII. De secunda speculatione, et ejus proprietate."
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Caput XXIII. Quid sit familiare, seu etiam speciale speculationi secundae."
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Caput XXIV. Quanta sit jucunditas speculationis secundae."
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "Caput XXV. De gemina virtutum prole quae nascitur ex edomita sensualitate."
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "Caput XXVI. De rigore abstinentiae, et vigore patientiae, et eorum proprietate."
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Caput XXVII. Quod sensualitatis appetitus non temperatur, si imaginationis evagatio non restringitur."
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "Caput XXVIII. Quomodo per abstinentiam et patientiam animus roboratur ad omnem obedientiam."
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "Caput XXIX. Quomodo ex abstinentia, humana laus surgit, et quam caute ejus appetitus temperandus sit."
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "Caput XXX. Unde maxime soleat laus surgere, et quod vera laus sit de recta voluntate."
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "Caput XXXI. Quomodo virtutibus praedictis muniatur tam disciplina cordis, quam corporis."
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "Caput XXXII. Quod disciplina cogitationum non possit custodiri sine disciplina sensuum."
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "la": "Caput XXXIII. Quomodo in cordis custodia vicissim sibi virtutes praedictae cooperentur."
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "Caput XXXIV. Quod perfectam patientiam semper comitatur misericordia."
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "la": "Caput XXXV. Commendatio perfectae patientiae."
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "la": "Caput XXXVI. Quomodo, vel quo ordine oriatur verum gaudium."
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "la": "Caput XXXVII. Comparatio interioris et exterioris dulcedinis."
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "la": "Caput XXXVIII. Quid soleat impedire illud internum gaudium."
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "la": "Caput XXXIX. Quomodo interna dulcedo soleat animum et ad fortia roborare, et ad humilia inclinare."
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "la": "Caput XL. Quomodo vel quo ordine oriatur in nobis odium vitiorum."
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "la": "Caput XLI. Quam sit rarum ex vero vitiorum odio, zelum rectitudinis habere."
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "la": "Caput XLII. Quod sit officium veri zelatoris."
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "la": "Caput XLIII. Quod veri zelatoris sit vigilare, non solum contra saevitiam, sed etiam contra fraudulentiam."
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "la": "Caput XLIV. Quale sit, vel quantum habere perfectum zelum animarum."
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "la": "Caput XLV. Quomodo, vel unde oriatur ordinatus pudor."
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "la": "Caput XLVI. Quis, vel qualis sit ordinatus pudor."
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "la": "Caput XLVII. Quam sit rarum habere pudorem verum."
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "la": "Caput XLVIII. Quid sit proprium pudoris."
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "la": "Caput XLIX. De utilitate et venustate verecundiae."
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "la": "Caput L. Quomodo verecunda mens modestiae metas transgreditur, cum per superbiam et vanam gloriam corrumpitur."
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "la": "Caput LI. Quomodo verecunda mens ab intentionis suae rectitudine dejicitur."
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "la": "Caput LII Quomodo sub uno eodemque tempore unde una corrumpitur, inde aliae virtutes quandoque nutriuntur."
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "la": "Caput LIII. Cum quanta instantia, vel cautela corrigenda sit intentio depravata."
+      }
+    },
+    {
+      "id": "c054",
+      "title": {
+        "la": "Caput LIV. Quomodo, vel quam caute oporteat intentionem mutare, et morum honesta non deserere."
+      }
+    },
+    {
+      "id": "c055",
+      "title": {
+        "la": "Caput LV. Qua maxime consideratione debeamus intentionis depravationem castigare."
+      }
+    },
+    {
+      "id": "c056",
+      "title": {
+        "la": "Caput LVI. Quod mens in omni corruptione sua debeat et patienter dolere, et de sua correctione non desperare."
+      }
+    },
+    {
+      "id": "c057",
+      "title": {
+        "la": "Caput LVII. Quomodo, vel quam caute per exprobrationem peccati vel per exactionem debiti, debeat corrupta mens flagellari."
+      }
+    },
+    {
+      "id": "c058",
+      "title": {
+        "la": "Caput LVIII. Quomodo per nimiam afflictionem mens quandoque usque ad impudentiam effrenatur."
+      }
+    },
+    {
+      "id": "c059",
+      "title": {
+        "la": "Caput LIX. Quod nec ordinata verecundia sit bona, nisi sit et moderata."
+      }
+    },
+    {
+      "id": "c060",
+      "title": {
+        "la": "Caput LX. De principalium affectuum numero, et ordinandi modo compendiosa recapitulatio."
+      }
+    },
+    {
+      "id": "c061",
+      "title": {
+        "la": "Caput LXI. Quod affectus ordinati veraciter sunt boni, si sunt et moderati."
+      }
+    },
+    {
+      "id": "c062",
+      "title": {
+        "la": "Caput LXII. Quibus modis timor mensuram aequitatis transgreditur."
+      }
+    },
+    {
+      "id": "c063",
+      "title": {
+        "la": "Caput LXIII. Ad quam impudentem evagationem nimius timor mentem prostituit."
+      }
+    },
+    {
+      "id": "c064",
+      "title": {
+        "la": "Caput LXIV. De vi, vel efficacia timoris sine quo nec mala deserimus, nec bona inchoamus."
+      }
+    },
+    {
+      "id": "c065",
+      "title": {
+        "la": "Caput LXV. De principalitate timoris, et aliis affectibus qui quibus principentur."
+      }
+    },
+    {
+      "id": "c066",
+      "title": {
+        "la": "Caput LXVI. Quomodo virtutes in vitia vertantur nisi per discretionem moderentur."
+      }
+    },
+    {
+      "id": "c067",
+      "title": {
+        "la": "Caput LXVII. Quomodo, vel quam sero oriatur discretio cum sit prima proles rationis."
+      }
+    },
+    {
+      "id": "c068",
+      "title": {
+        "la": "Caput LXVIII. De discretionis utilitate, vel ejus proprietate."
+      }
+    },
+    {
+      "id": "c069",
+      "title": {
+        "la": "Caput LXIX. Quam sit utile et item quam sit difficile discretioni perfecte obtemperare."
+      }
+    },
+    {
+      "id": "c070",
+      "title": {
+        "la": "Caput LXX. De multiplici officio verae discretionis."
+      }
+    },
+    {
+      "id": "c071",
+      "title": {
+        "la": "Caput LXXI. De gemina prole rationis, gratia videlicet discretionis, et gratia contemplationis."
+      }
+    },
+    {
+      "id": "c072",
+      "title": {
+        "la": "Caput LXXII. Quomodo per plenam cognitionem sui, sublevetur animus ad contemplationem Dei."
+      }
+    },
+    {
+      "id": "c073",
+      "title": {
+        "la": "Caput LXXIII. Quam sit arduum, vel difficile gratiam contemplationis obtinere."
+      }
+    },
+    {
+      "id": "c074",
+      "title": {
+        "la": "Caput LXXIV. De illo contemplationis genere, quod est supra rationem."
+      }
+    },
+    {
+      "id": "c075",
+      "title": {
+        "la": "Caput LXXV. De supereminentia spiritualium theoriarum."
+      }
+    },
+    {
+      "id": "c076",
+      "title": {
+        "la": "Caput LXXVI. Quam sit rarum, vel quam jucundum, spirituales theorias in usum adducere et in oblectamentum vertere."
+      }
+    },
+    {
+      "id": "c077",
+      "title": {
+        "la": "Caput LXXVII. Quod frustra nitimur ad summa sine praeveniente gratia."
+      }
+    },
+    {
+      "id": "c078",
+      "title": {
+        "la": "Caput LXXVIII. Quantum valeat plena cognitio sui."
+      }
+    },
+    {
+      "id": "c079",
+      "title": {
+        "la": "Caput LXXIX. Quibus modis ad scientiae altitudinem pertingimus."
+      }
+    },
+    {
+      "id": "c080",
+      "title": {
+        "la": "Caput LXXX. Quomodo summis conatibus nostris, divina revelatio occurrat."
+      }
+    },
+    {
+      "id": "c081",
+      "title": {
+        "la": "Caput LXXXI. Quam suspecta debeat esse omnis revelatio, quam non comitatur Scripturarum attestatio."
+      }
+    },
+    {
+      "id": "c082",
+      "title": {
+        "la": "Caput LXXXII. Quam sint incomprehensibilia, quae mens per excessum videt ex revelatione divina."
+      }
+    },
+    {
+      "id": "c083",
+      "title": {
+        "la": "Caput LXXXIII. Quod illa mens divinas revelationes percipit, quae in intimis stare consuevit."
+      }
+    },
+    {
+      "id": "c084",
+      "title": {
+        "la": "Caput LXXXIV. Quomodo mens se ad interiora colligere debeat, quae in coelestium contemplationem anhelat."
+      }
+    },
+    {
+      "id": "c085",
+      "title": {
+        "la": "Caput LXXXV. Quam sit jucundum, et dulce contemplationis gratiam familiare habere."
+      }
+    },
+    {
+      "id": "c086",
+      "title": {
+        "la": "Caput LXXXVI. De duobus generibus contemplationum."
+      }
+    },
+    {
+      "id": "c087",
+      "title": {
+        "la": "Caput LXXXVII. Quomodo contemplatio desinat in meditationem, vel quomodo meditatio surgat in contemplationem."
+      }
+    }
+  ]
+}
