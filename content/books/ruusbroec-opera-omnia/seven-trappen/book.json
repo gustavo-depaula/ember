@@ -1,0 +1,132 @@
+{
+  "id": "ruusbroec-seven-trappen",
+  "cover": "classic",
+  "name": {
+    "dum": "Van seven trappen inden graet der gheesteliker minnen",
+    "en-US": "The Seven Steps of the Ladder of Spiritual Love",
+    "pt-BR": "Os Sete Degraus da Escada do Amor Espiritual"
+  },
+  "author": {
+    "dum": "Jan van Ruusbroec (1293-1381)",
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "dum": "Traktaat over zeven trappen van geestelijke liefde, geschreven voor Margriet van Meerbeke. Middelnederlandse tekst van J. B. David (1861).",
+    "en-US": "A treatise on the seven steps of spiritual love, written for Margaret of Meerbeke. The Middle Dutch text of J. B. David (1861).",
+    "pt-BR": "Tratado sobre os sete degraus do amor espiritual, escrito para Margarida de Meerbeke. Texto em neerlandês médio de J. B. David (1861)."
+  },
+  "composed": "c. 1360",
+  "languages": [
+    "dum"
+  ],
+  "work": "ruusbroec/seven-trappen",
+  "editions": {
+    "dum": {
+      "editor": "Jan Baptist David",
+      "year": 1861
+    }
+  },
+  "sources": [
+    {
+      "language": "dum",
+      "url": "https://www.dbnl.org/tekst/ruus001vlae04_01/",
+      "edition": "Jan van Ruusbroec, Werken, ed. J. B. David, deel 4: Dit is van ‧VII‧ trappen inden graet der gheesteliker minnen. (Gent: Maetschappy der Vlaemsche Bibliophilen, 1861).",
+      "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
+      "tier": "A",
+      "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologhe",
+      "title": {
+        "dum": "Prologhe"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "dum": "I. Dit is die ierste trappe"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "dum": "II. Dit is die andere trappe"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "dum": "III. Dit is die derde trappe"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "dum": "IV. Dit is die ‧iiij‧ trappe"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "dum": "V. Dit is die vijfte trappe"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "dum": "VI. Van drien wisen van oefeninghen"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "dum": "VII. Vander ander wisen van oefeninghen"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "dum": "VIII. Van der derder misen van oefeninghen"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "dum": "IX. Wat die overste iherarchiën vore ons doen"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "dum": "X. Van tween weghen die Christus ons gheleert hevet"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "dum": "XI. Hoe vele menschen manen groet sijn, ende dolen in vele poenten"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "dum": "XII. Vander hemelscher melodiën"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "dum": "XIII. Die seste trappe der minnen"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "dum": "XIV. Die sevende trappe van minnen"
+      }
+    }
+  ]
+}
