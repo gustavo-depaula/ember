@@ -1,0 +1,318 @@
+{
+  "id": "gregory-great-pope-moralia-in-iob",
+  "cover": "classic",
+  "name": {
+    "la": "Moralia in Iob",
+    "en-US": "Morals on the Book of Job",
+    "pt-BR": "Morais sobre o Livro de Jó"
+  },
+  "author": {
+    "la": "Gregorius Magnus, Papa (c. 540-604)",
+    "en-US": "Gregory the Great, Pope (c. 540-604)",
+    "pt-BR": "São Gregório Magno, Papa (c. 540-604)"
+  },
+  "description": {
+    "la": "Expositio in librum beati Iob, triginta quinque libris, quam Gregorius Constantinopoli inchoavit et Romae perfecit; cum epistola ad Leandrum Hispalensem et praefatione.",
+    "en-US": "Gregory's vast commentary on the Book of Job in thirty-five books, begun at Constantinople for his monastic companions and finished in Rome (c. 578-595): each verse is read historically, then allegorically, then morally. With the letter to Leander of Seville and the preface. Latin text of the Maurist edition (Migne, PL 75-76); English from the Oxford Library of the Fathers (1844-50), as transcribed on Lectionary Central.",
+    "pt-BR": "O imenso comentário de Gregório ao Livro de Jó em trinta e cinco livros, começado em Constantinopla para os seus companheiros monges e concluído em Roma (c. 578-595): cada versículo é lido no sentido histórico, depois alegórico, depois moral. Com a carta a Leandro de Sevilha e o prefácio. Texto latino da edição beneditina (Migne, PL 75-76); inglês da Library of the Fathers de Oxford (1844-50)."
+  },
+  "composed": "578-595",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "gregory-the-great/moralia-in-iob",
+  "editions": {
+    "la": {
+      "editor": "Maurist edition (Sainte-Marthe, 1705), as reprinted in Migne, PL 75-76 (1849)"
+    },
+    "en-US": {
+      "translator": "Library of the Fathers (Oxford: Parker, 1844-50), preface by Charles Marriott",
+      "year": 1844,
+      "from": "la"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Moralia",
+      "edition": "Moralia, Epistola, Praefatio and Pars I-VI (Books I-XXXV) on Latin Wikisource (from the Corpus Corporum TEI of PL 75-76), with the Maurist chapter divisions (Caput) kept as headings.",
+      "description": "Wikitext removed; the inline PL page counter and the Maurist [Vet./Rec.] chapter cross-references stripped; sections numbered 1., 2. ... set as paragraphs. Raw text in sources/la-originals.",
+      "tier": "A",
+      "tierEvidence": "Text of a 6th-century work in the 1705 Maurist edition (Migne 1849): public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://lectionarycentral.com/gregorymoraliaindex.html",
+      "edition": "Morals on the Book of Job by S. Gregory the Great (Library of the Fathers, 3 vols in 4, Oxford: Parker; London: Rivington, 1844-50), transcribed by Lectionary Central; the Epistle, Preface and Books I-XXXV. The transcriber's footnotes are only partly added (the Epistle has them).",
+      "description": "Navigation removed; the translator's chapter numbers [ii]... set as Chapter headings; summaries italicised; Scripture references kept inline.",
+      "tier": "A",
+      "tierEvidence": "Oxford translation of 1844-50: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02",
+    "en-US": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "epistola",
+      "title": {
+        "la": "Epistola ad Leandrum",
+        "en-US": "Epistle to Leander"
+      }
+    },
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b01",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "b02",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      }
+    },
+    {
+      "id": "b03",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      }
+    },
+    {
+      "id": "b04",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      }
+    },
+    {
+      "id": "b05",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V"
+      }
+    },
+    {
+      "id": "b06",
+      "title": {
+        "la": "Liber VI",
+        "en-US": "Book VI"
+      }
+    },
+    {
+      "id": "b07",
+      "title": {
+        "la": "Liber VII",
+        "en-US": "Book VII"
+      }
+    },
+    {
+      "id": "b08",
+      "title": {
+        "la": "Liber VIII",
+        "en-US": "Book VIII"
+      }
+    },
+    {
+      "id": "b09",
+      "title": {
+        "la": "Liber IX",
+        "en-US": "Book IX"
+      }
+    },
+    {
+      "id": "b10",
+      "title": {
+        "la": "Liber X",
+        "en-US": "Book X"
+      }
+    },
+    {
+      "id": "b11",
+      "title": {
+        "la": "Liber XI",
+        "en-US": "Book XI"
+      }
+    },
+    {
+      "id": "b12",
+      "title": {
+        "la": "Liber XII",
+        "en-US": "Book XII"
+      }
+    },
+    {
+      "id": "b13",
+      "title": {
+        "la": "Liber XIII",
+        "en-US": "Book XIII"
+      }
+    },
+    {
+      "id": "b14",
+      "title": {
+        "la": "Liber XIV",
+        "en-US": "Book XIV"
+      }
+    },
+    {
+      "id": "b15",
+      "title": {
+        "la": "Liber XV",
+        "en-US": "Book XV"
+      }
+    },
+    {
+      "id": "b16",
+      "title": {
+        "la": "Liber XVI",
+        "en-US": "Book XVI"
+      }
+    },
+    {
+      "id": "b17",
+      "title": {
+        "la": "Liber XVII",
+        "en-US": "Book XVII"
+      }
+    },
+    {
+      "id": "b18",
+      "title": {
+        "la": "Liber XVIII",
+        "en-US": "Book XVIII"
+      }
+    },
+    {
+      "id": "b19",
+      "title": {
+        "la": "Liber XIX",
+        "en-US": "Book XIX"
+      }
+    },
+    {
+      "id": "b20",
+      "title": {
+        "la": "Liber XX",
+        "en-US": "Book XX"
+      }
+    },
+    {
+      "id": "b21",
+      "title": {
+        "la": "Liber XXI",
+        "en-US": "Book XXI"
+      }
+    },
+    {
+      "id": "b22",
+      "title": {
+        "la": "Liber XXII",
+        "en-US": "Book XXII"
+      }
+    },
+    {
+      "id": "b23",
+      "title": {
+        "la": "Liber XXIII",
+        "en-US": "Book XXIII"
+      }
+    },
+    {
+      "id": "b24",
+      "title": {
+        "la": "Liber XXIV",
+        "en-US": "Book XXIV"
+      }
+    },
+    {
+      "id": "b25",
+      "title": {
+        "la": "Liber XXV",
+        "en-US": "Book XXV"
+      }
+    },
+    {
+      "id": "b26",
+      "title": {
+        "la": "Liber XXVI",
+        "en-US": "Book XXVI"
+      }
+    },
+    {
+      "id": "b27",
+      "title": {
+        "la": "Liber XXVII",
+        "en-US": "Book XXVII"
+      }
+    },
+    {
+      "id": "b28",
+      "title": {
+        "la": "Liber XXVIII",
+        "en-US": "Book XXVIII"
+      }
+    },
+    {
+      "id": "b29",
+      "title": {
+        "la": "Liber XXIX",
+        "en-US": "Book XXIX"
+      }
+    },
+    {
+      "id": "b30",
+      "title": {
+        "la": "Liber XXX",
+        "en-US": "Book XXX"
+      }
+    },
+    {
+      "id": "b31",
+      "title": {
+        "la": "Liber XXXI",
+        "en-US": "Book XXXI"
+      }
+    },
+    {
+      "id": "b32",
+      "title": {
+        "la": "Liber XXXII",
+        "en-US": "Book XXXII"
+      }
+    },
+    {
+      "id": "b33",
+      "title": {
+        "la": "Liber XXXIII",
+        "en-US": "Book XXXIII"
+      }
+    },
+    {
+      "id": "b34",
+      "title": {
+        "la": "Liber XXXIV",
+        "en-US": "Book XXXIV"
+      }
+    },
+    {
+      "id": "b35",
+      "title": {
+        "la": "Liber XXXV",
+        "en-US": "Book XXXV"
+      }
+    }
+  ]
+}
