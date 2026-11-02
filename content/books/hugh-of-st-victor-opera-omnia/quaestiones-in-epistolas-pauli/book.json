@@ -1,0 +1,210 @@
+{
+  "id": "hugh-quaestiones-in-epistolas-pauli",
+  "cover": "classic",
+  "name": {
+    "la": "Quaestiones in epistolas Pauli",
+    "en-US": "Questions on the Epistles of Paul",
+    "pt-BR": "Questões sobre as epístolas de Paulo"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "Quaestiones et decisiones in epistolas D. Pauli (Hugoni attributae, non ab eo scriptae).",
+    "en-US": "Questions and answers on the Pauline epistles which PL prints under Hugh’s name; modern scholarship does not accept them as his. Latin only, from the Migne text (Patrologia Latina 175, 1854), a machine-corrected OCR.",
+    "pt-BR": "Questões e respostas sobre as epístolas paulinas que Migne imprime sob o nome de Hugo; a crítica moderna não as aceita como suas."
+  },
+  "composed": "12th century",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/quaestiones-in-epistolas-pauli",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 175)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.QuInEpP",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.QuInEpP, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "I. In epistolam ad romanos. (pars 1)"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "I. In epistolam ad romanos. (pars 2)"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "I. In epistolam ad romanos. (pars 3)"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "I. In epistolam ad romanos. (pars 4)"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "I. In epistolam ad romanos. (pars 5)"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "I. In epistolam ad romanos. (pars 6)"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "I. In epistolam ad romanos. (pars 7)"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "I. In epistolam ad romanos. (pars 8)"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "I. In epistolam ad romanos. (pars 9)"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "I. In epistolam ad romanos. (pars 10)"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "II. In epistolam I ad corinthios. (pars 1)"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "II. In epistolam I ad corinthios. (pars 2)"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "II. In epistolam I ad corinthios. (pars 3)"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "II. In epistolam I ad corinthios. (pars 4)"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "III. In epistolam II ad corinthios."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "IV. In epistolam ad galatas."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "V. In epistolam ad ephesios."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "VI. In epistolam ad philippenses."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "VII. In epistolam ad colossenses."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "VIII. In epistolam I ad thessalonicenses."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "IX. In epistolam II ad thessalonicenses."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "X. In epistolam I ad timotheum."
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "XI. In epistolam II ad timotheum."
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "XII. In epistolam ad titum."
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "XIII. In epistolam ad philemonem."
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "XIV. In epistolam ad hebraeos. (pars 1)"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "XIV. In epistolam ad hebraeos. (pars 2)"
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "XIV. In epistolam ad hebraeos. (pars 3)"
+      }
+    }
+  ]
+}
