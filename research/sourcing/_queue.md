@@ -3,7 +3,7 @@
 The first wave (one or two works per author) is done. This queue imports each author complete, following `_import-brief.md` ("Completing an author"): one agent per line, two at a time, on Sonnet. Mark a line `[x]` when its agent reports every work done, or note what's left.
 
 - [ ] Teresa of Ávila (rest)
-- [ ] Peter of Alcántara (done: Tratado, Cartas; left: Breve introducción and De tres cosas, which need a vision pass of the 1699 scan) · John of Ávila (done: Audi filia 1574, Epistolario; continuing)
+- [x] Peter of Alcántara · John of Ávila. Left, needing page images or a cleaner OCR: Alcántara's Breve introducción and De tres cosas; Ávila's temporal and santoral sermons, 77 letters and the treatise-letters 184–197 (BAC OCR); see PROBLEMS.md
 - [ ] John of the Cross (rest: Cántico A, Llama B, poems, minor works, letters)
 - [ ] Thérèse of Lisieux (rest: letters, poems, plays, prayers)
 - [ ] Ignatius of Loyola (rest)
