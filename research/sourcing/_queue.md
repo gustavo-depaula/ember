@@ -9,7 +9,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Ignatius of Loyola. Left: the Italian of Autobiography [79]–[101], the Spanish letters (1874–89 Cartas, MHSI), the Vulgata of the Exercises, the Reglas and the poverty Deliberación
 - [x] Louis of Granada. Left: the Latin works (sermons, Rhetorica, Silva, Collectanea; scans need fresh OCR), the Portuguese original of the Compendio, English translations (Hopkins, Meres, Gibbons, Chester…), and headings lost in the Guía primitiva and Cartas
 - [x] Alonso Rodríguez · Luis de León. Left: Luis's letters and trial writings, his Latin Opera, the Job tercets and about 19k words of poems (Mayans 1761 / BAE 37)
-- [ ] Elisabeth of the Trinity · Curé of Ars
+- [x] Elisabeth of the Trinity · Curé of Ars. Left: Elisabeth's complete letters, poems, Journal and notes (no clean text online); the French Esprit, the Curé's letters, English sermons
 - [ ] Francis de Sales (rest)
 - [ ] Jane de Chantal
 - [ ] Vincent de Paul
