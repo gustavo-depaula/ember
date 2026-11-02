@@ -1,0 +1,174 @@
+{
+  "id": "berulle-oeuvres-de-piete",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Œuvres de piété",
+    "en-US": "Works of Piety",
+    "pt-BR": "Obras de piedade"
+  },
+  "author": {
+    "fr-FR": "Cardinal Pierre de Bérulle",
+    "en-US": "Cardinal Pierre de Bérulle",
+    "pt-BR": "Cardeal Pierre de Bérulle"
+  },
+  "description": {
+    "fr-FR": "Le Bref discours de l’abnégation intérieure (1597) et les quelque deux cents opuscules de piété rassemblés par Bourgoing : méditations sur les mystères, la Vierge, l’Eucharistie, direction et vie de l’Oratoire.",
+    "en-US": "The Brief Discourse on Interior Abnegation (1597) and the two hundred or so opuscules of piety gathered by Bourgoing: meditations on the mysteries, the Virgin, the Eucharist, direction and the life of the Oratory.",
+    "pt-BR": "O Breve discurso sobre a abnegação interior (1597) e os cerca de duzentos opúsculos de piedade reunidos por Bourgoing: meditações sobre os mistérios, a Virgem, a Eucaristia, direção e vida do Oratório."
+  },
+  "composed": 1597,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "berulle/oeuvres-de-piete",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescompl00br",
+      "edition": "Œuvres complètes du cardinal de Bérulle, éd. Migne, Paris, 1856 (reprint of Bourgoing’s 1644 collected edition); archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors, merged columns and some chapter openings the scan lost remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Bérulle died in 1629; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "abnegation",
+      "title": {
+        "fr-FR": "Bref discours de l’abnégation intérieure"
+      }
+    },
+    {
+      "id": "opuscules-002-010",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 2–10"
+      }
+    },
+    {
+      "id": "opuscules-011-020",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 11–20"
+      }
+    },
+    {
+      "id": "opuscules-021-030",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 21–30"
+      }
+    },
+    {
+      "id": "opuscules-031-040",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 31–40"
+      }
+    },
+    {
+      "id": "opuscules-041-050",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 41–50"
+      }
+    },
+    {
+      "id": "opuscules-051-060",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 51–60"
+      }
+    },
+    {
+      "id": "opuscules-061-070",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 61–70"
+      }
+    },
+    {
+      "id": "opuscules-071-080",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 71–80"
+      }
+    },
+    {
+      "id": "opuscules-081-089",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 81–89"
+      }
+    },
+    {
+      "id": "opuscules-091-100",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 91–100"
+      }
+    },
+    {
+      "id": "opuscules-101-106",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 101–106"
+      }
+    },
+    {
+      "id": "opuscules-111-120",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 111–120"
+      }
+    },
+    {
+      "id": "opuscules-121-129",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 121–129"
+      }
+    },
+    {
+      "id": "opuscules-138-140",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 138–140"
+      }
+    },
+    {
+      "id": "opuscules-143-150",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 143–150"
+      }
+    },
+    {
+      "id": "opuscules-155-160",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 155–160"
+      }
+    },
+    {
+      "id": "opuscules-161-170",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 161–170"
+      }
+    },
+    {
+      "id": "opuscules-171-180",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 171–180"
+      }
+    },
+    {
+      "id": "opuscules-182-190",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 182–190"
+      }
+    },
+    {
+      "id": "opuscules-191-200",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 191–200"
+      }
+    },
+    {
+      "id": "opuscules-202-202",
+      "title": {
+        "fr-FR": "Opuscules de piété, opuscule 202"
+      }
+    }
+  ]
+}
