@@ -1,0 +1,233 @@
+{
+  "id": "sacrum-commercium",
+  "cover": "classic",
+  "name": {
+    "la": "Sacrum commercium sancti Francisci cum domina Paupertate",
+    "en-US": "The Sacred Exchange between St. Francis and Lady Poverty (Sacrum commercium)",
+    "pt-BR": "O Sagrado Intercâmbio de São Francisco com a Senhora Pobreza (Sacrum commercium)"
+  },
+  "author": {
+    "la": "Auctor incertus saeculi XIII",
+    "en-US": "Anonymous (13th century)",
+    "pt-BR": "Anônimo (século XIII)"
+  },
+  "description": {
+    "la": "Sacrum commercium beati Francisci cum domina Paupertate (1227), allegoria in qua Franciscus et fratres Paupertatem quaerunt et cum ea nuptias celebrant; prologus et capitula XXXII.",
+    "en-US": "The Sacred Exchange between Blessed Francis and Lady Poverty (1227), the allegory in which Francis and his friars go looking for Poverty and celebrate their wedding with her; prologue and thirty-two chapters, in Latin. The English of Montgomery Carmichael (The Lady Poverty, 1901) is not imported here.",
+    "pt-BR": "O Sagrado Intercâmbio do bem-aventurado Francisco com a Senhora Pobreza (1227), alegoria em que Francisco e os frades vão em busca da Pobreza e celebram as núpcias com ela."
+  },
+  "composed": "1227",
+  "languages": [
+    "la"
+  ],
+  "work": "anonymous-franciscan/sacrum-commercium",
+  "editions": {
+    "la": {
+      "editor": "transcription of the critical text of Fontes Franciscani (1995) by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_sacrocommercio_lat.html",
+      "edition": "Sacrum commercium, poliba.it \"Fonti francescane\" (Wayback Machine snapshot).",
+      "description": "Prologue and numbered chapters. Latin only.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cap-001",
+      "title": {
+        "la": "[Prologus]."
+      }
+    },
+    {
+      "id": "cap-002",
+      "title": {
+        "la": "Capitulum 1 - Beatus Franciscus interrogat de Paupertate."
+      }
+    },
+    {
+      "id": "cap-003",
+      "title": {
+        "la": "Capitulum 2 - Hic petit sibi indicari ubi Paupertas habitat."
+      }
+    },
+    {
+      "id": "cap-004",
+      "title": {
+        "la": "Capitulum 3 - Beatus Franciscus hortatur fratres."
+      }
+    },
+    {
+      "id": "cap-005",
+      "title": {
+        "la": "Capitulum 4 - Paupertas miratur de facilitate ascendentium."
+      }
+    },
+    {
+      "id": "cap-006",
+      "title": {
+        "la": "Capitulum 5 - Beatus Franciscus laudat Paupertatem."
+      }
+    },
+    {
+      "id": "cap-007",
+      "title": {
+        "la": "Capitulum 6 - Dignitas Paupertatis."
+      }
+    },
+    {
+      "id": "cap-008",
+      "title": {
+        "la": "Capitulum 7 - Responsio domine Paupertatis."
+      }
+    },
+    {
+      "id": "cap-009",
+      "title": {
+        "la": "Capitulum 8 - Recordatio Paupertatis in paradiso."
+      }
+    },
+    {
+      "id": "cap-010",
+      "title": {
+        "la": "Capitulum 9 - Testamentum Christi."
+      }
+    },
+    {
+      "id": "cap-011",
+      "title": {
+        "la": "Capitulum 10 - De apostolis."
+      }
+    },
+    {
+      "id": "cap-012",
+      "title": {
+        "la": "Capitulum 11 - De apostolorum sequacibus."
+      }
+    },
+    {
+      "id": "cap-013",
+      "title": {
+        "la": "Capitulum 12 - De pace contraria Paupertati."
+      }
+    },
+    {
+      "id": "cap-014",
+      "title": {
+        "la": "Capitulum 13 - Persecutio soror Paupertatis."
+      }
+    },
+    {
+      "id": "cap-015",
+      "title": {
+        "la": "Capitulum 14 - Laus bonorum pauperum."
+      }
+    },
+    {
+      "id": "cap-016",
+      "title": {
+        "la": "Capitulum 15 - De falsis pauperibus."
+      }
+    },
+    {
+      "id": "cap-017",
+      "title": {
+        "la": "Capitulum 16 - Avaritia."
+      }
+    },
+    {
+      "id": "cap-018",
+      "title": {
+        "la": "Capitulum 17 - Monet Paupertas falsos religiosos."
+      }
+    },
+    {
+      "id": "cap-019",
+      "title": {
+        "la": "Capitulum 18 - Responsio eorum."
+      }
+    },
+    {
+      "id": "cap-020",
+      "title": {
+        "la": "Capitulum 19 - Paupertas loquitur de bonis religiosis."
+      }
+    },
+    {
+      "id": "cap-021",
+      "title": {
+        "la": "Capitulum 20 - Avaritia nomen Discretionis assumit."
+      }
+    },
+    {
+      "id": "cap-022",
+      "title": {
+        "la": "Capitulum 21 - Avaritia se vocat Providentiam."
+      }
+    },
+    {
+      "id": "cap-023",
+      "title": {
+        "la": "Capitulum 22 - Avaritia auxilium Acidie petit."
+      }
+    },
+    {
+      "id": "cap-024",
+      "title": {
+        "la": "Capitulum 23 - De religiosis per Acidiam victis."
+      }
+    },
+    {
+      "id": "cap-025",
+      "title": {
+        "la": "Capitulum 24 - Pauperes divites effecti persecuuntur Paupertatem."
+      }
+    },
+    {
+      "id": "cap-026",
+      "title": {
+        "la": "Capitulum 25 - Paupertas monet eos ad se redire."
+      }
+    },
+    {
+      "id": "cap-027",
+      "title": {
+        "la": "Capitulum 26 - Dominus loquitur ad Paupertatem."
+      }
+    },
+    {
+      "id": "cap-028",
+      "title": {
+        "la": "Capitulum 27 - Domina Paupertas monet beatum Franciscum de profectu et defectu conversationis."
+      }
+    },
+    {
+      "id": "cap-029",
+      "title": {
+        "la": "Capitulum 28 - Beatus Franciscus cum fratribus respondet Paupertati."
+      }
+    },
+    {
+      "id": "cap-030",
+      "title": {
+        "la": "Capitulum 29 - Consensus Paupertatis."
+      }
+    },
+    {
+      "id": "cap-031",
+      "title": {
+        "la": "Capitulum 30 - De convivio Paupertatis cum fratribus."
+      }
+    },
+    {
+      "id": "cap-032",
+      "title": {
+        "la": "Capitulum 31 - Domina Paupertas benedicit fratribus et monet eos perseverare in recepta gratia."
+      }
+    }
+  ]
+}
