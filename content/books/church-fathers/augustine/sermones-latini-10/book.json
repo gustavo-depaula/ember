@@ -1,0 +1,267 @@
+{
+  "id": "augustine-sermones-latini-10",
+  "cover": "quarter",
+  "name": {
+    "la": "Sermones 335/L–359",
+    "en-US": "Sermons 335/L–359 (Latin)",
+    "pt-BR": "Sermões 335/L–359 (latim)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Sermones Augustini 335/L–359, quae in versione Anglica non exstant. Textus Latinus.",
+    "en-US": "37 of Augustine's sermons (335/L to 359), Latin text of the Maurist edition (with the post-Maurist additions of Divjak, Dolbeau and others where the source numbers them). These are the sermons not in the English NPNF book; no English translation imported.",
+    "pt-BR": "37 sermões de Santo Agostinho (335/L a 359), texto latino da edição dos Maurinos e dos acréscimos posteriores."
+  },
+  "composed": "date varies",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/sermones",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/discorsi/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages discorsi of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Sermo 335/L"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Sermo 335/M"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Sermo 336"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Sermo 337"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Sermo 338"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Sermo 339"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Sermo 340"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Sermo 340/A"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Sermo 341"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Sermo 341/A"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Sermo 342"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Sermo 343"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Sermo 344"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Sermo 345"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Sermo 346"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Sermo 346/A"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Sermo 346/B"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Sermo 346/C"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Sermo 347"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "Sermo 348"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "la": "Sermo 348/A"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "la": "Sermo 349"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "la": "Sermo 350"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "la": "Sermo 350/A"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "la": "Sermo 350/B"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "la": "Sermo 350/C"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "la": "Sermo 351"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "la": "Sermo 352"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "la": "Sermo 353"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "la": "Sermo 354"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "la": "Sermo 354/A"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "la": "Sermo 355"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "la": "Sermo 356"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "la": "Sermo 357"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "la": "Sermo 358"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "la": "Sermo 358/A"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "la": "Sermo 359"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
