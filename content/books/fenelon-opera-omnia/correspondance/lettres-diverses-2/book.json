@@ -1,0 +1,200 @@
+{
+  "id": "fenelon-lettres-diverses-2",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres diverses II (tome 8)",
+    "en-US": "Miscellaneous Letters II (volume 8)",
+    "pt-BR": "Cartas diversas II (tomo 8)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Suite de la troisième section de la correspondance : lettres diverses de Fénelon (tome 8 de l’édition). Les lettres adressées à Fénelon sont imprimées avec les siennes là où l’édition les place.",
+    "en-US": "Continuation of the third section of the correspondence: miscellaneous letters from Fénelon (volume 8 of the edition). Letters written to Fénelon are printed with his own where the edition places them.",
+    "pt-BR": "Continuação da terceira seção da correspondência: cartas diversas de Fénelon (tomo 8 da edição). As cartas escritas a Fénelon são impressas com as dele onde a edição as coloca."
+  },
+  "composed": "1670–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettres-diverses-2",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte08fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 8, tome 8, section III (fin); archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-lettres-diverses",
+      "title": {
+        "fr-FR": "Lettres diverses (tome 8)"
+      },
+      "children": [
+        {
+          "id": "01-lettres-diverses-01",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 1"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-02",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 2"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-03",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 3"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-04",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 4"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-05",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 5"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-06",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 6"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-07",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 7"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-08",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 8"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-09",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 9"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-10",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 10"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-11",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 11"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-12",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 12"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-13",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 13"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-14",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 14"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-15",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 15"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-16",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 16"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-17",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 17"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-18",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 18"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-19",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 19"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-20",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 20"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-21",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 21"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-22",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 22"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-23",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 23"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-24",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 24"
+          }
+        },
+        {
+          "id": "01-lettres-diverses-25",
+          "title": {
+            "fr-FR": "Lettres diverses (tome 8), partie 25"
+          }
+        }
+      ]
+    }
+  ]
+}
