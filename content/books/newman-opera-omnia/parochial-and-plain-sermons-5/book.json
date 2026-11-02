@@ -1,0 +1,183 @@
+{
+  "id": "newman-parochial-and-plain-sermons-5",
+  "cover": "classic",
+  "name": {
+    "en-US": "Parochial and Plain Sermons, Volume 5",
+    "pt-BR": "Sermões Paroquiais e Simples, Volume 5"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Volume 5 of Newman's Parochial and Plain Sermons: 24 of the sermons he preached at St. Mary's, Oxford and Littlemore as an Anglican vicar. Newman reissued the series unchanged in 1868, as a Catholic, through his friend William John Copeland; this is the Longmans text. The sermons are on holiness, faith, the Christian year, the saints and the life of obedience.",
+    "pt-BR": "Volume 5 dos Parochial and Plain Sermons de Newman: 24 dos sermões que ele pregou em Santa Maria, Oxford, e em Littlemore, como vigário anglicano. Newman reeditou a série sem alterações em 1868, já católico, por meio do amigo William John Copeland; este é o texto da Longmans. Os sermões tratam da santidade, da fé, do ano cristão, dos santos e da vida de obediência."
+  },
+  "composed": "1838-1840",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/parochial-and-plain-sermons-5",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman, ed. William John Copeland (Rivingtons, 1868; Newman Reader)",
+      "year": 1868
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/parochial/volume5/index.html",
+      "edition": "Parochial and Plain Sermons, vol. 5 (London: Rivingtons, 1868 edition of the series first published 1834-1843), as transcribed by the Newman Reader.",
+      "description": "24 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Anglican-period sermons, reissued by Newman in 1868. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-1",
+      "title": {
+        "en-US": "Sermon 1. Worship, a Preparation for Christ's Coming"
+      }
+    },
+    {
+      "id": "sermon-2",
+      "title": {
+        "en-US": "Sermon 2. Reverence, a Belief in God's Presence"
+      }
+    },
+    {
+      "id": "sermon-3",
+      "title": {
+        "en-US": "Sermon 3. Unreal Words"
+      }
+    },
+    {
+      "id": "sermon-4",
+      "title": {
+        "en-US": "Sermon 4. Shrinking from Christ's Coming"
+      }
+    },
+    {
+      "id": "sermon-5",
+      "title": {
+        "en-US": "Sermon 5. Equanimity"
+      }
+    },
+    {
+      "id": "sermon-6",
+      "title": {
+        "en-US": "Sermon 6. Remembrance of Past Mercies"
+      }
+    },
+    {
+      "id": "sermon-7",
+      "title": {
+        "en-US": "Sermon 7. The Mystery of Godliness"
+      }
+    },
+    {
+      "id": "sermon-8",
+      "title": {
+        "en-US": "Sermon 8. The State of Innocence"
+      }
+    },
+    {
+      "id": "sermon-9",
+      "title": {
+        "en-US": "Sermon 9. Christian Sympathy"
+      }
+    },
+    {
+      "id": "sermon-10",
+      "title": {
+        "en-US": "Sermon 10. Righteousness not of us, but in us"
+      }
+    },
+    {
+      "id": "sermon-11",
+      "title": {
+        "en-US": "Sermon 11. The Law of the Spirit"
+      }
+    },
+    {
+      "id": "sermon-12",
+      "title": {
+        "en-US": "Sermon 12. The New Works of the Gospel"
+      }
+    },
+    {
+      "id": "sermon-13",
+      "title": {
+        "en-US": "Sermon 13. The State of Salvation"
+      }
+    },
+    {
+      "id": "sermon-14",
+      "title": {
+        "en-US": "Sermon 14. Transgressions and Infirmities"
+      }
+    },
+    {
+      "id": "sermon-15",
+      "title": {
+        "en-US": "Sermon 15. Sins of Infirmity"
+      }
+    },
+    {
+      "id": "sermon-16",
+      "title": {
+        "en-US": "Sermon 16. Sincerity and Hypocrisy"
+      }
+    },
+    {
+      "id": "sermon-17",
+      "title": {
+        "en-US": "Sermon 17. The Testimony of Conscience"
+      }
+    },
+    {
+      "id": "sermon-18",
+      "title": {
+        "en-US": "Sermon 18. Many Called, Few Chosen"
+      }
+    },
+    {
+      "id": "sermon-19",
+      "title": {
+        "en-US": "Sermon 19. Present Blessings"
+      }
+    },
+    {
+      "id": "sermon-20",
+      "title": {
+        "en-US": "Sermon 20. Endurance, the Christian's Portion"
+      }
+    },
+    {
+      "id": "sermon-21",
+      "title": {
+        "en-US": "Sermon 21. Affliction, a School of Comfort"
+      }
+    },
+    {
+      "id": "sermon-22",
+      "title": {
+        "en-US": "Sermon 22. The Thought of God, the Stay of the Soul"
+      }
+    },
+    {
+      "id": "sermon-23",
+      "title": {
+        "en-US": "Sermon 23. Love, the One Thing needful"
+      }
+    },
+    {
+      "id": "sermon-24",
+      "title": {
+        "en-US": "Sermon 24. The Power of the Will"
+      }
+    }
+  ]
+}
