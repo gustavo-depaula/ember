@@ -1,0 +1,90 @@
+{
+  "id": "gertrude-exercitia",
+  "cover": "classic",
+  "name": {
+    "la": "Exercitia spiritualia",
+    "en-US": "The Exercises of St. Gertrude",
+    "pt-BR": "Os Exercícios de Santa Gertrudes"
+  },
+  "author": {
+    "la": "Gertrudis Magna",
+    "en-US": "St. Gertrude the Great",
+    "pt-BR": "Santa Gertrudes, a Grande"
+  },
+  "description": {
+    "la": "Septem exercitia spiritualia: baptismi renovatio, conversio, sponsalia, professionis renovatio, exercitium amoris, laus et gratiarum actio, reparatio et praeparatio ad mortem.",
+    "en-US": "Seven devotional exercises of Gertrude of Helfta: renewal of baptismal innocence, conversion, spiritual espousals, renewal of religious profession, the exercise of love, praise and thanksgiving, reparation and preparation for death.",
+    "pt-BR": "Sete exercícios de piedade de Gertrudes de Helfta: renovação da inocência batismal, conversão, desposatório espiritual, renovação da profissão religiosa, exercício de amor, louvor e ação de graças, reparação e preparação para a morte."
+  },
+  "composed": "c. 1289-1302",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gertrude/exercitia-spiritualia",
+  "editions": {
+    "en-US": {
+      "translator": "Thomas Alder Pope (Oratory)",
+      "year": 1921
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/exercisesofstger0000thom",
+      "edition": "The Exercises of St. Gertrude, tr. Thomas Alder Pope, London: Burns Oates & Washbourne, 1921 (with Guéranger's preface).",
+      "description": "Internet Archive OCR of the 1921 translation made from the Latin; running heads, page numbers and scripture-reference footnotes removed, lost drop capitals restored by hand rules (research/sourcing/_scripts/gertrude_exercitia.py). The Latin original (Solesmes 1875) was not found as text online, so there is no la folder.",
+      "tier": "A",
+      "tierEvidence": "English translation published 1921; OCR from the Internet Archive."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "en-US": "Preface by Dom Prosper Guéranger"
+      }
+    },
+    {
+      "id": "exercitium-1",
+      "title": {
+        "en-US": "First Exercise: The Renewal of Baptismal Innocence"
+      }
+    },
+    {
+      "id": "exercitium-2",
+      "title": {
+        "en-US": "Second Exercise: Spiritual Conversion"
+      }
+    },
+    {
+      "id": "exercitium-3",
+      "title": {
+        "en-US": "Third Exercise: The Espousals and Consecration"
+      }
+    },
+    {
+      "id": "exercitium-4",
+      "title": {
+        "en-US": "Fourth Exercise: The Renewal of the Religious Profession"
+      }
+    },
+    {
+      "id": "exercitium-5",
+      "title": {
+        "en-US": "Fifth Exercise: The Exercise of Love"
+      }
+    },
+    {
+      "id": "exercitium-6",
+      "title": {
+        "en-US": "Sixth Exercise: Praise and Thanksgiving"
+      }
+    },
+    {
+      "id": "exercitium-7",
+      "title": {
+        "en-US": "Seventh Exercise: Reparation and Preparation for Death"
+      }
+    }
+  ]
+}
