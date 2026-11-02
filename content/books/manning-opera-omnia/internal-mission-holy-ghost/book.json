@@ -1,0 +1,147 @@
+{
+  "id": "manning-internal-mission-holy-ghost",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Internal Mission of the Holy Ghost",
+    "pt-BR": "A Missão Interna do Espírito Santo"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "Manning's discourses of 1875 on the work of the Holy Ghost in the soul: grace as the work of a Person, salvation by grace, the virtues of faith, hope and charity, the glory of sons, the seven gifts (holy fear, piety, fortitude, science, counsel, understanding, wisdom), the fruits of the Spirit, the Beatitudes and devotion to the Holy Ghost. A sequel to The Temporal Mission of the Holy Ghost, dedicated to the Oblates of St. Charles.",
+    "pt-BR": "Os discursos de Manning (1875) sobre a obra do Espírito Santo na alma: a graça como obra de uma Pessoa, a salvação pela graça, as virtudes da fé, esperança e caridade, a glória dos filhos, os sete dons (temor, piedade, fortaleza, ciência, conselho, entendimento, sabedoria), os frutos do Espírito, as bem-aventuranças e a devoção ao Espírito Santo. Continuação de The Temporal Mission of the Holy Ghost, dedicado aos Oblatos de São Carlos."
+  },
+  "composed": 1875,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/internal-mission-holy-ghost",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns and Oates, 1875; 1904 reprint)",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a591685300mannuoft",
+      "edition": "The Internal Mission of the Holy Ghost (London: Longmans, Green, 1904 reprint of the 1875 edition), University of Toronto scan, Internet Archive full-text OCR.",
+      "description": "The dedicatory letter to the Oblates of St. Charles and the seventeen chapters; the contents and the index are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1904, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedication",
+      "title": {
+        "en-US": "To the Oblates of St. Charles"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter 1. Grace the Work of a Person"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter 2. Salvation by Grace"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter 3. The Virtue of Faith"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter 4. The Virtue of Hope"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter 5. The Virtue of Charity"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter 6. The Glory of Sons"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter 7. The Seven Gifts of the Holy Ghost"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter 8. The Gift of Holy Fear"
+      }
+    },
+    {
+      "id": "chapter-9",
+      "title": {
+        "en-US": "Chapter 9. The Gift of Piety"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Chapter 10. The Gift of Fortitude"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Chapter 11. The Gift of Science"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Chapter 12. The Gift of Counsel"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "Chapter 13. The Gift of Understanding"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "Chapter 14. The Gift of Wisdom"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "Chapter 15. The Fruits of the Spirit"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "Chapter 16. The Beatitudes"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "Chapter 17. Devotion to the Holy Ghost"
+      }
+    }
+  ]
+}

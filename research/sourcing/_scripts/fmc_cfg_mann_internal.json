@@ -1,0 +1,121 @@
+{
+ "id": "manning-internal-mission-holy-ghost",
+ "dir": "manning-opera-omnia/internal-mission-holy-ghost",
+ "slug": "internal-mission-holy-ghost",
+ "work": "manning/internal-mission-holy-ghost",
+ "name": "The Internal Mission of the Holy Ghost",
+ "name_pt": "A Miss\u00e3o Interna do Esp\u00edrito Santo",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "Manning's discourses of 1875 on the work of the Holy Ghost in the soul: grace as the work of a Person, salvation by grace, the virtues of faith, hope and charity, the glory of sons, the seven gifts (holy fear, piety, fortitude, science, counsel, understanding, wisdom), the fruits of the Spirit, the Beatitudes and devotion to the Holy Ghost. A sequel to The Temporal Mission of the Holy Ghost, dedicated to the Oblates of St. Charles.",
+ "desc_pt": "Os discursos de Manning (1875) sobre a obra do Esp\u00edrito Santo na alma: a gra\u00e7a como obra de uma Pessoa, a salva\u00e7\u00e3o pela gra\u00e7a, as virtudes da f\u00e9, esperan\u00e7a e caridade, a gl\u00f3ria dos filhos, os sete dons (temor, piedade, fortaleza, ci\u00eancia, conselho, entendimento, sabedoria), os frutos do Esp\u00edrito, as bem-aventuran\u00e7as e a devo\u00e7\u00e3o ao Esp\u00edrito Santo. Continua\u00e7\u00e3o de The Temporal Mission of the Holy Ghost, dedicado aos Oblatos de S\u00e3o Carlos.",
+ "composed": 1875,
+ "editor": "Henry Edward Manning (London: Burns and Oates, 1875; 1904 reprint)",
+ "year": 1904,
+ "url": "https://archive.org/details/a591685300mannuoft",
+ "edition": "The Internal Mission of the Holy Ghost (London: Longmans, Green, 1904 reprint of the 1875 edition), University of Toronto scan, Internet Archive full-text OCR.",
+ "srcnote": "The dedicatory letter to the Oblates of St. Charles and the seventeen chapters; the contents and the index are dropped.",
+ "src": "manning/ia/a591685300mannuoft_djvu.txt",
+ "start": 361,
+ "end": 13102,
+ "fn": true,
+ "back": [],
+ "label": {},
+ "romanheads": false,
+ "front": [
+  {
+   "id": "dedication",
+   "title": "To the Oblates of St. Charles",
+   "from": 61,
+   "to": 209
+  }
+ ],
+ "units": [
+  {
+   "id": "chapter-1",
+   "title": "Chapter 1. Grace the Work of a Person",
+   "from": 361
+  },
+  {
+   "id": "chapter-2",
+   "title": "Chapter 2. Salvation by Grace",
+   "from": 1203
+  },
+  {
+   "id": "chapter-3",
+   "title": "Chapter 3. The Virtue of Faith",
+   "from": 2062
+  },
+  {
+   "id": "chapter-4",
+   "title": "Chapter 4. The Virtue of Hope",
+   "from": 2873
+  },
+  {
+   "id": "chapter-5",
+   "title": "Chapter 5. The Virtue of Charity",
+   "from": 3526
+  },
+  {
+   "id": "chapter-6",
+   "title": "Chapter 6. The Glory of Sons",
+   "from": 4145
+  },
+  {
+   "id": "chapter-7",
+   "title": "Chapter 7. The Seven Gifts of the Holy Ghost",
+   "from": 4710
+  },
+  {
+   "id": "chapter-8",
+   "title": "Chapter 8. The Gift of Holy Fear",
+   "from": 5555
+  },
+  {
+   "id": "chapter-9",
+   "title": "Chapter 9. The Gift of Piety",
+   "from": 6332
+  },
+  {
+   "id": "chapter-10",
+   "title": "Chapter 10. The Gift of Fortitude",
+   "from": 7247
+  },
+  {
+   "id": "chapter-11",
+   "title": "Chapter 11. The Gift of Science",
+   "from": 8074
+  },
+  {
+   "id": "chapter-12",
+   "title": "Chapter 12. The Gift of Counsel",
+   "from": 8789
+  },
+  {
+   "id": "chapter-13",
+   "title": "Chapter 13. The Gift of Understanding",
+   "from": 9544
+  },
+  {
+   "id": "chapter-14",
+   "title": "Chapter 14. The Gift of Wisdom",
+   "from": 10348
+  },
+  {
+   "id": "chapter-15",
+   "title": "Chapter 15. The Fruits of the Spirit",
+   "from": 11037
+  },
+  {
+   "id": "chapter-16",
+   "title": "Chapter 16. The Beatitudes",
+   "from": 11558
+  },
+  {
+   "id": "chapter-17",
+   "title": "Chapter 17. Devotion to the Holy Ghost",
+   "from": 12382
+  }
+ ]
+}
