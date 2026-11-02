@@ -1,0 +1,66 @@
+{
+  "id": "walter-contra-quatuor-labyrinthos",
+  "cover": "classic",
+  "name": {
+    "la": "Contra quatuor labyrinthos Franciae",
+    "en-US": "Against the Four Labyrinths of France",
+    "pt-BR": "Contra os quatro labirintos da França"
+  },
+  "author": {
+    "la": "Gualterus de Sancto Victore",
+    "en-US": "Walter of St. Victor",
+    "pt-BR": "Gualtério de São Vítor"
+  },
+  "description": {
+    "la": "Excerpta ex libris Gualteri contra quatuor labyrinthos Franciae (Abaelardum, Lombardum, Petrum Pictavinum, Gilbertum Porretanum).",
+    "en-US": "Walter of St. Victor’s polemic against Abelard, Peter Lombard, Peter of Poitiers and Gilbert of Poitiers as the four labyrinths of France, in the excerpts printed by Migne from Du Boulay. Latin only, from the Migne text (Patrologia Latina 199, 1855), a machine-corrected OCR.",
+    "pt-BR": "A polêmica de Gualtério de São Vítor contra Abelardo, Pedro Lombardo, Pedro de Poitiers e Gilberto de Poitiers, os quatro labirintos da França, nos excertos impressos por Migne."
+  },
+  "composed": "c. 1179",
+  "languages": [
+    "la"
+  ],
+  "work": "walter/contra-quatuor-labyrinthos",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 199)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=GuSViPa.ExExLiC2",
+      "edition": "Migne, Patrologia Latina 199 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text GuSViPa.ExExLiC2, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Ex libro primo."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Ex libro secundo"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Ex libro tertio."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Ex libro quarto."
+      }
+    }
+  ]
+}
