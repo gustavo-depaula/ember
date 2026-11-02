@@ -1,0 +1,196 @@
+{
+  "id": "eudes-kenedy-sacred-heart",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Sacred Heart of Jesus",
+    "pt-BR": "O Sagrado Coração de Jesus"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "en-US": "The 1946 English translation of Book XII of the Admirable Heart, on the Sacred Heart of Jesus (Dom Richard Flower, O.S.B.).",
+    "pt-BR": "A tradução inglesa de 1946 do Livro XII do Coração admirável, sobre o Sagrado Coração de Jesus."
+  },
+  "composed": 1946,
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-eudes/coeur-admirable",
+  "editions": {
+    "en-US": {
+      "translator": "Dom Richard Flower, O.S.B.",
+      "year": 1946
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.liberius.net/livres/The_Sacred_Heart_of_Jesus_000000344.pdf",
+      "edition": "The Sacred Heart of Jesus, translated by Dom Richard Flower, O.S.B., New York, P. J. Kenedy & Sons, 1946. Text layer of the Bibliothèque Saint Libère PDF (liberius.net), from the Eudist Fathers series, 1946–48.",
+      "description": "Converted by script: running heads and page numbers removed, paragraphs rejoined, hyphenation repaired. The OCR of the PDF text layer leaves some residual errors (for example 0 for O, rn for m); the translator’s introduction and notes are kept. The translation is not aligned chapter by chapter to the French edition, so it is a separate book.",
+      "tier": "B",
+      "tierEvidence": "Copyright 1946–48 P. J. Kenedy & Sons; no renewal in the Copyright Office records 1950–2001."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sh-01",
+      "title": {
+        "en-US": "Chapter I: The Sacred Heart of Jesus is a Furnace: Of Burning Love"
+      }
+    },
+    {
+      "id": "sh-02",
+      "title": {
+        "en-US": "Chapter 2: The Sacred Heart of Jesus is a Furnace: Of Ardent Love for his Most"
+      }
+    },
+    {
+      "id": "sh-03",
+      "title": {
+        "en-US": "Chapter 3: The Sacred Heart of Jesus Has Endowed: His Blessed Mother with Wondrous"
+      }
+    },
+    {
+      "id": "sh-04",
+      "title": {
+        "en-US": "Chapter 4: The Sacred He.art of Jesus Was Filled: With Bitter Sorrow at the Sight"
+      }
+    },
+    {
+      "id": "sh-05",
+      "title": {
+        "en-US": "Chapter 5: The Sacred Heart of Jesus is a Furnace of: Love for the Church Triumphant,"
+      }
+    },
+    {
+      "id": "sh-06",
+      "title": {
+        "en-US": "Chapter 6: The Sacred Heart of Jesus is a Furnace: Of Love for Each One of Us"
+      }
+    },
+    {
+      "id": "sh-07",
+      "title": {
+        "en-US": "Chapter 7: The Sacred Heart of Jesus is a Furnace: Of Love for Us in the Blessed"
+      }
+    },
+    {
+      "id": "sh-08",
+      "title": {
+        "en-US": "Chapter 8: The Sacred Heart of Jesus is a Furnace: Burning with Love for Us"
+      }
+    },
+    {
+      "id": "sh-09",
+      "title": {
+        "en-US": "Chapter 9: The Sacred Heart of Jesus is One with the: Heart of the Father and the Holy"
+      }
+    },
+    {
+      "id": "sh-10",
+      "title": {
+        "en-US": "Chapter 10: The Sacred Heart of Jesus is Our: Treasure House"
+      }
+    },
+    {
+      "id": "sh-11",
+      "title": {
+        "en-US": "Chapter II: The Sacred Heart of Jesus Loves Us as his: Father Loves Him. What We Should"
+      }
+    },
+    {
+      "id": "sh-12",
+      "title": {
+        "en-US": "Chapter 12: Beautiful Words on the Love of the Sacred: Heart of Jesus, Taken from the Thirty"
+      }
+    },
+    {
+      "id": "sh-13",
+      "title": {
+        "en-US": "Chapter 13: Thoughts of the Seraphic Saint Bonaventure: On the Love of the Sacred"
+      }
+    },
+    {
+      "id": "sh-14",
+      "title": {
+        "en-US": "Chapter 14: Several Wonderful Things About the Sacred: Heart of Jesus, Related in the Life"
+      }
+    },
+    {
+      "id": "sh-15",
+      "title": {
+        "en-US": "Chapter 15: A Pious and Loving Exercise on the Sorrows: Of the Heart of Jesus and of the Holy"
+      }
+    },
+    {
+      "id": "sh-16",
+      "title": {
+        "en-US": "Chapter 16: Exercises of Love and Devotion to the: Sacred Heart of Jesus, from Pharetra"
+      }
+    },
+    {
+      "id": "sh-17",
+      "title": {
+        "en-US": "Chapter 17: Another Exercise to the Sacred Heart: Of Jesus, Taken from Saint Gertrude's"
+      }
+    },
+    {
+      "id": "sh-18",
+      "title": {
+        "en-US": "Chapter 18: Colloquy of a Holy Soul, in Solitude,: With the Sacred Heart of Jesus"
+      }
+    },
+    {
+      "id": "sh-19",
+      "title": {
+        "en-US": "Chapter 19: Forty Flames or Aspirations of Love: Offered to the Loving Heart (1)"
+      }
+    },
+    {
+      "id": "sh-20",
+      "title": {
+        "en-US": "Chapter 19: Forty Flames or Aspirations of Love: Offered to the Loving Heart (2)"
+      }
+    },
+    {
+      "id": "sh-21",
+      "title": {
+        "en-US": "Chapter 19: Forty Flames or Aspirations of Love: Offered to the Loving Heart (3)"
+      }
+    },
+    {
+      "id": "sh-22",
+      "title": {
+        "en-US": "Chapter 19: Forty Flames or Aspirations of Love: Offered to the Loving Heart (4)"
+      }
+    },
+    {
+      "id": "sh-23",
+      "title": {
+        "en-US": "Chapter 19: Forty Flames or Aspirations of Love: Offered to the Loving Heart (5)"
+      }
+    },
+    {
+      "id": "sh-24",
+      "title": {
+        "en-US": "Chapter 19: Forty Flames or Aspirations of Love: Offered to the Loving Heart (6)"
+      }
+    },
+    {
+      "id": "sh-25",
+      "title": {
+        "en-US": "Chapter 19: Forty Flames or Aspirations of Love: Offered to the Loving Heart (7)"
+      }
+    },
+    {
+      "id": "sh-26",
+      "title": {
+        "en-US": "Chapter 19: Forty Flames or Aspirations of Love: Offered to the Loving Heart (8)"
+      }
+    }
+  ]
+}
