@@ -1,0 +1,132 @@
+{
+  "id": "fenelon-quietisme-lettres-chartres",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Querelle du quiétisme VI : Lettres à M. de Chartres (1698-1699)",
+    "en-US": "The Quietism Dispute VI: Letters to the Bishop of Chartres (1698-1699)",
+    "pt-BR": "Querela do quietismo VI: Cartas ao bispo de Chartres (1698-1699)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "La Lettre pastorale de Mgr Godet des Marais, évêque de Chartres, sur le livre des Maximes (juin 1698), que l’édition place avant les réponses, les deux Lettres de Fénelon pour y répondre (septembre 1698) et les deux Lettres en réponse à la Lettre d’un théologien (mars 1699).",
+    "en-US": "The pastoral letter of Godet des Marais, Bishop of Chartres, on the book of the Maxims (June 1698), which the edition prints before the replies, Fénelon’s two Letters answering it (September 1698) and the two Letters in reply to the Letter of a Theologian (March 1699).",
+    "pt-BR": "A Carta pastoral de Godet des Marais, bispo de Chartres, sobre o livro das Máximas (junho de 1698), que a edição imprime antes das respostas, as duas Cartas de Fénelon que lhe respondem (setembro de 1698) e as duas Cartas em resposta à Carta de um teólogo (março de 1699)."
+  },
+  "composed": "1698–1699",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettres-a-l-eveque-de-chartres",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte03fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 3, p. 88–188; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-lettre-pastorale-de-chartres",
+      "title": {
+        "fr-FR": "Lettre pastorale de M. l’évêque de Chartres sur le livre des Maximes (écrit adressé à Fénelon)"
+      },
+      "children": [
+        {
+          "id": "01-lettre-pastorale-de-chartres-01",
+          "title": {
+            "fr-FR": "Lettre pastorale de M. l’évêque de Chartres sur le livre des Maximes (écrit adressé à Fénelon), partie 1"
+          }
+        },
+        {
+          "id": "01-lettre-pastorale-de-chartres-02",
+          "title": {
+            "fr-FR": "Lettre pastorale de M. l’évêque de Chartres sur le livre des Maximes (écrit adressé à Fénelon), partie 2"
+          }
+        },
+        {
+          "id": "01-lettre-pastorale-de-chartres-03",
+          "title": {
+            "fr-FR": "Lettre pastorale de M. l’évêque de Chartres sur le livre des Maximes (écrit adressé à Fénelon), partie 3"
+          }
+        },
+        {
+          "id": "01-lettre-pastorale-de-chartres-04",
+          "title": {
+            "fr-FR": "Lettre pastorale de M. l’évêque de Chartres sur le livre des Maximes (écrit adressé à Fénelon), partie 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-lettres-reponse-a-chartres",
+      "title": {
+        "fr-FR": "Lettres pour servir de réponse à la Lettre pastorale de M. l’évêque de Chartres"
+      },
+      "children": [
+        {
+          "id": "02-lettres-reponse-a-chartres-01",
+          "title": {
+            "fr-FR": "Lettres pour servir de réponse à la Lettre pastorale de M. l’évêque de Chartres, partie 1"
+          }
+        },
+        {
+          "id": "02-lettres-reponse-a-chartres-02",
+          "title": {
+            "fr-FR": "Lettres pour servir de réponse à la Lettre pastorale de M. l’évêque de Chartres, partie 2"
+          }
+        },
+        {
+          "id": "02-lettres-reponse-a-chartres-03",
+          "title": {
+            "fr-FR": "Lettres pour servir de réponse à la Lettre pastorale de M. l’évêque de Chartres, partie 3"
+          }
+        },
+        {
+          "id": "02-lettres-reponse-a-chartres-04",
+          "title": {
+            "fr-FR": "Lettres pour servir de réponse à la Lettre pastorale de M. l’évêque de Chartres, partie 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03-lettres-reponse-a-un-theologien",
+      "title": {
+        "fr-FR": "Lettres à M. l’évêque de Chartres en réponse à la Lettre d’un théologien"
+      },
+      "children": [
+        {
+          "id": "03-lettres-reponse-a-un-theologien-01",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Chartres en réponse à la Lettre d’un théologien, partie 1"
+          }
+        },
+        {
+          "id": "03-lettres-reponse-a-un-theologien-02",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Chartres en réponse à la Lettre d’un théologien, partie 2"
+          }
+        },
+        {
+          "id": "03-lettres-reponse-a-un-theologien-03",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Chartres en réponse à la Lettre d’un théologien, partie 3"
+          }
+        }
+      ]
+    }
+  ]
+}
