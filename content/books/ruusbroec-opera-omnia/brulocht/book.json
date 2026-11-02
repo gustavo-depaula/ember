@@ -1,0 +1,732 @@
+{
+  "id": "ruusbroec-brulocht",
+  "cover": "classic",
+  "name": {
+    "dum": "Die chierheit der gheesteliker brulocht",
+    "en-US": "The Spiritual Espousals (Adornment of the Spiritual Marriage)",
+    "pt-BR": "As Bodas Espirituais"
+  },
+  "author": {
+    "dum": "Jan van Ruusbroec (1293-1381)",
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "dum": "Ruusbroecs hoofdwerk in drie boeken: het werkende leven, het innige leven en het godschouwende leven, naar Mt 25,6 'Ecce sponsus venit'. Middelnederlandse tekst van J. B. David (1868), met handschriftvarianten en Surius' Latijn in voetnoten.",
+    "en-US": "Ruusbroec's masterpiece in three books on the active, the interior and the contemplative life, a commentary on 'Behold the Bridegroom comes' (Mt 25:6). The Middle Dutch text of J. B. David (1868), with manuscript variants and Surius' Latin readings in footnotes.",
+    "pt-BR": "A obra-prima de Ruusbroec em três livros sobre a vida ativa, a vida interior e a vida contemplativa, comentário de 'Eis o Esposo que vem' (Mt 25,6). Texto em neerlandês médio de J. B. David (1868), com variantes de manuscritos em notas."
+  },
+  "composed": "c. 1335-1345",
+  "languages": [
+    "dum"
+  ],
+  "work": "ruusbroec/brulocht",
+  "editions": {
+    "dum": {
+      "editor": "Jan Baptist David",
+      "year": 1868
+    }
+  },
+  "sources": [
+    {
+      "language": "dum",
+      "url": "https://www.dbnl.org/tekst/ruus001vlae06_01/",
+      "edition": "Jan van Ruusbroec, Werken, ed. J. B. David, deel 6: Hier beghint die chierheit der gheesteleker brulocht. Dat ierste boec. (Gent: Maetschappy der Vlaemsche Bibliophilen, 1868).",
+      "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
+      "tier": "A",
+      "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    }
+  ],
+  "toc": [
+    {
+      "id": "boek-1",
+      "title": {
+        "dum": "Het eerste boek: het werkende leven"
+      },
+      "children": [
+        {
+          "id": "b1-prologhe",
+          "title": {
+            "dum": "Prologhe. Ecce Sponsus venit, exite obviam ei"
+          }
+        },
+        {
+          "id": "b1-c001",
+          "title": {
+            "dum": "I. Hier gaet an dat werkende leven"
+          }
+        },
+        {
+          "id": "b1-c002",
+          "title": {
+            "dum": "II. Hoe wi merken selen die toecomst Christi in ·iij· manieren"
+          }
+        },
+        {
+          "id": "b1-c003",
+          "title": {
+            "dum": "III. Van ·ij· manieren van oetmoedicheiden in Christo"
+          }
+        },
+        {
+          "id": "b1-c004",
+          "title": {
+            "dum": "IV. Van der ander wisen in caritate, ghechiert mit allen doechden"
+          }
+        },
+        {
+          "id": "b1-c005",
+          "title": {
+            "dum": "V. Vander derder wisen in doghen met verduldicheiden toter dood toe"
+          }
+        },
+        {
+          "id": "b1-c006",
+          "title": {
+            "dum": "VI. Vander ander toecomste Christi"
+          }
+        },
+        {
+          "id": "b1-c007",
+          "title": {
+            "dum": "VII. Hoe men daghelics toenemt overmits die heilighe Sacramente"
+          }
+        },
+        {
+          "id": "b1-c008",
+          "title": {
+            "dum": "VIII. Vander derder toecomsten Christi"
+          }
+        },
+        {
+          "id": "b1-c009",
+          "title": {
+            "dum": "IX. Hoe hem Christus houden sal in dat leste ordel"
+          }
+        },
+        {
+          "id": "b1-c010",
+          "title": {
+            "dum": "X. Van vive partiën van menscen die comen moeten ten ordele"
+          }
+        },
+        {
+          "id": "b1-c011",
+          "title": {
+            "dum": "XI. Van een gheestelijc uutgaen in alle dogheden"
+          }
+        },
+        {
+          "id": "b1-c012",
+          "title": {
+            "dum": "XII. Hoe oetmoedicheït een fondament is alre dogheden"
+          }
+        },
+        {
+          "id": "b1-c013",
+          "title": {
+            "dum": "XIII. Vander Ghehoirsamheit"
+          }
+        },
+        {
+          "id": "b1-c014",
+          "title": {
+            "dum": "XIV. Van vertyïnghen eighens willen"
+          }
+        },
+        {
+          "id": "b1-c015",
+          "title": {
+            "dum": "XV. Van Verduldicheiden"
+          }
+        },
+        {
+          "id": "b1-c016",
+          "title": {
+            "dum": "XVI. Van Saechtmoedicheiden"
+          }
+        },
+        {
+          "id": "b1-c017",
+          "title": {
+            "dum": "XVII. Van Goedertierenheiden"
+          }
+        },
+        {
+          "id": "b1-c018",
+          "title": {
+            "dum": "XVIII. Van Compassiën"
+          }
+        },
+        {
+          "id": "b1-c019",
+          "title": {
+            "dum": "XIX. Van Mildicheiden"
+          }
+        },
+        {
+          "id": "b1-c020",
+          "title": {
+            "dum": "XX. Van Erenste ende Vlieticheden"
+          }
+        },
+        {
+          "id": "b1-c021",
+          "title": {
+            "dum": "XXI. Van Mate ende Soberheden"
+          }
+        },
+        {
+          "id": "b1-c022",
+          "title": {
+            "dum": "XXII. Van Reinicheden"
+          }
+        },
+        {
+          "id": "b1-c023",
+          "title": {
+            "dum": "XXIII. Van drieën vianden te verwinnene overmits Gherechticheit"
+          }
+        },
+        {
+          "id": "b1-c024",
+          "title": {
+            "dum": "XXIV. Van den rike der sielen"
+          }
+        },
+        {
+          "id": "b1-c025",
+          "title": {
+            "dum": "XXV. Van enen gheesteliken ontmoeten tusscen Gode ende ons"
+          }
+        },
+        {
+          "id": "b1-c026",
+          "title": {
+            "dum": "XXVI. Hoe men begheert te bekennene den bruidegom in sijnre naturen"
+          }
+        }
+      ]
+    },
+    {
+      "id": "boek-2",
+      "title": {
+        "dum": "Het tweede boek: het innige leven"
+      },
+      "children": [
+        {
+          "id": "b2-prologhe",
+          "title": {
+            "dum": "Prologhe"
+          }
+        },
+        {
+          "id": "b2-c001",
+          "title": {
+            "dum": "I. Hoe men overnatuerlike siende wert in ynnigher oefeninghen"
+          }
+        },
+        {
+          "id": "b2-c002",
+          "title": {
+            "dum": "II. Van drierhande enicheiden, die in ons is van naturen"
+          }
+        },
+        {
+          "id": "b2-c003",
+          "title": {
+            "dum": "III. Vanden invlote der graciën Gods in onsen gheeste"
+          }
+        },
+        {
+          "id": "b2-c004",
+          "title": {
+            "dum": "IV. Hoe wi ynnicheit fonderen selen in onverbeelder vriheit"
+          }
+        },
+        {
+          "id": "b2-c005",
+          "title": {
+            "dum": "V. Van drierhande toecomst ons Heren inden ynnighen mensche"
+          }
+        },
+        {
+          "id": "b2-c006",
+          "title": {
+            "dum": "VI. Vander ander toecomst ons Heren inden ynnighen mensche"
+          }
+        },
+        {
+          "id": "b2-c007",
+          "title": {
+            "dum": "VII. Vander derder toecomst ons Heren"
+          }
+        },
+        {
+          "id": "b2-c008",
+          "title": {
+            "dum": "VIII. Dierste van den ·iij· heeft ·iiij· wisen, en die vorste sticht ynnicheit"
+          }
+        },
+        {
+          "id": "b2-c009",
+          "title": {
+            "dum": "IX. Vander enicheit des herten"
+          }
+        },
+        {
+          "id": "b2-c010",
+          "title": {
+            "dum": "X. Hoe die doechde ute enicheiden voirt gaen"
+          }
+        },
+        {
+          "id": "b2-c011",
+          "title": {
+            "dum": "XI. Van ghevoelliker minnen"
+          }
+        },
+        {
+          "id": "b2-c012",
+          "title": {
+            "dum": "XII. Van devociën"
+          }
+        },
+        {
+          "id": "b2-c013",
+          "title": {
+            "dum": "XIII. Van danclicheiden"
+          }
+        },
+        {
+          "id": "b2-c014",
+          "title": {
+            "dum": "XIV. Van tweerhande wee, uit innighen danke sprutende"
+          }
+        },
+        {
+          "id": "b2-c015",
+          "title": {
+            "dum": "XV. Een ghelikenisse hoemen die ierste wise oefenen sal"
+          }
+        },
+        {
+          "id": "b2-c016",
+          "title": {
+            "dum": "XVI. Nog een exempel vander selver oefeninghen"
+          }
+        },
+        {
+          "id": "b2-c017",
+          "title": {
+            "dum": "XVII. Vander andere wisen die met oetmoede ynnicheit hoghet"
+          }
+        },
+        {
+          "id": "b2-c018",
+          "title": {
+            "dum": "XVIII. Vander suver ghenoechten der herten ende der ghevoeliker crachten"
+          }
+        },
+        {
+          "id": "b2-c019",
+          "title": {
+            "dum": "XIX. Van gheesteliker dronkenheiden"
+          }
+        },
+        {
+          "id": "b2-c020",
+          "title": {
+            "dum": "XX. Wat den mensche hinderen mach in deser dronkenheit"
+          }
+        },
+        {
+          "id": "b2-c021",
+          "title": {
+            "dum": "XXI. Een exempel hoe hem de mensche oefenen ende draghen sal in deser wisen"
+          }
+        },
+        {
+          "id": "b2-c022",
+          "title": {
+            "dum": "XXII. Vander derder wisen der gheesteliker toecomst Christi"
+          }
+        },
+        {
+          "id": "b2-c023",
+          "title": {
+            "dum": "XXIII. Vander qualen ende ongheduricheden der liefden"
+          }
+        },
+        {
+          "id": "b2-c024",
+          "title": {
+            "dum": "XXIV. Van opghetoghenheden ende openbaringhen Gods"
+          }
+        },
+        {
+          "id": "b2-c025",
+          "title": {
+            "dum": "XXV. Van tween exemplen die leren hoemen ghehindert wert in deser derder wisen"
+          }
+        },
+        {
+          "id": "b2-c026",
+          "title": {
+            "dum": "XXVI. Van een ander exempel"
+          }
+        },
+        {
+          "id": "b2-c027",
+          "title": {
+            "dum": "XXVII. Eene ghelikenisse vander mieren"
+          }
+        },
+        {
+          "id": "b2-c028",
+          "title": {
+            "dum": "XXVIII. Vander vierder manieren der toecomst Christi"
+          }
+        },
+        {
+          "id": "b2-c029",
+          "title": {
+            "dum": "XXIX. Wat de ghelaten mensche doen sal"
+          }
+        },
+        {
+          "id": "b2-c030",
+          "title": {
+            "dum": "XXX. Een ghelikenisse hoemen ghehindert mach werden in deser vierder wisen"
+          }
+        },
+        {
+          "id": "b2-c031",
+          "title": {
+            "dum": "XXXI. Noch van eener andere hindernisse"
+          }
+        },
+        {
+          "id": "b2-c032",
+          "title": {
+            "dum": "XXXII. Van viere manieren van reden die deren moghen den menschen"
+          }
+        },
+        {
+          "id": "b2-c033",
+          "title": {
+            "dum": "XXXIII. Een exempel hoe wi in Christo dese viere wisen vinden volcomen"
+          }
+        },
+        {
+          "id": "b2-c034",
+          "title": {
+            "dum": "XXXIV. Hoe die mensche leven moet, sal hi verklaert werden"
+          }
+        },
+        {
+          "id": "b2-c035",
+          "title": {
+            "dum": "XXXV. Vander ander toecomst Christi"
+          }
+        },
+        {
+          "id": "b2-c036",
+          "title": {
+            "dum": "XXXVI. Hoe dierste riviere deser fonteinen chiert de memorie"
+          }
+        },
+        {
+          "id": "b2-c037",
+          "title": {
+            "dum": "XXXVII. Hoe die andere riviere verclaert dat verstennisse"
+          }
+        },
+        {
+          "id": "b2-c038",
+          "title": {
+            "dum": "XXXVIII. Hoemen comt in een verwonderen van den ghemeyne utevloyene Gods"
+          }
+        },
+        {
+          "id": "b2-c039",
+          "title": {
+            "dum": "XXXIX. Hoe die derde riviere stedecht den wille in alre volmaectheit"
+          }
+        },
+        {
+          "id": "b2-c040",
+          "title": {
+            "dum": "XL. Hoe die mensche die ghestedecht is ute sal gaen in vier manieren"
+          }
+        },
+        {
+          "id": "b2-c041",
+          "title": {
+            "dum": "XLI. Dat ierste utegaen sal syn te Gode en tote allen Heylighen"
+          }
+        },
+        {
+          "id": "b2-c042",
+          "title": {
+            "dum": "XLII. Dat ander utegaen sal sijn tote allen sondighen menschen"
+          }
+        },
+        {
+          "id": "b2-c043",
+          "title": {
+            "dum": "XLIII. Dat ·iij· uutgaen sal sijn tote sinen vrienden in den Vagheviere"
+          }
+        },
+        {
+          "id": "b2-c044",
+          "title": {
+            "dum": "XLIV. Dat vierde uutgaen es te hem selven en te allen goeden menschen"
+          }
+        },
+        {
+          "id": "b2-c045",
+          "title": {
+            "dum": "XLV. Hoe men die bekennen sal die ghehindert werden in ghemeinre minnen"
+          }
+        },
+        {
+          "id": "b2-c046",
+          "title": {
+            "dum": "XLVI. Hoe Christus een ghemeine minnare was, ende es ende blijft sonder einde"
+          }
+        },
+        {
+          "id": "b2-c047",
+          "title": {
+            "dum": "XLVII. Een berespen alle der ghene, die van gheesteliken goede leven, ende ongheordent sijn"
+          }
+        },
+        {
+          "id": "b2-c048",
+          "title": {
+            "dum": "XLVIII. Hoe hem Christus ghemein ghelaten hevet inden Sacramente dies outaers"
+          }
+        },
+        {
+          "id": "b2-c049",
+          "title": {
+            "dum": "XLIX. Van enicheit der naturen Gods in drieheit der personen"
+          }
+        },
+        {
+          "id": "b2-c050",
+          "title": {
+            "dum": "L. Een ghelikenisse hoe God die siele besit ende beweghet natuerlike ende overnatuerlike"
+          }
+        },
+        {
+          "id": "b2-c051",
+          "title": {
+            "dum": "LI. Hoe die mensche gheciert moet sijn, sal hi die ynnichste oefeninghe ontfaen"
+          }
+        },
+        {
+          "id": "b2-c052",
+          "title": {
+            "dum": "LII. Vander derder toecomst Christi, die ons volmaect in ynnigher oefeninghen, ende vanden innichsten uteganc des gheests overmits een godlic gherinen"
+          }
+        },
+        {
+          "id": "b2-c053",
+          "title": {
+            "dum": "LIII. Van enen ewighen honghere dien onse gheest ghevoelt te Gode"
+          }
+        },
+        {
+          "id": "b2-c054",
+          "title": {
+            "dum": "LIV. Van enen minliken stride tusschen Gods gheeste ende onsen gheeste"
+          }
+        },
+        {
+          "id": "b2-c055",
+          "title": {
+            "dum": "LV. Vanden vruchtbaren werken des gheests die ewich sijn"
+          }
+        },
+        {
+          "id": "b2-c056",
+          "title": {
+            "dum": "LVI. Hoe wi gheestelike Gode ontmoeten selen met middele ende sonder middel"
+          }
+        },
+        {
+          "id": "b2-c057",
+          "title": {
+            "dum": "LVII. Van den weseliken ontmoete Gods in bloter naturen, dat sonder middel is"
+          }
+        },
+        {
+          "id": "b2-c058",
+          "title": {
+            "dum": "LVIII. Hoemen Gode ghelijc es overmits gracie, oft onghelijc overmits dootsonde"
+          }
+        },
+        {
+          "id": "b2-c059",
+          "title": {
+            "dum": "LIX. Hoemen Gode besit in enicheiden ende rasten, boven alle ghelijcheit der gracien"
+          }
+        },
+        {
+          "id": "b2-c060",
+          "title": {
+            "dum": "LX. Hoe der gracien Gods noot is, die ons ghelijc maect, ende sonder middel leydet tot Gode"
+          }
+        },
+        {
+          "id": "b2-c061",
+          "title": {
+            "dum": "LXI. Vander visitatiën Gods ende ons gheests in enicheiden ende in ghelijcheiden"
+          }
+        },
+        {
+          "id": "b2-c062",
+          "title": {
+            "dum": "LXII. Hoe wi Gode ontmoeten selen in allen onsen werken"
+          }
+        },
+        {
+          "id": "b2-c063",
+          "title": {
+            "dum": "LXIII. Ene ordinantie alre doghede, overmits die seven gaven des heylichs Gheests"
+          }
+        },
+        {
+          "id": "b2-c064",
+          "title": {
+            "dum": "LXIV. Vander gaven der Starcheit"
+          }
+        },
+        {
+          "id": "b2-c065",
+          "title": {
+            "dum": "LXV. Vander gaven des Raets"
+          }
+        },
+        {
+          "id": "b2-c066",
+          "title": {
+            "dum": "LXVI. Vanden eersten grade der gaven van Verstendicheit"
+          }
+        },
+        {
+          "id": "b2-c067",
+          "title": {
+            "dum": "LXVII. Vanden anderen grade der gaven van Verstendicheit"
+          }
+        },
+        {
+          "id": "b2-c068",
+          "title": {
+            "dum": "LXVIII. Vanden derden grade der gaven van Verstandenis"
+          }
+        },
+        {
+          "id": "b2-c069",
+          "title": {
+            "dum": "LXIX. Vander gaven der Wijsheit"
+          }
+        },
+        {
+          "id": "b2-c070",
+          "title": {
+            "dum": "LXX. Van den hoogsten grade des ynnigsten levens"
+          }
+        },
+        {
+          "id": "b2-c071",
+          "title": {
+            "dum": "LXXI. Van drien wisen der innichster oefeninghen"
+          }
+        },
+        {
+          "id": "b2-c072",
+          "title": {
+            "dum": "LXXII. Vander ander wisen der innichster oefeninghen"
+          }
+        },
+        {
+          "id": "b2-c073",
+          "title": {
+            "dum": "LXXIII. Vander derder wisen der ynnichster oefeninghen"
+          }
+        },
+        {
+          "id": "b2-c074",
+          "title": {
+            "dum": "LXXIV. Hoe selke menschen leven contrarie desen drien wisen"
+          }
+        },
+        {
+          "id": "b2-c075",
+          "title": {
+            "dum": "LXXV. Van den anderen die hare werke werken in contrarien der andere wisen"
+          }
+        },
+        {
+          "id": "b2-c076",
+          "title": {
+            "dum": "LXXVI. Vanden derden die sijn contrarie den drien wisen ende alre doghet"
+          }
+        },
+        {
+          "id": "b2-c077",
+          "title": {
+            "dum": "LXXVII. Van eenre ander partiën verkeerder menschen"
+          }
+        }
+      ]
+    },
+    {
+      "id": "boek-3",
+      "title": {
+        "dum": "Het derde boek: het godschouwende leven"
+      },
+      "children": [
+        {
+          "id": "b3-c001",
+          "title": {
+            "dum": "I. Hoe men komt in een Godscouwende leven overmits drie punten"
+          }
+        },
+        {
+          "id": "b3-c002",
+          "title": {
+            "dum": "II. Hoe hem die mensche oefenen moet, sal hi dat ewighe licht onfaen ende God scouwen"
+          }
+        },
+        {
+          "id": "b3-c003",
+          "title": {
+            "dum": "III. Hoe die ewighe gheboirt Gods sonder onderlaet vernuwet in edelheit des gheests"
+          }
+        },
+        {
+          "id": "b3-c004",
+          "title": {
+            "dum": "IV. Hoe onsegheest wert gheëyscht ute te gane in scouwen ende in ghebruken"
+          }
+        },
+        {
+          "id": "b3-c005",
+          "title": {
+            "dum": "V. Van enen ewighen ute gane dat wi hebben in die gheboirt des Soens"
+          }
+        },
+        {
+          "id": "b3-c006",
+          "title": {
+            "dum": "VI. Van enen Godliken ontmoete dat gheoefent wert in de verborghenheit ons gheests"
+          }
+        }
+      ]
+    }
+  ]
+}
