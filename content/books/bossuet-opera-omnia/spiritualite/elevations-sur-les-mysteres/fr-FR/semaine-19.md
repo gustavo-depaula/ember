@@ -48,6 +48,7 @@ Est-il possible que Jésus fût né et son Eglise établie pour donner de la jal
 
 Et vous, Jésus, revenez d'Egypte dans la Judée : vous y naîtrez : vous en sortirez pour aller recueillir comme en Egypte la gentilité dispersée : à la fin vous reviendrez en Judée, pour y rappeler à votre Evangile les restes bénis des Juifs à la fin des siècles (2).[^20]
 
+
 [^1]: *Luc.,* II, 39.
 
 [^2]: *Matth.*, II, 12, 13 et seq.

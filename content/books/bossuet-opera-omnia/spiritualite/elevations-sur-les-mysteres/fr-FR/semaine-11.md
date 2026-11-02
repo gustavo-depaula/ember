@@ -60,6 +60,7 @@ Profitons de cet exemple : quand vous opérerez en moi pomme convertir, Seigneur
 
 Dieu est fidèle et véritable, quoique les hommes soient incrédules; et leur incrédulité n'anéantit pas la promesse de Dieu. Celle qu'il fit faire à Zacharie eut un prompt accomplissement : Elisabeth devint grosse miraculeusement : et il est dit « qu'elle se cacha cinq mois, parce que c'est là, disait-elle[^25], ce que le Seigneur a fait en moi, lorsqu'il a voulu me tirer de l'opprobre où j'étais devant les hommes » à cause de ma stérilité. Les grandes grâces demandent un grand recueillement pour être goûtées à loisir et dans le silence, et pour envoyer au ciel ses remerciements du fond de sa retraite. On ne laisse pas d'entrevoir qu'il entre dans celle d'Elisabeth durant cinq mois, et jusqu'à ce que sa grossesse parût, un secret dessein d'éviter les discours des hommes. Malgré le miracle qui rend féconde une stérile, la conception humaine a dans son fond quelque chose qu'il faut cacher, surtout dans un grand âge : et l'on sait ce que dit Sara dans une occasion semblable[^26]. Mais nous allons voir une conception où il n'y a rien que de saint et à la fois de miraculeux. Il fallait que le Maître fût conçu d'une manière plus haute que celle du précurseur; et que le même ambassadeur qui fut l'ange saint Gabriel, en portant à la sainte Vierge une parole plus excellente et plus relevée, eût aussi un succès plus sublime et plus merveilleux.
 
+
 [^1]: S. August., in *Joan.*, tract. II, n. 7 et seq.
 
 [^2]: *Joan.*, I, 8.

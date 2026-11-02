@@ -86,6 +86,7 @@ Il est naturel à l'homme de se relâcher après le travail. Jamais il ne fait s
 
 Mais croyons que le grand effort de la tentation est dans les approches de la mort, parce que premièrement c'est le temps de la décision, et secondement c'est le temps de la faiblesse. O Dieu! Jamais je ne suis plus faible : tout s'émousse dans la vieillesse, et le courage plus que tout le reste : « Mon Dieu, ne me délaissez pas dans le temps de ma défaillance[^43] : » quand la force me manque et que je n'ai point de ressource ni de courage, mes esprits sont offusqués : j'ai dans le cœur « une réponse de mort[^44] » et de désespoir : Mon Dieu, aidez-moi. Voici le temps dont saint Luc disait : « Il le quitta jusqu'au temps[^45] : » jusqu'au temps de défaillance et d'horreur, jusqu'au temps où dans le dernier affaiblissement les moments sont les plus précieux.
 
+
 [^1]: *Luc*., IV, 1.
 
 [^2]: *Matth.*, IV, 1.

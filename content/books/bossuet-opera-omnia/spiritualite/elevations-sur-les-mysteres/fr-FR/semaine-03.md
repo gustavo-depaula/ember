@@ -94,6 +94,7 @@ Concluons : Dieu a orné et ordonné le monde par sa parole : c'est dans l'ornem
 
 Le premier bon usage qu'on en doit faire, c'est de louer Dieu par ses œuvres. Chantons-lui donc ici en action de grâces le cantique des trois enfants; et invitant tous les ouvrages de Dieu à le Itenir, finissons en nous y invitant nous-mêmes et en disant par-dessus tout : « O enfants des hommes, bénissez le Seigneur! Qu'Israël bénisse le Seigneur : bénissez-le, vous qui êtes ses ministres et ses sacrificateurs : bénissez-le, serviteurs du Seigneur : âmes des justes, bénissez-le : bénissez-le, ô vous tous qui êtes saints et humbles de cœur : louez-le et l'exaltez aux siècles des siècles. Amen[^28]. »
 
+
 [^1]: *Psal.* XV, 2.
 
 [^2]: *Isa.*, I, 11.

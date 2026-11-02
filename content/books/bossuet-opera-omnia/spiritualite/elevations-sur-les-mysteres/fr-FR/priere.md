@@ -12,6 +12,7 @@ C'est donc uniquement pour vous aimer, que je veux vous connaître; et c'est pou
 
 Pour vous bien connaître, ô mon Dieu et cher Sauveur ! je veux toujours, avec votre grâce, vous considérer dans tous vos états et tous vos mystères, et connaître avec vous en même temps votre l'ère qui vous a donné à nous, et le Saint-Esprit que vous nous avez donné tous deux. Et toute ma connaissance ne consistera qu'à me réveiller et à me rendre attentif aux simples et pures idées que je trouverai en moi-même dans les lumières de la foi, ou peut-être dans celles de la raison, aidée et dirigée par la foi même : car c'est ainsi que j'espère parvenir à vous aimer, puisque le propre de la foi, selon ce que dit saint Paul, c'est d'être « opérante et agissante par amour[^9]. » *Amen*.
 
+
 [^1]: *Joan.*, XVII, 3.
 
 [^2]: I *Joan.*, V, 20.

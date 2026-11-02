@@ -64,6 +64,7 @@ C'est par ces mots que finit le prophète Malachie : la prophétie finit avec lu
 
 Entrons ici dans l'esprit des Israélites spirituels, des Juifs cachés qui désiraient le Sauveur, et se consolaient dans cette attente de tous les maux de cette vie. O Jésus, vous êtes celui qui deviez venir : ô Jésus, vous êtes venu : ô Jésus, vous devez encore venir au dernier jour pour recueillir vos élus dans votre repos éternel : ô Jésus, vous allez et venez sans cesse : Vous venez dans nos cœurs ; et vous y faites sentir votre présence par je ne sais quoi de doux, de tendre et de souverain. Que l'esprit et l'épouse disent : « Venez : que celui qui a soif vienne : » car Jésus vient en nous, quand aussi nous venons à lui : « Oui, dit Jésus, je viendrai bientôt. Ah ! venez, venez, Seigneur » Jésus[^73] : venez, le désiré des nations : venez, notre amour et notre espérance, notre force et notre refuge, notre consolation dans le voyage, notre gloire et notre repos éternel dans la patrie.
 
+
 [^1]: *Genes.*, XII, 3 ; XXII. 18.
 
 [^2]: *Ibid.*, XLIX, 10.

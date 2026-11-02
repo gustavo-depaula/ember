@@ -90,6 +90,7 @@ Allons avec larmes confesser nos péchés sur Jésus-Christ : mettons-les sur lu
 
 Brûlez-moi de ce « feu » que vous a êtes venu allumer sur la terre[^58] : » consumez toutes mes inclinations par votre amour, et que je devienne cette pure flamme qui n'a que vous pour pâture : «Je viens, mon Dieu, » avec Jésus-Christ, « pour faire votre volonté[^59]. » Heureux qui finit sa vie par un tel acte ! Nous la devions commencer par là comme Jésus-Christ. Finissons-la du moins en nous consommant dans la volonté de Dieu. « Mon Dieu, je remets mon esprit entre vos mains[^60]. »
 
+
 [^1]: I *Joan.*, II, 20, 27.
 
 [^2]: *Psal.* XLIV, 1, 8.

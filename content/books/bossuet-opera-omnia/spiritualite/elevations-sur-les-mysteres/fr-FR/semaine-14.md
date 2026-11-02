@@ -100,6 +100,7 @@ Regardons ce saint précurseur sanctifié dès le ventre de sa mère. Gomme les 
 
 Savoir si la sainte Vierge vit la naissance de saint Jean, l'Evangile n'a pas voulu nous le découvrir. Elisabeth était dans son sixième mois, quand Marie la vint visiter : elle fut environ trois mois avec elle : elle était donc ou à terme ou bien près de son terme : et l'Evangile ajoute aussi que « le temps d'Elisabeth s'accomplit[^30], » insinuant selon quelques-uns qu'il s'accomplit pendant que Marie était avec elle. Mais qui osera l'assurer, puisque l'Evangile semble avoir évité de le dire? Quoi qu'il en soit, ou Marie attachée à sa solitude, et prévoyant l'abord de tout le monde au temps de l'enfantement d'Elisabeth, le prévint par sa retraite : ou si elle est demeurée avec tous les autres, elle y a été humble et cachée, inconnue, sans s'être fait remarquer dans une si grande assemblée et contente d'avoir agi envers ceux à qui Dieu l'avait envoyée. O humilité! ô silence, qui n'a été interrompu que par un cantique inspiré de Dieu, puissé-je vous imiter toute ma vie !
 
+
 [^1]: *Luc.*, I, 39.
 
 [^2]: *Luc.*, I, 43.

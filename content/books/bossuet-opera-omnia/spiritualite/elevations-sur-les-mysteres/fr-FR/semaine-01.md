@@ -116,6 +116,7 @@ La sainteté est en Dieu une incompatibilité essentielle avec tout péché, ave
 
 Approchez, pécheurs pénitents : purifiez-vous dans la source de la pureté : « Si vos péchés sont rouges comme l'écarlate, je les blanchirai comme la neige[^78]. » Quel merveilleux changement! l'Ethiopien n'a plus la peau noire : elle éclate d'une céleste blancheur : la sainteté de Dieu a fait cet ouvrage : « Soyez donc saints, parce que je suis saint, » dit le Seigneur[^79]. Soyez saints, ministres de Dieu et de ses autels, dispensateurs de sa parole et dé ses mystères, parce que Dieu vous a choisis pour sanctifier son peuple : peuple de Dieu, soyez saint, « parce que Dieu habite au milieu de vous[^80]. » Sanctifiez vos âmes où il veut établir sa demeure, et vos corps qui sont les temples de son Saint-Esprit.
 
+
 [^1]: *Psal.*, XIII, 1.
 
 [^2]: *Exod*., III, 11.

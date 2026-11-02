@@ -124,6 +124,7 @@ Mais la grande peine du péché, celle qui lui est seule proportionnée, c'est l
 
 Car, que peut-il arriver à la créature privée de Dieu, c'est-à-dire, de tout bien? Que lui peut-il arriver, sinon tout mal? « Allez, maudits, au feu éternel[^46] : » et où iront-ils ces malheureux repoussés loin de la lumière, sinon dans les ténèbres éternelles? Où iront-ils éloignés de la paix, sinon au trouble, au désespoir, au « grincement de dents? » Où iront-ils en un mot, éloignés de Dieu, sinon en toute l'horreur que causera l'absence et la privation de tout le bien qui est en lui comme dans la source? « Je te montrerai tout le bien[^47], » dit-il à Moïse, en me montrant moi-même. Que pourra-t-il donc arriver à ceux à qui il refusera sa face et sa présence désirable, sinon qu'il leur montrera tout le mal : et qu'il le leur montrera non-seulement pour le voir, ce qui est affreux ; mais, ce qui est beaucoup plus terrible, pour le sentir par une triste expérience. Et c'est là le juste supplice du pécheur qui se retire de Dieu, que Dieu aussi se retire de lui, et par cette soustraction le prive de tout le bien, et l'investisse irrémédiablement et inexorablement de tout le mal. O Dieu, ô Dieu, je tremble : je suis saisi de frayeur à cette vue. Consolez-moi par l'espérance de votre bonté: rafraîchissez mes entrailles, et soulagez mes os brisés, par Jésus-Christ votre Fils, qui a porté la mort pour me délivrer de ses terreurs et de toutes ses affreuses suites, dont la plus inévitable est l'enfer.
 
+
 [^1]: *Genes.*, III, 1.
 
 [^2]: I *Cor.*, I, 25.

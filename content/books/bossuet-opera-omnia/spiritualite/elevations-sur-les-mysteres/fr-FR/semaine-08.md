@@ -108,6 +108,7 @@ Célébrons donc en foi et en espérance le jour du repos : remontons à l'origi
 
 N'est-ce pas là ce repos que le même Apôtre nous a promis, et ne le goûtons-nous pas dès cette vie? Livrons-nous à Dieu en Jésus-Christ ; et par une sainte soumission à celui qui seul nous peut tirer de tous nos maux, vivons en paix et en joie par le Saint-Esprit.
 
+
 [^1]: *Genes.*, III, 15.
 
 [^2]: *Joan.*, VIII, 44.

@@ -86,6 +86,7 @@ Ce témoignage est semblable à celui de Jésus-Christ : « Qui croit au Fils n'
 
 Nous avons ouï la prédication de saint Jean-Baptiste : un autre Jean, qui est l'apôtre et l'évangéliste, nous l'a racontée. Saint Jean-Baptiste sera bientôt arrêté : il le fut par Hérode, dont il reprenait l'inceste, un peu après le baptême et le jeune de Jésus-Christ. Saint Matthieu marque expressément en ce temps l'avis que reçut Jésus-Christ de la prison de son précurseur[^63]. Saint Luc parle aussi de cette prison aux environs du baptême de Notre-Seigneur[^64]. Il est marqué dans l'évangile de saint Jean, « qu'au commencement du ministère» de Jésus-Christ, le saint précurseur «n'avait point encore été arrêté[^65] : » pour insinuer, qu'il le fut bientôt après : il va donc devenir précurseur d'une nouvelle manière, c'est-à-dire par sa prison et par sa mort, qui devance celle de Jésus et nous y prépare. Ainsi nous n'entendrons plus parler saint Jean-Baptiste : il annoncera le Sauveur d'une autre sorte.[^66]
 
+
 [^1]: *Joan.*, I, 19, 20, 21.
 
 [^2]: *Matth.*, XI, 9, 10, 14.

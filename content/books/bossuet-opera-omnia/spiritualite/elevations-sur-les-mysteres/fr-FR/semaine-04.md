@@ -114,6 +114,7 @@ Encore un coup Dieu a forme les autres animaux en cette sorte : « Que la terre,
 
 Hélas ! hélas ! « L'homme qui a été mis dans un si grand honneur, » distingué des animaux par sa création, « s'est égalé aux bêtes insensées, et leur a été fait semblable[^57]. »
 
+
 [^1]: *Job*., IV, 18.
 
 [^2]: *Hebr*., XII, 22.

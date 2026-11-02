@@ -58,15 +58,7 @@ C'est ce qui parut à Jérusalem sur l'interrogation des mages. Les pontifes et 
 
 Voici encore une autre merveille : c'est à la poursuite d'Hérode que se fait cette authentique déclaration de toute la synagogue : Hérode ne fut poussé à la consulter que par la jalouse fureur qu'il va bientôt déclarer ; mais Dieu se sert des méchants et de leurs aveugles passions pour la manifestation de ses vérités.
 
-Il y a encore ici un autre secret. Dieu cache souvent ses mystères d'une manière étonnante. C'était un des embarras de ceux qui avaient de la peine à reconnaître Jésus-Christ, qu'il paraissait Galiléen, et que Nazareth était sa patrie. « Le Christ doit-il venir de Galilée? Ne savons-nous pas, disent-ils, qu'il doit naître du sang de David, et même de la bourgade de Bethléem, où David demeurait[^25]?» Et Nathanaël, cet homme «sans fard et fraude, ce vrai Israélite,» ne fut-il pas lui-même dans cet embarras,
-
-1 *Matth.*, XXIII, 2,3. — 2 *Ibid*., II, 2, 5, 6. — 3 *Mich*., V, 2 — 4 *Joan*., VII, 41, 42.
-
-quand on lui dit : « Nous avons trouvé le Messie : c'est Jésus de Nazareth, fils de Joseph. Quoi, répliqua-t-il, peut-il venir quelque chose de bon de Nazareth (1) ? » N'est-ce pas Bethléem, la tribu de Juda, qui nous doit donner ce Christ que vous m'annoncez? Quoique Jésus-Christ put dès lors leur découvrir le lieu de sa naissance, nous ne lisons pas qu'il l'ait fait. Dieu veut que ses mystères soient cherchés.
-
-Approfondissez humblement : ne vous opiniâtrez pas à rejeter Jésus-Christ, sous prétexte qu'un des caractères de sa naissance n'est pas encore éclairci : si vous cherchez bien, vous trouverez que ce Jésus conçu à Nazareth et nourri dans cette ville comme dans son pays, par une secrète conduite de la divine sagesse est venu naître à Bethléem. Ainsi ce qui faisait la difficulté se tourne en preuve pour les humbles : et Dieu avait préparé cette solution de l'énigme, premièrement par le témoignage des bergers, mais dans la suite d'une manière plus éclatante à l'avènement des mages dans Jérusalem.
-
-La demande qu'ils y firent hautement du lieu où devait naître le Christ, fut connue de tout le monde, « et tout Jérusalem en fut troublé aussi bien qu'Hérode. (2) » La réponse de l'assemblée des pontifes et des docteurs consultés par ce roi, ne fut pas moins célèbre : et le meurtre des innocens dans les environs de Bethléem, fit encore éclater cette vérité. Accoutumons-nous aux dénouements de Dieu. Quelle admirable consolation à ceux qui ne savaient pas que Jésus était né à Bethléem, quand ils virent cet admirable accomplissement de la prophétie ! Avec quelle joie s'écrièrent-ils : «Vraiment, ô Bethléem, tu n'es» plus comme auparavant «la plus petite des villes, puisque » tu seras illustrée « par la naissance de celui qui doit conduire Israël (3). » La postérité montrera la *spélonque*, comme on l'appelait, où était né le Sauveur, et les païens le remarqueront eux-mêmes (4). Cette petite bourgade demeurera éternellement mémorable ; on se souviendra à jamais de la prophétie de Michée, qui tant de siècles auparavant a prédit qu'elle verrait naître dans le temps celui dont la naissance est éternelle dans le sein de Dieu : et, comme parle ce prophète, « celui dont la sortie » et la production « est de toute éternité[^26]. »
+Il y a encore ici un autre secret. Dieu cache souvent ses mystères d'une manière étonnante. C'était un des embarras de ceux qui avaient de la peine à reconnaître Jésus-Christ, qu'il paraissait Galiléen, et que Nazareth était sa patrie. « Le Christ doit-il venir de Galilée? Ne savons-nous pas, disent-ils, qu'il doit naître du sang de David, et même de la bourgade de Bethléem, où David demeurait[^25]?» Et Nathanaël, cet homme «sans fard et fraude, ce vrai Israélite,» ne fut-il pas lui-même dans cet embarras, de Dieu : et, comme parle ce prophète, « celui dont la sortie » et la production « est de toute éternité[^26]. »
 
 Admirons comme Dieu sait troubler les hommes par de terribles difficultés, et en même temps les calmer d'une manière ravissante. Mais il faut être attentif à tout, et ne rien oublier : car tout est digne d'attention dans l'œuvre de Dieu ; et l'œuvre de Dieu se trouve en tout, parce que Dieu répand partout des épreuves de la foi et de l'espérance. Commençons par croire malgré les difficultés: car c'est ainsi que fit le bon et sincère Nathanaël, qui, sans attendre l'éclaircissement de la difficulté sur Nazareth, touché des autres motifs qui l'attiraient, dit à Jésus : «Vous êtes le Fils de Dieu : Vous êtes le roi d'Israël. Et Jésus lui dit : Vous verrez de plus grandes choses[^27]. » Parce que vous avez cru d'abord, dès la première étincelle d'une lumière quoique faible et petite encore, de bien plus grands secrets vous seront révélés.
 
@@ -112,6 +104,7 @@ Nous avons, comme les mages, à retourner dans notre patrie. Notre patrie, comme
 
 c'est là tout l'homme[^46]. » Homme, ne dispute plus sur la nature de ton âme, sur les conditions de ta vie : et craindre Dieu et lui obéir, c'est tout l'homme : que cela est clair ! que cette voie est droite! que cette doctrine est simple! On doit l'apercevoir d'abord et dès le premier regard se jeter dans cette voie. Pourquoi tant de laborieuses recherches ? C'est que l'homme, à qui Dieu avait d'abord montré son salut et sa vie dans son saint commandement, s'est laissé trahir par ses sens, et la trompeuse beauté du fruit défendu a été le piège que l'ennemi lui a tendu : de là il s'est engagé dans un labyrinthe d'erreurs où il ne voit plus d'issue. « Revenez, enfants d'Israël, à votre cœur[^47] : » connaissez votre égarement : changez votre voie : si jusqu'ici vous avez cru vos sens, songez à présent que « le juste vit de la foi[^48] : » si jusqu'ici vous avez voulu plaire aux hommes et ménager une fausse gloire, songez maintenant à glorifier Dieu à qui seul la gloire appartient : si jusqu'ici vous avez aimé ce qu'on appelle les aises et les plaisirs, accoutumez-vous à goûter dans les maladies, dans les contradictions, dans toutes sortes d'incommodités, l'amertume qui vient troubler en vous la joie des sens et y réveiller le goût de Dieu.
 
+
 [^1]: *Galat*., X, 1-3 et seq.
 
 [^2]: Hebr., IX, 12, 14 et seq.
@@ -154,13 +147,19 @@ c'est là tout l'homme[^46]. » Homme, ne dispute plus sur la nature de ton âme
 
 [^21]: *Ibid.*, XVI, 11, 12.
 
-[^22]: *Joan*., I, 45-47.
+[^22]: *Matth.*, XXIII, 2,3. *Joan*., I, 45-47.
 
-[^23]: *Matth.*, II, 2-5.
+[^23]: *Ibid*., II, 2, 5, 6. *Matth.*, II, 2-5.
 
-[^24]: *Ibid*., II, 6.
+[^24]: *Mich*., V, 2 *Ibid*., II, 6.
 
-[^25]: Orig., *Cont. Cels*., lib. I, n. 51.
+[^25]: *Joan*., VII, 41, 42.
+
+quand on lui dit : « Nous avons trouvé le Messie : c'est Jésus de Nazareth, fils de Joseph. Quoi, répliqua-t-il, peut-il venir quelque chose de bon de Nazareth (1) ? » N'est-ce pas Bethléem, la tribu de Juda, qui nous doit donner ce Christ que vous m'annoncez? Quoique Jésus-Christ put dès lors leur découvrir le lieu de sa naissance, nous ne lisons pas qu'il l'ait fait. Dieu veut que ses mystères soient cherchés.
+
+Approfondissez humblement : ne vous opiniâtrez pas à rejeter Jésus-Christ, sous prétexte qu'un des caractères de sa naissance n'est pas encore éclairci : si vous cherchez bien, vous trouverez que ce Jésus conçu à Nazareth et nourri dans cette ville comme dans son pays, par une secrète conduite de la divine sagesse est venu naître à Bethléem. Ainsi ce qui faisait la difficulté se tourne en preuve pour les humbles : et Dieu avait préparé cette solution de l'énigme, premièrement par le témoignage des bergers, mais dans la suite d'une manière plus éclatante à l'avènement des mages dans Jérusalem.
+
+La demande qu'ils y firent hautement du lieu où devait naître le Christ, fut connue de tout le monde, « et tout Jérusalem en fut troublé aussi bien qu'Hérode. (2) » La réponse de l'assemblée des pontifes et des docteurs consultés par ce roi, ne fut pas moins célèbre : et le meurtre des innocens dans les environs de Bethléem, fit encore éclater cette vérité. Accoutumons-nous aux dénouements de Dieu. Quelle admirable consolation à ceux qui ne savaient pas que Jésus était né à Bethléem, quand ils virent cet admirable accomplissement de la prophétie ! Avec quelle joie s'écrièrent-ils : «Vraiment, ô Bethléem, tu n'es» plus comme auparavant «la plus petite des villes, puisque » tu seras illustrée « par la naissance de celui qui doit conduire Israël (3). » La postérité montrera la *spélonque*, comme on l'appelait, où était né le Sauveur, et les païens le remarqueront eux-mêmes (4). Cette petite bourgade demeurera éternellement mémorable ; on se souviendra à jamais de la prophétie de Michée, qui tant de siècles auparavant a prédit qu'elle verrait naître dans le temps celui dont la naissance est éternelle dans le sein Orig., *Cont. Cels*., lib. I, n. 51.
 
 [^26]: *Mich*., V, 2.
 

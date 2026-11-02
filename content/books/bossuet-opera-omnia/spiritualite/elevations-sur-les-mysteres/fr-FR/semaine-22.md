@@ -38,6 +38,7 @@ Le Père céleste a paru sur la montagne où Jésus-Christ s'est transfiguré ; 
 
 Il y en a qui prétendent qu'à l'âge d'environ trente ans, avant que de commencer le ministère public d'enseigner le peuple, on était obligé de donner sa généalogie et de la consigner dans le temple ; et que c'est ce qui a donné lieu à saint Luc marquant l'âge de Notre-Seigneur, de rapporter en même temps sa généalogie à l'endroit de son baptême ; par où il se disposait à commencer son ministère. Quoi qu'il en soit, il faut toujours se souvenir qu'il n'était fils de Joseph qu'en apparence, *ut putabatur*, comme le remarque saint Luc[^18]; et que de tous les côtés, en quelque sorte qu'on prît sa généalogie, ou selon la nature, ou selon la loi, il était toujours fils de David. Que s'il est vrai qu'il fallût ainsi rapporter sa race pour être admis au ministère d'enseigner ; que ce soit un témoignage pour les Juifs, mais non pas une loi pour les chrétiens qui ne comptent point d'autre race ni d'autre naissance que celle du baptême où ils sont tout d'un coup enfants de Dieu. Jésus-Christ a montré sa race pour lui et pour nous; il fallait qu'il vînt de David, d'Abraham et du peuple saint : mais nous qui sommes sortis de la gentilité, nous héritons des promesses, comme enfants d'Abraham et de David, par Jésus-Christ à qui nous nous sommes incorporés par la foi[^19].
 
+
 [^1]: *Matth*., III, 13.
 
 [^2]: *Joan.*, I, 31.

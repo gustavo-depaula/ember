@@ -82,6 +82,7 @@ C'est une autre sorte de prodige que Jean-Baptiste, qui avait senti sur la terre
 
 Mourez, orgueil humain ; mourez, curiosité, empressement, désir de paraître : si vous voulez préparer la voie à Jésus et l'introduire dans vos cœurs, mourez tous à la gloire humaine : mourez-y principalement, solitaires sacrés, imitateurs de saint Jean-Baptiste et des prophètes : puissiez-vous aimer la vie séparée : quitter les villes : aimer le désert, vous en faire un dans les villes mêmes, et recevoir la bénédiction des enfants de Jonadab fidèles aux institutions de leur père. Mais nous, fidèles, soyons-le donc à plus forte raison aux commandements sortis de la bouche de Dieu. Si les réchabites, si les moines ont avec raison tant de scrupule, tant de honte de manquer à leurs règles, combien devons-nous trembler à manquer à la loi de Dieu, dit le Seigneur par la bouche de son prophète Jérémie[^44] !
 
+
 [^1]: *Luc.,* I, 57, 58.
 
 [^2]: *Ibid*., 65, 66.

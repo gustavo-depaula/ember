@@ -128,6 +128,7 @@ Croyons donc l'économie du salut ; et comme dit le même disciple bien-aimé, �
 
 Répétons : « Au commencement était le Verbe : » au commencement, au-dessus de tout commencement était le Fils : « Le Fils, c'est, dit saint Basile, un Fils qui n'est pas né par le commandement de son Père, mais qui par puissance et par plénitude a éclaté de son sein : Dieu de Dieu, lumière de lumière, en qui était la vie, qui nous l'a donnée[^89]. » Vivons donc de cette vie éternelle, et mourons à tout le créé. Amen, Amen.
 
+
 [^1]: Luc., I, 26, 27.
 
 [^2]: *Dan.*, IX, 21 et *seq.*

@@ -60,6 +60,7 @@ Je pouvais mourir cependant, puisque je pouvais pécher : j'ai péché, et je su
 
 Quel bonheur ! quelle perfection de l'homme ! Fait à l'image de Dieu par un dessein particulier de sa sagesse; établi dans un paradis, dans un jardin délicieux où tous les biens abondaient, sous un ciel toujours pur et toujours bénin ; au milieu des riches eaux de quatre fleuves; sans avoir à craindre la mort, libre, heureux, tranquille, sans aucune difformité ou infirmité, ni du côté de l'esprit, ni du côté du corps; sans aucun besoin d'habits, avec une pure et innocente nudité ; ayant mon salut et mon bonheur en ma main ; le ciel ouvert devant moi pour y être transporté quand Dieu voudrait, sans passer par les ombres affreuses de la mort! Pleure sans fin, homme misérable qui as perdu tous ces biens et ne te console qu'en Jésus-Christ qui te les a rendus, et encore dans une plus grande abondance!
 
+
 [^1]: *Genes.*, II, 15.
 
 [^2]: *Genes.*, II, 19.
