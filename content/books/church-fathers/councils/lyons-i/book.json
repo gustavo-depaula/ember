@@ -1,0 +1,62 @@
+{
+  "id": "councils-lyons-i",
+  "cover": "quarter",
+  "name": {
+    "la": "Concilium Lugdunense I (1245)",
+    "en-US": "First Council of Lyons (1245)",
+    "pt-BR": "Primeiro Concílio de Lião (1245)"
+  },
+  "author": {
+    "la": "Concilia",
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
+  },
+  "description": {
+    "la": "Constitutiones et decreta primi concilii Lugdunensis (1245) sub Innocentio IV, cum sententia depositionis Friderici II.",
+    "en-US": "The decrees of the thirteenth ecumenical council, held at Lyons in 1245 under Innocent IV: the constitutions on judicial procedure and the Holy Land, and the sentence of deposition of the Emperor Frederick II. Latin text with Schroeder's English (1937), which gives the disciplinary constitutions.",
+    "pt-BR": "Os decretos do décimo terceiro concílio ecumênico, reunido em Lião em 1245 sob Inocêncio IV: as constituições disciplinares e a sentença de deposição do imperador Frederico II."
+  },
+  "composed": "1245",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "councils/lyons-i",
+  "editions": {
+    "la": {
+      "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), via Latin Wikisource / Documenta Catholica Omnia",
+      "year": 1962
+    },
+    "en-US": {
+      "translator": "H. J. Schroeder, O.P.",
+      "year": 1937
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Concilium_Lugdunense_I",
+      "edition": "Latin Wikisource, Concilium Lugdunense I, the text of Conciliorum Oecumenicorum Decreta (Bologna 1962) as circulated by Documenta Catholica Omnia. Wikitext fetched through action=raw.",
+      "description": "Complete as transcribed. The digitisation has its punctuation largely stripped, no capitals at the start of sentences, lowercase deus/dominus, and no canon numbers; the text is left as transcribed, with line breaks kept as paragraph breaks, the digitisation's split enclitics rejoined (\"ideo que\" → \"ideoque\") and bracketed headings turned into markdown headings. The English of Schroeder (1937) numbers the canons.",
+      "tier": "B",
+      "tierEvidence": "Medieval documents; the digitisation derives from the Library of Latin Texts / COD text (a critical edition of 1962/1973), which carries at most a neighbouring right that has run out and is freely redistributed by Wikisource and Documenta Catholica Omnia."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/schroeder-disciplinary-councils",
+      "edition": "H. J. Schroeder, O.P., Disciplinary Decrees of the General Councils: Text, Translation and Commentary, St. Louis and London: B. Herder, 1937. archive.org OCR (schroeder-disciplinary-councils_djvu.txt).",
+      "description": "For each canon Schroeder's one-sentence summary (in italics) and the translated text. Schroeder's historical introduction, his comments and his footnotes are not included, and the OCR's running heads and page-end footnotes were stripped by script (research/sourcing/_scripts/councils_schroeder.py); a few inline footnote marks and OCR slips remain. Schroeder translates the disciplinary decrees only.",
+      "tier": "A",
+      "tierEvidence": "Published 1937; US copyright not renewed (confirmed by TAN Books, which holds the Herder list); Schroeder died in 1942."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Concilium Lugdunense I (1245)",
+        "en-US": "First Council of Lyons (1245)"
+      }
+    }
+  ]
+}
