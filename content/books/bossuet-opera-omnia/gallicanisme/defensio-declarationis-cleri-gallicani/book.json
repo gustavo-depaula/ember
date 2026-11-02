@@ -1,0 +1,2506 @@
+{
+  "id": "bossuet-defensio-declarationis-cleri-gallicani",
+  "cover": "classic",
+  "name": {
+    "la": "Defensio declarationis cleri gallicani",
+    "en-US": "Defence of the Declaration of the Gallican Clergy",
+    "pt-BR": "Defesa da Declaração do clero galicano"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "la": "Defensio declarationis cleri gallicani de ecclesiastica potestate, in undecim libros divisa : de potestate temporali regum, de auctoritate conciliorum et de pontificis judicio. Composita circa 1682-1685, edita 1730. Editio Lachat (1865).",
+    "en-US": "Bossuet’s Latin defence, in eleven books, of the four articles of the Declaration of the French clergy of 1682 on ecclesiastical power: the temporal power of kings, the authority of councils and the judgment of the pope. Composed around 1682-85 and published in 1730. A document of Gallicanism, kept for its historical interest: the articles were withdrawn by their own signatories in 1693. Lachat edition (1865).",
+    "pt-BR": "Defesa latina, em onze livros, dos quatro artigos da Declaração do clero de França de 1682 sobre o poder eclesiástico: o poder temporal dos reis, a autoridade dos concílios e o juízo do papa. Composta por volta de 1682-1685 e publicada em 1730. Documento do galicanismo, conservado por seu interesse histórico: os artigos foram retirados por seus próprios signatários em 1693. Edição Lachat (1865)."
+  },
+  "composed": "1683",
+  "languages": [
+    "la"
+  ],
+  "work": "bossuet/defensio-declarationis-cleri-gallicani",
+  "editions": {
+    "la": {
+      "editor": "Abbé F. Lachat",
+      "year": 1865
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://web.archive.org/web/2022/https://www.bibliotheque-monastique.ch/bibliotheque/bibliotheque/bossuet/volume021/Defensio01.htm, volume022/Defensioparstertia.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Bibliothèque monastique (Abbaye Saint-Benoît de Port-Valais), Wayback Machine",
+      "description": "Typed transcription of volume XXI (Avis, Declaratio, Defensio, books I-VI) and volume XXII (Pars tertia, books VII-XI).",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avis",
+      "title": {
+        "la": "Avis"
+      }
+    },
+    {
+      "id": "declaratio",
+      "title": {
+        "la": "Cleri gallicani de ecclesiastica potestate declaratio"
+      }
+    },
+    {
+      "id": "liber-01",
+      "title": {
+        "la": "Liber I"
+      },
+      "children": [
+        {
+          "id": "liber-01-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-01-002",
+          "title": {
+            "la": "Caput primum. Refertur caput I gallicanæ Declarationis"
+          }
+        },
+        {
+          "id": "liber-01-003",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "liber-01-004",
+          "title": {
+            "la": "Caput III. Horrenda atque ipsis adversariis detestanda necessario consequuntur, à quibusdam admittuntur : nec nisi extirpatâ radice resecantur : Henrici Borbonii Condœi principi…"
+          }
+        },
+        {
+          "id": "liber-01-005",
+          "title": {
+            "la": "Caput IV. Sententia Gallorum, ex Censura Sanctarelli, quæ integra refertur"
+          }
+        },
+        {
+          "id": "liber-01-006",
+          "title": {
+            "la": "Caput V. Quædam in Sanctarelli doctrinam, atque in censuram notæ : articuli Facultatis toto regno vulgati : Censura Malagulæ"
+          }
+        },
+        {
+          "id": "liber-01-007",
+          "title": {
+            "la": "Caput VI. Hujus sententiæ novitas in Sanctarello notata à sacra Facultate : Scripturæ silentium : auctoris anonymi qui scripsit de Libertatibus in Scripturæ locos glossæ"
+          }
+        },
+        {
+          "id": "liber-01-008",
+          "title": {
+            "la": "Caput VII. Primus regum deponendorum auctor Gregorius VII, undecimo exeunte sæculo : orbis universus ea novitate commotus : explicatum obiter, quo sensu negarent, excommunicari …"
+          }
+        },
+        {
+          "id": "liber-01-009",
+          "title": {
+            "la": "Caput VIII. Quæ Gregorius VII hujus rei exempla et documenta protulit, rei novitatem probant"
+          }
+        },
+        {
+          "id": "liber-01-010",
+          "title": {
+            "la": "Caput IX. De Gregorii decretorum auctoritate in Ecclesia dubitatum, neque ipse sibi constitit"
+          }
+        },
+        {
+          "id": "liber-01-011",
+          "title": {
+            "la": "Caput X. Gregorius VII nimia et nova sectatur : initia regiæ potestatis superbiæ ne diabolo assignat, repugnante Scriptura, neque tantum Patrum, sed totius humani generis tradit…"
+          }
+        },
+        {
+          "id": "liber-01-012",
+          "title": {
+            "la": "Caput XI. Aliæ Gregorii VII novitates : novum excommunicationis genus, quo victoriam ab Henrici IV exercitu arcet : nova doctrina de omnium Pontificum romanorum sanctitate"
+          }
+        },
+        {
+          "id": "liber-01-013",
+          "title": {
+            "la": "Caput XII"
+          }
+        },
+        {
+          "id": "liber-01-014",
+          "title": {
+            "la": "Caput XIII. De Hispania et Sardinia quid Gregorius VII decreverit"
+          }
+        },
+        {
+          "id": "liber-01-015",
+          "title": {
+            "la": "Caput XIV. De Hungariâ : de aliis regnis ac provinciis : quibus causis impulsi, pontificiæ ditioni se ultro subjecerint : arbitraria jura etiam in infideles principes protenduntur"
+          }
+        },
+        {
+          "id": "liber-01-016",
+          "title": {
+            "la": "Caput XV. Regna infidelium, quo jure concessa Bellarminus aliique defenderint : hæc et alia de regibus deponendis gesta, nullo religionis periculo impugnari posse"
+          }
+        },
+        {
+          "id": "liber-01-017",
+          "title": {
+            "la": "Caput XVI. Ipsam quæstionem aggredimur : hæc tractatio bifariam distributa : quinque propositiones ordine comprobandæ"
+          }
+        },
+        {
+          "id": "liber-01-018",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-01-019",
+          "title": {
+            "la": "Caput primum. Prima Propositio probatur : quod regia seu suprema civilis potestas jam inde ab initio sit legitima, eliam inter infideles"
+          }
+        },
+        {
+          "id": "liber-01-020",
+          "title": {
+            "la": "Caput II. Secunda Propositio, quod regia et suprema potestas etiam inter infideles sit à Deo : reges sacrosancti : juratum per eorum salutem : religio in principes : Tertulliani…"
+          }
+        },
+        {
+          "id": "liber-01-021",
+          "title": {
+            "la": "Caput III. Quo sensu suprema civilis potestas sit à Deot quodve discrimen sacerdotium inter et imperium"
+          }
+        },
+        {
+          "id": "liber-01-022",
+          "title": {
+            "la": "Caput IV. Tertia Propositio : quod regia ac suprema potestas nulli alteri potestati Dei ordinatione subjecta : omnium gentium in eam rem consensio : Druidæ, Augures, alii ejusmo…"
+          }
+        },
+        {
+          "id": "liber-01-023",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "liber-01-024",
+          "title": {
+            "la": "Caput VI. Quarta Propositio : Per institutionem sacerdotii legalis nihil immutatum in regia ac summa potestate ; nihil ad eam deponendam juris sacerdotibus attributum ; probatum…"
+          }
+        },
+        {
+          "id": "liber-01-025",
+          "title": {
+            "la": "Caput VII. An unctio regum eorumque designatio per Samuelem interdum ac prophetas facta, in ordinandis civilibus aliquid sacerdotibus juris attribuat ? De concilio Sanhédrin Bar…"
+          }
+        },
+        {
+          "id": "liber-01-026",
+          "title": {
+            "la": "Caput VIII. Bellarmini argumentum ex Deuteronomii loco"
+          }
+        },
+        {
+          "id": "liber-01-027",
+          "title": {
+            "la": "Caput IX"
+          }
+        },
+        {
+          "id": "liber-01-028",
+          "title": {
+            "la": "Caput X. Recidivum sub Machabœis imperium peculiari Dei instinctu à Mathathia inchoatum, à filiis stabilitum, Romani ac Cæsares eodem jure, Christo approbante, regnarunt"
+          }
+        },
+        {
+          "id": "liber-01-029",
+          "title": {
+            "la": "Caput XI. An Athaliæ cœsæ exemplum his obsit"
+          }
+        },
+        {
+          "id": "liber-01-030",
+          "title": {
+            "la": "Caput XII. De Ozia propter lepram ejecto"
+          }
+        },
+        {
+          "id": "liber-01-031",
+          "title": {
+            "la": "Caput XIII. Quinta Propositio : Neque per institutionem christiani sacerdotii quidquam fuit immutatum in regnandi jure : id probare aggredimur ex evangelicis Scripturis : explic…"
+          }
+        },
+        {
+          "id": "liber-01-032",
+          "title": {
+            "la": "Caput XIV. Locus Evangelii : Reddite quæ sunt Cæsaris Cæsari,"
+          }
+        },
+        {
+          "id": "liber-01-033",
+          "title": {
+            "la": "Caput XV. Prævisis malis quæ ab impiis regibus Ecclesiæ essent eventura, quæ Christus et apostoli auxilia reliquerint ; et an aliqua præter patientiam ?"
+          }
+        },
+        {
+          "id": "liber-01-034",
+          "title": {
+            "la": "Caput XVI. An generali præcepto obediendi regibus, Christus et apostoli aliquam exceptionem attulerint, et quam ?"
+          }
+        },
+        {
+          "id": "liber-01-035",
+          "title": {
+            "la": "Caput XVII. Adversariorum effugia : distinguunt tempora infirmæ et adolescentis, à temporibus robustæ et jam prævalentis Ecclesiæ : an hæc christianis digna ?"
+          }
+        },
+        {
+          "id": "liber-01-036",
+          "title": {
+            "la": "Caput XVIII. An eludi possit locus Evangelii : Regnum meum non est de hoc mundo"
+          }
+        },
+        {
+          "id": "liber-01-037",
+          "title": {
+            "la": "Caput XIX. An ad rem pertineat ille ab adversariis objectus locus ; Data est mihi omnis potestas in cœlo et in terra, et ille locus : Rex Regum"
+          }
+        },
+        {
+          "id": "liber-01-038",
+          "title": {
+            "la": "Caput XX. Locus Evangelii : Quis me constituit judicem super vos ?"
+          }
+        },
+        {
+          "id": "liber-01-039",
+          "title": {
+            "la": "Caput XXI. Respondetur ad objecta capitis XVII : an impii reges ab Ecclesia impuniti, si tuti à depositione habentur"
+          }
+        },
+        {
+          "id": "liber-01-040",
+          "title": {
+            "la": "Caput XXII. De excommunicationis effectu : an privet temporalibus : quid sit illud : Sit tibi sicut ethnicus et publicanus ? interdicta de vitandis excommunicatis in litteris ap…"
+          }
+        },
+        {
+          "id": "liber-01-041",
+          "title": {
+            "la": "Caput XXIII. Alius excommunicationis effectus : Tracti Satanæ ad interitum carnis : argumentum pro nostra sententia ductum ex memoratis in Scriptura excommunicationis effectibus"
+          }
+        },
+        {
+          "id": "liber-01-042",
+          "title": {
+            "la": "Caput XXIV. Objectum ex interdicto de vitandis excommunicatis, per exceptionem moralis, quam vocant, sive civilis necessitatis, ex omnium theologorum doctrina solvitur : ea in r…"
+          }
+        },
+        {
+          "id": "liber-01-043",
+          "title": {
+            "la": "Caput XXV. Ejusdem interdicti vis diligentius quæritur : probatur, evangelicis apostolicisque litteris, quod exceptionem necessariæ causæ admittat, neque ab obsequiis regum arceat"
+          }
+        },
+        {
+          "id": "liber-01-044",
+          "title": {
+            "la": "Caput XXVI. Idem probatur ex sanctis Patribus"
+          }
+        },
+        {
+          "id": "liber-01-045",
+          "title": {
+            "la": "Caput XXVII. Idem probatur ex Hincmari insigni responsione ad Adrianum II, vetantem ne cum Carolo Calvo rege communicaret"
+          }
+        },
+        {
+          "id": "liber-01-046",
+          "title": {
+            "la": "Caput XXVIII. Idem efficitur ex Gregorii VII decretis"
+          }
+        },
+        {
+          "id": "liber-01-047",
+          "title": {
+            "la": "Caput XXIX. Idem probatur ex secuta Pontificum omnium, atque Ecclesiæ praxi : insigne exemplum sub Gregorio IX, ac Friderico II imperatore : huic præstitum obsequium ; negata in…"
+          }
+        },
+        {
+          "id": "liber-01-048",
+          "title": {
+            "la": "Caput XXX. Sancti Thomæ locus : canon Constantiensis : item Lateranensis concordato insertus : quo sensu reges excommunicari non possint ; dictorum in hoc interdictum recapitula…"
+          }
+        },
+        {
+          "id": "liber-01-049",
+          "title": {
+            "la": "Caput XXXI. Ambas potestates, ecclesiasticam et civilem, in suo quamque ordine esse primas, ac sub uno Deo proxime collocatas, Scripturis ac Patrum traditione demonstratur : Ter…"
+          }
+        },
+        {
+          "id": "liber-01-050",
+          "title": {
+            "la": "Caput XXXII. Alice Patrum auctoritates : an his satisfiat dicendo principes in temporalibus, non minus soli Deo subesse, cum ejus Vicario subsint"
+          }
+        },
+        {
+          "id": "liber-01-051",
+          "title": {
+            "la": "Caput XXXIII. An ut umbæ potestates inter se ordinatæ sint, unam alteri subdi necesse sit : sancti Gelasii aliorumque Pontificum doctrina"
+          }
+        },
+        {
+          "id": "liber-01-052",
+          "title": {
+            "la": "Caput XXXIV. Cur hæ potestates tanta providentia distinctæ sint : sanctus Gelasius duas causas affert, quæ indirecta potestate tolluntur"
+          }
+        },
+        {
+          "id": "liber-01-053",
+          "title": {
+            "la": "Caput XXXV. Ambarum potestatum separatio ac societas ex sancti Gelasii doctrina explicatur : Bellarmini comparatio ; S. Gregorii Nazianzeni locus ab eo objectus"
+          }
+        },
+        {
+          "id": "liber-01-054",
+          "title": {
+            "la": "Caput XXXVI. Canon Omnes, objicitur et solvitur"
+          }
+        },
+        {
+          "id": "liber-01-055",
+          "title": {
+            "la": "Caput XXXVII. Objicitur à Bellarmino Apostoli locus de judicibus ab Ecclesia constitutis : Jeremiæ locus : duo gladii, regale sacerdotium : allegoria alia et accommodatitia : di…"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-02",
+      "title": {
+        "la": "Liber II"
+      },
+      "children": [
+        {
+          "id": "liber-02-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-02-002",
+          "title": {
+            "la": "Caput primum"
+          }
+        },
+        {
+          "id": "liber-02-003",
+          "title": {
+            "la": "Caput IL. Quartum sæculum, Julianus Apostata : an Ecclesia tum invalida fuerit ? S. Gregorii Nazianzeni locus : item S. Augustini : S. Thomæ responsio ad locum Augustini, non sa…"
+          }
+        },
+        {
+          "id": "liber-02-004",
+          "title": {
+            "la": "Caput III. A paganis regibus atque ab apostata Iuliam transitus ad hœreticos : Constantius arianus, catholicœque Ecclesiæ persecutor : an imbecillitate factum, quod Hilarius, At…"
+          }
+        },
+        {
+          "id": "liber-02-005",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "liber-02-006",
+          "title": {
+            "la": "Caput V. Sancti Ambrosii cum Theodosio gesta : an Ambrosius aliquid temporalis potestatis attigerit, ut Bellarmino visum ; an vel de eo cogitaverit ? Aliud Ambrosii erga eumdem …"
+          }
+        },
+        {
+          "id": "liber-02-007",
+          "title": {
+            "la": "Caput VI. Quinti sæculi exempla : Arcadius, ac de eo Gregorii VII verba : Burgundiones : Visigothi : Vandali : Theodoricus Ostrogothus : Hunericus Vandalus : Odoacer Herulus : Z…"
+          }
+        },
+        {
+          "id": "liber-02-008",
+          "title": {
+            "la": "Caput VII"
+          }
+        },
+        {
+          "id": "liber-02-009",
+          "title": {
+            "la": "Caput VIII. Sexti ac septimi sæculi exempla : sancti Gregorii Magni ad Mauricium Epistola memorabitis : in eam Baronii nota : quædam de Pontificum subjectione erga Principes"
+          }
+        },
+        {
+          "id": "liber-02-010",
+          "title": {
+            "la": "Caput IX. Privilegia ab eodem sancto Gregorio concessa expenduntur. Imprecatoriæ formulæ eo ævo familiares : Gregoriana formula ad alia privilegia non transit"
+          }
+        },
+        {
+          "id": "liber-02-011",
+          "title": {
+            "la": "Caput X. Sancti Maximi monachi et confessoris locus de monothelitis imperatoribus"
+          }
+        },
+        {
+          "id": "liber-02-012",
+          "title": {
+            "la": "Caput XI. Octavi sæculi exempla : iconoclastœ imperatores : ac primum Leo Isaurus : de eo Bellarmini argumentum ex Baronio solvitur : quæ hic sint demonstranda proponuntur"
+          }
+        },
+        {
+          "id": "liber-02-013",
+          "title": {
+            "la": "Caput XII. An græci historici à Baronio et Bellarmino in Gregorii II ac Leonis hauri rebus adducti, atque ab eis relata gesta indirectæ potestati faveant"
+          }
+        },
+        {
+          "id": "liber-02-014",
+          "title": {
+            "la": "Caput XIII. Gregorium II nihil in imperatorem hæreticam movisse, imo ea occasione aliquid molientibus obstitisse, ex ejus gestis, epistolis, doctrina demonstratur"
+          }
+        },
+        {
+          "id": "liber-02-015",
+          "title": {
+            "la": "Caput XIV. An Gregorius II, imbecillitate virium, ab indirecta potestate exercenda, vel saltem ostendenda temperarit"
+          }
+        },
+        {
+          "id": "liber-02-016",
+          "title": {
+            "la": "Caput XV. Gregorius II confiteri pergit nullam esse suam in rebus civilibus potestatem"
+          }
+        },
+        {
+          "id": "liber-02-017",
+          "title": {
+            "la": "Caput XVI. De Gregorii II gestis latini historici proferuntur, Paulus Diaconus et Anastasius bibliothecarius : eæ his demonstratur, nihil ab eo, nisi pro tuendo imperio gestum, …"
+          }
+        },
+        {
+          "id": "liber-02-018",
+          "title": {
+            "la": "Caput XVII. Cur Græci illud de tributis Gregorio II objecerint ? Id utcumque se habete an nostræ sententiæ noceat ?"
+          }
+        },
+        {
+          "id": "liber-02-019",
+          "title": {
+            "la": "Caput XVIII. De Gregorio III, Gregorii II successore, ejusque erga Leonem Isaurum et Constantinum Copronymum ejus filium obsequio : de ejus Pontificis duplici legatione ad Carol…"
+          }
+        },
+        {
+          "id": "liber-02-020",
+          "title": {
+            "la": "Caput XIX. Zacharias in obsequio perstitit : Stephanus II, pro imperio conatus omnia, nonnisi necessitate ad Francos refugit : ad eos translatum imperium sub Leone III, cum græc…"
+          }
+        },
+        {
+          "id": "liber-02-021",
+          "title": {
+            "la": "Caput XX"
+          }
+        },
+        {
+          "id": "liber-02-022",
+          "title": {
+            "la": "Caput XXI. Noni sæculi exempla ; Ludovici Pii imperatoris depositio : hæc et inde secuta, impia, irrita, nulla, male intellecta, nihil ad rem, nobisque potius favent quam advers…"
+          }
+        },
+        {
+          "id": "liber-02-023",
+          "title": {
+            "la": "Caput XXII. Lotharii Junioris excommunicatio, propter Valdradam, nulla unquam depositionis mentione"
+          }
+        },
+        {
+          "id": "liber-02-024",
+          "title": {
+            "la": "Caput XXIII. Adrianus II Carolum Calvum à Lotharii mortui regno deterret excommunicatione ; quam grave Francis visum fuerit terrenis rebus immiscuisse se Pontificem, nihil de de…"
+          }
+        },
+        {
+          "id": "liber-02-025",
+          "title": {
+            "la": "Caput XXIV. Eodem nono sæculo Stephani V epistola ad Basilium Imperatorem, de finibus utriusque potestatis"
+          }
+        },
+        {
+          "id": "liber-02-026",
+          "title": {
+            "la": "Caput XXV. Eodem sæculo Fulconis Rhemensis locus à Perronio objectus"
+          }
+        },
+        {
+          "id": "liber-02-027",
+          "title": {
+            "la": "Caput XXVI. Atto Vercellensis, Burchardus Vormatiensis, decimi sæculi auctores proferuntur"
+          }
+        },
+        {
+          "id": "liber-02-028",
+          "title": {
+            "la": "Caput XXVII. Eodem sæculo decimo, Robertus Francorum rex excommunicatus, nulla depositionis mentione"
+          }
+        },
+        {
+          "id": "liber-02-029",
+          "title": {
+            "la": "Caput XXVIII. Undecimi sæculi exempla et testimonia sub Leone IX et Victore II, paulo ante Gregorium VII : Petri Damiani, ejusdem Gregorii VII familiarissimi, locus à Baronio re…"
+          }
+        },
+        {
+          "id": "liber-02-030",
+          "title": {
+            "la": "Caput XXIX. Ejusdem Petri Damiani sub Alexandro II, proximo Gregorii VII antecessore, insignis locus, quo docet utrasque potestates, et discretas esse, et supremas et socias"
+          }
+        },
+        {
+          "id": "liber-02-031",
+          "title": {
+            "la": "Caput XXX. Gesta sub Alexandro II et Gregorio VII usque ad inceptum annum 1076. Dictorum in hoc libro circa primam quæstionem summa et conclusio"
+          }
+        },
+        {
+          "id": "liber-02-032",
+          "title": {
+            "la": "Caput XXXI. An valeat id quod Perronius cardinalis ad antiquitatis exempla responderit"
+          }
+        },
+        {
+          "id": "liber-02-033",
+          "title": {
+            "la": "Caput XXXII. An ejusdem Perronii cardinalis distinctio valeat, paganos inter principes et christianos, aut Ecclesiæ fidem juratos : romanum imperium pridem christianum, alia chr…"
+          }
+        },
+        {
+          "id": "liber-02-034",
+          "title": {
+            "la": "Caput XXXIII. Altera Quæstio : an nullo quoque interveniente peccato, propter ecclesiasticam utilitatem, reges deponendi visi sint ab ecclesiastica potestate ? Childericus regum…"
+          }
+        },
+        {
+          "id": "liber-02-035",
+          "title": {
+            "la": "Caput XXXIV. Rei sub Zacharia gestæ series : regni Francici status : evictum hæc nihil ad nostram quæstionem pertinere"
+          }
+        },
+        {
+          "id": "liber-02-036",
+          "title": {
+            "la": "Caput XXXV. Clarius demonstratur hæc, utcumque se habent, nihil ad rem facere"
+          }
+        },
+        {
+          "id": "liber-02-037",
+          "title": {
+            "la": "Caput XXXVI. Quaeritur quo jure facta sit translatio imperii occidentalis ad Francos : duo præmittuntur status imperii : tum in Pontificibus, et sacro ordine jura duplicis gener…"
+          }
+        },
+        {
+          "id": "liber-02-038",
+          "title": {
+            "la": "Caput XXXVII. Res gesta à Romana civitate : Principibus Francis oblatus consulatus, patriciatus delatus, concessum imperium, auctore seu adjutore Romano Pontifice, ut capite civ…"
+          }
+        },
+        {
+          "id": "liber-02-039",
+          "title": {
+            "la": "Caput XXXVIII. Quo jure Romana civitas ad Francorum principum tutelam confugerit, ac postea illis imperium dederit"
+          }
+        },
+        {
+          "id": "liber-02-040",
+          "title": {
+            "la": "Caput XXXIX. Carolus Calvus à romana civitate imperator, à regni proceribus rex Italiæ designatur"
+          }
+        },
+        {
+          "id": "liber-02-041",
+          "title": {
+            "la": "Caput XL. Gesta sub reliquis Carolinis principibus : ea stirpe extinctâ turbæ : Otho I imperator : imperii translatio ad Germanos sub Othone III, qualis memoretur à Baronio : qu…"
+          }
+        },
+        {
+          "id": "liber-02-042",
+          "title": {
+            "la": "Caput XLI. In transferendo imperio ad Germanos, teste Baronio, consensus intervenit romanæ civitatis : quæ tamen omnia, et inde secuta nihil ad nos"
+          }
+        },
+        {
+          "id": "liber-02-043",
+          "title": {
+            "la": "Caput XLII. Decretum episcoporum de Lotharii regno post Fontanellidensem pugnam, an ad rem faciat ?"
+          }
+        },
+        {
+          "id": "liber-02-044",
+          "title": {
+            "la": "Caput XLIII. An merito objectum à Baronio id quod est à Carolo Calvo in proclamatione adversus Venilonem positum"
+          }
+        },
+        {
+          "id": "liber-02-045",
+          "title": {
+            "la": "Caput XLIV. Argumentum ex regum consecratione repetitum solvitur : Ludovici II imperatoris, Lotharii I filii, epistola ad Basilium imperatorem Orientis,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-03",
+      "title": {
+        "la": "Liber III"
+      },
+      "children": [
+        {
+          "id": "liber-03-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-03-002",
+          "title": {
+            "la": "Caput primum. An Gregorii VII ac secutis decretis ita res confecta sit, ut de ea ambigere catholicis non liceat : contrarium statuitur certis exemplis et catholicorum omnium con…"
+          }
+        },
+        {
+          "id": "liber-03-003",
+          "title": {
+            "la": "Caput II. Gesta sub Gregorio VII, primumque ejus de Henrico deposito decretum"
+          }
+        },
+        {
+          "id": "liber-03-004",
+          "title": {
+            "la": "Caput III. De Gregoriani decreti auctoritate quæritur : paucis repetuntur quæ de ejus novitate dicta sunt"
+          }
+        },
+        {
+          "id": "liber-03-005",
+          "title": {
+            "la": "Caput IV. Qui Gregorio VII Henricum deponendi adhæserint, eos falso fundamento nixos, falso nempe intellectu interdicti de vitandis excommunicatis, idque jam in confesso esse : …"
+          }
+        },
+        {
+          "id": "liber-03-006",
+          "title": {
+            "la": "Caput V. Quod umquam de potestate reges deponendi canon conditus fuerit, nunquam edita professio, nunquam ea de re pronuntiatum, ac nequidem unquam quæsitum, incœptum à factis q…"
+          }
+        },
+        {
+          "id": "liber-03-007",
+          "title": {
+            "la": "Caput VI. Quod multi in Germania orthodoxi etiam episcopi à Gregorii VII sententia discreparint : exemplum Trevirensis Ecclesiæ, ac Brunonis archiepiscopi, imperatori deposito o…"
+          }
+        },
+        {
+          "id": "liber-03-008",
+          "title": {
+            "la": "Caput VII. Sanctus Otho Bambergensis, sanctus Erminoldus abbas, designationes episcoporum ab imperatore deposito factæ, ab orthodoxis ecclesiis petitæ et admissæ : quid in iis S…"
+          }
+        },
+        {
+          "id": "liber-03-009",
+          "title": {
+            "la": "Caput VIII. Leodiensis ecclesiæ egregium testimonium : Leodienses an fuerint schismatici : an in sua epistola falsum aliquid docuerint ; cur pro ea doctrina veniam petierint, cu…"
+          }
+        },
+        {
+          "id": "liber-03-010",
+          "title": {
+            "la": "Caput IX. Quod hæc decreta Gregorii VII, aliorumque Pontificum nullo deliberante aut approbante concilio, tum pessimo exemplo et infelicibus auspiciis facta sint"
+          }
+        },
+        {
+          "id": "liber-03-011",
+          "title": {
+            "la": "Caput X. Philippus I, Francorum Rex, excommunicatus, nulla unquam depositionis mentione"
+          }
+        },
+        {
+          "id": "liber-03-012",
+          "title": {
+            "la": "Caput XI. Loci quidam Ivonis Carnotensis per summam inscitiam objecti solvuntur : corona regia regi restituenda in his locis quid sit ? Ivonem cum aliis omnibus Francis in obseq…"
+          }
+        },
+        {
+          "id": "liber-03-013",
+          "title": {
+            "la": "Caput XII. De investituris inter Paschalem II et Henricum V imperatorem : excommunicationes à conciliis latæ ; depositio in Rhemensi concilio à solo Papa : facta compositio in L…"
+          }
+        },
+        {
+          "id": "liber-03-014",
+          "title": {
+            "la": "Caput XIII. Sanctorum Patrum ejus ævi, Anselmi Cantuariensis, Ivonis Carnotensis, Bernardi Claravallensis de imperatorum depositione silentium : Locus Anselmi probantis Walerann…"
+          }
+        },
+        {
+          "id": "liber-03-015",
+          "title": {
+            "la": "Caput XIV. Ivonis Carnotensis loci quidam expenduntur ; exempla memorantur : horum occasione de regaliæ causa, atque inita per episcopos Gallicanos compositione, actum : de Grat…"
+          }
+        },
+        {
+          "id": "liber-03-016",
+          "title": {
+            "la": "Caput XV. Bernardus Claravallensis Abbas ; sub Innocentio II schisma ingens exstinctum : libri de Consideratione ad Eugenium III"
+          }
+        },
+        {
+          "id": "liber-03-017",
+          "title": {
+            "la": "Caput XVI. Ejusdem Bernardi allegoria de duobus gladiis : quid ad eam majores nostri responderint obiter indicatur"
+          }
+        },
+        {
+          "id": "liber-03-018",
+          "title": {
+            "la": "Caput XVII. Hugonis de sancto Victore locus ab adversariis objectus"
+          }
+        },
+        {
+          "id": "liber-03-019",
+          "title": {
+            "la": "Caput XVIII. Friderici I res ; duplex dissidium : primum cum Adriano IV : quid sit beneficium, quid coronam dare ex Adriani responso ? Varius Adrianus : ejus decretum de insulis"
+          }
+        },
+        {
+          "id": "liber-03-020",
+          "title": {
+            "la": "Caput XIX. Alterum Friderici I dissidium cum Alexandro III. Excommunicatur, deponitur, nec minus agnoscitur pro imperatore, etiam à Papa : excommunicatio, res seria, depositio p…"
+          }
+        },
+        {
+          "id": "liber-03-021",
+          "title": {
+            "la": "Caput XX. Henrici VI, Friderici filii, excommunicatio sine depositione per Cœlestinum III. Item Philippi Augusti Regis Francorum, ob repudiatam uxorem per Innocentium III. Item …"
+          }
+        },
+        {
+          "id": "liber-03-022",
+          "title": {
+            "la": "Caput XXI. Post imperatores hactenus depositos, primus aliorum regum Joannes sine terra Anglus, ab Innocentio III depositus, regno Sedi apostolicæ tradito restitutus', quæ Sedis…"
+          }
+        },
+        {
+          "id": "liber-03-023",
+          "title": {
+            "la": "Caput XXII. Refertur caput, Novit, extrav. de Judiciis : hujus edendi occasio : nihil ad rem : interpretatio necessaria"
+          }
+        },
+        {
+          "id": "liber-03-024",
+          "title": {
+            "la": "Caput XXIII. Bonifacii VIII cum Philippo IV Pulchro Francorum Rege dissidium : acta Bonifacii rescissa à Clemente V : rex omnesque regni ordines, regni in temporalibus tuentur i…"
+          }
+        },
+        {
+          "id": "liber-03-025",
+          "title": {
+            "la": "Caput XXIV. Bullæ Ausculta fili, et Unam sanctam, expenduntur"
+          }
+        },
+        {
+          "id": "liber-03-026",
+          "title": {
+            "la": "Caput XXV. Reliqua Bonifaciani dissidii acta : Gallicana intacta : Bonifaciana a successoribus antiquata"
+          }
+        },
+        {
+          "id": "liber-03-027",
+          "title": {
+            "la": "Caput XXVI. Joannis XXII successorumque acta advenus Ludovicum Bavarum Imperatorem summatim referuntur, nec ad nostram quæstionem pertinere ostenduntur"
+          }
+        },
+        {
+          "id": "liber-03-028",
+          "title": {
+            "la": "Caput XXVII. De Navarræ regno Hispanis tradito : item de Joanna Albretana, hæresis crimine, sub privationis pœna Romam à Pio IV evocata, quod Galli improbarint ac prohibuerint"
+          }
+        },
+        {
+          "id": "liber-03-029",
+          "title": {
+            "la": "Caput XXVIII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-04",
+      "title": {
+        "la": "Liber IV"
+      },
+      "children": [
+        {
+          "id": "liber-04-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-04-002",
+          "title": {
+            "la": "Caput primum"
+          }
+        },
+        {
+          "id": "liber-04-003",
+          "title": {
+            "la": "Caput II. Concilii Lateranensis IV canon iii, sub Innocentio III, quod ad pœnas temporales attinet, ejus est generis, in quo Ecclesia consensu et constitutionibus principum adju…"
+          }
+        },
+        {
+          "id": "liber-04-004",
+          "title": {
+            "la": "Caput III. Antiquorum Imperatorum leges, quibus Ecclesia juvabatur ad pœnas temporales adversus hæreticos, in conciliis Lateranensibus III et IV, decernendas"
+          }
+        },
+        {
+          "id": "liber-04-005",
+          "title": {
+            "la": "Caput IV. Ex historiis demonstratur quæ de feudis aliisque temporalibus, ecclesiastica auctoritate gererentur, principum concessione et consensione valuisse"
+          }
+        },
+        {
+          "id": "liber-04-006",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "liber-04-007",
+          "title": {
+            "la": "Caput VI. De Friderico II deposito : sub Gregorio IX acta : excommunicatus, deinde depositus, à sancto Ludovico et Gallis pro imperatore est habitus ; concilium œcumenicum à Gal…"
+          }
+        },
+        {
+          "id": "liber-04-008",
+          "title": {
+            "la": "Caput VII. Quæ sub Innocentio IV, Gregorii IX successore, gesta : concilium lugdunense I : in eo acta, atque ex his et ante dictis argumenta contra nos"
+          }
+        },
+        {
+          "id": "liber-04-009",
+          "title": {
+            "la": "Caput VIII. Solutio objectorum præcedentis capitis : duo quœdam notatu digna : depositio edita, sacro præsente Concilio, non sacro approbante Concilio, ut solet"
+          }
+        },
+        {
+          "id": "liber-04-010",
+          "title": {
+            "la": "Caput IX. De statu imperii Romano-Germanici quædam, quæ ad objectorum solutionem spectant"
+          }
+        },
+        {
+          "id": "liber-04-011",
+          "title": {
+            "la": "Caput X. Constantiensia et Basileensia decreta : Sigismundi imperatoris in synodo Constantiensi imperiale decretum : ejusdem imperatoris de Romano-Germanici imperii principibus,…"
+          }
+        },
+        {
+          "id": "liber-04-012",
+          "title": {
+            "la": "Caput XI. Concilium Lateranense V sub Julio II. De concilii Tridentini decreto sessionis xxv, capite xix, de Reformatione : quid nostri, etiam Curiæ Romanæ addictissimi, senserint"
+          }
+        },
+        {
+          "id": "liber-04-013",
+          "title": {
+            "la": "Caput XII. Nostri sæculi gesta ultimo loco reservata : dissidium Venetum, sub Paulo V, Henrici IV Magni opera compositum"
+          }
+        },
+        {
+          "id": "liber-04-014",
+          "title": {
+            "la": "Caput XIII. Cardinalis Bellarmini libri adversus Barclæum ; Senatus decretum, antiquis ejusdem Senatus decretis congruum, quæ sacra Facultas susceperit : regii consilii decretum…"
+          }
+        },
+        {
+          "id": "liber-04-015",
+          "title": {
+            "la": "Caput XIV. Conventus Ordinum regni 1614. Articulus propositus à tertii Ordinis deputatis : cur clerus obstiterit, adjuncta nobilitate : Perronii cardinalis oratio quatenus à Cle…"
+          }
+        },
+        {
+          "id": "liber-04-016",
+          "title": {
+            "la": "Caput XV. In Perronii Cardinalis oratione ad tertium Ordinem annotata quædam : ejus dicta confutantur : acta laudantur : hujus controversiae finis"
+          }
+        },
+        {
+          "id": "liber-04-017",
+          "title": {
+            "la": "Caput XVI. Censura Sanctarelli. An cardinalis Perronius jure metueret, ne Ecclesia errasse videretur, si censura notata esset illa de deponendis regibus sententia"
+          }
+        },
+        {
+          "id": "liber-04-018",
+          "title": {
+            "la": "Caput XVII. Recapitulatio dictorum ad caput I Gallicanæ Declarationis de temporalis potestatis suprema auctoritate : an quod cardinalis Perronius objecit, nostram sententiam Rom…"
+          }
+        },
+        {
+          "id": "liber-04-019",
+          "title": {
+            "la": "Caput XVIII. De regibus propter hæresim et apostasiam deponendis : cur ætate postrema multi reges consenserint ? Cur scholastici doctores ? Cur ab ea sententia discedamus ?"
+          }
+        },
+        {
+          "id": "liber-04-020",
+          "title": {
+            "la": "Caput XIX. Anonymi auctoris, qui tractatum de Libertatibus Ecclesiæ Gallicanæ edidit, liber IV ex antedictis confutatur"
+          }
+        },
+        {
+          "id": "liber-04-021",
+          "title": {
+            "la": "Caput XX. Reliqua anonymi argumenta soluta paucis : ac primum quæ ad Scripturam"
+          }
+        },
+        {
+          "id": "liber-04-022",
+          "title": {
+            "la": "Caput XXI. Argumenta anonymi deprompta ex antiquitate : tum ex Scholasticis et canonistis"
+          }
+        },
+        {
+          "id": "liber-04-023",
+          "title": {
+            "la": "Caput xxii,. Anonymi argumenta ex consensu regum, et sanctorum exemplis"
+          }
+        },
+        {
+          "id": "liber-04-024",
+          "title": {
+            "la": "Caput XXIII. De Anglicana controversia : conclusio tractationis ad caput i Declarationis Gallicanæ : doctrinam hanc Ecclesiœ catholicæ ornamento, aliam invidiæ esse"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-05",
+      "title": {
+        "la": "Liber V"
+      },
+      "children": [
+        {
+          "id": "liber-05-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-05-002",
+          "title": {
+            "la": "Caput primum. Refertur Declarationis caput ii : hujus libri scopus : synodum Constantiensem Sedi apostolicæ nunquam infensam aut suspectam fuisse"
+          }
+        },
+        {
+          "id": "liber-05-003",
+          "title": {
+            "la": "Caput II. Constantiensis concilii laudata decreta, ex sessionibus iv et v referuntur : censores nostros, atque etiam ipsum auctorem tractatus De Libertatibus Ecclesiæ Gallicanæ,…"
+          }
+        },
+        {
+          "id": "liber-05-004",
+          "title": {
+            "la": "Caput III. Ordo disputationis hujus : censores nostri tria objiciunt : primum quidem de textu ; alterum de sensu ac mente ; posterum de auctoritate decretorum Constantiensium"
+          }
+        },
+        {
+          "id": "liber-05-005",
+          "title": {
+            "la": "Caput IV. Novum Emmanuelis Scheltrati de textus falsatione commentum"
+          }
+        },
+        {
+          "id": "liber-05-006",
+          "title": {
+            "la": "Caput V. Schelstrati, de falsata sessione iv Constantiensi, fabula confutatur : probitas Patrum Basileensium omnium scriptorum consensu asseritur : B. Ludovici Alamandi, ejus cœ…"
+          }
+        },
+        {
+          "id": "liber-05-007",
+          "title": {
+            "la": "Caput VI. Sessionis v, qua potissimum utimur, lectionem, neque in dubium revocari posse, neque unquam in dubium revocatam"
+          }
+        },
+        {
+          "id": "liber-05-008",
+          "title": {
+            "la": "Caput VII. Ad sensum Constantiensium canonum constituendum, præmittitur brevis historia schismatis : eæ ipso schismate fidei periculum, Sedis apostolicæ contemptus, morum corrup…"
+          }
+        },
+        {
+          "id": "liber-05-009",
+          "title": {
+            "la": "Caput VIII. Tria schismati quæsita remedia : concilium œcumenicum necessarium : ecclesia gallicana ab Odorico Rainaldo Viclefismi accusata, propter subtractam simul obedientiam …"
+          }
+        },
+        {
+          "id": "liber-05-010",
+          "title": {
+            "la": "Caput IX. Nullum remedium nisi in conciliorum generalium superiore potestate : an ea sit agnita in causa schismatis tantum, an ideo collata ad schismatis causam, quod in aliis q…"
+          }
+        },
+        {
+          "id": "liber-05-011",
+          "title": {
+            "la": "Caput X. Concilium Pisanum ab utriusque obedientiæ Cardinalibus convocatum, quo jure ? Ejus concilii acta"
+          }
+        },
+        {
+          "id": "liber-05-012",
+          "title": {
+            "la": "Caput XI. Confirmatur assertum illud : quod processus Ecclesiæ catholicæ et Pisani concilii, superiore conciliorum, etiam extra schisma, in summis quibusque negotiis, auctoritat…"
+          }
+        },
+        {
+          "id": "liber-05-013",
+          "title": {
+            "la": "Caput XII. An sine temeritate concilii Pisani auctoritas rejici possit"
+          }
+        },
+        {
+          "id": "liber-05-014",
+          "title": {
+            "la": "Caput XIII. Ad Constantiense concilium devenitur : ejus causæ atque initia referuntur : rerum series usque ad sessionem v : hinc confutati qui ad schismatis tempus decreta restr…"
+          }
+        },
+        {
+          "id": "liber-05-015",
+          "title": {
+            "la": "Caput XIV. Vana suffugia, ex ipso concilii scopo ac verbis, confutantur"
+          }
+        },
+        {
+          "id": "liber-05-016",
+          "title": {
+            "la": "Caput XV. Ex sessione viii concilii Constantiensis, sessionis v sensus asseritur"
+          }
+        },
+        {
+          "id": "liber-05-017",
+          "title": {
+            "la": "Caput XVI. Mens sessionis v, ex capite Frequens et ex capite Si vero, sessionis xxxix demonstratur"
+          }
+        },
+        {
+          "id": "liber-05-018",
+          "title": {
+            "la": "Caput XVII. Idem demonstratur ex aliis capitibus sessionis xxxix, Schelstrati et aliorum suffugia præcluduntur"
+          }
+        },
+        {
+          "id": "liber-05-019",
+          "title": {
+            "la": "Caput XVIII. Idem demonstratur ex sessione xl, et octodecim tum propositis reformationis articulis"
+          }
+        },
+        {
+          "id": "liber-05-020",
+          "title": {
+            "la": "Caput XIX. Recapitulatio eorum quæ de mente concilii dicta sunt : solutio objectorum cap. iii"
+          }
+        },
+        {
+          "id": "liber-05-021",
+          "title": {
+            "la": "Caput XX. Sessionibus iv et v æque ac reliquis concilii œcumenici auctoritas constat : an valeat Bellarmini responsio, earum sessionum decreta, à Florentina et Lateranensi synod…"
+          }
+        },
+        {
+          "id": "liber-05-022",
+          "title": {
+            "la": "Caput XXI. An sessionum iv et v dubia sit auctoritas, quod duæ obedientiæ defuerint ? An Joannis XXlll obedientia tertia pars Ecclesiæ fuerit ? An Joannes XXIII aut alii session…"
+          }
+        },
+        {
+          "id": "liber-05-023",
+          "title": {
+            "la": "Caput XXII. Quod inter catholicos certum sit, concilium Constantiense jam inde ab initio, et ante adunatas obedientias fuisse œcumenicum : Bulla Inter cunctas à Martino V, sacro…"
+          }
+        },
+        {
+          "id": "liber-05-024",
+          "title": {
+            "la": "Caput XXIII. An novæ concilii convocationes, Gregorii et Benedicti obedientiis Constantiam advenientibus, pacis studio factæ, antecedentium sessionum auctoritatem infringant ? A…"
+          }
+        },
+        {
+          "id": "liber-05-025",
+          "title": {
+            "la": "Caput XXIV. Exemplum singularis, in ejusdem schismatis casu, indulgentiæ et condescensus"
+          }
+        },
+        {
+          "id": "liber-05-026",
+          "title": {
+            "la": "Caput XXV. De sessionibus xxii, xxvi, xxxv, quibus Aragonenses, Navarrici et Castellani suscepti sunt"
+          }
+        },
+        {
+          "id": "liber-05-027",
+          "title": {
+            "la": "Caput XXVI. Ex ipsa rerum serie antedicta confirmantur"
+          }
+        },
+        {
+          "id": "liber-05-028",
+          "title": {
+            "la": "Caput XXVII. Antiquæ Ecclesiæ exemplis concilii Constantiensis œconomia asseritur"
+          }
+        },
+        {
+          "id": "liber-05-029",
+          "title": {
+            "la": "Caput XXVIII. Objectio ex defectu confirmationis petita dissolvitur"
+          }
+        },
+        {
+          "id": "liber-05-030",
+          "title": {
+            "la": "Caput XXIX. An sessionum iv et v decreta iis accenseri debeant, quæ Martinus V, ut conciliariter facta, confirmavit"
+          }
+        },
+        {
+          "id": "liber-05-031",
+          "title": {
+            "la": "Caput XXX. Bellarmini sensus exploditur : an sessionum iv et v decreta sine examine debito processerint"
+          }
+        },
+        {
+          "id": "liber-05-032",
+          "title": {
+            "la": "Caput XXXI. An illa formula, sacro approbante concilio, Papam concilio superiorem probet"
+          }
+        },
+        {
+          "id": "liber-05-033",
+          "title": {
+            "la": "Caput XXXII. Prædicta responsa de dubio Pontifice etsi valeant, non tamen adversarios expeditos esse, ac Parisiensium ex Constantiensi canone vigere sententiam"
+          }
+        },
+        {
+          "id": "liber-05-034",
+          "title": {
+            "la": "Caput XXXIII. Emmanuelis Schehstrati objecta, à codicibus manuscriptis petita, solvuntur circa sessionem iv"
+          }
+        },
+        {
+          "id": "liber-05-035",
+          "title": {
+            "la": "Caput XXXIV. Quæ in Schelstrati manuscriptis sessionem v spectent"
+          }
+        },
+        {
+          "id": "liber-05-036",
+          "title": {
+            "la": "Caput XXXV. Francisci Zabarellæ cardinalis Florentini doctrina de superiori etiam in reformationis negotio concilii potestate. Corollarium de dissensionibus Constantiensibus à S…"
+          }
+        },
+        {
+          "id": "liber-05-037",
+          "title": {
+            "la": "Caput XXXVI. Alia Schelstrati ex manuscriptis codicibus objecta solvuntur : an aliquid contra nos concludatur ex eo quod reformatio ad id tempus dilata sit, quo Papa electus esset"
+          }
+        },
+        {
+          "id": "liber-05-038",
+          "title": {
+            "la": "Caput XXXVII. Alia objectio Schelstrati circa sessionem xiv concilii Constantiensis"
+          }
+        },
+        {
+          "id": "liber-05-039",
+          "title": {
+            "la": "Caput XXXVIII. Postrema objectio Schelstrati, de sublato decimo-tertio reformationis articulo. Bulla Martini V, de non appellando ad concilium, suum in locum remittitur"
+          }
+        },
+        {
+          "id": "liber-05-040",
+          "title": {
+            "la": "Caput XXXIX. Confirmatio argumentorum pro auctoritate Constantiensis concilii ; multa in eamdem rem Martini V et Eugenii IV acta usque ad Basileense concilium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-06",
+      "title": {
+        "la": "Liber VI"
+      },
+      "children": [
+        {
+          "id": "liber-06-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-06-002",
+          "title": {
+            "la": "Caput primum. Duo dissidia Basileensia distinguuntur : res in primo dissidio gestæ"
+          }
+        },
+        {
+          "id": "liber-06-003",
+          "title": {
+            "la": "Caput II. Ex antedictis Comtantiensia dogmata confirmantur"
+          }
+        },
+        {
+          "id": "liber-06-004",
+          "title": {
+            "la": "Caput III. Confirmantur argumenta capitis præcedentis : insigne Eugenii IV ad universos fideles diploma refertur"
+          }
+        },
+        {
+          "id": "liber-06-005",
+          "title": {
+            "la": "Caput IV. Turrecrematæ et Rainaldi aliorumque suffugia"
+          }
+        },
+        {
+          "id": "liber-06-006",
+          "title": {
+            "la": "Caput V. De secundo Basileensi dissidio : quid ab initio reconciliato gratiæ, usque ad secundi dissidii initium, à synodo gestum sit per biennium"
+          }
+        },
+        {
+          "id": "liber-06-007",
+          "title": {
+            "la": "Caput VI. Quid per idem tempus ab Eugenio IV sit gestum"
+          }
+        },
+        {
+          "id": "liber-06-008",
+          "title": {
+            "la": "Caput VIL. Dissidii causa ex gestis : quæstio proponitur an Constantiensia decretarevocata in publicum"
+          }
+        },
+        {
+          "id": "liber-06-009",
+          "title": {
+            "la": "Caput VIII. Ex actis ab Eugenio IV adversus Basileenses, in Ferrariensi quoque seu Florentino concilio editis, probatur priora Basileensia, quibus Constantiensia confirmantur, i…"
+          }
+        },
+        {
+          "id": "liber-06-010",
+          "title": {
+            "la": "Caput IX. Decretalis Moyses, in synodo Florentina edita, priora Basileensia et Constantiensia decreta firmat"
+          }
+        },
+        {
+          "id": "liber-06-011",
+          "title": {
+            "la": "Caput X. An decretum unionis Florentiæ editum, Constantiensia decreta antiquarit"
+          }
+        },
+        {
+          "id": "liber-06-012",
+          "title": {
+            "la": "Caput XI. De vero sensu eorum verborum decreti unionis : Quemadmodum etiam in gestis œcumenicorum Conciliorum continetur"
+          }
+        },
+        {
+          "id": "liber-06-013",
+          "title": {
+            "la": "Caput XII. An Constantiensibus decretis et conciliari potestati noceat, quod Ecclesiæ pars maxima, ac præsertim Galli, Eugenio Basileæ damnato ac deposito obedirent"
+          }
+        },
+        {
+          "id": "liber-06-014",
+          "title": {
+            "la": "Caput XIII. Nobilissimas Universitates, propter Constantiensium canonum auctoritatem, Basileensi synodo adhœsisse"
+          }
+        },
+        {
+          "id": "liber-06-015",
+          "title": {
+            "la": "Caput XIV. Mors Eugenii IV : Nicolaus V succedit : pax composita, immotis decretis Constantiensibus : concilii Basileensis antesignani, abdicato tantum Felice, nulla doctrinæ re…"
+          }
+        },
+        {
+          "id": "liber-06-016",
+          "title": {
+            "la": "Caput XV. Quæstio de translatione, qualis habita in Basileensi et secutis synodis : de Constantiensibus decretis nullum superesse dubium : Joannis de Paradiso Carthusiani locus …"
+          }
+        },
+        {
+          "id": "liber-06-017",
+          "title": {
+            "la": "Caput XVI. Petri Meldensis episcopi ad Eugenium IV, Caroli VII nomine, gesta legatio ; an Odorico Rainaldo eam objicienti prosit ?"
+          }
+        },
+        {
+          "id": "liber-06-018",
+          "title": {
+            "la": "Caput XVII. Bulla retractationis Pii ll, ad Coloniensem academiam, Constantiensia decreta confirmat, Basileensia tantum posteriora damnat"
+          }
+        },
+        {
+          "id": "liber-06-019",
+          "title": {
+            "la": "Caput XVIII. An Lateranensi synodo, sub Leone X, Constantiensia decreta abrogentur ? quantis auctoritatibus hæc firma sint ; cur patres Gallicani priora Basi-leensia gesta in De…"
+          }
+        },
+        {
+          "id": "liber-06-020",
+          "title": {
+            "la": "Caput XIX. An Constantiensibus decretis nixa sententia ad fidem catholicam pertineat ?"
+          }
+        },
+        {
+          "id": "liber-06-021",
+          "title": {
+            "la": "Caput XX. An ea, quam vocant Parisiensium sententiam, occasione schismatis exorta sit : acta in Joannem de Montesono, anno 1387"
+          }
+        },
+        {
+          "id": "liber-06-022",
+          "title": {
+            "la": "Caput XXI. Facultatis articuli adversus Joannem Sarrazinum Prædicatorem, paulo post Constantiense concilium, ac Martino V sedente"
+          }
+        },
+        {
+          "id": "liber-06-023",
+          "title": {
+            "la": "Caput XXII. Pergit facultas Parisiensis cohibere Mendicantes post Basileense dissidium ac pacem : Facultas in prisca sententia : decreta, vigente Pragmatica-Sanctione"
+          }
+        },
+        {
+          "id": "liber-06-024",
+          "title": {
+            "la": "Caput XXIII. Post abolitam Pragmaticam-Sanctionem, eadem doctrina apud nostros"
+          }
+        },
+        {
+          "id": "liber-06-025",
+          "title": {
+            "la": "Caput XXIV. Acta Parisiis apud Prædicatores, Edmundo Richerio syndico, anno 1611"
+          }
+        },
+        {
+          "id": "liber-06-026",
+          "title": {
+            "la": "Caput XXV. Edmundi Richerii liber de Ecclesiastica et Politica Potestate : aulicœ artes. acta Facultatis : episcopales censuræ : quo fundamento nixæ : de prisca sententia nihil …"
+          }
+        },
+        {
+          "id": "liber-06-027",
+          "title": {
+            "la": "Caput XXVI. Acta Facultatis adversus Marcum Antonium de Dominis et Theophilum Milleterium : item de Ludovico Cellotio ac Francisco Guillovio"
+          }
+        },
+        {
+          "id": "liber-06-028",
+          "title": {
+            "la": "Caput XXVII. Articuli Facultatis ad Ludovicum Magnum allati : Censuræ Vernantii et Guimenii : Alexandri VII Bulla propositio Strigoniensis, ejusque censura"
+          }
+        },
+        {
+          "id": "liber-06-029",
+          "title": {
+            "la": "Caput XXVIII. An sententiæ de potiore concilii potestate, regum juribus ac potestati noceat : Thomæ Corcellæi responsum : propositio Joannis Hussi in Constantiensi concilio cond…"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-07",
+      "title": {
+        "la": "Liber VII"
+      },
+      "children": [
+        {
+          "id": "liber-07-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-07-002",
+          "title": {
+            "la": "Caput primum. Infallibilitas quibus verbis de antiquis explicetur, ubi sita sit quæritur"
+          }
+        },
+        {
+          "id": "liber-07-003",
+          "title": {
+            "la": "Caput II. Sententia Parisiensium res infer judicatas reponenda ex dictis de concilio Constantiensi"
+          }
+        },
+        {
+          "id": "liber-07-004",
+          "title": {
+            "la": "Caput III. Alia modernorum quorumdam cavillatio confutatur ; ostenditurque, ex ipsis concilii Constansiensis verbis ac gestis, Papam non modo teneri conciliaribus de fide decret…"
+          }
+        },
+        {
+          "id": "liber-07-005",
+          "title": {
+            "la": "Caput IV. Aliæ cavillationes : Papam subjici quidem concilio in fidei quæstionibus, sed tantum postquam se illi sponte submisit : tum esse quidem illum per sese infallibilem, si…"
+          }
+        },
+        {
+          "id": "liber-07-006",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "liber-07-007",
+          "title": {
+            "la": "Caput VI. Concilium Apostolicum Hierosolymis habitum de legalibus, ut omnium conciliorum generalium forma proponitur : perpenditur illud ; visum est spiritui sancto et nobis : v…"
+          }
+        },
+        {
+          "id": "liber-07-008",
+          "title": {
+            "la": "Caput VII"
+          }
+        },
+        {
+          "id": "liber-07-009",
+          "title": {
+            "la": "Caput VIII. Constantinopolitana, prima synodus, secunda generalis, in mediam adducitur : ex ea demonstratur quæstiones fidei sola ecclesiarum consensione finitas"
+          }
+        },
+        {
+          "id": "liber-07-010",
+          "title": {
+            "la": "Caput IX. Ad Ephesinam synodum devenimus : referuntur ea quæ Synodum præcesserunt : demonstraturque à sancto Cœlestino papa tota Sedis apostolicæ auctoritate in Nestorii hæresim…"
+          }
+        },
+        {
+          "id": "liber-07-011",
+          "title": {
+            "la": "Caput X. Dicta à Cœlestino papa de fide, tota Sedis apostolicæ auctoritate, sententia concilii universalis mentione et convocatione suspenditur : id canonice et ordine factum om…"
+          }
+        },
+        {
+          "id": "liber-07-012",
+          "title": {
+            "la": "Caput XI. Acta synodi Ephesinæ recensentur : ejus actio prima : probat synodus omnia quæ à Cœlestino decreta essent in suspenso manere, usque ad synodi sententiam : quæ de fide …"
+          }
+        },
+        {
+          "id": "liber-07-013",
+          "title": {
+            "la": "Caput XII. Continuatio actionis primæ concilii Ephesini : quæ circa Nestorii personam à Cœlestino papâ decreta essent, ad synodale examen et ipsa revocantur, nec nisi quæstione …"
+          }
+        },
+        {
+          "id": "liber-07-014",
+          "title": {
+            "la": "Caput XIII. Gesta actionis secundæ, quibus præcedentia comprobantur : quid sit confirmare decreta, stylo ecclesiastico, ex gestis demonstratur : in synodi examine, atque judicio…"
+          }
+        },
+        {
+          "id": "liber-07-015",
+          "title": {
+            "la": "Caput XIV"
+          }
+        },
+        {
+          "id": "liber-07-016",
+          "title": {
+            "la": "Caput XV. Chalcedonensis concilii quarti generalis acta proponuntur : referuntur ea quæ antecesserint : ex his demonstratur, etiam in fidei causis, post Romani Pontificis judici…"
+          }
+        },
+        {
+          "id": "liber-07-017",
+          "title": {
+            "la": "Caput XVI. In Chalcedonensi Concilio duo ad rem faciunt : alterum, Dioscori Patriarchæ Alexandrini ; alterum, examen epistolæ Leonis : hic de Dioscoro ; demonstratur in causis, …"
+          }
+        },
+        {
+          "id": "liber-07-018",
+          "title": {
+            "la": "Caput XVII"
+          }
+        },
+        {
+          "id": "liber-07-019",
+          "title": {
+            "la": "Caput XVIII. Adversariorum effugia : Bellarminus et Baronius diversa sectantur : aliorum cavillationes : de Theodoreto in sedem restituto agitur, ex eoque facto nostra sententia…"
+          }
+        },
+        {
+          "id": "liber-07-020",
+          "title": {
+            "la": "Caput XIX"
+          }
+        },
+        {
+          "id": "liber-07-021",
+          "title": {
+            "la": "Caput XX. Synodus V, invitato ac repugnante Vigilio Papa, habetur : ejusdem Vigilii Constitutum solvit : Ibæ epistolam ipsius sententia ab hæresi absolutam, impiam et hæreticam …"
+          }
+        },
+        {
+          "id": "liber-07-022",
+          "title": {
+            "la": "Caput XXI. In Synodo VI generali, quæ constantinopolitano, est III, causa Honorii Papæ per synodum condemnati : tria effugia proponuntur : quæstiones aliquot ex actis suo ordine…"
+          }
+        },
+        {
+          "id": "liber-07-023",
+          "title": {
+            "la": "Caput XXII"
+          }
+        },
+        {
+          "id": "liber-07-024",
+          "title": {
+            "la": "Caput XXIII. Bellarmini ac Baronii effugium : quod hæc Honorius dispensatorie pacis gratia scripserit, quoad rem exactius definiret : id ipsius Honorii verbis confutatur, docetu…"
+          }
+        },
+        {
+          "id": "liber-07-025",
+          "title": {
+            "la": "Caput XXIV. De synodo VI generali : ea post Romanorum Pontificum, atque imprimis sancti Martini, exquisitissimas definitiones est habita : in ea de sancti Agathonis totiusque oc…"
+          }
+        },
+        {
+          "id": "liber-07-026",
+          "title": {
+            "la": "Caput XXV. Sextæ synodi in Honorium dicta sententia : ejus sententiæ frequens repetitio : cur synodus eum damnatum voluerit, quem romani Pontifices excusare videantur"
+          }
+        },
+        {
+          "id": "liber-07-027",
+          "title": {
+            "la": "Caput XXVI. Actio falsi intentata synodalibus gestis, ac duabus Leonis II epistolis, temeraria et absurda ; repugnantibus omnibus scriptoribus Actisque publicis"
+          }
+        },
+        {
+          "id": "liber-07-028",
+          "title": {
+            "la": "Caput XXVII. Potissimum argumentum falsitatis ex Agathonis epistola ductum : quam vanum illud sit : Agatho et Leo II inter se componantur : etsi Honorius de fide prava docuerit,…"
+          }
+        },
+        {
+          "id": "liber-07-029",
+          "title": {
+            "la": "Caput XXVIII. Quæstio de Honorio concluditur ; atque, utcumque illius res se habent, invictum manet ex his petitum argumentum"
+          }
+        },
+        {
+          "id": "liber-07-030",
+          "title": {
+            "la": "Caput XXIX. Patres Toletani concilii XIV, synodum VI pro œcumenica non habent, eo quod Hispani ad eam vocati non essent ; neque eam probant nisi facto examine, tametsi à Leone I…"
+          }
+        },
+        {
+          "id": "liber-07-031",
+          "title": {
+            "la": "Caput XXX. Synodus Nicæna II, seu generalis VII, more antecedentium synodorum, de Adriani I litteris quæstionem habet : locus egregius, quo eadem synodus docet vim illam ineluct…"
+          }
+        },
+        {
+          "id": "liber-07-032",
+          "title": {
+            "la": "Caput XXXI. Galli synodum VII seu Nicænam II, Adriano præside habitam, pro œcumenicà non habent, eo quod ad illam nec ipsi, nec alii Occidentales vocati essent : egregius ea de …"
+          }
+        },
+        {
+          "id": "liber-07-033",
+          "title": {
+            "la": "Caput XXXII. Synodus VIII generalis, Constantinopolitana IV, æque ac cæteræ de Romanorum Pontificum judiciis judicat : traditam sibi à Christo, ut et Romanæ Ecclesiæ ligandi ac …"
+          }
+        },
+        {
+          "id": "liber-07-034",
+          "title": {
+            "la": "Caput XXXIII. Concluditur argumentum ab octo primorum conciliorum auctoritate repetitum : eorum Acta adversarii nec considerasse videntur : sancti Gelasii et sancti Gregorii loc…"
+          }
+        },
+        {
+          "id": "liber-07-035",
+          "title": {
+            "la": "Caput XXXIV"
+          }
+        },
+        {
+          "id": "liber-07-036",
+          "title": {
+            "la": "Caput XXXV. Concilium generale Lugdunense II, sub Gregorio X, de reconciliandis Græcis : hujus Acta præcipua referuntur"
+          }
+        },
+        {
+          "id": "liber-07-037",
+          "title": {
+            "la": "Caput XXXVI. Decretum concilii Lugdunensis II de Papæ auctoritate producitur : ostenditur nihil favere adversariis"
+          }
+        },
+        {
+          "id": "liber-07-038",
+          "title": {
+            "la": "Caput XXXVII. Idem ex Græcorum in Basileensi et Florentina synodis doctrina Eugeniique Papæ ac Latinorum consensu ostenditur"
+          }
+        },
+        {
+          "id": "liber-07-039",
+          "title": {
+            "la": "Caput XXXVIII. Viennense concilium sub Clemente V : ejus ævi scriptor nobilis Guillelmus Mimatensis episcopus, Speculator dictus, à Papa jussus de habendo con-cilio scribere, qu…"
+          }
+        },
+        {
+          "id": "liber-07-040",
+          "title": {
+            "la": "Caput XXXIX. Lateranensis synodus sub Julio II : ex ea conciliorum necessitas et auctoritas"
+          }
+        },
+        {
+          "id": "liber-07-041",
+          "title": {
+            "la": "Caput XL. Post lutheranam pestem, concilii generalis habendi necessitas ab omnibus adeoque à Romanis Pontificibus agnoscitur : ea re concilium Tridentinum convocatur"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-08",
+      "title": {
+        "la": "Liber VIII"
+      },
+      "children": [
+        {
+          "id": "liber-08-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-08-002",
+          "title": {
+            "la": "Caput primum. Objectio de confirmatis à Romano Pontifice synodis generalibus proponitur : hujus dissolvendæ ratio atque ordo explicatur"
+          }
+        },
+        {
+          "id": "liber-08-003",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "liber-08-004",
+          "title": {
+            "la": "Caput III. Quid in confirmandis conciliis gestum sit ; Nicæna, Constantinopolitana, Ephesina synodus ; nihil in his de illa, quam quærimus, confirmatione actum : de Ariminensi s…"
+          }
+        },
+        {
+          "id": "liber-08-005",
+          "title": {
+            "la": "Caput IV. De Ephesina latrocinio : quid Leo egerit : ut ultimam sententiam futuræ universali synodo reservarit"
+          }
+        },
+        {
+          "id": "liber-08-006",
+          "title": {
+            "la": "Caput V. À Chalcedonensi synodo nullam in fidei negotiis confirmationem petitam : cujusmodi sit ea, quam sanctus Leo ultro dederit"
+          }
+        },
+        {
+          "id": "liber-08-007",
+          "title": {
+            "la": "Caput VI. Quintum, sextum, septimum, octavum concilium"
+          }
+        },
+        {
+          "id": "liber-08-008",
+          "title": {
+            "la": "Caput VII. Reliquæ synodi usque ad Tridentinam"
+          }
+        },
+        {
+          "id": "liber-08-009",
+          "title": {
+            "la": "Caput VIII. De canonibus conciliorum generalium à Sede apostolica confirmatis vel infirmatis : Constantinopolitani canones, præsertim iii ; Chalcedonenses. ac præsertim xxviii"
+          }
+        },
+        {
+          "id": "liber-08-010",
+          "title": {
+            "la": "Caput IX. Recapitulatio eorum, quæ de confirmatione ex conciliorum artis dicta sunt : hinc confutantur allati à quibusdam recentioribus pontificiæ confirmationis effectus : Eccl…"
+          }
+        },
+        {
+          "id": "liber-08-011",
+          "title": {
+            "la": "Caput X. Andreæ Duvallii de confirmatione sententia confutatur ; nempe quod ante eam conciliorum anathemata valeant, tantum sub spe ratihabitionis futura : concilii octavi locus…"
+          }
+        },
+        {
+          "id": "liber-08-012",
+          "title": {
+            "la": "Caput XI. Ex antedictis resolvitur illud, duodecim sæculis inauditum, quod episcopi jurisdictionem omnem à Papa mutuentur ; quodque Papæ assistant, ut consiliarii tantum, non ut…"
+          }
+        },
+        {
+          "id": "liber-08-013",
+          "title": {
+            "la": "Caput XII. Quo sensu dictum sit ab antiquis, à Petro et per Petrum esse episcopatum : sancti Augustini locus"
+          }
+        },
+        {
+          "id": "liber-08-014",
+          "title": {
+            "la": "Caput XIII. Patres ante Augustinum : alii Augustini loci : traditio sequentis ætatis"
+          }
+        },
+        {
+          "id": "liber-08-015",
+          "title": {
+            "la": "Caput XIV. Cleri gallicani ab antiqua traditione ducta sententia : conventus generalis anni 1655 adversus Joannem Bagotium acta memorantur"
+          }
+        },
+        {
+          "id": "liber-08-016",
+          "title": {
+            "la": "Caput XV. Auctoris anonymi, de jurisdictione episcopali à summo Pontifice profecta, vanœ commentationes : sancti Gregorii loci : Bellarmini objectio : sancti Felicis III locus"
+          }
+        },
+        {
+          "id": "liber-08-017",
+          "title": {
+            "la": "Caput XVI. Loci sancti Joannis Chrysostomi, à novissimo auctore anonymo objecti"
+          }
+        },
+        {
+          "id": "liber-08-018",
+          "title": {
+            "la": "Caput XVII. Alius Chrysostomi locus, in Acta Apostolorum"
+          }
+        },
+        {
+          "id": "liber-08-019",
+          "title": {
+            "la": "Caput XVIII. Sancti Augustini locus ab eodem anonymo objectus, contra conciliorum auctoritatem indeclinabilem"
+          }
+        },
+        {
+          "id": "liber-08-020",
+          "title": {
+            "la": "Caput XIX. Alii loci Augustini ab eodem objecit ; an Papa Ecclesiam catholicam repræsentet"
+          }
+        },
+        {
+          "id": "liber-08-021",
+          "title": {
+            "la": "Caput XX. Repetuntur et urgentur quæ pro Parisiensium sententia, ab auctoritate et convocatione conciliorum generalium dicta sunt : confutantur vana suffugia : Bellarmini etiam …"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-09",
+      "title": {
+        "la": "Liber IX"
+      },
+      "children": [
+        {
+          "id": "liber-09-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-09-002",
+          "title": {
+            "la": "Caput primum. Consensionis universalis vis et auctoritas ante omne judicium ecclesiasticum : multo major cum Romani Pontificis decreta, nullo reclamante, obtinent"
+          }
+        },
+        {
+          "id": "liber-09-003",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "liber-09-004",
+          "title": {
+            "la": "Caput III. Quæ causæ sine synodo finiri possint, quæ finiri non possent, ex sancto Augustino, et quæstione rebaptizationis, ostenditur"
+          }
+        },
+        {
+          "id": "liber-09-005",
+          "title": {
+            "la": "Caput IV. Sancti Stephani Papæ contra rebaptizationem decretum, tota Sedis apostolicæ auctoritate factum, et tamen concilii generalis sententiam merito expectatam : sancti Augus…"
+          }
+        },
+        {
+          "id": "liber-09-006",
+          "title": {
+            "la": "Caput V. Non tantum pertinaces, sed Sancti post papale decretum, aliud quid desiderant"
+          }
+        },
+        {
+          "id": "liber-09-007",
+          "title": {
+            "la": "Caput VI. Quæstionem rebaptizationis à Cypriano et asseclis inter adiaphora non fuisse repositam"
+          }
+        },
+        {
+          "id": "liber-09-008",
+          "title": {
+            "la": "Caput VII. An Augustinus aliique Patres eam quæstionem inter adiaphora habuerint"
+          }
+        },
+        {
+          "id": "liber-09-009",
+          "title": {
+            "la": "Caput VIII. Quid objiciant qui hæc referunt inter adiaphora ; Firmiliani et Basilii locus"
+          }
+        },
+        {
+          "id": "liber-09-010",
+          "title": {
+            "la": "Caput IX. Quæ sit illa synodus universalis, quam in hâc quæstione Augustinus memoret : Nicænam eam esse ; sed, utcumque sit, nostra immota esse"
+          }
+        },
+        {
+          "id": "liber-09-011",
+          "title": {
+            "la": "Caput X. Non tantum fidei causa, sed etiam aliæ quæ universalem spectarent Ecclesiam ab universali concilio retractandæ, nec nisi consensione orbis finitæ esse creduntur : causa…"
+          }
+        },
+        {
+          "id": "liber-09-012",
+          "title": {
+            "la": "Caput XI. Causa sancti Joannis Chrysostomi"
+          }
+        },
+        {
+          "id": "liber-09-013",
+          "title": {
+            "la": "Caput XII. Decreta adversus Origenistas : Theophilus Alexandrinus sanctum Anastasium papam præit, ac Romam ipsam liberat : in consensione vis posita : sancti Hieronymi loci"
+          }
+        },
+        {
+          "id": "liber-09-014",
+          "title": {
+            "la": "Caput XIII. Turbæ post Chalcedonensem synodum : de iis seorsim per encyclicas epistolas Ecclesiæ consuluntur : responsa mittuntur : communi consensione quæstiones, finiuntur"
+          }
+        },
+        {
+          "id": "liber-09-015",
+          "title": {
+            "la": "Caput XIV. Sancti Simplicii papæ locus de decretis apostolicis irrefragabilibus Ecclesiæ universalis assensu"
+          }
+        },
+        {
+          "id": "liber-09-016",
+          "title": {
+            "la": "Caput XV. Sancti Gelasii locus, in epistola ad episcopos Dardaniœ"
+          }
+        },
+        {
+          "id": "liber-09-017",
+          "title": {
+            "la": "Caput XVI. Propositio, Unus Trinitatis crucifixus, à Scythis monachis Constantinopoli agitatur : monachi Hormisdam consulturi pergunt : professio Justiniani, eadem de re Romanum…"
+          }
+        },
+        {
+          "id": "liber-09-018",
+          "title": {
+            "la": "Caput XVII. Viri boni sanctique consulendos docent per orbem terrarum Episcopos : quæstionis finem ab Ecclesiæ universalis auctoritate expectandum"
+          }
+        },
+        {
+          "id": "liber-09-019",
+          "title": {
+            "la": "Caput XVIII. Sancti Hormisdæ epistola ad Possessorem, qua scythæ monachi condemnantur : illi Ecclesiæ catholicae sententiam expectant : eorum propositio vincit : nonnisi Ecclesi…"
+          }
+        },
+        {
+          "id": "liber-09-020",
+          "title": {
+            "la": "Caput XIX. Formula consulendi Romani pontificis, rei gestæ serie, ac Patrum traditione explicatur"
+          }
+        },
+        {
+          "id": "liber-09-021",
+          "title": {
+            "la": "Caput xx,. Quæstio Elipandi de Christo adoptivo Dei Filio, Romani Pontificis, ex Ecclesiarum consensione finitur : particula Filioque per eadem fere tempora Symbolo addita"
+          }
+        },
+        {
+          "id": "liber-09-022",
+          "title": {
+            "la": "Caput XXI. Tricassina secunda synodus sub Joanne VIII : professio obedientiæ Romano Pontifici facta secundum canones ab Hincmaro Rhemensi : episcopi conjuncta auctoritate cum Pa…"
+          }
+        },
+        {
+          "id": "liber-09-023",
+          "title": {
+            "la": "Caput XXII. Objecta solvuntur : Turonemis secundi concilii canon : statuta Nicolai papæ canones Pontigonensis synodi : quæ Petri privilegio facta habeantur : sancti Leonis insig…"
+          }
+        },
+        {
+          "id": "liber-09-024",
+          "title": {
+            "la": "Caput XXIII. Aggredimur demonstrare viros bonos sanctosque, post Romanorum Pontificum decreta etiam de fide, suspenso animo mansisse, quoad universalis consensus accederet ; san…"
+          }
+        },
+        {
+          "id": "liber-09-025",
+          "title": {
+            "la": "Caput XXIV. Pelagii I piis et orthodoxis suspecta fides propter approbatam synodum V, non ut doctor privatus, sed ut Papa suspectus, exposita fide, non allegata infallibilitate …"
+          }
+        },
+        {
+          "id": "liber-09-026",
+          "title": {
+            "la": "Caput XXV. Bonifacius III seu IV eadem causa sancto Columbano presbytero suspectus"
+          }
+        },
+        {
+          "id": "liber-09-027",
+          "title": {
+            "la": "Caput XXVI. Romani Pontifices professi se apostolico officio fungentes esse errori obnoxios, in auctoritate universalis Ecclesiæ acquiescunt : locus Innocentii III"
+          }
+        },
+        {
+          "id": "liber-09-028",
+          "title": {
+            "la": "Caput XXVII. Joannis XXII fidei professio, omnia quæ in apostolico officio gessit etiam circa fidem, iterum examinari posse demonstrat"
+          }
+        },
+        {
+          "id": "liber-09-029",
+          "title": {
+            "la": "Caput XXVIII. Ejusdem Joannis XXII de animarum statu speciatim publico diplomate declarata fides, à Benedicto XII successore ad examen revocatur"
+          }
+        },
+        {
+          "id": "liber-09-030",
+          "title": {
+            "la": "Caput XXIX. Gregorii XI ac Pii IV professio"
+          }
+        },
+        {
+          "id": "liber-09-031",
+          "title": {
+            "la": "Caput XXX. Ecclesiæ catholicæ auctoritas multis casibus Ecclesiæ Romanæ laborantis auctoritatem supplet : primum exemplum, sæculi decimi invasores"
+          }
+        },
+        {
+          "id": "liber-09-032",
+          "title": {
+            "la": "Caput XXXI. Alia exempla ; turbæ sub Sergio III, ordinationum Formosi Papæ gratia. Auxilii presbyteri locus : aliæ turbæ sub Joanne XII : turbæ graviores, atque incertior status…"
+          }
+        },
+        {
+          "id": "liber-09-033",
+          "title": {
+            "la": "Caput XXXII. Ex his ostenditur, etsi quis Romanus Pontifex falsa definiat, catholicam tamen Ecclesiam Sedemque apostolicam manere suo condere constitutam"
+          }
+        },
+        {
+          "id": "liber-09-034",
+          "title": {
+            "la": "Caput XXXIII. Lapsus Romanorum Pontificum nihil Ecclesiæ, nihil fidei, nihil Sedi apostolicæ nocuerunt : Liberius ordine temporum primus recedetur"
+          }
+        },
+        {
+          "id": "liber-09-035",
+          "title": {
+            "la": "Caput XXXIV. Adversariorum effugia prœcluduntur : nostra argumenta firmantur"
+          }
+        },
+        {
+          "id": "liber-09-036",
+          "title": {
+            "la": "Caput XXXV. Sanctus Zozimus Cœlestii Pelagiani confessionem aperte hæreticam probat : ejus epistola ad africanos episcopos : sancti Augustini loci"
+          }
+        },
+        {
+          "id": "liber-09-037",
+          "title": {
+            "la": "Caput XXXVI. Hormisdæ atque Honorii gesta uno verbo repetuntur : Joannes VII Trullanam synodum, qua Romana Ecclesia erroris accusatur, suo judicio subditam, relinquit intactam"
+          }
+        },
+        {
+          "id": "liber-09-038",
+          "title": {
+            "la": "Caput XXXVII. Stephani II, Gregorii II, Sergii III, Gregorii VII, ejusque occasione Bonifacii VIII decreta et gesta referuntur : Decretalis : Unam sanctam"
+          }
+        },
+        {
+          "id": "liber-09-039",
+          "title": {
+            "la": "Caput XXXVIII. Paschalis II : gesta Lateranensis synodi ; Guidonis Viennensis, mox Callixti II, decreta in synodo Viennensi à Sede apostolica comprobata : hujus decreti verba ad…"
+          }
+        },
+        {
+          "id": "liber-09-040",
+          "title": {
+            "la": "Caput XXXIX. Alexandri III in exponenda Scriptura manifestus error, omnium sententia reprobatus ; caput, Cum esses ; de Testamentis : item Innocentii III falsa Scripturæ exposit…"
+          }
+        },
+        {
+          "id": "liber-09-041",
+          "title": {
+            "la": "Caput XL. Ejusdem Alexandri III decretum, quo anteriorum Pontificum, de matrimonio per verba de præsenti, statuta solvuntur : Innocentii III de revelanda confessione rescriptum …"
+          }
+        },
+        {
+          "id": "liber-09-042",
+          "title": {
+            "la": "Caput XLI. Franciscana controversia : primo loco ponitur Decretalis Exiit Nicolai III ; probatur hanc veram esse definitionem doctrinalem ac dogmaticam"
+          }
+        },
+        {
+          "id": "liber-09-043",
+          "title": {
+            "la": "Caput XLII. Decretalem Exiit confirmarunt Clemens V, Clementina Exivi, et Joannes XXII, Extravagante Quorumdam : mox idem Joannes ejusdem Decretalis auctoritatem infringere aggr…"
+          }
+        },
+        {
+          "id": "liber-09-044",
+          "title": {
+            "la": "Caput XLIII. Joannis XXII Extravagans Ad conditorem canonum : ea Decretalis Exiit dogma rejecit"
+          }
+        },
+        {
+          "id": "liber-09-045",
+          "title": {
+            "la": "Caput XLIV. Joannis XXII Extravagant Cum inter nonnullos ; ea Decretalis Exiit, doctrinam de Christi et apostolorum paupertate hæreseos damnat : à Romanis Pontificibus erronea d…"
+          }
+        },
+        {
+          "id": "liber-09-046",
+          "title": {
+            "la": "Caput XLV. Bellarmini ac Rainaldi effugia"
+          }
+        },
+        {
+          "id": "liber-09-047",
+          "title": {
+            "la": "Caput XLVI. Questio de visione beatificâ ante universalem resurrectionem : in ea Joannes XXII falsa prædicat, et suadere nititur : Gallis obsistentibus, Ecclesiæ catholicæ conse…"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-10",
+      "title": {
+        "la": "Liber X"
+      },
+      "children": [
+        {
+          "id": "liber-10-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-10-002",
+          "title": {
+            "la": "Caput primum. Fides Petri quid sit : verba Petri : Tu es Christus ; et Christi : Tu es Petrus, etc. Petri fides Ecclesiæ fundamentum : ad locum Matth. xvi, 16 et seq"
+          }
+        },
+        {
+          "id": "liber-10-003",
+          "title": {
+            "la": "Caput II. Ipse Petrus et Petri successores, propter injunctum officium prædicandæ et asserendæ fidei, Ecclesiæ fundamentum, huic officio merito adjunctæ claves"
+          }
+        },
+        {
+          "id": "liber-10-004",
+          "title": {
+            "la": "Caput III. Locus ; Rogavi pro te ; et : Confirma fratres tuos, Luc., xxii, 32. Aliud præceptum, aliud promissum : præceptum, Confirma fratres, quid sit"
+          }
+        },
+        {
+          "id": "liber-10-005",
+          "title": {
+            "la": "Caput IV. Promissio in illa precatione, ut non deficiat fides tua : fides Petri quid sit ? nunquam defectura, neque in ipso Petro ; neque in catholica Ecclesia ; neque in Sede a…"
+          }
+        },
+        {
+          "id": "liber-10-006",
+          "title": {
+            "la": "Caput V. Petrus ejusque successores cuidam peculiari ecclesiæ ac sedi præsidere debent Petri fides in Petri Sede et in successorum serie non deficit"
+          }
+        },
+        {
+          "id": "liber-10-007",
+          "title": {
+            "la": "Caput VI. Traditio Patrum de fide et Ecclesia Romana, deque Sede apostolica nunquam defectura : Romanorum Pontificum de suæ Sedis dignitate tuenda traditio"
+          }
+        },
+        {
+          "id": "liber-10-008",
+          "title": {
+            "la": "Caput VII. Libellus à sancto Hormisdâ ad Ecclesias orientales missus : ab eisdam Ecclesiis subsignatus mittitur eidem Papæ ; tum sancto Agapeto, Nicolao I, atque Adriano II : pr…"
+          }
+        },
+        {
+          "id": "liber-10-009",
+          "title": {
+            "la": "Caput VIII. Concilium Lateranense sub sancto Martino Papa : sancti Agathonis ad synodum sextam epistola ; item Benedicti XII de visione beatificâ Decretalis"
+          }
+        },
+        {
+          "id": "liber-10-010",
+          "title": {
+            "la": "Caput IX. Sancti Gelasii Papæ epistola ad Anastasium Imperatorem nobis objicitur"
+          }
+        },
+        {
+          "id": "liber-10-011",
+          "title": {
+            "la": "Caput X. Leonis IX et Gregorii VII loci objiciuntur nobis"
+          }
+        },
+        {
+          "id": "liber-10-012",
+          "title": {
+            "la": "Caput XI. Innocentii III ab anonymo auctore locus objicitur, sed truncus et mutilus"
+          }
+        },
+        {
+          "id": "liber-10-013",
+          "title": {
+            "la": "Caput XII. Petri cardinalis de Alliaco, de Sede apostolica nunquam defecturi deque Pontifice interim fallibili et deviabili, sententia"
+          }
+        },
+        {
+          "id": "liber-10-014",
+          "title": {
+            "la": "Caput XIII. Joannis Gersonis eadem de re sententia ; confutantur qui putant variasse Gersonem : Dionysii Carthusiani loci repetuntur"
+          }
+        },
+        {
+          "id": "liber-10-015",
+          "title": {
+            "la": "Caput XIV. Dubium resolvitur : Ecclesiæ Sedisque Romanæ firmitas, ab Ecclesiæ catholicæ firmitate : Ecclesiæ Romanæ traditio, universalis traditionis pars ac specimen"
+          }
+        },
+        {
+          "id": "liber-10-016",
+          "title": {
+            "la": "Caput XV. Ex Sedis apostolicæ immobili firmitate concludi causas fidei ad eam Sedem referendas ; non autem propterea infallibili judicio finiendas : formulæ interrogandi Romani …"
+          }
+        },
+        {
+          "id": "liber-10-017",
+          "title": {
+            "la": "Caput XVI. De sancto Thoma et sancto Bonaventura facultatis Parisiensis doctoribus, quid Gerson senserit : utriusque ac præsertim Angelici doctoris sententia explicatur"
+          }
+        },
+        {
+          "id": "liber-10-018",
+          "title": {
+            "la": "Caput XVII. Testimonium ex cleri Gallicani cœtu anno 1626 petitum : alia argumenta ex Janseniano negotio deprompta solvuntur : conventus anni 1653, Bullæque solemnis acceptatio"
+          }
+        },
+        {
+          "id": "liber-10-019",
+          "title": {
+            "la": "Caput XVIII. Tres aliæ secutæ cleri Gallicani congregationes probant necessariam episcoporum consensionem, atque hanc pro ecclesiastico judicio esse habendam"
+          }
+        },
+        {
+          "id": "liber-10-020",
+          "title": {
+            "la": "Caput XIX. Duo exempla ab antiquitate deprompta, quibus Gallicanarum congregationum gesta firmantur : sancti Siricii de Joviniano judicium : Capuana synodus, et ejusdem Siricii …"
+          }
+        },
+        {
+          "id": "liber-10-021",
+          "title": {
+            "la": "Caput XX. Dictum illud : Prima Sedes non judicatur à quoquam, cujus virtutis sit ; an cum Declaratione Gallicana consentiat ; duplex ejus sensus ; alter de persona Papæ, alter d…"
+          }
+        },
+        {
+          "id": "liber-10-022",
+          "title": {
+            "la": "Caput XXI. Persona Pontificis quatenus ab œcumenicis conciliis judicari non possit : Photii gesta Nicolaum Papam excommunicantis : concilii octavi canon XIII"
+          }
+        },
+        {
+          "id": "liber-10-023",
+          "title": {
+            "la": "Caput XXII. De sententiis Romanorum Pontificum non retractandis ; ea de re relati canones, eorumque vis : Gelasii Papæ loci"
+          }
+        },
+        {
+          "id": "liber-10-024",
+          "title": {
+            "la": "Caput XXIII"
+          }
+        },
+        {
+          "id": "liber-10-025",
+          "title": {
+            "la": "Caput XXIV. Sanctus Gelasius non eo sensu appellationes à Papa vetuit, quo sunt postea in Ecclesia frequentatæ"
+          }
+        },
+        {
+          "id": "liber-10-026",
+          "title": {
+            "la": "Caput XXV. Ante schismatis magni tempus appellationes à Papa ad concilium, exactœ pecuniæ gratia, frequentatæ ab Anglis : adversus Bonifatium VIII à Gallis ; adversus Joannem XX…"
+          }
+        },
+        {
+          "id": "liber-10-027",
+          "title": {
+            "la": "Caput XXVI. Appellationes à Papa ad Concilium primus omnium condemnavit Petrus de Luna in schismate obduratus : ejus ea de re decretum in concilio Constantiensi revocatum"
+          }
+        },
+        {
+          "id": "liber-10-028",
+          "title": {
+            "la": "Caput XXVII. Martini V Bulla de non appellando à Papa ad Concilium, quam perperam objecta"
+          }
+        },
+        {
+          "id": "liber-10-029",
+          "title": {
+            "la": "Caput XXVIII. Bulla Execrabilis Pii II in conventu Mantuano : qua occasione lata : nostri intellexerunt de privatis tantum negotiis, fundamento ex Bullæ verbis petito ; nec rece…"
+          }
+        },
+        {
+          "id": "liber-10-030",
+          "title": {
+            "la": "Caput XXIX. Bulla Suspecti regiminis Julii II : in ea clausulæ extra omnem ordinem : non publicata apud nos, nedum recepta appellationes postea frequentatæ, non tantum à nostris…"
+          }
+        },
+        {
+          "id": "liber-10-031",
+          "title": {
+            "la": "Caput XXX. Bullæ Pii II et Julii II, occasione litium ac dissidiorum temporalium editæ : qui appellationes respuunt, quam incommoda remedia adhibeant ; Andreæ Duvallii locus"
+          }
+        },
+        {
+          "id": "liber-10-032",
+          "title": {
+            "la": "Caput XXXI. Variæ de conciliis generalibus novissimi auctoris anonymi vitilitigationes : quæstionem ab eo pessime constitutam : an concilia inter res incertas numeranda ? Quæsti…"
+          }
+        },
+        {
+          "id": "liber-10-033",
+          "title": {
+            "la": "Caput XXXII. Recapitulatio eorum, quæ ad caput IV Declarationis Gallicanæ dicta sunt, atque imprimis eorum quæ libra VII et VIII"
+          }
+        },
+        {
+          "id": "liber-10-034",
+          "title": {
+            "la": "Caput XXXIII. Recapitulatio eorum quæ sunt in libro IX"
+          }
+        },
+        {
+          "id": "liber-10-035",
+          "title": {
+            "la": "Caput XXXIV. Recapitulatio eorum quæ hoc postremo libro dicta sunt, de Romanæ Sedis ac fidei firmitate, ac de illis verbis : Tu es Petrus"
+          }
+        },
+        {
+          "id": "liber-10-036",
+          "title": {
+            "la": "Caput XXXV. Recapitulatio eorum quæ hoc postremo libro dicta sunt circa illud : Rogavi pro te"
+          }
+        },
+        {
+          "id": "liber-10-037",
+          "title": {
+            "la": "Caput XXXVI. An quemquam hominem infallibilem esse sit congruum, aut Ecclesiæ necessarium ? An nulla sit Papæ, nisi infallibilis auctoritas ? An Papa errante, nullum remedium"
+          }
+        },
+        {
+          "id": "liber-10-038",
+          "title": {
+            "la": "Caput XXXVII. An contraria sententia dignum aliquid ecclesiastica gravitate dicat ?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-11",
+      "title": {
+        "la": "Liber XI"
+      },
+      "children": [
+        {
+          "id": "liber-11-001",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "liber-11-002",
+          "title": {
+            "la": "Caput primum. Refertur caput tertium Gallicanæ Declarationis"
+          }
+        },
+        {
+          "id": "liber-11-003",
+          "title": {
+            "la": "Caput II. Exponitur tertium caput Gallicanæ Declarationis : hujus duæ partes : id probandum suscipitur, ecclesiasticam disciplinam, sive universam, sive particulares spectet ecc…"
+          }
+        },
+        {
+          "id": "liber-11-004",
+          "title": {
+            "la": "Caput III. Ecclesia Romana iisdem canonibus regit ecclesias, quibus ipsa regitur : probatur ex Romanis Pontificibus"
+          }
+        },
+        {
+          "id": "liber-11-005",
+          "title": {
+            "la": "Caput IV. Idem probatur ex gestis sub Bonifacio II ; et ex concilio Romano sub Joanne IX, de translationibus"
+          }
+        },
+        {
+          "id": "liber-11-006",
+          "title": {
+            "la": "Caput V. Aliud exemplum : concilium Romanum sub Joanne XII"
+          }
+        },
+        {
+          "id": "liber-11-007",
+          "title": {
+            "la": "Caput VI. Nova et inaudita Gratiam interpretatio, XXV. Quœst. i, p. 2. Si ergo"
+          }
+        },
+        {
+          "id": "liber-11-008",
+          "title": {
+            "la": "Caput VII. Concilium Mosomeme : Rodulphi Glabri locus : concilium Ansanum : de eo anonymi responsiones : de exemplaribus obiter ; Petri Venerabilis, et sancti Bernardi loci : an…"
+          }
+        },
+        {
+          "id": "liber-11-009",
+          "title": {
+            "la": "Caput VIII. Conditum Lemovicense II : Gregorius VII : concors Romanorum Pontificum et episcoporum professio de regendo et obediendo secudum canones"
+          }
+        },
+        {
+          "id": "liber-11-010",
+          "title": {
+            "la": "Caput IX. Libertas injure antiquo et communi : Pragmatica-Sanctio sancti Ludovici : an ab anonymo idoneis probationibus falsi arguatur"
+          }
+        },
+        {
+          "id": "liber-11-011",
+          "title": {
+            "la": "Caput X. Edictum Caroli VI : decretum Florentinum : nulla sunt quæ contra canones : Romanus Pontifex contra canones agere nolle præsumitur, ne ipse adversetur sibi locus insigni…"
+          }
+        },
+        {
+          "id": "liber-11-012",
+          "title": {
+            "la": "Caput XI. De Decretalibus epistolis, deque consuetudine recepta, et canonum origine"
+          }
+        },
+        {
+          "id": "liber-11-013",
+          "title": {
+            "la": "Caput XII. Jura, canones, consuetudines particularium ecclesiarum retinenda ; in iisque pars libertatis ecclesiasticæ : cæterarum gentium eam in rem cum Gallis concors sententia"
+          }
+        },
+        {
+          "id": "liber-11-014",
+          "title": {
+            "la": "Caput XIII. Jura novella necessaria ; ad vetera collimandum : patrum Gallicanorum ea de re in concilio Tridentino sensus : ipsum Tridentinum concilium eodem animo fuit"
+          }
+        },
+        {
+          "id": "liber-11-015",
+          "title": {
+            "la": "Caput XIV. Ecclesia Gallicana antiquam et sanctam, sub Aurelio et Augustino, Africanum Ecclesiam sequitur ; Christiani Lupi hallucinationes : summa doctrinæ de libertatibus"
+          }
+        },
+        {
+          "id": "liber-11-016",
+          "title": {
+            "la": "Caput XV. Libertates quo sensu privilegia dicantur, nempe ut jura antiqua, libertatum radix : an Petrus de Marca audiendus, qui conciliorum superiorem potestatem à libertatibus …"
+          }
+        },
+        {
+          "id": "liber-11-017",
+          "title": {
+            "la": "Caput XVI. Hæc doctrina non obest dispensationibus apostolicæ Sedis ; concilii Basileensis locus : Gersonis doctrina à sancto Bernardo ducta"
+          }
+        },
+        {
+          "id": "liber-11-018",
+          "title": {
+            "la": "Caput XVII. Dispensationes sine causa ; canon Lugdunensis in earum gratiam à Petro de Marcâ citatus, an id efficiat"
+          }
+        },
+        {
+          "id": "liber-11-019",
+          "title": {
+            "la": "Caput XVIII. De dispensatione sine causa sententia cardinalium sub Paulo III : concilii Tridentini decreta memoranda"
+          }
+        },
+        {
+          "id": "liber-11-020",
+          "title": {
+            "la": "Caput XIX. Natura ipsa dispensationis ex sancto Symmacho et sancto Gelasio, Romanis Pontificibus. Hinc dispensationes sine causa evertuntur"
+          }
+        },
+        {
+          "id": "liber-11-021",
+          "title": {
+            "la": "Caput XX. An auctor Anonymus Tractatus de Libertatibus, ad tertiam propositionem Declarationis Gallicanæ rectum aliquid, aut ad rem dixerit"
+          }
+        },
+        {
+          "id": "liber-11-022",
+          "title": {
+            "la": "Caput XXI. Auctor anonymus libro primo nihil agit ; à scopo quæstionis aberrare se docet"
+          }
+        },
+        {
+          "id": "liber-11-023",
+          "title": {
+            "la": "Caput XXII. Anonymi liber II : primum multa agit extra rem : tum in eumdem sensum nobiscum congruit"
+          }
+        },
+        {
+          "id": "liber-11-024",
+          "title": {
+            "la": "Caput XXIII. De reliquis libris à III usque ad XII et ultimum uno verbo transigitur : ostenditur quod in toto opere viæ tertia pars ad confutandam Declarationem spectet"
+          }
+        },
+        {
+          "id": "liber-11-025",
+          "title": {
+            "la": "Caput XXIV. An auctor anonymus Gallicanas libertates odiosas merito esse dixerit"
+          }
+        }
+      ]
+    }
+  ]
+}
