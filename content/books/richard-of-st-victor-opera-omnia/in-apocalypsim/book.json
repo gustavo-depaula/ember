@@ -1,0 +1,536 @@
+{
+  "id": "richard-in-apocalypsim",
+  "cover": "classic",
+  "name": {
+    "la": "In Apocalypsim Joannis",
+    "en-US": "On the Apocalypse of John",
+    "pt-BR": "Sobre o Apocalipse de João"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "In Apocalypsim Joannis libri septem.",
+    "en-US": "Richard’s commentary in seven books on the Apocalypse of John. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "O comentário de Ricardo ao Apocalipse de João em sete livros."
+  },
+  "composed": "c. 1160-1173",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/in-apocalypsim",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.InApJo",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.InApJo, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Primus prologus in septem libros"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Prologus alter Joannis evangelistae vitam brevi stringens sermone, necnon et causam suscepti operis."
+      }
+    },
+    {
+      "id": "g01",
+      "title": {
+        "la": "Liber primus. De visione prima"
+      },
+      "children": [
+        {
+          "id": "c003",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Caput primum. De titulo, et de quatuor generibus visionum."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Caput II. De salutatione."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Caput III. Generalis sententia de septem visionibus sacris."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Caput IV. De visione prima."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Caput V. De episcopo Ephesi."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Caput VI. De episcopo Smyrnae."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Caput VII. De angelo Pergami."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Caput VIII. De episcopo Thyatirae."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Caput IX. De episcopo Sardis."
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Caput X. De episcopo Philadelphiae."
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Caput XI. De episcopo Laodiceae."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Liber secundus. De visione secunda"
+      },
+      "children": [
+        {
+          "id": "c015",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Caput primum. De sedente in throno, et ornatu ejus, quantum ad textum capitulum IV."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Caput II De quatuor animalibus."
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Caput III. De libro septem sigillis signato, et agno aperiente librum."
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Caput IV. De primo sigillo, et apertione ejus."
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Caput V. De secundo sigillo, et apertione ejus."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Caput VI. De tertio sigillo, et apertione ejus."
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Caput VII. De quarto sigillo, et apertione ejus."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Caput VIII. De quinto sigillo, et apertione ejus."
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Caput IX. De sexto sigillo, et apertione ejus."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Caput X. De septimo sigillo, et apertione ejus."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Liber tertius. De visione tertia"
+      },
+      "children": [
+        {
+          "id": "c026",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Caput primum. De septem angelis canentibus tuba, et de alio angelo stante ante altare."
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Caput II. De primo angelo, et tuba ejus."
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Caput III. De secundo angelo, et tuba ejus."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Caput IV. De tertio angelo, et tuba ejus."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Caput V. De quarto angelo, et tuba ejus."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Caput VI. De quinto angelo, et tuba ejus."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Caput VII. De sexto angelo, et tuba ejus."
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Caput VIII. De septimo angelo, et tuba ejus."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Liber quartus. De visione quarta"
+      },
+      "children": [
+        {
+          "id": "c035",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Caput primum. De templo aperto, et arca visa, et muliere pariente."
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Caput II. De Michaele, et dracone, et praelia eorum."
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Caput III De persecutione draconis, et fuga mulieris."
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Caput IV. De bestia ascendente de mari."
+          }
+        },
+        {
+          "id": "c040",
+          "title": {
+            "la": "Caput V. De bestia ascendente de terra."
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Caput VI. De Agno, et centum quadraginta quatuor millibus."
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Caput VII. De tribubus angelis succedenter praedicantibus."
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Caput VIII. De angelo Christum signante et de judicio."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "Liber quintus. De visione quinta"
+      },
+      "children": [
+        {
+          "id": "c044",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c045",
+          "title": {
+            "la": "Caput primum. De septem angelis, et septem plagis novissimis."
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Caput II. De septem angelis, et septem phialis eis datis."
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Caput III. De primo angelo et phiala ejus."
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Caput IV. De secundo angelo, et phiala ejus."
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Caput V. De tertio angelo et phiala ejus."
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Caput VI. De quarto angelo et phiala ejus."
+          }
+        },
+        {
+          "id": "c051",
+          "title": {
+            "la": "Caput VII. De quinto angelo, et phiala ejus."
+          }
+        },
+        {
+          "id": "c052",
+          "title": {
+            "la": "Caput VIII. De sexto angelo, et phiala ejus."
+          }
+        },
+        {
+          "id": "c053",
+          "title": {
+            "la": "Caput IX. De septimo angelo, et phiala ejus."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "title": {
+        "la": "Liber sextus. De visione sexta"
+      },
+      "children": [
+        {
+          "id": "c054",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c055",
+          "title": {
+            "la": "Caput primum. De ruina Babylonis et luctu amatorum ejus."
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Caput II. De exemplo submersionis ejus."
+          }
+        },
+        {
+          "id": "c057",
+          "title": {
+            "la": "Caput III. De gratiarum actione Deo exhibenda de ruina ejus."
+          }
+        },
+        {
+          "id": "c058",
+          "title": {
+            "la": "Caput IV. De Christo eam judicante, et potestate ejus."
+          }
+        },
+        {
+          "id": "c059",
+          "title": {
+            "la": "Caput V. De angelo daemones invitante ad comestionem regum Babylonis, et tribunorum ejus."
+          }
+        },
+        {
+          "id": "c060",
+          "title": {
+            "la": "Caput VI. De damnatione Antichristi, et pseudoprophetae ejus."
+          }
+        },
+        {
+          "id": "c061",
+          "title": {
+            "la": "Caput VII. De Satana ligando, et iterum solvendo, et saevitia et damnatione ejus."
+          }
+        },
+        {
+          "id": "c062",
+          "title": {
+            "la": "Caput VIII. De die judicii, et qualitate ejus."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "title": {
+        "la": "Liber septimus. De visione septima"
+      },
+      "children": [
+        {
+          "id": "c063",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c064",
+          "title": {
+            "la": "Caput primum. De innovatione elementorum."
+          }
+        },
+        {
+          "id": "c065",
+          "title": {
+            "la": "Caput II. De civitate sancta Jerusalem coelesti."
+          }
+        },
+        {
+          "id": "c066",
+          "title": {
+            "la": "Caput III. De ostensione Agni sancto theologo per angelum facta."
+          }
+        },
+        {
+          "id": "c067",
+          "title": {
+            "la": "Caput IV. De muro Hierusalem, et portis, et angulis, et fundamentis ejus."
+          }
+        },
+        {
+          "id": "c068",
+          "title": {
+            "la": "Caput V. De mensura ejus."
+          }
+        },
+        {
+          "id": "c069",
+          "title": {
+            "la": "Caput VI. De qualitate muri, et fundamentorum, et portarum ejus."
+          }
+        },
+        {
+          "id": "c070",
+          "title": {
+            "la": "Caput VII. De fluvio aquae vivae, et ligno vitae, et fructu ejus."
+          }
+        },
+        {
+          "id": "c071",
+          "title": {
+            "la": "Caput VIII. De triplici commendatione libri hujus."
+          }
+        },
+        {
+          "id": "c072",
+          "title": {
+            "la": "Caput IX. Contestatio sancti Joannis ad audientem verba prophetiae hujus."
+          }
+        },
+        {
+          "id": "c073",
+          "title": {
+            "la": "Caput X. Generalis recapitulatio septem visionum."
+          }
+        }
+      ]
+    }
+  ]
+}
