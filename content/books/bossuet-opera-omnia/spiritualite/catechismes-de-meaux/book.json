@@ -1,0 +1,408 @@
+{
+  "id": "bossuet-catechismes-de-meaux",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Catéchismes de Meaux",
+    "en-US": "Catechisms of Meaux",
+    "pt-BR": "Catecismos de Meaux"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Les catéchismes de l’évêque de Meaux pour son diocèse (1687) : le Premier et le Second Catéchisme (histoire sainte, symbole, commandements, sacrements, prière), les Instructions particulières sur la pénitence, l’eucharistie et la confirmation, et le Catéchisme des fêtes. Édition Lachat (1862).",
+    "en-US": "The catechisms of the Bishop of Meaux for his diocese (1687): the First and Second Catechism (sacred history, the Creed, the commandments, the sacraments, prayer), the particular Instructions on penance, the Eucharist and confirmation, and the Catechism of the Feasts. Lachat edition (1862).",
+    "pt-BR": "Os catecismos do bispo de Meaux para sua diocese (1687): o Primeiro e o Segundo Catecismo (história sagrada, símbolo, mandamentos, sacramentos, oração), as Instruções particulares sobre a penitência, a eucaristia e a confirmação, e o Catecismo das festas. Edição Lachat (1862)."
+  },
+  "composed": "1687",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/catechismes-de-meaux",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume005/001.htm to 007.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume V, pages 001-007. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques-historiques",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "avertissement",
+      "title": {
+        "fr-FR": "Avertissement sur le catéchisme"
+      }
+    },
+    {
+      "id": "premier-catechisme",
+      "title": {
+        "fr-FR": "Premier catéchisme"
+      }
+    },
+    {
+      "id": "second-catechisme",
+      "title": {
+        "fr-FR": "Second catéchisme"
+      },
+      "children": [
+        {
+          "id": "second-0",
+          "title": {
+            "fr-FR": "Introduction"
+          }
+        },
+        {
+          "id": "second-001",
+          "title": {
+            "fr-FR": "Abrégé de l'histoire Sainte"
+          }
+        },
+        {
+          "id": "second-002",
+          "title": {
+            "fr-FR": "Premiere partie de la doctrine chrétienne"
+          }
+        },
+        {
+          "id": "second-003",
+          "title": {
+            "fr-FR": "Seconde partie de la doctrine chrétienne"
+          }
+        },
+        {
+          "id": "second-004",
+          "title": {
+            "fr-FR": "Troisième partie de la doctrine chrétienne"
+          }
+        },
+        {
+          "id": "second-005",
+          "title": {
+            "fr-FR": "Quatrième partie de la doctrine chrétienne"
+          }
+        },
+        {
+          "id": "second-006",
+          "title": {
+            "fr-FR": "Cinquième partie de la doctrine chrétienne des sacrements"
+          }
+        }
+      ]
+    },
+    {
+      "id": "instructions-particulieres",
+      "title": {
+        "fr-FR": "Instructions particulières"
+      },
+      "children": [
+        {
+          "id": "instruction-001",
+          "title": {
+            "fr-FR": "Instruction pour le Sacrement de pénitence"
+          }
+        },
+        {
+          "id": "instruction-002",
+          "title": {
+            "fr-FR": "Instruction sur le Sacrement de l'Eucharistie"
+          }
+        },
+        {
+          "id": "instruction-003",
+          "title": {
+            "fr-FR": "Instruction sur le Sacrement de mariage"
+          }
+        }
+      ]
+    },
+    {
+      "id": "catechisme-des-fetes",
+      "title": {
+        "fr-FR": "Catéchisme des fêtes"
+      },
+      "children": [
+        {
+          "id": "fetes-001",
+          "title": {
+            "fr-FR": "Avertissement aux curés, vicaires et catéchistes de son diocèse"
+          }
+        },
+        {
+          "id": "fetes-002",
+          "title": {
+            "fr-FR": "Leçon I. De l'institution du dimanche"
+          }
+        },
+        {
+          "id": "fetes-003",
+          "title": {
+            "fr-FR": "Leçon II. De la Messe paroissiale, et premièrement du prône"
+          }
+        },
+        {
+          "id": "fetes-004",
+          "title": {
+            "fr-FR": "Leçon III. De l'offrande, du sacrifice et de la Communion, et en général de l'amour qu'on doit avoir pour sa paroisse"
+          }
+        },
+        {
+          "id": "fetes-005",
+          "title": {
+            "fr-FR": "Leçon IV. De l'eau bénite, du pain béni, et du reste qui regarde la sanctification du dimanche"
+          }
+        },
+        {
+          "id": "fetes-006",
+          "title": {
+            "fr-FR": "Leçon I. Avant le premier dimanche de l'A vent"
+          }
+        },
+        {
+          "id": "fetes-007",
+          "title": {
+            "fr-FR": "Leçon II. Pour le jour de Noël"
+          }
+        },
+        {
+          "id": "fetes-008",
+          "title": {
+            "fr-FR": "Leçon III. Pour la fête de la Circoncision, au dimanche qui précède, ou si ce dimanche est empêché d'ailleurs, au jour même de la fête"
+          }
+        },
+        {
+          "id": "fetes-009",
+          "title": {
+            "fr-FR": "Leçon IV. De l'Epiphanie, au dimanche qui la précède, pour être continuée le jour même"
+          }
+        },
+        {
+          "id": "fetes-010",
+          "title": {
+            "fr-FR": "Leçon V. Pour faire le dimanche d'après l'Epiphanie, sur le baptême de Jésus-Christ, et le changement d'eau en vin"
+          }
+        },
+        {
+          "id": "fetes-011",
+          "title": {
+            "fr-FR": "Leçon VI. De la vie cachée de Jésus-Christ avec la sainte Vierge et saint Joseph"
+          }
+        },
+        {
+          "id": "fetes-012",
+          "title": {
+            "fr-FR": "Leçon VII. Au dimanche de la Septuagésime, tant pour ce dimanche que pour les surfaits"
+          }
+        },
+        {
+          "id": "fetes-013",
+          "title": {
+            "fr-FR": "Leçon VIII. Au premier dimanche de Carême"
+          }
+        },
+        {
+          "id": "fetes-014",
+          "title": {
+            "fr-FR": "Leçon IX. Au dimanche de la Passion, pour le dimanche des Rameaux"
+          }
+        },
+        {
+          "id": "fetes-015",
+          "title": {
+            "fr-FR": "Leçon X. Le dimanche des Rameaux, pour la Semaine sainte"
+          }
+        },
+        {
+          "id": "fetes-016",
+          "title": {
+            "fr-FR": "Leçon XI. Pour le saint jour de Pâques"
+          }
+        },
+        {
+          "id": "fetes-017",
+          "title": {
+            "fr-FR": "Leçon XII. Le dimanche avant la Saint-Marc, et encore avant les Rogations"
+          }
+        },
+        {
+          "id": "fetes-018",
+          "title": {
+            "fr-FR": "Leçon XIII. Le jour de l'Ascension"
+          }
+        },
+        {
+          "id": "fetes-019",
+          "title": {
+            "fr-FR": "Leçon XIV. Pour le jour de la Pentecôte, le dimanche durant l'octave de l'Ascension"
+          }
+        },
+        {
+          "id": "fetes-020",
+          "title": {
+            "fr-FR": "Leçon XV. Pour le jour de la Trinité"
+          }
+        },
+        {
+          "id": "fetes-021",
+          "title": {
+            "fr-FR": "Leçon XV. Pour la fête du saint Sacrement"
+          }
+        },
+        {
+          "id": "fetes-022",
+          "title": {
+            "fr-FR": "Leçon unique"
+          }
+        },
+        {
+          "id": "fetes-023",
+          "title": {
+            "fr-FR": "Leçon I. Pour la Conception, 8 décembre"
+          }
+        },
+        {
+          "id": "fetes-024",
+          "title": {
+            "fr-FR": "Leçon II. Pour la Nativité de la sainte Vierge, 8 septembre"
+          }
+        },
+        {
+          "id": "fetes-025",
+          "title": {
+            "fr-FR": "Leçon III. Pour l'Annonciation de la sainte Vierge, 25 de mars"
+          }
+        },
+        {
+          "id": "fetes-026",
+          "title": {
+            "fr-FR": "Leçon IV. Pour la Visitation de la sainte Vierge, 2 juillet"
+          }
+        },
+        {
+          "id": "fetes-027",
+          "title": {
+            "fr-FR": "Leçon V. Pour la Purification, 2 février"
+          }
+        },
+        {
+          "id": "fetes-028",
+          "title": {
+            "fr-FR": "Leçon VI. Pour l'Assomption de la sainte Vierge, 15 août"
+          }
+        },
+        {
+          "id": "fetes-029",
+          "title": {
+            "fr-FR": "Leçon VII. De la Présentation de la sainte Vierge, 21 novembre"
+          }
+        },
+        {
+          "id": "fetes-030",
+          "title": {
+            "fr-FR": "Leçon I. Pour la Nativité de saint Jean-Baptiste, le 24 juin"
+          }
+        },
+        {
+          "id": "fetes-031",
+          "title": {
+            "fr-FR": "Leçon II. Des saints Apôtres et des saints Evangélistes en général"
+          }
+        },
+        {
+          "id": "fetes-032",
+          "title": {
+            "fr-FR": "Leçon III. Pour le jour de saint Pierre et de saint Paul, le 29 juin"
+          }
+        },
+        {
+          "id": "fetes-033",
+          "title": {
+            "fr-FR": "Leçon IV. Pour le jour des saints Innocents, 28 décembre"
+          }
+        },
+        {
+          "id": "fetes-034",
+          "title": {
+            "fr-FR": "Leçon V. Pour le jour de saint Etienne, 26 décembre"
+          }
+        },
+        {
+          "id": "fetes-035",
+          "title": {
+            "fr-FR": "Leçon VI. De saint Denys et de ses compagnons, 9 octobre"
+          }
+        },
+        {
+          "id": "fetes-036",
+          "title": {
+            "fr-FR": "Leçon VII. Pour le jour de saint Martin, évêque, 11 novembre"
+          }
+        },
+        {
+          "id": "fetes-037",
+          "title": {
+            "fr-FR": "Leçon VIII. Pour le jour de saint Fiacre, 30 août"
+          }
+        },
+        {
+          "id": "fetes-038",
+          "title": {
+            "fr-FR": "Leçon IX. Qui sera faite environ le temps de sainte Geneviève, 3 janvier; ou la fête de quelque autre sainte"
+          }
+        },
+        {
+          "id": "fetes-039",
+          "title": {
+            "fr-FR": "Leçon X. Pour la fête de tous les Saints, 1er novembre"
+          }
+        },
+        {
+          "id": "fetes-040",
+          "title": {
+            "fr-FR": "Leçon XI. Pour le jour des Morts, où il est aussi parlé des funérailles et de la Messe des Morts"
+          }
+        },
+        {
+          "id": "fetes-041",
+          "title": {
+            "fr-FR": "Leçon XII. Pour les Quatre-Temps, et pour les Vigiles"
+          }
+        },
+        {
+          "id": "fetes-042",
+          "title": {
+            "fr-FR": "Leçon XIII. Pour le jour de la Dédicace de l'Eglise"
+          }
+        },
+        {
+          "id": "fetes-043",
+          "title": {
+            "fr-FR": "Leçon XIV. Pour les fêtes des Patrons"
+          }
+        },
+        {
+          "id": "fetes-044",
+          "title": {
+            "fr-FR": "Leçon XV. Pour la fête des saints Anges Gardiens, au commencement du mois d'octobre"
+          }
+        }
+      ]
+    }
+  ]
+}
