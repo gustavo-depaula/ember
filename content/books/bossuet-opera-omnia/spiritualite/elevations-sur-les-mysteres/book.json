@@ -1,0 +1,198 @@
+{
+  "id": "bossuet-elevations-sur-les-mysteres",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Élévations à Dieu sur tous les mystères de la religion chrétienne",
+    "en-US": "Elevations to God on All the Mysteries of the Christian Religion",
+    "pt-BR": "Elevações a Deus sobre todos os mistérios da religião cristã"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Vingt-cinq semaines de méditations, chacune en une suite d’« élévations » : de l’unité et de la perfection de Dieu, de la Trinité, de la création, de la chute, des prophéties, jusqu’à l’enfance et au ministère du Christ. Œuvre posthume (1727) écrite pour les religieuses de Meaux, une des sommes de la spiritualité française du Grand Siècle. Édition Lachat (1862).",
+    "en-US": "Twenty-five weeks of meditations, each a run of “elevations”: on the unity and perfection of God, the Trinity, creation, the fall, the prophecies, down to the childhood and ministry of Christ. A posthumous work (1727) written for the nuns of Meaux, a summit of French seventeenth-century spirituality. Lachat edition (1862).",
+    "pt-BR": "Vinte e cinco semanas de meditações, cada uma em uma série de «elevações»: sobre a unidade e a perfeição de Deus, a Trindade, a criação, a queda, as profecias, até a infância e o ministério de Cristo. Obra póstuma (1727), escrita para as religiosas de Meaux, um dos cumes da espiritualidade francesa do Grande Século. Edição Lachat (1862)."
+  },
+  "composed": "1695",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/elevations-sur-les-mysteres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume007/002.htm to 027.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume VII, pages 002-027. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "priere",
+      "title": {
+        "fr-FR": "Prière à Jésus-Christ"
+      }
+    },
+    {
+      "id": "semaine-01",
+      "title": {
+        "fr-FR": "Première Semaine. Élévations à Dieu sur son unité et sa perfection"
+      }
+    },
+    {
+      "id": "semaine-02",
+      "title": {
+        "fr-FR": "IIe Semaine. Élévations à la Très-Sainte Trinité"
+      }
+    },
+    {
+      "id": "semaine-03",
+      "title": {
+        "fr-FR": "IIIe Semaine. Élévations sur la création de l'univers"
+      }
+    },
+    {
+      "id": "semaine-04",
+      "title": {
+        "fr-FR": "IVe Semaine. Élévations sur la création des anges et celle de l'homme"
+      }
+    },
+    {
+      "id": "semaine-05",
+      "title": {
+        "fr-FR": "Ve Semaine. Suite des singularités sur la création de l'homme"
+      }
+    },
+    {
+      "id": "semaine-06",
+      "title": {
+        "fr-FR": "VIe Semaine. Élévations sur la tentation et le culte de l'homme"
+      }
+    },
+    {
+      "id": "semaine-07",
+      "title": {
+        "fr-FR": "VIIe Semaine. Sur le péché originel"
+      }
+    },
+    {
+      "id": "semaine-08",
+      "title": {
+        "fr-FR": "VIIIe Semaine. La délivrance promise depuis Adam jusqu'à la Loi"
+      }
+    },
+    {
+      "id": "semaine-09",
+      "title": {
+        "fr-FR": "IXe Semaine. La Loi et les Prophéties promettent le libérateur, et lui préparent la voie"
+      }
+    },
+    {
+      "id": "semaine-10",
+      "title": {
+        "fr-FR": "Xe Semaine. Elévations sur les Prophéties"
+      }
+    },
+    {
+      "id": "semaine-11",
+      "title": {
+        "fr-FR": "XIe Semaine. L'avènement de Saint Jean-Baptiste Précurseur de Jésus-Christ"
+      }
+    },
+    {
+      "id": "semaine-12",
+      "title": {
+        "fr-FR": "XIIe Semaine"
+      }
+    },
+    {
+      "id": "semaine-13",
+      "title": {
+        "fr-FR": "XIIIe Semaine. Onction de Jésus-Christ : Sa Royauté : Sa Généalogie : Son Sacerdoce"
+      }
+    },
+    {
+      "id": "semaine-14",
+      "title": {
+        "fr-FR": "XIVe Semaine. Les effets que produit sur les hommes le Verbe Incarné incontinent après son Incarnation"
+      }
+    },
+    {
+      "id": "semaine-15",
+      "title": {
+        "fr-FR": "XVe Semaine. La Nativité du Saint Précurseur"
+      }
+    },
+    {
+      "id": "semaine-16",
+      "title": {
+        "fr-FR": "XVIe Semaine. La Nativité de Jésus-Christ"
+      }
+    },
+    {
+      "id": "semaine-17",
+      "title": {
+        "fr-FR": "XVIIe Semaine. Suite des Mystères de l'Enfance de Jésus-Christ"
+      }
+    },
+    {
+      "id": "semaine-18",
+      "title": {
+        "fr-FR": "XVIIIe Semaine."
+      }
+    },
+    {
+      "id": "semaine-19",
+      "title": {
+        "fr-FR": "XIXe Semaine. Commencement des persécutions de l'Enfant Jésus"
+      }
+    },
+    {
+      "id": "semaine-20",
+      "title": {
+        "fr-FR": "XXe Semaine. La Vie cachée de Jésus jusqu'à son Baptême"
+      }
+    },
+    {
+      "id": "semaine-21",
+      "title": {
+        "fr-FR": "XXIe Semaine. la prédication de Saint Jean-Baptiste"
+      }
+    },
+    {
+      "id": "semaine-22",
+      "title": {
+        "fr-FR": "XXIIe Semaine. Le Baptême de Jésus"
+      }
+    },
+    {
+      "id": "semaine-23",
+      "title": {
+        "fr-FR": "XXIIIe Semaine. Le jeûne et la tentation de Jésus-Christ"
+      }
+    },
+    {
+      "id": "semaine-24",
+      "title": {
+        "fr-FR": "XXIVe Semaine. Suite du témoignage de saint Jean-Baptiste"
+      }
+    },
+    {
+      "id": "semaine-25",
+      "title": {
+        "fr-FR": "XXVe Semaine : Sur les lieux où Jésus a prêché et pourquoi dans la Galilée"
+      }
+    }
+  ]
+}
