@@ -1,0 +1,23 @@
+# Lettre MCXXVII. À la Mère Favre, Supérieure de la Visitation de Lyon
+
+*Béatitude du dépouillement intérieur. - Le courage des filles du monde et celni des filles de Dieu. - Promesse d'union et de prières. - Il ne faut point permettre " aux apprehensions d'apprehender " notre cœur. -Recours aux saints Anges. - Sœur Marie-Renée ; souvenir consolant de sa confession générale.*
+
+Annecy, fin octobre ou commencement de novembre 1615.
+
+Je le voy certes de mes propres yeux, ce me semble, et le sens de mon propre cœur, ma tres chere Fille, que vous aves fait une prattique de tres grand despouillement. Mais, O que bienheureux sont les nudz de cœur, car Nostre Seigneur les revestira de graces, de benedictions et de sa speciale protection. Pauvres et chetifves creatures que nous sommes, en cette vie mortelle nous ne pouvons quasi rien faire de bon qu'en souffrant pour cela quelque mal ; non pas mesme nous ne pouvons quasi pas servir Dieu d'un costé que nous ne le quittions de l'autre, et souvent il nous convient quitter Dieu pour Dieu, renonçant a ses douceurs pour le servir en ses douleurs et travaux.
+
+Ma tres chere Fille, helas ! les filles que l'on marie renoncent bien a la presence des peres, meres et leur païs, pour se sousmettre a des maris bien souvent inconneus, ou au moins d'humeurs inconneuës, affin de leur faire des enfans pour ce monde. Il faut bien que les filles de Dieu ayent un courage encor plus grand que cela, pour former en sainteté et pureté de vie des enfans a sa divine Majesté.
+
+Mais avec tout cela, ma tres chere Fille, jamais nous ne nous pouvons quitter, nous que le propre sang de Nostre Seigneur, je veux dire son amour par le merite de son sang, tient collés ( 1 R 18,1 ) et unis ensemble. Certes, pour moy, je suis en verité si parfaitement vostre, qu'a mesure que ces deux ou troys journees de distance semblent nous separer corporellement, de plus fort et avec plus d'affection je me joins spirituellement a vous, comme a ma Fille tres chere. Vous seres la premiere aupres de nostre Mere en mes prieres et en mes soucis : soucis pourtant bien doux, pour l'extreme confiance que j'ay en ce soin celeste de la divine Providence sur vostre ame, laquelle sera bien heureuse si elle jette aussi dans ce sein d'amour infiny toutes ses apprehensions ( Ps 54, 23 ; 1 P 5, 7 ).
+
+Or sus, ma chere Fille, tenés vos yeux haut eslevés en Dieu ; aggrandissés vostre courage en la tressainte humilité, fortifiés-le en la douceur, confirmés-le en l'esgalité ; rendés vostre esprit perpetuellement maistre de vos inclinations et humeurs, ne permettés point aux apprehensions d'apprehender vostre cœur : un jour vous donnera la science de ce que vous aures a faire le jour suivant ( Ps 18,3 ). Vous aves ci devant franchi plusieurs passages, et ç'a esté par la grace de Dieu ; la mesme grace vous sera presente en toutes les occasions suivantes, et vous delivrera des difficultés et mauvais chemins l'un apres l'autre, quand il devroit envoyer un Ange pour vous porter es pas plus dangereux ( Mt 4, 6 ; Lc 4,10 ).
+
+Ne retournés point vos yeux devers vos infirmités et insuffisances sinon pour vous humilier, et non jamais pour vous descourager. Voyés souvent Dieu a vostre dextre ( Ps 15, 8 ) et les deux Anges qu'il vous a destinés, l'un pour vostre personne, l'autre pour la direction de vostre petite famille. Dites-leur souvent, a ces saintz Anges : Seigneurs, comme ferons nous ? Suppliés-les qu'ilz vous fournissent ordinairement les connoissances du vouloir divin qu'ilz contemplent, et les inspirations que Nostre Dame veut que vous recevies de ses propres mammelles d'amour. Ne regardés point cette varieté d'imperfections qui vivent en vous et en toutes les filles que Nostre Seigneur et Nostre Dame vous ont confiees, sinon pour vous tenir en la sainte crainte d'offencer Dieu, mays non jamais pour vous estonner ; car il ne se faut esbahir si chaque herbe et chaque fleur requiert son particulier soin en un jardin.
+
+J'ay sceu quelqu'une des graces que Dieu fit a nostre tres chere Seur Marie Renee sur son trespas . Elle estoit fort ma fille ; car lhors que je fus la, elle fit une reveuë de toute sa vie, pour me donner connoissance de ce qu'elle avoit esté, avec une humilité et confiance incroyable et sans grande necessité, avec une extreme edification pour moy quand j'y repense. La voyla maintenant a prier pour nous et pour
+
+vous specialement, puis qu'elle est trespassee vostre fille et sous vostre assistance.
+
+Faites-moy la consolation, ma chere Fille, de m'escrire souvent, et me dire tous-jours en confiance les choses que vous croires que je puisse utilement sçavoir de l'estat de vostre cœur, que je benis au nom de Nostre Seigneur de tout le mien, et suis en Dieu tout vostre.
+
+FRANÇs, E. de Geneve.
