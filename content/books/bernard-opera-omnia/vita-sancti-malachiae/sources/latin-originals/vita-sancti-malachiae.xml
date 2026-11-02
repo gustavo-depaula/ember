@@ -1,0 +1,3231 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Vita S. Malachiae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 182</title>
+           <idno>BerCla.ViSMa19</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <emph>658</emph> PRAEFATIO AD CONGANUM ABBATEM.</head>
+
+<pb n="1073A"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Semper quidem operae pretium fuit illustres
+Sanctorum describere vitas, ut sint in speculum et
+exemplum, ac quoddam veluti condimentum vitae
+hominum super terram. Per hoc enim quodammodo
+apud nos etiam post mortem vivunt, multosque ex
+his, qui viventes mortui sunt, ad veram provocant
+et revocant vitam. Verum nunc maxime id requirit
+raritas sanctitatis, et nostra plane aetas inops virorum.
+Quam sane inopiam super nos adeo invaluisse
+sentimus, ut nulli sit dubium illa sententia nos feriri: <hi>Quoniam abundabit iniquitas, refrigescet charitas
+multorum 
+ <note>(Matth. XXIV, 12)</note>
+          </hi>. Et ut suspicor ego, aut
+praesto, aut prope est, de quo scriptum est: <hi>Faciem
+ejus praecedet egestas <note>(Job XLI, 13)</note>
+          </hi>. Ni fallor, Antichristus
+<pb n="1073B"/>
+est iste, quem fames et sterilitas totius boni
+et praeit, et comitatur. Sive igitur nuntia jam praesentis,
+sive jamjamque adfuturi praenuntia, egestas
+in evidenti est. Taceo vulgus, taceo vilem filiorum
+hujus saeculi multitudinem: in ipsas Ecclesiae columnas
+volo oculos leves. Quem mihi ostendas vel
+de illorum numero, qui videntur dati in lucem gentium,
+non magis de sublimi fumantem, quam flammantem? <hi>Et si lumen quod in te est,</hi> 
+ inquit, <hi>tenebrae
+sunt, quantae sunt tenebrae? <note>(Matth. VI, 23.)</note>
+          </hi> Nisi tu
+illos forte (quod non credo) lucere dixeris, qui quaestum
+aestimant pietatem; qui in haereditate Domini,
+non quae Domini, sed magis quae sua sunt, quaeritant.
+Quid dico, quae sua sunt? Perfectus sit et sanctus
+<pb n="1073C"/>
+etiam sua quaerens, suaque retinens, si ab alienis
+cor manusque contineat. Meminerit tamen, qui sibi
+usque huc forte pervenisse videtur, eumdem exigi
+sanctitatis gradum et ab ethnico. An non milites
+suis jubentur contenti forte stipendiis, ut salvi fiant? <note>(Luc. III, 14.)</note> 
+ Magnum vero Ecclesiae doctori, si sit
+sicut unus militum: aut certe (quod ad illorum improperium
+propheta loquitur) <hi>sicut populus, ita et
+sacerdos <note>(Isa. XXIV, 2)</note>
+          </hi> fuerit! O deformitatem! itane
+summus merito reputandus erit, qui a summo corruens
+gradu, haerebit vix infimo, ne abysso absorbeatur?
+Quam rarus tamen iste ipse in clero? Quem
+item das mihi contentum necessariis, contemptorem
+superfluorum? Lex est tamen praefixa ab Apostolis
+Apostolorum successoribus: <hi>Victum et vestitum habentes,</hi> 
+<pb n="1074A"/>
+inquiunt, <hi>his contenti simus <note>(I Tim. VI, 8)</note>
+          </hi>.
+Ubi forma haec? In libris cernimus eam, sed non in
+viris. Habes vero de justo, quia <hi>lex Dei ejus in corde
+ipsius <note>(Psal. XXXVI, 31)</note>
+          </hi>, et non in codice. Nec perfectionis
+is gradus. Perfectus carere et necessariis
+paratus est. At gratis istud. Utinam superfluis ponatur
+modus! utinam non cupiamus in infinitum!
+Sed quid? Forte reperias qui hoc possit? Id quidem
+difficile: sed vide quid egimus. Quaerebamus virum
+optimum, multorum liberatorem: et ecce laboramus
+in inveniendo, qui se ipsum salvum facere
+possit. Optimus hodie est, qui non est nimis malus.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Unde quoniam a terra defecit sanctus, videor
+mihi non supervacue ex his qui empti sunt de terra,
+revocare ad medium Malachiam episcopum, virum
+<pb n="1074B"/>
+vere sanctum, et nostrorum quidem temporum, singularis
+sapientiae et virtutis. Iste erat lucerna ardens
+et lucens: nec exstincta est tamen, sed submota.
+Quis mihi jure succenseat, si readmovero eam? Imo
+vero non est quod mihi ingrati esse mei saeculi homines
+debeant, et omnis deinceps generatio ventura,
+si quem conditio tulit, revocem stilo; si mundo
+restituam, quo dignus non erat mundus; si servem
+memoriae hominum hominem, cujus memoria in
+benedictione sit omnibus, qui legere dignabuntur;
+si me excitante amicum dormientem, vox turturis
+audita fuerit in terra nostra, dicens: <hi>Ecce ego vobiscum
+sum omnibus diebus usque ad consummationem
+saeculi <note>(Matth. XXVIII, 20)</note>
+          </hi>. Deinde sepultus apud nos
+<pb n="1074C"/>
+est: nobis specialiter hoc opus incumbit. Quid quod
+me inter speciales amicos Sanctus ille habebat, et
+eo loci, ut nulli in hac parte gloriae secundum fuisse
+me credam? Nec mercede vacat mihi tantae familiaritas
+sanctitatis: primitias jam accepi. In extremis
+positus erat, imo in principiis, juxta illud: <hi>Cum consummatus fuerit homo, tunc incipit 
+ <note>(Eccli.
+XVIII, 6)</note>
+          </hi>. Accurri ego, ut benedictio morituri super
+me veniret. At ille cum jam membra alia movere
+non posset, fortis ad dandam benedictionem, elevatis
+sanctis manibus super caput meum, benedixit
+mihi, et benedictionem haereditate possideo: et
+quomodo ego illum silere queam? Postremo tu id
+mihi, abba Congane, injungis, reverendus frater, et
+dulcis amicus meus, ac tecum pariter (ut ex Hibernia
+<pb n="1075A"/>
+scribis) vestra illa omnis ecclesia sanctorum. Libens
+obedio, praesertim quod non eloquium exigitis, sed
+narrationem. Dabo vero operam, ut ea sit pura et
+luculenta, devotos informans, fastidiosos non onerans.
+Sane narrationis veritas secura apud me est,
+intimata a vobis, haud alia procul dubio protestantibus,
+quam quae certissime comperta sunt vobis.
+<emph>659</emph> </p>
+        </div3>
+
+<div2>
+          <head>CAPUT I. <hi>Pueritia et adolescentia S. Malachiae.</hi> </head>
+<div3>
+            <head>1.</head>
+            <p>
+ Malachias noster, ortus Hibernia de populo
+barbaro, ibi educatus, ibi litteras edoctus est. Caeterum
+de natali barbarie traxit nihil, non magis
+quam de sale materno pisces maris. Quam vero
+suave, quod inculta nobis barbaries tam urbanum
+protulit civem sanctorum, et domesticum Dei! Qui
+<pb n="1075B"/>
+producit mel de petra, oleumque de saxo durissimo,
+ipse fecit hoc. Parentes tamen illi fuere genere et
+potentia magni, juxta nomen magnorum qui sunt in
+terra. At mater mente, quam sanguine generosior,
+satagebat in ipso initio viarum suarum, notas parvulo
+facere vias vitae: hanc pluris illi existimans
+ventosa scientia litteraturae saecularis. Ad utramque
+tamen huic non defuit ingenium pro aetate. In scholis
+litteras, domi timorem Domini docebatur, et
+quotidianis profectibus respondebat ambobus satis,
+magistro et matri. Nempe a principio spiritum sortitus
+est bonum, per quem erat puer docilis, et
+amabilis valde, mire admodum omnibus per omnia
+gratiosus. Bibebat autem pro lacte de pectore materno
+aquas sapientiae salutaris, et fiebat in dies se
+<pb n="1075C"/>
+ipso prudentior. Prudentior, dicam, an sanctior?
+Utrumque si dixero, non me poenitebit: veritatem
+enim dicam. Agebat senem moribus, annis puer,
+expers lasciviae puerilis. Cumque ex hoc cunctis
+esset reverentiae ac stupori, non tamen inde, ut
+assolet, insolentior inveniebatur; sed magis quietus
+et subditus in omni mansuetudine. Non impatiens
+magisterii, non fugitans disciplinae, non lectionis
+fastidiens, non ludorum denique appetens: quod
+vel maxime illa aetas dulce ac familiare habere solet.
+Et proficiebat supra omnes coaetaneos suos in ea
+quidem litteratura, quae illi competebat aetati. Nam
+in disciplina morum profectuque virtutum, etiam
+super omnes docentes se in brevi enituit, non tam
+<pb n="1075D"/>
+matre tamen, quam unctione magistra. Hac sollicitante,
+haud segniter et in divinis exercebatur, petere
+secretum, anticipare vigilias, meditari in lege,
+refici parcius, orare frequentius. Et quia ecclesiam
+frequentare nec vacabat propter studium, et pro
+verecundia non libebat; levare puras manus in
+omni loco ad coelum, ubi tamen secrete id posset.
+Jam tunc siquidem cautus fuit declinare virus virtutum,
+inanem gloriam.</p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ Est vicus prope civitatem, in qua discebat puer,
+quo magister ejus frequenter pergere solitus erat,
+ipso solo comite. Illo euntibus ambobus pariter, ipse,
+ut postea referebat, retrahebat pedem, sistebat
+gradum, et stans a tergo magistri, illo quidem non
+comperiente, expansis ad coelum manibus, raptim
+<pb n="1076A"/>
+quodammodo, ac veluti jaculatam emittebat orationem:
+et sic dissimulans, magistrum denuo sequebatur.
+Istiusmodi pio furto puer saepius illudebat
+comitem pariter et magistrum. Non est dicere omnia,
+quae ejus principia colore bonae indolis decoravere:
+ad majora atque utiliora currendum. Unum
+tamen refero adhuc, quod hoc, meo quidem judicio,
+non modo bonae, sed et magnae in puero dederit
+insigne spei. Excitus aliquando opinione cujusdam
+magistri (erat enim famosus in disciplinis, quas
+dicunt liberales), adivit illum discendi cupiditate.
+Quippe extrema jam pueritiae captans, ad eas litteras
+anhelabat. Intrans vero domum, vidit virum
+ludentem subula, crebrisque sulcantem tractibus
+nescio quo notabili modo parietem. Et solo visu
+<pb n="1076B"/>
+offensus puer serius, quod levitatem redoleret, resilivit
+ab eo, ac deinceps illum nec videre curavit.
+Ita cum esset studiosissimus litterarum, prae honesto
+tamen sprevit eas virtutis amator. Tali quodam praeludio
+puer praeparabatur ad eum, qui se manebat in
+fortiori aetate conflictum: jamque ipse adversarium
+provocabat. Et Malachiae quidem pueritia sic erat.
+Porro adolescentiam simili transivit simplicitate et
+puritate: nisi quod crescente aetate, <emph>660</emph> crescebat
+simul illi sapientia et gratia apud Deum et homines.</p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ Hinc jam, id est ab ineunte adolescentia ejus,
+coepit manifestius apparere quid esset in homine, et
+gratia Dei in illo vacua non videri. Videns enim
+industrius adolescens, quam in maligno mundus
+positus sit <note>(Joan. V, 19)</note>, et cogitans qualem spiritum
+<pb n="1076C"/>
+accepisset, dicebat intra se:  « Non est spiritus
+hujus mundi iste. Quid isti, et illi? Non est societas
+alteri ad alterum, non plus quam luci ad tenebras.
+Meus ex Deo est, et scio quae in illo donata
+sunt mihi. Inde mihi interim adhuc innocentia vitae
+[ <hi>al.</hi> mea], inde continentiae decus, inde justitiae
+fames, inde quoque illa eo securior, quo secretior,
+gloria mea est, testimonium conscientiae meae. Nil
+horum mihi tutum sub principe mundi. Deinde habeo
+thesaurum hunc in fictili vase. Verendum ne
+impingat et frangatur, et effundatur oleum laetitiae
+quod porto. Et quidem non impingere inter saxa et
+scopulos distortae et anfractuosae viae et vitae hujus
+difficillimum. Itane momento perdam simul omnes,
+<pb n="1076D"/>
+quibus ab initio praeventus sum, benedictiones dulcedinis?
+Resigno illi potius, a quo sunt, et me pariter.
+Et ego enim ipsius. Perdo ipsam ad tempus
+animam meam, ne perdam in aeternum. Et quod
+sum, et quae habeo omnia, ubi mihi aeque salva, uti
+in manu Auctoris? Quis ita ad servandum sollicitus,
+ad retinendum potens, ad restituendum fidelis?
+Servabit tuto, restituet opportune. Sine retractatione
+me do ad serviendum illi de donis suis. Non
+potest mihi perire ex omnibus, quae in opus pietatis
+expendero. Forte et sperare plus aliquid licet. Solet
+reddere cum usura qui dat gratis. Ita est. Etiam cumulabit,
+et multiplicabit in anima mea virtutem. » 
+Haec cogitavit, et fecit, sciens absque facto vanas
+esse cogitationes hominum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II. <hi>Religiosae vitae tirocinium.</hi> </head>
+<div3>
+            <head>4.</head>
+            <p>
+ Erat homo in civitate Ardmacha (ipsa est, in
+<pb n="1077A"/>qua alitus est Malachias), et homo ille sanctus, et
+austerae admondum vitae, inexorabilis castigator corporis
+sui, cellam habens juxta ecclesiam. In ea manebat,
+jejuniis et obsecrationibus serviens die ac
+nocte. Ad hunc se contulit Malachias, formam vitae
+accepturus ab eo, qui vivum se tali damnaverat sepultura.
+Et vide humilitatem. A primaeva aetate in
+sancta arte magistrum (quod dubium non est) habuerat
+Deum: et ecce factus est denuo discipulus
+hominis, homo mitis et humilis corde. Si nesciebamus,
+hoc vel solo nobis ipse probavit. Legant hoc,
+qui docere quae non didicere conantur, discipulos
+<pb n="1077B"/>
+sibi coacervantes, qui nunquam discipuli exstitere,
+caeci duces caecorum. Malachias doctus a Deo, doctorem
+nihilo minus quaesivit hominem, et quidem
+caute, et sapienter. Quid simile, quaeso, afferre quibat,
+in quo aeque daret caperetque exprimentum
+profectus sui? Si Malachiae exemplum eis pro minimo
+est, Pauli opus attendant. Nonne Evangelium
+suum, quod non ab homine acceperat, sed a Christo
+cum hominibus tamen censuit conferendum, ne
+forte in vacuum curreret, aut cucurrisset? <hi>(Galat, I,
+II)</hi>. Ubi ille securus non est, nec ego. Si quis hoc
+scit, viderit, ne non tam securitas sit, quam temeritas.
+Sed haec alterius temporis.</p>
+          </div3>
+<div3>
+            <head>5.</head>
+            <p>
+ Nunc vero sonuit in civitate quod factum erat,
+et commota est universa ad inopinatam novitatem.
+<pb n="1077C"/>
+Stupebant autem omnes, et virtutem mirabantur,
+eoque amplius, quo minus usitatam in gente fera.
+Videres tunc revelari ex multorum cordibus cogitationes.
+Plerique humano affectu pensantes factum,
+plangere et dolere, quod dilectus omnibus, delicatusque
+adolescens, duris se adeo laboribus mancipasset.
+Alii suspicati levitatem propter aetatem, diffidere
+de perseverantia, timere de casu. Nonnulli
+temeritatem causantes, indignari et fremere in eum,
+quod supra aetatem et vires inconsulte rem arduam
+fuisset aggressus. <emph>661</emph> Verum ille sine consilio
+egit nihil. Nam habuit consilium a Propheta, qui
+ait: <hi>Bonum est homini, si portaverit jugum ab adolescentia;</hi> 
+et addit: <hi>Sedebit solitarius, et tacebit, quia
+levavit se supra se <note>(Thren. III, 27, 28)</note>
+            </hi>. Sedebat sibi
+<pb n="1077D"/>
+juvenculus secus pedes Imarii (hoc enim nomen
+viro), et aut discebat obedientiam, aut se didicisse
+docebat. Sedebat, ut quietus, ut mansuetus, ut humilis.
+Sedebat, et tacebat, sciens secundum prophetam,
+cultum justitiae esse silentium <note>(Isa. XXXII,
+17)</note>: sedebat ut perseverans, tacebat ut verecundus,
+nisi quod suo illo silentio in Dei auribus loquebatur
+cum sancto David: <hi>Adolescentulus sum ego et contemptus,
+<pb n="1078A"/>
+justificationes tuas non sum oblitus <note>(Psal.
+CXVIII, 141)</note>
+            </hi>. Et sedebat interim solitarius, quia et
+sine socio, et sine exemplo. Quis enim ante Malachiam
+districtissimum viri propositum vel cogitaret
+attentare? Nempe mirabile omnibus habebatur, non
+imitabile. Malachias imitabile persuasit, sedendo
+duntaxat, et tacendo. Intra paucos dies habuit imitatores
+non paucos, provocatos exemplo sui. Ita qui
+primo solitarius sedit, et unicus patris sui, fit jam
+unus ex multis, fit ex unigenito primogenitus in
+multis fratribus. Et ut prior in conversatione, ita in
+conversatione sublimior: et qui ante omnes venit,
+omnium judicio supra omnes emicuit in virtute. Et
+dignus visus est episcopo pariter et magistro, qui ad
+diaconi gradum promoveretur. Et coegerunt eum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III. <hi>Ordinibus initiatus episcopi vices gerit.</hi> </head>
+<div3>
+            <head>6.</head>
+            <p>
+ Hinc jam levita Domini publice se ad omne
+<pb n="1078B"/>opus pietatis accinxit: plus vero ad eas res, in
+quibus aliqua injuria videretur. Denique cura erat
+ei maxima in sepeliendis defunctis pauperibus, quod
+hoc sibi non minus humilitatem saperet, quam humanitatem.
+Nec defuit novo nostro Tobiae rediviva a
+muliere tentatio, imo a serpente per mulierem.
+Germana ejus indignitatem (ut sibi videbatur) officii
+exhorrens: Quid facis, inquit, o insane? dimitte
+mortuos sepelire mortuos suos. Et hoc illi quotidie
+exprobrans ingerebat. Sed respondebatur mulieri,
+stultate juxta stultitiam suam: Misera, tu eloquii
+casti vocem tenes, sed virtutem ignoras. Ita ministerium,
+<pb n="1078C"/>
+ad quod coactus accesserat, devotus tenuit,
+indefessus exercuit. Unde et censuerunt etiam
+sacerdotale officium imponendum illi. Et factum est
+ita. Erat autem, cum sacerdos ordinatus est, annos
+natus quasi viginti quinque. In qua ejus utraque
+ordinatione, si quid praeter Canonum formam processisse
+videtur, ut vere videtur (siquidem infra
+vicesimum quintum annum leviticum ministerium,
+infra tricesimum adeptus est sacerdotii dignitatem)
+ donandum sane tum zelo ordinatoris, tum
+meritis ordinati. Ego vero istud nec in sancto redarguendum,
+nec usurpandum consulo ei qui sanctus
+non fuerit. Nec contentus episcopus,
+etiam vices suas commisit ei, seminare semen sanctum
+<pb n="1078D"/>
+in gente non sancta, et dare rudi populo, et
+sine lege viventi, legem vitae et disciplinae. Suscepit
+ille mandatum in omni alacritate, sicut erat
+spiritu fervens; nec talentis incubans, sed inhians
+lucris. Et ecce linguae sarculo coepit evellere, destruere,
+dissipare, de die in diem factitans prava in
+directa, et aspera in vias planas. Exsultabat ut gigas
+ad discurrendum ubique. Diceres ignem urentem in
+consumendo criminum vepres. Diceres securim vel
+<pb n="1079A"/>
+asciam in dejiciendo plantationes malas, exstirpare
+barbaricos ritus, plantare ecclesiasticos. Veternosas
+omnes (neque enim paucae inveniebantur) abolebat
+superstitiones, seu quaslibet, ubicunque deprehendisset,
+malignitates immissas per angelos malos.</p>
+          </div3>
+<div3>
+            <head>7.</head>
+            <p>
+ Denique quidquid incompositum, quidquid indecorum, <emph>662</emph> 
+ quidquid distortum obvium habuisset,
+non parcebat oculus ejus: sed velut grando grossos e
+ficubus, et sicut pulverem ventus a facie terrae, sic
+coram facie sua hujusmodi nitebatur totum pro viribus
+exturbare ac delere de populo suo. Et pro his
+omnibus tradebat jura coelestia optimus legislator.
+Leges dabat plenas justitiae, plenas modestiae et honesti.
+Sed et apostolicas sanctiones ac decreta sanctorum
+Patrum, praecipueque consuetudines sanctae
+<pb n="1079B"/>
+Romanae Ecclesiae, in cunctis ecclesiis stutuebat. Hinc
+est, quod hodieque in illis ad horas canonicas cantatur
+et psallitur juxta morem universae terrae. Nam
+minime id ante fiebat, ne in civitate quidem. Ipse
+vero in adolescentia cantum didicerat, et in suo coenobio
+mox cantari fecit, cum necdum in civitate,
+seu in episcopatu universo cantare scirent, vel vellent.
+Deinde usum saluberrimum Confessionis, sacramentum
+Confirmationis, contractum conjugiorum,
+quae omnia aut ignorabant, aut negligebant, Malachias
+de novo instituit. Et de his ista pro exemplo
+sufficiant. Nam et per totum historiae textum, brevitatis
+studio plurima praeterimus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Malcho episcopo plenius instituendus adhaeret.</hi> </head>
+<div3>
+            <head>8.</head>
+            <p>
+ Cum esset illi studium et zelus maximus circa
+<pb n="1079C"/>cultum divinorum et venerationem Sacramentorum,
+ne forte de his aliquid constitueret vel doceret secus,
+quam ritus haberet universalis Ecclesiae, subiit
+animum adire episcopum Malchum [ <hi>al.</hi> Malachum],
+qui se plenius de omnibus informaret. Hic erat senex
+plenus dierum et virtutum, et sapientia Dei erat
+in illo. Natione quidem Hibernus, sed in Anglia conversatus
+fuerat in habitu et proposito monachali in
+Wintoniensi monasterio: de quo assumptus est in
+episcopum in Lesmor civitate Mumoniae: et ipsa
+nobilior inter caeteras regni illius. Ibi tanta ei desuper
+collata est gratia, ut non modo vita et doctrina,
+sed et signis clareret. Quorum duo pono exempli
+<pb n="1079D"/>
+causa, et omnibus innotescat, qualem in scientia
+sanctorum Malachias habuerit praeceptorem. Puerum
+mente captum, ex his quos lunaticos vocant, inter
+confirmandum sacra unctione sanavit. Hoc ita notum
+certumque fuit, ut illum mox constituerit ostiarium
+domus suae, vixeritque idem puer incolumis
+in eo officio usque ad virilem aetatem. Surdo auditum
+restituit: in quo idem mirabile quiddam confessus
+est quod cum sanctus utrique auriculae hinc
+inde digitos immisisset, duos quasi porcellos ex ipsis
+exire senserit. Pro his atque hujusmodi fama crebrescente,
+nomen grande adeptus est; ita ut ad eum
+Scoti, Hibernique confluerent, et tanquam unus omnium
+<pb n="1080A"/>
+pater ab omnibus coleretur. Ad hunc ergo
+Malachias, accepta benedictione patris Imarii, et ab
+episcopo missus, cum prospere pervenisset, benigne
+a sene susceptus est: qui annos aliquot cum eo
+mansit, ut per hanc temporis moram hauriret plenius
+de pectore veterano, sciens scriptum: Quia <hi>in
+antiquis est sapientia <note>(Job XII, 12)</note>
+            </hi>. Sed nec hoc quoque
+ad causam defuisse reor, quod magnus ille Provisor
+universorum voluit servum suum Malachiam
+in loco tam celebri notum fieri omnibus, qui erat omnibus
+profuturus. Nec enim poterat non esse gratus,
+quibus notus fuisset. Denique unum interim accidit,
+per quod ex aliqua parte quod notum Deo erat in
+illo, manifestum fecit hominibus.</p>
+          </div3>
+<div3>
+            <head>9.</head>
+            <p>
+ Inter regem Mumoniae (quae est Hiberniae pars
+<pb n="1080B"/>
+australis) et germanum ejus orta simultate, et fratre
+facto superiori, Rex pulsus regno, confugit ad
+episcopum Malchum. Non tamen ut ope illius regnum
+recuperaret: sed magis princeps devotus dedit
+locum irae, et necessitatem in virtutem convertit,
+privatam <emph>663</emph> eligens ducere vitam. Cumque episcopus
+Regem suscipere debito honore pararet, abnuit
+ille, se malle inquiens tanquam unum ex illis
+esse pauperibus fratribus qui illi adhaererent, regium
+fastum deponere, et communi paupertate fore
+contentum, exspectare potius Domini voluntatem,
+quam per vim recipere regnum; nec velle pro suo
+honore terreno sanguinem humanum effundere, qui
+contra se clamet ad Deum de terra. Quo audito, exsultat
+<pb n="1080C"/>
+episcopus, et admiratus devotionem, satisfacit
+voto. Quid plura? Traditur Regi paupercula domus
+ad habitandum, et Malachias in magistrum, ad victum
+panis cum sale et aqua. Porro ad delicias sufficiebat
+Regi Malachiae praesentia, vita atque doctrina,
+ita ut diceret ei: <hi>Quam dulcia faucibus meis eloquia
+tua! super mel ori meo <note>(Psal. CXVIII, 103)</note>
+            </hi>. Ad
+haec per singulas noctes lacrymis suis stratum suum
+rigabat: sed et quotidiano aquae frigidae balneo male
+calentem exstinguebat in carne libidinem. Et orans
+Rex, cum Rege dicebat: <hi>Vide humilitatem meam et
+laborem meum, et dimitte universa delicta mea <note>(Psal.
+XXIV, 18)</note>
+            </hi>. Et non amovit Deus orationem ejus et
+misericordiam suam ab eo. Et exaudita est oratio
+ejus, etsi secus, quam intenderet ipse. Nam is quidem
+<pb n="1080D"/>
+sollicitus erat pro anima sua: sed vindex innocentiae
+Deus, hominibus ostendere volens quoniam
+sunt reliquiae homini pacifico, parabat interim facere
+judicium injuriam patienti, quod ille penitus non
+sperabat. Et suscitavit Deus spiritum vicini regis:
+neque enim unum est Hibernia regnum, sed divisa
+in plura. Hic itaque videns quae facta sunt, repletus
+est zelo: et hinc quidem indignans praedonum libertati,
+et insolentiae superborum; inde vero miserans
+regni desolationem et Regis dejectionem, descendit
+ad cellulam pauperis: suadet reditum, sed
+non persuadet. Instat tamen, spondet opem, de
+effectu non diffidere monet; Deum affuturum promittit,
+<pb n="1081A"/>
+cui non poterunt resistere omnes adversarii
+ejus. Proponit etiam oppressionem pauperum patriaeque
+vastationem, et non proficit.</p>
+          </div3>
+<div3>
+            <head>10.</head>
+            <p>
+ Caeterum accedente mandato episcopi et Malachiae
+consilio, de quibus ille pendebat totus, vix
+tandem acquiescit. Sequitur Rex Regem, et juxta
+verbum Regis, sicut fuerat voluntas in coelo, tota
+facilitate pulsis praedonibus, reducitur homo in sua
+cum exsultatione suorum, regnoque restituitur suo.
+Dilexit extunc Rex ille, et semper reveritus est Malachiam:
+eoque propensius, quo plenius in sancto
+viro digna veneratione et amore compererat. Cujus
+enim tantam meruit in sua adversitate familiaritatem,
+sanctitatem ignorare non potuit. Propterea magis
+in sua prosperitate perpetuis illum amicitiis,
+<pb n="1081B"/>
+devotisque colebat obsequiis, et libenter audiebat
+eum, et audito eo multa faciebat. Et de his satis.
+Verumtamen non fortuitu factum reor, quod ita jam
+tunc magnificavit eum Dominus in conspectu regum:
+sed quia vas electionis sibi erat ille, portaturus nomem
+suum coram regibus et principibus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V. <hi>Sorori defunctae sacrificii oblatione succurrit.</hi> </head>
+<div3>
+            <head>11.</head>
+            <p>
+ Mortua est interim soror ejus illa, quam praefati
+sumus. Nec praetereundae visiones, quas vidit
+de ea. Hujus siquidem sanctus carnalem exhorruerat
+vitam, et tanto zelo, ut se devoverit non visurum
+eam in carne viventem. At illa carne soluta,
+solutum est votum, et coepit videre in spiritu, quam
+<pb n="1081C"/>
+in corpore noluit. Quadam nocte audivit per somnium
+vocem sibi dicentis, sororem ejus stare foras
+in atrio, et ecce per totos triginta dies nihil gustasse:
+qui evigilans cito intellexit, cujus escae inedia
+marceret. Et diligenter discusso numero dierum
+quem audierat, ipsum esse reperit, ex quo pro ea
+Panem de coelo vivum non obtulisset. Tum ille qui
+sororis non animam oderat, sed peccatum; beneficientiam,
+quam <emph>664</emph> intermiserat, rursum adoritur
+Neque frustra. Non multo post visa est illi pervenisse
+ad limen ecclesiae, necdum tamen posse intrare;
+apparere etiam in veste pulla. Cumque ille
+perseveraret, curans ne qua die solita stipe frustraretur;
+secundo vidit eam in veste subcandida; admissam
+quidem intra ecclesiam, sed altare contingere
+<pb n="1081D"/>
+non permitti. Tertio tandem visa est aggregari
+coetui candidatorum, et in veste candida. Vides, lector,
+quantum valeat deprecatio justi assidua? Vere
+regnum coelorum vim patitur, et violenti rapiunt
+illud. Nonne tibi videtur Malachiae oratio vicem
+quodammodo effractoris exhibuisse coelestibus portis,
+quando peccatrix mulier fraternis obtinuit armis,
+quod suis meritis negabatur? Hanc vim, Jesu bone,
+tu qui pateris, facis, validus et pius ad salvandum,
+faciens misericordiam et potentiam in brachio tuo,
+et in Sacramento tuo servans sanctis qui in terra
+sunt, usque in consummationem saeculi. Hoc plane
+<pb n="1082A"/>
+Sacramentum potens peccata consumere, debellare
+obvias potestates, inferre coelis revertentes de
+terra.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI. <hi>Monasterium Benchorense desolatum instaurat.</hi> </head>
+<div3>
+            <head>12.</head>
+            <p>
+ Et Dominus quidem in regione Lesmorensi sic
+praeparabat dilectum suum Malachiam ad gloriam
+nominis sui. Verum qui miserant eum, minime jam
+ferentes absentiam ejus, missis epistolis revocant
+illum. Quo reddito suis, et quidem instructiore de
+omnibus quae oportebat; en opus a Deo paratum et
+servatum Malachiae. Vir dives et potens, qui locum
+Benchor et possessiones ejus tenebat, inspiratus a
+Deo, confestim in manu ejus sua omnia dedit et se
+quoque. Et is avunculus ejus. Sed Malachiae spiritus
+<pb n="1082B"/>
+quam carnis propinquitas pluris fuit. Ipsum quoque
+locum Benchor, de quo cognominabatur, tradidit
+ei princeps, ut aedificaret ibi monasterium,
+vel potius reaedificaret. Nempe nobilissimum exstiterat
+ante sub primo patre Congello, multa millia
+monachorum generans, multorum monasteriorum
+caput. Locus vere sanctus fecundusque sanctorum,
+copiosissime fructificans Deo, ita ut unus ex filiis
+sanctae illius congregationis, nomine Luanus, centum
+solus monasteriorum fundator exstitisse feratur.
+Quod idcirco dixerim, ut ex hoc uno conjiciat lector,
+quam ingens fuerit reliqua multitudo. Denique ita
+Hiberniam Scotiamque repleverunt genimina ejus,
+ut ea potissimum tempora Davidici illi versiculi
+<pb n="1082C"/>
+praecinisse videantur: <hi>Visitasti terram, et inebriasti
+eam, multiplicasti locupletare eam. Flumen Dei repletum
+est aquis, parasti cibum illorum, quoniam ita est
+praeparatio ejus. Rivos ejus inebria, multiplica genimina
+ejus; in stillicidiis ejus laetabitur germinans <note>(Ps. LXIV,
+10, 11)</note>
+            </hi> Et in hunc modum caeteri qui sequuntur. Nec
+modo in praefatas, sed et in exteras etiam regiones,
+quasi inundatione facta, illa se sanctorum examina
+effuderunt. E quibus ad has nostras Gallicanas partes
+sanctus Columbanus ascendens, Luxoviense construxit
+monasterium, factus ibi in gentem magnam. Aiunt
+tam magnam fuisse, ut succedentibus sibi vicissim
+choris, continuarentur solemnia divinorum, ita ut ne
+momentum quidem diei ac noctis vacaret a laudibus.</p>
+          </div3>
+<div3>
+            <head>13.</head>
+            <p>
+ Haec de antiqua dicta sint Benchorensis monasterii
+<pb n="1082D"/>
+gloria. Hoc olim destructum a piratis, ob
+insigne dignitatis antiquae, Malachias, veluti quemdam
+replantaturus paradisum, amplexus est, et quia
+multa corpora sanctorum dormirent ibi. Nam ut
+taceam illa quae in pace sepulta sunt, ferunt nongentos
+simul una die a piratis occisos. Erat quidem ingens
+loci illius possessio: sed Malachias solo contentus
+loco sancto, totas possessiones et terras
+alteri cessit. Siquidem a tempore quo destructum
+est monasterium, non defuit qui illud teneret cum
+possessionibus suis. Nam et constituebantur per
+electionem etiam et abbates appellabantur, servantes
+<pb n="1083A"/>
+nomine, etsi non re, quod olim <emph>665</emph> exstiterat. Cumque
+suaderent multi non alienare possessiones, sed
+totum simul retinere sibi, non acquievit paupertatis
+amator: sed fecit eligi juxta morem qui eas teneret,
+loco, ut praediximus, retento sibi et suis. Et fortassis
+consultius, ut post apparuit, integrum retinuisset,
+si non magis suae prospexisset humilitati, quam
+paci.</p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ Itaque ex mandato patris Imarii assumptis
+secum decem circiter fratribus, veniens ad locum,
+coepit aedificare. Ubi quadam die cum in securi ipse
+secaret, casu ex operariis unus, illo vibrante in aera
+securim, locum incaute occupavit quo ictus destinabatur:
+et cecidit super spinam dorsi ejus, tanto
+utique impetu, quanto ille conatu impingere valuit.
+<pb n="1083B"/>
+Corruit ille: accurrere omnes, putantes aut percussum
+ad mortem aut mortuum. Et tunica quidem
+scissa a summo usque deorsum: homo vero illaesus
+inventus est, tam modice et summatim perstricta
+cute, ut vix in superficie vestigium appareret. Stabat
+homo incolumis, quem securis prostraverat, intuentibus
+et stupentibus qui circumstabant. Unde et facti
+alacriores, promptiores exinde ad opus inventi sunt.
+Et hoc initium signorum Malachiae. Porro oratorium
+intra paucos dies consummatum est de lignis quidem
+laevigatis, sed apte firmiterque contextum, opus
+Scoticum, pulchrum satis. Et exinde servitur Deo in
+eo, sicut in diebus antiquis; simili quidem devotione,
+etsi non pari numero. Praefuit Malachias loco illi
+tempore aliquanto, patre Imario ita constituente,
+<pb n="1083C"/>
+ipse rector, ipse regula fratrum. Legebant in vita
+ejus quomodo conversarentur, et ipse ante illos
+praeibat in justitia et sanctitate coram Deo: nisi
+quod praeter instituta communia, multa singulariter
+faciebat, in quibus potius praeibat omnes, et aliorum
+nemo illum poterat ad tam ardua sequi. Eo temporis
+et eo loci quidam infirmabatur, cui assistens diabolus,
+et aperte loquens suggerebat, ne unquam crederet
+monitis Malachiae; sed si intraret ad se, cultello
+eum peteret et occideret. Quo cognito, qui illi
+ministrabant, ipso infirmo prodente, verbum perferunt
+ad Malachiam praemunientes. At ille solita
+arma orationis arripiens, impavidus hostem aggressus,
+et infirmitatem fugat et daemonem. Erat autem
+<pb n="1083D"/>
+nomen viro Malchus. Frater est iste secundum carnem
+Christiani nostri, Mellifontis abbatis. Ambo
+enim superstites adhuc sunt, sibi in spiritu modo
+germaniores. Nam ille, ut liberatus est, continuo
+non ingratus, loco eodem conversus ad Dominum,
+habitum simul animumque mutavit. Et cognovere
+fratres malignum invidere bonis eorum; et aedificati
+sunt, facti de reliquo cautiores.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Dysenteria laborantem curat.</hi> </head>
+<div3>
+            <head>15.</head>
+            <p>
+ Clericum, nomine Michaelem, dysenteria laborantem,
+et desperate, mittens ei aliquid de mensa
+sua, eodem loco sanavit. Secundo eumdem ipsum,
+gravissima infirmitate correptum, et corpore pariter
+curavit et mente. Illico enim adhaesit Deo et Malachiae
+<pb n="1084A"/>
+servo ejus, timens ne deterius aliquid sibi contingeret,
+si denuo ingratus tanto inveniretur et
+beneficio et miraculo. Et nunc, ut audivimus, praeest
+cuidam monasterio, sito in partibus Scotiae: et
+hoc novissimum omnium quae ille fundavit. Pro
+hujusmodi augescebat in dies et opinio, et congregatio
+Malachiae, et grande ei nomen intus et foris,
+non tamen re grandius. Nempe ibi demorabatur
+etiam factus episcopus, quod locus esset vicinus
+civitati.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>Episcopatum Conneretensem, licet invitus, suscipit.</hi> </head>
+<div3>
+            <head>16.</head>
+            <p>
+ Vacabat tunc temporis episcopalis sedes, et
+jamdiu vacarat, Malachia nolente assentire, siquidem
+ipsum elegerant. Persistentibus tamen illis,
+<pb n="1084B"/>
+tandem aliquando cessit, accedente ad vim faciendam <emph>666</emph> 
+ mandato magistri sui, necnon et metropolitani.
+Tricesimo ferme aetatis suae anno Malachias
+consecratus episcopus introducitur Connereth: hoc
+enim nomen civitatis. Cum autem coepisset pro officio
+suo agere, tunc intellexit homo Dei, non ad
+homines se, sed ad bestias destinatum. Nusquam
+adhuc tales expertus fuerat in quantacunque barbarie:
+nusquam repererat sic protervos ad mores, sic
+ferales ad ritus, sic ad fidem impios, ad leges barbaros,
+cervicosos ad disciplinam, spurcos ad vitam.
+Christiani nomine, re pagani. Non decimas, non
+primitias dare, non legitima inire conjugia, non facere
+confessiones; poenitentias nec qui peteret, nec
+qui daret, penitus inveniri. Ministri altaris pauci
+<pb n="1084C"/>
+admodum erant. Sed enim quid opus plurium, ubi
+ipsa paucitas inter laicos propemodum otiosa vacaret?
+Non erat quod de suis fructificarent officiis in
+populo nequam. Nec enim in ecclesiis aut praedicantis
+vox, aut cantantis audiebatur. Quid faceret
+athleta Domini? aut cedendum turpiter, aut periculose
+certandum. Sed qui se pastorem, et non mercenarium
+agnoscebat, elegit stare quam fugere,
+paratus et animam suam dare pro ovibus, si oportuerit.
+Et quanquam omnes lupi, et oves nullae;
+stetit in medio luporum pastor intrepidus, omnimodis
+argumentosus, quomodo faceret oves de lupis. Monere
+communiter, secreto arguere, flere per singulos;
+nunc aspere, nunc leniter convenire, prout
+<pb n="1084D"/>
+cuique expedire videbat. In quibus per haec minus
+profecisset, cor contritum et humiliatum offerebat
+pro eis. Quoties noctes totas pervigiles duxit, extendens
+manus in oratione! Et cum venire ad ecclesiam
+nollent, per vicos et plateas occurrebat invitis; et
+circumiens civitatem, perquirebat anhelus quem
+Christo acquireret.</p>
+          </div3>
+<div3>
+            <head>17.</head>
+            <p>
+ Sed et foris rura et oppida nihilominus saepius
+percurrebat cum sancto illo comitatu discipulorum
+suorum, qui nunquam deerant lateri ejus. Ibat
+et erogabat vel ingratis coelestis tritici mensuram.
+Nec vehebatur equo, sed pedes ibat, et in hoc virum
+se apostolicum probans. Jesu bone! quanta passus
+est pro nomine tuo bellator tuus a filiis sceleratis!
+quanta sustinuit ab his ipsis, quibus et pro quibus
+<pb n="1085A"/>
+loquebatur bona tibi! Quis digne exprimat, in quantis
+vexatus, quibus affectus sit contumeliis, quibus
+injuriis lacessitus, quoties lassatus inedia, quoties
+afflictus in frigore et nuditate? Attamen cum his qui
+oderunt pacem, erat pacificus, instans nihilominus
+opportune, importune. Blasphematus obsecrabat;
+injuriatus opponebat scutum patientiae, et vincebat
+in bono malum. Quidni vicisset? Perseveravit pulsans,
+et secundum promissionem tandem aliquando
+pulsanti apertum est <note>(Luc. XI, 9)</note>. Quomodo poterat
+non sequi, quod veritas praenuntiaverat secuturum?
+Dextera Domini fecit virtutem, quia os Domini locutum
+est veritatem. Cessit duritia, quievit barbaries;
+et domus exasperans paulatim leniri coepit,
+paulatim correptionem admittere, recipere disciplinam.
+<pb n="1085B"/>
+Fiunt de medio barbaricae leges, Romanae
+introducuntur; recipiuntur ubique ecclesiasticae consuetudines,
+contrariae rejiciuntur; reaedificantur basilicae,
+ordinatur clerus in illis. Sacramentorum rite
+solemnia celebrantur, confessiones fiunt, ad ecclesiam
+conveniunt plebes, concubinatus honestat celebritas
+nuptiarum; postremo sic mutata in melius
+omnia; ut hodie illi genti conveniat, quod Dominus
+per prophetam dicit: <hi>Qui ante non populus meus,
+nunc populus meus <note>(Osee. II, 24)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX. <hi>Monasterium Ibracense construit.</hi> </head>
+<div3>
+            <head>18.</head>
+            <p>
+ Contigit post annos aliquot destrui civitatem
+a rege aquilonaris partis Hiberniae, quia ab aquilone
+panditur omne malum <note>(Jerem. I, 14)</note>. Et forte malum
+<pb n="1085C"/>
+illud bene utentibus bonum fuit. Quis scit enim, si
+tali flagello Deus delere voluit mala antiqua populi
+sui? Istiusmodi Malachias necessitate compulsus, et
+ipse exiit cum turba discipulorum suorum. Nec
+otiosus <emph>667</emph> exitus ejus. Hac occasione monasterium
+Ibracense constructum est, eunte illo Malachia
+cum suis numero centum triginta [ <hi>al.</hi> viginti] fratribus.
+Ibi occurrit ei Cormarcus rex. Ipse est qui
+olim regno pulsus, sub cura Malachiae de misericordia
+Dei consolationem accepit. Et locus ille situs in
+regno ejus. Gavisus est Rex viso Malachia, se et
+omnia sua exponens ei, et his qui cum eo erant, utpote
+non ingratus nec immemor beneficii. Adducta
+incontinenti animalia multa ad usus fratrum, multa
+<pb n="1085D"/>
+insuper in auro et argento ad sumptus aedificiorum
+pro regia liberalitate collata. Ipse quoque erat intrans
+et exiens cum eis sedulus et officiosus, habitu
+quidem rex, sed animo discipulus Malachiae. Et benedixit
+loco illi Dominus propter Malachiam. Et in
+brevi factus est magnus rebus, possessionibus, et
+personis. Ubi velut de novo inchoans, legem et disciplinam,
+quam aliis imponebat, magis ipse portabat
+episcopus et magister. Ipse in ordine vicis suae,
+coquinae ministerio inserviebat; ipse fratribus, cum
+recumberent, ministrabat. Inter succedentes sibi
+invicem fratres ad cantandum, legendumve in ecclesia,
+non se praeteriri patiebatur, strenue implens et
+ipse officium loco suo, tanquam unus ex illis. Sanctae
+paupertatis non modo participem, sed et principem
+<pb n="1086A"/>
+se exhibebat, ipsius praecipue super omnes abundantius
+aemulator existens.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X. <hi>Fit archiepiscopus seu primas Hiberniae.</hi> </head>
+<div3>
+            <head>19.</head>
+            <p>
+ Dum haec ita aguntur, contigit infirmari archiepiscopum
+Celsum: et ipse est qui Malachiam in
+diaconem, presbyterum, episcopumque ordinavit:
+et cognoscens quia moreretur, fecit quasi testamentum,
+quatenus Malachias deberet succedere sibi,
+quod nullus alius videretur dignior, qui episcoparetur
+in sede prima. Hoc praesentibus indixit, hoc
+mandavit absentibus, hoc specialiter ambobus Mumoniae
+regibus, et majoribus terrae, sancti Patricii
+auctoritate praecepit. Cujus reverentia et honore,
+tanquam apostoli illius gentis, qui totam patriam
+<pb n="1086B"/>
+convertisset ad fidem, sedes illa, in qua et vivens
+praefuit, et mortuus requiescit, in tanta ab initio
+cunctis veneratione habetur, ut non modo episcopi,
+et sacerdotes, et qui de clero sunt, sed etiam regum
+ac principum universitas subjecta sit metropolitano
+in omni obedientia, et unus ipse omnibus praesit.
+Verum mos pessimus inoleverat quorumdam diabolica
+ambitione potentum, sedem sanctam obtentum
+iri haereditaria successione. Nec enim patiebantur
+episcopari, nisi qui essent de tribu et familia sua.
+Nec parum processerat exsecranda successio, decursis
+jam in hac malitia quasi generationibus quindecim.
+Et eousque firmaverat sibi jus pravum, imo
+omni morte puniendam injuriam, generatio mala et
+adultera, ut etsi interdum defecissent clerici de sanguine
+<pb n="1086C"/>
+illo, sed episcopi nunquam. Denique jam octo
+extiterant ante Celsum viri uxorati, et absque ordinibus,
+litterati tamen. Inde tota illa per universam
+Hiberniam, de qua superius diximus, dissolutio
+ecclesiasticae disciplinae, censurae enervatio, religionis
+evacuatio: inde illa ubique, pro mansuetudine
+christiana, saeva subintroducta barbaries, imo
+paganismus quidam inductus sub nomine christiano.
+Nam (quod inauditum est ab ipso Christianitatis
+initio) sine ordine, sine ratione mutabantur et multiplicabantur
+episcopi pro libitu metropolitani, ita
+ut unus episcopatus uno non esset contentus, sed
+singulae pene ecclesiae singulos haberent episcopos.
+Nec mirum: nam quomodo tam morbidi capitis
+<pb n="1086D"/>
+membra valerent?</p>
+          </div3>
+<div3>
+            <head>20.</head>
+            <p>
+ Pro his Celsus, atque hujusmodi malis populi
+sui vehementer dolens (erat enim vir bonus et timoratus),
+curavit omni modo habere sibi successorem
+Malachiam, quod per ipsum confideret posse
+explantari male radicatam successionem: qui charus
+esset omnibus, et quem omnes aemularentur, et Dominus
+erat <emph>668</emph> cum eo. Nec frustratus est a spe
+sua. Nam illo mortuo, substitutus est Malachias, non
+tamen mox, neque id facile. Ecce enim de semine
+nequam qui occupet locum, Mauricius nomine. Is
+per quinquennium, fretus potentia saeculari, incubavit
+Ecclesiae, non episcopus, sed tyrannus. Nam
+vota piorum magis in Malachiam convenerant. Denique
+suadebant eum subire onus juxta constitutionem
+<pb n="1087A"/>
+Celsi: sed ille, qui omne sublime haud secus
+quam suum praecipitium declinabat, bonam sibi
+videbatur nactus occasionem excusandi, quod per
+id temporis introitus ejus pacificus esse non posset.
+Instabant tam sancto operi, et sollicitabant omnes;
+duo potissimum episcopi, Malchus et Gillebertus:
+quorum prior ipse est senior Lesmorensis, de quo
+supra mentio facta est <note>(Cap. 4)</note>; alter, quem aiunt
+prima functum legatione apostolicae Sedis per universam
+Hiberniam. Qui triennio jam decurso in hac
+praesumptione Mauricii, et Malachiae dissimulatione,
+non ferentes ultra ecclesiae adulterium, dedecusque
+Christi, convocatis episcopis et principibus terrae,
+uno spiritu adeunt Malachiam, parati vim facere.
+At ille renuere primum; praetendere siquidem difficultatem
+<pb n="1087B"/>
+rei, nobilis illius prosapiae multitudinem,
+fortitudinem, ambitionem: multum esse ad se pauperculum
+opponere se tot, tantis, talibus, taliter
+radicatis, qui jam annos ferme ducentos, quasi haereditate
+possedissent sanctuarium Dei, et nunc quoque
+id praeoccupassent: non posse illos extirpari, nec
+cum mortibus hominum quidem: sua non interesse,
+fundi humanum sanguinem occasione sui: postremo
+junctum se sponsae alteri, quam dimittere non
+liceret.</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Verum illis e contrario instantibus, et clamantibus,
+quia a Domino sermo egressus est; sed et
+tota auctoritate jubentibus subire onus, atque intentantibus
+anathema:  « Ad mortem, »  inquit,  « ducitis
+me: sed obedio spe martyrii, hac tamen conditione,
+<pb n="1087C"/>
+ut si juxta fidem vestram res in melius cedat,
+et vindicet sibi Deus suam haereditatem a diripientibus
+eam, tunc demum omnibus consummatis, et
+Ecclesia pacem habente, liceat mihi redire ad priorem
+sponsam meam, et amicam, de qua rapior,
+paupertatem; et pro me illic alium substituere, qui
+tunc forte repertus idoneus fuerit. »  Nota, lector,
+virtutem viri, et animi puritatem, nec honorem
+scilicet affectantis, nec formidantis mortem pro
+Christi nomine. Quid hoc animo purius, quidve fortius,
+ut se exponens periculo et labori, alteri fructum
+cedat, ipsam in loco principatus securitatem et pacem?
+Facit hoc, cum liberum sibi ex pacto retinet
+reditum ad paupertatem; pace et libertate Ecclesiae
+<pb n="1087D"/>
+restituta. Spondentibus illis, demum acquievit voluntati
+eorum, vel potius Dei, a quo sibi jam olim
+praeostensum recordabatur, quod de se modo dolebat
+[ <hi>al.</hi> volebat] fieri. Nempe jam aegrotante Celso,
+apparuit Malachiae, et quidem longe posito et nescienti,
+mulier procerae staturae et reverendi vultus.
+Percontanti quaenam esset, responsum est esse uxorem
+Celsi. Quae tradens ei virgam pastoralem, quam
+manu tenebat, disparuit. Paucis decursis diebus,
+Celsus moriens misit baculum suum Malachiae, tanquam
+sibi successuro: quem ut vidit, agnovit ipsum
+esse, quem viderat. Hujus praecipue recordatio visionis
+terruit Malachiam: ne, si (quod diu satis dissimularat)
+ultra renueret, divinae jam videretur resistere
+voluntati. Verumtamen civitatem non intravit,
+<pb n="1088A"/>
+quandiu ille incubator vixit, ne hac occasione contingeret
+mori quemquam ex his, quibus vitam magis
+ministraturus veniebat. Ita per biennium (nam id
+temporis supervixit ille) agens extra urbem, strenue
+in universa provincia opus episcopale exercuit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI. <hi>Insidias evadit incolumis, auctoribus male perditis.</hi> </head>
+<div3>
+            <head>22.</head>
+            <p>
+ Illo igitur celeri morte facto de medio, rursum
+Nigellus quidam, imo vere nigerrimus, sedem
+praeripuit. Et in hoc animae suae Mauricius adhuc <emph>669</emph> 
+ vivens providerat, ut hunc haberet haeredem:
+in quo qui damnandus exibat, operibus adjicere
+damnationis persisteret. Erat enim et ipse ex damnata
+<pb n="1088B"/>
+progenie, cognatus Mauricii. Caeterum Rex, et
+episcopi, et fideles terrae nihilominus convenerunt,
+ut introducerent Malachiam. Et ecce consilium malignantium
+ex adverso. Quidam de filiis Belial promptus
+ad malitiam, potens in iniquitate, sciens locum
+ubi pariter convenire decrevissent, multis aggregatis
+sibi, latenter vicinum occupat collem eminentem e
+regione: unde illis tractantibus alia, repentino impetu
+super incautos irruerent, et interficerent innocentes.
+Condixerant enim etiam Regem cum episcopo
+trucidare, ut non esset qui vindicaret sanguinem
+justum. Res innotuit Malachiae, et intrans ecclesiam
+(erat enim prope) elevatis manibus oravit ad Dominum,
+et ecce nubes et caligo, sed et tenebrosa aqua
+in nubibus aeris, diem verterunt in noctem. Fulgura
+<pb n="1088C"/>
+quoque et tornitrua et horribiles spiritus procellarum,
+diem ultimum minitantur, vicinamque elementa
+intentant omnia mortem.</p>
+          </div3>
+<div3>
+            <head>23.</head>
+            <p>
+ Et ut scias, lector, quod oratio Malachiae
+concusserit elementa; solos intercepit tempestas,
+qui quaerebant animam ejus; solos turbo tenebrosus
+involvit, qui paraverant opera tenebrarum. Denique
+ipse, qui princeps exstiterat tanti mali, fulmine percussus
+interiit cum tribus aliis: et fuere consortes
+mortis, qui fuerant participes sceleris. Quorum sequenti
+die inventa sunt corpora semiusta, et putrida,
+haerentia ramis arborum, ubi quemque spiritus
+elevans allisisset. Alii quoque tres semivivi inventi
+sunt: caeteri omnes circumquaque dispersi. Illos
+autem qui cum Malachia erant, quamvis proximos
+<pb n="1088D"/>
+loco, tempestas omnino non tetigit, nec quidquam
+molestiae intulit. In facto isto recens capimus experimentum
+veritatis verbi illius, quia <hi>oratio justi
+penetrat coelos <note>(Eccli. XXXV, 21)</note>
+            </hi>. Sed et novum antiqui
+exemplum miraculi, quo olim tota Aegypto versante
+in tenebris, solus Israel in lumine mansit,
+dicente Scriptura: <hi>Ubicunque Israel erat, lux erat <note>(Exod. X, 23)</note>
+            </hi>.
+Huc mihi occurrit et factum sancti
+Eliae, nunc quidem ab extremis terrae nubes et pluvias
+educentis <note>(III Reg. XVIII, 45)</note>, nunc vero super
+blasphemos evocantis ignem de coelo <note>(IV Reg. I, 10)</note>.
+Et modo de simili clarificatus est Deus in servo suo
+Malachia.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII. <hi>Hostes seu aemulos, in ipsum armatos, virtute animi et constanti in Deum fide lenit, sibique conciliat.</hi> </head>
+<div3>
+            <head>24.</head>
+            <p>
+ Anno aetatis suae tricesimo octavo pauper
+<pb n="1089A"/>Malachias, pulso incubatore, intravit Ardmacha,
+pontifex et metropolitanus totius Hiberniae. Rege
+vero caeterisque, qui introduxerant eum, ad propria
+remeantibus, ipse remanet in manu Dei, et
+remanent illi foris pugnae, intus timores. Nam ecce
+viperea soboles, frendens et vociferans se exhaeredari,
+tota se intus et foris suscitat adversus Dominum,
+et adversus Christum ejus. Porro Nigellus videns
+sibi imminere fugam, tulit secum insignia quaedam
+Sedis illius, textum scilicet Evangeliorum, qui
+fuit beati Patricii, baculumque auro tectum, et
+<pb n="1089B"/>
+gemmis pretiosissimis adornatum, quem nominant
+baculum Jesu, eo quod ipse Dominus (ut fert opinio)
+eum suis manibus tenuerit, atque formaverit. Et
+haec summae dignitatis et venerationis in gente illa.
+Nempe notissima sunt celeberrimaque in populis,
+atque in ea reverentia apud omnes, ut qui illa
+habere visus fuerit, ipsum habeat episcopum populus
+stultus et insipiens. Ibat homo gyrovagus,
+et alter satanas circuibat terram, et perambulabat
+eam, insignia sacra circumferens: quae ubique
+ostentans, ubique eorum gratia receptabatur, concilians
+sibi per haec animos omnium, et a Malachia,
+quosque potuisset, avertens. Haec ille.</p>
+          </div3>
+<div3>
+            <head>25.</head>
+            <p>
+ Erat autem princeps quidam de potentioribus
+iniquae progeniei, quem Rex priusquam civitatem
+<pb n="1089C"/> <emph>670</emph> 
+ exiret, jurare coegerat pacem tenere Episcopo,
+acceptis ab eo insuper obsidibus multis. Is post
+Regis exitum nihilominus civitatem ingressus, consilium
+habuit cum propinquis et amicis, quomodo
+sanctum dolo tenerent, et occiderent: timebant vero
+plebem. Et conjurantes in necem Malachiae, constituere
+locum et diem, et traditor dedit eis signum.
+Ipso die cum vespertina jam solemnia in ecclesia
+celebraret Antistes cum universo clero et multitudine
+populi, mittit ad ipsum nequam ille in verbis
+pacificis in dolo, rogans quatenus ad se dignetur
+descendere, ut faciat pacem. Respondentibus qui
+assistebant, ipsum potius ad Episcopum debere venire;
+ecclesiam esse competentiorem locum firmandae
+pacis: siquidem praesenserant dolum. Subjungunt
+<pb n="1089D"/>
+qui missi erant, hoc tutum non esse principi:
+timere eum capiti suo, nec se credere turbis, quae
+se ante hos dies causa Episcopi propemodum interemissent.
+Contendentibus in hunc modum, illis
+quidem ut iret, istis vero ne iret; Episcopus cupidus
+pacis, et mortis non timidus:  « Sinite, »  inquit,
+ « Iratres, sinite me imitari Magistrum meum. Sine
+causa sum christianus, si Christum non sequor.
+Forte flecto humilitate tyrannum, et si non, vinco
+tamen exhibens ovi pastor, sacerdos laico, quod
+mihi ille debuerat. Vos quoque, quod in me est,
+non parum aedifico exemplo tali. Quid enim si contingat
+<pb n="1090A"/>
+occidi? Non recuso mori, ut vos vitae ex me
+teneatis exemplum. Oportet episcopum, ut ait episcoporum
+Princeps, non dominari in clero, sed formam
+fieri gregis <note>(I Petr. V, 3)</note>. Haud aliam sane
+formam, quam ab illo accepimus, qui humiliavit semetipsum,
+factus obediens usque ad mortem. Quis
+mihi det hanc relinquere filiis signatam sanguine
+meo? Experiemini certe, an sacerdos vester digne
+satis a Christo didicerit, mortem non timere pro
+Christo. »  Et surgens, coepit ire flentibus cunctis
+et supplicantibus, ne tantum cuperet pro Christo
+mori, ut tantum Christi gregem desolatum relinqueret.</p>
+          </div3>
+<div3>
+            <head>26.</head>
+            <p>
+ Verum ille totam spem suam ponens in Domino,
+tota alacritate perrexit, tribus tantum comitatus
+<pb n="1090B"/>
+discipulis, paratis mori cum eo: qui ut calcato
+limine domus repente se medio intulit armatorum,
+scuto fidei ipse munitus; concidere facies omnium,
+quia pavor irruit super eos, ita ut dicere posset
+Episcopus: <hi>Qui tribulant me inimici mei, ipsi infirmati
+sunt, et ceciderunt <note>(Psal. XXVI, 2)</note>
+            </hi>. Hoc verbum
+verum est. Videres hostiam stantem, carnifices ferro
+armatis manibus undique circumstantes: et qui
+immolaret, non erat. Putares stupere lacertos:
+sic non fuit, qui extenderet manum. Nam et is
+quoque, qui caput malitiae videbatur, assurgit ei potius
+quam insurgit. Ubi, quaeso, signum, o homo,
+quod dederas in mortem Pontificis? Hoc magis honoris
+signum, quam mortis indicium. Deferre est
+hoc, non mortem inferre. Res mira! pacem offerunt,
+<pb n="1090C"/>
+qui necem paraverant. Non est quod abnuat,
+qui et vitae periculo quaesierat eam. Itaque facta
+est pax, et tam firma, ut ab illa die hostem Sacerdos
+non modo pacatum habuerit, sed subditum, sed
+devotum. Quo audito, fideles quique gavisi sunt,
+quod non modo salvatus sit sanguis innoxius in die
+illa; sed et nocentium multorum animae, Malachiae
+meritis, evaserint ad salutem. Et apprehendit omnes
+circumquaque timor, audientes quomodo duos inimicorum
+ejus, qui viderentur ferociores et fortiores
+in generatione sua, sic subita virtute prostravit
+Deus: istum loquor, qui in manibus est, et eum de
+quo superius dixi. Alterum enim terribiliter mulctatum
+in corpore, alterum misericorditer mutatum
+in corde, ambos mirabiliter comprehendit in consiliis,
+<pb n="1090D"/>
+quae cogitabant.</p>
+          </div3>
+<div3>
+            <head>27.</head>
+            <p>
+ His ita peractis, coepit jam in civitate Episcopus
+tota libertate disponere et ordinare de omnibus
+pertinentibus ad ministerium suum, non tamen
+sine continuo discrimine vitae suae. Nam etsi
+jam nemo qui palam noceret, ab insidiantibus tamen
+nec locus satis tutus Episcopo erat, nec tempus
+feriatum. Et deputati sunt ei viri armati ad
+custodiam die et nocte: <emph>671</emph> sed ille magis in
+Domino confidebat. Fuit vero consilium, praefatum
+schismaticum insequi eo quod seduceret multos ex
+insignibus quae ferebat, suadens omnibus episcopum
+<pb n="1091A"/>
+se esse debere; et sic sollicitans plebes adversus
+Malachiam, atque Ecclesiae unitatem. Et fecit sic:
+et sine difficultate ita in brevi universas sepivit vias
+ejus per gratiam sibi a Domino datam, et quam
+habebat ad omnes, ut malignus ille coactus sit dare
+manus, reddere insignia, et quiescere de reliquo
+in omni subjectione. Ita Malachias, licet per multa
+pericula et labores, prosperabatur in dies, et confortabatur
+magis ac magis, abundans in spe et virtute
+Spiritus sancti.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>Deus Malachiae detractores punit.</hi> </head>
+<div3>
+            <head>28.</head>
+            <p>
+ Nec modo malefactores, sed et detractores
+Malachiae corripuit Deus. Quidam, verbi gratia,
+gratiam habens principum et potentum, etiam ipsius
+<pb n="1091B"/>
+Regis, quod esset adulator et garrulus, et potens in
+lingua; favebat per omnia adversariis Malachiae, et
+procaciter tuebatur partem eorum: Sancto vero et
+praesenti resistebat in facie, et detrahebat absenti,
+irreverenter occurrens ei in omni loco, maximeque
+ubi celebrioribus illum sciret interesse conventibus.
+Sed cito digna linguae procacis mercede donatus est.
+Intumuit et computruit lingua maledica, vermibus
+ex ea scatentibus, et diffluentibus toto ore blasphemo:
+quos per septem ferme dies incessanter vomens,
+tandem cum illis miseram exspuit animam.</p>
+          </div3>
+<div3>
+            <head>29.</head>
+            <p>
+ Loquente coram aliquando Malachia, et populum
+exhortante, mulier quaedam infelix ausa est
+interrumpere sermonem clamoribus improbis, non
+<pb n="1091C"/>
+deferens sacerdoti, et spiritui qui loquebatur. Erat
+autem de progenie impia, et spiritum habens in
+naribus, blasphemias contumeliasque evomebat in
+Sanctum, dicens hypocritam et invasorem alienae
+haereditatis, sed et calvitiei illius improperans. At
+ille nihil respondit ei, sicut erat verecundus et mitis:
+sed Dominus respondit pro eo. Versa illa in insaniam
+est, Domino judicante: et crebris vocibus clamitans
+se suffocari a Malachia, morte demum horrenda
+luit peccatum blasphemiae. Sic misera assumens
+adversus Malachiam improperium Elisaei <note>(IV
+Reg. II, 24)</note>, vere illum sibi alterum experta est
+Elisaeum.</p>
+          </div3>
+<div3>
+            <head>30.</head>
+            <p>
+ Porro quia causa pestilentiae cujusdam ortae
+in civitate, multitudinem cleri et populi solemniter
+<pb n="1091D"/>
+cum reliquiis [ <hi>al.</hi> memoria] sanctorum tunc foras
+eduxerat, ne hoc quidem praetereundum, quod orante
+Malachia, pestilentia illico conquievit. Ex hoc jam,
+qui mutiret adversus eum, non fuit, dicentibus qui
+de semine Chanaan sunt: Fugiamus Malachiam,
+quia Dominus pugnat pro eo. At sero istud: quia
+zelus Domini, ubique occurrens eis, persecutus est
+eos usque ad internecionem. Quomodo intra paucos
+dies periit memoria eorum cum sonitu? quomodo
+facti sunt in desolationem, subito defecerunt, perierunt
+propter iniquitatem suam! Grande hodieque
+miraculum facit tam velox generationis illius deletio,
+his praesertim qui eorum noverant superbiam atque
+potentiam. Multa quidem et alia signa fuere, quibus
+Deus glorificavit nomen suum, et servum suum inter
+<pb n="1092A"/>
+sudores et pericula confortavit. Quis digne commemoret?
+Non tamen omnia praeterimus, etsi non sufficimus
+ad omnia. Propter seriem autem narrationis
+ne impediatur, aliqua quae dicturi sumus reservamus
+in finem.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV. <hi>Sedem metropolitanam paci redditam resignat.</hi> </head>
+<div3>
+            <head>31.</head>
+            <p>
+ Igitur Malachias intra triennium reddita retributione
+superbis, et libertate Ecclesiae restituta,
+pulsa barbarie, et reformatis ubique moribus christianae
+religionis, videns omnia in pace esse, coepit
+cogitare et de sua pace. Et memor propositi sui,
+constituit pro <emph>672</emph> se Gelasium, virum bonum, et
+dignum tali honore, conniventibus clero et populo,
+quin potius sustinentibus propter pactum. Nam alias
+<pb n="1092B"/>
+durum visum omnino. Quo consecrato, regibusque
+ac principibus attentius commendato, ipse clarus
+miraculis et triumphis, ad suam parochiam redit -
+non tamen Connereth. Et audi causam dignam relatu.
+Dioecesis illa duas fertur habuisse antiquitus
+episcopales sedes, et duos exstitisse episcopatus. Id
+visum melius Malachiae. Itaque quos ambitio conflavit
+in unum, Malachias revocavit in duos, partem
+alteri episcopo cedens, partem retinens sibi. Et
+propterea non venit Connereth, quod in ea jam episcopum
+ordinasset: sed Dunum se contulit, disterminans
+parochias, sicut in diebus antiquis. O purum
+cor! o oculum columbinum! Locum tradidit novo
+episcopo, qui videretur paratior, principalior haberetur;
+<pb n="1092C"/>
+locum, in quo sederat ipse. Ubi sunt, qui
+de terminis litigant, pro uno viculo perpetes ad invicem
+inimicitias exercentes? Nescio si quod genus
+hominum magis, quam istos, antiquum vaticinium
+tangat: <hi>Secuerunt praegnantes Galaad ad dilatandum
+terminos suos <note>(Amos I, 13)</note>
+            </hi>. Sed hoc alias.</p>
+          </div3>
+<div3>
+            <head>32.</head>
+            <p>
+ Malachias factus Dunensis episcopus, confestim
+more suo curavit asciscere ad solatium sibi
+de filiis suis conventum regularium clericorum. Et
+ecce rursus accingitur, quasi novus Christi tiro, ad
+spirituale certamen; rursus induitur arma potentia
+Deo, sanctae paupertatis humilitatem, rigorem disciplinae
+coenobialis, otium contemplandi, orandi assiduitatem:
+quae tamen omnia voto magis valuit diu
+tenere, quam actu. Etenim universi confluebant ad
+<pb n="1092D"/>
+eum: nec modo mediocres, sed et nobiles et potentes,
+illius se sapientiae et sanctitati instruendos,
+corrigendos ac regendos committere festinabant. Et
+ipse interdum ibat, et exibat seminare semen suum,
+disponens et decernens tota auctoritate de rebus
+ecclesiasticis, tanquam ex Apostolis unus. Et nemo
+illi dicebat, In qua potestate haec facis? videntibus
+cunctis signa et prodigia, quae faciebat; et quia ubi
+spiritus Domini, ibi libertas <note>(II Cor. III, 17)</note>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XV. <hi>Romam proficisci deliberat, pallium a Pontifice petiturus.</hi> </head>
+<div3>
+            <head>33.</head>
+            <p>
+ Visum tamen sibi, non tute satis actitari ista
+absque Sedis apostolicae auctoritate, et Romam proficisci
+deliberat: maximeque quod metropolicae sedi
+<pb n="1093A"/>
+deerat adhuc, et defuerat ab initio pallii usus, quod
+est plenitudo honoris. Et visum est bonum in oculis
+ejus, si Ecclesia, pro qua tantum laborarat, quem
+hactenus non habuerat, suo acquireret studio et labore.
+Erat et altera metropolica sedes, quam de
+novo constituerat Celsus, primae tamen sedi, et illius
+archiepiscopo subdita, tanquam primati. Et huic
+quoque optabat nihilominus pallium Malachias, confirmarique
+auctoritate Sedis apostolicae praerogativam,
+quam beneficio Celsi adipisci meruerat. Innotescente
+proposito, displicuit fratribus, necnon et
+magnatibus et populo terrae. Omnes enim intolerabilem
+sibi judicabant tam diutinam omnium pii
+parentis absentiam, et quod metuerent de morte
+ipsius.
+<pb n="1093B"/>
+</p>
+          </div3>
+<div3>
+            <head>34. </head>
+            <p>
+Contigit interea mori germanum ejus, Christianum
+nomine, virum bonum, plenum gratiae et
+virtutis. Episcopus erat, illi quidem secundus in
+celebri opinione, sed vitae sanctimonia et justitiae zelo
+forte non impar. Hujus decessus magis terruit universos,
+et discessum Malachiae reddidit molestiorem.
+Dicebant autem nullo modo assentiendum unici peregrinationi
+patroni, ut non desoletur omnis terra,
+si duabus tantis columnis sub uno momento temporis
+destituatur. Ergo omnes pariter contradicunt.
+Et vim faciebant, cum ille divinam ultionem minatus
+est. Non tamen destitere illi, nisi missa sorte, prius
+Dei voluntas super hoc interrogaretur. Prohibente
+illo, nihilominus mittunt: sed illa pro Malachiae
+parte ter respondisse inventa est. Nec enim una
+<pb n="1093C"/>
+contenti vice fuere, cupidi retinendi eum. Demum
+cedentes, dimittunt illum, non tamen <emph>673</emph> sine
+ploratu et ululatu multo. Sed ne quid imperfectum
+relinqueret, tractare coepit, quomodo defuncti fratris
+semen suscitaret. Et accersitis ad se tribus
+discipulis suis, anxius aestuabat, quisnam dignior
+ad hoc opus, sive utilior videretur. Et diligenter
+intuitus singulos:  « Tu, »  inquit,  « o Edane »  (sic
+enim vocabatur unus),  « suscipe onus. »  Illo cunctante,
+et flente:  « Ne timeas, »  ait,  « Tu enim mihi
+a Domino designatus es, quia annulum aureum,
+quo desponsandus es, jam nunc praevidi in digito
+tuo. »  Acquievit ille, et Malachias, eo consecrato,
+proficiscitur.
+</p>
+          </div3>
+<div3>
+            <head>35. </head>
+<p>
+              <pb n="1093D"/>Cumque egressus de Scotia, pervenisset Eboracum,
+sacerdos quidam, Sycarus nomine, intuitus
+eum agnovit. Nec enim faciem ejus viderat ante:
+sed cum haberet spiritum prophetiae, revelatum
+fuerat ei jampriden de illo. Et nunc incunctanter
+circumstantibus digito eum demonstrans:  « Hic est, » 
+inquit,  « de quo dixeram, quia de Hibernia sanctus
+veniet pontifex, qui scit cogitationes hominum. » 
+Sic non potuit latere lucerna sub modio, prodente
+eam per os Sycari Spiritu sancto qui illam accenderat.
+Nam et multa secreta de esse suo, suorumque
+dicta sunt ei a Sycaro, quae ita esse vel fuisse omnia
+recognovit. Sed et sociis Malachiae percontantibus
+de suo reditu, respondit Sycarus incunctanter (quod
+post rei probavit eventus), paucos videlicet admodum
+<pb n="1094A"/>
+de numero illo cum Episcopo redituros. Illi,
+audito hoc, suspicati sunt mortem: sed Deus aliter
+adimplevit. Nempe rediens ab Urbe, quibusdam apud
+nos, quibusdam et in aliis locis ad discendam conversationis
+formam relictis, juxta verbum Sycari,
+cum paucis admodum repatriavit. Haec de Sycaro.</p>
+          </div3>
+<div3>
+            <head>36.</head>
+            <p>
+ In ipsa urbe Eboracensi, accessit ad eum vir
+nobilis secundum saeculum, Wallenus nomine, tunc
+Prior in Kirkeham [ <hi>al.</hi> Kyrkestede] regularium fratrum;
+nunc vero monachus, et monachorum pater
+in Mailros monasterio ordinis nostri, qui devotus
+Malachiae se orationibus satis humiliter commendavit.
+Is advertens multos habere Episcopum socios,
+et equos paucos (nam praeter ministros, et clericos
+alios, quinque cum eo erant presbyteri, et equi
+<pb n="1094B"/>
+nonnisi tres), obtulit ei suum, quo ipse vehebatur,
+hoc solum dolere se inquiens, quod esset runcinus
+dure portans. Et addidit:  « Libentius dedissem, si
+melior fuisset: sed, si dignamini, ducite qualemcunque
+vobiscum. » -- « Et ego, »  ait Episcopus,  « eo
+libentius accipio, quo praedicas viliorem: quia non
+potest mihi vile esse, quidquid tam pretiosa voluntas
+obtulerit. »  Et conversus ad suos:  « Hunc, »  inquit,
+ « sternite mihi, quia commodus satis, et sufficiens
+erit in longum. »  Quo facto, ascendit: et primo
+quidem durum, ut erat, sentiens, postmodum mira
+mutatione valde commodum sibi et suaviter ambulantem
+invenit. Et ne caderet super terram de sermone
+quem dixerat, usque ad nonum annum, quo
+mortuus est ipse, non defecit ei, factus optimus et
+<pb n="1094C"/>
+pretiosissimus palefridus. Quodque evidentius miraculum
+cernentibus fecit, de subnigro coepit albescere,
+et non multo post vix inveniebatur albior
+illo.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVI. <hi>Romam tendens, et inde rediens, Claram-Vallem visitat.</hi> </head>
+<div3>
+            <head>37.</head>
+            <p>
+ Mihi quoque in hac via datum est videre virum,
+et in ejus visu et verbo refectus sum, et delectatus
+sum, sicut in omnibus divitiis. Et ego vicissim,
+peccator licet, inveni gratiam in oculis ejus
+extunc, et deinceps usque ad obitum ipsius, sicut
+in prooemio praefatus sum. Ipse etiam dignatus divertere
+ad Claram-Vallem, visis fratribus, compunctus
+<pb n="1094D"/>
+est: et illi non mediocriter aedificati in praesentia
+et sermone ejus. Et acceptans locum, et nos,
+atque intimis visceribus colligens, valedixit nobis,
+et abiit. Qui transalpinans, cum venisset Iporiam
+civitatem Italiae, hospitis sui parvulum filium, qui
+male habens moriturus erat, continuo sanavit.</p>
+          </div3>
+<div3>
+            <head>38.</head>
+            <p>
+ Erat tunc temporis in Sede apostolica felicis
+memoriae <emph>674</emph> Innocentius secundus papa: qui
+eum benigne suscepit, humane satis illi super longa
+peregrinatione compassus. Et primo quidem Malachias,
+quod altius infixerat animo, cum multis lacrymis
+implorabat, licere sibi vivere, et mori in Clara-Valle,
+permissu et benedictione summi Pontificis.
+Et petiit hoc, non oblitus ad quod venerat, sed affectus
+quo venerat desiderio Clarae-Vallis. Non autem
+<pb n="1095A"/>
+obtinuit, quod virum Apostolicus lucris potius
+uberioribus occupandum decerneret. Nec tamen omnino
+frustratus est a desiderio cordis sui, cui mori
+ibi, etsi non vivere, donatum est. Mensem integrum
+fecit in Urbe, loca sancta perambulans, et frequentans
+causa orationis. Cumque per id temporis saepe
+ac diligenter ab eo, et ab his qui cum eo erant,
+summus Pontifex inquisisset esse patriae, mores
+gentis, statum Ecclesiarum, et quanta in terra Deus
+per eum operatus fuisset: paranti jam repatriare
+commisit vices suas, per universam Hiberniam legatum
+illum constituens. Significatum siquidem erat
+ei ab episcopo Gilleberto, qui, ut supra memoravimus,
+tunc legatus exstiterat, quod jam non posset
+prae senio et debilitate corporis villicare. Post haec
+<pb n="1095B"/>
+petit Malachias confirmari novae metropolis constitutionem,
+et utriusque sedis pallia sibi dari. Et confirmationis
+quidem privilegium mox accepit:  « De
+palliis autem, »  ait summus pontifex,  « oportet solemnius
+agi. Convocatis episcopis, et clericis, et
+majoribus terrae, celebrabis generale concilium: et
+sic conniventia et communi voto universorum per
+honestas personas requiretis pallium, et dabitur vobis. » 
+Deinde tollens mitram de capite suo, imposuit
+capiti ejus: sed et stolam cum manipulo dedit, quibus
+uti inter offerendum solebat. Et salutatum in
+osculo pacis dimisit eum, apostolica fultum benedictione
+et auctoritate.</p>
+          </div3>
+<div3>
+            <head>39.</head>
+            <p>
+ Qui revertens per Claram-Vallem, suam secundo
+<pb n="1095C"/>
+nobis largitus est benedictionem. Et alta suspiria
+trahens, quod non liceret sibi pro suo desiderio
+remanere:  « Hos, »  inquit,  « interim pro me, oro
+ut retineatis, qui a vobis discant, quod nos postmodum
+doceant. »  Et infert:  « Erunt nobis in semen,
+et in semine isto benedicentur gentes, et illae gentes,
+quae a diebus antiquis monachi quidem nomen audierunt,
+monachum non viderunt. »  Et dimissis
+quatuor a latere suo, abiit: qui probati, et digni inventi
+monachi facti sunt. Post aliquod tempus, cum
+jam Sanctus esset in terra sua, misit alios, et de
+illis factum est similiter. Quibus per aliquantum
+tempus instructis, et eruditis corde in sapientia,
+dato eis in patrem sancto fratre Christiano, qui erat
+unus ex ipsis, emisimus eos, adjungentes de nostris
+<pb n="1095D"/>
+quanti sufficerent ad numerum abbatiae. Quae concepit,
+et peperit filias quinque: et sic multiplicato
+semine, augescit in dies numerus monachorum,
+juxta desiderium et vaticinium Malachiae. Nunc jam
+repetamus ordinem narrationis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII. <hi>Diversa beneficia sanitatum per eum collata.</hi> </head>
+<div3>
+            <head>40.</head>
+            <p>
+ Malachias profectus a nobis, prospere pervenit
+in Scotiam. Et invenit David regem, qui adhuc
+hodie superest, in quodam castello suo: cujus filius
+infirmabatur ad mortem. Ad quem ingressus, honorifice
+a rege susceptus, et humiliter exoratus, ut sanaret
+filium suum; aqua, cui benedixit, aspersit juvenem,
+et intuens in eum, ait:  « Confide, fili, non
+morieris hac vice. »  Dixit hoc, et die sequenti, secundum
+<pb n="1096A"/>
+dictum prophetae, secuta est sanitas, sanitatem
+laetitia patris, clamor et strepitus totius exsultantis
+familiae. Exiit sermo ad omnes, nec enim
+quod in domo regia et Regis acciderat filio, latere
+potuit. Et ecce ubique resultans gratiarum actio, et
+vox laudis, tum pro salute domini, tum pro miraculi
+novitate. Henricus est iste: nam vivit adhuc unicus
+patris sui, miles fortis et prudens, patrizans, ut
+aiunt, in sectando justitiam et amorem viri. Et amavit
+uterque Malachiam, quandiu <emph>675</emph> vixit, tanquam
+qui illum a morte revocasset. Rogabant eum
+manere per aliquot dies: sed ille declinans gloriam,
+moram non sustinuit, et mane carpebat iter. Transeunti
+igitur per villam, nomine Crugeldum, occurrit
+puella muta. Orante illo, solutum est vinculum linguae
+<pb n="1096B"/>
+ejus, et loquebatur recte. Dehinc villam ingrediens,
+quam nominant ecclesiam Sancti-Michaelis,
+oblatam sibi mulierem phreneticam, et vinctam funibus,
+coram omni populo curat, et dimissa incolumi,
+proficiscitur. Perveniens vero ad portum Laperasperi,
+transitum ibi per aliquot dies praestolabatur:
+sed mora minime transiit otiosa. Construitur
+interim de virgis in sepem textis oratorium, ipso
+jubente, ipso operante pariter. Consummatum circumdedit
+vallo, atque interjacens spatium in coemeterium
+benedixit. Sane merita benedicentis miracula
+satis declarant, quae usque hodie ibi actitari
+feruntur.</p>
+          </div3>
+<div3>
+            <head>41.</head>
+            <p>
+ Inde est, quod de finitimis locis infirmos et
+<pb n="1096C"/>
+male habentes illi portare consueverunt, et sanantur
+multi. Mulier totis dissolutis membris, plaustro vecta
+illuc, pedibus suis remeavit domum, una duntaxat
+nocte non frustra in loco sancto praestolata misericordiam
+Domini. Alia quaedam ibidem pernoctabat
+in oratione: quam forte reperiens solam homo barbarus,
+accensus libidine, et sui minime compos, irruit
+rabiosus in eam. Conversa illa, et tremefacta,
+suspiciens advertit hominem plenum diabolico spiritu:
+ « Heus tu, »  inquit,  « miser, quid agis? Considera
+ubi es, reverere haec sancta, defer Deo, defer
+servo ejus Malachiae, parce et tibi ipsi. »  Non destitit
+ille, furiis agitatus iniquis. Et ecce (quod horribile
+dictu est) venenatum et tumidum animal, quod bufonem
+vocant, visum est reptans exire deinter femora
+<pb n="1096D"/>
+mulieris. Quid plura? Terrefactus resilit homo,
+et datis saltibus, festinus oratorio exsilit. Ille
+confusus abscessit, et illa intacta remansit, magno
+quidem et Dei miraculo, et merito Malachiae. Et
+pulchre operi foedo et abominando foedum intervenit
+et abominabile monstrum. Non prorsus aliter
+decuit bestialem exstingui libidinem, quam per frigidissimum
+vermem: nec aliter temerarium frenari
+ausum, frustrari conatum, quam per vilem, inutilemque
+bestiolam. Et haec loco isto sufficiant pauca
+de pluribus: nunc jam reliqua prosequamur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVIII. <hi>Reversus in patriam, totus curae pastorali et reformationi incumbit.</hi> </head>
+<div3>
+            <head>42.</head>
+            <p>
+ Ascendit Malachias navem, et prospere navigans,
+<pb n="1097A"/>
+applicuit monasterio suo Benchorensi, ut primi
+filii primam reciperent gratiam. Quid animi putas
+gessisse illos, sano de via tam longa recepto patre,
+et illo patre? Nec mirum, si se tota in gaudium effuderunt
+viscera eorum in reditu ejus, quando et exteris
+circumquaque gentibus incredibilem mox laetitiam
+velox rumor invexit. Denique de civitatibus, et
+castellis, et vicis occurrunt ei; et quocumque divertat,
+suscipitur exsultatione universae terrae. Verumtamen
+non sapit honor. Opus exercetur legationis:
+multis in locis celebrantur conventus multi, ne qua
+regio, seu portio regionis, legationis fructu et utilitate
+fraudetur. Seminatur super omnes aquas: non
+est qui se abscondat ab opera sollicitudinis ejus.
+Non sexus, non aetas, non conditio, non professio
+<pb n="1097B"/>
+reputatur. Ubique semen spargitur salutare, ubique
+intonat tuba coelestis. Ubique discurrit, ubique irrumpit,
+evaginato gladio linguae ad faciendam vindictam
+in nationibus, increpationes in populis.
+Terror ejus super facientes mala. Clamat <hi>iniquis,
+Nolite inique agere; et delinquentibus, Nolite exaltare
+cornu <note>(Psal. LXXIV, 5)</note>
+            </hi>. Religio ubique plantatur,
+propagatur, fovetur. Oculi ejus super eos,
+et cura ejus ad necessitates eorum. In conciliis, quae
+passim celebrantur, repetuntur antiquae traditiones,
+quas tamen bonas fuisse constiterit, abolitas <emph>676</emph> 
+vero negligentia sacerdotum. Nec modo vetera instaurantur,
+cuduntur et nova; et quaecumque promulgaverit,
+tanquam coelitus edita acceptantur, tenentur,
+<pb n="1097C"/>
+scripto mandantur ad memoriam posterorum.
+Quidni coelitus missa crederentur, quae tot coelestia
+confirmant miracula? Et ut fidem dictis faciam,
+perstringam nonnulla paucis. Quis enim cuncta enumeret?
+Quanquam libentius, fateor, imitandis immorer,
+quam admirandis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIX. <hi>Virtutum ejus insignia, et mores vero praesule digni.</hi> </head>
+<div3>
+            <head>43.</head>
+            <p>
+ Et meo quidem judicio primum et maximum
+miraculum, quod fecit, ipse erat. Ut enim taceam
+interiorem hominem ejus, cujus pulchritudinem,
+fortitudinem, puritatem satis indicabant mores
+ipsius et vita, ipsum exteriorem ita uno semper
+modo, ipsoque modestissimo et decentissimo gessit,
+ut nil prorsus appareret in eo, quod posset offendere
+<pb n="1097D"/>
+intuentes. Et quidem qui non offendit in verbo, ille
+perfectus est vir <note>(Jac. III, 2)</note>. At vero in Malachia
+quis unquam, etiamsi curiosius observarit, deprehendit
+otiosum, non dico verbum, sed nutum? Quis
+manum, pedemve moventem frustra? Imo quid non
+aedificans in ejus incessu, aspectu, habitu, vultu?
+Denique vultus hilaritatem nec fuscavit moeror, nec
+levigavit risus. Totum in eo disciplinatum, totum
+insigne virtutis, perfectionis forma. Per omnia serius,
+sed non austerus. Remissus interdum, dissolutus
+nunquam. Negligens nihil, etsi pro tempore
+multa dissimulans. Quietus saepe, sed minime aliquando
+otiosus. A die primo conversionis suae usque
+ad extremum vitae, sine proprio vixit. Non servos,
+non ancillas, non villas, non viculos, non denique
+<pb n="1098A"/>
+quidquam redituum ecclesiasticorum saeculariumve,
+vel in ipso habuit episcopatu. Mensae episcopali nihil
+prorsus constitutum, vel assignatum, unde Episcopus
+viveret. Nec enim vel domum propriam habuit.
+Erat autem pene incessanter circuiens parochias
+omnes, Evangelio serviens, et de Evangelio vivens
+sicut constituit ei Dominus: <hi>Dignus est,</hi> inquiens, <hi>operarius mercede sua 
+ <note>(Luc. X, 7)</note>
+            </hi>. Nisi quod frequentius
+ipsum Evangelium sine sumptu ponens, de laboribus
+suis suorumque ferebat, unde se et eos qui
+secum laborabant, in opere ministerii sustentaret.
+Porro si interdum quiescere oporteret, in sanctis hoc
+faciebat locis, quae ipse per Hiberniam sparserat
+universam: apud quos vero moram facere libuisset,
+illorum se conformavit moribus et observantiis,
+<pb n="1098B"/>
+communi contentus vita et mensa. Non fuit in victu,
+non fuit in vestitu, in quo potuisset Malachias dignosci
+inter caeteros fratres: in tantum, cum major
+esset, humiliavit se in omnibus.</p>
+          </div3>
+<div3>
+            <head>44.</head>
+            <p>
+ Denique cum exiret ad praedicandum, cum
+peditibus pedes et ipse ibat, episcopus et legatus.
+Forma apostolica haec: et inde magis mira in Malachia,
+quo rara nimis in aliis. Verus profecto apostolorum
+haeres est iste, qui talia agit. Sed advertere
+est, quomodo dividat haereditatem cum fratribus
+suis, aeque nepotibus Apostolorum. Illi dominantur
+in clero: iste dum esset liber ex omnibus, omnium
+se servum fecit. Illi aut non evangelizantes manducant,
+aut evangelizant ut manducent: Malachias
+imitans Paulum, manducat ut evangelizet. Illi
+<pb n="1098C"/>
+fastum et quaestum aestimant pietatem: Malachias
+haereditate vindicat sibi opus et onus. Illi felices se
+credunt, si dilataverint terminos suos: Malachias
+in dilatanda charitate gloriatur. Illi congregant in
+horrea, et dolia replent, unde onerent mensas:
+Malachias colligit in deserta et solitudines, unde
+impleat coelos. Illi, cum accipiant decimas, et primitias,
+et oblationes, insuper et de Caesaris beneficio
+telonia, et tributa, et alios redditus infinitos, solliciti
+sunt nihilominus, quid manducent, et quid bibant:
+Malachias nihil horum habens, multos tamen locupletat
+de promptuario fidei. Illis nec cupiditatis, nec
+sollicitudinis ullus est finis; Malachias <emph>677</emph> cupiens
+nihil, non novit tamen cogitare de crastino. Illi a
+<pb n="1098D"/>
+pauperibus exigunt quod dent divitibus: iste sollicitat
+divites pro pauperibus sustentandis. Illi marsupia
+vacuant subditorum: iste pro peccatis eorum
+altaria cumulat votis, hostiisque pacificis. Illi alta
+palatia erigunt, turres ac moenia ad coelos levant;
+Malachias non habens ubi caput reclinet, opus facit
+evangelistae. Illi equos ascendunt cum turba hominum
+gratis manducantium panem, et non suum; Malachias
+septus sanctorum fratrum collegio, pedes
+circuit, portans panes Angelorum, quibus satiet
+animas esurientes. Illi plebes ne agnoscunt quidem:
+iste erudit. Illi potentes et tyrannos honorant: iste
+punit. O virum apostolicum, quem tot et talia nobilitant
+signa apostolatus sui! Quid ergo mirum, si
+mira est operatus, sic mirabilis ipse? Imo vero non
+<pb n="1099A"/>
+ipse, sed Deus in ipso. Alioquin <hi>tu es Deus,</hi> inquit, <hi>qui facis mirabilia 
+ <note>(Psal. LXXVI, 15)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XX. <hi>Energumenos vexatos a daemoniis liberat.</hi> </head>
+<div3>
+            <head>45.</head>
+            <p>
+ Erat mulier in civitate Culratim [ <hi>al.</hi> cultatim],
+daemonium habens. Vocatus est Malachias;
+orat pro addicta, urget invasorem; exit. Sed nondum
+exsaturata nequitia ejus, miseram invadit mulierculam,
+quae forte prope assisteret. Et Malachias:
+ « Non ad hoc, »  inquit,  « tibi illam tuli, ut
+hanc pervaderes: exi et ab ea. »  Paret, sed repetit
+priorem. Qua denuo pulsus, recurrit in alteram. Ita
+per aliquod spatium alternatim vexabat illas, hinc
+inde refugiens. Tunc sanctus indignans sibi illudi a
+daemone, colligensque spiritum, infremuit, et totis
+<pb n="1099B"/>
+viribus fidei facto impetu in adversarium, ab utraque
+fugavit, et quidem non minus vexatum his,
+quas vexaverat ipse. Caeterum quod moram fecit
+sancto, non putes, lector, fuisse virtutis ejus, sed
+dispensationis divinae: ut videlicet ex hoc manifestior
+fieret et maligni praesentia, et victoria Malachiae.
+Denique audi quid alibi fecerit, non autem per praesentiam
+suam. Et utique potuit praesens, quod
+absens valuit.</p>
+          </div3>
+<div3>
+            <head>46.</head>
+            <p>
+ In regione aquilonaris partis Hiberniae jacebat
+infirmus in domo, nec dubium quin daemonum maleficio.
+Nam quadam nocte audivit eos loquentes,
+dicente altero ad alterum:  « Vide ne miser iste
+hypocritae illius stratum, stramenve contingat, et
+<pb n="1099C"/>
+sic effugiat manus nostras. »  Cognovit homo, quod
+Malachiam loquerentur, quem non multo ante in
+eadem domo meminerat pernoctasse. Et adhuc stramen
+in loco: sumptaque fiducia, et quo potuit conatu,
+coepit repere debilis corpore, sed fide fortis.
+Et ecce in aere clamor et vociferatio:  « Prohibe
+eum, prohibe; retine eum, retine: amittimus praedam. » 
+Verum is quem portabat fides et desiderium
+evadendi, quanto plus clamabant illi, tanto magis
+genibus manibusque nitens, ad remedium festinabat.
+Et perveniens ascendit lectulum, volutatur in
+stramine, audit ululatum plangentium:  « Heu, heu!
+ipsi nos prodidimus, decepti sumus, evasit. »  Et dicto
+citius recessit ab eo daemonum terror et horror quem
+patiebatur, et omnis pariter aegritudo. In Lesmor
+<pb n="1099D"/>
+civitate homo a daemonio vexatus, per Malachiam
+liberatus est. Item transeunti aliquando per Laginiam,
+oblatus illi infans habens daemonium, sanus
+relatus est. In regione eadem ligatam funibus phreneticam
+solvi jussit, et in aqua, quam benedixit,
+lavari. Lota est, et sanata est. Alteram quoque in
+Saballo regione Ulydiae, membra propria dentibus
+laniantem, orando et tangendo curavit. Amentem
+hominem, multa praedicentem futura, amici et
+propinqui adducunt ad Dei hominem, vinctum funibus
+fortiter, quod fortem ad nocendum rabies
+ipsa fecisset, et terribilem valde. Orat Malachias;
+et incontinenti aeger sanatur, et solvitur. Factum est
+hoc loco quodam, cujus nomen tacemus, quod nimis
+barbarum sonet, sicut et alia multa. Alio tempore in
+<pb n="1100A"/>
+praefata civitate Lesmor puellam mutam parentes ejus
+in media platea <emph>678</emph> offerunt transeunti, cum multa
+supplicatione rogantes ut ei subvenire dignetur.
+Stat Malachias, et facta oratione, tangens digito
+linguam ejus, sputum misit in os ejus et loquentem
+dimisit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXI. <hi>Beneficia moribundis et parturientibus praestita.</hi> </head>
+<div3>
+            <head>47.</head>
+            <p>
+ Exiens de quadam ecclesia, obvium habuit
+hominem cum uxore sua, quae non poterat loqui.
+Rogatus ut ejus misereatur, stat in porta, populo
+circumstante; et data benedictione super eam, jubet
+dominicam dicere orationem. Dixit illa, et populus
+benedixit Dominum. In civitate, cui nomen
+Oenthreb [ <hi>al.</hi> Onereb], decumbens lectulo quidam
+<pb n="1100B"/>
+dives, jam dies duodecim privatus linguae officio, ad
+jussionem visitantis se sancti, loquelam recuperat,
+eucharistiam sumit: et ita munitus, extremum in
+bona confessione efflavit spiritum. O oliva fructifera
+in domo Dei! o oleum jucunditatis, ungens et lucens!
+Et splendore miraculi illustravit sanos, et
+suavitate beneficii unxit infirmum, cui mox morituro
+salutarem confitendi et communicandi obtinuit facultatem.
+Intravit ad eum quidam de nobilibus, habens
+ei aliquid dicere. Qui inter loquendum, fide
+plenus, tres juncos pie furatus de lectulo, in quo
+ille sedebat, tulit secum: et multa Deus de furto
+pietatis est operatus, fide illius, et Praesulis sanctitate.
+Forte venerat in civitatem, nomine Duevania. Et
+cum sederet ad mensam, ingressus vir nobilis de
+<pb n="1100C"/>
+civitate ipsa humiliter supplicat pro uxore praegnante,
+quae jam solemne omne praeterisset tempus
+pariendi, ita ut mirarentur omnes; et nemo, qui aliud
+quam vitae periculum crederet imminere. Rogat et
+cum eo Neemias, episcopus illius civitatis, qui juxta
+eum sedebat: rogant et caeteri, quotquot aderant
+simul discumbentes. Tum ille:  « Compatior ei, »  inquit,
+ « quod bona mulier sit, et pudica. Et porrigens
+viro poculum, cui benedixerat:  « Vade, »  inquit,  « da
+illi bibere, sciens eam sumpto benedictionis potu, et
+sine mora, et sine periculo parituram. »  Factum
+est quod praecepit, et nocte ipsa subsecutum est
+quod promisit. Sedebat in campo cum Comite Ulydiae
+aliqua tractans, et multitudo copiosa circa eos.
+<pb n="1100D"/>
+Venit mulier gravida, et vere gravis. Indicat se
+contra omnes naturae leges retinere partum jam
+quindecim mensibus et diebus viginti. Compassus
+Malachias super novo et inaudito incommodo, orat,
+et mulier parit. Qui aderant, laetati sunt, et mirati
+sunt. Omnes enim viderunt, in qua facilitate et velocitate
+loco eodem enixa sit, et triste negati partus
+periculum miraculo commutatum jucundiori.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXII. <hi>Concubinario obstinato exitium denuntiat.</hi> </head>
+<div3>
+            <head>48.</head>
+            <p>
+ Accidit ibidem quiddam pari quidem miraculo,
+sed sorte dispari. Vidit hominem, qui publice tenere
+diceretur concubinam fratris; et hic erat miles, minister
+Comitis. Et publice conveniens incestuosum,
+<pb n="1101A"/>
+alterum ei Joannem exhibuit:  « Non licet tibi,
+inquiens,  « concubinam habere fratris tui. »  At ille
+alterum ipsi nihilominus Herodem redhibens, non
+modo non audivit eum, sed et superbe respondit, et
+coram omnibus jurat nunquam se dimissurum <note>(Marc.
+VI, 17-28)</note>. Tum commotus Malachias, sicut erat
+pro justitia vehementer zelans:  « Et Deus, »  inquit,
+ « te ab illa separet vel invitum. »  Parvi pendens
+ille, ex instanti abiit indignabundus. Offendensque
+mulierem non longe a turba constituta in loco, vi
+oppressit eam, sicut erat satanae totus, cui paulo
+ante traditus fuerat. Nec latuit flagitium. Ancilla,
+quae dominam comitabatur, recurrens domum (nempe
+haud procul aberat loco) nuntiat anhela quid
+mali acciderit. Ad quam vocem germani illius, qui
+<pb n="1101B"/>
+domi erant, zelantes sororis stuprum, tota illo festinantia
+pervolant, pudicitiae hostem, ipso in loco
+et opere sceleris deprehensum, multis <emph>679</emph> confossum
+vulneribus interimunt. Necdum conventus
+solutus erat, cum ecce armiger illius, quod evenerat,
+nuntiavit. Et mirati sunt universi, quod sententia
+Malachiae tam celerem habuisset effectum. Timuerunt
+quique flagitiosi audito hoc verbo (nam
+multi erant in terra), et territi purgati sunt, lavantes
+manus suas in sanguine peccatoris.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIII. <hi>Varia sanitatum beneficia variis praestita.</hi> </head>
+<p>49, Diarmitium comitem, multo jam tempore decumbentem
+lecto, duriter quidem increpans, quod
+malus homo esset, immoderatius serviens ventri et
+<pb n="1101C"/>
+gulae, benedicta aspersum aqua, surgere fecit sine
+mora, ita valentem, ut equum ascenderet illico, et
+utique praeter spem suam ipsius et suorum. In urbe
+Caselensi venit homo ante eum cum filio paralytico,
+rogans illum sanari: qui orans breviter,  « Vade, » 
+inquit,  « filius tuus sanabitur. »  It, et crastino redit
+cum filio, sed minime sanato. Tum surgens Malachias,
+et stans super eum diutius oravit, et ille sanatus
+est. Et conversus ad patrem:  « Offer, »  inquit,
+ « illum Deo. »  Annuit homo, sed non tenuit: et
+post aliquot annos ille jam juvenis recidit in idipsum,
+sine dubio propter inobedientiam patris, et
+pacti transgressionem. Alius quidam veniens de longinquo,
+cum esset Malachias in finibus Mumoniae,
+<pb n="1101D"/>
+attulit ad eum filium, pedum penitus officio destitutum.
+Percunctatus quonam modo illi id accedisset:
+ « Ut suspicor, »  inquit,  « daemonum malignitate. » 
+Et addit:  « Ludenti in prato ipsi, ni fallor, immisere
+soporem, evigilansque puerulus, sic se invenit. » 
+Haec dicens, cum lacrymis precem fundit, efflagitat
+opem. Misertus ejus oravit Malachias, jubens aegrum
+interim dormire ibidem super solium [ <hi>fort.</hi> solum].
+Dormivit; et surrexit sanus. Hunc ipse, quia de
+longe venerat, aliquandiu in comitatu suo retinuit,
+et erat ambulans cum eo.</p>
+<div3>
+            <head>50.</head>
+            <p>
+ In monasterio Benchorensi pauper quidam
+fratrum eleemosynis sustentabatur. Et erat quotidianam
+accipiens stipem, aliquid officii factitans in
+pistrino. Is claudus ab annis duodecim, humi manibus
+<pb n="1102A"/>
+repens, post se trahebat pedes emortuos: quem
+die quadam ante cellam suam Malachias moestum
+et moerentem inveniens causam percontatur. Et ille:
+ « Vides, »  inquit,  « quam ex longo misellus afflicter,
+et manus Domini super me: et ecce ad cumulum
+aerumnae, homines, qui misereri debuerant, irrident
+me potius, miseriam exprobrantes. »  Quem ubi audivit,
+pietate motus suspexit in coelum, manus pariter
+levans. Facta autem brevi oratione, ipse intravit
+cellam, et ille surrexit. Et stans super pedes suos,
+mirabatur si vere esset quod erat pene somnium
+suspicatus. Coepit tamen se pedetentim movere: neque
+enim posse ire satis credebat. Tandem quasi e
+gravi sommo evigilans, cognoscit misericordiam
+Domini super se; firmiter graditur, et in pistrinum
+<pb n="1102B"/>
+revertitur, exsiliens et exsultans, et laudans Deum.
+Viso eo, qui ante viderant et cognoverant, repleti
+sunt stupore et ecstasi, phanstasma putantes. Virum
+item hydropicum orando sanavit: qui illico remansit
+in monasterio, pastor ovium factus.</p>
+          </div3>
+<div3>
+            <head>51.</head>
+            <p>
+ Civitas Hiberniae, nomine Corcagia [ <hi>al.</hi> Coreava],
+vacabat episcopo. Tractatum est de electione:
+dissensere partes, quibusque, ut assolet, praesulem
+volentibus constituere suum, non Dei. Venit illuc
+Malachias, audita dissensione. Convocato clero et
+populo, etiam corda et vota discordantium unire
+curavit. Et persuasis illis totum negotium sibi debere
+credi, cui potissimum sollicitudo incumberet
+illius, sicut et aliarum per Hiberniam Ecclesiarum,
+incontinenti nominat eis, non quempiam de nobilibus
+<pb n="1102C"/>
+terrae, sed magis quemdam hominem pauperem,
+quem sciret sanctum et doctum: et hic erat alienigena.
+Quaeritur ille: nuntiatur decumbere lecto, et
+ita debilis, ut nullo pacto exeat, nisi in manibus
+portatus ministrantium. Et Malachias:  « Surgat, » 
+inquit,  « in nomine Domini, ego praecipio; <emph>680</emph> 
+obedientia salvum faciet eum. »  Quid faceret ille?
+Parere volebat, sed imparatum se sentiebat: quod
+etsi posset ire, episcopari reformidabat. Ita cum
+voluntate obediendi, pugnante gemino hoste, pondere
+languoris, et metu honoris [ <hi>al.</hi> oneris], vicit
+illa tamen, data sibi in adjutorium spe salutis. Itaque
+conatur, movet sese, tentat vires, invenit se
+solito fortiorem. Crescit pariter fides cum viribus,
+<pb n="1102D"/>
+et rursum facta fortior fides dat vicissim viribus incrementum.
+Jam surgere per se valet, jam meliuscule
+gradi, jam nec sentire in ambulando lassitudinem;
+demum expeditus et alacer pervenire ad Malachiam
+sine hominis adjutorio. Qui assumens eum,
+misit in cathedram, clero et populo collaudante.
+Hoc ita in pace factum est, quia nec illi ausi sunt
+Malachiae voluntati in aliquo obviare, videntes signum,
+quod fecerat: nec ille parere dubitavit, tam
+evidenti argumento factus securior de Domini voluntate.</p>
+          </div3>
+<div3>
+            <head>52.</head>
+            <p>
+ Mulier quaedam fluxum sanguinis patiebatur:
+et haec nobilis, charissima Malachiae, plus tamen ob
+morum quam generis nobilitatem. Quae ex toto deficiens,
+nimirum cum sanguine exhaustis viribus,
+<pb n="1103A"/>
+jam posita in extremis, misit ad Dei hominem, ut,
+quod supererat, animae subveniret, qui se jam non
+esset visurus in corpore. Audiens Malachias moleste
+tulit, quod mulier virtutis foret, et vita ejus
+fructuosa opere et exemplo. Et videns se non posse
+satis accurrere tempestive, accito Malcho, quod juvenis
+esset, et expeditus (ipse est, cujus supra me
+minimus <note>(Num. 39)</note>, frater Christiani abbatis):
+ « Accelera, »  inquit,  « fer illi tria poma haec, super
+quae nomen Domini invocavi. Confido in ipso quod
+ubi ex eis gustaverit, non gustabit mortem, priusquam
+nos videat, etsi tardiuscule secuturos. » 
+Festinat Malchus secundum mandatum, et veniens
+intrat ad morituram, alterum se exhibens puerum
+Elisaei <note>(IV Reg. IV, 29)</note>, nisi quod hujus efficacior
+<pb n="1103B"/>
+opera fuit. Jubet missam sibi a Malachia benedictionem
+accipere, et gustare, si quo modo valuerit.
+At illa exhilarata, audito nomine Malachiae, ut obedire
+possit nutu significat paulisper se erigi velle;
+nam verbo non poterat. Erigitur, gustat: gustato
+confortata est, loquitur et gratias agit. Et immisit
+Dominus soporem in eam, et suavissime requievit in
+eo, cujus usu diu caruerat, sicut et esu. Stetit interim
+sanguis, et post modicum expergefacta, sanam
+se reperit, nisi quod longa inedia, et sanguinis minutione
+adhuc debilis erat. Si quominus, die sequenti
+desideratus Malachiae adventus aspectusque perfecit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIV. <hi>Feminam sine sacramento Extremae Unctionis defunctam resuscitat.</hi> </head>
+<div3>
+            <head>53. </head>
+<p>
+              <pb n="1103C"/>Habitabat vir nobilis in vicinia Benchorensis
+monasterii, cujus uxor cum infirmaretur ad mortem,
+rogatus Malachias ut descenderet, priusquam moreretur,
+infirmam uncturus oleo. Descendit, et intravit
+ad eam: quo viso, exsultat illa, spe animata salutis.
+Et cum pararet ungere eam, visum est omnibus differendum
+potius usque mane. Erat enim vespera.
+Acquievit Malachias, et data benedictione super
+aegram, exivit cum his qui secum erant. At vero
+post modicum subito clamor factus est, planctus et
+strepitus multus per totam domum; siquidem insonuit
+quod mortua esset. Accurrit Malachias tumultu
+audito, et secuti sunt eum discipuli ejus. Et accendens
+ad lectum, ut certo comperit exspirasse, consternatus
+<pb n="1103D"/>
+est animo, sibi imputans, quod fraudata
+gratia Sacramenti obierit. Et elevatis in coelum manibus,
+ « Obsecro, Domine, inquit, insipienter egi.
+Ego, ego peccavi, qui distuli; non ista, quae voluit. » 
+Haec dicens, contestatus est in audientia omnium,
+nullam se recepturum consolationem, nullam daturum
+requiem spiritui suo, nisi, quam tulerat, liceret
+restituere gratiam. Et stans super eam, tota nocte
+laborabat in gemitu suo: et pro oleo sancto,
+largo imbre lacrymarum <emph>681</emph> perfundens mortuam,
+vicem illi unctionis, quam poterat exhibebat. Ipse
+quidem sic; ad suos autem:  « Vigilate, »  inquit,  « 
+et orate. »  Itaque in psalmis illi, ille in lacrymis,
+noctem duxere pervigilem. Et mane facto, exaudivit
+Dominus sanctum suum, quia spiritus Domini erat
+<pb n="1104A"/>
+postulans pro eo, qui postulat pro sanctis gemitibus
+inenarrabilibus. Quid plura? aperit oculos quae fuerat
+mortua; et, ut solent qui de gravi somno evigilant,
+fricans sibi manibus frontem et tempora, super lectum
+se erigit, et agnito Malachia, inclinans devote
+salutat eum. Et verso luctu in gaudium, stupor apprehendit
+omnes, et qui viderunt, et qui audierunt.
+Sed et Malachias gratias agens, benedixit Dominum.
+Et unxit eam nihilominus, sciens in hoc Sacramento
+remitti peccata, et quod oratio fidei salvet infirmum <note>(Jac. V, 14, 15)</note>.
+Post haec abiit ille, et illa convaluit;
+et vivens incolumis tempore aliquanto, ut
+gloria Domini manifestaretur in ea, peracta poenitentia,
+quam sibi Malachias injunxerat, in bona
+confessione iterum obdormivit, et migravit ad Dominum.</p>
+          </div3>
+</div2>
+
+<div2>
+          <head>CAPUT XXV. <hi>Alia diversa beneficia in diversos collata.</hi> </head>
+<div3>
+            <head>54.</head>
+            <p>
+ Fuit item mulier, cui spiritus iracundiae et
+<pb n="1104B"/>furoris in tantum dominaretur, ut non solum vicini
+et cognati fugerent consortium ejus, sed filii quoque
+ipsius vix sustinerent habitare cum ea. Clamor,
+et rancor, et tempestas valida, ubicumque fuisset.
+Audax, et ardens, et praeceps, metuenda lingua et
+manu, importabilis omnibus, et invisa. Dolentes
+filii tum pro illa, tum pro seipsis, trahunt illam ad
+praesentiam Malachiae, lacrymabilem cum fletu querimoniam
+deponentes. Vir autem sanctus et periculum
+matris, et incommodum miserans filiorum, seorsum
+<pb n="1104C"/>
+advocat illam: fueritne confessa aliquando
+peccata sua, sollicite percontatur. Respondit,  « Nequaquam.
+Confitere, »  inquit. Paret. Et ille injungens
+poenitentiam confitenti, oransque super eam, ut
+Dominus omnipotens det ei spiritum mansuetudinis,
+in nomine Domini Jesu ne ultra irascatur jubet. Sequitur
+tanta mansuetudo, ut pateat omnibus non
+esse aliud, quam admirabilem mutationem dexterae
+Excelsi. Fertur adhuc hodie vivere, et tantae
+esse patientiae et lenitatis, ut quae omnes exasperare
+solebat, nullis modo exasperari damnis, contumeliis,
+afflictionibus queat. Si licet et me, juxta Apostolum,
+abundare in sensu meo <note>(Rom. XIV, 5)</note>, accipiat quisque
+ut volet; ego istud superiori suscitatae miraculo
+<pb n="1104D"/>
+mortuae censeo praeferendum, quod exterior quidem
+ibi, hic vero interior revixerit homo. Et nunc curramus
+ad reliqua.</p>
+          </div3>
+<div3>
+            <head>55.</head>
+            <p>
+ Vir secundum saeculum honorabilis, secundum
+Deum timoratus, veniens ad Malachiam, questus
+est ei super sterilitate animae suae, supplicans
+ut sibi obtineret ab omnipotente Deo gratiam lacrymarum.
+Et subridens Malachias, quod gratum haberet
+in homine saeculari desiderium spirituale, suam
+maxillam maxillae illius quasi blandiendo conjungens:
+ « Fiat, »  inquit,  « tibi, sicut petisti. »  Tantos
+exinde, et pene continuos exitus aquarum deduxerunt
+oculi ejus, ut illud Scripturae ei posse aptari
+videretur: <hi>Fons hortorum, puteus aquarum viventium <note>(Cantic. IV, 15)</note>
+            </hi>.
+Est insula maris in Hibernia,
+<pb n="1105A"/>
+ab olim fecunda piscium: et mare ibi piscosum
+valde. Peccatis, ut creditur, habitantium adempta
+copia solita, quae multos habebat filios, infirmata
+est, et a tanta funditus sui commoditate emarcuit.
+Dolentibus accolis, et jacturam gravem populis aegre
+ferentibus, revelatum est cuidam mulieri, precibus
+Malachiae posse afferri remedium: idque innotuit
+omnibus, ipsa prodente. Nutu Dei contigit adesse
+Malachiam. Dum enim circuiret, et repleret Evangelio
+regionem, divertit illuc, ut et ipsis eamdem
+gratiam impertiret. At barbari, quibus erat major
+cura de piscibus, omni instantia flagitant, ut potius
+respicere dignetur super sterilitatem insulae suae.
+Qui cum responderet se minime ad hoc venisse, <emph>682</emph> 
+ hominum magis, quam piscium desiderare
+<pb n="1105B"/>
+capturam; videns tamen fidem eorum, flexis in littore
+genibus, oravit ad Dominum, ut, licet indignis,
+indultum olim beneficium tanta fide repetentibus non
+negaret. Ascendit oratio, ascendit et piscium multitudo,
+et forte uberior, quam in diebus antiquis,
+et ipsa populo terrae perseverans usque in hodiernum
+diem. Quid mirum, si oratio justi, quae penetrat
+coelos, penetravit abyssos, et de profundo maris
+tantas piscium copias evocavit?</p>
+          </div3>
+<div3>
+            <head>56.</head>
+            <p>
+ Venerunt aliquando tres episcopi in villam
+Fochart [ <hi>al.</hi> Fochaut], quem dicunt locum nativitatis
+Brigidae virginis: et quartus erat Malachias.
+Ad quem presbyter qui hospitio susceperat eos:
+ « Quid faciam, »  inquit,  « quod pisces non habeo? » 
+Quo respondente, ut quaereret a piscatoribus:  « Biennium
+<pb n="1105C"/>
+est, »  ait,  « quod non inveniuntur pisces in
+flumine: unde et piscatores prorsus diffusi, etiam
+arti suae renuntiaverunt. »  Et ille:  « Praecipe, » 
+inquit,  « laxari retia in nomine Domini. »  Factum
+est, et capti sunt salmones duodecim. Secundo miserunt,
+et capti sunt salmones duodecim. Secundo miserunt,
+et captis totidem, inopinatum inferunt mensis
+et ferculum, et miraculum. Et ut clare liqueat,
+Malachiae meritis hoc datum fuisse, aliis quoque
+duobus sequentibus annis eadem nihilominus sterilitas
+perduravit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVI. <hi>Veritatem corporis Christi in Eucharistia propugnat.</hi> </head>
+<div3>
+            <head>57.</head>
+            <p>
+ Fuit quidam clericus in Lesmor, probabilis
+(ut fertur) vitae, sed fidei non ita. Is sciolus in oculis
+<pb n="1105D"/>
+suis, praesumpsit dicere, in Eucharistia esse tantummodo
+sacramentum, et non rem sacramenti, id
+est solam sanctificationem, et non corporis veritatem.
+Super quo a Malachia secreto, et saepe conventus,
+sed incassum, vocatus ad medium est, seorsum
+tamen a laicis, ut, si fieri posset, sanaretur, et non
+confunderetur. Itaque in conventu clericorum data
+facultas homini est pro sua sententia respondendi.
+Cumque totis ingenii viribus, quo non mediocriter
+callebat, asserere et defendere conaretur errorem,
+Malachia contra disputante et convincente, judicio
+omnium superatus, de conventu confusus quidem
+exiit, sed non correctus. Dicebat autem se non ratione
+victum, sed Episcopi pressum auctoritate.
+ « Et tu, »  inquit,  « o Malachia, sine causa me hodie
+<pb n="1106A"/>
+confudisti, adversus profecto veritatem veritatem locutus,
+et contra tuam ipsius conscientiam. »  Moestus Malachias
+pro homine sic indurato, sed magis fidei
+dolens injuriam, timens periculum, ecclesiam convocat:
+errantem publice arguit, publice monet ut
+resipiscat. Suadentibus hoc ipsum episcopis et universo
+clero, cum non acquiesceret, contumaci
+anathema dicunt, haereticum protestantes. Nec sic
+evigilans:  « Omnes, »  inquit,  « favetis homini potiusquam
+veritati; ego personam non accipio, ut deseram
+veritatem. »  Ad hoc verbum substomachans
+sanctus:  « Dominus, inquit,  « fateri te veritatem faciat
+vel ex necessitate. »  Quo respondente,  « Amen, » 
+solvitur conventus. Tali ille inustus cauterio, fugam
+meditatur, infamis atque inhonorus fore non sustinens.
+<pb n="1106B"/>
+Et continuo sua tollens exibat, cum ecce subita
+correptus infirmitate, sistit gradum, viribusque
+deficiens, eodem loco jactat se super solum anhelus
+et fessus. Forte incidens in id loci vagabundus insanus
+quidam, offendit hominem, quidnam ibit agat
+percontatur. Respondet gravi se infirmitate teneri,
+et neque procedere, neque redire valentem. Et ille:
+ « infirmitas ista haud alia, »  inquit,  « quam ipsa
+mors est. »  Hoc autem non dixit a semetipso; sed
+pulchre Dominus per insanum corripuit eum, qui
+sanis acquiescere noluit consiliis sensatorum. Et
+addit:  « Revertere domum, ego te juvabo. »  Denique
+ipso duce revertitur in civitatem; redit ad cor,
+et ad misericordiam Domini. Eadem hora accitur
+Episcopus, agnoscitur veritas, abjicitur error. Confessus
+<pb n="1106C"/>
+reatum absolvitur, petit Viaticum, datur reconciliatio:
+et uno pene momento perfidia ore abdicatur,
+et morte diluitur. <emph>683</emph> Ita mirantibus
+cunctis, sub omni celeritate completus est sermo
+Malachiae, et scripturae pariter dicentis quia <hi>vexatio
+dat intellectum auditui <note>(Isa. XXVIII, 19)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVII. <hi>Pacem et concordiam inter dissidentes mirabiliter conciliat.</hi> </head>
+<div3>
+            <head>58.</head>
+            <p>
+ Inter populos quarumdam regionum orta aliquando
+gravis discordia est. Interpellatur Malachias
+de componenda pace inter eos: et cum esset alias
+impeditus, injungit negotium hoc uni episcoporum.
+Illo excusante et negante, et dicente Malachiam, non
+<pb n="1106D"/>
+se, quaesitum; se contemptum iri, frustra fatigari
+nolle:  « Vade, »  inquit,  « et Dominus erit tecum. » 
+Et ille:  « Acquiesco, sed si me non audierint, scito
+me ad tuam Paternitatem appellaturum. »  Subridens
+Malachias:  « Fiat, »  inquit. Tunc episcopus convocatis
+partibus, dictat formam pacis: acquiescunt,
+reconciliantur ad invicem; fide hinc inde data, stabilitur
+pax: et sic dimisit eos. At pars una videns
+hostes factos securos, imparatos esse, quippe qui
+pace facta mali nihil suspicarentur, loquebantur
+mutuo, et dicebat homo ad proximum suum:  « Quid
+voluimus facere? Victoria prae manibus est, et ultio
+de inimicis. »  Et coepere insequi illos. Innotuit episcopo
+quod fiebat; et accurrens convenit ducem eorum
+super iniquitate et dolo, sed spretus ab illo est.
+<pb n="1107A"/>
+Invocavit nomen Malachiae adversus eum, et nihili
+pendit: irridensque episcopum,  « Putasne, »  inquit,
+ « propter te amittere debeamus malefactores nostros,
+quos Deus tradidit in manus nostras? »  Et recordatur
+verbi sui episcopus, quos habuerat cum Malachia,
+flens et ejulans, verso vultu ad monasterium
+ejus:  « Ubi es, »  ait,  « homo Dei? ubi es? Nonne
+hoc est, pater mi, quod tibi dicebam? Heu, heu,
+veni, ut facerem bonum, et non malum; et ecce per
+me omnes, illi in corpore, isti in anima pereunt! » 
+Multa in hunc modum loquebatur lamentans et plangens,
+et quasi praesentem sollicitans et compellans
+Malachiam adversus malignantes. Interim vero impii
+cum quibus fecerant pacem, insequi non desistebant
+ad perdendum eos: et ecce spiritus mendax in
+<pb n="1107B"/>
+ore quorumdam virorum, qui eos deciperet. Et occurrerunt
+illis in via viri, nuntiantes, factam irruptionem
+in terras ipsorum ab adversariis: in ore
+gladii consumi omnia, et diripi bona eorum, uxores
+quoque ac liberos tolli et abduci. His auditis, reversi
+sunt festinanter. Sequebantur ultimi primos, quo
+irent, aut quid acciderat, nescientes. Nec enim omnes
+audierant viros loquentes. Cumque venissent,
+et invenissent nihil horum quae nuntiata erant, confusi
+sunt, deprehensi in malitia sua. Et cognoverunt spiritui
+erroris se traditos propter nuntium Malachiae
+quem deceperunt, et nomen ejus quod spreverunt.
+Porro episcopus audiens frustratos proditores in
+iniquitate sua quam cogitaverant, cum gaudio remeavit
+ad Malachiam, referens omnia per ordinem,
+<pb n="1107C"/>
+quae acciderant sibi.</p>
+          </div3>
+<div3>
+            <head>59.</head>
+            <p>
+ Sciens Malachias ejusmodi occasione pacem
+esse turbatam, nactus opportunum tempus, pacem
+per semet inter ipsos denuo reformare curavit, et
+firmare reformatam, datis et receptis altrinsecus fide
+et juramento. Verum illi, quibus ante pax fracta
+fuit, injuriae memores, neglecto pacto et praecepto
+Malachiae, tractaverunt de vice reddenda. Et congregati
+omnes in unum, ibant ut imparatos praeoccuparent,
+redderentque in caput eorum malum, quod
+sibi ipsi facere cogitassent. Et magno flumine, quod
+intererat, facillime transvadato, fluviolo, quem non
+procul ab illo offendere, retenti sunt. Neque enim
+jam fluviolus, sed plane fluvius ingens apparuit, ubique
+sui transire volentibus transitum negans. Mirari
+<pb n="1107D"/>
+omnes tantum nunc esse, tantillum antehac fuisse
+scientes, et loqui inter se:  « Unde inundatio haec?
+aer serenus est, imbres non sunt, nec proxime fuisse
+meminimus. Et si multum pluisset, quis nostrum
+unquam hactenus meminit in quantacumque illuvie
+ita intumuisse, ut operiret <emph>684</emph> terram, sata et
+prata pervaderet? Digitus Dei est iste, et Dominus
+sepit vias nostras propter sanctum suum Malachiam,
+cujus sumus praevaricati pactum, transgressi mandatum. » 
+Ita et hi infecto negotio, ad sua aeque confusi
+repedaverunt. Divulgatum est verbum per universam
+regionem: et benedicebant Deum, qui
+comprehendit sapientes in astutia sua, et confringens
+cornua peccatorum, sublimavit cornu christi sui.
+<pb n="1108A"/>
+</p>
+          </div3>
+<div3>
+            <head>60. </head>
+            <p>
+Aliquis de nobilibus infensus Regi, reconciliatus
+est per manum Malachiae. Nec enim Regi satis
+fidebat ille, ut pacem cum eo faceret, nisi mediante
+Malachia, aut quem Rex aeque revereretur. Nec immerito,
+ut post apparuit. Nam factum securum, et
+minime jam caventem sibi, captum trusit in vincula,
+odio antiquo captus plus ipse. Requiritur homo a
+suis de manu mediatoris: nec enim aliud amici
+exspectare quam mortem. Quid faceret Malachias?
+Non est quod possit, nisi ut recurrat ad suum illud
+solitum unicumque refugium. Congregato exercitu
+forti nimis, turba magna discipulorum suorum, adit
+hominem, requirit vinctum; negatur. Et Malachias:
+ « Inique, »  inquit,  « agis contra Dominum, et contra
+me, et contra te ipsum, pactum praevaricans: si
+<pb n="1108B"/>
+dissimulas tu, sed non ego. Credidit se homo fidei
+meae: si contingat mori, ego prodidi eum, ego reus
+sanguinis ejus. Quid tibi visum est me proditorem,
+te praevaricatorem constituere? Noveris me, donec
+liberetur, nihil gustaturum, sed neque istos. »  Sic
+locutus, intrat ecclesiam: Deum omnipotentem suis,
+suorumque anxiis gemitibus interpellat, ut injuste
+addictum dignetur eripere de manu praevaricatoris
+et iniqui. Et ea die cum nocte sequenti in jejunio et
+oratione perstiterunt. Perlatum ad Regem quid fieret;
+et magis inde induratum est cor ejus, unde
+emolliri debuerat. Init fugam, veritus homo carnalis,
+ne si prope remaneret, orationis non posset sustinere
+virtutem. Quasi vero vel absconditum non inveniat,
+vel non perveniat ad remotum. Tu metas ponis,
+<pb n="1108C"/>
+miser, orationibus sanctorum? Num est oratio jacta
+sagitta, ut fugias a facie arcus? Quo ibis a Spiritu
+Dei, qui eam portat, et quo a facie ejus fugies? Denique
+fugientem insequitur, invenit latitantem:
+erisque caecus et non videns, ut melius videas, et
+intelligas quoniam durum est tibi contra stimulum
+calcitrare. Denique senti vel nunc, quia sagittae potentis
+acutae pervenerunt ad te: quae etsi resilierunt
+a corde, quia saxeum est, sed non ab oculis. Utinam
+per fenestras saltem oculorum perveniant usque
+ad cor, et vexatio det intellectum caecitati. Cernere
+erat Saulum denuo ad manus trahi, et duci ad Ananiam <note>(Act. IX)</note>,
+ad ovem scilicet lupum, ut refunderet
+praedam. Refudit, et recepit visum, quod Malachias
+usque adeo ovis esset, ut si misertus et lupo. Diligenter
+<pb n="1108D"/>
+ex his adverte, lector, cum quibus habitatio
+Malachiae, quales principes, et quales populi. Quomodo
+non et is frater fuit draconum, et socius
+struthionum? <note>(Job XXX, 29.)</note> Et ideo dedit ei Domiminus
+virtutem calcandi super serpentes et scorpiones,
+alligare reges eorum in compedibus, et nobiles
+eorum in manicis ferreis. Audi denique quid sequatur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVIII. <hi>Sacrum aedificium moliens, adversarium patitur, sed mox ultione divina correptum.</hi> </head>
+<div3>
+            <head>61.</head>
+            <p>
+ Is, cui Benchorensis monasterii cesserat possessiones,
+ingratus beneficio, extunc et deinceps insolentissime
+semper se habuit adversus eum et suos,
+<pb n="1109A"/>
+in omnibus infestus, ubique insidians, detrahensque
+actibus ejus. At non impune hoc. Erat illi unicus filius,
+qui imitator patris, audens aliquid et ipse in
+Malachiam, eodem anno mortuus est. Mortuus autem
+sic. Visum est Malachiae debere construi in Benchor
+oratorium lapideum, instar eorum quae in aliis regionibus
+exstructa conspexerat. Et cum coepisset jacere
+fundamenta, indigenae quidem omnes mirati
+sunt, quod in terra illa necdum ejusmodi aedificia <emph>685</emph> 
+ invenirentur. Verum ille nequam, sicut erat
+praesumptuosus et insolens, non miratus est, sed
+indignatus. Ex qua indignatione concepit dolorem,
+et peperit iniquitatem. Et factus susurro in populis,
+nunc secreto detrahere, nunc blasphemare palam;
+notare levitatem, novitatem horrere, sumptus exaggerare.
+<pb n="1109B"/>
+Istiusmodi venenatis sermonibus sollicitans
+et inducens multos ad prohibendum:  « Sequimini
+me, »  inquit,  « et quod nonnisi per nos fieri debet,
+contra nos fieri non sinamus. »  Itaque cum pluribus,
+quibus suadere valuit, descendit ad locum, repertum
+convenit hominem Dei, primus ipse dux verbi,
+qui erat principium mali:  « O bone vir, quid tibi
+visum est nostris hanc inducere regionibus novitatem?
+Scoti sumus, non Galli. Quaenam levitas haec?
+Quid opus erat opere tam superfluo, tam superbo?
+unde tibi pauperi et inopi sumptus ad perficiendum?
+Quis perfectum videbit? Quid istud praesumptionis,
+inchoare quod non queas, non dico, perficere, sed
+nec videre perfectum? Quanquam amentis magis
+est, quam praesumentis [ <hi>al.,</hi> prudentis], conari quod
+<pb n="1109C"/>
+modum excedit, vincit vires, superat facultates.
+Cessa, cessa, desine a vesania hac: alioquin nos
+non sinimus, non sustinemus. »  Hoc dixit, prodens
+quid vellet, non quid posset considerans. Nam de
+quibus praesumebat, et secum adduxerat, viso viro,
+mutati sunt, et jam non ibant cum eo.</p>
+          </div3>
+<div3>
+            <head>62.</head>
+            <p>
+ Ad quem Vir sanctus, tota libertate utens:
+ « Miser, »  inquit,  « opus, quod inchoatum vides, et
+invides, sine dubio perficietur; perfectum videbunt
+multi. Tu vero quia non vis, non videbis; et quod
+non vis, morieris: attendito tibi, ne in peccato tuo
+moriaris. »  Ita est: ille mortuus est, et opus completum
+est; sed ille non vidit, qui, ut praefati sumus,
+anno eodem mortuus est. Interim pater audito mox,
+<pb n="1109D"/>
+quid de filio Vir sanctus praedixisset, sciens verbum
+ejus vivum et efficax esse:  « Interfecit, »  inquit,
+ « filium meum. »  Et instigante diabolo, tanto furore
+exarsit in illum, ut coram duce et majoribus Ulydiae
+falsitatis et mendacii arguere non vereretur hominem,
+qui veracissimus esset, veritatis et discipulus,
+et amator: et convicium intulit, simiam appellans.
+Et Malachias quidem doctus non reddere maledictum
+pro maledicto, obmutuit, et non aperuit os suum,
+dum consisteret peccator adversus eum. Sed non
+Dominus oblitus sermonis sui, quem dixerat: <hi>Mihi
+vindictam, et ego retribuam <note>(Deut. XXXII, 35)</note>
+            </hi>. Eadem
+die domum reversus homo, luit linguae effrenis temeritatem,
+ipso ultore, quo instigatore laxarat. Arreptum
+in ignem projicit daemon; sed mox manibus
+<pb n="1110A"/>
+assistentium extractus est; adustus tamen corporis
+parte, et mente captus, Et dum insaniret, vocatus
+Malachias venit, reperitque maledicum spumantia
+ora torquentem; horrendis vocibus et motibus terrentem
+omnia, ac toto corpore agitatum, vix posse
+teneri a pluribus: et orans pro inimico vir totius
+perfectionis, exauditus est; sed ex parte. Nam illico
+quidem sancto orante, ille aperuit oculos et sensum
+recepit. Relictus est autem ei spiritus Domini malus,
+qui eum colaphizet, ut discat non blasphemare. Credimus
+eum vivere usque adhuc, et usque ad haec
+tempora luere peccatum grande, quod peccavit in
+sanctum: certis temporibus tamen ferunt lunaticum
+esse. Porro praedictae possessiones, cum jam pro
+sui imbecillitate et inutilitate eas tenere non valuit,
+<pb n="1110B"/>
+in pace ad locum, cujus exstiterant, redierunt. Nec
+renuit Malachias post multam demum vexationem,
+pacis obtentu.</p>
+          </div3>
+<div3>
+            <head>63.</head>
+            <p>
+ Sed jam ad opus aedificii, quod Malachias,
+aggressus est, sermo recurrat. Et quidem non erat
+Malachiae, non dico unde perficeret, sed unde faceret
+quidquam. Erat autem cor ejus fiduciam habens
+in Domino. Dominus vero providit, ut, etsi non speranti
+in pecuniae thesauris, pecunia non deesset.
+Quis enim alius fecit, ut thesaurus eo loci reponeretur,
+repositus non reperiretur usque ad tempus et
+opus Malachiae? Invenit Dei famulus in Dei marsupio,
+quod defuit suo. Merito quidem. Quid enim justius,
+quam <emph>686</emph> ut cui pro Deo non erat proprium, cum
+Deo iniret consortium, et marsupium unum esset
+<pb n="1110C"/>
+amborum? Fideli namque homini totus mundus divitiarum
+est. Et quid est ille, nisi quoddam marsupium
+Dei? Denique ait: <hi>Meus est orbis terrae, et
+plenitudo ejus <note>(Psal. XLVI, 12)</note>
+            </hi>. Inde est, quod Malachias
+repertos argenteos multos non reposuit, sed
+exposuit. Nam totum munus Dei in Dei opus jubet
+expendi. Non suas, non suorum considerat necessitates;
+sed jactat cogitatum suum in Domino, ad
+quem utique recurrendum non dubitat, quoties
+necessitas postularit. Nec dubium Dei opus esse,
+quod Deo revelante Malachias praevidit. Contulerat
+primum cum fratribus de opere illo: et multi prae
+inopia minus libenter assentiebant. Inde anxius dubiusque
+quid ageret, coepit inter orandum vehementer
+<pb n="1110D"/>
+inquirere, quaenam foret voluntas Dei. Et
+die quadam de via regrediens, cum jam loco appropiaret,
+prospexit eminus: et ecce oratorium apparuit
+magnum lapideum, et pulchrum valde. Et intuens
+diligenter situm, formam et compositionem, cum
+fiducia arripit opus, prius quidem indicata visione
+senioribus fratribus, paucis tamen. Sane totum, quod
+attente notavit de loco, et modo, et qualitate, tanta
+diligentia observavit, ut peracto opere, factum viso
+similimum appareret, ac si et sibi cum Moyse dictum
+audierit: <hi>Vide, ut omnia facias secundum
+exemplar quod tibi ostensum est in monte <note>(Exod. XXV,
+40)</note>
+            </hi>. Eodem visionis genere id quoque, quod in Saballino
+situm est, antequam fieret, praeostensum est
+illi, non modo oratorium, sed et monasterium totum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIX. <hi>Claret prophetiae spiritu, et omni miraculorum gratia.</hi> </head>
+<div3>
+            <head>64.</head>
+            <p>
+ Transeunte illo per quamdam civitatem, et
+<pb n="1111A"/>multitudine magna concurrente ad eum, casu vidit
+juvenem inter alios videndi se curiosum. Ascenderat
+lapidem, et stans super summos articulos, extento
+collo, oculis et animo intendens in eum, quemdam
+illi de novo Zacchaeum exhibebat. Nec latuit Malachiam,
+sancto quidem Spiritu revelante, vere illum
+venisse in spiritu et virtute Zacchaei <note>(Luc. XIX, 2-9)</note>.
+Dissimulavit tunc tamen, tacitusque pertransiit. Caeterum
+in hospitio nocte ipsa narravit fratribus quomodo
+illum vidisset, et quid praevidisset de illo. Die
+autem tertia, en ille cum viro quodam nobili, domino
+suo: qui aperiens votum et desiderium juvenis, rogabat,
+<pb n="1111B"/>
+ut a se commendatum recipere dignaretur, et
+habere de caetero inter suos. Et Malachias agnoscens
+eum:  « Non est opus, »  inquit,  « ut quem jam Deus
+commendavit, homo commendet. »  Apprehensumque
+manu sua tradidit abbati Congano nostro, et ille
+fratribus. Ipse vero juvenis, adhuc (ni fallor) vivens
+primus Conversus laicus Suriensis monasterii, testimonium
+habet ab omnibus, quod sancte conversetur
+inter fratres secundum ordinem Cisterciensem. Et
+cognoverunt discipuli, etiam in hoc Malachiam prophetiae
+spiritum habuisse; non solum autem, sed et
+in eo, quod subjuncturi sumus.</p>
+          </div3>
+<div3>
+            <head>65.</head>
+            <p>
+ Cum Sacramenta offerret, et appropiasset ei
+diaconus, facturus aliquid pro officio suo, intuitus
+eum sacerdos, ingemuit, quod sensisset penes illum
+<pb n="1111C"/>
+latere quod non conveniret. Peracto sacrificio, secreto
+percunctatus de conscientia sua, confessus est, et
+non negavit illusum sibi per somnium nocte ipsa.
+Cui injungens poenitentiam:  « Non debueras, »  inquit,
+ « hodie ministrasse; sed verecunde te subtrahere
+sacris, et deferre tantis tamque divinis mysteriis,
+ut hac humilitate purgatus, dignius exinde ministrares. » 
+Item alia vice sacrificante illo, et orante hora
+sacrificii, ea quidem sanctitate et puritate cordis,
+qua solitus erat, astanti diacono visa est columba
+intrare per fenestram in claritate magna. Ea sacerdos
+perfunditur totus, ea subobscurior basilica tota
+refulget. Columba vero aliquandiu circumvolitans,
+tandem residet super crucem ante faciem sacerdotis.
+<pb n="1111D"/>
+Obstupuit <emph>687</emph> diaconus; et pavens tum pro luminis,
+tum pro volucris novitate, quod illa sit rara avis
+in terra, cecidit super faciem suam, et vix palpitans,
+sese erigere ausus est, vel quando officii sui necessitas
+postulavit. Post Missam seorsum conventus a
+Malachia, sub periculo vitae jubetur nullatenus secretum
+prodere quod vidisset, quoad viveret ipse. Aliquando
+cum in Ardmacha esset cum quodam coepiscopo
+suo, de nocte surgens, coepit memorias
+sanctorum, quae in coemeterio Sancti-Patricii multae
+sunt, orando lustrare: et ecce unum de altaribus
+subito ardere conspiciunt. Ambo enim viderunt visionem
+hanc magnam, et ambo mirati sunt. At Malachias
+intelligens signum esse magni meriti illius,
+vel illorum, quorum sub altari illo corpora requiescerent,
+<pb n="1112A"/>
+currens, et se mediis immergens flammis,
+expansis brachiis sacram amplexatus est aram.
+Quid ibi fecerit, quidve senserit, nemo qui sciat: sed
+quod amplius solito, coelesti igne succensus ex illo
+igne exierit, fratrum qui cum eo tunc erant, reor
+neminem esse qui nesciat.</p>
+          </div3>
+<div3>
+            <head>66.</head>
+            <p>
+ Haec dicta sunt, pauca quidem de pluribus,
+sed multa pro tempore. Non enim signorum tempora
+haec, secundum illud: <hi>Signa non vidimus; jam
+non est propheta <note>(Psal. LXXIII, 9)</note>
+            </hi>. Unde satis apparet,
+Malachias meus quantus in meritis fuit, qui
+tam multus in signis exstitit, et in raritate tanta.
+Quo enim antiquorum genere miraculorum Malachias
+non claruit? Si bene advertimus pauca ipsa
+quae dicta sunt, non prophetia defuit illi, non revelatio,
+<pb n="1112B"/>
+non ultio impiorum, non gratia sanitatum,
+non mutatio mentium, non denique mortuorum suscitatio.
+Per omnia benedictus Deus, qui sic amavit
+et ornavit eum: qui et magnificavit eum in conspectu
+regum, et dedit illi coronam gloriae. Amor probatur
+in meritis, ornatus in signis, magnificatio in
+ultione inimicorum, glorificatio in praemiorum retributione.
+Habes, diligens lector, in Malachia quid
+mireris, habes et quid imiteris. Nunc jam quid tibi
+ex his sperandum sit, studiosus attende. Nam finis
+horum, pretiosa mors est.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXX. <hi>Locum et diem mortis suae praedicit, et causa pallii denuo iter ad papam Eugenium suscipit.</hi> </head>
+<div3>
+            <head>67.</head>
+            <p>
+ Percunctatus aliquando, quonam in loco, si
+<pb n="1112C"/>
+optio detur, extremum malit agere diem (de hoc
+siquidem fratres quaerebant inter se, quem sibi
+quisque deligeret), cunctatur, et non respondet.
+Instantibus illis:  « Si hinc migro, »  inquit,  « nusquam
+libentius, quam unde una cum nostro Apostolo
+resurgere possim. »  Dicebat autem sanctum
+Patricium. « Si peregrinari oportet, et ita permittit
+Deus, Claram-Vallem delegi. »  Requisitus item de
+tempore, diem respondit solemnem omnium defunctorum.
+Si simplex votum putatur, impletum est;
+si prophetia, ne iota praeteriit. Sicut audivimus, sic
+vidimus de loco pariter, et de die. Dicamus breviter,
+quo ordine istud, quave occasione provenerit. Aegre
+satis ferebat, Hiberniam usque adhuc pallio caruisse,
+<pb n="1112D"/>
+utpote aemulator sacramentorum: quorum
+ne uno quolibet gentem suam vellet omnino fraudari.
+Et recordatus sibi a papa Innocentio fuisse promissum;
+inde magis tristari, quod dum adhuc ille superfuit,
+non fuit missum pro eo. Et nactus occasionem,
+quod papa Eugenius summam regiminis
+teneret, et eo temporis usque in Franciam appropiasse
+nuntiaretur, opportunitatem requirendi se
+invenisse gavisus est. Praesumebat autem de illo,
+utique viro tali, et de tali assumpto professione:
+magis vero, quod suae Clarae-Vallis specialis filius
+exstitisset, nec timeret apud illum se ullam sustinere
+difficultatem. Itaque convocantur episcopi, concilium
+cogitur; tractata triduo, quae tempori imminerent -
+die quarto aperitur consilium de pallio
+<pb n="1113A"/>
+requirendo. Placet, sed si per alium requiratur.
+Tamen quia brevior via, et ob hoc tolerabilior peregrinatio
+videretur, non fuit qui ejus obviare praesumeret
+consilio et voluntati. <emph>688</emph> Et Malachias,
+soluto concilio, arripit iter. Prosequuntur eum, qui
+convenerant fratres, usque ad littus, non multi
+tamen, ipso nimirum prohibente. Ad quem unus
+illorum, Catholicus nomine, flebili voce et vultu:
+ « Heu, tu abis, »  inquit,  « et in quanta pene quotidiana
+vexatione me deseris, non ignoras, nec fers
+opem misertus mei! Si ego dignus qui patiar, fratres
+quid peccaverunt, qui vix diem, noctemve ullam a
+tam laboriosa cura et custodia mei feriatam habere
+sinuntur? »  His verbis et lacrymis filii (flebat enim)
+paterna viscera concussa sunt, et amplexatus est
+<pb n="1113B"/>
+eum blandiendo, impressoque pectori ejus signo
+crucis:  « Certus esto, »  inquit,  « te ejusmodi nil
+passurum, donec redeam. »  Erat autem epilepticus,
+et cadebat frequenter, ita ut interdum non semel,
+sed saepius pateretur in die. Hoc jam per sex annos
+morbo horrido laborabat: sed ad verbum Malachiae
+perfecte convaluit. Ab illa hora nil tale perpessus
+est; nil tale, ut confidimus, deinceps perpessurus,
+quia Malachias deinceps rediturus non est.</p>
+          </div3>
+<div3>
+            <head>68.</head>
+            <p>
+ In ipso ascensu navis accedunt duo ex his, qui
+illi familiarius adhaerebant, audentes et petentes
+aliquid ab eo. Quibus ille:  « Quid vultis? Non dicimus, » 
+inquiunt,  « nisi spondeas te daturum. » 
+Spondet. Et illi:  « Volumus nobis certo promitti a
+<pb n="1113C"/>
+tua dignatione, te in Hiberniam incolumem reversurum. » 
+Instare et caeteri omnes. Tum ille parumper
+deliberans, poenitere primo quod se alligasset, qua
+exiret non inveniens. Augustiae undique, dum nil
+occurreret ab alterutro tutum periculo, voti videlicet,
+aut promissi. Visum est tandem id potius
+eligendum, quod in praesentiarum plus urgeret,
+reliquum supernae committendum dispositioni. Annuit
+tristis quidem; sed magis illos noluit contristare:
+et spondens eis, ut volunt, ascendit navem.
+Et cum jam fere medium iter aequoreum peregissent,
+subito contrarius ventus navem repellit, et reducit
+in terram Hiberniae. Descendens de navi, in ipso
+portu in quadam sua ecclesia pernoctavit. Et laetus,
+gratias egit divinae consilio providentiae, quo factum
+<pb n="1113D"/>
+est ut jam fecerit satis pro sua promissione. Mane
+vero intrans navem, ipsa die prospero cursu transfretavit,
+et venit in Scotiam. Die tertia pervenit ad
+locum qui Viride-Stagnum dicitur: quem fecerat
+praeparari, ut ibi statueret abbatiam. Et relicto illic
+de filiis suis, fratribus nostris, monachorum conventu
+et abbate (nam secum ad hoc ipsum eos adduxerat),
+valedicens eis, profectus est.</p>
+          </div3>
+<div3>
+            <head>69.</head>
+            <p>
+ Et cum transiret, occurrit ei rex David, a quo
+susceptus est cum gaudio, et retentus per aliquot
+dies: multaque operatus placita Deo, inchoatum
+repetit iter. Et pertransiens Scotiam, in ipso introitu
+Angliae divertit ad ecclesiam Gisiburnensem, ubi
+habitant viri religiosi, canonicam ducentes vitam,
+ab antiquo familiares ei pro sua religione et honestate.
+<pb n="1114A"/>
+Ibi adducta est ad eum mulier patiens morbum,
+quem cancrum vulgo appellant, ipso horrendum
+visu; et sanavit eam. Nam ubi aqua, cui
+benedixit, aspersa sunt ulcerum loca, dolorem non
+sensit. Die vero sequenti vix ulcera apparebant.
+Abiens inde, ad mare venit; sed negatur transitus.
+Causa, ni fallor, fuit orta simultas quaedam inter
+summum pontificem et regem Angliae, quod rex
+nescio quid mali suspicaretur de bono illo homine,
+si transiret: nam neque alios episcopos transire
+sinebat. Quod quidem impedimentum, etsi fuit contrarium
+Malachiae voluntati, sed non voto. Dolebat
+differri a desiderio suo, nesciens magis per hoc
+impletum iri. Nam si incontinenti transisset, oportebat
+transire etiam Claram-Vallem, ut summum
+<pb n="1114B"/>
+Pontificem sequeretur. Jam enim abierat, et erat
+Romae, aut prope Romam. Nunc vero intercedente
+dilatione factum est ut tardius transfretans, ad
+locum et horam sanctissimi sui obitus opportune
+occurreret.
+<emph>689</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XXXI. <hi>Rursus Claram-Vallem venit, moriturus loco et tempore quo desideraverat.</hi> </head>
+<div3>
+            <head>70.</head>
+            <p>
+ Qui a nobis susceptus est, tanquam verus, ab
+Occidente veniens, visitans nos Oriens ex alto. O
+quantum nostrae Clarae Valli irradians sol ille claritatis
+adauxit! quam jucundus ad ejus introitum
+dies festus illuxit nobis! Haec dies, quam fecit [ <hi>al.</hi> 
+<pb n="1114C"/>
+dedit] Dominus, exsultatum et laetatum in ea! Quam
+celer et saliens, tremulus licet ac debilis, mox ipse
+occurri! quam laetus in oscula rui! quam laetis brachiis
+missam mihi coelitus amplexatus sum gratiam!
+quam alacri vultu et animo, mi pater, introduxi te
+in domum matris meae, et in cubiculum genitricis
+meae! Quam festivos deinde tecum duxi dies, sed
+paucos! Quid vero ille vicissim nobis? Nempe hilarem,
+nempe affabilem peregrinus noster omnibus se
+praebebat, omnibus incredibiliter gratum. Quam
+bonum, et quam jucundum agebat hospitem apud
+eos, quos nimirum videre venerat a finibus terrae,
+non auditurus Salomonem, sed exhibiturus! Denique
+audivimus sapientiam ejus, tenuimus praesentiam
+ejus, et tenemus. Jam quatuor aut quinque dies
+<pb n="1114D"/>
+hujus nostrae solemnitatis defluxerant, cum ecce die
+solemni beati Lucae evangelistae, Missa in conventu
+sua illa sancta devotione celebrata, febre correptus,
+lecto decubuit: et nos cum illo omnes. Extrema
+gaudii nostri moeror occupat, moderatior tamen,
+quod levior interim febris esse videretur. Videres
+discurrere fratres, dandi avidos, vel accipiendi. Cui
+non dulce videre illum? cui non dulcius ministrare
+illi? Utrumque suave, utrumque salutare. Et humanitatis
+erat praebere obsequium, et profectus cuique
+sui, cum gratiam reportaret. Assistere omnes, omnes
+solliciti erant circa frequens ministerium: medicamenta
+perquirere, adhibere fomenta, urgere saepius
+ad gustandum. Ad quos ille:  « Sine causa, »  inquit
+ « haec sed charitate vestri facio quidquid injungitis. » 
+<pb n="1115A"/>
+Sciebat enim imminere tempus suae migrationis.</p>
+          </div3>
+<div3>
+            <head>71.</head>
+            <p>
+ Cumque fratres, qui cum eo venerant, fidentius
+instarent dicentes, non oportere diffidere de
+vita; nec enim signa mortis in eo aliqua apparerent:
+ « Oportet, »  inquit,  « hoc anno Malachiam exire
+de corpore. »  Et infert:  « Ecce appropinquat dies,
+quem, ut optime nostis, optavi semper ipsum fore
+diem resolutionis meae. Scio cui credidi, et certus
+sum; non fraudabor reliquo desiderii mei, qui partem
+jam teneo. Qui me sua misericordia perduxit
+ad locum quem petii, terminum quem aeque volui,
+non negabit. Quod ad hoc corpusculum attinet, hic
+requies mea: quod ad animam, Dominus providebit,
+qui salvos facit sperantes in se. Nec parum spei repositum
+<pb n="1115B"/>
+mihi in die illa, qua mortuis tanta a vivis
+beneficia impenduntur »  Nec longe aberat dies ipsa,
+cum talia loqueretur. Interea jubet se sacro oleo
+ungi. Exeunte conventu fratrum ut solemniter fieret,
+non sustinuit ut ad se ascenderent: ipse descendit
+ad eos. Jacebat siquidem in solario domus superioris.
+Ungitur, et sumpto Viatico, fratrum se orationibus,
+et fratres commendans Deo, ad lectum revertitur.
+Alto de solario descendebat pedibus suis, et rursum
+nihilominus suis pedibus ascendebat: et dicebat
+mortem esse in januis. Quis hunc hominem crederet
+moriturum? Solus ipse, et Deus id scire poterant.
+Non vultus pallidior, non macilentior videbatur;
+non rugata frons, non reconditi oculi, non nares
+extenuatae, non contracta labia, non adusti dentes,
+<pb n="1115C"/>
+non collum exesum et gracile, non curvi humeri,
+non caro exinanita in corpore reliquo. Haec erat
+gratia corporis ejus, et haec gloria vultus ejus, quae
+non evacuatur, ne in morte quidem. Talis quoad
+vixit, talis et mortuus apparebat, viventi similior.</p>
+          </div3>
+<div3>
+            <head>72.</head>
+            <p>
+ Cucurrimus usque huc: sed modo haeremus,
+quia Malachias cursum consummavit. Stat ille, et
+nos pariter <emph>690</emph> stamus cum eo. Alioquin quis
+libenter currat ad mortem? praesertim tuam, pater
+sancte, quis referre possit? quis velit audire? Attamen
+dileximus nos in vita; in morte non separabimur.
+Fratres, non relinquamus in morte, quem in
+vita prosecuti sumus. Ab ulteriori Scotia usque huc
+cucurrit ille ad mortem: eamus et nos, et moriamur
+<pb n="1115D"/>
+cum eo. Oportet, oportet dicere, quam cernere
+necesse fuit. Adest Omnium Sanctorum clara ubique
+celebritas; sed juxta veterem sententiam, <hi>Musica in
+luctu importuna narratio est <note>(Eccli. XXII, 6)</note>
+            </hi>. Adsumus,
+canimus vel inviti. Flendo cantamus, et cantando
+flemus. Malachias etsi non cantat, non plorat
+tamen: Quid enim ploret, qui appropinquat ad gaudium?
+Nobis, qui relinquimur, relinquitur luctus:
+solus Malachias festum facit. Quod enim non potest
+corpore, facit mente, sicut scriptum est: <hi>Cogitatio
+hominis confitebitur tibi, et reliquiae cogitationis diem
+festum agent tibi <note>(Psal. LXXV, 11)</note>
+            </hi>. Deficiente illi corporis
+instrumento, silente organo oris, officio vocis
+cessante, reliquum est ut mentis jubilo solemnizet.
+Quidni solemnizet sanctus, qui sanctorum ducitur
+<pb n="1116A"/>
+ad solemnitatem? Exhibet illis, quod mox sibi debebitur.
+Adhuc modicum, et ipse unus ex illis est.</p>
+          </div3>
+<div3>
+            <head>73.</head>
+            <p>
+ Sub noctis crepusculo, cum jam utcumque
+diei a nobis expleta celebritas foret, Malachias appropinquaverat,
+non crepusculo, sed aurorae. An
+non illi aurora, cui nox praecessit, dies autem appropinquavit?
+Itaque febre invalescente, coepit ex
+intimis ardens per omne corpus erumpere sudor, ut
+quodammodo transiens per ignem et aquam, educeretur
+in refrigerium. Jam desperatur de vita ejus,
+jam quisque suum judicium reprehendit, jam nulli
+dubium, Malachiae sententiam praevalere. Vocamur:
+adsumus. Et ille oculos levans in circumstantes:
+ « Desiderio desideravi, inquit, hoc pascha manducare
+apud vos. Gratias ago supernae pietati: non
+<pb n="1116B"/>
+sum fraudatus a desiderio meo. »  Vides hominem securum
+in morte, et necdum mortuum, jam certum
+de vita? Nec mirum. Videns adesse noctem quam
+exspectaverat, et in ipsa diescere sibi; quasi de
+nocte triumphans, videtur insultare tenebris, et
+quodammodo loqui:  « Jam non dicam, Forsitan
+tenebrae conculcabunt me, quia haec nox illuminatio
+mea in deliciis meis. »  Et blande nos consolans:
+ « Habete, »  inquit,  « curam mei; ego vestri, si licuerit,
+non obliviscar. Licebit autem. Credidi in
+Deum, et omnia possibilia credenti. Amavi Deum:
+amavi vos, et charitas nunquam excidit. »  Et suspiciens
+in coelum: Deus, »  inquit,  « serva eos in
+nomine tuo: non solum autem eos, sed et omnes
+qui per verbum ac ministerium meum tuo se mancipavere
+<pb n="1116C"/>
+servitio. »  Deinde imponens manus singulis,
+et benedicens omnibus, pausatum ire jubet, quia
+nondum venerat hora ejus.</p>
+          </div3>
+<div3>
+            <head>74.</head>
+            <p>
+ Imus: redimus circa medium noctis: nam ea
+hora lux lucere in tenebris nuntiatur. Impletur domus:
+adest congregatio tota: abbates quoque multi
+qui convenerant. Psalmis, et hymnis, et canticis
+spiritualibus prosequimur amicum repatriantem.
+Anno aetatis suae quinquagesimo quarto, loco et
+tempore, quo praeelegit, et praedixit Malachias episcopus
+et legatus sanctae apostolicae Sedis, velut e
+manibus nostris assumptus ab angelis, feliciter obdormivit
+in Domino. Et vere obdormivit. Vultus
+placidus placidi exitus indicium fuit. Et quidem omnium
+<pb n="1116D"/>
+oculi fixi in eum: nemo tamen, qui quando
+exivit, advertere potuisset. Mortuus vivere, et vivens
+mortuus putabatur: adeo nil intercidit, quod alterutrum
+disterminaret. Eadem vivacitas vultus, serenitas
+eadem, qualis apparere solet in dormiente. Diceres
+mortem nil horum tulisse, magis auxisse plurimum.
+Non est mutatus, sed ipse mutavit omnes.
+Mirum in modum luctus et gemitus omnium subito
+conquiescit: mutatur in gaudium moeror, planctum
+cantus excludit. Effertur, feruntur in coelum voces,
+infertur oratorio abbatum humeris. Vicit fides,
+triumphat affectus, res in suum devenit statum:
+cuncta geruntur ex ordine, cuncta ex ratione procedunt. <emph>691</emph>
+</p>
+          </div3>
+<div3>
+            <head>75.</head>
+            <p>
+ Et revera quid rationis habet immoderatius
+<pb n="1117A"/>
+plangere Malachiam, quasi non sit pretiosa
+mors ejus, quasi non sit magis somnus, quam mors;
+quasi non sit mortis portus, et porta vitae? Malachias
+amicus noster dormit, et ego lugeam? Luctus
+iste usu se, non ratione tuetur. Si Dominus dedit
+dilecto suo somnum, et talem somnum, in quo haereditas
+Domini, filii merces, fructus ventris, quid
+horum videtur fletum indicere? Egone fleam illum,
+qui fletum evasit? Ille tripudiat, ille triumphat, ille
+introductus est in gaudium Domini sui; et ego eum
+plangam? Cupio mihi haec, non illi invideo. Interim
+parantur exsequiae: offertur pro eo sacrificium; consummantur
+ex more omnia cum summa devotione.
+Stabat eminus puer, cui emortuum pendebat a latere
+brachium, magis illi impedimento, quam usui.
+Quo comperto, innui ut accederet: et apprehensam
+aridam manum applicui ad manum Episcopi, et
+<pb n="1118A"/>
+vivificavit eam. Nempe vivebat in mortuo gratia
+sanitatum: et manus ejus fuit mortuae manui, quod
+mortuo homini Elisaeus <note>(IV Reg. XIII, 21)</note>. Puer ille
+de longe venerat, et manum quam pendentem attulerat,
+sanam in patriam reportavit. Jam omnibus
+rite peractis, in ipso oratorio sanctae Dei genitricis
+Mariae, in quo sibi bene complacuit Malachias, traditur
+sepulturae, anno ab Incarnatione Domini millesimo
+centesimo quadragesimo octavo, quarto nonas
+novembris. Tuum est, Jesu bone, depositum,
+quod nobis creditum est; tuus thesaurus, qui reconditur
+penes nos. Servamus illum resignandum in
+tempore, quo reposcendum censueris: tantum ut
+absque contubernalibus suis non egrediatur, sed
+quem habuimus hospitem, habeamus ducem, tecum
+et cum ipso pariter regnaturi in saecula saeculorum.
+Amen
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,234 @@
+{
+  "id": "bernard-vita-sancti-malachiae",
+  "cover": "classic",
+  "name": {
+    "la": "Vita sancti Malachiae",
+    "en-US": "The Life of Saint Malachy",
+    "pt-BR": "Vida de São Malaquias"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Vita sancti Malachiae Hiberniae episcopi, ad Congamum abbatem scripta a Bernardo.",
+    "en-US": "Bernard’s life of his friend Malachy, archbishop of Armagh, who died at Clairvaux in 1148: Ireland’s reform, the visit to Rome and the holy death, written for Abbot Congan of Inislounaght, with Mabillon’s chapter summaries. Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "pt-BR": "A vida de seu amigo Malaquias, arcebispo de Armagh, morto em Claraval em 1148: a reforma da Irlanda, a viagem a Roma e a santa morte, escrita para o abade Congano."
+  },
+  "composed": "1148-1151",
+  "languages": [
+    "la"
+  ],
+  "work": "bernard/vita-sancti-malachiae",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/browser?path=/38/2268/6165",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 182 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), work 6165, from machine-corrected OCR.",
+      "description": "The complete text with Mabillon’s admonitio, chapter headings and summaries. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Pueritia et adolescentia S. Malachiae"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Religiosae vitae tirocinium"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Ordinibus initiatus episcopi vices gerit"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Malcho episcopo plenius instituendus adhaeret"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Sorori defunctae sacrificii oblatione succurrit"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Monasterium Benchorense desolatum instaurat"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Dysenteria laborantem curat"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Episcopatum Conneretensem, licet invitus, suscipit"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Monasterium Ibracense construit"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Fit archiepiscopus seu primas Hiberniae"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Insidias evadit incolumis, auctoribus male perditis"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Hostes seu aemulos, in ipsum armatos, virtute animi et constanti in Deum fide lenit, sibique conciliat"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Deus Malachiae detractores punit"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Sedem metropolitanam paci redditam resignat"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Romam proficisci deliberat, pallium a Pontifice petiturus"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Romam tendens, et inde rediens, Claram-Vallem visitat"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Diversa beneficia sanitatum per eum collata"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. Reversus in patriam, totus curae pastorali et reformationi incumbit"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. Virtutum ejus insignia, et mores vero praesule digni"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. Energumenos vexatos a daemoniis liberat"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. Beneficia moribundis et parturientibus praestita"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. Concubinario obstinato exitium denuntiat"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII. Varia sanitatum beneficia variis praestita"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV. Feminam sine sacramento Extremae Unctionis defunctam resuscitat"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "la": "Caput XXV. Alia diversa beneficia in diversos collata"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "la": "Caput XXVI. Veritatem corporis Christi in Eucharistia propugnat"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "la": "Caput XXVII. Pacem et concordiam inter dissidentes mirabiliter conciliat"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "la": "Caput XXVIII. Sacrum aedificium moliens, adversarium patitur, sed mox ultione divina correptum"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "la": "Caput XXIX. Claret prophetiae spiritu, et omni miraculorum gratia"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "la": "Caput XXX. Locum et diem mortis suae praedicit, et causa pallii denuo iter ad papam Eugenium suscipit"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "la": "Caput XXXI. Rursus Claram-Vallem venit, moriturus loco et tempore quo desideraverat"
+      }
+    }
+  ]
+}
