@@ -1,0 +1,150 @@
+{
+  "id": "fenelon-telemaque",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Les Aventures de Télémaque",
+    "en-US": "The Adventures of Telemachus",
+    "pt-BR": "As Aventuras de Telêmaco"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Le roman pédagogique de Fénelon, écrit pour le duc de Bourgogne (1693-1696, publié 1699) : Télémaque, guidé par Minerve sous la figure de Mentor, cherche Ulysse son père ; en dix-huit livres, une école de la vertu, de la piété et de l’art de régner. Texte de l’édition Didot de 1841.",
+    "en-US": "Fénelon’s didactic romance, written for the Duke of Burgundy (c. 1693-96, published 1699): Telemachus, guided by Minerva in the guise of Mentor, seeks his father Ulysses; in eighteen books, a school of virtue, piety and the art of ruling. Text of the Didot edition of 1841.",
+    "pt-BR": "O romance pedagógico de Fénelon, escrito para o duque de Borgonha (1693-1696, publicado em 1699): Telêmaco, guiado por Minerva sob a figura de Mentor, procura seu pai Ulisses; em dezoito livros, uma escola de virtude, de piedade e da arte de governar. Texto da edição Didot de 1841."
+  },
+  "composed": "1693–1699",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/telemaque",
+  "editions": {
+    "fr-FR": {
+      "editor": "Firmin Didot frères, Paris",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Les_Aventures_de_Télémaque",
+      "edition": "Les Aventures de Télémaque, suivies du recueil des fables, Paris, Didot, 1841 (Wikisource, validated)",
+      "description": "Proofread transcription on fr.wikisource.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "livre-01",
+      "title": {
+        "fr-FR": "Livre I"
+      }
+    },
+    {
+      "id": "livre-02",
+      "title": {
+        "fr-FR": "Livre II"
+      }
+    },
+    {
+      "id": "livre-03",
+      "title": {
+        "fr-FR": "Livre III"
+      }
+    },
+    {
+      "id": "livre-04",
+      "title": {
+        "fr-FR": "Livre IV"
+      }
+    },
+    {
+      "id": "livre-05",
+      "title": {
+        "fr-FR": "Livre V"
+      }
+    },
+    {
+      "id": "livre-06",
+      "title": {
+        "fr-FR": "Livre VI"
+      }
+    },
+    {
+      "id": "livre-07",
+      "title": {
+        "fr-FR": "Livre VII"
+      }
+    },
+    {
+      "id": "livre-08",
+      "title": {
+        "fr-FR": "Livre VIII"
+      }
+    },
+    {
+      "id": "livre-09",
+      "title": {
+        "fr-FR": "Livre IX"
+      }
+    },
+    {
+      "id": "livre-10",
+      "title": {
+        "fr-FR": "Livre X"
+      }
+    },
+    {
+      "id": "livre-11",
+      "title": {
+        "fr-FR": "Livre XI"
+      }
+    },
+    {
+      "id": "livre-12",
+      "title": {
+        "fr-FR": "Livre XII"
+      }
+    },
+    {
+      "id": "livre-13",
+      "title": {
+        "fr-FR": "Livre XIII"
+      }
+    },
+    {
+      "id": "livre-14",
+      "title": {
+        "fr-FR": "Livre XIV"
+      }
+    },
+    {
+      "id": "livre-15",
+      "title": {
+        "fr-FR": "Livre XV"
+      }
+    },
+    {
+      "id": "livre-16",
+      "title": {
+        "fr-FR": "Livre XVI"
+      }
+    },
+    {
+      "id": "livre-17",
+      "title": {
+        "fr-FR": "Livre XVII"
+      }
+    },
+    {
+      "id": "livre-18",
+      "title": {
+        "fr-FR": "Livre XVIII"
+      }
+    }
+  ]
+}
