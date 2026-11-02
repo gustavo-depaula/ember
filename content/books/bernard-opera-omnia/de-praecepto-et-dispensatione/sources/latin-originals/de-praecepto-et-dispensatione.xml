@@ -1,0 +1,2502 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De praecepto et dispensatione</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 182</title>
+           <idno>BerCla.DePrEtD</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <emph>946</emph> ADMONITIO IN OPUSCULUM IV.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Inter eos qui monasticae vitae instituta sectantur, illud fere usu venit, ut quo quisque religiosior est, eo
+minus Regulae suae obligationem meditetur quam sensum, nec tam casuistarum placita requirat, quam legislatoris
+sui voluntatem. Cum enim regulae sibi praescriptae ex animo addictus, subjectusque sit, nihil in votis
+potius habet, quam eam in omnibus sequi ducem, etiamsi nulla esset parendi necessitas. Religiosis eo modo
+comparatis non est lex posita, nec ita necessaria est sequentis libri lectio, quam aliis, quos magis afficiunt
+ac sollicitant quaestiones de Regulae obligatione, quam de vera et germana ejus sententia et praxi; neque alio
+animo doctores consulunt, quam ut Regulae onus minuere, et, quoad citra crimen fieri possit, ab ejus accurata
+seu, ut ipsis videtur, scrupulosa observatione impune recedere sibi liceat. Ejusmodi hominibus nihil magis formidandum,
+quam ut incidant in doctores male sanae voluntati obsequentes: ex quorum consiliis laxiorem viam
+sectentur, atque inde in Regulae suae neglectum, tum in ejus contemptum, ac demum in status sui odium (quae
+certae damnationis conditio est) sensim delabantur.</hi> </p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ <hi>Atqui ex omnibus, meo quidem judicio, consulere possunt neminem, qui eos et salubrius, et securius
+instruat, quam Bernardum: cum iis praeditus fuerit dotibus quae doctorem integerrimum efficiunt, pietate
+scilicet haud vulgari, doctrina coelitus infusa, et monasticarum rerum insigni peritia. Ex quo fit, ut ejus his
+de rebus sententia minime suspecta esse possit, sed omnino pia, certa, et omnibus ejusdem instituti sectatoribus
+amplectenda: adeo ut si optio nobis daretur, ut aliquis e coelo delapsus id confirmaret, nullum potius
+auctorem, quam istum auscultare velle deberemus. Nunc vero eam debemus gratiam Carnotensibus Sancti-Petri
+monachis, qui sanctissimi Patris de proposita materia sententiam et doctrinam obtinuerunt: quod qua
+occasione, quove tempore acciderit, operae pretium est investigare.</hi> </p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ <hi>Quo tempore Udo abbas isti monasterio praeerat, ejus loci monachi scripta epistola Bernardum consuluerunt,
+quaenam esset Regula sancti Benedicti, ejusque statutorum obligatio. Bernardum cunctabundum
+iteratis litteris interpellant <note>(nam binas Bernardus memorat, infra, nn. 57, 60)</note> et quidem inconsulto, ut videtur,
+abbate: quae causa fuit, ut Vir sanctus, qui eorum tandem obsecutus est voluntati, librum suum, non Gaufrido,
+quem huc perperam intrudunt vulgati indices, sed Rogerio ab anno 1131 ad annum 1158 abbati, monachisque
+Columbensibus ejusdem dioecesis et instituti, dirigeret; ut responsum suum in manus Carnotensium monachorum,
+citra conscientiam ipsorum abbatis, sicuti Regula cavet, ne perveniret. Epistolam epistolis duabus reddere
+Bernardus animo destinaverat: sed crescente materia, ex epistola factus est liber. « Proinde vos, »  inquit
+n. 60,  « si placet Librum, si placet Epistolam nominate: »  et in epistola praevia ad Columbenses,  « Liber, si
+judicatis, non Epistola censeatur. Et quia inter multas quaestiones, quae ibi a me solvuntur, id praecipue subtilius
+utiliusque pertractatur, quaenam liceat praecepta, et per quos, et quatenus dispensari; detur ei titulus, De
+Praecepto et Dispensatione, nisi vobis aliud forte congruentius videatur. »  Ex his verbis, imo ex toto libro
+intelligimus, hunc maxime monasteriorum praepositis necessarium esse, non solum ut sibi subditos instruant,
+sed ut ipsi etiam agnoscant, qualis sit penes se dispensandi auctoritas.</hi> </p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ <hi>Quae occasio Carnotenses monachos ad Bernardum consulendum impulerit, nobis incompertum. Nam
+toto Udonis abbatis regimine, quod ab anno 1128 ad annum fere 1150 productum est, nullas turbas apud eos
+excitatas invenimus. Quinimo Udonem abbatem cum suis monachis bene consensisse ex ipsius actis colligere
+licet. Ejus electionem (ut id obiter observemus) non solum magnus ille Gaufridus Carnotensium episcopus, sed
+etiam Matthaeus Albanensis cardinalis et legatus, solemni edicto comprobavit, anno 1128; et ipse Gaufridus
+episcopus, cognomento de Leugis, census ex ecclesia S. Martini de Valle suburbana, S. Petri monasterio,
+abbatiae S. Joannis in Valleia, et leprosis debitos definivit, approbante Innocentio II et Theobaldo comite,
+praesente Udone S. Petri, abbate, item, Andrea de Baldamento  « de quo in Bernardi epistolis non semel  « et
+Hugone S. Joannis de Valleia abbate, domno Bernardo Clarae-Vallensi, Gualterio Priore S. Martini de
+Valle, Gosleno de Leugis, fratre episcopi Gaufridi, et Gosleno de Leugis ejusdem nepote. Anno 1141, indict.</hi> 
+IX, <hi>epacta</hi> XX, <hi>concurrente</hi> III, <hi>decimo quinto kalendas februarii. »  Erat et alius Hugo de Leugis praepositus
+ecclesiae Carnotensis. Caeterum abbas Udo S. Petri armarii seu bibliothecae libros vetustate pene deletos, et
+plures a tineis corrosos animadvertens, ratus  « inhonestum et</hi> <emph>497</emph> <hi>indecorum »  esse,  « quod monasterium
+magnae nobilitatis haberet armarium tantae paupertatis, »  assensu capituli illud renovare aggressus est, assignando
+reditus ex singulis monasterii Obedientiis, ut armarius (sic bibliothecae praefectum vocabant) singulis annis
+haberet, unde libros renovare vetustos, aut vetustis novos superaddere valeret. Id factum confirmatumque
+anno 1145, quo tempore Bernardus sequentem librum jam composuerat.</hi> </p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ <hi>Hunc quippe Petrus Venerabilis, nuper de Hispaniis reversus, a Bernardo postulavit libri quarti epistola
+vigesima secunda, quae Bernardi epistolae ducentesimae vigesimae septimae respondet, scriptae sub annum 1143,
+ut suo loco probatum est. Petri verba huc ascribo ex fine praedictae epistolae:  « Mittite, si placet, per praesentium
+latorem, vel per alium, epistolam illam vestram, quibusdam Carnotensibus monachis, ut mihi videtur,
+missam, respondentem de Regulae praeceptis, et de diversis monastici Ordinis usibus: quam Cluniaci semel
+legi, sed nunquam postea ad relegendum habere potui. »  Hoc in opusculo Gaufridus libro tertio de Vita
+Bernardi, capite octavo,  « vigilem »  sancti Doctoris  « et circumspectam discretionem »  merito laudat; et id
+sane quivis sibi facile persuadeat, quisquis aequo animo hunc librum legerit, et cum sancti Thomae Aquinatis
+sententia contulerit.</hi> </p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ <hi>Neque enim (ut quibusdam videri possit) severior est Bernardi doctrina, sed sincera et maxime accurata:
+quam facile aliunde probare liceret, si non eam solidius fulciret dicentis auctoritas. Quatuor vero
+praecipua de corporalibus (quas vocat) sancti Benedicti Regulae observantiis tradit piissimus Pater. Primum
+est, corporales istas observantias, non graves quidem illas (quales sunt abstinentia a carnibus, silentium
+nocturnum, tam severe a sanctissimo Legislatore praescripta), sed, exempli causa,  « silentium indictum, » 
+accedente praepositi mandato, si quominus observantur,  « in peccatum reputari, non tamen
+in crimen, ita sane si per subreptionem aut oblivionem, non per contemptum, horum transgressio contigerit, » 
+n. 17; ita ut  « nec sine offensa negligi, nec contemni sine crimine vel ipsa queant: »  et,  « obnoxium
+faciant peccato, non magno tamen, si contemptus defuerit, »  ibidem: denique  « vix peccatum reputantur, » 
+n. 18 praesertim cum  « remedio poenitentiae »  sanantur. Nimirum quod hoc pacto monachus se contineat intra
+<pb n="0859"/>
+Regulae limites, quae dividitur in  « Praecepta et Remedia, »  n. 32. Secundum est, ejusmodi transgressiones contemptu
+evadere peccata mortalia. Elatio quippe contemnentis, atque impoenitentis obstinatio, in minimis
+quoque mandatis, culpam facit non minimam, et convertit in crimen grave rebellionis naevum satis levem
+simplicis transgressionis, »  n. 26. Tertium denique est, in eo differre contemptum a neglectu,  « quod neglectus
+quidam languor inertiae est: contemptus vero superbiae tumor, »  n. 18,  « voluntatis superba contentio, » 
+nolentis mandato acquiescere, n. 26. Denique  « si possumus et nolumus, superbi sumus, »  n. 31, ac per hoc
+contemptus rei. « non ergo, »  inquit n. 26,  « qualiscunque mandati praeteritio criminalem facit inobedientiam,
+sed repugnare, sed nolle obedire, »  praesertim ubi et praeceptum, et poenae remedium respuitur.</hi> <emph>498</emph>
+</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ <hi>Et haec omnino est sancti Thomae doctrina 2, 2, quaest. 86, art. 9, tum in corpore, tum in responsione
+ad primum, in qua tres sunt partes: quarum prima est de observantiis Regulae S. Benedicti; altera de
+observantiis, quarum transgressio ex condicto obligat ad reniale; tertia de statutis Ordinis fratrum Praedicatorum,
+quae ex speciali quodam constituto ad poenam tantum obligant. Prima pars sic habet:  « Ad primum ergo dicendum
+quod ille qui profitetur Regulam, non vovet servare omnia quae sunt in Regula: sed vovet regularem vitam, quae
+etiam consistit in tribus praedictis principalibus votis. Unde et in quibusdam Religionibus cautius aliqui profitentur,
+non quidem Regulam, sed vivere secundum Regulam, id est tendere ad hoc, ut aliquis mores suos informet secundum
+Regulam, sicut secundum quoddam exemplar. Et hoc totlitur per contemptum. »  Et haec est propria species
+Regulae sancti Benedicti, teste etiam Bernardo n. 10. Secunda species ita exprimitur:  « In quibusdam autem
+Religionibus adhuc cautius profitentur obedientiam secundum Regulam, ita quod professioni non contrariatur,
+nisi id quod est contra praeceptum Regulae, »  id est praeceptum proprie dictum, obligationem inducens:  « transgressio
+vero vel omissio aliorum obligat solum ad peccatum veniale: quia, sicut dictum est, hujusmodi dispositiones
+sunt ad principalia vota: peccatum autem veniale est dispositio ad mortale. »  Itaque in
+sententia sancti Thomae transgressiones minorum observantiarum sunt dispositiones ad transgressiones principalium
+votorum; ac proinde culpae veniales.</hi> </p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ <hi>At demus etiam Regulam sancti Benedicti in minoribus observantiis obligare solum ad poenam: videamus
+qua ratione sanctus Thomas hac de re sententiam suam explicet:  « In aliqua tamen religione, fratrum
+scilicet Praedicatorum, transgressio talis, vel omissio ex suo genere non obligat ad culpam, neque mortalem,
+neque venialem, sed solum ad poenam taxatam sustinendam; quia per hunc modum ad talia observanda
+obligantur, qui tamen possent venialiter, vel mortaliter peccare ex negligentia, vel libidine, vel contemptu. » 
+Ergo ex sancto Thoma etiam, in iis statutis quae ohligant ad solam poenam, incurri potest venialis culpa
+ « ex negligentia vel libidine, »  imo et mortalis  « ex contemptu. »  Uno verbo, ejusmodi erratorum
+qualitas pendet ex affectione animi, cujus negligentia vel prava dispositio nulla constitutione excusari
+potest, maxime ubi non fertur in unam quamdam observantiam, sed in totum corpus observantiae
+regularis.</hi> </p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ <hi>Ad hanc doctrinam illustrandam necessaria est responsio ad tertium, in qua contemptum ita explicat,
+ « quod tunc committit aliquis vel transgreditur ex contemptu, quando voluntas ejus renuit subjici ordinationi
+legis vel regulae »  (quae ipsissima est Bernardi doctrina), et ex hoc procedit ad faciendum contra legem vel
+regulam. Quando autem e converso propter aliquam particularem causam, puta concupiscentiam vel iram,
+inducitur ad aliquid faciendum contra statuta legis vel regulae, non peccat ex contemptu, sed ex aliqua alia
+causa, etiamsi frequenter ex eadem causa, vel alia, simile peccatum iteret. Sicut etiam Augustinus dicit in
+libro de Natura et Gratia, quod non omnia peccata committuntur ex contemptu superbiae. Frequentia tamen
+peccati dispositive inducit ad contemptum.</hi> <emph>499</emph>
+</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ <hi>Itaque secundum mentem beati Thomae, ex habitu seu consuetudine ejusmodi culparum fit progressus
+in contemptum: quia in re omnino consentire videtur cum Bernardo, qui ait n. 26, ejusmodi lapsus
+ « per contemptum verti in usum et consuetudinem; quasi contemptus gradus sit ad consuetudinem, non consuetudo
+ad contemptum. « Et tunc, »  inquit, non peccati species, »  nempe levior graviorne sit,  « sed peccantis
+intentio pensatur. »  Eamdem sententiam fusius explicat in libro de Humilitate, capitibus 20 et 21. Verum
+alter cum altero recte conciliari potest, si dixerimus, Bernardum esse intelligendum de consuetudine obfirmata,
+a qua quis recedere nolit, neque se revocando ad mandatum, neque poenam culpae subire volendo, quo
+nonnisi contemptu perveniri potest: Thomam vero explicandum de consuetudine, quae oritur ex fragilitate et
+commotione passionis, quam quis ex animo abjicere vellet, sed per infirmitatem non valet; quae nihilominus
+consuetudo ad contemptum (nisi generose tandem ei resistatur) sensim pertrahit. Verum longius progredior:
+sed tamen (ut quidem existimo) non otiose, nec intempestive. Finio cum effato Joannis Saresberiensis in epistola
+ducentesima octogesima secunda:  « Minima servata vitam acquirunt, et plerumque martyrii gloriam
+promerentur: neglecta vero ex crimine inobedientiae et contemptus aeternam ingerunt mortem. »  Caeterum
+sequentis opusculi editio Rotomagi primum facta est ante annum quingentesimum absque temporis nota,
+adjunctis libris de Consideratione, et Apologia ad Guillelmum, uti alias monuimus.</hi> 
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head> <emph>500</emph> EPISTOLA AD ABBATEM COLUMBENSEM. DE OPERE SEQUENTI.</head>
+
+<pb n="0859D"/>
+<p>Domno Abbati Columbensi, frater BERNARDUS abbas
+dictus de Clara-Valle, valere in Domino semper.</p>
+<p>Rescriptum meum ad epistolas Carnotensium quorumdam
+<pb n="0860D"/>
+monachorum, vobis primum, ut promiseram,
+destinare curavi: ubi et aliud quoque impletum
+est quod jussistis. Nam cum breviter rescribere
+decrevissem, et epistolis epistolam tantum reddere
+velle coepissem; hortatu vestro in libri, ut cernitis,
+<pb n="0861A"/>
+longitudinem protraxi stilum, ut et in pluribus plures
+possint aedificari. Quod opus cum a vobis perlectum
+fuerit, tunc non ipsis, ad quos factum est, sed
+eorum prius reddatur abbati: et sic demum ad
+ipsos, si jusserit abbas, perveniat. Monachi enim
+sunt; et ex lege suae Regulae sine nutu sui abbatis
+sicut dare, ita et accipere datas prohibentur epistolas <note>(Reg. S. Benedicti, cap. 54)</note>.
+Nam et ob hoc
+maxime diu, sicut scitis, multum licet rogatus ab
+eis, respondere tardavi, quod (ut mihi videbatur)
+ignorante abbate scribere illas epistolas et mittere
+praesumpsissent. Nec falso id suspicatus sum, uti
+postmodum liquido comperi. Ego coepto operi (quod
+quidem legentibus apparebit) Epistolae nomen indideram:
+sed quoniam pro nomine modum, vestro
+<pb n="0861B"/>
+obviante mandato, ut promiseram, non servavi;
+Liber, si judicatis, non Epistola censeatur. Et quia
+inter multas quaestiones, quae ibi a me solvuntur,
+id praecipue subtilius utiliusque pertractatur, quaenam
+liceat praecepta, et per quos, et quatenus dispensari;
+detur ei titulus, De Praecepto et Dispensatione: nisi
+vobis aliud forte congruentius videatur.
+</p>
+      </div1>
+
+<div1>
+        <head>PRAEFATIO AD MONACHOS CARNOTENSES IN TRACTATUM SEQUENTEM.</head>
+<p>Qua mente jam tacebo? qua fronte tamen loquar?
+Crebris epistolis et nuntiis cogitis me aut propriam
+prodere imperitiam, aut officium renuere charitatis.
+At ego malens sine illa quae inflat, quam absque illa
+quae aedificat, inveniri; victus tandem precibus vestris,
+<pb n="0861C"/>
+duris injicio nodis ungues teneros, et, ut vereor
+ego, non aliud quam terendos. Sed hoc incassum.
+Nam mea me, ut scribitis et praescribitis, tam
+absentis scripta quam verba praesentis arguunt excusantem.
+Quis enim jam relinquitur mihi vel de impossibilitate
+causandi locus, praesertim apud vos, qui
+ex ore et ex corde meo satis certum tenere vos
+creditis, quantum possim in talibus? Fidei proinde
+vestrae, non meo fidens ingenio, abyssum ingredior
+quaestionum; nesciens (Deus scit) qua emersurus.
+Praesto charitas erit, utinam ita et veritas. Si quominus,
+excuset effectum defectus potius ingenii:
+voluntatem certe non culpabitis. Tentabo autem
+easdem, si potero, quaestiunculas sub epistolari cunctas
+brevitate redigere, etsi non epistola brevi. Mirum
+<pb n="0861D"/>
+siquidem non est, si fuero ego longior in exponendo:
+cum vos tantum eas ponendo, duas et
+ipsas satis longas epistolas texueritis.</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>An monasticae Regulae instituta praecepta sint, an consilia duntaxat.</hi> </head>
+<div3>
+            <head>I.</head>
+            <p>
+ Prima igitur quaestio circa Regulam nostram
+versatur, de qua (ni fallor) et reliquae omnes, aut
+pene omnes oriuntur. Quaeritis nempe, Regularis
+illa institutio quomodo et quatenus sit pensanda
+profitentibus eam: utrum videlicet cuncta quae continet,
+putanda sint esse praecepta, consequenter et
+damnosa transgredienti: an consilia tantum vel
+<pb n="0862A"/>
+monita, et ob hoc nullius, aut non magni ponderis
+sit ipsorum professio; nullius, aut non gravis culpae
+ipsorum praevaricatio: an certe quaedam sint deputanda
+imperiis, quaedam pro consiliis reputanda, quo
+partim ea liceat, partim non liceat omnino praetergredi.
+Et si hoc ultimum detur, distingui a me tunc <emph>501</emph> 
+ demum certos ac propriae cujusque partis limites
+flagitatis: ne cui forte per varias sui sensus
+opiniones licentius vagandi detur occasio; sicque
+liquare culicem et camelum glutire contingat, si
+nesciat quantum curae vel operae suae quibusque debeat
+observantiis. Hic est, quantum recolo, totus
+vestrae illius partitionis sensus, etsi non verba. Quod
+autem subjungitis et pergitis inquirere de obedientia,
+quibus gradibus distinguatur, quibus claudatur
+<pb n="0862B"/>
+limitibus; ad eamdem arbitror pertinere divisionem,
+quippe quae in decretis regularibus praecipua habetur:
+et puto, cum ad illam satis responsum fuerit, de
+ista jam nil supererit quod ambigatur.</p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ Itaque, ut sentio ego, Regula sancti Benedicti
+omni homini proponitur, imponitur nulli. Prodest,
+si devote suscipitur et tenetur; non tamen, si
+non suscipitur obest. Quod autem in voluntate
+est suscipientis, non in potestate proponentis; voluntarium
+merito dixerim, non necessarium. Attamen
+hoc ipsum quod dico voluntarium, si quis ex
+propria voluntate semel admiserit et promiserit
+deinceps tenendum, profecto in necessarium sibi
+ipse convertit, nec jam liberum habet dimittere,
+quod ante tamen non suscipere liberum habuit.
+<pb n="0862C"/>
+Ideoque quod ex voluntate suscepit, ex necessitate
+[ <hi>al. add.</hi> jam] tenebit: quia omnino necesse est eum
+reddere vota sua quae distinxerunt labia sua, et ex
+ore suo aut condemnari jam, aut justificari. Caeterum
+felix, ut quidam sanctorum ait, necessitas, quae
+cogit in melius <note>(S. AUGUSTINUS, epist. 127)</note>. Omnia
+proinde sancti Benedicti instituta, exceptis sane
+nonnullis de spiritualibus, verbi causa, charitate,
+humilitate, mansuetudine, qua non tam ipsum constat
+instituisse quam Deum, et ob hoc penitus non
+esse mutanda; de caetero reliqua universa non
+profitentibus quidem monita tantum, seu consilia
+censenda sunt, nec gravant non observata: cum
+tamen profitentibus in praecepta, praevaricantibus in
+<pb n="0862D"/>
+crimina fiant, sive (ut vestra vobis reddam) illis voluntaria
+vel factitia, istis necessaria, et tanquam
+naturalia non immerito reputantur. Ita sane necessaria
+dixerim, ut ex eis minime praejudicetur necessariis
+rationabilibusque dispensationibus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II. <hi>In constitutionibus majorum quando et a quibus dispensandum.</hi> </head>
+<div3>
+            <head>3.</head>
+            <p>
+ Sed non omnibus in hujusmodi credita est dispensatio,
+nisi his duntaxat qui cum apostolis dicere
+possunt: <hi>Sic nos existimet homo ut ministros Christi,
+et dispensatores mysteriorum Dei <note>(I Cor. IV, 7)</note>
+            </hi>. Novit
+autem fidelis servus et prudens, quem constituit
+Dominus super familiam suam, ibi tantum usurpare
+<pb n="0863A"/>
+dispensationem, unde bonam possit habere recompensationem.
+Hoc quippe quaeritur inter dispensatores,
+ut fidelis quis inveniatur. Et eadem fortasse
+fidelitas a subditis nihilominus exigitur in obtemperando,
+quae a praepositis in dispensando. Constat
+igitur ex his quae dicta sunt, vestram illam divisionem
+integram esse ac sufficientem, si modo personae
+distinguantur et tempora, dum subjectis quidem sit
+omnis regularis institutio (quantum duntaxat ad
+corporales observantias pertinet) ante professionem
+voluntaria, post professionem necessaria: praelatis
+vero partim voluntaria, ut quae inventa ab homine;
+partim necessaria, ut quae fuerint divinitus instituta.</p>
+          </div3>
+<div3>
+            <head>4.</head>
+            <p>
+ Quam ob rem fortassis tunc potissimum congrua
+et luculenta magis eadem divisio apparebit, si
+<pb n="0863B"/>
+ejus membrum quod dictum est necessarium, rursus
+in tria haec subdividatur: Stabile, Inviolabile,
+Incommutabile. Et quidem Stabile dixerim, quod ita
+est necessarium, ut non cuilibet hominum illud mutare
+fas sit, nisi solis dispensatoribus mysteriorum
+Dei, id est praepositis, <emph>502</emph> ut, verbi gratia, Regulae
+sanctorum Basilii, Augustini, Benedicti, necnon
+et authentici canones, et si quae sunt alia ecclesiastica
+instituta dignae auctoritatis. Quae quoniam
+a sanctis tradita sunt, sancita stabiliter perseverant,
+nec omnino cuivis subjectorum ea aliquo modo variare
+vel mutare conceditur. Quia tamen ab hominibus,
+etiam per homines, loco et officio illis canonica
+electione succedentes, licite interdum innoxieque
+<pb n="0863C"/>
+pro causis, personis, locis et temporibus dispensantur.
+Ubi sane qui haec legit, attendat me caute non
+dicere, ea posse vel ab istis leviter pro voluntate
+mutari, sed ex ratione fideliter dispensari. Ideo autem
+hanc ipsam mutationem taliter et a talibus recipere
+possunt, quoniam non naturaliter nec per se
+bona sunt.</p>
+          </div3>
+<div3>
+            <head>5.</head>
+            <p>
+ Porro inventa atque instituta fuerunt, non quia
+aliter vivere non liceret, sed quod ita magis expediret;
+nec plane ad aliud, quam ad lucrum vel custodiam
+charitatis. Quandiu ergo charitati militant,
+immobiliter fixa sunt, mutarique omnino, ne ab
+ipsis quidem praepositis, sine offensa possunt. At si
+e contrario contraria forte aliquando charitati visa
+fuerint, his duntaxat quibus hoc posse videre datum
+<pb n="0863D"/>
+est, et providere creditum est: nonne justissimum
+esse liquet, ut quae pro charitate inventa fuerint,
+pro charitate quoque, ubi expedire videbitur, vel
+<pb n="0864A"/>
+omittantur, vel intermittantur, vel in aliud forte
+commodius demutentur? Sicut e regione iniquum
+procul dubio foret, si statuta pro sola charitate,
+contra charitatem tenerentur. Tenent ergo fixam
+firmamque immobilitatem, etiam apud praelatos,
+quae ex stabili necessario sunt: sed quatenus charitati
+deserviunt. Nunquid autem hoc ego vel solus
+sentio, vel primus dico? An non hoc ipsum et papa
+Gelasius sensit? Ait siquidem:  « Ubi necessitas
+non est, inconvertibilia maneant sanctorum Patrum
+decreta. »  Leo quoque papa:  « Ubi, »  inquit,  « necessitas
+non est, nullo modo sanctorum Patrum
+constituta violentur: »  et infert,  « Ubi ergo necessitas
+fuerit, ad utilitatem Ecclesiae, qui potestatem
+habet, ea dispenset. Ex necessitate enim fit mutatio
+<pb n="0864B"/>
+legis. » 
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III. <hi>Dispensationem in lege divina soli Deo reservatam esse. At quae sunt legis aeternae, omnino etiam Deo esse immutabilia.</hi> </head>
+<div3>
+            <head>6.</head>
+            <p>
+ Necessarium deinde, quod inviolabile nominavi,
+illud intelligo, quod non ab homine traditum, sed
+divinitus promulgatum, nisi a Deo qui tradidit,
+mutari omnino non patitur: ut, exempli causa, <hi>Non occides, Non moechaberis, Non furtum facies <note>(Exod. XX, 13-15)</note>
+            </hi>,
+et reliqua illius tabulae legiscita: 
+quae, etsi nullam prorsus humanam dispensationem
+admittunt, nec cuiquam hominum ex
+his aliquid aliquo modo solvere, aut licuit, aut
+<pb n="0864C"/>
+licebit; Dominus tamen horum quod voluit, quando
+voluit solvit, sive cum ab Hebraeis Aegypties spoliari <note>(Exod. III, 22)</note>,
+sive quando prophetam cum muliere
+fornicaria misceri praecepit <note>(Ose. I, 2)</note>. Quorum
+utique alterum quid nisi grave furti facinus, alterum
+quid nisi flagitii turpitudo reputaretur, si non excusasset
+utrumque factum auctoritas imperantis? Sane
+ubi simile aliquid aliquando a sanctis hominibus
+fuisse legitur usurpatum, Scriptura non indicante
+quod Deus ita praeceperit; aut eos peccasse fatendum
+est, sicut homines; aut certe, sicut prophetas,
+familiare Dei consilium accepisse. Unde et unum
+exemplum pono quod occurrit de Samsone, qui se
+ipsum una cum hostibus opprimens interfecit <note>(Judic.
+XVI, 30)</note>. Quod utique factum si defenditur non fuisse
+<pb n="0864D"/>
+peccatum, privatum habuisse consilium indubitanter
+credendus est, etsi de Scriptura hoc non habemus
+.
+<pb n="0865A"/>
+</p>
+          </div3>
+<div3>
+            <head>7. </head>
+            <p>
+Jam vero necessarium Incommutabile quid
+accipi <emph>503</emph> velim? Equidem nil congruentius, quam
+quod divina ita constat et aeterna ratione firmatum,
+ut nulla ex causa possit, vel ab ipso Deo, aliquatenus
+immutari. Sub hoc genere est omnis illa Sermonis
+dominici in monte habiti spiritualis traditio,
+et quidquid de dilectione, humilitate, mansuetudine,
+caeterisque virtutibus, tam in Novo, quam in Veteri
+Testamento spiritualiter observandum contraditur.
+Haec quippe talia sunt, quae nec liceat, nec expediat
+aliquando non haberi. Eo siquidem immobiliter, quo
+et naturaliter bona, nunquam nisi innocenter, nunquam
+nisi salubriter aut imperantur, aut observantur.
+Omni tempore, omni personae, mortem contempta,
+custodita salutem operantur. Primam ergo
+<pb n="0865B"/>
+necessitatem sua cuique facit in promittendo voluntas;
+secundam, praecipientis auctoritas; tertiam,
+praecepti dignitas.</p>
+          </div3>
+<div3>
+            <head>8.</head>
+            <p>
+ Differunt autem, ut jam dictum est, quibusdam
+a se invicem gradibus tres istae necessitates, nec una
+omnes sequitur immutabilitatis firmitas. Nam ex
+prima quidem quod efficitur, etsi non penitus immutabile,
+tamen vix mutabile esse constat: dum solis
+illud liceat mutare praelatis, et hoc nonnisi fideli et
+provida dispensatione. Quod vero fit ex sequenti,
+quae et major ista, est pene jam incommutabile. Soli
+quippe Deo esse mutabile superius demonstratum
+est. Porro quod de novissima fit, tanquam omnium
+maxima, omnino incommutabile est, utpote quod
+ne ipsi quidem Deo mutare liberum est. Quod igitur
+<pb n="0865C"/>
+nulli hominum fas est, nisi solis mutare praelatis,
+dici vix mutabile congrue potest: quod soli constat
+licere Deo, dicatur pene immutabile: quod ne ipsi
+quidem, penitus immutabile nominetur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Quid praelatis circa dispensationem Regulae liceat.</hi> </head>
+<div3>
+            <head>9.</head>
+            <p>
+ Quae cum ita sint, ut ad ea redeam, de quibus
+potissimum quaeritur patet quod magna ex parte
+regularis traditio subest ejus qui praeest, etsi non
+voluntati, certe discretioni. Sed dicitis: Quid ergo
+relinquitur necessitati? Audite: quamplurimum.
+Primo quidem quidquid de spiritualibus in ipsa Regula
+traditum est, in manu abbatis (ut supra taxatum
+est) nequaquam relinquitur. Deinde reliqua pars,
+<pb n="0865D"/>
+quae in corporalibus constat observantiis, ne ipsa
+quidem in ejus ita voluntate posita est, ut ejusdem
+deserviat voluntati, sed magis charitati. Neque
+enim abbas supra Regulam est, cui semel et ipse
+spontanea se professione submisit, etsi (quod negandum
+<pb n="0866A"/>
+non est) Dei regula charitas Regulae sancti Benedicti
+jure praeponitur. Esto proinde ut interdum
+Regulae littera cedat pro tempore charitati, cum ratio
+necessitatis exegerit: absit tamen ut hominis
+cujuspiam subdatur voluntati. Super fratrum sane
+transgressiones, non super Patrum traditiones constituitur
+qui abbas eligitur, mandatorum cultor, et
+ultor vitiorum. Arbitror namque sanctas illas observantias
+praelatorum prudentiae et fidei creditas, non
+subditas voluntati. Hinc est quod idem legislator in
+his quae abbati dispensanda reliquit, caute nusquam
+(ut memini) voluntatem, sed aut considerationem,
+aut dispositionem, aut providentiam, <emph>504</emph> aut certe
+arbitrium, seu aliquid hujusmodi ponit: volens nimirum
+providum fidumque dispensatorem, rationis,
+<pb n="0866B"/>
+ubi forte dispensat, sequi judicium, non suae placitum
+voluntatis. Unde et intimat ei non semel, quod
+de omnibus judiciis suis Deo redditurus sit rationem.</p>
+          </div3>
+<div3>
+            <head>10.</head>
+            <p>
+ Lego profecto in Regula:  « Haec consideratio
+penes abbatem sit; »  et hoc vel illud esse in providentia,
+vel arbitrio, seu dispositione abbatis <note>(S.
+Benedicti Reg. cap. 3)</note>. Ut autem pro sua voluntate
+aliquid mutet, me ibi legisse non recolo: quinimo,
+ « In omnibus, »  inquit,  « omnes magistram sequantur
+Regulam, nec ab ea temere devietur a quoquam. » 
+Ergo nec ab ipso abbate. « Omnes, »  inquit,  « magistram
+sequantur Regulam. »  Nemo ergo suam voluntatem:
+ubi sane nec abbatem excipi puto. Videtis
+quantum necessitati tribuitur, subtrahitur voluntati?
+Quid etiam? Nonne regularis ipsa professio, qua se
+<pb n="0866C"/>
+junior subdit sponte Priori, aeque alligat et Priorem?
+Communis equidem pacti pari reor utrumque
+necessitate teneri, fierique duos per unius sponsionem
+ad alterutrum debitores: fidelis curae unum,
+alterum humilis obedientiae. Quidnam igitur jam voluntati
+relinquitur, ubi et praelatus debiti necessitate
+tenetur? Sed et de hoc item non parum praelati praescribitur
+voluntati, quod is qui profitetur, spondet
+quidem obedientiam, non tamen omnimodam, sed
+determinate secundum Regulam; nec aliam, quam
+sancti Benedicti: ut oporteat eum qui praeest, non
+frena suae laxare voluntati super subditos, sed praefixam
+ex Regula sibi scire mensuram; et sic sua
+demum imperia moderari circa id solum, quod rectum
+esse constiterit; nec quodlibet rectum, sed hoc
+<pb n="0866D"/>
+tantum quod praedictus Pater instituit, aut certe
+quod sit secundum quod instituit. Sic se quippe
+habet professio:  « Promitto, »  non quidem Regulam,
+sed,  « obedientiam secundum Regulam sancti Benedicti.
+<pb n="0867A"/>
+ « Non ergo secundum voluntatem praepositi.
+Proinde si professo secundum illam Regulam abbas
+meus mihi aliud forte imponere tentaverit quod non
+sit secundum Regulam, aut etiam quod non sit secundum
+ista instituta, verbi causa, Basilii, Augustini,
+Pachomii: quaenam mihi, quaeso, in hac re
+necessitas imminet obsequendi? Solum quippe id a
+me posse exigi arbitror, quod promisi.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V. <hi>Legem obedientiae non esse extendendam a praelatis ultra limites professionis, neque citra contrahendam.</hi> </head>
+<div3>
+            <head>11.</head>
+            <p>
+ Videtis ergo jam obedientiae limites, quos requiritis.
+Si modus est obeditionis tenor professionis?
+nec se valeat extendere potestas imperantis, nisi
+quatenus attigerit votum profitentis: profecto circa,
+<pb n="0867B"/>
+et ultra, nec non etiam contra, quid aliud quam
+obedientiae limites quosdam censuerim, et his suis
+terminis virtutem eamdem circumcludi? Quamobrem
+quisque professus in quovis genere salutiferae vitae,
+nec ultra obedientiae lege cogendus, nec citra
+est inhibendus, quam sua ipsius videtur complecti
+professio. Quanto minus contra? Is ergo qui medius
+est vitae modus, praefixus voto, professione firmatus,
+tanquam lignum quod erat in medio paradisi,
+solus <emph>505</emph> sine dubio legi erit subjectus, obnoxius
+jussioni. Ergo praelati jussio vel prohibitio non praetereat
+terminos professionis. Nec ultra extendi potest,
+nec contrahi citra. Nil me praelatus prohibeat
+horum quae promisi, nec plus exigat quam promisi.
+<pb n="0867C"/>
+Vota mea nec augeat sine mea voluntate, nec minuat
+sine certa necessitate. Necessitas quippe non
+habet legem, et ob hoc excusat dispensationem.
+Voluntas vero, quia sola meretur retributionem,
+etiam sola non immerito gradum altiorem usurpat.
+Alioquin et absque necessitate remissio voti, non
+dispensatio, sed praevaricatio est: et restrictio contra
+voluntatem, murmur est, non profectus. Ponant
+ergo praepositi metam obedientiae subjectorum ex
+votis labiorum ipsorum, non suorum desideriorum:
+monentes eos, non cogentes ad celsiora; condescendentes
+eis, cum necesse fuerit, ad remissiora;
+non cadentes cum eis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI. <hi>Religiosum perfectionis cupidum non debere obedientiam intra certos professionis limites constringere.</hi> </head>
+<div3>
+            <head>12.</head>
+            <p>
+ Caeterum subjectus hujuscemodi obedientiam,
+<pb n="0868A"/>quae voti finibus cohibetur, noverit imperfectam.
+Nam perfecta obedientia legem nescit, terminis non
+arctatur: neque contenta angustiis professionis,
+largiori voluntate fertur in latitudinem charitatis,
+et ad omne quod injungitur spontanea, vigore liberalis
+alacrisque animi, modum non considerans, in
+infinitam libertatem extenditur. Haec est illa de qua
+signanter apostolus Petrus: <hi>Castificantes,</hi> inquit, <hi>corda vestra in obedientia charitatis 
+ <note>(I Petr. I, 22)</note>
+            </hi>:
+pulchre ipsam per hoc sequestrans ab illa inerti et
+servili quodammodo obedientia, nec charitati prompta,
+<pb n="0868B"/>
+sed obnoxia necessitati. Haec justi illius, cui
+lex posita non est <note>(I Tim. I, 9)</note>, propria est: non
+quod vel ille perfectus vivere debeat sine lege, sed
+quia non sit sub lege; minime quippe contentus
+voto suae cujuscunque professionis, quam superat
+animi devotione. Quanquam nec ista Regula
+ipsa tacuerit, ubi monet, si fratri impossibilia injunguntur,
+ « ut confidens de adjutorio Dei, obediat
+ « ex charitate <note>(Reg. S. Benedicti, cap. 68)</note>. »  In eadem
+denique Regula tertius humilitatis describitur
+gradus,  « ut omni obedientia monachus se subdat
+ « majori! »  <note>(Ibid. cap. 7.)</note> Dicens quippe  « omni, » 
+non vult nos in obediendo mensura esse contentos
+professionis, non attendere promissi debitum, non
+de pacto sumere modum; sed transire alacriter
+<pb n="0868C"/>
+etiam votum, et obedire in omnibus. Est sane quidam
+obedientiae limes, secundum tempus, ipsa temporis
+extremitas, ut is sit terminus obedientiae, qui
+et vitae. Hunc nobis maxime Unigeniti Dei commendat
+exemplum, qui factus est Patri obediens usque
+ad mortem. Haec ergo quoties interrumpitur, inobedientia
+dicitur, et peccatum, et transgressio seu
+praevaricatio.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Obedientiae gradus, et inobedientiae gravitas quomodo noscenda, juxta distinctiones praemissas.</hi> </head>
+<div3>
+            <head>13.</head>
+            <p>
+ Sed interest sane qua causa, quo affectu, qua
+<pb n="0869A"/>
+intentione, quo praecipiente, in quove praecepto malum
+hoc committatur. Et quidem nullam prorsus
+inobedientiam dico parvi ducendam, non tamen
+omnem pari aestimandam periculo. Enimvero mandatum
+Dei est: <hi>Non occides <note>(Exod. XX, 13)</note>
+            </hi>. Fac ergo
+duos homicidas, et unum quidem spoliandi cupiditate,
+alterum vero necessitate sese defendendi facinus
+perpetrasse. An non hic satis evidenter
+inter lepram et lepram causa separat, faciens utique
+disparem valde culpam unius ejusdemque transgressionis?
+Quid vero si hunc subita ira, illum studiosa
+malitia, aut vetus odium forte ad idem scelus
+impulerit? numquidnam simili pensandum erit judicio,
+quod tam dissimili factum <emph>506</emph> constabit
+affectu? Nil deinde incestius obsceniusve, quam
+<pb n="0869B"/>
+illas filias Lot paternum usurpasse concubitum <note>(Gen.
+XIX, 32-36)</note>: et tamen quis non videat, quantum
+evacuarit aut attenuaverit turpis nefandique reatum
+flagitii pietas intentionis, et intentio pietatis? Jam
+vero de illo qui praecipit, et item de eo quod praecipitur,
+hujuscemodi avertenda erit secundum rationem
+distinctio, ut cujus inter praeceptores reverentior
+nobis imminebit auctoritas, ejus gravior formidetur
+offensio, ac majoris cujusque mandati transgressio,
+damnabilior aestimetur. Melius siquidem
+est obedire Deo, quam hominibus; et in ipsis melius
+magistris, quam condiscipulis; porro in magistris,
+melius nostris, quam extraneis. Quibus autem melius
+constat obedire, ipsis procul dubio et non obedire
+detestabilius est.
+<pb n="0869C"/>
+</p>
+          </div3>
+<div3>
+            <head>14. </head>
+            <p>
+Et de mandatis similiter. Majoribus quippe
+major, minoribus minor opera nostra et cura debetur:
+de quorum etiam contemptu, juxta eamdem
+considerationem, gravior leviorve offensa contrahitur.
+Porro majora minoraque mandata dixerim, secundum
+quod magis minusve velle constiterit ipsum
+qui praecipit, sive hominem, sive Deum. Est, verbi
+gratia, mandatum, <hi>Non furaberis <note>(Exod. XX, 15)</note>
+            </hi>; et
+est mandatum, <hi>Omni petenti te da <note>(Luc. VI, 30)</note>
+            </hi>.
+Utrumque quidem magnum, quoniam utrumque
+divinum: sed de non furando, majus. Quis enim
+nesciat aequissimo Deo non aeque displicere tenaces,
+atque fures; et quia de duobus malis plus velit nos
+tenere nostra, quam tollere aliena; et ita minus
+<pb n="0869D"/>
+peccare qui non tribuit sua, quam qui non sua furatur?</p>
+          </div3>
+<div3>
+            <head>15.</head>
+            <p>
+ Sed et in mandatis hominum rara aequalitas
+invenitur, cum, pro variis necessitatibus vel utilitatibus
+agendorum, injungentium affectio varietur;
+quodque putaverint rectius vel commodius, hoc
+amplius cupiant et exigant observari. Tam ergo
+qualitas praeceptorum, quam auctoritas praecipientium,
+et obedientiae praefigit metam, et inobedientiae
+terminat culpam: quando (ut dictum est) in praelatis
+quibusve gravioris auctoritatis, et eorum mandatis
+quibusque majoris utilitatis, quo diligentior debetur
+<pb n="0870A"/>
+obsequendi cura, eo et culpa gravior incurritur de
+contemptu.</p>
+          </div3>
+<div3>
+            <head>16.</head>
+            <p>
+ His itaque distinctionibus animadversis, et
+obedientiae modus, et pondus inobedientiae facile
+reperitur. His gradibus non solum inter diem et
+noctem, hoc est obedientiae bonum et inobedientiae
+malum, discernitur; sed etiam inter diem et diem;
+itemque inter noctem et noctem: inter bonum
+videlicet et melius, inter malum et pejus. Bonus
+quidem obedientiae gradus est, si juxta magistri
+nostri sententiam, propter metum gehennae, seu
+propter professionem sanctam, quam professus
+est, quispiam obedierit <note>(S. Benedicti Reg. cap. 5)</note>:
+melior tamen cum ex Dei amore obeditur. Illa
+quippe obedientia necessitatis est, ista charitatis.
+<pb n="0870B"/>
+Illum autem optimum dixerim obedientiae gradum,
+cum eo animo injunctum opus recipitur, quo et
+praecipitur. Cum enim ex voluntate jubentis pendet
+intentio exsequentis, fit ut nec majus minoribus,
+nec minus majoribus confuse (ut assolet) ad implendum
+quod injungitur, subjecti studium impendatur;
+sed moderante animo quaeque pro sua dignitate imperia,
+modum sciat utrobique servare, tam in observando
+videlicet jussa, quam in cavendo prohibita:
+non quod vel minimum horum quae jubentur,
+contemnendum putet, etsi tamen minimum quod
+minimum est, reputet; sed minimum ex comparatione
+majorum. Novit verus humilisque obediens et
+minima non contemnere, et maxime curare quae maxima
+sunt, intimo quodam devoti sincerique animi
+<pb n="0870C"/>
+sapore discernens, quibus de mandatis ei qui praeest,
+suis quodammodo factis respondeat cum propheta: <hi>Tu mandasti mandata tua custodiri nimis 
+ <note>(Psal.
+CXVIII, 4)</note>
+            </hi>. Ubi, quia non dicit universaliter omnia,
+illa tantum oportet intelligi, <emph>507</emph> quae quoniam
+non sine grandi culpa quacunque occasione violantur,
+ideo non sine grandi poena quomodocunque
+violata donantur; ut puta, <hi>Non occides,</hi> et si qua
+hujusmodi sunt: quorum nunquam potest esse observatio
+injusta vel mala; nunquam bona licitave
+transgressio dispensatione duntaxat humana.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>Gravius peccari legum contemptu, quam neglectu</hi> </head>
+<div3>
+            <head>17.</head>
+            <p>
+ Caetera, quae vel a praepositis dispensationem
+<pb n="0870D"/>
+admittunt, quia leviori censura neglecta puniuntur,
+leviora dicuntur. Ex his, verbi gratia, dico esse
+vel risum interdictum, vel indictum silentium. Haec
+siquidem si contra mandatum non veniunt, nec
+peccata sunt. Accedente mandato, si quominus jam
+observantur, in peccatum reputantur, non tamen in
+crimen; ita sane, si per subreptionem aut oblivionem,
+non autem per contemptum horum trangressio
+contigerit. Media quippe sunt, e quibus illa videlicet
+praecepta constituuntur, quae vos factitia nominatis,
+longe utique disparem a naturalibus, quantum
+in ipsis est, gerentia necessitatem: cum tamen
+<pb n="0871A"/>
+nec sine offensa negligi, nec contemni sine crimine
+vel ipsa queant, injuncta ab his duntaxat quibus
+proprie dicitur: <hi>Qui vos audit, me audit; et qui
+vos spernit, me spernit <note>(Luc. X, 16)</note>
+            </hi>. Licet namque
+ipsa per se injuncti operis qualitas innoxia sit;
+adjunctae tamen auctoritatis pondus obnoxium mandato,
+mandatumque peccato obnoxium facit, non
+magno tamen, si contemptus defuerit.</p>
+          </div3>
+<div3>
+            <head>18.</head>
+            <p>
+ Haec ergo generalis regula sit universorum,
+quae per se, aut propter se nec bona, nec mala sunt,
+aut divina institutione, aut propria cujusque professione
+fixa non sunt; ut non jussa quidem, licite
+utrumlibet vel admittantur, vel omittantur: jussa
+vero, sine culpa non negligantur, sine crimine non
+contemnantur. Ubique enim et culpabilis neglectus,
+<pb n="0871B"/>
+et contemptus damnabilis est. Differunt autem, quod
+neglectus quidem [ <hi>fort.</hi> quidam] languor inertiae est,
+contemptus vero superbiae tumor. Porro contemptus
+in omni specie mandatorum pari pondere gravis,
+et communiter damnabilis est: neglectus autem in
+fixis gravior, tolerabilior in mobilibus mandatis.
+Siquidem adulterium quocunque modo, quocunque
+perpetres animo, turpe flagitium est ac criminale
+peccatum: cum tamen leve verbum, in tempore vel
+loco silentii forte per oblivionem subreptum, risusve
+per impetum magis excussus, quam praesumptus
+contra praeceptum (quod utique animi negligentis,
+aut dissoluti spiritus indicium est), eo facillime veniam
+promereatur, quo vix vel peccatum reputatur.
+Quid, quod scienter et ex deliberatione in verba
+<pb n="0871C"/>
+otiosa, silentio licet non indicto, lingua laxatur?
+nunquid hoc tamen neget quispiam usurpari contra
+regulam Veritatis? unde nimirum et ratio exigenda
+est in futuro judicio, Judice ipso terrifice admodum
+comminante, quia de omni verbo otioso reddent
+homines rationem in die judicii <note>(Matth. XII, 36)</note>. Heu
+nobis! quaenam poterit reddi ratio de otio? Alioquin
+otium non est, si non omnino ratione vacuum est.
+Et tamen quis nesciat unum detractionis verbum,
+quantum etiam innumeris talibus, id est otiosis,
+praeponderet ad delictum meritumque damnationis?
+Quid ita? Videlicet quia discretio est in mandatis,
+consequenter et in culpis: ut (sicut dixeram) majorum
+gravior, leviorque minorum censeatur transgressio
+<pb n="0871D"/>
+mandatorum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX. <hi>Praelato tanquam Deo obediendum esse.</hi> </head>
+<div3>
+            <head>19.</head>
+            <p>
+ Sed mandantium non ita. Sive enim Deus,
+sive homo vicarius Dei, mandatum quodcunque tradiderit;
+pari profecto obsequendum est cura, pari
+reverentia deferendum, ubi tamen Deo contraria
+non <emph>508</emph> praecipit homo. Quod si contigerit,
+pergendum indubitanter consulo in Petri apostoli
+sententiam: quia <hi>obedire oportet Deo magis quam
+hominibus <note>(Act. V, 29)</note>
+            </hi>. Aut enim hoc respondendum
+cum apostolis, aut cum Pharisaeis certe audiendum: <hi>Quare et vos transgredimini mandatum Dei
+<pb n="0872A"/>
+propter traditiones vestras? 
+ <note>(Matth. XV, 3.)</note>
+            </hi> Si autem
+dolet se contemni magister homo prae illo, qui docet
+hominem scientiam; consoletur illa, quam et
+vos posuistis, Samuelis sententia, qua inter lepram
+et lepram videtur discernere sic: <hi>Si peccaverit vir
+in virum, propitius ei poterit esse Deus; si autem in
+Deum peccaverit, quis orabit pro eo? <note>(I Reg. II, 25.)</note>
+            </hi> 
+Ego igitur si me hoc angi articulo sentiam, ut aut
+Deum, aut hominem offendere necesse sit; Deum
+potius libenter eligo non offendere, et quidem tutius
+justiusque. Habeo nempe ex praesenti prophetae
+capitulo de hominis laesione meam consolationem,
+Dei scilicet propitiationem. Caeterum Deo offenso,
+quis orabit pro me? si ad hominem confugero, id
+quidem Scriptura non consulit; quinimo: <hi>Maledictus,</hi> 
+<pb n="0872B"/>
+ait, <hi>qui spem ponit in homine <note>(Jerem. XVII, 5)</note>
+            </hi>.
+Merito proinde. Si autem in Deum peccaverit,
+etiamsi subintelligatur Propter hominem, <hi>quis,</hi> inquit, <hi>orabit, pro eo?</hi> 
+ Neuter equidem. Nam et a
+quo offenditur, et ob quem offenditur, aeque utriusque
+oratio exsecranda decernitur apud ipsum qui
+offenditur, hoc est apud Deum. Talis ergo requirendus
+est ad orandum, qui sit idoneus ad placandum.
+Porro culpam, si qua est, quod homo offenditur cum
+ei non obeditur, aut multum extenuat, aut penitus
+annullat causa melior. Quapropter, cum dicitur: <hi>Si peccaverit vir in virum,</hi> 
+ subaudiendum est, propter
+Deum: quod nullatenus laesio cujuscunque
+proximi, nedum praelati, excusetur a culpa, si solus
+defuerit in causa Deus. Alioquin Paulo contradicit,
+<pb n="0872C"/>
+qui ait: <hi>Sic enim in fratrem peccantes, in Christum
+peccatis <note>(I Cor. VIII, 12)</note>
+            </hi>. Nam de praepositis certum
+tenemus ipsius Veritatis testimonium, sic loquentis
+ad ipsos: <hi>Qui vos spernit, me spernit <note>(Luc. X, 16)</note>
+            </hi>.
+Sed et de quolibet fratre: <hi>Nolite,</hi> ait, <hi>contemnere
+unum ex his pusillis;</hi> et: <hi>Qui scandalizaverit unum
+ex his pusillis <note>(Matth. XVIII, 10, 6)</note>
+            </hi>, quod sequitur,
+avertat Deus a nobis.</p>
+          </div3>
+<div3>
+            <head>20.</head>
+            <p>
+ Sed non omnium scandala aequa sunt lance
+pensanda. Aliter namque accipienda sunt scandala
+pusillorum, aliter Pharisaeorum, de quibus apostolis
+timentibus et intimantibus quod scandalizati
+essent in sermone veritatis responsum est: <hi>Sinite
+illos; caeci sunt, et duces caecorum <note>(Matth. XV, 14)</note>
+            </hi>.
+<pb n="0872D"/>
+Illorum quippe scandalum de ignorantia, istorum de
+malitia descendit. Illi scandalizantur, quia veritatem
+nesciunt; isti, quia oderunt. Unde et pusillos illos
+arbitror appellari, quod voluntatis quidem bonae, sed
+non magnae scientiae existentes, zelum Dei habeant,
+sed non secundum scientiam. Talium scandala curam,
+non iram provocare solent spiritualium duntaxat
+virorum, Paulo ita docente: <hi>Vos qui spirituales
+estis, hujusmodi instruite in spiritu lenitatis <note>(Galat.
+VI, 1)</note>
+            </hi>. Indignum siquidem est valde, humanam eos
+mereri indignationem, qui divinam tam facile consequuntur
+miserationem. Nam hi quoque qui Dominum
+crucifixerunt, magni quidem peccatores, sed
+<pb n="0873A"/>
+pusilli aestimatores, etsi ex uno iram, nunquid non
+tamen ex altero veniam meruerunt? Beati quidem
+fuissent, si juxta verbum Domini in ipso scandalizati
+non essent <note>(Matth. XI, 6)</note>. Nunc vero quid nisi miseri?
+Sed tamen et miserandi. Probat hoc pia illa
+in cruce patientis, sed nihilominus compatientis
+supplicatio: <hi>Pater,</hi> inquit, <hi>ignosce illis.</hi> Et quasi
+quaereretur indulgentiae ratio in tam horrendo facinore,
+sequitur: <hi>Quia nesciunt quid faciunt <note>(Luc.
+XXIII, 34)</note>
+            </hi>. Ac si diceret: Eo digni venia, quo et
+pusilli scientia sunt. Ideo ignosco illis, quia non
+agnoscor ab illis. <hi>Si enim cognovissent, nunquam
+Dominum gloriae crucifixissent <note>(I Cor. II, 8)</note>
+            </hi>. Sunt
+quibus non ita ignosco, quos utique non ignoro et
+vidisse, et odisse et me, et Patrem meum. Pro hujusmodi
+<pb n="0873B"/>
+pusillo in scientia terrens Paulus eum, qui
+cum habeat scientiam, nescit tamen condescendere
+infirmioribus: <hi>Et peribit,</hi> inquit, <hi>in tua scientia
+frater, pro quo Christus mortuus est <note>(I Cor. VIII, 11)</note>
+            </hi>. <emph>509</emph>
+</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Quod si tantopere cavenda sunt scandala
+parvulorum, quanto amplius praelatorum? quos
+sibi Deus aequare quodammodo in utraque parte
+dignatus, sibimet imputat illorum et reverentiam,
+et contemptum, specialiter contestans eis: <hi>Qui vos
+audit, me audit; et qui vos spernit, me spernit.</hi> Annon
+denique hoc ipsum et Regula nostra perhibet,
+ubi ait:  « Obedientia quae majoribus praebetur, Deo
+exhibetur? »  <note>(S. Benedicti. Reg. cap. 5.)</note> Quamobrem
+quidquid vice Dei praecipit homo, quod non sit tamen
+certum displicere Deo; haud secus omnino
+<pb n="0873C"/>
+accipiendum est, quam si praecipiat Deus. Quid
+enim interest, utrum per se, an per suos ministros,
+sive homines, sive Angelos, hominibus innotescat
+suum placitum Deus? Sed homines, inquis, facile
+falli in Dei voluntate de rebus dubiis percipienda,
+et in praecipienda fallere possunt. Sed enim quid
+hoc refert tua, cui conscius non es? praesertim cum
+teneas de Scripturis, quia <hi>Labia sacerdotis custodiunt
+scientiam, et legem ex ore ejus requirunt: quia angelus
+Domini exercituum est <note>(Malach. II, 7)</note>
+            </hi>. Requirunt,
+dixerim, legem, non quam vel authentica ulla
+Scriptura tradiderit, vel ratio manifesta probaverit
+(de hujusmodi quippe nec praeceptor exspectandus,
+nec prohibitor auscultandus est); sed quod ita latere
+<pb n="0873D"/>
+aut obscurum esse cognoscitur, ut in dubium venire
+possit, utrumnam Deus sic, an aliter forte velit, si
+non de labiis custodientibus scientiam, et ex ore
+angeli Domini exercituum certum reddatur. A quo
+denique divina potius consilia requirentur, quam ab
+illo cui credita est dispensatio mysteriorum Dei?
+Ipsum proinde quem pro Deo habemus, tanquam
+Deum in his quae aperte non sunt contra Deum,
+audire debemus.</p>
+          </div3>
+<div3>
+            <head>22.</head>
+            <p>
+ Nec sane contraria loquimur sancto prophetae
+Samueli, quasi nos in hac parte divinam hominibus
+tribuentes auctoritatem: cum ille in supra memorato
+capitulo plane discernere inter utrumque videatur.
+<pb n="0874A"/>
+Siquidem quod nos asserimus de dubiis, hoc
+ille negat de manifestis: ut cum ait, <hi>si peccaverit vir
+in virum,</hi> subaudiatur, Propter Deum; cui aperte
+contraria homines hominibus frequenter mandare
+praesumunt. Sed hinc vos sumentes materiam sive
+occasionem argumentandi, asseritis, si hoc constiterit,
+ut jussa hominum qualibet, vel instituta, divinae
+auctoritatis pondere aestimanda sint; hominem
+sub homine, aut vix, aut nequaquam posse salvari,
+cum in tanto populo mandatorum, quae praelati
+etiam per incuriam saepe praecipiunt, interdum non
+praevaricari, aut difficile admodum, aut omnino impossibile
+videatur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X. <hi>Obedientiam non esse gravem et molestam, nisi imperfectis, invitis, et carnalibus; caeteris suavem et facilem.</hi> </head>
+<div3>
+            <head>23.</head>
+            <p>
+ Et quidem non nego difficultatem tantae inesse
+<pb n="0874B"/>perfectioni: sed cum ipsa corde imperfecto
+praesumitur. Porro imperfecti cordis, et infirmae
+prorsus voluntatis indicium est, statuta seniorum
+studiosius discutere, haerere ad singula quae injunguntur,
+exigere de quibusque rationem, et male suspicari
+de omni praecepto, cujus causa latuerit; nec
+unquam libenter obedire, nisi cum audire contigerit
+quod forte libuerit, aut quod non aliter licere seu
+expedire monstraverit vel aperta ratio, vel indubitata
+auctoritas. Delicata satis, imo nimis molesta
+est hujuscemodi obedientia. Non plane haec illa est
+quae ex Regula traditur,  « Obedientia sine mora. » 
+<pb n="0874C"/> <note>(Reg. S. Benedicti, cap. 5.)</note> 
+ Disputare profecto hoc
+est in astu cordis, non in auditu auris obedire.
+Istiusmodi ergo carnalem animam non modo premi,
+sed etiam opprimi pondere praesumptae perfectionis
+necesse est: quia non potest portare caro infirma,
+quod solus spiritus promptus experitur jugum esse
+suave et onus leve. Christi quippe jugum et onus
+est, et omnino importabile, nisi Christi aeque spiritui.
+Huic itaque si dicitis legem Regulae subintrasse, <emph>510</emph> 
+ ut abundaret delictum, verum dicitis.
+Caeterum hoc culpa non est datae legis, aut dantis
+legem, sed improvide profitentis, et impie praevaricantis.
+Mandatum quidem sanctum et justum: sed
+tu te noris esse carnalem, venumdatum sub peccato
+<pb n="0874D"/> <note>(Rom. VII, 12, 14)</note>.
+Verum hoc ante praevidisse debueras,
+quo turris hujus evangelicae non prius jaceres
+fundamentum, quam sedens computares, si haberes
+sumptus ad perficiendum. Nunc autem quid
+restat, nisi ut aut correctus obedias senioribus, aut
+confusus audias ab illusoribus: <hi>Hic homo coepit
+aedificare, et non potuit consummare <note>(Luc. XIV,
+28-30)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>24.</head>
+            <p>
+ Sed forsan dicitis: Ergone ita perfectus quispiam
+invenitur, cui non vel minimum aliquid interdum
+subripiatur de tam multis ac minutis, quae
+passim vel a negligentibus praepositis imperantur!
+Minime quidem cuiquam hoc ego dedorim, cum ipsi
+<pb n="0875A"/>
+quoque de se fateantur Apostoli, <hi>In multis offendimus
+omnes <note>(Jacobi III, 2)</note>
+            </hi>; et, <hi>Si dixerimus quia
+peccatum non habemus, ipsi nos seducimus <note>(I Joan.
+I, 8)</note>
+            </hi>. Sed non continuo ut aliquid praeterimus, perimus:
+praesertim cum nos Scriptura consoletur, <hi>Si
+quis peccaverit,</hi> inquiens, <hi>advocatum habemus Jesum
+Christum justum; et ipse est propitiatio pro peccatis
+nostris <note>(I Joan. II, 1, 2)</note>
+            </hi>. Denique propheta de ipso testatur,
+quod pro transgressoribus rogaverit, ut non
+perirent <note>(Isa. LIII, 12)</note>. Ubi sane notandum, quia etsi
+pro transgressoribus, non tamen pro contemptoribus
+legitur supplicasse. Verum illi quomodo perire possunt,
+pro quibus Salvator rogat, ne pereant? Quamobrem
+non video, cur ita omnem inobedientiam et
+transgressionem vel minimorum quorumlibet mandatorum
+<pb n="0875B"/>
+exaggerandam putaveritis, ut exclamaretis:
+Quod ergo jam monacho poterit veniale peccatum
+esse vel leve, cujus universae actioni crimen insidiatur
+inobedientiae? Sed hoc inde videlicet constare
+creditis, quod praelatorum jussionibus tantum tribuendum
+asseritur, quantum si divinitas traderentur.
+Quasi vero et ipsa evangelica praecepta non
+multum inter se discrepent, et merito observationis,
+et transgressionis periculo.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI. <hi>Praecepta esse imparia, adeoque transgressionem.</hi> </head>
+<div3>
+            <head>25.</head>
+            <p>
+ Caeterum sicut non omnia unius esse constat
+vel necessitatis, vel utilitatis, vel dignitatis: sic non
+una de omnium transgressione fertur sententia, nec
+<pb n="0875C"/>
+paria manent discrimina dispares culpas. Porro nec
+pari culpa negliguntur, quae non pari cura praecipiuntur;
+nec pari proinde poena puniuntur. Ecce
+enim Evangelium tam flagitium crapulae, quam fornicationis
+turpitudinem damnat. Verum quis magis
+non horreat e duobus malis, turpitudine foedari,
+quam cibo exsaturari? Nonne denique Veritas in
+Evangelio sub nominibus trabis et festucae <note>(Matth.
+VII, 4)</note>, graves levesque discernit inobedientiae culpas?
+Nonne ipsa disputante, imo definiente, gradatim
+nobis distinguitur, quae cuique reatui poena debeatur,
+dum alium judicio, alium consilio, alium et gehenna
+reum esse protestatur? <note>(Matth. V, 22.)</note> Quaenam
+ergo consequendi necessitas cogit, ut si magistris
+divina detur in suis praeceptis auctoritas, nullum
+<pb n="0875D"/>
+ideo jam monacho leve aut veniale peccatum inveniri
+posse putetur; et quod ejus universae actioni
+crimen insidietur inobedientiae? Esto, sit crimen,
+cui poenalis illa gehenna vel gehennalis poena assignatur:
+quale, quaeso, illud definiemus esse crimen,
+quod, Veritate judice, reum tantum facit judicio?
+Nec tamen diffitebimur esse reatum, quod vel hactenus
+reum statuit. Quod si reatum, et peccatum?
+porro omne peccatum contra Dei mandatum praesumitur.
+Quod autem contra mandatum praesumitur,
+inobedientia dicitur.</p>
+          </div3>
+<div3>
+            <head>26.</head>
+            <p>
+ Hinc colligitur, quod irasci fratri, et inobedientia
+sit, et crimen non sit. En unum inventum
+<pb n="0876A"/>
+est monacho leve ac veniale peccatum, quodque non
+humani, sed divini mandati statuat transgressorem.
+In <emph>511</emph> hoc genere transgressionis sunt nonnulla
+stultiloquia seu vaniloquia, et quaeque otiose dicta,
+facta, et cogitata. Hujusmodi enim nunquam nisi
+contra mandatum, et Dei mandatum usurpantur.
+Peccata quippe sunt, et Deus prohibet omne peccatum:
+et tamen venialia, non criminalia reputantur,
+excepto cum per contemptum vertuntur in usum et
+consuetudinem: et tunc non peccati species, sed
+peccantis intentio pensatur. Elatio quippe contemnentis,
+atque impoenitentis obstinatio, in minimis
+quoque mandatis culpam facit non minimam, et
+convertit in crimen gravis rebellionis naevum satis
+levem simplicis transgressionis. Denique in quo inobedientiae
+<pb n="0876B"/>
+crimen et absque dubio sit, apud Samuelem
+advertite. <hi>Quasi,</hi> inquit, <hi>peccatum ariolandi
+est repugnare, et quasi scelus idololatriae nolle acquiescere <note>(I Reg. XV, 23)</note>
+            </hi>.
+Non ait, Non acquiescere;
+sed, <hi>nolle acquiescere:</hi> ut non jussionis simplex ipsa
+transgressio, sed voluntatis superba contentio,
+scelus idololatriae reputetur. Non est enim id ipsum
+nolle obedire, et non obedire. Hoc quippe interdum
+erroris est, nonnunquam et infirmitatis: illud vero
+aut odiosae pertinaciae, aut contumaciae non ferendae.
+Quod et ipsum repugnare est et resistere Spiritui
+sancto; et si ad mortem usque perduraverit, blasphemia
+est, non remittenda, sive in hoc saeculo,
+sive in futuro. Non ergo qualiscumque mandati
+praeteritio criminalem facit inobedientiam: sed repugnare,
+<pb n="0876C"/>
+sed nolle obedire. Caeterum quanti absque
+illa pessima et rebelli voluntate non obediunt? Quomodo
+itaque monacho crimen insidiatur inobedientiae,
+si toties sine crimine transgreditur, quoties in
+transgressione defuerit hujusmodi recalcitrans et
+contentiosa voluntas?</p>
+          </div3>
+<div3>
+            <head>27.</head>
+            <p>
+ Frustra autem comparant quidam, ut dicitis,
+quaslibet inobedientias antiquae illi, quae facta est in
+paradiso; quae nimirum valuit, non solum obligare
+personam, sed et vitiare naturam. Arbitror tamen
+et ipsam primam gravissimamque praevaricationem,
+aut non aliunde, aut inde maxime judicatam gravissimam,
+hoc est ex rebellione defensionis, quae
+secuta est: quando Deo causam requirente peccati,
+<pb n="0876D"/>
+ut peccatores ad poenitentiam provocaret (nolebat
+quippe mortem eorum, sed magis ut converterentur
+et viverent), ipsi maluerunt declinare cor suum in
+verba malitiae, ad excusandas excusationes in peccatis.
+Et quidem gemina malitia peccatoris. Primum
+quod nec sui misertus est, ut culpam propriam fateretur,
+et sanaretur: deinde quod et uxorem, ut se
+fallaciter excusaret, crudeliter accusavit <note>(Gen. III,
+1-13)</note>.</p>
+          </div3>
+<div3>
+            <head>28.</head>
+            <p>
+ Quid est quod denique dicitis, in omni actione
+monacho crimen insidiari inobedientiae, quasi
+aut furtim subrepat nescienti, aut casu accidat infelici;
+aut non valenti implere quod praecipitur, criminis
+<pb n="0877A"/>
+calumnia struatur de impossibili? Itane, inquam,
+monacho crimen insidiatur inobedientiae?
+cum et antiqua illa tam nota, et tam noxia praevaricatio,
+facile, ut creditur, indulgentiam consequeretur,
+dummodo confessio, et non defensio sequeretur.
+Neque enim tantum, ut dictum est, nocuit simplicis
+actionis, quamvis ex deliberatione, transgressio,
+quantum adjunctae excusationis cum praemeditatione
+obstinatio.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII. <hi>In Regula aeque ac lege divina disparitatem esse inobedientiae.</hi> </head>
+<div3>
+            <head>29.</head>
+            <p>
+ Sed nunquid forte in lege quidem divina
+habenda est haec consideratio gravioris, leviorisque
+<pb n="0877B"/>
+inobedientiae, non autem ita et in Regula nostra?
+Sed quis sane dicat plus tribuendum humanis, quam
+divinis traditionibus; plurisque quod per suos Deus,
+quam quod per se ipsum imperat, aestimandum? Annon
+denique et apud sanctum Benedictum propriae
+et distinctae ab invicem sententiae inveniuntur, alia
+de levioribus, <emph>512</emph> alia de gravioribus inscripta
+culpis? <note>(Reg. S. Benedicti, capp. 24, 25.)</note> Quid est
+autem levior culpa, nisi levior inobedientia? Traduntur
+igitur a praelatis interdum minora mandata,
+quorum transgressio leviora secundum Regulam
+parit et peccata; et tamen in Deum nihilominus praevaricatio
+fit, quoties abbatis jussio praeteritur: siquidem
+et ex ore ipso Dei non aequalia sunt promulgata, et
+ideo non aequali cuncta vigilantia observanda; sed
+<pb n="0877C"/>
+alia cura exhibenda est ei procul dubio, quod ipse
+perhibet <hi>primum et maximum mandatum <note>(Matth.
+XXII, 38)</note>
+            </hi>: alia his quae alibi discernens, <hi>Qui solverit,</hi> 
+inquit, <hi>unum de his minimis mandatis <note>(Matth. V, 19)</note>
+            </hi>.
+Quid ergo? Audivimus ex Regula graviores et leviores
+culpas; legimus et in Evangelio maxima, minimaque
+mandata: et mandatorum transgressiones
+universas dicemus aequaliter maximas? Non est igitur
+necesse ut concedam quod dicitis, aut Deo scilicet
+non tribui omne quod ab homine magistro
+accipitur, quod non sit contra Deum; aut monacho
+nullum posse inveniri leve seu veniale peccatum:
+quia etsi toties Deo (quod fatendum est) inobediens
+esse convincitur, quoties ejus, qui pro Deo sibi
+praeest, hominis mandatum, quod quidem justitiae
+<pb n="0877D"/>
+non repugnet, praetergreditur; sicut tamen non par
+cura in exsecutione exigitur, sic nec par culpa contrahitur
+ex transgressione. Etsi quippe unus est qui
+offenditur; non tamen unius ponderis quae jubentur,
+nec unius subinde discriminis jussorum est omnium
+censenda transgressio. Unde pater Benedictus,  « Secundum, » 
+inquit,  « mensuram culpae, excommunicationis
+extendatur mensura. »  <note>(Reg. cap. 24.)</note> </p>
+          </div3>
+<div3>
+            <head>30.</head>
+            <p>
+ Frustra proinde (ut videtis) aut terremini,
+aut terrere conamini de obedientiae promissione,
+quae fit ex regulari professione, quasi non oporteat
+promittere, quam constat nec integre posse teneri,
+nec sine crimine praeteriri: siquidem Deo, quidquid
+Dei minister homo non perperam jusserit, imputandum
+constiterit. Frustra, inquam, ex hac occasione
+<pb n="0878A"/>
+malum ita inobedientiae exaggeratis, ut a
+tam necessario bono promittendae obedientiae terreatis:
+quia etsi difficile cavetur ubique subrepens
+[ <hi>mss.</hi> subripiens] vel insidians, ut vos dicitis, inobedientia
+in tam variis et innumeris, quae a senioribus
+indicuntur; non semper tamen damnabiliter seu criminaliter
+quod praecipitur, non impletur. Etsi enim
+omnis inobedientia inexcusabiliter sit culpabilis,
+nulla tamen aeternaliter damnabilis, nisi quam remedium
+poenitentiae non sanat: nulla est lethaliter
+criminalis, nisi quae contemptum superbiae non evitat.
+Magna igitur securitas filiis obedientiae, et revera
+pax hominibus bonae voluntatis: quoniam in
+omni obedientia sola damnatur impoenitentia, quam
+nescit qui diligit Deum; sola incriminatur superbia,
+<pb n="0878B"/>
+quam facile cavet qui timet gehennam. Sed
+exemplis clarius elucescet quod dicimus. Si jubente
+seniore ut sileam, verbum mihi forte per oblivionem
+elabitur; reum me fateor inobedientiae, sed venialiter.
+Si ex contemptu sciens et deliberans sponte in
+verba prorupero, et rupero silentii legem; praevaricatorem
+me constituo, et criminaliter; et si impoenitens
+persevero usque ad mortem, peccavi, et damnabiliter.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>Refellit monachos, difficultatem, vel etiam impossibilitatem obedientiae religiosae nimium exaggerantes.</hi> </head>
+<div3>
+            <head>31.</head>
+            <p>
+ An et hoc durum fortasse videatur? Haec
+quippe sunt vestra, si bene recolo, verba, cum difficultatem
+seu impossibilitatem, ut vobis videtur, tenendae
+<pb n="0878C"/>
+obedientiae, vel cavendae inobedientiae, considerantes,
+in vitam ita monachicam exclamatis:
+ « Haeccine est illa eo securior, quo arctior; eo certior,
+quo magis ardua veniendi ad Deum via, ut monacho
+naturaliter bona vix cavere, naturaliter bona
+vix pro communi infirmitate valenti implere, non
+minor tamen <emph>513</emph> necessaria sit cautela ad cavenda,
+vel observanda quae sibi praelatus suus vel prohibere
+voluerit, vel jubere? »  Et subditis:  « Quod cum
+a multis credatur, licet a paucis, vel etiam a nullis
+ad integrum observetur; quid aliud operatur talis
+sententiae credulitas, quam quod illa ab Apostolo
+tantum culpata manducandi idolothyta libertas? » <note>(I Cor. VIII, 7.)</note> 
+ Nil plane aliud, si ita esset, ut
+<pb n="0878D"/>
+dicitis. Bene prorsus non potest conscius esse sibi,
+qui se non implere confidit quod debere se credit.
+Creditis itaque (ut verborum vestrorum sensum breviter
+colligam) quod ad integrum mandata Dei observari
+vix valeant, abbatis non valeant: cum Veritas
+ipsa testetur, ne unum quidem iota praeteritum
+iri <note>(Matth. V. 18)</note>. Caeterum qui ita sentit, videtur
+mihi (ut pace vestra dixerim) necdum gustasse quam
+suavis est Dominus; sub jugo legis gemere adhuc,
+nondum respirare sub gratia; suave Christi jugum
+nequaquam esse expertus; ideoque certissime adhuc
+infirmari per carnem, quia spiritus non adjuvat
+ejus infirmitatem.</p>
+          </div3>
+<div3>
+            <head>32.</head>
+            <p>
+ Quid vero sibi vult illa distinctio, quod Dei
+quidem vel vix praelati vero hominis nequaquam
+<pb n="0879A"/>
+omnino a quolibet jussa posse teneri prohibitave
+conceditis? quasi vero illa queant absque istis integre
+custodiri. Sed si attenditis, de male quoque viventibus
+praelatis Dei praeceptum est, <hi>Quae dicunt facite <note>(Matth. XXIII, 3)</note>
+            </hi>.
+Igitur qui non facit, aperte non
+in hominem tantum, sed et in Deum praevaricator
+existit. Itane ergo nullus mandata perfecte exsequitur
+sui magistri? Quamobrem putatis? quia nolumus,
+aut quia non possumus? Sed si volumus et non
+possumus, securi sumus. Si possumus et nolumus,
+superbi sumus. Porro ad cavendam superbiam, illam
+vere annuerim necessariam esse cautelam quam
+dicitis, ne forte incurratur inobedientiae crimen.
+Quod si impossibile vos putatis, ut non videlicet
+<pb n="0879B"/>
+imperiis praelatorum per contemptum interdum superbiae
+resistatur; scitote non paucos, sed innumeros
+aliter omnino sentire, nec aliud quam quod proprio
+didicerint experimento. Si autem non impossibile
+quidem, sed tamen difficile esse sentitis magistros
+non contemnere; et dum ideo consentitis,
+quoniam gravamini, non superbe sapere, murmuratis
+adversus obedientiae legem, affirmantes periculosum
+promittere, quod tam laboriosum est observare;
+ad hoc ego respondeo, imo non ego, sed Dominus: <hi>Qui potest,</hi> 
+ inquit, <hi>capere capiat. <note>(Matth. XIX,
+12.)</note>
+            </hi> Hoc quippe est quod paulo superius dixi, quia
+antequam aedificium inchoares, providisse debueras
+unde perficeres. Nunc autem, ut ait quidam, aut
+non tentasses [ <hi>sic mss., al.</hi> non tenta], aut perfice,
+<pb n="0879C"/>
+Verumtamen nemo, si caute profitetur, pollicetur se
+ultra in nullo transgressurum; hoc est, jam non
+peccaturum. Alioquin aut perjurat qui ita jurat, aut
+sanctior est illo qui ait: <hi>In multis offendimus omnes <note>(Jacobi III, 2)</note>
+            </hi>.
+Quod si consequens falsum esse
+videtur; videndum est et de eo quod antecedit, ne
+forte lex quae data est propter transgressiones cohibendas,
+non solum non eas coerceat, sed et augeat
+insuper crimine perjurii: siquidem id promittere
+nos in nostra professione credamus, quod certum
+est non posse teneri.</p>
+          </div3>
+<div3>
+            <head>33.</head>
+            <p>
+ Partienda est proinde nobis in duo universa
+haec observatio regularis, in Precepta videlicet, et
+Remedia. Praeceptis instituitur vita contra peccatum;
+Remediis restituitur post peccatum innocentia. Sic
+<pb n="0879D"/>
+ergo utraque ista complectitur nostra professio, ut professus
+quisque cum in aliquo forte regularium mandatorum
+deliquerit, si ad remedium aeque regulare confugerit,
+etsi convincitur transgressor mandati, non
+tamen pacti praevaricator. Solum itaque censuerim
+fregisse votum, violasse propositum, pactum praevaricasse,
+qui et praeceptum contempserit, et remedium.
+Nam illum sane dico securum, qui etiamsi
+interdum obedientiae limitem praeterit, consilium
+non respuit poenitentiae. Regulares namque terminos,
+etsi saepe deliquerit, non evadit, qui censurae,
+quae ex Regula est, disciplinam non subterfugit.
+Pars siquidem Regulae est regularis correctio, et in
+ea reperitur non solum bonae vitae instructio, sed
+etiam emendatio pravae. Inveniuntur <emph>514</emph> in ea et
+<pb n="0880A"/>
+praecepta obedientiae, et inobedientiae remedia, ut
+ne peccando quidem a Regula recedatur. Fateor
+sane impossibile cuivis mortalium vel venialiter
+interdum non delinquere in praeceptis obedientiae:
+sed nulla jam de impossibilitate querela, quandoquidem
+et ex Regula licet id quoque, quod criminaliter
+delinqui contigerit, emendare. Quod ergo dicitis
+a nullis posse observari ad integrum quidquid a
+magistris praecipitur, verum est: sed levis culpa
+inobedientiae est, et facilis cura ejus invenitur in
+Regula, si quidem sit transgressio absque contemptu.
+Si autem et ipsum deesse aliquando non posse contenditis,
+id quidem falsum est: sed nec talem tamen
+inobedientiam sine cura relinquit diligentia regularis.
+<pb n="0880B"/>
+Et licet fortiori egeat curationis medicamento,
+caret tamen morbo praevaricationis, nisi cum et
+ipsum forte medicamentum contemnitur.</p>
+          </div3>
+<div3>
+            <head>34.</head>
+            <p>
+ Quae cum ita sint, frustra de impossibilitate
+causamur qui Regulam profitemur: frustra nobis
+de peccandi necessitate blandimur, ut ideo justa
+imperia praelatorum Deo non imputanda, sed tanquam
+hominum contemnenda putemus: ne rem videlicet
+impossibilem continere nostra professio videatur,
+si tantum ex ea hominibus, quantum Deo obedientiae
+deberi asserimus. Cui enim jam vel ita
+professo impossibile, imo per Dei gratiam non perfacile
+sit cavere praevaricationem, ubi non inobedientia,
+sed impoenitentia facit praevaricatorem?
+Hoc quippe, ut jam dixi, profitentium nemo spondet,
+<pb n="0880C"/>
+ut jam non peccet: et ob hoc non continuo, ut quispiam
+aliquo modo non obedit, praevaricatorem se constituit
+nisi qui se forte sic professum falso existimat,
+quales vos utique asseritis esse non paucos. De quibus
+etiam (si qui tamen sunt, ut dicitis) verum est et
+quod subditis, quod nil utique aliud illa talis eorum
+credulitas, vel potius crudelitas in suis ipsorum
+operatur conscientiis, quam noxia illa recumbentium
+in idolio libertas in alienis. Necesse est enim qui
+hujusmodi est, ex propria perire sententia, quemadmodum
+in illius scientia clamat Apostolus infirmum
+perire fratrem <note>(I Cor. VIII, 11)</note>. Et quomodo nihil
+esse commune item ipse perhibet, quod cum gratiarum
+actione percipitur, nisi ei qui putat aliquid esse
+commune <note>(Rom. XIV, 14; I Tim. IV, 4)</note>: ita et regularis
+<pb n="0880D"/>
+professio, quantum in se est, damnabilis non
+est, nisi ei qui damnabilem putat. Quod quatenus
+putari oporteat, puto satis superius demonstratum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV <hi>Cur conscientia errans non aeque convertat malum in bonum, uti bonum in malum.</hi> </head>
+<div3>
+            <head>35.</head>
+            <p>
+ Nunc jam respondendum est quaestiunculae, quae
+incidit vobis ex occasione apostolici praesentis capituli.
+Quaeritis nempe, utrumnam ista de idolothytis
+Pauli sententia, <hi>Puto quia nihil commune est in Christo
+nisi ei qui putat quid commune esse, illi commune
+est;</hi> et rursum, <hi>Si comederit, damnatus est, quia non
+ex fide <note>(Rom. XIV, 14, 23)</note>
+            </hi>; in generalem regulam
+trahi possit, quatenus malum cuilibet sit bonum quoque
+<pb n="0881A"/>
+quod agit, si malum esse crediderit; ac tantum
+malum, quantum crediderit. Quod si annuero, rursum
+pergitis inquirere, cur non e contrario tantum
+cuique bonum sit quod operatur, quantum vel falso
+opinatur. Mirum quippe vobis, imo et injustum videtur,
+ut plus in malo, quam in bono humanae valeat
+intentionis opinio. Si respondero, de malis quidem
+merito ita credi propter oculum nequam: respondebitis
+et mihi non immerito quoque propter simplicem
+oculum idem aeque putandum et de bonis.
+Nam qui dixit ex oculo nequam corporis tenebras
+aestimari, indicavit et de simplici lucem aeque corporis
+approbari <note>(Matth. VI, 23)</note>. Sed videte, ne forte
+non sit vere oculus simplex, qui fallitur. Fallitur
+enim tam qui bonum malum, quam qui malum bonum
+<pb n="0881B"/>
+putaverit. Scitis autem neutrum horum Vae
+illud evitare propheticum, <hi>Vae qui dicitis bonum malum,
+et malum bonum <note>(Isa. V, 20)</note>
+            </hi>: cum tamen nemo,
+qui hoc <emph>515</emph> velit cavere maledictum, de quo
+Veritas pronuntiat, quod sit lucis totius corporis,
+id est operis, argumentum. Sed absit ut praeco
+Veritatis clamet contra Veritatem; maledicat is quod
+illa probaverit!</p>
+          </div3>
+<div3>
+            <head>36.</head>
+            <p>
+ Ego vero ut interior oculus vere simplex sit,
+duo illi esse arbitror necessaria, charitatem in intentione,
+et in electione veritatem. Nam si bonum
+quidem diligat, sed verum non eligat; habet quidem
+zelum Dei, sed non secundum scientiam: et
+nescio quemadmodum judicio Veritatis vera esse
+possit cum falsitate simplicitas. Volens denique ad
+<pb n="0881C"/>
+veram discipulos instruere simplicitatem magistra
+Veritas, <hi>Estote,</hi> inquit, <hi>prudentes sicut serpentes, et
+simplices sicut columbae <note>(Matth. X, 16)</note>
+            </hi>. Praemisit ergo
+prudentiam, sine qua neminem satis esse posse
+simplicem sciret. Quomodo denique vere simplex
+erit oculus cum ignorantia veritatis? aut vero vera
+potest dici simplicitas, quam simplex ignorat veritas?
+Scriptum est enim: <hi>Ignorans ignorabitur <note>(I Cor.
+XIV, 38)</note>
+            </hi>. Patet ergo laudabilem illam et a Domino
+laudatam simplicitatem absque his duobus non esse
+bonis, benevolentia atque prudentia: ut oculus videlicet
+cordis, non solum pius qui fallere nolit, sed et
+cautus sit qui falli non possit.</p>
+          </div3>
+<div3>
+            <head>37.</head>
+            <p>
+ Caeterum sicut oculum simplicem duo ista faciunt
+<pb n="0881D"/>
+bona, amor boni, et cognitio veri: sic nequam
+oculum duo e regione mala constituunt, caecitas,
+qua fit ut veritatem non agnoscat; et perversitas,
+qua fit ut diligat iniquitatem. Porro inter duo haec
+bona, quae nec fallere, nec falli sinunt; et duo illa
+mala, quae tam falli, quam fallere faciunt, duo sunt
+media: unum quidem bonum per quod oculus interior,
+etsi falli queat ignorantia veri, zelo tamen boni
+<pb n="0882A"/>
+fallere penitus non consentit: alterum vero malum,
+quod licet veri notitiam non impediat, amorem tamen
+boni prae malitia minime sentit.</p>
+          </div3>
+<div3>
+            <head>38.</head>
+            <p>
+ Et quoniam omnis res melius divisione innotescit:
+secundum hoc duplex malum, et illud item
+geminum bonum, quadrifariam dividamus oculum
+cordis, in bonum et meliorem, in malum et pejorem.
+Et subdamus exempla. Est qui bonum diligit, et
+malum nescius agit. Hujus quidem bonus est oculus,
+quia pius: non tamen simplex, quia caecus. Et est
+qui bonum et libenter agit, et prudenter intelligit.
+Istius revera oculum non immerito simplicem dixerim,
+utpote cui neutrum bonum desit, nec zelus
+scilicet bonus, nec scientia. Hunc profecto requirit
+oculum Deus, cum respicit super filios hominum, ut
+<pb n="0882B"/>
+videat si est intelligens aut requirens Deum <note>(Psal.
+XIII, 2)</note>. Est e contrario qui bonum minime diligens,
+ex malitia quidem perversus est: sed sapiens ut
+faciat malum, per ignorantiam caecus non est. Quem
+quidem ideo nondum appellaverim nequam, quod
+unum ei, licet ad suum malum, non desit bonum, id
+est scientia.</p>
+          </div3>
+<div3>
+            <head>39.</head>
+            <p>
+ Sed est qui bonum forte nescius quod non
+diligit, agit: cui profecto non incongrue id quod
+dicitur nequam assignaverim, eo quod neutro careat
+malo, nec caecitate scilicet, nec perversitate. Dicitur
+siquidem nequam, quasi nequaquam, ut is solummodo
+nequam appelletur, qui nequaquam, hoc
+est, in nullo penitus appareat bonus; sed sit utroque
+bono vacuus, tam videlicet veri notitia, quam
+<pb n="0882C"/>
+et benevolentia. Alius est itaque pius oculus, non
+quidem fallere promptus, sed tamen, ut dictum est,
+falli pronus, de quo propheta: <hi>Ephraim,</hi> inquit, <hi>quasi columba seducta, non habens cor 
+ <note>(Ose. VII, 11)</note>
+            </hi>.
+Alius is quem Dominus simplicem dicit, tam nec fallere
+facilis, quam nec falli, de quo et Apostoli docentur
+cum eis dicitur: <hi>Estote prudentes sicut serpentes,
+et simplices sicut columbae.</hi> </p>
+          </div3>
+<div3>
+            <head>40.</head>
+            <p>
+ Et item alius est oculus simpliciter malus,
+fallens utique libenter, sed non facile falsus: qualem <emph>516</emph> 
+ profecto habent illi qui ore dominico
+astruuntur prudentiores esse filiis lucis in generatione
+sua. Et alius quem nequam esse definivimus,
+quia sit dupliciter malus, cui quippe et malitia parit
+<pb n="0882D"/>
+ignorantiam, et ignorantia malitiam operit, ita ut
+saepe nesciens et malum quod vult non faciat, et
+bonum faciat quod non vult. Obscuratum nempe est
+insipiens cor eorum qui istius modi sunt, et quasi
+jam traditi in reprobum sensum, bonum omnino nec
+diligere, nec dignoscere queunt. De talibus scriptum
+est: <hi>Impius cum venerit in profundum malorum, contemnit <note>(Prov. XVIII, 3)</note>
+            </hi>.
+Nam qui hujusmodi est, cavere
+<pb n="0883A"/>
+profecto malum nec vult, etiam si possit; nec
+si velit, scit. Quamobrem hunc oculum in superiori
+divisione illo altero censui non immerito pejorem,
+non quia malignior sit, sed quia periculosior. Ignorantia
+quippe securiorem, securitas segniorem facit,
+non nequiorem. Est tamen ex hoc procul dubio deterior,
+quod ille solum habet malum, malam intentionem;
+iste et falsam considerationem. Ille uno
+caret e duobus bonis, bono zelo; iste et vero judicio.
+Ex hoc itaque pessimo oculo, qui neutrum bonum
+habet, et item ex illo optimo qui neutro caret, sentiendum
+est Veritatem disseruisse, aut tenebris
+obvolvi totum corpus, aut luce perfundi. Nam reliqui
+duo, quorum neuter utrumque aut bonum habet,
+aut malum; etsi ex parte possunt, non tamen toti
+<pb n="0883B"/>
+sufficiunt vel lucem dare, vel tenebras corpori.</p>
+          </div3>
+<div3>
+            <head>41.</head>
+            <p>
+ Si igitur (ut jam ad propositam quaestiunculam
+revertamur) is vere oculus nequam est, qui
+perversus pariter et caecus bonum agit, et malum
+credit; utique recte operando, sed opinando inique,
+bonum sibi in malum vertit; et tantum malum,
+quantum crediderit: quandoquidem juxta sententiam
+Domini, totum corpus tenebrosum reddit oculus
+nequam. Quid enim luci relinquitur, ubi nec pia
+intentio, nec vera opinio invenitur? At non ideo
+sequitur, ut qui e contrario malum facit, et bonum
+putat, juxta suam fidem similiter et ipse inveniat.
+Quare? Non est quippe simplex oculus ille, qui ex
+judicio Veritatis totum corpus lucidum reddat,
+<pb n="0883C"/>
+qualem profecto superius definivimus. Neque enim
+ex toto adhuc tenebrae desunt, ubi ignorantia veritatis
+lucem obscurat bonae [ <hi>al. deest</hi> bona] voluntatis.
+Cum itaque ille oculus utrumque malum, is
+vero minime utrumque habeat bonum; nonne
+ratio videtur exigere, ut plus ille noceat, quam
+prosit iste? Neque enim consequens est, ut tantum
+valeat in bonum bonum unum, quantum duo
+mala in malum. Et quidem laude dignam dixerim
+vel solam intentionem piam: nec plane condigna
+remuneratione fraudabitur in opere quoque non
+bono ipsa bona voluntas. Attamen sine malo quocumque
+non erit decepta simplicitas. Cur inquis?
+nunquid non ex fide? Prorsus ex fide, sed falsa;
+vel certe potius non ex fide, quia fides falsa, fides
+<pb n="0883D"/>
+non est. Denique de fide vera, non falsa puto dixisse
+Apostolum: <hi>Omne quod non est ex fide, peccatum
+est <note>(Rom. XIV, 23)</note>
+            </hi>. Non autem ex fide vera bonum
+creditur quod malum est: est enim falsum. Peccatum
+igitur est. Utrumque proinde complectitur
+praesens capitulum, <hi>Omne quod non est ex fide peccatum
+est,</hi> et caecam videlicet malitiam, et deceptam
+innocentiam: quia quod a nesciente fit, et
+bonum prorsus condemnat intentio prava, et malum
+non penitus excusat recta. Sive itaque malum
+putes bonum quod forte agis, sive bonum malum
+quod operaris, utrumque peccatum est, quia neutrum
+ex fide: licet sane levius admodum peccetur,
+ubi sana intentione sola reprehensibilis actio foris
+apparet, quam ubi maligna latet etiam in non mala
+<pb n="0884A"/>
+[ <hi>al. mendose</hi> in mala] actione intentio. Verum quod
+absque vel minimo peccato non est, purum bonum
+minime est. Quo pacto ergo bonum non purum
+puro malo comparabitur <emph>517</emph> in efficientia, hoc est
+ut tam efficax ad bonum illud sit, quam ad malum
+istud? Et haec super hac quaestione sufficiant. Nam
+ad superiores quoque satis reor esse responsum
+superius. Et quidem vos easdem saepius dubitationes
+iteratis atque revolvitis: sed mea non interest
+ipsarum toties repetere solutiones. Sufficit enim
+semel solvisse etiam quod crebrius in quaestione
+versatum fuerit.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XV. <hi>An quantum obedientia valet ad meritum, tantum inobedientia valeat ad demeritum.</hi> </head>
+<div3>
+            <head>42. </head>
+<p>
+              <pb n="0884B"/>Quaerentibus item de obedientiae pondere, seu
+discrimine inobedientiae, a latere incidit vobis et de
+merito utriusque quaerendum, utrum videlicet in
+quibusque praeceptis quantum obedientia valet,
+tantum gravet inobedientia: ut verbi gratia, vel
+Abraham de immolando filio <note>(Gen. XXII)</note>, vel ille
+nescio quis de filio itidem furni incendiis exponendo <note>(Doctr. SS. PP. lib. de Obed. n. 6)</note>,
+tantum divinae
+indignationis et ultionis merito incurrissent, si
+non obedissent, quantum laudis et gratiae receperunt
+pro eo quod obedierunt. Quod vobis quidem et
+durum videtur, et necessarium: sed non est ita.
+Enimvero constat nonnulla nec fieri sine gloria, et
+posse non fieri sine culpa; ideoque si fiant, digna
+esse praemiis, non tamen suppliciis si non fiant.
+<pb n="0884C"/>
+Nam et non tangere mulierem, meriti est non mediocris;
+et nullius tamen delicti propriam amplecti
+conjugem. Istiusmodi sunt quaecunque evangelico
+illi capitulo congruere possunt: <hi>Qui potest capere,
+capiat <note>(Matth. XIX, 12.)</note>
+              </hi>.</p>
+          </div3>
+<div3>
+            <head>43.</head>
+            <p>
+ Et rursum quaedam per contrarium, neglecta
+quidem offensam contrahunt, sed impleta gloriam
+[ <hi>al.</hi> gratiam] non merentur; et damnant contemptorem,
+et auctorem non glorificant. Talia sunt
+quaecumque divinitus lege publica imponuntur hominibus,
+sine quibus nec salvari queunt. Hinc illud
+apud gentilem:
+</p>
+            <l> <hi>Non feci furtum. Non pasces in cruce corvos.</hi> </l>
+            <p> <note>(HORAT. lib. I, ep. 16, 46.)</note> 
+Et in Evangelico: <hi>Si diligitis eos qui vos diligunt,
+<pb n="0884D"/>
+quam mercedem habebitis? et si salutaveritis fratres
+vestros tantum, quid amplius facitis? <note>(Matth. V, 46,
+47.)</note>
+            </hi> Denique et universaliter, <hi>Cum feceritis omnia
+quae mandata sunt vobis, dicite quia servi inutiles sumus,
+quae facere debuimus, fecimus. <note>(Luc. XVII, 10.)</note>
+            </hi> 
+Ac si dicat: Si solis contenti estis praeceptis et traditionibus
+impositae legis, et non sponte etiam perfectionis
+vos consiliis et suasionibus mancipatis;
+liberi quidem estis a debito, non tamen pro merito
+gloriosi: evasistis poenam, sed non acquisistis coronam.
+Quaenam ergo nos necessitas cogit parem in
+singulis, quae injuncta fuerint, et formidare ultionem
+de transgressione, et de observatione parare
+remunerationem? Eapropter in talibus generalis
+haec regula teneatur, ut in difficilioribus quidem
+<pb n="0885A"/>
+agendis obeditio gratior, quam gravior praevaricatio
+judicetur: et in facilioribus minusque onerosis contemptus
+damnabilior, quam actus laudabilior aestimetur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVI. <hi>Transitus et mutatio monasterii quatenus probanda.</hi> </head>
+<div3>
+            <head>44.</head>
+            <p>
+ Jam et si de hoc satis est, videamus quatenus
+etiam tenenda sit ipsa, quae in professione firmari
+solet, loci stabilitas, et quibus (si quibus tamen) ex
+causis rumpere illam vel liceat cuiquam, vel expediat.
+Et hinc siquidem dubitare vos dicitis. Ad
+quod interim nunc securus responderim, a bono
+quod semel quis voverit, descendere non licere: et
+ad hoc mutare locum, quem sibi quisque delegerit,
+<pb n="0885B"/>
+et cui se sua voluntate et voce firmaverit, omnino
+non consulo, sed nec sanctus papa Gregorius. Ait
+enim:  « Perfecti quique magna se discretionis
+subtilitate conspiciunt, ne ad deteriora unquam
+vel in opere, vel in cogitatione dilabantur. »  Sed
+quod hinc sensit vir apostolicus, hoc se Apostolus
+implere gloriatur: <hi>Quae,</hi> inquiens, <emph>518</emph> <hi>retro oblitus,
+et ad ea quae ante sunt extentus <note>(Philipp. III,
+13)</note>
+            </hi>. An et propheta Ezechiel idem non significavit,
+cum de sanctis animalibus diceret: <hi>Non revertebantur
+cum incederent, sed unumquodque ante faciem
+suam gradiebatur? <note>(Ezech. I, 12.)</note>
+            </hi> Et hi omnes id
+sentiendo, non aliud quam Magistri sui sententiam
+secuti sunt, dicentis in Evangelio: <hi>Nemo mittens
+manum suam ad aratrum, et respiciens retro, aptus
+<pb n="0885C"/>
+est regno Dei <note>(Luc. IX, 62)</note>
+            </hi>. Praescribat proinde
+stabilitatis pactum omni deinceps remisso descensui,
+contentioso discessui, vago et curioso discursui, totius
+denique inconstantiae levitati; non tamen his
+quae in professionis serie sequuntur, morum videlicet
+conversioni, et obedientiae quae secundum Regulam
+fit. Nam si haec ibidem, pro improbitate nimirum
+atque irreligiositate cohabitantium, obtineri
+forte nequiverint; duce spiritu libertatis transire
+indubitanter suadeo ad locum alium, ubi non impediatur
+homo reddere Deo vota sua, quae distinxerunt
+labia sua. Et quidem cum sancto sanctus
+eris, et cum perverso perverteris.</p>
+          </div3>
+<div3>
+            <head>45.</head>
+            <p>
+ Sane de religiosis ac bene ordinatis monasteriis
+<pb n="0885D"/>
+nullus professorum meo consilio, ne arctioris
+quidem vitae desiderio, sine licentia sui senioris egredietur.
+Egressus tamen, si melius inventerit et
+elegerit, meo nihilominus jam consilio non regrediatur
+ad inferius bonum, quod reliquerat et contempserat
+prae meliori: praesertim si illud melius tale fuerit,
+quod ejus primae professioni congruere videatur.
+Ipse nempe viderit, qua ratione, quave intentione
+altiora seu arctiora praesumpserit: nam ad inferiora
+jam vel remissiora, me consulente, nequaquam apostatabit:
+si non tamen loci prioris vicinia revocetur,
+quia de noto monasterio nec retineri quis regulariter
+potest, nec recipi sine consensu abbatis sui <hi>(Reg. S.
+<pb n="0886A"/>
+Benedicti, cap. 61)</hi>. Et accipite manifestius in exemplis
+hujus sententiae rationem.</p>
+          </div3>
+<div3>
+            <head>46.</head>
+            <p>
+ Forte vult aliquis de Cluniacensibus institutis
+ad Cisterciensium sese stringere paupertatem, eligens
+prae illis nimirum consuetudinibus magis Regulae
+puritatem. Si me consulit, non consulo, si non sane
+id abbatis sui usurparit assensu. Quamobrem? Primo
+propter scandalum ipsorum quos deserit. Deinde
+quia certa pro dubiis relinquere tutum non est;
+forsitan enim haec tenere potest, illud non poterit.
+Tertio suspectam habeo levitatem, qua id saepe quod
+facile volumus antequam probemus, experti jam
+nolumus, uno prope momento idipsum et cupientes,
+et respuentes, tam leviter quam et irrationabiliter.
+Quales utique non paucos frequenter experimur,
+<pb n="0886B"/>
+quia una vix hora in una voluntate durantes, aura
+levitatis impulsi, vagi et instabiles hac et illac velut
+ebrii nutant; mutantque pro experimento judicium,
+imo sine judicio fluctuantes et tumultuantes, tot de
+se consilia praesumunt, quot loca revisunt: semper
+quod non habent cupientes, et quod habent fastidientes.</p>
+          </div3>
+<div3>
+            <head>47.</head>
+            <p>
+ Et quomodo ego, ait aliquis, professus Regulam,
+non secundum Regulam cum bona queam degere
+conscientia? siquidem vovens, et non solvens,
+quid nisi pejero? Quasi non multo magis habeas
+inde conqueri alibi quoque, cum coeperis pure juxta
+Regulam conversari. Profecto etiam tunc: Et quanam,
+inquies, conscientia habitare sustineam extra
+domum meam priorem, quae me de saeculo fugientem
+<pb n="0886C"/>
+excepit, initiavit ad bonum, signavit in salutem;
+molestus fratribus, inobediens seniori, stabilitatis
+insuper praevaricans pactum, et primam irritam
+faciens fidem? Verumtamen neutra justa querimonia
+est. Nam qui se ideo perjurum putat, quod ad
+purum [ <hi>al.</hi> punctum] Regulam non observat; videtur
+mihi non satis attendere quid juraverit. Nemo
+quippe cum profitetur, spondet Regulam, sed determinate
+secundum Regulam sui quisque conversionem,
+suamque deinceps conversationem sese pollicetur
+dirigere. Haec profecto hujus temporis omnibus
+ferme monachis communis professio est. Et licet in
+diversis monasteriis, diversis et observantiis <emph>519</emph> 
+Deo serviatur; quandiu tamen sui quisque loci
+<pb n="0886D"/>
+bonos usus sollicite servat, haud dubium quin secundum
+Regulam vivat, quoniam quidem boni usus
+a Regula non discordant. Quisquis itaque tenet
+quod teneri invenerit bonum, ubi profitetur; profecto
+vivit sicut promittit: quia non aliud procul
+dubio quisque promittit, quam quod habere eorum
+pia videtur vita, cum quibus deinceps vivere disponit
+et eligit.</p>
+          </div3>
+<div3>
+            <head>48.</head>
+            <p>
+ Quid enim? nunquid verbi gratia, aut in
+Majori-Monasterio usus Cluniacensium, aut isti
+forte illorum ritus, aut vero utrique Cisterciensium,
+districtionem litteratoriam profitentur? Attamen
+omnes secundum Regulam profitemur. Una quidem
+<pb n="0887A"/>
+oris ubique promissio: sed quia non una est omnibus
+cordis intentio, potest indubitanter sine detrimento
+salutis, et sine damno professionis, operis
+quoque non una ubique observatio celebrari. Sicut
+enim non omnes omnia tenent, etiam boni Christiani,
+quae in Evangelio sunt, omnes tamen secundum
+Evangelium vivunt (nam qui concessis alligari conjugiis
+contenti sunt, non ideo tamen credunt se recessisse
+ab Evangelio, quia evangelici sublimitatem
+consilii de caelibe ducenda vita non elegerunt, ita
+sane si in gradu illo inferiori legitime ac fideliter
+conversentur): sic quoque qui secundum Regulam
+vivere statuunt, etsi non ad unguem, ut dicitur,
+totam custodiunt, etsi qua pro sui claustri ritu vel
+mutant, vel praetermittunt; a regulari tamen omnino
+<pb n="0887B"/>
+professione non discedunt, donec tamen sobrie,
+et juste, et pie, pro suorum moribus vivere non desistunt.
+Denique Regula ipsa tradit octavum humilitatis
+gradum,  « ut nihil agat monachus, nisi quod
+communis monasterii regula, vel majorum cohortantur
+exempla <note>(Reg. S. Benedicti, cap. 7)</note>. » </p>
+          </div3>
+<div3>
+            <head>49.</head>
+            <p>
+ Exceptis proinde Cisterciensibus, et qui illorum
+forte ritu non tam vivere secundum Regulam,
+quam ipsam ex integro pure ad litteram (uti se sane
+professos esse putant) tenere curant: de caetero
+neminem obedienter degentem regularis moveat solemnisque
+professio, in qua non fit de tota Regula
+promissio, in his duntaxat monasteriis, in quibus
+ordo et disciplina servatur cum bonis consuetudinibus.
+<pb n="0887C"/>
+Salva igitur cuique sua manet in coenobiis
+bene ordinatis professio, tantum si sana fuerit et intentio. Caeterum qui inquietus est, et ita credere non
+potest; sed magis credens et cedens stimulanti conscientiae
+exit, et quaerit ubi solvat quod suo in loco
+[ <hi>al.</hi> solvat vota sua quae], suo utique judicio voverat
+quidem, sed non solverat: sicut non laudo quod
+egreditur, ita ut regrediatur non consulo, si tamen
+ad remotum ignotumque monasterium migraverit.
+Cur ita? Tum propter Pauli sententiam, qua beatum
+manifeste pronuntiat, qui se ipsum non judicat in
+eo quod probat <note>(Rom. XIV, 22)</note>: tum ex nostri auctoritate
+magistri, qui talem et suscipi jubet, et retineri;
+inventum quoque bonum et utilem suasione
+allici, professione ligari. « Denique suadeatur, » 
+<pb n="0887D"/>
+inquit,  « ut stet <note>(Reg. S. Benedicti, cap. 61)</note>. »  Et ne
+forte prioris sui monasterii memor, remordente, ut
+assolet, conscientia, incipiat denuo de rupta stabilitate
+causari; generalem super hujusmodi
+scrupulo consolatoriam profert sententiam, dicens: <hi>Ubique enim uni Deo servitur, uni Regi militatur.</hi> 
+<pb n="0888A"/>
+Porro de vicino prohibet, quod jubet de peregrino:
+ne vicinitas inter monasteria fomes scandali, rixae
+materia sit, si alterutrum recipere monachos acquieverint
+absque mutuo duntaxat assensu. Quod toties
+equidem experimur, quoties talis uspiam monachorum
+susceptio plane non nisi contra decretum
+regulare praesumitur. <emph>520</emph>
+</p>
+          </div3>
+<div3>
+            <head>50.</head>
+            <p>
+ Quod si etiam post haec fratris ita regulariter
+suscepti inquietiorem forte animum pulsaverit
+recordatio scandali, quod discedens fratribus,
+quos deseruit, fecit; et quia oporteat emendari suo
+reditu quod ex discessu deliquerit: prudenter advertat
+qui hoc cogitat, scandalum scandalo non
+bene emendari. Qualis denique emendatio erit, si
+ut aliis scandalum tollas, alios scandalizas? Quanquam
+<pb n="0888B"/>
+profecto et tolerabilius scandalum illud sit,
+et venialius, quod factum est intentione proficiendi
+in melius, quam quod facere cogitas ad deterius
+apostatando. Sed et ante quoque, licet non sine
+scandalo, tutius tuam sine dubio ad id quod putasti
+melius, secutus es conscientiam, quam si in priori
+bono et loco contra conscientiam permaneres, quanquam
+secure id posses: si sane hinc eamdem tuam
+ipsius conscientiam reddere securam posses.</p>
+          </div3>
+<div3>
+            <head>51.</head>
+            <p>
+ Quapropter quod de manducante, et non
+manducante decernit Apostolus <note>(Rom. XIV, 3)</note>, usurpemus
+et nos in nostrae hujus disputatiunculae conclusione,
+ut et qui propria impellente conscientia
+suum deserit locum, ne suum (quod putat) deserat
+votum; non deserentem non spernat: et qui secura
+<pb n="0888C"/>
+conscientia fraternum scandalum timens, fratres
+non deserit; deserentem non judicet. Et de his me
+accipite sane quod sentio respondisse, sine praejudicio
+sanius sentientis.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII. <hi>Ad dubia quaedam ex Patribus proposita respondet.</hi> </head>
+<div3>
+            <head>52.</head>
+            <p>
+ Item postulatis absolvi vobis, cur vel beatus
+Gregorius nescio quem Venantium, habitum monachalem,
+quem pie susceperat, impieque rejecerat,
+non solum resumere non coegit, sed etiam omnem
+legitur indulsisse communionem apostatae perduranti <note>(Lib. I, epist. 33; lib. IX, epist. 25, 31)</note>,
+vel
+sanctus Augustinus conjugii legi votum quodammodo
+subjiciat continentiae; ita ut in libro de Virginitate
+<pb n="0888D"/>
+asserere videatur, nec caelibis quidem vitae
+propositum copulae posse praescribere conjugali,
+quominus indissolubile maneat, etiam quod a continentibus,
+fallente diabolo, fracto sanctitatis voto,
+initum fuerit matrimonium. Et ad haec nihil
+ad praesens certius breviusque respondendum occurrit,
+<pb n="0889A"/>
+nisi quod ita sancti antistites sapuerunt: rectene?
+ipsi viderint. Nam ego in sensibus actibusque illustrium
+Patrum cautus profecto sum omnino non
+aliud aestimare, quam quod beato Apostolo teste
+quaeritur jam inter dispensatores, ut videlicet fidelis
+quis inveniatur <note>(I Cor. IV, 2)</note>. Certus sum enim, sive
+in suo abundaverint sensu, sive in Dei spiritu; sicut
+et in caeteris, ita et in his ambos exstitisse fideles,
+illum in dispensando quod prae manibus erat, istum
+in scribendo quod senserat.</p>
+          </div3>
+<div3>
+            <head>53.</head>
+            <p>
+ Quod denique quaeritis de quibusdam episcopis,
+quos sanctus idem papa Gregorius ad tempus
+in monasteriis pro eorum excessibus legitur reclusisse,
+utrumnam in suo, an in monastico interim
+habitu habitarint cum monachis: ego nescio, nisi
+<pb n="0889B"/>
+quod credibilius videtur, nequaquam illos insignem
+religionis habitum suscepisse, quem non erant perpetuo
+habituri; sed tantum quaesisse quietem in secretis
+monasteriorum, et opportunitatem poenitentiae.</p>
+          </div3>
+<div3>
+            <head>54.</head>
+            <p>
+ Audire et hoc vultis a me, unde inter caetera
+poenitentiae instituta monasterialis disciplina meruerit
+hanc praerogativam, ut secundum baptisma
+nuncupetur Arbitror ob perfectam mundi
+abrenuntiationem, ac singularem excellentiam vitae
+spiritualis, qua praeeminens <emph>521</emph> universis vitae
+humanae generibus hujuscemodi conversatio, professores
+et amatores suos Angelis similes, dissimiles
+hominibus facit; imo divinam in homine reformat
+imaginem, configurans nos Christo instar Baptismi.
+Et quasi denique secundo baptizamur, dum per hoc
+<pb n="0889C"/>
+quod mortificamus membra nostra quae sunt super
+terram, rursum Christum induimus, complantati
+denuo similitudini mortis ejus. Sed et quomodo in
+Baptismo eruimur de potestate tenebrarum, et in
+regnum transferimur claritatis aeternae: ita et in
+sancti hujus secunda quadam regeneratione propositi,
+de tenebris aeque, non unius originalis, sed multorum
+actualium delictorum, in lumen virtutum evadimus,
+<pb n="0890A"/>
+reaptantes nobis illud Apostoli: <hi>Nox praecessit,
+dies autem appropinquavit <note>(Rom. XIII, 12)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XVIII. <hi>Morte abbatis non licere professis mutare locum.</hi> </head>
+<div3>
+            <head>55.</head>
+            <p>
+ Id quoque vobis insinuari precamini, an abbatis
+mutatio monasterium suum mutare volentibus
+monachis in aliquo patrocinetur; hoc est, si in
+morte vel depositione praelati plus aliquid libertatis
+subditis relaxetur, quo utique licentius possint eo
+articulo temporis migrare quo voluerint, altero
+necdum videlicet substituto. Ad quod respondeo:
+Nequaquam. Etenim sponsio professionis quando ex
+more fit in oratorio, de abbatis vita non sumit terminum,
+sed de praesentia testimonium. Profitenti
+<pb n="0890B"/>
+itaque modus sit sua vita, non aliena. Attendat denique
+quid inde Legislator ipse non solum senserit,
+sed et tradiderit, ut  « si quando, »  inquit,  « aliter
+fecerit, »  videlicet quam promittit,  « a Deo se sciat
+damnandum quem irridet <note>(Reg. S. Benedicti, cap.
+58)</note>. »  Item dicit, quod nec sui jam corporis Novitius
+habiturus sit potestatem; et item,  « Perseverantes, » 
+ait,  « in monasterio usque ad mortem <note>(Ibid. in Prologo)</note>.
+»  Salvis igitur exceptionibus, quas
+superior disputatio perstrinxit, de caetero nulla
+liceat occasione monacho locum, cui professus est,
+citra suam mortem deserere; suo duntaxat arbitrio.
+Alioquin praevaricator est, damnationem habens
+quia primam fidem irritam facit.</p>
+          </div3>
+<div3>
+            <head>56.</head>
+            <p>
+ Sed vos pergitis amplius sciscitari, et dicitis:
+<pb n="0890C"/>
+Quid si non potest nisi cum rancore perpetuo animi,
+ibidem manere, ob minus videlicet regularem, minusve
+amabilem abbatis electionem? Subit animo
+nunc illud de Evangelio, quod de conjugii lege docenti
+discipuli Domino responderunt: <hi>Si ita est</hi> 
+inquiunt, <hi>non expedit nubere <note>(Matth. XIX, 10)</note>
+            </hi>. Magnae
+revera angustiae. Si tenuerit exosam, nihil onerosius:
+si dimiserit invitam, nihil inchristianius. Annon
+<pb n="0891A"/>
+simili necessitate constringitur qui nec deserere valet
+locum, ne frangat votum; nec manere in loco,
+ne cum rancore vivat, et vitam perdat? Quid consulam
+huic? Ut discedat? Non licet propter professionem.
+Ut stet? Propter rancorem non expedit. Duo
+mihi aeque inconvenientia, aeque periculosa proponitis,
+ut quidquid respondero, vobis minime prosit.
+Quaeritis nempe qui de duobus monacho tutius sit, residere
+in proprio monasterio sub irregulariter electo
+cum rancore, an ad quietius vivendum alio migrare.
+Quod quidem haud secus accipio, quam si requiratis,
+quanam morte perire consulam eum qui se
+ipsum forte perimere vult, incendio, an praecipitio.
+Revera namque et uritur qui in odio manet; et qui
+frangit propositum, in praeceps ruit. Sed vos me in
+<pb n="0891B"/>
+hac difficultate consilii facile expeditis, cum deinde
+sequimini; et quatenus accipi hoc ipsum velitis
+quod appellatis irregulare, aperiendo subjungitis:
+praesertim si electionis irregularitas adeo involuta
+sit et intorta, ut licet de ea coram Deo non dubitetur,
+coram hominibus tamen, aut vix, aut nullatenus
+convincatur. Venit nunc quoque in mentem Sapientis
+elogium: <hi>Occasionem quaerit, qui</hi> <emph>522</emph> <hi>vult recedere ab amico 
+ <note>(Prov. XVIII, 1)</note>
+            </hi>. Quonam
+modo vos irregularem dicitis electionem, quae
+cassari regulariter non valet aut reprobari? Et quidem
+legitur: Quod probari non potest, mihi infectum
+est. Sed dicitis: Et quis obediat scienter
+indigno, etsi non manifesto? Fratres, nonne legistis
+et in vestra, et in Veritatis regula: <hi>Super cathedram
+<pb n="0891C"/>
+Moysi sederunt Scribae et Pharisaei: quae dicunt,
+facite; secundum opera vero illorum nolite facere <note>(Matth. XXIII, 2, 3; S. Benedicti Reg. cap. 4)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIX <hi>Ad alia quaedam dubia paucis respondet.</hi> </head>
+<div3>
+            <head>57.</head>
+            <p>
+ Jam de mutandis vestibus, vel lavandis ob
+nocturnam illusionem, accipite breve consilium.
+Juxta ritum sui loci quemque facere consulo de hujusmodi,
+quae diversis modis diversis in monasteriis
+certum est observari. De his qui in pluribus
+monasteriis profitentur (quod pene oblitus fueram)
+puto satis esse responsum superius, cum de loci
+stabilitate disputatum est, et non est necesse ut
+repetam. Praetermitto et aliqua de canonibus quae
+<pb n="0891D"/>
+vos requiritis; tum quoniam talium nostra non refert
+qui monachi sumus; tum quia in libris eadem
+ipsi facile reperire potestis, si quaerere non gravemini.</p>
+          </div3>
+<div3>
+            <head>58.</head>
+            <p>
+ Venio ad tria illa, quae in altera vestra rursum
+epistola continentur: ubi primum interrogatis,
+quidnam consulam homini, qui adversus quempiam
+commotus fuerit; sed non adeo ut eum laedere ipse
+velit, adeo tamen ut libenter accipiat, si quo modo
+aliunde laedi contigerit: sitne videlicet tutum ita
+commoto accedere ad altare, an se subtrahere interim
+debeat, donec compescatur commotio. Nunquam
+<pb n="0892A"/>
+mihi contingat turbatum ad pacis accedere sacrificium;
+cum ira et disceptatione contingere Sacramentum,
+in quo Deus indubitanter est mundum
+reconcilians sibi. Certe non recipitur munus quodcunque
+meum, quod defero ad altare, nisi ante
+placato fratre, quem me forte laesisse meminero:
+quanto minus si me ipsum non pacavero prius?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XX. <hi>Binas Pauli sententias in speciem pugnantes conciliat.</hi> </head>
+<div3>
+            <head>59.</head>
+            <p>
+ Quod deinde quaeritis de contrarietate quae
+inesse videtur duabus illis Pauli sententiis, <hi>Conversatio
+nostra in coelis est <note>(Philipp. III, 20)</note>
+            </hi>; et, <hi>Quandiu
+sumus in corpore, peregrinamur a Domino (II
+<pb n="0892B"/>
+Cor. V, 6)</hi>: quomodo videlicet anima eodem tempore
+possit, et in corpore peregrinari a Domino, et in
+coelis simul esse cum Domino; ipse solvit Apostolus,
+cum alibi dicit, <hi>Ex parte cognoscimus, et ex parte
+prophetamus.</hi> In quantum quippe cognoscimus, tanquam
+praesentia contemplantes, jam cum Domino
+sumus. In quantum adhuc tanquam de futuris prophetamus,
+credentes quae non intelligimus, sperantes
+quae non videmus; a Deo peregrinamur, et in corpore. <hi>Cum autem venerit quod perfectum est,</hi> 
+ hoc
+est gloriae plenitudo, quae in resurrectione futura
+est, <hi>tunc evacuabitur quod ex parte est <note>(I Cor.
+XIII, 9, 10)</note>
+            </hi>, corporis videlicet omnis corruptio,
+ex qua sine dubio contingit haec, quae adhuc ex
+parte manet, nostra in corpore peregrinatio. Hoc
+<pb n="0892C"/>
+est quod in se miserabiliter, ingemiscens plangit,
+et ait: <hi>Infelix ego homo, quis me liberabit de corpore
+mortis hujus? <note>(Rom. VII, 24.)</note>
+            </hi> Non queritur de
+corpore tantum, sed corpore mortis hujus, hoc est
+ejus quae adhuc durat corruptionis: monstrans non
+corpus, sed corporis molestias esse causam peregrinationis. <hi>Corpus</hi> 
+ quippe <hi>quod corrumpitur, aggravat
+animam <note>(Sap. IX, 15)</note>
+            </hi>. Non corpus simpliciter,
+sed <hi>corpus quod corrumpitur;</hi> ut corruptio
+corporis oneri sit, non natura. Unde et qui intra semetipsos
+ingemiscunt, redemptionem exspectant
+corporis sui <note>(Rom. VIII, 23)</note>, non amissionem. Merito
+proinde gravati corporis necessitate, non societate,
+cupimus dissolvi, et esse cum Christo <note>(Philipp.
+I, 24)</note>: <emph>523</emph> ut id quod manet ex parte adhuc,
+<pb n="0892D"/>
+exsilium finiatur; et quae ex parte jam coepit, coelestis
+habitatio perficiatur.</p>
+          </div3>
+<div3>
+            <head>60.</head>
+            <p>
+ Aut certe <hi>conversatio nostra in coelis est,</hi> quomodo
+dicit apostolus: <hi>spe enim salvi facti sumus <note>(Rom.
+VIII, 33)</note>
+            </hi>. Spe itaque jam in coelestibus habitamus,
+cum adhuc re ipsa in terris peregrinemur et in corpore.
+Vel aliter: Habemus et unde corpori, et unde
+Domino inhaereamus; illud vivificando et sensificando,
+illum credendo et diligendo. Neque enim
+praesentior spiritus noster est ubi animat, quam ubi
+amat: nisi forte putetur esse magis ubi invitus et
+ex necessitate tenetur, quam quo sponte et alacri,
+<pb n="0893A"/>
+fertur voluntate. Denique ubi est thesaurus tuus
+ibi est et cor tuum <note>(Matth. VI, 21)</note>. Item si Deum
+amans anima ex ipso vivit, uti corpus ex ipsa; quo
+pacto, quaeso, praesentior esse contenditur ubi dat,
+quam unde accipit vitam? Fons siquidem vitae charitas
+est: nec vivere animam dixerim, quae de illo non hauserit.
+Haurire porro quomodo potest, nisi fuerit praesens
+ipsi fonti, qui charitas est, quae Deus est? Praesens
+igitur Deo est qui Deum amat, in quantum amat. In
+quo enim minus amat, absens profecto est. In eo
+autem minus Deum amare convincitur, quod carnis
+adhuc necessitatibus occupatur. Illa vero circa corpus
+occupatio quid est, nisi a Deo quaedam absentatio?
+et absentatio quid, nisi peregrinatio? Et peregrinamur
+ergo a Domino, et in corpore peregrinamur:
+<pb n="0893B"/>
+cujus nostra nimirum et intentio praepeditur
+aerumnis, et curis charitas fatigatur.</p>
+          </div3>
+<div3>
+            <head>61.</head>
+            <p>
+ In fine secundae epistolae interrogatis, quid
+sentiendum arbitrer de eo, quod in Evangelio nobis
+promittitur, <hi>Ecce enim merces vestra multa est in
+coelis: <note>(Luc. VI, 23)</note>
+            </hi> mirantes maxime sanctum
+Augustinum dixisse super hoc, non coelos istos visibiles
+et corporeos oportere intelligi, ne merces nostra
+in rebus mobilibus volubilibusque videatur collocari;
+ideoque spiritualia quaedam firmamenta esse
+intelligenda, de quibus nescitis, ut dicitis, quid vel
+suspicari debeatis. Sed si attenditis quod legistis, <hi>Regnum Dei intra vos est 
+ <note>(Luc. XVII, 21)</note>
+            </hi>; et, <hi>Habitare
+<pb n="0893C"/>
+Christum per fidem in cordibus vestris <note>(Ephes. III, 17)</note>
+            </hi> 
+<pb n="0894A"/>
+tanquam utique regem in regno suo; et, <hi>Non sunt
+condignae passiones hujus temporis ad futuram gloriam
+quae revelabitur in nobis <note>(Rom. VIII, 18)</note>
+            </hi>, non
+quidem quae revelabitur nobis, velut aliquid exterius;
+sed in nobis, quasi intus jam manens, sed nondum,
+apparens: et item, <hi>Omnis gloria ejus filiae regis ab
+intus <note>(Psal. XLIV, 14)</note>
+            </hi>; et, <hi>Ascendet homo ad cor altum <note>(Psal. LXIII, 8)</note>
+            </hi>;
+sed et <hi>ascensiones in corde suo
+disposuit <note>(Psal. LXXXIII, 6)</note>
+            </hi>; rursumque, <hi>Anima justi
+sedes est sapientiae <note>(Sap. VII, sec. LXX)</note>
+            </hi>, cujus sine
+dubio illa vox est, <hi>Coelum mihi sedes est <note>(Isa. LXVI,
+1)</note>
+            </hi>: si haec, inquam, hisque similia non pauca in
+Scripturis advertitis, profecto studebitis ad requirendum
+regnum Dei et justitiam ejus, intrare potius
+ad vos, quam vel extra exire, vel ascendere supra.
+<pb n="0894B"/>
+Sed supra sane, vel extra dixerim loci positione,
+sicut coelum a terra locum tenet exteriorem; sol,
+luna, et sidera superiorem. Nam eadem ipsa, quae
+intra nos sunt subtiliori suae naturae invisibilitate,
+etiam supra nos sunt sublimiori excellentiae dignitate,
+et extra quoque immensitate majestatis. Sed
+altissima sunt haec, egentia utique et diligentiori
+disputatione, et doctiori disputatore, et opere prolixiori.
+Ego enim putaveram modum in his tractandis
+epistolarum nequaquam excessum iri: sed sermo,
+ut video, processit in longius quam speravi. Proinde
+vos, si placet, Librum: si placet, Epistolam nominate;
+nam ego sive in paucis, sive in multis, vestrae debui
+<pb n="0894C"/>
+(quod et studui) satisfacere voluntati.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>
