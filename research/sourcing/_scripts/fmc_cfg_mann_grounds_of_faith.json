@@ -1,0 +1,50 @@
+{
+ "id": "manning-grounds-of-faith",
+ "dir": "manning-opera-omnia/grounds-of-faith",
+ "slug": "grounds-of-faith",
+ "work": "manning/grounds-of-faith",
+ "name": "The Grounds of Faith",
+ "name_pt": "Os Fundamentos da F\u00e9",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "The Grounds of Faith (1852): four lectures delivered at St. George's, Southwark, on the foundation of Christian faith: revealed truth definite and certain, the Church as a historical witness and as a divine witness, and rationalism as the legitimate consequence of private judgment.",
+ "desc_pt": "Os Fundamentos da F\u00e9 (1852): quatro confer\u00eancias pronunciadas em St. George, Southwark, sobre o fundamento da f\u00e9 crist\u00e3: a verdade revelada, definida e certa, a Igreja como testemunha hist\u00f3rica e como testemunha divina, e o racionalismo como consequ\u00eancia leg\u00edtima do livre ex\u00e1me.",
+ "composed": 1852,
+ "editor": "Henry Edward Manning (London: Burns and Lambert, 1852)",
+ "year": 1852,
+ "url": "https://archive.org/details/a591675000mannuoft",
+ "edition": "The Grounds of Faith (London: Burns and Lambert, 1852), Internet Archive full-text OCR.",
+ "srcnote": "The four lectures; the contents and the publisher's list of books are dropped.",
+ "src": "manning/ia/a591675000mannuoft_djvu.txt",
+ "start": 63,
+ "end": 3616,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "lecture-1",
+   "title": "Lecture I. Revealed Truth Definite and Certain",
+   "from": 63
+  },
+  {
+   "id": "lecture-2",
+   "title": "Lecture II. The Church a Historical Witness",
+   "from": 852
+  },
+  {
+   "id": "lecture-3",
+   "title": "Lecture III. The Church a Divine Witness",
+   "from": 1485
+  },
+  {
+   "id": "lecture-4",
+   "title": "Lecture IV. Rationalism the Legitimate Consequence of Private Judgment",
+   "from": 2406
+  }
+ ]
+}

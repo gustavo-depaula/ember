@@ -1,0 +1,63 @@
+{
+  "id": "manning-grounds-of-faith",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Grounds of Faith",
+    "pt-BR": "Os Fundamentos da Fé"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "The Grounds of Faith (1852): four lectures delivered at St. George's, Southwark, on the foundation of Christian faith: revealed truth definite and certain, the Church as a historical witness and as a divine witness, and rationalism as the legitimate consequence of private judgment.",
+    "pt-BR": "Os Fundamentos da Fé (1852): quatro conferências pronunciadas em St. George, Southwark, sobre o fundamento da fé cristã: a verdade revelada, definida e certa, a Igreja como testemunha histórica e como testemunha divina, e o racionalismo como consequência legítima do livre exáme."
+  },
+  "composed": 1852,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/grounds-of-faith",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns and Lambert, 1852)",
+      "year": 1852
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a591675000mannuoft",
+      "edition": "The Grounds of Faith (London: Burns and Lambert, 1852), Internet Archive full-text OCR.",
+      "description": "The four lectures; the contents and the publisher's list of books are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1852, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lecture-1",
+      "title": {
+        "en-US": "Lecture I. Revealed Truth Definite and Certain"
+      }
+    },
+    {
+      "id": "lecture-2",
+      "title": {
+        "en-US": "Lecture II. The Church a Historical Witness"
+      }
+    },
+    {
+      "id": "lecture-3",
+      "title": {
+        "en-US": "Lecture III. The Church a Divine Witness"
+      }
+    },
+    {
+      "id": "lecture-4",
+      "title": {
+        "en-US": "Lecture IV. Rationalism the Legitimate Consequence of Private Judgment"
+      }
+    }
+  ]
+}
