@@ -1,0 +1,352 @@
+{
+  "id": "eudes-kenedy-the-priest",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Priest: His Dignity and Obligations",
+    "pt-BR": "O sacerdote: sua dignidade e obrigações"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "en-US": "The 1947 English selection from the Memorial of the Ecclesiastical Life, the Apostolic Preacher and the Good Confessor, translated by W. Leo Murphy, in seven parts.",
+    "pt-BR": "A seleção inglesa de 1947 do Memorial da vida eclesiástica, do Pregador apostólico e do Bom Confessor, em sete partes."
+  },
+  "composed": 1947,
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-eudes/the-priest",
+  "editions": {
+    "en-US": {
+      "translator": "W. Leo Murphy",
+      "year": 1947
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.liberius.net/livres/The_Priest:_his_dignity_and_obligations_000000375.pdf",
+      "edition": "The Priest: His Dignity and Obligations, translated by W. Leo Murphy, New York, P. J. Kenedy & Sons, 1947. Text layer of the Bibliothèque Saint Libère PDF (liberius.net), from the Eudist Fathers series, 1946–48.",
+      "description": "Converted by script: running heads and page numbers removed, paragraphs rejoined, hyphenation repaired. The OCR of the PDF text layer leaves some residual errors (for example 0 for O, rn for m); the translator’s introduction and notes are kept. The translation is not aligned chapter by chapter to the French edition, so it is a separate book.",
+      "tier": "B",
+      "tierEvidence": "Copyright 1946–48 P. J. Kenedy & Sons; no renewal in the Copyright Office records 1950–2001."
+    }
+  ],
+  "toc": [
+    {
+      "id": "pr-01",
+      "title": {
+        "en-US": "Part I: A Memorial"
+      }
+    },
+    {
+      "id": "pr-02",
+      "title": {
+        "en-US": "Part I: A Memorial of the Ecclesiastical Life'"
+      }
+    },
+    {
+      "id": "pr-03",
+      "title": {
+        "en-US": "Part I, Chapter 1( 2 ): The Dignity of the Priesthood( 3 )"
+      }
+    },
+    {
+      "id": "pr-04",
+      "title": {
+        "en-US": "Part I, Chapter 11: Qualities of a Holy Priest"
+      }
+    },
+    {
+      "id": "pr-05",
+      "title": {
+        "en-US": "Part I, Chapter III: Duties of the Priestly State"
+      }
+    },
+    {
+      "id": "pr-06",
+      "title": {
+        "en-US": "Part I, Chapter IV: The Spiritual Life of the Priest (1): I. Morning Exercise (1)"
+      }
+    },
+    {
+      "id": "pr-07",
+      "title": {
+        "en-US": "Part I, Chapter IV: The Spiritual Life of the Priest (1): I. Morning Exercise (2)"
+      }
+    },
+    {
+      "id": "pr-08",
+      "title": {
+        "en-US": "Part I, Chapter V: 1. General Dispositions for the Administration of the: Sacraments (1)"
+      }
+    },
+    {
+      "id": "pr-09",
+      "title": {
+        "en-US": "Part I, Chapter V: 1. General Dispositions for the Administration of the: Sacraments (2)"
+      }
+    },
+    {
+      "id": "pr-10",
+      "title": {
+        "en-US": "Part I, Chapter V: 1. General Dispositions for the Administration of the: Sacraments (3)"
+      }
+    },
+    {
+      "id": "pr-11",
+      "title": {
+        "en-US": "Part I, Chapter VI: The Annual Retreat"
+      }
+    },
+    {
+      "id": "pr-12",
+      "title": {
+        "en-US": "Part 11: The Apostolic Preacher( 1 )"
+      }
+    },
+    {
+      "id": "pr-13",
+      "title": {
+        "en-US": "Part II: The Apostolic Preacher'"
+      }
+    },
+    {
+      "id": "pr-14",
+      "title": {
+        "en-US": "Part II, Chapter I: Excellence and Importance of: The Office of Preaching"
+      }
+    },
+    {
+      "id": "pr-15",
+      "title": {
+        "en-US": "Part II, Chapter 2: Interior Dispositions for Preaching"
+      }
+    },
+    {
+      "id": "pr-16",
+      "title": {
+        "en-US": "Part II, Chapter III: Edification and Example to be: Given by Preachers"
+      }
+    },
+    {
+      "id": "pr-17",
+      "title": {
+        "en-US": "Part II, Chapter IV (*): Books for Sermon Material"
+      }
+    },
+    {
+      "id": "pr-18",
+      "title": {
+        "en-US": "Part II, Chapter V: Sermon Topics"
+      }
+    },
+    {
+      "id": "pr-19",
+      "title": {
+        "en-US": "Part II, Chapter VI: Further Suggestions on Sermon Topics"
+      }
+    },
+    {
+      "id": "pr-20",
+      "title": {
+        "en-US": "Part II, Chapter VII: Sermon Plans: 1 The Mysteries of Religion"
+      }
+    },
+    {
+      "id": "pr-21",
+      "title": {
+        "en-US": "Part II, Chapter VIII(*): Composition of the Sermon"
+      }
+    },
+    {
+      "id": "pr-22",
+      "title": {
+        "en-US": "Part II, Chapter IX(*): Delivery of the Sermon"
+      }
+    },
+    {
+      "id": "pr-23",
+      "title": {
+        "en-US": "Part II, Chapter X"
+      }
+    },
+    {
+      "id": "pr-24",
+      "title": {
+        "en-US": "Part II, Chapter XI (*): Further Advice to Preachers"
+      }
+    },
+    {
+      "id": "pr-25",
+      "title": {
+        "en-US": "Part II, Chapter XII: Touching the Hearts of the Faithful"
+      }
+    },
+    {
+      "id": "pr-26",
+      "title": {
+        "en-US": "Part II, Chapter XIV: The Teaching of Catechism"
+      }
+    },
+    {
+      "id": "pr-27",
+      "title": {
+        "en-US": "Part III: The Good Confessor"
+      }
+    },
+    {
+      "id": "pr-28",
+      "title": {
+        "en-US": "Part 111: The Good Confessor(1)"
+      }
+    },
+    {
+      "id": "pr-29",
+      "title": {
+        "en-US": "Part 111, Chapter I: Excellence and Importance of the Office: Of Confessor"
+      }
+    },
+    {
+      "id": "pr-30",
+      "title": {
+        "en-US": "Part 111, Chapter II (1)"
+      }
+    },
+    {
+      "id": "pr-31",
+      "title": {
+        "en-US": "Part 111, Chapter II (2)"
+      }
+    },
+    {
+      "id": "pr-32",
+      "title": {
+        "en-US": "Part 111, Chapter III(*): Science of the Confessor"
+      }
+    },
+    {
+      "id": "pr-33",
+      "title": {
+        "en-US": "Part 111, Chapter IV(*): Charity of the Confessor"
+      }
+    },
+    {
+      "id": "pr-34",
+      "title": {
+        "en-US": "Part 111, Chapter V: Prudence of the Confessor"
+      }
+    },
+    {
+      "id": "pr-35",
+      "title": {
+        "en-US": "Part 111, Chapter VI: Piety of the Confessor"
+      }
+    },
+    {
+      "id": "pr-36",
+      "title": {
+        "en-US": "Part 111, Chapter V11(1): Fidelity to the Secrecy of Confession"
+      }
+    },
+    {
+      "id": "pr-37",
+      "title": {
+        "en-US": "Part 111, Chapter VIII: Seven Points to be Observed by Confessors"
+      }
+    },
+    {
+      "id": "pr-38",
+      "title": {
+        "en-US": "Part 111, Chapter IX: Further Advice to Confessors"
+      }
+    },
+    {
+      "id": "pr-39",
+      "title": {
+        "en-US": "Part 111, Chapter X (*): An Effective Way to Convert Sinners"
+      }
+    },
+    {
+      "id": "pr-40",
+      "title": {
+        "en-US": "Part IV: Meditations"
+      }
+    },
+    {
+      "id": "pr-41",
+      "title": {
+        "en-US": "Part IV: Meditations on the Priestly Obligations': First Meditation (1)"
+      }
+    },
+    {
+      "id": "pr-42",
+      "title": {
+        "en-US": "Part IV: Meditations on the Priestly Obligations': First Meditation (2)"
+      }
+    },
+    {
+      "id": "pr-43",
+      "title": {
+        "en-US": "Part IV: Meditations on the Priestly Obligations': First Meditation (3)"
+      }
+    },
+    {
+      "id": "pr-44",
+      "title": {
+        "en-US": "Part V: Meditations on: Tonsure and Holy Orders"
+      }
+    },
+    {
+      "id": "pr-45",
+      "title": {
+        "en-US": "Part V: Meditations on Tonsure and Holy Orders(1) (1)"
+      }
+    },
+    {
+      "id": "pr-46",
+      "title": {
+        "en-US": "Part V: Meditations on Tonsure and Holy Orders(1) (2)"
+      }
+    },
+    {
+      "id": "pr-47",
+      "title": {
+        "en-US": "Part VI: Meditations"
+      }
+    },
+    {
+      "id": "pr-48",
+      "title": {
+        "en-US": "Part VI: Meditations for the Annual Retreat((1): First Meditation (1)"
+      }
+    },
+    {
+      "id": "pr-49",
+      "title": {
+        "en-US": "Part VI: Meditations for the Annual Retreat((1): First Meditation (2)"
+      }
+    },
+    {
+      "id": "pr-50",
+      "title": {
+        "en-US": "Part VII: Mass and Office (1)"
+      }
+    },
+    {
+      "id": "pr-51",
+      "title": {
+        "en-US": "Part VII: Mass and Office (2)"
+      }
+    },
+    {
+      "id": "pr-52",
+      "title": {
+        "en-US": "Part VII: Mass and Office (3)"
+      }
+    }
+  ]
+}
