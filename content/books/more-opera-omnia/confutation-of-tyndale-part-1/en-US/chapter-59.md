@@ -1,0 +1,3 @@
+# More
+
+As for the munkes of the charterhouse, wolde god we were no ferther from very vertuouse deuocyon, then those good men be from vnlawfull superstycyon / amonge whom god be thanked we se many lyue to very greate age, and neuer herde I yet that any dyed for lacke of eatynge flesshe / & yet herde[…] I neuer that any of them haue eaten any, sauyng some suche as haue comen from theyr cloysters in to Luthers chyrche / as Otho dyd in Almayne, whyche ronne out of the charter house and lefte fysshe and fell to flesshe all togyder, and toke a wyfe for sobrenesse and chastysynge of his monkely membres as Tyndale speketh.

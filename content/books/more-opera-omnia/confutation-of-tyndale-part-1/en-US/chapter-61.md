@@ -1,0 +1,9 @@
+# More
+
+Tyndale I thynke hath not knowē many kepe the holy day so strayte / y• wolde feare to kyll a flee as it pleaseth hym to ieste. But yet[…] a[…] I leuer y• men […]old kepe it so strayt as he speketh / thei[…] kepe it so losely as they do. But they y• kepe i[…] […]o losely / be neyth[…]r afe[…]d I warr[…]t you to kyll a fle nor to do […]rs neyther. And who so euer wold kepe it so strayt, as […] of a[…]e in hys bed: wolde kepe it bett[…]r then do the […] of Luthers c[…]che, that let not on the holy […] to […] to […]. For as for herynge of goddys worde, in many places in Almayne among theyr holy sectys, where they were in the begynnyng wonderfull hote vppon sermons: they be now blessed by god waxen colde inough.
+
+Fyrst in many places they sange the seruyce in theyr mother tonge, men and women and all / and that was a prety sporte for them for a whyle. But after a lytell vse therof, the pleasure of the neweltye passed, and they set somwhat lesse therby then by a thre mannes songe. They chaunged also the masse / and sone after that many cast it vp cle[…]e.
+
+Then was all theyr luste layed vppon prechynge, specyally bycause euery man myghte preche that wolde / sayenge that they folowed the counsayle of saynt Paule / whyle one wolde byd the precher holde hys peace a[…] let hym speke a nother whyle,[^1] affyrmynge that the spyry[…] […] reucled hym the right sense, and that the precher lyed. […] […]s turned they sermons in brawlynges, so that somtyme t[…]e people parted them from poyntynge theyr prechynges wyth syste[…] But now as I here saye that maner is well amended / th[…]an suffer one to preche as longe as it please hym, and no man ones interrupte hym / for they be there waxe[…] womē and all so cunnynge, that scantly come any to here hym. And thus doeth Tyndales chyrche and Luthers syt at home in theyr stewys in honour of theyr holy daye.
+
+[^1]: 1. Ceri. 14

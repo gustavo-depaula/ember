@@ -1,0 +1,21 @@
+{
+ "id": "more-confutation-of-tyndale-part-1",
+ "dir": "more-opera-omnia/confutation-of-tyndale-part-1",
+ "slug": "confutation-of-tyndale-part-1",
+ "work": "more/confutation-of-tyndale-part-1",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A07693.xml",
+ "name": "The Confutation of Tyndale's Answer, Part I",
+ "name_pt": "A Refutação da Resposta de Tyndale, Parte I",
+ "desc": "The first part of More's longest work (1532): a point-by-point reply to William Tyndale's Answer to More's Dialogue, on the Church, the sacraments, images, saints and the Scriptures.",
+ "desc_pt": "A primeira parte da maior obra de More (1532): resposta ponto a ponto à Resposta de William Tyndale ao Diálogo, sobre a Igreja, os sacramentos, as imagens, os santos e as Escrituras.",
+ "composed": 1532,
+ "editor": "Thomas More (London: William Rastell, 1532)",
+ "year": 1532,
+ "url": "https://github.com/textcreationpartnership/A07693",
+ "edition": "The co[n]futacyon of Tyndales answere (London: 1532), EEBO-TCP A07693.",
+ "front": true,
+ "parts": true
+}

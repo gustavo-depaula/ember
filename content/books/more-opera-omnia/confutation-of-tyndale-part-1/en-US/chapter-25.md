@@ -1,0 +1,3 @@
+# Tyndale
+
+Matrimonye (sayth he) was or[…]eyned of god for an of[…]yce, wherin the husbande serueth the wyffe, and the wyfe the husbande. It is ordeyned for a remedye and to encreace the world, and not to sygnyfye any promyse that euer I herd or redde of in the scripture It hath a promyse that we synne not in that state, yf a man take his wyfe as goddys gyfte, and the woman her husbande lykewyse / as all manner of […]eate hath a promyse that we synne not yf we vse them mesurably wyth thankes to god. If they call matrymonye a sacrament, bycause the scrypture vseth the symylytude of matrimonye, to expresse the maryage or wedloke that is bytwene vs and Cryste: so wyll I make a sacrament of mus[…]erd seed, leuen, a nette, kayes, brede, water, and a thousande other thynges.

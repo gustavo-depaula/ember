@@ -1,0 +1,19 @@
+# More
+
+what may not such a man be bolde to saye that is not a shamed to lye so shamefully? for he knoweth yt all ye readers well know that he lyeth when they rede yt / and yet he is not ashamed to wryt yt. what man wolde be so folysh to thynke that he hath done ynough for god?
+
+yet layeth he a nother incommodyte that the infydelys wyll mokke vs and abhorre vs, in that they se nothyng but suche apes playe amonge vs, whereof no man can geue a reason.
+
+Lo what an hygh reason hath Tyndale here foūde out, y• such holy ceremonyes wherof Crystes chyrch hath receyued many, by the blessed apostles them selfe, & from theyr dayes vsed euer hytherto, as apperyth by the wrytyng of holy doctours far aboue a thousand yere a go / we muste now geue ouer, for fere left infideles as Turkes and Saracens wold lerne of Tyndale to mokke vs for them / because we can not tell them a good reason for eche of them. Be ye sure this ys a ryght solemne reason / and Luther in dede maketh a mych lyke, so that ye may se that they haue wayed it well bytwene them, or ellys Tyndale wolde not after so longe a laysour alledge yt agayne so solemnely.
+
+But now wold I wyt of wyse. Tyndale whyther yf men could and dyd gyue a good reason vnto Iewes Turkes & Saracens and Paynyms / as for ensample such causes as Tyndale telleth some for great hydde mysteryes that no mā could tell but he, whych he set out late of a good frerys boke called Rationale diuinorum/shewyng what sygnyfyeth the albe, the amys, and stole, and so forth: wold the[…] all the Iewes, Turkes, Saracens, and other infydelys hold them selfe satisfyed & mokke no more? yf they so wolde / thē were they all mych lesse infydeles thē Tyndale is / for he hath sought out such thynges, and yet mokketh styll. How be yt that is lytle meruayle. For in dede he bryngeth all such thynges forthe but for to make mokkes at them.
+
+But then wold I wyt of wyse Tyndale farther, whyther yf all these infydeles that he speketh of, as Iewes, Turkes, and Saracens were present at the masse / and no such ceremonye at all vsed thereat, but onely knelynge, knokkynge on brestes, and holdyng vp of hādes at the syght, leuacyon, and receyuynge of that blessed sacrament / and that thereuppon merueylynge on the manner therof, they were tolde the very trouth that the cause of all this reuerent behauour, is bycause that there vnder that forme of brede and wyne is the very blessed body and blood of oure sauyour hym selfe, the same yt hynge vppon the crosse when he suffred his passyon for our redempcyon: wold those infydeles then holde them selfe all content, and neuer mokke at yt more? Naye will none of them besyde the blessed sacrament mokke at all the hole mater, both at the incarnacyon, deth, resurreccyon and all?.
+
+Lo thus ye se good crystē readers, that by Tyndales reason we must caste of clene all our hole fayth / leste such infydelys as hym selfe is, shold make mokkes there at as he doth. what crystē eares can abyde such blasphemouse foly?
+
+yet wolde some vnwyse man wene peraduenture, that Tyndale dothe for all this not meane any thynge agaynste these holy ceremonyes of the masse / but onely mokketh the preest bycause he speketh not all the secretes of the masse a lowde / and also bycause he teacheth not all y• paryshe what all those cerymonyes meane.
+
+Surely there nedeth no man to dowte, but he that can fynd in his herte to make such mokkes vppon the deuoute obseruaunces vsed so many hundred yeres about the masse / hath a lewde bestely mynde agaynste the very sacrament yt selfe.
+
+But yet to thende that euery man may se yt the more clerely: ye shall perceyue by his owne wordes that accordyng to Luthers bablynge in his boke of Babilonica / Tyndale teacheth playnely that the blessed sacrament is in the masse no sacryfyce, none hoste, nor none oblacyon / by whych abomynable herefye he taketh […]uyte a way the very speciall profet and frute of all the masse. These be his very wordes:

@@ -1,0 +1,633 @@
+{
+  "id": "more-confutation-of-tyndale-part-1",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Confutation of Tyndale's Answer, Part I",
+    "pt-BR": "A Refutação da Resposta de Tyndale, Parte I"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "The first part of More's longest work (1532): a point-by-point reply to William Tyndale's Answer to More's Dialogue, on the Church, the sacraments, images, saints and the Scriptures.",
+    "pt-BR": "A primeira parte da maior obra de More (1532): resposta ponto a ponto à Resposta de William Tyndale ao Diálogo, sobre a Igreja, os sacramentos, as imagens, os santos e as Escrituras."
+  },
+  "composed": 1532,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/confutation-of-tyndale-part-1",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More (London: William Rastell, 1532)",
+      "year": 1532
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A07693",
+      "edition": "The co[n]futacyon of Tyndales answere (London: 1532), EEBO-TCP A07693.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 2123 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1532 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "The preface to the crysten reader"
+      }
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "The preface of Tyndall, wyth th • answere vnto the same"
+      },
+      "children": [
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Tyndall"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Tyndall"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Tyndall"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Tyndall"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "Tyndall"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-20",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-21",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-22",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-23",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-24",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-25",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-26",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-27",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-28",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-29",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-30",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-31",
+          "title": {
+            "en-US": "Tyndall"
+          }
+        },
+        {
+          "id": "chapter-32",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-33",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-34",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-35",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-36",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-37",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-38",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-39",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-40",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-41",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-42",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-43",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-44",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-45",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-46",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-47",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-48",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-49",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-50",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-51",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-52",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-53",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-54",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-55",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-56",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-57",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-58",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-59",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-60",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-61",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-62",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-63",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-64",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-65",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-66",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-67",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-68",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-69",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-70",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-71",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-72",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-73",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-74",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-75",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-76",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-77",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-78",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-79",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-80",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-81",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-82",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-83",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-84",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-85",
+          "title": {
+            "en-US": "More"
+          }
+        },
+        {
+          "id": "chapter-86",
+          "title": {
+            "en-US": "Tyndale"
+          }
+        },
+        {
+          "id": "chapter-87",
+          "title": {
+            "en-US": "More"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "The seconde boke whych confuteth the defence of Tyndale for his translacyon of the new testament"
+      },
+      "children": [
+        {
+          "id": "chapter-88",
+          "title": {
+            "en-US": "An answere vnto the fyrst chapyter of Tyndales boke, why he trāslateth this worde chyrche in to this worde co"
+          }
+        },
+        {
+          "id": "chapter-89",
+          "title": {
+            "en-US": "The secunde chapyter why Tyndale vsed congregacyon for chyrche •"
+          }
+        },
+        {
+          "id": "chapter-90",
+          "title": {
+            "en-US": "Agaynste Tyndales vsynge this worde senior and elder, and not preste"
+          }
+        },
+        {
+          "id": "chapter-91",
+          "title": {
+            "en-US": "Agaynste Tyndales translatynge of charitas in to loue rather then into cheryte"
+          }
+        },
+        {
+          "id": "chapter-92",
+          "title": {
+            "en-US": "Agaynste 〈…〉 fauour in stede of grace"
+          }
+        },
+        {
+          "id": "chapter-93",
+          "title": {
+            "en-US": "〈◊〉 Tyndales chaungynge of confessyon in to knowlege, & penauns into repentauns"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": {
+        "en-US": "The thyrde boke, Here after foloweth the thyrde boke, in whyche be treated two chapyters of Tyndales boke / th"
+      },
+      "children": [
+        {
+          "id": "chapter-94",
+          "title": {
+            "en-US": "whether the chyrche were before the gospell, or the gospell before the chyrche"
+          }
+        },
+        {
+          "id": "chapter-95",
+          "title": {
+            "en-US": "whyther the apostles left aught vnwriten, that is of necessyte to be byleued"
+          }
+        }
+      ]
+    }
+  ]
+}

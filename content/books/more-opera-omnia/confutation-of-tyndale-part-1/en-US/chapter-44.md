@@ -1,0 +1,3 @@
+# Tyndale
+
+There is a worde called […]n latyne […]cerdos, in greke hiere[…]s, in hebrue coha[…]/that is a mynyster, an offycer, a sacryfycer, or a preste / as A[…]on was a preest and sacryfyced, for the peple, and was a mediatour be[…]wene god and thē / and […] the englyshe shuld yt haue had some other name then preest. But Antecrist[…] hath deceyued vs wyth vnknowen and straunge termes, to brynge vs in to confusyon and superstycyous blyndnes. Of that maner is Criste a preest for eu[…]r, and all we prestes thorow hym / and nede no more of any such preest on erth to be a meane for vs vnto god.

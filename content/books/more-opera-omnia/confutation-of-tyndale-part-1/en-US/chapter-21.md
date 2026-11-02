@@ -1,0 +1,3 @@
+# Tyndale
+
+And so thorow out all la[…]es, and euen lykewyse in all ceremonyes and sacramentes / be sercheth the sygnyfycacyons and wyll not serue the visyble thynges. It is as good to hym that the pres[…]e say masse in his gowne as in his other apparell, yf they teache hym not somewhat, and that his soule be edyfyed therby. And as sone wyll he gape[…]while thou puttest sand as holy salt in his mouth, yf thou shew hym no reason therof / he hadde as seyffe be smered wyth vnhalowed butter as ano[…]nted wyth vncharmed oyle, yf his soule be not tought to vnderstande somewhat at therby and so forth.
