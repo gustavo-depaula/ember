@@ -1,0 +1,126 @@
+{
+  "id": "anselm-de-libertate-arbitrii",
+  "cover": "classic",
+  "name": {
+    "la": "De libertate arbitrii",
+    "en-US": "On Freedom of Choice",
+    "pt-BR": "Sobre a liberdade do arbítrio"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Dialogus de libertate arbitrii: libertas arbitrii est potestas servandi rectitudinem voluntatis propter ipsam rectitudinem. Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "Anselm’s dialogue between teacher and student on free will, defined as the power of keeping the rightness of the will for the sake of that rightness itself, and why the power to sin is no part of it. Latin only, from the Migne text (Patrologia Latina 158, 1853), a machine-corrected OCR.",
+    "pt-BR": "O diálogo de Anselmo entre mestre e discípulo sobre o livre-arbítrio, definido como o poder de conservar a retidão da vontade por causa dessa mesma retidão, e sobre por que o poder de pecar não faz parte dele."
+  },
+  "composed": "c. 1080-1085",
+  "languages": [
+    "la"
+  ],
+  "work": "anselm/de-libertate-arbitrii",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10618",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10618, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. Dialogue turns are set as separate paragraphs. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Quod potestas peccandi non pertineat ad libertatem arbitrii"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Quod tamen angelus et homo peccaverunt per hanc potestatem, et per liberum arbitrium: et quamvis potuerint servire peccato, non tamen eis potuit dominari peccatum"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Quod postquam se fecerunt servos peccati, liberum habuerunt arbitrium: et quid sit liberum arbitrium"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Quomodo potestatem habeant servandi rectitudinem, quam non habent"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Quod nulla tentatio cogat invitum peccare"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Quomodo sit nostra voluntas potens contra tentationes, licet videatur impotens"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Quomodo voluntas fortior sit quam tentatio; etiam cum ab illa vincitur"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Quod nec Deus potest auferre voluntatis rectitudinem"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Quod nihil sit liberius recta voluntate"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Quomodo peccans sit servus peccati; et quod majus miraculum fit, cum Deus reddit rectitudinem illam deserenti, quam cum mortuo reddit vitam"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Quod ista servitus non auferat libertatem arbitrii"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Cur, cum homo non habet rectitudinem, magis dicitur liber; quia, cum habet, non potest ei auferri: quam, cum eam habet, servus; quia, cum non habet, non potest per se eam recuperare"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Quod potestas servandi rectitudinem voluntatis propter ipsam rectitudinem, sit perfecta diffinitio libertatis arbitrii"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Divisio ejusdem libertatis"
+      }
+    }
+  ]
+}
