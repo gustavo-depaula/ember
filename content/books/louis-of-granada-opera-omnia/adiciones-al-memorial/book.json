@@ -1,0 +1,352 @@
+{
+  "id": "granada-adiciones-al-memorial",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Adiciones al Memorial de la vida cristiana",
+    "en-US": "Additions to the Memorial of the Christian Life",
+    "pt-BR": "Adições ao Memorial da vida cristã"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "es-ES": "Adiciones de Fray Luis de Granada al Memorial (1574): el tratado del amor de Dios, con las consideraciones sobre los beneficios y perfecciones divinas, y las Meditaciones muy devotas de la vida de Cristo, de su niñez, pasión y resurrección.",
+    "en-US": "Fray Luis de Granada's additions to the Memorial (1574): the treatise on the love of God, with considerations on the divine benefits and perfections, and the devout Meditations on the life of Christ, from his childhood to the Passion and Resurrection.",
+    "pt-BR": "Adições de Frei Luís de Granada ao Memorial (1574): o tratado do amor de Deus, com considerações sobre os benefícios e perfeições divinas, e as Meditações muito devotas da vida de Cristo."
+  },
+  "composed": "1574",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "louis-of-granada/adiciones-al-memorial",
+  "editions": {
+    "es-ES": {
+      "editor": "Justo Cuervo OP",
+      "year": 1907
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue04luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 4 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Text of the 1574 Adiciones.",
+      "description": "Prologue, the treatise on the love of God (22 chapters and the considerations in chapter XXII) and the Meditaciones muy devotas on Christ's life. The Filomena of St Bonaventure that Cuervo appends, his variants and tables are not imported. OCR of the University of Toronto scan, cleaned by script (running heads, page numbers and the editor's prologue removed; lost initial capitals restored from the corpus vocabulary), not proofread.",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo"
+      }
+    },
+    {
+      "id": "amor-de-dios",
+      "title": {
+        "es-ES": "Tratado del amor de Dios"
+      },
+      "children": [
+        {
+          "id": "t1-c1",
+          "title": {
+            "es-ES": "Tratado I, capítulo I"
+          }
+        },
+        {
+          "id": "t1-c2",
+          "title": {
+            "es-ES": "Tratado I, capítulo II"
+          }
+        },
+        {
+          "id": "t1-c3",
+          "title": {
+            "es-ES": "Tratado I, capítulo III"
+          }
+        },
+        {
+          "id": "t1-c4",
+          "title": {
+            "es-ES": "Tratado I, capítulo IV"
+          }
+        },
+        {
+          "id": "t1-c5",
+          "title": {
+            "es-ES": "Tratado I, capítulo V"
+          }
+        },
+        {
+          "id": "t1-c6",
+          "title": {
+            "es-ES": "Tratado I, capítulo VI"
+          }
+        },
+        {
+          "id": "t1-c7",
+          "title": {
+            "es-ES": "Tratado I, capítulo VII"
+          }
+        },
+        {
+          "id": "t1-c8",
+          "title": {
+            "es-ES": "Tratado I, capítulo VIII"
+          }
+        },
+        {
+          "id": "t1-c9",
+          "title": {
+            "es-ES": "Tratado I, capítulo IX"
+          }
+        },
+        {
+          "id": "t1-c10",
+          "title": {
+            "es-ES": "Tratado I, capítulo X"
+          }
+        },
+        {
+          "id": "t1-c11",
+          "title": {
+            "es-ES": "Tratado I, capítulo XI"
+          }
+        },
+        {
+          "id": "t1-c12",
+          "title": {
+            "es-ES": "Tratado I, capítulo XII"
+          }
+        },
+        {
+          "id": "t1-c13",
+          "title": {
+            "es-ES": "Tratado I, capítulo XIII"
+          }
+        },
+        {
+          "id": "t1-c14",
+          "title": {
+            "es-ES": "Tratado I, capítulo XIV"
+          }
+        },
+        {
+          "id": "t1-c15",
+          "title": {
+            "es-ES": "Tratado I, capítulo XV"
+          }
+        },
+        {
+          "id": "t1-c16",
+          "title": {
+            "es-ES": "Tratado I, capítulo XVI"
+          }
+        },
+        {
+          "id": "t1-c17",
+          "title": {
+            "es-ES": "Tratado I, capítulo XVIII"
+          }
+        },
+        {
+          "id": "t1-c18",
+          "title": {
+            "es-ES": "Tratado I, capítulo XIX"
+          }
+        },
+        {
+          "id": "t1-c19",
+          "title": {
+            "es-ES": "Tratado I, capítulo XX"
+          }
+        },
+        {
+          "id": "t1-c20",
+          "title": {
+            "es-ES": "Tratado I, capítulo XXI"
+          }
+        },
+        {
+          "id": "c22-preambulo",
+          "title": {
+            "es-ES": "Capítulo XXII. Preámbulo para las consideraciones siguientes"
+          }
+        },
+        {
+          "id": "c22-01",
+          "title": {
+            "es-ES": "Consideración primera, del beneficio de la creación. Del primer beneficio de la creación"
+          }
+        },
+        {
+          "id": "c22-02",
+          "title": {
+            "es-ES": "Consideración segunda, del beneficio de la conservación y gobernación. Del segundo beneficio de la gobernación y conservación de la vida corporal"
+          }
+        },
+        {
+          "id": "c22-03",
+          "title": {
+            "es-ES": "Consideración tercera, del beneficio de la encarnación y nacimiento de Cristo. Del beneficio inestimable de la incarnación y nascimiento de Nuestro Salvador, y de otros pasos de su vida sanctísima"
+          }
+        },
+        {
+          "id": "c22-04",
+          "title": {
+            "es-ES": "Consideración cuarta, del beneficio de la redención. Del beneficio inestimable de Nuestra redempción"
+          }
+        },
+        {
+          "id": "c22-05",
+          "title": {
+            "es-ES": "Consideración quinta, del beneficio del bautismo y de los otros sacramentos. Del beneficio del sancto baptismo y de los otros sacramentos, y señaladamente de la confesión y del sancto Sacramento del altar"
+          }
+        },
+        {
+          "id": "c22-06",
+          "title": {
+            "es-ES": "Consideración sexta, del beneficio del llamamiento y la justificación. Del sexto beneficio del llamamiento y justificación"
+          }
+        },
+        {
+          "id": "c22-07",
+          "title": {
+            "es-ES": "Consideración séptima, del beneficio de la conservación en el ser espiritual de la gracia. De la gracia"
+          }
+        },
+        {
+          "id": "c22-08",
+          "title": {
+            "es-ES": "Consideraciones de las perfecciones divinas: primera. Y de otras muchas razones y motivos que mueven al amor de Nuestro Señor"
+          }
+        },
+        {
+          "id": "c22-09",
+          "title": {
+            "es-ES": "Consideración segunda, de la hermosura de Dios. De la segunda causa del amor de Dios, qus es la grandeza de su hermosura"
+          }
+        },
+        {
+          "id": "c22-10",
+          "title": {
+            "es-ES": "Consideración tercera, del amor que Dios nos tiene. De otra causa del amor de Dios, que es la grandeza del amor que él nos tiene"
+          }
+        },
+        {
+          "id": "c22-11",
+          "title": {
+            "es-ES": "Consideración cuarta, de otra causa de amar a Dios: el parentesco. De otra causa que tenemos para amar á Dios, que es el paren- tesco espiritual que nuestras ánimas tienen con él"
+          }
+        },
+        {
+          "id": "c22-12",
+          "title": {
+            "es-ES": "Consideración sexta, de la semejanza que nuestra ánima tiene con Dios. De otra causa de amar á Nuestro Señor, qle es la manera de proporción y semejanza que Nuestra ánima tiene con él"
+          }
+        },
+        {
+          "id": "c22-13",
+          "title": {
+            "es-ES": "Por cuántos títulos el Salvador es todo para nosotros. Nuestro, y cómo esto fué figurado de muchas maneras en el testamento viejo"
+          }
+        },
+        {
+          "id": "c22-14",
+          "title": {
+            "es-ES": "Del Cántico de los Cantares"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vida-de-cristo",
+      "title": {
+        "es-ES": "Meditaciones muy devotas de la vida de Cristo"
+      },
+      "children": [
+        {
+          "id": "m-c1",
+          "title": {
+            "es-ES": "Meditaciones, capítulo I"
+          }
+        },
+        {
+          "id": "m-c2",
+          "title": {
+            "es-ES": "Meditaciones, capítulo II"
+          }
+        },
+        {
+          "id": "m-c3",
+          "title": {
+            "es-ES": "Meditaciones, capítulo III"
+          }
+        },
+        {
+          "id": "m-nacimiento",
+          "title": {
+            "es-ES": "Del nacimiento de Nuestro Salvador"
+          }
+        },
+        {
+          "id": "m-magos",
+          "title": {
+            "es-ES": "De la adoración de los Magos"
+          }
+        },
+        {
+          "id": "m-huida",
+          "title": {
+            "es-ES": "De la huida a Egipto"
+          }
+        },
+        {
+          "id": "m-trabajos",
+          "title": {
+            "es-ES": "De los trabajos y vida de Nuestro Salvador"
+          }
+        },
+        {
+          "id": "m-lavatorio",
+          "title": {
+            "es-ES": "Del lavatorio de los pies de los discípulos"
+          }
+        },
+        {
+          "id": "m-bernardo",
+          "title": {
+            "es-ES": "Consideración de san Bernardo"
+          }
+        },
+        {
+          "id": "m-pasion",
+          "title": {
+            "es-ES": "La historia de la sagrada pasión"
+          }
+        },
+        {
+          "id": "m-med1",
+          "title": {
+            "es-ES": "Meditación primera"
+          }
+        },
+        {
+          "id": "m-med2",
+          "title": {
+            "es-ES": "Meditación segunda"
+          }
+        },
+        {
+          "id": "m-espiritu",
+          "title": {
+            "es-ES": "La venida del Espíritu Santo"
+          }
+        }
+      ]
+    }
+  ]
+}
