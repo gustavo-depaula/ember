@@ -1,0 +1,141 @@
+{
+  "id": "benson-queens-tragedy",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Queen's Tragedy",
+    "pt-BR": "A Tragédia da Rainha"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's historical novel of 1906 on Mary Tudor: her reign, her marriage to Philip of Spain, the restoration of the Catholic faith and the burnings, and her sorrow.",
+    "pt-BR": "O romance histórico de Benson (1906) sobre Maria Tudor: seu reinado, seu casamento com Filipe de Espanha, a restauração da fé católica, as fogueiras e sua dor."
+  },
+  "composed": 1906,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/queens-tragedy",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Hutchinson, 1906)",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/queenstragedy00bensuoft",
+      "edition": "The Queen's Tragedy (London: Hutchinson, 1906), Internet Archive full-text OCR (queenstragedy00bensuoft).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1906, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "chapter-01",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        }
+      ]
+    }
+  ]
+}
