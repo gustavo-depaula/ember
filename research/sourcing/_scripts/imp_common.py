@@ -41,3 +41,20 @@ def write_book(d, book, chapters, raw=None, rawname=None, rawlang='la'):
 
 def gregory_author(la_sub=None):
     return {"la": "Gregorius Magnus, Papa (c. 540-604)", "en-US": "Gregory the Great, Pope (c. 540-604)", "pt-BR": "São Gregório Magno, Papa (c. 540-604)"}
+
+START = re.compile(r'^(:|\d+\.(\s|$)|(EZECH|IBID|VERS|Ibid|Vers)\b[^\n]{0,30}---)')
+def paras2(t):
+    """Paragraphs of wrapped verse-style wikitext: blank lines, ':' lines, 'N.' numbering and lemma lines start a new one."""
+    out = []; cur = []
+    def flush():
+        p = re.sub(r'\s+', ' ', ' '.join(cur)).strip()
+        if p: out.append(p)
+        cur.clear()
+    for line in t.split('\n'):
+        s = line.strip()
+        if not s:
+            flush(); continue
+        if START.match(s): flush()
+        cur.append(s.lstrip(':').strip())
+    flush()
+    return out

@@ -1,0 +1,196 @@
+{
+  "id": "gregory-great-pope-homilies-on-ezekiel",
+  "cover": "classic",
+  "name": {
+    "la": "Homiliae in Hiezechihelem prophetam",
+    "en-US": "Homilies on Ezekiel",
+    "pt-BR": "Homilias sobre Ezequiel"
+  },
+  "author": {
+    "la": "Gregorius Magnus, Papa (c. 540-604)",
+    "en-US": "Gregory the Great, Pope (c. 540-604)",
+    "pt-BR": "São Gregório Magno, Papa (c. 540-604)"
+  },
+  "description": {
+    "la": "Homiliae XXII in Hiezechihelem prophetam, duobus libris: in priore (593) visiones primae partis libri, in altero (593-594, Longobardis Romam obsidentibus) visio extrema de aedificio in monte.",
+    "en-US": "Twenty-two homilies on the prophet Ezekiel in two books, preached in Rome in 593 and revised in 601: Book I on the opening visions (the living creatures, the wheels, the watchman), Book II on the vision of the temple on the mountain, preached while the Lombards were besieging the city. Latin text of the Maurist edition (Migne, PL 76); no public-domain English translation is known.",
+    "pt-BR": "Vinte e duas homilias sobre o profeta Ezequiel, em dois livros, pregadas em Roma em 593 e revistas em 601: o Livro I sobre as primeiras visões (os seres vivos, as rodas, a sentinela), o Livro II sobre a visão do templo no monte, pregado enquanto os lombardos cercavam a cidade. Texto latino da edição beneditina (Migne, PL 76)."
+  },
+  "composed": "593-601",
+  "languages": [
+    "la"
+  ],
+  "work": "gregory-the-great/homiliae-in-hiezechihelem",
+  "editions": {
+    "la": {
+      "editor": "Maurist edition (Sainte-Marthe, 1705), as reprinted in Migne, PL 76 (1849)"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Homiliarum_in_Ezechielem_Prophetam",
+      "edition": "Book I (preface and homilies I-XII): Homiliarum in Ezechielem Prophetam on Latin Wikisource (from Documenta Catholica Omnia, PL 76).",
+      "description": "Wikitext removed, wrapped lines rejoined into paragraphs; verse lemmas set as their own paragraphs.",
+      "tier": "A",
+      "tierEvidence": "Text of a 6th-century work in the 1705 Maurist edition (Migne 1849): public domain."
+    },
+    {
+      "language": "la",
+      "url": "https://www.documentacatholicaomnia.eu/01p/0590-0604,_SS_Gregorius_I_Magnus,_Homiliarum_in_Ezechielem_Prophetam_Liber_Secundus,_LT.pdf",
+      "edition": "Book II (preface and homilies I-X): Documenta Catholica Omnia, Homiliarum in Ezechielem Prophetam Liber Secundus, LT text of PL 76 (Latin Wikisource has no Book II).",
+      "description": "PDF text layer: page numbers dropped, column-broken lines rejoined into paragraphs.",
+      "tier": "A",
+      "tierEvidence": "Same Maurist/Migne text; public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "b1-praefatio",
+      "title": {
+        "la": "Liber I, Praefatio"
+      }
+    },
+    {
+      "id": "b1-h01",
+      "title": {
+        "la": "Liber I, Homilia I"
+      }
+    },
+    {
+      "id": "b1-h02",
+      "title": {
+        "la": "Liber I, Homilia II"
+      }
+    },
+    {
+      "id": "b1-h03",
+      "title": {
+        "la": "Liber I, Homilia III"
+      }
+    },
+    {
+      "id": "b1-h04",
+      "title": {
+        "la": "Liber I, Homilia IV"
+      }
+    },
+    {
+      "id": "b1-h05",
+      "title": {
+        "la": "Liber I, Homilia V"
+      }
+    },
+    {
+      "id": "b1-h06",
+      "title": {
+        "la": "Liber I, Homilia VI"
+      }
+    },
+    {
+      "id": "b1-h07",
+      "title": {
+        "la": "Liber I, Homilia VII"
+      }
+    },
+    {
+      "id": "b1-h08",
+      "title": {
+        "la": "Liber I, Homilia VIII"
+      }
+    },
+    {
+      "id": "b1-h09",
+      "title": {
+        "la": "Liber I, Homilia IX"
+      }
+    },
+    {
+      "id": "b1-h10",
+      "title": {
+        "la": "Liber I, Homilia X"
+      }
+    },
+    {
+      "id": "b1-h11",
+      "title": {
+        "la": "Liber I, Homilia XI"
+      }
+    },
+    {
+      "id": "b1-h12",
+      "title": {
+        "la": "Liber I, Homilia XII"
+      }
+    },
+    {
+      "id": "b2-praefatio",
+      "title": {
+        "la": "Liber II, Praefatio"
+      }
+    },
+    {
+      "id": "b2-h01",
+      "title": {
+        "la": "Liber II, Homilia I"
+      }
+    },
+    {
+      "id": "b2-h02",
+      "title": {
+        "la": "Liber II, Homilia II"
+      }
+    },
+    {
+      "id": "b2-h03",
+      "title": {
+        "la": "Liber II, Homilia III"
+      }
+    },
+    {
+      "id": "b2-h04",
+      "title": {
+        "la": "Liber II, Homilia IV"
+      }
+    },
+    {
+      "id": "b2-h05",
+      "title": {
+        "la": "Liber II, Homilia V"
+      }
+    },
+    {
+      "id": "b2-h06",
+      "title": {
+        "la": "Liber II, Homilia VI"
+      }
+    },
+    {
+      "id": "b2-h07",
+      "title": {
+        "la": "Liber II, Homilia VII"
+      }
+    },
+    {
+      "id": "b2-h08",
+      "title": {
+        "la": "Liber II, Homilia VIII"
+      }
+    },
+    {
+      "id": "b2-h09",
+      "title": {
+        "la": "Liber II, Homilia IX"
+      }
+    },
+    {
+      "id": "b2-h10",
+      "title": {
+        "la": "Liber II, Homilia X"
+      }
+    }
+  ]
+}
