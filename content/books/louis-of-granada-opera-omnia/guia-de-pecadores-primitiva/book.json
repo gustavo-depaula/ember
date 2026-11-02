@@ -1,0 +1,294 @@
+{
+  "id": "granada-guia-primitiva",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Guía de pecadores (texto primitivo)",
+    "en-US": "The Sinner's Guide (first text)",
+    "pt-BR": "Guia de pecadores (texto primitivo)"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "es-ES": "Primera redacción de la Guía de pecadores de Fray Luis de Granada (Lisboa, 1556-1557): el libro primero de exhortación a la virtud, el libro segundo con las reglas de bien vivir, y la segunda parte sobre la oración, la confesión y la comunión. Distinta de la redacción definitiva de 1567.",
+    "en-US": "The first redaction of Fray Luis de Granada's Sinner's Guide (Lisbon 1556-1557): book one, the exhortation to virtue; book two, the rules of good living; and the second part on prayer, confession and communion. Distinct from the definitive text of 1567.",
+    "pt-BR": "Primeira redação da Guia de pecadores de Frei Luís de Granada (Lisboa, 1556-1557): o livro primeiro, de exortação à virtude; o segundo, com as regras do bem viver; e a segunda parte sobre a oração, a confissão e a comunhão."
+  },
+  "composed": "1556-1557",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "louis-of-granada/guia-de-pecadores-primitiva",
+  "editions": {
+    "es-ES": {
+      "editor": "Justo Cuervo OP",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue10luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 10 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Text of the 1556-1557 Lisbon editions.",
+      "description": "Both books of the first part and the second part of the original Guía; the Tratado de la oración y meditación of Peter of Alcántara and Hieronymus of Ferrara's treatise on the three vows that Cuervo prints in the same volume are not Granada's and are not imported. OCR of the University of Toronto scan, cleaned by script (running heads, page numbers and the editor's prologue removed; lost initial capitals restored from the corpus vocabulary), not proofread.",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lector",
+      "title": {
+        "es-ES": "Al lector"
+      }
+    },
+    {
+      "id": "l1",
+      "title": {
+        "es-ES": "Libro primero: exhortación a la virtud"
+      },
+      "children": [
+        {
+          "id": "l1-intro",
+          "title": {
+            "es-ES": "Libro primero: introducción"
+          }
+        },
+        {
+          "id": "l1-c1",
+          "title": {
+            "es-ES": "Capítulo 1"
+          }
+        },
+        {
+          "id": "l1-c2",
+          "title": {
+            "es-ES": "Capítulo 2"
+          }
+        },
+        {
+          "id": "l1-c4",
+          "title": {
+            "es-ES": "Capítulo 4"
+          }
+        },
+        {
+          "id": "l1-c5",
+          "title": {
+            "es-ES": "Capítulo 5"
+          }
+        },
+        {
+          "id": "l1-c6",
+          "title": {
+            "es-ES": "Capítulo 6"
+          }
+        },
+        {
+          "id": "l1-c7",
+          "title": {
+            "es-ES": "Capítulo 7"
+          }
+        },
+        {
+          "id": "l1-c8",
+          "title": {
+            "es-ES": "Capítulo 8"
+          }
+        },
+        {
+          "id": "l1-c9",
+          "title": {
+            "es-ES": "Capítulo 9"
+          }
+        },
+        {
+          "id": "l1-c10",
+          "title": {
+            "es-ES": "Capítulo 10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "title": {
+        "es-ES": "Libro segundo: reglas de bien vivir"
+      },
+      "children": [
+        {
+          "id": "l2-c1",
+          "title": {
+            "es-ES": "Capítulo 1"
+          }
+        },
+        {
+          "id": "l2-c2",
+          "title": {
+            "es-ES": "Capítulo 2"
+          }
+        },
+        {
+          "id": "l2-c3",
+          "title": {
+            "es-ES": "Capítulo 3"
+          }
+        },
+        {
+          "id": "l2-c4",
+          "title": {
+            "es-ES": "Capítulo 4"
+          }
+        },
+        {
+          "id": "l2-c5",
+          "title": {
+            "es-ES": "Capítulo 5"
+          }
+        },
+        {
+          "id": "l2-c6",
+          "title": {
+            "es-ES": "Capítulo 6"
+          }
+        },
+        {
+          "id": "l2-c7",
+          "title": {
+            "es-ES": "Capítulo 7"
+          }
+        },
+        {
+          "id": "l2-c8",
+          "title": {
+            "es-ES": "Capítulo 8"
+          }
+        },
+        {
+          "id": "l2-c9",
+          "title": {
+            "es-ES": "Capítulo 9"
+          }
+        },
+        {
+          "id": "l2-c10",
+          "title": {
+            "es-ES": "Capítulo 10"
+          }
+        },
+        {
+          "id": "l2-c11",
+          "title": {
+            "es-ES": "Capítulo 11"
+          }
+        },
+        {
+          "id": "l2-c12",
+          "title": {
+            "es-ES": "Capítulo 12"
+          }
+        },
+        {
+          "id": "l2-c13",
+          "title": {
+            "es-ES": "Capítulo 13"
+          }
+        },
+        {
+          "id": "l2-c14",
+          "title": {
+            "es-ES": "Capítulo 14"
+          }
+        },
+        {
+          "id": "l2-c15",
+          "title": {
+            "es-ES": "Capítulo 15"
+          }
+        },
+        {
+          "id": "l2-c16",
+          "title": {
+            "es-ES": "Capítulo 16"
+          }
+        },
+        {
+          "id": "l2-c17",
+          "title": {
+            "es-ES": "Capítulo 17"
+          }
+        },
+        {
+          "id": "l2-c18",
+          "title": {
+            "es-ES": "Capítulo 18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": {
+        "es-ES": "Segunda parte: oración, confesión y comunión (con el Vita Christi)"
+      },
+      "children": [
+        {
+          "id": "p2-intro",
+          "title": {
+            "es-ES": "Segunda parte: oración, confesión y comunión: introducción"
+          }
+        },
+        {
+          "id": "p2-c1",
+          "title": {
+            "es-ES": "Capítulo 1"
+          }
+        },
+        {
+          "id": "p2-c2",
+          "title": {
+            "es-ES": "Capítulo 2"
+          }
+        },
+        {
+          "id": "p2-c3",
+          "title": {
+            "es-ES": "Capítulo 3"
+          }
+        },
+        {
+          "id": "p2-c4",
+          "title": {
+            "es-ES": "Capítulo 4"
+          }
+        },
+        {
+          "id": "p2-c5",
+          "title": {
+            "es-ES": "Capítulo 5"
+          }
+        },
+        {
+          "id": "p2-c6",
+          "title": {
+            "es-ES": "Capítulo 6"
+          }
+        },
+        {
+          "id": "p2-c7",
+          "title": {
+            "es-ES": "Capítulo 7"
+          }
+        },
+        {
+          "id": "p2-c8",
+          "title": {
+            "es-ES": "Capítulo 8"
+          }
+        }
+      ]
+    }
+  ]
+}
